@@ -1,1686 +1,1656 @@
 {
-  "date": "2026-10-06",
-  "section": "games",
-  "cards": [
-    {
-      "id": "unity-agent-concept-art-to-ui-menu",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
-      "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
-      "mini_headline": "콘셉트 아트를 Unity 메뉴로",
-      "tool": "Games",
-      "source": "Unity (YouTube)",
-      "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "IYvRShclEL8"
-          },
-          {
-            "t": "p",
-            "x": "터미널을 떠나지 않고도 콘셉트 아트가 실제로 돌아가는 게임 UI가 된다."
-          },
-          {
-            "t": "p",
-            "x": "콘셉트 아트와 짧은 브리프만 건네면 에이전트가 Unity CLI로 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
-          },
-          {
-            "t": "p",
-            "x": "테스트도 에이전트가 직접 한다. Play mode UI 테스트를 돌리고 Game view 스크린샷으로 바뀐 부분을 확인하며 작업을 되풀이한다."
-          },
-          {
-            "t": "p",
-            "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "An agent turns concept art\ninto a Unity main menu",
-          "body": "Given concept art and a short brief, an agent builds a working UI Toolkit main menu through the Unity CLI.",
-          "mini_headline": "Concept art to Unity menu",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "Turn concept art into a functional game UI without leaving the terminal."
-              },
-              {
-                "t": "p",
-                "x": "Give an agent your concept art and a short brief, and watch it build a working UI Toolkit main menu through the Unity CLI."
-              },
-              {
-                "t": "p",
-                "x": "The agent tests its own work too: running Play mode UI tests and grabbing Game view screenshots so it can check its changes and keep iterating."
-              },
-              {
-                "t": "p",
-                "x": "You steer it, and it does the building."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
-          "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
-          "mini_headline": "콘셉트 아트를 Unity 메뉴로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "터미널을 떠나지 않고도 콘셉트 아트가 실제로 돌아가는 게임 UI가 된다."
-              },
-              {
-                "t": "p",
-                "x": "콘셉트 아트와 짧은 브리프만 건네면 에이전트가 Unity CLI로 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
-              },
-              {
-                "t": "p",
-                "x": "테스트도 에이전트가 직접 한다. Play mode UI 테스트를 돌리고 Game view 스크린샷으로 바뀐 부분을 확인하며 작업을 되풀이한다."
-              },
-              {
-                "t": "p",
-                "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "エージェントが設定画を\nUnityメインメニューに",
-          "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
-          "mini_headline": "コンセプトアートをUnityメニューに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
-              },
-              {
-                "t": "p",
-                "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能体把概念图\n变成Unity主菜单",
-          "body": "智能体根据概念图和简短说明，通过Unity CLI搭建可用的UI Toolkit主菜单。",
-          "mini_headline": "概念图变Unity菜单",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "无需离开终端，就能把概念图变成可用的游戏UI。"
-              },
-              {
-                "t": "p",
-                "x": "把概念图和一份简短说明交给智能体，就能看着它通过Unity CLI搭建出可运行的UI Toolkit主菜单。"
-              },
-              {
-                "t": "p",
-                "x": "智能体还会自行测试：运行Play mode UI测试、截取Game view截图，以便检查改动并持续迭代。"
-              },
-              {
-                "t": "p",
-                "x": "你来掌舵，它来动手。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un agente convierte arte\nconceptual en un menú de Unity",
-          "body": "Un agente crea un menú principal en UI Toolkit con la Unity CLI a partir de arte conceptual y un breve encargo.",
-          "mini_headline": "Del arte conceptual a Unity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "Convierte arte conceptual en una UI de juego funcional sin salir de la terminal."
-              },
-              {
-                "t": "p",
-                "x": "Entrega a un agente tu arte conceptual y un breve encargo, y obsérvalo construir un menú principal funcional con UI Toolkit a través de la Unity CLI."
-              },
-              {
-                "t": "p",
-                "x": "El agente también prueba su propio trabajo: ejecuta pruebas de UI en Play mode y toma capturas de Game view para revisar sus cambios y seguir iterando."
-              },
-              {
-                "t": "p",
-                "x": "Tú lo diriges y él se encarga de construir."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "에이전트가 콘셉트 아트를\nUnity 메인 메뉴로",
-          "body": "에이전트가 콘셉트 아트로 Unity CLI에서 UI Toolkit 메뉴를 만든다.",
-          "mini_headline": "콘셉트 아트를 Unity 메뉴로",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "터미널을 벗어나지 않고 콘셉트 아트를 실제로 작동하는 게임 UI로 바꾼다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트에게 콘셉트 아트와 짧은 브리프를 주면, Unity CLI를 거쳐 작동하는 UI Toolkit 메인 메뉴를 만들어 낸다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트는 자기 작업도 직접 테스트한다. Play mode UI 테스트를 돌리고 Game view 스크린샷을 찍어 변경 사항을 확인하며 반복 작업을 이어 간다."
-              },
-              {
-                "t": "p",
-                "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "エージェントが設定画を\nUnityメインメニューに",
-          "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
-          "mini_headline": "コンセプトアートをUnityメニューに",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
-              },
-              {
-                "t": "p",
-                "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "智能体把概念图\n变成Unity主菜单",
-          "body": "智能体根据概念图和简短说明，通过Unity CLI搭建可用的UI Toolkit主菜单。",
-          "mini_headline": "概念图变Unity菜单",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "无需离开终端，就能把概念图变成可用的游戏UI。"
-              },
-              {
-                "t": "p",
-                "x": "把概念图和一份简短说明交给智能体，就能看着它通过Unity CLI搭建出可运行的UI Toolkit主菜单。"
-              },
-              {
-                "t": "p",
-                "x": "智能体还会自行测试：运行Play mode UI测试、截取Game view截图，以便检查改动并持续迭代。"
-              },
-              {
-                "t": "p",
-                "x": "你来掌舵，它来动手。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un agente convierte arte\nconceptual en un menú de Unity",
-          "body": "Un agente crea un menú principal en UI Toolkit con la Unity CLI a partir de arte conceptual y un breve encargo.",
-          "mini_headline": "Del arte conceptual a Unity",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "IYvRShclEL8"
-              },
-              {
-                "t": "p",
-                "x": "Convierte arte conceptual en una UI de juego funcional sin salir de la terminal."
-              },
-              {
-                "t": "p",
-                "x": "Entrega a un agente tu arte conceptual y un breve encargo, y obsérvalo construir un menú principal funcional con UI Toolkit a través de la Unity CLI."
-              },
-              {
-                "t": "p",
-                "x": "El agente también prueba su propio trabajo: ejecuta pruebas de UI en Play mode y toma capturas de Game view para revisar sus cambios y seguir iterando."
-              },
-              {
-                "t": "p",
-                "x": "Tú lo diriges y él se encarga de construir."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "games",
+ "cards": [
+  {
+   "id": "games-ps-ai-boss",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
+   "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
+   "mini_headline": "보스 행동을 다시 쓰는 AI",
+   "tool": "Games",
+   "source": "Wccftech",
+   "url": "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+      "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
+     },
+     {
+      "t": "p",
+      "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 다루는 내용은 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”이다."
+     },
+     {
+      "t": "p",
+      "x": "시스템은 네 단계로 돌아간다. NPC를 만났을 때의 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정한 NPC 콘텐츠를 받아 게임 콘텐츠를 고친다. 특허는 특정 모델 아키텍처를 못 박지 않았다. 그래서 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "Wccftech는 소울라이크가 가장 큰 덕을 보리라 본다. 싱글플레이 게임의 적은 대개 정해진 패턴을 따르니 플레이어가 익혀서 공략할 수 있다. AI가 적의 행동을 다시 쓰면 얘기가 달라진다. 적은 플레이어가 얼마나 공격적인지, 혹은 방어적인지에 맞춰 적응하고 페이즈가 여럿인 보스는 격투 게임의 역전 메커니즘처럼 몰리면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
+     },
+     {
+      "t": "p",
+      "x": "게임이 너무 어려워지지 않게 조율은 해야겠지만, 적의 체력이나 공격력만 올리는 것보다 크면서도 공정한 도전을 줄 수 있다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "PlayStation patent lets AI\nrewrite enemy behavior live",
+     "body": "A new PlayStation patent describes AI that rewrites NPC behavior on the fly, which could transform soulslike games.",
+     "mini_headline": "AI that rewrites boss behavior",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "A new PlayStation patent outlines a system using AI to rewrite enemy behavior on the fly"
+       },
+       {
+        "t": "p",
+        "x": "A new Sony Interactive Entertainment patent, discovered by Patentlyze and published on October 1, covers \"improving video game systems using an artificial intelligence-adapted non-player character.\""
+       },
+       {
+        "t": "p",
+        "x": "The system works in four steps: it collects player data on encounters with an NPC along with game data, feeds that into a machine learning model, gets back NPC content that adjusts behavior, dialogue and appearance, and then modifies the game content. The patent doesn't list a specific model architecture, so it could work across different AI systems and be used by developers beyond PlayStation's own studios."
+       },
+       {
+        "t": "p",
+        "x": "Wccftech argues soulslikes would benefit most. Enemies in single-player games normally stick to programmed patterns that can be learned and exploited; with AI rewriting their behavior, they could adapt to how aggressive or defensive the player is, and multi-phase bosses could even enter their second phase earlier under pressure, like fighting-game comeback mechanics."
+       },
+       {
+        "t": "p",
+        "x": "Such a system would need tweaking so games don't become too difficult, but it could offer a greater yet fairer challenge than simply turning up enemy health or damage."
+       }
+      ]
+     }
     },
-    {
-      "id": "jagex-pulls-runescape-genai-trailer",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
-      "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
-      "mini_headline": "Jagex, AI 예고편 철회",
-      "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
-          },
-          {
-            "t": "p",
-            "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일을 두고 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠처럼 GenAI를 폭넓게 쓴 흔적을 여럿 찾아냈다."
-          },
-          {
-            "t": "p",
-            "x": "Jagex에 따르면 이 예고편은 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 만들었다. 회사는 조사하는 동안 홍보물을 내렸다."
-          },
-          {
-            "t": "p",
-            "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 한 번은 100 Thieves와의 협업에서였다."
-          },
-          {
-            "t": "p",
-            "x": "Jagex는 검토 절차를 전면 손보고 Dragon Slayer II의 이야기는 커뮤니티 창작자들에게 맡기겠다고 했다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"는 말도 덧붙였다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Jagex pulls RuneScape trailer\nover generative AI use",
-          "body": "Jagex pulled a RuneScape trailer made by an external partner, saying it exposed an issue with its own processes.",
-          "mini_headline": "Jagex pulls AI trailer",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2 trailer. Image credit: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex has responded to the use of generative AI in a trailer for RuneScape 3's Dragon Slayer 2 quest shown during RuneFest. Reddit users spotted extensive GenAI use, including a six-fingered hand and medieval boots resembling Air Jordans."
-              },
-              {
-                "t": "p",
-                "x": "Jagex said the trailer was produced by \"a trusted external partner who had explicitly confirmed GenAI would not be used,\" and has removed the promotional material as it investigates."
-              },
-              {
-                "t": "p",
-                "x": "\"This is the second time in quick succession that concerns about generative AI have arisen through partners we trusted, and for us that highlights an issue with our own processes which we must address.\" The other case involved a collaboration with 100 Thieves."
-              },
-              {
-                "t": "p",
-                "x": "Jagex says it is overhauling its review processes and will commission creators from the community to tell the story of Dragon Slayer II. \"We don't use GenAI to create our games, artwork or creative assets,\" it said."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
-          "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
-          "mini_headline": "Jagex, AI 예고편 철회",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일을 두고 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠처럼 GenAI를 폭넓게 쓴 흔적을 여럿 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "Jagex에 따르면 이 예고편은 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 만들었다. 회사는 조사하는 동안 홍보물을 내렸다."
-              },
-              {
-                "t": "p",
-                "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 한 번은 100 Thieves와의 협업에서였다."
-              },
-              {
-                "t": "p",
-                "x": "Jagex는 검토 절차를 전면 손보고 Dragon Slayer II의 이야기는 커뮤니티 창작자들에게 맡기겠다고 했다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"는 말도 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Jagex、生成AI使用で\nRuneScape予告を撤回",
-          "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
-          "mini_headline": "JagexがAI予告編を撤回",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2の予告編。画像提供: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagexは、RuneFestで公開されたRuneScape 3のクエスト「Dragon Slayer 2」の予告編に生成AIが使われていた件について見解を示した。Redditユーザーは、指が六本ある手やAir Jordansに似た中世のブーツなど、GenAIが多用された痕跡を見つけていた。"
-              },
-              {
-                "t": "p",
-                "x": "Jagexによれば、予告編は「GenAIを使わないと明確に確認していた、信頼できる外部パートナー」が制作したもので、調査を進める間、宣伝素材を取り下げたという。"
-              },
-              {
-                "t": "p",
-                "x": "「信頼していたパートナーを通じて生成AIへの懸念が生じたのは、短期間でこれが二度目だ。我々にとって、それは自らの手順に対処すべき問題があることを示している」。もう一件は100 Thievesとのコラボレーションだった。"
-              },
-              {
-                "t": "p",
-                "x": "Jagexはレビュー手順を全面的に見直し、Dragon Slayer IIの物語を伝える作品をコミュニティのクリエイターに依頼するとしている。「当社はゲームやアートワーク、クリエイティブアセットの制作にGenAIを使っていない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Jagex因生成式AI\n撤下RuneScape预告",
-          "body": "Jagex撤下外部合作方制作的RuneScape预告片，称这暴露了自身流程的问题。",
-          "mini_headline": "Jagex撤下AI预告片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2预告片。图片来源：Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex就RuneFest期间发布的RuneScape 3任务Dragon Slayer 2预告片使用生成式AI一事作出回应。Reddit用户发现片中大量使用GenAI，包括一只六指的手，以及形似Air Jordans的中世纪靴子。"
-              },
-              {
-                "t": "p",
-                "x": "Jagex表示，该预告片由\"一家明确承诺不会使用GenAI、值得信赖的外部合作方\"制作，并已在调查期间撤下这份宣传素材。"
-              },
-              {
-                "t": "p",
-                "x": "\"短时间内这已是第二次因我们信任的合作方而引发对生成式AI的担忧，这说明我们自身的流程存在必须解决的问题。\"另一起事件涉及与100 Thieves的合作。"
-              },
-              {
-                "t": "p",
-                "x": "Jagex表示正在全面改革审核流程，并将委托社区创作者来讲述Dragon Slayer II的故事。\"我们不使用GenAI制作游戏、美术作品或创意素材，\"该公司表示。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jagex retira un tráiler de\nRuneScape por la AI generativa",
-          "body": "Jagex retiró un tráiler de RuneScape hecho por un socio externo y dijo que reveló un problema en sus propios procesos.",
-          "mini_headline": "Jagex retira el tráiler con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Tráiler de RuneScape Dragon Slayer 2. Imagen: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex ha respondido al uso de AI generativa en un tráiler de la misión Dragon Slayer 2 de RuneScape 3 mostrado durante RuneFest. Usuarios de Reddit detectaron un uso extenso de GenAI, incluida una mano de seis dedos y unas botas medievales parecidas a unas Air Jordans."
-              },
-              {
-                "t": "p",
-                "x": "Jagex afirmó que el tráiler fue producido por \"un socio externo de confianza que había confirmado explícitamente que no se usaría GenAI\", y ha retirado el material promocional mientras investiga."
-              },
-              {
-                "t": "p",
-                "x": "\"Es la segunda vez en poco tiempo que surgen inquietudes sobre la AI generativa a través de socios en los que confiábamos, y para nosotros eso pone de relieve un problema en nuestros propios procesos que debemos resolver\". El otro caso involucró una colaboración con 100 Thieves."
-              },
-              {
-                "t": "p",
-                "x": "Jagex dice que está renovando por completo sus procesos de revisión y que encargará a creadores de la comunidad contar la historia de Dragon Slayer II. \"No usamos GenAI para crear nuestros juegos, nuestro arte ni nuestros recursos creativos\", afirmó."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 쓴 RuneScape\n예고편, Jagex가 내려",
-          "body": "Jagex는 외부 제작 RuneScape 예고편을 내리고 내부 절차 문제를 짚었다.",
-          "mini_headline": "Jagex, AI 예고편 철회",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2 예고편. 이미지 출처: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex가 RuneFest에서 공개한 RuneScape 3의 Dragon Slayer 2 퀘스트 예고편에 생성형 AI가 쓰인 일에 대해 입장을 밝혔다. Reddit 이용자들은 손가락이 여섯 개인 손, Air Jordans를 닮은 중세 부츠 등 GenAI를 폭넓게 쓴 흔적을 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "Jagex는 이 예고편을 \"GenAI를 쓰지 않겠다고 명시적으로 확인한, 신뢰하는 외부 파트너\"가 제작했다며, 조사를 진행하는 동안 홍보물을 내렸다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "\"신뢰하던 파트너를 통해 생성형 AI 우려가 불거진 것은 짧은 기간에 벌써 두 번째이며, 이는 우리가 바로잡아야 할 자체 절차의 문제를 드러낸다.\" 다른 사례는 100 Thieves와의 협업이었다."
-              },
-              {
-                "t": "p",
-                "x": "Jagex는 검토 절차를 전면 개편하고, 커뮤니티 창작자들에게 Dragon Slayer II의 이야기를 맡기겠다고 밝혔다. \"우리는 게임, 아트워크, 크리에이티브 에셋을 만드는 데 GenAI를 쓰지 않는다\"고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Jagex、生成AI使用で\nRuneScape予告を撤回",
-          "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
-          "mini_headline": "JagexがAI予告編を撤回",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2の予告編。画像提供: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagexは、RuneFestで公開されたRuneScape 3のクエスト「Dragon Slayer 2」の予告編に生成AIが使われていた件について見解を示した。Redditユーザーは、指が六本ある手やAir Jordansに似た中世のブーツなど、GenAIが多用された痕跡を見つけていた。"
-              },
-              {
-                "t": "p",
-                "x": "Jagexによれば、予告編は「GenAIを使わないと明確に確認していた、信頼できる外部パートナー」が制作したもので、調査を進める間、宣伝素材を取り下げたという。"
-              },
-              {
-                "t": "p",
-                "x": "「信頼していたパートナーを通じて生成AIへの懸念が生じたのは、短期間でこれが二度目だ。我々にとって、それは自らの手順に対処すべき問題があることを示している」。もう一件は100 Thievesとのコラボレーションだった。"
-              },
-              {
-                "t": "p",
-                "x": "Jagexはレビュー手順を全面的に見直し、Dragon Slayer IIの物語を伝える作品をコミュニティのクリエイターに依頼するとしている。「当社はゲームやアートワーク、クリエイティブアセットの制作にGenAIを使っていない」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Jagex因生成式AI\n撤下RuneScape预告",
-          "body": "Jagex撤下外部合作方制作的RuneScape预告片，称这暴露了自身流程的问题。",
-          "mini_headline": "Jagex撤下AI预告片",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "RuneScape Dragon Slayer 2预告片。图片来源：Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex就RuneFest期间发布的RuneScape 3任务Dragon Slayer 2预告片使用生成式AI一事作出回应。Reddit用户发现片中大量使用GenAI，包括一只六指的手，以及形似Air Jordans的中世纪靴子。"
-              },
-              {
-                "t": "p",
-                "x": "Jagex表示，该预告片由\"一家明确承诺不会使用GenAI、值得信赖的外部合作方\"制作，并已在调查期间撤下这份宣传素材。"
-              },
-              {
-                "t": "p",
-                "x": "\"短时间内这已是第二次因我们信任的合作方而引发对生成式AI的担忧，这说明我们自身的流程存在必须解决的问题。\"另一起事件涉及与100 Thieves的合作。"
-              },
-              {
-                "t": "p",
-                "x": "Jagex表示正在全面改革审核流程，并将委托社区创作者来讲述Dragon Slayer II的故事。\"我们不使用GenAI制作游戏、美术作品或创意素材，\"该公司表示。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jagex retira un tráiler de\nRuneScape por la AI generativa",
-          "body": "Jagex retiró un tráiler de RuneScape hecho por un socio externo y dijo que reveló un problema en sus propios procesos.",
-          "mini_headline": "Jagex retira el tráiler con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "Tráiler de RuneScape Dragon Slayer 2. Imagen: Jagex"
-              },
-              {
-                "t": "p",
-                "x": "Jagex ha respondido al uso de AI generativa en un tráiler de la misión Dragon Slayer 2 de RuneScape 3 mostrado durante RuneFest. Usuarios de Reddit detectaron un uso extenso de GenAI, incluida una mano de seis dedos y unas botas medievales parecidas a unas Air Jordans."
-              },
-              {
-                "t": "p",
-                "x": "Jagex afirmó que el tráiler fue producido por \"un socio externo de confianza que había confirmado explícitamente que no se usaría GenAI\", y ha retirado el material promocional mientras investiga."
-              },
-              {
-                "t": "p",
-                "x": "\"Es la segunda vez en poco tiempo que surgen inquietudes sobre la AI generativa a través de socios en los que confiábamos, y para nosotros eso pone de relieve un problema en nuestros propios procesos que debemos resolver\". El otro caso involucró una colaboración con 100 Thieves."
-              },
-              {
-                "t": "p",
-                "x": "Jagex dice que está renovando por completo sus procesos de revisión y que encargará a creadores de la comunidad contar la historia de Dragon Slayer II. \"No usamos GenAI para crear nuestros juegos, nuestro arte ni nuestros recursos creativos\", afirmó."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
+     "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
+     "mini_headline": "보스 행동을 다시 쓰는 AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 다루는 내용은 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”이다."
+       },
+       {
+        "t": "p",
+        "x": "시스템은 네 단계로 돌아간다. NPC를 만났을 때의 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정한 NPC 콘텐츠를 받아 게임 콘텐츠를 고친다. 특허는 특정 모델 아키텍처를 못 박지 않았다. 그래서 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "Wccftech는 소울라이크가 가장 큰 덕을 보리라 본다. 싱글플레이 게임의 적은 대개 정해진 패턴을 따르니 플레이어가 익혀서 공략할 수 있다. AI가 적의 행동을 다시 쓰면 얘기가 달라진다. 적은 플레이어가 얼마나 공격적인지, 혹은 방어적인지에 맞춰 적응하고 페이즈가 여럿인 보스는 격투 게임의 역전 메커니즘처럼 몰리면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
+       },
+       {
+        "t": "p",
+        "x": "게임이 너무 어려워지지 않게 조율은 해야겠지만, 적의 체력이나 공격력만 올리는 것보다 크면서도 공정한 도전을 줄 수 있다."
+       }
+      ]
+     }
     },
-    {
-      "id": "fortnite-replaces-gemini-watermark-art",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
-      "body": "Google Gemini AI 워터마크가 드러나자 Fortnite가 아트를 바꿨다.",
-      "mini_headline": "Fortnite, Gemini 아트 교체",
-      "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-            "cap": "Fortnite"
-          },
-          {
-            "t": "p",
-            "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 바꿨다. 원본에 Google Gemini AI 워터마크가 있다는 걸 팬들이 알아챈 뒤였다."
-          },
-          {
-            "t": "p",
-            "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했다. 그 곡 아트워크 오른쪽 아래 구석에 Gemini 워터마크가 박혀 있었다. 지난 주말 이 사실이 퍼지자 소셜 미디어와 Reddit이 한동안 술렁였다."
-          },
-          {
-            "t": "p",
-            "x": "지금 아트워크는 워터마크 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고 Epic은 그걸 그대로 게임에 옮겼을 뿐이다. Spotify에서도 같은 표시가 보인다."
-          },
-          {
-            "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-            "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
-          },
-          {
-            "t": "p",
-            "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 말이 많은 주제다. IGN은 이번 교체를 두고, 눈에 띄는 AI 요소가 담긴 아트워크를 Epic이 게임에 내걸고 싶어 하지 않는다는 신호로 읽는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Fortnite replaces art that\ncarried a Gemini watermark",
-          "body": "Fortnite quietly replaced in-game artwork after fans spotted a Google Gemini AI watermark in the original.",
-          "mini_headline": "Fortnite swaps Gemini art",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark."
-              },
-              {
-                "t": "p",
-                "x": "Epic Games added the music track \"Meow\" by Ironmouse, Sleeping Forest & HalaCG to Fortnite last month, with the Gemini watermark in the track artwork's bottom right corner. Its wider discovery last weekend sparked a minor kerfuffle on social media and Reddit."
-              },
-              {
-                "t": "p",
-                "x": "The artwork has now been replaced with a version with no watermark. But the Gemini mark was present in the track's original art, which Epic simply incorporated in-game; it also appears on Spotify."
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "The original \"Meow\" track art (left) as seen in Fortnite, and its replacement (right). Image credit: Ironmouse/Epic Games."
-              },
-              {
-                "t": "p",
-                "x": "AI-generated art is a contentious subject for Fortnite fans. IGN reads the swap as a sign Epic does not want to openly show artwork with obvious AI elements in the game."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
-          "body": "Google Gemini AI 워터마크가 드러나자 Fortnite가 아트를 바꿨다.",
-          "mini_headline": "Fortnite, Gemini 아트 교체",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 바꿨다. 원본에 Google Gemini AI 워터마크가 있다는 걸 팬들이 알아챈 뒤였다."
-              },
-              {
-                "t": "p",
-                "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했다. 그 곡 아트워크 오른쪽 아래 구석에 Gemini 워터마크가 박혀 있었다. 지난 주말 이 사실이 퍼지자 소셜 미디어와 Reddit이 한동안 술렁였다."
-              },
-              {
-                "t": "p",
-                "x": "지금 아트워크는 워터마크 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고 Epic은 그걸 그대로 게임에 옮겼을 뿐이다. Spotify에서도 같은 표시가 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
-              },
-              {
-                "t": "p",
-                "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 말이 많은 주제다. IGN은 이번 교체를 두고, 눈에 띄는 AI 요소가 담긴 아트워크를 Epic이 게임에 내걸고 싶어 하지 않는다는 신호로 읽는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gemini透かし入りの絵\nFortniteが差し替え",
-          "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
-          "mini_headline": "FortniteがGeminiアートを差し替え",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortniteが、ゲーム内（in-game）のアートワークをひっそりと差し替えた。元のバージョンにGoogle Gemini AIの透かしが入っていることにファンが気づいたためだ。"
-              },
-              {
-                "t": "p",
-                "x": "Epic Gamesは先月、Ironmouse, Sleeping Forest & HalaCGによる楽曲「Meow」をFortniteに追加したが、その楽曲アートワークの右下隅にGeminiの透かしがあった。先週末にこれが広く知られると、ソーシャルメディアやRedditでちょっとした騒ぎになった。"
-              },
-              {
-                "t": "p",
-                "x": "アートワークは現在、透かしのないバージョンに差し替えられている。ただし、Geminiのマークは楽曲のオリジナルアートにもともと入っており、Epicはそれをそのままゲームに取り込んだにすぎない。同じマークはSpotifyでも確認できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite内で表示されていた元の「Meow」のトラックアート（左）と差し替え後（右）。画像提供: Ironmouse/Epic Games。"
-              },
-              {
-                "t": "p",
-                "x": "AI生成アート（AI-generated art）は、Fortniteファンにとって議論を呼ぶテーマだ。IGNは今回の差し替えを、明らかなAI要素を含むアートワークをEpicがゲーム内で公然と見せたくないことの表れとみている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fortnite替换了\n带Gemini水印的美术",
-          "body": "粉丝发现原图带Google Gemini AI水印，Fortnite悄悄替换了游戏内美术。",
-          "mini_headline": "Fortnite替换Gemini美术",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "粉丝发现Fortnite一幅游戏内（in-game）美术的原版带有Google Gemini AI水印后，Fortnite悄悄将其替换。"
-              },
-              {
-                "t": "p",
-                "x": "Epic Games上个月在Fortnite中加入了Ironmouse, Sleeping Forest & HalaCG的歌曲\"Meow\"，其曲目封面右下角带有Gemini水印。上周末此事被更多人发现，在社交媒体和Reddit上引发了一场小风波。"
-              },
-              {
-                "t": "p",
-                "x": "这幅美术现已换成没有水印的版本。不过，Gemini标记原本就出现在该曲目的原始封面中，Epic只是将其直接放进了游戏；Spotify上的封面同样带有该标记。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite中原版\"Meow\"曲目封面（左）与替换后的版本（右）。图片来源：Ironmouse/Epic Games。"
-              },
-              {
-                "t": "p",
-                "x": "AI生成美术（AI-generated art）在Fortnite玩家中颇具争议。IGN认为，此次替换表明Epic不希望在游戏中公开展示带有明显AI元素的美术作品。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fortnite reemplaza un arte\ncon marca de agua de Gemini",
-          "body": "Fortnite cambió en silencio un arte in-game cuando los fans hallaron una marca de agua de Google Gemini AI.",
-          "mini_headline": "Fortnite cambia el arte de Gemini",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortnite ha reemplazado discretamente una ilustración in-game después de que los fans descubrieran que su versión original contenía una marca de agua de Google Gemini AI."
-              },
-              {
-                "t": "p",
-                "x": "Epic Games añadió el mes pasado a Fortnite el tema musical \"Meow\", de Ironmouse, Sleeping Forest & HalaCG, con la marca de agua de Gemini en la esquina inferior derecha de su portada. Su difusión el pasado fin de semana provocó un pequeño revuelo en redes sociales y Reddit."
-              },
-              {
-                "t": "p",
-                "x": "La ilustración ya se ha sustituido por una versión sin marca de agua. Sin embargo, la marca de Gemini estaba en la portada original del tema, que Epic simplemente incorporó al juego; también aparece en Spotify."
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "La portada original de \"Meow\" (izquierda) tal como se veía en Fortnite, y su sustituta (derecha). Imagen: Ironmouse/Epic Games."
-              },
-              {
-                "t": "p",
-                "x": "El arte generado por AI (AI-generated) es un tema polémico entre los fans de Fortnite. IGN interpreta el cambio como una señal de que Epic no quiere mostrar abiertamente en el juego ilustraciones con elementos evidentes de AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Gemini 워터마크 찍힌\nFortnite 아트 교체",
-          "body": "Google Gemini AI 워터마크가 발견되자 Fortnite가 아트를 바꿨다.",
-          "mini_headline": "Fortnite, Gemini 아트 교체",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortnite가 게임 속(in-game) 아트워크 하나를 조용히 교체했다. 원본에 Google Gemini AI 워터마크가 들어 있다는 사실을 팬들이 알아챈 뒤였다."
-              },
-              {
-                "t": "p",
-                "x": "Epic Games는 지난달 Ironmouse, Sleeping Forest & HalaCG의 곡 \"Meow\"를 Fortnite에 추가했는데, 이 곡 아트워크의 오른쪽 아래 구석에 Gemini 워터마크가 있었다. 지난 주말 이 사실이 널리 알려지면서 소셜 미디어와 Reddit에서 작은 소동이 일었다."
-              },
-              {
-                "t": "p",
-                "x": "현재 아트워크는 워터마크가 없는 버전으로 바뀌었다. 다만 Gemini 표시는 곡의 원래 아트에 이미 들어 있었고, Epic은 이를 그대로 게임에 넣었을 뿐이다. 같은 표시는 Spotify에서도 볼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite에서 보이던 원래 \"Meow\" 트랙 아트(왼쪽)와 교체된 버전(오른쪽). 이미지 출처: Ironmouse/Epic Games."
-              },
-              {
-                "t": "p",
-                "x": "AI 생성 아트(AI-generated art)는 Fortnite 팬들 사이에서 논쟁적인 주제다. IGN은 이번 교체를 Epic이 뚜렷한 AI 요소가 담긴 아트워크를 게임에서 드러내 보이고 싶어 하지 않는다는 신호로 읽는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Gemini透かし入りの絵\nFortniteが差し替え",
-          "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
-          "mini_headline": "FortniteがGeminiアートを差し替え",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortniteが、ゲーム内（in-game）のアートワークをひっそりと差し替えた。元のバージョンにGoogle Gemini AIの透かしが入っていることにファンが気づいたためだ。"
-              },
-              {
-                "t": "p",
-                "x": "Epic Gamesは先月、Ironmouse, Sleeping Forest & HalaCGによる楽曲「Meow」をFortniteに追加したが、その楽曲アートワークの右下隅にGeminiの透かしがあった。先週末にこれが広く知られると、ソーシャルメディアやRedditでちょっとした騒ぎになった。"
-              },
-              {
-                "t": "p",
-                "x": "アートワークは現在、透かしのないバージョンに差し替えられている。ただし、Geminiのマークは楽曲のオリジナルアートにもともと入っており、Epicはそれをそのままゲームに取り込んだにすぎない。同じマークはSpotifyでも確認できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite内で表示されていた元の「Meow」のトラックアート（左）と差し替え後（右）。画像提供: Ironmouse/Epic Games。"
-              },
-              {
-                "t": "p",
-                "x": "AI生成アート（AI-generated art）は、Fortniteファンにとって議論を呼ぶテーマだ。IGNは今回の差し替えを、明らかなAI要素を含むアートワークをEpicがゲーム内で公然と見せたくないことの表れとみている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Fortnite替换了\n带Gemini水印的美术",
-          "body": "粉丝发现原图带Google Gemini AI水印，Fortnite悄悄替换了游戏内美术。",
-          "mini_headline": "Fortnite替换Gemini美术",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "粉丝发现Fortnite一幅游戏内（in-game）美术的原版带有Google Gemini AI水印后，Fortnite悄悄将其替换。"
-              },
-              {
-                "t": "p",
-                "x": "Epic Games上个月在Fortnite中加入了Ironmouse, Sleeping Forest & HalaCG的歌曲\"Meow\"，其曲目封面右下角带有Gemini水印。上周末此事被更多人发现，在社交媒体和Reddit上引发了一场小风波。"
-              },
-              {
-                "t": "p",
-                "x": "这幅美术现已换成没有水印的版本。不过，Gemini标记原本就出现在该曲目的原始封面中，Epic只是将其直接放进了游戏；Spotify上的封面同样带有该标记。"
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "Fortnite中原版\"Meow\"曲目封面（左）与替换后的版本（右）。图片来源：Ironmouse/Epic Games。"
-              },
-              {
-                "t": "p",
-                "x": "AI生成美术（AI-generated art）在Fortnite玩家中颇具争议。IGN认为，此次替换表明Epic不希望在游戏中公开展示带有明显AI元素的美术作品。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Fortnite reemplaza un arte\ncon marca de agua de Gemini",
-          "body": "Fortnite cambió en silencio un arte in-game cuando los fans hallaron una marca de agua de Google Gemini AI.",
-          "mini_headline": "Fortnite cambia el arte de Gemini",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-                "cap": "Fortnite"
-              },
-              {
-                "t": "p",
-                "x": "Fortnite ha reemplazado discretamente una ilustración in-game después de que los fans descubrieran que su versión original contenía una marca de agua de Google Gemini AI."
-              },
-              {
-                "t": "p",
-                "x": "Epic Games añadió el mes pasado a Fortnite el tema musical \"Meow\", de Ironmouse, Sleeping Forest & HalaCG, con la marca de agua de Gemini en la esquina inferior derecha de su portada. Su difusión el pasado fin de semana provocó un pequeño revuelo en redes sociales y Reddit."
-              },
-              {
-                "t": "p",
-                "x": "La ilustración ya se ha sustituido por una versión sin marca de agua. Sin embargo, la marca de Gemini estaba en la portada original del tema, que Epic simplemente incorporó al juego; también aparece en Spotify."
-              },
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213501987.jpg",
-                "cap": "La portada original de \"Meow\" (izquierda) tal como se veía en Fortnite, y su sustituta (derecha). Imagen: Ironmouse/Epic Games."
-              },
-              {
-                "t": "p",
-                "x": "El arte generado por AI (AI-generated) es un tema polémico entre los fans de Fortnite. IGN interpreta el cambio como una señal de que Epic no quiere mostrar abiertamente en el juego ilustraciones con elementos evidentes de AI."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "PlayStation特許\nAIが敵の行動を即座に変更",
+     "body": "PlayStationの新特許は、NPCの行動をその場で書き換えるAIを示した。",
+     "mini_headline": "ボスの行動を書き換えるAI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "PlayStationの新特許は、AIで敵の行動をその場で書き換えるシステムを示している"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyzeが見つけ、10月1日に公開されたSony Interactive Entertainmentの新特許は、「人工知能で適応させたノンプレイヤーキャラクターを用いたビデオゲームシステムの改善」を対象とする。"
+       },
+       {
+        "t": "p",
+        "x": "システムは四つの段階で動く。NPCとの遭遇に関するプレイヤーデータとゲームデータを集めて機械学習モデルに入力し、行動・セリフ・外見を調整するNPCコンテンツを受け取り、ゲームコンテンツを変更する。特許は特定のモデルアーキテクチャを挙げていないため、さまざまなAIシステムで機能し、PlayStationの自社スタジオ以外の開発者も使える可能性がある。"
+       },
+       {
+        "t": "p",
+        "x": "Wccftechは、最も恩恵を受けるのはソウルライクだと論じる。シングルプレイヤーゲームの敵は通常、プログラムされたパターンに従うため、覚えて攻略できる。AIが行動を書き換えれば、敵はプレイヤーがどれほど攻撃的か守備的かに適応でき、複数フェーズを持つボスが格闘ゲームの逆転要素のように、追い詰められると第二フェーズに早く移ることもありうる。"
+       },
+       {
+        "t": "p",
+        "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
+       }
+      ]
+     }
     },
-    {
-      "id": "kojima-on-ai-after-dlss5-death-stranding2",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
-      "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
-      "mini_headline": "Kojima가 본 AI와 창작자",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-            "cap": "Death Stranding 2의 Sam Porter Bridges"
-          },
-          {
-            "t": "p",
-            "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, Kojima가 Koji10 팟캐스트에서 AI 이야기를 꺼냈다."
-          },
-          {
-            "t": "p",
-            "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
-          },
-          {
-            "t": "p",
-            "x": "그래도 AI는 예술적 의도까지 이해하지는 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 덧붙인다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
-          },
-          {
-            "t": "video",
-            "yt": "YDTq8SeY9s0"
-          },
-          {
-            "t": "p",
-            "x": "\"그건 싫다.\" AI가 알아서 손을 대 바꿔 버리는 일을 두고 한 말이다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
-          },
-          {
-            "t": "p",
-            "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Kojima wary of AI taking work\nor control from artists",
-          "body": "Hideo Kojima says he dislikes AI taking work or control from artists, but believes it is here to stay.",
-          "mini_headline": "Kojima on AI and artists",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Sam Porter Bridges in Death Stranding 2"
-              },
-              {
-                "t": "p",
-                "x": "Hideo Kojima's Death Stranding 2 got caught up in the discussion around Nvidia DLSS 5, and he has now addressed AI on the Koji10 podcast."
-              },
-              {
-                "t": "p",
-                "x": "\"As a creator, I have mixed feelings about this technology,\" he says. \"AI is good at bringing old photographs to life or adding color to them, right? I think we might stop doing remakes one day.\""
-              },
-              {
-                "t": "p",
-                "x": "But AI can't understand artistic intention. \"As the person who made the original, I wouldn't want someone changing it too much,\" he says. \"There was a reason I chose a particular lighting setup. It would be different if AI understood those intentions.\""
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"I wouldn't like that,\" he says of AI making changes of its own accord. \"Unless I was controlling the AI in my own work, that may be different. I don't know, though.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Maybe AI will eventually do all that automatically. In a hundred years, the resolution may be even higher. But I don't much like the idea.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
-          "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
-          "mini_headline": "Kojima가 본 AI와 창작자",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2의 Sam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, Kojima가 Koji10 팟캐스트에서 AI 이야기를 꺼냈다."
-              },
-              {
-                "t": "p",
-                "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
-              },
-              {
-                "t": "p",
-                "x": "그래도 AI는 예술적 의도까지 이해하지는 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 덧붙인다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"그건 싫다.\" AI가 알아서 손을 대 바꿔 버리는 일을 두고 한 말이다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
-              },
-              {
-                "t": "p",
-                "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kojima、AIが作り手の\n仕事や主導権を奪うのを警戒",
-          "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
-          "mini_headline": "KojimaとAI、そして作り手",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2のSam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo KojimaのDeath Stranding 2はNvidia DLSS 5をめぐる議論に巻き込まれた。その彼が、Koji10ポッドキャストでAIについて語った。"
-              },
-              {
-                "t": "p",
-                "x": "「クリエイターとして、この技術には複雑な思いがある」と彼は言う。「AIは古い写真に命を吹き込んだり、色を付けたりするのが得意だよね。いつかリメイクをやらなくなるかもしれない」"
-              },
-              {
-                "t": "p",
-                "x": "だが、AIは芸術的な意図を理解できない。「オリジナルを作った人間としては、誰かにあまり変えてほしくない」と彼は言う。「特定のライティングを選んだのには理由があった。AIがその意図を理解するなら話は別だが」"
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "「それは嫌だね」と、AIが勝手に変更を加えることについて彼は語る。「自分の作品で自分がAIをコントロールしているなら、違うかもしれない。でも、わからないな」"
-              },
-              {
-                "t": "p",
-                "x": "「いずれAIがそれを全部自動でやるようになるかもしれない。百年後には解像度がさらに上がっているかもしれない。でも、その考えはあまり好きじゃない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kojima警惕AI夺走\n创作者的工作与掌控",
-          "body": "Hideo Kojima不愿看到AI夺走创作者的工作或掌控权，但认为AI会长期存在。",
-          "mini_headline": "Kojima谈AI与创作者",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2中的Sam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo Kojima的Death Stranding 2卷入了围绕Nvidia DLSS 5的讨论，如今他在Koji10播客中谈到了AI。"
-              },
-              {
-                "t": "p",
-                "x": "\"作为创作者，我对这项技术感情复杂，\"他说，\"AI很擅长让老照片活起来，或者给它们上色，对吧？我想也许有一天我们会不再做重制。\""
-              },
-              {
-                "t": "p",
-                "x": "但AI无法理解艺术意图。\"作为原作的创作者，我不希望别人改动太多，\"他说，\"我选择某种特定的灯光设置是有原因的。如果AI能理解这些意图，那就另当别论了。\""
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"我不会喜欢那样，\"他谈到AI自行做出改动时说，\"除非是我在自己的作品里控制AI，那可能就不一样了。不过我也说不准。\""
-              },
-              {
-                "t": "p",
-                "x": "\"也许AI最终会自动完成这一切。一百年后，分辨率可能会更高。但我不太喜欢这个想法。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kojima recela de que la AI quite\ntrabajo o control a artistas",
-          "body": "Hideo Kojima dice que le disgusta que la AI quite trabajo o control a artistas, pero cree que ha llegado para quedarse.",
-          "mini_headline": "Kojima, la AI y los artistas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Sam Porter Bridges en Death Stranding 2"
-              },
-              {
-                "t": "p",
-                "x": "Death Stranding 2, de Hideo Kojima, quedó envuelto en el debate en torno a Nvidia DLSS 5, y ahora él ha hablado de la AI en el podcast Koji10."
-              },
-              {
-                "t": "p",
-                "x": "\"Como creador, tengo sentimientos encontrados sobre esta tecnología\", dice. \"La AI es buena para dar vida a fotografías antiguas o para colorearlas, ¿verdad? Creo que algún día podríamos dejar de hacer remakes\"."
-              },
-              {
-                "t": "p",
-                "x": "Pero la AI no puede entender la intención artística. \"Como la persona que hizo el original, no querría que alguien lo cambiara demasiado\", dice. \"Había una razón por la que elegí una iluminación concreta. Sería distinto si la AI entendiera esas intenciones\"."
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"No me gustaría\", dice sobre que la AI haga cambios por su cuenta. \"Si yo controlara la AI en mi propia obra, quizá sería distinto. Aunque no lo sé\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Quizá la AI acabe haciendo todo eso de forma automática. Dentro de cien años, la resolución puede ser aún mayor. Pero no me gusta mucho la idea\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Kojima, AI가 작가\n일·통제권 빼앗는 건 경계",
-          "body": "Hideo Kojima는 AI가 작가 일을 빼앗는 건 싫지만 AI는 남는다고 본다.",
-          "mini_headline": "Kojima가 본 AI와 창작자",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2의 Sam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo Kojima의 Death Stranding 2가 Nvidia DLSS 5를 둘러싼 논쟁에 휘말린 가운데, 그가 Koji10 팟캐스트에서 AI에 대해 입을 열었다."
-              },
-              {
-                "t": "p",
-                "x": "\"창작자로서 이 기술에 대해서는 복잡한 심정이다\"라고 그는 말한다. \"AI는 오래된 사진에 생기를 불어넣거나 색을 입히는 데 능하지 않나. 언젠가는 리메이크를 하지 않게 될지도 모르겠다.\""
-              },
-              {
-                "t": "p",
-                "x": "하지만 AI는 예술적 의도를 이해하지 못한다. \"원작을 만든 사람으로서, 누군가 그것을 너무 많이 바꾸는 건 원치 않는다\"고 그는 말한다. \"특정한 조명 설정을 고른 데는 이유가 있었다. AI가 그런 의도를 이해한다면 이야기가 달라지겠지만.\""
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"그건 싫다.\" AI가 스스로 알아서 바꾸는 일에 대해 그는 이렇게 말한다. \"내 작품에서 내가 AI를 통제한다면 달라질 수도 있다. 그래도 잘 모르겠다.\""
-              },
-              {
-                "t": "p",
-                "x": "\"어쩌면 결국 AI가 그 모든 걸 자동으로 하게 될지도 모른다. 백 년 뒤에는 해상도가 더 높아져 있을 수도 있다. 하지만 별로 내키는 생각은 아니다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kojima、AIが作り手の\n仕事や主導権を奪うのを警戒",
-          "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
-          "mini_headline": "KojimaとAI、そして作り手",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2のSam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo KojimaのDeath Stranding 2はNvidia DLSS 5をめぐる議論に巻き込まれた。その彼が、Koji10ポッドキャストでAIについて語った。"
-              },
-              {
-                "t": "p",
-                "x": "「クリエイターとして、この技術には複雑な思いがある」と彼は言う。「AIは古い写真に命を吹き込んだり、色を付けたりするのが得意だよね。いつかリメイクをやらなくなるかもしれない」"
-              },
-              {
-                "t": "p",
-                "x": "だが、AIは芸術的な意図を理解できない。「オリジナルを作った人間としては、誰かにあまり変えてほしくない」と彼は言う。「特定のライティングを選んだのには理由があった。AIがその意図を理解するなら話は別だが」"
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "「それは嫌だね」と、AIが勝手に変更を加えることについて彼は語る。「自分の作品で自分がAIをコントロールしているなら、違うかもしれない。でも、わからないな」"
-              },
-              {
-                "t": "p",
-                "x": "「いずれAIがそれを全部自動でやるようになるかもしれない。百年後には解像度がさらに上がっているかもしれない。でも、その考えはあまり好きじゃない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kojima警惕AI夺走\n创作者的工作与掌控",
-          "body": "Hideo Kojima不愿看到AI夺走创作者的工作或掌控权，但认为AI会长期存在。",
-          "mini_headline": "Kojima谈AI与创作者",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Death Stranding 2中的Sam Porter Bridges"
-              },
-              {
-                "t": "p",
-                "x": "Hideo Kojima的Death Stranding 2卷入了围绕Nvidia DLSS 5的讨论，如今他在Koji10播客中谈到了AI。"
-              },
-              {
-                "t": "p",
-                "x": "\"作为创作者，我对这项技术感情复杂，\"他说，\"AI很擅长让老照片活起来，或者给它们上色，对吧？我想也许有一天我们会不再做重制。\""
-              },
-              {
-                "t": "p",
-                "x": "但AI无法理解艺术意图。\"作为原作的创作者，我不希望别人改动太多，\"他说，\"我选择某种特定的灯光设置是有原因的。如果AI能理解这些意图，那就另当别论了。\""
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"我不会喜欢那样，\"他谈到AI自行做出改动时说，\"除非是我在自己的作品里控制AI，那可能就不一样了。不过我也说不准。\""
-              },
-              {
-                "t": "p",
-                "x": "\"也许AI最终会自动完成这一切。一百年后，分辨率可能会更高。但我不太喜欢这个想法。\""
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kojima recela de que la AI quite\ntrabajo o control a artistas",
-          "body": "Hideo Kojima dice que le disgusta que la AI quite trabajo o control a artistas, pero cree que ha llegado para quedarse.",
-          "mini_headline": "Kojima, la AI y los artistas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-                "cap": "Sam Porter Bridges en Death Stranding 2"
-              },
-              {
-                "t": "p",
-                "x": "Death Stranding 2, de Hideo Kojima, quedó envuelto en el debate en torno a Nvidia DLSS 5, y ahora él ha hablado de la AI en el podcast Koji10."
-              },
-              {
-                "t": "p",
-                "x": "\"Como creador, tengo sentimientos encontrados sobre esta tecnología\", dice. \"La AI es buena para dar vida a fotografías antiguas o para colorearlas, ¿verdad? Creo que algún día podríamos dejar de hacer remakes\"."
-              },
-              {
-                "t": "p",
-                "x": "Pero la AI no puede entender la intención artística. \"Como la persona que hizo el original, no querría que alguien lo cambiara demasiado\", dice. \"Había una razón por la que elegí una iluminación concreta. Sería distinto si la AI entendiera esas intenciones\"."
-              },
-              {
-                "t": "video",
-                "yt": "YDTq8SeY9s0"
-              },
-              {
-                "t": "p",
-                "x": "\"No me gustaría\", dice sobre que la AI haga cambios por su cuenta. \"Si yo controlara la AI en mi propia obra, quizá sería distinto. Aunque no lo sé\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Quizá la AI acabe haciendo todo eso de forma automática. Dentro de cien años, la resolución puede ser aún mayor. Pero no me gusta mucho la idea\"."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "PlayStation专利\nAI实时改写敌人行为",
+     "body": "PlayStation新专利描述了可即时改写NPC行为的AI，或将改变魂类游戏。",
+     "mini_headline": "改写首领行为的AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "PlayStation新专利描述了一套用AI即时改写敌人行为的系统"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyze发现的一项Sony Interactive Entertainment新专利于10月1日公布，内容涉及“利用人工智能适配的非玩家角色改进电子游戏系统”。"
+       },
+       {
+        "t": "p",
+        "x": "该系统分四步运作：收集玩家与NPC遭遇时的数据及游戏数据，输入机器学习模型，得到调整行为、对话和外观的NPC内容，再据此修改游戏内容。专利没有列明具体的模型架构，因此可适用于不同的AI系统，PlayStation自家工作室以外的开发者也可能使用。"
+       },
+       {
+        "t": "p",
+        "x": "Wccftech认为魂类游戏获益最大。单人游戏中的敌人通常遵循预设模式，玩家可以摸清并加以利用；若由AI改写其行为，敌人就能根据玩家的进攻或防守倾向作出调整，多阶段首领甚至可能像格斗游戏的翻盘机制那样，在压力下提前进入第二阶段。"
+       },
+       {
+        "t": "p",
+        "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
+       }
+      ]
+     }
     },
-    {
-      "id": "rider-agentic-unreal-dev-unreal-fest",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
-      "body": "Unreal Fest 2026에서 Rider 에이전트로 GAS 같은 난제를 푼다.",
-      "mini_headline": "Unreal을 위한 Rider 에이전트",
-      "tool": "Games",
-      "source": "Unreal Engine (YouTube)",
-      "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "0C7GjShUnlY"
-          },
-          {
-            "t": "p",
-            "x": "범용 AI는 코드를 짜고 쉬운 부분을 처리한다. 그런데 Unreal Engine 개발의 어려운 일, 그러니까 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정은 에디터 안과 엔진 서브시스템, 서로 얽힌 설정 파일들 사이에서 벌어진다. 범용 AI가 번번이 틀리는 곳도 바로 여기다."
-          },
-          {
-            "t": "p",
-            "x": "Unreal Fest Chicago 2026에서 녹화한 이 세션은 실용적인 스택 하나를 소개한다. JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), AgentBridge로 돌아가는 UE 전용(UE-specific) 스킬을 묶은 구성이다. 덕분에 AI 에이전트는 소스 파일에 접근하는 데서 그치지 않고 에디터 안을 직접 보며 손을 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "JetBrains가 다루는 범위는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프에 따른 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Using Rider's agents on the\nhard parts of Unreal work",
-          "body": "An Unreal Fest 2026 talk applies agentic workflows in Rider to hard Unreal tasks like GAS bootstrap and build triage.",
-          "mini_headline": "Rider agents for Unreal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System (GAS) bootstrap, build triage, DataTable authoring, crash debugging, mobile configuration—happen in the editor, in engine subsystems, and across a web of interdependent config files that generic AI consistently gets wrong."
-              },
-              {
-                "t": "p",
-                "x": "This session recorded at Unreal Fest Chicago 2026 introduces a practical stack—JetBrains Rider, the Agent Communication Protocol (ACP, an open agent protocol like LSP for AI agents), and UE-specific skills running through AgentBridge—that gives AI agents eyes and hands inside the editor, not just access to your source files."
-              },
-              {
-                "t": "p",
-                "x": "JetBrains covers the complete development lifecycle: architecture consultation, C++ scaffolding with correct GAS replication setup, ability authoring with GameplayEffects, crash triage, actor placement from a text brief, and automated testing."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
-          "body": "Unreal Fest 2026에서 Rider 에이전트로 GAS 같은 난제를 푼다.",
-          "mini_headline": "Unreal을 위한 Rider 에이전트",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "범용 AI는 코드를 짜고 쉬운 부분을 처리한다. 그런데 Unreal Engine 개발의 어려운 일, 그러니까 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정은 에디터 안과 엔진 서브시스템, 서로 얽힌 설정 파일들 사이에서 벌어진다. 범용 AI가 번번이 틀리는 곳도 바로 여기다."
-              },
-              {
-                "t": "p",
-                "x": "Unreal Fest Chicago 2026에서 녹화한 이 세션은 실용적인 스택 하나를 소개한다. JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), AgentBridge로 돌아가는 UE 전용(UE-specific) 스킬을 묶은 구성이다. 덕분에 AI 에이전트는 소스 파일에 접근하는 데서 그치지 않고 에디터 안을 직접 보며 손을 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "JetBrains가 다루는 범위는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프에 따른 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Riderのエージェントで\nUnreal開発の難所に挑む",
-          "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
-          "mini_headline": "Unreal向けRiderエージェント",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "汎用AIはコードを生成し、簡単な部分を片付ける。だがUnreal Engine開発の難しい部分、つまりGameplay Ability System（GAS）のブートストラップ、ビルドのトリアージ、DataTableの作成、クラッシュのデバッグ、モバイル設定などは、エディタ内やエンジンのサブシステム、そして相互に依存する設定ファイル群の中で起きる。汎用AIはそこでいつも間違える。"
-              },
-              {
-                "t": "p",
-                "x": "Unreal Fest Chicago 2026で収録されたこのセッションでは、JetBrains Rider、Agent Communication Protocol（ACP。AIエージェント向けのLSPのようなオープンなエージェントプロトコル）、そしてAgentBridge経由で動くUE固有（UE-specific）のスキルからなる実用的なスタックを紹介する。これによりAIエージェントは、ソースファイルにアクセスするだけでなく、エディタの中で目と手を持つことになる。"
-              },
-              {
-                "t": "p",
-                "x": "JetBrainsは、アーキテクチャの相談、正しいGASレプリケーション設定を備えたC++のスキャフォールディング、GameplayEffectsを使ったアビリティ作成、クラッシュのトリアージ、テキストの指示からのアクター配置、自動テストまで、開発ライフサイクル全体を扱う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用Rider智能体\n攻克Unreal开发难题",
-          "body": "Unreal Fest 2026的演讲用Rider智能体攻克GAS引导、构建排查等难题。",
-          "mini_headline": "Rider智能体助力Unreal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "通用AI能生成代码，解决简单的部分。而Unreal Engine开发中的难点——如Gameplay Ability System（GAS）引导、构建问题排查、DataTable编写、崩溃调试、移动端配置——发生在编辑器里、引擎子系统中，以及一张由相互依赖的配置文件织成的网中，通用AI在这些地方总是出错。"
-              },
-              {
-                "t": "p",
-                "x": "这场在Unreal Fest Chicago 2026录制的演讲介绍了一套实用技术栈：JetBrains Rider、Agent Communication Protocol（ACP，一种面向AI智能体、类似LSP的开放智能体协议），以及通过AgentBridge运行的UE专用（UE-specific）技能。它让AI智能体在编辑器内拥有眼睛和双手，而不只是能访问源文件。"
-              },
-              {
-                "t": "p",
-                "x": "JetBrains涵盖了完整的开发生命周期：架构咨询、带有正确GAS复制设置的C++脚手架搭建、使用GameplayEffects编写技能、崩溃排查、根据文字说明摆放角色对象，以及自动化测试。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes de Rider para las\npartes difíciles de Unreal",
-          "body": "Una charla de Unreal Fest 2026 usa flujos agénticos en Rider para el bootstrap de GAS y el triaje de builds en Unreal.",
-          "mini_headline": "Agentes de Rider para Unreal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "La AI genérica genera código y resuelve la parte fácil. Las partes difíciles del desarrollo con Unreal Engine —como el bootstrap del Gameplay Ability System (GAS), el triaje de builds, la creación de DataTable, la depuración de fallos o la configuración para móviles— ocurren en el editor, en los subsistemas del motor y en una red de archivos de configuración interdependientes en los que la AI genérica falla una y otra vez."
-              },
-              {
-                "t": "p",
-                "x": "Esta sesión, grabada en Unreal Fest Chicago 2026, presenta un stack práctico —JetBrains Rider, el Agent Communication Protocol (ACP, un protocolo abierto de agentes como LSP para agentes de AI) y habilidades específicas de UE (UE-specific) que se ejecutan a través de AgentBridge— que da a los agentes de AI ojos y manos dentro del editor, no solo acceso a tus archivos fuente."
-              },
-              {
-                "t": "p",
-                "x": "JetBrains cubre todo el ciclo de desarrollo: consultoría de arquitectura, scaffolding en C++ con la configuración correcta de replicación de GAS, creación de habilidades con GameplayEffects, triaje de fallos, colocación de actores a partir de un brief de texto y pruebas automatizadas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Rider 에이전트로 푸는\nUnreal 개발의 난제",
-          "body": "Unreal Fest 2026 발표가 Rider 에이전트로 GAS 등 난제를 푼다.",
-          "mini_headline": "Unreal을 위한 Rider 에이전트",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "범용 AI는 코드를 생성하고 쉬운 부분을 해결한다. Unreal Engine 개발의 어려운 부분, 즉 Gameplay Ability System(GAS) 부트스트랩, 빌드 트리아지, DataTable 작성, 크래시 디버깅, 모바일 설정 같은 일은 에디터 안에서, 엔진 서브시스템에서, 그리고 서로 얽힌 설정 파일들 사이에서 벌어지며, 범용 AI는 이를 번번이 틀린다."
-              },
-              {
-                "t": "p",
-                "x": "Unreal Fest Chicago 2026에서 녹화된 이 세션은 JetBrains Rider, Agent Communication Protocol(ACP, AI 에이전트를 위한 LSP 같은 오픈 에이전트 프로토콜), 그리고 AgentBridge로 실행되는 UE 전용(UE-specific) 스킬로 이뤄진 실용적인 스택을 소개한다. 이 스택은 AI 에이전트가 소스 파일에 접근하는 데 그치지 않고 에디터 안에서 직접 보고 손을 쓸 수 있게 한다."
-              },
-              {
-                "t": "p",
-                "x": "JetBrains는 아키텍처 상담, 올바른 GAS 리플리케이션 설정을 갖춘 C++ 스캐폴딩, GameplayEffects를 활용한 어빌리티 작성, 크래시 트리아지, 텍스트 브리프를 바탕으로 한 액터 배치, 자동화 테스트까지 개발 라이프사이클 전체를 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Riderのエージェントで\nUnreal開発の難所に挑む",
-          "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
-          "mini_headline": "Unreal向けRiderエージェント",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "汎用AIはコードを生成し、簡単な部分を片付ける。だがUnreal Engine開発の難しい部分、つまりGameplay Ability System（GAS）のブートストラップ、ビルドのトリアージ、DataTableの作成、クラッシュのデバッグ、モバイル設定などは、エディタ内やエンジンのサブシステム、そして相互に依存する設定ファイル群の中で起きる。汎用AIはそこでいつも間違える。"
-              },
-              {
-                "t": "p",
-                "x": "Unreal Fest Chicago 2026で収録されたこのセッションでは、JetBrains Rider、Agent Communication Protocol（ACP。AIエージェント向けのLSPのようなオープンなエージェントプロトコル）、そしてAgentBridge経由で動くUE固有（UE-specific）のスキルからなる実用的なスタックを紹介する。これによりAIエージェントは、ソースファイルにアクセスするだけでなく、エディタの中で目と手を持つことになる。"
-              },
-              {
-                "t": "p",
-                "x": "JetBrainsは、アーキテクチャの相談、正しいGASレプリケーション設定を備えたC++のスキャフォールディング、GameplayEffectsを使ったアビリティ作成、クラッシュのトリアージ、テキストの指示からのアクター配置、自動テストまで、開発ライフサイクル全体を扱う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "用Rider智能体\n攻克Unreal开发难题",
-          "body": "Unreal Fest 2026的演讲用Rider智能体攻克GAS引导、构建排查等难题。",
-          "mini_headline": "Rider智能体助力Unreal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "通用AI能生成代码，解决简单的部分。而Unreal Engine开发中的难点——如Gameplay Ability System（GAS）引导、构建问题排查、DataTable编写、崩溃调试、移动端配置——发生在编辑器里、引擎子系统中，以及一张由相互依赖的配置文件织成的网中，通用AI在这些地方总是出错。"
-              },
-              {
-                "t": "p",
-                "x": "这场在Unreal Fest Chicago 2026录制的演讲介绍了一套实用技术栈：JetBrains Rider、Agent Communication Protocol（ACP，一种面向AI智能体、类似LSP的开放智能体协议），以及通过AgentBridge运行的UE专用（UE-specific）技能。它让AI智能体在编辑器内拥有眼睛和双手，而不只是能访问源文件。"
-              },
-              {
-                "t": "p",
-                "x": "JetBrains涵盖了完整的开发生命周期：架构咨询、带有正确GAS复制设置的C++脚手架搭建、使用GameplayEffects编写技能、崩溃排查、根据文字说明摆放角色对象，以及自动化测试。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Agentes de Rider para las\npartes difíciles de Unreal",
-          "body": "Una charla de Unreal Fest 2026 usa flujos agénticos en Rider para el bootstrap de GAS y el triaje de builds en Unreal.",
-          "mini_headline": "Agentes de Rider para Unreal",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "0C7GjShUnlY"
-              },
-              {
-                "t": "p",
-                "x": "La AI genérica genera código y resuelve la parte fácil. Las partes difíciles del desarrollo con Unreal Engine —como el bootstrap del Gameplay Ability System (GAS), el triaje de builds, la creación de DataTable, la depuración de fallos o la configuración para móviles— ocurren en el editor, en los subsistemas del motor y en una red de archivos de configuración interdependientes en los que la AI genérica falla una y otra vez."
-              },
-              {
-                "t": "p",
-                "x": "Esta sesión, grabada en Unreal Fest Chicago 2026, presenta un stack práctico —JetBrains Rider, el Agent Communication Protocol (ACP, un protocolo abierto de agentes como LSP para agentes de AI) y habilidades específicas de UE (UE-specific) que se ejecutan a través de AgentBridge— que da a los agentes de AI ojos y manos dentro del editor, no solo acceso a tus archivos fuente."
-              },
-              {
-                "t": "p",
-                "x": "JetBrains cubre todo el ciclo de desarrollo: consultoría de arquitectura, scaffolding en C++ con la configuración correcta de replicación de GAS, creación de habilidades con GameplayEffects, triaje de fallos, colocación de actores a partir de un brief de texto y pruebas automatizadas."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "Patente de PlayStation: IA (AI)\nque reescribe enemigos en vivo",
+     "body": "Una nueva patente de PlayStation describe una IA (AI) que cambia al vuelo la conducta de los NPC.",
+     "mini_headline": "Una IA (AI) que reescribe a los jefes",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "Una nueva patente de PlayStation describe un sistema que usa IA (AI) para reescribir al vuelo la conducta de los enemigos"
+       },
+       {
+        "t": "p",
+        "x": "Una nueva patente de Sony Interactive Entertainment, descubierta por Patentlyze y publicada el 1 de octubre, abarca la “mejora de sistemas de videojuegos mediante un personaje no jugador adaptado por inteligencia artificial”."
+       },
+       {
+        "t": "p",
+        "x": "El sistema funciona en cuatro pasos: recopila datos del jugador sobre sus encuentros con un NPC junto con datos del juego, los introduce en un modelo de aprendizaje automático, obtiene contenido de NPC que ajusta su conducta, diálogo y apariencia, y luego modifica el contenido del juego. La patente no especifica una arquitectura de modelo concreta, por lo que podría funcionar con distintos sistemas de IA (AI) y ser utilizada por desarrolladores ajenos a los estudios propios de PlayStation."
+       },
+       {
+        "t": "p",
+        "x": "Wccftech sostiene que los soulslike serían los más beneficiados. Los enemigos de los juegos para un jugador suelen seguir patrones programados que se pueden aprender y explotar; si la IA (AI) reescribe su conducta, podrían adaptarse a lo agresivo o defensivo que sea el jugador, e incluso los jefes con varias fases podrían pasar antes a su segunda fase bajo presión, como las mecánicas de remontada de los juegos de lucha."
+       },
+       {
+        "t": "p",
+        "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
+     "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
+     "mini_headline": "보스 행동을 다시 쓰는 AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 특허는 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”을 다룬다."
+       },
+       {
+        "t": "p",
+        "x": "시스템은 네 단계로 작동한다. NPC와의 조우에 관한 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정하는 NPC 콘텐츠를 돌려받은 뒤 게임 콘텐츠를 수정한다. 특허에 특정 모델 아키텍처가 명시되지 않아 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "Wccftech는 소울라이크가 가장 큰 덕을 볼 것이라고 본다. 싱글플레이 게임의 적은 보통 정해진 패턴을 따르기 때문에 플레이어가 익히고 공략할 수 있다. AI가 적의 행동을 다시 쓰면 적은 플레이어가 얼마나 공격적인지 혹은 방어적인지에 맞춰 적응하고, 여러 페이즈를 가진 보스는 격투 게임의 역전 메커니즘처럼 압박을 받으면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
+       },
+       {
+        "t": "p",
+        "x": "게임이 지나치게 어려워지지 않도록 조율은 필요하겠지만, 적의 체력이나 공격력을 단순히 올리는 것보다 더 크면서도 공정한 도전을 줄 수 있다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "PlayStation特許\nAIが敵の行動を即座に変更",
+     "body": "PlayStationの新特許は、NPCの行動をその場で書き換えるAIを示した。",
+     "mini_headline": "ボスの行動を書き換えるAI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "PlayStationの新特許は、AIで敵の行動をその場で書き換えるシステムを示している"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyzeが見つけ、10月1日に公開されたSony Interactive Entertainmentの新特許は、「人工知能で適応させたノンプレイヤーキャラクターを用いたビデオゲームシステムの改善」を対象とする。"
+       },
+       {
+        "t": "p",
+        "x": "システムは四つの段階で動く。NPCとの遭遇に関するプレイヤーデータとゲームデータを集めて機械学習モデルに入力し、行動・セリフ・外見を調整するNPCコンテンツを受け取り、ゲームコンテンツを変更する。特許は特定のモデルアーキテクチャを挙げていないため、さまざまなAIシステムで機能し、PlayStationの自社スタジオ以外の開発者も使える可能性がある。"
+       },
+       {
+        "t": "p",
+        "x": "Wccftechは、最も恩恵を受けるのはソウルライクだと論じる。シングルプレイヤーゲームの敵は通常、プログラムされたパターンに従うため、覚えて攻略できる。AIが行動を書き換えれば、敵はプレイヤーがどれほど攻撃的か守備的かに適応でき、複数フェーズを持つボスが格闘ゲームの逆転要素のように、追い詰められると第二フェーズに早く移ることもありうる。"
+       },
+       {
+        "t": "p",
+        "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "PlayStation专利\nAI实时改写敌人行为",
+     "body": "PlayStation新专利描述了可即时改写NPC行为的AI，或将改变魂类游戏。",
+     "mini_headline": "改写首领行为的AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "PlayStation新专利描述了一套用AI即时改写敌人行为的系统"
+       },
+       {
+        "t": "p",
+        "x": "Patentlyze发现的一项Sony Interactive Entertainment新专利于10月1日公布，内容涉及“利用人工智能适配的非玩家角色改进电子游戏系统”。"
+       },
+       {
+        "t": "p",
+        "x": "该系统分四步运作：收集玩家与NPC遭遇时的数据及游戏数据，输入机器学习模型，得到调整行为、对话和外观的NPC内容，再据此修改游戏内容。专利没有列明具体的模型架构，因此可适用于不同的AI系统，PlayStation自家工作室以外的开发者也可能使用。"
+       },
+       {
+        "t": "p",
+        "x": "Wccftech认为魂类游戏获益最大。单人游戏中的敌人通常遵循预设模式，玩家可以摸清并加以利用；若由AI改写其行为，敌人就能根据玩家的进攻或防守倾向作出调整，多阶段首领甚至可能像格斗游戏的翻盘机制那样，在压力下提前进入第二阶段。"
+       },
+       {
+        "t": "p",
+        "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Patente de PlayStation: IA (AI)\nque reescribe enemigos en vivo",
+     "body": "Una nueva patente de PlayStation describe una IA (AI) que cambia al vuelo la conducta de los NPC.",
+     "mini_headline": "Una IA (AI) que reescribe a los jefes",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+        "cap": "Una nueva patente de PlayStation describe un sistema que usa IA (AI) para reescribir al vuelo la conducta de los enemigos"
+       },
+       {
+        "t": "p",
+        "x": "Una nueva patente de Sony Interactive Entertainment, descubierta por Patentlyze y publicada el 1 de octubre, abarca la “mejora de sistemas de videojuegos mediante un personaje no jugador adaptado por inteligencia artificial”."
+       },
+       {
+        "t": "p",
+        "x": "El sistema funciona en cuatro pasos: recopila datos del jugador sobre sus encuentros con un NPC junto con datos del juego, los introduce en un modelo de aprendizaje automático, obtiene contenido de NPC que ajusta su conducta, diálogo y apariencia, y luego modifica el contenido del juego. La patente no especifica una arquitectura de modelo concreta, por lo que podría funcionar con distintos sistemas de IA (AI) y ser utilizada por desarrolladores ajenos a los estudios propios de PlayStation."
+       },
+       {
+        "t": "p",
+        "x": "Wccftech sostiene que los soulslike serían los más beneficiados. Los enemigos de los juegos para un jugador suelen seguir patrones programados que se pueden aprender y explotar; si la IA (AI) reescribe su conducta, podrían adaptarse a lo agresivo o defensivo que sea el jugador, e incluso los jefes con varias fases podrían pasar antes a su segunda fase bajo presión, como las mecánicas de remontada de los juegos de lucha."
+       },
+       {
+        "t": "p",
+        "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "games-dizzy-ai",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
+   "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
+   "mini_headline": "Dizzy 귀환, genAI로 제작",
+   "tool": "Games",
+   "source": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+      "cap": "이미지 출처: Code Masters"
+     },
+     {
+      "t": "p",
+      "x": "달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 1987년부터 1992년까지 열여섯 편이 나온 시리즈다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
+     },
+     {
+      "t": "p",
+      "x": "Andrew가 맡은 신작은 큰 틀에서 1989년작 Treasure Island Dizzy의 리메이크다. ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업 중이다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
+     },
+     {
+      "t": "video",
+      "yt": "lTSaPajJCcE"
+     },
+     {
+      "t": "p",
+      "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 거기 들어간 아트 전부가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 답했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로는 자금이 넉넉한 대형 스튜디오를 꼽았다."
+     },
+     {
+      "t": "p",
+      "x": "RPS의 Ashley Schofield는 수긍하지 않는다. 혼자, 혹은 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 이유에서다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Dizzy's creators bring it back,\nhappily made with genAI",
+     "body": "Dizzy's original creators, the Oliver Twins, are reviving the 80s platformer and happily using genAI to make it.",
+     "mini_headline": "Dizzy returns, made with genAI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Image credit: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "Dizzy, the egg-starring platformer series that managed sixteen releases between 1987 and 1992, is coming back. Its creators, the Oliver Twins, announced a new Dizzy game during their talk at Play Expo in Blackpool."
+       },
+       {
+        "t": "p",
+        "x": "Andrew's new entry will mostly be a remake of 1989's Treasure Island Dizzy, combining the ZX Spectrum and NES versions, plus a new Mega Drive version and a completely new 'Ultra' version with modern visuals. Phillip is working on Journey to the Emerald City. Both projects lean happily on generative AI."
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Asked by Time Extension about it, Phillip Oliver said that without it, Emerald City and all of its art \"would have been an over-a-year project with a couple of artists, probably a hundred thousand pounds.\" Andrew added that genAI \"allows indies to compete on a level with the production quality\" of big, well-financed studios."
+       },
+       {
+        "t": "p",
+        "x": "RPS's Ashley Schofield is unconvinced, arguing that plenty of solo and duo indie developers have made games without genAI tools built on scraping artists' work."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
+     "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
+     "mini_headline": "Dizzy 귀환, genAI로 제작",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "이미지 출처: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 1987년부터 1992년까지 열여섯 편이 나온 시리즈다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
+       },
+       {
+        "t": "p",
+        "x": "Andrew가 맡은 신작은 큰 틀에서 1989년작 Treasure Island Dizzy의 리메이크다. ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업 중이다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 거기 들어간 아트 전부가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 답했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로는 자금이 넉넉한 대형 스튜디오를 꼽았다."
+       },
+       {
+        "t": "p",
+        "x": "RPS의 Ashley Schofield는 수긍하지 않는다. 혼자, 혹은 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 이유에서다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Dizzyを生みの親が復活\ngenAIで嬉々として制作",
+     "body": "Oliver Twinsが80年代のDizzyを復活させ、genAIを喜んで使う。",
+     "mini_headline": "Dizzy復活、genAIで制作",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "画像提供: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "1987年から1992年までに十六作が発売された、卵が主役のプラットフォーマーシリーズDizzyが帰ってくる。生みの親であるOliver Twinsは、Blackpoolで開かれたPlay Expoでの講演で新作Dizzyを発表した。"
+       },
+       {
+        "t": "p",
+        "x": "Andrewが手がける新作は、主に1989年のTreasure Island Dizzyのリメイクで、ZX Spectrum版とNES版を統合し、新たなMega Drive版と、現代的なビジュアルの完全新作'Ultra'版を加える。PhillipはJourney to the Emerald Cityを制作中だ。どちらのプロジェクトも生成AIに積極的に頼っている。"
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Time Extensionに問われたPhillip Oliverは、それがなければEmerald Cityとそのアートすべては「アーティスト二人ほどで一年以上かかるプロジェクトになり、おそらく十万ポンドかかっただろう」と語った。Andrewは、genAIが資金力のある大手スタジオの「制作品質に、インディーが対等に渡り合うことを可能にする」と付け加えた。"
+       },
+       {
+        "t": "p",
+        "x": "RPSのAshley Schofieldは納得していない。アーティストの作品をスクレイピングして作られたgenAIツールを使わずにゲームを作ってきた一人や二人のインディー開発者は大勢いる、というのがその主張だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Dizzy原班人马重启\n乐于用genAI制作",
+     "body": "Dizzy原作者Oliver Twins复活这款80年代平台游戏，并乐于用genAI制作。",
+     "mini_headline": "Dizzy回归，用genAI打造",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "图片来源：Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "以鸡蛋为主角的平台游戏系列Dizzy在1987年至1992年间推出了十六作，如今即将回归。其创作者Oliver Twins在Blackpool举行的Play Expo演讲中宣布了一款新的Dizzy游戏。"
+       },
+       {
+        "t": "p",
+        "x": "Andrew负责的新作主要是1989年Treasure Island Dizzy的重制版，整合ZX Spectrum版与NES版，另有全新的Mega Drive版，以及采用现代画面、完全新作的'Ultra'版。Phillip则在制作Journey to the Emerald City。两个项目都乐于借助生成式AI。"
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "被Time Extension问及此事时，Phillip Oliver表示，若没有它，Emerald City及其全部美术“会是一个需要两三位美术人员、耗时一年多的项目，大概要花十万英镑”。Andrew补充说，genAI“让独立开发者能在制作品质上”与资金雄厚的大型工作室“平等竞争”。"
+       },
+       {
+        "t": "p",
+        "x": "RPS的Ashley Schofield并不信服，指出有许多单人或双人独立开发者没有借助genAI工具也做出了游戏，而这类工具建立在抓取艺术家作品的基础之上。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Los creadores de Dizzy lo traen\nde vuelta, felices con genAI",
+     "body": "Los Oliver Twins, creadores originales de Dizzy, reviven el plataformas de los 80 y usan genAI con gusto.",
+     "mini_headline": "Dizzy vuelve, hecho con genAI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crédito de la imagen: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "Dizzy, la serie de plataformas protagonizada por un huevo que llegó a sumar dieciséis lanzamientos entre 1987 y 1992, regresa. Sus creadores, los Oliver Twins, anunciaron un nuevo juego de Dizzy durante su charla en Play Expo, en Blackpool."
+       },
+       {
+        "t": "p",
+        "x": "La nueva entrega de Andrew será sobre todo un remake de Treasure Island Dizzy, de 1989, que combina las versiones de ZX Spectrum y NES, además de una nueva versión para Mega Drive y una versión 'Ultra' completamente nueva con gráficos modernos. Phillip trabaja en Journey to the Emerald City. Ambos proyectos se apoyan de buen grado en la IA (AI) generativa."
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Consultado por Time Extension al respecto, Phillip Oliver afirmó que, sin ella, Emerald City y todo su arte “habrían sido un proyecto de más de un año con un par de artistas, probablemente cien mil libras”. Andrew añadió que la genAI “permite a los indies competir de igual a igual con la calidad de producción” de los estudios grandes y con buena financiación."
+       },
+       {
+        "t": "p",
+        "x": "A Ashley Schofield, de RPS, no le convence el argumento: sostiene que muchos desarrolladores indie que trabajan solos o en pareja han hecho juegos sin herramientas de genAI construidas a partir del scraping del trabajo de artistas."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
+     "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
+     "mini_headline": "Dizzy 귀환, genAI로 제작",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "이미지 출처: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "1987년부터 1992년까지 열여섯 편이 나온, 달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
+       },
+       {
+        "t": "p",
+        "x": "Andrew가 맡은 신작은 대체로 1989년작 Treasure Island Dizzy의 리메이크로, ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업하고 있다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 그 모든 아트가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 말했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로 자금이 넉넉한 대형 스튜디오를 꼽았다."
+       },
+       {
+        "t": "p",
+        "x": "RPS의 Ashley Schofield는 이에 수긍하지 않는다. 혼자 또는 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 것이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Dizzyを生みの親が復活\ngenAIで嬉々として制作",
+     "body": "Oliver Twinsが80年代のDizzyを復活させ、genAIを喜んで使う。",
+     "mini_headline": "Dizzy復活、genAIで制作",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "画像提供: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "1987年から1992年までに十六作が発売された、卵が主役のプラットフォーマーシリーズDizzyが帰ってくる。生みの親であるOliver Twinsは、Blackpoolで開かれたPlay Expoでの講演で新作Dizzyを発表した。"
+       },
+       {
+        "t": "p",
+        "x": "Andrewが手がける新作は、主に1989年のTreasure Island Dizzyのリメイクで、ZX Spectrum版とNES版を統合し、新たなMega Drive版と、現代的なビジュアルの完全新作'Ultra'版を加える。PhillipはJourney to the Emerald Cityを制作中だ。どちらのプロジェクトも生成AIに積極的に頼っている。"
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Time Extensionに問われたPhillip Oliverは、それがなければEmerald Cityとそのアートすべては「アーティスト二人ほどで一年以上かかるプロジェクトになり、おそらく十万ポンドかかっただろう」と語った。Andrewは、genAIが資金力のある大手スタジオの「制作品質に、インディーが対等に渡り合うことを可能にする」と付け加えた。"
+       },
+       {
+        "t": "p",
+        "x": "RPSのAshley Schofieldは納得していない。アーティストの作品をスクレイピングして作られたgenAIツールを使わずにゲームを作ってきた一人や二人のインディー開発者は大勢いる、というのがその主張だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Dizzy原班人马重启\n乐于用genAI制作",
+     "body": "Dizzy原作者Oliver Twins复活这款80年代平台游戏，并乐于用genAI制作。",
+     "mini_headline": "Dizzy回归，用genAI打造",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "图片来源：Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "以鸡蛋为主角的平台游戏系列Dizzy在1987年至1992年间推出了十六作，如今即将回归。其创作者Oliver Twins在Blackpool举行的Play Expo演讲中宣布了一款新的Dizzy游戏。"
+       },
+       {
+        "t": "p",
+        "x": "Andrew负责的新作主要是1989年Treasure Island Dizzy的重制版，整合ZX Spectrum版与NES版，另有全新的Mega Drive版，以及采用现代画面、完全新作的'Ultra'版。Phillip则在制作Journey to the Emerald City。两个项目都乐于借助生成式AI。"
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "被Time Extension问及此事时，Phillip Oliver表示，若没有它，Emerald City及其全部美术“会是一个需要两三位美术人员、耗时一年多的项目，大概要花十万英镑”。Andrew补充说，genAI“让独立开发者能在制作品质上”与资金雄厚的大型工作室“平等竞争”。"
+       },
+       {
+        "t": "p",
+        "x": "RPS的Ashley Schofield并不信服，指出有许多单人或双人独立开发者没有借助genAI工具也做出了游戏，而这类工具建立在抓取艺术家作品的基础之上。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Los creadores de Dizzy lo traen\nde vuelta, felices con genAI",
+     "body": "Los Oliver Twins, creadores originales de Dizzy, reviven el plataformas de los 80 y usan genAI con gusto.",
+     "mini_headline": "Dizzy vuelve, hecho con genAI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crédito de la imagen: Code Masters"
+       },
+       {
+        "t": "p",
+        "x": "Dizzy, la serie de plataformas protagonizada por un huevo que llegó a sumar dieciséis lanzamientos entre 1987 y 1992, regresa. Sus creadores, los Oliver Twins, anunciaron un nuevo juego de Dizzy durante su charla en Play Expo, en Blackpool."
+       },
+       {
+        "t": "p",
+        "x": "La nueva entrega de Andrew será sobre todo un remake de Treasure Island Dizzy, de 1989, que combina las versiones de ZX Spectrum y NES, además de una nueva versión para Mega Drive y una versión 'Ultra' completamente nueva con gráficos modernos. Phillip trabaja en Journey to the Emerald City. Ambos proyectos se apoyan de buen grado en la IA (AI) generativa."
+       },
+       {
+        "t": "video",
+        "yt": "lTSaPajJCcE"
+       },
+       {
+        "t": "p",
+        "x": "Consultado por Time Extension al respecto, Phillip Oliver afirmó que, sin ella, Emerald City y todo su arte “habrían sido un proyecto de más de un año con un par de artistas, probablemente cien mil libras”. Andrew añadió que la genAI “permite a los indies competir de igual a igual con la calidad de producción” de los estudios grandes y con buena financiación."
+       },
+       {
+        "t": "p",
+        "x": "A Ashley Schofield, de RPS, no le convence el argumento: sostiene que muchos desarrolladores indie que trabajan solos o en pareja han hecho juegos sin herramientas de genAI construidas a partir del scraping del trabajo de artistas."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "games-usf4-rollback",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Street Fighter\nIV에 Claude 롤백",
+   "body": "Ultra Street Fighter IV에 Claude 롤백 모드가 둘 나왔다.",
+   "mini_headline": "Claude 모드, USF4에 롤백 추가",
+   "tool": "Games",
+   "source": "Rock Paper Shotgun",
+   "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+   "accent": "#f5a623",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+      "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
+     },
+     {
+      "t": "p",
+      "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 명맥이 끊겼다. 2010년대 중반부터 업계 표준이 된, 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
+     },
+     {
+      "t": "p",
+      "x": "Delay-based 넷코드는 불안정한 연결에 맞춰 입력을 그때그때 늦춘다. 롤백은 입력을 바로 받아들이고 연결 문제로 플레이어 사이에 어긋남이 생기면 게임 상태를 되감는다."
+     },
+     {
+      "t": "p",
+      "x": "최근 몇 주 사이 두 모드가 공개됐다. Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'다. 둘 다 롤백 넷코드와 비공개 방을 더했고, 코딩에는 Anthropic의 Claude 도움을 받았다. Faabi는 이후 SF4Enhanced 개발을 접었다. \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"며 \"전에는 C++를 거의 써 본 적이 없었다\"고 털어놓은 그는 플레이어들에게 Ember를 권했다."
+     },
+     {
+      "t": "p",
+      "x": "두 모드 모두 플레이어가 꽤 많은 듯하다. 그래도 RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다고 한다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Two Claude-built mods bring\nrollback to Street Fighter IV",
+     "body": "Twelve years on, Ultra Street Fighter IV gets two rollback netcode mods, and both were made using Claude.",
+     "mini_headline": "Claude mods add USF4 rollback",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Image credit: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV saw its final iteration in 2014's Ultra Street Fighter IV, a game still limited to delay-based netcode rather than the more stable rollback netcode that has become the industry standard since the mid 2010s."
+       },
+       {
+        "t": "p",
+        "x": "Delay-based netcode variably delays inputs to cope with unstable connections, while rollback accepts inputs immediately and rewinds the game state if the connection causes inconsistencies between players."
+       },
+       {
+        "t": "p",
+        "x": "Two new mods, Faabi's 'SF4Enhanced' and Kabiefox's 'SF4 Ember', both released in the last few weeks, add rollback netcode and private rooms, and both were coded with the assistance of Anthropic's Claude. Faabi has since abandoned SF4Enhanced, saying they \"don't have the time to deliver what this community deserves\" and admitting they \"had barely written any C++ before,\" and points players to Ember."
+       },
+       {
+        "t": "p",
+        "x": "Both mods seem to be getting a lot of play, but RPS's writer would rather stick with delay-based netcode than use AI-made code."
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Dos mods Claude-built añaden\nrollback a Street Fighter IV",
+     "body": "Doce años después, Ultra Street Fighter IV recibe dos mods de netcode rollback, ambos hechos con Claude.",
+     "mini_headline": "Mods de Claude dan rollback a USF4",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crédito de la imagen: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV tuvo su última versión en Ultra Street Fighter IV, de 2014, un juego que sigue limitado a un netcode basado en retardo en lugar del netcode rollback, más estable, que se ha convertido en el estándar de la industria desde mediados de la década de 2010."
+       },
+       {
+        "t": "p",
+        "x": "El netcode basado en retardo (Delay-based) retrasa las entradas de forma variable para lidiar con conexiones inestables, mientras que el rollback acepta las entradas de inmediato y rebobina el estado del juego si la conexión provoca incoherencias entre los jugadores."
+       },
+       {
+        "t": "p",
+        "x": "Dos nuevos mods, 'SF4Enhanced' de Faabi y 'SF4 Ember' de Kabiefox, ambos publicados en las últimas semanas, añaden netcode rollback y salas privadas, y los dos se programaron con ayuda de Claude, de Anthropic. Desde entonces, Faabi ha abandonado SF4Enhanced: dice que “no tiene tiempo para ofrecer lo que esta comunidad merece”, admite que “apenas había escrito C++ antes” y remite a los jugadores a Ember."
+       },
+       {
+        "t": "p",
+        "x": "Ambos mods parecen tener muchos jugadores, pero el redactor de RPS prefiere quedarse con el netcode basado en retardo antes que usar código AI-made, hecho con IA."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Street Fighter\nIV에 Claude 롤백",
+     "body": "Ultra Street Fighter IV에 Claude 롤백 모드가 둘 나왔다.",
+     "mini_headline": "Claude 모드, USF4에 롤백 추가",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 명맥이 끊겼다. 2010년대 중반부터 업계 표준이 된, 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
+       },
+       {
+        "t": "p",
+        "x": "Delay-based 넷코드는 불안정한 연결에 맞춰 입력을 그때그때 늦춘다. 롤백은 입력을 바로 받아들이고 연결 문제로 플레이어 사이에 어긋남이 생기면 게임 상태를 되감는다."
+       },
+       {
+        "t": "p",
+        "x": "최근 몇 주 사이 두 모드가 공개됐다. Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'다. 둘 다 롤백 넷코드와 비공개 방을 더했고, 코딩에는 Anthropic의 Claude 도움을 받았다. Faabi는 이후 SF4Enhanced 개발을 접었다. \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"며 \"전에는 C++를 거의 써 본 적이 없었다\"고 털어놓은 그는 플레이어들에게 Ember를 권했다."
+       },
+       {
+        "t": "p",
+        "x": "두 모드 모두 플레이어가 꽤 많은 듯하다. 그래도 RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다고 한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Street Fighter\nIVにClaude製モッド",
+     "body": "Ultra Street Fighter IVにClaude製ロールバックモッドが二つ出た。",
+     "mini_headline": "Claude製モッドでUSF4にロールバック",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "画像提供: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IVは2014年のUltra Street Fighter IVを最終版とした。同作は、2010年代半ばから業界標準となったより安定したロールバック型ネットコードではなく、いまもディレイ型(delay-based)ネットコードにとどまっている。"
+       },
+       {
+        "t": "p",
+        "x": "Delay-basedのネットコードは不安定な接続に対応するため入力を可変的に遅らせる。一方ロールバックは入力を即座に受け付け、接続によってプレイヤー間に食い違いが生じるとゲームの状態を巻き戻す。"
+       },
+       {
+        "t": "p",
+        "x": "ここ数週間で公開された二つのモッド、Faabiの『SF4Enhanced』とKabiefoxの『SF4 Ember』は、ロールバック型ネットコードとプライベートルームを追加した。どちらもAnthropicのClaudeの助けを借りてコーディングされたものだ。Faabiはその後SF4Enhancedの開発を断念し、「このコミュニティにふさわしいものを届ける時間がない」と述べ、「それまでC++をほとんど書いたことがなかった」と認めたうえで、プレイヤーにEmberを勧めている。"
+       },
+       {
+        "t": "p",
+        "x": "両モッドとも多くプレイされているようだが、RPSの筆者はAI-madeのコードを使うくらいならdelay-basedのネットコードを使い続けたいという。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Street Fighter\nIV获Claude回滚模组",
+     "body": "时隔十二年，Ultra Street Fighter IV迎来两款Claude回滚模组。",
+     "mini_headline": "Claude模组为USF4加入回滚",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "图片来源：Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV的最终版本是2014年的Ultra Street Fighter IV。这款游戏至今仍只支持延迟式（delay-based）网络代码，而非自2010年代中期以来已成为行业标准、更加稳定的回滚网络代码。"
+       },
+       {
+        "t": "p",
+        "x": "Delay-based网络代码会可变地延迟输入，以应对不稳定的连接；而回滚则会立即接受输入，并在连接导致玩家之间出现不一致时回退游戏状态。"
+       },
+       {
+        "t": "p",
+        "x": "最近几周发布的两款新模组——Faabi的“SF4Enhanced”和Kabiefox的“SF4 Ember”——都加入了回滚网络代码和私人房间，并且都是在Anthropic的Claude协助下编写的。Faabi此后已放弃SF4Enhanced，称自己“没有时间交付这个社区应得的东西”，并承认自己“以前几乎没写过C++”，同时推荐玩家转向Ember。"
+       },
+       {
+        "t": "p",
+        "x": "两款模组似乎都有大量玩家使用，但RPS的作者宁愿继续使用delay-based网络代码，也不愿使用AI-made代码。"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "es": {
+     "headline": "Dos mods Claude-built añaden\nrollback a Street Fighter IV",
+     "body": "Doce años después, Ultra Street Fighter IV recibe dos mods de netcode rollback, ambos hechos con Claude.",
+     "mini_headline": "Mods de Claude dan rollback a USF4",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crédito de la imagen: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV tuvo su última versión en Ultra Street Fighter IV, de 2014, un juego que sigue limitado a un netcode basado en retardo en lugar del netcode rollback, más estable, que se ha convertido en el estándar de la industria desde mediados de la década de 2010."
+       },
+       {
+        "t": "p",
+        "x": "El netcode basado en retardo (Delay-based) retrasa las entradas de forma variable para lidiar con conexiones inestables, mientras que el rollback acepta las entradas de inmediato y rebobina el estado del juego si la conexión provoca incoherencias entre los jugadores."
+       },
+       {
+        "t": "p",
+        "x": "Dos nuevos mods, 'SF4Enhanced' de Faabi y 'SF4 Ember' de Kabiefox, ambos publicados en las últimas semanas, añaden netcode rollback y salas privadas, y los dos se programaron con ayuda de Claude, de Anthropic. Desde entonces, Faabi ha abandonado SF4Enhanced: dice que “no tiene tiempo para ofrecer lo que esta comunidad merece”, admite que “apenas había escrito C++ antes” y remite a los jugadores a Ember."
+       },
+       {
+        "t": "p",
+        "x": "Ambos mods parecen tener muchos jugadores, pero el redactor de RPS prefiere quedarse con el netcode basado en retardo antes que usar código AI-made, hecho con IA."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Street Fighter\nIV에 Claude 롤백",
+     "body": "Ultra Street Fighter IV에 Claude 롤백 모드 둘이 나왔다.",
+     "mini_headline": "Claude 모드, USF4에 롤백 추가",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 더 나오지 않았다. 이 게임은 2010년대 중반부터 업계 표준으로 자리 잡은 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
+       },
+       {
+        "t": "p",
+        "x": "Delay-based 넷코드는 불안정한 연결에 대응하려고 입력을 가변적으로 지연시킨다. 반면 롤백은 입력을 즉시 받아들이고, 연결 문제로 플레이어 사이에 불일치가 생기면 게임 상태를 되감는다."
+       },
+       {
+        "t": "p",
+        "x": "최근 몇 주 사이 공개된 두 모드, Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'는 롤백 넷코드와 비공개 방을 더했고, 둘 다 Anthropic의 Claude 도움을 받아 코딩됐다. Faabi는 이후 SF4Enhanced 개발을 접었다. 그는 \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"고 말하며 \"전에는 C++를 거의 써 본 적이 없었다\"고 인정했고, 플레이어들에게 Ember를 권했다."
+       },
+       {
+        "t": "p",
+        "x": "두 모드 모두 많이 플레이되는 듯하지만, RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다는 입장이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Street Fighter\nIVにClaude製モッド",
+     "body": "Ultra Street Fighter IVにClaude製ロールバックモッドが二つ出た。",
+     "mini_headline": "Claude製モッドでUSF4にロールバック",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "画像提供: Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IVは2014年のUltra Street Fighter IVを最終版とした。同作は、2010年代半ばから業界標準となったより安定したロールバック型ネットコードではなく、いまもディレイ型(delay-based)ネットコードにとどまっている。"
+       },
+       {
+        "t": "p",
+        "x": "Delay-basedのネットコードは不安定な接続に対応するため入力を可変的に遅らせる。一方ロールバックは入力を即座に受け付け、接続によってプレイヤー間に食い違いが生じるとゲームの状態を巻き戻す。"
+       },
+       {
+        "t": "p",
+        "x": "ここ数週間で公開された二つのモッド、Faabiの『SF4Enhanced』とKabiefoxの『SF4 Ember』は、ロールバック型ネットコードとプライベートルームを追加した。どちらもAnthropicのClaudeの助けを借りてコーディングされたものだ。Faabiはその後SF4Enhancedの開発を断念し、「このコミュニティにふさわしいものを届ける時間がない」と述べ、「それまでC++をほとんど書いたことがなかった」と認めたうえで、プレイヤーにEmberを勧めている。"
+       },
+       {
+        "t": "p",
+        "x": "両モッドとも多くプレイされているようだが、RPSの筆者はAI-madeのコードを使うくらいならdelay-basedのネットコードを使い続けたいという。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Street Fighter\nIV获Claude回滚模组",
+     "body": "时隔十二年，Ultra Street Fighter IV迎来两款Claude回滚模组。",
+     "mini_headline": "Claude模组为USF4加入回滚",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "图片来源：Rock Paper Shotgun/Capcom"
+       },
+       {
+        "t": "p",
+        "x": "Street Fighter IV的最终版本是2014年的Ultra Street Fighter IV。这款游戏至今仍只支持延迟式（delay-based）网络代码，而非自2010年代中期以来已成为行业标准、更加稳定的回滚网络代码。"
+       },
+       {
+        "t": "p",
+        "x": "Delay-based网络代码会可变地延迟输入，以应对不稳定的连接；而回滚则会立即接受输入，并在连接导致玩家之间出现不一致时回退游戏状态。"
+       },
+       {
+        "t": "p",
+        "x": "最近几周发布的两款新模组——Faabi的“SF4Enhanced”和Kabiefox的“SF4 Ember”——都加入了回滚网络代码和私人房间，并且都是在Anthropic的Claude协助下编写的。Faabi此后已放弃SF4Enhanced，称自己“没有时间交付这个社区应得的东西”，并承认自己“以前几乎没写过C++”，同时推荐玩家转向Ember。"
+       },
+       {
+        "t": "p",
+        "x": "两款模组似乎都有大量玩家使用，但RPS的作者宁愿继续使用delay-based网络代码，也不愿使用AI-made代码。"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "games-wotc-union",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "D&D·Magic 개발자들\nAI 압박에 노조 결성",
+   "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
+   "mini_headline": "WotC 직원들, AI 문제로 노조 결성",
+   "tool": "Games",
+   "source": "GamesRadar+",
+   "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+      "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
+     },
+     {
+      "t": "p",
+      "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하며 회사에 노조를 자발적으로 인정하라고 요구했다."
+     },
+     {
+      "t": "p",
+      "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 꾸려져 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들도 Communication Workers of America의 지원을 받아 같은 깃발 아래 모인다."
+     },
+     {
+      "t": "p",
+      "x": "요구 사항은 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”, 그리고 “AI 잠식으로부터의 보호”다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 이미 내 둔 상태다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "D&D and Magic developers\nunionize, citing AI push",
+     "body": "D&D and Magic developers are unionizing, alleging Wizards of the Coast is pushing adoption of LLMs and genAI.",
+     "mini_headline": "WotC staff unionize, citing AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "Bandits in the 2025 Monster Manual (Image credit: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "The developers of Dungeons & Dragons and Magic: The Gathering have announced they're joining United Wizards of the Coast - CWA and are calling on the company to voluntarily recognize the union."
+       },
+       {
+        "t": "p",
+        "x": "The union first formed in April with only the Magic: The Gathering Arena developers, and won its election in June. Now workers behind D&D, D&D Beyond, Magic: The Gathering and Duel Masters are joining under the same banner, supported by the Communication Workers of America."
+       },
+       {
+        "t": "p",
+        "x": "Alongside \"fair wages,\" \"reliable and easily accessible healthcare\" and \"remote work protections,\" the union is demanding \"protection against the encroachment of AI.\" \"Leadership, without regard for the desires of our teams, has pushed for adoption of LLMs and generative AI,\" it says. \"This has to stop.\""
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast has until October 13 to respond. The union has already filed an election petition with the National Labor Relations Board."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "D&D·Magic 개발자들\nAI 압박에 노조 결성",
+     "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
+     "mini_headline": "WotC 직원들, AI 문제로 노조 결성",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하며 회사에 노조를 자발적으로 인정하라고 요구했다."
+       },
+       {
+        "t": "p",
+        "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 꾸려져 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들도 Communication Workers of America의 지원을 받아 같은 깃발 아래 모인다."
+       },
+       {
+        "t": "p",
+        "x": "요구 사항은 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”, 그리고 “AI 잠식으로부터의 보호”다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 이미 내 둔 상태다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "D&DとMagicの開発者\nAI推進を理由に労組結成",
+     "body": "D&DとMagicの開発者が、会社のLLMsとgenAIの導入強要を訴え労組を結成する。",
+     "mini_headline": "WotC社員がAIを理由に労組結成",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025年版Monster Manualの盗賊(Bandits)(画像提供: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & DragonsとMagic: The Gatheringの開発者が、United Wizards of the Coast - CWAへの参加を発表し、会社に対して労働組合を自主的に承認するよう求めた。"
+       },
+       {
+        "t": "p",
+        "x": "組合は4月、Magic: The Gathering Arenaの開発者のみで結成され、6月の選挙で勝利した。今回はD&D、D&D Beyond、Magic: The Gathering、Duel Mastersに携わる従業員が、Communication Workers of Americaの支援を受けて同じ旗の下に加わる。"
+       },
+       {
+        "t": "p",
+        "x": "組合は「公正な賃金」「信頼でき利用しやすい医療保障」「リモートワークの保護」と並んで、「AIの侵食からの保護」を求めている。「経営陣はチームの意向を顧みず、LLMsと生成AIの導入を推し進めてきた」と組合は述べ、「これは止めなければならない」としている。"
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coastは10月13日までに回答する必要がある。組合はすでにNational Labor Relations Board(全米労働関係委員会)に選挙の申し立てを行っている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "D&D与Magic开发者\n因AI推行而组建工会",
+     "body": "D&D与Magic开发者组建工会，指公司强推LLMs与genAI。",
+     "mini_headline": "WotC员工因AI组建工会",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025年版Monster Manual中的强盗（Bandits）（图片来源：Wizards of the Coast）"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & Dragons与Magic: The Gathering的开发者宣布加入United Wizards of the Coast - CWA，并呼吁公司自愿承认该工会。"
+       },
+       {
+        "t": "p",
+        "x": "该工会于4月首次成立，当时仅有Magic: The Gathering Arena的开发者，并于6月赢得选举。如今，D&D、D&D Beyond、Magic: The Gathering和Duel Masters背后的员工也在Communication Workers of America的支持下加入同一阵营。"
+       },
+       {
+        "t": "p",
+        "x": "除了“公平的薪酬”“可靠且便于获取的医疗保障”和“远程工作保障”外，工会还要求“免受AI侵蚀的保护”。工会表示：“领导层无视我们团队的意愿，一直推动采用LLMs和生成式AI。”“这必须停止。”"
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast须在10月13日前作出回应。工会已向National Labor Relations Board（国家劳资关系委员会）提交选举申请。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Desarrolladores de D&D y Magic\nse sindicalizan por la IA (AI)",
+     "body": "Los desarrolladores de D&D y Magic se sindicalizan y acusan a Wizards of the Coast de impulsar los LLMs y la genAI.",
+     "mini_headline": "El personal de WotC se sindicaliza por la IA (AI)",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "Bandidos (Bandits) en el Monster Manual de 2025 (Crédito de la imagen: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Los desarrolladores de Dungeons & Dragons y Magic: The Gathering anunciaron que se unen a United Wizards of the Coast - CWA y piden a la empresa que reconozca voluntariamente al sindicato."
+       },
+       {
+        "t": "p",
+        "x": "El sindicato se formó en abril solo con los desarrolladores de Magic: The Gathering Arena y ganó su elección en junio. Ahora, los trabajadores detrás de D&D, D&D Beyond, Magic: The Gathering y Duel Masters se suman bajo la misma bandera, con el apoyo de Communication Workers of America."
+       },
+       {
+        "t": "p",
+        "x": "Junto a “salarios justos”, “atención médica fiable y de fácil acceso” y “protecciones para el trabajo remoto”, el sindicato exige “protección frente al avance de la IA (AI)”. “La dirección, sin tener en cuenta los deseos de nuestros equipos, ha impulsado la adopción de LLMs y de IA generativa”, afirma. “Esto tiene que parar”."
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast tiene hasta el 13 de octubre para responder. El sindicato ya presentó una petición de elección ante la National Labor Relations Board."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "D&D·Magic 개발자들\nAI 압박 이유로 노조",
+     "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
+     "mini_headline": "WotC 직원들, AI 들어 노조 결성",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하고, 회사에 노조를 자발적으로 인정하라고 요구했다."
+       },
+       {
+        "t": "p",
+        "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 결성됐고, 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들이 Communication Workers of America의 지원을 받아 같은 깃발 아래 합류한다."
+       },
+       {
+        "t": "p",
+        "x": "노조는 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”와 함께 “AI 잠식으로부터의 보호”를 요구한다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 이미 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 냈다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "D&DとMagicの開発者\nAI推進を理由に労組結成",
+     "body": "D&DとMagicの開発者が、会社のLLMsとgenAIの導入強要を訴え労組を結成する。",
+     "mini_headline": "WotC社員がAIを理由に労組結成",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025年版Monster Manualの盗賊(Bandits)(画像提供: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & DragonsとMagic: The Gatheringの開発者が、United Wizards of the Coast - CWAへの参加を発表し、会社に対して労働組合を自主的に承認するよう求めた。"
+       },
+       {
+        "t": "p",
+        "x": "組合は4月、Magic: The Gathering Arenaの開発者のみで結成され、6月の選挙で勝利した。今回はD&D、D&D Beyond、Magic: The Gathering、Duel Mastersに携わる従業員が、Communication Workers of Americaの支援を受けて同じ旗の下に加わる。"
+       },
+       {
+        "t": "p",
+        "x": "組合は「公正な賃金」「信頼でき利用しやすい医療保障」「リモートワークの保護」と並んで、「AIの侵食からの保護」を求めている。「経営陣はチームの意向を顧みず、LLMsと生成AIの導入を推し進めてきた」と組合は述べ、「これは止めなければならない」としている。"
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coastは10月13日までに回答する必要がある。組合はすでにNational Labor Relations Board(全米労働関係委員会)に選挙の申し立てを行っている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "D&D与Magic开发者\n因AI推行而组建工会",
+     "body": "D&D与Magic开发者组建工会，指公司强推LLMs与genAI。",
+     "mini_headline": "WotC员工因AI组建工会",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "2025年版Monster Manual中的强盗（Bandits）（图片来源：Wizards of the Coast）"
+       },
+       {
+        "t": "p",
+        "x": "Dungeons & Dragons与Magic: The Gathering的开发者宣布加入United Wizards of the Coast - CWA，并呼吁公司自愿承认该工会。"
+       },
+       {
+        "t": "p",
+        "x": "该工会于4月首次成立，当时仅有Magic: The Gathering Arena的开发者，并于6月赢得选举。如今，D&D、D&D Beyond、Magic: The Gathering和Duel Masters背后的员工也在Communication Workers of America的支持下加入同一阵营。"
+       },
+       {
+        "t": "p",
+        "x": "除了“公平的薪酬”“可靠且便于获取的医疗保障”和“远程工作保障”外，工会还要求“免受AI侵蚀的保护”。工会表示：“领导层无视我们团队的意愿，一直推动采用LLMs和生成式AI。”“这必须停止。”"
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast须在10月13日前作出回应。工会已向National Labor Relations Board（国家劳资关系委员会）提交选举申请。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Desarrolladores de D&D y Magic\nse sindicalizan por la IA (AI)",
+     "body": "Los desarrolladores de D&D y Magic se sindicalizan y acusan a Wizards of the Coast de impulsar los LLMs y la genAI.",
+     "mini_headline": "El personal de WotC se sindicaliza por la IA (AI)",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+        "cap": "Bandidos (Bandits) en el Monster Manual de 2025 (Crédito de la imagen: Wizards of the Coast)"
+       },
+       {
+        "t": "p",
+        "x": "Los desarrolladores de Dungeons & Dragons y Magic: The Gathering anunciaron que se unen a United Wizards of the Coast - CWA y piden a la empresa que reconozca voluntariamente al sindicato."
+       },
+       {
+        "t": "p",
+        "x": "El sindicato se formó en abril solo con los desarrolladores de Magic: The Gathering Arena y ganó su elección en junio. Ahora, los trabajadores detrás de D&D, D&D Beyond, Magic: The Gathering y Duel Masters se suman bajo la misma bandera, con el apoyo de Communication Workers of America."
+       },
+       {
+        "t": "p",
+        "x": "Junto a “salarios justos”, “atención médica fiable y de fácil acceso” y “protecciones para el trabajo remoto”, el sindicato exige “protección frente al avance de la IA (AI)”. “La dirección, sin tener en cuenta los deseos de nuestros equipos, ha impulsado la adopción de LLMs y de IA generativa”, afirma. “Esto tiene que parar”."
+       },
+       {
+        "t": "p",
+        "x": "Wizards of the Coast tiene hasta el 13 de octubre para responder. El sindicato ya presentó una petición de elección ante la National Labor Relations Board."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "games-sega-ai",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
+   "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
+   "mini_headline": "Sega, AI는 효율화에만",
+   "tool": "Games",
+   "source": "GamesIndustry.biz",
+   "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+   "accent": "#eb367f",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+      "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
+     },
+     {
+      "t": "p",
+      "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei 인터뷰에서 개발 과정에 생성형 AI를 들이는 문제라면 회사가 “매우 신중하다”고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "Sega는 지난해 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 그 안에 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”가 있다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 써 논란이 일었다."
+     },
+     {
+      "t": "p",
+      "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 썼다. 다만 “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Sega keeps AI out of creative\nwork, uses it for efficiency",
+     "body": "Sega won't entrust the creative side of games to AI but is using it to improve efficiency in other departments.",
+     "mini_headline": "Sega limits AI to efficiency",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour (Image credit: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "Speaking to Nikkei, Sega senior executive officer and deputy chief business officer Tsuyoshi Saito said the company is \"very cautious\" about how it implements generative AI during development."
+       },
+       {
+        "t": "p",
+        "x": "\"We are using AI to improve efficiency in areas such as publishing and corporate departments, as well as for generating business ideas,\" said Saito. \"However, we are being very cautious about its use in the game development process, and we are not entrusting the creative aspects of games to AI.\""
+       },
+       {
+        "t": "p",
+        "x": "Sega established a \"Generative AI Committee\" last year, including an \"AI Task Force\" responsible for \"developing in-house AI tools.\" Earlier this year, Sega faced controversy after generative AI was used \"during the development of background assets\" for Crazy Taxi: World Tour."
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics says it used generative AI similarly for early prototyping on Tomb Raider: Legacy of Atlantis, while \"making sure that all the finished content in the final game is human-created.\""
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
+     "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
+     "mini_headline": "Sega, AI는 효율화에만",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei 인터뷰에서 개발 과정에 생성형 AI를 들이는 문제라면 회사가 “매우 신중하다”고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "Sega는 지난해 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 그 안에 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”가 있다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 써 논란이 일었다."
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 썼다. 다만 “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Sega、創作にAI使わず\n効率化には活用",
+     "body": "Segaはゲームの創作面をAIに任せないが、他部門の効率化には活用している。",
+     "mini_headline": "Sega、AIは効率化に限定",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour(画像提供: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "Segaの上席執行役員で副最高事業責任者のTsuyoshi Saitoは、Nikkeiの取材に対し、同社は開発における生成AIの導入方法について「非常に慎重」だと語った。"
+       },
+       {
+        "t": "p",
+        "x": "「パブリッシングやコーポレート部門などの効率化や、事業アイデアの創出にAIを活用している」とSaitoは述べた。「ただし、ゲーム開発の過程での利用には非常に慎重であり、ゲームの創作的な部分をAIに任せることはしていない」"
+       },
+       {
+        "t": "p",
+        "x": "Segaは昨年、「社内AIツールの開発」を担う「AI Task Force」を含む「Generative AI Committee」(生成AI委員会)を設置した。今年初めには、Crazy Taxi: World Tourの「背景アセットの開発中」に生成AIが使われたことで論争を招いた。"
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamicsも、Tomb Raider: Legacy of Atlantisの初期プロトタイピングで同様に生成AIを使ったとしつつ、「最終的なゲームの完成コンテンツはすべて人間が作ったものにしている」と説明している。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Sega创作不交给AI\n但用来提升效率",
+     "body": "Sega不会把游戏创作交给AI，但在其他部门用它提升效率。",
+     "mini_headline": "Sega将AI限于提效",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour（图片来源：Sega）"
+       },
+       {
+        "t": "p",
+        "x": "Sega高级执行官兼副首席业务官Tsuyoshi Saito在接受Nikkei采访时表示，公司在开发中如何采用生成式AI这件事上“非常谨慎”。"
+       },
+       {
+        "t": "p",
+        "x": "Saito说：“我们正在用AI提升发行和企业部门等领域的效率，也用它来构思业务点子。”他还说：“不过，我们对在游戏开发过程中使用AI非常谨慎，不会把游戏的创意部分交给AI。”"
+       },
+       {
+        "t": "p",
+        "x": "Sega去年成立了“生成式AI委员会”（Generative AI Committee），其中包括负责“开发内部AI工具”的“AI特别工作组”（AI Task Force）。今年早些时候，Sega因在Crazy Taxi: World Tour的“背景素材开发过程中”使用生成式AI而引发争议。"
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics表示，它在Tomb Raider: Legacy of Atlantis的早期原型制作中也以类似方式使用了生成式AI，同时“确保最终游戏中的所有成品内容均由人类创作”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Sega no usa la IA (AI) al crear\npero sí para ganar eficiencia",
+     "body": "Sega no confiará a la IA (AI) lo creativo de sus juegos, pero la usa para ganar eficiencia en otros departamentos.",
+     "mini_headline": "Sega limita la IA (AI) a la eficiencia",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour (Crédito de la imagen: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "En declaraciones a Nikkei, Tsuyoshi Saito, alto ejecutivo y director adjunto de negocio de Sega, afirmó que la compañía es “muy cautelosa” en cuanto a cómo implementa la IA (AI) generativa durante el desarrollo."
+       },
+       {
+        "t": "p",
+        "x": "“Usamos la IA (AI) para mejorar la eficiencia en áreas como la publicación y los departamentos corporativos, así como para generar ideas de negocio”, dijo Saito. “Sin embargo, somos muy cautelosos con su uso en el proceso de desarrollo de juegos y no confiamos a la IA los aspectos creativos de los juegos”."
+       },
+       {
+        "t": "p",
+        "x": "Sega creó el año pasado un “Comité de IA Generativa” (Generative AI Committee), que incluye un “Grupo de Trabajo de IA” (AI Task Force) encargado de “desarrollar herramientas de IA propias”. A principios de este año, Sega recibió críticas después de que se usara IA (AI) generativa “durante el desarrollo de los recursos de fondo” de Crazy Taxi: World Tour."
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics afirma que usó la IA (AI) generativa de forma similar para los primeros prototipos de Tomb Raider: Legacy of Atlantis, “asegurándose de que todo el contenido terminado del juego final esté creado por personas”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
+     "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
+     "mini_headline": "Sega, AI는 효율화에만",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei와의 인터뷰에서 회사가 개발 과정에 생성형 AI를 도입하는 방식에 “매우 신중하다”고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "Sega는 지난해 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”를 포함한 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 쓴 일로 논란을 겪었다."
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 활용했으며, “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Sega、創作にAI使わず\n効率化には活用",
+     "body": "Segaはゲームの創作面をAIに任せないが、他部門の効率化には活用している。",
+     "mini_headline": "Sega、AIは効率化に限定",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour(画像提供: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "Segaの上席執行役員で副最高事業責任者のTsuyoshi Saitoは、Nikkeiの取材に対し、同社は開発における生成AIの導入方法について「非常に慎重」だと語った。"
+       },
+       {
+        "t": "p",
+        "x": "「パブリッシングやコーポレート部門などの効率化や、事業アイデアの創出にAIを活用している」とSaitoは述べた。「ただし、ゲーム開発の過程での利用には非常に慎重であり、ゲームの創作的な部分をAIに任せることはしていない」"
+       },
+       {
+        "t": "p",
+        "x": "Segaは昨年、「社内AIツールの開発」を担う「AI Task Force」を含む「Generative AI Committee」(生成AI委員会)を設置した。今年初めには、Crazy Taxi: World Tourの「背景アセットの開発中」に生成AIが使われたことで論争を招いた。"
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamicsも、Tomb Raider: Legacy of Atlantisの初期プロトタイピングで同様に生成AIを使ったとしつつ、「最終的なゲームの完成コンテンツはすべて人間が作ったものにしている」と説明している。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Sega创作不交给AI\n但用来提升效率",
+     "body": "Sega不会把游戏创作交给AI，但在其他部门用它提升效率。",
+     "mini_headline": "Sega将AI限于提效",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour（图片来源：Sega）"
+       },
+       {
+        "t": "p",
+        "x": "Sega高级执行官兼副首席业务官Tsuyoshi Saito在接受Nikkei采访时表示，公司在开发中如何采用生成式AI这件事上“非常谨慎”。"
+       },
+       {
+        "t": "p",
+        "x": "Saito说：“我们正在用AI提升发行和企业部门等领域的效率，也用它来构思业务点子。”他还说：“不过，我们对在游戏开发过程中使用AI非常谨慎，不会把游戏的创意部分交给AI。”"
+       },
+       {
+        "t": "p",
+        "x": "Sega去年成立了“生成式AI委员会”（Generative AI Committee），其中包括负责“开发内部AI工具”的“AI特别工作组”（AI Task Force）。今年早些时候，Sega因在Crazy Taxi: World Tour的“背景素材开发过程中”使用生成式AI而引发争议。"
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics表示，它在Tomb Raider: Legacy of Atlantis的早期原型制作中也以类似方式使用了生成式AI，同时“确保最终游戏中的所有成品内容均由人类创作”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Sega no usa la IA (AI) al crear\npero sí para ganar eficiencia",
+     "body": "Sega no confiará a la IA (AI) lo creativo de sus juegos, pero la usa para ganar eficiencia en otros departamentos.",
+     "mini_headline": "Sega limita la IA (AI) a la eficiencia",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+        "cap": "Crazy Taxi: World Tour (Crédito de la imagen: Sega)"
+       },
+       {
+        "t": "p",
+        "x": "En declaraciones a Nikkei, Tsuyoshi Saito, alto ejecutivo y director adjunto de negocio de Sega, afirmó que la compañía es “muy cautelosa” en cuanto a cómo implementa la IA (AI) generativa durante el desarrollo."
+       },
+       {
+        "t": "p",
+        "x": "“Usamos la IA (AI) para mejorar la eficiencia en áreas como la publicación y los departamentos corporativos, así como para generar ideas de negocio”, dijo Saito. “Sin embargo, somos muy cautelosos con su uso en el proceso de desarrollo de juegos y no confiamos a la IA los aspectos creativos de los juegos”."
+       },
+       {
+        "t": "p",
+        "x": "Sega creó el año pasado un “Comité de IA Generativa” (Generative AI Committee), que incluye un “Grupo de Trabajo de IA” (AI Task Force) encargado de “desarrollar herramientas de IA propias”. A principios de este año, Sega recibió críticas después de que se usara IA (AI) generativa “durante el desarrollo de los recursos de fondo” de Crazy Taxi: World Tour."
+       },
+       {
+        "t": "p",
+        "x": "Crystal Dynamics afirma que usó la IA (AI) generativa de forma similar para los primeros prototipos de Tomb Raider: Legacy of Atlantis, “asegurándose de que todo el contenido terminado del juego final esté creado por personas”."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

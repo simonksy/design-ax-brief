@@ -1,83 +1,107 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "books",
   "items": [
     {
-      "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
-      "source": "Publishers Weekly",
-      "published_iso": "2026-10-02T00:00:00-04:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-      "excerpt": "An appeals judge backed a Delaware court ruling that found the now-defunct AI startup Ross Intelligence's unauthorized copying of text from Thomson Reuters's Westlaw was not fair use; AAP and the Authors Guild hailed it as a precedent for AI training cases.",
+      "title": "BMJ Group, Sage and more to share 20m research papers with AI company Redpine",
+      "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-06T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+      "excerpt": "Five academic publishers (BMJ Group, Sage, IOP Publishing, IGI Global and Wanfang Data) struck a deal giving Redpine's AI agents licensed access to 20 million peer-reviewed papers, a new licensing model for publisher content.",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "New appellate ruling that AI-training copying was not fair use (Thomson Reuters v. Ross); first appeals-level precedent publishers and authors will cite in every pending AI training suit."
+      "rationale": "New concrete licensing deal: five publishers open 20m peer-reviewed papers to Redpine's AI agents, a fresh model for licensing publisher content to agents rather than for training."
     },
     {
-      "title": "The Representation Is Not the Scholarship",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
+      "title": "Frankfurter Buchmesse 2026: Historian Jill Lepore Speaks of an Industry—and a World—'On the Knife Edge of History'",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/",
+      "source": "Publishing Perspectives",
+      "published_iso": "2026-10-06T13:40:12Z",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+      "excerpt": "At Frankfurt's opening press conference, where AI was called 'the issue on everyone's minds', Jill Lepore warned against handing the future to tech moguls, and German publishers' chair Sebastian Guggolz said AI cannot make up for falling reading competence.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "rationale": "Frankfurt 2026 opened yesterday with AI named the issue on everyone's minds; this is the fair's own opening press conference, not the 9/25 PW preview."
+    },
+    {
+      "title": "Kevin Roose Didn't Use AI to Write His Book About AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+      "source": "WIRED",
+      "published_iso": "2026-10-06T10:30:00Z",
+      "og_image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
+      "excerpt": "On WIRED's Big Interview, the author of The AGI Chronicles says his book 'was written by a very tired, overworked, under-slept human being', and talks about where AI fits, and doesn't, in writing a book.",
+      "category": "books",
+      "tool": "Books",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "rationale": "A high-profile AI author on where AI does and doesn't belong in writing a book; timely given the disclosure scandals and an author's-eye view next to the industry picks."
+    },
+    {
+      "title": "Research Integrity in Scholarly Communications — SSP Pulse Check Report",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
       "source": "The Scholarly Kitchen",
-      "published_iso": "2026-10-05T09:30:09+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence.png",
-      "excerpt": "The problem with AI in scholarly publishing may not be that machines are growing more intelligent, but that we are amplifying a capable yet limited form of cognition and mistaking the written representation for the scholarship itself.",
+      "published_iso": "2026-10-06T09:30:14Z",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+      "excerpt": "SSP's latest Pulse Check survey shows how scholarly publishers are dealing with research integrity as paper mills, manipulation and generative-AI-made submissions put integrity systems under strain.",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Fresh argument on AI in scholarly publishing: the written paper is a representation of scholarship, which AI can mimic without doing the work; distinct from prior Scholarly Kitchen cards on tracking, reading and licensing."
+      "rationale": "New survey data on how scholarly publishers are handling integrity strain from generative-AI submissions and paper mills; the writer must lead on the AI findings."
     },
     {
-      "title": "Around the Book World: Monday, October 5th, 2026",
-      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
-      "source": "Publishing Perspectives",
-      "published_iso": "2026-10-05T11:52:52+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png",
-      "excerpt": "Roundup highlights: a Proyecto451 review of 40+ publishers' AI policies finds two strategies (license catalogs to AI firms vs. build in-house tools); ElevenLabs' aggregator-led audiobook strategy via De Marque, Bookwire and StreetLib; a Norwegian debut novel written entirely by hand to prove it is not AI.",
+      "title": "LibreOffice says 'no AI' is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "published_iso": "2026-10-06T15:25:00Z",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+      "excerpt": "The open-source document editor used by many writers says it won't add AI to its default configuration, citing user privacy, and is pitching 'no AI' as a feature against Word and Docs.",
       "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Lead item is new: a Proyecto451 review of 40+ publishers' AI policies sorting them into license-out vs build-in-house. Writer should lead on that and the hand-written Norwegian novel, not the ElevenLabs/De Marque item (already published 9/30)."
-    },
-    {
-      "title": "We Banned the Soul from the Building: On AI, Spiritual Life, and Sustainable Practices for Writing",
-      "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
-      "source": "Literary Hub",
-      "published_iso": "2026-10-05T09:08:58+00:00",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png",
-      "excerpt": "The literary world is finally asking what a human writer can do that artificial intelligence cannot; this essay argues the answer lies beyond technique, in spiritual life and sustainable writing practice.",
-      "category": "books",
-      "tool": "Books",
-      "accent": "#ff5a4d",
-      "motif": "swatch",
-      "rationale": "New essay with AI at its center: what human writers offer that AI can't, located in practice and inner life rather than craft technique; a writer's-eye view to round out the industry and legal picks."
+      "rationale": "A writing tool announces it will keep AI out of its default setup and markets that as a feature against Word and Docs; a direct choice for writers who want to avoid AI in their drafting software."
     }
+  ],
+  "alternates": [
+    "https://www.publishersweekly.com/pw/by-topic/industry-news/people/article/101391-veteran-producers-launch-bookish-micromovie-studio.html",
+    "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-program-picks/",
+    "https://scholarlykitchen.sspnet.org/2026/09/24/guest-post-six-ways-to-close-the-attribution-loop-in-publishing/",
+    "https://electricliterature.com/the-concept-of-the-asian-robot-maid-has-haunted-my-life/"
   ],
   "dedup": {
     "checks": {
-      "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html": {
+      "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html",
+        "nearest": "https://www.thebookseller.com/comment/ai-licensing-debate-market",
         "new_action": ""
       },
-      "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/": {
+      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/": {
         "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
         "new_action": ""
       },
-      "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/": {
+      "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
+        "nearest": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy",
         "new_action": ""
       },
-      "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/": {
+      "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/": {
         "verdict": "new",
-        "nearest": "https://www.thecreativepenn.com/2026/09/09/what-machines-cant-replace-why-ai-makes-us-more-human-with-anna-mcphee/",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
+        "new_action": ""
+      },
+      "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/": {
+        "verdict": "new",
+        "nearest": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/",
         "new_action": ""
       }
     },
-    "note": "SWAP RUN (2026-10-06): Removed The Bookseller 'Elredo Voice's AI is making publisher backlists worth recording'. The full-article check found it labelled 'SPONSORED ARTICLE / Promoted Content'. Its dedup entry is removed too. No replacement was added because none of the 4 unused pool items qualifies: (1) The Verge 'OpenAI is adding text watermarking in ChatGPT and Codex' is assigned to politics (cross-section rule). (2) The Digital Reader 'Can Better Wording Fix the Made With AI Problem?' was already removed in the 10-05 fact-check: the research is about advertising labels, not books, and the page has a paid-link insertion. (3) Scholarly Kitchen 'Ask the Chefs ... Open Access/Open Science Part 1' is an open-access retrospective where AI is not the central topic. (4) Publishing Perspectives 'Frankfurter Buchmesse 2026: The Asia Stage Returns' is an event preview where AI is one listed topic among several. Section ships 4 cards, above the floor of 3, and is not padded. Original pick notes: ROSS's history_match is the 9/14 Authors Guild v. OpenAI summary-judgment filing, a different case, so this new appellate decision in Thomson Reuters v. Ross is marked new. Around the Book World 10/5 is a different roundup from the 9/29 edition. Its ElevenLabs/De Marque item overlaps the PW 9/30 card, so the card must lead on the Proyecto451 AI-policy review. The 4 picks come from 4 distinct outlets with no repeated URLs."
+    "note": "DROPPED: (1) The Bookseller 'Sales of Thelyson Orelien's novel skyrocket' (history_match likely-repeat): the same Orelien AI-authorship story was published 9/24 (Bookseller) and 9/26 (Guardian, prize-list removal). A sales surge is extra reporting, not a new decision or release, so it is a duplicate. (2) Jane Friedman 'Another AI scandal affects an author...': paywalled and the same Orelien story, so a duplicate. (3) The Bookseller 'OpenAI trained models on LibGen, unsealed filings': the same unsealed OpenAI/Microsoft filings already published 9/22 (PW 'Unsealed Files Show OpenAI/Microsoft Knew Copying Was Illegal') and 9/18 (TechCrunch). Extra reporting on the same document release, so a duplicate. (4) The Digital Reader 'Can Better Wording Fix the Made With AI Problem?': already rejected in the 10-05 fact-check because the research is about advertising labels, not books, and the page has a paid-link insertion. RANKED ALTERNATES (not picked): PW micromovie studio (the lead studio Rommi makes live-action films and AI appears only in the Harlequin/Dashverse side item, so it risks being a non-AI card); PP Frankfurt Program Picks (event preview with AI as one listed topic, and a second PP card); Scholarly Kitchen attribution-loop guest post (9/24, older, in the same area as earlier SK cards); Electric Literature robot-maid essay (weak AI-books fit). No funding, layoffs or executive items in the pool. DIVERSITY: 5 picks from 5 distinct outlets (Bookseller, Publishing Perspectives, WIRED, Scholarly Kitchen, TechCrunch), no repeated URLs, each card has a distinct accent."
   }
 }

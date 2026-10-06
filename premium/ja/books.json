@@ -5616,6 +5616,150 @@
           "x": "Hong Kong Comics and Animation FederationのAlan Wanは、作家が漫画をAI-generatedアニメーションに変えられると話す。「彼らは単なる漫画家ではなく、監督にもなり得る」。著作権と作者性をめぐる問題は未解決のままだ。"
         }
       ]
+    },
+    "books/books-frankfurt-lepore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+          "cap": "Jill Lepore(写真: Johannes Minkus)。"
+        },
+        {
+          "t": "p",
+          "x": "10月6日に開かれた第78回Frankfurter Buchmesseの開幕記者会見で、ドイツ出版・書籍販売業者協会のSebastian Guggolz会長は、本への愛は今も花開いているが、業界は誰もが気にかける問題、すなわちAIの到来を含む大きな課題に直面していると述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+          "cap": "(左から)Torsten Casimir、Sebastian Guggolz、Juergen Boos、Jill Lepore(写真: Johannes Minkus)。"
+        },
+        {
+          "t": "p",
+          "x": "Guggolzは「読解力の問題は、でたらめに答えを出すAIでは補えない」と述べ、世界の指導者に「即時の介入」を求めた。"
+        },
+        {
+          "t": "p",
+          "x": "Pulitzer Prize-winning(ピューリッツァー賞受賞)の歴史家Jill Leporeは15分間の基調講演で、一握りのテック富豪に委ねられた未来に警鐘を鳴らした。「私たちは今年、歴史の瀬戸際でここに集っている」と述べ、「世界の本に収められた人類の知の総体は、企業が所有する機械に丸ごと飲み込まれた」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "一方、Börsenvereinは「Frankfurt appeal」を発表し、AI学習データの透明性、公正な収益モデルを備えたライセンス市場、欧州著作権法の厳格な執行を立法者に求めた。ブックフェアは10月7–11日に開催される。"
+        }
+      ]
+    },
+    "books/books-roose": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "WIREDのBig Interviewで、Katie DrummondはKevin Rooseと、Casey Newtonと立ち上げた新メディア企業Machine Gods Media、そしてOpenAI、Anthropic、Googleを追った著書The AGI Chroniclesについて語り合う。Rooseは約一年をかけて取材と執筆を行い、150人以上に話を聞いた。"
+        },
+        {
+          "t": "p",
+          "x": "Drummondはこの本をPangramにかけたという。Rooseによれば、本書は「とても疲れて、働きすぎで、寝不足の人間が書いた」もので、リサーチャーのJasmine SunとFSGの人間の編集者が手を貸した。"
+        },
+        {
+          "t": "p",
+          "x": "ただし執筆の周辺ではAIを使った。調査資料やインタビューの書き起こし、論文を集めた巨大なNotebookLMのノートブックを「強化された検索機能のように」使い、取材作業やメモの整理にも助けを借りた。人間のファクトチェッカーと並行してファクトチェック用の「AI swarm」を走らせ、さまざまな視点から編集上のフィードバックを返す「Council of Claudes」も用いた。"
+        },
+        {
+          "t": "p",
+          "x": "Rooseは、読者は本を人間が書いたかどうかを強く気にしていると考える。書き手は自らのプロセスを示し、そこに注がれた労働に人々が共感できるようにすべきだと語る。"
+        }
+      ]
+    },
+    "books/books-ssp-integrity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SSPの2026年9月のPulse Check Pollは、学術出版に携わる181人に、研究公正の課題にどう対応しているかを尋ねた。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+          "cap": "現在、貴組織にとって最大の懸念となっている研究公正上の課題はどれか?"
+        },
+        {
+          "t": "p",
+          "x": "73%がAI-generated(AI生成)またはAI-manipulated(AI改ざん)の原稿を上位三つの懸念に挙げ、論文工場(44%)、虚偽の参考文献やAI-generatedのハルシネーション(41%)が続いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+          "cap": "出版・公開前に以下の問題を検出できることに、貴組織はどの程度自信があるか?"
+        },
+        {
+          "t": "p",
+          "x": "しかし、出版前にAI-generatedの原稿を検出できることに非常に、または極めて自信があるのは10%にとどまり、49%はわずかにしか自信がない、またはまったく自信がないと答えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+          "cap": "全体として、人工知能は現在の研究公正にどのような影響を与えているか?"
+        },
+        {
+          "t": "p",
+          "x": "95%がAIは新たな公正性リスクを生んでいると同意し、54%はすでにAI-assisted(AI支援)のスクリーニングツールを使っている。94%が少なくとも一つの公正性対策を実施しているにもかかわらず、63%はエコシステムが学術記録を守れているという自信をほとんど持っていない。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+          "cap": "根本原因を、影響が大きいと思う順に並べよ。"
+        },
+        {
+          "t": "p",
+          "x": "根本原因の最上位はPublish-or-perish(出版か死か)のインセンティブで、政策や検出を上回る速さで進む生成AIが僅差でそれに続いた。"
+        }
+      ]
+    },
+    "books/books-libreoffice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+          "cap": "Image Credits: LibreOffice"
+        },
+        {
+          "t": "p",
+          "x": "オープンソースの文書編集ソフトLibreOfficeを手がける非営利団体The Document Foundationは今週のブログ投稿で、AIを頭ごなしに否定するわけではないが、当面はソフトウェアにAIを「追加しない」と表明した。"
+        },
+        {
+          "t": "p",
+          "x": "8月下旬の最新リリースは「生成AI機能を一切含まない」。これはユーザーの文書がサーバーにアップロードされず、ソフトウェアのどの部分もネットワーク接続を必要としないようにするための「意図的な設計方針」だという。「機密情報や法的な秘匿特権のある情報、個人データを扱う組織は、そのデータがどこへ行くのかを知る必要がある。監査に耐えうる唯一の保証は、データがマシンから出ないことだ」と同団体は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーは引き続き、LibreOfficeをローカルAIモデルにつなぐ拡張機能をインストールできる。同団体は現時点で要件を満たす統合はないとし、今回の判断は「決定的な拒絶」ではなく、現在の技術に対する評価だと説明した。"
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
+        },
+        {
+          "t": "p",
+          "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
+        }
+      ]
     }
   }
 }

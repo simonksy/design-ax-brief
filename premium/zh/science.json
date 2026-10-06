@@ -5847,6 +5847,135 @@
           "x": "“如果我们想要能与人类协作、以更契合人类的方式理解世界的AI，就不能只关注它是否给出正确答案。”资深作者Kohitij Kar说。"
         }
       ]
+    },
+    "science/science-flashflood-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "山洪可在几分钟内重创一个社区。据National Weather Service统计，这类灾害约占洪水总数的85%，每年在全球造成数千人死亡。"
+        },
+        {
+          "t": "p",
+          "x": "一支包括Penn State研究人员在内的团队，将AI图像生成背后的技术用于预测逐小时的山洪风险，相关成果发表于Water Resources Research。"
+        },
+        {
+          "t": "p",
+          "x": "“人们普遍认为，山洪峰值出现在小时尺度上，”通讯作者Chaopeng Shen说。该模型采用扩散(diffusion)方法：先向干净数据中加入噪声，再让模型学会去除噪声。最新的水文站观测数据无需重新训练即可注入，这一过程称为修补(inpainting)。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+          "cap": "各河流流域的Nash-Sutcliffe Efficiency(NSE)地图；颜色越浅的点表示预测越准确。图片来源：Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+        },
+        {
+          "t": "p",
+          "x": "该方法以U.S. 516个河流流域的逐小时径流数据(1990–2003)训练，并用2009–2014的数据测试，总体优于现有最好的小时尺度深度学习(deep-learning)模型，高流量时期也不例外。它还能反向运行，推算产生某一径流的降雨量。"
+        }
+      ]
+    },
+    "science/science-heart-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+          "cap": "图片来源：Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "一项新研究表明，通过分析心律记录和血液检测，人工智能或能准确发现移植患者的身体何时开始攻击捐献的心脏。目前诊断排斥反应的金标准是活检。"
+        },
+        {
+          "t": "p",
+          "x": "由NYU Langone Health研究人员牵头的团队，用来自2,357名成年心脏移植受者的5,300份EKG记录训练AI模型。一个模型只使用EKG数据；另一个则把EKGs与两项常用于预测排斥风险的血液检测结合起来。"
+        },
+        {
+          "t": "p",
+          "x": "在由38名受者组成的测试组中，结合模型表现更好，正确识别了94%未发生排斥的患者。血液检测模型则把19名患者误判为可能需要活检。"
+        },
+        {
+          "t": "p",
+          "x": "“心电图包含大量生理信息，可用于大幅提高检测准确性，”资深作者Lior Jankelson说。该研究发表于JHLT Open，首次在单一AI模型中将这些生物标志物与EKGs结合。团队下一步计划在多家移植中心开展测试。"
+        }
+      ]
+    },
+    "science/science-earth-ai-public-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "公共卫生决策依赖及时、精细的数据，但监测工作常受制于长达数年的报告滞后、被国界割裂的数据以及数据稀疏。"
+        },
+        {
+          "t": "p",
+          "x": "Google Research的Earth AI Population Dynamics Foundation Model(PDFM)将保护隐私的搜索趋势、人员流动、建成环境密度和环境信号压缩成位置嵌入，可直接接入流行病学家现有的模型。无需针对具体任务微调(fine-tuning)，其表现即可达到或优于传统输入。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+          "cap": "Google Earth AI的PDFM应用于各类全球卫生挑战的概览。"
+        },
+        {
+          "t": "p",
+          "x": "五项合作伙伴案例研究对其进行了检验：跨境MMR疫苗接种模型解释了22%的变异，而非16%；心血管死亡临近预报与基于人口普查的模型相当；墨西哥的登革热预测在最多72%的活跃传播城市中有所改进；产后抑郁风险预测得到提升；DRC的八周霍乱候选清单改进了18%。"
+        },
+        {
+          "t": "p",
+          "x": "PDFM嵌入已以Google Maps Platform的Population Dynamics Insights形式进入Preview商用阶段，部分研究用途可免费使用。"
+        }
+      ]
+    },
+    "science/science-microalgae-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+          "cap": "图片来源：Amarnath Krishnamoorthy"
+        },
+        {
+          "t": "p",
+          "x": "微藻可用于制造动物饲料、色素，还可能用于生产可再生燃料，但要在工业规模上高效培养并不容易。在光生物反应器中，光照、温度、pH和氧气都必须加以控制，而这些参数会相互影响。"
+        },
+        {
+          "t": "p",
+          "x": "传感器可以连续测量这些条件，机器学习(machine-learning)模型则可分析数据，预测生长、优化培养，并在肉眼可见之前发现胁迫。基于图像(Image-based)的方法可以估算生物量或培养密度。"
+        },
+        {
+          "t": "p",
+          "x": "西班牙Almeria的一项2026年研究在80 m²的开放式跑道池中测试了强化学习，在室外条件不断变化的八天里，通过控制二氧化碳注入来调节pH。"
+        },
+        {
+          "t": "p",
+          "x": "问题依然存在：传感器会结垢或漂移，为某一藻株或反应器构建的模型未必能迁移到别处。Amarnath Krishnamoorthy在The Conversation撰文指出，AI应被视为一种补充工具，而非取代传统工艺工程。"
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "图片来源：Orhan Akbaba / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "超过90%的美国人体内能检出永久化学品（PFAS），已知近一半U.S.市政供水含有这类物质。根据EPA新规，供水方必须频繁检测，但多数依赖昂贵的质谱（mass-spectrometry）实验室，结果可能要等上数周。"
+        },
+        {
+          "t": "p",
+          "x": "由Virginia Cornish领导的Columbia与City College团队正在打造一种“生物混合（biohybrid）”装置，将工程酵母、AI-designed蛋白质与CMOS传感芯片结合，用于检测PFAS并监测其去除情况。"
+        },
+        {
+          "t": "p",
+          "x": "植入Saccharomyces cerevisiae的合成受体在结合目标化学品时会让酵母发出绿光。设计这类受体曾需数年；借助Mohammed AlQuraishi实验室的AI工具，团队正努力把设计-构建-测试（design-build-test）周期缩短到仅数周，目前瞄准PFOA和PFOS。"
+        },
+        {
+          "t": "p",
+          "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
+        }
+      ]
     }
   }
 }

@@ -1,1996 +1,1976 @@
 {
-  "date": "2026-10-06",
-  "section": "gadgets",
-  "cards": [
-    {
-      "id": "meta-rayban-walking-navigation-audio",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meta Ray-Ban에\n도보 길안내·오디오 강화",
-      "body": "Meta Ray-Ban 글라스가 업데이트로 오디오를 다듬고 도보 길안내를 더했다.",
-      "mini_headline": "Meta 글라스, 도보 길안내 추가",
-      "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
-      "accent": "#ff5a4d",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-          },
-          {
-            "t": "p",
-            "x": "Meta가 Ray-Ban 스마트 글라스 업데이트를 내놓았다. 오디오 재생이 나아졌고 턴바이턴 도보 길안내가 새로 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "시스템 업데이트 버전 129에는 오디오 변화가 두 가지 들어갔다. Mono Audio는 왼쪽과 오른쪽 채널을 하나로 합쳐 잘 들리지 않는 쪽 소리도 놓치지 않게 한다. Audio Balance는 소리를 왼쪽이나 오른쪽 귀 쪽으로 옮긴다. 둘 다 Meta AI 응답이나 알림처럼 글라스에서 나오는 소리에 적용된다."
-          },
-          {
-            "t": "p",
-            "x": "9월 초 처음 공개된 버전 128도 이제 널리 배포되는 중이다. Spatial Audio 지원과 새 위치 기능이 들어갔고, 프라이버시 LED를 건드리면 카메라가 작동하지 않게 막는 변조 방지 조치도 더해졌다."
-          },
-          {
-            "t": "p",
-            "x": "가장 눈에 띄는 건 턴바이턴 도보 길안내다. “Hey Meta, Times Square로 안내해 줘”라고 말하면 그만이다. 위치 정보는 휴대폰에서 가져온다. 지도 앱에서 장소를 Meta AI로 바로 공유해 글라스에서 길안내를 시작해도 된다. 목적지가 멀면 Meta가 휴대폰으로 운전 경로를 보낸다."
-          },
-          {
-            "t": "p",
-            "x": "오디오 변화는 이제 막 배포를 시작했다. 길안내는 Meta AI 앱 업데이트로 이미 널리 풀리는 중이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta Ray-Ban glasses get\nwalking directions and audio",
-          "body": "Meta's latest Ray-Ban smart glasses updates upgrade audio playback and add turn-by-turn walking navigation.",
-          "mini_headline": "Meta glasses add walking navigation",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Meta's most recent updates for its Ray-Ban smart glasses deliver upgrades to audio playback as well as new turn-by-turn walking navigation."
-              },
-              {
-                "t": "p",
-                "x": "System update version 129 brings two audio changes. Mono Audio combines the left and right channels so nothing gets missed on the side you can't hear, and Audio Balance shifts sound toward your left or right ear. Both apply to sounds the glasses make, like Meta AI responses and notifications."
-              },
-              {
-                "t": "p",
-                "x": "Version 128, which first debuted earlier in September, is now broadly available. It adds Spatial Audio support, further anti-tampering tweaks that stop the camera from working if the privacy LED has been messed with, and new location features."
-              },
-              {
-                "t": "p",
-                "x": "Chief among them is turn-by-turn pedestrian navigation: just say “Hey Meta, navigate to Times Square.” Directions pull your location from your phone, and you can share a place from your mapping app directly to Meta AI to start navigation on the glasses. For places further away, Meta sends driving directions to your phone."
-              },
-              {
-                "t": "p",
-                "x": "The audio changes are still starting to roll out, while the navigation upgrades are broadly available as an update in the Meta AI app."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meta Ray-Ban에\n도보 길안내·오디오 강화",
-          "body": "Meta Ray-Ban 글라스가 업데이트로 오디오를 다듬고 도보 길안내를 더했다.",
-          "mini_headline": "Meta 글라스, 도보 길안내 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Meta가 Ray-Ban 스마트 글라스 업데이트를 내놓았다. 오디오 재생이 나아졌고 턴바이턴 도보 길안내가 새로 붙었다."
-              },
-              {
-                "t": "p",
-                "x": "시스템 업데이트 버전 129에는 오디오 변화가 두 가지 들어갔다. Mono Audio는 왼쪽과 오른쪽 채널을 하나로 합쳐 잘 들리지 않는 쪽 소리도 놓치지 않게 한다. Audio Balance는 소리를 왼쪽이나 오른쪽 귀 쪽으로 옮긴다. 둘 다 Meta AI 응답이나 알림처럼 글라스에서 나오는 소리에 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "9월 초 처음 공개된 버전 128도 이제 널리 배포되는 중이다. Spatial Audio 지원과 새 위치 기능이 들어갔고, 프라이버시 LED를 건드리면 카메라가 작동하지 않게 막는 변조 방지 조치도 더해졌다."
-              },
-              {
-                "t": "p",
-                "x": "가장 눈에 띄는 건 턴바이턴 도보 길안내다. “Hey Meta, Times Square로 안내해 줘”라고 말하면 그만이다. 위치 정보는 휴대폰에서 가져온다. 지도 앱에서 장소를 Meta AI로 바로 공유해 글라스에서 길안내를 시작해도 된다. 목적지가 멀면 Meta가 휴대폰으로 운전 경로를 보낸다."
-              },
-              {
-                "t": "p",
-                "x": "오디오 변화는 이제 막 배포를 시작했다. 길안내는 Meta AI 앱 업데이트로 이미 널리 풀리는 중이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta Ray-Banに\n徒歩ナビとオーディオ強化",
-          "body": "MetaのRay-Banスマートグラスが更新され、音声再生の改善と徒歩ナビが加わった。",
-          "mini_headline": "Metaグラスに徒歩ナビ追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "MetaはRay-Banスマートグラス向けの最新アップデートで、オーディオ再生を改善し、ターンバイターン方式の徒歩ナビゲーションを新たに追加した。"
-              },
-              {
-                "t": "p",
-                "x": "システムアップデートのバージョン129には、オーディオ関連の変更が二つある。Mono Audioは左右のチャンネルを一つにまとめ、聞こえにくい側の音を聞き逃さないようにする。Audio Balanceは音を左右どちらかの耳に寄せる。いずれもMeta AIの応答や通知など、グラスが発する音に適用される。"
-              },
-              {
-                "t": "p",
-                "x": "9月上旬に初登場したバージョン128は、現在広く提供されている。Spatial Audioへの対応、プライバシーLEDに細工された場合にカメラが動作しなくなる改ざん防止策の強化、新しい位置情報機能が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "中でも目玉はターンバイターン方式の徒歩ナビだ。「Hey Meta、Times Squareへ案内して」と話しかけるだけでよい。経路案内はスマートフォンから位置情報を取得し、地図アプリから場所をMeta AIに直接共有してグラス上でナビを始めることもできる。遠い場所の場合、Metaはスマートフォンに車の経路を送る。"
-              },
-              {
-                "t": "p",
-                "x": "オーディオの変更は展開が始まったばかりだが、ナビ機能はMeta AIアプリのアップデートとして広く提供されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta Ray-Ban眼镜\n新增步行导航、升级音频",
-          "body": "Meta为Ray-Ban智能眼镜推送更新，升级音频播放并新增逐向步行导航。",
-          "mini_headline": "Meta眼镜新增步行导航",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Meta为Ray-Ban智能眼镜推出的最新更新升级了音频播放，并新增逐向步行导航。"
-              },
-              {
-                "t": "p",
-                "x": "系统更新版本129带来两项音频变化。Mono Audio将左右声道合并，让听力较弱的一侧不会漏听任何声音；Audio Balance则可把声音偏向左耳或右耳。两项功能都适用于眼镜发出的声音，例如Meta AI的回应和通知。"
-              },
-              {
-                "t": "p",
-                "x": "9月初首次亮相的版本128现已广泛推送。它新增Spatial Audio支持，进一步加强防篡改措施（隐私LED若被动过手脚，摄像头将无法工作），并加入了新的位置功能。"
-              },
-              {
-                "t": "p",
-                "x": "其中最重要的是逐向步行导航：只需说“Hey Meta，导航到Times Square。”导航会从手机获取你的位置，你也可以从地图应用把地点直接分享给Meta AI，在眼镜上开始导航。若目的地较远，Meta会把驾车路线发送到你的手机。"
-              },
-              {
-                "t": "p",
-                "x": "音频变化仍处于刚开始推送的阶段，而导航升级已作为Meta AI应用的更新广泛上线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las Meta Ray-Ban suman\nnavegación a pie y mejor audio",
-          "body": "Las últimas actualizaciones de las gafas Meta Ray-Ban mejoran el audio y añaden navegación a pie paso a paso.",
-          "mini_headline": "Las gafas de Meta añaden navegación a pie",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Las actualizaciones más recientes de Meta para sus gafas inteligentes Ray-Ban mejoran la reproducción de audio y añaden una nueva navegación a pie paso a paso."
-              },
-              {
-                "t": "p",
-                "x": "La actualización del sistema, versión 129, trae dos cambios de audio. Mono Audio combina los canales izquierdo y derecho para que no se pierda nada en el lado que no se oye, y Audio Balance desplaza el sonido hacia el oído izquierdo o el derecho. Ambos se aplican a los sonidos que emiten las gafas, como las respuestas de Meta AI y las notificaciones."
-              },
-              {
-                "t": "p",
-                "x": "La versión 128, que debutó a principios de septiembre, ya está disponible de forma general. Añade compatibilidad con Spatial Audio, nuevos ajustes contra la manipulación que impiden que la cámara funcione si se ha alterado el LED de privacidad, y nuevas funciones de ubicación."
-              },
-              {
-                "t": "p",
-                "x": "La principal es la navegación peatonal paso a paso: basta con decir “Hey Meta, llévame a Times Square”. Las indicaciones toman la ubicación del teléfono, y se puede compartir un lugar desde la app de mapas directamente con Meta AI para iniciar la navegación en las gafas. Para destinos más lejanos, Meta envía indicaciones para conducir al teléfono."
-              },
-              {
-                "t": "p",
-                "x": "Los cambios de audio apenas empiezan a desplegarse, mientras que las mejoras de navegación ya están disponibles de forma general como actualización en la app Meta AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meta Ray-Ban에\n도보 길안내·오디오 강화",
-          "body": "Meta Ray-Ban 글라스 업데이트가 오디오를 개선하고 도보 길안내를 더했다.",
-          "mini_headline": "Meta 글라스, 도보 길안내 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Meta가 Ray-Ban 스마트 글라스에 내놓은 최근 업데이트는 오디오 재생을 개선하고 턴바이턴 도보 길안내를 새로 더했다."
-              },
-              {
-                "t": "p",
-                "x": "시스템 업데이트 버전 129는 두 가지 오디오 변화를 담았다. Mono Audio는 왼쪽과 오른쪽 채널을 하나로 합쳐 잘 들리지 않는 쪽의 소리를 놓치지 않게 하고, Audio Balance는 소리를 왼쪽 또는 오른쪽 귀 쪽으로 옮긴다. 두 기능 모두 Meta AI 응답이나 알림처럼 글라스가 내는 소리에 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "9월 초 처음 공개된 버전 128은 이제 폭넓게 배포되고 있다. Spatial Audio 지원, 프라이버시 LED를 건드리면 카메라가 작동하지 않게 하는 추가 변조 방지 조치, 새로운 위치 기능이 들어갔다."
-              },
-              {
-                "t": "p",
-                "x": "가장 눈에 띄는 것은 턴바이턴 도보 길안내다. “Hey Meta, Times Square로 안내해 줘”라고 말하기만 하면 된다. 길안내는 휴대폰에서 위치 정보를 가져오며, 지도 앱에서 장소를 Meta AI로 바로 공유해 글라스에서 길안내를 시작할 수도 있다. 더 먼 곳이면 Meta가 휴대폰으로 운전 경로를 보낸다."
-              },
-              {
-                "t": "p",
-                "x": "오디오 변화는 이제 막 배포가 시작되는 단계이고, 길안내 기능은 Meta AI 앱 업데이트로 폭넓게 제공되고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta Ray-Banに\n徒歩ナビとオーディオ強化",
-          "body": "MetaのRay-Banスマートグラスが更新され、音声再生の改善と徒歩ナビが加わった。",
-          "mini_headline": "Metaグラスに徒歩ナビ追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "MetaはRay-Banスマートグラス向けの最新アップデートで、オーディオ再生を改善し、ターンバイターン方式の徒歩ナビゲーションを新たに追加した。"
-              },
-              {
-                "t": "p",
-                "x": "システムアップデートのバージョン129には、オーディオ関連の変更が二つある。Mono Audioは左右のチャンネルを一つにまとめ、聞こえにくい側の音を聞き逃さないようにする。Audio Balanceは音を左右どちらかの耳に寄せる。いずれもMeta AIの応答や通知など、グラスが発する音に適用される。"
-              },
-              {
-                "t": "p",
-                "x": "9月上旬に初登場したバージョン128は、現在広く提供されている。Spatial Audioへの対応、プライバシーLEDに細工された場合にカメラが動作しなくなる改ざん防止策の強化、新しい位置情報機能が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "中でも目玉はターンバイターン方式の徒歩ナビだ。「Hey Meta、Times Squareへ案内して」と話しかけるだけでよい。経路案内はスマートフォンから位置情報を取得し、地図アプリから場所をMeta AIに直接共有してグラス上でナビを始めることもできる。遠い場所の場合、Metaはスマートフォンに車の経路を送る。"
-              },
-              {
-                "t": "p",
-                "x": "オーディオの変更は展開が始まったばかりだが、ナビ機能はMeta AIアプリのアップデートとして広く提供されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta Ray-Ban眼镜\n新增步行导航、升级音频",
-          "body": "Meta为Ray-Ban智能眼镜推送更新，升级音频播放并新增逐向步行导航。",
-          "mini_headline": "Meta眼镜新增步行导航",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Meta为Ray-Ban智能眼镜推出的最新更新升级了音频播放，并新增逐向步行导航。"
-              },
-              {
-                "t": "p",
-                "x": "系统更新版本129带来两项音频变化。Mono Audio将左右声道合并，让听力较弱的一侧不会漏听任何声音；Audio Balance则可把声音偏向左耳或右耳。两项功能都适用于眼镜发出的声音，例如Meta AI的回应和通知。"
-              },
-              {
-                "t": "p",
-                "x": "9月初首次亮相的版本128现已广泛推送。它新增Spatial Audio支持，进一步加强防篡改措施（隐私LED若被动过手脚，摄像头将无法工作），并加入了新的位置功能。"
-              },
-              {
-                "t": "p",
-                "x": "其中最重要的是逐向步行导航：只需说“Hey Meta，导航到Times Square。”导航会从手机获取你的位置，你也可以从地图应用把地点直接分享给Meta AI，在眼镜上开始导航。若目的地较远，Meta会把驾车路线发送到你的手机。"
-              },
-              {
-                "t": "p",
-                "x": "音频变化仍处于刚开始推送的阶段，而导航升级已作为Meta AI应用的更新广泛上线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las Meta Ray-Ban suman\nnavegación a pie y mejor audio",
-          "body": "Las últimas actualizaciones de las gafas Meta Ray-Ban mejoran el audio y añaden navegación a pie paso a paso.",
-          "mini_headline": "Las gafas de Meta añaden navegación a pie",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Las actualizaciones más recientes de Meta para sus gafas inteligentes Ray-Ban mejoran la reproducción de audio y añaden una nueva navegación a pie paso a paso."
-              },
-              {
-                "t": "p",
-                "x": "La actualización del sistema, versión 129, trae dos cambios de audio. Mono Audio combina los canales izquierdo y derecho para que no se pierda nada en el lado que no se oye, y Audio Balance desplaza el sonido hacia el oído izquierdo o el derecho. Ambos se aplican a los sonidos que emiten las gafas, como las respuestas de Meta AI y las notificaciones."
-              },
-              {
-                "t": "p",
-                "x": "La versión 128, que debutó a principios de septiembre, ya está disponible de forma general. Añade compatibilidad con Spatial Audio, nuevos ajustes contra la manipulación que impiden que la cámara funcione si se ha alterado el LED de privacidad, y nuevas funciones de ubicación."
-              },
-              {
-                "t": "p",
-                "x": "La principal es la navegación peatonal paso a paso: basta con decir “Hey Meta, llévame a Times Square”. Las indicaciones toman la ubicación del teléfono, y se puede compartir un lugar desde la app de mapas directamente con Meta AI para iniciar la navegación en las gafas. Para destinos más lejanos, Meta envía indicaciones para conducir al teléfono."
-              },
-              {
-                "t": "p",
-                "x": "Los cambios de audio apenas empiezan a desplegarse, mientras que las mejoras de navegación ya están disponibles de forma general como actualización en la app Meta AI."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "gadgets",
+ "cards": [
+  {
+   "id": "gadgets-ghost-core",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Ghost Core는 로컬\nAI용 $3,499 박스",
+   "body": "Ghost Core는 Nvidia RTX PRO 4000 GPU 기반 로컬 AI다.",
+   "mini_headline": "Ghost Core 로컬 AI 박스",
+   "tool": "Gadgets",
+   "source": "TechRadar",
+   "url": "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box",
+   "accent": "#ff5a4d",
+   "motif": "headset",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+     },
+     {
+      "t": "p",
+      "x": "스타트업 Ghost의 첫 제품은 Core다. LLMs(대규모 언어 모델)를 기기 안에서만 돌리는 로컬 AI 에이전트용 PC다. Ghost는 이를 \"모델을 전부 기기에서 실행하는 개인용 AI 컴퓨터\"라고 부른다. 사용자의 앱과 파일, 기기에 연결돼 \"시간이 지나며 당신의 삶에 대한 맥락을 쌓아 간다\"는 설명이다. 창업자 겸 CEO Zain Javaid의 표현으로는 \"상자 속 두뇌\"다. 회사는 막 1100만 달러를 투자받았다."
+     },
+     {
+      "t": "p",
+      "x": "Core의 중심은 24GB 비디오 RAM을 갖춘 Nvidia RTX Pro 4000 (Blackwell)이다. 여기에 64GB DDR5를 더해 770 TOPS를 낸다. Qwen-3.8-Next, Qwen-3.8-27B, Gemma-4-31B 모델이 미리 깔려 나오고, 모델 업데이트는 무선으로 받는다. 휴대폰이나 노트북 앱으로 조작하며 음성으로도 쓸 수 있다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+      "cap": "케이스를 벗겨 부품을 드러낸 Ghost Core AI PC"
+     },
+     {
+      "t": "p",
+      "x": "개인 데이터는 암호화돼 Ghost조차 들여다볼 수 없다. Ghost가 문을 닫아도 기기는 계속 돌아가도록 만들었고 구독료도 없다. 방화벽은 에이전트가 자격 증명을 쓰는 방식을 제한하고, 의심스러운 외부 요청은 따로 표시해 사용자가 검토하게 한다."
+     },
+     {
+      "t": "p",
+      "x": "Core는 미국에서 $3,499에 팔린다. 첫 물량은 출시 첫날 매진됐고 배송은 이달 말이다. AI용 최고 사양 Mac mini는 $3,199다. 다만 Core 같은 전용 로컬 AI(local-AI) 소프트웨어와 개인정보 보호 기능은 없다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Ghost Core is a $3,499 box\nfor running local AI agents",
+     "body": "A teen founder's Ghost Core runs on an Nvidia RTX PRO 4000 GPU and promises a subscription-free local AI.",
+     "mini_headline": "Ghost Core local AI box",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Startup Ghost's first product is Core, a PC for local AI agents that runs LLMs exclusively on-device. Ghost calls it \"a personal AI computer that runs models entirely on device,\" one that connects to your apps, files, and devices and \"builds context on your life over time.\" Founder and CEO Zain Javaid, whose company just raised $11 million, calls it a \"brain in a box\"."
+       },
+       {
+        "t": "p",
+        "x": "Core is built around an Nvidia RTX Pro 4000 (Blackwell) with 24GB of video RAM, plus 64GB of DDR5, rated at 770 TOPS. It ships with Qwen-3.8-Next, Qwen-3.8-27B, and Gemma-4-31B pre-installed, updates models over the air, and is controlled via a phone or laptop app, including by voice."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "Ghost Core AI PC case shown removed, with the components on display"
+       },
+       {
+        "t": "p",
+        "x": "Personal data is encrypted, even Ghost can't access it, and the device is designed to keep running if Ghost shut down, with no subscription fee. A firewall limits how agents use credentials and flags suspicious outgoing requests for user review."
+       },
+       {
+        "t": "p",
+        "x": "Core costs $3,499 in the US; the first batch sold out on day one and ships at the end of this month. A top-spec Mac mini for AI runs $3,199, but lacks Core's dedicated local-AI software and privacy features."
+       }
+      ]
+     }
     },
-    {
-      "id": "windows-11-26h2-file-explorer-ai-actions",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Windows 11\n26H2, 탐색기에 AI",
-      "body": "Microsoft가 Windows 11 26H2를 배포해 탐색기에 AI를 더했다.",
-      "mini_headline": "Windows 11 26H2, AI 파일 작업 추가",
-      "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-            "cap": "공식 Windows 11 로고."
-          },
-          {
-            "t": "p",
-            "x": "Microsoft가 Windows 11 버전 26H2 배포를 시작했다. Windows 11 2026 Update라고도 부른다. 배포는 2026년 9월 29일 시작됐다. 버전 24H2나 25H2를 쓰는 기기는 작은 활성화 패키지로 받는다."
-          },
-          {
-            "t": "p",
-            "x": "기능 대부분은 월간 업데이트로 이미 PCs에 들어와 있다. 이 패키지는 보통 재시작 한 번으로 그 기능을 켠다. 지원 기간도 새로 시작한다. Home과 Pro는 24개월, Enterprise와 Education은 36개월이다."
-          },
-          {
-            "t": "p",
-            "x": "File Explorer에는 지원 이미지를 편집하고 문서를 요약하는 AI 작업이 들어왔다. 요약(Summarize)은 OneDrive와 SharePoint 파일에서 작동하고 Microsoft 365 구독과 Copilot 라이선스가 있어야 한다. 회사나 학교 계정이라면 File Explorer Home에서 파일에 마우스를 올렸을 때 Open File Location과 Ask Copilot 항목도 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "Explorer는 uu, cpio, xar, nupkg 압축 파일과 음성 입력 이름 바꾸기를 지원한다. 작업 표시줄은 이제 화면 어느 가장자리에나 둘 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "보안 쪽으로는 Sysmon이 내장되고 Administrator protection이 들어왔다(둘 다 기본값은 꺼짐). 양자 내성 알고리즘 ML-KEM과 ML-DSA용 API 지원도 Windows에 추가됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Windows 11 26H2 rolls out\nwith AI File Explorer actions",
-          "body": "Microsoft's Windows 11 26H2 is rolling out, adding File Explorer AI actions that edit images and summarize documents.",
-          "mini_headline": "Windows 11 26H2 adds AI file actions",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "The official Windows 11 logo."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft has started rolling out Windows 11 version 26H2, also called the Windows 11 2026 Update. The release began on September 29, 2026, and arrives as a small enablement package for devices already running version 24H2 or 25H2."
-              },
-              {
-                "t": "p",
-                "x": "Most features already reached PCs through monthly updates; the package activates them with a single restart in most cases. It also resets the support clock: 24 months for Home and Pro, 36 months for Enterprise and Education."
-              },
-              {
-                "t": "p",
-                "x": "File Explorer gets AI actions that let users edit supported images or summarize documents. Summarize works on files in OneDrive and SharePoint and requires a Microsoft 365 subscription and a Copilot license. Work or school accounts also see Open File Location and Ask Copilot when hovering over files in File Explorer Home."
-              },
-              {
-                "t": "p",
-                "x": "Explorer adds support for uu, cpio, xar and nupkg archives and voice-typing renames, and the taskbar can now sit on any screen edge."
-              },
-              {
-                "t": "p",
-                "x": "On security, Sysmon is built in, Administrator protection arrives (both off by default), and Windows adds API support for post-quantum algorithms ML-KEM and ML-DSA."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Windows 11\n26H2, 탐색기에 AI",
-          "body": "Microsoft가 Windows 11 26H2를 배포해 탐색기에 AI를 더했다.",
-          "mini_headline": "Windows 11 26H2, AI 파일 작업 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "공식 Windows 11 로고."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft가 Windows 11 버전 26H2 배포를 시작했다. Windows 11 2026 Update라고도 부른다. 배포는 2026년 9월 29일 시작됐다. 버전 24H2나 25H2를 쓰는 기기는 작은 활성화 패키지로 받는다."
-              },
-              {
-                "t": "p",
-                "x": "기능 대부분은 월간 업데이트로 이미 PCs에 들어와 있다. 이 패키지는 보통 재시작 한 번으로 그 기능을 켠다. 지원 기간도 새로 시작한다. Home과 Pro는 24개월, Enterprise와 Education은 36개월이다."
-              },
-              {
-                "t": "p",
-                "x": "File Explorer에는 지원 이미지를 편집하고 문서를 요약하는 AI 작업이 들어왔다. 요약(Summarize)은 OneDrive와 SharePoint 파일에서 작동하고 Microsoft 365 구독과 Copilot 라이선스가 있어야 한다. 회사나 학교 계정이라면 File Explorer Home에서 파일에 마우스를 올렸을 때 Open File Location과 Ask Copilot 항목도 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "Explorer는 uu, cpio, xar, nupkg 압축 파일과 음성 입력 이름 바꾸기를 지원한다. 작업 표시줄은 이제 화면 어느 가장자리에나 둘 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "보안 쪽으로는 Sysmon이 내장되고 Administrator protection이 들어왔다(둘 다 기본값은 꺼짐). 양자 내성 알고리즘 ML-KEM과 ML-DSA용 API 지원도 Windows에 추가됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Windows 11\n26H2、AI操作を追加",
-          "body": "MicrosoftのWindows 11 26H2がエクスプローラーにAI操作を追加した。",
-          "mini_headline": "Windows 11 26H2 にAIファイル操作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "Windows 11の公式ロゴ。"
-              },
-              {
-                "t": "p",
-                "x": "MicrosoftはWindows 11 2026 Updateとも呼ばれるWindows 11 バージョン26H2 の配信を開始した。配信は2026年9月29日に始まり、バージョン24H2 または25H2 を実行中のデバイスには小規模な有効化パッケージとして提供される。"
-              },
-              {
-                "t": "p",
-                "x": "ほとんどの機能はすでに月例更新でPCsに届いており、このパッケージは多くの場合、一度の再起動でそれらを有効にする。サポート期間もリセットされ、HomeとProは24か月、EnterpriseとEducationは36か月となる。"
-              },
-              {
-                "t": "p",
-                "x": "File Explorerには、対応する画像を編集したり文書を要約したりできるAI操作が加わった。要約(Summarize)はOneDriveとSharePoint上のファイルで機能し、Microsoft 365のサブスクリプションとCopilotライセンスが必要だ。職場または学校のアカウントでは、File Explorer Homeでファイルにカーソルを合わせると、Open File LocationとAsk Copilotも表示される。"
-              },
-              {
-                "t": "p",
-                "x": "Explorerはuu、cpio、xar、nupkg形式のアーカイブと音声入力による名前変更に対応し、タスクバーは画面のどの端にも配置できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "セキュリティ面では、Sysmonが標準搭載され、Administrator protectionが導入された(いずれも既定ではオフ)。さらにWindowsは、耐量子アルゴリズムML-KEMとML-DSAのAPIサポートを追加した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Windows 11\n26H2推送，新增AI操作",
-          "body": "Microsoft开始推送Windows 11 26H2，为文件资源管理器加入AI操作。",
-          "mini_headline": "Windows 11 26H2 新增AI文件操作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "Windows 11官方标志。"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft已开始推送Windows 11版本26H2，也称Windows 11 2026 Update。此次发布始于2026年9月29日，对已运行24H2 或25H2 版本的设备而言，它以小型启用包的形式提供。"
-              },
-              {
-                "t": "p",
-                "x": "大多数功能此前已通过月度更新进入PCs，该启用包在多数情况下只需重启一次即可将其激活。它还会重置支持周期：Home和Pro为24个月，Enterprise和Education为36个月。"
-              },
-              {
-                "t": "p",
-                "x": "File Explorer新增AI操作，用户可编辑受支持的图片或总结文档。总结（Summarize）功能适用于OneDrive和SharePoint中的文件，需要Microsoft 365订阅和Copilot许可证。工作或学校账户在File Explorer Home中将鼠标悬停在文件上时，还会看到Open File Location和Ask Copilot。"
-              },
-              {
-                "t": "p",
-                "x": "Explorer新增对uu、cpio、xar和nupkg压缩格式的支持，以及语音输入重命名功能；任务栏现在也可以放在屏幕任意一侧。"
-              },
-              {
-                "t": "p",
-                "x": "安全方面，Sysmon成为内置组件，并引入Administrator protection（两者默认均为关闭），Windows还新增了对后量子算法ML-KEM和ML-DSA的API支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Windows 11 26H2 llega con\nacciones de AI en File Explorer",
-          "body": "Microsoft lanza Windows 11 26H2, que añade a File Explorer acciones de AI para editar imágenes y resumir documentos.",
-          "mini_headline": "Windows 11 26H2 suma acciones de AI para archivos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "El logotipo oficial de Windows 11."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft ha comenzado a distribuir Windows 11 versión 26H2, también llamada Windows 11 2026 Update. El lanzamiento comenzó el 29 de septiembre de 2026 y llega como un pequeño paquete de habilitación para los dispositivos que ya ejecutan la versión 24H2 o 25H2."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las funciones ya llegaron a los PCs mediante actualizaciones mensuales; en la mayoría de los casos, el paquete las activa con un solo reinicio. También reinicia el plazo de soporte: 24 meses para Home y Pro, y 36 meses para Enterprise y Education."
-              },
-              {
-                "t": "p",
-                "x": "File Explorer incorpora acciones de AI que permiten editar imágenes compatibles o resumir documentos. Summarize funciona con archivos de OneDrive y SharePoint y requiere una suscripción a Microsoft 365 y una licencia de Copilot. Las cuentas de trabajo o educativas también ven Open File Location y Ask Copilot al pasar el cursor sobre los archivos en File Explorer Home."
-              },
-              {
-                "t": "p",
-                "x": "Explorer añade compatibilidad con archivos uu, cpio, xar y nupkg y con el cambio de nombre por dictado de voz, y la barra de tareas ya puede colocarse en cualquier borde de la pantalla."
-              },
-              {
-                "t": "p",
-                "x": "En seguridad, Sysmon viene integrado, llega Administrator protection (ambos desactivados por defecto) y Windows añade compatibilidad de API con los algoritmos poscuánticos ML-KEM y ML-DSA."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Windows 11\n26H2, 탐색기에 AI",
-          "body": "Microsoft가 Windows 11 26H2를 배포해 탐색기에 AI를 더했다.",
-          "mini_headline": "Windows 11 26H2, AI 파일 작업 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "공식 Windows 11 로고."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft가 Windows 11 2026 Update로도 불리는 Windows 11 버전 26H2 배포를 시작했다. 배포는 2026년 9월 29일 시작됐으며, 이미 버전 24H2 또는 25H2를 쓰는 기기에는 작은 활성화 패키지 형태로 제공된다."
-              },
-              {
-                "t": "p",
-                "x": "대부분의 기능은 이미 월간 업데이트를 통해 PCs에 전달됐고, 이 패키지는 대개 한 번의 재시작으로 이를 활성화한다. 지원 기간도 새로 시작된다. Home과 Pro는 24개월, Enterprise와 Education은 36개월이다."
-              },
-              {
-                "t": "p",
-                "x": "File Explorer에는 지원되는 이미지를 편집하거나 문서를 요약하는 AI 작업이 추가됐다. 요약(Summarize) 기능은 OneDrive와 SharePoint에 있는 파일에서 작동하며, Microsoft 365 구독과 Copilot 라이선스가 필요하다. 회사 또는 학교 계정에서는 File Explorer Home에서 파일 위에 마우스를 올리면 Open File Location과 Ask Copilot 항목도 나타난다."
-              },
-              {
-                "t": "p",
-                "x": "Explorer는 uu, cpio, xar, nupkg 압축 파일과 음성 입력으로 이름 바꾸기를 지원하며, 작업 표시줄은 이제 화면의 어느 가장자리에도 둘 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "보안 측면에서는 Sysmon이 내장되고 Administrator protection이 도입됐으며(둘 다 기본값은 꺼짐), Windows는 양자 내성 알고리즘 ML-KEM과 ML-DSA에 대한 API 지원을 추가했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Windows 11\n26H2、AI操作を追加",
-          "body": "MicrosoftのWindows 11 26H2がエクスプローラーにAI操作を追加した。",
-          "mini_headline": "Windows 11 26H2 にAIファイル操作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "Windows 11の公式ロゴ。"
-              },
-              {
-                "t": "p",
-                "x": "MicrosoftはWindows 11 2026 Updateとも呼ばれるWindows 11 バージョン26H2 の配信を開始した。配信は2026年9月29日に始まり、バージョン24H2 または25H2 を実行中のデバイスには小規模な有効化パッケージとして提供される。"
-              },
-              {
-                "t": "p",
-                "x": "ほとんどの機能はすでに月例更新でPCsに届いており、このパッケージは多くの場合、一度の再起動でそれらを有効にする。サポート期間もリセットされ、HomeとProは24か月、EnterpriseとEducationは36か月となる。"
-              },
-              {
-                "t": "p",
-                "x": "File Explorerには、対応する画像を編集したり文書を要約したりできるAI操作が加わった。要約(Summarize)はOneDriveとSharePoint上のファイルで機能し、Microsoft 365のサブスクリプションとCopilotライセンスが必要だ。職場または学校のアカウントでは、File Explorer Homeでファイルにカーソルを合わせると、Open File LocationとAsk Copilotも表示される。"
-              },
-              {
-                "t": "p",
-                "x": "Explorerはuu、cpio、xar、nupkg形式のアーカイブと音声入力による名前変更に対応し、タスクバーは画面のどの端にも配置できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "セキュリティ面では、Sysmonが標準搭載され、Administrator protectionが導入された(いずれも既定ではオフ)。さらにWindowsは、耐量子アルゴリズムML-KEMとML-DSAのAPIサポートを追加した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Windows 11\n26H2推送，新增AI操作",
-          "body": "Microsoft开始推送Windows 11 26H2，为文件资源管理器加入AI操作。",
-          "mini_headline": "Windows 11 26H2 新增AI文件操作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "Windows 11官方标志。"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft已开始推送Windows 11版本26H2，也称Windows 11 2026 Update。此次发布始于2026年9月29日，对已运行24H2 或25H2 版本的设备而言，它以小型启用包的形式提供。"
-              },
-              {
-                "t": "p",
-                "x": "大多数功能此前已通过月度更新进入PCs，该启用包在多数情况下只需重启一次即可将其激活。它还会重置支持周期：Home和Pro为24个月，Enterprise和Education为36个月。"
-              },
-              {
-                "t": "p",
-                "x": "File Explorer新增AI操作，用户可编辑受支持的图片或总结文档。总结（Summarize）功能适用于OneDrive和SharePoint中的文件，需要Microsoft 365订阅和Copilot许可证。工作或学校账户在File Explorer Home中将鼠标悬停在文件上时，还会看到Open File Location和Ask Copilot。"
-              },
-              {
-                "t": "p",
-                "x": "Explorer新增对uu、cpio、xar和nupkg压缩格式的支持，以及语音输入重命名功能；任务栏现在也可以放在屏幕任意一侧。"
-              },
-              {
-                "t": "p",
-                "x": "安全方面，Sysmon成为内置组件，并引入Administrator protection（两者默认均为关闭），Windows还新增了对后量子算法ML-KEM和ML-DSA的API支持。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Windows 11 26H2 llega con\nacciones de AI en File Explorer",
-          "body": "Microsoft lanza Windows 11 26H2, que añade a File Explorer acciones de AI para editar imágenes y resumir documentos.",
-          "mini_headline": "Windows 11 26H2 suma acciones de AI para archivos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-                "cap": "El logotipo oficial de Windows 11."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft ha comenzado a distribuir Windows 11 versión 26H2, también llamada Windows 11 2026 Update. El lanzamiento comenzó el 29 de septiembre de 2026 y llega como un pequeño paquete de habilitación para los dispositivos que ya ejecutan la versión 24H2 o 25H2."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de las funciones ya llegaron a los PCs mediante actualizaciones mensuales; en la mayoría de los casos, el paquete las activa con un solo reinicio. También reinicia el plazo de soporte: 24 meses para Home y Pro, y 36 meses para Enterprise y Education."
-              },
-              {
-                "t": "p",
-                "x": "File Explorer incorpora acciones de AI que permiten editar imágenes compatibles o resumir documentos. Summarize funciona con archivos de OneDrive y SharePoint y requiere una suscripción a Microsoft 365 y una licencia de Copilot. Las cuentas de trabajo o educativas también ven Open File Location y Ask Copilot al pasar el cursor sobre los archivos en File Explorer Home."
-              },
-              {
-                "t": "p",
-                "x": "Explorer añade compatibilidad con archivos uu, cpio, xar y nupkg y con el cambio de nombre por dictado de voz, y la barra de tareas ya puede colocarse en cualquier borde de la pantalla."
-              },
-              {
-                "t": "p",
-                "x": "En seguridad, Sysmon viene integrado, llega Administrator protection (ambos desactivados por defecto) y Windows añade compatibilidad de API con los algoritmos poscuánticos ML-KEM y ML-DSA."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "Ghost Core: una caja de $3,499\npara agentes de AI locales",
+     "body": "Ghost Core, de un fundador adolescente, usa una GPU Nvidia RTX PRO 4000 y promete AI local sin suscripción.",
+     "mini_headline": "Ghost Core, caja de AI local",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "El primer producto de la startup Ghost es Core, un PC para agentes de AI locales que ejecuta LLMs exclusivamente en el dispositivo (on-device). Ghost lo describe como \"una computadora personal de AI que ejecuta modelos íntegramente en el dispositivo\", que se conecta a tus apps, archivos y dispositivos y \"construye contexto sobre tu vida con el tiempo\". Su fundador y CEO, Zain Javaid, cuya empresa acaba de recaudar $11 millones, lo llama \"un cerebro en una caja\"."
+       },
+       {
+        "t": "p",
+        "x": "Core se basa en una Nvidia RTX Pro 4000 (Blackwell) con 24GB de video RAM, más 64GB de DDR5, y rinde 770 TOPS. Viene con Qwen-3.8-Next, Qwen-3.8-27B y Gemma-4-31B preinstalados, actualiza los modelos de forma inalámbrica y se controla desde una app para teléfono o portátil, incluso por voz."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "El Ghost Core AI PC sin la carcasa, con los componentes a la vista"
+       },
+       {
+        "t": "p",
+        "x": "Los datos personales están cifrados, ni siquiera Ghost puede acceder a ellos, y el dispositivo está diseñado para seguir funcionando si Ghost cerrara, sin cuota de suscripción. Un firewall limita cómo los agentes usan las credenciales y señala las solicitudes salientes sospechosas para que el usuario las revise."
+       },
+       {
+        "t": "p",
+        "x": "Core cuesta $3,499 en EE. UU. (US); el primer lote se agotó el primer día y se envía a finales de este mes. Un Mac mini de máxima configuración para AI cuesta $3,199, pero carece del software local-AI dedicado y de las funciones de privacidad de Core."
+       }
+      ]
+     }
     },
-    {
-      "id": "tvos-27-2-apple-intelligence-apple-tv-code",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "tvOS 27.2 코드,\nApple TV AI 암시",
-      "body": "tvOS 27.2 베타 코드가 차기 Apple TV의 AI 탑재를 암시한다.",
-      "mini_headline": "Apple TV에 Apple Intelligence 오나",
-      "tool": "Gadgets",
-      "source": "MacRumors",
-      "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Apple의 최신 tvOS 27.2 베타가 한 소문에 힘을 싣는다. 차기 Apple TV에 Siri AI와 Apple Intelligence 지원이 들어간다는 소문이다. 코드상으로는 Apple이 tvOS 설정 앱에 Improve Siri & Apple Intelligence 토글을 추가할 모양이다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-          },
-          {
-            "t": "p",
-            "x": "문구는 이렇다. “Siri, 받아쓰기, 번역에서 주고받은 텍스트와 오디오를 Apple이 수집하고 사용하도록 허용해 파운데이션 모델과 Siri 개선을 도와주세요.”"
-          },
-          {
-            "t": "p",
-            "x": "Apple Intelligence를 지원하는 다른 Apple 기기에도 이름이 비슷한 개인정보 고지와 데이터 공유 동의 항목이 있다. Apple Intelligence를 지원하지 않는 기기라면 이 설정 이름은 “Improve Siri & Dictation”이다. 새 코드가 기존 Siri 데이터 공유 코드와 함께 들어 있으니 이 설정은 Apple Intelligence-capable 하드웨어에서만 보일 공산이 크다."
-          },
-          {
-            "t": "p",
-            "x": "tvOS 27.2에는 새 Siri Messages UI 프레임워크도 있다. 앞으로 Apple TV에 메시지 내용이 뜰 수 있다는 얘기다. Siri가 연결된 iPhone에 온 메시지를 읽어 주고 Apple TV에 스마트 답장 옵션을 띄울 수도 있다. 지금 Apple TV의 Siri는 메시지를 보내지도 읽지도 못하니 이 프레임워크는 Siri AI와 연관됐을 가능성이 크다."
-          },
-          {
-            "t": "p",
-            "x": "Apple은 8GB 또는 12GB RAM에 A19 또는 A19 Pro 칩을 넣은 Apple TV를 개발 중이다. 이 하드웨어라면 온디바이스 Siri AI 기능을 감당할 수 있다. Apple은 tvOS 27.2로 새 Apple TV의 밑작업을 하는 것으로 보인다. 새 Apple TV는 이르면 10월 13일에 나올 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "tvOS 27.2 code hints at\nApple Intelligence on Apple TV",
-          "body": "Apple's tvOS 27.2 beta code adds an Improve Siri & Apple Intelligence setting, hinting at AI on the next Apple TV.",
-          "mini_headline": "Apple TV may get Apple Intelligence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve Siri & Apple Intelligence toggle to the tvOS Settings app."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“Help improve foundation models and Siri by allowing Apple to collect and use your text and audio interactions with Siri, Dictation, and Translate,” the text reads."
-              },
-              {
-                "t": "p",
-                "x": "Other Apple devices with Apple Intelligence have similarly labeled privacy disclosures and data-sharing opt-ins. On devices that don't support Apple Intelligence, the setting is labeled “Improve Siri & Dictation.” The new code is included alongside the existing code for Siri data sharing, so it's likely only Apple Intelligence-capable hardware will see it."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2 also has a new Siri Messages UI framework, indicating message content could be displayed on the Apple TV in the future. Siri may be able to read messages sent to a linked iPhone and show smart reply options on the Apple TV. The current version of Siri on Apple TV doesn't support sending or reading messages, so the framework is likely linked to Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "Apple is working on a version of the Apple TV with 8GB or 12GB of RAM and an A19 or A19 Pro chip, hardware that could support on-device Siri AI features. Apple appears to be laying the groundwork for the new Apple TV with tvOS 27.2. We could get a new Apple TV as soon as October 13."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "tvOS 27.2 코드,\nApple TV AI 암시",
-          "body": "tvOS 27.2 베타 코드가 차기 Apple TV의 AI 탑재를 암시한다.",
-          "mini_headline": "Apple TV에 Apple Intelligence 오나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Apple의 최신 tvOS 27.2 베타가 한 소문에 힘을 싣는다. 차기 Apple TV에 Siri AI와 Apple Intelligence 지원이 들어간다는 소문이다. 코드상으로는 Apple이 tvOS 설정 앱에 Improve Siri & Apple Intelligence 토글을 추가할 모양이다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "문구는 이렇다. “Siri, 받아쓰기, 번역에서 주고받은 텍스트와 오디오를 Apple이 수집하고 사용하도록 허용해 파운데이션 모델과 Siri 개선을 도와주세요.”"
-              },
-              {
-                "t": "p",
-                "x": "Apple Intelligence를 지원하는 다른 Apple 기기에도 이름이 비슷한 개인정보 고지와 데이터 공유 동의 항목이 있다. Apple Intelligence를 지원하지 않는 기기라면 이 설정 이름은 “Improve Siri & Dictation”이다. 새 코드가 기존 Siri 데이터 공유 코드와 함께 들어 있으니 이 설정은 Apple Intelligence-capable 하드웨어에서만 보일 공산이 크다."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2에는 새 Siri Messages UI 프레임워크도 있다. 앞으로 Apple TV에 메시지 내용이 뜰 수 있다는 얘기다. Siri가 연결된 iPhone에 온 메시지를 읽어 주고 Apple TV에 스마트 답장 옵션을 띄울 수도 있다. 지금 Apple TV의 Siri는 메시지를 보내지도 읽지도 못하니 이 프레임워크는 Siri AI와 연관됐을 가능성이 크다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 8GB 또는 12GB RAM에 A19 또는 A19 Pro 칩을 넣은 Apple TV를 개발 중이다. 이 하드웨어라면 온디바이스 Siri AI 기능을 감당할 수 있다. Apple은 tvOS 27.2로 새 Apple TV의 밑작업을 하는 것으로 보인다. 새 Apple TV는 이르면 10월 13일에 나올 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "tvOS 27.2のコード\nApple TVにAIの兆し",
-          "body": "tvOS 27.2ベータのコードが、次期Apple TVのAI対応を示唆している。",
-          "mini_headline": "Apple TVにApple Intelligenceか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Appleの最新tvOS 27.2ベータは、次期Apple TVがSiri AIとApple Intelligenceに対応するという噂を補強するものだ。コードからは、AppleがtvOSの設定アプリにImprove Siri & Apple Intelligenceのトグルを追加しようとしていることがうかがえる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「Siri、音声入力、翻訳でのテキストや音声のやり取りをAppleが収集・利用することを許可して、基盤モデルとSiriの改善に協力してください」と記されている。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Intelligenceを搭載する他のApple製品にも、同様の名称のプライバシー開示やデータ共有のオプトインがある。Apple Intelligenceに対応しないデバイスでは、この設定は「Improve Siri & Dictation」と表示される。新しいコードは既存のSiriデータ共有用コードと並んで含まれており、Apple Intelligence-capableなハードウェアでのみ表示される可能性が高い。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2には新しいSiri Messages UIフレームワークも含まれており、将来的にApple TV上でメッセージの内容が表示される可能性を示している。Siriが連携したiPhoneに届いたメッセージを読み上げ、Apple TV上でスマート返信の候補を表示できるようになるかもしれない。現行のApple TV版Siriはメッセージの送信や読み上げに対応していないため、このフレームワークはSiri AIに関連するものとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは8GB または12GB のRAMと、A19 またはA19 Pro チップを搭載したApple TVを開発中で、このハードウェアならオンデバイスのSiri AI機能を支えられる可能性がある。AppleはtvOS 27.2で新型Apple TVの下地を整えているようだ。新型Apple TVは早ければ10月13日にも登場する可能性がある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "tvOS 27.2代码暗示\nApple TV将支持AI",
-          "body": "Apple的tvOS 27.2测试版代码暗示下一代Apple TV将支持AI。",
-          "mini_headline": "Apple TV或将支持Apple Intelligence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Apple最新的tvOS 27.2测试版进一步印证了下一代Apple TV将支持Siri AI和Apple Intelligence的传闻。代码显示，Apple正在tvOS设置应用中加入Improve Siri & Apple Intelligence开关。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "相关文字写道：“允许Apple收集并使用你与Siri、听写和翻译之间的文本与音频交互，帮助改进基础模型和Siri。”"
-              },
-              {
-                "t": "p",
-                "x": "其他支持Apple Intelligence的Apple设备也有名称类似的隐私说明和数据共享选项。在不支持Apple Intelligence的设备上，该设置名为“Improve Siri & Dictation”。新代码与现有的Siri数据共享代码放在一起，因此很可能只有Apple Intelligence-capable硬件才会显示该设置。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2还新增了Siri Messages UI框架，表明未来消息内容可能会显示在Apple TV上。Siri或许能读取发送到关联iPhone的消息，并在Apple TV上显示智能回复选项。目前Apple TV上的Siri不支持发送或读取消息，因此该框架很可能与Siri AI有关。"
-              },
-              {
-                "t": "p",
-                "x": "Apple正在开发一款配备8GB 或12GB RAM、搭载A19 或A19 Pro 芯片的Apple TV，这样的硬件可以支持端侧Siri AI功能。Apple似乎正借tvOS 27.2为新款Apple TV铺路。新款Apple TV最早可能在10月13日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El código de tvOS 27.2 apunta a\nApple Intelligence en Apple TV",
-          "body": "La beta de tvOS 27.2 de Apple incluye el ajuste Improve Siri & Apple Intelligence, señal de AI en el próximo Apple TV.",
-          "mini_headline": "Apple TV podría recibir Apple Intelligence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La última beta de tvOS 27.2 de Apple refuerza los rumores de que el próximo Apple TV será compatible con Siri AI y Apple Intelligence. El código sugiere que Apple está añadiendo un interruptor Improve Siri & Apple Intelligence a la app Ajustes de tvOS."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“Ayuda a mejorar los modelos fundacionales y Siri permitiendo que Apple recopile y use tus interacciones de texto y audio con Siri, Dictado y Traducir”, dice el texto."
-              },
-              {
-                "t": "p",
-                "x": "Otros dispositivos de Apple con Apple Intelligence tienen avisos de privacidad y opciones para compartir datos con nombres similares. En los dispositivos que no son compatibles con Apple Intelligence, el ajuste se llama “Improve Siri & Dictation”. El nuevo código aparece junto al código existente para compartir datos de Siri, por lo que probablemente solo lo verá el hardware Apple Intelligence-capable."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2 también incluye un nuevo framework Siri Messages UI, lo que indica que en el futuro el contenido de los mensajes podría mostrarse en el Apple TV. Siri podría leer los mensajes enviados a un iPhone vinculado y mostrar opciones de respuesta inteligente en el Apple TV. La versión actual de Siri en Apple TV no permite enviar ni leer mensajes, así que el framework probablemente esté vinculado a Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "Apple trabaja en una versión del Apple TV con 8GB o 12GB de RAM y un chip A19 o A19 Pro, un hardware que podría ejecutar funciones de Siri AI en el propio dispositivo. Apple parece estar preparando el terreno para el nuevo Apple TV con tvOS 27.2. Un nuevo Apple TV podría llegar ya el 13 de octubre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "tvOS 27.2 코드,\nApple TV AI 암시",
-          "body": "tvOS 27.2 베타 코드가 차기 Apple TV의 AI 탑재를 암시한다.",
-          "mini_headline": "Apple TV에 Apple Intelligence 오나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Apple의 최신 tvOS 27.2 베타가 차기 Apple TV에 Siri AI와 Apple Intelligence 지원이 들어간다는 소문에 힘을 싣는다. 코드를 보면 Apple은 tvOS 설정 앱에 Improve Siri & Apple Intelligence 토글을 추가하는 것으로 보인다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "문구는 이렇다. “Siri, 받아쓰기, 번역에서 주고받은 텍스트와 오디오를 Apple이 수집하고 사용하도록 허용해 파운데이션 모델과 Siri 개선을 도와주세요.”"
-              },
-              {
-                "t": "p",
-                "x": "Apple Intelligence를 지원하는 다른 Apple 기기에도 비슷한 이름의 개인정보 고지와 데이터 공유 동의 항목이 있다. Apple Intelligence를 지원하지 않는 기기에서는 이 설정의 이름이 “Improve Siri & Dictation”이다. 새 코드는 기존 Siri 데이터 공유 코드와 함께 들어 있어, Apple Intelligence-capable 하드웨어에서만 이 설정이 보일 가능성이 크다."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2에는 새로운 Siri Messages UI 프레임워크도 들어 있어, 앞으로 Apple TV에 메시지 내용이 표시될 수 있음을 시사한다. Siri가 연결된 iPhone으로 온 메시지를 읽고 Apple TV에 스마트 답장 옵션을 보여 줄 수도 있다. 현재 Apple TV의 Siri는 메시지 보내기와 읽기를 지원하지 않으므로, 이 프레임워크는 Siri AI와 관련이 있을 가능성이 크다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 8GB 또는 12GB RAM과 A19 또는 A19 Pro 칩을 갖춘 Apple TV를 개발 중이며, 이 하드웨어는 온디바이스 Siri AI 기능을 뒷받침할 수 있다. Apple은 tvOS 27.2로 새 Apple TV를 위한 기반을 다지는 것으로 보인다. 새 Apple TV는 이르면 10월 13일에 나올 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "tvOS 27.2のコード\nApple TVにAIの兆し",
-          "body": "tvOS 27.2ベータのコードが、次期Apple TVのAI対応を示唆している。",
-          "mini_headline": "Apple TVにApple Intelligenceか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Appleの最新tvOS 27.2ベータは、次期Apple TVがSiri AIとApple Intelligenceに対応するという噂を補強するものだ。コードからは、AppleがtvOSの設定アプリにImprove Siri & Apple Intelligenceのトグルを追加しようとしていることがうかがえる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「Siri、音声入力、翻訳でのテキストや音声のやり取りをAppleが収集・利用することを許可して、基盤モデルとSiriの改善に協力してください」と記されている。"
-              },
-              {
-                "t": "p",
-                "x": "Apple Intelligenceを搭載する他のApple製品にも、同様の名称のプライバシー開示やデータ共有のオプトインがある。Apple Intelligenceに対応しないデバイスでは、この設定は「Improve Siri & Dictation」と表示される。新しいコードは既存のSiriデータ共有用コードと並んで含まれており、Apple Intelligence-capableなハードウェアでのみ表示される可能性が高い。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2には新しいSiri Messages UIフレームワークも含まれており、将来的にApple TV上でメッセージの内容が表示される可能性を示している。Siriが連携したiPhoneに届いたメッセージを読み上げ、Apple TV上でスマート返信の候補を表示できるようになるかもしれない。現行のApple TV版Siriはメッセージの送信や読み上げに対応していないため、このフレームワークはSiri AIに関連するものとみられる。"
-              },
-              {
-                "t": "p",
-                "x": "Appleは8GB または12GB のRAMと、A19 またはA19 Pro チップを搭載したApple TVを開発中で、このハードウェアならオンデバイスのSiri AI機能を支えられる可能性がある。AppleはtvOS 27.2で新型Apple TVの下地を整えているようだ。新型Apple TVは早ければ10月13日にも登場する可能性がある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "tvOS 27.2代码暗示\nApple TV将支持AI",
-          "body": "Apple的tvOS 27.2测试版代码暗示下一代Apple TV将支持AI。",
-          "mini_headline": "Apple TV或将支持Apple Intelligence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Apple最新的tvOS 27.2测试版进一步印证了下一代Apple TV将支持Siri AI和Apple Intelligence的传闻。代码显示，Apple正在tvOS设置应用中加入Improve Siri & Apple Intelligence开关。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "相关文字写道：“允许Apple收集并使用你与Siri、听写和翻译之间的文本与音频交互，帮助改进基础模型和Siri。”"
-              },
-              {
-                "t": "p",
-                "x": "其他支持Apple Intelligence的Apple设备也有名称类似的隐私说明和数据共享选项。在不支持Apple Intelligence的设备上，该设置名为“Improve Siri & Dictation”。新代码与现有的Siri数据共享代码放在一起，因此很可能只有Apple Intelligence-capable硬件才会显示该设置。"
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2还新增了Siri Messages UI框架，表明未来消息内容可能会显示在Apple TV上。Siri或许能读取发送到关联iPhone的消息，并在Apple TV上显示智能回复选项。目前Apple TV上的Siri不支持发送或读取消息，因此该框架很可能与Siri AI有关。"
-              },
-              {
-                "t": "p",
-                "x": "Apple正在开发一款配备8GB 或12GB RAM、搭载A19 或A19 Pro 芯片的Apple TV，这样的硬件可以支持端侧Siri AI功能。Apple似乎正借tvOS 27.2为新款Apple TV铺路。新款Apple TV最早可能在10月13日推出。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El código de tvOS 27.2 apunta a\nApple Intelligence en Apple TV",
-          "body": "La beta de tvOS 27.2 de Apple incluye el ajuste Improve Siri & Apple Intelligence, señal de AI en el próximo Apple TV.",
-          "mini_headline": "Apple TV podría recibir Apple Intelligence",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La última beta de tvOS 27.2 de Apple refuerza los rumores de que el próximo Apple TV será compatible con Siri AI y Apple Intelligence. El código sugiere que Apple está añadiendo un interruptor Improve Siri & Apple Intelligence a la app Ajustes de tvOS."
-              },
-              {
-                "t": "img",
-                "src": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“Ayuda a mejorar los modelos fundacionales y Siri permitiendo que Apple recopile y use tus interacciones de texto y audio con Siri, Dictado y Traducir”, dice el texto."
-              },
-              {
-                "t": "p",
-                "x": "Otros dispositivos de Apple con Apple Intelligence tienen avisos de privacidad y opciones para compartir datos con nombres similares. En los dispositivos que no son compatibles con Apple Intelligence, el ajuste se llama “Improve Siri & Dictation”. El nuevo código aparece junto al código existente para compartir datos de Siri, por lo que probablemente solo lo verá el hardware Apple Intelligence-capable."
-              },
-              {
-                "t": "p",
-                "x": "tvOS 27.2 también incluye un nuevo framework Siri Messages UI, lo que indica que en el futuro el contenido de los mensajes podría mostrarse en el Apple TV. Siri podría leer los mensajes enviados a un iPhone vinculado y mostrar opciones de respuesta inteligente en el Apple TV. La versión actual de Siri en Apple TV no permite enviar ni leer mensajes, así que el framework probablemente esté vinculado a Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "Apple trabaja en una versión del Apple TV con 8GB o 12GB de RAM y un chip A19 o A19 Pro, un hardware que podría ejecutar funciones de Siri AI en el propio dispositivo. Apple parece estar preparando el terreno para el nuevo Apple TV con tvOS 27.2. Un nuevo Apple TV podría llegar ya el 13 de octubre."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "Ghost Core는 로컬\nAI용 $3,499 박스",
+     "body": "Ghost Core는 Nvidia RTX PRO 4000 GPU 기반 로컬 AI다.",
+     "mini_headline": "Ghost Core 로컬 AI 박스",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "스타트업 Ghost의 첫 제품은 Core다. LLMs(대규모 언어 모델)를 기기 안에서만 돌리는 로컬 AI 에이전트용 PC다. Ghost는 이를 \"모델을 전부 기기에서 실행하는 개인용 AI 컴퓨터\"라고 부른다. 사용자의 앱과 파일, 기기에 연결돼 \"시간이 지나며 당신의 삶에 대한 맥락을 쌓아 간다\"는 설명이다. 창업자 겸 CEO Zain Javaid의 표현으로는 \"상자 속 두뇌\"다. 회사는 막 1100만 달러를 투자받았다."
+       },
+       {
+        "t": "p",
+        "x": "Core의 중심은 24GB 비디오 RAM을 갖춘 Nvidia RTX Pro 4000 (Blackwell)이다. 여기에 64GB DDR5를 더해 770 TOPS를 낸다. Qwen-3.8-Next, Qwen-3.8-27B, Gemma-4-31B 모델이 미리 깔려 나오고, 모델 업데이트는 무선으로 받는다. 휴대폰이나 노트북 앱으로 조작하며 음성으로도 쓸 수 있다."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "케이스를 벗겨 부품을 드러낸 Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "개인 데이터는 암호화돼 Ghost조차 들여다볼 수 없다. Ghost가 문을 닫아도 기기는 계속 돌아가도록 만들었고 구독료도 없다. 방화벽은 에이전트가 자격 증명을 쓰는 방식을 제한하고, 의심스러운 외부 요청은 따로 표시해 사용자가 검토하게 한다."
+       },
+       {
+        "t": "p",
+        "x": "Core는 미국에서 $3,499에 팔린다. 첫 물량은 출시 첫날 매진됐고 배송은 이달 말이다. AI용 최고 사양 Mac mini는 $3,199다. 다만 Core 같은 전용 로컬 AI(local-AI) 소프트웨어와 개인정보 보호 기능은 없다."
+       }
+      ]
+     }
     },
-    {
-      "id": "wici-one-wireless-gpu-local-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "첫 '무선 GPU',\nAI 구독을 겨누다",
-      "body": "WiCi One은 Wi-Fi 7로 PC에 GPU 성능을 보내는 eGPU다.",
-      "mini_headline": "로컬 AI용 Wi-Fi GPU",
-      "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-          },
-          {
-            "t": "p",
-            "x": "빅테크는 클라우드 AI를 쓰려면 집 PC보다 큰 GPU 성능이 필요하다고 사람들이 믿기를 바란다. WiCi One은 클라우드 구독을 하나 더 늘리는 대신 다른 길을 내놓는다. Wi-Fi 7 연결로 저사양 PC에 그래픽 처리 성능을 보내는 eGPU다. “개인 컴퓨팅”을 “공동 컴퓨팅”으로 바꾸는 셈이다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-            "cap": "토스터일까, 스피커일까? 판단은 독자의 몫이다. © Kyle Barr / Gizmodo"
-          },
-          {
-            "t": "p",
-            "x": "Wi-Fi 7의 최고 속도는 약 11.5Gbps, Thunderbolt 4는 32Gbps 수준이다. 공동 창업자이자 CEO인 Zill Meng에 따르면 WiCi는 간섭과 데이터 전송을 최소화하려고 자체 프로토콜과 펌웨어를 설계했다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-            "cap": "말 그대로 데스크톱 PC 한 대 분량 부품이 이 안에 들었다. © Kyle Barr / Gizmodo"
-          },
-          {
-            "t": "p",
-            "x": "계획된 모델은 두 가지다. RTX 5060 Ti를 넣은 $2,600 모델, RTX 5090을 넣은 $10,000 모델이다. Meng은 RTX 5090 버전으로 DeepSeek-V3 AI 모델을 돌려 보였다. 약 일곱 피트 떨어져서 플레이한 Cyberpunk 2077은 프레임 생성을 켜자 100에서 200 fps 사이를 오갔다. 패스 트레이싱을 켜면 10 fps 가까이로 떨어졌다."
-          },
-          {
-            "t": "p",
-            "x": "Meng도 게임이 최선의 용도는 아닐 수 있다고 말했다. Thunderbolt 4 포트도 달려 있다. WiCi One은 12월 출시 예정인데 그 전에 다듬을 부분이 아직 남았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "The first 'wireless GPU'\ntakes aim at AI subscriptions",
-          "body": "The WiCi One eGPU beams GPU power to a PC over Wi-Fi 7 and ran DeepSeek-V3 in a demo, but it's no gaming rig yet.",
-          "mini_headline": "A Wi-Fi GPU for local AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Big tech firms want you to believe cloud-based AI needs GPU horsepower more than your home PC. The WiCi One proposes an alternative to yet another cloud subscription: essentially an eGPU that beams graphics processing power to a lower-end PC over a Wi-Fi 7 connection, turning “personal computing” into “communal computing.”"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "Is it a toaster or a speaker? You decide. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7 tops out around 11.5Gbps, versus 32Gbps for Thunderbolt 4. Co-founder and CEO Zill Meng says WiCi designed its own protocols and firmware to minimize interference and data transmission."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "There’s literally a whole desktop PC worth of parts in this thing. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Two models are planned: $2,600 with an RTX 5060 Ti and $10,000 with an RTX 5090. Meng showed the RTX 5090 version running the DeepSeek-V3 AI model. Cyberpunk 2077 played from about seven feet away swung between 100 and 200 fps with frame generation, and dropped closer to 10 fps with path tracing."
-              },
-              {
-                "t": "p",
-                "x": "Meng himself said gaming may not be the best use; a Thunderbolt 4 port is included. The WiCi One still needs work before its planned December launch."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "첫 '무선 GPU',\nAI 구독을 겨누다",
-          "body": "WiCi One은 Wi-Fi 7로 PC에 GPU 성능을 보내는 eGPU다.",
-          "mini_headline": "로컬 AI용 Wi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "빅테크는 클라우드 AI를 쓰려면 집 PC보다 큰 GPU 성능이 필요하다고 사람들이 믿기를 바란다. WiCi One은 클라우드 구독을 하나 더 늘리는 대신 다른 길을 내놓는다. Wi-Fi 7 연결로 저사양 PC에 그래픽 처리 성능을 보내는 eGPU다. “개인 컴퓨팅”을 “공동 컴퓨팅”으로 바꾸는 셈이다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "토스터일까, 스피커일까? 판단은 독자의 몫이다. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7의 최고 속도는 약 11.5Gbps, Thunderbolt 4는 32Gbps 수준이다. 공동 창업자이자 CEO인 Zill Meng에 따르면 WiCi는 간섭과 데이터 전송을 최소화하려고 자체 프로토콜과 펌웨어를 설계했다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "말 그대로 데스크톱 PC 한 대 분량 부품이 이 안에 들었다. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "계획된 모델은 두 가지다. RTX 5060 Ti를 넣은 $2,600 모델, RTX 5090을 넣은 $10,000 모델이다. Meng은 RTX 5090 버전으로 DeepSeek-V3 AI 모델을 돌려 보였다. 약 일곱 피트 떨어져서 플레이한 Cyberpunk 2077은 프레임 생성을 켜자 100에서 200 fps 사이를 오갔다. 패스 트레이싱을 켜면 10 fps 가까이로 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "Meng도 게임이 최선의 용도는 아닐 수 있다고 말했다. Thunderbolt 4 포트도 달려 있다. WiCi One은 12월 출시 예정인데 그 전에 다듬을 부분이 아직 남았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "初の「無線GPU」が\nAIサブスクに挑む",
-          "body": "WiCi OneはWi-Fi 7でPCにGPU性能を送るeGPUだ。",
-          "mini_headline": "ローカルAI向けのWi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "大手テック企業は、クラウドベースのAIには家庭のPC以上のGPUパワーが必要だと信じさせたがっている。WiCi Oneは、クラウドサブスクリプションをさらに増やす代わりの選択肢を示す。実質的にはWi-Fi 7接続で下位クラスのPCにグラフィックス処理能力を送るeGPUであり、「パーソナルコンピューティング」を「共有コンピューティング」に変えるものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "トースターか、スピーカーか。判断はあなた次第だ。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7の最大速度は約11.5Gbps、対してThunderbolt 4は32Gbps である。共同創業者でCEOのZill Mengによると、WiCiは干渉とデータ伝送を最小限に抑えるため、独自のプロトコルとファームウェアを設計したという。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "文字どおり、デスクトップPC一台分のパーツがこの中に詰まっている。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "予定されているモデルは二つ。RTX 5060 Ti 搭載の$2,600モデルと、RTX 5090搭載の$10,000モデルだ。MengはRTX 5090版でDeepSeek-V3 AIモデルを動かしてみせた。約七フィート離れた場所からプレイしたCyberpunk 2077は、フレーム生成ありで100から200 fpsの間を行き来し、パストレーシングを有効にすると10 fps近くまで落ちた。"
-              },
-              {
-                "t": "p",
-                "x": "Meng自身もゲームが最適な用途ではないかもしれないと述べており、Thunderbolt 4ポートも備える。WiCi Oneは12月の発売予定までに、まだ改善が必要だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "首款“无线GPU”\n瞄准AI订阅",
-          "body": "WiCi One这款eGPU通过Wi-Fi 7向PC输送GPU算力，但尚不适合玩游戏。",
-          "mini_headline": "面向本地AI的Wi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "大型科技公司希望你相信，云端AI比你家里的PC更需要GPU算力。WiCi One则为又一项云订阅提供了替代方案：它本质上是一款eGPU，通过Wi-Fi 7连接把图形处理能力输送给低配PC，把“个人计算”变成“共享计算”。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "这是烤面包机还是音箱？你来判断。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7的最高速率约为11.5Gbps，而Thunderbolt 4为32Gbps。联合创始人兼CEO Zill Meng表示，WiCi自行设计了协议和固件，以尽量减少干扰和数据传输。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "这东西里面装的真的是一整台台式PC的零件。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "计划推出两款型号：搭载RTX 5060 Ti的$2,600版本，以及搭载RTX 5090的$10,000版本。Meng展示了RTX 5090版本运行DeepSeek-V3 AI模型。在约七英尺外游玩的Cyberpunk 2077，开启帧生成后帧率在100到200 fps之间波动，开启路径追踪后则降至接近10 fps。"
-              },
-              {
-                "t": "p",
-                "x": "Meng本人也表示，游戏可能并非最佳用途；设备还配有Thunderbolt 4接口。WiCi One在计划中的12月上市之前仍需改进。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La primera 'GPU inalámbrica'\napunta a las suscripciones de AI",
-          "body": "La eGPU WiCi One lleva la GPU a un PC por Wi-Fi 7 y ejecutó DeepSeek-V3 en una demo, pero aún no sirve para jugar.",
-          "mini_headline": "Una GPU por Wi-Fi para AI local",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las grandes tecnológicas quieren hacer creer que la AI en la nube necesita más potencia de GPU que un PC doméstico. WiCi One propone una alternativa a otra suscripción más en la nube: en esencia, una eGPU que envía potencia de procesamiento gráfico a un PC de gama baja mediante una conexión Wi-Fi 7, convirtiendo la “computación personal” en “computación comunitaria”."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "¿Es una tostadora o un altavoz? Usted decide. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7 alcanza un máximo de unos 11.5Gbps, frente a los 32Gbps de Thunderbolt 4. El cofundador y CEO Zill Meng afirma que WiCi diseñó sus propios protocolos y firmware para minimizar las interferencias y la transmisión de datos."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "Literalmente, dentro hay piezas para todo un PC de sobremesa. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Hay dos modelos previstos: uno de $2,600 con una RTX 5060 Ti y otro de $10,000 con una RTX 5090. Meng mostró la versión con RTX 5090 ejecutando el modelo de AI DeepSeek-V3. Cyberpunk 2077, jugado a unos siete pies de distancia, osciló entre 100 y 200 fps con generación de fotogramas y bajó a cerca de 10 fps con trazado de rutas."
-              },
-              {
-                "t": "p",
-                "x": "El propio Meng dijo que los juegos quizá no sean el mejor uso; incluye un puerto Thunderbolt 4. WiCi One aún necesita ajustes antes de su lanzamiento previsto para diciembre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "첫 '무선 GPU',\nAI 구독을 겨누다",
-          "body": "WiCi One은 Wi-Fi 7로 PC에 GPU 성능을 보내는 eGPU다.",
-          "mini_headline": "로컬 AI용 Wi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "빅테크 기업들은 클라우드 기반 AI에 가정용 PC보다 더 큰 GPU 성능이 필요하다고 믿게 만들고 싶어 한다. WiCi One은 또 하나의 클라우드 구독 대신 다른 길을 제안한다. 본질적으로 Wi-Fi 7 연결로 저사양 PC에 그래픽 처리 성능을 보내는 eGPU로, “개인 컴퓨팅”을 “공동 컴퓨팅”으로 바꾼다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "토스터일까, 스피커일까? 판단은 독자의 몫이다. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7의 최고 속도는 약 11.5Gbps, Thunderbolt 4는 32Gbps 수준이다. 공동 창업자이자 CEO인 Zill Meng은 WiCi가 간섭과 데이터 전송을 최소화하도록 자체 프로토콜과 펌웨어를 설계했다고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "말 그대로 데스크톱 PC 한 대 분량의 부품이 이 안에 들어 있다. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "모델은 두 가지가 계획돼 있다. RTX 5060 Ti를 탑재한 $2,600 모델과 RTX 5090을 탑재한 $10,000 모델이다. Meng은 RTX 5090 버전으로 DeepSeek-V3 AI 모델을 구동하는 모습을 보여 줬다. 약 일곱 피트 떨어진 곳에서 플레이한 Cyberpunk 2077은 프레임 생성을 켜면 100에서 200 fps 사이를 오갔고, 패스 트레이싱을 켜면 10 fps 가까이 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "Meng 스스로도 게임이 최선의 용도는 아닐 수 있다고 말했으며, Thunderbolt 4 포트도 갖췄다. WiCi One은 12월 출시 예정이지만 그 전에 아직 다듬어야 할 부분이 남아 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "初の「無線GPU」が\nAIサブスクに挑む",
-          "body": "WiCi OneはWi-Fi 7でPCにGPU性能を送るeGPUだ。",
-          "mini_headline": "ローカルAI向けのWi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "大手テック企業は、クラウドベースのAIには家庭のPC以上のGPUパワーが必要だと信じさせたがっている。WiCi Oneは、クラウドサブスクリプションをさらに増やす代わりの選択肢を示す。実質的にはWi-Fi 7接続で下位クラスのPCにグラフィックス処理能力を送るeGPUであり、「パーソナルコンピューティング」を「共有コンピューティング」に変えるものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "トースターか、スピーカーか。判断はあなた次第だ。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7の最大速度は約11.5Gbps、対してThunderbolt 4は32Gbps である。共同創業者でCEOのZill Mengによると、WiCiは干渉とデータ伝送を最小限に抑えるため、独自のプロトコルとファームウェアを設計したという。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "文字どおり、デスクトップPC一台分のパーツがこの中に詰まっている。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "予定されているモデルは二つ。RTX 5060 Ti 搭載の$2,600モデルと、RTX 5090搭載の$10,000モデルだ。MengはRTX 5090版でDeepSeek-V3 AIモデルを動かしてみせた。約七フィート離れた場所からプレイしたCyberpunk 2077は、フレーム生成ありで100から200 fpsの間を行き来し、パストレーシングを有効にすると10 fps近くまで落ちた。"
-              },
-              {
-                "t": "p",
-                "x": "Meng自身もゲームが最適な用途ではないかもしれないと述べており、Thunderbolt 4ポートも備える。WiCi Oneは12月の発売予定までに、まだ改善が必要だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "首款“无线GPU”\n瞄准AI订阅",
-          "body": "WiCi One这款eGPU通过Wi-Fi 7向PC输送GPU算力，但尚不适合玩游戏。",
-          "mini_headline": "面向本地AI的Wi-Fi GPU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "大型科技公司希望你相信，云端AI比你家里的PC更需要GPU算力。WiCi One则为又一项云订阅提供了替代方案：它本质上是一款eGPU，通过Wi-Fi 7连接把图形处理能力输送给低配PC，把“个人计算”变成“共享计算”。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "这是烤面包机还是音箱？你来判断。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7的最高速率约为11.5Gbps，而Thunderbolt 4为32Gbps。联合创始人兼CEO Zill Meng表示，WiCi自行设计了协议和固件，以尽量减少干扰和数据传输。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "这东西里面装的真的是一整台台式PC的零件。© Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "计划推出两款型号：搭载RTX 5060 Ti的$2,600版本，以及搭载RTX 5090的$10,000版本。Meng展示了RTX 5090版本运行DeepSeek-V3 AI模型。在约七英尺外游玩的Cyberpunk 2077，开启帧生成后帧率在100到200 fps之间波动，开启路径追踪后则降至接近10 fps。"
-              },
-              {
-                "t": "p",
-                "x": "Meng本人也表示，游戏可能并非最佳用途；设备还配有Thunderbolt 4接口。WiCi One在计划中的12月上市之前仍需改进。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La primera 'GPU inalámbrica'\napunta a las suscripciones de AI",
-          "body": "La eGPU WiCi One lleva la GPU a un PC por Wi-Fi 7 y ejecutó DeepSeek-V3 en una demo, pero aún no sirve para jugar.",
-          "mini_headline": "Una GPU por Wi-Fi para AI local",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las grandes tecnológicas quieren hacer creer que la AI en la nube necesita más potencia de GPU que un PC doméstico. WiCi One propone una alternativa a otra suscripción más en la nube: en esencia, una eGPU que envía potencia de procesamiento gráfico a un PC de gama baja mediante una conexión Wi-Fi 7, convirtiendo la “computación personal” en “computación comunitaria”."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-4.jpg",
-                "cap": "¿Es una tostadora o un altavoz? Usted decide. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Wi-Fi 7 alcanza un máximo de unos 11.5Gbps, frente a los 32Gbps de Thunderbolt 4. El cofundador y CEO Zill Meng afirma que WiCi diseñó sus propios protocolos y firmware para minimizar las interferencias y la transmisión de datos."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-3.jpg",
-                "cap": "Literalmente, dentro hay piezas para todo un PC de sobremesa. © Kyle Barr / Gizmodo"
-              },
-              {
-                "t": "p",
-                "x": "Hay dos modelos previstos: uno de $2,600 con una RTX 5060 Ti y otro de $10,000 con una RTX 5090. Meng mostró la versión con RTX 5090 ejecutando el modelo de AI DeepSeek-V3. Cyberpunk 2077, jugado a unos siete pies de distancia, osciló entre 100 y 200 fps con generación de fotogramas y bajó a cerca de 10 fps con trazado de rutas."
-              },
-              {
-                "t": "p",
-                "x": "El propio Meng dijo que los juegos quizá no sean el mejor uso; incluye un puerto Thunderbolt 4. WiCi One aún necesita ajustes antes de su lanzamiento previsto para diciembre."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "Ghost Core、\n$3,499のローカルAI機",
+     "body": "Ghost CoreはNvidia RTX PRO 4000 GPUで動くローカルAIだ。",
+     "mini_headline": "Ghost Core ローカルAIボックス",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "スタートアップ Ghost の最初の製品は Core だ。LLMs（大規模言語モデル）を端末上だけで動かす、ローカル AI エージェント向けの PC である。Ghost はこれを「モデルを完全に端末上で動かすパーソナル AI コンピューター」と呼び、ユーザーのアプリやファイル、デバイスとつながって「時間をかけてあなたの生活についての文脈を築いていく」と説明する。1100万ドルを調達したばかりの創業者兼 CEO、Zain Javaid はこれを「箱の中の脳」と呼ぶ。"
+       },
+       {
+        "t": "p",
+        "x": "Core の中核は 24GB のビデオ RAM を備えた Nvidia RTX Pro 4000 (Blackwell) で、64GB の DDR5 を組み合わせ、性能は 770 TOPS だ。Qwen-3.8-Next、Qwen-3.8-27B、Gemma-4-31B をプリインストールして出荷され、モデルは無線で更新される。操作はスマートフォンやノートPCのアプリで行い、音声にも対応する。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "ケースを外して部品を見せた Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "個人データは暗号化され、Ghost 自身もアクセスできない。端末は Ghost が事業を畳んでも動き続けるよう設計されており、サブスクリプション料金もない。ファイアウォールはエージェントによる認証情報の使い方を制限し、不審な外向きリクエストにはユーザーの確認を求める。"
+       },
+       {
+        "t": "p",
+        "x": "Core の米国価格は $3,499 だ。初回分は発売初日に完売し、今月末に出荷される。AI 向け最上位構成の Mac mini は $3,199 だが、Core の専用ローカル AI（local-AI）ソフトウェアやプライバシー機能は備えていない。"
+       }
+      ]
+     }
     },
-    {
-      "id": "pixel-search-gemini-teardown",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Pixel Search에\nGemini 탑재 조짐",
-      "body": "Pixel Search에 개인정보 설정이 생겼고 Gemini 제안 코드도 나왔다.",
-      "mini_headline": "Pixel Search에 Gemini 오나",
-      "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-            "cap": "Pixel 런처 검색창"
-          },
-          {
-            "t": "p",
-            "x": "새 Pixel Search 앱은 Pixel 11 시리즈에 기본으로 들어 있다. 앱 서랍에서 사진, 이메일, 연락처 등을 찾아 준다. Google은 여기에 Gemini-powered 업그레이드를 준비하면서 통화 기록과 메시지 데이터를 사용자가 더 통제하도록 손보는 모양이다."
-          },
-          {
-            "t": "p",
-            "x": "최신 버전(1.0.983036833)은 설정에 “Privacy & Permissions” 섹션을 새로 만들었다. 토글은 “Help improve Pixel Search”, “Call Logs”, “SMS” 세 가지다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-            "cap": "Pixel Search의 Privacy & Permissions 설정 (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-            "cap": "Pixel Search 개인정보 토글 (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "p",
-            "x": "“Help improve Pixel Search”를 끄면 사용 분석용 데이터 집계가 멈춘다. “Call Logs”와 “SMS” 토글을 끄면 Google이 그 기록을 연락처 추천 개선에 쓰지 않는다. 그래도 검색 결과에서 통화나 메시지가 사라지지는 않는다. 숨기려면 앱의 통화 기록과 SMS 권한을 거둬야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-            "cap": "Pixel Search 앱 권한 (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "p",
-            "x": "Gemini-powered 제안은 아직 켜지지 않았고 이후 업데이트로 나올 수 있다. 개인정보 섹션은 지금 바로 쓸 수 있다. Pixel 11 사용자는 Play Store에서 업데이트하면 되고 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Gemini-powered 제안은 아직 활성화되지 않았고 향후 업데이트로 나올 수 있지만, 개인정보 섹션은 이미 이용할 수 있다. Pixel 11 사용자는 Play Store에서 업데이트할 수 있고, 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Pixel Search code hints\nat a Gemini upgrade",
-          "body": "A new Pixel Search update adds a privacy setting, and its code hints at Gemini-powered suggestions to come.",
-          "mini_headline": "Pixel Search may get Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixel launcher search bar"
-              },
-              {
-                "t": "p",
-                "x": "The new Pixel Search app preloaded on the Pixel 11 series lets users search photos, emails, contacts and more from the app drawer. Now Google appears to be prepping a Gemini-powered upgrade, while also giving users more control over call log and message data."
-              },
-              {
-                "t": "p",
-                "x": "The latest version (1.0.983036833) adds a \"Privacy & Permissions\" section in settings with three toggles: \"Help improve Pixel Search,\" \"Call Logs\" and \"SMS.\""
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel Search Privacy & Permissions settings (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Search privacy toggles (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Turning off \"Help improve Pixel Search\" stops data being aggregated for usage insights; the \"Call Logs\" and \"SMS\" toggles stop Google using that history to improve contact suggestions. Disabling them doesn't hide calls or messages from results, though — for that, revoke the app's Call logs and SMS permissions."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Search app permissions (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority also found code for an upcoming \"Gemini-powered suggestions\" feature. Strings read \"Show Gemini-powered suggestions\" and \"See relevant info and Gemini-suggested actions to help you finish a task faster.\""
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered suggestions aren't live yet and could arrive in a future update, but the privacy section is already available. Pixel 11 owners can update via the Play Store; older Pixels can sideload the app on Android 17 QPR2 Beta 5 or newer."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Pixel Search에\nGemini 탑재 조짐",
-          "body": "Pixel Search에 개인정보 설정이 생겼고 Gemini 제안 코드도 나왔다.",
-          "mini_headline": "Pixel Search에 Gemini 오나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixel 런처 검색창"
-              },
-              {
-                "t": "p",
-                "x": "새 Pixel Search 앱은 Pixel 11 시리즈에 기본으로 들어 있다. 앱 서랍에서 사진, 이메일, 연락처 등을 찾아 준다. Google은 여기에 Gemini-powered 업그레이드를 준비하면서 통화 기록과 메시지 데이터를 사용자가 더 통제하도록 손보는 모양이다."
-              },
-              {
-                "t": "p",
-                "x": "최신 버전(1.0.983036833)은 설정에 “Privacy & Permissions” 섹션을 새로 만들었다. 토글은 “Help improve Pixel Search”, “Call Logs”, “SMS” 세 가지다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel Search의 Privacy & Permissions 설정 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Search 개인정보 토글 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "“Help improve Pixel Search”를 끄면 사용 분석용 데이터 집계가 멈춘다. “Call Logs”와 “SMS” 토글을 끄면 Google이 그 기록을 연락처 추천 개선에 쓰지 않는다. 그래도 검색 결과에서 통화나 메시지가 사라지지는 않는다. 숨기려면 앱의 통화 기록과 SMS 권한을 거둬야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Search 앱 권한 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered 제안은 아직 켜지지 않았고 이후 업데이트로 나올 수 있다. 개인정보 섹션은 지금 바로 쓸 수 있다. Pixel 11 사용자는 Play Store에서 업데이트하면 되고 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered 제안은 아직 활성화되지 않았고 향후 업데이트로 나올 수 있지만, 개인정보 섹션은 이미 이용할 수 있다. Pixel 11 사용자는 Play Store에서 업데이트할 수 있고, 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Pixel Searchに\nGemini搭載の兆し",
-          "body": "Pixel Searchにプライバシー設定が加わり、Geminiによる提案の兆しもある。",
-          "mini_headline": "Pixel SearchにGeminiか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixelランチャーの検索バー"
-              },
-              {
-                "t": "p",
-                "x": "Pixel 11シリーズにプリインストールされた新しいPixel Searchアプリでは、アプリドロワーから写真、メール、連絡先などを検索できる。現在Googleは、Gemini-poweredのアップグレードを準備する一方、通話履歴やメッセージのデータについてユーザーが管理できる範囲を広げようとしているようだ。"
-              },
-              {
-                "t": "p",
-                "x": "最新バージョン(1.0.983036833)では、設定に「Privacy & Permissions」セクションが追加され、「Help improve Pixel Search」「Call Logs」「SMS」という三つのトグルが用意された。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel SearchのPrivacy & Permissions設定(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Searchのプライバシー用トグル(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "「Help improve Pixel Search」をオフにすると、利用状況分析のためのデータ集約が止まる。「Call Logs」と「SMS」のトグルをオフにすると、Googleはその履歴を連絡先候補の改善に使わなくなる。ただし、オフにしても検索結果から通話やメッセージが消えるわけではない。そのためには、アプリの通話履歴とSMSの権限を取り消す必要がある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Searchアプリの権限(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authorityは、今後登場する「Gemini-powered suggestions」機能のコードも見つけた。文字列には「Show Gemini-powered suggestions」や「See relevant info and Gemini-suggested actions to help you finish a task faster.」とある。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini-poweredの提案機能はまだ有効になっておらず、今後のアップデートで登場する可能性があるが、プライバシーセクションはすでに利用できる。Pixel 11の所有者はPlay Storeから更新でき、それ以前のPixelではAndroid 17 QPR2 Beta 5以降でアプリをサイドロードできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Pixel Search代码\n暗示Gemini升级",
-          "body": "Pixel Search更新加入隐私设置，代码暗示将有Gemini-powered建议。",
-          "mini_headline": "Pixel Search或将接入Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixel启动器搜索栏"
-              },
-              {
-                "t": "p",
-                "x": "Pixel 11系列预装的全新Pixel Search应用可让用户在应用抽屉中搜索照片、电子邮件、联系人等内容。现在，Google似乎正在准备一项Gemini-powered升级，同时让用户对通话记录和短信数据拥有更多控制权。"
-              },
-              {
-                "t": "p",
-                "x": "最新版本（1.0.983036833）在设置中新增了“Privacy & Permissions”部分，包含三个开关：“Help improve Pixel Search”“Call Logs”和“SMS”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel Search的Privacy & Permissions设置（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Search隐私开关（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "p",
-                "x": "关闭“Help improve Pixel Search”后，数据将不再被汇总用于使用情况分析；关闭“Call Logs”和“SMS”开关后，Google不再使用这些记录来改进联系人建议。不过，关闭这些开关并不会在结果中隐藏通话或短信——要做到这一点，需要撤销该应用的通话记录和SMS权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Search应用权限（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority还发现了即将推出的“Gemini-powered suggestions”功能的代码。相关字符串为“Show Gemini-powered suggestions”和“See relevant info and Gemini-suggested actions to help you finish a task faster.”"
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered建议尚未上线，可能会在未来的更新中推出，但隐私部分已经可用。Pixel 11用户可通过Play Store更新，较早的Pixel机型可在Android 17 QPR2 Beta 5或更高版本上侧载该应用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El código de Pixel Search\napunta a una mejora con Gemini",
-          "body": "Una actualización de Pixel Search añade un ajuste de privacidad, y su código anticipa sugerencias Gemini-powered.",
-          "mini_headline": "Pixel Search podría recibir Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Barra de búsqueda del launcher de Pixel"
-              },
-              {
-                "t": "p",
-                "x": "La nueva app Pixel Search, preinstalada en la serie Pixel 11, permite buscar fotos, correos, contactos y más desde el cajón de aplicaciones. Ahora Google parece estar preparando una mejora Gemini-powered, al tiempo que da a los usuarios más control sobre los datos del registro de llamadas y los mensajes."
-              },
-              {
-                "t": "p",
-                "x": "La última versión (1.0.983036833) añade en los ajustes una sección “Privacy & Permissions” con tres interruptores: “Help improve Pixel Search”, “Call Logs” y “SMS”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Ajustes de Privacy & Permissions de Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Interruptores de privacidad de Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Desactivar “Help improve Pixel Search” impide que los datos se agreguen para obtener información de uso; los interruptores “Call Logs” y “SMS” impiden que Google use ese historial para mejorar las sugerencias de contactos. Sin embargo, desactivarlos no oculta las llamadas ni los mensajes en los resultados: para ello, hay que revocar los permisos de registro de llamadas y SMS de la app."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Permisos de la app Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority también encontró código de una futura función “Gemini-powered suggestions”. Las cadenas dicen “Show Gemini-powered suggestions” y “See relevant info and Gemini-suggested actions to help you finish a task faster.”"
-              },
-              {
-                "t": "p",
-                "x": "Las sugerencias Gemini-powered aún no están activas y podrían llegar en una futura actualización, pero la sección de privacidad ya está disponible. Los usuarios de Pixel 11 pueden actualizar desde Play Store; los Pixel más antiguos pueden instalar la app manualmente con Android 17 QPR2 Beta 5 o posterior."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Pixel Search에\nGemini 탑재 조짐",
-          "body": "Pixel Search에 개인정보 설정이 생겼고 Gemini 제안 코드도 나왔다.",
-          "mini_headline": "Pixel Search에 Gemini 오나",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixel 런처 검색창"
-              },
-              {
-                "t": "p",
-                "x": "Pixel 11 시리즈에 기본 탑재된 새 Pixel Search 앱은 앱 서랍에서 사진, 이메일, 연락처 등을 검색할 수 있게 해 준다. 이제 Google은 Gemini-powered 업그레이드를 준비하는 한편, 통화 기록과 메시지 데이터에 대한 사용자 통제권도 넓히는 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "최신 버전(1.0.983036833)은 설정에 “Privacy & Permissions” 섹션을 추가했으며, 여기에는 “Help improve Pixel Search”, “Call Logs”, “SMS” 세 가지 토글이 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel Search의 Privacy & Permissions 설정 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Search 개인정보 토글 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "“Help improve Pixel Search”를 끄면 사용 분석을 위한 데이터 집계가 멈추고, “Call Logs”와 “SMS” 토글을 끄면 Google이 해당 기록을 연락처 추천 개선에 쓰지 않는다. 다만 이를 꺼도 검색 결과에서 통화나 메시지가 숨겨지지는 않는다. 그러려면 앱의 통화 기록 및 SMS 권한을 회수해야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Search 앱 권한 (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority는 곧 나올 “Gemini-powered suggestions” 기능의 코드도 찾아냈다. 문자열에는 “Show Gemini-powered suggestions”(Gemini 기반 제안 표시)와 “See relevant info and Gemini-suggested actions to help you finish a task faster.”(작업을 더 빨리 끝내도록 관련 정보와 Gemini 추천 작업 보기)라는 문구가 있다."
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered 제안은 아직 활성화되지 않았고 향후 업데이트로 나올 수 있지만, 개인정보 섹션은 이미 이용할 수 있다. Pixel 11 사용자는 Play Store에서 업데이트할 수 있고, 이전 Pixel 기기는 Android 17 QPR2 Beta 5 이상에서 앱을 사이드로드할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Pixel Searchに\nGemini搭載の兆し",
-          "body": "Pixel Searchにプライバシー設定が加わり、Geminiによる提案の兆しもある。",
-          "mini_headline": "Pixel SearchにGeminiか",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixelランチャーの検索バー"
-              },
-              {
-                "t": "p",
-                "x": "Pixel 11シリーズにプリインストールされた新しいPixel Searchアプリでは、アプリドロワーから写真、メール、連絡先などを検索できる。現在Googleは、Gemini-poweredのアップグレードを準備する一方、通話履歴やメッセージのデータについてユーザーが管理できる範囲を広げようとしているようだ。"
-              },
-              {
-                "t": "p",
-                "x": "最新バージョン(1.0.983036833)では、設定に「Privacy & Permissions」セクションが追加され、「Help improve Pixel Search」「Call Logs」「SMS」という三つのトグルが用意された。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel SearchのPrivacy & Permissions設定(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Searchのプライバシー用トグル(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "「Help improve Pixel Search」をオフにすると、利用状況分析のためのデータ集約が止まる。「Call Logs」と「SMS」のトグルをオフにすると、Googleはその履歴を連絡先候補の改善に使わなくなる。ただし、オフにしても検索結果から通話やメッセージが消えるわけではない。そのためには、アプリの通話履歴とSMSの権限を取り消す必要がある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Searchアプリの権限(AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authorityは、今後登場する「Gemini-powered suggestions」機能のコードも見つけた。文字列には「Show Gemini-powered suggestions」や「See relevant info and Gemini-suggested actions to help you finish a task faster.」とある。"
-              },
-              {
-                "t": "p",
-                "x": "Gemini-poweredの提案機能はまだ有効になっておらず、今後のアップデートで登場する可能性があるが、プライバシーセクションはすでに利用できる。Pixel 11の所有者はPlay Storeから更新でき、それ以前のPixelではAndroid 17 QPR2 Beta 5以降でアプリをサイドロードできる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Pixel Search代码\n暗示Gemini升级",
-          "body": "Pixel Search更新加入隐私设置，代码暗示将有Gemini-powered建议。",
-          "mini_headline": "Pixel Search或将接入Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Pixel启动器搜索栏"
-              },
-              {
-                "t": "p",
-                "x": "Pixel 11系列预装的全新Pixel Search应用可让用户在应用抽屉中搜索照片、电子邮件、联系人等内容。现在，Google似乎正在准备一项Gemini-powered升级，同时让用户对通话记录和短信数据拥有更多控制权。"
-              },
-              {
-                "t": "p",
-                "x": "最新版本（1.0.983036833）在设置中新增了“Privacy & Permissions”部分，包含三个开关：“Help improve Pixel Search”“Call Logs”和“SMS”。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Pixel Search的Privacy & Permissions设置（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Pixel Search隐私开关（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "p",
-                "x": "关闭“Help improve Pixel Search”后，数据将不再被汇总用于使用情况分析；关闭“Call Logs”和“SMS”开关后，Google不再使用这些记录来改进联系人建议。不过，关闭这些开关并不会在结果中隐藏通话或短信——要做到这一点，需要撤销该应用的通话记录和SMS权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Pixel Search应用权限（AssembleDebug / Android Authority）"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority还发现了即将推出的“Gemini-powered suggestions”功能的代码。相关字符串为“Show Gemini-powered suggestions”和“See relevant info and Gemini-suggested actions to help you finish a task faster.”"
-              },
-              {
-                "t": "p",
-                "x": "Gemini-powered建议尚未上线，可能会在未来的更新中推出，但隐私部分已经可用。Pixel 11用户可通过Play Store更新，较早的Pixel机型可在Android 17 QPR2 Beta 5或更高版本上侧载该应用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El código de Pixel Search\napunta a una mejora con Gemini",
-          "body": "Una actualización de Pixel Search añade un ajuste de privacidad, y su código anticipa sugerencias Gemini-powered.",
-          "mini_headline": "Pixel Search podría recibir Gemini",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-                "cap": "Barra de búsqueda del launcher de Pixel"
-              },
-              {
-                "t": "p",
-                "x": "La nueva app Pixel Search, preinstalada en la serie Pixel 11, permite buscar fotos, correos, contactos y más desde el cajón de aplicaciones. Ahora Google parece estar preparando una mejora Gemini-powered, al tiempo que da a los usuarios más control sobre los datos del registro de llamadas y los mensajes."
-              },
-              {
-                "t": "p",
-                "x": "La última versión (1.0.983036833) añade en los ajustes una sección “Privacy & Permissions” con tres interruptores: “Help improve Pixel Search”, “Call Logs” y “SMS”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-                "cap": "Ajustes de Privacy & Permissions de Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-                "cap": "Interruptores de privacidad de Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Desactivar “Help improve Pixel Search” impide que los datos se agreguen para obtener información de uso; los interruptores “Call Logs” y “SMS” impiden que Google use ese historial para mejorar las sugerencias de contactos. Sin embargo, desactivarlos no oculta las llamadas ni los mensajes en los resultados: para ello, hay que revocar los permisos de registro de llamadas y SMS de la app."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-                "cap": "Permisos de la app Pixel Search (AssembleDebug / Android Authority)"
-              },
-              {
-                "t": "p",
-                "x": "Android Authority también encontró código de una futura función “Gemini-powered suggestions”. Las cadenas dicen “Show Gemini-powered suggestions” y “See relevant info and Gemini-suggested actions to help you finish a task faster.”"
-              },
-              {
-                "t": "p",
-                "x": "Las sugerencias Gemini-powered aún no están activas y podrían llegar en una futura actualización, pero la sección de privacidad ya está disponible. Los usuarios de Pixel 11 pueden actualizar desde Play Store; los Pixel más antiguos pueden instalar la app manualmente con Android 17 QPR2 Beta 5 o posterior."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "Ghost Core：\n$3,499本地AI主机",
+     "body": "Ghost Core以Nvidia RTX PRO 4000 GPU运行免订阅本地AI。",
+     "mini_headline": "Ghost Core 本地 AI 主机",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "初创公司 Ghost 的首款产品是 Core，一台专为本地 AI 智能体打造、只在设备端运行 LLMs（大语言模型）的 PC。Ghost 称它是“完全在设备上运行模型的个人 AI 电脑”，可连接用户的应用、文件和设备，并“随着时间推移积累关于你生活的上下文”。公司刚完成 1100万美元融资，创始人兼 CEO Zain Javaid 称其为“盒子里的大脑”。"
+       },
+       {
+        "t": "p",
+        "x": "Core 以配备 24GB 显存的 Nvidia RTX Pro 4000 (Blackwell) 为核心，另有 64GB DDR5，算力为 770 TOPS。出厂预装 Qwen-3.8-Next、Qwen-3.8-27B 和 Gemma-4-31B ，模型通过无线方式更新，可用手机或笔记本电脑上的应用控制，也支持语音操作。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "拆下机箱、露出内部组件的 Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "个人数据经过加密，连 Ghost 也无法访问；设备的设计确保即使 Ghost 关闭也能继续运行，且不收订阅费。防火墙会限制智能体使用凭证的方式，并标记可疑的外发请求供用户审核。"
+       },
+       {
+        "t": "p",
+        "x": "Core 在美国售价 $3,499 ，首批产品上市当天售罄，将于本月底发货。面向 AI 的顶配 Mac mini 售价 $3,199 ，但缺少 Core 专用的本地 AI（local-AI）软件和隐私功能。"
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "es": {
+     "headline": "Ghost Core: una caja de $3,499\npara agentes de AI locales",
+     "body": "Ghost Core, de un fundador adolescente, usa una GPU Nvidia RTX PRO 4000 y promete AI local sin suscripción.",
+     "mini_headline": "Ghost Core, caja de AI local",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "El primer producto de la startup Ghost es Core, un PC para agentes de AI locales que ejecuta LLMs exclusivamente en el dispositivo (on-device). Ghost lo describe como \"una computadora personal de AI que ejecuta modelos íntegramente en el dispositivo\", que se conecta a tus apps, archivos y dispositivos y \"construye contexto sobre tu vida con el tiempo\". Su fundador y CEO, Zain Javaid, cuya empresa acaba de recaudar $11 millones, lo llama \"un cerebro en una caja\"."
+       },
+       {
+        "t": "p",
+        "x": "Core se basa en una Nvidia RTX Pro 4000 (Blackwell) con 24GB de video RAM, más 64GB de DDR5, y rinde 770 TOPS. Viene con Qwen-3.8-Next, Qwen-3.8-27B y Gemma-4-31B preinstalados, actualiza los modelos de forma inalámbrica y se controla desde una app para teléfono o portátil, incluso por voz."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "El Ghost Core AI PC sin la carcasa, con los componentes a la vista"
+       },
+       {
+        "t": "p",
+        "x": "Los datos personales están cifrados, ni siquiera Ghost puede acceder a ellos, y el dispositivo está diseñado para seguir funcionando si Ghost cerrara, sin cuota de suscripción. Un firewall limita cómo los agentes usan las credenciales y señala las solicitudes salientes sospechosas para que el usuario las revise."
+       },
+       {
+        "t": "p",
+        "x": "Core cuesta $3,499 en EE. UU. (US); el primer lote se agotó el primer día y se envía a finales de este mes. Un Mac mini de máxima configuración para AI cuesta $3,199, pero carece del software local-AI dedicado y de las funciones de privacidad de Core."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Ghost Core는 로컬\nAI용 $3,499 박스",
+     "body": "Ghost Core는 Nvidia RTX PRO 4000 GPU 기반 로컬 AI다.",
+     "mini_headline": "Ghost Core 로컬 AI 박스",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "스타트업 Ghost의 첫 제품은 Core다. LLMs(대규모 언어 모델)를 오직 기기 안에서만 돌리는 로컬 AI 에이전트용 PC다. Ghost는 이를 \"모델을 전부 기기에서 실행하는 개인용 AI 컴퓨터\"라고 부르며, 사용자의 앱과 파일, 기기에 연결돼 \"시간이 지나며 당신의 삶에 대한 맥락을 쌓아 간다\"고 설명한다. 회사가 막 1100만 달러를 투자받은 창업자 겸 CEO Zain Javaid는 이를 \"상자 속 두뇌\"라고 부른다."
+       },
+       {
+        "t": "p",
+        "x": "Core는 24GB 비디오 RAM을 갖춘 Nvidia RTX Pro 4000 (Blackwell)을 중심으로 64GB DDR5를 더했고, 성능은 770 TOPS다. Qwen-3.8-Next, Qwen-3.8-27B, Gemma-4-31B 모델이 미리 설치돼 나오며, 모델은 무선으로 업데이트된다. 조작은 휴대폰이나 노트북 앱으로 하고, 음성으로도 가능하다."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "케이스를 벗겨 부품을 드러낸 Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "개인 데이터는 암호화돼 Ghost조차 접근할 수 없다. 기기는 Ghost가 문을 닫더라도 계속 작동하도록 설계됐고, 구독료도 없다. 방화벽은 에이전트가 자격 증명을 쓰는 방식을 제한하고, 의심스러운 외부 요청을 사용자가 검토하도록 표시한다."
+       },
+       {
+        "t": "p",
+        "x": "Core의 미국 가격은 $3,499다. 첫 물량은 출시 첫날 매진됐고, 이달 말 배송된다. AI용 최고 사양 Mac mini는 $3,199지만, Core의 전용 로컬 AI(local-AI) 소프트웨어와 개인정보 보호 기능은 없다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Ghost Core、\n$3,499のローカルAI機",
+     "body": "Ghost CoreはNvidia RTX PRO 4000 GPUで動くローカルAIだ。",
+     "mini_headline": "Ghost Core ローカルAIボックス",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "スタートアップ Ghost の最初の製品は Core だ。LLMs（大規模言語モデル）を端末上だけで動かす、ローカル AI エージェント向けの PC である。Ghost はこれを「モデルを完全に端末上で動かすパーソナル AI コンピューター」と呼び、ユーザーのアプリやファイル、デバイスとつながって「時間をかけてあなたの生活についての文脈を築いていく」と説明する。1100万ドルを調達したばかりの創業者兼 CEO、Zain Javaid はこれを「箱の中の脳」と呼ぶ。"
+       },
+       {
+        "t": "p",
+        "x": "Core の中核は 24GB のビデオ RAM を備えた Nvidia RTX Pro 4000 (Blackwell) で、64GB の DDR5 を組み合わせ、性能は 770 TOPS だ。Qwen-3.8-Next、Qwen-3.8-27B、Gemma-4-31B をプリインストールして出荷され、モデルは無線で更新される。操作はスマートフォンやノートPCのアプリで行い、音声にも対応する。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "ケースを外して部品を見せた Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "個人データは暗号化され、Ghost 自身もアクセスできない。端末は Ghost が事業を畳んでも動き続けるよう設計されており、サブスクリプション料金もない。ファイアウォールはエージェントによる認証情報の使い方を制限し、不審な外向きリクエストにはユーザーの確認を求める。"
+       },
+       {
+        "t": "p",
+        "x": "Core の米国価格は $3,499 だ。初回分は発売初日に完売し、今月末に出荷される。AI 向け最上位構成の Mac mini は $3,199 だが、Core の専用ローカル AI（local-AI）ソフトウェアやプライバシー機能は備えていない。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Ghost Core：\n$3,499本地AI主机",
+     "body": "Ghost Core以Nvidia RTX PRO 4000 GPU运行免订阅本地AI。",
+     "mini_headline": "Ghost Core 本地 AI 主机",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+       },
+       {
+        "t": "p",
+        "x": "初创公司 Ghost 的首款产品是 Core，一台专为本地 AI 智能体打造、只在设备端运行 LLMs（大语言模型）的 PC。Ghost 称它是“完全在设备上运行模型的个人 AI 电脑”，可连接用户的应用、文件和设备，并“随着时间推移积累关于你生活的上下文”。公司刚完成 1100万美元融资，创始人兼 CEO Zain Javaid 称其为“盒子里的大脑”。"
+       },
+       {
+        "t": "p",
+        "x": "Core 以配备 24GB 显存的 Nvidia RTX Pro 4000 (Blackwell) 为核心，另有 64GB DDR5，算力为 770 TOPS。出厂预装 Qwen-3.8-Next、Qwen-3.8-27B 和 Gemma-4-31B ，模型通过无线方式更新，可用手机或笔记本电脑上的应用控制，也支持语音操作。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+        "cap": "拆下机箱、露出内部组件的 Ghost Core AI PC"
+       },
+       {
+        "t": "p",
+        "x": "个人数据经过加密，连 Ghost 也无法访问；设备的设计确保即使 Ghost 关闭也能继续运行，且不收订阅费。防火墙会限制智能体使用凭证的方式，并标记可疑的外发请求供用户审核。"
+       },
+       {
+        "t": "p",
+        "x": "Core 在美国售价 $3,499 ，首批产品上市当天售罄，将于本月底发货。面向 AI 的顶配 Mac mini 售价 $3,199 ，但缺少 Core 专用的本地 AI（local-AI）软件和隐私功能。"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "gadgets-foresight",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "낙서→노트, Google\nForesight 메모앱",
+   "body": "AI Edge Foresight Mac 앱은 EmbeddingGemma 2를 쓴다.",
+   "mini_headline": "Google Foresight 메모 앱",
+   "tool": "Gadgets",
+   "source": "9to5Google",
+   "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
+   "accent": "#0070f3",
+   "motif": "headset",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+     },
+     {
+      "t": "p",
+      "x": "Google은 오늘 \"소비자용 하드웨어에서 직접 정보를 정리하고 검색하고 연결할 수 있는\" 모델 EmbeddingGemma 2를 발표했다. 이 모델로 무엇을 할 수 있는지 보여주려고 \"지능형 메모\"용 AI Edge Foresight Mac 앱도 만들었다."
+     },
+     {
+      "t": "p",
+      "x": "파라미터 740 million 규모인 이 모델은 Apache 2.0 라이선스로 나왔고 Gemma 4 아키텍처를 바탕으로 한다. 양자화하면 Pixel 11 Pro에서 필요한 활성 RAM이 text-only 가중치는 ~191MB, 전체 멀티모달 모델은 ~567MB 정도에 그친다."
+     },
+     {
+      "t": "video",
+      "yt": "KNPNNAKh3dU"
+     },
+     {
+      "t": "p",
+      "x": "회의가 열리면 Foresight는 백그라운드에서 내용을 듣는다. 사용자가 \"약식 글머리표를 끄적이면\" 이를 \"회의 녹취록을 활용해 즉시 다듬어진 메모로 보강한다.\" 녹취록도 오디오도 모두 사용자의 기기 안에서 처리된다."
+     },
+     {
+      "t": "img",
+      "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+     },
+     {
+      "t": "p",
+      "x": "로컬이나 Google Drive에 있는 프로젝트 폴더, 다이어그램, 캘린더를 지정해 두고 질문을 던져도 된다. Chat은 검색과 요약을 맡고, Live Assistance는 \"듣고 자동으로 질문에 답하는\" 기능이다. Foresight는 Mac용 AI Edge Gallery, AI Edge Eloquent와 한 라인업으로 묶인다."
+     },
+     {
+      "t": "img",
+      "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Google's Foresight turns\nscribbles into full notes",
+     "body": "Google's offline AI Edge Foresight Mac app shows off EmbeddingGemma 2 by turning scribbles into full notes.",
+     "mini_headline": "Google Foresight notes app",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google today announced EmbeddingGemma 2, a model that can \"organize, search, and connect information directly on consumer hardware.\" To show off its potential, Google created an AI Edge Foresight Mac app for \"intelligent notetaking.\""
+       },
+       {
+        "t": "p",
+        "x": "The 740 million parameter model is built on the Gemma 4 architecture under an Apache 2.0 license. With quantization, on a Pixel 11 Pro it needs as little as ~191MB active RAM for text-only weights and ~567MB for the full multimodal model."
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "During meetings, Foresight listens in the background so you can \"scribble shorthand bullets,\" which it \"enriches into polished notes using the meeting transcript instantly.\" Transcript and audio are processed entirely on your device."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "You can also point it at project folders, diagrams, and your calendar, local or Google Drive, then ask questions. Chat offers retrieval and summary, and Live Assistance will \"listen and automatically answer questions.\" It joins AI Edge Gallery and AI Edge Eloquent on Mac."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "낙서→노트, Google\nForesight 메모앱",
+     "body": "AI Edge Foresight Mac 앱은 EmbeddingGemma 2를 쓴다.",
+     "mini_headline": "Google Foresight 메모 앱",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google은 오늘 \"소비자용 하드웨어에서 직접 정보를 정리하고 검색하고 연결할 수 있는\" 모델 EmbeddingGemma 2를 발표했다. 이 모델로 무엇을 할 수 있는지 보여주려고 \"지능형 메모\"용 AI Edge Foresight Mac 앱도 만들었다."
+       },
+       {
+        "t": "p",
+        "x": "파라미터 740 million 규모인 이 모델은 Apache 2.0 라이선스로 나왔고 Gemma 4 아키텍처를 바탕으로 한다. 양자화하면 Pixel 11 Pro에서 필요한 활성 RAM이 text-only 가중치는 ~191MB, 전체 멀티모달 모델은 ~567MB 정도에 그친다."
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "회의가 열리면 Foresight는 백그라운드에서 내용을 듣는다. 사용자가 \"약식 글머리표를 끄적이면\" 이를 \"회의 녹취록을 활용해 즉시 다듬어진 메모로 보강한다.\" 녹취록도 오디오도 모두 사용자의 기기 안에서 처리된다."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "로컬이나 Google Drive에 있는 프로젝트 폴더, 다이어그램, 캘린더를 지정해 두고 질문을 던져도 된다. Chat은 검색과 요약을 맡고, Live Assistance는 \"듣고 자동으로 질문에 답하는\" 기능이다. Foresight는 Mac용 AI Edge Gallery, AI Edge Eloquent와 한 라인업으로 묶인다."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Googleのメモアプリ\nForesightが清書",
+     "body": "AI Edge Foresight MacアプリはEmbeddingGemma 2を活かす。",
+     "mini_headline": "Google Foresightノートアプリ",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Googleは本日、「消費者向けハードウェア上で直接、情報を整理、検索、接続できる」モデル、EmbeddingGemma 2を発表した。その可能性を示すため、Googleは「インテリジェントなメモ取り」のためのAI Edge Foresight Macアプリを開発した。"
+       },
+       {
+        "t": "p",
+        "x": "パラメーター数740 millionのこのモデルは、Apache 2.0ライセンスのもとGemma 4アーキテクチャ上に構築されている。量子化すれば、Pixel 11 Proで必要なアクティブRAMはtext-onlyの重みで~191MB、マルチモーダルモデル全体でも~567MB。"
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "会議中、Foresightはバックグラウンドで音声を聞き取る。ユーザーが「略式の箇条書きを走り書き」すれば、それを「会議の文字起こしを使って即座に洗練されたメモへと肉付けする」。文字起こしと音声はすべてデバイス上で処理される。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "ローカルまたはGoogle Driveのプロジェクトフォルダーや図、カレンダーを指定し、質問することもできる。Chatは検索と要約を提供し、Live Assistanceは「聞き取って自動的に質問に答える」。Mac向けのAI Edge Gallery、AI Edge Eloquentに続くアプリとなる。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Google笔记应用\nForesight补全速记",
+     "body": "Mac应用AI Edge Foresight以EmbeddingGemma 2补全笔记。",
+     "mini_headline": "Google Foresight笔记应用",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google今天发布了EmbeddingGemma 2，这款模型能够“直接在消费级硬件上整理、搜索和关联信息”。为展示其潜力，Google打造了一款用于“智能记笔记”的AI Edge Foresight Mac应用。"
+       },
+       {
+        "t": "p",
+        "x": "这款740 million 参数的模型基于Gemma 4架构，采用Apache 2.0许可。经过量化后，在Pixel 11 Pro上，text-only权重只需~191MB 活跃RAM，完整的多模态模型则需~567MB。"
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "开会时，Foresight会在后台聆听，你可以“随手记下简略要点”，它会“利用会议转录即时将其扩充为完善的笔记”。转录和音频全部在你的设备上处理。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "你还可以让它读取本地或Google Drive中的项目文件夹、图表和日历，然后提问。Chat提供检索和摘要，Live Assistance则会“聆听并自动回答问题”。它与AI Edge Gallery、AI Edge Eloquent一同登陆Mac。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Foresight, de Google, convierte\ngarabatos en notas completas",
+     "body": "La app AI Edge Foresight de Google para Mac, sin conexión, muestra EmbeddingGemma 2 al convertir garabatos en notas.",
+     "mini_headline": "Foresight, la app de notas de Google",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google anunció hoy EmbeddingGemma 2, un modelo capaz de \"organizar, buscar y conectar información directamente en hardware de consumo\". Para mostrar su potencial, Google creó la app AI Edge Foresight para Mac, pensada para la \"toma de notas inteligente\"."
+       },
+       {
+        "t": "p",
+        "x": "El modelo de 740 millones de parámetros se basa en la arquitectura Gemma 4 con licencia Apache 2.0. Con cuantización, en un Pixel 11 Pro necesita apenas ~191MB de RAM activa para los pesos de solo texto (text-only) y ~567MB para el modelo multimodal completo."
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "Durante las reuniones, Foresight escucha en segundo plano para que puedas \"garabatear viñetas abreviadas\", que la app \"enriquece al instante hasta convertirlas en notas pulidas usando la transcripción de la reunión\". La transcripción y el audio se procesan íntegramente en tu dispositivo."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "También puedes dirigirlo a carpetas de proyectos, diagramas y tu calendario, en local o en Google Drive, y luego hacer preguntas. Chat ofrece búsqueda y resumen, y Live Assistance \"escuchará y responderá preguntas automáticamente\". Se suma a AI Edge Gallery y AI Edge Eloquent en Mac."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "낙서→노트, Google\nForesight 메모앱",
+     "body": "AI Edge Foresight Mac 앱은 EmbeddingGemma 2를 쓴다.",
+     "mini_headline": "Google Foresight 메모 앱",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google은 오늘 \"소비자용 하드웨어에서 직접 정보를 정리하고 검색하고 연결할 수 있는\" 모델 EmbeddingGemma 2를 발표했다. 그 가능성을 보여주려고 Google은 \"지능형 메모\"를 위한 AI Edge Foresight Mac 앱을 만들었다."
+       },
+       {
+        "t": "p",
+        "x": "740 million 파라미터 규모의 이 모델은 Apache 2.0 라이선스로 Gemma 4 아키텍처 위에 만들어졌다. 양자화를 적용하면 Pixel 11 Pro에서 text-only 가중치는 ~191MB, 전체 멀티모달 모델은 ~567MB 수준의 활성 RAM만 있으면 된다."
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "회의 중 Foresight는 백그라운드에서 내용을 듣는다. 사용자가 \"약식 글머리표를 끄적이면\" 이를 \"회의 녹취록을 활용해 즉시 다듬어진 메모로 보강한다.\" 녹취록과 오디오는 전부 사용자의 기기 안에서 처리된다."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "로컬이나 Google Drive의 프로젝트 폴더, 다이어그램, 캘린더를 지정한 뒤 질문할 수도 있다. Chat은 검색과 요약을 제공하고, Live Assistance는 \"듣고 자동으로 질문에 답하는\" 기능이다. Foresight는 Mac용 AI Edge Gallery, AI Edge Eloquent와 함께 라인업을 이룬다."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Googleのメモアプリ\nForesightが清書",
+     "body": "AI Edge Foresight MacアプリはEmbeddingGemma 2を活かす。",
+     "mini_headline": "Google Foresightノートアプリ",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Googleは本日、「消費者向けハードウェア上で直接、情報を整理、検索、接続できる」モデル、EmbeddingGemma 2を発表した。その可能性を示すため、Googleは「インテリジェントなメモ取り」のためのAI Edge Foresight Macアプリを開発した。"
+       },
+       {
+        "t": "p",
+        "x": "パラメーター数740 millionのこのモデルは、Apache 2.0ライセンスのもとGemma 4アーキテクチャ上に構築されている。量子化すれば、Pixel 11 Proで必要なアクティブRAMはtext-onlyの重みで~191MB、マルチモーダルモデル全体でも~567MB。"
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "会議中、Foresightはバックグラウンドで音声を聞き取る。ユーザーが「略式の箇条書きを走り書き」すれば、それを「会議の文字起こしを使って即座に洗練されたメモへと肉付けする」。文字起こしと音声はすべてデバイス上で処理される。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "ローカルまたはGoogle Driveのプロジェクトフォルダーや図、カレンダーを指定し、質問することもできる。Chatは検索と要約を提供し、Live Assistanceは「聞き取って自動的に質問に答える」。Mac向けのAI Edge Gallery、AI Edge Eloquentに続くアプリとなる。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Google笔记应用\nForesight补全速记",
+     "body": "Mac应用AI Edge Foresight以EmbeddingGemma 2补全笔记。",
+     "mini_headline": "Google Foresight笔记应用",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google今天发布了EmbeddingGemma 2，这款模型能够“直接在消费级硬件上整理、搜索和关联信息”。为展示其潜力，Google打造了一款用于“智能记笔记”的AI Edge Foresight Mac应用。"
+       },
+       {
+        "t": "p",
+        "x": "这款740 million 参数的模型基于Gemma 4架构，采用Apache 2.0许可。经过量化后，在Pixel 11 Pro上，text-only权重只需~191MB 活跃RAM，完整的多模态模型则需~567MB。"
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "开会时，Foresight会在后台聆听，你可以“随手记下简略要点”，它会“利用会议转录即时将其扩充为完善的笔记”。转录和音频全部在你的设备上处理。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "你还可以让它读取本地或Google Drive中的项目文件夹、图表和日历，然后提问。Chat提供检索和摘要，Live Assistance则会“聆听并自动回答问题”。它与AI Edge Gallery、AI Edge Eloquent一同登陆Mac。"
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Foresight, de Google, convierte\ngarabatos en notas completas",
+     "body": "La app AI Edge Foresight de Google para Mac, sin conexión, muestra EmbeddingGemma 2 al convertir garabatos en notas.",
+     "mini_headline": "Foresight, la app de notas de Google",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+       },
+       {
+        "t": "p",
+        "x": "Google anunció hoy EmbeddingGemma 2, un modelo capaz de \"organizar, buscar y conectar información directamente en hardware de consumo\". Para mostrar su potencial, Google creó la app AI Edge Foresight para Mac, pensada para la \"toma de notas inteligente\"."
+       },
+       {
+        "t": "p",
+        "x": "El modelo de 740 millones de parámetros se basa en la arquitectura Gemma 4 con licencia Apache 2.0. Con cuantización, en un Pixel 11 Pro necesita apenas ~191MB de RAM activa para los pesos de solo texto (text-only) y ~567MB para el modelo multimodal completo."
+       },
+       {
+        "t": "video",
+        "yt": "KNPNNAKh3dU"
+       },
+       {
+        "t": "p",
+        "x": "Durante las reuniones, Foresight escucha en segundo plano para que puedas \"garabatear viñetas abreviadas\", que la app \"enriquece al instante hasta convertirlas en notas pulidas usando la transcripción de la reunión\". La transcripción y el audio se procesan íntegramente en tu dispositivo."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+       },
+       {
+        "t": "p",
+        "x": "También puedes dirigirlo a carpetas de proyectos, diagramas y tu calendario, en local o en Google Drive, y luego hacer preguntas. Chat ofrece búsqueda y resumen, y Live Assistance \"escuchará y responderá preguntas automáticamente\". Se suma a AI Edge Gallery y AI Edge Eloquent en Mac."
+       },
+       {
+        "t": "img",
+        "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "gadgets-fitbit-edge",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Fitbit Edge 루머\n손목 위의 Gemini",
+   "body": "Google Fitbit Edge는 화면·GPS·Gemini 코칭을 갖출 전망이다.",
+   "mini_headline": "Fitbit Edge 루머",
+   "tool": "Gadgets",
+   "source": "Digital Trends",
+   "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
+   "accent": "#f5a623",
+   "motif": "headset",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+      "cap": "Google Fitbit Edge (Android Headlines)"
+     },
+     {
+      "t": "p",
+      "x": "Google이 Fitbit Charge 라인에 오래 기다려 온 업그레이드를 준비하는 모양이다. 새로 유출된 자료에 소문의 Fitbit Edge 정보가 대거 담겼다. 곧 나올 이 피트니스 트래커는 미니멀한 Fitbit Air와 훨씬 고성능인 Google Pixel Watch 5 사이에 자리 잡을 것으로 보인다."
+     },
+     {
+      "t": "p",
+      "x": "보도에 따르면 Fitbit Edge에는 always-on 모드를 지원하는 1.34-inch AMOLED 디스플레이와 내장 GPS, Bluetooth 5.4가 들어가고, Android와 iPhone에서 모두 쓸 수 있다. 정작 Edge의 가장 큰 차별점은 Gemini일지 모른다."
+     },
+     {
+      "t": "img",
+      "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+      "cap": "Google Fitbit Edge (Android Headlines)"
+     },
+     {
+      "t": "p",
+      "x": "Gemini 기반 맞춤형 피트니스 코칭도 지원한다고 한다. 맞춤 운동 프로그램과 Ask Coach 기능, 손목에서 바로 받는 코칭이 여기에 들어간다. 일부 고급 기능은 Google Health Premium 구독을 요구할 수도 있다."
+     },
+     {
+      "t": "p",
+      "x": "배터리는 한 번 충전으로 최대 일주일(seven days)을 간다고 하지만, always-on 디스플레이를 켜면 이틀 정도로 줄 수 있다. 오 분만 충전해도 약 24시간을 버틴다고 한다."
+     },
+     {
+      "t": "img",
+      "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+      "cap": "Google Fitbit Edge (Android Headlines)"
+     },
+     {
+      "t": "p",
+      "x": "Dealabs에 따르면 가격은 유럽(Europe) €179(~ $201), 영국(UK) £159(~ $211)다. Google은 아직 Fitbit Edge를 공식 발표하지 않았다. 다만 이만큼 새어 나온 이상 비밀이 오래가지는 않을 듯하다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Google's rumored Fitbit Edge\nputs Gemini on your wrist",
+     "body": "Google's rumored Fitbit Edge may pack a screen, GPS, Gemini coaching, and week-long battery into a tiny tracker.",
+     "mini_headline": "Rumored Fitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google may be preparing to give the Fitbit Charge line the upgrade it’s been waiting for. A new leak has revealed a huge amount of information about the rumored Fitbit Edge, an upcoming fitness tracker that appears designed to sit somewhere between the minimalist Fitbit Air and Google’s much more capable Pixel Watch 5."
+       },
+       {
+        "t": "p",
+        "x": "The Fitbit Edge will reportedly feature a 1.34-inch AMOLED display with an always-on mode, built-in GPS, Bluetooth 5.4, and support for both Android and iPhone. But Gemini could be the Edge’s biggest differentiator."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "The tracker reportedly supports personalized fitness coaching powered by Gemini, including customized workout programs, an Ask Coach feature, and coaching directly from your wrist. Some of those smarter features may require a Google Health Premium subscription."
+       },
+       {
+        "t": "p",
+        "x": "The tracker reportedly lasts up to seven days on a charge, although enabling the always-on display could drop that to around two days. Just five minutes of charging is said to provide roughly 24 hours of use."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Dealabs reportedly lists it at €179 (~ $201) in Europe and £159 (~ $211) in the UK. Google hasn’t officially announced the Fitbit Edge yet, but given how much has leaked, it probably won’t remain a secret much longer."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Fitbit Edge 루머\n손목 위의 Gemini",
+     "body": "Google Fitbit Edge는 화면·GPS·Gemini 코칭을 갖출 전망이다.",
+     "mini_headline": "Fitbit Edge 루머",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google이 Fitbit Charge 라인에 오래 기다려 온 업그레이드를 준비하는 모양이다. 새로 유출된 자료에 소문의 Fitbit Edge 정보가 대거 담겼다. 곧 나올 이 피트니스 트래커는 미니멀한 Fitbit Air와 훨씬 고성능인 Google Pixel Watch 5 사이에 자리 잡을 것으로 보인다."
+       },
+       {
+        "t": "p",
+        "x": "보도에 따르면 Fitbit Edge에는 always-on 모드를 지원하는 1.34-inch AMOLED 디스플레이와 내장 GPS, Bluetooth 5.4가 들어가고, Android와 iPhone에서 모두 쓸 수 있다. 정작 Edge의 가장 큰 차별점은 Gemini일지 모른다."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Gemini 기반 맞춤형 피트니스 코칭도 지원한다고 한다. 맞춤 운동 프로그램과 Ask Coach 기능, 손목에서 바로 받는 코칭이 여기에 들어간다. 일부 고급 기능은 Google Health Premium 구독을 요구할 수도 있다."
+       },
+       {
+        "t": "p",
+        "x": "배터리는 한 번 충전으로 최대 일주일(seven days)을 간다고 하지만, always-on 디스플레이를 켜면 이틀 정도로 줄 수 있다. 오 분만 충전해도 약 24시간을 버틴다고 한다."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Dealabs에 따르면 가격은 유럽(Europe) €179(~ $201), 영국(UK) £159(~ $211)다. Google은 아직 Fitbit Edge를 공식 발표하지 않았다. 다만 이만큼 새어 나온 이상 비밀이 오래가지는 않을 듯하다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "噂のFitbit Edge\n手首にGemini",
+     "body": "噂のGoogle Fitbit EdgeはGPSとGeminiコーチングを備える見込みだ。",
+     "mini_headline": "噂のFitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "GoogleはFitbit Chargeシリーズに待望のアップグレードを用意しているのかもしれない。新たなリークで、噂のFitbit Edgeについて膨大な情報が明らかになった。この次期フィットネストラッカーは、ミニマルなFitbit Airと、はるかに高機能なGoogleのPixel Watch 5の中間に位置づけられるよう設計されているようだ。"
+       },
+       {
+        "t": "p",
+        "x": "報道によれば、Fitbit Edgeはalways-onモード付きの1.34-inch AMOLEDディスプレイ、内蔵GPS、Bluetooth 5.4を備え、AndroidとiPhoneの両方に対応する。だが、Edge最大の差別化要素はGeminiになるかもしれない。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "このトラッカーはGeminiによるパーソナライズされたフィットネスコーチングに対応するという。カスタマイズされたワークアウトプログラム、Ask Coach機能、手首から直接受けられるコーチングなどだ。一部の高度な機能にはGoogle Health Premiumのサブスクリプションが必要になる可能性がある。"
+       },
+       {
+        "t": "p",
+        "x": "一回の充電で最大七日間持つとされるが、always-onディスプレイを有効にすると二日程度に縮む可能性がある。わずか五分の充電で約24時間使えるという。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Dealabsによると、価格は欧州(Europe)で€179(~ $201)、英国(UK)で£159(~ $211)だという。GoogleはまだFitbit Edgeを正式発表していないが、これだけ情報が漏れている以上、秘密のままでいられる期間は長くないだろう。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "传闻：Fitbit Edge\n把Gemini戴上手腕",
+     "body": "传闻中的Google Fitbit Edge或配备屏幕、GPS、Gemini教练与一周续航。",
+     "mini_headline": "传闻中的Fitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google或许正准备为Fitbit Charge系列带来期待已久的升级。一则新的爆料披露了大量关于传闻中Fitbit Edge的信息，这款即将推出的健身追踪器似乎定位于极简的Fitbit Air与功能强大得多的Google Pixel Watch 5之间。"
+       },
+       {
+        "t": "p",
+        "x": "据报道，Fitbit Edge将配备支持always-on模式的1.34-inch AMOLED显示屏，内置GPS和Bluetooth 5.4，并同时支持Android和iPhone。不过，Gemini可能才是Edge最大的差异化卖点。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "据称，这款追踪器支持由Gemini驱动的个性化健身指导，包括定制训练计划、Ask Coach功能以及直接在手腕上获得的指导。部分更智能的功能可能需要订阅Google Health Premium。"
+       },
+       {
+        "t": "p",
+        "x": "据报道，这款追踪器充一次电最长可用七天，但开启always-on显示后可能缩短至两天左右。据称只需充电五分钟即可使用约24小时。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "据报道，Dealabs列出的价格为欧洲（Europe）€179（~ $201）、英国（UK）£159（~ $211）。Google尚未正式发布Fitbit Edge，但鉴于泄露的信息如此之多，它恐怕瞒不了太久。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El Fitbit Edge de Google\nllevaría Gemini a la muñeca",
+     "body": "El rumoreado Fitbit Edge de Google podría sumar pantalla, GPS, coaching de Gemini y una semana de batería.",
+     "mini_headline": "El rumoreado Fitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google podría estar preparando la actualización que la línea Fitbit Charge llevaba tiempo esperando. Una nueva filtración ha revelado una enorme cantidad de información sobre el rumoreado Fitbit Edge, una próxima pulsera de actividad que parece diseñada para situarse entre el minimalista Fitbit Air y el mucho más capaz Pixel Watch 5 de Google."
+       },
+       {
+        "t": "p",
+        "x": "Según la información, el Fitbit Edge tendrá una pantalla AMOLED de 1.34 pulgadas (1.34-inch) con modo siempre activo (always-on), GPS integrado, Bluetooth 5.4 y compatibilidad con Android y iPhone. Pero Gemini podría ser el mayor elemento diferenciador del Edge."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Según se informa, la pulsera admite entrenamiento personalizado impulsado por Gemini, con programas de ejercicio a medida, una función Ask Coach y coaching directamente desde la muñeca. Algunas de esas funciones más inteligentes podrían requerir una suscripción a Google Health Premium."
+       },
+       {
+        "t": "p",
+        "x": "La pulsera duraría hasta siete días con una carga, aunque activar la pantalla always-on podría reducirlo a unos dos días. Se dice que solo cinco minutos de carga dan para unas 24 horas de uso."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Según Dealabs, cuesta €179 (~ $201) en Europa (Europe) y £159 (~ $211) en el Reino Unido (UK). Google aún no ha anunciado oficialmente el Fitbit Edge, pero dada la cantidad de filtraciones, probablemente no seguirá siendo un secreto mucho más tiempo."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Fitbit Edge 루머\n손목 위의 Gemini",
+     "body": "Google Fitbit Edge는 화면·GPS·Gemini 코칭을 갖출 전망이다.",
+     "mini_headline": "Fitbit Edge 루머",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google이 Fitbit Charge 라인에 오랫동안 기다려 온 업그레이드를 준비하는 듯하다. 새 유출로 소문의 Fitbit Edge에 관한 방대한 정보가 드러났다. 곧 나올 이 피트니스 트래커는 미니멀한 Fitbit Air와 훨씬 고성능인 Google Pixel Watch 5 사이에 자리하도록 설계된 것으로 보인다."
+       },
+       {
+        "t": "p",
+        "x": "보도에 따르면 Fitbit Edge는 always-on 모드를 지원하는 1.34-inch AMOLED 디스플레이, 내장 GPS, Bluetooth 5.4를 갖추고 Android와 iPhone을 모두 지원한다. 하지만 Edge의 가장 큰 차별점은 Gemini가 될 수 있다."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "이 트래커는 Gemini 기반 맞춤형 피트니스 코칭을 지원한다고 한다. 맞춤 운동 프로그램, Ask Coach 기능, 손목에서 바로 받는 코칭이 포함된다. 일부 고급 기능은 Google Health Premium 구독이 필요할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "한 번 충전으로 최대 일주일(seven days)을 쓸 수 있다고 하지만, always-on 디스플레이를 켜면 이틀 정도로 줄어들 수 있다. 오 분만 충전해도 약 24시간 쓸 수 있다고 한다."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Dealabs에 따르면 가격은 유럽(Europe) €179(~ $201), 영국(UK) £159(~ $211)다. Google은 아직 Fitbit Edge를 공식 발표하지 않았지만, 이만큼 유출된 것을 보면 비밀이 오래가지는 않을 듯하다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "噂のFitbit Edge\n手首にGemini",
+     "body": "噂のGoogle Fitbit EdgeはGPSとGeminiコーチングを備える見込みだ。",
+     "mini_headline": "噂のFitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "GoogleはFitbit Chargeシリーズに待望のアップグレードを用意しているのかもしれない。新たなリークで、噂のFitbit Edgeについて膨大な情報が明らかになった。この次期フィットネストラッカーは、ミニマルなFitbit Airと、はるかに高機能なGoogleのPixel Watch 5の中間に位置づけられるよう設計されているようだ。"
+       },
+       {
+        "t": "p",
+        "x": "報道によれば、Fitbit Edgeはalways-onモード付きの1.34-inch AMOLEDディスプレイ、内蔵GPS、Bluetooth 5.4を備え、AndroidとiPhoneの両方に対応する。だが、Edge最大の差別化要素はGeminiになるかもしれない。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "このトラッカーはGeminiによるパーソナライズされたフィットネスコーチングに対応するという。カスタマイズされたワークアウトプログラム、Ask Coach機能、手首から直接受けられるコーチングなどだ。一部の高度な機能にはGoogle Health Premiumのサブスクリプションが必要になる可能性がある。"
+       },
+       {
+        "t": "p",
+        "x": "一回の充電で最大七日間持つとされるが、always-onディスプレイを有効にすると二日程度に縮む可能性がある。わずか五分の充電で約24時間使えるという。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Dealabsによると、価格は欧州(Europe)で€179(~ $201)、英国(UK)で£159(~ $211)だという。GoogleはまだFitbit Edgeを正式発表していないが、これだけ情報が漏れている以上、秘密のままでいられる期間は長くないだろう。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "传闻：Fitbit Edge\n把Gemini戴上手腕",
+     "body": "传闻中的Google Fitbit Edge或配备屏幕、GPS、Gemini教练与一周续航。",
+     "mini_headline": "传闻中的Fitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google或许正准备为Fitbit Charge系列带来期待已久的升级。一则新的爆料披露了大量关于传闻中Fitbit Edge的信息，这款即将推出的健身追踪器似乎定位于极简的Fitbit Air与功能强大得多的Google Pixel Watch 5之间。"
+       },
+       {
+        "t": "p",
+        "x": "据报道，Fitbit Edge将配备支持always-on模式的1.34-inch AMOLED显示屏，内置GPS和Bluetooth 5.4，并同时支持Android和iPhone。不过，Gemini可能才是Edge最大的差异化卖点。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "据称，这款追踪器支持由Gemini驱动的个性化健身指导，包括定制训练计划、Ask Coach功能以及直接在手腕上获得的指导。部分更智能的功能可能需要订阅Google Health Premium。"
+       },
+       {
+        "t": "p",
+        "x": "据报道，这款追踪器充一次电最长可用七天，但开启always-on显示后可能缩短至两天左右。据称只需充电五分钟即可使用约24小时。"
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "据报道，Dealabs列出的价格为欧洲（Europe）€179（~ $201）、英国（UK）£159（~ $211）。Google尚未正式发布Fitbit Edge，但鉴于泄露的信息如此之多，它恐怕瞒不了太久。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El Fitbit Edge de Google\nllevaría Gemini a la muñeca",
+     "body": "El rumoreado Fitbit Edge de Google podría sumar pantalla, GPS, coaching de Gemini y una semana de batería.",
+     "mini_headline": "El rumoreado Fitbit Edge",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Google podría estar preparando la actualización que la línea Fitbit Charge llevaba tiempo esperando. Una nueva filtración ha revelado una enorme cantidad de información sobre el rumoreado Fitbit Edge, una próxima pulsera de actividad que parece diseñada para situarse entre el minimalista Fitbit Air y el mucho más capaz Pixel Watch 5 de Google."
+       },
+       {
+        "t": "p",
+        "x": "Según la información, el Fitbit Edge tendrá una pantalla AMOLED de 1.34 pulgadas (1.34-inch) con modo siempre activo (always-on), GPS integrado, Bluetooth 5.4 y compatibilidad con Android y iPhone. Pero Gemini podría ser el mayor elemento diferenciador del Edge."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Según se informa, la pulsera admite entrenamiento personalizado impulsado por Gemini, con programas de ejercicio a medida, una función Ask Coach y coaching directamente desde la muñeca. Algunas de esas funciones más inteligentes podrían requerir una suscripción a Google Health Premium."
+       },
+       {
+        "t": "p",
+        "x": "La pulsera duraría hasta siete días con una carga, aunque activar la pantalla always-on podría reducirlo a unos dos días. Se dice que solo cinco minutos de carga dan para unas 24 horas de uso."
+       },
+       {
+        "t": "img",
+        "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+        "cap": "Google Fitbit Edge (Android Headlines)"
+       },
+       {
+        "t": "p",
+        "x": "Según Dealabs, cuesta €179 (~ $201) en Europa (Europe) y £159 (~ $211) en el Reino Unido (UK). Google aún no ha anunciado oficialmente el Fitbit Edge, pero dada la cantidad de filtraciones, probablemente no seguirá siendo un secreto mucho más tiempo."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "gadgets-jbl-partybox",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "JBL 새 파티 스피커,\nAI로 보컬 지운다",
+   "body": "JBL PartyBox Ultimate 2는 AI로 보컬을 지워 반주를 만든다.",
+   "mini_headline": "JBL AI 노래방 스피커",
+   "tool": "Gadgets",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
+   "accent": "#7928ca",
+   "motif": "headset",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+     },
+     {
+      "t": "p",
+      "x": "JBL이 $1,800짜리 PartyBox Ultimate 2로 파티 스피커 라인업을 넓힌다. 듀얼 우퍼, 듀얼 미드레인지 드라이버, 듀얼 트위터까지 드라이버 여섯 개로 1,500W 출력을 낸다. 무게는 120파운드다. 배터리가 없어 전원에 꽂아 써야 한다."
+     },
+     {
+      "t": "img",
+      "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+     },
+     {
+      "t": "p",
+      "x": "PartyBox Ultimate 2에는 AI 분리 기능이 들어가 버튼 하나면 곡에서 보컬이 지워진다. 이 기능은 JBL Bandbox Solo에서 \"예상보다 훨씬 잘 작동했고\", 말 그대로 어떤 곡이든 이렇게 할 수 있다는 점은 \"여전히 꽤 멋지다.\""
+     },
+     {
+      "t": "p",
+      "x": "왜곡 없이 음량을 끝까지 끌어올리는 AI Sound Boost, 재생 중인 음악을 AI로 분석해 EQ를 실시간으로 맞추는 Smart EQ Mode도 있다. Wi-Fi로 AirPlay 2, Spotify Connect, Chromecast 스트리밍을 지원하고, USB-C 무손실, 광, XLR 입력도 갖췄다."
+     },
+     {
+      "t": "p",
+      "x": "PartyBox Ultimate 2는 지금 예약 주문을 받고 있고, 10월 25일(Oct. 25)부터 배송된다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "JBL's new party speaker\nstrips vocals with AI",
+     "body": "The JBL PartyBox Ultimate 2 uses the company's AI tool to strip vocals from songs for karaoke.",
+     "mini_headline": "JBL's AI karaoke speaker",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL is expanding its party speaker lineup with the $1,800 PartyBox Ultimate 2, which puts out 1,500W from six drivers: dual woofers, dual midrange drivers, and dual tweeters. It weighs 120 pounds and has no battery, so it must be plugged in."
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL put its AI isolation features in the PartyBox Ultimate 2, so you can strip vocals out of tracks with the push of a button. On JBL's Bandbox Solo, the feature \"works far better than you'd expect,\" and doing it with literally any song is \"still pretty rad.\""
+       },
+       {
+        "t": "p",
+        "x": "There's also AI Sound Boost, meant to maximize volume without distortion, and Smart EQ Mode, which uses AI to assess what you're listening to and adjust EQ in real time. It streams over Wi-Fi via AirPlay 2, Spotify Connect, and Chromecast, with USB-C lossless, optical, and XLR inputs."
+       },
+       {
+        "t": "p",
+        "x": "The PartyBox Ultimate 2 is available for preorder now and ships starting Oct. 25."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "JBL 새 파티 스피커,\nAI로 보컬 지운다",
+     "body": "JBL PartyBox Ultimate 2는 AI로 보컬을 지워 반주를 만든다.",
+     "mini_headline": "JBL AI 노래방 스피커",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL이 $1,800짜리 PartyBox Ultimate 2로 파티 스피커 라인업을 넓힌다. 듀얼 우퍼, 듀얼 미드레인지 드라이버, 듀얼 트위터까지 드라이버 여섯 개로 1,500W 출력을 낸다. 무게는 120파운드다. 배터리가 없어 전원에 꽂아 써야 한다."
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2에는 AI 분리 기능이 들어가 버튼 하나면 곡에서 보컬이 지워진다. 이 기능은 JBL Bandbox Solo에서 \"예상보다 훨씬 잘 작동했고\", 말 그대로 어떤 곡이든 이렇게 할 수 있다는 점은 \"여전히 꽤 멋지다.\""
+       },
+       {
+        "t": "p",
+        "x": "왜곡 없이 음량을 끝까지 끌어올리는 AI Sound Boost, 재생 중인 음악을 AI로 분석해 EQ를 실시간으로 맞추는 Smart EQ Mode도 있다. Wi-Fi로 AirPlay 2, Spotify Connect, Chromecast 스트리밍을 지원하고, USB-C 무손실, 광, XLR 입력도 갖췄다."
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2는 지금 예약 주문을 받고 있고, 10월 25일(Oct. 25)부터 배송된다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "JBLのパーティースピーカー\nAIでボーカルを消す",
+     "body": "JBL PartyBox Ultimate 2はAIで曲のボーカルを消してカラオケにできる。",
+     "mini_headline": "JBLのAIカラオケスピーカー",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBLは$1,800のPartyBox Ultimate 2でパーティースピーカーのラインアップを拡充する。デュアルウーファー、デュアルミッドレンジドライバー、デュアルツイーターの六つのドライバーを備え、出力は1,500W、重さは120ポンドだ。バッテリーはなく、電源につないで使う必要がある。"
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBLはPartyBox Ultimate 2にAI分離機能を搭載し、ボタン一つで曲からボーカルを消せるようにした。JBLのBandbox Soloでは、この機能は「予想よりはるかによく機能し」、文字どおりどんな曲でもできるのは「やはりかなりクール」だった。"
+       },
+       {
+        "t": "p",
+        "x": "歪みなく音量を最大化するAI Sound Boostや、AIで再生中の音楽を判別してEQをリアルタイムに調整するSmart EQ Modeもある。Wi-Fi経由でAirPlay 2、Spotify Connect、Chromecastによるストリーミングに対応し、USB-Cロスレス、光デジタル、XLRの各入力を備える。"
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2は現在予約受付中で、10月25日(Oct. 25)から出荷される。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "JBL新款派对音箱\n用AI去除人声",
+     "body": "JBL PartyBox Ultimate 2借助自家AI工具去除歌曲人声，方便K歌。",
+     "mini_headline": "JBL AI卡拉OK音箱",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL推出售价$1,800的PartyBox Ultimate 2，扩充其派对音箱产品线。它配备六个单元，即双低音单元、双中音单元和双高音单元，输出功率达1,500W。它重达120磅，且没有电池，必须插电使用。"
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL在PartyBox Ultimate 2中加入了AI分离功能，一键即可去除歌曲中的人声。在JBL的Bandbox Solo上，这一功能“效果远超预期”，而且能对任何一首歌这样做，“依然相当酷”。"
+       },
+       {
+        "t": "p",
+        "x": "此外还有旨在无失真地最大化音量的AI Sound Boost，以及利用AI判断你正在听的内容并实时调整EQ的Smart EQ Mode。它支持通过Wi-Fi以AirPlay 2、Spotify Connect和Chromecast串流，并提供USB-C无损、光纤和XLR输入。"
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2现已开放预订，将于10月25日（Oct. 25）起发货。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El nuevo altavoz festivo de JBL\nelimina las voces con AI",
+     "body": "El JBL PartyBox Ultimate 2 usa la herramienta de AI de la marca para quitar la voz de las canciones y hacer karaoke.",
+     "mini_headline": "El altavoz de karaoke con AI de JBL",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL amplía su gama de altavoces para fiestas con el PartyBox Ultimate 2, de $1,800, que entrega 1,500W a través de seis drivers: dos woofers, dos drivers de rango medio y dos tweeters. Pesa 120 libras y no tiene batería, así que debe estar enchufado."
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL incorporó sus funciones de aislamiento por AI en el PartyBox Ultimate 2, de modo que se pueden eliminar las voces de las canciones con solo pulsar un botón. En el Bandbox Solo de JBL, la función \"funciona mucho mejor de lo que cabría esperar\", y hacerlo con literalmente cualquier canción \"sigue siendo bastante genial\"."
+       },
+       {
+        "t": "p",
+        "x": "También incluye AI Sound Boost, pensado para maximizar el volumen sin distorsión, y Smart EQ Mode, que usa AI para analizar lo que escuchas y ajustar el EQ en tiempo real. Transmite por Wi-Fi mediante AirPlay 2, Spotify Connect y Chromecast, y ofrece entradas USB-C sin pérdidas, óptica y XLR."
+       },
+       {
+        "t": "p",
+        "x": "El PartyBox Ultimate 2 ya está disponible en preventa y se envía a partir del 25 de octubre (Oct. 25)."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "JBL 새 파티 스피커,\nAI로 보컬 지운다",
+     "body": "JBL PartyBox Ultimate 2는 AI로 보컬을 지워 반주를 만든다.",
+     "mini_headline": "JBL AI 노래방 스피커",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL이 $1,800짜리 PartyBox Ultimate 2로 파티 스피커 라인업을 넓힌다. 듀얼 우퍼, 듀얼 미드레인지 드라이버, 듀얼 트위터 등 여섯 개 드라이버로 1,500W 출력을 낸다. 무게는 120파운드이고 배터리가 없어 전원에 꽂아 써야 한다."
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL은 PartyBox Ultimate 2에 AI 분리 기능을 넣어, 버튼 하나로 곡에서 보컬을 지울 수 있게 했다. JBL Bandbox Solo에서 이 기능은 \"예상보다 훨씬 잘 작동했고\", 말 그대로 어떤 곡으로든 이렇게 할 수 있다는 점은 \"여전히 꽤 멋지다.\""
+       },
+       {
+        "t": "p",
+        "x": "왜곡 없이 음량을 최대로 끌어올리는 AI Sound Boost, AI로 듣고 있는 음악을 분석해 EQ를 실시간 조정하는 Smart EQ Mode도 있다. Wi-Fi로 AirPlay 2, Spotify Connect, Chromecast 스트리밍을 지원하고, USB-C 무손실, 광, XLR 입력을 갖췄다."
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2는 지금 예약 주문할 수 있으며 10월 25일(Oct. 25)부터 배송된다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "JBLのパーティースピーカー\nAIでボーカルを消す",
+     "body": "JBL PartyBox Ultimate 2はAIで曲のボーカルを消してカラオケにできる。",
+     "mini_headline": "JBLのAIカラオケスピーカー",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBLは$1,800のPartyBox Ultimate 2でパーティースピーカーのラインアップを拡充する。デュアルウーファー、デュアルミッドレンジドライバー、デュアルツイーターの六つのドライバーを備え、出力は1,500W、重さは120ポンドだ。バッテリーはなく、電源につないで使う必要がある。"
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBLはPartyBox Ultimate 2にAI分離機能を搭載し、ボタン一つで曲からボーカルを消せるようにした。JBLのBandbox Soloでは、この機能は「予想よりはるかによく機能し」、文字どおりどんな曲でもできるのは「やはりかなりクール」だった。"
+       },
+       {
+        "t": "p",
+        "x": "歪みなく音量を最大化するAI Sound Boostや、AIで再生中の音楽を判別してEQをリアルタイムに調整するSmart EQ Modeもある。Wi-Fi経由でAirPlay 2、Spotify Connect、Chromecastによるストリーミングに対応し、USB-Cロスレス、光デジタル、XLRの各入力を備える。"
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2は現在予約受付中で、10月25日(Oct. 25)から出荷される。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "JBL新款派对音箱\n用AI去除人声",
+     "body": "JBL PartyBox Ultimate 2借助自家AI工具去除歌曲人声，方便K歌。",
+     "mini_headline": "JBL AI卡拉OK音箱",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL推出售价$1,800的PartyBox Ultimate 2，扩充其派对音箱产品线。它配备六个单元，即双低音单元、双中音单元和双高音单元，输出功率达1,500W。它重达120磅，且没有电池，必须插电使用。"
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL在PartyBox Ultimate 2中加入了AI分离功能，一键即可去除歌曲中的人声。在JBL的Bandbox Solo上，这一功能“效果远超预期”，而且能对任何一首歌这样做，“依然相当酷”。"
+       },
+       {
+        "t": "p",
+        "x": "此外还有旨在无失真地最大化音量的AI Sound Boost，以及利用AI判断你正在听的内容并实时调整EQ的Smart EQ Mode。它支持通过Wi-Fi以AirPlay 2、Spotify Connect和Chromecast串流，并提供USB-C无损、光纤和XLR输入。"
+       },
+       {
+        "t": "p",
+        "x": "PartyBox Ultimate 2现已开放预订，将于10月25日（Oct. 25）起发货。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El nuevo altavoz festivo de JBL\nelimina las voces con AI",
+     "body": "El JBL PartyBox Ultimate 2 usa la herramienta de AI de la marca para quitar la voz de las canciones y hacer karaoke.",
+     "mini_headline": "El altavoz de karaoke con AI de JBL",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL amplía su gama de altavoces para fiestas con el PartyBox Ultimate 2, de $1,800, que entrega 1,500W a través de seis drivers: dos woofers, dos drivers de rango medio y dos tweeters. Pesa 120 libras y no tiene batería, así que debe estar enchufado."
+       },
+       {
+        "t": "img",
+        "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "JBL incorporó sus funciones de aislamiento por AI en el PartyBox Ultimate 2, de modo que se pueden eliminar las voces de las canciones con solo pulsar un botón. En el Bandbox Solo de JBL, la función \"funciona mucho mejor de lo que cabría esperar\", y hacerlo con literalmente cualquier canción \"sigue siendo bastante genial\"."
+       },
+       {
+        "t": "p",
+        "x": "También incluye AI Sound Boost, pensado para maximizar el volumen sin distorsión, y Smart EQ Mode, que usa AI para analizar lo que escuchas y ajustar el EQ en tiempo real. Transmite por Wi-Fi mediante AirPlay 2, Spotify Connect y Chromecast, y ofrece entradas USB-C sin pérdidas, óptica y XLR."
+       },
+       {
+        "t": "p",
+        "x": "El PartyBox Ultimate 2 ya está disponible en preventa y se envía a partir del 25 de octubre (Oct. 25)."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "gadgets-underdog",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Underdog의 무료\n온디바이스 AI 비서",
+   "body": "Sigil Wen의 무료 온디바이스 AI 비서 Underdog이 베타에 들어갔다.",
+   "mini_headline": "Underdog 온디바이스 비서",
+   "tool": "Gadgets",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+      "cap": "이미지 제공: Sigil Wen"
+     },
+     {
+      "t": "p",
+      "x": "현재 Thiel Fellow인 Wen은 월요일 Underdog의 초대제 베타를 열었다. 실리콘밸리가 내놓은 AI 비서 가운데서도 가장 사적인 축에 든다. 모델이 모두 기기 안에서 돌아가니 사용자 데이터는 이미 가진 기기를 벗어나지 않는다. 지금은 Mac과 Windows PCs를 지원하고, Linux, iPhone, Android 버전도 곧 나온다."
+     },
+     {
+      "t": "p",
+      "x": "Underdog을 돌리는 것은 추론 엔진 Husky다. Wen이 사용자 자신의 하드웨어에서 AI 모델을 빠르게 돌리려고 만들었다. Wen에 따르면 Husky는 경쟁 온디바이스 엔진보다 컴퓨터의 메인 칩과 그래픽 칩 사이에서 옮기는 데이터가 적다."
+     },
+     {
+      "t": "p",
+      "x": "지금 쓰는 모델은 Qwen3.8-27B 를 미세 조정한 27B 파라미터 추론 모델이다. Wen은 이 모델이 일부 벤치마크에서 Claude Opus 4.6 과 견줄 만하고, 쇼핑 조사나 수학 숙제 질문 답변 같은 일상 작업도 해낸다고 주장한다."
+     },
+     {
+      "t": "p",
+      "x": "앱은 우선 무료로 풀리고, 광고로 돈을 벌지도 않는다. AI가 사용자 기기에서 돌아가니 Underdog은 제공업체에 막대한 추론 비용을 낼 부담이 없다. 대신 비서가 Stripe 결제망으로 처리하는 결제 거래에서 아주 적은 비율을 떼 간다. 일종의 인터체인지 수수료다."
+     },
+     {
+      "t": "p",
+      "x": "Underdog을 만든 스타트업은 Conway Research다. Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, Anthology Fund와 함께 Patrick Collison, Guillermo Rauch 등 엔젤 투자자가 참여했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Underdog brings a free AI\nassistant fully on-device",
+     "body": "Sigil Wen's Underdog is an on-device AI assistant, free at first and never ad-supported, now in invite-only beta.",
+     "mini_headline": "Underdog on-device assistant",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "Image Credits: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "Now a Thiel Fellow, Wen on Monday launched an invite-only beta of Underdog, one of the most private AI assistants Silicon Valley has yet to offer. The model runs wholly on-device, meaning the user’s data remains on devices they already own, currently Macs and Windows PCs, with Linux, iPhone, and Android versions coming soon."
+       },
+       {
+        "t": "p",
+        "x": "Underdog is powered by Husky, the inference engine Wen built to run AI models quickly on a user’s own hardware. Wen says it moves less data between a computer’s main chip and its graphics chip than rival on-device engines."
+       },
+       {
+        "t": "p",
+        "x": "It currently uses a 27-billion parameter reasoning model fine-tuned from Qwen3.8-27B. Wen argues that this model compares favorably with Claude Opus 4.6 in some benchmarks, and can handle everyday tasks like shopping research or answering math homework questions."
+       },
+       {
+        "t": "p",
+        "x": "The app will be free at first and never ad-supported. Since the AI runs on users’ machines, Underdog doesn’t have the giant overhead of paying a provider for inference. Instead, it will take a tiny percentage of payment transactions the assistant makes using Stripe’s payment rails, something like an interchange fee."
+       },
+       {
+        "t": "p",
+        "x": "The startup behind Underdog is Conway Research, backed by Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, the Anthology Fund, and angels including Patrick Collison and Guillermo Rauch."
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Underdog: asistente de AI gratis\nque funciona del todo on-device",
+     "body": "Underdog, de Sigil Wen, es un asistente de AI on-device, gratis al inicio y nunca con anuncios, en beta por invitación.",
+     "mini_headline": "Underdog, asistente on-device",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "Image Credits: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "Ahora Thiel Fellow, Wen lanzó el lunes una beta solo por invitación (invite-only) de Underdog, uno de los asistentes de AI más privados que ha ofrecido Silicon Valley hasta ahora. El modelo funciona por completo en el dispositivo (on-device), lo que significa que los datos del usuario permanecen en equipos que ya posee, por ahora Macs y Windows PCs, con versiones para Linux, iPhone y Android próximamente."
+       },
+       {
+        "t": "p",
+        "x": "Underdog funciona con Husky, el motor de inferencia que Wen creó para ejecutar modelos de AI rápidamente en el hardware del propio usuario. Wen afirma que mueve menos datos entre el chip principal de la computadora y su chip gráfico que los motores on-device rivales."
+       },
+       {
+        "t": "p",
+        "x": "Actualmente usa un modelo de razonamiento de 27 mil millones de parámetros (27-billion), ajustado (fine-tuned) a partir de Qwen3.8-27B. Wen sostiene que este modelo se compara favorablemente con Claude Opus 4.6 en algunos benchmarks y puede encargarse de tareas cotidianas como investigar compras o responder preguntas de tareas de matemáticas."
+       },
+       {
+        "t": "p",
+        "x": "La app será gratuita al principio y nunca se financiará con anuncios (ad-supported). Como la AI se ejecuta en las máquinas de los usuarios, Underdog no carga con el enorme gasto de pagar a un proveedor por la inferencia. En su lugar, se quedará con un porcentaje mínimo de las transacciones de pago que haga el asistente mediante la infraestructura de pagos de Stripe, algo parecido a una tasa de intercambio."
+       },
+       {
+        "t": "p",
+        "x": "La startup detrás de Underdog es Conway Research, respaldada por Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, el Anthology Fund y ángeles inversores como Patrick Collison y Guillermo Rauch."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Underdog의 무료\n온디바이스 AI 비서",
+     "body": "Sigil Wen의 무료 온디바이스 AI 비서 Underdog이 베타에 들어갔다.",
+     "mini_headline": "Underdog 온디바이스 비서",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "이미지 제공: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "현재 Thiel Fellow인 Wen은 월요일 Underdog의 초대제 베타를 열었다. 실리콘밸리가 내놓은 AI 비서 가운데서도 가장 사적인 축에 든다. 모델이 모두 기기 안에서 돌아가니 사용자 데이터는 이미 가진 기기를 벗어나지 않는다. 지금은 Mac과 Windows PCs를 지원하고, Linux, iPhone, Android 버전도 곧 나온다."
+       },
+       {
+        "t": "p",
+        "x": "Underdog을 돌리는 것은 추론 엔진 Husky다. Wen이 사용자 자신의 하드웨어에서 AI 모델을 빠르게 돌리려고 만들었다. Wen에 따르면 Husky는 경쟁 온디바이스 엔진보다 컴퓨터의 메인 칩과 그래픽 칩 사이에서 옮기는 데이터가 적다."
+       },
+       {
+        "t": "p",
+        "x": "지금 쓰는 모델은 Qwen3.8-27B 를 미세 조정한 27B 파라미터 추론 모델이다. Wen은 이 모델이 일부 벤치마크에서 Claude Opus 4.6 과 견줄 만하고, 쇼핑 조사나 수학 숙제 질문 답변 같은 일상 작업도 해낸다고 주장한다."
+       },
+       {
+        "t": "p",
+        "x": "앱은 우선 무료로 풀리고, 광고로 돈을 벌지도 않는다. AI가 사용자 기기에서 돌아가니 Underdog은 제공업체에 막대한 추론 비용을 낼 부담이 없다. 대신 비서가 Stripe 결제망으로 처리하는 결제 거래에서 아주 적은 비율을 떼 간다. 일종의 인터체인지 수수료다."
+       },
+       {
+        "t": "p",
+        "x": "Underdog을 만든 스타트업은 Conway Research다. Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, Anthology Fund와 함께 Patrick Collison, Guillermo Rauch 등 엔젤 투자자가 참여했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Underdog、無料AIを\n完全に端末内で",
+     "body": "Sigil WenのUnderdogは、当面無料で広告もない端末内AIアシスタントだ。",
+     "mini_headline": "Underdog 端末内アシスタント",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "画像提供: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "現在 Thiel Fellow の Wen は月曜日、Underdog の招待制ベータを公開した。シリコンバレーがこれまでに提供した AI アシスタントの中でも、とりわけプライバシー性の高いものの一つだ。モデルは完全に端末上で動くため、ユーザーのデータはすでに所有するデバイスにとどまる。現在は Mac と Windows PCs に対応し、Linux、iPhone、Android 版も近く登場する。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog を動かすのは、Wen がユーザー自身のハードウェアで AI モデルを高速に実行するために開発した推論エンジン Husky だ。Wen によれば、競合の端末内エンジンに比べ、コンピューターのメインチップとグラフィックスチップの間でやり取りするデータが少ない。"
+       },
+       {
+        "t": "p",
+        "x": "現在は Qwen3.8-27B をファインチューニングした 27B パラメータの推論モデルを使う。Wen は、このモデルが一部のベンチマークで Claude Opus 4.6 に引けを取らず、買い物の下調べや数学の宿題の質問への回答といった日常的な作業をこなせると主張する。"
+       },
+       {
+        "t": "p",
+        "x": "アプリは当初無料で、広告で収益を得ることはない。AI がユーザーのマシン上で動くため、Underdog には推論の対価をプロバイダーに支払う巨額の負担がない。代わりに、アシスタントが Stripe の決済網で行う決済取引からごくわずかな割合を受け取る。インターチェンジ手数料のような仕組みだ。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog を手がけるスタートアップは Conway Research だ。Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund に加え、Patrick Collison や Guillermo Rauch らエンジェル投資家が出資している。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Underdog免费AI助手\n完全在设备端运行",
+     "body": "Sigil Wen推出的Underdog是免费、无广告的端侧AI助手，现处于邀请制测试。",
+     "mini_headline": "Underdog 端侧助手",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "图片来源：Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "如今已是 Thiel Fellow 的 Wen 于周一推出了 Underdog 的邀请制测试版，这是硅谷迄今最注重隐私的 AI 助手之一。模型完全在设备端运行，用户数据始终留在自己已有的设备上，目前支持 Mac 和 Windows PCs，Linux、iPhone 和 Android 版本即将推出。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog 由 Husky 驱动，这是 Wen 为在用户自有硬件上快速运行 AI 模型而打造的推理引擎。Wen 表示，与其他端侧引擎相比，它在电脑主芯片与图形芯片之间传输的数据更少。"
+       },
+       {
+        "t": "p",
+        "x": "它目前使用一款基于 Qwen3.8-27B 微调的 27B 参数推理模型。Wen 认为，该模型在部分基准测试中可与 Claude Opus 4.6 媲美，能处理购物调研、解答数学作业问题等日常任务。"
+       },
+       {
+        "t": "p",
+        "x": "这款应用起初免费，并且永远不靠广告盈利。由于 AI 在用户自己的机器上运行，Underdog 无需承担向服务商支付推理费用的巨大开销。它将从助手通过 Stripe 支付通道完成的交易中抽取极小比例的费用，类似于交换费。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog 背后的初创公司是 Conway Research，投资方包括 Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund，以及 Patrick Collison 和 Guillermo Rauch 等天使投资人。"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "es": {
+     "headline": "Underdog: asistente de AI gratis\nque funciona del todo on-device",
+     "body": "Underdog, de Sigil Wen, es un asistente de AI on-device, gratis al inicio y nunca con anuncios, en beta por invitación.",
+     "mini_headline": "Underdog, asistente on-device",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "Image Credits: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "Ahora Thiel Fellow, Wen lanzó el lunes una beta solo por invitación (invite-only) de Underdog, uno de los asistentes de AI más privados que ha ofrecido Silicon Valley hasta ahora. El modelo funciona por completo en el dispositivo (on-device), lo que significa que los datos del usuario permanecen en equipos que ya posee, por ahora Macs y Windows PCs, con versiones para Linux, iPhone y Android próximamente."
+       },
+       {
+        "t": "p",
+        "x": "Underdog funciona con Husky, el motor de inferencia que Wen creó para ejecutar modelos de AI rápidamente en el hardware del propio usuario. Wen afirma que mueve menos datos entre el chip principal de la computadora y su chip gráfico que los motores on-device rivales."
+       },
+       {
+        "t": "p",
+        "x": "Actualmente usa un modelo de razonamiento de 27 mil millones de parámetros (27-billion), ajustado (fine-tuned) a partir de Qwen3.8-27B. Wen sostiene que este modelo se compara favorablemente con Claude Opus 4.6 en algunos benchmarks y puede encargarse de tareas cotidianas como investigar compras o responder preguntas de tareas de matemáticas."
+       },
+       {
+        "t": "p",
+        "x": "La app será gratuita al principio y nunca se financiará con anuncios (ad-supported). Como la AI se ejecuta en las máquinas de los usuarios, Underdog no carga con el enorme gasto de pagar a un proveedor por la inferencia. En su lugar, se quedará con un porcentaje mínimo de las transacciones de pago que haga el asistente mediante la infraestructura de pagos de Stripe, algo parecido a una tasa de intercambio."
+       },
+       {
+        "t": "p",
+        "x": "La startup detrás de Underdog es Conway Research, respaldada por Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, el Anthology Fund y ángeles inversores como Patrick Collison y Guillermo Rauch."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Underdog의 무료\n온디바이스 AI 비서",
+     "body": "Sigil Wen의 Underdog은 무료 온디바이스 AI 비서로 베타 중이다.",
+     "mini_headline": "Underdog 온디바이스 비서",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "이미지 제공: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "현재 Thiel Fellow인 Wen은 월요일 Underdog의 초대제 베타를 공개했다. Underdog은 실리콘밸리가 내놓은 AI 비서 가운데 가장 사적인 축에 든다. 모델이 전부 기기 안에서 돌아가므로 사용자 데이터는 이미 가진 기기에 머문다. 현재는 Mac과 Windows PCs를 지원하며, Linux, iPhone, Android 버전이 곧 나온다."
+       },
+       {
+        "t": "p",
+        "x": "Underdog은 Wen이 사용자 자신의 하드웨어에서 AI 모델을 빠르게 돌리려고 만든 추론 엔진 Husky로 작동한다. Wen은 Husky가 경쟁 온디바이스 엔진보다 컴퓨터의 메인 칩과 그래픽 칩 사이에서 옮기는 데이터가 적다고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "현재는 Qwen3.8-27B 를 미세 조정한 27B 파라미터 추론 모델을 쓴다. Wen은 이 모델이 일부 벤치마크에서 Claude Opus 4.6 과 견줄 만하며, 쇼핑 조사나 수학 숙제 질문 답변 같은 일상 작업을 처리할 수 있다고 주장한다."
+       },
+       {
+        "t": "p",
+        "x": "앱은 처음에는 무료이고 광고로 수익을 내지 않는다. AI가 사용자 기기에서 돌아가므로 Underdog은 추론 비용을 제공업체에 내는 막대한 부담이 없다. 대신 비서가 Stripe 결제망으로 처리하는 결제 거래에서 아주 적은 비율을 가져간다. 일종의 인터체인지 수수료다."
+       },
+       {
+        "t": "p",
+        "x": "Underdog을 만든 스타트업은 Conway Research다. Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, Anthology Fund와 함께 Patrick Collison, Guillermo Rauch 등 엔젤 투자자가 투자했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Underdog、無料AIを\n完全に端末内で",
+     "body": "Sigil WenのUnderdogは、当面無料で広告もない端末内AIアシスタントだ。",
+     "mini_headline": "Underdog 端末内アシスタント",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "画像提供: Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "現在 Thiel Fellow の Wen は月曜日、Underdog の招待制ベータを公開した。シリコンバレーがこれまでに提供した AI アシスタントの中でも、とりわけプライバシー性の高いものの一つだ。モデルは完全に端末上で動くため、ユーザーのデータはすでに所有するデバイスにとどまる。現在は Mac と Windows PCs に対応し、Linux、iPhone、Android 版も近く登場する。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog を動かすのは、Wen がユーザー自身のハードウェアで AI モデルを高速に実行するために開発した推論エンジン Husky だ。Wen によれば、競合の端末内エンジンに比べ、コンピューターのメインチップとグラフィックスチップの間でやり取りするデータが少ない。"
+       },
+       {
+        "t": "p",
+        "x": "現在は Qwen3.8-27B をファインチューニングした 27B パラメータの推論モデルを使う。Wen は、このモデルが一部のベンチマークで Claude Opus 4.6 に引けを取らず、買い物の下調べや数学の宿題の質問への回答といった日常的な作業をこなせると主張する。"
+       },
+       {
+        "t": "p",
+        "x": "アプリは当初無料で、広告で収益を得ることはない。AI がユーザーのマシン上で動くため、Underdog には推論の対価をプロバイダーに支払う巨額の負担がない。代わりに、アシスタントが Stripe の決済網で行う決済取引からごくわずかな割合を受け取る。インターチェンジ手数料のような仕組みだ。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog を手がけるスタートアップは Conway Research だ。Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund に加え、Patrick Collison や Guillermo Rauch らエンジェル投資家が出資している。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Underdog免费AI助手\n完全在设备端运行",
+     "body": "Sigil Wen推出的Underdog是免费、无广告的端侧AI助手，现处于邀请制测试。",
+     "mini_headline": "Underdog 端侧助手",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+        "cap": "图片来源：Sigil Wen"
+       },
+       {
+        "t": "p",
+        "x": "如今已是 Thiel Fellow 的 Wen 于周一推出了 Underdog 的邀请制测试版，这是硅谷迄今最注重隐私的 AI 助手之一。模型完全在设备端运行，用户数据始终留在自己已有的设备上，目前支持 Mac 和 Windows PCs，Linux、iPhone 和 Android 版本即将推出。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog 由 Husky 驱动，这是 Wen 为在用户自有硬件上快速运行 AI 模型而打造的推理引擎。Wen 表示，与其他端侧引擎相比，它在电脑主芯片与图形芯片之间传输的数据更少。"
+       },
+       {
+        "t": "p",
+        "x": "它目前使用一款基于 Qwen3.8-27B 微调的 27B 参数推理模型。Wen 认为，该模型在部分基准测试中可与 Claude Opus 4.6 媲美，能处理购物调研、解答数学作业问题等日常任务。"
+       },
+       {
+        "t": "p",
+        "x": "这款应用起初免费，并且永远不靠广告盈利。由于 AI 在用户自己的机器上运行，Underdog 无需承担向服务商支付推理费用的巨大开销。它将从助手通过 Stripe 支付通道完成的交易中抽取极小比例的费用，类似于交换费。"
+       },
+       {
+        "t": "p",
+        "x": "Underdog 背后的初创公司是 Conway Research，投资方包括 Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund，以及 Patrick Collison 和 Guillermo Rauch 等天使投资人。"
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

@@ -1,232 +1,290 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "design",
   "window_hours": 72,
   "items": [
     {
-      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-      "source": "Creative Bloq",
-      "category": "render",
-      "published_iso": "2026-10-04T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-      "excerpt": "Newly published USPTO patent filings show Adobe working on a method for generating 3D worlds from text prompts, hinting at where Firefly could expand beyond image and video generation."
+      "title": "3 ways product designers use the Figma agent for craft, speed, and creative expression",
+      "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+      "source": "Figma Blog",
+      "category": "figma",
+      "published_iso": "2026-10-06T14:00:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available.",
+      "history_match": {
+        "score": 0.157,
+        "date": "2026-09-25",
+        "url": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
+        "title": "What It Takes to Build Great Products Now",
+        "band": "related"
+      }
     },
     {
-      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
-      "source": "Fstoppers",
-      "category": "render",
-      "published_iso": "2026-10-03T07:03:01-04:00",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_6.jpg.webp",
-      "excerpt": "PHLEARN's Aaron Nace shows Photoshop's Remove tool doesn't consume generative credits even with Generative AI and cloud processing on, plus other overlooked features that preserve a designer's monthly AI credit budget."
+      "title": "How to lighten design system upkeep with the Figma agent",
+      "url": "https://www.figma.com/blog/figma-agent-and-design-systems/",
+      "source": "Figma Blog",
+      "category": "tokens",
+      "published_iso": "2026-10-06T14:00:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4628d622dd91516f5755c9431146749f0ca1db35-1632x918.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Here, we share a few ways to put the agent to work.",
+      "history_match": {
+        "score": 0.159,
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
+        "title": "Bringing Design Systems into Figma Make",
+        "band": "related"
+      }
     },
     {
+      "title": "Workflow lab: Staying in the flow with Figma's agent",
+      "url": "https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/",
+      "source": "Figma Blog",
+      "category": "workflow",
+      "published_iso": "2026-10-06T14:00:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bd2c0137b62fb9bdb9bd9bde5e13e1821d6a9992-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "See how a designer shapes a new feature while the Figma agent handles the library updates, crit feedback, and a first draft of a design system spec.",
+      "history_match": {
+        "score": 0.283,
+        "date": "2026-10-02",
+        "url": "https://www.figma.com/blog/workflow-lab-from-design-system-to-campaign-in-figma-weave/",
+        "title": "Workflow Lab: From Design System to Campaign in Figma Weave",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
+      "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-04T09:02:16Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp",
+      "excerpt": "Figma now lets you push live code from Claude directly into editable frames. I tested it for a week. Here's when it's worth using and when screenshots work",
+      "history_match": {
+        "score": 0.245,
+        "date": "2026-09-08",
+        "url": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
+        "title": "How to take over a design built in Figma Make and develop it with Claude Code",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I used to be a Figma expert. Here's how I design now.",
+      "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
+      "source": "DEV Community",
+      "category": "workflow",
+      "published_iso": "2026-10-06T08:17:49Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png",
+      "excerpt": "A designer who once called themself a Figma expert explains how their practice shifted: describing websites, apps and video ads to an agent (Claude Opus 5) that builds them, while Figma adds its own agent.",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-09-12",
+        "url": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
+        "title": "Bringing Design Systems into Figma Make",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nano Banana 2.1 now available on AI Gateway",
+      "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+      "source": "Vercel",
+      "category": "render",
+      "published_iso": "2026-10-06T00:00+00:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+      "excerpt": "Generate and edit images with Nano Banana 2.1 through Vercel AI Gateway with one API key: no provider account, spend tracking, and traces on every request.",
+      "history_match": {
+        "score": 0.285,
+        "date": "2026-09-29",
+        "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
+        "title": "New Google Flow build now points to Nano Banana 2.1",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Adobe releases Photoshop 27.11",
+      "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
+      "source": "CG Channel",
+      "category": "render",
+      "published_iso": "2026-10-06T09:36:50+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg",
+      "excerpt": "Photoshop 27.11 adds Enhance Edge, an AI option (20 generative credits per use) that reduces colour fringing in Remove Background masks, and lets users pick OpenAI's GPT Image 2 for Generate Image and Prompt to edit.",
+      "history_match": {
+        "score": 0.262,
+        "date": "2026-10-06",
+        "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+        "title": "Photoshop's Remove tool spares your generative credits",
+        "band": "related"
+      }
+    },
+    {
+      "title": "New 3D software you may have missed: 4 October 2026",
       "url": "https://www.cgchannel.com/2026/10/new-3d-software-you-may-have-missed-4-october-2026/",
       "source": "CG Channel",
       "category": "render",
       "published_iso": "2026-10-04T14:14:57+00:00",
-      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261004_NewCGSoftwareYouMayHaveMisssed4October2026_alt_f-960x480.jpg",
-      "excerpt": "CG Channel's weekly roundup leads with Alpha Gen, an experimental alpha-matte generation component of Lightricks' VFX-focused AI world model LTX-2.5 that removes video backgrounds, alongside updates to Caddis, RailClone and others.",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261004_NewCGSoftwareYouMayHaveMisssed4October2026_alt_f.jpg",
+      "excerpt": "Weekly CG tools roundup: Lightricks' LTX-2.5 AI world model gains Alpha Gen matte generation plus Native Resolution, Refine and Restore features; new motion graphics app Caddis supports nine AI models including Nano Banana Pro and Seedance 2.",
       "history_match": {
-        "score": 0.222,
+        "score": 0.411,
         "date": "2026-09-14",
         "url": "https://www.cgchannel.com/2026/09/new-cg-software-you-may-have-missed-13-september-2026/",
         "title": "New CG software you may have missed: 13 September 2026",
-        "band": "related"
+        "band": "likely-repeat"
       }
     },
     {
-      "url": "https://www.blendernation.com/2026/10/05/quadify-clean-quad-retopology-for-ai-scan-and-cad-meshes-in-blender/",
-      "source": "BlenderNation",
+      "title": "Photoshop Can Now Move the Light in Your Photo",
+      "url": "https://fstoppers.com/photoshop/photoshop-can-now-move-light-your-photo-904920",
+      "source": "Fstoppers",
       "category": "render",
-      "published_iso": "2026-10-05T15:55:05+00:00",
-      "og_image": "https://www.blendernation.com/wp-content/uploads/2026/10/quadify-pro-blendernation-1456x672-1-800x450.png.webp",
-      "excerpt": "Quadify is a family of Blender add-ons that converts triangle-soup meshes from AI 3D generators, scans and CAD imports into clean, animation-ready quad topology without manual retopology.",
-      "off_list": true,
+      "published_iso": "2026-10-04T05:03:01-04:00",
+      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_9.jpg.webp?itok=l6WMCqhq",
+      "excerpt": "Photoshop's new Relight feature lets you reposition, soften, and recolor light in finished images using sliders. Jesús Ramirez tests how it handles portraits, interiors, and composites, and where it falls short.",
       "history_match": {
-        "score": 0.207,
-        "date": "2026-09-20",
-        "url": "https://80.lv/articles/quad-remesher-for-hard-surface-organic-blender-models/",
-        "title": "Quad Remesher for Hard-Surface & Organic Blender Models",
+        "score": 0.228,
+        "date": "2026-10-01",
+        "url": "https://www.creativebloq.com/design/graphic-design/photoshops-newest-ai-tool-is-immediately-dividing-opinion",
+        "title": "Photoshop's controversial new AI tool is dividing opinion",
         "band": "related"
       }
     },
     {
-      "url": "https://petapixel.com/2026/10/05/skylum-saying-goodbye-to-the-ai-portrait-editor-aperty-despite-promising-5-years-of-updates/",
-      "source": "PetaPixel",
-      "category": "render",
-      "published_iso": "2026-10-05T12:00:00+00:00",
-      "og_image": "https://petapixel.com/assets/uploads/2026/10/Skylum-Saying-Goodbye-to-the-AI-Portrait-Edit.jpg",
-      "excerpt": "Skylum is discontinuing its AI portrait editor Aperty to focus on Luminar, leaving lifetime license holders without the five years of updates they were promised.",
-      "off_list": true
-    },
-    {
-      "url": "https://dev.to/fastoolster/ai-image-generators-still-cant-spell-heres-how-i-fix-text-without-regenerating-3c7a",
-      "source": "DEV Community",
-      "category": "render",
-      "published_iso": "2026-10-05T11:07:24Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Ffalrzz8ibbhuux98jamx.png",
-      "excerpt": "A practitioner workflow for fixing garbled text in AI-generated images by editing it in place rather than burning more generations."
-    },
-    {
-      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
+      "title": "Vectorworks 2027 targets real-world workflows",
+      "url": "https://aecmag.com/bim/vectorworks-2027-targets-real-world-workflows/",
       "source": "AEC Magazine",
       "category": "cad",
-      "published_iso": "2026-10-05T15:34:31+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-      "excerpt": "BIMlogiq has expanded Argus, a multi-agent AI platform inside Revit, adding a Family Creation Agent that builds fully parametric Revit families from scratch, a Bathroom Agent for ADA-compliant layouts, and an MEP Systems Agent."
+      "published_iso": "2026-10-06T11:29:20+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/graphics-acceleration.jpg",
+      "excerpt": "Vectorworks 2027 targets real-world workflows. Promises enhanced performance, better visualisation, expanded support for Revit and more",
+      "history_match": {
+        "score": 0.249,
+        "date": "2026-09-19",
+        "url": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
+        "title": "Vectorworks 2027 adds tools for connected design workflows - Engineering.com",
+        "band": "related"
+      }
     },
     {
+      "title": "OpenSpace AI to help firms make faster decisions on site",
       "url": "https://aecmag.com/reality-capture-modelling/openspace-ai-to-help-firms-make-faster-decisions-on-site/",
       "source": "AEC Magazine",
       "category": "cad",
       "published_iso": "2026-10-05T08:17:50+00:00",
       "og_image": "https://aecmag.com/wp-content/uploads/2026/10/openspace.jpg",
-      "excerpt": "OpenSpace has added AI agents to its Visual Intelligence reality-capture platform that can see, understand and act on job-site data, moving from recording construction to helping teams decide in real time."
+      "excerpt": "OpenSpace AI reality capture platform now includes AI agents that can see, understand, and act on job site data."
     },
     {
-      "url": "https://www.engineering.com/roboparty-unveils-rp1-open-source-humanoid-robot/",
-      "source": "Engineering.com",
+      "title": "Volve AI to help automate tendering and pre-construction tasks",
+      "url": "https://aecmag.com/construction/volve-ai-to-help-automate-tendering-and-pre-construction-tasks/",
+      "source": "AEC Magazine",
       "category": "cad",
-      "published_iso": "2026-10-05T11:11:14+00:00",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/20261003074659EDT_image_1-3.jpg",
-      "excerpt": "RoboParty unveiled RP1, pitched as the first high-performance full-stack open-source bipedal humanoid, with up to 160 N·m joint torque and support for embodied AI development by researchers and builders."
+      "published_iso": "2026-10-06T12:30:34+00:00",
+      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/volve.jpg",
+      "excerpt": "Volve AI automates tendering and pre-construction. Contractors can more easily compare information across specs, drawings and BIM models"
     },
     {
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch",
-      "category": "cad",
-      "published_iso": "2026-10-05T12:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg",
-      "excerpt": "CMU Safe AI lab director Ding Zhao co-founded Safeworld, which builds digital humans to test and underwrite the safety of robots driven by generative AI models before they are deployed among people."
+      "title": "How Hark designed an AI assistant that's actually helpful",
+      "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
+      "source": "Fast Company",
+      "category": "workflow",
+      "published_iso": "2026-10-06T16:15:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+      "excerpt": "With a chatbot interface and agentic capabilities, Hark Pro checks the boxes of a 2026 AI release, but its designers rethought the core premise of how an assistant should help, prioritising privacy and usefulness."
     },
     {
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+      "title": "Is Meta's new AI agent easier to trust because it's cute?",
+      "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-05T22:00:12Z",
-      "og_image": "",
-      "excerpt": "AI is not making us less intelligent but reducing the intelligence we practise; the essay examines skill atrophy and cognitive offloading when designers outsource judgement and struggle to AI."
+      "published_iso": "2026-10-05T22:00:31+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png",
+      "excerpt": "Meta's Muse agent comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store, raising questions about cute character design as a trust strategy.",
+      "history_match": {
+        "score": 0.187,
+        "date": "2026-09-30",
+        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
+        "title": "Hands-on: Meta's Hologram avatars for VR and display glasses",
+        "band": "related"
+      }
     },
     {
+      "title": "The taste paradox: why the skill everyone says matters is the one we've stopped building",
       "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95",
       "source": "UX Collective",
       "category": "workflow",
-      "published_iso": "2026-10-05T21:59:40Z",
-      "og_image": "https://cdn-images-1.medium.com/max/864/0*3xxtyCY66D5i8S1A",
-      "excerpt": "Designers agree taste is the last human advantage in the age of AI, yet the essay argues our tools and de-risking habits now make taste almost impossible to develop.",
-      "history_match": {
-        "score": 0.205,
-        "date": "2026-09-23",
-        "url": "https://www.fastcompany.com/91608605/having-good-taste-wont-save-designers",
-        "title": "fastcompany.com",
-        "band": "related"
-      }
+      "published_iso": "2026-10-05T21:59:40+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*mOYPU2yTBp4CKAr8_fMG4Q.png",
+      "excerpt": "Designers say taste is the last human advantage over AI, but the world and now the tools make it almost impossible to develop, and teams respond by de-risking even further."
     },
     {
-      "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c",
-      "source": "UX Collective",
+      "title": "Producers can now vibe code their own music production tools using Google Flow Music",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
+      "source": "Google Blog",
       "category": "workflow",
-      "published_iso": "2026-10-03T11:12:42Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*IdGInOuO4jsmUFdz0chJRg.png",
-      "excerpt": "A designer on working with several AI agents in parallel tabs, producing more than ever while losing the ability to see any project whole."
-    },
-    {
-      "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5",
-      "source": "UX Planet",
-      "category": "figma",
-      "published_iso": "2026-10-05T12:12:58Z",
-      "og_image": "https://miro.medium.com/v2/resize:fit:700/1*n5mZVXYiW3wVffrqtr6mbg.png",
-      "excerpt": "A walkthrough of Claude Code mods for designers: what they are and a practical workflow for building custom mods tailored to your own design use cases.",
-      "off_list": true,
+      "published_iso": "2026-10-06",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-1440x810.jpg",
+      "excerpt": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…",
       "history_match": {
-        "score": 0.167,
-        "date": "2026-09-25",
-        "url": "https://www.eleken.co/blog-posts/ai-agent-design-patterns",
-        "title": "AI Design Patterns: A Practical Guide for Product Teams",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
-      "source": "ZDNET",
-      "category": "figma",
-      "published_iso": "2026-10-05T08:03:03-04:00",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png",
-      "excerpt": "A writer used Claude to vibe-code a paid Mac app and pass Apple's App Store review in 11 days without writing a line of code, documenting the idea-to-product journey.",
-      "off_list": true
-    },
-    {
-      "url": "https://petapixel.com/2026/10/05/the-pope-denounces-ai-art-algorithms-lack-the-spark-of-humanity/",
-      "source": "PetaPixel",
-      "category": "workflow",
-      "published_iso": "2026-10-05T10:00:11+00:00",
-      "og_image": "https://petapixel.com/assets/uploads/2026/10/Pope-Leo-XIV.jpg",
-      "excerpt": "Pope Leo XIV denounced AI-generated art, saying algorithms lack the spark of humanity, adding a high-profile voice to the creative-community debate over generative imagery.",
-      "off_list": true,
-      "history_match": {
-        "score": 0.156,
+        "score": 0.213,
         "date": "2026-09-29",
-        "url": "https://www.creativebloq.com/art/animation/viral-ai-animation-sparks-controversy-over-familiar-character-design",
-        "title": "Viral AI animation sparks controversy over familiar character design",
+        "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
+        "title": "New Google Flow build now points to Nano Banana 2.1",
         "band": "related"
       }
     },
     {
-      "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
-      "source": "postPerspective",
+      "title": "OpenAI launches visual ads that appear alongside image generation results",
+      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+      "source": "TechCrunch",
       "category": "workflow",
-      "published_iso": "2026-10-05T18:43:38+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg",
-      "excerpt": "Amsterdam creative production company Ambassadors has opened Mosa, its in-house visual AI workflow platform, to everyone.",
-      "off_list": true
+      "published_iso": "2026-10-05T15:14:24+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+      "excerpt": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-01",
+        "url": "https://runway.com/news/introducing-runway-ads",
+        "title": "Introducing Runway Ads",
+        "band": "related"
+      }
     },
     {
-      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
-      "source": "No Film School",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "category": "figma",
+      "published_iso": "2026-10-06T19:56:50+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+      "excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-09-19",
+        "url": "https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/",
+        "title": "Blender 5.3 is getting native 3D Gaussian splat support",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Mistral's new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
       "category": "workflow",
-      "published_iso": "2026-10-05T17:00:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68053614&width=1200&height=600",
-      "excerpt": "Apple issued a notice warning creators against granting AI agents Full Disk Access on macOS and promised new controls to address the critical risks.",
-      "off_list": true
+      "published_iso": "2026-10-06T14:33:16+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+      "excerpt": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 14,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-06",
-      "title": "NVIDIA accelerates local AI at IFA 2026",
-      "url": "https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "When the canvas starts acting, who's really in control?",
-      "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Meet Lamp: an 'alive' Pixar-like desk robot that watches your posture",
-      "url": "https://www.creativebloq.com/ai/meet-lamp-an-alive-pixar-like-robot-that-watches-your-posture-remembers-strangers-faces-and-answers-your-emails"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Worried your writing sounds like AI? These tools can help",
-      "url": "https://www.fastcompany.com/91599906/worried-your-writing-sounds-like-ai-these-tools-can-help"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "포토샵 다이내믹 텍스트 내용 바뀌면 레이아웃도 자동 포토샵 다이내믹 텍스트는 콘텐츠가 바뀌면 레이어 여백과 구조를 자동 조정한다.",
-      "url": "https://www.youtube.com/watch?v=7q3spdQlZLA"
-    },
     {
       "date": "2026-09-07",
       "title": "Photoshop Just Replaced Brightness and Contrast With Something Better",
@@ -826,6 +884,31 @@
       "date": "2026-10-05",
       "title": "Free Premiere on Android is exactly the direction Adobe should be taking",
       "url": "https://www.creativebloq.com/photography/video-editing-software/free-premiere-on-android-is-exactly-the-direction-adobe-should-be-taking"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "BIMlogiq Argus adds agents that build Revit families",
+      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Photoshop's Remove tool spares your generative credits",
+      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Apple warns against giving AI agents Full Disk Access",
+      "url": "https://nofilmschool.com/apples-full-disk-access-statement"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "What we stop practising when AI does the thinking",
+      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Adobe's AI text-to-3D world concept is a glimpse of where Firefly could go next",
+      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next"
     }
   ]
 }

@@ -12748,6 +12748,132 @@
           "x": "Cartesian은 Rhinoceros, SketchUp과 실시간으로 연동되고 DXF·IFC 가져오기와 내보내기, STEP·STL 내보내기를 지원한다. 데스크톱 버전은 macOS와 Windows에 차례로 풀리며, 2026년 10월 31일부터 이용 범위를 넓힐 예정이다."
         }
       ]
+    },
+    "design/design-photoshop-27-11-enhance-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe가 Photoshop 27.11을 공개했다. Remove Background로 만든 마스크의 색 번짐을 줄이는 AI-powered 새 옵션 Enhance Edge가 들어가 머리카락과 털을 더 깔끔하게 잘라낸다."
+        },
+        {
+          "t": "p",
+          "x": "컨텍스트 작업 표시줄에서 쓸 수 있고 RGBA 디퓨전으로 마스크 가장자리의 색 번짐을 없앤다. Remove 도구와 달리 생성형 크레딧이 필요해서 한 번 쓸 때마다 20크레딧이 나간다."
+        },
+        {
+          "t": "p",
+          "x": "Generate Image 기능에서 GPT Image 2 AI 모델을 쓸 수도 있고 Photoshop 27.10에서 도입된 Prompt to edit로 이미지를 고칠 수도 있다. Adobe는 최근 서드파티 AI 모델 목록을 33개로 늘렸다."
+        },
+        {
+          "t": "p",
+          "x": "New Document 대화상자의 Recents 탭에서는 항목 이름을 바꾸거나 지울 수 있게 됐다. 실사용 데이터를 반영한 Windows 성능 개선도 담겼다. Photoshop 27.11은 Windows 10+와 macOS 14.0+를 지원한다. 단일 앱 구독료는 $34.49/month 또는 $263.88/year다."
+        }
+      ]
+    },
+    "design/design-hark-pro-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+          "cap": "이미지: Hark"
+        },
+        {
+          "t": "p",
+          "x": "새 AI 웹 애플리케이션 Hark Pro는 챗봇 인터페이스와 에이전트 기능을 갖춰 2026년 대중 시장용 AI 출시작의 주요 조건을 두루 채운다. 그런데 AI 비서의 핵심 전제는 다시 생각한다. AI로 사용자마다 할 일과 필요를 파악하고 먼저 나서서 도울 방법을 찾는다."
+        },
+        {
+          "t": "p",
+          "x": "사용자의 이메일, 캘린더, 기타 온라인 계정에 접근해 점심을 주문하고 청구서를 결제하며 여행을 계획한다. 회의가 겹치면 일정도 다시 잡는다. Brett Adcock이 세운 Hark는 Series A 투자로 $700 million(7억 달러)을 유치했다."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Hark 디자인 책임자 Abidur Chowdhury는 Apple iPhone Air의 디자인 리드 출신이다. 그는 이 인터페이스를 홈페이지라고 부른다. 맨 위에는 할 일 항목과 자동 생성되는 액션 버튼이 놓인다. “그동안 나눈 온갖 대화로 꽉 막힌 사이드바는 정말 두고 싶지 않았다”고 그는 말한다."
+        },
+        {
+          "t": "p",
+          "x": "앱은 작업 과정을 그대로 보여 준다. 채팅 기록 속 작은 화면에서 내부 컴퓨터 Handoff가 웹사이트를 돌아다닌다. 하늘 같은 배경은 사용자마다 그날의 시간대에 맞춰 바뀐다. Hark는 2027년에 첫 하드웨어 기기를 내놓을 계획이다."
+        }
+      ]
+    },
+    "design/design-claude-code-to-figma-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+        },
+        {
+          "t": "p",
+          "x": "개발자들은 몇 달째 Claude Code로 쓰고 버릴 프로토타입을 만들어 왔다. 막히는 건 그다음이다. 피드백을 받으려면 스크린숏을 찍거나 영상을 녹화하거나, 누군가에게 브랜치를 받아 보라고 부탁해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "이번에 Figma가 내놓은 건 다르다. 라이브 브라우저 UI를 편집 가능한 프레임으로 Figma에 바로 보낸다. 스크린숏이 아니라 실제 Figma 레이어다. Claude Code에 “send this to Figma”라고 입력하면 Figma MCP 서버가 프로덕션, localhost, 스테이징 어디서든 렌더링된 화면을 캡처한다. 한 세션에서 여러 화면을 캡처할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "반대 방향도 된다. Figma에서 고친 뒤 Figma MCP로 프롬프트와 링크를 넣으면 Claude Code로 다시 가져올 수 있다. “캔버스는 생각을 넓히게 하고, 코드는 하나로 모으게 한다.”"
+        },
+        {
+          "t": "p",
+          "x": "늘 쓸모 있지는 않다. 혼자 일하거나 이미 합의가 끝난 팀이거나 랜딩 페이지처럼 작은 작업이라면 스크린숏으로도 충분할 테다. 플로를 비교하거나 디자인과 엔지니어링을 이을 때처럼 탐색이 중요할 때 제값을 한다. 자동화가 아니라 여전히 프롬프트로 하는 수동 단계다. 달라진 건 선택지가 생겼다는 점이다."
+        }
+      ]
+    },
+    "design/design-figma-expert-designs-by-describing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+        },
+        {
+          "t": "p",
+          "x": "디자인 엔지니어 Lauri Lännenmäki는 한때 스스로를 Figma 전문가라 불렀다. 지금도 본업에서 Figma를 쓰지만 모든 상태와 모든 베리언트를 거기서 디자인하지는 않는다. Figma에도 이제 자체 AI가 있다. 돌아가기는 하지만 MCP로 Figma 안에서 일하는 Claude보다 느리고 훨씬 약하게 느껴진다."
+        },
+        {
+          "t": "p",
+          "x": "Figma가 진실의 원천이었던 적은 한 번도 없다. 원천은 코드다. 베리언트도 디자인 툴보다 코드에서 더 단순하다. 그가 디자인 툴에서 작업한 버튼 하나는 베리언트가 1,100개까지 불어났다."
+        },
+        {
+          "t": "p",
+          "x": "그는 디자인한 것은 무엇이든 만들려고 CSS를 배웠다. 그런데 이제 웹은 셰이더와 three.js를 요구한다. 그걸 배울 필요는 없다. “더 이상 내 능력에 갇히지 않는다.” 웹사이트, 앱, 게임, 영상 광고까지 그가 설명하면 에이전트가 만든다."
+        },
+        {
+          "t": "p",
+          "x": "그가 걸어온 길은 이렇다. ChatGPT와 복사·붙여넣기, 그다음 Cursor, 이어서 터미널의 Claude Code, 그리고 모든 작업에 MCPs. Figma Console MCP로는 방대한 디자인 시스템 곳곳의 하드코딩 값을 변수로 바꿔 수백 시간을 아꼈다. 지금 그의 에이전트는 Claude Opus 5.5다."
+        },
+        {
+          "t": "p",
+          "x": "코딩을 해 본 적 없는 디자이너에게 그는 곧장 에이전트로 가서 만들기 시작하라고 조언한다. “이제는 누구나 빌더다.”"
+        }
+      ]
+    },
+    "design/bimlogiq-argus-revit-family-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+          "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
+        },
+        {
+          "t": "p",
+          "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
+        },
+        {
+          "t": "p",
+          "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
+        }
+      ]
     }
   }
 }

@@ -5857,6 +5857,134 @@
           "x": "Capcom此前曾表示不会在游戏中使用AI生成素材（AI-generated assets），而是专注于用这项技术提高开发效率。Ishida的说法大体与此一致，但显然为更广泛的应用留了余地。据IGN的翻译，他提出了一项计划：逐步、渐进地把RE Engine打造成“AI生成游戏引擎（AI-generation game engine）”，迈向“与AI共同创作游戏的未来”。"
         }
       ]
+    },
+    "games/games-dizzy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：Code Masters"
+        },
+        {
+          "t": "p",
+          "x": "以鸡蛋为主角的平台游戏系列Dizzy在1987年至1992年间推出了十六作，如今即将回归。其创作者Oliver Twins在Blackpool举行的Play Expo演讲中宣布了一款新的Dizzy游戏。"
+        },
+        {
+          "t": "p",
+          "x": "Andrew负责的新作主要是1989年Treasure Island Dizzy的重制版，整合ZX Spectrum版与NES版，另有全新的Mega Drive版，以及采用现代画面、完全新作的'Ultra'版。Phillip则在制作Journey to the Emerald City。两个项目都乐于借助生成式AI。"
+        },
+        {
+          "t": "video",
+          "yt": "lTSaPajJCcE"
+        },
+        {
+          "t": "p",
+          "x": "被Time Extension问及此事时，Phillip Oliver表示，若没有它，Emerald City及其全部美术“会是一个需要两三位美术人员、耗时一年多的项目，大概要花十万英镑”。Andrew补充说，genAI“让独立开发者能在制作品质上”与资金雄厚的大型工作室“平等竞争”。"
+        },
+        {
+          "t": "p",
+          "x": "RPS的Ashley Schofield并不信服，指出有许多单人或双人独立开发者没有借助genAI工具也做出了游戏，而这类工具建立在抓取艺术家作品的基础之上。"
+        }
+      ]
+    },
+    "games/games-usf4-rollback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：Rock Paper Shotgun/Capcom"
+        },
+        {
+          "t": "p",
+          "x": "Street Fighter IV的最终版本是2014年的Ultra Street Fighter IV。这款游戏至今仍只支持延迟式（delay-based）网络代码，而非自2010年代中期以来已成为行业标准、更加稳定的回滚网络代码。"
+        },
+        {
+          "t": "p",
+          "x": "Delay-based网络代码会可变地延迟输入，以应对不稳定的连接；而回滚则会立即接受输入，并在连接导致玩家之间出现不一致时回退游戏状态。"
+        },
+        {
+          "t": "p",
+          "x": "最近几周发布的两款新模组——Faabi的“SF4Enhanced”和Kabiefox的“SF4 Ember”——都加入了回滚网络代码和私人房间，并且都是在Anthropic的Claude协助下编写的。Faabi此后已放弃SF4Enhanced，称自己“没有时间交付这个社区应得的东西”，并承认自己“以前几乎没写过C++”，同时推荐玩家转向Ember。"
+        },
+        {
+          "t": "p",
+          "x": "两款模组似乎都有大量玩家使用，但RPS的作者宁愿继续使用delay-based网络代码，也不愿使用AI-made代码。"
+        }
+      ]
+    },
+    "games/games-wotc-union": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+          "cap": "2025年版Monster Manual中的强盗（Bandits）（图片来源：Wizards of the Coast）"
+        },
+        {
+          "t": "p",
+          "x": "Dungeons & Dragons与Magic: The Gathering的开发者宣布加入United Wizards of the Coast - CWA，并呼吁公司自愿承认该工会。"
+        },
+        {
+          "t": "p",
+          "x": "该工会于4月首次成立，当时仅有Magic: The Gathering Arena的开发者，并于6月赢得选举。如今，D&D、D&D Beyond、Magic: The Gathering和Duel Masters背后的员工也在Communication Workers of America的支持下加入同一阵营。"
+        },
+        {
+          "t": "p",
+          "x": "除了“公平的薪酬”“可靠且便于获取的医疗保障”和“远程工作保障”外，工会还要求“免受AI侵蚀的保护”。工会表示：“领导层无视我们团队的意愿，一直推动采用LLMs和生成式AI。”“这必须停止。”"
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coast须在10月13日前作出回应。工会已向National Labor Relations Board（国家劳资关系委员会）提交选举申请。"
+        }
+      ]
+    },
+    "games/games-sega-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crazy Taxi: World Tour（图片来源：Sega）"
+        },
+        {
+          "t": "p",
+          "x": "Sega高级执行官兼副首席业务官Tsuyoshi Saito在接受Nikkei采访时表示，公司在开发中如何采用生成式AI这件事上“非常谨慎”。"
+        },
+        {
+          "t": "p",
+          "x": "Saito说：“我们正在用AI提升发行和企业部门等领域的效率，也用它来构思业务点子。”他还说：“不过，我们对在游戏开发过程中使用AI非常谨慎，不会把游戏的创意部分交给AI。”"
+        },
+        {
+          "t": "p",
+          "x": "Sega去年成立了“生成式AI委员会”（Generative AI Committee），其中包括负责“开发内部AI工具”的“AI特别工作组”（AI Task Force）。今年早些时候，Sega因在Crazy Taxi: World Tour的“背景素材开发过程中”使用生成式AI而引发争议。"
+        },
+        {
+          "t": "p",
+          "x": "Crystal Dynamics表示，它在Tomb Raider: Legacy of Atlantis的早期原型制作中也以类似方式使用了生成式AI，同时“确保最终游戏中的所有成品内容均由人类创作”。"
+        }
+      ]
+    },
+    "games/unity-agent-concept-art-to-ui-menu": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IYvRShclEL8"
+        },
+        {
+          "t": "p",
+          "x": "无需离开终端，就能把概念图变成可用的游戏UI。"
+        },
+        {
+          "t": "p",
+          "x": "把概念图和一份简短说明交给智能体，就能看着它通过Unity CLI搭建出可运行的UI Toolkit主菜单。"
+        },
+        {
+          "t": "p",
+          "x": "智能体还会自行测试：运行Play mode UI测试、截取Game view截图，以便检查改动并持续迭代。"
+        },
+        {
+          "t": "p",
+          "x": "你来掌舵，它来动手。"
+        }
+      ]
     }
   }
 }

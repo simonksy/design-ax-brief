@@ -6240,6 +6240,166 @@
           "x": "Ray-Ban Meta Audioは$349で予約を受け付けており、10月13日から出荷される。"
         }
       ]
+    },
+    "gadgets/gadgets-foresight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Googleは本日、「消費者向けハードウェア上で直接、情報を整理、検索、接続できる」モデル、EmbeddingGemma 2を発表した。その可能性を示すため、Googleは「インテリジェントなメモ取り」のためのAI Edge Foresight Macアプリを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "パラメーター数740 millionのこのモデルは、Apache 2.0ライセンスのもとGemma 4アーキテクチャ上に構築されている。量子化すれば、Pixel 11 Proで必要なアクティブRAMはtext-onlyの重みで~191MB、マルチモーダルモデル全体でも~567MB。"
+        },
+        {
+          "t": "video",
+          "yt": "KNPNNAKh3dU"
+        },
+        {
+          "t": "p",
+          "x": "会議中、Foresightはバックグラウンドで音声を聞き取る。ユーザーが「略式の箇条書きを走り書き」すれば、それを「会議の文字起こしを使って即座に洗練されたメモへと肉付けする」。文字起こしと音声はすべてデバイス上で処理される。"
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+        },
+        {
+          "t": "p",
+          "x": "ローカルまたはGoogle Driveのプロジェクトフォルダーや図、カレンダーを指定し、質問することもできる。Chatは検索と要約を提供し、Live Assistanceは「聞き取って自動的に質問に答える」。Mac向けのAI Edge Gallery、AI Edge Eloquentに続くアプリとなる。"
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはFitbit Chargeシリーズに待望のアップグレードを用意しているのかもしれない。新たなリークで、噂のFitbit Edgeについて膨大な情報が明らかになった。この次期フィットネストラッカーは、ミニマルなFitbit Airと、はるかに高機能なGoogleのPixel Watch 5の中間に位置づけられるよう設計されているようだ。"
+        },
+        {
+          "t": "p",
+          "x": "報道によれば、Fitbit Edgeはalways-onモード付きの1.34-inch AMOLEDディスプレイ、内蔵GPS、Bluetooth 5.4を備え、AndroidとiPhoneの両方に対応する。だが、Edge最大の差別化要素はGeminiになるかもしれない。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "このトラッカーはGeminiによるパーソナライズされたフィットネスコーチングに対応するという。カスタマイズされたワークアウトプログラム、Ask Coach機能、手首から直接受けられるコーチングなどだ。一部の高度な機能にはGoogle Health Premiumのサブスクリプションが必要になる可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "一回の充電で最大七日間持つとされるが、always-onディスプレイを有効にすると二日程度に縮む可能性がある。わずか五分の充電で約24時間使えるという。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "Dealabsによると、価格は欧州(Europe)で€179(~ $201)、英国(UK)で£159(~ $211)だという。GoogleはまだFitbit Edgeを正式発表していないが、これだけ情報が漏れている以上、秘密のままでいられる期間は長くないだろう。"
+        }
+      ]
+    },
+    "gadgets/gadgets-jbl-partybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBLは$1,800のPartyBox Ultimate 2でパーティースピーカーのラインアップを拡充する。デュアルウーファー、デュアルミッドレンジドライバー、デュアルツイーターの六つのドライバーを備え、出力は1,500W、重さは120ポンドだ。バッテリーはなく、電源につないで使う必要がある。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBLはPartyBox Ultimate 2にAI分離機能を搭載し、ボタン一つで曲からボーカルを消せるようにした。JBLのBandbox Soloでは、この機能は「予想よりはるかによく機能し」、文字どおりどんな曲でもできるのは「やはりかなりクール」だった。"
+        },
+        {
+          "t": "p",
+          "x": "歪みなく音量を最大化するAI Sound Boostや、AIで再生中の音楽を判別してEQをリアルタイムに調整するSmart EQ Modeもある。Wi-Fi経由でAirPlay 2、Spotify Connect、Chromecastによるストリーミングに対応し、USB-Cロスレス、光デジタル、XLRの各入力を備える。"
+        },
+        {
+          "t": "p",
+          "x": "PartyBox Ultimate 2は現在予約受付中で、10月25日(Oct. 25)から出荷される。"
+        }
+      ]
+    },
+    "gadgets/gadgets-underdog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+          "cap": "画像提供: Sigil Wen"
+        },
+        {
+          "t": "p",
+          "x": "現在 Thiel Fellow の Wen は月曜日、Underdog の招待制ベータを公開した。シリコンバレーがこれまでに提供した AI アシスタントの中でも、とりわけプライバシー性の高いものの一つだ。モデルは完全に端末上で動くため、ユーザーのデータはすでに所有するデバイスにとどまる。現在は Mac と Windows PCs に対応し、Linux、iPhone、Android 版も近く登場する。"
+        },
+        {
+          "t": "p",
+          "x": "Underdog を動かすのは、Wen がユーザー自身のハードウェアで AI モデルを高速に実行するために開発した推論エンジン Husky だ。Wen によれば、競合の端末内エンジンに比べ、コンピューターのメインチップとグラフィックスチップの間でやり取りするデータが少ない。"
+        },
+        {
+          "t": "p",
+          "x": "現在は Qwen3.8-27B をファインチューニングした 27B パラメータの推論モデルを使う。Wen は、このモデルが一部のベンチマークで Claude Opus 4.6 に引けを取らず、買い物の下調べや数学の宿題の質問への回答といった日常的な作業をこなせると主張する。"
+        },
+        {
+          "t": "p",
+          "x": "アプリは当初無料で、広告で収益を得ることはない。AI がユーザーのマシン上で動くため、Underdog には推論の対価をプロバイダーに支払う巨額の負担がない。代わりに、アシスタントが Stripe の決済網で行う決済取引からごくわずかな割合を受け取る。インターチェンジ手数料のような仕組みだ。"
+        },
+        {
+          "t": "p",
+          "x": "Underdog を手がけるスタートアップは Conway Research だ。Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund に加え、Patrick Collison や Guillermo Rauch らエンジェル投資家が出資している。"
+        }
+      ]
+    },
+    "gadgets/meta-rayban-walking-navigation-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "MetaはRay-Banスマートグラス向けの最新アップデートで、オーディオ再生を改善し、ターンバイターン方式の徒歩ナビゲーションを新たに追加した。"
+        },
+        {
+          "t": "p",
+          "x": "システムアップデートのバージョン129には、オーディオ関連の変更が二つある。Mono Audioは左右のチャンネルを一つにまとめ、聞こえにくい側の音を聞き逃さないようにする。Audio Balanceは音を左右どちらかの耳に寄せる。いずれもMeta AIの応答や通知など、グラスが発する音に適用される。"
+        },
+        {
+          "t": "p",
+          "x": "9月上旬に初登場したバージョン128は、現在広く提供されている。Spatial Audioへの対応、プライバシーLEDに細工された場合にカメラが動作しなくなる改ざん防止策の強化、新しい位置情報機能が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "中でも目玉はターンバイターン方式の徒歩ナビだ。「Hey Meta、Times Squareへ案内して」と話しかけるだけでよい。経路案内はスマートフォンから位置情報を取得し、地図アプリから場所をMeta AIに直接共有してグラス上でナビを始めることもできる。遠い場所の場合、Metaはスマートフォンに車の経路を送る。"
+        },
+        {
+          "t": "p",
+          "x": "オーディオの変更は展開が始まったばかりだが、ナビ機能はMeta AIアプリのアップデートとして広く提供されている。"
+        }
+      ]
     }
   }
 }

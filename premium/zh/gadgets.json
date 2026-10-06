@@ -5901,6 +5901,166 @@
           "x": "Ray-Ban Meta Audio现已开放预订，售价$349，10月13日起发货。"
         }
       ]
+    },
+    "gadgets/gadgets-foresight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google今天发布了EmbeddingGemma 2，这款模型能够“直接在消费级硬件上整理、搜索和关联信息”。为展示其潜力，Google打造了一款用于“智能记笔记”的AI Edge Foresight Mac应用。"
+        },
+        {
+          "t": "p",
+          "x": "这款740 million 参数的模型基于Gemma 4架构，采用Apache 2.0许可。经过量化后，在Pixel 11 Pro上，text-only权重只需~191MB 活跃RAM，完整的多模态模型则需~567MB。"
+        },
+        {
+          "t": "video",
+          "yt": "KNPNNAKh3dU"
+        },
+        {
+          "t": "p",
+          "x": "开会时，Foresight会在后台聆听，你可以“随手记下简略要点”，它会“利用会议转录即时将其扩充为完善的笔记”。转录和音频全部在你的设备上处理。"
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+        },
+        {
+          "t": "p",
+          "x": "你还可以让它读取本地或Google Drive中的项目文件夹、图表和日历，然后提问。Chat提供检索和摘要，Live Assistance则会“聆听并自动回答问题”。它与AI Edge Gallery、AI Edge Eloquent一同登陆Mac。"
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "Google或许正准备为Fitbit Charge系列带来期待已久的升级。一则新的爆料披露了大量关于传闻中Fitbit Edge的信息，这款即将推出的健身追踪器似乎定位于极简的Fitbit Air与功能强大得多的Google Pixel Watch 5之间。"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Fitbit Edge将配备支持always-on模式的1.34-inch AMOLED显示屏，内置GPS和Bluetooth 5.4，并同时支持Android和iPhone。不过，Gemini可能才是Edge最大的差异化卖点。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "据称，这款追踪器支持由Gemini驱动的个性化健身指导，包括定制训练计划、Ask Coach功能以及直接在手腕上获得的指导。部分更智能的功能可能需要订阅Google Health Premium。"
+        },
+        {
+          "t": "p",
+          "x": "据报道，这款追踪器充一次电最长可用七天，但开启always-on显示后可能缩短至两天左右。据称只需充电五分钟即可使用约24小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "据报道，Dealabs列出的价格为欧洲（Europe）€179（~ $201）、英国（UK）£159（~ $211）。Google尚未正式发布Fitbit Edge，但鉴于泄露的信息如此之多，它恐怕瞒不了太久。"
+        }
+      ]
+    },
+    "gadgets/gadgets-jbl-partybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBL推出售价$1,800的PartyBox Ultimate 2，扩充其派对音箱产品线。它配备六个单元，即双低音单元、双中音单元和双高音单元，输出功率达1,500W。它重达120磅，且没有电池，必须插电使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBL在PartyBox Ultimate 2中加入了AI分离功能，一键即可去除歌曲中的人声。在JBL的Bandbox Solo上，这一功能“效果远超预期”，而且能对任何一首歌这样做，“依然相当酷”。"
+        },
+        {
+          "t": "p",
+          "x": "此外还有旨在无失真地最大化音量的AI Sound Boost，以及利用AI判断你正在听的内容并实时调整EQ的Smart EQ Mode。它支持通过Wi-Fi以AirPlay 2、Spotify Connect和Chromecast串流，并提供USB-C无损、光纤和XLR输入。"
+        },
+        {
+          "t": "p",
+          "x": "PartyBox Ultimate 2现已开放预订，将于10月25日（Oct. 25）起发货。"
+        }
+      ]
+    },
+    "gadgets/gadgets-underdog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+          "cap": "图片来源：Sigil Wen"
+        },
+        {
+          "t": "p",
+          "x": "如今已是 Thiel Fellow 的 Wen 于周一推出了 Underdog 的邀请制测试版，这是硅谷迄今最注重隐私的 AI 助手之一。模型完全在设备端运行，用户数据始终留在自己已有的设备上，目前支持 Mac 和 Windows PCs，Linux、iPhone 和 Android 版本即将推出。"
+        },
+        {
+          "t": "p",
+          "x": "Underdog 由 Husky 驱动，这是 Wen 为在用户自有硬件上快速运行 AI 模型而打造的推理引擎。Wen 表示，与其他端侧引擎相比，它在电脑主芯片与图形芯片之间传输的数据更少。"
+        },
+        {
+          "t": "p",
+          "x": "它目前使用一款基于 Qwen3.8-27B 微调的 27B 参数推理模型。Wen 认为，该模型在部分基准测试中可与 Claude Opus 4.6 媲美，能处理购物调研、解答数学作业问题等日常任务。"
+        },
+        {
+          "t": "p",
+          "x": "这款应用起初免费，并且永远不靠广告盈利。由于 AI 在用户自己的机器上运行，Underdog 无需承担向服务商支付推理费用的巨大开销。它将从助手通过 Stripe 支付通道完成的交易中抽取极小比例的费用，类似于交换费。"
+        },
+        {
+          "t": "p",
+          "x": "Underdog 背后的初创公司是 Conway Research，投资方包括 Andreessen Horowitz、Khosla Ventures、Hummingbird、SV Angel、Anthology Fund，以及 Patrick Collison 和 Guillermo Rauch 等天使投资人。"
+        }
+      ]
+    },
+    "gadgets/meta-rayban-walking-navigation-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Meta为Ray-Ban智能眼镜推出的最新更新升级了音频播放，并新增逐向步行导航。"
+        },
+        {
+          "t": "p",
+          "x": "系统更新版本129带来两项音频变化。Mono Audio将左右声道合并，让听力较弱的一侧不会漏听任何声音；Audio Balance则可把声音偏向左耳或右耳。两项功能都适用于眼镜发出的声音，例如Meta AI的回应和通知。"
+        },
+        {
+          "t": "p",
+          "x": "9月初首次亮相的版本128现已广泛推送。它新增Spatial Audio支持，进一步加强防篡改措施（隐私LED若被动过手脚，摄像头将无法工作），并加入了新的位置功能。"
+        },
+        {
+          "t": "p",
+          "x": "其中最重要的是逐向步行导航：只需说“Hey Meta，导航到Times Square。”导航会从手机获取你的位置，你也可以从地图应用把地点直接分享给Meta AI，在眼镜上开始导航。若目的地较远，Meta会把驾车路线发送到你的手机。"
+        },
+        {
+          "t": "p",
+          "x": "音频变化仍处于刚开始推送的阶段，而导航升级已作为Meta AI应用的更新广泛上线。"
+        }
+      ]
     }
   }
 }

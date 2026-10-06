@@ -5984,6 +5984,134 @@
           "x": "Capcom ya había dicho que no usará recursos generados por IA (AI-generated) en sus juegos y que, en cambio, se centraría en usar la tecnología para hacer más eficiente el desarrollo. Los comentarios de Ishida parecen coincidir, aunque sin duda dejan la puerta abierta a un uso más amplio. Según la traducción de IGN, planteó convertir RE Engine de forma lenta y gradual en un “motor de juego de generación por IA” (“AI-generation game engine”), avanzando hacia “un futuro en el que creemos juegos junto con la IA”."
         }
       ]
+    },
+    "games/games-dizzy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crédito de la imagen: Code Masters"
+        },
+        {
+          "t": "p",
+          "x": "Dizzy, la serie de plataformas protagonizada por un huevo que llegó a sumar dieciséis lanzamientos entre 1987 y 1992, regresa. Sus creadores, los Oliver Twins, anunciaron un nuevo juego de Dizzy durante su charla en Play Expo, en Blackpool."
+        },
+        {
+          "t": "p",
+          "x": "La nueva entrega de Andrew será sobre todo un remake de Treasure Island Dizzy, de 1989, que combina las versiones de ZX Spectrum y NES, además de una nueva versión para Mega Drive y una versión 'Ultra' completamente nueva con gráficos modernos. Phillip trabaja en Journey to the Emerald City. Ambos proyectos se apoyan de buen grado en la IA (AI) generativa."
+        },
+        {
+          "t": "video",
+          "yt": "lTSaPajJCcE"
+        },
+        {
+          "t": "p",
+          "x": "Consultado por Time Extension al respecto, Phillip Oliver afirmó que, sin ella, Emerald City y todo su arte “habrían sido un proyecto de más de un año con un par de artistas, probablemente cien mil libras”. Andrew añadió que la genAI “permite a los indies competir de igual a igual con la calidad de producción” de los estudios grandes y con buena financiación."
+        },
+        {
+          "t": "p",
+          "x": "A Ashley Schofield, de RPS, no le convence el argumento: sostiene que muchos desarrolladores indie que trabajan solos o en pareja han hecho juegos sin herramientas de genAI construidas a partir del scraping del trabajo de artistas."
+        }
+      ]
+    },
+    "games/games-usf4-rollback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crédito de la imagen: Rock Paper Shotgun/Capcom"
+        },
+        {
+          "t": "p",
+          "x": "Street Fighter IV tuvo su última versión en Ultra Street Fighter IV, de 2014, un juego que sigue limitado a un netcode basado en retardo en lugar del netcode rollback, más estable, que se ha convertido en el estándar de la industria desde mediados de la década de 2010."
+        },
+        {
+          "t": "p",
+          "x": "El netcode basado en retardo (Delay-based) retrasa las entradas de forma variable para lidiar con conexiones inestables, mientras que el rollback acepta las entradas de inmediato y rebobina el estado del juego si la conexión provoca incoherencias entre los jugadores."
+        },
+        {
+          "t": "p",
+          "x": "Dos nuevos mods, 'SF4Enhanced' de Faabi y 'SF4 Ember' de Kabiefox, ambos publicados en las últimas semanas, añaden netcode rollback y salas privadas, y los dos se programaron con ayuda de Claude, de Anthropic. Desde entonces, Faabi ha abandonado SF4Enhanced: dice que “no tiene tiempo para ofrecer lo que esta comunidad merece”, admite que “apenas había escrito C++ antes” y remite a los jugadores a Ember."
+        },
+        {
+          "t": "p",
+          "x": "Ambos mods parecen tener muchos jugadores, pero el redactor de RPS prefiere quedarse con el netcode basado en retardo antes que usar código AI-made, hecho con IA."
+        }
+      ]
+    },
+    "games/games-wotc-union": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+          "cap": "Bandidos (Bandits) en el Monster Manual de 2025 (Crédito de la imagen: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores de Dungeons & Dragons y Magic: The Gathering anunciaron que se unen a United Wizards of the Coast - CWA y piden a la empresa que reconozca voluntariamente al sindicato."
+        },
+        {
+          "t": "p",
+          "x": "El sindicato se formó en abril solo con los desarrolladores de Magic: The Gathering Arena y ganó su elección en junio. Ahora, los trabajadores detrás de D&D, D&D Beyond, Magic: The Gathering y Duel Masters se suman bajo la misma bandera, con el apoyo de Communication Workers of America."
+        },
+        {
+          "t": "p",
+          "x": "Junto a “salarios justos”, “atención médica fiable y de fácil acceso” y “protecciones para el trabajo remoto”, el sindicato exige “protección frente al avance de la IA (AI)”. “La dirección, sin tener en cuenta los deseos de nuestros equipos, ha impulsado la adopción de LLMs y de IA generativa”, afirma. “Esto tiene que parar”."
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coast tiene hasta el 13 de octubre para responder. El sindicato ya presentó una petición de elección ante la National Labor Relations Board."
+        }
+      ]
+    },
+    "games/games-sega-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crazy Taxi: World Tour (Crédito de la imagen: Sega)"
+        },
+        {
+          "t": "p",
+          "x": "En declaraciones a Nikkei, Tsuyoshi Saito, alto ejecutivo y director adjunto de negocio de Sega, afirmó que la compañía es “muy cautelosa” en cuanto a cómo implementa la IA (AI) generativa durante el desarrollo."
+        },
+        {
+          "t": "p",
+          "x": "“Usamos la IA (AI) para mejorar la eficiencia en áreas como la publicación y los departamentos corporativos, así como para generar ideas de negocio”, dijo Saito. “Sin embargo, somos muy cautelosos con su uso en el proceso de desarrollo de juegos y no confiamos a la IA los aspectos creativos de los juegos”."
+        },
+        {
+          "t": "p",
+          "x": "Sega creó el año pasado un “Comité de IA Generativa” (Generative AI Committee), que incluye un “Grupo de Trabajo de IA” (AI Task Force) encargado de “desarrollar herramientas de IA propias”. A principios de este año, Sega recibió críticas después de que se usara IA (AI) generativa “durante el desarrollo de los recursos de fondo” de Crazy Taxi: World Tour."
+        },
+        {
+          "t": "p",
+          "x": "Crystal Dynamics afirma que usó la IA (AI) generativa de forma similar para los primeros prototipos de Tomb Raider: Legacy of Atlantis, “asegurándose de que todo el contenido terminado del juego final esté creado por personas”."
+        }
+      ]
+    },
+    "games/unity-agent-concept-art-to-ui-menu": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IYvRShclEL8"
+        },
+        {
+          "t": "p",
+          "x": "Convierte arte conceptual en una UI de juego funcional sin salir de la terminal."
+        },
+        {
+          "t": "p",
+          "x": "Entrega a un agente tu arte conceptual y un breve encargo, y obsérvalo construir un menú principal funcional con UI Toolkit a través de la Unity CLI."
+        },
+        {
+          "t": "p",
+          "x": "El agente también prueba su propio trabajo: ejecuta pruebas de UI en Play mode y toma capturas de Game view para revisar sus cambios y seguir iterando."
+        },
+        {
+          "t": "p",
+          "x": "Tú lo diriges y él se encarga de construir."
+        }
+      ]
     }
   }
 }

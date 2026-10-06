@@ -1,29 +1,32 @@
 {
-  "media": [
-    {
-      "id": "meta-rayban-walking-navigation-audio",
-      "type": "image",
-      "src": "pipeline/media/meta-rayban-walking-navigation-audio.jpg"
-    },
-    {
-      "id": "windows-11-26h2-file-explorer-ai-actions",
-      "type": "image",
-      "src": "pipeline/media/windows-11-26h2-file-explorer-ai-actions.jpg"
-    },
-    {
-      "id": "tvos-27-2-apple-intelligence-apple-tv-code",
-      "type": "image",
-      "src": "pipeline/media/tvos-27-2-apple-intelligence-apple-tv-code.jpg"
-    },
-    {
-      "id": "wici-one-wireless-gpu-local-ai",
-      "type": "image",
-      "src": "pipeline/media/wici-one-wireless-gpu-local-ai.jpg"
-    },
-    {
-      "id": "pixel-search-gemini-teardown",
-      "type": "image",
-      "src": "pipeline/media/pixel-search-gemini-teardown.jpg"
-    }
-  ]
+ "date": "2026-10-07",
+ "section": "gadgets",
+ "media": [
+  {
+   "id": "gadgets-ghost-core",
+   "type": "image",
+   "src": "pipeline/media/gadgets-ghost-core.jpg"
+  },
+  {
+   "id": "gadgets-foresight",
+   "type": "video",
+   "src": "pipeline/media/gadgets-foresight.mp4",
+   "poster": "pipeline/media/gadgets-foresight.jpg"
+  },
+  {
+   "id": "gadgets-fitbit-edge",
+   "type": "image",
+   "src": "pipeline/media/gadgets-fitbit-edge.jpg"
+  },
+  {
+   "id": "gadgets-jbl-partybox",
+   "type": "image",
+   "src": "pipeline/media/gadgets-jbl-partybox.jpg"
+  },
+  {
+   "id": "gadgets-underdog",
+   "type": "image",
+   "src": "pipeline/media/gadgets-underdog.jpg"
+  }
+ ]
 }

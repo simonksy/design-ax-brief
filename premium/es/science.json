@@ -6286,6 +6286,135 @@
           "x": "\"Si queremos una AI que trabaje con las personas y entienda el mundo de maneras más compatibles con lo humano, no podemos centrarnos solo en si da la respuesta correcta\", afirmó el autor principal, Kohitij Kar."
         }
       ]
+    },
+    "science/science-flashflood-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una riada puede devastar una comunidad en minutos. Según el National Weather Service, estos desastres representan aproximadamente el 85% de las inundaciones y causan miles de muertes al año en todo el mundo."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo que incluye a investigadores de Penn State aplicó las técnicas en las que se basa la generación de imágenes con AI para predecir hora a hora el riesgo de riadas, y describió el trabajo en Water Resources Research."
+        },
+        {
+          "t": "p",
+          "x": "\"Se sabe ampliamente que los picos de las riadas se producen a escala horaria\", afirmó el autor de correspondencia, Chaopeng Shen. El modelo usa difusión: se añade ruido a datos limpios y el modelo aprende a eliminarlo. Las observaciones recientes de los medidores pueden incorporarse sin reentrenar, un proceso conocido como inpainting."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+          "cap": "Mapa de la Nash-Sutcliffe Efficiency (NSE) de cada cuenca; los puntos más claros indican predicciones más precisas. Crédito: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+        },
+        {
+          "t": "p",
+          "x": "Entrenado con caudales horarios de 516 cuencas de U.S. (1990–2003) y evaluado con datos de 2009–2014, el método superó en general a los mejores modelos horarios de aprendizaje profundo (deep-learning) existentes, incluso con caudales altos. También puede funcionar a la inversa y estimar la lluvia que produjo un caudal determinado."
+        }
+      ]
+    },
+    "science/science-heart-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+          "cap": "Crédito: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Al analizar registros del ritmo cardíaco y análisis de sangre, la inteligencia artificial podría detectar con precisión cuándo el cuerpo de un paciente trasplantado empieza a atacar un corazón donado, según sugiere un nuevo estudio. El método de referencia actual para diagnosticar el rechazo es la biopsia."
+        },
+        {
+          "t": "p",
+          "x": "El equipo, dirigido por investigadores de NYU Langone Health, entrenó modelos de AI con 5,300 lecturas de EKG de 2,357 receptores adultos de trasplante de corazón. Un modelo usó solo datos de EKG; otro combinó los EKGs con dos análisis de sangre que suelen emplearse para predecir el riesgo de rechazo."
+        },
+        {
+          "t": "p",
+          "x": "En un grupo de prueba de 38 receptores, el modelo combinado rindió mejor e identificó correctamente al 94% de los pacientes que no sufrían rechazo. El modelo basado en análisis de sangre señaló por error a 19 pacientes como posibles candidatos a biopsia."
+        },
+        {
+          "t": "p",
+          "x": "\"Los electrocardiogramas contienen abundante información fisiológica que puede usarse para mejorar sustancialmente la precisión de la detección\", afirmó el autor principal, Lior Jankelson. Publicado en JHLT Open, el estudio es el primero en combinar estos biomarcadores con EKGs en un único modelo de AI. A continuación, el equipo prevé probarlo en varios centros de trasplante."
+        }
+      ]
+    },
+    "science/science-earth-ai-public-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Las decisiones de salud pública dependen de datos oportunos y detallados, pero la vigilancia suele verse obstaculizada por retrasos de varios años en los informes, datos aislados por fronteras y escasez de datos."
+        },
+        {
+          "t": "p",
+          "x": "El Earth AI Population Dynamics Foundation Model (PDFM) de Google Research comprime tendencias de búsqueda que preservan la privacidad, movilidad humana, densidad del entorno construido y señales ambientales en embeddings de ubicación que se integran en los modelos que ya usan los epidemiólogos. Sin ajuste fino (fine-tuning) específico para cada tarea, igualaron o mejoraron los datos de entrada convencionales."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+          "cap": "Panorama del PDFM de Google Earth AI aplicado a una amplia gama de desafíos de salud global."
+        },
+        {
+          "t": "p",
+          "x": "Cinco estudios de caso con socios lo pusieron a prueba: los modelos transfronterizos de vacunación MMR explicaron el 22% de la variación en lugar del 16%; las estimaciones inmediatas de muertes cardiovasculares igualaron a los modelos basados en censos; los pronósticos de dengue en México mejoraron hasta en el 72% de los municipios con transmisión activa; mejoró la predicción del riesgo de depresión posparto; y las listas de cólera a ocho semanas en la DRC mejoraron un 18%."
+        },
+        {
+          "t": "p",
+          "x": "Los embeddings de PDFM están disponibles comercialmente en Preview como Population Dynamics Insights de Google Maps Platform, con acceso gratuito para determinados usos de investigación."
+        }
+      ]
+    },
+    "science/science-microalgae-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+          "cap": "Crédito: Amarnath Krishnamoorthy"
+        },
+        {
+          "t": "p",
+          "x": "Las microalgas pueden servir para fabricar alimento animal, pigmentos y, potencialmente, combustibles renovables, pero cultivarlas de forma eficiente a escala industrial es difícil. En los fotobiorreactores hay que controlar la luz, la temperatura, el pH y el oxígeno, y estos parámetros se influyen entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Los sensores pueden medir estas condiciones de forma continua, y los modelos de aprendizaje automático (machine-learning) pueden analizar los datos para predecir el crecimiento, optimizar el cultivo y detectar el estrés antes de que sea visible. Los enfoques basados en imágenes (Image-based) pueden estimar la biomasa o la densidad del cultivo."
+        },
+        {
+          "t": "p",
+          "x": "Un estudio de 2026 en Almeria, España, probó el aprendizaje por refuerzo en un estanque abierto tipo raceway de 80 m², regulando el pH mediante el control de la inyección de dióxido de carbono durante ocho días de condiciones exteriores cambiantes."
+        },
+        {
+          "t": "p",
+          "x": "Persisten problemas: los sensores se ensucian o se desajustan, y un modelo creado para una cepa o un reactor puede no ser transferible. La AI debe considerarse una herramienta adicional y no un sustituto de la ingeniería de procesos convencional, escribe Amarnath Krishnamoorthy en The Conversation."
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "Crédito: Orhan Akbaba de Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Las sustancias químicas eternas (PFAS) están presentes en más del 90% de los estadounidenses, y se sabe que casi la mitad de los suministros municipales de agua de U.S. las contienen. Con las nuevas normas de la EPA, los proveedores de agua deben hacer análisis frecuentes, pero la mayoría depende de costosos laboratorios de espectrometría de masas (mass-spectrometry) que pueden tardar semanas."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de Columbia y City College dirigido por Virginia Cornish construye un dispositivo \"biohíbrido\" (biohybrid) que combina levadura modificada, proteínas AI-designed y chips sensores CMOS para detectar PFAS y vigilar su eliminación."
+        },
+        {
+          "t": "p",
+          "x": "Los receptores sintéticos insertados en Saccharomyces cerevisiae hacen que la levadura brille en verde cuando se unen a una sustancia objetivo. Diseñar esos receptores llevaba años; con una herramienta de AI del laboratorio de Mohammed AlQuraishi, el equipo trabaja hacia un ciclo de diseño, construcción y prueba (design-build-test) de solo semanas, ahora orientado a PFOA y PFOS."
+        },
+        {
+          "t": "p",
+          "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
+        }
+      ]
     }
   }
 }

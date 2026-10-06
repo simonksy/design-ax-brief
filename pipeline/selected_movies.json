@@ -1,79 +1,103 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "movies",
   "dedup": {
     "checks": {
-      "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/": {
-        "verdict": "new",
-        "nearest": "https://postperspective.com/origami-platform-updates-media-management-audio-conform-security-and-ai-capabilities/",
-        "new_action": ""
-      },
-      "https://www.provideocoalition.com/roundup-new-software-for-video-editors/": {
-        "verdict": "new",
-        "nearest": "https://www.provideocoalition.com/battle-of-the-nle-ai-assistants/",
-        "new_action": ""
-      },
-      "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/": {
+      "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/": {
+      "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/": {
+        "verdict": "follow-up",
+        "nearest": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
+        "new_action": "First trailer released for the R-rated, fully AI-made theatrical feature 'Gods Don't Give Gifts'. The 09-28 card was only a Zurich Summit panel where its director spoke."
+      },
+      "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html": {
         "verdict": "new",
-        "nearest": "https://motionographer.com/2026/09/28/dear-upstairs-neighbors-how-connie-he-taught-a-machine-to-see-the-way-she-draws/",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/": {
+        "verdict": "new",
+        "nearest": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
+        "new_action": ""
+      },
+      "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/biz/news/jeffrey-katzenberg-hollywood-must-accept-not-going-away-1236873535/",
         "new_action": ""
       }
     },
-    "note": "SWAP RUN: removed the Variety 'Gaussian Scout, Pixentinel Take Top Prizes at San Sebastian's Zinemaldia Startup Challenge' pick (https://variety.com/2026/global/global/gaussian-scout-pixentinel-win-zinemaldia-startup-challenge-1236874175/). The full-article check found it is not about AI: the winners are Gaussian splats/photogrammetry and live-stream diagnostics, and AI appears only in passing. No replacement: the only backup left, Curious Refuge 'I Tested AI Agents Against a Real AI Artist' (https://www.youtube.com/watch?v=aVVxF88J2co), fails a strict check against the 2026-10-05 'How Much of Filmmaking Can AI Agents Actually Do?' (https://www.youtube.com/watch?v=JWEAmLHp7Sg). Both are creator test videos on whether AI agents can do creative filmmaking work, posted within a week of each other, with no new tool release, version or announcement of its own. It counts as the same running topic, so it is dropped. The rest of the pool was already excluded. Duplicates: Deadline Tilly Norwood (running Tilly story, see 09-15, 09-19 and 09-28), RedShark Made on YouTube (The Verge, 09-24), PVC After Effects Portal (AE 26.5 IBC release, 09-09 and 09-19). Exec-talk or business noise: MIPCOM, Amazon Kelly Day, Iberseries. AI-themed but not AI-made: Xu Zao, Sam Altman/'Artificial'. Section ships 4 picks (floor 3 met). Original pass: pool of 14 checked against the 30-day history_digest. Diversity: 4 distinct outlets (postPerspective, PVC, IndieWire, Motionographer), 1 card each. Caveat: the Motionographer piece may be sponsored or brand content, so the enrichment pass should check the body."
+    "note": "Pool of 15 checked against the 30-day history_digest. Dropped as duplicates: RedShark 'Made on YouTube 2026' (same event as The Verge, 09-24); Cartoon Brew OIAF 2026 recap (same running OIAF story as the 09-25 TAC AI debate card, and only an AI-panel recap). Retouch4me Lab is dropped because it is a still-photo colour tool that follows the 09-27 Lab Video card, so it is weak for film. Not AI-made, or AI only incidental: Motionographer 'Machines Learning' (a film about AI themes, not made with it); CorridorKey 2 (11-second teaser, nothing verifiable, avoided as instructed). Low-value or noise: Iberseries/Platino preview (festival exec talk, 09-28), USC Annenberg survey call (a call for participants, not news). VFX Voice had 3 features, capped at 1 here to keep spread. Gossip Goblin is kept as a follow-up because the trailer release is a new concrete event. Diversity: 5 distinct outlets (AWN, Deadline, Cartoon Brew, VFX Voice, postPerspective), 1 each. The Guardian brain-rot copyright piece is the first alternate."
   },
   "items": [
     {
-      "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
-      "source": "postPerspective",
-      "title": "Ambassadors' In-House AI Workflow Platform Available to All",
+      "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026",
+      "source": "AWN",
+      "title": "LOFTAPPS to Debut LOFT Software and Peek at Phil Tippett's 'Mad God' Sequel at VIEW 2026",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Concrete new release: Amsterdam studio Ambassadors opens its in-house visual AI workflow platform Mosa to everyone, a tool production teams can try now.",
-      "published_iso": "2026-10-05T18:43:38+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg",
-      "excerpt": "Amsterdam-based creative production company Ambassadors has made its in-house visual AI workflow platform Mosa available now to all."
+      "rationale": "New tool debut. LOFTAPPS gives its generative AI production OS its European premiere, and Phil Tippett shows a stop-motion 'Mad God' sequel made with it, a strong craft-meets-AI case.",
+      "published_iso": "2026-10-06T11:29:36-07:00",
+      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+      "excerpt": "Berkeley company LOFTAPPS gives its generative AI production system a European premiere at VIEW 2026 in Turin (Oct 12-16), where Phil Tippett will share an exclusive look at his stop-motion 'Mad God' follow-up made with the LOFT OS."
     },
     {
-      "url": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
-      "source": "ProVideo Coalition",
-      "title": "Roundup: New software for video editors by Iain Anderson",
+      "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
+      "source": "Deadline",
+      "title": "YouTuber Gossip Goblin Releases Trailer For R-Rated AI Theatrical Film 'Gods Don't Give Gifts'",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Hands-on roundup of new small editor utilities made possible by AI-written code; editors get specific tools to adopt tomorrow.",
-      "published_iso": "2026-10-05T05:19:02-07:00",
-      "og_image": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-      "excerpt": "Artificial Intelligence isn't good at everything, but it is good at writing code. In general, the areas in which it excels are the technical ones, where it succeeds at complex code-driven tasks, and the areas where it struggles are the easy ones. Small-scale software tools sit right in the sweet spot."
+      "rationale": "Concrete release. This is the first trailer for an R-rated theatrical feature made entirely with AI, so viewers can now see what a fully AI-made feature looks like.",
+      "published_iso": "2026-10-06T16:52:10+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+      "excerpt": "YouTuber Gossip Goblin has released the trailer for 'Gods Don't Give Gifts,' an R-rated theatrical feature film made entirely with artificial intelligence."
     },
     {
-      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
-      "source": "IndieWire",
-      "title": "Can Art House Theaters Use AI-Driven Data Models to Reach a More Targeted Audience?",
+      "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+      "source": "Cartoon Brew",
+      "title": "SAG-AFTRA TV Animation Deal Boosts Wages, AI Protections",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "New labour agreement with expanded AI protections for voice performers, now going to a member vote. It directly changes the rules for AI voice use in TV animation.",
+      "published_iso": "2026-10-06T07:08:51-07:00",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+      "excerpt": "SAG-AFTRA members will vote on a new TV animation agreement featuring annual wage increases, expanded AI protections for voice performers, better residuals and benefit gains."
+    },
+    {
+      "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
+      "source": "VFX Voice",
+      "title": "The Tools Shaping the Future of VFX",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "New partnership: Laemmle's 'Inside the Arthouse' teams with data firm Chronicle to use AI audience models, a practical distribution/marketing use case for indie film.",
-      "published_iso": "2026-10-01T15:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-      "excerpt": "The podcast \"Inside the Arthouse\" with Greg Laemmle and Raphael Sbarge partnered with data company Chronicle to bring their reach to the next level."
+      "rationale": "Practitioners name the specific ML/AI, real-time and cloud tools they expect to reshape shot-making, giving artists an actionable list to evaluate.",
+      "published_iso": "2026-10-06T15:53:30+00:00",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129.jpg",
+      "excerpt": "VFX artists, supervisors and technologists across the VFX and AI ecosystem name the ML/AI, real-time, virtual production and cloud tools they believe will reshape how shots are made and who holds creative control."
     },
     {
-      "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
-      "source": "Motionographer",
-      "title": "AI Animation, IP and the Next Phase of Creative Production",
+      "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
+      "source": "postPerspective",
+      "title": "The State of VFX and Animation Might Surprise You",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Motion-design outlet's take on how generative AI is moving into professional animation and the IP questions studios and brands must resolve; adds an animation angle to the set.",
-      "published_iso": "2026-10-01T19:51:43+00:00",
-      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-      "excerpt": "Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant. Work that once required…"
+      "rationale": "A reality check on Katzenberg's 2023 forecast that AI would cut animation crews by 90% by 2026: it measures what AI has actually changed in VFX and animation staffing.",
+      "published_iso": "2026-09-30T21:23:43+00:00",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+      "excerpt": "Three years after Jeffrey Katzenberg predicted AI would shrink a 500-artist animated feature crew to under 50 by 2026, Joseph Bell checks how AI has actually changed VFX and animation staffing."
     }
+  ],
+  "alternates": [
+    "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
+    "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
+    "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
+    "https://www.awn.com/news/call-participation-usc-annenberg-ai-film-and-tv-survey",
+    "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/"
   ]
 }

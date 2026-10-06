@@ -6623,6 +6623,132 @@
           "x": "Cartesian tiene conexiones en vivo con Rhinoceros y SketchUp, importación y exportación en DXF e IFC, y exportación en STEP y STL. El despliegue de escritorio será gradual en macOS y Windows, con un acceso ampliado previsto a partir del 31 de octubre de 2026."
         }
       ]
+    },
+    "design/design-photoshop-27-11-enhance-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe ha lanzado Photoshop 27.11. La actualización introduce Enhance Edge, una nueva opción AI-powered que reduce el halo de color en las máscaras generadas por Remove Background y ayuda a obtener recortes más limpios de cabello y pelaje."
+        },
+        {
+          "t": "p",
+          "x": "Disponible en la barra de tareas contextual, usa difusión RGBA para eliminar el halo de color de los bordes de una máscara. A diferencia de la propia herramienta Remove, requiere créditos generativos y consume 20 créditos por uso."
+        },
+        {
+          "t": "p",
+          "x": "Ahora también es posible usar el modelo de AI GPT Image 2 con la función Generate Image, o editar imágenes con Prompt to edit, introducida en Photoshop 27.10. Adobe amplió hace poco a 33 su lista de modelos de AI de terceros."
+        },
+        {
+          "t": "p",
+          "x": "Otros cambios incluyen la posibilidad de renombrar o eliminar entradas en la pestaña Recents del cuadro de diálogo New Document, y mejoras de rendimiento en Windows basadas en datos de uso reales. Photoshop 27.11 es compatible con Windows 10+ y macOS 14.0+; la suscripción a la aplicación individual cuesta $34.49/month o $263.88/year."
+        }
+      ]
+    },
+    "design/design-hark-pro-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+          "cap": "Imagen: Hark"
+        },
+        {
+          "t": "p",
+          "x": "Con una interfaz de chatbot y capacidades agénticas, la nueva aplicación web de AI Hark Pro cumple los requisitos principales de un lanzamiento de AI para el gran público en 2026. Pero Hark Pro replantea la premisa central del asistente de AI: usa AI para entender las tareas y necesidades de cada usuario y busca de forma proactiva maneras de ayudar."
+        },
+        {
+          "t": "p",
+          "x": "Con acceso al correo electrónico, el calendario y otras cuentas en línea del usuario, puede pedir el almuerzo, pagar facturas, planificar viajes o reprogramar compromisos cuando hay reuniones que se solapan. Hark, fundada por Brett Adcock, ha recaudado $700 million en una ronda Series A."
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Abidur Chowdhury, jefe de diseño de Hark y exresponsable de diseño del iPhone Air de Apple, llama a su interfaz una página de inicio, con tareas pendientes y botones de acción generados automáticamente en la parte superior. “Realmente no queríamos tener esa barra lateral saturada con un montón de chats distintos que has tenido”, dice."
+        },
+        {
+          "t": "p",
+          "x": "La aplicación muestra su trabajo: una pequeña pantalla en el historial del chat muestra su computadora interna, Handoff, navegando por sitios web. Su fondo, similar a un cielo, imita la hora del día de cada usuario. Hark planea lanzar su primer dispositivo de hardware en 2027."
+        }
+      ]
+    },
+    "design/design-claude-code-to-figma-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+        },
+        {
+          "t": "p",
+          "x": "Los desarrolladores llevan meses creando prototipos desechables en Claude Code. El problema es lo que viene después: para recibir comentarios, hay que hacer capturas de pantalla, grabar un video o pedirle a alguien que haga pull de tu rama."
+        },
+        {
+          "t": "p",
+          "x": "Figma acaba de lanzar algo distinto. Ahora se puede enviar UI en vivo del navegador directamente a Figma como marcos editables: no capturas de pantalla, sino capas reales de Figma. Escribes “send this to Figma” en Claude Code; el servidor Figma MCP captura lo que se renderiza, ya sea en producción, localhost o staging, y puede capturar varias pantallas en una sola sesión."
+        },
+        {
+          "t": "p",
+          "x": "También funciona a la inversa: haces cambios en Figma y luego usas Figma MCP para devolverlos a Claude Code con un prompt y un enlace. “El lienzo te permite divergir. El código te permite converger.”"
+        },
+        {
+          "t": "p",
+          "x": "Cuándo no importa: si trabajas solo, en un equipo ya alineado o en algo pequeño como una landing page, donde las capturas de pantalla probablemente basten. Importa cuando la exploración importa: al comparar flujos o tender puentes entre diseño e ingeniería. Siguen siendo pasos manuales con prompts, no automatización; el cambio tiene que ver con tener opciones."
+        }
+      ]
+    },
+    "design/design-figma-expert-designs-by-describing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+        },
+        {
+          "t": "p",
+          "x": "El ingeniero de diseño Lauri Lännenmäki solía llamarse a sí mismo experto en Figma. Todavía lo usa en su trabajo diario, pero ya no diseña allí cada estado y cada variante. Figma ya tiene su propia AI; funciona, pero se siente lenta y mucho más débil que Claude trabajando en Figma a través de un MCP."
+        },
+        {
+          "t": "p",
+          "x": "Figma nunca fue la fuente de verdad: lo es el código. Las variantes son más simples en código que en una herramienta de diseño, donde un botón en el que trabajó llegó a 1,100 variantes."
+        },
+        {
+          "t": "p",
+          "x": "Aprendió CSS para poder construir cualquier cosa que diseñara, pero la web ahora espera shaders y three.js. No tiene que aprenderlos: “Ya no estoy limitado por mis propias habilidades”. Sitios web, apps, juegos, anuncios en video: él lo describe y un agente lo construye."
+        },
+        {
+          "t": "p",
+          "x": "Su recorrido: ChatGPT y copiar y pegar, luego Cursor, después Claude Code en la terminal y, por último, MCPs para todo. Con Figma Console MCP sustituyó valores fijos por variables en un enorme sistema de diseño y se ahorró cientos de horas. Hoy su agente es Claude Opus 5.5."
+        },
+        {
+          "t": "p",
+          "x": "Su consejo para los diseñadores que nunca han programado: ir directamente al agente y empezar a construir. “Ahora todo el mundo es constructor”."
+        }
+      ]
+    },
+    "design/bimlogiq-argus-revit-family-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+          "cap": "BIMlogiq Argus dentro de Revit"
+        },
+        {
+          "t": "p",
+          "x": "BIMlogiq ha mejorado Argus, su plataforma de AI para Revit que usa un equipo de agentes especializados para automatizar flujos de trabajo directamente dentro de un proyecto de Revit. El usuario le da un objetivo y Argus planifica los pasos, encadena las herramientas y lo ejecuta de principio a fin (end-to-end): coloca familias, revisa el modelo, etiqueta y acota, y crea vistas y planos. Las ejecuciones pueden guardarse como un comando para que todo el equipo las reutilice."
+        },
+        {
+          "t": "p",
+          "x": "Entre las novedades recientes figura un Family Creation Agent que, según se informa, puede crear familias de Revit totalmente paramétricas desde cero con componentes nativos de Revit, y un Bathroom Agent que diseña baños ADA-compliant. Un nuevo MEP Systems Agent rastrea los flujos a través de la red, desde los equipos hasta los terminales, incluso cuando partes del sistema no están completamente conectadas."
+        },
+        {
+          "t": "p",
+          "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
+        }
+      ]
     }
   }
 }

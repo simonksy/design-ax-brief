@@ -1,7 +1,31 @@
-{"media":[
-{"id":"norway-ai-glasses-temporary-ban","type":"image","src":"pipeline/media/norway-ai-glasses-temporary-ban.jpg"},
-{"id":"openai-textgrain-eu-ai-act-watermarks","type":"image","src":"pipeline/media/openai-textgrain-eu-ai-act-watermarks.jpg"},
-{"id":"european-parliament-deepfake-porn-research","type":"image","src":"pipeline/media/european-parliament-deepfake-porn-research.jpg"},
-{"id":"moreno-letter-anthropic-amodei","type":"image","src":"pipeline/media/moreno-letter-anthropic-amodei.jpg"},
-{"id":"japan-sovereign-ai-strategy-vs-china","type":"image","src":"pipeline/media/japan-sovereign-ai-strategy-vs-china.jpg"}
-]}
+{
+ "date": "2026-10-07",
+ "section": "politics",
+ "media": [
+  {
+   "id": "politics-sif-charter",
+   "type": "image",
+   "src": "pipeline/media/politics-sif-charter.jpg"
+  },
+  {
+   "id": "politics-pentagon-anthropic",
+   "type": "image",
+   "src": "pipeline/media/politics-pentagon-anthropic.jpg"
+  },
+  {
+   "id": "politics-veliaj-avatar",
+   "type": "image",
+   "src": "pipeline/media/politics-veliaj-avatar.jpg"
+  },
+  {
+   "id": "politics-japan-usedbooks-ai",
+   "type": "image",
+   "src": "pipeline/media/politics-japan-usedbooks-ai.jpg"
+  },
+  {
+   "id": "politics-latino-ai-voter-guide",
+   "type": "image",
+   "src": "pipeline/media/politics-latino-ai-voter-guide.jpg"
+  }
+ ]
+}

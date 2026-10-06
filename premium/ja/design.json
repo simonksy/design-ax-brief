@@ -6913,6 +6913,132 @@
           "x": "CartesianはRhinocerosやSketchUpとのライブ連携、DXFとIFCのインポート・エクスポート、STEPとSTLのエクスポートに対応する。デスクトップ版はmacOSとWindowsで段階的に提供され、2026年10月31日から利用範囲を広げる予定だ。"
         }
       ]
+    },
+    "design/design-photoshop-27-11-enhance-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AdobeがPhotoshop 27.11をリリースした。今回のアップデートでは、Remove Backgroundで生成したマスクの色にじみを抑える新しいAI-poweredオプション、Enhance Edgeが加わり、髪や毛並みをよりきれいに切り抜けるようになった。"
+        },
+        {
+          "t": "p",
+          "x": "コンテキストタスクバーから使え、RGBAディフュージョンでマスクの縁の色にじみを取り除く。Removeツール本体とは異なり生成クレジットが必要で、1回の使用につき20クレジットを消費する。"
+        },
+        {
+          "t": "p",
+          "x": "Generate Image機能でGPT Image 2 AIモデルを使ったり、Photoshop 27.10で導入されたPrompt to editで画像を編集したりすることも可能になった。Adobeは最近、サードパーティAIモデルのリストを33種類に拡大した。"
+        },
+        {
+          "t": "p",
+          "x": "そのほか、New DocumentダイアログのRecentsタブで項目の名前変更や削除ができるようになり、実際の利用データに基づくWindowsでのパフォーマンス改善も行われた。Photoshop 27.11はWindows 10+とmacOS 14.0+に対応し、単体プランは$34.49/monthまたは$263.88/yearだ。"
+        }
+      ]
+    },
+    "design/design-hark-pro-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+          "cap": "画像: Hark"
+        },
+        {
+          "t": "p",
+          "x": "チャットボットのインターフェースとエージェント機能を備えた新しいAIウェブアプリケーションHark Proは、2026年のマスマーケット向けAIリリースの主要な条件を一通り満たしている。だがHark Proは、AIアシスタントの根本的な前提そのものを問い直している。AIで各ユーザーのタスクとニーズを理解し、自ら手助けの方法を見つけるのだ。"
+        },
+        {
+          "t": "p",
+          "x": "ユーザーのメール、カレンダー、その他のオンラインアカウントにアクセスし、昼食の注文、請求書の支払い、旅行の計画、会議の重複に合わせた予定の再調整までこなす。Brett Adcockが創業したHarkは、Series Aで$700 million(7億ドル)を調達した。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Harkのデザイン責任者で、AppleのiPhone Airのデザインリードを務めたAbidur Chowdhuryは、このインターフェースをホームページと呼ぶ。上部にはアクション項目と自動生成されるアクションボタンが並ぶ。「これまでのさまざまなチャットで埋め尽くされたサイドバーは、本当に置きたくなかった」と彼は言う。"
+        },
+        {
+          "t": "p",
+          "x": "アプリは作業の過程を見せる。チャットログ内の小さな画面に、内部コンピューターHandoffがウェブサイトを操作する様子が映る。空のような背景は、各ユーザーのその時の時間帯をまねる。Harkは2027年に初のハードウェア端末を発売する予定だ。"
+        }
+      ]
+    },
+    "design/design-claude-code-to-figma-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+        },
+        {
+          "t": "p",
+          "x": "開発者たちは何カ月も前から、Claude Codeで使い捨てのプロトタイプを作ってきた。問題はその後だ。フィードバックをもらうには、スクリーンショットを撮るか、動画を録画するか、誰かにブランチをpullしてもらうしかない。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaはこれまでとは違うものを出した。ライブのブラウザUIを、編集可能なフレームとしてFigmaへ直接送れるようになったのだ。スクリーンショットではなく、本物のFigmaレイヤーである。Claude Codeで「send this to Figma」と入力すると、Figma MCPサーバーが本番環境、localhost、ステージングのいずれからでもレンダリング結果をキャプチャし、一つのセッションで複数の画面を取り込める。"
+        },
+        {
+          "t": "p",
+          "x": "逆方向にもつながる。Figmaで変更を加えた後、Figma MCPを使い、プロンプトとリンクでClaude Codeに取り込み直せる。「キャンバスは発散させ、コードは収束させる」"
+        },
+        {
+          "t": "p",
+          "x": "意味がない場面もある。一人で作業している、すでに足並みのそろったチームにいる、あるいはランディングページのような小さな案件なら、スクリーンショットで十分だろう。意味を持つのは探索が重要なとき、つまりフローを比べたり、デザインとエンジニアリングをつないだりする場面だ。依然としてプロンプトを使った手作業であり、自動化ではない。変化の本質は選択肢が増えたことにある。"
+        }
+      ]
+    },
+    "design/design-figma-expert-designs-by-describing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+        },
+        {
+          "t": "p",
+          "x": "デザインエンジニアのLauri Lännenmäkiは、かつて自らをFigmaのエキスパートと称していた。今も本業でFigmaを使っているが、すべてのステートやバリアントをそこでデザインすることはもうない。Figmaにも今や独自のAIがある。動きはするものの、MCP経由でFigma上で作業するClaudeに比べると遅く、はるかに非力に感じるという。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaが信頼できる唯一の情報源だったことは一度もない。それはコードだ。バリアントはデザインツールよりコードのほうがシンプルで、彼が手がけたあるボタンはデザインツール上で1,100のバリアントにまで膨れ上がった。"
+        },
+        {
+          "t": "p",
+          "x": "彼はデザインしたものを何でも作れるようにCSSを学んだが、今のウェブはシェーダーやthree.jsを求める。それを学ぶ必要はない。「もう自分の能力に縛られない」。ウェブサイト、アプリ、ゲーム、動画広告——彼が説明すれば、エージェントが作る。"
+        },
+        {
+          "t": "p",
+          "x": "彼の歩みはこうだ。ChatGPTとコピー&ペースト、次にCursor、そしてターミナルのClaude Code、さらにあらゆる作業にMCPs。Figma Console MCPを使って巨大なデザインシステム全体のハードコードされた値を変数に置き換え、数百時間を節約した。現在の彼のエージェントはClaude Opus 5.5だ。"
+        },
+        {
+          "t": "p",
+          "x": "コードを書いたことのないデザイナーへの助言は、まっすぐエージェントのところへ行って作り始めること。「今や誰もがビルダーだ」"
+        }
+      ]
+    },
+    "design/bimlogiq-argus-revit-family-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+          "cap": "Revit上で動くBIMlogiq Argus"
+        },
+        {
+          "t": "p",
+          "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
+        },
+        {
+          "t": "p",
+          "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
+        }
+      ]
     }
   }
 }

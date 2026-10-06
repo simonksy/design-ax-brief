@@ -1,1696 +1,1736 @@
 {
-  "date": "2026-10-06",
-  "section": "science",
-  "cards": [
-    {
-      "id": "pfas-yeast-biosensor-ai-detection",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "조작 효모와 AI,\n영원한 화학물질을 쫓다",
-      "body": "효모에 AI-designed 수용체와 CMOS 칩을 달아 PFAS 센서를 만든다.",
-      "mini_headline": "효모와 AI, PFAS 겨냥",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-            "cap": "출처: Orhan Akbaba, Pexels"
-          },
-          {
-            "t": "p",
-            "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
-          },
-          {
-            "t": "p",
-            "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
-          },
-          {
-            "t": "p",
-            "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
-          },
-          {
-            "t": "p",
-            "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Engineered yeast and AI\ntake aim at forever chemicals",
-          "body": "Columbia scientists are building a PFAS sensor from yeast fitted with AI-designed receptors and CMOS chips.",
-          "mini_headline": "Yeast and AI target PFAS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "Credit: Orhan Akbaba from Pexels"
-              },
-              {
-                "t": "p",
-                "x": "Forever chemicals (PFAS) are found in more than 90% of Americans, and nearly half of U.S. municipal water supplies are known to contain them. Under new EPA rules, water suppliers must test frequently, but most rely on costly mass-spectrometry labs that can take weeks."
-              },
-              {
-                "t": "p",
-                "x": "A Columbia and City College team led by Virginia Cornish is building a \"biohybrid\" device that combines engineered yeast, AI-designed proteins and CMOS sensor chips to detect PFAS and monitor their removal."
-              },
-              {
-                "t": "p",
-                "x": "Synthetic receptors inserted into Saccharomyces cerevisiae make the yeast glow green when they bind a target chemical. Designing those receptors once took years; with an AI tool from Mohammed AlQuraishi's lab, the team is working toward a design-build-test cycle of only weeks, now aimed at PFOA and PFOS."
-              },
-              {
-                "t": "p",
-                "x": "CMOS chips from Ken Shepard's lab read the fluorescence, so users could dip a disposable stick into water for an instant readout. Cornish estimates it will cost orders of magnitude less than current methods."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "조작 효모와 AI,\n영원한 화학물질을 쫓다",
-          "body": "효모에 AI-designed 수용체와 CMOS 칩을 달아 PFAS 센서를 만든다.",
-          "mini_headline": "효모와 AI, PFAS 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "출처: Orhan Akbaba, Pexels"
-              },
-              {
-                "t": "p",
-                "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
-              },
-              {
-                "t": "p",
-                "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
-              },
-              {
-                "t": "p",
-                "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
-              },
-              {
-                "t": "p",
-                "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "改変酵母とAIが\n永遠の化学物質に挑む",
-          "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
-          "mini_headline": "酵母とAIがPFASを狙う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "クレジット: Orhan Akbaba（Pexels）"
-              },
-              {
-                "t": "p",
-                "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
-              },
-              {
-                "t": "p",
-                "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
-              },
-              {
-                "t": "p",
-                "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
-              },
-              {
-                "t": "p",
-                "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "工程酵母与AI\n瞄准永久化学品",
-          "body": "Columbia团队用带AI-designed受体和CMOS芯片的酵母打造PFAS传感器。",
-          "mini_headline": "酵母与AI瞄准PFAS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "图片来源：Orhan Akbaba / Pexels"
-              },
-              {
-                "t": "p",
-                "x": "超过90%的美国人体内能检出永久化学品（PFAS），已知近一半U.S.市政供水含有这类物质。根据EPA新规，供水方必须频繁检测，但多数依赖昂贵的质谱（mass-spectrometry）实验室，结果可能要等上数周。"
-              },
-              {
-                "t": "p",
-                "x": "由Virginia Cornish领导的Columbia与City College团队正在打造一种“生物混合（biohybrid）”装置，将工程酵母、AI-designed蛋白质与CMOS传感芯片结合，用于检测PFAS并监测其去除情况。"
-              },
-              {
-                "t": "p",
-                "x": "植入Saccharomyces cerevisiae的合成受体在结合目标化学品时会让酵母发出绿光。设计这类受体曾需数年；借助Mohammed AlQuraishi实验室的AI工具，团队正努力把设计-构建-测试（design-build-test）周期缩短到仅数周，目前瞄准PFOA和PFOS。"
-              },
-              {
-                "t": "p",
-                "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Levadura modificada y AI\napuntan a los químicos eternos",
-          "body": "Científicos de Columbia desarrollan un sensor de PFAS con levadura dotada de receptores AI-designed y chips CMOS.",
-          "mini_headline": "Levadura y AI contra los PFAS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "Crédito: Orhan Akbaba de Pexels"
-              },
-              {
-                "t": "p",
-                "x": "Las sustancias químicas eternas (PFAS) están presentes en más del 90% de los estadounidenses, y se sabe que casi la mitad de los suministros municipales de agua de U.S. las contienen. Con las nuevas normas de la EPA, los proveedores de agua deben hacer análisis frecuentes, pero la mayoría depende de costosos laboratorios de espectrometría de masas (mass-spectrometry) que pueden tardar semanas."
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de Columbia y City College dirigido por Virginia Cornish construye un dispositivo \"biohíbrido\" (biohybrid) que combina levadura modificada, proteínas AI-designed y chips sensores CMOS para detectar PFAS y vigilar su eliminación."
-              },
-              {
-                "t": "p",
-                "x": "Los receptores sintéticos insertados en Saccharomyces cerevisiae hacen que la levadura brille en verde cuando se unen a una sustancia objetivo. Diseñar esos receptores llevaba años; con una herramienta de AI del laboratorio de Mohammed AlQuraishi, el equipo trabaja hacia un ciclo de diseño, construcción y prueba (design-build-test) de solo semanas, ahora orientado a PFOA y PFOS."
-              },
-              {
-                "t": "p",
-                "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "조작 효모와 AI가\n영원한 화학물질 겨냥",
-          "body": "AI-designed 수용체와 CMOS 칩을 단 효모로 PFAS 센서를 만든다.",
-          "mini_headline": "효모와 AI, PFAS 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "출처: Orhan Akbaba, Pexels"
-              },
-              {
-                "t": "p",
-                "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되며, U.S. 지방자치단체 상수도의 절반 가까이에 들어 있는 것으로 알려져 있다. 새 EPA 규정에 따라 수도 사업자는 검사를 자주 해야 하지만, 대부분은 몇 주가 걸리기도 하는 값비싼 질량분석(mass-spectrometry) 실험실에 의존한다."
-              },
-              {
-                "t": "p",
-                "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 조작 효모, AI-designed 단백질, CMOS 센서 칩을 결합해 PFAS를 검출하고 제거 과정을 모니터링하는 \"바이오하이브리드(biohybrid)\" 장치를 만들고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Saccharomyces cerevisiae에 넣은 합성 수용체는 표적 화학물질과 결합하면 효모가 초록빛을 내게 한다. 예전에는 이런 수용체를 설계하는 데 몇 년이 걸렸지만, 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 작업을 진행 중이며, 현재 PFOA와 PFOS를 겨냥하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Ken Shepard 연구실의 CMOS 칩이 형광을 읽어내므로, 사용자는 일회용 스틱을 물에 담그기만 하면 바로 결과를 확인할 수 있다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮을 것으로 내다본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "改変酵母とAIが\n永遠の化学物質に挑む",
-          "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
-          "mini_headline": "酵母とAIがPFASを狙う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "クレジット: Orhan Akbaba（Pexels）"
-              },
-              {
-                "t": "p",
-                "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
-              },
-              {
-                "t": "p",
-                "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
-              },
-              {
-                "t": "p",
-                "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
-              },
-              {
-                "t": "p",
-                "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "工程酵母与AI\n瞄准永久化学品",
-          "body": "Columbia团队用带AI-designed受体和CMOS芯片的酵母打造PFAS传感器。",
-          "mini_headline": "酵母与AI瞄准PFAS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "图片来源：Orhan Akbaba / Pexels"
-              },
-              {
-                "t": "p",
-                "x": "超过90%的美国人体内能检出永久化学品（PFAS），已知近一半U.S.市政供水含有这类物质。根据EPA新规，供水方必须频繁检测，但多数依赖昂贵的质谱（mass-spectrometry）实验室，结果可能要等上数周。"
-              },
-              {
-                "t": "p",
-                "x": "由Virginia Cornish领导的Columbia与City College团队正在打造一种“生物混合（biohybrid）”装置，将工程酵母、AI-designed蛋白质与CMOS传感芯片结合，用于检测PFAS并监测其去除情况。"
-              },
-              {
-                "t": "p",
-                "x": "植入Saccharomyces cerevisiae的合成受体在结合目标化学品时会让酵母发出绿光。设计这类受体曾需数年；借助Mohammed AlQuraishi实验室的AI工具，团队正努力把设计-构建-测试（design-build-test）周期缩短到仅数周，目前瞄准PFOA和PFOS。"
-              },
-              {
-                "t": "p",
-                "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Levadura modificada y AI\napuntan a los químicos eternos",
-          "body": "Científicos de Columbia desarrollan un sensor de PFAS con levadura dotada de receptores AI-designed y chips CMOS.",
-          "mini_headline": "Levadura y AI contra los PFAS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-                "cap": "Crédito: Orhan Akbaba de Pexels"
-              },
-              {
-                "t": "p",
-                "x": "Las sustancias químicas eternas (PFAS) están presentes en más del 90% de los estadounidenses, y se sabe que casi la mitad de los suministros municipales de agua de U.S. las contienen. Con las nuevas normas de la EPA, los proveedores de agua deben hacer análisis frecuentes, pero la mayoría depende de costosos laboratorios de espectrometría de masas (mass-spectrometry) que pueden tardar semanas."
-              },
-              {
-                "t": "p",
-                "x": "Un equipo de Columbia y City College dirigido por Virginia Cornish construye un dispositivo \"biohíbrido\" (biohybrid) que combina levadura modificada, proteínas AI-designed y chips sensores CMOS para detectar PFAS y vigilar su eliminación."
-              },
-              {
-                "t": "p",
-                "x": "Los receptores sintéticos insertados en Saccharomyces cerevisiae hacen que la levadura brille en verde cuando se unen a una sustancia objetivo. Diseñar esos receptores llevaba años; con una herramienta de AI del laboratorio de Mohammed AlQuraishi, el equipo trabaja hacia un ciclo de diseño, construcción y prueba (design-build-test) de solo semanas, ahora orientado a PFOA y PFOS."
-              },
-              {
-                "t": "p",
-                "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "science",
+ "cards": [
+  {
+   "id": "science-xray-agent",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "AI 에이전트가\n말로 X-ray 스캔한다",
+   "body": "미세전자 X-ray 스캔을 말로 시키면 에이전트 AI가 다음 단계를 거든다.",
+   "mini_headline": "X-ray 스캔 맡는 AI 에이전트",
+   "tool": "Science",
+   "source": "Tech Xplore",
+   "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "과학계는 인공지능(AI)을 일종의 현미경처럼 점점 더 많이 써 왔다. 이제 새 흐름이 시작됐다. 간단한 자연어 요청만 받고도 과학자가 다음에 할 일을 정하도록 돕는 에이전트형 AI다."
+     },
+     {
+      "t": "p",
+      "x": "DOE 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진이 SYNAPS-I 프로젝트에서 이 기능을 시연했다. DOE Genesis Mission에 속한 SYNAPS-I는 로런스 버클리 국립연구소(Lawrence Berkeley National Laboratory)가 이끈다."
+     },
+     {
+      "t": "img",
+      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+      "cap": "CNM 소속 과학자 Tao Zhou가 APS의 Hard X-ray Nanoprobe 빔라인에 시료를 넣는다. 사진: Jason Creps/Argonne National Laboratory"
+     },
+     {
+      "t": "video",
+      "yt": "Be89VHHNJLM"
+     },
+     {
+      "t": "p",
+      "x": "\"코드를 작성하거나 기술적 명령어를 입력하는 대신 연구자가 AI와 대화하면, AI가 데이터 수집과 처리, 분석을 자동으로 맡는다.\" Argonne 계산과학자 Ming Du의 말이다."
+     },
+     {
+      "t": "p",
+      "x": "과학자는 \"이 영역을 고해상도로 매핑해\"처럼 원하는 바를 말하면 된다. 에이전트는 PtychoFM 모델이 실시간으로 재구성한 이미지를 읽고 관심 영역을 찾는다. 사람의 승인은 위험도가 높은 작업에만 구한다. 이미지별 특징 분할은 Meta의 SAM3가 맡는다."
+     },
+     {
+      "t": "p",
+      "x": "26-ID 빔라인 시험에서 에이전트는 집적회로 속 두 영역의 경계면을 찾으라는 지시를 받고 소자 깊숙한 곳의 정확한 지점까지 파고들었다. 자율주행 현미경에 한 발 다가선 셈이다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "An AI agent runs X-ray scans\nfrom plain-language requests",
+     "body": "An agentic AI lets scientists direct X-ray scans of microelectronics in plain language and helps choose next steps.",
+     "mini_headline": "AI agent steers X-ray scans",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "Science has increasingly used artificial intelligence (AI) as a kind of microscope. Now a new shift is underway: agentic AI that helps scientists decide what to do next through simple, natural language requests."
+       },
+       {
+        "t": "p",
+        "x": "At the DOE's Argonne National Laboratory, researchers demonstrated this capability as part of the SYNAPS-I project, part of DOE's Genesis Mission and led by Lawrence Berkeley National Laboratory."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "Tao Zhou, scientist with the CNM, loads a sample into the Hard X-ray Nanoprobe beamline at the APS. Credit: Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "\"Instead of writing code or entering technical commands, researchers can talk to the AI, which then handles data collection, processing and analysis automatically,\" said Argonne computational scientist Ming Du."
+       },
+       {
+        "t": "p",
+        "x": "Scientists can describe what they want, such as \"map this area at high resolution.\" The agent interprets images reconstructed in real time by the PtychoFM model, searches for regions of interest, and asks for human approval only for higher-risk operations. Meta's SAM3 segments features in each image."
+       },
+       {
+        "t": "p",
+        "x": "In a test at the 26-ID beamline, the agent was told to locate the interface between two regions in an integrated circuit and navigated from deep inside the device to the correct spot — a step toward self-driving microscopes."
+       }
+      ]
+     }
     },
-    {
-      "id": "berkeley-lab-heat-shield-xray-ai-ablation",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
-      "body": "NASA가 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간으로 지켜봤다.",
-      "mini_headline": "AI가 본 열차폐재 연소",
-      "tool": "Science",
-      "source": "Universe Today",
-      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-          },
-          {
-            "t": "p",
-            "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
-          },
-          {
-            "t": "video",
-            "yt": "04rSPGwMLlM"
-          },
-          {
-            "t": "p",
-            "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-            "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
-          },
-          {
-            "t": "p",
-            "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
-          },
-          {
-            "t": "p",
-            "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "X-rays and AI show heat\nshields burning in real time",
-          "body": "NASA and Berkeley Lab researchers paired X-ray micro-CT with AI to watch heat-shield material break down in real time.",
-          "mini_headline": "AI watches heat shields burn",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Heat shields protect spacecraft by ablating, but researchers usually see only before-and-after pictures. Artemis I showed unexpected charring and uneven material loss that simulations had not predicted."
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "A collaboration between NASA and the Advanced Light Source at Lawrence Berkeley National Laboratory changed that. LBNL researchers built a chamber that heats samples up to 900℃ while X-ray micro-computed tomography captures 3D images of the material as it breaks down."
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Engineers working on the Artemis II heat shield at the Kennedy Space Center. Credit - NASA"
-              },
-              {
-                "t": "p",
-                "x": "Cork particles in SLA-561V vaporize into hollow voids, while SLA-220 degrades into branching micro-channels that vent hot gases."
-              },
-              {
-                "t": "p",
-                "x": "To balance speed against resolution, the team trained a Generative Adversarial Network (GAN) to turn rapid intermediate-resolution scans into high-resolution 3D records of the material as it warped, charred and hollowed out. Engineering simulations have not yet been updated."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
-          "body": "NASA가 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간으로 지켜봤다.",
-          "mini_headline": "AI가 본 열차폐재 연소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 지킨다. 그 과정에서 연구자들이 볼 수 있던 건 대개 전후(before-and-after) 사진뿐이었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "이 상황을 바꾼 건 NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이다. LBNL 연구진이 시료를 최대 900℃까지 달구는 챔버를 만들었고, 가열되는 동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재를 3D 이미지로 담는다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V 속 코르크 입자는 기화하면서 빈 공동으로 남는다. SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 갈라진다."
-              },
-              {
-                "t": "p",
-                "x": "속도와 해상도 사이 균형을 맞추려고 연구팀은 Generative Adversarial Network(GAN)를 학습시켰다. 빠르게 찍은 중간 해상도(intermediate-resolution) 스캔이 이를 거치면, 소재가 뒤틀리고 그을리고 속이 비어 가는 과정을 담은 고해상도(high-resolution) 3D 기록이 된다. 공학 시뮬레이션은 아직 갱신되지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "X-raysとAIで見る\n耐熱材が燃える瞬間",
-          "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
-          "mini_headline": "AIが見る耐熱材の燃焼",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "耐熱シールドはアブレーションによって宇宙船を守るが、研究者が目にできるのは通常、前後（before-and-after）の画像だけだ。Artemis Iでは、シミュレーションが予測していなかった炭化と不均一な材料損失が見られた。"
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "NASAとLawrence Berkeley National LaboratoryのAdvanced Light Sourceの協力がこれを変えた。LBNLの研究者は試料を最大900℃まで加熱するチャンバーを作り、その間にX-ray micro-computed tomography（X線マイクロCT）が分解していく材料の3D画像を捉える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Kennedy Space CenterでArtemis IIの耐熱シールドの作業をするエンジニアたち。クレジット - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V中のコルク粒子は気化して空洞となり、SLA-220は高温ガスを逃がす枝分かれした微細流路（micro-channels）へと劣化する。"
-              },
-              {
-                "t": "p",
-                "x": "速度と解像度のバランスを取るため、チームはGenerative Adversarial Network（GAN）を訓練し、高速な中解像度（intermediate-resolution）スキャンを、材料が歪み、焦げ、空洞化していく様子の高解像度（high-resolution）3D記録に変換した。工学シミュレーションはまだ更新されていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "X-rays与AI实时\n揭示隔热罩燃烧",
-          "body": "NASA等团队用X-ray micro-CT与AI实时观察隔热罩材料的分解过程。",
-          "mini_headline": "AI观察隔热罩燃烧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "隔热罩靠烧蚀来保护航天器，但研究人员通常只能看到前后（before-and-after）对比图。Artemis I出现了模拟未能预测的意外炭化和不均匀材料损耗。"
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "NASA与Lawrence Berkeley National Laboratory的Advanced Light Source合作改变了这一点。LBNL研究人员建造了一个可将样品加热至900℃的腔室，同时由X-ray micro-computed tomography（X射线显微断层成像）拍下材料分解时的3D图像。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "工程师在Kennedy Space Center处理Artemis II隔热罩。图片来源 - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V中的软木颗粒汽化成中空孔洞，而SLA-220则降解为排出高温气体的分叉微通道（micro-channels）。"
-              },
-              {
-                "t": "p",
-                "x": "为兼顾速度与分辨率，团队训练了一个Generative Adversarial Network（GAN），把快速的中等分辨率（intermediate-resolution）扫描转换为高分辨率（high-resolution）3D记录，呈现材料翘曲、炭化和掏空的过程。工程模拟尚未据此更新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "X-rays y AI muestran escudos\ntérmicos ardiendo en tiempo real",
-          "body": "NASA y Berkeley Lab unieron X-ray micro-CT y AI para ver en tiempo real cómo se degrada un escudo térmico.",
-          "mini_headline": "La AI observa arder escudos térmicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los escudos térmicos protegen las naves mediante ablación, pero los investigadores suelen ver solo imágenes del antes y el después (before-and-after). Artemis I mostró una carbonización inesperada y una pérdida desigual de material que las simulaciones no habían previsto."
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "Una colaboración entre NASA y la Advanced Light Source del Lawrence Berkeley National Laboratory cambió eso. Investigadores del LBNL construyeron una cámara que calienta muestras hasta 900℃ mientras la X-ray micro-computed tomography capta imágenes 3D del material a medida que se degrada."
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Ingenieros trabajan en el escudo térmico de Artemis II en el Kennedy Space Center. Crédito - NASA"
-              },
-              {
-                "t": "p",
-                "x": "Las partículas de corcho del SLA-561V se vaporizan y dejan huecos, mientras que el SLA-220 se degrada en microcanales ramificados (micro-channels) que expulsan gases calientes."
-              },
-              {
-                "t": "p",
-                "x": "Para equilibrar velocidad y resolución, el equipo entrenó una Generative Adversarial Network (GAN) que convierte escaneos rápidos de resolución intermedia (intermediate-resolution) en registros 3D de alta resolución (high-resolution) del material mientras se deformaba, se carbonizaba y se vaciaba. Las simulaciones de ingeniería aún no se han actualizado."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "X-rays·AI로 본\n열차폐재가 타는 순간",
-          "body": "NASA는 X-ray micro-CT와 AI로 열차폐재 붕괴를 실시간 관찰했다.",
-          "mini_headline": "AI가 본 열차폐재 연소",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "열차폐재는 스스로 깎여 나가는 삭마 방식으로 우주선을 보호하지만, 연구자들은 대개 전후(before-and-after) 사진만 볼 수 있었다. Artemis I에서는 시뮬레이션이 예측하지 못한 탄화와 고르지 않은 소재 손실이 나타났다."
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "NASA와 Lawrence Berkeley National Laboratory의 Advanced Light Source 간 협력이 이를 바꿨다. LBNL 연구진은 시료를 최대 900℃까지 가열하는 챔버를 만들었고, 그동안 X-ray micro-computed tomography(미세 컴퓨터단층촬영)가 분해되는 소재의 3D 이미지를 포착한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Kennedy Space Center에서 Artemis II 열차폐재 작업을 하는 엔지니어들. 출처 - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V 속 코르크 입자는 기화해 빈 공동이 되고, SLA-220은 뜨거운 가스를 내보내는 가지 모양 미세 통로(micro-channels)로 분해된다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 속도와 해상도 사이 균형을 맞추려고 Generative Adversarial Network(GAN)를 학습시켜, 빠른 중간 해상도(intermediate-resolution) 스캔을 소재가 뒤틀리고 그을리고 속이 비어 가는 과정의 고해상도(high-resolution) 3D 기록으로 바꿨다. 공학 시뮬레이션은 아직 갱신되지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "X-raysとAIで見る\n耐熱材が燃える瞬間",
-          "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
-          "mini_headline": "AIが見る耐熱材の燃焼",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "耐熱シールドはアブレーションによって宇宙船を守るが、研究者が目にできるのは通常、前後（before-and-after）の画像だけだ。Artemis Iでは、シミュレーションが予測していなかった炭化と不均一な材料損失が見られた。"
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "NASAとLawrence Berkeley National LaboratoryのAdvanced Light Sourceの協力がこれを変えた。LBNLの研究者は試料を最大900℃まで加熱するチャンバーを作り、その間にX-ray micro-computed tomography（X線マイクロCT）が分解していく材料の3D画像を捉える。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Kennedy Space CenterでArtemis IIの耐熱シールドの作業をするエンジニアたち。クレジット - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V中のコルク粒子は気化して空洞となり、SLA-220は高温ガスを逃がす枝分かれした微細流路（micro-channels）へと劣化する。"
-              },
-              {
-                "t": "p",
-                "x": "速度と解像度のバランスを取るため、チームはGenerative Adversarial Network（GAN）を訓練し、高速な中解像度（intermediate-resolution）スキャンを、材料が歪み、焦げ、空洞化していく様子の高解像度（high-resolution）3D記録に変換した。工学シミュレーションはまだ更新されていない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "X-rays与AI实时\n揭示隔热罩燃烧",
-          "body": "NASA等团队用X-ray micro-CT与AI实时观察隔热罩材料的分解过程。",
-          "mini_headline": "AI观察隔热罩燃烧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "隔热罩靠烧蚀来保护航天器，但研究人员通常只能看到前后（before-and-after）对比图。Artemis I出现了模拟未能预测的意外炭化和不均匀材料损耗。"
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "NASA与Lawrence Berkeley National Laboratory的Advanced Light Source合作改变了这一点。LBNL研究人员建造了一个可将样品加热至900℃的腔室，同时由X-ray micro-computed tomography（X射线显微断层成像）拍下材料分解时的3D图像。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "工程师在Kennedy Space Center处理Artemis II隔热罩。图片来源 - NASA"
-              },
-              {
-                "t": "p",
-                "x": "SLA-561V中的软木颗粒汽化成中空孔洞，而SLA-220则降解为排出高温气体的分叉微通道（micro-channels）。"
-              },
-              {
-                "t": "p",
-                "x": "为兼顾速度与分辨率，团队训练了一个Generative Adversarial Network（GAN），把快速的中等分辨率（intermediate-resolution）扫描转换为高分辨率（high-resolution）3D记录，呈现材料翘曲、炭化和掏空的过程。工程模拟尚未据此更新。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "X-rays y AI muestran escudos\ntérmicos ardiendo en tiempo real",
-          "body": "NASA y Berkeley Lab unieron X-ray micro-CT y AI para ver en tiempo real cómo se degrada un escudo térmico.",
-          "mini_headline": "La AI observa arder escudos térmicos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Los escudos térmicos protegen las naves mediante ablación, pero los investigadores suelen ver solo imágenes del antes y el después (before-and-after). Artemis I mostró una carbonización inesperada y una pérdida desigual de material que las simulaciones no habían previsto."
-              },
-              {
-                "t": "video",
-                "yt": "04rSPGwMLlM"
-              },
-              {
-                "t": "p",
-                "x": "Una colaboración entre NASA y la Advanced Light Source del Lawrence Berkeley National Laboratory cambió eso. Investigadores del LBNL construyeron una cámara que calienta muestras hasta 900℃ mientras la X-ray micro-computed tomography capta imágenes 3D del material a medida que se degrada."
-              },
-              {
-                "t": "img",
-                "src": "https://www.universetoday.com/article_images/1440x785px_20260410-heat_shield_assembly_20261001_110003.jpg",
-                "cap": "Ingenieros trabajan en el escudo térmico de Artemis II en el Kennedy Space Center. Crédito - NASA"
-              },
-              {
-                "t": "p",
-                "x": "Las partículas de corcho del SLA-561V se vaporizan y dejan huecos, mientras que el SLA-220 se degrada en microcanales ramificados (micro-channels) que expulsan gases calientes."
-              },
-              {
-                "t": "p",
-                "x": "Para equilibrar velocidad y resolución, el equipo entrenó una Generative Adversarial Network (GAN) que convierte escaneos rápidos de resolución intermedia (intermediate-resolution) en registros 3D de alta resolución (high-resolution) del material mientras se deformaba, se carbonizaba y se vaciaba. Las simulaciones de ingeniería aún no se han actualizado."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "AI 에이전트가\n말로 X-ray 스캔한다",
+     "body": "미세전자 X-ray 스캔을 말로 시키면 에이전트 AI가 다음 단계를 거든다.",
+     "mini_headline": "X-ray 스캔 맡는 AI 에이전트",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "과학계는 인공지능(AI)을 일종의 현미경처럼 점점 더 많이 써 왔다. 이제 새 흐름이 시작됐다. 간단한 자연어 요청만 받고도 과학자가 다음에 할 일을 정하도록 돕는 에이전트형 AI다."
+       },
+       {
+        "t": "p",
+        "x": "DOE 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진이 SYNAPS-I 프로젝트에서 이 기능을 시연했다. DOE Genesis Mission에 속한 SYNAPS-I는 로런스 버클리 국립연구소(Lawrence Berkeley National Laboratory)가 이끈다."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "CNM 소속 과학자 Tao Zhou가 APS의 Hard X-ray Nanoprobe 빔라인에 시료를 넣는다. 사진: Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "\"코드를 작성하거나 기술적 명령어를 입력하는 대신 연구자가 AI와 대화하면, AI가 데이터 수집과 처리, 분석을 자동으로 맡는다.\" Argonne 계산과학자 Ming Du의 말이다."
+       },
+       {
+        "t": "p",
+        "x": "과학자는 \"이 영역을 고해상도로 매핑해\"처럼 원하는 바를 말하면 된다. 에이전트는 PtychoFM 모델이 실시간으로 재구성한 이미지를 읽고 관심 영역을 찾는다. 사람의 승인은 위험도가 높은 작업에만 구한다. 이미지별 특징 분할은 Meta의 SAM3가 맡는다."
+       },
+       {
+        "t": "p",
+        "x": "26-ID 빔라인 시험에서 에이전트는 집적회로 속 두 영역의 경계면을 찾으라는 지시를 받고 소자 깊숙한 곳의 정확한 지점까지 파고들었다. 자율주행 현미경에 한 발 다가선 셈이다."
+       }
+      ]
+     }
     },
-    {
-      "id": "autonomous-ai-dermatology-appointments-study",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
-      "body": "8,391명 연구에서 AI는 16개월간 진료 8,500건 넘게 비울 여력을 보였다.",
-      "mini_headline": "AI, 피부과 진료 여력 확보",
-      "tool": "Science",
-      "source": "Medical Xpress",
-      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
-          },
-          {
-            "t": "p",
-            "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
-          },
-          {
-            "t": "p",
-            "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
-          },
-          {
-            "t": "p",
-            "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
-          },
-          {
-            "t": "p",
-            "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Autonomous AI could free\nthousands of dermatology slots",
-          "body": "In a real-world study of 8,391 patients, autonomous AI could free over 8,500 dermatology appointments in 16 months.",
-          "mini_headline": "AI frees dermatology slots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "A real-world study of 8,391 patients, presented at the EADV Congress 2026, found that autonomous AI could free enough capacity for more than 8,500 additional face-to-face dermatology appointments across two U.K. hospitals over 16 months."
-              },
-              {
-                "t": "p",
-                "x": "A CE-marked Class III AI medical device classified smartphone images of skin lesions, autonomously discharging benign cases and referring higher-risk ones for teledermatologist review. The AI discharged 31% and 25% of patients at the two hospitals without clinician review."
-              },
-              {
-                "t": "p",
-                "x": "The pathway was estimated to save 2,851 hours of clinician time, about a 62% gain in capacity, and cut biopsy rates to 27% from 43%."
-              },
-              {
-                "t": "p",
-                "x": "In a national dataset, sensitivity exceeded 98% for invasive melanoma, SCC and BCC. Six false negatives were found through post-market surveillance, with no adverse outcomes identified. \"Deploying an AI system safely isn't a one-off exercise,\" said lead author Dr. Lucy Thomas."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
-          "body": "8,391명 연구에서 AI는 16개월간 진료 8,500건 넘게 비울 여력을 보였다.",
-          "mini_headline": "AI, 피부과 진료 여력 확보",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "EADV Congress 2026에서 발표된 실제 환경(real-world) 연구는 환자 8,391명을 대상으로 했다. 16개월 동안 U.K. 병원 두 곳에서 자율 AI는 대면(face-to-face) 피부과 진료를 8,500건 넘게 더 받을 수 있는 여력을 만들어 냈다."
-              },
-              {
-                "t": "p",
-                "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류했다. 양성이면 스스로 퇴원 처리하고, 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. 두 병원에서 AI가 임상의 검토 없이 퇴원 처리한 환자는 각각 31%와 25%였다."
-              },
-              {
-                "t": "p",
-                "x": "이 진료 경로로 임상의 시간 2,851시간을 아끼고 진료 역량은 약 62% 늘었으며, 생검 비율은 43%에서 27%로 낮아진 것으로 추산됐다."
-              },
-              {
-                "t": "p",
-                "x": "전국 데이터셋에서 침윤성 흑색종과 SCC, BCC 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서는 위음성 여섯 건이 나왔지만 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "自律型AI、皮膚科の\n予約枠を数千件空けうる",
-          "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
-          "mini_headline": "AIが皮膚科の予約枠を空ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "EADV Congress 2026で発表された患者8,391人の実臨床（real-world）研究によると、自律型AIはU.K.の病院二つで16カ月にわたり、対面（face-to-face）の皮膚科診察を8,500件以上追加できるだけの余力を生み出しうる。"
-              },
-              {
-                "t": "p",
-                "x": "CE-marked（CEマーク取得）のClass III AI医療機器がスマートフォンで撮影した皮膚病変の画像を分類し、良性例は自律的に退院させ、高リスク（higher-risk）例は遠隔皮膚科医の確認に回した。AIは二つの病院で、それぞれ患者の31%と25%を臨床医の確認なしに退院させた。"
-              },
-              {
-                "t": "p",
-                "x": "この経路により臨床医の時間を2,851時間節約し、診療能力を約62%高め、生検率を43%から27%に下げたと推定された。"
-              },
-              {
-                "t": "p",
-                "x": "全国データセットでは、浸潤性黒色腫、SCC、BCCに対する感度が98%を超えた。市販後（post-market）調査で偽陰性が六件見つかったが、有害な転帰は確認されなかった。筆頭著者のDr. Lucy Thomasは「AIシステムを安全に導入するのは一度きり（one-off）の作業ではない」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "自主AI或为皮肤科\n腾出数千个预约",
-          "body": "一项涉及8,391名患者的研究显示，自主AI可在16个月内腾出逾8,500个皮肤科预约。",
-          "mini_headline": "AI为皮肤科腾出预约",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "一项在EADV Congress 2026上发表、涉及8,391名患者的真实世界（real-world）研究发现，在16个月里，自主AI可为两家U.K.医院腾出足够产能，新增逾8,500次面对面（face-to-face）皮肤科门诊。"
-              },
-              {
-                "t": "p",
-                "x": "一款带CE-marked认证的Class III AI医疗器械对智能手机拍摄的皮损图像进行分类，自主让良性病例出院，并将风险较高（higher-risk）的病例转交远程皮肤科医生审核。在两家医院，AI分别在无临床医生审核的情况下让31%和25%的患者出院。"
-              },
-              {
-                "t": "p",
-                "x": "据估算，这一路径节省了2,851小时临床医生时间，产能提升约62%，活检率从43%降至27%。"
-              },
-              {
-                "t": "p",
-                "x": "在一个全国数据集中，对浸润性黑色素瘤、SCC和BCC的敏感度超过98%。上市后（post-market）监测发现六例假阴性，未发现不良结局。第一作者Dr. Lucy Thomas说：“安全部署AI系统不是一次性（one-off）的工作。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI autónoma podría liberar\nmiles de citas de dermatología",
-          "body": "En un estudio con 8,391 pacientes, la AI autónoma podría liberar más de 8,500 citas dermatológicas en 16 meses.",
-          "mini_headline": "La AI libera citas de dermatología",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio en condiciones reales (real-world) con 8,391 pacientes, presentado en el EADV Congress 2026, halló que la AI autónoma podría liberar capacidad suficiente para más de 8,500 consultas dermatológicas presenciales (face-to-face) adicionales en dos hospitales de U.K. a lo largo de 16 meses."
-              },
-              {
-                "t": "p",
-                "x": "Un dispositivo médico de AI Class III con marcado CE (CE-marked) clasificó imágenes de lesiones cutáneas tomadas con smartphone, dio de alta de forma autónoma los casos benignos y derivó los de mayor riesgo (higher-risk) a revisión por teledermatólogos. La AI dio de alta al 31% y al 25% de los pacientes en los dos hospitales sin revisión de un clínico."
-              },
-              {
-                "t": "p",
-                "x": "Se estimó que la vía ahorró 2,851 horas de tiempo clínico, un aumento de capacidad de alrededor del 62%, y redujo la tasa de biopsias del 43% al 27%."
-              },
-              {
-                "t": "p",
-                "x": "En un conjunto de datos nacional, la sensibilidad superó el 98% para melanoma invasivo, SCC y BCC. La vigilancia poscomercialización (post-market) detectó seis falsos negativos, sin resultados adversos identificados. \"Desplegar un sistema de AI de forma segura no es un ejercicio puntual (one-off)\", dijo la autora principal, Dr. Lucy Thomas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "자율 AI, 피부과 진료\n수천 건 확보할 수도",
-          "body": "8,391명 연구에서 AI가 16개월간 진료 8,500건 넘게 비울 수 있었다.",
-          "mini_headline": "AI, 피부과 진료 여력 확보",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "EADV Congress 2026에서 발표된 환자 8,391명 대상 실제 환경(real-world) 연구에 따르면, 자율 AI는 16개월 동안 U.K. 병원 두 곳에서 대면(face-to-face) 피부과 진료를 8,500건 넘게 추가할 수 있는 여력을 만들어 낼 수 있었다."
-              },
-              {
-                "t": "p",
-                "x": "CE-marked Class III AI 의료기기가 스마트폰으로 찍은 피부 병변 사진을 분류해, 양성 사례는 자율적으로 퇴원 처리하고 위험이 더 높은(higher-risk) 사례는 원격 피부과 전문의 검토로 넘겼다. AI는 두 병원에서 각각 환자의 31%와 25%를 임상의 검토 없이 퇴원 처리했다."
-              },
-              {
-                "t": "p",
-                "x": "이 진료 경로는 임상의 시간 2,851시간을 아끼고 진료 역량을 약 62% 늘리며, 생검 비율을 43%에서 27%로 낮춘 것으로 추산됐다."
-              },
-              {
-                "t": "p",
-                "x": "전국 데이터셋에서 침윤성 흑색종, SCC, BCC에 대한 민감도는 98%를 넘었다. 시판 후(post-market) 감시에서 위음성 여섯 건이 발견됐으나 확인된 부작용은 없었다. 주저자 Dr. Lucy Thomas는 \"AI 시스템을 안전하게 배치하는 일은 일회성(one-off) 작업이 아니다\"라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "自律型AI、皮膚科の\n予約枠を数千件空けうる",
-          "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
-          "mini_headline": "AIが皮膚科の予約枠を空ける",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "EADV Congress 2026で発表された患者8,391人の実臨床（real-world）研究によると、自律型AIはU.K.の病院二つで16カ月にわたり、対面（face-to-face）の皮膚科診察を8,500件以上追加できるだけの余力を生み出しうる。"
-              },
-              {
-                "t": "p",
-                "x": "CE-marked（CEマーク取得）のClass III AI医療機器がスマートフォンで撮影した皮膚病変の画像を分類し、良性例は自律的に退院させ、高リスク（higher-risk）例は遠隔皮膚科医の確認に回した。AIは二つの病院で、それぞれ患者の31%と25%を臨床医の確認なしに退院させた。"
-              },
-              {
-                "t": "p",
-                "x": "この経路により臨床医の時間を2,851時間節約し、診療能力を約62%高め、生検率を43%から27%に下げたと推定された。"
-              },
-              {
-                "t": "p",
-                "x": "全国データセットでは、浸潤性黒色腫、SCC、BCCに対する感度が98%を超えた。市販後（post-market）調査で偽陰性が六件見つかったが、有害な転帰は確認されなかった。筆頭著者のDr. Lucy Thomasは「AIシステムを安全に導入するのは一度きり（one-off）の作業ではない」と語った。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "自主AI或为皮肤科\n腾出数千个预约",
-          "body": "一项涉及8,391名患者的研究显示，自主AI可在16个月内腾出逾8,500个皮肤科预约。",
-          "mini_headline": "AI为皮肤科腾出预约",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "一项在EADV Congress 2026上发表、涉及8,391名患者的真实世界（real-world）研究发现，在16个月里，自主AI可为两家U.K.医院腾出足够产能，新增逾8,500次面对面（face-to-face）皮肤科门诊。"
-              },
-              {
-                "t": "p",
-                "x": "一款带CE-marked认证的Class III AI医疗器械对智能手机拍摄的皮损图像进行分类，自主让良性病例出院，并将风险较高（higher-risk）的病例转交远程皮肤科医生审核。在两家医院，AI分别在无临床医生审核的情况下让31%和25%的患者出院。"
-              },
-              {
-                "t": "p",
-                "x": "据估算，这一路径节省了2,851小时临床医生时间，产能提升约62%，活检率从43%降至27%。"
-              },
-              {
-                "t": "p",
-                "x": "在一个全国数据集中，对浸润性黑色素瘤、SCC和BCC的敏感度超过98%。上市后（post-market）监测发现六例假阴性，未发现不良结局。第一作者Dr. Lucy Thomas说：“安全部署AI系统不是一次性（one-off）的工作。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI autónoma podría liberar\nmiles de citas de dermatología",
-          "body": "En un estudio con 8,391 pacientes, la AI autónoma podría liberar más de 8,500 citas dermatológicas en 16 meses.",
-          "mini_headline": "La AI libera citas de dermatología",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio en condiciones reales (real-world) con 8,391 pacientes, presentado en el EADV Congress 2026, halló que la AI autónoma podría liberar capacidad suficiente para más de 8,500 consultas dermatológicas presenciales (face-to-face) adicionales en dos hospitales de U.K. a lo largo de 16 meses."
-              },
-              {
-                "t": "p",
-                "x": "Un dispositivo médico de AI Class III con marcado CE (CE-marked) clasificó imágenes de lesiones cutáneas tomadas con smartphone, dio de alta de forma autónoma los casos benignos y derivó los de mayor riesgo (higher-risk) a revisión por teledermatólogos. La AI dio de alta al 31% y al 25% de los pacientes en los dos hospitales sin revisión de un clínico."
-              },
-              {
-                "t": "p",
-                "x": "Se estimó que la vía ahorró 2,851 horas de tiempo clínico, un aumento de capacidad de alrededor del 62%, y redujo la tasa de biopsias del 43% al 27%."
-              },
-              {
-                "t": "p",
-                "x": "En un conjunto de datos nacional, la sensibilidad superó el 98% para melanoma invasivo, SCC y BCC. La vigilancia poscomercialización (post-market) detectó seis falsos negativos, sin resultados adversos identificados. \"Desplegar un sistema de AI de forma segura no es un ejercicio puntual (one-off)\", dijo la autora principal, Dr. Lucy Thomas."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "AIエージェントが\n平易な言葉でX-ray走査",
+     "body": "エージェント型AIが言葉の指示で微細電子部品のX-ray走査を行い、次の手順選びも助ける。",
+     "mini_headline": "X-ray走査を担うAIエージェント",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "科学はこれまで、人工知能(AI)を一種の顕微鏡として使う場面を増やしてきた。いま新たな転換が進んでいる。簡単な自然言語の依頼を通じて、科学者が次に何をすべきか決めるのを助けるエージェント型AIである。"
+       },
+       {
+        "t": "p",
+        "x": "DOEのアルゴンヌ国立研究所(Argonne National Laboratory)の研究者らは、SYNAPS-Iプロジェクトの一環としてこの能力を実証した。同プロジェクトはDOEのGenesis Missionの一部で、ローレンス・バークレー国立研究所(Lawrence Berkeley National Laboratory)が主導する。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "APSのHard X-ray Nanoprobeビームラインに試料を装填するCNMの科学者Tao Zhou。提供:Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "「コードを書いたり技術的なコマンドを入力したりする代わりに、研究者はAIと会話できる。するとAIがデータの収集、処理、分析を自動で担う」と、Argonneの計算科学者Ming Duは述べた。"
+       },
+       {
+        "t": "p",
+        "x": "科学者は「この領域を高解像度でマッピングして」のように、望むことを言葉で伝えればよい。エージェントはPtychoFMモデルがリアルタイムで再構成した画像を解釈し、関心領域を探し、リスクの高い操作に限って人間の承認を求める。各画像の特徴はMetaのSAM3がセグメント化する。"
+       },
+       {
+        "t": "p",
+        "x": "26-IDビームラインでの試験では、エージェントは集積回路内の二つの領域の境界面を探すよう指示され、デバイスの深部から正しい地点までたどり着いた。自律走行する顕微鏡へ向けた一歩である。"
+       }
+      ]
+     }
     },
-    {
-      "id": "copenhagen-chatbots-knowledge-collapse-study",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 챗봇의 지식,\n검색보다 좁다",
-      "body": "155개 주제를 시험하니 챗봇 답의 다양성은 Google 검색에 크게 못 미쳤다.",
-      "mini_headline": "챗봇이 좁히는 지식",
-      "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
-          },
-          {
-            "t": "p",
-            "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
-          },
-          {
-            "t": "p",
-            "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI chatbots offer a narrow\nslice of knowledge, study warns",
-          "body": "Across 155 topics, chatbots gave significantly less diverse information than Google search, a Copenhagen study found.",
-          "mini_headline": "Chatbots narrow what we know",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "A study led by the Department of Computer Science (DIKU) at the University of Copenhagen finds that large language models give a significantly narrower range of information than a conventional web search. It will be presented at EMNLP 2026."
-              },
-              {
-                "t": "p",
-                "x": "The team tested 27 models on 155 topics with 200 prompt formulations each, producing around 70 million claims. Even the most diverse model, OpenAI's GPT-5, gave at least 18.7% less varied information than Google."
-              },
-              {
-                "t": "p",
-                "x": "\"People are to a large extent exposed to the same information over and over again,\" says first author Dustin Wright, now at Aalborg University."
-              },
-              {
-                "t": "p",
-                "x": "Models compress their training text and filter out less common patterns. If they increasingly train on AI-generated text, the range could narrow over generations, a risk the researchers call \"knowledge collapse.\" Senior author Isabelle Augenstein notes newer models are slightly more diverse, so it is not happening yet."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIチャットボットの\n知識は狭い、研究が警鐘",
-          "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
-          "mini_headline": "チャットボットが狭める知識",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "University of Copenhagenのコンピューターサイエンス学科（DIKU）が主導した研究によると、大規模言語モデルが示す情報の幅は、従来のウェブ検索よりかなり狭い。研究はEMNLP 2026で発表される。"
-              },
-              {
-                "t": "p",
-                "x": "チームは27のモデルを155のテーマでそれぞれ200通りのプロンプトを用いて検証し、約70百万件の主張を得た。最も多様なモデルであるOpenAIのGPT-5でさえ、情報の多様性はGoogleより少なくとも18.7%低かった。"
-              },
-              {
-                "t": "p",
-                "x": "「人々はかなりの程度、同じ情報に何度も繰り返しさらされている」と、現在Aalborg Universityに所属する筆頭著者のDustin Wrightは言う。"
-              },
-              {
-                "t": "p",
-                "x": "モデルは学習テキストを圧縮し、あまり一般的でないパターンを取り除く。AI-generatedテキストでの学習が増えれば、世代を重ねるごとに幅が狭まりうる。研究者はこのリスクを「知識の崩壊」と呼ぶ。責任著者のIsabelle Augensteinは、新しいモデルほどわずかに多様性が高いため、まだそれは起きていないと指摘する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "研究警告AI聊天机器人\n提供的知识面偏窄",
-          "body": "Copenhagen研究发现，155个主题中聊天机器人的信息远不如Google搜索多样。",
-          "mini_headline": "聊天机器人收窄知识面",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "由University of Copenhagen计算机科学系（DIKU）牵头的研究发现，大语言模型提供的信息范围明显比常规网络搜索窄。该研究将在EMNLP 2026上发表。"
-              },
-              {
-                "t": "p",
-                "x": "团队在155个主题上测试了27个模型，每个主题使用200种提示表述，共产生约70百万条陈述。即便是最多样的模型OpenAI的GPT-5，其信息多样性也比Google低至少18.7%。"
-              },
-              {
-                "t": "p",
-                "x": "现任职于Aalborg University的第一作者Dustin Wright表示：“人们在很大程度上一再接触同样的信息。”"
-              },
-              {
-                "t": "p",
-                "x": "模型会压缩训练文本，并过滤掉不太常见的模式。如果模型越来越多地用AI-generated文本训练，信息范围可能随代际收窄，研究人员称这一风险为“知识坍塌”。资深作者Isabelle Augenstein指出，较新的模型多样性略高，因此这种情况尚未发生。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los chatbots de AI dan una\nvisión estrecha del saber",
-          "body": "Un estudio de Copenhagen halló que en 155 temas los chatbots dan información mucho menos diversa que Google.",
-          "mini_headline": "Los chatbots estrechan el saber",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio dirigido por el Departamento de Ciencias de la Computación (DIKU) de la University of Copenhagen concluye que los grandes modelos de lenguaje ofrecen un abanico de información mucho más estrecho que una búsqueda web convencional. Se presentará en EMNLP 2026."
-              },
-              {
-                "t": "p",
-                "x": "El equipo probó 27 modelos en 155 temas con 200 formulaciones de prompt cada uno, lo que generó unos 70 millones de afirmaciones. Incluso el modelo más diverso, GPT-5 de OpenAI, ofreció al menos un 18.7% menos de variedad informativa que Google."
-              },
-              {
-                "t": "p",
-                "x": "\"La gente está expuesta en gran medida a la misma información una y otra vez\", afirma el primer autor, Dustin Wright, ahora en Aalborg University."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos comprimen su texto de entrenamiento y filtran los patrones menos comunes. Si se entrenan cada vez más con texto AI-generated, el abanico podría estrecharse con cada generación, un riesgo que los investigadores llaman \"colapso del conocimiento\". La autora sénior Isabelle Augenstein señala que los modelos más nuevos son algo más diversos, así que eso aún no ocurre."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 챗봇의 지식,\n검색보다 좁다",
-          "body": "155개 주제를 시험하니 챗봇 답의 다양성은 Google 검색에 크게 못 미쳤다.",
-          "mini_headline": "챗봇이 좁히는 지식",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "대규모 언어 모델이 내놓는 정보는 일반 웹 검색보다 폭이 크게 좁다. 코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구의 결론이다. 논문은 EMNLP 2026에서 발표된다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 27개 모델에 155개 주제를 묻고, 주제마다 프롬프트 표현을 200가지로 바꿔 가며 약 7000만 개의 주장을 모았다. 가장 다양한 정보를 낸 OpenAI의 GPT-5도 Google보다 최소 18.7% 덜 다양했다."
-              },
-              {
-                "t": "p",
-                "x": "현재 Aalborg University에 있는 제1저자 Dustin Wright는 \"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "모델은 학습 텍스트를 압축하는 과정에서 드문 패턴을 걸러낸다. AI-generated 텍스트로 학습하는 일이 잦아지면 정보의 폭은 세대를 거치며 좁아질 수 있다. 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 다만 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해진 만큼 아직 그런 일이 벌어지지는 않는다고 짚는다."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ja": {
-          "headline": "AIチャットボットの\n知識は狭い、研究が警鐘",
-          "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
-          "mini_headline": "チャットボットが狭める知識",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "University of Copenhagenのコンピューターサイエンス学科（DIKU）が主導した研究によると、大規模言語モデルが示す情報の幅は、従来のウェブ検索よりかなり狭い。研究はEMNLP 2026で発表される。"
-              },
-              {
-                "t": "p",
-                "x": "チームは27のモデルを155のテーマでそれぞれ200通りのプロンプトを用いて検証し、約70百万件の主張を得た。最も多様なモデルであるOpenAIのGPT-5でさえ、情報の多様性はGoogleより少なくとも18.7%低かった。"
-              },
-              {
-                "t": "p",
-                "x": "「人々はかなりの程度、同じ情報に何度も繰り返しさらされている」と、現在Aalborg Universityに所属する筆頭著者のDustin Wrightは言う。"
-              },
-              {
-                "t": "p",
-                "x": "モデルは学習テキストを圧縮し、あまり一般的でないパターンを取り除く。AI-generatedテキストでの学習が増えれば、世代を重ねるごとに幅が狭まりうる。研究者はこのリスクを「知識の崩壊」と呼ぶ。責任著者のIsabelle Augensteinは、新しいモデルほどわずかに多様性が高いため、まだそれは起きていないと指摘する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "研究警告AI聊天机器人\n提供的知识面偏窄",
-          "body": "Copenhagen研究发现，155个主题中聊天机器人的信息远不如Google搜索多样。",
-          "mini_headline": "聊天机器人收窄知识面",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "由University of Copenhagen计算机科学系（DIKU）牵头的研究发现，大语言模型提供的信息范围明显比常规网络搜索窄。该研究将在EMNLP 2026上发表。"
-              },
-              {
-                "t": "p",
-                "x": "团队在155个主题上测试了27个模型，每个主题使用200种提示表述，共产生约70百万条陈述。即便是最多样的模型OpenAI的GPT-5，其信息多样性也比Google低至少18.7%。"
-              },
-              {
-                "t": "p",
-                "x": "现任职于Aalborg University的第一作者Dustin Wright表示：“人们在很大程度上一再接触同样的信息。”"
-              },
-              {
-                "t": "p",
-                "x": "模型会压缩训练文本，并过滤掉不太常见的模式。如果模型越来越多地用AI-generated文本训练，信息范围可能随代际收窄，研究人员称这一风险为“知识坍塌”。资深作者Isabelle Augenstein指出，较新的模型多样性略高，因此这种情况尚未发生。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los chatbots de AI dan una\nvisión estrecha del saber",
-          "body": "Un estudio de Copenhagen halló que en 155 temas los chatbots dan información mucho menos diversa que Google.",
-          "mini_headline": "Los chatbots estrechan el saber",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Un estudio dirigido por el Departamento de Ciencias de la Computación (DIKU) de la University of Copenhagen concluye que los grandes modelos de lenguaje ofrecen un abanico de información mucho más estrecho que una búsqueda web convencional. Se presentará en EMNLP 2026."
-              },
-              {
-                "t": "p",
-                "x": "El equipo probó 27 modelos en 155 temas con 200 formulaciones de prompt cada uno, lo que generó unos 70 millones de afirmaciones. Incluso el modelo más diverso, GPT-5 de OpenAI, ofreció al menos un 18.7% menos de variedad informativa que Google."
-              },
-              {
-                "t": "p",
-                "x": "\"La gente está expuesta en gran medida a la misma información una y otra vez\", afirma el primer autor, Dustin Wright, ahora en Aalborg University."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos comprimen su texto de entrenamiento y filtran los patrones menos comunes. Si se entrenan cada vez más con texto AI-generated, el abanico podría estrecharse con cada generación, un riesgo que los investigadores llaman \"colapso del conocimiento\". La autora sénior Isabelle Augenstein señala que los modelos más nuevos son algo más diversos, así que eso aún no ocurre."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 챗봇의 지식,\n검색보다 좁다",
-          "body": "155개 주제에서 챗봇은 Google 검색보다 정보 다양성이 크게 낮았다.",
-          "mini_headline": "챗봇이 좁히는 지식",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "코펜하겐대학교(University of Copenhagen) 컴퓨터과학과(DIKU)가 이끈 연구에 따르면 대규모 언어 모델이 내놓는 정보의 폭은 일반 웹 검색보다 크게 좁다. 이 연구는 EMNLP 2026에서 발표된다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 27개 모델을 155개 주제에 대해 주제마다 200가지 프롬프트 표현으로 시험해 약 7000만 개의 주장을 얻었다. 가장 다양한 정보를 낸 OpenAI의 GPT-5 역시 Google보다 최소 18.7% 덜 다양한 정보를 내놓았다."
-              },
-              {
-                "t": "p",
-                "x": "\"사람들은 상당 부분 같은 정보에 거듭 노출되고 있다\"고 현재 Aalborg University에 있는 제1저자 Dustin Wright는 말한다."
-              },
-              {
-                "t": "p",
-                "x": "모델은 학습 텍스트를 압축하면서 드문 패턴을 걸러낸다. 모델이 AI-generated 텍스트로 학습하는 일이 늘어나면 정보의 폭이 세대를 거치며 좁아질 수 있고, 연구진은 이 위험을 \"지식 붕괴(knowledge collapse)\"라 부른다. 교신저자 Isabelle Augenstein은 최신 모델이 조금 더 다양해졌으므로 아직 그런 일이 일어나고 있지는 않다고 짚는다."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "AI智能体听懂日常语言\n即可执行X-ray扫描",
+     "body": "智能体AI让科学家用日常语言指挥微电子器件的X-ray扫描，并协助选择下一步。",
+     "mini_headline": "AI智能体操控X-ray扫描",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "科学界越来越多地把人工智能(AI)当作一种显微镜来使用。如今新的转变正在发生：智能体AI能通过简单的自然语言请求，帮助科学家决定下一步做什么。"
+       },
+       {
+        "t": "p",
+        "x": "在DOE下属的阿贡国家实验室(Argonne National Laboratory)，研究人员在SYNAPS-I项目中演示了这一能力。该项目隶属DOE的Genesis Mission，由劳伦斯伯克利国家实验室(Lawrence Berkeley National Laboratory)牵头。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "CNM科学家Tao Zhou在APS的Hard X-ray Nanoprobe光束线装载样品。图片来源：Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "“研究人员不必编写代码或输入技术指令，只需与AI对话，AI便会自动完成数据采集、处理和分析，”Argonne计算科学家Ming Du说。"
+       },
+       {
+        "t": "p",
+        "x": "科学家可以直接描述需求，例如“以高分辨率绘制这个区域”。智能体会解读PtychoFM模型实时重建的图像，搜索感兴趣的区域，并且只在高风险操作时请求人工批准。Meta的SAM3负责分割每张图像中的特征。"
+       },
+       {
+        "t": "p",
+        "x": "在26-ID光束线的测试中，智能体接到指令，要在集成电路中找到两个区域之间的界面，结果从器件深处一路导航到正确位置——这是迈向自动驾驶显微镜的一步。"
+       }
+      ]
+     }
     },
-    {
-      "id": "stanford-ai-benchmarks-measurement-audit",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
-      "body": "Stanford-led 연구에서 AI 벤치마크 56개는 결과가 자주 엇갈렸다.",
-      "mini_headline": "AI 벤치마크, 잘못 재나",
-      "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-            "cap": "출처: Unsplash/CC0 Public Domain"
-          },
-          {
-            "t": "p",
-            "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
-          },
-          {
-            "t": "p",
-            "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
-          },
-          {
-            "t": "p",
-            "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "The tests that grade AI\nmay be getting it wrong",
-          "body": "A Stanford-led study of 56 AI benchmarks found they don't always measure what they claim to, and often disagree.",
-          "mini_headline": "AI benchmarks may mismeasure",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Benchmarks score AI models on everything from reasoning to safety, and billions of dollars and policy decisions ride on them. In two new studies, Stanford researchers and collaborators asked whether these tests measure what they claim to."
-              },
-              {
-                "t": "p",
-                "x": "Borrowing tools from measurement science and psychometrics, they tested 56 widely used benchmarks and found that benchmarks do not always measure what they claim, and that ones claiming to measure the same thing often disagree."
-              },
-              {
-                "t": "p",
-                "x": "The bias benchmark BBQ, for instance, ends up measuring something closer to reading comprehension, says Sanmi Koyejo."
-              },
-              {
-                "t": "p",
-                "x": "A second paper shows safety benchmarks translated from English break in two ways: guardrails can weaken, and the translated test becomes a shakier instrument. \"Whoever holds the measuring stick steers the ship,\" Koyejo says."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
-          "body": "Stanford-led 연구에서 AI 벤치마크 56개는 결과가 자주 엇갈렸다.",
-          "mini_headline": "AI 벤치마크, 잘못 재나",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면에 점수를 매긴다. 수십억 달러와 정책 결정이 그 결과에 걸려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 재는지 따졌다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했다. 벤치마크는 내세운 것을 늘 재지는 않았고, 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈렸다."
-              },
-              {
-                "t": "p",
-                "x": "Sanmi Koyejo는 편향 벤치마크 BBQ를 예로 든다. 그의 설명으로는 BBQ가 재는 것은 결국 독해력에 더 가깝다."
-              },
-              {
-                "t": "p",
-                "x": "두 번째 논문에 따르면 영어에서 번역한 안전성 벤치마크는 두 갈래로 무너진다. 가드레일이 약해질 수 있고, 번역된 시험 자체도 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIを採点するテストが\n間違っているかもしれない",
-          "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
-          "mini_headline": "AIベンチマークは測り違いか",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "ベンチマークは推論から安全性までAIモデルのあらゆる面を採点し、数十億ドルの資金や政策判断がその結果に左右される。Stanfordの研究者と共同研究者は二つの新しい研究で、こうしたテストが主張どおりのものを測っているのかを問うた。"
-              },
-              {
-                "t": "p",
-                "x": "測定科学と心理測定学の手法を借りて広く使われる56のベンチマークを検証したところ、ベンチマークは主張するものを必ずしも測っておらず、同じものを測るとするベンチマーク同士でも結果が食い違うことが多いと分かった。"
-              },
-              {
-                "t": "p",
-                "x": "たとえばバイアスのベンチマークであるBBQは、結局は読解力に近いものを測っているとSanmi Koyejoは言う。"
-              },
-              {
-                "t": "p",
-                "x": "二つ目の論文は、英語から翻訳された安全性ベンチマークが二つの形で崩れることを示す。ガードレールが弱まりうること、そして翻訳されたテストが測定器として不安定になることだ。「物差しを握る者が船の舵を取る」とKoyejoは言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "给AI打分的测试\n可能本身就有问题",
-          "body": "Stanford-led研究发现，56个AI基准测试并不总能测出声称的能力，且常相互矛盾。",
-          "mini_headline": "AI基准测试或测不准",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "从推理到安全，基准测试为AI模型的方方面面打分，数十亿美元资金和政策决定都取决于此。在两项新研究中，Stanford研究人员及合作者追问：这些测试是否真在测量它们声称测量的东西。"
-              },
-              {
-                "t": "p",
-                "x": "他们借用测量科学与心理测量学的工具，检验了56个广泛使用的基准测试，发现基准测试并不总能测量其声称的内容，而声称测量同一事物的基准测试之间也常常结果不一。"
-              },
-              {
-                "t": "p",
-                "x": "Sanmi Koyejo说，例如偏见基准测试BBQ，最终测到的更接近阅读理解能力。"
-              },
-              {
-                "t": "p",
-                "x": "第二篇论文显示，从英语翻译过来的安全基准测试会在两方面失灵：护栏可能被削弱，翻译后的测试也会成为更不可靠的测量工具。Koyejo说：“谁握着量尺，谁就掌舵。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los tests que evalúan la AI\npodrían estar fallando",
-          "body": "Un estudio Stanford-led de 56 benchmarks de AI halló que no siempre miden lo que dicen y que a menudo discrepan.",
-          "mini_headline": "Los benchmarks de AI podrían medir mal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Los benchmarks puntúan a los modelos de AI en todo, desde el razonamiento hasta la seguridad, y de ellos dependen miles de millones de dólares y decisiones políticas. En dos nuevos estudios, investigadores de Stanford y sus colaboradores se preguntaron si estas pruebas miden lo que dicen medir."
-              },
-              {
-                "t": "p",
-                "x": "Con herramientas de la ciencia de la medición y la psicometría, evaluaron 56 benchmarks de uso extendido y hallaron que no siempre miden lo que afirman y que los que dicen medir lo mismo a menudo discrepan."
-              },
-              {
-                "t": "p",
-                "x": "El benchmark de sesgo BBQ, por ejemplo, acaba midiendo algo más cercano a la comprensión lectora, afirma Sanmi Koyejo."
-              },
-              {
-                "t": "p",
-                "x": "Un segundo artículo muestra que los benchmarks de seguridad traducidos del inglés fallan de dos maneras: las salvaguardas pueden debilitarse y la prueba traducida se vuelve un instrumento menos fiable. \"Quien sostiene la vara de medir dirige el barco\", dice Koyejo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI를 채점하는 시험이\n틀렸을 수도 있다",
-          "body": "Stanford-led 연구서 AI 벤치마크 56개가 자주 엇갈린 결과를 냈다.",
-          "mini_headline": "AI 벤치마크, 잘못 재나",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "출처: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "벤치마크는 추론부터 안전성까지 AI 모델의 모든 면을 채점하며, 수십억 달러와 정책 결정이 그 결과에 달려 있다. Stanford 연구진과 협력자들은 새 연구 두 편에서 이 시험들이 내세운 것을 실제로 측정하는지 물었다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 측정 과학과 심리측정학의 도구를 빌려 널리 쓰이는 벤치마크 56개를 검증했고, 벤치마크가 내세운 것을 늘 측정하지는 않으며 같은 것을 잰다는 벤치마크끼리도 결과가 자주 엇갈린다는 사실을 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "Sanmi Koyejo는 예컨대 편향 벤치마크 BBQ가 결국 독해력에 더 가까운 것을 측정한다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "두 번째 논문은 영어에서 번역한 안전성 벤치마크가 두 가지 방식으로 무너진다는 점을 보여 준다. 가드레일이 약해질 수 있고, 번역된 시험은 더 불안정한 측정 도구가 된다. Koyejo는 \"측정 막대를 쥔 사람이 배의 키를 잡는다\"고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIを採点するテストが\n間違っているかもしれない",
-          "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
-          "mini_headline": "AIベンチマークは測り違いか",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "クレジット: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "ベンチマークは推論から安全性までAIモデルのあらゆる面を採点し、数十億ドルの資金や政策判断がその結果に左右される。Stanfordの研究者と共同研究者は二つの新しい研究で、こうしたテストが主張どおりのものを測っているのかを問うた。"
-              },
-              {
-                "t": "p",
-                "x": "測定科学と心理測定学の手法を借りて広く使われる56のベンチマークを検証したところ、ベンチマークは主張するものを必ずしも測っておらず、同じものを測るとするベンチマーク同士でも結果が食い違うことが多いと分かった。"
-              },
-              {
-                "t": "p",
-                "x": "たとえばバイアスのベンチマークであるBBQは、結局は読解力に近いものを測っているとSanmi Koyejoは言う。"
-              },
-              {
-                "t": "p",
-                "x": "二つ目の論文は、英語から翻訳された安全性ベンチマークが二つの形で崩れることを示す。ガードレールが弱まりうること、そして翻訳されたテストが測定器として不安定になることだ。「物差しを握る者が船の舵を取る」とKoyejoは言う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "给AI打分的测试\n可能本身就有问题",
-          "body": "Stanford-led研究发现，56个AI基准测试并不总能测出声称的能力，且常相互矛盾。",
-          "mini_headline": "AI基准测试或测不准",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "图片来源：Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "从推理到安全，基准测试为AI模型的方方面面打分，数十亿美元资金和政策决定都取决于此。在两项新研究中，Stanford研究人员及合作者追问：这些测试是否真在测量它们声称测量的东西。"
-              },
-              {
-                "t": "p",
-                "x": "他们借用测量科学与心理测量学的工具，检验了56个广泛使用的基准测试，发现基准测试并不总能测量其声称的内容，而声称测量同一事物的基准测试之间也常常结果不一。"
-              },
-              {
-                "t": "p",
-                "x": "Sanmi Koyejo说，例如偏见基准测试BBQ，最终测到的更接近阅读理解能力。"
-              },
-              {
-                "t": "p",
-                "x": "第二篇论文显示，从英语翻译过来的安全基准测试会在两方面失灵：护栏可能被削弱，翻译后的测试也会成为更不可靠的测量工具。Koyejo说：“谁握着量尺，谁就掌舵。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los tests que evalúan la AI\npodrían estar fallando",
-          "body": "Un estudio Stanford-led de 56 benchmarks de AI halló que no siempre miden lo que dicen y que a menudo discrepan.",
-          "mini_headline": "Los benchmarks de AI podrían medir mal",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-                "cap": "Crédito: Unsplash/CC0 Public Domain"
-              },
-              {
-                "t": "p",
-                "x": "Los benchmarks puntúan a los modelos de AI en todo, desde el razonamiento hasta la seguridad, y de ellos dependen miles de millones de dólares y decisiones políticas. En dos nuevos estudios, investigadores de Stanford y sus colaboradores se preguntaron si estas pruebas miden lo que dicen medir."
-              },
-              {
-                "t": "p",
-                "x": "Con herramientas de la ciencia de la medición y la psicometría, evaluaron 56 benchmarks de uso extendido y hallaron que no siempre miden lo que afirman y que los que dicen medir lo mismo a menudo discrepan."
-              },
-              {
-                "t": "p",
-                "x": "El benchmark de sesgo BBQ, por ejemplo, acaba midiendo algo más cercano a la comprensión lectora, afirma Sanmi Koyejo."
-              },
-              {
-                "t": "p",
-                "x": "Un segundo artículo muestra que los benchmarks de seguridad traducidos del inglés fallan de dos maneras: las salvaguardas pueden debilitarse y la prueba traducida se vuelve un instrumento menos fiable. \"Quien sostiene la vara de medir dirige el barco\", dice Koyejo."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "Agente de AI hace escaneos X-ray\ncon pedidos en lenguaje llano",
+     "body": "Una AI agéntica permite dirigir en lenguaje llano escaneos X-ray de microelectrónica y ayuda a decidir qué sigue.",
+     "mini_headline": "Un agente de AI guía escaneos X-ray",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "La ciencia ha recurrido cada vez más a la inteligencia artificial (AI) como una especie de microscopio. Ahora está en marcha un nuevo cambio: una AI agéntica que ayuda a los científicos a decidir qué hacer a continuación mediante peticiones sencillas en lenguaje natural."
+       },
+       {
+        "t": "p",
+        "x": "En el Argonne National Laboratory del DOE, los investigadores demostraron esta capacidad dentro del proyecto SYNAPS-I, que forma parte de la Genesis Mission del DOE y está dirigido por el Lawrence Berkeley National Laboratory."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "Tao Zhou, científico del CNM, coloca una muestra en la línea de luz Hard X-ray Nanoprobe del APS. Crédito: Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "\"En lugar de escribir código o introducir comandos técnicos, los investigadores pueden hablar con la AI, que se encarga automáticamente de la recogida, el procesamiento y el análisis de los datos\", afirmó Ming Du, científico computacional de Argonne."
+       },
+       {
+        "t": "p",
+        "x": "Los científicos pueden describir lo que quieren, por ejemplo \"cartografía esta zona en alta resolución\". El agente interpreta las imágenes que el modelo PtychoFM reconstruye en tiempo real, busca regiones de interés y solo pide aprobación humana para las operaciones de mayor riesgo. SAM3, de Meta, segmenta los rasgos de cada imagen."
+       },
+       {
+        "t": "p",
+        "x": "En una prueba en la línea de luz 26-ID, se pidió al agente que localizara la interfaz entre dos regiones de un circuito integrado, y este navegó desde lo más profundo del dispositivo hasta el punto correcto, un paso hacia los microscopios autónomos."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "AI 에이전트가\n말로 X-ray 스캔한다",
+     "body": "말로 미세전자 X-ray 스캔을 지시하면 에이전트 AI가 다음 단계를 돕는다.",
+     "mini_headline": "X-ray 스캔 맡는 AI 에이전트",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "과학계는 인공지능(AI)을 일종의 현미경처럼 점점 더 많이 활용해 왔다. 이제 새로운 변화가 시작됐다. 간단한 자연어 요청만으로 과학자가 다음에 할 일을 정하도록 돕는 에이전트형 AI다."
+       },
+       {
+        "t": "p",
+        "x": "DOE 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진은 SYNAPS-I 프로젝트의 일환으로 이 기능을 시연했다. SYNAPS-I는 DOE의 Genesis Mission에 속하며 로런스 버클리 국립연구소(Lawrence Berkeley National Laboratory)가 이끈다."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "CNM 소속 과학자 Tao Zhou가 APS의 Hard X-ray Nanoprobe 빔라인에 시료를 넣고 있다. 사진: Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "\"코드를 작성하거나 기술적 명령어를 입력하는 대신 연구자가 AI와 대화하면, AI가 데이터 수집과 처리, 분석을 자동으로 맡는다\"고 Argonne의 계산과학자 Ming Du는 말했다."
+       },
+       {
+        "t": "p",
+        "x": "과학자는 \"이 영역을 고해상도로 매핑해\"처럼 원하는 바를 말로 설명하면 된다. 에이전트는 PtychoFM 모델이 실시간으로 재구성한 이미지를 해석하고 관심 영역을 찾으며, 위험도가 높은 작업에만 사람의 승인을 요청한다. 각 이미지의 특징은 Meta의 SAM3가 분할한다."
+       },
+       {
+        "t": "p",
+        "x": "26-ID 빔라인에서 진행한 시험에서 에이전트는 집적회로 속 두 영역의 경계면을 찾으라는 지시를 받고, 소자 깊숙한 곳에서 정확한 지점까지 찾아갔다. 자율주행 현미경을 향한 한 걸음이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIエージェントが\n平易な言葉でX-ray走査",
+     "body": "エージェント型AIが言葉の指示で微細電子部品のX-ray走査を行い、次の手順選びも助ける。",
+     "mini_headline": "X-ray走査を担うAIエージェント",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "科学はこれまで、人工知能(AI)を一種の顕微鏡として使う場面を増やしてきた。いま新たな転換が進んでいる。簡単な自然言語の依頼を通じて、科学者が次に何をすべきか決めるのを助けるエージェント型AIである。"
+       },
+       {
+        "t": "p",
+        "x": "DOEのアルゴンヌ国立研究所(Argonne National Laboratory)の研究者らは、SYNAPS-Iプロジェクトの一環としてこの能力を実証した。同プロジェクトはDOEのGenesis Missionの一部で、ローレンス・バークレー国立研究所(Lawrence Berkeley National Laboratory)が主導する。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "APSのHard X-ray Nanoprobeビームラインに試料を装填するCNMの科学者Tao Zhou。提供:Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "「コードを書いたり技術的なコマンドを入力したりする代わりに、研究者はAIと会話できる。するとAIがデータの収集、処理、分析を自動で担う」と、Argonneの計算科学者Ming Duは述べた。"
+       },
+       {
+        "t": "p",
+        "x": "科学者は「この領域を高解像度でマッピングして」のように、望むことを言葉で伝えればよい。エージェントはPtychoFMモデルがリアルタイムで再構成した画像を解釈し、関心領域を探し、リスクの高い操作に限って人間の承認を求める。各画像の特徴はMetaのSAM3がセグメント化する。"
+       },
+       {
+        "t": "p",
+        "x": "26-IDビームラインでの試験では、エージェントは集積回路内の二つの領域の境界面を探すよう指示され、デバイスの深部から正しい地点までたどり着いた。自律走行する顕微鏡へ向けた一歩である。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI智能体听懂日常语言\n即可执行X-ray扫描",
+     "body": "智能体AI让科学家用日常语言指挥微电子器件的X-ray扫描，并协助选择下一步。",
+     "mini_headline": "AI智能体操控X-ray扫描",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "科学界越来越多地把人工智能(AI)当作一种显微镜来使用。如今新的转变正在发生：智能体AI能通过简单的自然语言请求，帮助科学家决定下一步做什么。"
+       },
+       {
+        "t": "p",
+        "x": "在DOE下属的阿贡国家实验室(Argonne National Laboratory)，研究人员在SYNAPS-I项目中演示了这一能力。该项目隶属DOE的Genesis Mission，由劳伦斯伯克利国家实验室(Lawrence Berkeley National Laboratory)牵头。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "CNM科学家Tao Zhou在APS的Hard X-ray Nanoprobe光束线装载样品。图片来源：Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "“研究人员不必编写代码或输入技术指令，只需与AI对话，AI便会自动完成数据采集、处理和分析，”Argonne计算科学家Ming Du说。"
+       },
+       {
+        "t": "p",
+        "x": "科学家可以直接描述需求，例如“以高分辨率绘制这个区域”。智能体会解读PtychoFM模型实时重建的图像，搜索感兴趣的区域，并且只在高风险操作时请求人工批准。Meta的SAM3负责分割每张图像中的特征。"
+       },
+       {
+        "t": "p",
+        "x": "在26-ID光束线的测试中，智能体接到指令，要在集成电路中找到两个区域之间的界面，结果从器件深处一路导航到正确位置——这是迈向自动驾驶显微镜的一步。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Agente de AI hace escaneos X-ray\ncon pedidos en lenguaje llano",
+     "body": "Una AI agéntica permite dirigir en lenguaje llano escaneos X-ray de microelectrónica y ayuda a decidir qué sigue.",
+     "mini_headline": "Un agente de AI guía escaneos X-ray",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "La ciencia ha recurrido cada vez más a la inteligencia artificial (AI) como una especie de microscopio. Ahora está en marcha un nuevo cambio: una AI agéntica que ayuda a los científicos a decidir qué hacer a continuación mediante peticiones sencillas en lenguaje natural."
+       },
+       {
+        "t": "p",
+        "x": "En el Argonne National Laboratory del DOE, los investigadores demostraron esta capacidad dentro del proyecto SYNAPS-I, que forma parte de la Genesis Mission del DOE y está dirigido por el Lawrence Berkeley National Laboratory."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+        "cap": "Tao Zhou, científico del CNM, coloca una muestra en la línea de luz Hard X-ray Nanoprobe del APS. Crédito: Jason Creps/Argonne National Laboratory"
+       },
+       {
+        "t": "video",
+        "yt": "Be89VHHNJLM"
+       },
+       {
+        "t": "p",
+        "x": "\"En lugar de escribir código o introducir comandos técnicos, los investigadores pueden hablar con la AI, que se encarga automáticamente de la recogida, el procesamiento y el análisis de los datos\", afirmó Ming Du, científico computacional de Argonne."
+       },
+       {
+        "t": "p",
+        "x": "Los científicos pueden describir lo que quieren, por ejemplo \"cartografía esta zona en alta resolución\". El agente interpreta las imágenes que el modelo PtychoFM reconstruye en tiempo real, busca regiones de interés y solo pide aprobación humana para las operaciones de mayor riesgo. SAM3, de Meta, segmenta los rasgos de cada imagen."
+       },
+       {
+        "t": "p",
+        "x": "En una prueba en la línea de luz 26-ID, se pidió al agente que localizara la interfaz entre dos regiones de un circuito integrado, y este navegó desde lo más profundo del dispositivo hasta el punto correcto, un paso hacia los microscopios autónomos."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "science-flashflood-forecast",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "이미지 생성 AI가 다듬은\nU.S. 돌발홍수 예보",
+   "body": "AI 이미지 생성 기법으로 U.S. 돌발홍수 예보가 나아진다는 연구가 나왔다.",
+   "mini_headline": "이미지 생성 AI로 돌발홍수 예보",
+   "tool": "Science",
+   "source": "Phys.org",
+   "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+     },
+     {
+      "t": "p",
+      "x": "돌발홍수는 몇 분이면 한 지역사회를 쑥대밭으로 만든다. National Weather Service에 따르면 전체 홍수의 약 85%가 이런 재해이고, 전 세계에서 해마다 수천 명이 목숨을 잃는다."
+     },
+     {
+      "t": "p",
+      "x": "Penn State 연구진이 참여한 연구팀은 AI 이미지 생성의 바탕 기법으로 시간 단위 돌발홍수 위험을 예측해 Water Resources Research에 발표했다."
+     },
+     {
+      "t": "p",
+      "x": "\"돌발홍수의 정점이 시간 단위로 나타난다는 사실은 널리 알려져 있다\"고 교신저자 Chaopeng Shen은 말했다. 모델은 확산(diffusion) 방식을 쓴다. 깨끗한 데이터에 노이즈를 섞고 모델이 그 노이즈를 걷어내는 법을 익힌다. 최근 수위계 관측값은 재학습 없이 넣을 수 있다. 이 과정을 인페인팅(inpainting)이라 부른다."
+     },
+     {
+      "t": "img",
+      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+      "cap": "각 하천 유역의 Nash-Sutcliffe Efficiency(NSE) 지도. 밝은 점일수록 예측이 정확하다. 출처: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+     },
+     {
+      "t": "p",
+      "x": "연구진은 U.S. 516개 하천 유역의 시간별 유량 자료(1990–2003)로 학습하고 2009–2014 자료로 시험했다. 이 방식은 고유량 시기까지 포함해 기존 최고 수준의 시간 단위 딥러닝(deep-learning) 모델을 대체로 앞섰다. 거꾸로 돌리면 특정 유량을 낳은 강우량도 추정한다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Image-generation AI sharpens\nU.S. flash flood forecasts",
+     "body": "Methods behind AI image creation improve flash flood forecasts across U.S. river basins, a new study reports.",
+     "mini_headline": "AI sharpens flash flood forecasts",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "A flash flood can devastate a community in minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, according to the National Weather Service."
+       },
+       {
+        "t": "p",
+        "x": "A team including Penn State researchers applied the techniques behind AI image generation to predict hourly flash flood risk, detailing the work in Water Resources Research."
+       },
+       {
+        "t": "p",
+        "x": "\"It's widely understood that the peaks of flash floods occur at an hourly scale,\" said corresponding author Chaopeng Shen. The model uses diffusion: noise is added to clean data and the model learns to remove it. Recent gauge observations can be injected without retraining, a process known as inpainting."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "Map of each river basin's Nash-Sutcliffe Efficiency (NSE); lighter dots indicate more accurate predictions. Credit: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "Trained on hourly streamflow from 516 U.S. river basins (1990–2003) and tested on 2009–2014, the approach generally outperformed the best existing hourly deep-learning models, including during high flows. It can also run in reverse, estimating the rainfall that produced a given streamflow."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "이미지 생성 AI가 다듬은\nU.S. 돌발홍수 예보",
+     "body": "AI 이미지 생성 기법으로 U.S. 돌발홍수 예보가 나아진다는 연구가 나왔다.",
+     "mini_headline": "이미지 생성 AI로 돌발홍수 예보",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "돌발홍수는 몇 분이면 한 지역사회를 쑥대밭으로 만든다. National Weather Service에 따르면 전체 홍수의 약 85%가 이런 재해이고, 전 세계에서 해마다 수천 명이 목숨을 잃는다."
+       },
+       {
+        "t": "p",
+        "x": "Penn State 연구진이 참여한 연구팀은 AI 이미지 생성의 바탕 기법으로 시간 단위 돌발홍수 위험을 예측해 Water Resources Research에 발표했다."
+       },
+       {
+        "t": "p",
+        "x": "\"돌발홍수의 정점이 시간 단위로 나타난다는 사실은 널리 알려져 있다\"고 교신저자 Chaopeng Shen은 말했다. 모델은 확산(diffusion) 방식을 쓴다. 깨끗한 데이터에 노이즈를 섞고 모델이 그 노이즈를 걷어내는 법을 익힌다. 최근 수위계 관측값은 재학습 없이 넣을 수 있다. 이 과정을 인페인팅(inpainting)이라 부른다."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "각 하천 유역의 Nash-Sutcliffe Efficiency(NSE) 지도. 밝은 점일수록 예측이 정확하다. 출처: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "연구진은 U.S. 516개 하천 유역의 시간별 유량 자료(1990–2003)로 학습하고 2009–2014 자료로 시험했다. 이 방식은 고유량 시기까지 포함해 기존 최고 수준의 시간 단위 딥러닝(deep-learning) 모델을 대체로 앞섰다. 거꾸로 돌리면 특정 유량을 낳은 강우량도 추정한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "画像生成AIが\nU.S.の鉄砲水予報を改善",
+     "body": "AIの画像生成技術が、U.S.各地の河川流域で鉄砲水予報を改善すると新研究が報告した。",
+     "mini_headline": "画像生成AIで鉄砲水予報",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "鉄砲水は数分で地域社会に壊滅的な被害を与えうる。National Weather Serviceによると、こうした災害は洪水全体の約85%を占め、世界で毎年数千人の死者を出している。"
+       },
+       {
+        "t": "p",
+        "x": "Penn Stateの研究者を含むチームは、AI画像生成を支える技術を応用して時間単位の鉄砲水リスクを予測し、その成果をWater Resources Researchで詳しく報告した。"
+       },
+       {
+        "t": "p",
+        "x": "「鉄砲水のピークが時間単位で生じることは広く知られている」と責任著者のChaopeng Shenは述べた。モデルは拡散(diffusion)を用いる。きれいなデータにノイズを加え、モデルがそれを取り除く方法を学ぶ仕組みだ。最新の水位計の観測値は再学習なしで注入でき、この処理はインペインティング(inpainting)と呼ばれる。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "各河川流域のNash-Sutcliffe Efficiency(NSE)の地図。色の薄い点ほど予測が正確であることを示す。提供:Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "U.S.の516の河川流域における時間ごとの流量(1990–2003)で学習し、2009–2014のデータで検証したところ、この手法は高流量時も含め、既存の最良の時間単位ディープラーニング(deep-learning)モデルをおおむね上回った。逆向きに動かし、ある流量をもたらした降雨量を推定することもできる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "图像生成AI\n让U.S.山洪预报更精准",
+     "body": "新研究显示，AI图像生成背后的方法提升了U.S.各河流流域的山洪预报。",
+     "mini_headline": "图像生成AI改进山洪预报",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "山洪可在几分钟内重创一个社区。据National Weather Service统计，这类灾害约占洪水总数的85%，每年在全球造成数千人死亡。"
+       },
+       {
+        "t": "p",
+        "x": "一支包括Penn State研究人员在内的团队，将AI图像生成背后的技术用于预测逐小时的山洪风险，相关成果发表于Water Resources Research。"
+       },
+       {
+        "t": "p",
+        "x": "“人们普遍认为，山洪峰值出现在小时尺度上，”通讯作者Chaopeng Shen说。该模型采用扩散(diffusion)方法：先向干净数据中加入噪声，再让模型学会去除噪声。最新的水文站观测数据无需重新训练即可注入，这一过程称为修补(inpainting)。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "各河流流域的Nash-Sutcliffe Efficiency(NSE)地图；颜色越浅的点表示预测越准确。图片来源：Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "该方法以U.S. 516个河流流域的逐小时径流数据(1990–2003)训练，并用2009–2014的数据测试，总体优于现有最好的小时尺度深度学习(deep-learning)模型，高流量时期也不例外。它还能反向运行，推算产生某一径流的降雨量。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La AI que genera imágenes afina\nla previsión de riadas en U.S.",
+     "body": "Un nuevo estudio indica que los métodos de la AI que crea imágenes mejoran la previsión de riadas en cuencas de U.S.",
+     "mini_headline": "AI de imágenes para prever riadas",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Una riada puede devastar una comunidad en minutos. Según el National Weather Service, estos desastres representan aproximadamente el 85% de las inundaciones y causan miles de muertes al año en todo el mundo."
+       },
+       {
+        "t": "p",
+        "x": "Un equipo que incluye a investigadores de Penn State aplicó las técnicas en las que se basa la generación de imágenes con AI para predecir hora a hora el riesgo de riadas, y describió el trabajo en Water Resources Research."
+       },
+       {
+        "t": "p",
+        "x": "\"Se sabe ampliamente que los picos de las riadas se producen a escala horaria\", afirmó el autor de correspondencia, Chaopeng Shen. El modelo usa difusión: se añade ruido a datos limpios y el modelo aprende a eliminarlo. Las observaciones recientes de los medidores pueden incorporarse sin reentrenar, un proceso conocido como inpainting."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "Mapa de la Nash-Sutcliffe Efficiency (NSE) de cada cuenca; los puntos más claros indican predicciones más precisas. Crédito: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "Entrenado con caudales horarios de 516 cuencas de U.S. (1990–2003) y evaluado con datos de 2009–2014, el método superó en general a los mejores modelos horarios de aprendizaje profundo (deep-learning) existentes, incluso con caudales altos. También puede funcionar a la inversa y estimar la lluvia que produjo un caudal determinado."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "이미지 생성 AI가 다듬은\nU.S. 돌발홍수 예보",
+     "body": "새 연구에 따르면 AI 이미지 생성 기법이 U.S. 돌발홍수 예보를 개선한다.",
+     "mini_headline": "이미지 생성 AI로 돌발홍수 예보",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "돌발홍수는 몇 분 만에 한 지역사회를 쑥대밭으로 만들 수 있다. National Weather Service에 따르면 이런 재해는 전체 홍수의 약 85%를 차지하며, 전 세계에서 해마다 수천 명의 목숨을 앗아간다."
+       },
+       {
+        "t": "p",
+        "x": "Penn State 연구진이 포함된 연구팀은 AI 이미지 생성의 바탕이 되는 기법을 적용해 시간 단위 돌발홍수 위험을 예측했고, 이 성과를 Water Resources Research에 실었다."
+       },
+       {
+        "t": "p",
+        "x": "\"돌발홍수의 정점이 시간 단위로 나타난다는 사실은 널리 알려져 있다\"고 교신저자 Chaopeng Shen은 말했다. 이 모델은 확산(diffusion) 방식을 쓴다. 깨끗한 데이터에 노이즈를 더한 뒤 모델이 이를 제거하는 법을 배우는 방식이다. 최근 수위계 관측값은 재학습 없이 주입할 수 있는데, 이 과정을 인페인팅(inpainting)이라 부른다."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "각 하천 유역의 Nash-Sutcliffe Efficiency(NSE) 지도. 밝은 점일수록 예측이 정확하다. 출처: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "연구진은 U.S. 516개 하천 유역의 시간별 유량 자료(1990–2003)로 학습하고 2009–2014 자료로 시험했다. 이 방식은 고유량 시기를 포함해 대체로 기존 최고 수준의 시간 단위 딥러닝(deep-learning) 모델보다 뛰어났다. 거꾸로 돌려 특정 유량을 만들어 낸 강우량을 추정할 수도 있다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "画像生成AIが\nU.S.の鉄砲水予報を改善",
+     "body": "AIの画像生成技術が、U.S.各地の河川流域で鉄砲水予報を改善すると新研究が報告した。",
+     "mini_headline": "画像生成AIで鉄砲水予報",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "鉄砲水は数分で地域社会に壊滅的な被害を与えうる。National Weather Serviceによると、こうした災害は洪水全体の約85%を占め、世界で毎年数千人の死者を出している。"
+       },
+       {
+        "t": "p",
+        "x": "Penn Stateの研究者を含むチームは、AI画像生成を支える技術を応用して時間単位の鉄砲水リスクを予測し、その成果をWater Resources Researchで詳しく報告した。"
+       },
+       {
+        "t": "p",
+        "x": "「鉄砲水のピークが時間単位で生じることは広く知られている」と責任著者のChaopeng Shenは述べた。モデルは拡散(diffusion)を用いる。きれいなデータにノイズを加え、モデルがそれを取り除く方法を学ぶ仕組みだ。最新の水位計の観測値は再学習なしで注入でき、この処理はインペインティング(inpainting)と呼ばれる。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "各河川流域のNash-Sutcliffe Efficiency(NSE)の地図。色の薄い点ほど予測が正確であることを示す。提供:Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "U.S.の516の河川流域における時間ごとの流量(1990–2003)で学習し、2009–2014のデータで検証したところ、この手法は高流量時も含め、既存の最良の時間単位ディープラーニング(deep-learning)モデルをおおむね上回った。逆向きに動かし、ある流量をもたらした降雨量を推定することもできる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "图像生成AI\n让U.S.山洪预报更精准",
+     "body": "新研究显示，AI图像生成背后的方法提升了U.S.各河流流域的山洪预报。",
+     "mini_headline": "图像生成AI改进山洪预报",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "山洪可在几分钟内重创一个社区。据National Weather Service统计，这类灾害约占洪水总数的85%，每年在全球造成数千人死亡。"
+       },
+       {
+        "t": "p",
+        "x": "一支包括Penn State研究人员在内的团队，将AI图像生成背后的技术用于预测逐小时的山洪风险，相关成果发表于Water Resources Research。"
+       },
+       {
+        "t": "p",
+        "x": "“人们普遍认为，山洪峰值出现在小时尺度上，”通讯作者Chaopeng Shen说。该模型采用扩散(diffusion)方法：先向干净数据中加入噪声，再让模型学会去除噪声。最新的水文站观测数据无需重新训练即可注入，这一过程称为修补(inpainting)。"
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "各河流流域的Nash-Sutcliffe Efficiency(NSE)地图；颜色越浅的点表示预测越准确。图片来源：Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "该方法以U.S. 516个河流流域的逐小时径流数据(1990–2003)训练，并用2009–2014的数据测试，总体优于现有最好的小时尺度深度学习(deep-learning)模型，高流量时期也不例外。它还能反向运行，推算产生某一径流的降雨量。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La AI que genera imágenes afina\nla previsión de riadas en U.S.",
+     "body": "Un nuevo estudio indica que los métodos de la AI que crea imágenes mejoran la previsión de riadas en cuencas de U.S.",
+     "mini_headline": "AI de imágenes para prever riadas",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Una riada puede devastar una comunidad en minutos. Según el National Weather Service, estos desastres representan aproximadamente el 85% de las inundaciones y causan miles de muertes al año en todo el mundo."
+       },
+       {
+        "t": "p",
+        "x": "Un equipo que incluye a investigadores de Penn State aplicó las técnicas en las que se basa la generación de imágenes con AI para predecir hora a hora el riesgo de riadas, y describió el trabajo en Water Resources Research."
+       },
+       {
+        "t": "p",
+        "x": "\"Se sabe ampliamente que los picos de las riadas se producen a escala horaria\", afirmó el autor de correspondencia, Chaopeng Shen. El modelo usa difusión: se añade ruido a datos limpios y el modelo aprende a eliminarlo. Las observaciones recientes de los medidores pueden incorporarse sin reentrenar, un proceso conocido como inpainting."
+       },
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+        "cap": "Mapa de la Nash-Sutcliffe Efficiency (NSE) de cada cuenca; los puntos más claros indican predicciones más precisas. Crédito: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+       },
+       {
+        "t": "p",
+        "x": "Entrenado con caudales horarios de 516 cuencas de U.S. (1990–2003) y evaluado con datos de 2009–2014, el método superó en general a los mejores modelos horarios de aprendizaje profundo (deep-learning) existentes, incluso con caudales altos. También puede funcionar a la inversa y estimar la lluvia que produjo un caudal determinado."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "science-heart-transplant-rejection",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "AI가 생검 없이도\n심장이식 거부반응 잡을까",
+   "body": "몸이 기증 심장을 공격하는 시점을 AI가 심전도와 혈액검사로 알아챌 수 있다.",
+   "mini_headline": "AI로 이식 거부반응 포착",
+   "tool": "Science",
+   "source": "Medical Xpress",
+   "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+      "cap": "사진: Unsplash/CC0 Public Domain"
+     },
+     {
+      "t": "p",
+      "x": "인공지능이 심장 리듬 기록과 혈액검사를 분석하면 이식 환자의 몸이 기증 심장을 공격하기 시작하는 시점을 정확히 짚어낼 수 있다는 새 연구가 나왔다. 지금은 생검이 거부반응 진단의 표준이다."
+     },
+     {
+      "t": "p",
+      "x": "NYU Langone Health 연구진이 이끈 팀은 성인 심장이식 수혜자 2,357명의 EKG 기록 5,300건으로 AI 모델을 학습시켰다. 한 모델은 EKG 데이터만 썼다. 다른 모델은 EKGs에 거부반응 위험 예측에 흔히 쓰는 혈액검사 두 가지를 더했다."
+     },
+     {
+      "t": "p",
+      "x": "수혜자 38명의 시험군에서는 결합 모델이 더 나았다. 거부반응이 없는 환자의 94%를 정확히 가려냈다. 혈액검사 모델은 19명을 생검이 필요할 수 있는 환자로 잘못 분류했다."
+     },
+     {
+      "t": "p",
+      "x": "\"심전도에는 풍부한 생리 정보가 담겨 있어 탐지 정확도를 크게 높이는 데 활용할 수 있다\"고 책임저자 Lior Jankelson은 말했다. JHLT Open에 실린 이 연구는 이런 바이오마커와 EKGs를 한 AI 모델에 묶은 첫 사례다. 연구팀은 이어 여러 이식센터에서 모델을 시험할 계획이다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "AI may flag heart transplant\nrejection without biopsies",
+     "body": "By reading heart rhythm recordings and blood tests, AI may flag when the body starts attacking a donated heart.",
+     "mini_headline": "AI flags transplant rejection",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "Credit: Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests. The current gold standard for diagnosing rejection is a biopsy."
+       },
+       {
+        "t": "p",
+        "x": "Led by NYU Langone Health researchers, the team trained AI models on 5,300 EKG readings from 2,357 adult heart transplant recipients. One model used EKG data alone; another combined EKGs with two blood tests commonly used to predict rejection risk."
+       },
+       {
+        "t": "p",
+        "x": "In a test group of 38 recipients, the combined model performed better, correctly identifying 94% of patients who were not experiencing rejection. The blood-test model incorrectly flagged 19 patients as potentially needing a biopsy."
+       },
+       {
+        "t": "p",
+        "x": "\"Electrocardiograms contain an abundance of physiological information that can be used to substantially improve the accuracy of detection,\" said senior author Lior Jankelson. Published in JHLT Open, the study is the first to combine these biomarkers with EKGs in a single AI model. Next, the team plans to test it at several transplant centers."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "AI가 생검 없이도\n심장이식 거부반응 잡을까",
+     "body": "몸이 기증 심장을 공격하는 시점을 AI가 심전도와 혈액검사로 알아챌 수 있다.",
+     "mini_headline": "AI로 이식 거부반응 포착",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "사진: Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "인공지능이 심장 리듬 기록과 혈액검사를 분석하면 이식 환자의 몸이 기증 심장을 공격하기 시작하는 시점을 정확히 짚어낼 수 있다는 새 연구가 나왔다. 지금은 생검이 거부반응 진단의 표준이다."
+       },
+       {
+        "t": "p",
+        "x": "NYU Langone Health 연구진이 이끈 팀은 성인 심장이식 수혜자 2,357명의 EKG 기록 5,300건으로 AI 모델을 학습시켰다. 한 모델은 EKG 데이터만 썼다. 다른 모델은 EKGs에 거부반응 위험 예측에 흔히 쓰는 혈액검사 두 가지를 더했다."
+       },
+       {
+        "t": "p",
+        "x": "수혜자 38명의 시험군에서는 결합 모델이 더 나았다. 거부반응이 없는 환자의 94%를 정확히 가려냈다. 혈액검사 모델은 19명을 생검이 필요할 수 있는 환자로 잘못 분류했다."
+       },
+       {
+        "t": "p",
+        "x": "\"심전도에는 풍부한 생리 정보가 담겨 있어 탐지 정확도를 크게 높이는 데 활용할 수 있다\"고 책임저자 Lior Jankelson은 말했다. JHLT Open에 실린 이 연구는 이런 바이오마커와 EKGs를 한 AI 모델에 묶은 첫 사례다. 연구팀은 이어 여러 이식센터에서 모델을 시험할 계획이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIが生検なしで\n心臓移植の拒絶を察知か",
+     "body": "心拍の記録と血液検査を読み解き、体がドナー心臓を攻撃し始める兆しをAIが捉えうる。",
+     "mini_headline": "AIで移植拒絶を察知",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "提供:Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "心拍の記録と血液検査を分析することで、移植患者の体がドナー心臓を攻撃し始めたことを人工知能が正確に検知できる可能性があると、新たな研究が示した。現在、拒絶反応の診断におけるゴールドスタンダードは生検である。"
+       },
+       {
+        "t": "p",
+        "x": "NYU Langone Healthの研究者が率いるチームは、成人の心臓移植患者2,357人から得た5,300件のEKGでAIモデルを訓練した。一つのモデルはEKGデータのみを使い、もう一つはEKGsに、拒絶リスクの予測に広く使われる二つの血液検査を組み合わせた。"
+       },
+       {
+        "t": "p",
+        "x": "38人の検証群では、組み合わせモデルの方が成績がよく、拒絶反応のない患者の94%を正しく識別した。血液検査モデルは19人を、生検が必要な可能性があると誤って判定した。"
+       },
+       {
+        "t": "p",
+        "x": "「心電図には豊富な生理学的情報が含まれており、検出精度を大きく高めるのに活用できる」と、責任著者のLior Jankelsonは述べた。JHLT Openに掲載されたこの研究は、これらのバイオマーカーとEKGsを単一のAIモデルで組み合わせた初の例である。チームは次に、複数の移植施設でモデルを検証する計画だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI有望免活检\n识别心脏移植排斥",
+     "body": "AI通过解读心律记录和血液检测，或能发现身体何时开始攻击捐献的心脏。",
+     "mini_headline": "AI识别移植排斥",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "图片来源：Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "一项新研究表明，通过分析心律记录和血液检测，人工智能或能准确发现移植患者的身体何时开始攻击捐献的心脏。目前诊断排斥反应的金标准是活检。"
+       },
+       {
+        "t": "p",
+        "x": "由NYU Langone Health研究人员牵头的团队，用来自2,357名成年心脏移植受者的5,300份EKG记录训练AI模型。一个模型只使用EKG数据；另一个则把EKGs与两项常用于预测排斥风险的血液检测结合起来。"
+       },
+       {
+        "t": "p",
+        "x": "在由38名受者组成的测试组中，结合模型表现更好，正确识别了94%未发生排斥的患者。血液检测模型则把19名患者误判为可能需要活检。"
+       },
+       {
+        "t": "p",
+        "x": "“心电图包含大量生理信息，可用于大幅提高检测准确性，”资深作者Lior Jankelson说。该研究发表于JHLT Open，首次在单一AI模型中将这些生物标志物与EKGs结合。团队下一步计划在多家移植中心开展测试。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "AI podría detectar sin biopsias\nel rechazo a un corazón donado",
+     "body": "Con el ritmo cardíaco y análisis de sangre, la AI podría detectar si el cuerpo empieza a atacar un corazón donado.",
+     "mini_headline": "AI para detectar el rechazo de trasplantes",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "Crédito: Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "Al analizar registros del ritmo cardíaco y análisis de sangre, la inteligencia artificial podría detectar con precisión cuándo el cuerpo de un paciente trasplantado empieza a atacar un corazón donado, según sugiere un nuevo estudio. El método de referencia actual para diagnosticar el rechazo es la biopsia."
+       },
+       {
+        "t": "p",
+        "x": "El equipo, dirigido por investigadores de NYU Langone Health, entrenó modelos de AI con 5,300 lecturas de EKG de 2,357 receptores adultos de trasplante de corazón. Un modelo usó solo datos de EKG; otro combinó los EKGs con dos análisis de sangre que suelen emplearse para predecir el riesgo de rechazo."
+       },
+       {
+        "t": "p",
+        "x": "En un grupo de prueba de 38 receptores, el modelo combinado rindió mejor e identificó correctamente al 94% de los pacientes que no sufrían rechazo. El modelo basado en análisis de sangre señaló por error a 19 pacientes como posibles candidatos a biopsia."
+       },
+       {
+        "t": "p",
+        "x": "\"Los electrocardiogramas contienen abundante información fisiológica que puede usarse para mejorar sustancialmente la precisión de la detección\", afirmó el autor principal, Lior Jankelson. Publicado en JHLT Open, el estudio es el primero en combinar estos biomarcadores con EKGs en un único modelo de AI. A continuación, el equipo prevé probarlo en varios centros de trasplante."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "AI가 생검 없이도\n심장이식 거부반응 잡을까",
+     "body": "AI가 심전도와 혈액검사로 몸이 기증 심장을 공격하는 시점을 알아챌 수 있다.",
+     "mini_headline": "AI로 이식 거부반응 포착",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "사진: Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "새 연구에 따르면 인공지능이 심장 리듬 기록과 혈액검사를 분석해 이식 환자의 몸이 기증 심장을 공격하기 시작하는 시점을 정확히 짚어낼 수 있다. 현재 거부반응 진단의 표준은 생검이다."
+       },
+       {
+        "t": "p",
+        "x": "NYU Langone Health 연구진이 이끈 팀은 성인 심장이식 수혜자 2,357명의 EKG 기록 5,300건으로 AI 모델을 학습시켰다. 한 모델은 EKG 데이터만 썼고, 다른 모델은 EKGs에 거부반응 위험 예측에 흔히 쓰는 혈액검사 두 가지를 결합했다."
+       },
+       {
+        "t": "p",
+        "x": "수혜자 38명으로 이뤄진 시험군에서는 결합 모델의 성능이 더 좋아, 거부반응을 겪지 않는 환자의 94%를 정확히 가려냈다. 혈액검사 모델은 19명을 생검이 필요할 수 있는 환자로 잘못 분류했다."
+       },
+       {
+        "t": "p",
+        "x": "\"심전도에는 풍부한 생리 정보가 담겨 있어 탐지 정확도를 크게 높이는 데 활용할 수 있다\"고 책임저자 Lior Jankelson은 말했다. JHLT Open에 실린 이 연구는 이런 바이오마커와 EKGs를 하나의 AI 모델에 결합한 첫 사례다. 연구팀은 다음 단계로 여러 이식센터에서 모델을 시험할 계획이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIが生検なしで\n心臓移植の拒絶を察知か",
+     "body": "心拍の記録と血液検査を読み解き、体がドナー心臓を攻撃し始める兆しをAIが捉えうる。",
+     "mini_headline": "AIで移植拒絶を察知",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "提供:Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "心拍の記録と血液検査を分析することで、移植患者の体がドナー心臓を攻撃し始めたことを人工知能が正確に検知できる可能性があると、新たな研究が示した。現在、拒絶反応の診断におけるゴールドスタンダードは生検である。"
+       },
+       {
+        "t": "p",
+        "x": "NYU Langone Healthの研究者が率いるチームは、成人の心臓移植患者2,357人から得た5,300件のEKGでAIモデルを訓練した。一つのモデルはEKGデータのみを使い、もう一つはEKGsに、拒絶リスクの予測に広く使われる二つの血液検査を組み合わせた。"
+       },
+       {
+        "t": "p",
+        "x": "38人の検証群では、組み合わせモデルの方が成績がよく、拒絶反応のない患者の94%を正しく識別した。血液検査モデルは19人を、生検が必要な可能性があると誤って判定した。"
+       },
+       {
+        "t": "p",
+        "x": "「心電図には豊富な生理学的情報が含まれており、検出精度を大きく高めるのに活用できる」と、責任著者のLior Jankelsonは述べた。JHLT Openに掲載されたこの研究は、これらのバイオマーカーとEKGsを単一のAIモデルで組み合わせた初の例である。チームは次に、複数の移植施設でモデルを検証する計画だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI有望免活检\n识别心脏移植排斥",
+     "body": "AI通过解读心律记录和血液检测，或能发现身体何时开始攻击捐献的心脏。",
+     "mini_headline": "AI识别移植排斥",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "图片来源：Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "一项新研究表明，通过分析心律记录和血液检测，人工智能或能准确发现移植患者的身体何时开始攻击捐献的心脏。目前诊断排斥反应的金标准是活检。"
+       },
+       {
+        "t": "p",
+        "x": "由NYU Langone Health研究人员牵头的团队，用来自2,357名成年心脏移植受者的5,300份EKG记录训练AI模型。一个模型只使用EKG数据；另一个则把EKGs与两项常用于预测排斥风险的血液检测结合起来。"
+       },
+       {
+        "t": "p",
+        "x": "在由38名受者组成的测试组中，结合模型表现更好，正确识别了94%未发生排斥的患者。血液检测模型则把19名患者误判为可能需要活检。"
+       },
+       {
+        "t": "p",
+        "x": "“心电图包含大量生理信息，可用于大幅提高检测准确性，”资深作者Lior Jankelson说。该研究发表于JHLT Open，首次在单一AI模型中将这些生物标志物与EKGs结合。团队下一步计划在多家移植中心开展测试。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "AI podría detectar sin biopsias\nel rechazo a un corazón donado",
+     "body": "Con el ritmo cardíaco y análisis de sangre, la AI podría detectar si el cuerpo empieza a atacar un corazón donado.",
+     "mini_headline": "AI para detectar el rechazo de trasplantes",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+        "cap": "Crédito: Unsplash/CC0 Public Domain"
+       },
+       {
+        "t": "p",
+        "x": "Al analizar registros del ritmo cardíaco y análisis de sangre, la inteligencia artificial podría detectar con precisión cuándo el cuerpo de un paciente trasplantado empieza a atacar un corazón donado, según sugiere un nuevo estudio. El método de referencia actual para diagnosticar el rechazo es la biopsia."
+       },
+       {
+        "t": "p",
+        "x": "El equipo, dirigido por investigadores de NYU Langone Health, entrenó modelos de AI con 5,300 lecturas de EKG de 2,357 receptores adultos de trasplante de corazón. Un modelo usó solo datos de EKG; otro combinó los EKGs con dos análisis de sangre que suelen emplearse para predecir el riesgo de rechazo."
+       },
+       {
+        "t": "p",
+        "x": "En un grupo de prueba de 38 receptores, el modelo combinado rindió mejor e identificó correctamente al 94% de los pacientes que no sufrían rechazo. El modelo basado en análisis de sangre señaló por error a 19 pacientes como posibles candidatos a biopsia."
+       },
+       {
+        "t": "p",
+        "x": "\"Los electrocardiogramas contienen abundante información fisiológica que puede usarse para mejorar sustancialmente la precisión de la detección\", afirmó el autor principal, Lior Jankelson. Publicado en JHLT Open, el estudio es el primero en combinar estos biomarcadores con EKGs en un único modelo de AI. A continuación, el equipo prevé probarlo en varios centros de trasplante."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "science-earth-ai-public-health",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Earth AI 모델이\n공중보건 데이터 공백 메워",
+   "body": "Google PDFM 임베딩은 보건 사례 다섯 건에서 기존 입력에 맞먹거나 앞섰다.",
+   "mini_headline": "공중보건에 들어온 Earth AI",
+   "tool": "Science",
+   "source": "Google Research",
+   "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "공중보건 의사결정은 제때 나온 세밀한 데이터에 달렸다. 그런데 감시 체계는 여러 해씩 밀리는 보고, 국경에 갇힌 데이터, 데이터 부족에 자주 발목을 잡힌다."
+     },
+     {
+      "t": "p",
+      "x": "Google Research의 Earth AI Population Dynamics Foundation Model(PDFM)은 개인정보를 보호하는 검색 트렌드, 인구 이동, 건조환경 밀도, 환경 신호를 위치 임베딩으로 압축한다. 이 임베딩은 역학자가 쓰던 기존 모델에 그대로 꽂아 쓴다. 작업별 미세조정(fine-tuning) 없이도 성능은 기존 입력과 같거나 더 나았다."
+     },
+     {
+      "t": "img",
+      "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+      "cap": "여러 글로벌 보건 과제에 적용한 Google Earth AI의 PDFM 개요."
+     },
+     {
+      "t": "p",
+      "x": "파트너 기관과 함께한 사례연구 다섯 건으로 이를 검증했다. 국경을 넘나드는 MMR 백신 접종 모델은 변동의 16%가 아닌 22%를 설명했다. 심혈관 사망 나우캐스트는 인구조사 기반 모델과 대등했다. 멕시코 뎅기열 예측은 활성 전파 지자체의 최대 72%에서 좋아졌다. 산후우울증 위험 예측도 나아졌다. DRC의 여덟 주 콜레라 후보 목록은 18% 개선됐다."
+     },
+     {
+      "t": "p",
+      "x": "PDFM 임베딩은 Google Maps Platform의 Population Dynamics Insights로 Preview 단계에서 상용 제공된다. 일부 연구 용도라면 무료로 쓸 수 있다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Google's Earth AI model fills\npublic health data gaps",
+     "body": "Google's PDFM location embeddings matched or improved on conventional inputs in five public health case studies.",
+     "mini_headline": "Earth AI meets public health",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "Public health decisions rely on timely, granular data, but surveillance is often hindered by multi-year reporting lags, data siloed by borders, and data sparsity."
+       },
+       {
+        "t": "p",
+        "x": "Google Research's Earth AI Population Dynamics Foundation Model (PDFM) compresses privacy-preserving search trends, human mobility, built-environment density and environmental signals into location embeddings that plug into epidemiologists' existing models. Without task-specific fine-tuning, they matched or improved on conventional inputs."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "Overview of Google Earth AI's PDFM applied to a wide range of global health challenges."
+       },
+       {
+        "t": "p",
+        "x": "Five partner case studies tested it: cross-border MMR vaccination models explained 22% of variation instead of 16%; cardiovascular death nowcasts matched census-based models; dengue forecasts in Mexico improved in up to 72% of active transmission municipalities; postpartum depression risk prediction improved; and eight-week cholera shortlists in the DRC improved 18%."
+       },
+       {
+        "t": "p",
+        "x": "PDFM embeddings are commercially available in Preview as Population Dynamics Insights from Google Maps Platform, with no-cost access for select research uses."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Earth AI 모델이\n공중보건 데이터 공백 메워",
+     "body": "Google PDFM 임베딩은 보건 사례 다섯 건에서 기존 입력에 맞먹거나 앞섰다.",
+     "mini_headline": "공중보건에 들어온 Earth AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "공중보건 의사결정은 제때 나온 세밀한 데이터에 달렸다. 그런데 감시 체계는 여러 해씩 밀리는 보고, 국경에 갇힌 데이터, 데이터 부족에 자주 발목을 잡힌다."
+       },
+       {
+        "t": "p",
+        "x": "Google Research의 Earth AI Population Dynamics Foundation Model(PDFM)은 개인정보를 보호하는 검색 트렌드, 인구 이동, 건조환경 밀도, 환경 신호를 위치 임베딩으로 압축한다. 이 임베딩은 역학자가 쓰던 기존 모델에 그대로 꽂아 쓴다. 작업별 미세조정(fine-tuning) 없이도 성능은 기존 입력과 같거나 더 나았다."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "여러 글로벌 보건 과제에 적용한 Google Earth AI의 PDFM 개요."
+       },
+       {
+        "t": "p",
+        "x": "파트너 기관과 함께한 사례연구 다섯 건으로 이를 검증했다. 국경을 넘나드는 MMR 백신 접종 모델은 변동의 16%가 아닌 22%를 설명했다. 심혈관 사망 나우캐스트는 인구조사 기반 모델과 대등했다. 멕시코 뎅기열 예측은 활성 전파 지자체의 최대 72%에서 좋아졌다. 산후우울증 위험 예측도 나아졌다. DRC의 여덟 주 콜레라 후보 목록은 18% 개선됐다."
+       },
+       {
+        "t": "p",
+        "x": "PDFM 임베딩은 Google Maps Platform의 Population Dynamics Insights로 Preview 단계에서 상용 제공된다. 일부 연구 용도라면 무료로 쓸 수 있다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Earth AIモデルが\n公衆衛生データの空白を埋める",
+     "body": "GoogleのPDFM位置埋め込みは、五つの公衆衛生事例研究で従来入力と同等以上だった。",
+     "mini_headline": "Earth AIと公衆衛生",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "公衆衛生の意思決定は、適時できめ細かなデータに依存する。だがサーベイランスは、数年にわたる報告の遅れ、国境で分断されたデータ、データの乏しさにしばしば阻まれる。"
+       },
+       {
+        "t": "p",
+        "x": "Google ResearchのEarth AI Population Dynamics Foundation Model(PDFM)は、プライバシーに配慮した検索トレンド、人の移動、建造環境の密度、環境シグナルを位置埋め込みに圧縮し、疫学者の既存モデルにそのまま組み込めるようにする。タスク固有のファインチューニング(fine-tuning)なしで、従来の入力と同等かそれ以上の結果を示した。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "幅広い世界的な健康課題に適用されたGoogle Earth AIのPDFMの概要。"
+       },
+       {
+        "t": "p",
+        "x": "パートナーとの五つの事例研究で検証が行われた。国境をまたぐMMRワクチン接種モデルは変動の16%ではなく22%を説明した。心血管死亡のナウキャストは国勢調査ベースのモデルに並んだ。メキシコのデング熱予測は、感染が活発な自治体の最大72%で改善した。産後うつのリスク予測も向上し、DRCでの八週間のコレラ候補リストは18%改善した。"
+       },
+       {
+        "t": "p",
+        "x": "PDFMの埋め込みは、Google Maps PlatformのPopulation Dynamics InsightsとしてPreview版で商用提供されており、一部の研究用途には無償で利用できる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Earth AI模型\n填补公共卫生数据空白",
+     "body": "Google的PDFM位置嵌入在五项公共卫生案例研究中，表现达到或优于传统输入。",
+     "mini_headline": "Earth AI助力公共卫生",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "公共卫生决策依赖及时、精细的数据，但监测工作常受制于长达数年的报告滞后、被国界割裂的数据以及数据稀疏。"
+       },
+       {
+        "t": "p",
+        "x": "Google Research的Earth AI Population Dynamics Foundation Model(PDFM)将保护隐私的搜索趋势、人员流动、建成环境密度和环境信号压缩成位置嵌入，可直接接入流行病学家现有的模型。无需针对具体任务微调(fine-tuning)，其表现即可达到或优于传统输入。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "Google Earth AI的PDFM应用于各类全球卫生挑战的概览。"
+       },
+       {
+        "t": "p",
+        "x": "五项合作伙伴案例研究对其进行了检验：跨境MMR疫苗接种模型解释了22%的变异，而非16%；心血管死亡临近预报与基于人口普查的模型相当；墨西哥的登革热预测在最多72%的活跃传播城市中有所改进；产后抑郁风险预测得到提升；DRC的八周霍乱候选清单改进了18%。"
+       },
+       {
+        "t": "p",
+        "x": "PDFM嵌入已以Google Maps Platform的Population Dynamics Insights形式进入Preview商用阶段，部分研究用途可免费使用。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Earth AI de Google cubre vacíos\nde datos en salud pública",
+     "body": "Los embeddings PDFM de Google igualaron o superaron a los datos habituales en cinco casos de salud pública.",
+     "mini_headline": "Earth AI y la salud pública",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "Las decisiones de salud pública dependen de datos oportunos y detallados, pero la vigilancia suele verse obstaculizada por retrasos de varios años en los informes, datos aislados por fronteras y escasez de datos."
+       },
+       {
+        "t": "p",
+        "x": "El Earth AI Population Dynamics Foundation Model (PDFM) de Google Research comprime tendencias de búsqueda que preservan la privacidad, movilidad humana, densidad del entorno construido y señales ambientales en embeddings de ubicación que se integran en los modelos que ya usan los epidemiólogos. Sin ajuste fino (fine-tuning) específico para cada tarea, igualaron o mejoraron los datos de entrada convencionales."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "Panorama del PDFM de Google Earth AI aplicado a una amplia gama de desafíos de salud global."
+       },
+       {
+        "t": "p",
+        "x": "Cinco estudios de caso con socios lo pusieron a prueba: los modelos transfronterizos de vacunación MMR explicaron el 22% de la variación en lugar del 16%; las estimaciones inmediatas de muertes cardiovasculares igualaron a los modelos basados en censos; los pronósticos de dengue en México mejoraron hasta en el 72% de los municipios con transmisión activa; mejoró la predicción del riesgo de depresión posparto; y las listas de cólera a ocho semanas en la DRC mejoraron un 18%."
+       },
+       {
+        "t": "p",
+        "x": "Los embeddings de PDFM están disponibles comercialmente en Preview como Population Dynamics Insights de Google Maps Platform, con acceso gratuito para determinados usos de investigación."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Earth AI 모델이\n공중보건 데이터 공백 메워",
+     "body": "Google PDFM 임베딩은 보건 사례 다섯 건에서 기존 입력에 맞먹거나 앞섰다.",
+     "mini_headline": "Earth AI, 공중보건을 만나다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "공중보건 의사결정은 시의적절하고 세밀한 데이터에 달려 있다. 그러나 감시 체계는 여러 해에 걸친 보고 지연, 국경에 갇힌 데이터, 데이터 부족에 자주 발목이 잡힌다."
+       },
+       {
+        "t": "p",
+        "x": "Google Research의 Earth AI Population Dynamics Foundation Model(PDFM)은 개인정보를 보호하는 검색 트렌드, 인구 이동, 건조환경 밀도, 환경 신호를 위치 임베딩으로 압축한다. 이 임베딩은 역학자가 쓰던 기존 모델에 그대로 연결된다. 작업별 미세조정(fine-tuning) 없이도 기존 입력과 같거나 더 나은 성능을 보였다."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "다양한 글로벌 보건 과제에 적용된 Google Earth AI의 PDFM 개요."
+       },
+       {
+        "t": "p",
+        "x": "파트너 기관과 진행한 사례연구 다섯 건에서 이를 검증했다. 국경을 넘나드는 MMR 백신 접종 모델은 변동의 16%가 아닌 22%를 설명했다. 심혈관 사망 나우캐스트는 인구조사 기반 모델과 대등했다. 멕시코의 뎅기열 예측은 활성 전파 지자체의 최대 72%에서 개선됐다. 산후우울증 위험 예측도 나아졌고, DRC의 여덟 주 콜레라 후보 목록은 18% 개선됐다."
+       },
+       {
+        "t": "p",
+        "x": "PDFM 임베딩은 Google Maps Platform의 Population Dynamics Insights로 Preview 단계에서 상용 제공되며, 일부 연구 용도에는 무료로 쓸 수 있다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Earth AIモデルが\n公衆衛生データの空白を埋める",
+     "body": "GoogleのPDFM位置埋め込みは、五つの公衆衛生事例研究で従来入力と同等以上だった。",
+     "mini_headline": "Earth AIと公衆衛生",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "公衆衛生の意思決定は、適時できめ細かなデータに依存する。だがサーベイランスは、数年にわたる報告の遅れ、国境で分断されたデータ、データの乏しさにしばしば阻まれる。"
+       },
+       {
+        "t": "p",
+        "x": "Google ResearchのEarth AI Population Dynamics Foundation Model(PDFM)は、プライバシーに配慮した検索トレンド、人の移動、建造環境の密度、環境シグナルを位置埋め込みに圧縮し、疫学者の既存モデルにそのまま組み込めるようにする。タスク固有のファインチューニング(fine-tuning)なしで、従来の入力と同等かそれ以上の結果を示した。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "幅広い世界的な健康課題に適用されたGoogle Earth AIのPDFMの概要。"
+       },
+       {
+        "t": "p",
+        "x": "パートナーとの五つの事例研究で検証が行われた。国境をまたぐMMRワクチン接種モデルは変動の16%ではなく22%を説明した。心血管死亡のナウキャストは国勢調査ベースのモデルに並んだ。メキシコのデング熱予測は、感染が活発な自治体の最大72%で改善した。産後うつのリスク予測も向上し、DRCでの八週間のコレラ候補リストは18%改善した。"
+       },
+       {
+        "t": "p",
+        "x": "PDFMの埋め込みは、Google Maps PlatformのPopulation Dynamics InsightsとしてPreview版で商用提供されており、一部の研究用途には無償で利用できる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Earth AI模型\n填补公共卫生数据空白",
+     "body": "Google的PDFM位置嵌入在五项公共卫生案例研究中，表现达到或优于传统输入。",
+     "mini_headline": "Earth AI助力公共卫生",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "公共卫生决策依赖及时、精细的数据，但监测工作常受制于长达数年的报告滞后、被国界割裂的数据以及数据稀疏。"
+       },
+       {
+        "t": "p",
+        "x": "Google Research的Earth AI Population Dynamics Foundation Model(PDFM)将保护隐私的搜索趋势、人员流动、建成环境密度和环境信号压缩成位置嵌入，可直接接入流行病学家现有的模型。无需针对具体任务微调(fine-tuning)，其表现即可达到或优于传统输入。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "Google Earth AI的PDFM应用于各类全球卫生挑战的概览。"
+       },
+       {
+        "t": "p",
+        "x": "五项合作伙伴案例研究对其进行了检验：跨境MMR疫苗接种模型解释了22%的变异，而非16%；心血管死亡临近预报与基于人口普查的模型相当；墨西哥的登革热预测在最多72%的活跃传播城市中有所改进；产后抑郁风险预测得到提升；DRC的八周霍乱候选清单改进了18%。"
+       },
+       {
+        "t": "p",
+        "x": "PDFM嵌入已以Google Maps Platform的Population Dynamics Insights形式进入Preview商用阶段，部分研究用途可免费使用。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Earth AI de Google cubre vacíos\nde datos en salud pública",
+     "body": "Los embeddings PDFM de Google igualaron o superaron a los datos habituales en cinco casos de salud pública.",
+     "mini_headline": "Earth AI y la salud pública",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "Las decisiones de salud pública dependen de datos oportunos y detallados, pero la vigilancia suele verse obstaculizada por retrasos de varios años en los informes, datos aislados por fronteras y escasez de datos."
+       },
+       {
+        "t": "p",
+        "x": "El Earth AI Population Dynamics Foundation Model (PDFM) de Google Research comprime tendencias de búsqueda que preservan la privacidad, movilidad humana, densidad del entorno construido y señales ambientales en embeddings de ubicación que se integran en los modelos que ya usan los epidemiólogos. Sin ajuste fino (fine-tuning) específico para cada tarea, igualaron o mejoraron los datos de entrada convencionales."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+        "cap": "Panorama del PDFM de Google Earth AI aplicado a una amplia gama de desafíos de salud global."
+       },
+       {
+        "t": "p",
+        "x": "Cinco estudios de caso con socios lo pusieron a prueba: los modelos transfronterizos de vacunación MMR explicaron el 22% de la variación en lugar del 16%; las estimaciones inmediatas de muertes cardiovasculares igualaron a los modelos basados en censos; los pronósticos de dengue en México mejoraron hasta en el 72% de los municipios con transmisión activa; mejoró la predicción del riesgo de depresión posparto; y las listas de cólera a ocho semanas en la DRC mejoraron un 18%."
+       },
+       {
+        "t": "p",
+        "x": "Los embeddings de PDFM están disponibles comercialmente en Preview como Population Dynamics Insights de Google Maps Platform, con acceso gratuito para determinados usos de investigación."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "science-microalgae-growth",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "AI가 찾아낸\n미세조류 대량 배양법",
+   "body": "사료·색소·연료 후보인 미세조류를 산업 규모로 키울 방법을 AI가 짚는다.",
+   "mini_headline": "AI로 미세조류 배양 최적화",
+   "tool": "Science",
+   "source": "Phys.org",
+   "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+      "cap": "사진: Amarnath Krishnamoorthy"
+     },
+     {
+      "t": "p",
+      "x": "미세조류로는 동물 사료와 색소, 나아가 재생 연료까지 만들 수 있다. 문제는 산업 규모로 효율 있게 키우기 어렵다는 점이다. 광생물반응기에서는 빛, 온도, pH, 산소를 조절해야 하는데 이 변수들이 서로 얽혀 있다."
+     },
+     {
+      "t": "p",
+      "x": "센서로 이런 조건을 연속 측정하면 머신러닝(machine-learning) 모델이 데이터를 분석해 생장을 예측하고 배양을 최적화한다. 눈에 띄기 전에 스트레스도 잡아낸다. 이미지 기반(Image-based) 방식으로는 바이오매스나 배양 밀도를 추정한다."
+     },
+     {
+      "t": "p",
+      "x": "스페인 Almeria의 2026년 연구는 80 m² 규모 개방형 레이스웨이에서 강화학습을 시험했다. 바깥 조건이 바뀌는 여드레 동안 이산화탄소 주입을 제어해 pH를 맞췄다."
+     },
+     {
+      "t": "p",
+      "x": "숙제도 있다. 센서는 오염되거나 값이 틀어진다. 한 균주나 반응기에 맞춘 모델이 다른 곳에서 그대로 통한다는 보장도 없다. Amarnath Krishnamoorthy는 The Conversation 기고에서 AI를 기존 공정공학의 대체재가 아닌 추가 도구로 봐야 한다고 썼다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "AI pinpoints how to grow\nmicroalgae at scale",
+     "body": "AI helps pinpoint how to grow microalgae at industrial scale, a source of animal feed, pigments and possible fuels.",
+     "mini_headline": "AI tunes microalgae growth",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "Credit: Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "Microalgae can be used to make animal feed, pigments and potentially renewable fuels, but growing them efficiently at an industrial scale is difficult. In photobioreactors, light, temperature, pH and oxygen must be controlled, and these parameters influence each other."
+       },
+       {
+        "t": "p",
+        "x": "Sensors can continuously measure these conditions, and machine-learning models can analyze the data to predict growth, optimize cultivation and spot stress before it is visible. Image-based approaches can estimate biomass or culture density."
+       },
+       {
+        "t": "p",
+        "x": "A 2026 study in Almeria, Spain, tested reinforcement learning in an 80 m² open raceway, regulating pH by controlling carbon dioxide injection over eight days of changing outdoor conditions."
+       },
+       {
+        "t": "p",
+        "x": "Problems remain: sensors foul or drift, and a model built for one strain or reactor may not transfer. AI should be considered an additional tool rather than a replacement for conventional process engineering, writes Amarnath Krishnamoorthy in The Conversation."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "AI가 찾아낸\n미세조류 대량 배양법",
+     "body": "사료·색소·연료 후보인 미세조류를 산업 규모로 키울 방법을 AI가 짚는다.",
+     "mini_headline": "AI로 미세조류 배양 최적화",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "사진: Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "미세조류로는 동물 사료와 색소, 나아가 재생 연료까지 만들 수 있다. 문제는 산업 규모로 효율 있게 키우기 어렵다는 점이다. 광생물반응기에서는 빛, 온도, pH, 산소를 조절해야 하는데 이 변수들이 서로 얽혀 있다."
+       },
+       {
+        "t": "p",
+        "x": "센서로 이런 조건을 연속 측정하면 머신러닝(machine-learning) 모델이 데이터를 분석해 생장을 예측하고 배양을 최적화한다. 눈에 띄기 전에 스트레스도 잡아낸다. 이미지 기반(Image-based) 방식으로는 바이오매스나 배양 밀도를 추정한다."
+       },
+       {
+        "t": "p",
+        "x": "스페인 Almeria의 2026년 연구는 80 m² 규모 개방형 레이스웨이에서 강화학습을 시험했다. 바깥 조건이 바뀌는 여드레 동안 이산화탄소 주입을 제어해 pH를 맞췄다."
+       },
+       {
+        "t": "p",
+        "x": "숙제도 있다. 센서는 오염되거나 값이 틀어진다. 한 균주나 반응기에 맞춘 모델이 다른 곳에서 그대로 통한다는 보장도 없다. Amarnath Krishnamoorthy는 The Conversation 기고에서 AI를 기존 공정공학의 대체재가 아닌 추가 도구로 봐야 한다고 썼다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIが突き止める\n微細藻類の大量培養法",
+     "body": "AIが、飼料や色素、燃料候補となる微細藻類を産業規模で育てる方法を絞り込む。",
+     "mini_headline": "AIで微細藻類の培養を最適化",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "提供:Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "微細藻類は動物飼料や色素、さらには再生可能燃料の原料になりうるが、産業規模で効率よく育てるのは難しい。フォトバイオリアクターでは光、温度、pH、酸素を制御する必要があり、これらの条件は互いに影響し合う。"
+       },
+       {
+        "t": "p",
+        "x": "センサーでこうした条件を連続的に測定し、機械学習(machine-learning)モデルでデータを解析すれば、生育の予測、培養の最適化、目に見える前のストレスの検知が可能になる。画像ベース(Image-based)の手法では、バイオマスや培養密度を推定できる。"
+       },
+       {
+        "t": "p",
+        "x": "スペインのAlmeriaで行われた2026年の研究では、80 m²の開放型レースウェイで強化学習を試験し、屋外条件が変わる八日間にわたって二酸化炭素の注入を制御してpHを調整した。"
+       },
+       {
+        "t": "p",
+        "x": "課題も残る。センサーは汚れたりずれたりし、ある株や反応器向けに作ったモデルが他に通用するとは限らない。AIは従来のプロセス工学に代わるものではなく、追加の道具とみなすべきだと、Amarnath KrishnamoorthyはThe Conversationに書いている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI精准找出\n微藻规模化培养方法",
+     "body": "AI帮助找出微藻工业化培养的方法，微藻可用于饲料、色素，也可能用于燃料。",
+     "mini_headline": "AI优化微藻培养",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "图片来源：Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "微藻可用于制造动物饲料、色素，还可能用于生产可再生燃料，但要在工业规模上高效培养并不容易。在光生物反应器中，光照、温度、pH和氧气都必须加以控制，而这些参数会相互影响。"
+       },
+       {
+        "t": "p",
+        "x": "传感器可以连续测量这些条件，机器学习(machine-learning)模型则可分析数据，预测生长、优化培养，并在肉眼可见之前发现胁迫。基于图像(Image-based)的方法可以估算生物量或培养密度。"
+       },
+       {
+        "t": "p",
+        "x": "西班牙Almeria的一项2026年研究在80 m²的开放式跑道池中测试了强化学习，在室外条件不断变化的八天里，通过控制二氧化碳注入来调节pH。"
+       },
+       {
+        "t": "p",
+        "x": "问题依然存在：传感器会结垢或漂移，为某一藻株或反应器构建的模型未必能迁移到别处。Amarnath Krishnamoorthy在The Conversation撰文指出，AI应被视为一种补充工具，而非取代传统工艺工程。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La AI precisa cómo cultivar\nmicroalgas a gran escala",
+     "body": "La AI indica cómo cultivar a escala industrial microalgas, fuente de piensos, pigmentos y posibles combustibles.",
+     "mini_headline": "La AI ajusta el cultivo de microalgas",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "Crédito: Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "Las microalgas pueden servir para fabricar alimento animal, pigmentos y, potencialmente, combustibles renovables, pero cultivarlas de forma eficiente a escala industrial es difícil. En los fotobiorreactores hay que controlar la luz, la temperatura, el pH y el oxígeno, y estos parámetros se influyen entre sí."
+       },
+       {
+        "t": "p",
+        "x": "Los sensores pueden medir estas condiciones de forma continua, y los modelos de aprendizaje automático (machine-learning) pueden analizar los datos para predecir el crecimiento, optimizar el cultivo y detectar el estrés antes de que sea visible. Los enfoques basados en imágenes (Image-based) pueden estimar la biomasa o la densidad del cultivo."
+       },
+       {
+        "t": "p",
+        "x": "Un estudio de 2026 en Almeria, España, probó el aprendizaje por refuerzo en un estanque abierto tipo raceway de 80 m², regulando el pH mediante el control de la inyección de dióxido de carbono durante ocho días de condiciones exteriores cambiantes."
+       },
+       {
+        "t": "p",
+        "x": "Persisten problemas: los sensores se ensucian o se desajustan, y un modelo creado para una cepa o un reactor puede no ser transferible. La AI debe considerarse una herramienta adicional y no un sustituto de la ingeniería de procesos convencional, escribe Amarnath Krishnamoorthy en The Conversation."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "AI가 찾아낸\n미세조류 대량 배양법",
+     "body": "사료·색소·연료 후보인 미세조류를 산업 규모로 키울 방법을 AI가 짚는다.",
+     "mini_headline": "AI로 미세조류 배양 최적화",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "사진: Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "미세조류는 동물 사료와 색소, 나아가 재생 연료를 만드는 데 쓸 수 있지만, 산업 규모로 효율적으로 키우기는 어렵다. 광생물반응기에서는 빛, 온도, pH, 산소를 조절해야 하고, 이 변수들은 서로 영향을 주고받는다."
+       },
+       {
+        "t": "p",
+        "x": "센서로 이런 조건을 연속 측정하면, 머신러닝(machine-learning) 모델이 데이터를 분석해 생장을 예측하고 배양을 최적화하며 눈에 보이기 전에 스트레스를 포착할 수 있다. 이미지 기반(Image-based) 방식으로는 바이오매스나 배양 밀도를 추정할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "스페인 Almeria에서 진행된 2026년 연구는 80 m² 규모의 개방형 레이스웨이에서 강화학습을 시험했다. 바깥 조건이 바뀌는 여드레 동안 이산화탄소 주입을 제어해 pH를 조절했다."
+       },
+       {
+        "t": "p",
+        "x": "과제도 남아 있다. 센서는 오염되거나 값이 틀어지고, 한 균주나 반응기에 맞춰 만든 모델은 다른 곳에 그대로 통하지 않을 수 있다. Amarnath Krishnamoorthy는 The Conversation에 쓴 글에서 AI를 기존 공정공학을 대체하는 수단이 아니라 추가 도구로 봐야 한다고 썼다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIが突き止める\n微細藻類の大量培養法",
+     "body": "AIが、飼料や色素、燃料候補となる微細藻類を産業規模で育てる方法を絞り込む。",
+     "mini_headline": "AIで微細藻類の培養を最適化",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "提供:Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "微細藻類は動物飼料や色素、さらには再生可能燃料の原料になりうるが、産業規模で効率よく育てるのは難しい。フォトバイオリアクターでは光、温度、pH、酸素を制御する必要があり、これらの条件は互いに影響し合う。"
+       },
+       {
+        "t": "p",
+        "x": "センサーでこうした条件を連続的に測定し、機械学習(machine-learning)モデルでデータを解析すれば、生育の予測、培養の最適化、目に見える前のストレスの検知が可能になる。画像ベース(Image-based)の手法では、バイオマスや培養密度を推定できる。"
+       },
+       {
+        "t": "p",
+        "x": "スペインのAlmeriaで行われた2026年の研究では、80 m²の開放型レースウェイで強化学習を試験し、屋外条件が変わる八日間にわたって二酸化炭素の注入を制御してpHを調整した。"
+       },
+       {
+        "t": "p",
+        "x": "課題も残る。センサーは汚れたりずれたりし、ある株や反応器向けに作ったモデルが他に通用するとは限らない。AIは従来のプロセス工学に代わるものではなく、追加の道具とみなすべきだと、Amarnath KrishnamoorthyはThe Conversationに書いている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI精准找出\n微藻规模化培养方法",
+     "body": "AI帮助找出微藻工业化培养的方法，微藻可用于饲料、色素，也可能用于燃料。",
+     "mini_headline": "AI优化微藻培养",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "图片来源：Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "微藻可用于制造动物饲料、色素，还可能用于生产可再生燃料，但要在工业规模上高效培养并不容易。在光生物反应器中，光照、温度、pH和氧气都必须加以控制，而这些参数会相互影响。"
+       },
+       {
+        "t": "p",
+        "x": "传感器可以连续测量这些条件，机器学习(machine-learning)模型则可分析数据，预测生长、优化培养，并在肉眼可见之前发现胁迫。基于图像(Image-based)的方法可以估算生物量或培养密度。"
+       },
+       {
+        "t": "p",
+        "x": "西班牙Almeria的一项2026年研究在80 m²的开放式跑道池中测试了强化学习，在室外条件不断变化的八天里，通过控制二氧化碳注入来调节pH。"
+       },
+       {
+        "t": "p",
+        "x": "问题依然存在：传感器会结垢或漂移，为某一藻株或反应器构建的模型未必能迁移到别处。Amarnath Krishnamoorthy在The Conversation撰文指出，AI应被视为一种补充工具，而非取代传统工艺工程。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La AI precisa cómo cultivar\nmicroalgas a gran escala",
+     "body": "La AI indica cómo cultivar a escala industrial microalgas, fuente de piensos, pigmentos y posibles combustibles.",
+     "mini_headline": "La AI ajusta el cultivo de microalgas",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+        "cap": "Crédito: Amarnath Krishnamoorthy"
+       },
+       {
+        "t": "p",
+        "x": "Las microalgas pueden servir para fabricar alimento animal, pigmentos y, potencialmente, combustibles renovables, pero cultivarlas de forma eficiente a escala industrial es difícil. En los fotobiorreactores hay que controlar la luz, la temperatura, el pH y el oxígeno, y estos parámetros se influyen entre sí."
+       },
+       {
+        "t": "p",
+        "x": "Los sensores pueden medir estas condiciones de forma continua, y los modelos de aprendizaje automático (machine-learning) pueden analizar los datos para predecir el crecimiento, optimizar el cultivo y detectar el estrés antes de que sea visible. Los enfoques basados en imágenes (Image-based) pueden estimar la biomasa o la densidad del cultivo."
+       },
+       {
+        "t": "p",
+        "x": "Un estudio de 2026 en Almeria, España, probó el aprendizaje por refuerzo en un estanque abierto tipo raceway de 80 m², regulando el pH mediante el control de la inyección de dióxido de carbono durante ocho días de condiciones exteriores cambiantes."
+       },
+       {
+        "t": "p",
+        "x": "Persisten problemas: los sensores se ensucian o se desajustan, y un modelo creado para una cepa o un reactor puede no ser transferible. La AI debe considerarse una herramienta adicional y no un sustituto de la ingeniería de procesos convencional, escribe Amarnath Krishnamoorthy en The Conversation."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

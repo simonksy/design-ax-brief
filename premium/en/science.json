@@ -6536,6 +6536,135 @@
           "x": "\"If we want AI that works with humans and understands the world in more human-compatible ways, we cannot focus only on whether it gets the right answer,\" said senior author Kohitij Kar."
         }
       ]
+    },
+    "science/science-flashflood-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A flash flood can devastate a community in minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, according to the National Weather Service."
+        },
+        {
+          "t": "p",
+          "x": "A team including Penn State researchers applied the techniques behind AI image generation to predict hourly flash flood risk, detailing the work in Water Resources Research."
+        },
+        {
+          "t": "p",
+          "x": "\"It's widely understood that the peaks of flash floods occur at an hourly scale,\" said corresponding author Chaopeng Shen. The model uses diffusion: noise is added to clean data and the model learns to remove it. Recent gauge observations can be injected without retraining, a process known as inpainting."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+          "cap": "Map of each river basin's Nash-Sutcliffe Efficiency (NSE); lighter dots indicate more accurate predictions. Credit: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+        },
+        {
+          "t": "p",
+          "x": "Trained on hourly streamflow from 516 U.S. river basins (1990–2003) and tested on 2009–2014, the approach generally outperformed the best existing hourly deep-learning models, including during high flows. It can also run in reverse, estimating the rainfall that produced a given streamflow."
+        }
+      ]
+    },
+    "science/science-heart-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests. The current gold standard for diagnosing rejection is a biopsy."
+        },
+        {
+          "t": "p",
+          "x": "Led by NYU Langone Health researchers, the team trained AI models on 5,300 EKG readings from 2,357 adult heart transplant recipients. One model used EKG data alone; another combined EKGs with two blood tests commonly used to predict rejection risk."
+        },
+        {
+          "t": "p",
+          "x": "In a test group of 38 recipients, the combined model performed better, correctly identifying 94% of patients who were not experiencing rejection. The blood-test model incorrectly flagged 19 patients as potentially needing a biopsy."
+        },
+        {
+          "t": "p",
+          "x": "\"Electrocardiograms contain an abundance of physiological information that can be used to substantially improve the accuracy of detection,\" said senior author Lior Jankelson. Published in JHLT Open, the study is the first to combine these biomarkers with EKGs in a single AI model. Next, the team plans to test it at several transplant centers."
+        }
+      ]
+    },
+    "science/science-earth-ai-public-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Public health decisions rely on timely, granular data, but surveillance is often hindered by multi-year reporting lags, data siloed by borders, and data sparsity."
+        },
+        {
+          "t": "p",
+          "x": "Google Research's Earth AI Population Dynamics Foundation Model (PDFM) compresses privacy-preserving search trends, human mobility, built-environment density and environmental signals into location embeddings that plug into epidemiologists' existing models. Without task-specific fine-tuning, they matched or improved on conventional inputs."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+          "cap": "Overview of Google Earth AI's PDFM applied to a wide range of global health challenges."
+        },
+        {
+          "t": "p",
+          "x": "Five partner case studies tested it: cross-border MMR vaccination models explained 22% of variation instead of 16%; cardiovascular death nowcasts matched census-based models; dengue forecasts in Mexico improved in up to 72% of active transmission municipalities; postpartum depression risk prediction improved; and eight-week cholera shortlists in the DRC improved 18%."
+        },
+        {
+          "t": "p",
+          "x": "PDFM embeddings are commercially available in Preview as Population Dynamics Insights from Google Maps Platform, with no-cost access for select research uses."
+        }
+      ]
+    },
+    "science/science-microalgae-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+          "cap": "Credit: Amarnath Krishnamoorthy"
+        },
+        {
+          "t": "p",
+          "x": "Microalgae can be used to make animal feed, pigments and potentially renewable fuels, but growing them efficiently at an industrial scale is difficult. In photobioreactors, light, temperature, pH and oxygen must be controlled, and these parameters influence each other."
+        },
+        {
+          "t": "p",
+          "x": "Sensors can continuously measure these conditions, and machine-learning models can analyze the data to predict growth, optimize cultivation and spot stress before it is visible. Image-based approaches can estimate biomass or culture density."
+        },
+        {
+          "t": "p",
+          "x": "A 2026 study in Almeria, Spain, tested reinforcement learning in an 80 m² open raceway, regulating pH by controlling carbon dioxide injection over eight days of changing outdoor conditions."
+        },
+        {
+          "t": "p",
+          "x": "Problems remain: sensors foul or drift, and a model built for one strain or reactor may not transfer. AI should be considered an additional tool rather than a replacement for conventional process engineering, writes Amarnath Krishnamoorthy in The Conversation."
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "Credit: Orhan Akbaba from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Forever chemicals (PFAS) are found in more than 90% of Americans, and nearly half of U.S. municipal water supplies are known to contain them. Under new EPA rules, water suppliers must test frequently, but most rely on costly mass-spectrometry labs that can take weeks."
+        },
+        {
+          "t": "p",
+          "x": "A Columbia and City College team led by Virginia Cornish is building a \"biohybrid\" device that combines engineered yeast, AI-designed proteins and CMOS sensor chips to detect PFAS and monitor their removal."
+        },
+        {
+          "t": "p",
+          "x": "Synthetic receptors inserted into Saccharomyces cerevisiae make the yeast glow green when they bind a target chemical. Designing those receptors once took years; with an AI tool from Mohammed AlQuraishi's lab, the team is working toward a design-build-test cycle of only weeks, now aimed at PFOA and PFOS."
+        },
+        {
+          "t": "p",
+          "x": "CMOS chips from Ken Shepard's lab read the fluorescence, so users could dip a disposable stick into water for an instant readout. Cornish estimates it will cost orders of magnitude less than current methods."
+        }
+      ]
     }
   }
 }

@@ -1,6 +1,31 @@
-{"media":[
-{"id":"ross-appeal-ai-fair-use-ruling","type":"image","src":"pipeline/media/ross-appeal-ai-fair-use-ruling.jpg"},
-{"id":"scholarly-kitchen-ai-representation-not-scholarship","type":"image","src":"pipeline/media/scholarly-kitchen-ai-representation-not-scholarship.png"},
-{"id":"proyecto451-publisher-ai-policy-review","type":"image","src":"pipeline/media/proyecto451-publisher-ai-policy-review.png"},
-{"id":"lithub-ai-writing-spiritual-practice-essay","type":"image","src":"pipeline/media/lithub-ai-writing-spiritual-practice-essay.png"}
-]}
+{
+ "date": "2026-10-07",
+ "section": "books",
+ "media": [
+  {
+   "id": "books-redpine",
+   "type": "image",
+   "src": "pipeline/media/books-redpine.jpg"
+  },
+  {
+   "id": "books-frankfurt-lepore",
+   "type": "image",
+   "src": "pipeline/media/books-frankfurt-lepore.jpeg"
+  },
+  {
+   "id": "books-roose",
+   "type": "image",
+   "src": "pipeline/media/books-roose.jpg"
+  },
+  {
+   "id": "books-ssp-integrity",
+   "type": "image",
+   "src": "pipeline/media/books-ssp-integrity.png"
+  },
+  {
+   "id": "books-libreoffice",
+   "type": "image",
+   "src": "pipeline/media/books-libreoffice.jpg"
+  }
+ ]
+}

@@ -1,7 +1,32 @@
-{"media":[
-{"id":"bimlogiq-argus-revit-family-agent","type":"image","src":"pipeline/media/bimlogiq-argus-revit-family-agent.jpg"},
-{"id":"photoshop-remove-tool-no-generative-credits","type":"video","src":"pipeline/media/photoshop-remove-tool-no-generative-credits.mp4","poster":"pipeline/media/photoshop-remove-tool-no-generative-credits.jpg"},
-{"id":"adobe-text-to-3d-patent","type":"image","src":"pipeline/media/adobe-text-to-3d-patent.jpg"},
-{"id":"apple-macos-ai-agent-full-disk-access-warning","type":"image","src":"pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg"},
-{"id":"uxcollective-ai-skill-atrophy-essay","type":"image","src":"pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg"}
-]}
+{
+ "date": "2026-10-07",
+ "section": "design",
+ "media": [
+  {
+   "id": "design-figma-agent-ga",
+   "type": "video",
+   "src": "pipeline/media/design-figma-agent-ga.mp4",
+   "poster": "pipeline/media/design-figma-agent-ga.jpg"
+  },
+  {
+   "id": "design-photoshop-27-11-enhance-edge",
+   "type": "image",
+   "src": "pipeline/media/design-photoshop-27-11-enhance-edge.jpg"
+  },
+  {
+   "id": "design-hark-pro-assistant",
+   "type": "image",
+   "src": "pipeline/media/design-hark-pro-assistant.jpg"
+  },
+  {
+   "id": "design-claude-code-to-figma-test",
+   "type": "image",
+   "src": "pipeline/media/design-claude-code-to-figma-test.jpg"
+  },
+  {
+   "id": "design-figma-expert-designs-by-describing",
+   "type": "image",
+   "src": "pipeline/media/design-figma-expert-designs-by-describing.png"
+  }
+ ]
+}

@@ -1,1846 +1,2236 @@
 {
-  "date": "2026-10-06",
-  "section": "politics",
-  "cards": [
-    {
-      "id": "norway-ai-glasses-temporary-ban",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "노르웨이, AI 안경\n공원·해변·학교 금지 추진",
-      "body": "노르웨이가 공원·해변·학교에서 AI-glasses를 한시 금지할 계획이다.",
-      "mini_headline": "노르웨이, AI 안경 금지 추진",
-      "tool": "Politics",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-            "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성."
-          },
-          {
-            "t": "p",
-            "x": "웨어러블 기술을 둘러싼 사생활 우려가 커지자 노르웨이가 일부 공공장소에서 AI 안경 사용을 한시적으로 막자고 제안했다. 주요 국가 가운데 처음이다."
-          },
-          {
-            "t": "p",
-            "x": "중도좌파 정부는 월요일 공원, 해변, 학교, 유치원 같은 곳을 대상으로 한 한시 금지 법안을 곧 의회에 내겠다고 밝혔다. 영구적인 국가 규칙을 제안할 전문가 그룹도 꾸린다."
-          },
-          {
-            "t": "p",
-            "x": "토르게이르 미카엘센(Torgeir Micaelsen) 디지털화부 장관은 “사람들이 자신도 모르게 사진이나 영상으로 찍히거나 녹음될 위험이 있는 강력한 신기술이 도입되는 것이 우려된다”고 말했다. 한시적 금지가 “철저한 평가를 진행하고, 영구 규제의 토대가 될 수 있는 충분한 정보에 기반한 논의를 할 시간을 줄 것”이라고도 했다."
-          },
-          {
-            "t": "p",
-            "x": "오슬로 학교들과 석유·가스 대기업 Equinor는 이미 이 안경을 금지했다. 호주도 일부 공공장소에서 금지를 검토 중이다. 노르웨이는 전면 금지까지는 원하지 않는다며 동의 없이 사람을 찍을 위험이 없는 곳이라면 적절히 써도 된다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Meta, Google, OpenAI는 스마트 안경이 휴대폰을 대신해 AI로 들어가는 주요 관문이 되리라 본다. Counterpoint Research는 2026년부터 2032년까지 소비자가 웨어러블에 1조 달러 이상을 쓸 것으로 추정한다. 반면 사생활 우려 탓에 이를 “변태 기술”이라고 부르는 활동가들도 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Norway moves to ban AI glasses\nin parks, beaches and schools",
-          "body": "Norway plans a temporary AI-glasses ban in parks, beaches and schools while experts draft permanent rules.",
-          "mini_headline": "Norway moves to ban AI glasses",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "A woman wearing Ray-Ban Meta smart glasses."
-              },
-              {
-                "t": "p",
-                "x": "Norway has become the first major country to propose a temporary ban on the use of AI glasses in selected public places amid growing privacy concerns over wearable technology."
-              },
-              {
-                "t": "p",
-                "x": "The center-left government said on Monday it would soon introduce a law to parliament on a temporary ban for places such as parks, beaches, schools, and kindergartens, and set up an expert group to propose permanent national rules."
-              },
-              {
-                "t": "p",
-                "x": "“I am concerned about the introduction of powerful new technology where people risk being photographed, filmed, or recorded without their knowledge,” said digitalization minister Torgeir Micaelsen. A temporary ban “will give us time to conduct a thorough assessment and hold an informed debate that can lay the foundation for permanent regulation,” he said."
-              },
-              {
-                "t": "p",
-                "x": "Schools in Oslo and oil and gas major Equinor have already banned the glasses, and Australia is considering a ban in certain public spaces. Norway said it did not want a total ban; appropriate use could be where there was no risk of filming people without their consent."
-              },
-              {
-                "t": "p",
-                "x": "Meta, Google, and OpenAI believe smart glasses could replace phones as the main gateway to AI. Counterpoint Research estimates consumers will spend more than $1 trillion on wearables between 2026 and 2032, but privacy concerns have led some campaigners to dub them “pervert technology.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "노르웨이, AI 안경\n공원·해변·학교 금지 추진",
-          "body": "노르웨이가 공원·해변·학교에서 AI-glasses를 한시 금지할 계획이다.",
-          "mini_headline": "노르웨이, AI 안경 금지 추진",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성."
-              },
-              {
-                "t": "p",
-                "x": "웨어러블 기술을 둘러싼 사생활 우려가 커지자 노르웨이가 일부 공공장소에서 AI 안경 사용을 한시적으로 막자고 제안했다. 주요 국가 가운데 처음이다."
-              },
-              {
-                "t": "p",
-                "x": "중도좌파 정부는 월요일 공원, 해변, 학교, 유치원 같은 곳을 대상으로 한 한시 금지 법안을 곧 의회에 내겠다고 밝혔다. 영구적인 국가 규칙을 제안할 전문가 그룹도 꾸린다."
-              },
-              {
-                "t": "p",
-                "x": "토르게이르 미카엘센(Torgeir Micaelsen) 디지털화부 장관은 “사람들이 자신도 모르게 사진이나 영상으로 찍히거나 녹음될 위험이 있는 강력한 신기술이 도입되는 것이 우려된다”고 말했다. 한시적 금지가 “철저한 평가를 진행하고, 영구 규제의 토대가 될 수 있는 충분한 정보에 기반한 논의를 할 시간을 줄 것”이라고도 했다."
-              },
-              {
-                "t": "p",
-                "x": "오슬로 학교들과 석유·가스 대기업 Equinor는 이미 이 안경을 금지했다. 호주도 일부 공공장소에서 금지를 검토 중이다. 노르웨이는 전면 금지까지는 원하지 않는다며 동의 없이 사람을 찍을 위험이 없는 곳이라면 적절히 써도 된다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Meta, Google, OpenAI는 스마트 안경이 휴대폰을 대신해 AI로 들어가는 주요 관문이 되리라 본다. Counterpoint Research는 2026년부터 2032년까지 소비자가 웨어러블에 1조 달러 이상을 쓸 것으로 추정한다. 반면 사생활 우려 탓에 이를 “변태 기술”이라고 부르는 활동가들도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ノルウェー、AI眼鏡を\n公園・ビーチ・学校で禁止へ",
-          "body": "ノルウェーは公園やビーチ、学校でAI-glassesを一時禁止する方針だ。",
-          "mini_headline": "ノルウェー、AI眼鏡の禁止へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Ray-Ban Metaのスマートグラスをかけた女性。"
-              },
-              {
-                "t": "p",
-                "x": "ノルウェーは、ウェアラブル技術をめぐるプライバシーへの懸念が高まるなか、特定の公共の場でのAI眼鏡の使用を一時的に禁止するよう提案した初の主要国となった。"
-              },
-              {
-                "t": "p",
-                "x": "中道左派政権は月曜日、公園、ビーチ、学校、幼稚園などでの一時的な禁止に関する法案を近く議会に提出し、恒久的な国のルールを提案する専門家グループを設置すると発表した。"
-              },
-              {
-                "t": "p",
-                "x": "トルゲイル・ミカエルセン（Torgeir Micaelsen）デジタル化相は「人々が知らないうちに撮影、録画、録音されるおそれのある強力な新技術の導入を懸念している」と述べた。一時的な禁止は「徹底した評価を行い、恒久的な規制の基盤となりうる、情報に基づいた議論を行う時間を与えてくれる」とも語った。"
-              },
-              {
-                "t": "p",
-                "x": "オスロの学校や石油・ガス大手のEquinorはすでにこの眼鏡を禁止しており、オーストラリアも一部の公共空間での禁止を検討している。ノルウェーは全面禁止は望んでいないとし、同意なく人を撮影するおそれがない場所での使用は適切になりうると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Google、OpenAIは、スマートグラスがスマートフォンに代わってAIへの主要な入り口になりうると考えている。Counterpoint Researchは、2026年から2032年にかけて消費者がウェアラブルに1兆ドル超を費やすと推計するが、プライバシーへの懸念から一部の活動家は「変態テクノロジー」と呼んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "挪威拟禁用AI眼镜\n公园、海滩、学校在列",
-          "body": "挪威计划在专家制定永久规则期间，暂时禁止在公园、海滩和学校使用AI-glasses。",
-          "mini_headline": "挪威拟禁用AI眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "一名佩戴Ray-Ban Meta智能眼镜的女性。"
-              },
-              {
-                "t": "p",
-                "x": "在可穿戴技术引发的隐私担忧日益加剧之际，挪威成为首个提议在特定公共场所暂时禁止使用AI眼镜的主要国家。"
-              },
-              {
-                "t": "p",
-                "x": "中左翼政府周一表示，将很快向议会提交一项法案，在公园、海滩、学校和幼儿园等场所实施临时禁令，并成立专家组，提出永久性的全国规则。"
-              },
-              {
-                "t": "p",
-                "x": "数字化大臣托尔盖尔·米凯尔森（Torgeir Micaelsen）表示：“我担心强大新技术的引入会让人们在不知情的情况下面临被拍照、拍摄或录音的风险。”他说，临时禁令“将给我们时间进行全面评估，并开展有充分依据的讨论，为永久监管奠定基础”。"
-              },
-              {
-                "t": "p",
-                "x": "奥斯陆的学校和石油天然气巨头Equinor已禁止这类眼镜，澳大利亚也在考虑在某些公共空间实施禁令。挪威表示并不希望全面禁止；在不存在未经同意拍摄他人风险的场合，可以适当使用。"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Google和OpenAI认为，智能眼镜可能取代手机，成为通往AI的主要入口。Counterpoint Research估计，2026年至2032年间消费者在可穿戴设备上的支出将超过1万亿美元，但隐私担忧使一些活动人士将其称为“变态技术”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Noruega busca vetar gafas con AI\nen parques, playas y escuelas",
-          "body": "Noruega prevé un veto temporal a las AI-glasses en parques, playas y escuelas mientras se redactan normas permanentes.",
-          "mini_headline": "Noruega busca vetar gafas con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Una mujer con gafas inteligentes Ray-Ban Meta."
-              },
-              {
-                "t": "p",
-                "x": "Noruega se ha convertido en el primer país importante en proponer una prohibición temporal del uso de gafas con AI en determinados lugares públicos, en medio de la creciente preocupación por la privacidad en torno a la tecnología vestible."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno de centroizquierda anunció el lunes que presentará pronto al parlamento una ley para una prohibición temporal en lugares como parques, playas, escuelas y guarderías, y que creará un grupo de expertos para proponer normas nacionales permanentes."
-              },
-              {
-                "t": "p",
-                "x": "“Me preocupa la introducción de una nueva tecnología potente con la que las personas corren el riesgo de ser fotografiadas, filmadas o grabadas sin saberlo”, dijo el ministro de Digitalización, Torgeir Micaelsen. Una prohibición temporal “nos dará tiempo para realizar una evaluación exhaustiva y mantener un debate informado que pueda sentar las bases de una regulación permanente”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "Las escuelas de Oslo y la gran petrolera y gasista Equinor ya han prohibido estas gafas, y Australia estudia una prohibición en ciertos espacios públicos. Noruega dijo que no busca una prohibición total; un uso adecuado podría darse donde no haya riesgo de grabar a personas sin su consentimiento."
-              },
-              {
-                "t": "p",
-                "x": "Meta, Google y OpenAI creen que las gafas inteligentes podrían sustituir a los teléfonos como la principal puerta de acceso a la AI. Counterpoint Research estima que los consumidores gastarán más de 1 billón de dólares en dispositivos vestibles entre 2026 y 2032, pero la preocupación por la privacidad ha llevado a algunos activistas a llamarlas “tecnología pervertida”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "노르웨이, AI 안경\n공원·해변·학교 금지 추진",
-          "body": "노르웨이가 공원·해변·학교에서 AI-glasses를 한시 금지할 계획이다.",
-          "mini_headline": "노르웨이, AI 안경 금지 추진",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Ray-Ban Meta 스마트 안경을 쓴 여성."
-              },
-              {
-                "t": "p",
-                "x": "노르웨이가 웨어러블 기술을 둘러싼 사생활 우려가 커지는 가운데, 일부 공공장소에서 AI 안경 사용을 한시적으로 금지하자고 제안한 첫 주요 국가가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "중도좌파 정부는 월요일 공원, 해변, 학교, 유치원 같은 장소에 대한 한시적 금지 법안을 곧 의회에 제출하고, 영구적인 국가 규칙을 제안할 전문가 그룹을 꾸리겠다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "토르게이르 미카엘센(Torgeir Micaelsen) 디지털화부 장관은 “사람들이 자신도 모르게 사진이나 영상으로 찍히거나 녹음될 위험이 있는 강력한 신기술이 도입되는 것이 우려된다”고 말했다. 그는 한시적 금지가 “철저한 평가를 진행하고, 영구 규제의 토대가 될 수 있는 충분한 정보에 기반한 논의를 할 시간을 줄 것”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "오슬로의 학교들과 석유·가스 대기업 Equinor는 이미 이 안경을 금지했고, 호주도 일부 공공장소에서의 금지를 검토하고 있다. 노르웨이는 전면 금지는 원하지 않는다며, 동의 없이 사람을 촬영할 위험이 없는 곳에서는 적절한 사용이 가능하다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Meta, Google, OpenAI는 스마트 안경이 휴대폰을 대신해 AI로 들어가는 주요 관문이 될 수 있다고 본다. Counterpoint Research는 2026년부터 2032년까지 소비자가 웨어러블에 1조 달러 이상을 쓸 것으로 추정하지만, 사생활 우려 탓에 일부 활동가들은 이를 “변태 기술”이라고 부른다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ノルウェー、AI眼鏡を\n公園・ビーチ・学校で禁止へ",
-          "body": "ノルウェーは公園やビーチ、学校でAI-glassesを一時禁止する方針だ。",
-          "mini_headline": "ノルウェー、AI眼鏡の禁止へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Ray-Ban Metaのスマートグラスをかけた女性。"
-              },
-              {
-                "t": "p",
-                "x": "ノルウェーは、ウェアラブル技術をめぐるプライバシーへの懸念が高まるなか、特定の公共の場でのAI眼鏡の使用を一時的に禁止するよう提案した初の主要国となった。"
-              },
-              {
-                "t": "p",
-                "x": "中道左派政権は月曜日、公園、ビーチ、学校、幼稚園などでの一時的な禁止に関する法案を近く議会に提出し、恒久的な国のルールを提案する専門家グループを設置すると発表した。"
-              },
-              {
-                "t": "p",
-                "x": "トルゲイル・ミカエルセン（Torgeir Micaelsen）デジタル化相は「人々が知らないうちに撮影、録画、録音されるおそれのある強力な新技術の導入を懸念している」と述べた。一時的な禁止は「徹底した評価を行い、恒久的な規制の基盤となりうる、情報に基づいた議論を行う時間を与えてくれる」とも語った。"
-              },
-              {
-                "t": "p",
-                "x": "オスロの学校や石油・ガス大手のEquinorはすでにこの眼鏡を禁止しており、オーストラリアも一部の公共空間での禁止を検討している。ノルウェーは全面禁止は望んでいないとし、同意なく人を撮影するおそれがない場所での使用は適切になりうると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Google、OpenAIは、スマートグラスがスマートフォンに代わってAIへの主要な入り口になりうると考えている。Counterpoint Researchは、2026年から2032年にかけて消費者がウェアラブルに1兆ドル超を費やすと推計するが、プライバシーへの懸念から一部の活動家は「変態テクノロジー」と呼んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "挪威拟禁用AI眼镜\n公园、海滩、学校在列",
-          "body": "挪威计划在专家制定永久规则期间，暂时禁止在公园、海滩和学校使用AI-glasses。",
-          "mini_headline": "挪威拟禁用AI眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "一名佩戴Ray-Ban Meta智能眼镜的女性。"
-              },
-              {
-                "t": "p",
-                "x": "在可穿戴技术引发的隐私担忧日益加剧之际，挪威成为首个提议在特定公共场所暂时禁止使用AI眼镜的主要国家。"
-              },
-              {
-                "t": "p",
-                "x": "中左翼政府周一表示，将很快向议会提交一项法案，在公园、海滩、学校和幼儿园等场所实施临时禁令，并成立专家组，提出永久性的全国规则。"
-              },
-              {
-                "t": "p",
-                "x": "数字化大臣托尔盖尔·米凯尔森（Torgeir Micaelsen）表示：“我担心强大新技术的引入会让人们在不知情的情况下面临被拍照、拍摄或录音的风险。”他说，临时禁令“将给我们时间进行全面评估，并开展有充分依据的讨论，为永久监管奠定基础”。"
-              },
-              {
-                "t": "p",
-                "x": "奥斯陆的学校和石油天然气巨头Equinor已禁止这类眼镜，澳大利亚也在考虑在某些公共空间实施禁令。挪威表示并不希望全面禁止；在不存在未经同意拍摄他人风险的场合，可以适当使用。"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Google和OpenAI认为，智能眼镜可能取代手机，成为通往AI的主要入口。Counterpoint Research估计，2026年至2032年间消费者在可穿戴设备上的支出将超过1万亿美元，但隐私担忧使一些活动人士将其称为“变态技术”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Noruega busca vetar gafas con AI\nen parques, playas y escuelas",
-          "body": "Noruega prevé un veto temporal a las AI-glasses en parques, playas y escuelas mientras se redactan normas permanentes.",
-          "mini_headline": "Noruega busca vetar gafas con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-                "cap": "Una mujer con gafas inteligentes Ray-Ban Meta."
-              },
-              {
-                "t": "p",
-                "x": "Noruega se ha convertido en el primer país importante en proponer una prohibición temporal del uso de gafas con AI en determinados lugares públicos, en medio de la creciente preocupación por la privacidad en torno a la tecnología vestible."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno de centroizquierda anunció el lunes que presentará pronto al parlamento una ley para una prohibición temporal en lugares como parques, playas, escuelas y guarderías, y que creará un grupo de expertos para proponer normas nacionales permanentes."
-              },
-              {
-                "t": "p",
-                "x": "“Me preocupa la introducción de una nueva tecnología potente con la que las personas corren el riesgo de ser fotografiadas, filmadas o grabadas sin saberlo”, dijo el ministro de Digitalización, Torgeir Micaelsen. Una prohibición temporal “nos dará tiempo para realizar una evaluación exhaustiva y mantener un debate informado que pueda sentar las bases de una regulación permanente”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "Las escuelas de Oslo y la gran petrolera y gasista Equinor ya han prohibido estas gafas, y Australia estudia una prohibición en ciertos espacios públicos. Noruega dijo que no busca una prohibición total; un uso adecuado podría darse donde no haya riesgo de grabar a personas sin su consentimiento."
-              },
-              {
-                "t": "p",
-                "x": "Meta, Google y OpenAI creen que las gafas inteligentes podrían sustituir a los teléfonos como la principal puerta de acceso a la AI. Counterpoint Research estima que los consumidores gastarán más de 1 billón de dólares en dispositivos vestibles entre 2026 y 2032, pero la preocupación por la privacidad ha llevado a algunos activistas a llamarlas “tecnología pervertida”."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "politics",
+ "cards": [
+  {
+   "id": "politics-sif-charter",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "백악관 '초지능군'\n헌장 내용 공개",
+   "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
+   "mini_headline": "초지능군 헌장",
+   "tool": "Politics",
+   "source": "politico.eu",
+   "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+      "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
+     },
+     {
+      "t": "p",
+      "x": "POLITICO가 입수한 헌장을 보면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 줬다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유를 위협할 때 기술 업계와 연방정부가 어떻게 대응할지 정하는 권한이다. 논의를 잘 아는 세 사람이 문서가 진본이라고 확인했다."
+     },
+     {
+      "t": "p",
+      "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾는다. AI 위험 보고서도 쓰는데, 시민의 자유와 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 영향을 중심으로 다룬다."
+     },
+     {
+      "t": "p",
+      "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일로, 수지 와일스 비서실장이 지시하면 늘릴 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "헌장은 생물보안과 상수도 위협도 짚었다. AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 일도 이 조직의 몫이다."
+     },
+     {
+      "t": "p",
+      "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Charter for White House's\nSuper Intelligence Force",
+     "body": "POLITICO published the charter of a White House body with broad authority to set federal defenses against AI threats.",
+     "mini_headline": "Super Intelligence Force charter",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "Director of National Intelligence Jay Clayton will lead the task force."
+       },
+       {
+        "t": "p",
+        "x": "The Trump administration has given its newly created “Super Intelligence Force” broad authority to determine how the tech industry and the federal government should address threats to national security and civil liberties posed by fast-evolving AI technology, according to a charter obtained by POLITICO. Three people familiar with the discussions confirmed the document’s authenticity."
+       },
+       {
+        "t": "p",
+        "x": "The task force will identify “measures to improve the preparedness and response capability of both the government and the private sector,” and produce a report on AI risks focusing on civil liberties, cybersecurity, standards for advanced models and the impacts of possible overregulation."
+       },
+       {
+        "t": "p",
+        "x": "Director of National Intelligence Jay Clayton will lead it as the administration’s AI czar, with Under Secretary of Defense Emil Michael, OPM Director Scott Kupor and FTC Chairman Andrew Ferguson as vice chairs. It will stand for 120 days, extendable at chief of staff Susie Wiles’ direction."
+       },
+       {
+        "t": "p",
+        "x": "The charter also calls out biosecurity and water-supply threats, and tasks the group with reviewing the protocols for AI labs to notify the government of breaches, hacks and jailbreaks."
+       },
+       {
+        "t": "p",
+        "x": "It places responsibility for AI risks on the labs, stating that “it is the role of the federal government … to enforce our nation’s laws so that the fundamental principles of our Republic are safeguarded and advanced.”"
+       }
+      ]
+     }
     },
-    {
-      "id": "openai-textgrain-eu-ai-act-watermarks",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "OpenAI, EU서\nAI Act 맞춰 워터마크",
-      "body": "OpenAI가 EU ChatGPT·Codex에 textGrain 워터마크를 넣는다.",
-      "mini_headline": "OpenAI, EU서 텍스트 워터마크",
-      "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "ChatGPT와 Codex의 텍스트 출력에 눈에 보이지 않는, 기계가 읽을 수 있는 워터마크가 들어간다. 처음에는 유럽연합 사용자에게만 적용된다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 자사 textGrain 워터마크가 Google DeepMind의 텍스트용 SynthID 등 다른 방식과 “대등하거나 그 이상”이었다고 밝혔다. Anthropic이 8월 발표한 워터마크도 SynthID를 바탕으로 한다. Anthropic 역시 OpenAI처럼 EU AI Act 요건을 맞추려고 이 조치를 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 워터마크를 넣은 텍스트와 넣지 않은 텍스트의 성능이 비슷하다는 벤치마크 점수도 공개했다. 그러면서도 textGrain이 “신뢰할 수 있는 탐지를 보장하지 않는다”고 밝혔다. 워터마크로는 정확성을 검증하거나 소유권을 판단할 수 없고, 사람의 기여도를 재거나 사람이 썼음을 증명하지도 못한다고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI에 따르면 워터마크는 앞으로 몇 주에 걸쳐 EU 내 모든 요금제의 대상 ChatGPT·Codex 사용자에게 적용된다. 회사는 “출시 시점에 텍스트 워터마크를 전 세계 기본값으로 삼지 않는다”고 밝혔다. 전 세계 API 고객은 오늘부터 일부 모델에서 워터마크가 들어간 출력을 골라 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "승인받은 연구자와 전문 기관은 행동강령(Code of Practice)에 따라 사안별로 탐지기 접근을 신청할 수 있다. 워터마크 누락과 오탐 위험 때문에 OpenAI는 출시 시점에 탐지기를 일반에 공개하지 않는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "OpenAI adds text watermarks\nin the EU to meet the AI Act",
-          "body": "OpenAI is bringing its textGrain watermarking to ChatGPT and Codex in the EU, but not yet as a global default.",
-          "mini_headline": "OpenAI watermarks text in the EU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI says its textGrain watermarking “matched or exceeded” other approaches like Google DeepMind’s SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic made the move to meet the requirements of the EU’s AI Act."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI also shared benchmark scores showing similar performance from watermarked and unwatermarked text, but notes textGrain “does not guarantee reliable detection,” and that watermarks don’t verify accuracy, determine ownership, measure human contribution, or prove human authorship."
-              },
-              {
-                "t": "p",
-                "x": "Per OpenAI, watermarking will reach eligible ChatGPT and Codex users across all plans in the EU over the coming weeks; it is “not making text watermarking a global default at launch.” API customers worldwide can opt in to watermarked outputs for select models starting today."
-              },
-              {
-                "t": "p",
-                "x": "Approved researchers and expert organizations can apply for detector access case by case under the Code of Practice. Citing the risk of missed watermarks and false positives, OpenAI is not making the detector publicly available at launch."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI, EU서\nAI Act 맞춰 워터마크",
-          "body": "OpenAI가 EU ChatGPT·Codex에 textGrain 워터마크를 넣는다.",
-          "mini_headline": "OpenAI, EU서 텍스트 워터마크",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT와 Codex의 텍스트 출력에 눈에 보이지 않는, 기계가 읽을 수 있는 워터마크가 들어간다. 처음에는 유럽연합 사용자에게만 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 자사 textGrain 워터마크가 Google DeepMind의 텍스트용 SynthID 등 다른 방식과 “대등하거나 그 이상”이었다고 밝혔다. Anthropic이 8월 발표한 워터마크도 SynthID를 바탕으로 한다. Anthropic 역시 OpenAI처럼 EU AI Act 요건을 맞추려고 이 조치를 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 워터마크를 넣은 텍스트와 넣지 않은 텍스트의 성능이 비슷하다는 벤치마크 점수도 공개했다. 그러면서도 textGrain이 “신뢰할 수 있는 탐지를 보장하지 않는다”고 밝혔다. 워터마크로는 정확성을 검증하거나 소유권을 판단할 수 없고, 사람의 기여도를 재거나 사람이 썼음을 증명하지도 못한다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI에 따르면 워터마크는 앞으로 몇 주에 걸쳐 EU 내 모든 요금제의 대상 ChatGPT·Codex 사용자에게 적용된다. 회사는 “출시 시점에 텍스트 워터마크를 전 세계 기본값으로 삼지 않는다”고 밝혔다. 전 세계 API 고객은 오늘부터 일부 모델에서 워터마크가 들어간 출력을 골라 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "승인받은 연구자와 전문 기관은 행동강령(Code of Practice)에 따라 사안별로 탐지기 접근을 신청할 수 있다. 워터마크 누락과 오탐 위험 때문에 OpenAI는 출시 시점에 탐지기를 일반에 공개하지 않는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、EUで文章に\nAI Act対応の透かし",
-          "body": "OpenAIはまずEUのChatGPTとCodexにtextGrain透かしを導入する。",
-          "mini_headline": "OpenAI、EUで文章に透かし",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "テキスト出力に埋め込む、目に見えず機械で読み取れる透かしがChatGPTとCodexで展開され始めた。ただし当初は欧州連合の利用者のみが対象だ。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIによれば、同社のtextGrain透かしは、Google DeepMindのテキスト向けSynthIDなど他の手法と「同等かそれ以上」だった。SynthIDは、Anthropicが8月に発表した透かしの基盤でもある。AnthropicもOpenAIと同様、EUのAI Actの要件を満たすためにこの措置を取った。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは透かしの有無で性能が同程度であることを示すベンチマークスコアも公表したが、textGrainは「確実な検出を保証するものではない」とし、透かしは正確性の検証、所有権の判断、人間の寄与の測定、人間が書いたことの証明には使えないと注記している。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIによると、透かしは今後数週間でEU内の全プランの対象となるChatGPTとCodexの利用者に適用される。同社は「提供開始時点ではテキスト透かしを世界共通の初期設定にはしない」としている。世界中のAPI顧客は本日から、一部モデルで透かし入り出力をオプトインで利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "承認を受けた研究者や専門機関は、行動規範（Code of Practice）に基づき個別に検出ツールへのアクセスを申請できる。OpenAIは透かしの見逃しや誤検出のリスクを理由に、提供開始時点では検出ツールを一般公開しない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI在EU推文本水印\n以满足AI Act要求",
-          "body": "OpenAI在EU为ChatGPT和Codex引入textGrain水印，尚非全球默认。",
-          "mini_headline": "OpenAI在EU为文本加水印",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "一种嵌入文本输出、肉眼不可见但机器可读的水印正向ChatGPT和Codex推出，但起初仅面向欧盟用户。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI称，其textGrain水印“持平或超过”Google DeepMind的文本版SynthID等其他方法，SynthID也是Anthropic于8月宣布的水印方案的基础。与OpenAI一样，Anthropic此举也是为了满足EU AI Act的要求。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI还公布了基准测试分数，显示带水印与不带水印文本的表现相近，但指出textGrain“不保证可靠检测”，且水印无法核实准确性、判定归属、衡量人类贡献或证明由人类撰写。"
-              },
-              {
-                "t": "p",
-                "x": "据OpenAI介绍，未来几周内，水印将覆盖EU所有套餐中符合条件的ChatGPT和Codex用户；公司“不会在推出时将文本水印设为全球默认”。全球API客户自今日起可为部分模型选择启用带水印的输出。"
-              },
-              {
-                "t": "p",
-                "x": "经批准的研究人员和专业机构可依据《行为准则》（Code of Practice）逐案申请检测器访问权限。OpenAI以可能漏检水印和误报为由，在推出时不公开提供检测器。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI marca sus textos en la EU\npara cumplir con la AI Act",
-          "body": "OpenAI lleva su marca de agua textGrain a ChatGPT y Codex en la EU, aunque aún no como opción global por defecto.",
-          "mini_headline": "OpenAI marca sus textos en la EU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Una marca de agua invisible y legible por máquinas en el texto generado está llegando a ChatGPT y Codex, aunque al principio solo para usuarios de la Unión Europea."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI afirma que su marca de agua textGrain “igualó o superó” a otros enfoques como SynthID para texto de Google DeepMind, que también es la base de la marca de agua que Anthropic anunció en agosto. Al igual que OpenAI, Anthropic dio el paso para cumplir los requisitos de la AI Act de la EU."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI también compartió puntuaciones de benchmarks que muestran un rendimiento similar entre texto con y sin marca de agua, pero advierte que textGrain “no garantiza una detección fiable” y que las marcas de agua no verifican la exactitud, no determinan la propiedad, no miden la contribución humana ni prueban la autoría humana."
-              },
-              {
-                "t": "p",
-                "x": "Según OpenAI, la marca de agua llegará en las próximas semanas a los usuarios elegibles de ChatGPT y Codex de todos los planes en la EU; la empresa “no hará de la marca de agua en texto una opción global por defecto en el lanzamiento”. Los clientes de la API de todo el mundo pueden activar desde hoy salidas con marca de agua en modelos seleccionados."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores autorizados y organizaciones expertas pueden solicitar acceso al detector caso por caso en virtud del Code of Practice. Alegando el riesgo de marcas de agua no detectadas y de falsos positivos, OpenAI no pondrá el detector a disposición del público en el lanzamiento."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI, EU서\nAI Act 맞춰 워터마크",
-          "body": "OpenAI가 EU ChatGPT·Codex에 textGrain 워터마크를 넣는다.",
-          "mini_headline": "OpenAI, EU서 텍스트 워터마크",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "텍스트 출력에 눈에 보이지 않고 기계가 읽을 수 있는 워터마크가 ChatGPT와 Codex에 도입되고 있다. 다만 처음에는 유럽연합 사용자에게만 적용된다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 자사 textGrain 워터마크가 Google DeepMind의 텍스트용 SynthID 등 다른 방식과 “대등하거나 그 이상”이었다고 밝혔다. SynthID는 Anthropic이 8월 발표한 워터마크의 기반이기도 하다. Anthropic도 OpenAI처럼 EU AI Act의 요건을 충족하려고 이 조치를 취했다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 워터마크를 넣은 텍스트와 넣지 않은 텍스트의 성능이 비슷하다는 벤치마크 점수도 공개했다. 다만 textGrain이 “신뢰할 수 있는 탐지를 보장하지 않는다”고 밝히고, 워터마크가 정확성을 검증하거나 소유권을 판단하거나 사람의 기여도를 측정하거나 사람이 썼다는 것을 증명하지는 못한다고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI에 따르면 워터마크는 앞으로 몇 주에 걸쳐 EU 내 모든 요금제의 대상 ChatGPT·Codex 사용자에게 적용된다. 회사는 “출시 시점에 텍스트 워터마크를 전 세계 기본값으로 삼지 않는다”고 밝혔다. 전 세계 API 고객은 오늘부터 일부 모델에서 워터마크가 들어간 출력을 선택해 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "승인받은 연구자와 전문 기관은 행동강령(Code of Practice)에 따라 사안별로 탐지기 접근을 신청할 수 있다. OpenAI는 워터마크 누락과 오탐 위험을 이유로 출시 시점에는 탐지기를 일반에 공개하지 않는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、EUで文章に\nAI Act対応の透かし",
-          "body": "OpenAIはまずEUのChatGPTとCodexにtextGrain透かしを導入する。",
-          "mini_headline": "OpenAI、EUで文章に透かし",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "テキスト出力に埋め込む、目に見えず機械で読み取れる透かしがChatGPTとCodexで展開され始めた。ただし当初は欧州連合の利用者のみが対象だ。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIによれば、同社のtextGrain透かしは、Google DeepMindのテキスト向けSynthIDなど他の手法と「同等かそれ以上」だった。SynthIDは、Anthropicが8月に発表した透かしの基盤でもある。AnthropicもOpenAIと同様、EUのAI Actの要件を満たすためにこの措置を取った。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは透かしの有無で性能が同程度であることを示すベンチマークスコアも公表したが、textGrainは「確実な検出を保証するものではない」とし、透かしは正確性の検証、所有権の判断、人間の寄与の測定、人間が書いたことの証明には使えないと注記している。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIによると、透かしは今後数週間でEU内の全プランの対象となるChatGPTとCodexの利用者に適用される。同社は「提供開始時点ではテキスト透かしを世界共通の初期設定にはしない」としている。世界中のAPI顧客は本日から、一部モデルで透かし入り出力をオプトインで利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "承認を受けた研究者や専門機関は、行動規範（Code of Practice）に基づき個別に検出ツールへのアクセスを申請できる。OpenAIは透かしの見逃しや誤検出のリスクを理由に、提供開始時点では検出ツールを一般公開しない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI在EU推文本水印\n以满足AI Act要求",
-          "body": "OpenAI在EU为ChatGPT和Codex引入textGrain水印，尚非全球默认。",
-          "mini_headline": "OpenAI在EU为文本加水印",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "一种嵌入文本输出、肉眼不可见但机器可读的水印正向ChatGPT和Codex推出，但起初仅面向欧盟用户。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI称，其textGrain水印“持平或超过”Google DeepMind的文本版SynthID等其他方法，SynthID也是Anthropic于8月宣布的水印方案的基础。与OpenAI一样，Anthropic此举也是为了满足EU AI Act的要求。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI还公布了基准测试分数，显示带水印与不带水印文本的表现相近，但指出textGrain“不保证可靠检测”，且水印无法核实准确性、判定归属、衡量人类贡献或证明由人类撰写。"
-              },
-              {
-                "t": "p",
-                "x": "据OpenAI介绍，未来几周内，水印将覆盖EU所有套餐中符合条件的ChatGPT和Codex用户；公司“不会在推出时将文本水印设为全球默认”。全球API客户自今日起可为部分模型选择启用带水印的输出。"
-              },
-              {
-                "t": "p",
-                "x": "经批准的研究人员和专业机构可依据《行为准则》（Code of Practice）逐案申请检测器访问权限。OpenAI以可能漏检水印和误报为由，在推出时不公开提供检测器。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI marca sus textos en la EU\npara cumplir con la AI Act",
-          "body": "OpenAI lleva su marca de agua textGrain a ChatGPT y Codex en la EU, aunque aún no como opción global por defecto.",
-          "mini_headline": "OpenAI marca sus textos en la EU",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Una marca de agua invisible y legible por máquinas en el texto generado está llegando a ChatGPT y Codex, aunque al principio solo para usuarios de la Unión Europea."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI afirma que su marca de agua textGrain “igualó o superó” a otros enfoques como SynthID para texto de Google DeepMind, que también es la base de la marca de agua que Anthropic anunció en agosto. Al igual que OpenAI, Anthropic dio el paso para cumplir los requisitos de la AI Act de la EU."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI también compartió puntuaciones de benchmarks que muestran un rendimiento similar entre texto con y sin marca de agua, pero advierte que textGrain “no garantiza una detección fiable” y que las marcas de agua no verifican la exactitud, no determinan la propiedad, no miden la contribución humana ni prueban la autoría humana."
-              },
-              {
-                "t": "p",
-                "x": "Según OpenAI, la marca de agua llegará en las próximas semanas a los usuarios elegibles de ChatGPT y Codex de todos los planes en la EU; la empresa “no hará de la marca de agua en texto una opción global por defecto en el lanzamiento”. Los clientes de la API de todo el mundo pueden activar desde hoy salidas con marca de agua en modelos seleccionados."
-              },
-              {
-                "t": "p",
-                "x": "Investigadores autorizados y organizaciones expertas pueden solicitar acceso al detector caso por caso en virtud del Code of Practice. Alegando el riesgo de marcas de agua no detectadas y de falsos positivos, OpenAI no pondrá el detector a disposición del público en el lanzamiento."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "백악관 '초지능군'\n헌장 내용 공개",
+     "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
+     "mini_headline": "초지능군 헌장",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
+       },
+       {
+        "t": "p",
+        "x": "POLITICO가 입수한 헌장을 보면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 줬다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유를 위협할 때 기술 업계와 연방정부가 어떻게 대응할지 정하는 권한이다. 논의를 잘 아는 세 사람이 문서가 진본이라고 확인했다."
+       },
+       {
+        "t": "p",
+        "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾는다. AI 위험 보고서도 쓰는데, 시민의 자유와 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 영향을 중심으로 다룬다."
+       },
+       {
+        "t": "p",
+        "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일로, 수지 와일스 비서실장이 지시하면 늘릴 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "헌장은 생물보안과 상수도 위협도 짚었다. AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 일도 이 조직의 몫이다."
+       },
+       {
+        "t": "p",
+        "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
+       }
+      ]
+     }
     },
-    {
-      "id": "european-parliament-deepfake-porn-research",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "EU 의원 쉰 명,\n딥페이크 음란물 표적",
-      "body": "연구에 따르면 EU 의원 50명이 딥페이크 음란물 표적이 됐고 46명이 여성이다.",
-      "mini_headline": "딥페이크 음란물, MEPs 50명 겨냥",
-      "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-            "cap": "사진 일러스트: 2026년 1월 12일 런던의 한 화면에 AI 프롬프트로 만든 영상 예시가 떠 있다. | Leon Neal/Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "월요일 공개된 새 연구에 따르면 유럽연합 의원 쉰 명이 딥페이크 음란물의 표적이 됐다. 이 가운데 46명이 여성이다."
-          },
-          {
-            "t": "p",
-            "x": "독일에 본부를 둔(Germany-based) 시민사회단체 Agora Digitale Transformation은 보고서에서 표적이 된 여성 수로 따지면 유럽의회 여성 의원 약 여섯 명 중 한 명이 피해를 입은 셈이라고 밝혔다. 딥페이크 음란물은 생성형 AI로 흔히 당사자 동의 없이 사람을 성적으로 노골적으로 묘사한 것을 말한다."
-          },
-          {
-            "t": "p",
-            "x": "유럽연합은 12월 2일 AI 기반(AI-powered) 누디파이어 앱을 금지한다. 소셜미디어 플랫폼 X에서 Grok이 비슷하게 쓰인 사례도 조사 중이다."
-          },
-          {
-            "t": "p",
-            "x": "Renew, 사회당 그룹, The Left 대표 등 초당적 MEPs 119명은 9월 30일 우르줄라 폰데어라이엔(Ursula von der Leyen) 집행위원장 등 EU 지도부에 서한을 보내 금지 조치를 실효성 있게 집행하고 Grok 조사를 서둘러 매듭지으라고 촉구했다."
-          },
-          {
-            "t": "p",
-            "x": "서한에 함께 서명한 오스트리아 녹색당 MEP 레나 실링(Lena Schilling)은 월요일 기자들에게 금지 조치 집행에 “어떤 허점이나 지연도 있어선 안 된다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "보고서 공동 저자 벤저민 슐츠(Benjamin Shultz)는 정치인은 자기 모습이 온라인에 올라가는 걸 거부할 수 없어서 AI 누디파이어의 표적이 되는 일을 피하기 어렵다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "슐츠는 금지를 집행하려면 집행위원회가 때로 의도치 않게 누디파이어 산업을 돕는 모든 주체에 책임을 물어야 한다고 했다. 결제 처리업체와 도메인 등록업체도 여기에 든다. 보고서는 집행위원회가 검색엔진이 AI 누디파이어 웹사이트를 색인에서 빼도록, 곧 데이터베이스에서 지우도록 하는 방안도 검토해야 한다고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Fifty EU lawmakers targeted\nby deepfake pornography",
-          "body": "New research released Monday found 50 EU lawmakers, 46 of them women, have been targeted by deepfake pornography.",
-          "mini_headline": "Deepfake porn targets 50 MEPs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "In this photo illustration, a screen displays examples of AI prompt-created videos, in London on Jan. 12, 2026. | Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday."
-              },
-              {
-                "t": "p",
-                "x": "The number of women targeted by deepfake pornography — when generative AI is used to create sexually explicit depictions of people, often without their consent — means roughly one in six female members of the European Parliament have been affected, the report by Agora Digitale Transformation, a Germany-based civil society group, said."
-              },
-              {
-                "t": "p",
-                "x": "The European Union is banning AI-powered nudifier apps on Dec. 2, and is also investigating similar use of Grok on the social media platform X."
-              },
-              {
-                "t": "p",
-                "x": "A cross-party group of 119 MEPs, including the leaders of Renew, the socialists and The Left, called for effective enforcement of the ban and prompt resolution of the Grok investigation in a Sept. 30 letter to EU leaders including Commission President Ursula von der Leyen."
-              },
-              {
-                "t": "p",
-                "x": "“There can't be any loopholes or delays” in enforcing the ban, Austrian Greens MEP Lena Schilling, who also signed the letter, told reporters on Monday."
-              },
-              {
-                "t": "p",
-                "x": "Politicians can't opt out of having their likeness online, so it's hard for them to avoid being targeted by AI nudifiers, said Benjamin Shultz, who co-authored the report."
-              },
-              {
-                "t": "p",
-                "x": "Shultz said that to enforce the ban, the Commission needs to hold accountable all entities that, at times, inadvertently enable the nudifier industry. That also includes payment processors and domain registrars. The report said the Commission should also look into how to get search engines to de-index AI nudifier websites, meaning removing them from their databases."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "EU 의원 쉰 명,\n딥페이크 음란물 표적",
-          "body": "연구에 따르면 EU 의원 50명이 딥페이크 음란물 표적이 됐고 46명이 여성이다.",
-          "mini_headline": "딥페이크 음란물, MEPs 50명 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "사진 일러스트: 2026년 1월 12일 런던의 한 화면에 AI 프롬프트로 만든 영상 예시가 떠 있다. | Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "월요일 공개된 새 연구에 따르면 유럽연합 의원 쉰 명이 딥페이크 음란물의 표적이 됐다. 이 가운데 46명이 여성이다."
-              },
-              {
-                "t": "p",
-                "x": "독일에 본부를 둔(Germany-based) 시민사회단체 Agora Digitale Transformation은 보고서에서 표적이 된 여성 수로 따지면 유럽의회 여성 의원 약 여섯 명 중 한 명이 피해를 입은 셈이라고 밝혔다. 딥페이크 음란물은 생성형 AI로 흔히 당사자 동의 없이 사람을 성적으로 노골적으로 묘사한 것을 말한다."
-              },
-              {
-                "t": "p",
-                "x": "유럽연합은 12월 2일 AI 기반(AI-powered) 누디파이어 앱을 금지한다. 소셜미디어 플랫폼 X에서 Grok이 비슷하게 쓰인 사례도 조사 중이다."
-              },
-              {
-                "t": "p",
-                "x": "Renew, 사회당 그룹, The Left 대표 등 초당적 MEPs 119명은 9월 30일 우르줄라 폰데어라이엔(Ursula von der Leyen) 집행위원장 등 EU 지도부에 서한을 보내 금지 조치를 실효성 있게 집행하고 Grok 조사를 서둘러 매듭지으라고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "서한에 함께 서명한 오스트리아 녹색당 MEP 레나 실링(Lena Schilling)은 월요일 기자들에게 금지 조치 집행에 “어떤 허점이나 지연도 있어선 안 된다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 공동 저자 벤저민 슐츠(Benjamin Shultz)는 정치인은 자기 모습이 온라인에 올라가는 걸 거부할 수 없어서 AI 누디파이어의 표적이 되는 일을 피하기 어렵다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "슐츠는 금지를 집행하려면 집행위원회가 때로 의도치 않게 누디파이어 산업을 돕는 모든 주체에 책임을 물어야 한다고 했다. 결제 처리업체와 도메인 등록업체도 여기에 든다. 보고서는 집행위원회가 검색엔진이 AI 누디파이어 웹사이트를 색인에서 빼도록, 곧 데이터베이스에서 지우도록 하는 방안도 검토해야 한다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "EU議員五十人が\n性的ディープフェイクの標的に",
-          "body": "新研究で、EU議員50人が性的ディープフェイクの標的となり、うち46人が女性だった。",
-          "mini_headline": "MEPs 50人が性的ディープフェイクの標的に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "写真イラスト：2026年1月12日、ロンドンで、AIのプロンプトで作成された動画の例を映す画面。| Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "月曜日に公表された新たな研究によると、女性46人を含む欧州連合の議員五十人が性的ディープフェイクの標的となっていた。"
-              },
-              {
-                "t": "p",
-                "x": "ドイツを拠点とする（Germany-based）市民団体Agora Digitale Transformationの報告書によると、性的ディープフェイク（生成AIを使い、多くは本人の同意なく人物の性的に露骨な描写を作ること）の標的となった女性の数は、欧州議会の女性議員のおよそ六人に一人が被害を受けたことを意味する。"
-              },
-              {
-                "t": "p",
-                "x": "欧州連合は12月2日にAIを使った（AI-powered）ヌーディファイアアプリを禁止するほか、ソーシャルメディアプラットフォームXでのGrokの同様の利用についても調査している。"
-              },
-              {
-                "t": "p",
-                "x": "Renew、社会民主主義会派、The Leftの各リーダーを含む超党派のMEPs 119人は、9月30日にウルズラ・フォンデアライエン（Ursula von der Leyen）欧州委員長らEU指導部に宛てた書簡で、禁止措置の実効的な執行とGrok調査の迅速な決着を求めた。"
-              },
-              {
-                "t": "p",
-                "x": "書簡に署名したオーストリア緑の党のMEP、レナ・シリング（Lena Schilling）氏は月曜日、禁止措置の執行に「抜け穴や遅れがあってはならない」と記者団に語った。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の共著者ベンジャミン・シュルツ（Benjamin Shultz）氏は、政治家は自分の姿がネットに出ることを拒めないため、AIヌーディファイアの標的になるのを避けるのは難しいと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "シュルツ氏は、禁止を執行するには、時に意図せずヌーディファイア産業を支えてしまうあらゆる主体の責任を欧州委員会が問う必要があると述べた。これには決済代行業者やドメイン登録業者も含まれる。報告書は、欧州委員会が検索エンジンにAIヌーディファイアのサイトをインデックスから外させる、つまりデータベースから削除させる方法も検討すべきだとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "五十名EU议员\n成深度伪造色情目标",
-          "body": "周一发布的研究显示，50名EU议员遭深度伪造色情内容针对，其中46人为女性。",
-          "mini_headline": "深度伪造色情针对50名MEPs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "照片插图：2026年1月12日，伦敦，屏幕上显示用AI提示词生成的视频示例。| Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "据周一发布的一项新研究，包括46名女性在内的五十名欧盟议员曾成为深度伪造色情内容的目标。"
-              },
-              {
-                "t": "p",
-                "x": "总部位于德国（Germany-based）的公民社会组织Agora Digitale Transformation在报告中表示，深度伪造色情——即利用生成式AI制作他人露骨的性描绘，且往往未经本人同意——所针对的女性人数意味着，欧洲议会约六分之一的女性议员受到影响。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟将于12月2日禁止AI驱动（AI-powered）的“一键脱衣”应用，并正在调查社交媒体平台X上Grok的类似用途。"
-              },
-              {
-                "t": "p",
-                "x": "包括Renew、社会党团和The Left领导人在内的119名跨党派MEPs，在9月30日致欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）等EU领导人的信中，呼吁切实执行该禁令，并尽快了结对Grok的调查。"
-              },
-              {
-                "t": "p",
-                "x": "同样在信上签名的奥地利绿党MEP莉娜·席林（Lena Schilling）周一对记者表示，执行禁令“不能有任何漏洞或拖延”。"
-              },
-              {
-                "t": "p",
-                "x": "报告合著者本杰明·舒尔茨（Benjamin Shultz）表示，政治人物无法选择让自己的肖像不出现在网上，因此很难避免成为AI脱衣工具的目标。"
-              },
-              {
-                "t": "p",
-                "x": "舒尔茨表示，要执行禁令，欧盟委员会需要追究所有有时无意中助长脱衣工具产业的实体的责任，其中也包括支付处理商和域名注册商。报告称，欧盟委员会还应研究如何促使搜索引擎将AI脱衣网站从索引中移除，即从其数据库中删除。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cincuenta legisladores de la EU\nblanco de pornografía deepfake",
-          "body": "Un nuevo estudio revela que 50 legisladores de la EU, 46 de ellos mujeres, han sido blanco de pornografía deepfake.",
-          "mini_headline": "Pornografía deepfake contra 50 MEPs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "En esta fotoilustración, una pantalla muestra ejemplos de videos creados con prompts de AI, en Londres, el 12 de enero de 2026. | Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Cincuenta legisladores de la Unión Europea, entre ellos 46 mujeres, han sido blanco de pornografía deepfake, según un nuevo estudio publicado el lunes."
-              },
-              {
-                "t": "p",
-                "x": "El número de mujeres afectadas por la pornografía deepfake —cuando se usa AI generativa para crear representaciones sexualmente explícitas de personas, a menudo sin su consentimiento— supone que aproximadamente una de cada seis eurodiputadas se ha visto afectada, según el informe de Agora Digitale Transformation, un grupo de la sociedad civil con sede en Alemania (Germany-based)."
-              },
-              {
-                "t": "p",
-                "x": "La Unión Europea prohibirá el 2 de diciembre las aplicaciones para desnudar impulsadas por AI (AI-powered), y también investiga un uso similar de Grok en la red social X."
-              },
-              {
-                "t": "p",
-                "x": "Un grupo multipartidista de 119 MEPs, que incluye a los líderes de Renew, los socialistas y The Left, pidió la aplicación efectiva de la prohibición y una pronta resolución de la investigación sobre Grok en una carta del 30 de septiembre dirigida a líderes de la EU, entre ellos la presidenta de la Comisión, Ursula von der Leyen."
-              },
-              {
-                "t": "p",
-                "x": "“No puede haber resquicios ni retrasos” en la aplicación de la prohibición, dijo el lunes a los periodistas la MEP de los Verdes austriacos Lena Schilling, que también firmó la carta."
-              },
-              {
-                "t": "p",
-                "x": "Los políticos no pueden optar por que su imagen no esté en internet, por lo que les resulta difícil evitar ser blanco de las herramientas de AI para desnudar, dijo Benjamin Shultz, coautor del informe."
-              },
-              {
-                "t": "p",
-                "x": "Shultz dijo que, para hacer cumplir la prohibición, la Comisión debe pedir cuentas a todas las entidades que, a veces sin querer, facilitan la industria de las herramientas para desnudar. Eso incluye también a los procesadores de pagos y a los registradores de dominios. El informe señala que la Comisión también debería estudiar cómo lograr que los buscadores desindexen los sitios web de AI para desnudar, es decir, que los eliminen de sus bases de datos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "EU 의원 쉰 명,\n딥페이크 음란물 표적",
-          "body": "연구에 따르면 EU 의원 50명이 딥페이크 음란물 표적이 됐고 46명이 여성이다.",
-          "mini_headline": "딥페이크 음란물, MEPs 50명 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "사진 일러스트: 2026년 1월 12일 런던의 한 화면에 AI 프롬프트로 만든 영상 예시가 떠 있다. | Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "월요일 공개된 새 연구에 따르면, 여성 46명을 포함한 유럽연합 의원 쉰 명이 딥페이크 음란물의 표적이 됐다."
-              },
-              {
-                "t": "p",
-                "x": "독일에 기반을 둔(Germany-based) 시민사회단체 Agora Digitale Transformation은 보고서에서, 딥페이크 음란물 — 생성형 AI로 흔히 당사자 동의 없이 사람을 성적으로 노골적으로 묘사하는 것 — 의 표적이 된 여성 수로 볼 때 유럽의회 여성 의원 약 여섯 명 중 한 명이 피해를 입은 셈이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "유럽연합은 12월 2일 AI 기반(AI-powered) 누디파이어 앱을 금지하며, 소셜미디어 플랫폼 X에서 Grok이 비슷하게 쓰인 사례도 조사하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Renew, 사회당 그룹, The Left 대표 등이 포함된 초당적 MEPs 119명은 9월 30일 우르줄라 폰데어라이엔(Ursula von der Leyen) 집행위원장 등 EU 지도부에 보낸 서한에서 금지 조치의 실효적 집행과 Grok 조사의 신속한 결론을 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "서한에 함께 서명한 오스트리아 녹색당 MEP 레나 실링(Lena Schilling)은 월요일 기자들에게 금지 조치 집행에 “어떤 허점이나 지연도 있어선 안 된다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 공동 저자인 벤저민 슐츠(Benjamin Shultz)는 정치인은 자신의 모습이 온라인에 올라가는 것을 거부할 수 없어 AI 누디파이어의 표적이 되는 것을 피하기 어렵다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "슐츠는 금지를 집행하려면 집행위원회가 때로 의도치 않게 누디파이어 산업을 돕는 모든 주체에 책임을 물어야 한다고 했다. 여기에는 결제 처리업체와 도메인 등록업체도 포함된다. 보고서는 집행위원회가 검색엔진이 AI 누디파이어 웹사이트를 색인에서 제외하도록, 즉 데이터베이스에서 삭제하도록 하는 방안도 검토해야 한다고 밝혔다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "EU議員五十人が\n性的ディープフェイクの標的に",
-          "body": "新研究で、EU議員50人が性的ディープフェイクの標的となり、うち46人が女性だった。",
-          "mini_headline": "MEPs 50人が性的ディープフェイクの標的に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "写真イラスト：2026年1月12日、ロンドンで、AIのプロンプトで作成された動画の例を映す画面。| Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "月曜日に公表された新たな研究によると、女性46人を含む欧州連合の議員五十人が性的ディープフェイクの標的となっていた。"
-              },
-              {
-                "t": "p",
-                "x": "ドイツを拠点とする（Germany-based）市民団体Agora Digitale Transformationの報告書によると、性的ディープフェイク（生成AIを使い、多くは本人の同意なく人物の性的に露骨な描写を作ること）の標的となった女性の数は、欧州議会の女性議員のおよそ六人に一人が被害を受けたことを意味する。"
-              },
-              {
-                "t": "p",
-                "x": "欧州連合は12月2日にAIを使った（AI-powered）ヌーディファイアアプリを禁止するほか、ソーシャルメディアプラットフォームXでのGrokの同様の利用についても調査している。"
-              },
-              {
-                "t": "p",
-                "x": "Renew、社会民主主義会派、The Leftの各リーダーを含む超党派のMEPs 119人は、9月30日にウルズラ・フォンデアライエン（Ursula von der Leyen）欧州委員長らEU指導部に宛てた書簡で、禁止措置の実効的な執行とGrok調査の迅速な決着を求めた。"
-              },
-              {
-                "t": "p",
-                "x": "書簡に署名したオーストリア緑の党のMEP、レナ・シリング（Lena Schilling）氏は月曜日、禁止措置の執行に「抜け穴や遅れがあってはならない」と記者団に語った。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の共著者ベンジャミン・シュルツ（Benjamin Shultz）氏は、政治家は自分の姿がネットに出ることを拒めないため、AIヌーディファイアの標的になるのを避けるのは難しいと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "シュルツ氏は、禁止を執行するには、時に意図せずヌーディファイア産業を支えてしまうあらゆる主体の責任を欧州委員会が問う必要があると述べた。これには決済代行業者やドメイン登録業者も含まれる。報告書は、欧州委員会が検索エンジンにAIヌーディファイアのサイトをインデックスから外させる、つまりデータベースから削除させる方法も検討すべきだとしている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "五十名EU议员\n成深度伪造色情目标",
-          "body": "周一发布的研究显示，50名EU议员遭深度伪造色情内容针对，其中46人为女性。",
-          "mini_headline": "深度伪造色情针对50名MEPs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "照片插图：2026年1月12日，伦敦，屏幕上显示用AI提示词生成的视频示例。| Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "据周一发布的一项新研究，包括46名女性在内的五十名欧盟议员曾成为深度伪造色情内容的目标。"
-              },
-              {
-                "t": "p",
-                "x": "总部位于德国（Germany-based）的公民社会组织Agora Digitale Transformation在报告中表示，深度伪造色情——即利用生成式AI制作他人露骨的性描绘，且往往未经本人同意——所针对的女性人数意味着，欧洲议会约六分之一的女性议员受到影响。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟将于12月2日禁止AI驱动（AI-powered）的“一键脱衣”应用，并正在调查社交媒体平台X上Grok的类似用途。"
-              },
-              {
-                "t": "p",
-                "x": "包括Renew、社会党团和The Left领导人在内的119名跨党派MEPs，在9月30日致欧盟委员会主席乌尔苏拉·冯德莱恩（Ursula von der Leyen）等EU领导人的信中，呼吁切实执行该禁令，并尽快了结对Grok的调查。"
-              },
-              {
-                "t": "p",
-                "x": "同样在信上签名的奥地利绿党MEP莉娜·席林（Lena Schilling）周一对记者表示，执行禁令“不能有任何漏洞或拖延”。"
-              },
-              {
-                "t": "p",
-                "x": "报告合著者本杰明·舒尔茨（Benjamin Shultz）表示，政治人物无法选择让自己的肖像不出现在网上，因此很难避免成为AI脱衣工具的目标。"
-              },
-              {
-                "t": "p",
-                "x": "舒尔茨表示，要执行禁令，欧盟委员会需要追究所有有时无意中助长脱衣工具产业的实体的责任，其中也包括支付处理商和域名注册商。报告称，欧盟委员会还应研究如何促使搜索引擎将AI脱衣网站从索引中移除，即从其数据库中删除。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Cincuenta legisladores de la EU\nblanco de pornografía deepfake",
-          "body": "Un nuevo estudio revela que 50 legisladores de la EU, 46 de ellos mujeres, han sido blanco de pornografía deepfake.",
-          "mini_headline": "Pornografía deepfake contra 50 MEPs",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-                "cap": "En esta fotoilustración, una pantalla muestra ejemplos de videos creados con prompts de AI, en Londres, el 12 de enero de 2026. | Leon Neal/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Cincuenta legisladores de la Unión Europea, entre ellos 46 mujeres, han sido blanco de pornografía deepfake, según un nuevo estudio publicado el lunes."
-              },
-              {
-                "t": "p",
-                "x": "El número de mujeres afectadas por la pornografía deepfake —cuando se usa AI generativa para crear representaciones sexualmente explícitas de personas, a menudo sin su consentimiento— supone que aproximadamente una de cada seis eurodiputadas se ha visto afectada, según el informe de Agora Digitale Transformation, un grupo de la sociedad civil con sede en Alemania (Germany-based)."
-              },
-              {
-                "t": "p",
-                "x": "La Unión Europea prohibirá el 2 de diciembre las aplicaciones para desnudar impulsadas por AI (AI-powered), y también investiga un uso similar de Grok en la red social X."
-              },
-              {
-                "t": "p",
-                "x": "Un grupo multipartidista de 119 MEPs, que incluye a los líderes de Renew, los socialistas y The Left, pidió la aplicación efectiva de la prohibición y una pronta resolución de la investigación sobre Grok en una carta del 30 de septiembre dirigida a líderes de la EU, entre ellos la presidenta de la Comisión, Ursula von der Leyen."
-              },
-              {
-                "t": "p",
-                "x": "“No puede haber resquicios ni retrasos” en la aplicación de la prohibición, dijo el lunes a los periodistas la MEP de los Verdes austriacos Lena Schilling, que también firmó la carta."
-              },
-              {
-                "t": "p",
-                "x": "Los políticos no pueden optar por que su imagen no esté en internet, por lo que les resulta difícil evitar ser blanco de las herramientas de AI para desnudar, dijo Benjamin Shultz, coautor del informe."
-              },
-              {
-                "t": "p",
-                "x": "Shultz dijo que, para hacer cumplir la prohibición, la Comisión debe pedir cuentas a todas las entidades que, a veces sin querer, facilitan la industria de las herramientas para desnudar. Eso incluye también a los procesadores de pagos y a los registradores de dominios. El informe señala que la Comisión también debería estudiar cómo lograr que los buscadores desindexen los sitios web de AI para desnudar, es decir, que los eliminen de sus bases de datos."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "ホワイトハウス\n「超知能部隊」の憲章",
+     "body": "POLITICOが、AIの脅威に対する広い権限を持つホワイトハウス組織の憲章を公開した。",
+     "mini_headline": "超知能部隊の憲章",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
+       },
+       {
+        "t": "p",
+        "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
+       },
+       {
+        "t": "p",
+        "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
+       },
+       {
+        "t": "p",
+        "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
+       },
+       {
+        "t": "p",
+        "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
+       },
+       {
+        "t": "p",
+        "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
+       }
+      ]
+     }
     },
-    {
-      "id": "moreno-letter-anthropic-amodei",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Sen. 모레노,\nAnthropic에 서한",
-      "body": "Sen. 모레노가 Anthropic에 '공포 조장' AI 발언 자제를 촉구했다.",
-      "mini_headline": "모레노, Anthropic에 서한\n'공포 조장' AI 발언 두고",
-      "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-            "cap": "9월 3일 워싱턴 미국평화연구소(U.S. Institute of Peace)의 버니 모레노(Sen. Bernie Moreno) 상원의원. 사진: Andrew Harnik/Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "Axios가 입수한 월요일 발송 서한에 따르면, 버니 모레노(Sen. Bernie Moreno, R-Ohio) 상원의원은 Anthropic의 다리오 아모데이(Dario Amodei) CEO에게 AI를 둘러싼 “공포를 조장하는 접근”과 “패닉을 유발하는 발언”을 하지 말라고 촉구했다."
-          },
-          {
-            "t": "p",
-            "x": "Axios는 이 서한을 트럼프 대통령의 측근들이 아모데이를 겨냥한 최근 사례로 꼽았다. 기업가치 추정치가 최대 2조 달러에 육박하는 Anthropic의 IPO를 앞둔 시점에 나온 서한이다."
-          },
-          {
-            "t": "p",
-            "x": "모레노는 “당신의 제품이 결국 그들의 멸종으로 이어질 수 있다고 바로 그 미국인들에게 경고하면서, 어떻게 그들에게 힘들게 모은 저축을 Anthropic의 지속적인 개발에 투자하라고 요구할 수 있는지 이해할 수 없다”고 썼다. 이어 “큰 힘에는 큰 책임이 따른다. 이번 경우 당신이 이 순간에 걸맞게 대응하지 못하고 있는 것이 우려된다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "모레노는 트럼프가 AI 대신 쓰기 시작한 새 용어 “초지능”(SI)을 쓰면서, “파멸론자” 시각에 동조하는 아모데이의 발언이 “공공 SI 담론을 혼란에 빠뜨리려는 것이 당신의 본능임을 보여준다”고 말했다. 그러면서 지금 경고하는 바로 그 위협을 AI가 어떻게 막고 국가안보를 강화하며 미국(U.S.)이 중국을 앞서게 할 수 있는지에 더 무게를 두라고 촉구했다."
-          },
-          {
-            "t": "p",
-            "x": "AI와 데이터센터를 향한 대중의 우려는 중간선거 쟁점이 됐다. 같은 오하이오주 공화당 소속 존 허스티드(Sen. Jon Husted) 상원의원은 재선에 도전하면서 자신을 데이터센터 찬성론자라고 비난하는 광고와 맞닥뜨렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Sen. Moreno writes to Anthropic\nover 'alarmist' AI commentary",
-          "body": "In a Monday letter, Sen. Bernie Moreno urged Anthropic's Dario Amodei to avoid what he called 'alarmist' AI commentary.",
-          "mini_headline": "Moreno writes Anthropic\non 'alarmist' AI talk",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "Sen. Bernie Moreno at the U.S. Institute of Peace on Sept. 3 in Washington. Photo: Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtained by Axios."
-              },
-              {
-                "t": "p",
-                "x": "Axios describes the letter as the latest example of President Trump's allies targeting Amodei. It comes ahead of Anthropic's expected IPO, with valuation estimates as high as nearly $2 trillion."
-              },
-              {
-                "t": "p",
-                "x": "\"I do not understand how you can ask them to invest their hard-earned savings in Anthropic's continued development while warning those same Americans that your product could ultimately lead to their extinction,\" Moreno wrote. \"With great power comes great responsibility, and in this case, I am concerned that you are failing to meet the moment.\""
-              },
-              {
-                "t": "p",
-                "x": "Adopting Trump's new term \"super intelligence\" (SI) in place of AI, Moreno said Amodei's words agreeing with \"doomer\" views \"indicate that your instinct is to wreak havoc on the public SI discourse.\" He urged more emphasis on how AI can guard against the very threats being warned about, strengthen national security and keep the U.S. ahead of China."
-              },
-              {
-                "t": "p",
-                "x": "Public concern over AI and data centers has become a midterm issue; fellow Ohio Republican Sen. Jon Husted has faced ads accusing him of being pro-data centers as he seeks re-election."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sen. 모레노,\nAnthropic에 서한",
-          "body": "Sen. 모레노가 Anthropic에 '공포 조장' AI 발언 자제를 촉구했다.",
-          "mini_headline": "모레노, Anthropic에 서한\n'공포 조장' AI 발언 두고",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9월 3일 워싱턴 미국평화연구소(U.S. Institute of Peace)의 버니 모레노(Sen. Bernie Moreno) 상원의원. 사진: Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Axios가 입수한 월요일 발송 서한에 따르면, 버니 모레노(Sen. Bernie Moreno, R-Ohio) 상원의원은 Anthropic의 다리오 아모데이(Dario Amodei) CEO에게 AI를 둘러싼 “공포를 조장하는 접근”과 “패닉을 유발하는 발언”을 하지 말라고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "Axios는 이 서한을 트럼프 대통령의 측근들이 아모데이를 겨냥한 최근 사례로 꼽았다. 기업가치 추정치가 최대 2조 달러에 육박하는 Anthropic의 IPO를 앞둔 시점에 나온 서한이다."
-              },
-              {
-                "t": "p",
-                "x": "모레노는 “당신의 제품이 결국 그들의 멸종으로 이어질 수 있다고 바로 그 미국인들에게 경고하면서, 어떻게 그들에게 힘들게 모은 저축을 Anthropic의 지속적인 개발에 투자하라고 요구할 수 있는지 이해할 수 없다”고 썼다. 이어 “큰 힘에는 큰 책임이 따른다. 이번 경우 당신이 이 순간에 걸맞게 대응하지 못하고 있는 것이 우려된다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "모레노는 트럼프가 AI 대신 쓰기 시작한 새 용어 “초지능”(SI)을 쓰면서, “파멸론자” 시각에 동조하는 아모데이의 발언이 “공공 SI 담론을 혼란에 빠뜨리려는 것이 당신의 본능임을 보여준다”고 말했다. 그러면서 지금 경고하는 바로 그 위협을 AI가 어떻게 막고 국가안보를 강화하며 미국(U.S.)이 중국을 앞서게 할 수 있는지에 더 무게를 두라고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "AI와 데이터센터를 향한 대중의 우려는 중간선거 쟁점이 됐다. 같은 오하이오주 공화당 소속 존 허스티드(Sen. Jon Husted) 상원의원은 재선에 도전하면서 자신을 데이터센터 찬성론자라고 비난하는 광고와 맞닥뜨렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sen. モレノ氏が\nAnthropicに書簡",
-          "body": "Sen. モレノ氏が書簡でAnthropicに「不安をあおる」AI発言を控えるよう求めた。",
-          "mini_headline": "モレノ氏、Anthropicに書簡\n「不安をあおる」AI論めぐり",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9月3日、ワシントンの米国平和研究所（U.S. Institute of Peace）でのバーニー・モレノ上院議員（Sen. Bernie Moreno）。写真：Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Axiosが入手した月曜日付の書簡によると、バーニー・モレノ上院議員（Sen. Bernie Moreno、R-Ohio）は、Anthropicのダリオ・アモデイ（Dario Amodei）CEOに対し、AIをめぐる「不安をあおるアプローチ」や「パニックを誘発する論評」をやめるよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "Axiosはこの書簡を、トランプ大統領の支持者らがアモデイ氏を標的にする最新の例だと位置づけている。評価額の推計が最大で2兆ドル近くに達するAnthropicのIPOが見込まれるなかでの動きだ。"
-              },
-              {
-                "t": "p",
-                "x": "モレノ氏は「あなたの製品が最終的に彼らの絶滅につながりうると、まさにその米国民に警告しながら、どうして彼らに苦労して貯めた資金をAnthropicの継続的な開発に投資するよう求められるのか理解できない」と記した。さらに「大いなる力には大いなる責任が伴う。今回のケースでは、あなたがこの局面にふさわしい対応をできていないことを懸念している」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "モレノ氏は、トランプ氏がAIに代えて使い始めた新語「スーパーインテリジェンス」（SI）を用い、「破滅論者」的な見解に同調するアモデイ氏の発言は「あなたの本能が公共のSIをめぐる議論を混乱させることにあると示している」と述べた。そのうえで、警告されている脅威そのものからAIがいかに守り、国家安全保障を強化し、米国（U.S.）が中国の先を行けるようにするかを、もっと強調するよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "AIとデータセンターへの世論の懸念は中間選挙の争点となっている。同じオハイオ州選出の共和党、ジョン・ヒューステッド上院議員（Sen. Jon Husted）は再選を目指すなか、データセンター推進派だと非難する広告にさらされている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sen. 莫雷诺致信\nAnthropic批“危言”",
-          "body": "Sen. 莫雷诺周一致信Anthropic的阿莫代，促其避免“危言耸听”的AI言论。",
-          "mini_headline": "莫雷诺致信Anthropic\n批“危言耸听”的AI言论",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9月3日，参议员伯尼·莫雷诺（Sen. Bernie Moreno）在华盛顿的美国和平研究所（U.S. Institute of Peace）。摄影：Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "据Axios获得的一封周一发出的信件，参议员伯尼·莫雷诺（Sen. Bernie Moreno，R-Ohio）敦促Anthropic CEO达里奥·阿莫代（Dario Amodei）不要在AI问题上采取“危言耸听的做法”、发表“引发恐慌的言论”。"
-              },
-              {
-                "t": "p",
-                "x": "Axios称，这封信是特朗普总统的盟友针对阿莫代的最新例证。信件发出之际，Anthropic预计将进行IPO，估值预期最高接近2万亿美元。"
-              },
-              {
-                "t": "p",
-                "x": "莫雷诺写道：“你一边警告这些美国人你的产品最终可能导致他们灭绝，一边又要求他们把辛苦积攒的储蓄投入Anthropic的持续发展，我不明白你怎么能这样做。”他还写道：“能力越大，责任越大。在这件事上，我担心你未能不负这一时刻。”"
-              },
-              {
-                "t": "p",
-                "x": "莫雷诺采用特朗普用来取代AI的新术语“超级智能”（SI），称阿莫代认同“末日论者”观点的言论“表明你的本能是扰乱公众关于SI的讨论”。他敦促更多强调AI如何防范所警告的那些威胁、加强国家安全，并让美国（U.S.）保持对中国的领先。"
-              },
-              {
-                "t": "p",
-                "x": "公众对AI和数据中心的担忧已成为中期选举议题；同为俄亥俄州共和党人的参议员乔恩·胡斯特德（Sen. Jon Husted）在寻求连任之际，遭遇指责他支持数据中心的广告。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sen. Moreno escribe a Anthropic\npor su tono 'alarmista' sobre AI",
-          "body": "El Sen. Bernie Moreno pidió el lunes por carta a Dario Amodei, de Anthropic, evitar comentarios 'alarmistas' sobre AI.",
-          "mini_headline": "Moreno escribe a Anthropic\npor su discurso 'alarmista' de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "El Sen. Bernie Moreno en el U.S. Institute of Peace, el 3 de septiembre en Washington. Foto: Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "El Sen. Bernie Moreno (R-Ohio) insta al CEO de Anthropic, Dario Amodei, a dejar de lado un “enfoque alarmista” y los “comentarios que inducen al pánico” sobre la AI, según una carta enviada el lunes y obtenida por Axios."
-              },
-              {
-                "t": "p",
-                "x": "Axios describe la carta como el ejemplo más reciente de aliados del presidente Trump que apuntan contra Amodei. Llega antes de la esperada IPO de Anthropic, con estimaciones de valoración de hasta casi 2 billones de dólares."
-              },
-              {
-                "t": "p",
-                "x": "“No entiendo cómo puede pedirles que inviertan sus ahorros, ganados con esfuerzo, en el desarrollo continuo de Anthropic mientras advierte a esos mismos estadounidenses de que su producto podría acabar provocando su extinción”, escribió Moreno. “Un gran poder conlleva una gran responsabilidad, y en este caso me preocupa que no esté a la altura del momento”."
-              },
-              {
-                "t": "p",
-                "x": "Adoptando el nuevo término de Trump, “superinteligencia” (SI), en lugar de AI, Moreno dijo que las palabras de Amodei en sintonía con las posturas “catastrofistas” “indican que su instinto es sembrar el caos en el discurso público sobre la SI”. Pidió poner más énfasis en cómo la AI puede proteger frente a las mismas amenazas sobre las que se advierte, reforzar la seguridad nacional y mantener a Estados Unidos (U.S.) por delante de China."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación pública por la AI y los centros de datos se ha convertido en un tema de las elecciones de medio mandato; el también republicano de Ohio Sen. Jon Husted ha enfrentado anuncios que lo acusan de estar a favor de los centros de datos mientras busca la reelección."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sen. 모레노,\nAnthropic에 서한",
-          "body": "Sen. 모레노가 Anthropic에 '공포 조장' AI 발언 자제를 촉구했다.",
-          "mini_headline": "모레노, Anthropic에 서한\n'공포 조장' AI 발언 두고",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9월 3일 워싱턴 미국평화연구소(U.S. Institute of Peace)의 버니 모레노(Sen. Bernie Moreno) 상원의원. 사진: Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Axios가 입수한 월요일 발송 서한에 따르면, 버니 모레노(Sen. Bernie Moreno, R-Ohio) 상원의원은 Anthropic의 다리오 아모데이(Dario Amodei) CEO에게 AI를 둘러싼 “공포를 조장하는 접근”과 “패닉을 유발하는 발언”을 하지 말라고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "Axios는 이 서한을 트럼프 대통령의 측근들이 아모데이를 겨냥한 최근 사례로 규정했다. 서한은 기업가치 추정치가 최대 2조 달러에 육박하는 Anthropic의 IPO가 예상되는 가운데 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "모레노는 “당신의 제품이 결국 그들의 멸종으로 이어질 수 있다고 바로 그 미국인들에게 경고하면서, 어떻게 그들에게 힘들게 모은 저축을 Anthropic의 지속적인 개발에 투자하라고 요구할 수 있는지 이해할 수 없다”고 썼다. 이어 “큰 힘에는 큰 책임이 따른다. 이번 경우 당신이 이 순간에 걸맞게 대응하지 못하고 있는 것이 우려된다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "모레노는 트럼프가 AI 대신 쓰기 시작한 새 용어 “초지능”(SI)을 사용하며, “파멸론자” 시각에 동조하는 아모데이의 발언은 “공공 SI 담론을 혼란에 빠뜨리려는 것이 당신의 본능임을 보여준다”고 말했다. 그는 AI가 경고되는 바로 그 위협을 어떻게 막고, 국가안보를 강화하며, 미국(U.S.)이 중국을 앞서게 할 수 있는지에 더 무게를 두라고 촉구했다."
-              },
-              {
-                "t": "p",
-                "x": "AI와 데이터센터에 대한 대중의 우려는 중간선거 쟁점이 됐다. 같은 오하이오주 공화당 소속인 존 허스티드(Sen. Jon Husted) 상원의원은 재선에 도전하는 가운데 그를 데이터센터 찬성론자라고 비난하는 광고에 직면했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sen. モレノ氏が\nAnthropicに書簡",
-          "body": "Sen. モレノ氏が書簡でAnthropicに「不安をあおる」AI発言を控えるよう求めた。",
-          "mini_headline": "モレノ氏、Anthropicに書簡\n「不安をあおる」AI論めぐり",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9月3日、ワシントンの米国平和研究所（U.S. Institute of Peace）でのバーニー・モレノ上院議員（Sen. Bernie Moreno）。写真：Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "Axiosが入手した月曜日付の書簡によると、バーニー・モレノ上院議員（Sen. Bernie Moreno、R-Ohio）は、Anthropicのダリオ・アモデイ（Dario Amodei）CEOに対し、AIをめぐる「不安をあおるアプローチ」や「パニックを誘発する論評」をやめるよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "Axiosはこの書簡を、トランプ大統領の支持者らがアモデイ氏を標的にする最新の例だと位置づけている。評価額の推計が最大で2兆ドル近くに達するAnthropicのIPOが見込まれるなかでの動きだ。"
-              },
-              {
-                "t": "p",
-                "x": "モレノ氏は「あなたの製品が最終的に彼らの絶滅につながりうると、まさにその米国民に警告しながら、どうして彼らに苦労して貯めた資金をAnthropicの継続的な開発に投資するよう求められるのか理解できない」と記した。さらに「大いなる力には大いなる責任が伴う。今回のケースでは、あなたがこの局面にふさわしい対応をできていないことを懸念している」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "モレノ氏は、トランプ氏がAIに代えて使い始めた新語「スーパーインテリジェンス」（SI）を用い、「破滅論者」的な見解に同調するアモデイ氏の発言は「あなたの本能が公共のSIをめぐる議論を混乱させることにあると示している」と述べた。そのうえで、警告されている脅威そのものからAIがいかに守り、国家安全保障を強化し、米国（U.S.）が中国の先を行けるようにするかを、もっと強調するよう求めた。"
-              },
-              {
-                "t": "p",
-                "x": "AIとデータセンターへの世論の懸念は中間選挙の争点となっている。同じオハイオ州選出の共和党、ジョン・ヒューステッド上院議員（Sen. Jon Husted）は再選を目指すなか、データセンター推進派だと非難する広告にさらされている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sen. 莫雷诺致信\nAnthropic批“危言”",
-          "body": "Sen. 莫雷诺周一致信Anthropic的阿莫代，促其避免“危言耸听”的AI言论。",
-          "mini_headline": "莫雷诺致信Anthropic\n批“危言耸听”的AI言论",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "9月3日，参议员伯尼·莫雷诺（Sen. Bernie Moreno）在华盛顿的美国和平研究所（U.S. Institute of Peace）。摄影：Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "据Axios获得的一封周一发出的信件，参议员伯尼·莫雷诺（Sen. Bernie Moreno，R-Ohio）敦促Anthropic CEO达里奥·阿莫代（Dario Amodei）不要在AI问题上采取“危言耸听的做法”、发表“引发恐慌的言论”。"
-              },
-              {
-                "t": "p",
-                "x": "Axios称，这封信是特朗普总统的盟友针对阿莫代的最新例证。信件发出之际，Anthropic预计将进行IPO，估值预期最高接近2万亿美元。"
-              },
-              {
-                "t": "p",
-                "x": "莫雷诺写道：“你一边警告这些美国人你的产品最终可能导致他们灭绝，一边又要求他们把辛苦积攒的储蓄投入Anthropic的持续发展，我不明白你怎么能这样做。”他还写道：“能力越大，责任越大。在这件事上，我担心你未能不负这一时刻。”"
-              },
-              {
-                "t": "p",
-                "x": "莫雷诺采用特朗普用来取代AI的新术语“超级智能”（SI），称阿莫代认同“末日论者”观点的言论“表明你的本能是扰乱公众关于SI的讨论”。他敦促更多强调AI如何防范所警告的那些威胁、加强国家安全，并让美国（U.S.）保持对中国的领先。"
-              },
-              {
-                "t": "p",
-                "x": "公众对AI和数据中心的担忧已成为中期选举议题；同为俄亥俄州共和党人的参议员乔恩·胡斯特德（Sen. Jon Husted）在寻求连任之际，遭遇指责他支持数据中心的广告。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sen. Moreno escribe a Anthropic\npor su tono 'alarmista' sobre AI",
-          "body": "El Sen. Bernie Moreno pidió el lunes por carta a Dario Amodei, de Anthropic, evitar comentarios 'alarmistas' sobre AI.",
-          "mini_headline": "Moreno escribe a Anthropic\npor su discurso 'alarmista' de AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-                "cap": "El Sen. Bernie Moreno en el U.S. Institute of Peace, el 3 de septiembre en Washington. Foto: Andrew Harnik/Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "El Sen. Bernie Moreno (R-Ohio) insta al CEO de Anthropic, Dario Amodei, a dejar de lado un “enfoque alarmista” y los “comentarios que inducen al pánico” sobre la AI, según una carta enviada el lunes y obtenida por Axios."
-              },
-              {
-                "t": "p",
-                "x": "Axios describe la carta como el ejemplo más reciente de aliados del presidente Trump que apuntan contra Amodei. Llega antes de la esperada IPO de Anthropic, con estimaciones de valoración de hasta casi 2 billones de dólares."
-              },
-              {
-                "t": "p",
-                "x": "“No entiendo cómo puede pedirles que inviertan sus ahorros, ganados con esfuerzo, en el desarrollo continuo de Anthropic mientras advierte a esos mismos estadounidenses de que su producto podría acabar provocando su extinción”, escribió Moreno. “Un gran poder conlleva una gran responsabilidad, y en este caso me preocupa que no esté a la altura del momento”."
-              },
-              {
-                "t": "p",
-                "x": "Adoptando el nuevo término de Trump, “superinteligencia” (SI), en lugar de AI, Moreno dijo que las palabras de Amodei en sintonía con las posturas “catastrofistas” “indican que su instinto es sembrar el caos en el discurso público sobre la SI”. Pidió poner más énfasis en cómo la AI puede proteger frente a las mismas amenazas sobre las que se advierte, reforzar la seguridad nacional y mantener a Estados Unidos (U.S.) por delante de China."
-              },
-              {
-                "t": "p",
-                "x": "La preocupación pública por la AI y los centros de datos se ha convertido en un tema de las elecciones de medio mandato; el también republicano de Ohio Sen. Jon Husted ha enfrentado anuncios que lo acusan de estar a favor de los centros de datos mientras busca la reelección."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "白宫“超级智能部队”\n章程内容公开",
+     "body": "POLITICO公布了白宫一个机构的章程，该机构拥有制定联邦AI威胁防御的广泛权力。",
+     "mini_headline": "超级智能部队章程",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "国家情报总监杰伊·克莱顿将领导该工作组。"
+       },
+       {
+        "t": "p",
+        "x": "根据POLITICO获得的一份章程，特朗普政府赋予新成立的“超级智能部队”（Super Intelligence Force）广泛权力，由其决定科技行业和联邦政府应如何应对快速演进的AI技术对国家安全和公民自由构成的威胁。三名知情人士证实了该文件的真实性。"
+       },
+       {
+        "t": "p",
+        "x": "该工作组将确定“提升政府和私营部门准备程度与应对能力的措施”，并撰写一份AI风险报告，重点关注公民自由、网络安全、先进模型标准以及可能的过度监管所带来的影响。"
+       },
+       {
+        "t": "p",
+        "x": "国家情报总监杰伊·克莱顿将以政府AI事务主管的身份领导该工作组，国防部副部长埃米尔·迈克尔、OPM主任斯科特·库波尔和FTC主席安德鲁·弗格森担任副主席。工作组存续120天，可根据白宫幕僚长苏西·怀尔斯的指示延长。"
+       },
+       {
+        "t": "p",
+        "x": "章程还点明了生物安全和供水方面的威胁，并要求该小组审查AI实验室向政府通报数据泄露、黑客攻击和越狱事件的规程。"
+       },
+       {
+        "t": "p",
+        "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
+       }
+      ]
+     }
     },
-    {
-      "id": "japan-sovereign-ai-strategy-vs-china",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "일본, 소버린 AI로\n중국 우위에 맞선다",
-      "body": "디플로맷은 일본이 2025년부터 “일본을 위한, 일본 내” AI를 키웠다고 본다.",
-      "mini_headline": "일본의 소버린 AI 승부수",
-      "tool": "Politics",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-            "cap": "출처: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-          },
-          {
-            "t": "p",
-            "x": "The Diplomat 기고 작가 보니 지라드(Bonnie Girard)는 분석 기사에서 일본이 핵심 AI에서는 미국(U.S.)과 중국에 뒤처졌지만 “물리적 AI”와 소버린 AI 배치에서는 앞자리를 잡으려 한다고 주장한다. 교토대학 쓰치야 다카히로(Dr. Takahiro Tsuchiya) 박사는 중국 기업들이 주로 비용을 무기로 일본 국내 AI 시장까지 장악하고 있다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "필자에 따르면 도쿄는 2025년부터 일본을 위한, 일본 내 AI를 개발해 외국발 AI 관련(AI-related) 위협을 막는 데 힘써 왔다. 쓰치야는 일본이 맞닥뜨린 위협을 두고 “일본은 미국(U.S.)을 따라 할 수 없다. 일본은 스스로 평가를 내린다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "일본 정부는 2026 회계연도부터 일본 산업용 로봇과 차세대 AI를 묶는 $6.34 billion 규모의 사업을 시작했다. Nikkei는 Sumitomo Corp.가 Sakana AI와 손잡고 약 100,000개 고객사에 Sakana AI의 모델을 공급한다고 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "일본은 2025년 6월 AI Act를 시행하고 같은 해 12월 AI 기본계획을 채택했다. Hello World Japan에 따르면 AI와 반도체 인프라에 10조 엔 이상을 투입하기로 했다. 내각은 7월 14일 에이전틱 AI와 기술 주권을 겨냥한 제2차 AI 기본계획을 통과시켰다. 2040년까지 370조 엔(2.3조 달러)을 동원하는 로드맵이 여기에 담겼다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Japan's sovereign AI push\nagainst China's lead",
-          "body": "Analysis in The Diplomat argues that since 2025 Tokyo has built AI \"for Japan, in Japan\" to ward off foreign threats.",
-          "mini_headline": "Japan's sovereign AI bet",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "Credit: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "In an analysis for The Diplomat, contributing author Bonnie Girard argues that Japan, though behind the U.S. and China in core AI, is moving to establish a leading position in “physical AI” and sovereign AI deployment. Kyoto University’s Dr. Takahiro Tsuchiya says Chinese companies even dominate Japan’s domestic AI market, largely on cost."
-              },
-              {
-                "t": "p",
-                "x": "Since 2025, the author writes, Tokyo has acted to ward off foreign AI-related threats by developing AI for Japan, in Japan. Tsuchiya said “Japan cannot copy the U.S. Japan makes its own assessments” of the threats it faces."
-              },
-              {
-                "t": "p",
-                "x": "The government launched a $6.34 billion initiative from fiscal year 2026 to wed Japan’s industrial robotics with next-generation AI. Nikkei reported that Sumitomo Corp. has partnered with Sakana AI to bring its models to some 100,000 client companies."
-              },
-              {
-                "t": "p",
-                "x": "Japan put an AI Act into force in June 2025, adopted an AI Basic Plan that December and, per Hello World Japan, committed more than 10 trillion yen to AI and semiconductor infrastructure. The Cabinet passed a Second AI Basic Plan on July 14 targeting agentic AI and tech sovereignty, with a road map to mobilize 370 trillion yen ($2.3 trillion) by 2040."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "일본, 소버린 AI로\n중국 우위에 맞선다",
-          "body": "디플로맷은 일본이 2025년부터 “일본을 위한, 일본 내” AI를 키웠다고 본다.",
-          "mini_headline": "일본의 소버린 AI 승부수",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "출처: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "The Diplomat 기고 작가 보니 지라드(Bonnie Girard)는 분석 기사에서 일본이 핵심 AI에서는 미국(U.S.)과 중국에 뒤처졌지만 “물리적 AI”와 소버린 AI 배치에서는 앞자리를 잡으려 한다고 주장한다. 교토대학 쓰치야 다카히로(Dr. Takahiro Tsuchiya) 박사는 중국 기업들이 주로 비용을 무기로 일본 국내 AI 시장까지 장악하고 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "필자에 따르면 도쿄는 2025년부터 일본을 위한, 일본 내 AI를 개발해 외국발 AI 관련(AI-related) 위협을 막는 데 힘써 왔다. 쓰치야는 일본이 맞닥뜨린 위협을 두고 “일본은 미국(U.S.)을 따라 할 수 없다. 일본은 스스로 평가를 내린다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "일본 정부는 2026 회계연도부터 일본 산업용 로봇과 차세대 AI를 묶는 $6.34 billion 규모의 사업을 시작했다. Nikkei는 Sumitomo Corp.가 Sakana AI와 손잡고 약 100,000개 고객사에 Sakana AI의 모델을 공급한다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "일본은 2025년 6월 AI Act를 시행하고 같은 해 12월 AI 기본계획을 채택했다. Hello World Japan에 따르면 AI와 반도체 인프라에 10조 엔 이상을 투입하기로 했다. 내각은 7월 14일 에이전틱 AI와 기술 주권을 겨냥한 제2차 AI 기본계획을 통과시켰다. 2040년까지 370조 엔(2.3조 달러)을 동원하는 로드맵이 여기에 담겼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "日本のソブリンAI、\n中国の優位に挑む",
-          "body": "ディプロマット誌は日本が2025年以降「日本のための、日本での」AIを築いたと分析する。",
-          "mini_headline": "日本のソブリンAIへの賭け",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "クレジット：ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "The Diplomatへの分析記事で、寄稿者のボニー・ジラード（Bonnie Girard）氏は、日本は中核的なAIでは米国（U.S.）と中国に後れを取っているものの、「フィジカルAI」とソブリンAIの展開で主導的地位を確立しようと動いていると論じている。京都大学のタカヒロ・ツチヤ博士（Dr. Takahiro Tsuchiya）は、主にコスト面から、中国企業が日本国内のAI市場さえ支配していると指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "筆者によれば、東京は2025年以降、日本のための、日本でのAIを開発することで、外国のAI関連（AI-related）の脅威を防ごうとしてきた。ツチヤ氏は、日本が直面する脅威について「日本は米国（U.S.）をまねることはできない。日本は独自の評価を行う」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "政府は2026年度から、日本の産業用ロボットと次世代AIを組み合わせる$6.34 billion 規模の構想を始動させた。Nikkeiは、Sumitomo Corp.がSakana AIと提携し、同社のモデルを約100,000社の顧客企業に届けると報じた。"
-              },
-              {
-                "t": "p",
-                "x": "日本は2025年6月にAI Actを施行し、同年12月にAI基本計画を採択したほか、Hello World Japanによれば、AIと半導体インフラに10兆円超を投じることを決めた。内閣は7月14日、エージェント型AIと技術主権を見据えた第2次AI基本計画を可決し、2040年までに370兆円（2.3兆ドル）を動員するロードマップを示した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "日本推进主权AI\n抗衡中国领先优势",
-          "body": "The Diplomat称，日本自2025年起打造“为日本、在日本”的AI以抵御外国威胁。",
-          "mini_headline": "日本押注主权AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "图片来源：ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "特约作者邦妮·吉拉德（Bonnie Girard）在为The Diplomat撰写的分析中指出，日本虽然在核心AI领域落后于美国（U.S.）和中国，但正着手在“物理AI”和主权AI部署方面确立领先地位。京都大学的Dr. Takahiro Tsuchiya表示，中国企业主要凭借成本优势，甚至主导了日本国内AI市场。"
-              },
-              {
-                "t": "p",
-                "x": "作者写道，自2025年以来，东京通过在日本开发服务日本的AI，来抵御外国与AI相关（AI-related）的威胁。Tsuchiya就日本面临的威胁表示：“日本不能照搬美国（U.S.）。日本会作出自己的评估。”"
-              },
-              {
-                "t": "p",
-                "x": "日本政府从2026财年起启动了一项$6.34 billion 的计划，将日本工业机器人与下一代AI相结合。Nikkei报道称，Sumitomo Corp.已与Sakana AI合作，将其模型提供给约100,000家客户企业。"
-              },
-              {
-                "t": "p",
-                "x": "日本于2025年6月实施AI Act，同年12月通过AI基本计划；据Hello World Japan报道，日本已承诺向AI和半导体基础设施投入超过10万亿日元。内阁于7月14日通过第二份AI基本计划，聚焦智能体AI和技术主权，并制定路线图，计划到2040年动员370万亿日元（2.3万亿美元）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Japón impulsa su AI soberana\nfrente al liderazgo de China",
-          "body": "The Diplomat sostiene que desde 2025 Tokio ha creado AI “para Japón, en Japón” para frenar amenazas externas.",
-          "mini_headline": "La apuesta de Japón por la AI soberana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "Crédito: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "En un análisis para The Diplomat, la autora colaboradora Bonnie Girard sostiene que Japón, aunque va por detrás de Estados Unidos (U.S.) y China en la AI de base, avanza para consolidar una posición de liderazgo en la “AI física” y en el despliegue de AI soberana. El Dr. Takahiro Tsuchiya, de la Universidad de Kioto, afirma que las empresas chinas dominan incluso el mercado interno de AI de Japón, en gran medida por precio."
-              },
-              {
-                "t": "p",
-                "x": "Desde 2025, escribe la autora, Tokio ha actuado para protegerse de las amenazas extranjeras relacionadas con la AI (AI-related) desarrollando AI para Japón, en Japón. Tsuchiya dijo que “Japón no puede copiar a U.S. Japón hace sus propias evaluaciones” de las amenazas que enfrenta."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno lanzó una iniciativa de 6.34 mil millones de dólares ($6.34 billion) a partir del año fiscal 2026 para unir la robótica industrial de Japón con la AI de próxima generación. Nikkei informó de que Sumitomo Corp. se ha asociado con Sakana AI para llevar sus modelos a unas 100,000 empresas clientes."
-              },
-              {
-                "t": "p",
-                "x": "Japón puso en vigor una AI Act en junio de 2025, adoptó un Plan Básico de AI en diciembre de ese año y, según Hello World Japan, comprometió más de 10 billones de yenes para infraestructura de AI y semiconductores. El Gabinete aprobó el 14 de julio un Segundo Plan Básico de AI centrado en la AI agéntica y la soberanía tecnológica, con una hoja de ruta para movilizar 370 billones de yenes (2.3 billones de dólares) para 2040."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "일본, 소버린 AI로\n중국 우위에 맞선다",
-          "body": "디플로맷은 일본이 2025년부터 “일본을 위한, 일본 내” AI를 키웠다고 본다.",
-          "mini_headline": "일본의 소버린 AI 승부수",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "출처: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "The Diplomat 기고 작가 보니 지라드(Bonnie Girard)는 분석 기사에서, 일본이 핵심 AI에서는 미국(U.S.)과 중국에 뒤처져 있지만 “물리적 AI”와 소버린 AI 배치에서 선도적 위치를 확보하려 움직이고 있다고 주장한다. 교토대학의 쓰치야 다카히로(Dr. Takahiro Tsuchiya) 박사는 중국 기업들이 주로 비용을 앞세워 일본 국내 AI 시장까지 장악하고 있다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "필자에 따르면 도쿄는 2025년부터 일본을 위한, 일본 내 AI를 개발해 외국발 AI 관련(AI-related) 위협을 막으려 움직여 왔다. 쓰치야는 일본이 직면한 위협에 대해 “일본은 미국(U.S.)을 따라 할 수 없다. 일본은 스스로 평가를 내린다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "일본 정부는 2026 회계연도부터 일본의 산업용 로봇과 차세대 AI를 결합하는 $6.34 billion 규모의 사업을 시작했다. Nikkei는 Sumitomo Corp.가 Sakana AI와 손잡고 약 100,000개 고객사에 Sakana AI의 모델을 공급한다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "일본은 2025년 6월 AI Act를 시행했고, 같은 해 12월 AI 기본계획을 채택했으며, Hello World Japan에 따르면 AI와 반도체 인프라에 10조 엔 이상을 투입하기로 했다. 내각은 7월 14일 에이전틱 AI와 기술 주권을 겨냥한 제2차 AI 기본계획을 통과시켰고, 2040년까지 370조 엔(2.3조 달러)을 동원하는 로드맵을 담았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "日本のソブリンAI、\n中国の優位に挑む",
-          "body": "ディプロマット誌は日本が2025年以降「日本のための、日本での」AIを築いたと分析する。",
-          "mini_headline": "日本のソブリンAIへの賭け",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "クレジット：ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "The Diplomatへの分析記事で、寄稿者のボニー・ジラード（Bonnie Girard）氏は、日本は中核的なAIでは米国（U.S.）と中国に後れを取っているものの、「フィジカルAI」とソブリンAIの展開で主導的地位を確立しようと動いていると論じている。京都大学のタカヒロ・ツチヤ博士（Dr. Takahiro Tsuchiya）は、主にコスト面から、中国企業が日本国内のAI市場さえ支配していると指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "筆者によれば、東京は2025年以降、日本のための、日本でのAIを開発することで、外国のAI関連（AI-related）の脅威を防ごうとしてきた。ツチヤ氏は、日本が直面する脅威について「日本は米国（U.S.）をまねることはできない。日本は独自の評価を行う」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "政府は2026年度から、日本の産業用ロボットと次世代AIを組み合わせる$6.34 billion 規模の構想を始動させた。Nikkeiは、Sumitomo Corp.がSakana AIと提携し、同社のモデルを約100,000社の顧客企業に届けると報じた。"
-              },
-              {
-                "t": "p",
-                "x": "日本は2025年6月にAI Actを施行し、同年12月にAI基本計画を採択したほか、Hello World Japanによれば、AIと半導体インフラに10兆円超を投じることを決めた。内閣は7月14日、エージェント型AIと技術主権を見据えた第2次AI基本計画を可決し、2040年までに370兆円（2.3兆ドル）を動員するロードマップを示した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "日本推进主权AI\n抗衡中国领先优势",
-          "body": "The Diplomat称，日本自2025年起打造“为日本、在日本”的AI以抵御外国威胁。",
-          "mini_headline": "日本押注主权AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "图片来源：ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "特约作者邦妮·吉拉德（Bonnie Girard）在为The Diplomat撰写的分析中指出，日本虽然在核心AI领域落后于美国（U.S.）和中国，但正着手在“物理AI”和主权AI部署方面确立领先地位。京都大学的Dr. Takahiro Tsuchiya表示，中国企业主要凭借成本优势，甚至主导了日本国内AI市场。"
-              },
-              {
-                "t": "p",
-                "x": "作者写道，自2025年以来，东京通过在日本开发服务日本的AI，来抵御外国与AI相关（AI-related）的威胁。Tsuchiya就日本面临的威胁表示：“日本不能照搬美国（U.S.）。日本会作出自己的评估。”"
-              },
-              {
-                "t": "p",
-                "x": "日本政府从2026财年起启动了一项$6.34 billion 的计划，将日本工业机器人与下一代AI相结合。Nikkei报道称，Sumitomo Corp.已与Sakana AI合作，将其模型提供给约100,000家客户企业。"
-              },
-              {
-                "t": "p",
-                "x": "日本于2025年6月实施AI Act，同年12月通过AI基本计划；据Hello World Japan报道，日本已承诺向AI和半导体基础设施投入超过10万亿日元。内阁于7月14日通过第二份AI基本计划，聚焦智能体AI和技术主权，并制定路线图，计划到2040年动员370万亿日元（2.3万亿美元）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Japón impulsa su AI soberana\nfrente al liderazgo de China",
-          "body": "The Diplomat sostiene que desde 2025 Tokio ha creado AI “para Japón, en Japón” para frenar amenazas externas.",
-          "mini_headline": "La apuesta de Japón por la AI soberana",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://thediplomat.com/wp-content/uploads/2025/01/sizes/td-story-s-1/thediplomat_2025-01-24-135215.jpg",
-                "cap": "Crédito: ID 132487198 © Mykhailo Polenok | Dreamstime.com"
-              },
-              {
-                "t": "p",
-                "x": "En un análisis para The Diplomat, la autora colaboradora Bonnie Girard sostiene que Japón, aunque va por detrás de Estados Unidos (U.S.) y China en la AI de base, avanza para consolidar una posición de liderazgo en la “AI física” y en el despliegue de AI soberana. El Dr. Takahiro Tsuchiya, de la Universidad de Kioto, afirma que las empresas chinas dominan incluso el mercado interno de AI de Japón, en gran medida por precio."
-              },
-              {
-                "t": "p",
-                "x": "Desde 2025, escribe la autora, Tokio ha actuado para protegerse de las amenazas extranjeras relacionadas con la AI (AI-related) desarrollando AI para Japón, en Japón. Tsuchiya dijo que “Japón no puede copiar a U.S. Japón hace sus propias evaluaciones” de las amenazas que enfrenta."
-              },
-              {
-                "t": "p",
-                "x": "El gobierno lanzó una iniciativa de 6.34 mil millones de dólares ($6.34 billion) a partir del año fiscal 2026 para unir la robótica industrial de Japón con la AI de próxima generación. Nikkei informó de que Sumitomo Corp. se ha asociado con Sakana AI para llevar sus modelos a unas 100,000 empresas clientes."
-              },
-              {
-                "t": "p",
-                "x": "Japón puso en vigor una AI Act en junio de 2025, adoptó un Plan Básico de AI en diciembre de ese año y, según Hello World Japan, comprometió más de 10 billones de yenes para infraestructura de AI y semiconductores. El Gabinete aprobó el 14 de julio un Segundo Plan Básico de AI centrado en la AI agéntica y la soberanía tecnológica, con una hoja de ruta para movilizar 370 billones de yenes (2.3 billones de dólares) para 2040."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "Carta de la Super Intelligence\nForce de la Casa Blanca",
+     "body": "POLITICO publicó la carta de un órgano de la Casa Blanca con amplio poder para fijar defensas federales ante la IA.",
+     "mini_headline": "Carta de la Super Intelligence Force",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "El director de Inteligencia Nacional, Jay Clayton, dirigirá el grupo de trabajo."
+       },
+       {
+        "t": "p",
+        "x": "El Gobierno de Trump ha otorgado a su recién creada “Super Intelligence Force” amplias facultades para determinar cómo la industria tecnológica y el Gobierno federal deben afrontar las amenazas a la seguridad nacional y a las libertades civiles que plantea la tecnología de IA, en rápida evolución, según una carta obtenida por POLITICO. Tres personas al tanto de las conversaciones confirmaron la autenticidad del documento."
+       },
+       {
+        "t": "p",
+        "x": "El grupo de trabajo identificará “medidas para mejorar la preparación y la capacidad de respuesta tanto del gobierno como del sector privado” y elaborará un informe sobre los riesgos de la IA centrado en las libertades civiles, la ciberseguridad, los estándares para modelos avanzados y los efectos de una posible sobrerregulación."
+       },
+       {
+        "t": "p",
+        "x": "Lo dirigirá el director de Inteligencia Nacional, Jay Clayton, como zar de la IA del Gobierno, con el subsecretario de Defensa Emil Michael, el director de la OPM Scott Kupor y el presidente de la FTC Andrew Ferguson como vicepresidentes. Funcionará durante 120 días, prorrogables por indicación de la jefa de gabinete, Susie Wiles."
+       },
+       {
+        "t": "p",
+        "x": "La carta también señala las amenazas a la bioseguridad y al suministro de agua, y encarga al grupo revisar los protocolos con los que los laboratorios de IA notifican al gobierno filtraciones, hackeos y jailbreaks."
+       },
+       {
+        "t": "p",
+        "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "백악관 '초지능군'\n헌장 내용 공개",
+     "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
+     "mini_headline": "초지능군 헌장",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
+       },
+       {
+        "t": "p",
+        "x": "POLITICO가 입수한 헌장에 따르면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 부여했다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유에 가하는 위협에 기술 업계와 연방정부가 어떻게 대응해야 할지 정하는 권한이다. 논의 내용을 잘 아는 세 사람이 문서가 진본임을 확인했다."
+       },
+       {
+        "t": "p",
+        "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾고, 시민의 자유, 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 수 있는 영향을 중심으로 AI 위험 보고서를 작성한다."
+       },
+       {
+        "t": "p",
+        "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일이며, 수지 와일스 비서실장의 지시에 따라 연장할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "헌장은 생물보안과 상수도 위협도 짚었고, AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 임무도 이 조직에 맡겼다."
+       },
+       {
+        "t": "p",
+        "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ホワイトハウス\n「超知能部隊」の憲章",
+     "body": "POLITICOが、AIの脅威に対する広い権限を持つホワイトハウス組織の憲章を公開した。",
+     "mini_headline": "超知能部隊の憲章",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
+       },
+       {
+        "t": "p",
+        "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
+       },
+       {
+        "t": "p",
+        "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
+       },
+       {
+        "t": "p",
+        "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
+       },
+       {
+        "t": "p",
+        "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
+       },
+       {
+        "t": "p",
+        "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "白宫“超级智能部队”\n章程内容公开",
+     "body": "POLITICO公布了白宫一个机构的章程，该机构拥有制定联邦AI威胁防御的广泛权力。",
+     "mini_headline": "超级智能部队章程",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "国家情报总监杰伊·克莱顿将领导该工作组。"
+       },
+       {
+        "t": "p",
+        "x": "根据POLITICO获得的一份章程，特朗普政府赋予新成立的“超级智能部队”（Super Intelligence Force）广泛权力，由其决定科技行业和联邦政府应如何应对快速演进的AI技术对国家安全和公民自由构成的威胁。三名知情人士证实了该文件的真实性。"
+       },
+       {
+        "t": "p",
+        "x": "该工作组将确定“提升政府和私营部门准备程度与应对能力的措施”，并撰写一份AI风险报告，重点关注公民自由、网络安全、先进模型标准以及可能的过度监管所带来的影响。"
+       },
+       {
+        "t": "p",
+        "x": "国家情报总监杰伊·克莱顿将以政府AI事务主管的身份领导该工作组，国防部副部长埃米尔·迈克尔、OPM主任斯科特·库波尔和FTC主席安德鲁·弗格森担任副主席。工作组存续120天，可根据白宫幕僚长苏西·怀尔斯的指示延长。"
+       },
+       {
+        "t": "p",
+        "x": "章程还点明了生物安全和供水方面的威胁，并要求该小组审查AI实验室向政府通报数据泄露、黑客攻击和越狱事件的规程。"
+       },
+       {
+        "t": "p",
+        "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Carta de la Super Intelligence\nForce de la Casa Blanca",
+     "body": "POLITICO publicó la carta de un órgano de la Casa Blanca con amplio poder para fijar defensas federales ante la IA.",
+     "mini_headline": "Carta de la Super Intelligence Force",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+        "cap": "El director de Inteligencia Nacional, Jay Clayton, dirigirá el grupo de trabajo."
+       },
+       {
+        "t": "p",
+        "x": "El Gobierno de Trump ha otorgado a su recién creada “Super Intelligence Force” amplias facultades para determinar cómo la industria tecnológica y el Gobierno federal deben afrontar las amenazas a la seguridad nacional y a las libertades civiles que plantea la tecnología de IA, en rápida evolución, según una carta obtenida por POLITICO. Tres personas al tanto de las conversaciones confirmaron la autenticidad del documento."
+       },
+       {
+        "t": "p",
+        "x": "El grupo de trabajo identificará “medidas para mejorar la preparación y la capacidad de respuesta tanto del gobierno como del sector privado” y elaborará un informe sobre los riesgos de la IA centrado en las libertades civiles, la ciberseguridad, los estándares para modelos avanzados y los efectos de una posible sobrerregulación."
+       },
+       {
+        "t": "p",
+        "x": "Lo dirigirá el director de Inteligencia Nacional, Jay Clayton, como zar de la IA del Gobierno, con el subsecretario de Defensa Emil Michael, el director de la OPM Scott Kupor y el presidente de la FTC Andrew Ferguson como vicepresidentes. Funcionará durante 120 días, prorrogables por indicación de la jefa de gabinete, Susie Wiles."
+       },
+       {
+        "t": "p",
+        "x": "La carta también señala las amenazas a la bioseguridad y al suministro de agua, y encarga al grupo revisar los protocolos con los que los laboratorios de IA notifican al gobierno filtraciones, hackeos y jailbreaks."
+       },
+       {
+        "t": "p",
+        "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "politics-pentagon-anthropic",
+   "source_lang": "ko",
+   "eyebrow": "AI NEWS",
+   "headline": "미 국방부, 앤트로픽\n클로드 사용 중단",
+   "body": "미 국방부가 블랙리스트 지정 8개월 만에 앤트로픽 AI 사용 중단을 발표했다.",
+   "mini_headline": "국방부, 클로드 중단",
+   "tool": "Politics",
+   "source": "yna.co.kr",
+   "url": "https://www.yna.co.kr/view/AKR20261006093800009",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+      "cap": "[로이터=연합뉴스 자료사진]"
+     },
+     {
+      "t": "p",
+      "x": "미국 국방부가 \"앤트로픽의 클로드 모델 등 이 회사 AI 제품의 사용을 중단했다\"고 발표했다."
+     },
+     {
+      "t": "p",
+      "x": "이번 조치는 미 국방부가 지난 2월 국가안보를 이유로 앤트로픽을 '공급망 위험 기업'으로 지정한 지 8개월만에 나왔다고 BBC가 5일(현지시간) 보도했다."
+     },
+     {
+      "t": "p",
+      "x": "지난 2월 피트 헤그세스 국방장관은 앤트로픽을 '공급망 위험 기업'으로 지정했으며, 국방부는 8월 말까지 앤트로픽 제품의 사용을 중단할 것이라고 발표했으나, 사용 중단이 두 달 지연됐다."
+     },
+     {
+      "t": "p",
+      "x": "소식통들은 지난 주까지만 해도 미 국방부가 연구, 분석, 정보수집을 비롯해 이란 전쟁에서도 앤트로픽의 클로드 모델을 사용했다고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "최근까지만 해도 클로드 모델은 방대한 양의 정보를 분류하는 데 중요한 도구로 사용됐다는 것이다."
+     },
+     {
+      "t": "p",
+      "x": "앤트로픽의 AI 제품은 2024년부터 미국 정부와 군에서 사용돼 왔으며, 이 회사의 AI 도구는 기밀 업무를 수행하는 정부기관에 배치된 최초의 첨단 도구였다."
+     },
+     {
+      "t": "p",
+      "x": "하지만 올해 초 미 국방부가 앤트로픽에 대해 \"클로드의 안전장치를 제거하고 군이 앤트로픽의 AI 제품에 제한 없이 접근할 수 있도록 하라\"고 압박하자 앤트로픽은 '대규모 감시와 자율 무기에 대한 우려'를 이유로 거부했다."
+     },
+     {
+      "t": "p",
+      "x": "이에 대해 헤그세스 장관은 앤트로픽을 국가안보 공급망 위험 기업으로 지정했다. 미국에 위협이 되는 국가에 기반한 기업들에 적용되는 법적 조치였다."
+     },
+     {
+      "t": "p",
+      "x": "앤트로픽은 이 조치가 \"전례 없고 불법적\"이라고 반발했으며 트럼프 행정부를 상대로 소송을 제기했다."
+     },
+     {
+      "t": "p",
+      "x": "워싱턴DC 연방항소법원은 지난달 국방부의 블랙리스트 지정 조치를 무효로 해달라는 앤트로픽 측의 요청을 기각하고 정부 측 손을 들어줬다."
+     },
+     {
+      "t": "p",
+      "x": "미 국방부는 법적 공방이 진행되는 동안 구글, xAI, 오픈AI 등 다른 주요 기술기업들과 계약을 체결했다. 최근 몇 달 동안 군 일부에서는 오픈AI의 도구들이 더 폭넓게 채택됐다."
+     },
+     {
+      "t": "p",
+      "x": "소식통들에 따르면 클로드 모델은 국방부가 사용하는 대규모 데이터 플랫폼인 '메이븐 스마트 시스템'에 탑재돼 있었다. 팔란티어가 운영하는 메이븐은 미 국방부가 정보와 데이터를 정리하는 데 사용하는 핵심 플랫폼이다."
+     },
+     {
+      "t": "p",
+      "x": "조지타운대 안보·신흥기술센터의 선임 연구분석가 로런 칸은 클로드가 메이븐에 깊이 통합돼 있었기 때문에 시스템에서 신속하게 제거하기는 어려웠을 것이라고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "국방부 근무 경력을 가진 칸 분석가는 \"국방부가 시스템 전반에서 클로드 사용을 모두 제거하는 데 지금까지 걸렸다는 사실은 이런 기술들이 '손쉽게 꽂았다 뺄 수 있는 것'이 아니라는 점을 보여준다\"고 말했다."
+     }
+    ]
+   },
+   "text": {
+    "ko": {
+     "headline": "미 국방부, 앤트로픽\n클로드 사용 중단",
+     "body": "미 국방부가 블랙리스트 지정 8개월 만에 앤트로픽 AI 사용 중단을 발표했다.",
+     "mini_headline": "국방부, 클로드 중단",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[로이터=연합뉴스 자료사진]"
+       },
+       {
+        "t": "p",
+        "x": "미국 국방부가 \"앤트로픽의 클로드 모델 등 이 회사 AI 제품의 사용을 중단했다\"고 발표했다."
+       },
+       {
+        "t": "p",
+        "x": "이번 조치는 미 국방부가 지난 2월 국가안보를 이유로 앤트로픽을 '공급망 위험 기업'으로 지정한 지 8개월만에 나왔다고 BBC가 5일(현지시간) 보도했다."
+       },
+       {
+        "t": "p",
+        "x": "지난 2월 피트 헤그세스 국방장관은 앤트로픽을 '공급망 위험 기업'으로 지정했으며, 국방부는 8월 말까지 앤트로픽 제품의 사용을 중단할 것이라고 발표했으나, 사용 중단이 두 달 지연됐다."
+       },
+       {
+        "t": "p",
+        "x": "소식통들은 지난 주까지만 해도 미 국방부가 연구, 분석, 정보수집을 비롯해 이란 전쟁에서도 앤트로픽의 클로드 모델을 사용했다고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "최근까지만 해도 클로드 모델은 방대한 양의 정보를 분류하는 데 중요한 도구로 사용됐다는 것이다."
+       },
+       {
+        "t": "p",
+        "x": "앤트로픽의 AI 제품은 2024년부터 미국 정부와 군에서 사용돼 왔으며, 이 회사의 AI 도구는 기밀 업무를 수행하는 정부기관에 배치된 최초의 첨단 도구였다."
+       },
+       {
+        "t": "p",
+        "x": "하지만 올해 초 미 국방부가 앤트로픽에 대해 \"클로드의 안전장치를 제거하고 군이 앤트로픽의 AI 제품에 제한 없이 접근할 수 있도록 하라\"고 압박하자 앤트로픽은 '대규모 감시와 자율 무기에 대한 우려'를 이유로 거부했다."
+       },
+       {
+        "t": "p",
+        "x": "이에 대해 헤그세스 장관은 앤트로픽을 국가안보 공급망 위험 기업으로 지정했다. 미국에 위협이 되는 국가에 기반한 기업들에 적용되는 법적 조치였다."
+       },
+       {
+        "t": "p",
+        "x": "앤트로픽은 이 조치가 \"전례 없고 불법적\"이라고 반발했으며 트럼프 행정부를 상대로 소송을 제기했다."
+       },
+       {
+        "t": "p",
+        "x": "워싱턴DC 연방항소법원은 지난달 국방부의 블랙리스트 지정 조치를 무효로 해달라는 앤트로픽 측의 요청을 기각하고 정부 측 손을 들어줬다."
+       },
+       {
+        "t": "p",
+        "x": "미 국방부는 법적 공방이 진행되는 동안 구글, xAI, 오픈AI 등 다른 주요 기술기업들과 계약을 체결했다. 최근 몇 달 동안 군 일부에서는 오픈AI의 도구들이 더 폭넓게 채택됐다."
+       },
+       {
+        "t": "p",
+        "x": "소식통들에 따르면 클로드 모델은 국방부가 사용하는 대규모 데이터 플랫폼인 '메이븐 스마트 시스템'에 탑재돼 있었다. 팔란티어가 운영하는 메이븐은 미 국방부가 정보와 데이터를 정리하는 데 사용하는 핵심 플랫폼이다."
+       },
+       {
+        "t": "p",
+        "x": "조지타운대 안보·신흥기술센터의 선임 연구분석가 로런 칸은 클로드가 메이븐에 깊이 통합돼 있었기 때문에 시스템에서 신속하게 제거하기는 어려웠을 것이라고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "국방부 근무 경력을 가진 칸 분석가는 \"국방부가 시스템 전반에서 클로드 사용을 모두 제거하는 데 지금까지 걸렸다는 사실은 이런 기술들이 '손쉽게 꽂았다 뺄 수 있는 것'이 아니라는 점을 보여준다\"고 말했다."
+       }
+      ]
+     }
+    },
+    "en": {
+     "headline": "U.S. Defense Department halts\nuse of Anthropic's Claude",
+     "body": "The U.S. Defense Department said it has stopped using Anthropic's AI, eight months after blacklisting the company.",
+     "mini_headline": "Pentagon drops Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[Reuters=Yonhap file photo]"
+       },
+       {
+        "t": "p",
+        "x": "The U.S. Department of Defense announced that it “has stopped using the company's AI products, including Anthropic's Claude models.”"
+       },
+       {
+        "t": "p",
+        "x": "The move comes eight months after the department designated Anthropic a ‘supply chain risk’ company in February on national security grounds, the BBC reported on the 5th (local time)."
+       },
+       {
+        "t": "p",
+        "x": "In February, Defense Secretary Pete Hegseth designated Anthropic a ‘supply chain risk’ company, and the department said it would stop using Anthropic products by the end of August, but the phase-out was delayed by two months."
+       },
+       {
+        "t": "p",
+        "x": "Sources said that as recently as last week the department was using Anthropic's Claude models for research, analysis and intelligence gathering, as well as in the Iran war."
+       },
+       {
+        "t": "p",
+        "x": "Until recently, they said, Claude models served as an important tool for sorting through vast amounts of information."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic's AI products have been used by the U.S. government and military since 2024, and the company's AI tools were the first advanced tools deployed at government agencies handling classified work."
+       },
+       {
+        "t": "p",
+        "x": "But when the department pressed Anthropic early this year to “remove Claude's safeguards and give the military unrestricted access to Anthropic's AI products,” Anthropic refused, citing ‘concerns about mass surveillance and autonomous weapons.’"
+       },
+       {
+        "t": "p",
+        "x": "In response, Secretary Hegseth designated Anthropic a national security supply chain risk company, a legal measure applied to companies based in countries that pose a threat to the United States."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic pushed back, calling the measure “unprecedented and unlawful,” and filed a lawsuit against the Trump administration."
+       },
+       {
+        "t": "p",
+        "x": "Last month, the federal appeals court in Washington, DC rejected Anthropic's request to void the department's blacklisting and sided with the government."
+       },
+       {
+        "t": "p",
+        "x": "While the legal fight played out, the department signed contracts with other major tech companies including Google, xAI and OpenAI. In recent months, OpenAI's tools have been adopted more widely in parts of the military."
+       },
+       {
+        "t": "p",
+        "x": "According to sources, Claude models were built into the ‘Maven Smart System,’ a large data platform used by the department. Maven, operated by Palantir, is a core platform the U.S. Department of Defense uses to organize information and data."
+       },
+       {
+        "t": "p",
+        "x": "Lauren Kahn, a senior research analyst at Georgetown University's Center for Security and Emerging Technology, said Claude was so deeply integrated into Maven that it would have been hard to remove quickly from the system."
+       },
+       {
+        "t": "p",
+        "x": "Kahn, who previously worked at the Department of Defense, said, “The fact that it has taken until now for the department to remove all use of Claude across its systems shows that these technologies are not something you can ‘easily plug in and pull out.’”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "米国防総省、\nClaudeの使用を停止",
+     "body": "米国防総省はブラックリスト指定から8カ月で、AnthropicのAI使用停止を発表した。",
+     "mini_headline": "国防総省、Claude停止",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "［ロイター＝聯合ニュース資料写真］"
+       },
+       {
+        "t": "p",
+        "x": "米国防総省は「AnthropicのClaudeモデルなど、同社のAI製品の使用を停止した」と発表した。"
+       },
+       {
+        "t": "p",
+        "x": "今回の措置は、国防総省が2月に国家安全保障を理由にAnthropicを「サプライチェーン・リスク企業」に指定してから8カ月後に出たと、BBCが5日（現地時間）に報じた。"
+       },
+       {
+        "t": "p",
+        "x": "2月にピート・ヘグセス国防長官がAnthropicを「サプライチェーン・リスク企業」に指定し、国防総省は8月末までに同社製品の使用を停止すると発表していたが、停止は二カ月遅れた。"
+       },
+       {
+        "t": "p",
+        "x": "関係者によると、国防総省は先週まで、研究や分析、情報収集のほか、イラン戦争でもAnthropicのClaudeモデルを使用していた。"
+       },
+       {
+        "t": "p",
+        "x": "最近までClaudeモデルは、膨大な情報を分類する重要なツールとして使われていたという。"
+       },
+       {
+        "t": "p",
+        "x": "AnthropicのAI製品は2024年から米政府と軍で使われており、同社のAIツールは機密業務を担う政府機関に配備された初の先端ツールだった。"
+       },
+       {
+        "t": "p",
+        "x": "しかし今年初め、国防総省がAnthropicに対し「Claudeの安全装置を外し、軍が同社のAI製品に制限なくアクセスできるようにせよ」と圧力をかけると、Anthropicは「大規模監視と自律型兵器への懸念」を理由に拒否した。"
+       },
+       {
+        "t": "p",
+        "x": "これに対しヘグセス長官は、Anthropicを国家安全保障上のサプライチェーン・リスク企業に指定した。米国に脅威を与える国に拠点を置く企業に適用される法的措置だった。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropicはこの措置を「前例がなく違法だ」と反発し、トランプ政権を相手取って提訴した。"
+       },
+       {
+        "t": "p",
+        "x": "ワシントンDCの連邦控訴裁判所は先月、国防総省によるブラックリスト指定の無効化を求めたAnthropic側の申し立てを退け、政府側の主張を認めた。"
+       },
+       {
+        "t": "p",
+        "x": "国防総省は法廷闘争が続く間、Google、xAI、OpenAIなど他の大手テック企業と契約を結んだ。ここ数カ月、軍の一部ではOpenAIのツールがより幅広く採用されている。"
+       },
+       {
+        "t": "p",
+        "x": "関係者によると、Claudeモデルは国防総省が使う大規模データプラットフォーム「Maven Smart System」に組み込まれていた。Palantirが運営するMavenは、国防総省が情報とデータを整理するのに使う中核プラットフォームだ。"
+       },
+       {
+        "t": "p",
+        "x": "ジョージタウン大学安全保障・新興技術センターのシニア研究アナリスト、ローレン・カーン氏は、ClaudeがMavenに深く統合されていたため、システムから素早く取り除くのは難しかっただろうと述べた。"
+       },
+       {
+        "t": "p",
+        "x": "国防総省での勤務経験を持つカーン氏は「国防総省がシステム全体からClaudeの使用をすべて取り除くのに今までかかったという事実は、こうした技術が『簡単に抜き差しできるもの』ではないことを示している」と語った。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "美国防部宣布\n停用Claude模型",
+     "body": "美国防部在将Anthropic列入黑名单8个月后，宣布停用该公司的AI产品。",
+     "mini_headline": "国防部停用Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[路透社=韩联社资料图]"
+       },
+       {
+        "t": "p",
+        "x": "美国国防部宣布，“已停止使用Anthropic的Claude模型等该公司AI产品”。"
+       },
+       {
+        "t": "p",
+        "x": "据BBC 5日（当地时间）报道，此次措施是在美国防部2月以国家安全为由将Anthropic列为“供应链风险企业”8个月之后作出的。"
+       },
+       {
+        "t": "p",
+        "x": "2月，国防部长皮特·赫格塞斯将Anthropic列为“供应链风险企业”，国防部曾宣布将在8月底前停用Anthropic产品，但停用推迟了两个月。"
+       },
+       {
+        "t": "p",
+        "x": "消息人士称，直到上周，美国防部仍在研究、分析、情报搜集以及伊朗战争中使用Anthropic的Claude模型。"
+       },
+       {
+        "t": "p",
+        "x": "据称，直到最近，Claude模型一直是分类海量信息的重要工具。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropic的AI产品自2024年起被美国政府和军方使用，该公司的AI工具是首个部署到承担机密任务的政府机构的尖端工具。"
+       },
+       {
+        "t": "p",
+        "x": "但今年年初，美国防部向Anthropic施压，要求其“移除Claude的安全防护措施，让军方能够不受限制地使用Anthropic的AI产品”，Anthropic以“对大规模监控和自主武器的担忧”为由予以拒绝。"
+       },
+       {
+        "t": "p",
+        "x": "对此，赫格塞斯将Anthropic列为国家安全供应链风险企业。这是一项适用于总部位于对美国构成威胁国家的企业的法律措施。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropic反驳称该措施“史无前例且违法”，并对特朗普政府提起诉讼。"
+       },
+       {
+        "t": "p",
+        "x": "上月，华盛顿DC联邦上诉法院驳回了Anthropic要求撤销国防部黑名单认定的请求，判政府一方胜诉。"
+       },
+       {
+        "t": "p",
+        "x": "在法律纠纷持续期间，美国防部与谷歌、xAI、OpenAI等其他主要科技企业签订了合同。最近几个月，OpenAI的工具在部分军队中得到了更广泛的采用。"
+       },
+       {
+        "t": "p",
+        "x": "据消息人士透露，Claude模型曾被嵌入国防部使用的大型数据平台“Maven Smart System”。由Palantir运营的Maven是美国防部用于整理情报和数据的核心平台。"
+       },
+       {
+        "t": "p",
+        "x": "乔治城大学安全与新兴技术中心高级研究分析师劳伦·卡恩表示，由于Claude与Maven深度整合，当初很难迅速将其从系统中移除。"
+       },
+       {
+        "t": "p",
+        "x": "曾在国防部任职的卡恩说：“国防部直到现在才在整个系统中彻底移除Claude，这一事实表明这类技术并不是‘可以轻松插拔的东西’。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El Pentágono deja de usar\nClaude, de Anthropic",
+     "body": "El Pentágono dejó de usar la IA de Anthropic, ocho meses después de incluir a la empresa en una lista negra.",
+     "mini_headline": "El Pentágono deja Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[Foto de archivo de Reuters=Yonhap]"
+       },
+       {
+        "t": "p",
+        "x": "El Departamento de Defensa de Estados Unidos anunció que “ha dejado de usar los productos de IA de la compañía, incluidos los modelos Claude de Anthropic”."
+       },
+       {
+        "t": "p",
+        "x": "La medida llega ocho meses después de que el Departamento de Defensa designara en febrero a Anthropic como ‘empresa de riesgo para la cadena de suministro’ por motivos de seguridad nacional, informó la BBC el día 5 (hora local)."
+       },
+       {
+        "t": "p",
+        "x": "En febrero, el secretario de Defensa, Pete Hegseth, designó a Anthropic como ‘empresa de riesgo para la cadena de suministro’, y el departamento anunció que dejaría de usar sus productos a finales de agosto, pero la retirada se retrasó dos meses."
+       },
+       {
+        "t": "p",
+        "x": "Según fuentes, hasta la semana pasada el Departamento de Defensa usaba los modelos Claude de Anthropic en investigación, análisis y recopilación de inteligencia, e incluso en la guerra de Irán."
+       },
+       {
+        "t": "p",
+        "x": "Hasta hace poco, los modelos Claude eran una herramienta importante para clasificar enormes volúmenes de información."
+       },
+       {
+        "t": "p",
+        "x": "Los productos de IA de Anthropic se usan en el gobierno y el ejército de Estados Unidos desde 2024, y sus herramientas de IA fueron las primeras herramientas avanzadas desplegadas en organismos públicos que realizan trabajo clasificado."
+       },
+       {
+        "t": "p",
+        "x": "Pero cuando a principios de este año el Departamento de Defensa presionó a Anthropic para que “eliminara las salvaguardas de Claude y permitiera al ejército acceder sin restricciones a los productos de IA de Anthropic”, la empresa se negó, alegando ‘preocupaciones por la vigilancia masiva y las armas autónomas’."
+       },
+       {
+        "t": "p",
+        "x": "En respuesta, el secretario Hegseth designó a Anthropic como empresa de riesgo para la cadena de suministro de seguridad nacional, una medida legal que se aplica a empresas con sede en países que suponen una amenaza para Estados Unidos."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic calificó la medida de “sin precedentes e ilegal” y presentó una demanda contra el gobierno de Trump."
+       },
+       {
+        "t": "p",
+        "x": "El mes pasado, el tribunal federal de apelaciones de Washington DC rechazó la petición de Anthropic de anular su inclusión en la lista negra del Departamento de Defensa y dio la razón al gobierno."
+       },
+       {
+        "t": "p",
+        "x": "Mientras avanzaba la disputa legal, el Departamento de Defensa firmó contratos con otras grandes tecnológicas como Google, xAI y OpenAI. En los últimos meses, las herramientas de OpenAI se han adoptado de forma más amplia en partes del ejército."
+       },
+       {
+        "t": "p",
+        "x": "Según las fuentes, los modelos Claude estaban integrados en el ‘Maven Smart System’, una gran plataforma de datos que utiliza el Departamento de Defensa. Operada por Palantir, Maven es la plataforma central que el departamento usa para organizar información y datos."
+       },
+       {
+        "t": "p",
+        "x": "Lauren Kahn, analista sénior de investigación del Centro de Seguridad y Tecnología Emergente de la Universidad de Georgetown, dijo que, como Claude estaba profundamente integrado en Maven, habría sido difícil retirarlo rápidamente del sistema."
+       },
+       {
+        "t": "p",
+        "x": "Kahn, que trabajó en el Departamento de Defensa, afirmó: “El hecho de que al departamento le haya llevado hasta ahora eliminar todo uso de Claude en sus sistemas demuestra que estas tecnologías no son algo que se pueda ‘conectar y desconectar fácilmente’”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "en": {
+     "headline": "U.S. Defense Department halts\nuse of Anthropic's Claude",
+     "body": "The U.S. Defense Department said it has stopped using Anthropic's AI, eight months after blacklisting the company.",
+     "mini_headline": "Pentagon drops Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[Reuters=Yonhap file photo]"
+       },
+       {
+        "t": "p",
+        "x": "The U.S. Department of Defense announced that it “has stopped using the company's AI products, including Anthropic's Claude models.”"
+       },
+       {
+        "t": "p",
+        "x": "The move comes eight months after the department designated Anthropic a ‘supply chain risk’ company in February on national security grounds, the BBC reported on the 5th (local time)."
+       },
+       {
+        "t": "p",
+        "x": "In February, Defense Secretary Pete Hegseth designated Anthropic a ‘supply chain risk’ company, and the department said it would stop using Anthropic products by the end of August, but the phase-out was delayed by two months."
+       },
+       {
+        "t": "p",
+        "x": "Sources said that as recently as last week the department was using Anthropic's Claude models for research, analysis and intelligence gathering, as well as in the Iran war."
+       },
+       {
+        "t": "p",
+        "x": "Until recently, they said, Claude models served as an important tool for sorting through vast amounts of information."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic's AI products have been used by the U.S. government and military since 2024, and the company's AI tools were the first advanced tools deployed at government agencies handling classified work."
+       },
+       {
+        "t": "p",
+        "x": "But when the department pressed Anthropic early this year to “remove Claude's safeguards and give the military unrestricted access to Anthropic's AI products,” Anthropic refused, citing ‘concerns about mass surveillance and autonomous weapons.’"
+       },
+       {
+        "t": "p",
+        "x": "In response, Secretary Hegseth designated Anthropic a national security supply chain risk company, a legal measure applied to companies based in countries that pose a threat to the United States."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic pushed back, calling the measure “unprecedented and unlawful,” and filed a lawsuit against the Trump administration."
+       },
+       {
+        "t": "p",
+        "x": "Last month, the federal appeals court in Washington, DC rejected Anthropic's request to void the department's blacklisting and sided with the government."
+       },
+       {
+        "t": "p",
+        "x": "While the legal fight played out, the department signed contracts with other major tech companies including Google, xAI and OpenAI. In recent months, OpenAI's tools have been adopted more widely in parts of the military."
+       },
+       {
+        "t": "p",
+        "x": "According to sources, Claude models were built into the ‘Maven Smart System,’ a large data platform used by the department. Maven, operated by Palantir, is a core platform the U.S. Department of Defense uses to organize information and data."
+       },
+       {
+        "t": "p",
+        "x": "Lauren Kahn, a senior research analyst at Georgetown University's Center for Security and Emerging Technology, said Claude was so deeply integrated into Maven that it would have been hard to remove quickly from the system."
+       },
+       {
+        "t": "p",
+        "x": "Kahn, who previously worked at the Department of Defense, said, “The fact that it has taken until now for the department to remove all use of Claude across its systems shows that these technologies are not something you can ‘easily plug in and pull out.’”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "米国防総省、\nClaudeの使用を停止",
+     "body": "米国防総省はブラックリスト指定から8カ月で、AnthropicのAI使用停止を発表した。",
+     "mini_headline": "国防総省、Claude停止",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "［ロイター＝聯合ニュース資料写真］"
+       },
+       {
+        "t": "p",
+        "x": "米国防総省は「AnthropicのClaudeモデルなど、同社のAI製品の使用を停止した」と発表した。"
+       },
+       {
+        "t": "p",
+        "x": "今回の措置は、国防総省が2月に国家安全保障を理由にAnthropicを「サプライチェーン・リスク企業」に指定してから8カ月後に出たと、BBCが5日（現地時間）に報じた。"
+       },
+       {
+        "t": "p",
+        "x": "2月にピート・ヘグセス国防長官がAnthropicを「サプライチェーン・リスク企業」に指定し、国防総省は8月末までに同社製品の使用を停止すると発表していたが、停止は二カ月遅れた。"
+       },
+       {
+        "t": "p",
+        "x": "関係者によると、国防総省は先週まで、研究や分析、情報収集のほか、イラン戦争でもAnthropicのClaudeモデルを使用していた。"
+       },
+       {
+        "t": "p",
+        "x": "最近までClaudeモデルは、膨大な情報を分類する重要なツールとして使われていたという。"
+       },
+       {
+        "t": "p",
+        "x": "AnthropicのAI製品は2024年から米政府と軍で使われており、同社のAIツールは機密業務を担う政府機関に配備された初の先端ツールだった。"
+       },
+       {
+        "t": "p",
+        "x": "しかし今年初め、国防総省がAnthropicに対し「Claudeの安全装置を外し、軍が同社のAI製品に制限なくアクセスできるようにせよ」と圧力をかけると、Anthropicは「大規模監視と自律型兵器への懸念」を理由に拒否した。"
+       },
+       {
+        "t": "p",
+        "x": "これに対しヘグセス長官は、Anthropicを国家安全保障上のサプライチェーン・リスク企業に指定した。米国に脅威を与える国に拠点を置く企業に適用される法的措置だった。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropicはこの措置を「前例がなく違法だ」と反発し、トランプ政権を相手取って提訴した。"
+       },
+       {
+        "t": "p",
+        "x": "ワシントンDCの連邦控訴裁判所は先月、国防総省によるブラックリスト指定の無効化を求めたAnthropic側の申し立てを退け、政府側の主張を認めた。"
+       },
+       {
+        "t": "p",
+        "x": "国防総省は法廷闘争が続く間、Google、xAI、OpenAIなど他の大手テック企業と契約を結んだ。ここ数カ月、軍の一部ではOpenAIのツールがより幅広く採用されている。"
+       },
+       {
+        "t": "p",
+        "x": "関係者によると、Claudeモデルは国防総省が使う大規模データプラットフォーム「Maven Smart System」に組み込まれていた。Palantirが運営するMavenは、国防総省が情報とデータを整理するのに使う中核プラットフォームだ。"
+       },
+       {
+        "t": "p",
+        "x": "ジョージタウン大学安全保障・新興技術センターのシニア研究アナリスト、ローレン・カーン氏は、ClaudeがMavenに深く統合されていたため、システムから素早く取り除くのは難しかっただろうと述べた。"
+       },
+       {
+        "t": "p",
+        "x": "国防総省での勤務経験を持つカーン氏は「国防総省がシステム全体からClaudeの使用をすべて取り除くのに今までかかったという事実は、こうした技術が『簡単に抜き差しできるもの』ではないことを示している」と語った。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "美国防部宣布\n停用Claude模型",
+     "body": "美国防部在将Anthropic列入黑名单8个月后，宣布停用该公司的AI产品。",
+     "mini_headline": "国防部停用Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[路透社=韩联社资料图]"
+       },
+       {
+        "t": "p",
+        "x": "美国国防部宣布，“已停止使用Anthropic的Claude模型等该公司AI产品”。"
+       },
+       {
+        "t": "p",
+        "x": "据BBC 5日（当地时间）报道，此次措施是在美国防部2月以国家安全为由将Anthropic列为“供应链风险企业”8个月之后作出的。"
+       },
+       {
+        "t": "p",
+        "x": "2月，国防部长皮特·赫格塞斯将Anthropic列为“供应链风险企业”，国防部曾宣布将在8月底前停用Anthropic产品，但停用推迟了两个月。"
+       },
+       {
+        "t": "p",
+        "x": "消息人士称，直到上周，美国防部仍在研究、分析、情报搜集以及伊朗战争中使用Anthropic的Claude模型。"
+       },
+       {
+        "t": "p",
+        "x": "据称，直到最近，Claude模型一直是分类海量信息的重要工具。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropic的AI产品自2024年起被美国政府和军方使用，该公司的AI工具是首个部署到承担机密任务的政府机构的尖端工具。"
+       },
+       {
+        "t": "p",
+        "x": "但今年年初，美国防部向Anthropic施压，要求其“移除Claude的安全防护措施，让军方能够不受限制地使用Anthropic的AI产品”，Anthropic以“对大规模监控和自主武器的担忧”为由予以拒绝。"
+       },
+       {
+        "t": "p",
+        "x": "对此，赫格塞斯将Anthropic列为国家安全供应链风险企业。这是一项适用于总部位于对美国构成威胁国家的企业的法律措施。"
+       },
+       {
+        "t": "p",
+        "x": "Anthropic反驳称该措施“史无前例且违法”，并对特朗普政府提起诉讼。"
+       },
+       {
+        "t": "p",
+        "x": "上月，华盛顿DC联邦上诉法院驳回了Anthropic要求撤销国防部黑名单认定的请求，判政府一方胜诉。"
+       },
+       {
+        "t": "p",
+        "x": "在法律纠纷持续期间，美国防部与谷歌、xAI、OpenAI等其他主要科技企业签订了合同。最近几个月，OpenAI的工具在部分军队中得到了更广泛的采用。"
+       },
+       {
+        "t": "p",
+        "x": "据消息人士透露，Claude模型曾被嵌入国防部使用的大型数据平台“Maven Smart System”。由Palantir运营的Maven是美国防部用于整理情报和数据的核心平台。"
+       },
+       {
+        "t": "p",
+        "x": "乔治城大学安全与新兴技术中心高级研究分析师劳伦·卡恩表示，由于Claude与Maven深度整合，当初很难迅速将其从系统中移除。"
+       },
+       {
+        "t": "p",
+        "x": "曾在国防部任职的卡恩说：“国防部直到现在才在整个系统中彻底移除Claude，这一事实表明这类技术并不是‘可以轻松插拔的东西’。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El Pentágono deja de usar\nClaude, de Anthropic",
+     "body": "El Pentágono dejó de usar la IA de Anthropic, ocho meses después de incluir a la empresa en una lista negra.",
+     "mini_headline": "El Pentágono deja Claude",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+        "cap": "[Foto de archivo de Reuters=Yonhap]"
+       },
+       {
+        "t": "p",
+        "x": "El Departamento de Defensa de Estados Unidos anunció que “ha dejado de usar los productos de IA de la compañía, incluidos los modelos Claude de Anthropic”."
+       },
+       {
+        "t": "p",
+        "x": "La medida llega ocho meses después de que el Departamento de Defensa designara en febrero a Anthropic como ‘empresa de riesgo para la cadena de suministro’ por motivos de seguridad nacional, informó la BBC el día 5 (hora local)."
+       },
+       {
+        "t": "p",
+        "x": "En febrero, el secretario de Defensa, Pete Hegseth, designó a Anthropic como ‘empresa de riesgo para la cadena de suministro’, y el departamento anunció que dejaría de usar sus productos a finales de agosto, pero la retirada se retrasó dos meses."
+       },
+       {
+        "t": "p",
+        "x": "Según fuentes, hasta la semana pasada el Departamento de Defensa usaba los modelos Claude de Anthropic en investigación, análisis y recopilación de inteligencia, e incluso en la guerra de Irán."
+       },
+       {
+        "t": "p",
+        "x": "Hasta hace poco, los modelos Claude eran una herramienta importante para clasificar enormes volúmenes de información."
+       },
+       {
+        "t": "p",
+        "x": "Los productos de IA de Anthropic se usan en el gobierno y el ejército de Estados Unidos desde 2024, y sus herramientas de IA fueron las primeras herramientas avanzadas desplegadas en organismos públicos que realizan trabajo clasificado."
+       },
+       {
+        "t": "p",
+        "x": "Pero cuando a principios de este año el Departamento de Defensa presionó a Anthropic para que “eliminara las salvaguardas de Claude y permitiera al ejército acceder sin restricciones a los productos de IA de Anthropic”, la empresa se negó, alegando ‘preocupaciones por la vigilancia masiva y las armas autónomas’."
+       },
+       {
+        "t": "p",
+        "x": "En respuesta, el secretario Hegseth designó a Anthropic como empresa de riesgo para la cadena de suministro de seguridad nacional, una medida legal que se aplica a empresas con sede en países que suponen una amenaza para Estados Unidos."
+       },
+       {
+        "t": "p",
+        "x": "Anthropic calificó la medida de “sin precedentes e ilegal” y presentó una demanda contra el gobierno de Trump."
+       },
+       {
+        "t": "p",
+        "x": "El mes pasado, el tribunal federal de apelaciones de Washington DC rechazó la petición de Anthropic de anular su inclusión en la lista negra del Departamento de Defensa y dio la razón al gobierno."
+       },
+       {
+        "t": "p",
+        "x": "Mientras avanzaba la disputa legal, el Departamento de Defensa firmó contratos con otras grandes tecnológicas como Google, xAI y OpenAI. En los últimos meses, las herramientas de OpenAI se han adoptado de forma más amplia en partes del ejército."
+       },
+       {
+        "t": "p",
+        "x": "Según las fuentes, los modelos Claude estaban integrados en el ‘Maven Smart System’, una gran plataforma de datos que utiliza el Departamento de Defensa. Operada por Palantir, Maven es la plataforma central que el departamento usa para organizar información y datos."
+       },
+       {
+        "t": "p",
+        "x": "Lauren Kahn, analista sénior de investigación del Centro de Seguridad y Tecnología Emergente de la Universidad de Georgetown, dijo que, como Claude estaba profundamente integrado en Maven, habría sido difícil retirarlo rápidamente del sistema."
+       },
+       {
+        "t": "p",
+        "x": "Kahn, que trabajó en el Departamento de Defensa, afirmó: “El hecho de que al departamento le haya llevado hasta ahora eliminar todo uso de Claude en sus sistemas demuestra que estas tecnologías no son algo que se pueda ‘conectar y desconectar fácilmente’”."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "politics-veliaj-avatar",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "수감된 티라나 시장\nAI 아바타로 연설",
+   "body": "수감 중인 에리온 벨리아이 티라나 시장이 딥페이크 AI 아바타로 연설했다.",
+   "mini_headline": "수감 시장의 AI 아바타",
+   "tool": "Politics",
+   "source": "politico.eu",
+   "url": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+     },
+     {
+      "t": "p",
+      "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 지금 수감돼 있다. 파란 정장을 입고 공약을 발표한 인물은 AI가 만들었다."
+     },
+     {
+      "t": "p",
+      "x": "공식 Instagram 계정에 ‘AI-generated’ 표시를 달고 올라온 게시물에서 46세 시장의 모습을 한 인물이 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
+     },
+     {
+      "t": "p",
+      "x": "벨리아이는 부패와 금융 범죄 혐의로 수사를 받으며 2025년 초부터 두러스에 수감돼 있다. 혐의는 모두 부인한다. 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
+     },
+     {
+      "t": "p",
+      "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 맡겼지만 2027년 상반기 지방선거 때까지 공식 시장직을 지킨다."
+     },
+     {
+      "t": "p",
+      "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 나왔다. 알바니아는 2025년 가을 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Jailed Tirana mayor speaks\nthrough an AI avatar",
+     "body": "Tirana's jailed mayor Erion Veliaj used an AI avatar to give a deepfake speech while running the city from jail.",
+     "mini_headline": "Jailed mayor's AI avatar",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Tirana Mayor Erion Veliaj has caused a stir with a video pledge of free school lunches for all the capital’s children. Veliaj is currently in prison, and the blue-suited figure making the announcement is AI-generated."
+       },
+       {
+        "t": "p",
+        "x": "In an Instagram post on his official profile labeled as AI-generated, the likeness of the 46-year-old lists his achievements in office. “I will keep this promise even from this cell where they have locked me up,” says the Veliaj clone."
+       },
+       {
+        "t": "p",
+        "x": "Veliaj has been in prison in Durres since early 2025 amid investigations over allegations of corruption and financial crimes. He denies any wrongdoing. “My hostage situation has been going on for 20 months, and I can only greet you with artificial intelligence,” his avatar says."
+       },
+       {
+        "t": "p",
+        "x": "Snap elections for Tirana were canceled after a Constitutional Court ruling. Veliaj has delegated duties to deputy mayors but remains the official mayor until municipal elections in the first half of 2027."
+       },
+       {
+        "t": "p",
+        "x": "Jailed politicians have used AI before: Pakistan’s Imran Khan in 2023, and an avatar of Brazil’s Jair Bolsonaro in July. In autumn 2025, Albania appointed Diella, an AI-powered virtual minister."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "수감된 티라나 시장\nAI 아바타로 연설",
+     "body": "수감 중인 에리온 벨리아이 티라나 시장이 딥페이크 AI 아바타로 연설했다.",
+     "mini_headline": "수감 시장의 AI 아바타",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 지금 수감돼 있다. 파란 정장을 입고 공약을 발표한 인물은 AI가 만들었다."
+       },
+       {
+        "t": "p",
+        "x": "공식 Instagram 계정에 ‘AI-generated’ 표시를 달고 올라온 게시물에서 46세 시장의 모습을 한 인물이 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "벨리아이는 부패와 금융 범죄 혐의로 수사를 받으며 2025년 초부터 두러스에 수감돼 있다. 혐의는 모두 부인한다. 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 맡겼지만 2027년 상반기 지방선거 때까지 공식 시장직을 지킨다."
+       },
+       {
+        "t": "p",
+        "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 나왔다. 알바니아는 2025년 가을 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "収監中のティラナ市長\nAIアバターで演説",
+     "body": "収監中のティラナ市長エリオン・ヴェリアイ氏が、AIアバターでディープフェイク演説をした。",
+     "mini_headline": "収監市長のAIアバター",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "ティラナのエリオン・ヴェリアイ市長が、首都のすべての子どもに学校給食を無償で提供すると約束する動画で波紋を呼んでいる。ヴェリアイ氏は現在収監中で、発表している青いスーツ姿の人物はAIで生成されたものだ。"
+       },
+       {
+        "t": "p",
+        "x": "公式Instagramアカウントに「AI-generated」と表示されて投稿された動画で、46歳の市長に似せた人物は在任中の実績を列挙する。「私を閉じ込めたこの独房からでも、この約束を守る」とヴェリアイ氏の分身は語る。"
+       },
+       {
+        "t": "p",
+        "x": "ヴェリアイ氏は汚職と金融犯罪の疑惑をめぐる捜査の中、2025年初めからドゥラスで収監されている。本人は不正を否定している。「私の人質状態は20カ月続いており、人工知能でしか皆さんにあいさつできない」とアバターは語る。"
+       },
+       {
+        "t": "p",
+        "x": "ティラナの出直し選挙は憲法裁判所の判断を受けて中止された。ヴェリアイ氏は副市長らに職務を委ねているが、2027年前半の地方選挙までは正式な市長にとどまる。"
+       },
+       {
+        "t": "p",
+        "x": "収監中の政治家がAIを使った例は過去にもある。2023年のパキスタンのイムラン・カーン氏、7月のブラジルのジャイル・ボルソナロ氏のアバターだ。アルバニアは2025年秋、AIを活用した（AI-powered）仮想大臣ディエラを任命した。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "狱中地拉那市长\n借AI虚拟形象发声",
+     "body": "身陷囹圄的地拉那市长埃里昂·韦利亚伊用AI虚拟形象发表了深度伪造演讲。",
+     "mini_headline": "狱中市长的AI分身",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "地拉那市长埃里昂·韦利亚伊发布视频，承诺为首都所有儿童提供免费午餐，引发轰动。韦利亚伊目前身在狱中，视频中身穿蓝色西装宣布这一承诺的人物由AI生成。"
+       },
+       {
+        "t": "p",
+        "x": "在其官方Instagram账号上一条标注为“AI-generated”的帖子中，这位46岁市长的仿真形象列举了自己的任内政绩。这个韦利亚伊分身说：“即使在他们把我关起来的这间牢房里，我也会兑现这个承诺。”"
+       },
+       {
+        "t": "p",
+        "x": "由于涉嫌腐败和金融犯罪接受调查，韦利亚伊自2025年初起被关押在都拉斯。他否认有任何不当行为。他的虚拟形象说：“我被扣为人质的状态已持续20个月，只能用人工智能向大家问好。”"
+       },
+       {
+        "t": "p",
+        "x": "宪法法院作出裁决后，地拉那的提前选举被取消。韦利亚伊已将职责委托给副市长，但在2027年上半年市政选举之前仍是正式市长。"
+       },
+       {
+        "t": "p",
+        "x": "被关押的政客此前也用过AI：2023年巴基斯坦的伊姆兰·汗，以及7月巴西雅伊尔·博索纳罗的虚拟形象。2025年秋，阿尔巴尼亚任命了由AI驱动（AI-powered）的虚拟部长迪埃拉。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El alcalde preso de Tirana\nhabla con un avatar de IA",
+     "body": "Erion Veliaj, alcalde preso de Tirana, dio un discurso deepfake con un avatar de IA desde la cárcel.",
+     "mini_headline": "El avatar de IA del alcalde preso",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "El alcalde de Tirana, Erion Veliaj, ha causado revuelo con un video en el que promete almuerzos escolares gratuitos para todos los niños de la capital. Veliaj está en prisión, y la figura de traje azul que hace el anuncio está generada por IA."
+       },
+       {
+        "t": "p",
+        "x": "En una publicación de Instagram en su perfil oficial, etiquetada como “AI-generated”, la réplica del político de 46 años enumera sus logros en el cargo. “Cumpliré esta promesa incluso desde esta celda donde me han encerrado”, dice el clon de Veliaj."
+       },
+       {
+        "t": "p",
+        "x": "Veliaj está preso en Durres desde principios de 2025 en medio de investigaciones por presunta corrupción y delitos financieros. Niega cualquier irregularidad. “Mi situación de rehén dura ya 20 meses y solo puedo saludarlos con inteligencia artificial”, dice su avatar."
+       },
+       {
+        "t": "p",
+        "x": "Las elecciones anticipadas en Tirana se cancelaron tras un fallo del Tribunal Constitucional. Veliaj ha delegado funciones en los vicealcaldes, pero sigue siendo el alcalde oficial hasta las elecciones municipales del primer semestre de 2027."
+       },
+       {
+        "t": "p",
+        "x": "Otros políticos encarcelados ya han usado la IA: el pakistaní Imran Khan en 2023 y un avatar del brasileño Jair Bolsonaro en julio. En otoño de 2025, Albania nombró a Diella, una ministra virtual impulsada por IA (AI-powered)."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "수감된 티라나 시장\nAI 아바타로 연설",
+     "body": "수감 중인 에리온 벨리아이 티라나 시장이 AI 아바타로 딥페이크 연설을 했다.",
+     "mini_headline": "수감 시장의 AI 아바타",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 현재 수감 중이며, 파란 정장 차림으로 공약을 발표한 인물은 AI가 만든 것이다."
+       },
+       {
+        "t": "p",
+        "x": "그의 공식 Instagram 계정에 ‘AI-generated’ 표시와 함께 올라온 게시물에서 46세 시장의 모습을 한 인물은 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "벨리아이는 부패와 금융 범죄 혐의 수사 속에 2025년 초부터 두러스에서 수감 중이다. 그는 모든 혐의를 부인한다. 그의 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 위임했지만 2027년 상반기 지방선거 때까지 공식 시장 자리를 유지한다."
+       },
+       {
+        "t": "p",
+        "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 등장했다. 2025년 가을 알바니아는 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "収監中のティラナ市長\nAIアバターで演説",
+     "body": "収監中のティラナ市長エリオン・ヴェリアイ氏が、AIアバターでディープフェイク演説をした。",
+     "mini_headline": "収監市長のAIアバター",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "ティラナのエリオン・ヴェリアイ市長が、首都のすべての子どもに学校給食を無償で提供すると約束する動画で波紋を呼んでいる。ヴェリアイ氏は現在収監中で、発表している青いスーツ姿の人物はAIで生成されたものだ。"
+       },
+       {
+        "t": "p",
+        "x": "公式Instagramアカウントに「AI-generated」と表示されて投稿された動画で、46歳の市長に似せた人物は在任中の実績を列挙する。「私を閉じ込めたこの独房からでも、この約束を守る」とヴェリアイ氏の分身は語る。"
+       },
+       {
+        "t": "p",
+        "x": "ヴェリアイ氏は汚職と金融犯罪の疑惑をめぐる捜査の中、2025年初めからドゥラスで収監されている。本人は不正を否定している。「私の人質状態は20カ月続いており、人工知能でしか皆さんにあいさつできない」とアバターは語る。"
+       },
+       {
+        "t": "p",
+        "x": "ティラナの出直し選挙は憲法裁判所の判断を受けて中止された。ヴェリアイ氏は副市長らに職務を委ねているが、2027年前半の地方選挙までは正式な市長にとどまる。"
+       },
+       {
+        "t": "p",
+        "x": "収監中の政治家がAIを使った例は過去にもある。2023年のパキスタンのイムラン・カーン氏、7月のブラジルのジャイル・ボルソナロ氏のアバターだ。アルバニアは2025年秋、AIを活用した（AI-powered）仮想大臣ディエラを任命した。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "狱中地拉那市长\n借AI虚拟形象发声",
+     "body": "身陷囹圄的地拉那市长埃里昂·韦利亚伊用AI虚拟形象发表了深度伪造演讲。",
+     "mini_headline": "狱中市长的AI分身",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "地拉那市长埃里昂·韦利亚伊发布视频，承诺为首都所有儿童提供免费午餐，引发轰动。韦利亚伊目前身在狱中，视频中身穿蓝色西装宣布这一承诺的人物由AI生成。"
+       },
+       {
+        "t": "p",
+        "x": "在其官方Instagram账号上一条标注为“AI-generated”的帖子中，这位46岁市长的仿真形象列举了自己的任内政绩。这个韦利亚伊分身说：“即使在他们把我关起来的这间牢房里，我也会兑现这个承诺。”"
+       },
+       {
+        "t": "p",
+        "x": "由于涉嫌腐败和金融犯罪接受调查，韦利亚伊自2025年初起被关押在都拉斯。他否认有任何不当行为。他的虚拟形象说：“我被扣为人质的状态已持续20个月，只能用人工智能向大家问好。”"
+       },
+       {
+        "t": "p",
+        "x": "宪法法院作出裁决后，地拉那的提前选举被取消。韦利亚伊已将职责委托给副市长，但在2027年上半年市政选举之前仍是正式市长。"
+       },
+       {
+        "t": "p",
+        "x": "被关押的政客此前也用过AI：2023年巴基斯坦的伊姆兰·汗，以及7月巴西雅伊尔·博索纳罗的虚拟形象。2025年秋，阿尔巴尼亚任命了由AI驱动（AI-powered）的虚拟部长迪埃拉。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El alcalde preso de Tirana\nhabla con un avatar de IA",
+     "body": "Erion Veliaj, alcalde preso de Tirana, dio un discurso deepfake con un avatar de IA desde la cárcel.",
+     "mini_headline": "El avatar de IA del alcalde preso",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
+       },
+       {
+        "t": "p",
+        "x": "El alcalde de Tirana, Erion Veliaj, ha causado revuelo con un video en el que promete almuerzos escolares gratuitos para todos los niños de la capital. Veliaj está en prisión, y la figura de traje azul que hace el anuncio está generada por IA."
+       },
+       {
+        "t": "p",
+        "x": "En una publicación de Instagram en su perfil oficial, etiquetada como “AI-generated”, la réplica del político de 46 años enumera sus logros en el cargo. “Cumpliré esta promesa incluso desde esta celda donde me han encerrado”, dice el clon de Veliaj."
+       },
+       {
+        "t": "p",
+        "x": "Veliaj está preso en Durres desde principios de 2025 en medio de investigaciones por presunta corrupción y delitos financieros. Niega cualquier irregularidad. “Mi situación de rehén dura ya 20 meses y solo puedo saludarlos con inteligencia artificial”, dice su avatar."
+       },
+       {
+        "t": "p",
+        "x": "Las elecciones anticipadas en Tirana se cancelaron tras un fallo del Tribunal Constitucional. Veliaj ha delegado funciones en los vicealcaldes, pero sigue siendo el alcalde oficial hasta las elecciones municipales del primer semestre de 2027."
+       },
+       {
+        "t": "p",
+        "x": "Otros políticos encarcelados ya han usado la IA: el pakistaní Imran Khan en 2023 y un avatar del brasileño Jair Bolsonaro en julio. En otoño de 2025, Albania nombró a Diella, una ministra virtual impulsada por IA (AI-powered)."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "politics-japan-usedbooks-ai",
+   "source_lang": "ko",
+   "eyebrow": "AI NEWS",
+   "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
+   "body": "일본서적출판협회가 AI 학습용 책 대량판매 의혹을 두고 유통업체에 질의서를 보냈다.",
+   "mini_headline": "日출판협회, AI 학습 반발",
+   "tool": "Politics",
+   "source": "yna.co.kr",
+   "url": "https://www.yna.co.kr/view/AKR20261006194100073",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "(도쿄=연합뉴스) 조성미 특파원 = 일본 출판사 단체가 도서 유통업체에 대해 미국 인공지능(AI) 모델 개발사에 AI 학습용으로 대량의 책을 팔아넘겼을 가능성을 따져 물었다고 교도통신이 6일 보도했다."
+     },
+     {
+      "t": "p",
+      "x": "일본서적출판협회는 도서 유통업체인 일본출판판매가 미국 앤트로픽에 서적을 대량으로 판매했을 가능성이 제기됨에 따라 사실 확인을 요청하는 질의서를 보냈다."
+     },
+     {
+      "t": "p",
+      "x": "출판협회는 일본출판판매에 대해 앤트로픽에 판매한 도서에 회원사의 간행물이 포함돼 있는지를 알릴 것과 출판사의 허락 없이 해외 사업자에게 도서를 대량으로 판매하는 행위에 대한 견해를 밝히라고 요구했다."
+     },
+     {
+      "t": "p",
+      "x": "앤트로픽에 대해 미국에서 제기된 저작권 소송의 재판 자료에는 일본출판판매로부터 서적을 구매한 과정이 기록된 것으로 전해졌다."
+     },
+     {
+      "t": "p",
+      "x": "일본서적출판협회 관계자는 \"AI 학습에 사용될 것을 알고 판매했다면 유감스러운 일\"이라며 출판사나 저자의 허락 없이 서적이 AI 학습 목적으로 팔려서는 안 된다고 강조했다."
+     },
+     {
+      "t": "p",
+      "x": "일본서적출판협회는 고단샤, 분게이슌주 등 일본의 대형 출판사를 포함한 380개 회원사로 구성돼 있다."
+     },
+     {
+      "t": "p",
+      "x": "일본에서는 최근 헌책방에서 철학·역사·의학·법률 등 전문 분야 책이 대량으로 팔리는 현상이 목격되면서 AI 모델 개발사가 학습용으로 사들여 스캔한 뒤 폐기한 것 아니냐는 의혹이 일었다."
+     },
+     {
+      "t": "p",
+      "x": "이와 관련해 니혼TV는 일본의 한 대형 도서 유통업체 자회사가 미국으로 책을 50톤(t) 이상 수출했다며 이는 약 10만권에 이르는 방대한 규모라고 전했다."
+     },
+     {
+      "t": "img",
+      "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+      "cap": "AI 학습 [연합뉴스TV 캡처]"
+     }
+    ]
+   },
+   "text": {
+    "ko": {
+     "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
+     "body": "일본서적출판협회가 AI 학습용 책 대량판매 의혹을 두고 유통업체에 질의서를 보냈다.",
+     "mini_headline": "日출판협회, AI 학습 반발",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "(도쿄=연합뉴스) 조성미 특파원 = 일본 출판사 단체가 도서 유통업체에 대해 미국 인공지능(AI) 모델 개발사에 AI 학습용으로 대량의 책을 팔아넘겼을 가능성을 따져 물었다고 교도통신이 6일 보도했다."
+       },
+       {
+        "t": "p",
+        "x": "일본서적출판협회는 도서 유통업체인 일본출판판매가 미국 앤트로픽에 서적을 대량으로 판매했을 가능성이 제기됨에 따라 사실 확인을 요청하는 질의서를 보냈다."
+       },
+       {
+        "t": "p",
+        "x": "출판협회는 일본출판판매에 대해 앤트로픽에 판매한 도서에 회원사의 간행물이 포함돼 있는지를 알릴 것과 출판사의 허락 없이 해외 사업자에게 도서를 대량으로 판매하는 행위에 대한 견해를 밝히라고 요구했다."
+       },
+       {
+        "t": "p",
+        "x": "앤트로픽에 대해 미국에서 제기된 저작권 소송의 재판 자료에는 일본출판판매로부터 서적을 구매한 과정이 기록된 것으로 전해졌다."
+       },
+       {
+        "t": "p",
+        "x": "일본서적출판협회 관계자는 \"AI 학습에 사용될 것을 알고 판매했다면 유감스러운 일\"이라며 출판사나 저자의 허락 없이 서적이 AI 학습 목적으로 팔려서는 안 된다고 강조했다."
+       },
+       {
+        "t": "p",
+        "x": "일본서적출판협회는 고단샤, 분게이슌주 등 일본의 대형 출판사를 포함한 380개 회원사로 구성돼 있다."
+       },
+       {
+        "t": "p",
+        "x": "일본에서는 최근 헌책방에서 철학·역사·의학·법률 등 전문 분야 책이 대량으로 팔리는 현상이 목격되면서 AI 모델 개발사가 학습용으로 사들여 스캔한 뒤 폐기한 것 아니냐는 의혹이 일었다."
+       },
+       {
+        "t": "p",
+        "x": "이와 관련해 니혼TV는 일본의 한 대형 도서 유통업체 자회사가 미국으로 책을 50톤(t) 이상 수출했다며 이는 약 10만권에 이르는 방대한 규모라고 전했다."
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI 학습 [연합뉴스TV 캡처]"
+       }
+      ]
+     }
+    },
+    "en": {
+     "headline": "Japan publishers object to sale\nof used books for AI training",
+     "body": "The Japan Book Publishers Association sent a distributor questions over suspected bulk book sales for AI training.",
+     "mini_headline": "Japan publishers push back on AI training",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "(Tokyo=Yonhap) Correspondent Cho Sung-mi = A Japanese publishers' group has questioned a book distributor over the possibility that it sold large numbers of books to a U.S. artificial intelligence (AI) model developer for AI training, Kyodo News reported on the 6th."
+       },
+       {
+        "t": "p",
+        "x": "The Japan Book Publishers Association sent a letter of inquiry asking the book distributor Nippon Shuppan Hanbai to confirm the facts, after the possibility was raised that it had sold books in bulk to Anthropic in the U.S."
+       },
+       {
+        "t": "p",
+        "x": "The association asked Nippon Shuppan Hanbai to disclose whether the books sold to Anthropic included publications by its member companies, and to state its view on selling books in bulk to overseas businesses without publishers' permission."
+       },
+       {
+        "t": "p",
+        "x": "Court documents in a copyright lawsuit filed against Anthropic in the U.S. reportedly record the process of purchasing books from Nippon Shuppan Hanbai."
+       },
+       {
+        "t": "p",
+        "x": "An official of the Japan Book Publishers Association said, “If they sold the books knowing they would be used for AI training, that is regrettable,” stressing that books should not be sold for AI training without the permission of publishers or authors."
+       },
+       {
+        "t": "p",
+        "x": "The Japan Book Publishers Association consists of 380 member companies, including major Japanese publishers such as Kodansha and Bungeishunju."
+       },
+       {
+        "t": "p",
+        "x": "In Japan, suspicions arose that AI model developers had bought books for training, scanned them and then discarded them, after large volumes of specialist books on philosophy, history, medicine and law were recently seen selling at used bookstores."
+       },
+       {
+        "t": "p",
+        "x": "In this regard, Nippon TV reported that a subsidiary of a major Japanese book distributor had exported more than 50 tons (t) of books to the U.S., a massive volume amounting to about 100,000 books."
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI training [Yonhap News TV capture]"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "日本の出版協会、古書の\nAI学習用販売に反発",
+     "body": "日本書籍出版協会が、AI学習用の書籍大量販売の疑いをめぐり流通業者に質問状を送った。",
+     "mini_headline": "出版協会、AI学習に反発",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "（東京＝聯合ニュース）チョ・ソンミ特派員＝日本の出版社団体が、米国の人工知能（AI）モデル開発会社にAI学習用として大量の書籍を売り渡した可能性について書籍取次会社を問いただしたと、共同通信が6日報じた。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会は、書籍取次の日本出版販売が米Anthropicに書籍を大量に販売した可能性が浮上したことを受け、事実確認を求める質問状を送った。"
+       },
+       {
+        "t": "p",
+        "x": "協会は日本出版販売に対し、Anthropicに販売した書籍に会員社の刊行物が含まれているかを明らかにすることと、出版社の許諾なく海外事業者に書籍を大量販売する行為についての見解を示すことを求めた。"
+       },
+       {
+        "t": "p",
+        "x": "米国でAnthropicを相手に起こされた著作権訴訟の裁判資料には、日本出版販売から書籍を購入した経緯が記録されているという。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会の関係者は「AI学習に使われると知って販売したのなら遺憾だ」と述べ、出版社や著者の許諾なく書籍がAI学習目的で売られてはならないと強調した。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会は、講談社や文藝春秋など日本の大手出版社を含む380社の会員社で構成されている。"
+       },
+       {
+        "t": "p",
+        "x": "日本では最近、古書店で哲学・歴史・医学・法律などの専門書が大量に売れる現象が見られ、AIモデル開発会社が学習用に買い集めてスキャンした後、廃棄したのではないかとの疑惑が持ち上がった。"
+       },
+       {
+        "t": "p",
+        "x": "これに関連し日本テレビは、日本の大手書籍取次会社の子会社が米国に書籍を50トン（t）以上輸出したと伝え、約10万冊に上る膨大な規模だとした。"
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI学習［聯合ニュースTVキャプチャー］"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "日本出版协会反对\n二手书卖作AI训练",
+     "body": "日本书籍出版协会就书籍被大量出售用于AI训练的疑虑，向一家图书经销商发出了质询函。",
+     "mini_headline": "日本出版协会反对AI训练",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "（东京=韩联社）记者赵成美 = 据共同社6日报道，日本出版商团体就一家图书经销商可能为AI训练向美国人工智能（AI）模型开发商大量出售图书一事提出质询。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会因有人指出图书经销商日本出版贩卖可能向美国Anthropic大量出售书籍，发出了要求核实事实的质询函。"
+       },
+       {
+        "t": "p",
+        "x": "出版协会要求日本出版贩卖说明出售给Anthropic的图书中是否包含会员出版社的出版物，并就未经出版社许可向海外经营者大量出售图书的行为表明看法。"
+       },
+       {
+        "t": "p",
+        "x": "据悉，在美国针对Anthropic提起的版权诉讼的庭审资料中，记录了其从日本出版贩卖购买书籍的过程。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会相关人士表示：“如果明知将被用于AI训练还出售，那是令人遗憾的事。”他强调，未经出版社或作者许可，书籍不应被出售用于AI训练。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会由包括讲谈社、文艺春秋等日本大型出版社在内的380家会员公司组成。"
+       },
+       {
+        "t": "p",
+        "x": "近来在日本，旧书店里哲学、历史、医学、法律等专业领域书籍被大量售出的现象引人注目，由此引发疑问：是否是AI模型开发商买来用于训练，扫描后再销毁。"
+       },
+       {
+        "t": "p",
+        "x": "对此，日本电视台报道称，日本一家大型图书经销商的子公司向美国出口了50吨（t）以上的书籍，规模庞大，约达10万册。"
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI训练 [韩联社TV截图]"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Editores de Japón rechazan la\nventa de libros usados para IA",
+     "body": "La Asociación de Editores de Libros de Japón envió preguntas a un distribuidor por presuntas ventas masivas para IA.",
+     "mini_headline": "Editores japoneses contra el uso para IA",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "(Tokio=Yonhap) Corresponsal Cho Sung-mi = Una agrupación de editoriales japonesas pidió explicaciones a un distribuidor de libros por la posibilidad de que vendiera grandes cantidades de libros a un desarrollador estadounidense de modelos de inteligencia artificial (IA) para entrenar IA, informó la agencia Kyodo el día 6."
+       },
+       {
+        "t": "p",
+        "x": "La Asociación de Editores de Libros de Japón envió una carta de consulta para pedir la verificación de los hechos, después de que surgiera la posibilidad de que el distribuidor Nippon Shuppan Hanbai hubiera vendido libros en grandes cantidades a la estadounidense Anthropic."
+       },
+       {
+        "t": "p",
+        "x": "La asociación pidió a Nippon Shuppan Hanbai que informara si los libros vendidos a Anthropic incluían publicaciones de sus miembros y que expusiera su postura sobre la venta masiva de libros a empresas extranjeras sin permiso de las editoriales."
+       },
+       {
+        "t": "p",
+        "x": "Según se informó, los documentos judiciales de una demanda por derechos de autor presentada contra Anthropic en Estados Unidos registran el proceso de compra de libros a Nippon Shuppan Hanbai."
+       },
+       {
+        "t": "p",
+        "x": "Un responsable de la Asociación de Editores de Libros de Japón afirmó que “si los vendieron sabiendo que se usarían para entrenar IA, es lamentable”, y subrayó que los libros no deben venderse con fines de entrenamiento de IA sin permiso de las editoriales o de los autores."
+       },
+       {
+        "t": "p",
+        "x": "La Asociación de Editores de Libros de Japón está formada por 380 empresas miembro, entre ellas grandes editoriales japonesas como Kodansha y Bungeishunju."
+       },
+       {
+        "t": "p",
+        "x": "En Japón surgieron sospechas de que desarrolladores de modelos de IA compraban libros para entrenamiento, los escaneaban y luego los desechaban, después de que se observara recientemente la venta masiva de libros especializados de filosofía, historia, medicina y derecho en librerías de segunda mano."
+       },
+       {
+        "t": "p",
+        "x": "En este contexto, Nippon TV informó que una filial de un gran distribuidor de libros japonés exportó más de 50 toneladas (t) de libros a Estados Unidos, un volumen enorme equivalente a unos 100.000 ejemplares."
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "Entrenamiento de IA [captura de Yonhap News TV]"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "en": {
+     "headline": "Japan publishers object to sale\nof used books for AI training",
+     "body": "The Japan Book Publishers Association sent a distributor questions over suspected bulk book sales for AI training.",
+     "mini_headline": "Japan publishers push back on AI training",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "(Tokyo=Yonhap) Correspondent Cho Sung-mi = A Japanese publishers' group has questioned a book distributor over the possibility that it sold large numbers of books to a U.S. artificial intelligence (AI) model developer for AI training, Kyodo News reported on the 6th."
+       },
+       {
+        "t": "p",
+        "x": "The Japan Book Publishers Association sent a letter of inquiry asking the book distributor Nippon Shuppan Hanbai to confirm the facts, after the possibility was raised that it had sold books in bulk to Anthropic in the U.S."
+       },
+       {
+        "t": "p",
+        "x": "The association asked Nippon Shuppan Hanbai to disclose whether the books sold to Anthropic included publications by its member companies, and to state its view on selling books in bulk to overseas businesses without publishers' permission."
+       },
+       {
+        "t": "p",
+        "x": "Court documents in a copyright lawsuit filed against Anthropic in the U.S. reportedly record the process of purchasing books from Nippon Shuppan Hanbai."
+       },
+       {
+        "t": "p",
+        "x": "An official of the Japan Book Publishers Association said, “If they sold the books knowing they would be used for AI training, that is regrettable,” stressing that books should not be sold for AI training without the permission of publishers or authors."
+       },
+       {
+        "t": "p",
+        "x": "The Japan Book Publishers Association consists of 380 member companies, including major Japanese publishers such as Kodansha and Bungeishunju."
+       },
+       {
+        "t": "p",
+        "x": "In Japan, suspicions arose that AI model developers had bought books for training, scanned them and then discarded them, after large volumes of specialist books on philosophy, history, medicine and law were recently seen selling at used bookstores."
+       },
+       {
+        "t": "p",
+        "x": "In this regard, Nippon TV reported that a subsidiary of a major Japanese book distributor had exported more than 50 tons (t) of books to the U.S., a massive volume amounting to about 100,000 books."
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI training [Yonhap News TV capture]"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "日本の出版協会、古書の\nAI学習用販売に反発",
+     "body": "日本書籍出版協会が、AI学習用の書籍大量販売の疑いをめぐり流通業者に質問状を送った。",
+     "mini_headline": "出版協会、AI学習に反発",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "（東京＝聯合ニュース）チョ・ソンミ特派員＝日本の出版社団体が、米国の人工知能（AI）モデル開発会社にAI学習用として大量の書籍を売り渡した可能性について書籍取次会社を問いただしたと、共同通信が6日報じた。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会は、書籍取次の日本出版販売が米Anthropicに書籍を大量に販売した可能性が浮上したことを受け、事実確認を求める質問状を送った。"
+       },
+       {
+        "t": "p",
+        "x": "協会は日本出版販売に対し、Anthropicに販売した書籍に会員社の刊行物が含まれているかを明らかにすることと、出版社の許諾なく海外事業者に書籍を大量販売する行為についての見解を示すことを求めた。"
+       },
+       {
+        "t": "p",
+        "x": "米国でAnthropicを相手に起こされた著作権訴訟の裁判資料には、日本出版販売から書籍を購入した経緯が記録されているという。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会の関係者は「AI学習に使われると知って販売したのなら遺憾だ」と述べ、出版社や著者の許諾なく書籍がAI学習目的で売られてはならないと強調した。"
+       },
+       {
+        "t": "p",
+        "x": "日本書籍出版協会は、講談社や文藝春秋など日本の大手出版社を含む380社の会員社で構成されている。"
+       },
+       {
+        "t": "p",
+        "x": "日本では最近、古書店で哲学・歴史・医学・法律などの専門書が大量に売れる現象が見られ、AIモデル開発会社が学習用に買い集めてスキャンした後、廃棄したのではないかとの疑惑が持ち上がった。"
+       },
+       {
+        "t": "p",
+        "x": "これに関連し日本テレビは、日本の大手書籍取次会社の子会社が米国に書籍を50トン（t）以上輸出したと伝え、約10万冊に上る膨大な規模だとした。"
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI学習［聯合ニュースTVキャプチャー］"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "日本出版协会反对\n二手书卖作AI训练",
+     "body": "日本书籍出版协会就书籍被大量出售用于AI训练的疑虑，向一家图书经销商发出了质询函。",
+     "mini_headline": "日本出版协会反对AI训练",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "（东京=韩联社）记者赵成美 = 据共同社6日报道，日本出版商团体就一家图书经销商可能为AI训练向美国人工智能（AI）模型开发商大量出售图书一事提出质询。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会因有人指出图书经销商日本出版贩卖可能向美国Anthropic大量出售书籍，发出了要求核实事实的质询函。"
+       },
+       {
+        "t": "p",
+        "x": "出版协会要求日本出版贩卖说明出售给Anthropic的图书中是否包含会员出版社的出版物，并就未经出版社许可向海外经营者大量出售图书的行为表明看法。"
+       },
+       {
+        "t": "p",
+        "x": "据悉，在美国针对Anthropic提起的版权诉讼的庭审资料中，记录了其从日本出版贩卖购买书籍的过程。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会相关人士表示：“如果明知将被用于AI训练还出售，那是令人遗憾的事。”他强调，未经出版社或作者许可，书籍不应被出售用于AI训练。"
+       },
+       {
+        "t": "p",
+        "x": "日本书籍出版协会由包括讲谈社、文艺春秋等日本大型出版社在内的380家会员公司组成。"
+       },
+       {
+        "t": "p",
+        "x": "近来在日本，旧书店里哲学、历史、医学、法律等专业领域书籍被大量售出的现象引人注目，由此引发疑问：是否是AI模型开发商买来用于训练，扫描后再销毁。"
+       },
+       {
+        "t": "p",
+        "x": "对此，日本电视台报道称，日本一家大型图书经销商的子公司向美国出口了50吨（t）以上的书籍，规模庞大，约达10万册。"
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "AI训练 [韩联社TV截图]"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Editores de Japón rechazan la\nventa de libros usados para IA",
+     "body": "La Asociación de Editores de Libros de Japón envió preguntas a un distribuidor por presuntas ventas masivas para IA.",
+     "mini_headline": "Editores japoneses contra el uso para IA",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "(Tokio=Yonhap) Corresponsal Cho Sung-mi = Una agrupación de editoriales japonesas pidió explicaciones a un distribuidor de libros por la posibilidad de que vendiera grandes cantidades de libros a un desarrollador estadounidense de modelos de inteligencia artificial (IA) para entrenar IA, informó la agencia Kyodo el día 6."
+       },
+       {
+        "t": "p",
+        "x": "La Asociación de Editores de Libros de Japón envió una carta de consulta para pedir la verificación de los hechos, después de que surgiera la posibilidad de que el distribuidor Nippon Shuppan Hanbai hubiera vendido libros en grandes cantidades a la estadounidense Anthropic."
+       },
+       {
+        "t": "p",
+        "x": "La asociación pidió a Nippon Shuppan Hanbai que informara si los libros vendidos a Anthropic incluían publicaciones de sus miembros y que expusiera su postura sobre la venta masiva de libros a empresas extranjeras sin permiso de las editoriales."
+       },
+       {
+        "t": "p",
+        "x": "Según se informó, los documentos judiciales de una demanda por derechos de autor presentada contra Anthropic en Estados Unidos registran el proceso de compra de libros a Nippon Shuppan Hanbai."
+       },
+       {
+        "t": "p",
+        "x": "Un responsable de la Asociación de Editores de Libros de Japón afirmó que “si los vendieron sabiendo que se usarían para entrenar IA, es lamentable”, y subrayó que los libros no deben venderse con fines de entrenamiento de IA sin permiso de las editoriales o de los autores."
+       },
+       {
+        "t": "p",
+        "x": "La Asociación de Editores de Libros de Japón está formada por 380 empresas miembro, entre ellas grandes editoriales japonesas como Kodansha y Bungeishunju."
+       },
+       {
+        "t": "p",
+        "x": "En Japón surgieron sospechas de que desarrolladores de modelos de IA compraban libros para entrenamiento, los escaneaban y luego los desechaban, después de que se observara recientemente la venta masiva de libros especializados de filosofía, historia, medicina y derecho en librerías de segunda mano."
+       },
+       {
+        "t": "p",
+        "x": "En este contexto, Nippon TV informó que una filial de un gran distribuidor de libros japonés exportó más de 50 toneladas (t) de libros a Estados Unidos, un volumen enorme equivalente a unos 100.000 ejemplares."
+       },
+       {
+        "t": "img",
+        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+        "cap": "Entrenamiento de IA [captura de Yonhap News TV]"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "politics-latino-ai-voter-guide",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
+   "body": "전국 라티노 시민단체가 복잡한 선거 제도를 안내하는 이중언어 AI 앱을 내놨다.",
+   "mini_headline": "이중언어 AI 투표 안내",
+   "tool": "Politics",
+   "source": "axios.com",
+   "url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
+   "accent": "#ff5a4d",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+     },
+     {
+      "t": "p",
+      "x": "전국 단위의 라티노 시민참여 단체가 AI 앱을 앞세웠다. 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕겠다는 것이다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
+     },
+     {
+      "t": "p",
+      "x": "Mi Familia en Acción은 지난주 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보를 묻는 질문에 답하는 앱이다. 50개 주 전역에서 운영되고, 지역이나 선거구 단위에 맞춘 정보도 제공할 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람이 검토하며 안전장치도 둔다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
+     },
+     {
+      "t": "p",
+      "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했다. 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고도 말했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Latino civic group bets on\nbilingual AI for midterms",
+     "body": "A national Latino civic group is turning to a bilingual AI app to help voters navigate a complicated election system.",
+     "mini_headline": "Bilingual AI voter guide",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "A national Latino civic engagement group is turning to an AI app to help voters cut through an increasingly complicated election system — in English or Spanish. Nearly 39 million Hispanics can vote in this year’s midterms, according to Pew Research Center."
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción launched Nubi last week, a bilingual AI-powered app that answers questions about voting, voter registration, citizenship and Know Your Rights information. It operates in all 50 states and can tailor information to the local or district level."
+       },
+       {
+        "t": "p",
+        "x": "President and CEO Héctor Sánchez Barba says that unlike a general-purpose chatbot, Nubi doesn’t search the open internet: the organization feeds it information from sources it considers reliable, with human review and guardrails. If Nubi doesn’t have an answer, it is designed to say so and direct the user to a trusted source."
+       },
+       {
+        "t": "p",
+        "x": "The organization financed development itself. Sánchez stressed that Nubi is nonpartisan and doesn’t recommend candidates or causes, and said it won’t replace door-knocking and other traditional organizing."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
+     "body": "전국 라티노 시민단체가 복잡한 선거 제도를 안내하는 이중언어 AI 앱을 내놨다.",
+     "mini_headline": "이중언어 AI 투표 안내",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "전국 단위의 라티노 시민참여 단체가 AI 앱을 앞세웠다. 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕겠다는 것이다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción은 지난주 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보를 묻는 질문에 답하는 앱이다. 50개 주 전역에서 운영되고, 지역이나 선거구 단위에 맞춘 정보도 제공할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람이 검토하며 안전장치도 둔다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
+       },
+       {
+        "t": "p",
+        "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했다. 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고도 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ラティーノ団体、中間選挙で\nバイリンガルAIに賭ける",
+     "body": "全米規模のラティーノ市民団体が、複雑な選挙制度の案内にバイリンガルAIアプリを活用する。",
+     "mini_headline": "バイリンガルAI投票ガイド",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "全米規模のラティーノ市民参加団体が、ますます複雑になる選挙制度を有権者が英語またはスペイン語で理解できるよう、AIアプリの活用に乗り出した。ピュー・リサーチ・センターによると、今年の中間選挙で投票できるヒスパニックは3900万人近くに上る。"
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acciónは先週、投票や有権者登録、市民権、「Know Your Rights（権利を知ろう）」情報に関する質問に答える、AIを活用した（AI-powered）バイリンガルアプリ「Nubi」を公開した。全50州で利用でき、地域や選挙区単位に合わせた情報を提供できる。"
+       },
+       {
+        "t": "p",
+        "x": "代表兼CEOのエクトル・サンチェス・バルバ氏によると、Nubiは汎用チャットボットと異なり、インターネット全体を検索しない。団体が信頼できると判断した情報源の情報を与え、人間による確認とガードレールを設けている。答えを持たない場合はそう伝え、信頼できる情報源へ利用者を案内するよう設計されている。"
+       },
+       {
+        "t": "p",
+        "x": "開発資金は団体が自ら賄った。サンチェス氏は、Nubiは超党派で候補者や主張を推奨しないと強調し、戸別訪問などの従来の組織活動に取って代わるものではないと述べた。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "拉丁裔公民团体\n中期选举押注双语AI",
+     "body": "一个全国性拉丁裔公民团体借助双语AI应用，帮助选民理解复杂的选举制度。",
+     "mini_headline": "双语AI选民指南",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "一个全国性拉丁裔公民参与团体正借助一款AI应用，帮助选民以英语或西班牙语理清日益复杂的选举制度。据皮尤研究中心统计，今年中期选举中有近3900万西班牙裔具有投票资格。"
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción上周推出了由AI驱动（AI-powered）的双语应用Nubi，可回答有关投票、选民登记、公民身份以及“了解你的权利”（Know Your Rights）信息的问题。该应用覆盖全部50个州，并可将信息细化到地方或选区层面。"
+       },
+       {
+        "t": "p",
+        "x": "该组织主席兼CEO埃克托·桑切斯·巴尔巴表示，与通用聊天机器人不同，Nubi不会搜索开放互联网：组织会向其输入来自其认为可靠来源的信息，并辅以人工审核和防护措施。如果Nubi没有答案，它会如实说明，并引导用户查询可信来源。"
+       },
+       {
+        "t": "p",
+        "x": "该组织自行出资开发。桑切斯强调，Nubi不分党派，不推荐任何候选人或主张，也不会取代挨家挨户拉票等传统组织工作。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Grupo cívico latino apuesta por\nIA bilingüe para las intermedias",
+     "body": "Un grupo cívico latino recurre a una app de IA bilingüe para guiar a los votantes en un sistema electoral complejo.",
+     "mini_headline": "Guía electoral bilingüe con IA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "Un grupo nacional latino de participación cívica recurre a una aplicación de IA para ayudar a los votantes a orientarse en un sistema electoral cada vez más complicado, en inglés o en español. Casi 39 millones de hispanos pueden votar en las elecciones de mitad de mandato de este año, según el Pew Research Center."
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción lanzó la semana pasada Nubi, una aplicación bilingüe impulsada por IA (AI-powered) que responde preguntas sobre el voto, el registro de votantes, la ciudadanía e información de Know Your Rights. Funciona en los 50 estados y puede adaptar la información al nivel local o de distrito."
+       },
+       {
+        "t": "p",
+        "x": "Su presidente y CEO, Héctor Sánchez Barba, explica que, a diferencia de un chatbot de uso general, Nubi no busca en internet abierto: la organización le suministra información de fuentes que considera fiables, con revisión humana y salvaguardas. Si Nubi no tiene una respuesta, está diseñada para decirlo y dirigir al usuario a una fuente de confianza."
+       },
+       {
+        "t": "p",
+        "x": "La organización financió el desarrollo por su cuenta. Sánchez subrayó que Nubi es apartidista y no recomienda candidatos ni causas, y dijo que no sustituirá el puerta a puerta ni otras formas tradicionales de organización."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
+     "body": "전국 라티노 시민단체가 복잡한 선거 제도 안내를 위해 이중언어 AI 앱을 내놨다.",
+     "mini_headline": "이중언어 AI 투표 안내",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "전국 단위의 라티노 시민참여 단체가 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕기 위해 AI 앱을 활용하고 나섰다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción은 지난주 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보에 관한 질문에 답하는 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 이 앱은 50개 주 전역에서 운영되며 지역이나 선거구 단위에 맞춘 정보를 제공할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람의 검토와 안전장치를 거친다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
+       },
+       {
+        "t": "p",
+        "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했고, 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ラティーノ団体、中間選挙で\nバイリンガルAIに賭ける",
+     "body": "全米規模のラティーノ市民団体が、複雑な選挙制度の案内にバイリンガルAIアプリを活用する。",
+     "mini_headline": "バイリンガルAI投票ガイド",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "全米規模のラティーノ市民参加団体が、ますます複雑になる選挙制度を有権者が英語またはスペイン語で理解できるよう、AIアプリの活用に乗り出した。ピュー・リサーチ・センターによると、今年の中間選挙で投票できるヒスパニックは3900万人近くに上る。"
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acciónは先週、投票や有権者登録、市民権、「Know Your Rights（権利を知ろう）」情報に関する質問に答える、AIを活用した（AI-powered）バイリンガルアプリ「Nubi」を公開した。全50州で利用でき、地域や選挙区単位に合わせた情報を提供できる。"
+       },
+       {
+        "t": "p",
+        "x": "代表兼CEOのエクトル・サンチェス・バルバ氏によると、Nubiは汎用チャットボットと異なり、インターネット全体を検索しない。団体が信頼できると判断した情報源の情報を与え、人間による確認とガードレールを設けている。答えを持たない場合はそう伝え、信頼できる情報源へ利用者を案内するよう設計されている。"
+       },
+       {
+        "t": "p",
+        "x": "開発資金は団体が自ら賄った。サンチェス氏は、Nubiは超党派で候補者や主張を推奨しないと強調し、戸別訪問などの従来の組織活動に取って代わるものではないと述べた。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "拉丁裔公民团体\n中期选举押注双语AI",
+     "body": "一个全国性拉丁裔公民团体借助双语AI应用，帮助选民理解复杂的选举制度。",
+     "mini_headline": "双语AI选民指南",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "一个全国性拉丁裔公民参与团体正借助一款AI应用，帮助选民以英语或西班牙语理清日益复杂的选举制度。据皮尤研究中心统计，今年中期选举中有近3900万西班牙裔具有投票资格。"
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción上周推出了由AI驱动（AI-powered）的双语应用Nubi，可回答有关投票、选民登记、公民身份以及“了解你的权利”（Know Your Rights）信息的问题。该应用覆盖全部50个州，并可将信息细化到地方或选区层面。"
+       },
+       {
+        "t": "p",
+        "x": "该组织主席兼CEO埃克托·桑切斯·巴尔巴表示，与通用聊天机器人不同，Nubi不会搜索开放互联网：组织会向其输入来自其认为可靠来源的信息，并辅以人工审核和防护措施。如果Nubi没有答案，它会如实说明，并引导用户查询可信来源。"
+       },
+       {
+        "t": "p",
+        "x": "该组织自行出资开发。桑切斯强调，Nubi不分党派，不推荐任何候选人或主张，也不会取代挨家挨户拉票等传统组织工作。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Grupo cívico latino apuesta por\nIA bilingüe para las intermedias",
+     "body": "Un grupo cívico latino recurre a una app de IA bilingüe para guiar a los votantes en un sistema electoral complejo.",
+     "mini_headline": "Guía electoral bilingüe con IA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
+       },
+       {
+        "t": "p",
+        "x": "Un grupo nacional latino de participación cívica recurre a una aplicación de IA para ayudar a los votantes a orientarse en un sistema electoral cada vez más complicado, en inglés o en español. Casi 39 millones de hispanos pueden votar en las elecciones de mitad de mandato de este año, según el Pew Research Center."
+       },
+       {
+        "t": "p",
+        "x": "Mi Familia en Acción lanzó la semana pasada Nubi, una aplicación bilingüe impulsada por IA (AI-powered) que responde preguntas sobre el voto, el registro de votantes, la ciudadanía e información de Know Your Rights. Funciona en los 50 estados y puede adaptar la información al nivel local o de distrito."
+       },
+       {
+        "t": "p",
+        "x": "Su presidente y CEO, Héctor Sánchez Barba, explica que, a diferencia de un chatbot de uso general, Nubi no busca en internet abierto: la organización le suministra información de fuentes que considera fiables, con revisión humana y salvaguardas. Si Nubi no tiene una respuesta, está diseñada para decirlo y dirigir al usuario a una fuente de confianza."
+       },
+       {
+        "t": "p",
+        "x": "La organización financió el desarrollo por su cuenta. Sánchez subrayó que Nubi es apartidista y no recomienda candidatos ni causas, y dijo que no sustituirá el puerta a puerta ni otras formas tradicionales de organización."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

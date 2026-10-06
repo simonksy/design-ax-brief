@@ -9050,6 +9050,150 @@
           "x": "Hong Kong Comics and Animation Federation의 Alan Wan은 작가들이 자기 만화를 AI-generated 애니메이션으로 바꿀 수 있다고 말한다. “그들은 만화가에 그치지 않고 감독이 될 수도 있다.” 저작권과 저작자 문제는 아직 풀리지 않았다."
         }
       ]
+    },
+    "books/books-frankfurt-lepore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+          "cap": "Jill Lepore (사진: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑이 여전히 꽃피고 있다고 했다. 다만 모두가 주목하는 AI의 등장을 비롯해 업계 앞에 거대한 도전이 놓여 있다고 덧붙였다."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+          "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
+        },
+        {
+          "t": "p",
+          "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분 기조연설에서 소수 테크 거물들 손에 넘어간 미래를 경계했다. “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”도 내놨다. 도서전은 10월 7–11일 이어진다."
+        }
+      ]
+    },
+    "books/books-roose": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 두 가지를 이야기한다. 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles다. Roose는 약 한 해 동안 취재하고 글을 쓰며 150명 넘는 사람을 만났다."
+        },
+        {
+          "t": "p",
+          "x": "Drummond가 이 책을 Pangram으로 검사해 봤다고 하자 Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 곁에서 도왔다."
+        },
+        {
+          "t": "p",
+          "x": "그래도 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 썼고 취재 업무와 메모 정리에도 도움을 받았다. 팩트체크에는 인간 팩트체커와 함께 “AI swarm”을 돌렸다. 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 불러 썼다."
+        },
+        {
+          "t": "p",
+          "x": "Roose가 보기에 독자는 책을 사람이 썼는지 크게 신경 쓴다. 작가가 작업 과정을 보여줘야 독자도 그 안에 담긴 노동과 이어질 수 있다는 게 그의 말이다."
+        }
+      ]
+    },
+    "books/books-ssp-integrity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하는지 물었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+          "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
+        },
+        {
+          "t": "p",
+          "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 우려 상위 세 가지 안에 꼽았다. 페이퍼 밀(44%)과 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+          "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
+        },
+        {
+          "t": "p",
+          "x": "정작 출판 전에 AI-generated 원고를 걸러낼 수 있다고 매우 또는 극도로 확신한 응답은 10%뿐이었다. 49%는 약간 확신하거나 전혀 확신하지 못했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+          "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
+        },
+        {
+          "t": "p",
+          "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓴다. 94%가 무결성 조치를 하나 이상 시행하지만 63%는 생태계가 학술 기록을 지키고 있다고 거의 확신하지 못했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+          "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
+        },
+        {
+          "t": "p",
+          "x": "가장 큰 근본 원인은 Publish-or-perish(출판하지 않으면 도태) 인센티브였다. 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 뒤를 이었다."
+        }
+      ]
+    },
+    "books/books-libreoffice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+          "cap": "Image Credits: LibreOffice"
+        },
+        {
+          "t": "p",
+          "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않는다면서도 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어디에도 네트워크 연결이 필요 없게 하려는 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "LibreOffice를 로컬 AI 모델과 잇는 확장 기능은 지금도 설치할 수 있다. 재단은 지금은 요건을 채우는 통합 기능이 없다며 이번 결정이 “최종적인 거부”가 아니라 현재 기술을 평가한 결과라고 설명했다."
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
+        }
+      ]
     }
   }
 }

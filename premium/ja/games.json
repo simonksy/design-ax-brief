@@ -6011,6 +6011,134 @@
           "x": "Capcomは以前から、AI生成アセット(AI-generated assets)をゲームに使わず、開発の効率化にこの技術を活用すると述べてきた。Ishidaの発言もそれに沿うものだが、より広範な利用への余地を明らかに残している。IGNの翻訳によると、彼はRE Engineを少しずつ段階的に「AI生成ゲームエンジン(AI-generation game engine)」へと変え、「AIと共にゲームを作る未来」を目指す計画を示した。"
         }
       ]
+    },
+    "games/games-dizzy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "画像提供: Code Masters"
+        },
+        {
+          "t": "p",
+          "x": "1987年から1992年までに十六作が発売された、卵が主役のプラットフォーマーシリーズDizzyが帰ってくる。生みの親であるOliver Twinsは、Blackpoolで開かれたPlay Expoでの講演で新作Dizzyを発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Andrewが手がける新作は、主に1989年のTreasure Island Dizzyのリメイクで、ZX Spectrum版とNES版を統合し、新たなMega Drive版と、現代的なビジュアルの完全新作'Ultra'版を加える。PhillipはJourney to the Emerald Cityを制作中だ。どちらのプロジェクトも生成AIに積極的に頼っている。"
+        },
+        {
+          "t": "video",
+          "yt": "lTSaPajJCcE"
+        },
+        {
+          "t": "p",
+          "x": "Time Extensionに問われたPhillip Oliverは、それがなければEmerald Cityとそのアートすべては「アーティスト二人ほどで一年以上かかるプロジェクトになり、おそらく十万ポンドかかっただろう」と語った。Andrewは、genAIが資金力のある大手スタジオの「制作品質に、インディーが対等に渡り合うことを可能にする」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "RPSのAshley Schofieldは納得していない。アーティストの作品をスクレイピングして作られたgenAIツールを使わずにゲームを作ってきた一人や二人のインディー開発者は大勢いる、というのがその主張だ。"
+        }
+      ]
+    },
+    "games/games-usf4-rollback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "画像提供: Rock Paper Shotgun/Capcom"
+        },
+        {
+          "t": "p",
+          "x": "Street Fighter IVは2014年のUltra Street Fighter IVを最終版とした。同作は、2010年代半ばから業界標準となったより安定したロールバック型ネットコードではなく、いまもディレイ型(delay-based)ネットコードにとどまっている。"
+        },
+        {
+          "t": "p",
+          "x": "Delay-basedのネットコードは不安定な接続に対応するため入力を可変的に遅らせる。一方ロールバックは入力を即座に受け付け、接続によってプレイヤー間に食い違いが生じるとゲームの状態を巻き戻す。"
+        },
+        {
+          "t": "p",
+          "x": "ここ数週間で公開された二つのモッド、Faabiの『SF4Enhanced』とKabiefoxの『SF4 Ember』は、ロールバック型ネットコードとプライベートルームを追加した。どちらもAnthropicのClaudeの助けを借りてコーディングされたものだ。Faabiはその後SF4Enhancedの開発を断念し、「このコミュニティにふさわしいものを届ける時間がない」と述べ、「それまでC++をほとんど書いたことがなかった」と認めたうえで、プレイヤーにEmberを勧めている。"
+        },
+        {
+          "t": "p",
+          "x": "両モッドとも多くプレイされているようだが、RPSの筆者はAI-madeのコードを使うくらいならdelay-basedのネットコードを使い続けたいという。"
+        }
+      ]
+    },
+    "games/games-wotc-union": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+          "cap": "2025年版Monster Manualの盗賊(Bandits)(画像提供: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "Dungeons & DragonsとMagic: The Gatheringの開発者が、United Wizards of the Coast - CWAへの参加を発表し、会社に対して労働組合を自主的に承認するよう求めた。"
+        },
+        {
+          "t": "p",
+          "x": "組合は4月、Magic: The Gathering Arenaの開発者のみで結成され、6月の選挙で勝利した。今回はD&D、D&D Beyond、Magic: The Gathering、Duel Mastersに携わる従業員が、Communication Workers of Americaの支援を受けて同じ旗の下に加わる。"
+        },
+        {
+          "t": "p",
+          "x": "組合は「公正な賃金」「信頼でき利用しやすい医療保障」「リモートワークの保護」と並んで、「AIの侵食からの保護」を求めている。「経営陣はチームの意向を顧みず、LLMsと生成AIの導入を推し進めてきた」と組合は述べ、「これは止めなければならない」としている。"
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coastは10月13日までに回答する必要がある。組合はすでにNational Labor Relations Board(全米労働関係委員会)に選挙の申し立てを行っている。"
+        }
+      ]
+    },
+    "games/games-sega-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crazy Taxi: World Tour(画像提供: Sega)"
+        },
+        {
+          "t": "p",
+          "x": "Segaの上席執行役員で副最高事業責任者のTsuyoshi Saitoは、Nikkeiの取材に対し、同社は開発における生成AIの導入方法について「非常に慎重」だと語った。"
+        },
+        {
+          "t": "p",
+          "x": "「パブリッシングやコーポレート部門などの効率化や、事業アイデアの創出にAIを活用している」とSaitoは述べた。「ただし、ゲーム開発の過程での利用には非常に慎重であり、ゲームの創作的な部分をAIに任せることはしていない」"
+        },
+        {
+          "t": "p",
+          "x": "Segaは昨年、「社内AIツールの開発」を担う「AI Task Force」を含む「Generative AI Committee」(生成AI委員会)を設置した。今年初めには、Crazy Taxi: World Tourの「背景アセットの開発中」に生成AIが使われたことで論争を招いた。"
+        },
+        {
+          "t": "p",
+          "x": "Crystal Dynamicsも、Tomb Raider: Legacy of Atlantisの初期プロトタイピングで同様に生成AIを使ったとしつつ、「最終的なゲームの完成コンテンツはすべて人間が作ったものにしている」と説明している。"
+        }
+      ]
+    },
+    "games/unity-agent-concept-art-to-ui-menu": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IYvRShclEL8"
+        },
+        {
+          "t": "p",
+          "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
+        },
+        {
+          "t": "p",
+          "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
+        }
+      ]
     }
   }
 }

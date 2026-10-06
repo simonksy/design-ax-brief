@@ -1,23 +1,32 @@
 {
-  "media": [
-    {
-      "id": "ambassadors-mosa-ai-platform-opens",
-      "type": "image",
-      "src": "pipeline/media/ambassadors-mosa-ai-platform-opens.jpg"
-    },
-    {
-      "id": "pvc-ai-coded-editor-utilities-roundup",
-      "type": "image",
-      "src": "pipeline/media/pvc-ai-coded-editor-utilities-roundup.jpg"
-    },
-    {
-      "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
-      "type": "svg"
-    },
-    {
-      "id": "motionographer-ai-animation-ip-production",
-      "type": "image",
-      "src": "pipeline/media/motionographer-ai-animation-ip-production.jpg"
-    }
-  ]
+ "date": "2026-10-07",
+ "section": "movies",
+ "media": [
+  {
+   "id": "movies-loftapps-mad-god",
+   "type": "image",
+   "src": "pipeline/media/movies-loftapps-mad-god.jpg"
+  },
+  {
+   "id": "movies-gods-dont-give-gifts-trailer",
+   "type": "video",
+   "src": "pipeline/media/movies-gods-dont-give-gifts-trailer.mp4",
+   "poster": "pipeline/media/movies-gods-dont-give-gifts-trailer.jpg"
+  },
+  {
+   "id": "movies-sag-aftra-animation-deal",
+   "type": "image",
+   "src": "pipeline/media/movies-sag-aftra-animation-deal.jpg"
+  },
+  {
+   "id": "movies-vfx-voice-future-tools",
+   "type": "image",
+   "src": "pipeline/media/movies-vfx-voice-future-tools.jpg"
+  },
+  {
+   "id": "movies-katzenberg-forecast-check",
+   "type": "image",
+   "src": "pipeline/media/movies-katzenberg-forecast-check.jpg"
+  }
+ ]
 }

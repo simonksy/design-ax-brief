@@ -1,7 +1,32 @@
-{"media":[
-{"id":"unity-agent-concept-art-to-ui-menu","type":"video","src":"pipeline/media/unity-agent-concept-art-to-ui-menu.mp4","poster":"pipeline/media/unity-agent-concept-art-to-ui-menu.jpg"},
-{"id":"jagex-pulls-runescape-genai-trailer","type":"image","src":"pipeline/media/jagex-pulls-runescape-genai-trailer.jpg"},
-{"id":"fortnite-replaces-gemini-watermark-art","type":"image","src":"pipeline/media/fortnite-replaces-gemini-watermark-art.jpg"},
-{"id":"kojima-on-ai-after-dlss5-death-stranding2","type":"image","src":"pipeline/media/kojima-on-ai-after-dlss5-death-stranding2.jpg"},
-{"id":"rider-agentic-unreal-dev-unreal-fest","type":"video","src":"pipeline/media/rider-agentic-unreal-dev-unreal-fest.mp4","poster":"pipeline/media/rider-agentic-unreal-dev-unreal-fest.jpg"}
-]}
+{
+ "date": "2026-10-07",
+ "section": "games",
+ "media": [
+  {
+   "id": "games-ps-ai-boss",
+   "type": "image",
+   "src": "pipeline/media/games-ps-ai-boss.jpg"
+  },
+  {
+   "id": "games-dizzy-ai",
+   "type": "video",
+   "src": "pipeline/media/games-dizzy-ai.mp4",
+   "poster": "pipeline/media/games-dizzy-ai.jpg"
+  },
+  {
+   "id": "games-usf4-rollback",
+   "type": "image",
+   "src": "pipeline/media/games-usf4-rollback.jpg"
+  },
+  {
+   "id": "games-wotc-union",
+   "type": "image",
+   "src": "pipeline/media/games-wotc-union.jpg"
+  },
+  {
+   "id": "games-sega-ai",
+   "type": "image",
+   "src": "pipeline/media/games-sega-ai.jpg"
+  }
+ ]
+}
