@@ -5,7 +5,8 @@ import { issueMagicToken, consumeMagicToken, rateLimited,
          approvePending, claimPending } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
-import { getPrefs, setPrefs } from "./lib/mail_prefs.js";
+import { getPrefs, setPrefs, unsubscribeAll } from "./lib/mail_prefs.js";
+import { signUnsub, verifyUnsub } from "./lib/unsub.js";
 import { sendMagicLink } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
@@ -347,6 +348,18 @@ export default {
       return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription,
                     status: ent.status, periodEnd: ent.periodEnd,
                     startedAt: ent.startedAt, provider: ent.provider });
+    }
+
+    // 수신 거부 — 로그인을 요구하지 않는다. 메일을 받은 사람이 로그인 화면을
+    // 만나면 스팸 신고 버튼을 누른다. 끊는 대상은 오직 토큰 안의 주소이고,
+    // 쿼리에 실린 다른 주소는 읽지도 않는다.
+    if (p === "/api/mail/unsubscribe") {
+      const who = await verifyUnsub(url.searchParams.get("t"), env.SESSION_SIGNING_KEY);
+      if (!who) return htmlPage("링크가 올바르지 않습니다. 메일 하단의 링크를 다시 눌러 주세요.", 400);
+      await unsubscribeAll(env.DB, who);
+      // 두 번 눌러도 같은 화면이다 — 이미 끊긴 사람에게 오류를 보여 줄 이유가 없다.
+      return htmlPage(`<p style="font-size:17px;font-weight:700;margin:0 0 8px">수신을 해지했습니다</p>
+        <p style="margin:0;color:#5a5450">${who} 주소로 더 이상 주간 리포트를 보내지 않습니다.</p>`);
     }
 
     // 수신 설정 — 로그인한 본인 것만 읽고 쓴다. 남의 설정을 건드릴 길은 없다.
