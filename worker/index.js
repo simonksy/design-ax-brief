@@ -5,7 +5,11 @@ import { issueMagicToken, consumeMagicToken, rateLimited,
          approvePending, claimPending } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
-import { sendMagicLink } from "./lib/email.js";
+import { getPrefs, setPrefs, unsubscribeAll } from "./lib/mail_prefs.js";
+import { signUnsub, verifyUnsub } from "./lib/unsub.js";
+import { renderReport } from "./lib/report_mail.js";
+import { sendWeekly, isoWeekLabel } from "./lib/weekly_send.js";
+import { sendMagicLink, sendReport } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
 
@@ -126,6 +130,26 @@ function confirmPage(code, token, pid) {
 }
 
 export default {
+  /* 매주 월요일 07:00 KST = 일요일 22:00 UTC (wrangler.jsonc의 "0 22 * * 0").
+     리포트 본문은 파이프라인이 미리 reports/<edition>/<lang>.json으로 만들어 둔다 —
+     여기서는 읽어서 조립·발송만 한다. 블록이 없으면 보내지 않는다. 빈 리포트를
+     보내는 것보다 그 주를 거르는 쪽이 낫다. */
+  async scheduled(event, env, ctx) {
+    const edition = isoWeekLabel(new Date(Date.now() + 9 * 3600 * 1000));   // KST 기준
+    const byLang = {};
+    for (const l of LANGS) {
+      const r = await env.ASSETS.fetch(new Request(new URL(`/reports/${edition}/${l}.json`, env.BASE_URL)));
+      if (r.ok) { try { byLang[l] = await r.json(); } catch (e) {} }
+    }
+    if (!Object.keys(byLang).length) {
+      console.error("weekly: no report blocks for", edition);
+      return;
+    }
+    ctx.waitUntil(sendWeekly(env, edition, byLang).then(
+      (r) => console.log("weekly", edition, JSON.stringify(r)),
+      (e) => console.error("weekly failed", edition, String((e && e.message) || e))));
+  },
+
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const p = url.pathname;
@@ -346,6 +370,61 @@ export default {
       return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription,
                     status: ent.status, periodEnd: ent.periodEnd,
                     startedAt: ent.startedAt, provider: ent.provider });
+    }
+
+    // 배관 점검용. 로그인한 본인에게만 더미 리포트를 한 통 보낸다 — 임의의
+    // 주소로 보낼 수 있으면 이 엔드포인트가 메일 중계기가 된다.
+    if (p === "/api/mail/test" && request.method === "POST") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      const ent = await getEntitlement(env.DB, email);
+      const prefs = await getPrefs(env.DB, email);
+      const token = await signUnsub(email, env.SESSION_SIGNING_KEY);
+      const { subject, html } = renderReport({
+        edition: "TEST", lang: prefs.lang,
+        blocks: {
+          change: "배관 점검용 더미 문단입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
+          sections: { design: "디자인 더미 신호" },
+          dots: "교차 인사이트 더미 문단입니다.",
+          next: ["더미 항목"],
+        },
+        entitled: ent.entitled, sections: ["design"],
+        unsubUrl: `${env.BASE_URL}/api/mail/unsubscribe?t=${token}`,
+      });
+      try { await sendReport(env, email, subject, html); }
+      catch (e) { return json({ ok: false, reason: String((e && e.message) || e) }, 502); }
+      return json({ ok: true, to: email, entitled: ent.entitled });
+    }
+
+    // 수신 거부 — 로그인을 요구하지 않는다. 메일을 받은 사람이 로그인 화면을
+    // 만나면 스팸 신고 버튼을 누른다. 끊는 대상은 오직 토큰 안의 주소이고,
+    // 쿼리에 실린 다른 주소는 읽지도 않는다.
+    if (p === "/api/mail/unsubscribe") {
+      const who = await verifyUnsub(url.searchParams.get("t"), env.SESSION_SIGNING_KEY);
+      if (!who) return htmlPage("링크가 올바르지 않습니다. 메일 하단의 링크를 다시 눌러 주세요.", 400);
+      await unsubscribeAll(env.DB, who);
+      // 두 번 눌러도 같은 화면이다 — 이미 끊긴 사람에게 오류를 보여 줄 이유가 없다.
+      return htmlPage(`<p style="font-size:17px;font-weight:700;margin:0 0 8px">수신을 해지했습니다</p>
+        <p style="margin:0;color:#5a5450">${who} 주소로 더 이상 주간 리포트를 보내지 않습니다.</p>`);
+    }
+
+    // 수신 설정 — 로그인한 본인 것만 읽고 쓴다. 남의 설정을 건드릴 길은 없다.
+    if (p === "/api/mail/prefs") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      if (request.method === "GET") return json(await getPrefs(env.DB, email));
+      if (request.method === "POST") {
+        let body = {};
+        try { body = await request.json(); } catch {}
+        // 받은 것 중 아는 필드만 추린다 — unsub_all은 여기서 못 바꾼다(수신 거부
+        // 링크 전용). 설정 화면의 실수로 전체 수신 거부가 켜지면 안 된다.
+        const patch = {};
+        if (typeof body.lang === "string" && LANGS.includes(body.lang)) patch.lang = body.lang;
+        if (typeof body.sections === "string") patch.sections = body.sections;
+        if (body.weekly != null) patch.weekly = body.weekly ? 1 : 0;
+        return json(await setPrefs(env.DB, email, patch));
+      }
+      return json({ reason: "method_not_allowed" }, 405);
     }
 
     if (p === "/api/premium/full") {

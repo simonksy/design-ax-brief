@@ -543,7 +543,7 @@ async function pollEntitlement(tries = 5, gapMs = 2000) {
    pro: 'soon'은 아직 만들지 않은 혜택 — 체크 대신 "준비 중" 배지가 뜬다.
    없는 기능에 체크를 주면 돈을 받고 약속을 어기는 셈이라, 배지로만 예고한다. */
 const PRO_ROWS = [
-  { key: 'cards',   free: '8',    pro: '40', note: true },
+  { key: 'cards',   free: '9',    pro: '45', note: true },
   { key: 'deep',    free: false,  pro: true },
   { key: 'archive', free: false,  pro: true },
   { key: 'graph',   free: false,  pro: true },
@@ -599,6 +599,98 @@ function SiteFooter({ t }) {
         {tx('footer.operator')}
       </p>
     </footer>
+  );
+}
+
+/* 주간 리포트 수신 설정. 로그인만 하고 구독하지 않은 사람도 들어올 수 있어야
+   한다 — 무료도 ①번 문단을 받기 때문이다. 섹션 목록은 화면에 실제로 떠 있는
+   섹션에서 가져온다(숫자를 박아 두면 섹션이 늘 때마다 여기도 고쳐야 한다). */
+function MailPrefsLink({ t, onOpen }) {
+  return (
+    <p style={{ margin: '12px 0 0', textAlign: 'center' }}>
+      <button type="button" onClick={onOpen} style={{ background: 'none', border: 'none',
+        font: 'inherit', fontSize: 13, fontWeight: 600, color: '#7928ca', cursor: 'pointer',
+        textDecoration: 'underline', padding: 0 }}>
+        {tx('mail.open')}
+      </button>
+    </p>
+  );
+}
+
+function MailPrefs({ t, onBack }) {
+  const [prefs, setPrefs] = useState(null);
+  const [saving, setSaving] = useState(false);
+  const [saved, setSaved] = useState(false);
+  const all = (window.AX_SECTION_ORDER || []).filter((k) => (window.AX_SECTIONS || {})[k]);
+
+  useEffect(() => {
+    fetch('/api/mail/prefs', { credentials: 'same-origin' })
+      .then((r) => (r.ok ? r.json() : null))
+      .then((d) => setPrefs(d || { lang: window.AX_LANG || 'ko', sections: '*', weekly: 1 }))
+      .catch(() => setPrefs({ lang: window.AX_LANG || 'ko', sections: '*', weekly: 1 }));
+  }, []);
+
+  if (!prefs) return <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('common.loading')}</p>;
+
+  const chosen = prefs.sections === '*' ? all : String(prefs.sections || '').split(',').filter(Boolean);
+  const toggle = (k) => {
+    const next = chosen.includes(k) ? chosen.filter((x) => x !== k) : [...chosen, k];
+    // 전부 고르면 '*'로 저장한다 — 섹션이 늘었을 때 자동으로 따라오게.
+    setPrefs({ ...prefs, sections: next.length === all.length ? '*' : next.join(',') });
+    setSaved(false);
+  };
+  const save = async () => {
+    setSaving(true);
+    try {
+      const r = await fetch('/api/mail/prefs', { method: 'POST', credentials: 'same-origin',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ lang: prefs.lang, sections: prefs.sections, weekly: prefs.weekly }) });
+      if (r.ok) { setSaved(true); }
+    } catch (e) {}
+    setSaving(false);
+  };
+
+  const row = { display: 'flex', alignItems: 'center', gap: 10, padding: '11px 0',
+    borderTop: '1px solid ' + t.rule, fontSize: 14 };
+  return (
+    <React.Fragment>
+      <label style={{ ...row, borderTop: 'none', cursor: 'pointer' }}>
+        <input type="checkbox" checked={!!prefs.weekly}
+          onChange={(e) => { setPrefs({ ...prefs, weekly: e.target.checked ? 1 : 0 }); setSaved(false); }} />
+        <span style={{ fontWeight: 600, color: t.hl }}>{tx('mail.weekly_on')}</span>
+      </label>
+
+      <div style={{ ...row, alignItems: 'flex-start', flexWrap: 'wrap' }}>
+        <span style={{ flex: '0 0 100%', color: t.mute, fontWeight: 600, marginBottom: 4 }}>{tx('mail.sections')}</span>
+        {all.map((k) => (
+          <label key={k} style={{ display: 'inline-flex', alignItems: 'center', gap: 6,
+            marginRight: 12, cursor: 'pointer' }}>
+            <input type="checkbox" checked={chosen.includes(k)} onChange={() => toggle(k)} />
+            <span>{(window.AX_SECTIONS[k] || {}).label || k}</span>
+          </label>
+        ))}
+      </div>
+
+      <div style={row}>
+        <span style={{ color: t.mute, fontWeight: 600 }}>{tx('mail.lang')}</span>
+        <select value={prefs.lang} onChange={(e) => { setPrefs({ ...prefs, lang: e.target.value }); setSaved(false); }}
+          style={{ font: 'inherit', padding: '6px 10px', borderRadius: 8, border: '1px solid ' + t.rule }}>
+          {(window.AX_LANG_NAMES || [['ko', '한국어']]).map(([v, n]) => <option key={v} value={v}>{n}</option>)}
+        </select>
+      </div>
+
+      <p style={{ margin: '14px 0 12px', fontSize: 12.5, color: t.mute }}>{tx('mail.unsub_hint')}</p>
+      <AxPill label={saved ? tx('mail.saved') : tx('mail.save')} t={t} onClick={save}
+        style={saving ? { opacity: .6, pointerEvents: 'none' } : undefined} />
+      {onBack && (
+        <p style={{ margin: '12px 0 0', textAlign: 'center' }}>
+          <button type="button" onClick={onBack} style={{ background: 'none', border: 'none',
+            font: 'inherit', fontSize: 13, color: t.mute, cursor: 'pointer', textDecoration: 'underline' }}>
+            {tx('common.close')}
+          </button>
+        </p>
+      )}
+    </React.Fragment>
   );
 }
 
@@ -730,7 +822,7 @@ function firstChargeLabel(plan) {
    with the blurred locked card still visible behind the translucent backdrop. */
 /* 구독 모달 — 플랜 2종. 결제창은 Paddle 오버레이로 사이트 위에 뜬다. */
 function SubscribeModal({ onClose, t, initialPhase }) {
-  const [phase, setPhase] = useState(initialPhase || 'choose');   // choose | confirming | slow | error | login | sent
+  const [phase, setPhase] = useState(initialPhase || 'choose');   // choose | confirming | slow | error | login | sent | mail
   // 로그인 화면에 어떻게 왔는지 — 'signin'은 헤더의 Login 버튼(이미 구독한 사람),
   // 'subscribe'는 결제를 누르려다 로그인이 필요해서. 같은 화면이지만 할 말이 다르다.
   const [loginFor, setLoginFor] = useState(initialPhase === 'login' ? 'signin' : 'subscribe');
@@ -871,24 +963,29 @@ function SubscribeModal({ onClose, t, initialPhase }) {
         padding: 26, width: 580, maxWidth: '94vw', margin: 'auto',
         fontFamily: 'Pretendard, system-ui' }}>
         <p style={{ margin: '0 0 8px', fontSize: 15, fontWeight: 600 }}>
-          {phase === 'login' && loginFor === 'signin' ? tx('auth.login_title')
+          {phase === 'mail' ? tx('mail.title')
+            : phase === 'login' && loginFor === 'signin' ? tx('auth.login_title')
             : phase === 'choose' && me && me.entitled ? tx('status.title')
             : tx('paywall.modal_title')}
         </p>
         <p style={{ margin: '0 0 16px', fontSize: 14, lineHeight: 1.6, color: '#5a5450' }}>
-          {phase === 'login' ? tx(loginFor === 'signin' ? 'auth.login_body' : 'paywall.login_first')
+          {phase === 'mail' ? tx('mail.body')
+            : phase === 'login' ? tx(loginFor === 'signin' ? 'auth.login_body' : 'paywall.login_first')
             : phase === 'choose' && me && me.entitled ? tx('status.body')
             : tx('paywall.modal_body')}
         </p>
+        {phase === 'mail' && <MailPrefs t={t} onBack={() => setPhase('choose')} />}
         {phase === 'choose' && (
           me && me.entitled ? (
             <React.Fragment>
               <ProStatus me={me} t={t} />
               {me.hasSubscription && <ManageLink t={t} />}
+              <MailPrefsLink t={t} onOpen={() => setPhase('mail')} />
             </React.Fragment>
           ) : (
             <React.Fragment>
               <ProCompareTable t={t} />
+              {me && me.loggedIn && <MailPrefsLink t={t} onOpen={() => setPhase('mail')} />}
               {me && me.hasSubscription ? (
                 <div style={{ marginTop: 2 }}><ManageLink t={t} /></div>
               ) : (
