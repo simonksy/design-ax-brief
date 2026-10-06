@@ -8,7 +8,7 @@ import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { getPrefs, setPrefs, unsubscribeAll } from "./lib/mail_prefs.js";
 import { signUnsub, verifyUnsub } from "./lib/unsub.js";
 import { renderReport } from "./lib/report_mail.js";
-import { sendWeekly, isoWeekLabel } from "./lib/weekly_send.js";
+import { sendWeekly, editionForCron } from "./lib/weekly_send.js";
 import { sendMagicLink, sendReport } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
@@ -135,7 +135,7 @@ export default {
      여기서는 읽어서 조립·발송만 한다. 블록이 없으면 보내지 않는다. 빈 리포트를
      보내는 것보다 그 주를 거르는 쪽이 낫다. */
   async scheduled(event, env, ctx) {
-    const edition = isoWeekLabel(new Date(Date.now() + 9 * 3600 * 1000));   // KST 기준
+    const edition = editionForCron();   // 막 끝난 주
     const byLang = {};
     for (const l of LANGS) {
       const r = await env.ASSETS.fetch(new Request(new URL(`/reports/${edition}/${l}.json`, env.BASE_URL)));
@@ -145,9 +145,14 @@ export default {
       console.error("weekly: no report blocks for", edition);
       return;
     }
-    ctx.waitUntil(sendWeekly(env, edition, byLang).then(
-      (r) => console.log("weekly", edition, JSON.stringify(r)),
-      (e) => console.error("weekly failed", edition, String((e && e.message) || e))));
+    // waitUntil로 던져 두면 핸들러가 즉시 성공으로 끝나, 한 통도 못 보낸 주에도
+    // cron 화면이 초록으로 보인다. 끝까지 기다리고 결과를 남긴다.
+    try {
+      const r = await sendWeekly(env, edition, byLang);
+      console.log("weekly", edition, JSON.stringify(r));
+    } catch (e) {
+      console.error("weekly failed", edition, String((e && e.message) || e));
+    }
   },
 
   async fetch(request, env, ctx) {
@@ -174,6 +179,10 @@ export default {
     if (lp && PAGE_ASSET[lp.rest]) return serveHtml(env, lp.rest, lp.lang, i18nOn, previewOn, true, sandboxParam);
 
     if (p.startsWith("/premium/")) return new Response("Forbidden", { status: 403 });
+    // 주간 리포트 본문도 Pro 콘텐츠다. 자산으로 그대로 서빙되면 URL이 뻔해서
+    // (주차 + 언어) 누구나 ②③④를 받아 갈 수 있고, 메일의 무료/Pro 분기가
+    // 장식이 된다. 워커는 env.ASSETS로 직접 읽으므로 이 차단에 걸리지 않는다.
+    if (p.startsWith("/reports/")) return new Response("Forbidden", { status: 403 });
 
     if (p === "/api/auth/request" && request.method === "POST") {
       let email = "";
@@ -377,6 +386,10 @@ export default {
     if (p === "/api/mail/test" && request.method === "POST") {
       const email = await currentEmail(request, env);
       if (!email) return json({ reason: "login_required" }, 401);
+      // 메일을 보내는 다른 경로는 전부 제한이 걸려 있다. 여기만 비워 두면
+      // 로그인한 계정 하나가 월 발송 쿼터를 통째로 태울 수 있다.
+      if (await rateLimited(env.AUTH_TOKENS, "mailtest", email, 3))
+        return json({ ok: false, reason: "rate_limited" }, 429);
       const ent = await getEntitlement(env.DB, email);
       const prefs = await getPrefs(env.DB, email);
       const token = await signUnsub(email, env.SESSION_SIGNING_KEY);
@@ -400,12 +413,27 @@ export default {
     // 만나면 스팸 신고 버튼을 누른다. 끊는 대상은 오직 토큰 안의 주소이고,
     // 쿼리에 실린 다른 주소는 읽지도 않는다.
     if (p === "/api/mail/unsubscribe") {
-      const who = await verifyUnsub(url.searchParams.get("t"), env.SESSION_SIGNING_KEY);
+      const token = url.searchParams.get("t") || "";
+      const who = await verifyUnsub(token, env.SESSION_SIGNING_KEY);
       if (!who) return htmlPage("링크가 올바르지 않습니다. 메일 하단의 링크를 다시 눌러 주세요.", 400);
+      // GET으로는 끊지 않는다. 기업 메일 게이트웨이와 링크 검사기가 메일 안의
+      // 모든 링크를 미리 열어 보므로, GET에서 바로 끊으면 돈을 내는 구독자가
+      // 영문도 모른 채 수신이 끊긴다. 사람이 누른 것만 POST로 들어온다.
+      if (request.method !== "POST") {
+        const esc = (v) => String(v).replace(/[&<>"]/g, (c) =>
+          ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+        return htmlPage(`<p style="font-size:17px;font-weight:700;margin:0 0 8px">수신을 해지할까요?</p>
+          <p style="margin:0 0 18px;color:#5a5450">${esc(who)} 주소로 보내는 주간 리포트를 멈춥니다.</p>
+          <form method="POST" action="/api/mail/unsubscribe?t=${esc(token)}">
+            <button type="submit" style="width:100%;height:46px;border:none;border-radius:12px;
+              background:#1c1a18;color:#fff;font:700 15px Pretendard,system-ui,sans-serif;cursor:pointer">
+              수신 해지</button>
+          </form>`);
+      }
       await unsubscribeAll(env.DB, who);
       // 두 번 눌러도 같은 화면이다 — 이미 끊긴 사람에게 오류를 보여 줄 이유가 없다.
       return htmlPage(`<p style="font-size:17px;font-weight:700;margin:0 0 8px">수신을 해지했습니다</p>
-        <p style="margin:0;color:#5a5450">${who} 주소로 더 이상 주간 리포트를 보내지 않습니다.</p>`);
+        <p style="margin:0;color:#5a5450">더 이상 주간 리포트를 보내지 않습니다.</p>`);
     }
 
     // 수신 설정 — 로그인한 본인 것만 읽고 쓴다. 남의 설정을 건드릴 길은 없다.

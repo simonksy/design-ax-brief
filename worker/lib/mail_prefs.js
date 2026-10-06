@@ -28,9 +28,21 @@ export async function setPrefs(db, email, patch) {
   return { ...next, weekly: next.weekly ? 1 : 0, unsub_all: next.unsub_all ? 1 : 0 };
 }
 
+/* 수신자는 "설정을 저장한 사람"이 아니라 "우리가 아는 사람" 전부다. mail_prefs
+   행만 세면 설정 화면을 한 번도 열지 않은 구독자가 통째로 빠져, 첫 발송이
+   아무에게도 가지 않는다. subscribers와 mail_prefs를 합치고, 설정이 있으면
+   그걸 덮어쓴다. 명시적으로 끊은 사람만 제외한다. */
 export async function listWeeklyRecipients(db) {
   const { results } = await db.prepare(
-    "SELECT email, lang, sections FROM mail_prefs WHERE weekly = 1 AND unsub_all = 0"
+    `SELECT a.email AS email,
+            COALESCE(p.lang, 'ko')     AS lang,
+            COALESCE(p.sections, '*')  AS sections
+       FROM (SELECT email FROM subscribers
+             UNION
+             SELECT email FROM mail_prefs) AS a
+       LEFT JOIN mail_prefs p ON p.email = a.email
+      WHERE COALESCE(p.weekly, 1) = 1
+        AND COALESCE(p.unsub_all, 0) = 0`
   ).all();
   return results || [];
 }
