@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-06",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "openai-brand-suitability",
+      "type": "image",
+      "src": "pipeline/media/openai-brand-suitability.png"
+    },
+    {
+      "id": "tiktok-agentic-ads",
+      "type": "image",
+      "src": "pipeline/media/tiktok-agentic-ads.jpg"
+    },
+    {
+      "id": "openai-eu-watermark",
+      "type": "image",
+      "src": "pipeline/media/openai-eu-watermark.jpg"
+    },
+    {
+      "id": "google-ai-spam",
+      "type": "image",
+      "src": "pipeline/media/google-ai-spam.jpg"
+    },
+    {
+      "id": "ai-dynamic-pricing",
+      "type": "image",
+      "src": "pipeline/media/ai-dynamic-pricing.jpg"
+    }
+  ]
+}
