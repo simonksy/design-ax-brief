@@ -737,6 +737,26 @@ function SubscribeModal({ onClose, t, initialPhase }) {
   const [note, setNote] = useState('');
   const [email, setEmail] = useState('');
   const [sendingLink, setSendingLink] = useState(false);
+  // 기기 간 로그인 — 메일 링크를 폰에서 열어도 이 창이 로그인되게, 승인됐는지 묻는다.
+  // 서버가 승인을 확인하면 세션 쿠키를 함께 내려주므로 새로고침이면 충분하다.
+  const [pending, setPending] = useState(null);
+  useEffect(() => {
+    if (!pending || !pending.pid) return;
+    let alive = true;
+    const started = Date.now();
+    const tick = async () => {
+      if (!alive || Date.now() - started > 15 * 60 * 1000) return;   // 토큰과 같은 15분
+      try {
+        const r = await fetch('/api/auth/pending?pid=' + encodeURIComponent(pending.pid),
+          { credentials: 'same-origin' });
+        const d = await r.json().catch(() => ({}));
+        if (d && d.approved) { window.location.reload(); return; }
+      } catch (e) {}
+      if (alive) timer = setTimeout(tick, 3000);
+    };
+    let timer = setTimeout(tick, 3000);
+    return () => { alive = false; clearTimeout(timer); };
+  }, [pending]);
   // 이미 구독 중인 사람에겐 요금제 대신 "이미 구독 중" 안내 + 관리 버튼을 보여준다.
   // 읽기 전에는 요금제를 보여준다(기본값) — 정적 프리뷰(워커 없음)에서 /api/me가
   // 404/네트워크 오류여도 조용히 묻힌다.
@@ -900,6 +920,8 @@ function SubscribeModal({ onClose, t, initialPhase }) {
                     headers: { 'content-type': 'application/json' },
                     body: JSON.stringify({ email }) });
                   if (!r.ok) { setPhase('error'); setNote(tx('paywall.send_link_failed')); return; }
+                  const d = await r.json().catch(() => ({}));
+                  if (d && d.pid) setPending({ pid: d.pid, code: d.code });
                   setPhase('sent');
                 } catch {
                   setPhase('error'); setNote(tx('paywall.send_link_failed'));
@@ -910,7 +932,23 @@ function SubscribeModal({ onClose, t, initialPhase }) {
           </React.Fragment>
         )}
         {phase === 'sent' && (
-          <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.link_sent')}</p>
+          <React.Fragment>
+            <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.link_sent')}</p>
+            {pending && pending.code && (
+              <React.Fragment>
+                {/* 다른 기기에서 열면 메일에 적힌 숫자와 이 숫자를 맞춰 보게 된다.
+                    같은 기기에서 열면 묻지 않고 지나가므로 참고용으로만 둔다. */}
+                <p style={{ margin: '14px 0 6px', fontSize: 13, color: '#8a8377' }}>
+                  {tx('auth.code_hint')}
+                </p>
+                <p style={{ margin: 0, font: '700 30px/1 ui-monospace,Menlo,monospace',
+                  letterSpacing: '.2em', color: '#1c1a18' }}>{pending.code}</p>
+                <p style={{ margin: '14px 0 0', fontSize: 13, color: '#8a8377' }}>
+                  {tx('auth.waiting')}
+                </p>
+              </React.Fragment>
+            )}
+          </React.Fragment>
         )}
         {phase === 'confirming' && (
           <p style={{ margin: 0, fontSize: 14, color: '#5a5450' }}>{tx('paywall.confirming')}</p>

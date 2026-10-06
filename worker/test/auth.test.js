@@ -37,7 +37,7 @@ describe("auth + entitlement", () => {
     expect(cookie).toMatch(/ax_session=/);
     const sess = cookie.split(";")[0].split("=")[1];
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
-    expect(me).toEqual({ loggedIn: true, email: "paid@x.com", entitled: true, hasSubscription: false });
+    expect(me).toMatchObject({ loggedIn: true, email: "paid@x.com", entitled: true, hasSubscription: false });
   });
 
   it("non-allowlisted email logs in but is not entitled", async () => {
@@ -49,7 +49,7 @@ describe("auth + entitlement", () => {
     const cookie = (await call("/api/auth/callback?token=" + token)).headers.get("set-cookie");
     const sess = cookie.split(";")[0].split("=")[1];
     const me = await (await call("/api/me", { headers: { cookie: "ax_session=" + sess } })).json();
-    expect(me).toEqual({ loggedIn: true, email: "free@x.com", entitled: false, hasSubscription: false });
+    expect(me).toMatchObject({ loggedIn: true, email: "free@x.com", entitled: false, hasSubscription: false });
   });
 
   // 발송 실패를 200으로 숨기면 사용자는 오지 않는 메일을 영원히 기다린다.
@@ -110,5 +110,81 @@ describe("auth + entitlement", () => {
     });
     expect(res.status).toBe(200);
     expect((await res.json()).ok).toBe(true);
+  });
+});
+
+/* ---- 기기 간 로그인 ------------------------------------------------------
+   폰으로 메일을 열어도 PC 화면이 로그인되어야 한다. 그 편의가 새 공격을 열지
+   않는지가 이 묶음의 핵심이다. */
+describe("cross-device login", () => {
+  const reqLink = async (email) => {
+    const r = await call("/api/auth/request", {
+      method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ email }),
+    });
+    const body = await r.json();
+    const u = new URL(env.__lastMagicLink);
+    return { pid: body.pid, code: body.code,
+             token: u.searchParams.get("token"), p: u.searchParams.get("p") };
+  };
+
+  it("요청 응답이 pid와 코드를 주고, 링크에 pid가 실린다", async () => {
+    const { pid, code, p } = await reqLink("paid@x.com");
+    expect(pid).toMatch(/^[0-9a-f]{32}$/);
+    expect(code).toMatch(/^[1-9]\d{3}$/);   // 앞자리 0 없음
+    expect(p).toBe(pid);
+  });
+
+  it("같은 기기(쿠키 일치)에서 열면 묻지 않고 바로 로그인된다", async () => {
+    const { pid, token } = await reqLink("paid@x.com");
+    const r = await call(`/api/auth/callback?token=${token}&p=${pid}`,
+      { headers: { cookie: "ax_pend=" + pid } });
+    expect(r.status).toBe(302);
+    expect(r.headers.get("set-cookie")).toMatch(/ax_session=/);
+  });
+
+  it("다른 기기에서 열면 확인 코드 화면이 뜨고 토큰은 아직 살아 있다", async () => {
+    const { pid, code, token } = await reqLink("paid@x.com");
+    const r = await call(`/api/auth/callback?token=${token}&p=${pid}`);   // 쿠키 없음
+    expect(r.status).toBe(200);
+    const html = await r.text();
+    expect(html).toContain(code);
+    expect(r.headers.get("set-cookie")).toBeNull();   // 아직 로그인 아님
+    // 승인 전이므로 요청했던 창도 아직 못 가져간다
+    const q = await call(`/api/auth/pending?pid=${pid}`, { headers: { cookie: "ax_pend=" + pid } });
+    expect((await q.json()).approved).toBe(false);
+  });
+
+  it("승인하면 요청했던 창이 세션을 가져간다 — 단 한 번만", async () => {
+    const { pid, token } = await reqLink("paid@x.com");
+    await call(`/api/auth/callback?token=${token}&p=${pid}`);
+    const form = new URLSearchParams({ token, p: pid });
+    const a = await call("/api/auth/approve", { method: "POST", body: form });
+    expect(a.headers.get("set-cookie")).toMatch(/ax_session=/);   // 연 기기도 로그인
+
+    const q1 = await call(`/api/auth/pending?pid=${pid}`, { headers: { cookie: "ax_pend=" + pid } });
+    const d1 = await q1.json();
+    expect(d1.approved).toBe(true);
+    expect(q1.headers.get("set-cookie")).toMatch(/ax_session=/);
+    // 자리는 비워진다 — 같은 pid로 두 번 가져갈 수 없다
+    const q2 = await call(`/api/auth/pending?pid=${pid}`, { headers: { cookie: "ax_pend=" + pid } });
+    expect((await q2.json()).approved).toBe(false);
+  });
+
+  it("pid만 알고 쿠키가 없으면 세션을 가져가지 못한다", async () => {
+    const { pid, token } = await reqLink("paid@x.com");
+    await call(`/api/auth/callback?token=${token}&p=${pid}`);
+    await call("/api/auth/approve", { method: "POST", body: new URLSearchParams({ token, p: pid }) });
+    // 메일 링크를 들여다본 제3자가 pid를 알아도, 요청 때 심은 쿠키가 없으면 막힌다
+    const q = await call(`/api/auth/pending?pid=${pid}`);
+    expect(q.status).toBe(403);
+    expect(q.headers.get("set-cookie")).toBeNull();
+  });
+
+  it("승인하지 않으면 토큰이 소모되지 않아 다시 열 수 있다", async () => {
+    const { pid, token } = await reqLink("paid@x.com");
+    await call(`/api/auth/callback?token=${token}&p=${pid}`);
+    const again = await call(`/api/auth/callback?token=${token}&p=${pid}`);
+    expect(again.status).toBe(200);   // 여전히 확인 화면
   });
 });

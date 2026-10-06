@@ -1,6 +1,8 @@
 import { LANGS, pickLang, splitLangPath } from "./lib/lang.js";
 import { signSession, verifySession } from "./lib/crypto.js";
-import { issueMagicToken, consumeMagicToken, rateLimited } from "./lib/tokens.js";
+import { issueMagicToken, consumeMagicToken, rateLimited,
+         newPendingId, newPendingCode, putPending, readPending,
+         approvePending, claimPending } from "./lib/tokens.js";
 import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } from "./lib/cookies.js";
 import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { sendMagicLink } from "./lib/email.js";
@@ -85,6 +87,44 @@ async function serveHtml(env, page, lang, i18nOn, previewOn, langRoute, sandboxP
   return new Response(out.body, { status: res.status, headers });
 }
 
+/* 메일 링크를 연 기기에 보여 주는 최소한의 페이지들. 앱을 띄울 자리가 아니라
+   한 문장과 버튼 하나면 되므로 워커가 직접 그린다. */
+function htmlPage(msg, status = 200, extraHeaders = {}) {
+  const body = `<!doctype html><html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AX-it NOW</title>
+<style>body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+background:#f4f0e9;color:#1c1a18;font-family:Pretendard,system-ui,sans-serif;padding:24px}
+.box{max-width:420px;text-align:center;line-height:1.6;font-size:15px}
+a{color:#1c1a18}</style></head>
+<body><div class="box">${msg}</div></body></html>`;
+  return new Response(body, {
+    status,
+    headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store", ...extraHeaders },
+  });
+}
+
+// 다른 기기에서 열었을 때의 확인 화면. 코드를 크게 띄우고, 요청 화면의 숫자와
+// 같을 때만 누르라고 분명히 적는다.
+function confirmPage(code, token, pid) {
+  const esc = (v) => String(v).replace(/[&<>"]/g, (c) =>
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  return htmlPage(`
+    <p style="font-size:17px;font-weight:700;margin:0 0 6px">로그인 확인</p>
+    <p style="margin:0 0 18px;color:#5a5450">로그인을 요청한 화면에 아래 숫자가
+      떠 있는지 확인하세요.</p>
+    <p style="font:700 34px/1 ui-monospace,Menlo,monospace;letter-spacing:.2em;margin:0 0 20px">${esc(code)}</p>
+    <form method="POST" action="/api/auth/approve">
+      <input type="hidden" name="token" value="${esc(token)}">
+      <input type="hidden" name="p" value="${esc(pid)}">
+      <button type="submit" style="width:100%;height:46px;border:none;border-radius:12px;
+        background:#1c1a18;color:#fff;font:700 15px Pretendard,system-ui,sans-serif;cursor:pointer">
+        숫자가 같습니다 — 로그인</button>
+    </form>
+    <p style="margin:16px 0 0;color:#8a8377;font-size:13px">숫자가 다르면 누르지 마세요.
+      누군가 당신의 주소로 로그인을 시도하는 중일 수 있습니다.</p>`);
+}
+
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -123,9 +163,14 @@ export default {
             await rateLimited(env.AUTH_TOKENS, "ip", ip, 15))
           return json({ ok: true });
         const token = await issueMagicToken(env.AUTH_TOKENS, email);
-        const link = `${env.BASE_URL}/api/auth/callback?token=${token}`;
+        // 요청한 브라우저가 승인을 받아 갈 자리. 링크를 다른 기기에서 열어도 이 자리에
+        // 세션이 놓이면 원래 창이 그걸 가져간다.
+        const pid = newPendingId();
+        const code = newPendingCode();
+        await putPending(env.AUTH_TOKENS, pid, email, code);
+        const link = `${env.BASE_URL}/api/auth/callback?token=${token}&p=${pid}`;
         try {
-          await sendMagicLink(env, email, link);
+          await sendMagicLink(env, email, link, code);
         } catch (e) {
           // 주소가 등록돼 있는지는 끝까지 숨기지만(= 모르는 주소도 ok:true), 메일
           // 발송 자체가 실패한 것은 다른 사건이다. 성공으로 위장하면 사용자는 오지
@@ -133,16 +178,59 @@ export default {
           console.error("auth/request: magic link send failed", String(e && e.message || e));
           return json({ ok: false, reason: "send_failed" }, 502);
         }
+        // pid는 이 브라우저만 알아야 한다(세션을 가져갈 열쇠다). 쿠키로도 심어
+        // 두면 같은 기기에서 링크를 열었을 때 확인 코드를 묻지 않고 지나갈 수 있다.
+        return json({ ok: true, pid, code }, 200, {
+          "set-cookie": `ax_pend=${pid}; Path=/; HttpOnly; Secure; SameSite=Lax; Max-Age=900`,
+        });
       }
       return json({ ok: true }); // never reveal whether the email exists
     }
 
+    // 요청했던 브라우저가 "승인됐나?"를 묻는 자리. pid를 아는 것만으로는 안 되고
+    // 요청 때 심은 쿠키까지 맞아야 한다 — 메일 링크를 가로챈 쪽이 세션을 긁어가지
+    // 못하게 한다.
+    if (p === "/api/auth/pending") {
+      const pid = url.searchParams.get("pid") || "";
+      if (!pid || cookies.ax_pend !== pid) return json({ approved: false }, 403);
+      const session = await claimPending(env.AUTH_TOKENS, pid);
+      if (!session) return json({ approved: false });
+      return json({ approved: true }, 200, { "set-cookie": sessionSetCookie(session) });
+    }
+
     if (p === "/api/auth/callback") {
       const token = url.searchParams.get("token");
+      const pid = url.searchParams.get("p") || "";
+      // 같은 브라우저에서 열었으면(요청 때 심은 쿠키가 그대로 있으면) 묻지 않는다.
+      // 다른 기기면 코드를 보여 주고 사람이 맞춰 본 뒤에야 승인한다 — 그 확인이
+      // 없으면 "남의 주소로 요청해 두고 클릭을 유도하는" 공격이 그대로 통한다.
+      const sameDevice = pid && cookies.ax_pend === pid;
+      if (pid && !sameDevice) {
+        const rec = await readPending(env.AUTH_TOKENS, pid);
+        // 토큰은 아직 쓰지 않는다 — 승인 버튼을 눌러야 소모된다.
+        if (!rec || !(await env.AUTH_TOKENS.get("ml:" + token)))
+          return htmlPage("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", 400);
+        return confirmPage(rec.code, token, pid);
+      }
       const email = await consumeMagicToken(env.AUTH_TOKENS, token);
       if (!email) return new Response("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", { status: 400 });
       const session = await signSession(email, env.SESSION_SIGNING_KEY);
+      if (pid) await approvePending(env.AUTH_TOKENS, pid, session);
       return new Response(null, { status: 302, headers: { location: "/", "set-cookie": sessionSetCookie(session) } });
+    }
+
+    // 다른 기기에서 코드를 맞춰 보고 누르는 승인. 토큰은 여기서 소모된다.
+    if (p === "/api/auth/approve" && request.method === "POST") {
+      const form = await request.formData().catch(() => null);
+      const token = form && form.get("token");
+      const pid = form && form.get("p");
+      const email = await consumeMagicToken(env.AUTH_TOKENS, String(token || ""));
+      if (!email) return htmlPage("만료되었거나 이미 사용된 링크입니다. 다시 요청해 주세요.", 400);
+      const session = await signSession(email, env.SESSION_SIGNING_KEY);
+      await approvePending(env.AUTH_TOKENS, String(pid || ""), session);
+      // 이 기기도 함께 로그인시킨다 — 폰에서 열었다면 폰에서도 보고 싶을 것이다.
+      return htmlPage("로그인했습니다. 요청하신 화면으로 돌아가세요.", 200,
+                      { "set-cookie": sessionSetCookie(session) });
     }
 
     if (p === "/api/auth/logout" && request.method === "POST")
