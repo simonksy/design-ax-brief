@@ -7,7 +7,8 @@ import { parseCookies, sessionSetCookie, sessionClearCookie, SESSION_COOKIE } fr
 import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { getPrefs, setPrefs, unsubscribeAll } from "./lib/mail_prefs.js";
 import { signUnsub, verifyUnsub } from "./lib/unsub.js";
-import { sendMagicLink } from "./lib/email.js";
+import { renderReport } from "./lib/report_mail.js";
+import { sendMagicLink, sendReport } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
 
@@ -348,6 +349,30 @@ export default {
       return json({ loggedIn: true, email, entitled: ent.entitled, hasSubscription,
                     status: ent.status, periodEnd: ent.periodEnd,
                     startedAt: ent.startedAt, provider: ent.provider });
+    }
+
+    // 배관 점검용. 로그인한 본인에게만 더미 리포트를 한 통 보낸다 — 임의의
+    // 주소로 보낼 수 있으면 이 엔드포인트가 메일 중계기가 된다.
+    if (p === "/api/mail/test" && request.method === "POST") {
+      const email = await currentEmail(request, env);
+      if (!email) return json({ reason: "login_required" }, 401);
+      const ent = await getEntitlement(env.DB, email);
+      const prefs = await getPrefs(env.DB, email);
+      const token = await signUnsub(email, env.SESSION_SIGNING_KEY);
+      const { subject, html } = renderReport({
+        edition: "TEST", lang: prefs.lang,
+        blocks: {
+          change: "배관 점검용 더미 문단입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
+          sections: { design: "디자인 더미 신호" },
+          dots: "교차 인사이트 더미 문단입니다.",
+          next: ["더미 항목"],
+        },
+        entitled: ent.entitled, sections: ["design"],
+        unsubUrl: `${env.BASE_URL}/api/mail/unsubscribe?t=${token}`,
+      });
+      try { await sendReport(env, email, subject, html); }
+      catch (e) { return json({ ok: false, reason: String((e && e.message) || e) }, 502); }
+      return json({ ok: true, to: email, entitled: ent.entitled });
     }
 
     // 수신 거부 — 로그인을 요구하지 않는다. 메일을 받은 사람이 로그인 화면을

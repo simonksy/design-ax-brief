@@ -29,3 +29,22 @@ export async function sendMagicLink(env, email, link, code) {
   });
   if (!res.ok) throw new Error("resend_failed_" + res.status);
 }
+
+/* 리포트 발송. 매직링크와 달리 받는 사람이 많으므로, 실패를 삼키지 않고 던져
+   호출부가 그 주소만 건너뛰고 나머지를 계속 보내게 한다. 테스트 모드에서는
+   env.__sentReports에 쌓아 두어 조립 결과를 검사할 수 있게 한다. */
+export async function sendReport(env, to, subject, html) {
+  if (!env.RESEND_API_KEY || env.RESEND_API_KEY === "test-resend-key") {
+    (env.__sentReports ||= []).push({ to, subject, html });
+    return;
+  }
+  const res = await fetch("https://api.resend.com/emails", {
+    method: "POST",
+    headers: { authorization: `Bearer ${env.RESEND_API_KEY}`, "content-type": "application/json" },
+    body: JSON.stringify({
+      from: env.MAIL_FROM || "AX-it NOW <noreply@axitnow.com>",
+      to: [to], subject, html,
+    }),
+  });
+  if (!res.ok) throw new Error("resend_failed_" + res.status);
+}
