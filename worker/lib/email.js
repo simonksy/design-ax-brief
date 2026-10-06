@@ -1,4 +1,4 @@
-export async function sendMagicLink(env, email, link) {
+export async function sendMagicLink(env, email, link, code) {
   // Test mode: no real key → just capture for assertions (keeps auth tests hermetic).
   if (!env.RESEND_API_KEY || env.RESEND_API_KEY === "test-resend-key") {
     env.__lastMagicLink = link;
@@ -13,9 +13,18 @@ export async function sendMagicLink(env, email, link) {
       // `wrangler secret put MAIL_FROM`(또는 vars)으로 가리키기만 하면 된다.
       from: env.MAIL_FROM || "Design AX Brief <onboarding@resend.dev>",
       to: [email],
-      subject: "Design AX Brief 로그인 링크",
+      subject: "AX-it NOW 로그인 링크",
+      // 코드는 다른 기기에서 열었을 때만 쓰인다 — 로그인을 요청한 화면에 같은 숫자가
+      // 떠 있는지 눈으로 맞춰 보라는 용도다. 같은 기기에서 열면 묻지 않는다.
       html: `<p>아래 링크로 로그인하세요 (15분 내 유효):</p>
-             <p><a href="${link}">Design AX Brief 로그인 →</a></p>`,
+             <p><a href="${link}">AX-it NOW 로그인 →</a></p>` +
+            (code
+              ? `<p style="margin-top:18px;color:#555">다른 기기에서 이 링크를 여는 경우,
+                 로그인을 요청한 화면에 아래 숫자가 떠 있는지 확인하세요.</p>
+                 <p style="font:700 24px/1 ui-monospace,Menlo,monospace;letter-spacing:.18em">${code}</p>
+                 <p style="color:#888;font-size:13px">숫자가 다르면 누르지 마세요. 누군가 당신의
+                 주소로 로그인을 시도하는 중일 수 있습니다.</p>`
+              : ""),
     }),
   });
   if (!res.ok) throw new Error("resend_failed_" + res.status);

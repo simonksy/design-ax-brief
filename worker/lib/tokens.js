@@ -25,3 +25,54 @@ export async function consumeMagicToken(kv, token) {
   if (email) await kv.delete("ml:" + token);
   return email;
 }
+
+/* ---- 기기 간 로그인 (pending) ----------------------------------------------
+   메일 링크를 연 기기에만 세션이 생기면, 폰으로 메일을 확인한 사람은 정작
+   로그인하려던 PC 화면에서 아무 일도 일어나지 않는다. 그래서 요청한 브라우저가
+   받아 갈 자리를 서버에 하나 만들어 두고, 링크가 열리면 그 자리에 승인을 남긴다.
+
+   확인 코드가 필요한 이유: 이 구조는 원래 없던 공격을 하나 만든다. 공격자가 자기
+   PC에서 피해자의 주소로 요청해 두고 "링크 눌러보세요"라고 유도하면, 피해자의
+   클릭이 공격자 브라우저를 로그인시킨다. 코드를 양쪽(요청 화면 / 메일)에 띄우고
+   사람이 맞춰 보게 하면 공격자는 자기 화면의 코드를 피해자에게 알릴 길이 없다. */
+const PEND_TTL = 900;   // 매직 토큰과 같은 15분
+
+export function newPendingId() {
+  return crypto.randomUUID().replace(/-/g, "");
+}
+
+// 1000~9999. 앞자리가 0이면 사람이 읽고 옮길 때 흔히 빠뜨린다.
+export function newPendingCode() {
+  const b = new Uint32Array(1);
+  crypto.getRandomValues(b);
+  return String(1000 + (b[0] % 9000));
+}
+
+export async function putPending(kv, pid, email, code) {
+  await kv.put("pd:" + pid, JSON.stringify({ email, code, session: null }),
+               { expirationTtl: PEND_TTL });
+}
+
+export async function readPending(kv, pid) {
+  if (!pid) return null;
+  const raw = await kv.get("pd:" + pid);
+  if (!raw) return null;
+  try { return JSON.parse(raw); } catch { return null; }
+}
+
+// 승인 = 요청했던 브라우저가 가져갈 세션을 자리에 놓아 두는 것.
+export async function approvePending(kv, pid, session) {
+  const rec = await readPending(kv, pid);
+  if (!rec) return false;
+  rec.session = session;
+  await kv.put("pd:" + pid, JSON.stringify(rec), { expirationTtl: PEND_TTL });
+  return true;
+}
+
+// 한 번만 가져갈 수 있다 — 세션을 넘긴 자리는 즉시 지운다.
+export async function claimPending(kv, pid) {
+  const rec = await readPending(kv, pid);
+  if (!rec || !rec.session) return null;
+  await kv.delete("pd:" + pid);
+  return rec.session;
+}
