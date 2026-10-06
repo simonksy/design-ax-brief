@@ -69,15 +69,18 @@ def cross_section_clusters(cards, links, min_sections=2):
             continue          # 그 주 바깥의 카드로 뻗은 간선은 이번 주의 점이 아니다
         if sec[a] == sec[b]:
             continue          # 같은 섹션끼리는 '교차'가 아니다
+        # kw는 같은 뜻의 여러 표기가 담긴 리스트다. 리스트 전체를 키로 쓰면 표기가
+        # 한 글자만 달라도 다른 묶음이 되어, 결과가 전부 '카드 두 장짜리 간선 하나'로
+        # 쪼개진다 — 실측에서 60/61이 두 장이었다. 낱개 키워드로 펼쳐 묶으면 같은
+        # 키워드를 공유하는 간선들이 모여 세 섹션·네 카드짜리 묶음이 나온다.
         kw = l.get("kw")
-        # kw는 리스트다(같은 뜻의 여러 표기). 사전 키로 쓰려면 해시 가능해야 하므로
-        # 정렬한 튜플로 묶고, 바깥으로는 원래 모양 그대로 돌려준다.
-        key = tuple(sorted(kw)) if isinstance(kw, (list, tuple)) else (kw or "",)
-        g = by_kw[key]
-        g["kw"] = kw if g["kw"] is None else g["kw"]
-        g["ids"].update([a, b])
-        g["sections"].update([sec[a], sec[b]])
-        g["w"] += l.get("w") or 1
+        words = kw if isinstance(kw, (list, tuple)) else [kw or ""]
+        for word in words:
+            g = by_kw[word]
+            g["kw"] = word
+            g["ids"].update([a, b])
+            g["sections"].update([sec[a], sec[b]])
+            g["w"] += l.get("w") or 1
     out = [{"kw": v["kw"], "ids": sorted(v["ids"]), "sections": sorted(v["sections"]), "w": v["w"]}
            for v in by_kw.values() if len(v["sections"]) >= min_sections]
     out.sort(key=lambda x: (-x["w"], str(x["kw"])))
@@ -139,22 +142,37 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
             "근거 카드가 없는 주장은 쓰지 않는다. 추측 금지.",
             "'다음에 볼 것'은 계류 중인 법안·발표 예정 베타처럼 출처가 있는 것만 적는다.",
             "요약이 아니라 '무엇이 움직였고 읽는 사람 일에 무슨 의미인가'를 쓴다.",
-            "링크는 쓰지 않는다 — 카드 id만 적으면 조립 쪽이 딥링크를 만든다.",
+            "링크는 쓰지 않는다. ①번의 근거 카드는 change_cards에 \"<섹션>/<카드 id>\" 형태로 3~5개 적으면 조립 쪽이 딥링크를 만든다.",
         ],
     }
 
 
-def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com"):
-    """언어별 답을 reports/<edition>/<lang>.json으로 쓴다."""
+def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com",
+                  archive=None):
+    """언어별 답을 reports/<edition>/<lang>.json으로 쓴다.
+
+    ①번의 근거 카드는 에이전트가 id만 적고(`change_cards`), 링크는 여기서 만든다 —
+    URL을 적게 하면 지어낸다. 원문이 아니라 사이트 딥링크를 걸어야 메일이 사람을
+    사이트로 돌려보내고, 잠긴 카드를 누른 비구독자에게 구독 모달이 뜬다."""
     root = out_root or os.path.join(ROOT, "reports", edition)
     os.makedirs(root, exist_ok=True)
+    cards = archive if archive is not None else load_archive()
+    by_key = {graph_key(c): c for c in cards}
     written = []
     for lang in LANGS:
         a = answers.get(lang)
         if not a:
             continue          # 한 언어가 비어도 나머지는 쓴다
+        links = []
+        for key in a.get("change_cards") or []:
+            c = by_key.get(key)
+            if not c:
+                continue      # 없는 카드를 가리키면 링크를 만들지 않는다
+            links.append({"headline": (c.get("headline") or "").replace("\n", " "),
+                          "url": card_link(base_url, lang, c.get("section"), c.get("id"))})
         json.dump({"edition": edition, "lang": lang,
-                   "change": a.get("change", ""), "sections": a.get("sections", {}),
+                   "change": a.get("change", ""), "links": links,
+                   "sections": a.get("sections", {}),
                    "dots": a.get("dots", ""), "next": a.get("next", [])},
                   open(os.path.join(root, f"{lang}.json"), "w", encoding="utf-8"),
                   ensure_ascii=False, indent=2)

@@ -37,9 +37,10 @@ def test_matches_real_shapes_bare_card_id_and_list_kw():
     links = [{"source": "design/cad", "target": "marketing/gpt-ads",
               "kw": ["watermark", "출처"], "w": 0.9}]
     out = cross_section_clusters(cards, links)
-    assert len(out) == 1, out
-    assert set(out[0]["sections"]) == {"design", "marketing"}
-    assert out[0]["kw"] == ["watermark", "출처"], out[0]["kw"]
+    # kw 리스트는 낱개 키워드로 펼쳐지므로 표기 수만큼 묶음이 나온다(I5).
+    assert len(out) == 2, out
+    assert {g["kw"] for g in out} == {"watermark", "출처"}
+    assert all(set(g["sections"]) == {"design", "marketing"} for g in out)
 
 
 def test_cluster_must_span_two_sections():
@@ -89,6 +90,35 @@ def test_cluster_cards_resolve_to_real_headlines():
     heads = [c["headline"] for c in out["clusters"][0]["cards"]]
     assert all(heads), heads
     assert "말로 그리는 CAD" in heads, heads
+
+
+# I5 — 묶음이 '간선 하나'에 머물면 ③번의 뜻이 사라진다. 같은 키워드를 공유하는
+# 간선들이 하나로 모여 세 섹션·네 카드를 잇는 묶음이 나와야 한다.
+def test_clusters_merge_on_a_shared_keyword():
+    cards = [{"id": "1", "section": "games"}, {"id": "2", "section": "music"},
+             {"id": "3", "section": "politics"}, {"id": "4", "section": "books"}]
+    links = [{"source": "games/1", "target": "music/2", "kw": ["court", "판결"], "w": 1},
+             {"source": "politics/3", "target": "books/4", "kw": ["court", "항소심"], "w": 1}]
+    out = cross_section_clusters(cards, links)
+    top = out[0]
+    assert set(top["sections"]) == {"games", "music", "politics", "books"}, top["sections"]
+    assert len(top["ids"]) == 4, top["ids"]
+    assert top["kw"] == "court", top["kw"]
+
+
+# I6 — ①번에 근거 카드 링크가 붙어야 메일이 사람을 사이트로 돌려보낸다.
+def test_change_cards_become_deep_links():
+    from build_report import apply_answers
+    import tempfile
+    archive = [{"id": "ads", "section": "marketing", "date": "2026-10-06",
+                "headline": "ChatGPT 광고", "body": "b", "source": "s"}]
+    with tempfile.TemporaryDirectory() as d:
+        apply_answers("2026-W41", {"ko": {"change": "c", "change_cards": ["marketing/ads"]}},
+                      out_root=d, archive=archive, base_url="https://axitnow.com")
+        got = json.load(open(os.path.join(d, "ko.json"), encoding="utf-8"))
+    assert got["links"], got
+    assert got["links"][0]["url"] == "https://axitnow.com/ko/?c=marketing:ads", got["links"]
+    assert got["links"][0]["headline"] == "ChatGPT 광고"
 
 
 if __name__ == "__main__":

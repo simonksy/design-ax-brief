@@ -25,17 +25,18 @@ describe("unsubscribe", () => {
   });
 
   // Review Focus 1 — 서명이 맞아도 토큰에 담긴 주소 외의 사람을 끊어선 안 된다.
+  // (해지는 POST로만 일어난다 — 메일 링크 프리페치로 끊기는 것을 막기 위해서다.)
   it("토큰의 주소만 끊는다 — 쿼리로 다른 주소를 끼워 넣어도 무시한다", async () => {
     const t = await signUnsub("victim@x.com", env.SESSION_SIGNING_KEY);
-    await call(`/api/mail/unsubscribe?t=${t}&email=other@x.com`);
+    await call(`/api/mail/unsubscribe?t=${t}&email=other@x.com`, { method: "POST" });
     expect((await getPrefs(env.DB, "victim@x.com")).unsub_all).toBe(1);
     expect((await getPrefs(env.DB, "other@x.com")).unsub_all).toBe(0);
   });
 
-  it("한 번의 GET으로 끊기고, 두 번 눌러도 같은 화면이다", async () => {
+  it("두 번 눌러도 같은 화면이다", async () => {
     const t = await signUnsub("b@x.com", env.SESSION_SIGNING_KEY);
-    const r1 = await call(`/api/mail/unsubscribe?t=${t}`);
-    const r2 = await call(`/api/mail/unsubscribe?t=${t}`);
+    const r1 = await call(`/api/mail/unsubscribe?t=${t}`, { method: "POST" });
+    const r2 = await call(`/api/mail/unsubscribe?t=${t}`, { method: "POST" });
     expect(r1.status).toBe(200);
     expect(r2.status).toBe(200);
     expect((await getPrefs(env.DB, "b@x.com")).unsub_all).toBe(1);
