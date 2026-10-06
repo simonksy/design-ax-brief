@@ -19,10 +19,11 @@ DEFAULT_BASE_URL = "https://axitnow.com"
 
 # Section display order + labels for the UI tabs.
 SECTION_ORDER = ["design", "music", "movies", "games", "books", "gadgets", "science",
-                 "politics"]
+                 "politics", "marketing"]
 SECTION_LABELS = {"design": "Design", "music": "Music", "movies": "Movies",
                   "games": "Games", "books": "Books", "gadgets": "Gadgets",
-                  "science": "Science", "politics": "Politics"}
+                  "science": "Science", "politics": "Politics",
+                  "marketing": "Marketing"}
 
 class DuplicateCardError(ValueError):
     pass

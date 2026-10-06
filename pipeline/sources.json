@@ -61,6 +61,13 @@
       "categories": [
         "politics"
       ]
+    },
+    {
+      "section": "marketing",
+      "label": "Marketing",
+      "categories": [
+        "marketing"
+      ]
     }
   ],
   "categories": [
@@ -433,6 +440,47 @@
         "semianalysis.com"
       ],
       "_note": "AI x politics, on three axes only: (1) POLICY/REGULATION - AI acts, executive orders, copyright and liability litigation, national AI strategies, safety and privacy rulemaking, procurement rules; (2) AI IN ELECTIONS/PUBLIC OPINION - deepfakes, synthetic campaign media, bot-driven astroturfing, platform labelling and provenance rules, political communication; (3) AI GEOPOLITICS - chip export controls, US-China AI competition, sovereign AI programs, datacenter siting diplomacy, compute and talent flows. OUT OF SCOPE: general political news with no AI axis (elections, personnel, party politics as such). Relevance test: AI must be what makes the story happen - if you can delete AI from the headline and it still stands, drop it. NEUTRALITY (required): report what was decided/filed/published and what it changes for people who build with AI. No partisan framing, no endorsement or criticism of parties or candidates, no horse-race or polling commentary. Attribute contested claims to the named party rather than asserting them. Prefer the primary document (bill text, ruling, agency release) over commentary about it. RUNNING STORIES: politics stories continue for days (ruling -> appeal -> suit). A follow-up on an already-published story is a duplicate unless it reports a new decision, ruling, filing, bill, executive order or official release; commentary, analysis, reactions and extra reporting on a published event are dropped. The primary document and the news report about it are ONE story - publish one of them. Crawler-blocked/paywalled majors (reuters.com, bloomberg.com, ft.com, wsj.com, nytimes.com, economist.com, foreignpolicy.com) deliberately excluded - published times are unverifiable there; the outlets above usually carry the same decision with a readable timestamp."
+    },
+    {
+      "category": "marketing",
+      "label": "Marketing",
+      "motif": "wave",
+      "accent": "#ff8a3d",
+      "allowed_domains": [
+        "adweek.com",
+        "adage.com",
+        "marketingdive.com",
+        "digiday.com",
+        "campaignlive.com",
+        "thedrum.com",
+        "marketingbrew.com",
+        "adexchanger.com",
+        "mediapost.com",
+        "warc.com",
+        "contagious.com",
+        "searchengineland.com",
+        "searchenginejournal.com",
+        "seroundtable.com",
+        "retaildive.com",
+        "modernretail.co",
+        "marketingland.com",
+        "blog.google",
+        "business.safety.meta.com",
+        "about.fb.com",
+        "blog.hubspot.com",
+        "business.adobe.com",
+        "salesforce.com",
+        "blog.x.com",
+        "newsroom.tiktok.com",
+        "business.linkedin.com",
+        "techcrunch.com",
+        "theverge.com",
+        "axios.com",
+        "technologyreview.com",
+        "niemanlab.org",
+        "press.aboutamazon.com"
+      ],
+      "_note": "AI x marketing. Take a story only where AI is what makes it happen — if deleting AI from the headline leaves it standing, it is general marketing news and does not belong. FOUR AXES: (1) CREATIVE PRODUCTION - generative ad creative, video/image/copy at scale, brand-safe model training, synthetic spokespeople and the disclosure rules around them; (2) TARGETING & MEASUREMENT - AI bidding and budget allocation, attribution after cookie loss, audience modelling, incrementality testing, ad fraud detection; (3) SEARCH & DISCOVERY SHIFT - AI overviews and answer engines eating referral traffic, GEO/AEO (optimising for generative answers), publisher licensing deals with model makers, zero-click behaviour; (4) CUSTOMER OPERATIONS - AI agents in CRM/email/support, personalisation engines, chat commerce, marketing-mix automation. OUT OF SCOPE: funding rounds, agency M&A, executive hires, award shows, and generic 'AI will change marketing' opinion with no concrete product, ruling, or number. Prefer the primary source (product changelog, platform blog, filing) over commentary."
     }
   ],
   "palette": [

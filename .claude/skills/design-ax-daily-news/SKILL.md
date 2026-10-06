@@ -13,8 +13,16 @@ source categories): `design` (AI×design tools/work culture), `music` (AI×Music
 (AI×devices/hardware — AI wearables, on-device AI, smart glasses, robots, NPU PCs),
 `science` (AI×research — psychology, life/materials science, physics, quantum, astronomy),
 `politics` (AI×politics on three axes: **policy/regulation**, **AI in elections & public
-opinion**, **AI geopolitics**). AI is the constant axis; each section pairs AI with its
-domain.
+opinion**, **AI geopolitics**), `marketing` (AI×marketing on four axes: **creative
+production**, **targeting & measurement**, **search/discovery shift**, **customer
+operations**). AI is the constant axis; each section pairs AI with its domain.
+
+**Marketing is scoped like politics.** Take only stories where AI is what makes the story
+happen — if deleting AI from the headline leaves it standing, it is general marketing news
+and does not belong. Drop funding rounds, agency M&A, exec hires, award shows, and generic
+"AI will change marketing" opinion with no concrete product, ruling, or number. Prefer the
+primary source (product changelog, platform blog, filing) over commentary about it.
+Full rules live in `sources.json` → `categories[marketing]._note`.
 
 **Politics is scoped and non-partisan.** Take only stories where AI is what makes the
 story happen — if deleting AI from the headline leaves it standing, it is general
@@ -33,7 +41,7 @@ fresh, non-duplicate, on-topic items after expansion — and then note the short
 Never pad with stale or off-topic items.
 
 **Freshness window is per-section** (`pipeline/freshness.py <pub_iso> <now_iso> <section>`):
-`design` / `politics` = **72h** — both beats move fast and are dense, and a two-week-old
+`design` / `politics` / `marketing` = **72h** — these beats move fast and are dense, and a two-week-old
 ruling or export-control decision is already stale. `music` / `movies` / `games` / `books`
 / `gadgets` / `science` = **14 days (336h)** — those domains publish AI news less often, so
 a wider window is needed to fill 5.
@@ -66,11 +74,11 @@ ax-curator auto-picks ONLY if the user explicitly defers a section ("알아서")
 
 **Step 0 — keywords (ask the user once; skip in the scheduled collection run).** Ask in
 Korean 존댓말 for any extra search keywords and which sections to run today (default: all
-8). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
+9). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
 keywords to ax-planner as extra seeds for the relevant section(s).
 
 For EACH selected section S (default order design, music, movies, games, books, gadgets,
-science, politics):
+science, politics, marketing):
 1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
    (reads `keyword_pool.json.sections[S]` — always its `core`, rotates the rest by date.)
    → `pipeline/keywords.json`
@@ -160,7 +168,7 @@ byte-identical (~8–25% change). The front card flips (회전문) to the `full`
 containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
-(design/politics 72h; music/movies/games/books/gadgets/science 14 days). Dedup is **per
+(design/politics/marketing 72h; music/movies/games/books/gadgets/science 14 days). Dedup is **per
 section** (URL + CONTENT): each distinct story appears on exactly one date within its
 section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
 `build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared

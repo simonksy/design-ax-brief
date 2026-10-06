@@ -1,5 +1,5 @@
 """Deterministic recency gate (UTC). Window is per-section:
-  - design, politics: previous 72 hours (tight — both beats move fast and are dense,
+  - design, politics, marketing: previous 72 hours (tight — both beats move fast and are dense,
     and a two-week-old ruling or export-control decision is already stale news).
   - other sections (music, movies, games, books, gadgets, science): previous 14 days
     (336h) — these domains publish AI news less often, so a wider window fills 3-5 cards.
@@ -11,7 +11,9 @@ from datetime import datetime, timezone
 FAST_WINDOW_H = 72
 SLOW_WINDOW_H = 336  # 14 days
 # Sections whose beat is dense enough to sustain the tight window.
-FAST_SECTIONS = {"design", "politics"}
+# marketing도 빠른 쪽에 둔다 — 광고·검색 플랫폼은 매일 바뀌고, 2주 지난
+# 알고리즘 변경은 이미 틀린 정보다. 양이 모자라면 느린 쪽으로 옮기면 된다.
+FAST_SECTIONS = {"design", "politics", "marketing"}
 
 def _parse(iso):
     if not iso:
