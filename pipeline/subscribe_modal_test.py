@@ -62,6 +62,14 @@ for lang in ("ko", "en", "ja", "zh", "es"):
     assert "{date}" in d["paywall.first_charge"], f"{lang}.json paywall.first_charge has no {{date}} placeholder"
 
 # 10) 헤더 Pro 버튼 + 혜택 비교표 문구 키도 5개 언어에 모두 있다
+# 주간 리포트 수신 설정 화면 문구 — 5개 언어에 다 있어야 한다.
+need4 = ["mail.title", "mail.body", "mail.weekly_on", "mail.sections", "mail.lang",
+         "mail.save", "mail.saved", "mail.unsub_hint", "mail.open"]
+for lang in ("ko", "en", "ja", "zh", "es"):
+    d = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
+    missing = [k for k in need4 if k not in d]
+    assert not missing, f"{lang}.json missing {missing}"
+
 need3 = ["pro.cta", "pro.cta_short", "pro.col_free", "pro.col_pro",
          "pro.row_cards", "pro.row_deep", "pro.row_archive", "pro.row_graph",
          "pro.row_report", "pro.row_mcp", "pro.soon", "pro.active"]
