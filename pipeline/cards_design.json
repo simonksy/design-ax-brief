@@ -1,1576 +1,1716 @@
 {
-  "date": "2026-10-06",
-  "section": "design",
-  "cards": [
-    {
-      "id": "bimlogiq-argus-revit-family-agent",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
-      "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
-      "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
-      "tool": "Text-to-CAD",
-      "source": "AEC Magazine",
-      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-            "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
-          },
-          {
-            "t": "p",
-            "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
-          },
-          {
-            "t": "p",
-            "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "BIMlogiq Argus adds agents\nthat build Revit families",
-          "body": "BIMlogiq's Argus can now create fully parametric Revit families from scratch, alongside new bathroom and MEP agents.",
-          "mini_headline": "Argus agents build Revit families",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "BIMlogiq Argus inside Revit"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq has enhanced Argus, its AI platform for Revit that uses a team of specialist agents to automate workflows directly within a Revit project. Users give it a goal and it plans the steps, chains the tools and executes end-to-end: placing families, checking the model, tagging and dimensioning, building views and sheets. Runs can be saved as a command for the whole team to reuse."
-              },
-              {
-                "t": "p",
-                "x": "Recent additions include a Family Creation Agent that can reportedly create fully parametric Revit families from scratch using native Revit components, and a Bathroom Agent that designs ADA-compliant bathrooms. A new MEP Systems Agent traces flows through the network, from equipment to terminals, even when parts of a system are not fully connected."
-              },
-              {
-                "t": "p",
-                "x": "A rebar modelling agent generates 3D rebar directly from an attached PDF specification. Argus also includes a QA/QC module where users describe rules in plain language and AI creates the corresponding checks. BIMlogiq can also develop specialised agents trained on a firm's past data and designs."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
-          "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
-          "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit 안에서 돌아가는 BIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 꾸려 Revit 프로젝트 안에서 워크플로를 바로 자동화한다. 목표만 주면 단계를 짜고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치와 모델 검토, 태그·치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 두고 팀 전체가 다시 꺼내 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만든다고 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비부터 말단 기구까지 네트워크 흐름을 따라가는데, 시스템 일부가 완전히 연결되지 않아도 작동한다."
-              },
-              {
-                "t": "p",
-                "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 곧바로 생성한다. Argus에는 QA/QC 모듈도 있다. 사용자가 일상 언어로 규칙을 설명하면 AI가 거기에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습시킨 전용 에이전트도 개발해 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
-          "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
-          "mini_headline": "ArgusのエージェントがRevitファミリを構築",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit上で動くBIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
-              },
-              {
-                "t": "p",
-                "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BIMlogiq Argus\n新增智能体构建Revit族",
-          "body": "BIMlogiq Argus现可从零创建全参数化Revit族，并新增浴室与MEP智能体。",
-          "mini_headline": "Argus智能体构建Revit族",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit中的BIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq升级了其面向Revit的AI平台Argus。Argus借助一组专业智能体，直接在Revit项目内自动化工作流程。用户只需给出目标，它便会规划步骤、串联工具并端到端（end-to-end）执行：放置族、检查模型、添加标记与尺寸标注、创建视图和图纸。运行过程可保存为命令，供整个团队复用。"
-              },
-              {
-                "t": "p",
-                "x": "近期新增的Family Creation Agent据称能使用Revit原生构件，从零创建完全参数化的Revit族；Bathroom Agent则可设计符合ADA-compliant（ADA标准）的卫生间。新的MEP Systems Agent可追踪网络中从设备到末端的流向，即使系统部分环节并未完全连接也能运作。"
-              },
-              {
-                "t": "p",
-                "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "BIMlogiq Argus suma agentes\nque crean familias de Revit",
-          "body": "Argus, de BIMlogiq, ya crea familias de Revit totalmente paramétricas desde cero y suma agentes de baño y MEP.",
-          "mini_headline": "Agentes de Argus crean familias de Revit",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "BIMlogiq Argus dentro de Revit"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq ha mejorado Argus, su plataforma de AI para Revit que usa un equipo de agentes especializados para automatizar flujos de trabajo directamente dentro de un proyecto de Revit. El usuario le da un objetivo y Argus planifica los pasos, encadena las herramientas y lo ejecuta de principio a fin (end-to-end): coloca familias, revisa el modelo, etiqueta y acota, y crea vistas y planos. Las ejecuciones pueden guardarse como un comando para que todo el equipo las reutilice."
-              },
-              {
-                "t": "p",
-                "x": "Entre las novedades recientes figura un Family Creation Agent que, según se informa, puede crear familias de Revit totalmente paramétricas desde cero con componentes nativos de Revit, y un Bathroom Agent que diseña baños ADA-compliant. Un nuevo MEP Systems Agent rastrea los flujos a través de la red, desde los equipos hasta los terminales, incluso cuando partes del sistema no están completamente conectadas."
-              },
-              {
-                "t": "p",
-                "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "BIMlogiq Argus\nRevit 패밀리 만든다",
-          "body": "BIMlogiq Argus에 Revit 패밀리·욕실·MEP 에이전트가 추가됐다.",
-          "mini_headline": "Argus 에이전트, Revit 패밀리 생성",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit 안에서 구동되는 BIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq가 Revit용 AI 플랫폼 Argus를 강화했다. Argus는 전문 에이전트 팀을 활용해 Revit 프로젝트 안에서 직접 워크플로를 자동화한다. 사용자가 목표를 주면 단계를 계획하고 도구를 엮어 처음부터 끝까지(end-to-end) 실행한다. 패밀리 배치, 모델 검토, 태그와 치수 기입, 뷰와 시트 작성까지 맡는다. 실행 과정은 명령으로 저장해 팀 전체가 다시 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "최근 추가된 Family Creation Agent는 Revit 기본 구성 요소로 완전한 파라메트릭 Revit 패밀리를 처음부터 만들 수 있는 것으로 알려졌다. Bathroom Agent는 ADA-compliant(ADA 규정 준수) 욕실을 설계한다. 새 MEP Systems Agent는 장비에서 말단 기구까지 네트워크의 흐름을 추적하며, 시스템 일부가 완전히 연결되지 않은 경우에도 작동한다."
-              },
-              {
-                "t": "p",
-                "x": "철근 모델링 에이전트는 첨부한 PDF 사양서에서 3D 철근을 바로 생성한다. Argus에는 QA/QC 모듈도 있어, 사용자가 일상 언어로 규칙을 설명하면 AI가 그에 맞는 검사 항목을 만든다. BIMlogiq는 회사의 과거 데이터와 설계로 학습한 전용 에이전트도 개발해 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
-          "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
-          "mini_headline": "ArgusのエージェントがRevitファミリを構築",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit上で動くBIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
-              },
-              {
-                "t": "p",
-                "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BIMlogiq Argus\n新增智能体构建Revit族",
-          "body": "BIMlogiq Argus现可从零创建全参数化Revit族，并新增浴室与MEP智能体。",
-          "mini_headline": "Argus智能体构建Revit族",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "Revit中的BIMlogiq Argus"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq升级了其面向Revit的AI平台Argus。Argus借助一组专业智能体，直接在Revit项目内自动化工作流程。用户只需给出目标，它便会规划步骤、串联工具并端到端（end-to-end）执行：放置族、检查模型、添加标记与尺寸标注、创建视图和图纸。运行过程可保存为命令，供整个团队复用。"
-              },
-              {
-                "t": "p",
-                "x": "近期新增的Family Creation Agent据称能使用Revit原生构件，从零创建完全参数化的Revit族；Bathroom Agent则可设计符合ADA-compliant（ADA标准）的卫生间。新的MEP Systems Agent可追踪网络中从设备到末端的流向，即使系统部分环节并未完全连接也能运作。"
-              },
-              {
-                "t": "p",
-                "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "BIMlogiq Argus suma agentes\nque crean familias de Revit",
-          "body": "Argus, de BIMlogiq, ya crea familias de Revit totalmente paramétricas desde cero y suma agentes de baño y MEP.",
-          "mini_headline": "Agentes de Argus crean familias de Revit",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-                "cap": "BIMlogiq Argus dentro de Revit"
-              },
-              {
-                "t": "p",
-                "x": "BIMlogiq ha mejorado Argus, su plataforma de AI para Revit que usa un equipo de agentes especializados para automatizar flujos de trabajo directamente dentro de un proyecto de Revit. El usuario le da un objetivo y Argus planifica los pasos, encadena las herramientas y lo ejecuta de principio a fin (end-to-end): coloca familias, revisa el modelo, etiqueta y acota, y crea vistas y planos. Las ejecuciones pueden guardarse como un comando para que todo el equipo las reutilice."
-              },
-              {
-                "t": "p",
-                "x": "Entre las novedades recientes figura un Family Creation Agent que, según se informa, puede crear familias de Revit totalmente paramétricas desde cero con componentes nativos de Revit, y un Bathroom Agent que diseña baños ADA-compliant. Un nuevo MEP Systems Agent rastrea los flujos a través de la red, desde los equipos hasta los terminales, incluso cuando partes del sistema no están completamente conectadas."
-              },
-              {
-                "t": "p",
-                "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "design",
+ "cards": [
+  {
+   "id": "design-figma-agent-ga",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Figma 에이전트\n정식 출시",
+   "body": "정식 출시된 Figma 에이전트를 Uber·Granola·Atlassian이 쓴다.",
+   "mini_headline": "Figma 에이전트 GA",
+   "tool": "Figma",
+   "source": "Figma Blog",
+   "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+      "cap": "모바일 화면 위에 떠 있는 예시 프롬프트"
+     },
+     {
+      "t": "p",
+      "x": "Uber, Granola, Atlassian 팀이 정식 출시된 Figma 에이전트로 빠르면서도 완성도 높은 작업을 해내는 방법을 소개한다. 에이전트는 오늘 베타 딱지를 뗐다. 지시를 더 잘 따르고 오래 걸리는 작업도 더 잘 처리한다. 전문 디자이너가 채점에 참여한 Figma의 평가에서는 ~60%+의 비율로 이긴다. 라이브러리 소유자는 가이드라인, 즉 에이전트에게 디자인 시스템 맥락을 알려 주는 마크다운 파일을 추가할 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "Uber 디자인 시스템 팀은 일곱 개 플랫폼에 컴포넌트를 공급한다. 이 팀은 /create-anatomy, /create-color 같은 스킬을 만들어 시스템을 문서화했다. 여러 사람이 몇 달씩 매달리던 문서를 이제 디자이너 한 명이 오후 한나절에 발행한다."
+     },
+     {
+      "t": "p",
+      "x": "Granola의 Product Designer Paavan Buddhdev는 Granola 커넥터로 회의록에서 뽑은 피드백을 에이전트가 캔버스에 주석으로 달게 한다. “시간을 엄청나게 아껴 줬다”는 게 그의 말이다."
+     },
+     {
+      "t": "img",
+      "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+      "cap": "Paavan은 Figma 에이전트와 Granola 커넥터로 캔버스에 피드백을 주석으로 단다."
+     },
+     {
+      "t": "p",
+      "x": "Atlassian은 모션 에셋을 재사용 가능한 컴포넌트로 바꿨다. 디자이너는 에이전트의 도움을 받아 디자인 시스템 안에서 이징과 지속 시간을 거듭 다듬는다. Product Designer Davy Fung은 “정적 디자인을 다루던 디자이너들의 역량이 넓어졌다”고 말한다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "The Figma agent is now\ngenerally available",
+     "body": "Figma's agent is now generally available, and Uber, Granola and Atlassian use it for fast, high-quality work.",
+     "mini_headline": "Figma agent reaches GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Example prompts hover over a mobile screen"
+       },
+       {
+        "t": "p",
+        "x": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available. Today the agent moves out of beta, better at following instructions and handling longer-running tasks; it wins in ~60%+ of Figma’s human-graded evals with professional designers. Library owners can add guidelines—markdown files that give the agent context on their design system."
+       },
+       {
+        "t": "p",
+        "x": "Uber’s design systems team, which delivers components across seven platforms, built skills like /create-anatomy and /create-color to document its system. Documentation that once took multiple people months now gets published by a single designer in an afternoon."
+       },
+       {
+        "t": "p",
+        "x": "At Granola, Product Designer Paavan Buddhdev uses the Granola connector so the agent annotates the canvas with feedback pulled from meeting notes. “It's been a massive time saver,” he says."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan uses the Granola connector with the Figma agent to add feedback on the canvas as annotations."
+       },
+       {
+        "t": "p",
+        "x": "Atlassian turned motion assets into reusable components, with the agent helping designers iterate on easing and duration within its design system. “For designers working with static designs, our skillsets have increased,” says Product Designer Davy Fung."
+       }
+      ]
+     }
     },
-    {
-      "id": "photoshop-remove-tool-no-generative-credits",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Photoshop의\nRemove는 크레딧 무료",
-      "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
-      "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
-      "tool": "KeyShot",
-      "source": "Fstoppers",
-      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "nmvewzc6MG4"
-          },
-          {
-            "t": "p",
-            "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
-          },
-          {
-            "t": "p",
-            "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
-          },
-          {
-            "t": "p",
-            "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
-          },
-          {
-            "t": "p",
-            "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Photoshop's Remove tool spares\nyour generative credits",
-          "body": "Photoshop's Remove tool does not consume generative credits, even with Generative AI and cloud processing turned on.",
-          "mini_headline": "Remove tool skips AI credits",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe now meters many of Photoshop's AI tools against a monthly pool of generative credits, so knowing which features draw from that pool directly affects how freely you can edit."
-              },
-              {
-                "t": "p",
-                "x": "The Remove tool delivers the first surprise. Aaron Nace of PHLEARN checks his credit balance at 2,870, paints over a handful of distractions with Generative AI switched on and cloud processing selected, then checks again. The number hasn't moved. The tool can also run on device processing offline, once Photoshop has downloaded the AI model."
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Generative Expand and Generate Image all draw from the monthly allotment, and partner models from other companies cost more credits per generation than Adobe's own Firefly models. Content-Aware Fill and Select Subject don't touch that balance, so a good habit is to try the free option first."
-              },
-              {
-                "t": "p",
-                "x": "Other tips cover scrubby-slider labels, clipping masks, the targeted Curves hand tool and cloud processing for cleaner Select Subject edges."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Photoshop의\nRemove는 크레딧 무료",
-          "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
-          "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "이제 Adobe는 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 어떤 기능이 크레딧을 쓰는지에 따라 편집의 자유도가 곧바로 달라진다."
-              },
-              {
-                "t": "p",
-                "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액 2,870을 확인한 뒤 Generative AI를 켜고 클라우드 처리를 고른 채로 거슬리는 요소 몇 개를 칠해 지운다. 그러고 잔액을 다시 본다. 숫자는 그대로다. AI 모델을 한 번 내려받고 나면 Photoshop은 이 도구를 오프라인 기기 처리로도 돌린다."
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓴다. 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액을 건드리지 않으니 무료 옵션부터 써 보는 습관을 들이는 편이 좋다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖에 scrubby-slider 레이블과 클리핑 마스크, Curves의 대상 지정 손 도구, Select Subject 가장자리를 더 깔끔하게 따는 클라우드 처리 팁도 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Photoshopの\nRemoveはクレジット不要",
-          "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
-          "mini_headline": "Removeツールはクレジット不要",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "AdobeはいまやPhotoshopの多くのAIツールを、毎月の生成クレジット枠から差し引いている。どの機能がその枠を消費するかを知っているかどうかで、どれだけ気兼ねなく編集できるかが直接変わる。"
-              },
-              {
-                "t": "p",
-                "x": "最初の驚きはRemoveツールだ。PHLEARNのAaron Naceはクレジット残高が2,870であることを確認し、Generative AIをオンにしてクラウド処理を選んだ状態で、いくつかの邪魔な要素を塗って消してから、もう一度残高を確かめる。数字は変わっていない。PhotoshopがAIモデルをダウンロードした後は、オフラインでもデバイス処理でこのツールを使える。"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Generative Expand、Generate Imageはいずれも月間の割り当てからクレジットを消費し、他社のパートナーモデルはAdobe自社のFireflyモデルより1回の生成あたりのクレジットが多い。Content-Aware FillとSelect Subjectは残高に影響しないため、まず無料の選択肢を試すのがよい習慣だ。"
-              },
-              {
-                "t": "p",
-                "x": "ほかにも、scrubby-sliderラベル、クリッピングマスク、Curvesのターゲット調整ハンドツール、Select Subjectの境界をよりきれいにするクラウド処理といったヒントを紹介している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Photoshop的\nRemove不耗生成积分",
-          "body": "Photoshop的Remove即使开启Generative AI和云端处理，也不耗积分。",
-          "mini_headline": "Remove工具不耗AI积分",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe如今将Photoshop的许多AI工具计入每月的生成积分额度，因此了解哪些功能会消耗额度，直接影响你能多自由地编辑。"
-              },
-              {
-                "t": "p",
-                "x": "第一个惊喜来自Remove工具。PHLEARN的Aaron Nace先确认积分余额为2,870，在开启Generative AI并选择云端处理的情况下涂抹去除几处干扰元素，然后再次查看。数字没有变化。Photoshop下载AI模型后，该工具还能离线使用设备端处理运行。"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Generative Expand和Generate Image都会消耗每月额度，而其他公司的合作伙伴模型每次生成消耗的积分比Adobe自家的Firefly模型更多。Content-Aware Fill和Select Subject不会动用余额，所以不妨养成先试免费选项的习惯。"
-              },
-              {
-                "t": "p",
-                "x": "其他技巧还包括scrubby-slider标签、剪贴蒙版、Curves的目标调整手形工具，以及借助云端处理让Select Subject边缘更干净。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Remove de Photoshop ahorra\ntus créditos generativos",
-          "body": "Remove, de Photoshop, no consume créditos generativos aun con Generative AI y el procesamiento en la nube activados.",
-          "mini_headline": "Remove no gasta créditos de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe ahora descuenta muchas de las herramientas de AI de Photoshop de una bolsa mensual de créditos generativos, así que saber qué funciones tiran de esa bolsa influye directamente en la libertad con la que se puede editar."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta Remove da la primera sorpresa. Aaron Nace, de PHLEARN, comprueba que su saldo de créditos es de 2,870, pinta sobre un puñado de distracciones con Generative AI activado y el procesamiento en la nube seleccionado, y vuelve a comprobarlo. La cifra no se ha movido. La herramienta también puede funcionar sin conexión con procesamiento en el dispositivo, una vez que Photoshop ha descargado el modelo de AI."
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Generative Expand y Generate Image consumen la asignación mensual, y los modelos de socios de otras empresas cuestan más créditos por generación que los modelos Firefly propios de Adobe. Content-Aware Fill y Select Subject no tocan ese saldo, así que conviene acostumbrarse a probar primero la opción gratuita."
-              },
-              {
-                "t": "p",
-                "x": "Otros consejos abarcan las etiquetas scrubby-slider, las máscaras de recorte, la herramienta de mano de ajuste selectivo de Curves y el procesamiento en la nube para obtener bordes más limpios con Select Subject."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Photoshop의\nRemove는 크레딧 무료",
-          "body": "Photoshop Remove는 Generative AI를 켜도 크레딧을 안 쓴다.",
-          "mini_headline": "Remove 도구, AI 크레딧 안 쓴다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 이제 Photoshop의 여러 AI 도구 사용량을 월간 생성 크레딧에서 차감한다. 그래서 어떤 기능이 크레딧을 쓰는지 알면 편집을 얼마나 자유롭게 할 수 있는지가 곧바로 달라진다."
-              },
-              {
-                "t": "p",
-                "x": "첫 번째 반전은 Remove 도구다. PHLEARN의 Aaron Nace는 크레딧 잔액이 2,870인 것을 확인한 뒤, Generative AI를 켜고 클라우드 처리를 선택한 상태로 거슬리는 요소 몇 개를 칠해 지우고 다시 잔액을 확인한다. 숫자는 그대로다. Photoshop이 AI 모델을 내려받은 뒤에는 오프라인에서 기기 처리로도 이 도구를 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Generative Expand, Generate Image는 모두 월간 할당량에서 크레딧을 쓰며, 다른 회사의 파트너 모델은 Adobe 자체 Firefly 모델보다 생성 1회당 크레딧이 더 든다. Content-Aware Fill과 Select Subject는 잔액에 손대지 않으므로, 무료 옵션부터 써 보는 습관을 들이면 좋다."
-              },
-              {
-                "t": "p",
-                "x": "그 밖에 scrubby-slider 레이블, 클리핑 마스크, Curves의 대상 지정 손 도구, 더 깔끔한 Select Subject 가장자리를 위한 클라우드 처리 팁도 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Photoshopの\nRemoveはクレジット不要",
-          "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
-          "mini_headline": "Removeツールはクレジット不要",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "AdobeはいまやPhotoshopの多くのAIツールを、毎月の生成クレジット枠から差し引いている。どの機能がその枠を消費するかを知っているかどうかで、どれだけ気兼ねなく編集できるかが直接変わる。"
-              },
-              {
-                "t": "p",
-                "x": "最初の驚きはRemoveツールだ。PHLEARNのAaron Naceはクレジット残高が2,870であることを確認し、Generative AIをオンにしてクラウド処理を選んだ状態で、いくつかの邪魔な要素を塗って消してから、もう一度残高を確かめる。数字は変わっていない。PhotoshopがAIモデルをダウンロードした後は、オフラインでもデバイス処理でこのツールを使える。"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Generative Expand、Generate Imageはいずれも月間の割り当てからクレジットを消費し、他社のパートナーモデルはAdobe自社のFireflyモデルより1回の生成あたりのクレジットが多い。Content-Aware FillとSelect Subjectは残高に影響しないため、まず無料の選択肢を試すのがよい習慣だ。"
-              },
-              {
-                "t": "p",
-                "x": "ほかにも、scrubby-sliderラベル、クリッピングマスク、Curvesのターゲット調整ハンドツール、Select Subjectの境界をよりきれいにするクラウド処理といったヒントを紹介している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Photoshop的\nRemove不耗生成积分",
-          "body": "Photoshop的Remove即使开启Generative AI和云端处理，也不耗积分。",
-          "mini_headline": "Remove工具不耗AI积分",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe如今将Photoshop的许多AI工具计入每月的生成积分额度，因此了解哪些功能会消耗额度，直接影响你能多自由地编辑。"
-              },
-              {
-                "t": "p",
-                "x": "第一个惊喜来自Remove工具。PHLEARN的Aaron Nace先确认积分余额为2,870，在开启Generative AI并选择云端处理的情况下涂抹去除几处干扰元素，然后再次查看。数字没有变化。Photoshop下载AI模型后，该工具还能离线使用设备端处理运行。"
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill、Generative Expand和Generate Image都会消耗每月额度，而其他公司的合作伙伴模型每次生成消耗的积分比Adobe自家的Firefly模型更多。Content-Aware Fill和Select Subject不会动用余额，所以不妨养成先试免费选项的习惯。"
-              },
-              {
-                "t": "p",
-                "x": "其他技巧还包括scrubby-slider标签、剪贴蒙版、Curves的目标调整手形工具，以及借助云端处理让Select Subject边缘更干净。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Remove de Photoshop ahorra\ntus créditos generativos",
-          "body": "Remove, de Photoshop, no consume créditos generativos aun con Generative AI y el procesamiento en la nube activados.",
-          "mini_headline": "Remove no gasta créditos de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "nmvewzc6MG4"
-              },
-              {
-                "t": "p",
-                "x": "Adobe ahora descuenta muchas de las herramientas de AI de Photoshop de una bolsa mensual de créditos generativos, así que saber qué funciones tiran de esa bolsa influye directamente en la libertad con la que se puede editar."
-              },
-              {
-                "t": "p",
-                "x": "La herramienta Remove da la primera sorpresa. Aaron Nace, de PHLEARN, comprueba que su saldo de créditos es de 2,870, pinta sobre un puñado de distracciones con Generative AI activado y el procesamiento en la nube seleccionado, y vuelve a comprobarlo. La cifra no se ha movido. La herramienta también puede funcionar sin conexión con procesamiento en el dispositivo, una vez que Photoshop ha descargado el modelo de AI."
-              },
-              {
-                "t": "p",
-                "x": "Generative Fill, Generative Expand y Generate Image consumen la asignación mensual, y los modelos de socios de otras empresas cuestan más créditos por generación que los modelos Firefly propios de Adobe. Content-Aware Fill y Select Subject no tocan ese saldo, así que conviene acostumbrarse a probar primero la opción gratuita."
-              },
-              {
-                "t": "p",
-                "x": "Otros consejos abarcan las etiquetas scrubby-slider, las máscaras de recorte, la herramienta de mano de ajuste selectivo de Curves y el procesamiento en la nube para obtener bordes más limpios con Select Subject."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "Figma 에이전트\n정식 출시",
+     "body": "정식 출시된 Figma 에이전트를 Uber·Granola·Atlassian이 쓴다.",
+     "mini_headline": "Figma 에이전트 GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "모바일 화면 위에 떠 있는 예시 프롬프트"
+       },
+       {
+        "t": "p",
+        "x": "Uber, Granola, Atlassian 팀이 정식 출시된 Figma 에이전트로 빠르면서도 완성도 높은 작업을 해내는 방법을 소개한다. 에이전트는 오늘 베타 딱지를 뗐다. 지시를 더 잘 따르고 오래 걸리는 작업도 더 잘 처리한다. 전문 디자이너가 채점에 참여한 Figma의 평가에서는 ~60%+의 비율로 이긴다. 라이브러리 소유자는 가이드라인, 즉 에이전트에게 디자인 시스템 맥락을 알려 주는 마크다운 파일을 추가할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "Uber 디자인 시스템 팀은 일곱 개 플랫폼에 컴포넌트를 공급한다. 이 팀은 /create-anatomy, /create-color 같은 스킬을 만들어 시스템을 문서화했다. 여러 사람이 몇 달씩 매달리던 문서를 이제 디자이너 한 명이 오후 한나절에 발행한다."
+       },
+       {
+        "t": "p",
+        "x": "Granola의 Product Designer Paavan Buddhdev는 Granola 커넥터로 회의록에서 뽑은 피드백을 에이전트가 캔버스에 주석으로 달게 한다. “시간을 엄청나게 아껴 줬다”는 게 그의 말이다."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan은 Figma 에이전트와 Granola 커넥터로 캔버스에 피드백을 주석으로 단다."
+       },
+       {
+        "t": "p",
+        "x": "Atlassian은 모션 에셋을 재사용 가능한 컴포넌트로 바꿨다. 디자이너는 에이전트의 도움을 받아 디자인 시스템 안에서 이징과 지속 시간을 거듭 다듬는다. Product Designer Davy Fung은 “정적 디자인을 다루던 디자이너들의 역량이 넓어졌다”고 말한다."
+       }
+      ]
+     }
     },
-    {
-      "id": "adobe-text-to-3d-patent",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Adobe Firefly\ntext-to-3D 특허",
-      "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
-      "mini_headline": "Adobe의 text-to-3D 특허",
-      "tool": "KeyShot",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-            "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
-          },
-          {
-            "t": "p",
-            "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-            "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
-          },
-          {
-            "t": "p",
-            "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Adobe patents point Firefly\ntoward text-to-3D worlds",
-          "body": "Newly published USPTO filings show Adobe seeking patents on text-to-3D world generation, a concept, not a shipped tool.",
-          "mini_headline": "Adobe's text-to-3D patents",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobe's text-to-3D world concept (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Adobe has rolled out a string of AI tools in recent years, from Firefly's image and video models to Photoshop's AI Relight. A large batch of newly published patent filings suggests where it could go next, including areas where Adobe has little presence today."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Adobe patent for an AI text-to-3D world generator (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Spotted by patent tracker Patentlyze, one USPTO filing describes a method for creating navigable 3D worlds from text. A prompt such as \"a foggy Japanese garden at dusk\" would first produce an intermediate spherical 2D image, like a 360 view, which a second AI process would then use as the basis for building 3D geometry. Users could view the result from multiple perspectives and move forwards and backwards through it."
-              },
-              {
-                "t": "p",
-                "x": "Building 3D environments today is slow, often requiring hundreds of sculpted and painted assets. Adobe's Substance apps cover parts of that pipeline, but Substance 3D Modeler remains niche next to ZBrush and Blender and has no Firefly-powered tools yet. The closest existing products, such as Blockade Labs' Skybox AI, generate 360-degree scenes rather than navigable environments."
-              },
-              {
-                "t": "p",
-                "x": "Other recent Adobe filings cover AI that builds new camera angles from a single photo, material matching across 3D models and 3D garment previews. Creative Bloq notes that a patent application doesn't necessarily signal plans to ship a product."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Adobe Firefly\ntext-to-3D 특허",
-          "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
-          "mini_headline": "Adobe의 text-to-3D 특허",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 최근 몇 년 동안 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 AI 도구를 잇달아 내놓았다. 이번에 무더기로 공개된 특허 출원을 보면 지금은 존재감이 거의 없는 분야까지 포함해 Adobe의 다음 행보를 짐작할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Adobe의 AI text-to-3D 세계 생성기 특허 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰 같은 구형 2D 중간 이미지가 나온다. 두 번째 AI 과정이 이 이미지를 토대로 3D 지오메트리를 쌓는다. 사용자는 결과물을 여러 시점에서 보고 그 안을 앞뒤로 오갈 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "지금은 3D 환경 제작이 느리다. 조각하고 채색한 에셋이 수백 개씩 필요한 경우도 많다. Adobe의 Substance 앱이 이 파이프라인 일부를 맡지만 Substance 3D Modeler는 ZBrush와 Blender에 비하면 아직 틈새 도구이고 Firefly-powered 도구도 없다. 가장 가까운 기존 제품인 Blockade Labs의 Skybox AI도 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe가 최근 낸 다른 출원에는 사진 한 장으로 새 카메라 앵글을 만드는 AI, 3D 모델 사이의 재질 매칭, 3D 의상 미리보기가 들어 있다. Creative Bloq는 특허를 출원했다고 해서 곧 제품을 내놓는다는 뜻은 아니라고 짚는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Adobe Firefly\ntext-to-3Dの特許",
-          "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
-          "mini_headline": "Adobeのtext-to-3D特許",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobeのtext-to-3Dワールド構想 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Adobeはここ数年、Fireflyの画像・動画モデルからPhotoshopのAI Relightまで、AIツールを次々と投入してきた。新たに公開された大量の特許出願は、Adobeが現在ほとんど存在感を持たない分野も含め、次に向かう先を示唆している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "AI text-to-3Dワールド生成器に関するAdobeの特許 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "特許トラッカーのPatentlyzeが見つけたUSPTO出願の一つは、テキストから移動可能な3Dワールドを作る手法を説明している。\"a foggy Japanese garden at dusk\"（夕暮れの霧がかった日本庭園）のようなプロンプトから、まず360ビューのような球状の中間2D画像を生成し、続く2段階目のAI処理がそれを基に3Dジオメトリを構築する。ユーザーは結果を複数の視点から眺め、その中を前後に移動できる。"
-              },
-              {
-                "t": "p",
-                "x": "現在、3D環境の構築には時間がかかり、彫刻・ペイントされたアセットが数百点必要になることも多い。AdobeのSubstanceアプリはそのパイプラインの一部を担うが、Substance 3D ModelerはZBrushやBlenderに比べてまだニッチで、Firefly-poweredのツールもない。Blockade LabsのSkybox AIなど最も近い既存製品は、移動可能な環境ではなく360-degreeのシーンを生成する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeの最近のほかの出願には、1枚の写真から新しいカメラアングルを作るAI、3Dモデル間のマテリアルマッチング、3D衣服プレビューなどがある。Creative Bloqは、特許出願が必ずしも製品化の計画を意味するわけではないと指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Adobe Firefly\ntext-to-3D专利曝光",
-          "body": "公开的USPTO文件显示Adobe申请text-to-3D世界生成专利，仅为概念而非产品。",
-          "mini_headline": "Adobe的text-to-3D专利",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobe的text-to-3D世界概念 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "近年来，Adobe接连推出多款AI工具，从Firefly的图像和视频模型到Photoshop的AI Relight。一批新公开的专利申请暗示了它的下一步方向，其中包括Adobe目前几乎没有涉足的领域。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Adobe关于AI text-to-3D世界生成器的专利 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "专利追踪平台Patentlyze发现的一份USPTO申请，描述了一种由文本生成可漫游3D世界的方法。输入\"a foggy Japanese garden at dusk\"（黄昏时雾气笼罩的日本庭园）这样的提示词后，系统会先生成类似360视图的球形2D中间图像，再由第二个AI流程以此为基础构建3D几何体。用户可以从多个视角查看结果，并在其中前后移动。"
-              },
-              {
-                "t": "p",
-                "x": "如今构建3D环境耗时较长，往往需要数以百计经过雕刻和绘制的资产。Adobe的Substance应用覆盖了这一流程的部分环节，但与ZBrush和Blender相比，Substance 3D Modeler仍属小众，也尚无Firefly-powered工具。最接近的现有产品，如Blockade Labs的Skybox AI，生成的是360-degree场景，而非可漫游的环境。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe近期的其他申请还涉及用单张照片生成新相机角度的AI、3D模型之间的材质匹配以及3D服装预览。Creative Bloq指出，专利申请并不一定意味着有推出产品的计划。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Patentes de Adobe llevan Firefly\nhacia mundos text-to-3D",
-          "body": "Nuevas solicitudes ante la USPTO muestran que Adobe busca patentar mundos text-to-3D: un concepto, no un producto.",
-          "mini_headline": "Las patentes text-to-3D de Adobe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Concepto de mundo text-to-3D de Adobe (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "En los últimos años, Adobe ha lanzado una serie de herramientas de AI, desde los modelos de imagen y video de Firefly hasta AI Relight de Photoshop. Un gran lote de solicitudes de patente recién publicadas sugiere hacia dónde podría ir después, incluidas áreas en las que Adobe tiene hoy poca presencia."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Patente de Adobe para un generador de mundos text-to-3D con AI (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Detectada por el rastreador de patentes Patentlyze, una solicitud ante la USPTO describe un método para crear mundos 3D navegables a partir de texto. Un prompt como \"a foggy Japanese garden at dusk\" (un jardín japonés con niebla al anochecer) produciría primero una imagen 2D esférica intermedia, como una vista 360, que un segundo proceso de AI usaría después como base para construir la geometría 3D. Los usuarios podrían ver el resultado desde varias perspectivas y avanzar y retroceder dentro de él."
-              },
-              {
-                "t": "p",
-                "x": "Hoy, construir entornos 3D es lento y a menudo exige cientos de recursos esculpidos y pintados. Las apps Substance de Adobe cubren partes de ese proceso, pero Substance 3D Modeler sigue siendo minoritario frente a ZBrush y Blender y aún no tiene herramientas Firefly-powered. Los productos existentes más cercanos, como Skybox AI de Blockade Labs, generan escenas 360-degree en lugar de entornos navegables."
-              },
-              {
-                "t": "p",
-                "x": "Otras solicitudes recientes de Adobe abarcan una AI que crea nuevos ángulos de cámara a partir de una sola foto, la correspondencia de materiales entre modelos 3D y vistas previas de prendas en 3D. Creative Bloq señala que una solicitud de patente no indica necesariamente planes de lanzar un producto."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Adobe Firefly\ntext-to-3D 특허",
-          "body": "USPTO에 Adobe의 text-to-3D 특허 출원이 공개됐지만 구상 단계다.",
-          "mini_headline": "Adobe의 text-to-3D 특허",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobe의 text-to-3D 세계 구상 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 최근 몇 년 사이 Firefly의 이미지·영상 모델부터 Photoshop의 AI Relight까지 여러 AI 도구를 잇달아 내놓았다. 새로 공개된 대량의 특허 출원은 Adobe가 지금은 거의 존재감이 없는 분야를 포함해 다음 행보를 짐작하게 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "AI text-to-3D 세계 생성기에 관한 Adobe 특허 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "특허 추적 서비스 Patentlyze가 찾아낸 USPTO 출원서 하나는 텍스트로 탐색 가능한 3D 세계를 만드는 방법을 설명한다. \"a foggy Japanese garden at dusk\"(해 질 녘 안개 낀 일본 정원) 같은 프롬프트를 넣으면 먼저 360 뷰와 같은 구형 2D 중간 이미지가 만들어지고, 두 번째 AI 과정이 이를 바탕으로 3D 지오메트리를 구축한다. 사용자는 결과물을 여러 시점에서 보고 그 안에서 앞뒤로 이동할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "오늘날 3D 환경 제작은 느리고, 조각하고 채색한 에셋이 수백 개씩 필요한 경우가 많다. Adobe의 Substance 앱이 이 파이프라인의 일부를 다루지만, Substance 3D Modeler는 ZBrush와 Blender에 비해 여전히 틈새 도구이고 Firefly-powered 도구도 아직 없다. Blockade Labs의 Skybox AI처럼 가장 가까운 기존 제품은 탐색 가능한 환경이 아니라 360-degree 장면을 생성한다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe의 다른 최근 출원에는 사진 한 장으로 새로운 카메라 앵글을 만드는 AI, 3D 모델 간 재질 매칭, 3D 의상 미리보기가 담겼다. Creative Bloq는 특허 출원이 곧 제품 출시 계획을 뜻하지는 않는다고 짚는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Adobe Firefly\ntext-to-3Dの特許",
-          "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
-          "mini_headline": "Adobeのtext-to-3D特許",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobeのtext-to-3Dワールド構想 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Adobeはここ数年、Fireflyの画像・動画モデルからPhotoshopのAI Relightまで、AIツールを次々と投入してきた。新たに公開された大量の特許出願は、Adobeが現在ほとんど存在感を持たない分野も含め、次に向かう先を示唆している。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "AI text-to-3Dワールド生成器に関するAdobeの特許 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "特許トラッカーのPatentlyzeが見つけたUSPTO出願の一つは、テキストから移動可能な3Dワールドを作る手法を説明している。\"a foggy Japanese garden at dusk\"（夕暮れの霧がかった日本庭園）のようなプロンプトから、まず360ビューのような球状の中間2D画像を生成し、続く2段階目のAI処理がそれを基に3Dジオメトリを構築する。ユーザーは結果を複数の視点から眺め、その中を前後に移動できる。"
-              },
-              {
-                "t": "p",
-                "x": "現在、3D環境の構築には時間がかかり、彫刻・ペイントされたアセットが数百点必要になることも多い。AdobeのSubstanceアプリはそのパイプラインの一部を担うが、Substance 3D ModelerはZBrushやBlenderに比べてまだニッチで、Firefly-poweredのツールもない。Blockade LabsのSkybox AIなど最も近い既存製品は、移動可能な環境ではなく360-degreeのシーンを生成する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeの最近のほかの出願には、1枚の写真から新しいカメラアングルを作るAI、3Dモデル間のマテリアルマッチング、3D衣服プレビューなどがある。Creative Bloqは、特許出願が必ずしも製品化の計画を意味するわけではないと指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Adobe Firefly\ntext-to-3D专利曝光",
-          "body": "公开的USPTO文件显示Adobe申请text-to-3D世界生成专利，仅为概念而非产品。",
-          "mini_headline": "Adobe的text-to-3D专利",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Adobe的text-to-3D世界概念 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "近年来，Adobe接连推出多款AI工具，从Firefly的图像和视频模型到Photoshop的AI Relight。一批新公开的专利申请暗示了它的下一步方向，其中包括Adobe目前几乎没有涉足的领域。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Adobe关于AI text-to-3D世界生成器的专利 (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "专利追踪平台Patentlyze发现的一份USPTO申请，描述了一种由文本生成可漫游3D世界的方法。输入\"a foggy Japanese garden at dusk\"（黄昏时雾气笼罩的日本庭园）这样的提示词后，系统会先生成类似360视图的球形2D中间图像，再由第二个AI流程以此为基础构建3D几何体。用户可以从多个视角查看结果，并在其中前后移动。"
-              },
-              {
-                "t": "p",
-                "x": "如今构建3D环境耗时较长，往往需要数以百计经过雕刻和绘制的资产。Adobe的Substance应用覆盖了这一流程的部分环节，但与ZBrush和Blender相比，Substance 3D Modeler仍属小众，也尚无Firefly-powered工具。最接近的现有产品，如Blockade Labs的Skybox AI，生成的是360-degree场景，而非可漫游的环境。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe近期的其他申请还涉及用单张照片生成新相机角度的AI、3D模型之间的材质匹配以及3D服装预览。Creative Bloq指出，专利申请并不一定意味着有推出产品的计划。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Patentes de Adobe llevan Firefly\nhacia mundos text-to-3D",
-          "body": "Nuevas solicitudes ante la USPTO muestran que Adobe busca patentar mundos text-to-3D: un concepto, no un producto.",
-          "mini_headline": "Las patentes text-to-3D de Adobe",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-                "cap": "Concepto de mundo text-to-3D de Adobe (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "En los últimos años, Adobe ha lanzado una serie de herramientas de AI, desde los modelos de imagen y video de Firefly hasta AI Relight de Photoshop. Un gran lote de solicitudes de patente recién publicadas sugiere hacia dónde podría ir después, incluidas áreas en las que Adobe tiene hoy poca presencia."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uMs7FHnnDGSmTB9YzQQYtb-1920-80.webp",
-                "cap": "Patente de Adobe para un generador de mundos text-to-3D con AI (Image: Adobe / USPTO)"
-              },
-              {
-                "t": "p",
-                "x": "Detectada por el rastreador de patentes Patentlyze, una solicitud ante la USPTO describe un método para crear mundos 3D navegables a partir de texto. Un prompt como \"a foggy Japanese garden at dusk\" (un jardín japonés con niebla al anochecer) produciría primero una imagen 2D esférica intermedia, como una vista 360, que un segundo proceso de AI usaría después como base para construir la geometría 3D. Los usuarios podrían ver el resultado desde varias perspectivas y avanzar y retroceder dentro de él."
-              },
-              {
-                "t": "p",
-                "x": "Hoy, construir entornos 3D es lento y a menudo exige cientos de recursos esculpidos y pintados. Las apps Substance de Adobe cubren partes de ese proceso, pero Substance 3D Modeler sigue siendo minoritario frente a ZBrush y Blender y aún no tiene herramientas Firefly-powered. Los productos existentes más cercanos, como Skybox AI de Blockade Labs, generan escenas 360-degree en lugar de entornos navegables."
-              },
-              {
-                "t": "p",
-                "x": "Otras solicitudes recientes de Adobe abarcan una AI que crea nuevos ángulos de cámara a partir de una sola foto, la correspondencia de materiales entre modelos 3D y vistas previas de prendas en 3D. Creative Bloq señala que una solicitud de patente no indica necesariamente planes de lanzar un producto."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "Figmaのエージェント\n一般提供を開始",
+     "body": "一般提供されたFigmaエージェントをUber、Granola、Atlassianが使う。",
+     "mini_headline": "FigmaエージェントがGAに",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "モバイル画面の上に浮かぶプロンプトの例"
+       },
+       {
+        "t": "p",
+        "x": "Uber、Granola、Atlassianのチームが、一般提供が始まったFigmaのエージェントで質が高くスピードの速い仕事をどう支えているかを紹介する。エージェントは本日ベータを終え、指示への追従や長時間かかるタスクの処理が向上した。プロのデザイナーが参加したFigmaの人間による評価では、~60%+で勝っている。ライブラリのオーナーは、デザインシステムの文脈をエージェントに与えるマークダウンファイル、つまりガイドラインを追加できる。"
+       },
+       {
+        "t": "p",
+        "x": "七つのプラットフォームにコンポーネントを提供するUberのデザインシステムチームは、/create-anatomyや/create-colorといったスキルを作り、システムを文書化した。かつて複数人で数カ月かかったドキュメントを、今ではデザイナー一人が午後のうちに公開する。"
+       },
+       {
+        "t": "p",
+        "x": "GranolaのProduct DesignerであるPaavan Buddhdevは、Granolaコネクタを使い、議事録から抜き出したフィードバックをエージェントにキャンバス上の注釈として書き込ませている。「大幅な時間の節約になった」と彼は言う。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "PaavanはFigmaのエージェントとGranolaコネクタを使い、キャンバスにフィードバックを注釈として加えている。"
+       },
+       {
+        "t": "p",
+        "x": "Atlassianはモーション素材を再利用可能なコンポーネントに変え、エージェントはデザインシステム内でデザイナーがイージングやデュレーションを繰り返し調整するのを手助けしている。「静的なデザインを扱うデザイナーにとって、スキルの幅が広がった」とProduct DesignerのDavy Fungは語る。"
+       }
+      ]
+     }
     },
-    {
-      "id": "apple-macos-ai-agent-full-disk-access-warning",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Apple, AI Full\nDisk Access 경고",
-      "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
-      "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
-      "tool": "AI Workflow",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-            "cap": "Credit: Apple"
-          },
-          {
-            "t": "p",
-            "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
-          },
-          {
-            "t": "p",
-            "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
-          },
-          {
-            "t": "p",
-            "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
-          },
-          {
-            "t": "p",
-            "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Apple warns against giving\nAI agents Full Disk Access",
-          "body": "Apple has warned users against giving AI agents Full Disk Access on macOS and promised new controls.",
-          "mini_headline": "Apple flags AI agent disk access",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple has posted an “Updates to Full Disk Access in macOS” notice on its Apple Developer page, warning against giving AI agents Full Disk Access in ways that could put users at risk."
-              },
-              {
-                "t": "p",
-                "x": "Apple says some developers are using Full Disk Access in ways that expose everything on users' systems—including files, mail, messages, and even browsing history—without users' full knowledge and understanding."
-              },
-              {
-                "t": "p",
-                "x": "“Going forward, we will introduce additional controls to ensure that users who genuinely wish to grant an app this extraordinary level of access can only do so with very explicit user action. Addressing this is critical. As AI agents become increasingly capable and autonomous, the risks associated with this level of access will grow substantially.”"
-              },
-              {
-                "t": "p",
-                "x": "Until those controls arrive, No Film School notes the risk can be avoided by not giving AI agents that access at all."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Apple, AI Full\nDisk Access 경고",
-          "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
-          "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올렸다. 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라는 경고다."
-              },
-              {
-                "t": "p",
-                "x": "Apple에 따르면 일부 개발자는 Full Disk Access로 파일과 메일, 메시지, 방문 기록까지 사용자 시스템의 모든 것을 노출하고 있다. 정작 사용자는 이를 충분히 알지도, 이해하지도 못한 상태다."
-              },
-              {
-                "t": "p",
-                "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않으면 위험을 피할 수 있다고 전한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple、AIへのFull\nDisk Accessを警告",
-          "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
-          "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "AppleはApple Developerページに「Updates to Full Disk Access in macOS」という告知を掲載し、ユーザーを危険にさらしかねない形でAIエージェントにFull Disk Accessを与えないよう警告した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleによると、一部の開発者はFull Disk Accessを利用し、ファイル、メール、メッセージ、さらには閲覧履歴まで、ユーザーのシステム上のあらゆるものを、ユーザーが十分に認識・理解しないまま露出させているという。"
-              },
-              {
-                "t": "p",
-                "x": "「今後、この並外れたレベルのアクセスを本当にアプリに許可したいユーザーが、極めて明示的な操作によってのみそれを行えるよう、追加の制御を導入する。この問題への対処は極めて重要だ。AIエージェントの能力と自律性が高まるにつれ、このレベルのアクセスに伴うリスクは大幅に増大する」"
-              },
-              {
-                "t": "p",
-                "x": "No Film Schoolは、その制御が導入されるまでは、AIエージェントにそもそもそのアクセスを与えないことでリスクを避けられると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple警告AI的Full\nDisk Access权限",
-          "body": "Apple警告勿在macOS上授予AI智能体Full Disk Access，并承诺新管控。",
-          "mini_headline": "Apple警示AI智能体磁盘访问",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple在Apple Developer页面发布了题为“Updates to Full Disk Access in macOS”的通知，警告不要以可能让用户面临风险的方式授予AI智能体Full Disk Access。"
-              },
-              {
-                "t": "p",
-                "x": "Apple表示，一些开发者使用Full Disk Access的方式，会在用户并不完全知情和理解的情况下，暴露其系统上的一切，包括文件、邮件、信息，甚至浏览记录。"
-              },
-              {
-                "t": "p",
-                "x": "“今后，我们将引入更多管控措施，确保真正希望授予应用这种非同寻常访问级别的用户，只能通过非常明确的用户操作来实现。解决这一问题至关重要。随着AI智能体日益强大和自主，这种访问级别带来的风险将大幅增加。”"
-              },
-              {
-                "t": "p",
-                "x": "No Film School指出，在这些管控措施推出之前，完全不给AI智能体这种访问权限，就能规避风险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apple desaconseja dar a agentes\nde AI el Full Disk Access",
-          "body": "Apple advirtió a los usuarios que no den Full Disk Access a agentes de AI en macOS y prometió nuevos controles.",
-          "mini_headline": "Apple alerta sobre el acceso al disco de agentes de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple ha publicado un aviso titulado “Updates to Full Disk Access in macOS” en su página de Apple Developer, en el que advierte contra dar a los agentes de AI Full Disk Access de maneras que podrían poner en riesgo a los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Apple afirma que algunos desarrolladores usan Full Disk Access de formas que exponen todo lo que hay en los sistemas de los usuarios —incluidos archivos, correo, mensajes e incluso el historial de navegación— sin que los usuarios lo sepan ni lo entiendan del todo."
-              },
-              {
-                "t": "p",
-                "x": "“En adelante, introduciremos controles adicionales para garantizar que los usuarios que de verdad deseen conceder a una app este nivel extraordinario de acceso solo puedan hacerlo mediante una acción muy explícita. Resolver esto es fundamental. A medida que los agentes de AI se vuelvan cada vez más capaces y autónomos, los riesgos asociados a este nivel de acceso crecerán de forma considerable.”"
-              },
-              {
-                "t": "p",
-                "x": "Hasta que lleguen esos controles, No Film School señala que el riesgo puede evitarse no dando a los agentes de AI ese acceso en absoluto."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Apple, AI Full\nDisk Access 경고",
-          "body": "Apple은 macOS에서 AI에 Full Disk Access 부여를 경고했다.",
-          "mini_headline": "Apple, AI 에이전트 디스크 접근 경고",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple은 Apple Developer 페이지에 “Updates to Full Disk Access in macOS”라는 공지를 올려, 사용자를 위험에 빠뜨릴 수 있는 방식으로 AI 에이전트에 Full Disk Access를 주지 말라고 경고했다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 일부 개발자가 Full Disk Access를 이용해 파일, 메일, 메시지, 심지어 방문 기록까지 사용자 시스템의 모든 것을 사용자가 충분히 알고 이해하지 못한 상태에서 노출하고 있다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "“앞으로 이처럼 이례적인 수준의 접근 권한을 앱에 진심으로 부여하려는 사용자가 매우 명시적인 조작을 거쳐야만 그렇게 할 수 있도록 추가 통제 장치를 도입할 것이다. 이 문제를 해결하는 일은 매우 중요하다. AI 에이전트의 능력과 자율성이 커질수록 이 수준의 접근에 따르는 위험도 크게 늘어날 것이다.”"
-              },
-              {
-                "t": "p",
-                "x": "No Film School은 이 통제 장치가 나오기 전까지는 AI 에이전트에 그런 접근 권한을 아예 주지 않는 것으로 위험을 피할 수 있다고 전한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple、AIへのFull\nDisk Accessを警告",
-          "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
-          "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "AppleはApple Developerページに「Updates to Full Disk Access in macOS」という告知を掲載し、ユーザーを危険にさらしかねない形でAIエージェントにFull Disk Accessを与えないよう警告した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleによると、一部の開発者はFull Disk Accessを利用し、ファイル、メール、メッセージ、さらには閲覧履歴まで、ユーザーのシステム上のあらゆるものを、ユーザーが十分に認識・理解しないまま露出させているという。"
-              },
-              {
-                "t": "p",
-                "x": "「今後、この並外れたレベルのアクセスを本当にアプリに許可したいユーザーが、極めて明示的な操作によってのみそれを行えるよう、追加の制御を導入する。この問題への対処は極めて重要だ。AIエージェントの能力と自律性が高まるにつれ、このレベルのアクセスに伴うリスクは大幅に増大する」"
-              },
-              {
-                "t": "p",
-                "x": "No Film Schoolは、その制御が導入されるまでは、AIエージェントにそもそもそのアクセスを与えないことでリスクを避けられると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple警告AI的Full\nDisk Access权限",
-          "body": "Apple警告勿在macOS上授予AI智能体Full Disk Access，并承诺新管控。",
-          "mini_headline": "Apple警示AI智能体磁盘访问",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple在Apple Developer页面发布了题为“Updates to Full Disk Access in macOS”的通知，警告不要以可能让用户面临风险的方式授予AI智能体Full Disk Access。"
-              },
-              {
-                "t": "p",
-                "x": "Apple表示，一些开发者使用Full Disk Access的方式，会在用户并不完全知情和理解的情况下，暴露其系统上的一切，包括文件、邮件、信息，甚至浏览记录。"
-              },
-              {
-                "t": "p",
-                "x": "“今后，我们将引入更多管控措施，确保真正希望授予应用这种非同寻常访问级别的用户，只能通过非常明确的用户操作来实现。解决这一问题至关重要。随着AI智能体日益强大和自主，这种访问级别带来的风险将大幅增加。”"
-              },
-              {
-                "t": "p",
-                "x": "No Film School指出，在这些管控措施推出之前，完全不给AI智能体这种访问权限，就能规避风险。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apple desaconseja dar a agentes\nde AI el Full Disk Access",
-          "body": "Apple advirtió a los usuarios que no den Full Disk Access a agentes de AI en macOS y prometió nuevos controles.",
-          "mini_headline": "Apple alerta sobre el acceso al disco de agentes de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/apples-full-disk-access-statement.jpg?id=68053614&width=1245&height=700&quality=50&coordinates=0%2C0%2C0%2C0",
-                "cap": "Credit: Apple"
-              },
-              {
-                "t": "p",
-                "x": "Apple ha publicado un aviso titulado “Updates to Full Disk Access in macOS” en su página de Apple Developer, en el que advierte contra dar a los agentes de AI Full Disk Access de maneras que podrían poner en riesgo a los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Apple afirma que algunos desarrolladores usan Full Disk Access de formas que exponen todo lo que hay en los sistemas de los usuarios —incluidos archivos, correo, mensajes e incluso el historial de navegación— sin que los usuarios lo sepan ni lo entiendan del todo."
-              },
-              {
-                "t": "p",
-                "x": "“En adelante, introduciremos controles adicionales para garantizar que los usuarios que de verdad deseen conceder a una app este nivel extraordinario de acceso solo puedan hacerlo mediante una acción muy explícita. Resolver esto es fundamental. A medida que los agentes de AI se vuelvan cada vez más capaces y autónomos, los riesgos asociados a este nivel de acceso crecerán de forma considerable.”"
-              },
-              {
-                "t": "p",
-                "x": "Hasta que lleguen esos controles, No Film School señala que el riesgo puede evitarse no dando a los agentes de AI ese acceso en absoluto."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "Figma 智能体\n正式全面上线",
+     "body": "Figma 智能体已全面上线，Uber、Granola 和 Atlassian 都在使用。",
+     "mini_headline": "Figma 智能体进入 GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "示例提示词悬浮在手机屏幕上方"
+       },
+       {
+        "t": "p",
+        "x": "来看看 Uber、Granola 和 Atlassian 的团队如何借助现已全面上线的 Figma 智能体，支撑高质量、快节奏的工作。智能体今天结束 beta，更擅长遵循指令和处理耗时更长的任务；在 Figma 由专业设计师参与的人工评测中，它的胜率为 ~60%+。库所有者可以添加指南，即为智能体提供设计系统上下文的 markdown 文件。"
+       },
+       {
+        "t": "p",
+        "x": "Uber 的设计系统团队为七个平台交付组件，他们打造了 /create-anatomy 和 /create-color 等技能来记录这套系统。过去需要多人花几个月完成的文档，如今一位设计师一个下午就能发布。"
+       },
+       {
+        "t": "p",
+        "x": "在 Granola，Product Designer Paavan Buddhdev 使用 Granola 连接器，让智能体把从会议记录中提取的反馈以注释形式标在画布上。他说：“这为我们节省了大量时间。”"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan 将 Granola 连接器与 Figma 智能体配合使用，把反馈作为注释添加到画布上。"
+       },
+       {
+        "t": "p",
+        "x": "Atlassian 把动效素材变成了可复用组件，智能体帮助设计师在其设计系统内反复调整缓动和时长。Product Designer Davy Fung 说：“对于做静态设计的设计师来说，我们的技能更全面了。”"
+       }
+      ]
+     }
     },
-    {
-      "id": "uxcollective-ai-skill-atrophy-essay",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
-      "body": "이 에세이는 AI가 지능이 아니라 지능을 쓰는 연습을 줄인다고 본다.",
-      "mini_headline": "AI와 스킬 위축",
-      "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-            "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
-          },
-          {
-            "t": "p",
-            "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
-          },
-          {
-            "t": "p",
-            "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "What we stop practising\nwhen AI does the thinking",
-          "body": "The essay argues AI is not making us less intelligent but reducing the amount of intelligence we practise.",
-          "mini_headline": "AI and skill atrophy",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "When cognitive offloading becomes unlearning (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AI is not making us less intelligent. It is reducing the amount of intelligence we practise. The real problem is that we can slowly forget how to do things we no longer have to do."
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski looks at AI skill atrophy and cognitive offloading: what happens when we outsource the thinking, judgement, and struggle that made those skills ours in the first place."
-              },
-              {
-                "t": "p",
-                "x": "The essay opens with phone numbers. Nobody decided to stop memorising them; the capacity just quietly stopped being used, and then quietly stopped being there. Handing a skill to a machine does not feel like a loss. It feels like an improvement."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
-          "body": "이 에세이는 AI가 지능이 아니라 지능을 쓰는 연습을 줄인다고 본다.",
-          "mini_headline": "AI와 스킬 위축",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AI가 우리를 덜 지적으로 만들지는 않는다. 우리가 연습하는 지능의 양을 줄일 뿐이다. 진짜 문제는 따로 있다. 더는 할 필요가 없는 일을 하는 법을 우리가 서서히 잊을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski는 AI가 부르는 스킬 위축과 인지적 오프로딩을 들여다본다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 바깥에 맡기면 무슨 일이 생기는지 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "에세이는 전화번호 이야기로 시작한다. 번호 외우기를 그만두자고 마음먹은 사람은 없다. 그 능력은 그저 조용히 안 쓰이게 됐고 그러다 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실로 느껴지지 않는다. 오히려 나아진 것처럼 느껴진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
-          "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
-          "mini_headline": "AIとスキルの衰え",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "認知的オフロードが忘却に変わるとき (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AIは私たちの知性を低下させているわけではない。私たちが鍛える知性の量を減らしているのだ。本当の問題は、もうやる必要のなくなったことのやり方を、少しずつ忘れてしまいかねない点にある。"
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonskiは、AIによるスキルの衰えと認知的オフロードを考察する。そもそもそのスキルを自分のものにしてくれた思考、判断、苦闘を外部に委ねたとき、何が起きるのか。"
-              },
-              {
-                "t": "p",
-                "x": "エッセイは電話番号の話から始まる。誰も番号を覚えるのをやめようと決めたわけではない。その能力はただ静かに使われなくなり、やがて静かに消えていった。スキルを機械に手渡すことは、損失のようには感じられない。むしろ改善のように感じられる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "当AI替我们思考\n我们不再练习什么",
-          "body": "文章认为，AI并未让我们变笨，而是减少了我们练习智力的机会。",
-          "mini_headline": "AI与技能退化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "当认知卸载变成遗忘 (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AI并没有让我们变得不那么聪明，而是在减少我们练习智力的量。真正的问题在于，对于那些不再需要亲自做的事，我们可能会慢慢忘记该怎么做。"
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski探讨了AI带来的技能退化与认知卸载：当我们把最初让这些技能成为自己一部分的思考、判断和挣扎外包出去时，会发生什么。"
-              },
-              {
-                "t": "p",
-                "x": "文章从电话号码谈起。没有人决定不再记号码；这种能力只是悄悄地不再被使用，随后又悄悄地消失了。把一项技能交给机器，并不让人觉得是一种损失，反而像是一种进步。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lo que dejamos de practicar\ncuando la AI piensa por nosotros",
-          "body": "El ensayo sostiene que la AI no nos vuelve menos inteligentes, sino que reduce la inteligencia que practicamos.",
-          "mini_headline": "La AI y la atrofia de habilidades",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "Cuando la descarga cognitiva se convierte en desaprendizaje (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "La AI no nos está volviendo menos inteligentes. Está reduciendo la cantidad de inteligencia que practicamos. El verdadero problema es que podemos olvidar poco a poco cómo hacer cosas que ya no tenemos que hacer."
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski analiza la atrofia de habilidades por la AI y la descarga cognitiva: qué ocurre cuando delegamos el pensamiento, el juicio y el esfuerzo que, en primer lugar, hicieron nuestras esas habilidades."
-              },
-              {
-                "t": "p",
-                "x": "El ensayo empieza con los números de teléfono. Nadie decidió dejar de memorizarlos; esa capacidad simplemente dejó de usarse en silencio y, después, en silencio dejó de existir. Ceder una habilidad a una máquina no se siente como una pérdida. Se siente como una mejora."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 생각을 대신할 때\n우리가 멈추는 연습",
-          "body": "이 에세이는 AI가 지능을 줄이는 게 아니라 지능을 쓰는 연습을 줄인다고 본다.",
-          "mini_headline": "AI와 스킬 위축",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "인지적 오프로딩이 망각으로 바뀔 때 (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AI가 우리를 덜 지적으로 만드는 것은 아니다. 우리가 연습하는 지능의 양을 줄이고 있을 뿐이다. 진짜 문제는 더 이상 할 필요가 없는 일을 하는 법을 서서히 잊을 수 있다는 점이다."
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski는 AI로 인한 스킬 위축과 인지적 오프로딩을 살핀다. 애초에 그 기술을 우리 것으로 만들어 준 사고와 판단, 분투를 외부에 맡기면 어떤 일이 벌어지는지 묻는다."
-              },
-              {
-                "t": "p",
-                "x": "에세이는 전화번호 이야기로 시작한다. 누구도 번호 외우기를 그만두기로 결심하지 않았다. 그 능력은 그저 조용히 쓰이지 않게 됐고, 이어 조용히 사라졌다. 기술을 기계에 넘기는 일은 손실처럼 느껴지지 않는다. 오히려 개선처럼 느껴진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
-          "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
-          "mini_headline": "AIとスキルの衰え",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "認知的オフロードが忘却に変わるとき (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AIは私たちの知性を低下させているわけではない。私たちが鍛える知性の量を減らしているのだ。本当の問題は、もうやる必要のなくなったことのやり方を、少しずつ忘れてしまいかねない点にある。"
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonskiは、AIによるスキルの衰えと認知的オフロードを考察する。そもそもそのスキルを自分のものにしてくれた思考、判断、苦闘を外部に委ねたとき、何が起きるのか。"
-              },
-              {
-                "t": "p",
-                "x": "エッセイは電話番号の話から始まる。誰も番号を覚えるのをやめようと決めたわけではない。その能力はただ静かに使われなくなり、やがて静かに消えていった。スキルを機械に手渡すことは、損失のようには感じられない。むしろ改善のように感じられる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "当AI替我们思考\n我们不再练习什么",
-          "body": "文章认为，AI并未让我们变笨，而是减少了我们练习智力的机会。",
-          "mini_headline": "AI与技能退化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "当认知卸载变成遗忘 (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "AI并没有让我们变得不那么聪明，而是在减少我们练习智力的量。真正的问题在于，对于那些不再需要亲自做的事，我们可能会慢慢忘记该怎么做。"
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski探讨了AI带来的技能退化与认知卸载：当我们把最初让这些技能成为自己一部分的思考、判断和挣扎外包出去时，会发生什么。"
-              },
-              {
-                "t": "p",
-                "x": "文章从电话号码谈起。没有人决定不再记号码；这种能力只是悄悄地不再被使用，随后又悄悄地消失了。把一项技能交给机器，并不让人觉得是一种损失，反而像是一种进步。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lo que dejamos de practicar\ncuando la AI piensa por nosotros",
-          "body": "El ensayo sostiene que la AI no nos vuelve menos inteligentes, sino que reduce la inteligencia que practicamos.",
-          "mini_headline": "La AI y la atrofia de habilidades",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1400/1*1dmBzmwrSPJqkQJa9oTRVg.png",
-                "cap": "Cuando la descarga cognitiva se convierte en desaprendizaje (Visualization by Slava Polonski)"
-              },
-              {
-                "t": "p",
-                "x": "La AI no nos está volviendo menos inteligentes. Está reduciendo la cantidad de inteligencia que practicamos. El verdadero problema es que podemos olvidar poco a poco cómo hacer cosas que ya no tenemos que hacer."
-              },
-              {
-                "t": "p",
-                "x": "Slava Polonski analiza la atrofia de habilidades por la AI y la descarga cognitiva: qué ocurre cuando delegamos el pensamiento, el juicio y el esfuerzo que, en primer lugar, hicieron nuestras esas habilidades."
-              },
-              {
-                "t": "p",
-                "x": "El ensayo empieza con los números de teléfono. Nadie decidió dejar de memorizarlos; esa capacidad simplemente dejó de usarse en silencio y, después, en silencio dejó de existir. Ceder una habilidad a una máquina no se siente como una pérdida. Se siente como una mejora."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "El agente de Figma entra en\ndisponibilidad general",
+     "body": "El agente de Figma ya está disponible para todos, y Uber, Granola y Atlassian lo usan para trabajar rápido y bien.",
+     "mini_headline": "El agente de Figma llega a GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Ejemplos de prompts flotan sobre una pantalla móvil"
+       },
+       {
+        "t": "p",
+        "x": "Así es como los equipos de Uber, Granola y Atlassian sostienen un trabajo rápido y de alta calidad con el agente de Figma, ya disponible de forma general. Hoy el agente sale de la beta: sigue mejor las instrucciones y gestiona mejor las tareas de larga duración, y gana en ~60%+ de las evaluaciones de Figma calificadas por diseñadores profesionales. Los responsables de bibliotecas pueden añadir directrices: archivos markdown que dan al agente contexto sobre su sistema de diseño."
+       },
+       {
+        "t": "p",
+        "x": "El equipo de sistemas de diseño de Uber, que entrega componentes en siete plataformas, creó skills como /create-anatomy y /create-color para documentar su sistema. Una documentación que antes llevaba meses a varias personas ahora la publica un solo diseñador en una tarde."
+       },
+       {
+        "t": "p",
+        "x": "En Granola, el Product Designer Paavan Buddhdev usa el conector de Granola para que el agente anote el lienzo con comentarios extraídos de las notas de reuniones. “Nos ha ahorrado muchísimo tiempo”, dice."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan usa el conector de Granola con el agente de Figma para añadir comentarios en el lienzo como anotaciones."
+       },
+       {
+        "t": "p",
+        "x": "Atlassian convirtió sus recursos de movimiento en componentes reutilizables, y el agente ayuda a los diseñadores a iterar el easing y la duración dentro de su sistema de diseño. “Para los diseñadores que trabajan con diseños estáticos, nuestras habilidades han aumentado”, dice el Product Designer Davy Fung."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Figma 에이전트\n정식 출시",
+     "body": "정식 출시된 Figma 에이전트를 Uber·Granola·Atlassian이 쓴다.",
+     "mini_headline": "Figma 에이전트 GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "모바일 화면 위에 떠 있는 예시 프롬프트"
+       },
+       {
+        "t": "p",
+        "x": "Uber, Granola, Atlassian 팀이 정식 출시된 Figma 에이전트로 빠르고 완성도 높은 작업을 어떻게 뒷받침하는지 소개한다. 에이전트는 오늘 베타를 벗어났고, 지시를 더 잘 따르며 오래 걸리는 작업도 더 잘 처리한다. 전문 디자이너가 참여한 Figma의 사람 채점 평가에서는 ~60%+의 비율로 이긴다. 라이브러리 소유자는 에이전트에게 디자인 시스템 맥락을 알려 주는 마크다운 파일, 곧 가이드라인을 추가할 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "일곱 개 플랫폼에 컴포넌트를 공급하는 Uber 디자인 시스템 팀은 /create-anatomy, /create-color 같은 스킬을 만들어 시스템을 문서화했다. 예전에는 여러 사람이 몇 달 걸리던 문서를 이제 디자이너 한 명이 오후 한나절에 발행한다."
+       },
+       {
+        "t": "p",
+        "x": "Granola의 Product Designer Paavan Buddhdev는 Granola 커넥터를 써서 에이전트가 회의록에서 뽑은 피드백을 캔버스에 주석으로 달게 한다. 그는 “시간을 엄청나게 아껴 줬다”고 말한다."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan은 Figma 에이전트와 Granola 커넥터로 캔버스에 피드백을 주석으로 추가한다."
+       },
+       {
+        "t": "p",
+        "x": "Atlassian은 모션 에셋을 재사용 가능한 컴포넌트로 바꿨고, 에이전트는 디자이너가 디자인 시스템 안에서 이징과 지속 시간을 반복해 다듬도록 돕는다. Product Designer Davy Fung은 “정적 디자인을 다루던 디자이너들의 역량이 넓어졌다”고 말한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Figmaのエージェント\n一般提供を開始",
+     "body": "一般提供されたFigmaエージェントをUber、Granola、Atlassianが使う。",
+     "mini_headline": "FigmaエージェントがGAに",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "モバイル画面の上に浮かぶプロンプトの例"
+       },
+       {
+        "t": "p",
+        "x": "Uber、Granola、Atlassianのチームが、一般提供が始まったFigmaのエージェントで質が高くスピードの速い仕事をどう支えているかを紹介する。エージェントは本日ベータを終え、指示への追従や長時間かかるタスクの処理が向上した。プロのデザイナーが参加したFigmaの人間による評価では、~60%+で勝っている。ライブラリのオーナーは、デザインシステムの文脈をエージェントに与えるマークダウンファイル、つまりガイドラインを追加できる。"
+       },
+       {
+        "t": "p",
+        "x": "七つのプラットフォームにコンポーネントを提供するUberのデザインシステムチームは、/create-anatomyや/create-colorといったスキルを作り、システムを文書化した。かつて複数人で数カ月かかったドキュメントを、今ではデザイナー一人が午後のうちに公開する。"
+       },
+       {
+        "t": "p",
+        "x": "GranolaのProduct DesignerであるPaavan Buddhdevは、Granolaコネクタを使い、議事録から抜き出したフィードバックをエージェントにキャンバス上の注釈として書き込ませている。「大幅な時間の節約になった」と彼は言う。"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "PaavanはFigmaのエージェントとGranolaコネクタを使い、キャンバスにフィードバックを注釈として加えている。"
+       },
+       {
+        "t": "p",
+        "x": "Atlassianはモーション素材を再利用可能なコンポーネントに変え、エージェントはデザインシステム内でデザイナーがイージングやデュレーションを繰り返し調整するのを手助けしている。「静的なデザインを扱うデザイナーにとって、スキルの幅が広がった」とProduct DesignerのDavy Fungは語る。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Figma 智能体\n正式全面上线",
+     "body": "Figma 智能体已全面上线，Uber、Granola 和 Atlassian 都在使用。",
+     "mini_headline": "Figma 智能体进入 GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "示例提示词悬浮在手机屏幕上方"
+       },
+       {
+        "t": "p",
+        "x": "来看看 Uber、Granola 和 Atlassian 的团队如何借助现已全面上线的 Figma 智能体，支撑高质量、快节奏的工作。智能体今天结束 beta，更擅长遵循指令和处理耗时更长的任务；在 Figma 由专业设计师参与的人工评测中，它的胜率为 ~60%+。库所有者可以添加指南，即为智能体提供设计系统上下文的 markdown 文件。"
+       },
+       {
+        "t": "p",
+        "x": "Uber 的设计系统团队为七个平台交付组件，他们打造了 /create-anatomy 和 /create-color 等技能来记录这套系统。过去需要多人花几个月完成的文档，如今一位设计师一个下午就能发布。"
+       },
+       {
+        "t": "p",
+        "x": "在 Granola，Product Designer Paavan Buddhdev 使用 Granola 连接器，让智能体把从会议记录中提取的反馈以注释形式标在画布上。他说：“这为我们节省了大量时间。”"
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan 将 Granola 连接器与 Figma 智能体配合使用，把反馈作为注释添加到画布上。"
+       },
+       {
+        "t": "p",
+        "x": "Atlassian 把动效素材变成了可复用组件，智能体帮助设计师在其设计系统内反复调整缓动和时长。Product Designer Davy Fung 说：“对于做静态设计的设计师来说，我们的技能更全面了。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El agente de Figma entra en\ndisponibilidad general",
+     "body": "El agente de Figma ya está disponible para todos, y Uber, Granola y Atlassian lo usan para trabajar rápido y bien.",
+     "mini_headline": "El agente de Figma llega a GA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Ejemplos de prompts flotan sobre una pantalla móvil"
+       },
+       {
+        "t": "p",
+        "x": "Así es como los equipos de Uber, Granola y Atlassian sostienen un trabajo rápido y de alta calidad con el agente de Figma, ya disponible de forma general. Hoy el agente sale de la beta: sigue mejor las instrucciones y gestiona mejor las tareas de larga duración, y gana en ~60%+ de las evaluaciones de Figma calificadas por diseñadores profesionales. Los responsables de bibliotecas pueden añadir directrices: archivos markdown que dan al agente contexto sobre su sistema de diseño."
+       },
+       {
+        "t": "p",
+        "x": "El equipo de sistemas de diseño de Uber, que entrega componentes en siete plataformas, creó skills como /create-anatomy y /create-color para documentar su sistema. Una documentación que antes llevaba meses a varias personas ahora la publica un solo diseñador en una tarde."
+       },
+       {
+        "t": "p",
+        "x": "En Granola, el Product Designer Paavan Buddhdev usa el conector de Granola para que el agente anote el lienzo con comentarios extraídos de las notas de reuniones. “Nos ha ahorrado muchísimo tiempo”, dice."
+       },
+       {
+        "t": "img",
+        "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+        "cap": "Paavan usa el conector de Granola con el agente de Figma para añadir comentarios en el lienzo como anotaciones."
+       },
+       {
+        "t": "p",
+        "x": "Atlassian convirtió sus recursos de movimiento en componentes reutilizables, y el agente ayuda a los diseñadores a iterar el easing y la duración dentro de su sistema de diseño. “Para los diseñadores que trabajan con diseños estáticos, nuestras habilidades han aumentado”, dice el Product Designer Davy Fung."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "design-photoshop-27-11-enhance-edge",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Photoshop 신버전\n27.11에 GPT 연동",
+   "body": "27.11의 Enhance Edge는 한 번에 20크레딧으로 색 번짐을 줄인다.",
+   "mini_headline": "Photoshop 27.11, Enhance Edge 추가",
+   "tool": "Photoshop",
+   "source": "CG Channel",
+   "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+     },
+     {
+      "t": "p",
+      "x": "Adobe가 Photoshop 27.11을 공개했다. Remove Background로 만든 마스크의 색 번짐을 줄이는 AI-powered 새 옵션 Enhance Edge가 들어가 머리카락과 털을 더 깔끔하게 잘라낸다."
+     },
+     {
+      "t": "p",
+      "x": "컨텍스트 작업 표시줄에서 쓸 수 있고 RGBA 디퓨전으로 마스크 가장자리의 색 번짐을 없앤다. Remove 도구와 달리 생성형 크레딧이 필요해서 한 번 쓸 때마다 20크레딧이 나간다."
+     },
+     {
+      "t": "p",
+      "x": "Generate Image 기능에서 GPT Image 2 AI 모델을 쓸 수도 있고 Photoshop 27.10에서 도입된 Prompt to edit로 이미지를 고칠 수도 있다. Adobe는 최근 서드파티 AI 모델 목록을 33개로 늘렸다."
+     },
+     {
+      "t": "p",
+      "x": "New Document 대화상자의 Recents 탭에서는 항목 이름을 바꾸거나 지울 수 있게 됐다. 실사용 데이터를 반영한 Windows 성능 개선도 담겼다. Photoshop 27.11은 Windows 10+와 macOS 14.0+를 지원한다. 단일 앱 구독료는 $34.49/month 또는 $263.88/year다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Photoshop 27.11 adds\nEnhance Edge, GPT Image 2",
+     "body": "Photoshop 27.11 adds Enhance Edge, which cuts colour fringing in Remove Background masks for 20 credits per use.",
+     "mini_headline": "Photoshop 27.11 adds Enhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe has released Photoshop 27.11. The update introduces Enhance Edge, a new AI-powered option to reduce color fringing in masks generated by Remove Background, helping to generate cleaner cutouts of hair and fur."
+       },
+       {
+        "t": "p",
+        "x": "Available in the contextual task bar, it uses RGBA diffusion to eliminate color fringing from the edges of a mask. Unlike the Remove tool itself, it requires generative credits, consuming 20 credits per use."
+       },
+       {
+        "t": "p",
+        "x": "It is also now possible to use the GPT Image 2 AI model with the Generate Image feature, or to edit images with Prompt to edit, introduced in Photoshop 27.10. Adobe recently expanded its list of third-party AI models to 33."
+       },
+       {
+        "t": "p",
+        "x": "Other changes include renaming or deleting entries in the Recents tab of the New Document dialog, and performance improvements on Windows based on real-world usage data. Photoshop 27.11 is compatible with Windows 10+ and macOS 14.0+; single-app subscriptions cost $34.49/month or $263.88/year."
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Photoshop 27.11 incorpora\nEnhance Edge y GPT Image 2",
+     "body": "Photoshop 27.11 suma Enhance Edge, que reduce el halo de color en máscaras de Remove Background a 20 créditos por uso.",
+     "mini_headline": "Photoshop 27.11 suma Enhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe ha lanzado Photoshop 27.11. La actualización introduce Enhance Edge, una nueva opción AI-powered que reduce el halo de color en las máscaras generadas por Remove Background y ayuda a obtener recortes más limpios de cabello y pelaje."
+       },
+       {
+        "t": "p",
+        "x": "Disponible en la barra de tareas contextual, usa difusión RGBA para eliminar el halo de color de los bordes de una máscara. A diferencia de la propia herramienta Remove, requiere créditos generativos y consume 20 créditos por uso."
+       },
+       {
+        "t": "p",
+        "x": "Ahora también es posible usar el modelo de AI GPT Image 2 con la función Generate Image, o editar imágenes con Prompt to edit, introducida en Photoshop 27.10. Adobe amplió hace poco a 33 su lista de modelos de AI de terceros."
+       },
+       {
+        "t": "p",
+        "x": "Otros cambios incluyen la posibilidad de renombrar o eliminar entradas en la pestaña Recents del cuadro de diálogo New Document, y mejoras de rendimiento en Windows basadas en datos de uso reales. Photoshop 27.11 es compatible con Windows 10+ y macOS 14.0+; la suscripción a la aplicación individual cuesta $34.49/month o $263.88/year."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Photoshop 신버전\n27.11에 GPT 연동",
+     "body": "27.11의 Enhance Edge는 한 번에 20크레딧으로 색 번짐을 줄인다.",
+     "mini_headline": "Photoshop 27.11, Enhance Edge 추가",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe가 Photoshop 27.11을 공개했다. Remove Background로 만든 마스크의 색 번짐을 줄이는 AI-powered 새 옵션 Enhance Edge가 들어가 머리카락과 털을 더 깔끔하게 잘라낸다."
+       },
+       {
+        "t": "p",
+        "x": "컨텍스트 작업 표시줄에서 쓸 수 있고 RGBA 디퓨전으로 마스크 가장자리의 색 번짐을 없앤다. Remove 도구와 달리 생성형 크레딧이 필요해서 한 번 쓸 때마다 20크레딧이 나간다."
+       },
+       {
+        "t": "p",
+        "x": "Generate Image 기능에서 GPT Image 2 AI 모델을 쓸 수도 있고 Photoshop 27.10에서 도입된 Prompt to edit로 이미지를 고칠 수도 있다. Adobe는 최근 서드파티 AI 모델 목록을 33개로 늘렸다."
+       },
+       {
+        "t": "p",
+        "x": "New Document 대화상자의 Recents 탭에서는 항목 이름을 바꾸거나 지울 수 있게 됐다. 실사용 데이터를 반영한 Windows 성능 개선도 담겼다. Photoshop 27.11은 Windows 10+와 macOS 14.0+를 지원한다. 단일 앱 구독료는 $34.49/month 또는 $263.88/year다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Photoshop最新版\n27.11でGPT対応",
+     "body": "27.11のEnhance Edgeは1回20クレジットでマスクの色にじみを抑える。",
+     "mini_headline": "Photoshop 27.11にEnhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "AdobeがPhotoshop 27.11をリリースした。今回のアップデートでは、Remove Backgroundで生成したマスクの色にじみを抑える新しいAI-poweredオプション、Enhance Edgeが加わり、髪や毛並みをよりきれいに切り抜けるようになった。"
+       },
+       {
+        "t": "p",
+        "x": "コンテキストタスクバーから使え、RGBAディフュージョンでマスクの縁の色にじみを取り除く。Removeツール本体とは異なり生成クレジットが必要で、1回の使用につき20クレジットを消費する。"
+       },
+       {
+        "t": "p",
+        "x": "Generate Image機能でGPT Image 2 AIモデルを使ったり、Photoshop 27.10で導入されたPrompt to editで画像を編集したりすることも可能になった。Adobeは最近、サードパーティAIモデルのリストを33種類に拡大した。"
+       },
+       {
+        "t": "p",
+        "x": "そのほか、New DocumentダイアログのRecentsタブで項目の名前変更や削除ができるようになり、実際の利用データに基づくWindowsでのパフォーマンス改善も行われた。Photoshop 27.11はWindows 10+とmacOS 14.0+に対応し、単体プランは$34.49/monthまたは$263.88/yearだ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Photoshop 新版\n27.11 接入 GPT",
+     "body": "Photoshop 27.11 新增 Enhance Edge，每次20积分减少蒙版色边。",
+     "mini_headline": "Photoshop 27.11 新增 Enhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe 发布了 Photoshop 27.11。此次更新引入了 Enhance Edge，这是一项新的 AI-powered 选项，可减少 Remove Background 生成的蒙版中的色边，帮助更干净地抠出头发和毛发。"
+       },
+       {
+        "t": "p",
+        "x": "该功能位于上下文任务栏中，利用 RGBA 扩散消除蒙版边缘的色边。与 Remove 工具本身不同，它需要消耗生成式积分，每次使用 20 积分。"
+       },
+       {
+        "t": "p",
+        "x": "现在还可以在 Generate Image 功能中使用 GPT Image 2 AI 模型，或通过 Photoshop 27.10 引入的 Prompt to edit 编辑图像。Adobe 最近将其第三方 AI 模型列表扩展到 33 个。"
+       },
+       {
+        "t": "p",
+        "x": "其他改动包括：可在 New Document 对话框的 Recents 标签页中重命名或删除条目，以及基于真实使用数据对 Windows 进行的性能优化。Photoshop 27.11 兼容 Windows 10+ 和 macOS 14.0+；单应用订阅价格为 $34.49/month 或 $263.88/year。"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "es": {
+     "headline": "Photoshop 27.11 incorpora\nEnhance Edge y GPT Image 2",
+     "body": "Photoshop 27.11 suma Enhance Edge, que reduce el halo de color en máscaras de Remove Background a 20 créditos por uso.",
+     "mini_headline": "Photoshop 27.11 suma Enhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe ha lanzado Photoshop 27.11. La actualización introduce Enhance Edge, una nueva opción AI-powered que reduce el halo de color en las máscaras generadas por Remove Background y ayuda a obtener recortes más limpios de cabello y pelaje."
+       },
+       {
+        "t": "p",
+        "x": "Disponible en la barra de tareas contextual, usa difusión RGBA para eliminar el halo de color de los bordes de una máscara. A diferencia de la propia herramienta Remove, requiere créditos generativos y consume 20 créditos por uso."
+       },
+       {
+        "t": "p",
+        "x": "Ahora también es posible usar el modelo de AI GPT Image 2 con la función Generate Image, o editar imágenes con Prompt to edit, introducida en Photoshop 27.10. Adobe amplió hace poco a 33 su lista de modelos de AI de terceros."
+       },
+       {
+        "t": "p",
+        "x": "Otros cambios incluyen la posibilidad de renombrar o eliminar entradas en la pestaña Recents del cuadro de diálogo New Document, y mejoras de rendimiento en Windows basadas en datos de uso reales. Photoshop 27.11 es compatible con Windows 10+ y macOS 14.0+; la suscripción a la aplicación individual cuesta $34.49/month o $263.88/year."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Photoshop 신버전\n27.11에 GPT 연동",
+     "body": "27.11 버전의 Enhance Edge는 회당 20크레딧으로 색 번짐을 줄인다.",
+     "mini_headline": "Photoshop 27.11, Enhance Edge 추가",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe가 Photoshop 27.11을 공개했다. 이번 업데이트에는 Remove Background로 만든 마스크의 색 번짐을 줄이는 새 AI-powered 옵션 Enhance Edge가 들어가, 머리카락과 털을 더 깔끔하게 잘라낼 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "컨텍스트 작업 표시줄에서 쓸 수 있으며, RGBA 디퓨전으로 마스크 가장자리의 색 번짐을 없앤다. Remove 도구 자체와 달리 생성형 크레딧이 필요하고, 한 번 쓸 때마다 20크레딧을 소모한다."
+       },
+       {
+        "t": "p",
+        "x": "이제 Generate Image 기능에서 GPT Image 2 AI 모델을 쓰거나, Photoshop 27.10에서 도입된 Prompt to edit로 이미지를 편집할 수도 있다. Adobe는 최근 서드파티 AI 모델 목록을 33개로 늘렸다."
+       },
+       {
+        "t": "p",
+        "x": "그 밖에 New Document 대화상자의 Recents 탭에서 항목 이름을 바꾸거나 지울 수 있게 됐고, 실사용 데이터에 기반한 Windows 성능 개선도 담겼다. Photoshop 27.11은 Windows 10+와 macOS 14.0+를 지원하며, 단일 앱 구독료는 $34.49/month 또는 $263.88/year다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Photoshop最新版\n27.11でGPT対応",
+     "body": "27.11のEnhance Edgeは1回20クレジットでマスクの色にじみを抑える。",
+     "mini_headline": "Photoshop 27.11にEnhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "AdobeがPhotoshop 27.11をリリースした。今回のアップデートでは、Remove Backgroundで生成したマスクの色にじみを抑える新しいAI-poweredオプション、Enhance Edgeが加わり、髪や毛並みをよりきれいに切り抜けるようになった。"
+       },
+       {
+        "t": "p",
+        "x": "コンテキストタスクバーから使え、RGBAディフュージョンでマスクの縁の色にじみを取り除く。Removeツール本体とは異なり生成クレジットが必要で、1回の使用につき20クレジットを消費する。"
+       },
+       {
+        "t": "p",
+        "x": "Generate Image機能でGPT Image 2 AIモデルを使ったり、Photoshop 27.10で導入されたPrompt to editで画像を編集したりすることも可能になった。Adobeは最近、サードパーティAIモデルのリストを33種類に拡大した。"
+       },
+       {
+        "t": "p",
+        "x": "そのほか、New DocumentダイアログのRecentsタブで項目の名前変更や削除ができるようになり、実際の利用データに基づくWindowsでのパフォーマンス改善も行われた。Photoshop 27.11はWindows 10+とmacOS 14.0+に対応し、単体プランは$34.49/monthまたは$263.88/yearだ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Photoshop 新版\n27.11 接入 GPT",
+     "body": "Photoshop 27.11 新增 Enhance Edge，每次20积分减少蒙版色边。",
+     "mini_headline": "Photoshop 27.11 新增 Enhance Edge",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Adobe 发布了 Photoshop 27.11。此次更新引入了 Enhance Edge，这是一项新的 AI-powered 选项，可减少 Remove Background 生成的蒙版中的色边，帮助更干净地抠出头发和毛发。"
+       },
+       {
+        "t": "p",
+        "x": "该功能位于上下文任务栏中，利用 RGBA 扩散消除蒙版边缘的色边。与 Remove 工具本身不同，它需要消耗生成式积分，每次使用 20 积分。"
+       },
+       {
+        "t": "p",
+        "x": "现在还可以在 Generate Image 功能中使用 GPT Image 2 AI 模型，或通过 Photoshop 27.10 引入的 Prompt to edit 编辑图像。Adobe 最近将其第三方 AI 模型列表扩展到 33 个。"
+       },
+       {
+        "t": "p",
+        "x": "其他改动包括：可在 New Document 对话框的 Recents 标签页中重命名或删除条目，以及基于真实使用数据对 Windows 进行的性能优化。Photoshop 27.11 兼容 Windows 10+ 和 macOS 14.0+；单应用订阅价格为 $34.49/month 或 $263.88/year。"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "design-hark-pro-assistant",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Hark Pro가 다시 쓴\nAI 비서의 역할",
+   "body": "Hark Pro 디자인팀은 사용자의 필요를 익혀 먼저 돕는 AI 비서를 설계했다.",
+   "mini_headline": "Hark Pro가 다시 짠 비서",
+   "tool": "AI Workflow",
+   "source": "Fast Company",
+   "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
+   "accent": "#ff5a4d",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+      "cap": "이미지: Hark"
+     },
+     {
+      "t": "p",
+      "x": "새 AI 웹 애플리케이션 Hark Pro는 챗봇 인터페이스와 에이전트 기능을 갖춰 2026년 대중 시장용 AI 출시작의 주요 조건을 두루 채운다. 그런데 AI 비서의 핵심 전제는 다시 생각한다. AI로 사용자마다 할 일과 필요를 파악하고 먼저 나서서 도울 방법을 찾는다."
+     },
+     {
+      "t": "p",
+      "x": "사용자의 이메일, 캘린더, 기타 온라인 계정에 접근해 점심을 주문하고 청구서를 결제하며 여행을 계획한다. 회의가 겹치면 일정도 다시 잡는다. Brett Adcock이 세운 Hark는 Series A 투자로 $700 million(7억 달러)을 유치했다."
+     },
+     {
+      "t": "video",
+      "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+     },
+     {
+      "t": "p",
+      "x": "Hark 디자인 책임자 Abidur Chowdhury는 Apple iPhone Air의 디자인 리드 출신이다. 그는 이 인터페이스를 홈페이지라고 부른다. 맨 위에는 할 일 항목과 자동 생성되는 액션 버튼이 놓인다. “그동안 나눈 온갖 대화로 꽉 막힌 사이드바는 정말 두고 싶지 않았다”고 그는 말한다."
+     },
+     {
+      "t": "p",
+      "x": "앱은 작업 과정을 그대로 보여 준다. 채팅 기록 속 작은 화면에서 내부 컴퓨터 Handoff가 웹사이트를 돌아다닌다. 하늘 같은 배경은 사용자마다 그날의 시간대에 맞춰 바뀐다. Hark는 2027년에 첫 하드웨어 기기를 내놓을 계획이다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Hark Pro rethinks what an\nAI assistant should do",
+     "body": "Hark Pro's designers rethought the AI assistant so it learns each user's needs and proactively finds ways to help.",
+     "mini_headline": "Hark Pro rethinks the assistant",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "Image: Hark"
+       },
+       {
+        "t": "p",
+        "x": "With a chatbot interface and agentic capabilities, the new AI web application Hark Pro checks the main boxes of a mass market AI release in 2026. But Hark Pro is rethinking the core premise behind the AI assistant: it uses AI to understand the tasks and needs of each user, and proactively finds ways to help."
+       },
+       {
+        "t": "p",
+        "x": "With access to a user’s email, calendar, and other online accounts, it can order lunch, pay bills, plan trips, or reschedule around meeting conflicts. Hark, founded by Brett Adcock, has raised $700 million in Series A funding."
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Abidur Chowdhury, head of design at Hark and former design lead for Apple’s iPhone Air, calls its interface a homepage, with action items and automatically rendered action buttons at the top. “We really didn’t want to have this clogged sidebar with a bunch of the different chats that you’ve had,” he says."
+       },
+       {
+        "t": "p",
+        "x": "The app shows its work: a small screen in the chat log displays its internal computer, Handoff, navigating websites. Its sky-like background mimics each user’s time of day. Hark plans to release its first hardware device in 2027."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Hark Pro가 다시 쓴\nAI 비서의 역할",
+     "body": "Hark Pro 디자인팀은 사용자의 필요를 익혀 먼저 돕는 AI 비서를 설계했다.",
+     "mini_headline": "Hark Pro가 다시 짠 비서",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "이미지: Hark"
+       },
+       {
+        "t": "p",
+        "x": "새 AI 웹 애플리케이션 Hark Pro는 챗봇 인터페이스와 에이전트 기능을 갖춰 2026년 대중 시장용 AI 출시작의 주요 조건을 두루 채운다. 그런데 AI 비서의 핵심 전제는 다시 생각한다. AI로 사용자마다 할 일과 필요를 파악하고 먼저 나서서 도울 방법을 찾는다."
+       },
+       {
+        "t": "p",
+        "x": "사용자의 이메일, 캘린더, 기타 온라인 계정에 접근해 점심을 주문하고 청구서를 결제하며 여행을 계획한다. 회의가 겹치면 일정도 다시 잡는다. Brett Adcock이 세운 Hark는 Series A 투자로 $700 million(7억 달러)을 유치했다."
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Hark 디자인 책임자 Abidur Chowdhury는 Apple iPhone Air의 디자인 리드 출신이다. 그는 이 인터페이스를 홈페이지라고 부른다. 맨 위에는 할 일 항목과 자동 생성되는 액션 버튼이 놓인다. “그동안 나눈 온갖 대화로 꽉 막힌 사이드바는 정말 두고 싶지 않았다”고 그는 말한다."
+       },
+       {
+        "t": "p",
+        "x": "앱은 작업 과정을 그대로 보여 준다. 채팅 기록 속 작은 화면에서 내부 컴퓨터 Handoff가 웹사이트를 돌아다닌다. 하늘 같은 배경은 사용자마다 그날의 시간대에 맞춰 바뀐다. Hark는 2027년에 첫 하드웨어 기기를 내놓을 계획이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Hark Proが問い直す\nAIアシスタントの役割",
+     "body": "Hark Proのデザイナーは、利用者の要望を学び自ら助けるAIアシスタントを考え直した。",
+     "mini_headline": "Hark Pro、アシスタントを再考",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "画像: Hark"
+       },
+       {
+        "t": "p",
+        "x": "チャットボットのインターフェースとエージェント機能を備えた新しいAIウェブアプリケーションHark Proは、2026年のマスマーケット向けAIリリースの主要な条件を一通り満たしている。だがHark Proは、AIアシスタントの根本的な前提そのものを問い直している。AIで各ユーザーのタスクとニーズを理解し、自ら手助けの方法を見つけるのだ。"
+       },
+       {
+        "t": "p",
+        "x": "ユーザーのメール、カレンダー、その他のオンラインアカウントにアクセスし、昼食の注文、請求書の支払い、旅行の計画、会議の重複に合わせた予定の再調整までこなす。Brett Adcockが創業したHarkは、Series Aで$700 million(7億ドル)を調達した。"
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Harkのデザイン責任者で、AppleのiPhone Airのデザインリードを務めたAbidur Chowdhuryは、このインターフェースをホームページと呼ぶ。上部にはアクション項目と自動生成されるアクションボタンが並ぶ。「これまでのさまざまなチャットで埋め尽くされたサイドバーは、本当に置きたくなかった」と彼は言う。"
+       },
+       {
+        "t": "p",
+        "x": "アプリは作業の過程を見せる。チャットログ内の小さな画面に、内部コンピューターHandoffがウェブサイトを操作する様子が映る。空のような背景は、各ユーザーのその時の時間帯をまねる。Harkは2027年に初のハードウェア端末を発売する予定だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Hark Pro 重新思考\nAI 助手该做什么",
+     "body": "Hark Pro 的设计师重新构想 AI 助手，让它了解每位用户需求并主动提供帮助。",
+     "mini_headline": "Hark Pro 重新思考助手",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "图片：Hark"
+       },
+       {
+        "t": "p",
+        "x": "Hark Pro 是一款全新的 AI 网页应用，拥有聊天机器人界面和智能体能力，具备 2026 年大众市场 AI 产品的主要特征。但 Hark Pro 正在重新思考 AI 助手背后的核心前提：它用 AI 理解每位用户的任务和需求，并主动寻找帮忙的方式。"
+       },
+       {
+        "t": "p",
+        "x": "在获得用户电子邮件、日历和其他在线账户的访问权限后，它可以订午餐、付账单、规划行程，或在会议冲突时重新安排日程。由 Brett Adcock 创立的 Hark 已在 Series A 融资中筹得 $700 million（7 亿美元）。"
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Hark 设计负责人、曾任 Apple iPhone Air 设计主管的 Abidur Chowdhury 把这个界面称为主页，顶部是待办事项和自动生成的操作按钮。他说：“我们真的不想要一个塞满各种历史聊天记录的侧边栏。”"
+       },
+       {
+        "t": "p",
+        "x": "这款应用会展示它的工作过程：聊天记录中的一个小屏幕会显示其内部电脑 Handoff 浏览网站的画面。类似天空的背景会模拟每位用户所处的时段。Hark 计划在 2027 年发布首款硬件设备。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Hark Pro replantea lo que\ndebe hacer un asistente de AI",
+     "body": "Los diseñadores de Hark Pro replantearon el asistente de AI: aprende qué necesita cada usuario y se adelanta a ayudar.",
+     "mini_headline": "Hark Pro replantea el asistente",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "Imagen: Hark"
+       },
+       {
+        "t": "p",
+        "x": "Con una interfaz de chatbot y capacidades agénticas, la nueva aplicación web de AI Hark Pro cumple los requisitos principales de un lanzamiento de AI para el gran público en 2026. Pero Hark Pro replantea la premisa central del asistente de AI: usa AI para entender las tareas y necesidades de cada usuario y busca de forma proactiva maneras de ayudar."
+       },
+       {
+        "t": "p",
+        "x": "Con acceso al correo electrónico, el calendario y otras cuentas en línea del usuario, puede pedir el almuerzo, pagar facturas, planificar viajes o reprogramar compromisos cuando hay reuniones que se solapan. Hark, fundada por Brett Adcock, ha recaudado $700 million en una ronda Series A."
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Abidur Chowdhury, jefe de diseño de Hark y exresponsable de diseño del iPhone Air de Apple, llama a su interfaz una página de inicio, con tareas pendientes y botones de acción generados automáticamente en la parte superior. “Realmente no queríamos tener esa barra lateral saturada con un montón de chats distintos que has tenido”, dice."
+       },
+       {
+        "t": "p",
+        "x": "La aplicación muestra su trabajo: una pequeña pantalla en el historial del chat muestra su computadora interna, Handoff, navegando por sitios web. Su fondo, similar a un cielo, imita la hora del día de cada usuario. Hark planea lanzar su primer dispositivo de hardware en 2027."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Hark Pro가 다시 쓴\nAI 비서의 역할",
+     "body": "Hark Pro 디자이너들은 사용자 필요를 익혀 먼저 돕는 AI 비서를 설계했다.",
+     "mini_headline": "Hark Pro가 다시 짠 비서",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "이미지: Hark"
+       },
+       {
+        "t": "p",
+        "x": "챗봇 인터페이스와 에이전트 기능을 갖춘 새 AI 웹 애플리케이션 Hark Pro는 2026년 대중 시장용 AI 출시작이 갖춰야 할 주요 조건을 두루 채운다. 하지만 Hark Pro는 AI 비서의 핵심 전제를 다시 생각한다. AI로 사용자 각자의 할 일과 필요를 파악하고, 먼저 나서서 도울 방법을 찾는다."
+       },
+       {
+        "t": "p",
+        "x": "사용자의 이메일, 캘린더, 기타 온라인 계정에 접근해 점심을 주문하고, 청구서를 결제하고, 여행을 계획하고, 회의가 겹치면 일정을 다시 잡는다. Brett Adcock이 세운 Hark는 Series A 투자로 $700 million(7억 달러)을 유치했다."
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Hark 디자인 책임자이자 Apple iPhone Air의 디자인 리드였던 Abidur Chowdhury는 이 인터페이스를 홈페이지라고 부른다. 맨 위에는 할 일 항목과 자동으로 생성되는 액션 버튼이 놓인다. 그는 “그동안 나눈 온갖 대화로 꽉 막힌 사이드바는 정말 두고 싶지 않았다”고 말한다."
+       },
+       {
+        "t": "p",
+        "x": "앱은 작업 과정을 보여 준다. 채팅 기록 속 작은 화면에 내부 컴퓨터 Handoff가 웹사이트를 돌아다니는 모습이 나온다. 하늘 같은 배경은 사용자마다 그날의 시간대를 따라 한다. Hark는 2027년에 첫 하드웨어 기기를 내놓을 계획이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Hark Proが問い直す\nAIアシスタントの役割",
+     "body": "Hark Proのデザイナーは、利用者の要望を学び自ら助けるAIアシスタントを考え直した。",
+     "mini_headline": "Hark Pro、アシスタントを再考",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "画像: Hark"
+       },
+       {
+        "t": "p",
+        "x": "チャットボットのインターフェースとエージェント機能を備えた新しいAIウェブアプリケーションHark Proは、2026年のマスマーケット向けAIリリースの主要な条件を一通り満たしている。だがHark Proは、AIアシスタントの根本的な前提そのものを問い直している。AIで各ユーザーのタスクとニーズを理解し、自ら手助けの方法を見つけるのだ。"
+       },
+       {
+        "t": "p",
+        "x": "ユーザーのメール、カレンダー、その他のオンラインアカウントにアクセスし、昼食の注文、請求書の支払い、旅行の計画、会議の重複に合わせた予定の再調整までこなす。Brett Adcockが創業したHarkは、Series Aで$700 million(7億ドル)を調達した。"
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Harkのデザイン責任者で、AppleのiPhone Airのデザインリードを務めたAbidur Chowdhuryは、このインターフェースをホームページと呼ぶ。上部にはアクション項目と自動生成されるアクションボタンが並ぶ。「これまでのさまざまなチャットで埋め尽くされたサイドバーは、本当に置きたくなかった」と彼は言う。"
+       },
+       {
+        "t": "p",
+        "x": "アプリは作業の過程を見せる。チャットログ内の小さな画面に、内部コンピューターHandoffがウェブサイトを操作する様子が映る。空のような背景は、各ユーザーのその時の時間帯をまねる。Harkは2027年に初のハードウェア端末を発売する予定だ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Hark Pro 重新思考\nAI 助手该做什么",
+     "body": "Hark Pro 的设计师重新构想 AI 助手，让它了解每位用户需求并主动提供帮助。",
+     "mini_headline": "Hark Pro 重新思考助手",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "图片：Hark"
+       },
+       {
+        "t": "p",
+        "x": "Hark Pro 是一款全新的 AI 网页应用，拥有聊天机器人界面和智能体能力，具备 2026 年大众市场 AI 产品的主要特征。但 Hark Pro 正在重新思考 AI 助手背后的核心前提：它用 AI 理解每位用户的任务和需求，并主动寻找帮忙的方式。"
+       },
+       {
+        "t": "p",
+        "x": "在获得用户电子邮件、日历和其他在线账户的访问权限后，它可以订午餐、付账单、规划行程，或在会议冲突时重新安排日程。由 Brett Adcock 创立的 Hark 已在 Series A 融资中筹得 $700 million（7 亿美元）。"
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Hark 设计负责人、曾任 Apple iPhone Air 设计主管的 Abidur Chowdhury 把这个界面称为主页，顶部是待办事项和自动生成的操作按钮。他说：“我们真的不想要一个塞满各种历史聊天记录的侧边栏。”"
+       },
+       {
+        "t": "p",
+        "x": "这款应用会展示它的工作过程：聊天记录中的一个小屏幕会显示其内部电脑 Handoff 浏览网站的画面。类似天空的背景会模拟每位用户所处的时段。Hark 计划在 2027 年发布首款硬件设备。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Hark Pro replantea lo que\ndebe hacer un asistente de AI",
+     "body": "Los diseñadores de Hark Pro replantearon el asistente de AI: aprende qué necesita cada usuario y se adelanta a ayudar.",
+     "mini_headline": "Hark Pro replantea el asistente",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+        "cap": "Imagen: Hark"
+       },
+       {
+        "t": "p",
+        "x": "Con una interfaz de chatbot y capacidades agénticas, la nueva aplicación web de AI Hark Pro cumple los requisitos principales de un lanzamiento de AI para el gran público en 2026. Pero Hark Pro replantea la premisa central del asistente de AI: usa AI para entender las tareas y necesidades de cada usuario y busca de forma proactiva maneras de ayudar."
+       },
+       {
+        "t": "p",
+        "x": "Con acceso al correo electrónico, el calendario y otras cuentas en línea del usuario, puede pedir el almuerzo, pagar facturas, planificar viajes o reprogramar compromisos cuando hay reuniones que se solapan. Hark, fundada por Brett Adcock, ha recaudado $700 million en una ronda Series A."
+       },
+       {
+        "t": "video",
+        "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+       },
+       {
+        "t": "p",
+        "x": "Abidur Chowdhury, jefe de diseño de Hark y exresponsable de diseño del iPhone Air de Apple, llama a su interfaz una página de inicio, con tareas pendientes y botones de acción generados automáticamente en la parte superior. “Realmente no queríamos tener esa barra lateral saturada con un montón de chats distintos que has tenido”, dice."
+       },
+       {
+        "t": "p",
+        "x": "La aplicación muestra su trabajo: una pequeña pantalla en el historial del chat muestra su computadora interna, Handoff, navegando por sitios web. Su fondo, similar a un cielo, imita la hora del día de cada usuario. Hark planea lanzar su primer dispositivo de hardware en 2027."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "design-claude-code-to-figma-test",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Claude Code에서\nFigma로 보내 보니",
+   "body": "Claude Code의 라이브 UI를 Figma 프레임으로 보내는 기능을 써봤다.",
+   "mini_headline": "Claude Code에서 Figma로, 직접 써보다",
+   "tool": "Figma",
+   "source": "DEV Community",
+   "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+   "accent": "#3b6bff",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+     },
+     {
+      "t": "p",
+      "x": "개발자들은 몇 달째 Claude Code로 쓰고 버릴 프로토타입을 만들어 왔다. 막히는 건 그다음이다. 피드백을 받으려면 스크린숏을 찍거나 영상을 녹화하거나, 누군가에게 브랜치를 받아 보라고 부탁해야 한다."
+     },
+     {
+      "t": "p",
+      "x": "이번에 Figma가 내놓은 건 다르다. 라이브 브라우저 UI를 편집 가능한 프레임으로 Figma에 바로 보낸다. 스크린숏이 아니라 실제 Figma 레이어다. Claude Code에 “send this to Figma”라고 입력하면 Figma MCP 서버가 프로덕션, localhost, 스테이징 어디서든 렌더링된 화면을 캡처한다. 한 세션에서 여러 화면을 캡처할 수도 있다."
+     },
+     {
+      "t": "p",
+      "x": "반대 방향도 된다. Figma에서 고친 뒤 Figma MCP로 프롬프트와 링크를 넣으면 Claude Code로 다시 가져올 수 있다. “캔버스는 생각을 넓히게 하고, 코드는 하나로 모으게 한다.”"
+     },
+     {
+      "t": "p",
+      "x": "늘 쓸모 있지는 않다. 혼자 일하거나 이미 합의가 끝난 팀이거나 랜딩 페이지처럼 작은 작업이라면 스크린숏으로도 충분할 테다. 플로를 비교하거나 디자인과 엔지니어링을 이을 때처럼 탐색이 중요할 때 제값을 한다. 자동화가 아니라 여전히 프롬프트로 하는 수동 단계다. 달라진 건 선택지가 생겼다는 점이다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Testing Claude Code to Figma:\nwhat actually works",
+     "body": "Claude Code can now send live browser UI into Figma as editable frames, and a hands-on test shows when it's worth it.",
+     "mini_headline": "Claude Code to Figma, tested",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "Developers have been building throwaway prototypes in Claude Code for months. The problem is what happens after: to get feedback, you take screenshots, record a video, or ask someone to pull your branch."
+       },
+       {
+        "t": "p",
+        "x": "Figma just shipped something different. You can now send live browser UI directly into Figma as editable frames—not screenshots, but actual Figma layers. You type “send this to Figma” in Claude Code; the Figma MCP server captures what’s rendered, from production, localhost, or staging, and can capture multiple screens in one session."
+       },
+       {
+        "t": "p",
+        "x": "It connects back, too: make changes in Figma, then use the Figma MCP to pull it back into Claude Code with a prompt and a link. “The canvas lets you diverge. Code lets you converge.”"
+       },
+       {
+        "t": "p",
+        "x": "When it doesn’t matter: working solo, on an already aligned team, or on something small like a landing page, where screenshots probably work fine. It matters when exploration matters—comparing flows, or bridging design and engineering. It’s still manual steps with prompts, not automation; the shift is about optionality."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Claude Code에서\nFigma로 보내 보니",
+     "body": "Claude Code의 라이브 UI를 Figma 프레임으로 보내는 기능을 써봤다.",
+     "mini_headline": "Claude Code에서 Figma로, 직접 써보다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "개발자들은 몇 달째 Claude Code로 쓰고 버릴 프로토타입을 만들어 왔다. 막히는 건 그다음이다. 피드백을 받으려면 스크린숏을 찍거나 영상을 녹화하거나, 누군가에게 브랜치를 받아 보라고 부탁해야 한다."
+       },
+       {
+        "t": "p",
+        "x": "이번에 Figma가 내놓은 건 다르다. 라이브 브라우저 UI를 편집 가능한 프레임으로 Figma에 바로 보낸다. 스크린숏이 아니라 실제 Figma 레이어다. Claude Code에 “send this to Figma”라고 입력하면 Figma MCP 서버가 프로덕션, localhost, 스테이징 어디서든 렌더링된 화면을 캡처한다. 한 세션에서 여러 화면을 캡처할 수도 있다."
+       },
+       {
+        "t": "p",
+        "x": "반대 방향도 된다. Figma에서 고친 뒤 Figma MCP로 프롬프트와 링크를 넣으면 Claude Code로 다시 가져올 수 있다. “캔버스는 생각을 넓히게 하고, 코드는 하나로 모으게 한다.”"
+       },
+       {
+        "t": "p",
+        "x": "늘 쓸모 있지는 않다. 혼자 일하거나 이미 합의가 끝난 팀이거나 랜딩 페이지처럼 작은 작업이라면 스크린숏으로도 충분할 테다. 플로를 비교하거나 디자인과 엔지니어링을 이을 때처럼 탐색이 중요할 때 제값을 한다. 자동화가 아니라 여전히 프롬프트로 하는 수동 단계다. 달라진 건 선택지가 생겼다는 점이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Claude Codeから\nFigmaへ、実際に試す",
+     "body": "Claude CodeのライブUIをFigmaの編集可能なフレームに送る機能を試した。",
+     "mini_headline": "Claude CodeからFigmaへ、検証",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "開発者たちは何カ月も前から、Claude Codeで使い捨てのプロトタイプを作ってきた。問題はその後だ。フィードバックをもらうには、スクリーンショットを撮るか、動画を録画するか、誰かにブランチをpullしてもらうしかない。"
+       },
+       {
+        "t": "p",
+        "x": "Figmaはこれまでとは違うものを出した。ライブのブラウザUIを、編集可能なフレームとしてFigmaへ直接送れるようになったのだ。スクリーンショットではなく、本物のFigmaレイヤーである。Claude Codeで「send this to Figma」と入力すると、Figma MCPサーバーが本番環境、localhost、ステージングのいずれからでもレンダリング結果をキャプチャし、一つのセッションで複数の画面を取り込める。"
+       },
+       {
+        "t": "p",
+        "x": "逆方向にもつながる。Figmaで変更を加えた後、Figma MCPを使い、プロンプトとリンクでClaude Codeに取り込み直せる。「キャンバスは発散させ、コードは収束させる」"
+       },
+       {
+        "t": "p",
+        "x": "意味がない場面もある。一人で作業している、すでに足並みのそろったチームにいる、あるいはランディングページのような小さな案件なら、スクリーンショットで十分だろう。意味を持つのは探索が重要なとき、つまりフローを比べたり、デザインとエンジニアリングをつないだりする場面だ。依然としてプロンプトを使った手作業であり、自動化ではない。変化の本質は選択肢が増えたことにある。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "实测 Claude Code\n转 Figma 效果如何",
+     "body": "Claude Code 现可把实时 UI 送进 Figma 成为可编辑帧，本文实测其价值。",
+     "mini_headline": "实测 Claude Code 转 Figma",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "几个月来，开发者一直在用 Claude Code 搭建一次性原型。问题出在之后：想获得反馈，就得截图、录视频，或者请别人拉取你的分支。"
+       },
+       {
+        "t": "p",
+        "x": "Figma 刚刚推出了不一样的东西。现在可以把实时浏览器 UI 作为可编辑帧直接发送到 Figma——不是截图，而是真正的 Figma 图层。在 Claude Code 中输入“send this to Figma”，Figma MCP 服务器就会捕获来自生产环境、localhost 或预发布环境的渲染内容，并可在一次会话中捕获多个屏幕。"
+       },
+       {
+        "t": "p",
+        "x": "它也能反向连接：在 Figma 中修改后，再用 Figma MCP 通过一条提示词和一个链接把它拉回 Claude Code。“画布让你发散，代码让你收敛。”"
+       },
+       {
+        "t": "p",
+        "x": "不重要的情况：独自工作、团队早已达成一致，或者做落地页这类小项目，截图大概就够了。当探索很重要时它才有意义——比较流程，或者衔接设计与工程。它仍是靠提示词完成的手动步骤，而非自动化；真正的变化在于多了选择。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Claude Code a Figma a prueba:\nlo que de verdad funciona",
+     "body": "Claude Code ya puede enviar UI en vivo a Figma como marcos editables, y una prueba muestra cuándo conviene.",
+     "mini_headline": "Claude Code a Figma, a prueba",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "Los desarrolladores llevan meses creando prototipos desechables en Claude Code. El problema es lo que viene después: para recibir comentarios, hay que hacer capturas de pantalla, grabar un video o pedirle a alguien que haga pull de tu rama."
+       },
+       {
+        "t": "p",
+        "x": "Figma acaba de lanzar algo distinto. Ahora se puede enviar UI en vivo del navegador directamente a Figma como marcos editables: no capturas de pantalla, sino capas reales de Figma. Escribes “send this to Figma” en Claude Code; el servidor Figma MCP captura lo que se renderiza, ya sea en producción, localhost o staging, y puede capturar varias pantallas en una sola sesión."
+       },
+       {
+        "t": "p",
+        "x": "También funciona a la inversa: haces cambios en Figma y luego usas Figma MCP para devolverlos a Claude Code con un prompt y un enlace. “El lienzo te permite divergir. El código te permite converger.”"
+       },
+       {
+        "t": "p",
+        "x": "Cuándo no importa: si trabajas solo, en un equipo ya alineado o en algo pequeño como una landing page, donde las capturas de pantalla probablemente basten. Importa cuando la exploración importa: al comparar flujos o tender puentes entre diseño e ingeniería. Siguen siendo pasos manuales con prompts, no automatización; el cambio tiene que ver con tener opciones."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Claude Code에서\nFigma로 보내 보니",
+     "body": "Claude Code의 라이브 UI를 Figma 프레임으로 보내는 기능을 써봤다.",
+     "mini_headline": "Claude Code에서 Figma로, 직접 써보다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "개발자들은 몇 달째 Claude Code로 쓰고 버릴 프로토타입을 만들어 왔다. 문제는 그다음이다. 피드백을 받으려면 스크린숏을 찍거나, 영상을 녹화하거나, 누군가에게 브랜치를 받아 보라고 부탁해야 한다."
+       },
+       {
+        "t": "p",
+        "x": "Figma가 이번에 다른 것을 내놨다. 이제 라이브 브라우저 UI를 편집 가능한 프레임으로 Figma에 바로 보낼 수 있다. 스크린숏이 아니라 실제 Figma 레이어다. Claude Code에 “send this to Figma”라고 입력하면 Figma MCP 서버가 프로덕션, localhost, 스테이징 어디서든 렌더링된 화면을 캡처하며, 한 세션에서 여러 화면을 캡처할 수도 있다."
+       },
+       {
+        "t": "p",
+        "x": "반대 방향으로도 이어진다. Figma에서 수정한 뒤 Figma MCP로 프롬프트와 링크를 넣어 Claude Code로 다시 가져올 수 있다. “캔버스는 생각을 넓히게 하고, 코드는 하나로 모으게 한다.”"
+       },
+       {
+        "t": "p",
+        "x": "별 의미가 없는 경우도 있다. 혼자 일하거나, 이미 합의가 된 팀이거나, 랜딩 페이지처럼 작은 작업이라면 스크린숏으로도 충분할 것이다. 탐색이 중요할 때, 곧 플로를 비교하거나 디자인과 엔지니어링을 이을 때 의미가 있다. 여전히 자동화가 아니라 프롬프트로 하는 수동 단계이며, 변화의 핵심은 선택지가 생겼다는 점이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Claude Codeから\nFigmaへ、実際に試す",
+     "body": "Claude CodeのライブUIをFigmaの編集可能なフレームに送る機能を試した。",
+     "mini_headline": "Claude CodeからFigmaへ、検証",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "開発者たちは何カ月も前から、Claude Codeで使い捨てのプロトタイプを作ってきた。問題はその後だ。フィードバックをもらうには、スクリーンショットを撮るか、動画を録画するか、誰かにブランチをpullしてもらうしかない。"
+       },
+       {
+        "t": "p",
+        "x": "Figmaはこれまでとは違うものを出した。ライブのブラウザUIを、編集可能なフレームとしてFigmaへ直接送れるようになったのだ。スクリーンショットではなく、本物のFigmaレイヤーである。Claude Codeで「send this to Figma」と入力すると、Figma MCPサーバーが本番環境、localhost、ステージングのいずれからでもレンダリング結果をキャプチャし、一つのセッションで複数の画面を取り込める。"
+       },
+       {
+        "t": "p",
+        "x": "逆方向にもつながる。Figmaで変更を加えた後、Figma MCPを使い、プロンプトとリンクでClaude Codeに取り込み直せる。「キャンバスは発散させ、コードは収束させる」"
+       },
+       {
+        "t": "p",
+        "x": "意味がない場面もある。一人で作業している、すでに足並みのそろったチームにいる、あるいはランディングページのような小さな案件なら、スクリーンショットで十分だろう。意味を持つのは探索が重要なとき、つまりフローを比べたり、デザインとエンジニアリングをつないだりする場面だ。依然としてプロンプトを使った手作業であり、自動化ではない。変化の本質は選択肢が増えたことにある。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "实测 Claude Code\n转 Figma 效果如何",
+     "body": "Claude Code 现可把实时 UI 送进 Figma 成为可编辑帧，本文实测其价值。",
+     "mini_headline": "实测 Claude Code 转 Figma",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "几个月来，开发者一直在用 Claude Code 搭建一次性原型。问题出在之后：想获得反馈，就得截图、录视频，或者请别人拉取你的分支。"
+       },
+       {
+        "t": "p",
+        "x": "Figma 刚刚推出了不一样的东西。现在可以把实时浏览器 UI 作为可编辑帧直接发送到 Figma——不是截图，而是真正的 Figma 图层。在 Claude Code 中输入“send this to Figma”，Figma MCP 服务器就会捕获来自生产环境、localhost 或预发布环境的渲染内容，并可在一次会话中捕获多个屏幕。"
+       },
+       {
+        "t": "p",
+        "x": "它也能反向连接：在 Figma 中修改后，再用 Figma MCP 通过一条提示词和一个链接把它拉回 Claude Code。“画布让你发散，代码让你收敛。”"
+       },
+       {
+        "t": "p",
+        "x": "不重要的情况：独自工作、团队早已达成一致，或者做落地页这类小项目，截图大概就够了。当探索很重要时它才有意义——比较流程，或者衔接设计与工程。它仍是靠提示词完成的手动步骤，而非自动化；真正的变化在于多了选择。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Claude Code a Figma a prueba:\nlo que de verdad funciona",
+     "body": "Claude Code ya puede enviar UI en vivo a Figma como marcos editables, y una prueba muestra cuándo conviene.",
+     "mini_headline": "Claude Code a Figma, a prueba",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+       },
+       {
+        "t": "p",
+        "x": "Los desarrolladores llevan meses creando prototipos desechables en Claude Code. El problema es lo que viene después: para recibir comentarios, hay que hacer capturas de pantalla, grabar un video o pedirle a alguien que haga pull de tu rama."
+       },
+       {
+        "t": "p",
+        "x": "Figma acaba de lanzar algo distinto. Ahora se puede enviar UI en vivo del navegador directamente a Figma como marcos editables: no capturas de pantalla, sino capas reales de Figma. Escribes “send this to Figma” en Claude Code; el servidor Figma MCP captura lo que se renderiza, ya sea en producción, localhost o staging, y puede capturar varias pantallas en una sola sesión."
+       },
+       {
+        "t": "p",
+        "x": "También funciona a la inversa: haces cambios en Figma y luego usas Figma MCP para devolverlos a Claude Code con un prompt y un enlace. “El lienzo te permite divergir. El código te permite converger.”"
+       },
+       {
+        "t": "p",
+        "x": "Cuándo no importa: si trabajas solo, en un equipo ya alineado o en algo pequeño como una landing page, donde las capturas de pantalla probablemente basten. Importa cuando la exploración importa: al comparar flujos o tender puentes entre diseño e ingeniería. Siguen siendo pasos manuales con prompts, no automatización; el cambio tiene que ver con tener opciones."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "design-figma-expert-designs-by-describing",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Figma 전문가였던 그,\n이제 설명으로 디자인",
+   "body": "전 Figma 전문가가 앱과 광고를 Claude Opus 5.5에 설명해 만든다.",
+   "mini_headline": "설명으로 디자인하다",
+   "tool": "AI Workflow",
+   "source": "DEV Community",
+   "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+     },
+     {
+      "t": "p",
+      "x": "디자인 엔지니어 Lauri Lännenmäki는 한때 스스로를 Figma 전문가라 불렀다. 지금도 본업에서 Figma를 쓰지만 모든 상태와 모든 베리언트를 거기서 디자인하지는 않는다. Figma에도 이제 자체 AI가 있다. 돌아가기는 하지만 MCP로 Figma 안에서 일하는 Claude보다 느리고 훨씬 약하게 느껴진다."
+     },
+     {
+      "t": "p",
+      "x": "Figma가 진실의 원천이었던 적은 한 번도 없다. 원천은 코드다. 베리언트도 디자인 툴보다 코드에서 더 단순하다. 그가 디자인 툴에서 작업한 버튼 하나는 베리언트가 1,100개까지 불어났다."
+     },
+     {
+      "t": "p",
+      "x": "그는 디자인한 것은 무엇이든 만들려고 CSS를 배웠다. 그런데 이제 웹은 셰이더와 three.js를 요구한다. 그걸 배울 필요는 없다. “더 이상 내 능력에 갇히지 않는다.” 웹사이트, 앱, 게임, 영상 광고까지 그가 설명하면 에이전트가 만든다."
+     },
+     {
+      "t": "p",
+      "x": "그가 걸어온 길은 이렇다. ChatGPT와 복사·붙여넣기, 그다음 Cursor, 이어서 터미널의 Claude Code, 그리고 모든 작업에 MCPs. Figma Console MCP로는 방대한 디자인 시스템 곳곳의 하드코딩 값을 변수로 바꿔 수백 시간을 아꼈다. 지금 그의 에이전트는 Claude Opus 5.5다."
+     },
+     {
+      "t": "p",
+      "x": "코딩을 해 본 적 없는 디자이너에게 그는 곧장 에이전트로 가서 만들기 시작하라고 조언한다. “이제는 누구나 빌더다.”"
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "A one-time Figma expert\nnow designs by describing",
+     "body": "A one-time Figma expert now describes websites, apps and video ads to an agent, Claude Opus 5.5, which builds them.",
+     "mini_headline": "Designing by describing",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "Design engineer Lauri Lännenmäki used to call himself a Figma expert. He still uses it at his day job, but no longer designs every state and every variant there. Figma has its own AI now; it works, but feels slow and much weaker than Claude working in Figma through an MCP."
+       },
+       {
+        "t": "p",
+        "x": "Figma was never the source of truth—code is. Variants are simpler in code than in a design tool, where one button he worked on grew to 1,100 variants."
+       },
+       {
+        "t": "p",
+        "x": "He learned CSS so he could build anything he designed, but the web now expects shaders and three.js. He doesn’t have to learn them: “I’m no longer limited by my own abilities.” Websites, apps, games, video ads: he describes it, an agent builds it."
+       },
+       {
+        "t": "p",
+        "x": "His path: ChatGPT and copy-paste, then Cursor, then Claude Code in the terminal, then MCPs for everything. With Figma Console MCP he swapped hardcoded values for variables across a massive design system, saving hundreds of hours. Today his agent is Claude Opus 5.5."
+       },
+       {
+        "t": "p",
+        "x": "His advice for designers who have never coded: go straight to the agent and start building. “Everybody is a builder now.”"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Figma 전문가였던 그,\n이제 설명으로 디자인",
+     "body": "전 Figma 전문가가 앱과 광고를 Claude Opus 5.5에 설명해 만든다.",
+     "mini_headline": "설명으로 디자인하다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "디자인 엔지니어 Lauri Lännenmäki는 한때 스스로를 Figma 전문가라 불렀다. 지금도 본업에서 Figma를 쓰지만 모든 상태와 모든 베리언트를 거기서 디자인하지는 않는다. Figma에도 이제 자체 AI가 있다. 돌아가기는 하지만 MCP로 Figma 안에서 일하는 Claude보다 느리고 훨씬 약하게 느껴진다."
+       },
+       {
+        "t": "p",
+        "x": "Figma가 진실의 원천이었던 적은 한 번도 없다. 원천은 코드다. 베리언트도 디자인 툴보다 코드에서 더 단순하다. 그가 디자인 툴에서 작업한 버튼 하나는 베리언트가 1,100개까지 불어났다."
+       },
+       {
+        "t": "p",
+        "x": "그는 디자인한 것은 무엇이든 만들려고 CSS를 배웠다. 그런데 이제 웹은 셰이더와 three.js를 요구한다. 그걸 배울 필요는 없다. “더 이상 내 능력에 갇히지 않는다.” 웹사이트, 앱, 게임, 영상 광고까지 그가 설명하면 에이전트가 만든다."
+       },
+       {
+        "t": "p",
+        "x": "그가 걸어온 길은 이렇다. ChatGPT와 복사·붙여넣기, 그다음 Cursor, 이어서 터미널의 Claude Code, 그리고 모든 작업에 MCPs. Figma Console MCP로는 방대한 디자인 시스템 곳곳의 하드코딩 값을 변수로 바꿔 수백 시간을 아꼈다. 지금 그의 에이전트는 Claude Opus 5.5다."
+       },
+       {
+        "t": "p",
+        "x": "코딩을 해 본 적 없는 디자이너에게 그는 곧장 에이전트로 가서 만들기 시작하라고 조언한다. “이제는 누구나 빌더다.”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "元Figmaの達人は今、\n説明してデザインする",
+     "body": "元Figmaの達人はアプリや動画広告をClaude Opus 5.5に説明して作らせる。",
+     "mini_headline": "説明でデザインする",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "デザインエンジニアのLauri Lännenmäkiは、かつて自らをFigmaのエキスパートと称していた。今も本業でFigmaを使っているが、すべてのステートやバリアントをそこでデザインすることはもうない。Figmaにも今や独自のAIがある。動きはするものの、MCP経由でFigma上で作業するClaudeに比べると遅く、はるかに非力に感じるという。"
+       },
+       {
+        "t": "p",
+        "x": "Figmaが信頼できる唯一の情報源だったことは一度もない。それはコードだ。バリアントはデザインツールよりコードのほうがシンプルで、彼が手がけたあるボタンはデザインツール上で1,100のバリアントにまで膨れ上がった。"
+       },
+       {
+        "t": "p",
+        "x": "彼はデザインしたものを何でも作れるようにCSSを学んだが、今のウェブはシェーダーやthree.jsを求める。それを学ぶ必要はない。「もう自分の能力に縛られない」。ウェブサイト、アプリ、ゲーム、動画広告——彼が説明すれば、エージェントが作る。"
+       },
+       {
+        "t": "p",
+        "x": "彼の歩みはこうだ。ChatGPTとコピー&ペースト、次にCursor、そしてターミナルのClaude Code、さらにあらゆる作業にMCPs。Figma Console MCPを使って巨大なデザインシステム全体のハードコードされた値を変数に置き換え、数百時間を節約した。現在の彼のエージェントはClaude Opus 5.5だ。"
+       },
+       {
+        "t": "p",
+        "x": "コードを書いたことのないデザイナーへの助言は、まっすぐエージェントのところへ行って作り始めること。「今や誰もがビルダーだ」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "昔日 Figma 专家\n如今靠描述做设计",
+     "body": "前 Figma 专家如今向 Claude Opus 5.5 描述应用和视频广告，由它构建。",
+     "mini_headline": "靠描述做设计",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "设计工程师 Lauri Lännenmäki 曾自称 Figma 专家。他在日常工作中仍在使用 Figma，但不再在那里设计每一种状态和每一个变体。Figma 如今有了自己的 AI；它能用，但与通过 MCP 在 Figma 中工作的 Claude 相比，感觉又慢又弱得多。"
+       },
+       {
+        "t": "p",
+        "x": "Figma 从来不是唯一的事实来源——代码才是。变体在代码中比在设计工具中更简单；在设计工具里，他做过的一个按钮膨胀到了 1,100 个变体。"
+       },
+       {
+        "t": "p",
+        "x": "他学了 CSS，好把自己设计的任何东西都做出来，但如今的网页要求着色器和 three.js。他不必去学：“我不再受限于自己的能力。”网站、应用、游戏、视频广告：他来描述，智能体来构建。"
+       },
+       {
+        "t": "p",
+        "x": "他的路径是：ChatGPT 加复制粘贴，然后是 Cursor，接着是终端里的 Claude Code，再到用 MCPs 处理一切。借助 Figma Console MCP，他在一个庞大的设计系统中把硬编码值换成了变量，省下了数百小时。如今他的智能体是 Claude Opus 5.5。"
+       },
+       {
+        "t": "p",
+        "x": "他给从未写过代码的设计师的建议是：直接找智能体，开始动手构建。“现在人人都是构建者。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Un antiguo experto en Figma\nahora diseña describiendo",
+     "body": "Un antiguo experto en Figma describe ahora apps y anuncios en video a un agente, Claude Opus 5.5, que los construye.",
+     "mini_headline": "Diseñar describiendo",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "El ingeniero de diseño Lauri Lännenmäki solía llamarse a sí mismo experto en Figma. Todavía lo usa en su trabajo diario, pero ya no diseña allí cada estado y cada variante. Figma ya tiene su propia AI; funciona, pero se siente lenta y mucho más débil que Claude trabajando en Figma a través de un MCP."
+       },
+       {
+        "t": "p",
+        "x": "Figma nunca fue la fuente de verdad: lo es el código. Las variantes son más simples en código que en una herramienta de diseño, donde un botón en el que trabajó llegó a 1,100 variantes."
+       },
+       {
+        "t": "p",
+        "x": "Aprendió CSS para poder construir cualquier cosa que diseñara, pero la web ahora espera shaders y three.js. No tiene que aprenderlos: “Ya no estoy limitado por mis propias habilidades”. Sitios web, apps, juegos, anuncios en video: él lo describe y un agente lo construye."
+       },
+       {
+        "t": "p",
+        "x": "Su recorrido: ChatGPT y copiar y pegar, luego Cursor, después Claude Code en la terminal y, por último, MCPs para todo. Con Figma Console MCP sustituyó valores fijos por variables en un enorme sistema de diseño y se ahorró cientos de horas. Hoy su agente es Claude Opus 5.5."
+       },
+       {
+        "t": "p",
+        "x": "Su consejo para los diseñadores que nunca han programado: ir directamente al agente y empezar a construir. “Ahora todo el mundo es constructor”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Figma 전문가였던 그,\n이제 설명으로 디자인",
+     "body": "전 Figma 전문가가 앱과 광고를 Claude Opus 5.5에 설명해 만든다.",
+     "mini_headline": "설명으로 디자인하다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "디자인 엔지니어 Lauri Lännenmäki는 한때 스스로를 Figma 전문가라 불렀다. 지금도 본업에서 Figma를 쓰지만, 모든 상태와 모든 베리언트를 그곳에서 디자인하지는 않는다. Figma에도 이제 자체 AI가 있다. 작동은 하지만, MCP를 통해 Figma 안에서 일하는 Claude보다 느리고 훨씬 약하게 느껴진다."
+       },
+       {
+        "t": "p",
+        "x": "Figma는 한 번도 진실의 원천이었던 적이 없다. 원천은 코드다. 베리언트는 디자인 툴보다 코드에서 더 단순하다. 디자인 툴에서는 그가 작업한 버튼 하나의 베리언트가 1,100개까지 불어났다."
+       },
+       {
+        "t": "p",
+        "x": "그는 디자인한 것은 무엇이든 만들 수 있도록 CSS를 배웠지만, 이제 웹은 셰이더와 three.js를 요구한다. 그는 그것들을 배울 필요가 없다. “더 이상 내 능력에 갇히지 않는다.” 웹사이트, 앱, 게임, 영상 광고까지, 그가 설명하면 에이전트가 만든다."
+       },
+       {
+        "t": "p",
+        "x": "그가 걸어온 길은 이렇다. ChatGPT와 복사·붙여넣기, 그다음 Cursor, 이어서 터미널의 Claude Code, 그리고 모든 작업에 MCPs. Figma Console MCP로 방대한 디자인 시스템 전반의 하드코딩 값을 변수로 바꿔 수백 시간을 아꼈다. 지금 그의 에이전트는 Claude Opus 5.5다."
+       },
+       {
+        "t": "p",
+        "x": "코딩을 해 본 적 없는 디자이너에게 그가 건네는 조언은 곧장 에이전트로 가서 만들기 시작하라는 것이다. “이제는 누구나 빌더다.”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "元Figmaの達人は今、\n説明してデザインする",
+     "body": "元Figmaの達人はアプリや動画広告をClaude Opus 5.5に説明して作らせる。",
+     "mini_headline": "説明でデザインする",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "デザインエンジニアのLauri Lännenmäkiは、かつて自らをFigmaのエキスパートと称していた。今も本業でFigmaを使っているが、すべてのステートやバリアントをそこでデザインすることはもうない。Figmaにも今や独自のAIがある。動きはするものの、MCP経由でFigma上で作業するClaudeに比べると遅く、はるかに非力に感じるという。"
+       },
+       {
+        "t": "p",
+        "x": "Figmaが信頼できる唯一の情報源だったことは一度もない。それはコードだ。バリアントはデザインツールよりコードのほうがシンプルで、彼が手がけたあるボタンはデザインツール上で1,100のバリアントにまで膨れ上がった。"
+       },
+       {
+        "t": "p",
+        "x": "彼はデザインしたものを何でも作れるようにCSSを学んだが、今のウェブはシェーダーやthree.jsを求める。それを学ぶ必要はない。「もう自分の能力に縛られない」。ウェブサイト、アプリ、ゲーム、動画広告——彼が説明すれば、エージェントが作る。"
+       },
+       {
+        "t": "p",
+        "x": "彼の歩みはこうだ。ChatGPTとコピー&ペースト、次にCursor、そしてターミナルのClaude Code、さらにあらゆる作業にMCPs。Figma Console MCPを使って巨大なデザインシステム全体のハードコードされた値を変数に置き換え、数百時間を節約した。現在の彼のエージェントはClaude Opus 5.5だ。"
+       },
+       {
+        "t": "p",
+        "x": "コードを書いたことのないデザイナーへの助言は、まっすぐエージェントのところへ行って作り始めること。「今や誰もがビルダーだ」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "昔日 Figma 专家\n如今靠描述做设计",
+     "body": "前 Figma 专家如今向 Claude Opus 5.5 描述应用和视频广告，由它构建。",
+     "mini_headline": "靠描述做设计",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "设计工程师 Lauri Lännenmäki 曾自称 Figma 专家。他在日常工作中仍在使用 Figma，但不再在那里设计每一种状态和每一个变体。Figma 如今有了自己的 AI；它能用，但与通过 MCP 在 Figma 中工作的 Claude 相比，感觉又慢又弱得多。"
+       },
+       {
+        "t": "p",
+        "x": "Figma 从来不是唯一的事实来源——代码才是。变体在代码中比在设计工具中更简单；在设计工具里，他做过的一个按钮膨胀到了 1,100 个变体。"
+       },
+       {
+        "t": "p",
+        "x": "他学了 CSS，好把自己设计的任何东西都做出来，但如今的网页要求着色器和 three.js。他不必去学：“我不再受限于自己的能力。”网站、应用、游戏、视频广告：他来描述，智能体来构建。"
+       },
+       {
+        "t": "p",
+        "x": "他的路径是：ChatGPT 加复制粘贴，然后是 Cursor，接着是终端里的 Claude Code，再到用 MCPs 处理一切。借助 Figma Console MCP，他在一个庞大的设计系统中把硬编码值换成了变量，省下了数百小时。如今他的智能体是 Claude Opus 5.5。"
+       },
+       {
+        "t": "p",
+        "x": "他给从未写过代码的设计师的建议是：直接找智能体，开始动手构建。“现在人人都是构建者。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Un antiguo experto en Figma\nahora diseña describiendo",
+     "body": "Un antiguo experto en Figma describe ahora apps y anuncios en video a un agente, Claude Opus 5.5, que los construye.",
+     "mini_headline": "Diseñar describiendo",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+       },
+       {
+        "t": "p",
+        "x": "El ingeniero de diseño Lauri Lännenmäki solía llamarse a sí mismo experto en Figma. Todavía lo usa en su trabajo diario, pero ya no diseña allí cada estado y cada variante. Figma ya tiene su propia AI; funciona, pero se siente lenta y mucho más débil que Claude trabajando en Figma a través de un MCP."
+       },
+       {
+        "t": "p",
+        "x": "Figma nunca fue la fuente de verdad: lo es el código. Las variantes son más simples en código que en una herramienta de diseño, donde un botón en el que trabajó llegó a 1,100 variantes."
+       },
+       {
+        "t": "p",
+        "x": "Aprendió CSS para poder construir cualquier cosa que diseñara, pero la web ahora espera shaders y three.js. No tiene que aprenderlos: “Ya no estoy limitado por mis propias habilidades”. Sitios web, apps, juegos, anuncios en video: él lo describe y un agente lo construye."
+       },
+       {
+        "t": "p",
+        "x": "Su recorrido: ChatGPT y copiar y pegar, luego Cursor, después Claude Code en la terminal y, por último, MCPs para todo. Con Figma Console MCP sustituyó valores fijos por variables en un enorme sistema de diseño y se ahorró cientos de horas. Hoy su agente es Claude Opus 5.5."
+       },
+       {
+        "t": "p",
+        "x": "Su consejo para los diseñadores que nunca han programado: ir directamente al agente y empezar a construir. “Ahora todo el mundo es constructor”."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

@@ -1,96 +1,102 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "gadgets",
-  "items": [
+  "picks": [
     {
-      "title": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses",
-      "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
-      "source": "9to5Google",
-      "published_iso": "2026-10-05T20:20:00Z",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses — Meta’s most recent updates for its Ray-Ban smart glasses deliver upgrades to audio playback as well as new turn-by-turn walking...",
-      "category": "gadgets",
+      "title": "Teen founder reveals 'personal AI computer' that's a $3,499 Mac mini rival",
+      "url": "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A shipping software update that adds turn-by-turn walking navigation to AI glasses already on people's faces. It is the one Meta-glasses pick from the overlap group."
+      "rationale": "New dedicated local-agent hardware (Ghost Core, RTX PRO 4000) that pitches a subscription-free, always-on AI box, a fresh device category angle.",
+      "published_iso": "2026-10-06T16:17:33Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg",
+      "excerpt": "Ghost's Core 'builds context on your life over time and works continuously to help you' while offering tight security and privacy."
     },
     {
-      "title": "Windows 11 26H2 begins roll-out with AI File Explorer actions",
-      "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
-      "source": "Notebookcheck",
-      "published_iso": "2026-10-04T11:30:00Z",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Windows-11-update-26H2.jpg",
-      "excerpt": "Microsoft rolls out Windows 11 version 26H2. Explore Copilot File Explorer AI tools, system settings, NLP controls, lightweight enablement packages, and IT security.",
-      "category": "gadgets",
+      "title": "Google AI Edge Foresight for Mac turns scribbles into full notes using offline recordings",
+      "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A major OS release now rolling out that puts Copilot actions into File Explorer, which changes everyday file work on Windows PCs right away."
+      "motif": "headset",
+      "rationale": "Google ships EmbeddingGemma 2 with an offline on-device notetaking Mac app, a concrete new release for on-device AI.",
+      "published_iso": "2026-10-06T17:15:19+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Google today announced EmbeddingGemma 2. To show off its potential, Google created an AI Edge Foresight Mac app for \"intelligent notetaking.\""
     },
     {
-      "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
-      "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-      "source": "MacRumors",
-      "published_iso": "2026-10-05T20:45:55Z",
-      "og_image": "https://images.macrumors.com/t/WMjqSd526Ap3lIAo2sohNrw5gNo=/1920x/article-new/2026/09/Apple-TV-Sans-Remote-Feature.jpg",
-      "excerpt": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV — Apple's latest tvOS 27.2 beta adds weight to rumors that the next Apple TV will have Siri AI and Apple Intelligence support. Code suggests Apple is adding an Improve Siri & Apple Intelligence toggle to the tvOS Settings app.",
-      "category": "gadgets",
-      "tool": "Gadgets",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New beta-code evidence that brings Siri AI to the living-room TV box. It is a different device and a different leak from the 10-05 iPad card."
-    },
-    {
-      "title": "The First 'Wireless GPU' Uses Wi-Fi to Headbutt All Those AI Subscriptions",
-      "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-      "source": "Gizmodo",
-      "published_iso": "2026-10-05T20:30:00Z",
-      "og_image": "https://gizmodo.com/app/uploads/2026/10/WiCi-One-5-1200x675.jpg",
-      "excerpt": "The First 'Wireless GPU' Uses Wi-Fi to Headbutt All Those AI Subscriptions — Just don't imagine the WiCi eGPU will be all that useful for turning your laptop into a gaming powerhouse.",
-      "category": "gadgets",
+      "title": "Google's new Fitbit could make you rethink buying a smartwatch",
+      "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
+      "source": "Digital Trends",
       "tool": "Gadgets",
       "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "A new hardware category, a Wi-Fi eGPU for running local AI, tested hands-on. It is a fresh take on local AI compute instead of another mini-PC."
+      "motif": "headset",
+      "rationale": "Rumored Fitbit Edge tracker built around Gemini coaching, a sign that Google's AI health coach is moving onto low-cost dedicated wearables.",
+      "published_iso": "2026-10-06T09:26:24-07:00",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C630",
+      "excerpt": "Google’s rumored Fitbit Edge could pack a screen, GPS, Gemini coaching, and week-long battery life into one tiny tracker."
     },
     {
-      "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
-      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
-      "source": "Android Authority",
-      "published_iso": "2026-10-05T12:11:36Z",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-      "excerpt": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements — New Pixel Search update introduces a \"Privacy & Permissions\" section letting users stop the app from using their data to improve suggestions.",
-      "category": "gadgets",
+      "title": "JBL's New Party Speaker Has an AI Karaoke Feature You May Actually Want to Use",
+      "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
+      "source": "Gizmodo",
+      "tool": "Gadgets",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "rationale": "New consumer audio product with on-device AI vocal stem separation, a practical AI feature in a mainstream gadget.",
+      "published_iso": "2026-10-06T19:15:27+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg",
+      "excerpt": "The PartyBox Ultimate 2 uses JBL's AI tool to strip vocals from your songs."
+    },
+    {
+      "title": "Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Gemini moving into the Pixel launcher's search bar, with a new control over whether your data trains suggestions. It covers a different surface from the published Pixel Buds and Call for Me cards and adds a fifth outlet."
+      "motif": "headset",
+      "rationale": "Launch of a free, fully on-device personal AI assistant positioned against Meta Muse, a new product release rather than more Muse coverage.",
+      "published_iso": "2026-10-06T20:47:01+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+      "excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
     }
+  ],
+  "alternates": [
+    "https://www.etnews.com/20261006000286",
+    "https://www.windowscentral.com/hardware/qualcomm/qualcomms-snapdragon-x2-doesnt-need-the-extreme-badge-to-beat-intel-signal65-study",
+    "https://www.notebookcheck.net/Expandable-AI-workstation-with-RTX-PRO-Blackwell-introduced-in-a-compact-5L-chassis.1416965.0.html",
+    "https://www.androidcentral.com/wearables/solos-gives-its-smart-glasses-a-physical-privacy-kill-switch"
   ],
   "dedup": {
     "checks": {
-      "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/": {
+      "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box": {
         "verdict": "new",
-        "nearest": "https://www.uploadvr.com/ray-ban-meta-audio-glasses-no-camera/"
+        "nearest": "https://www.wired.com/review/apple-mac-mini-m6/",
+        "new_action": ""
       },
-      "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html": {
+      "https://9to5google.com/2026/10/06/google-ai-edge-foresight/": {
         "verdict": "new",
-        "nearest": "https://www.xda-developers.com/gemini-app-for-windows-puts-copilot-to-shame/"
+        "nearest": "https://www.xda-developers.com/found-speech-recognition-model-vs-code-never-sends-word-cloud/",
+        "new_action": ""
       },
-      "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/": {
+      "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Apple-s-cheapest-iPad-is-finally-getting-Apple-Intelligence-leaked-code-shows.1408672.0.html"
+        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
+        "new_action": ""
       },
-      "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866": {
+      "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328": {
         "verdict": "new",
-        "nearest": ""
+        "nearest": "",
+        "new_action": ""
       },
-      "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/": {
+      "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/"
+        "nearest": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "new_action": ""
       }
     },
-    "note": "SWAP (10-06): removed the TDK retinal-display pick (Notebookcheck) because the full-article check found the body never mentions AI; it is a pure optics story. Replaced it with Android Authority's Pixel Search Gemini teardown, the best remaining candidate where AI is central to the device. Its history_match (09-29 Pixel Buds Gemini controls) is a different product surface, and no published card covers Pixel launcher search, so it is new. The replacement also brings Notebookcheck down to one card and gives 5 distinct outlets. Other options passed over in this swap: Ghost Core (TechCrunch; mainly a funding story), Gemini Call for Me for contacts (an APK teardown expanding the 09-26 card), the EU Siri wait (a prediction), AMD Gorgon Halo benchmarks (vendor PR, covered 09-29), the UGREEN price drop (a deal), Deliveroo robots (AI not central), the Norway ban (politics), and any further Meta-glasses cards. Original note: Excluded by cross-section rule: the Norway AI-glasses ban (Ars Technica), which belongs to politics. From the Meta-glasses overlap group I kept only the 9to5Google software update (a new release, distinct from the 10-05 Ray-Ban Meta Audio hardware card). Dropped from that group: the WIRED Gen 3 review, the UploadVR Display features, the CNET Muse charm smartwatch piece, and the TechRadar Dutch retailer pull. Dropped as duplicates or follow-ups with no new release: the Samsung Android XR glasses November launch, the Google Home 09-30 update, Gemini Call for Me for contacts, the Anker eufy S4 doorbell, and the EU Siri wait. Dropped on quality: AMD Gorgon Halo benchmarks, Ghost $11M raise and Safeworld (funding noise), Soulog Sense (promoted post), the UGREEN NAS price drop, the Siri data how-to, and Deliveroo robots."
+    "note": "Coordinator swap: removed Notebookcheck Surface Laptop Ultra (enrichment found a pure hardware leak, no AI content) and TechRadar Norway smart-glasses ban (substance is camera/privacy regulation, not AI); replaced with next-ranked alternates Fitbit Edge (Digital Trends) and Underdog (TechCrunch). Neither replacement is in /tmp/ax_claimed_urls.txt nor the same story as a claimed URL (the claimed TechCrunch LibreOffice item is unrelated). Underdog's history_match (Wired, Meta glasses privacy, 09-25) is weaker than the 10-03 Verge Muse open-source card, so the Verge card is named as nearest; Underdog is a separate product launch, not Muse coverage. Fitbit Edge has no 30-day match; the nearest is the 09-28 Pixel Buds Gemini card. Windows Central Oct 7 event preview removed from alternates (same cluster as the dropped Surface leak). Original drops: Digital Trends Siri smart-home leak (= 10-06 tvOS 27.2 Apple Intelligence / 09-22 Apple smart home display); Android Authority Meta Muse week hands-on and CNET Muse 'AI Tamagotchi' (commentary on Muse, covered 09-23/09-24/09-25/10-03); 9to5Google Samsung Android XR glasses November (= 10-02 Samsung FCC glasses story); UploadVR Ray-Ban Display features (overlaps 10-06 Meta Ray-Ban updates); GSMArena Siri AI EU timeline (Siri AI running story). Low AI relevance: Verge Apple+LG HomeKit gear, TDK retina display, UploadVR Meta VR Glasses. Outlet spread: TechRadar, 9to5Google, Digital Trends, Gizmodo, TechCrunch (1 each)."
   }
 }

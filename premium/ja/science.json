@@ -6721,6 +6721,135 @@
           "x": "「人間と協働し、より人間と相性のよい形で世界を理解するAIを求めるなら、正しい答えを出せるかどうかだけに注目するわけにはいかない」と、責任著者のKohitij Karは述べた。"
         }
       ]
+    },
+    "science/science-flashflood-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "鉄砲水は数分で地域社会に壊滅的な被害を与えうる。National Weather Serviceによると、こうした災害は洪水全体の約85%を占め、世界で毎年数千人の死者を出している。"
+        },
+        {
+          "t": "p",
+          "x": "Penn Stateの研究者を含むチームは、AI画像生成を支える技術を応用して時間単位の鉄砲水リスクを予測し、その成果をWater Resources Researchで詳しく報告した。"
+        },
+        {
+          "t": "p",
+          "x": "「鉄砲水のピークが時間単位で生じることは広く知られている」と責任著者のChaopeng Shenは述べた。モデルは拡散(diffusion)を用いる。きれいなデータにノイズを加え、モデルがそれを取り除く方法を学ぶ仕組みだ。最新の水位計の観測値は再学習なしで注入でき、この処理はインペインティング(inpainting)と呼ばれる。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+          "cap": "各河川流域のNash-Sutcliffe Efficiency(NSE)の地図。色の薄い点ほど予測が正確であることを示す。提供:Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+        },
+        {
+          "t": "p",
+          "x": "U.S.の516の河川流域における時間ごとの流量(1990–2003)で学習し、2009–2014のデータで検証したところ、この手法は高流量時も含め、既存の最良の時間単位ディープラーニング(deep-learning)モデルをおおむね上回った。逆向きに動かし、ある流量をもたらした降雨量を推定することもできる。"
+        }
+      ]
+    },
+    "science/science-heart-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+          "cap": "提供:Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "心拍の記録と血液検査を分析することで、移植患者の体がドナー心臓を攻撃し始めたことを人工知能が正確に検知できる可能性があると、新たな研究が示した。現在、拒絶反応の診断におけるゴールドスタンダードは生検である。"
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Healthの研究者が率いるチームは、成人の心臓移植患者2,357人から得た5,300件のEKGでAIモデルを訓練した。一つのモデルはEKGデータのみを使い、もう一つはEKGsに、拒絶リスクの予測に広く使われる二つの血液検査を組み合わせた。"
+        },
+        {
+          "t": "p",
+          "x": "38人の検証群では、組み合わせモデルの方が成績がよく、拒絶反応のない患者の94%を正しく識別した。血液検査モデルは19人を、生検が必要な可能性があると誤って判定した。"
+        },
+        {
+          "t": "p",
+          "x": "「心電図には豊富な生理学的情報が含まれており、検出精度を大きく高めるのに活用できる」と、責任著者のLior Jankelsonは述べた。JHLT Openに掲載されたこの研究は、これらのバイオマーカーとEKGsを単一のAIモデルで組み合わせた初の例である。チームは次に、複数の移植施設でモデルを検証する計画だ。"
+        }
+      ]
+    },
+    "science/science-earth-ai-public-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "公衆衛生の意思決定は、適時できめ細かなデータに依存する。だがサーベイランスは、数年にわたる報告の遅れ、国境で分断されたデータ、データの乏しさにしばしば阻まれる。"
+        },
+        {
+          "t": "p",
+          "x": "Google ResearchのEarth AI Population Dynamics Foundation Model(PDFM)は、プライバシーに配慮した検索トレンド、人の移動、建造環境の密度、環境シグナルを位置埋め込みに圧縮し、疫学者の既存モデルにそのまま組み込めるようにする。タスク固有のファインチューニング(fine-tuning)なしで、従来の入力と同等かそれ以上の結果を示した。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+          "cap": "幅広い世界的な健康課題に適用されたGoogle Earth AIのPDFMの概要。"
+        },
+        {
+          "t": "p",
+          "x": "パートナーとの五つの事例研究で検証が行われた。国境をまたぐMMRワクチン接種モデルは変動の16%ではなく22%を説明した。心血管死亡のナウキャストは国勢調査ベースのモデルに並んだ。メキシコのデング熱予測は、感染が活発な自治体の最大72%で改善した。産後うつのリスク予測も向上し、DRCでの八週間のコレラ候補リストは18%改善した。"
+        },
+        {
+          "t": "p",
+          "x": "PDFMの埋め込みは、Google Maps PlatformのPopulation Dynamics InsightsとしてPreview版で商用提供されており、一部の研究用途には無償で利用できる。"
+        }
+      ]
+    },
+    "science/science-microalgae-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+          "cap": "提供:Amarnath Krishnamoorthy"
+        },
+        {
+          "t": "p",
+          "x": "微細藻類は動物飼料や色素、さらには再生可能燃料の原料になりうるが、産業規模で効率よく育てるのは難しい。フォトバイオリアクターでは光、温度、pH、酸素を制御する必要があり、これらの条件は互いに影響し合う。"
+        },
+        {
+          "t": "p",
+          "x": "センサーでこうした条件を連続的に測定し、機械学習(machine-learning)モデルでデータを解析すれば、生育の予測、培養の最適化、目に見える前のストレスの検知が可能になる。画像ベース(Image-based)の手法では、バイオマスや培養密度を推定できる。"
+        },
+        {
+          "t": "p",
+          "x": "スペインのAlmeriaで行われた2026年の研究では、80 m²の開放型レースウェイで強化学習を試験し、屋外条件が変わる八日間にわたって二酸化炭素の注入を制御してpHを調整した。"
+        },
+        {
+          "t": "p",
+          "x": "課題も残る。センサーは汚れたりずれたりし、ある株や反応器向けに作ったモデルが他に通用するとは限らない。AIは従来のプロセス工学に代わるものではなく、追加の道具とみなすべきだと、Amarnath KrishnamoorthyはThe Conversationに書いている。"
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "クレジット: Orhan Akbaba（Pexels）"
+        },
+        {
+          "t": "p",
+          "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
+        },
+        {
+          "t": "p",
+          "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
+        },
+        {
+          "t": "p",
+          "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
+        },
+        {
+          "t": "p",
+          "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
+        }
+      ]
     }
   }
 }

@@ -1,101 +1,109 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "science",
   "items": [
     {
-      "title": "Detecting forever chemicals—with yeast and AI",
-      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-05T15:00:10-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pfas.jpg",
-      "excerpt": "Researchers pair engineered yeast biosensors with AI analysis to detect PFAS 'forever chemicals' in samples.",
+      "title": "Agentic AI turns simple language into self-guided X-ray scans of microelectronics",
+      "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-10-06T12:40:13-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+      "excerpt": "Science has increasingly used artificial intelligence (AI) as a kind of microscope—sorting data, analyzing images and revealing hidden patterns. Now a new shift is underway: AI that not only breaks down data but also helps scientists decide what to do next through simple, natural",
       "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "New environmental-chemistry result that pairs engineered yeast biosensors with AI readout to detect PFAS. It is the freshest item in the pool and has no counterpart in the 30-day history."
+      "rationale": "An AI agent takes plain-language instructions and steers X-ray imaging of microelectronics on its own. This moves AI from analyzing data to running the instrument, and it is a different instrument and study from the 09-15 AFM microscope card."
     },
     {
-      "title": "X-Rays and AI Reveal How Spacecraft Heat Shields Burn in Real Time",
-      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
-      "source": "Universe Today",
-      "published_iso": "2026-10-05T10:02:19+00:00",
-      "og_image": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg",
-      "excerpt": "Berkeley Lab researchers combined X-ray imaging with AI analysis to watch spacecraft heat-shield material ablate in real time.",
+      "title": "AI techniques behind image creation improve flash flood forecasts across U.S. river basins",
+      "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-06T17:30:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg",
+      "excerpt": "A flash flood can devastate a community for years in a matter of minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, with water levels capable of shooting up 30 feet (9 meters) and receding to normal levels in the span of a",
       "category": "science",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Berkeley Lab materials and space-engineering result in which AI analysis of X-ray imaging tracks heat-shield ablation as it happens. Adds a space and materials field."
+      "rationale": "A specific new hydrology result that applies image-generation methods to flash-flood forecasting across U.S. river basins. The history_match (09-13) is a general feature on AI disaster forecasting, not this study."
     },
     {
-      "title": "Autonomous AI could create capacity for thousands more dermatology appointments, real-world study finds",
-      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
+      "title": "AI may help catch heart transplant rejection without biopsies",
+      "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
       "source": "Medical Xpress",
-      "published_iso": "2026-09-30",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-      "excerpt": "A real-world study of 8,391 patients found autonomous AI could free roughly 8,500 dermatology appointments over 16 months by safely discharging benign cases, with over 98% sensitivity for invasive melanoma.",
+      "published_iso": "2026-10-06T14:20:04-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+      "excerpt": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests.",
       "category": "science",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Real-world clinical study of 8,391 patients with concrete outcome numbers (over 98% melanoma sensitivity, about 8,500 appointments freed). It was the strongest of the medical candidates."
+      "rationale": "New clinical study in which AI reads ECGs and blood tests to flag heart transplant rejection without invasive biopsies. It is a different condition and study from the 09-12 STAT heart-attack EKG card and the 09-30 xECG card."
     },
     {
-      "title": "AI chatbots give us a narrow slice of knowledge: Researchers warn of 'knowledge collapse'",
-      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-28",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-      "excerpt": "University of Copenhagen researchers found AI chatbots deliver significantly less diverse information than Google search across 155 topics, warning of 'knowledge collapse' as models train on AI text.",
+      "title": "Unlocking Earth AI's planetary geospatial foundation models for global public health",
+      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "source": "Google Research",
+      "published_iso": "2026-10-06T15:05:11+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "Google Research blog post on applying Earth AI's planetary geospatial foundation models to global public health (excerpt not extractable; enrichment pass should read the body).",
       "category": "science",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Empirical University of Copenhagen study across 155 topics that measures how much less diverse chatbot answers are than search results. A cognitive and information-science result, not opinion."
+      "rationale": "Primary-source research release that applies geospatial foundation models to population-health questions. It adds a lab-blog outlet and an Earth-observation-meets-epidemiology field. The history_match (ocean sediment carbon, 09-09) is unrelated."
     },
     {
-      "title": "The tests that grade AI may be getting it wrong",
-      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-30",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-      "excerpt": "Stanford researchers analyzed 56 widely used AI benchmarks and found major measurement inconsistencies, including safety benchmarks that degrade across languages, arguing for measurement-science methods.",
+      "title": "From food to fuel, AI helps pinpoint how to grow 'microalgae' at scale",
+      "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
+      "source": "Phys.org",
+      "published_iso": "2026-10-06T15:20:15-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+      "excerpt": "Microalgae (microscopic organisms that use light and carbon dioxide to grow) can be used to make ingredients and food for animals, pigments and potentially renewable fuels. But growing microalgae efficiently at an industrial scale is difficult.",
       "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Stanford measurement-science audit of 56 AI benchmarks, with concrete findings such as safety benchmarks that degrade across languages. It is a different study from the 09-08 BenchMIRT post."
+      "rationale": "Applied bioprocess result in which AI finds growth conditions for industrial-scale microalgae. It is fresh, has no counterpart in the 30-day history, and adds a biotech and energy field."
     }
+  ],
+  "alternates": [
+    "https://phys.org/news/2026-10-ai-method-retention-small-molecules.html",
+    "https://medicalxpress.com/news/2026-10-camera-combined-ai-diagnosis-movement.html",
+    "https://techxplore.com/news/2026-10-gender-pay-gap-ai-female.html",
+    "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+    "https://techxplore.com/news/2026-10-scientists-detector-ai-chatbots.html",
+    "https://www.scientificamerican.com/article/what-makes-a-good-ai-safety-test-experts-explain-why-even-the-best-techniques-may-not-be-powerful-enough/"
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-chemicals-yeast-ai.html": {
+      "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
+        "nearest": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
         "new_action": ""
       },
-      "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time": {
+      "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
+        "nearest": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
         "new_action": ""
       },
-      "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html": {
+      "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html": {
         "verdict": "new",
-        "nearest": "https://medicalxpress.com/news/2026-09-ai-routine-imaging-patients-treatment.html",
+        "nearest": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html": {
+      "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-ai-generated-summaries-distort-human.html",
+        "nearest": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-09-grade-ai-wrong.html": {
+      "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html": {
         "verdict": "new",
-        "nearest": "https://allenai.org/blog/benchmirt",
+        "nearest": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
         "new_action": ""
       }
     },
-    "note": "DROPPED as repeats: (1) Phys.org 'Self-driving lab automates semiconductor ink synthesis' (KIT E-MAP). history_match is the 09-27 EurekAlert card 'Self-driving lab speeds up materials development', which appears to cover the same KIT release, so it is treated as a duplicate. (2) Physics World 'Drones, AI and the future of wildlife conservation' is an evergreen feature that overlaps the 10-03 Antarctica drones/AI card. NOT PICKED for other reasons: opinion, essay or feature pieces (SciAm attachment theory, MIT Tech Review 'LLMs don't reason', STAT Nobel op-ed, Quanta 'end of math', Psychology Today outsourcing). Quantum Insider AIDAQ is conference roundup noise. MIT algorithmic monoculture is economics, with AI peripheral. In the SciAm Etruscan tomb story the AI role is unclear. Medical Xpress MEL-IA skin-lesion tool is the same dermatology theme as the stronger real-world study that was picked. Arrhythmia GNN is validated only on simulated data. Phys.org 'Have it disagree with you' (45 workers) and Tech Xplore gender pay gap would push an outlet over the 2-per-outlet cap. The phys.org item's history_match (InstructMesh, 10-05) is unrelated. No pathogen-adjacent items in the pool. Outlets: Phys.org 1, Universe Today 1, Medical Xpress 1, Tech Xplore 2 (4 distinct)."
+    "note": "No candidate is a repeat of the 30-day history. All four history_match tags are 'related' band and each points to a different study. DROPPED as repeat: Physics World 'Drones, AI and the future of wildlife conservation' is an evergreen feature that overlaps the 10-03 Antarctica drones card and was already passed over on 10-06. NOT PICKED as opinion, essay or feature: Quanta 'Is AI the End of Math', SciAm attachment theory, SciAm AI safety test explainer, MSR podcast, Tech Xplore lie-detector expert piece. NOT PICKED as off-axis: MIT algorithmic monoculture (economics), MIT 'How AI Sees the City' (book). In the SciAm Etruscan tomb story the AI role is unclear. MIT AI hardware survey leans toward compute and industry. Phys.org retention-times was skipped to keep Phys.org at 2; it is the first alternate. Medical Xpress newborn camera and Tech Xplore gender pay gap were weaker than the picks. No pathogen or biosecurity items were picked; the Google public-health post is about geospatial population health. Outlets: Tech Xplore 1, Phys.org 2, Medical Xpress 1, Google Research 1 (4 distinct)."
   }
 }

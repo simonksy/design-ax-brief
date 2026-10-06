@@ -5461,6 +5461,157 @@
           "x": "MForMedia由联合创始人兼管理合伙人Ralph Matar和Khalil Homeissy领导，制作Carpool Karaoke和The X Factor的阿拉伯语版本。此前不久，MForMedia聘请MENA电视业资深人士Ziad Kebbi担任董事总经理，并宣布公司将转向AI制作、原创内容和IP所有权。"
         }
       ]
+    },
+    "movies/movies-gods-dont-give-gifts-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+          "cap": "Gods Don't Give Gifts剧照"
+        },
+        {
+          "t": "video",
+          "yt": "1G5LArU7tmE"
+        },
+        {
+          "t": "p",
+          "x": "人气YouTuber Gossip Goblin（本名Zack London）发布了新片Gods Don’t Give Gifts的预告片，这是一部完全由人工智能制作的长片。"
+        },
+        {
+          "t": "p",
+          "x": "这部sci-fi影片将于12月4日在U.S.（美国）和UK（英国）有限上映。片方表示，它是首部获得MPA分级（R）的AI电影，也是首部角逐Academy Awards的Best Animated Feature（最佳动画长片）类别的AI电影。预告片将于周五登陆影院，户外广告牌广告将于11月开始投放。"
+        },
+        {
+          "t": "p",
+          "x": "该片上月在Venice Film Festival市场单元进行了预览，由Edward Saatchi担任制片。Saatchi的AI公司Fable的投资方包括Amazon。"
+        },
+        {
+          "t": "p",
+          "x": "Saatchi说：“Gods Don’t Give Gifts是第一部有机会获得提名的作品，接下来一切皆有可能。”“我们将为投票者放映，并开展传统的宣传活动。”"
+        }
+      ]
+    },
+    "movies/movies-sag-aftra-animation-deal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+          "cap": "SAG-AFTRA"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA会员将就一份新的四年期电视动画协议进行投票，协议包括每年加薪、扩大AI保护以及改善配音演员的流媒体剩余报酬（residuals）。工会执行委员会已一致批准与AMPTP谈判达成的2026 Television Animation Agreement暂定协议。"
+        },
+        {
+          "t": "p",
+          "x": "合同保证四年中每年加薪3%，首次加薪追溯至2026年7月5日。"
+        },
+        {
+          "t": "p",
+          "x": "作为优先事项，协议还扩大了AI保护，纳入工会在2026年真人演出协议中谈得的改进，同时保留专为动画演员设计的条款。2024年批准的上一份动画合同确立了工会首批专门针对配音演员的AI保护。"
+        },
+        {
+          "t": "p",
+          "x": "节目转入订阅制流媒体时，演员的剩余报酬平均增加5%；在大型海外流媒体服务上符合条件的节目，其订阅者系数从39%提高到41%。雇主健康计划缴款提高1%，养老金缴款自2028年起提高1%，另有0.25%用于资助新的带薪育儿假计划。"
+        },
+        {
+          "t": "p",
+          "x": "投票将于10月29日5 p.m. PT（太平洋时间下午5点）截止。"
+        }
+      ]
+    },
+    "movies/movies-vfx-voice-future-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+          "cap": "Wētā FX的Kora火焰模拟工具集为Avatar: Fire and Ash打造了燃烧效果。（图片由Wētā FX和20th Century Studios提供）"
+        },
+        {
+          "t": "p",
+          "x": "AI或许是头条，但它只是更大变革的一部分。实时引擎、虚拟制作、云端工作流和日益智能的系统正汇聚成一种新型工具包——它压缩工期、拓展可能，并改变由谁掌握创作控制权。VFX Voice请艺术家、总监和技术专家列出他们认为将塑造未来的工具。"
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+          "cap": "ILM在Thor: Love and Thunder中使用的StageCraft LED影棚"
+        },
+        {
+          "t": "p",
+          "x": "ILM的Rob Bredow最感兴趣的是可进行美术指导的机器学习：ML工具充当助手，在艺术家绘制时实时补全复杂细节，完全由艺术选择驱动，而非随机生成。"
+        },
+        {
+          "t": "p",
+          "x": "Wētā FX CTO Kimball Thurston预计，短期内生成式AI很可能不会用于最终像素，因为治理、质量和token成本问题叠加，限制了其使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+          "cap": "Beeble Canvas结合了AI视频模型、基于节点的工作流自动化和传统合成工具"
+        },
+        {
+          "t": "p",
+          "x": "Beeble AI CEO Hoon Kim认为，AI正从纯粹的生成工具转向可控的制作系统；其他人则提到Gaussian splatting、Houdini和Nuke中的ML，以及整个后期环节的实时协作。"
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+          "cap": "Nuke 17中的Gaussian splats"
+        }
+      ]
+    },
+    "movies/movies-katzenberg-forecast-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+          "cap": "2026，即将到来"
+        },
+        {
+          "t": "p",
+          "x": "三年前，DreamWorks Animation联合创始人、前CEO Jeffrey Katzenberg预测，到2026年，制作一部世界级动画电影所需的艺术家人数将从500人降至不足50人。"
+        },
+        {
+          "t": "p",
+          "x": "Joseph Bell的Visual Effects & Animation World Atlas基于超过1.1 million（110万）个数据点，发现到mid-2026（2026年年中），AI尚未在传统VFX和动画工作室取代大量岗位，也没有创造出很多新岗位。艺术家们正在现有岗位中采用AI工具。"
+        },
+        {
+          "t": "p",
+          "x": "全球行业从业人数在过去12个月增长2.7%。Los Angeles收缩1.5%，Vancouver则反弹11.3%。US VFX工作室的平均规模从34人降至29人。Roto/paint岗位增长8.7%，说明AI尚未准备好接手这类工作。2026年，AI-specific岗位仅占传统工作室岗位的0.1%。"
+        },
+        {
+          "t": "p",
+          "x": "2023年需要500名艺术家的同一部电影，如今能由50名艺术家完成吗？“还不行（Not yet）。”"
+        }
+      ]
+    },
+    "movies/ambassadors-mosa-ai-platform-opens": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amsterdam-based创意制作公司Ambassadors已向所有人开放其内部可视化AI工作流平台Mosa。该平台于六月首次亮相，曾在10家品牌和代理商参与的封闭测试中试用，参与者搭建了40多个工作流，生成了500多个素材。"
+        },
+        {
+          "t": "p",
+          "x": "Mosa源自Ambassadors自身的制作实践：图像、视频和放大各用一套工具，提示词、数据和品牌要求只能在工具之间手动传递。Mosa把AI模型、数据和工作流步骤整合进同一个可视化工作流，团队可以在不同项目、格式和市场中反复使用。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“我们做它，是因为生成一个好素材已经不再是难点。难的是在不同格式和市场中持续稳定地产出，同时保持品牌完整。”Ambassadors首席信息官（CIO）Diederik Veelo说。"
+        },
+        {
+          "t": "p",
+          "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
+        }
+      ]
     }
   }
 }

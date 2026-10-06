@@ -1,91 +1,97 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "design",
   "dedup": {
     "checks": {
-      "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/": {
+      "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/": {
         "verdict": "new",
-        "nearest": "https://aecmag.com/cad/formas-ai-unveils-native-agentic-3d-modeller/",
+        "nearest": "https://www.figma.com/blog/what-it-takes-to-build-great-products-now/",
         "new_action": ""
       },
-      "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908": {
+      "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/": {
         "verdict": "new",
-        "nearest": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+        "nearest": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
         "new_action": ""
       },
-      "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next": {
+      "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful": {
         "verdict": "new",
-        "nearest": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
+        "nearest": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
         "new_action": ""
       },
-      "https://nofilmschool.com/apples-full-disk-access-statement": {
+      "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://dev.to/uehara/how-to-take-over-a-design-built-in-figma-make-and-develop-it-with-claude-code-2oji",
         "new_action": ""
       },
-      "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496": {
+      "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9": {
         "verdict": "new",
-        "nearest": "https://www.core77.com/posts/145488/AI-Has-Changed-What-Makes-a-Great-Designer",
+        "nearest": "https://www.youtube.com/watch?v=cUXna9ZAfSI",
         "new_action": ""
       }
     },
-    "note": "SWAP: removed BlenderNation Quadify pick (paid vendor commercial post — '[$]' title, utm_medium=commercial_post, discount code) and its dedup entry. Replacement: Creative Bloq on Adobe's newly published USPTO text-to-3D-world patent filings — editorial, AI-substantive, untagged by story_dedup; checked by hand against the 30-day history_digest: no prior Adobe patent / text-to-3D-world story (nearest is the 27 Sep Adobe MAX lineup piece, which is a different event); new outlet, so final 5 = 5 distinct outlets. Other replacement options passed over: CG Channel 4 Oct roundup (new weekly edition, but a mixed roundup mostly of non-AI updates, and render already has a pick), Skylum Aperty shutdown (product discontinuation, AI only incidental), DEV text-fix, ZDNET vibe-coded app, UX Planet Claude Code mods, 'feed I produce' essay (lower score). Ambassadors Mosa left out because it is assigned to movies. Earlier drops still stand: taste-paradox essay (thematic repeat of the 2026-09-23 Fast Company 'having good taste won't save designers'), Pope AI-art remarks (commentary), Safeworld / RoboParty / OpenSpace (off-scope). Categories: cad 1, render 2, workflow 2. Cross-section watch: nofilmschool.com is also allowed for movies, so the orchestrator should confirm the Apple Full Disk Access story is not also picked in movies or gadgets."
+    "note": "Content-hub collapse: Figma Blog posted three Figma-agent pieces at the same time on 2026-10-06 (3 ways / design-system upkeep / Workflow lab). I kept only the '3 ways' post because it carries the general-availability news. The Workflow-lab post is also a recurring series (the Weave edition ran 10-02). Dropped as already published: Vectorworks 2027 (same release as engineering.com 2026-09-19, and AI only incidental); Meta Muse 'cute agent' essay (same story as Fast Company 'Muse Charm kawaii era' 2026-09-27); taste-paradox essay (theme already run as Fast Company 'having good taste won't save designers' 2026-09-23 and the UX Collective skill-atrophy piece 2026-10-06; also dropped yesterday); Photoshop Relight hands-on (probably the same tool as Creative Bloq's 'controversial new AI tool' 2026-10-01, so treated as a follow-up with no new release). Dropped as off-scope or noise: Volve AI tendering and OpenSpace job-site agents (construction ops, not design; OpenSpace was also dropped yesterday), Mistral Large 4 (general model news), TechCrunch AI-agents-vs-websites (not design), OpenAI image-gen ads (ad business), Google Flow Music plugins (belongs in the music section, cross-section clash risk). Photoshop 27.11 is a new version with its own new AI features (Enhance Edge, GPT Image 2 model choice), so it is a separate story from the 10-06 Remove-tool credits tip. The Claude Code to Figma test covers code-to-canvas push, the opposite direction to the 09-08 Figma Make to Claude Code handoff. Outlets: Figma, CG Channel, Fast Company, DEV x2 (4 distinct, cap 2 respected). Categories: figma 2, render 1, workflow 2."
   },
   "items": [
     {
-      "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
-      "source": "AEC Magazine",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Concrete new release: Argus multi-agent platform inside Revit now builds fully parametric Revit families from scratch, plus ADA bathroom and MEP agents — directly changes BIM authoring work.",
-      "published_iso": "2026-10-05T15:34:31+00:00",
-      "og_image": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-      "excerpt": "BIMlogiq has expanded Argus, a multi-agent AI platform inside Revit, adding a Family Creation Agent that builds fully parametric Revit families from scratch, a Bathroom Agent for ADA-compliant layouts, and an MEP Systems Agent."
+      "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+      "source": "Figma Blog",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "The Figma agent is now generally available; Uber, Granola and Atlassian show how product designers use it for craft and speed, which makes it the most actionable release of the day.",
+      "published_iso": "2026-10-06T14:00:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available."
     },
     {
-      "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
-      "source": "Fstoppers",
+      "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
+      "source": "CG Channel",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Immediately actionable: Photoshop's Remove tool does not burn generative credits even with cloud AI on, so designers can protect their monthly credit budget tomorrow.",
-      "published_iso": "2026-10-03T07:03:01-04:00",
-      "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_6.jpg.webp",
-      "excerpt": "PHLEARN's Aaron Nace shows Photoshop's Remove tool doesn't consume generative credits even with Generative AI and cloud processing on, plus other overlooked features that preserve a designer's monthly AI credit budget."
+      "rationale": "New Photoshop release: AI Enhance Edge cleans colour fringing in Remove Background masks (20 credits per use), and GPT Image 2 can now be chosen for Generate Image and Prompt to edit.",
+      "published_iso": "2026-10-06T09:36:50+00:00",
+      "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg",
+      "excerpt": "Photoshop 27.11 adds Enhance Edge, an AI option (20 generative credits per use) that reduces colour fringing in Remove Background masks, and lets users pick OpenAI's GPT Image 2 for Generate Image and Prompt to edit."
     },
     {
-      "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-      "source": "Creative Bloq",
-      "tool": "KeyShot",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "Newly published Adobe patent filings for generating 3D worlds from text prompts signal Firefly's next step beyond image and video — an early heads-up for 3D and visualisation designers.",
-      "published_iso": "2026-10-04T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/KCf9dWFqE4TDJMmRjfvos-1920-80.jpg",
-      "excerpt": "Newly published USPTO patent filings show Adobe working on a method for generating 3D worlds from text prompts, hinting at where Firefly could expand beyond image and video generation."
-    },
-    {
-      "url": "https://nofilmschool.com/apples-full-disk-access-statement",
-      "source": "No Film School",
+      "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
+      "source": "Fast Company",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Official Apple notice warning creators not to grant AI agents Full Disk Access on macOS, with new controls promised — a concrete security change for every designer running desktop agents.",
-      "published_iso": "2026-10-05T17:00:05+00:00",
-      "og_image": "https://nofilmschool.com/media-library/image.jpg?id=68053614&width=1200&height=600",
-      "excerpt": "Apple issued a notice warning creators against granting AI agents Full Disk Access on macOS and promised new controls to address the critical risks."
+      "rationale": "A product-design case study: Hark Pro's designers rethought what an agentic assistant should do and put privacy and usefulness first, which gives designers of AI products a usable reference.",
+      "published_iso": "2026-10-06T16:15:00+00:00",
+      "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+      "excerpt": "With a chatbot interface and agentic capabilities, Hark Pro checks the boxes of a 2026 AI release, but its designers rethought the core premise of how an assistant should help, prioritising privacy and usefulness."
     },
     {
-      "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
-      "source": "UX Collective",
+      "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+      "source": "DEV Community",
+      "tool": "Figma",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "A week-long hands-on test of pushing live Claude Code output into editable Figma frames, with clear advice on when it beats screenshots, so it applies directly to design-to-code handoff.",
+      "published_iso": "2026-10-04T09:02:16Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp",
+      "excerpt": "Figma now lets you push live code from Claude directly into editable frames. I tested it for a week. Here's when it's worth using and when screenshots work"
+    },
+    {
+      "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
+      "source": "DEV Community",
       "tool": "AI Workflow",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Fresh designer-practice insight on skill atrophy and cognitive offloading — what designers stop practising when they hand judgement to AI; distinct angle from the published taste/great-designer pieces.",
-      "published_iso": "2026-10-05T22:00:12Z",
-      "og_image": "",
-      "excerpt": "AI is not making us less intelligent but reducing the intelligence we practise; the essay examines skill atrophy and cognitive offloading when designers outsource judgement and struggle to AI."
+      "rationale": "A first-hand account of a former Figma expert's practice: they now describe sites, apps and video ads to an agent (Claude Opus 5) that builds them, a concrete picture of how the designer's role is changing.",
+      "published_iso": "2026-10-06T08:17:49Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png",
+      "excerpt": "A designer who once called themself a Figma expert explains how their practice shifted: describing websites, apps and video ads to an agent (Claude Opus 5) that builds them, while Figma adds its own agent."
     }
+  ],
+  "alternates": [
+    "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+    "https://www.cgchannel.com/2026/10/new-3d-software-you-may-have-missed-4-october-2026/",
+    "https://www.figma.com/blog/figma-agent-and-design-systems/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/"
   ]
 }

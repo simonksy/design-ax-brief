@@ -10729,6 +10729,135 @@
           "x": "“인간과 함께 일하고 인간과 더 잘 맞는 방식으로 세상을 이해하는 AI를 원한다면, 정답을 맞히는지에만 집중해서는 안 된다”고 책임저자 Kohitij Kar는 말했다."
         }
       ]
+    },
+    "science/science-flashflood-forecast": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "돌발홍수는 몇 분이면 한 지역사회를 쑥대밭으로 만든다. National Weather Service에 따르면 전체 홍수의 약 85%가 이런 재해이고, 전 세계에서 해마다 수천 명이 목숨을 잃는다."
+        },
+        {
+          "t": "p",
+          "x": "Penn State 연구진이 참여한 연구팀은 AI 이미지 생성의 바탕 기법으로 시간 단위 돌발홍수 위험을 예측해 Water Resources Research에 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "\"돌발홍수의 정점이 시간 단위로 나타난다는 사실은 널리 알려져 있다\"고 교신저자 Chaopeng Shen은 말했다. 모델은 확산(diffusion) 방식을 쓴다. 깨끗한 데이터에 노이즈를 섞고 모델이 그 노이즈를 걷어내는 법을 익힌다. 최근 수위계 관측값은 재학습 없이 넣을 수 있다. 이 과정을 인페인팅(inpainting)이라 부른다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i.jpg",
+          "cap": "각 하천 유역의 Nash-Sutcliffe Efficiency(NSE) 지도. 밝은 점일수록 예측이 정확하다. 출처: Water Resources Research (2026). DOI: 10.1029/2025wr042720"
+        },
+        {
+          "t": "p",
+          "x": "연구진은 U.S. 516개 하천 유역의 시간별 유량 자료(1990–2003)로 학습하고 2009–2014 자료로 시험했다. 이 방식은 고유량 시기까지 포함해 기존 최고 수준의 시간 단위 딥러닝(deep-learning) 모델을 대체로 앞섰다. 거꾸로 돌리면 특정 유량을 낳은 강우량도 추정한다."
+        }
+      ]
+    },
+    "science/science-heart-transplant-rejection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+          "cap": "사진: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "인공지능이 심장 리듬 기록과 혈액검사를 분석하면 이식 환자의 몸이 기증 심장을 공격하기 시작하는 시점을 정확히 짚어낼 수 있다는 새 연구가 나왔다. 지금은 생검이 거부반응 진단의 표준이다."
+        },
+        {
+          "t": "p",
+          "x": "NYU Langone Health 연구진이 이끈 팀은 성인 심장이식 수혜자 2,357명의 EKG 기록 5,300건으로 AI 모델을 학습시켰다. 한 모델은 EKG 데이터만 썼다. 다른 모델은 EKGs에 거부반응 위험 예측에 흔히 쓰는 혈액검사 두 가지를 더했다."
+        },
+        {
+          "t": "p",
+          "x": "수혜자 38명의 시험군에서는 결합 모델이 더 나았다. 거부반응이 없는 환자의 94%를 정확히 가려냈다. 혈액검사 모델은 19명을 생검이 필요할 수 있는 환자로 잘못 분류했다."
+        },
+        {
+          "t": "p",
+          "x": "\"심전도에는 풍부한 생리 정보가 담겨 있어 탐지 정확도를 크게 높이는 데 활용할 수 있다\"고 책임저자 Lior Jankelson은 말했다. JHLT Open에 실린 이 연구는 이런 바이오마커와 EKGs를 한 AI 모델에 묶은 첫 사례다. 연구팀은 이어 여러 이식센터에서 모델을 시험할 계획이다."
+        }
+      ]
+    },
+    "science/science-earth-ai-public-health": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "공중보건 의사결정은 제때 나온 세밀한 데이터에 달렸다. 그런데 감시 체계는 여러 해씩 밀리는 보고, 국경에 갇힌 데이터, 데이터 부족에 자주 발목을 잡힌다."
+        },
+        {
+          "t": "p",
+          "x": "Google Research의 Earth AI Population Dynamics Foundation Model(PDFM)은 개인정보를 보호하는 검색 트렌드, 인구 이동, 건조환경 밀도, 환경 신호를 위치 임베딩으로 압축한다. 이 임베딩은 역학자가 쓰던 기존 모델에 그대로 꽂아 쓴다. 작업별 미세조정(fine-tuning) 없이도 성능은 기존 입력과 같거나 더 나았다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/PDFMPublicHealth1-Overview.width-1250.png",
+          "cap": "여러 글로벌 보건 과제에 적용한 Google Earth AI의 PDFM 개요."
+        },
+        {
+          "t": "p",
+          "x": "파트너 기관과 함께한 사례연구 다섯 건으로 이를 검증했다. 국경을 넘나드는 MMR 백신 접종 모델은 변동의 16%가 아닌 22%를 설명했다. 심혈관 사망 나우캐스트는 인구조사 기반 모델과 대등했다. 멕시코 뎅기열 예측은 활성 전파 지자체의 최대 72%에서 좋아졌다. 산후우울증 위험 예측도 나아졌다. DRC의 여덟 주 콜레라 후보 목록은 18% 개선됐다."
+        },
+        {
+          "t": "p",
+          "x": "PDFM 임베딩은 Google Maps Platform의 Population Dynamics Insights로 Preview 단계에서 상용 제공된다. 일부 연구 용도라면 무료로 쓸 수 있다."
+        }
+      ]
+    },
+    "science/science-microalgae-growth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+          "cap": "사진: Amarnath Krishnamoorthy"
+        },
+        {
+          "t": "p",
+          "x": "미세조류로는 동물 사료와 색소, 나아가 재생 연료까지 만들 수 있다. 문제는 산업 규모로 효율 있게 키우기 어렵다는 점이다. 광생물반응기에서는 빛, 온도, pH, 산소를 조절해야 하는데 이 변수들이 서로 얽혀 있다."
+        },
+        {
+          "t": "p",
+          "x": "센서로 이런 조건을 연속 측정하면 머신러닝(machine-learning) 모델이 데이터를 분석해 생장을 예측하고 배양을 최적화한다. 눈에 띄기 전에 스트레스도 잡아낸다. 이미지 기반(Image-based) 방식으로는 바이오매스나 배양 밀도를 추정한다."
+        },
+        {
+          "t": "p",
+          "x": "스페인 Almeria의 2026년 연구는 80 m² 규모 개방형 레이스웨이에서 강화학습을 시험했다. 바깥 조건이 바뀌는 여드레 동안 이산화탄소 주입을 제어해 pH를 맞췄다."
+        },
+        {
+          "t": "p",
+          "x": "숙제도 있다. 센서는 오염되거나 값이 틀어진다. 한 균주나 반응기에 맞춘 모델이 다른 곳에서 그대로 통한다는 보장도 없다. Amarnath Krishnamoorthy는 The Conversation 기고에서 AI를 기존 공정공학의 대체재가 아닌 추가 도구로 봐야 한다고 썼다."
+        }
+      ]
+    },
+    "science/pfas-yeast-biosensor-ai-detection": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
+          "cap": "출처: Orhan Akbaba, Pexels"
+        },
+        {
+          "t": "p",
+          "x": "영원한 화학물질(PFAS)은 미국인 90% 이상에게서 검출되고, U.S. 지방자치단체 상수도의 절반 가까이에도 들어 있다고 알려졌다. 새 EPA 규정으로 수도 사업자는 검사를 자주 해야 한다. 그런데 대부분은 비싸고 결과가 몇 주씩 걸리기도 하는 질량분석(mass-spectrometry) 실험실에 기댄다."
+        },
+        {
+          "t": "p",
+          "x": "Virginia Cornish가 이끄는 Columbia와 City College 공동 연구팀은 \"바이오하이브리드(biohybrid)\" 장치를 개발 중이다. 조작 효모와 AI-designed 단백질, CMOS 센서 칩을 묶어 PFAS를 검출하고 제거 과정도 모니터링한다."
+        },
+        {
+          "t": "p",
+          "x": "Saccharomyces cerevisiae에 넣은 합성 수용체가 표적 화학물질과 붙으면 효모는 초록빛을 낸다. 이런 수용체를 설계하는 데 예전엔 몇 년이 걸렸다. 연구팀은 Mohammed AlQuraishi 연구실의 AI 도구로 설계-제작-시험(design-build-test) 주기를 몇 주로 줄이는 중이고, 지금 겨냥하는 물질은 PFOA와 PFOS다."
+        },
+        {
+          "t": "p",
+          "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
+        }
+      ]
     }
   }
 }

@@ -5142,6 +5142,150 @@
           "x": "Hong Kong Comics and Animation Federation的Alan Wan表示，画家可以把漫画转成AI-generated动画：“他们将不只是漫画家，还可能成为导演。”版权与作者归属问题仍悬而未决。"
         }
       ]
+    },
+    "books/books-frankfurt-lepore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+          "cap": "Jill Lepore（摄影：Johannes Minkus）。"
+        },
+        {
+          "t": "p",
+          "x": "在10月6日举行的第78届Frankfurter Buchmesse开幕新闻发布会上，德国出版商与书商协会主席Sebastian Guggolz表示，人们对书的热爱依然旺盛，但行业正面临巨大挑战，其中包括人人关注的问题：AI的到来。"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+          "cap": "（左起）Torsten Casimir、Sebastian Guggolz、Juergen Boos和Jill Lepore（摄影：Johannes Minkus）。"
+        },
+        {
+          "t": "p",
+          "x": "Guggolz说：“随机给出答案的AI无法弥补阅读能力的问题。”他敦促世界各国领导人“立即干预”。"
+        },
+        {
+          "t": "p",
+          "x": "Pulitzer Prize-winning（普利策奖得主）历史学家Jill Lepore在15分钟的主旨演讲中警告，不应让未来落入一小撮科技大亨之手。她说：“今年我们相聚于此，正站在历史的刀锋之上。”她还说：“世界书籍中蕴含的人类知识总和，已被企业拥有的机器整个吞没。”"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，Börsenverein发布了“Frankfurt appeal”，呼吁立法者推动AI训练数据透明化、建立具备公平收益模式的授权市场，并严格执行欧洲版权法。书展于10月7–11日举行。"
+        }
+      ]
+    },
+    "books/books-roose": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在WIRED的Big Interview中，Katie Drummond与Kevin Roose谈到他和Casey Newton共同创办的新媒体公司Machine Gods Media，以及他追踪OpenAI、Anthropic和Google的新书The AGI Chronicles。Roose花了大约一年时间采访和写作，与150多人交谈过。"
+        },
+        {
+          "t": "p",
+          "x": "Drummond说她用Pangram检测过这本书。Roose表示：“这本书是由一个非常疲惫、过度劳累、睡眠不足的人类写成的。”研究员Jasmine Sun和FSG的人类编辑也提供了帮助。"
+        },
+        {
+          "t": "p",
+          "x": "不过，他在写作之外确实用了AI：一个装满研究资料、采访记录和论文的庞大NotebookLM笔记本，他“像使用超强搜索功能一样”查询它；AI还协助他完成采访任务、整理笔记；一个“AI swarm”与人类事实核查员一起核查事实；还有一个“Council of Claudes”从不同角度提供编辑反馈。"
+        },
+        {
+          "t": "p",
+          "x": "Roose认为读者非常在意一本书是否由人类写成，并表示作者应展示自己的创作过程，让人们能与其中付出的劳动产生共鸣。"
+        }
+      ]
+    },
+    "books/books-ssp-integrity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SSP于2026年9月开展的Pulse Check Poll询问了学术出版领域的181人，了解他们如何应对科研诚信挑战。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+          "cap": "目前，哪些科研诚信挑战是贵机构最担忧的？"
+        },
+        {
+          "t": "p",
+          "x": "73%的受访者将AI-generated（AI生成）或AI-manipulated（AI篡改）稿件列为前三大担忧之一，其次是论文工厂（44%）以及虚假参考文献或AI-generated幻觉（41%）。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+          "cap": "贵机构对在出版或传播前发现以下问题的能力有多大信心？"
+        },
+        {
+          "t": "p",
+          "x": "然而，只有10%的人对在出版前发现AI-generated稿件非常或极其有信心，49%的人只有一点信心或完全没有信心。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+          "cap": "总体而言，人工智能目前对科研诚信产生了怎样的影响？"
+        },
+        {
+          "t": "p",
+          "x": "95%的人认同AI正在带来新的诚信风险，54%已在使用AI-assisted（AI辅助）筛查工具。尽管94%至少实施了一项诚信措施，63%的人对整个生态系统能否守护学术记录缺乏信心。"
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+          "cap": "请按感知影响大小对根本原因进行排序。"
+        },
+        {
+          "t": "p",
+          "x": "Publish-or-perish（不发表就出局）的激励机制被列为首要根本原因，发展速度超过政策和检测的生成式AI以微弱差距位居其次。"
+        }
+      ]
+    },
+    "books/books-libreoffice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+          "cap": "Image Credits: LibreOffice"
+        },
+        {
+          "t": "p",
+          "x": "开源文档编辑器LibreOffice背后的非营利组织The Document Foundation本周在一篇博客文章中表示，虽然并不一概排斥AI，但在可预见的未来，其软件“不会加入”AI。"
+        },
+        {
+          "t": "p",
+          "x": "其8月下旬发布的最新版本“不包含任何生成式AI功能”，这是一种“有意为之的设计立场”，确保用户文档不会被上传到服务器，软件的任何部分都无需联网。该组织表示：“任何处理机密、受法律特权保护或个人数据的组织，都需要知道这些数据去了哪里，而唯一经得起审计的保证，就是数据不离开本机。”"
+        },
+        {
+          "t": "p",
+          "x": "用户仍可安装将LibreOffice连接到本地AI模型的扩展。该组织表示，目前没有任何集成方案符合其要求，并称这一决定是对当前技术的评估，而非“最终否定”。"
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "美国出版商协会(Association of American Publishers)与Authors Guild对Thomson Reuters v. ROSS案的上诉判决表示赞赏。该判决认定，ROSS复制Thomson Reuters旗下Westlaw判例摘要的行为不构成合理使用。这是上诉法院首次裁定AI公司的此类未经授权复制不受合理使用保护。"
+        },
+        {
+          "t": "p",
+          "x": "ROSS使用Westlaw判例摘要训练其AI平台后，Thomson Reuters于2020年5月在U.S.特拉华州联邦地区法院提起诉讼。特拉华法院作出有利于Thomson Reuters的裁决后，AAP于2025年11月提交法庭之友意见书，请求第三巡回上诉法院(Third Circuit)驳回ROSS的合理使用主张、维持原判。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "费城的James A. Byrne United States Courthouse。图片：ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "AAP CEO Maria Pallante表示，“第三巡回上诉法院正确指出，AI训练的授权许可市场不仅存在，而且‘正在迅速发展’”，并称该判决是“这一有力的先例”。"
+        },
+        {
+          "t": "p",
+          "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
+        }
+      ]
     }
   }
 }

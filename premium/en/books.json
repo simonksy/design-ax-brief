@@ -5609,6 +5609,150 @@
           "x": "Alan Wan of the Hong Kong Comics and Animation Federation says artists could turn comics into AI-generated animation: “They won’t just be comic artists, they could become directors.” Questions over copyright and authorship remain open."
         }
       ]
+    },
+    "books/books-frankfurt-lepore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+          "cap": "Jill Lepore (credit: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "At the October 6 opening press conference for the 78th Frankfurter Buchmesse, Sebastian Guggolz, Chairman of the German Publishers and Booksellers Association, said the love of books is still flourishing, but the industry faces epic challenges, including the issue on everyone’s minds: the advent of AI."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+          "cap": "(From left): Torsten Casimir, Sebastian Guggolz, Juergen Boos and Jill Lepore (credit: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "“The problem of reading competence cannot be compensated by AI, which delivers answers at random,” Guggolz said, urging “immediate intervention” from world leaders."
+        },
+        {
+          "t": "p",
+          "x": "In a 15-minute keynote, Pulitzer Prize-winning historian Jill Lepore warned against a future handed over to a cadre of tech moguls. “We meet here this year on the knife-edge of history,” she said. “The sum of human knowledge that is contained in the world’s books has been swallowed whole by machines owned by corporations.”"
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile, the Börsenverein has issued the “Frankfurt appeal,” calling on legislators for AI training-data transparency, a licensing market with fair revenue models, and robust enforcement of European copyright law. The fair runs October 7–11."
+        }
+      ]
+    },
+    "books/books-roose": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On WIRED’s Big Interview, Katie Drummond talks with Kevin Roose about his new media company Machine Gods Media, launched with Casey Newton, and his book The AGI Chronicles, which follows OpenAI, Anthropic and Google. Roose spent about a year reporting and writing and talked to more than 150 people."
+        },
+        {
+          "t": "p",
+          "x": "Drummond says she ran the book through Pangram. Roose: “It was written by a very tired, overworked, underslept human being,” with help from researcher Jasmine Sun and human editors at FSG."
+        },
+        {
+          "t": "p",
+          "x": "He did use AI around the writing: a giant NotebookLM notebook of research, interview transcripts and papers he queried “like a supercharged search function,” help with reporting tasks and organizing notes, an “AI swarm” for fact-checks alongside a human fact-checker, and a “Council of Claudes” giving editorial feedback from different vantage points."
+        },
+        {
+          "t": "p",
+          "x": "Roose thinks readers care a lot whether a human wrote a book, and says writers should show their process so people can connect with the labor involved."
+        }
+      ]
+    },
+    "books/books-ssp-integrity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SSP’s September 2026 Pulse Check Poll asked 181 people across scholarly publishing how they are responding to research integrity challenges."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+          "cap": "Which research integrity challenges represent the greatest concern for your organization today?"
+        },
+        {
+          "t": "p",
+          "x": "73% named AI-generated or AI-manipulated manuscripts as a top-three concern, followed by paper mills (44%) and false references or AI-generated hallucinations (41%)."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+          "cap": "How confident is your organization in its ability to detect the following issues before publication or dissemination?"
+        },
+        {
+          "t": "p",
+          "x": "Yet only 10% are very or extremely confident they can detect AI-generated manuscripts before publication, and 49% are slightly or not at all confident."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+          "cap": "Overall, what is the impact that artificial intelligence is having on research integrity today?"
+        },
+        {
+          "t": "p",
+          "x": "95% agree AI is creating new integrity risks, while 54% already use AI-assisted screening tools. Despite 94% implementing at least one integrity measure, 63% have little confidence the ecosystem is protecting the scholarly record."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+          "cap": "Rank the root causes in order of perceived impact."
+        },
+        {
+          "t": "p",
+          "x": "Publish-or-perish incentives rank as the leading root cause, with generative AI outpacing policy and detection a close second."
+        }
+      ]
+    },
+    "books/books-libreoffice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+          "cap": "Image Credits: LibreOffice"
+        },
+        {
+          "t": "p",
+          "x": "The Document Foundation, the nonprofit behind the open source document editor LibreOffice, said in a blog post this week that while it does not reject AI out of hand, it “will not add” AI to its software for the foreseeable future."
+        },
+        {
+          "t": "p",
+          "x": "Its latest release in late August “contains no generative AI features,” a “deliberate design position” so users’ documents are not uploaded to a server and no part of the software needs a network connection. “Any organisation handling confidential, legally privileged or personal data needs to know where that data goes, and the only assurance that survives an audit is that it does not leave the machine,” it said."
+        },
+        {
+          "t": "p",
+          "x": "Users can still install extensions that connect LibreOffice to local AI models. The nonprofit said no current integration meets its requirements, and called the decision an assessment of today’s technology rather than a “definitive rejection.”"
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Association of American Publishers and the Authors Guild praised an appeals court decision in Thomson Reuters v. ROSS that found ROSS's copying of Thomson Reuters Westlaw headnotes was not fair use. It was the first time an appeals court ruled that such unauthorized copying by an AI company was not protected by fair use."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters sued in the U.S. District Court for Delaware in May 2020 after ROSS used Westlaw headnotes to train its AI platform. After the Delaware court ruled for Thomson Reuters, the AAP filed an amicus brief in November 2025 asking the Third Circuit to affirm by rejecting ROSS's fair use arguments."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "The James A. Byrne United States Courthouse in Philadelphia. Photo: ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "AAP CEO Maria Pallante said “the Third Circuit correctly noted that the licensing market for AI training not only exists but is ‘rapidly developing,’” calling the ruling “this powerful precedent.”"
+        },
+        {
+          "t": "p",
+          "x": "Authors Guild CEO Mary Rasenberger said the ruling “vindicates copyright law. It clarifies that one cannot steal someone else's works to train an AI system that displaces the very works the AI was trained on.”"
+        }
+      ]
     }
   }
 }

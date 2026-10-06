@@ -1,96 +1,103 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "games",
   "items": [
     {
-      "title": "Turn concept art into a functional game UI",
-      "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
-      "source": "Unity (YouTube)",
-      "published_iso": "2026-10-05T15:00:08-07:00",
-      "og_image": "https://i.ytimg.com/vi/IYvRShclEL8/maxresdefault.jpg",
-      "excerpt": "without leaving the terminal ⏩Give an agent your concept art and a short brief, and watch it build a working UI Toolkit main menu through the Unity CLI. The ...",
+      "title": "FromSoftware-Style Bosses Could Stop Being Learnable, As PlayStation's October 1 AI Patent Rewrites Enemy Behavior On The Fly",
+      "url": "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/",
+      "source": "Wccftech",
+      "published_iso": "2026-10-06T11:03:27+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+      "excerpt": "New PlayStation patent details an AI system that rewrites NPC behavior dynamically, revolutionizing action and soulslike games like Dark Souls.",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Official Unity demo of an agent turning concept art and a short brief into a working UI Toolkit menu through the Unity CLI. A designer can try this workflow tomorrow."
+      "rationale": "New Sony patent filing (Oct 1) for AI that rewrites enemy behavior at runtime. It goes straight at how encounter and boss design gets authored and tuned."
     },
     {
-      "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-      "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-10-05T11:08:39.980413+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/runescape-gen-ai.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Developer removes promotional material as it investigates situation, says it highlights \"an issue with our own processes which we must address\"",
+      "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
+      "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-06T10:51:11.300428+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Retro egg-rolling platformer Dizzy is on its way back from the 80s, but with the caveat of its creators being very happy to use genAI for the entire production.",
       "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New incident: Jagex pulled a trailer from an external vendor after genAI artifacts were spotted, and admitted a process gap. That is a vendor-oversight lesson for art teams."
+      "rationale": "New game announcement: the original Oliver Twins creators are openly making a legacy-IP game end to end with genAI. It is a rare pro-disclosure case and a contrast to the usual backlash."
     },
     {
-      "title": "Fortnite Has Updated In-Game Art After Fans Discovered a Google Gemini AI Image Watermark",
-      "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
-      "source": "IGN",
-      "published_iso": "2026-10-05T15:43:55.286Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/05/untitled-1-1791213472462.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark.",
+      "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
+      "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
+      "source": "Rock Paper Shotgun",
+      "published_iso": "2026-10-06T09:14:14.138328+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Two new mods adding connection-stabilising rollback netcode to Ultra Street Fighter IV appear, but both are made with generative AI.",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Fans found a Gemini provenance watermark in shipped Fortnite art and Epic quietly swapped the art. This shows how AI watermarks expose generated assets after release."
+      "rationale": "Two newly released mods use Claude to add rollback netcode, which is hard engineering work, to a 12-year-old fighter. It is a concrete marker of what AI-assisted coding now does to legacy games."
     },
     {
-      "title": "Hideo Kojima addresses AI after DLSS 5 hit Death Stranding 2, says \"I don't much like the idea\" of it taking work or control from artists",
-      "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+      "title": "D&D and Magic The Gathering developers unionize, allege Wizards of the Coast is pushing \"adoption of LLMs and generative AI\"",
+      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/",
       "source": "GamesRadar+",
-      "published_iso": "2026-10-05T16:28:03Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rEUxd5rFVnMrtQtzUcxycB-1920-80.jpg",
-      "excerpt": "Hideo Kojima addresses AI after DLSS 5 hit Death Stranding 2, says \"I don't much like the idea\" of it taking work or control from artists. But he thinks it's here to stay",
+      "published_iso": "2026-10-06T19:50:25Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+      "excerpt": "",
       "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Kojima's first statement on AI and artist control after DLSS 5 came to Death Stranding 2. It is a new first-party position from a top director, not a rehash of earlier DLSS 5 coverage."
+      "rationale": "New union filing in which management pushing LLM and genAI adoption is a stated reason to organize. It is a new labor-vs-AI flashpoint after the Blizzard AI contract (09-12)."
     },
     {
-      "title": "Agentic Development in Unreal Engine with Rider | Unreal Fest Chicago 2026",
-      "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
-      "source": "Unreal Engine (YouTube)",
-      "published_iso": "2026-10-02T09:00:05-07:00",
-      "og_image": "https://i.ytimg.com/vi/0C7GjShUnlY/maxresdefault.jpg",
-      "excerpt": "Generic AI generates code and solves the easy part. The hard parts of Unreal Engine development—like Gameplay Ability System (GAS) bootstrap, build triage, D...",
+      "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
+      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-10-06T13:50:19.330891+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Senior executive officer and deputy chief business officer Tsuyoshi Saito said Sega is \"very cautious\" about how it implements generative AI during development",
       "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Unreal Fest session on using Rider's agents for the hard parts of UE work (GAS bootstrap, build triage). It is practical workflow guidance and separate from the earlier UE 5.8 MCP getting-started video."
+      "rationale": "Sega's first stated genAI policy: no AI in creative work, AI for efficiency elsewhere. It sits next to Capcom's opposite stance (10-05) as a major-publisher line on where AI is allowed."
     }
+  ],
+  "alternates": [
+    "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
+    "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
+    "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
+    "https://www.polygon.com/ps5-jailbreak-emulator-minecraft-elden-ring-claude-opus-5-ai-games/",
+    "https://www.gamemeca.com/view.php?gid=1781162"
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/watch?v=IYvRShclEL8": {
+      "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=Fx1orSJc8d4"
+        "nearest": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches"
       },
-      "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner": {
+      "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai": {
         "verdict": "new",
-        "nearest": "https://www.eurogamer.net/runescape-generative-ai-clone-taken-down"
+        "nearest": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010"
       },
-      "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark": {
+      "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude": {
         "verdict": "new",
-        "nearest": ""
+        "nearest": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash"
       },
-      "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/": {
+      "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/": {
         "verdict": "new",
-        "nearest": "https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-director-says-dlss-5-does-right-by-kcd-2-people-are-crazy-for-thinking-its-ai-slop/"
+        "nearest": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/"
       },
-      "https://www.youtube.com/watch?v=0C7GjShUnlY": {
+      "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=k0tgmrBuIJc"
+        "nearest": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
       }
     },
-    "note": "Dropped as published duplicates: (1) Base-PS5 AI upscaling, both GamesIndustry.biz and Eurogamer (cluster c1). This is the same QSSR announcement already published 2026-10-02 (IGN 'Sony Announces QSSR'), and Wolverine/Yotei as launch titles is part of that announcement, not a new release. (2) The Verge 'An AI couldn't beat humans at StarCraft, so it decided to cheat'. This is the GPT-6 Astra StarCraft bot showdown already published 2026-09-30 (36kr), with no new release. It is the same angle as the Kotaku 'swaps in human-made bot' item dropped on 10-05. Any Inven 'Pluto' StarCraft item belongs to the same story and should also be dropped if it resurfaces; it is not in this pool. (3) Kotaku 'Zelda and Banjo Recompiled devs go to war with vibe-coded slopcomps' and RPS 'genAI speeds up PC ports claims are false, says Banjo Kazooie: Recompiled dev'. Both are reactions and extra reporting on the Recompiled-vs-vibe-coded-Banjo-Tooie story published 2026-10-03 (GamesRadar). (4) GameMeca 'Hive Axyl official launch'. This is the same launch as Inven 2026-09-30 (likely-repeat). Within-pool cluster c0 (RuneScape trailer): kept GamesIndustry.biz (carries Jagex's statement) and dropped the IGN version. This is a new incident (a trailer made by an external vendor), distinct from the 09-13 RuneScape copycat game. Not picked on merit: Kotaku Soccerina of Time vibe-coded romhack (a fourth vibe-code backlash card in a few days; ranked below the dev-tool picks), AUTOMATON Morpho Reverie (AI is only the narrative theme), Kotaku Loish (artist opinion; already passed on 10-05). Diversity: 4 outlets (YouTube x2 as official Unity/Epic channels, GI.biz, IGN, GamesRadar+). The topics split into dev tools x2, genAI asset incidents x2 and a director interview x1."
+    "note": "Dropped as published duplicates: (1) Kotaku 'Kojima has mixed feelings on DLSS 5'. This is the same Kojima/Death Stranding 2 DLSS 5 remarks published 2026-10-06 (GamesRadar+), with no new statement. (2) The Verge 'An AI couldn't beat humans at StarCraft, so it decided to cheat'. This is the GPT-6 Astra StarCraft showdown published 2026-09-30 (36kr). It was already dropped on 10-05 and 10-06. (3) PC Gamer Warhorse co-founder 'AI is not a get out of jail free card'. These are more remarks from the same co-founder interview run covered 2026-09-26 (PC Gamer), so it is commentary, not a new event. Dropped as off-scope or weak AI angle: GamesRadar Skyrim Elden Ring combat mod (AI is only the 'no AI' framing), Kotaku Loish (illustration, not games; passed on 10-05 and 10-06), GameMeca Gyeonggi public-private-academic council (no AI). Not picked on merit (ranked alternates): Road to VR Astro Bot Quest 3 vibe-coded mod (a third AI-mod card next to USF4), GamesRadar Analogue Pocket SNES AI hack (another vibe-code backlash after 10-03 and 10-05), Wccftech DOOM DLSS 5 port (a heavily covered DLSS 5 mod run), Polygon 'Hell is breaking loose' (opinion round-up of the mashup and jailbreak stories already published), GameMeca National Assembly AI content forum (9/30, policy talk). Diversity: 4 outlets (RPS x2, Wccftech, GamesRadar+, GI.biz). The topics split into a platform patent, an AI-made game announcement, an AI-built mod release, a labor filing and a publisher policy."
   }
 }

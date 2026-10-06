@@ -1,64 +1,66 @@
 {
-  "date": "2026-10-06",
-  "section": "gadgets",
-  "cards": [
-    {
-      "id": "pixel-search-gemini-teardown",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Pixel Search code hints\nat a Gemini upgrade",
-      "body": "A new Pixel Search update adds a privacy setting, and its code hints at Gemini-powered suggestions to come.",
-      "mini_headline": "Pixel Search may get Gemini",
-      "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2025/09/google-pixel-launcher-search-bar-hero-pixel-10-scaled.jpg",
-            "cap": "Pixel launcher search bar"
-          },
-          {
-            "t": "p",
-            "x": "The new Pixel Search app preloaded on the Pixel 11 series lets users search photos, emails, contacts and more from the app drawer. Now Google appears to be prepping a Gemini-powered upgrade, while also giving users more control over call log and message data."
-          },
-          {
-            "t": "p",
-            "x": "The latest version (1.0.983036833) adds a \"Privacy & Permissions\" section in settings with three toggles: \"Help improve Pixel Search,\" \"Call Logs\" and \"SMS.\""
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-1-watermarked.jpg",
-            "cap": "Pixel Search Privacy & Permissions settings (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-settings-privacy-option-2-watermarked.jpg",
-            "cap": "Pixel Search privacy toggles (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "p",
-            "x": "Turning off \"Help improve Pixel Search\" stops data being aggregated for usage insights; the \"Call Logs\" and \"SMS\" toggles stop Google using that history to improve contact suggestions. Disabling them doesn't hide calls or messages from results, though — for that, revoke the app's Call logs and SMS permissions."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/pixel-search-app-permissions.jpg",
-            "cap": "Pixel Search app permissions (AssembleDebug / Android Authority)"
-          },
-          {
-            "t": "p",
-            "x": "Android Authority also found code for an upcoming \"Gemini-powered suggestions\" feature. Strings read \"Show Gemini-powered suggestions\" and \"See relevant info and Gemini-suggested actions to help you finish a task faster.\""
-          },
-          {
-            "t": "p",
-            "x": "Gemini-powered suggestions aren't live yet and could arrive in a future update, but the privacy section is already available. Pixel 11 owners can update via the Play Store; older Pixels can sideload the app on Android 17 QPR2 Beta 5 or newer."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-10-07",
+ "section": "gadgets",
+ "cards": [
+  {
+   "id": "gadgets-fitbit-edge",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Google's rumored Fitbit Edge\nputs Gemini on your wrist",
+   "body": "Google's rumored Fitbit Edge may pack a screen, GPS, Gemini coaching, and week-long battery into a tiny tracker.",
+   "mini_headline": "Rumored Fitbit Edge",
+   "tool": "Gadgets",
+   "source": "Digital Trends",
+   "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
+   "accent": "#f5a623",
+   "motif": "headset",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C630"
+     },
+     {
+      "t": "p",
+      "x": "Google's rumored Fitbit Edge could pack a screen, GPS, Gemini coaching, and week-long battery life into one tiny tracker. The device has not been announced; the details come from reports ahead of any official launch."
+     },
+     {
+      "t": "p",
+      "x": "If the rumor holds, Google's Gemini-based health coaching would move onto a small, dedicated fitness tracker, which Digital Trends argues could make some buyers rethink whether they need a full smartwatch."
+     }
+    ]
+   }
+  },
+  {
+   "id": "gadgets-underdog",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Underdog brings a free AI\nassistant fully on-device",
+   "body": "Sigil Wen's Underdog is an on-device AI assistant promising to be free, fully private, and capable for daily tasks.",
+   "mini_headline": "Underdog on-device assistant",
+   "tool": "Gadgets",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+   "accent": "#2ec5c5",
+   "motif": "headset",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800"
+     },
+     {
+      "t": "p",
+      "x": "Sigil Wen, backed by a Silicon Valley who's who, has launched Underdog, an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
+     },
+     {
+      "t": "p",
+      "x": "TechCrunch frames Underdog as the most private competitor yet to Instinct and Meta's Muse, because the assistant runs entirely on the user's own device."
+     }
+    ]
+   }
+  }
+ ]
 }

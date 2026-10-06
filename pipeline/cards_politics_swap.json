@@ -1,49 +1,36 @@
 {
-  "date": "2026-10-06",
-  "section": "politics",
-  "cards": [
-    {
-      "id": "moreno-letter-anthropic-amodei",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Sen. Moreno writes to Anthropic\nover 'alarmist' AI commentary",
-      "body": "In a Monday letter, Sen. Bernie Moreno urged Anthropic's Dario Amodei to avoid what he called 'alarmist' AI commentary.",
-      "mini_headline": "Moreno writes Anthropic\non 'alarmist' AI talk",
-      "tool": "Politics",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-            "cap": "Sen. Bernie Moreno at the U.S. Institute of Peace on Sept. 3 in Washington. Photo: Andrew Harnik/Getty Images"
-          },
-          {
-            "t": "p",
-            "x": "Sen. Bernie Moreno (R-Ohio) is urging Anthropic CEO Dario Amodei against an \"alarmist approach\" and \"panic-inducing commentary\" on AI, according to a letter sent Monday and obtained by Axios."
-          },
-          {
-            "t": "p",
-            "x": "Axios describes the letter as the latest example of President Trump's allies targeting Amodei. It comes ahead of Anthropic's expected IPO, with valuation estimates as high as nearly $2 trillion."
-          },
-          {
-            "t": "p",
-            "x": "\"I do not understand how you can ask them to invest their hard-earned savings in Anthropic's continued development while warning those same Americans that your product could ultimately lead to their extinction,\" Moreno wrote. \"With great power comes great responsibility, and in this case, I am concerned that you are failing to meet the moment.\""
-          },
-          {
-            "t": "p",
-            "x": "Adopting Trump's new term \"super intelligence\" (SI) in place of AI, Moreno said Amodei's words agreeing with \"doomer\" views \"indicate that your instinct is to wreak havoc on the public SI discourse.\" He urged more emphasis on how AI can guard against the very threats being warned about, strengthen national security and keep the U.S. ahead of China."
-          },
-          {
-            "t": "p",
-            "x": "Public concern over AI and data centers has become a midterm issue; fellow Ohio Republican Sen. Jon Husted has faced ads accusing him of being pro-data centers as he seeks re-election."
-          }
-        ]
-      }
-    }
-  ]
+ "date": "2026-10-07",
+ "section": "politics",
+ "cards": [
+  {
+   "id": "politics-japan-usedbooks-ai",
+   "source_lang": "ko",
+   "eyebrow": "AI NEWS",
+   "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
+   "body": "일본출판협회가 중고책이 미국 AI 학습용으로 대량 판매됐다는 의혹을 제기하며 허용할 수 없다고 밝혔다.",
+   "mini_headline": "日출판협회, AI 학습 반발",
+   "tool": "Politics",
+   "source": "yna.co.kr",
+   "url": "https://www.yna.co.kr/view/AKR20261006194100073",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg"
+     },
+     {
+      "t": "p",
+      "x": "일본출판협회는 도서 유통업체가 미국 AI 개발사에 AI 학습용으로 중고책을 대량 판매했다는 의혹과 관련해 성명을 내고 이를 허용할 수 없다는 입장을 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "협회의 이번 성명은 AI 학습에 서적을 활용하는 문제를 둘러싼 저작권 쟁점을 다시 부각시켰다."
+     }
+    ]
+   }
+  }
+ ]
 }

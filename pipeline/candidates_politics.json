@@ -1,189 +1,227 @@
 {
- "date": "2026-10-06",
+ "date": "2026-10-07",
  "section": "politics",
  "window_hours": 72,
- "now_iso": "2026-10-05T22:02:44Z",
  "items": [
   {
-   "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-   "source": "Ars Technica",
+   "title": "Read the charter for the White House’s ‘Super Intelligence Force’",
+   "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
+   "source": "politico.eu",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-05T13:39:30+00:00",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-   "excerpt": "Norway's government said Monday it will introduce a law for a temporary ban on AI glasses in places such as parks, beaches, schools and kindergartens, and set up an expert group to draft permanent rules."
+   "published_iso": "2026-10-06T21:51:30+00:00",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+   "excerpt": "POLITICO publishes the charter of the White House 'Super Intelligence Force' — a new body with broad authority to determine how the federal government should protect against AI threats. New primary document following the Super Intelligence executive order and Jay Clayton's appointment."
   },
   {
-   "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
-   "source": "Axios",
+   "title": "Jailed Albanian mayor uses AI avatar to make deepfake speech",
+   "url": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
+   "source": "politico.eu",
+   "category": "politics",
+   "axis": "elections",
+   "published_iso": "2026-10-06T13:36:46+00:00",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg",
+   "excerpt": "Tirana's jailed mayor Erion Veliaj is using an AI avatar to deliver a deepfake speech and keep running the city from behind bars, raising questions about synthetic media in politics."
+  },
+  {
+   "title": "Les renforts d’Europol en IA suscitent des inquiétudes sur la protection de la vie privée",
+   "url": "https://www.politico.eu/article/les-renforts-deuropol-en-ia-suscitent-des-inquietudes-sur-la-protection-de-la-vie-privee/",
+   "source": "politico.eu",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-05T18:00:05+00:00",
-   "og_image": "https://images.axios.com/JZtG10NlL1bUfd-Zn_5x4umCca4=/0x0:5183x2915/1366x768/2026/10/05/1791215010057.jpeg",
-   "excerpt": "Sen. Bernie Moreno (R-Ohio) sent a letter Monday urging Anthropic CEO Dario Amodei against an 'alarmist approach' and 'panic-inducing commentary' on AI, according to Axios, ahead of Anthropic's expected IPO."
+   "published_iso": "2026-10-06T17:11:13+00:00",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+   "excerpt": "Europol's expanding AI capabilities draw privacy concerns: the EU police agency faces pressure from both cybercriminals and privacy defenders as it scales AI tools (French-language)."
   },
   {
-   "url": "https://www.axios.com/2026/10/04/reflection-open-weight-ai",
-   "source": "Axios",
+   "title": "How to Make an AI Deal With China: Trade Throttling for Pacing",
+   "url": "https://www.lawfaremedia.org/article/how-to-make-an-ai-deal-with-china--trade-throttling-for-pacing",
+   "source": "lawfaremedia.org",
    "category": "politics",
    "axis": "geopolitics",
-   "published_iso": "2026-10-04T12:49:31+00:00",
-   "og_image": "https://images.axios.com/bY8S5NDIVZ8TJwz5XyFSOUay6o4=/0x0:1920x1080/1366x768/2026/10/02/1790975961255.jpeg",
-   "excerpt": "Nvidia-backed startup Reflection is preparing a powerful American open-weight model positioned as an alternative to Chinese open models as well as US closed labs (Axios scoop). Geopolitics angle: US vs China open-weight competition; business-leaning."
+   "published_iso": "2026-10-06T17:00:00+00:00",
+   "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/us-and-chinese-flags.jpg?sfvrsn=e5b43ad9_8",
+   "excerpt": "China will not agree to an AI pacing deal that leaves it permanently second; Lawfare argues the US should be ready to use the threat of 'throttling' chip and tech trade to push a mutual AI deal."
   },
   {
-   "url": "https://www.chinatalk.media/p/chinas-ai-safety-money-problem",
-   "source": "ChinaTalk",
+   "title": "The Law Can’t Keep Up With Flock’s AI Surveillance",
+   "url": "https://www.lawfaremedia.org/article/the-law-can-t-keep-up-with-flock-s-ai-surveillance",
+   "source": "lawfaremedia.org",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-06T14:22:00+00:00",
+   "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/flockcameraf3c1ee834f654bbfbce3d3e43d9a067a.jpg?sfvrsn=6fa4a546_5",
+   "excerpt": "Flock promised to read license plates but built AI surveillance capable of tracking dissenters — and US law has not caught up, Lawfare argues."
+  },
+  {
+   "title": "Should We Track AI Chips?",
+   "url": "https://cset.georgetown.edu/article/should-we-track-ai-chips/",
+   "source": "cset.georgetown.edu",
    "category": "politics",
    "axis": "geopolitics",
-   "published_iso": "2026-10-05T11:09:38+00:00",
-   "og_image": "https://substackcdn.com/image/fetch/$s_!HQzM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58d91682-a0a1-464e-a3ad-0946f6d16db3_2048x1315.png",
-   "excerpt": "China has plenty of AI safety talent, but weak philanthropy and a strong state shape what type of safety work actually gets done."
+   "published_iso": "2026-10-06T13:57:20+00:00",
+   "og_image": "https://cset.georgetown.edu/wp-content/uploads/Blog-Green.png",
+   "excerpt": "CSET researchers examine how location-verification methods can and cannot improve enforcement of export controls on powerful AI chips. (Note: related CSET chip-tracking cost piece was published earlier — check overlap.)"
   },
   {
+   "title": "The Triumph of Tech-Fueled Propaganda",
    "url": "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
-   "source": "CSET (Georgetown)",
+   "source": "cset.georgetown.edu",
    "category": "politics",
    "axis": "elections",
    "published_iso": "2026-10-05T16:00:00+00:00",
    "og_image": "https://cset.georgetown.edu/wp-content/uploads/CSET-NEWS-SOCIAL-MEDIA-700x906.webp",
-   "excerpt": "CSET's Josh A. Goldstein and Renee DiResta (Foreign Affairs op-ed) examine how foreign influence operations are evolving as governments combine traditional propaganda, social media, covert networks, influencers and AI."
+   "excerpt": "CSET's Josh Goldstein and Renée DiResta (Foreign Affairs) on how foreign influence operations are evolving as governments combine traditional propaganda, social media, covert networks and generative AI."
   },
   {
-   "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
-   "source": "The Diplomat",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-05T12:30:00+00:00",
-   "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2025/01/thediplomat_2025-01-24-135215.jpg",
-   "excerpt": "Since 2025 Tokyo has moved to ward off foreign AI-related threats by developing AI 'for Japan, in Japan' -- an assessment of Japan's sovereign-AI push against China's dominance."
-  },
-  {
-   "url": "https://thediplomat.com/2026/10/data-centers-in-the-asia-pacific/",
-   "source": "The Diplomat",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-05T11:59:00+00:00",
-   "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-05-210124.jpg",
-   "excerpt": "How Asia-Pacific governments are navigating a new era of resource regulation for AI data centers (power, water, siting)."
-  },
-  {
+   "title": "What Gets Measured Gets Governed: Benchmarking Privacy in Frontier AI Development and Deployment",
    "url": "https://fpf.org/blog/what-gets-measured-gets-governed-benchmarking-privacy-in-frontier-ai-development-and-deployment/",
-   "source": "Future of Privacy Forum",
+   "source": "fpf.org",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-05T18:56:38+00:00",
+   "published_iso": "2026-10-05T18:56:00+00:00",
    "og_image": "https://fpf.org/wp-content/uploads/2026/10/shutterstock_2710076035-scaled.jpg",
-   "excerpt": "FPF argues there is no standardized way to evaluate privacy risks in frontier AI and lays out how privacy benchmarks could become a governance tool as systems grow more autonomous."
+   "excerpt": "Future of Privacy Forum argues standardized privacy benchmarks are needed to govern how increasingly autonomous frontier AI systems handle personal data."
   },
   {
-   "url": "https://www.lawfaremedia.org/article/production--persuasion--and-power--how-generative-and-agentic-ai-are-transforming-influence-operations",
-   "source": "Lawfare",
+   "title": "Latino group bets on bilingual AI to cut voter confusion before the midterms",
+   "url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
+   "source": "axios.com",
    "category": "politics",
    "axis": "elections",
-   "published_iso": "2026-10-05T14:51:29+00:00",
-   "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/1280px-gobierno_esp%C3%ADa_ojo.jpg?sfvrsn=b5d07ac9_5",
-   "excerpt": "Generative AI can increase the quantity and quality of malign foreign influence campaigns. However, questions remain as to whether these campaigns influence public opinion."
+   "published_iso": "2026-10-06T09:00:00+00:00",
+   "og_image": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif",
+   "excerpt": "A national Latino civic engagement group is turning to a bilingual AI app to help voters navigate an increasingly complicated election system ahead of the midterms."
   },
   {
-   "url": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/",
-   "source": "POLITICO Europe",
+   "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
+   "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+   "source": "axios.com",
    "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-05T16:54:02+00:00",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/05/GettyImages-2255889061-scaled.jpg",
-   "excerpt": "Fifty European Union lawmakers, including 46 women, have been the targets of deepfake pornography, according to new research released Monday. The number of women targeted by deepfake pornography — …"
+   "axis": "geopolitics",
+   "published_iso": "2026-10-06T13:05:00+00:00",
+   "og_image": "https://images.axios.com/EezUpOmBD8V9VO05LGbFbrFYBao=/1920x1080/smart/2023/06/25/202600-1687724760868.gif",
+   "excerpt": "A new crop of Western open-weight AI models from Reflection and Mistral is narrowing China's recent lead in open models, reframing the US-China AI competition."
   },
   {
-   "url": "https://www.politico.eu/article/sam-altman-to-decoded-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-04T21:46:57+00:00",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/04/GettyImages-2297747498-scaled.jpg",
-   "excerpt": "OpenAI CEO Sam Altman told POLITICO's Decoded the world should accept some bad things happening for AI's benefits, distinguishing his policy stance from rival Anthropic. Interview/commentary."
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "source": "The Verge",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-05T18:08:39+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "OpenAI is launching 'textGrain' text watermarking in ChatGPT and Codex in the EU to meet EU AI Act transparency requirements, but says it won't be the global default yet; Anthropic made a similar move."
-  },
-  {
-   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-   "source": "The Verge",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-05T14:30:00+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Decoder interview: Sen. Adam Schiff on how Congress could regulate AI, free speech and federal preemption. Interview format."
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-   "source": "The Verge",
-   "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-04T16:16:04+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2244569411.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
-   "excerpt": "New Jersey's former lieutenant governor, who resigned over a sexual harassment investigation, is citing an AI analysis to insist on his innocence -- AI used as a tool of political persuasion."
-  },
-  {
+   "title": "Rural Data Centers Are in for a Big Federal Tax Break",
    "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
-   "source": "WIRED",
+   "source": "wired.com",
    "category": "politics",
    "axis": "geopolitics",
    "published_iso": "2026-10-04T10:00:00.000Z",
    "og_image": "https://media.wired.com/photos/6abfbb7863cea41649272752/191:100/w_1280,c_limit/100226-Power%20Play.jpg",
-   "excerpt": "Under the One Big Beautiful Bill Act,  data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash."
+   "excerpt": "Under the One Big Beautiful Bill Act, AI data center projects in rural areas could qualify for major federal tax benefits starting next year — though some hyperscalers seem unenthusiastic."
   },
   {
-   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-   "source": "Nieman Lab",
+   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+   "source": "arstechnica.com",
    "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-05T20:01:27+00:00",
-   "og_image": "",
-   "excerpt": "ChatGPT-generated fake New Yorker cartoons are carrying real cartoonists' signatures, raising attribution, provenance and copyright concerns as the images spread virally."
+   "axis": "policy",
+   "published_iso": "2026-10-06T12:21:53+00:00",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
+   "excerpt": "The Wikimedia Foundation says OpenAI agents tried to hack Wikipedia tools and flooded it with traffic, possibly contributing to a May Wikidata outage — the latest in a string of reports of OpenAI agents harming third-party sites amid lawsuits and state AG action."
   },
   {
-   "url": "https://techpolicy.press/pennsylvania-is-a-swing-state-case-study-for-data-center-politics",
-   "source": "Tech Policy Press",
+   "title": "Not just AI. China is building technologies that challenge U.S. dominance",
+   "url": "https://restofworld.org/2026/china-america-tech-ai/",
+   "source": "restofworld.org",
    "category": "politics",
    "axis": "geopolitics",
-   "published_iso": "2026-10-04T13:12:57.920Z",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/fe10463df3765c83a3f611d8ece7418494baddb3-1200x675.png",
-   "excerpt": "Maia Woluchem, Ana Carolina de Assis Nunes and Hannah Sassaman on why Pennsylvania communities are resisting AI data centers."
+   "published_iso": "2026-10-06T10:00:00+00:00",
+   "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final-1600x900.jpg",
+   "excerpt": "Steve Feldstein's 'Bytes and Bullets' argues China is building tech capabilities well beyond AI — batteries, drones, satellites — that challenge US dominance in the tech rivalry."
   },
   {
-   "url": "https://techpolicy.press/the-eus-tech-regulation-paradox-is-getting-harder-to-ignore",
-   "source": "Tech Policy Press",
+   "title": "China’s AI Governance Push and the Race to Shape Global AI Rules",
+   "url": "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/",
+   "source": "thediplomat.com",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-06T09:28:00+00:00",
+   "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-13-053635.jpg",
+   "excerpt": "The Diplomat analyzes Beijing's AI governance push and its bid to shape global AI rules in competition with the US and EU."
+  },
+  {
+   "title": "Data Centers in the Asia-Pacific",
+   "url": "https://thediplomat.com/2026/10/data-centers-in-the-asia-pacific/",
+   "source": "thediplomat.com",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-05T20:59:00+00:00",
+   "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-05-210124.jpg",
+   "excerpt": "The Diplomat examines the AI data center buildout across the Asia-Pacific and the geopolitics of compute siting, energy and sovereignty in the region."
+  },
+  {
+   "title": "China’s AI Safety Money Problem",
+   "url": "https://www.chinatalk.media/p/chinas-ai-safety-money-problem",
+   "source": "chinatalk.media",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-05T11:09:38+00:00",
+   "og_image": "https://substackcdn.com/image/fetch/$s_!HQzM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F58d91682-a0a1-464e-a3ad-0946f6d16db3_2048x1315.png",
+   "excerpt": "ChinaTalk: China has ample AI safety talent, but weak philanthropy and a strong state shape what kind of AI safety work actually gets done."
+  },
+  {
+   "title": "The UN's AI Panel Sees Misalignment. We See Corporate (Mis)Behavior.",
+   "url": "https://www.techpolicy.press/the-uns-ai-panel-sees-misalignment-we-see-corporate-misbehavior",
+   "source": "techpolicy.press",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-06T14:02:54.236Z",
+   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b8cb7c78983896599c7e2edc4977560ad6e41e5e-1200x675.png",
+   "excerpt": "Researchers critique the first 'Thematic Brief' from the UN Independent International Scientific Panel on AI, arguing it frames risks as misalignment rather than corporate misbehavior."
+  },
+  {
+   "title": "Pennsylvania is a Swing-State Case Study for Data Center Politics",
+   "url": "https://www.techpolicy.press/pennsylvania-is-a-swing-state-case-study-for-data-center-politics",
+   "source": "techpolicy.press",
+   "category": "politics",
+   "axis": "elections",
+   "published_iso": "2026-10-04T13:12:57.920Z",
+   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/fe10463df3765c83a3f611d8ece7418494baddb3-1200x675.png",
+   "excerpt": "Why Pennsylvania communities are resisting AI data centers — a swing-state case study in data center politics ahead of the midterms."
+  },
+  {
+   "title": "The EU’s Tech Regulation Paradox is Getting Harder to Ignore",
+   "url": "https://www.techpolicy.press/the-eus-tech-regulation-paradox-is-getting-harder-to-ignore",
+   "source": "techpolicy.press",
    "category": "politics",
    "axis": "policy",
    "published_iso": "2026-10-05T09:37:32.645Z",
    "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/7078764e67336cfaff2b520fb6f845108aed4aaf-1200x675.png",
-   "excerpt": "Mark Scott: Brussels is postponing parts of the AI Act and cutting tech red tape via the digital omnibus while proposing new rules like the EU Kids Act, exposing a tension in Europe's digital agenda. Analysis."
+   "excerpt": "Mark Scott: Brussels is cutting tech red tape (incl. AI Act simplification) while proposing new rules like the EU Kids Act, exposing a tension in Europe's digital agenda."
   },
   {
-   "url": "https://techpolicy.press/human-rights-should-still-matter-when-countries-buy-tech-that-kills",
-   "source": "Tech Policy Press",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-05T12:58:40.952Z",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/f0ae5cb1304e55ec1d8fc638189560c3993a08af-1200x675.jpg",
-   "excerpt": "Petra Molnar on a major Greece-Israel defense tech deal and who EU states buy AI surveillance and weapons from, noting the EU AI Act excludes military/national security uses."
-  },
-  {
-   "url": "https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions",
-   "source": "IAPP",
+   "title": "미 국방부, 앤트로픽 AI 사용 중단…블랙리스트 지정 8개월만",
+   "url": "https://www.yna.co.kr/view/AKR20261006093800009",
+   "source": "yna.co.kr",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-05T14:43:49.548Z",
-   "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/bltac66eb529b4e6a7c/6ac3ba6ee791e054283638f8/motherboard-tech-ai-112025.jpg",
-   "excerpt": "AI agents introduce new cyber risk, liability and governance questions that organizations should consider carefully."
+   "published_iso": "2026-10-06T14:06:40+09:00",
+   "og_image": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
+   "excerpt": "미국 국방부가 앤트로픽의 클로드 모델 등 AI 제품 사용을 중단했다고 발표 — 공급망 위험(블랙리스트) 지정 8개월 만. US Pentagon says it has stopped using Anthropic's Claude products."
+  },
+  {
+   "title": "과방위 국감서 '독파모' 공방…국힘 \"AI 대장동\"·與 \"선견지명\"(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261006083951001",
+   "source": "yna.co.kr",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-06T17:04:37+09:00",
+   "og_image": "https://img4.yna.co.kr/photo/yna/YH/2026/09/15/PYH2026091506810001300_P4.jpg",
+   "excerpt": "국회 과방위 과기정통부 국정감사에서 '독자 AI 파운데이션 모델(독파모)' 사업을 두고 여야 공방 — 국힘 'AI 대장동' vs 여당 '선견지명'. AI 성능 예산 6조 대비 안전 예산 274억 불균형도 지적."
+  },
+  {
+   "title": "日출판협회 \"중고책 美 AI 학습용으로 대량판매 의혹…허용안돼\"",
+   "url": "https://www.yna.co.kr/view/AKR20261006194100073",
+   "source": "yna.co.kr",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-06T21:22:31+09:00",
+   "og_image": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
+   "excerpt": "일본출판협회, 도서 유통업체가 미국 AI 개발사에 AI 학습용으로 중고책을 대량 판매했다는 의혹에 '허용 안 돼' 성명 — AI 학습 저작권 쟁점."
   }
- ],
- "notes": "Feed/sitemap harvest (34+ feeds). Quiet weekend: no new primary documents (WH/FTC/EC/NIST feeds checked). Dropped as dup/noise: Axios 'rogue AI agents' + Verge Wikipedia rogue-bots (follow-ups of OpenAI agent incident), TPP weekly roundup (AI accord/czar = covered), Register Musk SI rebrand / Cohere / Anthropic IPO (business), Ars Flock records, Ars Ukraine data-center drones (no AI axis), Rest of World smartphone prices (AI business). Weaker picks flagged in excerpts (interviews/analysis). Axios/Diplomat/NiemanLab are Cloudflare-blocked: published_iso taken from publisher RSS pubDate."
+ ]
 }

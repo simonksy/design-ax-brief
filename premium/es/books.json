@@ -5375,6 +5375,150 @@
           "x": "Alan Wan, de la Hong Kong Comics and Animation Federation, afirma que los artistas podrían convertir los cómics en animación AI-generated: “No serán solo dibujantes de cómics, podrían convertirse en directores”. Las cuestiones sobre derechos de autor y autoría siguen abiertas."
         }
       ]
+    },
+    "books/books-frankfurt-lepore": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+          "cap": "Jill Lepore (foto: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "En la rueda de prensa inaugural del 6 de octubre de la 78.ª Frankfurter Buchmesse, Sebastian Guggolz, presidente de la Asociación Alemana de Editores y Libreros, dijo que el amor por los libros sigue floreciendo, pero que la industria afronta desafíos enormes, entre ellos el asunto que ocupa todas las mentes: la llegada de la AI."
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+          "cap": "(Desde la izquierda): Torsten Casimir, Sebastian Guggolz, Juergen Boos y Jill Lepore (foto: Johannes Minkus)."
+        },
+        {
+          "t": "p",
+          "x": "“El problema de la competencia lectora no puede compensarse con la AI, que da respuestas al azar”, dijo Guggolz, quien pidió una “intervención inmediata” a los líderes mundiales."
+        },
+        {
+          "t": "p",
+          "x": "En una conferencia magistral de 15 minutos, la historiadora Jill Lepore, ganadora del premio Pulitzer (Pulitzer Prize-winning), advirtió contra un futuro entregado a una camarilla de magnates tecnológicos. “Este año nos reunimos aquí en el filo de la navaja de la historia”, dijo. “La suma del conocimiento humano contenida en los libros del mundo ha sido engullida por completo por máquinas propiedad de corporaciones”."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, el Börsenverein ha emitido el “Frankfurt appeal”, que pide a los legisladores transparencia en los datos de entrenamiento de AI, un mercado de licencias con modelos de ingresos justos y una aplicación rigurosa de la ley europea de derechos de autor. La feria se celebra del 7 al 11 de octubre."
+        }
+      ]
+    },
+    "books/books-roose": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En el Big Interview de WIRED, Katie Drummond conversa con Kevin Roose sobre su nueva empresa de medios, Machine Gods Media, fundada con Casey Newton, y sobre su libro The AGI Chronicles, que sigue a OpenAI, Anthropic y Google. Roose dedicó cerca de un año a investigar y escribir, y habló con más de 150 personas."
+        },
+        {
+          "t": "p",
+          "x": "Drummond dice que pasó el libro por Pangram. Roose: “Lo escribió un ser humano muy cansado, con exceso de trabajo y falto de sueño”, con la ayuda de la investigadora Jasmine Sun y de editores humanos de FSG."
+        },
+        {
+          "t": "p",
+          "x": "Sí usó AI en torno a la escritura: un enorme cuaderno de NotebookLM con investigación, transcripciones de entrevistas y artículos que consultaba “como una función de búsqueda potenciada”, ayuda con tareas de reporterismo y organización de notas, un “AI swarm” para verificar datos junto a un verificador humano y un “Council of Claudes” que le daba comentarios editoriales desde distintos puntos de vista."
+        },
+        {
+          "t": "p",
+          "x": "Roose cree que a los lectores les importa mucho si un libro lo escribió un humano, y dice que los escritores deberían mostrar su proceso para que la gente conecte con el trabajo que implica."
+        }
+      ]
+    },
+    "books/books-ssp-integrity": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Pulse Check Poll de SSP de septiembre de 2026 preguntó a 181 personas del ámbito de la edición académica cómo están respondiendo a los desafíos de integridad de la investigación."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+          "cap": "¿Qué desafíos de integridad de la investigación representan hoy la mayor preocupación para su organización?"
+        },
+        {
+          "t": "p",
+          "x": "El 73% señaló los manuscritos generados o manipulados con AI (AI-generated o AI-manipulated) como una de sus tres principales preocupaciones, seguidos de las fábricas de artículos (44%) y las referencias falsas o alucinaciones AI-generated (41%)."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+          "cap": "¿Qué grado de confianza tiene su organización en su capacidad para detectar los siguientes problemas antes de la publicación o difusión?"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, solo el 10% confía mucho o muchísimo en poder detectar manuscritos generados con AI (AI-generated) antes de su publicación, y el 49% confía poco o nada."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+          "cap": "En general, ¿qué impacto está teniendo hoy la inteligencia artificial en la integridad de la investigación?"
+        },
+        {
+          "t": "p",
+          "x": "El 95% coincide en que la AI está creando nuevos riesgos para la integridad, y el 54% ya usa herramientas de cribado asistidas por AI (AI-assisted). Aunque el 94% aplica al menos una medida de integridad, el 63% confía poco en que el ecosistema esté protegiendo el registro académico."
+        },
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+          "cap": "Ordene las causas de fondo según su impacto percibido."
+        },
+        {
+          "t": "p",
+          "x": "Los incentivos de “publicar o perecer” (Publish-or-perish) figuran como la principal causa de fondo, y la AI generativa, que avanza más rápido que las políticas y la detección, queda en un ajustado segundo lugar."
+        }
+      ]
+    },
+    "books/books-libreoffice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+          "cap": "Image Credits: LibreOffice"
+        },
+        {
+          "t": "p",
+          "x": "The Document Foundation, la organización sin fines de lucro detrás del editor de documentos de código abierto LibreOffice, afirmó esta semana en una entrada de blog que, aunque no rechaza la AI de plano, “no añadirá” AI a su software en el futuro previsible."
+        },
+        {
+          "t": "p",
+          "x": "Su versión más reciente, de finales de agosto, “no contiene funciones de AI generativa”, una “posición de diseño deliberada” para que los documentos de los usuarios no se suban a un servidor y ninguna parte del software necesite conexión a la red. “Cualquier organización que maneje datos confidenciales, protegidos por secreto profesional o personales necesita saber adónde van esos datos, y la única garantía que resiste una auditoría es que no salgan de la máquina”, señaló."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios aún pueden instalar extensiones que conectan LibreOffice con modelos de AI locales. La organización dijo que ninguna integración actual cumple sus requisitos y calificó la decisión como una evaluación de la tecnología actual y no como un “rechazo definitivo”."
+        }
+      ]
+    },
+    "books/ross-appeal-ai-fair-use-ruling": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Association of American Publishers y el Authors Guild celebraron el fallo de apelación en Thomson Reuters v. ROSS, que determinó que la copia por parte de ROSS de los sumarios de Westlaw de Thomson Reuters no fue uso legítimo. Es la primera vez que un tribunal de apelación dictamina que este tipo de copia no autorizada por parte de una empresa de AI no está protegida por el uso legítimo."
+        },
+        {
+          "t": "p",
+          "x": "Thomson Reuters presentó la demanda ante el U.S. District Court for Delaware en mayo de 2020, después de que ROSS usara sumarios de Westlaw para entrenar su plataforma de AI. Tras el fallo del tribunal de Delaware a favor de Thomson Reuters, la AAP presentó en noviembre de 2025 un escrito amicus en el que pidió al Third Circuit confirmar la sentencia rechazando los argumentos de uso legítimo de ROSS."
+        },
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
+          "cap": "El James A. Byrne United States Courthouse en Filadelfia. Foto: ajay_suresh, CC BY 2.0"
+        },
+        {
+          "t": "p",
+          "x": "La CEO de la AAP, Maria Pallante, dijo que “el Third Circuit señaló correctamente que el mercado de licencias para el entrenamiento de AI no solo existe, sino que se está ‘desarrollando rápidamente’”, y calificó el fallo como “este poderoso precedente”."
+        },
+        {
+          "t": "p",
+          "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
+        }
+      ]
     }
   }
 }

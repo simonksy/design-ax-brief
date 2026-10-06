@@ -6,37 +6,48 @@
     "label": "Design",
     "news": [
       {
-        "id": "bimlogiq-argus-revit-family-agent",
+        "id": "design-figma-agent-ga",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
-        "tool": "Text-to-CAD",
-        "source": "AEC Magazine",
-        "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
-        "accent": "#7928ca",
-        "motif": "cube",
-        "image": "pipeline/media/bimlogiq-argus-revit-family-agent.jpg",
-        "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
-        "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
-        "mini_headline": "ArgusのエージェントがRevitファミリを構築",
+        "tool": "Figma",
+        "source": "Figma Blog",
+        "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "video": "pipeline/media/design-figma-agent-ga.mp4",
+        "poster": "pipeline/media/design-figma-agent-ga.jpg",
+        "image": "pipeline/media/design-figma-agent-ga.jpg",
+        "headline": "Figmaのエージェント\n一般提供を開始",
+        "body": "一般提供されたFigmaエージェントをUber、Granola、Atlassianが使う。",
+        "mini_headline": "FigmaエージェントがGAに",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-              "cap": "Revit上で動くBIMlogiq Argus"
+              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+              "cap": "モバイル画面の上に浮かぶプロンプトの例"
             },
             {
               "t": "p",
-              "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
+              "x": "Uber、Granola、Atlassianのチームが、一般提供が始まったFigmaのエージェントで質が高くスピードの速い仕事をどう支えているかを紹介する。エージェントは本日ベータを終え、指示への追従や長時間かかるタスクの処理が向上した。プロのデザイナーが参加したFigmaの人間による評価では、~60%+で勝っている。ライブラリのオーナーは、デザインシステムの文脈をエージェントに与えるマークダウンファイル、つまりガイドラインを追加できる。"
             },
             {
               "t": "p",
-              "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
+              "x": "七つのプラットフォームにコンポーネントを提供するUberのデザインシステムチームは、/create-anatomyや/create-colorといったスキルを作り、システムを文書化した。かつて複数人で数カ月かかったドキュメントを、今ではデザイナー一人が午後のうちに公開する。"
             },
             {
               "t": "p",
-              "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
+              "x": "GranolaのProduct DesignerであるPaavan Buddhdevは、Granolaコネクタを使い、議事録から抜き出したフィードバックをエージェントにキャンバス上の注釈として書き込ませている。「大幅な時間の節約になった」と彼は言う。"
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+              "cap": "PaavanはFigmaのエージェントとGranolaコネクタを使い、キャンバスにフィードバックを注釈として加えている。"
+            },
+            {
+              "t": "p",
+              "x": "Atlassianはモーション素材を再利用可能なコンポーネントに変え、エージェントはデザインシステム内でデザイナーがイージングやデュレーションを繰り返し調整するのを手助けしている。「静的なデザインを扱うデザイナーにとって、スキルの幅が広がった」とProduct DesignerのDavy Fungは語る。"
             }
           ]
         },
@@ -45,157 +56,75 @@
         "hasFull": true
       },
       {
-        "id": "photoshop-remove-tool-no-generative-credits",
+        "id": "design-photoshop-27-11-enhance-edge",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "Fstoppers",
-        "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+        "tool": "Photoshop",
+        "source": "CG Channel",
+        "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
         "accent": "#f5a623",
         "motif": "sphere",
-        "video": "pipeline/media/photoshop-remove-tool-no-generative-credits.mp4",
-        "poster": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
-        "image": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
-        "headline": "Photoshopの\nRemoveはクレジット不要",
-        "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
-        "mini_headline": "Removeツールはクレジット不要",
+        "image": "pipeline/media/design-photoshop-27-11-enhance-edge.jpg",
+        "headline": "Photoshop最新版\n27.11でGPT対応",
+        "body": "27.11のEnhance Edgeは1回20クレジットでマスクの色にじみを抑える。",
+        "mini_headline": "Photoshop 27.11にEnhance Edge",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "adobe-text-to-3d-patent",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "KeyShot",
-        "source": "Creative Bloq",
-        "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-        "accent": "#2ec5c5",
-        "motif": "sphere",
-        "image": "pipeline/media/adobe-text-to-3d-patent.jpg",
-        "headline": "Adobe Firefly\ntext-to-3Dの特許",
-        "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
-        "mini_headline": "Adobeのtext-to-3D特許",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "apple-macos-ai-agent-full-disk-access-warning",
+        "id": "design-hark-pro-assistant",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "AI Workflow",
-        "source": "No Film School",
-        "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+        "source": "Fast Company",
+        "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
         "accent": "#ff5a4d",
         "motif": "frame",
-        "image": "pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg",
-        "headline": "Apple、AIへのFull\nDisk Accessを警告",
-        "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
-        "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+        "image": "pipeline/media/design-hark-pro-assistant.jpg",
+        "headline": "Hark Proが問い直す\nAIアシスタントの役割",
+        "body": "Hark Proのデザイナーは、利用者の要望を学び自ら助けるAIアシスタントを考え直した。",
+        "mini_headline": "Hark Pro、アシスタントを再考",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "uxcollective-ai-skill-atrophy-essay",
+        "id": "design-claude-code-to-figma-test",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Figma",
+        "source": "DEV Community",
+        "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+        "accent": "#3b6bff",
+        "motif": "frame",
+        "image": "pipeline/media/design-claude-code-to-figma-test.jpg",
+        "headline": "Claude Codeから\nFigmaへ、実際に試す",
+        "body": "Claude CodeのライブUIをFigmaの編集可能なフレームに送る機能を試した。",
+        "mini_headline": "Claude CodeからFigmaへ、検証",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "design-figma-expert-designs-by-describing",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "AI Workflow",
-        "source": "UX Collective",
-        "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+        "source": "DEV Community",
+        "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
         "accent": "#eb367f",
         "motif": "frame",
-        "image": "pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg",
-        "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
-        "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
-        "mini_headline": "AIとスキルの衰え",
+        "image": "pipeline/media/design-figma-expert-designs-by-describing.png",
+        "headline": "元Figmaの達人は今、\n説明してデザインする",
+        "body": "元Figmaの達人はアプリや動画広告をClaude Opus 5.5に説明して作らせる。",
+        "mini_headline": "説明でデザインする",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "design-adobe-chatgpt-editing",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "source": "Adobe Blog",
-            "url": "https://blog.adobe.com/en/publish/2026/09/29/openai-devday-2026-introducing-hands-on-editing-adobe-plugin-chatgpt",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/design-adobe-chatgpt-editing.png",
-            "headline": "ChatGPT内のAdobe\nプラグインが手作業対応",
-            "body": "チャットで編集内容を伝えた後、PhotoshopやExpress系パネルで直接仕上げる。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "design-claude-sonnet-5-5",
-            "eyebrow": "AI NEWS",
-            "tool": "Figma",
-            "source": "Anthropic",
-            "url": "https://www.anthropic.com/claude-sonnet-5-5",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/design-claude-sonnet-5-5.jpg",
-            "headline": "Claude Sonnet\n5.5、速くて安く",
-            "body": "Sonnet5より30%以上速く、価格は最大30%安い。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "design-de-slopify",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "source": "UX Collective",
-            "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
-            "accent": "#ff5a4d",
-            "motif": "frame",
-            "image": "pipeline/media/design-de-slopify.png",
-            "headline": "AIスロップ風デザイン\nどう取り除くか",
-            "body": "バイブコーディングで出た画面からAIらしさを消す方法を順に示す。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "design-openai-dots-mascots",
-            "eyebrow": "AI NEWS",
-            "tool": "AI Workflow",
-            "source": "Fast Company",
-            "url": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/design-openai-dots-mascots.jpg",
-            "headline": "OpenAIのDots\nエージェントが可愛く",
-            "body": "象徴のVoidロゴではなく、蝶ネクタイの三角形などをまとう。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "design-meta-hologram-avatars",
-            "eyebrow": "AI NEWS",
-            "tool": "VR Prototype",
-            "source": "Road to VR",
-            "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-            "accent": "#eb367f",
-            "motif": "headset",
-            "image": "pipeline/media/design-meta-hologram-avatars.jpg",
-            "headline": "MetaのHologram\nPersonaに対抗",
-            "body": "AIを組み込んだ2.5D実写風アバターがRay-Ban DisplayとVRグラスに搭載。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -530,6 +459,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "bimlogiq-argus-revit-family-agent",
+            "eyebrow": "AI NEWS",
+            "tool": "Text-to-CAD",
+            "source": "AEC Magazine",
+            "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/bimlogiq-argus-revit-family-agent.jpg",
+            "source_lang": "en",
+            "headline": "ArgusのエージェントがRevitファミリを構築",
+            "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "photoshop-remove-tool-no-generative-credits",
+            "eyebrow": "AI NEWS",
+            "tool": "KeyShot",
+            "source": "Fstoppers",
+            "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
+            "source_lang": "en",
+            "headline": "Removeツールはクレジット不要",
+            "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "adobe-text-to-3d-patent",
+            "eyebrow": "AI NEWS",
+            "tool": "KeyShot",
+            "source": "Creative Bloq",
+            "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/adobe-text-to-3d-patent.jpg",
+            "source_lang": "en",
+            "headline": "Adobeのtext-to-3D特許",
+            "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "apple-macos-ai-agent-full-disk-access-warning",
+            "eyebrow": "AI NEWS",
+            "tool": "AI Workflow",
+            "source": "No Film School",
+            "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+            "accent": "#ff5a4d",
+            "motif": "frame",
+            "image": "pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg",
+            "source_lang": "en",
+            "headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+            "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "uxcollective-ai-skill-atrophy-essay",
+            "eyebrow": "AI NEWS",
+            "tool": "AI Workflow",
+            "source": "UX Collective",
+            "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg",
+            "source_lang": "en",
+            "headline": "AIとスキルの衰え",
+            "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -538,38 +552,41 @@
     "label": "Music",
     "news": [
       {
-        "id": "suno-albums-launch",
+        "id": "music-suno-italy",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Suno (YouTube)",
-        "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
+        "source": "Music Business Worldwide",
+        "url": "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
         "accent": "#ff2d55",
         "motif": "sphere",
-        "video": "pipeline/media/suno-albums-launch.mp4",
-        "poster": "pipeline/media/suno-albums-launch.jpg",
-        "image": "pipeline/media/suno-albums-launch.jpg",
-        "headline": "Sunoでクリエイターが\nアルバムを丸ごと公開",
-        "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
-        "mini_headline": "SunoがAlbumsを追加",
+        "image": "pipeline/media/music-suno-italy.jpg",
+        "headline": "イタリア、Sunoの\n利用規約を調査",
+        "body": "イタリアAGCMが著作者人格権放棄のライセンスなどSunoの規約を調査中だ。",
+        "mini_headline": "イタリア、Sunoの規約を調査",
         "full": {
           "mode": "summary",
           "blocks": [
             {
-              "t": "video",
-              "yt": "MdxaU0l3FzI"
+              "t": "img",
+              "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+              "cap": "写真：FotoField / Shutterstock.com"
             },
             {
               "t": "p",
-              "x": "SunoにAlbumsが登場した。Albumsを使えば、クリエイターは楽曲をまとめて一つの作品としてリリースし、カバーアートを作成またはアップロードし、トラックリストを並べ、AlbumをSunoで公開し、プロジェクト全体を一か所で共有できる。"
+              "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
             },
             {
               "t": "p",
-              "x": "チュートリアルでは、ホストのLuke Conardが一連の流れを説明する。Albumsとプレイリストの違い、新しいLPやEPの作成、Albumアートワークのアップロードや生成、Libraryやプレイリストからの曲の追加だ。"
+              "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
             },
             {
               "t": "p",
-              "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
+              "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
+            },
+            {
+              "t": "p",
+              "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
             }
           ]
         },
@@ -578,155 +595,77 @@
         "hasFull": true
       },
       {
-        "id": "sony-music-260k-deepfake-takedowns",
+        "id": "music-elevenlabs-search",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
-        "source": "Music Business Worldwide",
-        "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
-        "accent": "#7928ca",
+        "source": "ElevenLabs (YouTube)",
+        "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
+        "accent": "#0070f3",
         "motif": "sphere",
-        "image": "pipeline/media/sony-music-260k-deepfake-takedowns.jpg",
-        "headline": "Sony MusicがAI曲\n260,000件超を削除要請",
-        "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
-        "mini_headline": "Sony、AI偽曲260,000件を標的に",
+        "video": "pipeline/media/music-elevenlabs-search.mp4",
+        "poster": "pipeline/media/music-elevenlabs-search.jpg",
+        "image": "pipeline/media/music-elevenlabs-search.jpg",
+        "headline": "ElevenLabsが\nAI-made曲に$100K",
+        "body": "ElevenLabsが15-45秒のジングル広告を募り、賞金$100,000を出す。",
+        "mini_headline": "ElevenLabs、$100KのAI-madeジングル広告コンテスト",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "spotify-editorial-playlists-decline-fake-account-purge",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Music",
-        "source": "Digital Music News",
-        "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
-        "accent": "#2ec5c5",
-        "motif": "sphere",
-        "image": "pipeline/media/spotify-editorial-playlists-decline-fake-account-purge.jpg",
-        "headline": "Spotifyのプレイリスト\n偽アカウント排除で減少",
-        "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
-        "mini_headline": "Spotifyのプレイリストが減少",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "joe-bonamassa-suno-lyrics-stance",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Music",
-        "source": "MusicRadar",
-        "url": "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge",
-        "accent": "#f5a623",
-        "motif": "sphere",
-        "image": "pipeline/media/joe-bonamassa-suno-lyrics-stance.jpg",
-        "headline": "Joe Bonamassa\nSuno作詞は重罪ではない",
-        "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
-        "mini_headline": "BonamassaがAI作詞に言及",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "pope-leo-xiv-human-art-ai-warning",
+        "id": "music-aria-australia",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Music",
         "source": "Music Ally",
-        "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
-        "accent": "#0070f3",
+        "url": "https://musically.com/2026/10/06/aria-boss-warns-australian-politicians-on-ai-lobbying-demands/",
+        "accent": "#f5a623",
         "motif": "sphere",
-        "image": "pipeline/media/pope-leo-xiv-human-art-ai-warning.jpg",
-        "headline": "教皇Leo XIV\n人間の芸術は機械と別物",
-        "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
-        "mini_headline": "教皇、AIアートに一線",
+        "image": "pipeline/media/music-aria-australia.png",
+        "headline": "ARIA、豪政界に\nAIロビー活動を警告",
+        "body": "ARIAのトップが、AI規制を検討する豪政界にAI企業のロビー要求を警告した。",
+        "mini_headline": "ARIA、AIロビー活動を警告",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "music-china-ai-audition",
+        "source_lang": "ko",
+        "eyebrow": "AI NEWS",
+        "tool": "Music",
+        "source": "일간스포츠",
+        "url": "https://isplus.com/article/view/isp202610020005",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/music-china-ai-audition.png",
+        "headline": "AIと人が競い\nAIも審査するオーディション",
+        "body": "中国のオーディション番組で、AI歌手が人間と競い、AI審査員も評価に加わる。",
+        "mini_headline": "AIも審査するオーディション",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "music-hypebot-ai-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Music",
+        "source": "Hypebot",
+        "url": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
+        "accent": "#2ec5c5",
+        "motif": "sphere",
+        "image": "pipeline/media/music-hypebot-ai-agents.jpg",
+        "headline": "音楽の次の経済は\n自律型AIエージェントか",
+        "body": "Hypebotの寄稿は人が監督するAIエージェントが権利や印税の仕組みを直せると論じる。",
+        "mini_headline": "AIエージェントが動かす音楽経済",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "music-abyzor-genesis",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Bedroom Producers Blog",
-            "url": "https://bedroomproducersblog.com/2026/09/29/abyzor-genesis-midi/",
-            "accent": "#ff2d55",
-            "motif": "sphere",
-            "image": "pipeline/media/music-abyzor-genesis.jpg",
-            "headline": "ABYZOR Genesis\n無料ローカルAI追加",
-            "body": "既存のMIDIパターンを自分のPCでAIが変奏し、クレジットも月額料金もかからない。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "music-suno-voice-instrument",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Suno Music (YouTube)",
-            "url": "https://www.youtube.com/shorts/JYs3lzKOruI",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/music-suno-voice-instrument.jpg",
-            "headline": "Suno Studioが\n声を楽器に変える",
-            "body": "Suno Studioで声を録音すると好きな楽器の音に変えられる。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "music-tiktok-voice-clone-suit",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Digital Music News",
-            "url": "https://www.digitalmusicnews.com/2026/09/27/japanese-voice-actor-sues-tiktok-ai-voice-cloning/",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/music-tiktok-voice-clone-suit.png",
-            "headline": "AI音声複製疑惑\n日本声優がTikTok提訴",
-            "body": "AIで複製した自分の声が動画に使われたとして、日本の声優がTikTokを訴えた。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "music-kpop-ai-authenticity",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "Financial News (fnnews.com)",
-            "url": "https://www.fnnews.com/news/202609270056206684",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/music-kpop-ai-authenticity.jpg",
-            "headline": "10秒で1曲\nAIがKPOPの真正性揺らす",
-            "body": "事務所は仮想アーティストやAIボーカルに投資するが、ファンは真正性を問う。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "music-elevenlabs-v4",
-            "eyebrow": "AI NEWS",
-            "tool": "Music",
-            "source": "TechCrunch",
-            "url": "https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/music-elevenlabs-v4.jpg",
-            "headline": "ElevenLabs v4\n表現精密に90言語超",
-            "body": "10秒の音声で声を複製でき、表現はより精密に、言語は90以上に対応する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -1045,6 +984,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "suno-albums-launch",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Suno (YouTube)",
+            "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
+            "accent": "#ff2d55",
+            "motif": "sphere",
+            "image": "pipeline/media/suno-albums-launch.jpg",
+            "source_lang": "en",
+            "headline": "SunoがAlbumsを追加",
+            "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "sony-music-260k-deepfake-takedowns",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Music Business Worldwide",
+            "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/sony-music-260k-deepfake-takedowns.jpg",
+            "source_lang": "en",
+            "headline": "Sony、AI偽曲260,000件を標的に",
+            "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "spotify-editorial-playlists-decline-fake-account-purge",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Digital Music News",
+            "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/spotify-editorial-playlists-decline-fake-account-purge.jpg",
+            "source_lang": "en",
+            "headline": "Spotifyのプレイリストが減少",
+            "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "joe-bonamassa-suno-lyrics-stance",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "MusicRadar",
+            "url": "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/joe-bonamassa-suno-lyrics-stance.jpg",
+            "source_lang": "en",
+            "headline": "BonamassaがAI作詞に言及",
+            "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "pope-leo-xiv-human-art-ai-warning",
+            "eyebrow": "AI NEWS",
+            "tool": "Music",
+            "source": "Music Ally",
+            "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/pope-leo-xiv-human-art-ai-warning.jpg",
+            "source_lang": "en",
+            "headline": "教皇、AIアートに一線",
+            "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -1053,44 +1077,41 @@
     "label": "Movies",
     "news": [
       {
-        "id": "ambassadors-mosa-ai-platform-opens",
+        "id": "movies-loftapps-mad-god",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "postPerspective",
-        "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
+        "source": "AWN",
+        "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026",
         "accent": "#0070f3",
         "motif": "frame",
-        "image": "pipeline/media/ambassadors-mosa-ai-platform-opens.jpg",
-        "headline": "Ambassadors\nAI基盤Mosaを全面開放",
-        "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
-        "mini_headline": "AmbassadorsがMosaを全面開放",
+        "image": "pipeline/media/movies-loftapps-mad-god.jpg",
+        "headline": "LOFTAPPS、VIEWに\nAIとMad God続編",
+        "body": "LOFTAPPSがVIEW 2026にAIソフトを出展、Mad God続編も公開する。",
+        "mini_headline": "LOFTとMad God続編",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+              "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+              "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
             },
             {
               "t": "p",
-              "x": "Amsterdam-basedのクリエイティブ制作会社Ambassadorsが、社内向けのビジュアルAIワークフロー基盤Mosaを全面公開した。六月に初披露されたMosaは、10のブランドとエージェンシーが参加したクローズドベータでテストされ、参加社は40を超えるワークフローを構築し、500点を超えるアセットを生成した。"
+              "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
             },
             {
               "t": "p",
-              "x": "MosaはAmbassadors自身の制作現場から生まれた。画像、映像、アップスケーリングでツールが分かれていたため、プロンプトやデータ、ブランド要件をツール間で手作業で受け渡す必要があった。MosaはAIモデル、データ、ワークフローの各ステップを一つのビジュアルワークフローにまとめ、チームはそれをプロジェクトやフォーマット、市場をまたいで再利用できる。"
-            },
-            {
-              "t": "img",
-              "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+              "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
             },
             {
               "t": "p",
-              "x": "「良いアセットを一つ生成すること自体は、もはや難しくない。難しいのは、フォーマットや市場をまたいで、ブランドを損なわずに一貫して作り続けることだ。だからこれを作った」と、AmbassadorsのCIO、Diederik Veeloは語る。"
+              "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
             },
             {
               "t": "p",
-              "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
+              "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
             }
           ]
         },
@@ -1099,137 +1120,77 @@
         "hasFull": true
       },
       {
-        "id": "pvc-ai-coded-editor-utilities-roundup",
+        "id": "movies-gods-dont-give-gifts-trailer",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "ProVideo Coalition",
-        "url": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
+        "source": "Deadline",
+        "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
         "accent": "#f5a623",
         "motif": "frame",
-        "image": "pipeline/media/pvc-ai-coded-editor-utilities-roundup.jpg",
-        "headline": "AIでコーディングが容易に\n編集ツールが続々登場",
-        "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
-        "mini_headline": "AIコーディングで編集ツール増加",
+        "video": "pipeline/media/movies-gods-dont-give-gifts-trailer.mp4",
+        "poster": "pipeline/media/movies-gods-dont-give-gifts-trailer.jpg",
+        "image": "pipeline/media/movies-gods-dont-give-gifts-trailer.jpg",
+        "headline": "Gossip Goblinの\nall-AI R-rated",
+        "body": "Gossip GoblinがAIだけで作ったR-rated長編の予告編を公開した。",
+        "mini_headline": "all-AI長編の予告編",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
+        "id": "movies-sag-aftra-animation-deal",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "IndieWire",
-        "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
+        "source": "Cartoon Brew",
+        "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/movies-sag-aftra-animation-deal.jpg",
+        "headline": "SAG-AFTRAアニメ協約\n声優のAI保護を拡充",
+        "body": "SAG-AFTRA組合員が、声優のAI保護を広げるTVアニメ契約を投票にかける。",
+        "mini_headline": "SAG-AFTRA、声優のAI保護",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "movies-vfx-voice-future-tools",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Movies",
+        "source": "VFX Voice",
+        "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "headline": "Laemmleの映画番組\nAI観客データを活用",
-        "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
-        "mini_headline": "アートハウス番組がAIデータ活用",
+        "image": "pipeline/media/movies-vfx-voice-future-tools.jpg",
+        "headline": "VFX業界が挙げるツール\nshot-makingを刷新",
+        "body": "VFXアーティストが、ML、real-time、仮想制作、クラウドのツールを挙げた。",
+        "mini_headline": "VFXを変えるツール",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "motionographer-ai-animation-ip-production",
+        "id": "movies-katzenberg-forecast-check",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Movies",
-        "source": "Motionographer",
-        "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
+        "source": "postPerspective",
+        "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
         "accent": "#eb367f",
         "motif": "frame",
-        "image": "pipeline/media/motionographer-ai-animation-ip-production.jpg",
-        "headline": "生成AIが\nプロのアニメ制作へ",
-        "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
-        "mini_headline": "AI、プロのアニメ制作へ",
+        "image": "pipeline/media/movies-katzenberg-forecast-check.jpg",
+        "headline": "Katzenberg予測の\nAI-shrunk説を検証",
+        "body": "Joseph Bellが、Katzenbergの2023年のAI予測を検証する。",
+        "mini_headline": "KatzenbergのAI予測を検証",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "movies-don-quixote-ai-limits",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Creative Bloq",
-            "url": "https://www.creativebloq.com/ai/two-animators-reveal-the-roles-risks-and-limits-of-making-don-quixote-with-ai",
-            "accent": "#0070f3",
-            "motif": "frame",
-            "image": "pipeline/media/movies-don-quixote-ai-limits.jpg",
-            "headline": "AI制作の11分アニメ\n創作の限界が露呈",
-            "body": "ドン・キホーテの11分短編をAIで制作した2人のアニメーターが限界と不安を語った。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "movies-runway-agent-tagging",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Runway (YouTube)",
-            "url": "https://www.youtube.com/watch?v=HiaxR-XIQp8",
-            "accent": "#f5a623",
-            "motif": "frame",
-            "image": "pipeline/media/movies-runway-agent-tagging.jpg",
-            "headline": "ランウェイ新機能\nタグで即編集依頼",
-            "body": "アセット上でランウェイのエージェントをタグ付けし、編集や代案、修正を依頼できる。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "movies-the-gifted-xprize",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Deadline",
-            "url": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
-            "accent": "#7928ca",
-            "motif": "frame",
-            "image": "pipeline/media/movies-the-gifted-xprize.jpg",
-            "headline": "『ギフテッド』が\n初代XPRIZE優勝",
-            "body": "グーグルが共同後援した初代フューチャー・ビジョンXPRIZEで『ギフテッド』が優勝した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "movies-2d-live-action-workflow",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "Curious Refuge (YouTube)",
-            "url": "https://www.youtube.com/watch?v=084IvH5k0E8",
-            "accent": "#2ec5c5",
-            "motif": "frame",
-            "image": "pipeline/media/movies-2d-live-action-workflow.jpg",
-            "headline": "2Dと実写混ぜる\n最新AIワークフロー",
-            "body": "AIアニメ講師アルバート・ボゼサンが2Dと実写を合成するワークフローを披露する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "movies-steelray-100-ai",
-            "eyebrow": "AI NEWS",
-            "tool": "Movies",
-            "source": "재경일보",
-            "url": "https://news.jkn.co.kr/post/993490",
-            "accent": "#eb367f",
-            "motif": "frame",
-            "image": "pipeline/media/movies-steelray-100-ai.jpg",
-            "headline": "100%AIのSFアクション\n「スティールレイ」10月公開",
-            "body": "ソル・ウイン監督のSFアクション「スティールレイ」は100%AIで完成、10月公開。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -1564,50 +1525,117 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "ambassadors-mosa-ai-platform-opens",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "postPerspective",
+            "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/ambassadors-mosa-ai-platform-opens.jpg",
+            "source_lang": "en",
+            "headline": "AmbassadorsがMosaを全面開放",
+            "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "pvc-ai-coded-editor-utilities-roundup",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "ProVideo Coalition",
+            "url": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
+            "accent": "#f5a623",
+            "motif": "frame",
+            "image": "pipeline/media/pvc-ai-coded-editor-utilities-roundup.jpg",
+            "source_lang": "en",
+            "headline": "AIコーディングで編集ツール増加",
+            "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "IndieWire",
+            "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "source_lang": "en",
+            "headline": "アートハウス番組がAIデータ活用",
+            "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "motionographer-ai-animation-ip-production",
+            "eyebrow": "AI NEWS",
+            "tool": "Movies",
+            "source": "Motionographer",
+            "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
+            "accent": "#eb367f",
+            "motif": "frame",
+            "image": "pipeline/media/motionographer-ai-animation-ip-production.jpg",
+            "source_lang": "en",
+            "headline": "AI、プロのアニメ制作へ",
+            "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
-    "lockedCount": 3
+    "lockedCount": 4
   },
   "games": {
     "label": "Games",
     "news": [
       {
-        "id": "unity-agent-concept-art-to-ui-menu",
+        "id": "games-ps-ai-boss",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Unity (YouTube)",
-        "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
+        "source": "Wccftech",
+        "url": "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/",
         "accent": "#7928ca",
         "motif": "cube",
-        "video": "pipeline/media/unity-agent-concept-art-to-ui-menu.mp4",
-        "poster": "pipeline/media/unity-agent-concept-art-to-ui-menu.jpg",
-        "image": "pipeline/media/unity-agent-concept-art-to-ui-menu.jpg",
-        "headline": "エージェントが設定画を\nUnityメインメニューに",
-        "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
-        "mini_headline": "コンセプトアートをUnityメニューに",
+        "image": "pipeline/media/games-ps-ai-boss.jpg",
+        "headline": "PlayStation特許\nAIが敵の行動を即座に変更",
+        "body": "PlayStationの新特許は、NPCの行動をその場で書き換えるAIを示した。",
+        "mini_headline": "ボスの行動を書き換えるAI",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
-              "t": "video",
-              "yt": "IYvRShclEL8"
+              "t": "img",
+              "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+              "cap": "PlayStationの新特許は、AIで敵の行動をその場で書き換えるシステムを示している"
             },
             {
               "t": "p",
-              "x": "ターミナルを離れずに、コンセプトアートを実際に動くゲームUIへと変える。"
+              "x": "Patentlyzeが見つけ、10月1日に公開されたSony Interactive Entertainmentの新特許は、「人工知能で適応させたノンプレイヤーキャラクターを用いたビデオゲームシステムの改善」を対象とする。"
             },
             {
               "t": "p",
-              "x": "エージェントにコンセプトアートと短い指示を渡せば、Unity CLIを通じて動作するUI Toolkitのメインメニューを組み上げていく。"
+              "x": "システムは四つの段階で動く。NPCとの遭遇に関するプレイヤーデータとゲームデータを集めて機械学習モデルに入力し、行動・セリフ・外見を調整するNPCコンテンツを受け取り、ゲームコンテンツを変更する。特許は特定のモデルアーキテクチャを挙げていないため、さまざまなAIシステムで機能し、PlayStationの自社スタジオ以外の開発者も使える可能性がある。"
             },
             {
               "t": "p",
-              "x": "エージェントは自らの作業もテストする。Play modeのUIテストを走らせ、Game viewのスクリーンショットを撮って変更を確かめ、改良を重ねていく。"
+              "x": "Wccftechは、最も恩恵を受けるのはソウルライクだと論じる。シングルプレイヤーゲームの敵は通常、プログラムされたパターンに従うため、覚えて攻略できる。AIが行動を書き換えれば、敵はプレイヤーがどれほど攻撃的か守備的かに適応でき、複数フェーズを持つボスが格闘ゲームの逆転要素のように、追い詰められると第二フェーズに早く移ることもありうる。"
             },
             {
               "t": "p",
-              "x": "舵を取るのは人間で、組み立てるのはエージェントだ。"
+              "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
             }
           ]
         },
@@ -1616,158 +1644,77 @@
         "hasFull": true
       },
       {
-        "id": "jagex-pulls-runescape-genai-trailer",
+        "id": "games-dizzy-ai",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "GamesIndustry.biz",
-        "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+        "source": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
         "accent": "#0070f3",
         "motif": "cube",
-        "image": "pipeline/media/jagex-pulls-runescape-genai-trailer.jpg",
-        "headline": "Jagex、生成AI使用で\nRuneScape予告を撤回",
-        "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
-        "mini_headline": "JagexがAI予告編を撤回",
+        "video": "pipeline/media/games-dizzy-ai.mp4",
+        "poster": "pipeline/media/games-dizzy-ai.jpg",
+        "image": "pipeline/media/games-dizzy-ai.jpg",
+        "headline": "Dizzyを生みの親が復活\ngenAIで嬉々として制作",
+        "body": "Oliver Twinsが80年代のDizzyを復活させ、genAIを喜んで使う。",
+        "mini_headline": "Dizzy復活、genAIで制作",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "fortnite-replaces-gemini-watermark-art",
+        "id": "games-usf4-rollback",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "IGN",
-        "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
+        "source": "Rock Paper Shotgun",
+        "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
         "accent": "#f5a623",
         "motif": "cube",
-        "image": "pipeline/media/fortnite-replaces-gemini-watermark-art.jpg",
-        "headline": "Gemini透かし入りの絵\nFortniteが差し替え",
-        "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
-        "mini_headline": "FortniteがGeminiアートを差し替え",
+        "image": "pipeline/media/games-usf4-rollback.jpg",
+        "headline": "Street Fighter\nIVにClaude製モッド",
+        "body": "Ultra Street Fighter IVにClaude製ロールバックモッドが二つ出た。",
+        "mini_headline": "Claude製モッドでUSF4にロールバック",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "kojima-on-ai-after-dlss5-death-stranding2",
+        "id": "games-wotc-union",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
         "source": "GamesRadar+",
-        "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+        "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/kojima-on-ai-after-dlss5-death-stranding2.jpg",
-        "headline": "Kojima、AIが作り手の\n仕事や主導権を奪うのを警戒",
-        "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
-        "mini_headline": "KojimaとAI、そして作り手",
+        "image": "pipeline/media/games-wotc-union.jpg",
+        "headline": "D&DとMagicの開発者\nAI推進を理由に労組結成",
+        "body": "D&DとMagicの開発者が、会社のLLMsとgenAIの導入強要を訴え労組を結成する。",
+        "mini_headline": "WotC社員がAIを理由に労組結成",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "rider-agentic-unreal-dev-unreal-fest",
+        "id": "games-sega-ai",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Games",
-        "source": "Unreal Engine (YouTube)",
-        "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
+        "source": "GamesIndustry.biz",
+        "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
         "accent": "#eb367f",
         "motif": "cube",
-        "video": "pipeline/media/rider-agentic-unreal-dev-unreal-fest.mp4",
-        "poster": "pipeline/media/rider-agentic-unreal-dev-unreal-fest.jpg",
-        "image": "pipeline/media/rider-agentic-unreal-dev-unreal-fest.jpg",
-        "headline": "Riderのエージェントで\nUnreal開発の難所に挑む",
-        "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
-        "mini_headline": "Unreal向けRiderエージェント",
+        "image": "pipeline/media/games-sega-ai.jpg",
+        "headline": "Sega、創作にAI使わず\n効率化には活用",
+        "body": "Segaはゲームの創作面をAIに任せないが、他部門の効率化には活用している。",
+        "mini_headline": "Sega、AIは効率化に限定",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "games-meta-horizon-studio",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "GamesIndustry.biz",
-            "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/games-meta-horizon-studio.jpg",
-            "headline": "Meta Unveils AI Game Tool\nHorizon Studio",
-            "body": "Meta unveiled Horizon Create and Horizon Studio, letting users build 2D and 3D games from text prompts.",
-            "lang": "en",
-            "untranslated": true,
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-secretsauce-labs",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "PocketGamer.biz",
-            "url": "https://www.pocketgamer.biz/secretsauce-labs-simon-davis-on-leaving-games-behind-and-solving-ais-brand-consistency-problem/",
-            "accent": "#eb367f",
-            "motif": "cube",
-            "image": "pipeline/media/games-secretsauce-labs.jpg",
-            "headline": "ゲーム撤退スタジオ\nAIブランドに賭ける",
-            "body": "WeAreMightyがSecretsauce Labsに改名し、AI技術に専念する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-onestore-ai-games",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Inven",
-            "url": "https://www.inven.co.kr/webzine/news/?news=321517",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "image": "pipeline/media/games-onestore-ai-games.jpg",
-            "headline": "ONEストア、AIゲーム\n登録を全開発者へ",
-            "body": "ONEストアがAIで作ったゲームの登録を全開発者に開放した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-hive-axil",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "Inven",
-            "url": "https://www.inven.co.kr/webzine/news/?news=321491",
-            "accent": "#f5a623",
-            "motif": "cube",
-            "image": "pipeline/media/games-hive-axil.jpg",
-            "headline": "Com2uSが新バックエンド\n「Hive Axyl」発表",
-            "body": "Hive Axylは自然言語の指示一つで決済やデータ分析まで連携する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "games-brood-war-bench",
-            "eyebrow": "AI NEWS",
-            "tool": "Games",
-            "source": "36Kr",
-            "url": "https://eu.36kr.com/en/p/3995368325501056",
-            "accent": "#0070f3",
-            "motif": "cube",
-            "image": "pipeline/media/games-brood-war-bench.jpg",
-            "headline": "GPT-6がAI戦全勝\nでも初心者に負け",
-            "body": "GPT-6のAstraはAIリーグ18戦全勝も人間初心者には勝てない。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -2102,6 +2049,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "unity-agent-concept-art-to-ui-menu",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Unity (YouTube)",
+            "url": "https://www.youtube.com/watch?v=IYvRShclEL8",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/unity-agent-concept-art-to-ui-menu.jpg",
+            "source_lang": "en",
+            "headline": "コンセプトアートをUnityメニューに",
+            "body": "エージェントがコンセプトアートからUnity CLIでUI Toolkitメニューを作る。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "jagex-pulls-runescape-genai-trailer",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "GamesIndustry.biz",
+            "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/jagex-pulls-runescape-genai-trailer.jpg",
+            "source_lang": "en",
+            "headline": "JagexがAI予告編を撤回",
+            "body": "Jagexは外部パートナー制作のRuneScape予告編を撤回し、自社の手順の問題だとした。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "fortnite-replaces-gemini-watermark-art",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "IGN",
+            "url": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
+            "accent": "#f5a623",
+            "motif": "cube",
+            "image": "pipeline/media/fortnite-replaces-gemini-watermark-art.jpg",
+            "source_lang": "en",
+            "headline": "FortniteがGeminiアートを差し替え",
+            "body": "Google Gemini AIの透かしが見つかり、Fortniteがアートを差し替えた。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "kojima-on-ai-after-dlss5-death-stranding2",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "GamesRadar+",
+            "url": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/kojima-on-ai-after-dlss5-death-stranding2.jpg",
+            "source_lang": "en",
+            "headline": "KojimaとAI、そして作り手",
+            "body": "Hideo KojimaはAIが作り手の仕事や主導権を奪うのは嫌だが、定着すると見ている。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "rider-agentic-unreal-dev-unreal-fest",
+            "eyebrow": "AI NEWS",
+            "tool": "Games",
+            "source": "Unreal Engine (YouTube)",
+            "url": "https://www.youtube.com/watch?v=0C7GjShUnlY",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/rider-agentic-unreal-dev-unreal-fest.jpg",
+            "source_lang": "en",
+            "headline": "Unreal向けRiderエージェント",
+            "body": "Unreal Fest 2026の講演は、RiderのエージェントでGASなどの難題に挑む。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -2110,41 +2142,29 @@
     "label": "Books",
     "news": [
       {
-        "id": "ross-appeal-ai-fair-use-ruling",
+        "id": "books-redpine",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "Publishers Weekly",
-        "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
+        "source": "The Bookseller",
+        "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine",
         "accent": "#f5a623",
         "motif": "swatch",
-        "image": "pipeline/media/ross-appeal-ai-fair-use-ruling.jpg",
-        "headline": "RossのAI複製\n控訴審もフェアユース否定",
-        "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
-        "mini_headline": "Ross判決：フェアユースに当たらず",
+        "image": "pipeline/media/books-redpine.jpg",
+        "headline": "出版五社が論文20m 本を\nRedpineでAIに開放",
+        "body": "BMJ Group、Sageなど五社がRedpineでAIに論文2000万本を開放する。",
+        "mini_headline": "AIエージェントに論文20m 本",
         "full": {
           "mode": "summary",
           "blocks": [
             {
-              "t": "p",
-              "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
-            },
-            {
-              "t": "p",
-              "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
-            },
-            {
               "t": "img",
-              "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-              "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
+              "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+              "cap": "RedpineのCEO、Anders Hammarbäck"
             },
             {
               "t": "p",
-              "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
-            },
-            {
-              "t": "p",
-              "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
+              "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
             }
           ]
         },
@@ -2153,138 +2173,75 @@
         "hasFull": true
       },
       {
-        "id": "scholarly-kitchen-ai-representation-not-scholarship",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Books",
-        "source": "The Scholarly Kitchen",
-        "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
-        "accent": "#2ec5c5",
-        "motif": "swatch",
-        "image": "pipeline/media/scholarly-kitchen-ai-representation-not-scholarship.png",
-        "headline": "AI出版では、\n論文は学問そのものではない",
-        "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
-        "mini_headline": "論文は学問ではない",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "proyecto451-publisher-ai-policy-review",
+        "id": "books-frankfurt-lepore",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
         "source": "Publishing Perspectives",
-        "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
-        "accent": "#eb367f",
+        "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/",
+        "accent": "#0070f3",
         "motif": "swatch",
-        "image": "pipeline/media/proyecto451-publisher-ai-policy-review.png",
-        "headline": "出版社のAI戦略は二択\nライセンスか自社開発か",
-        "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
-        "mini_headline": "出版社のAI、二つの道",
+        "image": "pipeline/media/books-frankfurt-lepore.jpeg",
+        "headline": "Frankfurt開幕\n話題の中心はAI",
+        "body": "開幕でJill Leporeは、AIが席巻する中、未来をテック富豪に委ねるなと警告した。",
+        "mini_headline": "Frankfurt、AIで開幕",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "lithub-ai-writing-spiritual-practice-essay",
+        "id": "books-roose",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Books",
-        "source": "Literary Hub",
-        "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
-        "accent": "#ff5a4d",
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+        "accent": "#7928ca",
         "motif": "swatch",
-        "image": "pipeline/media/lithub-ai-writing-spiritual-practice-essay.png",
-        "headline": "人間の作家にあって\nAIにないもの",
-        "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
-        "mini_headline": "AIに対する書き手の強み",
+        "image": "pipeline/media/books-roose.jpg",
+        "headline": "Kevin Rooseの\nAI本はAIなしで執筆",
+        "body": "Kevin RooseはThe AGI ChroniclesをAIなしで書いたと語る。",
+        "mini_headline": "RooseのAI本、AIなし",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "books-ssp-integrity",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "The Scholarly Kitchen",
+        "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
+        "accent": "#2ec5c5",
+        "motif": "swatch",
+        "image": "pipeline/media/books-ssp-integrity.png",
+        "headline": "調査：AIの投稿が\n研究公正を圧迫",
+        "body": "SSPのPulse Checkによると、論文工場とAI-made投稿が公正性を圧迫する。",
+        "mini_headline": "AIが研究公正を圧迫",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "books-libreoffice",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Books",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "accent": "#eb367f",
+        "motif": "swatch",
+        "image": "pipeline/media/books-libreoffice.jpg",
+        "headline": "LibreOffice、\n「AIなし」を売りに",
+        "body": "LibreOfficeは、利用者がデータの行方を管理できるよう、標準でAIを載せない。",
+        "mini_headline": "LibreOffice、標準でAIなし",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "books-demarque-elevenlabs",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "Publishers Weekly",
-            "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
-            "accent": "#f5a623",
-            "motif": "swatch",
-            "image": "pipeline/media/books-demarque-elevenlabs.jpg",
-            "headline": "ケベックのデマルク\nAI朗読の道を開く",
-            "body": "カントゥックの出版社がAI朗読のオーディオブックをElevenReaderで出せる。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-bisg-ai-survey",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "Publishers Weekly",
-            "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
-            "accent": "#7928ca",
-            "motif": "swatch",
-            "image": "pipeline/media/books-bisg-ai-survey.jpg",
-            "headline": "出版社はAI活用増\n社員は利用減らす",
-            "body": "組織のAI活用は63%に増え、個人利用は46%から38%に減った。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-ai-label-korea",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "한겨레",
-            "url": "https://www.hani.co.kr/arti/culture/book/1280041.html",
-            "accent": "#2ec5c5",
-            "motif": "swatch",
-            "image": "pipeline/media/books-ai-label-korea.jpg",
-            "headline": "出版界がAI表示\n制度導入を提起",
-            "body": "表示制度が導入されれば、著者も原稿でのAI使用量を契約書に明記する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-mentat-licensing",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "교수신문",
-            "url": "https://www.kyosu.net/news/articleView.html?idxno=210681",
-            "accent": "#eb367f",
-            "motif": "swatch",
-            "image": "pipeline/media/books-mentat-licensing.png",
-            "headline": "AIの引用量を\n出版社が可視化",
-            "body": "メンタットはAIの書籍引用量を出版社自身が確認できるようにする。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "books-tanapaev-translation",
-            "eyebrow": "AI NEWS",
-            "tool": "Books",
-            "source": "ERR News",
-            "url": "https://news.err.ee/1610151322/publisher-ai-will-come-for-translators-and-illustrators-first",
-            "accent": "#0070f3",
-            "motif": "swatch",
-            "image": "pipeline/media/books-tanapaev-translation.jpg",
-            "headline": "AIが先に届く\n翻訳家と画家",
-            "body": "AIで書いた原稿はまだ少ないが、翻訳と挿絵には既に入り込んでいる。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -2602,52 +2559,122 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "ross-appeal-ai-fair-use-ruling",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Publishers Weekly",
+            "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
+            "accent": "#f5a623",
+            "motif": "swatch",
+            "image": "pipeline/media/ross-appeal-ai-fair-use-ruling.jpg",
+            "source_lang": "en",
+            "headline": "Ross判決：フェアユースに当たらず",
+            "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "scholarly-kitchen-ai-representation-not-scholarship",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "The Scholarly Kitchen",
+            "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
+            "accent": "#2ec5c5",
+            "motif": "swatch",
+            "image": "pipeline/media/scholarly-kitchen-ai-representation-not-scholarship.png",
+            "source_lang": "en",
+            "headline": "論文は学問ではない",
+            "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "proyecto451-publisher-ai-policy-review",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Publishing Perspectives",
+            "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
+            "accent": "#eb367f",
+            "motif": "swatch",
+            "image": "pipeline/media/proyecto451-publisher-ai-policy-review.png",
+            "source_lang": "en",
+            "headline": "出版社のAI、二つの道",
+            "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "lithub-ai-writing-spiritual-practice-essay",
+            "eyebrow": "AI NEWS",
+            "tool": "Books",
+            "source": "Literary Hub",
+            "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
+            "accent": "#ff5a4d",
+            "motif": "swatch",
+            "image": "pipeline/media/lithub-ai-writing-spiritual-practice-essay.png",
+            "source_lang": "en",
+            "headline": "AIに対する書き手の強み",
+            "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
-    "lockedCount": 3
+    "lockedCount": 4
   },
   "gadgets": {
     "label": "Gadgets",
     "news": [
       {
-        "id": "meta-rayban-walking-navigation-audio",
+        "id": "gadgets-ghost-core",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "9to5Google",
-        "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+        "source": "TechRadar",
+        "url": "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box",
         "accent": "#ff5a4d",
         "motif": "headset",
-        "image": "pipeline/media/meta-rayban-walking-navigation-audio.jpg",
-        "headline": "Meta Ray-Banに\n徒歩ナビとオーディオ強化",
-        "body": "MetaのRay-Banスマートグラスが更新され、音声再生の改善と徒歩ナビが加わった。",
-        "mini_headline": "Metaグラスに徒歩ナビ追加",
+        "image": "pipeline/media/gadgets-ghost-core.jpg",
+        "headline": "Ghost Core、\n$3,499のローカルAI機",
+        "body": "Ghost CoreはNvidia RTX PRO 4000 GPUで動くローカルAIだ。",
+        "mini_headline": "Ghost Core ローカルAIボックス",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
+              "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
             },
             {
               "t": "p",
-              "x": "MetaはRay-Banスマートグラス向けの最新アップデートで、オーディオ再生を改善し、ターンバイターン方式の徒歩ナビゲーションを新たに追加した。"
+              "x": "スタートアップ Ghost の最初の製品は Core だ。LLMs（大規模言語モデル）を端末上だけで動かす、ローカル AI エージェント向けの PC である。Ghost はこれを「モデルを完全に端末上で動かすパーソナル AI コンピューター」と呼び、ユーザーのアプリやファイル、デバイスとつながって「時間をかけてあなたの生活についての文脈を築いていく」と説明する。1100万ドルを調達したばかりの創業者兼 CEO、Zain Javaid はこれを「箱の中の脳」と呼ぶ。"
             },
             {
               "t": "p",
-              "x": "システムアップデートのバージョン129には、オーディオ関連の変更が二つある。Mono Audioは左右のチャンネルを一つにまとめ、聞こえにくい側の音を聞き逃さないようにする。Audio Balanceは音を左右どちらかの耳に寄せる。いずれもMeta AIの応答や通知など、グラスが発する音に適用される。"
+              "x": "Core の中核は 24GB のビデオ RAM を備えた Nvidia RTX Pro 4000 (Blackwell) で、64GB の DDR5 を組み合わせ、性能は 770 TOPS だ。Qwen-3.8-Next、Qwen-3.8-27B、Gemma-4-31B をプリインストールして出荷され、モデルは無線で更新される。操作はスマートフォンやノートPCのアプリで行い、音声にも対応する。"
+            },
+            {
+              "t": "img",
+              "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+              "cap": "ケースを外して部品を見せた Ghost Core AI PC"
             },
             {
               "t": "p",
-              "x": "9月上旬に初登場したバージョン128は、現在広く提供されている。Spatial Audioへの対応、プライバシーLEDに細工された場合にカメラが動作しなくなる改ざん防止策の強化、新しい位置情報機能が加わった。"
+              "x": "個人データは暗号化され、Ghost 自身もアクセスできない。端末は Ghost が事業を畳んでも動き続けるよう設計されており、サブスクリプション料金もない。ファイアウォールはエージェントによる認証情報の使い方を制限し、不審な外向きリクエストにはユーザーの確認を求める。"
             },
             {
               "t": "p",
-              "x": "中でも目玉はターンバイターン方式の徒歩ナビだ。「Hey Meta、Times Squareへ案内して」と話しかけるだけでよい。経路案内はスマートフォンから位置情報を取得し、地図アプリから場所をMeta AIに直接共有してグラス上でナビを始めることもできる。遠い場所の場合、Metaはスマートフォンに車の経路を送る。"
-            },
-            {
-              "t": "p",
-              "x": "オーディオの変更は展開が始まったばかりだが、ナビ機能はMeta AIアプリのアップデートとして広く提供されている。"
+              "x": "Core の米国価格は $3,499 だ。初回分は発売初日に完売し、今月末に出荷される。AI 向け最上位構成の Mac mini は $3,199 だが、Core の専用ローカル AI（local-AI）ソフトウェアやプライバシー機能は備えていない。"
             }
           ]
         },
@@ -2656,156 +2683,77 @@
         "hasFull": true
       },
       {
-        "id": "windows-11-26h2-file-explorer-ai-actions",
+        "id": "gadgets-foresight",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "Notebookcheck",
-        "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
+        "source": "9to5Google",
+        "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
         "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/windows-11-26h2-file-explorer-ai-actions.jpg",
-        "headline": "Windows 11\n26H2、AI操作を追加",
-        "body": "MicrosoftのWindows 11 26H2がエクスプローラーにAI操作を追加した。",
-        "mini_headline": "Windows 11 26H2 にAIファイル操作",
+        "motif": "headset",
+        "video": "pipeline/media/gadgets-foresight.mp4",
+        "poster": "pipeline/media/gadgets-foresight.jpg",
+        "image": "pipeline/media/gadgets-foresight.jpg",
+        "headline": "Googleのメモアプリ\nForesightが清書",
+        "body": "AI Edge Foresight MacアプリはEmbeddingGemma 2を活かす。",
+        "mini_headline": "Google Foresightノートアプリ",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "tvos-27-2-apple-intelligence-apple-tv-code",
+        "id": "gadgets-fitbit-edge",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "MacRumors",
-        "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-        "accent": "#7928ca",
-        "motif": "sphere",
-        "image": "pipeline/media/tvos-27-2-apple-intelligence-apple-tv-code.jpg",
-        "headline": "tvOS 27.2のコード\nApple TVにAIの兆し",
-        "body": "tvOS 27.2ベータのコードが、次期Apple TVのAI対応を示唆している。",
-        "mini_headline": "Apple TVにApple Intelligenceか",
+        "source": "Digital Trends",
+        "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
+        "accent": "#f5a623",
+        "motif": "headset",
+        "image": "pipeline/media/gadgets-fitbit-edge.jpg",
+        "headline": "噂のFitbit Edge\n手首にGemini",
+        "body": "噂のGoogle Fitbit EdgeはGPSとGeminiコーチングを備える見込みだ。",
+        "mini_headline": "噂のFitbit Edge",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "wici-one-wireless-gpu-local-ai",
+        "id": "gadgets-jbl-partybox",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
         "source": "Gizmodo",
-        "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
-        "accent": "#f5a623",
-        "motif": "cube",
-        "image": "pipeline/media/wici-one-wireless-gpu-local-ai.jpg",
-        "headline": "初の「無線GPU」が\nAIサブスクに挑む",
-        "body": "WiCi OneはWi-Fi 7でPCにGPU性能を送るeGPUだ。",
-        "mini_headline": "ローカルAI向けのWi-Fi GPU",
+        "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
+        "accent": "#7928ca",
+        "motif": "headset",
+        "image": "pipeline/media/gadgets-jbl-partybox.jpg",
+        "headline": "JBLのパーティースピーカー\nAIでボーカルを消す",
+        "body": "JBL PartyBox Ultimate 2はAIで曲のボーカルを消してカラオケにできる。",
+        "mini_headline": "JBLのAIカラオケスピーカー",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pixel-search-gemini-teardown",
+        "id": "gadgets-underdog",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Gadgets",
-        "source": "Android Authority",
-        "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
         "accent": "#2ec5c5",
-        "motif": "frame",
-        "image": "pipeline/media/pixel-search-gemini-teardown.jpg",
-        "headline": "Pixel Searchに\nGemini搭載の兆し",
-        "body": "Pixel Searchにプライバシー設定が加わり、Geminiによる提案の兆しもある。",
-        "mini_headline": "Pixel SearchにGeminiか",
+        "motif": "headset",
+        "image": "pipeline/media/gadgets-underdog.jpg",
+        "headline": "Underdog、無料AIを\n完全に端末内で",
+        "body": "Sigil WenのUnderdogは、当面無料で広告もない端末内AIアシスタントだ。",
+        "mini_headline": "Underdog 端末内アシスタント",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "gadgets-flourish-humanoid",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "CNET",
-            "url": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
-            "accent": "#ff5a4d",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-flourish-humanoid.jpg",
-            "headline": "3555ドルの家庭用ロボット\n「新しい家事30分で習得」",
-            "body": "フロリシが3,555ドルのヒューマノイド初の50台を予約受付中、発送は12月からだ。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-eufy-s4-doorbell",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "TechRadar",
-            "url": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-            "accent": "#0070f3",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-eufy-s4-doorbell.jpg",
-            "headline": "VRで見る呼び鈴\n世界初のEufy S4",
-            "body": "Eufy S4は180度の視野とAI追跡、自動フレーミングを備え、月額料金は不要だ。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-gemini-find-hub-docs",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Engadget",
-            "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
-            "accent": "#7928ca",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-gemini-find-hub-docs.jpg",
-            "headline": "タグなしで書類発見\nGeminiの活用法",
-            "body": "Geminiに書類の保管場所を伝えると、タグなしでもFind Hubに記録される。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-m5-ultra-mac-studio",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Ars Technica",
-            "url": "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
-            "accent": "#2ec5c5",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-m5-ultra-mac-studio.jpg",
-            "headline": "M5 Ultra Mac Studio\nHow Much for Local AI?",
-            "body": "Local AI on the M5 Ultra Mac Studio is fun, but it's not cheap, with Mac Studio prices up more than 25%.",
-            "lang": "en",
-            "untranslated": true,
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "gadgets-translation-earbuds",
-            "eyebrow": "AI NEWS",
-            "tool": "Gadgets",
-            "source": "Engadget",
-            "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
-            "accent": "#eb367f",
-            "motif": "headset",
-            "image": "pipeline/media/gadgets-translation-earbuds.jpg",
-            "headline": "翻訳イヤホンは\n実際どう動くか",
-            "body": "広告がうたう95~99%の翻訳精度は、ほぼ完璧な条件でしか出ない数字だ。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -3108,6 +3056,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "meta-rayban-walking-navigation-audio",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "9to5Google",
+            "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+            "accent": "#ff5a4d",
+            "motif": "headset",
+            "image": "pipeline/media/meta-rayban-walking-navigation-audio.jpg",
+            "source_lang": "en",
+            "headline": "Metaグラスに徒歩ナビ追加",
+            "body": "MetaのRay-Banスマートグラスが更新され、音声再生の改善と徒歩ナビが加わった。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "windows-11-26h2-file-explorer-ai-actions",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Notebookcheck",
+            "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
+            "accent": "#0070f3",
+            "motif": "frame",
+            "image": "pipeline/media/windows-11-26h2-file-explorer-ai-actions.jpg",
+            "source_lang": "en",
+            "headline": "Windows 11 26H2 にAIファイル操作",
+            "body": "MicrosoftのWindows 11 26H2がエクスプローラーにAI操作を追加した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "tvos-27-2-apple-intelligence-apple-tv-code",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "MacRumors",
+            "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/tvos-27-2-apple-intelligence-apple-tv-code.jpg",
+            "source_lang": "en",
+            "headline": "Apple TVにApple Intelligenceか",
+            "body": "tvOS 27.2ベータのコードが、次期Apple TVのAI対応を示唆している。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "wici-one-wireless-gpu-local-ai",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Gizmodo",
+            "url": "https://gizmodo.com/wici-one-wireless-gpu-hands-on-2000821866",
+            "accent": "#f5a623",
+            "motif": "cube",
+            "image": "pipeline/media/wici-one-wireless-gpu-local-ai.jpg",
+            "source_lang": "en",
+            "headline": "ローカルAI向けのWi-Fi GPU",
+            "body": "WiCi OneはWi-Fi 7でPCにGPU性能を送るeGPUだ。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "pixel-search-gemini-teardown",
+            "eyebrow": "AI NEWS",
+            "tool": "Gadgets",
+            "source": "Android Authority",
+            "url": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+            "accent": "#2ec5c5",
+            "motif": "frame",
+            "image": "pipeline/media/pixel-search-gemini-teardown.jpg",
+            "source_lang": "en",
+            "headline": "Pixel SearchにGeminiか",
+            "body": "Pixel Searchにプライバシー設定が加わり、Geminiによる提案の兆しもある。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -3116,41 +3149,49 @@
     "label": "Science",
     "news": [
       {
-        "id": "pfas-yeast-biosensor-ai-detection",
+        "id": "science-xray-agent",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "Phys.org",
-        "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
+        "source": "Tech Xplore",
+        "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
         "accent": "#2ec5c5",
         "motif": "sphere",
-        "image": "pipeline/media/pfas-yeast-biosensor-ai-detection.jpg",
-        "headline": "改変酵母とAIが\n永遠の化学物質に挑む",
-        "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
-        "mini_headline": "酵母とAIがPFASを狙う",
+        "image": "pipeline/media/science-xray-agent.jpg",
+        "headline": "AIエージェントが\n平易な言葉でX-ray走査",
+        "body": "エージェント型AIが言葉の指示で微細電子部品のX-ray走査を行い、次の手順選びも助ける。",
+        "mini_headline": "X-ray走査を担うAIエージェント",
         "full": {
           "mode": "summary",
           "blocks": [
             {
+              "t": "p",
+              "x": "科学はこれまで、人工知能(AI)を一種の顕微鏡として使う場面を増やしてきた。いま新たな転換が進んでいる。簡単な自然言語の依頼を通じて、科学者が次に何をすべきか決めるのを助けるエージェント型AIである。"
+            },
+            {
+              "t": "p",
+              "x": "DOEのアルゴンヌ国立研究所(Argonne National Laboratory)の研究者らは、SYNAPS-Iプロジェクトの一環としてこの能力を実証した。同プロジェクトはDOEのGenesis Missionの一部で、ローレンス・バークレー国立研究所(Lawrence Berkeley National Laboratory)が主導する。"
+            },
+            {
               "t": "img",
-              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pfas.jpg",
-              "cap": "クレジット: Orhan Akbaba（Pexels）"
+              "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+              "cap": "APSのHard X-ray Nanoprobeビームラインに試料を装填するCNMの科学者Tao Zhou。提供:Jason Creps/Argonne National Laboratory"
+            },
+            {
+              "t": "video",
+              "yt": "Be89VHHNJLM"
             },
             {
               "t": "p",
-              "x": "永遠の化学物質（PFAS）は米国人の90%以上から検出され、U.S.の自治体水道のほぼ半数に含まれていることが分かっている。新たなEPA規則で水道事業者は頻繁な検査を求められるが、多くは数週間かかることもある高価な質量分析（mass-spectrometry）ラボに頼っている。"
+              "x": "「コードを書いたり技術的なコマンドを入力したりする代わりに、研究者はAIと会話できる。するとAIがデータの収集、処理、分析を自動で担う」と、Argonneの計算科学者Ming Duは述べた。"
             },
             {
               "t": "p",
-              "x": "Virginia Cornishが率いるColumbiaとCity Collegeのチームは、改変酵母、AI-designedタンパク質、CMOSセンサーチップを組み合わせ、PFASを検出してその除去を監視する「バイオハイブリッド（biohybrid）」装置を開発している。"
+              "x": "科学者は「この領域を高解像度でマッピングして」のように、望むことを言葉で伝えればよい。エージェントはPtychoFMモデルがリアルタイムで再構成した画像を解釈し、関心領域を探し、リスクの高い操作に限って人間の承認を求める。各画像の特徴はMetaのSAM3がセグメント化する。"
             },
             {
               "t": "p",
-              "x": "Saccharomyces cerevisiaeに組み込んだ合成受容体は、標的の化学物質と結合すると酵母を緑色に光らせる。かつてこうした受容体の設計には何年もかかったが、Mohammed AlQuraishiの研究室のAIツールにより、チームは設計・構築・試験（design-build-test）のサイクルをわずか数週間にすることを目指しており、現在はPFOAとPFOSを標的にしている。"
-            },
-            {
-              "t": "p",
-              "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
+              "x": "26-IDビームラインでの試験では、エージェントは集積回路内の二つの領域の境界面を探すよう指示され、デバイスの深部から正しい地点までたどり着いた。自律走行する顕微鏡へ向けた一歩である。"
             }
           ]
         },
@@ -3159,157 +3200,75 @@
         "hasFull": true
       },
       {
-        "id": "berkeley-lab-heat-shield-xray-ai-ablation",
+        "id": "science-flashflood-forecast",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "Universe Today",
-        "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
         "accent": "#f5a623",
         "motif": "sphere",
-        "video": "pipeline/media/berkeley-lab-heat-shield-xray-ai-ablation.mp4",
-        "poster": "pipeline/media/berkeley-lab-heat-shield-xray-ai-ablation.jpg",
-        "image": "pipeline/media/berkeley-lab-heat-shield-xray-ai-ablation.jpg",
-        "headline": "X-raysとAIで見る\n耐熱材が燃える瞬間",
-        "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
-        "mini_headline": "AIが見る耐熱材の燃焼",
+        "image": "pipeline/media/science-flashflood-forecast.jpg",
+        "headline": "画像生成AIが\nU.S.の鉄砲水予報を改善",
+        "body": "AIの画像生成技術が、U.S.各地の河川流域で鉄砲水予報を改善すると新研究が報告した。",
+        "mini_headline": "画像生成AIで鉄砲水予報",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "autonomous-ai-dermatology-appointments-study",
+        "id": "science-heart-transplant-rejection",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
         "source": "Medical Xpress",
-        "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
+        "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
         "accent": "#7928ca",
         "motif": "sphere",
-        "image": "pipeline/media/autonomous-ai-dermatology-appointments-study.jpg",
-        "headline": "自律型AI、皮膚科の\n予約枠を数千件空けうる",
-        "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
-        "mini_headline": "AIが皮膚科の予約枠を空ける",
+        "image": "pipeline/media/science-heart-transplant-rejection.jpg",
+        "headline": "AIが生検なしで\n心臓移植の拒絶を察知か",
+        "body": "心拍の記録と血液検査を読み解き、体がドナー心臓を攻撃し始める兆しをAIが捉えうる。",
+        "mini_headline": "AIで移植拒絶を察知",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "copenhagen-chatbots-knowledge-collapse-study",
+        "id": "science-earth-ai-public-health",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "Tech Xplore",
-        "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+        "source": "Google Research",
+        "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
         "accent": "#eb367f",
         "motif": "sphere",
-        "image": "pipeline/media/copenhagen-chatbots-knowledge-collapse-study.jpg",
-        "headline": "AIチャットボットの\n知識は狭い、研究が警鐘",
-        "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
-        "mini_headline": "チャットボットが狭める知識",
+        "image": "pipeline/media/science-earth-ai-public-health.jpg",
+        "headline": "Earth AIモデルが\n公衆衛生データの空白を埋める",
+        "body": "GoogleのPDFM位置埋め込みは、五つの公衆衛生事例研究で従来入力と同等以上だった。",
+        "mini_headline": "Earth AIと公衆衛生",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "stanford-ai-benchmarks-measurement-audit",
+        "id": "science-microalgae-growth",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Science",
-        "source": "Tech Xplore",
-        "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+        "source": "Phys.org",
+        "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
         "accent": "#0070f3",
         "motif": "sphere",
-        "image": "pipeline/media/stanford-ai-benchmarks-measurement-audit.jpg",
-        "headline": "AIを採点するテストが\n間違っているかもしれない",
-        "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
-        "mini_headline": "AIベンチマークは測り違いか",
+        "image": "pipeline/media/science-microalgae-growth.jpg",
+        "headline": "AIが突き止める\n微細藻類の大量培養法",
+        "body": "AIが、飼料や色素、燃料候補となる微細藻類を産業規模で育てる方法を絞り込む。",
+        "mini_headline": "AIで微細藻類の培養を最適化",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "science-tessera",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "EurekAlert! (University of Cambridge)",
-            "url": "https://www.eurekalert.org/news-releases/1145528",
-            "accent": "#2ec5c5",
-            "motif": "sphere",
-            "image": "pipeline/media/science-tessera.jpg",
-            "headline": "小農の作物を地図化\nするオープンソースAI",
-            "body": "ケンブリッジのテセラは少ないデータでセネガルの小農作物を84%の精度で識別した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "science-glueplex",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Phys.org",
-            "url": "https://phys.org/news/2026-09-ai-discovery-molecular-disease.html",
-            "accent": "#0070f3",
-            "motif": "sphere",
-            "image": "pipeline/media/science-glueplex.jpg",
-            "headline": "実験構造なしで\nAIが結合部位予測",
-            "body": "AI構造予測と物理モデリングでVAV1分解接着剤の結合部位を特定した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "science-xecg",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Medical Xpress",
-            "url": "https://medicalxpress.com/news/2026-09-high-ai-electrocardiogram-analysis-medical.html",
-            "accent": "#7928ca",
-            "motif": "sphere",
-            "image": "pipeline/media/science-xecg.jpg",
-            "headline": "心電図800万件で\n学習した基盤xECG",
-            "body": "スマートウォッチも読むxECGが分類・回帰・生存予測で他モデルを上回った。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "science-reservoir-chip",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Tech Xplore",
-            "url": "https://techxplore.com/news/2026-09-stacked-ai-chip-fast-layers.html",
-            "accent": "#f5a623",
-            "motif": "sphere",
-            "image": "pipeline/media/science-reservoir-chip.jpg",
-            "headline": "速い層と遅い層で\n動きを読むAIチップ",
-            "body": "シミュレーションで動く手書き文字を90%超の精度で認識し、55カ月安定した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "science-face-bias",
-            "eyebrow": "AI NEWS",
-            "tool": "Science",
-            "source": "Psychology Today",
-            "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202609/a-hidden-bias-of-ai-revealed",
-            "accent": "#eb367f",
-            "motif": "sphere",
-            "image": "pipeline/media/science-face-bias.jpg",
-            "headline": "顔だけで人を\n判断するAIの偏見",
-            "body": "ハーバード研究でLLMは顔での有能さ判断において人より外見偏見が大きかった。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -3644,6 +3603,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "pfas-yeast-biosensor-ai-detection",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Phys.org",
+            "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
+            "accent": "#2ec5c5",
+            "motif": "sphere",
+            "image": "pipeline/media/pfas-yeast-biosensor-ai-detection.jpg",
+            "source_lang": "en",
+            "headline": "酵母とAIがPFASを狙う",
+            "body": "AI-designed受容体とCMOSチップを備えた酵母でPFASセンサーを開発中だ。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "berkeley-lab-heat-shield-xray-ai-ablation",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Universe Today",
+            "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
+            "accent": "#f5a623",
+            "motif": "sphere",
+            "image": "pipeline/media/berkeley-lab-heat-shield-xray-ai-ablation.jpg",
+            "source_lang": "en",
+            "headline": "AIが見る耐熱材の燃焼",
+            "body": "NASAらはX-ray micro-CTとAIで耐熱材の崩壊をリアルタイムで観察した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "autonomous-ai-dermatology-appointments-study",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Medical Xpress",
+            "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
+            "accent": "#7928ca",
+            "motif": "sphere",
+            "image": "pipeline/media/autonomous-ai-dermatology-appointments-study.jpg",
+            "source_lang": "en",
+            "headline": "AIが皮膚科の予約枠を空ける",
+            "body": "8,391人の研究で、AIは16カ月に皮膚科予約8,500件超を空けうると示された。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "copenhagen-chatbots-knowledge-collapse-study",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Tech Xplore",
+            "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+            "accent": "#eb367f",
+            "motif": "sphere",
+            "image": "pipeline/media/copenhagen-chatbots-knowledge-collapse-study.jpg",
+            "source_lang": "en",
+            "headline": "チャットボットが狭める知識",
+            "body": "155のテーマで、チャットボットの情報はGoogle検索より多様性が大幅に低かった。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "stanford-ai-benchmarks-measurement-audit",
+            "eyebrow": "AI NEWS",
+            "tool": "Science",
+            "source": "Tech Xplore",
+            "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+            "accent": "#0070f3",
+            "motif": "sphere",
+            "image": "pipeline/media/stanford-ai-benchmarks-measurement-audit.jpg",
+            "source_lang": "en",
+            "headline": "AIベンチマークは測り違いか",
+            "body": "Stanford-led研究は、AIベンチマーク56種の結果がしばしば食い違うと示した。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -3652,45 +3696,45 @@
     "label": "Politics",
     "news": [
       {
-        "id": "norway-ai-glasses-temporary-ban",
+        "id": "politics-sif-charter",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "Ars Technica",
-        "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+        "source": "politico.eu",
+        "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
         "accent": "#3b6bff",
         "motif": "cube",
-        "image": "pipeline/media/norway-ai-glasses-temporary-ban.jpg",
-        "headline": "ノルウェー、AI眼鏡を\n公園・ビーチ・学校で禁止へ",
-        "body": "ノルウェーは公園やビーチ、学校でAI-glassesを一時禁止する方針だ。",
-        "mini_headline": "ノルウェー、AI眼鏡の禁止へ",
+        "image": "pipeline/media/politics-sif-charter.jpg",
+        "headline": "ホワイトハウス\n「超知能部隊」の憲章",
+        "body": "POLITICOが、AIの脅威に対する広い権限を持つホワイトハウス組織の憲章を公開した。",
+        "mini_headline": "超知能部隊の憲章",
         "full": {
           "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-              "cap": "Ray-Ban Metaのスマートグラスをかけた女性。"
+              "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+              "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
             },
             {
               "t": "p",
-              "x": "ノルウェーは、ウェアラブル技術をめぐるプライバシーへの懸念が高まるなか、特定の公共の場でのAI眼鏡の使用を一時的に禁止するよう提案した初の主要国となった。"
+              "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
             },
             {
               "t": "p",
-              "x": "中道左派政権は月曜日、公園、ビーチ、学校、幼稚園などでの一時的な禁止に関する法案を近く議会に提出し、恒久的な国のルールを提案する専門家グループを設置すると発表した。"
+              "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
             },
             {
               "t": "p",
-              "x": "トルゲイル・ミカエルセン（Torgeir Micaelsen）デジタル化相は「人々が知らないうちに撮影、録画、録音されるおそれのある強力な新技術の導入を懸念している」と述べた。一時的な禁止は「徹底した評価を行い、恒久的な規制の基盤となりうる、情報に基づいた議論を行う時間を与えてくれる」とも語った。"
+              "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
             },
             {
               "t": "p",
-              "x": "オスロの学校や石油・ガス大手のEquinorはすでにこの眼鏡を禁止しており、オーストラリアも一部の公共空間での禁止を検討している。ノルウェーは全面禁止は望んでいないとし、同意なく人を撮影するおそれがない場所での使用は適切になりうると述べた。"
+              "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
             },
             {
               "t": "p",
-              "x": "Meta、Google、OpenAIは、スマートグラスがスマートフォンに代わってAIへの主要な入り口になりうると考えている。Counterpoint Researchは、2026年から2032年にかけて消費者がウェアラブルに1兆ドル超を費やすと推計するが、プライバシーへの懸念から一部の活動家は「変態テクノロジー」と呼んでいる。"
+              "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
             }
           ]
         },
@@ -3699,153 +3743,75 @@
         "hasFull": true
       },
       {
-        "id": "openai-textgrain-eu-ai-act-watermarks",
-        "source_lang": "en",
+        "id": "politics-pentagon-anthropic",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+        "source": "yna.co.kr",
+        "url": "https://www.yna.co.kr/view/AKR20261006093800009",
         "accent": "#0070f3",
         "motif": "cube",
-        "image": "pipeline/media/openai-textgrain-eu-ai-act-watermarks.jpg",
-        "headline": "OpenAI、EUで文章に\nAI Act対応の透かし",
-        "body": "OpenAIはまずEUのChatGPTとCodexにtextGrain透かしを導入する。",
-        "mini_headline": "OpenAI、EUで文章に透かし",
+        "image": "pipeline/media/politics-pentagon-anthropic.jpg",
+        "headline": "米国防総省、\nClaudeの使用を停止",
+        "body": "米国防総省はブラックリスト指定から8カ月で、AnthropicのAI使用停止を発表した。",
+        "mini_headline": "国防総省、Claude停止",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "european-parliament-deepfake-porn-research",
+        "id": "politics-veliaj-avatar",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "POLITICO Europe",
-        "url": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/",
+        "source": "politico.eu",
+        "url": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
         "accent": "#7928ca",
         "motif": "cube",
-        "image": "pipeline/media/european-parliament-deepfake-porn-research.jpg",
-        "headline": "EU議員五十人が\n性的ディープフェイクの標的に",
-        "body": "新研究で、EU議員50人が性的ディープフェイクの標的となり、うち46人が女性だった。",
-        "mini_headline": "MEPs 50人が性的ディープフェイクの標的に",
+        "image": "pipeline/media/politics-veliaj-avatar.jpg",
+        "headline": "収監中のティラナ市長\nAIアバターで演説",
+        "body": "収監中のティラナ市長エリオン・ヴェリアイ氏が、AIアバターでディープフェイク演説をした。",
+        "mini_headline": "収監市長のAIアバター",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "moreno-letter-anthropic-amodei",
-        "source_lang": "en",
+        "id": "politics-japan-usedbooks-ai",
+        "source_lang": "ko",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "Axios",
-        "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+        "source": "yna.co.kr",
+        "url": "https://www.yna.co.kr/view/AKR20261006194100073",
         "accent": "#2ec5c5",
         "motif": "cube",
-        "image": "pipeline/media/moreno-letter-anthropic-amodei.jpg",
-        "headline": "Sen. モレノ氏が\nAnthropicに書簡",
-        "body": "Sen. モレノ氏が書簡でAnthropicに「不安をあおる」AI発言を控えるよう求めた。",
-        "mini_headline": "モレノ氏、Anthropicに書簡\n「不安をあおる」AI論めぐり",
+        "image": "pipeline/media/politics-japan-usedbooks-ai.jpg",
+        "headline": "日本の出版協会、古書の\nAI学習用販売に反発",
+        "body": "日本書籍出版協会が、AI学習用の書籍大量販売の疑いをめぐり流通業者に質問状を送った。",
+        "mini_headline": "出版協会、AI学習に反発",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "japan-sovereign-ai-strategy-vs-china",
+        "id": "politics-latino-ai-voter-guide",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Politics",
-        "source": "The Diplomat",
-        "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
-        "accent": "#eb367f",
+        "source": "axios.com",
+        "url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
+        "accent": "#ff5a4d",
         "motif": "cube",
-        "image": "pipeline/media/japan-sovereign-ai-strategy-vs-china.jpg",
-        "headline": "日本のソブリンAI、\n中国の優位に挑む",
-        "body": "ディプロマット誌は日本が2025年以降「日本のための、日本での」AIを築いたと分析する。",
-        "mini_headline": "日本のソブリンAIへの賭け",
+        "image": "pipeline/media/politics-latino-ai-voter-guide.jpg",
+        "headline": "ラティーノ団体、中間選挙で\nバイリンガルAIに賭ける",
+        "body": "全米規模のラティーノ市民団体が、複雑な選挙制度の案内にバイリンガルAIアプリを活用する。",
+        "mini_headline": "バイリンガルAI投票ガイド",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       }
     ],
     "days": [
-      {
-        "date": "2026-09-30",
-        "cards": [
-          {
-            "id": "politics-wh-super-intelligence-eo",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "The White House",
-            "url": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
-            "accent": "#3b6bff",
-            "motif": "cube",
-            "image": "pipeline/media/politics-wh-super-intelligence-eo.jpg",
-            "headline": "AIを「超知能」に\n改める大統領令に署名",
-            "body": "科学技術補佐官は60日以内に超知能の連邦定義案と対応策を大統領に提出する。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-ai-voluntary-principles",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "Axios",
-            "url": "https://www.axios.com/2026/09/29/trump-ai-voluntary-safety-white-house-zuckerberg",
-            "accent": "#7928ca",
-            "motif": "cube",
-            "image": "pipeline/media/politics-ai-voluntary-principles.jpg",
-            "headline": "ホワイトハウス会談後\nAI企業トップが自主署名",
-            "body": "トランプ大統領とジョンソン議長は、AI企業トップが自主審査基準に署名したと述べた。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-ec-copyright-genai-consultation",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "European Commission",
-            "url": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
-            "accent": "#f5a623",
-            "motif": "cube",
-            "headline": "EU欧州委が意見募集\n生成AIの著作権改革で",
-            "body": "生成AIのライセンス運用やAIが模倣した実演者の問題を11月3日まで募る。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-cset-chip-tracking-cost",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "CSET",
-            "url": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
-            "accent": "#2ec5c5",
-            "motif": "cube",
-            "headline": "AI半導体輸出管理\n執行、位置検証費用は",
-            "body": "CSETの分析によると、ピン方式の検証はドル当たりの摘発数で現地査察に負けなかった。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          },
-          {
-            "id": "politics-researchers-si-danger-videos",
-            "eyebrow": "AI NEWS",
-            "tool": "Politics",
-            "source": "The Verge",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-            "accent": "#eb367f",
-            "motif": "cube",
-            "image": "pipeline/media/politics-researchers-si-danger-videos.jpg",
-            "headline": "AI研究者が証言\n超知能は聞き通り危険",
-            "body": "パリセード・リサーチがOpenAI等の現旧職員12人の証言を公開した。",
-            "lang": "ja",
-            "hasFull": true,
-            "locked": true
-          }
-        ]
-      },
       {
         "date": "2026-10-01",
         "cards": [
@@ -4177,6 +4143,91 @@
             "locked": true
           }
         ]
+      },
+      {
+        "date": "2026-10-06",
+        "cards": [
+          {
+            "id": "norway-ai-glasses-temporary-ban",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "Ars Technica",
+            "url": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+            "accent": "#3b6bff",
+            "motif": "cube",
+            "image": "pipeline/media/norway-ai-glasses-temporary-ban.jpg",
+            "source_lang": "en",
+            "headline": "ノルウェー、AI眼鏡の禁止へ",
+            "body": "ノルウェーは公園やビーチ、学校でAI-glassesを一時禁止する方針だ。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "openai-textgrain-eu-ai-act-watermarks",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+            "accent": "#0070f3",
+            "motif": "cube",
+            "image": "pipeline/media/openai-textgrain-eu-ai-act-watermarks.jpg",
+            "source_lang": "en",
+            "headline": "OpenAI、EUで文章に透かし",
+            "body": "OpenAIはまずEUのChatGPTとCodexにtextGrain透かしを導入する。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "european-parliament-deepfake-porn-research",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "POLITICO Europe",
+            "url": "https://www.politico.eu/article/female-european-parliament-lawmakers-targeted-deepfake-porn/",
+            "accent": "#7928ca",
+            "motif": "cube",
+            "image": "pipeline/media/european-parliament-deepfake-porn-research.jpg",
+            "source_lang": "en",
+            "headline": "MEPs 50人が性的ディープフェイクの標的に",
+            "body": "新研究で、EU議員50人が性的ディープフェイクの標的となり、うち46人が女性だった。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "moreno-letter-anthropic-amodei",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "Axios",
+            "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+            "accent": "#2ec5c5",
+            "motif": "cube",
+            "image": "pipeline/media/moreno-letter-anthropic-amodei.jpg",
+            "source_lang": "en",
+            "headline": "モレノ氏、Anthropicに書簡\n「不安をあおる」AI論めぐり",
+            "body": "Sen. モレノ氏が書簡でAnthropicに「不安をあおる」AI発言を控えるよう求めた。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          },
+          {
+            "id": "japan-sovereign-ai-strategy-vs-china",
+            "eyebrow": "AI NEWS",
+            "tool": "Politics",
+            "source": "The Diplomat",
+            "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
+            "accent": "#eb367f",
+            "motif": "cube",
+            "image": "pipeline/media/japan-sovereign-ai-strategy-vs-china.jpg",
+            "source_lang": "en",
+            "headline": "日本のソブリンAIへの賭け",
+            "body": "ディプロマット誌は日本が2025年以降「日本のための、日本での」AIを築いたと分析する。",
+            "lang": "ja",
+            "hasFull": true,
+            "locked": true
+          }
+        ]
       }
     ],
     "lockedCount": 4
@@ -4190,42 +4241,54 @@
   "books",
   "gadgets",
   "science",
-  "politics"
+  "politics",
+  "marketing"
 ];
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
   {
-    "id": "bimlogiq-argus-revit-family-agent",
+    "id": "design-figma-agent-ga",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
-    "tool": "Text-to-CAD",
-    "source": "AEC Magazine",
-    "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
-    "accent": "#7928ca",
-    "motif": "cube",
-    "image": "pipeline/media/bimlogiq-argus-revit-family-agent.jpg",
-    "headline": "BIMlogiq Argus\nRevitファミリを自動生成",
-    "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
-    "mini_headline": "ArgusのエージェントがRevitファミリを構築",
+    "tool": "Figma",
+    "source": "Figma Blog",
+    "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+    "accent": "#0070f3",
+    "motif": "frame",
+    "video": "pipeline/media/design-figma-agent-ga.mp4",
+    "poster": "pipeline/media/design-figma-agent-ga.jpg",
+    "image": "pipeline/media/design-figma-agent-ga.jpg",
+    "headline": "Figmaのエージェント\n一般提供を開始",
+    "body": "一般提供されたFigmaエージェントをUber、Granola、Atlassianが使う。",
+    "mini_headline": "FigmaエージェントがGAに",
     "full": {
       "mode": "summary",
       "blocks": [
         {
           "t": "img",
-          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
-          "cap": "Revit上で動くBIMlogiq Argus"
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "モバイル画面の上に浮かぶプロンプトの例"
         },
         {
           "t": "p",
-          "x": "BIMlogiqは、Revit向けAIプラットフォームArgusを強化した。Argusは専門エージェントのチームを使い、Revitプロジェクト内で直接ワークフローを自動化する。ユーザーが目標を与えると、手順を計画し、ツールをつないで最初から最後まで（end-to-end）実行する。ファミリの配置、モデルのチェック、タグ付けと寸法記入、ビューやシートの作成までこなす。実行内容はコマンドとして保存でき、チーム全体で再利用できる。"
+          "x": "Uber、Granola、Atlassianのチームが、一般提供が始まったFigmaのエージェントで質が高くスピードの速い仕事をどう支えているかを紹介する。エージェントは本日ベータを終え、指示への追従や長時間かかるタスクの処理が向上した。プロのデザイナーが参加したFigmaの人間による評価では、~60%+で勝っている。ライブラリのオーナーは、デザインシステムの文脈をエージェントに与えるマークダウンファイル、つまりガイドラインを追加できる。"
         },
         {
           "t": "p",
-          "x": "最近追加されたFamily Creation Agentは、Revitのネイティブコンポーネントを使い、完全にパラメトリックなRevitファミリをゼロから作成できるとされる。Bathroom AgentはADA-compliant（ADA準拠）の浴室を設計する。新しいMEP Systems Agentは、機器から末端までネットワーク内の流れを追跡し、システムの一部が完全につながっていない場合でも機能する。"
+          "x": "七つのプラットフォームにコンポーネントを提供するUberのデザインシステムチームは、/create-anatomyや/create-colorといったスキルを作り、システムを文書化した。かつて複数人で数カ月かかったドキュメントを、今ではデザイナー一人が午後のうちに公開する。"
         },
         {
           "t": "p",
-          "x": "鉄筋モデリングエージェントは、添付されたPDF仕様書から3D鉄筋を直接生成する。ArgusにはQA/QCモジュールもあり、ユーザーが平易な言葉でルールを記述すると、AIが対応するチェックを作成する。BIMlogiqは、企業の過去のデータや設計で学習させた専用エージェントの開発も手がける。"
+          "x": "GranolaのProduct DesignerであるPaavan Buddhdevは、Granolaコネクタを使い、議事録から抜き出したフィードバックをエージェントにキャンバス上の注釈として書き込ませている。「大幅な時間の節約になった」と彼は言う。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "PaavanはFigmaのエージェントとGranolaコネクタを使い、キャンバスにフィードバックを注釈として加えている。"
+        },
+        {
+          "t": "p",
+          "x": "Atlassianはモーション素材を再利用可能なコンポーネントに変え、エージェントはデザインシステム内でデザイナーがイージングやデュレーションを繰り返し調整するのを手助けしている。「静的なデザインを扱うデザイナーにとって、スキルの幅が広がった」とProduct DesignerのDavy Fungは語る。"
         }
       ]
     },
@@ -4234,157 +4297,75 @@
     "hasFull": true
   },
   {
-    "id": "photoshop-remove-tool-no-generative-credits",
+    "id": "design-photoshop-27-11-enhance-edge",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
-    "tool": "KeyShot",
-    "source": "Fstoppers",
-    "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+    "tool": "Photoshop",
+    "source": "CG Channel",
+    "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
     "accent": "#f5a623",
     "motif": "sphere",
-    "video": "pipeline/media/photoshop-remove-tool-no-generative-credits.mp4",
-    "poster": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
-    "image": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
-    "headline": "Photoshopの\nRemoveはクレジット不要",
-    "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
-    "mini_headline": "Removeツールはクレジット不要",
+    "image": "pipeline/media/design-photoshop-27-11-enhance-edge.jpg",
+    "headline": "Photoshop最新版\n27.11でGPT対応",
+    "body": "27.11のEnhance Edgeは1回20クレジットでマスクの色にじみを抑える。",
+    "mini_headline": "Photoshop 27.11にEnhance Edge",
     "lang": "ja",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "adobe-text-to-3d-patent",
-    "source_lang": "en",
-    "eyebrow": "AI NEWS",
-    "tool": "KeyShot",
-    "source": "Creative Bloq",
-    "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
-    "accent": "#2ec5c5",
-    "motif": "sphere",
-    "image": "pipeline/media/adobe-text-to-3d-patent.jpg",
-    "headline": "Adobe Firefly\ntext-to-3Dの特許",
-    "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
-    "mini_headline": "Adobeのtext-to-3D特許",
-    "lang": "ja",
-    "hasFull": true,
-    "locked": true
-  },
-  {
-    "id": "apple-macos-ai-agent-full-disk-access-warning",
+    "id": "design-hark-pro-assistant",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
     "tool": "AI Workflow",
-    "source": "No Film School",
-    "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+    "source": "Fast Company",
+    "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
     "accent": "#ff5a4d",
     "motif": "frame",
-    "image": "pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg",
-    "headline": "Apple、AIへのFull\nDisk Accessを警告",
-    "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
-    "mini_headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+    "image": "pipeline/media/design-hark-pro-assistant.jpg",
+    "headline": "Hark Proが問い直す\nAIアシスタントの役割",
+    "body": "Hark Proのデザイナーは、利用者の要望を学び自ら助けるAIアシスタントを考え直した。",
+    "mini_headline": "Hark Pro、アシスタントを再考",
     "lang": "ja",
     "hasFull": true,
     "locked": true
   },
   {
-    "id": "uxcollective-ai-skill-atrophy-essay",
+    "id": "design-claude-code-to-figma-test",
+    "source_lang": "en",
+    "eyebrow": "AI NEWS",
+    "tool": "Figma",
+    "source": "DEV Community",
+    "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+    "accent": "#3b6bff",
+    "motif": "frame",
+    "image": "pipeline/media/design-claude-code-to-figma-test.jpg",
+    "headline": "Claude Codeから\nFigmaへ、実際に試す",
+    "body": "Claude CodeのライブUIをFigmaの編集可能なフレームに送る機能を試した。",
+    "mini_headline": "Claude CodeからFigmaへ、検証",
+    "lang": "ja",
+    "hasFull": true,
+    "locked": true
+  },
+  {
+    "id": "design-figma-expert-designs-by-describing",
     "source_lang": "en",
     "eyebrow": "AI NEWS",
     "tool": "AI Workflow",
-    "source": "UX Collective",
-    "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+    "source": "DEV Community",
+    "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
     "accent": "#eb367f",
     "motif": "frame",
-    "image": "pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg",
-    "headline": "AIが思考を担うとき\n私たちがやめる鍛錬",
-    "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
-    "mini_headline": "AIとスキルの衰え",
+    "image": "pipeline/media/design-figma-expert-designs-by-describing.png",
+    "headline": "元Figmaの達人は今、\n説明してデザインする",
+    "body": "元Figmaの達人はアプリや動画広告をClaude Opus 5.5に説明して作らせる。",
+    "mini_headline": "説明でデザインする",
     "lang": "ja",
     "hasFull": true,
     "locked": true
   }
 ];
   window.AX_DAYS = [
-  {
-    "date": "2026-09-30",
-    "cards": [
-      {
-        "id": "design-adobe-chatgpt-editing",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Adobe Blog",
-        "url": "https://blog.adobe.com/en/publish/2026/09/29/openai-devday-2026-introducing-hands-on-editing-adobe-plugin-chatgpt",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/design-adobe-chatgpt-editing.png",
-        "headline": "ChatGPT内のAdobe\nプラグインが手作業対応",
-        "body": "チャットで編集内容を伝えた後、PhotoshopやExpress系パネルで直接仕上げる。",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "design-claude-sonnet-5-5",
-        "eyebrow": "AI NEWS",
-        "tool": "Figma",
-        "source": "Anthropic",
-        "url": "https://www.anthropic.com/claude-sonnet-5-5",
-        "accent": "#7928ca",
-        "motif": "frame",
-        "image": "pipeline/media/design-claude-sonnet-5-5.jpg",
-        "headline": "Claude Sonnet\n5.5、速くて安く",
-        "body": "Sonnet5より30%以上速く、価格は最大30%安い。",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "design-de-slopify",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "UX Collective",
-        "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/design-de-slopify.png",
-        "headline": "AIスロップ風デザイン\nどう取り除くか",
-        "body": "バイブコーディングで出た画面からAIらしさを消す方法を順に示す。",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "design-openai-dots-mascots",
-        "eyebrow": "AI NEWS",
-        "tool": "AI Workflow",
-        "source": "Fast Company",
-        "url": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
-        "accent": "#2ec5c5",
-        "motif": "frame",
-        "image": "pipeline/media/design-openai-dots-mascots.jpg",
-        "headline": "OpenAIのDots\nエージェントが可愛く",
-        "body": "象徴のVoidロゴではなく、蝶ネクタイの三角形などをまとう。",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "design-meta-hologram-avatars",
-        "eyebrow": "AI NEWS",
-        "tool": "VR Prototype",
-        "source": "Road to VR",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "accent": "#eb367f",
-        "motif": "headset",
-        "image": "pipeline/media/design-meta-hologram-avatars.jpg",
-        "headline": "MetaのHologram\nPersonaに対抗",
-        "body": "AIを組み込んだ2.5D実写風アバターがRay-Ban DisplayとVRグラスに搭載。",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      }
-    ]
-  },
   {
     "date": "2026-10-01",
     "cards": [
@@ -4714,6 +4695,91 @@
         "source_lang": "en",
         "headline": "Lux3Dが写真を3Dに",
         "body": "AIエージェントがLux3Dで写真三枚から編集可能な銅像を作り、Blenderで仕上げた。",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      }
+    ]
+  },
+  {
+    "date": "2026-10-06",
+    "cards": [
+      {
+        "id": "bimlogiq-argus-revit-family-agent",
+        "eyebrow": "AI NEWS",
+        "tool": "Text-to-CAD",
+        "source": "AEC Magazine",
+        "url": "https://aecmag.com/bim/bimlogiq-argus-ai-platform-launches-for-revit/",
+        "accent": "#7928ca",
+        "motif": "cube",
+        "image": "pipeline/media/bimlogiq-argus-revit-family-agent.jpg",
+        "source_lang": "en",
+        "headline": "ArgusのエージェントがRevitファミリを構築",
+        "body": "BIMlogiq ArgusにRevitファミリ生成と浴室・MEPエージェントが加わった。",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "photoshop-remove-tool-no-generative-credits",
+        "eyebrow": "AI NEWS",
+        "tool": "KeyShot",
+        "source": "Fstoppers",
+        "url": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "image": "pipeline/media/photoshop-remove-tool-no-generative-credits.jpg",
+        "source_lang": "en",
+        "headline": "Removeツールはクレジット不要",
+        "body": "PhotoshopのRemoveはGenerative AI有効時もクレジットを使わない。",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "adobe-text-to-3d-patent",
+        "eyebrow": "AI NEWS",
+        "tool": "KeyShot",
+        "source": "Creative Bloq",
+        "url": "https://www.creativebloq.com/design/graphic-design/adobes-ai-text-to-3d-world-concept-is-a-glimpse-of-where-firefly-could-go-next",
+        "accent": "#2ec5c5",
+        "motif": "sphere",
+        "image": "pipeline/media/adobe-text-to-3d-patent.jpg",
+        "source_lang": "en",
+        "headline": "Adobeのtext-to-3D特許",
+        "body": "USPTOの公開出願でAdobeのtext-to-3D特許が判明したが、構想段階だ。",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "apple-macos-ai-agent-full-disk-access-warning",
+        "eyebrow": "AI NEWS",
+        "tool": "AI Workflow",
+        "source": "No Film School",
+        "url": "https://nofilmschool.com/apples-full-disk-access-statement",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/apple-macos-ai-agent-full-disk-access-warning.jpg",
+        "source_lang": "en",
+        "headline": "Apple、AIエージェントのディスクアクセスに警鐘",
+        "body": "AppleはmacOSでAIにFull Disk Accessを与えないよう警告した。",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "uxcollective-ai-skill-atrophy-essay",
+        "eyebrow": "AI NEWS",
+        "tool": "AI Workflow",
+        "source": "UX Collective",
+        "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496",
+        "accent": "#eb367f",
+        "motif": "frame",
+        "image": "pipeline/media/uxcollective-ai-skill-atrophy-essay.jpg",
+        "source_lang": "en",
+        "headline": "AIとスキルの衰え",
+        "body": "このエッセイは、AIが人を愚かにするのではなく、知性を使う練習を減らすと論じる。",
         "lang": "ja",
         "hasFull": true,
         "locked": true

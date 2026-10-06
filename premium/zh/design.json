@@ -6527,6 +6527,132 @@
           "x": "Cartesian可与Rhinoceros和SketchUp实时连接，支持DXF和IFC的导入导出，以及STEP和STL导出。桌面版将在macOS和Windows上分阶段推出，计划自2026年10月31日起扩大开放范围。"
         }
       ]
+    },
+    "design/design-photoshop-27-11-enhance-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Adobe 发布了 Photoshop 27.11。此次更新引入了 Enhance Edge，这是一项新的 AI-powered 选项，可减少 Remove Background 生成的蒙版中的色边，帮助更干净地抠出头发和毛发。"
+        },
+        {
+          "t": "p",
+          "x": "该功能位于上下文任务栏中，利用 RGBA 扩散消除蒙版边缘的色边。与 Remove 工具本身不同，它需要消耗生成式积分，每次使用 20 积分。"
+        },
+        {
+          "t": "p",
+          "x": "现在还可以在 Generate Image 功能中使用 GPT Image 2 AI 模型，或通过 Photoshop 27.10 引入的 Prompt to edit 编辑图像。Adobe 最近将其第三方 AI 模型列表扩展到 33 个。"
+        },
+        {
+          "t": "p",
+          "x": "其他改动包括：可在 New Document 对话框的 Recents 标签页中重命名或删除条目，以及基于真实使用数据对 Windows 进行的性能优化。Photoshop 27.11 兼容 Windows 10+ 和 macOS 14.0+；单应用订阅价格为 $34.49/month 或 $263.88/year。"
+        }
+      ]
+    },
+    "design/design-hark-pro-assistant": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
+          "cap": "图片：Hark"
+        },
+        {
+          "t": "p",
+          "x": "Hark Pro 是一款全新的 AI 网页应用，拥有聊天机器人界面和智能体能力，具备 2026 年大众市场 AI 产品的主要特征。但 Hark Pro 正在重新思考 AI 助手背后的核心前提：它用 AI 理解每位用户的任务和需求，并主动寻找帮忙的方式。"
+        },
+        {
+          "t": "p",
+          "x": "在获得用户电子邮件、日历和其他在线账户的访问权限后，它可以订午餐、付账单、规划行程，或在会议冲突时重新安排日程。由 Brett Adcock 创立的 Hark 已在 Series A 融资中筹得 $700 million（7 亿美元）。"
+        },
+        {
+          "t": "video",
+          "src": "https://cdn.jwplayer.com/videos/JW2VDca3-afS6hazX.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Hark 设计负责人、曾任 Apple iPhone Air 设计主管的 Abidur Chowdhury 把这个界面称为主页，顶部是待办事项和自动生成的操作按钮。他说：“我们真的不想要一个塞满各种历史聊天记录的侧边栏。”"
+        },
+        {
+          "t": "p",
+          "x": "这款应用会展示它的工作过程：聊天记录中的一个小屏幕会显示其内部电脑 Handoff 浏览网站的画面。类似天空的背景会模拟每位用户所处的时段。Hark 计划在 2027 年发布首款硬件设备。"
+        }
+      ]
+    },
+    "design/design-claude-code-to-figma-test": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp"
+        },
+        {
+          "t": "p",
+          "x": "几个月来，开发者一直在用 Claude Code 搭建一次性原型。问题出在之后：想获得反馈，就得截图、录视频，或者请别人拉取你的分支。"
+        },
+        {
+          "t": "p",
+          "x": "Figma 刚刚推出了不一样的东西。现在可以把实时浏览器 UI 作为可编辑帧直接发送到 Figma——不是截图，而是真正的 Figma 图层。在 Claude Code 中输入“send this to Figma”，Figma MCP 服务器就会捕获来自生产环境、localhost 或预发布环境的渲染内容，并可在一次会话中捕获多个屏幕。"
+        },
+        {
+          "t": "p",
+          "x": "它也能反向连接：在 Figma 中修改后，再用 Figma MCP 通过一条提示词和一个链接把它拉回 Claude Code。“画布让你发散，代码让你收敛。”"
+        },
+        {
+          "t": "p",
+          "x": "不重要的情况：独自工作、团队早已达成一致，或者做落地页这类小项目，截图大概就够了。当探索很重要时它才有意义——比较流程，或者衔接设计与工程。它仍是靠提示词完成的手动步骤，而非自动化；真正的变化在于多了选择。"
+        }
+      ]
+    },
+    "design/design-figma-expert-designs-by-describing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png"
+        },
+        {
+          "t": "p",
+          "x": "设计工程师 Lauri Lännenmäki 曾自称 Figma 专家。他在日常工作中仍在使用 Figma，但不再在那里设计每一种状态和每一个变体。Figma 如今有了自己的 AI；它能用，但与通过 MCP 在 Figma 中工作的 Claude 相比，感觉又慢又弱得多。"
+        },
+        {
+          "t": "p",
+          "x": "Figma 从来不是唯一的事实来源——代码才是。变体在代码中比在设计工具中更简单；在设计工具里，他做过的一个按钮膨胀到了 1,100 个变体。"
+        },
+        {
+          "t": "p",
+          "x": "他学了 CSS，好把自己设计的任何东西都做出来，但如今的网页要求着色器和 three.js。他不必去学：“我不再受限于自己的能力。”网站、应用、游戏、视频广告：他来描述，智能体来构建。"
+        },
+        {
+          "t": "p",
+          "x": "他的路径是：ChatGPT 加复制粘贴，然后是 Cursor，接着是终端里的 Claude Code，再到用 MCPs 处理一切。借助 Figma Console MCP，他在一个庞大的设计系统中把硬编码值换成了变量，省下了数百小时。如今他的智能体是 Claude Opus 5.5。"
+        },
+        {
+          "t": "p",
+          "x": "他给从未写过代码的设计师的建议是：直接找智能体，开始动手构建。“现在人人都是构建者。”"
+        }
+      ]
+    },
+    "design/bimlogiq-argus-revit-family-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/BIMLOGIQ2.jpg",
+          "cap": "Revit中的BIMlogiq Argus"
+        },
+        {
+          "t": "p",
+          "x": "BIMlogiq升级了其面向Revit的AI平台Argus。Argus借助一组专业智能体，直接在Revit项目内自动化工作流程。用户只需给出目标，它便会规划步骤、串联工具并端到端（end-to-end）执行：放置族、检查模型、添加标记与尺寸标注、创建视图和图纸。运行过程可保存为命令，供整个团队复用。"
+        },
+        {
+          "t": "p",
+          "x": "近期新增的Family Creation Agent据称能使用Revit原生构件，从零创建完全参数化的Revit族；Bathroom Agent则可设计符合ADA-compliant（ADA标准）的卫生间。新的MEP Systems Agent可追踪网络中从设备到末端的流向，即使系统部分环节并未完全连接也能运作。"
+        },
+        {
+          "t": "p",
+          "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
+        }
+      ]
     }
   }
 }

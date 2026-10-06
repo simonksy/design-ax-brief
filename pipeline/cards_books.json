@@ -1,1204 +1,1686 @@
 {
-  "date": "2026-10-06",
-  "section": "books",
-  "cards": [
-    {
-      "id": "ross-appeal-ai-fair-use-ruling",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
-      "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제를 공정이용으로 보지 않았다.",
-      "mini_headline": "Ross 항소심: 공정이용 아니다",
-      "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
-      "accent": "#f5a623",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
-          },
-          {
-            "t": "p",
-            "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-            "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
-          },
-          {
-            "t": "p",
-            "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
-          },
-          {
-            "t": "p",
-            "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Appeals ruling: Ross AI copying\nwas not fair use",
-          "body": "A U.S. appeals court affirmed that ROSS Intelligence's copying of Westlaw headnotes to train its AI was not fair use.",
-          "mini_headline": "Ross ruling: not fair use",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The Association of American Publishers and the Authors Guild praised an appeals court decision in Thomson Reuters v. ROSS that found ROSS's copying of Thomson Reuters Westlaw headnotes was not fair use. It was the first time an appeals court ruled that such unauthorized copying by an AI company was not protected by fair use."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters sued in the U.S. District Court for Delaware in May 2020 after ROSS used Westlaw headnotes to train its AI platform. After the Delaware court ruled for Thomson Reuters, the AAP filed an amicus brief in November 2025 asking the Third Circuit to affirm by rejecting ROSS's fair use arguments."
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "The James A. Byrne United States Courthouse in Philadelphia. Photo: ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAP CEO Maria Pallante said “the Third Circuit correctly noted that the licensing market for AI training not only exists but is ‘rapidly developing,’” calling the ruling “this powerful precedent.”"
-              },
-              {
-                "t": "p",
-                "x": "Authors Guild CEO Mary Rasenberger said the ruling “vindicates copyright law. It clarifies that one cannot steal someone else's works to train an AI system that displaces the very works the AI was trained on.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
-          "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제를 공정이용으로 보지 않았다.",
-          "mini_headline": "Ross 항소심: 공정이용 아니다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "미국출판협회(Association of American Publishers)와 Authors Guild가 Thomson Reuters v. ROSS 사건 항소심 판결을 반겼다. 항소법원은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위를 공정이용으로 인정하지 않았다. AI 기업의 이런 무단 복제에 항소법원이 공정이용 보호를 거부한 첫 사례다."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어주자 AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 법정조언자 의견서를 냈다. ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 내용이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라 불렀다."
-              },
-              {
-                "t": "p",
-                "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "RossのAI複製\n控訴審もフェアユース否定",
-          "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
-          "mini_headline": "Ross判決：フェアユースに当たらず",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
-              },
-              {
-                "t": "p",
-                "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ross AI复制\n上诉法院：不属合理使用",
-          "body": "U.S.上诉法院维持原判，认定ROSS复制Westlaw判例摘要训练AI不属合理使用。",
-          "mini_headline": "Ross案：不属合理使用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "美国出版商协会(Association of American Publishers)与Authors Guild对Thomson Reuters v. ROSS案的上诉判决表示赞赏。该判决认定，ROSS复制Thomson Reuters旗下Westlaw判例摘要的行为不构成合理使用。这是上诉法院首次裁定AI公司的此类未经授权复制不受合理使用保护。"
-              },
-              {
-                "t": "p",
-                "x": "ROSS使用Westlaw判例摘要训练其AI平台后，Thomson Reuters于2020年5月在U.S.特拉华州联邦地区法院提起诉讼。特拉华法院作出有利于Thomson Reuters的裁决后，AAP于2025年11月提交法庭之友意见书，请求第三巡回上诉法院(Third Circuit)驳回ROSS的合理使用主张、维持原判。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "费城的James A. Byrne United States Courthouse。图片：ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAP CEO Maria Pallante表示，“第三巡回上诉法院正确指出，AI训练的授权许可市场不仅存在，而且‘正在迅速发展’”，并称该判决是“这一有力的先例”。"
-              },
-              {
-                "t": "p",
-                "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apelación: la copia de Ross AI\nno fue uso legítimo",
-          "body": "La corte de apelación de U.S. ratificó que copiar Westlaw para entrenar la AI de ROSS Intelligence no fue uso legítimo.",
-          "mini_headline": "Fallo sobre Ross: no es uso legítimo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La Association of American Publishers y el Authors Guild celebraron el fallo de apelación en Thomson Reuters v. ROSS, que determinó que la copia por parte de ROSS de los sumarios de Westlaw de Thomson Reuters no fue uso legítimo. Es la primera vez que un tribunal de apelación dictamina que este tipo de copia no autorizada por parte de una empresa de AI no está protegida por el uso legítimo."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters presentó la demanda ante el U.S. District Court for Delaware en mayo de 2020, después de que ROSS usara sumarios de Westlaw para entrenar su plataforma de AI. Tras el fallo del tribunal de Delaware a favor de Thomson Reuters, la AAP presentó en noviembre de 2025 un escrito amicus en el que pidió al Third Circuit confirmar la sentencia rechazando los argumentos de uso legítimo de ROSS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "El James A. Byrne United States Courthouse en Filadelfia. Foto: ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "La CEO de la AAP, Maria Pallante, dijo que “el Third Circuit señaló correctamente que el mercado de licencias para el entrenamiento de AI no solo existe, sino que se está ‘desarrollando rápidamente’”, y calificó el fallo como “este poderoso precedente”."
-              },
-              {
-                "t": "p",
-                "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Ross AI 복제,\n항소심도 공정이용 아니다",
-          "body": "U.S. 항소심도 ROSS의 AI용 Westlaw 복제는 공정이용 아니라고 봤다.",
-          "mini_headline": "Ross 항소심: 공정이용 아니다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "미국출판협회(Association of American Publishers)와 Authors Guild는 Thomson Reuters v. ROSS 사건의 항소심 판결을 환영했다. 판결은 ROSS가 Thomson Reuters의 Westlaw 헤드노트를 복제한 행위가 공정이용이 아니라고 봤다. AI 기업의 이런 무단 복제가 공정이용으로 보호받지 못한다고 항소법원이 판단한 것은 이번이 처음이다."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters는 ROSS가 Westlaw 헤드노트로 자사 AI 플랫폼을 학습시키자 2020년 5월 U.S. 델라웨어 연방지방법원에 소송을 냈다. 델라웨어 법원이 Thomson Reuters의 손을 들어준 뒤, AAP는 2025년 11월 제3순회항소법원(Third Circuit)에 ROSS의 공정이용 주장을 물리치고 원심을 확정해 달라는 법정조언자 의견서를 냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "필라델피아의 James A. Byrne United States Courthouse. 사진: ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAP CEO Maria Pallante는 “제3순회항소법원은 AI 학습용 라이선스 시장이 존재할 뿐 아니라 ‘빠르게 성장하고 있다’는 점을 정확히 짚었다”며 이번 판결을 “이 강력한 선례”라고 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "RossのAI複製\n控訴審もフェアユース否定",
-          "body": "U.S.控訴審もROSSのAI学習用Westlaw複製はフェアユースでないとした。",
-          "mini_headline": "Ross判決：フェアユースに当たらず",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "米国出版社協会(Association of American Publishers)とAuthors Guildは、Thomson Reuters v. ROSS訴訟の控訴審判決を歓迎した。判決は、ROSSがThomson ReutersのWestlawのヘッドノートを複製した行為はフェアユースに当たらないと判断した。AI企業によるこうした無断複製がフェアユースで保護されないと控訴裁判所が判断したのは、これが初めてである。"
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reutersは、ROSSがWestlawのヘッドノートを使って自社のAIプラットフォームを学習させたとして、2020年5月にU.S.デラウェア連邦地方裁判所に提訴した。デラウェアの裁判所がThomson Reutersの主張を認めた後、AAPは2025年11月、ROSSのフェアユースの主張を退けて判決を維持するよう第3巡回区控訴裁判所(Third Circuit)に求めるアミカスブリーフを提出した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "フィラデルフィアのJames A. Byrne United States Courthouse。写真：ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAPのCEO、Maria Pallanteは「第3巡回区控訴裁判所は、AI学習向けのライセンス市場が存在するだけでなく『急速に発展している』ことを正しく指摘した」と述べ、今回の判決を「この強力な先例」と呼んだ。"
-              },
-              {
-                "t": "p",
-                "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ross AI复制\n上诉法院：不属合理使用",
-          "body": "U.S.上诉法院维持原判，认定ROSS复制Westlaw判例摘要训练AI不属合理使用。",
-          "mini_headline": "Ross案：不属合理使用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "美国出版商协会(Association of American Publishers)与Authors Guild对Thomson Reuters v. ROSS案的上诉判决表示赞赏。该判决认定，ROSS复制Thomson Reuters旗下Westlaw判例摘要的行为不构成合理使用。这是上诉法院首次裁定AI公司的此类未经授权复制不受合理使用保护。"
-              },
-              {
-                "t": "p",
-                "x": "ROSS使用Westlaw判例摘要训练其AI平台后，Thomson Reuters于2020年5月在U.S.特拉华州联邦地区法院提起诉讼。特拉华法院作出有利于Thomson Reuters的裁决后，AAP于2025年11月提交法庭之友意见书，请求第三巡回上诉法院(Third Circuit)驳回ROSS的合理使用主张、维持原判。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "费城的James A. Byrne United States Courthouse。图片：ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "AAP CEO Maria Pallante表示，“第三巡回上诉法院正确指出，AI训练的授权许可市场不仅存在，而且‘正在迅速发展’”，并称该判决是“这一有力的先例”。"
-              },
-              {
-                "t": "p",
-                "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apelación: la copia de Ross AI\nno fue uso legítimo",
-          "body": "La corte de apelación de U.S. ratificó que copiar Westlaw para entrenar la AI de ROSS Intelligence no fue uso legítimo.",
-          "mini_headline": "Fallo sobre Ross: no es uso legítimo",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La Association of American Publishers y el Authors Guild celebraron el fallo de apelación en Thomson Reuters v. ROSS, que determinó que la copia por parte de ROSS de los sumarios de Westlaw de Thomson Reuters no fue uso legítimo. Es la primera vez que un tribunal de apelación dictamina que este tipo de copia no autorizada por parte de una empresa de AI no está protegida por el uso legítimo."
-              },
-              {
-                "t": "p",
-                "x": "Thomson Reuters presentó la demanda ante el U.S. District Court for Delaware en mayo de 2020, después de que ROSS usara sumarios de Westlaw para entrenar su plataforma de AI. Tras el fallo del tribunal de Delaware a favor de Thomson Reuters, la AAP presentó en noviembre de 2025 un escrito amicus en el que pidió al Third Circuit confirmar la sentencia rechazando los argumentos de uso legítimo de ROSS."
-              },
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131879-1.JPG",
-                "cap": "El James A. Byrne United States Courthouse en Filadelfia. Foto: ajay_suresh, CC BY 2.0"
-              },
-              {
-                "t": "p",
-                "x": "La CEO de la AAP, Maria Pallante, dijo que “el Third Circuit señaló correctamente que el mercado de licencias para el entrenamiento de AI no solo existe, sino que se está ‘desarrollando rápidamente’”, y calificó el fallo como “este poderoso precedente”."
-              },
-              {
-                "t": "p",
-                "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "books",
+ "cards": [
+  {
+   "id": "books-redpine",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "다섯 출판사 20m 편\nRedpine 타고 AI로",
+   "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
+   "mini_headline": "AI 에이전트용 논문 20m 편",
+   "tool": "Books",
+   "source": "The Bookseller",
+   "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine",
+   "accent": "#f5a623",
+   "motif": "swatch",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+      "cap": "Redpine CEO Anders Hammarbäck"
+     },
+     {
+      "t": "p",
+      "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. 이에 따라 AI 에이전트는 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 받고 접근한다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Five publishers open 20m papers\nto AI agents via Redpine",
+     "body": "BMJ Group, Sage and three other publishers will give AI agents licensed access to 20 million papers via Redpine.",
+     "mini_headline": "20m papers for AI agents",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Anders Hammarbäck, Redpine's CEO"
+       },
+       {
+        "t": "p",
+        "x": "Five academic publishers – BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing and Wanfang Data – have struck a deal with AI company Redpine to provide AI agents with licensed access to 20 million peer-reviewed research papers."
+       }
+      ]
+     }
     },
-    {
-      "id": "scholarly-kitchen-ai-representation-not-scholarship",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
-      "body": "이 에세이는 AI가 한정된 인지를 증폭해 논문을 학문으로 착각하게 한다고 본다.",
-      "mini_headline": "논문은 학문이 아니다",
-      "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 뛰어나지만 한정된 형태의 인지를 우리가 점점 더 잘 증폭하게 됐다는 게 문제일 수 있다. AI는 이미 알려진 것을 재조합한다. 하지만 재조합은 창의성이나 통찰과 다르다."
-          },
-          {
-            "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-            "cap": "그림 1. 사고 능력과 지능에 결부된 특성 비교."
-          },
-          {
-            "t": "p",
-            "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화 대상이 되면 AI는 학문과의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하고, 검증할 수 없는 인용을 그럴듯하게 지어내기도 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-            "cap": "그림 2. 도구에서 에이전트로 갈수록 거버넌스도 역량을 따라가야 한다."
-          },
-          {
-            "t": "p",
-            "x": "AI가 도구에서 에이전트로 옮겨가면 질문도 역량에서 행위 주체성으로 넘어간다. 필자는 AI로 수고를 덜되 전부 덜지는 말라고, 표상 자체를 의심할 수 있는 사람의 능력을 지키라고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "In AI publishing, the paper\nis not the scholarship",
-          "body": "The essay argues AI amplifies a limited form of cognition, tempting us to mistake the paper for the scholarship.",
-          "mini_headline": "Paper is not scholarship",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The problem with AI may not be that machines are growing more intelligent, but that we are becoming skilled at amplifying a highly capable, but limited form of cognition. AI can recombine what is already known; recombination is not the same as creativity or insight."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "Figure 1. Thought's capabilities versus the qualities associated with intelligence."
-              },
-              {
-                "t": "p",
-                "x": "Scholarly communication has always run on representations: an article represents an investigation, an abstract the article, a citation a relationship between works. When the representation becomes the object we optimize, AI can widen the distance from the scholarship itself. A model can summarize a paper convincingly without understanding its evidence, or generate plausible but unverifiable citations."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "Figure 2. From tool to agent, governance needs to keep pace with capability."
-              },
-              {
-                "t": "p",
-                "x": "As AI moves from tool to agent, the question shifts from capability to agency. The author urges using AI to reduce some effort, but not all, and keeping humans able to question the representation itself. As machines become better at processing, we need to become better at perceiving."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
-          "body": "이 에세이는 AI가 한정된 인지를 증폭해 논문을 학문으로 착각하게 한다고 본다.",
-          "mini_headline": "논문은 학문이 아니다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 뛰어나지만 한정된 형태의 인지를 우리가 점점 더 잘 증폭하게 됐다는 게 문제일 수 있다. AI는 이미 알려진 것을 재조합한다. 하지만 재조합은 창의성이나 통찰과 다르다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "그림 1. 사고 능력과 지능에 결부된 특성 비교."
-              },
-              {
-                "t": "p",
-                "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화 대상이 되면 AI는 학문과의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하고, 검증할 수 없는 인용을 그럴듯하게 지어내기도 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "그림 2. 도구에서 에이전트로 갈수록 거버넌스도 역량을 따라가야 한다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 도구에서 에이전트로 옮겨가면 질문도 역량에서 행위 주체성으로 넘어간다. 필자는 AI로 수고를 덜되 전부 덜지는 말라고, 표상 자체를 의심할 수 있는 사람의 능력을 지키라고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI出版では、\n論文は学問そのものではない",
-          "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
-          "mini_headline": "論文は学問ではない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AIの問題は、機械がより賢くなっていることではないのかもしれない。むしろ、私たちが非常に有能だが限られた形の認知を増幅することに長けつつあることにある。AIは既知のものを組み替えることはできるが、組み替えは創造性や洞察と同じではない。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "図1. 思考の能力と、知性に結びつく資質の対比。"
-              },
-              {
-                "t": "p",
-                "x": "学術コミュニケーションは常に表象の上に成り立ってきた。論文は研究を、抄録は論文を、引用は著作間の関係を表す。表象そのものが最適化の対象になると、AIは学問そのものとの距離を広げかねない。モデルは根拠を理解しないまま論文をもっともらしく要約したり、もっともらしいが検証できない引用を生成したりできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "図2. ツールからエージェントへ。ガバナンスは能力の進歩に歩調を合わせる必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "AIがツールからエージェントへと移るにつれ、問いは能力からエージェンシー(主体性)へと移る。筆者は、AIで労力の一部は減らしても全部は減らさず、人間が表象そのものを問い直せる状態を保つよう促す。機械が処理に長けるほど、私たちは知覚に長けなければならない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI出版中，\n论文不等于学术本身",
-          "body": "文章认为，AI放大了一种有限的认知，诱使我们把论文误当作学术本身。",
-          "mini_headline": "论文不等于学术",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI的问题或许不在于机器越来越聪明，而在于我们越来越擅长放大一种能力很强却有限的认知形式。AI能够重组已知的东西，但重组并不等同于创造力或洞见。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "图1：思维的能力与智能相关特质的对比。"
-              },
-              {
-                "t": "p",
-                "x": "学术交流向来依赖表征：论文表征一项研究，摘要表征论文，引用表征作品之间的关系。当表征本身成为我们优化的对象，AI可能拉大与学术本身的距离。模型可以在不理解证据的情况下令人信服地总结一篇论文，或生成看似合理却无法核实的引用。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "图2：从工具到智能体，治理需要跟上能力的步伐。"
-              },
-              {
-                "t": "p",
-                "x": "随着AI从工具走向智能体，问题也从能力转向能动性。作者呼吁用AI减少一部分而非全部的努力，并让人类保有质疑表征本身的能力。机器越擅长处理，我们就越需要擅长感知。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Edición con AI: el artículo\nno es el saber académico",
-          "body": "El ensayo sostiene que la AI amplifica una cognición limitada y nos tienta a confundir el artículo con el saber.",
-          "mini_headline": "El artículo no es el saber",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El problema de la AI quizá no sea que las máquinas se vuelvan más inteligentes, sino que nos estamos volviendo hábiles en amplificar una forma de cognición muy capaz, pero limitada. La AI puede recombinar lo que ya se sabe; la recombinación no equivale a creatividad ni a perspicacia."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "Figura 1. Las capacidades del pensamiento frente a las cualidades asociadas a la inteligencia."
-              },
-              {
-                "t": "p",
-                "x": "La comunicación académica siempre ha funcionado con representaciones: un artículo representa una investigación; un resumen, el artículo; una cita, una relación entre obras. Cuando la representación se convierte en el objeto que optimizamos, la AI puede ampliar la distancia respecto del propio trabajo académico. Un modelo puede resumir un artículo de forma convincente sin entender su evidencia, o generar citas plausibles pero imposibles de verificar."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "Figura 2. De herramienta a agente: la gobernanza debe avanzar al ritmo de la capacidad."
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI pasa de herramienta a agente, la pregunta pasa de la capacidad a la agencia. El autor insta a usar la AI para reducir parte del esfuerzo, pero no todo, y a mantener la capacidad humana de cuestionar la propia representación. A medida que las máquinas procesan mejor, nosotros necesitamos percibir mejor."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 출판에서 논문은\n학문 그 자체가 아니다",
-          "body": "이 에세이는 AI가 제한된 인지를 증폭해 논문을 학문으로 착각하게 만든다고 본다.",
-          "mini_headline": "논문은 학문이 아니다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI의 문제는 기계가 더 똑똑해진다는 데 있지 않을지도 모른다. 오히려 우리가 뛰어나지만 한정된 형태의 인지를 증폭하는 데 능숙해지고 있다는 점이 문제일 수 있다. AI는 이미 알려진 것을 재조합할 수 있지만, 재조합은 창의성이나 통찰과 같지 않다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "그림 1. 사고의 능력과 지능에 결부된 특성의 비교."
-              },
-              {
-                "t": "p",
-                "x": "학술 커뮤니케이션은 늘 표상 위에서 돌아갔다. 논문은 연구를, 초록은 논문을, 인용은 저작 사이의 관계를 표상한다. 표상 자체가 최적화의 대상이 되면 AI는 학문 그 자체와의 거리를 더 벌릴 수 있다. 모델은 근거를 이해하지 못한 채 논문을 그럴듯하게 요약하거나, 그럴듯하지만 검증할 수 없는 인용을 만들어낼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "그림 2. 도구에서 에이전트로 나아가는 만큼 거버넌스도 역량에 발맞춰야 한다."
-              },
-              {
-                "t": "p",
-                "x": "AI가 도구에서 에이전트로 옮겨가면서 질문도 역량에서 행위 주체성으로 옮겨간다. 필자는 AI로 수고의 일부를 덜되 전부를 덜지는 말고, 사람이 표상 자체에 의문을 던질 수 있는 능력을 지켜야 한다고 촉구한다. 기계가 처리에 능해질수록 우리는 지각에 능해져야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI出版では、\n論文は学問そのものではない",
-          "body": "AIは限られた認知を増幅し、論文を学問と取り違えさせると本稿は論じる。",
-          "mini_headline": "論文は学問ではない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AIの問題は、機械がより賢くなっていることではないのかもしれない。むしろ、私たちが非常に有能だが限られた形の認知を増幅することに長けつつあることにある。AIは既知のものを組み替えることはできるが、組み替えは創造性や洞察と同じではない。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "図1. 思考の能力と、知性に結びつく資質の対比。"
-              },
-              {
-                "t": "p",
-                "x": "学術コミュニケーションは常に表象の上に成り立ってきた。論文は研究を、抄録は論文を、引用は著作間の関係を表す。表象そのものが最適化の対象になると、AIは学問そのものとの距離を広げかねない。モデルは根拠を理解しないまま論文をもっともらしく要約したり、もっともらしいが検証できない引用を生成したりできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "図2. ツールからエージェントへ。ガバナンスは能力の進歩に歩調を合わせる必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "AIがツールからエージェントへと移るにつれ、問いは能力からエージェンシー(主体性)へと移る。筆者は、AIで労力の一部は減らしても全部は減らさず、人間が表象そのものを問い直せる状態を保つよう促す。機械が処理に長けるほど、私たちは知覚に長けなければならない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI出版中，\n论文不等于学术本身",
-          "body": "文章认为，AI放大了一种有限的认知，诱使我们把论文误当作学术本身。",
-          "mini_headline": "论文不等于学术",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI的问题或许不在于机器越来越聪明，而在于我们越来越擅长放大一种能力很强却有限的认知形式。AI能够重组已知的东西，但重组并不等同于创造力或洞见。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "图1：思维的能力与智能相关特质的对比。"
-              },
-              {
-                "t": "p",
-                "x": "学术交流向来依赖表征：论文表征一项研究，摘要表征论文，引用表征作品之间的关系。当表征本身成为我们优化的对象，AI可能拉大与学术本身的距离。模型可以在不理解证据的情况下令人信服地总结一篇论文，或生成看似合理却无法核实的引用。"
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "图2：从工具到智能体，治理需要跟上能力的步伐。"
-              },
-              {
-                "t": "p",
-                "x": "随着AI从工具走向智能体，问题也从能力转向能动性。作者呼吁用AI减少一部分而非全部的努力，并让人类保有质疑表征本身的能力。机器越擅长处理，我们就越需要擅长感知。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Edición con AI: el artículo\nno es el saber académico",
-          "body": "El ensayo sostiene que la AI amplifica una cognición limitada y nos tienta a confundir el artículo con el saber.",
-          "mini_headline": "El artículo no es el saber",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El problema de la AI quizá no sea que las máquinas se vuelvan más inteligentes, sino que nos estamos volviendo hábiles en amplificar una forma de cognición muy capaz, pero limitada. La AI puede recombinar lo que ya se sabe; la recombinación no equivale a creatividad ni a perspicacia."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-1_Thought-and-intelligence-editorial-infographic-1024x724.png",
-                "cap": "Figura 1. Las capacidades del pensamiento frente a las cualidades asociadas a la inteligencia."
-              },
-              {
-                "t": "p",
-                "x": "La comunicación académica siempre ha funcionado con representaciones: un artículo representa una investigación; un resumen, el artículo; una cita, una relación entre obras. Cuando la representación se convierte en el objeto que optimizamos, la AI puede ampliar la distancia respecto del propio trabajo académico. Un modelo puede resumir un artículo de forma convincente sin entender su evidencia, o generar citas plausibles pero imposibles de verificar."
-              },
-              {
-                "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/Figure-2_Tool-to-agency-governance-infographic-1024x585.png",
-                "cap": "Figura 2. De herramienta a agente: la gobernanza debe avanzar al ritmo de la capacidad."
-              },
-              {
-                "t": "p",
-                "x": "A medida que la AI pasa de herramienta a agente, la pregunta pasa de la capacidad a la agencia. El autor insta a usar la AI para reducir parte del esfuerzo, pero no todo, y a mantener la capacidad humana de cuestionar la propia representación. A medida que las máquinas procesan mejor, nosotros necesitamos percibir mejor."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "다섯 출판사 20m 편\nRedpine 타고 AI로",
+     "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
+     "mini_headline": "AI 에이전트용 논문 20m 편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Redpine CEO Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. 이에 따라 AI 에이전트는 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 받고 접근한다."
+       }
+      ]
+     }
     },
-    {
-      "id": "proyecto451-publisher-ai-policy-review",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "출판사 AI의 갈림길\n라이선스냐 자체 구축이냐",
-      "body": "Proyecto451이 본 40+ 출판사 AI 전략은 라이선스와 in-house다.",
-      "mini_headline": "출판사의 두 갈래 AI 전략",
-      "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-          },
-          {
-            "t": "p",
-            "x": "Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토해 보니 전략은 크게 두 갈래였다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만든다."
-          },
-          {
-            "t": "p",
-            "x": "Carlo Carrenho의 정리에 따르면 De Marque는 ElevenLabs와 손잡았다. 자사 Cantook Édition 플랫폼의 출판사들이 고른 책을 ElevenReader에서 오디오로 제공하게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며 한 권씩이 아니라 파트너 단위로 AI 낭독(AI-narrated) 카탈로그를 넓히는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "노르웨이 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자기 삶과 언어, 몸에서 나왔음을 보이려고 소설 전체를 손으로 썼다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Publishers split on AI:\nlicense out or build in",
-          "body": "A Proyecto451 review of 40+ publishers' AI policies finds two paths: license catalogs to AI firms or build in-house.",
-          "mini_headline": "Publishers' two AI paths",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "An AI crossroads: a Proyecto451 review of the AI policies of more than 40 publishers identified two main strategies — licensing their catalogues to AI companies, or keeping them in-house to build proprietary tools."
-              },
-              {
-                "t": "p",
-                "x": "Elsewhere in Carlo Carrenho's roundup, De Marque partnered with ElevenLabs so publishers on its Cantook Édition platform can make selected books available in audio through ElevenReader. ElevenLabs already works with aggregators such as Bookwire and StreetLib, scaling its AI-narrated catalog through partners rather than title by title."
-              },
-              {
-                "t": "p",
-                "x": "And Norwegian debut author Fabian Heffermehl wrote his entire novel by hand to demonstrate that it came from his own life, words and body — not AI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "출판사 AI의 갈림길\n라이선스냐 자체 구축이냐",
-          "body": "Proyecto451이 본 40+ 출판사 AI 전략은 라이선스와 in-house다.",
-          "mini_headline": "출판사의 두 갈래 AI 전략",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토해 보니 전략은 크게 두 갈래였다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만든다."
-              },
-              {
-                "t": "p",
-                "x": "Carlo Carrenho의 정리에 따르면 De Marque는 ElevenLabs와 손잡았다. 자사 Cantook Édition 플랫폼의 출판사들이 고른 책을 ElevenReader에서 오디오로 제공하게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며 한 권씩이 아니라 파트너 단위로 AI 낭독(AI-narrated) 카탈로그를 넓히는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "노르웨이 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자기 삶과 언어, 몸에서 나왔음을 보이려고 소설 전체를 손으로 썼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "出版社のAI戦略は二択\nライセンスか自社開発か",
-          "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
-          "mini_headline": "出版社のAI、二つの道",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "AIの岐路：Proyecto451が40を超える出版社のAI方針を調べたところ、主な戦略は二つあった。カタログをAI企業にライセンス供与するか、社内(in-house)にとどめて独自ツールを開発するかである。"
-              },
-              {
-                "t": "p",
-                "x": "Carlo Carrenhoのまとめによると、De MarqueはElevenLabsと提携し、同社のCantook Éditionプラットフォームを使う出版社が、選んだ書籍をElevenReaderでオーディオとして提供できるようにした。ElevenLabsはすでにBookwireやStreetLibといったアグリゲーターと組んでおり、タイトル単位ではなくパートナーを通じてAI-narrated(AIによる朗読)のカタログを拡大している。"
-              },
-              {
-                "t": "p",
-                "x": "そしてノルウェーの新人作家Fabian Heffermehlは、作品がAIではなく自らの人生と言葉と身体から生まれたことを示すため、小説をすべて手書きで書き上げた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "出版商AI路线分化：\n对外授权还是自建",
-          "body": "Proyecto451梳理40多家出版商AI政策，路线分为对外授权与in-house自建。",
-          "mini_headline": "出版商的两条AI路线",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "AI十字路口：Proyecto451审视了40多家出版商的AI政策，发现两大主要策略——将书目内容授权给AI公司，或将其留在内部(in-house)以开发专有工具。"
-              },
-              {
-                "t": "p",
-                "x": "在Carlo Carrenho的综述中，De Marque与ElevenLabs合作，使其Cantook Édition平台上的出版商能够通过ElevenReader以音频形式提供精选图书。ElevenLabs已与Bookwire、StreetLib等聚合平台合作，通过合作伙伴而非逐本扩充其AI-narrated(AI朗读)书目。"
-              },
-              {
-                "t": "p",
-                "x": "此外，挪威新人作家Fabian Heffermehl手写完成了整部小说，以证明作品源自他自己的生活、文字和身体——而非AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales ante la AI:\nlicenciar o crear en casa",
-          "body": "Proyecto451 revisó las políticas de AI de 40+ editoriales y halló dos vías: licenciar a firmas de AI o crear in-house.",
-          "mini_headline": "Dos caminos editoriales ante la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "Una encrucijada de la AI: una revisión de Proyecto451 de las políticas de AI de más de 40 editoriales identificó dos estrategias principales: licenciar sus catálogos a empresas de AI o mantenerlos in-house para desarrollar herramientas propias."
-              },
-              {
-                "t": "p",
-                "x": "En otro punto del resumen de Carlo Carrenho, De Marque se asoció con ElevenLabs para que las editoriales de su plataforma Cantook Édition puedan ofrecer libros seleccionados en audio a través de ElevenReader. ElevenLabs ya trabaja con agregadores como Bookwire y StreetLib, y amplía su catálogo AI-narrated mediante socios en lugar de título por título."
-              },
-              {
-                "t": "p",
-                "x": "Y el autor noruego debutante Fabian Heffermehl escribió a mano toda su novela para demostrar que surgió de su propia vida, sus palabras y su cuerpo, no de la AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "출판사의 AI 갈림길:\n라이선스냐 자체 구축이냐",
-          "body": "Proyecto451이 본 40+ 출판사 AI 길은 라이선스와 in-house다.",
-          "mini_headline": "출판사의 두 갈래 AI 전략",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "AI 갈림길: Proyecto451이 40곳이 넘는 출판사의 AI 정책을 검토한 결과, 두 가지 주요 전략이 드러났다. 카탈로그를 AI 기업에 라이선스하거나, 카탈로그를 내부(in-house)에 두고 독자 도구를 만드는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Carlo Carrenho의 정리에 따르면, De Marque는 ElevenLabs와 손잡고 자사 Cantook Édition 플랫폼의 출판사들이 선택한 책을 ElevenReader에서 오디오로 제공할 수 있게 했다. ElevenLabs는 이미 Bookwire, StreetLib 같은 애그리게이터와 협력하며, 한 권씩이 아니라 파트너를 통해 AI 낭독(AI-narrated) 카탈로그를 넓히고 있다."
-              },
-              {
-                "t": "p",
-                "x": "노르웨이의 신인 작가 Fabian Heffermehl은 소설이 AI가 아니라 자신의 삶과 언어, 몸에서 나왔음을 보여주려고 소설 전체를 손으로 썼다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "出版社のAI戦略は二択\nライセンスか自社開発か",
-          "body": "Proyecto451調査で40超の出版社AI方針はライセンスかin-houseかの二択だ。",
-          "mini_headline": "出版社のAI、二つの道",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "AIの岐路：Proyecto451が40を超える出版社のAI方針を調べたところ、主な戦略は二つあった。カタログをAI企業にライセンス供与するか、社内(in-house)にとどめて独自ツールを開発するかである。"
-              },
-              {
-                "t": "p",
-                "x": "Carlo Carrenhoのまとめによると、De MarqueはElevenLabsと提携し、同社のCantook Éditionプラットフォームを使う出版社が、選んだ書籍をElevenReaderでオーディオとして提供できるようにした。ElevenLabsはすでにBookwireやStreetLibといったアグリゲーターと組んでおり、タイトル単位ではなくパートナーを通じてAI-narrated(AIによる朗読)のカタログを拡大している。"
-              },
-              {
-                "t": "p",
-                "x": "そしてノルウェーの新人作家Fabian Heffermehlは、作品がAIではなく自らの人生と言葉と身体から生まれたことを示すため、小説をすべて手書きで書き上げた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "出版商AI路线分化：\n对外授权还是自建",
-          "body": "Proyecto451梳理40多家出版商AI政策，路线分为对外授权与in-house自建。",
-          "mini_headline": "出版商的两条AI路线",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "AI十字路口：Proyecto451审视了40多家出版商的AI政策，发现两大主要策略——将书目内容授权给AI公司，或将其留在内部(in-house)以开发专有工具。"
-              },
-              {
-                "t": "p",
-                "x": "在Carlo Carrenho的综述中，De Marque与ElevenLabs合作，使其Cantook Édition平台上的出版商能够通过ElevenReader以音频形式提供精选图书。ElevenLabs已与Bookwire、StreetLib等聚合平台合作，通过合作伙伴而非逐本扩充其AI-narrated(AI朗读)书目。"
-              },
-              {
-                "t": "p",
-                "x": "此外，挪威新人作家Fabian Heffermehl手写完成了整部小说，以证明作品源自他自己的生活、文字和身体——而非AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales ante la AI:\nlicenciar o crear en casa",
-          "body": "Proyecto451 revisó las políticas de AI de 40+ editoriales y halló dos vías: licenciar a firmas de AI o crear in-house.",
-          "mini_headline": "Dos caminos editoriales ante la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-18-at-8.18.31-PM-e1773663205654.png"
-              },
-              {
-                "t": "p",
-                "x": "Una encrucijada de la AI: una revisión de Proyecto451 de las políticas de AI de más de 40 editoriales identificó dos estrategias principales: licenciar sus catálogos a empresas de AI o mantenerlos in-house para desarrollar herramientas propias."
-              },
-              {
-                "t": "p",
-                "x": "En otro punto del resumen de Carlo Carrenho, De Marque se asoció con ElevenLabs para que las editoriales de su plataforma Cantook Édition puedan ofrecer libros seleccionados en audio a través de ElevenReader. ElevenLabs ya trabaja con agregadores como Bookwire y StreetLib, y amplía su catálogo AI-narrated mediante socios en lugar de título por título."
-              },
-              {
-                "t": "p",
-                "x": "Y el autor noruego debutante Fabian Heffermehl escribió a mano toda su novela para demostrar que surgió de su propia vida, sus palabras y su cuerpo, no de la AI."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "出版五社が論文20m 本を\nRedpineでAIに開放",
+     "body": "BMJ Group、Sageなど五社がRedpineでAIに論文2000万本を開放する。",
+     "mini_headline": "AIエージェントに論文20m 本",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "RedpineのCEO、Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
+       }
+      ]
+     }
     },
-    {
-      "id": "lithub-ai-writing-spiritual-practice-essay",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
-      "body": "이 글은 작가가 AI를 앞서는 힘을 기교가 아닌 영적 삶과 꾸준한 실천에서 찾는다.",
-      "mini_headline": "AI가 못 가진 작가의 힘",
-      "tool": "Books",
-      "source": "Literary Hub",
-      "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/",
-      "accent": "#ff5a4d",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-          },
-          {
-            "t": "p",
-            "x": "문학계가 마침내 묻기 시작했다. 인간 작가는 할 수 있고 인공지능은 못 하는 일은 무엇인가. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돈다. 그 밑에는 문학 문화가 피해 온 단어가 있다. 영혼이다."
-          },
-          {
-            "t": "p",
-            "x": "AI는 도서관의 책을 모두 집어삼키고 우리 문장 구조를 그대로 뱉어낼 수 있다. 그래도 이름 붙일 수 없는 무언가를 갈망하거나, 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 복제할 수 없는 유일한 것이 작가의 영혼인데, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
-          },
-          {
-            "t": "p",
-            "x": "Donlon은 문학 콘퍼런스에 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을, MFA 과정에 관조에 관한 선택 과목을 두자고 제안한다. 레지던시는 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "What human writers have\nthat AI cannot",
-          "body": "The essay argues a human writer's edge over AI lies not in technique but in spiritual life and sustainable practice.",
-          "mini_headline": "Writing's edge over AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "The literary world is finally asking what a human writer can do that artificial intelligence cannot. The answers tend to circle around voice, lived experience and emotional nuance, but underneath sits a word literary culture has avoided: soul."
-              },
-              {
-                "t": "p",
-                "x": "AI can ingest every book in a library and spit our syntax back out, but it cannot long for something it cannot name or grieve a father it has not loved and lost. In the age of AI, Charlotte Donlon argues, the writer's soul is the only thing that cannot be replicated — and we have not built the infrastructure to tend it."
-              },
-              {
-                "t": "p",
-                "x": "She proposes literary conferences add sessions on the inner life and sustainable creative practices, MFA programs offer optional courses on contemplation, and residencies honor time away as soul-tending. “AI will improve, but it will never develop the capacity for genuine longing, grief, or ethical self-interrogation.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
-          "body": "이 글은 작가가 AI를 앞서는 힘을 기교가 아닌 영적 삶과 꾸준한 실천에서 찾는다.",
-          "mini_headline": "AI가 못 가진 작가의 힘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "문학계가 마침내 묻기 시작했다. 인간 작가는 할 수 있고 인공지능은 못 하는 일은 무엇인가. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돈다. 그 밑에는 문학 문화가 피해 온 단어가 있다. 영혼이다."
-              },
-              {
-                "t": "p",
-                "x": "AI는 도서관의 책을 모두 집어삼키고 우리 문장 구조를 그대로 뱉어낼 수 있다. 그래도 이름 붙일 수 없는 무언가를 갈망하거나, 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 복제할 수 없는 유일한 것이 작가의 영혼인데, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "Donlon은 문학 콘퍼런스에 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을, MFA 과정에 관조에 관한 선택 과목을 두자고 제안한다. 레지던시는 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "人間の作家にあって\nAIにないもの",
-          "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
-          "mini_headline": "AIに対する書き手の強み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "文学界はようやく、人間の作家にできて人工知能にできないことは何かを問い始めた。答えはたいてい声や実体験、感情の機微のまわりを巡るが、その底には文学文化が避けてきた言葉がある。魂だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIは図書館のすべての本を取り込み、私たちの構文をそのまま吐き出すことはできるが、名づけられない何かを切望することも、愛して失ったことのない父を悼むこともできない。Charlotte Donlonは、AIの時代において作家の魂こそが複製できない唯一のものであり、私たちはそれを育む基盤をまだ築いていないと論じる。"
-              },
-              {
-                "t": "p",
-                "x": "Donlonは、文学カンファレンスが内面生活と持続可能な創作実践に関するセッションを設け、MFAプログラムが観想についての選択科目を用意し、レジデンシーが離れて過ごす時間を魂の手入れ(soul-tending)として尊重するよう提案する。「AIは向上するだろうが、真の切望や悲嘆、倫理的な自己省察(self-interrogation)の能力を身につけることは決してない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "人类作家所拥有的\nAI无法拥有之物",
-          "body": "文章认为，人类作家胜过AI之处不在技巧，而在精神生活与可持续的实践。",
-          "mini_headline": "写作胜过AI之处",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "文学界终于开始追问：有什么是人类作家能做而人工智能做不到的？答案往往围绕声音、亲身经历和情感的细微之处打转，但其底下藏着一个文学文化一直回避的词：灵魂。"
-              },
-              {
-                "t": "p",
-                "x": "AI可以吞下图书馆里的每一本书，再把我们的句法原样吐出来，但它无法渴望一件叫不出名字的东西，也无法哀悼一位它从未爱过、也从未失去的父亲。Charlotte Donlon认为，在AI时代，作家的灵魂是唯一无法复制的东西——而我们尚未建立起照料它的基础设施。"
-              },
-              {
-                "t": "p",
-                "x": "她建议文学会议增设关于内在生活与可持续创作实践的环节，MFA项目开设关于沉思的选修课，驻留项目则把离开的时间视为照料灵魂(soul-tending)而予以尊重。“AI会不断进步，但它永远不会发展出真正的渴望、悲伤或伦理上的自我审视(self-interrogation)的能力。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lo que los escritores humanos\ntienen y la AI no",
-          "body": "El ensayo ubica la ventaja del escritor sobre la AI en la vida espiritual y la práctica sostenible, no en la técnica.",
-          "mini_headline": "La ventaja del escritor ante la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "El mundo literario por fin se pregunta qué puede hacer un escritor humano que la inteligencia artificial no pueda. Las respuestas suelen girar en torno a la voz, la experiencia vivida y el matiz emocional, pero debajo late una palabra que la cultura literaria ha evitado: alma."
-              },
-              {
-                "t": "p",
-                "x": "La AI puede absorber todos los libros de una biblioteca y devolvernos nuestra sintaxis, pero no puede anhelar algo que no sabe nombrar ni llorar a un padre al que no ha amado y perdido. En la era de la AI, sostiene Charlotte Donlon, el alma del escritor es lo único que no puede replicarse, y no hemos construido la infraestructura para cuidarla."
-              },
-              {
-                "t": "p",
-                "x": "Propone que los congresos literarios añadan sesiones sobre la vida interior y las prácticas creativas sostenibles, que los programas de MFA ofrezcan cursos optativos sobre contemplación y que las residencias honren el tiempo de retiro como cuidado del alma (soul-tending). “La AI mejorará, pero nunca desarrollará la capacidad de anhelo genuino, duelo o autoexamen ético (self-interrogation)”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "인간 작가에겐 있고\nAI에겐 없는 것",
-          "body": "이 글은 작가가 AI를 앞서는 힘을 기교 아닌 영적 삶과 지속적 실천에서 찾는다.",
-          "mini_headline": "AI가 못 가진 작가의 힘",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "문학계가 마침내 인간 작가는 할 수 있고 인공지능은 할 수 없는 일이 무엇인지 묻기 시작했다. 답은 대개 목소리, 삶의 경험, 감정의 결을 맴돌지만, 그 밑에는 문학 문화가 피해 온 단어가 있다. 바로 영혼이다."
-              },
-              {
-                "t": "p",
-                "x": "AI는 도서관의 모든 책을 집어삼키고 우리의 문장 구조를 그대로 뱉어낼 수 있지만, 이름 붙일 수 없는 무언가를 갈망하거나 사랑하고 잃어본 적 없는 아버지를 애도하지는 못한다. Charlotte Donlon은 AI 시대에 작가의 영혼이야말로 복제할 수 없는 유일한 것이며, 우리는 아직 그것을 돌볼 기반을 마련하지 못했다고 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "Donlon은 문학 콘퍼런스가 내면의 삶과 지속 가능한 창작 실천을 다루는 세션을 마련하고, MFA 과정이 관조에 관한 선택 과목을 열며, 레지던시가 떠나 있는 시간을 영혼 돌봄(soul-tending)으로 존중하자고 제안한다. “AI는 나아지겠지만, 진정한 갈망이나 슬픔, 윤리적 자기 성찰(self-interrogation)의 능력은 결코 갖추지 못할 것이다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "人間の作家にあって\nAIにないもの",
-          "body": "本稿は、人間の作家がAIに勝る点は技巧ではなく精神生活と持続可能な実践にあると論じる。",
-          "mini_headline": "AIに対する書き手の強み",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "文学界はようやく、人間の作家にできて人工知能にできないことは何かを問い始めた。答えはたいてい声や実体験、感情の機微のまわりを巡るが、その底には文学文化が避けてきた言葉がある。魂だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIは図書館のすべての本を取り込み、私たちの構文をそのまま吐き出すことはできるが、名づけられない何かを切望することも、愛して失ったことのない父を悼むこともできない。Charlotte Donlonは、AIの時代において作家の魂こそが複製できない唯一のものであり、私たちはそれを育む基盤をまだ築いていないと論じる。"
-              },
-              {
-                "t": "p",
-                "x": "Donlonは、文学カンファレンスが内面生活と持続可能な創作実践に関するセッションを設け、MFAプログラムが観想についての選択科目を用意し、レジデンシーが離れて過ごす時間を魂の手入れ(soul-tending)として尊重するよう提案する。「AIは向上するだろうが、真の切望や悲嘆、倫理的な自己省察(self-interrogation)の能力を身につけることは決してない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "人类作家所拥有的\nAI无法拥有之物",
-          "body": "文章认为，人类作家胜过AI之处不在技巧，而在精神生活与可持续的实践。",
-          "mini_headline": "写作胜过AI之处",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "文学界终于开始追问：有什么是人类作家能做而人工智能做不到的？答案往往围绕声音、亲身经历和情感的细微之处打转，但其底下藏着一个文学文化一直回避的词：灵魂。"
-              },
-              {
-                "t": "p",
-                "x": "AI可以吞下图书馆里的每一本书，再把我们的句法原样吐出来，但它无法渴望一件叫不出名字的东西，也无法哀悼一位它从未爱过、也从未失去的父亲。Charlotte Donlon认为，在AI时代，作家的灵魂是唯一无法复制的东西——而我们尚未建立起照料它的基础设施。"
-              },
-              {
-                "t": "p",
-                "x": "她建议文学会议增设关于内在生活与可持续创作实践的环节，MFA项目开设关于沉思的选修课，驻留项目则把离开的时间视为照料灵魂(soul-tending)而予以尊重。“AI会不断进步，但它永远不会发展出真正的渴望、悲伤或伦理上的自我审视(self-interrogation)的能力。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lo que los escritores humanos\ntienen y la AI no",
-          "body": "El ensayo ubica la ventaja del escritor sobre la AI en la vida espiritual y la práctica sostenible, no en la técnica.",
-          "mini_headline": "La ventaja del escritor ante la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://s26162.pcdn.co/wp-content/uploads/2026/09/right-sidebar-banner-images-11.png"
-              },
-              {
-                "t": "p",
-                "x": "El mundo literario por fin se pregunta qué puede hacer un escritor humano que la inteligencia artificial no pueda. Las respuestas suelen girar en torno a la voz, la experiencia vivida y el matiz emocional, pero debajo late una palabra que la cultura literaria ha evitado: alma."
-              },
-              {
-                "t": "p",
-                "x": "La AI puede absorber todos los libros de una biblioteca y devolvernos nuestra sintaxis, pero no puede anhelar algo que no sabe nombrar ni llorar a un padre al que no ha amado y perdido. En la era de la AI, sostiene Charlotte Donlon, el alma del escritor es lo único que no puede replicarse, y no hemos construido la infraestructura para cuidarla."
-              },
-              {
-                "t": "p",
-                "x": "Propone que los congresos literarios añadan sesiones sobre la vida interior y las prácticas creativas sostenibles, que los programas de MFA ofrezcan cursos optativos sobre contemplación y que las residencias honren el tiempo de retiro como cuidado del alma (soul-tending). “La AI mejorará, pero nunca desarrollará la capacidad de anhelo genuino, duelo o autoexamen ético (self-interrogation)”."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "五家出版商将20m 篇论文\n经Redpine开放给AI",
+     "body": "BMJ Group、Sage等五家出版商经Redpine向AI代理开放2000万篇论文。",
+     "mini_headline": "20m 篇论文开放给AI智能体",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Redpine CEO Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Redpine: cinco editoriales abren\n20m de artículos a agentes AI",
+     "body": "BMJ Group, Sage y otras tres editoriales abrirán 20 millones de artículos a agentes de AI vía Redpine, con licencia.",
+     "mini_headline": "20m de artículos para agentes de AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Anders Hammarbäck, CEO de Redpine"
+       },
+       {
+        "t": "p",
+        "x": "Cinco editoriales académicas –BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing y Wanfang Data– han cerrado un acuerdo con la empresa de AI Redpine para ofrecer a agentes de AI acceso con licencia a 20 millones de artículos de investigación revisados por pares."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "다섯 출판사 20m 편\nRedpine 통해 AI로",
+     "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
+     "mini_headline": "AI 에이전트용 논문 20m 편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Redpine CEO Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. AI 에이전트가 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 갖춘 방식으로 접근할 수 있게 하는 내용이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "出版五社が論文20m 本を\nRedpineでAIに開放",
+     "body": "BMJ Group、Sageなど五社がRedpineでAIに論文2000万本を開放する。",
+     "mini_headline": "AIエージェントに論文20m 本",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "RedpineのCEO、Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "五家出版商将20m 篇论文\n经Redpine开放给AI",
+     "body": "BMJ Group、Sage等五家出版商经Redpine向AI代理开放2000万篇论文。",
+     "mini_headline": "20m 篇论文开放给AI智能体",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Redpine CEO Anders Hammarbäck"
+       },
+       {
+        "t": "p",
+        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Redpine: cinco editoriales abren\n20m de artículos a agentes AI",
+     "body": "BMJ Group, Sage y otras tres editoriales abrirán 20 millones de artículos a agentes de AI vía Redpine, con licencia.",
+     "mini_headline": "20m de artículos para agentes de AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+        "cap": "Anders Hammarbäck, CEO de Redpine"
+       },
+       {
+        "t": "p",
+        "x": "Cinco editoriales académicas –BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing y Wanfang Data– han cerrado un acuerdo con la empresa de AI Redpine para ofrecer a agentes de AI acceso con licencia a 20 millones de artículos de investigación revisados por pares."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "books-frankfurt-lepore",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Frankfurt 개막\n모두의 화두는 AI",
+   "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
+   "mini_headline": "Frankfurt, AI로 개막",
+   "tool": "Books",
+   "source": "Publishing Perspectives",
+   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/",
+   "accent": "#0070f3",
+   "motif": "swatch",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+      "cap": "Jill Lepore (사진: Johannes Minkus)."
+     },
+     {
+      "t": "p",
+      "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑이 여전히 꽃피고 있다고 했다. 다만 모두가 주목하는 AI의 등장을 비롯해 업계 앞에 거대한 도전이 놓여 있다고 덧붙였다."
+     },
+     {
+      "t": "img",
+      "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+      "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
+     },
+     {
+      "t": "p",
+      "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
+     },
+     {
+      "t": "p",
+      "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분 기조연설에서 소수 테크 거물들 손에 넘어간 미래를 경계했다. “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 했다."
+     },
+     {
+      "t": "p",
+      "x": "Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”도 내놨다. 도서전은 10월 7–11일 이어진다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Frankfurt opens with AI\non everyone's mind",
+     "body": "At the fair's opening, Jill Lepore warned against handing the future to tech moguls as AI dominated the conversation.",
+     "mini_headline": "Frankfurt opens on AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore (credit: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "At the October 6 opening press conference for the 78th Frankfurter Buchmesse, Sebastian Guggolz, Chairman of the German Publishers and Booksellers Association, said the love of books is still flourishing, but the industry faces epic challenges, including the issue on everyone’s minds: the advent of AI."
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(From left): Torsten Casimir, Sebastian Guggolz, Juergen Boos and Jill Lepore (credit: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "“The problem of reading competence cannot be compensated by AI, which delivers answers at random,” Guggolz said, urging “immediate intervention” from world leaders."
+       },
+       {
+        "t": "p",
+        "x": "In a 15-minute keynote, Pulitzer Prize-winning historian Jill Lepore warned against a future handed over to a cadre of tech moguls. “We meet here this year on the knife-edge of history,” she said. “The sum of human knowledge that is contained in the world’s books has been swallowed whole by machines owned by corporations.”"
+       },
+       {
+        "t": "p",
+        "x": "Meanwhile, the Börsenverein has issued the “Frankfurt appeal,” calling on legislators for AI training-data transparency, a licensing market with fair revenue models, and robust enforcement of European copyright law. The fair runs October 7–11."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Frankfurt 개막\n모두의 화두는 AI",
+     "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
+     "mini_headline": "Frankfurt, AI로 개막",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore (사진: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑이 여전히 꽃피고 있다고 했다. 다만 모두가 주목하는 AI의 등장을 비롯해 업계 앞에 거대한 도전이 놓여 있다고 덧붙였다."
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분 기조연설에서 소수 테크 거물들 손에 넘어간 미래를 경계했다. “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 했다."
+       },
+       {
+        "t": "p",
+        "x": "Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”도 내놨다. 도서전은 10월 7–11일 이어진다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Frankfurt開幕\n話題の中心はAI",
+     "body": "開幕でJill Leporeは、AIが席巻する中、未来をテック富豪に委ねるなと警告した。",
+     "mini_headline": "Frankfurt、AIで開幕",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore(写真: Johannes Minkus)。"
+       },
+       {
+        "t": "p",
+        "x": "10月6日に開かれた第78回Frankfurter Buchmesseの開幕記者会見で、ドイツ出版・書籍販売業者協会のSebastian Guggolz会長は、本への愛は今も花開いているが、業界は誰もが気にかける問題、すなわちAIの到来を含む大きな課題に直面していると述べた。"
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(左から)Torsten Casimir、Sebastian Guggolz、Juergen Boos、Jill Lepore(写真: Johannes Minkus)。"
+       },
+       {
+        "t": "p",
+        "x": "Guggolzは「読解力の問題は、でたらめに答えを出すAIでは補えない」と述べ、世界の指導者に「即時の介入」を求めた。"
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning(ピューリッツァー賞受賞)の歴史家Jill Leporeは15分間の基調講演で、一握りのテック富豪に委ねられた未来に警鐘を鳴らした。「私たちは今年、歴史の瀬戸際でここに集っている」と述べ、「世界の本に収められた人類の知の総体は、企業が所有する機械に丸ごと飲み込まれた」と語った。"
+       },
+       {
+        "t": "p",
+        "x": "一方、Börsenvereinは「Frankfurt appeal」を発表し、AI学習データの透明性、公正な収益モデルを備えたライセンス市場、欧州著作権法の厳格な執行を立法者に求めた。ブックフェアは10月7–11日に開催される。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Frankfurt书展开幕\n人人都在谈AI",
+     "body": "书展开幕之际，Jill Lepore警告勿把未来交给科技大亨，AI成为全场焦点。",
+     "mini_headline": "Frankfurt书展以AI开场",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore（摄影：Johannes Minkus）。"
+       },
+       {
+        "t": "p",
+        "x": "在10月6日举行的第78届Frankfurter Buchmesse开幕新闻发布会上，德国出版商与书商协会主席Sebastian Guggolz表示，人们对书的热爱依然旺盛，但行业正面临巨大挑战，其中包括人人关注的问题：AI的到来。"
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "（左起）Torsten Casimir、Sebastian Guggolz、Juergen Boos和Jill Lepore（摄影：Johannes Minkus）。"
+       },
+       {
+        "t": "p",
+        "x": "Guggolz说：“随机给出答案的AI无法弥补阅读能力的问题。”他敦促世界各国领导人“立即干预”。"
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning（普利策奖得主）历史学家Jill Lepore在15分钟的主旨演讲中警告，不应让未来落入一小撮科技大亨之手。她说：“今年我们相聚于此，正站在历史的刀锋之上。”她还说：“世界书籍中蕴含的人类知识总和，已被企业拥有的机器整个吞没。”"
+       },
+       {
+        "t": "p",
+        "x": "与此同时，Börsenverein发布了“Frankfurt appeal”，呼吁立法者推动AI训练数据透明化、建立具备公平收益模式的授权市场，并严格执行欧洲版权法。书展于10月7–11日举行。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Frankfurt abre con la AI\nen boca de todos",
+     "body": "En la inauguración, dominada por la AI, Jill Lepore advirtió contra ceder el futuro a los magnates tecnológicos.",
+     "mini_headline": "Frankfurt abre con la AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore (foto: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "En la rueda de prensa inaugural del 6 de octubre de la 78.ª Frankfurter Buchmesse, Sebastian Guggolz, presidente de la Asociación Alemana de Editores y Libreros, dijo que el amor por los libros sigue floreciendo, pero que la industria afronta desafíos enormes, entre ellos el asunto que ocupa todas las mentes: la llegada de la AI."
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(Desde la izquierda): Torsten Casimir, Sebastian Guggolz, Juergen Boos y Jill Lepore (foto: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "“El problema de la competencia lectora no puede compensarse con la AI, que da respuestas al azar”, dijo Guggolz, quien pidió una “intervención inmediata” a los líderes mundiales."
+       },
+       {
+        "t": "p",
+        "x": "En una conferencia magistral de 15 minutos, la historiadora Jill Lepore, ganadora del premio Pulitzer (Pulitzer Prize-winning), advirtió contra un futuro entregado a una camarilla de magnates tecnológicos. “Este año nos reunimos aquí en el filo de la navaja de la historia”, dijo. “La suma del conocimiento humano contenida en los libros del mundo ha sido engullida por completo por máquinas propiedad de corporaciones”."
+       },
+       {
+        "t": "p",
+        "x": "Mientras tanto, el Börsenverein ha emitido el “Frankfurt appeal”, que pide a los legisladores transparencia en los datos de entrenamiento de AI, un mercado de licencias con modelos de ingresos justos y una aplicación rigurosa de la ley europea de derechos de autor. La feria se celebra del 7 al 11 de octubre."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Frankfurt 개막\n모두의 화두는 AI",
+     "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
+     "mini_headline": "Frankfurt, AI로 개막",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore (사진: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑은 여전히 꽃피고 있지만, 업계는 모두가 주목하는 AI의 등장을 비롯해 거대한 도전에 직면해 있다고 말했다."
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분간의 기조연설에서 소수 테크 거물 집단에 넘겨진 미래를 경계했다. 그는 “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "한편 Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”을 발표했다. 도서전은 10월 7–11일 열린다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Frankfurt開幕\n話題の中心はAI",
+     "body": "開幕でJill Leporeは、AIが席巻する中、未来をテック富豪に委ねるなと警告した。",
+     "mini_headline": "Frankfurt、AIで開幕",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore(写真: Johannes Minkus)。"
+       },
+       {
+        "t": "p",
+        "x": "10月6日に開かれた第78回Frankfurter Buchmesseの開幕記者会見で、ドイツ出版・書籍販売業者協会のSebastian Guggolz会長は、本への愛は今も花開いているが、業界は誰もが気にかける問題、すなわちAIの到来を含む大きな課題に直面していると述べた。"
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(左から)Torsten Casimir、Sebastian Guggolz、Juergen Boos、Jill Lepore(写真: Johannes Minkus)。"
+       },
+       {
+        "t": "p",
+        "x": "Guggolzは「読解力の問題は、でたらめに答えを出すAIでは補えない」と述べ、世界の指導者に「即時の介入」を求めた。"
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning(ピューリッツァー賞受賞)の歴史家Jill Leporeは15分間の基調講演で、一握りのテック富豪に委ねられた未来に警鐘を鳴らした。「私たちは今年、歴史の瀬戸際でここに集っている」と述べ、「世界の本に収められた人類の知の総体は、企業が所有する機械に丸ごと飲み込まれた」と語った。"
+       },
+       {
+        "t": "p",
+        "x": "一方、Börsenvereinは「Frankfurt appeal」を発表し、AI学習データの透明性、公正な収益モデルを備えたライセンス市場、欧州著作権法の厳格な執行を立法者に求めた。ブックフェアは10月7–11日に開催される。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Frankfurt书展开幕\n人人都在谈AI",
+     "body": "书展开幕之际，Jill Lepore警告勿把未来交给科技大亨，AI成为全场焦点。",
+     "mini_headline": "Frankfurt书展以AI开场",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore（摄影：Johannes Minkus）。"
+       },
+       {
+        "t": "p",
+        "x": "在10月6日举行的第78届Frankfurter Buchmesse开幕新闻发布会上，德国出版商与书商协会主席Sebastian Guggolz表示，人们对书的热爱依然旺盛，但行业正面临巨大挑战，其中包括人人关注的问题：AI的到来。"
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "（左起）Torsten Casimir、Sebastian Guggolz、Juergen Boos和Jill Lepore（摄影：Johannes Minkus）。"
+       },
+       {
+        "t": "p",
+        "x": "Guggolz说：“随机给出答案的AI无法弥补阅读能力的问题。”他敦促世界各国领导人“立即干预”。"
+       },
+       {
+        "t": "p",
+        "x": "Pulitzer Prize-winning（普利策奖得主）历史学家Jill Lepore在15分钟的主旨演讲中警告，不应让未来落入一小撮科技大亨之手。她说：“今年我们相聚于此，正站在历史的刀锋之上。”她还说：“世界书籍中蕴含的人类知识总和，已被企业拥有的机器整个吞没。”"
+       },
+       {
+        "t": "p",
+        "x": "与此同时，Börsenverein发布了“Frankfurt appeal”，呼吁立法者推动AI训练数据透明化、建立具备公平收益模式的授权市场，并严格执行欧洲版权法。书展于10月7–11日举行。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Frankfurt abre con la AI\nen boca de todos",
+     "body": "En la inauguración, dominada por la AI, Jill Lepore advirtió contra ceder el futuro a los magnates tecnológicos.",
+     "mini_headline": "Frankfurt abre con la AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
+        "cap": "Jill Lepore (foto: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "En la rueda de prensa inaugural del 6 de octubre de la 78.ª Frankfurter Buchmesse, Sebastian Guggolz, presidente de la Asociación Alemana de Editores y Libreros, dijo que el amor por los libros sigue floreciendo, pero que la industria afronta desafíos enormes, entre ellos el asunto que ocupa todas las mentes: la llegada de la AI."
+       },
+       {
+        "t": "img",
+        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
+        "cap": "(Desde la izquierda): Torsten Casimir, Sebastian Guggolz, Juergen Boos y Jill Lepore (foto: Johannes Minkus)."
+       },
+       {
+        "t": "p",
+        "x": "“El problema de la competencia lectora no puede compensarse con la AI, que da respuestas al azar”, dijo Guggolz, quien pidió una “intervención inmediata” a los líderes mundiales."
+       },
+       {
+        "t": "p",
+        "x": "En una conferencia magistral de 15 minutos, la historiadora Jill Lepore, ganadora del premio Pulitzer (Pulitzer Prize-winning), advirtió contra un futuro entregado a una camarilla de magnates tecnológicos. “Este año nos reunimos aquí en el filo de la navaja de la historia”, dijo. “La suma del conocimiento humano contenida en los libros del mundo ha sido engullida por completo por máquinas propiedad de corporaciones”."
+       },
+       {
+        "t": "p",
+        "x": "Mientras tanto, el Börsenverein ha emitido el “Frankfurt appeal”, que pide a los legisladores transparencia en los datos de entrenamiento de AI, un mercado de licencias con modelos de ingresos justos y una aplicación rigurosa de la ley europea de derechos de autor. La feria se celebra del 7 al 11 de octubre."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "books-roose",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
+   "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
+   "mini_headline": "Roose의 AI 책, AI 없이",
+   "tool": "Books",
+   "source": "WIRED",
+   "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
+   "accent": "#7928ca",
+   "motif": "swatch",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+     },
+     {
+      "t": "p",
+      "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 두 가지를 이야기한다. 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles다. Roose는 약 한 해 동안 취재하고 글을 쓰며 150명 넘는 사람을 만났다."
+     },
+     {
+      "t": "p",
+      "x": "Drummond가 이 책을 Pangram으로 검사해 봤다고 하자 Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 곁에서 도왔다."
+     },
+     {
+      "t": "p",
+      "x": "그래도 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 썼고 취재 업무와 메모 정리에도 도움을 받았다. 팩트체크에는 인간 팩트체커와 함께 “AI swarm”을 돌렸다. 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 불러 썼다."
+     },
+     {
+      "t": "p",
+      "x": "Roose가 보기에 독자는 책을 사람이 썼는지 크게 신경 쓴다. 작가가 작업 과정을 보여줘야 독자도 그 안에 담긴 노동과 이어질 수 있다는 게 그의 말이다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Kevin Roose's AI book\nwas written without AI",
+     "body": "Kevin Roose says The AGI Chronicles was written by a tired, overworked human, not by the AI it covers.",
+     "mini_headline": "Roose's AI book, no AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "On WIRED’s Big Interview, Katie Drummond talks with Kevin Roose about his new media company Machine Gods Media, launched with Casey Newton, and his book The AGI Chronicles, which follows OpenAI, Anthropic and Google. Roose spent about a year reporting and writing and talked to more than 150 people."
+       },
+       {
+        "t": "p",
+        "x": "Drummond says she ran the book through Pangram. Roose: “It was written by a very tired, overworked, underslept human being,” with help from researcher Jasmine Sun and human editors at FSG."
+       },
+       {
+        "t": "p",
+        "x": "He did use AI around the writing: a giant NotebookLM notebook of research, interview transcripts and papers he queried “like a supercharged search function,” help with reporting tasks and organizing notes, an “AI swarm” for fact-checks alongside a human fact-checker, and a “Council of Claudes” giving editorial feedback from different vantage points."
+       },
+       {
+        "t": "p",
+        "x": "Roose thinks readers care a lot whether a human wrote a book, and says writers should show their process so people can connect with the labor involved."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
+     "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
+     "mini_headline": "Roose의 AI 책, AI 없이",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 두 가지를 이야기한다. 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles다. Roose는 약 한 해 동안 취재하고 글을 쓰며 150명 넘는 사람을 만났다."
+       },
+       {
+        "t": "p",
+        "x": "Drummond가 이 책을 Pangram으로 검사해 봤다고 하자 Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 곁에서 도왔다."
+       },
+       {
+        "t": "p",
+        "x": "그래도 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 썼고 취재 업무와 메모 정리에도 도움을 받았다. 팩트체크에는 인간 팩트체커와 함께 “AI swarm”을 돌렸다. 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 불러 썼다."
+       },
+       {
+        "t": "p",
+        "x": "Roose가 보기에 독자는 책을 사람이 썼는지 크게 신경 쓴다. 작가가 작업 과정을 보여줘야 독자도 그 안에 담긴 노동과 이어질 수 있다는 게 그의 말이다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Kevin Rooseの\nAI本はAIなしで執筆",
+     "body": "Kevin RooseはThe AGI ChroniclesをAIなしで書いたと語る。",
+     "mini_headline": "RooseのAI本、AIなし",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "WIREDのBig Interviewで、Katie DrummondはKevin Rooseと、Casey Newtonと立ち上げた新メディア企業Machine Gods Media、そしてOpenAI、Anthropic、Googleを追った著書The AGI Chroniclesについて語り合う。Rooseは約一年をかけて取材と執筆を行い、150人以上に話を聞いた。"
+       },
+       {
+        "t": "p",
+        "x": "Drummondはこの本をPangramにかけたという。Rooseによれば、本書は「とても疲れて、働きすぎで、寝不足の人間が書いた」もので、リサーチャーのJasmine SunとFSGの人間の編集者が手を貸した。"
+       },
+       {
+        "t": "p",
+        "x": "ただし執筆の周辺ではAIを使った。調査資料やインタビューの書き起こし、論文を集めた巨大なNotebookLMのノートブックを「強化された検索機能のように」使い、取材作業やメモの整理にも助けを借りた。人間のファクトチェッカーと並行してファクトチェック用の「AI swarm」を走らせ、さまざまな視点から編集上のフィードバックを返す「Council of Claudes」も用いた。"
+       },
+       {
+        "t": "p",
+        "x": "Rooseは、読者は本を人間が書いたかどうかを強く気にしていると考える。書き手は自らのプロセスを示し、そこに注がれた労働に人々が共感できるようにすべきだと語る。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Kevin Roose的\nAI之书未用AI",
+     "body": "Kevin Roose称，The AGI Chronicles由疲惫的人类而非AI写成。",
+     "mini_headline": "Roose的AI书，不用AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "在WIRED的Big Interview中，Katie Drummond与Kevin Roose谈到他和Casey Newton共同创办的新媒体公司Machine Gods Media，以及他追踪OpenAI、Anthropic和Google的新书The AGI Chronicles。Roose花了大约一年时间采访和写作，与150多人交谈过。"
+       },
+       {
+        "t": "p",
+        "x": "Drummond说她用Pangram检测过这本书。Roose表示：“这本书是由一个非常疲惫、过度劳累、睡眠不足的人类写成的。”研究员Jasmine Sun和FSG的人类编辑也提供了帮助。"
+       },
+       {
+        "t": "p",
+        "x": "不过，他在写作之外确实用了AI：一个装满研究资料、采访记录和论文的庞大NotebookLM笔记本，他“像使用超强搜索功能一样”查询它；AI还协助他完成采访任务、整理笔记；一个“AI swarm”与人类事实核查员一起核查事实；还有一个“Council of Claudes”从不同角度提供编辑反馈。"
+       },
+       {
+        "t": "p",
+        "x": "Roose认为读者非常在意一本书是否由人类写成，并表示作者应展示自己的创作过程，让人们能与其中付出的劳动产生共鸣。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El libro sobre AI de Kevin Roose\nse escribió sin AI",
+     "body": "Kevin Roose dice que The AGI Chronicles lo escribió un humano cansado y sobrecargado, no la AI de la que trata.",
+     "mini_headline": "El libro de Roose sobre AI, sin AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "En el Big Interview de WIRED, Katie Drummond conversa con Kevin Roose sobre su nueva empresa de medios, Machine Gods Media, fundada con Casey Newton, y sobre su libro The AGI Chronicles, que sigue a OpenAI, Anthropic y Google. Roose dedicó cerca de un año a investigar y escribir, y habló con más de 150 personas."
+       },
+       {
+        "t": "p",
+        "x": "Drummond dice que pasó el libro por Pangram. Roose: “Lo escribió un ser humano muy cansado, con exceso de trabajo y falto de sueño”, con la ayuda de la investigadora Jasmine Sun y de editores humanos de FSG."
+       },
+       {
+        "t": "p",
+        "x": "Sí usó AI en torno a la escritura: un enorme cuaderno de NotebookLM con investigación, transcripciones de entrevistas y artículos que consultaba “como una función de búsqueda potenciada”, ayuda con tareas de reporterismo y organización de notas, un “AI swarm” para verificar datos junto a un verificador humano y un “Council of Claudes” que le daba comentarios editoriales desde distintos puntos de vista."
+       },
+       {
+        "t": "p",
+        "x": "Roose cree que a los lectores les importa mucho si un libro lo escribió un humano, y dice que los escritores deberían mostrar su proceso para que la gente conecte con el trabajo que implica."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
+     "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
+     "mini_headline": "Roose의 AI 책, AI 없이",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 함께 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles에 관해 이야기를 나눈다. Roose는 약 한 해 동안 취재와 집필을 하며 150명 넘는 사람을 만났다."
+       },
+       {
+        "t": "p",
+        "x": "Drummond는 이 책을 Pangram으로 검사해 봤다고 말한다. Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 도왔다."
+       },
+       {
+        "t": "p",
+        "x": "다만 그는 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 활용했고, 취재 업무와 메모 정리에도 도움을 받았다. 인간 팩트체커와 함께 팩트체크용 “AI swarm”을 돌렸고, 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 활용했다."
+       },
+       {
+        "t": "p",
+        "x": "Roose는 독자들이 책을 사람이 썼는지를 크게 신경 쓴다고 본다. 그래서 작가가 자신의 작업 과정을 보여줘야 사람들이 그 안에 담긴 노동과 이어질 수 있다고 말한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Kevin Rooseの\nAI本はAIなしで執筆",
+     "body": "Kevin RooseはThe AGI ChroniclesをAIなしで書いたと語る。",
+     "mini_headline": "RooseのAI本、AIなし",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "WIREDのBig Interviewで、Katie DrummondはKevin Rooseと、Casey Newtonと立ち上げた新メディア企業Machine Gods Media、そしてOpenAI、Anthropic、Googleを追った著書The AGI Chroniclesについて語り合う。Rooseは約一年をかけて取材と執筆を行い、150人以上に話を聞いた。"
+       },
+       {
+        "t": "p",
+        "x": "Drummondはこの本をPangramにかけたという。Rooseによれば、本書は「とても疲れて、働きすぎで、寝不足の人間が書いた」もので、リサーチャーのJasmine SunとFSGの人間の編集者が手を貸した。"
+       },
+       {
+        "t": "p",
+        "x": "ただし執筆の周辺ではAIを使った。調査資料やインタビューの書き起こし、論文を集めた巨大なNotebookLMのノートブックを「強化された検索機能のように」使い、取材作業やメモの整理にも助けを借りた。人間のファクトチェッカーと並行してファクトチェック用の「AI swarm」を走らせ、さまざまな視点から編集上のフィードバックを返す「Council of Claudes」も用いた。"
+       },
+       {
+        "t": "p",
+        "x": "Rooseは、読者は本を人間が書いたかどうかを強く気にしていると考える。書き手は自らのプロセスを示し、そこに注がれた労働に人々が共感できるようにすべきだと語る。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Kevin Roose的\nAI之书未用AI",
+     "body": "Kevin Roose称，The AGI Chronicles由疲惫的人类而非AI写成。",
+     "mini_headline": "Roose的AI书，不用AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "在WIRED的Big Interview中，Katie Drummond与Kevin Roose谈到他和Casey Newton共同创办的新媒体公司Machine Gods Media，以及他追踪OpenAI、Anthropic和Google的新书The AGI Chronicles。Roose花了大约一年时间采访和写作，与150多人交谈过。"
+       },
+       {
+        "t": "p",
+        "x": "Drummond说她用Pangram检测过这本书。Roose表示：“这本书是由一个非常疲惫、过度劳累、睡眠不足的人类写成的。”研究员Jasmine Sun和FSG的人类编辑也提供了帮助。"
+       },
+       {
+        "t": "p",
+        "x": "不过，他在写作之外确实用了AI：一个装满研究资料、采访记录和论文的庞大NotebookLM笔记本，他“像使用超强搜索功能一样”查询它；AI还协助他完成采访任务、整理笔记；一个“AI swarm”与人类事实核查员一起核查事实；还有一个“Council of Claudes”从不同角度提供编辑反馈。"
+       },
+       {
+        "t": "p",
+        "x": "Roose认为读者非常在意一本书是否由人类写成，并表示作者应展示自己的创作过程，让人们能与其中付出的劳动产生共鸣。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "El libro sobre AI de Kevin Roose\nse escribió sin AI",
+     "body": "Kevin Roose dice que The AGI Chronicles lo escribió un humano cansado y sobrecargado, no la AI de la que trata.",
+     "mini_headline": "El libro de Roose sobre AI, sin AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
+       },
+       {
+        "t": "p",
+        "x": "En el Big Interview de WIRED, Katie Drummond conversa con Kevin Roose sobre su nueva empresa de medios, Machine Gods Media, fundada con Casey Newton, y sobre su libro The AGI Chronicles, que sigue a OpenAI, Anthropic y Google. Roose dedicó cerca de un año a investigar y escribir, y habló con más de 150 personas."
+       },
+       {
+        "t": "p",
+        "x": "Drummond dice que pasó el libro por Pangram. Roose: “Lo escribió un ser humano muy cansado, con exceso de trabajo y falto de sueño”, con la ayuda de la investigadora Jasmine Sun y de editores humanos de FSG."
+       },
+       {
+        "t": "p",
+        "x": "Sí usó AI en torno a la escritura: un enorme cuaderno de NotebookLM con investigación, transcripciones de entrevistas y artículos que consultaba “como una función de búsqueda potenciada”, ayuda con tareas de reporterismo y organización de notas, un “AI swarm” para verificar datos junto a un verificador humano y un “Council of Claudes” que le daba comentarios editoriales desde distintos puntos de vista."
+       },
+       {
+        "t": "p",
+        "x": "Roose cree que a los lectores les importa mucho si un libro lo escribió un humano, y dice que los escritores deberían mostrar su proceso para que la gente conecte con el trabajo que implica."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "books-ssp-integrity",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "AI 투고에\n짓눌린 연구 무결성",
+   "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고에 무결성이 흔들린다.",
+   "mini_headline": "AI가 연구 무결성 압박",
+   "tool": "Books",
+   "source": "The Scholarly Kitchen",
+   "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
+   "accent": "#2ec5c5",
+   "motif": "swatch",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "p",
+      "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하는지 물었다."
+     },
+     {
+      "t": "img",
+      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+      "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
+     },
+     {
+      "t": "p",
+      "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 우려 상위 세 가지 안에 꼽았다. 페이퍼 밀(44%)과 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
+     },
+     {
+      "t": "img",
+      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+      "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
+     },
+     {
+      "t": "p",
+      "x": "정작 출판 전에 AI-generated 원고를 걸러낼 수 있다고 매우 또는 극도로 확신한 응답은 10%뿐이었다. 49%는 약간 확신하거나 전혀 확신하지 못했다."
+     },
+     {
+      "t": "img",
+      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+      "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
+     },
+     {
+      "t": "p",
+      "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓴다. 94%가 무결성 조치를 하나 이상 시행하지만 63%는 생태계가 학술 기록을 지키고 있다고 거의 확신하지 못했다."
+     },
+     {
+      "t": "img",
+      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+      "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
+     },
+     {
+      "t": "p",
+      "x": "가장 큰 근본 원인은 Publish-or-perish(출판하지 않으면 도태) 인센티브였다. 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 뒤를 이었다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Survey: AI submissions strain\nresearch integrity",
+     "body": "SSP's Pulse Check survey finds paper mills and AI-made submissions straining publishers' integrity systems.",
+     "mini_headline": "AI strains research integrity",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSP’s September 2026 Pulse Check Poll asked 181 people across scholarly publishing how they are responding to research integrity challenges."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "Which research integrity challenges represent the greatest concern for your organization today?"
+       },
+       {
+        "t": "p",
+        "x": "73% named AI-generated or AI-manipulated manuscripts as a top-three concern, followed by paper mills (44%) and false references or AI-generated hallucinations (41%)."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "How confident is your organization in its ability to detect the following issues before publication or dissemination?"
+       },
+       {
+        "t": "p",
+        "x": "Yet only 10% are very or extremely confident they can detect AI-generated manuscripts before publication, and 49% are slightly or not at all confident."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "Overall, what is the impact that artificial intelligence is having on research integrity today?"
+       },
+       {
+        "t": "p",
+        "x": "95% agree AI is creating new integrity risks, while 54% already use AI-assisted screening tools. Despite 94% implementing at least one integrity measure, 63% have little confidence the ecosystem is protecting the scholarly record."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "Rank the root causes in order of perceived impact."
+       },
+       {
+        "t": "p",
+        "x": "Publish-or-perish incentives rank as the leading root cause, with generative AI outpacing policy and detection a close second."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "AI 투고에\n짓눌린 연구 무결성",
+     "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고에 무결성이 흔들린다.",
+     "mini_headline": "AI가 연구 무결성 압박",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하는지 물었다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
+       },
+       {
+        "t": "p",
+        "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 우려 상위 세 가지 안에 꼽았다. 페이퍼 밀(44%)과 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
+       },
+       {
+        "t": "p",
+        "x": "정작 출판 전에 AI-generated 원고를 걸러낼 수 있다고 매우 또는 극도로 확신한 응답은 10%뿐이었다. 49%는 약간 확신하거나 전혀 확신하지 못했다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
+       },
+       {
+        "t": "p",
+        "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓴다. 94%가 무결성 조치를 하나 이상 시행하지만 63%는 생태계가 학술 기록을 지키고 있다고 거의 확신하지 못했다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
+       },
+       {
+        "t": "p",
+        "x": "가장 큰 근본 원인은 Publish-or-perish(출판하지 않으면 도태) 인센티브였다. 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 뒤를 이었다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "調査：AIの投稿が\n研究公正を圧迫",
+     "body": "SSPのPulse Checkによると、論文工場とAI-made投稿が公正性を圧迫する。",
+     "mini_headline": "AIが研究公正を圧迫",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSPの2026年9月のPulse Check Pollは、学術出版に携わる181人に、研究公正の課題にどう対応しているかを尋ねた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "現在、貴組織にとって最大の懸念となっている研究公正上の課題はどれか?"
+       },
+       {
+        "t": "p",
+        "x": "73%がAI-generated(AI生成)またはAI-manipulated(AI改ざん)の原稿を上位三つの懸念に挙げ、論文工場(44%)、虚偽の参考文献やAI-generatedのハルシネーション(41%)が続いた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "出版・公開前に以下の問題を検出できることに、貴組織はどの程度自信があるか?"
+       },
+       {
+        "t": "p",
+        "x": "しかし、出版前にAI-generatedの原稿を検出できることに非常に、または極めて自信があるのは10%にとどまり、49%はわずかにしか自信がない、またはまったく自信がないと答えた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "全体として、人工知能は現在の研究公正にどのような影響を与えているか?"
+       },
+       {
+        "t": "p",
+        "x": "95%がAIは新たな公正性リスクを生んでいると同意し、54%はすでにAI-assisted(AI支援)のスクリーニングツールを使っている。94%が少なくとも一つの公正性対策を実施しているにもかかわらず、63%はエコシステムが学術記録を守れているという自信をほとんど持っていない。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "根本原因を、影響が大きいと思う順に並べよ。"
+       },
+       {
+        "t": "p",
+        "x": "根本原因の最上位はPublish-or-perish(出版か死か)のインセンティブで、政策や検出を上回る速さで進む生成AIが僅差でそれに続いた。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "调查：AI投稿\n冲击科研诚信",
+     "body": "SSP的Pulse Check调查发现，论文工厂和AI-made投稿冲击出版商诚信体系。",
+     "mini_headline": "AI冲击科研诚信",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSP于2026年9月开展的Pulse Check Poll询问了学术出版领域的181人，了解他们如何应对科研诚信挑战。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "目前，哪些科研诚信挑战是贵机构最担忧的？"
+       },
+       {
+        "t": "p",
+        "x": "73%的受访者将AI-generated（AI生成）或AI-manipulated（AI篡改）稿件列为前三大担忧之一，其次是论文工厂（44%）以及虚假参考文献或AI-generated幻觉（41%）。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "贵机构对在出版或传播前发现以下问题的能力有多大信心？"
+       },
+       {
+        "t": "p",
+        "x": "然而，只有10%的人对在出版前发现AI-generated稿件非常或极其有信心，49%的人只有一点信心或完全没有信心。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "总体而言，人工智能目前对科研诚信产生了怎样的影响？"
+       },
+       {
+        "t": "p",
+        "x": "95%的人认同AI正在带来新的诚信风险，54%已在使用AI-assisted（AI辅助）筛查工具。尽管94%至少实施了一项诚信措施，63%的人对整个生态系统能否守护学术记录缺乏信心。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "请按感知影响大小对根本原因进行排序。"
+       },
+       {
+        "t": "p",
+        "x": "Publish-or-perish（不发表就出局）的激励机制被列为首要根本原因，发展速度超过政策和检测的生成式AI以微弱差距位居其次。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Encuesta: los envíos con AI\ntensan la integridad científica",
+     "body": "Según el Pulse Check de SSP, las fábricas de artículos y los envíos AI-made tensan la integridad editorial.",
+     "mini_headline": "La AI tensa la integridad científica",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "El Pulse Check Poll de SSP de septiembre de 2026 preguntó a 181 personas del ámbito de la edición académica cómo están respondiendo a los desafíos de integridad de la investigación."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "¿Qué desafíos de integridad de la investigación representan hoy la mayor preocupación para su organización?"
+       },
+       {
+        "t": "p",
+        "x": "El 73% señaló los manuscritos generados o manipulados con AI (AI-generated o AI-manipulated) como una de sus tres principales preocupaciones, seguidos de las fábricas de artículos (44%) y las referencias falsas o alucinaciones AI-generated (41%)."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "¿Qué grado de confianza tiene su organización en su capacidad para detectar los siguientes problemas antes de la publicación o difusión?"
+       },
+       {
+        "t": "p",
+        "x": "Sin embargo, solo el 10% confía mucho o muchísimo en poder detectar manuscritos generados con AI (AI-generated) antes de su publicación, y el 49% confía poco o nada."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "En general, ¿qué impacto está teniendo hoy la inteligencia artificial en la integridad de la investigación?"
+       },
+       {
+        "t": "p",
+        "x": "El 95% coincide en que la AI está creando nuevos riesgos para la integridad, y el 54% ya usa herramientas de cribado asistidas por AI (AI-assisted). Aunque el 94% aplica al menos una medida de integridad, el 63% confía poco en que el ecosistema esté protegiendo el registro académico."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "Ordene las causas de fondo según su impacto percibido."
+       },
+       {
+        "t": "p",
+        "x": "Los incentivos de “publicar o perecer” (Publish-or-perish) figuran como la principal causa de fondo, y la AI generativa, que avanza más rápido que las políticas y la detección, queda en un ajustado segundo lugar."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "조사: AI 투고가\n연구 무결성 압박",
+     "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고가 무결성을 압박한다.",
+     "mini_headline": "AI가 연구 무결성 압박",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하고 있는지 물었다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
+       },
+       {
+        "t": "p",
+        "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 상위 세 가지 우려 사항으로 꼽았고, 페이퍼 밀(44%), 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
+       },
+       {
+        "t": "p",
+        "x": "그러나 출판 전에 AI-generated 원고를 탐지할 수 있다고 매우 또는 극도로 확신하는 응답은 10%에 그쳤고, 49%는 약간 확신하거나 전혀 확신하지 못했다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
+       },
+       {
+        "t": "p",
+        "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고, 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓰고 있다. 94%가 무결성 조치를 하나 이상 시행하고 있지만, 63%는 생태계가 학술 기록을 지키고 있다는 데 확신이 거의 없었다."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
+       },
+       {
+        "t": "p",
+        "x": "가장 큰 근본 원인으로는 Publish-or-perish(출판하지 않으면 도태) 인센티브가 꼽혔고, 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 그 뒤를 이었다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "調査：AIの投稿が\n研究公正を圧迫",
+     "body": "SSPのPulse Checkによると、論文工場とAI-made投稿が公正性を圧迫する。",
+     "mini_headline": "AIが研究公正を圧迫",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSPの2026年9月のPulse Check Pollは、学術出版に携わる181人に、研究公正の課題にどう対応しているかを尋ねた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "現在、貴組織にとって最大の懸念となっている研究公正上の課題はどれか?"
+       },
+       {
+        "t": "p",
+        "x": "73%がAI-generated(AI生成)またはAI-manipulated(AI改ざん)の原稿を上位三つの懸念に挙げ、論文工場(44%)、虚偽の参考文献やAI-generatedのハルシネーション(41%)が続いた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "出版・公開前に以下の問題を検出できることに、貴組織はどの程度自信があるか?"
+       },
+       {
+        "t": "p",
+        "x": "しかし、出版前にAI-generatedの原稿を検出できることに非常に、または極めて自信があるのは10%にとどまり、49%はわずかにしか自信がない、またはまったく自信がないと答えた。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "全体として、人工知能は現在の研究公正にどのような影響を与えているか?"
+       },
+       {
+        "t": "p",
+        "x": "95%がAIは新たな公正性リスクを生んでいると同意し、54%はすでにAI-assisted(AI支援)のスクリーニングツールを使っている。94%が少なくとも一つの公正性対策を実施しているにもかかわらず、63%はエコシステムが学術記録を守れているという自信をほとんど持っていない。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "根本原因を、影響が大きいと思う順に並べよ。"
+       },
+       {
+        "t": "p",
+        "x": "根本原因の最上位はPublish-or-perish(出版か死か)のインセンティブで、政策や検出を上回る速さで進む生成AIが僅差でそれに続いた。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "调查：AI投稿\n冲击科研诚信",
+     "body": "SSP的Pulse Check调查发现，论文工厂和AI-made投稿冲击出版商诚信体系。",
+     "mini_headline": "AI冲击科研诚信",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "SSP于2026年9月开展的Pulse Check Poll询问了学术出版领域的181人，了解他们如何应对科研诚信挑战。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "目前，哪些科研诚信挑战是贵机构最担忧的？"
+       },
+       {
+        "t": "p",
+        "x": "73%的受访者将AI-generated（AI生成）或AI-manipulated（AI篡改）稿件列为前三大担忧之一，其次是论文工厂（44%）以及虚假参考文献或AI-generated幻觉（41%）。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "贵机构对在出版或传播前发现以下问题的能力有多大信心？"
+       },
+       {
+        "t": "p",
+        "x": "然而，只有10%的人对在出版前发现AI-generated稿件非常或极其有信心，49%的人只有一点信心或完全没有信心。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "总体而言，人工智能目前对科研诚信产生了怎样的影响？"
+       },
+       {
+        "t": "p",
+        "x": "95%的人认同AI正在带来新的诚信风险，54%已在使用AI-assisted（AI辅助）筛查工具。尽管94%至少实施了一项诚信措施，63%的人对整个生态系统能否守护学术记录缺乏信心。"
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "请按感知影响大小对根本原因进行排序。"
+       },
+       {
+        "t": "p",
+        "x": "Publish-or-perish（不发表就出局）的激励机制被列为首要根本原因，发展速度超过政策和检测的生成式AI以微弱差距位居其次。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Encuesta: los envíos con AI\ntensan la integridad científica",
+     "body": "Según el Pulse Check de SSP, las fábricas de artículos y los envíos AI-made tensan la integridad editorial.",
+     "mini_headline": "La AI tensa la integridad científica",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "p",
+        "x": "El Pulse Check Poll de SSP de septiembre de 2026 preguntó a 181 personas del ámbito de la edición académica cómo están respondiendo a los desafíos de integridad de la investigación."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
+        "cap": "¿Qué desafíos de integridad de la investigación representan hoy la mayor preocupación para su organización?"
+       },
+       {
+        "t": "p",
+        "x": "El 73% señaló los manuscritos generados o manipulados con AI (AI-generated o AI-manipulated) como una de sus tres principales preocupaciones, seguidos de las fábricas de artículos (44%) y las referencias falsas o alucinaciones AI-generated (41%)."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
+        "cap": "¿Qué grado de confianza tiene su organización en su capacidad para detectar los siguientes problemas antes de la publicación o difusión?"
+       },
+       {
+        "t": "p",
+        "x": "Sin embargo, solo el 10% confía mucho o muchísimo en poder detectar manuscritos generados con AI (AI-generated) antes de su publicación, y el 49% confía poco o nada."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
+        "cap": "En general, ¿qué impacto está teniendo hoy la inteligencia artificial en la integridad de la investigación?"
+       },
+       {
+        "t": "p",
+        "x": "El 95% coincide en que la AI está creando nuevos riesgos para la integridad, y el 54% ya usa herramientas de cribado asistidas por AI (AI-assisted). Aunque el 94% aplica al menos una medida de integridad, el 63% confía poco en que el ecosistema esté protegiendo el registro académico."
+       },
+       {
+        "t": "img",
+        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
+        "cap": "Ordene las causas de fondo según su impacto percibido."
+       },
+       {
+        "t": "p",
+        "x": "Los incentivos de “publicar o perecer” (Publish-or-perish) figuran como la principal causa de fondo, y la AI generativa, que avanza más rápido que las políticas y la detección, queda en un ajustado segundo lugar."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "books-libreoffice",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "LibreOffice의\n무기는 'AI 없음'",
+   "body": "LibreOffice는 데이터 통제권 때문에 기본 설치에 AI를 넣지 않는다.",
+   "mini_headline": "LibreOffice, 기본 AI 없다",
+   "tool": "Books",
+   "source": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+   "accent": "#eb367f",
+   "motif": "swatch",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+      "cap": "Image Credits: LibreOffice"
+     },
+     {
+      "t": "p",
+      "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않는다면서도 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
+     },
+     {
+      "t": "p",
+      "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어디에도 네트워크 연결이 필요 없게 하려는 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 했다."
+     },
+     {
+      "t": "p",
+      "x": "LibreOffice를 로컬 AI 모델과 잇는 확장 기능은 지금도 설치할 수 있다. 재단은 지금은 요건을 채우는 통합 기능이 없다며 이번 결정이 “최종적인 거부”가 아니라 현재 기술을 평가한 결과라고 설명했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "LibreOffice pitches 'no AI'\nas a software feature",
+     "body": "LibreOffice won't add AI to its default installation, citing users' control over where their data goes.",
+     "mini_headline": "LibreOffice: no AI by default",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "The Document Foundation, the nonprofit behind the open source document editor LibreOffice, said in a blog post this week that while it does not reject AI out of hand, it “will not add” AI to its software for the foreseeable future."
+       },
+       {
+        "t": "p",
+        "x": "Its latest release in late August “contains no generative AI features,” a “deliberate design position” so users’ documents are not uploaded to a server and no part of the software needs a network connection. “Any organisation handling confidential, legally privileged or personal data needs to know where that data goes, and the only assurance that survives an audit is that it does not leave the machine,” it said."
+       },
+       {
+        "t": "p",
+        "x": "Users can still install extensions that connect LibreOffice to local AI models. The nonprofit said no current integration meets its requirements, and called the decision an assessment of today’s technology rather than a “definitive rejection.”"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "LibreOffice의\n무기는 'AI 없음'",
+     "body": "LibreOffice는 데이터 통제권 때문에 기본 설치에 AI를 넣지 않는다.",
+     "mini_headline": "LibreOffice, 기본 AI 없다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않는다면서도 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
+       },
+       {
+        "t": "p",
+        "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어디에도 네트워크 연결이 필요 없게 하려는 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 했다."
+       },
+       {
+        "t": "p",
+        "x": "LibreOffice를 로컬 AI 모델과 잇는 확장 기능은 지금도 설치할 수 있다. 재단은 지금은 요건을 채우는 통합 기능이 없다며 이번 결정이 “최종적인 거부”가 아니라 현재 기술을 평가한 결과라고 설명했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "LibreOffice、\n「AIなし」を売りに",
+     "body": "LibreOfficeは、利用者がデータの行方を管理できるよう、標準でAIを載せない。",
+     "mini_headline": "LibreOffice、標準でAIなし",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "オープンソースの文書編集ソフトLibreOfficeを手がける非営利団体The Document Foundationは今週のブログ投稿で、AIを頭ごなしに否定するわけではないが、当面はソフトウェアにAIを「追加しない」と表明した。"
+       },
+       {
+        "t": "p",
+        "x": "8月下旬の最新リリースは「生成AI機能を一切含まない」。これはユーザーの文書がサーバーにアップロードされず、ソフトウェアのどの部分もネットワーク接続を必要としないようにするための「意図的な設計方針」だという。「機密情報や法的な秘匿特権のある情報、個人データを扱う組織は、そのデータがどこへ行くのかを知る必要がある。監査に耐えうる唯一の保証は、データがマシンから出ないことだ」と同団体は述べた。"
+       },
+       {
+        "t": "p",
+        "x": "ユーザーは引き続き、LibreOfficeをローカルAIモデルにつなぐ拡張機能をインストールできる。同団体は現時点で要件を満たす統合はないとし、今回の判断は「決定的な拒絶」ではなく、現在の技術に対する評価だと説明した。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "LibreOffice把\n“无AI”当作卖点",
+     "body": "LibreOffice称为让用户掌控数据去向，默认安装中不会加入AI。",
+     "mini_headline": "LibreOffice默认不含AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "开源文档编辑器LibreOffice背后的非营利组织The Document Foundation本周在一篇博客文章中表示，虽然并不一概排斥AI，但在可预见的未来，其软件“不会加入”AI。"
+       },
+       {
+        "t": "p",
+        "x": "其8月下旬发布的最新版本“不包含任何生成式AI功能”，这是一种“有意为之的设计立场”，确保用户文档不会被上传到服务器，软件的任何部分都无需联网。该组织表示：“任何处理机密、受法律特权保护或个人数据的组织，都需要知道这些数据去了哪里，而唯一经得起审计的保证，就是数据不离开本机。”"
+       },
+       {
+        "t": "p",
+        "x": "用户仍可安装将LibreOffice连接到本地AI模型的扩展。该组织表示，目前没有任何集成方案符合其要求，并称这一决定是对当前技术的评估，而非“最终否定”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "LibreOffice vende el 'sin AI'\ncomo una función del software",
+     "body": "LibreOffice no añadirá AI a su instalación predeterminada para que los usuarios controlen adónde van sus datos.",
+     "mini_headline": "LibreOffice: sin AI por defecto",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "The Document Foundation, la organización sin fines de lucro detrás del editor de documentos de código abierto LibreOffice, afirmó esta semana en una entrada de blog que, aunque no rechaza la AI de plano, “no añadirá” AI a su software en el futuro previsible."
+       },
+       {
+        "t": "p",
+        "x": "Su versión más reciente, de finales de agosto, “no contiene funciones de AI generativa”, una “posición de diseño deliberada” para que los documentos de los usuarios no se suban a un servidor y ninguna parte del software necesite conexión a la red. “Cualquier organización que maneje datos confidenciales, protegidos por secreto profesional o personales necesita saber adónde van esos datos, y la única garantía que resiste una auditoría es que no salgan de la máquina”, señaló."
+       },
+       {
+        "t": "p",
+        "x": "Los usuarios aún pueden instalar extensiones que conectan LibreOffice con modelos de AI locales. La organización dijo que ninguna integración actual cumple sus requisitos y calificó la decisión como una evaluación de la tecnología actual y no como un “rechazo definitivo”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "LibreOffice의\n무기는 'AI 없음'",
+     "body": "LibreOffice는 데이터 통제권을 이유로 기본 설치에 AI를 넣지 않는다.",
+     "mini_headline": "LibreOffice, 기본 AI 없다",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않지만, 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
+       },
+       {
+        "t": "p",
+        "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어느 부분도 네트워크 연결이 필요 없도록 한 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "사용자는 여전히 LibreOffice를 로컬 AI 모델과 연결하는 확장 기능을 설치할 수 있다. 재단은 현재 요건을 충족하는 통합 기능이 없다며, 이번 결정은 “최종적인 거부”가 아니라 현재 기술에 대한 평가라고 설명했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "LibreOffice、\n「AIなし」を売りに",
+     "body": "LibreOfficeは、利用者がデータの行方を管理できるよう、標準でAIを載せない。",
+     "mini_headline": "LibreOffice、標準でAIなし",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "オープンソースの文書編集ソフトLibreOfficeを手がける非営利団体The Document Foundationは今週のブログ投稿で、AIを頭ごなしに否定するわけではないが、当面はソフトウェアにAIを「追加しない」と表明した。"
+       },
+       {
+        "t": "p",
+        "x": "8月下旬の最新リリースは「生成AI機能を一切含まない」。これはユーザーの文書がサーバーにアップロードされず、ソフトウェアのどの部分もネットワーク接続を必要としないようにするための「意図的な設計方針」だという。「機密情報や法的な秘匿特権のある情報、個人データを扱う組織は、そのデータがどこへ行くのかを知る必要がある。監査に耐えうる唯一の保証は、データがマシンから出ないことだ」と同団体は述べた。"
+       },
+       {
+        "t": "p",
+        "x": "ユーザーは引き続き、LibreOfficeをローカルAIモデルにつなぐ拡張機能をインストールできる。同団体は現時点で要件を満たす統合はないとし、今回の判断は「決定的な拒絶」ではなく、現在の技術に対する評価だと説明した。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "LibreOffice把\n“无AI”当作卖点",
+     "body": "LibreOffice称为让用户掌控数据去向，默认安装中不会加入AI。",
+     "mini_headline": "LibreOffice默认不含AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "开源文档编辑器LibreOffice背后的非营利组织The Document Foundation本周在一篇博客文章中表示，虽然并不一概排斥AI，但在可预见的未来，其软件“不会加入”AI。"
+       },
+       {
+        "t": "p",
+        "x": "其8月下旬发布的最新版本“不包含任何生成式AI功能”，这是一种“有意为之的设计立场”，确保用户文档不会被上传到服务器，软件的任何部分都无需联网。该组织表示：“任何处理机密、受法律特权保护或个人数据的组织，都需要知道这些数据去了哪里，而唯一经得起审计的保证，就是数据不离开本机。”"
+       },
+       {
+        "t": "p",
+        "x": "用户仍可安装将LibreOffice连接到本地AI模型的扩展。该组织表示，目前没有任何集成方案符合其要求，并称这一决定是对当前技术的评估，而非“最终否定”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "LibreOffice vende el 'sin AI'\ncomo una función del software",
+     "body": "LibreOffice no añadirá AI a su instalación predeterminada para que los usuarios controlen adónde van sus datos.",
+     "mini_headline": "LibreOffice: sin AI por defecto",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+        "cap": "Image Credits: LibreOffice"
+       },
+       {
+        "t": "p",
+        "x": "The Document Foundation, la organización sin fines de lucro detrás del editor de documentos de código abierto LibreOffice, afirmó esta semana en una entrada de blog que, aunque no rechaza la AI de plano, “no añadirá” AI a su software en el futuro previsible."
+       },
+       {
+        "t": "p",
+        "x": "Su versión más reciente, de finales de agosto, “no contiene funciones de AI generativa”, una “posición de diseño deliberada” para que los documentos de los usuarios no se suban a un servidor y ninguna parte del software necesite conexión a la red. “Cualquier organización que maneje datos confidenciales, protegidos por secreto profesional o personales necesita saber adónde van esos datos, y la única garantía que resiste una auditoría es que no salgan de la máquina”, señaló."
+       },
+       {
+        "t": "p",
+        "x": "Los usuarios aún pueden instalar extensiones que conectan LibreOffice con modelos de AI locales. La organización dijo que ninguna integración actual cumple sus requisitos y calificó la decisión como una evaluación de la tecnología actual y no como un “rechazo definitivo”."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

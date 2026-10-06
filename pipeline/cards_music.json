@@ -1,1586 +1,1796 @@
 {
-  "date": "2026-10-06",
-  "section": "music",
-  "cards": [
-    {
-      "id": "suno-albums-launch",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Suno에서 이제\n앨범 통째로 낸다",
-      "body": "Suno Albums로 AI-made 곡을 초안으로 묶고 순서를 정해 발매한다.",
-      "mini_headline": "Suno, Albums 출시",
-      "tool": "Music",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
-      "accent": "#ff2d55",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "MdxaU0l3FzI"
-          },
-          {
-            "t": "p",
-            "x": "Suno에 Albums가 나왔다. 크리에이터는 Albums로 곡을 모아 하나의 정식 발매작을 만든다. 커버 아트를 생성하거나 업로드하고 트랙 리스트를 정리한 다음 Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "진행자 Luke Conard는 튜토리얼에서 작업 흐름을 처음부터 끝까지 짚는다. Albums와 플레이리스트의 차이, 새 LP나 EP 만들기, Album 아트워크 업로드와 생성, Library나 플레이리스트에서 곡 추가하기가 차례로 나온다."
-          },
-          {
-            "t": "p",
-            "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Suno now lets creators\npublish full albums",
-          "body": "Suno Albums lets creators group AI-made songs into a draft, set the track order and publish the full release on Suno.",
-          "mini_headline": "Suno adds Albums",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Albums are here on Suno. With Albums, creators can bring their songs together into a full release, create or upload cover art, arrange the track list, publish the Album on Suno, and share the whole project in one place."
-              },
-              {
-                "t": "p",
-                "x": "In the tutorial, host Luke Conard walks through the full workflow: how Albums differ from playlists, creating a new LP or EP, uploading or generating Album artwork, and adding songs from the Library or from playlists."
-              },
-              {
-                "t": "p",
-                "x": "It also covers reordering tracks and editing Album details, sharing a draft before release, turning an existing playlist into an Album, using one Album cover across every song, what happens on publish, and finding and editing Albums after release."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Suno에서 이제\n앨범 통째로 낸다",
-          "body": "Suno Albums로 AI-made 곡을 초안으로 묶고 순서를 정해 발매한다.",
-          "mini_headline": "Suno, Albums 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Suno에 Albums가 나왔다. 크리에이터는 Albums로 곡을 모아 하나의 정식 발매작을 만든다. 커버 아트를 생성하거나 업로드하고 트랙 리스트를 정리한 다음 Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "진행자 Luke Conard는 튜토리얼에서 작업 흐름을 처음부터 끝까지 짚는다. Albums와 플레이리스트의 차이, 새 LP나 EP 만들기, Album 아트워크 업로드와 생성, Library나 플레이리스트에서 곡 추가하기가 차례로 나온다."
-              },
-              {
-                "t": "p",
-                "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sunoでクリエイターが\nアルバムを丸ごと公開",
-          "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
-          "mini_headline": "SunoがAlbumsを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "SunoにAlbumsが登場した。Albumsを使えば、クリエイターは楽曲をまとめて一つの作品としてリリースし、カバーアートを作成またはアップロードし、トラックリストを並べ、AlbumをSunoで公開し、プロジェクト全体を一か所で共有できる。"
-              },
-              {
-                "t": "p",
-                "x": "チュートリアルでは、ホストのLuke Conardが一連の流れを説明する。Albumsとプレイリストの違い、新しいLPやEPの作成、Albumアートワークのアップロードや生成、Libraryやプレイリストからの曲の追加だ。"
-              },
-              {
-                "t": "p",
-                "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Suno让创作者\n发布完整专辑",
-          "body": "Suno Albums可将AI-made歌曲归入草稿、排好曲序，并在Suno上发布。",
-          "mini_headline": "Suno推出Albums",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Suno推出了Albums。借助Albums，创作者可以把歌曲整合成一张完整作品，创建或上传封面，编排曲目列表，在Suno上发布Album，并在一处分享整个项目。"
-              },
-              {
-                "t": "p",
-                "x": "在教程中，主持人Luke Conard演示了完整流程：Albums与播放列表有何不同，如何新建LP或EP，如何上传或生成Album封面，以及如何从Library或播放列表中添加歌曲。"
-              },
-              {
-                "t": "p",
-                "x": "教程还介绍了如何调整曲序和编辑Album信息、在发布前分享草稿、将现有播放列表转为Album、为所有歌曲使用同一张Album封面、发布时会发生什么，以及发布后如何查找和编辑Album。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Suno ya permite a los creadores\npublicar álbumes completos",
-          "body": "Suno Albums permite agrupar canciones AI-made en un borrador, ordenar las pistas y publicar el lanzamiento en Suno.",
-          "mini_headline": "Suno añade Albums",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Albums ya está disponible en Suno. Con Albums, los creadores pueden reunir sus canciones en un lanzamiento completo, crear o subir la portada, ordenar la lista de pistas, publicar el Album en Suno y compartir todo el proyecto en un solo lugar."
-              },
-              {
-                "t": "p",
-                "x": "En el tutorial, el presentador Luke Conard recorre todo el proceso: en qué se diferencian Albums de las playlists, cómo crear un nuevo LP o EP, cómo subir o generar la portada del Album y cómo añadir canciones desde la Library o desde playlists."
-              },
-              {
-                "t": "p",
-                "x": "También explica cómo reordenar pistas y editar los detalles del Album, compartir un borrador antes del lanzamiento, convertir una playlist existente en un Album, usar una misma portada de Album para todas las canciones, qué ocurre al publicar y cómo encontrar y editar Albums después del lanzamiento."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Suno에서 이제\n앨범 통째로 낸다",
-          "body": "Suno Albums로 AI-made 곡을 초안에 묶고 순서를 정해 발매한다.",
-          "mini_headline": "Suno, Albums 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Suno에 Albums가 나왔다. Albums를 이용하면 크리에이터는 곡을 모아 하나의 정식 발매작으로 만들고, 커버 아트를 생성하거나 업로드하고, 트랙 리스트를 정리하고, Album을 Suno에 공개하고, 프로젝트 전체를 한곳에서 공유할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "튜토리얼에서 진행자 Luke Conard는 전체 작업 흐름을 차례로 보여준다. Albums가 플레이리스트와 어떻게 다른지, 새 LP나 EP를 만드는 법, Album 아트워크를 업로드하거나 생성하는 법, Library나 플레이리스트에서 곡을 추가하는 법이다."
-              },
-              {
-                "t": "p",
-                "x": "트랙 순서를 바꾸고 Album 세부 정보를 편집하는 법, 발매 전에 초안을 공유하는 법, 기존 플레이리스트를 Album으로 바꾸는 법, 모든 곡에 하나의 Album 커버를 쓰는 법, 공개 시 일어나는 일, 발매 후 Album을 찾고 편집하는 법도 다룬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sunoでクリエイターが\nアルバムを丸ごと公開",
-          "body": "Suno Albumsでは、AI-madeの曲を下書きにまとめ、曲順を決めて公開できる。",
-          "mini_headline": "SunoがAlbumsを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "SunoにAlbumsが登場した。Albumsを使えば、クリエイターは楽曲をまとめて一つの作品としてリリースし、カバーアートを作成またはアップロードし、トラックリストを並べ、AlbumをSunoで公開し、プロジェクト全体を一か所で共有できる。"
-              },
-              {
-                "t": "p",
-                "x": "チュートリアルでは、ホストのLuke Conardが一連の流れを説明する。Albumsとプレイリストの違い、新しいLPやEPの作成、Albumアートワークのアップロードや生成、Libraryやプレイリストからの曲の追加だ。"
-              },
-              {
-                "t": "p",
-                "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Suno让创作者\n发布完整专辑",
-          "body": "Suno Albums可将AI-made歌曲归入草稿、排好曲序，并在Suno上发布。",
-          "mini_headline": "Suno推出Albums",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Suno推出了Albums。借助Albums，创作者可以把歌曲整合成一张完整作品，创建或上传封面，编排曲目列表，在Suno上发布Album，并在一处分享整个项目。"
-              },
-              {
-                "t": "p",
-                "x": "在教程中，主持人Luke Conard演示了完整流程：Albums与播放列表有何不同，如何新建LP或EP，如何上传或生成Album封面，以及如何从Library或播放列表中添加歌曲。"
-              },
-              {
-                "t": "p",
-                "x": "教程还介绍了如何调整曲序和编辑Album信息、在发布前分享草稿、将现有播放列表转为Album、为所有歌曲使用同一张Album封面、发布时会发生什么，以及发布后如何查找和编辑Album。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Suno ya permite a los creadores\npublicar álbumes completos",
-          "body": "Suno Albums permite agrupar canciones AI-made en un borrador, ordenar las pistas y publicar el lanzamiento en Suno.",
-          "mini_headline": "Suno añade Albums",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "MdxaU0l3FzI"
-              },
-              {
-                "t": "p",
-                "x": "Albums ya está disponible en Suno. Con Albums, los creadores pueden reunir sus canciones en un lanzamiento completo, crear o subir la portada, ordenar la lista de pistas, publicar el Album en Suno y compartir todo el proyecto en un solo lugar."
-              },
-              {
-                "t": "p",
-                "x": "En el tutorial, el presentador Luke Conard recorre todo el proceso: en qué se diferencian Albums de las playlists, cómo crear un nuevo LP o EP, cómo subir o generar la portada del Album y cómo añadir canciones desde la Library o desde playlists."
-              },
-              {
-                "t": "p",
-                "x": "También explica cómo reordenar pistas y editar los detalles del Album, compartir un borrador antes del lanzamiento, convertir una playlist existente en un Album, usar una misma portada de Album para todas las canciones, qué ocurre al publicar y cómo encontrar y editar Albums después del lanzamiento."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "music",
+ "cards": [
+  {
+   "id": "music-suno-italy",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "이탈리아, Suno\n이용약관 조사 착수",
+   "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 들여다본다.",
+   "mini_headline": "이탈리아, Suno 약관 조사",
+   "tool": "Music",
+   "source": "Music Business Worldwide",
+   "url": "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
+   "accent": "#ff2d55",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+      "cap": "사진 출처: FotoField / Shutterstock.com"
+     },
+     {
+      "t": "p",
+      "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno 이용약관 조사에 착수했다고 밝혔다. 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"는 판단이다."
+     },
+     {
+      "t": "p",
+      "x": "당국이 문제 삼은 대목은 가격 변경과 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구하는 것으로 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 했다."
+     },
+     {
+      "t": "p",
+      "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스는 범위가 충분히 정해지지 않았고, 이탈리아 저작권법(Law 633/1941)에 어긋나는 저작인격권 포기까지 강요한다는 것이다. 미국에서 진행하는 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 꼽았다."
+     },
+     {
+      "t": "p",
+      "x": "당국은 몇 주 안에 이 약관을 두고 공개 의견 수렴에 들어간다. 불공정 계약 조항에 매기는 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 물었다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Italy opens a probe into\nSuno's terms of service",
+     "body": "Italy's AGCM is investigating Suno's terms, including a licence it says makes users waive moral rights.",
+     "mini_headline": "Italy probes Suno's terms",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "Photo credit: FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "Italy's competition authority (AGCM) said on Tuesday (October 6) that it has opened an investigation into Suno's terms of service, which it says \"may be unfair pursuant to Article 33 of the Consumer Code.\""
+       },
+       {
+        "t": "p",
+        "x": "Its concerns include price changes, account terminations, US-based arbitration, and a content license that it says requires users to waive their moral rights. The terms \"seem to give Suno broad discretion to make unilateral changes to the contract, the service and the subscription prices, without having to provide any justification,\" the authority said."
+       },
+       {
+        "t": "p",
+        "x": "The AGCM said \"the contractual provisions on copyright deserve particular attention,\" calling the license imposed on consumers insufficiently defined and saying it imposes the waiver of moral rights contrary to Italy's copyright statute, Law 633/1941. It also flagged binding individual arbitration in the United States and a waiver of class actions."
+       },
+       {
+        "t": "p",
+        "x": "The authority will open a public consultation on the terms over the next few weeks. Its fines for unfair contract terms range between €5,000 and €10 million. MBW has reached out to Suno for comment."
+       }
+      ]
+     }
     },
-    {
-      "id": "sony-music-260k-deepfake-takedowns",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Sony Music, AI\n가짜 260,000건 삭제",
-      "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
-      "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
-      "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/sony-music-has-now-asked-platforms-to-remove-more-than-260000-ai-deepfakes-imitating-artists-like-harry-styles-adele-and-michael-jackson/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 요청한 135,000건의 두 배 가까운 규모다."
-          },
-          {
-            "t": "p",
-            "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
-          },
-          {
-            "t": "p",
-            "x": "딥페이크 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. 플랫폼이 이 중 몇 곡을 내렸는지, 어떤 서비스가 요청을 받았는지는 FT 보도에 나오지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "레이블 임원들은 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 본다고 FT는 전했다. Sony는 개인의 목소리와 시각적 초상에 연방 차원의 권리를 새로 만드는 NO FAKES Act를 지지한다. 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Sony Music seeks removal of\n260,000+ AI deepfakes",
-          "body": "Sony Music has asked platforms to remove over 260,000 AI soundalike tracks, calling the fight an uphill struggle.",
-          "mini_headline": "Sony targets 260,000 AI fakes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "By the end of September, Sony Music had asked digital platforms to take down more than 260,000 AI-generated tracks impersonating its artists – almost double the 135,000 it had sought to remove by the end of March, according to the Financial Times."
-              },
-              {
-                "t": "p",
-                "x": "“We will keep enforcing our artists’ rights and expect platforms to act quickly and to prevent the same content from reappearing,” Sony told the FT. “But it’s becoming an uphill struggle.”"
-              },
-              {
-                "t": "p",
-                "x": "Sony-affiliated artists targeted by the deepfakes include Harry Styles, Adele, Britney Spears, Queen, and Michael Jackson. The FT did not report how many of the tracks platforms have removed, or which services received the requests."
-              },
-              {
-                "t": "p",
-                "x": "The FT also reported that label executives estimate streaming fraud could be costing the industry up to $2.2 billion annually. Sony supports the NO FAKES Act, which would create a federal right in a person’s voice and visual likeness; the bill cleared the Senate Judiciary Committee unanimously on June 18."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Sony Music, AI\n가짜 260,000건 삭제",
-          "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
-          "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 요청한 135,000건의 두 배 가까운 규모다."
-              },
-              {
-                "t": "p",
-                "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "딥페이크 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. 플랫폼이 이 중 몇 곡을 내렸는지, 어떤 서비스가 요청을 받았는지는 FT 보도에 나오지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "레이블 임원들은 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 본다고 FT는 전했다. Sony는 개인의 목소리와 시각적 초상에 연방 차원의 권리를 새로 만드는 NO FAKES Act를 지지한다. 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sony MusicがAI曲\n260,000件超を削除要請",
-          "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
-          "mini_headline": "Sony、AI偽曲260,000件を標的に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Timesによると、Sony Musicは9月末までに、所属アーティストになりすましたAI-generatedの楽曲260,000件以上の削除をデジタルプラットフォームに求めた。3月末までに削除を求めた135,000件からほぼ倍増した。"
-              },
-              {
-                "t": "p",
-                "x": "「当社はアーティストの権利を守る取り組みを続け、プラットフォームには迅速に対応し、同じコンテンツの再出現を防ぐよう求める」とSonyはFTに語った。「だが、苦しい戦いになりつつある」"
-              },
-              {
-                "t": "p",
-                "x": "ディープフェイクの標的となったSony系列（Sony-affiliated）のアーティストには、Harry Styles、Adele、Britney Spears、Queen、Michael Jacksonが含まれる。FTは、プラットフォームが実際に何件を削除したのか、どのサービスが要請を受けたのかは報じていない。"
-              },
-              {
-                "t": "p",
-                "x": "FTはまた、レーベル幹部の推計として、ストリーミング詐欺による業界の損失は年間最大$2.2 billionに上る可能性があると報じた。Sonyは、個人の声と視覚的な肖像に対する連邦レベルの権利を創設するNO FAKES Actを支持している。同法案は6月18日、上院司法委員会を全会一致で通過した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sony Music要求删除\n逾260,000首AI深伪曲",
-          "body": "Sony Music已要求平台删除逾260,000首AI仿声歌曲，并称这是一场艰难的战斗。",
-          "mini_headline": "Sony瞄准260,000首AI伪作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Financial Times报道，截至9月底，Sony Music已要求数字平台下架逾260,000首冒充其旗下艺人的AI-generated歌曲，几乎是3月底时135,000首的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们将继续维护旗下艺人的权利，并期待平台迅速行动，防止相同内容再次出现，”Sony对FT表示，“但这正变得越来越艰难。”"
-              },
-              {
-                "t": "p",
-                "x": "遭深伪冒充的Sony旗下（Sony-affiliated）艺人包括Harry Styles、Adele、Britney Spears、Queen和Michael Jackson。FT并未报道平台已删除其中多少首，也未说明哪些服务收到了请求。"
-              },
-              {
-                "t": "p",
-                "x": "FT还报道称，唱片公司高管估计，流媒体欺诈每年可能给行业造成高达$2.2 billion的损失。Sony支持NO FAKES Act，该法案将确立个人对其声音与视觉形象的联邦权利；该法案已于6月18日在参议院司法委员会获一致通过。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sony Music pide retirar más de\n260,000 deepfakes de AI",
-          "body": "Sony Music pidió a plataformas retirar más de 260,000 pistas AI que imitan voces y lo llama una batalla cuesta arriba.",
-          "mini_headline": "Sony va contra 260,000 falsificaciones AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A finales de septiembre, Sony Music había pedido a las plataformas digitales retirar más de 260,000 pistas AI-generated que suplantaban a sus artistas, casi el doble de las 135,000 cuya retirada había solicitado a finales de marzo, según el Financial Times."
-              },
-              {
-                "t": "p",
-                "x": "“Seguiremos defendiendo los derechos de nuestros artistas y esperamos que las plataformas actúen con rapidez y eviten que el mismo contenido vuelva a aparecer”, dijo Sony al FT. “Pero se está convirtiendo en una batalla cuesta arriba”."
-              },
-              {
-                "t": "p",
-                "x": "Entre los artistas vinculados a Sony (Sony-affiliated) afectados por los deepfakes figuran Harry Styles, Adele, Britney Spears, Queen y Michael Jackson. El FT no informó cuántas de esas pistas han retirado las plataformas ni qué servicios recibieron las solicitudes."
-              },
-              {
-                "t": "p",
-                "x": "El FT también informó de que directivos de discográficas estiman que el fraude en streaming podría costarle a la industria hasta 2.2 mil millones de dólares al año. Sony apoya la NO FAKES Act, que crearía un derecho federal sobre la voz y la imagen de una persona; el proyecto superó por unanimidad el Comité Judicial del Senado el 18 de junio."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Sony Music, AI\n가짜 260,000건 삭제",
-          "body": "Sony Music은 AI 모방곡 260,000건 넘게 삭제를 요청하며 고전한다.",
-          "mini_headline": "Sony, AI 가짜 260,000건 겨냥",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Times에 따르면 Sony Music은 9월 말까지 소속 아티스트를 사칭한 AI-generated 트랙 260,000건 이상을 내려 달라고 디지털 플랫폼에 요청했다. 3월 말까지 삭제를 요청한 135,000건의 두 배에 가깝다."
-              },
-              {
-                "t": "p",
-                "x": "“아티스트의 권리를 계속 지키겠으며, 플랫폼이 신속히 대응하고 같은 콘텐츠가 다시 올라오지 않도록 막아 주기를 기대한다.” Sony는 FT에 이렇게 말했다. “하지만 점점 힘겨운 싸움이 되고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "딥페이크의 표적이 된 Sony 계열(Sony-affiliated) 아티스트로는 Harry Styles, Adele, Britney Spears, Queen, Michael Jackson 등이 있다. FT는 플랫폼이 이 가운데 몇 곡을 삭제했는지, 어떤 서비스가 요청을 받았는지는 보도하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "FT는 또 레이블 임원들이 스트리밍 사기로 업계가 입는 손실을 연간 최대 $2.2 billion으로 추산한다고 전했다. Sony는 개인의 목소리와 시각적 초상에 대한 연방 차원의 권리를 신설하는 NO FAKES Act를 지지한다. 이 법안은 6월 18일 상원 법사위원회를 만장일치로 통과했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Sony MusicがAI曲\n260,000件超を削除要請",
-          "body": "Sony MusicはAIの模倣曲260,000件超の削除を求め、苦しい戦いだと語った。",
-          "mini_headline": "Sony、AI偽曲260,000件を標的に",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Timesによると、Sony Musicは9月末までに、所属アーティストになりすましたAI-generatedの楽曲260,000件以上の削除をデジタルプラットフォームに求めた。3月末までに削除を求めた135,000件からほぼ倍増した。"
-              },
-              {
-                "t": "p",
-                "x": "「当社はアーティストの権利を守る取り組みを続け、プラットフォームには迅速に対応し、同じコンテンツの再出現を防ぐよう求める」とSonyはFTに語った。「だが、苦しい戦いになりつつある」"
-              },
-              {
-                "t": "p",
-                "x": "ディープフェイクの標的となったSony系列（Sony-affiliated）のアーティストには、Harry Styles、Adele、Britney Spears、Queen、Michael Jacksonが含まれる。FTは、プラットフォームが実際に何件を削除したのか、どのサービスが要請を受けたのかは報じていない。"
-              },
-              {
-                "t": "p",
-                "x": "FTはまた、レーベル幹部の推計として、ストリーミング詐欺による業界の損失は年間最大$2.2 billionに上る可能性があると報じた。Sonyは、個人の声と視覚的な肖像に対する連邦レベルの権利を創設するNO FAKES Actを支持している。同法案は6月18日、上院司法委員会を全会一致で通過した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Sony Music要求删除\n逾260,000首AI深伪曲",
-          "body": "Sony Music已要求平台删除逾260,000首AI仿声歌曲，并称这是一场艰难的战斗。",
-          "mini_headline": "Sony瞄准260,000首AI伪作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据Financial Times报道，截至9月底，Sony Music已要求数字平台下架逾260,000首冒充其旗下艺人的AI-generated歌曲，几乎是3月底时135,000首的两倍。"
-              },
-              {
-                "t": "p",
-                "x": "“我们将继续维护旗下艺人的权利，并期待平台迅速行动，防止相同内容再次出现，”Sony对FT表示，“但这正变得越来越艰难。”"
-              },
-              {
-                "t": "p",
-                "x": "遭深伪冒充的Sony旗下（Sony-affiliated）艺人包括Harry Styles、Adele、Britney Spears、Queen和Michael Jackson。FT并未报道平台已删除其中多少首，也未说明哪些服务收到了请求。"
-              },
-              {
-                "t": "p",
-                "x": "FT还报道称，唱片公司高管估计，流媒体欺诈每年可能给行业造成高达$2.2 billion的损失。Sony支持NO FAKES Act，该法案将确立个人对其声音与视觉形象的联邦权利；该法案已于6月18日在参议院司法委员会获一致通过。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Sony Music pide retirar más de\n260,000 deepfakes de AI",
-          "body": "Sony Music pidió a plataformas retirar más de 260,000 pistas AI que imitan voces y lo llama una batalla cuesta arriba.",
-          "mini_headline": "Sony va contra 260,000 falsificaciones AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2221267067.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A finales de septiembre, Sony Music había pedido a las plataformas digitales retirar más de 260,000 pistas AI-generated que suplantaban a sus artistas, casi el doble de las 135,000 cuya retirada había solicitado a finales de marzo, según el Financial Times."
-              },
-              {
-                "t": "p",
-                "x": "“Seguiremos defendiendo los derechos de nuestros artistas y esperamos que las plataformas actúen con rapidez y eviten que el mismo contenido vuelva a aparecer”, dijo Sony al FT. “Pero se está convirtiendo en una batalla cuesta arriba”."
-              },
-              {
-                "t": "p",
-                "x": "Entre los artistas vinculados a Sony (Sony-affiliated) afectados por los deepfakes figuran Harry Styles, Adele, Britney Spears, Queen y Michael Jackson. El FT no informó cuántas de esas pistas han retirado las plataformas ni qué servicios recibieron las solicitudes."
-              },
-              {
-                "t": "p",
-                "x": "El FT también informó de que directivos de discográficas estiman que el fraude en streaming podría costarle a la industria hasta 2.2 mil millones de dólares al año. Sony apoya la NO FAKES Act, que crearía un derecho federal sobre la voz y la imagen de una persona; el proyecto superó por unanimidad el Comité Judicial del Senado el 18 de junio."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "이탈리아, Suno\n이용약관 조사 착수",
+     "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 들여다본다.",
+     "mini_headline": "이탈리아, Suno 약관 조사",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "사진 출처: FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno 이용약관 조사에 착수했다고 밝혔다. 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"는 판단이다."
+       },
+       {
+        "t": "p",
+        "x": "당국이 문제 삼은 대목은 가격 변경과 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구하는 것으로 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 했다."
+       },
+       {
+        "t": "p",
+        "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스는 범위가 충분히 정해지지 않았고, 이탈리아 저작권법(Law 633/1941)에 어긋나는 저작인격권 포기까지 강요한다는 것이다. 미국에서 진행하는 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 꼽았다."
+       },
+       {
+        "t": "p",
+        "x": "당국은 몇 주 안에 이 약관을 두고 공개 의견 수렴에 들어간다. 불공정 계약 조항에 매기는 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 물었다."
+       }
+      ]
+     }
     },
-    {
-      "id": "spotify-editorial-playlists-decline-fake-account-purge",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
-      "body": "Spotify 플레이리스트 하락은 가짜 계정·AI slop 단속 여파라는 분석이다.",
-      "mini_headline": "Spotify 플레이리스트 하락",
-      "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자가 눈에 띄게 줄었다. PlaylistSupply가 Chartmetric 데이터로 분석한 결과다."
-          },
-          {
-            "t": "p",
-            "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않다. 그래도 오랜 성장세는 끊겼다."
-          },
-          {
-            "t": "p",
-            "x": "플레이리스트를 떠나는 전반적 흐름만으로는 설명이 안 된다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었는데, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Spotify playlist dips tied\nto its fake-account purge",
-          "body": "A new report ties slipping numbers on Spotify's top editorial playlists to its crackdown on fake accounts and AI slop.",
-          "mini_headline": "Spotify playlists slip",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "One year after Spotify confirmed a crackdown targeting fake streams and AI slop, editorial playlists including RapCaviar are experiencing material listenership falloffs, according to a PlaylistSupply analysis drawing on Chartmetric data."
-              },
-              {
-                "t": "p",
-                "x": "Spotify’s “four most-defaulted playlists” – RapCaviar, Today’s Top Hits, Top 50 Global and Viva Latino – “have lost followers every month since” the purge began around April 2025. The drops are modest, topping out at 2.6% for RapCaviar, but they broke long growth streaks."
-              },
-              {
-                "t": "p",
-                "x": "A general shift away from playlists doesn’t explain it: third-party playlists’ median follower count is up 70% since January 2023, versus 19% for editorial. Big editorial lists “are exactly the lists a fake account follows to pass as real, so a profile purge surfaces on them first,” the report hypothesizes."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
-          "body": "Spotify 플레이리스트 하락은 가짜 계정·AI slop 단속 여파라는 분석이다.",
-          "mini_headline": "Spotify 플레이리스트 하락",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자가 눈에 띄게 줄었다. PlaylistSupply가 Chartmetric 데이터로 분석한 결과다."
-              },
-              {
-                "t": "p",
-                "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않다. 그래도 오랜 성장세는 끊겼다."
-              },
-              {
-                "t": "p",
-                "x": "플레이리스트를 떠나는 전반적 흐름만으로는 설명이 안 된다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었는데, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spotifyのプレイリスト\n偽アカウント排除で減少",
-          "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
-          "mini_headline": "Spotifyのプレイリストが減少",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "SpotifyがフェイクストリームとAI slopの取り締まりを認めてから一年。RapCaviarをはじめとする編集プレイリストのリスナー数が大きく落ち込んでいることが、Chartmetricのデータに基づくPlaylistSupplyの分析で分かった。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyの「最もデフォルトで表示される四つのプレイリスト」であるRapCaviar、Today’s Top Hits、Top 50 Global、Viva Latinoは、2025年4月ごろに一掃が始まって「以来、毎月フォロワーを失っている」。減少幅はRapCaviarの2.6%が最大と小さいが、長く続いた成長は途切れた。"
-              },
-              {
-                "t": "p",
-                "x": "プレイリスト離れという全体的な流れでは説明がつかない。サードパーティのプレイリストのフォロワー数中央値は2023年1月以降70%増えたが、編集プレイリストは19%にとどまる。大型の編集プレイリストは「偽アカウントが本物に見せかけるためにフォローするまさにそのリストであり、プロフィール一掃の影響が真っ先に表れる」と報告は推測している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify歌单下滑\n或与清理假账号有关",
-          "body": "新报告将Spotify头部编辑歌单数据下滑归因于其打击假账号和AI slop。",
-          "mini_headline": "Spotify歌单下滑",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Spotify确认打击虚假播放和AI slop一年后，据PlaylistSupply基于Chartmetric数据的分析，包括RapCaviar在内的编辑歌单收听人数明显下滑。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify“默认推荐最多的四个歌单”——RapCaviar、Today’s Top Hits、Top 50 Global和Viva Latino——自2025年4月前后清理开始以来“每个月都在流失粉丝”。降幅不大，最高为RapCaviar的2.6%，但打破了长期的增长势头。"
-              },
-              {
-                "t": "p",
-                "x": "这无法用听众整体远离歌单来解释：自2023年1月以来，第三方歌单的粉丝数中位数增长了70%，而编辑歌单仅为19%。报告推测，大型编辑歌单“恰恰是假账号为冒充真人而关注的歌单，因此账号清理会最先在这些歌单上显现”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spotify: caída en sus playlists\nligada a purgar cuentas falsas",
-          "body": "Un informe vincula la caída de las playlists editoriales de Spotify con su ofensiva contra cuentas falsas y AI slop.",
-          "mini_headline": "Las playlists de Spotify retroceden",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un año después de que Spotify confirmara una ofensiva contra las reproducciones falsas y el AI slop, las playlists editoriales, entre ellas RapCaviar, registran caídas notables de audiencia, según un análisis de PlaylistSupply basado en datos de Chartmetric."
-              },
-              {
-                "t": "p",
-                "x": "Las “cuatro playlists más predeterminadas” de Spotify —RapCaviar, Today’s Top Hits, Top 50 Global y Viva Latino— “han perdido seguidores cada mes desde” que comenzó la purga, hacia abril de 2025. Las caídas son moderadas, con un máximo del 2.6% en RapCaviar, pero rompieron largas rachas de crecimiento."
-              },
-              {
-                "t": "p",
-                "x": "Un alejamiento general de las playlists no lo explica: la mediana de seguidores de las playlists de terceros ha subido un 70% desde enero de 2023, frente al 19% de las editoriales. Las grandes listas editoriales “son justamente las que sigue una cuenta falsa para pasar por real, así que una purga de perfiles se nota primero en ellas”, plantea el informe como hipótesis."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Spotify 플레이리스트\n부진, 가짜 계정 정리 탓",
-          "body": "Spotify 플레이리스트 하락이 가짜 계정·AI slop 단속 탓이란 분석이다.",
-          "mini_headline": "Spotify 플레이리스트 하락",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Spotify가 가짜 스트리밍과 AI slop 단속을 공식화한 지 한 해가 지나면서, RapCaviar를 비롯한 에디토리얼 플레이리스트의 청취자 수가 눈에 띄게 줄고 있다. Chartmetric 데이터를 바탕으로 한 PlaylistSupply의 분석 결과다."
-              },
-              {
-                "t": "p",
-                "x": "Spotify의 “가장 많이 기본 노출되는 네 개 플레이리스트”인 RapCaviar, Today’s Top Hits, Top 50 Global, Viva Latino는 2025년 4월께 정리가 시작된 “이후 매달 팔로워를 잃었다.” 감소 폭은 RapCaviar의 2.6%가 최대일 만큼 크지 않지만, 오랜 성장 흐름은 끊겼다."
-              },
-              {
-                "t": "p",
-                "x": "플레이리스트 이탈이라는 전반적 흐름으로는 설명되지 않는다. 서드파티 플레이리스트의 팔로워 수 중앙값은 2023년 1월 이후 70% 늘었지만, 에디토리얼은 19%에 그쳤다. 보고서는 대형 에디토리얼 플레이리스트가 “가짜 계정이 진짜처럼 보이려고 팔로우하는 바로 그 목록이라, 프로필 정리의 여파가 가장 먼저 드러난다”고 추정한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spotifyのプレイリスト\n偽アカウント排除で減少",
-          "body": "報告は、Spotifyのプレイリスト低迷を偽アカウントとAI slop対策に結びつけた。",
-          "mini_headline": "Spotifyのプレイリストが減少",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "SpotifyがフェイクストリームとAI slopの取り締まりを認めてから一年。RapCaviarをはじめとする編集プレイリストのリスナー数が大きく落ち込んでいることが、Chartmetricのデータに基づくPlaylistSupplyの分析で分かった。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyの「最もデフォルトで表示される四つのプレイリスト」であるRapCaviar、Today’s Top Hits、Top 50 Global、Viva Latinoは、2025年4月ごろに一掃が始まって「以来、毎月フォロワーを失っている」。減少幅はRapCaviarの2.6%が最大と小さいが、長く続いた成長は途切れた。"
-              },
-              {
-                "t": "p",
-                "x": "プレイリスト離れという全体的な流れでは説明がつかない。サードパーティのプレイリストのフォロワー数中央値は2023年1月以降70%増えたが、編集プレイリストは19%にとどまる。大型の編集プレイリストは「偽アカウントが本物に見せかけるためにフォローするまさにそのリストであり、プロフィール一掃の影響が真っ先に表れる」と報告は推測している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify歌单下滑\n或与清理假账号有关",
-          "body": "新报告将Spotify头部编辑歌单数据下滑归因于其打击假账号和AI slop。",
-          "mini_headline": "Spotify歌单下滑",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Spotify确认打击虚假播放和AI slop一年后，据PlaylistSupply基于Chartmetric数据的分析，包括RapCaviar在内的编辑歌单收听人数明显下滑。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify“默认推荐最多的四个歌单”——RapCaviar、Today’s Top Hits、Top 50 Global和Viva Latino——自2025年4月前后清理开始以来“每个月都在流失粉丝”。降幅不大，最高为RapCaviar的2.6%，但打破了长期的增长势头。"
-              },
-              {
-                "t": "p",
-                "x": "这无法用听众整体远离歌单来解释：自2023年1月以来，第三方歌单的粉丝数中位数增长了70%，而编辑歌单仅为19%。报告推测，大型编辑歌单“恰恰是假账号为冒充真人而关注的歌单，因此账号清理会最先在这些歌单上显现”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spotify: caída en sus playlists\nligada a purgar cuentas falsas",
-          "body": "Un informe vincula la caída de las playlists editoriales de Spotify con su ofensiva contra cuentas falsas y AI slop.",
-          "mini_headline": "Las playlists de Spotify retroceden",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/RapCaviar-1024x546.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un año después de que Spotify confirmara una ofensiva contra las reproducciones falsas y el AI slop, las playlists editoriales, entre ellas RapCaviar, registran caídas notables de audiencia, según un análisis de PlaylistSupply basado en datos de Chartmetric."
-              },
-              {
-                "t": "p",
-                "x": "Las “cuatro playlists más predeterminadas” de Spotify —RapCaviar, Today’s Top Hits, Top 50 Global y Viva Latino— “han perdido seguidores cada mes desde” que comenzó la purga, hacia abril de 2025. Las caídas son moderadas, con un máximo del 2.6% en RapCaviar, pero rompieron largas rachas de crecimiento."
-              },
-              {
-                "t": "p",
-                "x": "Un alejamiento general de las playlists no lo explica: la mediana de seguidores de las playlists de terceros ha subido un 70% desde enero de 2023, frente al 19% de las editoriales. Las grandes listas editoriales “son justamente las que sigue una cuenta falsa para pasar por real, así que una purga de perfiles se nota primero en ellas”, plantea el informe como hipótesis."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "イタリア、Sunoの\n利用規約を調査",
+     "body": "イタリアAGCMが著作者人格権放棄のライセンスなどSunoの規約を調査中だ。",
+     "mini_headline": "イタリア、Sunoの規約を調査",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "写真：FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
+       },
+       {
+        "t": "p",
+        "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
+       },
+       {
+        "t": "p",
+        "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
+       },
+       {
+        "t": "p",
+        "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
+       }
+      ]
+     }
     },
-    {
-      "id": "joe-bonamassa-suno-lyrics-stance",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
-      "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 다르다고 했다.",
-      "mini_headline": "Bonamassa, AI 작사를 말하다",
-      "tool": "Music",
-      "source": "MusicRadar",
-      "url": "https://www.musicradar.com/artists/guitarists/were-in-the-entertainment-business-if-someone-uses-suno-to-write-a-lyric-its-not-a-high-crime-or-misdemeanour-joe-bonamassa-has-sympathy-for-up-and-coming-artists-using-ai-to-get-an-edge",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-            "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
-          },
-          {
-            "t": "p",
-            "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하다 “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 꺼냈다."
-          },
-          {
-            "t": "p",
-            "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
-          },
-          {
-            "t": "video",
-            "yt": "VF4C5v5datc"
-          },
-          {
-            "t": "p",
-            "x": "Suno를 두고는 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 이런 일이 없는 척하는 건 모래에 머리를 묻는 것과 같다고도 했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Joe Bonamassa: using Suno\nfor lyrics is no high crime",
-          "body": "Joe Bonamassa says using Suno for a lyric is no high crime, but AI acts shouldn't share a category with living artists.",
-          "mini_headline": "Bonamassa on AI lyrics",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "Joe Bonamassa at the GRAMMY Museum, August 28, 2026"
-              },
-              {
-                "t": "p",
-                "x": "Talking to Blues Rock Review at Eric Clapton’s Crossroads festival in Austin, Joe Bonamassa pointed to Eddie Dalton, an AI creation that is “on Billboard’s Blues Chart every single week.”"
-              },
-              {
-                "t": "p",
-                "x": "“The fans will respond to what they respond to… if they like AI music, that’s 100% their right,” he said. “Should those artists be in the same category as living people out there? No. That’s a horrible thing.”"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "On Suno he had more sympathy, especially for up-and-coming artists: “We’re in the entertainment business. If someone uses Suno to write a lyric, it’s not a high crime or misdemeanour. When you’re on your way up… you’re trying to get noticed.” Pretending it isn’t happening, he added, would be burying your head in the sand."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
-          "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 다르다고 했다.",
-          "mini_headline": "Bonamassa, AI 작사를 말하다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
-              },
-              {
-                "t": "p",
-                "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하다 “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 꺼냈다."
-              },
-              {
-                "t": "p",
-                "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Suno를 두고는 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 이런 일이 없는 척하는 건 모래에 머리를 묻는 것과 같다고도 했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Joe Bonamassa\nSuno作詞は重罪ではない",
-          "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
-          "mini_headline": "BonamassaがAI作詞に言及",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "GRAMMY MuseumでのJoe Bonamassa、2026年8月28日"
-              },
-              {
-                "t": "p",
-                "x": "AustinでのEric Clapton’s CrossroadsフェスティバルでBlues Rock Reviewの取材に応じたJoe Bonamassaは、「毎週欠かさずBillboard’s Blues Chartに入っている」AIが生み出した存在、Eddie Daltonを挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "「ファンは自分が反応するものに反応する……AI音楽が好きなら、それは100%彼らの権利だ」と彼は語った。「そうしたアーティストが、実際に生きている人たちと同じカテゴリーにいるべきか。答えはノーだ。ひどいことだ」"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Sunoについては、特に駆け出しのアーティストに対してより寛容だった。「我々はエンターテインメント業界にいる。誰かがSunoで歌詞を書いても、重罪でも軽犯罪でもない。上を目指している途中なら……注目されようと必死なんだ」。それが起きていないふりをするのは、砂に頭を埋めるようなものだと彼は付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Joe Bonamassa：\n用Suno写词不算重罪",
-          "body": "Joe Bonamassa称用Suno写词不算重罪，但AI艺人不应与在世艺人同列。",
-          "mini_headline": "Bonamassa谈AI写词",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "Joe Bonamassa在GRAMMY Museum，2026年8月28日"
-              },
-              {
-                "t": "p",
-                "x": "Joe Bonamassa在Austin举行的Eric Clapton’s Crossroads音乐节上接受Blues Rock Review采访时，提到了AI创作的Eddie Dalton，它“每周都登上Billboard’s Blues Chart”。"
-              },
-              {
-                "t": "p",
-                "x": "“粉丝会对自己有感觉的东西作出反应……如果他们喜欢AI音乐，那100%是他们的权利，”他说，“这些艺人应该和现实中活着的人归在同一类别吗？不应该。那是很糟糕的事。”"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "对于Suno，他则更为宽容，尤其是对新晋艺人：“我们身处娱乐行业。如果有人用Suno写歌词，那既不是重罪，也不是轻罪。当你还在往上走的时候……你只是想被人注意到。”他补充说，假装这件事没有发生，无异于把头埋进沙子里。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Joe Bonamassa: usar Suno para\nletras no es un delito grave",
-          "body": "Para Joe Bonamassa, usar Suno en una letra no es grave, pero la AI no debe compartir categoría con artistas vivos.",
-          "mini_headline": "Bonamassa opina sobre letras con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "Joe Bonamassa en el GRAMMY Museum, 28 de agosto de 2026"
-              },
-              {
-                "t": "p",
-                "x": "En conversación con Blues Rock Review en el festival Eric Clapton’s Crossroads de Austin, Joe Bonamassa mencionó a Eddie Dalton, una creación de AI que está “en el Billboard’s Blues Chart todas las semanas, sin falta”."
-              },
-              {
-                "t": "p",
-                "x": "“Los fans responderán a lo que respondan… si les gusta la música hecha con AI, están en su derecho al 100%”, dijo. “¿Deberían esos artistas estar en la misma categoría que las personas vivas? No. Es algo horrible”."
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Con Suno se mostró más comprensivo, sobre todo con los artistas emergentes: “Estamos en el negocio del entretenimiento. Si alguien usa Suno para escribir una letra, no es un delito grave ni una falta. Cuando vas subiendo… intentas que te noten”. Fingir que no está ocurriendo, añadió, sería esconder la cabeza bajo la arena."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Joe Bonamassa\nSuno 작사, 중죄 아냐",
-          "body": "Joe Bonamassa는 Suno 작사는 죄가 아니나 AI 가수는 별개라 했다.",
-          "mini_headline": "Bonamassa, AI 작사를 말하다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "2026년 8월 28일, GRAMMY Museum의 Joe Bonamassa"
-              },
-              {
-                "t": "p",
-                "x": "Joe Bonamassa는 Austin에서 열린 Eric Clapton’s Crossroads 페스티벌에서 Blues Rock Review와 이야기하며, “매주 빠짐없이 Billboard’s Blues Chart에 오르는” AI 창작물 Eddie Dalton을 언급했다."
-              },
-              {
-                "t": "p",
-                "x": "“팬은 자기가 반응하는 것에 반응할 뿐이다… AI 음악을 좋아한다면 그건 100% 그들의 권리다.” 그는 이렇게 말했다. “그런 아티스트가 실제로 살아 있는 사람들과 같은 부문에 있어야 할까? 아니다. 끔찍한 일이다.”"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Suno에 대해서는, 특히 신진 아티스트에게 더 너그러웠다. “우리는 엔터테인먼트 사업을 한다. 누군가 Suno로 가사를 쓴다고 해서 중죄도 경범죄도 아니다. 올라가는 중일 때는… 주목받으려 애쓰기 마련이다.” 그는 이런 일이 없는 척하는 것은 모래에 머리를 묻는 것과 같다고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Joe Bonamassa\nSuno作詞は重罪ではない",
-          "body": "Joe BonamassaはSunoでの作詞を重罪ではないとし、AI勢は別枠だと語った。",
-          "mini_headline": "BonamassaがAI作詞に言及",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "GRAMMY MuseumでのJoe Bonamassa、2026年8月28日"
-              },
-              {
-                "t": "p",
-                "x": "AustinでのEric Clapton’s CrossroadsフェスティバルでBlues Rock Reviewの取材に応じたJoe Bonamassaは、「毎週欠かさずBillboard’s Blues Chartに入っている」AIが生み出した存在、Eddie Daltonを挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "「ファンは自分が反応するものに反応する……AI音楽が好きなら、それは100%彼らの権利だ」と彼は語った。「そうしたアーティストが、実際に生きている人たちと同じカテゴリーにいるべきか。答えはノーだ。ひどいことだ」"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Sunoについては、特に駆け出しのアーティストに対してより寛容だった。「我々はエンターテインメント業界にいる。誰かがSunoで歌詞を書いても、重罪でも軽犯罪でもない。上を目指している途中なら……注目されようと必死なんだ」。それが起きていないふりをするのは、砂に頭を埋めるようなものだと彼は付け加えた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Joe Bonamassa：\n用Suno写词不算重罪",
-          "body": "Joe Bonamassa称用Suno写词不算重罪，但AI艺人不应与在世艺人同列。",
-          "mini_headline": "Bonamassa谈AI写词",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "Joe Bonamassa在GRAMMY Museum，2026年8月28日"
-              },
-              {
-                "t": "p",
-                "x": "Joe Bonamassa在Austin举行的Eric Clapton’s Crossroads音乐节上接受Blues Rock Review采访时，提到了AI创作的Eddie Dalton，它“每周都登上Billboard’s Blues Chart”。"
-              },
-              {
-                "t": "p",
-                "x": "“粉丝会对自己有感觉的东西作出反应……如果他们喜欢AI音乐，那100%是他们的权利，”他说，“这些艺人应该和现实中活着的人归在同一类别吗？不应该。那是很糟糕的事。”"
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "对于Suno，他则更为宽容，尤其是对新晋艺人：“我们身处娱乐行业。如果有人用Suno写歌词，那既不是重罪，也不是轻罪。当你还在往上走的时候……你只是想被人注意到。”他补充说，假装这件事没有发生，无异于把头埋进沙子里。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Joe Bonamassa: usar Suno para\nletras no es un delito grave",
-          "body": "Para Joe Bonamassa, usar Suno en una letra no es grave, pero la AI no debe compartir categoría con artistas vivos.",
-          "mini_headline": "Bonamassa opina sobre letras con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WetUCHgGScT6FMVhHyx9Ee-1200-80.jpg",
-                "cap": "Joe Bonamassa en el GRAMMY Museum, 28 de agosto de 2026"
-              },
-              {
-                "t": "p",
-                "x": "En conversación con Blues Rock Review en el festival Eric Clapton’s Crossroads de Austin, Joe Bonamassa mencionó a Eddie Dalton, una creación de AI que está “en el Billboard’s Blues Chart todas las semanas, sin falta”."
-              },
-              {
-                "t": "p",
-                "x": "“Los fans responderán a lo que respondan… si les gusta la música hecha con AI, están en su derecho al 100%”, dijo. “¿Deberían esos artistas estar en la misma categoría que las personas vivas? No. Es algo horrible”."
-              },
-              {
-                "t": "video",
-                "yt": "VF4C5v5datc"
-              },
-              {
-                "t": "p",
-                "x": "Con Suno se mostró más comprensivo, sobre todo con los artistas emergentes: “Estamos en el negocio del entretenimiento. Si alguien usa Suno para escribir una letra, no es un delito grave ni una falta. Cuando vas subiendo… intentas que te noten”. Fingir que no está ocurriendo, añadió, sería esconder la cabeza bajo la arena."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "意大利对Suno\n服务条款展开调查",
+     "body": "意大利AGCM正调查Suno的条款，包括其认为要求用户放弃著作人身权的许可。",
+     "mini_headline": "意大利调查Suno条款",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "图片来源：FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "意大利竞争管理局（AGCM）周二（10月6日）表示，已对Suno的服务条款展开调查，认为这些条款“根据《消费者法典》第33条可能属于不公平条款”。"
+       },
+       {
+        "t": "p",
+        "x": "其关注点包括价格调整、账户终止、基于美国（US-based）的仲裁，以及一项据称要求用户放弃著作人身权的内容许可。该机构表示，这些条款“似乎赋予Suno广泛的自由裁量权，可在无需提供任何理由的情况下单方面变更合同、服务和订阅价格”。"
+       },
+       {
+        "t": "p",
+        "x": "AGCM表示，“有关版权的合同条款尤其值得关注”，称强加给消费者的许可界定不够明确，且违反意大利版权法（Law 633/1941），强制用户放弃著作人身权。该机构还指出了在美国进行的具有约束力的个人仲裁，以及放弃集体诉讼的条款。"
+       },
+       {
+        "t": "p",
+        "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
+       }
+      ]
+     }
     },
-    {
-      "id": "pope-leo-xiv-human-art-ai-warning",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
-      "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술·기계 구분이 시급하다고 했다.",
-      "mini_headline": "교황, AI 예술에 선 긋다",
-      "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/05/pope-delivers-ai-warning-algorithms-lack-the-spark-of-humanity/",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-            "cap": "교황"
-          },
-          {
-            "t": "p",
-            "x": "2026년에 교황 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술을 두고 목소리를 냈다. 이번에는 X 게시물이다."
-          },
-          {
-            "t": "p",
-            "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 트윗에는 이렇게 적혀 있었다."
-          },
-          {
-            "t": "p",
-            "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어진다."
-          },
-          {
-            "t": "p",
-            "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
-          },
-          {
-            "t": "p",
-            "x": "그 동맹이 구체적으로 무엇인지는 아직 분명하지 않다. 다만 이번 발언은 1월 교황이 낸 제60차 세계 홍보 주일 담화의 뒤를 잇는다."
-          },
-          {
-            "t": "p",
-            "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Pope Leo XIV says human art\ndiffers from machine output",
-          "body": "Pope Leo XIV says it is urgent to tell human art from machine output, citing an 'ontological difference' between them.",
-          "mini_headline": "Pope draws AI art line",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "The Pope"
-              },
-              {
-                "t": "p",
-                "x": "We did not expect to be writing a story about the Pope in 2026, let alone two, but here we are. Pope Leo XIV has been sounding off again about artificial intelligence and art – this time in a post on X."
-              },
-              {
-                "t": "p",
-                "x": "“In this era of artificial intelligence, it is becoming urgent to distinguish human art from what machines produce,” suggested his tweet."
-              },
-              {
-                "t": "p",
-                "x": "“There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,” continued the post."
-              },
-              {
-                "t": "p",
-                "x": "“Algorithms lack the spark of humanity. For this reason, the Church wishes to renew an alliance with artists and cultural institutions to safeguard our humanity.”"
-              },
-              {
-                "t": "p",
-                "x": "Details of that alliance remain unclear. However, the statement follows the Pope’s message for the 60th World Day of Social Communications in January."
-              },
-              {
-                "t": "p",
-                "x": "Then, he warned about human creative industries being “at risk of being dismantled and replaced with the label ‘Powered by AI,’ turning people into passive consumers of unthought thoughts and anonymous products without ownership or love.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
-          "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술·기계 구분이 시급하다고 했다.",
-          "mini_headline": "교황, AI 예술에 선 긋다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "교황"
-              },
-              {
-                "t": "p",
-                "x": "2026년에 교황 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술을 두고 목소리를 냈다. 이번에는 X 게시물이다."
-              },
-              {
-                "t": "p",
-                "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 트윗에는 이렇게 적혀 있었다."
-              },
-              {
-                "t": "p",
-                "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어진다."
-              },
-              {
-                "t": "p",
-                "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
-              },
-              {
-                "t": "p",
-                "x": "그 동맹이 구체적으로 무엇인지는 아직 분명하지 않다. 다만 이번 발언은 1월 교황이 낸 제60차 세계 홍보 주일 담화의 뒤를 잇는다."
-              },
-              {
-                "t": "p",
-                "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "教皇Leo XIV\n人間の芸術は機械と別物",
-          "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
-          "mini_headline": "教皇、AIアートに一線",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "教皇"
-              },
-              {
-                "t": "p",
-                "x": "2026年に教皇の記事を書くことになるとは思わなかった。それも二本目だ。教皇Leo XIVが再び人工知能と芸術について意見を表明した。今回はXへの投稿である。"
-              },
-              {
-                "t": "p",
-                "x": "「人工知能の時代において、人間の芸術を機械が生み出すものと区別することが急務になりつつある」と彼のツイートは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "「芸術と、他者が作った何百万もの画像をもとに機械が統計的計算によって生成しうるものとの間には、美的な違い以前に存在論的な違いがある」と投稿は続けた。"
-              },
-              {
-                "t": "p",
-                "x": "「アルゴリズムには人間性の輝きが欠けている。だからこそ教会は、私たちの人間性を守るため、芸術家や文化機関との同盟を新たにしたいと願っている」"
-              },
-              {
-                "t": "p",
-                "x": "その同盟の詳細はまだ明らかではない。ただ、この発言は1月に出された教皇の第60回世界広報の日メッセージに続くものだ。"
-              },
-              {
-                "t": "p",
-                "x": "その際、教皇は人間の創造産業が「解体され、『Powered by AI』というラベルに置き換えられる危機にあり、人々を、考えられていない思考や、所有も愛もない匿名の産物の受け身な消費者に変えてしまう」と警告していた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "教宗Leo XIV：\n人类艺术有别于机器产物",
-          "body": "教宗Leo XIV称人类艺术与机器产物存在“本体论差异”，亟需加以区分。",
-          "mini_headline": "教宗为AI艺术划线",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "教宗"
-              },
-              {
-                "t": "p",
-                "x": "我们没想到会在2026年写关于教宗的报道，更别说两篇了，但事情就是这样。教宗Leo XIV再次就人工智能与艺术发声，这次是在X上发帖。"
-              },
-              {
-                "t": "p",
-                "x": "“在这个人工智能时代，区分人类艺术与机器产物正变得刻不容缓，”他在推文中写道。"
-              },
-              {
-                "t": "p",
-                "x": "“艺术与机器基于他人创作的数百万张图像、通过统计计算所能生成的东西之间，在审美差异之前，首先存在本体论上的差异，”帖子接着写道。"
-              },
-              {
-                "t": "p",
-                "x": "“算法缺乏人性的火花。因此，教会希望与艺术家和文化机构重建联盟，以守护我们的人性。”"
-              },
-              {
-                "t": "p",
-                "x": "这一联盟的细节尚不清楚。不过，这番表态是在教宗1月发表的第60届世界社会传播日文告之后作出的。"
-              },
-              {
-                "t": "p",
-                "x": "当时，他警告人类创意产业“面临被拆解、被贴上‘Powered by AI’标签所取代的风险，使人们沦为未经思考的思想和无归属、无爱的匿名产品的被动消费者”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El papa Leo XIV: el arte humano\nno es lo que produce una máquina",
-          "body": "El papa Leo XIV ve urgente separar el arte humano de lo que hacen las máquinas y alude a una 'diferencia ontológica'.",
-          "mini_headline": "El papa traza una línea ante el arte con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "El papa"
-              },
-              {
-                "t": "p",
-                "x": "No esperábamos escribir una noticia sobre el papa en 2026, y menos aún dos, pero aquí estamos. El papa Leo XIV ha vuelto a pronunciarse sobre la inteligencia artificial y el arte, esta vez en una publicación en X."
-              },
-              {
-                "t": "p",
-                "x": "“En esta era de la inteligencia artificial, se está volviendo urgente distinguir el arte humano de lo que producen las máquinas”, planteaba su tuit."
-              },
-              {
-                "t": "p",
-                "x": "“Existe una diferencia ontológica, incluso antes que estética, entre el arte y lo que una máquina puede generar mediante cálculo estadístico a partir de millones de imágenes creadas por otros”, continuaba la publicación."
-              },
-              {
-                "t": "p",
-                "x": "“Los algoritmos carecen de la chispa de la humanidad. Por eso, la Iglesia desea renovar una alianza con artistas e instituciones culturales para salvaguardar nuestra humanidad”."
-              },
-              {
-                "t": "p",
-                "x": "Los detalles de esa alianza siguen sin estar claros. Sin embargo, la declaración llega tras el mensaje del papa para la 60.ª Jornada Mundial de las Comunicaciones Sociales, en enero."
-              },
-              {
-                "t": "p",
-                "x": "Entonces advirtió de que las industrias creativas humanas están “en riesgo de ser desmanteladas y sustituidas por la etiqueta ‘Powered by AI’, convirtiendo a las personas en consumidores pasivos de pensamientos no pensados y de productos anónimos sin autoría ni amor”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "교황 Leo XIV\n인간 예술, 기계와 달라",
-          "body": "교황 Leo XIV는 '존재론적 차이'를 들어 예술과 기계의 구분이 시급하다 했다.",
-          "mini_headline": "교황, AI 예술에 선 긋다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "교황"
-              },
-              {
-                "t": "p",
-                "x": "2026년에 교황에 관한 기사를, 그것도 두 번이나 쓰게 될 줄은 몰랐지만 결국 이렇게 됐다. 교황 Leo XIV가 다시 인공지능과 예술에 대해 목소리를 냈다. 이번에는 X 게시물을 통해서다."
-              },
-              {
-                "t": "p",
-                "x": "“인공지능 시대에 인간의 예술을 기계가 만들어 내는 것과 구별하는 일이 점점 시급해지고 있다.” 그의 트윗은 이렇게 적었다."
-              },
-              {
-                "t": "p",
-                "x": "“예술과, 남들이 만든 수백만 장의 이미지를 바탕으로 기계가 통계적 계산을 통해 생성할 수 있는 것 사이에는 미학적 차이 이전에 존재론적 차이가 있다.” 게시물은 이렇게 이어졌다."
-              },
-              {
-                "t": "p",
-                "x": "“알고리즘에는 인간다움의 불꽃이 없다. 그래서 교회는 우리의 인간다움을 지키기 위해 예술가 및 문화 기관과의 동맹을 새롭게 하고자 한다.”"
-              },
-              {
-                "t": "p",
-                "x": "그 동맹의 구체적인 내용은 아직 분명하지 않다. 다만 이번 발언은 1월에 나온 교황의 제60차 세계 홍보 주일 담화에 뒤이은 것이다."
-              },
-              {
-                "t": "p",
-                "x": "당시 그는 인간의 창작 산업이 “해체되어 ‘Powered by AI’라는 꼬리표로 대체될 위험에 놓여 있으며, 사람들을 생각되지 않은 생각과 소유도 사랑도 없는 익명의 산물을 수동적으로 소비하는 존재로 만들고 있다”고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "教皇Leo XIV\n人間の芸術は機械と別物",
-          "body": "教皇Leo XIVは「存在論的な違い」を挙げ、人間の芸術と機械の産物の区別は急務だとした。",
-          "mini_headline": "教皇、AIアートに一線",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "教皇"
-              },
-              {
-                "t": "p",
-                "x": "2026年に教皇の記事を書くことになるとは思わなかった。それも二本目だ。教皇Leo XIVが再び人工知能と芸術について意見を表明した。今回はXへの投稿である。"
-              },
-              {
-                "t": "p",
-                "x": "「人工知能の時代において、人間の芸術を機械が生み出すものと区別することが急務になりつつある」と彼のツイートは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "「芸術と、他者が作った何百万もの画像をもとに機械が統計的計算によって生成しうるものとの間には、美的な違い以前に存在論的な違いがある」と投稿は続けた。"
-              },
-              {
-                "t": "p",
-                "x": "「アルゴリズムには人間性の輝きが欠けている。だからこそ教会は、私たちの人間性を守るため、芸術家や文化機関との同盟を新たにしたいと願っている」"
-              },
-              {
-                "t": "p",
-                "x": "その同盟の詳細はまだ明らかではない。ただ、この発言は1月に出された教皇の第60回世界広報の日メッセージに続くものだ。"
-              },
-              {
-                "t": "p",
-                "x": "その際、教皇は人間の創造産業が「解体され、『Powered by AI』というラベルに置き換えられる危機にあり、人々を、考えられていない思考や、所有も愛もない匿名の産物の受け身な消費者に変えてしまう」と警告していた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "教宗Leo XIV：\n人类艺术有别于机器产物",
-          "body": "教宗Leo XIV称人类艺术与机器产物存在“本体论差异”，亟需加以区分。",
-          "mini_headline": "教宗为AI艺术划线",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "教宗"
-              },
-              {
-                "t": "p",
-                "x": "我们没想到会在2026年写关于教宗的报道，更别说两篇了，但事情就是这样。教宗Leo XIV再次就人工智能与艺术发声，这次是在X上发帖。"
-              },
-              {
-                "t": "p",
-                "x": "“在这个人工智能时代，区分人类艺术与机器产物正变得刻不容缓，”他在推文中写道。"
-              },
-              {
-                "t": "p",
-                "x": "“艺术与机器基于他人创作的数百万张图像、通过统计计算所能生成的东西之间，在审美差异之前，首先存在本体论上的差异，”帖子接着写道。"
-              },
-              {
-                "t": "p",
-                "x": "“算法缺乏人性的火花。因此，教会希望与艺术家和文化机构重建联盟，以守护我们的人性。”"
-              },
-              {
-                "t": "p",
-                "x": "这一联盟的细节尚不清楚。不过，这番表态是在教宗1月发表的第60届世界社会传播日文告之后作出的。"
-              },
-              {
-                "t": "p",
-                "x": "当时，他警告人类创意产业“面临被拆解、被贴上‘Powered by AI’标签所取代的风险，使人们沦为未经思考的思想和无归属、无爱的匿名产品的被动消费者”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El papa Leo XIV: el arte humano\nno es lo que produce una máquina",
-          "body": "El papa Leo XIV ve urgente separar el arte humano de lo que hacen las máquinas y alude a una 'diferencia ontológica'.",
-          "mini_headline": "El papa traza una línea ante el arte con AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-05T113853.876.png?fit=780%2C585&ssl=1",
-                "cap": "El papa"
-              },
-              {
-                "t": "p",
-                "x": "No esperábamos escribir una noticia sobre el papa en 2026, y menos aún dos, pero aquí estamos. El papa Leo XIV ha vuelto a pronunciarse sobre la inteligencia artificial y el arte, esta vez en una publicación en X."
-              },
-              {
-                "t": "p",
-                "x": "“En esta era de la inteligencia artificial, se está volviendo urgente distinguir el arte humano de lo que producen las máquinas”, planteaba su tuit."
-              },
-              {
-                "t": "p",
-                "x": "“Existe una diferencia ontológica, incluso antes que estética, entre el arte y lo que una máquina puede generar mediante cálculo estadístico a partir de millones de imágenes creadas por otros”, continuaba la publicación."
-              },
-              {
-                "t": "p",
-                "x": "“Los algoritmos carecen de la chispa de la humanidad. Por eso, la Iglesia desea renovar una alianza con artistas e instituciones culturales para salvaguardar nuestra humanidad”."
-              },
-              {
-                "t": "p",
-                "x": "Los detalles de esa alianza siguen sin estar claros. Sin embargo, la declaración llega tras el mensaje del papa para la 60.ª Jornada Mundial de las Comunicaciones Sociales, en enero."
-              },
-              {
-                "t": "p",
-                "x": "Entonces advirtió de que las industrias creativas humanas están “en riesgo de ser desmanteladas y sustituidas por la etiqueta ‘Powered by AI’, convirtiendo a las personas en consumidores pasivos de pensamientos no pensados y de productos anónimos sin autoría ni amor”."
-              }
-            ]
-          }
-        }
-      }
+    "es": {
+     "headline": "Italia abre una investigación\nsobre los términos de Suno",
+     "body": "La AGCM de Italia investiga los términos de Suno, incluida una licencia que obliga a renunciar a derechos morales.",
+     "mini_headline": "Italia investiga los términos de Suno",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "Crédito de la foto: FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "La autoridad de competencia de Italia (AGCM) informó el martes (6 de octubre) que ha abierto una investigación sobre los términos de servicio de Suno, que según la autoridad \"pueden ser abusivos conforme al artículo 33 del Código del Consumidor\"."
+       },
+       {
+        "t": "p",
+        "x": "Sus preocupaciones incluyen los cambios de precio, la cancelación de cuentas, el arbitraje con sede en EE. UU. (US-based) y una licencia de contenido que, según la autoridad, obliga a los usuarios a renunciar a sus derechos morales. Los términos \"parecen otorgar a Suno amplia discreción para hacer cambios unilaterales en el contrato, el servicio y los precios de suscripción, sin tener que dar ninguna justificación\", señaló la autoridad."
+       },
+       {
+        "t": "p",
+        "x": "La AGCM afirmó que \"las disposiciones contractuales sobre derechos de autor merecen especial atención\", calificó de insuficientemente definida la licencia impuesta a los consumidores y señaló que impone la renuncia a los derechos morales en contra de la ley italiana de derechos de autor, la Ley 633/1941. También señaló el arbitraje individual vinculante en Estados Unidos y la renuncia a las demandas colectivas."
+       },
+       {
+        "t": "p",
+        "x": "La autoridad abrirá una consulta pública sobre los términos en las próximas semanas. Sus multas por cláusulas contractuales abusivas oscilan entre €5,000 y €10 millones. MBW ha contactado con Suno para pedir comentarios."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "이탈리아, Suno\n이용약관 조사 착수",
+     "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 조사한다.",
+     "mini_headline": "이탈리아, Suno 약관 조사",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "사진 출처: FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno의 이용약관에 대한 조사에 착수했다고 밝혔다. 당국은 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"고 봤다."
+       },
+       {
+        "t": "p",
+        "x": "당국이 우려하는 대목은 가격 변경, 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구한다고 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 밝혔다."
+       },
+       {
+        "t": "p",
+        "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스의 범위가 충분히 정의되지 않았고, 이탈리아 저작권법(Law 633/1941)에 반하는 저작인격권 포기를 강요한다는 판단이다. 미국에서의 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 지적했다."
+       },
+       {
+        "t": "p",
+        "x": "당국은 앞으로 몇 주 안에 이 약관에 대한 공개 의견 수렴을 시작한다. 불공정 계약 조항에 대한 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 요청했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "イタリア、Sunoの\n利用規約を調査",
+     "body": "イタリアAGCMが著作者人格権放棄のライセンスなどSunoの規約を調査中だ。",
+     "mini_headline": "イタリア、Sunoの規約を調査",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "写真：FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
+       },
+       {
+        "t": "p",
+        "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
+       },
+       {
+        "t": "p",
+        "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
+       },
+       {
+        "t": "p",
+        "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "意大利对Suno\n服务条款展开调查",
+     "body": "意大利AGCM正调查Suno的条款，包括其认为要求用户放弃著作人身权的许可。",
+     "mini_headline": "意大利调查Suno条款",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "图片来源：FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "意大利竞争管理局（AGCM）周二（10月6日）表示，已对Suno的服务条款展开调查，认为这些条款“根据《消费者法典》第33条可能属于不公平条款”。"
+       },
+       {
+        "t": "p",
+        "x": "其关注点包括价格调整、账户终止、基于美国（US-based）的仲裁，以及一项据称要求用户放弃著作人身权的内容许可。该机构表示，这些条款“似乎赋予Suno广泛的自由裁量权，可在无需提供任何理由的情况下单方面变更合同、服务和订阅价格”。"
+       },
+       {
+        "t": "p",
+        "x": "AGCM表示，“有关版权的合同条款尤其值得关注”，称强加给消费者的许可界定不够明确，且违反意大利版权法（Law 633/1941），强制用户放弃著作人身权。该机构还指出了在美国进行的具有约束力的个人仲裁，以及放弃集体诉讼的条款。"
+       },
+       {
+        "t": "p",
+        "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Italia abre una investigación\nsobre los términos de Suno",
+     "body": "La AGCM de Italia investiga los términos de Suno, incluida una licencia que obliga a renunciar a derechos morales.",
+     "mini_headline": "Italia investiga los términos de Suno",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+        "cap": "Crédito de la foto: FotoField / Shutterstock.com"
+       },
+       {
+        "t": "p",
+        "x": "La autoridad de competencia de Italia (AGCM) informó el martes (6 de octubre) que ha abierto una investigación sobre los términos de servicio de Suno, que según la autoridad \"pueden ser abusivos conforme al artículo 33 del Código del Consumidor\"."
+       },
+       {
+        "t": "p",
+        "x": "Sus preocupaciones incluyen los cambios de precio, la cancelación de cuentas, el arbitraje con sede en EE. UU. (US-based) y una licencia de contenido que, según la autoridad, obliga a los usuarios a renunciar a sus derechos morales. Los términos \"parecen otorgar a Suno amplia discreción para hacer cambios unilaterales en el contrato, el servicio y los precios de suscripción, sin tener que dar ninguna justificación\", señaló la autoridad."
+       },
+       {
+        "t": "p",
+        "x": "La AGCM afirmó que \"las disposiciones contractuales sobre derechos de autor merecen especial atención\", calificó de insuficientemente definida la licencia impuesta a los consumidores y señaló que impone la renuncia a los derechos morales en contra de la ley italiana de derechos de autor, la Ley 633/1941. También señaló el arbitraje individual vinculante en Estados Unidos y la renuncia a las demandas colectivas."
+       },
+       {
+        "t": "p",
+        "x": "La autoridad abrirá una consulta pública sobre los términos en las próximas semanas. Sus multas por cláusulas contractuales abusivas oscilan entre €5,000 y €10 millones. MBW ha contactado con Suno para pedir comentarios."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "music-elevenlabs-search",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "ElevenLabs 공모전\nAI-made에 $100K",
+   "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 걸었다.",
+   "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
+   "tool": "Music",
+   "source": "ElevenLabs (YouTube)",
+   "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "video",
+      "yt": "3wMjqko_v40"
+     },
+     {
+      "t": "p",
+      "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
+     },
+     {
+      "t": "p",
+      "x": "가상 브랜드의 광고를 15–45초 분량으로 만들고 ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈추지 못할 무언가를 만드는 일이다."
+     },
+     {
+      "t": "p",
+      "x": "상금 총 $100,000는 수상자 11명에게 돌아가고, 대상 수상자는 $50,000를 받는다. 상위 수상자 11명은 ElevenLabs와 단독 1:1 자리에도 초대된다."
+     },
+     {
+      "t": "p",
+      "x": "응모 마감은 2026년 11월 1일 11:59pm PST다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "ElevenLabs offers $100K for\nads with AI-made jingles",
+     "body": "ElevenLabs' The Search contest offers $100,000 for 15-45 second ads with original jingles made in ElevenCreative.",
+     "mini_headline": "ElevenLabs' $100K jingle contest",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "Introducing The Search: a global competition for the world's catchiest ad."
+       },
+       {
+        "t": "p",
+        "x": "Create a 15–45 second ad for a fictional brand, featuring an original jingle made in ElevenCreative. The brief is simple: make something people can't stop humming."
+       },
+       {
+        "t": "p",
+        "x": "$100,000 in prizes is up for grabs across 11 winners, including a $50,000 grand prize. The top 11 winners will also be invited to an exclusive 1:1 with ElevenLabs."
+       },
+       {
+        "t": "p",
+        "x": "Entries close November 1, 2026 at 11:59pm PST."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "ElevenLabs 공모전\nAI-made에 $100K",
+     "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 걸었다.",
+     "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
+       },
+       {
+        "t": "p",
+        "x": "가상 브랜드의 광고를 15–45초 분량으로 만들고 ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈추지 못할 무언가를 만드는 일이다."
+       },
+       {
+        "t": "p",
+        "x": "상금 총 $100,000는 수상자 11명에게 돌아가고, 대상 수상자는 $50,000를 받는다. 상위 수상자 11명은 ElevenLabs와 단독 1:1 자리에도 초대된다."
+       },
+       {
+        "t": "p",
+        "x": "응모 마감은 2026년 11월 1일 11:59pm PST다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ElevenLabsが\nAI-made曲に$100K",
+     "body": "ElevenLabsが15-45秒のジングル広告を募り、賞金$100,000を出す。",
+     "mini_headline": "ElevenLabs、$100KのAI-madeジングル広告コンテスト",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "The Searchを紹介する。世界で最も耳に残る広告を競うグローバルコンテストだ。"
+       },
+       {
+        "t": "p",
+        "x": "架空のブランドのために15–45秒の広告を制作し、ElevenCreativeで作ったオリジナルジングルを盛り込む。課題はシンプルだ。思わず口ずさまずにはいられないものを作ることだ。"
+       },
+       {
+        "t": "p",
+        "x": "賞金総額は$100,000で、$50,000のグランプリを含む11人の受賞者に贈られる。上位11人の受賞者はElevenLabsとの特別な1:1にも招待される。"
+       },
+       {
+        "t": "p",
+        "x": "応募締め切りは2026年11月1日11:59pm PSTだ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "ElevenLabs征集\nAI-made歌奖$100K",
+     "body": "ElevenLabs拿出$100,000奖金，征集配有原创广告歌的15-45秒广告。",
+     "mini_headline": "ElevenLabs $100K AI-made广告歌大赛",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "推出The Search：一项寻找世界上最朗朗上口广告的全球大赛。"
+       },
+       {
+        "t": "p",
+        "x": "为一个虚构品牌制作一支15–45秒的广告，并配上用ElevenCreative制作的原创广告歌。要求很简单：做出让人忍不住一直哼唱的作品。"
+       },
+       {
+        "t": "p",
+        "x": "总额$100,000的奖金将由11名获奖者分享，其中大奖为$50,000。前11名获奖者还将受邀与ElevenLabs进行专属1:1交流。"
+       },
+       {
+        "t": "p",
+        "x": "参赛作品截止时间为2026年11月1日11:59pm PST。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "ElevenLabs ofrece $100K por\nanuncios con jingles AI-made",
+     "body": "The Search, de ElevenLabs, ofrece $100,000 por anuncios de 15-45 segundos con jingles originales de ElevenCreative.",
+     "mini_headline": "ElevenLabs: $100K por jingles AI-made",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "Presentamos The Search: un concurso global para encontrar el anuncio más pegadizo del mundo."
+       },
+       {
+        "t": "p",
+        "x": "Crea un anuncio de 15–45 segundos para una marca ficticia, con un jingle original hecho en ElevenCreative. La consigna es sencilla: haz algo que la gente no pueda dejar de tararear."
+       },
+       {
+        "t": "p",
+        "x": "Hay $100,000 en premios repartidos entre 11 ganadores, incluido un gran premio de $50,000. Los 11 mejores ganadores también serán invitados a un encuentro exclusivo 1:1 con ElevenLabs."
+       },
+       {
+        "t": "p",
+        "x": "La inscripción cierra el 1 de noviembre de 2026 a las 11:59pm PST."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "ElevenLabs 공모전\nAI-made에 $100K",
+     "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 건다.",
+     "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
+       },
+       {
+        "t": "p",
+        "x": "가상의 브랜드를 위한 15–45초 광고를 만들고, ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈출 수 없는 무언가를 만드는 것이다."
+       },
+       {
+        "t": "p",
+        "x": "총 $100,000 상금이 11명의 수상자에게 돌아가며, 대상 상금은 $50,000다. 상위 11명의 수상자는 ElevenLabs와의 단독 1:1 자리에도 초대받는다."
+       },
+       {
+        "t": "p",
+        "x": "응모는 2026년 11월 1일 11:59pm PST에 마감한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ElevenLabsが\nAI-made曲に$100K",
+     "body": "ElevenLabsが15-45秒のジングル広告を募り、賞金$100,000を出す。",
+     "mini_headline": "ElevenLabs、$100KのAI-madeジングル広告コンテスト",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "The Searchを紹介する。世界で最も耳に残る広告を競うグローバルコンテストだ。"
+       },
+       {
+        "t": "p",
+        "x": "架空のブランドのために15–45秒の広告を制作し、ElevenCreativeで作ったオリジナルジングルを盛り込む。課題はシンプルだ。思わず口ずさまずにはいられないものを作ることだ。"
+       },
+       {
+        "t": "p",
+        "x": "賞金総額は$100,000で、$50,000のグランプリを含む11人の受賞者に贈られる。上位11人の受賞者はElevenLabsとの特別な1:1にも招待される。"
+       },
+       {
+        "t": "p",
+        "x": "応募締め切りは2026年11月1日11:59pm PSTだ。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "ElevenLabs征集\nAI-made歌奖$100K",
+     "body": "ElevenLabs拿出$100,000奖金，征集配有原创广告歌的15-45秒广告。",
+     "mini_headline": "ElevenLabs $100K AI-made广告歌大赛",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "推出The Search：一项寻找世界上最朗朗上口广告的全球大赛。"
+       },
+       {
+        "t": "p",
+        "x": "为一个虚构品牌制作一支15–45秒的广告，并配上用ElevenCreative制作的原创广告歌。要求很简单：做出让人忍不住一直哼唱的作品。"
+       },
+       {
+        "t": "p",
+        "x": "总额$100,000的奖金将由11名获奖者分享，其中大奖为$50,000。前11名获奖者还将受邀与ElevenLabs进行专属1:1交流。"
+       },
+       {
+        "t": "p",
+        "x": "参赛作品截止时间为2026年11月1日11:59pm PST。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "ElevenLabs ofrece $100K por\nanuncios con jingles AI-made",
+     "body": "The Search, de ElevenLabs, ofrece $100,000 por anuncios de 15-45 segundos con jingles originales de ElevenCreative.",
+     "mini_headline": "ElevenLabs: $100K por jingles AI-made",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "video",
+        "yt": "3wMjqko_v40"
+       },
+       {
+        "t": "p",
+        "x": "Presentamos The Search: un concurso global para encontrar el anuncio más pegadizo del mundo."
+       },
+       {
+        "t": "p",
+        "x": "Crea un anuncio de 15–45 segundos para una marca ficticia, con un jingle original hecho en ElevenCreative. La consigna es sencilla: haz algo que la gente no pueda dejar de tararear."
+       },
+       {
+        "t": "p",
+        "x": "Hay $100,000 en premios repartidos entre 11 ganadores, incluido un gran premio de $50,000. Los 11 mejores ganadores también serán invitados a un encuentro exclusivo 1:1 con ElevenLabs."
+       },
+       {
+        "t": "p",
+        "x": "La inscripción cierra el 1 de noviembre de 2026 a las 11:59pm PST."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "music-aria-australia",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
+   "body": "ARIA 대표가 AI 규제를 고민하는 호주 정치권에 AI 기업의 로비를 경고했다.",
+   "mini_headline": "ARIA, AI 로비 경고",
+   "tool": "Music",
+   "source": "Music Ally",
+   "url": "https://musically.com/2026/10/06/aria-boss-warns-australian-politicians-on-ai-lobbying-demands/",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "full": {
+    "mode": "full",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+     },
+     {
+      "t": "p",
+      "x": "호주 정치인들은 AI 기술에 어떤 규칙을 둘지 고민하고 있다. 호주는 음악 업계가 정치인의 귀를 사로잡으려 일부 테크 기업과 치열하게 맞붙는 나라 가운데 하나다."
+     },
+     {
+      "t": "p",
+      "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해 가장 큰 AI 기업 두 곳이 호주에서 노리는 로비 목표를 직설적으로 비판했다."
+     },
+     {
+      "t": "p",
+      "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
+     },
+     {
+      "t": "p",
+      "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
+     },
+     {
+      "t": "p",
+      "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라는 경고도 덧붙였다."
+     },
+     {
+      "t": "p",
+      "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데는 분명한 이유가 있다고 짚었다. 법정에서든 권력의 복도에서든, 세계 다른 곳에서 벌어지는 일에 호주가 영향을 줄 수 있어서다."
+     },
+     {
+      "t": "p",
+      "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "ARIA warns Australian\npoliticians on AI lobbying",
+     "body": "ARIA's chief warned Australian politicians about AI companies' lobbying demands as the country weighs its AI rules.",
+     "mini_headline": "ARIA warns on AI lobbying",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "Australia is one of the countries where the music industry is slugging it out with some tech companies to win the ears of politicians, as the latter mull what rules to put in place covering AI technology."
+       },
+       {
+        "t": "p",
+        "x": "Labels body ARIA's CEO Annabelle Herd was direct in her appearance before a Joint Select Committee on Artificial Intelligence this week, criticising two of the biggest AI companies' lobbying goals in Australia."
+       },
+       {
+        "t": "p",
+        "x": "\"OpenAI and Anthropic want the Australian Government to sign up to a deal to train their frontier AI agents here on the proviso that they don't have to abide by our copyright laws,\" she said. \"Their reason? The world's richest and most advanced companies say it would be too costly and complex to work with rights holders.\""
+       },
+       {
+        "t": "p",
+        "x": "\"This concept that the status quo isn't working is being used as an argument by AI companies to change our copyright law. You don't address a systemic problem of mass piracy by changing the law to legalise that piracy on an ongoing basis.\""
+       },
+       {
+        "t": "p",
+        "x": "Herd called for the AI companies to \"come to the negotiating table, not to the Prime Minister's office\" while warning that if their desired rules are put in place \"it would devastate the music industry and make Australia a pariah for rights holders globally\"."
+       },
+       {
+        "t": "p",
+        "x": "Herd also suggested that Australia is a key focus for these lobbying efforts for a specific reason: the potential impact on what's happening elsewhere in the world – in courtrooms as well as in the corridors of power."
+       },
+       {
+        "t": "p",
+        "x": "\"If we go down a path and declare that there's no licensing market – Australia deciding to upend the global licensing market and say there isn't one – then that will assist them in their US lawsuits,\" said Herd. \"I'm not sure why that's in Australia's interests.\""
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
+     "body": "ARIA 대표가 AI 규제를 고민하는 호주 정치권에 AI 기업의 로비를 경고했다.",
+     "mini_headline": "ARIA, AI 로비 경고",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "호주 정치인들은 AI 기술에 어떤 규칙을 둘지 고민하고 있다. 호주는 음악 업계가 정치인의 귀를 사로잡으려 일부 테크 기업과 치열하게 맞붙는 나라 가운데 하나다."
+       },
+       {
+        "t": "p",
+        "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해 가장 큰 AI 기업 두 곳이 호주에서 노리는 로비 목표를 직설적으로 비판했다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
+       },
+       {
+        "t": "p",
+        "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
+       },
+       {
+        "t": "p",
+        "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라는 경고도 덧붙였다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데는 분명한 이유가 있다고 짚었다. 법정에서든 권력의 복도에서든, 세계 다른 곳에서 벌어지는 일에 호주가 영향을 줄 수 있어서다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ARIA、豪政界に\nAIロビー活動を警告",
+     "body": "ARIAのトップが、AI規制を検討する豪政界にAI企業のロビー要求を警告した。",
+     "mini_headline": "ARIA、AIロビー活動を警告",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "オーストラリアは、政治家がAI技術を対象にどのようなルールを設けるか検討する中、音楽業界が一部のテック企業と政治家の関心を奪い合っている国の一つだ。"
+       },
+       {
+        "t": "p",
+        "x": "レーベル団体ARIAのCEO、アナベル・ハード（Annabelle Herd）は今週、人工知能に関する合同特別委員会（Joint Select Committee on Artificial Intelligence）に出席し、AI大手2社がオーストラリアで掲げるロビー活動の目標を率直に批判した。"
+       },
+       {
+        "t": "p",
+        "x": "「OpenAIとAnthropicは、自社のフロンティアAIエージェントをここで学習させる協定に、我々の著作権法を守らなくてよいという条件付きで、オーストラリア政府が署名することを望んでいる」と彼女は述べた。「その理由は？世界で最も裕福で最も先進的な企業が、権利者と協力するのはコストがかかりすぎ、複雑すぎると言っているのだ」"
+       },
+       {
+        "t": "p",
+        "x": "「現状が機能していないという考え方が、我々の著作権法を変えるための論拠としてAI企業に使われている。大規模な海賊行為という構造的な問題は、その海賊行為を継続的に合法化するよう法律を変えることで解決するものではない」"
+       },
+       {
+        "t": "p",
+        "x": "ハードはAI企業に対し「首相官邸ではなく交渉のテーブルに来る」よう求めるとともに、彼らの望むルールが導入されれば「音楽業界に壊滅的な打撃を与え、オーストラリアを世界の権利者にとってのけ者にする」と警告した。"
+       },
+       {
+        "t": "p",
+        "x": "ハードはまた、オーストラリアがこうしたロビー活動の主な標的となっているのには明確な理由があると示唆した。法廷でも権力の中枢でも、世界の他の地域で起きていることに影響を及ぼしうるからだ。"
+       },
+       {
+        "t": "p",
+        "x": "「もし我々がライセンス市場は存在しないと宣言する道を進めば、つまりオーストラリアが世界のライセンス市場を覆し、そんなものはないと言えば、それは米国（US）での彼らの訴訟を後押しすることになる」とハードは述べた。「それがなぜオーストラリアの利益になるのか、私にはわからない」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "ARIA就AI游说\n向澳大利亚政界示警",
+     "body": "ARIA负责人在澳大利亚权衡AI规则之际，就AI公司的游说诉求向政界发出警告。",
+     "mini_headline": "ARIA警告AI游说",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "澳大利亚的政界人士正在考虑为AI技术制定哪些规则，而音乐产业正与部分科技公司激烈角力，争取政界人士的支持。澳大利亚是出现这种局面的国家之一。"
+       },
+       {
+        "t": "p",
+        "x": "唱片业机构ARIA的CEO安娜贝尔·赫德（Annabelle Herd）本周出席人工智能联合特别委员会（Joint Select Committee on Artificial Intelligence）时直言不讳，批评了两家最大的AI公司在澳大利亚的游说目标。"
+       },
+       {
+        "t": "p",
+        "x": "她说：“OpenAI和Anthropic希望澳大利亚政府签署一项协议，允许它们在这里训练前沿AI智能体，前提是它们无须遵守我们的版权法。”“理由是什么？这些全球最富有、最先进的公司说，与版权方合作成本太高、太复杂。”"
+       },
+       {
+        "t": "p",
+        "x": "“AI公司把‘现状行不通’这一说法当作修改我们版权法的理由。解决大规模盗版这一系统性问题，靠的不是修改法律、让这种盗版长期合法化。”"
+       },
+       {
+        "t": "p",
+        "x": "赫德呼吁AI公司“到谈判桌前来，而不是去总理办公室”，并警告称，如果它们想要的规则落地，“将重创音乐产业，并让澳大利亚在全球版权方眼中沦为弃儿”。"
+       },
+       {
+        "t": "p",
+        "x": "赫德还指出，澳大利亚之所以成为这些游说活动的重点，有一个具体原因：这可能影响世界其他地方正在发生的事情——无论是在法庭上，还是在权力走廊中。"
+       },
+       {
+        "t": "p",
+        "x": "“如果我们走上这条路，宣布不存在授权市场——澳大利亚决定颠覆全球授权市场，说它根本不存在——那将有助于它们在美国（US）的诉讼，”赫德说，“我不确定这为何符合澳大利亚的利益。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "ARIA alerta a los políticos\naustralianos del lobby de la IA",
+     "body": "La CEO de ARIA advirtió a políticos australianos sobre el lobby de empresas de IA mientras el país define sus reglas.",
+     "mini_headline": "ARIA alerta sobre el lobby de la IA",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "Australia es uno de los países donde la industria musical libra una dura pugna con algunas empresas tecnológicas para ganarse el oído de los políticos, mientras estos estudian qué normas aplicar a la tecnología de IA (AI)."
+       },
+       {
+        "t": "p",
+        "x": "Annabelle Herd, CEO de ARIA, la organización de los sellos discográficos, fue directa en su comparecencia de esta semana ante el Joint Select Committee on Artificial Intelligence (Comité Selecto Conjunto sobre Inteligencia Artificial) y criticó los objetivos de lobby en Australia de dos de las mayores empresas de IA."
+       },
+       {
+        "t": "p",
+        "x": "\"OpenAI y Anthropic quieren que el Gobierno australiano firme un acuerdo para entrenar aquí sus agentes de IA de frontera con la condición de que no tengan que cumplir nuestras leyes de derechos de autor\", dijo. \"¿Su razón? Las empresas más ricas y avanzadas del mundo dicen que sería demasiado costoso y complejo trabajar con los titulares de derechos.\""
+       },
+       {
+        "t": "p",
+        "x": "\"Las empresas de IA usan la idea de que el statu quo no funciona como argumento para cambiar nuestra ley de derechos de autor. Un problema sistémico de piratería masiva no se resuelve cambiando la ley para legalizar esa piratería de forma permanente.\""
+       },
+       {
+        "t": "p",
+        "x": "Herd pidió a las empresas de IA que \"vengan a la mesa de negociación, no a la oficina del primer ministro\" y advirtió que, si se aplican las normas que desean, \"devastaría la industria musical y convertiría a Australia en un paria para los titulares de derechos de todo el mundo\"."
+       },
+       {
+        "t": "p",
+        "x": "Herd también sugirió que Australia es un objetivo clave de estos esfuerzos de lobby por una razón concreta: el posible impacto en lo que ocurre en otras partes del mundo, tanto en los tribunales como en los pasillos del poder."
+       },
+       {
+        "t": "p",
+        "x": "\"Si tomamos ese camino y declaramos que no existe un mercado de licencias —que Australia decida trastocar el mercado mundial de licencias y diga que no existe—, eso les ayudará en sus demandas en EE. UU. (US)\", dijo Herd. \"No sé por qué eso sería de interés para Australia.\""
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
+     "body": "ARIA 대표가 AI 규제를 검토 중인 호주 정치권에 AI 기업 로비를 경고했다.",
+     "mini_headline": "ARIA, AI 로비 경고",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "호주는 정치인들이 AI 기술에 어떤 규칙을 둘지 고민하는 가운데, 음악 업계가 일부 테크 기업과 정치인의 귀를 사로잡으려 치열하게 맞붙고 있는 나라 가운데 하나다."
+       },
+       {
+        "t": "p",
+        "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해, 가장 큰 AI 기업 두 곳이 호주에서 추진하는 로비 목표를 직설적으로 비판했다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
+       },
+       {
+        "t": "p",
+        "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
+       },
+       {
+        "t": "p",
+        "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 또 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라고 경고했다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데에는 분명한 이유가 있다고 짚었다. 법정은 물론 권력의 복도까지, 세계 다른 곳에서 벌어지는 일에 미칠 수 있는 영향 때문이라는 것이다."
+       },
+       {
+        "t": "p",
+        "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "ARIA、豪政界に\nAIロビー活動を警告",
+     "body": "ARIAのトップが、AI規制を検討する豪政界にAI企業のロビー要求を警告した。",
+     "mini_headline": "ARIA、AIロビー活動を警告",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "オーストラリアは、政治家がAI技術を対象にどのようなルールを設けるか検討する中、音楽業界が一部のテック企業と政治家の関心を奪い合っている国の一つだ。"
+       },
+       {
+        "t": "p",
+        "x": "レーベル団体ARIAのCEO、アナベル・ハード（Annabelle Herd）は今週、人工知能に関する合同特別委員会（Joint Select Committee on Artificial Intelligence）に出席し、AI大手2社がオーストラリアで掲げるロビー活動の目標を率直に批判した。"
+       },
+       {
+        "t": "p",
+        "x": "「OpenAIとAnthropicは、自社のフロンティアAIエージェントをここで学習させる協定に、我々の著作権法を守らなくてよいという条件付きで、オーストラリア政府が署名することを望んでいる」と彼女は述べた。「その理由は？世界で最も裕福で最も先進的な企業が、権利者と協力するのはコストがかかりすぎ、複雑すぎると言っているのだ」"
+       },
+       {
+        "t": "p",
+        "x": "「現状が機能していないという考え方が、我々の著作権法を変えるための論拠としてAI企業に使われている。大規模な海賊行為という構造的な問題は、その海賊行為を継続的に合法化するよう法律を変えることで解決するものではない」"
+       },
+       {
+        "t": "p",
+        "x": "ハードはAI企業に対し「首相官邸ではなく交渉のテーブルに来る」よう求めるとともに、彼らの望むルールが導入されれば「音楽業界に壊滅的な打撃を与え、オーストラリアを世界の権利者にとってのけ者にする」と警告した。"
+       },
+       {
+        "t": "p",
+        "x": "ハードはまた、オーストラリアがこうしたロビー活動の主な標的となっているのには明確な理由があると示唆した。法廷でも権力の中枢でも、世界の他の地域で起きていることに影響を及ぼしうるからだ。"
+       },
+       {
+        "t": "p",
+        "x": "「もし我々がライセンス市場は存在しないと宣言する道を進めば、つまりオーストラリアが世界のライセンス市場を覆し、そんなものはないと言えば、それは米国（US）での彼らの訴訟を後押しすることになる」とハードは述べた。「それがなぜオーストラリアの利益になるのか、私にはわからない」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "ARIA就AI游说\n向澳大利亚政界示警",
+     "body": "ARIA负责人在澳大利亚权衡AI规则之际，就AI公司的游说诉求向政界发出警告。",
+     "mini_headline": "ARIA警告AI游说",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "澳大利亚的政界人士正在考虑为AI技术制定哪些规则，而音乐产业正与部分科技公司激烈角力，争取政界人士的支持。澳大利亚是出现这种局面的国家之一。"
+       },
+       {
+        "t": "p",
+        "x": "唱片业机构ARIA的CEO安娜贝尔·赫德（Annabelle Herd）本周出席人工智能联合特别委员会（Joint Select Committee on Artificial Intelligence）时直言不讳，批评了两家最大的AI公司在澳大利亚的游说目标。"
+       },
+       {
+        "t": "p",
+        "x": "她说：“OpenAI和Anthropic希望澳大利亚政府签署一项协议，允许它们在这里训练前沿AI智能体，前提是它们无须遵守我们的版权法。”“理由是什么？这些全球最富有、最先进的公司说，与版权方合作成本太高、太复杂。”"
+       },
+       {
+        "t": "p",
+        "x": "“AI公司把‘现状行不通’这一说法当作修改我们版权法的理由。解决大规模盗版这一系统性问题，靠的不是修改法律、让这种盗版长期合法化。”"
+       },
+       {
+        "t": "p",
+        "x": "赫德呼吁AI公司“到谈判桌前来，而不是去总理办公室”，并警告称，如果它们想要的规则落地，“将重创音乐产业，并让澳大利亚在全球版权方眼中沦为弃儿”。"
+       },
+       {
+        "t": "p",
+        "x": "赫德还指出，澳大利亚之所以成为这些游说活动的重点，有一个具体原因：这可能影响世界其他地方正在发生的事情——无论是在法庭上，还是在权力走廊中。"
+       },
+       {
+        "t": "p",
+        "x": "“如果我们走上这条路，宣布不存在授权市场——澳大利亚决定颠覆全球授权市场，说它根本不存在——那将有助于它们在美国（US）的诉讼，”赫德说，“我不确定这为何符合澳大利亚的利益。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "ARIA alerta a los políticos\naustralianos del lobby de la IA",
+     "body": "La CEO de ARIA advirtió a políticos australianos sobre el lobby de empresas de IA mientras el país define sus reglas.",
+     "mini_headline": "ARIA alerta sobre el lobby de la IA",
+     "full": {
+      "mode": "full",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
+       },
+       {
+        "t": "p",
+        "x": "Australia es uno de los países donde la industria musical libra una dura pugna con algunas empresas tecnológicas para ganarse el oído de los políticos, mientras estos estudian qué normas aplicar a la tecnología de IA (AI)."
+       },
+       {
+        "t": "p",
+        "x": "Annabelle Herd, CEO de ARIA, la organización de los sellos discográficos, fue directa en su comparecencia de esta semana ante el Joint Select Committee on Artificial Intelligence (Comité Selecto Conjunto sobre Inteligencia Artificial) y criticó los objetivos de lobby en Australia de dos de las mayores empresas de IA."
+       },
+       {
+        "t": "p",
+        "x": "\"OpenAI y Anthropic quieren que el Gobierno australiano firme un acuerdo para entrenar aquí sus agentes de IA de frontera con la condición de que no tengan que cumplir nuestras leyes de derechos de autor\", dijo. \"¿Su razón? Las empresas más ricas y avanzadas del mundo dicen que sería demasiado costoso y complejo trabajar con los titulares de derechos.\""
+       },
+       {
+        "t": "p",
+        "x": "\"Las empresas de IA usan la idea de que el statu quo no funciona como argumento para cambiar nuestra ley de derechos de autor. Un problema sistémico de piratería masiva no se resuelve cambiando la ley para legalizar esa piratería de forma permanente.\""
+       },
+       {
+        "t": "p",
+        "x": "Herd pidió a las empresas de IA que \"vengan a la mesa de negociación, no a la oficina del primer ministro\" y advirtió que, si se aplican las normas que desean, \"devastaría la industria musical y convertiría a Australia en un paria para los titulares de derechos de todo el mundo\"."
+       },
+       {
+        "t": "p",
+        "x": "Herd también sugirió que Australia es un objetivo clave de estos esfuerzos de lobby por una razón concreta: el posible impacto en lo que ocurre en otras partes del mundo, tanto en los tribunales como en los pasillos del poder."
+       },
+       {
+        "t": "p",
+        "x": "\"Si tomamos ese camino y declaramos que no existe un mercado de licencias —que Australia decida trastocar el mercado mundial de licencias y diga que no existe—, eso les ayudará en sus demandas en EE. UU. (US)\", dijo Herd. \"No sé por qué eso sería de interés para Australia.\""
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "music-china-ai-audition",
+   "source_lang": "ko",
+   "eyebrow": "AI NEWS",
+   "headline": "AI와 사람이 겨루고\nAI도 심사하는 오디션",
+   "body": "중국 오디션 쇼에서 AI 가수가 사람과 겨루고 AI 심사위원도 평가에 참여한다.",
+   "mini_headline": "AI도 심사하는 오디션",
+   "tool": "Music",
+   "source": "일간스포츠",
+   "url": "https://isplus.com/article/view/isp202610020005",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+      "cap": "AI 심사위원과 AI 가수/사진=저장위성TV 캡처"
+     },
+     {
+      "t": "p",
+      "x": "AI가 부른 노래는 이제 익숙하다. 중국은 그 AI를 오디션 무대까지 끌어들였다. 최근 종영한 중국 저장위성TV 음악 예능 ‘천사적성음’ 시즌7은 AI 가수와 AI 심사위원을 새롭게 도입했다. 실제 연예인과 AI가 함께 무대에 오르고, 인간 심사위원과 AI 심사위원이 각각 평가에 참여하는 방식이다."
+     },
+     {
+      "t": "p",
+      "x": "AI 심사위원 ‘광광’은 배우 탄쑹윈의 무대를 평가하면서 음정 오차와 감정 표현, 화음 정도 등을 수치로 분석했다. 현지에서는 평가 기준이 충분히 설명되지 않았다는 지적도 나왔다."
+     },
+     {
+      "t": "img",
+      "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+      "cap": "‘12성련사이’,‘싱광108’ 각 계정/사진=더우인 캡처"
+     },
+     {
+      "t": "p",
+      "x": "참가자가 모두 AI인 아이돌 서바이벌도 나왔다. 더우인의 ‘12성련사이’는 공개 한 달여 만에 관련 영상 조회수 2억5000만 회, 공식 계정 팔로워 약 54만 명을 기록했다. 8월에는 AI 여성 연습생 108명이 9개의 데뷔 자리를 놓고 경쟁하는 ‘싱광108’도 첫 방송됐다."
+     },
+     {
+      "t": "p",
+      "x": "이성민 한국방송통신대 교수는 “AI가 예능 안에서 이야기적 장치로 기능할 수 있어야 한다”며, 기술적인 평가는 AI가, 감성적인 평가는 인간이 맡는 식으로 나눌 수도 있다고 말했다."
+     }
+    ]
+   },
+   "text": {
+    "ko": {
+     "headline": "AI와 사람이 겨루고\nAI도 심사하는 오디션",
+     "body": "중국 오디션 쇼에서 AI 가수가 사람과 겨루고 AI 심사위원도 평가에 참여한다.",
+     "mini_headline": "AI도 심사하는 오디션",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI 심사위원과 AI 가수/사진=저장위성TV 캡처"
+       },
+       {
+        "t": "p",
+        "x": "AI가 부른 노래는 이제 익숙하다. 중국은 그 AI를 오디션 무대까지 끌어들였다. 최근 종영한 중국 저장위성TV 음악 예능 ‘천사적성음’ 시즌7은 AI 가수와 AI 심사위원을 새롭게 도입했다. 실제 연예인과 AI가 함께 무대에 오르고, 인간 심사위원과 AI 심사위원이 각각 평가에 참여하는 방식이다."
+       },
+       {
+        "t": "p",
+        "x": "AI 심사위원 ‘광광’은 배우 탄쑹윈의 무대를 평가하면서 음정 오차와 감정 표현, 화음 정도 등을 수치로 분석했다. 현지에서는 평가 기준이 충분히 설명되지 않았다는 지적도 나왔다."
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "‘12성련사이’,‘싱광108’ 각 계정/사진=더우인 캡처"
+       },
+       {
+        "t": "p",
+        "x": "참가자가 모두 AI인 아이돌 서바이벌도 나왔다. 더우인의 ‘12성련사이’는 공개 한 달여 만에 관련 영상 조회수 2억5000만 회, 공식 계정 팔로워 약 54만 명을 기록했다. 8월에는 AI 여성 연습생 108명이 9개의 데뷔 자리를 놓고 경쟁하는 ‘싱광108’도 첫 방송됐다."
+       },
+       {
+        "t": "p",
+        "x": "이성민 한국방송통신대 교수는 “AI가 예능 안에서 이야기적 장치로 기능할 수 있어야 한다”며, 기술적인 평가는 AI가, 감성적인 평가는 인간이 맡는 식으로 나눌 수도 있다고 말했다."
+       }
+      ]
+     }
+    },
+    "en": {
+     "headline": "AI takes on humans in an\naudition AI also judges",
+     "body": "On a Chinese audition show, AI singers compete with humans and AI judges also take part in scoring.",
+     "mini_headline": "An audition where AI judges too",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI judge and AI singer / Photo: Zhejiang Satellite TV capture"
+       },
+       {
+        "t": "p",
+        "x": "Songs sung by AI are now familiar. China has brought that AI all the way onto the audition stage. Season 7 of ‘Tianci de Shengyin’, a music entertainment show on China's Zhejiang Satellite TV that recently ended, newly introduced AI singers and AI judges. Real celebrities share the stage with AI, and human judges and AI judges each take part in the evaluation."
+       },
+       {
+        "t": "p",
+        "x": "The AI judge ‘Guangguang’ assessed actor Tan Songyun's performance, analysing pitch error, emotional expression and degree of harmony in numerical terms. Locally, some pointed out that the evaluation criteria were not explained well enough."
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "The ‘12 Seongryeonsai’ and ‘Xingguang108’ accounts / Photo: Douyin capture"
+       },
+       {
+        "t": "p",
+        "x": "There is also an idol survival show in which every contestant is AI. Douyin's ‘12 Seongryeonsai’ recorded 250 million (2억5000만) views of related videos and about 540,000 followers on its official account within a little over a month of launch. In August, ‘Xingguang108’, in which 108 female AI trainees compete for 9 debut spots, also premiered."
+       },
+       {
+        "t": "p",
+        "x": "Lee Sung-min, a professor at Korea National Open University, said “AI needs to be able to function as a narrative device within entertainment shows,” adding that the roles could be split, with AI handling technical evaluation and humans handling emotional evaluation."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIと人が競い\nAIも審査するオーディション",
+     "body": "中国のオーディション番組で、AI歌手が人間と競い、AI審査員も評価に加わる。",
+     "mini_headline": "AIも審査するオーディション",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI審査員とAI歌手／写真＝浙江衛星TVキャプチャー"
+       },
+       {
+        "t": "p",
+        "x": "AIが歌う曲はもはや珍しくない。中国はそのAIをオーディションの舞台にまで引き込んだ。最近終了した中国・浙江衛星TVの音楽バラエティ『天賜的声音』シーズン7は、AI歌手とAI審査員を新たに導入した。実際の芸能人とAIが共に舞台に立ち、人間の審査員とAI審査員がそれぞれ評価に参加する方式だ。"
+       },
+       {
+        "t": "p",
+        "x": "AI審査員「Guangguang」は俳優・譚松韻（タン・ソンユン）のステージを評価し、音程のずれや感情表現、ハーモニーの度合いなどを数値で分析した。現地では、評価基準の説明が不十分だとの指摘も出た。"
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "「12성련사이」「星光108」の各アカウント／写真＝Douyinキャプチャー"
+       },
+       {
+        "t": "p",
+        "x": "参加者が全員AIというアイドルサバイバル番組も登場した。Douyinの「12성련사이」は公開から1カ月余りで関連動画の再生回数2億5000万回、公式アカウントのフォロワー約54万人を記録した。8月には、AIの女性練習生108人が9つのデビュー枠を争う「星光108」も初放送された。"
+       },
+       {
+        "t": "p",
+        "x": "韓国放送通信大学のイ・ソンミン教授は「AIがバラエティの中で物語的な装置として機能できなければならない」と述べ、技術的な評価はAIが、感性的な評価は人間が担うといった形で分けることもできると語った。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI与真人同台竞技\nAI还当评委的选秀",
+     "body": "在中国一档选秀节目中，AI歌手与真人同台竞争，AI评委也参与打分。",
+     "mini_headline": "AI也当评委的选秀",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI评委与AI歌手／图片来源：浙江卫视（Zhejiang TV）截图"
+       },
+       {
+        "t": "p",
+        "x": "AI演唱的歌曲如今已不新鲜。中国更把AI带上了选秀舞台。近期收官的浙江卫视（Zhejiang TV）音乐综艺《天赐的声音》第7季新引入了AI歌手和AI评委。真人艺人与AI同台演出，人类评委和AI评委分别参与评分。"
+       },
+       {
+        "t": "p",
+        "x": "AI评委“Guangguang”在点评演员谭松韵的舞台时，以数值分析了音准误差、情感表达和和声程度等。当地也有人指出，评分标准没有得到充分说明。"
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "‘12성련사이’、《星光108》各账号／图片来源：抖音截图"
+       },
+       {
+        "t": "p",
+        "x": "还出现了参赛者全是AI的偶像选秀节目。抖音上的‘12성련사이’上线一个多月，相关视频播放量达2亿5000万次，官方账号粉丝约54万。8月，108名AI女练习生角逐9个出道席位的《星光108》也首播。"
+       },
+       {
+        "t": "p",
+        "x": "韩国放送通信大学教授Lee Sung-min表示：“AI应当能够在综艺节目中发挥叙事装置的作用。”他还说，也可以采取技术性评价由AI负责、感性评价由人类负责的分工方式。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La IA compite con humanos\ny también hace de jurado",
+     "body": "En un concurso de canto chino, cantantes de IA compiten con humanos y jueces de IA también participan en la evaluación.",
+     "mini_headline": "Una audición donde la IA también es jurado",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "Juez de IA (AI) y cantante de IA / Foto: captura de Zhejiang Satellite TV"
+       },
+       {
+        "t": "p",
+        "x": "Las canciones interpretadas por IA (AI) ya resultan familiares. China ha llevado esa IA hasta el escenario de las audiciones. La temporada 7 de ‘Tianci de Shengyin’, programa musical de entretenimiento de Zhejiang Satellite TV que terminó recientemente, incorporó cantantes de IA y jueces de IA. Celebridades reales y la IA suben juntas al escenario, y jueces humanos y jueces de IA participan cada uno en la evaluación."
+       },
+       {
+        "t": "p",
+        "x": "El juez de IA ‘Guangguang’ evaluó la actuación de la actriz Tan Songyun y analizó con cifras el error de afinación, la expresión emocional y el grado de armonía, entre otros aspectos. En China también se señaló que los criterios de evaluación no se explicaron lo suficiente."
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "Cuentas de ‘12 Seongryeonsai’ y ‘Xingguang108’ / Foto: captura de Douyin"
+       },
+       {
+        "t": "p",
+        "x": "También ha surgido un programa de supervivencia de ídolos en el que todos los participantes son IA. ‘12 Seongryeonsai’, de Douyin, sumó 250 millones (2억5000만) de reproducciones en videos relacionados y unos 540.000 seguidores en su cuenta oficial en poco más de un mes desde su estreno. En agosto se estrenó también ‘Xingguang108’, en el que 108 aprendices femeninas de IA compiten por 9 puestos de debut."
+       },
+       {
+        "t": "p",
+        "x": "Lee Sung-min, profesor de la Universidad Nacional Abierta de Corea, afirmó que “la IA debe poder funcionar como un recurso narrativo dentro del entretenimiento” y señaló que también podría repartirse la tarea, de modo que la IA se encargue de la evaluación técnica y los humanos, de la emocional."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "en": {
+     "headline": "AI takes on humans in an\naudition AI also judges",
+     "body": "On a Chinese audition show, AI singers compete with humans and AI judges also take part in scoring.",
+     "mini_headline": "An audition where AI judges too",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI judge and AI singer / Photo: Zhejiang Satellite TV capture"
+       },
+       {
+        "t": "p",
+        "x": "Songs sung by AI are now familiar. China has brought that AI all the way onto the audition stage. Season 7 of ‘Tianci de Shengyin’, a music entertainment show on China's Zhejiang Satellite TV that recently ended, newly introduced AI singers and AI judges. Real celebrities share the stage with AI, and human judges and AI judges each take part in the evaluation."
+       },
+       {
+        "t": "p",
+        "x": "The AI judge ‘Guangguang’ assessed actor Tan Songyun's performance, analysing pitch error, emotional expression and degree of harmony in numerical terms. Locally, some pointed out that the evaluation criteria were not explained well enough."
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "The ‘12 Seongryeonsai’ and ‘Xingguang108’ accounts / Photo: Douyin capture"
+       },
+       {
+        "t": "p",
+        "x": "There is also an idol survival show in which every contestant is AI. Douyin's ‘12 Seongryeonsai’ recorded 250 million (2억5000만) views of related videos and about 540,000 followers on its official account within a little over a month of launch. In August, ‘Xingguang108’, in which 108 female AI trainees compete for 9 debut spots, also premiered."
+       },
+       {
+        "t": "p",
+        "x": "Lee Sung-min, a professor at Korea National Open University, said “AI needs to be able to function as a narrative device within entertainment shows,” adding that the roles could be split, with AI handling technical evaluation and humans handling emotional evaluation."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "AIと人が競い\nAIも審査するオーディション",
+     "body": "中国のオーディション番組で、AI歌手が人間と競い、AI審査員も評価に加わる。",
+     "mini_headline": "AIも審査するオーディション",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI審査員とAI歌手／写真＝浙江衛星TVキャプチャー"
+       },
+       {
+        "t": "p",
+        "x": "AIが歌う曲はもはや珍しくない。中国はそのAIをオーディションの舞台にまで引き込んだ。最近終了した中国・浙江衛星TVの音楽バラエティ『天賜的声音』シーズン7は、AI歌手とAI審査員を新たに導入した。実際の芸能人とAIが共に舞台に立ち、人間の審査員とAI審査員がそれぞれ評価に参加する方式だ。"
+       },
+       {
+        "t": "p",
+        "x": "AI審査員「Guangguang」は俳優・譚松韻（タン・ソンユン）のステージを評価し、音程のずれや感情表現、ハーモニーの度合いなどを数値で分析した。現地では、評価基準の説明が不十分だとの指摘も出た。"
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "「12성련사이」「星光108」の各アカウント／写真＝Douyinキャプチャー"
+       },
+       {
+        "t": "p",
+        "x": "参加者が全員AIというアイドルサバイバル番組も登場した。Douyinの「12성련사이」は公開から1カ月余りで関連動画の再生回数2億5000万回、公式アカウントのフォロワー約54万人を記録した。8月には、AIの女性練習生108人が9つのデビュー枠を争う「星光108」も初放送された。"
+       },
+       {
+        "t": "p",
+        "x": "韓国放送通信大学のイ・ソンミン教授は「AIがバラエティの中で物語的な装置として機能できなければならない」と述べ、技術的な評価はAIが、感性的な評価は人間が担うといった形で分けることもできると語った。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "AI与真人同台竞技\nAI还当评委的选秀",
+     "body": "在中国一档选秀节目中，AI歌手与真人同台竞争，AI评委也参与打分。",
+     "mini_headline": "AI也当评委的选秀",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "AI评委与AI歌手／图片来源：浙江卫视（Zhejiang TV）截图"
+       },
+       {
+        "t": "p",
+        "x": "AI演唱的歌曲如今已不新鲜。中国更把AI带上了选秀舞台。近期收官的浙江卫视（Zhejiang TV）音乐综艺《天赐的声音》第7季新引入了AI歌手和AI评委。真人艺人与AI同台演出，人类评委和AI评委分别参与评分。"
+       },
+       {
+        "t": "p",
+        "x": "AI评委“Guangguang”在点评演员谭松韵的舞台时，以数值分析了音准误差、情感表达和和声程度等。当地也有人指出，评分标准没有得到充分说明。"
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "‘12성련사이’、《星光108》各账号／图片来源：抖音截图"
+       },
+       {
+        "t": "p",
+        "x": "还出现了参赛者全是AI的偶像选秀节目。抖音上的‘12성련사이’上线一个多月，相关视频播放量达2亿5000万次，官方账号粉丝约54万。8月，108名AI女练习生角逐9个出道席位的《星光108》也首播。"
+       },
+       {
+        "t": "p",
+        "x": "韩国放送通信大学教授Lee Sung-min表示：“AI应当能够在综艺节目中发挥叙事装置的作用。”他还说，也可以采取技术性评价由AI负责、感性评价由人类负责的分工方式。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La IA compite con humanos\ny también hace de jurado",
+     "body": "En un concurso de canto chino, cantantes de IA compiten con humanos y jueces de IA también participan en la evaluación.",
+     "mini_headline": "Una audición donde la IA también es jurado",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
+        "cap": "Juez de IA (AI) y cantante de IA / Foto: captura de Zhejiang Satellite TV"
+       },
+       {
+        "t": "p",
+        "x": "Las canciones interpretadas por IA (AI) ya resultan familiares. China ha llevado esa IA hasta el escenario de las audiciones. La temporada 7 de ‘Tianci de Shengyin’, programa musical de entretenimiento de Zhejiang Satellite TV que terminó recientemente, incorporó cantantes de IA y jueces de IA. Celebridades reales y la IA suben juntas al escenario, y jueces humanos y jueces de IA participan cada uno en la evaluación."
+       },
+       {
+        "t": "p",
+        "x": "El juez de IA ‘Guangguang’ evaluó la actuación de la actriz Tan Songyun y analizó con cifras el error de afinación, la expresión emocional y el grado de armonía, entre otros aspectos. En China también se señaló que los criterios de evaluación no se explicaron lo suficiente."
+       },
+       {
+        "t": "img",
+        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
+        "cap": "Cuentas de ‘12 Seongryeonsai’ y ‘Xingguang108’ / Foto: captura de Douyin"
+       },
+       {
+        "t": "p",
+        "x": "También ha surgido un programa de supervivencia de ídolos en el que todos los participantes son IA. ‘12 Seongryeonsai’, de Douyin, sumó 250 millones (2억5000만) de reproducciones en videos relacionados y unos 540.000 seguidores en su cuenta oficial en poco más de un mes desde su estreno. En agosto se estrenó también ‘Xingguang108’, en el que 108 aprendices femeninas de IA compiten por 9 puestos de debut."
+       },
+       {
+        "t": "p",
+        "x": "Lee Sung-min, profesor de la Universidad Nacional Abierta de Corea, afirmó que “la IA debe poder funcionar como un recurso narrativo dentro del entretenimiento” y señaló que también podría repartirse la tarea, de modo que la IA se encargue de la evaluación técnica y los humanos, de la emocional."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "music-hypebot-ai-agents",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
+   "body": "Hypebot 기고는 AI 에이전트로 음악 권리·정산 문제를 풀 수 있다고 본다.",
+   "mini_headline": "음악 경제를 움직일 AI 에이전트",
+   "tool": "Music",
+   "source": "Hypebot",
+   "url": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+     },
+     {
+      "t": "p",
+      "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 제 인프라보다 커져 버렸다고 주장한다. 권리와 메타데이터, 저작권료는 저마다 다른 시스템에 흩어져 있다. 지분 배분은 이메일로 확인하고, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들은 늦게 받거나 아예 못 받는다고 한다."
+     },
+     {
+      "t": "p",
+      "x": "음악계의 AI 논의는 대부분 생성과 저작권에 쏠려 있지만 진짜 기회는 에이전틱 AI에 있다는 게 그의 주장이다. 메타데이터 충돌을 풀고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문 자율 에이전트들의 네트워크 말이다."
+     },
+     {
+      "t": "img",
+      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+     },
+     {
+      "t": "p",
+      "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 넣었다. 에이전트가 주도하는 네트워크에서 에이전트는 바뀐 내용마다 출처 기록을 남기고 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
+     },
+     {
+      "t": "p",
+      "x": "기니스는 이 일을 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 내다본다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Music's next economy may\nrun on autonomous AI agents",
+     "body": "A Hypebot op-ed argues that AI agents with human oversight could fix music's rights, metadata and royalty systems.",
+     "mini_headline": "Music's economy on AI agents",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Edward Ginis, co-founder of OpenPlay, argues that the music industry has outgrown its infrastructure: rights, metadata and royalties live in separate systems, splits are confirmed by email, and bad data leaves royalties unmatched and writers paid late or not at all."
+       },
+       {
+        "t": "p",
+        "x": "Most AI discussion in music is about generation and copyright, he writes, but the practical opportunity is agentic AI: networks of specialized, autonomous agents that resolve metadata conflicts, match unmatched royalty lines, validate registrations and check statements against contracts."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay has built such agents into its Verse and Pulse platforms. In an agent-led network, agents carry provenance for every change and escalate to a person when confidence drops."
+       },
+       {
+        "t": "p",
+        "x": "Companies that get this right \"will pay faster, sign smarter and scale without adding headcount,\" Ginis writes."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
+     "body": "Hypebot 기고는 AI 에이전트로 음악 권리·정산 문제를 풀 수 있다고 본다.",
+     "mini_headline": "음악 경제를 움직일 AI 에이전트",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 제 인프라보다 커져 버렸다고 주장한다. 권리와 메타데이터, 저작권료는 저마다 다른 시스템에 흩어져 있다. 지분 배분은 이메일로 확인하고, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들은 늦게 받거나 아예 못 받는다고 한다."
+       },
+       {
+        "t": "p",
+        "x": "음악계의 AI 논의는 대부분 생성과 저작권에 쏠려 있지만 진짜 기회는 에이전틱 AI에 있다는 게 그의 주장이다. 메타데이터 충돌을 풀고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문 자율 에이전트들의 네트워크 말이다."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 넣었다. 에이전트가 주도하는 네트워크에서 에이전트는 바뀐 내용마다 출처 기록을 남기고 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
+       },
+       {
+        "t": "p",
+        "x": "기니스는 이 일을 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 내다본다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "音楽の次の経済は\n自律型AIエージェントか",
+     "body": "Hypebotの寄稿は人が監督するAIエージェントが権利や印税の仕組みを直せると論じる。",
+     "mini_headline": "AIエージェントが動かす音楽経済",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlayの共同創業者エドワード・ギニス（Edward Ginis）は、音楽業界はすでに自らのインフラの限界を超えていると主張する。権利、メタデータ、印税は別々のシステムにあり、分配比率はメールで確認され、不正確なデータのせいで印税がマッチングされず、作家への支払いが遅れたり、まったく支払われなかったりしているという。"
+       },
+       {
+        "t": "p",
+        "x": "音楽におけるAIの議論の大半は生成と著作権に関するものだが、実際的な機会はエージェント型AIにあると彼は書く。メタデータの矛盾を解消し、未マッチの印税明細を照合し、登録情報を検証し、明細書を契約と突き合わせる、専門化された自律型エージェントのネットワークだ。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlayは、自社のVerseとPulseプラットフォームにこうしたエージェントを組み込んでいる。エージェント主導のネットワークでは、エージェントがあらゆる変更の来歴を記録し、確信度が下がると人間に判断を委ねる。"
+       },
+       {
+        "t": "p",
+        "x": "これをうまくやれる企業は「より早く支払い、より賢く契約し、人員を増やさずに規模を拡大できる」とギニスは書いている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "音乐的下一种经济\n或由自主AI智能体驱动",
+     "body": "Hypebot一篇评论文章认为，有人类监督的AI智能体可修复音乐权利、元数据和版税体系。",
+     "mini_headline": "AI智能体驱动的音乐经济",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay联合创始人Edward Ginis认为，音乐产业已经超出了其基础设施的承载能力：权利、元数据和版税分散在不同系统中，分成比例靠电子邮件确认，错误数据导致版税无法匹配，词曲作者迟迟拿不到报酬，甚至分文未得。"
+       },
+       {
+        "t": "p",
+        "x": "他写道，音乐领域的AI讨论大多围绕生成和版权展开，但真正可行的机会在于智能体AI：由专业化的自主智能体组成的网络，可以解决元数据冲突、匹配未对应的版税条目、验证登记信息，并根据合同核对结算单。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay已将这类智能体集成到旗下的Verse和Pulse平台。在由智能体主导的网络中，智能体会记录每一次变更的来源，并在置信度下降时将问题升级给人工处理。"
+       },
+       {
+        "t": "p",
+        "x": "Ginis写道，做对这件事的公司“将付款更快、签约更明智，并在不增加人手的情况下扩大规模”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La próxima economía musical\npodría basarse en agentes de IA",
+     "body": "Una columna de Hypebot sostiene que agentes de IA bajo control humano podrían arreglar derechos, metadatos y regalías.",
+     "mini_headline": "La economía musical, en manos de agentes de IA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Edward Ginis, cofundador de OpenPlay, sostiene que la industria musical ha superado su infraestructura: los derechos, los metadatos y las regalías viven en sistemas separados, los repartos se confirman por correo electrónico y los datos erróneos dejan regalías sin asignar y a los autores cobrando tarde o sin cobrar."
+       },
+       {
+        "t": "p",
+        "x": "La mayor parte del debate sobre la IA (AI) en la música gira en torno a la generación y los derechos de autor, escribe, pero la oportunidad práctica es la IA agéntica: redes de agentes autónomos y especializados que resuelven conflictos de metadatos, asignan líneas de regalías sin asignar, validan registros y cotejan liquidaciones con los contratos."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay ha integrado este tipo de agentes en sus plataformas Verse y Pulse. En una red dirigida por agentes, estos registran la procedencia de cada cambio y derivan el caso a una persona cuando baja la confianza."
+       },
+       {
+        "t": "p",
+        "x": "Las empresas que lo hagan bien \"pagarán más rápido, firmarán mejor y crecerán sin aumentar la plantilla\", escribe Ginis."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
+     "body": "Hypebot 기고는 AI 에이전트가 음악 권리·정산을 고칠 수 있다고 본다.",
+     "mini_headline": "음악 경제를 움직일 AI 에이전트",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 자신의 인프라를 넘어섰다고 주장한다. 권리, 메타데이터, 저작권료가 각기 다른 시스템에 흩어져 있고, 지분 배분은 이메일로 확인하며, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들이 늦게 받거나 아예 받지 못한다는 것이다."
+       },
+       {
+        "t": "p",
+        "x": "그는 음악계의 AI 논의 대부분이 생성과 저작권에 쏠려 있지만, 실질적인 기회는 에이전틱 AI에 있다고 쓴다. 메타데이터 충돌을 해결하고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문화된 자율 에이전트의 네트워크다."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 탑재했다. 에이전트가 주도하는 네트워크에서 에이전트는 모든 변경의 출처 기록을 남기고, 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
+       },
+       {
+        "t": "p",
+        "x": "기니스는 이를 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 쓴다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "音楽の次の経済は\n自律型AIエージェントか",
+     "body": "Hypebotの寄稿は人が監督するAIエージェントが権利や印税の仕組みを直せると論じる。",
+     "mini_headline": "AIエージェントが動かす音楽経済",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlayの共同創業者エドワード・ギニス（Edward Ginis）は、音楽業界はすでに自らのインフラの限界を超えていると主張する。権利、メタデータ、印税は別々のシステムにあり、分配比率はメールで確認され、不正確なデータのせいで印税がマッチングされず、作家への支払いが遅れたり、まったく支払われなかったりしているという。"
+       },
+       {
+        "t": "p",
+        "x": "音楽におけるAIの議論の大半は生成と著作権に関するものだが、実際的な機会はエージェント型AIにあると彼は書く。メタデータの矛盾を解消し、未マッチの印税明細を照合し、登録情報を検証し、明細書を契約と突き合わせる、専門化された自律型エージェントのネットワークだ。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlayは、自社のVerseとPulseプラットフォームにこうしたエージェントを組み込んでいる。エージェント主導のネットワークでは、エージェントがあらゆる変更の来歴を記録し、確信度が下がると人間に判断を委ねる。"
+       },
+       {
+        "t": "p",
+        "x": "これをうまくやれる企業は「より早く支払い、より賢く契約し、人員を増やさずに規模を拡大できる」とギニスは書いている。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "音乐的下一种经济\n或由自主AI智能体驱动",
+     "body": "Hypebot一篇评论文章认为，有人类监督的AI智能体可修复音乐权利、元数据和版税体系。",
+     "mini_headline": "AI智能体驱动的音乐经济",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay联合创始人Edward Ginis认为，音乐产业已经超出了其基础设施的承载能力：权利、元数据和版税分散在不同系统中，分成比例靠电子邮件确认，错误数据导致版税无法匹配，词曲作者迟迟拿不到报酬，甚至分文未得。"
+       },
+       {
+        "t": "p",
+        "x": "他写道，音乐领域的AI讨论大多围绕生成和版权展开，但真正可行的机会在于智能体AI：由专业化的自主智能体组成的网络，可以解决元数据冲突、匹配未对应的版税条目、验证登记信息，并根据合同核对结算单。"
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay已将这类智能体集成到旗下的Verse和Pulse平台。在由智能体主导的网络中，智能体会记录每一次变更的来源，并在置信度下降时将问题升级给人工处理。"
+       },
+       {
+        "t": "p",
+        "x": "Ginis写道，做对这件事的公司“将付款更快、签约更明智，并在不增加人手的情况下扩大规模”。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "La próxima economía musical\npodría basarse en agentes de IA",
+     "body": "Una columna de Hypebot sostiene que agentes de IA bajo control humano podrían arreglar derechos, metadatos y regalías.",
+     "mini_headline": "La economía musical, en manos de agentes de IA",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
+       },
+       {
+        "t": "p",
+        "x": "Edward Ginis, cofundador de OpenPlay, sostiene que la industria musical ha superado su infraestructura: los derechos, los metadatos y las regalías viven en sistemas separados, los repartos se confirman por correo electrónico y los datos erróneos dejan regalías sin asignar y a los autores cobrando tarde o sin cobrar."
+       },
+       {
+        "t": "p",
+        "x": "La mayor parte del debate sobre la IA (AI) en la música gira en torno a la generación y los derechos de autor, escribe, pero la oportunidad práctica es la IA agéntica: redes de agentes autónomos y especializados que resuelven conflictos de metadatos, asignan líneas de regalías sin asignar, validan registros y cotejan liquidaciones con los contratos."
+       },
+       {
+        "t": "img",
+        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
+       },
+       {
+        "t": "p",
+        "x": "OpenPlay ha integrado este tipo de agentes en sus plataformas Verse y Pulse. En una red dirigida por agentes, estos registran la procedencia de cada cambio y derivan el caso a una persona cuando baja la confianza."
+       },
+       {
+        "t": "p",
+        "x": "Las empresas que lo hagan bien \"pagarán más rápido, firmarán mejor y crecerán sin aumentar la plantilla\", escribe Ginis."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

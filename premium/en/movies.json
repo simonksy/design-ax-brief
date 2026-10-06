@@ -6271,6 +6271,157 @@
           "x": "MForMedia, led by co-founders and Managing Partners Ralph Matar and Khalil Homeissy, produces Arabic versions of Carpool Karaoke and The X Factor. The news comes soon after MForMedia hired MENA television industry veteran Ziad Kebbi as Managing Director, when the company announced it was pivoting toward AI production, original content and IP ownership."
         }
       ]
+    },
+    "movies/movies-gods-dont-give-gifts-trailer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+          "cap": "A still from Gods Don't Give Gifts"
+        },
+        {
+          "t": "video",
+          "yt": "1G5LArU7tmE"
+        },
+        {
+          "t": "p",
+          "x": "Popular YouTuber Gossip Goblin, aka Zack London, has released the trailer for his forthcoming film Gods Don’t Give Gifts, a feature film made entirely with artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "The sci-fi film will open in limited theatrical release in the U.S. and UK on December 4. The filmmakers say it is the first AI film to receive an MPA rating (R) and also to be campaigned in the Best Animated Feature category at the Academy Awards. The trailer goes to theaters on Friday, and billboard ads begin in November."
+        },
+        {
+          "t": "p",
+          "x": "The film, previewed last month at the Venice Film Festival market, is produced by Edward Saatchi, whose AI company Fable counts Amazon among its backers."
+        },
+        {
+          "t": "p",
+          "x": "“Gods Don’t Give Gifts is the first that has a shot at a nomination and then it’s all to play for,” Saatchi said. “We will be screening for voters and running a traditional campaign.”"
+        }
+      ]
+    },
+    "movies/movies-sag-aftra-animation-deal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+          "cap": "SAG-AFTRA"
+        },
+        {
+          "t": "p",
+          "x": "SAG-AFTRA members will vote on a new four-year television animation agreement that includes annual wage increases, expanded AI protections, and improved streaming residuals for voice actors. The union’s Executive Committee has already unanimously approved the tentative 2026 Television Animation Agreement, negotiated with the AMPTP."
+        },
+        {
+          "t": "p",
+          "x": "The contract guarantees a 3% wage increase in each of its four years, with the first increase retroactive to July 5, 2026."
+        },
+        {
+          "t": "p",
+          "x": "As a point of priority, the agreement also expands AI protections, incorporating improvements negotiated in the union’s 2026 live-action agreements while retaining provisions specifically designed for animation performers. The previous animation contract, ratified in 2024, established the union’s first AI protections specifically for voice actors."
+        },
+        {
+          "t": "p",
+          "x": "Performers would receive an average 5% increase in residuals when programs move to subscription streaming, and the subscriber factor for qualifying programs on large foreign streaming services rises from 39% to 41%. Employer health plan contributions rise 1%, with pension contributions up 1% from 2028 and 0.25% funding a new paid parental leave program."
+        },
+        {
+          "t": "p",
+          "x": "Voting closes October 29 at 5 p.m. PT."
+        }
+      ]
+    },
+    "movies/movies-vfx-voice-future-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+          "cap": "Wētā FX’s Kora fire simulation toolset powered the combustion effects of Avatar: Fire and Ash. (Image courtesy of Wētā FX and 20th Century Studios)"
+        },
+        {
+          "t": "p",
+          "x": "AI may be the headline, but it’s only part of a broader shift. Real-time engines, virtual production, cloud workflows and increasingly intelligent systems are converging into a new kind of toolkit – one that compresses timelines, expands possibilities and shifts who holds creative control. VFX Voice asked artists, supervisors and technologists to identify the tools they believe will shape what comes next."
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+          "cap": "ILM’s StageCraft LED volume on Thor: Love and Thunder"
+        },
+        {
+          "t": "p",
+          "x": "ILM’s Rob Bredow is most interested in art-directable machine learning: ML tools that act as assistants, filling in complex details in real-time as an artist draws, driven entirely by artistic choices rather than random generation."
+        },
+        {
+          "t": "p",
+          "x": "Wētā FX CTO Kimball Thurston expects that in the short term generative AI will likely not be used for final pixels, as governance, quality and token cost issues compound to restrict usage."
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+          "cap": "Beeble Canvas combines AI video models, node-based workflow automation and traditional compositing tools"
+        },
+        {
+          "t": "p",
+          "x": "Beeble AI CEO Hoon Kim sees a transition from AI as a purely generative tool toward AI as a controllable production system, while others point to Gaussian splatting, ML inside Houdini and Nuke, and real-time collaboration across post."
+        },
+        {
+          "t": "img",
+          "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+          "cap": "Gaussian splats in Nuke 17"
+        }
+      ]
+    },
+    "movies/movies-katzenberg-forecast-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+          "cap": "2026, coming soon"
+        },
+        {
+          "t": "p",
+          "x": "Three years ago, Jeffrey Katzenberg, co-founder and former CEO of DreamWorks Animation, predicted that the number of artists needed to make a world-class animated movie would decrease from 500 to less than 50 by 2026."
+        },
+        {
+          "t": "p",
+          "x": "Joseph Bell’s Visual Effects & Animation World Atlas, built on over 1.1 million datapoints, finds that by mid-2026 AI has not yet replaced a significant number of roles at traditional VFX and animation studios, nor has it created many new ones. AI tools are being adopted by artists in their existing roles."
+        },
+        {
+          "t": "p",
+          "x": "Globally, industry headcount increased 2.7% in the past 12 months. Los Angeles contracted by 1.5% while Vancouver rebounded by 11.3%. Average US VFX studio size fell from 34 to 29 people. Roto/paint roles increased 8.7%, suggesting AI is not yet ready to take over that work. AI-specific roles are just 0.1% of roles at traditional studios in 2026."
+        },
+        {
+          "t": "p",
+          "x": "Can the same movie that required 500 artists back in 2023 be made by 50 artists today? “Not yet.”"
+        }
+      ]
+    },
+    "movies/ambassadors-mosa-ai-platform-opens": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amsterdam-based creative production company Ambassadors has made its in-house visual AI workflow platform Mosa available now to all. First introduced in June, it was tested in a closed beta with 10 brands and agencies who built over 40 workflows and generated over 500 assets."
+        },
+        {
+          "t": "p",
+          "x": "Mosa grew out of Ambassadors' own production work, where separate tools for images, video and upscaling meant prompts, data and brand requirements were carried by hand between them. It brings AI models, data and workflow steps into a single visual workflow that teams can reuse across projects, formats and markets."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“We built it because generating one good asset is no longer the hard part. The hard part is doing it consistently, across formats and markets, with the brand still intact,” says Diederik Veelo, CIO at Ambassadors."
+        },
+        {
+          "t": "p",
+          "x": "Costs are visible at every step, and an AI agent helps users build workflows with no coding required. Mosa is now available to individual creators and freelancers as well as studios, agencies and in-house teams, with an enterprise plan for larger organizations."
+        }
+      ]
     }
   }
 }

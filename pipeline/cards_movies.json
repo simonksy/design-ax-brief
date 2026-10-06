@@ -1,1414 +1,1846 @@
 {
-  "date": "2026-10-06",
-  "section": "movies",
-  "cards": [
-    {
-      "id": "ambassadors-mosa-ai-platform-opens",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
-      "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
-      "mini_headline": "Ambassadors, Mosa 전면 개방",
-      "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/ambassadors-in-house-ai-workflow-platform-available-to-all/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내에서 쓰던 비주얼 AI 워크플로 플랫폼 Mosa를 누구나 쓸 수 있게 열었다. 유월에 처음 선보인 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타를 거쳤다. 그동안 참여사들이 만든 워크플로는 40개, 생성한 에셋은 500개를 넘는다."
-          },
-          {
-            "t": "p",
-            "x": "Mosa는 Ambassadors의 자체 제작 현장에서 나왔다. 이미지와 영상, 업스케일링 도구가 따로 놀다 보니 프롬프트와 데이터, 브랜드 요건을 도구마다 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 비주얼 워크플로 하나로 묶는다. 팀은 이 워크플로를 프로젝트와 포맷, 시장을 넘나들며 다시 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-          },
-          {
-            "t": "p",
-            "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo는 이렇게 말했다."
-          },
-          {
-            "t": "p",
-            "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Ambassadors opens its Mosa\nAI workflow platform to all",
-          "body": "Amsterdam studio Ambassadors has made Mosa, its in-house visual AI workflow platform, available to everyone.",
-          "mini_headline": "Ambassadors opens Mosa to all",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-based creative production company Ambassadors has made its in-house visual AI workflow platform Mosa available now to all. First introduced in June, it was tested in a closed beta with 10 brands and agencies who built over 40 workflows and generated over 500 assets."
-              },
-              {
-                "t": "p",
-                "x": "Mosa grew out of Ambassadors' own production work, where separate tools for images, video and upscaling meant prompts, data and brand requirements were carried by hand between them. It brings AI models, data and workflow steps into a single visual workflow that teams can reuse across projects, formats and markets."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“We built it because generating one good asset is no longer the hard part. The hard part is doing it consistently, across formats and markets, with the brand still intact,” says Diederik Veelo, CIO at Ambassadors."
-              },
-              {
-                "t": "p",
-                "x": "Costs are visible at every step, and an AI agent helps users build workflows with no coding required. Mosa is now available to individual creators and freelancers as well as studios, agencies and in-house teams, with an enterprise plan for larger organizations."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
-          "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
-          "mini_headline": "Ambassadors, Mosa 전면 개방",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내에서 쓰던 비주얼 AI 워크플로 플랫폼 Mosa를 누구나 쓸 수 있게 열었다. 유월에 처음 선보인 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타를 거쳤다. 그동안 참여사들이 만든 워크플로는 40개, 생성한 에셋은 500개를 넘는다."
-              },
-              {
-                "t": "p",
-                "x": "Mosa는 Ambassadors의 자체 제작 현장에서 나왔다. 이미지와 영상, 업스케일링 도구가 따로 놀다 보니 프롬프트와 데이터, 브랜드 요건을 도구마다 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 비주얼 워크플로 하나로 묶는다. 팀은 이 워크플로를 프로젝트와 포맷, 시장을 넘나들며 다시 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo는 이렇게 말했다."
-              },
-              {
-                "t": "p",
-                "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ambassadors\nAI基盤Mosaを全面開放",
-          "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
-          "mini_headline": "AmbassadorsがMosaを全面開放",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-basedのクリエイティブ制作会社Ambassadorsが、社内向けのビジュアルAIワークフロー基盤Mosaを全面公開した。六月に初披露されたMosaは、10のブランドとエージェンシーが参加したクローズドベータでテストされ、参加社は40を超えるワークフローを構築し、500点を超えるアセットを生成した。"
-              },
-              {
-                "t": "p",
-                "x": "MosaはAmbassadors自身の制作現場から生まれた。画像、映像、アップスケーリングでツールが分かれていたため、プロンプトやデータ、ブランド要件をツール間で手作業で受け渡す必要があった。MosaはAIモデル、データ、ワークフローの各ステップを一つのビジュアルワークフローにまとめ、チームはそれをプロジェクトやフォーマット、市場をまたいで再利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「良いアセットを一つ生成すること自体は、もはや難しくない。難しいのは、フォーマットや市場をまたいで、ブランドを損なわずに一貫して作り続けることだ。だからこれを作った」と、AmbassadorsのCIO、Diederik Veeloは語る。"
-              },
-              {
-                "t": "p",
-                "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ambassadors\nAI平台Mosa全面开放",
-          "body": "Amsterdam工作室Ambassadors将自研AI工作流平台Mosa向所有人开放。",
-          "mini_headline": "Ambassadors全面开放Mosa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-based创意制作公司Ambassadors已向所有人开放其内部可视化AI工作流平台Mosa。该平台于六月首次亮相，曾在10家品牌和代理商参与的封闭测试中试用，参与者搭建了40多个工作流，生成了500多个素材。"
-              },
-              {
-                "t": "p",
-                "x": "Mosa源自Ambassadors自身的制作实践：图像、视频和放大各用一套工具，提示词、数据和品牌要求只能在工具之间手动传递。Mosa把AI模型、数据和工作流步骤整合进同一个可视化工作流，团队可以在不同项目、格式和市场中反复使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“我们做它，是因为生成一个好素材已经不再是难点。难的是在不同格式和市场中持续稳定地产出，同时保持品牌完整。”Ambassadors首席信息官（CIO）Diederik Veelo说。"
-              },
-              {
-                "t": "p",
-                "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ambassadors abre a todos\nMosa, su plataforma de AI",
-          "body": "El estudio de Amsterdam Ambassadors abre a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI.",
-          "mini_headline": "Ambassadors abre Mosa a todos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La productora creativa Amsterdam-based Ambassadors ha abierto a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI. Presentada en junio, se probó en una beta cerrada con 10 marcas y agencias, que crearon más de 40 flujos de trabajo y generaron más de 500 recursos."
-              },
-              {
-                "t": "p",
-                "x": "Mosa nació del propio trabajo de producción de Ambassadors, donde las herramientas separadas para imagen, video y escalado obligaban a trasladar a mano prompts, datos y requisitos de marca de una a otra. La plataforma reúne modelos de AI, datos y pasos de trabajo en un único flujo visual que los equipos pueden reutilizar entre proyectos, formatos y mercados."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“La construimos porque generar un buen recurso ya no es lo difícil. Lo difícil es hacerlo de forma constante, en distintos formatos y mercados, sin que la marca pierda su identidad”, afirma Diederik Veelo, CIO de Ambassadors."
-              },
-              {
-                "t": "p",
-                "x": "Los costos se ven en cada paso, y un agente de AI ayuda a crear flujos de trabajo sin necesidad de programar. Mosa ya está disponible para creadores individuales y freelancers, así como para estudios, agencias y equipos internos, con un plan enterprise para organizaciones más grandes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Ambassadors의\nAI 플랫폼 Mosa 개방",
-          "body": "Amsterdam의 Ambassadors가 AI 플랫폼 Mosa를 전면 공개했다.",
-          "mini_headline": "Ambassadors, Mosa 전면 개방",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-based 크리에이티브 제작사 Ambassadors가 사내 비주얼 AI 워크플로 플랫폼 Mosa를 이제 모두에게 공개했다. 유월에 처음 소개된 Mosa는 10개 브랜드·에이전시가 참여한 클로즈드 베타에서 테스트를 거쳤고, 참여사들은 40개가 넘는 워크플로를 만들고 500개가 넘는 에셋을 생성했다."
-              },
-              {
-                "t": "p",
-                "x": "Mosa는 Ambassadors의 자체 제작 현장에서 출발했다. 이미지, 영상, 업스케일링 도구가 제각각이라 프롬프트와 데이터, 브랜드 요건을 도구 사이에서 일일이 손으로 옮겨야 했다. Mosa는 AI 모델과 데이터, 워크플로 단계를 하나의 비주얼 워크플로로 묶고, 팀은 이를 프로젝트와 포맷, 시장을 넘나들며 재사용할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“좋은 에셋 하나를 만드는 일은 더 이상 어렵지 않기 때문에 이걸 만들었습니다. 어려운 건 포맷과 시장을 가리지 않고, 브랜드를 온전히 지키면서 꾸준히 해내는 일입니다.” Ambassadors의 CIO Diederik Veelo의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "단계마다 비용이 보이고, AI 에이전트가 코딩 없이 워크플로를 만들도록 돕는다. Mosa는 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 쓸 수 있으며, 대규모 조직을 위한 엔터프라이즈 플랜도 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Ambassadors\nAI基盤Mosaを全面開放",
-          "body": "AmsterdamのAmbassadorsが自社のAI基盤Mosaを全面公開した。",
-          "mini_headline": "AmbassadorsがMosaを全面開放",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-basedのクリエイティブ制作会社Ambassadorsが、社内向けのビジュアルAIワークフロー基盤Mosaを全面公開した。六月に初披露されたMosaは、10のブランドとエージェンシーが参加したクローズドベータでテストされ、参加社は40を超えるワークフローを構築し、500点を超えるアセットを生成した。"
-              },
-              {
-                "t": "p",
-                "x": "MosaはAmbassadors自身の制作現場から生まれた。画像、映像、アップスケーリングでツールが分かれていたため、プロンプトやデータ、ブランド要件をツール間で手作業で受け渡す必要があった。MosaはAIモデル、データ、ワークフローの各ステップを一つのビジュアルワークフローにまとめ、チームはそれをプロジェクトやフォーマット、市場をまたいで再利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "「良いアセットを一つ生成すること自体は、もはや難しくない。難しいのは、フォーマットや市場をまたいで、ブランドを損なわずに一貫して作り続けることだ。だからこれを作った」と、AmbassadorsのCIO、Diederik Veeloは語る。"
-              },
-              {
-                "t": "p",
-                "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ambassadors\nAI平台Mosa全面开放",
-          "body": "Amsterdam工作室Ambassadors将自研AI工作流平台Mosa向所有人开放。",
-          "mini_headline": "Ambassadors全面开放Mosa",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amsterdam-based创意制作公司Ambassadors已向所有人开放其内部可视化AI工作流平台Mosa。该平台于六月首次亮相，曾在10家品牌和代理商参与的封闭测试中试用，参与者搭建了40多个工作流，生成了500多个素材。"
-              },
-              {
-                "t": "p",
-                "x": "Mosa源自Ambassadors自身的制作实践：图像、视频和放大各用一套工具，提示词、数据和品牌要求只能在工具之间手动传递。Mosa把AI模型、数据和工作流步骤整合进同一个可视化工作流，团队可以在不同项目、格式和市场中反复使用。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“我们做它，是因为生成一个好素材已经不再是难点。难的是在不同格式和市场中持续稳定地产出，同时保持品牌完整。”Ambassadors首席信息官（CIO）Diederik Veelo说。"
-              },
-              {
-                "t": "p",
-                "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ambassadors abre a todos\nMosa, su plataforma de AI",
-          "body": "El estudio de Amsterdam Ambassadors abre a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI.",
-          "mini_headline": "Ambassadors abre Mosa a todos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_Featured_img-copy-1.jpg"
-              },
-              {
-                "t": "p",
-                "x": "La productora creativa Amsterdam-based Ambassadors ha abierto a todos Mosa, su plataforma interna de flujos de trabajo visuales con AI. Presentada en junio, se probó en una beta cerrada con 10 marcas y agencias, que crearon más de 40 flujos de trabajo y generaron más de 500 recursos."
-              },
-              {
-                "t": "p",
-                "x": "Mosa nació del propio trabajo de producción de Ambassadors, donde las herramientas separadas para imagen, video y escalado obligaban a trasladar a mano prompts, datos y requisitos de marca de una a otra. La plataforma reúne modelos de AI, datos y pasos de trabajo en un único flujo visual que los equipos pueden reutilizar entre proyectos, formatos y mercados."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Mosa_still1_nologo-copy.jpg"
-              },
-              {
-                "t": "p",
-                "x": "“La construimos porque generar un buen recurso ya no es lo difícil. Lo difícil es hacerlo de forma constante, en distintos formatos y mercados, sin que la marca pierda su identidad”, afirma Diederik Veelo, CIO de Ambassadors."
-              },
-              {
-                "t": "p",
-                "x": "Los costos se ven en cada paso, y un agente de AI ayuda a crear flujos de trabajo sin necesidad de programar. Mosa ya está disponible para creadores individuales y freelancers, así como para estudios, agencias y equipos internos, con un plan enterprise para organizaciones más grandes."
-              }
-            ]
-          }
-        }
-      }
+ "date": "2026-10-07",
+ "section": "movies",
+ "cards": [
+  {
+   "id": "movies-loftapps-mad-god",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
+   "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
+   "mini_headline": "LOFT와 Mad God 속편",
+   "tool": "Movies",
+   "source": "AWN",
+   "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026",
+   "accent": "#0070f3",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+      "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
+     },
+     {
+      "t": "p",
+      "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽에 처음 공개한다고 밝혔다. 참가자들은 Phil Tippett이 LOFT로 만들고 있는 stop-motion 장편 Mad God 속편도 먼저 볼 수 있다."
+     },
+     {
+      "t": "p",
+      "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 한 시스템에서 관리한다. AI-first 제품으로 설계했지만 하이브리드 워크플로도 지원한다. 지금은 가이드형 온보딩을 거쳐 일부 고객에게 공급하고 있다."
+     },
+     {
+      "t": "p",
+      "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
+     },
+     {
+      "t": "p",
+      "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "LOFTAPPS brings its AI system\nand a Mad God sequel to VIEW",
+     "body": "LOFTAPPS brings its AI production software to VIEW 2026, where Phil Tippett previews his stop-motion Mad God follow-up.",
+     "mini_headline": "LOFT and a Mad God sequel",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "Image from Phil Tippett's 'Mad God' sequel now in production using LOFT. Image courtesy of LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "Berkeley, California-based LOFTAPPS has announced that LOFT, its production software for generative AI, will make its European debut at VIEW Conference 2026, running October 12-16 in Turin, Italy. Attendees will also get an exclusive sneak peek at the sequel to Mad God, Phil Tippett's stop-motion feature, currently in production and powered by LOFT."
+       },
+       {
+        "t": "p",
+        "x": "LOFT manages assets, creative intent, prompts, provenance, review, and production resources across complex pipelines and multiple AI models in a single system. Built as an AI-first product, it also supports hybrid workflows, and it is now shipping to select customers through a guided onboarding process."
+       },
+       {
+        "t": "p",
+        "x": "\"Its value is a connected production process that fundamentally changes how production work is generated, multiplied and managed,\" said LOFTAPPS co-founder and CEO Gary Mundell."
+       },
+       {
+        "t": "p",
+        "x": "On October 15, Mundell and CTO Remko Noteboom, with Tippett joining remotely, present \"The Hybrid Trap: Why AI-Native Production Matters,\" sharing behind-the-scenes content from AI-supported film projects that demonstrate the director's handmade visual style. Tippett spent some 30 years making Mad God, released in theaters in 2022."
+       }
+      ]
+     }
     },
-    {
-      "id": "pvc-ai-coded-editor-utilities-roundup",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
-      "body": "AI는 코드 작성에 강하고, 편집자용 작은 도구는 그 강점에 꼭 들어맞는다.",
-      "mini_headline": "AI 코딩이 키운 편집 도구",
-      "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "인공지능(Artificial Intelligence)이 모든 일을 잘하지는 못해도 코드 작성만큼은 강하다. 작은 소프트웨어 도구가 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실히는 모른다면서도, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "코딩이 쉬워지자 포스트 프로덕션 분야에도 사소하지만 성가신 문제를 푸는 앱이 부쩍 늘었다. 편집자가 그런 도구를 직접 설계하고 만들 수 있게 됐기 때문이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-            "cap": "Beat는 대본을 노드 기반 다기능 문서로 바꾼다"
-          },
-          {
-            "t": "p",
-            "x": "추천 목록에는 MCP로 AI 도구를 연결하는 무료 비주얼 스크립팅 도구 Beat, 음성으로 움직이는 텔레프롬프터 PowerCue가 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-            "cap": "Doza Assist 역시 요즘 늘어나는 AI-powered 편집 솔루션이다"
-          },
-          {
-            "t": "p",
-            "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개된다. Final Cut Pro에 생성형 확장 기능을 붙이는 FCP Extender도 목록에 올랐다."
-          },
-          {
-            "t": "p",
-            "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 적고 마케팅과 지원을 큰 숙제로 꼽았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "As AI makes coding easier,\nnew editor tools multiply",
-          "body": "AI is good at writing code, and small software tools for video editors sit right in its sweet spot.",
-          "mini_headline": "AI coding spurs editor tools",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Artificial Intelligence isn't good at everything, but it is good at writing code. Small-scale software tools sit right in the sweet spot. Iain Anderson has no firm information on how the new tools he rounds up were made, but says it's a fair bet most had at least some degree of AI involvement."
-              },
-              {
-                "t": "p",
-                "x": "Because coding has become easier, the post production scene is seeing a lot more apps that solve annoying smaller issues, because editors are able to design and implement those tools themselves."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat turns your script into a node-based multifunctional document"
-              },
-              {
-                "t": "p",
-                "x": "Picks include Beat, a free visual scripting tool that can hook in AI tools via MCP, and PowerCue, a voice-activated teleprompter."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist is one of the current crop of AI-powered editing solutions"
-              },
-              {
-                "t": "p",
-                "x": "Automatic rough-cut tools such as Doza Assist, PowerCut and RoughCut also feature, alongside FCP Extender, which brings a generative extend feature to Final Cut Pro."
-              },
-              {
-                "t": "p",
-                "x": "“There's still a big gap between ‘app made for me’ and ‘app that people will want to buy’,” Anderson writes, pointing to marketing and support as huge challenges."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
-          "body": "AI는 코드 작성에 강하고, 편집자용 작은 도구는 그 강점에 꼭 들어맞는다.",
-          "mini_headline": "AI 코딩이 키운 편집 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "인공지능(Artificial Intelligence)이 모든 일을 잘하지는 못해도 코드 작성만큼은 강하다. 작은 소프트웨어 도구가 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실히는 모른다면서도, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "코딩이 쉬워지자 포스트 프로덕션 분야에도 사소하지만 성가신 문제를 푸는 앱이 부쩍 늘었다. 편집자가 그런 도구를 직접 설계하고 만들 수 있게 됐기 때문이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat는 대본을 노드 기반 다기능 문서로 바꾼다"
-              },
-              {
-                "t": "p",
-                "x": "추천 목록에는 MCP로 AI 도구를 연결하는 무료 비주얼 스크립팅 도구 Beat, 음성으로 움직이는 텔레프롬프터 PowerCue가 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist 역시 요즘 늘어나는 AI-powered 편집 솔루션이다"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개된다. Final Cut Pro에 생성형 확장 기능을 붙이는 FCP Extender도 목록에 올랐다."
-              },
-              {
-                "t": "p",
-                "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 적고 마케팅과 지원을 큰 숙제로 꼽았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIでコーディングが容易に\n編集ツールが続々登場",
-          "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
-          "mini_headline": "AIコーディングで編集ツール増加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "人工知能(Artificial Intelligence)は何でも得意なわけではないが、コードを書くのは得意だ。小規模なソフトウェアツールはまさにその得意分野に当たる。Iain Andersonは、自身がまとめた新ツールがどう作られたかについて確かな情報は持っていないが、大半は少なくともある程度AIが関わっていると見てよいだろうと述べる。"
-              },
-              {
-                "t": "p",
-                "x": "コーディングが容易になったことで、ポストプロダクションの現場では、小さいながらも厄介な問題を解決するアプリが大幅に増えている。編集者自身がそうしたツールを設計し、実装できるようになったためだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beatは脚本をノードベースの多機能ドキュメントに変える"
-              },
-              {
-                "t": "p",
-                "x": "選ばれたツールには、MCP経由でAIツールを接続できる無料のビジュアルスクリプティングツールBeatや、音声で操作するテレプロンプターPowerCueがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assistは、現在登場しているAI-poweredの編集ソリューションの一つだ"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist、PowerCut、RoughCutといった自動ラフカットツールも取り上げられ、Final Cut Proに生成拡張機能を加えるFCP Extenderも並ぶ。"
-              },
-              {
-                "t": "p",
-                "x": "「『自分のために作ったアプリ』と『人が買いたいと思うアプリ』の間には、まだ大きな隔たりがある」とAndersonは書き、マーケティングとサポートを大きな課題として挙げる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI让编程更容易\n剪辑工具纷纷涌现",
-          "body": "AI擅长写代码，而面向视频剪辑师的小型软件工具正好落在它的强项上。",
-          "mini_headline": "AI编程催生剪辑工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "人工智能（Artificial Intelligence）并非样样精通，但很擅长写代码，小型软件工具恰好是它的用武之地。Iain Anderson并没有确切信息说明他汇总的这些新工具是如何开发的，但他表示，可以合理推测其中大多数至少在某种程度上用到了AI。"
-              },
-              {
-                "t": "p",
-                "x": "由于编程变得更容易，后期制作领域出现了越来越多解决恼人小问题的应用，因为剪辑师已经能够自己设计并实现这些工具。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat把剧本变成基于节点的多功能文档"
-              },
-              {
-                "t": "p",
-                "x": "入选工具包括可通过MCP接入AI工具的免费可视化脚本工具Beat，以及声控提词器PowerCue。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist是当下一批AI-powered剪辑方案之一"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist、PowerCut和RoughCut等自动粗剪工具也在其列，此外还有为Final Cut Pro加入生成式扩展功能的FCP Extender。"
-              },
-              {
-                "t": "p",
-                "x": "“‘为自己做的应用’和‘人们愿意掏钱买的应用’之间仍有很大差距。”Anderson写道，并指出营销和支持是巨大的挑战。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Programar es más fácil con AI\ny surgen nuevas apps de edición",
-          "body": "La AI escribe bien código, y las pequeñas herramientas para editores de video encajan justo en su punto fuerte.",
-          "mini_headline": "La AI impulsa apps de edición",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La inteligencia artificial (Artificial Intelligence) no es buena en todo, pero sí escribiendo código. Las herramientas de software a pequeña escala encajan justo en ese punto fuerte. Iain Anderson no tiene información firme sobre cómo se hicieron las nuevas herramientas que reúne, pero considera razonable suponer que en la mayoría intervino la AI al menos en cierta medida."
-              },
-              {
-                "t": "p",
-                "x": "Como programar se ha vuelto más fácil, en la posproducción aparecen muchas más apps que resuelven pequeños problemas molestos, porque los propios editores pueden diseñar e implementar esas herramientas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat convierte el guion en un documento multifuncional basado en nodos"
-              },
-              {
-                "t": "p",
-                "x": "Entre las elegidas figuran Beat, una herramienta gratuita de guion visual que puede conectar herramientas de AI mediante MCP, y PowerCue, un teleprompter activado por voz."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist es una de las soluciones de edición AI-powered actuales"
-              },
-              {
-                "t": "p",
-                "x": "También aparecen herramientas de premontaje automático como Doza Assist, PowerCut y RoughCut, junto a FCP Extender, que añade a Final Cut Pro una función de extensión generativa."
-              },
-              {
-                "t": "p",
-                "x": "“Todavía hay una gran distancia entre ‘una app hecha para mí’ y ‘una app que la gente quiera comprar’”, escribe Anderson, que señala el marketing y el soporte como enormes desafíos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI로 코딩 쉬워지자\n편집 도구가 늘어난다",
-          "body": "AI는 코드 작성에 강하고, 영상 편집자용 소형 도구는 그 강점에 딱 들어맞는다.",
-          "mini_headline": "AI 코딩이 키운 편집 도구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "인공지능(Artificial Intelligence)이 모든 일에 능한 것은 아니지만, 코드 작성에는 강하다. 소규모 소프트웨어 도구는 바로 그 강점에 들어맞는다. Iain Anderson은 자신이 정리한 새 도구들이 어떻게 만들어졌는지 확실한 정보는 없지만, 대부분 적어도 어느 정도는 AI의 손을 거쳤다고 봐도 무리가 없다고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "코딩이 쉬워지면서 포스트 프로덕션 분야에는 사소하지만 성가신 문제를 해결하는 앱이 훨씬 많아지고 있다. 편집자가 그런 도구를 직접 설계하고 구현할 수 있게 됐기 때문이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat는 대본을 노드 기반의 다기능 문서로 바꿔 준다"
-              },
-              {
-                "t": "p",
-                "x": "추천 목록에는 MCP로 AI 도구를 연결할 수 있는 무료 비주얼 스크립팅 도구 Beat와 음성으로 작동하는 텔레프롬프터 PowerCue가 들어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist는 요즘 나오는 AI-powered 편집 솔루션 가운데 하나다"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist, PowerCut, RoughCut 같은 자동 러프컷 도구도 소개되며, Final Cut Pro에 생성형 확장 기능을 더하는 FCP Extender도 함께 올랐다."
-              },
-              {
-                "t": "p",
-                "x": "“‘나를 위해 만든 앱’과 ‘사람들이 사고 싶어 할 앱’ 사이에는 여전히 큰 간극이 있다.” Anderson은 이렇게 쓰며 마케팅과 지원을 큰 과제로 꼽았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIでコーディングが容易に\n編集ツールが続々登場",
-          "body": "AIはコード作成が得意で、映像編集者向けの小さなツールはまさにその得意分野に収まる。",
-          "mini_headline": "AIコーディングで編集ツール増加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "人工知能(Artificial Intelligence)は何でも得意なわけではないが、コードを書くのは得意だ。小規模なソフトウェアツールはまさにその得意分野に当たる。Iain Andersonは、自身がまとめた新ツールがどう作られたかについて確かな情報は持っていないが、大半は少なくともある程度AIが関わっていると見てよいだろうと述べる。"
-              },
-              {
-                "t": "p",
-                "x": "コーディングが容易になったことで、ポストプロダクションの現場では、小さいながらも厄介な問題を解決するアプリが大幅に増えている。編集者自身がそうしたツールを設計し、実装できるようになったためだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beatは脚本をノードベースの多機能ドキュメントに変える"
-              },
-              {
-                "t": "p",
-                "x": "選ばれたツールには、MCP経由でAIツールを接続できる無料のビジュアルスクリプティングツールBeatや、音声で操作するテレプロンプターPowerCueがある。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assistは、現在登場しているAI-poweredの編集ソリューションの一つだ"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist、PowerCut、RoughCutといった自動ラフカットツールも取り上げられ、Final Cut Proに生成拡張機能を加えるFCP Extenderも並ぶ。"
-              },
-              {
-                "t": "p",
-                "x": "「『自分のために作ったアプリ』と『人が買いたいと思うアプリ』の間には、まだ大きな隔たりがある」とAndersonは書き、マーケティングとサポートを大きな課題として挙げる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI让编程更容易\n剪辑工具纷纷涌现",
-          "body": "AI擅长写代码，而面向视频剪辑师的小型软件工具正好落在它的强项上。",
-          "mini_headline": "AI编程催生剪辑工具",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "人工智能（Artificial Intelligence）并非样样精通，但很擅长写代码，小型软件工具恰好是它的用武之地。Iain Anderson并没有确切信息说明他汇总的这些新工具是如何开发的，但他表示，可以合理推测其中大多数至少在某种程度上用到了AI。"
-              },
-              {
-                "t": "p",
-                "x": "由于编程变得更容易，后期制作领域出现了越来越多解决恼人小问题的应用，因为剪辑师已经能够自己设计并实现这些工具。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat把剧本变成基于节点的多功能文档"
-              },
-              {
-                "t": "p",
-                "x": "入选工具包括可通过MCP接入AI工具的免费可视化脚本工具Beat，以及声控提词器PowerCue。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist是当下一批AI-powered剪辑方案之一"
-              },
-              {
-                "t": "p",
-                "x": "Doza Assist、PowerCut和RoughCut等自动粗剪工具也在其列，此外还有为Final Cut Pro加入生成式扩展功能的FCP Extender。"
-              },
-              {
-                "t": "p",
-                "x": "“‘为自己做的应用’和‘人们愿意掏钱买的应用’之间仍有很大差距。”Anderson写道，并指出营销和支持是巨大的挑战。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Programar es más fácil con AI\ny surgen nuevas apps de edición",
-          "body": "La AI escribe bien código, y las pequeñas herramientas para editores de video encajan justo en su punto fuerte.",
-          "mini_headline": "La AI impulsa apps de edición",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La inteligencia artificial (Artificial Intelligence) no es buena en todo, pero sí escribiendo código. Las herramientas de software a pequeña escala encajan justo en ese punto fuerte. Iain Anderson no tiene información firme sobre cómo se hicieron las nuevas herramientas que reúne, pero considera razonable suponer que en la mayoría intervino la AI al menos en cierta medida."
-              },
-              {
-                "t": "p",
-                "x": "Como programar se ha vuelto más fácil, en la posproducción aparecen muchas más apps que resuelven pequeños problemas molestos, porque los propios editores pueden diseñar e implementar esas herramientas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-beat-1024x662.jpg",
-                "cap": "Beat convierte el guion en un documento multifuncional basado en nodos"
-              },
-              {
-                "t": "p",
-                "x": "Entre las elegidas figuran Beat, una herramienta gratuita de guion visual que puede conectar herramientas de AI mediante MCP, y PowerCue, un teleprompter activado por voz."
-              },
-              {
-                "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/newapps-doza-1024x800.jpg",
-                "cap": "Doza Assist es una de las soluciones de edición AI-powered actuales"
-              },
-              {
-                "t": "p",
-                "x": "También aparecen herramientas de premontaje automático como Doza Assist, PowerCut y RoughCut, junto a FCP Extender, que añade a Final Cut Pro una función de extensión generativa."
-              },
-              {
-                "t": "p",
-                "x": "“Todavía hay una gran distancia entre ‘una app hecha para mí’ y ‘una app que la gente quiera comprar’”, escribe Anderson, que señala el marketing y el soporte como enormes desafíos."
-              }
-            ]
-          }
-        }
-      }
+    "ko": {
+     "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
+     "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
+     "mini_headline": "LOFT와 Mad God 속편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽에 처음 공개한다고 밝혔다. 참가자들은 Phil Tippett이 LOFT로 만들고 있는 stop-motion 장편 Mad God 속편도 먼저 볼 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 한 시스템에서 관리한다. AI-first 제품으로 설계했지만 하이브리드 워크플로도 지원한다. 지금은 가이드형 온보딩을 거쳐 일부 고객에게 공급하고 있다."
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
+       }
+      ]
+     }
     },
-    {
-      "id": "laemmle-inside-the-arthouse-chronicle-ai-audience",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Laemmle 팟캐스트\nAI로 관객 넓힌다",
-      "body": "Inside the Arthouse가 시청자를 넓히려 Chronicle과 손잡았다.",
-      "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
-      "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/news/business/art-house-theaters-ai-data-models-targeted-audience-1235219480/",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-            "cap": "‘Inside the Arthouse’"
-          },
-          {
-            "t": "p",
-            "x": "비디오 팟캐스트 “Inside the Arthouse”는 Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행한다. 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회를 넘겼다."
-          },
-          {
-            "t": "p",
-            "x": "이 쇼가 손잡은 곳은 AI-driven 데이터 기업 Chronicle이다. Chronicle은 AI 모델로 관객을 시뮬레이션하고 시청자의 행동과 관심사를 분석한다. 소셜에서 콘텐츠가 더 잘 전달되게 하고, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정하도록 데이터를 맞춤 가공해 준다."
-          },
-          {
-            "t": "p",
-            "x": "두 달 만에 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 진행자들은 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤 “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀하게 겨눈다."
-          },
-          {
-            "t": "p",
-            "x": "분석 결과는 에피소드 길이와 게스트 섭외를 거쳐 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 준다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Laemmle's art house podcast\nturns to AI audience data",
-          "body": "Inside the Arthouse, Greg Laemmle and Raphael Sbarge's podcast, partnered with data firm Chronicle to extend its reach.",
-          "mini_headline": "Art house podcast tries AI data",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres president Greg Laemmle and filmmaker and actor Raphael Sbarge host “Inside the Arthouse,” a video podcast that has grown to half a million YouTube subscribers and over 5 million views in two years."
-              },
-              {
-                "t": "p",
-                "x": "The show has partnered with Chronicle, an AI-driven data company. Chronicle uses AI models to simulate audiences, analyze viewer behaviors and interest, push content more effectively to people on social, and tailor that data so the hosts can decide how to market and grow the podcast."
-              },
-              {
-                "t": "p",
-                "x": "After two months, the hosts say engagement rose “literally almost overnight.” Chronicle builds an AI model trained on the show itself, then micro-targets clips to specific users rather than “buying a bunch of ads and just shotgunning it,” co-founder Scott Greenberg said."
-              },
-              {
-                "t": "p",
-                "x": "The findings are shaping episode length, guest bookings and even potential live events in Laemmle's venues."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Laemmle 팟캐스트\nAI로 관객 넓힌다",
-          "body": "Inside the Arthouse가 시청자를 넓히려 Chronicle과 손잡았다.",
-          "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "비디오 팟캐스트 “Inside the Arthouse”는 Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행한다. 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회를 넘겼다."
-              },
-              {
-                "t": "p",
-                "x": "이 쇼가 손잡은 곳은 AI-driven 데이터 기업 Chronicle이다. Chronicle은 AI 모델로 관객을 시뮬레이션하고 시청자의 행동과 관심사를 분석한다. 소셜에서 콘텐츠가 더 잘 전달되게 하고, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정하도록 데이터를 맞춤 가공해 준다."
-              },
-              {
-                "t": "p",
-                "x": "두 달 만에 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 진행자들은 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤 “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀하게 겨눈다."
-              },
-              {
-                "t": "p",
-                "x": "분석 결과는 에피소드 길이와 게스트 섭외를 거쳐 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 준다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Laemmleの映画番組\nAI観客データを活用",
-          "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
-          "mini_headline": "アートハウス番組がAIデータ活用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres社長のGreg Laemmleと、映画監督で俳優のRaphael Sbargeが司会を務める動画ポッドキャスト「Inside the Arthouse」は、二年でYouTube登録者五十万人、再生回数5百万回超にまで成長した。"
-              },
-              {
-                "t": "p",
-                "x": "番組はAI-drivenのデータ企業Chronicleと提携した。ChronicleはAIモデルで観客をシミュレートし、視聴者の行動や関心を分析し、ソーシャル上でコンテンツをより効果的に届け、そのデータを司会者たちがポッドキャストのマーケティングや成長の方針を決められるよう最適化する。"
-              },
-              {
-                "t": "p",
-                "x": "二か月後、司会者たちによるとエンゲージメントは「文字どおり、ほぼ一夜にして」上がったという。共同創業者のScott Greenbergによれば、Chronicleは番組そのもので学習したAIモデルを構築し、「大量の広告を買ってばらまく」のではなく、特定のユーザーにクリップをマイクロターゲティングする。"
-              },
-              {
-                "t": "p",
-                "x": "その知見は、エピソードの長さやゲストの起用、さらにはLaemmleの劇場で開く可能性のあるライブイベントにまで反映されつつある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Laemmle艺术片播客\n借力AI受众数据",
-          "body": "Inside the Arthouse播客与数据公司Chronicle合作，以扩大影响力。",
-          "mini_headline": "艺术片播客试水AI数据",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres总裁Greg Laemmle与电影人、演员Raphael Sbarge主持的视频播客“Inside the Arthouse”，两年间已发展到YouTube订阅者五十万、观看次数超过5百万。"
-              },
-              {
-                "t": "p",
-                "x": "该节目已与AI-driven数据公司Chronicle合作。Chronicle用AI模型模拟受众、分析观众行为与兴趣，在社交平台上更有效地推送内容，并对数据进行定制，帮助主持人决定如何推广和发展播客。"
-              },
-              {
-                "t": "p",
-                "x": "两个月后，主持人表示互动量“真的几乎是一夜之间”就上来了。联合创始人Scott Greenberg说，Chronicle会用节目本身训练一个AI模型，再把片段精准推送给特定用户，而不是“买一堆广告然后到处乱撒”。"
-              },
-              {
-                "t": "p",
-                "x": "这些发现正在影响节目时长、嘉宾邀约，甚至可能在Laemmle影院举办的现场活动。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El podcast arthouse de Laemmle\nusa datos de audiencia con AI",
-          "body": "Inside the Arthouse, el podcast de Greg Laemmle y Raphael Sbarge, se alió con Chronicle para ampliar su alcance.",
-          "mini_headline": "Podcast arthouse prueba datos de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "El presidente de Laemmle Theatres, Greg Laemmle, y el cineasta y actor Raphael Sbarge presentan “Inside the Arthouse”, un videopodcast que en dos años ha llegado a medio millón de suscriptores en YouTube y a más de 5 millones de visualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "El programa se ha asociado con Chronicle, una empresa de datos AI-driven. Chronicle usa modelos de AI para simular audiencias, analizar el comportamiento y los intereses de los espectadores, llevar el contenido de forma más eficaz al público en redes sociales y adaptar esos datos para que los presentadores decidan cómo promocionar y hacer crecer el podcast."
-              },
-              {
-                "t": "p",
-                "x": "Tras dos meses, los presentadores aseguran que la interacción subió “literalmente casi de la noche a la mañana”. Chronicle crea un modelo de AI entrenado con el propio programa y luego dirige clips con microsegmentación a usuarios concretos, en lugar de “comprar un montón de anuncios y dispararlos a lo loco”, explicó el cofundador Scott Greenberg."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados están influyendo en la duración de los episodios, la elección de invitados e incluso en posibles eventos en vivo en las salas de Laemmle."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Laemmle 팟캐스트\nAI 관객 데이터 활용",
-          "body": "Inside the Arthouse가 도달을 넓히려 Chronicle과 손잡았다.",
-          "mini_headline": "아트하우스 팟캐스트, AI 데이터 실험",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres 대표 Greg Laemmle과 영화감독 겸 배우 Raphael Sbarge가 진행하는 비디오 팟캐스트 “Inside the Arthouse”는 두 해 만에 YouTube 구독자 오십만 명, 조회수 5백만 회 이상으로 성장했다."
-              },
-              {
-                "t": "p",
-                "x": "이 쇼는 AI-driven 데이터 기업 Chronicle과 손잡았다. Chronicle은 AI 모델로 관객을 시뮬레이션하고, 시청자의 행동과 관심사를 분석하고, 소셜에서 콘텐츠를 더 효과적으로 전달하며, 진행자들이 팟캐스트의 마케팅과 성장 방향을 정할 수 있도록 데이터를 맞춤 가공한다."
-              },
-              {
-                "t": "p",
-                "x": "두 달이 지나자 진행자들은 참여도가 “말 그대로 거의 하룻밤 사이에” 올랐다고 말한다. 공동 창업자 Scott Greenberg에 따르면 Chronicle은 쇼 자체로 학습한 AI 모델을 만든 뒤, “광고를 잔뜩 사서 무작정 뿌리는” 대신 특정 사용자에게 클립을 정밀 타기팅한다."
-              },
-              {
-                "t": "p",
-                "x": "이 분석 결과는 에피소드 길이와 게스트 섭외, 나아가 Laemmle 극장에서 열 수 있는 라이브 이벤트에까지 영향을 주고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Laemmleの映画番組\nAI観客データを活用",
-          "body": "Inside the Arthouseがリーチ拡大へChronicleと提携した。",
-          "mini_headline": "アートハウス番組がAIデータ活用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres社長のGreg Laemmleと、映画監督で俳優のRaphael Sbargeが司会を務める動画ポッドキャスト「Inside the Arthouse」は、二年でYouTube登録者五十万人、再生回数5百万回超にまで成長した。"
-              },
-              {
-                "t": "p",
-                "x": "番組はAI-drivenのデータ企業Chronicleと提携した。ChronicleはAIモデルで観客をシミュレートし、視聴者の行動や関心を分析し、ソーシャル上でコンテンツをより効果的に届け、そのデータを司会者たちがポッドキャストのマーケティングや成長の方針を決められるよう最適化する。"
-              },
-              {
-                "t": "p",
-                "x": "二か月後、司会者たちによるとエンゲージメントは「文字どおり、ほぼ一夜にして」上がったという。共同創業者のScott Greenbergによれば、Chronicleは番組そのもので学習したAIモデルを構築し、「大量の広告を買ってばらまく」のではなく、特定のユーザーにクリップをマイクロターゲティングする。"
-              },
-              {
-                "t": "p",
-                "x": "その知見は、エピソードの長さやゲストの起用、さらにはLaemmleの劇場で開く可能性のあるライブイベントにまで反映されつつある。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Laemmle艺术片播客\n借力AI受众数据",
-          "body": "Inside the Arthouse播客与数据公司Chronicle合作，以扩大影响力。",
-          "mini_headline": "艺术片播客试水AI数据",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "Laemmle Theatres总裁Greg Laemmle与电影人、演员Raphael Sbarge主持的视频播客“Inside the Arthouse”，两年间已发展到YouTube订阅者五十万、观看次数超过5百万。"
-              },
-              {
-                "t": "p",
-                "x": "该节目已与AI-driven数据公司Chronicle合作。Chronicle用AI模型模拟受众、分析观众行为与兴趣，在社交平台上更有效地推送内容，并对数据进行定制，帮助主持人决定如何推广和发展播客。"
-              },
-              {
-                "t": "p",
-                "x": "两个月后，主持人表示互动量“真的几乎是一夜之间”就上来了。联合创始人Scott Greenberg说，Chronicle会用节目本身训练一个AI模型，再把片段精准推送给特定用户，而不是“买一堆广告然后到处乱撒”。"
-              },
-              {
-                "t": "p",
-                "x": "这些发现正在影响节目时长、嘉宾邀约，甚至可能在Laemmle影院举办的现场活动。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El podcast arthouse de Laemmle\nusa datos de audiencia con AI",
-          "body": "Inside the Arthouse, el podcast de Greg Laemmle y Raphael Sbarge, se alió con Chronicle para ampliar su alcance.",
-          "mini_headline": "Podcast arthouse prueba datos de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/09/Inside-The-Arthouse.jpeg?w=640",
-                "cap": "‘Inside the Arthouse’"
-              },
-              {
-                "t": "p",
-                "x": "El presidente de Laemmle Theatres, Greg Laemmle, y el cineasta y actor Raphael Sbarge presentan “Inside the Arthouse”, un videopodcast que en dos años ha llegado a medio millón de suscriptores en YouTube y a más de 5 millones de visualizaciones."
-              },
-              {
-                "t": "p",
-                "x": "El programa se ha asociado con Chronicle, una empresa de datos AI-driven. Chronicle usa modelos de AI para simular audiencias, analizar el comportamiento y los intereses de los espectadores, llevar el contenido de forma más eficaz al público en redes sociales y adaptar esos datos para que los presentadores decidan cómo promocionar y hacer crecer el podcast."
-              },
-              {
-                "t": "p",
-                "x": "Tras dos meses, los presentadores aseguran que la interacción subió “literalmente casi de la noche a la mañana”. Chronicle crea un modelo de AI entrenado con el propio programa y luego dirige clips con microsegmentación a usuarios concretos, en lugar de “comprar un montón de anuncios y dispararlos a lo loco”, explicó el cofundador Scott Greenberg."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados están influyendo en la duración de los episodios, la elección de invitados e incluso en posibles eventos en vivo en las salas de Laemmle."
-              }
-            ]
-          }
-        }
-      }
+    "ja": {
+     "headline": "LOFTAPPS、VIEWに\nAIとMad God続編",
+     "body": "LOFTAPPSがVIEW 2026にAIソフトを出展、Mad God続編も公開する。",
+     "mini_headline": "LOFTとMad God続編",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
+       },
+       {
+        "t": "p",
+        "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
+       },
+       {
+        "t": "p",
+        "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
+       },
+       {
+        "t": "p",
+        "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
+       },
+       {
+        "t": "p",
+        "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
+       }
+      ]
+     }
     },
-    {
-      "id": "motionographer-ai-animation-ip-production",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "생성형 AI,\n프로 애니메이션 현장으로",
-      "body": "생성형 AI가 실험 단계를 지나 전문 애니메이션의 큰 기회로 떠올랐다.",
-      "mini_headline": "AI, 프로 애니메이션 속으로",
-      "tool": "Movies",
-      "source": "Motionographer",
-      "url": "https://motionographer.com/news/ai-animation-ip-and-the-next-phase-of-creative-production/",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 넘어가는 중이다. 스튜디오와 에이전시, 브랜드에는 꽤 큰 기회다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-            "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달린다"
-          },
-          {
-            "t": "p",
-            "x": "하지만 AI가 주류 제작에 자리 잡을수록 더 중요한 질문이 남는다. 이 시스템에 넣은 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀한 지식재산을 날마다 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳도 있지만, 업로드된 자료에 폭넓은 권리를 남겨 두는 곳도 있다."
-          },
-          {
-            "t": "p",
-            "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙할수록 이 문제가 결정적인 쟁점 가운데 하나로 떠오른다고 본다. 다음 단계를 좌우할 것은 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라라는 설명이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Generative AI moves into\nprofessional animation",
-          "body": "Generative AI is moving from experiments into professional animation, a significant opportunity for studios and brands.",
-          "mini_headline": "AI moves into pro animation",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Generative AI is rapidly moving from experimentation into professional animation and commercial production. For studios, agencies and brands, the opportunity is significant."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "Ani, a small robot with glowing pink eyes, running across a desktop"
-              },
-              {
-                "t": "p",
-                "x": "But as AI becomes part of mainstream production, a more important question is emerging: what happens to the material being put into these systems? Creative teams routinely work with unreleased campaigns, proprietary characters, confidential footage and valuable client intellectual property."
-              },
-              {
-                "t": "p",
-                "x": "Protections vary considerably between AI providers. Some commit not to train models on customer content; others retain broad rights over uploaded material."
-              },
-              {
-                "t": "p",
-                "x": "Jon Draper, Creative Director for Generative AI at Synima and founder of AIAnimation.com, believes this will become one of the defining issues as AI animation matures. The next stage will be about professional infrastructure: clear ownership, controlled access, secure handling of client assets and transparency over how data is used."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "생성형 AI,\n프로 애니메이션 현장으로",
-          "body": "생성형 AI가 실험 단계를 지나 전문 애니메이션의 큰 기회로 떠올랐다.",
-          "mini_headline": "AI, 프로 애니메이션 속으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 넘어가는 중이다. 스튜디오와 에이전시, 브랜드에는 꽤 큰 기회다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달린다"
-              },
-              {
-                "t": "p",
-                "x": "하지만 AI가 주류 제작에 자리 잡을수록 더 중요한 질문이 남는다. 이 시스템에 넣은 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀한 지식재산을 날마다 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳도 있지만, 업로드된 자료에 폭넓은 권리를 남겨 두는 곳도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙할수록 이 문제가 결정적인 쟁점 가운데 하나로 떠오른다고 본다. 다음 단계를 좌우할 것은 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라라는 설명이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "生成AIが\nプロのアニメ制作へ",
-          "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
-          "mini_headline": "AI、プロのアニメ制作へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成AIは実験段階から、プロのアニメーションや商業制作へと急速に移りつつある。スタジオ、エージェンシー、ブランドにとって、その機会は大きい。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "ピンクに光る目を持つ小さなロボットAniが、デスクトップの上を走る"
-              },
-              {
-                "t": "p",
-                "x": "しかしAIが主流の制作に組み込まれるにつれ、より重要な問いが浮上している。こうしたシステムに投入された素材はどうなるのか。クリエイティブチームは日常的に、未発表のキャンペーンや独自キャラクター、機密映像、価値あるクライアントの知的財産を扱っている。"
-              },
-              {
-                "t": "p",
-                "x": "保護の度合いはAIプロバイダーによって大きく異なる。顧客のコンテンツでモデルを学習しないと約束する企業もあれば、アップロードされた素材に広範な権利を保持する企業もある。"
-              },
-              {
-                "t": "p",
-                "x": "SynimaのCreative Director for Generative AIで、AIAnimation.comの創設者でもあるJon Draperは、AIアニメーションが成熟するにつれ、これが決定的な論点の一つになると考えている。次の段階で問われるのはプロ仕様のインフラ、つまり明確な所有権、管理されたアクセス、クライアント資産の安全な取り扱い、そしてデータの使われ方の透明性だという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "生成式AI\n迈入专业动画制作",
-          "body": "生成式AI正从实验走向专业动画制作，为工作室和品牌带来重大机遇。",
-          "mini_headline": "AI进军专业动画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成式AI正迅速从试验阶段走向专业动画和商业制作。对工作室、代理商和品牌而言，这是一个重大机遇。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "Ani是一个眼睛闪着粉光的小机器人，正跑过桌面"
-              },
-              {
-                "t": "p",
-                "x": "但随着AI成为主流制作的一部分，一个更重要的问题浮出水面：输入这些系统的素材会怎样？创意团队日常处理的，正是未发布的营销活动、自有角色、机密影像和珍贵的客户知识产权。"
-              },
-              {
-                "t": "p",
-                "x": "各家AI服务商的保护措施差异很大。有的承诺不用客户内容训练模型，有的则对上传素材保留广泛权利。"
-              },
-              {
-                "t": "p",
-                "x": "Synima的Creative Director for Generative AI、AIAnimation.com创始人Jon Draper认为，随着AI动画走向成熟，这将成为决定性议题之一。下一阶段的关键在于专业基础设施：清晰的所有权、受控的访问、客户资产的安全处理，以及数据使用方式的透明。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI generativa entra en\nla animación profesional",
-          "body": "La AI generativa pasa de los experimentos a la animación profesional, una gran oportunidad para estudios y marcas.",
-          "mini_headline": "La AI entra en la animación profesional",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La AI generativa está pasando rápidamente de la experimentación a la animación profesional y la producción comercial. Para estudios, agencias y marcas, la oportunidad es considerable."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "Ani, un pequeño robot de ojos rosados y brillantes, corre por un escritorio"
-              },
-              {
-                "t": "p",
-                "x": "Pero a medida que la AI se integra en la producción convencional, surge una pregunta más importante: ¿qué ocurre con el material que se introduce en estos sistemas? Los equipos creativos trabajan a diario con campañas inéditas, personajes propios, material audiovisual confidencial y valiosa propiedad intelectual de sus clientes."
-              },
-              {
-                "t": "p",
-                "x": "Las protecciones varían mucho entre proveedores de AI. Algunos se comprometen a no entrenar modelos con el contenido de los clientes; otros conservan amplios derechos sobre el material subido."
-              },
-              {
-                "t": "p",
-                "x": "Jon Draper, Creative Director for Generative AI en Synima y fundador de AIAnimation.com, cree que esta será una de las cuestiones decisivas a medida que madure la animación con AI. La siguiente etapa girará en torno a la infraestructura profesional: propiedad clara, acceso controlado, manejo seguro de los activos de los clientes y transparencia sobre cómo se usan los datos."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "생성형 AI,\n프로 애니메이션 현장으로",
-          "body": "생성형 AI가 실험을 넘어 전문 애니메이션으로 옮겨 가며 큰 기회가 되고 있다.",
-          "mini_headline": "AI, 프로 애니메이션 속으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "생성형 AI가 실험 단계를 빠르게 벗어나 전문 애니메이션과 상업 제작으로 옮겨 가고 있다. 스튜디오와 에이전시, 브랜드에게는 상당한 기회다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "분홍빛 눈이 빛나는 작은 로봇 Ani가 데스크톱 위를 달리고 있다"
-              },
-              {
-                "t": "p",
-                "x": "하지만 AI가 주류 제작의 일부가 되면서 더 중요한 질문이 떠오르고 있다. 이 시스템에 넣는 자료는 어떻게 되는가? 크리에이티브 팀은 미공개 캠페인, 독점 캐릭터, 기밀 영상, 고객의 귀중한 지식재산을 일상적으로 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "보호 수준은 AI 제공업체마다 크게 다르다. 고객 콘텐츠로 모델을 학습하지 않겠다고 약속하는 곳이 있는가 하면, 업로드된 자료에 폭넓은 권리를 유지하는 곳도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Synima의 Creative Director for Generative AI이자 AIAnimation.com 창업자인 Jon Draper는 AI 애니메이션이 성숙해 갈수록 이 문제가 결정적인 쟁점 가운데 하나가 될 것으로 본다. 다음 단계는 명확한 소유권, 통제된 접근, 고객 에셋의 안전한 관리, 데이터 활용의 투명성 같은 전문 인프라가 좌우할 것이라는 설명이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "生成AIが\nプロのアニメ制作へ",
-          "body": "生成AIが実験からプロのアニメ制作へ移り、スタジオやブランドの好機となっている。",
-          "mini_headline": "AI、プロのアニメ制作へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成AIは実験段階から、プロのアニメーションや商業制作へと急速に移りつつある。スタジオ、エージェンシー、ブランドにとって、その機会は大きい。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "ピンクに光る目を持つ小さなロボットAniが、デスクトップの上を走る"
-              },
-              {
-                "t": "p",
-                "x": "しかしAIが主流の制作に組み込まれるにつれ、より重要な問いが浮上している。こうしたシステムに投入された素材はどうなるのか。クリエイティブチームは日常的に、未発表のキャンペーンや独自キャラクター、機密映像、価値あるクライアントの知的財産を扱っている。"
-              },
-              {
-                "t": "p",
-                "x": "保護の度合いはAIプロバイダーによって大きく異なる。顧客のコンテンツでモデルを学習しないと約束する企業もあれば、アップロードされた素材に広範な権利を保持する企業もある。"
-              },
-              {
-                "t": "p",
-                "x": "SynimaのCreative Director for Generative AIで、AIAnimation.comの創設者でもあるJon Draperは、AIアニメーションが成熟するにつれ、これが決定的な論点の一つになると考えている。次の段階で問われるのはプロ仕様のインフラ、つまり明確な所有権、管理されたアクセス、クライアント資産の安全な取り扱い、そしてデータの使われ方の透明性だという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "生成式AI\n迈入专业动画制作",
-          "body": "生成式AI正从实验走向专业动画制作，为工作室和品牌带来重大机遇。",
-          "mini_headline": "AI进军专业动画",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "生成式AI正迅速从试验阶段走向专业动画和商业制作。对工作室、代理商和品牌而言，这是一个重大机遇。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "Ani是一个眼睛闪着粉光的小机器人，正跑过桌面"
-              },
-              {
-                "t": "p",
-                "x": "但随着AI成为主流制作的一部分，一个更重要的问题浮出水面：输入这些系统的素材会怎样？创意团队日常处理的，正是未发布的营销活动、自有角色、机密影像和珍贵的客户知识产权。"
-              },
-              {
-                "t": "p",
-                "x": "各家AI服务商的保护措施差异很大。有的承诺不用客户内容训练模型，有的则对上传素材保留广泛权利。"
-              },
-              {
-                "t": "p",
-                "x": "Synima的Creative Director for Generative AI、AIAnimation.com创始人Jon Draper认为，随着AI动画走向成熟，这将成为决定性议题之一。下一阶段的关键在于专业基础设施：清晰的所有权、受控的访问、客户资产的安全处理，以及数据使用方式的透明。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI generativa entra en\nla animación profesional",
-          "body": "La AI generativa pasa de los experimentos a la animación profesional, una gran oportunidad para estudios y marcas.",
-          "mini_headline": "La AI entra en la animación profesional",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "La AI generativa está pasando rápidamente de la experimentación a la animación profesional y la producción comercial. Para estudios, agencias y marcas, la oportunidad es considerable."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/ai-animation-ani.png?fit=1200%2C675&quality=80&ssl=1",
-                "cap": "Ani, un pequeño robot de ojos rosados y brillantes, corre por un escritorio"
-              },
-              {
-                "t": "p",
-                "x": "Pero a medida que la AI se integra en la producción convencional, surge una pregunta más importante: ¿qué ocurre con el material que se introduce en estos sistemas? Los equipos creativos trabajan a diario con campañas inéditas, personajes propios, material audiovisual confidencial y valiosa propiedad intelectual de sus clientes."
-              },
-              {
-                "t": "p",
-                "x": "Las protecciones varían mucho entre proveedores de AI. Algunos se comprometen a no entrenar modelos con el contenido de los clientes; otros conservan amplios derechos sobre el material subido."
-              },
-              {
-                "t": "p",
-                "x": "Jon Draper, Creative Director for Generative AI en Synima y fundador de AIAnimation.com, cree que esta será una de las cuestiones decisivas a medida que madure la animación con AI. La siguiente etapa girará en torno a la infraestructura profesional: propiedad clara, acceso controlado, manejo seguro de los activos de los clientes y transparencia sobre cómo se usan los datos."
-              }
-            ]
-          }
-        }
-      }
+    "zh": {
+     "headline": "LOFTAPPS携AI系统与\nMad God续作赴VIEW",
+     "body": "LOFTAPPS携AI软件亮相VIEW 2026，Tippett预览Mad God续作。",
+     "mini_headline": "LOFT与Mad God续作",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "使用LOFT制作中的Phil Tippett《Mad God》续作画面。图片由LOFTAPPS提供。"
+       },
+       {
+        "t": "p",
+        "x": "总部位于Berkeley, California的LOFTAPPS宣布，其生成式AI制作软件LOFT将在10月12-16日于Turin(Italy)举行的VIEW Conference 2026上首次亮相欧洲。与会者还将独家抢先看到Phil Tippett的stop-motion长片Mad God的续作，该片正在制作中，由LOFT提供支持。"
+       },
+       {
+        "t": "p",
+        "x": "LOFT在单一系统中管理跨越复杂管线和多个AI模型的资产、创作意图、提示词、来源记录、审阅和制作资源。它作为AI-first产品打造，同时支持混合工作流，目前正通过引导式上手流程向部分客户交付。"
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS联合创始人兼CEO Gary Mundell表示：“它的价值在于一套互联的制作流程，从根本上改变了制作工作的生成、倍增和管理方式。”"
+       },
+       {
+        "t": "p",
+        "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "LOFTAPPS lleva su sistema de AI\ny una secuela de Mad God a VIEW",
+     "body": "LOFTAPPS lleva su software de AI a VIEW 2026, donde Phil Tippett adelanta la secuela en stop-motion de Mad God.",
+     "mini_headline": "LOFT y una secuela de Mad God",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "Imagen de la secuela de 'Mad God' de Phil Tippett, ahora en producción con LOFT. Imagen cortesía de LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS, con sede en Berkeley, California, anunció que LOFT, su software de producción para AI generativa, hará su debut europeo en VIEW Conference 2026, que se celebrará del 12 al 16 de octubre en Turín, Italia. Los asistentes también podrán ver en exclusiva un adelanto de la secuela de Mad God, el largometraje en stop-motion de Phil Tippett, actualmente en producción con LOFT."
+       },
+       {
+        "t": "p",
+        "x": "LOFT gestiona activos, intención creativa, prompts, procedencia, revisión y recursos de producción a lo largo de pipelines complejos y múltiples modelos de AI en un solo sistema. Concebido como un producto AI-first, también admite flujos de trabajo híbridos y ya se distribuye a clientes seleccionados mediante un proceso de incorporación guiado."
+       },
+       {
+        "t": "p",
+        "x": "\"Su valor es un proceso de producción conectado que cambia de raíz cómo se genera, multiplica y gestiona el trabajo de producción\", afirmó Gary Mundell, cofundador y CEO de LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
+       }
+      ]
+     }
     }
-  ]
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
+     "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
+     "mini_headline": "LOFT와 Mad God 속편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI용 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽 최초로 공개한다고 밝혔다. 참가자들은 LOFT 기반으로 현재 제작 중인 Phil Tippett의 stop-motion 장편 Mad God 속편도 독점으로 미리 볼 수 있다."
+       },
+       {
+        "t": "p",
+        "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 하나의 시스템에서 관리한다. AI-first 제품으로 설계됐지만 하이브리드 워크플로도 지원하며, 현재 가이드형 온보딩 과정을 거쳐 일부 고객에게 공급하고 있다."
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
+       },
+       {
+        "t": "p",
+        "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표하고, 감독 특유의 수작업 비주얼 스타일을 보여 주는 AI-supported 영화 프로젝트의 비하인드 콘텐츠를 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 만들었고, 이 작품은 2022년 극장에서 개봉했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "LOFTAPPS、VIEWに\nAIとMad God続編",
+     "body": "LOFTAPPSがVIEW 2026にAIソフトを出展、Mad God続編も公開する。",
+     "mini_headline": "LOFTとMad God続編",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
+       },
+       {
+        "t": "p",
+        "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
+       },
+       {
+        "t": "p",
+        "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
+       },
+       {
+        "t": "p",
+        "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
+       },
+       {
+        "t": "p",
+        "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "LOFTAPPS携AI系统与\nMad God续作赴VIEW",
+     "body": "LOFTAPPS携AI软件亮相VIEW 2026，Tippett预览Mad God续作。",
+     "mini_headline": "LOFT与Mad God续作",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "使用LOFT制作中的Phil Tippett《Mad God》续作画面。图片由LOFTAPPS提供。"
+       },
+       {
+        "t": "p",
+        "x": "总部位于Berkeley, California的LOFTAPPS宣布，其生成式AI制作软件LOFT将在10月12-16日于Turin(Italy)举行的VIEW Conference 2026上首次亮相欧洲。与会者还将独家抢先看到Phil Tippett的stop-motion长片Mad God的续作，该片正在制作中，由LOFT提供支持。"
+       },
+       {
+        "t": "p",
+        "x": "LOFT在单一系统中管理跨越复杂管线和多个AI模型的资产、创作意图、提示词、来源记录、审阅和制作资源。它作为AI-first产品打造，同时支持混合工作流，目前正通过引导式上手流程向部分客户交付。"
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS联合创始人兼CEO Gary Mundell表示：“它的价值在于一套互联的制作流程，从根本上改变了制作工作的生成、倍增和管理方式。”"
+       },
+       {
+        "t": "p",
+        "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "LOFTAPPS lleva su sistema de AI\ny una secuela de Mad God a VIEW",
+     "body": "LOFTAPPS lleva su software de AI a VIEW 2026, donde Phil Tippett adelanta la secuela en stop-motion de Mad God.",
+     "mini_headline": "LOFT y una secuela de Mad God",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+        "cap": "Imagen de la secuela de 'Mad God' de Phil Tippett, ahora en producción con LOFT. Imagen cortesía de LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "LOFTAPPS, con sede en Berkeley, California, anunció que LOFT, su software de producción para AI generativa, hará su debut europeo en VIEW Conference 2026, que se celebrará del 12 al 16 de octubre en Turín, Italia. Los asistentes también podrán ver en exclusiva un adelanto de la secuela de Mad God, el largometraje en stop-motion de Phil Tippett, actualmente en producción con LOFT."
+       },
+       {
+        "t": "p",
+        "x": "LOFT gestiona activos, intención creativa, prompts, procedencia, revisión y recursos de producción a lo largo de pipelines complejos y múltiples modelos de AI en un solo sistema. Concebido como un producto AI-first, también admite flujos de trabajo híbridos y ya se distribuye a clientes seleccionados mediante un proceso de incorporación guiado."
+       },
+       {
+        "t": "p",
+        "x": "\"Su valor es un proceso de producción conectado que cambia de raíz cómo se genera, multiplica y gestiona el trabajo de producción\", afirmó Gary Mundell, cofundador y CEO de LOFTAPPS."
+       },
+       {
+        "t": "p",
+        "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "movies-gods-dont-give-gifts-trailer",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Gossip Goblin의\nall-AI R-rated",
+   "body": "Gossip Goblin이 AI로만 만든 R-rated 장편 예고편을 내놓았다.",
+   "mini_headline": "all-AI 장편 예고편",
+   "tool": "Movies",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
+   "accent": "#f5a623",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+      "cap": "Gods Don't Give Gifts의 한 장면"
+     },
+     {
+      "t": "video",
+      "yt": "1G5LArU7tmE"
+     },
+     {
+      "t": "p",
+      "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 개봉할 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 처음부터 끝까지 인공지능으로 만든 장편이다."
+     },
+     {
+      "t": "p",
+      "x": "sci-fi 장르인 이 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진에 따르면 MPA 등급(R)을 받은 AI 영화도, Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 AI 영화도 이 작품이 처음이다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
+     },
+     {
+      "t": "p",
+      "x": "지난달 Venice Film Festival 마켓에서 먼저 선보인 이 영화의 제작자는 Edward Saatchi다. Saatchi의 AI 기업 Fable은 투자자 중에 Amazon이 있다."
+     },
+     {
+      "t": "p",
+      "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Gossip Goblin unveils trailer\nfor an all-AI R-rated feature",
+     "body": "Gossip Goblin has released the trailer for Gods Don't Give Gifts, an R-rated theatrical feature made entirely with AI.",
+     "mini_headline": "Trailer for an all-AI feature",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "A still from Gods Don't Give Gifts"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "Popular YouTuber Gossip Goblin, aka Zack London, has released the trailer for his forthcoming film Gods Don’t Give Gifts, a feature film made entirely with artificial intelligence."
+       },
+       {
+        "t": "p",
+        "x": "The sci-fi film will open in limited theatrical release in the U.S. and UK on December 4. The filmmakers say it is the first AI film to receive an MPA rating (R) and also to be campaigned in the Best Animated Feature category at the Academy Awards. The trailer goes to theaters on Friday, and billboard ads begin in November."
+       },
+       {
+        "t": "p",
+        "x": "The film, previewed last month at the Venice Film Festival market, is produced by Edward Saatchi, whose AI company Fable counts Amazon among its backers."
+       },
+       {
+        "t": "p",
+        "x": "“Gods Don’t Give Gifts is the first that has a shot at a nomination and then it’s all to play for,” Saatchi said. “We will be screening for voters and running a traditional campaign.”"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Gossip Goblin의\nall-AI R-rated",
+     "body": "Gossip Goblin이 AI로만 만든 R-rated 장편 예고편을 내놓았다.",
+     "mini_headline": "all-AI 장편 예고편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Gifts의 한 장면"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 개봉할 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 처음부터 끝까지 인공지능으로 만든 장편이다."
+       },
+       {
+        "t": "p",
+        "x": "sci-fi 장르인 이 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진에 따르면 MPA 등급(R)을 받은 AI 영화도, Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 AI 영화도 이 작품이 처음이다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
+       },
+       {
+        "t": "p",
+        "x": "지난달 Venice Film Festival 마켓에서 먼저 선보인 이 영화의 제작자는 Edward Saatchi다. Saatchi의 AI 기업 Fable은 투자자 중에 Amazon이 있다."
+       },
+       {
+        "t": "p",
+        "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Gossip Goblinの\nall-AI R-rated",
+     "body": "Gossip GoblinがAIだけで作ったR-rated長編の予告編を公開した。",
+     "mini_headline": "all-AI長編の予告編",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Giftsの一場面"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "人気YouTuberのGossip Goblin、本名Zack Londonが、全編を人工知能で制作した長編映画Gods Don’t Give Giftsの予告編を公開した。"
+       },
+       {
+        "t": "p",
+        "x": "このsci-fi映画は12月4日にU.S.(米国)とUK(英国)で限定公開される。製作陣によれば、MPAのレーティング(R)を取得した初のAI映画であり、Academy AwardsのBest Animated Feature(長編アニメーション賞)部門でキャンペーンを行う初のAI映画でもある。予告編は金曜日に劇場で流れ始め、看板広告は11月に始まる。"
+       },
+       {
+        "t": "p",
+        "x": "先月のVenice Film Festivalのマーケットで先行披露された本作は、Edward Saatchiがプロデュースした。SaatchiのAI企業Fableは、出資者にAmazonを抱える。"
+       },
+       {
+        "t": "p",
+        "x": "「Gods Don’t Give Giftsはノミネートを狙える初の作品で、あとは勝負次第だ」とSaatchiは語る。「投票者向けの上映を行い、従来型のキャンペーンを展開する」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Gossip Goblin的\nall-AI R-rated",
+     "body": "Gossip Goblin发布全由AI制作的R-rated院线长片预告片。",
+     "mini_headline": "all-AI长片预告片",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Gifts剧照"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "人气YouTuber Gossip Goblin（本名Zack London）发布了新片Gods Don’t Give Gifts的预告片，这是一部完全由人工智能制作的长片。"
+       },
+       {
+        "t": "p",
+        "x": "这部sci-fi影片将于12月4日在U.S.（美国）和UK（英国）有限上映。片方表示，它是首部获得MPA分级（R）的AI电影，也是首部角逐Academy Awards的Best Animated Feature（最佳动画长片）类别的AI电影。预告片将于周五登陆影院，户外广告牌广告将于11月开始投放。"
+       },
+       {
+        "t": "p",
+        "x": "该片上月在Venice Film Festival市场单元进行了预览，由Edward Saatchi担任制片。Saatchi的AI公司Fable的投资方包括Amazon。"
+       },
+       {
+        "t": "p",
+        "x": "Saatchi说：“Gods Don’t Give Gifts是第一部有机会获得提名的作品，接下来一切皆有可能。”“我们将为投票者放映，并开展传统的宣传活动。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Gossip Goblin muestra el tráiler\nde un filme all-AI y R-rated",
+     "body": "Gossip Goblin publicó el tráiler de Gods Don't Give Gifts, un largometraje R-rated para cines hecho solo con AI.",
+     "mini_headline": "Tráiler de un filme all-AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Fotograma de Gods Don't Give Gifts"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "El popular YouTuber Gossip Goblin, alias Zack London, publicó el tráiler de su próxima película Gods Don’t Give Gifts, un largometraje hecho por completo con inteligencia artificial."
+       },
+       {
+        "t": "p",
+        "x": "La película de sci-fi se estrenará en un número limitado de cines de U.S. y UK el 4 de diciembre. Sus responsables afirman que es la primera película de AI en recibir una calificación de la MPA (R) y también la primera en hacer campaña en la categoría Best Animated Feature de los Academy Awards. El tráiler llega a los cines el viernes y los anuncios en vallas comienzan en noviembre."
+       },
+       {
+        "t": "p",
+        "x": "La película, presentada el mes pasado en el mercado del Venice Film Festival, está producida por Edward Saatchi, cuya empresa de AI, Fable, cuenta con Amazon entre sus inversores."
+       },
+       {
+        "t": "p",
+        "x": "“Gods Don’t Give Gifts es la primera que tiene opciones de lograr una nominación, y a partir de ahí todo está por decidir”, dijo Saatchi. “Haremos proyecciones para los votantes y una campaña tradicional”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Gossip Goblin의\nall-AI R-rated",
+     "body": "Gossip Goblin이 AI로만 만든 R-rated 장편의 예고편을 공개했다.",
+     "mini_headline": "all-AI 장편 예고편",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Gifts의 한 장면"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 선보일 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 전부 인공지능으로 만든 장편 영화다."
+       },
+       {
+        "t": "p",
+        "x": "이 sci-fi 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진은 이 작품이 MPA 등급(R)을 받은 첫 AI 영화이자 Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 첫 AI 영화라고 밝혔다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
+       },
+       {
+        "t": "p",
+        "x": "지난달 Venice Film Festival 마켓에서 먼저 공개된 이 영화는 Edward Saatchi가 제작했다. Saatchi의 AI 기업 Fable은 투자자 가운데 Amazon을 두고 있다."
+       },
+       {
+        "t": "p",
+        "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Gossip Goblinの\nall-AI R-rated",
+     "body": "Gossip GoblinがAIだけで作ったR-rated長編の予告編を公開した。",
+     "mini_headline": "all-AI長編の予告編",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Giftsの一場面"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "人気YouTuberのGossip Goblin、本名Zack Londonが、全編を人工知能で制作した長編映画Gods Don’t Give Giftsの予告編を公開した。"
+       },
+       {
+        "t": "p",
+        "x": "このsci-fi映画は12月4日にU.S.(米国)とUK(英国)で限定公開される。製作陣によれば、MPAのレーティング(R)を取得した初のAI映画であり、Academy AwardsのBest Animated Feature(長編アニメーション賞)部門でキャンペーンを行う初のAI映画でもある。予告編は金曜日に劇場で流れ始め、看板広告は11月に始まる。"
+       },
+       {
+        "t": "p",
+        "x": "先月のVenice Film Festivalのマーケットで先行披露された本作は、Edward Saatchiがプロデュースした。SaatchiのAI企業Fableは、出資者にAmazonを抱える。"
+       },
+       {
+        "t": "p",
+        "x": "「Gods Don’t Give Giftsはノミネートを狙える初の作品で、あとは勝負次第だ」とSaatchiは語る。「投票者向けの上映を行い、従来型のキャンペーンを展開する」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "Gossip Goblin的\nall-AI R-rated",
+     "body": "Gossip Goblin发布全由AI制作的R-rated院线长片预告片。",
+     "mini_headline": "all-AI长片预告片",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Gods Don't Give Gifts剧照"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "人气YouTuber Gossip Goblin（本名Zack London）发布了新片Gods Don’t Give Gifts的预告片，这是一部完全由人工智能制作的长片。"
+       },
+       {
+        "t": "p",
+        "x": "这部sci-fi影片将于12月4日在U.S.（美国）和UK（英国）有限上映。片方表示，它是首部获得MPA分级（R）的AI电影，也是首部角逐Academy Awards的Best Animated Feature（最佳动画长片）类别的AI电影。预告片将于周五登陆影院，户外广告牌广告将于11月开始投放。"
+       },
+       {
+        "t": "p",
+        "x": "该片上月在Venice Film Festival市场单元进行了预览，由Edward Saatchi担任制片。Saatchi的AI公司Fable的投资方包括Amazon。"
+       },
+       {
+        "t": "p",
+        "x": "Saatchi说：“Gods Don’t Give Gifts是第一部有机会获得提名的作品，接下来一切皆有可能。”“我们将为投票者放映，并开展传统的宣传活动。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "Gossip Goblin muestra el tráiler\nde un filme all-AI y R-rated",
+     "body": "Gossip Goblin publicó el tráiler de Gods Don't Give Gifts, un largometraje R-rated para cines hecho solo con AI.",
+     "mini_headline": "Tráiler de un filme all-AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
+        "cap": "Fotograma de Gods Don't Give Gifts"
+       },
+       {
+        "t": "video",
+        "yt": "1G5LArU7tmE"
+       },
+       {
+        "t": "p",
+        "x": "El popular YouTuber Gossip Goblin, alias Zack London, publicó el tráiler de su próxima película Gods Don’t Give Gifts, un largometraje hecho por completo con inteligencia artificial."
+       },
+       {
+        "t": "p",
+        "x": "La película de sci-fi se estrenará en un número limitado de cines de U.S. y UK el 4 de diciembre. Sus responsables afirman que es la primera película de AI en recibir una calificación de la MPA (R) y también la primera en hacer campaña en la categoría Best Animated Feature de los Academy Awards. El tráiler llega a los cines el viernes y los anuncios en vallas comienzan en noviembre."
+       },
+       {
+        "t": "p",
+        "x": "La película, presentada el mes pasado en el mercado del Venice Film Festival, está producida por Edward Saatchi, cuya empresa de AI, Fable, cuenta con Amazon entre sus inversores."
+       },
+       {
+        "t": "p",
+        "x": "“Gods Don’t Give Gifts es la primera que tiene opciones de lograr una nominación, y a partir de ahí todo está por decidir”, dijo Saatchi. “Haremos proyecciones para los votantes y una campaña tradicional”."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "movies-sag-aftra-animation-deal",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
+   "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
+   "mini_headline": "SAG-AFTRA 성우 AI 보호",
+   "tool": "Movies",
+   "source": "Cartoon Brew",
+   "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+   "accent": "#7928ca",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+      "cap": "SAG-AFTRA"
+     },
+     {
+      "t": "p",
+      "x": "SAG-AFTRA 조합원들이 4년짜리 새 TV 애니메이션 협약을 표결에 부친다. 매년 임금 인상, AI 보호 확대, 성우 스트리밍 재방영 분배금(residuals) 개선이 담겼다. AMPTP와 협상한 2026 Television Animation Agreement 잠정안은 조합 집행위원회가 이미 만장일치로 승인했다."
+     },
+     {
+      "t": "p",
+      "x": "임금은 4년 동안 해마다 3%씩 오르고, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
+     },
+     {
+      "t": "p",
+      "x": "우선 과제였던 AI 보호도 넓어진다. 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하되, 애니메이션 연기자에게 맞춰 따로 설계한 조항은 그대로 둔다. 2024년 비준한 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련했다."
+     },
+     {
+      "t": "p",
+      "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오른다. 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
+     },
+     {
+      "t": "p",
+      "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "SAG-AFTRA animation deal adds\nAI protections for voice actors",
+     "body": "SAG-AFTRA members will vote on a TV animation contract that expands AI protections for voice performers.",
+     "mini_headline": "SAG-AFTRA voice AI protections",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRA members will vote on a new four-year television animation agreement that includes annual wage increases, expanded AI protections, and improved streaming residuals for voice actors. The union’s Executive Committee has already unanimously approved the tentative 2026 Television Animation Agreement, negotiated with the AMPTP."
+       },
+       {
+        "t": "p",
+        "x": "The contract guarantees a 3% wage increase in each of its four years, with the first increase retroactive to July 5, 2026."
+       },
+       {
+        "t": "p",
+        "x": "As a point of priority, the agreement also expands AI protections, incorporating improvements negotiated in the union’s 2026 live-action agreements while retaining provisions specifically designed for animation performers. The previous animation contract, ratified in 2024, established the union’s first AI protections specifically for voice actors."
+       },
+       {
+        "t": "p",
+        "x": "Performers would receive an average 5% increase in residuals when programs move to subscription streaming, and the subscriber factor for qualifying programs on large foreign streaming services rises from 39% to 41%. Employer health plan contributions rise 1%, with pension contributions up 1% from 2028 and 0.25% funding a new paid parental leave program."
+       },
+       {
+        "t": "p",
+        "x": "Voting closes October 29 at 5 p.m. PT."
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
+     "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
+     "mini_headline": "SAG-AFTRA 성우 AI 보호",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRA 조합원들이 4년짜리 새 TV 애니메이션 협약을 표결에 부친다. 매년 임금 인상, AI 보호 확대, 성우 스트리밍 재방영 분배금(residuals) 개선이 담겼다. AMPTP와 협상한 2026 Television Animation Agreement 잠정안은 조합 집행위원회가 이미 만장일치로 승인했다."
+       },
+       {
+        "t": "p",
+        "x": "임금은 4년 동안 해마다 3%씩 오르고, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
+       },
+       {
+        "t": "p",
+        "x": "우선 과제였던 AI 보호도 넓어진다. 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하되, 애니메이션 연기자에게 맞춰 따로 설계한 조항은 그대로 둔다. 2024년 비준한 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련했다."
+       },
+       {
+        "t": "p",
+        "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오른다. 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
+       },
+       {
+        "t": "p",
+        "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "SAG-AFTRAアニメ協約\n声優のAI保護を拡充",
+     "body": "SAG-AFTRA組合員が、声優のAI保護を広げるTVアニメ契約を投票にかける。",
+     "mini_headline": "SAG-AFTRA、声優のAI保護",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRAの組合員は、毎年の賃上げ、AI保護の拡充、声優のストリーミング残余報酬(residuals)の改善を盛り込んだ4年間の新しいテレビアニメ協約について投票を行う。組合の執行委員会は、AMPTPと交渉した2026 Television Animation Agreementの暫定合意をすでに全会一致で承認している。"
+       },
+       {
+        "t": "p",
+        "x": "契約は4年間の各年に3%の賃上げを保証し、初回の引き上げは2026年7月5日にさかのぼって適用される。"
+       },
+       {
+        "t": "p",
+        "x": "優先課題として、協約はAI保護も拡充する。組合が2026年の実写協約で勝ち取った改善を取り込みつつ、アニメーションの演者向けに特化した条項は維持する。2024年に批准された前回のアニメ契約は、声優に特化した組合初のAI保護を定めたものだった。"
+       },
+       {
+        "t": "p",
+        "x": "番組がサブスクリプション型ストリーミングに移る際、演者の残余報酬は平均5%増え、大手海外ストリーミングサービスで対象となる番組の加入者係数は39%から41%に上がる。雇用主の健康保険拠出は1%上がり、年金拠出は2028年から1%上がり、0.25%は新設の有給育児休暇制度に充てられる。"
+       },
+       {
+        "t": "p",
+        "x": "投票は10月29日5 p.m. PT(太平洋時間午後5時)に締め切られる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "SAG-AFTRA动画协议\n加强配音演员AI保护",
+     "body": "SAG-AFTRA会员将就一份扩大配音演员AI保护的TV动画合同投票。",
+     "mini_headline": "SAG-AFTRA配音AI保护",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRA会员将就一份新的四年期电视动画协议进行投票，协议包括每年加薪、扩大AI保护以及改善配音演员的流媒体剩余报酬（residuals）。工会执行委员会已一致批准与AMPTP谈判达成的2026 Television Animation Agreement暂定协议。"
+       },
+       {
+        "t": "p",
+        "x": "合同保证四年中每年加薪3%，首次加薪追溯至2026年7月5日。"
+       },
+       {
+        "t": "p",
+        "x": "作为优先事项，协议还扩大了AI保护，纳入工会在2026年真人演出协议中谈得的改进，同时保留专为动画演员设计的条款。2024年批准的上一份动画合同确立了工会首批专门针对配音演员的AI保护。"
+       },
+       {
+        "t": "p",
+        "x": "节目转入订阅制流媒体时，演员的剩余报酬平均增加5%；在大型海外流媒体服务上符合条件的节目，其订阅者系数从39%提高到41%。雇主健康计划缴款提高1%，养老金缴款自2028年起提高1%，另有0.25%用于资助新的带薪育儿假计划。"
+       },
+       {
+        "t": "p",
+        "x": "投票将于10月29日5 p.m. PT（太平洋时间下午5点）截止。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "SAG-AFTRA amplía la protección\nante la AI en voces de animación",
+     "body": "Los miembros de SAG-AFTRA votarán un contrato de TV animada que amplía las protecciones de AI para actores de voz.",
+     "mini_headline": "SAG-AFTRA: protección de voces ante la AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "Los miembros de SAG-AFTRA votarán un nuevo acuerdo de animación televisiva de cuatro años que incluye aumentos salariales anuales, protecciones de AI ampliadas y mejores residuales de streaming para actores de voz. El Comité Ejecutivo del sindicato ya aprobó por unanimidad el acuerdo provisional 2026 Television Animation Agreement, negociado con la AMPTP."
+       },
+       {
+        "t": "p",
+        "x": "El contrato garantiza un aumento salarial del 3% en cada uno de sus cuatro años, con el primer aumento retroactivo al 5 de julio de 2026."
+       },
+       {
+        "t": "p",
+        "x": "Como prioridad, el acuerdo también amplía las protecciones de AI: incorpora mejoras negociadas en los acuerdos de acción real del sindicato de 2026 y conserva disposiciones diseñadas específicamente para intérpretes de animación. El contrato de animación anterior, ratificado en 2024, estableció las primeras protecciones de AI del sindicato dirigidas específicamente a actores de voz."
+       },
+       {
+        "t": "p",
+        "x": "Los intérpretes recibirían un aumento medio del 5% en residuales cuando los programas pasen al streaming por suscripción, y el factor de suscriptores para programas elegibles en grandes servicios de streaming extranjeros sube del 39% al 41%. Las contribuciones del empleador al plan de salud suben un 1%, las de pensiones aumentan un 1% a partir de 2028 y un 0.25% financia un nuevo programa de licencia parental remunerada."
+       },
+       {
+        "t": "p",
+        "x": "La votación cierra el 29 de octubre a las 5 p.m. PT."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
+     "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
+     "mini_headline": "SAG-AFTRA 성우 AI 보호",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRA 조합원들이 매년 임금 인상, AI 보호 확대, 성우를 위한 스트리밍 재방영 분배금(residuals) 개선을 담은 4년짜리 새 TV 애니메이션 협약을 두고 투표한다. 조합 집행위원회는 AMPTP와 협상한 2026 Television Animation Agreement 잠정안을 이미 만장일치로 승인했다."
+       },
+       {
+        "t": "p",
+        "x": "계약은 4년 동안 매년 3% 임금 인상을 보장하며, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
+       },
+       {
+        "t": "p",
+        "x": "우선 과제였던 AI 보호도 넓어진다. 조합이 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하면서, 애니메이션 연기자를 위해 따로 설계한 조항은 그대로 유지한다. 2024년 비준된 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련한 바 있다."
+       },
+       {
+        "t": "p",
+        "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오르고, 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
+       },
+       {
+        "t": "p",
+        "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "SAG-AFTRAアニメ協約\n声優のAI保護を拡充",
+     "body": "SAG-AFTRA組合員が、声優のAI保護を広げるTVアニメ契約を投票にかける。",
+     "mini_headline": "SAG-AFTRA、声優のAI保護",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRAの組合員は、毎年の賃上げ、AI保護の拡充、声優のストリーミング残余報酬(residuals)の改善を盛り込んだ4年間の新しいテレビアニメ協約について投票を行う。組合の執行委員会は、AMPTPと交渉した2026 Television Animation Agreementの暫定合意をすでに全会一致で承認している。"
+       },
+       {
+        "t": "p",
+        "x": "契約は4年間の各年に3%の賃上げを保証し、初回の引き上げは2026年7月5日にさかのぼって適用される。"
+       },
+       {
+        "t": "p",
+        "x": "優先課題として、協約はAI保護も拡充する。組合が2026年の実写協約で勝ち取った改善を取り込みつつ、アニメーションの演者向けに特化した条項は維持する。2024年に批准された前回のアニメ契約は、声優に特化した組合初のAI保護を定めたものだった。"
+       },
+       {
+        "t": "p",
+        "x": "番組がサブスクリプション型ストリーミングに移る際、演者の残余報酬は平均5%増え、大手海外ストリーミングサービスで対象となる番組の加入者係数は39%から41%に上がる。雇用主の健康保険拠出は1%上がり、年金拠出は2028年から1%上がり、0.25%は新設の有給育児休暇制度に充てられる。"
+       },
+       {
+        "t": "p",
+        "x": "投票は10月29日5 p.m. PT(太平洋時間午後5時)に締め切られる。"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "SAG-AFTRA动画协议\n加强配音演员AI保护",
+     "body": "SAG-AFTRA会员将就一份扩大配音演员AI保护的TV动画合同投票。",
+     "mini_headline": "SAG-AFTRA配音AI保护",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "SAG-AFTRA会员将就一份新的四年期电视动画协议进行投票，协议包括每年加薪、扩大AI保护以及改善配音演员的流媒体剩余报酬（residuals）。工会执行委员会已一致批准与AMPTP谈判达成的2026 Television Animation Agreement暂定协议。"
+       },
+       {
+        "t": "p",
+        "x": "合同保证四年中每年加薪3%，首次加薪追溯至2026年7月5日。"
+       },
+       {
+        "t": "p",
+        "x": "作为优先事项，协议还扩大了AI保护，纳入工会在2026年真人演出协议中谈得的改进，同时保留专为动画演员设计的条款。2024年批准的上一份动画合同确立了工会首批专门针对配音演员的AI保护。"
+       },
+       {
+        "t": "p",
+        "x": "节目转入订阅制流媒体时，演员的剩余报酬平均增加5%；在大型海外流媒体服务上符合条件的节目，其订阅者系数从39%提高到41%。雇主健康计划缴款提高1%，养老金缴款自2028年起提高1%，另有0.25%用于资助新的带薪育儿假计划。"
+       },
+       {
+        "t": "p",
+        "x": "投票将于10月29日5 p.m. PT（太平洋时间下午5点）截止。"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "SAG-AFTRA amplía la protección\nante la AI en voces de animación",
+     "body": "Los miembros de SAG-AFTRA votarán un contrato de TV animada que amplía las protecciones de AI para actores de voz.",
+     "mini_headline": "SAG-AFTRA: protección de voces ante la AI",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
+        "cap": "SAG-AFTRA"
+       },
+       {
+        "t": "p",
+        "x": "Los miembros de SAG-AFTRA votarán un nuevo acuerdo de animación televisiva de cuatro años que incluye aumentos salariales anuales, protecciones de AI ampliadas y mejores residuales de streaming para actores de voz. El Comité Ejecutivo del sindicato ya aprobó por unanimidad el acuerdo provisional 2026 Television Animation Agreement, negociado con la AMPTP."
+       },
+       {
+        "t": "p",
+        "x": "El contrato garantiza un aumento salarial del 3% en cada uno de sus cuatro años, con el primer aumento retroactivo al 5 de julio de 2026."
+       },
+       {
+        "t": "p",
+        "x": "Como prioridad, el acuerdo también amplía las protecciones de AI: incorpora mejoras negociadas en los acuerdos de acción real del sindicato de 2026 y conserva disposiciones diseñadas específicamente para intérpretes de animación. El contrato de animación anterior, ratificado en 2024, estableció las primeras protecciones de AI del sindicato dirigidas específicamente a actores de voz."
+       },
+       {
+        "t": "p",
+        "x": "Los intérpretes recibirían un aumento medio del 5% en residuales cuando los programas pasen al streaming por suscripción, y el factor de suscriptores para programas elegibles en grandes servicios de streaming extranjeros sube del 39% al 41%. Las contribuciones del empleador al plan de salud suben un 1%, las de pensiones aumentan un 1% a partir de 2028 y un 0.25% financia un nuevo programa de licencia parental remunerada."
+       },
+       {
+        "t": "p",
+        "x": "La votación cierra el 29 de octubre a las 5 p.m. PT."
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "movies-vfx-voice-future-tools",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "VFX 업계가 꼽은 툴\nshot-making 재편",
+   "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
+   "mini_headline": "VFX를 바꿀 도구들",
+   "tool": "Movies",
+   "source": "VFX Voice",
+   "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
+   "accent": "#2ec5c5",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+      "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
+     },
+     {
+      "t": "p",
+      "x": "AI가 화제의 중심일지 몰라도 더 큰 변화의 한 조각일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 모여 새 툴킷이 된다. 일정은 줄고 가능성은 넓어지며, 창작 통제권을 누가 쥐는지도 달라진다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 도구를 꼽아 달라고 했다."
+     },
+     {
+      "t": "img",
+      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+      "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
+     },
+     {
+      "t": "p",
+      "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 사이 복잡한 디테일을 실시간으로 채워 주는 조수 같은 ML 도구다. 무작위로 생성하지 않고, 오로지 아티스트의 선택대로 움직인다."
+     },
+     {
+      "t": "p",
+      "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 발목을 잡는 만큼 당분간 생성형 AI가 최종 픽셀에 쓰이지 않을 공산이 크다고 본다."
+     },
+     {
+      "t": "img",
+      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+      "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
+     },
+     {
+      "t": "p",
+      "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 간다고 본다. 다른 응답자들은 Gaussian splatting, Houdini와 Nuke에 들어간 ML, 후반 작업 전반의 실시간 협업을 꼽았다."
+     },
+     {
+      "t": "img",
+      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+      "cap": "Nuke 17의 Gaussian splats"
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "VFX insiders name the tools\nset to reshape shot-making",
+     "body": "VFX artists name the ML, real-time, virtual production and cloud tools they expect to reshape how shots are made.",
+     "mini_headline": "The tools reshaping VFX",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FX’s Kora fire simulation toolset powered the combustion effects of Avatar: Fire and Ash. (Image courtesy of Wētā FX and 20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "AI may be the headline, but it’s only part of a broader shift. Real-time engines, virtual production, cloud workflows and increasingly intelligent systems are converging into a new kind of toolkit – one that compresses timelines, expands possibilities and shifts who holds creative control. VFX Voice asked artists, supervisors and technologists to identify the tools they believe will shape what comes next."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "ILM’s StageCraft LED volume on Thor: Love and Thunder"
+       },
+       {
+        "t": "p",
+        "x": "ILM’s Rob Bredow is most interested in art-directable machine learning: ML tools that act as assistants, filling in complex details in real-time as an artist draws, driven entirely by artistic choices rather than random generation."
+       },
+       {
+        "t": "p",
+        "x": "Wētā FX CTO Kimball Thurston expects that in the short term generative AI will likely not be used for final pixels, as governance, quality and token cost issues compound to restrict usage."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas combines AI video models, node-based workflow automation and traditional compositing tools"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AI CEO Hoon Kim sees a transition from AI as a purely generative tool toward AI as a controllable production system, while others point to Gaussian splatting, ML inside Houdini and Nuke, and real-time collaboration across post."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Gaussian splats in Nuke 17"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "VFX 업계가 꼽은 툴\nshot-making 재편",
+     "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
+     "mini_headline": "VFX를 바꿀 도구들",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "AI가 화제의 중심일지 몰라도 더 큰 변화의 한 조각일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 모여 새 툴킷이 된다. 일정은 줄고 가능성은 넓어지며, 창작 통제권을 누가 쥐는지도 달라진다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 도구를 꼽아 달라고 했다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
+       },
+       {
+        "t": "p",
+        "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 사이 복잡한 디테일을 실시간으로 채워 주는 조수 같은 ML 도구다. 무작위로 생성하지 않고, 오로지 아티스트의 선택대로 움직인다."
+       },
+       {
+        "t": "p",
+        "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 발목을 잡는 만큼 당분간 생성형 AI가 최종 픽셀에 쓰이지 않을 공산이 크다고 본다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 간다고 본다. 다른 응답자들은 Gaussian splatting, Houdini와 Nuke에 들어간 ML, 후반 작업 전반의 실시간 협업을 꼽았다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17의 Gaussian splats"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "VFX業界が挙げるツール\nshot-makingを刷新",
+     "body": "VFXアーティストが、ML、real-time、仮想制作、クラウドのツールを挙げた。",
+     "mini_headline": "VFXを変えるツール",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FXのKora炎シミュレーションツールセットが、Avatar: Fire and Ashの燃焼エフェクトを支えた。(画像提供：Wētā FX、20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "見出しを飾るのはAIかもしれないが、それはより大きな変化の一部にすぎない。リアルタイムエンジン、バーチャルプロダクション、クラウドワークフロー、そして賢さを増すシステムが、新たなツールキットへと収束しつつある。スケジュールを圧縮し、可能性を広げ、創作の主導権を誰が握るかまで変えるツールキットだ。VFX Voiceは、アーティスト、スーパーバイザー、技術者に、次の時代を形づくると考えるツールを挙げてもらった。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "Thor: Love and Thunderで使われたILMのStageCraft LEDボリューム"
+       },
+       {
+        "t": "p",
+        "x": "ILMのRob Bredowが最も関心を寄せるのは、アートディレクション可能な機械学習だ。アーティストが描く間に複雑なディテールをリアルタイムで補うアシスタントとしてのMLツールで、ランダムな生成ではなく、あくまでアーティストの選択によって動く。"
+       },
+       {
+        "t": "p",
+        "x": "Wētā FXのCTO、Kimball Thurstonは、ガバナンス、品質、トークンコストの問題が重なって利用が制約されるため、短期的には生成AIが最終ピクセルに使われる可能性は低いとみる。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvasは、AIビデオモデル、ノードベースのワークフロー自動化、従来のコンポジットツールを組み合わせる"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AIのCEO、Hoon Kimは、AIが純粋な生成ツールから制御可能な制作システムへ移行しつつあるとみる。ほかの人々は、Gaussian splatting、HoudiniやNukeに組み込まれたML、ポスト工程全体でのリアルタイム協業を挙げる。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17のGaussian splats"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "VFX业内人士点名工具\n将重塑shot-making",
+     "body": "VFX艺术家列出有望重塑镜头制作的ML、real-time、虚拟制作与云端工具。",
+     "mini_headline": "重塑VFX的工具",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FX的Kora火焰模拟工具集为Avatar: Fire and Ash打造了燃烧效果。（图片由Wētā FX和20th Century Studios提供）"
+       },
+       {
+        "t": "p",
+        "x": "AI或许是头条，但它只是更大变革的一部分。实时引擎、虚拟制作、云端工作流和日益智能的系统正汇聚成一种新型工具包——它压缩工期、拓展可能，并改变由谁掌握创作控制权。VFX Voice请艺术家、总监和技术专家列出他们认为将塑造未来的工具。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "ILM在Thor: Love and Thunder中使用的StageCraft LED影棚"
+       },
+       {
+        "t": "p",
+        "x": "ILM的Rob Bredow最感兴趣的是可进行美术指导的机器学习：ML工具充当助手，在艺术家绘制时实时补全复杂细节，完全由艺术选择驱动，而非随机生成。"
+       },
+       {
+        "t": "p",
+        "x": "Wētā FX CTO Kimball Thurston预计，短期内生成式AI很可能不会用于最终像素，因为治理、质量和token成本问题叠加，限制了其使用。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas结合了AI视频模型、基于节点的工作流自动化和传统合成工具"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AI CEO Hoon Kim认为，AI正从纯粹的生成工具转向可控的制作系统；其他人则提到Gaussian splatting、Houdini和Nuke中的ML，以及整个后期环节的实时协作。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17中的Gaussian splats"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "VFX: las herramientas que\ncambiarán el shot-making",
+     "body": "Artistas de VFX nombran herramientas de ML, real-time, producción virtual y nube que cambiarán la creación de planos.",
+     "mini_headline": "Las herramientas que cambian los VFX",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "El conjunto de herramientas de simulación de fuego Kora de Wētā FX impulsó los efectos de combustión de Avatar: Fire and Ash. (Imagen cortesía de Wētā FX y 20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "La AI puede acaparar los titulares, pero es solo parte de un cambio más amplio. Los motores en tiempo real, la producción virtual, los flujos de trabajo en la nube y unos sistemas cada vez más inteligentes convergen en un nuevo tipo de kit de herramientas, uno que comprime los plazos, amplía las posibilidades y cambia quién tiene el control creativo. VFX Voice pidió a artistas, supervisores y tecnólogos que identificaran las herramientas que, en su opinión, definirán lo que viene."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "El volumen LED StageCraft de ILM en Thor: Love and Thunder"
+       },
+       {
+        "t": "p",
+        "x": "A Rob Bredow, de ILM, le interesa sobre todo el aprendizaje automático dirigible artísticamente: herramientas de ML que actúan como asistentes y completan detalles complejos en tiempo real mientras el artista dibuja, guiadas por completo por decisiones artísticas y no por generación aleatoria."
+       },
+       {
+        "t": "p",
+        "x": "Kimball Thurston, CTO de Wētā FX, prevé que a corto plazo la AI generativa probablemente no se usará para los píxeles finales, ya que los problemas de gobernanza, calidad y costo de tokens se suman para restringir su uso."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas combina modelos de video de AI, automatización de flujos de trabajo basada en nodos y herramientas tradicionales de composición"
+       },
+       {
+        "t": "p",
+        "x": "Hoon Kim, CEO de Beeble AI, ve una transición de la AI como herramienta puramente generativa hacia la AI como sistema de producción controlable, mientras otros señalan el Gaussian splatting, el ML dentro de Houdini y Nuke, y la colaboración en tiempo real en toda la posproducción."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Gaussian splats en Nuke 17"
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "VFX 업계가 꼽은 툴,\nshot-making 재편",
+     "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
+     "mini_headline": "VFX를 바꿀 도구들",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "AI가 화제의 중심일지 몰라도 이는 더 큰 변화의 일부일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 하나로 모여 새로운 툴킷을 이루고 있다. 일정을 압축하고 가능성을 넓히며 창작 통제권을 누가 쥐는지까지 바꾸는 툴킷이다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 것으로 보는 도구를 꼽아 달라고 요청했다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
+       },
+       {
+        "t": "p",
+        "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 동안 복잡한 디테일을 실시간으로 채워 주는 조수 역할의 ML 도구로, 무작위 생성이 아니라 전적으로 아티스트의 선택에 따라 움직인다."
+       },
+       {
+        "t": "p",
+        "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 사용을 제약하는 만큼 단기적으로 생성형 AI가 최종 픽셀에는 쓰이지 않을 가능성이 높다고 내다본다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 가고 있다고 본다. 다른 이들은 Gaussian splatting, Houdini와 Nuke 안의 ML, 후반 작업 전반의 실시간 협업을 꼽는다."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17의 Gaussian splats"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "VFX業界が挙げるツール\nshot-makingを刷新",
+     "body": "VFXアーティストが、ML、real-time、仮想制作、クラウドのツールを挙げた。",
+     "mini_headline": "VFXを変えるツール",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FXのKora炎シミュレーションツールセットが、Avatar: Fire and Ashの燃焼エフェクトを支えた。(画像提供：Wētā FX、20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "見出しを飾るのはAIかもしれないが、それはより大きな変化の一部にすぎない。リアルタイムエンジン、バーチャルプロダクション、クラウドワークフロー、そして賢さを増すシステムが、新たなツールキットへと収束しつつある。スケジュールを圧縮し、可能性を広げ、創作の主導権を誰が握るかまで変えるツールキットだ。VFX Voiceは、アーティスト、スーパーバイザー、技術者に、次の時代を形づくると考えるツールを挙げてもらった。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "Thor: Love and Thunderで使われたILMのStageCraft LEDボリューム"
+       },
+       {
+        "t": "p",
+        "x": "ILMのRob Bredowが最も関心を寄せるのは、アートディレクション可能な機械学習だ。アーティストが描く間に複雑なディテールをリアルタイムで補うアシスタントとしてのMLツールで、ランダムな生成ではなく、あくまでアーティストの選択によって動く。"
+       },
+       {
+        "t": "p",
+        "x": "Wētā FXのCTO、Kimball Thurstonは、ガバナンス、品質、トークンコストの問題が重なって利用が制約されるため、短期的には生成AIが最終ピクセルに使われる可能性は低いとみる。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvasは、AIビデオモデル、ノードベースのワークフロー自動化、従来のコンポジットツールを組み合わせる"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AIのCEO、Hoon Kimは、AIが純粋な生成ツールから制御可能な制作システムへ移行しつつあるとみる。ほかの人々は、Gaussian splatting、HoudiniやNukeに組み込まれたML、ポスト工程全体でのリアルタイム協業を挙げる。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17のGaussian splats"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "VFX业内人士点名工具\n将重塑shot-making",
+     "body": "VFX艺术家列出有望重塑镜头制作的ML、real-time、虚拟制作与云端工具。",
+     "mini_headline": "重塑VFX的工具",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "Wētā FX的Kora火焰模拟工具集为Avatar: Fire and Ash打造了燃烧效果。（图片由Wētā FX和20th Century Studios提供）"
+       },
+       {
+        "t": "p",
+        "x": "AI或许是头条，但它只是更大变革的一部分。实时引擎、虚拟制作、云端工作流和日益智能的系统正汇聚成一种新型工具包——它压缩工期、拓展可能，并改变由谁掌握创作控制权。VFX Voice请艺术家、总监和技术专家列出他们认为将塑造未来的工具。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "ILM在Thor: Love and Thunder中使用的StageCraft LED影棚"
+       },
+       {
+        "t": "p",
+        "x": "ILM的Rob Bredow最感兴趣的是可进行美术指导的机器学习：ML工具充当助手，在艺术家绘制时实时补全复杂细节，完全由艺术选择驱动，而非随机生成。"
+       },
+       {
+        "t": "p",
+        "x": "Wētā FX CTO Kimball Thurston预计，短期内生成式AI很可能不会用于最终像素，因为治理、质量和token成本问题叠加，限制了其使用。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas结合了AI视频模型、基于节点的工作流自动化和传统合成工具"
+       },
+       {
+        "t": "p",
+        "x": "Beeble AI CEO Hoon Kim认为，AI正从纯粹的生成工具转向可控的制作系统；其他人则提到Gaussian splatting、Houdini和Nuke中的ML，以及整个后期环节的实时协作。"
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Nuke 17中的Gaussian splats"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "VFX: las herramientas que\ncambiarán el shot-making",
+     "body": "Artistas de VFX nombran herramientas de ML, real-time, producción virtual y nube que cambiarán la creación de planos.",
+     "mini_headline": "Las herramientas que cambian los VFX",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
+        "cap": "El conjunto de herramientas de simulación de fuego Kora de Wētā FX impulsó los efectos de combustión de Avatar: Fire and Ash. (Imagen cortesía de Wētā FX y 20th Century Studios)"
+       },
+       {
+        "t": "p",
+        "x": "La AI puede acaparar los titulares, pero es solo parte de un cambio más amplio. Los motores en tiempo real, la producción virtual, los flujos de trabajo en la nube y unos sistemas cada vez más inteligentes convergen en un nuevo tipo de kit de herramientas, uno que comprime los plazos, amplía las posibilidades y cambia quién tiene el control creativo. VFX Voice pidió a artistas, supervisores y tecnólogos que identificaran las herramientas que, en su opinión, definirán lo que viene."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
+        "cap": "El volumen LED StageCraft de ILM en Thor: Love and Thunder"
+       },
+       {
+        "t": "p",
+        "x": "A Rob Bredow, de ILM, le interesa sobre todo el aprendizaje automático dirigible artísticamente: herramientas de ML que actúan como asistentes y completan detalles complejos en tiempo real mientras el artista dibuja, guiadas por completo por decisiones artísticas y no por generación aleatoria."
+       },
+       {
+        "t": "p",
+        "x": "Kimball Thurston, CTO de Wētā FX, prevé que a corto plazo la AI generativa probablemente no se usará para los píxeles finales, ya que los problemas de gobernanza, calidad y costo de tokens se suman para restringir su uso."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
+        "cap": "Beeble Canvas combina modelos de video de AI, automatización de flujos de trabajo basada en nodos y herramientas tradicionales de composición"
+       },
+       {
+        "t": "p",
+        "x": "Hoon Kim, CEO de Beeble AI, ve una transición de la AI como herramienta puramente generativa hacia la AI como sistema de producción controlable, mientras otros señalan el Gaussian splatting, el ML dentro de Houdini y Nuke, y la colaboración en tiempo real en toda la posproducción."
+       },
+       {
+        "t": "img",
+        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
+        "cap": "Gaussian splats en Nuke 17"
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "id": "movies-katzenberg-forecast-check",
+   "source_lang": "en",
+   "eyebrow": "AI NEWS",
+   "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
+   "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
+   "mini_headline": "Katzenberg의 AI 예측 검증",
+   "tool": "Movies",
+   "source": "postPerspective",
+   "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
+   "accent": "#eb367f",
+   "motif": "frame",
+   "full": {
+    "mode": "summary",
+    "blocks": [
+     {
+      "t": "img",
+      "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+      "cap": "2026, 곧 찾아온다"
+     },
+     {
+      "t": "p",
+      "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 이렇게 예측했다. 세계 수준의 애니메이션 영화 한 편에 드는 아티스트가 2026년이면 500명에서 50명 미만으로 준다는 것이다."
+     },
+     {
+      "t": "p",
+      "x": "Joseph Bell이 1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Visual Effects & Animation World Atlas를 보면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오의 직무를 많이 대체하지도, 새 직무를 많이 만들지도 못했다. 아티스트들은 하던 일 안에서 AI 도구를 받아들이는 중이다."
+     },
+     {
+      "t": "p",
+      "x": "전 세계 업계 인력은 지난 12개월간 2.7% 늘었다. Los Angeles가 1.5% 줄어든 사이 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 작아졌다. Roto/paint 직무는 8.7% 늘었고, AI는 아직 그 일을 넘겨받지 못했다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%뿐이다."
+     },
+     {
+      "t": "p",
+      "x": "2023년에 아티스트 500명이 필요했던 영화를 지금은 50명이 만들 수 있을까? 답은 “아직은 아니다(Not yet).”"
+     }
+    ]
+   },
+   "text": {
+    "en": {
+     "headline": "Checking Katzenberg's call\non AI-shrunk animation crews",
+     "body": "Joseph Bell tests Katzenberg's 2023 forecast that AI would shrink a 500-artist animated crew to under 50 by 2026.",
+     "mini_headline": "Katzenberg's AI forecast, tested",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026, coming soon"
+       },
+       {
+        "t": "p",
+        "x": "Three years ago, Jeffrey Katzenberg, co-founder and former CEO of DreamWorks Animation, predicted that the number of artists needed to make a world-class animated movie would decrease from 500 to less than 50 by 2026."
+       },
+       {
+        "t": "p",
+        "x": "Joseph Bell’s Visual Effects & Animation World Atlas, built on over 1.1 million datapoints, finds that by mid-2026 AI has not yet replaced a significant number of roles at traditional VFX and animation studios, nor has it created many new ones. AI tools are being adopted by artists in their existing roles."
+       },
+       {
+        "t": "p",
+        "x": "Globally, industry headcount increased 2.7% in the past 12 months. Los Angeles contracted by 1.5% while Vancouver rebounded by 11.3%. Average US VFX studio size fell from 34 to 29 people. Roto/paint roles increased 8.7%, suggesting AI is not yet ready to take over that work. AI-specific roles are just 0.1% of roles at traditional studios in 2026."
+       },
+       {
+        "t": "p",
+        "x": "Can the same movie that required 500 artists back in 2023 be made by 50 artists today? “Not yet.”"
+       }
+      ]
+     }
+    },
+    "ko": {
+     "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
+     "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
+     "mini_headline": "Katzenberg의 AI 예측 검증",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026, 곧 찾아온다"
+       },
+       {
+        "t": "p",
+        "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 이렇게 예측했다. 세계 수준의 애니메이션 영화 한 편에 드는 아티스트가 2026년이면 500명에서 50명 미만으로 준다는 것이다."
+       },
+       {
+        "t": "p",
+        "x": "Joseph Bell이 1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Visual Effects & Animation World Atlas를 보면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오의 직무를 많이 대체하지도, 새 직무를 많이 만들지도 못했다. 아티스트들은 하던 일 안에서 AI 도구를 받아들이는 중이다."
+       },
+       {
+        "t": "p",
+        "x": "전 세계 업계 인력은 지난 12개월간 2.7% 늘었다. Los Angeles가 1.5% 줄어든 사이 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 작아졌다. Roto/paint 직무는 8.7% 늘었고, AI는 아직 그 일을 넘겨받지 못했다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%뿐이다."
+       },
+       {
+        "t": "p",
+        "x": "2023년에 아티스트 500명이 필요했던 영화를 지금은 50명이 만들 수 있을까? 답은 “아직은 아니다(Not yet).”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Katzenberg予測の\nAI-shrunk説を検証",
+     "body": "Joseph Bellが、Katzenbergの2023年のAI予測を検証する。",
+     "mini_headline": "KatzenbergのAI予測を検証",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026、まもなく到来"
+       },
+       {
+        "t": "p",
+        "x": "3年前、DreamWorks Animationの共同創業者で元CEOのJeffrey Katzenbergは、世界水準のアニメ映画をつくるのに必要なアーティストの数が、2026年までに500人から50人未満に減ると予測した。"
+       },
+       {
+        "t": "p",
+        "x": "1.1 million(110万)を超えるデータポイントに基づくJoseph BellのVisual Effects & Animation World Atlasによれば、mid-2026(2026年半ば)の時点でAIは従来のVFX・アニメスタジオで多くの職を置き換えておらず、新しい職もあまり生んでいない。AIツールは、アーティストが既存の職務のなかで取り入れている。"
+       },
+       {
+        "t": "p",
+        "x": "世界全体で業界の人員は過去12カ月で2.7%増えた。Los Angelesは1.5%縮小した一方、Vancouverは11.3%回復した。USのVFXスタジオの平均規模は34人から29人に減った。Roto/paintの職は8.7%増えており、AIがまだその仕事を担える段階にないことを示す。2026年の従来型スタジオで、AI-specificの職は全体のわずか0.1%だ。"
+       },
+       {
+        "t": "p",
+        "x": "2023年に500人のアーティストを要した同じ映画を、いま50人でつくれるのか。「まだだ(Not yet)」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "检验Katzenberg\nAI-shrunk团队预言",
+     "body": "Joseph Bell检验Katzenberg的预测：AI让500人团队缩至不足50人。",
+     "mini_headline": "检验Katzenberg的AI预测",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026，即将到来"
+       },
+       {
+        "t": "p",
+        "x": "三年前，DreamWorks Animation联合创始人、前CEO Jeffrey Katzenberg预测，到2026年，制作一部世界级动画电影所需的艺术家人数将从500人降至不足50人。"
+       },
+       {
+        "t": "p",
+        "x": "Joseph Bell的Visual Effects & Animation World Atlas基于超过1.1 million（110万）个数据点，发现到mid-2026（2026年年中），AI尚未在传统VFX和动画工作室取代大量岗位，也没有创造出很多新岗位。艺术家们正在现有岗位中采用AI工具。"
+       },
+       {
+        "t": "p",
+        "x": "全球行业从业人数在过去12个月增长2.7%。Los Angeles收缩1.5%，Vancouver则反弹11.3%。US VFX工作室的平均规模从34人降至29人。Roto/paint岗位增长8.7%，说明AI尚未准备好接手这类工作。2026年，AI-specific岗位仅占传统工作室岗位的0.1%。"
+       },
+       {
+        "t": "p",
+        "x": "2023年需要500名艺术家的同一部电影，如今能由50名艺术家完成吗？“还不行（Not yet）。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "A prueba, la tesis de Katzenberg\nsobre equipos AI-shrunk",
+     "body": "Joseph Bell revisa el cálculo de Katzenberg de 2023: la AI reduciría un equipo de 500 artistas a menos de 50 en 2026.",
+     "mini_headline": "El pronóstico de Katzenberg sobre la AI, a prueba",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026, muy pronto"
+       },
+       {
+        "t": "p",
+        "x": "Hace tres años, Jeffrey Katzenberg, cofundador y ex CEO de DreamWorks Animation, predijo que el número de artistas necesarios para hacer una película animada de primer nivel bajaría de 500 a menos de 50 para 2026."
+       },
+       {
+        "t": "p",
+        "x": "El Visual Effects & Animation World Atlas de Joseph Bell, construido con más de 1.1 millones de puntos de datos, concluye que a mediados de 2026 (mid-2026) la AI aún no ha reemplazado un número significativo de puestos en los estudios tradicionales de VFX y animación, ni ha creado muchos nuevos. Los artistas están adoptando herramientas de AI en sus puestos actuales."
+       },
+       {
+        "t": "p",
+        "x": "A nivel mundial, la plantilla del sector aumentó un 2.7% en los últimos 12 meses. Los Angeles se contrajo un 1.5%, mientras que Vancouver repuntó un 11.3%. El tamaño medio de un estudio de VFX en US bajó de 34 a 29 personas. Los puestos de Roto/paint aumentaron un 8.7%, lo que sugiere que la AI aún no está lista para asumir ese trabajo. Los puestos AI-specific representan apenas el 0.1% de los puestos en los estudios tradicionales en 2026."
+       },
+       {
+        "t": "p",
+        "x": "¿Puede la misma película que requería 500 artistas en 2023 hacerse hoy con 50 artistas? “Todavía no”."
+       }
+      ]
+     }
+    }
+   },
+   "_i18n_passed": {
+    "ko": {
+     "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
+     "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
+     "mini_headline": "Katzenberg의 AI 예측 검증",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026, 곧 찾아온다"
+       },
+       {
+        "t": "p",
+        "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 세계 수준의 애니메이션 영화 한 편에 필요한 아티스트 수가 2026년까지 500명에서 50명 미만으로 줄 것이라고 예측했다."
+       },
+       {
+        "t": "p",
+        "x": "1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Joseph Bell의 Visual Effects & Animation World Atlas에 따르면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오에서 상당수의 직무를 대체하지 못했고 새 직무도 많이 만들어 내지 못했다. 아티스트들은 기존 직무 안에서 AI 도구를 받아들이고 있다."
+       },
+       {
+        "t": "p",
+        "x": "전 세계 업계 인력은 지난 12개월 동안 2.7% 늘었다. Los Angeles는 1.5% 줄었고 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 줄었다. Roto/paint 직무는 8.7% 늘어, AI가 아직 그 일을 넘겨받을 준비가 되지 않았음을 보여 준다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%에 불과하다."
+       },
+       {
+        "t": "p",
+        "x": "2023년에 아티스트 500명이 필요했던 영화를 오늘날 50명이 만들 수 있을까? “아직은 아니다(Not yet).”"
+       }
+      ]
+     }
+    },
+    "ja": {
+     "headline": "Katzenberg予測の\nAI-shrunk説を検証",
+     "body": "Joseph Bellが、Katzenbergの2023年のAI予測を検証する。",
+     "mini_headline": "KatzenbergのAI予測を検証",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026、まもなく到来"
+       },
+       {
+        "t": "p",
+        "x": "3年前、DreamWorks Animationの共同創業者で元CEOのJeffrey Katzenbergは、世界水準のアニメ映画をつくるのに必要なアーティストの数が、2026年までに500人から50人未満に減ると予測した。"
+       },
+       {
+        "t": "p",
+        "x": "1.1 million(110万)を超えるデータポイントに基づくJoseph BellのVisual Effects & Animation World Atlasによれば、mid-2026(2026年半ば)の時点でAIは従来のVFX・アニメスタジオで多くの職を置き換えておらず、新しい職もあまり生んでいない。AIツールは、アーティストが既存の職務のなかで取り入れている。"
+       },
+       {
+        "t": "p",
+        "x": "世界全体で業界の人員は過去12カ月で2.7%増えた。Los Angelesは1.5%縮小した一方、Vancouverは11.3%回復した。USのVFXスタジオの平均規模は34人から29人に減った。Roto/paintの職は8.7%増えており、AIがまだその仕事を担える段階にないことを示す。2026年の従来型スタジオで、AI-specificの職は全体のわずか0.1%だ。"
+       },
+       {
+        "t": "p",
+        "x": "2023年に500人のアーティストを要した同じ映画を、いま50人でつくれるのか。「まだだ(Not yet)」"
+       }
+      ]
+     }
+    },
+    "zh": {
+     "headline": "检验Katzenberg\nAI-shrunk团队预言",
+     "body": "Joseph Bell检验Katzenberg的预测：AI让500人团队缩至不足50人。",
+     "mini_headline": "检验Katzenberg的AI预测",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026，即将到来"
+       },
+       {
+        "t": "p",
+        "x": "三年前，DreamWorks Animation联合创始人、前CEO Jeffrey Katzenberg预测，到2026年，制作一部世界级动画电影所需的艺术家人数将从500人降至不足50人。"
+       },
+       {
+        "t": "p",
+        "x": "Joseph Bell的Visual Effects & Animation World Atlas基于超过1.1 million（110万）个数据点，发现到mid-2026（2026年年中），AI尚未在传统VFX和动画工作室取代大量岗位，也没有创造出很多新岗位。艺术家们正在现有岗位中采用AI工具。"
+       },
+       {
+        "t": "p",
+        "x": "全球行业从业人数在过去12个月增长2.7%。Los Angeles收缩1.5%，Vancouver则反弹11.3%。US VFX工作室的平均规模从34人降至29人。Roto/paint岗位增长8.7%，说明AI尚未准备好接手这类工作。2026年，AI-specific岗位仅占传统工作室岗位的0.1%。"
+       },
+       {
+        "t": "p",
+        "x": "2023年需要500名艺术家的同一部电影，如今能由50名艺术家完成吗？“还不行（Not yet）。”"
+       }
+      ]
+     }
+    },
+    "es": {
+     "headline": "A prueba, la tesis de Katzenberg\nsobre equipos AI-shrunk",
+     "body": "Joseph Bell revisa el cálculo de Katzenberg de 2023: la AI reduciría un equipo de 500 artistas a menos de 50 en 2026.",
+     "mini_headline": "El pronóstico de Katzenberg sobre la AI, a prueba",
+     "full": {
+      "mode": "summary",
+      "blocks": [
+       {
+        "t": "img",
+        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
+        "cap": "2026, muy pronto"
+       },
+       {
+        "t": "p",
+        "x": "Hace tres años, Jeffrey Katzenberg, cofundador y ex CEO de DreamWorks Animation, predijo que el número de artistas necesarios para hacer una película animada de primer nivel bajaría de 500 a menos de 50 para 2026."
+       },
+       {
+        "t": "p",
+        "x": "El Visual Effects & Animation World Atlas de Joseph Bell, construido con más de 1.1 millones de puntos de datos, concluye que a mediados de 2026 (mid-2026) la AI aún no ha reemplazado un número significativo de puestos en los estudios tradicionales de VFX y animación, ni ha creado muchos nuevos. Los artistas están adoptando herramientas de AI en sus puestos actuales."
+       },
+       {
+        "t": "p",
+        "x": "A nivel mundial, la plantilla del sector aumentó un 2.7% en los últimos 12 meses. Los Angeles se contrajo un 1.5%, mientras que Vancouver repuntó un 11.3%. El tamaño medio de un estudio de VFX en US bajó de 34 a 29 personas. Los puestos de Roto/paint aumentaron un 8.7%, lo que sugiere que la AI aún no está lista para asumir ese trabajo. Los puestos AI-specific representan apenas el 0.1% de los puestos en los estudios tradicionales en 2026."
+       },
+       {
+        "t": "p",
+        "x": "¿Puede la misma película que requería 500 artistas en 2023 hacerse hoy con 50 artistas? “Todavía no”."
+       }
+      ]
+     }
+    }
+   }
+  }
+ ]
 }

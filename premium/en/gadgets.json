@@ -6645,6 +6645,166 @@
           "x": "Ray-Ban Meta Audio is available to preorder for $349, and ships from October 13."
         }
       ]
+    },
+    "gadgets/gadgets-foresight": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Google today announced EmbeddingGemma 2, a model that can \"organize, search, and connect information directly on consumer hardware.\" To show off its potential, Google created an AI Edge Foresight Mac app for \"intelligent notetaking.\""
+        },
+        {
+          "t": "p",
+          "x": "The 740 million parameter model is built on the Gemma 4 architecture under an Apache 2.0 license. With quantization, on a Pixel 11 Pro it needs as little as ~191MB active RAM for text-only weights and ~567MB for the full multimodal model."
+        },
+        {
+          "t": "video",
+          "yt": "KNPNNAKh3dU"
+        },
+        {
+          "t": "p",
+          "x": "During meetings, Foresight listens in the background so you can \"scribble shorthand bullets,\" which it \"enriches into polished notes using the meeting transcript instantly.\" Transcript and audio are processed entirely on your device."
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/enhanced-notetaking.gif"
+        },
+        {
+          "t": "p",
+          "x": "You can also point it at project folders, diagrams, and your calendar, local or Google Drive, then ask questions. Chat offers retrieval and summary, and Live Assistance will \"listen and automatically answer questions.\" It joins AI Edge Gallery and AI Edge Eloquent on Mac."
+        },
+        {
+          "t": "img",
+          "src": "https://developers.google.com/static/edge/foresight/assets/foresight-retrieval-live-and-chat.gif"
+        }
+      ]
+    },
+    "gadgets/gadgets-fitbit-edge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C720",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "Google may be preparing to give the Fitbit Charge line the upgrade it’s been waiting for. A new leak has revealed a huge amount of information about the rumored Fitbit Edge, an upcoming fitness tracker that appears designed to sit somewhere between the minimalist Fitbit Air and Google’s much more capable Pixel Watch 5."
+        },
+        {
+          "t": "p",
+          "x": "The Fitbit Edge will reportedly feature a 1.34-inch AMOLED display with an always-on mode, built-in GPS, Bluetooth 5.4, and support for both Android and iPhone. But Gemini could be the Edge’s biggest differentiator."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023951.163.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "The tracker reportedly supports personalized fitness coaching powered by Gemini, including customized workout programs, an Ask Coach feature, and coaching directly from your wrist. Some of those smarter features may require a Google Health Premium subscription."
+        },
+        {
+          "t": "p",
+          "x": "The tracker reportedly lasts up to seven days on a charge, although enabling the always-on display could drop that to around two days. Just five minutes of charging is said to provide roughly 24 hours of use."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023836.382.jpg?resize=2000%2C1200",
+          "cap": "Google Fitbit Edge (Android Headlines)"
+        },
+        {
+          "t": "p",
+          "x": "Dealabs reportedly lists it at €179 (~ $201) in Europe and £159 (~ $211) in the UK. Google hasn’t officially announced the Fitbit Edge yet, but given how much has leaked, it probably won’t remain a secret much longer."
+        }
+      ]
+    },
+    "gadgets/gadgets-jbl-partybox": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBL is expanding its party speaker lineup with the $1,800 PartyBox Ultimate 2, which puts out 1,500W from six drivers: dual woofers, dual midrange drivers, and dual tweeters. It weighs 120 pounds and has no battery, so it must be plugged in."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "JBL put its AI isolation features in the PartyBox Ultimate 2, so you can strip vocals out of tracks with the push of a button. On JBL's Bandbox Solo, the feature \"works far better than you'd expect,\" and doing it with literally any song is \"still pretty rad.\""
+        },
+        {
+          "t": "p",
+          "x": "There's also AI Sound Boost, meant to maximize volume without distortion, and Smart EQ Mode, which uses AI to assess what you're listening to and adjust EQ in real time. It streams over Wi-Fi via AirPlay 2, Spotify Connect, and Chromecast, with USB-C lossless, optical, and XLR inputs."
+        },
+        {
+          "t": "p",
+          "x": "The PartyBox Ultimate 2 is available for preorder now and ships starting Oct. 25."
+        }
+      ]
+    },
+    "gadgets/gadgets-underdog": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
+          "cap": "Image Credits: Sigil Wen"
+        },
+        {
+          "t": "p",
+          "x": "Now a Thiel Fellow, Wen on Monday launched an invite-only beta of Underdog, one of the most private AI assistants Silicon Valley has yet to offer. The model runs wholly on-device, meaning the user’s data remains on devices they already own, currently Macs and Windows PCs, with Linux, iPhone, and Android versions coming soon."
+        },
+        {
+          "t": "p",
+          "x": "Underdog is powered by Husky, the inference engine Wen built to run AI models quickly on a user’s own hardware. Wen says it moves less data between a computer’s main chip and its graphics chip than rival on-device engines."
+        },
+        {
+          "t": "p",
+          "x": "It currently uses a 27-billion parameter reasoning model fine-tuned from Qwen3.8-27B. Wen argues that this model compares favorably with Claude Opus 4.6 in some benchmarks, and can handle everyday tasks like shopping research or answering math homework questions."
+        },
+        {
+          "t": "p",
+          "x": "The app will be free at first and never ad-supported. Since the AI runs on users’ machines, Underdog doesn’t have the giant overhead of paying a provider for inference. Instead, it will take a tiny percentage of payment transactions the assistant makes using Stripe’s payment rails, something like an interchange fee."
+        },
+        {
+          "t": "p",
+          "x": "The startup behind Underdog is Conway Research, backed by Andreessen Horowitz, Khosla Ventures, Hummingbird, SV Angel, the Anthology Fund, and angels including Patrick Collison and Guillermo Rauch."
+        }
+      ]
+    },
+    "gadgets/meta-rayban-walking-navigation-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/09/meta-ray-ban-camera.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Meta's most recent updates for its Ray-Ban smart glasses deliver upgrades to audio playback as well as new turn-by-turn walking navigation."
+        },
+        {
+          "t": "p",
+          "x": "System update version 129 brings two audio changes. Mono Audio combines the left and right channels so nothing gets missed on the side you can't hear, and Audio Balance shifts sound toward your left or right ear. Both apply to sounds the glasses make, like Meta AI responses and notifications."
+        },
+        {
+          "t": "p",
+          "x": "Version 128, which first debuted earlier in September, is now broadly available. It adds Spatial Audio support, further anti-tampering tweaks that stop the camera from working if the privacy LED has been messed with, and new location features."
+        },
+        {
+          "t": "p",
+          "x": "Chief among them is turn-by-turn pedestrian navigation: just say “Hey Meta, navigate to Times Square.” Directions pull your location from your phone, and you can share a place from your mapping app directly to Meta AI to start navigation on the glasses. For places further away, Meta sends driving directions to your phone."
+        },
+        {
+          "t": "p",
+          "x": "The audio changes are still starting to roll out, while the navigation upgrades are broadly available as an update in the Meta AI app."
+        }
+      ]
     }
   }
 }

@@ -1,212 +1,202 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "section": "science",
-  "now_iso": "2026-10-05T22:02:44Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI tool designed and integrated into hospital workflows to classify skin lesions",
-      "url": "https://medicalxpress.com/news/2026-10-ai-tool-hospital-workflows-skin.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-10-05T17:20:07-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/ai-tool-designed-and-i.jpg",
-      "excerpt": "University of Alicante and Sant Joan d'Alacant University Hospital launched MEL-IA, an AI system that automates skin-lesion classification inside real hospital workflows.",
-      "category": "science"
+      "title": "AI techniques behind image creation improve flash flood forecasts across U.S. river basins",
+      "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-06T17:30:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg",
+      "excerpt": "A flash flood can devastate a community for years in a matter of minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, with water levels capable of shooting up 30 feet (9 meters) and receding to normal levels in the span of a",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-09-13",
+        "url": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
+        "title": "Researchers eye AI revolution in natural disaster forecasts",
+        "band": "related"
+      }
     },
     {
-      "title": "AI model achieves 89% accuracy in identifying arrhythmia-related abnormalities in atrial tissue",
-      "url": "https://medicalxpress.com/news/2026-09-ai-accuracy-arrhythmia-abnormalities-atrial.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-28",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model-achieves-89-a.jpg",
-      "excerpt": "Technical University of Valencia researchers built a graph neural network that localizes atrial cardiomyopathy tissue damage from non-invasive electrical recordings with 89% accuracy; validated so far on simulated data.",
-      "category": "science"
+      "title": "From food to fuel, AI helps pinpoint how to grow 'microalgae' at scale",
+      "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-06T15:20:15-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
+      "excerpt": "Microalgae (microscopic organisms that use light and carbon dioxide to grow) can be used to make ingredients and food for animals, pigments and potentially renewable fuels. But growing microalgae efficiently at an industrial scale is difficult."
     },
     {
-      "title": "Autonomous AI could create capacity for thousands more dermatology appointments, real-world study finds",
-      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-09-30",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2022/skin-moles.jpg",
-      "excerpt": "A real-world study of 8,391 patients found autonomous AI could free roughly 8,500 dermatology appointments over 16 months by safely discharging benign cases, with over 98% sensitivity for invasive melanoma.",
-      "category": "science"
+      "title": "AI method predicts retention times of small molecules more reliably",
+      "url": "https://phys.org/news/2026-10-ai-method-retention-small-molecules.html",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-01T17:30:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-does-the-molecule-2.jpg",
+      "excerpt": "Whether in drug discovery, environmental analysis or metabolomics: anyone analyzing complex biological samples often needs to identify the small molecules they contain. Researchers at Friedrich Schiller University Jena, in collaboration with partners from the Helmholtz Zentrum Mü"
     },
     {
-      "title": "AI chatbots give us a narrow slice of knowledge: Researchers warn of 'knowledge collapse'",
-      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+      "title": "Agentic AI turns simple language into self-guided X-ray scans of microelectronics",
+      "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
       "source": "Tech Xplore",
-      "published_iso": "2026-09-28",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/-ai-chatbots.jpg",
-      "excerpt": "University of Copenhagen researchers found AI chatbots deliver significantly less diverse information than Google search across 155 topics, warning of 'knowledge collapse' as models train on AI text.",
-      "category": "science"
+      "category": "science",
+      "published_iso": "2026-10-06T12:40:13-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+      "excerpt": "Science has increasingly used artificial intelligence (AI) as a kind of microscope—sorting data, analyzing images and revealing hidden patterns. Now a new shift is underway: AI that not only breaks down data but also helps scientists decide what to do next through simple, natural"
+    },
+    {
+      "title": "Can scientists build a lie detector for AI chatbots?",
+      "url": "https://techxplore.com/news/2026-10-scientists-detector-ai-chatbots.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-06T09:20:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-scientists-build-a.jpg",
+      "excerpt": "Ask an AI chatbot for some medical advice and it might recommend you head to the hospital when all you really have is indigestion. One of the biggest issues with AI chatbots today is that they can still share false information, according to Northeastern experts."
     },
     {
       "title": "Does the gender pay gap extend to AI? Research finds female AI agents 'paid' less",
       "url": "https://techxplore.com/news/2026-10-gender-pay-gap-ai-female.html",
       "source": "Tech Xplore",
+      "category": "science",
       "published_iso": "2026-10-05T08:40:06-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/does-the-gender-pay-ga.jpg",
-      "excerpt": "University of Limerick research finds workplace gender bias can be replicated in interactions with AI, with female-presenting AI agents 'paid' less.",
-      "category": "science"
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/does-the-gender-pay-ga.jpg",
+      "excerpt": "New research from the University of Limerick has found that gender bias in the workplace could be replicated in interactions with artificial intelligence."
     },
     {
-      "title": "The tests that grade AI may be getting it wrong",
-      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-09-30",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-model.jpg",
-      "excerpt": "Stanford researchers analyzed 56 widely used AI benchmarks and found major measurement inconsistencies, including safety benchmarks that degrade across languages, arguing for measurement-science methods.",
-      "category": "science"
-    },
-    {
-      "title": "How attachment theory can help us understand AI relationships",
-      "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
-      "source": "Scientific American",
-      "published_iso": "2026-10-04T06:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-ma",
-      "excerpt": "Psychologists apply attachment theory, the framework for people's most significant relationships, to explain how and why humans bond with AI companions.",
-      "category": "science"
-    },
-    {
-      "title": "How AI helped bring an ancient tomb dating to before the Roman empire back to life",
-      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
-      "source": "Scientific American",
-      "published_iso": "2026-10-03T06:00:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba",
-      "excerpt": "Pairing artificial intelligence with acoustic technology helped researchers reveal an Etruscan tomb in a new light.",
-      "category": "science"
-    },
-    {
-      "title": "The effects of an 'algorithmic monoculture' depend on the details",
-      "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-      "source": "MIT News",
-      "published_iso": "2026-09-29T04:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-AlgorithmicMono-01-press.jpg",
-      "excerpt": "MIT research finds that many firms using a single hiring algorithm, so-called algorithmic monoculture, is less harmful to job seekers than prior work suggested, depending on the details.",
-      "category": "science"
-    },
-    {
-      "title": "Don't be fooled—LLMs don't reason",
-      "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-10-02T04:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
-      "excerpt": "Ten years after AlphaGo beat Lee Sedol, today's AI still isn't tapping into the search-and-planning machinery that made that win possible, the essay argues.",
-      "category": "science"
-    },
-    {
-      "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
-      "url": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/",
-      "source": "STAT",
-      "published_iso": "2026-10-05T08:30:00+00:00",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_1946111074_Editorial_Use_On",
-      "excerpt": "On Nobel week, an op-ed asks whether some or all Nobels may one day go to Claude, ChatGPT or their successors rather than human scientists.",
-      "category": "science"
-    },
-    {
-      "title": "Detecting forever chemicals—with yeast and AI",
-      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-05T15:00:10-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/tmb/2026/pfas.jpg",
-      "excerpt": "Researchers pair engineered yeast biosensors with AI analysis to detect PFAS 'forever chemicals' in samples.",
-      "category": "science"
-    },
-    {
-      "title": "Self-driving lab automates semiconductor ink synthesis and thin-film characterization",
-      "url": "https://phys.org/news/2026-09-lab-automates-semiconductor-ink-synthesis.html",
-      "source": "Phys.org",
-      "published_iso": "2026-09-23",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/self-driving-lab-speed.jpg",
-      "excerpt": "KIT's Energy Materials Acceleration Platform (E-MAP) robotically synthesizes semiconductor inks and characterizes thin films, using AI for data analysis and experiment optimization.",
+      "title": "AI may help catch heart transplant rejection without biopsies",
+      "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
+      "source": "Medical Xpress",
       "category": "science",
+      "published_iso": "2026-10-06T14:20:04-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
+      "excerpt": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests.",
       "history_match": {
-        "score": 0.353,
-        "date": "2026-09-27",
-        "url": "https://www.eurekalert.org/news-releases/1145149",
-        "title": "Self-driving lab speeds up materials development",
+        "score": 0.256,
+        "date": "2026-09-12",
+        "url": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
+        "title": "An AI tool aims to catch harder-to-detect heart attacks in EKGs",
         "band": "related"
       }
     },
     {
-      "title": "Want to use AI to improve your work? Have it disagree with you",
-      "url": "https://phys.org/news/2026-10-ai.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-02",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-ai-at-work.jpg",
-      "excerpt": "A study of 45 knowledge workers found that prompting AI to challenge their ideas, rather than accepting its output, improved work quality and preserved critical thinking.",
+      "title": "A camera combined with AI could help further diagnosis of movement disorders in newborns",
+      "url": "https://medicalxpress.com/news/2026-10-camera-combined-ai-diagnosis-movement.html",
+      "source": "Medical Xpress",
       "category": "science",
-      "history_match": {
-        "score": 0.157,
-        "date": "2026-10-05",
-        "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-        "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-        "band": "related"
-      }
-    },
-    {
-      "title": "X-Rays and AI Reveal How Spacecraft Heat Shields Burn in Real Time",
-      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time",
-      "source": "Universe Today",
-      "published_iso": "2026-10-05T10:02:19+00:00",
-      "og_image": "https://www.universetoday.com/article_images/News_1190px_Berkeley-Lab_Artemis_Inspection_Hero_20261001_110100.jpg",
-      "excerpt": "Berkeley Lab researchers combined X-ray imaging with AI analysis to watch spacecraft heat-shield material ablate in real time.",
-      "category": "science",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-09-24",
-        "url": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
-        "title": "Scientists develop real-time AI monitoring for an advanced nuclear reactor component",
-        "band": "related"
-      }
+      "published_iso": "2026-10-06T13:00:10-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-camera-combined-with.jpg",
+      "excerpt": "Detecting impaired motor function as early as possible after birth with the help of a standard camera linked to intelligent systems can help diagnose infantile conditions characterized by hypotonia: reduced muscle tone, which can limit active movement. A research team is investig"
     },
     {
       "title": "Is AI the End of Math As We Know It?",
       "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
       "source": "Quanta Magazine",
+      "category": "science",
       "published_iso": "2026-10-05T13:40:07+00:00",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon",
-      "excerpt": "Mathematicians are facing AI's sudden shift with grief, anger and a search for fresh ideas: 'If we don't adapt, there's just no more math in 50 years.'",
-      "category": "science"
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Social.jpg",
+      "excerpt": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.”"
     },
     {
-      "title": "AIDAQ 2026: AI is Now a staple of The Quantum story",
-      "url": "https://thequantuminsider.com/2026/10/05/ai-part-quantum-story/",
-      "source": "The Quantum Insider",
-      "published_iso": "2026-10-05T13:01:22+00:00",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/AIDAQ.jpg",
-      "excerpt": "At Bitkom's AI, Data & Quantum Summit in Berlin, AI kept turning up inside quantum computing work, from error correction to control.",
+      "title": "Supercomputing researchers document evolution of AI hardware",
+      "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+      "source": "MIT News",
       "category": "science",
+      "published_iso": "2026-10-06T20:55:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-lincoln-supercomputer.jpg",
+      "excerpt": "Since 2018, the Lincoln Laboratory Supercomputing Center has maintained a survey of the latest AI hardware to help researchers and the U.S. government gain a better understanding of the AI accelerator landscape and make better research and acquisition decisions about them."
+    },
+    {
+      "title": "The effects of an “algorithmic monoculture” depend on the details",
+      "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-09-29T04:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-AlgorithmicMono-01-press.jpg",
+      "excerpt": "The use of a single hiring algorithm by multiple firms, known as algorithmic monoculture, is less problematic for job seekers than past research has shown, and may even be a good thing depending on the approach used, according to a study by MIT researchers."
+    },
+    {
+      "title": "The promise and peril of using visual AI to study cities",
+      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "source": "MIT News",
+      "category": "science",
+      "published_iso": "2026-09-24T04:00:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-AI-City-01.jpg",
+      "excerpt": "In the book “How AI Sees the City,” MIT researchers examine implications of using visual AI to study urban life. Across cities, more images means more data, more insight — and more concerns about privacy and fairness."
+    },
+    {
+      "title": "How attachment theory can help us understand AI relationships",
+      "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-10-04T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
+      "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people’s lives together"
+    },
+    {
+      "title": "How AI helped bring an ancient tomb dating to before the Roman Empire back to life",
+      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-10-03T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+      "excerpt": "Pairing artificial intelligence with acoustic technology helped reveal an Etrurian tomb in new light"
+    },
+    {
+      "title": "What makes a good AI safety test? Experts explain why even the best techniques may not be powerful enough",
+      "url": "https://www.scientificamerican.com/article/what-makes-a-good-ai-safety-test-experts-explain-why-even-the-best-techniques-may-not-be-powerful-enough/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-10-06T10:30:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/m/43f87d68eb21cf30/original/Robot_stepping_on_banana_peel.jpg?m=1727190943.601&w=1200",
+      "excerpt": "“With today’s science we usually can’t show with high confidence that dangerous behavior isn’t there”",
       "history_match": {
-        "score": 0.174,
-        "date": "2026-09-12",
-        "url": "https://thequantuminsider.com/2026/09/08/lancaster-university-european-quantum-ai-research-project/",
-        "title": "Lancaster University Leads Project on Quantum Neural Computing",
+        "score": 0.183,
+        "date": "2026-09-19",
+        "url": "https://techxplore.com/news/2026-09-ai-isnt-good-people.html",
+        "title": "AI still isn't as good at recognizing objects as people are, new test shows",
         "band": "related"
       }
+    },
+    {
+      "title": "What AI gets wrong and what failure teaches us",
+      "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
+      "source": "Microsoft Research",
+      "category": "science",
+      "published_iso": "2026-10-06T16:19:06+00:00",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ChadJennifer-MSRPod_TW_LI_FB_1920x1080-1.jpg",
+      "excerpt": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity."
     },
     {
       "title": "Drones, AI and the future of wildlife conservation",
       "url": "https://physicsworld.com/a/drones-ai-and-the-future-of-wildlife-conservation/",
       "source": "Physics World",
+      "category": "science",
       "published_iso": "2026-09-30T09:00:41+00:00",
-      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/porpoise-2520864833-shutterstock-jonas",
-      "excerpt": "Robotics and machine learning are opening new possibilities for monitoring and protecting wildlife around the world.",
-      "category": "science"
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/porpoise-2520864833-shutterstock-jonas-aleksander-larsen.jpg",
+      "excerpt": "Robotics and machine learning are opening new possibilities for protecting wildlife around the world"
     },
     {
-      "title": "Your Brain on AI: Why We Must Choose What We Outsource",
-      "url": "https://www.psychologytoday.com/us/blog/unrestricted-and-thriving/202610/your-brain-on-ai-why-we-must-choose-what-we-outsource",
-      "source": "Psychology Today",
-      "published_iso": "2026-10-05T11:48:39-04:00",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_bl",
-      "excerpt": "GenAI delivers the shortcuts our brains love, but overreliance has a cognitive cost; the piece outlines what we lose when we outsource thinking.",
-      "category": "science"
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "source": "Google Research",
+      "category": "science",
+      "published_iso": "2026-10-06T15:05:11+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "Google Research blog post on applying Earth AI's planetary geospatial foundation models to global public health (excerpt not extractable; enrichment pass should read the body).",
+      "history_match": {
+        "score": 0.156,
+        "date": "2026-09-09",
+        "url": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
+        "title": "Physics-based AI unlocks first global predictions of carbon cycling in ocean sediments",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 19,
+    "dropped": 0,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
@@ -216,31 +206,6 @@
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-06",
-      "title": "AI-informed AdaptiveFlow redefines large-scale cloud computing for drug discovery",
-      "url": "https://phys.org/news/2026-09-ai-adaptiveflow-redefines-large-scale.html"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "AI-driven polymer discovery could replace years of trial and error with closed-loop testing",
-      "url": "https://phys.org/news/2026-09-ai-driven-polymer-discovery-years.html"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Brain-Computer Interface Aligns Better with Humans via AI",
-      "url": "https://www.psychologytoday.com/us/blog/the-future-brain/202608/brain-computer-interface-aligns-better-with-humans-via-ai"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "In an Age of AI, a Physicist Seeks What Endures",
-      "url": "https://www.quantamagazine.org/in-an-age-of-ai-a-physicist-seeks-what-endures-20260903/"
-    },
-    {
-      "date": "2026-09-06",
-      "title": "Live from ICM 2026: What Is Math For in the Age of AI?",
-      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/"
-    },
     {
       "date": "2026-09-07",
       "title": "Accelerating Scientific Research with Gemini in the Real-World",
@@ -840,6 +805,31 @@
       "date": "2026-10-05",
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Autonomous AI could create capacity for thousands more dermatology appointments, real-world study finds",
+      "url": "https://medicalxpress.com/news/2026-09-autonomous-ai-capacity-thousands-dermatology.html"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Detecting forever chemicals—with yeast and AI",
+      "url": "https://phys.org/news/2026-10-chemicals-yeast-ai.html"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "AI chatbots give us a narrow slice of knowledge: Researchers warn of 'knowledge collapse'",
+      "url": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "The tests that grade AI may be getting it wrong",
+      "url": "https://techxplore.com/news/2026-09-grade-ai-wrong.html"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "X-Rays and AI Reveal How Spacecraft Heat Shields Burn in Real Time",
+      "url": "https://www.universetoday.com/articles/x-rays-and-ai-reveal-how-spacecraft-heat-shields-burn-in-real-time"
     }
   ]
 }

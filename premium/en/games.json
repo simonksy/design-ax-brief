@@ -6383,6 +6383,134 @@
           "x": "Capcom has said previously that it will not use AI-generated assets in its games, and instead would focus on using the tech to make development more efficient. Ishida’s comments seem to lineup, though definitely seem to leave the door open to more extensive use. He laid out a plan to turn RE Engine slowly, and incrementally, into an “AI-generation game engine” building towards a “a future where we create games together with AI,” according to IGN’s translation."
         }
       ]
+    },
+    "games/games-dizzy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: Code Masters"
+        },
+        {
+          "t": "p",
+          "x": "Dizzy, the egg-starring platformer series that managed sixteen releases between 1987 and 1992, is coming back. Its creators, the Oliver Twins, announced a new Dizzy game during their talk at Play Expo in Blackpool."
+        },
+        {
+          "t": "p",
+          "x": "Andrew's new entry will mostly be a remake of 1989's Treasure Island Dizzy, combining the ZX Spectrum and NES versions, plus a new Mega Drive version and a completely new 'Ultra' version with modern visuals. Phillip is working on Journey to the Emerald City. Both projects lean happily on generative AI."
+        },
+        {
+          "t": "video",
+          "yt": "lTSaPajJCcE"
+        },
+        {
+          "t": "p",
+          "x": "Asked by Time Extension about it, Phillip Oliver said that without it, Emerald City and all of its art \"would have been an over-a-year project with a couple of artists, probably a hundred thousand pounds.\" Andrew added that genAI \"allows indies to compete on a level with the production quality\" of big, well-financed studios."
+        },
+        {
+          "t": "p",
+          "x": "RPS's Ashley Schofield is unconvinced, arguing that plenty of solo and duo indie developers have made games without genAI tools built on scraping artists' work."
+        }
+      ]
+    },
+    "games/games-usf4-rollback": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: Rock Paper Shotgun/Capcom"
+        },
+        {
+          "t": "p",
+          "x": "Street Fighter IV saw its final iteration in 2014's Ultra Street Fighter IV, a game still limited to delay-based netcode rather than the more stable rollback netcode that has become the industry standard since the mid 2010s."
+        },
+        {
+          "t": "p",
+          "x": "Delay-based netcode variably delays inputs to cope with unstable connections, while rollback accepts inputs immediately and rewinds the game state if the connection causes inconsistencies between players."
+        },
+        {
+          "t": "p",
+          "x": "Two new mods, Faabi's 'SF4Enhanced' and Kabiefox's 'SF4 Ember', both released in the last few weeks, add rollback netcode and private rooms, and both were coded with the assistance of Anthropic's Claude. Faabi has since abandoned SF4Enhanced, saying they \"don't have the time to deliver what this community deserves\" and admitting they \"had barely written any C++ before,\" and points players to Ember."
+        },
+        {
+          "t": "p",
+          "x": "Both mods seem to be getting a lot of play, but RPS's writer would rather stick with delay-based netcode than use AI-made code."
+        }
+      ]
+    },
+    "games/games-wotc-union": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
+          "cap": "Bandits in the 2025 Monster Manual (Image credit: Wizards of the Coast)"
+        },
+        {
+          "t": "p",
+          "x": "The developers of Dungeons & Dragons and Magic: The Gathering have announced they're joining United Wizards of the Coast - CWA and are calling on the company to voluntarily recognize the union."
+        },
+        {
+          "t": "p",
+          "x": "The union first formed in April with only the Magic: The Gathering Arena developers, and won its election in June. Now workers behind D&D, D&D Beyond, Magic: The Gathering and Duel Masters are joining under the same banner, supported by the Communication Workers of America."
+        },
+        {
+          "t": "p",
+          "x": "Alongside \"fair wages,\" \"reliable and easily accessible healthcare\" and \"remote work protections,\" the union is demanding \"protection against the encroachment of AI.\" \"Leadership, without regard for the desires of our teams, has pushed for adoption of LLMs and generative AI,\" it says. \"This has to stop.\""
+        },
+        {
+          "t": "p",
+          "x": "Wizards of the Coast has until October 13 to respond. The union has already filed an election petition with the National Labor Relations Board."
+        }
+      ]
+    },
+    "games/games-sega-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "Crazy Taxi: World Tour (Image credit: Sega)"
+        },
+        {
+          "t": "p",
+          "x": "Speaking to Nikkei, Sega senior executive officer and deputy chief business officer Tsuyoshi Saito said the company is \"very cautious\" about how it implements generative AI during development."
+        },
+        {
+          "t": "p",
+          "x": "\"We are using AI to improve efficiency in areas such as publishing and corporate departments, as well as for generating business ideas,\" said Saito. \"However, we are being very cautious about its use in the game development process, and we are not entrusting the creative aspects of games to AI.\""
+        },
+        {
+          "t": "p",
+          "x": "Sega established a \"Generative AI Committee\" last year, including an \"AI Task Force\" responsible for \"developing in-house AI tools.\" Earlier this year, Sega faced controversy after generative AI was used \"during the development of background assets\" for Crazy Taxi: World Tour."
+        },
+        {
+          "t": "p",
+          "x": "Crystal Dynamics says it used generative AI similarly for early prototyping on Tomb Raider: Legacy of Atlantis, while \"making sure that all the finished content in the final game is human-created.\""
+        }
+      ]
+    },
+    "games/unity-agent-concept-art-to-ui-menu": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IYvRShclEL8"
+        },
+        {
+          "t": "p",
+          "x": "Turn concept art into a functional game UI without leaving the terminal."
+        },
+        {
+          "t": "p",
+          "x": "Give an agent your concept art and a short brief, and watch it build a working UI Toolkit main menu through the Unity CLI."
+        },
+        {
+          "t": "p",
+          "x": "The agent tests its own work too: running Play mode UI tests and grabbing Game view screenshots so it can check its changes and keep iterating."
+        },
+        {
+          "t": "p",
+          "x": "You steer it, and it does the building."
+        }
+      ]
     }
   }
 }
