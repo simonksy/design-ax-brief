@@ -8,6 +8,7 @@ import { getEntitlement, hasPaddleSubscription } from "./lib/entitlement.js";
 import { getPrefs, setPrefs, unsubscribeAll } from "./lib/mail_prefs.js";
 import { signUnsub, verifyUnsub } from "./lib/unsub.js";
 import { renderReport } from "./lib/report_mail.js";
+import { sendWeekly, isoWeekLabel } from "./lib/weekly_send.js";
 import { sendMagicLink, sendReport } from "./lib/email.js";
 import { verifyPaddleSignature, toEntitlement, fetchCustomerEmail } from "./lib/paddle.js";
 import { applyEntitlement } from "./lib/billing.js";
@@ -129,6 +130,26 @@ function confirmPage(code, token, pid) {
 }
 
 export default {
+  /* 매주 월요일 07:00 KST = 일요일 22:00 UTC (wrangler.jsonc의 "0 22 * * 0").
+     리포트 본문은 파이프라인이 미리 reports/<edition>/<lang>.json으로 만들어 둔다 —
+     여기서는 읽어서 조립·발송만 한다. 블록이 없으면 보내지 않는다. 빈 리포트를
+     보내는 것보다 그 주를 거르는 쪽이 낫다. */
+  async scheduled(event, env, ctx) {
+    const edition = isoWeekLabel(new Date(Date.now() + 9 * 3600 * 1000));   // KST 기준
+    const byLang = {};
+    for (const l of LANGS) {
+      const r = await env.ASSETS.fetch(new Request(new URL(`/reports/${edition}/${l}.json`, env.BASE_URL)));
+      if (r.ok) { try { byLang[l] = await r.json(); } catch (e) {} }
+    }
+    if (!Object.keys(byLang).length) {
+      console.error("weekly: no report blocks for", edition);
+      return;
+    }
+    ctx.waitUntil(sendWeekly(env, edition, byLang).then(
+      (r) => console.log("weekly", edition, JSON.stringify(r)),
+      (e) => console.error("weekly failed", edition, String((e && e.message) || e))));
+  },
+
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const p = url.pathname;
