@@ -744,17 +744,28 @@ function SubscribeModal({ onClose, t, initialPhase }) {
     if (!pending || !pending.pid) return;
     let alive = true;
     const started = Date.now();
+    // 승인은 사람이 버튼을 누르는 순간 일어난다 — 그 뒤 기다리는 시간은 전부
+    // 체감 지연이다. 처음엔 곧바로, 그다음 30초는 1초 간격으로 촘촘히 보고,
+    // 그 뒤에야 느슨하게 늦춘다(메일을 늦게 여는 경우의 헛된 요청을 줄인다).
+    const nextDelay = () => (Date.now() - started < 30000 ? 1000 : 2500);
     const tick = async () => {
       if (!alive || Date.now() - started > 15 * 60 * 1000) return;   // 토큰과 같은 15분
       try {
         const r = await fetch('/api/auth/pending?pid=' + encodeURIComponent(pending.pid),
           { credentials: 'same-origin' });
         const d = await r.json().catch(() => ({}));
-        if (d && d.approved) { window.location.reload(); return; }
+        if (d && d.approved) {
+          alive = false;
+          // 새로고침은 전부 다시 받느라 눈에 띄게 느리다. 세션 쿠키는 이미 응답에
+          // 실려 왔으므로, 권한만 다시 읽어 그 자리에서 잠금을 푼다.
+          window.dispatchEvent(new CustomEvent('ax:authed'));
+          onClose();
+          return;
+        }
       } catch (e) {}
-      if (alive) timer = setTimeout(tick, 3000);
+      if (alive) timer = setTimeout(tick, nextDelay());
     };
-    let timer = setTimeout(tick, 3000);
+    let timer = setTimeout(tick, 0);   // 첫 확인은 기다리지 않는다
     return () => { alive = false; clearTimeout(timer); };
   }, [pending]);
   // 이미 구독 중인 사람에겐 요금제 대신 "이미 구독 중" 안내 + 관리 버튼을 보여준다.
@@ -2815,15 +2826,20 @@ function ThemedPage({ themeKey }) {
   // locked card (below) renders unblurred with a lazy-fetched deep-dive instead
   // of the LockedCard subscribe overlay.
   const [auth, setAuth] = useState({ loggedIn: false, entitled: false, hasSubscription: false });
+  const loadMe = React.useCallback(() => fetch('/api/me', { credentials: 'same-origin' })
+    .then((r) => (r.ok ? r.json() : null))
+    // 헤더의 Pro/로그인 버튼은 i18n.js가 그린다(React 밖). 권한을 아는 쪽은
+    // 여기뿐이라 결과를 넘겨 준다 — 구독 중이면 'Pro 이용 중'으로 바뀌고,
+    // 로그인하지 않았으면 로그인 버튼이 나타난다.
+    .then((d) => { if (d) { setAuth(d); if (window.axSetAuthUI) window.axSetAuthUI(d); } })
+    .catch(() => {}), []);
+  useEffect(() => { loadMe(); }, [loadMe]);
+  // 다른 기기에서 승인이 떨어진 순간 — 새로고침 없이 그 자리에서 잠금을 푼다.
   useEffect(() => {
-    fetch('/api/me', { credentials: 'same-origin' })
-      .then((r) => (r.ok ? r.json() : null))
-      // 헤더의 Pro/로그인 버튼은 i18n.js가 그린다(React 밖). 권한을 아는 쪽은
-      // 여기뿐이라 결과를 넘겨 준다 — 구독 중이면 'Pro 이용 중'으로 바뀌고,
-      // 로그인하지 않았으면 로그인 버튼이 나타난다.
-      .then((d) => { if (d) { setAuth(d); if (window.axSetAuthUI) window.axSetAuthUI(d); } })
-      .catch(() => {});
-  }, []);
+    const on = () => loadMe();
+    window.addEventListener('ax:authed', on);
+    return () => window.removeEventListener('ax:authed', on);
+  }, [loadMe]);
   // 폰에서 스티키 바가 내려와 있으면 버튼을 그 첫 줄로 옮긴다 — 두 벌을 동시에
   // 띄우지 않기 위해서다. 버튼을 그리는 쪽이 React 밖(i18n.js)이라 알려 줘야 한다.
   useEffect(() => {

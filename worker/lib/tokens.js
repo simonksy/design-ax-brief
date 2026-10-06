@@ -37,6 +37,9 @@ export async function consumeMagicToken(kv, token) {
    사람이 맞춰 보게 하면 공격자는 자기 화면의 코드를 피해자에게 알릴 길이 없다. */
 const PEND_TTL = 900;   // 매직 토큰과 같은 15분
 
+/* 자리는 KV가 아니라 D1에 둔다. KV는 최종 일관성이라 쓰기가 읽기에 반영되기까지
+   몇 초가 걸리고, 그 몇 초가 "로그인 버튼을 눌렀는데 원래 창이 그대로"로 나타난다.
+   D1은 즉시 읽히므로 폴링이 바로 잡아낸다. */
 export function newPendingId() {
   return crypto.randomUUID().replace(/-/g, "");
 }
@@ -48,31 +51,37 @@ export function newPendingCode() {
   return String(1000 + (b[0] % 9000));
 }
 
-export async function putPending(kv, pid, email, code) {
-  await kv.put("pd:" + pid, JSON.stringify({ email, code, session: null }),
-               { expirationTtl: PEND_TTL });
+const nowSec = () => Math.floor(Date.now() / 1000);
+
+export async function putPending(db, pid, email, code) {
+  await db.prepare(
+    "INSERT OR REPLACE INTO pending_logins (id,email,code,session,created_at) VALUES (?,?,?,NULL,?)"
+  ).bind(pid, email, code, nowSec()).run();
+  // 만료된 자리는 들를 때마다 조금씩 치운다 — 따로 도는 청소 작업을 두지 않는다.
+  await db.prepare("DELETE FROM pending_logins WHERE created_at < ?")
+          .bind(nowSec() - PEND_TTL).run();
 }
 
-export async function readPending(kv, pid) {
+export async function readPending(db, pid) {
   if (!pid) return null;
-  const raw = await kv.get("pd:" + pid);
-  if (!raw) return null;
-  try { return JSON.parse(raw); } catch { return null; }
+  const row = await db.prepare(
+    "SELECT email, code, session FROM pending_logins WHERE id = ? AND created_at >= ?"
+  ).bind(pid, nowSec() - PEND_TTL).first();
+  return row || null;
 }
 
 // 승인 = 요청했던 브라우저가 가져갈 세션을 자리에 놓아 두는 것.
-export async function approvePending(kv, pid, session) {
-  const rec = await readPending(kv, pid);
-  if (!rec) return false;
-  rec.session = session;
-  await kv.put("pd:" + pid, JSON.stringify(rec), { expirationTtl: PEND_TTL });
-  return true;
+export async function approvePending(db, pid, session) {
+  const r = await db.prepare(
+    "UPDATE pending_logins SET session = ? WHERE id = ? AND created_at >= ?"
+  ).bind(session, pid, nowSec() - PEND_TTL).run();
+  return !!(r.meta && r.meta.changes);
 }
 
 // 한 번만 가져갈 수 있다 — 세션을 넘긴 자리는 즉시 지운다.
-export async function claimPending(kv, pid) {
-  const rec = await readPending(kv, pid);
+export async function claimPending(db, pid) {
+  const rec = await readPending(db, pid);
   if (!rec || !rec.session) return null;
-  await kv.delete("pd:" + pid);
+  await db.prepare("DELETE FROM pending_logins WHERE id = ?").bind(pid).run();
   return rec.session;
 }
