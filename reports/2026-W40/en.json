@@ -1,43 +1,36 @@
 {
   "edition": "2026-W40",
   "lang": "en",
-  "change": "If the week has one movement, it is that the material going into models started carrying a price. A U.S. appeals court declined to treat copying publisher content for unauthorized AI training as fair use, and the Tokyo District Court dismissed a voice actor's claim while holding that a voice is protected by publicity rights. Neither side got all of what it asked for, but the standard stayed. In the same week IMPF and IMPEL drew a line that compositions must be paid like recordings in AI licensing, Suno signed with WMG and BMG, and Mentat let publishers check for themselves how often AI cites their books. The argument moved from whether the material can be used to what it costs.",
-  "links": [
+  "thesis": "More AI rules landed this week, and what jammed was not the rule but the cost of checking whether anyone kept to it.",
+  "ground": "Drawing the line is the cheap part. The expensive part is someone paying to look at whether the line was crossed, and across this week's cards, wherever there was nobody to cover that bill the rule either sat on paper or was swapped for a blanket ban.",
+  "evidence": [
     {
-      "headline": "항소법원, 톰슨 로이터 AI 저작권 승소 유지",
-      "url": "https://axitnow.com/en/?c=politics:rossappeal"
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/en/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/taiwandeepfake.png",
+      "role": "A deepfake law was already on the books for an election and drew not a single takedown request, which holds the first half of the thesis: the jam is not in the rule."
     },
     {
-      "headline": "츠다 켄지로 AI 음성 소송 기각, 목소리 권리는 인정됐다",
-      "url": "https://axitnow.com/en/?c=games:games-tsuda-voice-ruling"
+      "section": "books",
+      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
+      "url": "https://axitnow.com/en/?c=books:books-springer-ai-slop",
+      "image": "https://axitnow.com/pipeline/media/books-springer-ai-slop.jpg",
+      "role": "It holds the part where nobody pays to check and the bill lands on the buyer at the end of the chain, in this case a library that had already bought the Springer titles."
     },
     {
-      "headline": "독립 퍼블리셔들이 내놓은 AI 라이선스 원칙",
-      "url": "https://axitnow.com/en/?c=music:music-impf-impel-ai-licensing"
+      "section": "design",
+      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
+      "url": "https://axitnow.com/en/?c=design:design-nasa-brand-trust-ai-imagery",
+      "image": "https://axitnow.com/pipeline/media/design-nasa-brand-trust-ai-imagery.jpg",
+      "role": "It shows the other side: when per-item checking gets too expensive, an organization stops checking and takes the blanket ban instead, which is what NASA did with trust as its core asset."
     },
     {
-      "headline": "WMG·BMG와 손잡은 Suno v6, 아티스트 측 반응은 제각각이다",
-      "url": "https://axitnow.com/en/?c=music:music-suno-v6-label-deals-artist-reps"
-    },
-    {
-      "headline": "AI가 내 책을 얼마나 인용했는지 눈으로 확인한다",
-      "url": "https://axitnow.com/en/?c=books:books-mentat-licensing"
+      "section": "music",
+      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
+      "url": "https://axitnow.com/en/?c=music:music-musixmatch-lyrics-llm",
+      "image": "https://axitnow.com/pipeline/media/music-musixmatch-lyrics-llm.png",
+      "role": "The thesis closes here, where checking is no longer a step inside a rule but a product with a price, and the party paying for it is the party generating, with Musixmatch selling Sentinel and Suno signing up."
     }
-  ],
-  "sections": {
-    "books": "Organizational AI use rose to 63% while individual use fell from 46% to 38%. The gap is not tooling but the absence of a safe place to admit it. Meanwhile AI arrived first in translation and illustration, not in writing.",
-    "design": "Photoshop and Lightroom moved into the Gemini chat, Adobe's plugin into ChatGPT, Cinema 4D and ClassCAD onto MCP. The work surface is leaving the canvas. And all 15 AI-built sites audited failed WCAG level A.",
-    "gadgets": "Hearing assistance on Meta's smart glasses cleared the FDA and now costs $149 after a 30-day trial; Legato Frames start at $999. AI is moving from a line on a spec sheet to an assistive device you charge for.",
-    "games": "Platforms are opening the door: ONE Store now lets any developer publish AI-made games and Meta shipped Horizon Studio. Builders are going the other way, with the Super Mario Galaxy PC port leading on '100% human-written' code.",
-    "movies": "Terrarium shoots only actors on an empty stage and fills locations and props with AI, while Jia Zhangke keeps AI inside the story and out of production. How far you take it has become part of a film's identity.",
-    "music": "Suno signed WMG and BMG, IMPF and IMPEL insisted compositions be paid like recordings, and Musixmatch turned detection into a product and sold it to Suno. Distribution and policing are growing at the same rate.",
-    "politics": "The White House signed an order replacing 'AI' with 'superintelligence' and the U.S. and China opened a new SI dialogue. The same week the FTC and California opened safety inquiries into OpenAI. Vocabulary and enforcement moved together.",
-    "science": "An Anthropic LLM proved percolation transitions stay continuous on lattices from 3 to 10 dimensions, and Chalmers' AI scientist ran its own yeast experiments. The same week, readers of inaccurate AI summaries scored 44.8% on memory accuracy. Verification is part of the result."
-  },
-  "dots": "The four cards the network tied together are all courtroom items. The Tsuda Kenjiro ruling in games and the Japanese court decision in music are the same Tokyo judgment read in two industries' vocabularies, and music's 'not fair use' and politics' 'Thomson Reuters win upheld' are one appeal seen from two angles. Open a single section and you see one voice-actor suit and one copyright precedent. Stack all four and the line is single: when a human voice or a human sentence becomes model input, a rights holder attaches to that input. That is why Mentat's citation counts, Musixmatch's Sentinel detection and the Korean publishing push for AI labels do not read as separate news this week. A ruling sets the standard, and the tools for counting it follow immediately.",
-  "next": [
-    "The European Commission's consultation on copyright and generative AI closes on 3 November, and it asks about performers imitated by AI. Music and publishing have to prepare what they file now.",
-    "Under the White House order, the science and technology adviser delivers a federal definition of superintelligence to the president within 60 days. With the first two AI-agent bills already defining 'agent' differently, that definition becomes the reference point.",
-    "Two dates are fixed: the EU's nudify-AI ban takes effect on 2 December, Kling 4.0 arrives in October and Alibaba has said it will unveil its video model in November."
   ]
 }

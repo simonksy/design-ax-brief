@@ -51,6 +51,25 @@ def assert_no_duplicates(section, today, days):
     if dups:
         raise DuplicateCardError("; ".join(dups))
 
+def warn_untranslated_today(section, today):
+    """오늘 카드가 5개 언어를 다 갖췄는지 본다. 모자라면 경고만 하고 빌드는 계속한다.
+
+    번역은 cards.json에 들어가는데 roll은 그걸 news_data.json으로 옮긴 다음이다.
+    순서가 어긋나면 오늘 카드가 text 없이 남고, 사이트는 멈추지 않는다 — 한국어
+    독자에게 원문이 '미번역' 회색 안내를 달고 그대로 나간다. 조용히 틀리는 게
+    제일 나쁘다. 과거 카드는 백필이 진행 중이라 검사하지 않는다.
+
+    빌드를 실패시키지는 않는다. 번역이 늦은 날에도 카드는 나가야 하고, 그 판단은
+    사람이 한다 — 경고를 보고 다시 돌릴지, 그대로 낼지."""
+    for c in today.get("cards", []):
+        text = c.get("text") or {}
+        missing = [l for l in LANGS if not text.get(l)]
+        if missing:
+            print(f"WARN: [{section}] {c.get('id')} 오늘 카드에 번역이 없다 "
+                  f"({', '.join(missing)}) — roll 전에 번역을 넣었는지 확인하라",
+                  file=sys.stderr)
+
+
 def split_teaser(data):
     """Teaser paywall split — v2 (revises the v1 "first-paragraph teaser + removed
     locked cards" model after live user feedback: the free card's deep-dive should
@@ -274,6 +293,10 @@ def main():
                     help="absolute origin for OG urls/images in share pages")
     a = ap.parse_args()
     data = json.load(open(a.inp, encoding="utf-8"))
+    # 언어 루프 '바깥'에서, flatten 전 원본을 본다 — localize가 text를 걷어낸 뒤에
+    # 검사하면 모든 카드가 미번역으로 보인다.
+    for sec, s_ in (data.get("sections") or {}).items():
+        warn_untranslated_today(sec, (s_ or {}).get("today") or {})
     out_dir = os.path.dirname(os.path.abspath(a.out))
     prem_dir = os.path.join(out_dir, "premium")
     if a.share_root:

@@ -1,0 +1,131 @@
+{
+  "cards": {
+    "marketing/monks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "S4 Capital已开始让AI代理在无人盯着的情况下连续工作数日。有些运行持续36至48小时，规模较大的项目可能要花上好几天，S4 Capital旗下Monks的首席AI与营收官Wesley ter Haar说。"
+        },
+        {
+          "t": "p",
+          "x": "这些工作大多是为自家软件写代码：代码精确且受规则约束，所以把这类任务交出去“几乎不用多想”。ter Haar的说法是：“我们有编码代理连续工作36至48小时，而且没有出错。”"
+        },
+        {
+          "t": "p",
+          "x": "定规矩的仍然是人。运行开始前，员工先写下代理要满足的需求；此后代理自行分工，按需求测试自己写的代码，并互相评审。几个月前，这套脚手架还得由开发者手工搭建。“现在的模型真的已经不需要那些了，”ter Haar说，“它们会自己搭起代理化的配置。”"
+        },
+        {
+          "t": "p",
+          "x": "下一步是营销。Monks正在把这套做法搬到社交和效果投放上，让代理等到出现趋势、评论集中或表现不佳的帖子再出手，并以互动数据作为反馈回路。“目前这还主要基于软件，但方向很清楚，”ter Haar说。一家未披露名称的客户将在明年初把社交业务迁到这里。"
+        },
+        {
+          "t": "p",
+          "x": "钱的流向也在变：token 的成本现在从ter Haar所说的人才预算中支出，两周的冲刺压缩到两天后，Monks正在讨论是否要“重新加入一些摩擦”，让人仍能贡献观点。"
+        }
+      ]
+    },
+    "marketing/nano-banana-21": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
+          "cap": "Nano Banana。"
+        },
+        {
+          "t": "p",
+          "x": "Google今天发布Nano Banana 2.1，它已经在Google搜索的AI Mode中运行。Nano Banana 2.1是Google最新的图像生成与编辑模型。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，Nano Banana 2.1“全面超越我们此前的模型，在视觉设计、基于蒙版的编辑和主体一致性上有明显跃进，帮助你生成看起来更自然的图像。”"
+        },
+        {
+          "t": "p",
+          "x": "Google搜索产品VP Robby Stein补充说，Nano Banana 2.1已经进入AI Mode。他在X上写道：“Nano Banana 2.1正在搜索的AI Mode中逐步推出！”他说使用方法是“打开Google应用，点按搜索框下方的🍌图标即可开始创作”。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
+          "cap": "Google应用里的香蕉按钮。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
+          "cap": "点按图标后出现的界面。"
+        },
+        {
+          "t": "p",
+          "x": "Google一年前先把Nano Banana带进Google Lens，去年12月扩大到AI Mode，7月又带到AI Overviews。AI Overviews可能还没有用上2.1版本，但AI Mode已经在用。"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+          "cap": "图片来源：Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest 周二展示了一项新功能：用 AI 处理你在美容类 Pin 上保存的灵感，比如发型和美甲创意，把它们变成可以带去沙龙的具体方案。"
+        },
+        {
+          "t": "p",
+          "x": "“Beauty Guides”由该公司的视觉识别与生成式 AI 技术 Pinterest Intelligence 驱动，会把 Pin 转译成发型师和美甲师使用、普通用户未必知道的说法，例如“balayage”“root melt”或“almond nails”。"
+        },
+        {
+          "t": "p",
+          "x": "这项功能嵌进了人们本来就在做的事——把参考照片带到沙龙；而在商量造型的哪一部分要改时，手边有准确的术语同样有用。"
+        },
+        {
+          "t": "p",
+          "x": "指南还会给出便于安排到店的信息，比如每个环节大约需要的时间和花费。（Balayage 的价格可达数百美元。）"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
+          "cap": "图片来源：Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "在应用内点按“Get the Guide”按钮即可看到指南，里面会说明具体该提什么要求、需要多长时间、价格区间，以及多久要修剪、补色或补做等维护要求。上线之初，该功能适用于与发型、发色、指甲形状和饰面相关的 Pin。"
+        }
+      ]
+    },
+    "marketing/mueller-ai-crawlers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
+          "cap": "Search Engine Journal"
+        },
+        {
+          "t": "p",
+          "x": "Google 的 John Mueller 说，AI 训练爬虫通常不会给站长留下提交 sitemap 的入口；若希望这些爬虫找到自己的内容，可以沿用默认文件名或提供 RSS 源。"
+        },
+        {
+          "t": "p",
+          "x": "这番话出自 10 月 1 日上线的 Google 播客 Search Off the Record，该期主题为“Do sitemaps still matter?”，他与 Martin Splitt 一同出镜。他还说，自己的服务器日志里见过 AI 爬虫访问 sitemap 和 RSS 文件。"
+        },
+        {
+          "t": "p",
+          "x": "“我在自己的服务器日志里见过，某个 AI 爬虫访问了我的 sitemap 文件，”他说，RSS 文件也是一样。他没有点出具体爬虫，并表示不清楚 AI 公司是否把这件事写进文档，也不知道它们拿这些文件做什么。"
+        },
+        {
+          "t": "p",
+          "x": "AI 训练爬虫的不同之处在于，“它们通常没有任何 Console，也没有可以提交 sitemap 文件的设置”。对希望内容进入 AI 系统的站点，他建议“要么沿用通用命名，叫 sitemap.xml，要么把重点放在 RSS 源上”。他指出，源更容易被找到，因为通常会从页面的 HTML head 里链接出去。"
+        },
+        {
+          "t": "p",
+          "x": "若 sitemap 用了不常见的文件名、又没写进 robots.txt，它在未曾提交的系统面前就一直是隐身的。被问到 llms.txt 能否取代 XML sitemap 时，Mueller 把这个 Markdown 文件比作 HTML sitemap，并说它缺少严格的格式，Google 的系统无法当作 sitemap 使用。"
+        }
+      ]
+    }
+  }
+}

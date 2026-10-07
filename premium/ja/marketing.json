@@ -1,0 +1,131 @@
+{
+  "cards": {
+    "marketing/monks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "S4 CapitalはAIエージェントに、誰も見ていない状態で何日も作業させ始めた。36〜48時間続く実行もあり、規模の大きな案件では数日かかると、S4 Capital傘下MonksのチーフAI・収益責任者Wesley ter Haarは語る。"
+        },
+        {
+          "t": "p",
+          "x": "その多くは自社ソフトウェアのコーディングだ。コードは厳密でルールがはっきりしているため、こうした仕事を渡すのは「ほとんど考えるまでもなかった」。ter Haarはこう言う。「36〜48時間働き、ミスをしないコーディングエージェントがいた。」"
+        },
+        {
+          "t": "p",
+          "x": "条件を決めるのは今も人間だ。実行の前に、担当者がエージェントが満たすべき要件を書く。そこから先はエージェントが仕事を分け、書いたコードを要件に照らして試し、互いにレビューする。数カ月前までは、その土台を開発者が手で組む必要があった。「今のモデルには、もうそれが本当に要らない」とter Haarは言う。「自分でエージェント構成を立ち上げる。」"
+        },
+        {
+          "t": "p",
+          "x": "次はマーケティングだ。Monksはこの仕組みをソーシャルとパフォーマンスに広げている。エージェントはトレンドやコメントの急増、成果の出ない投稿を待って動き、反応データをフィードバックの輪として使う。「今のところ大半はソフトウェア中心だが、向かう先は明らかだ」とter Haarは述べた。名前の出ていないクライアントが来年初めにソーシャル業務をここへ移す。"
+        },
+        {
+          "t": "p",
+          "x": "金の流れも変わる。トークン代は今、ter Haarが人材予算と呼ぶ枠から出ており、2週間のスプリントが2日に縮まったことで、Monksは人が視点を加えられるよう「摩擦をいくらか戻す」かを議論している。"
+        }
+      ]
+    },
+    "marketing/nano-banana-21": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
+          "cap": "Nano Banana。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは本日Nano Banana 2.1を公開し、すでにGoogle検索のAI Mode内で動いている。Nano Banana 2.1はGoogleの最新の画像生成・編集モデルである。"
+        },
+        {
+          "t": "p",
+          "x": "Googleによれば、Nano Banana 2.1は「あらゆる面で従来のモデルを上回り、ビジュアルデザイン、マスクベースの編集、被写体の一貫性で大きく前進し、より自然な見た目の画像を作る助けになる」という。"
+        },
+        {
+          "t": "p",
+          "x": "Google検索のプロダクト担当VP、Robby Steinも、Nano Banana 2.1がすでにAI Modeに入っていると補足した。Xには「Nano Banana 2.1が検索のAI Modeで展開中だ」と書き、使い方は「Googleアプリを開き、検索ボックスの下の🍌アイコンをタップすれば制作を始められる」と説明した。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
+          "cap": "Googleアプリのバナナボタン。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
+          "cap": "アイコンをタップしたときの画面。"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはNano Bananaを1年前にまずGoogle Lensへ載せ、昨年12月にAI Modeへ広げ、7月にはAI Overviewsにも持ち込んだ。AI Overviewsはまだ2.1を使っていない可能性があるが、AI Modeでは使われている。"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+          "cap": "画像クレジット: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "Pinterestは火曜、保存した美容系Pin——ヘアやネイルのアイデア——の着想をAIで扱い、サロンに持っていける実行プランに変える新機能を見せた。"
+        },
+        {
+          "t": "p",
+          "x": "「Beauty Guides」を動かすのは、同社のビジュアル認識と生成AIの技術Pinterest Intelligenceだ。普段のユーザーには馴染みのない「balayage」「root melt」「almond nails」といった、スタイリストやネイリストが使う言葉にPinを置き換える。"
+        },
+        {
+          "t": "p",
+          "x": "人がすでにやっていること——お手本の写真をサロンに持ち込むこと——にそのまま重なる機能だが、どこを変えるか相談するときに正しい用語が手元にあるのも役に立つ。"
+        },
+        {
+          "t": "p",
+          "x": "ガイドは来店の段取りに使える情報も示す。工程ごとにかかる時間と費用だ。（Balayageは数百ドルに達する。）"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
+          "cap": "画像クレジット: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "ガイドはアプリ内の「Get the Guide」ボタンを押すと現れ、具体的に何を頼めばよいか、どれくらい時間がかかるか、価格帯、そしてカットやトーン調整、リタッチをどの程度の頻度で行う必要があるかという手入れの条件を示す。提供開始時点では、髪型、カラー、ネイルの形、仕上げに関するPinで使える。"
+        }
+      ]
+    },
+    "marketing/mueller-ai-crawlers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
+          "cap": "Search Engine Journal"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのJohn Muellerによれば、AI学習クローラーはサイト運営者にsitemapを提出する手段を用意していないことが多い。そうしたクローラーに自分のコンテンツを見つけてほしいサイトには、既定のファイル名かRSSフィードを薦めている。"
+        },
+        {
+          "t": "p",
+          "x": "発言は、10月1日公開のGoogleのポッドキャストSearch Off the Recordの回「Do sitemaps still matter?」で、Martin Splittとともに語ったものだ。自分のサーバーログで、AIクローラーがsitemapやRSSのファイルにアクセスするのを見たとも述べている。"
+        },
+        {
+          "t": "p",
+          "x": "「自分のサーバーログで、あるAIクローラーがsitemapファイルにアクセスするのを見た」と彼は言う。RSSファイルでも同じだった。クローラー名は挙げず、AI企業がこれを文書化しているのか、ファイルを何に使っているのかは分からないとした。"
+        },
+        {
+          "t": "p",
+          "x": "AI学習クローラーが違うのは「sitemapファイルを提出できるConsoleのようなものも設定も、たいてい存在しない」点だ。コンテンツをAIのシステムに載せたいサイトには「一般的な名前のままsitemap.xmlとするか、RSSフィードに力を入れるかのどちらかだ」と勧めた。フィードはページのHTMLのhead部分からリンクされているのが普通なので見つけやすい、とも指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "珍しいファイル名にしてrobots.txtにも書かないsitemapは、提出していないシステムからは見えないままだ。llms.txtがXMLのsitemapを置き換えられるかと問われると、MuellerはそのMarkdownファイルをHTMLのsitemapになぞらえ、厳密な形式がないためGoogleのシステムはsitemapとしては使えないと答えた。"
+        }
+      ]
+    }
+  }
+}
