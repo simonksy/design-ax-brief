@@ -5612,6 +5612,147 @@
           "x": "每一步的成本都清晰可见，AI智能体可帮助用户在无需编程的情况下搭建工作流。Mosa现已向个人创作者和自由职业者开放，也面向工作室、代理商和内部团队，并为大型机构提供企业版方案。"
         }
       ]
+    },
+    "movies/movies-google-synthid-detector-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "随着AI工具越来越好用、越来越强大，清楚了解网上所见内容的背景，有助于你判断该信任什么。自2023年推出Google SynthID以来，我们通过在图像、视频和音频中加入不可察觉的水印，帮助人们识别AI-generated媒体。迄今为止，我们已为超过180 billion 个图像和视频，以及240,000年时长的音频内容添加了水印。"
+        },
+        {
+          "t": "p",
+          "x": "去年，我们推出了SynthID Detector的早期版本，帮助媒体从业者核实AI-generated内容。现在，我们将它开放给所有人，即日起在全球以英文提供。"
+        },
+        {
+          "t": "p",
+          "x": "借助新的SynthID Detector，任何人都能轻松查验一个图像、视频或音频文件是否由Google或其合作伙伴（包括OpenAI、NVIDIA、Kakao，以及即将加入的Apple）的AI生成。"
+        },
+        {
+          "t": "p",
+          "x": "这一工具将与Search、Gemini应用和Chrome中内置的验证功能并列，这些功能如今每天经常处理超过1 million 次请求。这一切都是我们持续工作的一部分：为你提供更多关于网上媒体的背景信息，让你放心浏览网络。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+        }
+      ]
+    },
+    "movies/movies-abundantia-aion-standalone-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+          "cap": "《Subedaar》《Maa Behen》《Daldal》；Vikram Malhotra（小图）"
+        },
+        {
+          "t": "p",
+          "x": "在推出AI制作部门Abundantia AiOn一年后，印度的Abundantia Entertainment正将其转型为完全独立的原生AI工作室，力求吸纳来自非传统渠道的大量创意。"
+        },
+        {
+          "t": "p",
+          "x": "“AiOn将开发自己的故事、创作自己的内容，制作完全生成和混合形式的作品，并管理整个生态系统，就像Abundantia作为独立工作室所做的那样。”创始人兼CEO Vikram Malhotra对Deadline表示。他说AiOn将于2027年以成熟工作室的形态启动。"
+        },
+        {
+          "t": "p",
+          "x": "目前由Malhotra领导AiOn。“眼下它会留在Abundantia内部，但我们正以赋予它独立身份和业务范围的方式来打造它……这真正是技术与艺术的交汇。”"
+        },
+        {
+          "t": "p",
+          "x": "他说，过去六个月里，他收到来自“从未写作、拍过电影或属于传统电影制作生态”的人的提案，是以往的三倍，并举出Curry Barker和Kane Parsons等导演，作为创意“民主化”的证据。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，Abundantia还与AI视频公司InVideo合作成立电影工作室，开发五部电影。"
+        }
+      ]
+    },
+    "movies/movies-authors-first-book-adaptation-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "由私募股权老将Robert Hamwee创立的Authors First承诺，让科幻和奇幻作家尽可能贴近自己的原本构想来改编作品。它借助Seedance 2.5、Nano Banana等AI生成工具以及包括Blender在内的“其他技术”，在不受Hollywood制片厂预算限制的情况下打造改编作品。"
+        },
+        {
+          "t": "p",
+          "x": "公司在完成超过$10 million的种子轮融资后成立，参投方包括Hamwee、Brand Foundry和The Family Office of David Blitzer。Hamwee出任CEO，团队成员包括来自Hulu、Warner Bros.和Universal的资深人士。"
+        },
+        {
+          "t": "p",
+          "x": "其首个项目是《Genghis: Birth of an Empire》，改编自Conn Iggulden 2007年的书《Wolf of the Plains》。约25人参与了故事、镜头角度和对白的工作，但项目大部分由AI生成。Iggulden表示，由于历史史诗所需的预算，此前的邀约都不了了之，否则这部作品永远不会被改编。"
+        },
+        {
+          "t": "video",
+          "yt": "KarPbRqW_U8"
+        }
+      ]
+    },
+    "movies/movies-sinima-creative-ownership-platform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sinima在完成测试后刚刚上线，目标是成为电影人和创作者托管、保护、监测其电影和视频并从中获利的新空间，重点在于它所说的“创作所有权”。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+          "cap": "图片来源：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sinima由包括一名Vimeo前VP在内的创始人创立，瞄准两个问题：创作者无法确定自己上传的内容是否被用于训练AI模型，而AI公司用真实影像进行训练的合法途径有限。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+          "cap": "图片来源：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "功能包括托管、私密客户审阅、所有权与来源记录、匹配监测，以及由创作者掌控的AI使用许可。每次上传都会获得独特的数字指纹和附带公开验证链接的所有权证书，详细信息记录在C2PA-format清单中。"
+        },
+        {
+          "t": "p",
+          "x": "当作品被授权用于AI训练时，创作者可获得买方所付金额的85%。按现行价目表，符合条件且已完成版权清理的影像每小时估值$4,000至$7,500，因此每个清理小时有$3,400至$6,375归创作者所有。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+          "cap": "图片来源：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sinima可免费开始使用，订阅方案每月$15起。"
+        }
+      ]
+    },
+    "movies/movies-loftapps-mad-god": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+          "cap": "使用LOFT制作中的Phil Tippett《Mad God》续作画面。图片由LOFTAPPS提供。"
+        },
+        {
+          "t": "p",
+          "x": "总部位于Berkeley, California的LOFTAPPS宣布，其生成式AI制作软件LOFT将在10月12-16日于Turin(Italy)举行的VIEW Conference 2026上首次亮相欧洲。与会者还将独家抢先看到Phil Tippett的stop-motion长片Mad God的续作，该片正在制作中，由LOFT提供支持。"
+        },
+        {
+          "t": "p",
+          "x": "LOFT在单一系统中管理跨越复杂管线和多个AI模型的资产、创作意图、提示词、来源记录、审阅和制作资源。它作为AI-first产品打造，同时支持混合工作流，目前正通过引导式上手流程向部分客户交付。"
+        },
+        {
+          "t": "p",
+          "x": "LOFTAPPS联合创始人兼CEO Gary Mundell表示：“它的价值在于一套互联的制作流程，从根本上改变了制作工作的生成、倍增和管理方式。”"
+        },
+        {
+          "t": "p",
+          "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
+        }
+      ]
     }
   }
 }

@@ -5753,6 +5753,91 @@
           "x": "Authors Guild CEO Mary Rasenberger said the ruling “vindicates copyright law. It clarifies that one cannot steal someone else's works to train an AI system that displaces the very works the AI was trained on.”"
         }
       ]
+    },
+    "books/books-simon-schuster-ai-tracking-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "The AI battle in publishing has expanded to include employees of Simon & Schuster who worry it will be used to monitor their performance. Staff are gathering signatures for an open letter to CEO Greg Greeley that cites “strong opposition” to using Skan AI or similar software that analyzes workplace activity — “at the apparent urging of KKR,” the private equity firm that purchased S&S in 2023."
+        },
+        {
+          "t": "p",
+          "x": "“Introducing a technology that tracks employees’ keystrokes and ‘monitors compliance continuously’ would be a direct transgression against our privacy and dignity as workers,” the letter reads. Its unnamed authors are seeking 250 signatures; S&S has 1,500 employees."
+        },
+        {
+          "t": "p",
+          "x": "In an October 6 memo, Greeley said no plans are underway to use AI to track performance. Blueprint from Skan AI is “one possible avenue being explored” to reduce administrative tasks, but “no decision has been made to use Blueprint or any other productivity-monitoring or workflow-analysis tool, and there is no company-wide rollout underway or under consideration.”"
+        }
+      ]
+    },
+    "books/books-trace-ai-licensed-content": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+          "cap": "Priya Madina from Springer Nature, Tasha Mellins-Cohen from COUNTER, Todd Toler from Ithaka S+R, and Todd Carpenter from NISO announce the TRACE initiative during the STM conference prior to the Frankfurt Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems brings together the scholarly publishing and AI communities to accelerate the technical infrastructure needed to improve the trustworthiness of AI systems in scholarly communication, supporting content exchange standards, provenance tracking mechanisms and usage reporting protocols."
+        },
+        {
+          "t": "p",
+          "x": "It launches with funding for three parallel projects: COUNTER’s phase two AI usage metrics, including inference-time usage outside publishers’ platforms; a NISO pilot to define a minimum viable metadata model for provenance and attribution in AI systems; and a three-month Ithaka S+R study of how AI agents discover scholarly content, authenticate through a user’s entitlements and create a credible record of content use."
+        },
+        {
+          "t": "p",
+          "x": "Research has documented hallucinated references at rates of approximately 20% to 40% in general LLM outputs. “How can we trust a result if we can’t see where it was derived from?” writes NISO’s Todd Carpenter."
+        }
+      ]
+    },
+    "books/books-pangram-ai-detector-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+          "cap": "Max Spero, chief executive of Pangram"
+        },
+        {
+          "t": "p",
+          "x": "The co-founder of Pangram has defended its AI detection tool from suggestions that it disproportionately penalises authors of colour, while saying there has been a “huge upswing” in adoption of the platform “in the literary world”."
+        }
+      ]
+    },
+    "books/books-boersenblatt-ki-uebersetzen-umfrage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+          "cap": "© istockphoto"
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, as the Frankfurter Buchmesse (Frankfurt Book Fair) opened, the digital association Bitkom published a representative survey on KI in books that is likely to alarm translators: according to the association, 79 % of respondents support KI in book translation. By contrast, only 29 % would read a book written entirely by KI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+          "cap": "The bar chart on KI in books shows 79 % for translations, 72 % for labelling and 29 % for KI-Bücher. Source: Bitkom / Graphic: Börsenblatt (KI-generiert)"
+        }
+      ]
+    },
+    "books/books-redpine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+          "cap": "Anders Hammarbäck, Redpine's CEO"
+        },
+        {
+          "t": "p",
+          "x": "Five academic publishers – BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing and Wanfang Data – have struck a deal with AI company Redpine to provide AI agents with licensed access to 20 million peer-reviewed research papers."
+        }
+      ]
     }
   }
 }

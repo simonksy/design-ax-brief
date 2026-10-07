@@ -6749,6 +6749,171 @@
           "x": "Un agente de modelado de armaduras genera armado 3D directamente a partir de una especificación en PDF adjunta. Argus también incluye un módulo de QA/QC en el que el usuario describe reglas en lenguaje llano y la AI crea las comprobaciones correspondientes. BIMlogiq también puede desarrollar agentes especializados entrenados con los datos y diseños anteriores de una firma."
         }
       ]
+    },
+    "design/design-mecagent-v2-gpt6-astra-solidworks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MecAgent ha lanzado la segunda versión de su software de AI para CAD, que usa su arnés de agentes para recurrir a GPT-6 Astra y generar diseños CAD directamente dentro de un paquete CAD existente."
+        },
+        {
+          "t": "p",
+          "x": "El CAD Agent trabaja dentro de una sesión abierta de Solidworks –con capacidad para Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD y STEP-to-SLDPRT con un árbol de operaciones reconstruido–: modela piezas, las añade a ensamblajes, aplica materiales y cambia nombres, exporta o escribe macros en el árbol de operaciones."
+        },
+        {
+          "t": "p",
+          "x": "Entre otras tareas que puede ejecutar figuran la limpieza del árbol de operaciones, la creación de movimiento a partir de texto, la traducción y exportación de archivos CAD, la verificación de normas, assembly-to-BOM y la creación de vistas explosionadas."
+        },
+        {
+          "t": "p",
+          "x": "Una demostración muestra un helicóptero RC –unas 56 piezas y dos subensamblajes, con movimiento que vincula engranajes y rotores, pero sin electrónica– construido en menos de cinco horas de ejecución sin supervisión."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de generar piezas individuales, MecAgent avanza hacia tareas de diseño extensas y de varias etapas dentro de software CAD paramétrico estándar de la industria."
+        },
+        {
+          "t": "p",
+          "x": "La propia MecAgent describe esta capacidad más amplia como “spec-to-CAD”. Un ingeniero puede aportar un conjunto de requisitos y dejar que el agente ejecute la secuencia de operaciones CAD necesaria para construir el diseño, en lugar de modelar explícitamente cada componente."
+        },
+        {
+          "t": "p",
+          "x": "Según el CPO de MecAgent, Alexandre Senet, una variante para Onshape figura en la hoja de ruta de MecAgent para los próximos meses, y su actual copiloto de AI supera las 35,000 instalaciones."
+        },
+        {
+          "t": "p",
+          "x": "Los lectores de DEVELOP3D pueden probar MecAgent V2.0.0 con su plan gratuito, que incluye 3,000 tokens gratuitos."
+        },
+        {
+          "t": "video",
+          "yt": "_twtNuzZw-8"
+        }
+      ]
+    },
+    "design/design-logo-design-agent-skill-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
+        },
+        {
+          "t": "p",
+          "x": "El repositorio público logo-design-skill, MIT-licensed (con licencia MIT), empaqueta un flujo de trabajo de logo-design por etapas para Claude Code, Gemini CLI, Codex CLI y otros agentes compatibles con skills: va de un brief a conceptos SVG probados y, tras la aprobación, a un kit de identidad más amplio."
+        },
+        {
+          "t": "p",
+          "x": "El proceso empieza con un brief y una investigación de la categoría, y luego pide de ocho a 12 conceptos de una línea, de los cuales tres se construyen en SVG y se prueban. En un punto de control obligatorio, el agente muestra las direcciones, recomienda una y espera; el sistema de color, los lockups, los iconos y las guías llegan solo después de que el usuario aprueba una dirección."
+        },
+        {
+          "t": "p",
+          "x": "Utilidades en Python sin dependencias auditan los SVGs, renderizan PNGs y montan hojas y tableros de conceptos. Las hojas de prueba cubren el renderizado a 16 píxeles, variantes a una tinta e invertidas, pruebas de entrecerrar los ojos y de espejo, mockups y una prueba de estantería frente a la competencia; también puede exportar recursos de favicon, app-icon y web-manifest."
+        },
+        {
+          "t": "p",
+          "x": "Una biblioteca de referencia reúne más de 1,400 logos SVG reales clasificados por tipo de marca, técnica, geometría, tono e industria, presentados como material para estudiar su construcción y evitar parecidos, no para copiarlos."
+        },
+        {
+          "t": "p",
+          "x": "Análisis: el punto de aprobación prioriza un trabajo revisable sobre la ejecución desatendida. La evidencia sobre la calidad de los resultados sigue siendo interna —28 briefs ficticios—, no una validación independiente."
+        }
+      ]
+    },
+    "design/design-bounded-delegation-ai-authority": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
+          "cap": "Imagen creada por el autor con la generación de imágenes de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta de IA agrupa comentarios de clientes y llama al tema más amplio “fricción de precios”. Para cuando alguien aprueba su recomendación, la decisión importante puede haberse tomado ya. La capacidad describe lo que un sistema puede producir; la autoridad tiene que ver con lo que la organización está dispuesta a dejarle decidir, moldear o poner en marcha."
+        },
+        {
+          "t": "p",
+          "x": "Gale Robins llama a esta distinción delegación acotada: la autoridad de la IA debe estrecharse a medida que aumentan el impacto y la responsabilidad; amplia en la generación, inspeccionable en el análisis y mínima en el compromiso."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
+          "cap": "La autoridad de la IA debe estrecharse a medida que aumentan las consecuencias y la irreversibilidad."
+        },
+        {
+          "t": "p",
+          "x": "Cuatro preguntas fijan el límite: ¿Qué pasa si nos equivocamos? ¿Quién sigue siendo responsable? ¿Se puede inspeccionar el trabajo? ¿Es generación, análisis o compromiso? “Human in the loop” no es un modelo operativo; los equipos necesitan traspasos deliberados."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
+          "cap": "Los Judgment Points marcan dónde la exploración apoyada por IA se convierte en un compromiso asumido por personas."
+        },
+        {
+          "t": "p",
+          "x": "Los Judgment Points del Discovery Judgment Framework crean límites naturales. La delegación acotada no es un argumento para usar menos IA, sino para ser más precisos sobre la autoridad."
+        }
+      ]
+    },
+    "design/design-system-coding-agent-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+        },
+        {
+          "t": "p",
+          "x": "El autor construyó un sistema de diseño antes de que los agentes empezaran a escribir UI: tokens de tres niveles, 14 componentes de Angular, declaraciones de tipos y un llms.client.txt incluido en el paquete npm, además de un resolvedor de tokens sobre MCP. Después se preguntó si algo de eso cambia lo que produce un agente de código."
+        },
+        {
+          "t": "p",
+          "x": "La prueba: un panel de Angular, un prompt idéntico byte a byte, sesiones nuevas y cinco brazos: solo especificación y frames de Figma (A), más una guía de estilo en prosa (A′), más los paquetes npm (B), más llms.client.txt (C), más el resolvedor MCP (D). Treinta ejecuciones puntuadas, con evaluadores y criterios de falsación fijados de antemano."
+        },
+        {
+          "t": "p",
+          "x": "Distribuir el sistema es una función escalón; ponerlo por escrito no. Sin el paquete, el agente escribe a mano 12 o 13 de 13 componentes y la app acumula unas 90 propiedades personalizadas; con él, cero y cero."
+        },
+        {
+          "t": "p",
+          "x": "La accesibilidad importó más que la consistencia: los agentes acertaron con los colores desde Figma, pero entregaron fallos graves de contraste. En 30 ejecuciones, los agentes nunca alucinaron la API de los componentes. Usar la biblioteca costó más por generación, y el resolvedor MCP no aportó ninguna mejora medible frente al archivo de texto."
+        },
+        {
+          "t": "p",
+          "x": "“El sistema de diseño no hace al agente más listo ni más correcto. Decide quién acaba siendo dueño del código que escribe.” El autor lo describe como un estudio de caso, no como un benchmark."
+        }
+      ]
+    },
+    "design/design-figma-agent-ga": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Ejemplos de prompts flotan sobre una pantalla móvil"
+        },
+        {
+          "t": "p",
+          "x": "Así es como los equipos de Uber, Granola y Atlassian sostienen un trabajo rápido y de alta calidad con el agente de Figma, ya disponible de forma general. Hoy el agente sale de la beta: sigue mejor las instrucciones y gestiona mejor las tareas de larga duración, y gana en ~60%+ de las evaluaciones de Figma calificadas por diseñadores profesionales. Los responsables de bibliotecas pueden añadir directrices: archivos markdown que dan al agente contexto sobre su sistema de diseño."
+        },
+        {
+          "t": "p",
+          "x": "El equipo de sistemas de diseño de Uber, que entrega componentes en siete plataformas, creó skills como /create-anatomy y /create-color para documentar su sistema. Una documentación que antes llevaba meses a varias personas ahora la publica un solo diseñador en una tarde."
+        },
+        {
+          "t": "p",
+          "x": "En Granola, el Product Designer Paavan Buddhdev usa el conector de Granola para que el agente anote el lienzo con comentarios extraídos de las notas de reuniones. “Nos ha ahorrado muchísimo tiempo”, dice."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Paavan usa el conector de Granola con el agente de Figma para añadir comentarios en el lienzo como anotaciones."
+        },
+        {
+          "t": "p",
+          "x": "Atlassian convirtió sus recursos de movimiento en componentes reutilizables, y el agente ayuda a los diseñadores a iterar el easing y la duración dentro de su sistema de diseño. “Para los diseñadores que trabajan con diseños estáticos, nuestras habilidades han aumentado”, dice el Product Designer Davy Fung."
+        }
+      ]
     }
   }
 }

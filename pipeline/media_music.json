@@ -1,32 +1,25 @@
 {
- "date": "2026-10-07",
- "section": "music",
- "media": [
-  {
-   "id": "music-suno-italy",
-   "type": "image",
-   "src": "pipeline/media/music-suno-italy.jpg"
-  },
-  {
-   "id": "music-elevenlabs-search",
-   "type": "video",
-   "src": "pipeline/media/music-elevenlabs-search.mp4",
-   "poster": "pipeline/media/music-elevenlabs-search.jpg"
-  },
-  {
-   "id": "music-aria-australia",
-   "type": "image",
-   "src": "pipeline/media/music-aria-australia.png"
-  },
-  {
-   "id": "music-china-ai-audition",
-   "type": "image",
-   "src": "pipeline/media/music-china-ai-audition.png"
-  },
-  {
-   "id": "music-hypebot-ai-agents",
-   "type": "image",
-   "src": "pipeline/media/music-hypebot-ai-agents.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "music-copyright-office-fraud-inquiry",
+      "type": "image",
+      "src": "pipeline/media/music-copyright-office-fraud-inquiry.jpg"
+    },
+    {
+      "id": "music-grok-suno-backend",
+      "type": "image",
+      "src": "pipeline/media/music-grok-suno-backend.jpg"
+    },
+    {
+      "id": "music-tencent-music-deepseek",
+      "type": "image",
+      "src": "pipeline/media/music-tencent-music-deepseek.jpg"
+    },
+    {
+      "id": "music-humanculture-first-clients",
+      "type": "image",
+      "src": "pipeline/media/music-humanculture-first-clients.png"
+    }
+  ]
 }

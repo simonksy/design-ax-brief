@@ -1,1846 +1,1846 @@
 {
- "date": "2026-10-07",
- "section": "movies",
- "cards": [
-  {
-   "id": "movies-loftapps-mad-god",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
-   "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
-   "mini_headline": "LOFT와 Mad God 속편",
-   "tool": "Movies",
-   "source": "AWN",
-   "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026",
-   "accent": "#0070f3",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-      "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
-     },
-     {
-      "t": "p",
-      "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽에 처음 공개한다고 밝혔다. 참가자들은 Phil Tippett이 LOFT로 만들고 있는 stop-motion 장편 Mad God 속편도 먼저 볼 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 한 시스템에서 관리한다. AI-first 제품으로 설계했지만 하이브리드 워크플로도 지원한다. 지금은 가이드형 온보딩을 거쳐 일부 고객에게 공급하고 있다."
-     },
-     {
-      "t": "p",
-      "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "LOFTAPPS brings its AI system\nand a Mad God sequel to VIEW",
-     "body": "LOFTAPPS brings its AI production software to VIEW 2026, where Phil Tippett previews his stop-motion Mad God follow-up.",
-     "mini_headline": "LOFT and a Mad God sequel",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "Image from Phil Tippett's 'Mad God' sequel now in production using LOFT. Image courtesy of LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "Berkeley, California-based LOFTAPPS has announced that LOFT, its production software for generative AI, will make its European debut at VIEW Conference 2026, running October 12-16 in Turin, Italy. Attendees will also get an exclusive sneak peek at the sequel to Mad God, Phil Tippett's stop-motion feature, currently in production and powered by LOFT."
-       },
-       {
-        "t": "p",
-        "x": "LOFT manages assets, creative intent, prompts, provenance, review, and production resources across complex pipelines and multiple AI models in a single system. Built as an AI-first product, it also supports hybrid workflows, and it is now shipping to select customers through a guided onboarding process."
-       },
-       {
-        "t": "p",
-        "x": "\"Its value is a connected production process that fundamentally changes how production work is generated, multiplied and managed,\" said LOFTAPPS co-founder and CEO Gary Mundell."
-       },
-       {
-        "t": "p",
-        "x": "On October 15, Mundell and CTO Remko Noteboom, with Tippett joining remotely, present \"The Hybrid Trap: Why AI-Native Production Matters,\" sharing behind-the-scenes content from AI-supported film projects that demonstrate the director's handmade visual style. Tippett spent some 30 years making Mad God, released in theaters in 2022."
-       }
-      ]
-     }
+  "date": "2026-10-08",
+  "section": "movies",
+  "cards": [
+    {
+      "id": "movies-dittodub-native6-dubbing",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "DittoDub, 109개\n언어 더빙 Native 6",
+      "body": "DittoDub Native 6가 원 화자의 연기를 109개 언어로 옮긴다.",
+      "mini_headline": "DittoDub, 109개 언어 더빙",
+      "tool": "Movies",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "DittoDub가 새 AI 더빙 모델 Native 6를 내놨다. 126개 방언 옵션을 포함해 지원 언어는 이제 109개다."
+          },
+          {
+            "t": "p",
+            "x": "Native 6는 플랫폼에 올라오는 영상의 새 기본 더빙 모델이다. 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계했다."
+          },
+          {
+            "t": "p",
+            "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
+          },
+          {
+            "t": "p",
+            "x": "Native 6는 회사의 기존 영상 현지화 워크플로 위에서 돌아간다. 팀은 녹화한 영상을 올리고 대상 언어를 고른 다음, 공유하기 전에 번역 문구와 음성을 검토하고 고친다."
+          },
+          {
+            "t": "video",
+            "yt": "ZOqyQrAyjRw"
+          },
+          {
+            "t": "p",
+            "x": "여러 화자도 지원하고, 더빙 오디오와 자막, 번역된 영상 제목·설명까지 함께 준비해 준다. YouTube Sync 확장 기능을 쓰면 이 자산이 YouTube Studio로 바로 넘어간다."
+          },
+          {
+            "t": "p",
+            "x": "Native 6는 지금 DittoDub 월간 구독 요금제에서 쓸 수 있다. 가격은 월 약 $50부터다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "DittoDub Native 6 dubs\nin 109 languages",
+          "body": "DittoDub's Native 6 model lets creators recreate an original speaker's performance in 109 different languages.",
+          "mini_headline": "DittoDub dubs in 109 languages",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub launched its new Native 6 AI dubbing model, which now supports 109 languages, including 126 dialect options."
+              },
+              {
+                "t": "p",
+                "x": "Launched as the new default dubbing model for videos uploaded on its platform, Native 6 is designed to be an easy, effective way for creators and video teams to carry a speaker’s voice, energy, and emotional delivery into a translated video."
+              },
+              {
+                "t": "p",
+                "x": "“Viewers connect with a creator’s personality: how they tell a story or land a joke. When a video moves into another language, that personality should come with it. That is the standard we are building Native 6 around.” - Nate Stone, CEO and co-founder of DittoDub."
+              },
+              {
+                "t": "p",
+                "x": "It works with the company’s existing video localization workflow: teams upload a recorded video, select their target languages, then review and edit the translated wording and vocals before sharing."
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "The platform also supports multiple speakers and prepares dubbed audio, subtitles, and translated video titles and descriptions. A YouTube Sync extension transfers these assets directly into YouTube Studio."
+              },
+              {
+                "t": "p",
+                "x": "Native 6 is available now on DittoDub’s monthly subscription plans, starting at around $50 a month."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "DittoDub, 109개\n언어 더빙 Native 6",
+          "body": "DittoDub Native 6가 원 화자의 연기를 109개 언어로 옮긴다.",
+          "mini_headline": "DittoDub, 109개 언어 더빙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub가 새 AI 더빙 모델 Native 6를 내놨다. 126개 방언 옵션을 포함해 지원 언어는 이제 109개다."
+              },
+              {
+                "t": "p",
+                "x": "Native 6는 플랫폼에 올라오는 영상의 새 기본 더빙 모델이다. 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계했다."
+              },
+              {
+                "t": "p",
+                "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
+              },
+              {
+                "t": "p",
+                "x": "Native 6는 회사의 기존 영상 현지화 워크플로 위에서 돌아간다. 팀은 녹화한 영상을 올리고 대상 언어를 고른 다음, 공유하기 전에 번역 문구와 음성을 검토하고 고친다."
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "여러 화자도 지원하고, 더빙 오디오와 자막, 번역된 영상 제목·설명까지 함께 준비해 준다. YouTube Sync 확장 기능을 쓰면 이 자산이 YouTube Studio로 바로 넘어간다."
+              },
+              {
+                "t": "p",
+                "x": "Native 6는 지금 DittoDub 월간 구독 요금제에서 쓸 수 있다. 가격은 월 약 $50부터다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DittoDubの吹替\nNative 6は109言語",
+          "body": "DittoDubのNative 6でクリエイターは元の話者の演技を109言語で再現できる。",
+          "mini_headline": "DittoDub、109言語で吹替",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDubは新しいAI吹替モデルNative 6を公開した。126の方言オプションを含む109言語に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6は同社プラットフォームにアップロードされた動画の新たな標準吹替モデルであり、クリエイターや動画チームが話者の声、熱量、感情表現を翻訳後の動画へ手軽かつ効果的に引き継げるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "「視聴者はクリエイターの個性、つまり物語の語り方や笑いの取り方に惹かれる。動画が別の言語に移るとき、その個性も一緒に移るべきだ。それがNative 6を形づくる基準だ」 - Nate Stone（DittoDubのCEO兼共同創業者）"
+              },
+              {
+                "t": "p",
+                "x": "Native 6は同社の既存の動画ローカライズのワークフローと連動する。チームは収録済みの動画をアップロードし、対象言語を選び、共有前に翻訳された文言と音声を確認・編集する。"
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "プラットフォームは複数話者にも対応し、吹替音声、字幕、翻訳済みの動画タイトルと説明文を用意する。拡張機能YouTube Syncはこれらの素材をYouTube Studioへ直接送る。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6はDittoDubの月額サブスクリプションプランで現在利用でき、料金は月約$50からだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DittoDub配音模型\nNative 6达109语种",
+          "body": "DittoDub的Native 6模型让创作者以109种语言重现原说话者的表演。",
+          "mini_headline": "DittoDub支持109种语言配音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub推出新的AI配音模型Native 6，现已支持109种语言，其中包括126个方言选项。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6作为平台上传视频的新默认配音模型推出，旨在让创作者和视频团队以简单有效的方式，把说话者的声音、活力与情感表达带入翻译后的视频。"
+              },
+              {
+                "t": "p",
+                "x": "“观众与创作者的个性产生联结：他们怎样讲故事、怎样抖包袱。当视频转换成另一种语言时，这种个性也应随之而来。这正是我们打造Native 6所依据的标准。”——Nate Stone，DittoDub CEO兼联合创始人。"
+              },
+              {
+                "t": "p",
+                "x": "它与公司现有的视频本地化流程配合使用：团队上传录制好的视频，选择目标语言，然后在分享前审阅并修改翻译后的文字和配音。"
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "平台还支持多名说话者，并会准备配音音频、字幕以及翻译后的视频标题和简介。YouTube Sync扩展可将这些素材直接传入YouTube Studio。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6现已在DittoDub的月度订阅方案中提供，起价约为每月$50。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DittoDub Native 6 dobla\nen 109 idiomas",
+          "body": "El modelo Native 6 de DittoDub permite a los creadores recrear la actuación del hablante original en 109 idiomas.",
+          "mini_headline": "DittoDub dobla en 109 idiomas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub lanzó su nuevo modelo de doblaje AI, Native 6, que ya admite 109 idiomas, incluidas 126 opciones de dialecto."
+              },
+              {
+                "t": "p",
+                "x": "Lanzado como el nuevo modelo de doblaje predeterminado para los videos subidos a su plataforma, Native 6 está pensado como una forma sencilla y eficaz para que creadores y equipos de video trasladen la voz, la energía y la carga emocional de un hablante a un video traducido."
+              },
+              {
+                "t": "p",
+                "x": "“Los espectadores conectan con la personalidad de un creador: cómo cuenta una historia o remata un chiste. Cuando un video pasa a otro idioma, esa personalidad debería ir con él. Ese es el estándar en torno al cual construimos Native 6.” - Nate Stone, CEO y cofundador de DittoDub."
+              },
+              {
+                "t": "p",
+                "x": "Funciona con el flujo de localización de video que la empresa ya ofrece: los equipos suben un video grabado, eligen los idiomas de destino y luego revisan y editan el texto traducido y las voces antes de compartirlo."
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "La plataforma también admite varios hablantes y prepara el audio doblado, los subtítulos y los títulos y descripciones traducidos del video. Una extensión, YouTube Sync, transfiere estos recursos directamente a YouTube Studio."
+              },
+              {
+                "t": "p",
+                "x": "Native 6 ya está disponible en los planes de suscripción mensual de DittoDub, desde unos $50 al mes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "DittoDub, 109개\n언어 더빙 Native 6",
+          "body": "DittoDub의 Native 6는 원 화자의 연기를 109개 언어로 재현한다.",
+          "mini_headline": "DittoDub, 109개 언어 더빙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub가 새 AI 더빙 모델 Native 6를 출시했다. 이제 126개 방언 옵션을 포함해 109개 언어를 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "플랫폼에 올라오는 영상의 새 기본 더빙 모델인 Native 6는 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계됐다."
+              },
+              {
+                "t": "p",
+                "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
+              },
+              {
+                "t": "p",
+                "x": "Native 6는 회사의 기존 영상 현지화 워크플로와 함께 작동한다. 팀이 녹화한 영상을 올리고 대상 언어를 고른 뒤, 공유하기 전에 번역 문구와 음성을 검토하고 수정하는 방식이다."
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "플랫폼은 여러 화자도 지원하며 더빙 오디오, 자막, 번역된 영상 제목과 설명을 함께 준비한다. YouTube Sync 확장 기능은 이 자산을 YouTube Studio로 바로 옮긴다."
+              },
+              {
+                "t": "p",
+                "x": "Native 6는 현재 DittoDub 월간 구독 요금제에서 쓸 수 있으며, 가격은 월 약 $50부터다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DittoDubの吹替\nNative 6は109言語",
+          "body": "DittoDubのNative 6でクリエイターは元の話者の演技を109言語で再現できる。",
+          "mini_headline": "DittoDub、109言語で吹替",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDubは新しいAI吹替モデルNative 6を公開した。126の方言オプションを含む109言語に対応する。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6は同社プラットフォームにアップロードされた動画の新たな標準吹替モデルであり、クリエイターや動画チームが話者の声、熱量、感情表現を翻訳後の動画へ手軽かつ効果的に引き継げるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "「視聴者はクリエイターの個性、つまり物語の語り方や笑いの取り方に惹かれる。動画が別の言語に移るとき、その個性も一緒に移るべきだ。それがNative 6を形づくる基準だ」 - Nate Stone（DittoDubのCEO兼共同創業者）"
+              },
+              {
+                "t": "p",
+                "x": "Native 6は同社の既存の動画ローカライズのワークフローと連動する。チームは収録済みの動画をアップロードし、対象言語を選び、共有前に翻訳された文言と音声を確認・編集する。"
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "プラットフォームは複数話者にも対応し、吹替音声、字幕、翻訳済みの動画タイトルと説明文を用意する。拡張機能YouTube Syncはこれらの素材をYouTube Studioへ直接送る。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6はDittoDubの月額サブスクリプションプランで現在利用でき、料金は月約$50からだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DittoDub配音模型\nNative 6达109语种",
+          "body": "DittoDub的Native 6模型让创作者以109种语言重现原说话者的表演。",
+          "mini_headline": "DittoDub支持109种语言配音",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub推出新的AI配音模型Native 6，现已支持109种语言，其中包括126个方言选项。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6作为平台上传视频的新默认配音模型推出，旨在让创作者和视频团队以简单有效的方式，把说话者的声音、活力与情感表达带入翻译后的视频。"
+              },
+              {
+                "t": "p",
+                "x": "“观众与创作者的个性产生联结：他们怎样讲故事、怎样抖包袱。当视频转换成另一种语言时，这种个性也应随之而来。这正是我们打造Native 6所依据的标准。”——Nate Stone，DittoDub CEO兼联合创始人。"
+              },
+              {
+                "t": "p",
+                "x": "它与公司现有的视频本地化流程配合使用：团队上传录制好的视频，选择目标语言，然后在分享前审阅并修改翻译后的文字和配音。"
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "平台还支持多名说话者，并会准备配音音频、字幕以及翻译后的视频标题和简介。YouTube Sync扩展可将这些素材直接传入YouTube Studio。"
+              },
+              {
+                "t": "p",
+                "x": "Native 6现已在DittoDub的月度订阅方案中提供，起价约为每月$50。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DittoDub Native 6 dobla\nen 109 idiomas",
+          "body": "El modelo Native 6 de DittoDub permite a los creadores recrear la actuación del hablante original en 109 idiomas.",
+          "mini_headline": "DittoDub dobla en 109 idiomas",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "DittoDub lanzó su nuevo modelo de doblaje AI, Native 6, que ya admite 109 idiomas, incluidas 126 opciones de dialecto."
+              },
+              {
+                "t": "p",
+                "x": "Lanzado como el nuevo modelo de doblaje predeterminado para los videos subidos a su plataforma, Native 6 está pensado como una forma sencilla y eficaz para que creadores y equipos de video trasladen la voz, la energía y la carga emocional de un hablante a un video traducido."
+              },
+              {
+                "t": "p",
+                "x": "“Los espectadores conectan con la personalidad de un creador: cómo cuenta una historia o remata un chiste. Cuando un video pasa a otro idioma, esa personalidad debería ir con él. Ese es el estándar en torno al cual construimos Native 6.” - Nate Stone, CEO y cofundador de DittoDub."
+              },
+              {
+                "t": "p",
+                "x": "Funciona con el flujo de localización de video que la empresa ya ofrece: los equipos suben un video grabado, eligen los idiomas de destino y luego revisan y editan el texto traducido y las voces antes de compartirlo."
+              },
+              {
+                "t": "video",
+                "yt": "ZOqyQrAyjRw"
+              },
+              {
+                "t": "p",
+                "x": "La plataforma también admite varios hablantes y prepara el audio doblado, los subtítulos y los títulos y descripciones traducidos del video. Una extensión, YouTube Sync, transfiere estos recursos directamente a YouTube Studio."
+              },
+              {
+                "t": "p",
+                "x": "Native 6 ya está disponible en los planes de suscripción mensual de DittoDub, desde unos $50 al mes."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ko": {
-     "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
-     "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
-     "mini_headline": "LOFT와 Mad God 속편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽에 처음 공개한다고 밝혔다. 참가자들은 Phil Tippett이 LOFT로 만들고 있는 stop-motion 장편 Mad God 속편도 먼저 볼 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 한 시스템에서 관리한다. AI-first 제품으로 설계했지만 하이브리드 워크플로도 지원한다. 지금은 가이드형 온보딩을 거쳐 일부 고객에게 공급하고 있다."
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
-       }
-      ]
-     }
+    {
+      "id": "movies-google-synthid-detector-launch",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google, 독립형\nSynthID 탐지기 공개",
+      "body": "Google AI·파트너 도구로 만든 콘텐츠를 가려내는 독립 플랫폼이 나온다.",
+      "mini_headline": "독립형 SynthID 탐지기",
+      "tool": "Movies",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "AI 도구가 좋아지고 쓰기 쉬워질수록, 온라인에서 마주치는 콘텐츠의 맥락을 알아야 무엇을 믿을지 판단하기 쉽다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보게 도왔다. 지금까지 워터마크를 넣은 콘텐츠는 이미지와 영상 180 billion 개 이상, 오디오 240,000년 분량이다."
+          },
+          {
+            "t": "p",
+            "x": "지난해에는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 이 도구를 모두에게 열어, 오늘부터 전 세계 어디서나 영어로 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "새 SynthID Detector에서는 누구나 이미지, 영상, 오디오 파일이 Google의 AI로 만들어졌는지, OpenAI, NVIDIA, Kakao, 그리고 곧 Apple까지 포함하는 파트너의 AI로 만들어졌는지 쉽게 확인한다."
+          },
+          {
+            "t": "p",
+            "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능과 나란히 선다. 이 기능들은 지금 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 온라인에서 보는 미디어의 맥락을 더 알려 주고, 사람들이 자신 있게 웹을 돌아다니게 하려는 작업의 연장선이다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google opens a standalone\nSynthID detector",
+          "body": "Google is launching a standalone platform to check whether online content was made with Google AI or partner tools.",
+          "mini_headline": "A standalone SynthID detector",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "As AI tools become better and easier to use, having clear context about the content you encounter online helps you make informed decisions about what to trust. Since launching Google SynthID in 2023, we've helped people identify AI-generated media using imperceptible watermarks across images, video, and audio. To date, we've watermarked over 180 billion images and videos, along with 240,000 years of audio content."
+              },
+              {
+                "t": "p",
+                "x": "Last year, we introduced an early version of the SynthID Detector to help media professionals verify AI-generated content. Now, we’re expanding access to everyone – with the tool available globally in English starting today."
+              },
+              {
+                "t": "p",
+                "x": "With the new SynthID Detector, anyone can easily check if an image, video, or audio file was made with AI from Google or our partners, including OpenAI, NVIDIA, Kakao, and soon, Apple."
+              },
+              {
+                "t": "p",
+                "x": "This tool joins our built-in verification features in Search, the Gemini app, and Chrome, which now regularly handle over 1 million requests daily. It’s all part of our ongoing work to give you more context about the media you see online, so you can navigate the web with confidence."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google, 독립형\nSynthID 탐지기 공개",
+          "body": "Google AI·파트너 도구로 만든 콘텐츠를 가려내는 독립 플랫폼이 나온다.",
+          "mini_headline": "독립형 SynthID 탐지기",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI 도구가 좋아지고 쓰기 쉬워질수록, 온라인에서 마주치는 콘텐츠의 맥락을 알아야 무엇을 믿을지 판단하기 쉽다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보게 도왔다. 지금까지 워터마크를 넣은 콘텐츠는 이미지와 영상 180 billion 개 이상, 오디오 240,000년 분량이다."
+              },
+              {
+                "t": "p",
+                "x": "지난해에는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 이 도구를 모두에게 열어, 오늘부터 전 세계 어디서나 영어로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "새 SynthID Detector에서는 누구나 이미지, 영상, 오디오 파일이 Google의 AI로 만들어졌는지, OpenAI, NVIDIA, Kakao, 그리고 곧 Apple까지 포함하는 파트너의 AI로 만들어졌는지 쉽게 확인한다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능과 나란히 선다. 이 기능들은 지금 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 온라인에서 보는 미디어의 맥락을 더 알려 주고, 사람들이 자신 있게 웹을 돌아다니게 하려는 작업의 연장선이다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、単体の\nSynthID検出ツール",
+          "body": "GoogleがGoogle AIやパートナー製のコンテンツを見分ける単体サービスを始める。",
+          "mini_headline": "単体のSynthID検出ツール",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AIツールが高性能になり使いやすくなるにつれ、オンラインで出会うコンテンツの文脈を明確に知ることは、何を信頼するかを判断する助けになる。2023年にGoogle SynthIDを公開して以来、私たちは画像、動画、音声に知覚できない電子透かしを入れ、人々がAI-generatedメディアを見分けられるよう支援してきた。これまでに180 billion 件を超える画像と動画、さらに240,000年分の音声コンテンツに透かしを入れている。"
+              },
+              {
+                "t": "p",
+                "x": "昨年、メディアの専門家がAI-generatedコンテンツを検証できるよう、SynthID Detectorの初期版を導入した。そして今回、誰もが使えるよう提供を広げ、本日から世界中で英語版を利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "新しいSynthID Detectorを使えば、誰でも画像、動画、音声ファイルが、Google、あるいはOpenAI、NVIDIA、Kakao、そして近くApple を含むパートナーのAIで作られたかを簡単に確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、Search、Geminiアプリ、Chromeに組み込まれた検証機能に加わる。これらの機能は現在、毎日1 million 件を超えるリクエストを日常的に処理している。いずれも、オンラインで目にするメディアについてより多くの文脈を提供し、安心してウェブを使えるようにする継続的な取り組みの一環だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google推出独立\nSynthID检测工具",
+          "body": "Google推出独立平台，可检验网上内容是否由Google AI或合作伙伴工具生成。",
+          "mini_headline": "独立的SynthID检测工具",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "随着AI工具越来越好用、越来越强大，清楚了解网上所见内容的背景，有助于你判断该信任什么。自2023年推出Google SynthID以来，我们通过在图像、视频和音频中加入不可察觉的水印，帮助人们识别AI-generated媒体。迄今为止，我们已为超过180 billion 个图像和视频，以及240,000年时长的音频内容添加了水印。"
+              },
+              {
+                "t": "p",
+                "x": "去年，我们推出了SynthID Detector的早期版本，帮助媒体从业者核实AI-generated内容。现在，我们将它开放给所有人，即日起在全球以英文提供。"
+              },
+              {
+                "t": "p",
+                "x": "借助新的SynthID Detector，任何人都能轻松查验一个图像、视频或音频文件是否由Google或其合作伙伴（包括OpenAI、NVIDIA、Kakao，以及即将加入的Apple）的AI生成。"
+              },
+              {
+                "t": "p",
+                "x": "这一工具将与Search、Gemini应用和Chrome中内置的验证功能并列，这些功能如今每天经常处理超过1 million 次请求。这一切都是我们持续工作的一部分：为你提供更多关于网上媒体的背景信息，让你放心浏览网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google lanza un detector\nSynthID independiente",
+          "body": "Google lanza una plataforma independiente para saber si un contenido se creó con Google AI o con socios.",
+          "mini_headline": "Un detector SynthID independiente",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A medida que las herramientas AI mejoran y se vuelven más fáciles de usar, contar con un contexto claro sobre el contenido que encuentras en línea te ayuda a decidir con criterio en qué confiar. Desde que lanzamos Google SynthID en 2023, hemos ayudado a identificar medios AI-generated mediante marcas de agua imperceptibles en imágenes, video y audio. Hasta la fecha, hemos marcado más de 180 mil millones de imágenes y videos, además de 240,000 años de contenido de audio."
+              },
+              {
+                "t": "p",
+                "x": "El año pasado presentamos una versión inicial de SynthID Detector para ayudar a los profesionales de los medios a verificar contenido AI-generated. Ahora ampliamos el acceso a todo el mundo: la herramienta está disponible globalmente en inglés desde hoy."
+              },
+              {
+                "t": "p",
+                "x": "Con el nuevo SynthID Detector, cualquiera puede comprobar fácilmente si una imagen, un video o un archivo de audio se creó con AI de Google o de nuestros socios, entre ellos OpenAI, NVIDIA, Kakao y, próximamente, Apple."
+              },
+              {
+                "t": "p",
+                "x": "Esta herramienta se suma a las funciones de verificación integradas en Search, la app Gemini y Chrome, que hoy gestionan con regularidad más de 1 millón de solicitudes diarias. Todo forma parte de nuestro trabajo continuo para darte más contexto sobre los medios que ves en línea, de modo que puedas navegar por la web con confianza."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google, 독립형\nSynthID 탐지기 공개",
+          "body": "Google AI·파트너 도구로 만든 콘텐츠를 가리는 독립 플랫폼이 나온다.",
+          "mini_headline": "독립형 SynthID 탐지기",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AI 도구가 더 좋아지고 쓰기 쉬워지면서, 온라인에서 마주치는 콘텐츠의 맥락을 분명히 알면 무엇을 믿을지 판단하는 데 도움이 된다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보도록 도왔다. 지금까지 180 billion 개가 넘는 이미지와 영상, 그리고 240,000년 분량의 오디오 콘텐츠에 워터마크를 넣었다."
+              },
+              {
+                "t": "p",
+                "x": "지난해 우리는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 모두에게 문을 열어, 오늘부터 전 세계에서 영어로 이 도구를 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "새 SynthID Detector로 누구나 이미지, 영상, 오디오 파일이 Google 또는 OpenAI, NVIDIA, Kakao, 그리고 곧 Apple을 포함한 파트너의 AI로 만들어졌는지 쉽게 확인할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능에 합류한다. 이 기능들은 현재 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 모두 온라인에서 보는 미디어에 대해 더 많은 맥락을 제공해 자신 있게 웹을 탐색하도록 돕는 지속적인 작업의 일환이다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、単体の\nSynthID検出ツール",
+          "body": "GoogleがGoogle AIやパートナー製のコンテンツを見分ける単体サービスを始める。",
+          "mini_headline": "単体のSynthID検出ツール",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "AIツールが高性能になり使いやすくなるにつれ、オンラインで出会うコンテンツの文脈を明確に知ることは、何を信頼するかを判断する助けになる。2023年にGoogle SynthIDを公開して以来、私たちは画像、動画、音声に知覚できない電子透かしを入れ、人々がAI-generatedメディアを見分けられるよう支援してきた。これまでに180 billion 件を超える画像と動画、さらに240,000年分の音声コンテンツに透かしを入れている。"
+              },
+              {
+                "t": "p",
+                "x": "昨年、メディアの専門家がAI-generatedコンテンツを検証できるよう、SynthID Detectorの初期版を導入した。そして今回、誰もが使えるよう提供を広げ、本日から世界中で英語版を利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "新しいSynthID Detectorを使えば、誰でも画像、動画、音声ファイルが、Google、あるいはOpenAI、NVIDIA、Kakao、そして近くApple を含むパートナーのAIで作られたかを簡単に確認できる。"
+              },
+              {
+                "t": "p",
+                "x": "このツールは、Search、Geminiアプリ、Chromeに組み込まれた検証機能に加わる。これらの機能は現在、毎日1 million 件を超えるリクエストを日常的に処理している。いずれも、オンラインで目にするメディアについてより多くの文脈を提供し、安心してウェブを使えるようにする継続的な取り組みの一環だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google推出独立\nSynthID检测工具",
+          "body": "Google推出独立平台，可检验网上内容是否由Google AI或合作伙伴工具生成。",
+          "mini_headline": "独立的SynthID检测工具",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "随着AI工具越来越好用、越来越强大，清楚了解网上所见内容的背景，有助于你判断该信任什么。自2023年推出Google SynthID以来，我们通过在图像、视频和音频中加入不可察觉的水印，帮助人们识别AI-generated媒体。迄今为止，我们已为超过180 billion 个图像和视频，以及240,000年时长的音频内容添加了水印。"
+              },
+              {
+                "t": "p",
+                "x": "去年，我们推出了SynthID Detector的早期版本，帮助媒体从业者核实AI-generated内容。现在，我们将它开放给所有人，即日起在全球以英文提供。"
+              },
+              {
+                "t": "p",
+                "x": "借助新的SynthID Detector，任何人都能轻松查验一个图像、视频或音频文件是否由Google或其合作伙伴（包括OpenAI、NVIDIA、Kakao，以及即将加入的Apple）的AI生成。"
+              },
+              {
+                "t": "p",
+                "x": "这一工具将与Search、Gemini应用和Chrome中内置的验证功能并列，这些功能如今每天经常处理超过1 million 次请求。这一切都是我们持续工作的一部分：为你提供更多关于网上媒体的背景信息，让你放心浏览网络。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google lanza un detector\nSynthID independiente",
+          "body": "Google lanza una plataforma independiente para saber si un contenido se creó con Google AI o con socios.",
+          "mini_headline": "Un detector SynthID independiente",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A medida que las herramientas AI mejoran y se vuelven más fáciles de usar, contar con un contexto claro sobre el contenido que encuentras en línea te ayuda a decidir con criterio en qué confiar. Desde que lanzamos Google SynthID en 2023, hemos ayudado a identificar medios AI-generated mediante marcas de agua imperceptibles en imágenes, video y audio. Hasta la fecha, hemos marcado más de 180 mil millones de imágenes y videos, además de 240,000 años de contenido de audio."
+              },
+              {
+                "t": "p",
+                "x": "El año pasado presentamos una versión inicial de SynthID Detector para ayudar a los profesionales de los medios a verificar contenido AI-generated. Ahora ampliamos el acceso a todo el mundo: la herramienta está disponible globalmente en inglés desde hoy."
+              },
+              {
+                "t": "p",
+                "x": "Con el nuevo SynthID Detector, cualquiera puede comprobar fácilmente si una imagen, un video o un archivo de audio se creó con AI de Google o de nuestros socios, entre ellos OpenAI, NVIDIA, Kakao y, próximamente, Apple."
+              },
+              {
+                "t": "p",
+                "x": "Esta herramienta se suma a las funciones de verificación integradas en Search, la app Gemini y Chrome, que hoy gestionan con regularidad más de 1 millón de solicitudes diarias. Todo forma parte de nuestro trabajo continuo para darte más contexto sobre los medios que ves en línea, de modo que puedas navegar por la web con confianza."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+              }
+            ]
+          }
+        }
+      }
     },
-    "ja": {
-     "headline": "LOFTAPPS、VIEWに\nAIとMad God続編",
-     "body": "LOFTAPPSがVIEW 2026にAIソフトを出展、Mad God続編も公開する。",
-     "mini_headline": "LOFTとMad God続編",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
-       },
-       {
-        "t": "p",
-        "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
-       },
-       {
-        "t": "p",
-        "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
-       },
-       {
-        "t": "p",
-        "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
-       },
-       {
-        "t": "p",
-        "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
-       }
-      ]
-     }
+    {
+      "id": "movies-abundantia-aion-standalone-studio",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
+      "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
+      "mini_headline": "Abundantia, AiOn 분사",
+      "tool": "Movies",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+            "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+          },
+          {
+            "t": "p",
+            "x": "인도의 Abundantia Entertainment가 AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸는 중이다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+          },
+          {
+            "t": "p",
+            "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. AiOn은 2027년 온전한 스튜디오로 출범한다."
+          },
+          {
+            "t": "p",
+            "x": "당분간 AiOn은 Malhotra가 직접 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
+          },
+          {
+            "t": "p",
+            "x": "지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”이 보낸 피치가 과거의 세 배였다고 그는 말했다. Curry Barker와 Kane Parsons 같은 감독이 아이디어 “민주화”의 증거라는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고, 영화 다섯 편을 개발할 영화 스튜디오를 꾸렸다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Abundantia spins AI arm AiOn\ninto a standalone studio",
+          "body": "India's Abundantia Entertainment is moving to turn its AI creative arm AiOn into a standalone production studio.",
+          "mini_headline": "Abundantia spins off AiOn",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "'Subedaar', 'Maa Behen' and 'Daldal'; Vikram Malhotra (inset)"
+              },
+              {
+                "t": "p",
+                "x": "A year after launching its AI production division Abundantia AiOn, India’s Abundantia Entertainment is morphing it into a fully standalone native AI studio that will seek to harness an influx of ideas from non-traditional sources."
+              },
+              {
+                "t": "p",
+                "x": "“AiOn will develop its own stories, create its own content, produce fully generated as well as hybrid work, and manage the entire ecosystem, just as Abundantia does as a standalone studio,” founder and CEO Vikram Malhotra told Deadline. He said AiOn launches as a fully fledged studio in 2027."
+              },
+              {
+                "t": "p",
+                "x": "Malhotra will lead AiOn for now. “For the moment, it will sit within Abundantia, but we are building it in a way that gives it its own identity and scope… It is truly a confluence of technology and art.”"
+              },
+              {
+                "t": "p",
+                "x": "He said that over the last six months he received “three times as many pitches from people who have never written, made films or belonged to the conventional filmmaking ecosystem” as in the past, citing directors such as Curry Barker and Kane Parsons as evidence of a “democratization” of ideas."
+              },
+              {
+                "t": "p",
+                "x": "Earlier this year Abundantia also teamed with AI video company InVideo on a film studio developing a slate of five films."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
+          "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
+          "mini_headline": "Abundantia, AiOn 분사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+              },
+              {
+                "t": "p",
+                "x": "인도의 Abundantia Entertainment가 AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸는 중이다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+              },
+              {
+                "t": "p",
+                "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. AiOn은 2027년 온전한 스튜디오로 출범한다."
+              },
+              {
+                "t": "p",
+                "x": "당분간 AiOn은 Malhotra가 직접 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”이 보낸 피치가 과거의 세 배였다고 그는 말했다. Curry Barker와 Kane Parsons 같은 감독이 아이디어 “민주화”의 증거라는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고, 영화 다섯 편을 개발할 영화 스튜디오를 꾸렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Abundantia傘下の\nAiOnが独立AIスタジオに",
+          "body": "Abundantia EntertainmentがAI部門AiOnを独立スタジオにする。",
+          "mini_headline": "AbundantiaがAiOnを独立",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "『Subedaar』『Maa Behen』『Daldal』、Vikram Malhotra（挿入写真）"
+              },
+              {
+                "t": "p",
+                "x": "AI制作部門Abundantia AiOnを立ち上げてから一年、インドのAbundantia Entertainmentはこれを完全に独立したネイティブAIスタジオへと移行させている。従来とは異なる出どころから流れ込むアイデアを取り込む狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "「AiOnは、Abundantiaが独立スタジオとしてそうしているように、独自の物語を開発し、独自のコンテンツを作り、完全生成型とハイブリッド型の作品を制作し、エコシステム全体を管理する」と、創業者でCEOのVikram MalhotraはDeadlineに語った。AiOnは2027年に本格的なスタジオとして始動するという。"
+              },
+              {
+                "t": "p",
+                "x": "当面はMalhotraがAiOnを率いる。「今のところはAbundantiaの中に置くが、独自のアイデンティティと領域を持つように作っている…まさに技術と芸術の合流だ」"
+              },
+              {
+                "t": "p",
+                "x": "彼によれば、この六か月で「脚本を書いたことも映画を作ったこともなく、従来の映画制作のエコシステムに属したこともない人々」からの企画提案が以前の三倍に増えた。Curry BarkerやKane Parsonsといった監督を、アイデアの「民主化」の証拠として挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "Abundantiaは今年初め、AI動画企業InVideoとも組み、五本の映画を開発する映画スタジオを立ち上げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Abundantia旗下\nAiOn独立为AI工作室",
+          "body": "印度Abundantia Entertainment将AI部门AiOn转为独立工作室。",
+          "mini_headline": "Abundantia分拆AiOn",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "《Subedaar》《Maa Behen》《Daldal》；Vikram Malhotra（小图）"
+              },
+              {
+                "t": "p",
+                "x": "在推出AI制作部门Abundantia AiOn一年后，印度的Abundantia Entertainment正将其转型为完全独立的原生AI工作室，力求吸纳来自非传统渠道的大量创意。"
+              },
+              {
+                "t": "p",
+                "x": "“AiOn将开发自己的故事、创作自己的内容，制作完全生成和混合形式的作品，并管理整个生态系统，就像Abundantia作为独立工作室所做的那样。”创始人兼CEO Vikram Malhotra对Deadline表示。他说AiOn将于2027年以成熟工作室的形态启动。"
+              },
+              {
+                "t": "p",
+                "x": "目前由Malhotra领导AiOn。“眼下它会留在Abundantia内部，但我们正以赋予它独立身份和业务范围的方式来打造它……这真正是技术与艺术的交汇。”"
+              },
+              {
+                "t": "p",
+                "x": "他说，过去六个月里，他收到来自“从未写作、拍过电影或属于传统电影制作生态”的人的提案，是以往的三倍，并举出Curry Barker和Kane Parsons等导演，作为创意“民主化”的证据。"
+              },
+              {
+                "t": "p",
+                "x": "今年早些时候，Abundantia还与AI视频公司InVideo合作成立电影工作室，开发五部电影。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Abundantia convierte AiOn\nen un estudio AI independiente",
+          "body": "La india Abundantia Entertainment convertirá su brazo creativo AI, AiOn, en un estudio de producción independiente.",
+          "mini_headline": "Abundantia separa a AiOn",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "'Subedaar', 'Maa Behen' y 'Daldal'; Vikram Malhotra (recuadro)"
+              },
+              {
+                "t": "p",
+                "x": "Un año después de lanzar su división de producción AI, Abundantia AiOn, la india Abundantia Entertainment la está transformando en un estudio AI nativo y totalmente independiente que buscará aprovechar la llegada de ideas de fuentes no tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "“AiOn desarrollará sus propias historias, creará su propio contenido, producirá obras totalmente generadas e híbridas y gestionará todo el ecosistema, tal como hace Abundantia como estudio independiente”, dijo a Deadline su fundador y CEO, Vikram Malhotra. Según él, AiOn se lanzará como estudio de pleno derecho en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora, Malhotra dirigirá AiOn. “De momento estará dentro de Abundantia, pero lo estamos construyendo de forma que tenga su propia identidad y alcance… Es de verdad una confluencia de tecnología y arte.”"
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que en los últimos seis meses recibió “el triple de propuestas de personas que nunca han escrito, hecho películas ni pertenecido al ecosistema cinematográfico convencional” que en el pasado, y citó a directores como Curry Barker y Kane Parsons como prueba de una “democratización” de las ideas."
+              },
+              {
+                "t": "p",
+                "x": "A principios de este año, Abundantia también se asoció con la empresa de video AI InVideo en un estudio de cine que desarrolla una cartera de cinco películas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
+          "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
+          "mini_headline": "Abundantia, AiOn 분사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+              },
+              {
+                "t": "p",
+                "x": "AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 인도의 Abundantia Entertainment가 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸고 있다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+              },
+              {
+                "t": "p",
+                "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. 그는 AiOn이 2027년 온전한 스튜디오로 출범한다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "당분간은 Malhotra가 AiOn을 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
+              },
+              {
+                "t": "p",
+                "x": "그는 지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”에게서 과거보다 세 배 많은 피치를 받았다고 말했다. 그리고 Curry Barker와 Kane Parsons 같은 감독을 아이디어 “민주화”의 증거로 들었다."
+              },
+              {
+                "t": "p",
+                "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고 영화 다섯 편을 개발하는 영화 스튜디오를 꾸렸다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Abundantia傘下の\nAiOnが独立AIスタジオに",
+          "body": "Abundantia EntertainmentがAI部門AiOnを独立スタジオにする。",
+          "mini_headline": "AbundantiaがAiOnを独立",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "『Subedaar』『Maa Behen』『Daldal』、Vikram Malhotra（挿入写真）"
+              },
+              {
+                "t": "p",
+                "x": "AI制作部門Abundantia AiOnを立ち上げてから一年、インドのAbundantia Entertainmentはこれを完全に独立したネイティブAIスタジオへと移行させている。従来とは異なる出どころから流れ込むアイデアを取り込む狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "「AiOnは、Abundantiaが独立スタジオとしてそうしているように、独自の物語を開発し、独自のコンテンツを作り、完全生成型とハイブリッド型の作品を制作し、エコシステム全体を管理する」と、創業者でCEOのVikram MalhotraはDeadlineに語った。AiOnは2027年に本格的なスタジオとして始動するという。"
+              },
+              {
+                "t": "p",
+                "x": "当面はMalhotraがAiOnを率いる。「今のところはAbundantiaの中に置くが、独自のアイデンティティと領域を持つように作っている…まさに技術と芸術の合流だ」"
+              },
+              {
+                "t": "p",
+                "x": "彼によれば、この六か月で「脚本を書いたことも映画を作ったこともなく、従来の映画制作のエコシステムに属したこともない人々」からの企画提案が以前の三倍に増えた。Curry BarkerやKane Parsonsといった監督を、アイデアの「民主化」の証拠として挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "Abundantiaは今年初め、AI動画企業InVideoとも組み、五本の映画を開発する映画スタジオを立ち上げている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Abundantia旗下\nAiOn独立为AI工作室",
+          "body": "印度Abundantia Entertainment将AI部门AiOn转为独立工作室。",
+          "mini_headline": "Abundantia分拆AiOn",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "《Subedaar》《Maa Behen》《Daldal》；Vikram Malhotra（小图）"
+              },
+              {
+                "t": "p",
+                "x": "在推出AI制作部门Abundantia AiOn一年后，印度的Abundantia Entertainment正将其转型为完全独立的原生AI工作室，力求吸纳来自非传统渠道的大量创意。"
+              },
+              {
+                "t": "p",
+                "x": "“AiOn将开发自己的故事、创作自己的内容，制作完全生成和混合形式的作品，并管理整个生态系统，就像Abundantia作为独立工作室所做的那样。”创始人兼CEO Vikram Malhotra对Deadline表示。他说AiOn将于2027年以成熟工作室的形态启动。"
+              },
+              {
+                "t": "p",
+                "x": "目前由Malhotra领导AiOn。“眼下它会留在Abundantia内部，但我们正以赋予它独立身份和业务范围的方式来打造它……这真正是技术与艺术的交汇。”"
+              },
+              {
+                "t": "p",
+                "x": "他说，过去六个月里，他收到来自“从未写作、拍过电影或属于传统电影制作生态”的人的提案，是以往的三倍，并举出Curry Barker和Kane Parsons等导演，作为创意“民主化”的证据。"
+              },
+              {
+                "t": "p",
+                "x": "今年早些时候，Abundantia还与AI视频公司InVideo合作成立电影工作室，开发五部电影。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Abundantia convierte AiOn\nen un estudio AI independiente",
+          "body": "La india Abundantia Entertainment convertirá su brazo creativo AI, AiOn, en un estudio de producción independiente.",
+          "mini_headline": "Abundantia separa a AiOn",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+                "cap": "'Subedaar', 'Maa Behen' y 'Daldal'; Vikram Malhotra (recuadro)"
+              },
+              {
+                "t": "p",
+                "x": "Un año después de lanzar su división de producción AI, Abundantia AiOn, la india Abundantia Entertainment la está transformando en un estudio AI nativo y totalmente independiente que buscará aprovechar la llegada de ideas de fuentes no tradicionales."
+              },
+              {
+                "t": "p",
+                "x": "“AiOn desarrollará sus propias historias, creará su propio contenido, producirá obras totalmente generadas e híbridas y gestionará todo el ecosistema, tal como hace Abundantia como estudio independiente”, dijo a Deadline su fundador y CEO, Vikram Malhotra. Según él, AiOn se lanzará como estudio de pleno derecho en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora, Malhotra dirigirá AiOn. “De momento estará dentro de Abundantia, pero lo estamos construyendo de forma que tenga su propia identidad y alcance… Es de verdad una confluencia de tecnología y arte.”"
+              },
+              {
+                "t": "p",
+                "x": "Afirmó que en los últimos seis meses recibió “el triple de propuestas de personas que nunca han escrito, hecho películas ni pertenecido al ecosistema cinematográfico convencional” que en el pasado, y citó a directores como Curry Barker y Kane Parsons como prueba de una “democratización” de las ideas."
+              },
+              {
+                "t": "p",
+                "x": "A principios de este año, Abundantia también se asoció con la empresa de video AI InVideo en un estudio de cine que desarrolla una cartera de cinco películas."
+              }
+            ]
+          }
+        }
+      }
     },
-    "zh": {
-     "headline": "LOFTAPPS携AI系统与\nMad God续作赴VIEW",
-     "body": "LOFTAPPS携AI软件亮相VIEW 2026，Tippett预览Mad God续作。",
-     "mini_headline": "LOFT与Mad God续作",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "使用LOFT制作中的Phil Tippett《Mad God》续作画面。图片由LOFTAPPS提供。"
-       },
-       {
-        "t": "p",
-        "x": "总部位于Berkeley, California的LOFTAPPS宣布，其生成式AI制作软件LOFT将在10月12-16日于Turin(Italy)举行的VIEW Conference 2026上首次亮相欧洲。与会者还将独家抢先看到Phil Tippett的stop-motion长片Mad God的续作，该片正在制作中，由LOFT提供支持。"
-       },
-       {
-        "t": "p",
-        "x": "LOFT在单一系统中管理跨越复杂管线和多个AI模型的资产、创作意图、提示词、来源记录、审阅和制作资源。它作为AI-first产品打造，同时支持混合工作流，目前正通过引导式上手流程向部分客户交付。"
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS联合创始人兼CEO Gary Mundell表示：“它的价值在于一套互联的制作流程，从根本上改变了制作工作的生成、倍增和管理方式。”"
-       },
-       {
-        "t": "p",
-        "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
-       }
-      ]
-     }
+    {
+      "id": "movies-authors-first-book-adaptation-studio",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
+      "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
+      "mini_headline": "Authors First, 책 각색 지원",
+      "tool": "Movies",
+      "source": "Variety",
+      "url": "https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+          },
+          {
+            "t": "p",
+            "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 원래 그린 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기에 Blender를 비롯한 “기타 기술”을 더해, Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 $10 million 이상의 시드 라운드로 출범하며, 여기에 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여했다. CEO는 Hamwee가 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 있다."
+          },
+          {
+            "t": "p",
+            "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리와 카메라 앵글, 대사를 맡았지만 대부분은 AI로 생성했다. Iggulden은 역사 대작에 드는 예산 탓에 제안이 번번이 무산됐다며, 이 방식이 아니었다면 결코 각색되지 못했을 거라고 말한다."
+          },
+          {
+            "t": "video",
+            "yt": "KarPbRqW_U8"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A $10M-backed AI studio lets\nauthors adapt their own books",
+          "body": "Authors First, an AI studio backed by $10 million, pledges to help sci-fi and fantasy writers adapt books faithfully.",
+          "mini_headline": "Authors First backs book adaptations",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Authors First, founded by private equity veteran Robert Hamwee, promises to let science-fiction and fantasy scribes adapt their titles as closely to their intended vision as possible. It uses AI generators like Seedance 2.5 and Nano Banana plus “other technology,” including Blender, to craft adaptations without the budget constraints of Hollywood studios."
+              },
+              {
+                "t": "p",
+                "x": "The company launches after a more than $10 million seed round that includes Hamwee, Brand Foundry and The Family Office of David Blitzer. Hamwee leads as CEO, with a team including veterans of Hulu, Warner Bros. and Universal."
+              },
+              {
+                "t": "p",
+                "x": "Its first project is “Genghis: Birth of an Empire,” adapting Conn Iggulden’s 2007 book “Wolf of the Plains.” Roughly 25 humans worked on the story, camera angles and dialogue, though the project was mostly generated by AI. Iggulden says it would never have been adapted otherwise, as offers fizzled over the budget a historical epic needs."
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
+          "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
+          "mini_headline": "Authors First, 책 각색 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 원래 그린 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기에 Blender를 비롯한 “기타 기술”을 더해, Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 $10 million 이상의 시드 라운드로 출범하며, 여기에 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여했다. CEO는 Hamwee가 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 있다."
+              },
+              {
+                "t": "p",
+                "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리와 카메라 앵글, 대사를 맡았지만 대부분은 AI로 생성했다. Iggulden은 역사 대작에 드는 예산 탓에 제안이 번번이 무산됐다며, 이 방식이 아니었다면 결코 각색되지 못했을 거라고 말한다."
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "$10M-backed AI\nスタジオで作家が自作を映像化",
+          "body": "$10 millionのAIスタジオAuthors Firstが原作の忠実な映像化を担う。",
+          "mini_headline": "Authors Firstが書籍の映像化を支援",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "プライベートエクイティのベテラン、Robert Hamweeが創業したAuthors Firstは、SFやファンタジーの作家が自作を本来思い描いたビジョンにできる限り近い形で映像化できるようにすると約束する。Seedance 2.5やNano BananaといったAI生成ツールに、Blenderなどの「その他の技術」を組み合わせ、Hollywoodスタジオのような予算の制約なしに映像化作品を作る。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、Hamwee、Brand Foundry、The Family Office of David Blitzerが参加した$10 millionを超えるシードラウンドを経て始動する。HamweeがCEOを務め、チームにはHulu、Warner Bros.、Universalの出身者が加わる。"
+              },
+              {
+                "t": "p",
+                "x": "第一弾は、Conn Igguldenの2007年の本「Wolf of the Plains」を映像化した「Genghis: Birth of an Empire」だ。約25人がストーリー、カメラアングル、台詞に携わったが、作品の大部分はAIで生成された。Igguldenは、歴史大作に必要な予算を理由にオファーが立ち消えになってきたため、この方法でなければ映像化されることはなかったと語る。"
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "$10M-backed AI\n工作室助作者改编自己的书",
+          "body": "AI工作室Authors First获$10 million支持，助作家忠实改编原著。",
+          "mini_headline": "Authors First助力图书改编",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "由私募股权老将Robert Hamwee创立的Authors First承诺，让科幻和奇幻作家尽可能贴近自己的原本构想来改编作品。它借助Seedance 2.5、Nano Banana等AI生成工具以及包括Blender在内的“其他技术”，在不受Hollywood制片厂预算限制的情况下打造改编作品。"
+              },
+              {
+                "t": "p",
+                "x": "公司在完成超过$10 million的种子轮融资后成立，参投方包括Hamwee、Brand Foundry和The Family Office of David Blitzer。Hamwee出任CEO，团队成员包括来自Hulu、Warner Bros.和Universal的资深人士。"
+              },
+              {
+                "t": "p",
+                "x": "其首个项目是《Genghis: Birth of an Empire》，改编自Conn Iggulden 2007年的书《Wolf of the Plains》。约25人参与了故事、镜头角度和对白的工作，但项目大部分由AI生成。Iggulden表示，由于历史史诗所需的预算，此前的邀约都不了了之，否则这部作品永远不会被改编。"
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un estudio AI con $10M ayuda\na autores a adaptar sus libros",
+          "body": "Authors First, estudio AI con $10 millones, ayuda a autores de ciencia ficción y fantasía a adaptar sus libros.",
+          "mini_headline": "Authors First impulsa adaptaciones de libros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Authors First, fundada por Robert Hamwee, veterano del capital privado, promete que los autores de ciencia ficción y fantasía puedan adaptar sus títulos lo más fielmente posible a la visión que tenían. Utiliza generadores AI como Seedance 2.5 y Nano Banana, además de “otra tecnología”, como Blender, para crear adaptaciones sin las limitaciones de presupuesto de los estudios de Hollywood."
+              },
+              {
+                "t": "p",
+                "x": "La empresa se lanza tras una ronda semilla de más de $10 millones en la que participan Hamwee, Brand Foundry y The Family Office of David Blitzer. Hamwee la dirige como CEO, con un equipo que incluye a veteranos de Hulu, Warner Bros. y Universal."
+              },
+              {
+                "t": "p",
+                "x": "Su primer proyecto es “Genghis: Birth of an Empire”, adaptación del libro de 2007 de Conn Iggulden “Wolf of the Plains”. Unas 25 personas trabajaron en la historia, los ángulos de cámara y los diálogos, aunque el proyecto se generó en su mayor parte con AI. Iggulden afirma que de otro modo nunca se habría adaptado, porque las ofertas se diluían ante el presupuesto que exige una épica histórica."
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
+          "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
+          "mini_headline": "Authors First, 책 각색 지원",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 자신이 의도한 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기와 Blender를 비롯한 “기타 기술”을 활용해 Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여한 $10 million 이상의 시드 라운드를 거쳐 출범한다. Hamwee가 CEO를 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 포함됐다."
+              },
+              {
+                "t": "p",
+                "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리, 카메라 앵글, 대사 작업에 참여했지만 대부분은 AI로 생성됐다. Iggulden은 역사 대작에 필요한 예산 문제로 제안이 번번이 무산됐기에, 이 방식이 아니었다면 결코 각색되지 못했을 것이라고 말한다."
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "$10M-backed AI\nスタジオで作家が自作を映像化",
+          "body": "$10 millionのAIスタジオAuthors Firstが原作の忠実な映像化を担う。",
+          "mini_headline": "Authors Firstが書籍の映像化を支援",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "プライベートエクイティのベテラン、Robert Hamweeが創業したAuthors Firstは、SFやファンタジーの作家が自作を本来思い描いたビジョンにできる限り近い形で映像化できるようにすると約束する。Seedance 2.5やNano BananaといったAI生成ツールに、Blenderなどの「その他の技術」を組み合わせ、Hollywoodスタジオのような予算の制約なしに映像化作品を作る。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、Hamwee、Brand Foundry、The Family Office of David Blitzerが参加した$10 millionを超えるシードラウンドを経て始動する。HamweeがCEOを務め、チームにはHulu、Warner Bros.、Universalの出身者が加わる。"
+              },
+              {
+                "t": "p",
+                "x": "第一弾は、Conn Igguldenの2007年の本「Wolf of the Plains」を映像化した「Genghis: Birth of an Empire」だ。約25人がストーリー、カメラアングル、台詞に携わったが、作品の大部分はAIで生成された。Igguldenは、歴史大作に必要な予算を理由にオファーが立ち消えになってきたため、この方法でなければ映像化されることはなかったと語る。"
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "$10M-backed AI\n工作室助作者改编自己的书",
+          "body": "AI工作室Authors First获$10 million支持，助作家忠实改编原著。",
+          "mini_headline": "Authors First助力图书改编",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "由私募股权老将Robert Hamwee创立的Authors First承诺，让科幻和奇幻作家尽可能贴近自己的原本构想来改编作品。它借助Seedance 2.5、Nano Banana等AI生成工具以及包括Blender在内的“其他技术”，在不受Hollywood制片厂预算限制的情况下打造改编作品。"
+              },
+              {
+                "t": "p",
+                "x": "公司在完成超过$10 million的种子轮融资后成立，参投方包括Hamwee、Brand Foundry和The Family Office of David Blitzer。Hamwee出任CEO，团队成员包括来自Hulu、Warner Bros.和Universal的资深人士。"
+              },
+              {
+                "t": "p",
+                "x": "其首个项目是《Genghis: Birth of an Empire》，改编自Conn Iggulden 2007年的书《Wolf of the Plains》。约25人参与了故事、镜头角度和对白的工作，但项目大部分由AI生成。Iggulden表示，由于历史史诗所需的预算，此前的邀约都不了了之，否则这部作品永远不会被改编。"
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un estudio AI con $10M ayuda\na autores a adaptar sus libros",
+          "body": "Authors First, estudio AI con $10 millones, ayuda a autores de ciencia ficción y fantasía a adaptar sus libros.",
+          "mini_headline": "Authors First impulsa adaptaciones de libros",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+              },
+              {
+                "t": "p",
+                "x": "Authors First, fundada por Robert Hamwee, veterano del capital privado, promete que los autores de ciencia ficción y fantasía puedan adaptar sus títulos lo más fielmente posible a la visión que tenían. Utiliza generadores AI como Seedance 2.5 y Nano Banana, además de “otra tecnología”, como Blender, para crear adaptaciones sin las limitaciones de presupuesto de los estudios de Hollywood."
+              },
+              {
+                "t": "p",
+                "x": "La empresa se lanza tras una ronda semilla de más de $10 millones en la que participan Hamwee, Brand Foundry y The Family Office of David Blitzer. Hamwee la dirige como CEO, con un equipo que incluye a veteranos de Hulu, Warner Bros. y Universal."
+              },
+              {
+                "t": "p",
+                "x": "Su primer proyecto es “Genghis: Birth of an Empire”, adaptación del libro de 2007 de Conn Iggulden “Wolf of the Plains”. Unas 25 personas trabajaron en la historia, los ángulos de cámara y los diálogos, aunque el proyecto se generó en su mayor parte con AI. Iggulden afirma que de otro modo nunca se habría adaptado, porque las ofertas se diluían ante el presupuesto que exige una épica histórica."
+              },
+              {
+                "t": "video",
+                "yt": "KarPbRqW_U8"
+              }
+            ]
+          }
+        }
+      }
     },
-    "es": {
-     "headline": "LOFTAPPS lleva su sistema de AI\ny una secuela de Mad God a VIEW",
-     "body": "LOFTAPPS lleva su software de AI a VIEW 2026, donde Phil Tippett adelanta la secuela en stop-motion de Mad God.",
-     "mini_headline": "LOFT y una secuela de Mad God",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "Imagen de la secuela de 'Mad God' de Phil Tippett, ahora en producción con LOFT. Imagen cortesía de LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS, con sede en Berkeley, California, anunció que LOFT, su software de producción para AI generativa, hará su debut europeo en VIEW Conference 2026, que se celebrará del 12 al 16 de octubre en Turín, Italia. Los asistentes también podrán ver en exclusiva un adelanto de la secuela de Mad God, el largometraje en stop-motion de Phil Tippett, actualmente en producción con LOFT."
-       },
-       {
-        "t": "p",
-        "x": "LOFT gestiona activos, intención creativa, prompts, procedencia, revisión y recursos de producción a lo largo de pipelines complejos y múltiples modelos de AI en un solo sistema. Concebido como un producto AI-first, también admite flujos de trabajo híbridos y ya se distribuye a clientes seleccionados mediante un proceso de incorporación guiado."
-       },
-       {
-        "t": "p",
-        "x": "\"Su valor es un proceso de producción conectado que cambia de raíz cómo se genera, multiplica y gestiona el trabajo de producción\", afirmó Gary Mundell, cofundador y CEO de LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
-       }
-      ]
-     }
+    {
+      "id": "movies-sinima-creative-ownership-platform",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
+      "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
+      "mini_headline": "Sinima, AI로부터 영화 보호",
+      "tool": "Movies",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/sinima-creative-ownership-platform",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "베타를 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고 보호하고 모니터링하며 수익까지 낼 수 있는 새 공간을 내세운다. 중심에는 회사가 “창작 소유권”이라 부르는 개념이 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+            "cap": "출처: Sinima"
+          },
+          {
+            "t": "p",
+            "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima가 겨냥하는 문제는 두 가지다. 크리에이터는 자기 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 합법적으로 학습할 길이 많지 않다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+            "cap": "출처: Sinima"
+          },
+          {
+            "t": "p",
+            "x": "호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가 기능을 갖췄다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+          },
+          {
+            "t": "p",
+            "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 받는다. 현재 요율표는 자격을 갖추고 권리 처리를 마친 영상을 시간당 $4,000~$7,500로 매긴다. 크리에이터에게는 처리된 시간당 $3,400~$6,375가 돌아간다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+            "cap": "출처: Sinima"
+          },
+          {
+            "t": "p",
+            "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Sinima helps filmmakers guard\ntheir work from AI training",
+          "body": "Sinima's new platform aims to give filmmakers protection, visibility and control over the work they upload online.",
+          "mini_headline": "Sinima guards films from AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Just launched after a beta run, Sinima aims to be a new space for filmmakers and creators to host, protect, monitor, and earn on their films and videos, with a focus on what it calls “creative ownership.”"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "Credit: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Launched by founders that include a former VP at Vimeo, Sinima targets two problems: creators can’t be sure whether their uploads are used to train AI models, while AI companies have limited legal avenues to train on real footage."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "Credit: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Features include hosting, private client review, ownership and provenance records, match monitoring, and creator-controlled AI permissions. Each upload gets a unique digital fingerprint and an ownership certificate with a public verification link, with details recorded in C2PA-format manifests."
+              },
+              {
+                "t": "p",
+                "x": "When a title is licensed for AI training, creators keep 85% of what the buyer pays. The current rate card values eligible, rights-cleared footage at $4,000 to $7,500 per hour, so $3,400 to $6,375 per cleared hour goes to the creator."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "Credit: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima is free to get started, with subscription plans starting at $15 a month."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
+          "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
+          "mini_headline": "Sinima, AI로부터 영화 보호",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "베타를 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고 보호하고 모니터링하며 수익까지 낼 수 있는 새 공간을 내세운다. 중심에는 회사가 “창작 소유권”이라 부르는 개념이 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima가 겨냥하는 문제는 두 가지다. 크리에이터는 자기 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 합법적으로 학습할 길이 많지 않다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가 기능을 갖췄다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+              },
+              {
+                "t": "p",
+                "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 받는다. 현재 요율표는 자격을 갖추고 권리 처리를 마친 영상을 시간당 $4,000~$7,500로 매긴다. 크리에이터에게는 처리된 시간당 $3,400~$6,375가 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sinima、映画作品を\nAI学習から守る",
+          "body": "Sinimaの新プラットフォームは、映画制作者が投稿した作品の保護・可視性・管理を担う。",
+          "mini_headline": "SinimaがAIから映画を守る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ベータ運用を経て公開されたばかりのSinimaは、映画制作者やクリエイターが映画や動画をホスティングし、保護し、監視し、収益化できる新たな場を目指す。軸に据えるのは、同社が「クリエイティブ・オーナーシップ」と呼ぶ考え方だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Vimeoの元VPを含む創業者らが立ち上げたSinimaは、二つの問題に取り組む。クリエイターは自分のアップロードがAIモデルの学習に使われているか確信できず、一方でAI企業が実写映像で合法的に学習する手段は限られている。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "機能には、ホスティング、非公開のクライアントレビュー、所有権と来歴の記録、一致の監視、クリエイターが管理するAI利用許可が含まれる。アップロードごとに固有のデジタル指紋と、公開検証リンク付きの所有権証明書が発行され、詳細はC2PA-formatのマニフェストに記録される。"
+              },
+              {
+                "t": "p",
+                "x": "作品がAI学習用にライセンスされると、クリエイターは購入者の支払額の85%を受け取る。現行の料金表では、条件を満たし権利処理済みの映像を1時間あたり$4,000〜$7,500と評価しており、処理済み1時間あたり$3,400〜$6,375がクリエイターに渡る。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinimaは無料で始められ、サブスクリプションプランは月$15からだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sinima助电影人\n保护作品免遭AI训练",
+          "body": "Sinima新平台旨在让电影人对上传作品拥有保护、可见度与控制权。",
+          "mini_headline": "Sinima保护电影免遭AI训练",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Sinima在完成测试后刚刚上线，目标是成为电影人和创作者托管、保护、监测其电影和视频并从中获利的新空间，重点在于它所说的“创作所有权”。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima由包括一名Vimeo前VP在内的创始人创立，瞄准两个问题：创作者无法确定自己上传的内容是否被用于训练AI模型，而AI公司用真实影像进行训练的合法途径有限。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "功能包括托管、私密客户审阅、所有权与来源记录、匹配监测，以及由创作者掌控的AI使用许可。每次上传都会获得独特的数字指纹和附带公开验证链接的所有权证书，详细信息记录在C2PA-format清单中。"
+              },
+              {
+                "t": "p",
+                "x": "当作品被授权用于AI训练时，创作者可获得买方所付金额的85%。按现行价目表，符合条件且已完成版权清理的影像每小时估值$4,000至$7,500，因此每个清理小时有$3,400至$6,375归创作者所有。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima可免费开始使用，订阅方案每月$15起。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Sinima protege obras de cine\ndel entrenamiento de AI",
+          "body": "La nueva plataforma de Sinima busca dar a los cineastas protección, visibilidad y control sobre su obra en línea.",
+          "mini_headline": "Sinima protege el cine de la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Recién lanzada tras una fase beta, Sinima aspira a ser un nuevo espacio donde cineastas y creadores alojen, protejan, supervisen y moneticen sus películas y videos, con el foco puesto en lo que llama “propiedad creativa”."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Fundada por un equipo que incluye a un exVP de Vimeo, Sinima aborda dos problemas: los creadores no pueden saber con certeza si sus videos se usan para entrenar modelos AI, mientras que las empresas AI tienen vías legales limitadas para entrenar con metraje real."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sus funciones incluyen alojamiento, revisión privada con clientes, registros de propiedad y procedencia, monitoreo de coincidencias y permisos AI controlados por el creador. Cada archivo recibe una huella digital única y un certificado de propiedad con un enlace de verificación público, y los detalles se registran en manifiestos C2PA-format."
+              },
+              {
+                "t": "p",
+                "x": "Cuando un título se licencia para entrenamiento AI, los creadores se quedan con el 85% de lo que paga el comprador. La tarifa actual valora el metraje elegible y con derechos liberados entre $4,000 y $7,500 por hora, de modo que entre $3,400 y $6,375 por hora liberada van al creador."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima se puede empezar a usar gratis, con planes de suscripción desde $15 al mes."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
+          "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
+          "mini_headline": "Sinima, AI로부터 영화 보호",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "베타 운영을 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고, 보호하고, 모니터링하며 수익을 낼 수 있는 새 공간을 지향한다. 핵심은 회사가 “창작 소유권”이라 부르는 개념이다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima는 두 가지 문제를 겨냥한다. 크리에이터는 자신이 올린 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 학습할 합법적 경로가 제한적이다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "기능으로는 호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가가 있다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+              },
+              {
+                "t": "p",
+                "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 가져간다. 현재 요율표는 자격을 갖추고 권리 처리가 끝난 영상을 시간당 $4,000~$7,500로 매기므로, 처리된 시간당 $3,400~$6,375가 크리에이터에게 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "출처: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Sinima、映画作品を\nAI学習から守る",
+          "body": "Sinimaの新プラットフォームは、映画制作者が投稿した作品の保護・可視性・管理を担う。",
+          "mini_headline": "SinimaがAIから映画を守る",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "ベータ運用を経て公開されたばかりのSinimaは、映画制作者やクリエイターが映画や動画をホスティングし、保護し、監視し、収益化できる新たな場を目指す。軸に据えるのは、同社が「クリエイティブ・オーナーシップ」と呼ぶ考え方だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Vimeoの元VPを含む創業者らが立ち上げたSinimaは、二つの問題に取り組む。クリエイターは自分のアップロードがAIモデルの学習に使われているか確信できず、一方でAI企業が実写映像で合法的に学習する手段は限られている。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "機能には、ホスティング、非公開のクライアントレビュー、所有権と来歴の記録、一致の監視、クリエイターが管理するAI利用許可が含まれる。アップロードごとに固有のデジタル指紋と、公開検証リンク付きの所有権証明書が発行され、詳細はC2PA-formatのマニフェストに記録される。"
+              },
+              {
+                "t": "p",
+                "x": "作品がAI学習用にライセンスされると、クリエイターは購入者の支払額の85%を受け取る。現行の料金表では、条件を満たし権利処理済みの映像を1時間あたり$4,000〜$7,500と評価しており、処理済み1時間あたり$3,400〜$6,375がクリエイターに渡る。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "提供：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinimaは無料で始められ、サブスクリプションプランは月$15からだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Sinima助电影人\n保护作品免遭AI训练",
+          "body": "Sinima新平台旨在让电影人对上传作品拥有保护、可见度与控制权。",
+          "mini_headline": "Sinima保护电影免遭AI训练",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Sinima在完成测试后刚刚上线，目标是成为电影人和创作者托管、保护、监测其电影和视频并从中获利的新空间，重点在于它所说的“创作所有权”。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima由包括一名Vimeo前VP在内的创始人创立，瞄准两个问题：创作者无法确定自己上传的内容是否被用于训练AI模型，而AI公司用真实影像进行训练的合法途径有限。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "功能包括托管、私密客户审阅、所有权与来源记录、匹配监测，以及由创作者掌控的AI使用许可。每次上传都会获得独特的数字指纹和附带公开验证链接的所有权证书，详细信息记录在C2PA-format清单中。"
+              },
+              {
+                "t": "p",
+                "x": "当作品被授权用于AI训练时，创作者可获得买方所付金额的85%。按现行价目表，符合条件且已完成版权清理的影像每小时估值$4,000至$7,500，因此每个清理小时有$3,400至$6,375归创作者所有。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "图片来源：Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima可免费开始使用，订阅方案每月$15起。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Sinima protege obras de cine\ndel entrenamiento de AI",
+          "body": "La nueva plataforma de Sinima busca dar a los cineastas protección, visibilidad y control sobre su obra en línea.",
+          "mini_headline": "Sinima protege el cine de la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Recién lanzada tras una fase beta, Sinima aspira a ser un nuevo espacio donde cineastas y creadores alojen, protejan, supervisen y moneticen sus películas y videos, con el foco puesto en lo que llama “propiedad creativa”."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Fundada por un equipo que incluye a un exVP de Vimeo, Sinima aborda dos problemas: los creadores no pueden saber con certeza si sus videos se usan para entrenar modelos AI, mientras que las empresas AI tienen vías legales limitadas para entrenar con metraje real."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sus funciones incluyen alojamiento, revisión privada con clientes, registros de propiedad y procedencia, monitoreo de coincidencias y permisos AI controlados por el creador. Cada archivo recibe una huella digital única y un certificado de propiedad con un enlace de verificación público, y los detalles se registran en manifiestos C2PA-format."
+              },
+              {
+                "t": "p",
+                "x": "Cuando un título se licencia para entrenamiento AI, los creadores se quedan con el 85% de lo que paga el comprador. La tarifa actual valora el metraje elegible y con derechos liberados entre $4,000 y $7,500 por hora, de modo que entre $3,400 y $6,375 por hora liberada van al creador."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+                "cap": "Crédito: Sinima"
+              },
+              {
+                "t": "p",
+                "x": "Sinima se puede empezar a usar gratis, con planes de suscripción desde $15 al mes."
+              }
+            ]
+          }
+        }
+      }
     }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "VIEW에 LOFTAPPS\nAI와 Mad God 속편",
-     "body": "LOFTAPPS가 VIEW 2026에서 Mad God 속편과 AI 툴을 선보인다.",
-     "mini_headline": "LOFT와 Mad God 속편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI용 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽 최초로 공개한다고 밝혔다. 참가자들은 LOFT 기반으로 현재 제작 중인 Phil Tippett의 stop-motion 장편 Mad God 속편도 독점으로 미리 볼 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 하나의 시스템에서 관리한다. AI-first 제품으로 설계됐지만 하이브리드 워크플로도 지원하며, 현재 가이드형 온보딩 과정을 거쳐 일부 고객에게 공급하고 있다."
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표하고, 감독 특유의 수작업 비주얼 스타일을 보여 주는 AI-supported 영화 프로젝트의 비하인드 콘텐츠를 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 만들었고, 이 작품은 2022년 극장에서 개봉했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "LOFTAPPS、VIEWに\nAIとMad God続編",
-     "body": "LOFTAPPSがVIEW 2026にAIソフトを出展、Mad God続編も公開する。",
-     "mini_headline": "LOFTとMad God続編",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
-       },
-       {
-        "t": "p",
-        "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
-       },
-       {
-        "t": "p",
-        "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
-       },
-       {
-        "t": "p",
-        "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
-       },
-       {
-        "t": "p",
-        "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "LOFTAPPS携AI系统与\nMad God续作赴VIEW",
-     "body": "LOFTAPPS携AI软件亮相VIEW 2026，Tippett预览Mad God续作。",
-     "mini_headline": "LOFT与Mad God续作",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "使用LOFT制作中的Phil Tippett《Mad God》续作画面。图片由LOFTAPPS提供。"
-       },
-       {
-        "t": "p",
-        "x": "总部位于Berkeley, California的LOFTAPPS宣布，其生成式AI制作软件LOFT将在10月12-16日于Turin(Italy)举行的VIEW Conference 2026上首次亮相欧洲。与会者还将独家抢先看到Phil Tippett的stop-motion长片Mad God的续作，该片正在制作中，由LOFT提供支持。"
-       },
-       {
-        "t": "p",
-        "x": "LOFT在单一系统中管理跨越复杂管线和多个AI模型的资产、创作意图、提示词、来源记录、审阅和制作资源。它作为AI-first产品打造，同时支持混合工作流，目前正通过引导式上手流程向部分客户交付。"
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS联合创始人兼CEO Gary Mundell表示：“它的价值在于一套互联的制作流程，从根本上改变了制作工作的生成、倍增和管理方式。”"
-       },
-       {
-        "t": "p",
-        "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "LOFTAPPS lleva su sistema de AI\ny una secuela de Mad God a VIEW",
-     "body": "LOFTAPPS lleva su software de AI a VIEW 2026, donde Phil Tippett adelanta la secuela en stop-motion de Mad God.",
-     "mini_headline": "LOFT y una secuela de Mad God",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-        "cap": "Imagen de la secuela de 'Mad God' de Phil Tippett, ahora en producción con LOFT. Imagen cortesía de LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "LOFTAPPS, con sede en Berkeley, California, anunció que LOFT, su software de producción para AI generativa, hará su debut europeo en VIEW Conference 2026, que se celebrará del 12 al 16 de octubre en Turín, Italia. Los asistentes también podrán ver en exclusiva un adelanto de la secuela de Mad God, el largometraje en stop-motion de Phil Tippett, actualmente en producción con LOFT."
-       },
-       {
-        "t": "p",
-        "x": "LOFT gestiona activos, intención creativa, prompts, procedencia, revisión y recursos de producción a lo largo de pipelines complejos y múltiples modelos de AI en un solo sistema. Concebido como un producto AI-first, también admite flujos de trabajo híbridos y ya se distribuye a clientes seleccionados mediante un proceso de incorporación guiado."
-       },
-       {
-        "t": "p",
-        "x": "\"Su valor es un proceso de producción conectado que cambia de raíz cómo se genera, multiplica y gestiona el trabajo de producción\", afirmó Gary Mundell, cofundador y CEO de LOFTAPPS."
-       },
-       {
-        "t": "p",
-        "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "movies-gods-dont-give-gifts-trailer",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Gossip Goblin의\nall-AI R-rated",
-   "body": "Gossip Goblin이 AI로만 만든 R-rated 장편 예고편을 내놓았다.",
-   "mini_headline": "all-AI 장편 예고편",
-   "tool": "Movies",
-   "source": "Deadline",
-   "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
-   "accent": "#f5a623",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-      "cap": "Gods Don't Give Gifts의 한 장면"
-     },
-     {
-      "t": "video",
-      "yt": "1G5LArU7tmE"
-     },
-     {
-      "t": "p",
-      "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 개봉할 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 처음부터 끝까지 인공지능으로 만든 장편이다."
-     },
-     {
-      "t": "p",
-      "x": "sci-fi 장르인 이 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진에 따르면 MPA 등급(R)을 받은 AI 영화도, Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 AI 영화도 이 작품이 처음이다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
-     },
-     {
-      "t": "p",
-      "x": "지난달 Venice Film Festival 마켓에서 먼저 선보인 이 영화의 제작자는 Edward Saatchi다. Saatchi의 AI 기업 Fable은 투자자 중에 Amazon이 있다."
-     },
-     {
-      "t": "p",
-      "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Gossip Goblin unveils trailer\nfor an all-AI R-rated feature",
-     "body": "Gossip Goblin has released the trailer for Gods Don't Give Gifts, an R-rated theatrical feature made entirely with AI.",
-     "mini_headline": "Trailer for an all-AI feature",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "A still from Gods Don't Give Gifts"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "Popular YouTuber Gossip Goblin, aka Zack London, has released the trailer for his forthcoming film Gods Don’t Give Gifts, a feature film made entirely with artificial intelligence."
-       },
-       {
-        "t": "p",
-        "x": "The sci-fi film will open in limited theatrical release in the U.S. and UK on December 4. The filmmakers say it is the first AI film to receive an MPA rating (R) and also to be campaigned in the Best Animated Feature category at the Academy Awards. The trailer goes to theaters on Friday, and billboard ads begin in November."
-       },
-       {
-        "t": "p",
-        "x": "The film, previewed last month at the Venice Film Festival market, is produced by Edward Saatchi, whose AI company Fable counts Amazon among its backers."
-       },
-       {
-        "t": "p",
-        "x": "“Gods Don’t Give Gifts is the first that has a shot at a nomination and then it’s all to play for,” Saatchi said. “We will be screening for voters and running a traditional campaign.”"
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Gossip Goblin의\nall-AI R-rated",
-     "body": "Gossip Goblin이 AI로만 만든 R-rated 장편 예고편을 내놓았다.",
-     "mini_headline": "all-AI 장편 예고편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Gifts의 한 장면"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 개봉할 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 처음부터 끝까지 인공지능으로 만든 장편이다."
-       },
-       {
-        "t": "p",
-        "x": "sci-fi 장르인 이 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진에 따르면 MPA 등급(R)을 받은 AI 영화도, Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 AI 영화도 이 작품이 처음이다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
-       },
-       {
-        "t": "p",
-        "x": "지난달 Venice Film Festival 마켓에서 먼저 선보인 이 영화의 제작자는 Edward Saatchi다. Saatchi의 AI 기업 Fable은 투자자 중에 Amazon이 있다."
-       },
-       {
-        "t": "p",
-        "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Gossip Goblinの\nall-AI R-rated",
-     "body": "Gossip GoblinがAIだけで作ったR-rated長編の予告編を公開した。",
-     "mini_headline": "all-AI長編の予告編",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Giftsの一場面"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "人気YouTuberのGossip Goblin、本名Zack Londonが、全編を人工知能で制作した長編映画Gods Don’t Give Giftsの予告編を公開した。"
-       },
-       {
-        "t": "p",
-        "x": "このsci-fi映画は12月4日にU.S.(米国)とUK(英国)で限定公開される。製作陣によれば、MPAのレーティング(R)を取得した初のAI映画であり、Academy AwardsのBest Animated Feature(長編アニメーション賞)部門でキャンペーンを行う初のAI映画でもある。予告編は金曜日に劇場で流れ始め、看板広告は11月に始まる。"
-       },
-       {
-        "t": "p",
-        "x": "先月のVenice Film Festivalのマーケットで先行披露された本作は、Edward Saatchiがプロデュースした。SaatchiのAI企業Fableは、出資者にAmazonを抱える。"
-       },
-       {
-        "t": "p",
-        "x": "「Gods Don’t Give Giftsはノミネートを狙える初の作品で、あとは勝負次第だ」とSaatchiは語る。「投票者向けの上映を行い、従来型のキャンペーンを展開する」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Gossip Goblin的\nall-AI R-rated",
-     "body": "Gossip Goblin发布全由AI制作的R-rated院线长片预告片。",
-     "mini_headline": "all-AI长片预告片",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Gifts剧照"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "人气YouTuber Gossip Goblin（本名Zack London）发布了新片Gods Don’t Give Gifts的预告片，这是一部完全由人工智能制作的长片。"
-       },
-       {
-        "t": "p",
-        "x": "这部sci-fi影片将于12月4日在U.S.（美国）和UK（英国）有限上映。片方表示，它是首部获得MPA分级（R）的AI电影，也是首部角逐Academy Awards的Best Animated Feature（最佳动画长片）类别的AI电影。预告片将于周五登陆影院，户外广告牌广告将于11月开始投放。"
-       },
-       {
-        "t": "p",
-        "x": "该片上月在Venice Film Festival市场单元进行了预览，由Edward Saatchi担任制片。Saatchi的AI公司Fable的投资方包括Amazon。"
-       },
-       {
-        "t": "p",
-        "x": "Saatchi说：“Gods Don’t Give Gifts是第一部有机会获得提名的作品，接下来一切皆有可能。”“我们将为投票者放映，并开展传统的宣传活动。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Gossip Goblin muestra el tráiler\nde un filme all-AI y R-rated",
-     "body": "Gossip Goblin publicó el tráiler de Gods Don't Give Gifts, un largometraje R-rated para cines hecho solo con AI.",
-     "mini_headline": "Tráiler de un filme all-AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Fotograma de Gods Don't Give Gifts"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "El popular YouTuber Gossip Goblin, alias Zack London, publicó el tráiler de su próxima película Gods Don’t Give Gifts, un largometraje hecho por completo con inteligencia artificial."
-       },
-       {
-        "t": "p",
-        "x": "La película de sci-fi se estrenará en un número limitado de cines de U.S. y UK el 4 de diciembre. Sus responsables afirman que es la primera película de AI en recibir una calificación de la MPA (R) y también la primera en hacer campaña en la categoría Best Animated Feature de los Academy Awards. El tráiler llega a los cines el viernes y los anuncios en vallas comienzan en noviembre."
-       },
-       {
-        "t": "p",
-        "x": "La película, presentada el mes pasado en el mercado del Venice Film Festival, está producida por Edward Saatchi, cuya empresa de AI, Fable, cuenta con Amazon entre sus inversores."
-       },
-       {
-        "t": "p",
-        "x": "“Gods Don’t Give Gifts es la primera que tiene opciones de lograr una nominación, y a partir de ahí todo está por decidir”, dijo Saatchi. “Haremos proyecciones para los votantes y una campaña tradicional”."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Gossip Goblin의\nall-AI R-rated",
-     "body": "Gossip Goblin이 AI로만 만든 R-rated 장편의 예고편을 공개했다.",
-     "mini_headline": "all-AI 장편 예고편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Gifts의 한 장면"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "인기 YouTuber Gossip Goblin(본명 Zack London)이 곧 선보일 영화 Gods Don’t Give Gifts의 예고편을 공개했다. 전부 인공지능으로 만든 장편 영화다."
-       },
-       {
-        "t": "p",
-        "x": "이 sci-fi 영화는 12월 4일 U.S.(미국)와 UK(영국)에서 제한 개봉한다. 제작진은 이 작품이 MPA 등급(R)을 받은 첫 AI 영화이자 Academy Awards의 Best Animated Feature(장편 애니메이션상) 부문 캠페인에 나서는 첫 AI 영화라고 밝혔다. 예고편은 금요일 극장에 걸리고, 옥외 광고판 광고는 11월에 시작한다."
-       },
-       {
-        "t": "p",
-        "x": "지난달 Venice Film Festival 마켓에서 먼저 공개된 이 영화는 Edward Saatchi가 제작했다. Saatchi의 AI 기업 Fable은 투자자 가운데 Amazon을 두고 있다."
-       },
-       {
-        "t": "p",
-        "x": "Saatchi는 “Gods Don’t Give Gifts는 후보 지명을 노려볼 수 있는 첫 작품이고, 그다음은 해 볼 만한 승부”라며 “투표권자 대상 상영을 열고 전통적인 캠페인을 펼칠 것”이라고 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Gossip Goblinの\nall-AI R-rated",
-     "body": "Gossip GoblinがAIだけで作ったR-rated長編の予告編を公開した。",
-     "mini_headline": "all-AI長編の予告編",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Giftsの一場面"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "人気YouTuberのGossip Goblin、本名Zack Londonが、全編を人工知能で制作した長編映画Gods Don’t Give Giftsの予告編を公開した。"
-       },
-       {
-        "t": "p",
-        "x": "このsci-fi映画は12月4日にU.S.(米国)とUK(英国)で限定公開される。製作陣によれば、MPAのレーティング(R)を取得した初のAI映画であり、Academy AwardsのBest Animated Feature(長編アニメーション賞)部門でキャンペーンを行う初のAI映画でもある。予告編は金曜日に劇場で流れ始め、看板広告は11月に始まる。"
-       },
-       {
-        "t": "p",
-        "x": "先月のVenice Film Festivalのマーケットで先行披露された本作は、Edward Saatchiがプロデュースした。SaatchiのAI企業Fableは、出資者にAmazonを抱える。"
-       },
-       {
-        "t": "p",
-        "x": "「Gods Don’t Give Giftsはノミネートを狙える初の作品で、あとは勝負次第だ」とSaatchiは語る。「投票者向けの上映を行い、従来型のキャンペーンを展開する」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Gossip Goblin的\nall-AI R-rated",
-     "body": "Gossip Goblin发布全由AI制作的R-rated院线长片预告片。",
-     "mini_headline": "all-AI长片预告片",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Gods Don't Give Gifts剧照"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "人气YouTuber Gossip Goblin（本名Zack London）发布了新片Gods Don’t Give Gifts的预告片，这是一部完全由人工智能制作的长片。"
-       },
-       {
-        "t": "p",
-        "x": "这部sci-fi影片将于12月4日在U.S.（美国）和UK（英国）有限上映。片方表示，它是首部获得MPA分级（R）的AI电影，也是首部角逐Academy Awards的Best Animated Feature（最佳动画长片）类别的AI电影。预告片将于周五登陆影院，户外广告牌广告将于11月开始投放。"
-       },
-       {
-        "t": "p",
-        "x": "该片上月在Venice Film Festival市场单元进行了预览，由Edward Saatchi担任制片。Saatchi的AI公司Fable的投资方包括Amazon。"
-       },
-       {
-        "t": "p",
-        "x": "Saatchi说：“Gods Don’t Give Gifts是第一部有机会获得提名的作品，接下来一切皆有可能。”“我们将为投票者放映，并开展传统的宣传活动。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Gossip Goblin muestra el tráiler\nde un filme all-AI y R-rated",
-     "body": "Gossip Goblin publicó el tráiler de Gods Don't Give Gifts, un largometraje R-rated para cines hecho solo con AI.",
-     "mini_headline": "Tráiler de un filme all-AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-        "cap": "Fotograma de Gods Don't Give Gifts"
-       },
-       {
-        "t": "video",
-        "yt": "1G5LArU7tmE"
-       },
-       {
-        "t": "p",
-        "x": "El popular YouTuber Gossip Goblin, alias Zack London, publicó el tráiler de su próxima película Gods Don’t Give Gifts, un largometraje hecho por completo con inteligencia artificial."
-       },
-       {
-        "t": "p",
-        "x": "La película de sci-fi se estrenará en un número limitado de cines de U.S. y UK el 4 de diciembre. Sus responsables afirman que es la primera película de AI en recibir una calificación de la MPA (R) y también la primera en hacer campaña en la categoría Best Animated Feature de los Academy Awards. El tráiler llega a los cines el viernes y los anuncios en vallas comienzan en noviembre."
-       },
-       {
-        "t": "p",
-        "x": "La película, presentada el mes pasado en el mercado del Venice Film Festival, está producida por Edward Saatchi, cuya empresa de AI, Fable, cuenta con Amazon entre sus inversores."
-       },
-       {
-        "t": "p",
-        "x": "“Gods Don’t Give Gifts es la primera que tiene opciones de lograr una nominación, y a partir de ahí todo está por decidir”, dijo Saatchi. “Haremos proyecciones para los votantes y una campaña tradicional”."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "movies-sag-aftra-animation-deal",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
-   "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
-   "mini_headline": "SAG-AFTRA 성우 AI 보호",
-   "tool": "Movies",
-   "source": "Cartoon Brew",
-   "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
-   "accent": "#7928ca",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-      "cap": "SAG-AFTRA"
-     },
-     {
-      "t": "p",
-      "x": "SAG-AFTRA 조합원들이 4년짜리 새 TV 애니메이션 협약을 표결에 부친다. 매년 임금 인상, AI 보호 확대, 성우 스트리밍 재방영 분배금(residuals) 개선이 담겼다. AMPTP와 협상한 2026 Television Animation Agreement 잠정안은 조합 집행위원회가 이미 만장일치로 승인했다."
-     },
-     {
-      "t": "p",
-      "x": "임금은 4년 동안 해마다 3%씩 오르고, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
-     },
-     {
-      "t": "p",
-      "x": "우선 과제였던 AI 보호도 넓어진다. 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하되, 애니메이션 연기자에게 맞춰 따로 설계한 조항은 그대로 둔다. 2024년 비준한 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련했다."
-     },
-     {
-      "t": "p",
-      "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오른다. 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
-     },
-     {
-      "t": "p",
-      "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "SAG-AFTRA animation deal adds\nAI protections for voice actors",
-     "body": "SAG-AFTRA members will vote on a TV animation contract that expands AI protections for voice performers.",
-     "mini_headline": "SAG-AFTRA voice AI protections",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRA members will vote on a new four-year television animation agreement that includes annual wage increases, expanded AI protections, and improved streaming residuals for voice actors. The union’s Executive Committee has already unanimously approved the tentative 2026 Television Animation Agreement, negotiated with the AMPTP."
-       },
-       {
-        "t": "p",
-        "x": "The contract guarantees a 3% wage increase in each of its four years, with the first increase retroactive to July 5, 2026."
-       },
-       {
-        "t": "p",
-        "x": "As a point of priority, the agreement also expands AI protections, incorporating improvements negotiated in the union’s 2026 live-action agreements while retaining provisions specifically designed for animation performers. The previous animation contract, ratified in 2024, established the union’s first AI protections specifically for voice actors."
-       },
-       {
-        "t": "p",
-        "x": "Performers would receive an average 5% increase in residuals when programs move to subscription streaming, and the subscriber factor for qualifying programs on large foreign streaming services rises from 39% to 41%. Employer health plan contributions rise 1%, with pension contributions up 1% from 2028 and 0.25% funding a new paid parental leave program."
-       },
-       {
-        "t": "p",
-        "x": "Voting closes October 29 at 5 p.m. PT."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
-     "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
-     "mini_headline": "SAG-AFTRA 성우 AI 보호",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRA 조합원들이 4년짜리 새 TV 애니메이션 협약을 표결에 부친다. 매년 임금 인상, AI 보호 확대, 성우 스트리밍 재방영 분배금(residuals) 개선이 담겼다. AMPTP와 협상한 2026 Television Animation Agreement 잠정안은 조합 집행위원회가 이미 만장일치로 승인했다."
-       },
-       {
-        "t": "p",
-        "x": "임금은 4년 동안 해마다 3%씩 오르고, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
-       },
-       {
-        "t": "p",
-        "x": "우선 과제였던 AI 보호도 넓어진다. 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하되, 애니메이션 연기자에게 맞춰 따로 설계한 조항은 그대로 둔다. 2024년 비준한 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련했다."
-       },
-       {
-        "t": "p",
-        "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오른다. 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
-       },
-       {
-        "t": "p",
-        "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "SAG-AFTRAアニメ協約\n声優のAI保護を拡充",
-     "body": "SAG-AFTRA組合員が、声優のAI保護を広げるTVアニメ契約を投票にかける。",
-     "mini_headline": "SAG-AFTRA、声優のAI保護",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRAの組合員は、毎年の賃上げ、AI保護の拡充、声優のストリーミング残余報酬(residuals)の改善を盛り込んだ4年間の新しいテレビアニメ協約について投票を行う。組合の執行委員会は、AMPTPと交渉した2026 Television Animation Agreementの暫定合意をすでに全会一致で承認している。"
-       },
-       {
-        "t": "p",
-        "x": "契約は4年間の各年に3%の賃上げを保証し、初回の引き上げは2026年7月5日にさかのぼって適用される。"
-       },
-       {
-        "t": "p",
-        "x": "優先課題として、協約はAI保護も拡充する。組合が2026年の実写協約で勝ち取った改善を取り込みつつ、アニメーションの演者向けに特化した条項は維持する。2024年に批准された前回のアニメ契約は、声優に特化した組合初のAI保護を定めたものだった。"
-       },
-       {
-        "t": "p",
-        "x": "番組がサブスクリプション型ストリーミングに移る際、演者の残余報酬は平均5%増え、大手海外ストリーミングサービスで対象となる番組の加入者係数は39%から41%に上がる。雇用主の健康保険拠出は1%上がり、年金拠出は2028年から1%上がり、0.25%は新設の有給育児休暇制度に充てられる。"
-       },
-       {
-        "t": "p",
-        "x": "投票は10月29日5 p.m. PT(太平洋時間午後5時)に締め切られる。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "SAG-AFTRA动画协议\n加强配音演员AI保护",
-     "body": "SAG-AFTRA会员将就一份扩大配音演员AI保护的TV动画合同投票。",
-     "mini_headline": "SAG-AFTRA配音AI保护",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRA会员将就一份新的四年期电视动画协议进行投票，协议包括每年加薪、扩大AI保护以及改善配音演员的流媒体剩余报酬（residuals）。工会执行委员会已一致批准与AMPTP谈判达成的2026 Television Animation Agreement暂定协议。"
-       },
-       {
-        "t": "p",
-        "x": "合同保证四年中每年加薪3%，首次加薪追溯至2026年7月5日。"
-       },
-       {
-        "t": "p",
-        "x": "作为优先事项，协议还扩大了AI保护，纳入工会在2026年真人演出协议中谈得的改进，同时保留专为动画演员设计的条款。2024年批准的上一份动画合同确立了工会首批专门针对配音演员的AI保护。"
-       },
-       {
-        "t": "p",
-        "x": "节目转入订阅制流媒体时，演员的剩余报酬平均增加5%；在大型海外流媒体服务上符合条件的节目，其订阅者系数从39%提高到41%。雇主健康计划缴款提高1%，养老金缴款自2028年起提高1%，另有0.25%用于资助新的带薪育儿假计划。"
-       },
-       {
-        "t": "p",
-        "x": "投票将于10月29日5 p.m. PT（太平洋时间下午5点）截止。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "SAG-AFTRA amplía la protección\nante la AI en voces de animación",
-     "body": "Los miembros de SAG-AFTRA votarán un contrato de TV animada que amplía las protecciones de AI para actores de voz.",
-     "mini_headline": "SAG-AFTRA: protección de voces ante la AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "Los miembros de SAG-AFTRA votarán un nuevo acuerdo de animación televisiva de cuatro años que incluye aumentos salariales anuales, protecciones de AI ampliadas y mejores residuales de streaming para actores de voz. El Comité Ejecutivo del sindicato ya aprobó por unanimidad el acuerdo provisional 2026 Television Animation Agreement, negociado con la AMPTP."
-       },
-       {
-        "t": "p",
-        "x": "El contrato garantiza un aumento salarial del 3% en cada uno de sus cuatro años, con el primer aumento retroactivo al 5 de julio de 2026."
-       },
-       {
-        "t": "p",
-        "x": "Como prioridad, el acuerdo también amplía las protecciones de AI: incorpora mejoras negociadas en los acuerdos de acción real del sindicato de 2026 y conserva disposiciones diseñadas específicamente para intérpretes de animación. El contrato de animación anterior, ratificado en 2024, estableció las primeras protecciones de AI del sindicato dirigidas específicamente a actores de voz."
-       },
-       {
-        "t": "p",
-        "x": "Los intérpretes recibirían un aumento medio del 5% en residuales cuando los programas pasen al streaming por suscripción, y el factor de suscriptores para programas elegibles en grandes servicios de streaming extranjeros sube del 39% al 41%. Las contribuciones del empleador al plan de salud suben un 1%, las de pensiones aumentan un 1% a partir de 2028 y un 0.25% financia un nuevo programa de licencia parental remunerada."
-       },
-       {
-        "t": "p",
-        "x": "La votación cierra el 29 de octubre a las 5 p.m. PT."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "SAG-AFTRA 애니계약\n성우 AI 보호 확대",
-     "body": "SAG-AFTRA 조합원이 성우 AI 보호를 넓힌 TV 애니 계약을 표결한다.",
-     "mini_headline": "SAG-AFTRA 성우 AI 보호",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRA 조합원들이 매년 임금 인상, AI 보호 확대, 성우를 위한 스트리밍 재방영 분배금(residuals) 개선을 담은 4년짜리 새 TV 애니메이션 협약을 두고 투표한다. 조합 집행위원회는 AMPTP와 협상한 2026 Television Animation Agreement 잠정안을 이미 만장일치로 승인했다."
-       },
-       {
-        "t": "p",
-        "x": "계약은 4년 동안 매년 3% 임금 인상을 보장하며, 첫 인상분은 2026년 7월 5일로 소급 적용한다."
-       },
-       {
-        "t": "p",
-        "x": "우선 과제였던 AI 보호도 넓어진다. 조합이 2026년 실사 협약에서 얻어 낸 개선 사항을 반영하면서, 애니메이션 연기자를 위해 따로 설계한 조항은 그대로 유지한다. 2024년 비준된 이전 애니메이션 계약은 조합 최초로 성우 전용 AI 보호 장치를 마련한 바 있다."
-       },
-       {
-        "t": "p",
-        "x": "작품이 구독형 스트리밍으로 넘어가면 연기자의 재방영 분배금은 평균 5% 늘고, 대형 해외 스트리밍 서비스에서 요건을 충족하는 작품의 구독자 계수는 39%에서 41%로 오른다. 고용주의 건강보험 기여금은 1% 오르고, 연금 기여금은 2028년부터 1% 오르며, 0.25%는 새로 도입하는 유급 육아휴직 프로그램 재원으로 쓴다."
-       },
-       {
-        "t": "p",
-        "x": "투표는 10월 29일 5 p.m. PT(태평양시간 오후 5시)에 마감한다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "SAG-AFTRAアニメ協約\n声優のAI保護を拡充",
-     "body": "SAG-AFTRA組合員が、声優のAI保護を広げるTVアニメ契約を投票にかける。",
-     "mini_headline": "SAG-AFTRA、声優のAI保護",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRAの組合員は、毎年の賃上げ、AI保護の拡充、声優のストリーミング残余報酬(residuals)の改善を盛り込んだ4年間の新しいテレビアニメ協約について投票を行う。組合の執行委員会は、AMPTPと交渉した2026 Television Animation Agreementの暫定合意をすでに全会一致で承認している。"
-       },
-       {
-        "t": "p",
-        "x": "契約は4年間の各年に3%の賃上げを保証し、初回の引き上げは2026年7月5日にさかのぼって適用される。"
-       },
-       {
-        "t": "p",
-        "x": "優先課題として、協約はAI保護も拡充する。組合が2026年の実写協約で勝ち取った改善を取り込みつつ、アニメーションの演者向けに特化した条項は維持する。2024年に批准された前回のアニメ契約は、声優に特化した組合初のAI保護を定めたものだった。"
-       },
-       {
-        "t": "p",
-        "x": "番組がサブスクリプション型ストリーミングに移る際、演者の残余報酬は平均5%増え、大手海外ストリーミングサービスで対象となる番組の加入者係数は39%から41%に上がる。雇用主の健康保険拠出は1%上がり、年金拠出は2028年から1%上がり、0.25%は新設の有給育児休暇制度に充てられる。"
-       },
-       {
-        "t": "p",
-        "x": "投票は10月29日5 p.m. PT(太平洋時間午後5時)に締め切られる。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "SAG-AFTRA动画协议\n加强配音演员AI保护",
-     "body": "SAG-AFTRA会员将就一份扩大配音演员AI保护的TV动画合同投票。",
-     "mini_headline": "SAG-AFTRA配音AI保护",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "SAG-AFTRA会员将就一份新的四年期电视动画协议进行投票，协议包括每年加薪、扩大AI保护以及改善配音演员的流媒体剩余报酬（residuals）。工会执行委员会已一致批准与AMPTP谈判达成的2026 Television Animation Agreement暂定协议。"
-       },
-       {
-        "t": "p",
-        "x": "合同保证四年中每年加薪3%，首次加薪追溯至2026年7月5日。"
-       },
-       {
-        "t": "p",
-        "x": "作为优先事项，协议还扩大了AI保护，纳入工会在2026年真人演出协议中谈得的改进，同时保留专为动画演员设计的条款。2024年批准的上一份动画合同确立了工会首批专门针对配音演员的AI保护。"
-       },
-       {
-        "t": "p",
-        "x": "节目转入订阅制流媒体时，演员的剩余报酬平均增加5%；在大型海外流媒体服务上符合条件的节目，其订阅者系数从39%提高到41%。雇主健康计划缴款提高1%，养老金缴款自2028年起提高1%，另有0.25%用于资助新的带薪育儿假计划。"
-       },
-       {
-        "t": "p",
-        "x": "投票将于10月29日5 p.m. PT（太平洋时间下午5点）截止。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "SAG-AFTRA amplía la protección\nante la AI en voces de animación",
-     "body": "Los miembros de SAG-AFTRA votarán un contrato de TV animada que amplía las protecciones de AI para actores de voz.",
-     "mini_headline": "SAG-AFTRA: protección de voces ante la AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-        "cap": "SAG-AFTRA"
-       },
-       {
-        "t": "p",
-        "x": "Los miembros de SAG-AFTRA votarán un nuevo acuerdo de animación televisiva de cuatro años que incluye aumentos salariales anuales, protecciones de AI ampliadas y mejores residuales de streaming para actores de voz. El Comité Ejecutivo del sindicato ya aprobó por unanimidad el acuerdo provisional 2026 Television Animation Agreement, negociado con la AMPTP."
-       },
-       {
-        "t": "p",
-        "x": "El contrato garantiza un aumento salarial del 3% en cada uno de sus cuatro años, con el primer aumento retroactivo al 5 de julio de 2026."
-       },
-       {
-        "t": "p",
-        "x": "Como prioridad, el acuerdo también amplía las protecciones de AI: incorpora mejoras negociadas en los acuerdos de acción real del sindicato de 2026 y conserva disposiciones diseñadas específicamente para intérpretes de animación. El contrato de animación anterior, ratificado en 2024, estableció las primeras protecciones de AI del sindicato dirigidas específicamente a actores de voz."
-       },
-       {
-        "t": "p",
-        "x": "Los intérpretes recibirían un aumento medio del 5% en residuales cuando los programas pasen al streaming por suscripción, y el factor de suscriptores para programas elegibles en grandes servicios de streaming extranjeros sube del 39% al 41%. Las contribuciones del empleador al plan de salud suben un 1%, las de pensiones aumentan un 1% a partir de 2028 y un 0.25% financia un nuevo programa de licencia parental remunerada."
-       },
-       {
-        "t": "p",
-        "x": "La votación cierra el 29 de octubre a las 5 p.m. PT."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "movies-vfx-voice-future-tools",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "VFX 업계가 꼽은 툴\nshot-making 재편",
-   "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
-   "mini_headline": "VFX를 바꿀 도구들",
-   "tool": "Movies",
-   "source": "VFX Voice",
-   "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
-   "accent": "#2ec5c5",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-      "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
-     },
-     {
-      "t": "p",
-      "x": "AI가 화제의 중심일지 몰라도 더 큰 변화의 한 조각일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 모여 새 툴킷이 된다. 일정은 줄고 가능성은 넓어지며, 창작 통제권을 누가 쥐는지도 달라진다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 도구를 꼽아 달라고 했다."
-     },
-     {
-      "t": "img",
-      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-      "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
-     },
-     {
-      "t": "p",
-      "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 사이 복잡한 디테일을 실시간으로 채워 주는 조수 같은 ML 도구다. 무작위로 생성하지 않고, 오로지 아티스트의 선택대로 움직인다."
-     },
-     {
-      "t": "p",
-      "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 발목을 잡는 만큼 당분간 생성형 AI가 최종 픽셀에 쓰이지 않을 공산이 크다고 본다."
-     },
-     {
-      "t": "img",
-      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-      "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
-     },
-     {
-      "t": "p",
-      "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 간다고 본다. 다른 응답자들은 Gaussian splatting, Houdini와 Nuke에 들어간 ML, 후반 작업 전반의 실시간 협업을 꼽았다."
-     },
-     {
-      "t": "img",
-      "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-      "cap": "Nuke 17의 Gaussian splats"
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "VFX insiders name the tools\nset to reshape shot-making",
-     "body": "VFX artists name the ML, real-time, virtual production and cloud tools they expect to reshape how shots are made.",
-     "mini_headline": "The tools reshaping VFX",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FX’s Kora fire simulation toolset powered the combustion effects of Avatar: Fire and Ash. (Image courtesy of Wētā FX and 20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "AI may be the headline, but it’s only part of a broader shift. Real-time engines, virtual production, cloud workflows and increasingly intelligent systems are converging into a new kind of toolkit – one that compresses timelines, expands possibilities and shifts who holds creative control. VFX Voice asked artists, supervisors and technologists to identify the tools they believe will shape what comes next."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "ILM’s StageCraft LED volume on Thor: Love and Thunder"
-       },
-       {
-        "t": "p",
-        "x": "ILM’s Rob Bredow is most interested in art-directable machine learning: ML tools that act as assistants, filling in complex details in real-time as an artist draws, driven entirely by artistic choices rather than random generation."
-       },
-       {
-        "t": "p",
-        "x": "Wētā FX CTO Kimball Thurston expects that in the short term generative AI will likely not be used for final pixels, as governance, quality and token cost issues compound to restrict usage."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas combines AI video models, node-based workflow automation and traditional compositing tools"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AI CEO Hoon Kim sees a transition from AI as a purely generative tool toward AI as a controllable production system, while others point to Gaussian splatting, ML inside Houdini and Nuke, and real-time collaboration across post."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Gaussian splats in Nuke 17"
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "VFX 업계가 꼽은 툴\nshot-making 재편",
-     "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
-     "mini_headline": "VFX를 바꿀 도구들",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "AI가 화제의 중심일지 몰라도 더 큰 변화의 한 조각일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 모여 새 툴킷이 된다. 일정은 줄고 가능성은 넓어지며, 창작 통제권을 누가 쥐는지도 달라진다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 도구를 꼽아 달라고 했다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
-       },
-       {
-        "t": "p",
-        "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 사이 복잡한 디테일을 실시간으로 채워 주는 조수 같은 ML 도구다. 무작위로 생성하지 않고, 오로지 아티스트의 선택대로 움직인다."
-       },
-       {
-        "t": "p",
-        "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 발목을 잡는 만큼 당분간 생성형 AI가 최종 픽셀에 쓰이지 않을 공산이 크다고 본다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 간다고 본다. 다른 응답자들은 Gaussian splatting, Houdini와 Nuke에 들어간 ML, 후반 작업 전반의 실시간 협업을 꼽았다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17의 Gaussian splats"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "VFX業界が挙げるツール\nshot-makingを刷新",
-     "body": "VFXアーティストが、ML、real-time、仮想制作、クラウドのツールを挙げた。",
-     "mini_headline": "VFXを変えるツール",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FXのKora炎シミュレーションツールセットが、Avatar: Fire and Ashの燃焼エフェクトを支えた。(画像提供：Wētā FX、20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "見出しを飾るのはAIかもしれないが、それはより大きな変化の一部にすぎない。リアルタイムエンジン、バーチャルプロダクション、クラウドワークフロー、そして賢さを増すシステムが、新たなツールキットへと収束しつつある。スケジュールを圧縮し、可能性を広げ、創作の主導権を誰が握るかまで変えるツールキットだ。VFX Voiceは、アーティスト、スーパーバイザー、技術者に、次の時代を形づくると考えるツールを挙げてもらった。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "Thor: Love and Thunderで使われたILMのStageCraft LEDボリューム"
-       },
-       {
-        "t": "p",
-        "x": "ILMのRob Bredowが最も関心を寄せるのは、アートディレクション可能な機械学習だ。アーティストが描く間に複雑なディテールをリアルタイムで補うアシスタントとしてのMLツールで、ランダムな生成ではなく、あくまでアーティストの選択によって動く。"
-       },
-       {
-        "t": "p",
-        "x": "Wētā FXのCTO、Kimball Thurstonは、ガバナンス、品質、トークンコストの問題が重なって利用が制約されるため、短期的には生成AIが最終ピクセルに使われる可能性は低いとみる。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvasは、AIビデオモデル、ノードベースのワークフロー自動化、従来のコンポジットツールを組み合わせる"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AIのCEO、Hoon Kimは、AIが純粋な生成ツールから制御可能な制作システムへ移行しつつあるとみる。ほかの人々は、Gaussian splatting、HoudiniやNukeに組み込まれたML、ポスト工程全体でのリアルタイム協業を挙げる。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17のGaussian splats"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "VFX业内人士点名工具\n将重塑shot-making",
-     "body": "VFX艺术家列出有望重塑镜头制作的ML、real-time、虚拟制作与云端工具。",
-     "mini_headline": "重塑VFX的工具",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FX的Kora火焰模拟工具集为Avatar: Fire and Ash打造了燃烧效果。（图片由Wētā FX和20th Century Studios提供）"
-       },
-       {
-        "t": "p",
-        "x": "AI或许是头条，但它只是更大变革的一部分。实时引擎、虚拟制作、云端工作流和日益智能的系统正汇聚成一种新型工具包——它压缩工期、拓展可能，并改变由谁掌握创作控制权。VFX Voice请艺术家、总监和技术专家列出他们认为将塑造未来的工具。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "ILM在Thor: Love and Thunder中使用的StageCraft LED影棚"
-       },
-       {
-        "t": "p",
-        "x": "ILM的Rob Bredow最感兴趣的是可进行美术指导的机器学习：ML工具充当助手，在艺术家绘制时实时补全复杂细节，完全由艺术选择驱动，而非随机生成。"
-       },
-       {
-        "t": "p",
-        "x": "Wētā FX CTO Kimball Thurston预计，短期内生成式AI很可能不会用于最终像素，因为治理、质量和token成本问题叠加，限制了其使用。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas结合了AI视频模型、基于节点的工作流自动化和传统合成工具"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AI CEO Hoon Kim认为，AI正从纯粹的生成工具转向可控的制作系统；其他人则提到Gaussian splatting、Houdini和Nuke中的ML，以及整个后期环节的实时协作。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17中的Gaussian splats"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "VFX: las herramientas que\ncambiarán el shot-making",
-     "body": "Artistas de VFX nombran herramientas de ML, real-time, producción virtual y nube que cambiarán la creación de planos.",
-     "mini_headline": "Las herramientas que cambian los VFX",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "El conjunto de herramientas de simulación de fuego Kora de Wētā FX impulsó los efectos de combustión de Avatar: Fire and Ash. (Imagen cortesía de Wētā FX y 20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "La AI puede acaparar los titulares, pero es solo parte de un cambio más amplio. Los motores en tiempo real, la producción virtual, los flujos de trabajo en la nube y unos sistemas cada vez más inteligentes convergen en un nuevo tipo de kit de herramientas, uno que comprime los plazos, amplía las posibilidades y cambia quién tiene el control creativo. VFX Voice pidió a artistas, supervisores y tecnólogos que identificaran las herramientas que, en su opinión, definirán lo que viene."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "El volumen LED StageCraft de ILM en Thor: Love and Thunder"
-       },
-       {
-        "t": "p",
-        "x": "A Rob Bredow, de ILM, le interesa sobre todo el aprendizaje automático dirigible artísticamente: herramientas de ML que actúan como asistentes y completan detalles complejos en tiempo real mientras el artista dibuja, guiadas por completo por decisiones artísticas y no por generación aleatoria."
-       },
-       {
-        "t": "p",
-        "x": "Kimball Thurston, CTO de Wētā FX, prevé que a corto plazo la AI generativa probablemente no se usará para los píxeles finales, ya que los problemas de gobernanza, calidad y costo de tokens se suman para restringir su uso."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas combina modelos de video de AI, automatización de flujos de trabajo basada en nodos y herramientas tradicionales de composición"
-       },
-       {
-        "t": "p",
-        "x": "Hoon Kim, CEO de Beeble AI, ve una transición de la AI como herramienta puramente generativa hacia la AI como sistema de producción controlable, mientras otros señalan el Gaussian splatting, el ML dentro de Houdini y Nuke, y la colaboración en tiempo real en toda la posproducción."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Gaussian splats en Nuke 17"
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "VFX 업계가 꼽은 툴,\nshot-making 재편",
-     "body": "VFX 아티스트들이 ML·real-time·가상 제작·클라우드 툴을 꼽았다.",
-     "mini_headline": "VFX를 바꿀 도구들",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FX의 Kora 화염 시뮬레이션 툴셋이 Avatar: Fire and Ash의 연소 효과를 구현했다. (이미지 제공: Wētā FX, 20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "AI가 화제의 중심일지 몰라도 이는 더 큰 변화의 일부일 뿐이다. 실시간 엔진, 버추얼 프로덕션, 클라우드 워크플로, 점점 똑똑해지는 시스템이 하나로 모여 새로운 툴킷을 이루고 있다. 일정을 압축하고 가능성을 넓히며 창작 통제권을 누가 쥐는지까지 바꾸는 툴킷이다. VFX Voice는 아티스트, 슈퍼바이저, 기술자들에게 앞으로를 좌우할 것으로 보는 도구를 꼽아 달라고 요청했다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "Thor: Love and Thunder에 쓰인 ILM의 StageCraft LED 볼륨"
-       },
-       {
-        "t": "p",
-        "x": "ILM의 Rob Bredow가 가장 관심을 두는 분야는 아트 디렉션이 가능한 머신러닝이다. 아티스트가 그리는 동안 복잡한 디테일을 실시간으로 채워 주는 조수 역할의 ML 도구로, 무작위 생성이 아니라 전적으로 아티스트의 선택에 따라 움직인다."
-       },
-       {
-        "t": "p",
-        "x": "Wētā FX CTO Kimball Thurston은 거버넌스, 품질, 토큰 비용 문제가 겹쳐 사용을 제약하는 만큼 단기적으로 생성형 AI가 최종 픽셀에는 쓰이지 않을 가능성이 높다고 내다본다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas는 AI 비디오 모델, 노드 기반 워크플로 자동화, 전통적인 컴포지팅 도구를 결합한다"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AI CEO Hoon Kim은 AI가 순수한 생성 도구에서 통제 가능한 제작 시스템으로 옮겨 가고 있다고 본다. 다른 이들은 Gaussian splatting, Houdini와 Nuke 안의 ML, 후반 작업 전반의 실시간 협업을 꼽는다."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17의 Gaussian splats"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "VFX業界が挙げるツール\nshot-makingを刷新",
-     "body": "VFXアーティストが、ML、real-time、仮想制作、クラウドのツールを挙げた。",
-     "mini_headline": "VFXを変えるツール",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FXのKora炎シミュレーションツールセットが、Avatar: Fire and Ashの燃焼エフェクトを支えた。(画像提供：Wētā FX、20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "見出しを飾るのはAIかもしれないが、それはより大きな変化の一部にすぎない。リアルタイムエンジン、バーチャルプロダクション、クラウドワークフロー、そして賢さを増すシステムが、新たなツールキットへと収束しつつある。スケジュールを圧縮し、可能性を広げ、創作の主導権を誰が握るかまで変えるツールキットだ。VFX Voiceは、アーティスト、スーパーバイザー、技術者に、次の時代を形づくると考えるツールを挙げてもらった。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "Thor: Love and Thunderで使われたILMのStageCraft LEDボリューム"
-       },
-       {
-        "t": "p",
-        "x": "ILMのRob Bredowが最も関心を寄せるのは、アートディレクション可能な機械学習だ。アーティストが描く間に複雑なディテールをリアルタイムで補うアシスタントとしてのMLツールで、ランダムな生成ではなく、あくまでアーティストの選択によって動く。"
-       },
-       {
-        "t": "p",
-        "x": "Wētā FXのCTO、Kimball Thurstonは、ガバナンス、品質、トークンコストの問題が重なって利用が制約されるため、短期的には生成AIが最終ピクセルに使われる可能性は低いとみる。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvasは、AIビデオモデル、ノードベースのワークフロー自動化、従来のコンポジットツールを組み合わせる"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AIのCEO、Hoon Kimは、AIが純粋な生成ツールから制御可能な制作システムへ移行しつつあるとみる。ほかの人々は、Gaussian splatting、HoudiniやNukeに組み込まれたML、ポスト工程全体でのリアルタイム協業を挙げる。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17のGaussian splats"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "VFX业内人士点名工具\n将重塑shot-making",
-     "body": "VFX艺术家列出有望重塑镜头制作的ML、real-time、虚拟制作与云端工具。",
-     "mini_headline": "重塑VFX的工具",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "Wētā FX的Kora火焰模拟工具集为Avatar: Fire and Ash打造了燃烧效果。（图片由Wētā FX和20th Century Studios提供）"
-       },
-       {
-        "t": "p",
-        "x": "AI或许是头条，但它只是更大变革的一部分。实时引擎、虚拟制作、云端工作流和日益智能的系统正汇聚成一种新型工具包——它压缩工期、拓展可能，并改变由谁掌握创作控制权。VFX Voice请艺术家、总监和技术专家列出他们认为将塑造未来的工具。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "ILM在Thor: Love and Thunder中使用的StageCraft LED影棚"
-       },
-       {
-        "t": "p",
-        "x": "ILM的Rob Bredow最感兴趣的是可进行美术指导的机器学习：ML工具充当助手，在艺术家绘制时实时补全复杂细节，完全由艺术选择驱动，而非随机生成。"
-       },
-       {
-        "t": "p",
-        "x": "Wētā FX CTO Kimball Thurston预计，短期内生成式AI很可能不会用于最终像素，因为治理、质量和token成本问题叠加，限制了其使用。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas结合了AI视频模型、基于节点的工作流自动化和传统合成工具"
-       },
-       {
-        "t": "p",
-        "x": "Beeble AI CEO Hoon Kim认为，AI正从纯粹的生成工具转向可控的制作系统；其他人则提到Gaussian splatting、Houdini和Nuke中的ML，以及整个后期环节的实时协作。"
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Nuke 17中的Gaussian splats"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "VFX: las herramientas que\ncambiarán el shot-making",
-     "body": "Artistas de VFX nombran herramientas de ML, real-time, producción virtual y nube que cambiarán la creación de planos.",
-     "mini_headline": "Las herramientas que cambian los VFX",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129-1024x540.jpg",
-        "cap": "El conjunto de herramientas de simulación de fuego Kora de Wētā FX impulsó los efectos de combustión de Avatar: Fire and Ash. (Imagen cortesía de Wētā FX y 20th Century Studios)"
-       },
-       {
-        "t": "p",
-        "x": "La AI puede acaparar los titulares, pero es solo parte de un cambio más amplio. Los motores en tiempo real, la producción virtual, los flujos de trabajo en la nube y unos sistemas cada vez más inteligentes convergen en un nuevo tipo de kit de herramientas, uno que comprime los plazos, amplía las posibilidades y cambia quién tiene el control creativo. VFX Voice pidió a artistas, supervisores y tecnólogos que identificaran las herramientas que, en su opinión, definirán lo que viene."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-2-Thor_LoveThunder-ILMStageCraft-TBS-30563_R-1024x681.jpg",
-        "cap": "El volumen LED StageCraft de ILM en Thor: Love and Thunder"
-       },
-       {
-        "t": "p",
-        "x": "A Rob Bredow, de ILM, le interesa sobre todo el aprendizaje automático dirigible artísticamente: herramientas de ML que actúan como asistentes y completan detalles complejos en tiempo real mientras el artista dibuja, guiadas por completo por decisiones artísticas y no por generación aleatoria."
-       },
-       {
-        "t": "p",
-        "x": "Kimball Thurston, CTO de Wētā FX, prevé que a corto plazo la AI generativa probablemente no se usará para los píxeles finales, ya que los problemas de gobernanza, calidad y costo de tokens se suman para restringir su uso."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11-Beeble-Canvas-Laptop-Studio-Picture-1024x576.jpg",
-        "cap": "Beeble Canvas combina modelos de video de AI, automatización de flujos de trabajo basada en nodos y herramientas tradicionales de composición"
-       },
-       {
-        "t": "p",
-        "x": "Hoon Kim, CEO de Beeble AI, ve una transición de la AI como herramienta puramente generativa hacia la AI como sistema de producción controlable, mientras otros señalan el Gaussian splatting, el ML dentro de Houdini y Nuke, y la colaboración en tiempo real en toda la posproducción."
-       },
-       {
-        "t": "img",
-        "src": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-16-Nuke-17.0-_Gaussian-Splats-2-1024x576.jpg",
-        "cap": "Gaussian splats en Nuke 17"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "movies-katzenberg-forecast-check",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
-   "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
-   "mini_headline": "Katzenberg의 AI 예측 검증",
-   "tool": "Movies",
-   "source": "postPerspective",
-   "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
-   "accent": "#eb367f",
-   "motif": "frame",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-      "cap": "2026, 곧 찾아온다"
-     },
-     {
-      "t": "p",
-      "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 이렇게 예측했다. 세계 수준의 애니메이션 영화 한 편에 드는 아티스트가 2026년이면 500명에서 50명 미만으로 준다는 것이다."
-     },
-     {
-      "t": "p",
-      "x": "Joseph Bell이 1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Visual Effects & Animation World Atlas를 보면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오의 직무를 많이 대체하지도, 새 직무를 많이 만들지도 못했다. 아티스트들은 하던 일 안에서 AI 도구를 받아들이는 중이다."
-     },
-     {
-      "t": "p",
-      "x": "전 세계 업계 인력은 지난 12개월간 2.7% 늘었다. Los Angeles가 1.5% 줄어든 사이 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 작아졌다. Roto/paint 직무는 8.7% 늘었고, AI는 아직 그 일을 넘겨받지 못했다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%뿐이다."
-     },
-     {
-      "t": "p",
-      "x": "2023년에 아티스트 500명이 필요했던 영화를 지금은 50명이 만들 수 있을까? 답은 “아직은 아니다(Not yet).”"
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Checking Katzenberg's call\non AI-shrunk animation crews",
-     "body": "Joseph Bell tests Katzenberg's 2023 forecast that AI would shrink a 500-artist animated crew to under 50 by 2026.",
-     "mini_headline": "Katzenberg's AI forecast, tested",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026, coming soon"
-       },
-       {
-        "t": "p",
-        "x": "Three years ago, Jeffrey Katzenberg, co-founder and former CEO of DreamWorks Animation, predicted that the number of artists needed to make a world-class animated movie would decrease from 500 to less than 50 by 2026."
-       },
-       {
-        "t": "p",
-        "x": "Joseph Bell’s Visual Effects & Animation World Atlas, built on over 1.1 million datapoints, finds that by mid-2026 AI has not yet replaced a significant number of roles at traditional VFX and animation studios, nor has it created many new ones. AI tools are being adopted by artists in their existing roles."
-       },
-       {
-        "t": "p",
-        "x": "Globally, industry headcount increased 2.7% in the past 12 months. Los Angeles contracted by 1.5% while Vancouver rebounded by 11.3%. Average US VFX studio size fell from 34 to 29 people. Roto/paint roles increased 8.7%, suggesting AI is not yet ready to take over that work. AI-specific roles are just 0.1% of roles at traditional studios in 2026."
-       },
-       {
-        "t": "p",
-        "x": "Can the same movie that required 500 artists back in 2023 be made by 50 artists today? “Not yet.”"
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
-     "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
-     "mini_headline": "Katzenberg의 AI 예측 검증",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026, 곧 찾아온다"
-       },
-       {
-        "t": "p",
-        "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 이렇게 예측했다. 세계 수준의 애니메이션 영화 한 편에 드는 아티스트가 2026년이면 500명에서 50명 미만으로 준다는 것이다."
-       },
-       {
-        "t": "p",
-        "x": "Joseph Bell이 1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Visual Effects & Animation World Atlas를 보면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오의 직무를 많이 대체하지도, 새 직무를 많이 만들지도 못했다. 아티스트들은 하던 일 안에서 AI 도구를 받아들이는 중이다."
-       },
-       {
-        "t": "p",
-        "x": "전 세계 업계 인력은 지난 12개월간 2.7% 늘었다. Los Angeles가 1.5% 줄어든 사이 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 작아졌다. Roto/paint 직무는 8.7% 늘었고, AI는 아직 그 일을 넘겨받지 못했다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%뿐이다."
-       },
-       {
-        "t": "p",
-        "x": "2023년에 아티스트 500명이 필요했던 영화를 지금은 50명이 만들 수 있을까? 답은 “아직은 아니다(Not yet).”"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Katzenberg予測の\nAI-shrunk説を検証",
-     "body": "Joseph Bellが、Katzenbergの2023年のAI予測を検証する。",
-     "mini_headline": "KatzenbergのAI予測を検証",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026、まもなく到来"
-       },
-       {
-        "t": "p",
-        "x": "3年前、DreamWorks Animationの共同創業者で元CEOのJeffrey Katzenbergは、世界水準のアニメ映画をつくるのに必要なアーティストの数が、2026年までに500人から50人未満に減ると予測した。"
-       },
-       {
-        "t": "p",
-        "x": "1.1 million(110万)を超えるデータポイントに基づくJoseph BellのVisual Effects & Animation World Atlasによれば、mid-2026(2026年半ば)の時点でAIは従来のVFX・アニメスタジオで多くの職を置き換えておらず、新しい職もあまり生んでいない。AIツールは、アーティストが既存の職務のなかで取り入れている。"
-       },
-       {
-        "t": "p",
-        "x": "世界全体で業界の人員は過去12カ月で2.7%増えた。Los Angelesは1.5%縮小した一方、Vancouverは11.3%回復した。USのVFXスタジオの平均規模は34人から29人に減った。Roto/paintの職は8.7%増えており、AIがまだその仕事を担える段階にないことを示す。2026年の従来型スタジオで、AI-specificの職は全体のわずか0.1%だ。"
-       },
-       {
-        "t": "p",
-        "x": "2023年に500人のアーティストを要した同じ映画を、いま50人でつくれるのか。「まだだ(Not yet)」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "检验Katzenberg\nAI-shrunk团队预言",
-     "body": "Joseph Bell检验Katzenberg的预测：AI让500人团队缩至不足50人。",
-     "mini_headline": "检验Katzenberg的AI预测",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026，即将到来"
-       },
-       {
-        "t": "p",
-        "x": "三年前，DreamWorks Animation联合创始人、前CEO Jeffrey Katzenberg预测，到2026年，制作一部世界级动画电影所需的艺术家人数将从500人降至不足50人。"
-       },
-       {
-        "t": "p",
-        "x": "Joseph Bell的Visual Effects & Animation World Atlas基于超过1.1 million（110万）个数据点，发现到mid-2026（2026年年中），AI尚未在传统VFX和动画工作室取代大量岗位，也没有创造出很多新岗位。艺术家们正在现有岗位中采用AI工具。"
-       },
-       {
-        "t": "p",
-        "x": "全球行业从业人数在过去12个月增长2.7%。Los Angeles收缩1.5%，Vancouver则反弹11.3%。US VFX工作室的平均规模从34人降至29人。Roto/paint岗位增长8.7%，说明AI尚未准备好接手这类工作。2026年，AI-specific岗位仅占传统工作室岗位的0.1%。"
-       },
-       {
-        "t": "p",
-        "x": "2023年需要500名艺术家的同一部电影，如今能由50名艺术家完成吗？“还不行（Not yet）。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "A prueba, la tesis de Katzenberg\nsobre equipos AI-shrunk",
-     "body": "Joseph Bell revisa el cálculo de Katzenberg de 2023: la AI reduciría un equipo de 500 artistas a menos de 50 en 2026.",
-     "mini_headline": "El pronóstico de Katzenberg sobre la AI, a prueba",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026, muy pronto"
-       },
-       {
-        "t": "p",
-        "x": "Hace tres años, Jeffrey Katzenberg, cofundador y ex CEO de DreamWorks Animation, predijo que el número de artistas necesarios para hacer una película animada de primer nivel bajaría de 500 a menos de 50 para 2026."
-       },
-       {
-        "t": "p",
-        "x": "El Visual Effects & Animation World Atlas de Joseph Bell, construido con más de 1.1 millones de puntos de datos, concluye que a mediados de 2026 (mid-2026) la AI aún no ha reemplazado un número significativo de puestos en los estudios tradicionales de VFX y animación, ni ha creado muchos nuevos. Los artistas están adoptando herramientas de AI en sus puestos actuales."
-       },
-       {
-        "t": "p",
-        "x": "A nivel mundial, la plantilla del sector aumentó un 2.7% en los últimos 12 meses. Los Angeles se contrajo un 1.5%, mientras que Vancouver repuntó un 11.3%. El tamaño medio de un estudio de VFX en US bajó de 34 a 29 personas. Los puestos de Roto/paint aumentaron un 8.7%, lo que sugiere que la AI aún no está lista para asumir ese trabajo. Los puestos AI-specific representan apenas el 0.1% de los puestos en los estudios tradicionales en 2026."
-       },
-       {
-        "t": "p",
-        "x": "¿Puede la misma película que requería 500 artistas en 2023 hacerse hoy con 50 artistas? “Todavía no”."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Katzenberg의 예측\nAI-shrunk 팀 검증",
-     "body": "Joseph Bell이 Katzenberg의 2023년 AI 감원 예측을 따진다.",
-     "mini_headline": "Katzenberg의 AI 예측 검증",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026, 곧 찾아온다"
-       },
-       {
-        "t": "p",
-        "x": "3년 전 DreamWorks Animation 공동 창업자이자 전 CEO인 Jeffrey Katzenberg는 세계 수준의 애니메이션 영화 한 편에 필요한 아티스트 수가 2026년까지 500명에서 50명 미만으로 줄 것이라고 예측했다."
-       },
-       {
-        "t": "p",
-        "x": "1.1 million(110만) 개가 넘는 데이터 포인트로 만든 Joseph Bell의 Visual Effects & Animation World Atlas에 따르면, mid-2026(2026년 중반)까지 AI는 전통적인 VFX·애니메이션 스튜디오에서 상당수의 직무를 대체하지 못했고 새 직무도 많이 만들어 내지 못했다. 아티스트들은 기존 직무 안에서 AI 도구를 받아들이고 있다."
-       },
-       {
-        "t": "p",
-        "x": "전 세계 업계 인력은 지난 12개월 동안 2.7% 늘었다. Los Angeles는 1.5% 줄었고 Vancouver는 11.3% 반등했다. US VFX 스튜디오의 평균 규모는 34명에서 29명으로 줄었다. Roto/paint 직무는 8.7% 늘어, AI가 아직 그 일을 넘겨받을 준비가 되지 않았음을 보여 준다. 2026년 전통 스튜디오에서 AI-specific 직무는 전체의 0.1%에 불과하다."
-       },
-       {
-        "t": "p",
-        "x": "2023년에 아티스트 500명이 필요했던 영화를 오늘날 50명이 만들 수 있을까? “아직은 아니다(Not yet).”"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Katzenberg予測の\nAI-shrunk説を検証",
-     "body": "Joseph Bellが、Katzenbergの2023年のAI予測を検証する。",
-     "mini_headline": "KatzenbergのAI予測を検証",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026、まもなく到来"
-       },
-       {
-        "t": "p",
-        "x": "3年前、DreamWorks Animationの共同創業者で元CEOのJeffrey Katzenbergは、世界水準のアニメ映画をつくるのに必要なアーティストの数が、2026年までに500人から50人未満に減ると予測した。"
-       },
-       {
-        "t": "p",
-        "x": "1.1 million(110万)を超えるデータポイントに基づくJoseph BellのVisual Effects & Animation World Atlasによれば、mid-2026(2026年半ば)の時点でAIは従来のVFX・アニメスタジオで多くの職を置き換えておらず、新しい職もあまり生んでいない。AIツールは、アーティストが既存の職務のなかで取り入れている。"
-       },
-       {
-        "t": "p",
-        "x": "世界全体で業界の人員は過去12カ月で2.7%増えた。Los Angelesは1.5%縮小した一方、Vancouverは11.3%回復した。USのVFXスタジオの平均規模は34人から29人に減った。Roto/paintの職は8.7%増えており、AIがまだその仕事を担える段階にないことを示す。2026年の従来型スタジオで、AI-specificの職は全体のわずか0.1%だ。"
-       },
-       {
-        "t": "p",
-        "x": "2023年に500人のアーティストを要した同じ映画を、いま50人でつくれるのか。「まだだ(Not yet)」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "检验Katzenberg\nAI-shrunk团队预言",
-     "body": "Joseph Bell检验Katzenberg的预测：AI让500人团队缩至不足50人。",
-     "mini_headline": "检验Katzenberg的AI预测",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026，即将到来"
-       },
-       {
-        "t": "p",
-        "x": "三年前，DreamWorks Animation联合创始人、前CEO Jeffrey Katzenberg预测，到2026年，制作一部世界级动画电影所需的艺术家人数将从500人降至不足50人。"
-       },
-       {
-        "t": "p",
-        "x": "Joseph Bell的Visual Effects & Animation World Atlas基于超过1.1 million（110万）个数据点，发现到mid-2026（2026年年中），AI尚未在传统VFX和动画工作室取代大量岗位，也没有创造出很多新岗位。艺术家们正在现有岗位中采用AI工具。"
-       },
-       {
-        "t": "p",
-        "x": "全球行业从业人数在过去12个月增长2.7%。Los Angeles收缩1.5%，Vancouver则反弹11.3%。US VFX工作室的平均规模从34人降至29人。Roto/paint岗位增长8.7%，说明AI尚未准备好接手这类工作。2026年，AI-specific岗位仅占传统工作室岗位的0.1%。"
-       },
-       {
-        "t": "p",
-        "x": "2023年需要500名艺术家的同一部电影，如今能由50名艺术家完成吗？“还不行（Not yet）。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "A prueba, la tesis de Katzenberg\nsobre equipos AI-shrunk",
-     "body": "Joseph Bell revisa el cálculo de Katzenberg de 2023: la AI reduciría un equipo de 500 artistas a menos de 50 en 2026.",
-     "mini_headline": "El pronóstico de Katzenberg sobre la AI, a prueba",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-        "cap": "2026, muy pronto"
-       },
-       {
-        "t": "p",
-        "x": "Hace tres años, Jeffrey Katzenberg, cofundador y ex CEO de DreamWorks Animation, predijo que el número de artistas necesarios para hacer una película animada de primer nivel bajaría de 500 a menos de 50 para 2026."
-       },
-       {
-        "t": "p",
-        "x": "El Visual Effects & Animation World Atlas de Joseph Bell, construido con más de 1.1 millones de puntos de datos, concluye que a mediados de 2026 (mid-2026) la AI aún no ha reemplazado un número significativo de puestos en los estudios tradicionales de VFX y animación, ni ha creado muchos nuevos. Los artistas están adoptando herramientas de AI en sus puestos actuales."
-       },
-       {
-        "t": "p",
-        "x": "A nivel mundial, la plantilla del sector aumentó un 2.7% en los últimos 12 meses. Los Angeles se contrajo un 1.5%, mientras que Vancouver repuntó un 11.3%. El tamaño medio de un estudio de VFX en US bajó de 34 a 29 personas. Los puestos de Roto/paint aumentaron un 8.7%, lo que sugiere que la AI aún no está lista para asumir ese trabajo. Los puestos AI-specific representan apenas el 0.1% de los puestos en los estudios tradicionales en 2026."
-       },
-       {
-        "t": "p",
-        "x": "¿Puede la misma película que requería 500 artistas en 2023 hacerse hoy con 50 artistas? “Todavía no”."
-       }
-      ]
-     }
-    }
-   }
-  }
- ]
+  ]
 }

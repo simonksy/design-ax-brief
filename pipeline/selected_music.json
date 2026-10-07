@@ -1,97 +1,96 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "music",
   "dedup": {
     "checks": {
-      "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/": {
+      "https://www.billboard.com/pro/copyright-office-music-streaming-fraud-inquiry/": {
+        "verdict": "new",
+        "nearest": "https://www.musicbusinessworldwide.com/man-who-pocketed-8m-using-ai-songs-and-bot-streams-asks-for-no-prison-time-arguing-no-artist-suffered-any-perceptible-harm/",
+        "new_action": ""
+      },
+      "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/": {
         "verdict": "new",
         "nearest": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
         "new_action": ""
       },
-      "https://musically.com/2026/10/06/aria-boss-warns-australian-politicians-on-ai-lobbying-demands/": {
+      "https://www.digitalmusicnews.com/2026/09/30/modulate-funding-round/": {
         "verdict": "new",
-        "nearest": "https://completemusicupdate.com/impf-and-impel-publish-ai-licensing-principles-insisting-songs-and-recordings-must-be-valued-equally/",
+        "nearest": "https://www.musicbusinessworldwide.com/landr-expands-ai-fraud-detection-built-with-machine-learning-lab-mila-and-says-artificial-streams-flagged-by-spotify-for-music-it-distributes-fell-95-between-q1-2025-and-q2-2026/",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=3wMjqko_v40": {
+      "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=P-OZwbegYss",
+        "nearest": "",
         "new_action": ""
       },
-      "https://isplus.com/article/view/isp202610020005": {
+      "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/": {
         "verdict": "new",
-        "nearest": "https://isplus.com/article/view/isp202610020003",
-        "new_action": ""
-      },
-      "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/": {
-        "verdict": "new",
-        "nearest": "https://www.hypebot.com/why-ai-workflows-need-music-understanding-and-search/",
+        "nearest": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
         "new_action": ""
       }
     },
-    "note": "Dropped: (1) CMU 'Japanese court says voice is protected by publicity rights; US appeals court says AI training is not fair use' is a roundup of two rulings already published (MBW Thomson Reuters v Ross on 10/01, Engadget Japanese voice ruling on 10/02). No new ruling or filing. (2) ElevenLabs 'Introducing Eleven v4' is the same release as the TechCrunch v4 card published 09/30. Kept as new: Suno Italy AGCM probe is a new regulatory action, separate from all earlier Suno lawsuits and deals. The isplus China-audition piece is part 2 of a series. Part 1 (AI song tops the chart, 10/05) covered a different event, so this is not a repeat. Alternates are ranked. Fender's website AI tool ranks below the picks because the excerpt does not show how central AI is. YouTube Shorts' originality change is about AI only indirectly. Base for Music is mostly startup-forum/funding noise. The CDM Herbie Hancock piece is a 1984 retrospective. Diversity: 5 picks from 5 outlets (MBW, Music Ally, ElevenLabs YouTube, 일간스포츠, Hypebot). Single category 'music', so accents are rotated from the palette."
+    "note": "SWAP: removed the TechCrunch 'Google's new SynthID website' pick because movies publishes the same Google SynthID Detector story today. Replaced it with the top alternate, Modulate's $25M raise and its AI music detector (95% precision across 76 genres) (DMN, 10/01). Checked against the 30-day history_digest: no Modulate story has been published. The nearest items, LANDR/Mila fraud detection (09/26) and Qobuz AI tags (09/25), are different companies and events. It also overlaps no other section's claims today (movies, games, politics). Earlier drops still apply. ElevenLabs 'Eleven v4' repeats the TechCrunch v4 card from 09/30. Mixmag 'Fred again..' repeats DJ Mag from 09/27. Andrew Huang's video is older creator commentary. The isplus column and the Hypebot op-ed are evergreen. The RIAA CEO interview is commentary with no new decision. Remaining alternates: Fender (AI role unclear) and Base for Music (forum/funding; HumanCulture covers predictive AI). Diversity: 4 outlets (Billboard, DMN x2, MBW, Music Ally), no outlet over 2. Single category 'music', so accents rotate from the palette."
   },
   "items": [
     {
-      "url": "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
-      "source": "Music Business Worldwide",
+      "url": "https://www.billboard.com/pro/copyright-office-music-streaming-fraud-inquiry/",
+      "source": "Billboard",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "New regulatory action: Italy's AGCM is investigating Suno's terms, including a licence clause that it says makes users waive moral rights over what they create. Users of AI music tools need to know this.",
-      "published_iso": "2026-10-06T11:12:07+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-      "excerpt": "Italy's competition watchdog AGCM opened an investigation into Suno's terms; concerns include price changes, account terminations, US-based arbitration, and a content licence it says requires users to waive moral rights over what they create."
+      "rationale": "New official action: the U.S. Copyright Office opened a formal inquiry into streaming fraud, including AI tracks boosted by bot streams, and is asking for public input.",
+      "published_iso": "2026-10-07T19:14:30+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+      "excerpt": "The U.S. Copyright Office has launched an inquiry into streaming fraud, including AI-generated tracks pumped with bot streams, seeking input on prevalence and potential solutions."
     },
     {
-      "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
-      "source": "ElevenLabs (YouTube)",
+      "url": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
+      "source": "Digital Music News",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Creators can act on this now: a $100K global contest to make an ad with an original AI jingle in ElevenCreative.",
-      "published_iso": "2026-10-05T07:01:04-07:00",
-      "og_image": "https://i.ytimg.com/vi/3wMjqko_v40/maxresdefault.jpg",
-      "excerpt": "ElevenLabs launched The Search, a global contest to make a 15-45 second ad for a fictional brand with an original jingle made in ElevenCreative. It offers $100,000 in prizes across 11 winners, with a $50,000 grand prize."
+      "rationale": "Suno becomes the music back end for xAI's Grok, so a mass-market chatbot will now generate songs.",
+      "published_iso": "2026-10-07T21:31:12+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno.jpg",
+      "excerpt": "Elon Musk says xAI's Grok bot will route music generation to Suno, tapping 'the best back end model for any given task' rather than building its own music model."
     },
     {
-      "url": "https://musically.com/2026/10/06/aria-boss-warns-australian-politicians-on-ai-lobbying-demands/",
-      "source": "Music Ally",
+      "url": "https://www.digitalmusicnews.com/2026/09/30/modulate-funding-round/",
+      "source": "Digital Music News",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "ARIA's chief warns lawmakers about AI firms' lobbying while Australia weighs its AI rules. This adds an Australian front to the global AI policy fight in music.",
-      "published_iso": "2026-10-06T11:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "ARIA's chief warned Australian politicians about AI companies' lobbying demands. Australia is one of the countries where the music industry is fighting tech firms for lawmakers' attention as AI rules are being weighed."
+      "rationale": "A funded AI-music detector that claims 95% precision across 76 genres gives labels and distributors a new way to flag AI tracks.",
+      "published_iso": "2026-10-01T06:00:32+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/Modulate.png",
+      "excerpt": "Voice-intelligence startup Modulate says its AI music detector achieved 95% precision across 76 genres, positioning it as a tool for flagging AI-generated tracks."
     },
     {
-      "url": "https://isplus.com/article/view/isp202610020005",
-      "source": "일간스포츠",
+      "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
+      "source": "Music Business Worldwide",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A new entertainment format: in a Chinese audition show, AI singers compete against humans and AI also judges.",
-      "published_iso": "2026-10-03T06:00:09+09:00",
-      "og_image": "https://isplus.com/data/isp/image/2026/10/02/isp20261002000004.800x.0.png",
-      "excerpt": "China has brought AI into the audition show itself: human singers and AI compete on the same stage, and AI also sits on the judging panel, which changes how music entertainment formats work."
+      "rationale": "China's largest streamer runs DeepSeek inside its songwriting tool, assistant and comments, and its parent company is now backing the AI lab directly.",
+      "published_iso": "2026-10-07T11:49:26+00:00",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299.jpg",
+      "excerpt": "DeepSeek has been built into Tencent Music Entertainment's AI songwriting tool, AI assistant and comment sections, as parent Tencent backs the AI lab's new funding round."
     },
     {
-      "url": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
-      "source": "Hypebot",
+      "url": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
+      "source": "Music Ally",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Argues that agentic AI with human oversight can fix fragmented rights, metadata and royalty systems. Useful framing for music-business operators.",
-      "published_iso": "2026-10-06T13:26:07.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg",
-      "excerpt": "An op-ed arguing that autonomous AI agents, with human oversight, could fix music's fragmented rights, metadata and royalty systems and help companies pay creators faster."
+      "rationale": "Practical for music marketers: AI that predicts how a piece of content will perform on social media before it is posted, now with its first paying clients.",
+      "published_iso": "2026-10-07T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "HumanCulture, founded by former Defected and AWAL execs, has signed its first clients for AI tech that predicts how music content will perform on social media before posting."
     }
   ],
   "alternates": [
     "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/",
-    "https://www.digitalmusicnews.com/2026/10/02/youtube-shorts-prioritize-original-content/",
     "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
-    "https://cdm.link/watch-what-herbie-hancock-had-to-say-about-technology-in-1984/"
+    "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/"
   ]
 }

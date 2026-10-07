@@ -1,31 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "books",
- "media": [
-  {
-   "id": "books-redpine",
-   "type": "image",
-   "src": "pipeline/media/books-redpine.jpg"
-  },
-  {
-   "id": "books-frankfurt-lepore",
-   "type": "image",
-   "src": "pipeline/media/books-frankfurt-lepore.jpeg"
-  },
-  {
-   "id": "books-roose",
-   "type": "image",
-   "src": "pipeline/media/books-roose.jpg"
-  },
-  {
-   "id": "books-ssp-integrity",
-   "type": "image",
-   "src": "pipeline/media/books-ssp-integrity.png"
-  },
-  {
-   "id": "books-libreoffice",
-   "type": "image",
-   "src": "pipeline/media/books-libreoffice.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "books-organic-literature-stamp",
+      "type": "image",
+      "src": "pipeline/media/books-organic-literature-stamp.jpg"
+    },
+    {
+      "id": "books-simon-schuster-ai-tracking-letter",
+      "type": "image",
+      "src": "pipeline/media/books-simon-schuster-ai-tracking-letter.jpg"
+    },
+    {
+      "id": "books-trace-ai-licensed-content",
+      "type": "image",
+      "src": "pipeline/media/books-trace-ai-licensed-content.jpg"
+    },
+    {
+      "id": "books-pangram-ai-detector-bias",
+      "type": "image",
+      "src": "pipeline/media/books-pangram-ai-detector-bias.jpg"
+    },
+    {
+      "id": "books-boersenblatt-ki-uebersetzen-umfrage",
+      "type": "image",
+      "src": "pipeline/media/books-boersenblatt-ki-uebersetzen-umfrage.jpg"
+    }
+  ]
 }

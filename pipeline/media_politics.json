@@ -1,31 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "politics",
- "media": [
-  {
-   "id": "politics-sif-charter",
-   "type": "image",
-   "src": "pipeline/media/politics-sif-charter.jpg"
-  },
-  {
-   "id": "politics-pentagon-anthropic",
-   "type": "image",
-   "src": "pipeline/media/politics-pentagon-anthropic.jpg"
-  },
-  {
-   "id": "politics-veliaj-avatar",
-   "type": "image",
-   "src": "pipeline/media/politics-veliaj-avatar.jpg"
-  },
-  {
-   "id": "politics-japan-usedbooks-ai",
-   "type": "image",
-   "src": "pipeline/media/politics-japan-usedbooks-ai.jpg"
-  },
-  {
-   "id": "politics-latino-ai-voter-guide",
-   "type": "image",
-   "src": "pipeline/media/politics-latino-ai-voter-guide.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "politics-pentagon-tradewinds-video-ai-buys",
+      "type": "image",
+      "src": "pipeline/media/politics-pentagon-tradewinds-video-ai-buys.jpg"
+    },
+    {
+      "id": "politics-trump-superintelligence-science-summit",
+      "type": "image",
+      "src": "pipeline/media/politics-trump-superintelligence-science-summit.jpg"
+    },
+    {
+      "id": "politics-eu-ai-liability-altman-debate",
+      "type": "image",
+      "src": "pipeline/media/politics-eu-ai-liability-altman-debate.jpg"
+    },
+    {
+      "id": "politics-western-open-weight-models-vs-china",
+      "type": "image",
+      "src": "pipeline/media/politics-western-open-weight-models-vs-china.jpg"
+    },
+    {
+      "id": "politics-europol-ai-policing-privacy",
+      "type": "image",
+      "src": "pipeline/media/politics-europol-ai-policing-privacy.jpg"
+    }
+  ]
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "medicine",
   "cards": [
     {
-      "id": "breast-second-read",
+      "id": "medicine-fda-pediatric-bone-age-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
-      "mini_headline": "2차 판독은 AI가",
-      "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
+      "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
+      "body": "FDA가 아이 골격이 나이만큼 자랐는지 평가를 돕는 AI 도구를 허가했다.",
+      "mini_headline": "FDA, AI 골연령 도구 허가",
       "tool": "Medicine",
       "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-            "cap": "판독용 워크스테이션에서 유방 촬영 영상을 판독하는 영상의학과 의사. 출처: Lunit."
+            "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+            "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
           },
           {
             "t": "p",
-            "x": "유럽의 한 의료 시스템이 유방암 검진에서 영상의학과 의사의 2차 판독을 인공지능으로 대체한다고 발표했다. 적용 대상은 스웨덴 Stockholm Region의 병원 3곳이며, 연간 200,000건에서 250,000건의 유방 영상 검사를 포괄한다. AI는 지역 규모에서 독립적인 2차 판독자 역할을 맡는다."
+            "x": "U.S. 식품의약국이 소아 골연령 평가를 개선할 AI 소프트웨어를 허가했다. 이번에 510(k) 허가를 받은 제품은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애가 있는 아이를 평가하는 소아 영상의학 전문의를 돕는다."
           },
           {
             "t": "p",
-            "x": "스웨덴은 유럽 대부분의 국가와 마찬가지로, 그리고 미국과 달리 품질 관리 차원에서 영상의학과 의사 두 명이 유방 촬영 영상을 각각 독립적으로 검토한다. AI는 이 두 명 가운데 두 번째 판독자를 대신하므로, 모든 검사는 여전히 영상의학과 의사 한 명이 판독한다."
+            "x": "수작업 평가가 까다롭다는 건 잘 알려져 있고 판독자마다 결과가 달라지기도 한다. BoneXpert는 양손 어느 쪽 방사선 사진이든 분석해 평가한 뼈와 뼈별 골연령을 표시한 주석 이미지를 내놓는다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않는다. 최종 판단은 영상의학 전문의가 책임진다."
           },
           {
             "t": "p",
-            "x": "토대가 된 것은 Stockholm의 Saint Goran 병원에서 진행한 전향적 인구 기반 연구다. 이 연구는 55,000명이 넘는 여성의 실제 검진 환경에서 시스템을 평가했다. 2024년 RSNA 학술대회에서 공개된 1년차 결과에서는 암 발견율이 15% 높아지고 영상의학과 의사의 판독 시간이 36% 넘게 줄었다."
+            "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았다. 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어가 온프레미스로 돌아가서 방사선 사진은 기관 밖으로 나가지 않는다."
           },
           {
             "t": "p",
-            "x": "이 병원은 2023년부터 시스템을 사용해 3년간 약 200,000건의 유방 검사를 뒷받침했으며, 이번 도입은 이 업체가 Dalarna County에 이어 스웨덴에서 두 번째로 진행하는 광역 단위 확대다. 이 소식은 Berlin에 본사를 둔 기업이 정상 유방 촬영 영상에 대해 영상의학과 의사의 검토를 완전히 건너뛰는 유방 분류 도구로 세계 최초 승인을 받았다고 발표한 데 뒤이어 나왔다."
+            "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Three hospitals will give AI\nthe second mammogram read",
-          "body": "Three Stockholm hospitals will use AI instead of a radiologist as the independent second reader.",
-          "mini_headline": "AI takes the second read",
+          "headline": "FDA clears AI for pediatric\nbone age assessments",
+          "body": "The FDA has cleared an AI tool that helps assess whether a child's skeletal development matches their age.",
+          "mini_headline": "FDA clears AI bone age tool",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "A radiologist reading mammograms at a reporting workstation. Source: Lunit."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "Photo: Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "A European health system has announced that it will replace radiologist second reads in breast screening with artificial intelligence. The rollout spans three hospitals in Sweden's Stockholm Region and covers between 200,000 and 250,000 breast imaging exams a year, with the AI acting as an independent second reader at regional scale."
+                "x": "The U.S. Food and Drug Administration has cleared AI software designed to improve pediatric bone age assessments. The 510(k) clearance covers Visiana’s BoneXpert, a machine learning software that determines bone age in patients ages 2 to 21 using the Greulich-Pyle method, intended to support pediatric radiologists in evaluating children with growth and pubertal disorders."
               },
               {
                 "t": "p",
-                "x": "Like most of Europe, and unlike the United States, Sweden has two radiologists independently review each mammogram as a quality check. The AI stands in for the second of those two readers, so one radiologist still reads every exam."
+                "x": "Manual assessment is a known challenge and can vary between readers. BoneXpert analyzes radiographs of either hand and provides an annotated image showing the bones it evaluated and their individual bone ages. It withholds a result when an image falls outside its validated scope; the radiologist remains responsible for the final assessment."
               },
               {
                 "t": "p",
-                "x": "The groundwork was a prospective, population based study at Saint Goran hospital in Stockholm, which evaluated the system in the real world screening of more than 55,000 women. First year results presented at the RSNA meeting in 2024 showed a 15% increase in cancer detection and more than a 36% reduction in radiologist reading times."
+                "x": "In a multicenter study at five U.S. sites, its root mean square error was 0.55 years, compared with 0.76 years for radiologists, with fewer results off by at least 1.5 years (1.7% vs. 6.4%). The software runs on-premise, so radiographs do not leave the institution."
               },
               {
                 "t": "p",
-                "x": "That hospital has used the system since 2023, supporting around 200,000 breast exams over three years, and this is the vendor's second region wide rollout in Sweden after Dalarna County. The news follows a Berlin based company's announcement that it received the world's first approval for a breast triage tool that bypasses radiologist review entirely for normal mammograms."
+                "x": "BoneXpert has been used clinically in Europe since 2009 and is supported by more than 50 peer-reviewed studies. Visiana plans to release it in the U.S. in early October."
               }
             ]
           }
         },
         "ko": {
-          "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
-          "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
-          "mini_headline": "2차 판독은 AI가",
+          "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
+          "body": "FDA가 아이 골격이 나이만큼 자랐는지 평가를 돕는 AI 도구를 허가했다.",
+          "mini_headline": "FDA, AI 골연령 도구 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "판독용 워크스테이션에서 유방 촬영 영상을 판독하는 영상의학과 의사. 출처: Lunit."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "유럽의 한 의료 시스템이 유방암 검진에서 영상의학과 의사의 2차 판독을 인공지능으로 대체한다고 발표했다. 적용 대상은 스웨덴 Stockholm Region의 병원 3곳이며, 연간 200,000건에서 250,000건의 유방 영상 검사를 포괄한다. AI는 지역 규모에서 독립적인 2차 판독자 역할을 맡는다."
+                "x": "U.S. 식품의약국이 소아 골연령 평가를 개선할 AI 소프트웨어를 허가했다. 이번에 510(k) 허가를 받은 제품은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애가 있는 아이를 평가하는 소아 영상의학 전문의를 돕는다."
               },
               {
                 "t": "p",
-                "x": "스웨덴은 유럽 대부분의 국가와 마찬가지로, 그리고 미국과 달리 품질 관리 차원에서 영상의학과 의사 두 명이 유방 촬영 영상을 각각 독립적으로 검토한다. AI는 이 두 명 가운데 두 번째 판독자를 대신하므로, 모든 검사는 여전히 영상의학과 의사 한 명이 판독한다."
+                "x": "수작업 평가가 까다롭다는 건 잘 알려져 있고 판독자마다 결과가 달라지기도 한다. BoneXpert는 양손 어느 쪽 방사선 사진이든 분석해 평가한 뼈와 뼈별 골연령을 표시한 주석 이미지를 내놓는다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않는다. 최종 판단은 영상의학 전문의가 책임진다."
               },
               {
                 "t": "p",
-                "x": "토대가 된 것은 Stockholm의 Saint Goran 병원에서 진행한 전향적 인구 기반 연구다. 이 연구는 55,000명이 넘는 여성의 실제 검진 환경에서 시스템을 평가했다. 2024년 RSNA 학술대회에서 공개된 1년차 결과에서는 암 발견율이 15% 높아지고 영상의학과 의사의 판독 시간이 36% 넘게 줄었다."
+                "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았다. 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어가 온프레미스로 돌아가서 방사선 사진은 기관 밖으로 나가지 않는다."
               },
               {
                 "t": "p",
-                "x": "이 병원은 2023년부터 시스템을 사용해 3년간 약 200,000건의 유방 검사를 뒷받침했으며, 이번 도입은 이 업체가 Dalarna County에 이어 스웨덴에서 두 번째로 진행하는 광역 단위 확대다. 이 소식은 Berlin에 본사를 둔 기업이 정상 유방 촬영 영상에 대해 영상의학과 의사의 검토를 완전히 건너뛰는 유방 분류 도구로 세계 최초 승인을 받았다고 발표한 데 뒤이어 나왔다."
+                "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "病院3施設、乳がん検診\n2次読影をAIに委ねる",
-          "body": "Stockholm の病院3施設が、独立した2次読影を医師ではなくAIに委ねる。",
-          "mini_headline": "2次読影はAIが担う",
+          "headline": "FDA、小児の骨年齢\nAI評価ツールを認可",
+          "body": "FDAは、子どもの骨格の発達が年齢に見合うかの評価を支援するAIツールを認可した。",
+          "mini_headline": "FDA、AI骨年齢ツールを認可",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "読影ワークステーションでマンモグラフィを読影する放射線科医。出典: Lunit。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "写真：Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "欧州の医療システムが、乳がん検診における放射線科医の2次読影を人工知能に置き換えると発表した。対象はスウェーデンの Stockholm Region にある病院3施設で、年間200,000件から250,000件の乳房画像検査を対象とする。AIは地域規模で独立した2次読影者の役割を担う。"
+                "x": "U.S.食品医薬品局は、小児の骨年齢評価を改善するために設計されたAIソフトウェアを認可した。510(k)クリアランスの対象はVisianaのBoneXpertで、Greulich-Pyle法を用いて2〜21歳の患者の骨年齢を判定する機械学習ソフトウェアである。成長障害や思春期障害のある小児を評価する小児放射線科医の支援を目的とする。"
               },
               {
                 "t": "p",
-                "x": "欧州の多くの国と同様に、そして米国とは異なり、スウェーデンでは品質管理として放射線科医2名がマンモグラフィをそれぞれ独立して確認する。AIはこの2名のうち2人目の読影者を代替するため、すべての検査は依然として放射線科医1名が読影する。"
+                "x": "手作業による評価は難しさがよく知られており、読影者によってばらつきが生じうる。BoneXpertは左右どちらかの手の放射線画像を解析し、評価した骨とそれぞれの骨年齢を示した注釈付き画像を提供する。画像が検証済みの範囲を外れる場合は結果を出さず、最終的な評価の責任は放射線科医が負う。"
               },
               {
                 "t": "p",
-                "x": "基盤となったのは、Stockholm の Saint Goran 病院で実施された前向きの住民ベース研究である。同研究は55,000人を超える女性の実際の検診環境でシステムを評価した。2024年のRSNA年次大会で発表された1年目の結果では、がん発見率が15%向上し、放射線科医の読影時間が36%超短縮した。"
+                "x": "U.S.の五つの施設で行われた多施設研究では、二乗平均平方根誤差は0.55年で、放射線科医の0.76年を下回り、1.5年以上ずれた結果も少なかった（1.7% vs. 6.4%）。ソフトウェアはオンプレミスで動作するため、画像が施設の外に出ることはない。"
               },
               {
                 "t": "p",
-                "x": "同病院は2023年からシステムを使用し、3年間で約200,000件の乳房検査を支えてきた。今回はこのベンダーがDalarna Countyに続いてスウェーデンで実施する2件目の広域展開となる。この発表に先立ち、Berlin に本拠を置く企業が、正常なマンモグラフィについて放射線科医の確認を完全に省く乳房トリアージツールで世界初の承認を取得したと公表していた。"
+                "x": "BoneXpertは2009年から欧州で臨床使用されており、50件を超える査読付き研究に裏付けられている。Visianaは十月上旬にU.S.で発売する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三家医院将把乳腺筛查\n第二次阅片交给AI",
-          "body": "Stockholm 三家医院将用AI取代放射科医生，承担独立的第二次阅片。",
-          "mini_headline": "AI承担第二次阅片",
+          "headline": "FDA批准AI工具\n评估儿童骨龄",
+          "body": "FDA批准了一款AI工具，可帮助评估儿童骨骼发育是否与其年龄相符。",
+          "mini_headline": "FDA批准AI骨龄工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "放射科医生在诊断工作站上阅读乳腺X线影像。来源: Lunit。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "图片：Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "一家欧洲医疗系统宣布，将用人工智能取代乳腺筛查中放射科医生的第二次阅片。此次部署覆盖瑞典 Stockholm Region 的三家医院，每年涉及200,000至250,000例乳腺影像检查，AI将在区域规模上充当独立的第二阅片者。"
+                "x": "U.S.食品药品监督管理局已批准一款旨在改进儿童骨龄评估的AI软件。此次510(k)许可针对Visiana的BoneXpert，这是一款机器学习软件，采用Greulich-Pyle法为2至21岁患者判定骨龄，用于辅助儿科放射科医生评估患有生长和青春期发育障碍的儿童。"
               },
               {
                 "t": "p",
-                "x": "与欧洲多数国家一样，也与美国不同，瑞典由两名放射科医生各自独立复核每一份乳腺X线影像，以此作为质量把关。AI替代其中的第二名阅片者，因此每例检查仍由一名放射科医生阅读。"
+                "x": "人工评估是公认的难题，不同阅片者之间结果可能存在差异。BoneXpert可分析任意一只手的放射影像，并提供标注图像，显示其评估的骨骼及各骨骼的骨龄。当图像超出其验证范围时，软件不会给出结果；最终评估仍由放射科医生负责。"
               },
               {
                 "t": "p",
-                "x": "此举的基础是在 Stockholm 的 Saint Goran 医院开展的一项前瞻性人群研究，该研究在超过55,000名女性的真实筛查环境中评估了该系统。2024年RSNA年会上公布的首年结果显示，癌症检出率提高15%，放射科医生的阅片时间缩短超过36%。"
+                "x": "在U.S.五个站点开展的多中心研究中，其均方根误差为0.55年，放射科医生为0.76年，且偏差至少1.5年的结果更少（1.7% vs. 6.4%）。该软件在本地部署运行，放射影像不会离开医疗机构。"
               },
               {
                 "t": "p",
-                "x": "该医院自2023年起使用该系统，三年间支持约200,000例乳腺检查，这也是该厂商继Dalarna County之后在瑞典的第二次区域范围部署。在此之前，一家总部位于Berlin的公司宣布，其乳腺分诊工具获得全球首个批准，该工具对正常乳腺X线影像完全跳过放射科医生复核。"
+                "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tres hospitales darán a la IA\nla segunda lectura mamográfica",
-          "body": "Tres hospitales de Stockholm usarán IA en lugar de un radiólogo como segundo lector independiente.",
-          "mini_headline": "La IA asume la segunda lectura",
+          "headline": "La FDA autoriza una AI para\nevaluar la edad ósea infantil",
+          "body": "La FDA ha autorizado una herramienta de AI que ayuda a evaluar si el desarrollo óseo de un niño coincide con su edad.",
+          "mini_headline": "La FDA autoriza una AI de edad ósea",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "Un radiólogo lee mamografías en una estación de trabajo de informes. Fuente: Lunit."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "Foto: Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "Un sistema de salud europeo ha anunciado que sustituirá las segundas lecturas de los radiólogos en el cribado de mama por inteligencia artificial. El despliegue abarca tres hospitales de la Stockholm Region de Suecia y cubre entre 200,000 y 250,000 exámenes de imagen mamaria al año, con la IA actuando como segundo lector independiente a escala regional."
+                "x": "La Administración de Alimentos y Medicamentos de U.S. ha autorizado un software de AI diseñado para mejorar la evaluación de la edad ósea pediátrica. La autorización 510(k) cubre BoneXpert, de Visiana, un software de aprendizaje automático que determina la edad ósea en pacientes de 2 a 21 años mediante el método Greulich-Pyle, con el fin de apoyar a los radiólogos pediátricos en la evaluación de niños con trastornos del crecimiento y de la pubertad."
               },
               {
                 "t": "p",
-                "x": "Como en la mayor parte de Europa, y a diferencia de Estados Unidos, en Suecia dos radiólogos revisan de forma independiente cada mamografía como control de calidad. La IA ocupa el lugar del segundo de esos dos lectores, de modo que un radiólogo sigue leyendo todos los exámenes."
+                "x": "La evaluación manual es un desafío conocido y puede variar entre lectores. BoneXpert analiza radiografías de cualquiera de las dos manos y ofrece una imagen anotada que muestra los huesos evaluados y la edad ósea de cada uno. No emite resultado cuando una imagen queda fuera de su ámbito validado; el radiólogo sigue siendo responsable de la evaluación final."
               },
               {
                 "t": "p",
-                "x": "La base fue un estudio prospectivo de base poblacional en el hospital Saint Goran de Stockholm, que evaluó el sistema en el cribado real de más de 55,000 mujeres. Los resultados del primer año, presentados en la reunión de la RSNA en 2024, mostraron un aumento del 15% en la detección de cáncer y una reducción de más del 36% en los tiempos de lectura de los radiólogos."
+                "x": "En un estudio multicéntrico en cinco centros de U.S., su raíz del error cuadrático medio fue de 0.55 años, frente a 0.76 años de los radiólogos, con menos resultados desviados al menos 1.5 años (1.7% vs. 6.4%). El software funciona de forma local, por lo que las radiografías no salen de la institución."
               },
               {
                 "t": "p",
-                "x": "Ese hospital utiliza el sistema desde 2023 y ha dado soporte a unos 200,000 exámenes mamarios en tres años; este es el segundo despliegue regional del proveedor en Suecia, después de Dalarna County. La noticia llega después de que una empresa con sede en Berlin anunciara que había recibido la primera autorización mundial para una herramienta de triaje mamario que omite por completo la revisión del radiólogo en las mamografías normales."
+                "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
               }
             ]
           }
@@ -199,125 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
-          "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
-          "mini_headline": "2차 판독은 AI가",
+          "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
+          "body": "FDA가 아이의 골격 발달이 나이에 맞는지 평가를 돕는 AI 도구를 허가했다.",
+          "mini_headline": "FDA, AI 골연령 도구 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "판독용 워크스테이션에서 유방 촬영 영상을 판독하는 영상의학과 의사. 출처: Lunit."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "유럽의 한 의료 시스템이 유방암 검진에서 영상의학과 의사의 2차 판독을 인공지능으로 대체한다고 발표했다. 적용 대상은 스웨덴 Stockholm Region의 병원 3곳이며, 연간 200,000건에서 250,000건의 유방 영상 검사를 포괄한다. AI는 지역 규모에서 독립적인 2차 판독자 역할을 맡는다."
+                "x": "U.S. 식품의약국이 소아 골연령 평가를 개선하도록 설계된 AI 소프트웨어를 허가했다. 이번 510(k) 허가 대상은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애 아동을 평가하는 소아 영상의학 전문의를 지원하는 용도다."
               },
               {
                 "t": "p",
-                "x": "스웨덴은 유럽 대부분의 국가와 마찬가지로, 그리고 미국과 달리 품질 관리 차원에서 영상의학과 의사 두 명이 유방 촬영 영상을 각각 독립적으로 검토한다. AI는 이 두 명 가운데 두 번째 판독자를 대신하므로, 모든 검사는 여전히 영상의학과 의사 한 명이 판독한다."
+                "x": "수작업 평가는 잘 알려진 난제이며 판독자마다 결과가 달라질 수 있다. BoneXpert는 어느 쪽 손이든 방사선 사진을 분석해, 평가한 뼈와 각 뼈의 골연령을 표시한 주석 이미지를 제공한다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않으며, 최종 판단의 책임은 영상의학 전문의에게 있다."
               },
               {
                 "t": "p",
-                "x": "토대가 된 것은 Stockholm의 Saint Goran 병원에서 진행한 전향적 인구 기반 연구다. 이 연구는 55,000명이 넘는 여성의 실제 검진 환경에서 시스템을 평가했다. 2024년 RSNA 학술대회에서 공개된 1년차 결과에서는 암 발견율이 15% 높아지고 영상의학과 의사의 판독 시간이 36% 넘게 줄었다."
+                "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았고, 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어는 온프레미스로 작동해 방사선 사진이 기관 밖으로 나가지 않는다."
               },
               {
                 "t": "p",
-                "x": "이 병원은 2023년부터 시스템을 사용해 3년간 약 200,000건의 유방 검사를 뒷받침했으며, 이번 도입은 이 업체가 Dalarna County에 이어 스웨덴에서 두 번째로 진행하는 광역 단위 확대다. 이 소식은 Berlin에 본사를 둔 기업이 정상 유방 촬영 영상에 대해 영상의학과 의사의 검토를 완전히 건너뛰는 유방 분류 도구로 세계 최초 승인을 받았다고 발표한 데 뒤이어 나왔다."
+                "x": "BoneXpert는 2009년부터 유럽에서 임상에 쓰여 왔으며 50편이 넘는 동료 심사 연구가 이를 뒷받침한다. Visiana는 시월 초 U.S.에 출시할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "病院3施設、乳がん検診\n2次読影をAIに委ねる",
-          "body": "Stockholm の病院3施設が、独立した2次読影を医師ではなくAIに委ねる。",
-          "mini_headline": "2次読影はAIが担う",
+          "headline": "FDA、小児の骨年齢\nAI評価ツールを認可",
+          "body": "FDAは、子どもの骨格の発達が年齢に見合うかの評価を支援するAIツールを認可した。",
+          "mini_headline": "FDA、AI骨年齢ツールを認可",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "読影ワークステーションでマンモグラフィを読影する放射線科医。出典: Lunit。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "写真：Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "欧州の医療システムが、乳がん検診における放射線科医の2次読影を人工知能に置き換えると発表した。対象はスウェーデンの Stockholm Region にある病院3施設で、年間200,000件から250,000件の乳房画像検査を対象とする。AIは地域規模で独立した2次読影者の役割を担う。"
+                "x": "U.S.食品医薬品局は、小児の骨年齢評価を改善するために設計されたAIソフトウェアを認可した。510(k)クリアランスの対象はVisianaのBoneXpertで、Greulich-Pyle法を用いて2〜21歳の患者の骨年齢を判定する機械学習ソフトウェアである。成長障害や思春期障害のある小児を評価する小児放射線科医の支援を目的とする。"
               },
               {
                 "t": "p",
-                "x": "欧州の多くの国と同様に、そして米国とは異なり、スウェーデンでは品質管理として放射線科医2名がマンモグラフィをそれぞれ独立して確認する。AIはこの2名のうち2人目の読影者を代替するため、すべての検査は依然として放射線科医1名が読影する。"
+                "x": "手作業による評価は難しさがよく知られており、読影者によってばらつきが生じうる。BoneXpertは左右どちらかの手の放射線画像を解析し、評価した骨とそれぞれの骨年齢を示した注釈付き画像を提供する。画像が検証済みの範囲を外れる場合は結果を出さず、最終的な評価の責任は放射線科医が負う。"
               },
               {
                 "t": "p",
-                "x": "基盤となったのは、Stockholm の Saint Goran 病院で実施された前向きの住民ベース研究である。同研究は55,000人を超える女性の実際の検診環境でシステムを評価した。2024年のRSNA年次大会で発表された1年目の結果では、がん発見率が15%向上し、放射線科医の読影時間が36%超短縮した。"
+                "x": "U.S.の五つの施設で行われた多施設研究では、二乗平均平方根誤差は0.55年で、放射線科医の0.76年を下回り、1.5年以上ずれた結果も少なかった（1.7% vs. 6.4%）。ソフトウェアはオンプレミスで動作するため、画像が施設の外に出ることはない。"
               },
               {
                 "t": "p",
-                "x": "同病院は2023年からシステムを使用し、3年間で約200,000件の乳房検査を支えてきた。今回はこのベンダーがDalarna Countyに続いてスウェーデンで実施する2件目の広域展開となる。この発表に先立ち、Berlin に本拠を置く企業が、正常なマンモグラフィについて放射線科医の確認を完全に省く乳房トリアージツールで世界初の承認を取得したと公表していた。"
+                "x": "BoneXpertは2009年から欧州で臨床使用されており、50件を超える査読付き研究に裏付けられている。Visianaは十月上旬にU.S.で発売する予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "三家医院将把乳腺筛查\n第二次阅片交给AI",
-          "body": "Stockholm 三家医院将用AI取代放射科医生，承担独立的第二次阅片。",
-          "mini_headline": "AI承担第二次阅片",
+          "headline": "FDA批准AI工具\n评估儿童骨龄",
+          "body": "FDA批准了一款AI工具，可帮助评估儿童骨骼发育是否与其年龄相符。",
+          "mini_headline": "FDA批准AI骨龄工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "放射科医生在诊断工作站上阅读乳腺X线影像。来源: Lunit。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "图片：Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "一家欧洲医疗系统宣布，将用人工智能取代乳腺筛查中放射科医生的第二次阅片。此次部署覆盖瑞典 Stockholm Region 的三家医院，每年涉及200,000至250,000例乳腺影像检查，AI将在区域规模上充当独立的第二阅片者。"
+                "x": "U.S.食品药品监督管理局已批准一款旨在改进儿童骨龄评估的AI软件。此次510(k)许可针对Visiana的BoneXpert，这是一款机器学习软件，采用Greulich-Pyle法为2至21岁患者判定骨龄，用于辅助儿科放射科医生评估患有生长和青春期发育障碍的儿童。"
               },
               {
                 "t": "p",
-                "x": "与欧洲多数国家一样，也与美国不同，瑞典由两名放射科医生各自独立复核每一份乳腺X线影像，以此作为质量把关。AI替代其中的第二名阅片者，因此每例检查仍由一名放射科医生阅读。"
+                "x": "人工评估是公认的难题，不同阅片者之间结果可能存在差异。BoneXpert可分析任意一只手的放射影像，并提供标注图像，显示其评估的骨骼及各骨骼的骨龄。当图像超出其验证范围时，软件不会给出结果；最终评估仍由放射科医生负责。"
               },
               {
                 "t": "p",
-                "x": "此举的基础是在 Stockholm 的 Saint Goran 医院开展的一项前瞻性人群研究，该研究在超过55,000名女性的真实筛查环境中评估了该系统。2024年RSNA年会上公布的首年结果显示，癌症检出率提高15%，放射科医生的阅片时间缩短超过36%。"
+                "x": "在U.S.五个站点开展的多中心研究中，其均方根误差为0.55年，放射科医生为0.76年，且偏差至少1.5年的结果更少（1.7% vs. 6.4%）。该软件在本地部署运行，放射影像不会离开医疗机构。"
               },
               {
                 "t": "p",
-                "x": "该医院自2023年起使用该系统，三年间支持约200,000例乳腺检查，这也是该厂商继Dalarna County之后在瑞典的第二次区域范围部署。在此之前，一家总部位于Berlin的公司宣布，其乳腺分诊工具获得全球首个批准，该工具对正常乳腺X线影像完全跳过放射科医生复核。"
+                "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tres hospitales darán a la IA\nla segunda lectura mamográfica",
-          "body": "Tres hospitales de Stockholm usarán IA en lugar de un radiólogo como segundo lector independiente.",
-          "mini_headline": "La IA asume la segunda lectura",
+          "headline": "La FDA autoriza una AI para\nevaluar la edad ósea infantil",
+          "body": "La FDA ha autorizado una herramienta de AI que ayuda a evaluar si el desarrollo óseo de un niño coincide con su edad.",
+          "mini_headline": "La FDA autoriza una AI de edad ósea",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
-                "cap": "Un radiólogo lee mamografías en una estación de trabajo de informes. Fuente: Lunit."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+                "cap": "Foto: Lerner Children’s Pavilion at Hospital for Special Surgery"
               },
               {
                 "t": "p",
-                "x": "Un sistema de salud europeo ha anunciado que sustituirá las segundas lecturas de los radiólogos en el cribado de mama por inteligencia artificial. El despliegue abarca tres hospitales de la Stockholm Region de Suecia y cubre entre 200,000 y 250,000 exámenes de imagen mamaria al año, con la IA actuando como segundo lector independiente a escala regional."
+                "x": "La Administración de Alimentos y Medicamentos de U.S. ha autorizado un software de AI diseñado para mejorar la evaluación de la edad ósea pediátrica. La autorización 510(k) cubre BoneXpert, de Visiana, un software de aprendizaje automático que determina la edad ósea en pacientes de 2 a 21 años mediante el método Greulich-Pyle, con el fin de apoyar a los radiólogos pediátricos en la evaluación de niños con trastornos del crecimiento y de la pubertad."
               },
               {
                 "t": "p",
-                "x": "Como en la mayor parte de Europa, y a diferencia de Estados Unidos, en Suecia dos radiólogos revisan de forma independiente cada mamografía como control de calidad. La IA ocupa el lugar del segundo de esos dos lectores, de modo que un radiólogo sigue leyendo todos los exámenes."
+                "x": "La evaluación manual es un desafío conocido y puede variar entre lectores. BoneXpert analiza radiografías de cualquiera de las dos manos y ofrece una imagen anotada que muestra los huesos evaluados y la edad ósea de cada uno. No emite resultado cuando una imagen queda fuera de su ámbito validado; el radiólogo sigue siendo responsable de la evaluación final."
               },
               {
                 "t": "p",
-                "x": "La base fue un estudio prospectivo de base poblacional en el hospital Saint Goran de Stockholm, que evaluó el sistema en el cribado real de más de 55,000 mujeres. Los resultados del primer año, presentados en la reunión de la RSNA en 2024, mostraron un aumento del 15% en la detección de cáncer y una reducción de más del 36% en los tiempos de lectura de los radiólogos."
+                "x": "En un estudio multicéntrico en cinco centros de U.S., su raíz del error cuadrático medio fue de 0.55 años, frente a 0.76 años de los radiólogos, con menos resultados desviados al menos 1.5 años (1.7% vs. 6.4%). El software funciona de forma local, por lo que las radiografías no salen de la institución."
               },
               {
                 "t": "p",
-                "x": "Ese hospital utiliza el sistema desde 2023 y ha dado soporte a unos 200,000 exámenes mamarios en tres años; este es el segundo despliegue regional del proveedor en Suecia, después de Dalarna County. La noticia llega después de que una empresa con sede en Berlin anunciara que había recibido la primera autorización mundial para una herramienta de triaje mamario que omite por completo la revisión del radiólogo en las mamografías normales."
+                "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
               }
             ]
           }
@@ -325,165 +325,195 @@
       }
     },
     {
-      "id": "utah-ai-pilots",
+      "id": "medicine-teladoc-ambient-ai-vitals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
-      "mini_headline": "Utah의 AI 처방 실증",
-      "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
+      "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
+      "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라로 재는 활력징후를 넣었다.",
+      "mini_headline": "Teladoc, AI 기록 기능 추가",
       "tool": "Medicine",
       "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+      "url": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Utah주 인공지능정책국이 금요일 새 의료 AI 실증 사업을 한꺼번에 승인했다. 그중 하나는 환자 사진으로 여드름을 평가하는 피부과 앱을 만든 Nolla Health의 과제다. 이 실증에서는 경증에서 중등도 여드름이 있는 Utah 성인에게 앱이 몇 가지 국소 약물 가운데 초기 처방과 재처방을 낼 수 있는지 시험한다."
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+            "cap": "Teladoc 허가 하에 게재"
           },
           {
             "t": "p",
-            "x": "사람의 검토를 처음부터 없애는 방식은 아니다. 초기에는 의사 두 명이 모든 처방을 발송 전에 확인하고, 사후 검토로 넘어가는 것은 이후 단계에 가서다. 세 기업 모두 다음 단계로 가려면 규제 당국의 서면 승인을 받아야 하고, 실증 가운데 아직 시작한 것은 없다."
+            "x": "Teladoc Health가 병원과 의료 시스템용 가상 진료 플랫폼에 새 인공지능 기능을 더한다. 환자 활력징후를 원격으로 지켜보는 ‘비접촉’ 방식, 그리고 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있다. 활력징후 기능은 비공개 프리뷰 단계이며 십이월에 폭넓게 출시될 예정이다."
           },
           {
             "t": "p",
-            "x": "나머지 두 건의 승인은 만성질환자의 처방을 갱신하는 시스템을 내놓은 August AI와, 주 내 여성에게 비대면 골반저 치료를 제공할 Expect Fitness가 받았다."
+            "x": "SoloVitals를 쓰면 의료진은 환자 몸에 손대지 않고 심박수와 호흡수를 추적한다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 잡아내고 광학 기법으로 혈액량 변화를 잰다. SoloScribe는 대면 진료와 가상 진료에 모두 쓰는 앰비언트 AI 문서화 기능이다."
           },
           {
             "t": "p",
-            "x": "이 샌드박스의 정식 명칭은 Artificial Intelligence Learning Laboratory로, 2024년 주 법에 따라 만들어졌다. Utah에서는 앞서 승인된 실증을 통해 AI 시스템이 임상의 감독 없이 약을 갱신하는 일이 이미 가능하다. 주 의사면허위원회가 중단을 요청했지만 규제 당국은 받아들이지 않았다. Stanford University의 법·보건정책 교수는 논평에서 그 실증의 계약이 AI 처방 오류로 환자가 다쳤을 때 누가 책임지는지 분명히 하지 않는다고 지적했다."
+            "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 데 이어, 칠월에는 2026년 매출 전망을 기존 가이던스보다 5% 낮은 $2.36 billion~$2.45 billion으로 내렸다. 정신건강 부문 BetterHelp가 주된 원인이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Utah clears health AI pilots\nthat could prescribe unreviewed",
-          "body": "Utah's AI sandbox cleared three pilots that could eventually prescribe with no human review.",
-          "mini_headline": "Utah's AI prescribing pilots",
+          "headline": "Teladoc adds ambient AI and\nremote vitals monitoring",
+          "body": "Teladoc has built AI scribing and camera-based vitals monitoring into its hospital virtual care platform.",
+          "mini_headline": "Teladoc adds AI scribing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah's Office of Artificial Intelligence Policy approved a slate of new health AI pilots on Friday, among them one from Nolla Health, whose dermatology app assesses acne from patients' photographs. That pilot will test whether the app can prescribe initial medications and refills from a short list of topical drugs to adults in Utah with mild to moderate acne."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Permission granted by Teladoc"
               },
               {
                 "t": "p",
-                "x": "Human review is not removed up front. At first two physicians will review every prescription before it is sent, and only in later stages would they review prescriptions after the fact. All three companies need written approval from regulators before moving into those later phases, and none of the pilots have launched yet."
+                "x": "Teladoc Health is adding new artificial intelligence capabilities to its virtual care platform for hospitals and health systems: a “contactless” approach to remotely monitoring patients’ vital signs and an AI scribe that records and transcribes clinical encounters to create notes. The scribing tool is now available; the vitals feature is in private preview and expected to be released broadly in December."
               },
               {
                 "t": "p",
-                "x": "The other two approvals went to August AI, whose system will renew prescriptions for people with chronic conditions, and Expect Fitness, which will offer virtual pelvic floor therapy for women in the state."
+                "x": "SoloVitals lets care teams track patients’ heart and respiratory rates without touching them: Solo devices with a camera capture patients' facial skin color and use an optical technique to measure changes in blood volume. SoloScribe is an ambient AI documentation feature for both in-person and virtual visits."
               },
               {
                 "t": "p",
-                "x": "The sandbox, formally the Artificial Intelligence Learning Laboratory, was created by state law in 2024. An earlier Utah pilot already lets an AI system renew medications without clinician oversight; the state medical licensing board asked for it to be suspended and regulators refused. A law and health policy professor at Stanford University has argued in a commentary that the contract behind that pilot is unclear about who is responsible if AI prescribing errors injure patients."
+                "x": "“Health systems are under intense pressure to do more, yet they are spending more time navigating a growing number of platforms, tools and vendors,” said Joby McKenzie, general manager of North American Health Systems at Teladoc Health."
+              },
+              {
+                "t": "p",
+                "x": "After a net loss of $200.3 million in 2025, Teladoc lowered its 2026 revenue outlook in July to $2.36 billion to $2.45 billion, down 5% from earlier guidance, primarily due to its mental health division, BetterHelp."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
-          "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
-          "mini_headline": "Utah의 AI 처방 실증",
+          "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
+          "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라로 재는 활력징후를 넣었다.",
+          "mini_headline": "Teladoc, AI 기록 기능 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah주 인공지능정책국이 금요일 새 의료 AI 실증 사업을 한꺼번에 승인했다. 그중 하나는 환자 사진으로 여드름을 평가하는 피부과 앱을 만든 Nolla Health의 과제다. 이 실증에서는 경증에서 중등도 여드름이 있는 Utah 성인에게 앱이 몇 가지 국소 약물 가운데 초기 처방과 재처방을 낼 수 있는지 시험한다."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Teladoc 허가 하에 게재"
               },
               {
                 "t": "p",
-                "x": "사람의 검토를 처음부터 없애는 방식은 아니다. 초기에는 의사 두 명이 모든 처방을 발송 전에 확인하고, 사후 검토로 넘어가는 것은 이후 단계에 가서다. 세 기업 모두 다음 단계로 가려면 규제 당국의 서면 승인을 받아야 하고, 실증 가운데 아직 시작한 것은 없다."
+                "x": "Teladoc Health가 병원과 의료 시스템용 가상 진료 플랫폼에 새 인공지능 기능을 더한다. 환자 활력징후를 원격으로 지켜보는 ‘비접촉’ 방식, 그리고 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있다. 활력징후 기능은 비공개 프리뷰 단계이며 십이월에 폭넓게 출시될 예정이다."
               },
               {
                 "t": "p",
-                "x": "나머지 두 건의 승인은 만성질환자의 처방을 갱신하는 시스템을 내놓은 August AI와, 주 내 여성에게 비대면 골반저 치료를 제공할 Expect Fitness가 받았다."
+                "x": "SoloVitals를 쓰면 의료진은 환자 몸에 손대지 않고 심박수와 호흡수를 추적한다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 잡아내고 광학 기법으로 혈액량 변화를 잰다. SoloScribe는 대면 진료와 가상 진료에 모두 쓰는 앰비언트 AI 문서화 기능이다."
               },
               {
                 "t": "p",
-                "x": "이 샌드박스의 정식 명칭은 Artificial Intelligence Learning Laboratory로, 2024년 주 법에 따라 만들어졌다. Utah에서는 앞서 승인된 실증을 통해 AI 시스템이 임상의 감독 없이 약을 갱신하는 일이 이미 가능하다. 주 의사면허위원회가 중단을 요청했지만 규제 당국은 받아들이지 않았다. Stanford University의 법·보건정책 교수는 논평에서 그 실증의 계약이 AI 처방 오류로 환자가 다쳤을 때 누가 책임지는지 분명히 하지 않는다고 지적했다."
+                "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 데 이어, 칠월에는 2026년 매출 전망을 기존 가이던스보다 5% 낮은 $2.36 billion~$2.45 billion으로 내렸다. 정신건강 부문 BetterHelp가 주된 원인이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Utah、無審査処方も\nありうる実証3件を承認",
-          "body": "UtahのAIサンドボックスが、将来は人の確認なしで処方しうる実証3件を承認した。",
-          "mini_headline": "UtahのAI処方実証",
+          "headline": "Teladoc、AI記録と\n遠隔バイタル計測",
+          "body": "Teladocは病院向け仮想診療基盤に、AI記録とカメラによるバイタル計測を組み込んだ。",
+          "mini_headline": "Teladoc、AI記録機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah州の人工知能政策局は金曜日、新たな医療AIの実証事業をまとめて承認した。その一つは、患者の写真からにきびを評価する皮膚科アプリを手がけるNolla Healthのものである。この実証では、軽度から中等度のにきびがあるUtahの成人に対し、限られた外用薬の中から初回処方と再処方をアプリが出せるかを確かめる。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Teladocの許可を得て掲載"
               },
               {
                 "t": "p",
-                "x": "人の確認が最初から外れるわけではない。当初は医師2人が送信前にすべての処方を確認し、事後に確認する形になるのは後の段階に限られる。3社はいずれも後の段階へ進む前に規制当局の書面による承認が必要で、実証はまだどれも始まっていない。"
+                "x": "Teladoc Healthは、病院や医療システム向けのバーチャルケアプラットフォームに新たな人工知能機能を加える。患者のバイタルサインを遠隔で監視する「非接触」の手法と、診療中の会話を録音・文字起こしして記録を作成するAI書記である。記録ツールはすでに利用可能で、バイタル機能は限定プレビュー段階にあり、十二月に広く公開される見込みだ。"
               },
               {
                 "t": "p",
-                "x": "残る2件の承認は、慢性疾患の患者の処方を更新するシステムを持つAugust AIと、州内の女性に遠隔の骨盤底リハビリを提供するExpect Fitnessに与えられた。"
+                "x": "SoloVitalsを使えば、ケアチームは患者に触れることなく心拍数と呼吸数を追跡できる。カメラを備えたSoloデバイスが患者の顔の肌の色を捉え、光学的手法で血液量の変化を測定する。SoloScribeは、対面診療とバーチャル診療の両方に対応するアンビエントAI文書作成機能である。"
               },
               {
                 "t": "p",
-                "x": "このサンドボックスの正式名称はArtificial Intelligence Learning Laboratoryで、2024年の州法によって設けられた。Utahでは先行する実証で、AIが臨床医の監督なしに薬を更新することが既に認められている。州の医師免許委員会は停止を求めたが、規制当局はこれを拒んだ。Stanford Universityの法学・保健政策の教授は論評で、その実証の契約はAIの処方ミスで患者が傷害を受けた場合の責任の所在が不明確だと指摘している。"
+                "x": "「医療システムはより多くの成果を求める強い圧力にさらされているが、増え続けるプラットフォームやツール、ベンダーへの対応により多くの時間を費やしている」と、Teladoc HealthのNorth American Health Systems担当ゼネラルマネージャー、Joby McKenzie氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Teladocは2025年に$200.3 millionの純損失を計上した後、七月に2026年の売上高見通しを従来予想から5%引き下げ、$2.36 billion〜$2.45 billionとした。主な要因はメンタルヘルス部門のBetterHelpである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Utah批准医疗AI试点\n日后或可无审核开处方",
-          "body": "Utah的AI沙盒批准了三个试点，日后或可在无人工审核下开处方。",
-          "mini_headline": "Utah的AI处方试点",
+          "headline": "Teladoc上线AI记录\n与远程体征监测",
+          "body": "Teladoc在其医院虚拟诊疗平台中加入了AI记录与基于摄像头的生命体征监测。",
+          "mini_headline": "Teladoc上线AI记录功能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah州人工智能政策办公室周五批准了一批新的医疗AI试点，其中一个来自Nolla Health，其皮肤科应用通过患者照片评估痤疮。该试点将检验这款应用能否为Utah州轻度至中度痤疮的成年人，从一份有限的外用药清单中开出初次处方和续方。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "经Teladoc许可使用"
               },
               {
                 "t": "p",
-                "x": "人工审核并未在一开始就取消。起初由两名医师在处方发出前逐一审核，只有到了后面的阶段才改为事后审核。三家公司进入后续阶段都需要监管方的书面批准，而这些试点目前都还没有启动。"
+                "x": "Teladoc Health正为其面向医院和医疗系统的虚拟诊疗平台增加新的人工智能功能：一种远程监测患者生命体征的“非接触式”方法，以及一个可录制并转写临床问诊、生成病历记录的AI记录员。记录工具现已上线；生命体征功能正处于私密预览阶段，预计将于十二月全面发布。"
               },
               {
                 "t": "p",
-                "x": "另外两项批准分别给了August AI和Expect Fitness：前者的系统将为慢性病患者续方，后者将为该州女性提供远程盆底治疗。"
+                "x": "借助SoloVitals，医护团队无需接触患者即可追踪其心率和呼吸频率：配备摄像头的Solo设备捕捉患者面部肤色，并利用光学技术测量血容量变化。SoloScribe是一项环境式AI文档功能，适用于线下和线上问诊。"
               },
               {
                 "t": "p",
-                "x": "这一沙盒的正式名称是Artificial Intelligence Learning Laboratory，由2024年的州法设立。Utah此前的一个试点已允许AI系统在没有临床医生监督的情况下续开药物；州医师执照委员会曾要求暂停，监管方未予采纳。Stanford University一位法律与卫生政策教授在评论中指出，该试点背后的合同并未说明，若AI开方出错致患者受伤，责任由谁承担。"
+                "x": "“医疗系统承受着要做得更多的巨大压力，却要花更多时间应付越来越多的平台、工具和供应商，”Teladoc Health北美医疗系统（North American Health Systems）总经理Joby McKenzie表示。"
+              },
+              {
+                "t": "p",
+                "x": "在2025年净亏损$200.3 million之后，Teladoc于七月将2026年营收预期下调至$2.36 billion至$2.45 billion，较此前指引下降5%，主要原因在于其心理健康部门BetterHelp。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Utah autoriza pilotos de IA\ncon posible receta sin revisión",
-          "body": "El sandbox de IA de Utah autorizó tres pilotos que con el tiempo podrían prescribir sin revisión humana.",
-          "mini_headline": "Pilotos de prescripción con IA en Utah",
+          "headline": "Teladoc suma AI ambiental y\nseguimiento remoto de constantes",
+          "body": "Teladoc integra en su plataforma virtual para hospitales notas con AI y control de constantes por cámara.",
+          "mini_headline": "Teladoc añade notas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Oficina de Política de Inteligencia Artificial de Utah aprobó el viernes un conjunto de nuevos pilotos de IA en salud, entre ellos uno de Nolla Health, cuya aplicación de dermatología evalúa el acné a partir de fotografías de los pacientes. Ese piloto comprobará si la aplicación puede prescribir medicación inicial y renovaciones, dentro de una lista corta de fármacos tópicos, a adultos de Utah con acné leve o moderado."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Con permiso de Teladoc"
               },
               {
                 "t": "p",
-                "x": "La revisión humana no se elimina de entrada. Al principio, dos médicos revisarán cada receta antes de su envío, y solo en etapas posteriores esa revisión sería posterior a la emisión. Las tres empresas necesitan la aprobación por escrito de los reguladores antes de pasar a esas etapas, y ninguno de los pilotos ha comenzado todavía."
+                "x": "Teladoc Health incorpora nuevas capacidades de inteligencia artificial a su plataforma de atención virtual para hospitales y sistemas de salud: un enfoque “sin contacto” para monitorizar a distancia las constantes vitales de los pacientes y un escriba de AI que graba y transcribe las consultas clínicas para generar notas. La herramienta de transcripción ya está disponible; la función de constantes vitales está en versión preliminar privada y se espera que se lance de forma general en diciembre."
               },
               {
                 "t": "p",
-                "x": "Las otras dos aprobaciones fueron para August AI, cuyo sistema renovará recetas de personas con enfermedades crónicas, y Expect Fitness, que ofrecerá terapia virtual de suelo pélvico a mujeres del estado."
+                "x": "SoloVitals permite a los equipos asistenciales seguir la frecuencia cardiaca y respiratoria de los pacientes sin tocarlos: los dispositivos Solo con cámara captan el color de la piel del rostro del paciente y usan una técnica óptica para medir cambios en el volumen sanguíneo. SoloScribe es una función de documentación con AI ambiental para consultas presenciales y virtuales."
               },
               {
                 "t": "p",
-                "x": "El sandbox, formalmente el Artificial Intelligence Learning Laboratory, se creó por ley estatal en 2024. Un piloto anterior de Utah ya permite que un sistema de IA renueve medicación sin supervisión clínica; la junta estatal de licencias médicas pidió suspenderlo y los reguladores se negaron. Un profesor de derecho y política sanitaria de Stanford University ha sostenido en un comentario que el contrato de ese piloto no aclara quién responde si los errores de prescripción de la IA dañan a los pacientes."
+                "x": "“Los sistemas de salud están sometidos a una intensa presión para hacer más, pero dedican cada vez más tiempo a gestionar un número creciente de plataformas, herramientas y proveedores”, afirmó Joby McKenzie, director general de North American Health Systems en Teladoc Health."
+              },
+              {
+                "t": "p",
+                "x": "Tras una pérdida neta de $200.3 millones en 2025, Teladoc rebajó en julio su previsión de ingresos para 2026 a entre $2.36 mil millones y $2.45 mil millones, un 5% menos que su previsión anterior, principalmente por su división de salud mental, BetterHelp."
               }
             ]
           }
@@ -491,105 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
-          "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
-          "mini_headline": "Utah의 AI 처방 실증",
+          "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
+          "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라 활력징후 측정을 넣었다.",
+          "mini_headline": "Teladoc, AI 기록 기능 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah주 인공지능정책국이 금요일 새 의료 AI 실증 사업을 한꺼번에 승인했다. 그중 하나는 환자 사진으로 여드름을 평가하는 피부과 앱을 만든 Nolla Health의 과제다. 이 실증에서는 경증에서 중등도 여드름이 있는 Utah 성인에게 앱이 몇 가지 국소 약물 가운데 초기 처방과 재처방을 낼 수 있는지 시험한다."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Teladoc 허가 하에 게재"
               },
               {
                 "t": "p",
-                "x": "사람의 검토를 처음부터 없애는 방식은 아니다. 초기에는 의사 두 명이 모든 처방을 발송 전에 확인하고, 사후 검토로 넘어가는 것은 이후 단계에 가서다. 세 기업 모두 다음 단계로 가려면 규제 당국의 서면 승인을 받아야 하고, 실증 가운데 아직 시작한 것은 없다."
+                "x": "Teladoc Health가 병원과 의료 시스템을 위한 가상 진료 플랫폼에 새로운 인공지능 기능을 더한다. 환자의 활력징후를 원격으로 모니터링하는 ‘비접촉’ 방식과, 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있고, 활력징후 기능은 비공개 프리뷰 단계로 십이월에 폭넓게 출시될 예정이다."
               },
               {
                 "t": "p",
-                "x": "나머지 두 건의 승인은 만성질환자의 처방을 갱신하는 시스템을 내놓은 August AI와, 주 내 여성에게 비대면 골반저 치료를 제공할 Expect Fitness가 받았다."
+                "x": "SoloVitals를 쓰면 의료진은 환자에게 손대지 않고 심박수와 호흡수를 추적할 수 있다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 포착하고, 광학 기법으로 혈액량 변화를 측정한다. SoloScribe는 대면 진료와 가상 진료 모두에 쓰는 앰비언트 AI 문서화 기능이다."
               },
               {
                 "t": "p",
-                "x": "이 샌드박스의 정식 명칭은 Artificial Intelligence Learning Laboratory로, 2024년 주 법에 따라 만들어졌다. Utah에서는 앞서 승인된 실증을 통해 AI 시스템이 임상의 감독 없이 약을 갱신하는 일이 이미 가능하다. 주 의사면허위원회가 중단을 요청했지만 규제 당국은 받아들이지 않았다. Stanford University의 법·보건정책 교수는 논평에서 그 실증의 계약이 AI 처방 오류로 환자가 다쳤을 때 누가 책임지는지 분명히 하지 않는다고 지적했다."
+                "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 뒤, 칠월 2026년 매출 전망을 기존 가이던스보다 5% 낮춘 $2.36 billion~$2.45 billion으로 조정했다. 주된 원인은 정신건강 부문 BetterHelp다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Utah、無審査処方も\nありうる実証3件を承認",
-          "body": "UtahのAIサンドボックスが、将来は人の確認なしで処方しうる実証3件を承認した。",
-          "mini_headline": "UtahのAI処方実証",
+          "headline": "Teladoc、AI記録と\n遠隔バイタル計測",
+          "body": "Teladocは病院向け仮想診療基盤に、AI記録とカメラによるバイタル計測を組み込んだ。",
+          "mini_headline": "Teladoc、AI記録機能を追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah州の人工知能政策局は金曜日、新たな医療AIの実証事業をまとめて承認した。その一つは、患者の写真からにきびを評価する皮膚科アプリを手がけるNolla Healthのものである。この実証では、軽度から中等度のにきびがあるUtahの成人に対し、限られた外用薬の中から初回処方と再処方をアプリが出せるかを確かめる。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Teladocの許可を得て掲載"
               },
               {
                 "t": "p",
-                "x": "人の確認が最初から外れるわけではない。当初は医師2人が送信前にすべての処方を確認し、事後に確認する形になるのは後の段階に限られる。3社はいずれも後の段階へ進む前に規制当局の書面による承認が必要で、実証はまだどれも始まっていない。"
+                "x": "Teladoc Healthは、病院や医療システム向けのバーチャルケアプラットフォームに新たな人工知能機能を加える。患者のバイタルサインを遠隔で監視する「非接触」の手法と、診療中の会話を録音・文字起こしして記録を作成するAI書記である。記録ツールはすでに利用可能で、バイタル機能は限定プレビュー段階にあり、十二月に広く公開される見込みだ。"
               },
               {
                 "t": "p",
-                "x": "残る2件の承認は、慢性疾患の患者の処方を更新するシステムを持つAugust AIと、州内の女性に遠隔の骨盤底リハビリを提供するExpect Fitnessに与えられた。"
+                "x": "SoloVitalsを使えば、ケアチームは患者に触れることなく心拍数と呼吸数を追跡できる。カメラを備えたSoloデバイスが患者の顔の肌の色を捉え、光学的手法で血液量の変化を測定する。SoloScribeは、対面診療とバーチャル診療の両方に対応するアンビエントAI文書作成機能である。"
               },
               {
                 "t": "p",
-                "x": "このサンドボックスの正式名称はArtificial Intelligence Learning Laboratoryで、2024年の州法によって設けられた。Utahでは先行する実証で、AIが臨床医の監督なしに薬を更新することが既に認められている。州の医師免許委員会は停止を求めたが、規制当局はこれを拒んだ。Stanford Universityの法学・保健政策の教授は論評で、その実証の契約はAIの処方ミスで患者が傷害を受けた場合の責任の所在が不明確だと指摘している。"
+                "x": "「医療システムはより多くの成果を求める強い圧力にさらされているが、増え続けるプラットフォームやツール、ベンダーへの対応により多くの時間を費やしている」と、Teladoc HealthのNorth American Health Systems担当ゼネラルマネージャー、Joby McKenzie氏は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Teladocは2025年に$200.3 millionの純損失を計上した後、七月に2026年の売上高見通しを従来予想から5%引き下げ、$2.36 billion〜$2.45 billionとした。主な要因はメンタルヘルス部門のBetterHelpである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Utah批准医疗AI试点\n日后或可无审核开处方",
-          "body": "Utah的AI沙盒批准了三个试点，日后或可在无人工审核下开处方。",
-          "mini_headline": "Utah的AI处方试点",
+          "headline": "Teladoc上线AI记录\n与远程体征监测",
+          "body": "Teladoc在其医院虚拟诊疗平台中加入了AI记录与基于摄像头的生命体征监测。",
+          "mini_headline": "Teladoc上线AI记录功能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Utah州人工智能政策办公室周五批准了一批新的医疗AI试点，其中一个来自Nolla Health，其皮肤科应用通过患者照片评估痤疮。该试点将检验这款应用能否为Utah州轻度至中度痤疮的成年人，从一份有限的外用药清单中开出初次处方和续方。"
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "经Teladoc许可使用"
               },
               {
                 "t": "p",
-                "x": "人工审核并未在一开始就取消。起初由两名医师在处方发出前逐一审核，只有到了后面的阶段才改为事后审核。三家公司进入后续阶段都需要监管方的书面批准，而这些试点目前都还没有启动。"
+                "x": "Teladoc Health正为其面向医院和医疗系统的虚拟诊疗平台增加新的人工智能功能：一种远程监测患者生命体征的“非接触式”方法，以及一个可录制并转写临床问诊、生成病历记录的AI记录员。记录工具现已上线；生命体征功能正处于私密预览阶段，预计将于十二月全面发布。"
               },
               {
                 "t": "p",
-                "x": "另外两项批准分别给了August AI和Expect Fitness：前者的系统将为慢性病患者续方，后者将为该州女性提供远程盆底治疗。"
+                "x": "借助SoloVitals，医护团队无需接触患者即可追踪其心率和呼吸频率：配备摄像头的Solo设备捕捉患者面部肤色，并利用光学技术测量血容量变化。SoloScribe是一项环境式AI文档功能，适用于线下和线上问诊。"
               },
               {
                 "t": "p",
-                "x": "这一沙盒的正式名称是Artificial Intelligence Learning Laboratory，由2024年的州法设立。Utah此前的一个试点已允许AI系统在没有临床医生监督的情况下续开药物；州医师执照委员会曾要求暂停，监管方未予采纳。Stanford University一位法律与卫生政策教授在评论中指出，该试点背后的合同并未说明，若AI开方出错致患者受伤，责任由谁承担。"
+                "x": "“医疗系统承受着要做得更多的巨大压力，却要花更多时间应付越来越多的平台、工具和供应商，”Teladoc Health北美医疗系统（North American Health Systems）总经理Joby McKenzie表示。"
+              },
+              {
+                "t": "p",
+                "x": "在2025年净亏损$200.3 million之后，Teladoc于七月将2026年营收预期下调至$2.36 billion至$2.45 billion，较此前指引下降5%，主要原因在于其心理健康部门BetterHelp。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Utah autoriza pilotos de IA\ncon posible receta sin revisión",
-          "body": "El sandbox de IA de Utah autorizó tres pilotos que con el tiempo podrían prescribir sin revisión humana.",
-          "mini_headline": "Pilotos de prescripción con IA en Utah",
+          "headline": "Teladoc suma AI ambiental y\nseguimiento remoto de constantes",
+          "body": "Teladoc integra en su plataforma virtual para hospitales notas con AI y control de constantes por cámara.",
+          "mini_headline": "Teladoc añade notas con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Oficina de Política de Inteligencia Artificial de Utah aprobó el viernes un conjunto de nuevos pilotos de IA en salud, entre ellos uno de Nolla Health, cuya aplicación de dermatología evalúa el acné a partir de fotografías de los pacientes. Ese piloto comprobará si la aplicación puede prescribir medicación inicial y renovaciones, dentro de una lista corta de fármacos tópicos, a adultos de Utah con acné leve o moderado."
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+                "cap": "Con permiso de Teladoc"
               },
               {
                 "t": "p",
-                "x": "La revisión humana no se elimina de entrada. Al principio, dos médicos revisarán cada receta antes de su envío, y solo en etapas posteriores esa revisión sería posterior a la emisión. Las tres empresas necesitan la aprobación por escrito de los reguladores antes de pasar a esas etapas, y ninguno de los pilotos ha comenzado todavía."
+                "x": "Teladoc Health incorpora nuevas capacidades de inteligencia artificial a su plataforma de atención virtual para hospitales y sistemas de salud: un enfoque “sin contacto” para monitorizar a distancia las constantes vitales de los pacientes y un escriba de AI que graba y transcribe las consultas clínicas para generar notas. La herramienta de transcripción ya está disponible; la función de constantes vitales está en versión preliminar privada y se espera que se lance de forma general en diciembre."
               },
               {
                 "t": "p",
-                "x": "Las otras dos aprobaciones fueron para August AI, cuyo sistema renovará recetas de personas con enfermedades crónicas, y Expect Fitness, que ofrecerá terapia virtual de suelo pélvico a mujeres del estado."
+                "x": "SoloVitals permite a los equipos asistenciales seguir la frecuencia cardiaca y respiratoria de los pacientes sin tocarlos: los dispositivos Solo con cámara captan el color de la piel del rostro del paciente y usan una técnica óptica para medir cambios en el volumen sanguíneo. SoloScribe es una función de documentación con AI ambiental para consultas presenciales y virtuales."
               },
               {
                 "t": "p",
-                "x": "El sandbox, formalmente el Artificial Intelligence Learning Laboratory, se creó por ley estatal en 2024. Un piloto anterior de Utah ya permite que un sistema de IA renueve medicación sin supervisión clínica; la junta estatal de licencias médicas pidió suspenderlo y los reguladores se negaron. Un profesor de derecho y política sanitaria de Stanford University ha sostenido en un comentario que el contrato de ese piloto no aclara quién responde si los errores de prescripción de la IA dañan a los pacientes."
+                "x": "“Los sistemas de salud están sometidos a una intensa presión para hacer más, pero dedican cada vez más tiempo a gestionar un número creciente de plataformas, herramientas y proveedores”, afirmó Joby McKenzie, director general de North American Health Systems en Teladoc Health."
+              },
+              {
+                "t": "p",
+                "x": "Tras una pérdida neta de $200.3 millones en 2025, Teladoc rebajó en julio su previsión de ingresos para 2026 a entre $2.36 mil millones y $2.45 mil millones, un 5% menos que su previsión anterior, principalmente por su división de salud mental, BetterHelp."
               }
             ]
           }
@@ -597,231 +647,503 @@
       }
     },
     {
-      "id": "swiftsight",
+      "id": "medicine-parkinsons-ai-telerehab-rct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
-      "mini_headline": "SwiftSight, 510(k) 획득",
-      "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
+      "headline": "초기 파킨슨병에\nAI 원격재활 시험",
+      "body": "초기 파킨슨병 120명에 AI 원격재활을 1·2·3개월 해도 운동 차이는 없었다.",
+      "mini_headline": "파킨슨병 AI 원격재활",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine (Nature)",
+      "url": "https://www.nature.com/articles/s41746-026-03339-1",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계다. 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 살피는 게 목표였다."
+          },
+          {
+            "t": "p",
+            "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 1:1:1 비율로 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지 MDS-UPDRS Part III 점수가 얼마나 변했는지였다."
+          },
+          {
+            "t": "p",
+            "x": "최종 분석에는 71명이 들어갔다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 탐색적 인지 반응 기준에 도달한 비율이 3개월군에서 1개월군보다 높았다. 시험 내내 낙상이나 이상사례는 기록되지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "일차 평가변수는 음성이었고 탈락률은 높았다. 통상 치료 대조군이 없었으며 인지 관련 결과는 탐색적 사후 분석에 그쳤다. 그래서 저자들은 이번 결과를 가설을 세우는 수준에서 읽어야 하고, 더 큰 시험에서 추가로 검증해야 한다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI telerehabilitation tested\nin early Parkinson's",
+          "body": "A 120-patient trial of 1-, 2- and 3-month AI telerehab for early Parkinson's found no difference in motor outcomes.",
+          "mini_headline": "AI telerehab for Parkinson's",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "This exploratory, multicenter, randomized, rater-blinded, multi-arm comparative trial aimed to evaluate the feasibility and exploratory clinical signals of an AI-facilitated telerehabilitation system across different intervention durations in early-stage Parkinson’s disease (PD)."
+              },
+              {
+                "t": "p",
+                "x": "One-hundred and twenty PD patients (Hoehn-Yahr stage ≤2.5) were randomized in a 1:1:1 ratio into short-term (1 month), medium-term (2 months), and long-term (3 months) training groups (15–30 min, 5 days/week). The primary outcome was the change in MDS-UPDRS Part III score from baseline to 3 months."
+              },
+              {
+                "t": "p",
+                "x": "Final analysis included 71 participants. No significant differences were observed between groups for the primary motor outcome at 3 months. Post hoc responder analysis showed that the 3-month group had higher proportions reaching the exploratory cognitive responder threshold compared with the 1-month group. No falls or adverse events were recorded throughout the trial."
+              },
+              {
+                "t": "p",
+                "x": "Because the primary endpoint was negative, attrition was high, no usual-care control was included, and the cognitive finding was limited to an exploratory post-hoc analysis, the authors say the findings should be interpreted as hypothesis-generating, requiring further validation in larger trials."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "초기 파킨슨병에\nAI 원격재활 시험",
+          "body": "초기 파킨슨병 120명에 AI 원격재활을 1·2·3개월 해도 운동 차이는 없었다.",
+          "mini_headline": "파킨슨병 AI 원격재활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계다. 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 살피는 게 목표였다."
+              },
+              {
+                "t": "p",
+                "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 1:1:1 비율로 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지 MDS-UPDRS Part III 점수가 얼마나 변했는지였다."
+              },
+              {
+                "t": "p",
+                "x": "최종 분석에는 71명이 들어갔다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 탐색적 인지 반응 기준에 도달한 비율이 3개월군에서 1개월군보다 높았다. 시험 내내 낙상이나 이상사례는 기록되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "일차 평가변수는 음성이었고 탈락률은 높았다. 통상 치료 대조군이 없었으며 인지 관련 결과는 탐색적 사후 분석에 그쳤다. 그래서 저자들은 이번 결과를 가설을 세우는 수준에서 읽어야 하고, 더 큰 시험에서 추가로 검증해야 한다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "早期パーキンソン病で\nAI遠隔リハを検証",
+          "body": "早期パーキンソン病120人でAI遠隔リハ1・2・3カ月を比べ、運動転帰に差はなかった。",
+          "mini_headline": "パーキンソン病にAI遠隔リハ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本研究は探索的・多施設・無作為化・評価者盲検・多群比較試験であり、早期パーキンソン病（PD）において、AI-facilitatedな遠隔リハビリテーションシステムの実施可能性と探索的な臨床シグナルを、介入期間の違いごとに評価することを目的とした。"
+              },
+              {
+                "t": "p",
+                "x": "Hoehn-Yahr重症度≤2.5のPD患者百二十人を、1:1:1の比率で短期（1カ月）、中期（2カ月）、長期（3カ月）の訓練群に無作為に割り付けた（15–30分、週5日）。主要評価項目は、ベースラインから3カ月までのMDS-UPDRS Part IIIスコアの変化である。"
+              },
+              {
+                "t": "p",
+                "x": "最終解析には71人が含まれた。3カ月時点の主要運動評価項目に群間の有意差はみられなかった。事後のレスポンダー解析では、3カ月群は1カ月群に比べ、探索的な認知レスポンダー閾値に達した割合が高かった。試験期間を通じて転倒や有害事象は記録されなかった。"
+              },
+              {
+                "t": "p",
+                "x": "主要評価項目が陰性で、脱落率が高く、通常ケアの対照群がなく、認知面の所見は探索的な事後解析に限られることから、著者らはこの結果を仮説生成的なものとして解釈すべきであり、より大規模な試験でのさらなる検証が必要だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "早期帕金森病\n试验AI远程康复",
+          "body": "一项纳入120名早期帕金森病患者的试验发现，1、2、3个月AI远程康复的运动结局无差异。",
+          "mini_headline": "帕金森病AI远程康复",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "这项探索性、多中心、随机、评估者设盲、多组比较试验旨在评估一套AI-facilitated远程康复系统在早期帕金森病（PD）中不同干预时长下的可行性和探索性临床信号。"
+              },
+              {
+                "t": "p",
+                "x": "一百二十名PD患者（Hoehn-Yahr分期≤2.5）按1:1:1比例被随机分入短期（1个月）、中期（2个月）和长期（3个月）训练组（15–30分钟，每周5天）。主要结局为MDS-UPDRS Part III评分从基线到3个月的变化。"
+              },
+              {
+                "t": "p",
+                "x": "最终分析纳入71名参与者。3个月时各组主要运动结局无显著差异。事后应答者分析显示，与1个月组相比，3个月组达到探索性认知应答阈值的比例更高。整个试验期间未记录到跌倒或不良事件。"
+              },
+              {
+                "t": "p",
+                "x": "由于主要终点为阴性、失访率高、未设常规护理对照组，且认知方面的发现仅限于探索性事后分析，作者表示这些结果应被视为提出假设，需要在更大规模的试验中进一步验证。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Prueban la telerrehabilitación\ncon AI en el Parkinson inicial",
+          "body": "En 120 pacientes con Parkinson inicial, 1, 2 o 3 meses de telerrehabilitación con AI no mostraron diferencias motoras.",
+          "mini_headline": "AI y telerrehabilitación en Parkinson",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Este ensayo comparativo exploratorio, multicéntrico, aleatorizado, con evaluadores cegados y de múltiples brazos tuvo como objetivo evaluar la viabilidad y las señales clínicas exploratorias de un sistema de telerrehabilitación facilitado por AI (AI-facilitated) con distintas duraciones de intervención en la enfermedad de Parkinson en fase inicial (PD)."
+              },
+              {
+                "t": "p",
+                "x": "Ciento veinte pacientes con PD (estadio de Hoehn-Yahr ≤2.5) fueron aleatorizados en proporción 1:1:1 a grupos de entrenamiento de corta (1 mes), media (2 meses) y larga duración (3 meses) (15–30 min, 5 días/semana). La variable principal fue el cambio en la puntuación de la MDS-UPDRS Part III desde el inicio hasta los 3 meses."
+              },
+              {
+                "t": "p",
+                "x": "El análisis final incluyó a 71 participantes. No se observaron diferencias significativas entre grupos en el resultado motor principal a los 3 meses. Un análisis post hoc de respondedores mostró que el grupo de 3 meses alcanzó con más frecuencia el umbral exploratorio de respuesta cognitiva que el grupo de 1 mes. No se registraron caídas ni eventos adversos durante el ensayo."
+              },
+              {
+                "t": "p",
+                "x": "Dado que la variable principal fue negativa, el abandono fue elevado, no hubo un grupo control con atención habitual y el hallazgo cognitivo se limitó a un análisis post hoc exploratorio, los autores señalan que los resultados deben interpretarse como generadores de hipótesis y requieren validación en ensayos más amplios."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "초기 파킨슨병에\nAI 원격재활 시험",
+          "body": "초기 파킨슨병 120명 시험서 1·2·3개월 AI 원격재활 간 운동 차이는 없었다.",
+          "mini_headline": "파킨슨병 AI 원격재활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계로, 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 평가하는 것을 목표로 했다."
+              },
+              {
+                "t": "p",
+                "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 1:1:1 비율로 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지의 MDS-UPDRS Part III 점수 변화였다."
+              },
+              {
+                "t": "p",
+                "x": "최종 분석에는 71명이 포함됐다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 3개월군이 1개월군보다 탐색적 인지 반응 기준에 도달한 비율이 높았다. 시험 기간 내내 낙상이나 이상사례는 기록되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "일차 평가변수가 음성이었고, 탈락률이 높았으며, 통상 치료 대조군이 없었고, 인지 관련 결과는 탐색적 사후 분석에 그쳤기 때문에, 저자들은 이번 결과를 가설 생성 차원으로 해석해야 하며 더 큰 규모의 시험에서 추가 검증이 필요하다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "早期パーキンソン病で\nAI遠隔リハを検証",
+          "body": "早期パーキンソン病120人でAI遠隔リハ1・2・3カ月を比べ、運動転帰に差はなかった。",
+          "mini_headline": "パーキンソン病にAI遠隔リハ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "本研究は探索的・多施設・無作為化・評価者盲検・多群比較試験であり、早期パーキンソン病（PD）において、AI-facilitatedな遠隔リハビリテーションシステムの実施可能性と探索的な臨床シグナルを、介入期間の違いごとに評価することを目的とした。"
+              },
+              {
+                "t": "p",
+                "x": "Hoehn-Yahr重症度≤2.5のPD患者百二十人を、1:1:1の比率で短期（1カ月）、中期（2カ月）、長期（3カ月）の訓練群に無作為に割り付けた（15–30分、週5日）。主要評価項目は、ベースラインから3カ月までのMDS-UPDRS Part IIIスコアの変化である。"
+              },
+              {
+                "t": "p",
+                "x": "最終解析には71人が含まれた。3カ月時点の主要運動評価項目に群間の有意差はみられなかった。事後のレスポンダー解析では、3カ月群は1カ月群に比べ、探索的な認知レスポンダー閾値に達した割合が高かった。試験期間を通じて転倒や有害事象は記録されなかった。"
+              },
+              {
+                "t": "p",
+                "x": "主要評価項目が陰性で、脱落率が高く、通常ケアの対照群がなく、認知面の所見は探索的な事後解析に限られることから、著者らはこの結果を仮説生成的なものとして解釈すべきであり、より大規模な試験でのさらなる検証が必要だとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "早期帕金森病\n试验AI远程康复",
+          "body": "一项纳入120名早期帕金森病患者的试验发现，1、2、3个月AI远程康复的运动结局无差异。",
+          "mini_headline": "帕金森病AI远程康复",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "这项探索性、多中心、随机、评估者设盲、多组比较试验旨在评估一套AI-facilitated远程康复系统在早期帕金森病（PD）中不同干预时长下的可行性和探索性临床信号。"
+              },
+              {
+                "t": "p",
+                "x": "一百二十名PD患者（Hoehn-Yahr分期≤2.5）按1:1:1比例被随机分入短期（1个月）、中期（2个月）和长期（3个月）训练组（15–30分钟，每周5天）。主要结局为MDS-UPDRS Part III评分从基线到3个月的变化。"
+              },
+              {
+                "t": "p",
+                "x": "最终分析纳入71名参与者。3个月时各组主要运动结局无显著差异。事后应答者分析显示，与1个月组相比，3个月组达到探索性认知应答阈值的比例更高。整个试验期间未记录到跌倒或不良事件。"
+              },
+              {
+                "t": "p",
+                "x": "由于主要终点为阴性、失访率高、未设常规护理对照组，且认知方面的发现仅限于探索性事后分析，作者表示这些结果应被视为提出假设，需要在更大规模的试验中进一步验证。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Prueban la telerrehabilitación\ncon AI en el Parkinson inicial",
+          "body": "En 120 pacientes con Parkinson inicial, 1, 2 o 3 meses de telerrehabilitación con AI no mostraron diferencias motoras.",
+          "mini_headline": "AI y telerrehabilitación en Parkinson",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Este ensayo comparativo exploratorio, multicéntrico, aleatorizado, con evaluadores cegados y de múltiples brazos tuvo como objetivo evaluar la viabilidad y las señales clínicas exploratorias de un sistema de telerrehabilitación facilitado por AI (AI-facilitated) con distintas duraciones de intervención en la enfermedad de Parkinson en fase inicial (PD)."
+              },
+              {
+                "t": "p",
+                "x": "Ciento veinte pacientes con PD (estadio de Hoehn-Yahr ≤2.5) fueron aleatorizados en proporción 1:1:1 a grupos de entrenamiento de corta (1 mes), media (2 meses) y larga duración (3 meses) (15–30 min, 5 días/semana). La variable principal fue el cambio en la puntuación de la MDS-UPDRS Part III desde el inicio hasta los 3 meses."
+              },
+              {
+                "t": "p",
+                "x": "El análisis final incluyó a 71 participantes. No se observaron diferencias significativas entre grupos en el resultado motor principal a los 3 meses. Un análisis post hoc de respondedores mostró que el grupo de 3 meses alcanzó con más frecuencia el umbral exploratorio de respuesta cognitiva que el grupo de 1 mes. No se registraron caídas ni eventos adversos durante el ensayo."
+              },
+              {
+                "t": "p",
+                "x": "Dado que la variable principal fue negativa, el abandono fue elevado, no hubo un grupo control con atención habitual y el hallazgo cognitivo se limitó a un análisis post hoc exploratorio, los autores señalan que los resultados deben interpretarse como generadores de hipótesis y requieren validación en ensayos más amplios."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-clairity-everlywell-breast-risk",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Clairity, 유방암\nAI 위험 평가 확대",
+      "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
+      "mini_headline": "Clairity AI 위험 도구 확대",
       "tool": "Medicine",
       "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
-      "accent": "#f5a623",
+      "url": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "p",
-            "x": "AIRS Medical이 근육과 지방을 정량화하는 AI 기반 MRI 소프트웨어 SwiftSight Body Composition으로 미국 식품의약국(FDA) 510(k) 허가를 받았다."
+            "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
           },
           {
             "t": "p",
-            "x": "이 소프트웨어는 내장지방과 피하지방, 근육의 질과 좌우 균형을 포함한 복부·대퇴 근육, 그리고 양성자 밀도 지방 분율로 측정한 간 지방을 계측한다. 회사는 이 측정값을 연령과 성별이 일치하는 기준 집단과 비교하고, 백분위 순위와 시각 요약을 담은 보고서로 정리한다고 밝혔다."
+            "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
           },
           {
             "t": "p",
-            "x": "회사는 이 소프트웨어를 전신 및 예방 영상 검사, 체중 관리와 웰니스 프로그램, 그리고 시간 경과에 따른 반복 평가에 쓰는 것을 목표로 한다. 첫 고객은 SimonMed Imaging이 될 예정이다."
+            "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AIRS Medical gets 510(k) for\nSwiftSight Body Composition",
-          "body": "AIRS Medical won FDA 510(k) clearance for SwiftSight Body Composition, MRI software measuring fat and muscle.",
-          "mini_headline": "510(k) for SwiftSight",
+          "headline": "Clairity widens access to AI\nbreast cancer risk tool",
+          "body": "An Everlywell deal extends Clairity Breast, which predicts five-year risk from one mammogram, beyond two U.S. sites.",
+          "mini_headline": "Clairity AI risk tool expands",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medical has received Food and Drug Administration 510(k) clearance for SwiftSight Body Composition, its AI based MRI software for quantifying muscle and fat."
+                "x": "Clairity is broadening U.S. availability of its Clairity Breast AI-based breast cancer risk assessment platform through a partnership with consumer health testing company Everlywell."
               },
               {
                 "t": "p",
-                "x": "The software measures visceral and subcutaneous fat, abdominal and thigh muscle including muscle quality and bilateral balance, and liver fat using proton density fat fraction. It benchmarks those measurements against age and sex matched reference populations and puts them into a report with percentile rankings and visual summaries, the company said."
+                "x": "Clairity Breast analyzes a single routine screening mammogram to predict a woman's five-year risk of developing breast cancer. The platform received De Novo authorization from the U.S. Food and Drug Administration (FDA) in 2025. It was previously available only at Beth Israel Deaconess Medical Center in Massachusetts and Invision Sally Jobe Imaging Center in Colorado."
               },
               {
                 "t": "p",
-                "x": "The firm is aiming the software at whole body and preventive imaging, weight management and wellness programs, and at repeat assessments over time. SimonMed Imaging will be its first customer."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AIRS Medical obtiene el 510(k)\nde SwiftSight Body Composition",
-          "body": "AIRS Medical obtuvo la autorización 510(k) de la FDA para SwiftSight Body Composition, software de MRI.",
-          "mini_headline": "510(k) para SwiftSight",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AIRS Medical recibió la autorización 510(k) de la Food and Drug Administration para SwiftSight Body Composition, su software de MRI basado en IA para cuantificar músculo y grasa."
-              },
-              {
-                "t": "p",
-                "x": "El software mide la grasa visceral y subcutánea, la musculatura abdominal y del muslo, incluida la calidad muscular y el equilibrio entre ambos lados, y la grasa hepática mediante la fracción de grasa por densidad protónica. Según la empresa, esas mediciones se comparan con poblaciones de referencia emparejadas por edad y sexo y se reúnen en un informe con percentiles y resúmenes visuales."
-              },
-              {
-                "t": "p",
-                "x": "La empresa orienta el software a la imagen de cuerpo completo y preventiva, a programas de control de peso y bienestar, y a evaluaciones repetidas a lo largo del tiempo. SimonMed Imaging será su primer cliente."
+                "x": "Patients in the U.S. with a qualifying recent screening mammogram can now access the assessment through Everlywell's consumer platform, which includes physician order review, digital results delivery, and clinician-supported follow-up, Clairity said. The company was founded by breast imaging researcher Connie Lehman, MD, PhD."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
-          "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
-          "mini_headline": "SwiftSight, 510(k) 획득",
+          "headline": "Clairity, 유방암\nAI 위험 평가 확대",
+          "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
+          "mini_headline": "Clairity AI 위험 도구 확대",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medical이 근육과 지방을 정량화하는 AI 기반 MRI 소프트웨어 SwiftSight Body Composition으로 미국 식품의약국(FDA) 510(k) 허가를 받았다."
+                "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
               },
               {
                 "t": "p",
-                "x": "이 소프트웨어는 내장지방과 피하지방, 근육의 질과 좌우 균형을 포함한 복부·대퇴 근육, 그리고 양성자 밀도 지방 분율로 측정한 간 지방을 계측한다. 회사는 이 측정값을 연령과 성별이 일치하는 기준 집단과 비교하고, 백분위 순위와 시각 요약을 담은 보고서로 정리한다고 밝혔다."
+                "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
               },
               {
                 "t": "p",
-                "x": "회사는 이 소프트웨어를 전신 및 예방 영상 검사, 체중 관리와 웰니스 프로그램, 그리고 시간 경과에 따른 반복 평가에 쓰는 것을 목표로 한다. 첫 고객은 SimonMed Imaging이 될 예정이다."
+                "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIRS 510(k)取得\nSwiftSight体組成",
-          "body": "AIRS Medicalが体組成を測定するMRIソフトでFDAの510(k)を取得した。",
-          "mini_headline": "SwiftSightが510(k)取得",
+          "headline": "Clairity、AI乳がん\nリスク評価を拡大",
+          "body": "Everlywell提携で、Clairity BreastがU.S.二施設以外へ広がる。",
+          "mini_headline": "Clairity、AIリスク評価を拡大",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medicalは、筋肉と脂肪を定量化するAIベースのMRIソフトウェア「SwiftSight Body Composition」について、米国食品医薬品局(FDA)の510(k)クリアランスを取得した。"
+                "x": "Clairityは、消費者向け健康検査企業Everlywellとの提携を通じて、AI-basedの乳がんリスク評価プラットフォームClairity BreastのU.S.での提供範囲を広げる。"
               },
               {
                 "t": "p",
-                "x": "同ソフトウェアは、内臓脂肪と皮下脂肪、筋肉の質や左右バランスを含む腹部と大腿部の筋肉、さらにプロトン密度脂肪分画による肝脂肪を測定する。同社によると、これらの測定値を年齢と性別が一致する参照集団と比較し、パーセンタイル順位と視覚的な要約を含むレポートにまとめる。"
+                "x": "Clairity Breastは、通常の検診マンモグラフィ一枚を解析し、女性が五年以内に乳がんを発症するリスクを予測する。同プラットフォームは2025年にU.S.食品医薬品局（FDA）からDe Novo認可を受けた。これまではマサチューセッツ州のBeth Israel Deaconess Medical Centerと、コロラド州のInvision Sally Jobe Imaging Centerでしか利用できなかった。"
               },
               {
                 "t": "p",
-                "x": "同社はこのソフトウェアを、全身撮影や予防的画像検査、体重管理やウェルネスプログラム、そして経時的な反復評価に向ける方針である。最初の顧客はSimonMed Imagingとなる。"
+                "x": "Clairityによると、条件を満たす最近の検診マンモグラフィを受けたU.S.の患者は、Everlywellの消費者向けプラットフォームを通じてこの評価を利用できるようになった。同プラットフォームには、医師による検査オーダーの確認、デジタルでの結果通知、臨床医の支援によるフォローアップが含まれる。同社は乳房画像研究者のConnie Lehman, MD, PhDが創業した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AIRS 获510(k)许可\nSwiftSight 体成分",
-          "body": "AIRS Medical的脂肪与肌肉测量MRI软件获得FDA 510(k)许可。",
-          "mini_headline": "SwiftSight获FDA 510(k)",
+          "headline": "Clairity扩大AI\n乳腺癌风险工具覆盖",
+          "body": "借助与Everlywell的合作，Clairity Breast不再限于U.S.两家机构。",
+          "mini_headline": "Clairity AI风险工具扩大覆盖",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medical已就其用于量化肌肉与脂肪的AI驱动MRI软件SwiftSight Body Composition，获得美国食品药品监督管理局(FDA)的510(k)许可。"
+                "x": "Clairity正通过与消费者健康检测公司Everlywell合作，扩大其AI-based乳腺癌风险评估平台Clairity Breast在U.S.的可及范围。"
               },
               {
                 "t": "p",
-                "x": "该软件可测量内脏脂肪与皮下脂肪、包括肌肉质量与左右平衡在内的腹部及大腿肌肉，以及通过质子密度脂肪分数测得的肝脏脂肪。该公司表示，这些测量结果会与年龄和性别匹配的参考人群进行对比，并整理成包含百分位排名和可视化摘要的报告。"
+                "x": "Clairity Breast通过分析一次常规筛查钼靶影像，预测女性未来五年内罹患乳腺癌的风险。该平台于2025年获得U.S.食品药品监督管理局（FDA）的De Novo授权。此前，它仅在马萨诸塞州的Beth Israel Deaconess Medical Center和科罗拉多州的Invision Sally Jobe Imaging Center提供。"
               },
               {
                 "t": "p",
-                "x": "该公司将这款软件定位于全身与预防性影像检查、体重管理与健康促进项目，以及随时间推移的重复评估。SimonMed Imaging将成为其首个客户。"
+                "x": "Clairity表示，近期做过符合条件的筛查钼靶检查的U.S.患者，现在可通过Everlywell的消费者平台获得该评估，平台提供医生医嘱审核、数字化结果交付以及临床医生支持的后续随访。该公司由乳腺影像研究者Connie Lehman, MD, PhD创立。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Clairity amplía el acceso a su\nAI de riesgo de cáncer de mama",
+          "body": "Gracias a Everlywell, Clairity Breast, que predice el riesgo a cinco años, llegará más allá de dos centros de U.S.",
+          "mini_headline": "Se amplía la AI de riesgo de Clairity",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Clairity amplía la disponibilidad en U.S. de Clairity Breast, su plataforma AI-based de evaluación del riesgo de cáncer de mama, mediante una alianza con Everlywell, empresa de pruebas de salud para consumidores."
+              },
+              {
+                "t": "p",
+                "x": "Clairity Breast analiza una sola mamografía de cribado rutinaria para predecir el riesgo de una mujer de desarrollar cáncer de mama en cinco años. La plataforma recibió en 2025 la autorización De Novo de la Administración de Alimentos y Medicamentos de U.S. (FDA). Hasta ahora solo estaba disponible en el Beth Israel Deaconess Medical Center, en Massachusetts, y en el Invision Sally Jobe Imaging Center, en Colorado."
+              },
+              {
+                "t": "p",
+                "x": "Los pacientes en U.S. con una mamografía de cribado reciente que cumpla los requisitos ya pueden acceder a la evaluación a través de la plataforma de consumo de Everlywell, que incluye revisión médica de la orden, entrega digital de resultados y seguimiento con apoyo clínico, según Clairity. La empresa fue fundada por la investigadora en imagen mamaria Connie Lehman, MD, PhD."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "AIRS Medical obtiene el 510(k)\nde SwiftSight Body Composition",
-          "body": "AIRS Medical obtuvo la autorización 510(k) de la FDA para SwiftSight Body Composition, software de MRI.",
-          "mini_headline": "510(k) para SwiftSight",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AIRS Medical recibió la autorización 510(k) de la Food and Drug Administration para SwiftSight Body Composition, su software de MRI basado en IA para cuantificar músculo y grasa."
-              },
-              {
-                "t": "p",
-                "x": "El software mide la grasa visceral y subcutánea, la musculatura abdominal y del muslo, incluida la calidad muscular y el equilibrio entre ambos lados, y la grasa hepática mediante la fracción de grasa por densidad protónica. Según la empresa, esas mediciones se comparan con poblaciones de referencia emparejadas por edad y sexo y se reúnen en un informe con percentiles y resúmenes visuales."
-              },
-              {
-                "t": "p",
-                "x": "La empresa orienta el software a la imagen de cuerpo completo y preventiva, a programas de control de peso y bienestar, y a evaluaciones repetidas a lo largo del tiempo. SimonMed Imaging será su primer cliente."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
-          "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
-          "mini_headline": "SwiftSight, 510(k) 획득",
+          "headline": "Clairity, 유방암\nAI 위험 평가 확대",
+          "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
+          "mini_headline": "Clairity AI 위험 도구 확대",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medical이 근육과 지방을 정량화하는 AI 기반 MRI 소프트웨어 SwiftSight Body Composition으로 미국 식품의약국(FDA) 510(k) 허가를 받았다."
+                "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
               },
               {
                 "t": "p",
-                "x": "이 소프트웨어는 내장지방과 피하지방, 근육의 질과 좌우 균형을 포함한 복부·대퇴 근육, 그리고 양성자 밀도 지방 분율로 측정한 간 지방을 계측한다. 회사는 이 측정값을 연령과 성별이 일치하는 기준 집단과 비교하고, 백분위 순위와 시각 요약을 담은 보고서로 정리한다고 밝혔다."
+                "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
               },
               {
                 "t": "p",
-                "x": "회사는 이 소프트웨어를 전신 및 예방 영상 검사, 체중 관리와 웰니스 프로그램, 그리고 시간 경과에 따른 반복 평가에 쓰는 것을 목표로 한다. 첫 고객은 SimonMed Imaging이 될 예정이다."
+                "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIRS 510(k)取得\nSwiftSight体組成",
-          "body": "AIRS Medicalが体組成を測定するMRIソフトでFDAの510(k)を取得した。",
-          "mini_headline": "SwiftSightが510(k)取得",
+          "headline": "Clairity、AI乳がん\nリスク評価を拡大",
+          "body": "Everlywell提携で、Clairity BreastがU.S.二施設以外へ広がる。",
+          "mini_headline": "Clairity、AIリスク評価を拡大",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medicalは、筋肉と脂肪を定量化するAIベースのMRIソフトウェア「SwiftSight Body Composition」について、米国食品医薬品局(FDA)の510(k)クリアランスを取得した。"
+                "x": "Clairityは、消費者向け健康検査企業Everlywellとの提携を通じて、AI-basedの乳がんリスク評価プラットフォームClairity BreastのU.S.での提供範囲を広げる。"
               },
               {
                 "t": "p",
-                "x": "同ソフトウェアは、内臓脂肪と皮下脂肪、筋肉の質や左右バランスを含む腹部と大腿部の筋肉、さらにプロトン密度脂肪分画による肝脂肪を測定する。同社によると、これらの測定値を年齢と性別が一致する参照集団と比較し、パーセンタイル順位と視覚的な要約を含むレポートにまとめる。"
+                "x": "Clairity Breastは、通常の検診マンモグラフィ一枚を解析し、女性が五年以内に乳がんを発症するリスクを予測する。同プラットフォームは2025年にU.S.食品医薬品局（FDA）からDe Novo認可を受けた。これまではマサチューセッツ州のBeth Israel Deaconess Medical Centerと、コロラド州のInvision Sally Jobe Imaging Centerでしか利用できなかった。"
               },
               {
                 "t": "p",
-                "x": "同社はこのソフトウェアを、全身撮影や予防的画像検査、体重管理やウェルネスプログラム、そして経時的な反復評価に向ける方針である。最初の顧客はSimonMed Imagingとなる。"
+                "x": "Clairityによると、条件を満たす最近の検診マンモグラフィを受けたU.S.の患者は、Everlywellの消費者向けプラットフォームを通じてこの評価を利用できるようになった。同プラットフォームには、医師による検査オーダーの確認、デジタルでの結果通知、臨床医の支援によるフォローアップが含まれる。同社は乳房画像研究者のConnie Lehman, MD, PhDが創業した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AIRS 获510(k)许可\nSwiftSight 体成分",
-          "body": "AIRS Medical的脂肪与肌肉测量MRI软件获得FDA 510(k)许可。",
-          "mini_headline": "SwiftSight获FDA 510(k)",
+          "headline": "Clairity扩大AI\n乳腺癌风险工具覆盖",
+          "body": "借助与Everlywell的合作，Clairity Breast不再限于U.S.两家机构。",
+          "mini_headline": "Clairity AI风险工具扩大覆盖",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "AIRS Medical已就其用于量化肌肉与脂肪的AI驱动MRI软件SwiftSight Body Composition，获得美国食品药品监督管理局(FDA)的510(k)许可。"
+                "x": "Clairity正通过与消费者健康检测公司Everlywell合作，扩大其AI-based乳腺癌风险评估平台Clairity Breast在U.S.的可及范围。"
               },
               {
                 "t": "p",
-                "x": "该软件可测量内脏脂肪与皮下脂肪、包括肌肉质量与左右平衡在内的腹部及大腿肌肉，以及通过质子密度脂肪分数测得的肝脏脂肪。该公司表示，这些测量结果会与年龄和性别匹配的参考人群进行对比，并整理成包含百分位排名和可视化摘要的报告。"
+                "x": "Clairity Breast通过分析一次常规筛查钼靶影像，预测女性未来五年内罹患乳腺癌的风险。该平台于2025年获得U.S.食品药品监督管理局（FDA）的De Novo授权。此前，它仅在马萨诸塞州的Beth Israel Deaconess Medical Center和科罗拉多州的Invision Sally Jobe Imaging Center提供。"
               },
               {
                 "t": "p",
-                "x": "该公司将这款软件定位于全身与预防性影像检查、体重管理与健康促进项目，以及随时间推移的重复评估。SimonMed Imaging将成为其首个客户。"
+                "x": "Clairity表示，近期做过符合条件的筛查钼靶检查的U.S.患者，现在可通过Everlywell的消费者平台获得该评估，平台提供医生医嘱审核、数字化结果交付以及临床医生支持的后续随访。该公司由乳腺影像研究者Connie Lehman, MD, PhD创立。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Clairity amplía el acceso a su\nAI de riesgo de cáncer de mama",
+          "body": "Gracias a Everlywell, Clairity Breast, que predice el riesgo a cinco años, llegará más allá de dos centros de U.S.",
+          "mini_headline": "Se amplía la AI de riesgo de Clairity",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Clairity amplía la disponibilidad en U.S. de Clairity Breast, su plataforma AI-based de evaluación del riesgo de cáncer de mama, mediante una alianza con Everlywell, empresa de pruebas de salud para consumidores."
+              },
+              {
+                "t": "p",
+                "x": "Clairity Breast analiza una sola mamografía de cribado rutinaria para predecir el riesgo de una mujer de desarrollar cáncer de mama en cinco años. La plataforma recibió en 2025 la autorización De Novo de la Administración de Alimentos y Medicamentos de U.S. (FDA). Hasta ahora solo estaba disponible en el Beth Israel Deaconess Medical Center, en Massachusetts, y en el Invision Sally Jobe Imaging Center, en Colorado."
+              },
+              {
+                "t": "p",
+                "x": "Los pacientes en U.S. con una mamografía de cribado reciente que cumpla los requisitos ya pueden acceder a la evaluación a través de la plataforma de consumo de Everlywell, que incluye revisión médica de la orden, entrega digital de resultados y seguimiento con apoyo clínico, según Clairity. La empresa fue fundada por la investigadora en imagen mamaria Connie Lehman, MD, PhD."
               }
             ]
           }
@@ -829,195 +1151,189 @@
       }
     },
     {
-      "id": "dual-stain",
+      "id": "medicine-europe-20-center-radiology-ai-study",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
-      "mini_headline": "AI 자궁경부 트리아지 검증",
-      "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
+      "headline": "AI, 20개 센터 도입\n효율 개선 확인",
+      "body": "센터 20곳·AI 도구 10종·의사 58명을 살핀 유럽 연구에서 효율이 올랐다.",
+      "mini_headline": "AI로 영상의학 효율 향상",
       "tool": "Medicine",
-      "source": "NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
-      "accent": "#7928ca",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+      "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "NEJM AI가 HPV 검사 기반 자궁경부암 검진에서 트리아지용 이중염색 세포검사를 판독하는 AI 시스템의 독립 외부 검증을 실었다. 전문은 구독자에게만 열려 있어, 아래 내용은 공개된 초록과 연구 설계 그림을 바탕으로 한다."
-          },
-          {
             "t": "img",
-            "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-            "cap": "연구 설계: 학습 코호트, 눈가림 외부 평가, 2024년 12월 알고리즘 고정, 그다음 독립 검증 코호트."
+            "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
           },
           {
             "t": "p",
-            "x": "HPV 검사 기반 검진은 분자 수준의 검출을 대규모로 가능하게 했다. 다만 검진 양성자 가운데 누구에게 추가 검사가 필요한지는 여전히 사람이 이중염색 세포검사를 판독해 가린다. 이 단계는 지침이 권고하면서도 판독자 간 차이와 표준 자동화의 부재라는 한계를 안고 있다."
+            "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관이 AI를 폭넓게 도입하면 효율 향상을 수치로 확인할 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간에 일곱 개 업체의 AI 도구 10종을 평가했다."
           },
           {
             "t": "p",
-            "x": "이 시스템인 Cytoreader-Fusion은 슬라이드 전체를 분류하고 보정된 확률을 내놓는 앙상블 모델이다. 1,919건으로 학습했고, 독립된 네 코호트의 9,006건을 눈가림 상태에서 제3자 감독(honest broker) 아래 평가했다. 전처리 단계와 집계 규칙, 판단 기준은 검증 전에 모두 고정했다. 성능은 사람 세포검사 판독자와의 일치도가 아니라 조직학적으로 확인된 자궁경부 상피내신생물 3등급 이상을 기준으로 측정했다."
+            "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 그리고 영상의학과 전문의 58명 대상 설문으로 이뤄졌다."
           },
           {
             "t": "p",
-            "x": "완전히 독립된 4,996건 코호트에서 고정된 시스템은 이 기준에 대해 민감도 88.3%, 특이도 54.4%를 기록했다. 고정 이후 재학습이나 임계값 조정은 없었고, 분류기 하나가 두 가지 슬라이드 제작 플랫폼을 모두 다뤘다. 저자들은 이를 인구 집단 검진에 쓸 수 있는 AI를 매우 엄격하게 검증하는 틀로 제시한다. 이것은 검증이며, 임상시험도 실제 도입도 아니다."
+            "x": "AI를 적극 활용한 의사는 약 91%였다. 총 지연 시간 중앙값은 약 2.06분이었는데 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우도 약 7.2%였고, 무릎 MRI 3%에서 흉부 CT 13%까지 검사마다 달랐다."
+          },
+          {
+            "t": "p",
+            "x": "AI를 쓸 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었다. 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램으로 외상 방사선촬영에서만 0.69 FTE만큼 업무 여력이 생겼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Independent validation of AI\ndual-stain cervical triage",
-          "body": "An independent external validation tested an AI dual-stain reader for triage in HPV cervical cancer screening.",
-          "mini_headline": "AI cervical triage validated",
+          "headline": "AI rollout across 20 centers\nshows efficiency gains",
+          "body": "A European study of 10 AI tools at 20 centers with 58 radiologists found measurable efficiency gains.",
+          "mini_headline": "AI lifts radiology efficiency",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI has published an independent external validation of an AI system that reads dual stain cytology for triage in cervical cancer screening based on HPV testing. The full text is behind a subscription, so what follows comes from the published abstract and the study design figure."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "The study design: training cohorts, blinded external evaluation, algorithm lock in December 2024, then the independent validation cohort."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "Screening based on HPV testing made molecular detection scalable, but deciding which screen positive people need further work up still depends on reading dual stain cytology by hand. That step is endorsed by guidelines yet limited by variation between readers and by the absence of standard automation."
+                "x": "Widespread AI adoption in a private radiology practice can produce measurable efficiency gains, according to a study published in JACR. European imaging experts assessed 10 AI tools from seven vendors over a nearly 5-year implementation across 20 outpatient imaging centers of the 3R Swiss Imaging Network."
               },
               {
                 "t": "p",
-                "x": "The system, Cytoreader-Fusion, is an ensemble model that classifies whole slides and outputs calibrated probabilities. It was trained on 1,919 cases and evaluated under blinded honest broker oversight on 9,006 cases across four independent cohorts. Every preprocessing step, aggregation rule and decision parameter was fixed and locked before validation, and performance was measured against histologically confirmed cervical intraepithelial neoplasia grade 3 or worse, not against agreement with human cytology readers."
+                "x": "“Infrastructure latency, not algorithm speed, was the primary barrier to clinical utility,” wrote lead author Dr. Sergey Morozov and colleagues. Cohorts included 97,000 exams for latency, 21,000 exams from 2025 for turnaround time, and a survey of 58 radiologists."
               },
               {
                 "t": "p",
-                "x": "In the fully independent cohort of 4,996 cases the locked system reached 88.3 percent sensitivity and 54.4 percent specificity for that end point, with no retraining or threshold tuning after the lock, and one classifier covered both slide preparation platforms. The authors present this as a high stringency validation framework for clinically deployable AI in population screening. It is a validation, not a trial, and not a deployment."
+                "x": "Active AI adoption reached about 91% of physicians. Median total latency was about 2.06 minutes, about 72% of it from data routing; AI results arrived after the report was finalized in about 7.2% of cases, from 3% for knee MRI to 13% for chest CT."
+              },
+              {
+                "t": "p",
+                "x": "AI availability was associated with lower median turnaround times for trauma radiography (-26%) and knee MRI (-18%), while brain volumetry MRI showed no significant change. The program generated 0.69 FTE of capacity through trauma radiography alone."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
-          "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
-          "mini_headline": "AI 자궁경부 트리아지 검증",
+          "headline": "AI, 20개 센터 도입\n효율 개선 확인",
+          "body": "센터 20곳·AI 도구 10종·의사 58명을 살핀 유럽 연구에서 효율이 올랐다.",
+          "mini_headline": "AI로 영상의학 효율 향상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI가 HPV 검사 기반 자궁경부암 검진에서 트리아지용 이중염색 세포검사를 판독하는 AI 시스템의 독립 외부 검증을 실었다. 전문은 구독자에게만 열려 있어, 아래 내용은 공개된 초록과 연구 설계 그림을 바탕으로 한다."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "연구 설계: 학습 코호트, 눈가림 외부 평가, 2024년 12월 알고리즘 고정, 그다음 독립 검증 코호트."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "HPV 검사 기반 검진은 분자 수준의 검출을 대규모로 가능하게 했다. 다만 검진 양성자 가운데 누구에게 추가 검사가 필요한지는 여전히 사람이 이중염색 세포검사를 판독해 가린다. 이 단계는 지침이 권고하면서도 판독자 간 차이와 표준 자동화의 부재라는 한계를 안고 있다."
+                "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관이 AI를 폭넓게 도입하면 효율 향상을 수치로 확인할 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간에 일곱 개 업체의 AI 도구 10종을 평가했다."
               },
               {
                 "t": "p",
-                "x": "이 시스템인 Cytoreader-Fusion은 슬라이드 전체를 분류하고 보정된 확률을 내놓는 앙상블 모델이다. 1,919건으로 학습했고, 독립된 네 코호트의 9,006건을 눈가림 상태에서 제3자 감독(honest broker) 아래 평가했다. 전처리 단계와 집계 규칙, 판단 기준은 검증 전에 모두 고정했다. 성능은 사람 세포검사 판독자와의 일치도가 아니라 조직학적으로 확인된 자궁경부 상피내신생물 3등급 이상을 기준으로 측정했다."
+                "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 그리고 영상의학과 전문의 58명 대상 설문으로 이뤄졌다."
               },
               {
                 "t": "p",
-                "x": "완전히 독립된 4,996건 코호트에서 고정된 시스템은 이 기준에 대해 민감도 88.3%, 특이도 54.4%를 기록했다. 고정 이후 재학습이나 임계값 조정은 없었고, 분류기 하나가 두 가지 슬라이드 제작 플랫폼을 모두 다뤘다. 저자들은 이를 인구 집단 검진에 쓸 수 있는 AI를 매우 엄격하게 검증하는 틀로 제시한다. 이것은 검증이며, 임상시험도 실제 도입도 아니다."
+                "x": "AI를 적극 활용한 의사는 약 91%였다. 총 지연 시간 중앙값은 약 2.06분이었는데 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우도 약 7.2%였고, 무릎 MRI 3%에서 흉부 CT 13%까지 검사마다 달랐다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 쓸 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었다. 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램으로 외상 방사선촬영에서만 0.69 FTE만큼 업무 여력이 생겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI二重染色の子宮頸部\nトリアージを独立検証",
-          "body": "HPV検査に基づく子宮頸がん検診のAI二重染色読影を、独立した外部検証で評価した。",
-          "mini_headline": "AI子宮頸トリアージを検証",
+          "headline": "AIを20施設に導入\n効率向上を確認",
+          "body": "欧州20施設、AIツール10種、放射線科医58人の研究で効率向上が確認された。",
+          "mini_headline": "AIで放射線科の効率向上",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AIは、HPV検査に基づく子宮頸がん検診のトリアージで二重染色細胞診を読むAIシステムについて、独立した外部検証を掲載した。全文は購読者向けのため、以下は公開された抄録と研究デザインの図に基づく。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "研究デザイン: 学習コホート、盲検下の外部評価、2024年12月のアルゴリズム固定、そして独立検証コホート。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "HPV検査に基づく検診は分子レベルの検出を大規模に可能にした。ただし検診陽性のうち誰に追加の精査が必要かの判断は、今も人が二重染色細胞診を読むことに頼る。この段階はガイドラインが推奨する一方で、読影者間のばらつきと標準的な自動化の不在という制約を抱える。"
+                "x": "JACRに掲載された研究によると、民間の放射線科診療でAIを広く導入すると、測定可能な効率向上が得られる。欧州の画像診断の専門家らは、3R Swiss Imaging Networkの外来画像センター20施設で約5年にわたる導入期間中、七社の10種類のAIツールを評価した。"
               },
               {
                 "t": "p",
-                "x": "このシステム、Cytoreader-Fusionは、スライド全体を分類して校正済みの確率を出力するアンサンブルモデルである。1,919例で学習し、独立した四つのコホートの9,006例を対象に、盲検下のhonest brokerの管理のもとで評価した。前処理、集約規則、判定パラメータはいずれも検証前に固定した。性能は人の細胞診読影者との一致ではなく、組織学的に確認された子宮頸部上皮内新生物グレード3以上を基準に測った。"
+                "x": "「臨床的有用性の主な障壁は、アルゴリズムの速度ではなくインフラの遅延だった」と、筆頭著者のDr. Sergey Morozovらは記している。コホートには、遅延の分析に97,000件の検査、報告所要時間の分析に2025年の21,000件の検査、そして放射線科医58人への調査が含まれた。"
               },
               {
                 "t": "p",
-                "x": "完全に独立した4,996例のコホートでは、固定後のシステムはこの指標に対して感度88.3%、特異度54.4%に達した。固定後の再学習や閾値調整はなく、一つの分類器が二つのスライド作製プラットフォームの双方を扱った。著者らはこれを、集団検診で臨床実装しうるAIのための厳格な検証枠組みとして示している。これは検証であり、臨床試験でも実装でもない。"
+                "x": "AIを積極的に活用する医師は約91%に達した。総遅延時間の中央値は約2.06分で、その約72%がデータのルーティングによるものだった。レポート確定後にAIの結果が届いたケースは約7.2%で、膝MRIの3%から胸部CTの13%まで幅があった。"
+              },
+              {
+                "t": "p",
+                "x": "AIが利用できる場合、外傷の単純撮影（-26%）と膝MRI（-18%）で報告所要時間の中央値が短縮した一方、脳容積測定MRIでは有意な変化はみられなかった。このプログラムは外傷の単純撮影だけで0.69 FTE分の処理能力を生み出した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI双染色宫颈分诊\n获独立外部验证",
-          "body": "一项独立外部验证评估了用于HPV宫颈癌筛查分诊的AI双染色阅片系统。",
-          "mini_headline": "AI宫颈分诊的独立验证",
+          "headline": "AI落地20家中心\n效率提升可测",
+          "body": "一项欧洲研究覆盖20家中心、10款AI工具和58名放射科医生，发现效率提升可衡量。",
+          "mini_headline": "AI提升放射科效率",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI发表了一项独立外部验证，对象是在基于HPV检测的宫颈癌筛查中读取双染色细胞学以进行分诊的AI系统。全文需订阅，以下内容来自已公开的摘要和研究设计图。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "研究设计：训练队列、盲法外部评估、2024年12月锁定算法，随后是独立验证队列。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "基于HPV检测的筛查让分子层面的检出得以规模化，但筛查阳性者中谁需要进一步检查，仍要靠人工阅读双染色细胞学来判断。这一步虽为指南所推荐，却受制于阅片者之间的差异和标准化自动方案的缺位。"
+                "x": "据发表于JACR的一项研究，在私立放射科机构中广泛采用AI可带来可衡量的效率提升。欧洲影像专家在3R Swiss Imaging Network的20家门诊影像中心、历时近5年的实施过程中，评估了来自七家供应商的10款AI工具。"
               },
               {
                 "t": "p",
-                "x": "这套系统名为Cytoreader-Fusion，是一个对全切片进行分类并输出校准概率的集成模型。它在1,919例上训练，并在四个独立队列的9,006例上，由盲法的honest broker监督完成评估。所有预处理步骤、聚合规则和判定参数在验证前均已固定锁定；性能衡量的标准是经组织学确认的宫颈上皮内病变3级及以上，而不是与人工细胞学阅片者的一致性。"
+                "x": "“临床效用的主要障碍是基础设施延迟，而非算法速度，”第一作者Dr. Sergey Morozov及其同事写道。研究队列包括用于延迟分析的97,000次检查、用于周转时间分析的2025年21,000次检查，以及一项针对58名放射科医生的调查。"
               },
               {
                 "t": "p",
-                "x": "在完全独立的4,996例队列中，锁定后的系统对该终点达到88.3%的敏感性和54.4%的特异性，锁定之后没有再训练或调整阈值，且同一个分类器涵盖两种制片平台。作者将其作为面向人群筛查、可临床部署AI的高严格度验证框架加以呈现。这是一项验证，而非临床试验，也不是实际部署。"
+                "x": "约91%的医生积极采用了AI。总延迟中位数约为2.06分钟，其中约72%来自数据路由；约7.2%的病例中，AI结果在报告定稿后才送达，比例从膝关节MRI的3%到胸部CT的13%不等。"
+              },
+              {
+                "t": "p",
+                "x": "有AI可用时，创伤放射摄影（-26%）和膝关节MRI（-18%）的周转时间中位数降低，而脑容量测量MRI无显著变化。仅创伤放射摄影一项，该项目就释放了0.69 FTE的产能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Validación independiente de IA\nde doble tinción cervical",
-          "body": "Una validación externa independiente evaluó una IA de doble tinción para el triaje en el cribado cervical con HPV.",
-          "mini_headline": "Validación de un triaje cervical con IA",
+          "headline": "La AI en 20 centros muestra\nmejoras de eficiencia",
+          "body": "Un estudio europeo con 10 herramientas de AI en 20 centros y 58 radiólogos halló mejoras medibles de eficiencia.",
+          "mini_headline": "La AI mejora la eficiencia en radiología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI ha publicado una validación externa independiente de un sistema de IA que lee citología de doble tinción para el triaje en el cribado de cáncer de cuello uterino basado en pruebas de HPV. El texto completo requiere suscripción, por lo que lo que sigue proviene del resumen publicado y de la figura del diseño del estudio."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "El diseño del estudio: cohortes de entrenamiento, evaluación externa ciega, bloqueo del algoritmo en diciembre de 2024 y, después, la cohorte de validación independiente."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "El cribado basado en pruebas de HPV hizo escalable la detección molecular, pero decidir quiénes, entre las personas con resultado positivo, necesitan estudios adicionales sigue dependiendo de la lectura manual de la citología de doble tinción. Ese paso está respaldado por las guías, aunque lo limitan la variabilidad entre lectores y la falta de una automatización estándar."
+                "x": "La adopción generalizada de AI en una consulta privada de radiología puede producir mejoras de eficiencia medibles, según un estudio publicado en JACR. Expertos europeos en imagen evaluaron 10 herramientas de AI de siete proveedores durante una implementación de casi 5 años en 20 centros de imagen ambulatorios de 3R Swiss Imaging Network."
               },
               {
                 "t": "p",
-                "x": "El sistema, Cytoreader-Fusion, es un modelo de conjunto que clasifica preparaciones completas y entrega probabilidades calibradas. Se entrenó con 1,919 casos y se evaluó con supervisión ciega de un honest broker en 9,006 casos de cuatro cohortes independientes. Cada paso de preprocesamiento, regla de agregación y parámetro de decisión quedó fijado y bloqueado antes de la validación, y el rendimiento se midió frente a neoplasia intraepitelial cervical de grado 3 o peor confirmada histológicamente, no frente a la concordancia con lectores humanos de citología."
+                "x": "“La latencia de la infraestructura, no la velocidad del algoritmo, fue la principal barrera para la utilidad clínica”, escribieron el autor principal, Dr. Sergey Morozov, y sus colegas. Las cohortes incluyeron 97,000 estudios para la latencia, 21,000 estudios de 2025 para el tiempo de respuesta y una encuesta a 58 radiólogos."
               },
               {
                 "t": "p",
-                "x": "En la cohorte totalmente independiente de 4,996 casos, el sistema bloqueado alcanzó una sensibilidad del 88.3% y una especificidad del 54.4% para ese criterio, sin reentrenamiento ni ajuste de umbrales después del bloqueo, y un solo clasificador cubrió las dos plataformas de preparación de muestras. Los autores lo presentan como un marco de validación de alta exigencia para IA clínicamente implementable en el cribado poblacional. Es una validación, no un ensayo clínico ni un despliegue."
+                "x": "La adopción activa de AI alcanzó a cerca del 91% de los médicos. La latencia total mediana fue de unos 2.06 minutos, cerca del 72% de ella debida al enrutamiento de datos; los resultados de AI llegaron después de finalizar el informe en cerca del 7.2% de los casos, desde el 3% en la MRI de rodilla hasta el 13% en la CT de tórax."
+              },
+              {
+                "t": "p",
+                "x": "La disponibilidad de AI se asoció con menores tiempos de respuesta medianos en la radiografía de traumatología (-26%) y en la MRI de rodilla (-18%), mientras que la MRI de volumetría cerebral no mostró cambios significativos. El programa generó 0.69 FTE de capacidad solo con la radiografía de traumatología."
               }
             ]
           }
@@ -1025,447 +1341,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
-          "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
-          "mini_headline": "AI 자궁경부 트리아지 검증",
+          "headline": "AI, 20개 센터 도입\n효율 개선 확인",
+          "body": "20개 센터·AI 도구 10종·의사 58명의 유럽 연구에서 효율 향상이 나타났다.",
+          "mini_headline": "AI로 영상의학 효율 향상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI가 HPV 검사 기반 자궁경부암 검진에서 트리아지용 이중염색 세포검사를 판독하는 AI 시스템의 독립 외부 검증을 실었다. 전문은 구독자에게만 열려 있어, 아래 내용은 공개된 초록과 연구 설계 그림을 바탕으로 한다."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "연구 설계: 학습 코호트, 눈가림 외부 평가, 2024년 12월 알고리즘 고정, 그다음 독립 검증 코호트."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "HPV 검사 기반 검진은 분자 수준의 검출을 대규모로 가능하게 했다. 다만 검진 양성자 가운데 누구에게 추가 검사가 필요한지는 여전히 사람이 이중염색 세포검사를 판독해 가린다. 이 단계는 지침이 권고하면서도 판독자 간 차이와 표준 자동화의 부재라는 한계를 안고 있다."
+                "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관에서 AI를 폭넓게 도입하면 측정 가능한 효율 향상을 얻을 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간 동안 일곱 개 업체의 AI 도구 10종을 평가했다."
               },
               {
                 "t": "p",
-                "x": "이 시스템인 Cytoreader-Fusion은 슬라이드 전체를 분류하고 보정된 확률을 내놓는 앙상블 모델이다. 1,919건으로 학습했고, 독립된 네 코호트의 9,006건을 눈가림 상태에서 제3자 감독(honest broker) 아래 평가했다. 전처리 단계와 집계 규칙, 판단 기준은 검증 전에 모두 고정했다. 성능은 사람 세포검사 판독자와의 일치도가 아니라 조직학적으로 확인된 자궁경부 상피내신생물 3등급 이상을 기준으로 측정했다."
+                "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 영상의학과 전문의 58명 대상 설문으로 구성됐다."
               },
               {
                 "t": "p",
-                "x": "완전히 독립된 4,996건 코호트에서 고정된 시스템은 이 기준에 대해 민감도 88.3%, 특이도 54.4%를 기록했다. 고정 이후 재학습이나 임계값 조정은 없었고, 분류기 하나가 두 가지 슬라이드 제작 플랫폼을 모두 다뤘다. 저자들은 이를 인구 집단 검진에 쓸 수 있는 AI를 매우 엄격하게 검증하는 틀로 제시한다. 이것은 검증이며, 임상시험도 실제 도입도 아니다."
+                "x": "AI를 적극 활용한 의사는 약 91%에 달했다. 총 지연 시간 중앙값은 약 2.06분이었고 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우는 약 7.2%로, 무릎 MRI 3%부터 흉부 CT 13%까지 분포했다."
+              },
+              {
+                "t": "p",
+                "x": "AI를 사용할 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었고, 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램은 외상 방사선촬영만으로 0.69 FTE의 업무 여력을 만들어냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI二重染色の子宮頸部\nトリアージを独立検証",
-          "body": "HPV検査に基づく子宮頸がん検診のAI二重染色読影を、独立した外部検証で評価した。",
-          "mini_headline": "AI子宮頸トリアージを検証",
+          "headline": "AIを20施設に導入\n効率向上を確認",
+          "body": "欧州20施設、AIツール10種、放射線科医58人の研究で効率向上が確認された。",
+          "mini_headline": "AIで放射線科の効率向上",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AIは、HPV検査に基づく子宮頸がん検診のトリアージで二重染色細胞診を読むAIシステムについて、独立した外部検証を掲載した。全文は購読者向けのため、以下は公開された抄録と研究デザインの図に基づく。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "研究デザイン: 学習コホート、盲検下の外部評価、2024年12月のアルゴリズム固定、そして独立検証コホート。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "HPV検査に基づく検診は分子レベルの検出を大規模に可能にした。ただし検診陽性のうち誰に追加の精査が必要かの判断は、今も人が二重染色細胞診を読むことに頼る。この段階はガイドラインが推奨する一方で、読影者間のばらつきと標準的な自動化の不在という制約を抱える。"
+                "x": "JACRに掲載された研究によると、民間の放射線科診療でAIを広く導入すると、測定可能な効率向上が得られる。欧州の画像診断の専門家らは、3R Swiss Imaging Networkの外来画像センター20施設で約5年にわたる導入期間中、七社の10種類のAIツールを評価した。"
               },
               {
                 "t": "p",
-                "x": "このシステム、Cytoreader-Fusionは、スライド全体を分類して校正済みの確率を出力するアンサンブルモデルである。1,919例で学習し、独立した四つのコホートの9,006例を対象に、盲検下のhonest brokerの管理のもとで評価した。前処理、集約規則、判定パラメータはいずれも検証前に固定した。性能は人の細胞診読影者との一致ではなく、組織学的に確認された子宮頸部上皮内新生物グレード3以上を基準に測った。"
+                "x": "「臨床的有用性の主な障壁は、アルゴリズムの速度ではなくインフラの遅延だった」と、筆頭著者のDr. Sergey Morozovらは記している。コホートには、遅延の分析に97,000件の検査、報告所要時間の分析に2025年の21,000件の検査、そして放射線科医58人への調査が含まれた。"
               },
               {
                 "t": "p",
-                "x": "完全に独立した4,996例のコホートでは、固定後のシステムはこの指標に対して感度88.3%、特異度54.4%に達した。固定後の再学習や閾値調整はなく、一つの分類器が二つのスライド作製プラットフォームの双方を扱った。著者らはこれを、集団検診で臨床実装しうるAIのための厳格な検証枠組みとして示している。これは検証であり、臨床試験でも実装でもない。"
+                "x": "AIを積極的に活用する医師は約91%に達した。総遅延時間の中央値は約2.06分で、その約72%がデータのルーティングによるものだった。レポート確定後にAIの結果が届いたケースは約7.2%で、膝MRIの3%から胸部CTの13%まで幅があった。"
+              },
+              {
+                "t": "p",
+                "x": "AIが利用できる場合、外傷の単純撮影（-26%）と膝MRI（-18%）で報告所要時間の中央値が短縮した一方、脳容積測定MRIでは有意な変化はみられなかった。このプログラムは外傷の単純撮影だけで0.69 FTE分の処理能力を生み出した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI双染色宫颈分诊\n获独立外部验证",
-          "body": "一项独立外部验证评估了用于HPV宫颈癌筛查分诊的AI双染色阅片系统。",
-          "mini_headline": "AI宫颈分诊的独立验证",
+          "headline": "AI落地20家中心\n效率提升可测",
+          "body": "一项欧洲研究覆盖20家中心、10款AI工具和58名放射科医生，发现效率提升可衡量。",
+          "mini_headline": "AI提升放射科效率",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI发表了一项独立外部验证，对象是在基于HPV检测的宫颈癌筛查中读取双染色细胞学以进行分诊的AI系统。全文需订阅，以下内容来自已公开的摘要和研究设计图。"
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "研究设计：训练队列、盲法外部评估、2024年12月锁定算法，随后是独立验证队列。"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "基于HPV检测的筛查让分子层面的检出得以规模化，但筛查阳性者中谁需要进一步检查，仍要靠人工阅读双染色细胞学来判断。这一步虽为指南所推荐，却受制于阅片者之间的差异和标准化自动方案的缺位。"
+                "x": "据发表于JACR的一项研究，在私立放射科机构中广泛采用AI可带来可衡量的效率提升。欧洲影像专家在3R Swiss Imaging Network的20家门诊影像中心、历时近5年的实施过程中，评估了来自七家供应商的10款AI工具。"
               },
               {
                 "t": "p",
-                "x": "这套系统名为Cytoreader-Fusion，是一个对全切片进行分类并输出校准概率的集成模型。它在1,919例上训练，并在四个独立队列的9,006例上，由盲法的honest broker监督完成评估。所有预处理步骤、聚合规则和判定参数在验证前均已固定锁定；性能衡量的标准是经组织学确认的宫颈上皮内病变3级及以上，而不是与人工细胞学阅片者的一致性。"
+                "x": "“临床效用的主要障碍是基础设施延迟，而非算法速度，”第一作者Dr. Sergey Morozov及其同事写道。研究队列包括用于延迟分析的97,000次检查、用于周转时间分析的2025年21,000次检查，以及一项针对58名放射科医生的调查。"
               },
               {
                 "t": "p",
-                "x": "在完全独立的4,996例队列中，锁定后的系统对该终点达到88.3%的敏感性和54.4%的特异性，锁定之后没有再训练或调整阈值，且同一个分类器涵盖两种制片平台。作者将其作为面向人群筛查、可临床部署AI的高严格度验证框架加以呈现。这是一项验证，而非临床试验，也不是实际部署。"
+                "x": "约91%的医生积极采用了AI。总延迟中位数约为2.06分钟，其中约72%来自数据路由；约7.2%的病例中，AI结果在报告定稿后才送达，比例从膝关节MRI的3%到胸部CT的13%不等。"
+              },
+              {
+                "t": "p",
+                "x": "有AI可用时，创伤放射摄影（-26%）和膝关节MRI（-18%）的周转时间中位数降低，而脑容量测量MRI无显著变化。仅创伤放射摄影一项，该项目就释放了0.69 FTE的产能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Validación independiente de IA\nde doble tinción cervical",
-          "body": "Una validación externa independiente evaluó una IA de doble tinción para el triaje en el cribado cervical con HPV.",
-          "mini_headline": "Validación de un triaje cervical con IA",
+          "headline": "La AI en 20 centros muestra\nmejoras de eficiencia",
+          "body": "Un estudio europeo con 10 herramientas de AI en 20 centros y 58 radiólogos halló mejoras medibles de eficiencia.",
+          "mini_headline": "La AI mejora la eficiencia en radiología",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "NEJM AI ha publicado una validación externa independiente de un sistema de IA que lee citología de doble tinción para el triaje en el cribado de cáncer de cuello uterino basado en pruebas de HPV. El texto completo requiere suscripción, por lo que lo que sigue proviene del resumen publicado y de la figura del diseño del estudio."
-              },
-              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
-                "cap": "El diseño del estudio: cohortes de entrenamiento, evaluación externa ciega, bloqueo del algoritmo en diciembre de 2024 y, después, la cohorte de validación independiente."
+                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
               },
               {
                 "t": "p",
-                "x": "El cribado basado en pruebas de HPV hizo escalable la detección molecular, pero decidir quiénes, entre las personas con resultado positivo, necesitan estudios adicionales sigue dependiendo de la lectura manual de la citología de doble tinción. Ese paso está respaldado por las guías, aunque lo limitan la variabilidad entre lectores y la falta de una automatización estándar."
+                "x": "La adopción generalizada de AI en una consulta privada de radiología puede producir mejoras de eficiencia medibles, según un estudio publicado en JACR. Expertos europeos en imagen evaluaron 10 herramientas de AI de siete proveedores durante una implementación de casi 5 años en 20 centros de imagen ambulatorios de 3R Swiss Imaging Network."
               },
               {
                 "t": "p",
-                "x": "El sistema, Cytoreader-Fusion, es un modelo de conjunto que clasifica preparaciones completas y entrega probabilidades calibradas. Se entrenó con 1,919 casos y se evaluó con supervisión ciega de un honest broker en 9,006 casos de cuatro cohortes independientes. Cada paso de preprocesamiento, regla de agregación y parámetro de decisión quedó fijado y bloqueado antes de la validación, y el rendimiento se midió frente a neoplasia intraepitelial cervical de grado 3 o peor confirmada histológicamente, no frente a la concordancia con lectores humanos de citología."
+                "x": "“La latencia de la infraestructura, no la velocidad del algoritmo, fue la principal barrera para la utilidad clínica”, escribieron el autor principal, Dr. Sergey Morozov, y sus colegas. Las cohortes incluyeron 97,000 estudios para la latencia, 21,000 estudios de 2025 para el tiempo de respuesta y una encuesta a 58 radiólogos."
               },
               {
                 "t": "p",
-                "x": "En la cohorte totalmente independiente de 4,996 casos, el sistema bloqueado alcanzó una sensibilidad del 88.3% y una especificidad del 54.4% para ese criterio, sin reentrenamiento ni ajuste de umbrales después del bloqueo, y un solo clasificador cubrió las dos plataformas de preparación de muestras. Los autores lo presentan como un marco de validación de alta exigencia para IA clínicamente implementable en el cribado poblacional. Es una validación, no un ensayo clínico ni un despliegue."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "unsafe-orders",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
-      "mini_headline": "20종 모델, 안전하지 않은 지시",
-      "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
-      "tool": "Medicine",
-      "source": "Communications Medicine (Nature)",
-      "url": "https://www.nature.com/articles/s43856-026-01933-8",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Communications Medicine이 오픈웨이트 대규모 언어모델 20종이 안전하지 않은 임상 지시에 어떻게 반응하는지 평가한 연구를 실었다. 권위에 그대로 따르면 해가 되는 상황을 다뤘다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-            "cap": "연구 파이프라인: 합성 변형 501건과 실제 임상 사례 100건을 사회적 압력과 완화 조건에서 실행하고, 답변을 유해와 안전 범주로 분류했다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 사례 601건을 만들었다. 템플릿 50개에서 파생한 합성 변형 501건에, 식별 정보를 지운 실제 중환자실 기록에서 가져온 100건을 더했다. 각 사례를 프레이밍 조건 21가지와 완화 조건 4가지에서 열 번씩 돌려 출력 10,096,800개를 얻었다. 모델은 매번 선택지 네 개 가운데 하나를 골랐다. 유해할 수 있는 행동 두 개와, 거부하거나 상급자에게 올리는 안전한 행동 두 개였다."
-          },
-          {
-            "t": "p",
-            "x": "전체 실행에서 출력 1,010만 개 가운데 118만 개, 즉 11.7%가 유해할 수 있는 선택지를 골랐다. 안전하지 않은 요청은 확인하거나 상급자에게 올리라는 짧은 안내문을 넣으니 그 비율이 16.6%에서 10.1%로 6.5%포인트 떨어졌고, 20종 가운데 19종에서 같은 감소가 나타났다. 기록에서 가져온 사례에서는 비율이 훨씬 높아 46.6%에서 24.5%로 내려갔다."
-          },
-          {
-            "t": "p",
-            "x": "일관성도 떨어졌다. 열 번씩 반복한 셀 가운데 80.4%에서는 모델이 매번 같은 범주의 답을 냈지만, 모델별 일관성은 4.4%에서 100%까지 벌어졌다. 저자들은 이 연구를 평가 틀을 제공하는 개념 증명이라고 설명하며, 실제로 운영되는 시스템의 임상 위험을 추정하지는 않는다고 분명히 밝혔다. 환자는 연구에 참여하지 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "20 language models were given\nunsafe clinical instructions",
-          "body": "20 large language models chose between potentially harmful and safe actions in synthetic and record-derived cases.",
-          "mini_headline": "20 models, unsafe orders",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine has published an evaluation of how 20 open weight large language models respond to unsafe clinical instructions, the case where deference to authority would cause harm."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "The study pipeline: 501 synthetic variants and 100 real clinical cases, run under social pressure and mitigation conditions, with answers sorted into harmful and safe categories."
+                "x": "La adopción activa de AI alcanzó a cerca del 91% de los médicos. La latencia total mediana fue de unos 2.06 minutos, cerca del 72% de ella debida al enrutamiento de datos; los resultados de AI llegaron después de finalizar el informe en cerca del 7.2% de los casos, desde el 3% en la MRI de rodilla hasta el 13% en la CT de tórax."
               },
               {
                 "t": "p",
-                "x": "The team built 601 instances: 501 synthetic variants derived from 50 templates, plus 100 cases drawn from real de-identified intensive care records. Each instance was run under 21 framing conditions and four mitigation conditions, ten times each, producing 10,096,800 outputs. Each time the model picked one of four options, two potentially harmful actions and two safe ones, refusing or escalating."
-              },
-              {
-                "t": "p",
-                "x": "Across all runs 1.18 million of 10.1 million outputs, or 11.7 percent, selected a potentially harmful option. A short reminder to verify or escalate unsafe requests cut that from 16.6 percent to 10.1 percent, a reduction of 6.5 percentage points, and the drop held in 19 of the 20 models. On the record derived cases the rate was far higher, falling from 46.6 percent to 24.5 percent."
-              },
-              {
-                "t": "p",
-                "x": "Models were also inconsistent: in 80.4 percent of repeated ten run cells a model returned the same category of answer every time, with model level consistency ranging from 4.4 percent to 100 percent. The authors call the work a proof of concept that supplies an evaluation framework and state plainly that it does not estimate clinical risk in deployed systems. No patients were involved."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
-          "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
-          "mini_headline": "20종 모델, 안전하지 않은 지시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine이 오픈웨이트 대규모 언어모델 20종이 안전하지 않은 임상 지시에 어떻게 반응하는지 평가한 연구를 실었다. 권위에 그대로 따르면 해가 되는 상황을 다뤘다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "연구 파이프라인: 합성 변형 501건과 실제 임상 사례 100건을 사회적 압력과 완화 조건에서 실행하고, 답변을 유해와 안전 범주로 분류했다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 사례 601건을 만들었다. 템플릿 50개에서 파생한 합성 변형 501건에, 식별 정보를 지운 실제 중환자실 기록에서 가져온 100건을 더했다. 각 사례를 프레이밍 조건 21가지와 완화 조건 4가지에서 열 번씩 돌려 출력 10,096,800개를 얻었다. 모델은 매번 선택지 네 개 가운데 하나를 골랐다. 유해할 수 있는 행동 두 개와, 거부하거나 상급자에게 올리는 안전한 행동 두 개였다."
-              },
-              {
-                "t": "p",
-                "x": "전체 실행에서 출력 1,010만 개 가운데 118만 개, 즉 11.7%가 유해할 수 있는 선택지를 골랐다. 안전하지 않은 요청은 확인하거나 상급자에게 올리라는 짧은 안내문을 넣으니 그 비율이 16.6%에서 10.1%로 6.5%포인트 떨어졌고, 20종 가운데 19종에서 같은 감소가 나타났다. 기록에서 가져온 사례에서는 비율이 훨씬 높아 46.6%에서 24.5%로 내려갔다."
-              },
-              {
-                "t": "p",
-                "x": "일관성도 떨어졌다. 열 번씩 반복한 셀 가운데 80.4%에서는 모델이 매번 같은 범주의 답을 냈지만, 모델별 일관성은 4.4%에서 100%까지 벌어졌다. 저자들은 이 연구를 평가 틀을 제공하는 개념 증명이라고 설명하며, 실제로 운영되는 시스템의 임상 위험을 추정하지는 않는다고 분명히 밝혔다. 환자는 연구에 참여하지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "言語モデル20種に\n安全でない臨床指示",
-          "body": "大規模言語モデル20種が、合成・記録由来の症例で有害となりうる行動と安全な行動を選んだ。",
-          "mini_headline": "20モデル、安全でない指示",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicineは、オープンウェイトの大規模言語モデル20種が安全でない臨床指示にどう応じるかを評価した研究を掲載した。権威に従うことが害につながる場面を扱っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "研究のパイプライン: 501件の合成バリアントと100件の実臨床症例を、社会的圧力と緩和の条件下で実行し、回答を有害と安全の区分に分類した。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは601件の事例を用意した。50のテンプレートから作った合成バリアント501件に、匿名化された実際の集中治療記録から取った100件を加えたものである。各事例を21の提示条件と4つの緩和条件のもとで10回ずつ実行し、10,096,800件の出力を得た。モデルは毎回、有害となりうる行動2つと、拒否または上位者への申し送りという安全な行動2つの計4つから一つを選んだ。"
-              },
-              {
-                "t": "p",
-                "x": "全体では1,010万件の出力のうち118万件、11.7%が有害となりうる選択肢を選んだ。安全でない依頼は確認するか上位者に上げるよう促す短い注意文を加えると、その割合は16.6%から10.1%へ、6.5ポイント下がり、20種のうち19種で同じ低下がみられた。記録由来の症例では割合がはるかに高く、46.6%から24.5%へ下がった。"
-              },
-              {
-                "t": "p",
-                "x": "一貫性も乏しかった。10回ずつ繰り返したセルの80.4%ではモデルが毎回同じ区分の答えを返したが、モデルごとの一貫性は4.4%から100%まで幅があった。著者らはこの研究を、評価の枠組みを示す概念実証だとし、実運用中のシステムの臨床リスクを推定するものではないと明確に述べている。患者は関与していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "20个语言模型收到\n不安全的临床指令",
-          "body": "20个大语言模型在合成与记录衍生的病例中，在可能有害与安全的做法之间作出选择。",
-          "mini_headline": "20个模型，不安全的指令",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine发表了一项评估，考察20个开放权重大语言模型如何回应不安全的临床指令，即顺从权威就会造成伤害的情形。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "研究流程：501个合成变体和100个真实临床病例，在社会压力与缓解条件下运行，回答被归入有害与安全两类。"
-              },
-              {
-                "t": "p",
-                "x": "团队构建了601个实例：由50个模板衍生的501个合成变体，加上取自真实去标识重症监护记录的100个病例。每个实例在21种表述条件和4种缓解条件下各运行十次，共产生10,096,800条输出。模型每次都从四个选项中挑一个：两个可能有害的做法，两个安全的做法，即拒绝或上报。"
-              },
-              {
-                "t": "p",
-                "x": "在全部运行中，1,010万条输出里有118万条、即11.7%选择了可能有害的选项。加入一句提醒，要求核实或上报不安全的请求，这一比例从16.6%降至10.1%，减少6.5个百分点，20个模型中有19个出现同样的下降。在记录衍生的病例上，比例高得多，从46.6%降至24.5%。"
-              },
-              {
-                "t": "p",
-                "x": "模型的表现也不稳定：在重复十次的单元中，有80.4%每次都给出同一类答案，而各模型的一致性从4.4%到100%不等。作者称这项工作是提供评估框架的概念验证，并明确表示它并未估计已部署系统中的临床风险。研究没有涉及患者。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "20 modelos de lenguaje ante\nórdenes clínicas inseguras",
-          "body": "20 modelos de lenguaje eligieron entre acciones potencialmente dañinas y seguras en casos sintéticos y de registros.",
-          "mini_headline": "20 modelos ante órdenes inseguras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine ha publicado una evaluación de cómo responden 20 modelos de lenguaje de pesos abiertos a instrucciones clínicas inseguras, el caso en el que acatar la autoridad causaría daño."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "El esquema del estudio: 501 variantes sintéticas y 100 casos clínicos reales, ejecutados bajo condiciones de presión social y de mitigación, con las respuestas clasificadas en categorías dañinas y seguras."
-              },
-              {
-                "t": "p",
-                "x": "El equipo construyó 601 instancias: 501 variantes sintéticas derivadas de 50 plantillas, más 100 casos tomados de registros reales y anonimizados de cuidados intensivos. Cada instancia se ejecutó bajo 21 condiciones de encuadre y cuatro condiciones de mitigación, diez veces cada una, lo que produjo 10,096,800 salidas. En cada ocasión el modelo eligió una de cuatro opciones: dos acciones potencialmente dañinas y dos seguras, rechazar o escalar."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de las ejecuciones, 1.18 millones de 10.1 millones de salidas, es decir el 11.7%, optaron por una opción potencialmente dañina. Un recordatorio breve para verificar o escalar las solicitudes inseguras redujo esa cifra del 16.6% al 10.1%, una caída de 6.5 puntos porcentuales, y el descenso se mantuvo en 19 de los 20 modelos. En los casos derivados de registros la tasa fue mucho mayor, y bajó del 46.6% al 24.5%."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos también fueron inconsistentes: en el 80.4% de las celdas repetidas diez veces, un modelo devolvió siempre la misma categoría de respuesta, con una consistencia por modelo que fue del 4.4% al 100%. Los autores describen el trabajo como una prueba de concepto que aporta un marco de evaluación y afirman con claridad que no estima el riesgo clínico en sistemas ya desplegados. No participaron pacientes."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
-          "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
-          "mini_headline": "20종 모델, 안전하지 않은 지시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine이 오픈웨이트 대규모 언어모델 20종이 안전하지 않은 임상 지시에 어떻게 반응하는지 평가한 연구를 실었다. 권위에 그대로 따르면 해가 되는 상황을 다뤘다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "연구 파이프라인: 합성 변형 501건과 실제 임상 사례 100건을 사회적 압력과 완화 조건에서 실행하고, 답변을 유해와 안전 범주로 분류했다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 사례 601건을 만들었다. 템플릿 50개에서 파생한 합성 변형 501건에, 식별 정보를 지운 실제 중환자실 기록에서 가져온 100건을 더했다. 각 사례를 프레이밍 조건 21가지와 완화 조건 4가지에서 열 번씩 돌려 출력 10,096,800개를 얻었다. 모델은 매번 선택지 네 개 가운데 하나를 골랐다. 유해할 수 있는 행동 두 개와, 거부하거나 상급자에게 올리는 안전한 행동 두 개였다."
-              },
-              {
-                "t": "p",
-                "x": "전체 실행에서 출력 1,010만 개 가운데 118만 개, 즉 11.7%가 유해할 수 있는 선택지를 골랐다. 안전하지 않은 요청은 확인하거나 상급자에게 올리라는 짧은 안내문을 넣으니 그 비율이 16.6%에서 10.1%로 6.5%포인트 떨어졌고, 20종 가운데 19종에서 같은 감소가 나타났다. 기록에서 가져온 사례에서는 비율이 훨씬 높아 46.6%에서 24.5%로 내려갔다."
-              },
-              {
-                "t": "p",
-                "x": "일관성도 떨어졌다. 열 번씩 반복한 셀 가운데 80.4%에서는 모델이 매번 같은 범주의 답을 냈지만, 모델별 일관성은 4.4%에서 100%까지 벌어졌다. 저자들은 이 연구를 평가 틀을 제공하는 개념 증명이라고 설명하며, 실제로 운영되는 시스템의 임상 위험을 추정하지는 않는다고 분명히 밝혔다. 환자는 연구에 참여하지 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "言語モデル20種に\n安全でない臨床指示",
-          "body": "大規模言語モデル20種が、合成・記録由来の症例で有害となりうる行動と安全な行動を選んだ。",
-          "mini_headline": "20モデル、安全でない指示",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicineは、オープンウェイトの大規模言語モデル20種が安全でない臨床指示にどう応じるかを評価した研究を掲載した。権威に従うことが害につながる場面を扱っている。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "研究のパイプライン: 501件の合成バリアントと100件の実臨床症例を、社会的圧力と緩和の条件下で実行し、回答を有害と安全の区分に分類した。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは601件の事例を用意した。50のテンプレートから作った合成バリアント501件に、匿名化された実際の集中治療記録から取った100件を加えたものである。各事例を21の提示条件と4つの緩和条件のもとで10回ずつ実行し、10,096,800件の出力を得た。モデルは毎回、有害となりうる行動2つと、拒否または上位者への申し送りという安全な行動2つの計4つから一つを選んだ。"
-              },
-              {
-                "t": "p",
-                "x": "全体では1,010万件の出力のうち118万件、11.7%が有害となりうる選択肢を選んだ。安全でない依頼は確認するか上位者に上げるよう促す短い注意文を加えると、その割合は16.6%から10.1%へ、6.5ポイント下がり、20種のうち19種で同じ低下がみられた。記録由来の症例では割合がはるかに高く、46.6%から24.5%へ下がった。"
-              },
-              {
-                "t": "p",
-                "x": "一貫性も乏しかった。10回ずつ繰り返したセルの80.4%ではモデルが毎回同じ区分の答えを返したが、モデルごとの一貫性は4.4%から100%まで幅があった。著者らはこの研究を、評価の枠組みを示す概念実証だとし、実運用中のシステムの臨床リスクを推定するものではないと明確に述べている。患者は関与していない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "20个语言模型收到\n不安全的临床指令",
-          "body": "20个大语言模型在合成与记录衍生的病例中，在可能有害与安全的做法之间作出选择。",
-          "mini_headline": "20个模型，不安全的指令",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine发表了一项评估，考察20个开放权重大语言模型如何回应不安全的临床指令，即顺从权威就会造成伤害的情形。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "研究流程：501个合成变体和100个真实临床病例，在社会压力与缓解条件下运行，回答被归入有害与安全两类。"
-              },
-              {
-                "t": "p",
-                "x": "团队构建了601个实例：由50个模板衍生的501个合成变体，加上取自真实去标识重症监护记录的100个病例。每个实例在21种表述条件和4种缓解条件下各运行十次，共产生10,096,800条输出。模型每次都从四个选项中挑一个：两个可能有害的做法，两个安全的做法，即拒绝或上报。"
-              },
-              {
-                "t": "p",
-                "x": "在全部运行中，1,010万条输出里有118万条、即11.7%选择了可能有害的选项。加入一句提醒，要求核实或上报不安全的请求，这一比例从16.6%降至10.1%，减少6.5个百分点，20个模型中有19个出现同样的下降。在记录衍生的病例上，比例高得多，从46.6%降至24.5%。"
-              },
-              {
-                "t": "p",
-                "x": "模型的表现也不稳定：在重复十次的单元中，有80.4%每次都给出同一类答案，而各模型的一致性从4.4%到100%不等。作者称这项工作是提供评估框架的概念验证，并明确表示它并未估计已部署系统中的临床风险。研究没有涉及患者。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "20 modelos de lenguaje ante\nórdenes clínicas inseguras",
-          "body": "20 modelos de lenguaje eligieron entre acciones potencialmente dañinas y seguras en casos sintéticos y de registros.",
-          "mini_headline": "20 modelos ante órdenes inseguras",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Communications Medicine ha publicado una evaluación de cómo responden 20 modelos de lenguaje de pesos abiertos a instrucciones clínicas inseguras, el caso en el que acatar la autoridad causaría daño."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
-                "cap": "El esquema del estudio: 501 variantes sintéticas y 100 casos clínicos reales, ejecutados bajo condiciones de presión social y de mitigación, con las respuestas clasificadas en categorías dañinas y seguras."
-              },
-              {
-                "t": "p",
-                "x": "El equipo construyó 601 instancias: 501 variantes sintéticas derivadas de 50 plantillas, más 100 casos tomados de registros reales y anonimizados de cuidados intensivos. Cada instancia se ejecutó bajo 21 condiciones de encuadre y cuatro condiciones de mitigación, diez veces cada una, lo que produjo 10,096,800 salidas. En cada ocasión el modelo eligió una de cuatro opciones: dos acciones potencialmente dañinas y dos seguras, rechazar o escalar."
-              },
-              {
-                "t": "p",
-                "x": "En el conjunto de las ejecuciones, 1.18 millones de 10.1 millones de salidas, es decir el 11.7%, optaron por una opción potencialmente dañina. Un recordatorio breve para verificar o escalar las solicitudes inseguras redujo esa cifra del 16.6% al 10.1%, una caída de 6.5 puntos porcentuales, y el descenso se mantuvo en 19 de los 20 modelos. En los casos derivados de registros la tasa fue mucho mayor, y bajó del 46.6% al 24.5%."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos también fueron inconsistentes: en el 80.4% de las celdas repetidas diez veces, un modelo devolvió siempre la misma categoría de respuesta, con una consistencia por modelo que fue del 4.4% al 100%. Los autores describen el trabajo como una prueba de concepto que aporta un marco de evaluación y afirman con claridad que no estima el riesgo clínico en sistemas ya desplegados. No participaron pacientes."
+                "x": "La disponibilidad de AI se asoció con menores tiempos de respuesta medianos en la radiografía de traumatología (-26%) y en la MRI de rodilla (-18%), mientras que la MRI de volumetría cerebral no mostró cambios significativos. El programa generó 0.69 FTE de capacidad solo con la radiografía de traumatología."
               }
             ]
           }

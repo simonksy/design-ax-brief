@@ -10858,6 +10858,150 @@
           "x": "형광은 Ken Shepard 연구실의 CMOS 칩이 읽는다. 사용자는 일회용 스틱을 물에 담그기만 하면 곧바로 결과를 본다. Cornish는 비용이 기존 방식보다 몇 자릿수 낮아질 것으로 내다본다."
         }
       ]
+    },
+    "science/science-satellite-damage-through-smoke": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "재난 직후 위성 영상 일부가 구름이나 연기에 가려도 도시 규모의 구조물 피해를 빠르게 예측하는 기술이 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "서울대학교(Seoul National University) In Ho Cho 교수 연구팀은 구조공학 지식을 AI에 녹인 Scientific AI 방식에, 빠진 데이터를 메우는 통계적 대치 기법을 더했다. 연구 결과는 Scientific Reports에 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+          "cap": "대형 태풍 전후의 위성 영상과 영상 무질서도(엔트로피)를 활용한 도시 규모(City-scale) 피해 예측 결과. 출처: Scientific Reports"
+        },
+        {
+          "t": "p",
+          "x": "프레임워크의 재료는 재난 전후 위성 영상의 무질서도를 나타내는 영상 엔트로피와 공개 데이터다. 최신 AI 방식과 달리 비용이 많이 드는 학습 단계가 필요 없다."
+        },
+        {
+          "t": "p",
+          "x": "대형 태풍 사례에서는 영상의 50% 이상이 구름에 가렸는데도 그 아래 건물 피해를 5% 미만의 오차로 예측했다. 연구팀은 대형 산불 사례에도 이 방식을 적용했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
+          "cap": "개발한 프레임워크를 대형 산불 피해 사례에 적용한 예시. 출처: Scientific Reports"
+        }
+      ]
+    },
+    "science/science-ai2-astabrief-open-weights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2의 AstaBrief 8B 모델은 연구 질문과 검색한 문헌 발췌를 받아 인용이 달린 보고서로 정리한다. Asta의 Generate a report 기능에서 Claude-powered Thinking mode와 나란히 Fast mode로 들어가며, Ai2는 모델과 학습 데이터를 오픈소스로 공개한다."
+        },
+        {
+          "t": "p",
+          "x": "Fast mode는 보고서 한 건에 평균 51.1초가 걸린다. 178.5초인 Thinking mode보다 약 3.5× 빠르다. 오픈 웨이트(Open weights)라서 기관은 자체 인프라에서 모델을 돌릴 수 있는데, 질문 자체가 민감하거나 미발표 연구를 드러낼 때는 이 점이 꼭 필요하다."
+        },
+        {
+          "t": "p",
+          "x": "Ai2는 Qwen3-8B를 출발점으로 지도 미세조정과 DPO를 쓴 사후 학습 데이터에 공을 들였다. 덕분에 AstaBrief는 Claude-powered 파이프라인과 DR Tulu에 근접한 수준까지 올라왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
+          "cap": "Claude-powered Thinking mode 대비 LLM-judged 쌍별 승률"
+        },
+        {
+          "t": "p",
+          "x": "Fast mode를 써 본 Asta 사용자 374명 중 29.1%는 이틀 이상 사용했다."
+        }
+      ]
+    },
+    "science/science-haiqu-agenticos-quantum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Haiqu가 AgenticOS를 내놓았다. 전문 AI 에이전트 여럿을 조율해 사람의 감독 아래 양자 연구 실험을 계획·검증하고 하드웨어 실행까지 준비하는 시스템이다."
+        },
+        {
+          "t": "p",
+          "x": "범용(General-purpose) AI 에이전트는 아무도 요청하지 않은 작은 변경을 할 수 있다. 분자 구조를 바꾸거나 승인되지 않은 근사를 슬쩍 끼워 넣는 식이다. AgenticOS는 문헌 검토, 유도 과정 전개, 양자 실현 가능성 평가를 에이전트 팀에 나눠 맡기고 결과는 고전적 기준선과 비평 에이전트, 사람의 검토로 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "NeurIPS 2026 워크숍에 채택된 화학 연구에서는 도움 없이 돌린 에이전트가 10회 중 네 번 명시된 설정 지시를 무시했다. AgenticOS를 붙이자 모델은 승인된 프로토콜을 지켰고 정확 대각화 기준값과 약 3.4% 이내의 결과를 냈다."
+        },
+        {
+          "t": "p",
+          "x": "IBM 양자 컴퓨터에서 돌린 3-by-3 Hubbard 모델 실험에서는 회로 깊이가 75% 줄었다. 기업 R&D 팀은 요청하면 AgenticOS를 쓸 수 있고, 학계 연구자는 무료 이용을 신청하면 된다."
+        }
+      ]
+    },
+    "science/science-virtual-cell-model-calibration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nature Biotechnology에 실린 논문 “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”는 양성 대조 기준선과 함께 프레임워크 하나를 내놓았다. 흔히 쓰는 지표가 의미 있는 모델 예측과 정보가 적은 예측을 가려낼 수 있는지 검증하는 틀이다."
+        },
+        {
+          "t": "p",
+          "x": "유전자 교란 모델은 AI 가상세포의 한 갈래로, 유전자를 활성화하거나 억제할 때 세포의 전사체가 어떻게 바뀌는지 예측한다. 최근 연구들에서는 정교한 딥러닝 시스템이 단순한 기준선을 넘지 못하는 경우가 많았다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 ‘보간 복제(interpolated duplicate)’ 양성 대조군을 만들고, 지표가 이를 음성 대조군과 얼마나 잘 구분하는지 재는 동적 범위 비율(DRF)도 고안했다. 14개 데이터셋과 18개 지표를 살펴보니 평균제곱오차와 대조군 기준 Pearson 상관은 보정이 미흡한 경우가 많았다. WMSE, 가중 RΔ2, NIR 같은 가중·순위 기반 지표가 더 나았다."
+        },
+        {
+          "t": "p",
+          "x": "지표를 보정하자 scGPT, GEARS 등 이전 모델도 정보 없는 기준선을 자주 넘어섰고, PRESAGE와 scLambda는 그보다 강한 성능을 보였다. Norman19(유전자 조합의 0.63% 포괄)에서는 가산 기준선을 넘기 어려웠지만 Wessels23(10.3%)에서는 여러 모델이 이를 앞섰다."
+        },
+        {
+          "t": "p",
+          "x": "Cambridge, U.K.(영국 케임브리지)의 Shift Bioscience는 이 프레임워크를 회춘과 노화 관련 질환의 표적 스크리닝에 적용할 계획이다. 첫 대상은 섬유화다."
+        }
+      ]
+    },
+    "science/science-xray-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "과학계는 인공지능(AI)을 일종의 현미경처럼 점점 더 많이 써 왔다. 이제 새 흐름이 시작됐다. 간단한 자연어 요청만 받고도 과학자가 다음에 할 일을 정하도록 돕는 에이전트형 AI다."
+        },
+        {
+          "t": "p",
+          "x": "DOE 산하 아르곤 국립연구소(Argonne National Laboratory) 연구진이 SYNAPS-I 프로젝트에서 이 기능을 시연했다. DOE Genesis Mission에 속한 SYNAPS-I는 로런스 버클리 국립연구소(Lawrence Berkeley National Laboratory)가 이끈다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+          "cap": "CNM 소속 과학자 Tao Zhou가 APS의 Hard X-ray Nanoprobe 빔라인에 시료를 넣는다. 사진: Jason Creps/Argonne National Laboratory"
+        },
+        {
+          "t": "video",
+          "yt": "Be89VHHNJLM"
+        },
+        {
+          "t": "p",
+          "x": "\"코드를 작성하거나 기술적 명령어를 입력하는 대신 연구자가 AI와 대화하면, AI가 데이터 수집과 처리, 분석을 자동으로 맡는다.\" Argonne 계산과학자 Ming Du의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "과학자는 \"이 영역을 고해상도로 매핑해\"처럼 원하는 바를 말하면 된다. 에이전트는 PtychoFM 모델이 실시간으로 재구성한 이미지를 읽고 관심 영역을 찾는다. 사람의 승인은 위험도가 높은 작업에만 구한다. 이미지별 특징 분할은 Meta의 SAM3가 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "26-ID 빔라인 시험에서 에이전트는 집적회로 속 두 영역의 경계면을 찾으라는 지시를 받고 소자 깊숙한 곳의 정확한 지점까지 파고들었다. 자율주행 현미경에 한 발 다가선 셈이다."
+        }
+      ]
     }
   }
 }

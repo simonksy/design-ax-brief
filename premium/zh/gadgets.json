@@ -6061,6 +6061,147 @@
           "x": "音频变化仍处于刚开始推送的阶段，而导航升级已作为Meta AI应用的更新广泛上线。"
         }
       ]
+    },
+    "gadgets/gadgets-copilot-windows-local-files": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "在今天的 Windows 与 Surface 发布活动上，Microsoft 展示了 Copilot AI 系统的一项升级：它将能访问你 PC 上的本地文件，并在整个 OS 中执行操作。这是 Microsoft 所称“Hybrid Intelligence”理念的一部分，即应用和工具结合本地与云端 AI 模型，高效完成任务。"
+        },
+        {
+          "t": "p",
+          "x": "为展示 Hybrid Intelligence 的工作方式，Microsoft 负责 Copilot 的 EVP Jacob Andreou 在台上讲解了一段视频演示，演示中他请 Microsoft 的 Autopilot 工具帮忙报税。Andreou 告诉这个 AI 智能体，他收到了会计师的邮件，并请 Autopilot 为她准备所需材料。随后，Autopilot 借助 Hybrid Intelligence 在不同文件夹中搜索找到文档，重命名文件，将其 zip 压缩到一个文件夹里，并起草了一封附带该 zip 文件、准备发给会计师的邮件。"
+        },
+        {
+          "t": "p",
+          "x": "Andreou 表示，由 Hybrid Intelligence 驱动的功能将在“接下来的几个月”内登陆 Copilot。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft 还展示了全新的 Windows 搜索体验，可直接在搜索栏执行快捷操作，比如开启深色模式、用内嵌(in-line)滑块调高麦克风音量，甚至发送短信。据 Windows 与 Surface 负责人 Pavan Davuluri 介绍，新体验将于今年秋季起在 Windows 11 PCs 上推出。"
+        }
+      ]
+    },
+    "gadgets/gadgets-one-ui-9-galaxy-s26-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9为Galaxy S26、S26+和S26 Ultra带来Android 17及多项新功能，包括更多Galaxy AI工具和更多自定义选项。S26系列出厂搭载One UI 8.5，因此部分功能此前已可使用。"
+        },
+        {
+          "t": "p",
+          "x": "Call Brief会在通话界面显示相关信息，例如拨打国际电话时显示对方所在国家和当地时间。"
+        },
+        {
+          "t": "p",
+          "x": "My FanCam可基于已有视频生成一个裁切版本，画面跟随你选定的人物：在Gallery中打开视频，点击Galaxy AI图标，选择人物、方向和画面比例，然后点击Follow即可。"
+        },
+        {
+          "t": "video",
+          "yt": "cWtvEpKt8Tw"
+        },
+        {
+          "t": "p",
+          "x": "Now Brief新增自定义卡片：你可以利用天气、健康或视频信息创建最多三张卡片，并选择它们的显示时间。"
+        },
+        {
+          "t": "p",
+          "x": "其余更新则属于non-AI内容：可调整大小的Quick Panel控件、Warranty and care板块、三种尺寸的Bixby主屏幕小组件、Dual Recording分屏布局、Driving Report，以及更便捷的Samsung DeX桌面管理。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Good Lock的Home Up新增multi-finger手势，例如用pinch-out启动AI Select。体验One UI 9的最大理由，是新增的AI工具和各种小便利。"
+        }
+      ]
+    },
+    "gadgets/gadgets-tony-fadell-ai-gadgets-failed": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "在首届MIT Future Fest上，Tony Fadell投出一张幻灯片，上面是三款已停产的AI设备：Rabbit R1、Humane Ai pin和Limitless pendant。“这些算是‘Gen 1’AI产品，因为我的背景，这些公司都找过我，请我帮忙，”他说，“我没有答应。”"
+        },
+        {
+          "t": "p",
+          "x": "“你必须真正弄清楚自己想做什么、想解决什么痛点，”他说，“在这些案例里，没有一个满足了任何需求——它们只是给极客看的有趣技术。”"
+        },
+        {
+          "t": "p",
+          "x": "“全世界曾经让一个真人[助理]帮自己做过事的人，不到0.01%，”Fadell说，“凡是我们交给某种智能去处理的事情，信任和安全都将是首要的。”他认为Apple——或许再加上另一家公司——有能力做到这一点，并预测成功的智能体必须只在on-device端运行。"
+        },
+        {
+          "t": "p",
+          "x": "他推测，Meta和OpenAI之所以转向硬件，是因为它们无法获取你手机上的传感器。“因为是创业公司，你只有一次机会，”他调侃道，“这可不像Apple和Vision Pro。”"
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-27-2-messages-ai-suggestions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "t": "p",
+          "x": "当前的iOS 27.2 beta在Messages应用中加入了Siri AI“建议操作”功能，有人会觉得实用，也有人会觉得烦人。"
+        },
+        {
+          "t": "p",
+          "x": "Suggested Actions曾出现在最初的iOS 27 beta中，但因有用户抱怨部分建议颇为随机，Apple随后撤下了该功能。它在iOS 27.2 beta中重新回归。Messages会根据对话上下文提供one-tap建议，例如Add to Reminders和Add to Notes，或一个直接跳转搜索所需照片的按钮。"
+        },
+        {
+          "t": "p",
+          "x": "爆料者pdfu在iOS 27.2 beta 3代码中发现了新的控制项，可有选择地关闭不需要的建议。用户可以按类别关闭建议，也可以让Siri AI隐藏过去30天未使用的类别。"
+        },
+        {
+          "t": "p",
+          "x": "这些选项尚未在beta中上线，但很可能不久就会出现。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ghost-core": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "初创公司 Ghost 的首款产品是 Core，一台专为本地 AI 智能体打造、只在设备端运行 LLMs（大语言模型）的 PC。Ghost 称它是“完全在设备上运行模型的个人 AI 电脑”，可连接用户的应用、文件和设备，并“随着时间推移积累关于你生活的上下文”。公司刚完成 1100万美元融资，创始人兼 CEO Zain Javaid 称其为“盒子里的大脑”。"
+        },
+        {
+          "t": "p",
+          "x": "Core 以配备 24GB 显存的 Nvidia RTX Pro 4000 (Blackwell) 为核心，另有 64GB DDR5，算力为 770 TOPS。出厂预装 Qwen-3.8-Next、Qwen-3.8-27B 和 Gemma-4-31B ，模型通过无线方式更新，可用手机或笔记本电脑上的应用控制，也支持语音操作。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+          "cap": "拆下机箱、露出内部组件的 Ghost Core AI PC"
+        },
+        {
+          "t": "p",
+          "x": "个人数据经过加密，连 Ghost 也无法访问；设备的设计确保即使 Ghost 关闭也能继续运行，且不收订阅费。防火墙会限制智能体使用凭证的方式，并标记可疑的外发请求供用户审核。"
+        },
+        {
+          "t": "p",
+          "x": "Core 在美国售价 $3,499 ，首批产品上市当天售罄，将于本月底发货。面向 AI 的顶配 Mac mini 售价 $3,199 ，但缺少 Core 专用的本地 AI（local-AI）软件和隐私功能。"
+        }
+      ]
     }
   }
 }

@@ -1,32 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "design",
- "media": [
-  {
-   "id": "design-figma-agent-ga",
-   "type": "video",
-   "src": "pipeline/media/design-figma-agent-ga.mp4",
-   "poster": "pipeline/media/design-figma-agent-ga.jpg"
-  },
-  {
-   "id": "design-photoshop-27-11-enhance-edge",
-   "type": "image",
-   "src": "pipeline/media/design-photoshop-27-11-enhance-edge.jpg"
-  },
-  {
-   "id": "design-hark-pro-assistant",
-   "type": "image",
-   "src": "pipeline/media/design-hark-pro-assistant.jpg"
-  },
-  {
-   "id": "design-claude-code-to-figma-test",
-   "type": "image",
-   "src": "pipeline/media/design-claude-code-to-figma-test.jpg"
-  },
-  {
-   "id": "design-figma-expert-designs-by-describing",
-   "type": "image",
-   "src": "pipeline/media/design-figma-expert-designs-by-describing.png"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "design-chatgpt-intelligent-ui",
+      "type": "image",
+      "src": "pipeline/media/design-chatgpt-intelligent-ui.jpg"
+    },
+    {
+      "id": "design-mecagent-v2-gpt6-astra-solidworks",
+      "type": "image",
+      "src": "pipeline/media/design-mecagent-v2-gpt6-astra-solidworks.jpg"
+    },
+    {
+      "id": "design-logo-design-agent-skill-svg",
+      "type": "image",
+      "src": "pipeline/media/design-logo-design-agent-skill-svg.png"
+    },
+    {
+      "id": "design-bounded-delegation-ai-authority",
+      "type": "image",
+      "src": "pipeline/media/design-bounded-delegation-ai-authority.jpg"
+    },
+    {
+      "id": "design-system-coding-agent-experiment",
+      "type": "image",
+      "src": "pipeline/media/design-system-coding-agent-experiment.png"
+    }
+  ]
 }

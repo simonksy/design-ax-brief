@@ -1,2236 +1,1666 @@
 {
- "date": "2026-10-07",
- "section": "politics",
- "cards": [
-  {
-   "id": "politics-sif-charter",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "백악관 '초지능군'\n헌장 내용 공개",
-   "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
-   "mini_headline": "초지능군 헌장",
-   "tool": "Politics",
-   "source": "politico.eu",
-   "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
-   "accent": "#3b6bff",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-      "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
-     },
-     {
-      "t": "p",
-      "x": "POLITICO가 입수한 헌장을 보면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 줬다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유를 위협할 때 기술 업계와 연방정부가 어떻게 대응할지 정하는 권한이다. 논의를 잘 아는 세 사람이 문서가 진본이라고 확인했다."
-     },
-     {
-      "t": "p",
-      "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾는다. AI 위험 보고서도 쓰는데, 시민의 자유와 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 영향을 중심으로 다룬다."
-     },
-     {
-      "t": "p",
-      "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일로, 수지 와일스 비서실장이 지시하면 늘릴 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "헌장은 생물보안과 상수도 위협도 짚었다. AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 일도 이 조직의 몫이다."
-     },
-     {
-      "t": "p",
-      "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Charter for White House's\nSuper Intelligence Force",
-     "body": "POLITICO published the charter of a White House body with broad authority to set federal defenses against AI threats.",
-     "mini_headline": "Super Intelligence Force charter",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "Director of National Intelligence Jay Clayton will lead the task force."
-       },
-       {
-        "t": "p",
-        "x": "The Trump administration has given its newly created “Super Intelligence Force” broad authority to determine how the tech industry and the federal government should address threats to national security and civil liberties posed by fast-evolving AI technology, according to a charter obtained by POLITICO. Three people familiar with the discussions confirmed the document’s authenticity."
-       },
-       {
-        "t": "p",
-        "x": "The task force will identify “measures to improve the preparedness and response capability of both the government and the private sector,” and produce a report on AI risks focusing on civil liberties, cybersecurity, standards for advanced models and the impacts of possible overregulation."
-       },
-       {
-        "t": "p",
-        "x": "Director of National Intelligence Jay Clayton will lead it as the administration’s AI czar, with Under Secretary of Defense Emil Michael, OPM Director Scott Kupor and FTC Chairman Andrew Ferguson as vice chairs. It will stand for 120 days, extendable at chief of staff Susie Wiles’ direction."
-       },
-       {
-        "t": "p",
-        "x": "The charter also calls out biosecurity and water-supply threats, and tasks the group with reviewing the protocols for AI labs to notify the government of breaches, hacks and jailbreaks."
-       },
-       {
-        "t": "p",
-        "x": "It places responsibility for AI risks on the labs, stating that “it is the role of the federal government … to enforce our nation’s laws so that the fundamental principles of our Republic are safeguarded and advanced.”"
-       }
-      ]
-     }
+  "date": "2026-10-08",
+  "section": "politics",
+  "cards": [
+    {
+      "id": "politics-pentagon-tradewinds-video-ai-buys",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
+      "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
+      "mini_headline": "펜타곤, AI 구매 가속",
+      "tool": "Politics",
+      "source": "wired.com",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+            "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+          },
+          {
+            "t": "p",
+            "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+          },
+          {
+            "t": "p",
+            "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Pentagon turns to short videos\nto speed up AI buys",
+          "body": "Tradewinds lets the Pentagon fast-track AI buys from five-minute video pitches, listing OpenAI, Anthropic and Google.",
+          "mini_headline": "Pentagon speeds up AI buys",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "An under-the-radar Department of Defense procurement program, Tradewinds, grants special statuses to would-be contractors that make it easier for the government to quickly purchase their AI offerings, based on product videos no longer than five minutes. It is managed by DOD’s Chief Digital and Artificial Intelligence Office (CDAO)."
+              },
+              {
+                "t": "p",
+                "x": "Products accepted into the Tradewinds Solutions Marketplace are considered “post-competitive,” which can help shave months off award timelines. A DOD official says the department has in several instances made awards using Tradewinds in less than a week. OpenAI, Anthropic, and Google are all listed as participants; all three declined to comment."
+              },
+              {
+                "t": "p",
+                "x": "This year, the military is seeking pitches for AI tech that can help “enhance force lethality” and agents that assist in joint targeting, including so-called kill chain execution. The status eases use of “other transaction” agreements (OTs); by law, the Pentagon can spend up to $500 million on a single OT without notifying Congress."
+              },
+              {
+                "t": "p",
+                "x": "Senator Joni Ernst says reviews of OTAs have raised red flags, including questionable costs and a lack of oversight. Public records show Google, Anthropic, and OpenAI all have OTs with CDAO, but the companies did not confirm whether Tradewinds was used for them."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
+          "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
+          "mini_headline": "펜타곤, AI 구매 가속",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+              },
+              {
+                "t": "p",
+                "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "国防総省、短い動画で\nAI調達を加速",
+          "body": "AI調達を早めるTradewindsにOpenAI・Anthropic・Googleが並ぶ。",
+          "mini_headline": "国防総省、AI調達を加速",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "写真イラスト：Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "あまり知られていない国防総省の調達プログラムTradewindsは、五分以内の製品動画をもとに、契約を目指す企業に特別な資格を与え、政府がそのAI製品を素早く購入できるようにしている。運営するのはDODの最高デジタル・人工知能局（CDAO）だ。"
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds Solutions Marketplaceに採用された製品は「post-competitive（競争済み）」とみなされ、契約までの期間を数カ月短縮できる。DOD当局者によると、Tradewindsを使って一週間足らずで契約に至った例が何度かある。OpenAI、Anthropic、Googleはいずれも参加企業として掲載されており、三社ともコメントを控えた。"
+              },
+              {
+                "t": "p",
+                "x": "今年、軍は「部隊の殺傷力を高める」AI技術や、いわゆるキルチェーン（kill chain）の実行を含む統合ターゲティングを支援するエージェントの提案を募っている。この資格があれば「その他の取引」協定（OTs）を使いやすくなる。法律上、国防総省は議会に通知せずに単一のOTに最大$500 millionを支出できる。"
+              },
+              {
+                "t": "p",
+                "x": "Joni Ernst上院議員は、OTAsの審査で疑わしいコストや監督の欠如といった危険信号が見つかったと述べる。公開記録によるとGoogle、Anthropic、OpenAIはいずれもCDAOとOTsを結んでいるが、各社はそれにTradewindsが使われたかどうかを確認しなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "五角大楼借短视频\n加速采购AI",
+          "body": "Tradewinds凭视频加速AI采购，OpenAI、Anthropic和Google在列。",
+          "mini_headline": "五角大楼加速AI采购",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "图片合成：Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "国防部一项鲜为人知的采购计划Tradewinds，根据不超过五分钟的产品视频，向潜在承包商授予特殊资格，使政府能更快采购其AI产品。该计划由DOD首席数字与人工智能办公室（CDAO）管理。"
+              },
+              {
+                "t": "p",
+                "x": "进入Tradewinds Solutions Marketplace的产品被视为“post-competitive”（已完成竞争），可将授标周期缩短数月。一名DOD官员表示，国防部已有数次借助Tradewinds在不到一周内完成授标。OpenAI、Anthropic和Google均列为参与方；三家公司均拒绝置评。"
+              },
+              {
+                "t": "p",
+                "x": "今年，军方正征集可帮助“提升部队杀伤力”的AI技术，以及协助联合目标打击（包括所谓“杀伤链”执行）的智能体方案。该资格让“其他交易”协议（OTs）更易使用；依据法律，五角大楼可在不通知国会的情况下，在单份OT上支出最多$500 million。"
+              },
+              {
+                "t": "p",
+                "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Pentágono usa videos cortos\npara acelerar compras de AI",
+          "body": "Tradewinds agiliza las compras de AI del Pentágono con videos de cinco minutos; figuran OpenAI, Anthropic y Google.",
+          "mini_headline": "El Pentágono acelera compras de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "Fotoilustración: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds, un programa de adquisiciones poco conocido del Departamento de Defensa, otorga estatus especiales a posibles contratistas que facilitan al gobierno comprar con rapidez sus productos de AI, a partir de videos de producto de no más de cinco minutos. Lo gestiona la Oficina Principal de Digital e Inteligencia Artificial (CDAO) del DOD."
+              },
+              {
+                "t": "p",
+                "x": "Los productos aceptados en el Tradewinds Solutions Marketplace se consideran “post-competitive” (poscompetitivos), lo que puede recortar meses de los plazos de adjudicación. Un funcionario del DOD afirma que el departamento ha adjudicado contratos con Tradewinds en menos de una semana en varias ocasiones. OpenAI, Anthropic y Google figuran como participantes; las tres declinaron hacer comentarios."
+              },
+              {
+                "t": "p",
+                "x": "Este año, el ejército busca propuestas de tecnología de AI que ayude a “aumentar la letalidad de la fuerza” y de agentes que asistan en la selección conjunta de objetivos, incluida la llamada ejecución de la cadena de muerte (kill chain). El estatus facilita el uso de acuerdos de “otras transacciones” (OTs); por ley, el Pentágono puede gastar hasta 500 millones de dólares en un solo OT sin notificar al Congreso."
+              },
+              {
+                "t": "p",
+                "x": "La senadora Joni Ernst afirma que las revisiones de los OTAs han encendido alarmas, como costos cuestionables y falta de supervisión. Los registros públicos muestran que Google, Anthropic y OpenAI tienen OTs con la CDAO, pero las empresas no confirmaron si se usó Tradewinds para ellos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
+          "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
+          "mini_headline": "펜타곤, AI 구매 가속",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+              },
+              {
+                "t": "p",
+                "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "国防総省、短い動画で\nAI調達を加速",
+          "body": "AI調達を早めるTradewindsにOpenAI・Anthropic・Googleが並ぶ。",
+          "mini_headline": "国防総省、AI調達を加速",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "写真イラスト：Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "あまり知られていない国防総省の調達プログラムTradewindsは、五分以内の製品動画をもとに、契約を目指す企業に特別な資格を与え、政府がそのAI製品を素早く購入できるようにしている。運営するのはDODの最高デジタル・人工知能局（CDAO）だ。"
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds Solutions Marketplaceに採用された製品は「post-competitive（競争済み）」とみなされ、契約までの期間を数カ月短縮できる。DOD当局者によると、Tradewindsを使って一週間足らずで契約に至った例が何度かある。OpenAI、Anthropic、Googleはいずれも参加企業として掲載されており、三社ともコメントを控えた。"
+              },
+              {
+                "t": "p",
+                "x": "今年、軍は「部隊の殺傷力を高める」AI技術や、いわゆるキルチェーン（kill chain）の実行を含む統合ターゲティングを支援するエージェントの提案を募っている。この資格があれば「その他の取引」協定（OTs）を使いやすくなる。法律上、国防総省は議会に通知せずに単一のOTに最大$500 millionを支出できる。"
+              },
+              {
+                "t": "p",
+                "x": "Joni Ernst上院議員は、OTAsの審査で疑わしいコストや監督の欠如といった危険信号が見つかったと述べる。公開記録によるとGoogle、Anthropic、OpenAIはいずれもCDAOとOTsを結んでいるが、各社はそれにTradewindsが使われたかどうかを確認しなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "五角大楼借短视频\n加速采购AI",
+          "body": "Tradewinds凭视频加速AI采购，OpenAI、Anthropic和Google在列。",
+          "mini_headline": "五角大楼加速AI采购",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "图片合成：Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "国防部一项鲜为人知的采购计划Tradewinds，根据不超过五分钟的产品视频，向潜在承包商授予特殊资格，使政府能更快采购其AI产品。该计划由DOD首席数字与人工智能办公室（CDAO）管理。"
+              },
+              {
+                "t": "p",
+                "x": "进入Tradewinds Solutions Marketplace的产品被视为“post-competitive”（已完成竞争），可将授标周期缩短数月。一名DOD官员表示，国防部已有数次借助Tradewinds在不到一周内完成授标。OpenAI、Anthropic和Google均列为参与方；三家公司均拒绝置评。"
+              },
+              {
+                "t": "p",
+                "x": "今年，军方正征集可帮助“提升部队杀伤力”的AI技术，以及协助联合目标打击（包括所谓“杀伤链”执行）的智能体方案。该资格让“其他交易”协议（OTs）更易使用；依据法律，五角大楼可在不通知国会的情况下，在单份OT上支出最多$500 million。"
+              },
+              {
+                "t": "p",
+                "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El Pentágono usa videos cortos\npara acelerar compras de AI",
+          "body": "Tradewinds agiliza las compras de AI del Pentágono con videos de cinco minutos; figuran OpenAI, Anthropic y Google.",
+          "mini_headline": "El Pentágono acelera compras de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+                "cap": "Fotoilustración: Jobanny Cabrera; Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Tradewinds, un programa de adquisiciones poco conocido del Departamento de Defensa, otorga estatus especiales a posibles contratistas que facilitan al gobierno comprar con rapidez sus productos de AI, a partir de videos de producto de no más de cinco minutos. Lo gestiona la Oficina Principal de Digital e Inteligencia Artificial (CDAO) del DOD."
+              },
+              {
+                "t": "p",
+                "x": "Los productos aceptados en el Tradewinds Solutions Marketplace se consideran “post-competitive” (poscompetitivos), lo que puede recortar meses de los plazos de adjudicación. Un funcionario del DOD afirma que el departamento ha adjudicado contratos con Tradewinds en menos de una semana en varias ocasiones. OpenAI, Anthropic y Google figuran como participantes; las tres declinaron hacer comentarios."
+              },
+              {
+                "t": "p",
+                "x": "Este año, el ejército busca propuestas de tecnología de AI que ayude a “aumentar la letalidad de la fuerza” y de agentes que asistan en la selección conjunta de objetivos, incluida la llamada ejecución de la cadena de muerte (kill chain). El estatus facilita el uso de acuerdos de “otras transacciones” (OTs); por ley, el Pentágono puede gastar hasta 500 millones de dólares en un solo OT sin notificar al Congreso."
+              },
+              {
+                "t": "p",
+                "x": "La senadora Joni Ernst afirma que las revisiones de los OTAs han encendido alarmas, como costos cuestionables y falta de supervisión. Los registros públicos muestran que Google, Anthropic y OpenAI tienen OTs con la CDAO, pero las empresas no confirmaron si se usó Tradewinds para ellos."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ko": {
-     "headline": "백악관 '초지능군'\n헌장 내용 공개",
-     "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
-     "mini_headline": "초지능군 헌장",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
-       },
-       {
-        "t": "p",
-        "x": "POLITICO가 입수한 헌장을 보면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 줬다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유를 위협할 때 기술 업계와 연방정부가 어떻게 대응할지 정하는 권한이다. 논의를 잘 아는 세 사람이 문서가 진본이라고 확인했다."
-       },
-       {
-        "t": "p",
-        "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾는다. AI 위험 보고서도 쓰는데, 시민의 자유와 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 영향을 중심으로 다룬다."
-       },
-       {
-        "t": "p",
-        "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일로, 수지 와일스 비서실장이 지시하면 늘릴 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "헌장은 생물보안과 상수도 위협도 짚었다. AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 일도 이 조직의 몫이다."
-       },
-       {
-        "t": "p",
-        "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
-       }
-      ]
-     }
+    {
+      "id": "politics-trump-superintelligence-science-summit",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "트럼프, AI-driven\n과학 정상회의 간다",
+      "body": "Axios에 따르면 행정부는 연방 연구비를 줄이며 산업계의 과학 투자를 기대한다.",
+      "mini_headline": "트럼프의 AI 과학 정상회의",
+      "tool": "Politics",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+            "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "Axios가 먼저 입수한 발표문을 보면, 트럼프 대통령은 목요일 정상회의에 참석한다. 과학자들에게 힘을 싣고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우겠다는 자리다."
+          },
+          {
+            "t": "p",
+            "x": "의미: 트럼프 행정부는 과학 연구개발 지원을 줄이면서 그 빈자리를 산업계가 채워 주길 기대한다."
+          },
+          {
+            "t": "p",
+            "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브, 학생과 교수진의 컴퓨팅 접근을 넓힐 조지아주 $1 billion 투자도 함께 공개한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 넣는다."
+          },
+          {
+            "t": "p",
+            "x": "자세히 보면: 이번 정상회의의 출발점은 백악관 OSTP 국장 Michael Kratsios가 7월에 낸 보고서다. 보고서는 R&D에서 산업계가 맡는 역할이 커지고 있다고 짚는다."
+          },
+          {
+            "t": "p",
+            "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당길 야심 찬 시한을 담아 Genesis Mission을 출범시켰다. 백악관은 7월 이 미션을 15개 이상 연방 기관으로 넓히겠다고 밝혔다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Trump to attend summit on\nAI-driven science",
+          "body": "The administration wants industry to step in on science research amid federal funding cuts, Axios reports.",
+          "mini_headline": "Trump's AI science summit",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "Photo illustration: Sarah Grillo/Axios. Photo: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios."
+              },
+              {
+                "t": "p",
+                "x": "Why it matters: The Trump administration is looking for industry to step in amid its cuts to government funding for science research and development."
+              },
+              {
+                "t": "p",
+                "x": "Driving the news: The White House is announcing more than $1 billion in industry commitments for the Genesis Mission from AMD, OpenAI, Anthropic and others. It is also announcing a compute hub of more than 14 institutions across 10 southeast states, and a $1 billion investment in Georgia for student and faculty compute access. The National Science Foundation and the Energy Department will invest more than $100 million in AI-driven science tools."
+              },
+              {
+                "t": "p",
+                "x": "Zoom in: The summit was inspired by a July report from White House OSTP Director Michael Kratsios, which highlights industry's increasing role in driving R&D."
+              },
+              {
+                "t": "p",
+                "x": "Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines to accelerate scientific discovery. In July, the White House said it would expand to more than 15 federal agencies."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "트럼프, AI-driven\n과학 정상회의 간다",
+          "body": "Axios에 따르면 행정부는 연방 연구비를 줄이며 산업계의 과학 투자를 기대한다.",
+          "mini_headline": "트럼프의 AI 과학 정상회의",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Axios가 먼저 입수한 발표문을 보면, 트럼프 대통령은 목요일 정상회의에 참석한다. 과학자들에게 힘을 싣고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우겠다는 자리다."
+              },
+              {
+                "t": "p",
+                "x": "의미: 트럼프 행정부는 과학 연구개발 지원을 줄이면서 그 빈자리를 산업계가 채워 주길 기대한다."
+              },
+              {
+                "t": "p",
+                "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브, 학생과 교수진의 컴퓨팅 접근을 넓힐 조지아주 $1 billion 투자도 함께 공개한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 넣는다."
+              },
+              {
+                "t": "p",
+                "x": "자세히 보면: 이번 정상회의의 출발점은 백악관 OSTP 국장 Michael Kratsios가 7월에 낸 보고서다. 보고서는 R&D에서 산업계가 맡는 역할이 커지고 있다고 짚는다."
+              },
+              {
+                "t": "p",
+                "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당길 야심 찬 시한을 담아 Genesis Mission을 출범시켰다. 백악관은 7월 이 미션을 15개 이상 연방 기관으로 넓히겠다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-driven科学\n会議にトランプ氏出席",
+          "body": "Axiosによると、政権は連邦研究費削減の中で産業界に科学研究の肩代わりを求めている。",
+          "mini_headline": "トランプ氏のAI科学サミット",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "写真イラスト：Sarah Grillo/Axios。写真：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Axiosが先行して入手した発表によると、トランプ大統領は木曜日、科学者を後押しし、米国（U.S.）を「超知能（super intelligence）」による飛躍的成果のリーダーに位置づけるためのサミットに出席する。"
+              },
+              {
+                "t": "p",
+                "x": "なぜ重要か：トランプ政権は科学の研究開発に対する政府資金を削減する中、産業界がその穴を埋めることを期待している。"
+              },
+              {
+                "t": "p",
+                "x": "ニュースの核心：ホワイトハウスは、AMD、OpenAI、AnthropicなどによるGenesis Missionへの$1 billion超の産業界からの拠出表明を発表する。また、南東部10州の14以上の機関をつなぐコンピューティング拠点と、学生・教員の計算資源利用に向けたジョージア州への$1 billionの投資も発表する。全米科学財団とエネルギー省はAI-drivenな科学ツールに$100 million以上を投じる。"
+              },
+              {
+                "t": "p",
+                "x": "詳しく見ると：サミットは、ホワイトハウスOSTPのMichael Kratsios局長による7月の報告書に着想を得たもので、同報告書はR&Dを主導する産業界の役割の高まりを強調している。"
+              },
+              {
+                "t": "p",
+                "x": "おさらい：トランプ氏は昨年11月、科学的発見を加速するための野心的な期限を設けたGenesis Missionを開始した。ホワイトハウスは7月、これを15以上の連邦機関に拡大すると表明した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "特朗普将出席\nAI-driven科学峰会",
+          "body": "据Axios报道，联邦科研经费削减之际，政府希望产业界接手科学研究。",
+          "mini_headline": "特朗普的AI科学峰会",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "图片合成：Sarah Grillo/Axios。照片：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "据Axios率先获得的公告，特朗普总统将于周四出席一场峰会，旨在为科学家赋能，并使美国（U.S.）成为“超级智能”（super intelligence）驱动的突破的引领者。"
+              },
+              {
+                "t": "p",
+                "x": "为何重要：特朗普政府在削减政府科研经费的同时，希望产业界出手填补。"
+              },
+              {
+                "t": "p",
+                "x": "新闻要点：白宫将宣布AMD、OpenAI、Anthropic等企业对Genesis Mission超过$1 billion的产业承诺。白宫还将宣布一个覆盖东南部10个州、14家以上机构的算力中心，以及在佐治亚州投入$1 billion，为师生提供算力。美国国家科学基金会和能源部将向AI-driven科学工具投入超过$100 million。"
+              },
+              {
+                "t": "p",
+                "x": "深入来看：此次峰会的灵感来自白宫OSTP主任Michael Kratsios 7月发布的一份报告，报告强调产业界在推动R&D方面的作用日益增强。"
+              },
+              {
+                "t": "p",
+                "x": "回顾：特朗普去年11月启动Genesis Mission，为加速科学发现设定了雄心勃勃的期限。白宫7月表示，将把该计划扩展至15个以上联邦机构。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Trump asistirá a una cumbre\nsobre ciencia AI-driven",
+          "body": "El gobierno quiere que la industria asuma la investigación científica ante los recortes federales, informa Axios.",
+          "mini_headline": "La cumbre de ciencia AI de Trump",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "Fotoilustración: Sarah Grillo/Axios. Foto: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "El presidente Trump asistirá el jueves a una cumbre destinada a empoderar a los científicos y a posicionar a U.S. (Estados Unidos) como líder en avances impulsados por la \"superinteligencia\", según un anuncio compartido primero con Axios."
+              },
+              {
+                "t": "p",
+                "x": "Por qué importa: el gobierno de Trump busca que la industria intervenga en medio de sus recortes a la financiación pública de la investigación y el desarrollo científicos."
+              },
+              {
+                "t": "p",
+                "x": "Lo que impulsa la noticia: la Casa Blanca anuncia más de $1 billion en compromisos de la industria para la Genesis Mission por parte de AMD, OpenAI, Anthropic y otros. También anuncia un centro de computación con más de 14 instituciones en 10 estados del sureste, y una inversión de $1 billion en Georgia para el acceso a computación de estudiantes y profesores. La National Science Foundation y el Departamento de Energía invertirán más de $100 million en herramientas científicas AI-driven."
+              },
+              {
+                "t": "p",
+                "x": "En detalle: la cumbre se inspiró en un informe de julio del director de la OSTP de la Casa Blanca, Michael Kratsios, que destaca el creciente papel de la industria en el impulso de la I+D (R&D)."
+              },
+              {
+                "t": "p",
+                "x": "Contexto rápido: Trump lanzó en noviembre pasado la Genesis Mission, que fija plazos ambiciosos para acelerar los descubrimientos científicos. En julio, la Casa Blanca dijo que se ampliaría a más de 15 agencias federales."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "트럼프, AI-driven\n과학 정상회의 간다",
+          "body": "Axios에 따르면 행정부는 연방 연구비 삭감 속 산업계의 과학 투자를 바란다.",
+          "mini_headline": "트럼프의 AI 과학 정상회의",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Axios가 먼저 입수한 발표에 따르면, 트럼프 대통령은 목요일 과학자들에게 힘을 실어주고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우기 위한 정상회의에 참석한다."
+              },
+              {
+                "t": "p",
+                "x": "의미: 트럼프 행정부는 과학 연구개발에 대한 정부 지원을 줄이는 가운데, 산업계가 그 자리를 채워주기를 기대하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브와, 학생·교수진의 컴퓨팅 접근을 위한 조지아주 $1 billion 투자도 함께 발표한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 투자한다."
+              },
+              {
+                "t": "p",
+                "x": "자세히 보면: 이번 정상회의는 백악관 OSTP 국장 Michael Kratsios의 7월 보고서에서 출발했다. 이 보고서는 R&D를 이끄는 산업계의 역할이 커지고 있다고 강조한다."
+              },
+              {
+                "t": "p",
+                "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당기기 위한 야심 찬 시한을 담은 Genesis Mission을 출범시켰다. 백악관은 7월 이를 15개 이상의 연방 기관으로 넓히겠다고 밝혔다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-driven科学\n会議にトランプ氏出席",
+          "body": "Axiosによると、政権は連邦研究費削減の中で産業界に科学研究の肩代わりを求めている。",
+          "mini_headline": "トランプ氏のAI科学サミット",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "写真イラスト：Sarah Grillo/Axios。写真：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Axiosが先行して入手した発表によると、トランプ大統領は木曜日、科学者を後押しし、米国（U.S.）を「超知能（super intelligence）」による飛躍的成果のリーダーに位置づけるためのサミットに出席する。"
+              },
+              {
+                "t": "p",
+                "x": "なぜ重要か：トランプ政権は科学の研究開発に対する政府資金を削減する中、産業界がその穴を埋めることを期待している。"
+              },
+              {
+                "t": "p",
+                "x": "ニュースの核心：ホワイトハウスは、AMD、OpenAI、AnthropicなどによるGenesis Missionへの$1 billion超の産業界からの拠出表明を発表する。また、南東部10州の14以上の機関をつなぐコンピューティング拠点と、学生・教員の計算資源利用に向けたジョージア州への$1 billionの投資も発表する。全米科学財団とエネルギー省はAI-drivenな科学ツールに$100 million以上を投じる。"
+              },
+              {
+                "t": "p",
+                "x": "詳しく見ると：サミットは、ホワイトハウスOSTPのMichael Kratsios局長による7月の報告書に着想を得たもので、同報告書はR&Dを主導する産業界の役割の高まりを強調している。"
+              },
+              {
+                "t": "p",
+                "x": "おさらい：トランプ氏は昨年11月、科学的発見を加速するための野心的な期限を設けたGenesis Missionを開始した。ホワイトハウスは7月、これを15以上の連邦機関に拡大すると表明した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "特朗普将出席\nAI-driven科学峰会",
+          "body": "据Axios报道，联邦科研经费削减之际，政府希望产业界接手科学研究。",
+          "mini_headline": "特朗普的AI科学峰会",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "图片合成：Sarah Grillo/Axios。照片：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "据Axios率先获得的公告，特朗普总统将于周四出席一场峰会，旨在为科学家赋能，并使美国（U.S.）成为“超级智能”（super intelligence）驱动的突破的引领者。"
+              },
+              {
+                "t": "p",
+                "x": "为何重要：特朗普政府在削减政府科研经费的同时，希望产业界出手填补。"
+              },
+              {
+                "t": "p",
+                "x": "新闻要点：白宫将宣布AMD、OpenAI、Anthropic等企业对Genesis Mission超过$1 billion的产业承诺。白宫还将宣布一个覆盖东南部10个州、14家以上机构的算力中心，以及在佐治亚州投入$1 billion，为师生提供算力。美国国家科学基金会和能源部将向AI-driven科学工具投入超过$100 million。"
+              },
+              {
+                "t": "p",
+                "x": "深入来看：此次峰会的灵感来自白宫OSTP主任Michael Kratsios 7月发布的一份报告，报告强调产业界在推动R&D方面的作用日益增强。"
+              },
+              {
+                "t": "p",
+                "x": "回顾：特朗普去年11月启动Genesis Mission，为加速科学发现设定了雄心勃勃的期限。白宫7月表示，将把该计划扩展至15个以上联邦机构。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Trump asistirá a una cumbre\nsobre ciencia AI-driven",
+          "body": "El gobierno quiere que la industria asuma la investigación científica ante los recortes federales, informa Axios.",
+          "mini_headline": "La cumbre de ciencia AI de Trump",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+                "cap": "Fotoilustración: Sarah Grillo/Axios. Foto: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "El presidente Trump asistirá el jueves a una cumbre destinada a empoderar a los científicos y a posicionar a U.S. (Estados Unidos) como líder en avances impulsados por la \"superinteligencia\", según un anuncio compartido primero con Axios."
+              },
+              {
+                "t": "p",
+                "x": "Por qué importa: el gobierno de Trump busca que la industria intervenga en medio de sus recortes a la financiación pública de la investigación y el desarrollo científicos."
+              },
+              {
+                "t": "p",
+                "x": "Lo que impulsa la noticia: la Casa Blanca anuncia más de $1 billion en compromisos de la industria para la Genesis Mission por parte de AMD, OpenAI, Anthropic y otros. También anuncia un centro de computación con más de 14 instituciones en 10 estados del sureste, y una inversión de $1 billion en Georgia para el acceso a computación de estudiantes y profesores. La National Science Foundation y el Departamento de Energía invertirán más de $100 million en herramientas científicas AI-driven."
+              },
+              {
+                "t": "p",
+                "x": "En detalle: la cumbre se inspiró en un informe de julio del director de la OSTP de la Casa Blanca, Michael Kratsios, que destaca el creciente papel de la industria en el impulso de la I+D (R&D)."
+              },
+              {
+                "t": "p",
+                "x": "Contexto rápido: Trump lanzó en noviembre pasado la Genesis Mission, que fija plazos ambiciosos para acelerar los descubrimientos científicos. En julio, la Casa Blanca dijo que se ampliaría a más de 15 agencias federales."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ja": {
-     "headline": "ホワイトハウス\n「超知能部隊」の憲章",
-     "body": "POLITICOが、AIの脅威に対する広い権限を持つホワイトハウス組織の憲章を公開した。",
-     "mini_headline": "超知能部隊の憲章",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
-       },
-       {
-        "t": "p",
-        "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
-       },
-       {
-        "t": "p",
-        "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
-       },
-       {
-        "t": "p",
-        "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
-       },
-       {
-        "t": "p",
-        "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
-       },
-       {
-        "t": "p",
-        "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
-       }
-      ]
-     }
+    {
+      "id": "politics-eu-ai-liability-altman-debate",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Altman이 다시 켠\nEU AI 책임법 논쟁",
+      "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
+      "mini_headline": "EU AI 책임법 논쟁 재개",
+      "tool": "Politics",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+            "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "EU 의회 의원들은 OpenAI의 Sam Altman이라는 뜻밖의 우군을 얻은 뒤, 인공지능 책임법을 되살리자고 거듭 요구하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "Altman은 Decoded by POLITICO 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 했다. EU는 지난해 규제 완화 흐름 속에서 AI 책임법 제안을 폐기했다. 당시 집행위원회는 정치적 지지를 충분히 얻기 어렵다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "의회에서 이 법안을 이끈 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리고 싶어 한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열 Brando Benifei는 철회를 “심각한 실수”라고 불렀다."
+          },
+          {
+            "t": "p",
+            "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”면서 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 했다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Altman revives EU debate\non AI liability rules",
+          "body": "The EU shelved its AI liability rules, but OpenAI CEO Sam Altman has revived the debate, Politico Europe reports.",
+          "mini_headline": "EU AI liability debate returns",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "Sam Altman speaks during the G20 Innovation Ministerial in North Carolina, on Sept. 2, 2026. | Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU parliamentarians are digging in on calls to revive an artificial intelligence liability law after receiving support from an unexpected ally: OpenAI’s Sam Altman."
+              },
+              {
+                "t": "p",
+                "x": "“There's gonna need to be a liability framework for companies,” Altman said in an interview with Decoded by POLITICO. The EU last year scrapped its proposed AI liability law amid a push to deregulate, with the Commission arguing it had little chance of securing sufficient political support."
+              },
+              {
+                "t": "p",
+                "x": "German conservative lawmaker Axel Voss, who led on the proposal in Parliament, wants it back on the agenda. “Now even the CEO of OpenAI admits: Without liability, there is no trust,” he said. Social democrat Brando Benifei called the withdrawal “a serious mistake.”"
+              },
+              {
+                "t": "p",
+                "x": "The Commission said it “continues monitoring” the AI Act and Product Liability Directive, adding: “At this stage, there is no plan to reintroduce a proposal on AI liability.” CEPS research director Artur Bogucki said the EU needs “a direct, targeted AI liability instrument, narrow and procedural at its core.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Altman이 다시 켠\nEU AI 책임법 논쟁",
+          "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
+          "mini_headline": "EU AI 책임법 논쟁 재개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU 의회 의원들은 OpenAI의 Sam Altman이라는 뜻밖의 우군을 얻은 뒤, 인공지능 책임법을 되살리자고 거듭 요구하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Altman은 Decoded by POLITICO 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 했다. EU는 지난해 규제 완화 흐름 속에서 AI 책임법 제안을 폐기했다. 당시 집행위원회는 정치적 지지를 충분히 얻기 어렵다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "의회에서 이 법안을 이끈 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리고 싶어 한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열 Brando Benifei는 철회를 “심각한 실수”라고 불렀다."
+              },
+              {
+                "t": "p",
+                "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”면서 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 했다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Altman氏、EUの\nAI責任法論議を再燃",
+          "body": "EUが棚上げしたAI責任規則の議論を、OpenAI CEOのAltman氏が再燃させた。",
+          "mini_headline": "EUのAI責任論議が再燃",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "2026年9月2日、ノースカロライナ州で開かれたG20イノベーション閣僚会合で発言するSam Altman氏。| Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU議会の議員らは、思わぬ味方であるOpenAIのSam Altman氏の支持を得て、人工知能責任法の復活を求める姿勢を強めている。"
+              },
+              {
+                "t": "p",
+                "x": "Altman氏はDecoded by POLITICOのインタビューで「企業向けの責任の枠組みが必要になるだろう」と述べた。EUは昨年、規制緩和の流れの中でAI責任法案を撤回しており、欧州委員会は十分な政治的支持を得られる見込みが薄いと説明していた。"
+              },
+              {
+                "t": "p",
+                "x": "議会で同法案を主導したドイツの保守派議員Axel Voss氏は、これを再び議題に載せたい考えだ。「今やOpenAIのCEOでさえ認めている。責任なくして信頼なしだ」と同氏は語った。社会民主主義系のBrando Benifei氏は撤回を「重大な誤り」と呼んだ。"
+              },
+              {
+                "t": "p",
+                "x": "欧州委員会はAI Actと製造物責任指令（Product Liability Directive）を「引き続き注視している」とし、「現段階でAI責任に関する提案を再提出する計画はない」と付け加えた。CEPSの研究ディレクターArtur Bogucki氏は、EUには「直接的で対象を絞った、核心において限定的かつ手続き的なAI責任の仕組み」が必要だと述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Altman重燃EU\nAI责任规则之争",
+          "body": "EU已搁置AI责任规则，但OpenAI CEO Sam Altman重燃了这场辩论。",
+          "mini_headline": "EU的AI责任之争重启",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "2026年9月2日，Sam Altman在北卡罗来纳州举行的G20创新部长级会议上发言。| Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU议会议员获得了一位意外盟友——OpenAI的Sam Altman——的支持，正坚持呼吁恢复一部人工智能责任法。"
+              },
+              {
+                "t": "p",
+                "x": "Altman在接受Decoded by POLITICO采访时说：“企业将需要一个责任框架。”去年，EU在放松监管的浪潮中撤回了拟议的AI责任法，欧盟委员会当时称该法几乎不可能获得足够的政治支持。"
+              },
+              {
+                "t": "p",
+                "x": "在议会牵头推动该提案的德国保守派议员Axel Voss希望将其重新提上议程。他说：“如今连OpenAI的CEO都承认：没有责任，就没有信任。”社会民主党人Brando Benifei称撤回该法是“一个严重错误”。"
+              },
+              {
+                "t": "p",
+                "x": "欧盟委员会表示，正在“持续监测”AI Act和《产品责任指令》（Product Liability Directive），并补充说：“现阶段没有重新提出AI责任提案的计划。”CEPS研究主任Artur Bogucki表示，EU需要“一项直接、有针对性的AI责任工具，其核心应当范围窄、以程序为主”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Altman reabre el debate en la EU\nsobre responsabilidad de la AI",
+          "body": "La EU archivó normas de responsabilidad de AI, pero Sam Altman, CEO de OpenAI, reabrió el debate, según Politico Europe.",
+          "mini_headline": "Vuelve el debate sobre responsabilidad de la AI en la EU",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "Sam Altman habla durante la Reunión Ministerial de Innovación del G20 en Carolina del Norte, el 2 de septiembre de 2026. | Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Los eurodiputados de la EU insisten en reclamar que se recupere una ley de responsabilidad de la inteligencia artificial tras recibir el apoyo de un aliado inesperado: Sam Altman, de OpenAI."
+              },
+              {
+                "t": "p",
+                "x": "“Va a hacer falta un marco de responsabilidad para las empresas”, dijo Altman en una entrevista con Decoded by POLITICO. La EU descartó el año pasado su propuesta de ley de responsabilidad de AI en plena ofensiva desreguladora, y la Comisión argumentó que tenía pocas posibilidades de obtener suficiente apoyo político."
+              },
+              {
+                "t": "p",
+                "x": "El eurodiputado conservador alemán Axel Voss, que lideró la propuesta en el Parlamento, quiere que vuelva a la agenda. “Ahora hasta el CEO de OpenAI lo admite: sin responsabilidad no hay confianza”, dijo. El socialdemócrata Brando Benifei calificó la retirada de “un grave error”."
+              },
+              {
+                "t": "p",
+                "x": "La Comisión dijo que “sigue supervisando” la AI Act y la Product Liability Directive, y añadió: “En esta fase, no hay ningún plan para volver a presentar una propuesta sobre responsabilidad de la AI”. El director de investigación del CEPS, Artur Bogucki, dijo que la EU necesita “un instrumento de responsabilidad de AI directo y específico, acotado y procedimental en esencia”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Altman, EU의\nAI 책임법 논쟁 재점화",
+          "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
+          "mini_headline": "EU AI 책임법 논쟁 재개",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU 의회 의원들이 뜻밖의 우군인 OpenAI의 Sam Altman에게서 지지를 얻은 뒤, 인공지능 책임법을 되살리자는 요구를 굽히지 않고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Altman은 Decoded by POLITICO와의 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 말했다. EU는 지난해 규제 완화 흐름 속에 AI 책임법 제안을 폐기했고, 당시 집행위원회는 충분한 정치적 지지를 얻을 가능성이 낮다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "의회에서 이 법안을 주도한 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리길 원한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열의 Brando Benifei는 철회를 “심각한 실수”라고 했다."
+              },
+              {
+                "t": "p",
+                "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”며 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 덧붙였다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Altman氏、EUの\nAI責任法論議を再燃",
+          "body": "EUが棚上げしたAI責任規則の議論を、OpenAI CEOのAltman氏が再燃させた。",
+          "mini_headline": "EUのAI責任論議が再燃",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "2026年9月2日、ノースカロライナ州で開かれたG20イノベーション閣僚会合で発言するSam Altman氏。| Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU議会の議員らは、思わぬ味方であるOpenAIのSam Altman氏の支持を得て、人工知能責任法の復活を求める姿勢を強めている。"
+              },
+              {
+                "t": "p",
+                "x": "Altman氏はDecoded by POLITICOのインタビューで「企業向けの責任の枠組みが必要になるだろう」と述べた。EUは昨年、規制緩和の流れの中でAI責任法案を撤回しており、欧州委員会は十分な政治的支持を得られる見込みが薄いと説明していた。"
+              },
+              {
+                "t": "p",
+                "x": "議会で同法案を主導したドイツの保守派議員Axel Voss氏は、これを再び議題に載せたい考えだ。「今やOpenAIのCEOでさえ認めている。責任なくして信頼なしだ」と同氏は語った。社会民主主義系のBrando Benifei氏は撤回を「重大な誤り」と呼んだ。"
+              },
+              {
+                "t": "p",
+                "x": "欧州委員会はAI Actと製造物責任指令（Product Liability Directive）を「引き続き注視している」とし、「現段階でAI責任に関する提案を再提出する計画はない」と付け加えた。CEPSの研究ディレクターArtur Bogucki氏は、EUには「直接的で対象を絞った、核心において限定的かつ手続き的なAI責任の仕組み」が必要だと述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Altman重燃EU\nAI责任规则之争",
+          "body": "EU已搁置AI责任规则，但OpenAI CEO Sam Altman重燃了这场辩论。",
+          "mini_headline": "EU的AI责任之争重启",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "2026年9月2日，Sam Altman在北卡罗来纳州举行的G20创新部长级会议上发言。| Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU议会议员获得了一位意外盟友——OpenAI的Sam Altman——的支持，正坚持呼吁恢复一部人工智能责任法。"
+              },
+              {
+                "t": "p",
+                "x": "Altman在接受Decoded by POLITICO采访时说：“企业将需要一个责任框架。”去年，EU在放松监管的浪潮中撤回了拟议的AI责任法，欧盟委员会当时称该法几乎不可能获得足够的政治支持。"
+              },
+              {
+                "t": "p",
+                "x": "在议会牵头推动该提案的德国保守派议员Axel Voss希望将其重新提上议程。他说：“如今连OpenAI的CEO都承认：没有责任，就没有信任。”社会民主党人Brando Benifei称撤回该法是“一个严重错误”。"
+              },
+              {
+                "t": "p",
+                "x": "欧盟委员会表示，正在“持续监测”AI Act和《产品责任指令》（Product Liability Directive），并补充说：“现阶段没有重新提出AI责任提案的计划。”CEPS研究主任Artur Bogucki表示，EU需要“一项直接、有针对性的AI责任工具，其核心应当范围窄、以程序为主”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Altman reabre el debate en la EU\nsobre responsabilidad de la AI",
+          "body": "La EU archivó normas de responsabilidad de AI, pero Sam Altman, CEO de OpenAI, reabrió el debate, según Politico Europe.",
+          "mini_headline": "Vuelve el debate sobre responsabilidad de la AI en la EU",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+                "cap": "Sam Altman habla durante la Reunión Ministerial de Innovación del G20 en Carolina del Norte, el 2 de septiembre de 2026. | Matt Ramey/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Los eurodiputados de la EU insisten en reclamar que se recupere una ley de responsabilidad de la inteligencia artificial tras recibir el apoyo de un aliado inesperado: Sam Altman, de OpenAI."
+              },
+              {
+                "t": "p",
+                "x": "“Va a hacer falta un marco de responsabilidad para las empresas”, dijo Altman en una entrevista con Decoded by POLITICO. La EU descartó el año pasado su propuesta de ley de responsabilidad de AI en plena ofensiva desreguladora, y la Comisión argumentó que tenía pocas posibilidades de obtener suficiente apoyo político."
+              },
+              {
+                "t": "p",
+                "x": "El eurodiputado conservador alemán Axel Voss, que lideró la propuesta en el Parlamento, quiere que vuelva a la agenda. “Ahora hasta el CEO de OpenAI lo admite: sin responsabilidad no hay confianza”, dijo. El socialdemócrata Brando Benifei calificó la retirada de “un grave error”."
+              },
+              {
+                "t": "p",
+                "x": "La Comisión dijo que “sigue supervisando” la AI Act y la Product Liability Directive, y añadió: “En esta fase, no hay ningún plan para volver a presentar una propuesta sobre responsabilidad de la AI”. El director de investigación del CEPS, Artur Bogucki, dijo que la EU necesita “un instrumento de responsabilidad de AI directo y específico, acotado y procedimental en esencia”."
+              }
+            ]
+          }
+        }
+      }
     },
-    "zh": {
-     "headline": "白宫“超级智能部队”\n章程内容公开",
-     "body": "POLITICO公布了白宫一个机构的章程，该机构拥有制定联邦AI威胁防御的广泛权力。",
-     "mini_headline": "超级智能部队章程",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "国家情报总监杰伊·克莱顿将领导该工作组。"
-       },
-       {
-        "t": "p",
-        "x": "根据POLITICO获得的一份章程，特朗普政府赋予新成立的“超级智能部队”（Super Intelligence Force）广泛权力，由其决定科技行业和联邦政府应如何应对快速演进的AI技术对国家安全和公民自由构成的威胁。三名知情人士证实了该文件的真实性。"
-       },
-       {
-        "t": "p",
-        "x": "该工作组将确定“提升政府和私营部门准备程度与应对能力的措施”，并撰写一份AI风险报告，重点关注公民自由、网络安全、先进模型标准以及可能的过度监管所带来的影响。"
-       },
-       {
-        "t": "p",
-        "x": "国家情报总监杰伊·克莱顿将以政府AI事务主管的身份领导该工作组，国防部副部长埃米尔·迈克尔、OPM主任斯科特·库波尔和FTC主席安德鲁·弗格森担任副主席。工作组存续120天，可根据白宫幕僚长苏西·怀尔斯的指示延长。"
-       },
-       {
-        "t": "p",
-        "x": "章程还点明了生物安全和供水方面的威胁，并要求该小组审查AI实验室向政府通报数据泄露、黑客攻击和越狱事件的规程。"
-       },
-       {
-        "t": "p",
-        "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
-       }
-      ]
-     }
+    {
+      "id": "politics-western-open-weight-models-vs-china",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "open-weight로\n중국 쫓는 서구 AI",
+      "body": "Reflection·Mistral의 open-weight 모델은 중국산 대안이다.",
+      "mini_headline": "open-weight 모델 vs 중국",
+      "tool": "Politics",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+            "cap": "일러스트: Aïda Amer/Axios"
+          },
+          {
+            "t": "p",
+            "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral이 내놓은 새 모델이 최근 중국이 쥐고 있던 우위를 좁히는 중이다. 기업과 정부로서는 OpenAI·Anthropic의 폐쇄형 생태계, 그리고 보안 때문에 피해 왔을 중국산 모델을 대신할 선택지가 생겼다."
+          },
+          {
+            "t": "p",
+            "x": "Reflection은 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. 활성 파라미터는 23 billion 개다. 회사는 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+          },
+          {
+            "t": "p",
+            "x": "Mistral은 'Le Chonk'라는 별칭이 붙은 Mistral Large 4를 마무리하는 중이다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델로 본다. 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "다만 가중치가 풀리면 사용자가 안전장치를 걷어내려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍게 넘길 문제가 아니다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Western open-weight models\nnarrow China's AI lead",
+          "body": "New open-weight systems from Reflection and Mistral give businesses and governments alternatives to Chinese models.",
+          "mini_headline": "Open-weight models vs China",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "Illustration: Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "A new crop of powerful, Western open-weight AI systems are mounting a comeback, with fresh models from Reflection and Mistral narrowing China's recent lead. They will give businesses and governments alternatives to the closed ecosystems of OpenAI and Anthropic, as well as to Chinese options they may have eschewed for security reasons."
+              },
+              {
+                "t": "p",
+                "x": "Reflection introduced Beam, a 501-billion-parameter mixture-of-experts model with 23 billion active parameters. Reflection says it is competitive with China's GLM-5.2; its own benchmarks show a mixed picture. Weights are due later this month."
+              },
+              {
+                "t": "p",
+                "x": "Mistral is finishing Mistral Large 4, aka \"Le Chonk,\" a 1-trillion-parameter multimodal model it believes is the world's best open-weight model, with weights planned for Oct. 27. \"I don't want to live in the future in which any oligopoly controls closed access to this type of intelligence,\" Mistral's Pierre Stock said."
+              },
+              {
+                "t": "p",
+                "x": "Yes, but: once weights are public, users can try to remove safeguards — significant as models grow more capable at cybersecurity. Both companies argue openness can also improve safety."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "open-weight로\n중국 쫓는 서구 AI",
+          "body": "Reflection·Mistral의 open-weight 모델은 중국산 대안이다.",
+          "mini_headline": "open-weight 모델 vs 중국",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "일러스트: Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral이 내놓은 새 모델이 최근 중국이 쥐고 있던 우위를 좁히는 중이다. 기업과 정부로서는 OpenAI·Anthropic의 폐쇄형 생태계, 그리고 보안 때문에 피해 왔을 중국산 모델을 대신할 선택지가 생겼다."
+              },
+              {
+                "t": "p",
+                "x": "Reflection은 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. 활성 파라미터는 23 billion 개다. 회사는 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "Mistral은 'Le Chonk'라는 별칭이 붙은 Mistral Large 4를 마무리하는 중이다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델로 본다. 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "다만 가중치가 풀리면 사용자가 안전장치를 걷어내려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍게 넘길 문제가 아니다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "西側のopen-weight\nモデル、中国のAI優位に迫る",
+          "body": "ReflectionとMistralのopen-weightモデルは中国製の代替になる。",
+          "mini_headline": "open-weightモデル対中国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "イラスト：Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "強力な西側のopen-weight AIシステムが巻き返しを図っており、ReflectionとMistralの新モデルが中国の最近のリードを縮めている。これらは企業や政府にとって、OpenAIやAnthropicの閉じたエコシステムに加え、セキュリティ上の理由で避けてきたかもしれない中国製の選択肢に代わるものとなる。"
+              },
+              {
+                "t": "p",
+                "x": "ReflectionはBeamを発表した。アクティブパラメータ23 billion の501-billion-parameter mixture-of-experts モデルだ。Reflectionは中国のGLM-5.2に匹敵するとしているが、自社のベンチマーク結果はまちまちだ。重みは今月下旬に公開される予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mistralは「Le Chonk」の愛称を持つMistral Large 4の仕上げに入っている。1-trillion-parameter のマルチモーダルモデルで、同社は世界最高のopen-weightモデルだと考えており、重みは10月27日に公開予定だ。「いかなる寡占もこの種の知能へのアクセスを閉鎖的に支配する、そんな未来には生きたくない」とMistralのPierre Stock氏は語った。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、重みが公開されると、利用者が安全対策を外そうとする可能性がある。モデルのサイバーセキュリティ能力が高まるにつれ、これは重大な問題になる。両社は、オープン性が安全性の向上にもつながり得ると主張する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "西方open-weight\n模型缩小中国AI领先优势",
+          "body": "Reflection与Mistral的新open-weight模型成为中国模型的替代选项。",
+          "mini_headline": "open-weight模型对阵中国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "插图：Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "一批强大的西方open-weight AI系统正在卷土重来，Reflection和Mistral的新模型正在缩小中国近来的领先优势。它们将为企业和政府提供替代选择，既可替代OpenAI和Anthropic的封闭生态，也可替代出于安全考虑可能被回避的中国模型。"
+              },
+              {
+                "t": "p",
+                "x": "Reflection推出了Beam，这是一款501-billion-parameter 的mixture-of-experts 模型，激活参数为23 billion 个。Reflection称其可与中国的GLM-5.2竞争，但其自家基准测试结果好坏参半。权重将于本月晚些时候发布。"
+              },
+              {
+                "t": "p",
+                "x": "Mistral正在完成Mistral Large 4（昵称“Le Chonk”），这是一款1-trillion-parameter 多模态模型，公司认为它是全球最好的open-weight模型，计划于10月27日发布权重。Mistral的Pierre Stock说：“我不想生活在由任何寡头垄断以封闭方式控制此类智能获取的未来。”"
+              },
+              {
+                "t": "p",
+                "x": "不过：一旦权重公开，用户就可能尝试移除安全防护——随着模型网络安全能力增强，这一点尤为重要。两家公司都认为，开放同样可以提升安全性。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Modelos open-weight occidentales\nrecortan la ventaja china en AI",
+          "body": "Los nuevos sistemas open-weight de Reflection y Mistral dan a empresas y gobiernos alternativas a los modelos chinos.",
+          "mini_headline": "Modelos open-weight frente a China",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "Ilustración: Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "Una nueva hornada de potentes sistemas de AI open-weight occidentales está protagonizando un regreso, con nuevos modelos de Reflection y Mistral que reducen la reciente ventaja de China. Darán a empresas y gobiernos alternativas a los ecosistemas cerrados de OpenAI y Anthropic, así como a las opciones chinas que quizá hayan evitado por motivos de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Reflection presentó Beam, un modelo 501-billion-parameter de tipo mixture-of-experts con 23 billion de parámetros activos. Reflection afirma que compite con el GLM-5.2 de China; sus propias pruebas de rendimiento muestran un panorama desigual. Los pesos se publicarán a finales de este mes."
+              },
+              {
+                "t": "p",
+                "x": "Mistral está terminando Mistral Large 4, alias \"Le Chonk\", un modelo multimodal 1-trillion-parameter que considera el mejor modelo open-weight del mundo, con la publicación de los pesos prevista para el 27 de octubre. \"No quiero vivir en un futuro en el que cualquier oligopolio controle el acceso cerrado a este tipo de inteligencia\", dijo Pierre Stock, de Mistral."
+              },
+              {
+                "t": "p",
+                "x": "Sí, pero: una vez que los pesos son públicos, los usuarios pueden intentar eliminar las salvaguardas, algo relevante a medida que los modelos ganan capacidad en ciberseguridad. Ambas empresas sostienen que la apertura también puede mejorar la seguridad."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "서구 open-weight\n모델, 중국 AI 추격",
+          "body": "Reflection·Mistral의 open-weight 모델은 중국산의 대안이다.",
+          "mini_headline": "open-weight 모델 vs 중국",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "일러스트: Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral의 새 모델이 최근 중국이 쥔 우위를 좁히고 있다. 이들 모델은 기업과 정부에 OpenAI·Anthropic의 폐쇄형 생태계는 물론, 보안상 이유로 피해 왔을 중국산 모델의 대안이 된다."
+              },
+              {
+                "t": "p",
+                "x": "Reflection은 활성 파라미터 23 billion 개를 갖춘 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. Reflection은 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+              },
+              {
+                "t": "p",
+                "x": "Mistral은 'Le Chonk'라는 별칭의 Mistral Large 4를 마무리하고 있다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델이라고 보고 있으며 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "다만 가중치가 공개되면 사용자가 안전장치를 없애려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍지 않은 문제다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "西側のopen-weight\nモデル、中国のAI優位に迫る",
+          "body": "ReflectionとMistralのopen-weightモデルは中国製の代替になる。",
+          "mini_headline": "open-weightモデル対中国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "イラスト：Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "強力な西側のopen-weight AIシステムが巻き返しを図っており、ReflectionとMistralの新モデルが中国の最近のリードを縮めている。これらは企業や政府にとって、OpenAIやAnthropicの閉じたエコシステムに加え、セキュリティ上の理由で避けてきたかもしれない中国製の選択肢に代わるものとなる。"
+              },
+              {
+                "t": "p",
+                "x": "ReflectionはBeamを発表した。アクティブパラメータ23 billion の501-billion-parameter mixture-of-experts モデルだ。Reflectionは中国のGLM-5.2に匹敵するとしているが、自社のベンチマーク結果はまちまちだ。重みは今月下旬に公開される予定だ。"
+              },
+              {
+                "t": "p",
+                "x": "Mistralは「Le Chonk」の愛称を持つMistral Large 4の仕上げに入っている。1-trillion-parameter のマルチモーダルモデルで、同社は世界最高のopen-weightモデルだと考えており、重みは10月27日に公開予定だ。「いかなる寡占もこの種の知能へのアクセスを閉鎖的に支配する、そんな未来には生きたくない」とMistralのPierre Stock氏は語った。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、重みが公開されると、利用者が安全対策を外そうとする可能性がある。モデルのサイバーセキュリティ能力が高まるにつれ、これは重大な問題になる。両社は、オープン性が安全性の向上にもつながり得ると主張する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "西方open-weight\n模型缩小中国AI领先优势",
+          "body": "Reflection与Mistral的新open-weight模型成为中国模型的替代选项。",
+          "mini_headline": "open-weight模型对阵中国",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "插图：Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "一批强大的西方open-weight AI系统正在卷土重来，Reflection和Mistral的新模型正在缩小中国近来的领先优势。它们将为企业和政府提供替代选择，既可替代OpenAI和Anthropic的封闭生态，也可替代出于安全考虑可能被回避的中国模型。"
+              },
+              {
+                "t": "p",
+                "x": "Reflection推出了Beam，这是一款501-billion-parameter 的mixture-of-experts 模型，激活参数为23 billion 个。Reflection称其可与中国的GLM-5.2竞争，但其自家基准测试结果好坏参半。权重将于本月晚些时候发布。"
+              },
+              {
+                "t": "p",
+                "x": "Mistral正在完成Mistral Large 4（昵称“Le Chonk”），这是一款1-trillion-parameter 多模态模型，公司认为它是全球最好的open-weight模型，计划于10月27日发布权重。Mistral的Pierre Stock说：“我不想生活在由任何寡头垄断以封闭方式控制此类智能获取的未来。”"
+              },
+              {
+                "t": "p",
+                "x": "不过：一旦权重公开，用户就可能尝试移除安全防护——随着模型网络安全能力增强，这一点尤为重要。两家公司都认为，开放同样可以提升安全性。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Modelos open-weight occidentales\nrecortan la ventaja china en AI",
+          "body": "Los nuevos sistemas open-weight de Reflection y Mistral dan a empresas y gobiernos alternativas a los modelos chinos.",
+          "mini_headline": "Modelos open-weight frente a China",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+                "cap": "Ilustración: Aïda Amer/Axios"
+              },
+              {
+                "t": "p",
+                "x": "Una nueva hornada de potentes sistemas de AI open-weight occidentales está protagonizando un regreso, con nuevos modelos de Reflection y Mistral que reducen la reciente ventaja de China. Darán a empresas y gobiernos alternativas a los ecosistemas cerrados de OpenAI y Anthropic, así como a las opciones chinas que quizá hayan evitado por motivos de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Reflection presentó Beam, un modelo 501-billion-parameter de tipo mixture-of-experts con 23 billion de parámetros activos. Reflection afirma que compite con el GLM-5.2 de China; sus propias pruebas de rendimiento muestran un panorama desigual. Los pesos se publicarán a finales de este mes."
+              },
+              {
+                "t": "p",
+                "x": "Mistral está terminando Mistral Large 4, alias \"Le Chonk\", un modelo multimodal 1-trillion-parameter que considera el mejor modelo open-weight del mundo, con la publicación de los pesos prevista para el 27 de octubre. \"No quiero vivir en un futuro en el que cualquier oligopolio controle el acceso cerrado a este tipo de inteligencia\", dijo Pierre Stock, de Mistral."
+              },
+              {
+                "t": "p",
+                "x": "Sí, pero: una vez que los pesos son públicos, los usuarios pueden intentar eliminar las salvaguardas, algo relevante a medida que los modelos ganan capacidad en ciberseguridad. Ambas empresas sostienen que la apertura también puede mejorar la seguridad."
+              }
+            ]
+          }
+        }
+      }
     },
-    "es": {
-     "headline": "Carta de la Super Intelligence\nForce de la Casa Blanca",
-     "body": "POLITICO publicó la carta de un órgano de la Casa Blanca con amplio poder para fijar defensas federales ante la IA.",
-     "mini_headline": "Carta de la Super Intelligence Force",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "El director de Inteligencia Nacional, Jay Clayton, dirigirá el grupo de trabajo."
-       },
-       {
-        "t": "p",
-        "x": "El Gobierno de Trump ha otorgado a su recién creada “Super Intelligence Force” amplias facultades para determinar cómo la industria tecnológica y el Gobierno federal deben afrontar las amenazas a la seguridad nacional y a las libertades civiles que plantea la tecnología de IA, en rápida evolución, según una carta obtenida por POLITICO. Tres personas al tanto de las conversaciones confirmaron la autenticidad del documento."
-       },
-       {
-        "t": "p",
-        "x": "El grupo de trabajo identificará “medidas para mejorar la preparación y la capacidad de respuesta tanto del gobierno como del sector privado” y elaborará un informe sobre los riesgos de la IA centrado en las libertades civiles, la ciberseguridad, los estándares para modelos avanzados y los efectos de una posible sobrerregulación."
-       },
-       {
-        "t": "p",
-        "x": "Lo dirigirá el director de Inteligencia Nacional, Jay Clayton, como zar de la IA del Gobierno, con el subsecretario de Defensa Emil Michael, el director de la OPM Scott Kupor y el presidente de la FTC Andrew Ferguson como vicepresidentes. Funcionará durante 120 días, prorrogables por indicación de la jefa de gabinete, Susie Wiles."
-       },
-       {
-        "t": "p",
-        "x": "La carta también señala las amenazas a la bioseguridad y al suministro de agua, y encarga al grupo revisar los protocolos con los que los laboratorios de IA notifican al gobierno filtraciones, hackeos y jailbreaks."
-       },
-       {
-        "t": "p",
-        "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
-       }
-      ]
-     }
+    {
+      "id": "politics-europol-ai-policing-privacy",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Europol AI 치안\n계획에 사생활 우려",
+      "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자, 사생활 운동가와 맞선다.",
+      "mini_headline": "Europol의 AI 계획과 사생활",
+      "tool": "Politics",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+            "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+          },
+          {
+            "t": "p",
+            "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대규모 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 나온 이 계획대로라면 Europol 예산은 두 배인 €3 billion으로 늘고, Europol은 더 많은 데이터와 첨단 기술을 손에 쥐고 새 위협에 직접 대응하게 된다."
+          },
+          {
+            "t": "p",
+            "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”한다면서도 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로면 기관이 범죄와 무관한 “방대한” 수의 사람 데이터를 보관할 수 있다고 경고해 왔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+            "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+          },
+          {
+            "t": "p",
+            "x": "Europol 수장으로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그러면서도 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Europol's AI policing plan\nraises privacy concerns",
+          "body": "As it plans for AI-powered policing, the EU police agency must contend with both cybercriminals and privacy activists.",
+          "mini_headline": "Europol AI plan and privacy",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "The outside of EU police agency Europol's headquarters is seen in The Hague on Nov. 24, 2015. | Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Senior EU officials warn that a sweeping new plan to arm the bloc's police agency, Europol, for the AI era could threaten Europeans' privacy. The plans, announced this summer, would double its budget to €3 billion and give Europol a hands-on role in fighting new threats, with access to more data and advanced technology."
+              },
+              {
+                "t": "p",
+                "x": "European Data Protection Supervisor Wojciech Wiewiórowski said he is “absolutely in favor” of empowering Europol with AI tools, but there “has to be oversight.” He has cautioned the proposal would let the agency retain data on a “vast” number of people with no links to criminal activity."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "Europol Deputy Director Jurgen Ebner, who was last month named to take the agency helm, speaks at a press conference in Brussels on June 26, 2026. | Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "“AI makes criminal activities faster, more sophisticated and easier to carry out at scale,” said Jürgen Ebner, selected to lead Europol. He also said Europol shouldn't cross a line where “collecting data becomes an objective in itself.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Europol AI 치안\n계획에 사생활 우려",
+          "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자, 사생활 운동가와 맞선다.",
+          "mini_headline": "Europol의 AI 계획과 사생활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대규모 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 나온 이 계획대로라면 Europol 예산은 두 배인 €3 billion으로 늘고, Europol은 더 많은 데이터와 첨단 기술을 손에 쥐고 새 위협에 직접 대응하게 된다."
+              },
+              {
+                "t": "p",
+                "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”한다면서도 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로면 기관이 범죄와 무관한 “방대한” 수의 사람 데이터를 보관할 수 있다고 경고해 왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "Europol 수장으로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그러면서도 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "EuropolのAI警察計画\nプライバシー懸念を招く",
+          "body": "AI-powered警察を目指すEU機関は、サイバー犯罪者とプライバシー活動家に挟まれる。",
+          "mini_headline": "EuropolのAI計画とプライバシー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015年11月24日、ハーグにあるEUの警察機関Europolの本部外観。| Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EUの高官らは、域内の警察機関EuropolをAI時代に向けて強化する大規模な新計画が、欧州市民のプライバシーを脅かしかねないと警告している。今夏発表された計画は、予算を倍増の€3 billionとし、より多くのデータと先端技術へのアクセスを与えて、新たな脅威への対処にEuropolが直接関わるようにするものだ。"
+              },
+              {
+                "t": "p",
+                "x": "欧州データ保護監察官のWojciech Wiewiórowski氏は、EuropolにAIツールを持たせることには「全面的に賛成」だが、「監督がなければならない」と述べた。同氏は、この提案によって同機関が犯罪と無関係の「膨大な」数の人々のデータを保持できるようになると警告してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "先月、同機関のトップに指名されたEuropolのJurgen Ebner副長官。2026年6月26日、ブリュッセルでの記者会見で。| Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "「AIは犯罪活動をより速く、より巧妙に、そして大規模に実行しやすくする」と、Europolを率いることになったJürgen Ebner氏は語った。同氏はまた、Europolは「データ収集それ自体が目的になる」一線を越えるべきではないとも述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Europol AI警务计划\n引发隐私担忧",
+          "body": "EU警察机构筹备AI-powered警务，需同时应对网络犯罪分子与隐私活动人士。",
+          "mini_headline": "Europol的AI计划与隐私",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015年11月24日，位于海牙的EU警察机构Europol总部外景。| Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU高级官员警告，一项为AI时代武装欧盟警察机构Europol的大规模新计划，可能威胁欧洲人的隐私。该计划于今年夏天公布，将把Europol预算翻倍至€3 billion，并让其获取更多数据和先进技术，直接参与应对新威胁。"
+              },
+              {
+                "t": "p",
+                "x": "欧洲数据保护监督官Wojciech Wiewiórowski表示，他“完全赞成”为Europol配备AI工具，但“必须有监督”。他曾警告，该提案将使该机构得以保留“大量”与犯罪活动无关人员的数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "上月被任命执掌该机构的Europol副局长Jurgen Ebner于2026年6月26日在布鲁塞尔的新闻发布会上发言。| Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "被选定领导Europol的Jürgen Ebner说：“AI让犯罪活动更快、更复杂，也更容易大规模实施。”他还表示，Europol不应越过“收集数据本身成为目的”的界线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El plan de policía con AI de\nEuropol inquieta por privacidad",
+          "body": "Al planear una policía AI-powered, la agencia de la EU debe lidiar con ciberdelincuentes y activistas de privacidad.",
+          "mini_headline": "El plan de AI de Europol y la privacidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "Exterior de la sede de Europol, la agencia policial de la EU, en La Haya el 24 de noviembre de 2015. | Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Altos cargos de la EU advierten de que un amplio plan nuevo para armar a la agencia policial del bloque, Europol, para la era de la AI podría amenazar la privacidad de los europeos. Los planes, anunciados este verano, duplicarían su presupuesto hasta €3 billion y darían a Europol un papel directo en la lucha contra nuevas amenazas, con acceso a más datos y tecnología avanzada."
+              },
+              {
+                "t": "p",
+                "x": "El Supervisor Europeo de Protección de Datos, Wojciech Wiewiórowski, dijo estar “absolutamente a favor” de dotar a Europol de herramientas de AI, pero que “tiene que haber supervisión”. Ha advertido que la propuesta permitiría a la agencia conservar datos de un número “enorme” de personas sin vínculos con actividades delictivas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "El subdirector de Europol, Jurgen Ebner, designado el mes pasado para dirigir la agencia, habla en una rueda de prensa en Bruselas el 26 de junio de 2026. | Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "“La AI hace que las actividades delictivas sean más rápidas, más sofisticadas y más fáciles de llevar a cabo a gran escala”, dijo Jürgen Ebner, elegido para dirigir Europol. También dijo que Europol no debería cruzar la línea en la que “recopilar datos se convierte en un objetivo en sí mismo”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Europol AI 치안\n계획에 사생활 우려",
+          "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자와 사생활 운동가에 맞선다.",
+          "mini_headline": "Europol의 AI 계획과 사생활",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대대적인 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 발표된 이 계획은 Europol 예산을 두 배인 €3 billion으로 늘리고, 더 많은 데이터와 첨단 기술에 접근하게 해 새로운 위협 대응에 직접 나서도록 한다."
+              },
+              {
+                "t": "p",
+                "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”하지만 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로라면 기관이 범죄와 무관한 “방대한” 수의 사람에 대한 데이터를 보관할 수 있다고 경고해 왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "Europol을 이끌 인물로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그는 또 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "EuropolのAI警察計画\nプライバシー懸念を招く",
+          "body": "AI-powered警察を目指すEU機関は、サイバー犯罪者とプライバシー活動家に挟まれる。",
+          "mini_headline": "EuropolのAI計画とプライバシー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015年11月24日、ハーグにあるEUの警察機関Europolの本部外観。| Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EUの高官らは、域内の警察機関EuropolをAI時代に向けて強化する大規模な新計画が、欧州市民のプライバシーを脅かしかねないと警告している。今夏発表された計画は、予算を倍増の€3 billionとし、より多くのデータと先端技術へのアクセスを与えて、新たな脅威への対処にEuropolが直接関わるようにするものだ。"
+              },
+              {
+                "t": "p",
+                "x": "欧州データ保護監察官のWojciech Wiewiórowski氏は、EuropolにAIツールを持たせることには「全面的に賛成」だが、「監督がなければならない」と述べた。同氏は、この提案によって同機関が犯罪と無関係の「膨大な」数の人々のデータを保持できるようになると警告してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "先月、同機関のトップに指名されたEuropolのJurgen Ebner副長官。2026年6月26日、ブリュッセルでの記者会見で。| Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "「AIは犯罪活動をより速く、より巧妙に、そして大規模に実行しやすくする」と、Europolを率いることになったJürgen Ebner氏は語った。同氏はまた、Europolは「データ収集それ自体が目的になる」一線を越えるべきではないとも述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Europol AI警务计划\n引发隐私担忧",
+          "body": "EU警察机构筹备AI-powered警务，需同时应对网络犯罪分子与隐私活动人士。",
+          "mini_headline": "Europol的AI计划与隐私",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "2015年11月24日，位于海牙的EU警察机构Europol总部外景。| Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "EU高级官员警告，一项为AI时代武装欧盟警察机构Europol的大规模新计划，可能威胁欧洲人的隐私。该计划于今年夏天公布，将把Europol预算翻倍至€3 billion，并让其获取更多数据和先进技术，直接参与应对新威胁。"
+              },
+              {
+                "t": "p",
+                "x": "欧洲数据保护监督官Wojciech Wiewiórowski表示，他“完全赞成”为Europol配备AI工具，但“必须有监督”。他曾警告，该提案将使该机构得以保留“大量”与犯罪活动无关人员的数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "上月被任命执掌该机构的Europol副局长Jurgen Ebner于2026年6月26日在布鲁塞尔的新闻发布会上发言。| Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "被选定领导Europol的Jürgen Ebner说：“AI让犯罪活动更快、更复杂，也更容易大规模实施。”他还表示，Europol不应越过“收集数据本身成为目的”的界线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El plan de policía con AI de\nEuropol inquieta por privacidad",
+          "body": "Al planear una policía AI-powered, la agencia de la EU debe lidiar con ciberdelincuentes y activistas de privacidad.",
+          "mini_headline": "El plan de AI de Europol y la privacidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+                "cap": "Exterior de la sede de Europol, la agencia policial de la EU, en La Haya el 24 de noviembre de 2015. | Remko de Waal/ANP/AFP via Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "Altos cargos de la EU advierten de que un amplio plan nuevo para armar a la agencia policial del bloque, Europol, para la era de la AI podría amenazar la privacidad de los europeos. Los planes, anunciados este verano, duplicarían su presupuesto hasta €3 billion y darían a Europol un papel directo en la lucha contra nuevas amenazas, con acceso a más datos y tecnología avanzada."
+              },
+              {
+                "t": "p",
+                "x": "El Supervisor Europeo de Protección de Datos, Wojciech Wiewiórowski, dijo estar “absolutamente a favor” de dotar a Europol de herramientas de AI, pero que “tiene que haber supervisión”. Ha advertido que la propuesta permitiría a la agencia conservar datos de un número “enorme” de personas sin vínculos con actividades delictivas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+                "cap": "El subdirector de Europol, Jurgen Ebner, designado el mes pasado para dirigir la agencia, habla en una rueda de prensa en Bruselas el 26 de junio de 2026. | Olivier Hoslet/EPA"
+              },
+              {
+                "t": "p",
+                "x": "“La AI hace que las actividades delictivas sean más rápidas, más sofisticadas y más fáciles de llevar a cabo a gran escala”, dijo Jürgen Ebner, elegido para dirigir Europol. También dijo que Europol no debería cruzar la línea en la que “recopilar datos se convierte en un objetivo en sí mismo”."
+              }
+            ]
+          }
+        }
+      }
     }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "백악관 '초지능군'\n헌장 내용 공개",
-     "body": "POLITICO가 AI 위협 대응에 큰 권한을 쥔 백악관 기구 헌장을 공개했다.",
-     "mini_headline": "초지능군 헌장",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
-       },
-       {
-        "t": "p",
-        "x": "POLITICO가 입수한 헌장에 따르면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 부여했다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유에 가하는 위협에 기술 업계와 연방정부가 어떻게 대응해야 할지 정하는 권한이다. 논의 내용을 잘 아는 세 사람이 문서가 진본임을 확인했다."
-       },
-       {
-        "t": "p",
-        "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾고, 시민의 자유, 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 수 있는 영향을 중심으로 AI 위험 보고서를 작성한다."
-       },
-       {
-        "t": "p",
-        "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일이며, 수지 와일스 비서실장의 지시에 따라 연장할 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "헌장은 생물보안과 상수도 위협도 짚었고, AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 임무도 이 조직에 맡겼다."
-       },
-       {
-        "t": "p",
-        "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ホワイトハウス\n「超知能部隊」の憲章",
-     "body": "POLITICOが、AIの脅威に対する広い権限を持つホワイトハウス組織の憲章を公開した。",
-     "mini_headline": "超知能部隊の憲章",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
-       },
-       {
-        "t": "p",
-        "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
-       },
-       {
-        "t": "p",
-        "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
-       },
-       {
-        "t": "p",
-        "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
-       },
-       {
-        "t": "p",
-        "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
-       },
-       {
-        "t": "p",
-        "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "白宫“超级智能部队”\n章程内容公开",
-     "body": "POLITICO公布了白宫一个机构的章程，该机构拥有制定联邦AI威胁防御的广泛权力。",
-     "mini_headline": "超级智能部队章程",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "国家情报总监杰伊·克莱顿将领导该工作组。"
-       },
-       {
-        "t": "p",
-        "x": "根据POLITICO获得的一份章程，特朗普政府赋予新成立的“超级智能部队”（Super Intelligence Force）广泛权力，由其决定科技行业和联邦政府应如何应对快速演进的AI技术对国家安全和公民自由构成的威胁。三名知情人士证实了该文件的真实性。"
-       },
-       {
-        "t": "p",
-        "x": "该工作组将确定“提升政府和私营部门准备程度与应对能力的措施”，并撰写一份AI风险报告，重点关注公民自由、网络安全、先进模型标准以及可能的过度监管所带来的影响。"
-       },
-       {
-        "t": "p",
-        "x": "国家情报总监杰伊·克莱顿将以政府AI事务主管的身份领导该工作组，国防部副部长埃米尔·迈克尔、OPM主任斯科特·库波尔和FTC主席安德鲁·弗格森担任副主席。工作组存续120天，可根据白宫幕僚长苏西·怀尔斯的指示延长。"
-       },
-       {
-        "t": "p",
-        "x": "章程还点明了生物安全和供水方面的威胁，并要求该小组审查AI实验室向政府通报数据泄露、黑客攻击和越狱事件的规程。"
-       },
-       {
-        "t": "p",
-        "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Carta de la Super Intelligence\nForce de la Casa Blanca",
-     "body": "POLITICO publicó la carta de un órgano de la Casa Blanca con amplio poder para fijar defensas federales ante la IA.",
-     "mini_headline": "Carta de la Super Intelligence Force",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-        "cap": "El director de Inteligencia Nacional, Jay Clayton, dirigirá el grupo de trabajo."
-       },
-       {
-        "t": "p",
-        "x": "El Gobierno de Trump ha otorgado a su recién creada “Super Intelligence Force” amplias facultades para determinar cómo la industria tecnológica y el Gobierno federal deben afrontar las amenazas a la seguridad nacional y a las libertades civiles que plantea la tecnología de IA, en rápida evolución, según una carta obtenida por POLITICO. Tres personas al tanto de las conversaciones confirmaron la autenticidad del documento."
-       },
-       {
-        "t": "p",
-        "x": "El grupo de trabajo identificará “medidas para mejorar la preparación y la capacidad de respuesta tanto del gobierno como del sector privado” y elaborará un informe sobre los riesgos de la IA centrado en las libertades civiles, la ciberseguridad, los estándares para modelos avanzados y los efectos de una posible sobrerregulación."
-       },
-       {
-        "t": "p",
-        "x": "Lo dirigirá el director de Inteligencia Nacional, Jay Clayton, como zar de la IA del Gobierno, con el subsecretario de Defensa Emil Michael, el director de la OPM Scott Kupor y el presidente de la FTC Andrew Ferguson como vicepresidentes. Funcionará durante 120 días, prorrogables por indicación de la jefa de gabinete, Susie Wiles."
-       },
-       {
-        "t": "p",
-        "x": "La carta también señala las amenazas a la bioseguridad y al suministro de agua, y encarga al grupo revisar los protocolos con los que los laboratorios de IA notifican al gobierno filtraciones, hackeos y jailbreaks."
-       },
-       {
-        "t": "p",
-        "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "politics-pentagon-anthropic",
-   "source_lang": "ko",
-   "eyebrow": "AI NEWS",
-   "headline": "미 국방부, 앤트로픽\n클로드 사용 중단",
-   "body": "미 국방부가 블랙리스트 지정 8개월 만에 앤트로픽 AI 사용 중단을 발표했다.",
-   "mini_headline": "국방부, 클로드 중단",
-   "tool": "Politics",
-   "source": "yna.co.kr",
-   "url": "https://www.yna.co.kr/view/AKR20261006093800009",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-      "cap": "[로이터=연합뉴스 자료사진]"
-     },
-     {
-      "t": "p",
-      "x": "미국 국방부가 \"앤트로픽의 클로드 모델 등 이 회사 AI 제품의 사용을 중단했다\"고 발표했다."
-     },
-     {
-      "t": "p",
-      "x": "이번 조치는 미 국방부가 지난 2월 국가안보를 이유로 앤트로픽을 '공급망 위험 기업'으로 지정한 지 8개월만에 나왔다고 BBC가 5일(현지시간) 보도했다."
-     },
-     {
-      "t": "p",
-      "x": "지난 2월 피트 헤그세스 국방장관은 앤트로픽을 '공급망 위험 기업'으로 지정했으며, 국방부는 8월 말까지 앤트로픽 제품의 사용을 중단할 것이라고 발표했으나, 사용 중단이 두 달 지연됐다."
-     },
-     {
-      "t": "p",
-      "x": "소식통들은 지난 주까지만 해도 미 국방부가 연구, 분석, 정보수집을 비롯해 이란 전쟁에서도 앤트로픽의 클로드 모델을 사용했다고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "최근까지만 해도 클로드 모델은 방대한 양의 정보를 분류하는 데 중요한 도구로 사용됐다는 것이다."
-     },
-     {
-      "t": "p",
-      "x": "앤트로픽의 AI 제품은 2024년부터 미국 정부와 군에서 사용돼 왔으며, 이 회사의 AI 도구는 기밀 업무를 수행하는 정부기관에 배치된 최초의 첨단 도구였다."
-     },
-     {
-      "t": "p",
-      "x": "하지만 올해 초 미 국방부가 앤트로픽에 대해 \"클로드의 안전장치를 제거하고 군이 앤트로픽의 AI 제품에 제한 없이 접근할 수 있도록 하라\"고 압박하자 앤트로픽은 '대규모 감시와 자율 무기에 대한 우려'를 이유로 거부했다."
-     },
-     {
-      "t": "p",
-      "x": "이에 대해 헤그세스 장관은 앤트로픽을 국가안보 공급망 위험 기업으로 지정했다. 미국에 위협이 되는 국가에 기반한 기업들에 적용되는 법적 조치였다."
-     },
-     {
-      "t": "p",
-      "x": "앤트로픽은 이 조치가 \"전례 없고 불법적\"이라고 반발했으며 트럼프 행정부를 상대로 소송을 제기했다."
-     },
-     {
-      "t": "p",
-      "x": "워싱턴DC 연방항소법원은 지난달 국방부의 블랙리스트 지정 조치를 무효로 해달라는 앤트로픽 측의 요청을 기각하고 정부 측 손을 들어줬다."
-     },
-     {
-      "t": "p",
-      "x": "미 국방부는 법적 공방이 진행되는 동안 구글, xAI, 오픈AI 등 다른 주요 기술기업들과 계약을 체결했다. 최근 몇 달 동안 군 일부에서는 오픈AI의 도구들이 더 폭넓게 채택됐다."
-     },
-     {
-      "t": "p",
-      "x": "소식통들에 따르면 클로드 모델은 국방부가 사용하는 대규모 데이터 플랫폼인 '메이븐 스마트 시스템'에 탑재돼 있었다. 팔란티어가 운영하는 메이븐은 미 국방부가 정보와 데이터를 정리하는 데 사용하는 핵심 플랫폼이다."
-     },
-     {
-      "t": "p",
-      "x": "조지타운대 안보·신흥기술센터의 선임 연구분석가 로런 칸은 클로드가 메이븐에 깊이 통합돼 있었기 때문에 시스템에서 신속하게 제거하기는 어려웠을 것이라고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "국방부 근무 경력을 가진 칸 분석가는 \"국방부가 시스템 전반에서 클로드 사용을 모두 제거하는 데 지금까지 걸렸다는 사실은 이런 기술들이 '손쉽게 꽂았다 뺄 수 있는 것'이 아니라는 점을 보여준다\"고 말했다."
-     }
-    ]
-   },
-   "text": {
-    "ko": {
-     "headline": "미 국방부, 앤트로픽\n클로드 사용 중단",
-     "body": "미 국방부가 블랙리스트 지정 8개월 만에 앤트로픽 AI 사용 중단을 발표했다.",
-     "mini_headline": "국방부, 클로드 중단",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[로이터=연합뉴스 자료사진]"
-       },
-       {
-        "t": "p",
-        "x": "미국 국방부가 \"앤트로픽의 클로드 모델 등 이 회사 AI 제품의 사용을 중단했다\"고 발표했다."
-       },
-       {
-        "t": "p",
-        "x": "이번 조치는 미 국방부가 지난 2월 국가안보를 이유로 앤트로픽을 '공급망 위험 기업'으로 지정한 지 8개월만에 나왔다고 BBC가 5일(현지시간) 보도했다."
-       },
-       {
-        "t": "p",
-        "x": "지난 2월 피트 헤그세스 국방장관은 앤트로픽을 '공급망 위험 기업'으로 지정했으며, 국방부는 8월 말까지 앤트로픽 제품의 사용을 중단할 것이라고 발표했으나, 사용 중단이 두 달 지연됐다."
-       },
-       {
-        "t": "p",
-        "x": "소식통들은 지난 주까지만 해도 미 국방부가 연구, 분석, 정보수집을 비롯해 이란 전쟁에서도 앤트로픽의 클로드 모델을 사용했다고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "최근까지만 해도 클로드 모델은 방대한 양의 정보를 분류하는 데 중요한 도구로 사용됐다는 것이다."
-       },
-       {
-        "t": "p",
-        "x": "앤트로픽의 AI 제품은 2024년부터 미국 정부와 군에서 사용돼 왔으며, 이 회사의 AI 도구는 기밀 업무를 수행하는 정부기관에 배치된 최초의 첨단 도구였다."
-       },
-       {
-        "t": "p",
-        "x": "하지만 올해 초 미 국방부가 앤트로픽에 대해 \"클로드의 안전장치를 제거하고 군이 앤트로픽의 AI 제품에 제한 없이 접근할 수 있도록 하라\"고 압박하자 앤트로픽은 '대규모 감시와 자율 무기에 대한 우려'를 이유로 거부했다."
-       },
-       {
-        "t": "p",
-        "x": "이에 대해 헤그세스 장관은 앤트로픽을 국가안보 공급망 위험 기업으로 지정했다. 미국에 위협이 되는 국가에 기반한 기업들에 적용되는 법적 조치였다."
-       },
-       {
-        "t": "p",
-        "x": "앤트로픽은 이 조치가 \"전례 없고 불법적\"이라고 반발했으며 트럼프 행정부를 상대로 소송을 제기했다."
-       },
-       {
-        "t": "p",
-        "x": "워싱턴DC 연방항소법원은 지난달 국방부의 블랙리스트 지정 조치를 무효로 해달라는 앤트로픽 측의 요청을 기각하고 정부 측 손을 들어줬다."
-       },
-       {
-        "t": "p",
-        "x": "미 국방부는 법적 공방이 진행되는 동안 구글, xAI, 오픈AI 등 다른 주요 기술기업들과 계약을 체결했다. 최근 몇 달 동안 군 일부에서는 오픈AI의 도구들이 더 폭넓게 채택됐다."
-       },
-       {
-        "t": "p",
-        "x": "소식통들에 따르면 클로드 모델은 국방부가 사용하는 대규모 데이터 플랫폼인 '메이븐 스마트 시스템'에 탑재돼 있었다. 팔란티어가 운영하는 메이븐은 미 국방부가 정보와 데이터를 정리하는 데 사용하는 핵심 플랫폼이다."
-       },
-       {
-        "t": "p",
-        "x": "조지타운대 안보·신흥기술센터의 선임 연구분석가 로런 칸은 클로드가 메이븐에 깊이 통합돼 있었기 때문에 시스템에서 신속하게 제거하기는 어려웠을 것이라고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "국방부 근무 경력을 가진 칸 분석가는 \"국방부가 시스템 전반에서 클로드 사용을 모두 제거하는 데 지금까지 걸렸다는 사실은 이런 기술들이 '손쉽게 꽂았다 뺄 수 있는 것'이 아니라는 점을 보여준다\"고 말했다."
-       }
-      ]
-     }
-    },
-    "en": {
-     "headline": "U.S. Defense Department halts\nuse of Anthropic's Claude",
-     "body": "The U.S. Defense Department said it has stopped using Anthropic's AI, eight months after blacklisting the company.",
-     "mini_headline": "Pentagon drops Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[Reuters=Yonhap file photo]"
-       },
-       {
-        "t": "p",
-        "x": "The U.S. Department of Defense announced that it “has stopped using the company's AI products, including Anthropic's Claude models.”"
-       },
-       {
-        "t": "p",
-        "x": "The move comes eight months after the department designated Anthropic a ‘supply chain risk’ company in February on national security grounds, the BBC reported on the 5th (local time)."
-       },
-       {
-        "t": "p",
-        "x": "In February, Defense Secretary Pete Hegseth designated Anthropic a ‘supply chain risk’ company, and the department said it would stop using Anthropic products by the end of August, but the phase-out was delayed by two months."
-       },
-       {
-        "t": "p",
-        "x": "Sources said that as recently as last week the department was using Anthropic's Claude models for research, analysis and intelligence gathering, as well as in the Iran war."
-       },
-       {
-        "t": "p",
-        "x": "Until recently, they said, Claude models served as an important tool for sorting through vast amounts of information."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic's AI products have been used by the U.S. government and military since 2024, and the company's AI tools were the first advanced tools deployed at government agencies handling classified work."
-       },
-       {
-        "t": "p",
-        "x": "But when the department pressed Anthropic early this year to “remove Claude's safeguards and give the military unrestricted access to Anthropic's AI products,” Anthropic refused, citing ‘concerns about mass surveillance and autonomous weapons.’"
-       },
-       {
-        "t": "p",
-        "x": "In response, Secretary Hegseth designated Anthropic a national security supply chain risk company, a legal measure applied to companies based in countries that pose a threat to the United States."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic pushed back, calling the measure “unprecedented and unlawful,” and filed a lawsuit against the Trump administration."
-       },
-       {
-        "t": "p",
-        "x": "Last month, the federal appeals court in Washington, DC rejected Anthropic's request to void the department's blacklisting and sided with the government."
-       },
-       {
-        "t": "p",
-        "x": "While the legal fight played out, the department signed contracts with other major tech companies including Google, xAI and OpenAI. In recent months, OpenAI's tools have been adopted more widely in parts of the military."
-       },
-       {
-        "t": "p",
-        "x": "According to sources, Claude models were built into the ‘Maven Smart System,’ a large data platform used by the department. Maven, operated by Palantir, is a core platform the U.S. Department of Defense uses to organize information and data."
-       },
-       {
-        "t": "p",
-        "x": "Lauren Kahn, a senior research analyst at Georgetown University's Center for Security and Emerging Technology, said Claude was so deeply integrated into Maven that it would have been hard to remove quickly from the system."
-       },
-       {
-        "t": "p",
-        "x": "Kahn, who previously worked at the Department of Defense, said, “The fact that it has taken until now for the department to remove all use of Claude across its systems shows that these technologies are not something you can ‘easily plug in and pull out.’”"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "米国防総省、\nClaudeの使用を停止",
-     "body": "米国防総省はブラックリスト指定から8カ月で、AnthropicのAI使用停止を発表した。",
-     "mini_headline": "国防総省、Claude停止",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "［ロイター＝聯合ニュース資料写真］"
-       },
-       {
-        "t": "p",
-        "x": "米国防総省は「AnthropicのClaudeモデルなど、同社のAI製品の使用を停止した」と発表した。"
-       },
-       {
-        "t": "p",
-        "x": "今回の措置は、国防総省が2月に国家安全保障を理由にAnthropicを「サプライチェーン・リスク企業」に指定してから8カ月後に出たと、BBCが5日（現地時間）に報じた。"
-       },
-       {
-        "t": "p",
-        "x": "2月にピート・ヘグセス国防長官がAnthropicを「サプライチェーン・リスク企業」に指定し、国防総省は8月末までに同社製品の使用を停止すると発表していたが、停止は二カ月遅れた。"
-       },
-       {
-        "t": "p",
-        "x": "関係者によると、国防総省は先週まで、研究や分析、情報収集のほか、イラン戦争でもAnthropicのClaudeモデルを使用していた。"
-       },
-       {
-        "t": "p",
-        "x": "最近までClaudeモデルは、膨大な情報を分類する重要なツールとして使われていたという。"
-       },
-       {
-        "t": "p",
-        "x": "AnthropicのAI製品は2024年から米政府と軍で使われており、同社のAIツールは機密業務を担う政府機関に配備された初の先端ツールだった。"
-       },
-       {
-        "t": "p",
-        "x": "しかし今年初め、国防総省がAnthropicに対し「Claudeの安全装置を外し、軍が同社のAI製品に制限なくアクセスできるようにせよ」と圧力をかけると、Anthropicは「大規模監視と自律型兵器への懸念」を理由に拒否した。"
-       },
-       {
-        "t": "p",
-        "x": "これに対しヘグセス長官は、Anthropicを国家安全保障上のサプライチェーン・リスク企業に指定した。米国に脅威を与える国に拠点を置く企業に適用される法的措置だった。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropicはこの措置を「前例がなく違法だ」と反発し、トランプ政権を相手取って提訴した。"
-       },
-       {
-        "t": "p",
-        "x": "ワシントンDCの連邦控訴裁判所は先月、国防総省によるブラックリスト指定の無効化を求めたAnthropic側の申し立てを退け、政府側の主張を認めた。"
-       },
-       {
-        "t": "p",
-        "x": "国防総省は法廷闘争が続く間、Google、xAI、OpenAIなど他の大手テック企業と契約を結んだ。ここ数カ月、軍の一部ではOpenAIのツールがより幅広く採用されている。"
-       },
-       {
-        "t": "p",
-        "x": "関係者によると、Claudeモデルは国防総省が使う大規模データプラットフォーム「Maven Smart System」に組み込まれていた。Palantirが運営するMavenは、国防総省が情報とデータを整理するのに使う中核プラットフォームだ。"
-       },
-       {
-        "t": "p",
-        "x": "ジョージタウン大学安全保障・新興技術センターのシニア研究アナリスト、ローレン・カーン氏は、ClaudeがMavenに深く統合されていたため、システムから素早く取り除くのは難しかっただろうと述べた。"
-       },
-       {
-        "t": "p",
-        "x": "国防総省での勤務経験を持つカーン氏は「国防総省がシステム全体からClaudeの使用をすべて取り除くのに今までかかったという事実は、こうした技術が『簡単に抜き差しできるもの』ではないことを示している」と語った。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "美国防部宣布\n停用Claude模型",
-     "body": "美国防部在将Anthropic列入黑名单8个月后，宣布停用该公司的AI产品。",
-     "mini_headline": "国防部停用Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[路透社=韩联社资料图]"
-       },
-       {
-        "t": "p",
-        "x": "美国国防部宣布，“已停止使用Anthropic的Claude模型等该公司AI产品”。"
-       },
-       {
-        "t": "p",
-        "x": "据BBC 5日（当地时间）报道，此次措施是在美国防部2月以国家安全为由将Anthropic列为“供应链风险企业”8个月之后作出的。"
-       },
-       {
-        "t": "p",
-        "x": "2月，国防部长皮特·赫格塞斯将Anthropic列为“供应链风险企业”，国防部曾宣布将在8月底前停用Anthropic产品，但停用推迟了两个月。"
-       },
-       {
-        "t": "p",
-        "x": "消息人士称，直到上周，美国防部仍在研究、分析、情报搜集以及伊朗战争中使用Anthropic的Claude模型。"
-       },
-       {
-        "t": "p",
-        "x": "据称，直到最近，Claude模型一直是分类海量信息的重要工具。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropic的AI产品自2024年起被美国政府和军方使用，该公司的AI工具是首个部署到承担机密任务的政府机构的尖端工具。"
-       },
-       {
-        "t": "p",
-        "x": "但今年年初，美国防部向Anthropic施压，要求其“移除Claude的安全防护措施，让军方能够不受限制地使用Anthropic的AI产品”，Anthropic以“对大规模监控和自主武器的担忧”为由予以拒绝。"
-       },
-       {
-        "t": "p",
-        "x": "对此，赫格塞斯将Anthropic列为国家安全供应链风险企业。这是一项适用于总部位于对美国构成威胁国家的企业的法律措施。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropic反驳称该措施“史无前例且违法”，并对特朗普政府提起诉讼。"
-       },
-       {
-        "t": "p",
-        "x": "上月，华盛顿DC联邦上诉法院驳回了Anthropic要求撤销国防部黑名单认定的请求，判政府一方胜诉。"
-       },
-       {
-        "t": "p",
-        "x": "在法律纠纷持续期间，美国防部与谷歌、xAI、OpenAI等其他主要科技企业签订了合同。最近几个月，OpenAI的工具在部分军队中得到了更广泛的采用。"
-       },
-       {
-        "t": "p",
-        "x": "据消息人士透露，Claude模型曾被嵌入国防部使用的大型数据平台“Maven Smart System”。由Palantir运营的Maven是美国防部用于整理情报和数据的核心平台。"
-       },
-       {
-        "t": "p",
-        "x": "乔治城大学安全与新兴技术中心高级研究分析师劳伦·卡恩表示，由于Claude与Maven深度整合，当初很难迅速将其从系统中移除。"
-       },
-       {
-        "t": "p",
-        "x": "曾在国防部任职的卡恩说：“国防部直到现在才在整个系统中彻底移除Claude，这一事实表明这类技术并不是‘可以轻松插拔的东西’。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El Pentágono deja de usar\nClaude, de Anthropic",
-     "body": "El Pentágono dejó de usar la IA de Anthropic, ocho meses después de incluir a la empresa en una lista negra.",
-     "mini_headline": "El Pentágono deja Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[Foto de archivo de Reuters=Yonhap]"
-       },
-       {
-        "t": "p",
-        "x": "El Departamento de Defensa de Estados Unidos anunció que “ha dejado de usar los productos de IA de la compañía, incluidos los modelos Claude de Anthropic”."
-       },
-       {
-        "t": "p",
-        "x": "La medida llega ocho meses después de que el Departamento de Defensa designara en febrero a Anthropic como ‘empresa de riesgo para la cadena de suministro’ por motivos de seguridad nacional, informó la BBC el día 5 (hora local)."
-       },
-       {
-        "t": "p",
-        "x": "En febrero, el secretario de Defensa, Pete Hegseth, designó a Anthropic como ‘empresa de riesgo para la cadena de suministro’, y el departamento anunció que dejaría de usar sus productos a finales de agosto, pero la retirada se retrasó dos meses."
-       },
-       {
-        "t": "p",
-        "x": "Según fuentes, hasta la semana pasada el Departamento de Defensa usaba los modelos Claude de Anthropic en investigación, análisis y recopilación de inteligencia, e incluso en la guerra de Irán."
-       },
-       {
-        "t": "p",
-        "x": "Hasta hace poco, los modelos Claude eran una herramienta importante para clasificar enormes volúmenes de información."
-       },
-       {
-        "t": "p",
-        "x": "Los productos de IA de Anthropic se usan en el gobierno y el ejército de Estados Unidos desde 2024, y sus herramientas de IA fueron las primeras herramientas avanzadas desplegadas en organismos públicos que realizan trabajo clasificado."
-       },
-       {
-        "t": "p",
-        "x": "Pero cuando a principios de este año el Departamento de Defensa presionó a Anthropic para que “eliminara las salvaguardas de Claude y permitiera al ejército acceder sin restricciones a los productos de IA de Anthropic”, la empresa se negó, alegando ‘preocupaciones por la vigilancia masiva y las armas autónomas’."
-       },
-       {
-        "t": "p",
-        "x": "En respuesta, el secretario Hegseth designó a Anthropic como empresa de riesgo para la cadena de suministro de seguridad nacional, una medida legal que se aplica a empresas con sede en países que suponen una amenaza para Estados Unidos."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic calificó la medida de “sin precedentes e ilegal” y presentó una demanda contra el gobierno de Trump."
-       },
-       {
-        "t": "p",
-        "x": "El mes pasado, el tribunal federal de apelaciones de Washington DC rechazó la petición de Anthropic de anular su inclusión en la lista negra del Departamento de Defensa y dio la razón al gobierno."
-       },
-       {
-        "t": "p",
-        "x": "Mientras avanzaba la disputa legal, el Departamento de Defensa firmó contratos con otras grandes tecnológicas como Google, xAI y OpenAI. En los últimos meses, las herramientas de OpenAI se han adoptado de forma más amplia en partes del ejército."
-       },
-       {
-        "t": "p",
-        "x": "Según las fuentes, los modelos Claude estaban integrados en el ‘Maven Smart System’, una gran plataforma de datos que utiliza el Departamento de Defensa. Operada por Palantir, Maven es la plataforma central que el departamento usa para organizar información y datos."
-       },
-       {
-        "t": "p",
-        "x": "Lauren Kahn, analista sénior de investigación del Centro de Seguridad y Tecnología Emergente de la Universidad de Georgetown, dijo que, como Claude estaba profundamente integrado en Maven, habría sido difícil retirarlo rápidamente del sistema."
-       },
-       {
-        "t": "p",
-        "x": "Kahn, que trabajó en el Departamento de Defensa, afirmó: “El hecho de que al departamento le haya llevado hasta ahora eliminar todo uso de Claude en sus sistemas demuestra que estas tecnologías no son algo que se pueda ‘conectar y desconectar fácilmente’”."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "en": {
-     "headline": "U.S. Defense Department halts\nuse of Anthropic's Claude",
-     "body": "The U.S. Defense Department said it has stopped using Anthropic's AI, eight months after blacklisting the company.",
-     "mini_headline": "Pentagon drops Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[Reuters=Yonhap file photo]"
-       },
-       {
-        "t": "p",
-        "x": "The U.S. Department of Defense announced that it “has stopped using the company's AI products, including Anthropic's Claude models.”"
-       },
-       {
-        "t": "p",
-        "x": "The move comes eight months after the department designated Anthropic a ‘supply chain risk’ company in February on national security grounds, the BBC reported on the 5th (local time)."
-       },
-       {
-        "t": "p",
-        "x": "In February, Defense Secretary Pete Hegseth designated Anthropic a ‘supply chain risk’ company, and the department said it would stop using Anthropic products by the end of August, but the phase-out was delayed by two months."
-       },
-       {
-        "t": "p",
-        "x": "Sources said that as recently as last week the department was using Anthropic's Claude models for research, analysis and intelligence gathering, as well as in the Iran war."
-       },
-       {
-        "t": "p",
-        "x": "Until recently, they said, Claude models served as an important tool for sorting through vast amounts of information."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic's AI products have been used by the U.S. government and military since 2024, and the company's AI tools were the first advanced tools deployed at government agencies handling classified work."
-       },
-       {
-        "t": "p",
-        "x": "But when the department pressed Anthropic early this year to “remove Claude's safeguards and give the military unrestricted access to Anthropic's AI products,” Anthropic refused, citing ‘concerns about mass surveillance and autonomous weapons.’"
-       },
-       {
-        "t": "p",
-        "x": "In response, Secretary Hegseth designated Anthropic a national security supply chain risk company, a legal measure applied to companies based in countries that pose a threat to the United States."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic pushed back, calling the measure “unprecedented and unlawful,” and filed a lawsuit against the Trump administration."
-       },
-       {
-        "t": "p",
-        "x": "Last month, the federal appeals court in Washington, DC rejected Anthropic's request to void the department's blacklisting and sided with the government."
-       },
-       {
-        "t": "p",
-        "x": "While the legal fight played out, the department signed contracts with other major tech companies including Google, xAI and OpenAI. In recent months, OpenAI's tools have been adopted more widely in parts of the military."
-       },
-       {
-        "t": "p",
-        "x": "According to sources, Claude models were built into the ‘Maven Smart System,’ a large data platform used by the department. Maven, operated by Palantir, is a core platform the U.S. Department of Defense uses to organize information and data."
-       },
-       {
-        "t": "p",
-        "x": "Lauren Kahn, a senior research analyst at Georgetown University's Center for Security and Emerging Technology, said Claude was so deeply integrated into Maven that it would have been hard to remove quickly from the system."
-       },
-       {
-        "t": "p",
-        "x": "Kahn, who previously worked at the Department of Defense, said, “The fact that it has taken until now for the department to remove all use of Claude across its systems shows that these technologies are not something you can ‘easily plug in and pull out.’”"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "米国防総省、\nClaudeの使用を停止",
-     "body": "米国防総省はブラックリスト指定から8カ月で、AnthropicのAI使用停止を発表した。",
-     "mini_headline": "国防総省、Claude停止",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "［ロイター＝聯合ニュース資料写真］"
-       },
-       {
-        "t": "p",
-        "x": "米国防総省は「AnthropicのClaudeモデルなど、同社のAI製品の使用を停止した」と発表した。"
-       },
-       {
-        "t": "p",
-        "x": "今回の措置は、国防総省が2月に国家安全保障を理由にAnthropicを「サプライチェーン・リスク企業」に指定してから8カ月後に出たと、BBCが5日（現地時間）に報じた。"
-       },
-       {
-        "t": "p",
-        "x": "2月にピート・ヘグセス国防長官がAnthropicを「サプライチェーン・リスク企業」に指定し、国防総省は8月末までに同社製品の使用を停止すると発表していたが、停止は二カ月遅れた。"
-       },
-       {
-        "t": "p",
-        "x": "関係者によると、国防総省は先週まで、研究や分析、情報収集のほか、イラン戦争でもAnthropicのClaudeモデルを使用していた。"
-       },
-       {
-        "t": "p",
-        "x": "最近までClaudeモデルは、膨大な情報を分類する重要なツールとして使われていたという。"
-       },
-       {
-        "t": "p",
-        "x": "AnthropicのAI製品は2024年から米政府と軍で使われており、同社のAIツールは機密業務を担う政府機関に配備された初の先端ツールだった。"
-       },
-       {
-        "t": "p",
-        "x": "しかし今年初め、国防総省がAnthropicに対し「Claudeの安全装置を外し、軍が同社のAI製品に制限なくアクセスできるようにせよ」と圧力をかけると、Anthropicは「大規模監視と自律型兵器への懸念」を理由に拒否した。"
-       },
-       {
-        "t": "p",
-        "x": "これに対しヘグセス長官は、Anthropicを国家安全保障上のサプライチェーン・リスク企業に指定した。米国に脅威を与える国に拠点を置く企業に適用される法的措置だった。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropicはこの措置を「前例がなく違法だ」と反発し、トランプ政権を相手取って提訴した。"
-       },
-       {
-        "t": "p",
-        "x": "ワシントンDCの連邦控訴裁判所は先月、国防総省によるブラックリスト指定の無効化を求めたAnthropic側の申し立てを退け、政府側の主張を認めた。"
-       },
-       {
-        "t": "p",
-        "x": "国防総省は法廷闘争が続く間、Google、xAI、OpenAIなど他の大手テック企業と契約を結んだ。ここ数カ月、軍の一部ではOpenAIのツールがより幅広く採用されている。"
-       },
-       {
-        "t": "p",
-        "x": "関係者によると、Claudeモデルは国防総省が使う大規模データプラットフォーム「Maven Smart System」に組み込まれていた。Palantirが運営するMavenは、国防総省が情報とデータを整理するのに使う中核プラットフォームだ。"
-       },
-       {
-        "t": "p",
-        "x": "ジョージタウン大学安全保障・新興技術センターのシニア研究アナリスト、ローレン・カーン氏は、ClaudeがMavenに深く統合されていたため、システムから素早く取り除くのは難しかっただろうと述べた。"
-       },
-       {
-        "t": "p",
-        "x": "国防総省での勤務経験を持つカーン氏は「国防総省がシステム全体からClaudeの使用をすべて取り除くのに今までかかったという事実は、こうした技術が『簡単に抜き差しできるもの』ではないことを示している」と語った。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "美国防部宣布\n停用Claude模型",
-     "body": "美国防部在将Anthropic列入黑名单8个月后，宣布停用该公司的AI产品。",
-     "mini_headline": "国防部停用Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[路透社=韩联社资料图]"
-       },
-       {
-        "t": "p",
-        "x": "美国国防部宣布，“已停止使用Anthropic的Claude模型等该公司AI产品”。"
-       },
-       {
-        "t": "p",
-        "x": "据BBC 5日（当地时间）报道，此次措施是在美国防部2月以国家安全为由将Anthropic列为“供应链风险企业”8个月之后作出的。"
-       },
-       {
-        "t": "p",
-        "x": "2月，国防部长皮特·赫格塞斯将Anthropic列为“供应链风险企业”，国防部曾宣布将在8月底前停用Anthropic产品，但停用推迟了两个月。"
-       },
-       {
-        "t": "p",
-        "x": "消息人士称，直到上周，美国防部仍在研究、分析、情报搜集以及伊朗战争中使用Anthropic的Claude模型。"
-       },
-       {
-        "t": "p",
-        "x": "据称，直到最近，Claude模型一直是分类海量信息的重要工具。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropic的AI产品自2024年起被美国政府和军方使用，该公司的AI工具是首个部署到承担机密任务的政府机构的尖端工具。"
-       },
-       {
-        "t": "p",
-        "x": "但今年年初，美国防部向Anthropic施压，要求其“移除Claude的安全防护措施，让军方能够不受限制地使用Anthropic的AI产品”，Anthropic以“对大规模监控和自主武器的担忧”为由予以拒绝。"
-       },
-       {
-        "t": "p",
-        "x": "对此，赫格塞斯将Anthropic列为国家安全供应链风险企业。这是一项适用于总部位于对美国构成威胁国家的企业的法律措施。"
-       },
-       {
-        "t": "p",
-        "x": "Anthropic反驳称该措施“史无前例且违法”，并对特朗普政府提起诉讼。"
-       },
-       {
-        "t": "p",
-        "x": "上月，华盛顿DC联邦上诉法院驳回了Anthropic要求撤销国防部黑名单认定的请求，判政府一方胜诉。"
-       },
-       {
-        "t": "p",
-        "x": "在法律纠纷持续期间，美国防部与谷歌、xAI、OpenAI等其他主要科技企业签订了合同。最近几个月，OpenAI的工具在部分军队中得到了更广泛的采用。"
-       },
-       {
-        "t": "p",
-        "x": "据消息人士透露，Claude模型曾被嵌入国防部使用的大型数据平台“Maven Smart System”。由Palantir运营的Maven是美国防部用于整理情报和数据的核心平台。"
-       },
-       {
-        "t": "p",
-        "x": "乔治城大学安全与新兴技术中心高级研究分析师劳伦·卡恩表示，由于Claude与Maven深度整合，当初很难迅速将其从系统中移除。"
-       },
-       {
-        "t": "p",
-        "x": "曾在国防部任职的卡恩说：“国防部直到现在才在整个系统中彻底移除Claude，这一事实表明这类技术并不是‘可以轻松插拔的东西’。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El Pentágono deja de usar\nClaude, de Anthropic",
-     "body": "El Pentágono dejó de usar la IA de Anthropic, ocho meses después de incluir a la empresa en una lista negra.",
-     "mini_headline": "El Pentágono deja Claude",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-        "cap": "[Foto de archivo de Reuters=Yonhap]"
-       },
-       {
-        "t": "p",
-        "x": "El Departamento de Defensa de Estados Unidos anunció que “ha dejado de usar los productos de IA de la compañía, incluidos los modelos Claude de Anthropic”."
-       },
-       {
-        "t": "p",
-        "x": "La medida llega ocho meses después de que el Departamento de Defensa designara en febrero a Anthropic como ‘empresa de riesgo para la cadena de suministro’ por motivos de seguridad nacional, informó la BBC el día 5 (hora local)."
-       },
-       {
-        "t": "p",
-        "x": "En febrero, el secretario de Defensa, Pete Hegseth, designó a Anthropic como ‘empresa de riesgo para la cadena de suministro’, y el departamento anunció que dejaría de usar sus productos a finales de agosto, pero la retirada se retrasó dos meses."
-       },
-       {
-        "t": "p",
-        "x": "Según fuentes, hasta la semana pasada el Departamento de Defensa usaba los modelos Claude de Anthropic en investigación, análisis y recopilación de inteligencia, e incluso en la guerra de Irán."
-       },
-       {
-        "t": "p",
-        "x": "Hasta hace poco, los modelos Claude eran una herramienta importante para clasificar enormes volúmenes de información."
-       },
-       {
-        "t": "p",
-        "x": "Los productos de IA de Anthropic se usan en el gobierno y el ejército de Estados Unidos desde 2024, y sus herramientas de IA fueron las primeras herramientas avanzadas desplegadas en organismos públicos que realizan trabajo clasificado."
-       },
-       {
-        "t": "p",
-        "x": "Pero cuando a principios de este año el Departamento de Defensa presionó a Anthropic para que “eliminara las salvaguardas de Claude y permitiera al ejército acceder sin restricciones a los productos de IA de Anthropic”, la empresa se negó, alegando ‘preocupaciones por la vigilancia masiva y las armas autónomas’."
-       },
-       {
-        "t": "p",
-        "x": "En respuesta, el secretario Hegseth designó a Anthropic como empresa de riesgo para la cadena de suministro de seguridad nacional, una medida legal que se aplica a empresas con sede en países que suponen una amenaza para Estados Unidos."
-       },
-       {
-        "t": "p",
-        "x": "Anthropic calificó la medida de “sin precedentes e ilegal” y presentó una demanda contra el gobierno de Trump."
-       },
-       {
-        "t": "p",
-        "x": "El mes pasado, el tribunal federal de apelaciones de Washington DC rechazó la petición de Anthropic de anular su inclusión en la lista negra del Departamento de Defensa y dio la razón al gobierno."
-       },
-       {
-        "t": "p",
-        "x": "Mientras avanzaba la disputa legal, el Departamento de Defensa firmó contratos con otras grandes tecnológicas como Google, xAI y OpenAI. En los últimos meses, las herramientas de OpenAI se han adoptado de forma más amplia en partes del ejército."
-       },
-       {
-        "t": "p",
-        "x": "Según las fuentes, los modelos Claude estaban integrados en el ‘Maven Smart System’, una gran plataforma de datos que utiliza el Departamento de Defensa. Operada por Palantir, Maven es la plataforma central que el departamento usa para organizar información y datos."
-       },
-       {
-        "t": "p",
-        "x": "Lauren Kahn, analista sénior de investigación del Centro de Seguridad y Tecnología Emergente de la Universidad de Georgetown, dijo que, como Claude estaba profundamente integrado en Maven, habría sido difícil retirarlo rápidamente del sistema."
-       },
-       {
-        "t": "p",
-        "x": "Kahn, que trabajó en el Departamento de Defensa, afirmó: “El hecho de que al departamento le haya llevado hasta ahora eliminar todo uso de Claude en sus sistemas demuestra que estas tecnologías no son algo que se pueda ‘conectar y desconectar fácilmente’”."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "politics-veliaj-avatar",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "수감된 티라나 시장\nAI 아바타로 연설",
-   "body": "수감 중인 에리온 벨리아이 티라나 시장이 딥페이크 AI 아바타로 연설했다.",
-   "mini_headline": "수감 시장의 AI 아바타",
-   "tool": "Politics",
-   "source": "politico.eu",
-   "url": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-     },
-     {
-      "t": "p",
-      "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 지금 수감돼 있다. 파란 정장을 입고 공약을 발표한 인물은 AI가 만들었다."
-     },
-     {
-      "t": "p",
-      "x": "공식 Instagram 계정에 ‘AI-generated’ 표시를 달고 올라온 게시물에서 46세 시장의 모습을 한 인물이 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
-     },
-     {
-      "t": "p",
-      "x": "벨리아이는 부패와 금융 범죄 혐의로 수사를 받으며 2025년 초부터 두러스에 수감돼 있다. 혐의는 모두 부인한다. 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
-     },
-     {
-      "t": "p",
-      "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 맡겼지만 2027년 상반기 지방선거 때까지 공식 시장직을 지킨다."
-     },
-     {
-      "t": "p",
-      "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 나왔다. 알바니아는 2025년 가을 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Jailed Tirana mayor speaks\nthrough an AI avatar",
-     "body": "Tirana's jailed mayor Erion Veliaj used an AI avatar to give a deepfake speech while running the city from jail.",
-     "mini_headline": "Jailed mayor's AI avatar",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "Tirana Mayor Erion Veliaj has caused a stir with a video pledge of free school lunches for all the capital’s children. Veliaj is currently in prison, and the blue-suited figure making the announcement is AI-generated."
-       },
-       {
-        "t": "p",
-        "x": "In an Instagram post on his official profile labeled as AI-generated, the likeness of the 46-year-old lists his achievements in office. “I will keep this promise even from this cell where they have locked me up,” says the Veliaj clone."
-       },
-       {
-        "t": "p",
-        "x": "Veliaj has been in prison in Durres since early 2025 amid investigations over allegations of corruption and financial crimes. He denies any wrongdoing. “My hostage situation has been going on for 20 months, and I can only greet you with artificial intelligence,” his avatar says."
-       },
-       {
-        "t": "p",
-        "x": "Snap elections for Tirana were canceled after a Constitutional Court ruling. Veliaj has delegated duties to deputy mayors but remains the official mayor until municipal elections in the first half of 2027."
-       },
-       {
-        "t": "p",
-        "x": "Jailed politicians have used AI before: Pakistan’s Imran Khan in 2023, and an avatar of Brazil’s Jair Bolsonaro in July. In autumn 2025, Albania appointed Diella, an AI-powered virtual minister."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "수감된 티라나 시장\nAI 아바타로 연설",
-     "body": "수감 중인 에리온 벨리아이 티라나 시장이 딥페이크 AI 아바타로 연설했다.",
-     "mini_headline": "수감 시장의 AI 아바타",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 지금 수감돼 있다. 파란 정장을 입고 공약을 발표한 인물은 AI가 만들었다."
-       },
-       {
-        "t": "p",
-        "x": "공식 Instagram 계정에 ‘AI-generated’ 표시를 달고 올라온 게시물에서 46세 시장의 모습을 한 인물이 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
-       },
-       {
-        "t": "p",
-        "x": "벨리아이는 부패와 금융 범죄 혐의로 수사를 받으며 2025년 초부터 두러스에 수감돼 있다. 혐의는 모두 부인한다. 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
-       },
-       {
-        "t": "p",
-        "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 맡겼지만 2027년 상반기 지방선거 때까지 공식 시장직을 지킨다."
-       },
-       {
-        "t": "p",
-        "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 나왔다. 알바니아는 2025년 가을 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "収監中のティラナ市長\nAIアバターで演説",
-     "body": "収監中のティラナ市長エリオン・ヴェリアイ氏が、AIアバターでディープフェイク演説をした。",
-     "mini_headline": "収監市長のAIアバター",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "ティラナのエリオン・ヴェリアイ市長が、首都のすべての子どもに学校給食を無償で提供すると約束する動画で波紋を呼んでいる。ヴェリアイ氏は現在収監中で、発表している青いスーツ姿の人物はAIで生成されたものだ。"
-       },
-       {
-        "t": "p",
-        "x": "公式Instagramアカウントに「AI-generated」と表示されて投稿された動画で、46歳の市長に似せた人物は在任中の実績を列挙する。「私を閉じ込めたこの独房からでも、この約束を守る」とヴェリアイ氏の分身は語る。"
-       },
-       {
-        "t": "p",
-        "x": "ヴェリアイ氏は汚職と金融犯罪の疑惑をめぐる捜査の中、2025年初めからドゥラスで収監されている。本人は不正を否定している。「私の人質状態は20カ月続いており、人工知能でしか皆さんにあいさつできない」とアバターは語る。"
-       },
-       {
-        "t": "p",
-        "x": "ティラナの出直し選挙は憲法裁判所の判断を受けて中止された。ヴェリアイ氏は副市長らに職務を委ねているが、2027年前半の地方選挙までは正式な市長にとどまる。"
-       },
-       {
-        "t": "p",
-        "x": "収監中の政治家がAIを使った例は過去にもある。2023年のパキスタンのイムラン・カーン氏、7月のブラジルのジャイル・ボルソナロ氏のアバターだ。アルバニアは2025年秋、AIを活用した（AI-powered）仮想大臣ディエラを任命した。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "狱中地拉那市长\n借AI虚拟形象发声",
-     "body": "身陷囹圄的地拉那市长埃里昂·韦利亚伊用AI虚拟形象发表了深度伪造演讲。",
-     "mini_headline": "狱中市长的AI分身",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "地拉那市长埃里昂·韦利亚伊发布视频，承诺为首都所有儿童提供免费午餐，引发轰动。韦利亚伊目前身在狱中，视频中身穿蓝色西装宣布这一承诺的人物由AI生成。"
-       },
-       {
-        "t": "p",
-        "x": "在其官方Instagram账号上一条标注为“AI-generated”的帖子中，这位46岁市长的仿真形象列举了自己的任内政绩。这个韦利亚伊分身说：“即使在他们把我关起来的这间牢房里，我也会兑现这个承诺。”"
-       },
-       {
-        "t": "p",
-        "x": "由于涉嫌腐败和金融犯罪接受调查，韦利亚伊自2025年初起被关押在都拉斯。他否认有任何不当行为。他的虚拟形象说：“我被扣为人质的状态已持续20个月，只能用人工智能向大家问好。”"
-       },
-       {
-        "t": "p",
-        "x": "宪法法院作出裁决后，地拉那的提前选举被取消。韦利亚伊已将职责委托给副市长，但在2027年上半年市政选举之前仍是正式市长。"
-       },
-       {
-        "t": "p",
-        "x": "被关押的政客此前也用过AI：2023年巴基斯坦的伊姆兰·汗，以及7月巴西雅伊尔·博索纳罗的虚拟形象。2025年秋，阿尔巴尼亚任命了由AI驱动（AI-powered）的虚拟部长迪埃拉。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El alcalde preso de Tirana\nhabla con un avatar de IA",
-     "body": "Erion Veliaj, alcalde preso de Tirana, dio un discurso deepfake con un avatar de IA desde la cárcel.",
-     "mini_headline": "El avatar de IA del alcalde preso",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "El alcalde de Tirana, Erion Veliaj, ha causado revuelo con un video en el que promete almuerzos escolares gratuitos para todos los niños de la capital. Veliaj está en prisión, y la figura de traje azul que hace el anuncio está generada por IA."
-       },
-       {
-        "t": "p",
-        "x": "En una publicación de Instagram en su perfil oficial, etiquetada como “AI-generated”, la réplica del político de 46 años enumera sus logros en el cargo. “Cumpliré esta promesa incluso desde esta celda donde me han encerrado”, dice el clon de Veliaj."
-       },
-       {
-        "t": "p",
-        "x": "Veliaj está preso en Durres desde principios de 2025 en medio de investigaciones por presunta corrupción y delitos financieros. Niega cualquier irregularidad. “Mi situación de rehén dura ya 20 meses y solo puedo saludarlos con inteligencia artificial”, dice su avatar."
-       },
-       {
-        "t": "p",
-        "x": "Las elecciones anticipadas en Tirana se cancelaron tras un fallo del Tribunal Constitucional. Veliaj ha delegado funciones en los vicealcaldes, pero sigue siendo el alcalde oficial hasta las elecciones municipales del primer semestre de 2027."
-       },
-       {
-        "t": "p",
-        "x": "Otros políticos encarcelados ya han usado la IA: el pakistaní Imran Khan en 2023 y un avatar del brasileño Jair Bolsonaro en julio. En otoño de 2025, Albania nombró a Diella, una ministra virtual impulsada por IA (AI-powered)."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "수감된 티라나 시장\nAI 아바타로 연설",
-     "body": "수감 중인 에리온 벨리아이 티라나 시장이 AI 아바타로 딥페이크 연설을 했다.",
-     "mini_headline": "수감 시장의 AI 아바타",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "에리온 벨리아이 티라나 시장이 수도의 모든 어린이에게 무상 급식을 제공하겠다는 영상 공약으로 파장을 일으켰다. 벨리아이는 현재 수감 중이며, 파란 정장 차림으로 공약을 발표한 인물은 AI가 만든 것이다."
-       },
-       {
-        "t": "p",
-        "x": "그의 공식 Instagram 계정에 ‘AI-generated’ 표시와 함께 올라온 게시물에서 46세 시장의 모습을 한 인물은 재임 중 성과를 나열한다. 벨리아이 복제 인물은 “나를 가둔 이 감방에서도 이 약속을 지키겠다”고 말한다."
-       },
-       {
-        "t": "p",
-        "x": "벨리아이는 부패와 금융 범죄 혐의 수사 속에 2025년 초부터 두러스에서 수감 중이다. 그는 모든 혐의를 부인한다. 그의 아바타는 “나의 인질 상황이 20개월째 이어지고 있어 인공지능으로만 인사를 전할 수 있다”고 말한다."
-       },
-       {
-        "t": "p",
-        "x": "티라나 조기 선거는 헌법재판소 판결 이후 취소됐다. 벨리아이는 부시장들에게 업무를 위임했지만 2027년 상반기 지방선거 때까지 공식 시장 자리를 유지한다."
-       },
-       {
-        "t": "p",
-        "x": "수감된 정치인이 AI를 쓴 전례는 있다. 2023년 파키스탄의 임란 칸이 그랬고, 7월에는 브라질 자이르 보우소나루의 아바타가 등장했다. 2025년 가을 알바니아는 AI 기반(AI-powered) 가상 장관 디엘라를 임명했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "収監中のティラナ市長\nAIアバターで演説",
-     "body": "収監中のティラナ市長エリオン・ヴェリアイ氏が、AIアバターでディープフェイク演説をした。",
-     "mini_headline": "収監市長のAIアバター",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "ティラナのエリオン・ヴェリアイ市長が、首都のすべての子どもに学校給食を無償で提供すると約束する動画で波紋を呼んでいる。ヴェリアイ氏は現在収監中で、発表している青いスーツ姿の人物はAIで生成されたものだ。"
-       },
-       {
-        "t": "p",
-        "x": "公式Instagramアカウントに「AI-generated」と表示されて投稿された動画で、46歳の市長に似せた人物は在任中の実績を列挙する。「私を閉じ込めたこの独房からでも、この約束を守る」とヴェリアイ氏の分身は語る。"
-       },
-       {
-        "t": "p",
-        "x": "ヴェリアイ氏は汚職と金融犯罪の疑惑をめぐる捜査の中、2025年初めからドゥラスで収監されている。本人は不正を否定している。「私の人質状態は20カ月続いており、人工知能でしか皆さんにあいさつできない」とアバターは語る。"
-       },
-       {
-        "t": "p",
-        "x": "ティラナの出直し選挙は憲法裁判所の判断を受けて中止された。ヴェリアイ氏は副市長らに職務を委ねているが、2027年前半の地方選挙までは正式な市長にとどまる。"
-       },
-       {
-        "t": "p",
-        "x": "収監中の政治家がAIを使った例は過去にもある。2023年のパキスタンのイムラン・カーン氏、7月のブラジルのジャイル・ボルソナロ氏のアバターだ。アルバニアは2025年秋、AIを活用した（AI-powered）仮想大臣ディエラを任命した。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "狱中地拉那市长\n借AI虚拟形象发声",
-     "body": "身陷囹圄的地拉那市长埃里昂·韦利亚伊用AI虚拟形象发表了深度伪造演讲。",
-     "mini_headline": "狱中市长的AI分身",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "地拉那市长埃里昂·韦利亚伊发布视频，承诺为首都所有儿童提供免费午餐，引发轰动。韦利亚伊目前身在狱中，视频中身穿蓝色西装宣布这一承诺的人物由AI生成。"
-       },
-       {
-        "t": "p",
-        "x": "在其官方Instagram账号上一条标注为“AI-generated”的帖子中，这位46岁市长的仿真形象列举了自己的任内政绩。这个韦利亚伊分身说：“即使在他们把我关起来的这间牢房里，我也会兑现这个承诺。”"
-       },
-       {
-        "t": "p",
-        "x": "由于涉嫌腐败和金融犯罪接受调查，韦利亚伊自2025年初起被关押在都拉斯。他否认有任何不当行为。他的虚拟形象说：“我被扣为人质的状态已持续20个月，只能用人工智能向大家问好。”"
-       },
-       {
-        "t": "p",
-        "x": "宪法法院作出裁决后，地拉那的提前选举被取消。韦利亚伊已将职责委托给副市长，但在2027年上半年市政选举之前仍是正式市长。"
-       },
-       {
-        "t": "p",
-        "x": "被关押的政客此前也用过AI：2023年巴基斯坦的伊姆兰·汗，以及7月巴西雅伊尔·博索纳罗的虚拟形象。2025年秋，阿尔巴尼亚任命了由AI驱动（AI-powered）的虚拟部长迪埃拉。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El alcalde preso de Tirana\nhabla con un avatar de IA",
-     "body": "Erion Veliaj, alcalde preso de Tirana, dio un discurso deepfake con un avatar de IA desde la cárcel.",
-     "mini_headline": "El avatar de IA del alcalde preso",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg"
-       },
-       {
-        "t": "p",
-        "x": "El alcalde de Tirana, Erion Veliaj, ha causado revuelo con un video en el que promete almuerzos escolares gratuitos para todos los niños de la capital. Veliaj está en prisión, y la figura de traje azul que hace el anuncio está generada por IA."
-       },
-       {
-        "t": "p",
-        "x": "En una publicación de Instagram en su perfil oficial, etiquetada como “AI-generated”, la réplica del político de 46 años enumera sus logros en el cargo. “Cumpliré esta promesa incluso desde esta celda donde me han encerrado”, dice el clon de Veliaj."
-       },
-       {
-        "t": "p",
-        "x": "Veliaj está preso en Durres desde principios de 2025 en medio de investigaciones por presunta corrupción y delitos financieros. Niega cualquier irregularidad. “Mi situación de rehén dura ya 20 meses y solo puedo saludarlos con inteligencia artificial”, dice su avatar."
-       },
-       {
-        "t": "p",
-        "x": "Las elecciones anticipadas en Tirana se cancelaron tras un fallo del Tribunal Constitucional. Veliaj ha delegado funciones en los vicealcaldes, pero sigue siendo el alcalde oficial hasta las elecciones municipales del primer semestre de 2027."
-       },
-       {
-        "t": "p",
-        "x": "Otros políticos encarcelados ya han usado la IA: el pakistaní Imran Khan en 2023 y un avatar del brasileño Jair Bolsonaro en julio. En otoño de 2025, Albania nombró a Diella, una ministra virtual impulsada por IA (AI-powered)."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "politics-japan-usedbooks-ai",
-   "source_lang": "ko",
-   "eyebrow": "AI NEWS",
-   "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
-   "body": "일본서적출판협회가 AI 학습용 책 대량판매 의혹을 두고 유통업체에 질의서를 보냈다.",
-   "mini_headline": "日출판협회, AI 학습 반발",
-   "tool": "Politics",
-   "source": "yna.co.kr",
-   "url": "https://www.yna.co.kr/view/AKR20261006194100073",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "(도쿄=연합뉴스) 조성미 특파원 = 일본 출판사 단체가 도서 유통업체에 대해 미국 인공지능(AI) 모델 개발사에 AI 학습용으로 대량의 책을 팔아넘겼을 가능성을 따져 물었다고 교도통신이 6일 보도했다."
-     },
-     {
-      "t": "p",
-      "x": "일본서적출판협회는 도서 유통업체인 일본출판판매가 미국 앤트로픽에 서적을 대량으로 판매했을 가능성이 제기됨에 따라 사실 확인을 요청하는 질의서를 보냈다."
-     },
-     {
-      "t": "p",
-      "x": "출판협회는 일본출판판매에 대해 앤트로픽에 판매한 도서에 회원사의 간행물이 포함돼 있는지를 알릴 것과 출판사의 허락 없이 해외 사업자에게 도서를 대량으로 판매하는 행위에 대한 견해를 밝히라고 요구했다."
-     },
-     {
-      "t": "p",
-      "x": "앤트로픽에 대해 미국에서 제기된 저작권 소송의 재판 자료에는 일본출판판매로부터 서적을 구매한 과정이 기록된 것으로 전해졌다."
-     },
-     {
-      "t": "p",
-      "x": "일본서적출판협회 관계자는 \"AI 학습에 사용될 것을 알고 판매했다면 유감스러운 일\"이라며 출판사나 저자의 허락 없이 서적이 AI 학습 목적으로 팔려서는 안 된다고 강조했다."
-     },
-     {
-      "t": "p",
-      "x": "일본서적출판협회는 고단샤, 분게이슌주 등 일본의 대형 출판사를 포함한 380개 회원사로 구성돼 있다."
-     },
-     {
-      "t": "p",
-      "x": "일본에서는 최근 헌책방에서 철학·역사·의학·법률 등 전문 분야 책이 대량으로 팔리는 현상이 목격되면서 AI 모델 개발사가 학습용으로 사들여 스캔한 뒤 폐기한 것 아니냐는 의혹이 일었다."
-     },
-     {
-      "t": "p",
-      "x": "이와 관련해 니혼TV는 일본의 한 대형 도서 유통업체 자회사가 미국으로 책을 50톤(t) 이상 수출했다며 이는 약 10만권에 이르는 방대한 규모라고 전했다."
-     },
-     {
-      "t": "img",
-      "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-      "cap": "AI 학습 [연합뉴스TV 캡처]"
-     }
-    ]
-   },
-   "text": {
-    "ko": {
-     "headline": "日출판협회, 중고책\nAI 학습용 판매에 반발",
-     "body": "일본서적출판협회가 AI 학습용 책 대량판매 의혹을 두고 유통업체에 질의서를 보냈다.",
-     "mini_headline": "日출판협회, AI 학습 반발",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "(도쿄=연합뉴스) 조성미 특파원 = 일본 출판사 단체가 도서 유통업체에 대해 미국 인공지능(AI) 모델 개발사에 AI 학습용으로 대량의 책을 팔아넘겼을 가능성을 따져 물었다고 교도통신이 6일 보도했다."
-       },
-       {
-        "t": "p",
-        "x": "일본서적출판협회는 도서 유통업체인 일본출판판매가 미국 앤트로픽에 서적을 대량으로 판매했을 가능성이 제기됨에 따라 사실 확인을 요청하는 질의서를 보냈다."
-       },
-       {
-        "t": "p",
-        "x": "출판협회는 일본출판판매에 대해 앤트로픽에 판매한 도서에 회원사의 간행물이 포함돼 있는지를 알릴 것과 출판사의 허락 없이 해외 사업자에게 도서를 대량으로 판매하는 행위에 대한 견해를 밝히라고 요구했다."
-       },
-       {
-        "t": "p",
-        "x": "앤트로픽에 대해 미국에서 제기된 저작권 소송의 재판 자료에는 일본출판판매로부터 서적을 구매한 과정이 기록된 것으로 전해졌다."
-       },
-       {
-        "t": "p",
-        "x": "일본서적출판협회 관계자는 \"AI 학습에 사용될 것을 알고 판매했다면 유감스러운 일\"이라며 출판사나 저자의 허락 없이 서적이 AI 학습 목적으로 팔려서는 안 된다고 강조했다."
-       },
-       {
-        "t": "p",
-        "x": "일본서적출판협회는 고단샤, 분게이슌주 등 일본의 대형 출판사를 포함한 380개 회원사로 구성돼 있다."
-       },
-       {
-        "t": "p",
-        "x": "일본에서는 최근 헌책방에서 철학·역사·의학·법률 등 전문 분야 책이 대량으로 팔리는 현상이 목격되면서 AI 모델 개발사가 학습용으로 사들여 스캔한 뒤 폐기한 것 아니냐는 의혹이 일었다."
-       },
-       {
-        "t": "p",
-        "x": "이와 관련해 니혼TV는 일본의 한 대형 도서 유통업체 자회사가 미국으로 책을 50톤(t) 이상 수출했다며 이는 약 10만권에 이르는 방대한 규모라고 전했다."
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI 학습 [연합뉴스TV 캡처]"
-       }
-      ]
-     }
-    },
-    "en": {
-     "headline": "Japan publishers object to sale\nof used books for AI training",
-     "body": "The Japan Book Publishers Association sent a distributor questions over suspected bulk book sales for AI training.",
-     "mini_headline": "Japan publishers push back on AI training",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "(Tokyo=Yonhap) Correspondent Cho Sung-mi = A Japanese publishers' group has questioned a book distributor over the possibility that it sold large numbers of books to a U.S. artificial intelligence (AI) model developer for AI training, Kyodo News reported on the 6th."
-       },
-       {
-        "t": "p",
-        "x": "The Japan Book Publishers Association sent a letter of inquiry asking the book distributor Nippon Shuppan Hanbai to confirm the facts, after the possibility was raised that it had sold books in bulk to Anthropic in the U.S."
-       },
-       {
-        "t": "p",
-        "x": "The association asked Nippon Shuppan Hanbai to disclose whether the books sold to Anthropic included publications by its member companies, and to state its view on selling books in bulk to overseas businesses without publishers' permission."
-       },
-       {
-        "t": "p",
-        "x": "Court documents in a copyright lawsuit filed against Anthropic in the U.S. reportedly record the process of purchasing books from Nippon Shuppan Hanbai."
-       },
-       {
-        "t": "p",
-        "x": "An official of the Japan Book Publishers Association said, “If they sold the books knowing they would be used for AI training, that is regrettable,” stressing that books should not be sold for AI training without the permission of publishers or authors."
-       },
-       {
-        "t": "p",
-        "x": "The Japan Book Publishers Association consists of 380 member companies, including major Japanese publishers such as Kodansha and Bungeishunju."
-       },
-       {
-        "t": "p",
-        "x": "In Japan, suspicions arose that AI model developers had bought books for training, scanned them and then discarded them, after large volumes of specialist books on philosophy, history, medicine and law were recently seen selling at used bookstores."
-       },
-       {
-        "t": "p",
-        "x": "In this regard, Nippon TV reported that a subsidiary of a major Japanese book distributor had exported more than 50 tons (t) of books to the U.S., a massive volume amounting to about 100,000 books."
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI training [Yonhap News TV capture]"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "日本の出版協会、古書の\nAI学習用販売に反発",
-     "body": "日本書籍出版協会が、AI学習用の書籍大量販売の疑いをめぐり流通業者に質問状を送った。",
-     "mini_headline": "出版協会、AI学習に反発",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "（東京＝聯合ニュース）チョ・ソンミ特派員＝日本の出版社団体が、米国の人工知能（AI）モデル開発会社にAI学習用として大量の書籍を売り渡した可能性について書籍取次会社を問いただしたと、共同通信が6日報じた。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会は、書籍取次の日本出版販売が米Anthropicに書籍を大量に販売した可能性が浮上したことを受け、事実確認を求める質問状を送った。"
-       },
-       {
-        "t": "p",
-        "x": "協会は日本出版販売に対し、Anthropicに販売した書籍に会員社の刊行物が含まれているかを明らかにすることと、出版社の許諾なく海外事業者に書籍を大量販売する行為についての見解を示すことを求めた。"
-       },
-       {
-        "t": "p",
-        "x": "米国でAnthropicを相手に起こされた著作権訴訟の裁判資料には、日本出版販売から書籍を購入した経緯が記録されているという。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会の関係者は「AI学習に使われると知って販売したのなら遺憾だ」と述べ、出版社や著者の許諾なく書籍がAI学習目的で売られてはならないと強調した。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会は、講談社や文藝春秋など日本の大手出版社を含む380社の会員社で構成されている。"
-       },
-       {
-        "t": "p",
-        "x": "日本では最近、古書店で哲学・歴史・医学・法律などの専門書が大量に売れる現象が見られ、AIモデル開発会社が学習用に買い集めてスキャンした後、廃棄したのではないかとの疑惑が持ち上がった。"
-       },
-       {
-        "t": "p",
-        "x": "これに関連し日本テレビは、日本の大手書籍取次会社の子会社が米国に書籍を50トン（t）以上輸出したと伝え、約10万冊に上る膨大な規模だとした。"
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI学習［聯合ニュースTVキャプチャー］"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "日本出版协会反对\n二手书卖作AI训练",
-     "body": "日本书籍出版协会就书籍被大量出售用于AI训练的疑虑，向一家图书经销商发出了质询函。",
-     "mini_headline": "日本出版协会反对AI训练",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "（东京=韩联社）记者赵成美 = 据共同社6日报道，日本出版商团体就一家图书经销商可能为AI训练向美国人工智能（AI）模型开发商大量出售图书一事提出质询。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会因有人指出图书经销商日本出版贩卖可能向美国Anthropic大量出售书籍，发出了要求核实事实的质询函。"
-       },
-       {
-        "t": "p",
-        "x": "出版协会要求日本出版贩卖说明出售给Anthropic的图书中是否包含会员出版社的出版物，并就未经出版社许可向海外经营者大量出售图书的行为表明看法。"
-       },
-       {
-        "t": "p",
-        "x": "据悉，在美国针对Anthropic提起的版权诉讼的庭审资料中，记录了其从日本出版贩卖购买书籍的过程。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会相关人士表示：“如果明知将被用于AI训练还出售，那是令人遗憾的事。”他强调，未经出版社或作者许可，书籍不应被出售用于AI训练。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会由包括讲谈社、文艺春秋等日本大型出版社在内的380家会员公司组成。"
-       },
-       {
-        "t": "p",
-        "x": "近来在日本，旧书店里哲学、历史、医学、法律等专业领域书籍被大量售出的现象引人注目，由此引发疑问：是否是AI模型开发商买来用于训练，扫描后再销毁。"
-       },
-       {
-        "t": "p",
-        "x": "对此，日本电视台报道称，日本一家大型图书经销商的子公司向美国出口了50吨（t）以上的书籍，规模庞大，约达10万册。"
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI训练 [韩联社TV截图]"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Editores de Japón rechazan la\nventa de libros usados para IA",
-     "body": "La Asociación de Editores de Libros de Japón envió preguntas a un distribuidor por presuntas ventas masivas para IA.",
-     "mini_headline": "Editores japoneses contra el uso para IA",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "(Tokio=Yonhap) Corresponsal Cho Sung-mi = Una agrupación de editoriales japonesas pidió explicaciones a un distribuidor de libros por la posibilidad de que vendiera grandes cantidades de libros a un desarrollador estadounidense de modelos de inteligencia artificial (IA) para entrenar IA, informó la agencia Kyodo el día 6."
-       },
-       {
-        "t": "p",
-        "x": "La Asociación de Editores de Libros de Japón envió una carta de consulta para pedir la verificación de los hechos, después de que surgiera la posibilidad de que el distribuidor Nippon Shuppan Hanbai hubiera vendido libros en grandes cantidades a la estadounidense Anthropic."
-       },
-       {
-        "t": "p",
-        "x": "La asociación pidió a Nippon Shuppan Hanbai que informara si los libros vendidos a Anthropic incluían publicaciones de sus miembros y que expusiera su postura sobre la venta masiva de libros a empresas extranjeras sin permiso de las editoriales."
-       },
-       {
-        "t": "p",
-        "x": "Según se informó, los documentos judiciales de una demanda por derechos de autor presentada contra Anthropic en Estados Unidos registran el proceso de compra de libros a Nippon Shuppan Hanbai."
-       },
-       {
-        "t": "p",
-        "x": "Un responsable de la Asociación de Editores de Libros de Japón afirmó que “si los vendieron sabiendo que se usarían para entrenar IA, es lamentable”, y subrayó que los libros no deben venderse con fines de entrenamiento de IA sin permiso de las editoriales o de los autores."
-       },
-       {
-        "t": "p",
-        "x": "La Asociación de Editores de Libros de Japón está formada por 380 empresas miembro, entre ellas grandes editoriales japonesas como Kodansha y Bungeishunju."
-       },
-       {
-        "t": "p",
-        "x": "En Japón surgieron sospechas de que desarrolladores de modelos de IA compraban libros para entrenamiento, los escaneaban y luego los desechaban, después de que se observara recientemente la venta masiva de libros especializados de filosofía, historia, medicina y derecho en librerías de segunda mano."
-       },
-       {
-        "t": "p",
-        "x": "En este contexto, Nippon TV informó que una filial de un gran distribuidor de libros japonés exportó más de 50 toneladas (t) de libros a Estados Unidos, un volumen enorme equivalente a unos 100.000 ejemplares."
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "Entrenamiento de IA [captura de Yonhap News TV]"
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "en": {
-     "headline": "Japan publishers object to sale\nof used books for AI training",
-     "body": "The Japan Book Publishers Association sent a distributor questions over suspected bulk book sales for AI training.",
-     "mini_headline": "Japan publishers push back on AI training",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "(Tokyo=Yonhap) Correspondent Cho Sung-mi = A Japanese publishers' group has questioned a book distributor over the possibility that it sold large numbers of books to a U.S. artificial intelligence (AI) model developer for AI training, Kyodo News reported on the 6th."
-       },
-       {
-        "t": "p",
-        "x": "The Japan Book Publishers Association sent a letter of inquiry asking the book distributor Nippon Shuppan Hanbai to confirm the facts, after the possibility was raised that it had sold books in bulk to Anthropic in the U.S."
-       },
-       {
-        "t": "p",
-        "x": "The association asked Nippon Shuppan Hanbai to disclose whether the books sold to Anthropic included publications by its member companies, and to state its view on selling books in bulk to overseas businesses without publishers' permission."
-       },
-       {
-        "t": "p",
-        "x": "Court documents in a copyright lawsuit filed against Anthropic in the U.S. reportedly record the process of purchasing books from Nippon Shuppan Hanbai."
-       },
-       {
-        "t": "p",
-        "x": "An official of the Japan Book Publishers Association said, “If they sold the books knowing they would be used for AI training, that is regrettable,” stressing that books should not be sold for AI training without the permission of publishers or authors."
-       },
-       {
-        "t": "p",
-        "x": "The Japan Book Publishers Association consists of 380 member companies, including major Japanese publishers such as Kodansha and Bungeishunju."
-       },
-       {
-        "t": "p",
-        "x": "In Japan, suspicions arose that AI model developers had bought books for training, scanned them and then discarded them, after large volumes of specialist books on philosophy, history, medicine and law were recently seen selling at used bookstores."
-       },
-       {
-        "t": "p",
-        "x": "In this regard, Nippon TV reported that a subsidiary of a major Japanese book distributor had exported more than 50 tons (t) of books to the U.S., a massive volume amounting to about 100,000 books."
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI training [Yonhap News TV capture]"
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "日本の出版協会、古書の\nAI学習用販売に反発",
-     "body": "日本書籍出版協会が、AI学習用の書籍大量販売の疑いをめぐり流通業者に質問状を送った。",
-     "mini_headline": "出版協会、AI学習に反発",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "（東京＝聯合ニュース）チョ・ソンミ特派員＝日本の出版社団体が、米国の人工知能（AI）モデル開発会社にAI学習用として大量の書籍を売り渡した可能性について書籍取次会社を問いただしたと、共同通信が6日報じた。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会は、書籍取次の日本出版販売が米Anthropicに書籍を大量に販売した可能性が浮上したことを受け、事実確認を求める質問状を送った。"
-       },
-       {
-        "t": "p",
-        "x": "協会は日本出版販売に対し、Anthropicに販売した書籍に会員社の刊行物が含まれているかを明らかにすることと、出版社の許諾なく海外事業者に書籍を大量販売する行為についての見解を示すことを求めた。"
-       },
-       {
-        "t": "p",
-        "x": "米国でAnthropicを相手に起こされた著作権訴訟の裁判資料には、日本出版販売から書籍を購入した経緯が記録されているという。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会の関係者は「AI学習に使われると知って販売したのなら遺憾だ」と述べ、出版社や著者の許諾なく書籍がAI学習目的で売られてはならないと強調した。"
-       },
-       {
-        "t": "p",
-        "x": "日本書籍出版協会は、講談社や文藝春秋など日本の大手出版社を含む380社の会員社で構成されている。"
-       },
-       {
-        "t": "p",
-        "x": "日本では最近、古書店で哲学・歴史・医学・法律などの専門書が大量に売れる現象が見られ、AIモデル開発会社が学習用に買い集めてスキャンした後、廃棄したのではないかとの疑惑が持ち上がった。"
-       },
-       {
-        "t": "p",
-        "x": "これに関連し日本テレビは、日本の大手書籍取次会社の子会社が米国に書籍を50トン（t）以上輸出したと伝え、約10万冊に上る膨大な規模だとした。"
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI学習［聯合ニュースTVキャプチャー］"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "日本出版协会反对\n二手书卖作AI训练",
-     "body": "日本书籍出版协会就书籍被大量出售用于AI训练的疑虑，向一家图书经销商发出了质询函。",
-     "mini_headline": "日本出版协会反对AI训练",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "（东京=韩联社）记者赵成美 = 据共同社6日报道，日本出版商团体就一家图书经销商可能为AI训练向美国人工智能（AI）模型开发商大量出售图书一事提出质询。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会因有人指出图书经销商日本出版贩卖可能向美国Anthropic大量出售书籍，发出了要求核实事实的质询函。"
-       },
-       {
-        "t": "p",
-        "x": "出版协会要求日本出版贩卖说明出售给Anthropic的图书中是否包含会员出版社的出版物，并就未经出版社许可向海外经营者大量出售图书的行为表明看法。"
-       },
-       {
-        "t": "p",
-        "x": "据悉，在美国针对Anthropic提起的版权诉讼的庭审资料中，记录了其从日本出版贩卖购买书籍的过程。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会相关人士表示：“如果明知将被用于AI训练还出售，那是令人遗憾的事。”他强调，未经出版社或作者许可，书籍不应被出售用于AI训练。"
-       },
-       {
-        "t": "p",
-        "x": "日本书籍出版协会由包括讲谈社、文艺春秋等日本大型出版社在内的380家会员公司组成。"
-       },
-       {
-        "t": "p",
-        "x": "近来在日本，旧书店里哲学、历史、医学、法律等专业领域书籍被大量售出的现象引人注目，由此引发疑问：是否是AI模型开发商买来用于训练，扫描后再销毁。"
-       },
-       {
-        "t": "p",
-        "x": "对此，日本电视台报道称，日本一家大型图书经销商的子公司向美国出口了50吨（t）以上的书籍，规模庞大，约达10万册。"
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "AI训练 [韩联社TV截图]"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Editores de Japón rechazan la\nventa de libros usados para IA",
-     "body": "La Asociación de Editores de Libros de Japón envió preguntas a un distribuidor por presuntas ventas masivas para IA.",
-     "mini_headline": "Editores japoneses contra el uso para IA",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "(Tokio=Yonhap) Corresponsal Cho Sung-mi = Una agrupación de editoriales japonesas pidió explicaciones a un distribuidor de libros por la posibilidad de que vendiera grandes cantidades de libros a un desarrollador estadounidense de modelos de inteligencia artificial (IA) para entrenar IA, informó la agencia Kyodo el día 6."
-       },
-       {
-        "t": "p",
-        "x": "La Asociación de Editores de Libros de Japón envió una carta de consulta para pedir la verificación de los hechos, después de que surgiera la posibilidad de que el distribuidor Nippon Shuppan Hanbai hubiera vendido libros en grandes cantidades a la estadounidense Anthropic."
-       },
-       {
-        "t": "p",
-        "x": "La asociación pidió a Nippon Shuppan Hanbai que informara si los libros vendidos a Anthropic incluían publicaciones de sus miembros y que expusiera su postura sobre la venta masiva de libros a empresas extranjeras sin permiso de las editoriales."
-       },
-       {
-        "t": "p",
-        "x": "Según se informó, los documentos judiciales de una demanda por derechos de autor presentada contra Anthropic en Estados Unidos registran el proceso de compra de libros a Nippon Shuppan Hanbai."
-       },
-       {
-        "t": "p",
-        "x": "Un responsable de la Asociación de Editores de Libros de Japón afirmó que “si los vendieron sabiendo que se usarían para entrenar IA, es lamentable”, y subrayó que los libros no deben venderse con fines de entrenamiento de IA sin permiso de las editoriales o de los autores."
-       },
-       {
-        "t": "p",
-        "x": "La Asociación de Editores de Libros de Japón está formada por 380 empresas miembro, entre ellas grandes editoriales japonesas como Kodansha y Bungeishunju."
-       },
-       {
-        "t": "p",
-        "x": "En Japón surgieron sospechas de que desarrolladores de modelos de IA compraban libros para entrenamiento, los escaneaban y luego los desechaban, después de que se observara recientemente la venta masiva de libros especializados de filosofía, historia, medicina y derecho en librerías de segunda mano."
-       },
-       {
-        "t": "p",
-        "x": "En este contexto, Nippon TV informó que una filial de un gran distribuidor de libros japonés exportó más de 50 toneladas (t) de libros a Estados Unidos, un volumen enorme equivalente a unos 100.000 ejemplares."
-       },
-       {
-        "t": "img",
-        "src": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-        "cap": "Entrenamiento de IA [captura de Yonhap News TV]"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "politics-latino-ai-voter-guide",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
-   "body": "전국 라티노 시민단체가 복잡한 선거 제도를 안내하는 이중언어 AI 앱을 내놨다.",
-   "mini_headline": "이중언어 AI 투표 안내",
-   "tool": "Politics",
-   "source": "axios.com",
-   "url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
-   "accent": "#ff5a4d",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-     },
-     {
-      "t": "p",
-      "x": "전국 단위의 라티노 시민참여 단체가 AI 앱을 앞세웠다. 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕겠다는 것이다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
-     },
-     {
-      "t": "p",
-      "x": "Mi Familia en Acción은 지난주 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보를 묻는 질문에 답하는 앱이다. 50개 주 전역에서 운영되고, 지역이나 선거구 단위에 맞춘 정보도 제공할 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람이 검토하며 안전장치도 둔다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
-     },
-     {
-      "t": "p",
-      "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했다. 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고도 말했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Latino civic group bets on\nbilingual AI for midterms",
-     "body": "A national Latino civic group is turning to a bilingual AI app to help voters navigate a complicated election system.",
-     "mini_headline": "Bilingual AI voter guide",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "A national Latino civic engagement group is turning to an AI app to help voters cut through an increasingly complicated election system — in English or Spanish. Nearly 39 million Hispanics can vote in this year’s midterms, according to Pew Research Center."
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción launched Nubi last week, a bilingual AI-powered app that answers questions about voting, voter registration, citizenship and Know Your Rights information. It operates in all 50 states and can tailor information to the local or district level."
-       },
-       {
-        "t": "p",
-        "x": "President and CEO Héctor Sánchez Barba says that unlike a general-purpose chatbot, Nubi doesn’t search the open internet: the organization feeds it information from sources it considers reliable, with human review and guardrails. If Nubi doesn’t have an answer, it is designed to say so and direct the user to a trusted source."
-       },
-       {
-        "t": "p",
-        "x": "The organization financed development itself. Sánchez stressed that Nubi is nonpartisan and doesn’t recommend candidates or causes, and said it won’t replace door-knocking and other traditional organizing."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
-     "body": "전국 라티노 시민단체가 복잡한 선거 제도를 안내하는 이중언어 AI 앱을 내놨다.",
-     "mini_headline": "이중언어 AI 투표 안내",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "전국 단위의 라티노 시민참여 단체가 AI 앱을 앞세웠다. 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕겠다는 것이다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción은 지난주 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보를 묻는 질문에 답하는 앱이다. 50개 주 전역에서 운영되고, 지역이나 선거구 단위에 맞춘 정보도 제공할 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람이 검토하며 안전장치도 둔다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
-       },
-       {
-        "t": "p",
-        "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했다. 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고도 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ラティーノ団体、中間選挙で\nバイリンガルAIに賭ける",
-     "body": "全米規模のラティーノ市民団体が、複雑な選挙制度の案内にバイリンガルAIアプリを活用する。",
-     "mini_headline": "バイリンガルAI投票ガイド",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "全米規模のラティーノ市民参加団体が、ますます複雑になる選挙制度を有権者が英語またはスペイン語で理解できるよう、AIアプリの活用に乗り出した。ピュー・リサーチ・センターによると、今年の中間選挙で投票できるヒスパニックは3900万人近くに上る。"
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acciónは先週、投票や有権者登録、市民権、「Know Your Rights（権利を知ろう）」情報に関する質問に答える、AIを活用した（AI-powered）バイリンガルアプリ「Nubi」を公開した。全50州で利用でき、地域や選挙区単位に合わせた情報を提供できる。"
-       },
-       {
-        "t": "p",
-        "x": "代表兼CEOのエクトル・サンチェス・バルバ氏によると、Nubiは汎用チャットボットと異なり、インターネット全体を検索しない。団体が信頼できると判断した情報源の情報を与え、人間による確認とガードレールを設けている。答えを持たない場合はそう伝え、信頼できる情報源へ利用者を案内するよう設計されている。"
-       },
-       {
-        "t": "p",
-        "x": "開発資金は団体が自ら賄った。サンチェス氏は、Nubiは超党派で候補者や主張を推奨しないと強調し、戸別訪問などの従来の組織活動に取って代わるものではないと述べた。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "拉丁裔公民团体\n中期选举押注双语AI",
-     "body": "一个全国性拉丁裔公民团体借助双语AI应用，帮助选民理解复杂的选举制度。",
-     "mini_headline": "双语AI选民指南",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "一个全国性拉丁裔公民参与团体正借助一款AI应用，帮助选民以英语或西班牙语理清日益复杂的选举制度。据皮尤研究中心统计，今年中期选举中有近3900万西班牙裔具有投票资格。"
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción上周推出了由AI驱动（AI-powered）的双语应用Nubi，可回答有关投票、选民登记、公民身份以及“了解你的权利”（Know Your Rights）信息的问题。该应用覆盖全部50个州，并可将信息细化到地方或选区层面。"
-       },
-       {
-        "t": "p",
-        "x": "该组织主席兼CEO埃克托·桑切斯·巴尔巴表示，与通用聊天机器人不同，Nubi不会搜索开放互联网：组织会向其输入来自其认为可靠来源的信息，并辅以人工审核和防护措施。如果Nubi没有答案，它会如实说明，并引导用户查询可信来源。"
-       },
-       {
-        "t": "p",
-        "x": "该组织自行出资开发。桑切斯强调，Nubi不分党派，不推荐任何候选人或主张，也不会取代挨家挨户拉票等传统组织工作。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Grupo cívico latino apuesta por\nIA bilingüe para las intermedias",
-     "body": "Un grupo cívico latino recurre a una app de IA bilingüe para guiar a los votantes en un sistema electoral complejo.",
-     "mini_headline": "Guía electoral bilingüe con IA",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "Un grupo nacional latino de participación cívica recurre a una aplicación de IA para ayudar a los votantes a orientarse en un sistema electoral cada vez más complicado, en inglés o en español. Casi 39 millones de hispanos pueden votar en las elecciones de mitad de mandato de este año, según el Pew Research Center."
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción lanzó la semana pasada Nubi, una aplicación bilingüe impulsada por IA (AI-powered) que responde preguntas sobre el voto, el registro de votantes, la ciudadanía e información de Know Your Rights. Funciona en los 50 estados y puede adaptar la información al nivel local o de distrito."
-       },
-       {
-        "t": "p",
-        "x": "Su presidente y CEO, Héctor Sánchez Barba, explica que, a diferencia de un chatbot de uso general, Nubi no busca en internet abierto: la organización le suministra información de fuentes que considera fiables, con revisión humana y salvaguardas. Si Nubi no tiene una respuesta, está diseñada para decirlo y dirigir al usuario a una fuente de confianza."
-       },
-       {
-        "t": "p",
-        "x": "La organización financió el desarrollo por su cuenta. Sánchez subrayó que Nubi es apartidista y no recomienda candidatos ni causas, y dijo que no sustituirá el puerta a puerta ni otras formas tradicionales de organización."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "라티노 시민단체, 중간선거\n이중언어 AI에 건다",
-     "body": "전국 라티노 시민단체가 복잡한 선거 제도 안내를 위해 이중언어 AI 앱을 내놨다.",
-     "mini_headline": "이중언어 AI 투표 안내",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "전국 단위의 라티노 시민참여 단체가 갈수록 복잡해지는 선거 제도를 유권자가 영어나 스페인어로 헤쳐 나가도록 돕기 위해 AI 앱을 활용하고 나섰다. 퓨리서치센터에 따르면 올해 중간선거에서 투표할 수 있는 히스패닉은 3900만 명에 가깝다."
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción은 지난주 투표, 유권자 등록, 시민권, ‘Know Your Rights(권리 알기)’ 정보에 관한 질문에 답하는 이중언어 AI 기반(AI-powered) 앱 Nubi를 출시했다. 이 앱은 50개 주 전역에서 운영되며 지역이나 선거구 단위에 맞춘 정보를 제공할 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "엑토르 산체스 바르바 대표 겸 CEO는 Nubi가 범용 챗봇과 달리 인터넷 전체를 검색하지 않는다고 설명한다. 단체가 신뢰할 만하다고 판단한 출처의 정보를 넣고, 사람의 검토와 안전장치를 거친다. Nubi는 답이 없으면 그렇다고 밝히고 사용자를 믿을 만한 출처로 안내하도록 설계됐다."
-       },
-       {
-        "t": "p",
-        "x": "개발비는 단체가 자체 조달했다. 산체스는 Nubi가 초당파적이며 후보나 대의를 추천하지 않는다고 강조했고, 호별 방문 같은 전통적 조직 활동을 대체하지는 않을 것이라고 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ラティーノ団体、中間選挙で\nバイリンガルAIに賭ける",
-     "body": "全米規模のラティーノ市民団体が、複雑な選挙制度の案内にバイリンガルAIアプリを活用する。",
-     "mini_headline": "バイリンガルAI投票ガイド",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "全米規模のラティーノ市民参加団体が、ますます複雑になる選挙制度を有権者が英語またはスペイン語で理解できるよう、AIアプリの活用に乗り出した。ピュー・リサーチ・センターによると、今年の中間選挙で投票できるヒスパニックは3900万人近くに上る。"
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acciónは先週、投票や有権者登録、市民権、「Know Your Rights（権利を知ろう）」情報に関する質問に答える、AIを活用した（AI-powered）バイリンガルアプリ「Nubi」を公開した。全50州で利用でき、地域や選挙区単位に合わせた情報を提供できる。"
-       },
-       {
-        "t": "p",
-        "x": "代表兼CEOのエクトル・サンチェス・バルバ氏によると、Nubiは汎用チャットボットと異なり、インターネット全体を検索しない。団体が信頼できると判断した情報源の情報を与え、人間による確認とガードレールを設けている。答えを持たない場合はそう伝え、信頼できる情報源へ利用者を案内するよう設計されている。"
-       },
-       {
-        "t": "p",
-        "x": "開発資金は団体が自ら賄った。サンチェス氏は、Nubiは超党派で候補者や主張を推奨しないと強調し、戸別訪問などの従来の組織活動に取って代わるものではないと述べた。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "拉丁裔公民团体\n中期选举押注双语AI",
-     "body": "一个全国性拉丁裔公民团体借助双语AI应用，帮助选民理解复杂的选举制度。",
-     "mini_headline": "双语AI选民指南",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "一个全国性拉丁裔公民参与团体正借助一款AI应用，帮助选民以英语或西班牙语理清日益复杂的选举制度。据皮尤研究中心统计，今年中期选举中有近3900万西班牙裔具有投票资格。"
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción上周推出了由AI驱动（AI-powered）的双语应用Nubi，可回答有关投票、选民登记、公民身份以及“了解你的权利”（Know Your Rights）信息的问题。该应用覆盖全部50个州，并可将信息细化到地方或选区层面。"
-       },
-       {
-        "t": "p",
-        "x": "该组织主席兼CEO埃克托·桑切斯·巴尔巴表示，与通用聊天机器人不同，Nubi不会搜索开放互联网：组织会向其输入来自其认为可靠来源的信息，并辅以人工审核和防护措施。如果Nubi没有答案，它会如实说明，并引导用户查询可信来源。"
-       },
-       {
-        "t": "p",
-        "x": "该组织自行出资开发。桑切斯强调，Nubi不分党派，不推荐任何候选人或主张，也不会取代挨家挨户拉票等传统组织工作。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Grupo cívico latino apuesta por\nIA bilingüe para las intermedias",
-     "body": "Un grupo cívico latino recurre a una app de IA bilingüe para guiar a los votantes en un sistema electoral complejo.",
-     "mini_headline": "Guía electoral bilingüe con IA",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif"
-       },
-       {
-        "t": "p",
-        "x": "Un grupo nacional latino de participación cívica recurre a una aplicación de IA para ayudar a los votantes a orientarse en un sistema electoral cada vez más complicado, en inglés o en español. Casi 39 millones de hispanos pueden votar en las elecciones de mitad de mandato de este año, según el Pew Research Center."
-       },
-       {
-        "t": "p",
-        "x": "Mi Familia en Acción lanzó la semana pasada Nubi, una aplicación bilingüe impulsada por IA (AI-powered) que responde preguntas sobre el voto, el registro de votantes, la ciudadanía e información de Know Your Rights. Funciona en los 50 estados y puede adaptar la información al nivel local o de distrito."
-       },
-       {
-        "t": "p",
-        "x": "Su presidente y CEO, Héctor Sánchez Barba, explica que, a diferencia de un chatbot de uso general, Nubi no busca en internet abierto: la organización le suministra información de fuentes que considera fiables, con revisión humana y salvaguardas. Si Nubi no tiene una respuesta, está diseñada para decirlo y dirigir al usuario a una fuente de confianza."
-       },
-       {
-        "t": "p",
-        "x": "La organización financió el desarrollo por su cuenta. Sánchez subrayó que Nubi es apartidista y no recomienda candidatos ni causas, y dijo que no sustituirá el puerta a puerta ni otras formas tradicionales de organización."
-       }
-      ]
-     }
-    }
-   }
-  }
- ]
+  ]
 }

@@ -12070,6 +12070,147 @@
           "x": "오디오 변화는 이제 막 배포를 시작했다. 길안내는 Meta AI 앱 업데이트로 이미 널리 풀리는 중이다."
         }
       ]
+    },
+    "gadgets/gadgets-copilot-windows-local-files": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 오늘 열린 Windows·Surface 행사에서 한층 업그레이드된 Copilot AI 시스템을 선보였다. 이제 Copilot은 PC의 로컬 파일에 접근하고 OS 전반에서 작업을 실행하게 된다. Microsoft가 “Hybrid Intelligence”라 부르는 구상의 일부로, 앱과 도구가 로컬 AI 모델과 클라우드 AI 모델을 섞어 써서 일을 효율적으로 처리하는 방식이다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft에서 Copilot을 맡은 EVP Jacob Andreou는 무대에서 영상 데모로 Hybrid Intelligence가 어떻게 돌아가는지 보여 줬다. 데모에서 그는 Microsoft의 Autopilot 도구에 세금 신고를 도와 달라고 했다. 회계사에게서 이메일을 받았다고 AI 에이전트에게 알리고, 회계사가 필요한 자료를 챙겨 달라고 Autopilot에 부탁했다. Autopilot은 Hybrid Intelligence로 여러 폴더를 뒤져 문서를 찾고 파일 이름을 바꿨다. 이어 한 폴더로 zip 압축하고, 그 zip 파일을 첨부해 회계사에게 보낼 이메일 초안까지 써 두었다."
+        },
+        {
+          "t": "p",
+          "x": "Andreou는 Hybrid Intelligence 기반 기능이 “앞으로 두어 달” 안에 Copilot에 들어온다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 검색창에서 곧바로 간단한 작업을 처리하는 새 Windows 검색 경험도 공개했다. 다크 모드를 켜고, 인라인(in-line) 슬라이더로 마이크 볼륨을 높이고, 문자도 보낸다. Windows·Surface 책임자 Pavan Davuluri는 새 경험을 올가을부터 Windows 11 PCs에서 쓸 수 있다고 밝혔다."
+        }
+      ]
+    },
+    "gadgets/gadgets-one-ui-9-galaxy-s26-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9는 Galaxy S26, S26+, S26 Ultra에 Android 17과 여러 새 기능을 들여온다. Galaxy AI 도구가 늘고 사용자 설정 옵션도 많아진다. S26 시리즈는 One UI 8.5로 나왔기 때문에 이미 쓸 수 있던 기능도 일부 있다."
+        },
+        {
+          "t": "p",
+          "x": "Call Brief는 통화 화면에 관련 정보를 띄운다. 해외로 전화를 걸면 상대방의 국가와 현지 시각을 보여 주는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "My FanCam은 기존 영상을 사용자가 고른 인물 중심으로 잘라 새 버전을 만든다. Gallery에서 영상을 열어 Galaxy AI 아이콘을 누르고 인물과 방향, 화면 비율을 고른 다음 Follow를 누르면 끝이다."
+        },
+        {
+          "t": "video",
+          "yt": "cWtvEpKt8Tw"
+        },
+        {
+          "t": "p",
+          "x": "Now Brief에는 사용자 지정 카드가 생긴다. 날씨, 건강, 영상 정보로 최대 세 장까지 만들고 언제 띄울지도 직접 정한다."
+        },
+        {
+          "t": "p",
+          "x": "나머지 업데이트는 non-AI 기능이다. 크기 조절이 되는 Quick Panel 컨트롤, Warranty and care 섹션, 세 가지 크기의 Bixby 홈 화면 위젯, Dual Recording 분할 레이아웃, Driving Report, 한결 쉬워진 Samsung DeX 데스크톱 관리 등이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Good Lock의 Home Up에는 pinch-out으로 AI Select를 여는 등 multi-finger 제스처가 추가된다. One UI 9에서 가장 눈여겨볼 대목은 늘어난 AI 도구와 소소한 편의 기능이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-tony-fadell-ai-gadgets-failed": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "Tony Fadell은 첫 MIT Future Fest에서 단종된 AI 기기 세 가지, Rabbit R1, Humane Ai pin, Limitless pendant를 슬라이드에 띄웠다. 그는 “이것들은 일종의 ‘Gen 1’ AI 제품이었고, 제 이력 때문에 이 회사들이 제게 연락해 도와 달라고 했다”며 “저는 돕지 않았다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 “무엇을 하려는지, 어떤 고통을 해결하려는지 정말로 이해해야 한다”며 “이 사례들은 하나같이 어떤 필요도 충족하지 못했다. 그저 괴짜들에게 흥미로운 기술이었을 뿐”이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Fadell은 “사람 [비서]에게 무언가를 맡겨 본 적이 있는 사람은 세계 인구의 0.01%도 안 된다”며 “우리가 어떤 형태의 지능에 무엇을 넘기든 신뢰와 안전이 가장 중요해질 것”이라고 말했다. 그가 보기에 이 일을 해낼 곳은 Apple, 그리고 어쩌면 다른 한 회사 정도다. 성공하는 에이전트는 on-device로만 작동해야 할 것이라는 전망도 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "Meta와 OpenAI가 기기로 눈을 돌리는 건 휴대폰 센서에 접근할 수 없어서라는 게 그의 진단이다. 그는 “스타트업이라 기회는 한 번뿐”이라며 “Vision Pro를 낸 Apple과는 다르다”고 꼬집었다."
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-27-2-messages-ai-suggestions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "t": "p",
+          "x": "지금 iOS 27.2 beta에는 Messages 앱의 Siri AI “제안된 동작” 기능이 들어 있다. 쓸모 있다는 사람도, 성가시다는 사람도 나올 법한 기능이다."
+        },
+        {
+          "t": "p",
+          "x": "Suggested Actions는 첫 iOS 27 beta에 있었다. 그런데 일부 제안이 꽤 엉뚱하다는 불만이 나오자 Apple이 기능을 뺐고, 이번 iOS 27.2 beta에서 다시 돌아왔다. Messages는 대화 맥락을 보고 Add to Reminders, Add to Notes 같은 one-tap 제안이나 요청한 사진을 바로 찾아 주는 버튼을 띄운다."
+        },
+        {
+          "t": "p",
+          "x": "유출 제보자 pdfu는 iOS 27.2 beta 3 코드에서 원치 않는 제안을 골라 끄는 새 컨트롤을 찾아냈다. 카테고리별로 제안을 끄거나, 최근 30일 동안 안 쓴 카테고리는 Siri AI가 숨기게 할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이 옵션들은 아직 beta에 적용되지 않았지만 머지않아 만나 볼 수 있을 전망이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-ghost-core": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "스타트업 Ghost의 첫 제품은 Core다. LLMs(대규모 언어 모델)를 기기 안에서만 돌리는 로컬 AI 에이전트용 PC다. Ghost는 이를 \"모델을 전부 기기에서 실행하는 개인용 AI 컴퓨터\"라고 부른다. 사용자의 앱과 파일, 기기에 연결돼 \"시간이 지나며 당신의 삶에 대한 맥락을 쌓아 간다\"는 설명이다. 창업자 겸 CEO Zain Javaid의 표현으로는 \"상자 속 두뇌\"다. 회사는 막 1100만 달러를 투자받았다."
+        },
+        {
+          "t": "p",
+          "x": "Core의 중심은 24GB 비디오 RAM을 갖춘 Nvidia RTX Pro 4000 (Blackwell)이다. 여기에 64GB DDR5를 더해 770 TOPS를 낸다. Qwen-3.8-Next, Qwen-3.8-27B, Gemma-4-31B 모델이 미리 깔려 나오고, 모델 업데이트는 무선으로 받는다. 휴대폰이나 노트북 앱으로 조작하며 음성으로도 쓸 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+          "cap": "케이스를 벗겨 부품을 드러낸 Ghost Core AI PC"
+        },
+        {
+          "t": "p",
+          "x": "개인 데이터는 암호화돼 Ghost조차 들여다볼 수 없다. Ghost가 문을 닫아도 기기는 계속 돌아가도록 만들었고 구독료도 없다. 방화벽은 에이전트가 자격 증명을 쓰는 방식을 제한하고, 의심스러운 외부 요청은 따로 표시해 사용자가 검토하게 한다."
+        },
+        {
+          "t": "p",
+          "x": "Core는 미국에서 $3,499에 팔린다. 첫 물량은 출시 첫날 매진됐고 배송은 이달 말이다. AI용 최고 사양 Mac mini는 $3,199다. 다만 Core 같은 전용 로컬 AI(local-AI) 소프트웨어와 개인정보 보호 기능은 없다."
+        }
+      ]
     }
   }
 }

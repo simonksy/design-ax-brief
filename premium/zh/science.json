@@ -5976,6 +5976,150 @@
           "x": "Ken Shepard实验室的CMOS芯片负责读取荧光，用户只需把一次性试棒浸入水中即可立即读数。Cornish估计，其成本将比现有方法低几个数量级。"
         }
       ]
+    },
+    "science/science-satellite-damage-through-smoke": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一项新技术已经问世：即便灾害发生后卫星图像的部分区域被云层或烟雾遮挡，也能快速预测城市尺度的结构损毁。"
+        },
+        {
+          "t": "p",
+          "x": "Seoul National University(首尔大学)In Ho Cho教授领导的团队，将把结构工程知识融入AI的Scientific AI方法，与重建缺失数据的统计插补方法相结合。研究成果发表于Scientific Reports。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+          "cap": "利用大型台风前后的卫星图像及图像无序度(熵)得到的城市尺度(City-scale)损毁预测结果。来源：Scientific Reports"
+        },
+        {
+          "t": "p",
+          "x": "该框架利用图像熵(衡量灾前与灾后卫星图像无序程度的指标)以及公开数据。与最先进的AI方法不同，它不需要成本高昂的训练阶段。"
+        },
+        {
+          "t": "p",
+          "x": "在一次大型台风案例中，即使超过50%的图像被云层遮挡，它对遮挡区域下方建筑损毁的预测误差仍低于5%。该方法也被应用于一次大型山火案例。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
+          "cap": "将所开发框架应用于大型山火损毁案例的结果示例。来源：Scientific Reports"
+        }
+      ]
+    },
+    "science/science-ai2-astabrief-open-weights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2打造了AstaBrief 8B 模型，可将研究问题和检索到的文献摘录转化为带引用的报告。它以Fast mode的形式出现在Asta的Generate a report功能中，与Claude-powered Thinking mode并列；Ai2还将开源该模型及其训练数据。"
+        },
+        {
+          "t": "p",
+          "x": "Fast mode生成每份报告平均耗时51.1秒，而Thinking mode为178.5秒，速度快约3.5×。开放权重(Open weights)让机构可以在自有基础设施上运行模型，当问题本身会暴露敏感或未发表的研究时，这一点必不可少。"
+        },
+        {
+          "t": "p",
+          "x": "Ai2以Qwen3-8B为起点，专注于后训练数据，采用监督微调和DPO，使AstaBrief的表现接近Claude-powered流程和DR Tulu。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
+          "cap": "与Claude-powered Thinking mode相比的LLM-judged成对胜率"
+        },
+        {
+          "t": "p",
+          "x": "在试用过Fast mode的374名Asta用户中，29.1%使用了两天或以上。"
+        }
+      ]
+    },
+    "science/science-haiqu-agenticos-quantum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Haiqu推出了AgenticOS，该系统协调多个专业AI智能体，在人类监督下规划、验证量子研究实验，并为硬件执行做好准备。"
+        },
+        {
+          "t": "p",
+          "x": "通用(General-purpose)AI智能体可能会做出没人要求的细小改动，比如改变分子几何结构，或悄悄加入未经批准的近似。AgenticOS为智能体团队分配文献综述、推导演算和量子可行性评估等任务，并对照经典基线、评审智能体和人工审核来检查结果。"
+        },
+        {
+          "t": "p",
+          "x": "在一项被NeurIPS 2026研讨会接收的化学研究中，10次无辅助的智能体运行里有四次无视了明确的设置指令。借助AgenticOS，模型遵循了获批的方案，结果与精确对角化参考值的偏差约在3.4%以内。"
+        },
+        {
+          "t": "p",
+          "x": "在IBM量子计算机上运行的3-by-3 Hubbard模型实验中，它将电路深度降低了75%。企业R&D团队可申请使用AgenticOS，学术研究人员可申请免费使用。"
+        }
+      ]
+    },
+    "science/science-virtual-cell-model-calibration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+        },
+        {
+          "t": "p",
+          "x": "发表于Nature Biotechnology的论文“Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”提出了一种阳性对照基线，以及一套检验常用指标能否区分有意义的模型预测与信息量较少的预测的框架。"
+        },
+        {
+          "t": "p",
+          "x": "遗传扰动模型是AI虚拟细胞的一个分支，用于预测激活或抑制基因会如何改变细胞的转录组。近期研究发现，复杂的深度学习系统往往无法超越简单的基线。"
+        },
+        {
+          "t": "p",
+          "x": "团队构建了“interpolated duplicate”(插值复制)阳性对照，以及衡量指标区分它与阴性对照能力的动态范围分数(DRF)。在14个数据集和18个指标中，均方误差和以对照为参照的Pearson相关性往往校准不佳；WMSE、加权RΔ2和NIR等加权和基于排序的指标表现更好。"
+        },
+        {
+          "t": "p",
+          "x": "在经过校准的指标上，scGPT和GEARS等早期模型常常超过无信息基线，PRESAGE和scLambda表现更强。在Norman19(覆盖0.63%的基因组合)中，加性基线仍难以超越；在Wessels23(10.3%)中，多个模型超过了它。"
+        },
+        {
+          "t": "p",
+          "x": "总部位于Cambridge, U.K.(英国剑桥)的Shift Bioscience计划将该框架用于筛选与返老还童及衰老相关疾病有关的靶点，初期聚焦纤维化。"
+        }
+      ]
+    },
+    "science/science-xray-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "科学界越来越多地把人工智能(AI)当作一种显微镜来使用。如今新的转变正在发生：智能体AI能通过简单的自然语言请求，帮助科学家决定下一步做什么。"
+        },
+        {
+          "t": "p",
+          "x": "在DOE下属的阿贡国家实验室(Argonne National Laboratory)，研究人员在SYNAPS-I项目中演示了这一能力。该项目隶属DOE的Genesis Mission，由劳伦斯伯克利国家实验室(Lawrence Berkeley National Laboratory)牵头。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+          "cap": "CNM科学家Tao Zhou在APS的Hard X-ray Nanoprobe光束线装载样品。图片来源：Jason Creps/Argonne National Laboratory"
+        },
+        {
+          "t": "video",
+          "yt": "Be89VHHNJLM"
+        },
+        {
+          "t": "p",
+          "x": "“研究人员不必编写代码或输入技术指令，只需与AI对话，AI便会自动完成数据采集、处理和分析，”Argonne计算科学家Ming Du说。"
+        },
+        {
+          "t": "p",
+          "x": "科学家可以直接描述需求，例如“以高分辨率绘制这个区域”。智能体会解读PtychoFM模型实时重建的图像，搜索感兴趣的区域，并且只在高风险操作时请求人工批准。Meta的SAM3负责分割每张图像中的特征。"
+        },
+        {
+          "t": "p",
+          "x": "在26-ID光束线的测试中，智能体接到指令，要在集成电路中找到两个区域之间的界面，结果从器件深处一路导航到正确位置——这是迈向自动驾驶显微镜的一步。"
+        }
+      ]
     }
   }
 }

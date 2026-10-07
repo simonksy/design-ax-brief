@@ -6400,6 +6400,147 @@
           "x": "オーディオの変更は展開が始まったばかりだが、ナビ機能はMeta AIアプリのアップデートとして広く提供されている。"
         }
       ]
+    },
+    "gadgets/gadgets-copilot-windows-local-files": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "本日の Windows・Surface イベントで、Microsoft は Copilot AI システムのアップグレードを披露した。PC 上のローカルファイルにアクセスし、OS 全体で操作を実行できるようになる。Microsoft が「Hybrid Intelligence」と呼ぶ構想の一環で、アプリやツールがローカルとクラウドの AI モデルを組み合わせ、タスクを効率よくこなす仕組みだ。"
+        },
+        {
+          "t": "p",
+          "x": "Hybrid Intelligence の仕組みを示すため、Microsoft の Copilot 担当 EVP である Jacob Andreou は、壇上で動画デモを紹介した。デモでは Microsoft の Autopilot ツールに確定申告の手伝いを頼んだ。Andreou は AI エージェントに、会計士からメールが届いたと伝え、彼女が必要とするものを用意するよう Autopilot に依頼した。すると Autopilot は Hybrid Intelligence を使って複数のフォルダーを検索して書類を見つけ、ファイル名を変更し、フォルダーに zip でまとめ、その zip ファイルを添付した会計士宛てのメールを下書きした。"
+        },
+        {
+          "t": "p",
+          "x": "Andreou によれば、Hybrid Intelligence を活用した機能は「今後数カ月」のうちに Copilot に搭載される。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft は、検索バーから素早く操作できる新しい Windows の検索体験も披露した。ダークモードをオンにしたり、インライン(in-line)スライダーでマイク音量を上げたり、メッセージを送ったりもできる。Windows・Surface 部門トップの Pavan Davuluri によると、新しい体験はこの秋から Windows 11 PCs で利用できるようになる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-one-ui-9-galaxy-s26-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9はGalaxy S26、S26+、S26 UltraにAndroid 17と複数の新機能をもたらす。Galaxy AIツールの追加やカスタマイズ項目の拡充も含まれる。S26シリーズはOne UI 8.5で発売されたため、一部の機能はすでに利用できていた。"
+        },
+        {
+          "t": "p",
+          "x": "Call Briefは通話画面に関連情報を表示する。たとえば海外に電話をかける際には、相手の国と現地時刻を表示する。"
+        },
+        {
+          "t": "p",
+          "x": "My FanCamは既存の動画から、選んだ人物を追いかけるようにトリミングした動画を作る。Galleryで動画を開いてGalaxy AIアイコンをタップし、人物、向き、アスペクト比を選んでFollowをタップすればよい。"
+        },
+        {
+          "t": "video",
+          "yt": "cWtvEpKt8Tw"
+        },
+        {
+          "t": "p",
+          "x": "Now Briefにはカスタムカードが加わる。天気、健康、動画の情報を使って最大三枚まで作成でき、表示するタイミングも選べる。"
+        },
+        {
+          "t": "p",
+          "x": "残りのアップデートはnon-AIの内容だ。サイズ変更できるQuick Panelのコントロール、Warranty and careセクション、三種類のサイズのBixbyホーム画面ウィジェット、Dual Recordingの分割レイアウト、Driving Report、そしてSamsung DeXのデスクトップ管理の簡素化が含まれる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Good LockのHome Upは、pinch-outでAI Selectを起動するといったmulti-fingerジェスチャーを追加する。One UI 9を試す最大の理由は、追加されたAIツールと細かな使い勝手の向上だ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-tony-fadell-ai-gadgets-failed": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "Tony Fadellは第一回MIT Future Festで、販売終了となった三つのAIデバイス、Rabbit R1、Humane Ai pin、Limitless pendantを映したスライドを示した。「これらはいわば‘Gen 1’のAI製品で、私の経歴もあって、これらの企業から手助けを頼まれた」と彼は語った。「でも、引き受けなかった」"
+        },
+        {
+          "t": "p",
+          "x": "「自分が何をしようとしているのか、どんな痛みを解決しようとしているのかを本当に理解しなければならない」と彼は言う。「どのケースも、何のニーズも満たしていなかった。ただのオタク向けの面白い技術だった」"
+        },
+        {
+          "t": "p",
+          "x": "「人間の[アシスタント]に何かをしてもらった経験がある人は、世界人口の0.01%にも満たない」とFadellは述べた。「何らかの知能に委ねるものについては、信頼と安全が何より重要になる」。彼はこれを実現できるのはApple、そしておそらくもう一社くらいだと見ており、成功するエージェントはon-deviceのみで動作する必要があると予測する。"
+        },
+        {
+          "t": "p",
+          "x": "MetaとOpenAIがガジェットに向かうのは、スマートフォンのセンサーにアクセスできないからだ、と彼は推測する。「スタートアップだから、チャンスは一度きりだ」と彼は皮肉った。「Vision Proを出したAppleとは違う」"
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-27-2-messages-ai-suggestions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "t": "p",
+          "x": "現行のiOS 27.2 betaには、MessagesアプリにSiri AIの「提案アクション」機能が含まれている。便利だと考える人もいれば、煩わしいと感じる人もいるだろう。"
+        },
+        {
+          "t": "p",
+          "x": "Suggested Actionsは最初のiOS 27 betaに搭載されていたが、一部の提案がかなり的外れだという苦情を受けてAppleがいったん取り下げた。iOS 27.2 betaで復活した形だ。Messagesは会話の文脈に応じて、Add to RemindersやAdd to Notesといったone-tapの提案や、求められた写真の検索に飛ぶボタンを表示する。"
+        },
+        {
+          "t": "p",
+          "x": "リーカーのpdfuは、iOS 27.2 beta 3のコードから、不要な提案を個別にオフにできる新しいコントロールを見つけた。提案をカテゴリーごとにオフにするか、過去30日間使っていないカテゴリーをSiri AIに非表示にさせることができる。"
+        },
+        {
+          "t": "p",
+          "x": "これらのオプションはまだbetaで有効になっていないが、近いうちに登場するとみられる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ghost-core": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "スタートアップ Ghost の最初の製品は Core だ。LLMs（大規模言語モデル）を端末上だけで動かす、ローカル AI エージェント向けの PC である。Ghost はこれを「モデルを完全に端末上で動かすパーソナル AI コンピューター」と呼び、ユーザーのアプリやファイル、デバイスとつながって「時間をかけてあなたの生活についての文脈を築いていく」と説明する。1100万ドルを調達したばかりの創業者兼 CEO、Zain Javaid はこれを「箱の中の脳」と呼ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "Core の中核は 24GB のビデオ RAM を備えた Nvidia RTX Pro 4000 (Blackwell) で、64GB の DDR5 を組み合わせ、性能は 770 TOPS だ。Qwen-3.8-Next、Qwen-3.8-27B、Gemma-4-31B をプリインストールして出荷され、モデルは無線で更新される。操作はスマートフォンやノートPCのアプリで行い、音声にも対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+          "cap": "ケースを外して部品を見せた Ghost Core AI PC"
+        },
+        {
+          "t": "p",
+          "x": "個人データは暗号化され、Ghost 自身もアクセスできない。端末は Ghost が事業を畳んでも動き続けるよう設計されており、サブスクリプション料金もない。ファイアウォールはエージェントによる認証情報の使い方を制限し、不審な外向きリクエストにはユーザーの確認を求める。"
+        },
+        {
+          "t": "p",
+          "x": "Core の米国価格は $3,499 だ。初回分は発売初日に完売し、今月末に出荷される。AI 向け最上位構成の Mac mini は $3,199 だが、Core の専用ローカル AI（local-AI）ソフトウェアやプライバシー機能は備えていない。"
+        }
+      ]
     }
   }
 }

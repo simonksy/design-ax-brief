@@ -1426,6 +1426,140 @@
           "x": "Meta, Google, and OpenAI believe smart glasses could replace phones as the main gateway to AI. Counterpoint Research estimates consumers will spend more than $1 trillion on wearables between 2026 and 2032, but privacy concerns have led some campaigners to dub them “pervert technology.”"
         }
       ]
+    },
+    "politics/politics-trump-superintelligence-science-summit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+          "cap": "Photo illustration: Sarah Grillo/Axios. Photo: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios."
+        },
+        {
+          "t": "p",
+          "x": "Why it matters: The Trump administration is looking for industry to step in amid its cuts to government funding for science research and development."
+        },
+        {
+          "t": "p",
+          "x": "Driving the news: The White House is announcing more than $1 billion in industry commitments for the Genesis Mission from AMD, OpenAI, Anthropic and others. It is also announcing a compute hub of more than 14 institutions across 10 southeast states, and a $1 billion investment in Georgia for student and faculty compute access. The National Science Foundation and the Energy Department will invest more than $100 million in AI-driven science tools."
+        },
+        {
+          "t": "p",
+          "x": "Zoom in: The summit was inspired by a July report from White House OSTP Director Michael Kratsios, which highlights industry's increasing role in driving R&D."
+        },
+        {
+          "t": "p",
+          "x": "Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines to accelerate scientific discovery. In July, the White House said it would expand to more than 15 federal agencies."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-liability-altman-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+          "cap": "Sam Altman speaks during the G20 Innovation Ministerial in North Carolina, on Sept. 2, 2026. | Matt Ramey/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU parliamentarians are digging in on calls to revive an artificial intelligence liability law after receiving support from an unexpected ally: OpenAI’s Sam Altman."
+        },
+        {
+          "t": "p",
+          "x": "“There's gonna need to be a liability framework for companies,” Altman said in an interview with Decoded by POLITICO. The EU last year scrapped its proposed AI liability law amid a push to deregulate, with the Commission arguing it had little chance of securing sufficient political support."
+        },
+        {
+          "t": "p",
+          "x": "German conservative lawmaker Axel Voss, who led on the proposal in Parliament, wants it back on the agenda. “Now even the CEO of OpenAI admits: Without liability, there is no trust,” he said. Social democrat Brando Benifei called the withdrawal “a serious mistake.”"
+        },
+        {
+          "t": "p",
+          "x": "The Commission said it “continues monitoring” the AI Act and Product Liability Directive, adding: “At this stage, there is no plan to reintroduce a proposal on AI liability.” CEPS research director Artur Bogucki said the EU needs “a direct, targeted AI liability instrument, narrow and procedural at its core.”"
+        }
+      ]
+    },
+    "politics/politics-western-open-weight-models-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+          "cap": "Illustration: Aïda Amer/Axios"
+        },
+        {
+          "t": "p",
+          "x": "A new crop of powerful, Western open-weight AI systems are mounting a comeback, with fresh models from Reflection and Mistral narrowing China's recent lead. They will give businesses and governments alternatives to the closed ecosystems of OpenAI and Anthropic, as well as to Chinese options they may have eschewed for security reasons."
+        },
+        {
+          "t": "p",
+          "x": "Reflection introduced Beam, a 501-billion-parameter mixture-of-experts model with 23 billion active parameters. Reflection says it is competitive with China's GLM-5.2; its own benchmarks show a mixed picture. Weights are due later this month."
+        },
+        {
+          "t": "p",
+          "x": "Mistral is finishing Mistral Large 4, aka \"Le Chonk,\" a 1-trillion-parameter multimodal model it believes is the world's best open-weight model, with weights planned for Oct. 27. \"I don't want to live in the future in which any oligopoly controls closed access to this type of intelligence,\" Mistral's Pierre Stock said."
+        },
+        {
+          "t": "p",
+          "x": "Yes, but: once weights are public, users can try to remove safeguards — significant as models grow more capable at cybersecurity. Both companies argue openness can also improve safety."
+        }
+      ]
+    },
+    "politics/politics-europol-ai-policing-privacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+          "cap": "The outside of EU police agency Europol's headquarters is seen in The Hague on Nov. 24, 2015. | Remko de Waal/ANP/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Senior EU officials warn that a sweeping new plan to arm the bloc's police agency, Europol, for the AI era could threaten Europeans' privacy. The plans, announced this summer, would double its budget to €3 billion and give Europol a hands-on role in fighting new threats, with access to more data and advanced technology."
+        },
+        {
+          "t": "p",
+          "x": "European Data Protection Supervisor Wojciech Wiewiórowski said he is “absolutely in favor” of empowering Europol with AI tools, but there “has to be oversight.” He has cautioned the proposal would let the agency retain data on a “vast” number of people with no links to criminal activity."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+          "cap": "Europol Deputy Director Jurgen Ebner, who was last month named to take the agency helm, speaks at a press conference in Brussels on June 26, 2026. | Olivier Hoslet/EPA"
+        },
+        {
+          "t": "p",
+          "x": "“AI makes criminal activities faster, more sophisticated and easier to carry out at scale,” said Jürgen Ebner, selected to lead Europol. He also said Europol shouldn't cross a line where “collecting data becomes an objective in itself.”"
+        }
+      ]
+    },
+    "politics/politics-sif-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+          "cap": "Director of National Intelligence Jay Clayton will lead the task force."
+        },
+        {
+          "t": "p",
+          "x": "The Trump administration has given its newly created “Super Intelligence Force” broad authority to determine how the tech industry and the federal government should address threats to national security and civil liberties posed by fast-evolving AI technology, according to a charter obtained by POLITICO. Three people familiar with the discussions confirmed the document’s authenticity."
+        },
+        {
+          "t": "p",
+          "x": "The task force will identify “measures to improve the preparedness and response capability of both the government and the private sector,” and produce a report on AI risks focusing on civil liberties, cybersecurity, standards for advanced models and the impacts of possible overregulation."
+        },
+        {
+          "t": "p",
+          "x": "Director of National Intelligence Jay Clayton will lead it as the administration’s AI czar, with Under Secretary of Defense Emil Michael, OPM Director Scott Kupor and FTC Chairman Andrew Ferguson as vice chairs. It will stand for 120 days, extendable at chief of staff Susie Wiles’ direction."
+        },
+        {
+          "t": "p",
+          "x": "The charter also calls out biosecurity and water-supply threats, and tasks the group with reviewing the protocols for AI labs to notify the government of breaches, hacks and jailbreaks."
+        },
+        {
+          "t": "p",
+          "x": "It places responsibility for AI risks on the labs, stating that “it is the role of the federal government … to enforce our nation’s laws so that the fundamental principles of our Republic are safeguarded and advanced.”"
+        }
+      ]
     }
   }
 }

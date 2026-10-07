@@ -1,32 +1,25 @@
 {
- "date": "2026-10-07",
- "section": "games",
- "media": [
-  {
-   "id": "games-ps-ai-boss",
-   "type": "image",
-   "src": "pipeline/media/games-ps-ai-boss.jpg"
-  },
-  {
-   "id": "games-dizzy-ai",
-   "type": "video",
-   "src": "pipeline/media/games-dizzy-ai.mp4",
-   "poster": "pipeline/media/games-dizzy-ai.jpg"
-  },
-  {
-   "id": "games-usf4-rollback",
-   "type": "image",
-   "src": "pipeline/media/games-usf4-rollback.jpg"
-  },
-  {
-   "id": "games-wotc-union",
-   "type": "image",
-   "src": "pipeline/media/games-wotc-union.jpg"
-  },
-  {
-   "id": "games-sega-ai",
-   "type": "image",
-   "src": "pipeline/media/games-sega-ai.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "games-unity-spark-asset-store",
+      "type": "image",
+      "src": "pipeline/media/games-unity-spark-asset-store.png"
+    },
+    {
+      "id": "games-astrocade-10m-monthly-users",
+      "type": "image",
+      "src": "pipeline/media/games-astrocade-10m-monthly-users.jpg"
+    },
+    {
+      "id": "games-minecraft-x-twitter-ai-clone",
+      "type": "image",
+      "src": "pipeline/media/games-minecraft-x-twitter-ai-clone.jpg"
+    },
+    {
+      "id": "games-goldhen-ai-ripoff-free-speech",
+      "type": "image",
+      "src": "pipeline/media/games-goldhen-ai-ripoff-free-speech.jpg"
+    }
+  ]
 }

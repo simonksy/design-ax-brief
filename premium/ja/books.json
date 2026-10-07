@@ -5760,6 +5760,91 @@
           "x": "Authors GuildのCEO、Mary Rasenbergerは、判決は「著作権法の正しさを立証するものだ。AIが学習したまさにその作品に取って代わるAIシステムを訓練するために、他人の作品を盗んではならないことを明確にした」と述べた。"
         }
       ]
+    },
+    "books/books-simon-schuster-ai-tracking-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "出版界のAIをめぐる攻防は、業績の監視に使われることを懸念するSimon & Schusterの従業員にまで広がった。従業員らはCEOのGreg Greeley宛ての公開書簡への署名を集めている。書簡は、職場での活動を分析するSkan AIや類似ソフトウェアの使用に「強く反対」すると表明し、それが2023年にS&Sを買収したプライベート・エクイティ企業KKRの「意向によるものとみられる」と指摘する。"
+        },
+        {
+          "t": "p",
+          "x": "書簡には「従業員のキー入力を追跡し、『コンプライアンスを継続的に監視する』技術の導入は、労働者としての私たちのプライバシーと尊厳に対する直接的な侵害だ」とある。匿名の起草者らは250人の署名を目指している。S&Sの従業員は1,500人だ。"
+        },
+        {
+          "t": "p",
+          "x": "Greeleyは10月6日付のメモで、業績追跡にAIを使う計画はないと述べた。Skan AIのBlueprintは事務作業を減らすために「検討中の選択肢の一つ」だが、「Blueprintやその他の生産性監視・ワークフロー分析ツールを使う決定は下されておらず、全社的な導入は進行中でも検討中でもない」という。"
+        }
+      ]
+    },
+    "books/books-trace-ai-licensed-content": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+          "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair)に先立つSTMカンファレンスで、TRACEイニシアチブを発表するSpringer NatureのPriya Madina、COUNTERのTasha Mellins-Cohen、Ithaka S+RのTodd Toler、NISOのTodd Carpenter。"
+        },
+        {
+          "t": "p",
+          "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystemsは、学術出版とAIのコミュニティを結びつけ、学術コミュニケーションにおけるAIシステムの信頼性向上に必要な技術基盤づくりを加速させる。コンテンツ交換の標準、出所追跡の仕組み、利用状況報告のプロトコルを支援する。"
+        },
+        {
+          "t": "p",
+          "x": "TRACEは三つの並行プロジェクトへの資金提供とともに始動する。出版社のプラットフォーム外での推論時の利用も含むCOUNTERの第二段階のAI利用指標、AIシステムにおける出所と帰属のための最小限のメタデータモデルを定めるNISOのパイロット、そしてAIエージェントが学術コンテンツをどう見つけ、利用者の利用権限で認証し、信頼できる利用記録を残すかを調べるIthaka S+Rの三か月間の研究だ。"
+        },
+        {
+          "t": "p",
+          "x": "一般的なLLMの出力では、およそ20%から40%の割合で架空の参考文献が生じることが研究で確認されている。NISOのTodd Carpenterは「出どころが見えない結果を、どうして信頼できるだろうか」と書いている。"
+        }
+      ]
+    },
+    "books/books-pangram-ai-detector-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+          "cap": "Pangramの最高経営責任者Max Spero"
+        },
+        {
+          "t": "p",
+          "x": "Pangramの共同創業者は、同社のAI検出ツールが有色人種の作家に不当に不利に働くとの指摘に反論し、「文学界で」プラットフォームの導入が「大きく増えている」と述べた。"
+        }
+      ]
+    },
+    "books/books-boersenblatt-ki-uebersetzen-umfrage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+          "cap": "© istockphoto"
+        },
+        {
+          "t": "p",
+          "x": "デジタル業界団体Bitkomは火曜日、Frankfurter Buchmesse（フランクフルト・ブックフェア）の開幕に合わせ、書籍におけるKIについての代表性のある調査を公表した。翻訳者を不安にさせそうな内容だ。同団体によると、回答者の79 %が書籍の翻訳でのKI利用に賛成した。一方、すべてKIが書いた本を読むと答えたのは29 %にとどまった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+          "cap": "書籍におけるKIの棒グラフは、翻訳79 %、表示72 %、KI-Bücher 29 %を示す。出典：Bitkom / グラフィック：Börsenblatt（KI-generiert）"
+        }
+      ]
+    },
+    "books/books-redpine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+          "cap": "RedpineのCEO、Anders Hammarbäck"
+        },
+        {
+          "t": "p",
+          "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
+        }
+      ]
     }
   }
 }

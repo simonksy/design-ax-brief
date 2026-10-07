@@ -6653,6 +6653,171 @@
           "x": "钢筋建模智能体可直接根据附带的PDF规范生成3D钢筋。Argus还包含QA/QC模块，用户用日常语言描述规则，AI便会生成相应的检查项。BIMlogiq还可基于企业过往数据和设计，开发经过专门训练的智能体。"
         }
       ]
+    },
+    "design/design-mecagent-v2-gpt6-astra-solidworks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MecAgent推出了其CAD AI软件的第二版，借助智能体框架调用GPT-6 Astra，直接在现有CAD软件包内完成CAD设计。"
+        },
+        {
+          "t": "p",
+          "x": "CAD Agent在已打开的Solidworks会话中运行，支持Text-to-CAD、Image-to-CAD、CAD-to-Drawing、Drawing-to-CAD，以及可重建特征树的STEP-to-SLDPRT；它能建模零件、将其加入装配体、应用材料，并进行重命名、导出或向特征树写入宏。"
+        },
+        {
+          "t": "p",
+          "x": "它还能执行特征树清理、基于文本的运动创建、CAD文件转换与导出、标准校验、assembly-to-BOM以及生成爆炸视图等任务。"
+        },
+        {
+          "t": "p",
+          "x": "一段演示展示了一架RC直升机在不到五小时的无人值守运行中搭建完成：约56个零件、两个子装配体，包含联动齿轮与旋翼的运动，但不含电子元件。"
+        },
+        {
+          "t": "p",
+          "x": "MecAgent不再只生成单个零件，而是着手在行业标准的参数化CAD软件中处理更长、多阶段的设计任务。"
+        },
+        {
+          "t": "p",
+          "x": "MecAgent将这一更广泛的能力称为“spec-to-CAD”。工程师只需提供一组需求，智能体便会执行构建设计所需的一系列CAD操作，而无需逐一显式建模每个部件。"
+        },
+        {
+          "t": "p",
+          "x": "据MecAgent CPO Alexandre Senet介绍，Onshape版本已列入MecAgent未来几个月的路线图，其现有AI副驾驶的安装量已超过35,000次。"
+        },
+        {
+          "t": "p",
+          "x": "DEVELOP3D读者可通过免费计划试用MecAgent V2.0.0，该计划附带3,000个免费令牌。"
+        },
+        {
+          "t": "video",
+          "yt": "_twtNuzZw-8"
+        }
+      ]
+    },
+    "design/design-logo-design-agent-skill-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
+        },
+        {
+          "t": "p",
+          "x": "公开的MIT-licensed仓库logo-design-skill，为Claude Code、Gemini CLI、Codex CLI及其他支持技能的智能体打包了一套分阶段的标志设计流程：从设计简报到经过测试的SVG概念，获批后再扩展为更完整的品牌识别套件。"
+        },
+        {
+          "t": "p",
+          "x": "流程从简报和品类调研开始，随后提出八到12个一句话概念，其中三个用SVG制作并测试。在一个必经的检查点，智能体展示各个方向、推荐其中一个并等待；配色系统、组合标志、图标和规范要等用户批准方向后才会生成。"
+        },
+        {
+          "t": "p",
+          "x": "无依赖（Dependency-free）的Python工具可审核SVGs、渲染PNGs，并拼合概念图表和展板。测试图表涵盖16-pixel渲染、单色与反白版本、眯眼与镜像检查、样机以及与竞品同架对比测试；它还能导出favicon、app-icon和web-manifest资源。"
+        },
+        {
+          "t": "p",
+          "x": "参考库收录了1,400多个真实的SVG标志，按标志类型、技法、几何结构、气质和行业分类——定位为研究构造、避免撞脸的材料，而非用于抄袭。"
+        },
+        {
+          "t": "p",
+          "x": "分析：审批检查点更看重可审阅的工作，而非无人值守地完成任务。输出质量的证据仍属内部——28份虚构简报——并非独立验证。"
+        }
+      ]
+    },
+    "design/design-bounded-delegation-ai-authority": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
+          "cap": "图片由作者使用OpenAI图像生成功能制作。"
+        },
+        {
+          "t": "p",
+          "x": "一款AI工具将客户评论聚类，并把最大的主题命名为“定价摩擦”。等到有人批准它的建议时，重要的决定可能早已做出。能力描述的是系统能产出什么；权限关乎组织愿意让它决定、塑造或启动什么。"
+        },
+        {
+          "t": "p",
+          "x": "Gale Robins把这种区分称为有边界的授权（bounded delegation）：随着影响和问责的加大，AI的权限应当收窄——在生成阶段宽，在分析阶段可检查，在承诺阶段最窄。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
+          "cap": "随着后果和不可逆性的增加，AI的权限应当收窄。"
+        },
+        {
+          "t": "p",
+          "x": "四个问题划定边界：如果我们错了会怎样？谁仍须负责？工作能否被检查？这属于生成、分析还是承诺？“Human in the loop”不是一种运作模式；团队需要有意设计的交接。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
+          "cap": "Judgment Points标示出AI-supported的探索转变为由人负责的承诺的节点。"
+        },
+        {
+          "t": "p",
+          "x": "Discovery Judgment Framework的Judgment Points形成了自然的边界。有边界的授权并不是主张少用AI，而是主张对权限更加精确。"
+        }
+      ]
+    },
+    "design/design-system-coding-agent-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+        },
+        {
+          "t": "p",
+          "x": "作者在智能体开始编写UI之前就搭建了一套设计系统：三层令牌、14个Angular组件、类型声明、随npm包一起发布的llms.client.txt，以及基于MCP的令牌解析器。然后他提出一个问题：这些东西是否会改变编码智能体的产出？"
+        },
+        {
+          "t": "p",
+          "x": "测试设置为：一个Angular仪表盘、逐字节相同的提示词、全新会话，以及五个实验组——仅规格说明和Figma画框（A），加上文字风格指南（A′），加上npm包（B），加上llms.client.txt（C），加上MCP解析器（D）。共三十次计分运行，评分器和证伪条件均事先提交。"
+        },
+        {
+          "t": "p",
+          "x": "交付系统带来的是阶跃式变化，把它写成文档则不然。没有这个包时，智能体会在13个组件中手写12或13个，应用里会多出约90个自定义属性；有了它，两者都是零。"
+        },
+        {
+          "t": "p",
+          "x": "可访问性比一致性更重要：智能体从Figma中把颜色取对了，却带着严重的对比度问题交付。在30次运行中，智能体从未臆造组件API。使用组件库让每次生成的成本更高，而MCP解析器相比文本文件没有带来可衡量的提升。"
+        },
+        {
+          "t": "p",
+          "x": "“设计系统并不会让智能体更聪明或更正确。它决定的是，最终由谁来拥有它写出的代码。”作者称这是一项案例研究，而非基准测试。"
+        }
+      ]
+    },
+    "design/design-figma-agent-ga": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "示例提示词悬浮在手机屏幕上方"
+        },
+        {
+          "t": "p",
+          "x": "来看看 Uber、Granola 和 Atlassian 的团队如何借助现已全面上线的 Figma 智能体，支撑高质量、快节奏的工作。智能体今天结束 beta，更擅长遵循指令和处理耗时更长的任务；在 Figma 由专业设计师参与的人工评测中，它的胜率为 ~60%+。库所有者可以添加指南，即为智能体提供设计系统上下文的 markdown 文件。"
+        },
+        {
+          "t": "p",
+          "x": "Uber 的设计系统团队为七个平台交付组件，他们打造了 /create-anatomy 和 /create-color 等技能来记录这套系统。过去需要多人花几个月完成的文档，如今一位设计师一个下午就能发布。"
+        },
+        {
+          "t": "p",
+          "x": "在 Granola，Product Designer Paavan Buddhdev 使用 Granola 连接器，让智能体把从会议记录中提取的反馈以注释形式标在画布上。他说：“这为我们节省了大量时间。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Paavan 将 Granola 连接器与 Figma 智能体配合使用，把反馈作为注释添加到画布上。"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian 把动效素材变成了可复用组件，智能体帮助设计师在其设计系统内反复调整缓动和时长。Product Designer Davy Fung 说：“对于做静态设计的设计师来说，我们的技能更全面了。”"
+        }
+      ]
     }
   }
 }

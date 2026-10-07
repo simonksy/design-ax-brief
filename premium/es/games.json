@@ -6112,6 +6112,110 @@
           "x": "Tú lo diriges y él se encarga de construir."
         }
       ]
+    },
+    "games/games-astrocade-10m-monthly-users": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+          "cap": "© Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Astrocade, una plataforma en línea gratuita centrada en juegos y experiencias AI-generated, ya cuenta con 10 millones de usuarios mensuales. Su CEO, Amir Sadeghian, dijo a Gamesbeat que pasó de unos cinco millones a 10 millones en solo los últimos cuatro meses. Cualquiera puede crear juegos con sus herramientas de AI y otros usuarios pueden jugarlos, de forma similar a Roblox."
+        },
+        {
+          "t": "p",
+          "x": "“Toda la razón por la que existimos como plataforma son las herramientas de creación con AI, que permiten crear a todo el mundo”, dijo Sadeghian. La empresa se prepara para lanzar una app para iOS y está haciendo una fuerte campaña de marketing en Estados Unidos (United States)."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+          "cap": "©Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Muchos de los juegos más populares son clones de Minecraft, juegos con personajes protegidos por derechos de autor e imitaciones de éxitos de Roblox como Steal a Brainrot, todos con arte de AI slop, y aun así algunos suman cientos de miles o incluso millones de partidas. Como en TikTok, los juegos son verticales y se sirven a través de un feed algorítmico infinito; Sadeghian los llama “playables”."
+        },
+        {
+          "t": "p",
+          "x": "“La AI ya escribe código mejor que muchos ingenieros”, dijo el CEO. “E incluso algunos de estos recursos 3D están llegando a un punto en el que es muy difícil distinguirlos”."
+        }
+      ]
+    },
+    "games/games-minecraft-x-twitter-ai-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "La explosión de clones de videojuegos hechos con AI sigue a buen ritmo. El usuario de X jaivin usó AI para hacer jugable Minecraft, de Mojang, dentro de publicaciones de X / Twitter con multijugador funcional, y permite comprar patrocinios dentro del juego con criptomonedas."
+        },
+        {
+          "t": "p",
+          "x": "“Tweetcraft es un juego de bloques dentro de una publicación: cada mundo es un enlace en X, y todos los que lo abren juegan juntos”, dice la descripción oficial. “Pon tu anuncio en lo alto de la lista de servidores, en la tabla de patrocinadores de un mundo o tu logo en el Block Dragon”. El clon, que funciona en el navegador, coloca a todos los que hacen clic en el enlace de un mundo en la misma sesión en tiempo real."
+        },
+        {
+          "t": "p",
+          "x": "El “port” no autorizado ha sumado 7.4 millones de visualizaciones en su publicación de lanzamiento. Jaivin insistió en que “Tweetcraft no usa ninguno de los recursos de Minecraft y no está asociado con Mojang ni con Microsoft”."
+        },
+        {
+          "t": "p",
+          "x": "En octubre (October) ya se ha visto cómo GTA 5 y el Halo original se volvían jugables en un navegador; el clon de GTA 5 y un juego de Fallout: New York sufrieron retiradas. Con modelos de AI cada vez más potentes, el tiempo que tardan en aparecer versiones no autorizadas de juegos consolidados podría reducirse a solo horas o incluso minutos."
+        }
+      ]
+    },
+    "games/games-goldhen-ai-ripoff-free-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+          "cap": "© Sony / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "La escena de jailbreak y homebrew de PlayStation está sumida en el caos por la explosión de proyectos AI-slop hechos con vibecoding. Los forks de los emuladores de PS5 KytyPS5, SharpEmu y AnyPS5 en GitHub pasaron de unos 1,300 a unos 1,840 en tres días."
+        },
+        {
+          "t": "p",
+          "x": "Ahora el equipo detrás de GoldHEN, la apreciada herramienta homebrew para PS4, ha visto cómo otro desarrollador homebrew, Zer0Day, robaba su proyecto y lo publicaba en internet. Su extenso README declara que “el código no debería ser una jaula” y que “la creatividad nunca debería tener que pedir permiso”."
+        },
+        {
+          "t": "p",
+          "x": "GoldHEN es de código cerrado y lo diseñó principalmente Sistro, con varios mantenedores, a lo largo de unos cinco años. Sistro lo hizo privado tras ver “un triste abuso del código fuente”."
+        },
+        {
+          "t": "p",
+          "x": "En X, Zer0Day dijo “me da igual lo que piense el equipo [de GoldHEN]” y afirmó tener “derecho a la libertad de palabra y a la libertad de expresión”. Ha reconocido abiertamente en sus respuestas que usa AI, y su código eliminado incluye comentarios como “estas son las estructuras Elf64 estándar que recorre”."
+        }
+      ]
+    },
+    "games/games-ps-ai-boss": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+          "cap": "Una nueva patente de PlayStation describe un sistema que usa IA (AI) para reescribir al vuelo la conducta de los enemigos"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva patente de Sony Interactive Entertainment, descubierta por Patentlyze y publicada el 1 de octubre, abarca la “mejora de sistemas de videojuegos mediante un personaje no jugador adaptado por inteligencia artificial”."
+        },
+        {
+          "t": "p",
+          "x": "El sistema funciona en cuatro pasos: recopila datos del jugador sobre sus encuentros con un NPC junto con datos del juego, los introduce en un modelo de aprendizaje automático, obtiene contenido de NPC que ajusta su conducta, diálogo y apariencia, y luego modifica el contenido del juego. La patente no especifica una arquitectura de modelo concreta, por lo que podría funcionar con distintos sistemas de IA (AI) y ser utilizada por desarrolladores ajenos a los estudios propios de PlayStation."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech sostiene que los soulslike serían los más beneficiados. Los enemigos de los juegos para un jugador suelen seguir patrones programados que se pueden aprender y explotar; si la IA (AI) reescribe su conducta, podrían adaptarse a lo agresivo o defensivo que sea el jugador, e incluso los jefes con varias fases podrían pasar antes a su segunda fase bajo presión, como las mecánicas de remontada de los juegos de lucha."
+        },
+        {
+          "t": "p",
+          "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
+        }
+      ]
     }
   }
 }

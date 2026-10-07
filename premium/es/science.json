@@ -6415,6 +6415,150 @@
           "x": "Los chips CMOS del laboratorio de Ken Shepard leen la fluorescencia, de modo que bastaría con sumergir una tira desechable en el agua para obtener una lectura inmediata. Cornish calcula que costará órdenes de magnitud menos que los métodos actuales."
         }
       ]
+    },
+    "science/science-satellite-damage-through-smoke": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Se ha desarrollado una nueva tecnología capaz de predecir con rapidez los daños estructurales a escala de ciudad incluso cuando partes de las imágenes satelitales quedan ocultas por nubes o humo justo después de un desastre."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo dirigido por el profesor In Ho Cho, de la Seoul National University, combinó un enfoque de Scientific AI, que integra conocimiento de ingeniería estructural en la AI, con un método estadístico de imputación que reconstruye los datos faltantes. Los resultados se publican en Scientific Reports."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+          "cap": "Resultados de predicción de daños a escala de ciudad (City-scale) con imágenes satelitales y el desorden de la imagen (entropía) antes y después de un gran tifón. Crédito: Scientific Reports"
+        },
+        {
+          "t": "p",
+          "x": "El marco utiliza la entropía de imagen, una medida del desorden en las imágenes satelitales previas y posteriores al desastre, además de datos abiertos. A diferencia de los enfoques de AI más avanzados, no necesita una costosa fase de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "En el caso de un gran tifón, aun con más del 50% de las imágenes cubierto por nubes, predijo los daños de los edificios bajo las zonas ocultas con un error inferior al 5%. También se aplicó a un gran incendio forestal."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
+          "cap": "Ejemplo de resultados al aplicar el marco desarrollado a un caso de daños por un gran incendio forestal. Crédito: Scientific Reports"
+        }
+      ]
+    },
+    "science/science-ai2-astabrief-open-weights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 creó AstaBrief 8B, un modelo que convierte una pregunta de investigación y fragmentos de literatura recuperados en un informe con citas. Está disponible en la función Generate a report de Asta como Fast mode, junto al Thinking mode Claude-powered, y Ai2 libera como código abierto el modelo y los datos de entrenamiento."
+        },
+        {
+          "t": "p",
+          "x": "Fast mode tarda de media 51.1 segundos por informe, frente a 178.5 segundos de Thinking mode: aproximadamente 3.5× más rápido. Los pesos abiertos (Open weights) permiten a las instituciones ejecutarlo en su propia infraestructura, algo necesario cuando las preguntas revelan trabajos sensibles o inéditos."
+        },
+        {
+          "t": "p",
+          "x": "Partiendo de Qwen3-8B, Ai2 se centró en los datos de posentrenamiento, con ajuste fino supervisado y DPO, lo que situó a AstaBrief cerca del pipeline Claude-powered y de DR Tulu."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
+          "cap": "Tasa de victorias por pares LLM-judged frente al Thinking mode Claude-powered"
+        },
+        {
+          "t": "p",
+          "x": "Entre los 374 usuarios de Asta que han probado Fast mode, el 29.1% lo usó durante dos o más días."
+        }
+      ]
+    },
+    "science/science-haiqu-agenticos-quantum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Haiqu lanzó AgenticOS, un sistema que coordina agentes AI especializados para planificar, validar y preparar experimentos de investigación cuántica para su ejecución en hardware bajo supervisión humana."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes AI de propósito general (General-purpose) pueden introducir pequeños cambios que nadie pidió, como alterar una geometría molecular o colar una aproximación no aprobada. AgenticOS asigna equipos de agentes para revisar la literatura, desarrollar derivaciones, evaluar la viabilidad cuántica y contrastar los resultados con referencias clásicas, agentes críticos y revisión humana."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio de química aceptado en un taller de NeurIPS 2026, cuatro de 10 ejecuciones de agentes sin asistencia ignoraron una instrucción de configuración explícita. Con AgenticOS, los modelos se ciñeron al protocolo aprobado y obtuvieron un resultado a aproximadamente un 3.4% de la referencia de diagonalización exacta."
+        },
+        {
+          "t": "p",
+          "x": "En un experimento con el modelo de Hubbard de 3-by-3 ejecutado en una computadora cuántica de IBM, redujo la profundidad del circuito en un 75%. AgenticOS está disponible bajo solicitud para equipos de R&D empresariales; los investigadores académicos pueden solicitar acceso gratuito."
+        }
+      ]
+    },
+    "science/science-virtual-cell-model-calibration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Publicado en Nature Biotechnology, el artículo “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” presenta una línea base de control positivo y un marco para comprobar si las métricas habituales distinguen las predicciones significativas de un modelo de las menos informativas."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos de perturbación genética, un subconjunto de las células virtuales de AI, predicen cómo la activación o la inhibición de genes altera el transcriptoma de una célula. Estudios recientes hallaron que sistemas sofisticados de aprendizaje profundo a menudo no superaban líneas base simples."
+        },
+        {
+          "t": "p",
+          "x": "El equipo creó un control positivo de “duplicado interpolado” (interpolated duplicate) y la fracción de rango dinámico (DRF), que mide lo bien que una métrica lo separa de un control negativo. En 14 conjuntos de datos y 18 métricas, el error cuadrático medio y la correlación de Pearson referida al control a menudo estaban mal calibrados; las métricas ponderadas y basadas en rangos, como WMSE, RΔ2 ponderado y NIR, funcionaron mejor."
+        },
+        {
+          "t": "p",
+          "x": "Con métricas calibradas, modelos anteriores como scGPT y GEARS superaron a menudo las líneas base no informativas, y PRESAGE y scLambda rindieron aún mejor. En Norman19 (0.63% de las combinaciones de genes cubiertas) una línea base aditiva siguió siendo difícil de superar; en Wessels23 (10.3%) varios modelos la superaron."
+        },
+        {
+          "t": "p",
+          "x": "Shift Bioscience, con sede en Cambridge, U.K., planea aplicar el marco a cribados de dianas relevantes para el rejuvenecimiento y las enfermedades asociadas a la edad, centrándose inicialmente en la fibrosis."
+        }
+      ]
+    },
+    "science/science-xray-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La ciencia ha recurrido cada vez más a la inteligencia artificial (AI) como una especie de microscopio. Ahora está en marcha un nuevo cambio: una AI agéntica que ayuda a los científicos a decidir qué hacer a continuación mediante peticiones sencillas en lenguaje natural."
+        },
+        {
+          "t": "p",
+          "x": "En el Argonne National Laboratory del DOE, los investigadores demostraron esta capacidad dentro del proyecto SYNAPS-I, que forma parte de la Genesis Mission del DOE y está dirigido por el Lawrence Berkeley National Laboratory."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+          "cap": "Tao Zhou, científico del CNM, coloca una muestra en la línea de luz Hard X-ray Nanoprobe del APS. Crédito: Jason Creps/Argonne National Laboratory"
+        },
+        {
+          "t": "video",
+          "yt": "Be89VHHNJLM"
+        },
+        {
+          "t": "p",
+          "x": "\"En lugar de escribir código o introducir comandos técnicos, los investigadores pueden hablar con la AI, que se encarga automáticamente de la recogida, el procesamiento y el análisis de los datos\", afirmó Ming Du, científico computacional de Argonne."
+        },
+        {
+          "t": "p",
+          "x": "Los científicos pueden describir lo que quieren, por ejemplo \"cartografía esta zona en alta resolución\". El agente interpreta las imágenes que el modelo PtychoFM reconstruye en tiempo real, busca regiones de interés y solo pide aprobación humana para las operaciones de mayor riesgo. SAM3, de Meta, segmenta los rasgos de cada imagen."
+        },
+        {
+          "t": "p",
+          "x": "En una prueba en la línea de luz 26-ID, se pidió al agente que localizara la interfaz entre dos regiones de un circuito integrado, y este navegó desde lo más profundo del dispositivo hasta el punto correcto, un paso hacia los microscopios autónomos."
+        }
+      ]
     }
   }
 }

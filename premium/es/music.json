@@ -5836,6 +5836,113 @@
           "x": "También explica cómo reordenar pistas y editar los detalles del Album, compartir un borrador antes del lanzamiento, convertir una playlist existente en un Album, usar una misma portada de Album para todas las canciones, qué ocurre al publicar y cómo encontrar y editar Albums después del lanzamiento."
         }
       ]
+    },
+    "music/music-grok-suno-backend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+          "cap": "Crédito de la foto: Mariia Berezovsky"
+        },
+        {
+          "t": "p",
+          "x": "El Grok Bot de SpaceXAI, que según se afirma ofrece “compañeros de equipo de AI que hacen trabajo real por ti”, comenzará oficialmente a utilizar los modelos de generación musical de Suno, según una breve publicación en X de Elon Musk."
+        },
+        {
+          "t": "p",
+          "x": "“Nota importante sobre Grok @bot: de ahora en adelante, @SpaceX usará el mejor modelo de back end para cada tarea, incluidos Claude Opus 5.5, MidJourney, Suno y otras APIs líderes. Lo que tenga más probabilidades de darte el mejor resultado”, escribió."
+        },
+        {
+          "t": "p",
+          "x": "Musk añadió que la mayoría de las solicitudes a Grok Bot “son bastante simples y las atenderá una versión ultrarrápida de Grok 4.8 cuando salga”. Hay pocos detalles más; usuarios de X preguntan por el calendario de despliegue y los derechos sobre los resultados, y uno señaló que Suno y Midjourney no “tienen productos de API oficiales”."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, ElevenLabs se expande hacia la música, y Suno inició octubre con el lanzamiento de Speech, “el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada”. Continúan las batallas legales de Suno, que ahora incluyen una investigación en Italia centrada en sus términos."
+        }
+      ]
+    },
+    "music/music-tencent-music-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+          "cap": "Crédito: mundissima / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "DeepSeek, empresa de AI China-based, está cerca de recaudar al menos RMB 80 mil millones (USD $12 mil millones) en una nueva ronda de financiación, con Tencent Holdings entre sus mayores inversores, informó Bloomberg el martes (6 de octubre). Tencent y el fabricante de baterías CATL “se han comprometido con algunos de los montos más altos”."
+        },
+        {
+          "t": "p",
+          "x": "Tencent es el accionista de control de Tencent Music Entertainment (TME), que integró DeepSeek en su servicio de streaming musical en 2025. La ronda podría acercarse a los RMB 100 mil millones ($15 mil millones); DeepSeek apunta a salir a bolsa a principios de 2027."
+        },
+        {
+          "t": "p",
+          "x": "TME reveló la integración en una conferencia de resultados en marzo de 2025, cuando su CEO, Ross Liang, dijo que DeepSeek se había incorporado a su herramienta de composición con AI, su asistente de AI, las secciones de comentarios y las páginas de recomendaciones. En su informe del Q2 2026, TME señaló que los agentes de AI de QQ Music y Kugou Music ya crean listas de reproducción personalizadas al instante."
+        },
+        {
+          "t": "p",
+          "x": "La International Confederation of Music Publishers (ICMP) ya había acusado a DeepSeek de reproducir letras de canciones protegidas por derechos de autor, y su director general, John Phelan, afirmó que usó música protegida con fines comerciales sin licencias."
+        }
+      ]
+    },
+    "music/music-humanculture-first-clients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año informamos sobre una startup fundada por exejecutivos de Defected Records y AWAL que desarrollaba tecnología para predecir qué tan bien funcionaría un contenido en redes sociales antes de publicarse."
+        },
+        {
+          "t": "p",
+          "x": "Ahora HumanCulture se ha lanzado oficialmente y ha anunciado su primer grupo de clientes. Defected es uno de ellos, junto con Red Light Management, Armada Big Family, Arketyp, Knox Artists y FourFour Digital."
+        },
+        {
+          "t": "p",
+          "x": "El foco sigue puesto en la analítica predictiva. “Al analizar temas narrativos, estilos visuales, comportamiento de la audiencia y conversaciones de la comunidad junto con datos cuantitativos de rendimiento, ofrece a los equipos creativos una dirección basada en evidencia antes de publicar, en lugar de informes retrospectivos después”, es su propuesta, que afirma una “precisión del 82-90% en la predicción del rendimiento del contenido”."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento también dio a conocer una función llamada Jasper, que HumanCulture describe como un “estratega creativo de AI integrado” con el que los clientes pueden conversar para obtener ideas para campañas, calendarios de contenido y otras tareas de marketing."
+        },
+        {
+          "t": "p",
+          "x": "La empresa subraya que su tecnología se adapta a cada artista, empezando por un proceso de incorporación que analiza hasta un año de sus publicaciones en Instagram y TikTok y los comentarios de su audiencia."
+        },
+        {
+          "t": "p",
+          "x": "HumanCulture usa planes de precios ‘per-talent’ (por artista), que empiezan en £65 por artista al mes para empresas que lo usan con 1-9 artistas y bajan a £52.50 al mes para quienes tienen 50-99 en su catálogo."
+        }
+      ]
+    },
+    "music/music-suno-italy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "Crédito de la foto: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "La autoridad de competencia de Italia (AGCM) informó el martes (6 de octubre) que ha abierto una investigación sobre los términos de servicio de Suno, que según la autoridad \"pueden ser abusivos conforme al artículo 33 del Código del Consumidor\"."
+        },
+        {
+          "t": "p",
+          "x": "Sus preocupaciones incluyen los cambios de precio, la cancelación de cuentas, el arbitraje con sede en EE. UU. (US-based) y una licencia de contenido que, según la autoridad, obliga a los usuarios a renunciar a sus derechos morales. Los términos \"parecen otorgar a Suno amplia discreción para hacer cambios unilaterales en el contrato, el servicio y los precios de suscripción, sin tener que dar ninguna justificación\", señaló la autoridad."
+        },
+        {
+          "t": "p",
+          "x": "La AGCM afirmó que \"las disposiciones contractuales sobre derechos de autor merecen especial atención\", calificó de insuficientemente definida la licencia impuesta a los consumidores y señaló que impone la renuncia a los derechos morales en contra de la ley italiana de derechos de autor, la Ley 633/1941. También señaló el arbitraje individual vinculante en Estados Unidos y la renuncia a las demandas colectivas."
+        },
+        {
+          "t": "p",
+          "x": "La autoridad abrirá una consulta pública sobre los términos en las próximas semanas. Sus multas por cláusulas contractuales abusivas oscilan entre €5,000 y €10 millones. MBW ha contactado con Suno para pedir comentarios."
+        }
+      ]
     }
   }
 }

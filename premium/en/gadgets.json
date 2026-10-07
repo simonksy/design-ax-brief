@@ -6805,6 +6805,147 @@
           "x": "The audio changes are still starting to roll out, while the navigation upgrades are broadly available as an update in the Meta AI app."
         }
       ]
+    },
+    "gadgets/gadgets-copilot-windows-local-files": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "At today’s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It’s part of an idea Microsoft is calling “Hybrid Intelligence,” where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently."
+        },
+        {
+          "t": "p",
+          "x": "To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft’s EVP of Copilot, walked through a video demo onstage asking Microsoft’s Autopilot tool to help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she needs. Autopilot then used Hybrid Intelligence to search across different folders to find the documents, rename the files, zip them into a folder, and draft an email to send to the accountant with the zip file attached."
+        },
+        {
+          "t": "p",
+          "x": "Features powered by Hybrid Intelligence will be coming to Copilot over the “next couple months,” Andreou said."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft also showed off a new Windows search experience that lets you take quick actions from the search bar, like turning on dark mode, turning up your mic volume with an in-line slider, or even sending a text. The new experience will be available starting this fall on Windows 11 PCs, according to Windows and Surface boss Pavan Davuluri."
+        }
+      ]
+    },
+    "gadgets/gadgets-one-ui-9-galaxy-s26-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+        },
+        {
+          "t": "p",
+          "x": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features were already available."
+        },
+        {
+          "t": "p",
+          "x": "Call Brief displays relevant information on the call screen — for example, a caller's country and local time when calling overseas."
+        },
+        {
+          "t": "p",
+          "x": "My FanCam takes an existing video and creates a cropped version that follows a person you select: open a video in Gallery, tap the Galaxy AI icon, choose the person, orientation, and aspect ratio, then tap Follow."
+        },
+        {
+          "t": "video",
+          "yt": "cWtvEpKt8Tw"
+        },
+        {
+          "t": "p",
+          "x": "Now Brief gets custom cards: you can create up to three using weather, health, or video information and choose when they appear."
+        },
+        {
+          "t": "p",
+          "x": "The rest of the update is non-AI: resizable Quick Panel controls, a Warranty and care section, Bixby home screen widgets in three sizes, split layouts for Dual Recording, Driving Report, and easier Samsung DeX desktop management."
+        },
+        {
+          "t": "img",
+          "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Good Lock's Home Up adds multi-finger gestures, such as a pinch-out to launch AI Select. The biggest reasons to explore One UI 9 are the additional AI tools and smaller conveniences."
+        }
+      ]
+    },
+    "gadgets/gadgets-tony-fadell-ai-gadgets-failed": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+        },
+        {
+          "t": "p",
+          "x": "At the inaugural MIT Future Fest, Tony Fadell projected a slide of three discontinued AI devices: the Rabbit R1, the Humane Ai pin, and the Limitless pendant. “These were kind of the ‘Gen 1’ AI products, and because of my background, these companies called me and asked me to help them,” he said. “I didn’t.”"
+        },
+        {
+          "t": "p",
+          "x": "“You have to really understand what you’re trying to do, what pain you’re trying to solve,” he said. “In each of these cases, each one of them didn’t meet any kind of need — it was just interesting technology for geeks.”"
+        },
+        {
+          "t": "p",
+          "x": "“It’s less than 0.01% of the world population that has ever had a human [assistant] do anything,” Fadell said. “Trust and safety are going to be paramount with anything that we turn over to some kind of intelligence.” He sees Apple — maybe one other company — as able to do this, and predicts a successful agent will have to operate on-device only."
+        },
+        {
+          "t": "p",
+          "x": "He theorizes that Meta and OpenAI are turning to gadgets because they lack access to the sensors on your phone. “Because it’s a startup, you get one shot,” he quipped. “It’s not like Apple with the Vision Pro.”"
+        }
+      ]
+    },
+    "gadgets/gadgets-ios-27-2-messages-ai-suggestions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+        },
+        {
+          "t": "p",
+          "x": "The current beta of iOS 27.2 includes a Siri AI “suggested actions” feature in the Messages app that some will consider useful and others find annoying."
+        },
+        {
+          "t": "p",
+          "x": "Suggested Actions were present in the initial iOS 27 beta, but Apple later pulled the feature after complaints that some suggestions were rather random. It returned in the iOS 27.2 beta. Messages offers one-tap suggestions based on the context of conversations, such as Add to Reminders and Add to Notes, or a button that jumps to a search for requested photos."
+        },
+        {
+          "t": "p",
+          "x": "Leaker pdfu found new controls in iOS 27.2 beta 3 code to selectively toggle off unwanted suggestions. They allow suggestions to be toggled off by category, or you can let Siri AI hide the categories you haven’t used in the last 30 days."
+        },
+        {
+          "t": "p",
+          "x": "These options aren’t yet live in the beta, but we can likely expect to see them soon."
+        }
+      ]
+    },
+    "gadgets/gadgets-ghost-core": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Startup Ghost's first product is Core, a PC for local AI agents that runs LLMs exclusively on-device. Ghost calls it \"a personal AI computer that runs models entirely on device,\" one that connects to your apps, files, and devices and \"builds context on your life over time.\" Founder and CEO Zain Javaid, whose company just raised $11 million, calls it a \"brain in a box\"."
+        },
+        {
+          "t": "p",
+          "x": "Core is built around an Nvidia RTX Pro 4000 (Blackwell) with 24GB of video RAM, plus 64GB of DDR5, rated at 770 TOPS. It ships with Qwen-3.8-Next, Qwen-3.8-27B, and Gemma-4-31B pre-installed, updates models over the air, and is controlled via a phone or laptop app, including by voice."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Tepa3gnVNnfjR97gYRg8HG.jpg",
+          "cap": "Ghost Core AI PC case shown removed, with the components on display"
+        },
+        {
+          "t": "p",
+          "x": "Personal data is encrypted, even Ghost can't access it, and the device is designed to keep running if Ghost shut down, with no subscription fee. A firewall limits how agents use credentials and flags suspicious outgoing requests for user review."
+        },
+        {
+          "t": "p",
+          "x": "Core costs $3,499 in the US; the first batch sold out on day one and ships at the end of this month. A top-spec Mac mini for AI runs $3,199, but lacks Core's dedicated local-AI software and privacy features."
+        }
+      ]
     }
   }
 }

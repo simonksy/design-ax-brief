@@ -1426,6 +1426,140 @@
           "x": "Meta、Google和OpenAI认为，智能眼镜可能取代手机，成为通往AI的主要入口。Counterpoint Research估计，2026年至2032年间消费者在可穿戴设备上的支出将超过1万亿美元，但隐私担忧使一些活动人士将其称为“变态技术”。"
         }
       ]
+    },
+    "politics/politics-trump-superintelligence-science-summit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+          "cap": "图片合成：Sarah Grillo/Axios。照片：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "据Axios率先获得的公告，特朗普总统将于周四出席一场峰会，旨在为科学家赋能，并使美国（U.S.）成为“超级智能”（super intelligence）驱动的突破的引领者。"
+        },
+        {
+          "t": "p",
+          "x": "为何重要：特朗普政府在削减政府科研经费的同时，希望产业界出手填补。"
+        },
+        {
+          "t": "p",
+          "x": "新闻要点：白宫将宣布AMD、OpenAI、Anthropic等企业对Genesis Mission超过$1 billion的产业承诺。白宫还将宣布一个覆盖东南部10个州、14家以上机构的算力中心，以及在佐治亚州投入$1 billion，为师生提供算力。美国国家科学基金会和能源部将向AI-driven科学工具投入超过$100 million。"
+        },
+        {
+          "t": "p",
+          "x": "深入来看：此次峰会的灵感来自白宫OSTP主任Michael Kratsios 7月发布的一份报告，报告强调产业界在推动R&D方面的作用日益增强。"
+        },
+        {
+          "t": "p",
+          "x": "回顾：特朗普去年11月启动Genesis Mission，为加速科学发现设定了雄心勃勃的期限。白宫7月表示，将把该计划扩展至15个以上联邦机构。"
+        }
+      ]
+    },
+    "politics/politics-eu-ai-liability-altman-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+          "cap": "2026年9月2日，Sam Altman在北卡罗来纳州举行的G20创新部长级会议上发言。| Matt Ramey/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU议会议员获得了一位意外盟友——OpenAI的Sam Altman——的支持，正坚持呼吁恢复一部人工智能责任法。"
+        },
+        {
+          "t": "p",
+          "x": "Altman在接受Decoded by POLITICO采访时说：“企业将需要一个责任框架。”去年，EU在放松监管的浪潮中撤回了拟议的AI责任法，欧盟委员会当时称该法几乎不可能获得足够的政治支持。"
+        },
+        {
+          "t": "p",
+          "x": "在议会牵头推动该提案的德国保守派议员Axel Voss希望将其重新提上议程。他说：“如今连OpenAI的CEO都承认：没有责任，就没有信任。”社会民主党人Brando Benifei称撤回该法是“一个严重错误”。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会表示，正在“持续监测”AI Act和《产品责任指令》（Product Liability Directive），并补充说：“现阶段没有重新提出AI责任提案的计划。”CEPS研究主任Artur Bogucki表示，EU需要“一项直接、有针对性的AI责任工具，其核心应当范围窄、以程序为主”。"
+        }
+      ]
+    },
+    "politics/politics-western-open-weight-models-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+          "cap": "插图：Aïda Amer/Axios"
+        },
+        {
+          "t": "p",
+          "x": "一批强大的西方open-weight AI系统正在卷土重来，Reflection和Mistral的新模型正在缩小中国近来的领先优势。它们将为企业和政府提供替代选择，既可替代OpenAI和Anthropic的封闭生态，也可替代出于安全考虑可能被回避的中国模型。"
+        },
+        {
+          "t": "p",
+          "x": "Reflection推出了Beam，这是一款501-billion-parameter 的mixture-of-experts 模型，激活参数为23 billion 个。Reflection称其可与中国的GLM-5.2竞争，但其自家基准测试结果好坏参半。权重将于本月晚些时候发布。"
+        },
+        {
+          "t": "p",
+          "x": "Mistral正在完成Mistral Large 4（昵称“Le Chonk”），这是一款1-trillion-parameter 多模态模型，公司认为它是全球最好的open-weight模型，计划于10月27日发布权重。Mistral的Pierre Stock说：“我不想生活在由任何寡头垄断以封闭方式控制此类智能获取的未来。”"
+        },
+        {
+          "t": "p",
+          "x": "不过：一旦权重公开，用户就可能尝试移除安全防护——随着模型网络安全能力增强，这一点尤为重要。两家公司都认为，开放同样可以提升安全性。"
+        }
+      ]
+    },
+    "politics/politics-europol-ai-policing-privacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+          "cap": "2015年11月24日，位于海牙的EU警察机构Europol总部外景。| Remko de Waal/ANP/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU高级官员警告，一项为AI时代武装欧盟警察机构Europol的大规模新计划，可能威胁欧洲人的隐私。该计划于今年夏天公布，将把Europol预算翻倍至€3 billion，并让其获取更多数据和先进技术，直接参与应对新威胁。"
+        },
+        {
+          "t": "p",
+          "x": "欧洲数据保护监督官Wojciech Wiewiórowski表示，他“完全赞成”为Europol配备AI工具，但“必须有监督”。他曾警告，该提案将使该机构得以保留“大量”与犯罪活动无关人员的数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+          "cap": "上月被任命执掌该机构的Europol副局长Jurgen Ebner于2026年6月26日在布鲁塞尔的新闻发布会上发言。| Olivier Hoslet/EPA"
+        },
+        {
+          "t": "p",
+          "x": "被选定领导Europol的Jürgen Ebner说：“AI让犯罪活动更快、更复杂，也更容易大规模实施。”他还表示，Europol不应越过“收集数据本身成为目的”的界线。"
+        }
+      ]
+    },
+    "politics/politics-sif-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+          "cap": "国家情报总监杰伊·克莱顿将领导该工作组。"
+        },
+        {
+          "t": "p",
+          "x": "根据POLITICO获得的一份章程，特朗普政府赋予新成立的“超级智能部队”（Super Intelligence Force）广泛权力，由其决定科技行业和联邦政府应如何应对快速演进的AI技术对国家安全和公民自由构成的威胁。三名知情人士证实了该文件的真实性。"
+        },
+        {
+          "t": "p",
+          "x": "该工作组将确定“提升政府和私营部门准备程度与应对能力的措施”，并撰写一份AI风险报告，重点关注公民自由、网络安全、先进模型标准以及可能的过度监管所带来的影响。"
+        },
+        {
+          "t": "p",
+          "x": "国家情报总监杰伊·克莱顿将以政府AI事务主管的身份领导该工作组，国防部副部长埃米尔·迈克尔、OPM主任斯科特·库波尔和FTC主席安德鲁·弗格森担任副主席。工作组存续120天，可根据白宫幕僚长苏西·怀尔斯的指示延长。"
+        },
+        {
+          "t": "p",
+          "x": "章程还点明了生物安全和供水方面的威胁，并要求该小组审查AI实验室向政府通报数据泄露、黑客攻击和越狱事件的规程。"
+        },
+        {
+          "t": "p",
+          "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
+        }
+      ]
     }
   }
 }

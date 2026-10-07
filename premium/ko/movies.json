@@ -11281,6 +11281,147 @@
           "x": "단계마다 비용이 드러나고 AI 에이전트가 코딩 없이 워크플로 짜는 일을 돕는다. 이제 스튜디오와 에이전시, 사내 팀은 물론 개인 크리에이터와 프리랜서도 Mosa를 쓸 수 있다. 대규모 조직에는 엔터프라이즈 플랜이 따로 있다."
         }
       ]
+    },
+    "movies/movies-google-synthid-detector-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 도구가 좋아지고 쓰기 쉬워질수록, 온라인에서 마주치는 콘텐츠의 맥락을 알아야 무엇을 믿을지 판단하기 쉽다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보게 도왔다. 지금까지 워터마크를 넣은 콘텐츠는 이미지와 영상 180 billion 개 이상, 오디오 240,000년 분량이다."
+        },
+        {
+          "t": "p",
+          "x": "지난해에는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 이 도구를 모두에게 열어, 오늘부터 전 세계 어디서나 영어로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "새 SynthID Detector에서는 누구나 이미지, 영상, 오디오 파일이 Google의 AI로 만들어졌는지, OpenAI, NVIDIA, Kakao, 그리고 곧 Apple까지 포함하는 파트너의 AI로 만들어졌는지 쉽게 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능과 나란히 선다. 이 기능들은 지금 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 온라인에서 보는 미디어의 맥락을 더 알려 주고, 사람들이 자신 있게 웹을 돌아다니게 하려는 작업의 연장선이다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+        }
+      ]
+    },
+    "movies/movies-abundantia-aion-standalone-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+          "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+        },
+        {
+          "t": "p",
+          "x": "인도의 Abundantia Entertainment가 AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸는 중이다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+        },
+        {
+          "t": "p",
+          "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. AiOn은 2027년 온전한 스튜디오로 출범한다."
+        },
+        {
+          "t": "p",
+          "x": "당분간 AiOn은 Malhotra가 직접 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
+        },
+        {
+          "t": "p",
+          "x": "지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”이 보낸 피치가 과거의 세 배였다고 그는 말했다. Curry Barker와 Kane Parsons 같은 감독이 아이디어 “민주화”의 증거라는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고, 영화 다섯 편을 개발할 영화 스튜디오를 꾸렸다."
+        }
+      ]
+    },
+    "movies/movies-authors-first-book-adaptation-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 원래 그린 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기에 Blender를 비롯한 “기타 기술”을 더해, Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 $10 million 이상의 시드 라운드로 출범하며, 여기에 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여했다. CEO는 Hamwee가 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 있다."
+        },
+        {
+          "t": "p",
+          "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리와 카메라 앵글, 대사를 맡았지만 대부분은 AI로 생성했다. Iggulden은 역사 대작에 드는 예산 탓에 제안이 번번이 무산됐다며, 이 방식이 아니었다면 결코 각색되지 못했을 거라고 말한다."
+        },
+        {
+          "t": "video",
+          "yt": "KarPbRqW_U8"
+        }
+      ]
+    },
+    "movies/movies-sinima-creative-ownership-platform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "베타를 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고 보호하고 모니터링하며 수익까지 낼 수 있는 새 공간을 내세운다. 중심에는 회사가 “창작 소유권”이라 부르는 개념이 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+          "cap": "출처: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima가 겨냥하는 문제는 두 가지다. 크리에이터는 자기 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 합법적으로 학습할 길이 많지 않다."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+          "cap": "출처: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가 기능을 갖췄다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+        },
+        {
+          "t": "p",
+          "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 받는다. 현재 요율표는 자격을 갖추고 권리 처리를 마친 영상을 시간당 $4,000~$7,500로 매긴다. 크리에이터에게는 처리된 시간당 $3,400~$6,375가 돌아간다."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+          "cap": "출처: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+        }
+      ]
+    },
+    "movies/movies-loftapps-mad-god": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+          "cap": "LOFT로 제작 중인 Phil Tippett의 'Mad God' 속편 이미지. 이미지 제공: LOFTAPPS."
+        },
+        {
+          "t": "p",
+          "x": "Berkeley, California에 본사를 둔 LOFTAPPS는 생성형 AI 제작 소프트웨어 LOFT를 10월 12-16일 Turin(Italy)에서 열리는 VIEW Conference 2026에서 유럽에 처음 공개한다고 밝혔다. 참가자들은 Phil Tippett이 LOFT로 만들고 있는 stop-motion 장편 Mad God 속편도 먼저 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "LOFT는 복잡한 파이프라인과 여러 AI 모델에 걸친 에셋, 창작 의도, 프롬프트, 출처, 리뷰, 제작 리소스를 한 시스템에서 관리한다. AI-first 제품으로 설계했지만 하이브리드 워크플로도 지원한다. 지금은 가이드형 온보딩을 거쳐 일부 고객에게 공급하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "LOFTAPPS 공동 창업자이자 CEO인 Gary Mundell은 \"이 제품의 가치는 제작 작업을 생성하고 늘리고 관리하는 방식을 근본적으로 바꾸는, 서로 연결된 제작 프로세스에 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
+        }
+      ]
     }
   }
 }

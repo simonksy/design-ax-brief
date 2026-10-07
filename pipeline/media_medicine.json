@@ -1,11 +1,31 @@
 {
-  "date": "2026-10-07",
-  "section": "medicine",
+  "date": "2026-10-08",
   "media": [
-    {"id": "breast-second-read", "type": "image", "src": "pipeline/media/breast-second-read.jpg"},
-    {"id": "utah-ai-pilots", "type": "image", "src": "pipeline/media/utah-ai-pilots.jpg"},
-    {"id": "swiftsight", "type": "svg"},
-    {"id": "dual-stain", "type": "image", "src": "pipeline/media/dual-stain.jpg"},
-    {"id": "unsafe-orders", "type": "image", "src": "pipeline/media/unsafe-orders.png"}
+    {
+      "id": "medicine-fda-pediatric-bone-age-ai",
+      "type": "image",
+      "src": "pipeline/media/medicine-fda-pediatric-bone-age-ai.jpg"
+    },
+    {
+      "id": "medicine-teladoc-ambient-ai-vitals",
+      "type": "image",
+      "src": "pipeline/media/medicine-teladoc-ambient-ai-vitals.jpg"
+    },
+    {
+      "id": "medicine-parkinsons-ai-telerehab-rct",
+      "type": "video",
+      "src": "pipeline/media/medicine-parkinsons-ai-telerehab-rct.mp4",
+      "poster": "pipeline/media/medicine-parkinsons-ai-telerehab-rct.jpg"
+    },
+    {
+      "id": "medicine-clairity-everlywell-breast-risk",
+      "type": "image",
+      "src": "pipeline/media/medicine-clairity-everlywell-breast-risk.png"
+    },
+    {
+      "id": "medicine-europe-20-center-radiology-ai-study",
+      "type": "image",
+      "src": "pipeline/media/medicine-europe-20-center-radiology-ai-study.jpg"
+    }
   ]
 }

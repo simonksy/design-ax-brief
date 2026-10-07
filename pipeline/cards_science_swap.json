@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-08",
+  "section": "science",
+  "cards": [
+    {
+      "id": "science-virtual-cell-model-calibration",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Virtual cell models get\na calibration framework",
+      "body": "Metrics like mean squared error often misjudge AI virtual cell models, so the authors propose a calibration framework.",
+      "mini_headline": "Calibrating AI\nvirtual cells",
+      "tool": "Science",
+      "source": "GEN - Genetic Engineering and Biotechnology News",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/new-calibration-framework-improves-confidence-in-ai-virtual-cell-models/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Published in Nature Biotechnology, the paper “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” introduces a positive-control baseline and a framework for testing whether common metrics can distinguish meaningful model predictions from less informative ones."
+          },
+          {
+            "t": "p",
+            "x": "Genetic perturbation models, a subset of AI virtual cells, predict how activating or inhibiting genes alters a cell's transcriptome. Recent studies found sophisticated deep learning systems often failed to beat simple baselines."
+          },
+          {
+            "t": "p",
+            "x": "The team built an “interpolated duplicate” positive control and the dynamic range fraction (DRF), which measures how well a metric separates it from a negative control. Across 14 datasets and 18 metrics, mean squared error and control-referenced Pearson correlation were often poorly calibrated; weighted and rank-based metrics such as WMSE, weighted RΔ2 and NIR were better."
+          },
+          {
+            "t": "p",
+            "x": "On calibrated metrics, earlier models including scGPT and GEARS often surpassed uninformative baselines, and PRESAGE and scLambda performed more strongly. In Norman19 (0.63% of gene combinations covered) an additive baseline stayed hard to beat; in Wessels23 (10.3%) several models beat it."
+          },
+          {
+            "t": "p",
+            "x": "Shift Bioscience, based in Cambridge, U.K., plans to apply the framework to screens for targets relevant to rejuvenation and age-related disease, initially focusing on fibrosis."
+          }
+        ]
+      }
+    }
+  ]
+}

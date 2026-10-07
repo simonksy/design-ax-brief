@@ -5286,6 +5286,91 @@
           "x": "Authors Guild CEO Mary Rasenberger表示，该判决“为版权法正名。它明确了，任何人都不能窃取他人作品，去训练一个会取代其训练所用作品的AI系统。”"
         }
       ]
+    },
+    "books/books-simon-schuster-ai-tracking-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "出版业围绕AI的争斗已蔓延到Simon & Schuster的员工，他们担心AI会被用来监控自己的工作表现。员工正在为致CEO Greg Greeley的公开信征集签名，信中表示“强烈反对”使用Skan AI或类似的工作场所活动分析软件，称此举“显然是在KKR的推动下”进行的。KKR是于2023年收购S&S的私募股权公司。"
+        },
+        {
+          "t": "p",
+          "x": "信中写道：“引入追踪员工键盘输入、‘持续监控合规情况’的技术，将直接侵犯我们作为劳动者的隐私与尊严。”未具名的发起人希望征集250个签名；S&S共有1,500名员工。"
+        },
+        {
+          "t": "p",
+          "x": "Greeley在10月6日的备忘录中表示，目前没有用AI追踪工作表现的计划。Skan AI的Blueprint是为减少行政事务而“正在探索的一种可能途径”，但“尚未决定使用Blueprint或任何其他生产力监控或工作流程分析工具，也没有正在推行或考虑中的全公司部署”。"
+        }
+      ]
+    },
+    "books/books-trace-ai-licensed-content": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+          "cap": "在法兰克福书展（Frankfurt Book Fair）前举行的STM会议上，Springer Nature的Priya Madina、COUNTER的Tasha Mellins-Cohen、Ithaka S+R的Todd Toler和NISO的Todd Carpenter宣布TRACE计划。"
+        },
+        {
+          "t": "p",
+          "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems汇集学术出版界与AI社群，加快建设提升学术交流中AI系统可信度所需的技术基础设施，支持内容交换标准、来源追踪机制和使用报告协议。"
+        },
+        {
+          "t": "p",
+          "x": "该计划启动时资助三个并行项目：COUNTER第二阶段的AI使用指标，涵盖出版商平台之外的推理时使用；NISO的试点项目，旨在为AI系统中的来源与归属定义最小可行元数据模型；以及Ithaka S+R为期三个月的研究，考察AI智能体如何发现学术内容、借助用户的访问权限完成认证，并留下可信的内容使用记录。"
+        },
+        {
+          "t": "p",
+          "x": "研究记录显示，通用LLM输出中虚构参考文献的比例约为20%至40%。NISO的Todd Carpenter写道：“如果看不到结果从何而来，我们又怎能信任它？”"
+        }
+      ]
+    },
+    "books/books-pangram-ai-detector-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+          "cap": "Pangram首席执行官Max Spero"
+        },
+        {
+          "t": "p",
+          "x": "Pangram联合创始人为其AI检测工具辩护，驳斥该工具对有色人种作者造成不成比例惩罚的说法，同时表示该平台“在文学界”的采用出现了“大幅增长”。"
+        }
+      ]
+    },
+    "books/books-boersenblatt-ki-uebersetzen-umfrage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+          "cap": "© istockphoto"
+        },
+        {
+          "t": "p",
+          "x": "数字行业协会Bitkom于周二借Frankfurter Buchmesse（法兰克福书展）开幕之际，发布了一项关于书籍中KI的代表性调查，结果恐令译者不安：据该协会介绍，79 %的受访者赞成在图书翻译中使用KI。而只有29 %的人愿意读一本完全由KI写成的书。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+          "cap": "关于书籍中KI的柱状图显示：翻译79 %，标注72 %，KI-Bücher 29 %。来源：Bitkom / 图表：Börsenblatt（KI-generiert）"
+        }
+      ]
+    },
+    "books/books-redpine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+          "cap": "Redpine CEO Anders Hammarbäck"
+        },
+        {
+          "t": "p",
+          "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
+        }
+      ]
     }
   }
 }

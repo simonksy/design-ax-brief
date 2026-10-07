@@ -1,30 +1,29 @@
 {
-  "date": "2026-10-07",
-  "section": "marketing",
+  "date": "2026-10-08",
   "media": [
     {
-      "id": "chatgpt-ads",
+      "id": "marketing-ads-uploader-meta-agent-batches",
       "type": "image",
-      "src": "pipeline/media/chatgpt-ads.jpg"
+      "src": "pipeline/media/marketing-ads-uploader-meta-agent-batches.jpg"
     },
     {
-      "id": "chatgpt-brand-safety",
+      "id": "marketing-nbcu-ctv-buying-agents",
       "type": "svg"
     },
     {
-      "id": "tiktok-agentic-ads",
-      "type": "video",
-      "src": "pipeline/media/tiktok-agentic-ads.mp4",
-      "poster": "pipeline/media/tiktok-agentic-ads.jpg"
-    },
-    {
-      "id": "rembrand-in-content",
-      "type": "svg"
-    },
-    {
-      "id": "gap-shopping-agents",
+      "id": "marketing-google-merchant-center-ucp-hub",
       "type": "image",
-      "src": "pipeline/media/gap-shopping-agents.jpg"
+      "src": "pipeline/media/marketing-google-merchant-center-ucp-hub.jpg"
+    },
+    {
+      "id": "marketing-radisson-chatgpt-hotel-booking",
+      "type": "image",
+      "src": "pipeline/media/marketing-radisson-chatgpt-hotel-booking.jpg"
+    },
+    {
+      "id": "marketing-trafficguard-chatgpt-ad-invalid-clicks",
+      "type": "image",
+      "src": "pipeline/media/marketing-trafficguard-chatgpt-ad-invalid-clicks.jpg"
     }
   ]
 }

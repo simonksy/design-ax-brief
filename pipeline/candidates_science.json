@@ -1,43 +1,25 @@
 {
- "date": "2026-10-07",
+ "date": "2026-10-08",
  "section": "science",
  "window_hours": 336,
  "items": [
   {
-   "title": "AI techniques behind image creation improve flash flood forecasts across U.S. river basins",
-   "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-06T17:30:01-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg",
-   "excerpt": "A flash flood can devastate a community for years in a matter of minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, with water levels capable of shooting up 30 feet (9 meters) and receding to normal levels in the span of a"
-  },
-  {
-   "title": "From food to fuel, AI helps pinpoint how to grow 'microalgae' at scale",
-   "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-06T15:20:15-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
-   "excerpt": "Microalgae (microscopic organisms that use light and carbon dioxide to grow) can be used to make ingredients and food for animals, pigments and potentially renewable fuels. But growing microalgae efficiently at an industrial scale is difficult."
-  },
-  {
-   "title": "AI method predicts retention times of small molecules more reliably",
-   "url": "https://phys.org/news/2026-10-ai-method-retention-small-molecules.html",
-   "source": "Phys.org",
-   "category": "science",
-   "published_iso": "2026-10-01T17:30:01-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/when-does-the-molecule-2.jpg",
-   "excerpt": "Whether in drug discovery, environmental analysis or metabolomics: anyone analyzing complex biological samples often needs to identify the small molecules they contain. Researchers at Friedrich Schiller University Jena, in collaboration with partners from the Helmholtz Zentrum Mü"
-  },
-  {
-   "title": "Agentic AI turns simple language into self-guided X-ray scans of microelectronics",
-   "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
+   "title": "New AI method uses engineering knowledge to estimate disaster damage from incomplete satellite imagery",
+   "url": "https://techxplore.com/news/2026-10-ai-method-knowledge-disaster-incomplete.html",
    "source": "Tech Xplore",
    "category": "science",
-   "published_iso": "2026-10-06T12:40:13-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
-   "excerpt": "Science has increasingly used artificial intelligence (AI) as a kind of microscope—sorting data, analyzing images and revealing hidden patterns. Now a new shift is underway: AI that not only breaks down data but also helps scientists decide what to do next through simple, natural"
+   "published_iso": "2026-10-07T16:20:09-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+   "excerpt": "A new technology has been developed that can rapidly predict city-scale structural damage even when portions of satellite imagery are obscured by clouds or smoke immediately after a disaster. The method folds engineering knowledge into the model so missing pixels do not break the estimate."
+  },
+  {
+   "title": "Spiking neural network learns to predict what will happen, when, and how likely it is",
+   "url": "https://techxplore.com/news/2026-10-spiking-neural-network.html",
+   "source": "Tech Xplore",
+   "category": "science",
+   "published_iso": "2026-10-07T13:20:01-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2025/neural-network-1.jpg",
+   "excerpt": "Before an event arrives, the brain can predict what it will be, when it will occur and how likely it is. A new study proposes a single population of spiking neurons that learns all three together, in a way that is compatible with biological circuits."
   },
   {
    "title": "Can scientists build a lie detector for AI chatbots?",
@@ -46,34 +28,79 @@
    "category": "science",
    "published_iso": "2026-10-06T09:20:01-04:00",
    "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-scientists-build-a.jpg",
-   "excerpt": "Ask an AI chatbot for some medical advice and it might recommend you head to the hospital when all you really have is indigestion. One of the biggest issues with AI chatbots today is that they can still share false information, according to Northeastern experts."
+   "excerpt": "One of the biggest issues with AI chatbots today is that they can still share false information, according to Northeastern experts. Researchers are probing whether a model's internal states can be read to flag when it is not telling the truth."
   },
   {
-   "title": "Does the gender pay gap extend to AI? Research finds female AI agents 'paid' less",
-   "url": "https://techxplore.com/news/2026-10-gender-pay-gap-ai-female.html",
-   "source": "Tech Xplore",
+   "title": "Machine learning detects bacterial invasion and DNA damage in human cells",
+   "url": "https://phys.org/news/2026-10-machine-bacterial-invasion-dna-human.html",
+   "source": "Phys.org",
    "category": "science",
-   "published_iso": "2026-10-05T08:40:06-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/does-the-gender-pay-ga.jpg",
-   "excerpt": "New research from the University of Limerick has found that gender bias in the workplace could be replicated in interactions with artificial intelligence."
+   "published_iso": "2026-10-01T12:00:00-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/cell-by-cell-new-machi.jpg",
+   "excerpt": "Researchers built MALVINA, a machine learning method that reads microscopy images to measure how efficiently bacteria enter human cells and trigger DNA damage at single-cell resolution. The same bacterial count can hide very different infection patterns."
   },
   {
-   "title": "AI may help catch heart transplant rejection without biopsies",
-   "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
-   "source": "Medical Xpress",
+   "title": "New algorithm makes maps of gene activity easier to compare while preserving cell-level detail",
+   "url": "https://phys.org/news/2026-10-algorithm-gene-easier-cell.html",
+   "source": "Phys.org",
    "category": "science",
-   "published_iso": "2026-10-06T14:20:04-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
-   "excerpt": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests."
+   "published_iso": "2026-10-02T12:00:00-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/making-maps-of-gene-ac.jpg",
+   "excerpt": "Spatial transcriptomics can reveal where thousands of genes are active across a tissue at single-cell resolution. A new algorithm aligns two such maps that are rotated or stretched without smoothing away cell-level detail."
   },
   {
-   "title": "A camera combined with AI could help further diagnosis of movement disorders in newborns",
-   "url": "https://medicalxpress.com/news/2026-10-camera-combined-ai-diagnosis-movement.html",
-   "source": "Medical Xpress",
+   "title": "Unlocking AI as a research tool for plant microscopy",
+   "url": "https://phys.org/news/2026-09-ai-tool-microscopy.html",
+   "source": "Phys.org",
    "category": "science",
-   "published_iso": "2026-10-06T13:00:10-04:00",
-   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-camera-combined-with.jpg",
-   "excerpt": "Detecting impaired motor function as early as possible after birth with the help of a standard camera linked to intelligent systems can help diagnose infantile conditions characterized by hypotonia: reduced muscle tone, which can limit active movement. A research team is investig"
+   "published_iso": "2026-09-29T12:00:00-04:00",
+   "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/unlocking-ai-as-a-rese.jpg",
+   "excerpt": "Software from University of Queensland scientists could help AI platforms overcome a blind spot limiting their value in plant research. Even advanced vision-language models struggled to interpret plant microscopy images."
+  },
+  {
+   "title": "Hybrid Digital Twins Developed for Future Autonomous Labs",
+   "url": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+   "source": "GEN - Genetic Engineering and Biotechnology News",
+   "category": "science",
+   "published_iso": "2026-10-07T16:00:29Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2024/06/Getty_2147673480_ScientistsInLabDNAOnScreen.jpg",
+   "excerpt": "A hybrid digital twin that combines mechanistic modeling with artificial intelligence could enable autonomous biomanufacturing, letting a lab run and correct its own bioprocesses."
+  },
+  {
+   "title": "Adding Low-Fidelity Data to ML Training Sets Could Yield Better Process Models",
+   "url": "https://www.genengnews.com/topics/bioprocessing/adding-low-fidelity-data-to-ml-training-sets-could-yield-better-process-models/",
+   "source": "GEN - Genetic Engineering and Biotechnology News",
+   "category": "science",
+   "published_iso": "2026-10-07T16:00:18Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/10/GettyImages-2248132110-small.jpg",
+   "excerpt": "Combining low-fidelity trend information with empirical data to train models can improve their accuracy and reduce costs, researchers report — a counterintuitive result for labs short on clean data."
+  },
+  {
+   "title": "New Calibration Framework Improves Confidence in AI Virtual Cell Models",
+   "url": "https://www.genengnews.com/topics/artificial-intelligence/new-calibration-framework-improves-confidence-in-ai-virtual-cell-models/",
+   "source": "GEN - Genetic Engineering and Biotechnology News",
+   "category": "science",
+   "published_iso": "2026-10-06T23:05:38Z",
+   "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg",
+   "excerpt": "Metrics such as mean squared error and control-referenced Pearson correlation are frequently miscalibrated when used to judge AI virtual cell models, according to the authors, who propose a calibration framework instead."
+  },
+  {
+   "title": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
+   "url": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+   "source": "The Quantum Insider",
+   "category": "science",
+   "published_iso": "2026-10-07T15:42:10+00:00",
+   "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg",
+   "excerpt": "Haiqu launched AgenticOS, a system that coordinates specialized AI agents to plan, validate and prepare quantum research experiments."
+  },
+  {
+   "title": "As AI Closed In on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+   "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+   "source": "Quanta Magazine",
+   "category": "science",
+   "published_iso": "2026-10-07T15:08:46+00:00",
+   "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Social.jpg",
+   "excerpt": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result."
   },
   {
    "title": "Is AI the End of Math As We Know It?",
@@ -82,43 +109,16 @@
    "category": "science",
    "published_iso": "2026-10-05T13:40:07+00:00",
    "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Social.jpg",
-   "excerpt": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.”"
+   "excerpt": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: 'If we don't adapt, there's just no more math in 50 years.'"
   },
   {
-   "title": "Supercomputing researchers document evolution of AI hardware",
-   "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-   "source": "MIT News",
+   "title": "Don't be fooled-LLMs don't reason",
+   "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+   "source": "MIT Technology Review",
    "category": "science",
-   "published_iso": "2026-10-06T20:55:00Z",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-lincoln-supercomputer.jpg",
-   "excerpt": "Since 2018, the Lincoln Laboratory Supercomputing Center has maintained a survey of the latest AI hardware to help researchers and the U.S. government gain a better understanding of the AI accelerator landscape and make better research and acquisition decisions about them."
-  },
-  {
-   "title": "The effects of an “algorithmic monoculture” depend on the details",
-   "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-   "source": "MIT News",
-   "category": "science",
-   "published_iso": "2026-09-29T04:00:00Z",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-AlgorithmicMono-01-press.jpg",
-   "excerpt": "The use of a single hiring algorithm by multiple firms, known as algorithmic monoculture, is less problematic for job seekers than past research has shown, and may even be a good thing depending on the approach used, according to a study by MIT researchers."
-  },
-  {
-   "title": "The promise and peril of using visual AI to study cities",
-   "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
-   "source": "MIT News",
-   "category": "science",
-   "published_iso": "2026-09-24T04:00:00Z",
-   "og_image": "https://news.mit.edu/sites/default/files/images/202609/MIT-AI-City-01.jpg",
-   "excerpt": "In the book “How AI Sees the City,” MIT researchers examine implications of using visual AI to study urban life. Across cities, more images means more data, more insight — and more concerns about privacy and fairness."
-  },
-  {
-   "title": "How attachment theory can help us understand AI relationships",
-   "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
-   "source": "Scientific American",
-   "category": "science",
-   "published_iso": "2026-10-04T06:00:00-04:00",
-   "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
-   "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people’s lives together"
+   "published_iso": "2026-10-02T04:00:00-04:00",
+   "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
+   "excerpt": "Ten years after AlphaGo's match against Go champion Lee Sedol, today's AI still isn't tapping into the machinery that made that win possible."
   },
   {
    "title": "How AI helped bring an ancient tomb dating to before the Roman Empire back to life",
@@ -127,25 +127,43 @@
    "category": "science",
    "published_iso": "2026-10-03T06:00:00-04:00",
    "og_image": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
-   "excerpt": "Pairing artificial intelligence with acoustic technology helped reveal an Etrurian tomb in new light"
+   "excerpt": "Pairing artificial intelligence with acoustic technology helped reveal an Etruscan tomb in new light, reconstructing faded wall paintings and the sound of the chamber."
   },
   {
-   "title": "What makes a good AI safety test? Experts explain why even the best techniques may not be powerful enough",
-   "url": "https://www.scientificamerican.com/article/what-makes-a-good-ai-safety-test-experts-explain-why-even-the-best-techniques-may-not-be-powerful-enough/",
+   "title": "How attachment theory can help us understand AI relationships",
+   "url": "https://www.scientificamerican.com/article/how-attachment-theory-can-help-us-understand-ai-relationships/",
    "source": "Scientific American",
    "category": "science",
-   "published_iso": "2026-10-06T10:30:00-04:00",
-   "og_image": "https://static.scientificamerican.com/dam/m/43f87d68eb21cf30/original/Robot_stepping_on_banana_peel.jpg?m=1727190943.601&w=1200",
-   "excerpt": "“With today’s science we usually can’t show with high confidence that dangerous behavior isn’t there”"
+   "published_iso": "2026-10-04T06:00:00-04:00",
+   "og_image": "https://static.scientificamerican.com/dam/asset/6dca58bf-c5ee-4b1d-b994-6064159d0b48/pp-math-AI-more-human.jpg?m=1785858312.019&w=1200",
+   "excerpt": "Attachment is the term psychologists use for the most significant relationships that hold people's lives together — and researchers are now applying it to how people bond with chatbots."
   },
   {
-   "title": "What AI gets wrong and what failure teaches us",
-   "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/",
-   "source": "Microsoft Research",
+   "title": "What is AI model distillation, and why is it so hard to stop?",
+   "url": "https://www.scientificamerican.com/article/what-is-ai-model-distillation-and-why-is-it-so-hard-to-stop/",
+   "source": "Scientific American",
    "category": "science",
-   "published_iso": "2026-10-06T16:19:06+00:00",
-   "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/10/ChadJennifer-MSRPod_TW_LI_FB_1920x1080-1.jpg",
-   "excerpt": "Jennifer Neville did not want to go into computer science—but that’s exactly where she landed. Neville discusses the starts and stops that led to her professional sweet spot and her work identifying “surprising failures” making it hard for AI to handle complexity."
+   "published_iso": "2026-10-07T07:00:00-04:00",
+   "og_image": "https://static.scientificamerican.com/dam/asset/61cc77fc-dd5c-4112-ba5b-3f059cbedacc/distillery-graphic.jpg?m=1791315830.311&w=1200",
+   "excerpt": "Anthropic and OpenAI accused Chinese AI developers of mining their models' answers to train cheaper copycats. Here's how distillation works and why it's so hard to stop."
+  },
+  {
+   "title": "Now in Nature: Retrofitting language models to operate over bytes",
+   "url": "https://allenai.org/blog/bolmo-nature",
+   "source": "Ai2",
+   "category": "science",
+   "published_iso": "2026-10-07T00:00:00-08:00",
+   "og_image": "https://www.datocms-assets.com/64837/1791355720-nature-cover-for-release-thumbnail.jpg",
+   "excerpt": "The technique behind Bolmo, Ai2's fully open byte-level language models, is now published in Nature, with new checkpoints showing the approach generalizes beyond Olmo to other model families."
+  },
+  {
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "url": "https://allenai.org/blog/astabrief",
+   "source": "Ai2",
+   "category": "science",
+   "published_iso": "2026-10-02T00:00:00-08:00",
+   "og_image": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png",
+   "excerpt": "Ai2 is releasing AstaBrief, an 8B open-weights model for generating cited scientific reports, available in Asta's Fast mode or to download and run on your own infrastructure."
   },
   {
    "title": "Drones, AI and the future of wildlife conservation",
@@ -154,16 +172,34 @@
    "category": "science",
    "published_iso": "2026-09-30T09:00:41+00:00",
    "og_image": "https://physicsworld.com/wp-content/uploads/2026/09/porpoise-2520864833-shutterstock-jonas-aleksander-larsen.jpg",
-   "excerpt": "Robotics and machine learning are opening new possibilities for protecting wildlife around the world"
+   "excerpt": "Robotics and machine learning are opening new possibilities for protecting wildlife around the world, from autonomous drones counting animals to models that pick out calls in field audio."
   },
   {
-   "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-   "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-   "source": "Google Research",
+   "title": "SynthID Bio: Watermarking methods for synthetic biology",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "source": "Google DeepMind",
    "category": "science",
-   "published_iso": "2026-10-06T15:05:11+00:00",
-   "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-   "excerpt": "Google Research blog post on applying Earth AI's planetary geospatial foundation models to global public health (excerpt not extractable; enrichment pass should read the body)."
+   "published_iso": "2026-09-30T15:00:00+00:00",
+   "og_image": "",
+   "excerpt": "DeepMind introduced SynthID Bio, a method that embeds invisible, detectable signatures into AI-designed biological sequences and protein structures. Watermarked proteins bound their targets as well as unmarked ones."
+  },
+  {
+   "title": "Limitations of Genomic Foundation Models for Decoding Regulatory Mechanisms in ALS",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.10.01.756029v1",
+   "source": "bioRxiv",
+   "category": "science",
+   "published_iso": "2026-10-07T12:00:00+00:00",
+   "og_image": "",
+   "excerpt": "Genomic foundation models promise to infer regulatory consequences of genetic variants directly from DNA sequence. This preprint evaluates AlphaGenome on ALS genetics without disease-specific fine-tuning and finds the predictions fall short of clinical utility."
+  },
+  {
+   "title": "RGI-Toolkit: Differentiable Restraints for Controllable Biomolecular Structure Prediction",
+   "url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756905v1",
+   "source": "bioRxiv",
+   "category": "science",
+   "published_iso": "2026-10-06T12:00:00+00:00",
+   "og_image": "",
+   "excerpt": "Diffusion models have advanced biomolecular structure prediction; restraint-guided inference corrects the denoiser at each step. RGI-Toolkit packages differentiable restraints so experimental data or a target conformation can steer the prediction."
   }
  ]
 }

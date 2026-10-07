@@ -1,1796 +1,1364 @@
 {
- "date": "2026-10-07",
- "section": "music",
- "cards": [
-  {
-   "id": "music-suno-italy",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "이탈리아, Suno\n이용약관 조사 착수",
-   "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 들여다본다.",
-   "mini_headline": "이탈리아, Suno 약관 조사",
-   "tool": "Music",
-   "source": "Music Business Worldwide",
-   "url": "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
-   "accent": "#ff2d55",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-      "cap": "사진 출처: FotoField / Shutterstock.com"
-     },
-     {
-      "t": "p",
-      "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno 이용약관 조사에 착수했다고 밝혔다. 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"는 판단이다."
-     },
-     {
-      "t": "p",
-      "x": "당국이 문제 삼은 대목은 가격 변경과 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구하는 것으로 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 했다."
-     },
-     {
-      "t": "p",
-      "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스는 범위가 충분히 정해지지 않았고, 이탈리아 저작권법(Law 633/1941)에 어긋나는 저작인격권 포기까지 강요한다는 것이다. 미국에서 진행하는 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 꼽았다."
-     },
-     {
-      "t": "p",
-      "x": "당국은 몇 주 안에 이 약관을 두고 공개 의견 수렴에 들어간다. 불공정 계약 조항에 매기는 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 물었다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Italy opens a probe into\nSuno's terms of service",
-     "body": "Italy's AGCM is investigating Suno's terms, including a licence it says makes users waive moral rights.",
-     "mini_headline": "Italy probes Suno's terms",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "Photo credit: FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "Italy's competition authority (AGCM) said on Tuesday (October 6) that it has opened an investigation into Suno's terms of service, which it says \"may be unfair pursuant to Article 33 of the Consumer Code.\""
-       },
-       {
-        "t": "p",
-        "x": "Its concerns include price changes, account terminations, US-based arbitration, and a content license that it says requires users to waive their moral rights. The terms \"seem to give Suno broad discretion to make unilateral changes to the contract, the service and the subscription prices, without having to provide any justification,\" the authority said."
-       },
-       {
-        "t": "p",
-        "x": "The AGCM said \"the contractual provisions on copyright deserve particular attention,\" calling the license imposed on consumers insufficiently defined and saying it imposes the waiver of moral rights contrary to Italy's copyright statute, Law 633/1941. It also flagged binding individual arbitration in the United States and a waiver of class actions."
-       },
-       {
-        "t": "p",
-        "x": "The authority will open a public consultation on the terms over the next few weeks. Its fines for unfair contract terms range between €5,000 and €10 million. MBW has reached out to Suno for comment."
-       }
-      ]
-     }
+  "date": "2026-10-08",
+  "section": "music",
+  "cards": [
+    {
+      "id": "music-copyright-office-fraud-inquiry",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
+      "body": "U.S. 저작권청이 AI 곡과 봇 재생으로 번지는 스트리밍 사기 의견을 모은다.",
+      "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+      "tool": "Music",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/copyright-office-music-streaming-fraud-inquiry/",
+      "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+            "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+          },
+          {
+            "t": "p",
+            "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 골칫거리 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 공고를 내고 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받겠다고 밝혔다. 공개 의견은 Nov. 23까지 받는다."
+          },
+          {
+            "t": "p",
+            "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에서 시작됐다. 그는 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 저작권청이 살펴봐야 한다고 요구했다."
+          },
+          {
+            "t": "p",
+            "x": "DSPs는 고정된 풀에서 로열티를 나눠 주므로 가짜 재생이 늘수록 실제 스트리밍에 돌아갈 몫이 줄어든다. 이제 악의적 행위자들은 AI 음악 생성기로 곡을 대량으로 찍어 낼 수 있게 됐다(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다). 에이전트형 AI는 봇 팜의 규모까지 키웠다."
+          },
+          {
+            "t": "p",
+            "x": "공고는 어떤 수법이 가장 널리 퍼졌는지, 경제적 영향은 얼마나 큰지, AI는 어떤 역할을 했는지, 해법은 의회 입법에서 나와야 하는지를 묻는다. 공고가 나온 날은 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 바로 다음 날이었다. 그는 부정한 로열티로 $8 million 넘게 챙겼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "U.S. Copyright Office opens\nstreaming fraud inquiry",
+          "body": "The U.S. Copyright Office is seeking public input on streaming fraud, including AI tracks pumped with bot streams.",
+          "mini_headline": "Copyright Office probes\nstreaming fraud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "The Library of Congress, which houses the U.S. Copyright Office, is seen on May 12, 2025 in Washington, DC."
+              },
+              {
+                "t": "p",
+                "x": "The U.S. Copyright Office has launched an investigation into one of the music industry’s biggest problems: streaming fraud. In a Wednesday (Oct. 7) notice in the Federal Register, it said it is soliciting data and suggestions that “may contribute to Congress’s understanding of streaming fraud, current efforts to curb this problem and potential solutions.” Public comments are due Nov. 23."
+              },
+              {
+                "t": "p",
+                "x": "The inquiry responds to a May letter from Rep. Scott Fitzgerald (R-Wis.), who said the office should examine the ways “generative AI can serve as a catalyst for criminals to perpetrate streaming fraud.”"
+              },
+              {
+                "t": "p",
+                "x": "Since DSPs divvy up royalties out of a fixed pool, fake plays siphon off money from real streams. AI music generators now let bad actors churn out huge amounts of songs (Deezer found up to 85% of streams on fully AI-generated tracks in 2025 were fraudulent), and agentic AI has scaled bot farms."
+              },
+              {
+                "t": "p",
+                "x": "The notice asks which schemes are most prevalent, how significant the economic impacts are, how AI has contributed, and whether a solution should come from Congressional legislation. It comes a day after Michael Smith was sentenced in the first-ever U.S. streaming fraud prosecution, having earned more than $8 million in fraudulent royalties."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
+          "body": "U.S. 저작권청이 AI 곡과 봇 재생으로 번지는 스트리밍 사기 의견을 모은다.",
+          "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 골칫거리 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 공고를 내고 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받겠다고 밝혔다. 공개 의견은 Nov. 23까지 받는다."
+              },
+              {
+                "t": "p",
+                "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에서 시작됐다. 그는 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 저작권청이 살펴봐야 한다고 요구했다."
+              },
+              {
+                "t": "p",
+                "x": "DSPs는 고정된 풀에서 로열티를 나눠 주므로 가짜 재생이 늘수록 실제 스트리밍에 돌아갈 몫이 줄어든다. 이제 악의적 행위자들은 AI 음악 생성기로 곡을 대량으로 찍어 낼 수 있게 됐다(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다). 에이전트형 AI는 봇 팜의 규모까지 키웠다."
+              },
+              {
+                "t": "p",
+                "x": "공고는 어떤 수법이 가장 널리 퍼졌는지, 경제적 영향은 얼마나 큰지, AI는 어떤 역할을 했는지, 해법은 의회 입법에서 나와야 하는지를 묻는다. 공고가 나온 날은 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 바로 다음 날이었다. 그는 부정한 로열티로 $8 million 넘게 챙겼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "U.S. 著作権局が\n配信不正の調査開始",
+          "body": "U.S. 著作権局が、ボット再生で水増しされたAI楽曲を含む配信不正について意見を募る。",
+          "mini_headline": "Copyright Office、配信不正を調査",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Officeが入るワシントンDCのLibrary of Congress（米議会図書館）。May 12, 2025撮影。"
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office（米著作権局）が、音楽業界最大の問題のひとつであるストリーミング不正の調査に乗り出した。水曜日（Oct. 7）のFederal Register（連邦官報）での告知で、同局は「ストリーミング不正、この問題を抑える現在の取り組み、そして考えうる解決策について、議会の理解に資する可能性がある」データと提案を募ると述べた。パブリックコメントの締め切りはNov. 23である。"
+              },
+              {
+                "t": "p",
+                "x": "今回の調査は、Rep. Scott Fitzgerald（R-Wis.）下院議員が五月に送った書簡を受けたものだ。同議員は、同局が「生成AIが犯罪者によるストリーミング不正を助長する触媒になりうる」仕組みを検証すべきだと述べていた。"
+              },
+              {
+                "t": "p",
+                "x": "DSPsは固定のプールからロイヤルティを分配するため、偽の再生は本物のストリームから収益を吸い上げる。AI音楽生成ツールによって悪意ある者が大量の楽曲を量産できるようになり（Deezerによれば、2025年に完全なAI-generated楽曲で発生したストリームの最大85%が不正だった）、エージェント型AIはボットファームの規模を拡大させた。"
+              },
+              {
+                "t": "p",
+                "x": "告知は、どの手口が最も蔓延しているか、経済的影響はどれほど大きいか、AIがどう関与してきたか、解決策を議会の立法に求めるべきかを問うている。告知は、U.S.で初のストリーミング不正訴追でMichael Smithに判決が下った翌日に出された。同氏は不正なロイヤルティで$8 million超を得ていた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "U.S. 版权局启动\n流媒体欺诈调查",
+          "body": "U.S. 版权局就流媒体欺诈公开征求意见，包括用机器人刷量的AI歌曲。",
+          "mini_headline": "Copyright Office调查流媒体欺诈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Office所在的华盛顿DC的Library of Congress（美国国会图书馆），摄于May 12, 2025。"
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office（美国版权局）已就音乐产业最大的难题之一——流媒体欺诈——展开调查。该局在周三（Oct. 7）发布于Federal Register（联邦公报）的通知中表示，正在征集“可能有助于国会理解流媒体欺诈、当前遏制这一问题的努力及潜在解决方案”的数据和建议。公众意见截止日期为Nov. 23。"
+              },
+              {
+                "t": "p",
+                "x": "此次调查是对Rep. Scott Fitzgerald（R-Wis.）众议员五月来信的回应。他在信中表示，该局应审视“生成式AI可能如何成为犯罪分子实施流媒体欺诈的催化剂”。"
+              },
+              {
+                "t": "p",
+                "x": "由于DSPs从固定的资金池中分配版税，虚假播放会从真实播放中分走收入。如今AI音乐生成工具让不法分子能够批量炮制大量歌曲（Deezer发现，2025年完全AI-generated曲目的播放中，高达85%属于欺诈），而智能体AI则让机器人农场规模不断扩大。"
+              },
+              {
+                "t": "p",
+                "x": "通知询问哪些手法最为普遍、经济影响有多大、AI起到了怎样的作用，以及解决方案是否应来自国会立法。通知发布的前一天，Michael Smith在U.S.首例流媒体欺诈起诉案中被判刑，他通过欺诈获得的版税超过$8 million。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "U.S. Copyright Office investiga\nel fraude en streaming",
+          "body": "La U.S. Copyright Office abre consulta sobre el fraude en streaming, incluidas pistas de AI infladas con bots.",
+          "mini_headline": "La Copyright Office investiga el fraude en streaming",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "La Library of Congress, sede de la U.S. Copyright Office, el 12 de mayo de 2025 en Washington, DC."
+              },
+              {
+                "t": "p",
+                "x": "La U.S. Copyright Office abrió una investigación sobre uno de los mayores problemas de la industria musical: el fraude en streaming. En un aviso publicado el miércoles (Oct. 7) en el Federal Register, indicó que solicita datos y sugerencias que “puedan contribuir a la comprensión del Congreso sobre el fraude en streaming, los esfuerzos actuales para frenar este problema y las posibles soluciones”. Los comentarios públicos vencen el Nov. 23."
+              },
+              {
+                "t": "p",
+                "x": "La investigación responde a una carta de mayo del Rep. Scott Fitzgerald (R-Wis.), quien afirmó que la oficina debía examinar las formas en que “la AI generativa puede servir de catalizador para que los delincuentes cometan fraude en streaming”."
+              },
+              {
+                "t": "p",
+                "x": "Como las DSPs reparten las regalías a partir de un fondo fijo, las reproducciones falsas desvían dinero de las reproducciones reales. Los generadores de música con AI permiten ahora a actores malintencionados producir enormes cantidades de canciones (Deezer halló que hasta el 85% de las reproducciones de pistas totalmente AI-generated en 2025 fueron fraudulentas), y la AI agéntica ha ampliado las granjas de bots."
+              },
+              {
+                "t": "p",
+                "x": "El aviso pregunta qué esquemas son los más extendidos, cuán significativo es su impacto económico, cómo ha contribuido la AI y si la solución debería venir de una ley del Congreso. Llega un día después de que Michael Smith fuera condenado en el primer proceso por fraude en streaming en U.S., tras obtener más de $8 millones en regalías fraudulentas."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
+          "body": "U.S. 저작권청이 봇 재생을 부풀린 AI 곡 등 스트리밍 사기 의견을 받는다.",
+          "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 문제 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 낸 공고에서 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받는다고 밝혔다. 공개 의견 마감일은 Nov. 23이다."
+              },
+              {
+                "t": "p",
+                "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에 따른 것이다. 그는 저작권청이 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 살펴봐야 한다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "DSPs는 고정된 풀에서 로열티를 나눠 주기 때문에 가짜 재생은 실제 스트리밍에 돌아갈 돈을 빼간다. 이제 AI 음악 생성기로 악의적 행위자들이 곡을 대량으로 찍어낼 수 있고(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다), 에이전트형 AI는 봇 팜의 규모를 키웠다."
+              },
+              {
+                "t": "p",
+                "x": "공고는 어떤 수법이 가장 널리 퍼져 있는지, 경제적 영향은 얼마나 큰지, AI가 어떤 역할을 했는지, 해법이 의회 입법에서 나와야 하는지를 묻는다. 공고는 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 다음 날 나왔다. 그는 부정한 로열티로 $8 million 넘게 벌어들였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "U.S. 著作権局が\n配信不正の調査開始",
+          "body": "U.S. 著作権局が、ボット再生で水増しされたAI楽曲を含む配信不正について意見を募る。",
+          "mini_headline": "Copyright Office、配信不正を調査",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Officeが入るワシントンDCのLibrary of Congress（米議会図書館）。May 12, 2025撮影。"
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office（米著作権局）が、音楽業界最大の問題のひとつであるストリーミング不正の調査に乗り出した。水曜日（Oct. 7）のFederal Register（連邦官報）での告知で、同局は「ストリーミング不正、この問題を抑える現在の取り組み、そして考えうる解決策について、議会の理解に資する可能性がある」データと提案を募ると述べた。パブリックコメントの締め切りはNov. 23である。"
+              },
+              {
+                "t": "p",
+                "x": "今回の調査は、Rep. Scott Fitzgerald（R-Wis.）下院議員が五月に送った書簡を受けたものだ。同議員は、同局が「生成AIが犯罪者によるストリーミング不正を助長する触媒になりうる」仕組みを検証すべきだと述べていた。"
+              },
+              {
+                "t": "p",
+                "x": "DSPsは固定のプールからロイヤルティを分配するため、偽の再生は本物のストリームから収益を吸い上げる。AI音楽生成ツールによって悪意ある者が大量の楽曲を量産できるようになり（Deezerによれば、2025年に完全なAI-generated楽曲で発生したストリームの最大85%が不正だった）、エージェント型AIはボットファームの規模を拡大させた。"
+              },
+              {
+                "t": "p",
+                "x": "告知は、どの手口が最も蔓延しているか、経済的影響はどれほど大きいか、AIがどう関与してきたか、解決策を議会の立法に求めるべきかを問うている。告知は、U.S.で初のストリーミング不正訴追でMichael Smithに判決が下った翌日に出された。同氏は不正なロイヤルティで$8 million超を得ていた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "U.S. 版权局启动\n流媒体欺诈调查",
+          "body": "U.S. 版权局就流媒体欺诈公开征求意见，包括用机器人刷量的AI歌曲。",
+          "mini_headline": "Copyright Office调查流媒体欺诈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "U.S. Copyright Office所在的华盛顿DC的Library of Congress（美国国会图书馆），摄于May 12, 2025。"
+              },
+              {
+                "t": "p",
+                "x": "U.S. Copyright Office（美国版权局）已就音乐产业最大的难题之一——流媒体欺诈——展开调查。该局在周三（Oct. 7）发布于Federal Register（联邦公报）的通知中表示，正在征集“可能有助于国会理解流媒体欺诈、当前遏制这一问题的努力及潜在解决方案”的数据和建议。公众意见截止日期为Nov. 23。"
+              },
+              {
+                "t": "p",
+                "x": "此次调查是对Rep. Scott Fitzgerald（R-Wis.）众议员五月来信的回应。他在信中表示，该局应审视“生成式AI可能如何成为犯罪分子实施流媒体欺诈的催化剂”。"
+              },
+              {
+                "t": "p",
+                "x": "由于DSPs从固定的资金池中分配版税，虚假播放会从真实播放中分走收入。如今AI音乐生成工具让不法分子能够批量炮制大量歌曲（Deezer发现，2025年完全AI-generated曲目的播放中，高达85%属于欺诈），而智能体AI则让机器人农场规模不断扩大。"
+              },
+              {
+                "t": "p",
+                "x": "通知询问哪些手法最为普遍、经济影响有多大、AI起到了怎样的作用，以及解决方案是否应来自国会立法。通知发布的前一天，Michael Smith在U.S.首例流媒体欺诈起诉案中被判刑，他通过欺诈获得的版税超过$8 million。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "U.S. Copyright Office investiga\nel fraude en streaming",
+          "body": "La U.S. Copyright Office abre consulta sobre el fraude en streaming, incluidas pistas de AI infladas con bots.",
+          "mini_headline": "La Copyright Office investiga el fraude en streaming",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+                "cap": "La Library of Congress, sede de la U.S. Copyright Office, el 12 de mayo de 2025 en Washington, DC."
+              },
+              {
+                "t": "p",
+                "x": "La U.S. Copyright Office abrió una investigación sobre uno de los mayores problemas de la industria musical: el fraude en streaming. En un aviso publicado el miércoles (Oct. 7) en el Federal Register, indicó que solicita datos y sugerencias que “puedan contribuir a la comprensión del Congreso sobre el fraude en streaming, los esfuerzos actuales para frenar este problema y las posibles soluciones”. Los comentarios públicos vencen el Nov. 23."
+              },
+              {
+                "t": "p",
+                "x": "La investigación responde a una carta de mayo del Rep. Scott Fitzgerald (R-Wis.), quien afirmó que la oficina debía examinar las formas en que “la AI generativa puede servir de catalizador para que los delincuentes cometan fraude en streaming”."
+              },
+              {
+                "t": "p",
+                "x": "Como las DSPs reparten las regalías a partir de un fondo fijo, las reproducciones falsas desvían dinero de las reproducciones reales. Los generadores de música con AI permiten ahora a actores malintencionados producir enormes cantidades de canciones (Deezer halló que hasta el 85% de las reproducciones de pistas totalmente AI-generated en 2025 fueron fraudulentas), y la AI agéntica ha ampliado las granjas de bots."
+              },
+              {
+                "t": "p",
+                "x": "El aviso pregunta qué esquemas son los más extendidos, cuán significativo es su impacto económico, cómo ha contribuido la AI y si la solución debería venir de una ley del Congreso. Llega un día después de que Michael Smith fuera condenado en el primer proceso por fraude en streaming en U.S., tras obtener más de $8 millones en regalías fraudulentas."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ko": {
-     "headline": "이탈리아, Suno\n이용약관 조사 착수",
-     "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 들여다본다.",
-     "mini_headline": "이탈리아, Suno 약관 조사",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "사진 출처: FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno 이용약관 조사에 착수했다고 밝혔다. 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"는 판단이다."
-       },
-       {
-        "t": "p",
-        "x": "당국이 문제 삼은 대목은 가격 변경과 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구하는 것으로 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 했다."
-       },
-       {
-        "t": "p",
-        "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스는 범위가 충분히 정해지지 않았고, 이탈리아 저작권법(Law 633/1941)에 어긋나는 저작인격권 포기까지 강요한다는 것이다. 미국에서 진행하는 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 꼽았다."
-       },
-       {
-        "t": "p",
-        "x": "당국은 몇 주 안에 이 약관을 두고 공개 의견 수렴에 들어간다. 불공정 계약 조항에 매기는 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 물었다."
-       }
-      ]
-     }
+    {
+      "id": "music-grok-suno-backend",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
+      "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
+      "mini_headline": "Grok, 음악은 Suno로",
+      "tool": "Music",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+            "cap": "사진: Mariia Berezovsky"
+          },
+          {
+            "t": "p",
+            "x": "Elon Musk가 X에 올린 짧은 게시물에 따르면, SpaceXAI의 Grok Bot이 Suno의 음악 생성 모델을 공식적으로 쓰기 시작한다. Grok Bot은 “실제로 일을 해 주는 AI 팀원”을 내세운 서비스다."
+          },
+          {
+            "t": "p",
+            "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+          },
+          {
+            "t": "p",
+            "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 나오지 않았다. X 사용자들은 출시 일정과 결과물의 권리를 묻는다. 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "한편 ElevenLabs는 음악으로 발을 넓히는 중이고, Suno는 시월 초 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 내놓았다. 이탈리아에서 약관을 문제 삼은 조사까지 더해져 Suno의 법적 분쟁은 좀처럼 끝나지 않는다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Grok will hand music\ngeneration to Suno",
+          "body": "Elon Musk says Grok Bot will use Suno and other leading back-end models, picking the best one for each task.",
+          "mini_headline": "Grok routes music\nto Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "Photo Credit: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "SpaceXAI’s Grok Bot, which is said to provide “AI teammates that do real work for you,” is officially set to begin utilizing Suno’s music generation models, according to a brief X post from Elon Musk."
+              },
+              {
+                "t": "p",
+                "x": "“Important note regarding Grok @bot: Going forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome,” he wrote."
+              },
+              {
+                "t": "p",
+                "x": "Musk added that most Grok Bot requests “are pretty simple and will be handled by a lightning-fast version of Grok 4.8 when that comes out.” Few other details are available; users on X are asking about the rollout timetable and the rights attached to outputs, and one noted that Suno and Midjourney don’t “have official API products.”"
+              },
+              {
+                "t": "p",
+                "x": "Meanwhile ElevenLabs is expanding into music, and Suno kicked off October by launching Speech, “the first audio model that generates voice and music together as one cohesive track.” Suno’s legal battles, now including a terms-focused investigation in Italy, continue."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
+          "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
+          "mini_headline": "Grok, 음악은 Suno로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "사진: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "Elon Musk가 X에 올린 짧은 게시물에 따르면, SpaceXAI의 Grok Bot이 Suno의 음악 생성 모델을 공식적으로 쓰기 시작한다. Grok Bot은 “실제로 일을 해 주는 AI 팀원”을 내세운 서비스다."
+              },
+              {
+                "t": "p",
+                "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 나오지 않았다. X 사용자들은 출시 일정과 결과물의 권리를 묻는다. 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "한편 ElevenLabs는 음악으로 발을 넓히는 중이고, Suno는 시월 초 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 내놓았다. 이탈리아에서 약관을 문제 삼은 조사까지 더해져 Suno의 법적 분쟁은 좀처럼 끝나지 않는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grok、音楽生成を\nSunoに任せる",
+          "body": "Elon MuskはGrok BotがSunoなど最適なback-endを使うと述べた。",
+          "mini_headline": "Grok、音楽はSunoへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "写真: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "Elon Muskの短いX投稿によると、「実際に仕事をしてくれるAIチームメイト」を提供するとされるSpaceXAIのGrok Botが、Sunoの音楽生成モデルを正式に使い始める。"
+              },
+              {
+                "t": "p",
+                "x": "「Grok @botに関する重要なお知らせ：今後、@SpaceXはClaude Opus 5.5、MidJourney、Sunoをはじめとする主要なAPIsの中から、タスクごとに最適なバックエンドモデルを使う。最良の結果をもたらす可能性が最も高いものを使う」と同氏は書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Muskは、Grok Botへのリクエストの大半は「かなり単純で、Grok 4.8が出れば、その超高速版が処理する」と付け加えた。その他の詳細はほとんど明らかになっていない。Xのユーザーは提供開始の時期や生成物に付随する権利について質問しており、SunoとMidjourneyには「公式のAPI製品がない」と指摘する声もあった。"
+              },
+              {
+                "t": "p",
+                "x": "一方、ElevenLabsは音楽分野へ進出しており、Sunoは十月の幕開けに「声と音楽をひとつのまとまったトラックとして同時に生成する初のオーディオモデル」であるSpeechを発表した。イタリアでの利用規約をめぐる調査も加わり、Sunoの法廷闘争は続いている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grok把音乐生成\n交给Suno",
+          "body": "Elon Musk称Grok Bot将按任务择优选用Suno等领先back-end模型。",
+          "mini_headline": "Grok音乐交给Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "图片来源：Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "据Elon Musk在X上发布的一则简短帖子，号称提供“能为你真正干活的AI队友”的SpaceXAI旗下Grok Bot将正式开始使用Suno的音乐生成模型。"
+              },
+              {
+                "t": "p",
+                "x": "他写道：“关于Grok @bot的重要说明：今后，@SpaceX将针对每项任务选用最佳的后端模型，包括Claude Opus 5.5、MidJourney、Suno及其他领先的APIs。哪个最可能给你带来最好的结果，就用哪个。”"
+              },
+              {
+                "t": "p",
+                "x": "Musk补充说，Grok Bot的大多数请求“都相当简单，等Grok 4.8推出后，将由其极速版本处理”。目前其他细节寥寥；X上的用户在询问上线时间表以及生成内容所附带的权利，还有人指出Suno和Midjourney并没有“官方API产品”。"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，ElevenLabs正在向音乐领域扩张，Suno则在十月伊始推出了Speech，称其为“首个将人声与音乐作为一条完整连贯音轨同时生成的音频模型”。Suno的法律纠纷仍在继续，如今还包括意大利一项针对其服务条款的调查。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grok delegará la generación\nmusical en Suno",
+          "body": "Elon Musk dice que Grok Bot usará Suno y otros modelos back-end líderes, eligiendo el mejor para cada tarea.",
+          "mini_headline": "Grok deriva la música a Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "Crédito de la foto: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "El Grok Bot de SpaceXAI, que según se afirma ofrece “compañeros de equipo de AI que hacen trabajo real por ti”, comenzará oficialmente a utilizar los modelos de generación musical de Suno, según una breve publicación en X de Elon Musk."
+              },
+              {
+                "t": "p",
+                "x": "“Nota importante sobre Grok @bot: de ahora en adelante, @SpaceX usará el mejor modelo de back end para cada tarea, incluidos Claude Opus 5.5, MidJourney, Suno y otras APIs líderes. Lo que tenga más probabilidades de darte el mejor resultado”, escribió."
+              },
+              {
+                "t": "p",
+                "x": "Musk añadió que la mayoría de las solicitudes a Grok Bot “son bastante simples y las atenderá una versión ultrarrápida de Grok 4.8 cuando salga”. Hay pocos detalles más; usuarios de X preguntan por el calendario de despliegue y los derechos sobre los resultados, y uno señaló que Suno y Midjourney no “tienen productos de API oficiales”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, ElevenLabs se expande hacia la música, y Suno inició octubre con el lanzamiento de Speech, “el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada”. Continúan las batallas legales de Suno, que ahora incluyen una investigación en Italia centrada en sus términos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
+          "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
+          "mini_headline": "Grok, 음악은 Suno로",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "사진: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "Elon Musk의 짧은 X 게시물에 따르면, “실제로 일을 해 주는 AI 팀원”을 제공한다는 SpaceXAI의 Grok Bot이 공식적으로 Suno의 음악 생성 모델을 쓰기 시작한다."
+              },
+              {
+                "t": "p",
+                "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+              },
+              {
+                "t": "p",
+                "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 공개되지 않았다. X 사용자들은 출시 일정과 결과물에 붙는 권리를 묻고 있으며, 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "한편 ElevenLabs는 음악으로 영역을 넓히고 있고, Suno는 시월을 열며 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 출시했다. 이탈리아에서 약관을 겨냥한 조사까지 더해지며 Suno의 법적 분쟁은 이어지고 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grok、音楽生成を\nSunoに任せる",
+          "body": "Elon MuskはGrok BotがSunoなど最適なback-endを使うと述べた。",
+          "mini_headline": "Grok、音楽はSunoへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "写真: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "Elon Muskの短いX投稿によると、「実際に仕事をしてくれるAIチームメイト」を提供するとされるSpaceXAIのGrok Botが、Sunoの音楽生成モデルを正式に使い始める。"
+              },
+              {
+                "t": "p",
+                "x": "「Grok @botに関する重要なお知らせ：今後、@SpaceXはClaude Opus 5.5、MidJourney、Sunoをはじめとする主要なAPIsの中から、タスクごとに最適なバックエンドモデルを使う。最良の結果をもたらす可能性が最も高いものを使う」と同氏は書いた。"
+              },
+              {
+                "t": "p",
+                "x": "Muskは、Grok Botへのリクエストの大半は「かなり単純で、Grok 4.8が出れば、その超高速版が処理する」と付け加えた。その他の詳細はほとんど明らかになっていない。Xのユーザーは提供開始の時期や生成物に付随する権利について質問しており、SunoとMidjourneyには「公式のAPI製品がない」と指摘する声もあった。"
+              },
+              {
+                "t": "p",
+                "x": "一方、ElevenLabsは音楽分野へ進出しており、Sunoは十月の幕開けに「声と音楽をひとつのまとまったトラックとして同時に生成する初のオーディオモデル」であるSpeechを発表した。イタリアでの利用規約をめぐる調査も加わり、Sunoの法廷闘争は続いている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grok把音乐生成\n交给Suno",
+          "body": "Elon Musk称Grok Bot将按任务择优选用Suno等领先back-end模型。",
+          "mini_headline": "Grok音乐交给Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "图片来源：Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "据Elon Musk在X上发布的一则简短帖子，号称提供“能为你真正干活的AI队友”的SpaceXAI旗下Grok Bot将正式开始使用Suno的音乐生成模型。"
+              },
+              {
+                "t": "p",
+                "x": "他写道：“关于Grok @bot的重要说明：今后，@SpaceX将针对每项任务选用最佳的后端模型，包括Claude Opus 5.5、MidJourney、Suno及其他领先的APIs。哪个最可能给你带来最好的结果，就用哪个。”"
+              },
+              {
+                "t": "p",
+                "x": "Musk补充说，Grok Bot的大多数请求“都相当简单，等Grok 4.8推出后，将由其极速版本处理”。目前其他细节寥寥；X上的用户在询问上线时间表以及生成内容所附带的权利，还有人指出Suno和Midjourney并没有“官方API产品”。"
+              },
+              {
+                "t": "p",
+                "x": "与此同时，ElevenLabs正在向音乐领域扩张，Suno则在十月伊始推出了Speech，称其为“首个将人声与音乐作为一条完整连贯音轨同时生成的音频模型”。Suno的法律纠纷仍在继续，如今还包括意大利一项针对其服务条款的调查。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grok delegará la generación\nmusical en Suno",
+          "body": "Elon Musk dice que Grok Bot usará Suno y otros modelos back-end líderes, eligiendo el mejor para cada tarea.",
+          "mini_headline": "Grok deriva la música a Suno",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+                "cap": "Crédito de la foto: Mariia Berezovsky"
+              },
+              {
+                "t": "p",
+                "x": "El Grok Bot de SpaceXAI, que según se afirma ofrece “compañeros de equipo de AI que hacen trabajo real por ti”, comenzará oficialmente a utilizar los modelos de generación musical de Suno, según una breve publicación en X de Elon Musk."
+              },
+              {
+                "t": "p",
+                "x": "“Nota importante sobre Grok @bot: de ahora en adelante, @SpaceX usará el mejor modelo de back end para cada tarea, incluidos Claude Opus 5.5, MidJourney, Suno y otras APIs líderes. Lo que tenga más probabilidades de darte el mejor resultado”, escribió."
+              },
+              {
+                "t": "p",
+                "x": "Musk añadió que la mayoría de las solicitudes a Grok Bot “son bastante simples y las atenderá una versión ultrarrápida de Grok 4.8 cuando salga”. Hay pocos detalles más; usuarios de X preguntan por el calendario de despliegue y los derechos sobre los resultados, y uno señaló que Suno y Midjourney no “tienen productos de API oficiales”."
+              },
+              {
+                "t": "p",
+                "x": "Mientras tanto, ElevenLabs se expande hacia la música, y Suno inició octubre con el lanzamiento de Speech, “el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada”. Continúan las batallas legales de Suno, que ahora incluyen una investigación en Italia centrada en sus términos."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ja": {
-     "headline": "イタリア、Sunoの\n利用規約を調査",
-     "body": "イタリアAGCMが著作者人格権放棄のライセンスなどSunoの規約を調査中だ。",
-     "mini_headline": "イタリア、Sunoの規約を調査",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "写真：FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
-       },
-       {
-        "t": "p",
-        "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
-       },
-       {
-        "t": "p",
-        "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
-       },
-       {
-        "t": "p",
-        "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
-       }
-      ]
-     }
+    {
+      "id": "music-tencent-music-deepseek",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Tencent Music\nAI툴에 DeepSeek",
+      "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
+      "mini_headline": "Tencent Music, DeepSeek 내장",
+      "tool": "Music",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+            "cap": "사진: mundissima / Shutterstock.com"
+          },
+          {
+            "t": "p",
+            "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
+          },
+          {
+            "t": "p",
+            "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
+          },
+          {
+            "t": "p",
+            "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Tencent Music runs DeepSeek\ninside its AI tools",
+          "body": "Parent Tencent is among the biggest backers of DeepSeek's $12B round; Tencent Music has used DeepSeek since 2025.",
+          "mini_headline": "Tencent Music\nbuilds in DeepSeek",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Credit: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "China-based AI company DeepSeek is close to raising at least RMB 80 billion (USD $12 billion) in a new funding round, with Tencent Holdings among its biggest backers, Bloomberg reported on Tuesday (October 6). Tencent and battery maker CATL “have committed among the largest amounts.”"
+              },
+              {
+                "t": "p",
+                "x": "Tencent is the controlling shareholder of Tencent Music Entertainment (TME), which integrated DeepSeek into its music streaming service in 2025. The round could end up near RMB 100 billion ($15 billion); DeepSeek is targeting a stock market listing in early 2027."
+              },
+              {
+                "t": "p",
+                "x": "TME disclosed the integration on an earnings call in March 2025, when CEO Ross Liang said DeepSeek had been built into its AI songwriting tool, AI assistant, comment sections, and recommendation pages. In its Q2 2026 report, TME said AI agents in QQ Music and Kugou Music now create personalized playlists on the fly."
+              },
+              {
+                "t": "p",
+                "x": "The International Confederation of Music Publishers (ICMP) has previously accused DeepSeek of reproducing copyrighted song lyrics, with Director General John Phelan alleging it used protected music commercially without licenses."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Tencent Music\nAI툴에 DeepSeek",
+          "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
+          "mini_headline": "Tencent Music, DeepSeek 내장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "사진: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
+              },
+              {
+                "t": "p",
+                "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
+              },
+              {
+                "t": "p",
+                "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tencent Music integra DeepSeek\nen sus herramientas de AI",
+          "body": "Su matriz, Tencent, es de los mayores inversores en la ronda de $12B de DeepSeek; Tencent Music lo usa desde 2025.",
+          "mini_headline": "Tencent Music integra DeepSeek",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Crédito: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "DeepSeek, empresa de AI China-based, está cerca de recaudar al menos RMB 80 mil millones (USD $12 mil millones) en una nueva ronda de financiación, con Tencent Holdings entre sus mayores inversores, informó Bloomberg el martes (6 de octubre). Tencent y el fabricante de baterías CATL “se han comprometido con algunos de los montos más altos”."
+              },
+              {
+                "t": "p",
+                "x": "Tencent es el accionista de control de Tencent Music Entertainment (TME), que integró DeepSeek en su servicio de streaming musical en 2025. La ronda podría acercarse a los RMB 100 mil millones ($15 mil millones); DeepSeek apunta a salir a bolsa a principios de 2027."
+              },
+              {
+                "t": "p",
+                "x": "TME reveló la integración en una conferencia de resultados en marzo de 2025, cuando su CEO, Ross Liang, dijo que DeepSeek se había incorporado a su herramienta de composición con AI, su asistente de AI, las secciones de comentarios y las páginas de recomendaciones. En su informe del Q2 2026, TME señaló que los agentes de AI de QQ Music y Kugou Music ya crean listas de reproducción personalizadas al instante."
+              },
+              {
+                "t": "p",
+                "x": "La International Confederation of Music Publishers (ICMP) ya había acusado a DeepSeek de reproducir letras de canciones protegidas por derechos de autor, y su director general, John Phelan, afirmó que usó música protegida con fines comerciales sin licencias."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tencent Music\nAIにDeepSeek搭載",
+          "body": "TencentはDeepSeekの$12B 調達の大口出資者で、TMEは2025年から採用。",
+          "mini_headline": "Tencent MusicがDeepSeekを組み込む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Credit: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "中国のAI企業DeepSeekが新たな資金調達ラウンドで少なくともRMB 80 billion（USD $12 billion）の調達に近づいており、Tencent Holdingsが最大の出資者の一つだと、Bloombergが10月6日（火）に報じた。Tencentと電池メーカーのCATLは「最大級の金額を約束した」という。"
+              },
+              {
+                "t": "p",
+                "x": "TencentはTencent Music Entertainment（TME）の支配株主であり、TMEは2025年に自社の音楽ストリーミングサービスへDeepSeekを統合した。ラウンドは最終的にRMB 100 billion（$15 billion）近くに達する可能性があり、DeepSeekは2027年初めの株式上場を目指している。"
+              },
+              {
+                "t": "p",
+                "x": "TMEは2025年3月の決算説明会でこの統合を明らかにした。CEOのRoss Liangは当時、DeepSeekをAI作詞作曲ツール、AIアシスタント、コメント欄、レコメンドページに組み込んだと述べた。Q2 2026の報告でTMEは、QQ MusicとKugou MusicのAIエージェントが個人向けプレイリストをその場で作成するようになったとしている。"
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers（ICMP）は以前、DeepSeekが著作権で保護された歌詞を複製していると非難しており、事務局長のJohn Phelanは、同社が保護された音楽をライセンスなしで商業利用したと主張している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tencent Music\nAI工具内置DeepSeek",
+          "body": "Tencent是DeepSeek $12B 融资的最大金主之一，TME自2025年起已采用。",
+          "mini_headline": "Tencent Music内置DeepSeek",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Credit: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "据Bloomberg周二（10月6日）报道，中国AI公司DeepSeek即将在新一轮融资中筹集至少RMB 80 billion（USD $12 billion），Tencent Holdings是其最大支持者之一。Tencent与电池制造商CATL“承诺的金额位居最大之列”。"
+              },
+              {
+                "t": "p",
+                "x": "Tencent是Tencent Music Entertainment（TME）的控股股东，TME已于2025年将DeepSeek整合进其音乐流媒体服务。本轮融资最终可能接近RMB 100 billion（$15 billion）；DeepSeek的目标是在2027年初上市。"
+              },
+              {
+                "t": "p",
+                "x": "TME在2025年3月的财报电话会上披露了这一整合，CEO Ross Liang当时表示，DeepSeek已被嵌入其AI词曲创作工具、AI助手、评论区和推荐页面。TME在Q2 2026报告中表示，QQ Music和Kugou Music中的AI智能体如今可即时生成个性化歌单。"
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers（ICMP）此前曾指控DeepSeek复制受版权保护的歌词，总干事John Phelan称其未经许可将受保护的音乐用于商业用途。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Tencent Music\nAI툴에 DeepSeek",
+          "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
+          "mini_headline": "Tencent Music, DeepSeek 내장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "사진: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
+              },
+              {
+                "t": "p",
+                "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
+              },
+              {
+                "t": "p",
+                "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Tencent Music integra DeepSeek\nen sus herramientas de AI",
+          "body": "Su matriz, Tencent, es de los mayores inversores en la ronda de $12B de DeepSeek; Tencent Music lo usa desde 2025.",
+          "mini_headline": "Tencent Music integra DeepSeek",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Crédito: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "DeepSeek, empresa de AI China-based, está cerca de recaudar al menos RMB 80 mil millones (USD $12 mil millones) en una nueva ronda de financiación, con Tencent Holdings entre sus mayores inversores, informó Bloomberg el martes (6 de octubre). Tencent y el fabricante de baterías CATL “se han comprometido con algunos de los montos más altos”."
+              },
+              {
+                "t": "p",
+                "x": "Tencent es el accionista de control de Tencent Music Entertainment (TME), que integró DeepSeek en su servicio de streaming musical en 2025. La ronda podría acercarse a los RMB 100 mil millones ($15 mil millones); DeepSeek apunta a salir a bolsa a principios de 2027."
+              },
+              {
+                "t": "p",
+                "x": "TME reveló la integración en una conferencia de resultados en marzo de 2025, cuando su CEO, Ross Liang, dijo que DeepSeek se había incorporado a su herramienta de composición con AI, su asistente de AI, las secciones de comentarios y las páginas de recomendaciones. En su informe del Q2 2026, TME señaló que los agentes de AI de QQ Music y Kugou Music ya crean listas de reproducción personalizadas al instante."
+              },
+              {
+                "t": "p",
+                "x": "La International Confederation of Music Publishers (ICMP) ya había acusado a DeepSeek de reproducir letras de canciones protegidas por derechos de autor, y su director general, John Phelan, afirmó que usó música protegida con fines comerciales sin licencias."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Tencent Music\nAIにDeepSeek搭載",
+          "body": "TencentはDeepSeekの$12B 調達の大口出資者で、TMEは2025年から採用。",
+          "mini_headline": "Tencent MusicがDeepSeekを組み込む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Credit: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "中国のAI企業DeepSeekが新たな資金調達ラウンドで少なくともRMB 80 billion（USD $12 billion）の調達に近づいており、Tencent Holdingsが最大の出資者の一つだと、Bloombergが10月6日（火）に報じた。Tencentと電池メーカーのCATLは「最大級の金額を約束した」という。"
+              },
+              {
+                "t": "p",
+                "x": "TencentはTencent Music Entertainment（TME）の支配株主であり、TMEは2025年に自社の音楽ストリーミングサービスへDeepSeekを統合した。ラウンドは最終的にRMB 100 billion（$15 billion）近くに達する可能性があり、DeepSeekは2027年初めの株式上場を目指している。"
+              },
+              {
+                "t": "p",
+                "x": "TMEは2025年3月の決算説明会でこの統合を明らかにした。CEOのRoss Liangは当時、DeepSeekをAI作詞作曲ツール、AIアシスタント、コメント欄、レコメンドページに組み込んだと述べた。Q2 2026の報告でTMEは、QQ MusicとKugou MusicのAIエージェントが個人向けプレイリストをその場で作成するようになったとしている。"
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers（ICMP）は以前、DeepSeekが著作権で保護された歌詞を複製していると非難しており、事務局長のJohn Phelanは、同社が保護された音楽をライセンスなしで商業利用したと主張している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Tencent Music\nAI工具内置DeepSeek",
+          "body": "Tencent是DeepSeek $12B 融资的最大金主之一，TME自2025年起已采用。",
+          "mini_headline": "Tencent Music内置DeepSeek",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+                "cap": "Credit: mundissima / Shutterstock.com"
+              },
+              {
+                "t": "p",
+                "x": "据Bloomberg周二（10月6日）报道，中国AI公司DeepSeek即将在新一轮融资中筹集至少RMB 80 billion（USD $12 billion），Tencent Holdings是其最大支持者之一。Tencent与电池制造商CATL“承诺的金额位居最大之列”。"
+              },
+              {
+                "t": "p",
+                "x": "Tencent是Tencent Music Entertainment（TME）的控股股东，TME已于2025年将DeepSeek整合进其音乐流媒体服务。本轮融资最终可能接近RMB 100 billion（$15 billion）；DeepSeek的目标是在2027年初上市。"
+              },
+              {
+                "t": "p",
+                "x": "TME在2025年3月的财报电话会上披露了这一整合，CEO Ross Liang当时表示，DeepSeek已被嵌入其AI词曲创作工具、AI助手、评论区和推荐页面。TME在Q2 2026报告中表示，QQ Music和Kugou Music中的AI智能体如今可即时生成个性化歌单。"
+              },
+              {
+                "t": "p",
+                "x": "International Confederation of Music Publishers（ICMP）此前曾指控DeepSeek复制受版权保护的歌词，总干事John Phelan称其未经许可将受保护的音乐用于商业用途。"
+              }
+            ]
+          }
+        }
+      }
     },
-    "zh": {
-     "headline": "意大利对Suno\n服务条款展开调查",
-     "body": "意大利AGCM正调查Suno的条款，包括其认为要求用户放弃著作人身权的许可。",
-     "mini_headline": "意大利调查Suno条款",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "图片来源：FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "意大利竞争管理局（AGCM）周二（10月6日）表示，已对Suno的服务条款展开调查，认为这些条款“根据《消费者法典》第33条可能属于不公平条款”。"
-       },
-       {
-        "t": "p",
-        "x": "其关注点包括价格调整、账户终止、基于美国（US-based）的仲裁，以及一项据称要求用户放弃著作人身权的内容许可。该机构表示，这些条款“似乎赋予Suno广泛的自由裁量权，可在无需提供任何理由的情况下单方面变更合同、服务和订阅价格”。"
-       },
-       {
-        "t": "p",
-        "x": "AGCM表示，“有关版权的合同条款尤其值得关注”，称强加给消费者的许可界定不够明确，且违反意大利版权法（Law 633/1941），强制用户放弃著作人身权。该机构还指出了在美国进行的具有约束力的个人仲裁，以及放弃集体诉讼的条款。"
-       },
-       {
-        "t": "p",
-        "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Italia abre una investigación\nsobre los términos de Suno",
-     "body": "La AGCM de Italia investiga los términos de Suno, incluida una licencia que obliga a renunciar a derechos morales.",
-     "mini_headline": "Italia investiga los términos de Suno",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "Crédito de la foto: FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "La autoridad de competencia de Italia (AGCM) informó el martes (6 de octubre) que ha abierto una investigación sobre los términos de servicio de Suno, que según la autoridad \"pueden ser abusivos conforme al artículo 33 del Código del Consumidor\"."
-       },
-       {
-        "t": "p",
-        "x": "Sus preocupaciones incluyen los cambios de precio, la cancelación de cuentas, el arbitraje con sede en EE. UU. (US-based) y una licencia de contenido que, según la autoridad, obliga a los usuarios a renunciar a sus derechos morales. Los términos \"parecen otorgar a Suno amplia discreción para hacer cambios unilaterales en el contrato, el servicio y los precios de suscripción, sin tener que dar ninguna justificación\", señaló la autoridad."
-       },
-       {
-        "t": "p",
-        "x": "La AGCM afirmó que \"las disposiciones contractuales sobre derechos de autor merecen especial atención\", calificó de insuficientemente definida la licencia impuesta a los consumidores y señaló que impone la renuncia a los derechos morales en contra de la ley italiana de derechos de autor, la Ley 633/1941. También señaló el arbitraje individual vinculante en Estados Unidos y la renuncia a las demandas colectivas."
-       },
-       {
-        "t": "p",
-        "x": "La autoridad abrirá una consulta pública sobre los términos en las próximas semanas. Sus multas por cláusulas contractuales abusivas oscilan entre €5,000 y €10 millones. MBW ha contactado con Suno para pedir comentarios."
-       }
-      ]
-     }
+    {
+      "id": "music-humanculture-first-clients",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
+      "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 올리기 전에 점친다.",
+      "mini_headline": "소셜 성과를 예측하는 AI",
+      "tool": "Music",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "올해 초 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 소개한 적이 있다. 콘텐츠를 올리기 전에 소셜 미디어에서 얼마나 성과를 낼지 예측하는 기술을 만들던 회사다."
+          },
+          {
+            "t": "p",
+            "x": "그 HumanCulture가 공식 출범하면서 첫 고객사를 공개했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이다."
+          },
+          {
+            "t": "p",
+            "x": "무게중심은 여전히 예측 분석이다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우고, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
+          },
+          {
+            "t": "p",
+            "x": "출시와 함께 Jasper라는 기능도 나왔다. HumanCulture가 “내장형 AI 크리에이티브 전략가”라고 부르는 기능으로, 고객은 Jasper와 대화하며 캠페인과 콘텐츠 캘린더, 기타 마케팅 업무에 쓸 아이디어를 얻는다."
+          },
+          {
+            "t": "p",
+            "x": "회사가 강조하는 건 기술이 아티스트마다 맞춰 조정된다는 점이다. 출발점은 온보딩이다. 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석한다."
+          },
+          {
+            "t": "p",
+            "x": "HumanCulture의 요금은 ‘per-talent’(아티스트당) 방식이다. 아티스트 1-9명을 맡은 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50까지 내려간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "HumanCulture signs first\nclients for predictive AI",
+          "body": "HumanCulture's AI, now with its first clients, predicts how music content will perform on social media before posting.",
+          "mini_headline": "AI that predicts\nsocial performance",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Earlier this year we reported on a startup founded by former Defected Records and AWAL execs developing tech to predict how well content would perform on social media before it was posted."
+              },
+              {
+                "t": "p",
+                "x": "Now HumanCulture has launched officially, including announcing its first set of clients. Defected is one of them, along with Red Light Management, Armada Big Family, Arketyp, Knox Artists and FourFour Digital."
+              },
+              {
+                "t": "p",
+                "x": "The focus is still on predictive analytics. “By analysing storytelling themes, visual styles, audience behaviour and community conversations alongside quantitative performance data, it gives creative teams evidence-based direction before publishing rather than retrospective reporting afterwards,” is the pitch, claiming “82-90% accuracy in predicting content performance”."
+              },
+              {
+                "t": "p",
+                "x": "The launch also revealed a feature called Jasper, which HumanCulture is describing as a “built-in AI creative strategist” who clients can converse with to get ideas for campaigns, content calendars and other marketing tasks."
+              },
+              {
+                "t": "p",
+                "x": "The company is stressing that its tech adapts to each individual artist, starting with an onboarding process that analyses up to a year of their Instagram and TikTok posts and audience comments."
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture is using ‘per-talent’ pricing plans, starting at £65 per talent per month for companies using it for 1-9 artists, dropping to £52.50 per month for those with 50-99 on the books."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
+          "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 올리기 전에 점친다.",
+          "mini_headline": "소셜 성과를 예측하는 AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "올해 초 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 소개한 적이 있다. 콘텐츠를 올리기 전에 소셜 미디어에서 얼마나 성과를 낼지 예측하는 기술을 만들던 회사다."
+              },
+              {
+                "t": "p",
+                "x": "그 HumanCulture가 공식 출범하면서 첫 고객사를 공개했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이다."
+              },
+              {
+                "t": "p",
+                "x": "무게중심은 여전히 예측 분석이다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우고, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "출시와 함께 Jasper라는 기능도 나왔다. HumanCulture가 “내장형 AI 크리에이티브 전략가”라고 부르는 기능으로, 고객은 Jasper와 대화하며 캠페인과 콘텐츠 캘린더, 기타 마케팅 업무에 쓸 아이디어를 얻는다."
+              },
+              {
+                "t": "p",
+                "x": "회사가 강조하는 건 기술이 아티스트마다 맞춰 조정된다는 점이다. 출발점은 온보딩이다. 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석한다."
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture의 요금은 ‘per-talent’(아티스트당) 방식이다. 아티스트 1-9명을 맡은 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50까지 내려간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HumanCulture、\n予測AIで初顧客を獲得",
+          "body": "HumanCultureのAIは、音楽コンテンツのソーシャルでの成果を投稿前に予測する。",
+          "mini_headline": "ソーシャルでの成果を予測するAI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "今年初め、Defected RecordsとAWALの元幹部が設立し、コンテンツが投稿前にソーシャルメディアでどれだけ成果を上げるかを予測する技術を開発しているスタートアップについて報じた。"
+              },
+              {
+                "t": "p",
+                "x": "そのHumanCultureが正式にローンチし、最初の顧客群を発表した。Defectedもその一社で、Red Light Management、Armada Big Family、Arketyp、Knox Artists、FourFour Digitalが名を連ねる。"
+              },
+              {
+                "t": "p",
+                "x": "軸足は引き続き予測分析にある。「ストーリーテリングのテーマ、ビジュアルスタイル、オーディエンスの行動、コミュニティでの会話を定量的なパフォーマンスデータとあわせて分析することで、事後の振り返りレポートではなく、公開前にエビデンスに基づく方向性をクリエイティブチームに示す」というのが売り文句で、「コンテンツのパフォーマンス予測で82-90%の精度」をうたう。"
+              },
+              {
+                "t": "p",
+                "x": "ローンチでは、Jasperという機能も明らかになった。HumanCultureはこれを「組み込み型のAIクリエイティブストラテジスト」と説明しており、顧客は対話を通じてキャンペーンやコンテンツカレンダー、その他のマーケティング業務のアイデアを得られる。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、自社の技術が個々のアーティストに合わせて適応する点を強調する。その起点となるのが、アーティストのInstagramとTikTokの投稿とオーディエンスのコメントを最大一年分分析するオンボーディングだ。"
+              },
+              {
+                "t": "p",
+                "x": "HumanCultureは‘per-talent’（タレント単位）の料金プランを採用しており、1-9人のアーティストで使う企業はタレントごとに月£65から、50-99人を抱える企業では月£52.50まで下がる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HumanCulture\n预测AI迎来首批客户",
+          "body": "HumanCulture的AI已迎来首批客户，可在发布前预测音乐内容在社交媒体上的表现。",
+          "mini_headline": "预测社交表现的AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "今年早些时候，我们报道过一家由Defected Records和AWAL前高管创办的初创公司，其开发的技术能在内容发布前预测其在社交媒体上的表现。"
+              },
+              {
+                "t": "p",
+                "x": "如今HumanCulture已正式上线，并公布了首批客户。Defected是其中之一，此外还有Red Light Management、Armada Big Family、Arketyp、Knox Artists和FourFour Digital。"
+              },
+              {
+                "t": "p",
+                "x": "重点仍是预测分析。其宣传语称：“通过将叙事主题、视觉风格、受众行为和社区对话与量化表现数据结合分析，它在发布前就为创意团队提供基于证据的方向，而不是事后的回顾性报告。”并宣称“预测内容表现的准确率达82-90%”。"
+              },
+              {
+                "t": "p",
+                "x": "此次上线还公布了一项名为Jasper的功能，HumanCulture称其为“内置AI创意策略师”，客户可与其对话，为营销活动、内容日历及其他营销任务获取创意。"
+              },
+              {
+                "t": "p",
+                "x": "公司强调，其技术会针对每位艺人进行调整，首先通过入驻流程分析艺人最多一年的Instagram和TikTok帖子以及受众评论。"
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture采用‘per-talent’（按艺人计费）的定价方案：服务1-9位艺人的公司起价为每位艺人每月£65，旗下艺人达50-99位的公司则降至每月£52.50。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HumanCulture suma sus primeros\nclientes de AI predictiva",
+          "body": "La AI de HumanCulture predice cómo rendirá el contenido musical en redes sociales antes de publicarlo.",
+          "mini_headline": "AI que predice el rendimiento social",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "A principios de este año informamos sobre una startup fundada por exejecutivos de Defected Records y AWAL que desarrollaba tecnología para predecir qué tan bien funcionaría un contenido en redes sociales antes de publicarse."
+              },
+              {
+                "t": "p",
+                "x": "Ahora HumanCulture se ha lanzado oficialmente y ha anunciado su primer grupo de clientes. Defected es uno de ellos, junto con Red Light Management, Armada Big Family, Arketyp, Knox Artists y FourFour Digital."
+              },
+              {
+                "t": "p",
+                "x": "El foco sigue puesto en la analítica predictiva. “Al analizar temas narrativos, estilos visuales, comportamiento de la audiencia y conversaciones de la comunidad junto con datos cuantitativos de rendimiento, ofrece a los equipos creativos una dirección basada en evidencia antes de publicar, en lugar de informes retrospectivos después”, es su propuesta, que afirma una “precisión del 82-90% en la predicción del rendimiento del contenido”."
+              },
+              {
+                "t": "p",
+                "x": "El lanzamiento también dio a conocer una función llamada Jasper, que HumanCulture describe como un “estratega creativo de AI integrado” con el que los clientes pueden conversar para obtener ideas para campañas, calendarios de contenido y otras tareas de marketing."
+              },
+              {
+                "t": "p",
+                "x": "La empresa subraya que su tecnología se adapta a cada artista, empezando por un proceso de incorporación que analiza hasta un año de sus publicaciones en Instagram y TikTok y los comentarios de su audiencia."
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture usa planes de precios ‘per-talent’ (por artista), que empiezan en £65 por artista al mes para empresas que lo usan con 1-9 artistas y bajan a £52.50 al mes para quienes tienen 50-99 en su catálogo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
+          "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 게시 전에 예측한다.",
+          "mini_headline": "소셜 성과를 예측하는 AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "올해 초 우리는 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 다뤘다. 이 회사는 콘텐츠를 게시하기 전에 소셜 미디어에서 얼마나 좋은 성과를 낼지 예측하는 기술을 개발하고 있었다."
+              },
+              {
+                "t": "p",
+                "x": "이제 HumanCulture가 공식 출범하며 첫 고객사들을 발표했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이 이름을 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "초점은 여전히 예측 분석에 있다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우며, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
+              },
+              {
+                "t": "p",
+                "x": "출시와 함께 Jasper라는 기능도 공개됐다. HumanCulture는 이를 “내장형 AI 크리에이티브 전략가”라고 설명하며, 고객은 Jasper와 대화하며 캠페인, 콘텐츠 캘린더, 기타 마케팅 업무에 필요한 아이디어를 얻을 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 자사 기술이 아티스트 개개인에 맞춰 조정된다는 점을 강조한다. 그 출발점은 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석하는 온보딩 과정이다."
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture는 ‘per-talent’(아티스트당) 요금제를 쓴다. 1-9명의 아티스트에게 쓰는 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50로 내려간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "HumanCulture、\n予測AIで初顧客を獲得",
+          "body": "HumanCultureのAIは、音楽コンテンツのソーシャルでの成果を投稿前に予測する。",
+          "mini_headline": "ソーシャルでの成果を予測するAI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "今年初め、Defected RecordsとAWALの元幹部が設立し、コンテンツが投稿前にソーシャルメディアでどれだけ成果を上げるかを予測する技術を開発しているスタートアップについて報じた。"
+              },
+              {
+                "t": "p",
+                "x": "そのHumanCultureが正式にローンチし、最初の顧客群を発表した。Defectedもその一社で、Red Light Management、Armada Big Family、Arketyp、Knox Artists、FourFour Digitalが名を連ねる。"
+              },
+              {
+                "t": "p",
+                "x": "軸足は引き続き予測分析にある。「ストーリーテリングのテーマ、ビジュアルスタイル、オーディエンスの行動、コミュニティでの会話を定量的なパフォーマンスデータとあわせて分析することで、事後の振り返りレポートではなく、公開前にエビデンスに基づく方向性をクリエイティブチームに示す」というのが売り文句で、「コンテンツのパフォーマンス予測で82-90%の精度」をうたう。"
+              },
+              {
+                "t": "p",
+                "x": "ローンチでは、Jasperという機能も明らかになった。HumanCultureはこれを「組み込み型のAIクリエイティブストラテジスト」と説明しており、顧客は対話を通じてキャンペーンやコンテンツカレンダー、その他のマーケティング業務のアイデアを得られる。"
+              },
+              {
+                "t": "p",
+                "x": "同社は、自社の技術が個々のアーティストに合わせて適応する点を強調する。その起点となるのが、アーティストのInstagramとTikTokの投稿とオーディエンスのコメントを最大一年分分析するオンボーディングだ。"
+              },
+              {
+                "t": "p",
+                "x": "HumanCultureは‘per-talent’（タレント単位）の料金プランを採用しており、1-9人のアーティストで使う企業はタレントごとに月£65から、50-99人を抱える企業では月£52.50まで下がる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "HumanCulture\n预测AI迎来首批客户",
+          "body": "HumanCulture的AI已迎来首批客户，可在发布前预测音乐内容在社交媒体上的表现。",
+          "mini_headline": "预测社交表现的AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "今年早些时候，我们报道过一家由Defected Records和AWAL前高管创办的初创公司，其开发的技术能在内容发布前预测其在社交媒体上的表现。"
+              },
+              {
+                "t": "p",
+                "x": "如今HumanCulture已正式上线，并公布了首批客户。Defected是其中之一，此外还有Red Light Management、Armada Big Family、Arketyp、Knox Artists和FourFour Digital。"
+              },
+              {
+                "t": "p",
+                "x": "重点仍是预测分析。其宣传语称：“通过将叙事主题、视觉风格、受众行为和社区对话与量化表现数据结合分析，它在发布前就为创意团队提供基于证据的方向，而不是事后的回顾性报告。”并宣称“预测内容表现的准确率达82-90%”。"
+              },
+              {
+                "t": "p",
+                "x": "此次上线还公布了一项名为Jasper的功能，HumanCulture称其为“内置AI创意策略师”，客户可与其对话，为营销活动、内容日历及其他营销任务获取创意。"
+              },
+              {
+                "t": "p",
+                "x": "公司强调，其技术会针对每位艺人进行调整，首先通过入驻流程分析艺人最多一年的Instagram和TikTok帖子以及受众评论。"
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture采用‘per-talent’（按艺人计费）的定价方案：服务1-9位艺人的公司起价为每位艺人每月£65，旗下艺人达50-99位的公司则降至每月£52.50。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "HumanCulture suma sus primeros\nclientes de AI predictiva",
+          "body": "La AI de HumanCulture predice cómo rendirá el contenido musical en redes sociales antes de publicarlo.",
+          "mini_headline": "AI que predice el rendimiento social",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "A principios de este año informamos sobre una startup fundada por exejecutivos de Defected Records y AWAL que desarrollaba tecnología para predecir qué tan bien funcionaría un contenido en redes sociales antes de publicarse."
+              },
+              {
+                "t": "p",
+                "x": "Ahora HumanCulture se ha lanzado oficialmente y ha anunciado su primer grupo de clientes. Defected es uno de ellos, junto con Red Light Management, Armada Big Family, Arketyp, Knox Artists y FourFour Digital."
+              },
+              {
+                "t": "p",
+                "x": "El foco sigue puesto en la analítica predictiva. “Al analizar temas narrativos, estilos visuales, comportamiento de la audiencia y conversaciones de la comunidad junto con datos cuantitativos de rendimiento, ofrece a los equipos creativos una dirección basada en evidencia antes de publicar, en lugar de informes retrospectivos después”, es su propuesta, que afirma una “precisión del 82-90% en la predicción del rendimiento del contenido”."
+              },
+              {
+                "t": "p",
+                "x": "El lanzamiento también dio a conocer una función llamada Jasper, que HumanCulture describe como un “estratega creativo de AI integrado” con el que los clientes pueden conversar para obtener ideas para campañas, calendarios de contenido y otras tareas de marketing."
+              },
+              {
+                "t": "p",
+                "x": "La empresa subraya que su tecnología se adapta a cada artista, empezando por un proceso de incorporación que analiza hasta un año de sus publicaciones en Instagram y TikTok y los comentarios de su audiencia."
+              },
+              {
+                "t": "p",
+                "x": "HumanCulture usa planes de precios ‘per-talent’ (por artista), que empiezan en £65 por artista al mes para empresas que lo usan con 1-9 artistas y bajan a £52.50 al mes para quienes tienen 50-99 en su catálogo."
+              }
+            ]
+          }
+        }
+      }
     }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "이탈리아, Suno\n이용약관 조사 착수",
-     "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 약관을 조사한다.",
-     "mini_headline": "이탈리아, Suno 약관 조사",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "사진 출처: FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno의 이용약관에 대한 조사에 착수했다고 밝혔다. 당국은 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"고 봤다."
-       },
-       {
-        "t": "p",
-        "x": "당국이 우려하는 대목은 가격 변경, 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구한다고 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 밝혔다."
-       },
-       {
-        "t": "p",
-        "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스의 범위가 충분히 정의되지 않았고, 이탈리아 저작권법(Law 633/1941)에 반하는 저작인격권 포기를 강요한다는 판단이다. 미국에서의 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 지적했다."
-       },
-       {
-        "t": "p",
-        "x": "당국은 앞으로 몇 주 안에 이 약관에 대한 공개 의견 수렴을 시작한다. 불공정 계약 조항에 대한 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 요청했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "イタリア、Sunoの\n利用規約を調査",
-     "body": "イタリアAGCMが著作者人格権放棄のライセンスなどSunoの規約を調査中だ。",
-     "mini_headline": "イタリア、Sunoの規約を調査",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "写真：FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
-       },
-       {
-        "t": "p",
-        "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
-       },
-       {
-        "t": "p",
-        "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
-       },
-       {
-        "t": "p",
-        "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "意大利对Suno\n服务条款展开调查",
-     "body": "意大利AGCM正调查Suno的条款，包括其认为要求用户放弃著作人身权的许可。",
-     "mini_headline": "意大利调查Suno条款",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "图片来源：FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "意大利竞争管理局（AGCM）周二（10月6日）表示，已对Suno的服务条款展开调查，认为这些条款“根据《消费者法典》第33条可能属于不公平条款”。"
-       },
-       {
-        "t": "p",
-        "x": "其关注点包括价格调整、账户终止、基于美国（US-based）的仲裁，以及一项据称要求用户放弃著作人身权的内容许可。该机构表示，这些条款“似乎赋予Suno广泛的自由裁量权，可在无需提供任何理由的情况下单方面变更合同、服务和订阅价格”。"
-       },
-       {
-        "t": "p",
-        "x": "AGCM表示，“有关版权的合同条款尤其值得关注”，称强加给消费者的许可界定不够明确，且违反意大利版权法（Law 633/1941），强制用户放弃著作人身权。该机构还指出了在美国进行的具有约束力的个人仲裁，以及放弃集体诉讼的条款。"
-       },
-       {
-        "t": "p",
-        "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Italia abre una investigación\nsobre los términos de Suno",
-     "body": "La AGCM de Italia investiga los términos de Suno, incluida una licencia que obliga a renunciar a derechos morales.",
-     "mini_headline": "Italia investiga los términos de Suno",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
-        "cap": "Crédito de la foto: FotoField / Shutterstock.com"
-       },
-       {
-        "t": "p",
-        "x": "La autoridad de competencia de Italia (AGCM) informó el martes (6 de octubre) que ha abierto una investigación sobre los términos de servicio de Suno, que según la autoridad \"pueden ser abusivos conforme al artículo 33 del Código del Consumidor\"."
-       },
-       {
-        "t": "p",
-        "x": "Sus preocupaciones incluyen los cambios de precio, la cancelación de cuentas, el arbitraje con sede en EE. UU. (US-based) y una licencia de contenido que, según la autoridad, obliga a los usuarios a renunciar a sus derechos morales. Los términos \"parecen otorgar a Suno amplia discreción para hacer cambios unilaterales en el contrato, el servicio y los precios de suscripción, sin tener que dar ninguna justificación\", señaló la autoridad."
-       },
-       {
-        "t": "p",
-        "x": "La AGCM afirmó que \"las disposiciones contractuales sobre derechos de autor merecen especial atención\", calificó de insuficientemente definida la licencia impuesta a los consumidores y señaló que impone la renuncia a los derechos morales en contra de la ley italiana de derechos de autor, la Ley 633/1941. También señaló el arbitraje individual vinculante en Estados Unidos y la renuncia a las demandas colectivas."
-       },
-       {
-        "t": "p",
-        "x": "La autoridad abrirá una consulta pública sobre los términos en las próximas semanas. Sus multas por cláusulas contractuales abusivas oscilan entre €5,000 y €10 millones. MBW ha contactado con Suno para pedir comentarios."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "music-elevenlabs-search",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "ElevenLabs 공모전\nAI-made에 $100K",
-   "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 걸었다.",
-   "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
-   "tool": "Music",
-   "source": "ElevenLabs (YouTube)",
-   "url": "https://www.youtube.com/watch?v=3wMjqko_v40",
-   "accent": "#0070f3",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "video",
-      "yt": "3wMjqko_v40"
-     },
-     {
-      "t": "p",
-      "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
-     },
-     {
-      "t": "p",
-      "x": "가상 브랜드의 광고를 15–45초 분량으로 만들고 ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈추지 못할 무언가를 만드는 일이다."
-     },
-     {
-      "t": "p",
-      "x": "상금 총 $100,000는 수상자 11명에게 돌아가고, 대상 수상자는 $50,000를 받는다. 상위 수상자 11명은 ElevenLabs와 단독 1:1 자리에도 초대된다."
-     },
-     {
-      "t": "p",
-      "x": "응모 마감은 2026년 11월 1일 11:59pm PST다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "ElevenLabs offers $100K for\nads with AI-made jingles",
-     "body": "ElevenLabs' The Search contest offers $100,000 for 15-45 second ads with original jingles made in ElevenCreative.",
-     "mini_headline": "ElevenLabs' $100K jingle contest",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "Introducing The Search: a global competition for the world's catchiest ad."
-       },
-       {
-        "t": "p",
-        "x": "Create a 15–45 second ad for a fictional brand, featuring an original jingle made in ElevenCreative. The brief is simple: make something people can't stop humming."
-       },
-       {
-        "t": "p",
-        "x": "$100,000 in prizes is up for grabs across 11 winners, including a $50,000 grand prize. The top 11 winners will also be invited to an exclusive 1:1 with ElevenLabs."
-       },
-       {
-        "t": "p",
-        "x": "Entries close November 1, 2026 at 11:59pm PST."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "ElevenLabs 공모전\nAI-made에 $100K",
-     "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 걸었다.",
-     "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
-       },
-       {
-        "t": "p",
-        "x": "가상 브랜드의 광고를 15–45초 분량으로 만들고 ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈추지 못할 무언가를 만드는 일이다."
-       },
-       {
-        "t": "p",
-        "x": "상금 총 $100,000는 수상자 11명에게 돌아가고, 대상 수상자는 $50,000를 받는다. 상위 수상자 11명은 ElevenLabs와 단독 1:1 자리에도 초대된다."
-       },
-       {
-        "t": "p",
-        "x": "응모 마감은 2026년 11월 1일 11:59pm PST다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ElevenLabsが\nAI-made曲に$100K",
-     "body": "ElevenLabsが15-45秒のジングル広告を募り、賞金$100,000を出す。",
-     "mini_headline": "ElevenLabs、$100KのAI-madeジングル広告コンテスト",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "The Searchを紹介する。世界で最も耳に残る広告を競うグローバルコンテストだ。"
-       },
-       {
-        "t": "p",
-        "x": "架空のブランドのために15–45秒の広告を制作し、ElevenCreativeで作ったオリジナルジングルを盛り込む。課題はシンプルだ。思わず口ずさまずにはいられないものを作ることだ。"
-       },
-       {
-        "t": "p",
-        "x": "賞金総額は$100,000で、$50,000のグランプリを含む11人の受賞者に贈られる。上位11人の受賞者はElevenLabsとの特別な1:1にも招待される。"
-       },
-       {
-        "t": "p",
-        "x": "応募締め切りは2026年11月1日11:59pm PSTだ。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "ElevenLabs征集\nAI-made歌奖$100K",
-     "body": "ElevenLabs拿出$100,000奖金，征集配有原创广告歌的15-45秒广告。",
-     "mini_headline": "ElevenLabs $100K AI-made广告歌大赛",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "推出The Search：一项寻找世界上最朗朗上口广告的全球大赛。"
-       },
-       {
-        "t": "p",
-        "x": "为一个虚构品牌制作一支15–45秒的广告，并配上用ElevenCreative制作的原创广告歌。要求很简单：做出让人忍不住一直哼唱的作品。"
-       },
-       {
-        "t": "p",
-        "x": "总额$100,000的奖金将由11名获奖者分享，其中大奖为$50,000。前11名获奖者还将受邀与ElevenLabs进行专属1:1交流。"
-       },
-       {
-        "t": "p",
-        "x": "参赛作品截止时间为2026年11月1日11:59pm PST。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "ElevenLabs ofrece $100K por\nanuncios con jingles AI-made",
-     "body": "The Search, de ElevenLabs, ofrece $100,000 por anuncios de 15-45 segundos con jingles originales de ElevenCreative.",
-     "mini_headline": "ElevenLabs: $100K por jingles AI-made",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "Presentamos The Search: un concurso global para encontrar el anuncio más pegadizo del mundo."
-       },
-       {
-        "t": "p",
-        "x": "Crea un anuncio de 15–45 segundos para una marca ficticia, con un jingle original hecho en ElevenCreative. La consigna es sencilla: haz algo que la gente no pueda dejar de tararear."
-       },
-       {
-        "t": "p",
-        "x": "Hay $100,000 en premios repartidos entre 11 ganadores, incluido un gran premio de $50,000. Los 11 mejores ganadores también serán invitados a un encuentro exclusivo 1:1 con ElevenLabs."
-       },
-       {
-        "t": "p",
-        "x": "La inscripción cierra el 1 de noviembre de 2026 a las 11:59pm PST."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "ElevenLabs 공모전\nAI-made에 $100K",
-     "body": "ElevenLabs가 15-45초 징글 광고 공모전에 $100,000를 건다.",
-     "mini_headline": "ElevenLabs, $100K AI-made 징글 공모전",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "The Search를 소개한다. 세상에서 가장 귀에 꽂히는 광고를 가리는 글로벌 공모전이다."
-       },
-       {
-        "t": "p",
-        "x": "가상의 브랜드를 위한 15–45초 광고를 만들고, ElevenCreative로 만든 오리지널 징글을 넣으면 된다. 과제는 단순하다. 사람들이 흥얼거림을 멈출 수 없는 무언가를 만드는 것이다."
-       },
-       {
-        "t": "p",
-        "x": "총 $100,000 상금이 11명의 수상자에게 돌아가며, 대상 상금은 $50,000다. 상위 11명의 수상자는 ElevenLabs와의 단독 1:1 자리에도 초대받는다."
-       },
-       {
-        "t": "p",
-        "x": "응모는 2026년 11월 1일 11:59pm PST에 마감한다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ElevenLabsが\nAI-made曲に$100K",
-     "body": "ElevenLabsが15-45秒のジングル広告を募り、賞金$100,000を出す。",
-     "mini_headline": "ElevenLabs、$100KのAI-madeジングル広告コンテスト",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "The Searchを紹介する。世界で最も耳に残る広告を競うグローバルコンテストだ。"
-       },
-       {
-        "t": "p",
-        "x": "架空のブランドのために15–45秒の広告を制作し、ElevenCreativeで作ったオリジナルジングルを盛り込む。課題はシンプルだ。思わず口ずさまずにはいられないものを作ることだ。"
-       },
-       {
-        "t": "p",
-        "x": "賞金総額は$100,000で、$50,000のグランプリを含む11人の受賞者に贈られる。上位11人の受賞者はElevenLabsとの特別な1:1にも招待される。"
-       },
-       {
-        "t": "p",
-        "x": "応募締め切りは2026年11月1日11:59pm PSTだ。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "ElevenLabs征集\nAI-made歌奖$100K",
-     "body": "ElevenLabs拿出$100,000奖金，征集配有原创广告歌的15-45秒广告。",
-     "mini_headline": "ElevenLabs $100K AI-made广告歌大赛",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "推出The Search：一项寻找世界上最朗朗上口广告的全球大赛。"
-       },
-       {
-        "t": "p",
-        "x": "为一个虚构品牌制作一支15–45秒的广告，并配上用ElevenCreative制作的原创广告歌。要求很简单：做出让人忍不住一直哼唱的作品。"
-       },
-       {
-        "t": "p",
-        "x": "总额$100,000的奖金将由11名获奖者分享，其中大奖为$50,000。前11名获奖者还将受邀与ElevenLabs进行专属1:1交流。"
-       },
-       {
-        "t": "p",
-        "x": "参赛作品截止时间为2026年11月1日11:59pm PST。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "ElevenLabs ofrece $100K por\nanuncios con jingles AI-made",
-     "body": "The Search, de ElevenLabs, ofrece $100,000 por anuncios de 15-45 segundos con jingles originales de ElevenCreative.",
-     "mini_headline": "ElevenLabs: $100K por jingles AI-made",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "video",
-        "yt": "3wMjqko_v40"
-       },
-       {
-        "t": "p",
-        "x": "Presentamos The Search: un concurso global para encontrar el anuncio más pegadizo del mundo."
-       },
-       {
-        "t": "p",
-        "x": "Crea un anuncio de 15–45 segundos para una marca ficticia, con un jingle original hecho en ElevenCreative. La consigna es sencilla: haz algo que la gente no pueda dejar de tararear."
-       },
-       {
-        "t": "p",
-        "x": "Hay $100,000 en premios repartidos entre 11 ganadores, incluido un gran premio de $50,000. Los 11 mejores ganadores también serán invitados a un encuentro exclusivo 1:1 con ElevenLabs."
-       },
-       {
-        "t": "p",
-        "x": "La inscripción cierra el 1 de noviembre de 2026 a las 11:59pm PST."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "music-aria-australia",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
-   "body": "ARIA 대표가 AI 규제를 고민하는 호주 정치권에 AI 기업의 로비를 경고했다.",
-   "mini_headline": "ARIA, AI 로비 경고",
-   "tool": "Music",
-   "source": "Music Ally",
-   "url": "https://musically.com/2026/10/06/aria-boss-warns-australian-politicians-on-ai-lobbying-demands/",
-   "accent": "#f5a623",
-   "motif": "sphere",
-   "full": {
-    "mode": "full",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-     },
-     {
-      "t": "p",
-      "x": "호주 정치인들은 AI 기술에 어떤 규칙을 둘지 고민하고 있다. 호주는 음악 업계가 정치인의 귀를 사로잡으려 일부 테크 기업과 치열하게 맞붙는 나라 가운데 하나다."
-     },
-     {
-      "t": "p",
-      "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해 가장 큰 AI 기업 두 곳이 호주에서 노리는 로비 목표를 직설적으로 비판했다."
-     },
-     {
-      "t": "p",
-      "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
-     },
-     {
-      "t": "p",
-      "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
-     },
-     {
-      "t": "p",
-      "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라는 경고도 덧붙였다."
-     },
-     {
-      "t": "p",
-      "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데는 분명한 이유가 있다고 짚었다. 법정에서든 권력의 복도에서든, 세계 다른 곳에서 벌어지는 일에 호주가 영향을 줄 수 있어서다."
-     },
-     {
-      "t": "p",
-      "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "ARIA warns Australian\npoliticians on AI lobbying",
-     "body": "ARIA's chief warned Australian politicians about AI companies' lobbying demands as the country weighs its AI rules.",
-     "mini_headline": "ARIA warns on AI lobbying",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "Australia is one of the countries where the music industry is slugging it out with some tech companies to win the ears of politicians, as the latter mull what rules to put in place covering AI technology."
-       },
-       {
-        "t": "p",
-        "x": "Labels body ARIA's CEO Annabelle Herd was direct in her appearance before a Joint Select Committee on Artificial Intelligence this week, criticising two of the biggest AI companies' lobbying goals in Australia."
-       },
-       {
-        "t": "p",
-        "x": "\"OpenAI and Anthropic want the Australian Government to sign up to a deal to train their frontier AI agents here on the proviso that they don't have to abide by our copyright laws,\" she said. \"Their reason? The world's richest and most advanced companies say it would be too costly and complex to work with rights holders.\""
-       },
-       {
-        "t": "p",
-        "x": "\"This concept that the status quo isn't working is being used as an argument by AI companies to change our copyright law. You don't address a systemic problem of mass piracy by changing the law to legalise that piracy on an ongoing basis.\""
-       },
-       {
-        "t": "p",
-        "x": "Herd called for the AI companies to \"come to the negotiating table, not to the Prime Minister's office\" while warning that if their desired rules are put in place \"it would devastate the music industry and make Australia a pariah for rights holders globally\"."
-       },
-       {
-        "t": "p",
-        "x": "Herd also suggested that Australia is a key focus for these lobbying efforts for a specific reason: the potential impact on what's happening elsewhere in the world – in courtrooms as well as in the corridors of power."
-       },
-       {
-        "t": "p",
-        "x": "\"If we go down a path and declare that there's no licensing market – Australia deciding to upend the global licensing market and say there isn't one – then that will assist them in their US lawsuits,\" said Herd. \"I'm not sure why that's in Australia's interests.\""
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
-     "body": "ARIA 대표가 AI 규제를 고민하는 호주 정치권에 AI 기업의 로비를 경고했다.",
-     "mini_headline": "ARIA, AI 로비 경고",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "호주 정치인들은 AI 기술에 어떤 규칙을 둘지 고민하고 있다. 호주는 음악 업계가 정치인의 귀를 사로잡으려 일부 테크 기업과 치열하게 맞붙는 나라 가운데 하나다."
-       },
-       {
-        "t": "p",
-        "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해 가장 큰 AI 기업 두 곳이 호주에서 노리는 로비 목표를 직설적으로 비판했다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
-       },
-       {
-        "t": "p",
-        "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
-       },
-       {
-        "t": "p",
-        "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라는 경고도 덧붙였다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데는 분명한 이유가 있다고 짚었다. 법정에서든 권력의 복도에서든, 세계 다른 곳에서 벌어지는 일에 호주가 영향을 줄 수 있어서다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ARIA、豪政界に\nAIロビー活動を警告",
-     "body": "ARIAのトップが、AI規制を検討する豪政界にAI企業のロビー要求を警告した。",
-     "mini_headline": "ARIA、AIロビー活動を警告",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "オーストラリアは、政治家がAI技術を対象にどのようなルールを設けるか検討する中、音楽業界が一部のテック企業と政治家の関心を奪い合っている国の一つだ。"
-       },
-       {
-        "t": "p",
-        "x": "レーベル団体ARIAのCEO、アナベル・ハード（Annabelle Herd）は今週、人工知能に関する合同特別委員会（Joint Select Committee on Artificial Intelligence）に出席し、AI大手2社がオーストラリアで掲げるロビー活動の目標を率直に批判した。"
-       },
-       {
-        "t": "p",
-        "x": "「OpenAIとAnthropicは、自社のフロンティアAIエージェントをここで学習させる協定に、我々の著作権法を守らなくてよいという条件付きで、オーストラリア政府が署名することを望んでいる」と彼女は述べた。「その理由は？世界で最も裕福で最も先進的な企業が、権利者と協力するのはコストがかかりすぎ、複雑すぎると言っているのだ」"
-       },
-       {
-        "t": "p",
-        "x": "「現状が機能していないという考え方が、我々の著作権法を変えるための論拠としてAI企業に使われている。大規模な海賊行為という構造的な問題は、その海賊行為を継続的に合法化するよう法律を変えることで解決するものではない」"
-       },
-       {
-        "t": "p",
-        "x": "ハードはAI企業に対し「首相官邸ではなく交渉のテーブルに来る」よう求めるとともに、彼らの望むルールが導入されれば「音楽業界に壊滅的な打撃を与え、オーストラリアを世界の権利者にとってのけ者にする」と警告した。"
-       },
-       {
-        "t": "p",
-        "x": "ハードはまた、オーストラリアがこうしたロビー活動の主な標的となっているのには明確な理由があると示唆した。法廷でも権力の中枢でも、世界の他の地域で起きていることに影響を及ぼしうるからだ。"
-       },
-       {
-        "t": "p",
-        "x": "「もし我々がライセンス市場は存在しないと宣言する道を進めば、つまりオーストラリアが世界のライセンス市場を覆し、そんなものはないと言えば、それは米国（US）での彼らの訴訟を後押しすることになる」とハードは述べた。「それがなぜオーストラリアの利益になるのか、私にはわからない」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "ARIA就AI游说\n向澳大利亚政界示警",
-     "body": "ARIA负责人在澳大利亚权衡AI规则之际，就AI公司的游说诉求向政界发出警告。",
-     "mini_headline": "ARIA警告AI游说",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "澳大利亚的政界人士正在考虑为AI技术制定哪些规则，而音乐产业正与部分科技公司激烈角力，争取政界人士的支持。澳大利亚是出现这种局面的国家之一。"
-       },
-       {
-        "t": "p",
-        "x": "唱片业机构ARIA的CEO安娜贝尔·赫德（Annabelle Herd）本周出席人工智能联合特别委员会（Joint Select Committee on Artificial Intelligence）时直言不讳，批评了两家最大的AI公司在澳大利亚的游说目标。"
-       },
-       {
-        "t": "p",
-        "x": "她说：“OpenAI和Anthropic希望澳大利亚政府签署一项协议，允许它们在这里训练前沿AI智能体，前提是它们无须遵守我们的版权法。”“理由是什么？这些全球最富有、最先进的公司说，与版权方合作成本太高、太复杂。”"
-       },
-       {
-        "t": "p",
-        "x": "“AI公司把‘现状行不通’这一说法当作修改我们版权法的理由。解决大规模盗版这一系统性问题，靠的不是修改法律、让这种盗版长期合法化。”"
-       },
-       {
-        "t": "p",
-        "x": "赫德呼吁AI公司“到谈判桌前来，而不是去总理办公室”，并警告称，如果它们想要的规则落地，“将重创音乐产业，并让澳大利亚在全球版权方眼中沦为弃儿”。"
-       },
-       {
-        "t": "p",
-        "x": "赫德还指出，澳大利亚之所以成为这些游说活动的重点，有一个具体原因：这可能影响世界其他地方正在发生的事情——无论是在法庭上，还是在权力走廊中。"
-       },
-       {
-        "t": "p",
-        "x": "“如果我们走上这条路，宣布不存在授权市场——澳大利亚决定颠覆全球授权市场，说它根本不存在——那将有助于它们在美国（US）的诉讼，”赫德说，“我不确定这为何符合澳大利亚的利益。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "ARIA alerta a los políticos\naustralianos del lobby de la IA",
-     "body": "La CEO de ARIA advirtió a políticos australianos sobre el lobby de empresas de IA mientras el país define sus reglas.",
-     "mini_headline": "ARIA alerta sobre el lobby de la IA",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "Australia es uno de los países donde la industria musical libra una dura pugna con algunas empresas tecnológicas para ganarse el oído de los políticos, mientras estos estudian qué normas aplicar a la tecnología de IA (AI)."
-       },
-       {
-        "t": "p",
-        "x": "Annabelle Herd, CEO de ARIA, la organización de los sellos discográficos, fue directa en su comparecencia de esta semana ante el Joint Select Committee on Artificial Intelligence (Comité Selecto Conjunto sobre Inteligencia Artificial) y criticó los objetivos de lobby en Australia de dos de las mayores empresas de IA."
-       },
-       {
-        "t": "p",
-        "x": "\"OpenAI y Anthropic quieren que el Gobierno australiano firme un acuerdo para entrenar aquí sus agentes de IA de frontera con la condición de que no tengan que cumplir nuestras leyes de derechos de autor\", dijo. \"¿Su razón? Las empresas más ricas y avanzadas del mundo dicen que sería demasiado costoso y complejo trabajar con los titulares de derechos.\""
-       },
-       {
-        "t": "p",
-        "x": "\"Las empresas de IA usan la idea de que el statu quo no funciona como argumento para cambiar nuestra ley de derechos de autor. Un problema sistémico de piratería masiva no se resuelve cambiando la ley para legalizar esa piratería de forma permanente.\""
-       },
-       {
-        "t": "p",
-        "x": "Herd pidió a las empresas de IA que \"vengan a la mesa de negociación, no a la oficina del primer ministro\" y advirtió que, si se aplican las normas que desean, \"devastaría la industria musical y convertiría a Australia en un paria para los titulares de derechos de todo el mundo\"."
-       },
-       {
-        "t": "p",
-        "x": "Herd también sugirió que Australia es un objetivo clave de estos esfuerzos de lobby por una razón concreta: el posible impacto en lo que ocurre en otras partes del mundo, tanto en los tribunales como en los pasillos del poder."
-       },
-       {
-        "t": "p",
-        "x": "\"Si tomamos ese camino y declaramos que no existe un mercado de licencias —que Australia decida trastocar el mercado mundial de licencias y diga que no existe—, eso les ayudará en sus demandas en EE. UU. (US)\", dijo Herd. \"No sé por qué eso sería de interés para Australia.\""
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "ARIA, 호주 정치권에\nAI 로비 경고",
-     "body": "ARIA 대표가 AI 규제를 검토 중인 호주 정치권에 AI 기업 로비를 경고했다.",
-     "mini_headline": "ARIA, AI 로비 경고",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "호주는 정치인들이 AI 기술에 어떤 규칙을 둘지 고민하는 가운데, 음악 업계가 일부 테크 기업과 정치인의 귀를 사로잡으려 치열하게 맞붙고 있는 나라 가운데 하나다."
-       },
-       {
-        "t": "p",
-        "x": "음반사 단체 ARIA의 CEO 애너벨 허드(Annabelle Herd)는 이번 주 인공지능 합동특별위원회(Joint Select Committee on Artificial Intelligence)에 출석해, 가장 큰 AI 기업 두 곳이 호주에서 추진하는 로비 목표를 직설적으로 비판했다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 \"OpenAI와 Anthropic은 호주 정부가 자사 프런티어 AI 에이전트를 이곳에서 학습시키되 우리 저작권법을 지키지 않아도 된다는 조건의 협약에 서명하기를 원한다\"고 말했다. \"그 이유는? 세계에서 가장 부유하고 앞선 기업들이 권리자와 협력하는 일은 비용이 너무 크고 복잡하다고 말한다.\""
-       },
-       {
-        "t": "p",
-        "x": "\"AI 기업들은 현 상태가 제대로 돌아가지 않는다는 개념을 우리 저작권법을 바꾸자는 논거로 쓰고 있다. 대규모 불법 복제라는 구조적 문제는 그 불법 복제를 계속 합법화하도록 법을 바꾸는 방식으로 해결하지 않는다.\""
-       },
-       {
-        "t": "p",
-        "x": "허드는 AI 기업들에 \"총리실이 아니라 협상 테이블로 나오라\"고 촉구했다. 또 이들이 바라는 규칙이 도입되면 \"음악 산업을 초토화하고 호주를 전 세계 권리자들 사이에서 따돌림받는 나라로 만들 것\"이라고 경고했다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 호주가 이런 로비의 핵심 표적이 된 데에는 분명한 이유가 있다고 짚었다. 법정은 물론 권력의 복도까지, 세계 다른 곳에서 벌어지는 일에 미칠 수 있는 영향 때문이라는 것이다."
-       },
-       {
-        "t": "p",
-        "x": "허드는 \"우리가 라이선스 시장이 없다고 선언하는 길로 간다면, 즉 호주가 글로벌 라이선스 시장을 뒤엎고 그런 시장은 없다고 말한다면, 그것은 그들의 미국(US) 소송에 도움이 될 것\"이라며 \"그것이 왜 호주에 이익인지 잘 모르겠다\"고 말했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "ARIA、豪政界に\nAIロビー活動を警告",
-     "body": "ARIAのトップが、AI規制を検討する豪政界にAI企業のロビー要求を警告した。",
-     "mini_headline": "ARIA、AIロビー活動を警告",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "オーストラリアは、政治家がAI技術を対象にどのようなルールを設けるか検討する中、音楽業界が一部のテック企業と政治家の関心を奪い合っている国の一つだ。"
-       },
-       {
-        "t": "p",
-        "x": "レーベル団体ARIAのCEO、アナベル・ハード（Annabelle Herd）は今週、人工知能に関する合同特別委員会（Joint Select Committee on Artificial Intelligence）に出席し、AI大手2社がオーストラリアで掲げるロビー活動の目標を率直に批判した。"
-       },
-       {
-        "t": "p",
-        "x": "「OpenAIとAnthropicは、自社のフロンティアAIエージェントをここで学習させる協定に、我々の著作権法を守らなくてよいという条件付きで、オーストラリア政府が署名することを望んでいる」と彼女は述べた。「その理由は？世界で最も裕福で最も先進的な企業が、権利者と協力するのはコストがかかりすぎ、複雑すぎると言っているのだ」"
-       },
-       {
-        "t": "p",
-        "x": "「現状が機能していないという考え方が、我々の著作権法を変えるための論拠としてAI企業に使われている。大規模な海賊行為という構造的な問題は、その海賊行為を継続的に合法化するよう法律を変えることで解決するものではない」"
-       },
-       {
-        "t": "p",
-        "x": "ハードはAI企業に対し「首相官邸ではなく交渉のテーブルに来る」よう求めるとともに、彼らの望むルールが導入されれば「音楽業界に壊滅的な打撃を与え、オーストラリアを世界の権利者にとってのけ者にする」と警告した。"
-       },
-       {
-        "t": "p",
-        "x": "ハードはまた、オーストラリアがこうしたロビー活動の主な標的となっているのには明確な理由があると示唆した。法廷でも権力の中枢でも、世界の他の地域で起きていることに影響を及ぼしうるからだ。"
-       },
-       {
-        "t": "p",
-        "x": "「もし我々がライセンス市場は存在しないと宣言する道を進めば、つまりオーストラリアが世界のライセンス市場を覆し、そんなものはないと言えば、それは米国（US）での彼らの訴訟を後押しすることになる」とハードは述べた。「それがなぜオーストラリアの利益になるのか、私にはわからない」"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "ARIA就AI游说\n向澳大利亚政界示警",
-     "body": "ARIA负责人在澳大利亚权衡AI规则之际，就AI公司的游说诉求向政界发出警告。",
-     "mini_headline": "ARIA警告AI游说",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "澳大利亚的政界人士正在考虑为AI技术制定哪些规则，而音乐产业正与部分科技公司激烈角力，争取政界人士的支持。澳大利亚是出现这种局面的国家之一。"
-       },
-       {
-        "t": "p",
-        "x": "唱片业机构ARIA的CEO安娜贝尔·赫德（Annabelle Herd）本周出席人工智能联合特别委员会（Joint Select Committee on Artificial Intelligence）时直言不讳，批评了两家最大的AI公司在澳大利亚的游说目标。"
-       },
-       {
-        "t": "p",
-        "x": "她说：“OpenAI和Anthropic希望澳大利亚政府签署一项协议，允许它们在这里训练前沿AI智能体，前提是它们无须遵守我们的版权法。”“理由是什么？这些全球最富有、最先进的公司说，与版权方合作成本太高、太复杂。”"
-       },
-       {
-        "t": "p",
-        "x": "“AI公司把‘现状行不通’这一说法当作修改我们版权法的理由。解决大规模盗版这一系统性问题，靠的不是修改法律、让这种盗版长期合法化。”"
-       },
-       {
-        "t": "p",
-        "x": "赫德呼吁AI公司“到谈判桌前来，而不是去总理办公室”，并警告称，如果它们想要的规则落地，“将重创音乐产业，并让澳大利亚在全球版权方眼中沦为弃儿”。"
-       },
-       {
-        "t": "p",
-        "x": "赫德还指出，澳大利亚之所以成为这些游说活动的重点，有一个具体原因：这可能影响世界其他地方正在发生的事情——无论是在法庭上，还是在权力走廊中。"
-       },
-       {
-        "t": "p",
-        "x": "“如果我们走上这条路，宣布不存在授权市场——澳大利亚决定颠覆全球授权市场，说它根本不存在——那将有助于它们在美国（US）的诉讼，”赫德说，“我不确定这为何符合澳大利亚的利益。”"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "ARIA alerta a los políticos\naustralianos del lobby de la IA",
-     "body": "La CEO de ARIA advirtió a políticos australianos sobre el lobby de empresas de IA mientras el país define sus reglas.",
-     "mini_headline": "ARIA alerta sobre el lobby de la IA",
-     "full": {
-      "mode": "full",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T120831.894.png?fit=2000%2C1500&ssl=1"
-       },
-       {
-        "t": "p",
-        "x": "Australia es uno de los países donde la industria musical libra una dura pugna con algunas empresas tecnológicas para ganarse el oído de los políticos, mientras estos estudian qué normas aplicar a la tecnología de IA (AI)."
-       },
-       {
-        "t": "p",
-        "x": "Annabelle Herd, CEO de ARIA, la organización de los sellos discográficos, fue directa en su comparecencia de esta semana ante el Joint Select Committee on Artificial Intelligence (Comité Selecto Conjunto sobre Inteligencia Artificial) y criticó los objetivos de lobby en Australia de dos de las mayores empresas de IA."
-       },
-       {
-        "t": "p",
-        "x": "\"OpenAI y Anthropic quieren que el Gobierno australiano firme un acuerdo para entrenar aquí sus agentes de IA de frontera con la condición de que no tengan que cumplir nuestras leyes de derechos de autor\", dijo. \"¿Su razón? Las empresas más ricas y avanzadas del mundo dicen que sería demasiado costoso y complejo trabajar con los titulares de derechos.\""
-       },
-       {
-        "t": "p",
-        "x": "\"Las empresas de IA usan la idea de que el statu quo no funciona como argumento para cambiar nuestra ley de derechos de autor. Un problema sistémico de piratería masiva no se resuelve cambiando la ley para legalizar esa piratería de forma permanente.\""
-       },
-       {
-        "t": "p",
-        "x": "Herd pidió a las empresas de IA que \"vengan a la mesa de negociación, no a la oficina del primer ministro\" y advirtió que, si se aplican las normas que desean, \"devastaría la industria musical y convertiría a Australia en un paria para los titulares de derechos de todo el mundo\"."
-       },
-       {
-        "t": "p",
-        "x": "Herd también sugirió que Australia es un objetivo clave de estos esfuerzos de lobby por una razón concreta: el posible impacto en lo que ocurre en otras partes del mundo, tanto en los tribunales como en los pasillos del poder."
-       },
-       {
-        "t": "p",
-        "x": "\"Si tomamos ese camino y declaramos que no existe un mercado de licencias —que Australia decida trastocar el mercado mundial de licencias y diga que no existe—, eso les ayudará en sus demandas en EE. UU. (US)\", dijo Herd. \"No sé por qué eso sería de interés para Australia.\""
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "music-china-ai-audition",
-   "source_lang": "ko",
-   "eyebrow": "AI NEWS",
-   "headline": "AI와 사람이 겨루고\nAI도 심사하는 오디션",
-   "body": "중국 오디션 쇼에서 AI 가수가 사람과 겨루고 AI 심사위원도 평가에 참여한다.",
-   "mini_headline": "AI도 심사하는 오디션",
-   "tool": "Music",
-   "source": "일간스포츠",
-   "url": "https://isplus.com/article/view/isp202610020005",
-   "accent": "#7928ca",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-      "cap": "AI 심사위원과 AI 가수/사진=저장위성TV 캡처"
-     },
-     {
-      "t": "p",
-      "x": "AI가 부른 노래는 이제 익숙하다. 중국은 그 AI를 오디션 무대까지 끌어들였다. 최근 종영한 중국 저장위성TV 음악 예능 ‘천사적성음’ 시즌7은 AI 가수와 AI 심사위원을 새롭게 도입했다. 실제 연예인과 AI가 함께 무대에 오르고, 인간 심사위원과 AI 심사위원이 각각 평가에 참여하는 방식이다."
-     },
-     {
-      "t": "p",
-      "x": "AI 심사위원 ‘광광’은 배우 탄쑹윈의 무대를 평가하면서 음정 오차와 감정 표현, 화음 정도 등을 수치로 분석했다. 현지에서는 평가 기준이 충분히 설명되지 않았다는 지적도 나왔다."
-     },
-     {
-      "t": "img",
-      "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-      "cap": "‘12성련사이’,‘싱광108’ 각 계정/사진=더우인 캡처"
-     },
-     {
-      "t": "p",
-      "x": "참가자가 모두 AI인 아이돌 서바이벌도 나왔다. 더우인의 ‘12성련사이’는 공개 한 달여 만에 관련 영상 조회수 2억5000만 회, 공식 계정 팔로워 약 54만 명을 기록했다. 8월에는 AI 여성 연습생 108명이 9개의 데뷔 자리를 놓고 경쟁하는 ‘싱광108’도 첫 방송됐다."
-     },
-     {
-      "t": "p",
-      "x": "이성민 한국방송통신대 교수는 “AI가 예능 안에서 이야기적 장치로 기능할 수 있어야 한다”며, 기술적인 평가는 AI가, 감성적인 평가는 인간이 맡는 식으로 나눌 수도 있다고 말했다."
-     }
-    ]
-   },
-   "text": {
-    "ko": {
-     "headline": "AI와 사람이 겨루고\nAI도 심사하는 오디션",
-     "body": "중국 오디션 쇼에서 AI 가수가 사람과 겨루고 AI 심사위원도 평가에 참여한다.",
-     "mini_headline": "AI도 심사하는 오디션",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI 심사위원과 AI 가수/사진=저장위성TV 캡처"
-       },
-       {
-        "t": "p",
-        "x": "AI가 부른 노래는 이제 익숙하다. 중국은 그 AI를 오디션 무대까지 끌어들였다. 최근 종영한 중국 저장위성TV 음악 예능 ‘천사적성음’ 시즌7은 AI 가수와 AI 심사위원을 새롭게 도입했다. 실제 연예인과 AI가 함께 무대에 오르고, 인간 심사위원과 AI 심사위원이 각각 평가에 참여하는 방식이다."
-       },
-       {
-        "t": "p",
-        "x": "AI 심사위원 ‘광광’은 배우 탄쑹윈의 무대를 평가하면서 음정 오차와 감정 표현, 화음 정도 등을 수치로 분석했다. 현지에서는 평가 기준이 충분히 설명되지 않았다는 지적도 나왔다."
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "‘12성련사이’,‘싱광108’ 각 계정/사진=더우인 캡처"
-       },
-       {
-        "t": "p",
-        "x": "참가자가 모두 AI인 아이돌 서바이벌도 나왔다. 더우인의 ‘12성련사이’는 공개 한 달여 만에 관련 영상 조회수 2억5000만 회, 공식 계정 팔로워 약 54만 명을 기록했다. 8월에는 AI 여성 연습생 108명이 9개의 데뷔 자리를 놓고 경쟁하는 ‘싱광108’도 첫 방송됐다."
-       },
-       {
-        "t": "p",
-        "x": "이성민 한국방송통신대 교수는 “AI가 예능 안에서 이야기적 장치로 기능할 수 있어야 한다”며, 기술적인 평가는 AI가, 감성적인 평가는 인간이 맡는 식으로 나눌 수도 있다고 말했다."
-       }
-      ]
-     }
-    },
-    "en": {
-     "headline": "AI takes on humans in an\naudition AI also judges",
-     "body": "On a Chinese audition show, AI singers compete with humans and AI judges also take part in scoring.",
-     "mini_headline": "An audition where AI judges too",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI judge and AI singer / Photo: Zhejiang Satellite TV capture"
-       },
-       {
-        "t": "p",
-        "x": "Songs sung by AI are now familiar. China has brought that AI all the way onto the audition stage. Season 7 of ‘Tianci de Shengyin’, a music entertainment show on China's Zhejiang Satellite TV that recently ended, newly introduced AI singers and AI judges. Real celebrities share the stage with AI, and human judges and AI judges each take part in the evaluation."
-       },
-       {
-        "t": "p",
-        "x": "The AI judge ‘Guangguang’ assessed actor Tan Songyun's performance, analysing pitch error, emotional expression and degree of harmony in numerical terms. Locally, some pointed out that the evaluation criteria were not explained well enough."
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "The ‘12 Seongryeonsai’ and ‘Xingguang108’ accounts / Photo: Douyin capture"
-       },
-       {
-        "t": "p",
-        "x": "There is also an idol survival show in which every contestant is AI. Douyin's ‘12 Seongryeonsai’ recorded 250 million (2억5000만) views of related videos and about 540,000 followers on its official account within a little over a month of launch. In August, ‘Xingguang108’, in which 108 female AI trainees compete for 9 debut spots, also premiered."
-       },
-       {
-        "t": "p",
-        "x": "Lee Sung-min, a professor at Korea National Open University, said “AI needs to be able to function as a narrative device within entertainment shows,” adding that the roles could be split, with AI handling technical evaluation and humans handling emotional evaluation."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "AIと人が競い\nAIも審査するオーディション",
-     "body": "中国のオーディション番組で、AI歌手が人間と競い、AI審査員も評価に加わる。",
-     "mini_headline": "AIも審査するオーディション",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI審査員とAI歌手／写真＝浙江衛星TVキャプチャー"
-       },
-       {
-        "t": "p",
-        "x": "AIが歌う曲はもはや珍しくない。中国はそのAIをオーディションの舞台にまで引き込んだ。最近終了した中国・浙江衛星TVの音楽バラエティ『天賜的声音』シーズン7は、AI歌手とAI審査員を新たに導入した。実際の芸能人とAIが共に舞台に立ち、人間の審査員とAI審査員がそれぞれ評価に参加する方式だ。"
-       },
-       {
-        "t": "p",
-        "x": "AI審査員「Guangguang」は俳優・譚松韻（タン・ソンユン）のステージを評価し、音程のずれや感情表現、ハーモニーの度合いなどを数値で分析した。現地では、評価基準の説明が不十分だとの指摘も出た。"
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "「12성련사이」「星光108」の各アカウント／写真＝Douyinキャプチャー"
-       },
-       {
-        "t": "p",
-        "x": "参加者が全員AIというアイドルサバイバル番組も登場した。Douyinの「12성련사이」は公開から1カ月余りで関連動画の再生回数2億5000万回、公式アカウントのフォロワー約54万人を記録した。8月には、AIの女性練習生108人が9つのデビュー枠を争う「星光108」も初放送された。"
-       },
-       {
-        "t": "p",
-        "x": "韓国放送通信大学のイ・ソンミン教授は「AIがバラエティの中で物語的な装置として機能できなければならない」と述べ、技術的な評価はAIが、感性的な評価は人間が担うといった形で分けることもできると語った。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "AI与真人同台竞技\nAI还当评委的选秀",
-     "body": "在中国一档选秀节目中，AI歌手与真人同台竞争，AI评委也参与打分。",
-     "mini_headline": "AI也当评委的选秀",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI评委与AI歌手／图片来源：浙江卫视（Zhejiang TV）截图"
-       },
-       {
-        "t": "p",
-        "x": "AI演唱的歌曲如今已不新鲜。中国更把AI带上了选秀舞台。近期收官的浙江卫视（Zhejiang TV）音乐综艺《天赐的声音》第7季新引入了AI歌手和AI评委。真人艺人与AI同台演出，人类评委和AI评委分别参与评分。"
-       },
-       {
-        "t": "p",
-        "x": "AI评委“Guangguang”在点评演员谭松韵的舞台时，以数值分析了音准误差、情感表达和和声程度等。当地也有人指出，评分标准没有得到充分说明。"
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "‘12성련사이’、《星光108》各账号／图片来源：抖音截图"
-       },
-       {
-        "t": "p",
-        "x": "还出现了参赛者全是AI的偶像选秀节目。抖音上的‘12성련사이’上线一个多月，相关视频播放量达2亿5000万次，官方账号粉丝约54万。8月，108名AI女练习生角逐9个出道席位的《星光108》也首播。"
-       },
-       {
-        "t": "p",
-        "x": "韩国放送通信大学教授Lee Sung-min表示：“AI应当能够在综艺节目中发挥叙事装置的作用。”他还说，也可以采取技术性评价由AI负责、感性评价由人类负责的分工方式。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "La IA compite con humanos\ny también hace de jurado",
-     "body": "En un concurso de canto chino, cantantes de IA compiten con humanos y jueces de IA también participan en la evaluación.",
-     "mini_headline": "Una audición donde la IA también es jurado",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "Juez de IA (AI) y cantante de IA / Foto: captura de Zhejiang Satellite TV"
-       },
-       {
-        "t": "p",
-        "x": "Las canciones interpretadas por IA (AI) ya resultan familiares. China ha llevado esa IA hasta el escenario de las audiciones. La temporada 7 de ‘Tianci de Shengyin’, programa musical de entretenimiento de Zhejiang Satellite TV que terminó recientemente, incorporó cantantes de IA y jueces de IA. Celebridades reales y la IA suben juntas al escenario, y jueces humanos y jueces de IA participan cada uno en la evaluación."
-       },
-       {
-        "t": "p",
-        "x": "El juez de IA ‘Guangguang’ evaluó la actuación de la actriz Tan Songyun y analizó con cifras el error de afinación, la expresión emocional y el grado de armonía, entre otros aspectos. En China también se señaló que los criterios de evaluación no se explicaron lo suficiente."
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "Cuentas de ‘12 Seongryeonsai’ y ‘Xingguang108’ / Foto: captura de Douyin"
-       },
-       {
-        "t": "p",
-        "x": "También ha surgido un programa de supervivencia de ídolos en el que todos los participantes son IA. ‘12 Seongryeonsai’, de Douyin, sumó 250 millones (2억5000만) de reproducciones en videos relacionados y unos 540.000 seguidores en su cuenta oficial en poco más de un mes desde su estreno. En agosto se estrenó también ‘Xingguang108’, en el que 108 aprendices femeninas de IA compiten por 9 puestos de debut."
-       },
-       {
-        "t": "p",
-        "x": "Lee Sung-min, profesor de la Universidad Nacional Abierta de Corea, afirmó que “la IA debe poder funcionar como un recurso narrativo dentro del entretenimiento” y señaló que también podría repartirse la tarea, de modo que la IA se encargue de la evaluación técnica y los humanos, de la emocional."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "en": {
-     "headline": "AI takes on humans in an\naudition AI also judges",
-     "body": "On a Chinese audition show, AI singers compete with humans and AI judges also take part in scoring.",
-     "mini_headline": "An audition where AI judges too",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI judge and AI singer / Photo: Zhejiang Satellite TV capture"
-       },
-       {
-        "t": "p",
-        "x": "Songs sung by AI are now familiar. China has brought that AI all the way onto the audition stage. Season 7 of ‘Tianci de Shengyin’, a music entertainment show on China's Zhejiang Satellite TV that recently ended, newly introduced AI singers and AI judges. Real celebrities share the stage with AI, and human judges and AI judges each take part in the evaluation."
-       },
-       {
-        "t": "p",
-        "x": "The AI judge ‘Guangguang’ assessed actor Tan Songyun's performance, analysing pitch error, emotional expression and degree of harmony in numerical terms. Locally, some pointed out that the evaluation criteria were not explained well enough."
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "The ‘12 Seongryeonsai’ and ‘Xingguang108’ accounts / Photo: Douyin capture"
-       },
-       {
-        "t": "p",
-        "x": "There is also an idol survival show in which every contestant is AI. Douyin's ‘12 Seongryeonsai’ recorded 250 million (2억5000만) views of related videos and about 540,000 followers on its official account within a little over a month of launch. In August, ‘Xingguang108’, in which 108 female AI trainees compete for 9 debut spots, also premiered."
-       },
-       {
-        "t": "p",
-        "x": "Lee Sung-min, a professor at Korea National Open University, said “AI needs to be able to function as a narrative device within entertainment shows,” adding that the roles could be split, with AI handling technical evaluation and humans handling emotional evaluation."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "AIと人が競い\nAIも審査するオーディション",
-     "body": "中国のオーディション番組で、AI歌手が人間と競い、AI審査員も評価に加わる。",
-     "mini_headline": "AIも審査するオーディション",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI審査員とAI歌手／写真＝浙江衛星TVキャプチャー"
-       },
-       {
-        "t": "p",
-        "x": "AIが歌う曲はもはや珍しくない。中国はそのAIをオーディションの舞台にまで引き込んだ。最近終了した中国・浙江衛星TVの音楽バラエティ『天賜的声音』シーズン7は、AI歌手とAI審査員を新たに導入した。実際の芸能人とAIが共に舞台に立ち、人間の審査員とAI審査員がそれぞれ評価に参加する方式だ。"
-       },
-       {
-        "t": "p",
-        "x": "AI審査員「Guangguang」は俳優・譚松韻（タン・ソンユン）のステージを評価し、音程のずれや感情表現、ハーモニーの度合いなどを数値で分析した。現地では、評価基準の説明が不十分だとの指摘も出た。"
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "「12성련사이」「星光108」の各アカウント／写真＝Douyinキャプチャー"
-       },
-       {
-        "t": "p",
-        "x": "参加者が全員AIというアイドルサバイバル番組も登場した。Douyinの「12성련사이」は公開から1カ月余りで関連動画の再生回数2億5000万回、公式アカウントのフォロワー約54万人を記録した。8月には、AIの女性練習生108人が9つのデビュー枠を争う「星光108」も初放送された。"
-       },
-       {
-        "t": "p",
-        "x": "韓国放送通信大学のイ・ソンミン教授は「AIがバラエティの中で物語的な装置として機能できなければならない」と述べ、技術的な評価はAIが、感性的な評価は人間が担うといった形で分けることもできると語った。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "AI与真人同台竞技\nAI还当评委的选秀",
-     "body": "在中国一档选秀节目中，AI歌手与真人同台竞争，AI评委也参与打分。",
-     "mini_headline": "AI也当评委的选秀",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "AI评委与AI歌手／图片来源：浙江卫视（Zhejiang TV）截图"
-       },
-       {
-        "t": "p",
-        "x": "AI演唱的歌曲如今已不新鲜。中国更把AI带上了选秀舞台。近期收官的浙江卫视（Zhejiang TV）音乐综艺《天赐的声音》第7季新引入了AI歌手和AI评委。真人艺人与AI同台演出，人类评委和AI评委分别参与评分。"
-       },
-       {
-        "t": "p",
-        "x": "AI评委“Guangguang”在点评演员谭松韵的舞台时，以数值分析了音准误差、情感表达和和声程度等。当地也有人指出，评分标准没有得到充分说明。"
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "‘12성련사이’、《星光108》各账号／图片来源：抖音截图"
-       },
-       {
-        "t": "p",
-        "x": "还出现了参赛者全是AI的偶像选秀节目。抖音上的‘12성련사이’上线一个多月，相关视频播放量达2亿5000万次，官方账号粉丝约54万。8月，108名AI女练习生角逐9个出道席位的《星光108》也首播。"
-       },
-       {
-        "t": "p",
-        "x": "韩国放送通信大学教授Lee Sung-min表示：“AI应当能够在综艺节目中发挥叙事装置的作用。”他还说，也可以采取技术性评价由AI负责、感性评价由人类负责的分工方式。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "La IA compite con humanos\ny también hace de jurado",
-     "body": "En un concurso de canto chino, cantantes de IA compiten con humanos y jueces de IA también participan en la evaluación.",
-     "mini_headline": "Una audición donde la IA también es jurado",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000004.1024x.0.png",
-        "cap": "Juez de IA (AI) y cantante de IA / Foto: captura de Zhejiang Satellite TV"
-       },
-       {
-        "t": "p",
-        "x": "Las canciones interpretadas por IA (AI) ya resultan familiares. China ha llevado esa IA hasta el escenario de las audiciones. La temporada 7 de ‘Tianci de Shengyin’, programa musical de entretenimiento de Zhejiang Satellite TV que terminó recientemente, incorporó cantantes de IA y jueces de IA. Celebridades reales y la IA suben juntas al escenario, y jueces humanos y jueces de IA participan cada uno en la evaluación."
-       },
-       {
-        "t": "p",
-        "x": "El juez de IA ‘Guangguang’ evaluó la actuación de la actriz Tan Songyun y analizó con cifras el error de afinación, la expresión emocional y el grado de armonía, entre otros aspectos. En China también se señaló que los criterios de evaluación no se explicaron lo suficiente."
-       },
-       {
-        "t": "img",
-        "src": "https://isp.edailystatic.com/data/isp/image/2026/10/02/isp20261002000008.1080x.0.png",
-        "cap": "Cuentas de ‘12 Seongryeonsai’ y ‘Xingguang108’ / Foto: captura de Douyin"
-       },
-       {
-        "t": "p",
-        "x": "También ha surgido un programa de supervivencia de ídolos en el que todos los participantes son IA. ‘12 Seongryeonsai’, de Douyin, sumó 250 millones (2억5000만) de reproducciones en videos relacionados y unos 540.000 seguidores en su cuenta oficial en poco más de un mes desde su estreno. En agosto se estrenó también ‘Xingguang108’, en el que 108 aprendices femeninas de IA compiten por 9 puestos de debut."
-       },
-       {
-        "t": "p",
-        "x": "Lee Sung-min, profesor de la Universidad Nacional Abierta de Corea, afirmó que “la IA debe poder funcionar como un recurso narrativo dentro del entretenimiento” y señaló que también podría repartirse la tarea, de modo que la IA se encargue de la evaluación técnica y los humanos, de la emocional."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "music-hypebot-ai-agents",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
-   "body": "Hypebot 기고는 AI 에이전트로 음악 권리·정산 문제를 풀 수 있다고 본다.",
-   "mini_headline": "음악 경제를 움직일 AI 에이전트",
-   "tool": "Music",
-   "source": "Hypebot",
-   "url": "https://www.hypebot.com/the-next-music-economy-will-run-on-autonomous-ai-agents/",
-   "accent": "#2ec5c5",
-   "motif": "sphere",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-     },
-     {
-      "t": "p",
-      "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 제 인프라보다 커져 버렸다고 주장한다. 권리와 메타데이터, 저작권료는 저마다 다른 시스템에 흩어져 있다. 지분 배분은 이메일로 확인하고, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들은 늦게 받거나 아예 못 받는다고 한다."
-     },
-     {
-      "t": "p",
-      "x": "음악계의 AI 논의는 대부분 생성과 저작권에 쏠려 있지만 진짜 기회는 에이전틱 AI에 있다는 게 그의 주장이다. 메타데이터 충돌을 풀고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문 자율 에이전트들의 네트워크 말이다."
-     },
-     {
-      "t": "img",
-      "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-     },
-     {
-      "t": "p",
-      "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 넣었다. 에이전트가 주도하는 네트워크에서 에이전트는 바뀐 내용마다 출처 기록을 남기고 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
-     },
-     {
-      "t": "p",
-      "x": "기니스는 이 일을 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 내다본다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Music's next economy may\nrun on autonomous AI agents",
-     "body": "A Hypebot op-ed argues that AI agents with human oversight could fix music's rights, metadata and royalty systems.",
-     "mini_headline": "Music's economy on AI agents",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "Edward Ginis, co-founder of OpenPlay, argues that the music industry has outgrown its infrastructure: rights, metadata and royalties live in separate systems, splits are confirmed by email, and bad data leaves royalties unmatched and writers paid late or not at all."
-       },
-       {
-        "t": "p",
-        "x": "Most AI discussion in music is about generation and copyright, he writes, but the practical opportunity is agentic AI: networks of specialized, autonomous agents that resolve metadata conflicts, match unmatched royalty lines, validate registrations and check statements against contracts."
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay has built such agents into its Verse and Pulse platforms. In an agent-led network, agents carry provenance for every change and escalate to a person when confidence drops."
-       },
-       {
-        "t": "p",
-        "x": "Companies that get this right \"will pay faster, sign smarter and scale without adding headcount,\" Ginis writes."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
-     "body": "Hypebot 기고는 AI 에이전트로 음악 권리·정산 문제를 풀 수 있다고 본다.",
-     "mini_headline": "음악 경제를 움직일 AI 에이전트",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 제 인프라보다 커져 버렸다고 주장한다. 권리와 메타데이터, 저작권료는 저마다 다른 시스템에 흩어져 있다. 지분 배분은 이메일로 확인하고, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들은 늦게 받거나 아예 못 받는다고 한다."
-       },
-       {
-        "t": "p",
-        "x": "음악계의 AI 논의는 대부분 생성과 저작권에 쏠려 있지만 진짜 기회는 에이전틱 AI에 있다는 게 그의 주장이다. 메타데이터 충돌을 풀고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문 자율 에이전트들의 네트워크 말이다."
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 넣었다. 에이전트가 주도하는 네트워크에서 에이전트는 바뀐 내용마다 출처 기록을 남기고 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
-       },
-       {
-        "t": "p",
-        "x": "기니스는 이 일을 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 내다본다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "音楽の次の経済は\n自律型AIエージェントか",
-     "body": "Hypebotの寄稿は人が監督するAIエージェントが権利や印税の仕組みを直せると論じる。",
-     "mini_headline": "AIエージェントが動かす音楽経済",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlayの共同創業者エドワード・ギニス（Edward Ginis）は、音楽業界はすでに自らのインフラの限界を超えていると主張する。権利、メタデータ、印税は別々のシステムにあり、分配比率はメールで確認され、不正確なデータのせいで印税がマッチングされず、作家への支払いが遅れたり、まったく支払われなかったりしているという。"
-       },
-       {
-        "t": "p",
-        "x": "音楽におけるAIの議論の大半は生成と著作権に関するものだが、実際的な機会はエージェント型AIにあると彼は書く。メタデータの矛盾を解消し、未マッチの印税明細を照合し、登録情報を検証し、明細書を契約と突き合わせる、専門化された自律型エージェントのネットワークだ。"
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlayは、自社のVerseとPulseプラットフォームにこうしたエージェントを組み込んでいる。エージェント主導のネットワークでは、エージェントがあらゆる変更の来歴を記録し、確信度が下がると人間に判断を委ねる。"
-       },
-       {
-        "t": "p",
-        "x": "これをうまくやれる企業は「より早く支払い、より賢く契約し、人員を増やさずに規模を拡大できる」とギニスは書いている。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "音乐的下一种经济\n或由自主AI智能体驱动",
-     "body": "Hypebot一篇评论文章认为，有人类监督的AI智能体可修复音乐权利、元数据和版税体系。",
-     "mini_headline": "AI智能体驱动的音乐经济",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay联合创始人Edward Ginis认为，音乐产业已经超出了其基础设施的承载能力：权利、元数据和版税分散在不同系统中，分成比例靠电子邮件确认，错误数据导致版税无法匹配，词曲作者迟迟拿不到报酬，甚至分文未得。"
-       },
-       {
-        "t": "p",
-        "x": "他写道，音乐领域的AI讨论大多围绕生成和版权展开，但真正可行的机会在于智能体AI：由专业化的自主智能体组成的网络，可以解决元数据冲突、匹配未对应的版税条目、验证登记信息，并根据合同核对结算单。"
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay已将这类智能体集成到旗下的Verse和Pulse平台。在由智能体主导的网络中，智能体会记录每一次变更的来源，并在置信度下降时将问题升级给人工处理。"
-       },
-       {
-        "t": "p",
-        "x": "Ginis写道，做对这件事的公司“将付款更快、签约更明智，并在不增加人手的情况下扩大规模”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "La próxima economía musical\npodría basarse en agentes de IA",
-     "body": "Una columna de Hypebot sostiene que agentes de IA bajo control humano podrían arreglar derechos, metadatos y regalías.",
-     "mini_headline": "La economía musical, en manos de agentes de IA",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "Edward Ginis, cofundador de OpenPlay, sostiene que la industria musical ha superado su infraestructura: los derechos, los metadatos y las regalías viven en sistemas separados, los repartos se confirman por correo electrónico y los datos erróneos dejan regalías sin asignar y a los autores cobrando tarde o sin cobrar."
-       },
-       {
-        "t": "p",
-        "x": "La mayor parte del debate sobre la IA (AI) en la música gira en torno a la generación y los derechos de autor, escribe, pero la oportunidad práctica es la IA agéntica: redes de agentes autónomos y especializados que resuelven conflictos de metadatos, asignan líneas de regalías sin asignar, validan registros y cotejan liquidaciones con los contratos."
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay ha integrado este tipo de agentes en sus plataformas Verse y Pulse. En una red dirigida por agentes, estos registran la procedencia de cada cambio y derivan el caso a una persona cuando baja la confianza."
-       },
-       {
-        "t": "p",
-        "x": "Las empresas que lo hagan bien \"pagarán más rápido, firmarán mejor y crecerán sin aumentar la plantilla\", escribe Ginis."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "음악의 다음 경제는\n자율 AI 에이전트?",
-     "body": "Hypebot 기고는 AI 에이전트가 음악 권리·정산을 고칠 수 있다고 본다.",
-     "mini_headline": "음악 경제를 움직일 AI 에이전트",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay 공동 창업자 에드워드 기니스(Edward Ginis)는 음악 산업이 이미 자신의 인프라를 넘어섰다고 주장한다. 권리, 메타데이터, 저작권료가 각기 다른 시스템에 흩어져 있고, 지분 배분은 이메일로 확인하며, 잘못된 데이터 탓에 저작권료가 매칭되지 않아 작가들이 늦게 받거나 아예 받지 못한다는 것이다."
-       },
-       {
-        "t": "p",
-        "x": "그는 음악계의 AI 논의 대부분이 생성과 저작권에 쏠려 있지만, 실질적인 기회는 에이전틱 AI에 있다고 쓴다. 메타데이터 충돌을 해결하고, 매칭되지 않은 저작권료 내역을 맞추고, 등록 정보를 검증하고, 정산 내역을 계약과 대조하는 전문화된 자율 에이전트의 네트워크다."
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay는 자사 Verse와 Pulse 플랫폼에 이런 에이전트를 탑재했다. 에이전트가 주도하는 네트워크에서 에이전트는 모든 변경의 출처 기록을 남기고, 신뢰도가 떨어지면 사람에게 판단을 넘긴다."
-       },
-       {
-        "t": "p",
-        "x": "기니스는 이를 제대로 해내는 기업이 \"더 빨리 지급하고, 더 영리하게 계약하며, 인력을 늘리지 않고도 규모를 키울 것\"이라고 쓴다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "音楽の次の経済は\n自律型AIエージェントか",
-     "body": "Hypebotの寄稿は人が監督するAIエージェントが権利や印税の仕組みを直せると論じる。",
-     "mini_headline": "AIエージェントが動かす音楽経済",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlayの共同創業者エドワード・ギニス（Edward Ginis）は、音楽業界はすでに自らのインフラの限界を超えていると主張する。権利、メタデータ、印税は別々のシステムにあり、分配比率はメールで確認され、不正確なデータのせいで印税がマッチングされず、作家への支払いが遅れたり、まったく支払われなかったりしているという。"
-       },
-       {
-        "t": "p",
-        "x": "音楽におけるAIの議論の大半は生成と著作権に関するものだが、実際的な機会はエージェント型AIにあると彼は書く。メタデータの矛盾を解消し、未マッチの印税明細を照合し、登録情報を検証し、明細書を契約と突き合わせる、専門化された自律型エージェントのネットワークだ。"
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlayは、自社のVerseとPulseプラットフォームにこうしたエージェントを組み込んでいる。エージェント主導のネットワークでは、エージェントがあらゆる変更の来歴を記録し、確信度が下がると人間に判断を委ねる。"
-       },
-       {
-        "t": "p",
-        "x": "これをうまくやれる企業は「より早く支払い、より賢く契約し、人員を増やさずに規模を拡大できる」とギニスは書いている。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "音乐的下一种经济\n或由自主AI智能体驱动",
-     "body": "Hypebot一篇评论文章认为，有人类监督的AI智能体可修复音乐权利、元数据和版税体系。",
-     "mini_headline": "AI智能体驱动的音乐经济",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay联合创始人Edward Ginis认为，音乐产业已经超出了其基础设施的承载能力：权利、元数据和版税分散在不同系统中，分成比例靠电子邮件确认，错误数据导致版税无法匹配，词曲作者迟迟拿不到报酬，甚至分文未得。"
-       },
-       {
-        "t": "p",
-        "x": "他写道，音乐领域的AI讨论大多围绕生成和版权展开，但真正可行的机会在于智能体AI：由专业化的自主智能体组成的网络，可以解决元数据冲突、匹配未对应的版税条目、验证登记信息，并根据合同核对结算单。"
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay已将这类智能体集成到旗下的Verse和Pulse平台。在由智能体主导的网络中，智能体会记录每一次变更的来源，并在置信度下降时将问题升级给人工处理。"
-       },
-       {
-        "t": "p",
-        "x": "Ginis写道，做对这件事的公司“将付款更快、签约更明智，并在不增加人手的情况下扩大规模”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "La próxima economía musical\npodría basarse en agentes de IA",
-     "body": "Una columna de Hypebot sostiene que agentes de IA bajo control humano podrían arreglar derechos, metadatos y regalías.",
-     "mini_headline": "La economía musical, en manos de agentes de IA",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/10-5-Edward-OpEd.jpg"
-       },
-       {
-        "t": "p",
-        "x": "Edward Ginis, cofundador de OpenPlay, sostiene que la industria musical ha superado su infraestructura: los derechos, los metadatos y las regalías viven en sistemas separados, los repartos se confirman por correo electrónico y los datos erróneos dejan regalías sin asignar y a los autores cobrando tarde o sin cobrar."
-       },
-       {
-        "t": "p",
-        "x": "La mayor parte del debate sobre la IA (AI) en la música gira en torno a la generación y los derechos de autor, escribe, pero la oportunidad práctica es la IA agéntica: redes de agentes autónomos y especializados que resuelven conflictos de metadatos, asignan líneas de regalías sin asignar, validan registros y cotejan liquidaciones con los contratos."
-       },
-       {
-        "t": "img",
-        "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/capture-1.png"
-       },
-       {
-        "t": "p",
-        "x": "OpenPlay ha integrado este tipo de agentes en sus plataformas Verse y Pulse. En una red dirigida por agentes, estos registran la procedencia de cada cambio y derivan el caso a una persona cuando baja la confianza."
-       },
-       {
-        "t": "p",
-        "x": "Las empresas que lo hagan bien \"pagarán más rápido, firmarán mejor y crecerán sin aumentar la plantilla\", escribe Ginis."
-       }
-      ]
-     }
-    }
-   }
-  }
- ]
+  ]
 }

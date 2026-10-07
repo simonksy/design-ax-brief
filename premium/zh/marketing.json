@@ -116,6 +116,133 @@
           "x": "首席技术官Sven Gerjets表示，他清楚购物者对AI辅助的购物体验可能心存戒备，甚至感到失望。Retail Dive援引SmartCustomer上月的调查称，消费者在AI帮助下完成、事后感到后悔的购买中，有45%是服装和鞋类；Synchrony与Oxford Economics的研究则发现，消费者更愿意在自己已经信任的零售商处借助AI购物，但对自身数据的使用方式心存顾虑。"
         }
       ]
+    },
+    "marketing/marketing-nbcu-ctv-buying-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+        },
+        {
+          "t": "p",
+          "x": "智能体式媒体购买正风靡一时，流媒体TV也不例外。周二宣布的一项新合作将借助定制智能体，帮助品牌营销人员从包括预购承诺在内的流媒体TV投资中获得更多回报。参与方包括NBCUniversal、其SSP FreeWheel、Dentsu-owned代理商Carat以及智能体分析平台Newton。"
+        },
+        {
+          "t": "p",
+          "x": "定制购买智能体将NBCU和FreeWheel的身份数据与Dentsu和Newton的受众洞察相结合。智能体利用这些受众数据和广告效果数据，根据广告主期望的成果推荐NBCU的广告库存。"
+        },
+        {
+          "t": "p",
+          "x": "一家与Carat合作的未具名奢侈品零售商是首个使用该方案的营销方，但这项联合产品最终将向所有Dentsu客户开放。与此同时，Carat正在为广告主的具体KPIs打造定制智能体，涵盖从搜索提升到增量触达的各类目标。"
+        },
+        {
+          "t": "p",
+          "x": "人们期待智能体能让outcomes-based购买在CTV领域更接近主流。但如果每次购买都以即时结果来评判，广告主可能会为了短期收益而牺牲长期的品牌建设。"
+        }
+      ]
+    },
+    "marketing/marketing-google-merchant-center-ucp-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Merchant Center正在美国推出UCP集成中心。借助UCP集成中心，商家可以从Merchant Center账户接入UCP计划。"
+        },
+        {
+          "t": "p",
+          "x": "该中心写道：“通过实施Universal Commerce Protocol，开始在各类AI界面上销售”，并提供AI Mode、Gemini和Search上的智能体操作，首先是直接在Google上结账。"
+        },
+        {
+          "t": "p",
+          "x": "PPC News的Hana Kobzova发现的Google帮助文档写道：“Universal Commerce Protocol（UCP）是一项面向智能体商务的新开放标准，使智能体和系统能够在整个商务生态中协同工作。通过与UCP集成，你可以在Google Search的AI Mode和Gemini中，为符合条件的商品信息添加结账按钮。”"
+        },
+        {
+          "t": "p",
+          "x": "Merchant Center集成目前正在U.S.逐步推出，明年将扩展至澳大利亚和加拿大的商家。Google补充说：“这将让你从Merchant Center账户接入该计划，并启用将购物车转移至商家网站、增强型结账流程测试等功能。”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+          "cap": "Merchant Center中的UCP集成中心"
+        }
+      ]
+    },
+    "marketing/marketing-radisson-chatgpt-hotel-booking": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "通过与Accenture Song的合作，Radisson Hotel Group正利用OpenAI技术，在旅行规划更早的阶段触达客人。Radisson Hotels ChatGPT插件帮助旅行者比较酒店、探索出行选择，早期结果显示其预订转化率约为Radisson自然搜索的1.5倍。"
+        },
+        {
+          "t": "p",
+          "x": "借助智能体式开发，团队仅用六周就完成了插件的构建和上线。用户可以直接在ChatGPT中在地图上查看Radisson Hotel的推荐、比较价格、详细了解酒店设施，然后前往Radisson网站完成预订。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT最近的一次更新意味着用户不再需要输入@RadissonHotels；只要安装了插件，ChatGPT就会在相关时自动显示它。"
+        },
+        {
+          "t": "p",
+          "x": "Radisson也是在ChatGPT中投放赞助广告的酒店业先行者之一。该活动记录的结账和预订事件中，超过一半通过view-through衡量完成归因。Accenture为插件开发的MCP服务器和APIs也为广告体验提供支持。"
+        }
+      ]
+    },
+    "marketing/marketing-trafficguard-chatgpt-ad-invalid-clicks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+          "cap": "十二套西装里有四套是空的：部分ChatGPT广告中，最多三分之一的点击无效"
+        },
+        {
+          "t": "p",
+          "x": "Adveritas Ltd旗下的广告验证平台TrafficGuard表示，对OpenAI的ChatGPT广告40,021次点击的分析发现，不同广告主的无效率在0.1%至34%之间，被标记点击中有47%来自四个托管和代理网络。"
+        },
+        {
+          "t": "p",
+          "x": "这些点击于2026年8月24日至9月14日期间落在47家企业广告主运营的78个网站上。据首席执行官Mathew Ratty称，在受影响最严重的账户中，“近90%的被标记点击来自背后没有真人用户的服务器基础设施。”"
+        },
+        {
+          "t": "p",
+          "x": "这四个网络在三周内发送了899次点击，触及47家广告主中的25家，产生了1,592次无效点击中的742次。共有1,336次ChatGPT点击（3.34%）来自托管、residential-proxy或恶意IP地址空间，而同一批广告主在Google Ads上的这一比例为0.92%。"
+        },
+        {
+          "t": "p",
+          "x": "TrafficGuard的数据统计的是到达广告主网站的点击，而非OpenAI计费的点击，且该公司本身销售点击验证服务，因此这些结论来自存在商业利益的一方。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+          "cap": "ChatGPT界面中，新的视觉广告形式与生成的图像并排出现。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正在ChatGPT中推出一种新的视觉广告形式，同时扩充测量工具与合作方，并开发判断品牌适宜度的新方法。该公司称，ChatGPT每周触达12亿人。"
+        },
+        {
+          "t": "p",
+          "x": "该形式以图像呈现产品带来的灵感、产品的使用场景，或产品所能成就的体验。OpenAI将在ChatGPT的图像生成过程中测试它，对象为Free与Go套餐用户。广告会有清晰标注，并与正在生成的图像保持分离；该公司表示，广告不会影响ChatGPT给出的回答。测试于本月晚些时候在美国启动，先与一批初期广告主展开。"
+        },
+        {
+          "t": "p",
+          "x": "在测量方面，与Hightouch、Tealium、LiveRamp的新集成，让广告主可以把自有系统中的转化数据传入ChatGPT Ads；OpenAI的转化接口、报告与点击归因目前支持一长串归因合作方。与Haus、Measured、WorkMagic共同开展的跨地区效果比较实验仍处于早期阶段。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI引用的效果数据来自这些合作方，而非OpenAI自己。DV Rockerbox称，WeightWatchers在ChatGPT Ads上的单次获客成本比其混合付费搜索基准低15.3%；Triple Whale称，Portland Leather来自ChatGPT Ads的访客中有93%是新访客。"
+        },
+        {
+          "t": "p",
+          "x": "投放护栏会评估某段对话是否适合投放广告；Negative Phrases现已向符合条件的广告主开放，供其按自身政策设置排除项。"
+        }
+      ]
     }
   }
 }

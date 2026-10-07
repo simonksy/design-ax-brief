@@ -9194,6 +9194,91 @@
           "x": "Authors Guild CEO Mary Rasenberger는 이번 판결이 “저작권법의 정당성을 입증한다. AI가 학습한 바로 그 작품을 대체하는 AI 시스템을 학습시키려고 남의 작품을 훔쳐서는 안 된다는 점을 분명히 한다”고 말했다."
         }
       ]
+    },
+    "books/books-simon-schuster-ai-tracking-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. AI가 자기 업무 성과를 감시하는 데 쓰일까 걱정하는 직원들이 CEO Greg Greeley에게 보낼 공개서한에 서명을 모은다. 서한은 업무 활동을 분석하는 Skan AI나 비슷한 소프트웨어를 쓰는 데 “강력한 반대”를 밝히고, 이 움직임이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 익명의 작성자들이 목표로 잡은 서명은 250명이다. S&S 직원은 1,500명이다."
+        },
+        {
+          "t": "p",
+          "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획이 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이려고 “검토 중인 가능한 방안 가운데 하나”일 뿐이고, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”고 했다."
+        }
+      ]
+    },
+    "books/books-trace-ai-licensed-content": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+          "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한자리에 모은다. 학술 커뮤니케이션에 쓰이는 AI 시스템을 더 믿을 만하게 만들 기술 인프라를 앞당겨 갖추자는 취지다. 지원 대상은 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜이다."
+        },
+        {
+          "t": "p",
+          "x": "TRACE는 병렬 프로젝트 세 개에 자금을 대며 첫발을 뗀다. 하나는 출판사 플랫폼 밖의 추론 시점 이용까지 아우르는 COUNTER의 두 번째 단계 AI 이용 지표다. 또 하나는 AI 시스템의 출처·귀속에 필요한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿이다. 나머지는 Ithaka S+R의 석 달짜리 연구로, AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증한 뒤 신뢰할 만한 이용 기록을 남기는 방식을 살핀다."
+        },
+        {
+          "t": "p",
+          "x": "연구를 보면 일반 LLM 출력에는 지어낸 참고문헌이 약 20%에서 40%꼴로 섞여 있다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+        }
+      ]
+    },
+    "books/books-pangram-ai-detector-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+          "cap": "Pangram 최고경영자 Max Spero"
+        },
+        {
+          "t": "p",
+          "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하다는 지적을 반박하며 도구를 감쌌다. “문학계에서” 플랫폼 도입이 “크게 늘었다”는 말도 덧붙였다."
+        }
+      ]
+    },
+    "books/books-boersenblatt-ki-uebersetzen-umfrage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+          "cap": "© istockphoto"
+        },
+        {
+          "t": "p",
+          "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI를 주제로 한 대표성 있는 설문 결과를 내놨다. 번역가라면 긴장할 만한 내용이다. 협회 발표로는 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 처음부터 끝까지 KI가 쓴 책을 읽겠다는 응답은 29 %뿐이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+          "cap": "책 속 KI를 다룬 막대그래프. 번역 79 %, 표시 72 %, KI-Bücher 29 %. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+        }
+      ]
+    },
+    "books/books-redpine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+          "cap": "Redpine CEO Anders Hammarbäck"
+        },
+        {
+          "t": "p",
+          "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. 이에 따라 AI 에이전트는 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 받고 접근한다."
+        }
+      ]
     }
   }
 }

@@ -6020,6 +6020,147 @@
           "x": "各ステップでコストが見え、AIエージェントがコーディングなしでのワークフロー構築を手助けする。Mosaはスタジオ、エージェンシー、社内チームに加え、個人クリエイターやフリーランスも利用でき、大規模組織向けにはエンタープライズプランも用意されている。"
         }
       ]
+    },
+    "movies/movies-google-synthid-detector-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIツールが高性能になり使いやすくなるにつれ、オンラインで出会うコンテンツの文脈を明確に知ることは、何を信頼するかを判断する助けになる。2023年にGoogle SynthIDを公開して以来、私たちは画像、動画、音声に知覚できない電子透かしを入れ、人々がAI-generatedメディアを見分けられるよう支援してきた。これまでに180 billion 件を超える画像と動画、さらに240,000年分の音声コンテンツに透かしを入れている。"
+        },
+        {
+          "t": "p",
+          "x": "昨年、メディアの専門家がAI-generatedコンテンツを検証できるよう、SynthID Detectorの初期版を導入した。そして今回、誰もが使えるよう提供を広げ、本日から世界中で英語版を利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "新しいSynthID Detectorを使えば、誰でも画像、動画、音声ファイルが、Google、あるいはOpenAI、NVIDIA、Kakao、そして近くApple を含むパートナーのAIで作られたかを簡単に確認できる。"
+        },
+        {
+          "t": "p",
+          "x": "このツールは、Search、Geminiアプリ、Chromeに組み込まれた検証機能に加わる。これらの機能は現在、毎日1 million 件を超えるリクエストを日常的に処理している。いずれも、オンラインで目にするメディアについてより多くの文脈を提供し、安心してウェブを使えるようにする継続的な取り組みの一環だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+        }
+      ]
+    },
+    "movies/movies-abundantia-aion-standalone-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+          "cap": "『Subedaar』『Maa Behen』『Daldal』、Vikram Malhotra（挿入写真）"
+        },
+        {
+          "t": "p",
+          "x": "AI制作部門Abundantia AiOnを立ち上げてから一年、インドのAbundantia Entertainmentはこれを完全に独立したネイティブAIスタジオへと移行させている。従来とは異なる出どころから流れ込むアイデアを取り込む狙いだ。"
+        },
+        {
+          "t": "p",
+          "x": "「AiOnは、Abundantiaが独立スタジオとしてそうしているように、独自の物語を開発し、独自のコンテンツを作り、完全生成型とハイブリッド型の作品を制作し、エコシステム全体を管理する」と、創業者でCEOのVikram MalhotraはDeadlineに語った。AiOnは2027年に本格的なスタジオとして始動するという。"
+        },
+        {
+          "t": "p",
+          "x": "当面はMalhotraがAiOnを率いる。「今のところはAbundantiaの中に置くが、独自のアイデンティティと領域を持つように作っている…まさに技術と芸術の合流だ」"
+        },
+        {
+          "t": "p",
+          "x": "彼によれば、この六か月で「脚本を書いたことも映画を作ったこともなく、従来の映画制作のエコシステムに属したこともない人々」からの企画提案が以前の三倍に増えた。Curry BarkerやKane Parsonsといった監督を、アイデアの「民主化」の証拠として挙げた。"
+        },
+        {
+          "t": "p",
+          "x": "Abundantiaは今年初め、AI動画企業InVideoとも組み、五本の映画を開発する映画スタジオを立ち上げている。"
+        }
+      ]
+    },
+    "movies/movies-authors-first-book-adaptation-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "プライベートエクイティのベテラン、Robert Hamweeが創業したAuthors Firstは、SFやファンタジーの作家が自作を本来思い描いたビジョンにできる限り近い形で映像化できるようにすると約束する。Seedance 2.5やNano BananaといったAI生成ツールに、Blenderなどの「その他の技術」を組み合わせ、Hollywoodスタジオのような予算の制約なしに映像化作品を作る。"
+        },
+        {
+          "t": "p",
+          "x": "同社は、Hamwee、Brand Foundry、The Family Office of David Blitzerが参加した$10 millionを超えるシードラウンドを経て始動する。HamweeがCEOを務め、チームにはHulu、Warner Bros.、Universalの出身者が加わる。"
+        },
+        {
+          "t": "p",
+          "x": "第一弾は、Conn Igguldenの2007年の本「Wolf of the Plains」を映像化した「Genghis: Birth of an Empire」だ。約25人がストーリー、カメラアングル、台詞に携わったが、作品の大部分はAIで生成された。Igguldenは、歴史大作に必要な予算を理由にオファーが立ち消えになってきたため、この方法でなければ映像化されることはなかったと語る。"
+        },
+        {
+          "t": "video",
+          "yt": "KarPbRqW_U8"
+        }
+      ]
+    },
+    "movies/movies-sinima-creative-ownership-platform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ベータ運用を経て公開されたばかりのSinimaは、映画制作者やクリエイターが映画や動画をホスティングし、保護し、監視し、収益化できる新たな場を目指す。軸に据えるのは、同社が「クリエイティブ・オーナーシップ」と呼ぶ考え方だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+          "cap": "提供：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Vimeoの元VPを含む創業者らが立ち上げたSinimaは、二つの問題に取り組む。クリエイターは自分のアップロードがAIモデルの学習に使われているか確信できず、一方でAI企業が実写映像で合法的に学習する手段は限られている。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+          "cap": "提供：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "機能には、ホスティング、非公開のクライアントレビュー、所有権と来歴の記録、一致の監視、クリエイターが管理するAI利用許可が含まれる。アップロードごとに固有のデジタル指紋と、公開検証リンク付きの所有権証明書が発行され、詳細はC2PA-formatのマニフェストに記録される。"
+        },
+        {
+          "t": "p",
+          "x": "作品がAI学習用にライセンスされると、クリエイターは購入者の支払額の85%を受け取る。現行の料金表では、条件を満たし権利処理済みの映像を1時間あたり$4,000〜$7,500と評価しており、処理済み1時間あたり$3,400〜$6,375がクリエイターに渡る。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+          "cap": "提供：Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sinimaは無料で始められ、サブスクリプションプランは月$15からだ。"
+        }
+      ]
+    },
+    "movies/movies-loftapps-mad-god": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+          "cap": "LOFTを使って制作中のPhil Tippett『Mad God』続編の画像。画像提供：LOFTAPPS。"
+        },
+        {
+          "t": "p",
+          "x": "Berkeley, Californiaを拠点とするLOFTAPPSは、生成AI向け制作ソフトウェアLOFTを、10月12-16日にTurin(Italy)で開かれるVIEW Conference 2026で欧州初披露すると発表した。来場者は、LOFTを用いて制作が進むPhil Tippettのstop-motion長編Mad Godの続編も、独占で先行して見ることができる。"
+        },
+        {
+          "t": "p",
+          "x": "LOFTは、複雑なパイプラインと複数のAIモデルにまたがるアセット、創作意図、プロンプト、来歴、レビュー、制作リソースを単一のシステムで管理する。AI-firstの製品として作られながらハイブリッドなワークフローにも対応し、現在はガイド付きのオンボーディングを通じて一部の顧客に提供されている。"
+        },
+        {
+          "t": "p",
+          "x": "「その価値は、制作作業の生成、増幅、管理のあり方を根本から変える、つながった制作プロセスにある」と、LOFTAPPSの共同創業者でCEOのGary Mundellは語った。"
+        },
+        {
+          "t": "p",
+          "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
+        }
+      ]
     }
   }
 }

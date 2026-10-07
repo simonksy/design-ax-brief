@@ -1,200 +1,125 @@
 {
-  "section": "marketing",
-  "date": "2026-10-07",
-  "now_iso": "2026-10-07T09:00:00Z",
-  "window_hours": 72,
-  "items": [
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "headline": "Building advertising for the way people use AI",
-      "published_iso": "2026-10-05T10:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-      "summary": "OpenAI's own announcement of a new ChatGPT ad format and measurement stack — the primary source for this week's biggest AI-advertising story.",
-      "freshness": "FRESH",
-      "notes": "og:image unobtainable from openai.com (JS-rendered, no OG tags); fallback is OpenAI's own announcement asset as rehosted by TechCrunch. Same story cluster as items 2-5."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
-      "headline": "OpenAI moves to make ChatGPT Ads more measurable — and more visual",
-      "published_iso": "2026-10-05T10:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/12/openai-ads-digiday.jpg",
-      "summary": "OpenAI answers advertiser complaints with a new ad format, measurement tooling and brand-suitability testing inside ChatGPT Ads.",
-      "freshness": "FRESH",
-      "notes": "Buy-side read on the OpenAI announcement: measurement and format detail."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
-      "headline": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
-      "published_iso": "2026-10-05T16:06:50+00:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=600&h=315&crop=1",
-      "summary": "DoubleVerify and IAS will independently assess how ChatGPT applies brand-safety standards in a sandbox, and OpenAI adds Negative Phrases placement exclusions for brands.",
-      "freshness": "FRESH",
-      "notes": "Distinct reportable fact from items 1-2: third-party verification and brand-suitability controls for ads in a chat surface."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
-      "headline": "OpenAI To Test Visual Ads In ChatGPT Image Generation",
-      "published_iso": "2026-10-06T17:21:56+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2500976757_1600x840-587.png",
-      "summary": "ChatGPT Ads will test visual ads during image generation in the U.S. as OpenAI expands measurement partners — written for PPC teams deciding what to evaluate and track.",
-      "freshness": "FRESH",
-      "notes": "Practitioner angle on the new visual ad format; paid-placement story, not organic SEO."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "headline": "OpenAI launches visual ads that appear alongside image generation results",
-      "published_iso": "2026-10-05T15:14:24+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-      "summary": "The new ads will appear later this month in the U.S. only, featuring products and services from an initial test group of advertisers.",
-      "freshness": "FRESH",
-      "notes": "Same visual-ads story as item 4, from a general-tech outlet."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "TikTok Newsroom",
-      "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
-      "headline": "TikTok Unveils AI-Powered Updates for Advertisers: Driving Discovery, Action, and Measurable Business Outcomes",
-      "published_iso": "2026-10-05T22:19:56+00:00",
-      "og_image": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-      "summary": "TikTok's Advertising Week announcement: agentic commerce with Buy Direct and a conversational Shopping Assistant, Smart+-powered Search Ads campaigns and Smart+ Creative Selection.",
-      "freshness": "FRESH",
-      "notes": "Primary source for the TikTok cluster (items 7-9). published time read from the embedded publishedDate field (2026-10-05T22:19:56.418Z), not a snippet."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
-      "headline": "TikTok broadens agentic AI play, brings global ad network to US",
-      "published_iso": "2026-10-05T14:30:00+00:00",
-      "og_image": "https://imgproxy.divecdn.com/m_DB6CgOJ57JOX8dknxoWdGDy_5-oL2PuvJEQOjGkdc/g:nowe:0:32/c:2500:1412/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NzczNTI3LmpwZw==.webp",
-      "summary": "Products timed to Advertising Week extend TikTok's agentic ad automation and open its off-platform ad network to U.S. buyers ahead of the holidays.",
-      "freshness": "FRESH",
-      "notes": "Buying-side framing of the TikTok announcement."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/tiktoks-ad-network-bet-more-reach-more-budget/",
-      "headline": "TikTok's ad network bet: More reach, more budget",
-      "published_iso": "2026-10-05T14:30:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-tiktok-dollars.001.jpeg",
-      "summary": "TikTok wants a bigger share of advertiser budgets by selling inventory beyond its own app, with agentic buying attached.",
-      "freshness": "FRESH",
-      "notes": "Same TikTok cluster; budget-shift angle."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
-      "headline": "TikTok Expands Its Off-Platform Ad Network to US Advertisers",
-      "published_iso": "2026-10-05T15:34:34+00:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/tiktok-ai-ads-tiktok-world-2026.webp?w=600&h=315&crop=1",
-      "summary": "The rebranded Pangle network spans nearly 400,000 apps, and TikTok will let advertisers launch and run TikTok campaigns from AI tools like Claude and Perplexity.",
-      "freshness": "FRESH",
-      "notes": "Media buying moving into third-party AI assistants is the distinct fact here. Replaces the dropped Adweek TikTok shopping-assistant piece under the 3-per-outlet cap."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/programmatic/adweek-tech-advantage-ai-agents-are-increasingly-getting-their-hands-on-ad-dollars/",
-      "headline": "ADWEEK Tech Advantage: AI Agents Are Increasingly Getting Their Hands on Ad Dollars",
-      "published_iso": "2026-10-06T11:57:23+00:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/09/fifty-dollar-bills.webp?w=600&h=315&crop=1",
-      "summary": "As AI moves from making ads to making media decisions, the industry is arguing over how much spending authority agents get and who sets the rules.",
-      "freshness": "FRESH",
-      "notes": "Agentic media buying: who controls the budget."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/data-driven-thinking/who-eats-the-spending-gap-when-agentic-spend-outpaces-proof-of-impact/",
-      "headline": "Who Eats The Gap When Agentic Spend Outpaces Proof Of Impact?",
-      "published_iso": "2026-10-07T04:35:38+00:00",
-      "og_image": "https://adexchanger.com/wp-content/uploads/2026/05/Evgeny-Popov.jpg",
-      "summary": "An AI agent can stay inside its budget and still spend too much, and proof of campaign performance arrives after the money is already committed.",
-      "freshness": "FRESH",
-      "notes": "Agentic buying vs. measurement lag. Both halves pass squarely: the overspend only exists because an agent is doing the buying."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
-      "headline": "AI Agents Are Coming For CTV; It's Cheaper For Politicians To Buy National Ads Than To Target Texas",
-      "published_iso": "2026-10-07T04:03:03+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/02/bot-transparency-singularity-comic-daily-newsletter-.jpg",
-      "summary": "Custom buying agents from NBCUniversal, FreeWheel, Dentsu's Carat and Newton pair identity data with audience intelligence to recommend NBCU streaming inventory against an advertiser's desired outcome.",
-      "freshness": "FRESH",
-      "notes": "Format caveat: this is a daily roundup, so a writer would need to work from the lead item (the NBCU/FreeWheel/Carat/Newton agentic CTV buying launch), which no other fresh item in the pool covers. Content passes both halves."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/inside-the-stack/want-an-ai-built-mmm-you-can-trust-start-with-a-thesis/",
-      "headline": "Want an AI-Built MMM You Can Trust? Start With a Thesis",
-      "published_iso": "2026-10-06T20:58:38+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49250-Inside-the-Stack-Madan_1080x1080.jpg",
-      "summary": "M Squared's Madan Bharadwaj on why AI-generated marketing mix models make expert judgment matter more, not less, when you are allocating media budget.",
-      "freshness": "FRESH",
-      "notes": "Measurement/MMM — the in-scope axis that decides where ad money goes."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Digiday",
-      "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
-      "headline": "Omnicom Media and Rembrand partner to evolve in-content ad placements",
-      "published_iso": "2026-10-07T04:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-      "summary": "The holdco and the ad-tech platform push in-content ad insertion further, using AI to identify scenes that can be monetized contextually.",
-      "freshness": "FRESH",
-      "notes": "New ad inventory created by AI scene detection. Replaces the dropped Digiday Media Agency Report under the 3-per-outlet cap."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Modern Retail",
-      "url": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/",
-      "headline": "Pricing tactics come under scrutiny in the age of AI",
-      "published_iso": "2026-10-05T14:00:00+00:00",
-      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/01/piggy-bank-shattered.webp",
-      "summary": "Concern that retailers are using customer data for AI-driven dynamic and personalized pricing is putting brands on the defensive about a core selling lever.",
-      "freshness": "FRESH",
-      "notes": "Pricing/promotion as a selling lever, AI-driven."
-    },
-    {
-      "category": "marketing",
-      "date": "2026-10-07",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
-      "headline": "Gap unveils AI-assisted shopping, three decades after its first website",
-      "published_iso": "2026-10-05T15:01:00+00:00",
-      "og_image": "https://imgproxy.divecdn.com/UaO5m3HdJQLXAfmElFR7k5h-eHGyY38ksIDBK9qo0cg/g:nowe:56:1373/c:1936:1094/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-      "summary": "Gap Inc. puts conversational shopping agents and the Alta Daily and Daydream recommendation platforms in front of customers across Gap, Banana Republic and Old Navy.",
-      "freshness": "FRESH",
-      "notes": "AI at the point of conversion for a major retailer. Published time field carries no timezone (Industry Dive emits ET); 11:01 ET recorded as 15:01Z."
-    }
-  ]
+ "section": "marketing",
+ "now_iso": "2026-10-07T22:04:00Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "title": "AI Agents Are Coming For CTV; It’s Cheaper For Politicians To Buy National Ads Than To Target Texas",
+   "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-07T04:03:03+00:00",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/02/bot-transparency-singularity-comic-daily-newsletter-.jpg",
+   "excerpt": "Custom buying agents pair identity data from NBCU and FreeWheel with audience intelligence from Dentsu and Newton to recommend NBCU ad inventory — agentic media buying comes to streaming TV."
+  },
+  {
+   "title": "Who Eats The Gap When Agentic Spend Outpaces Proof Of Impact?",
+   "url": "https://www.adexchanger.com/data-driven-thinking/who-eats-the-spending-gap-when-agentic-spend-outpaces-proof-of-impact/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-07T04:35:38+00:00",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/05/Evgeny-Popov.jpg",
+   "excerpt": "An AI agent can stay inside its budget and still spend too much. And the evidence of campaign performance can still arrive after the money is committed."
+  },
+  {
+   "title": "Want an AI-Built MMM You Can Trust? Start With a Thesis",
+   "url": "https://www.adexchanger.com/inside-the-stack/want-an-ai-built-mmm-you-can-trust-start-with-a-thesis/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-06T20:58:38+00:00",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49250-Inside-the-Stack-Madan_1080x1080.jpg",
+   "excerpt": "AI can build a marketing mix model in days; M Squared's Madan Bharadwaj on why AI makes expert judgment in MMM matter more, not less."
+  },
+  {
+   "title": "At S4 Capital’s Monks, agents can run autonomously, unsupervised for days",
+   "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+   "source": "Digiday",
+   "category": "marketing",
+   "published_iso": "2026-10-06T04:01:00+00:00",
+   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+   "excerpt": "S4 Capital has started letting AI agents work for days at a stretch with no one watching them, and its digital agency Monks now budgets for tokens and talent from the same pot."
+  },
+  {
+   "title": "How Liquid Death is building an AI-native marketing organization",
+   "url": "https://www.marketingdive.com/news/how-liquid-death-is-building-an-ai-native-marketing-organization/832345/",
+   "source": "Marketing Dive",
+   "category": "marketing",
+   "published_iso": "2026-10-07T12:58:00+00:00",
+   "og_image": "https://imgproxy.divecdn.com/ufZqJIjSO4UrSui8aN1qVdVMQ3hn_JBngKnJp27pPHA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BVzI2X05ZMjYtSUQ1NDktMDYuSlBH.webp",
+   "excerpt": "Benoit Vatere, chief media and digital commerce officer at the brand, explained at Advertising Week how it is using the tech to move faster than competitors."
+  },
+  {
+   "title": "TikTok to add AI-powered discovery and one-click checkout",
+   "url": "https://www.retaildive.com/news/tiktok-ai-powered-discovery-one-click-checkout/832326/",
+   "source": "Retail Dive",
+   "category": "marketing",
+   "published_iso": "2026-10-07T14:20:00+00:00",
+   "og_image": "https://imgproxy.divecdn.com/m_DB6CgOJ57JOX8dknxoWdGDy_5-oL2PuvJEQOjGkdc/g:nowe:0:32/c:2500:1412/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NzczNTI3LmpwZw==.webp",
+   "excerpt": "The social media platform is hoping to capitalize on its role as a product discovery engine by adding a conversational AI agent and simpler checkout."
+  },
+  {
+   "title": "Pricing tactics come under scrutiny in the age of AI",
+   "url": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/",
+   "source": "Modern Retail",
+   "category": "marketing",
+   "published_iso": "2026-10-05T14:00:00+00:00",
+   "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/01/piggy-bank-shattered.webp",
+   "excerpt": "Concern is growing that retailers are using customer data to engage in dynamic pricing, and it is putting more companies on the defensive."
+  },
+  {
+   "title": "Google Merchant Center UCP Integration Hub",
+   "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+   "source": "Search Engine Roundtable",
+   "category": "marketing",
+   "published_iso": "2026-10-07T07:21:00-04:00",
+   "og_image": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+   "excerpt": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account."
+  },
+  {
+   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "source": "TechCrunch",
+   "category": "marketing",
+   "published_iso": "2026-10-07T16:53:46+00:00",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2152655802.jpg?resize=1200,802",
+   "excerpt": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online."
+  },
+  {
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "source": "OpenAI",
+   "category": "marketing",
+   "published_iso": "2026-10-07T07:00:00+00:00",
+   "og_image": null,
+   "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+  },
+  {
+   "title": "Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents",
+   "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-07T18:54:51.000Z",
+   "og_image": "https://ppc.land/content/images/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+   "excerpt": "By arithmetic on vendor data, about 6,350 agent batches reached Meta in 30 days, about 212 a day. Will agents built by Amazon, Meta and X take over that share?"
+  },
+  {
+   "title": "TrafficGuard finds up to 34% of clicks on some ChatGPT ads were invalid",
+   "url": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-05T19:37:20.000Z",
+   "og_image": "https://ppc.land/content/images/size/w1200/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+   "excerpt": "Four hosting and proxy networks reached 25 of 47 advertisers and drove 47% of flagged clicks. Vendor-sourced figures leave open what advertisers were billed."
+  },
+  {
+   "title": "Invoca packages AI agents as Google bills missed LSA calls over 20 seconds",
+   "url": "https://ppc.land/invoca-packages-ai-agents-as-google-bills-missed-lsa-calls-over-20-seconds/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-06T17:50:07.000Z",
+   "og_image": "https://ppc.land/content/images/2026/10/invoca-ai-agents-google-lsa-missed-calls-rotary-phone-spilling-coins.jpg",
+   "excerpt": "Only 52% of home services calls reach a person, per Invoca's July data, and Google now charges for some of the rest. Can AI agents really change that math?"
+  }
+ ],
+ "date": "2026-10-08"
 }

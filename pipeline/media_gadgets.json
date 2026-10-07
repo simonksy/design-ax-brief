@@ -1,32 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "gadgets",
- "media": [
-  {
-   "id": "gadgets-ghost-core",
-   "type": "image",
-   "src": "pipeline/media/gadgets-ghost-core.jpg"
-  },
-  {
-   "id": "gadgets-foresight",
-   "type": "video",
-   "src": "pipeline/media/gadgets-foresight.mp4",
-   "poster": "pipeline/media/gadgets-foresight.jpg"
-  },
-  {
-   "id": "gadgets-fitbit-edge",
-   "type": "image",
-   "src": "pipeline/media/gadgets-fitbit-edge.jpg"
-  },
-  {
-   "id": "gadgets-jbl-partybox",
-   "type": "image",
-   "src": "pipeline/media/gadgets-jbl-partybox.jpg"
-  },
-  {
-   "id": "gadgets-underdog",
-   "type": "image",
-   "src": "pipeline/media/gadgets-underdog.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "gadgets-surface-laptop-ultra-nvidia",
+      "type": "image",
+      "src": "pipeline/media/gadgets-surface-laptop-ultra-nvidia.png"
+    },
+    {
+      "id": "gadgets-copilot-windows-local-files",
+      "type": "image",
+      "src": "pipeline/media/gadgets-copilot-windows-local-files.jpg"
+    },
+    {
+      "id": "gadgets-one-ui-9-galaxy-s26-ai",
+      "type": "image",
+      "src": "pipeline/media/gadgets-one-ui-9-galaxy-s26-ai.jpg"
+    },
+    {
+      "id": "gadgets-tony-fadell-ai-gadgets-failed",
+      "type": "image",
+      "src": "pipeline/media/gadgets-tony-fadell-ai-gadgets-failed.jpg"
+    },
+    {
+      "id": "gadgets-ios-27-2-messages-ai-suggestions",
+      "type": "image",
+      "src": "pipeline/media/gadgets-ios-27-2-messages-ai-suggestions.jpg"
+    }
+  ]
 }
