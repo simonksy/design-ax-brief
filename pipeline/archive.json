@@ -80860,36 +80860,36 @@
    "has_full": true
   },
   {
-   "id": "chatgpt-labels",
-   "headline": "OpenAI, 편집 라벨\nChatGPT 결과에 시험",
-   "body": "OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다.",
+   "id": "chatgpt-ads",
+   "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
+   "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
    "tool": "Marketing",
-   "source": "Search Engine Roundtable",
-   "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+   "source": "OpenAI",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
    "accent": "#ff8a3d",
    "motif": "frame",
-   "image": "pipeline/media/chatgpt-labels.jpg",
+   "image": "pipeline/media/chatgpt-ads.jpg",
    "source_lang": "en",
    "text": {
     "en": {
-     "headline": "OpenAI tests editorial\nlabels on ChatGPT results",
-     "body": "OpenAI is testing labels like 'best all-rounder' and 'best for beginners' on ChatGPT's organic product results."
-    },
-    "es": {
-     "headline": "OpenAI prueba etiquetas\neditoriales en ChatGPT",
-     "body": "OpenAI está probando etiquetas como 'best all-rounder' y 'best for beginners' en resultados orgánicos de ChatGPT."
+     "headline": "ChatGPT will test visual ads\nduring image generation",
+     "body": "OpenAI will test visual ads during ChatGPT image generation in the United States with select advertisers."
     },
     "ko": {
-     "headline": "OpenAI, 편집 라벨\nChatGPT 결과에 시험",
-     "body": "OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다."
+     "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
+     "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다."
     },
     "ja": {
-     "headline": "OpenAI、編集ラベル\nChatGPTの結果で試す",
-     "body": "OpenAIはChatGPTの商品結果に編集ラベルを付けて試している。"
+     "headline": "ChatGPT、画像生成中に\nビジュアル広告を試験",
+     "body": "OpenAIが米国の一部広告主と、ChatGPTの画像生成中にビジュアル広告を試験する。"
     },
     "zh": {
-     "headline": "OpenAI测试编辑标签\n出现在ChatGPT结果",
-     "body": "OpenAI正在ChatGPT自然商品结果中测试“综合最佳”等编辑标签。"
+     "headline": "ChatGPT将在图像生成中\n测试视觉广告",
+     "body": "OpenAI将在美国与部分广告主一起测试ChatGPT图像生成中的视觉广告。"
+    },
+    "es": {
+     "headline": "ChatGPT probará anuncios\nvisuales al generar imágenes",
+     "body": "OpenAI probará anuncios visuales en la generación de imágenes de ChatGPT en Estados Unidos con algunos anunciantes."
     }
    },
    "date": "2026-10-07",
@@ -80897,36 +80897,35 @@
    "has_full": true
   },
   {
-   "id": "monks-agents",
-   "headline": "S4 Capital 산하\nMonks AI 며칠 자율",
-   "body": "Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다.",
+   "id": "chatgpt-brand-safety",
+   "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
+   "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
    "tool": "Marketing",
-   "source": "Digiday",
-   "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+   "source": "Adweek",
+   "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
    "accent": "#0070f3",
    "motif": "frame",
-   "image": "pipeline/media/monks-agents.jpg",
    "source_lang": "en",
    "text": {
     "en": {
-     "headline": "At S4 Capital's Monks, AI\nagents run for days unwatched",
-     "body": "S4 Capital's Monks has coding agents running unsupervised for 36 to 48 hours, with social and performance work next."
+     "headline": "Outside firms will vet\nChatGPT ads in a pilot",
+     "body": "OpenAI is piloting brand suitability controls with DoubleVerify and Integral Ad Science in a controlled test."
     },
     "ko": {
-     "headline": "S4 Capital 산하\nMonks AI 며칠 자율",
-     "body": "Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다."
+     "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
+     "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다."
     },
     "ja": {
-     "headline": "S4 Capital傘下の\nMonks、AIが無人稼働",
-     "body": "Monksのコーディングエージェントは監視なしで36〜48時間動く。"
+     "headline": "ChatGPT広告を外部が\nパイロットで検証",
+     "body": "OpenAIは管理された試験環境で、ブランド適合性の制御をパイロット運用する。"
     },
     "zh": {
-     "headline": "S4 Capital旗下\nMonks放手让AI连跑数日",
-     "body": "S4 Capital旗下Monks的编码代理已能无人监督运行36至48小时。"
+     "headline": "外部机构将在试点中\n审核ChatGPT广告",
+     "body": "OpenAI正与两家外部机构在受控测试中试点品牌适宜度管控。"
     },
     "es": {
-     "headline": "En Monks, de S4 Capital, los\nagentes de AI trabajan solos",
-     "body": "Monks, de S4 Capital, mantiene agentes de código trabajando sin supervisión 36 a 48 horas."
+     "headline": "Firmas externas revisarán\nanuncios de ChatGPT en piloto",
+     "body": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science en una prueba controlada."
     }
    },
    "date": "2026-10-07",
@@ -80934,36 +80933,36 @@
    "has_full": true
   },
   {
-   "id": "mueller-ai-crawlers",
-   "headline": "AI 크롤러가 읽는\nsitemap과 RSS",
-   "body": "John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다.",
+   "id": "gap-shopping-agents",
+   "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
+   "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
    "tool": "Marketing",
-   "source": "Search Engine Journal",
-   "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-   "accent": "#ff5a4d",
+   "source": "Retail Dive",
+   "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+   "accent": "#3b6bff",
    "motif": "frame",
-   "image": "pipeline/media/mueller-ai-crawlers.jpg",
+   "image": "pipeline/media/gap-shopping-agents.jpg",
    "source_lang": "en",
    "text": {
     "en": {
-     "headline": "Mueller sees AI crawlers\nfetching sitemaps and RSS",
-     "body": "Google's John Mueller says his logs show AI crawlers fetching sitemaps and RSS, so he advises default sitemap names."
+     "headline": "Gap puts shopping agents\nin front of buyers",
+     "body": "Gap Inc. is putting conversational shopping agents in front of customers at Old Navy and Banana Republic."
     },
     "ko": {
-     "headline": "AI 크롤러가 읽는\nsitemap과 RSS",
-     "body": "John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다."
+     "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
+     "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다."
     },
     "ja": {
-     "headline": "AIクローラーが読む\nsitemapとRSS",
-     "body": "John MuellerはAIクローラーがsitemapとRSSを取得するのを確認した。"
+     "headline": "Gap、買い物エージェントを\n顧客の前に置く",
+     "body": "Gap Inc.はOld NavyとBanana Republicに買物エージェントを置く。"
     },
     "zh": {
-     "headline": "AI 爬虫在抓取\nsitemap 与 RSS",
-     "body": "John Mueller 说，日志显示 AI 爬虫会抓取 sitemap 与 RSS。"
+     "headline": "Gap把购物智能体\n摆到顾客面前",
+     "body": "Gap Inc.在Old Navy和Banana Republic向顾客推出购物智能体。"
     },
     "es": {
-     "headline": "Mueller ve a rastreadores de IA\nleyendo sitemaps y RSS",
-     "body": "John Mueller, de Google, dice que sus registros muestran rastreadores de IA leyendo sitemaps y RSS."
+     "headline": "Gap pone agentes de compra\ndelante de los clientes",
+     "body": "Gap Inc. pone agentes de compra conversacionales ante los clientes de Old Navy y Banana Republic."
     }
    },
    "date": "2026-10-07",
@@ -80971,36 +80970,35 @@
    "has_full": true
   },
   {
-   "id": "nano-banana-21",
-   "headline": "Nano Banana\n2.1 AI Mode 배포",
-   "body": "Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다.",
+   "id": "rembrand-in-content",
+   "headline": "Omnicom, 광고를\n영상 안에 심는다",
+   "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
    "tool": "Marketing",
-   "source": "Search Engine Roundtable",
-   "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+   "source": "Digiday",
+   "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
    "accent": "#2ec5c5",
    "motif": "frame",
-   "image": "pipeline/media/nano-banana-21.jpg",
    "source_lang": "en",
    "text": {
     "en": {
-     "headline": "Nano Banana 2.1 is rolling\nout inside AI Mode",
-     "body": "Google shipped Nano Banana 2.1, its latest image model, and it is rolling out inside AI Mode in Search."
+     "headline": "Omnicom will put ads\ninside the video itself",
+     "body": "Omnicom Media and Rembrand will use AI to find scenes in premium streaming shows that can carry ads."
     },
     "ko": {
-     "headline": "Nano Banana\n2.1 AI Mode 배포",
-     "body": "Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다."
+     "headline": "Omnicom, 광고를\n영상 안에 심는다",
+     "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다."
     },
     "ja": {
-     "headline": "Nano Banana\n2.1、AI Modeで展開",
-     "body": "GoogleはNano Banana 2.1をAI Modeで順次展開している。"
+     "headline": "Omnicom、広告を\n映像の中に埋め込む",
+     "body": "Omnicom MediaとRembrandがAIで配信番組内の広告枠を探す。"
     },
     "zh": {
-     "headline": "Nano Banana\n2.1逐步进入AI Mode",
-     "body": "Google发布最新图像模型Nano Banana 2.1，并在AI Mode中逐步推出。"
+     "headline": "Omnicom要把广告\n放进视频画面里",
+     "body": "Omnicom Media与Rembrand将用AI寻找流媒体节目中可放广告的画面。"
     },
     "es": {
-     "headline": "Nano Banana 2.1 comienza a\ndesplegarse en AI Mode",
-     "body": "Google lanzó Nano Banana 2.1, su último modelo de imagen, que se despliega en AI Mode en el buscador."
+     "headline": "Omnicom pondrá anuncios\ndentro del propio video",
+     "body": "Omnicom Media y Rembrand usarán IA para hallar escenas de series en streaming que admitan anuncios."
     }
    },
    "date": "2026-10-07",
@@ -81008,40 +81006,224 @@
    "has_full": true
   },
   {
-   "id": "pinterest-beauty-guides",
-   "headline": "뷰티 Pin을 살롱\n실행 계획으로",
-   "body": "Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다.",
+   "id": "tiktok-agentic-ads",
+   "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
+   "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
    "tool": "Marketing",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+   "source": "TikTok Newsroom",
+   "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
    "accent": "#7928ca",
    "motif": "frame",
-   "image": "pipeline/media/pinterest-beauty-guides.jpg",
+   "image": "pipeline/media/tiktok-agentic-ads.jpg",
    "source_lang": "en",
    "text": {
     "en": {
-     "headline": "Pinterest turns beauty Pins\ninto salon action plans",
-     "body": "Pinterest's AI Beauty Guides translate hair and nail Pins into salon terms with estimated costs, times and upkeep."
+     "headline": "TikTok is building agentic\ncommerce for advertisers",
+     "body": "TikTok announced Buy Direct checkout, a conversational Shopping Assistant and Smart+ powered Search Ads."
     },
     "ko": {
-     "headline": "뷰티 Pin을 살롱\n실행 계획으로",
-     "body": "Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다."
+     "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
+     "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다."
     },
     "ja": {
-     "headline": "PinterestのAIが\n美容Pinを計画に",
-     "body": "PinterestのBeauty Guidesが美容Pinをサロンの用語に置き換える。"
+     "headline": "TikTok、広告主向けに\nエージェント型商取引を構築",
+     "body": "TikTokはBuy DirectとShopping Assistantを発表した。"
     },
     "zh": {
-     "headline": "Pinterest 新功能\n把美容 Pin 变方案",
-     "body": "Pinterest 的 Beauty Guides 把美容 Pin 译成沙龙用语。"
+     "headline": "TikTok正在为广告主\n构建智能体商务能力",
+     "body": "TikTok宣布推出Buy Direct结算与对话式Shopping Assistant。"
     },
     "es": {
-     "headline": "Pinterest convierte los Pins\nde belleza en planes",
-     "body": "Las Beauty Guides de Pinterest traducen Pins de pelo y uñas a términos de salón, con costes, tiempos y mantenimiento."
+     "headline": "TikTok construye comercio\ncon agentes para anunciantes",
+     "body": "TikTok anunció el pago Buy Direct, un Shopping Assistant conversacional y Search Ads con Smart+."
     }
    },
    "date": "2026-10-07",
    "section": "marketing",
+   "has_full": true
+  },
+  {
+   "id": "breast-second-read",
+   "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
+   "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
+   "tool": "Medicine",
+   "source": "Radiology Business",
+   "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+   "accent": "#00897b",
+   "motif": "sphere",
+   "image": "pipeline/media/breast-second-read.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Three hospitals will give AI\nthe second mammogram read",
+     "body": "Three Stockholm hospitals will use AI instead of a radiologist as the independent second reader."
+    },
+    "ko": {
+     "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
+     "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다."
+    },
+    "ja": {
+     "headline": "病院3施設、乳がん検診\n2次読影をAIに委ねる",
+     "body": "Stockholm の病院3施設が、独立した2次読影を医師ではなくAIに委ねる。"
+    },
+    "zh": {
+     "headline": "三家医院将把乳腺筛查\n第二次阅片交给AI",
+     "body": "Stockholm 三家医院将用AI取代放射科医生，承担独立的第二次阅片。"
+    },
+    "es": {
+     "headline": "Tres hospitales darán a la IA\nla segunda lectura mamográfica",
+     "body": "Tres hospitales de Stockholm usarán IA en lugar de un radiólogo como segundo lector independiente."
+    }
+   },
+   "date": "2026-10-07",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "dual-stain",
+   "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
+   "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
+   "tool": "Medicine",
+   "source": "NEJM AI",
+   "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "image": "pipeline/media/dual-stain.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Independent validation of AI\ndual-stain cervical triage",
+     "body": "An independent external validation tested an AI dual-stain reader for triage in HPV cervical cancer screening."
+    },
+    "ko": {
+     "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
+     "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다."
+    },
+    "ja": {
+     "headline": "AI二重染色の子宮頸部\nトリアージを独立検証",
+     "body": "HPV検査に基づく子宮頸がん検診のAI二重染色読影を、独立した外部検証で評価した。"
+    },
+    "zh": {
+     "headline": "AI双染色宫颈分诊\n获独立外部验证",
+     "body": "一项独立外部验证评估了用于HPV宫颈癌筛查分诊的AI双染色阅片系统。"
+    },
+    "es": {
+     "headline": "Validación independiente de IA\nde doble tinción cervical",
+     "body": "Una validación externa independiente evaluó una IA de doble tinción para el triaje en el cribado cervical con HPV."
+    }
+   },
+   "date": "2026-10-07",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "swiftsight",
+   "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
+   "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
+   "tool": "Medicine",
+   "source": "AuntMinnie",
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "AIRS Medical gets 510(k) for\nSwiftSight Body Composition",
+     "body": "AIRS Medical won FDA 510(k) clearance for SwiftSight Body Composition, MRI software measuring fat and muscle."
+    },
+    "es": {
+     "headline": "AIRS Medical obtiene el 510(k)\nde SwiftSight Body Composition",
+     "body": "AIRS Medical obtuvo la autorización 510(k) de la FDA para SwiftSight Body Composition, software de MRI."
+    },
+    "ko": {
+     "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
+     "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다."
+    },
+    "ja": {
+     "headline": "AIRS 510(k)取得\nSwiftSight体組成",
+     "body": "AIRS Medicalが体組成を測定するMRIソフトでFDAの510(k)を取得した。"
+    },
+    "zh": {
+     "headline": "AIRS 获510(k)许可\nSwiftSight 体成分",
+     "body": "AIRS Medical的脂肪与肌肉测量MRI软件获得FDA 510(k)许可。"
+    }
+   },
+   "date": "2026-10-07",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "unsafe-orders",
+   "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
+   "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
+   "tool": "Medicine",
+   "source": "Communications Medicine (Nature)",
+   "url": "https://www.nature.com/articles/s43856-026-01933-8",
+   "accent": "#eb367f",
+   "motif": "sphere",
+   "image": "pipeline/media/unsafe-orders.png",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "20 language models were given\nunsafe clinical instructions",
+     "body": "20 large language models chose between potentially harmful and safe actions in synthetic and record-derived cases."
+    },
+    "ko": {
+     "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
+     "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다."
+    },
+    "ja": {
+     "headline": "言語モデル20種に\n安全でない臨床指示",
+     "body": "大規模言語モデル20種が、合成・記録由来の症例で有害となりうる行動と安全な行動を選んだ。"
+    },
+    "zh": {
+     "headline": "20个语言模型收到\n不安全的临床指令",
+     "body": "20个大语言模型在合成与记录衍生的病例中，在可能有害与安全的做法之间作出选择。"
+    },
+    "es": {
+     "headline": "20 modelos de lenguaje ante\nórdenes clínicas inseguras",
+     "body": "20 modelos de lenguaje eligieron entre acciones potencialmente dañinas y seguras en casos sintéticos y de registros."
+    }
+   },
+   "date": "2026-10-07",
+   "section": "medicine",
+   "has_full": true
+  },
+  {
+   "id": "utah-ai-pilots",
+   "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
+   "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
+   "tool": "Medicine",
+   "source": "Healthcare Dive",
+   "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "image": "pipeline/media/utah-ai-pilots.jpg",
+   "source_lang": "en",
+   "text": {
+    "en": {
+     "headline": "Utah clears health AI pilots\nthat could prescribe unreviewed",
+     "body": "Utah's AI sandbox cleared three pilots that could eventually prescribe with no human review."
+    },
+    "ko": {
+     "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
+     "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다."
+    },
+    "ja": {
+     "headline": "Utah、無審査処方も\nありうる実証3件を承認",
+     "body": "UtahのAIサンドボックスが、将来は人の確認なしで処方しうる実証3件を承認した。"
+    },
+    "zh": {
+     "headline": "Utah批准医疗AI试点\n日后或可无审核开处方",
+     "body": "Utah的AI沙盒批准了三个试点，日后或可在无人工审核下开处方。"
+    },
+    "es": {
+     "headline": "Utah autoriza pilotos de IA\ncon posible receta sin revisión",
+     "body": "El sandbox de IA de Utah autorizó tres pilotos que con el tiempo podrían prescribir sin revisión humana."
+    }
+   },
+   "date": "2026-10-07",
+   "section": "medicine",
    "has_full": true
   },
   {

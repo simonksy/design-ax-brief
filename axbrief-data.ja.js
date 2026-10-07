@@ -552,46 +552,45 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-labels",
+        "id": "chatgpt-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI、編集ラベル\nChatGPTの結果で試す",
-        "body": "OpenAIはChatGPTの商品結果に編集ラベルを付けて試している。",
-        "mini_headline": "ChatGPTの編集ラベル",
+        "image": "pipeline/media/chatgpt-ads.jpg",
+        "headline": "ChatGPT、画像生成中に\nビジュアル広告を試験",
+        "body": "OpenAIが米国の一部広告主と、ChatGPTの画像生成中にビジュアル広告を試験する。",
+        "mini_headline": "ChatGPTの新しい広告枠",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPTの商品ボックス。"
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+              "cap": "生成された画像の隣に新しいビジュアル広告枠が並ぶChatGPTの画面。"
             },
             {
               "t": "p",
-              "x": "OpenAIはChatGPTの商品結果に添える新しいラベルを試している。ラベルは表示中の商品について「総合的に最も優れた製品」「初心者に最適」「クッション性が最も高い」といった情報を加える。"
+              "x": "OpenAIはChatGPTに新しいビジュアル広告枠を導入し、計測ツールと提携先を広げ、ブランド適合性を把握する新たな手立ても開発している。同社によれば、ChatGPTの利用者は毎週12億人に達する。"
             },
             {
               "t": "p",
-              "x": "ラベルは緑とグレーのハイライトで表示される場合もあり、かなり目を引く。"
+              "x": "この枠は、商品から得る着想、商品を使う場面、商品があって初めて成り立つ体験を画像で示す。OpenAIはChatGPTでの画像生成中にこれを試験し、対象はFreeとGoの各プランの利用者である。広告であることは明示され、生成中の画像とは切り離される。広告がChatGPTの回答を左右することはないと同社は説明する。試験は今月後半、米国で初期の広告主グループとともに始まる。"
             },
             {
               "t": "p",
-              "x": "見つけたのはBrodie Clarkで、XとSERP Alertに次のように投稿した。「ChatGPTが検索結果のオーガニック商品に表示できるラベルの新しい変種を試している。元の版を広げ、新しい実験では『総合的に最も優れた』商品に緑のラベルを、さらに基準ごとの『最も優れた』項目にグレーのラベルを表示している。」"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clarkが投稿した新しいラベルのスクリーンショット。"
+              "x": "計測面では、Hightouch、Tealium、LiveRampとの新たな連携により、広告主は自社システムのコンバージョンデータをChatGPT Adsへ送れる。OpenAIはコンバージョン用インターフェースやレポート、クリックアトリビューションで多数のアトリビューション事業者に対応している。Haus、Measured、WorkMagicと進める地域間の成果比較の実験は、まだ初期段階にある。"
             },
             {
               "t": "p",
-              "x": "これは該当商品のクリック率を押し上げるはずだ。"
+              "x": "OpenAIが挙げる成果の数字は、OpenAI自身ではなく各パートナーによるものである。DV Rockerboxによれば、WeightWatchersはChatGPT Adsで、自社の統合有料検索のベンチマークより獲得単価を15.3%低く抑えた。Triple Whaleによれば、ChatGPT Ads経由でPortland Leatherを訪れた人の93%が新規だった。"
+            },
+            {
+              "t": "p",
+              "x": "配信のガードレールは、その会話が広告の掲載に適するかを判定する。Negative Phrasesは、自社方針に沿った除外設定を必要とする、条件を満たす広告主に提供される。"
             }
           ]
         },
@@ -600,69 +599,69 @@
         "hasFull": true
       },
       {
-        "id": "monks-agents",
+        "id": "chatgpt-brand-safety",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "headline": "ChatGPT広告を外部が\nパイロットで検証",
+        "body": "OpenAIは管理された試験環境で、ブランド適合性の制御をパイロット運用する。",
+        "mini_headline": "ChatGPT広告を誰が検証するのか",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "tiktok-agentic-ads",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TikTok Newsroom",
+        "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "video": "pipeline/media/tiktok-agentic-ads.mp4",
+        "poster": "pipeline/media/tiktok-agentic-ads.jpg",
+        "image": "pipeline/media/tiktok-agentic-ads.jpg",
+        "headline": "TikTok、広告主向けに\nエージェント型商取引を構築",
+        "body": "TikTokはBuy DirectとShopping Assistantを発表した。",
+        "mini_headline": "TikTokがエージェント型へ",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rembrand-in-content",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "S4 Capital傘下の\nMonks、AIが無人稼働",
-        "body": "Monksのコーディングエージェントは監視なしで36〜48時間動く。",
-        "mini_headline": "エージェントを任せるMonks",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana\n2.1、AI Modeで展開",
-        "body": "GoogleはNano Banana 2.1をAI Modeで順次展開している。",
-        "mini_headline": "AI ModeのNano Banana 2.1",
+        "headline": "Omnicom、広告を\n映像の中に埋め込む",
+        "body": "Omnicom MediaとRembrandがAIで配信番組内の広告枠を探す。",
+        "mini_headline": "映像の中に入る広告",
         "lang": "ja",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pinterest-beauty-guides",
+        "id": "gap-shopping-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "PinterestのAIが\n美容Pinを計画に",
-        "body": "PinterestのBeauty Guidesが美容Pinをサロンの用語に置き換える。",
-        "mini_headline": "美容Pinが計画になる",
-        "lang": "ja",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "AIクローラーが読む\nsitemapとRSS",
-        "body": "John MuellerはAIクローラーがsitemapとRSSを取得するのを確認した。",
-        "mini_headline": "AIクローラーがsitemapを読む",
+        "image": "pipeline/media/gap-shopping-agents.jpg",
+        "headline": "Gap、買い物エージェントを\n顧客の前に置く",
+        "body": "Gap Inc.はOld NavyとBanana Republicに買物エージェントを置く。",
+        "mini_headline": "Gapの買い物エージェント",
         "lang": "ja",
         "hasFull": true,
         "locked": true
@@ -3813,6 +3812,123 @@
         ]
       }
     ],
+    "lockedCount": 4
+  },
+  "medicine": {
+    "label": "Medicine",
+    "news": [
+      {
+        "id": "breast-second-read",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Radiology Business",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "accent": "#00897b",
+        "motif": "sphere",
+        "image": "pipeline/media/breast-second-read.jpg",
+        "headline": "病院3施設、乳がん検診\n2次読影をAIに委ねる",
+        "body": "Stockholm の病院3施設が、独立した2次読影を医師ではなくAIに委ねる。",
+        "mini_headline": "2次読影はAIが担う",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+              "cap": "読影ワークステーションでマンモグラフィを読影する放射線科医。出典: Lunit。"
+            },
+            {
+              "t": "p",
+              "x": "欧州の医療システムが、乳がん検診における放射線科医の2次読影を人工知能に置き換えると発表した。対象はスウェーデンの Stockholm Region にある病院3施設で、年間200,000件から250,000件の乳房画像検査を対象とする。AIは地域規模で独立した2次読影者の役割を担う。"
+            },
+            {
+              "t": "p",
+              "x": "欧州の多くの国と同様に、そして米国とは異なり、スウェーデンでは品質管理として放射線科医2名がマンモグラフィをそれぞれ独立して確認する。AIはこの2名のうち2人目の読影者を代替するため、すべての検査は依然として放射線科医1名が読影する。"
+            },
+            {
+              "t": "p",
+              "x": "基盤となったのは、Stockholm の Saint Goran 病院で実施された前向きの住民ベース研究である。同研究は55,000人を超える女性の実際の検診環境でシステムを評価した。2024年のRSNA年次大会で発表された1年目の結果では、がん発見率が15%向上し、放射線科医の読影時間が36%超短縮した。"
+            },
+            {
+              "t": "p",
+              "x": "同病院は2023年からシステムを使用し、3年間で約200,000件の乳房検査を支えてきた。今回はこのベンダーがDalarna Countyに続いてスウェーデンで実施する2件目の広域展開となる。この発表に先立ち、Berlin に本拠を置く企業が、正常なマンモグラフィについて放射線科医の確認を完全に省く乳房トリアージツールで世界初の承認を取得したと公表していた。"
+            }
+          ]
+        },
+        "lang": "ja",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "utah-ai-pilots",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "accent": "#0070f3",
+        "motif": "sphere",
+        "image": "pipeline/media/utah-ai-pilots.jpg",
+        "headline": "Utah、無審査処方も\nありうる実証3件を承認",
+        "body": "UtahのAIサンドボックスが、将来は人の確認なしで処方しうる実証3件を承認した。",
+        "mini_headline": "UtahのAI処方実証",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "swiftsight",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "headline": "AIRS 510(k)取得\nSwiftSight体組成",
+        "body": "AIRS Medicalが体組成を測定するMRIソフトでFDAの510(k)を取得した。",
+        "mini_headline": "SwiftSightが510(k)取得",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "dual-stain",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "NEJM AI",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/dual-stain.jpg",
+        "headline": "AI二重染色の子宮頸部\nトリアージを独立検証",
+        "body": "HPV検査に基づく子宮頸がん検診のAI二重染色読影を、独立した外部検証で評価した。",
+        "mini_headline": "AI子宮頸トリアージを検証",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "unsafe-orders",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Communications Medicine (Nature)",
+        "url": "https://www.nature.com/articles/s43856-026-01933-8",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/unsafe-orders.png",
+        "headline": "言語モデル20種に\n安全でない臨床指示",
+        "body": "大規模言語モデル20種が、合成・記録由来の症例で有害となりうる行動と安全な行動を選んだ。",
+        "mini_headline": "20モデル、安全でない指示",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
     "lockedCount": 4
   },
   "politics": {

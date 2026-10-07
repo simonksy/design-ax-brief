@@ -1,129 +1,119 @@
 {
   "cards": {
-    "marketing/monks-agents": {
+    "marketing/chatgpt-brand-safety": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-          "cap": "Ivy Liu"
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
+          "cap": "OpenAI出席Advertising Week New York。"
         },
         {
           "t": "p",
-          "x": "S4 Capital已开始让AI代理在无人盯着的情况下连续工作数日。有些运行持续36至48小时，规模较大的项目可能要花上好几天，S4 Capital旗下Monks的首席AI与营收官Wesley ter Haar说。"
+          "x": "OpenAI正与DoubleVerify和Integral Ad Science一同试点品牌适宜度管控，让广告主能够独立了解ChatGPT中的广告防护措施如何运作。该公司于周一在Advertising Week New York期间宣布了这一安排。"
         },
         {
           "t": "p",
-          "x": "这些工作大多是为自家软件写代码：代码精确且受规则约束，所以把这类任务交出去“几乎不用多想”。ter Haar的说法是：“我们有编码代理连续工作36至48小时，而且没有出错。”"
+          "x": "两家验证公司将在受控测试环境中评估OpenAI如何执行其品牌安全标准，期间不会接触用户的私人对话。OpenAI表示，目标是在保护对话隐私的同时，让广告主更清楚这些防护措施的运作方式。"
         },
         {
           "t": "p",
-          "x": "定规矩的仍然是人。运行开始前，员工先写下代理要满足的需求；此后代理自行分工，按需求测试自己写的代码，并互相评审。几个月前，这套脚手架还得由开发者手工搭建。“现在的模型真的已经不需要那些了，”ter Haar说，“它们会自己搭起代理化的配置。”"
+          "x": "Adweek指出，引入外部验证沿用了其他平台争取买方的做法，买方对媒体卖方自评成绩一向存疑；这两家公司已在TikTok、Meta和Reddit上测量品牌安全类广告位。眼下这些试点的范围更窄，两家公司是否会测量实际投放中的广告位尚不清楚。"
         },
         {
           "t": "p",
-          "x": "下一步是营销。Monks正在把这套做法搬到社交和效果投放上，让代理等到出现趋势、评论集中或表现不佳的帖子再出手，并以互动数据作为反馈回路。“目前这还主要基于软件，但方向很清楚，”ter Haar说。一家未披露名称的客户将在明年初把社交业务迁到这里。"
+          "x": "OpenAI还推出了Negative Phrases，品牌可据此按自身政策设置投放排除项。此前Adweek报道称，广告主发现ChatGPT中出现与用户对话不相称的广告，随后该公司确认8月已在测试这一工具。"
         },
         {
           "t": "p",
-          "x": "钱的流向也在变：token 的成本现在从ter Haar所说的人才预算中支出，两周的冲刺压缩到两天后，Monks正在讨论是否要“重新加入一些摩擦”，让人仍能贡献观点。"
+          "x": "与此同时，OpenAI正在测试一种以图像为主、尺寸更大的广告形式，它出现在图像生成过程中；该公司也在扩充测量合作方名单。"
         }
       ]
     },
-    "marketing/nano-banana-21": {
+    "marketing/tiktok-agentic-ads": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
-          "cap": "Nano Banana。"
+          "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+          "cap": "TikTok发布的广告功能更新。"
         },
         {
           "t": "p",
-          "x": "Google今天发布Nano Banana 2.1，它已经在Google搜索的AI Mode中运行。Nano Banana 2.1是Google最新的图像生成与编辑模型。"
+          "x": "在Advertising Week New York 2026上，TikTok集中发布了一批覆盖顾客旅程各个阶段的智能体广告与商务更新。"
         },
         {
           "t": "p",
-          "x": "Google表示，Nano Banana 2.1“全面超越我们此前的模型，在视觉设计、基于蒙版的编辑和主体一致性上有明显跃进，帮助你生成看起来更自然的图像。”"
+          "x": "在卖方一侧，TikTok称正在构建新的智能体商务购物体验，先从Buy Direct和Shopping Assistant开始，并与Salesforce、Shopify、Shoplazza、Stripe等商务与支付平台共同开发。Buy Direct是应用内结算，购物者无需离开TikTok，在For You信息流中一键即可向品牌下单。Shopping Assistant是对话式智能体，可在一次对话中处理商品细节、配送、尺码、库存与购买。"
         },
         {
           "t": "p",
-          "x": "Google搜索产品VP Robby Stein补充说，Nano Banana 2.1已经进入AI Mode。他在X上写道：“Nano Banana 2.1正在搜索的AI Mode中逐步推出！”他说使用方法是“打开Google应用，点按搜索框下方的🍌图标即可开始创作”。"
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-          "cap": "Google应用里的香蕉按钮。"
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
-          "cap": "点按图标后出现的界面。"
+          "x": "Agentic Leads是另一个用于获取销售线索的智能体，可在TikTok私信以及广告主自有网站的线索表单中展开引导式对话。"
         },
         {
           "t": "p",
-          "x": "Google一年前先把Nano Banana带进Google Lens，去年12月扩大到AI Mode，7月又带到AI Overviews。AI Overviews可能还没有用上2.1版本，但AI Mode已经在用。"
+          "x": "在买方一侧，TikTok将TikTok Ad Network开放给美国广告主，把投放延伸到其所称的、由接近400,000个应用组成的优质网络，并开放由Smart+驱动的Search Ads Campaign以及Smart+ Creative Selection；后者把广告主自有素材、Symphony生成的创意与创作者内容汇入同一套审批流程。"
+        },
+        {
+          "t": "p",
+          "x": "TikTok还表示，基于开放的Model Context Protocol构建的商家接口，现已可作为连接器在多个平台与注册表中使用，并称广告主用它启动投放的用量增长超过200%，依据是其2026年7月至9月的内部数据。"
         }
       ]
     },
-    "marketing/pinterest-beauty-guides": {
+    "marketing/rembrand-in-content": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-          "cap": "图片来源：Pinterest"
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+          "cap": "Digiday对纽约Advertising Week in New York的报道。"
         },
         {
           "t": "p",
-          "x": "Pinterest 周二展示了一项新功能：用 AI 处理你在美容类 Pin 上保存的灵感，比如发型和美甲创意，把它们变成可以带去沙龙的具体方案。"
+          "x": "Omnicom Media已与广告平台Rembrand合作，推出其所称的市场首创能力，让品牌可以识别、规划并启动优质流媒体内容中的植入位置。"
         },
         {
           "t": "p",
-          "x": "“Beauty Guides”由该公司的视觉识别与生成式 AI 技术 Pinterest Intelligence 驱动，会把 Pin 转译成发型师和美甲师使用、普通用户未必知道的说法，例如“balayage”“root melt”或“almond nails”。"
+          "x": "两家计划使用Rembrand的VISTA平台，该平台用AI扫描发布方内容，找出可以变现的场景。随后由Omnicom Media旗下品牌内容部门Content Collective把植入融入内容。目标是让内容内植入不再是零星个案，而能形成规模。"
         },
         {
           "t": "p",
-          "x": "这项功能嵌进了人们本来就在做的事——把参考照片带到沙龙；而在商量造型的哪一部分要改时，手边有准确的术语同样有用。"
+          "x": "Omnicom Media借助Acxiom中的自有受众产品RealID为品牌挑选节目，与流媒体平台的收视数据做匹配，再对应VISTA中的机会。一个包装消费品客户可以在一档烹饪真人秀制作与拍摄完成之后被放入某一集。Digiday指出，这个思路并不新，新的是在制作完成之后再做。"
         },
         {
           "t": "p",
-          "x": "指南还会给出便于安排到店的信息，比如每个环节大约需要的时间和花费。（Balayage 的价格可达数百美元。）"
-        },
-        {
-          "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
-          "cap": "图片来源：Pinterest"
+          "x": "Digiday报道称，这家控股公司的媒体网络仍在与多家经营流媒体服务的媒体公司谈判，且未能透露其中任何一家。北美首席产品官Megan Pagliuca表示，这项能力历来属于卖方技术，这是买方首次使用，她称其仍是一项初生的能力。"
         },
         {
           "t": "p",
-          "x": "在应用内点按“Get the Guide”按钮即可看到指南，里面会说明具体该提什么要求、需要多长时间、价格区间，以及多久要修剪、补色或补做等维护要求。上线之初，该功能适用于与发型、发色、指甲形状和饰面相关的 Pin。"
+          "x": "Omnicom Media与Rembrand自行开展的研究（而非独立研究）发现，内容内植入与传统视频广告搭配投放，使信息回想提升5.5倍，购买意向与品牌高端认知均提升4倍。"
         }
       ]
     },
-    "marketing/mueller-ai-crawlers": {
+    "marketing/gap-shopping-agents": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-          "cap": "Search Engine Journal"
+          "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+          "cap": "2026年6月，旧金山Marina街区的Gap门店。"
         },
         {
           "t": "p",
-          "x": "Google 的 John Mueller 说，AI 训练爬虫通常不会给站长留下提交 sitemap 的入口；若希望这些爬虫找到自己的内容，可以沿用默认文件名或提供 RSS 源。"
+          "x": "Gap Inc.正面向旗下所有品牌推出一套基于AI的购物工具，距其为同名品牌Gap开出第一家网上商店已有三十年。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
+          "cap": "1996年上线时的Gap首个网上商店。图片由Gap提供。"
         },
         {
           "t": "p",
-          "x": "这番话出自 10 月 1 日上线的 Google 播客 Search Off the Record，该期主题为“Do sitemaps still matter?”，他与 Martin Splitt 一同出镜。他还说，自己的服务器日志里见过 AI 爬虫访问 sitemap 和 RSS 文件。"
+          "x": "从周一起，Gap的顾客可以通过两个外部平台发现商品。Alta Daily根据用户的日程、预算和天气预报等变量整理穿搭建议，既能推荐品牌货品，也能调出顾客衣柜里已有的单品。Daydream接收日常语言并给出穿搭想法，可访问Gap Inc.旗下全部四个品牌：Gap、Banana Republic、Old Navy和Athleta。"
         },
         {
           "t": "p",
-          "x": "“我在自己的服务器日志里见过，某个 AI 爬虫访问了我的 sitemap 文件，”他说，RSS 文件也是一样。他没有点出具体爬虫，并表示不清楚 AI 公司是否把这件事写进文档，也不知道它们拿这些文件做什么。"
+          "x": "Old Navy和Banana Republic的顾客，可以在这两个品牌的网站和应用上，用自然语言向对话式购物智能体描述自己想要什么。"
         },
         {
           "t": "p",
-          "x": "AI 训练爬虫的不同之处在于，“它们通常没有任何 Console，也没有可以提交 sitemap 文件的设置”。对希望内容进入 AI 系统的站点，他建议“要么沿用通用命名，叫 sitemap.xml，要么把重点放在 RSS 源上”。他指出，源更容易被找到，因为通常会从页面的 HTML head 里链接出去。"
-        },
-        {
-          "t": "p",
-          "x": "若 sitemap 用了不常见的文件名、又没写进 robots.txt，它在未曾提交的系统面前就一直是隐身的。被问到 llms.txt 能否取代 XML sitemap 时，Mueller 把这个 Markdown 文件比作 HTML sitemap，并说它缺少严格的格式，Google 的系统无法当作 sitemap 使用。"
+          "x": "首席技术官Sven Gerjets表示，他清楚购物者对AI辅助的购物体验可能心存戒备，甚至感到失望。Retail Dive援引SmartCustomer上月的调查称，消费者在AI帮助下完成、事后感到后悔的购买中，有45%是服装和鞋类；Synchrony与Oxford Economics的研究则发现，消费者更愿意在自己已经信任的零售商处借助AI购物，但对自身数据的使用方式心存顾虑。"
         }
       ]
     }

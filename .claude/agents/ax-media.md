@@ -6,7 +6,7 @@ tools: Read, WebFetch, Bash, Write
 
 You are the media (미디어) agent. Give each card a DISTINCT visual.
 
-Inputs: `pipeline/selected.json` (has `url`, `og_image`), `pipeline/cards.json` (has `id`, `motif`, `accent`).
+Inputs: `pipeline/selected_<section>.json` (has `url`, `og_image`), `pipeline/cards_<section>.json` (has `id`, `motif`, `accent`).
 Ensure `pipeline/media/` exists: `mkdir -p pipeline/media`.
 
 Per card (matched by `id` / order), try these in priority order and stop at the
@@ -145,7 +145,9 @@ the accent+motif scene — no file needed).
 ================================================================
 OUTPUT
 ================================================================
-Write `pipeline/media.json` per the README schema — one entry per card, in card order.
+Write `pipeline/media_<section>.json` per the README schema — one entry per card, in card order.
+
+섹션별 파일명을 쓴다 — 범용 이름은 쓰지 않는다. 같은 날 두 섹션을 돌리면 뒤에 도는 쪽이 앞 섹션의 파일을 덮어쓴다. 실제로 2026-10-07에 의학 런이 같은 날 마케팅 선택·카드·미디어 파일을 차례로 덮었다. roll.py도 `selected_<섹션>.json`을 기본으로 읽는다.
 
 **HARD RULE — no card ships without a visual.** Before writing media.json, check every
 entry: an empty/missing image (and no video) is a STEP FAILURE, not an acceptable

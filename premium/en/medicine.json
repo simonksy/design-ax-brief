@@ -1,0 +1,90 @@
+{
+  "cards": {
+    "medicine/utah-ai-pilots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Utah's Office of Artificial Intelligence Policy approved a slate of new health AI pilots on Friday, among them one from Nolla Health, whose dermatology app assesses acne from patients' photographs. That pilot will test whether the app can prescribe initial medications and refills from a short list of topical drugs to adults in Utah with mild to moderate acne."
+        },
+        {
+          "t": "p",
+          "x": "Human review is not removed up front. At first two physicians will review every prescription before it is sent, and only in later stages would they review prescriptions after the fact. All three companies need written approval from regulators before moving into those later phases, and none of the pilots have launched yet."
+        },
+        {
+          "t": "p",
+          "x": "The other two approvals went to August AI, whose system will renew prescriptions for people with chronic conditions, and Expect Fitness, which will offer virtual pelvic floor therapy for women in the state."
+        },
+        {
+          "t": "p",
+          "x": "The sandbox, formally the Artificial Intelligence Learning Laboratory, was created by state law in 2024. An earlier Utah pilot already lets an AI system renew medications without clinician oversight; the state medical licensing board asked for it to be suspended and regulators refused. A law and health policy professor at Stanford University has argued in a commentary that the contract behind that pilot is unclear about who is responsible if AI prescribing errors injure patients."
+        }
+      ]
+    },
+    "medicine/swiftsight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIRS Medical has received Food and Drug Administration 510(k) clearance for SwiftSight Body Composition, its AI based MRI software for quantifying muscle and fat."
+        },
+        {
+          "t": "p",
+          "x": "The software measures visceral and subcutaneous fat, abdominal and thigh muscle including muscle quality and bilateral balance, and liver fat using proton density fat fraction. It benchmarks those measurements against age and sex matched reference populations and puts them into a report with percentile rankings and visual summaries, the company said."
+        },
+        {
+          "t": "p",
+          "x": "The firm is aiming the software at whole body and preventive imaging, weight management and wellness programs, and at repeat assessments over time. SimonMed Imaging will be its first customer."
+        }
+      ]
+    },
+    "medicine/dual-stain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NEJM AI has published an independent external validation of an AI system that reads dual stain cytology for triage in cervical cancer screening based on HPV testing. The full text is behind a subscription, so what follows comes from the published abstract and the study design figure."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
+          "cap": "The study design: training cohorts, blinded external evaluation, algorithm lock in December 2024, then the independent validation cohort."
+        },
+        {
+          "t": "p",
+          "x": "Screening based on HPV testing made molecular detection scalable, but deciding which screen positive people need further work up still depends on reading dual stain cytology by hand. That step is endorsed by guidelines yet limited by variation between readers and by the absence of standard automation."
+        },
+        {
+          "t": "p",
+          "x": "The system, Cytoreader-Fusion, is an ensemble model that classifies whole slides and outputs calibrated probabilities. It was trained on 1,919 cases and evaluated under blinded honest broker oversight on 9,006 cases across four independent cohorts. Every preprocessing step, aggregation rule and decision parameter was fixed and locked before validation, and performance was measured against histologically confirmed cervical intraepithelial neoplasia grade 3 or worse, not against agreement with human cytology readers."
+        },
+        {
+          "t": "p",
+          "x": "In the fully independent cohort of 4,996 cases the locked system reached 88.3 percent sensitivity and 54.4 percent specificity for that end point, with no retraining or threshold tuning after the lock, and one classifier covered both slide preparation platforms. The authors present this as a high stringency validation framework for clinically deployable AI in population screening. It is a validation, not a trial, and not a deployment."
+        }
+      ]
+    },
+    "medicine/unsafe-orders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Communications Medicine has published an evaluation of how 20 open weight large language models respond to unsafe clinical instructions, the case where deference to authority would cause harm."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
+          "cap": "The study pipeline: 501 synthetic variants and 100 real clinical cases, run under social pressure and mitigation conditions, with answers sorted into harmful and safe categories."
+        },
+        {
+          "t": "p",
+          "x": "The team built 601 instances: 501 synthetic variants derived from 50 templates, plus 100 cases drawn from real de-identified intensive care records. Each instance was run under 21 framing conditions and four mitigation conditions, ten times each, producing 10,096,800 outputs. Each time the model picked one of four options, two potentially harmful actions and two safe ones, refusing or escalating."
+        },
+        {
+          "t": "p",
+          "x": "Across all runs 1.18 million of 10.1 million outputs, or 11.7 percent, selected a potentially harmful option. A short reminder to verify or escalate unsafe requests cut that from 16.6 percent to 10.1 percent, a reduction of 6.5 percentage points, and the drop held in 19 of the 20 models. On the record derived cases the rate was far higher, falling from 46.6 percent to 24.5 percent."
+        },
+        {
+          "t": "p",
+          "x": "Models were also inconsistent: in 80.4 percent of repeated ten run cells a model returned the same category of answer every time, with model level consistency ranging from 4.4 percent to 100 percent. The authors call the work a proof of concept that supplies an evaluation framework and state plainly that it does not estimate clinical risk in deployed systems. No patients were involved."
+        }
+      ]
+    }
+  }
+}

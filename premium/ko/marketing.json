@@ -1,129 +1,119 @@
 {
   "cards": {
-    "marketing/monks-agents": {
+    "marketing/chatgpt-brand-safety": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-          "cap": "Ivy Liu"
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
+          "cap": "Advertising Week New York에 나온 OpenAI."
         },
         {
           "t": "p",
-          "x": "S4 Capital은 AI 에이전트가 아무도 지켜보지 않는 상태로 며칠씩 일하게 두기 시작했다. 어떤 작업은 36~48시간 이어지고 규모가 큰 프로젝트는 며칠이 걸린다고, S4 Capital 산하 Monks의 최고 AI·매출 책임자 Wesley ter Haar가 말했다."
+          "x": "OpenAI가 DoubleVerify, Integral Ad Science와 함께 브랜드 적합성 통제 장치를 시범 운영한다. ChatGPT의 광고 안전장치가 어떻게 작동하는지 광고주가 독립적으로 확인하게 하려는 것이다. 회사는 월요일 Advertising Week New York에서 이를 알렸다."
         },
         {
           "t": "p",
-          "x": "그 일의 대부분은 에이전시 자체 소프트웨어를 코딩하는 작업이다. 코드는 정확하고 규칙이 분명해 이런 일을 넘기는 결정은 “거의 고민할 필요가 없었다”. ter Haar의 표현은 이렇다. “코딩 에이전트가 36~48시간 동안 일하면서 실수를 내지 않았다.”"
+          "x": "두 검증사는 통제된 테스트 환경에서 OpenAI가 브랜드 세이프티 기준을 어떻게 적용하는지 평가하며, 이용자의 사적인 대화에는 접근하지 않는다. OpenAI는 대화의 프라이버시를 지키면서 안전장치의 작동 방식을 광고주에게 더 투명하게 보여주는 것이 목표라고 말한다."
         },
         {
           "t": "p",
-          "x": "조건을 정하는 쪽은 여전히 사람이다. 작업을 시작하기 전에 직원이 에이전트가 맞춰야 할 요구사항을 적는다. 그다음은 에이전트들이 일을 나누고, 자기가 쓴 코드를 그 요구사항에 비춰 시험하고, 서로를 검토한다. 몇 달 전까지는 개발자가 그 뼈대를 손으로 세워야 했다. “지금 모델은 그런 게 정말 더 이상 필요하지 않다”고 ter Haar는 말했다. “스스로 에이전트 구성을 띄운다.”"
+          "x": "Adweek은 외부 검증을 끌어들이는 방식이, 매체 판매사가 자기 성적을 스스로 매기는 것을 미덥잖게 보는 구매자를 설득하려고 다른 플랫폼들이 이미 걸어온 길이라고 짚는다. 두 회사는 TikTok과 Meta, Reddit에서 브랜드 세이프티 게재면을 이미 측정하고 있다. 이번 파일럿은 당장은 범위가 더 좁고, 두 회사가 실제 집행 중인 캠페인의 게재면까지 측정할지는 아직 분명하지 않다."
         },
         {
           "t": "p",
-          "x": "다음은 마케팅이다. Monks는 이 방식을 소셜과 퍼포먼스로 옮기고 있다. 에이전트가 트렌드나 몰려드는 댓글, 성과가 낮은 게시물을 기다렸다가 움직이고, 반응 데이터를 피드백 고리로 쓴다. “지금은 대부분 소프트웨어 기반이지만 흐름은 분명하다”고 ter Haar는 말했다. 이름을 밝히지 않은 한 고객이 내년 초 소셜 업무를 이 방식으로 옮긴다."
+          "x": "OpenAI는 Negative Phrases도 내놨다. 브랜드가 자체 정책에 맞춰 게재 제외 조건을 걸 수 있는 기능이다. ChatGPT에서 이용자 대화와 어긋나는 광고가 보인다고 광고주들이 말한다는 Adweek 보도가 나온 뒤, 회사는 8월에 이 도구를 시험 중이라고 확인했다."
         },
         {
           "t": "p",
-          "x": "돈의 흐름도 바뀐다. 토큰 비용은 이제 ter Haar가 인재 예산이라 부르는 몫에서 나가고, 2주짜리 스프린트가 이틀로 줄면서 Monks는 사람이 관점을 보태도록 “마찰을 다시 넣을지”를 두고 논의하고 있다."
+          "x": "이와 함께 OpenAI는 이미지 생성 중에 나타나는, 이미지를 앞세운 더 큰 광고 형식을 시험하고 측정 파트너도 늘리고 있다."
         }
       ]
     },
-    "marketing/nano-banana-21": {
+    "marketing/tiktok-agentic-ads": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
-          "cap": "Nano Banana."
+          "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+          "cap": "TikTok이 내놓은 광고 업데이트 발표."
         },
         {
           "t": "p",
-          "x": "Google이 오늘 Nano Banana 2.1을 내놓았고, 이미 Google 검색의 AI Mode 안에서 돌아간다. Nano Banana 2.1은 Google의 최신 이미지 생성·편집 모델이다."
+          "x": "Advertising Week New York 2026에서 TikTok이 고객 여정의 모든 단계를 아우르는 에이전틱 광고·커머스 업데이트를 한꺼번에 내놨다."
         },
         {
           "t": "p",
-          "x": "Google은 Nano Banana 2.1이 “전반적으로 이전 모델을 앞서며, 비주얼 디자인과 마스크 기반 편집, 피사체 일관성에서 눈에 띄게 도약해 더 자연스러워 보이는 이미지를 만들도록 돕는다”고 밝혔다."
+          "x": "판매 쪽에서는 Buy Direct와 Shopping Assistant를 시작으로 새로운 에이전틱 커머스 쇼핑 경험을 만들고 있다고 TikTok은 말한다. Salesforce, Shopify, Shoplazza, Stripe 같은 커머스·결제 플랫폼과 함께 개발한다. Buy Direct는 쇼핑객이 TikTok을 떠나지 않고 For You 피드에서 한 번의 클릭으로 브랜드 제품을 사는 앱 내 결제다. Shopping Assistant는 제품 정보와 배송, 사이즈, 재고, 구매까지 한 번의 대화로 처리하는 대화형 에이전트다."
         },
         {
           "t": "p",
-          "x": "Google 검색의 제품 담당 VP Robby Stein은 Nano Banana 2.1이 이미 AI Mode에 들어왔다고 덧붙였다. 그는 X에 “Nano Banana 2.1이 검색의 AI Mode에서 순차 배포되고 있다!”고 적었다. 쓰는 방법은 “Google 앱을 열고 검색창 아래 🍌 아이콘을 눌러 제작을 시작하면” 된다고 했다."
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-          "cap": "Google 앱의 바나나 버튼."
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
-          "cap": "아이콘을 누르면 나타나는 화면."
+          "x": "Agentic Leads는 리드 확보용 별도 에이전트로, TikTok 다이렉트 메시지와 광고주 자체 웹사이트의 리드 폼에서 안내형 대화를 끌고 간다."
         },
         {
           "t": "p",
-          "x": "Google은 1년 전 Nano Banana를 Google Lens에 처음 넣었고, 지난 12월 AI Mode로 접근을 넓혔으며, 7월에는 AI Overviews에도 들였다. AI Overviews는 아직 2.1 버전을 쓰지 않을 수 있지만, AI Mode는 쓴다."
+          "x": "구매 쪽에서는 TikTok Ad Network를 미국 광고주에게 연다. TikTok이 프리미엄이라고 설명하는 400,000개에 가까운 앱 네트워크로 캠페인을 넓히는 것이다. Smart+ 기반의 Search Ads Campaign과 Smart+ Creative Selection도 함께 연다. Smart+ Creative Selection은 광고주 자체 소재와 Symphony가 만든 크리에이티브, 크리에이터 콘텐츠를 하나의 승인 절차로 모은다."
+        },
+        {
+          "t": "p",
+          "x": "TikTok은 개방형 Model Context Protocol로 만든 비즈니스 인터페이스가 여러 플랫폼과 레지스트리에서 커넥터로 제공된다고 밝혔다. 캠페인 실행에 이를 쓰는 광고주가 200% 넘게 늘었다는 수치는 2026년 7월부터 9월까지의 자사 내부 데이터를 근거로 든 것이다."
         }
       ]
     },
-    "marketing/pinterest-beauty-guides": {
+    "marketing/rembrand-in-content": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-          "cap": "사진 출처: Pinterest"
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+          "cap": "뉴욕에서 열린 Advertising Week in New York을 다룬 Digiday 기사."
         },
         {
           "t": "p",
-          "x": "Pinterest가 화요일에 새 기능을 공개했다. 헤어나 네일 아이디어처럼 뷰티 관련 Pin에 저장해 둔 영감을 AI로 다뤄, 살롱에 들고 갈 수 있는 실행 계획으로 바꿔 주는 기능이다."
+          "x": "Omnicom Media가 광고 플랫폼 Rembrand와 손잡았다. 브랜드가 프리미엄 스트리밍 콘텐츠 안의 광고 자리를 찾아내 계획하고 집행하게 해주는 기능으로, 회사는 이를 업계 최초라고 부른다."
         },
         {
           "t": "p",
-          "x": "“Beauty Guides”는 회사의 시각 인식·생성 AI 기술인 Pinterest Intelligence로 돌아간다. 일반 사용자는 잘 모르는 “balayage”, “root melt”, “almond nails” 같은, 스타일리스트와 네일 아티스트가 쓰는 말로 Pin을 옮겨 준다."
+          "x": "두 회사는 Rembrand의 VISTA 플랫폼을 쓸 계획이다. VISTA는 AI로 퍼블리셔 콘텐츠를 훑어 수익화할 수 있는 장면을 골라낸다. 그다음 Omnicom Media의 브랜디드 콘텐츠 조직인 Content Collective가 그 자리에 광고를 녹여 넣는다. 한두 건으로 끝나던 콘텐츠 내 광고를 규모 있게 늘리겠다는 것이다."
         },
         {
           "t": "p",
-          "x": "사람들이 이미 하는 일, 곧 마음에 둔 사진을 살롱에 들고 가는 흐름에 그대로 얹히는 기능이다. 어디를 바꿀지 상의할 때 정확한 용어가 손에 있으면 그만큼 수월하다."
+          "x": "Omnicom Media는 Acxiom 안의 자사 오디언스 상품 RealID로 브랜드에 맞는 프로그램을 고르고, 스트리밍 업체의 시청 데이터와 맞춰본 뒤 VISTA가 찾아낸 기회와 연결한다. 생활용품 광고주라면 제작과 촬영이 이미 끝난 요리 리얼리티 프로그램 한 회차에 들어갈 수 있다. Digiday는 발상 자체는 새롭지 않지만 제작이 끝난 뒤에 넣는다는 점이 새롭다고 짚는다."
         },
         {
           "t": "p",
-          "x": "가이드는 방문 계획에 쓸 만한 정보도 함께 보여 준다. 과정별로 걸리는 시간과 비용이 그렇다. (Balayage는 수백 달러에 이른다.)"
-        },
-        {
-          "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
-          "cap": "사진 출처: Pinterest"
+          "x": "Digiday에 따르면 이 지주회사의 미디어 네트워크는 스트리밍 서비스를 운영하는 여러 미디어 기업과 아직 협상 중이며, 어느 곳인지는 밝히지 못했다. 북미 최고제품책임자 Megan Pagliuca는 원래 판매 측 기술이던 이 기능을 구매 측이 쓰는 것은 이번이 처음이라며, 아직 초기 단계의 기능이라고 말했다."
         },
         {
           "t": "p",
-          "x": "가이드는 앱에서 “Get the Guide” 버튼을 누르면 나타난다. 무엇을 어떻게 요청해야 하는지, 시간은 얼마나 걸리는지, 가격대는 어느 정도인지, 다듬기와 톤 보정, 리터치를 얼마나 자주 해야 하는지 같은 관리 조건까지 알려 준다. 출시 시점에는 헤어 스타일과 컬러, 네일 모양과 마감에 관한 Pin에서 작동한다."
+          "x": "독립 조사가 아니라 Omnicom Media가 Rembrand와 직접 진행한 조사에서는, 콘텐츠 안의 광고를 기존 영상 광고와 함께 노출했을 때 메시지 회상이 5.5배, 구매 의향과 브랜드를 프리미엄으로 보는 인식이 각각 4배 올랐다."
         }
       ]
     },
-    "marketing/mueller-ai-crawlers": {
+    "marketing/gap-shopping-agents": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-          "cap": "Search Engine Journal"
+          "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+          "cap": "2026년 6월 샌프란시스코 Marina 지구의 Gap 매장."
         },
         {
           "t": "p",
-          "x": "Google의 John Mueller는 AI 학습 크롤러가 사이트 운영자에게 sitemap을 제출할 창구를 두는 경우는 드물다고 말한다. 그래서 그런 크롤러가 자기 콘텐츠를 찾아가길 바라는 사이트에는 기본 파일 이름이나 RSS 피드를 권한다."
+          "x": "Gap Inc.가 AI로 만든 쇼핑 도구들을 전 브랜드에 선보인다. 같은 이름의 Gap 브랜드로 첫 온라인 스토어를 연 지 30년 만이다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
+          "cap": "1996년 문을 연 Gap의 첫 온라인 스토어. 사진 제공 Gap."
         },
         {
           "t": "p",
-          "x": "이 이야기는 10월 1일 공개된 Google의 Search Off the Record 팟캐스트 “Do sitemaps still matter?” 편에서 Martin Splitt과 함께 나눈 것이다. 자기 서버 로그에서 AI 크롤러가 sitemap과 RSS 파일에 접근하는 모습을 봤다고도 했다."
+          "x": "월요일부터 Gap 고객은 외부 플랫폼 두 곳에서 상품을 찾을 수 있다. Alta Daily는 이용자의 일정과 예산, 일기예보 같은 변수를 모아 옷차림을 추천하고, 브랜드 상품은 물론 이미 옷장에 있는 옷도 함께 꺼내 보여준다. Daydream은 일상적인 말을 받아 패션 아이디어로 돌려주며, Gap과 Banana Republic, Old Navy, Athleta까지 Gap Inc.의 네 개 브랜드를 모두 다룬다."
         },
         {
           "t": "p",
-          "x": "“어떤 AI 크롤러가 제 sitemap 파일에 접근하는 걸 서버 로그에서 봤다”고 그는 말했다. RSS 파일도 마찬가지였다. 크롤러 이름은 밝히지 않았고, AI 기업들이 이를 문서로 남기는지, 그 파일을 어디에 쓰는지는 모른다고 했다."
+          "x": "Old Navy와 Banana Republic 고객은 두 브랜드의 웹사이트와 앱에 있는 대화형 쇼핑 에이전트에게 찾는 물건을 평소 말투로 설명할 수 있다."
         },
         {
           "t": "p",
-          "x": "AI 학습 크롤러가 다른 점은 “sitemap 파일을 제출할 Console이나 설정 같은 게 보통 아예 없다”는 데 있다. 콘텐츠를 AI 시스템에 올리고 싶은 사이트에는 “일반적인 이름을 그대로 써서 sitemap.xml로 두거나, RSS 피드에 집중하라”고 권했다. 피드는 보통 페이지의 HTML head에 링크로 걸려 있어 찾기가 더 쉽다고 덧붙였다."
-        },
-        {
-          "t": "p",
-          "x": "파일 이름을 특이하게 두고 robots.txt에도 적지 않은 sitemap은 제출하지 않은 시스템에서는 계속 보이지 않는다. llms.txt가 XML sitemap을 대신할 수 있느냐는 질문에는, Mueller가 그 Markdown 파일을 HTML sitemap에 견주며 엄격한 형식이 없어 Google 시스템은 sitemap으로 쓸 수 없다고 답했다."
+          "x": "최고기술책임자 Sven Gerjets는 쇼핑객이 AI가 거드는 쇼핑 경험을 경계하거나 실망하기도 한다는 점을 안다고 말한다. Retail Dive는 지난달 SmartCustomer 조사에서 소비자가 AI의 도움을 받아 산 뒤 후회한 구매의 45%가 의류와 신발이었다는 결과와, Synchrony와 Oxford Economics 연구에서 소비자가 이미 믿고 쓰는 소매업체에서는 AI를 끼고 살 가능성이 높지만 자기 데이터가 어떻게 쓰이는지는 경계한다는 결과를 함께 전한다."
         }
       ]
     }

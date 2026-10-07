@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-07",
+  "section": "medicine",
+  "items": [
+    {
+      "rank": 1,
+      "tool": "Medicine",
+      "accent": "#00897b",
+      "motif": "sphere",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+      "source": "Radiology Business",
+      "category": "medicine",
+      "published_iso": "2026-09-29T07:37:33+00:00",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+      "excerpt": "A health system is replacing the human second reader in screening mammography with an AI model — an AI system standing in for a radiologist in a live screening pathway, not an assistive add-on.",
+      "rationale": "A live clinical deployment where AI replaces a clinician in the pathway rather than assisting one — the clearest example of medical AI actually reaching patients."
+    },
+    {
+      "rank": 2,
+      "tool": "Medicine",
+      "accent": "#0070f3",
+      "motif": "sphere",
+      "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+      "source": "Healthcare Dive",
+      "category": "medicine",
+      "published_iso": "2026-10-06T16:17:52-04:00",
+      "og_image": "https://imgproxy.divecdn.com/zFe9YKOHTepAY1mjIJK9tg5DPwYkuTlLV9IHxLfH_u0/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MTYzMTg4LmpwZw==",
+      "excerpt": "Utah expanded its healthcare AI regulatory sandbox with three new pilots that could let AI produce care plans and medications without human review — the first US state to let an algorithm prescribe.",
+      "rationale": "A dated regulatory decision by a named state regulator that moves the human-review line in prescribing — policy direction with an immediate practical consequence, and openly readable."
+    },
+    {
+      "rank": 3,
+      "tool": "Medicine",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-05T17:20:46Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/ai-1.iCh58tybaw.jpg?auto=format%2Ccompress&q=80&w=1200",
+      "excerpt": "AIRS Medical got FDA 510(k) clearance on Oct 5 for SwiftSight Body Composition, AI MRI software that quantifies visceral and subcutaneous fat, abdominal and thigh muscle and liver fat via proton density fat fraction.",
+      "rationale": "A dated FDA 510(k) clearance with a named device and a specified measurement set — the regulatory-approval kind of contact, concrete enough to act on."
+    },
+    {
+      "rank": 4,
+      "tool": "Medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+      "source": "NEJM AI",
+      "category": "medicine",
+      "published_iso": "2026-09-24T13:00:23Z",
+      "og_image": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
+      "excerpt": "An independent external validation of an AI model that reads dual-stain cytology for triage in HPV-based cervical cancer screening — the automation step that screening programs have been missing.",
+      "rationale": "An independent external validation, the read-out that decides whether a screening program can adopt a model — the highest-credibility evidence tier in the pool."
+    },
+    {
+      "rank": 5,
+      "tool": "Medicine",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "url": "https://www.nature.com/articles/s43856-026-01933-8",
+      "source": "Communications Medicine (Nature)",
+      "category": "medicine",
+      "published_iso": "2026-09-26T00:00:00Z",
+      "og_image": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
+      "excerpt": "Twenty LLMs were given synthetic cases and records drawn from real clinical recommendations and asked to choose among two harmful and two safe actions, testing whether hospital-deployed models follow instructions that conflict with patient safety.",
+      "rationale": "A measured patient-safety failure mode across 20 models, aimed at exactly the hospital deployments the other cards describe — the safety counterweight the section needs on day one."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://ai.nejm.org/doi/full/10.1056/AIoa2600270": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s43856-026-01933-8": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      }
+    },
+    "note": "First published day for the medicine section — news_data.json has no sections.medicine, so there is no in-section history and no history_digest; every pick is verdict 'new' with nearest ''. Per the orchestrator's instruction I did NOT dedup against other sections (zero URL overlap with the 239 published cards was verified upstream). Within-pool content dedup across the 15 surviving candidates: no two picks describe the same event. Two near-neighbour pairs were checked and split: (a) the two FDA clearances (AIRS Medical MRI body composition, AuntMinnie; pediatric bone age, Radiology Business) are different devices and different filings, so not duplicates — I kept only AIRS to avoid two clearance cards and to add a fifth outlet; (b) STAT 'FDA spells out 2027 AI guidance plans' and the Utah sandbox story are both regulator-direction items but different regulators and different actions — I kept Utah. DROPPED and why: STAT 'FDA 2027 AI guidance' (STAT+ paywall; same regulator-direction slot as Utah, which is concrete and open — Healthcare Dive's non-paywalled version of the FDA story was also available but is a second Healthcare Dive item and a weaker, forward-looking plan). STAT 'Claude analyzed my genome in 30 minutes' (STAT+ paywall plus first-person opinion; the capability claim is an anecdote, not a clinical read-out — keeping it would have put two paywalled cards in five). Radiology Business pediatric bone age clearance and Radiology Business acute-pancreatitis organ-failure model (both solid, but they would make three Radiology Business cards, over the 2-per-outlet cap; the pancreatitis item is also a single-centre model read-out weaker than the NEJM AI external validation). npj Digital Medicine Parkinson's telerehabilitation RCT (real trial, but self-described feasibility with exploratory signals, so a softer read-out than NEJM AI). Nature Medicine MedGemma open vision-language model (a model release benchmarked on medical images — 'AI got better at biology/medicine' with no patient, clinician or regulator contact; belongs in science by the section boundary in sources.json). Fierce Healthcare RFK Jr. physician backlash (reaction to a remark, no decision, filing or release). Healthcare Dive insurers-vs-billing-vendors cost dispute (real payer/liability angle, but duelling vendor-funded claims with no ruling; dropped last and would be the first substitute if a pick is swapped out). Healthcare Dive patient data-privacy survey (attitude survey, nothing reaches a patient) and MedCity News 'AI's Healthcare Doomsday' (contributed opinion with no verifiable capability, date or number) — both confirmed weakest, dropped as the collector flagged. SAFETY: nothing in the final five touches pathogen enhancement, gain-of-function or bioweapon design; all five are diagnostics, deployment, clearance or safety-evaluation items. Final-five spread: one live deployment, one state regulatory decision, one FDA clearance, one independent external validation, one patient-safety evaluation. Outlets: Radiology Business 1, Healthcare Dive 1, AuntMinnie 1, NEJM AI 1, Communications Medicine (Nature) 1 — five distinct outlets, no duplicate URLs, zero paywalled sources. All five share the single medicine category, so rank 1 keeps the category accent #00897b and ranks 2-5 take distinct accents from the sources.json palette; motif is the category's 'sphere'."
+  }
+}

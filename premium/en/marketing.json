@@ -1,129 +1,119 @@
 {
   "cards": {
-    "marketing/monks-agents": {
+    "marketing/chatgpt-brand-safety": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-          "cap": "Ivy Liu"
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
+          "cap": "OpenAI at Advertising Week New York."
         },
         {
           "t": "p",
-          "x": "S4 Capital has started letting AI agents work for days at a stretch with no one watching them. Some runs go on for 36 to 48 hours and sizable projects can take several days, said Wesley ter Haar, chief AI and revenue officer at S4 Capital’s Monks."
+          "x": "OpenAI is piloting brand suitability controls with DoubleVerify and Integral Ad Science, giving advertisers an independent read on how the ad safeguards in ChatGPT work, the company announced on Monday during Advertising Week New York."
         },
         {
           "t": "p",
-          "x": "Most of that work is coding on the agency’s own software — code is precise and rule-bound, so handing those jobs over was “a bit of a no-brainer.” As ter Haar put it: “We had coding agents that were working for 36 to 48 hours and not making mistakes.”"
+          "x": "The two verification firms will assess how OpenAI applies its brand safety standards in a controlled testing environment, without access to private user conversations. OpenAI says the goal is to give advertisers greater transparency into how those safeguards work while protecting conversation privacy."
         },
         {
           "t": "p",
-          "x": "People still set the terms. Staff write the requirements agents build against before a run starts; from there the agents split the work, test what they code against those requirements and review each other. Until a few months ago developers had to build that scaffolding by hand. “The current models really just don’t need that anymore,” said ter Haar. “They spin up their own agentic setup.”"
+          "x": "Adweek notes that bringing in outside verification follows a path other platforms have taken to win over buyers wary of media sellers grading their own work, and that both firms already measure brand safety placements across TikTok, Meta and Reddit. The pilots here are narrower for now, and it is unclear whether either firm will measure placements in live campaigns."
         },
         {
           "t": "p",
-          "x": "Marketing work is next. Monks is adapting the setup for social and performance, where agents wait for a trend, a run of comments or an underperforming post and then act, with engagement data as their feedback loop. “Currently this is mostly software based but the direction of travel is clear,” ter Haar said. An unnamed client moves its social work onto it early next year."
+          "x": "OpenAI also launched Negative Phrases, which lets brands set placement exclusions specific to their own policies. The company confirmed it was testing the tool in August, after Adweek reported that advertisers were seeing ads misaligned with user conversations in ChatGPT."
         },
         {
           "t": "p",
-          "x": "The shift moves money too: tokens now come out of what ter Haar calls the talent budget, and with two-week sprints compressed to two days Monks is debating whether to “reintroduce some friction” so people still add a point of view."
+          "x": "Alongside this, OpenAI is testing a larger ad format led by images, which appears during image generation, and is expanding its roster of measurement partners."
         }
       ]
     },
-    "marketing/nano-banana-21": {
+    "marketing/tiktok-agentic-ads": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
-          "cap": "Nano Banana."
+          "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+          "cap": "TikTok's announcement of its advertising updates."
         },
         {
           "t": "p",
-          "x": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google’s latest image generation and editing model."
+          "x": "At Advertising Week New York 2026, TikTok set out a package of agentic advertising and commerce updates spanning every stage of the customer journey."
         },
         {
           "t": "p",
-          "x": "Google said Nano Banana 2.1 “outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency to help you create more natural-looking images.”"
+          "x": "On the selling side, TikTok says it is building new agentic commerce shopping experiences, starting with Buy Direct and Shopping Assistant, and building them with commerce and payment platforms including Salesforce, Shopify, Shoplazza and Stripe. Buy Direct is an in-app checkout that lets a shopper buy from a brand without leaving TikTok, in one click from the For You feed. Shopping Assistant is a conversational agent that handles product details, shipping, sizing, availability and purchase in a single conversation."
         },
         {
           "t": "p",
-          "x": "Robby Stein, Google’s VP of Product in Search, added that Nano Banana 2.1 is already in AI Mode. He wrote on X, “Nano Banana 2.1 is rolling out in AI Mode in Search!” To use it, he said, just “open the Google app & tap the 🍌 icon under the Search box to get started creating.”"
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-          "cap": "The banana button in the Google app."
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
-          "cap": "What happens when you tap the icon."
+          "x": "Agentic Leads is a separate agent for lead generation, running guided conversations in TikTok direct messages and in lead forms on advertisers' own websites."
         },
         {
           "t": "p",
-          "x": "Google first brought Nano Banana to Google Lens a year ago, then expanded access to AI Mode last December, and in July brought it to AI Overviews. AI Overviews may not use version 2.1 yet, but AI Mode does."
+          "x": "On the buying side, TikTok is bringing its TikTok Ad Network to advertisers in the United States, extending campaigns across what it describes as a premium network of nearly 400,000 apps, and is opening Search Ads Campaign powered by Smart+ along with Smart+ Creative Selection, which gathers an advertiser's own assets, Symphony's generated creative and creator content into one approval workflow."
+        },
+        {
+          "t": "p",
+          "x": "TikTok also says its business interface built on the open Model Context Protocol is now available as a connector across several platforms and registries, and that advertiser use of it for campaign activation has grown by more than 200%, citing its own internal data for July to September 2026."
         }
       ]
     },
-    "marketing/pinterest-beauty-guides": {
+    "marketing/rembrand-in-content": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-          "cap": "Image Credits: Pinterest"
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+          "cap": "Digiday's coverage of Advertising Week in New York."
         },
         {
           "t": "p",
-          "x": "Pinterest on Tuesday showed off a new feature that will leverage AI to take action on your saved inspiration from beauty-related Pins, like hair and nail ideas, and turn them into actionable plans you can take with you to the salon."
+          "x": "Omnicom Media has partnered with the advertising platform Rembrand on what it calls a first to market capability that lets brands identify, plan and activate placements inside premium streaming content."
         },
         {
           "t": "p",
-          "x": "“Beauty Guides,” which are powered by the company’s visual intelligence and generative AI technology, Pinterest Intelligence, will translate Pins into terms and phrases used by stylists and nail artists that everyday users may not know, like “balayage,” “root melt,” or “almond nails.”"
+          "x": "The pair plan to use Rembrand's VISTA platform, which uses AI to scan publisher content and identify scenes that can be monetized. Omnicom Media's Content Collective, its branded content unit, then works the placements into the content. The aim is to scale placement inside content beyond isolated instances."
         },
         {
           "t": "p",
-          "x": "The feature slots into something people already do — bringing a photo of their inspiration to the salon — but having the right terminology at hand while discussing which parts of the look to change is useful too."
+          "x": "Omnicom Media picks the shows for a brand using its RealID audience product within Acxiom, matched against viewership data from streamers, then maps that against the opportunities in VISTA. A packaged goods client could be inserted into an episode of a cooking reality show after it has been produced and shot. Digiday notes the idea is not new, but doing it after production is."
         },
         {
           "t": "p",
-          "x": "The guides also offer the sort of information that can help users plan for their visit, like the time each part of the process may take and the cost. (Balayage goes into the hundreds of dollars.)"
-        },
-        {
-          "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
-          "cap": "Image Credits: Pinterest"
+          "x": "Digiday reports the holding company's media network is still negotiating with several media companies that run streaming services, and could not name any of them. Megan Pagliuca, chief product officer for North America, said this is the first time the capability has been used by the buy side, having historically been a sell side technology, and called it still a nascent capability."
         },
         {
           "t": "p",
-          "x": "The guides show up when you tap the “Get the Guide” button within the app, and then offer details about what, specifically, you should ask for, the time it takes, price range, and maintenance requirements, like how often you’ll need to trim, tone, or touch up. At launch, the feature will work across Pins related to hairstyle, color, nail shape, and finish."
+          "x": "Omnicom Media's own research with Rembrand, rather than an independent study, found that placements inside content paired with traditional video ads drove a 5.5 times increase in message recall and a fourfold increase in both purchase intent and perception of the brand as premium."
         }
       ]
     },
-    "marketing/mueller-ai-crawlers": {
+    "marketing/gap-shopping-agents": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-          "cap": "Search Engine Journal"
+          "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+          "cap": "Gap's store in the Marina district of San Francisco in June 2026."
         },
         {
           "t": "p",
-          "x": "Google’s John Mueller says AI training crawlers usually don’t give site owners a way to submit a sitemap, and he suggests a default file name or an RSS feed for sites that want those crawlers to find their content."
+          "x": "Gap Inc. is unveiling a suite of shopping tools built on AI across all of its brands, thirty years after it launched the first online store for its namesake Gap brand."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
+          "cap": "Gap's first online store at its debut in 1996. Courtesy of Gap."
         },
         {
           "t": "p",
-          "x": "He made the comments with Martin Splitt in the Oct. 1 episode of Google’s Search Off the Record podcast, titled “Do sitemaps still matter?” He also said he has seen AI crawlers access his sitemap and RSS files in his own server logs."
+          "x": "From Monday, Gap customers can discover items through two outside platforms. Alta Daily curates outfit suggestions from variables including a user's schedule, budget and the weather forecast, and can surface items from a shopper's existing wardrobe as well as brands' assortments. Daydream takes everyday language and returns fashion ideas, with access to all four Gap Inc. brands: Gap, Banana Republic, Old Navy and Athleta."
         },
         {
           "t": "p",
-          "x": "“I’ve seen that happen in my server logs where some AI crawler accesses my sitemap file,” he said, and he’s seen the same with his RSS files. He didn’t name the crawlers and said he doesn’t know whether AI companies document this or what they do with the files."
+          "x": "Old Navy and Banana Republic customers can describe what they are looking for in natural language to conversational shopping agents on those two brands' websites and apps."
         },
         {
           "t": "p",
-          "x": "AI training crawlers are different because “they usually don’t have any kind of a Console or any setup where you can submit a sitemap file.” For sites that want their content in AI systems, he suggested “either you stick to the generic naming, call it sitemap.xml, or you focus on RSS feeds.” Feeds are easier to find, he noted, because they’re usually linked from a page’s HTML head."
-        },
-        {
-          "t": "p",
-          "x": "A sitemap kept private with an unusual file name and no robots.txt entry stays hidden from systems it isn’t submitted to. Asked whether llms.txt could replace an XML sitemap, Mueller compared the Markdown file to an HTML sitemap and said Google’s systems can’t use it as a sitemap because it lacks the strict format."
+          "x": "Sven Gerjets, chief technology officer, says he is aware shoppers can be wary of or even disappointed by shopping experiences assisted by AI. Retail Dive cites a SmartCustomer survey last month finding 45% of purchases consumers regret making with AI help were apparel and footwear, and research from Synchrony and Oxford Economics finding consumers are more likely to shop with AI at retailers they already trust, but are wary of how their data is used."
         }
       ]
     }

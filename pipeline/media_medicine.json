@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-07",
+  "section": "medicine",
+  "media": [
+    {"id": "breast-second-read", "type": "image", "src": "pipeline/media/breast-second-read.jpg"},
+    {"id": "utah-ai-pilots", "type": "image", "src": "pipeline/media/utah-ai-pilots.jpg"},
+    {"id": "swiftsight", "type": "svg"},
+    {"id": "dual-stain", "type": "image", "src": "pipeline/media/dual-stain.jpg"},
+    {"id": "unsafe-orders", "type": "image", "src": "pipeline/media/unsafe-orders.png"}
+  ]
+}

@@ -98,7 +98,10 @@ category accent hex), `motif` (the category motif). If two picks share a categor
 give the second a distinct accent from sources.json `palette`. Carry through
 `url`, `source`, `published_iso`, `og_image`, `excerpt`.
 
-Write `pipeline/selected.json` per the README schema (include a one-line
-`rationale` per pick).
+Write `pipeline/selected_<section>.json` per the README schema (include a one-line
+`rationale` per pick) — the per-section name, never the bare `pipeline/selected.json`.
+`roll.py`'s story gate reads `selected_<section>.json` by default, and two sections
+curated in the same run would otherwise overwrite each other in the shared file. That
+has happened: a medicine run landed on top of the same day's marketing selection.
 
 Output: write the file, then reply with the 5 chosen tool+headline pairs, one per line.

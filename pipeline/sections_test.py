@@ -69,9 +69,18 @@ def test_every_category_has_sources_to_search():
 
 
 def test_every_section_has_a_keyword_pool():
+    """ax-planner는 `core` + (`pool` | `keywords`)만 읽는다. 다른 이름으로 넣으면
+    그 섹션은 core 세 개로만 검색하게 되고, 그래도 아무 오류가 나지 않는다 —
+    후보가 적은 날이 그냥 '뉴스가 없는 날'로 보인다. medicine을 처음 넣을 때
+    `rotate`로 썼다가 이 테스트에 걸렸다."""
     pool = json.load(open(os.path.join(HERE, "keyword_pool.json"), encoding="utf-8"))
-    missing = [s for s in _declared() if not (pool.get("sections") or {}).get(s)]
-    assert not missing, f"keyword_pool에 없다: {missing}"
+    for sec in _declared():
+        got = (pool.get("sections") or {}).get(sec)
+        assert got, f"keyword_pool에 없다: {sec}"
+        assert got.get("core"), f"{sec}에 core가 없다"
+        bulk = [k for k in ("pool", "keywords") if got.get(k)]
+        assert bulk, (f"{sec}의 키워드 묶음 키가 'pool'도 'keywords'도 아니다: "
+                      f"{sorted(got)} — ax-planner가 못 읽는다")
 
 
 def test_every_section_has_a_freshness_window():

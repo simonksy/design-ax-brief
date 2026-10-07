@@ -487,14 +487,14 @@
         "niemanlab.org",
         "press.aboutamazon.com"
       ],
-      "_note": "AI x marketing. Take a story only where AI is what makes it happen — if deleting AI from the headline leaves it standing, it is general marketing news and does not belong. FOUR AXES: (1) CREATIVE PRODUCTION - generative ad creative, video/image/copy at scale, brand-safe model training, synthetic spokespeople and the disclosure rules around them; (2) TARGETING & MEASUREMENT - AI bidding and budget allocation, attribution after cookie loss, audience modelling, incrementality testing, ad fraud detection; (3) SEARCH & DISCOVERY SHIFT - AI overviews and answer engines eating referral traffic, GEO/AEO (optimising for generative answers), publisher licensing deals with model makers, zero-click behaviour; (4) CUSTOMER OPERATIONS - AI agents in CRM/email/support, personalisation engines, chat commerce, marketing-mix automation. OUT OF SCOPE: funding rounds, agency M&A, executive hires, award shows, and generic 'AI will change marketing' opinion with no concrete product, ruling, or number. Prefer the primary source (product changelog, platform blog, filing) over commentary."
+      "_note": "AI×마케팅: 광고와 세일즈다. 브랜드가 돈을 써서 사람을 사오고, 그 사람을 사게 만드는 영역만 — 광고 플랫폼과 지면, 광고 포맷, 미디어 바잉과 입찰(에이전틱 바잉 포함), 광고 크리에이티브 제작, 타게팅, 측정·어트리뷰션·MMM·증분성, 광고 게재를 위한 브랜드 세이프티·적합성, 리테일 미디어, 커머스·쇼핑 광고, 크리에이터 유료 협업, 세일즈 자동화·CRM·아웃바운드, 리드 제너레이션, 판매 수단으로서의 가격·프로모션, 고객 획득. 검색은 유료 지면과 얽힐 때만 들어온다. AI 검색·챗 화면에 광고가 붙는 일, 어시스턴트 안의 광고 포맷, 그 지면을 사는 입찰, 브랜드 광고 예산이 그쪽으로 옮겨 가는 일은 마케팅이다. 반면 순수 SEO 배관은 아니다 — 사이트맵, 크롤러 동작, robots.txt, 순위 추적, Search Console 설정은 돈이 오가는 자리가 아니므로 뺀다. 제외: 광고와 무관한 에이전시 내부 엔지니어링·운영, 일반 검색 제품 기능, 콘텐츠 모더레이션 인프라, 퍼블리셔 라이선싱, 투자 유치·인수합병·인사 이동·어워드, 벤더 소프트웨어 홍보성 기사. 판별: AI가 그 기사를 만드는 요인이어야 하고(헤드라인에서 AI를 지우면 남는 기사는 일반 마케팅 뉴스다), 동시에 광고를 사고팔거나 물건을 파는 자리에 닿아야 한다. 둘 중 하나만 맞으면 뺀다."
     },
     {
       "category": "medicine",
       "label": "Medicine",
       "motif": "sphere",
       "accent": "#00897b",
-      "_note": "AI×의학: 환자에게 닿는 자리만 — 임상 시험 결과, 규제 승인(FDA 510(k)/De Novo/CE), 병원·진료 현장 배치, 진단·영상 판독, 신약 개발 파이프라인의 임상 단계, 의료기기 소프트웨어, 전자의무기록·의료 문서화, 원격의료, 보험 심사 자동화, 환자 안전·편향·책임 문제. science 섹션과의 경계: 'AI가 생물학을 더 잘 알게 됐다'는 science, '그 결과가 환자·임상의·규제기관에 닿았다'는 medicine이다. 단백질 구조 예측 자체는 science, 그 모델로 만든 후보물질이 임상에 들어가면 medicine. 같은 기사를 두 섹션에 싣지 않는다 — 더 가까운 쪽 하나만 고른다. 제외: 병원 경영·투자 유치·인사 이동 같은 일반 비즈니스 뉴스, 건강 보조식품 광고성 기사, 의학적 근거 없는 웰니스 앱 홍보. 안전: 병원체 기능획득·생물무기 설계로 읽힐 수 있는 기사는 고르지 않는다 — 표현을 다듬지 말고 다른 기사로 바꾼다. 치료·진단·백신 개발은 해당 없다.",
+      "_note": "AI×의학: 임상과 치료다. 실제 질환, 실제 환자, 실제 진료에 쓰이는 쪽만 — 임상 시험과 그 결과, 규제 승인(FDA 510(k)/De Novo/CE), 병원·의원 등 의료기관의 도입과 진료 현장 운영, 진단·영상 판독, 특정 질환을 겨냥한 신약 개발(전임상이라도 질환이 명시돼 있으면 여기다), 의료기기 소프트웨어, 전자의무기록·진료 문서화, 원격의료, 보험 심사 자동화, 환자 안전·편향·책임. science와의 경계: 생명과학 일반은 science다. 기초 생물학, 생명 메커니즘 규명, 단백질 구조 예측 그 자체, 질환이 특정되지 않은 모델·벤치마크 — 전부 science. 그게 '어떤 질환의 환자·임상의·의료기관에 닿았는가'로 넘어오면 medicine이다. 구조 예측 모델은 science, 그 모델로 만든 후보물질이 특정 암을 겨냥하면 medicine. 같은 기사를 두 섹션에 싣지 않는다 — 더 가까운 쪽 하나만 고른다. 제외: 투자 유치·인수합병·인사 이동 같은 일반 비즈니스 뉴스(의료기관 소식이어도 진료가 바뀌지 않으면 뺀다), 건강 보조식품 광고성 기사, 의학적 근거 없는 웰니스 앱 홍보. 안전: 병원체 기능획득·생물무기 설계로 읽힐 수 있는 기사는 고르지 않는다 — 표현을 다듬지 말고 다른 기사로 바꾼다. 치료·진단·백신 개발은 해당 없다.",
       "allowed_domains": [
         "fda.gov",
         "ema.europa.eu",
