@@ -1,101 +1,97 @@
 {
   "date": "2026-10-07",
   "section": "marketing",
-  "items": [
-    {
-      "rank": 1,
-      "tool": "Marketing",
-      "accent": "#ff8a3d",
-      "motif": "frame",
-      "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-06T06:02:00-04:00",
-      "og_image": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-      "excerpt": "OpenAI is testing editorial-style labels on ChatGPT product results — \"best all-rounder,\" \"best for beginners,\" \"best cushioning\" — a new ranking layer brands cannot buy but will be judged by.",
-      "rationale": "A live test in ChatGPT shopping creates an unbuyable editorial ranking layer brands must now optimise for — concrete, dated, and directly actionable for GEO/AEO work."
-    },
-    {
-      "rank": 2,
-      "tool": "Marketing",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-      "source": "Digiday",
-      "category": "marketing",
-      "published_iso": "2026-10-06T04:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-      "excerpt": "S4 Capital's Monks has started letting AI agents run autonomously for days at a stretch with no human supervising them, pushing agency production work from assisted to unattended.",
-      "rationale": "A named agency group has crossed from assisted to unattended agent production — a specific operating change in how ad work gets made, not 'AI is reshaping agencies' commentary."
-    },
-    {
-      "rank": 3,
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-06T13:10:00-04:00",
-      "og_image": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-      "excerpt": "Google released Nano Banana 2.1, its latest image generation and editing model, and it is already live inside AI Mode in Google Search — putting generative imagery directly in the search surface brands optimize for.",
-      "rationale": "A shipped, versioned model now live inside AI Mode — generative imagery lands in the exact search surface brands compete in, changing what visual assets have to compete against."
-    },
-    {
-      "rank": 4,
-      "tool": "Marketing",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-      "source": "TechCrunch",
-      "category": "marketing",
-      "published_iso": "2026-10-06T14:00:49+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-      "excerpt": "Pinterest's new AI-powered Beauty Guides translate hair and nail Pins into salon terminology with estimated costs, appointment times and maintenance needs — turning inspiration pins into a purchase path.",
-      "rationale": "A shipped platform feature that converts inspiration browsing into a priced, bookable purchase path — a new AI-built funnel step beauty and retail brands can plan for."
-    },
-    {
-      "rank": 5,
-      "tool": "Marketing",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-05T22:47:18+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-      "excerpt": "Google's John Mueller says his own server logs show AI training crawlers fetching sitemaps and RSS feeds, and recommends default sitemap names or RSS as the practical way to be found by them.",
-      "rationale": "A named practitioner's log-based finding with a specific method — use default sitemap names or RSS so AI crawlers can discover your content — changes a site owner's checklist tomorrow."
-    }
-  ],
   "dedup": {
     "checks": {
-      "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html": {
+      "https://openai.com/index/new-chatgpt-ads-format-and-measurement": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/": {
+      "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/": {
+        "verdict": "new",
+        "nearest": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "new_action": ""
+      },
+      "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html": {
+      "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/": {
+      "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "First published day for the marketing section — news_data.json has no sections.marketing, so there is no in-section history and no history_digest; every pick is verdict 'new' with nearest ''. Per the orchestrator's instruction I did NOT dedup against other sections. Within-pool content dedup: 14 candidates, 5 kept, 9 dropped. Dropped as weak on the 'AI makes the story happen' test: Modern Retail Gen Alpha panel (shopper-attitude panel, AI incidental), Retail Dive store associates (service-script commentary, no shipped thing). Dropped as vendor thought-leadership with no verifiable capability/date/number: AdExchanger 'AI-built MMM, start with a thesis' (M Squared exec interview). Dropped as commentary/analysis without a concrete release or ruling: Adweek 'AI agents getting their hands on ad dollars' (industry 'grappling'), SEJ 'Google is fighting SERP tracking, AI agents may make it worse' (speculative). Dropped on the per-outlet cap of 2: Search Engine Roundtable 'Search Console generative-AI control page expanded' (third SER item and the weakest — a doc clarification). Dropped as marketing-adjacent AI-industry news: TechCrunch 'Musubi PolicyLM-1.7B content moderation model' (brand-safety link is indirect) and TechCrunch 'getting websites to let AI agents in' (third TechCrunch item, overlaps the crawler-access theme already covered by the Mueller pick), The Verge 'Wikimedia blames OpenAI rogue bots for May outage' (publisher infrastructure, same crawler cluster). No two candidates covered the same event, so no same-story collapse was needed; the three crawler/agent-access items (SEJ SERP tracking, TechCrunch agent access, Verge Wikimedia) are distinct events but one theme, and I kept only the Mueller item from that theme. Outlet spread in the final 5: Search Engine Roundtable 2, Digiday 1, TechCrunch 1, Search Engine Journal 1 — 4 distinct outlets, cap respected, no duplicate URLs. All 5 share the single marketing category, so each got a distinct accent from sources.json palette."
-  }
+    "note": "History check: pipeline/story_ledger.json has NO `marketing` key at all, so this section has no 30-day published history to check against; the candidate file carries no history_digest and its own dedup pass reports dropped 0 / kept 16 against the 5-day news_data window. The only marketing cards ever published are this morning's five rejected ones (ChatGPT product labels, S4 Capital Monks agents, Nano Banana 2.1 in AI Mode, Pinterest Beauty Guides, Mueller on AI crawlers and sitemaps) — none of them appears in this pool and none of my five touches those stories, so every pick is `new` and `nearest` is empty except where the nearest item is another pick in the same cluster. Hard constraint checked: no two picks share a URL.\n\nCLUSTER COLLAPSE. OpenAI ChatGPT Ads (items 1-5): kept item 1 (OpenAI's own announcement — the launch, the primary document) and item 3 (Adweek — DoubleVerify and IAS will independently assess brand-safety application in a sandbox, plus Negative Phrases placement exclusions; third-party ad verification inside a chat surface is a separate reportable fact, not a reworded launch story). Dropped item 2 (Digiday) and item 5 (TechCrunch) as the same launch from other outlets, and item 4 (Search Engine Journal) as the same visual-ads format written for PPC teams. TikTok Advertising Week (items 6-9): kept only item 6, the TikTok Newsroom primary source, which carries the whole announcement (Buy Direct agentic commerce, conversational Shopping Assistant, Smart+-powered Search Ads, Smart+ Creative Selection). Dropped item 7 (Marketing Dive), item 8 (Digiday) and item 9 (Adweek) as the buying-side, budget-side and network-side retellings of that one announcement — item 9's Pangle/third-party-assistant detail was tempting but it is the same release, and a second TikTok card would have cost the day a distinct story.\n\nALSO LEFT ON THE TABLE. Item 12 (AdExchanger daily roundup, NBCU/FreeWheel/Carat/Newton agentic CTV buying agent) — real news with no other source in the pool, but it is a roundup page, not a single article, and a single-story pick served the slot better; this is the strongest thing dropped. Item 10 (Adweek, AI agents getting their hands on ad dollars) and item 11 (AdExchanger, agentic spend vs proof of impact) are trend analysis and an opinion column with no new event of their own. Item 13 (AdExchanger, AI-built MMM) is an interview, no release or number. Item 15 (Modern Retail, AI pricing scrutiny) is a concern piece with no concrete action. No vendor-promotion items were ranked in.\n\nDIVERSITY. Five distinct outlets (OpenAI, Adweek, TikTok Newsroom, Digiday, Retail Dive), max 1 per outlet, well inside the 2-per-outlet cap. Axes: ad format and measurement in a chat surface / brand suitability and third-party verification / social agentic commerce and search ads / new AI-generated in-content ad inventory / AI at the point of conversion in retail. Item 1's og_image is OpenAI's own announcement asset rehosted by TechCrunch because openai.com emits no OG tags — treat it as a fallback, not first-party."
+  },
+  "items": [
+    {
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "OpenAI",
+      "tool": "Marketing",
+      "accent": "#ff8a3d",
+      "motif": "frame",
+      "rationale": "The week's biggest AI-advertising story, from the primary source: OpenAI opens a new ad format and a measurement stack inside ChatGPT, which puts a bought-and-sold ad surface in the middle of an assistant.",
+      "published_iso": "2026-10-05T10:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+      "excerpt": "OpenAI's own announcement of a new ChatGPT ad format and measurement stack — visual ads that appear alongside image-generation results in the U.S. later this month, with an initial test group of advertisers."
+    },
+    {
+      "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+      "source": "Adweek",
+      "tool": "Marketing",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Brand-safety plumbing arrives in a chat surface: DoubleVerify and IAS will independently assess how ChatGPT applies brand-safety standards in a sandbox, and Negative Phrases lets brands exclude placements — the first thing a buyer has to evaluate before spending here.",
+      "published_iso": "2026-10-05T16:06:50+00:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=600&h=315&crop=1",
+      "excerpt": "DoubleVerify and IAS will independently assess how ChatGPT applies brand-safety standards in a sandbox, and OpenAI adds Negative Phrases placement exclusions for brands."
+    },
+    {
+      "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+      "source": "TikTok Newsroom",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "TikTok's Advertising Week package in one place: Buy Direct agentic commerce, a conversational Shopping Assistant, Smart+-powered Search Ads campaigns and Smart+ Creative Selection — agentic buying and agentic selling shipping on the same platform before the holidays.",
+      "published_iso": "2026-10-05T22:19:56+00:00",
+      "og_image": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+      "excerpt": "TikTok's Advertising Week announcement: agentic commerce with Buy Direct and a conversational Shopping Assistant, Smart+-powered Search Ads campaigns and Smart+ Creative Selection."
+    },
+    {
+      "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
+      "source": "Digiday",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "AI scene detection manufactures ad inventory that did not exist before: Omnicom Media and Rembrand push in-content insertion further by finding the moments in a video that can be monetised contextually.",
+      "published_iso": "2026-10-07T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+      "excerpt": "The holdco and the ad-tech platform push in-content ad insertion further, using AI to identify scenes that can be monetized contextually."
+    },
+    {
+      "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+      "source": "Retail Dive",
+      "tool": "Marketing",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "AI lands on the point of conversion at scale: Gap Inc. puts conversational shopping agents and the Alta Daily and Daydream recommendation platforms in front of shoppers across Gap, Banana Republic and Old Navy.",
+      "published_iso": "2026-10-05T15:01:00+00:00",
+      "og_image": "https://imgproxy.divecdn.com/UaO5m3HdJQLXAfmElFR7k5h-eHGyY38ksIDBK9qo0cg/g:nowe:56:1373/c:1936:1094/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+      "excerpt": "Gap Inc. puts conversational shopping agents and the Alta Daily and Daydream recommendation platforms in front of customers across Gap, Banana Republic and Old Navy."
+    }
+  ],
+  "alternates": [
+    "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
+    "https://www.adweek.com/media/tiktok-expands-its-off-platform-ad-network-to-us-advertisers/",
+    "https://www.adweek.com/programmatic/adweek-tech-advantage-ai-agents-are-increasingly-getting-their-hands-on-ad-dollars/",
+    "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/"
+  ]
 }

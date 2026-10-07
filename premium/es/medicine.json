@@ -1,0 +1,90 @@
+{
+  "cards": {
+    "medicine/utah-ai-pilots": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Oficina de Política de Inteligencia Artificial de Utah aprobó el viernes un conjunto de nuevos pilotos de IA en salud, entre ellos uno de Nolla Health, cuya aplicación de dermatología evalúa el acné a partir de fotografías de los pacientes. Ese piloto comprobará si la aplicación puede prescribir medicación inicial y renovaciones, dentro de una lista corta de fármacos tópicos, a adultos de Utah con acné leve o moderado."
+        },
+        {
+          "t": "p",
+          "x": "La revisión humana no se elimina de entrada. Al principio, dos médicos revisarán cada receta antes de su envío, y solo en etapas posteriores esa revisión sería posterior a la emisión. Las tres empresas necesitan la aprobación por escrito de los reguladores antes de pasar a esas etapas, y ninguno de los pilotos ha comenzado todavía."
+        },
+        {
+          "t": "p",
+          "x": "Las otras dos aprobaciones fueron para August AI, cuyo sistema renovará recetas de personas con enfermedades crónicas, y Expect Fitness, que ofrecerá terapia virtual de suelo pélvico a mujeres del estado."
+        },
+        {
+          "t": "p",
+          "x": "El sandbox, formalmente el Artificial Intelligence Learning Laboratory, se creó por ley estatal en 2024. Un piloto anterior de Utah ya permite que un sistema de IA renueve medicación sin supervisión clínica; la junta estatal de licencias médicas pidió suspenderlo y los reguladores se negaron. Un profesor de derecho y política sanitaria de Stanford University ha sostenido en un comentario que el contrato de ese piloto no aclara quién responde si los errores de prescripción de la IA dañan a los pacientes."
+        }
+      ]
+    },
+    "medicine/swiftsight": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AIRS Medical recibió la autorización 510(k) de la Food and Drug Administration para SwiftSight Body Composition, su software de MRI basado en IA para cuantificar músculo y grasa."
+        },
+        {
+          "t": "p",
+          "x": "El software mide la grasa visceral y subcutánea, la musculatura abdominal y del muslo, incluida la calidad muscular y el equilibrio entre ambos lados, y la grasa hepática mediante la fracción de grasa por densidad protónica. Según la empresa, esas mediciones se comparan con poblaciones de referencia emparejadas por edad y sexo y se reúnen en un informe con percentiles y resúmenes visuales."
+        },
+        {
+          "t": "p",
+          "x": "La empresa orienta el software a la imagen de cuerpo completo y preventiva, a programas de control de peso y bienestar, y a evaluaciones repetidas a lo largo del tiempo. SimonMed Imaging será su primer cliente."
+        }
+      ]
+    },
+    "medicine/dual-stain": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "NEJM AI ha publicado una validación externa independiente de un sistema de IA que lee citología de doble tinción para el triaje en el cribado de cáncer de cuello uterino basado en pruebas de HPV. El texto completo requiere suscripción, por lo que lo que sigue proviene del resumen publicado y de la figura del diseño del estudio."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/34514b57-ee51-4744-9f49-47944775e3f8/aioa2600270_f1.jpg",
+          "cap": "El diseño del estudio: cohortes de entrenamiento, evaluación externa ciega, bloqueo del algoritmo en diciembre de 2024 y, después, la cohorte de validación independiente."
+        },
+        {
+          "t": "p",
+          "x": "El cribado basado en pruebas de HPV hizo escalable la detección molecular, pero decidir quiénes, entre las personas con resultado positivo, necesitan estudios adicionales sigue dependiendo de la lectura manual de la citología de doble tinción. Ese paso está respaldado por las guías, aunque lo limitan la variabilidad entre lectores y la falta de una automatización estándar."
+        },
+        {
+          "t": "p",
+          "x": "El sistema, Cytoreader-Fusion, es un modelo de conjunto que clasifica preparaciones completas y entrega probabilidades calibradas. Se entrenó con 1,919 casos y se evaluó con supervisión ciega de un honest broker en 9,006 casos de cuatro cohortes independientes. Cada paso de preprocesamiento, regla de agregación y parámetro de decisión quedó fijado y bloqueado antes de la validación, y el rendimiento se midió frente a neoplasia intraepitelial cervical de grado 3 o peor confirmada histológicamente, no frente a la concordancia con lectores humanos de citología."
+        },
+        {
+          "t": "p",
+          "x": "En la cohorte totalmente independiente de 4,996 casos, el sistema bloqueado alcanzó una sensibilidad del 88.3% y una especificidad del 54.4% para ese criterio, sin reentrenamiento ni ajuste de umbrales después del bloqueo, y un solo clasificador cubrió las dos plataformas de preparación de muestras. Los autores lo presentan como un marco de validación de alta exigencia para IA clínicamente implementable en el cribado poblacional. Es una validación, no un ensayo clínico ni un despliegue."
+        }
+      ]
+    },
+    "medicine/unsafe-orders": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Communications Medicine ha publicado una evaluación de cómo responden 20 modelos de lenguaje de pesos abiertos a instrucciones clínicas inseguras, el caso en el que acatar la autoridad causaría daño."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs43856-026-01933-8/MediaObjects/43856_2026_1933_Fig1_HTML.png",
+          "cap": "El esquema del estudio: 501 variantes sintéticas y 100 casos clínicos reales, ejecutados bajo condiciones de presión social y de mitigación, con las respuestas clasificadas en categorías dañinas y seguras."
+        },
+        {
+          "t": "p",
+          "x": "El equipo construyó 601 instancias: 501 variantes sintéticas derivadas de 50 plantillas, más 100 casos tomados de registros reales y anonimizados de cuidados intensivos. Cada instancia se ejecutó bajo 21 condiciones de encuadre y cuatro condiciones de mitigación, diez veces cada una, lo que produjo 10,096,800 salidas. En cada ocasión el modelo eligió una de cuatro opciones: dos acciones potencialmente dañinas y dos seguras, rechazar o escalar."
+        },
+        {
+          "t": "p",
+          "x": "En el conjunto de las ejecuciones, 1.18 millones de 10.1 millones de salidas, es decir el 11.7%, optaron por una opción potencialmente dañina. Un recordatorio breve para verificar o escalar las solicitudes inseguras redujo esa cifra del 16.6% al 10.1%, una caída de 6.5 puntos porcentuales, y el descenso se mantuvo en 19 de los 20 modelos. En los casos derivados de registros la tasa fue mucho mayor, y bajó del 46.6% al 24.5%."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos también fueron inconsistentes: en el 80.4% de las celdas repetidas diez veces, un modelo devolvió siempre la misma categoría de respuesta, con una consistencia por modelo que fue del 4.4% al 100%. Los autores describen el trabajo como una prueba de concepto que aporta un marco de evaluación y afirman con claridad que no estima el riesgo clínico en sistemas ya desplegados. No participaron pacientes."
+        }
+      ]
+    }
+  }
+}

@@ -1,129 +1,119 @@
 {
   "cards": {
-    "marketing/monks-agents": {
+    "marketing/chatgpt-brand-safety": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-          "cap": "Ivy Liu"
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
+          "cap": "OpenAI en Advertising Week New York."
         },
         {
           "t": "p",
-          "x": "S4 Capital ha empezado a dejar que los agentes de AI trabajen durante días sin que nadie los vigile. Algunas ejecuciones se prolongan de 36 a 48 horas y los proyectos grandes pueden llevar varios días, dijo Wesley ter Haar, chief AI and revenue officer de Monks, de S4 Capital."
+          "x": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science, de modo que los anunciantes obtengan una lectura independiente de cómo funcionan las salvaguardas publicitarias en ChatGPT, según anunció la compañía el lunes durante Advertising Week New York."
         },
         {
           "t": "p",
-          "x": "La mayor parte de ese trabajo es programar el software propio de la agencia: el código es preciso y está sujeto a reglas, así que ceder esas tareas fue “una decisión casi obvia”. En palabras de ter Haar: “Teníamos agentes de código que trabajaron de 36 a 48 horas sin cometer errores.”"
+          "x": "Las dos empresas de verificación evaluarán cómo aplica OpenAI sus estándares de seguridad de marca en un entorno de pruebas controlado, sin acceso a las conversaciones privadas de los usuarios. OpenAI señala que el objetivo es dar a los anunciantes más transparencia sobre el funcionamiento de esas salvaguardas, preservando la privacidad de las conversaciones."
         },
         {
           "t": "p",
-          "x": "Las condiciones las siguen fijando las personas. El equipo redacta los requisitos con los que trabajarán los agentes antes de iniciar una ejecución; desde ahí los agentes reparten el trabajo, prueban lo que programan contra esos requisitos y se revisan entre sí. Hasta hace unos meses los desarrolladores tenían que montar ese andamiaje a mano. “Los modelos actuales ya no lo necesitan”, dijo ter Haar. “Levantan su propia configuración agéntica.”"
+          "x": "Adweek apunta que recurrir a la verificación externa sigue un camino ya recorrido por otras plataformas para convencer a compradores que desconfían de que los vendedores de medios califiquen su propio trabajo, y que ambas empresas ya miden ubicaciones de seguridad de marca en TikTok, Meta y Reddit. Por ahora, estos pilotos son más limitados, y no está claro si alguna de las dos medirá ubicaciones en campañas activas."
         },
         {
           "t": "p",
-          "x": "Lo siguiente es el marketing. Monks está adaptando el esquema a social y performance, donde los agentes esperan una tendencia, una tanda de comentarios o una publicación con bajo rendimiento y entonces actúan, con los datos de interacción como circuito de retroalimentación. “Por ahora esto es sobre todo software, pero la dirección está clara”, dijo ter Haar. Un cliente no identificado trasladará su trabajo en social a este esquema a comienzos del año próximo."
+          "x": "OpenAI también lanzó Negative Phrases, que permite a las marcas fijar exclusiones de ubicación acordes con sus propias políticas. La compañía confirmó en agosto que estaba probando la herramienta, después de que Adweek informara de que los anunciantes veían anuncios desalineados con las conversaciones de los usuarios en ChatGPT."
         },
         {
           "t": "p",
-          "x": "El cambio también mueve el dinero: los tokens salen ahora de lo que ter Haar llama el presupuesto de talento y, con sprints de dos semanas comprimidos a dos días, Monks debate si “reintroducir algo de fricción” para que las personas sigan aportando un punto de vista."
+          "x": "Junto a esto, OpenAI está probando un formato publicitario de mayor tamaño encabezado por imágenes, que aparece durante la generación de imágenes, y amplía su lista de socios de medición."
         }
       ]
     },
-    "marketing/nano-banana-21": {
+    "marketing/tiktok-agentic-ads": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
-          "cap": "Nano Banana."
+          "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+          "cap": "El anuncio de TikTok sobre sus novedades publicitarias."
         },
         {
           "t": "p",
-          "x": "Google publicó hoy Nano Banana 2.1 y ya funciona dentro de AI Mode en la Búsqueda de Google. Nano Banana 2.1 es el modelo más reciente de generación y edición de imágenes de Google."
+          "x": "En Advertising Week New York 2026, TikTok presentó un conjunto de novedades de publicidad y comercio con agentes que abarcan todas las etapas del recorrido del cliente."
         },
         {
           "t": "p",
-          "x": "Google dijo que Nano Banana 2.1 “supera a nuestros modelos anteriores en todos los frentes, con saltos notables en diseño visual, edición con máscaras y consistencia del sujeto para ayudarte a crear imágenes de aspecto más natural.”"
+          "x": "En el lado de la venta, TikTok dice que está construyendo nuevas experiencias de compra de comercio con agentes, empezando por Buy Direct y Shopping Assistant, y que las desarrolla con plataformas de comercio y pagos como Salesforce, Shopify, Shoplazza y Stripe. Buy Direct es un pago dentro de la aplicación que permite comprar a una marca sin salir de TikTok, con un clic desde el feed For You. Shopping Assistant es un agente conversacional que resuelve detalles de producto, envío, tallas, disponibilidad y compra en una sola conversación."
         },
         {
           "t": "p",
-          "x": "Robby Stein, VP de Producto de Búsqueda en Google, añadió que Nano Banana 2.1 ya está en AI Mode. Escribió en X: “Nano Banana 2.1 se está desplegando en AI Mode en la Búsqueda”. Para usarlo, dijo, basta con “abrir la app de Google y tocar el icono 🍌 debajo de la caja de búsqueda para empezar a crear”."
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-          "cap": "El botón de banana en la app de Google."
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
-          "cap": "Lo que ocurre al tocar el icono."
+          "x": "Agentic Leads es un agente aparte para la captación de contactos, que mantiene conversaciones guiadas en los mensajes directos de TikTok y en los formularios de las propias webs de los anunciantes."
         },
         {
           "t": "p",
-          "x": "Google llevó Nano Banana a Google Lens por primera vez hace un año, amplió el acceso a AI Mode en diciembre pasado y en julio lo sumó a AI Overviews. AI Overviews puede no usar todavía la versión 2.1, pero AI Mode sí."
+          "x": "En el lado de la compra, TikTok abre su TikTok Ad Network a los anunciantes de Estados Unidos y extiende las campañas a lo que describe como una red premium de casi 400,000 aplicaciones, y pone en marcha Search Ads Campaign con Smart+, junto con Smart+ Creative Selection, que reúne los materiales propios del anunciante, la creatividad generada por Symphony y el contenido de creadores en un único flujo de aprobación."
+        },
+        {
+          "t": "p",
+          "x": "TikTok añade que su interfaz para negocios, construida sobre el Model Context Protocol abierto, ya está disponible como conector en varias plataformas y registros, y que el uso que hacen de ella los anunciantes para activar campañas ha crecido más de un 200%, según sus propios datos internos de julio a septiembre de 2026."
         }
       ]
     },
-    "marketing/pinterest-beauty-guides": {
+    "marketing/rembrand-in-content": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-          "cap": "Créditos de imagen: Pinterest"
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+          "cap": "La cobertura de Digiday sobre Advertising Week in New York."
         },
         {
           "t": "p",
-          "x": "Pinterest mostró el martes una nueva función que usará IA para actuar sobre la inspiración que guardas en Pins de belleza, como ideas de peinado y de uñas, y convertirla en planes concretos que puedes llevar al salón."
+          "x": "Omnicom Media se ha asociado con la plataforma publicitaria Rembrand en lo que describe como una capacidad pionera en el mercado, que permite a las marcas identificar, planificar y activar emplazamientos dentro de contenido premium en streaming."
         },
         {
           "t": "p",
-          "x": "“Beauty Guides”, que funciona con Pinterest Intelligence, la tecnología de inteligencia visual e IA generativa de la empresa, traducirá los Pins a los términos y expresiones que emplean estilistas y manicuristas y que el usuario común quizá no conozca, como “balayage”, “root melt” o “almond nails”."
+          "x": "Ambas partes planean usar la plataforma VISTA de Rembrand, que emplea IA para rastrear el contenido de los editores e identificar escenas que pueden monetizarse. Content Collective, la unidad de contenido de marca de Omnicom Media, integra después esos emplazamientos en el contenido. El objetivo es dar escala al emplazamiento dentro del contenido, más allá de casos aislados."
         },
         {
           "t": "p",
-          "x": "La función se apoya en algo que la gente ya hace —llevar al salón una foto de su inspiración—, aunque también resulta útil tener la terminología adecuada a mano al conversar sobre qué partes del look conviene cambiar."
+          "x": "Omnicom Media elige los programas para una marca con su producto de audiencias RealID dentro de Acxiom, cruzado con datos de audiencia de las plataformas de streaming, y luego lo contrasta con las oportunidades que aparecen en VISTA. Un cliente de productos de consumo envasado podría incorporarse a un episodio de un reality de cocina después de haberse producido y rodado. Digiday observa que la idea no es nueva, pero hacerlo después de la producción sí lo es."
         },
         {
           "t": "p",
-          "x": "Las guías ofrecen además el tipo de información que ayuda a planificar la visita, como el tiempo que puede llevar cada parte del proceso y el coste. (Balayage llega a los cientos de dólares.)"
-        },
-        {
-          "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
-          "cap": "Créditos de imagen: Pinterest"
+          "x": "Digiday informa de que la red de medios del grupo sigue negociando con varias compañías que operan servicios de streaming, y no pudo nombrar a ninguna. Megan Pagliuca, directora de producto para Norteamérica, dijo que es la primera vez que el lado comprador usa esta capacidad, históricamente una tecnología del lado vendedor, y la calificó de capacidad todavía incipiente."
         },
         {
           "t": "p",
-          "x": "Las guías aparecen al tocar el botón “Get the Guide” dentro de la aplicación y detallan qué hay que pedir exactamente, cuánto tiempo lleva, el rango de precios y los requisitos de mantenimiento, como cada cuánto habrá que cortar, matizar o retocar. En el lanzamiento, la función funcionará con Pins relacionados con el peinado, el color, la forma de las uñas y el acabado."
+          "x": "Una investigación propia de Omnicom Media con Rembrand, y no un estudio independiente, halló que los emplazamientos dentro del contenido combinados con anuncios de video tradicionales elevaron 5.5 veces el recuerdo del mensaje y cuadruplicaron tanto la intención de compra como la percepción de la marca como premium."
         }
       ]
     },
-    "marketing/mueller-ai-crawlers": {
+    "marketing/gap-shopping-agents": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-          "cap": "Search Engine Journal"
+          "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+          "cap": "La tienda de Gap en el distrito Marina de San Francisco, en junio de 2026."
         },
         {
           "t": "p",
-          "x": "John Mueller, de Google, dice que los rastreadores de entrenamiento de IA no suelen ofrecer a los responsables de un sitio una forma de enviar un sitemap, y sugiere un nombre de archivo por defecto o un feed RSS para los sitios que quieran que esos rastreadores encuentren su contenido."
+          "x": "Gap Inc. presenta un conjunto de herramientas de compra basadas en IA en todas sus marcas, treinta años después de abrir la primera tienda en línea de su marca homónima, Gap."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
+          "cap": "La primera tienda en línea de Gap en su estreno, en 1996. Cortesía de Gap."
         },
         {
           "t": "p",
-          "x": "Lo comentó junto a Martin Splitt en el episodio del 1 de octubre del podcast Search Off the Record de Google, titulado “Do sitemaps still matter?”. También dijo que en sus propios registros de servidor ha visto rastreadores de IA acceder a sus archivos de sitemap y RSS."
+          "x": "Desde el lunes, los clientes de Gap pueden descubrir prendas a través de dos plataformas externas. Alta Daily arma propuestas de conjuntos a partir de variables como la agenda del usuario, su presupuesto y el pronóstico del tiempo, y puede mostrar prendas del armario del propio comprador además de los surtidos de las marcas. Daydream recibe lenguaje cotidiano y devuelve ideas de moda, con acceso a las cuatro marcas de Gap Inc.: Gap, Banana Republic, Old Navy y Athleta."
         },
         {
           "t": "p",
-          "x": "“He visto que ocurre en mis registros de servidor, donde algún rastreador de IA accede a mi archivo de sitemap”, dijo, y ha observado lo mismo con sus archivos RSS. No nombró a los rastreadores y señaló que no sabe si las empresas de IA documentan esto ni qué hacen con los archivos."
+          "x": "Los clientes de Old Navy y Banana Republic pueden describir en lenguaje natural lo que buscan a los agentes de compra conversacionales en los sitios web y las aplicaciones de esas dos marcas."
         },
         {
           "t": "p",
-          "x": "Los rastreadores de entrenamiento de IA son distintos porque “normalmente no tienen ninguna Console ni ninguna configuración donde puedas enviar un archivo de sitemap”. Para los sitios que quieren su contenido en sistemas de IA, sugirió “o te quedas con el nombre genérico, lo llamas sitemap.xml, o te centras en los feeds RSS”. Los feeds son más fáciles de encontrar, apuntó, porque suelen estar enlazados desde el head del HTML de una página."
-        },
-        {
-          "t": "p",
-          "x": "Un sitemap mantenido en privado, con un nombre de archivo poco habitual y sin entrada en robots.txt, permanece oculto para los sistemas a los que no se envía. Preguntado por si llms.txt podría sustituir a un sitemap XML, Mueller comparó el archivo Markdown con un sitemap HTML y dijo que los sistemas de Google no pueden usarlo como sitemap porque carece del formato estricto."
+          "x": "Sven Gerjets, director de tecnología, dice que es consciente de que los compradores pueden desconfiar de las experiencias de compra asistidas por IA, e incluso quedar decepcionados. Retail Dive cita una encuesta de SmartCustomer del mes pasado según la cual el 45% de las compras de las que los consumidores se arrepienten tras usar ayuda de IA fueron de ropa y calzado, y una investigación de Synchrony y Oxford Economics que concluye que los consumidores son más propensos a comprar con IA en minoristas en los que ya confían, aunque recelan del uso que se hace de sus datos."
         }
       ]
     }

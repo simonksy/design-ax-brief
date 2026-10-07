@@ -552,46 +552,45 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-labels",
+        "id": "chatgpt-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI, 편집 라벨\nChatGPT 결과에 시험",
-        "body": "OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다.",
-        "mini_headline": "ChatGPT의 편집 라벨",
+        "image": "pipeline/media/chatgpt-ads.jpg",
+        "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
+        "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
+        "mini_headline": "ChatGPT의 새 광고 형식",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPT 상품 박스."
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+              "cap": "생성된 이미지 옆에 새 비주얼 광고 형식이 나란히 뜬 ChatGPT 화면."
             },
             {
               "t": "p",
-              "x": "OpenAI가 ChatGPT 상품 결과에 새 라벨을 붙여 시험하고 있다. 라벨은 화면에 띄운 상품을 두고 “종합 최고”, “입문자에게 최고”, “쿠셔닝 최고” 같은 정보를 덧붙인다."
+              "x": "OpenAI가 ChatGPT에 새 비주얼 광고 형식을 들인다. 측정 도구와 파트너십을 넓히고, 브랜드 적합성을 가늠할 방법도 새로 만들고 있다. OpenAI는 ChatGPT의 주간 이용자가 12억 명이라고 밝혔다."
             },
             {
               "t": "p",
-              "x": "라벨은 초록색과 회색 강조 표시로도 나타나 눈에 잘 띈다."
+              "x": "이 형식은 제품에서 얻는 영감, 제품을 쓰는 장면, 제품이 있어야 가능한 경험을 이미지로 보여준다. OpenAI는 ChatGPT에서 이미지를 만드는 동안 이 형식을 시험하며, 대상은 Free와 Go 요금제 이용자다. 광고에는 표시가 분명히 붙고 생성 중인 이미지와는 떨어져 있다. 광고가 ChatGPT의 답변을 좌우하지는 않는다고 회사는 설명한다. 시험은 이달 말 미국에서 초기 광고주 그룹과 함께 시작한다."
             },
             {
               "t": "p",
-              "x": "이를 발견한 사람은 Brodie Clark다. 그는 X와 SERP Alert에 이렇게 적었다. “ChatGPT가 검색 결과의 자연 상품에 띄울 수 있는 라벨의 새 변형을 시험하고 있다. 기존 버전을 확장해, 새 실험은 ‘종합 최고’ 상품에 초록색 라벨을, 기준별 ‘최고’ 항목에는 회색 라벨을 더 보여 준다.”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clark가 올린 새 라벨 스크린샷."
+              "x": "측정 쪽에서는 Hightouch, Tealium, LiveRamp 연동이 새로 붙어 광고주가 자사 시스템의 전환 데이터를 ChatGPT Ads로 보낼 수 있다. OpenAI는 전환 인터페이스와 리포팅, 클릭 어트리뷰션에서 여러 어트리뷰션 파트너를 지원한다. Haus, Measured, WorkMagic과 함께 지역별 결과를 비교하는 실험은 아직 초기 단계다."
             },
             {
               "t": "p",
-              "x": "이는 해당 상품의 클릭률을 높이는 데 도움이 될 것이다."
+              "x": "OpenAI가 내건 성과 수치는 OpenAI가 아니라 이 파트너들에게서 나왔다. DV Rockerbox는 WeightWatchers가 ChatGPT Ads에서 자사 통합 유료 검색 벤치마크보다 획득당 비용을 15.3% 적게 썼다고 밝혔고, Triple Whale은 ChatGPT Ads를 타고 Portland Leather에 들어온 방문자의 93%가 신규였다고 전한다."
+            },
+            {
+              "t": "p",
+              "x": "게재 가드레일은 해당 대화가 광고를 붙이기에 적절한지 판단한다. Negative Phrases는 자체 정책에 맞는 제외 설정이 필요한, 자격 요건을 갖춘 광고주에게 열린다."
             }
           ]
         },
@@ -600,69 +599,69 @@
         "hasFull": true
       },
       {
-        "id": "monks-agents",
+        "id": "chatgpt-brand-safety",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
+        "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
+        "mini_headline": "ChatGPT 광고는 누가 검증하나",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "tiktok-agentic-ads",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TikTok Newsroom",
+        "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "video": "pipeline/media/tiktok-agentic-ads.mp4",
+        "poster": "pipeline/media/tiktok-agentic-ads.jpg",
+        "image": "pipeline/media/tiktok-agentic-ads.jpg",
+        "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
+        "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
+        "mini_headline": "에이전틱으로 가는 TikTok",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rembrand-in-content",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "S4 Capital 산하\nMonks AI 며칠 자율",
-        "body": "Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다.",
-        "mini_headline": "에이전트를 홀로 두는 Monks",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana\n2.1 AI Mode 배포",
-        "body": "Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다.",
-        "mini_headline": "AI Mode의 Nano Banana 2.1",
+        "headline": "Omnicom, 광고를\n영상 안에 심는다",
+        "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
+        "mini_headline": "영상 안으로 들어간 광고",
         "lang": "ko",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pinterest-beauty-guides",
+        "id": "gap-shopping-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "뷰티 Pin을 살롱\n실행 계획으로",
-        "body": "Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다.",
-        "mini_headline": "뷰티 Pin으로 짜는 살롱 계획",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "AI 크롤러가 읽는\nsitemap과 RSS",
-        "body": "John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다.",
-        "mini_headline": "sitemap을 읽는 AI 크롤러",
+        "image": "pipeline/media/gap-shopping-agents.jpg",
+        "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
+        "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
+        "mini_headline": "Gap에 등장한 쇼핑 에이전트",
         "lang": "ko",
         "hasFull": true,
         "locked": true
@@ -3814,6 +3813,123 @@
         ]
       }
     ],
+    "lockedCount": 4
+  },
+  "medicine": {
+    "label": "Medicine",
+    "news": [
+      {
+        "id": "breast-second-read",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Radiology Business",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "accent": "#00897b",
+        "motif": "sphere",
+        "image": "pipeline/media/breast-second-read.jpg",
+        "headline": "병원 3곳, 유방 검진\n2차 판독 AI에 맡긴다",
+        "body": "Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
+        "mini_headline": "2차 판독은 AI가",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+              "cap": "판독용 워크스테이션에서 유방 촬영 영상을 판독하는 영상의학과 의사. 출처: Lunit."
+            },
+            {
+              "t": "p",
+              "x": "유럽의 한 의료 시스템이 유방암 검진에서 영상의학과 의사의 2차 판독을 인공지능으로 대체한다고 발표했다. 적용 대상은 스웨덴 Stockholm Region의 병원 3곳이며, 연간 200,000건에서 250,000건의 유방 영상 검사를 포괄한다. AI는 지역 규모에서 독립적인 2차 판독자 역할을 맡는다."
+            },
+            {
+              "t": "p",
+              "x": "스웨덴은 유럽 대부분의 국가와 마찬가지로, 그리고 미국과 달리 품질 관리 차원에서 영상의학과 의사 두 명이 유방 촬영 영상을 각각 독립적으로 검토한다. AI는 이 두 명 가운데 두 번째 판독자를 대신하므로, 모든 검사는 여전히 영상의학과 의사 한 명이 판독한다."
+            },
+            {
+              "t": "p",
+              "x": "토대가 된 것은 Stockholm의 Saint Goran 병원에서 진행한 전향적 인구 기반 연구다. 이 연구는 55,000명이 넘는 여성의 실제 검진 환경에서 시스템을 평가했다. 2024년 RSNA 학술대회에서 공개된 1년차 결과에서는 암 발견율이 15% 높아지고 영상의학과 의사의 판독 시간이 36% 넘게 줄었다."
+            },
+            {
+              "t": "p",
+              "x": "이 병원은 2023년부터 시스템을 사용해 3년간 약 200,000건의 유방 검사를 뒷받침했으며, 이번 도입은 이 업체가 Dalarna County에 이어 스웨덴에서 두 번째로 진행하는 광역 단위 확대다. 이 소식은 Berlin에 본사를 둔 기업이 정상 유방 촬영 영상에 대해 영상의학과 의사의 검토를 완전히 건너뛰는 유방 분류 도구로 세계 최초 승인을 받았다고 발표한 데 뒤이어 나왔다."
+            }
+          ]
+        },
+        "lang": "ko",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "utah-ai-pilots",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "accent": "#0070f3",
+        "motif": "sphere",
+        "image": "pipeline/media/utah-ai-pilots.jpg",
+        "headline": "Utah가 의료 AI\n처방 실증 3건 승인",
+        "body": "Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
+        "mini_headline": "Utah의 AI 처방 실증",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "swiftsight",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "headline": "AIRS 510(k) 허가\nSwiftSight 체성분",
+        "body": "AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
+        "mini_headline": "SwiftSight, 510(k) 획득",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "dual-stain",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "NEJM AI",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/dual-stain.jpg",
+        "headline": "AI 이중염색 자궁경부\n트리아지 외부 검증",
+        "body": "HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
+        "mini_headline": "AI 자궁경부 트리아지 검증",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "unsafe-orders",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Communications Medicine (Nature)",
+        "url": "https://www.nature.com/articles/s43856-026-01933-8",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/unsafe-orders.png",
+        "headline": "언어모델 20종에\n안전하지 않은 임상 지시",
+        "body": "언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
+        "mini_headline": "20종 모델, 안전하지 않은 지시",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
     "lockedCount": 4
   },
   "politics": {

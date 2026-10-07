@@ -552,46 +552,45 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-labels",
+        "id": "chatgpt-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI prueba etiquetas\neditoriales en ChatGPT",
-        "body": "OpenAI está probando etiquetas como 'best all-rounder' y 'best for beginners' en resultados orgánicos de ChatGPT.",
-        "mini_headline": "Etiquetas editoriales en ChatGPT",
+        "image": "pipeline/media/chatgpt-ads.jpg",
+        "headline": "ChatGPT probará anuncios\nvisuales al generar imágenes",
+        "body": "OpenAI probará anuncios visuales en la generación de imágenes de ChatGPT en Estados Unidos con algunos anunciantes.",
+        "mini_headline": "Un nuevo formato de anuncio en ChatGPT",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "Cajas de productos en ChatGPT."
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+              "cap": "Pantallas de ChatGPT con el nuevo formato de anuncio visual junto a una imagen generada."
             },
             {
               "t": "p",
-              "x": "OpenAI está probando nuevas etiquetas añadidas a los resultados de productos de ChatGPT. Esas etiquetas pueden aportar información sobre el producto que se muestra, como “best all-rounder”, “best for beginners”, “best cushioning” y así sucesivamente."
+              "x": "OpenAI está incorporando un nuevo formato de anuncio visual en ChatGPT, amplía sus herramientas y acuerdos de medición y desarrolla nuevas formas de evaluar la idoneidad de marca. La compañía afirma que ChatGPT llega a 1.200 millones personas cada semana."
             },
             {
               "t": "p",
-              "x": "Las etiquetas también pueden aparecer resaltadas en verde y gris, lo que las hace destacar mucho."
+              "x": "El formato muestra imágenes de inspiración sobre un producto, de su uso o de las experiencias que ese producto hace posibles. OpenAI lo probará durante la generación de imágenes en ChatGPT, para usuarios de los planes Free y Go. Los anuncios se identificarán con claridad y quedarán separados de la imagen que se está creando, y la compañía señala que la publicidad no influye en las respuestas que da ChatGPT. Las pruebas comienzan a finales de este mes en Estados Unidos con un primer grupo de anunciantes."
             },
             {
               "t": "p",
-              "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert: “ChatGPT está probando una nueva variación de las etiquetas que puede mostrar para los productos orgánicos en sus resultados. Ampliando la versión original, el nuevo experimento muestra una etiqueta verde para el producto ‘best all-rounder’ y además etiquetas grises para el ‘best’ según distintos criterios.”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "La captura de Brodie Clark con las nuevas etiquetas."
+              "x": "En medición, nuevas integraciones con Hightouch, Tealium y LiveRamp permiten a los anunciantes enviar datos de conversión desde sus propios sistemas a ChatGPT Ads, y OpenAI ya admite una larga lista de socios de atribución para su interfaz de conversiones, los informes y la atribución de clics. Los experimentos que comparan resultados entre territorios, realizados con Haus, Measured y WorkMagic, siguen en una fase inicial."
             },
             {
               "t": "p",
-              "x": "Esto debería ayudar a las tasas de clics de estos productos."
+              "x": "Las cifras de rendimiento que cita OpenAI provienen de esos socios y no de la propia OpenAI. DV Rockerbox afirma que WeightWatchers pagó un 15.3% menos por adquisición en ChatGPT Ads que su referencia combinada de búsqueda pagada, y Triple Whale afirma que el 93% de los visitantes de Portland Leather procedentes de ChatGPT Ads eran nuevos."
+            },
+            {
+              "t": "p",
+              "x": "Los límites de ubicación evalúan si una conversación resulta adecuada para la publicidad, y Negative Phrases ya está disponible para los anunciantes que cumplen los requisitos y necesitan exclusiones propias de sus políticas."
             }
           ]
         },
@@ -600,69 +599,69 @@
         "hasFull": true
       },
       {
-        "id": "monks-agents",
+        "id": "chatgpt-brand-safety",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "headline": "Firmas externas revisarán\nanuncios de ChatGPT en piloto",
+        "body": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science en una prueba controlada.",
+        "mini_headline": "Quién revisa los anuncios de ChatGPT",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "tiktok-agentic-ads",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TikTok Newsroom",
+        "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "video": "pipeline/media/tiktok-agentic-ads.mp4",
+        "poster": "pipeline/media/tiktok-agentic-ads.jpg",
+        "image": "pipeline/media/tiktok-agentic-ads.jpg",
+        "headline": "TikTok construye comercio\ncon agentes para anunciantes",
+        "body": "TikTok anunció el pago Buy Direct, un Shopping Assistant conversacional y Search Ads con Smart+.",
+        "mini_headline": "TikTok se vuelve agéntico",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rembrand-in-content",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "En Monks, de S4 Capital, los\nagentes de AI trabajan solos",
-        "body": "Monks, de S4 Capital, mantiene agentes de código trabajando sin supervisión 36 a 48 horas.",
-        "mini_headline": "Monks deja solos a sus agentes",
-        "lang": "es",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana 2.1 comienza a\ndesplegarse en AI Mode",
-        "body": "Google lanzó Nano Banana 2.1, su último modelo de imagen, que se despliega en AI Mode en el buscador.",
-        "mini_headline": "Nano Banana 2.1 en AI Mode",
+        "headline": "Omnicom pondrá anuncios\ndentro del propio video",
+        "body": "Omnicom Media y Rembrand usarán IA para hallar escenas de series en streaming que admitan anuncios.",
+        "mini_headline": "Anuncios dentro del video",
         "lang": "es",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pinterest-beauty-guides",
+        "id": "gap-shopping-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "Pinterest convierte los Pins\nde belleza en planes",
-        "body": "Las Beauty Guides de Pinterest traducen Pins de pelo y uñas a términos de salón, con costes, tiempos y mantenimiento.",
-        "mini_headline": "Los Pins de belleza se vuelven planes",
-        "lang": "es",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "Mueller ve a rastreadores de IA\nleyendo sitemaps y RSS",
-        "body": "John Mueller, de Google, dice que sus registros muestran rastreadores de IA leyendo sitemaps y RSS.",
-        "mini_headline": "Los rastreadores de IA leen sitemaps",
+        "image": "pipeline/media/gap-shopping-agents.jpg",
+        "headline": "Gap pone agentes de compra\ndelante de los clientes",
+        "body": "Gap Inc. pone agentes de compra conversacionales ante los clientes de Old Navy y Banana Republic.",
+        "mini_headline": "Agentes de compra en Gap",
         "lang": "es",
         "hasFull": true,
         "locked": true
@@ -3813,6 +3812,123 @@
         ]
       }
     ],
+    "lockedCount": 4
+  },
+  "medicine": {
+    "label": "Medicine",
+    "news": [
+      {
+        "id": "breast-second-read",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Radiology Business",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "accent": "#00897b",
+        "motif": "sphere",
+        "image": "pipeline/media/breast-second-read.jpg",
+        "headline": "Tres hospitales darán a la IA\nla segunda lectura mamográfica",
+        "body": "Tres hospitales de Stockholm usarán IA en lugar de un radiólogo como segundo lector independiente.",
+        "mini_headline": "La IA asume la segunda lectura",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+              "cap": "Un radiólogo lee mamografías en una estación de trabajo de informes. Fuente: Lunit."
+            },
+            {
+              "t": "p",
+              "x": "Un sistema de salud europeo ha anunciado que sustituirá las segundas lecturas de los radiólogos en el cribado de mama por inteligencia artificial. El despliegue abarca tres hospitales de la Stockholm Region de Suecia y cubre entre 200,000 y 250,000 exámenes de imagen mamaria al año, con la IA actuando como segundo lector independiente a escala regional."
+            },
+            {
+              "t": "p",
+              "x": "Como en la mayor parte de Europa, y a diferencia de Estados Unidos, en Suecia dos radiólogos revisan de forma independiente cada mamografía como control de calidad. La IA ocupa el lugar del segundo de esos dos lectores, de modo que un radiólogo sigue leyendo todos los exámenes."
+            },
+            {
+              "t": "p",
+              "x": "La base fue un estudio prospectivo de base poblacional en el hospital Saint Goran de Stockholm, que evaluó el sistema en el cribado real de más de 55,000 mujeres. Los resultados del primer año, presentados en la reunión de la RSNA en 2024, mostraron un aumento del 15% en la detección de cáncer y una reducción de más del 36% en los tiempos de lectura de los radiólogos."
+            },
+            {
+              "t": "p",
+              "x": "Ese hospital utiliza el sistema desde 2023 y ha dado soporte a unos 200,000 exámenes mamarios en tres años; este es el segundo despliegue regional del proveedor en Suecia, después de Dalarna County. La noticia llega después de que una empresa con sede en Berlin anunciara que había recibido la primera autorización mundial para una herramienta de triaje mamario que omite por completo la revisión del radiólogo en las mamografías normales."
+            }
+          ]
+        },
+        "lang": "es",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "utah-ai-pilots",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "accent": "#0070f3",
+        "motif": "sphere",
+        "image": "pipeline/media/utah-ai-pilots.jpg",
+        "headline": "Utah autoriza pilotos de IA\ncon posible receta sin revisión",
+        "body": "El sandbox de IA de Utah autorizó tres pilotos que con el tiempo podrían prescribir sin revisión humana.",
+        "mini_headline": "Pilotos de prescripción con IA en Utah",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "swiftsight",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "headline": "AIRS Medical obtiene el 510(k)\nde SwiftSight Body Composition",
+        "body": "AIRS Medical obtuvo la autorización 510(k) de la FDA para SwiftSight Body Composition, software de MRI.",
+        "mini_headline": "510(k) para SwiftSight",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "dual-stain",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "NEJM AI",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/dual-stain.jpg",
+        "headline": "Validación independiente de IA\nde doble tinción cervical",
+        "body": "Una validación externa independiente evaluó una IA de doble tinción para el triaje en el cribado cervical con HPV.",
+        "mini_headline": "Validación de un triaje cervical con IA",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "unsafe-orders",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Communications Medicine (Nature)",
+        "url": "https://www.nature.com/articles/s43856-026-01933-8",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/unsafe-orders.png",
+        "headline": "20 modelos de lenguaje ante\nórdenes clínicas inseguras",
+        "body": "20 modelos de lenguaje eligieron entre acciones potencialmente dañinas y seguras en casos sintéticos y de registros.",
+        "mini_headline": "20 modelos ante órdenes inseguras",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
     "lockedCount": 4
   },
   "politics": {

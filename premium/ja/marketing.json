@@ -1,129 +1,119 @@
 {
   "cards": {
-    "marketing/monks-agents": {
+    "marketing/chatgpt-brand-safety": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
-          "cap": "Ivy Liu"
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
+          "cap": "Advertising Week New YorkでのOpenAI。"
         },
         {
           "t": "p",
-          "x": "S4 CapitalはAIエージェントに、誰も見ていない状態で何日も作業させ始めた。36〜48時間続く実行もあり、規模の大きな案件では数日かかると、S4 Capital傘下MonksのチーフAI・収益責任者Wesley ter Haarは語る。"
+          "x": "OpenAIは、DoubleVerifyとIntegral Ad Scienceとともにブランド適合性の制御をパイロット運用する。ChatGPTの広告面の安全策がどう働いているかを、広告主が独立した立場で確かめられるようにする狙いで、同社が月曜、Advertising Week New Yorkで発表した。"
         },
         {
           "t": "p",
-          "x": "その多くは自社ソフトウェアのコーディングだ。コードは厳密でルールがはっきりしているため、こうした仕事を渡すのは「ほとんど考えるまでもなかった」。ter Haarはこう言う。「36〜48時間働き、ミスをしないコーディングエージェントがいた。」"
+          "x": "両社は、利用者の非公開の会話には触れずに、管理された試験環境でOpenAIがブランドセーフティ基準をどう適用しているかを評価する。OpenAIは、会話のプライバシーを守りながら、安全策の仕組みを広告主にこれまで以上に開くことが目的だとしている。"
         },
         {
           "t": "p",
-          "x": "条件を決めるのは今も人間だ。実行の前に、担当者がエージェントが満たすべき要件を書く。そこから先はエージェントが仕事を分け、書いたコードを要件に照らして試し、互いにレビューする。数カ月前までは、その土台を開発者が手で組む必要があった。「今のモデルには、もうそれが本当に要らない」とter Haarは言う。「自分でエージェント構成を立ち上げる。」"
+          "x": "Adweekは、外部検証を入れるやり方が、媒体の売り手が自らの成績を自ら採点することを警戒する買い手を納得させるために、他のプラットフォームがすでにたどった道だと指摘する。両社はTikTok、Meta、Redditでブランドセーフティの配信面をすでに計測している。今回のパイロットは当面それより範囲が狭く、両社が実際に配信中のキャンペーンの配信面まで計測するかは明らかでない。"
         },
         {
           "t": "p",
-          "x": "次はマーケティングだ。Monksはこの仕組みをソーシャルとパフォーマンスに広げている。エージェントはトレンドやコメントの急増、成果の出ない投稿を待って動き、反応データをフィードバックの輪として使う。「今のところ大半はソフトウェア中心だが、向かう先は明らかだ」とter Haarは述べた。名前の出ていないクライアントが来年初めにソーシャル業務をここへ移す。"
+          "x": "OpenAIはNegative Phrasesも投入した。ブランドが自社方針に沿って配信除外を設定できる機能である。ChatGPTで利用者の会話と噛み合わない広告が出ていると広告主が見ている、とAdweekが報じた後、同社は8月にこの機能を試験中だと認めた。"
         },
         {
           "t": "p",
-          "x": "金の流れも変わる。トークン代は今、ter Haarが人材予算と呼ぶ枠から出ており、2週間のスプリントが2日に縮まったことで、Monksは人が視点を加えられるよう「摩擦をいくらか戻す」かを議論している。"
+          "x": "あわせてOpenAIは、画像生成中に現れる、画像を主体とした大型の広告枠を試験しており、計測パートナーも増やしている。"
         }
       ]
     },
-    "marketing/nano-banana-21": {
+    "marketing/tiktok-agentic-ads": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
-          "cap": "Nano Banana。"
+          "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
+          "cap": "広告関連の更新を発表したTikTok。"
         },
         {
           "t": "p",
-          "x": "Googleは本日Nano Banana 2.1を公開し、すでにGoogle検索のAI Mode内で動いている。Nano Banana 2.1はGoogleの最新の画像生成・編集モデルである。"
+          "x": "Advertising Week New York 2026で、TikTokは顧客の行動段階すべてにまたがるエージェント型の広告・商取引の更新をまとめて示した。"
         },
         {
           "t": "p",
-          "x": "Googleによれば、Nano Banana 2.1は「あらゆる面で従来のモデルを上回り、ビジュアルデザイン、マスクベースの編集、被写体の一貫性で大きく前進し、より自然な見た目の画像を作る助けになる」という。"
+          "x": "販売側では、Buy DirectとShopping Assistantを手始めに、新しいエージェント型のコマース体験を構築しているとTikTokは述べる。開発はSalesforce、Shopify、Shoplazza、Stripeといったコマース・決済プラットフォームと組んで進める。Buy Directはアプリ内決済で、買い手はTikTokを離れずにFor Youフィードから1クリックでブランドの商品を買える。Shopping Assistantは、商品情報、配送、サイズ、在庫、購入までを一つの会話で扱う対話型エージェントである。"
         },
         {
           "t": "p",
-          "x": "Google検索のプロダクト担当VP、Robby Steinも、Nano Banana 2.1がすでにAI Modeに入っていると補足した。Xには「Nano Banana 2.1が検索のAI Modeで展開中だ」と書き、使い方は「Googleアプリを開き、検索ボックスの下の🍌アイコンをタップすれば制作を始められる」と説明した。"
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
-          "cap": "Googleアプリのバナナボタン。"
-        },
-        {
-          "t": "img",
-          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
-          "cap": "アイコンをタップしたときの画面。"
+          "x": "Agentic Leadsは見込み客獲得向けの別のエージェントで、TikTokのダイレクトメッセージや、広告主自身のサイトのリードフォームで案内に沿った会話を進める。"
         },
         {
           "t": "p",
-          "x": "GoogleはNano Bananaを1年前にまずGoogle Lensへ載せ、昨年12月にAI Modeへ広げ、7月にはAI Overviewsにも持ち込んだ。AI Overviewsはまだ2.1を使っていない可能性があるが、AI Modeでは使われている。"
+          "x": "購入側では、TikTok Ad Networkを米国の広告主に開放し、同社がプレミアムと説明する400,000に近いアプリのネットワークへキャンペーンを広げる。あわせてSmart+を用いるSearch Ads Campaignと、Smart+ Creative Selectionを開く。後者は、広告主自身の素材、Symphonyが生成したクリエイティブ、クリエイターのコンテンツを一つの承認フローにまとめる。"
+        },
+        {
+          "t": "p",
+          "x": "TikTokはまた、オープンなModel Context Protocolを基にした事業者向けインターフェースが、複数のプラットフォームやレジストリでコネクターとして使えるようになったとしている。キャンペーン実行での広告主の利用が200%以上伸びたという数字については、2026年7月から9月の自社内部データを根拠に挙げている。"
         }
       ]
     },
-    "marketing/pinterest-beauty-guides": {
+    "marketing/rembrand-in-content": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
-          "cap": "画像クレジット: Pinterest"
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
+          "cap": "ニューヨークのAdvertising Week in New Yorkを伝えるDigidayの記事。"
         },
         {
           "t": "p",
-          "x": "Pinterestは火曜、保存した美容系Pin——ヘアやネイルのアイデア——の着想をAIで扱い、サロンに持っていける実行プランに変える新機能を見せた。"
+          "x": "Omnicom Mediaは広告プラットフォームのRembrandと組み、ブランドがプレミアムな配信コンテンツ内の広告枠を見つけ、計画し、実行できる機能を打ち出す。同社はこれを市場初の機能だとしている。"
         },
         {
           "t": "p",
-          "x": "「Beauty Guides」を動かすのは、同社のビジュアル認識と生成AIの技術Pinterest Intelligenceだ。普段のユーザーには馴染みのない「balayage」「root melt」「almond nails」といった、スタイリストやネイリストが使う言葉にPinを置き換える。"
+          "x": "両社はRembrandのVISTAを使う計画である。VISTAはAIでパブリッシャーのコンテンツを走査し、収益化できる場面を見つけ出す。その上でOmnicom Mediaのブランドコンテンツ部門Content Collectiveが、広告枠をコンテンツに織り込む。単発で終わっていたコンテンツ内の広告を、規模のある形にすることを狙う。"
         },
         {
           "t": "p",
-          "x": "人がすでにやっていること——お手本の写真をサロンに持ち込むこと——にそのまま重なる機能だが、どこを変えるか相談するときに正しい用語が手元にあるのも役に立つ。"
+          "x": "Omnicom Mediaは、Acxiom内の自社オーディエンス商品RealIDで対象番組を選び、配信事業者の視聴データと突き合わせたうえで、VISTA側の機会と照らし合わせる。日用品の広告主なら、制作と撮影を終えた料理リアリティ番組の一話に後から入り込める。Digidayは、考え方自体は新しくないが、制作後に行う点が新しいと指摘する。"
         },
         {
           "t": "p",
-          "x": "ガイドは来店の段取りに使える情報も示す。工程ごとにかかる時間と費用だ。（Balayageは数百ドルに達する。）"
-        },
-        {
-          "t": "img",
-          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
-          "cap": "画像クレジット: Pinterest"
+          "x": "Digidayによると、この持ち株会社のメディアネットワークは配信サービスを手がける複数のメディア企業と交渉中で、社名は明らかにできなかった。北米の最高プロダクト責任者Megan Pagliucaは、従来は売り手側の技術だったこの機能を買い手側が使うのは今回が初めてだと述べ、まだ芽の段階の機能だとした。"
         },
         {
           "t": "p",
-          "x": "ガイドはアプリ内の「Get the Guide」ボタンを押すと現れ、具体的に何を頼めばよいか、どれくらい時間がかかるか、価格帯、そしてカットやトーン調整、リタッチをどの程度の頻度で行う必要があるかという手入れの条件を示す。提供開始時点では、髪型、カラー、ネイルの形、仕上げに関するPinで使える。"
+          "x": "独立した調査ではなくOmnicom MediaがRembrandと自ら行った調査では、コンテンツ内の広告を従来の動画広告と組み合わせた場合、メッセージ想起が5.5倍、購入意向とプレミアムだという受け止めがいずれも4倍に伸びた。"
         }
       ]
     },
-    "marketing/mueller-ai-crawlers": {
+    "marketing/gap-shopping-agents": {
       "blocks": [
         {
           "t": "img",
-          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-          "cap": "Search Engine Journal"
+          "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
+          "cap": "2026年6月、サンフランシスコのMarina地区にあるGapの店舗。"
         },
         {
           "t": "p",
-          "x": "GoogleのJohn Muellerによれば、AI学習クローラーはサイト運営者にsitemapを提出する手段を用意していないことが多い。そうしたクローラーに自分のコンテンツを見つけてほしいサイトには、既定のファイル名かRSSフィードを薦めている。"
+          "x": "Gap Inc.は、AIを土台にした買い物ツール群を全ブランドで公開する。同名のGapブランドで初のオンラインストアを開いてから30年になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
+          "cap": "1996年の公開時のGap初のオンラインストア。写真提供:Gap。"
         },
         {
           "t": "p",
-          "x": "発言は、10月1日公開のGoogleのポッドキャストSearch Off the Recordの回「Do sitemaps still matter?」で、Martin Splittとともに語ったものだ。自分のサーバーログで、AIクローラーがsitemapやRSSのファイルにアクセスするのを見たとも述べている。"
+          "x": "月曜から、Gapの客は二つの外部プラットフォームで商品を探せる。Alta Dailyは、利用者の予定や予算、天気予報といった変数から着こなしを提案し、ブランドの品ぞろえに加えて手持ちの服も引き出せる。Daydreamは日常の言葉を受け取ってファッションの案を返し、Gap、Banana Republic、Old Navy、AthletaというGap Inc.の四ブランドすべてを扱う。"
         },
         {
           "t": "p",
-          "x": "「自分のサーバーログで、あるAIクローラーがsitemapファイルにアクセスするのを見た」と彼は言う。RSSファイルでも同じだった。クローラー名は挙げず、AI企業がこれを文書化しているのか、ファイルを何に使っているのかは分からないとした。"
+          "x": "Old NavyとBanana Republicの客は、両ブランドのサイトとアプリにある対話型の買い物エージェントに、探しているものを普段の言葉で伝えられる。"
         },
         {
           "t": "p",
-          "x": "AI学習クローラーが違うのは「sitemapファイルを提出できるConsoleのようなものも設定も、たいてい存在しない」点だ。コンテンツをAIのシステムに載せたいサイトには「一般的な名前のままsitemap.xmlとするか、RSSフィードに力を入れるかのどちらかだ」と勧めた。フィードはページのHTMLのhead部分からリンクされているのが普通なので見つけやすい、とも指摘した。"
-        },
-        {
-          "t": "p",
-          "x": "珍しいファイル名にしてrobots.txtにも書かないsitemapは、提出していないシステムからは見えないままだ。llms.txtがXMLのsitemapを置き換えられるかと問われると、MuellerはそのMarkdownファイルをHTMLのsitemapになぞらえ、厳密な形式がないためGoogleのシステムはsitemapとしては使えないと答えた。"
+          "x": "最高技術責任者のSven Gerjetsは、AIが手を貸す買い物体験に客が身構えたり、落胆したりすることがあるのは承知していると語る。Retail Diveは、先月のSmartCustomerの調査で、AIの助けを借りて買って後悔した買い物の45%が衣料品と靴だったこと、またSynchronyとOxford Economicsの調査で、消費者はすでに信頼している小売業者ではAIを使って買いやすい一方、自分のデータの扱いには警戒していることを挙げている。"
         }
       ]
     }

@@ -552,46 +552,45 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-labels",
+        "id": "chatgpt-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI tests editorial\nlabels on ChatGPT results",
-        "body": "OpenAI is testing labels like 'best all-rounder' and 'best for beginners' on ChatGPT's organic product results.",
-        "mini_headline": "Editorial labels in ChatGPT",
+        "image": "pipeline/media/chatgpt-ads.jpg",
+        "headline": "ChatGPT will test visual ads\nduring image generation",
+        "body": "OpenAI will test visual ads during ChatGPT image generation in the United States with select advertisers.",
+        "mini_headline": "A new ChatGPT ad format",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPT product boxes."
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+              "cap": "ChatGPT screens showing the new visual ad format alongside a generated image."
             },
             {
               "t": "p",
-              "x": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as “best all-rounder,” “best for beginners,” “best cushioning,” and so on."
+              "x": "OpenAI is introducing a new visual ad format in ChatGPT, expanding its measurement tools and partnerships, and developing new ways to understand brand suitability. The company says ChatGPT reaches 1.2 billion people each week."
             },
             {
               "t": "p",
-              "x": "The labels also can be shown in green and gray highlights, which make them really stand out."
+              "x": "The format shows images of product inspiration, product usage, or the experiences a product makes possible. OpenAI will test it during image generation in ChatGPT, for users on the Free and Go plans. Ads will be clearly labeled and stay separate from the image being created, and the company says advertising does not influence the answers ChatGPT gives. Testing begins later this month in the United States with an initial group of advertisers."
             },
             {
               "t": "p",
-              "x": "This was spotted by Brodie Clark, who posted about it on X and on SERP Alert: “ChatGPT is testing out a new variation of the labels that can be displayed for organic products in its results. Expanding upon the original version, the new experiment is displaying a green label for the ‘best all-rounder’ product and also additional grey labels for the ‘best’ for different criteria.”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clark’s screenshot of the new labels."
+              "x": "On measurement, new integrations with Hightouch, Tealium and LiveRamp let advertisers send conversion data from their own systems into ChatGPT Ads, and OpenAI now supports a long list of attribution partners for its conversions interface, reporting and click attribution. Experiments comparing results across geographies, run with Haus, Measured and WorkMagic, are still at an early stage."
             },
             {
               "t": "p",
-              "x": "This should help with click-through rates on these products."
+              "x": "The performance figures OpenAI quotes come from those partners rather than from OpenAI itself. DV Rockerbox says WeightWatchers paid 15.3% less per acquisition on ChatGPT Ads than its blended paid search benchmark, and Triple Whale says 93% of Portland Leather's visitors from ChatGPT Ads were new."
+            },
+            {
+              "t": "p",
+              "x": "Placement guardrails assess whether a conversation is appropriate for advertising, and Negative Phrases are now available to qualifying advertisers that need exclusions specific to their own policies."
             }
           ]
         },
@@ -600,69 +599,69 @@
         "hasFull": true
       },
       {
-        "id": "monks-agents",
+        "id": "chatgpt-brand-safety",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "headline": "Outside firms will vet\nChatGPT ads in a pilot",
+        "body": "OpenAI is piloting brand suitability controls with DoubleVerify and Integral Ad Science in a controlled test.",
+        "mini_headline": "Who vets ChatGPT ads",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "tiktok-agentic-ads",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TikTok Newsroom",
+        "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "video": "pipeline/media/tiktok-agentic-ads.mp4",
+        "poster": "pipeline/media/tiktok-agentic-ads.jpg",
+        "image": "pipeline/media/tiktok-agentic-ads.jpg",
+        "headline": "TikTok is building agentic\ncommerce for advertisers",
+        "body": "TikTok announced Buy Direct checkout, a conversational Shopping Assistant and Smart+ powered Search Ads.",
+        "mini_headline": "TikTok goes agentic",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rembrand-in-content",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "At S4 Capital's Monks, AI\nagents run for days unwatched",
-        "body": "S4 Capital's Monks has coding agents running unsupervised for 36 to 48 hours, with social and performance work next.",
-        "mini_headline": "Monks lets agents run alone",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana 2.1 is rolling\nout inside AI Mode",
-        "body": "Google shipped Nano Banana 2.1, its latest image model, and it is rolling out inside AI Mode in Search.",
-        "mini_headline": "Nano Banana 2.1 in AI Mode",
+        "headline": "Omnicom will put ads\ninside the video itself",
+        "body": "Omnicom Media and Rembrand will use AI to find scenes in premium streaming shows that can carry ads.",
+        "mini_headline": "Ads inside the video",
         "lang": "en",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pinterest-beauty-guides",
+        "id": "gap-shopping-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "Pinterest turns beauty Pins\ninto salon action plans",
-        "body": "Pinterest's AI Beauty Guides translate hair and nail Pins into salon terms with estimated costs, times and upkeep.",
-        "mini_headline": "Beauty Pins become plans",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "Mueller sees AI crawlers\nfetching sitemaps and RSS",
-        "body": "Google's John Mueller says his logs show AI crawlers fetching sitemaps and RSS, so he advises default sitemap names.",
-        "mini_headline": "AI crawlers read sitemaps",
+        "image": "pipeline/media/gap-shopping-agents.jpg",
+        "headline": "Gap puts shopping agents\nin front of buyers",
+        "body": "Gap Inc. is putting conversational shopping agents in front of customers at Old Navy and Banana Republic.",
+        "mini_headline": "Shopping agents at Gap",
         "lang": "en",
         "hasFull": true,
         "locked": true
@@ -3813,6 +3812,123 @@
         ]
       }
     ],
+    "lockedCount": 4
+  },
+  "medicine": {
+    "label": "Medicine",
+    "news": [
+      {
+        "id": "breast-second-read",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Radiology Business",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "accent": "#00897b",
+        "motif": "sphere",
+        "image": "pipeline/media/breast-second-read.jpg",
+        "headline": "Three hospitals will give AI\nthe second mammogram read",
+        "body": "Three Stockholm hospitals will use AI instead of a radiologist as the independent second reader.",
+        "mini_headline": "AI takes the second read",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+              "cap": "A radiologist reading mammograms at a reporting workstation. Source: Lunit."
+            },
+            {
+              "t": "p",
+              "x": "A European health system has announced that it will replace radiologist second reads in breast screening with artificial intelligence. The rollout spans three hospitals in Sweden's Stockholm Region and covers between 200,000 and 250,000 breast imaging exams a year, with the AI acting as an independent second reader at regional scale."
+            },
+            {
+              "t": "p",
+              "x": "Like most of Europe, and unlike the United States, Sweden has two radiologists independently review each mammogram as a quality check. The AI stands in for the second of those two readers, so one radiologist still reads every exam."
+            },
+            {
+              "t": "p",
+              "x": "The groundwork was a prospective, population based study at Saint Goran hospital in Stockholm, which evaluated the system in the real world screening of more than 55,000 women. First year results presented at the RSNA meeting in 2024 showed a 15% increase in cancer detection and more than a 36% reduction in radiologist reading times."
+            },
+            {
+              "t": "p",
+              "x": "That hospital has used the system since 2023, supporting around 200,000 breast exams over three years, and this is the vendor's second region wide rollout in Sweden after Dalarna County. The news follows a Berlin based company's announcement that it received the world's first approval for a breast triage tool that bypasses radiologist review entirely for normal mammograms."
+            }
+          ]
+        },
+        "lang": "en",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "utah-ai-pilots",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "accent": "#0070f3",
+        "motif": "sphere",
+        "image": "pipeline/media/utah-ai-pilots.jpg",
+        "headline": "Utah clears health AI pilots\nthat could prescribe unreviewed",
+        "body": "Utah's AI sandbox cleared three pilots that could eventually prescribe with no human review.",
+        "mini_headline": "Utah's AI prescribing pilots",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "swiftsight",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "headline": "AIRS Medical gets 510(k) for\nSwiftSight Body Composition",
+        "body": "AIRS Medical won FDA 510(k) clearance for SwiftSight Body Composition, MRI software measuring fat and muscle.",
+        "mini_headline": "510(k) for SwiftSight",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "dual-stain",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "NEJM AI",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/dual-stain.jpg",
+        "headline": "Independent validation of AI\ndual-stain cervical triage",
+        "body": "An independent external validation tested an AI dual-stain reader for triage in HPV cervical cancer screening.",
+        "mini_headline": "AI cervical triage validated",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "unsafe-orders",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Communications Medicine (Nature)",
+        "url": "https://www.nature.com/articles/s43856-026-01933-8",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/unsafe-orders.png",
+        "headline": "20 language models were given\nunsafe clinical instructions",
+        "body": "20 large language models chose between potentially harmful and safe actions in synthetic and record-derived cases.",
+        "mini_headline": "20 models, unsafe orders",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
     "lockedCount": 4
   },
   "politics": {

@@ -552,46 +552,45 @@
     "label": "Marketing",
     "news": [
       {
-        "id": "chatgpt-labels",
+        "id": "chatgpt-ads",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "accent": "#ff8a3d",
         "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI测试编辑标签\n出现在ChatGPT结果",
-        "body": "OpenAI正在ChatGPT自然商品结果中测试“综合最佳”等编辑标签。",
-        "mini_headline": "ChatGPT中的编辑标签",
+        "image": "pipeline/media/chatgpt-ads.jpg",
+        "headline": "ChatGPT将在图像生成中\n测试视觉广告",
+        "body": "OpenAI将在美国与部分广告主一起测试ChatGPT图像生成中的视觉广告。",
+        "mini_headline": "ChatGPT的新广告形式",
         "full": {
-          "mode": "full",
+          "mode": "summary",
           "blocks": [
             {
               "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPT的商品框。"
+              "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+              "cap": "ChatGPT界面中，新的视觉广告形式与生成的图像并排出现。"
             },
             {
               "t": "p",
-              "x": "OpenAI正在测试附加在ChatGPT商品结果上的新标签。这些标签会补充所展示商品的信息，例如“综合最佳”“最适合新手”“缓震最佳”等等。"
+              "x": "OpenAI正在ChatGPT中推出一种新的视觉广告形式，同时扩充测量工具与合作方，并开发判断品牌适宜度的新方法。该公司称，ChatGPT每周触达12亿人。"
             },
             {
               "t": "p",
-              "x": "标签还可能以绿色和灰色高亮显示，非常醒目。"
+              "x": "该形式以图像呈现产品带来的灵感、产品的使用场景，或产品所能成就的体验。OpenAI将在ChatGPT的图像生成过程中测试它，对象为Free与Go套餐用户。广告会有清晰标注，并与正在生成的图像保持分离；该公司表示，广告不会影响ChatGPT给出的回答。测试于本月晚些时候在美国启动，先与一批初期广告主展开。"
             },
             {
               "t": "p",
-              "x": "发现这一变化的是Brodie Clark，他在X和SERP Alert上写道：“ChatGPT正在测试结果中自然商品标签的新变体。在最初版本的基础上，新实验为‘综合最佳’的商品显示绿色标签，并为不同标准下的‘最佳’加上灰色标签。”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clark拍下的新标签截图。"
+              "x": "在测量方面，与Hightouch、Tealium、LiveRamp的新集成，让广告主可以把自有系统中的转化数据传入ChatGPT Ads；OpenAI的转化接口、报告与点击归因目前支持一长串归因合作方。与Haus、Measured、WorkMagic共同开展的跨地区效果比较实验仍处于早期阶段。"
             },
             {
               "t": "p",
-              "x": "这应该有助于提升这些商品的点击率。"
+              "x": "OpenAI引用的效果数据来自这些合作方，而非OpenAI自己。DV Rockerbox称，WeightWatchers在ChatGPT Ads上的单次获客成本比其混合付费搜索基准低15.3%；Triple Whale称，Portland Leather来自ChatGPT Ads的访客中有93%是新访客。"
+            },
+            {
+              "t": "p",
+              "x": "投放护栏会评估某段对话是否适合投放广告；Negative Phrases现已向符合条件的广告主开放，供其按自身政策设置排除项。"
             }
           ]
         },
@@ -600,69 +599,69 @@
         "hasFull": true
       },
       {
-        "id": "monks-agents",
+        "id": "chatgpt-brand-safety",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Adweek",
+        "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "headline": "外部机构将在试点中\n审核ChatGPT广告",
+        "body": "OpenAI正与两家外部机构在受控测试中试点品牌适宜度管控。",
+        "mini_headline": "谁来审核ChatGPT广告",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "tiktok-agentic-ads",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TikTok Newsroom",
+        "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "video": "pipeline/media/tiktok-agentic-ads.mp4",
+        "poster": "pipeline/media/tiktok-agentic-ads.jpg",
+        "image": "pipeline/media/tiktok-agentic-ads.jpg",
+        "headline": "TikTok正在为广告主\n构建智能体商务能力",
+        "body": "TikTok宣布推出Buy Direct结算与对话式Shopping Assistant。",
+        "mini_headline": "TikTok转向智能体",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "rembrand-in-content",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
         "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "S4 Capital旗下\nMonks放手让AI连跑数日",
-        "body": "S4 Capital旗下Monks的编码代理已能无人监督运行36至48小时。",
-        "mini_headline": "Monks让代理独立运行",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
         "accent": "#2ec5c5",
         "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana\n2.1逐步进入AI Mode",
-        "body": "Google发布最新图像模型Nano Banana 2.1，并在AI Mode中逐步推出。",
-        "mini_headline": "AI Mode中的Nano Banana 2.1",
+        "headline": "Omnicom要把广告\n放进视频画面里",
+        "body": "Omnicom Media与Rembrand将用AI寻找流媒体节目中可放广告的画面。",
+        "mini_headline": "广告进入视频画面",
         "lang": "zh",
         "hasFull": true,
         "locked": true
       },
       {
-        "id": "pinterest-beauty-guides",
+        "id": "gap-shopping-agents",
         "source_lang": "en",
         "eyebrow": "AI NEWS",
         "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
+        "source": "Retail Dive",
+        "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "accent": "#3b6bff",
         "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "Pinterest 新功能\n把美容 Pin 变方案",
-        "body": "Pinterest 的 Beauty Guides 把美容 Pin 译成沙龙用语。",
-        "mini_headline": "美容 Pin 变成沙龙方案",
-        "lang": "zh",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "AI 爬虫在抓取\nsitemap 与 RSS",
-        "body": "John Mueller 说，日志显示 AI 爬虫会抓取 sitemap 与 RSS。",
-        "mini_headline": "AI 爬虫会读 sitemap",
+        "image": "pipeline/media/gap-shopping-agents.jpg",
+        "headline": "Gap把购物智能体\n摆到顾客面前",
+        "body": "Gap Inc.在Old Navy和Banana Republic向顾客推出购物智能体。",
+        "mini_headline": "Gap的购物智能体",
         "lang": "zh",
         "hasFull": true,
         "locked": true
@@ -3813,6 +3812,123 @@
         ]
       }
     ],
+    "lockedCount": 4
+  },
+  "medicine": {
+    "label": "Medicine",
+    "news": [
+      {
+        "id": "breast-second-read",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Radiology Business",
+        "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+        "accent": "#00897b",
+        "motif": "sphere",
+        "image": "pipeline/media/breast-second-read.jpg",
+        "headline": "三家医院将把乳腺筛查\n第二次阅片交给AI",
+        "body": "Stockholm 三家医院将用AI取代放射科医生，承担独立的第二次阅片。",
+        "mini_headline": "AI承担第二次阅片",
+        "full": {
+          "mode": "summary",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+              "cap": "放射科医生在诊断工作站上阅读乳腺X线影像。来源: Lunit。"
+            },
+            {
+              "t": "p",
+              "x": "一家欧洲医疗系统宣布，将用人工智能取代乳腺筛查中放射科医生的第二次阅片。此次部署覆盖瑞典 Stockholm Region 的三家医院，每年涉及200,000至250,000例乳腺影像检查，AI将在区域规模上充当独立的第二阅片者。"
+            },
+            {
+              "t": "p",
+              "x": "与欧洲多数国家一样，也与美国不同，瑞典由两名放射科医生各自独立复核每一份乳腺X线影像，以此作为质量把关。AI替代其中的第二名阅片者，因此每例检查仍由一名放射科医生阅读。"
+            },
+            {
+              "t": "p",
+              "x": "此举的基础是在 Stockholm 的 Saint Goran 医院开展的一项前瞻性人群研究，该研究在超过55,000名女性的真实筛查环境中评估了该系统。2024年RSNA年会上公布的首年结果显示，癌症检出率提高15%，放射科医生的阅片时间缩短超过36%。"
+            },
+            {
+              "t": "p",
+              "x": "该医院自2023年起使用该系统，三年间支持约200,000例乳腺检查，这也是该厂商继Dalarna County之后在瑞典的第二次区域范围部署。在此之前，一家总部位于Berlin的公司宣布，其乳腺分诊工具获得全球首个批准，该工具对正常乳腺X线影像完全跳过放射科医生复核。"
+            }
+          ]
+        },
+        "lang": "zh",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "utah-ai-pilots",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Healthcare Dive",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "accent": "#0070f3",
+        "motif": "sphere",
+        "image": "pipeline/media/utah-ai-pilots.jpg",
+        "headline": "Utah批准医疗AI试点\n日后或可无审核开处方",
+        "body": "Utah的AI沙盒批准了三个试点，日后或可在无人工审核下开处方。",
+        "mini_headline": "Utah的AI处方试点",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "swiftsight",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "AuntMinnie",
+        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+        "accent": "#f5a623",
+        "motif": "sphere",
+        "headline": "AIRS 获510(k)许可\nSwiftSight 体成分",
+        "body": "AIRS Medical的脂肪与肌肉测量MRI软件获得FDA 510(k)许可。",
+        "mini_headline": "SwiftSight获FDA 510(k)",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "dual-stain",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "NEJM AI",
+        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "accent": "#7928ca",
+        "motif": "sphere",
+        "image": "pipeline/media/dual-stain.jpg",
+        "headline": "AI双染色宫颈分诊\n获独立外部验证",
+        "body": "一项独立外部验证评估了用于HPV宫颈癌筛查分诊的AI双染色阅片系统。",
+        "mini_headline": "AI宫颈分诊的独立验证",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "unsafe-orders",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Medicine",
+        "source": "Communications Medicine (Nature)",
+        "url": "https://www.nature.com/articles/s43856-026-01933-8",
+        "accent": "#eb367f",
+        "motif": "sphere",
+        "image": "pipeline/media/unsafe-orders.png",
+        "headline": "20个语言模型收到\n不安全的临床指令",
+        "body": "20个大语言模型在合成与记录衍生的病例中，在可能有害与安全的做法之间作出选择。",
+        "mini_headline": "20个模型，不安全的指令",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
     "lockedCount": 4
   },
   "politics": {

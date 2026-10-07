@@ -10684,39 +10684,76 @@
  ],
  "marketing": [
   {
-   "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+   "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
    "date": "2026-10-07",
-   "ko": "S4 Capital 산하 Monks AI 며칠 자율 Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다.",
-   "title": "At S4 Capital's Monks, AI agents run for days unwatched",
-   "excerpt": "S4 Capital's Monks has started letting AI agents run autonomously for days at a stretch with no human supervising them, pushing agency production work from assisted to unattended."
+   "ko": "Omnicom, 광고를 영상 안에 심는다 Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
+   "title": "Omnicom Media and Rembrand partner to evolve in-content ad placements",
+   "excerpt": "The holdco and the ad-tech platform push in-content ad insertion further, using AI to identify scenes that can be monetized contextually."
   },
   {
-   "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+   "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
    "date": "2026-10-07",
-   "ko": "뷰티 Pin을 살롱 실행 계획으로 Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다.",
-   "title": "Pinterest turns beauty Pins into salon action plans",
-   "excerpt": "Pinterest's new AI-powered Beauty Guides translate hair and nail Pins into salon terminology with estimated costs, appointment times and maintenance needs — turning inspiration pins into a purchase path."
+   "ko": "TikTok, 광고주용 에이전틱 커머스 구축 중 TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
+   "title": "TikTok Unveils AI-Powered Updates for Advertisers: Driving Discovery, Action, and Measurable Business Outcomes",
+   "excerpt": "TikTok's Advertising Week announcement: agentic commerce with Buy Direct and a conversational Shopping Assistant, Smart+-powered Search Ads campaigns and Smart+ Creative Selection."
   },
   {
-   "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
    "date": "2026-10-07",
-   "ko": "AI 크롤러가 읽는 sitemap과 RSS John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다.",
-   "title": "Mueller sees AI crawlers fetching sitemaps and RSS",
-   "excerpt": "Google's John Mueller says his own server logs show AI training crawlers fetching sitemaps and RSS feeds, and recommends default sitemap names or RSS as the practical way to be found by them."
+   "ko": "ChatGPT 비주얼 광고 이미지 생성 중 시험 OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
+   "title": "Building advertising for the way people use AI",
+   "excerpt": "OpenAI's own announcement of a new ChatGPT ad format and measurement stack — visual ads that appear alongside image-generation results in the U.S. later this month, with an initial test group of advertisers."
   },
   {
-   "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+   "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
    "date": "2026-10-07",
-   "ko": "Nano Banana 2.1 AI Mode 배포 Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다.",
-   "title": "Nano Banana 2.1 is rolling out inside AI Mode",
-   "excerpt": "Google released Nano Banana 2.1, its latest image generation and editing model, and it is already live inside AI Mode in Google Search — putting generative imagery directly in the search surface brands optimize for."
+   "ko": "외부 검증사가 파일럿에서 ChatGPT 광고 점검 OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
+   "title": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
+   "excerpt": "The company is also testing a larger, image-led ad format and expanding its measurement partners."
   },
   {
-   "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+   "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
    "date": "2026-10-07",
-   "ko": "OpenAI, 편집 라벨 ChatGPT 결과에 시험 OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다.",
-   "title": "OpenAI tests editorial labels on ChatGPT results",
-   "excerpt": "OpenAI is testing editorial-style labels on ChatGPT product results — \"best all-rounder,\" \"best for beginners,\" \"best cushioning\" — a new ranking layer brands cannot buy but will be judged by."
+   "ko": "Gap, 쇼핑 에이전트를 고객 앞에 세운다 Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
+   "title": "Gap puts shopping agents in front of buyers",
+   "excerpt": "Gap Inc. puts conversational shopping agents and the Alta Daily and Daydream recommendation platforms in front of customers across Gap, Banana Republic and Old Navy."
+  }
+ ],
+ "medicine": [
+  {
+   "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+   "date": "2026-10-07",
+   "ko": "AI 이중염색 자궁경부 트리아지 외부 검증 HPV 기반 자궁경부암 검진의 AI 이중염색 판독을 독립 외부 검증으로 평가했다.",
+   "title": "Closing the Automation Gap in HPV-Based Cervical Cancer Screening: Independent External Validation of an AI Model for Dual-Stain Triage",
+   "excerpt": "An independent external validation of an AI model that reads dual-stain cytology for triage in HPV-based cervical cancer screening — the automation step that screening programs have been missing."
+  },
+  {
+   "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+   "date": "2026-10-07",
+   "ko": "병원 3곳, 유방 검진 2차 판독 AI에 맡긴다 Stockholm 병원 3곳이 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
+   "title": "Health system will use AI instead of radiologists for breast imaging 2nd reads",
+   "excerpt": "A health system is replacing the human second reader in screening mammography with an AI model — an AI system standing in for a radiologist in a live screening pathway, not an assistive add-on."
+  },
+  {
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
+   "date": "2026-10-07",
+   "ko": "AIRS 510(k) 허가 SwiftSight 체성분 AIRS Medical이 체성분 MRI 소프트웨어로 FDA 510(k)를 받았다.",
+   "title": "AIRS Medical secures FDA clearance for MRI software",
+   "excerpt": "AIRS Medical got FDA 510(k) clearance on Oct 5 for SwiftSight Body Composition, AI MRI software that quantifies visceral and subcutaneous fat, abdominal and thigh muscle and liver fat via proton density fat fraction."
+  },
+  {
+   "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+   "date": "2026-10-07",
+   "ko": "Utah가 의료 AI 처방 실증 3건 승인 Utah의 AI 샌드박스가 나중에 무심사 처방도 가능한 실증 3건을 승인했다.",
+   "title": "Utah approves slew of health AI pilots for drug management, women's health",
+   "excerpt": "Utah expanded its healthcare AI regulatory sandbox with three new pilots that could let AI produce care plans and medications without human review — the first US state to let an algorithm prescribe."
+  },
+  {
+   "url": "https://www.nature.com/articles/s43856-026-01933-8",
+   "date": "2026-10-07",
+   "ko": "언어모델 20종에 안전하지 않은 임상 지시 언어모델 20종이 합성·기록 사례에서 유해 가능 행동과 안전한 행동을 선택했다.",
+   "title": "Evaluating large language model responses to unsafe clinical instructions",
+   "excerpt": "Twenty LLMs were given synthetic cases and records drawn from real clinical recommendations and asked to choose among two harmful and two safe actions, testing whether hospital-deployed models follow instructions that conflict with patient safety."
   }
  ],
  "movies": [

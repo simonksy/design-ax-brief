@@ -32,7 +32,9 @@ For each pick produce:
   proportionally shorter than `headline`.
 - Carry through verbatim from selected.json: `tool`, `source`, `url`, `accent`, `motif`.
 
-Write `pipeline/cards.json` per the README schema (same order as selected.json).
+Write `pipeline/cards_<section>.json` per the README schema (same order as the selection file).
+
+섹션별 파일명을 쓴다 — 범용 이름은 쓰지 않는다. 같은 날 두 섹션을 돌리면 뒤에 도는 쪽이 앞 섹션의 파일을 덮어쓴다. 실제로 2026-10-07에 의학 런이 같은 날 마케팅 선택·카드·미디어 파일을 차례로 덮었다. roll.py도 `selected_<섹션>.json`을 기본으로 읽는다.
 Do NOT invent facts beyond the excerpt; keep claims supported by the source.
 
 **Full article (REQUIRED) — `card.full`.** Besides the summary `body`, attach the
