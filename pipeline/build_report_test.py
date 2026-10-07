@@ -106,19 +106,98 @@ def test_clusters_merge_on_a_shared_keyword():
     assert top["kw"] == "court", top["kw"]
 
 
-# I6 — ①번에 근거 카드 링크가 붙어야 메일이 사람을 사이트로 돌려보낸다.
-def test_change_cards_become_deep_links():
+# 메일은 섹션별 헤드라인을 다시 늘어놓지 않는다 — 관통 명제 하나와 그걸
+# 떠받치는 사례들만 담는다. 사례의 링크와 이미지 주소는 에이전트가 적지 않고
+# 카드 id로부터 파이썬이 만든다. 적게 하면 지어낸다.
+ARCH = [{"id": "ads", "section": "marketing", "date": "2026-10-06",
+         "headline": "ChatGPT 광고", "body": "b", "source": "s",
+         "image": "pipeline/media/ads.jpg"}]
+
+
+def _apply(answers, archive=ARCH):
     from build_report import apply_answers
     import tempfile
-    archive = [{"id": "ads", "section": "marketing", "date": "2026-10-06",
-                "headline": "ChatGPT 광고", "body": "b", "source": "s"}]
     with tempfile.TemporaryDirectory() as d:
-        apply_answers("2026-W41", {"ko": {"change": "c", "change_cards": ["marketing/ads"]}},
-                      out_root=d, archive=archive, base_url="https://axitnow.com")
-        got = json.load(open(os.path.join(d, "ko.json"), encoding="utf-8"))
-    assert got["links"], got
-    assert got["links"][0]["url"] == "https://axitnow.com/ko/?c=marketing:ads", got["links"]
-    assert got["links"][0]["headline"] == "ChatGPT 광고"
+        apply_answers("2026-W41", answers, out_root=d, archive=archive,
+                      base_url="https://axitnow.com")
+        return json.load(open(os.path.join(d, "ko.json"), encoding="utf-8"))
+
+
+def test_evidence_card_becomes_deep_link_and_absolute_image():
+    got = _apply({"ko": {"thesis": "명제", "ground": "논거",
+                         "evidence": [{"card": "marketing/ads", "role": "떠받친다"}]}})
+    e = got["evidence"][0]
+    assert e["url"] == "https://axitnow.com/ko/?c=marketing:ads", e
+    assert e["image"] == "https://axitnow.com/pipeline/media/ads.jpg", e
+    assert e["headline"] == "ChatGPT 광고" and e["role"] == "떠받친다", e
+    assert e["section"] == "marketing", e
+
+
+def test_thesis_and_ground_pass_through():
+    got = _apply({"ko": {"thesis": "관통 명제", "ground": "그 논거",
+                         "evidence": []}})
+    assert got["thesis"] == "관통 명제" and got["ground"] == "그 논거", got
+
+
+# 옛 형식(change/sections/dots/next)이 남으면 발송 쪽 게이트가 thesis를 못 찾아
+# 그 주 메일이 조용히 건너뛰어진다. 절반만 이주한 상태를 막는다.
+def test_legacy_keys_are_gone():
+    got = _apply({"ko": {"thesis": "t", "ground": "g", "evidence": []}})
+    for k in ("change", "links", "sections", "dots", "next"):
+        assert k not in got, (k, got)
+
+
+# 미디어를 못 구한 카드도 사례로 뽑힐 수 있다. 사례 자체는 남아야 한다.
+def test_card_without_image_still_becomes_evidence():
+    arch = [dict(ARCH[0], image=None)]
+    got = _apply({"ko": {"thesis": "t", "ground": "g",
+                         "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
+    assert len(got["evidence"]) == 1 and got["evidence"][0]["image"] == "", got
+
+
+# svg·webp는 메일 클라이언트가 자주 못 그린다. 깨진 그림 자리보다 글만 남는 게 낫다.
+def test_unmailable_image_formats_are_dropped():
+    for ext in ("svg", "webp"):
+        arch = [dict(ARCH[0], image=f"pipeline/media/ads.{ext}")]
+        got = _apply({"ko": {"thesis": "t", "ground": "g",
+                             "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
+        assert got["evidence"][0]["image"] == "", (ext, got)
+
+
+# 없는 카드를 가리키면 링크를 만들지 않는다 — URL을 지어내는 것보다 빠지는 게 낫다.
+def test_unknown_card_is_skipped():
+    got = _apply({"ko": {"thesis": "t", "ground": "g",
+                         "evidence": [{"card": "marketing/nope", "role": "r"},
+                                      {"card": "marketing/ads", "role": "r2"}]}})
+    assert len(got["evidence"]) == 1 and got["evidence"][0]["role"] == "r2", got
+
+
+# 메일은 사례마다 카드 이미지를 싣는다. 이미지 없는 카드를 사례로 고르면 그 자리가
+# 비는데, 에이전트는 입력에 그 정보가 없으면 알 수가 없다 — 실제로 W40 1번 사례가
+# 그렇게 뽑혔고, 무료 수신자가 보는 단 하나의 사례가 그림 없이 나갔다.
+def test_prompts_tell_which_cards_have_an_image():
+    from build_report import build_prompts
+    archive = [{"id": "withimg", "section": "design", "date": "2026-10-01",
+                "headline": "그림 있다", "body": "b", "source": "s",
+                "image": "pipeline/media/withimg.jpg"},
+               {"id": "noimg", "section": "politics", "date": "2026-10-01",
+                "headline": "그림 없다", "body": "b", "source": "s", "image": None}]
+    p = build_prompts("2026-W40", archive=archive, graph={"nodes": [], "links": []})
+    flat = {c["id"]: c for v in p["sections"].values() for c in v}
+    assert flat["withimg"]["has_image"] is True, flat["withimg"]
+    assert flat["noimg"]["has_image"] is False, flat["noimg"]
+
+
+# 메일 클라이언트가 못 그리는 형식은 '이미지 있음'으로 세지 않는다 — 조립 쪽이
+# 어차피 빼므로, 있다고 알려 주면 에이전트가 빈 자리를 고르게 된다.
+def test_unmailable_image_does_not_count_as_having_one():
+    from build_report import build_prompts
+    archive = [{"id": "svgonly", "section": "design", "date": "2026-10-01",
+                "headline": "svg", "body": "b", "source": "s",
+                "image": "pipeline/media/svgonly.svg"}]
+    p = build_prompts("2026-W40", archive=archive, graph={"nodes": [], "links": []})
+    flat = {c["id"]: c for v in p["sections"].values() for c in v}
+    assert flat["svgonly"]["has_image"] is False, flat["svgonly"]
 
 
 # 같은 카드 묶음이 동의어 수만큼 반복되면 상위 3칸을 한 사건이 다 차지한다

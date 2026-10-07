@@ -5,7 +5,9 @@ import schema from "../schema.sql?raw";
 import { sendWeekly, isoWeekLabel, editionForCron } from "../lib/weekly_send.js";
 import { setPrefs, listWeeklyRecipients } from "../lib/mail_prefs.js";
 
-const B = { change: "변화문단", sections: { design: "디자인신호" }, dots: "점잇기문단", next: ["다음볼것"] };
+const B = { thesis: "관통 명제 한 문장", ground: "그 명제의 논거.",
+            evidence: [{ headline: "사례", section: "design", url: "https://x/c",
+                         image: "https://x/i.jpg", role: "명제를 떠받친다" }] };
 const call = (path, init) => worker.fetch(new Request("http://localhost" + path, init), env, {
   waitUntil() {}, passThroughOnException() {},
 });
@@ -63,9 +65,9 @@ describe("listWeeklyRecipients", () => {
 
 describe("sendWeekly 안전장치", () => {
   // I8 — 보여줄 내용이 없으면 보내지 않는다. 빈 메일로 그 주 한 통을 태우면 안 된다.
-  it("①번이 비면 보내지 않고 기록도 남기지 않는다", async () => {
+  it("명제가 비면 보내지 않고 기록도 남기지 않는다", async () => {
     await setPrefs(env.DB, "empty@x.com", { weekly: 1 });
-    const r = await sendWeekly(env, "2026-W50", { ko: { ...B, change: "" } });
+    const r = await sendWeekly(env, "2026-W50", { ko: { ...B, thesis: "" } });
     expect(env.__sentReports.length).toBe(0);
     expect(r.skipped).toBeGreaterThan(0);
     const row = await env.DB.prepare("SELECT 1 FROM mail_sent WHERE id=?")
@@ -76,7 +78,7 @@ describe("sendWeekly 안전장치", () => {
   // I4 — 일부 언어만 생성된 주에도 각자 읽을 내용을 받아야 한다.
   it("일부 언어만 생성돼도 빈 메일을 보내지 않는다", async () => {
     await setPrefs(env.DB, "ko2@x.com", { weekly: 1, lang: "ko" });
-    await sendWeekly(env, "2026-W51", { es: { ...B, change: "cambio" } });
+    await sendWeekly(env, "2026-W51", { es: { ...B, thesis: "cambio" } });
     const m = env.__sentReports.find(x => x.to === "ko2@x.com");
     expect(m).toBeDefined();
     expect(m.html).toContain("cambio");   // 폴백 블록이라도 내용이 있어야 한다

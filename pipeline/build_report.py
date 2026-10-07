@@ -103,6 +103,21 @@ def card_link(base, lang, section, card_id):
     return f"{base.rstrip('/')}/{lang}/?c={section}:{card_id}"
 
 
+MAILABLE_IMG = (".jpg", ".jpeg", ".png", ".gif")
+
+
+def mail_image(base, rel):
+    """카드 이미지의 절대 주소. 메일에서는 사이트와 달리 상대 경로가 안 먹는다.
+
+    svg와 webp는 뺀다 — Outlook과 몇몇 클라이언트가 못 그리고, 깨진 그림 자리가
+    남는 것보다 글만 가는 게 낫다. 렌더러는 이미지 없는 사례를 이미 처리한다."""
+    if not rel:
+        return ""
+    if not rel.lower().endswith(MAILABLE_IMG):
+        return ""
+    return f"{base.rstrip('/')}/{rel.lstrip('/')}"
+
+
 def load_graph(path=None):
     p = path or os.path.join(ROOT, "archive-graph.js")
     s = open(p, encoding="utf-8").read()
@@ -128,18 +143,24 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
     # 근거가 빈 프롬프트를 받은 에이전트는 지어내기 시작한다.
     by_key = {graph_key(c): c for c in cards}
 
+    # 메일은 사례마다 카드 이미지를 싣는다. 이미지 없는 카드를 사례로 고르면 그
+    # 자리가 비는데, 입력에 적어 주지 않으면 에이전트는 알 수가 없다. 메일에서 못
+    # 그리는 형식은 '없음'으로 센다 — 조립 쪽이 어차피 빼므로 있다고 알리면 거짓이다.
+    def has_image(c):
+        return bool(mail_image("https://x", c.get("image")))
+
     by_section = defaultdict(list)
     for c in cards:
         by_section[c.get("section")].append({
             "id": c.get("id"), "headline": (c.get("headline") or "").replace("\n", " "),
-            "body": c.get("body"), "source": c.get("source"),
+            "body": c.get("body"), "source": c.get("source"), "has_image": has_image(c),
         })
 
     def brief(key):
         c = by_key.get(key) or {}
         return {"id": c.get("id"), "section": c.get("section"),
                 "headline": (c.get("headline") or "").replace("\n", " "),
-                "body": c.get("body")}
+                "body": c.get("body"), "has_image": has_image(c)}
 
     return {
         "edition": edition,
@@ -148,11 +169,23 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
         "sections": {k: v for k, v in sorted(by_section.items())},
         "clusters": [{**c, "cards": [brief(i) for i in c["ids"]]} for c in clusters],
         "langs": LANGS,
+        "answer_shape": {
+            "thesis": "한 문장. 섹션들을 관통하는 명제.",
+            "ground": "두 문장. 그 명제가 왜 이번 주에 성립하는지에 대한 논거.",
+            "evidence": [{"card": "<섹션>/<카드 id>", "role": "한 문장."}],
+        },
         "rules": [
+            # 이 메일의 존재 이유가 이 한 줄에 달려 있다. 섹션별 요약은 사이트가 이미
+            # 하는 일이고, 메일이 그걸 반복하면 따로 받을 이유가 없다.
+            "섹션별 요약을 쓰지 않는다. 한 주의 카드를 전부 읽은 사람에게만 보이는 관통선 하나를 명제로 쓴다.",
+            "명제는 뉴스 한 건으로는 못 하는 말이어야 한다. 한 사건을 바꿔 말한 문장이면 버리고 다시 쓴다.",
+            "명제는 서로 다른 섹션 최소 3곳의 카드로 떠받쳐져야 한다. 한 섹션 안에서만 성립하면 그건 그 섹션의 뉴스다.",
+            "'AI가 모든 것을 바꾼다' 같은 언제나 참인 문장은 명제가 아니다. 이번 주에 새로 참이 된 것만 쓴다.",
             "근거 카드가 없는 주장은 쓰지 않는다. 추측 금지.",
-            "'다음에 볼 것'은 계류 중인 법안·발표 예정 베타처럼 출처가 있는 것만 적는다.",
-            "요약이 아니라 '무엇이 움직였고 읽는 사람 일에 무슨 의미인가'를 쓴다.",
-            "링크는 쓰지 않는다. ①번의 근거 카드는 change_cards에 \"<섹션>/<카드 id>\" 형태로 3~5개 적으면 조립 쪽이 딥링크를 만든다.",
+            "사례는 4건. 각 role은 '이 사례가 명제의 어느 부분을 떠받치는가'만 쓴다 — 기사 요약을 다시 쓰지 않는다.",
+            "사례는 has_image가 true인 카드에서 고른다. 메일은 사례마다 카드 그림을 싣고, 그림 없는 카드는 그 자리가 빈다. 논지상 꼭 필요한 카드만 예외로 두되 첫 사례로는 쓰지 않는다 — 첫 사례는 무료 수신자가 보는 단 하나다.",
+            "링크와 이미지 주소는 쓰지 않는다. card에 \"<섹션>/<카드 id>\"만 적으면 조립 쪽이 만든다.",
+            "다음 주 전망, 지켜볼 것, 맺음말을 쓰지 않는다. 명제와 그 근거에서 끝낸다.",
         ],
     }
 
@@ -161,9 +194,9 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
                   archive=None):
     """언어별 답을 reports/<edition>/<lang>.json으로 쓴다.
 
-    ①번의 근거 카드는 에이전트가 id만 적고(`change_cards`), 링크는 여기서 만든다 —
-    URL을 적게 하면 지어낸다. 원문이 아니라 사이트 딥링크를 걸어야 메일이 사람을
-    사이트로 돌려보내고, 잠긴 카드를 누른 비구독자에게 구독 모달이 뜬다."""
+    사례의 링크와 이미지 주소는 에이전트가 적지 않는다(`card`에 id만 적는다) —
+    적게 하면 지어낸다. 원문이 아니라 사이트 딥링크를 걸어야 메일이 사람을 사이트로
+    돌려보내고, 잠긴 카드를 누른 비구독자에게 구독 모달이 뜬다."""
     root = out_root or os.path.join(ROOT, "reports", edition)
     os.makedirs(root, exist_ok=True)
     cards = archive if archive is not None else load_archive()
@@ -173,17 +206,21 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
         a = answers.get(lang)
         if not a:
             continue          # 한 언어가 비어도 나머지는 쓴다
-        links = []
-        for key in a.get("change_cards") or []:
-            c = by_key.get(key)
+        evidence = []
+        for item in a.get("evidence") or []:
+            c = by_key.get((item or {}).get("card"))
             if not c:
                 continue      # 없는 카드를 가리키면 링크를 만들지 않는다
-            links.append({"headline": (c.get("headline") or "").replace("\n", " "),
-                          "url": card_link(base_url, lang, c.get("section"), c.get("id"))})
+            evidence.append({
+                "section": c.get("section"),
+                "headline": (c.get("headline") or "").replace("\n", " "),
+                "url": card_link(base_url, lang, c.get("section"), c.get("id")),
+                "image": mail_image(base_url, c.get("image")),
+                "role": item.get("role", ""),
+            })
         json.dump({"edition": edition, "lang": lang,
-                   "change": a.get("change", ""), "links": links,
-                   "sections": a.get("sections", {}),
-                   "dots": a.get("dots", ""), "next": a.get("next", [])},
+                   "thesis": a.get("thesis", ""), "ground": a.get("ground", ""),
+                   "evidence": evidence},
                   open(os.path.join(root, f"{lang}.json"), "w", encoding="utf-8"),
                   ensure_ascii=False, indent=2)
         written.append(lang)

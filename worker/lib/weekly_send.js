@@ -30,7 +30,10 @@ export function editionForCron(now = new Date()) {
    뒤늦게 따로 보내지는 않는다. 지난 호를 늦게 받는 것보다 건너뛰는 게 낫다.
 
    `blocksByLang`은 {ko:{...}, en:{...}} 꼴이다. 블록 하나만 넘기면 모든 언어가
-   그걸 쓴다 — 호출부가 두 모양이면 한쪽이 반드시 틀린다. */
+   그걸 쓴다 — 호출부가 두 모양이면 한쪽이 반드시 틀린다.
+
+   내용이 있다는 판정 기준은 `thesis` 하나다. 이 메일의 전부가 관통 명제이므로,
+   명제가 없으면 사례가 몇 건 있어도 보낼 것이 없다. */
 export async function sendWeekly(env, edition, blocksByLang, opts = {}) {
   const send = opts.send || sendReport;
   const byLang = blocksByLang || {};
@@ -40,10 +43,10 @@ export async function sendWeekly(env, edition, blocksByLang, opts = {}) {
   const pick = (lang) => {
     if (!perLang) return byLang;
     const got = byLang[lang];
-    if (got && got.change) return got;
+    if (got && got.thesis) return got;
     // 그 언어가 없으면 내용이 '있는' 아무 블록으로 떨어진다. 머리말은 수신자
     // 언어로 나가고 본문만 폴백이라 어색하지만, 빈 메일보다는 낫다.
-    return Object.values(byLang).find((b) => b && b.change) || got || {};
+    return Object.values(byLang).find((b) => b && b.thesis) || got || {};
   };
 
   const people = await listWeeklyRecipients(env.DB);
@@ -53,9 +56,9 @@ export async function sendWeekly(env, edition, blocksByLang, opts = {}) {
     const id = `weekly:${edition}:${person.email}`;
     const blocks = pick(person.lang) || {};
 
-    // 보여줄 내용이 없으면 보내지 않는다. 빈 본문에 잠금 안내만 담긴 메일은
-    // 그 주의 단 한 번뿐인 접점을 태우고, 받는 쪽에는 스팸으로 읽힌다.
-    if (!blocks.change) { skipped++; continue; }
+    // 보여줄 내용이 없으면 보내지 않는다. 명제 없는 메일은 그 주의 단 한 번뿐인
+    // 접점을 태우고, 받는 쪽에는 스팸으로 읽힌다.
+    if (!blocks.thesis) { skipped++; continue; }
 
     // 자리를 먼저 선점한다. 보낸 뒤에 기록하면 그 사이에 격리가 죽었을 때
     // 다음 실행이 같은 사람에게 한 번 더 보낸다. 실패하면 선점을 푼다.
@@ -66,13 +69,9 @@ export async function sendWeekly(env, edition, blocksByLang, opts = {}) {
     // 권한은 발송 '시점'에 읽는다 — 목록을 만든 시각과 보내는 시각 사이에
     // 구독이 끝날 수 있고, 그때 ②③④가 나가면 유료 콘텐츠 유출이다.
     const ent = await getEntitlement(env.DB, person.email);
-    const sections = person.sections === "*"
-      ? Object.keys(blocks.sections || {})
-      : String(person.sections || "").split(",").map((s) => s.trim()).filter(Boolean);
-
     const token = await signUnsub(person.email, env.SESSION_SIGNING_KEY);
     const { subject, html } = renderReport({
-      edition, lang: person.lang, blocks, entitled: ent.entitled, sections,
+      edition, lang: person.lang, blocks, entitled: ent.entitled,
       unsubUrl: `${env.BASE_URL}/api/mail/unsubscribe?t=${token}`,
     });
 

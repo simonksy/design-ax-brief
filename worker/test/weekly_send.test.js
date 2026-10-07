@@ -4,8 +4,14 @@ import schema from "../schema.sql?raw";
 import { sendWeekly, isoWeekLabel } from "../lib/weekly_send.js";
 import { setPrefs } from "../lib/mail_prefs.js";
 
-const BLOCKS = { change: "변화문단", sections: { design: "디자인신호", marketing: "마케팅신호" },
-                 dots: "점잇기문단", next: ["다음볼것"] };
+const BLOCKS = {
+  thesis: "관통 명제 한 문장",
+  ground: "그 명제의 논거.",
+  evidence: [{ headline: "무료사례", section: "design", url: "https://x/c1",
+               image: "https://x/i1.jpg", role: "명제의 앞쪽을 떠받친다" },
+             { headline: "잠긴사례", section: "music", url: "https://x/c2",
+               image: "https://x/i2.jpg", role: "명제의 뒤쪽을 떠받친다" }],
+};
 
 beforeAll(async () => {
   for (const s of schema.split(";").map(x => x.trim()).filter(Boolean))
@@ -37,20 +43,22 @@ describe("sendWeekly", () => {
   });
 
   // Review Focus 4 — 발송 '시점'의 권한으로 판단한다.
-  it("구독하지 않은 사람은 ①번만 받는다", async () => {
+  it("구독하지 않은 사람은 명제와 첫 사례까지만 받는다", async () => {
     await setPrefs(env.DB, "free@x.com", { weekly: 1 });
     await sendWeekly(env, "2026-W42", BLOCKS);
     const mail = env.__sentReports.find(m => m.to === "free@x.com");
-    expect(mail.html).toContain("변화문단");
-    expect(mail.html).not.toContain("점잇기문단");
-    expect(mail.html).not.toContain("디자인신호");
+    expect(mail.html).toContain("관통 명제 한 문장");
+    expect(mail.html).toContain("무료사례");
+    expect(mail.html).not.toContain("잠긴사례");
   });
 
-  // Review Focus 3 — 블록 하나가 비어도 메일은 나간다.
-  it("섹션 블록이 비어도 메일은 나간다", async () => {
-    await setPrefs(env.DB, "partial@x.com", { weekly: 1, sections: "design,marketing" });
-    await sendWeekly(env, "2026-W43", { ...BLOCKS, sections: { design: "디자인신호" } });
-    expect(env.__sentReports.some(m => m.to === "partial@x.com")).toBe(true);
+  // Review Focus 3 — 사례를 한 건도 못 뽑은 주에도 명제는 나가야 한다.
+  it("사례가 비어도 명제만으로 메일은 나간다", async () => {
+    await setPrefs(env.DB, "partial@x.com", { weekly: 1 });
+    await sendWeekly(env, "2026-W43", { ...BLOCKS, evidence: [] });
+    const mail = env.__sentReports.find(m => m.to === "partial@x.com");
+    expect(mail).toBeDefined();
+    expect(mail.html).toContain("관통 명제 한 문장");
   });
 
   // Review Focus 5 — 한 통의 실패가 나머지를 막지 않는다.
@@ -83,10 +91,10 @@ describe("sendWeekly", () => {
     await setPrefs(env.DB, "ko@x.com", { weekly: 1, lang: "ko" });
     await setPrefs(env.DB, "en@x.com", { weekly: 1, lang: "en" });
     await sendWeekly(env, "2026-W46", {
-      ko: { ...BLOCKS, change: "한국어 변화" },
-      en: { ...BLOCKS, change: "English change" },
+      ko: { ...BLOCKS, thesis: "한국어 명제" },
+      en: { ...BLOCKS, thesis: "English thesis" },
     });
-    expect(env.__sentReports.find(m => m.to === "ko@x.com").html).toContain("한국어 변화");
-    expect(env.__sentReports.find(m => m.to === "en@x.com").html).toContain("English change");
+    expect(env.__sentReports.find(m => m.to === "ko@x.com").html).toContain("한국어 명제");
+    expect(env.__sentReports.find(m => m.to === "en@x.com").html).toContain("English thesis");
   });
 });
