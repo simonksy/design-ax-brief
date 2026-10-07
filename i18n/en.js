@@ -73,6 +73,7 @@ window.AX_I18N = {
  "insights.legend_gadgets": "Gadgets",
  "insights.legend_games": "Games",
  "insights.legend_marketing": "Marketing",
+ "insights.legend_medicine": "Medicine",
  "insights.legend_movies": "Movies",
  "insights.legend_music": "Music",
  "insights.legend_politics": "Politics",

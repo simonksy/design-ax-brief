@@ -1,8 +1,10 @@
 """Deterministic recency gate (UTC). Window is per-section:
   - design, politics, marketing: previous 72 hours (tight — both beats move fast and are dense,
     and a two-week-old ruling or export-control decision is already stale news).
-  - other sections (music, movies, games, books, gadgets, science): previous 14 days
-    (336h) — these domains publish AI news less often, so a wider window fills 3-5 cards.
+  - other sections (music, movies, games, books, gadgets, science, medicine): previous
+    14 days (336h) — these domains publish AI news less often, so a wider window fills
+    3-5 cards. medicine is here on purpose: trial readouts, FDA clearances and journal
+    papers do not land daily, and a two-week-old clearance is still news.
 Usage: freshness.py <published_iso> <now_iso> [section]   (section defaults to design)
 """
 import sys

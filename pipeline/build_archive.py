@@ -26,12 +26,12 @@ ROOT = os.path.dirname(HERE)
 
 from i18n_text import LANGS, flatten
 
-SECTION_ORDER = ["design", "music", "movies", "games", "books", "gadgets",
-                 "science", "politics", "marketing"]
-SECTION_LABELS = {"design": "Design", "music": "Music", "movies": "Movies",
-                  "games": "Games", "books": "Books", "gadgets": "Gadgets",
-                  "science": "Science", "politics": "Politics",
-                  "marketing": "Marketing"}
+SECTION_ORDER = ["design", "marketing", "music", "movies", "games",
+                 "books", "gadgets", "science", "medicine", "politics"]
+SECTION_LABELS = {"design": "Design", "marketing": "Marketing", "music": "Music",
+                  "movies": "Movies", "games": "Games", "books": "Books",
+                  "gadgets": "Gadgets", "science": "Science",
+                  "medicine": "Medicine", "politics": "Politics"}
 
 KEEP = ("id", "headline", "body", "tool", "source", "url", "accent", "motif",
         "image", "source_lang")

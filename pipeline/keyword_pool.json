@@ -104,6 +104,58 @@
         ]
       }
     },
+    "marketing": {
+      "core": [
+        "AI marketing",
+        "AI advertising",
+        "AI 마케팅"
+      ],
+      "keywords": [
+        "generative ad creative",
+        "AI ad generation",
+        "AI video ad",
+        "brand safe AI",
+        "synthetic spokesperson",
+        "AI influencer brand",
+        "AI creative automation",
+        "dynamic creative optimization",
+        "AI UGC ads",
+        "AI 광고 제작",
+        "AI bidding",
+        "Performance Max",
+        "Advantage+ campaigns",
+        "AI budget allocation",
+        "incrementality testing AI",
+        "AI attribution",
+        "cookieless targeting",
+        "AI audience modeling",
+        "ad fraud detection AI",
+        "marketing mix modeling AI",
+        "AI Overviews traffic",
+        "answer engine optimization",
+        "generative engine optimization",
+        "zero click search",
+        "AI search referral",
+        "publisher licensing AI",
+        "chatbot shopping",
+        "AI product discovery",
+        "검색 트래픽 감소 AI",
+        "AI agent CRM",
+        "AI customer support agent",
+        "AI email marketing",
+        "personalization engine AI",
+        "conversational commerce AI",
+        "AI chatbot sales",
+        "AI loyalty program",
+        "retail media AI",
+        "AI 고객 응대",
+        "AI ad disclosure rule",
+        "FTC AI advertising",
+        "AI endorsement guidelines",
+        "deepfake ad ban",
+        "AI 광고 표시 의무"
+      ]
+    },
     "music": {
       "core": [
         "AI music",
@@ -137,6 +189,38 @@
         "AI music video"
       ]
     },
+    "movies": {
+      "core": [
+        "AI film",
+        "AI 영화",
+        "AI filmmaking"
+      ],
+      "keywords": [
+        "generative video film",
+        "AI VFX",
+        "Runway film",
+        "Sora film",
+        "virtual production AI",
+        "AI de-aging",
+        "AI storyboard previs",
+        "AI screenwriting",
+        "deepfake film",
+        "AI color grading",
+        "AI rotoscoping",
+        "AI dubbing lip sync",
+        "AI short film",
+        "text-to-video film",
+        "AI motion capture",
+        "neural rendering film",
+        "AI trailer",
+        "AI film restoration",
+        "Kling film",
+        "Luma film",
+        "AI animation film",
+        "AI scene generation",
+        "Hollywood AI"
+      ]
+    },
     "games": {
       "core": [
         "AI game",
@@ -168,38 +252,6 @@
         "AI localization games",
         "AI bug detection games",
         "vibe coding games"
-      ]
-    },
-    "movies": {
-      "core": [
-        "AI film",
-        "AI 영화",
-        "AI filmmaking"
-      ],
-      "keywords": [
-        "generative video film",
-        "AI VFX",
-        "Runway film",
-        "Sora film",
-        "virtual production AI",
-        "AI de-aging",
-        "AI storyboard previs",
-        "AI screenwriting",
-        "deepfake film",
-        "AI color grading",
-        "AI rotoscoping",
-        "AI dubbing lip sync",
-        "AI short film",
-        "text-to-video film",
-        "AI motion capture",
-        "neural rendering film",
-        "AI trailer",
-        "AI film restoration",
-        "Kling film",
-        "Luma film",
-        "AI animation film",
-        "AI scene generation",
-        "Hollywood AI"
       ]
     },
     "books": {
@@ -332,6 +384,49 @@
         "AI 연구 자동화"
       ]
     },
+    "medicine": {
+      "core": [
+        "AI diagnosis",
+        "clinical AI",
+        "FDA AI clearance"
+      ],
+      "rotate": [
+        "AI radiology",
+        "medical imaging AI",
+        "AI drug discovery clinical trial",
+        "AI pathology",
+        "ambient clinical documentation",
+        "AI scribe hospital",
+        "AI triage emergency",
+        "AI sepsis prediction",
+        "electronic health record AI",
+        "AI medical device software",
+        "SaMD regulation",
+        "AI prior authorization",
+        "AI mental health therapy",
+        "AI dermatology",
+        "AI ophthalmology screening",
+        "AI cardiology ECG",
+        "AI oncology treatment planning",
+        "protein design drug trial",
+        "AI antibiotic discovery",
+        "surgical robot AI",
+        "AI patient safety bias",
+        "LLM clinical decision support",
+        "AI genomics diagnosis",
+        "telehealth AI",
+        "AI nursing workload",
+        "medical AI liability",
+        "AI vaccine design",
+        "AI rare disease diagnosis",
+        "hospital AI deployment",
+        "AI medical licensing exam",
+        "의료 AI",
+        "AI 진단",
+        "AI 신약개발",
+        "AI 영상판독"
+      ]
+    },
     "politics": {
       "core": [
         "AI policy",
@@ -373,58 +468,6 @@
         "반도체 수출규제",
         "AI 패권",
         "소버린 AI"
-      ]
-    },
-    "marketing": {
-      "core": [
-        "AI marketing",
-        "AI advertising",
-        "AI 마케팅"
-      ],
-      "keywords": [
-        "generative ad creative",
-        "AI ad generation",
-        "AI video ad",
-        "brand safe AI",
-        "synthetic spokesperson",
-        "AI influencer brand",
-        "AI creative automation",
-        "dynamic creative optimization",
-        "AI UGC ads",
-        "AI 광고 제작",
-        "AI bidding",
-        "Performance Max",
-        "Advantage+ campaigns",
-        "AI budget allocation",
-        "incrementality testing AI",
-        "AI attribution",
-        "cookieless targeting",
-        "AI audience modeling",
-        "ad fraud detection AI",
-        "marketing mix modeling AI",
-        "AI Overviews traffic",
-        "answer engine optimization",
-        "generative engine optimization",
-        "zero click search",
-        "AI search referral",
-        "publisher licensing AI",
-        "chatbot shopping",
-        "AI product discovery",
-        "검색 트래픽 감소 AI",
-        "AI agent CRM",
-        "AI customer support agent",
-        "AI email marketing",
-        "personalization engine AI",
-        "conversational commerce AI",
-        "AI chatbot sales",
-        "AI loyalty program",
-        "retail media AI",
-        "AI 고객 응대",
-        "AI ad disclosure rule",
-        "FTC AI advertising",
-        "AI endorsement guidelines",
-        "deepfake ad ban",
-        "AI 광고 표시 의무"
       ]
     }
   }
