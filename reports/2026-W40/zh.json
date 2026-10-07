@@ -1,37 +1,38 @@
 {
   "edition": "2026-W40",
   "lang": "zh",
-  "subject": "NASA 不再辨别，直接禁用 AI 图像",
-  "thesis": "这一周 AI 规则又多了几条，却没人出钱请人去核查有没有被遵守，于是台湾的选举深度伪造法一份下架请求都没收到，NASA 干脆不再分辨真假，直接全面禁用 AI 生成图像。",
-  "ground": "UC 图书馆买进的 Springer Nature 电子书里混着机器摘要出来的书，卖的一方和买的一方都没有读过并把它拦下。Musixmatch 用版权检测工具 Sentinel 把 Suno 变成了客户，而核查真正转得起来，只在有这样一家公司付钱的时候。",
+  "subject": "UC 买下了 Springer 的机器摘要书",
+  "collage": "https://axitnow.com/pipeline/media/mail/collage-2026-W40.jpg",
+  "insight": "AI 省掉中间的核查，核查的成本不会消失，只是转到最末端使用它的人身上",
+  "article": "UC 图书馆花钱买下的 Springer Nature 电子书里，混进了机器摘要出来的书；AudioEye 审过的 15 个用 AI 做的网站，没有一个过得了 WCAG A。台湾的选举深度伪造法一份删除申请都没收到，而读了错误 AI 摘要的人，记忆准确率只有 44.8% —— 省下功夫的一方和承担错误的一方，从头到尾就不是同一方。所以从这周起，别再数 AI 替你省下多少工时，去把现在替你做核查的那个人的名字写下来 —— 写不出名字，做的人就是你的客户，而客户不会寄账单，只会走掉。",
   "evidence": [
-    {
-      "section": "politics",
-      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
-      "url": "https://axitnow.com/zh/?c=politics:taiwandeepfake",
-      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "法律立了却没有钱养执法的人，下架请求就一件也不会来——这正撑住命题的前半句。"
-    },
-    {
-      "section": "design",
-      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
-      "url": "https://axitnow.com/zh/?c=design:design-nasa-brand-trust-ai-imagery",
-      "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "无力逐张核查时，取代规则的是什么，NASA 的决定给出了答案。"
-    },
     {
       "section": "books",
       "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
       "url": "https://axitnow.com/zh/?c=books:books-springer-ai-slop",
       "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "没人读稿子，连什么东西通过了都要等它摆上大学书架才知道。"
+      "role": ""
     },
     {
-      "section": "music",
-      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
-      "url": "https://axitnow.com/zh/?c=music:music-musixmatch-lyrics-llm",
-      "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "Suno 成为 Sentinel 的客户，说明核查不是免费的，而是得花钱买的商品。"
+      "section": "design",
+      "headline": "AI-built 15곳 모두 접근성 불합격",
+      "url": "https://axitnow.com/zh/?c=design:ai-sites-wcag-audit",
+      "image": "https://axitnow.com/pipeline/media/mail/ai-sites-wcag-audit.jpg",
+      "role": ""
+    },
+    {
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/zh/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
+      "role": ""
+    },
+    {
+      "section": "science",
+      "headline": "틀린 AI 요약이 사람 기억을 흐린다",
+      "url": "https://axitnow.com/zh/?c=science:science-ai-summary-memory",
+      "image": "https://axitnow.com/pipeline/media/mail/science-ai-summary-memory.jpg",
+      "role": ""
     }
   ]
 }

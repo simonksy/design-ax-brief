@@ -5,8 +5,8 @@ import { sendWeekly, isoWeekLabel } from "../lib/weekly_send.js";
 import { setPrefs } from "../lib/mail_prefs.js";
 
 const BLOCKS = {
-  thesis: "관통 명제 한 문장",
-  ground: "그 명제의 논거.",
+  insight: "핵심 인사이트 한 줄",
+  article: "에디터가 쓴 짧은 글.",
   evidence: [{ headline: "무료사례", section: "design", url: "https://x/c1",
                image: "https://x/i1.jpg", role: "명제의 앞쪽을 떠받친다" },
              { headline: "잠긴사례", section: "music", url: "https://x/c2",
@@ -47,18 +47,18 @@ describe("sendWeekly", () => {
     await setPrefs(env.DB, "free@x.com", { weekly: 1 });
     await sendWeekly(env, "2026-W42", BLOCKS);
     const mail = env.__sentReports.find(m => m.to === "free@x.com");
-    expect(mail.html).toContain("관통 명제 한 문장");
+    expect(mail.html).toContain("핵심 인사이트 한 줄");
     expect(mail.html).toContain("무료사례");
     expect(mail.html).not.toContain("잠긴사례");
   });
 
   // Review Focus 3 — 사례를 한 건도 못 뽑은 주에도 명제는 나가야 한다.
-  it("사례가 비어도 명제만으로 메일은 나간다", async () => {
+  it("사례가 비어도 인사이트만으로 메일은 나간다", async () => {
     await setPrefs(env.DB, "partial@x.com", { weekly: 1 });
     await sendWeekly(env, "2026-W43", { ...BLOCKS, evidence: [] });
     const mail = env.__sentReports.find(m => m.to === "partial@x.com");
     expect(mail).toBeDefined();
-    expect(mail.html).toContain("관통 명제 한 문장");
+    expect(mail.html).toContain("핵심 인사이트 한 줄");
   });
 
   // Review Focus 5 — 한 통의 실패가 나머지를 막지 않는다.
@@ -91,10 +91,10 @@ describe("sendWeekly", () => {
     await setPrefs(env.DB, "ko@x.com", { weekly: 1, lang: "ko" });
     await setPrefs(env.DB, "en@x.com", { weekly: 1, lang: "en" });
     await sendWeekly(env, "2026-W46", {
-      ko: { ...BLOCKS, thesis: "한국어 명제" },
-      en: { ...BLOCKS, thesis: "English thesis" },
+      ko: { ...BLOCKS, insight: "한국어 인사이트" },
+      en: { ...BLOCKS, insight: "English insight" },
     });
-    expect(env.__sentReports.find(m => m.to === "ko@x.com").html).toContain("한국어 명제");
-    expect(env.__sentReports.find(m => m.to === "en@x.com").html).toContain("English thesis");
+    expect(env.__sentReports.find(m => m.to === "ko@x.com").html).toContain("한국어 인사이트");
+    expect(env.__sentReports.find(m => m.to === "en@x.com").html).toContain("English insight");
   });
 });

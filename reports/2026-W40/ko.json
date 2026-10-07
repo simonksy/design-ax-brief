@@ -1,37 +1,38 @@
 {
   "edition": "2026-W40",
   "lang": "ko",
-  "subject": "NASA는 확인 대신 AI 이미지를 금지했다",
-  "thesis": "이번 주에도 AI 규칙은 늘었지만 지켰는지 확인하는 데 돈을 쓰는 곳이 없어서, 대만의 선거 딥페이크법에는 삭제 요청이 한 건도 들어오지 않았고 NASA는 가려내는 일을 접고 AI 이미지를 아예 금지했다.",
-  "ground": "UC 도서관이 사들인 Springer Nature 전자책에는 기계가 요약한 책이 섞여 있었고, 파는 쪽도 사는 쪽도 그걸 읽어 걸러내지 않았다. Musixmatch는 저작권 탐지 도구 Sentinel로 Suno를 고객으로 받았는데, 이렇게 돈을 내는 회사가 있을 때만 확인이 실제로 돌아간다.",
+  "subject": "Springer 기계 요약본을 UC가 샀다",
+  "collage": "https://axitnow.com/pipeline/media/mail/collage-2026-W40.jpg",
+  "insight": "AI가 중간 검수를 지우면 그 비용은 없어지는 게 아니라 맨 끝에서 받아 쓰는 사람에게 넘어간다",
+  "article": "UC 도서관이 돈을 내고 사들인 Springer Nature 전자책에는 기계가 요약해 만든 책이 섞여 있었고, AudioEye가 검사한 AI 사이트 15곳은 한 곳도 WCAG A등급을 넘지 못했다. 대만의 선거 딥페이크법에는 삭제 요청이 한 건도 들어오지 않았고, 틀린 AI 요약을 읽은 사람의 기억 정확도는 44.8%에 그쳤다 — 일을 덜어낸 쪽과 틀린 것을 떠안은 쪽이 처음부터 서로 다른 사람이다. 그러니 이번 주부터는 AI가 줄여 준 시간을 세는 대신 그 확인을 지금 누가 대신 하고 있는지 이름을 적어 보라 — 적을 이름이 없다면 그 일은 당신 고객이 하고 있고, 고객은 청구서를 보내지 않고 그냥 떠난다.",
   "evidence": [
-    {
-      "section": "politics",
-      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
-      "url": "https://axitnow.com/ko/?c=politics:taiwandeepfake",
-      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "법을 만들어도 단속할 사람에게 돈이 가지 않으면 삭제 요청이 한 건도 들어오지 않는다는 앞 절을 이 사례가 떠받친다."
-    },
-    {
-      "section": "design",
-      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
-      "url": "https://axitnow.com/ko/?c=design:design-nasa-brand-trust-ai-imagery",
-      "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "하나하나 확인할 여력이 없으면 규칙 대신 전면 금지가 나온다는 것을 NASA의 결정이 보여준다."
-    },
     {
       "section": "books",
       "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
       "url": "https://axitnow.com/ko/?c=books:books-springer-ai-slop",
       "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "원고를 읽는 사람을 아무도 두지 않으면 무엇이 통과했는지도 모른 채 대학 도서관 서가까지 간다는 것을 이 전자책이 드러낸다."
+      "role": ""
     },
     {
-      "section": "music",
-      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
-      "url": "https://axitnow.com/ko/?c=music:music-musixmatch-lyrics-llm",
-      "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "확인이 공짜가 아니라 돈 받고 파는 상품이라는 것은 Suno가 Sentinel의 고객이 된 데서 알 수 있다."
+      "section": "design",
+      "headline": "AI-built 15곳 모두 접근성 불합격",
+      "url": "https://axitnow.com/ko/?c=design:ai-sites-wcag-audit",
+      "image": "https://axitnow.com/pipeline/media/mail/ai-sites-wcag-audit.jpg",
+      "role": ""
+    },
+    {
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/ko/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
+      "role": ""
+    },
+    {
+      "section": "science",
+      "headline": "틀린 AI 요약이 사람 기억을 흐린다",
+      "url": "https://axitnow.com/ko/?c=science:science-ai-summary-memory",
+      "image": "https://axitnow.com/pipeline/media/mail/science-ai-summary-memory.jpg",
+      "role": ""
     }
   ]
 }

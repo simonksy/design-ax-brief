@@ -124,7 +124,7 @@ def _apply(answers, archive=ARCH):
 
 
 def test_evidence_card_becomes_deep_link_and_absolute_image():
-    got = _apply({"ko": {"thesis": "명제", "ground": "논거",
+    got = _apply({"ko": {"insight": "인사이트", "article": "글",
                          "evidence": [{"card": "marketing/ads", "role": "떠받친다"}]}})
     e = got["evidence"][0]
     assert e["url"] == "https://axitnow.com/ko/?c=marketing:ads", e
@@ -156,6 +156,55 @@ def test_unmailable_formats_still_yield_nothing():
 # 2열에서는 두 칸의 그림 높이가 다르면 글줄이 어긋난다. 세로 이미지가 한 칸에
 # 오면(카드 영상 포스터가 608x1080이다) 아예 깨져 보인다. 원본을 자르지 않고
 # 메일 배경색으로 여백을 채워 같은 상자에 넣는다 — 도표의 라벨이 잘리면 안 된다.
+# 메일 맨 위에는 사례 넉 장을 한 장으로 합친 썸네일이 온다. 넉 장을 따로 싣던
+# 구조는 글이 너무 많았다 — 한 장으로 묶고 그 아래 인사이트 한 줄과 짧은 글만 둔다.
+def test_collage_is_one_image_of_the_right_size():
+    import subprocess, tempfile, shutil
+    from build_report import build_collage, MAIL_WIDTH, MAIL_HEIGHT, _dims
+    if not (shutil.which("sips") and shutil.which("ffmpeg")):
+        return
+    with tempfile.TemporaryDirectory() as root:
+        media = os.path.join(root, "pipeline", "media", "mail")
+        os.makedirs(media)
+        rels = []
+        for i in range(4):
+            rel = f"pipeline/media/mail/t{i}.jpg"
+            subprocess.run(["sips", "-s", "format", "jpeg",
+                            "-z", str(MAIL_HEIGHT), str(MAIL_WIDTH),
+                            "/System/Library/CoreServices/DefaultDesktop.heic",
+                            "--out", os.path.join(root, rel)],
+                           check=True, capture_output=True)
+            rels.append(rel)
+        out = build_collage(rels, "2026-W40", root=root)
+        assert out, "콜라주를 만들지 못했다"
+        full = os.path.join(root, out)
+        assert os.path.exists(full), full
+        assert _dims(full) == (MAIL_WIDTH, MAIL_HEIGHT), _dims(full)
+
+
+def test_collage_needs_no_full_set():
+    """사례가 넷이 안 되는 주에도 메일은 나가야 한다 — 빈 칸은 배경색으로 채운다."""
+    import subprocess, tempfile, shutil
+    from build_report import build_collage, MAIL_WIDTH, MAIL_HEIGHT, _dims
+    if not (shutil.which("sips") and shutil.which("ffmpeg")):
+        return
+    with tempfile.TemporaryDirectory() as root:
+        media = os.path.join(root, "pipeline", "media", "mail")
+        os.makedirs(media)
+        rel = "pipeline/media/mail/only.jpg"
+        subprocess.run(["sips", "-s", "format", "jpeg",
+                        "-z", str(MAIL_HEIGHT), str(MAIL_WIDTH),
+                        "/System/Library/CoreServices/DefaultDesktop.heic",
+                        "--out", os.path.join(root, rel)], check=True, capture_output=True)
+        out = build_collage([rel], "2026-W41", root=root)
+        assert out and _dims(os.path.join(root, out)) == (MAIL_WIDTH, MAIL_HEIGHT)
+
+
+def test_collage_without_images_is_nothing():
+    from build_report import build_collage
+    assert build_collage([], "2026-W40") == ""
+
+
 def test_derivative_has_a_fixed_aspect_ratio():
     import subprocess, tempfile, shutil
     from build_report import ensure_mail_image, MAIL_WIDTH, MAIL_HEIGHT
@@ -205,29 +254,35 @@ def test_missing_source_falls_back_to_the_original():
     """축소본을 못 만들면 원본 주소라도 내보낸다 — 그림 없는 메일보다 무거운
     그림이 낫다."""
     arch = [dict(ARCH[0], image="pipeline/media/nope.jpg")]
-    got = _apply({"ko": {"thesis": "t", "ground": "g",
+    got = _apply({"ko": {"insight": "i", "article": "a",
                          "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
     assert got["evidence"][0]["image"] ==         "https://axitnow.com/pipeline/media/nope.jpg", got
 
 
-def test_thesis_and_ground_pass_through():
-    got = _apply({"ko": {"thesis": "관통 명제", "ground": "그 논거",
+def test_insight_and_article_pass_through():
+    got = _apply({"ko": {"insight": "핵심 인사이트", "article": "에디터의 글",
                          "evidence": []}})
-    assert got["thesis"] == "관통 명제" and got["ground"] == "그 논거", got
+    assert got["insight"] == "핵심 인사이트" and got["article"] == "에디터의 글", got
+
+
+# 콜라주가 없는 주에도 메일은 나가야 한다 — 빈 문자열이면 렌더러가 그림 없이 간다.
+def test_no_evidence_means_no_collage():
+    got = _apply({"ko": {"insight": "i", "article": "a", "evidence": []}})
+    assert got["collage"] == "", got
 
 
 # 옛 형식(change/sections/dots/next)이 남으면 발송 쪽 게이트가 thesis를 못 찾아
 # 그 주 메일이 조용히 건너뛰어진다. 절반만 이주한 상태를 막는다.
 def test_legacy_keys_are_gone():
-    got = _apply({"ko": {"thesis": "t", "ground": "g", "evidence": []}})
-    for k in ("change", "links", "sections", "dots", "next"):
+    got = _apply({"ko": {"insight": "i", "article": "a", "evidence": []}})
+    for k in ("change", "links", "sections", "dots", "next", "thesis", "ground"):
         assert k not in got, (k, got)
 
 
 # 미디어를 못 구한 카드도 사례로 뽑힐 수 있다. 사례 자체는 남아야 한다.
 def test_card_without_image_still_becomes_evidence():
     arch = [dict(ARCH[0], image=None)]
-    got = _apply({"ko": {"thesis": "t", "ground": "g",
+    got = _apply({"ko": {"insight": "i", "article": "a",
                          "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
     assert len(got["evidence"]) == 1 and got["evidence"][0]["image"] == "", got
 
@@ -236,14 +291,14 @@ def test_card_without_image_still_becomes_evidence():
 def test_unmailable_image_formats_are_dropped():
     for ext in ("svg", "webp"):
         arch = [dict(ARCH[0], image=f"pipeline/media/ads.{ext}")]
-        got = _apply({"ko": {"thesis": "t", "ground": "g",
+        got = _apply({"ko": {"insight": "i", "article": "a",
                              "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
         assert got["evidence"][0]["image"] == "", (ext, got)
 
 
 # 없는 카드를 가리키면 링크를 만들지 않는다 — URL을 지어내는 것보다 빠지는 게 낫다.
 def test_unknown_card_is_skipped():
-    got = _apply({"ko": {"thesis": "t", "ground": "g",
+    got = _apply({"ko": {"insight": "i", "article": "a",
                          "evidence": [{"card": "marketing/nope", "role": "r"},
                                       {"card": "marketing/ads", "role": "r2"}]}})
     assert len(got["evidence"]) == 1 and got["evidence"][0]["role"] == "r2", got
