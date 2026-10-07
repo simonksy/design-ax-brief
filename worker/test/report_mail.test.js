@@ -33,10 +33,61 @@ describe("renderReport", () => {
     expect(html.indexOf("모델에 들어가는")).toBeLessThan(html.indexOf("항소법원"));
   });
 
-  // 제목은 판본 번호가 아니라 명제다. 받은메일함에서 열어 볼 이유가 거기 있다.
-  it("메일 제목이 명제를 담는다", () => {
+  /* 제목은 판본 번호가 아니라 그 주의 요점이다 — 받은메일함에서 열어 볼 이유가
+     거기 있다. 다만 명제는 구체적으로 쓰라고 했더니 길어졌고(이름과 숫자가 자리를
+     먹는다), 받은메일함은 70자쯤만 보여 준다. 그래서 제목용 짧은 줄을 따로 받는다. */
+  it("제목용 줄이 있으면 그걸 쓴다", () => {
+    const { subject } = renderReport({ ...base, entitled: true,
+      blocks: { ...BLOCKS, subject: "값이 붙기 시작한 학습 데이터" } });
+    expect(subject).toContain("값이 붙기 시작한 학습 데이터");
+    expect(subject).not.toContain("모델에 들어가는");
+  });
+
+  it("제목용 줄이 없으면 명제로 떨어진다", () => {
     const { subject } = renderReport({ ...base, entitled: true });
     expect(subject).toContain("모델에 들어가는 재료에 값이 붙기 시작했다");
+  });
+
+  /* 잘릴 땐 단어 한가운데가 아니라 숨 쉬는 자리에서 끊는다. 한국어 문장은 어차피
+     한글로 끝나므로 '한글 뒤에 말줄임'은 정상이다 — 검사할 것은 끊은 자리가 원문의
+     경계냐는 것이다. 쉼표가 있으면 쉼표를 고른다: 절이 끝나는 자리가 가장 잘 읽힌다. */
+  it("긴 제목은 단어 중간이 아니라 경계에서 끊는다", () => {
+    const long = "이번 주에도 AI 규칙은 늘었지만 지켰는지 확인하는 데 돈을 쓰는 곳이 없어서, "
+      + "대만의 선거 딥페이크법에는 삭제 요청이 한 건도 들어오지 않았고 NASA는 금지했다";
+    const { subject } = renderReport({ ...base, entitled: true,
+      blocks: { ...BLOCKS, thesis: long } });
+    expect(subject.length).toBeLessThanOrEqual(96);
+    expect(subject.endsWith("…")).toBe(true);
+    const body = subject.slice(0, -1);                 // 말줄임을 떼면
+    const full = `주간 인사이트 · ${long}`;
+    expect(full.startsWith(body)).toBe(true);          // 원문의 앞부분이고
+    expect(full[body.length]).toMatch(/[ ,，、]/);      // 끊은 자리가 경계다
+    expect(subject).toContain("돈을 쓰는 곳이 없어서");  // 첫 절은 온전히 남는다
+  });
+
+  /* 사례는 2열로 깐다. 메일에서 2열은 테이블이라야 버틴다 — Outlook 데스크톱은
+     Word 엔진이라 flex도 inline-block도 못 읽고 한 줄로 쏟아 버린다. */
+  it("사례를 2열 테이블로 깐다", () => {
+    const { html } = renderReport({ ...base, entitled: true });
+    const rows = html.match(/<tr\b/g) || [];
+    const cells = html.match(/<td\b/g) || [];
+    expect(rows.length).toBe(2);      // 사례 3건 -> 2행
+    expect(cells.length).toBe(4);     // 마지막 칸은 빈 칸
+  });
+
+  it("사례가 넷이면 2행 4칸이 꽉 찬다", () => {
+    const four = [...BLOCKS.evidence, { ...BLOCKS.evidence[0], headline: "네번째" }];
+    const { html } = renderReport({ ...base, entitled: true,
+      blocks: { ...BLOCKS, evidence: four } });
+    expect((html.match(/<tr\b/g) || []).length).toBe(2);
+    expect(html).toContain("네번째");
+  });
+
+  // 무료 수신자는 사례가 하나뿐이다. 그 한 장을 반쪽 칸에 가두면 작고 초라해진다.
+  it("사례가 하나뿐이면 2열로 쪼개지 않는다", () => {
+    const { html } = renderReport({ ...base, entitled: false });
+    expect(html).not.toMatch(/<table\b/);
+    expect(html).toContain("항소법원, 톰슨 로이터 승소 유지");
   });
 
   it("Pro는 사례 전부를 이미지와 함께 받는다", () => {

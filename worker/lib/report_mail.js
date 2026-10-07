@@ -39,24 +39,68 @@ const T = {
 
 const SUBJECT_MAX = 96;
 
+/* 잘라야 할 땐 글자 한가운데가 아니라 숨 쉬는 자리에서 끊는다 — 쉼표나 띄어쓰기.
+   한국어·일본어·중국어는 띄어쓰기가 드물거나 없어서 쉼표를 먼저 본다. 끊을 자리가
+   앞쪽에 너무 멀면 그냥 자른다: 반쪽짜리 제목보다 짧은 제목이 낫다. */
+function clip(s, max) {
+  if (s.length <= max) return s;
+  const head = s.slice(0, max - 1);
+  // 쉼표를 먼저 본다 — 절이 끝나는 자리가 가장 잘 읽힌다. 띄어쓰기는 차선이고,
+  // 둘 다 너무 앞이면 그냥 자른다: 반쪽짜리 제목보다 짧은 제목이 낫다.
+  const comma = Math.max(head.lastIndexOf(", "), head.lastIndexOf("，"),
+                         head.lastIndexOf("、"));
+  const space = head.lastIndexOf(" ");
+  const cut = comma > max * 0.45 ? comma : (space > max * 0.45 ? space : -1);
+  return (cut > 0 ? head.slice(0, cut) : head.trimEnd()) + "…";
+}
+
 /* 사례 하나 = 이미지 + 헤드라인 링크 + "이 사례가 명제의 어디를 떠받치는가" 한 줄.
    이미지를 못 구한 카드도 사례로 뽑힐 수 있으므로 <img>는 있을 때만 넣는다 —
-   빈 src는 클라이언트마다 깨진 아이콘을 다르게 그린다. */
-function evidenceBlock(e) {
+   빈 src는 클라이언트마다 깨진 아이콘을 다르게 그린다.
+
+   `w`는 이미지의 픽셀 폭이다. 2열일 때와 1열일 때가 다르고, width 속성과
+   max-width를 함께 줘야 한다: 속성만 있으면 좁은 화면에서 넘치고, max-width만
+   있으면 Outlook이 원본 크기로 늘린다. */
+function evidenceBlock(e, w) {
   const out = [];
   if (e.image) {
     out.push(`<a href="${esc(e.url)}" style="display:block;text-decoration:none">` +
-      `<img src="${esc(e.image)}" alt="" width="516" ` +
-      `style="display:block;width:100%;max-width:516px;height:auto;border:0;border-radius:12px"></a>`);
+      `<img src="${esc(e.image)}" alt="" width="${w}" ` +
+      `style="display:block;width:100%;max-width:${w}px;height:auto;border:0;border-radius:10px"></a>`);
   }
   if (e.section) {
-    out.push(`<div style="margin:12px 0 4px;font-size:11px;letter-spacing:.08em;` +
+    out.push(`<div style="margin:10px 0 4px;font-size:11px;letter-spacing:.08em;` +
       `text-transform:uppercase;color:#9a9284">${esc(e.section)}</div>`);
   }
-  out.push(`<div style="margin:0 0 6px;font-size:17px;line-height:1.4;font-weight:600">` +
+  out.push(`<div style="margin:0 0 6px;font-size:16px;line-height:1.4;font-weight:600">` +
     `<a href="${esc(e.url)}" style="color:#1c1a18;text-decoration:none">${esc(e.headline)}</a></div>`);
-  out.push(`<p style="margin:0;font-size:14px;line-height:1.65;color:#5f5953">${esc(e.role)}</p>`);
-  return `<div style="margin:0 0 30px">${out.join("")}</div>`;
+  out.push(`<p style="margin:0;font-size:13px;line-height:1.6;color:#5f5953">${esc(e.role)}</p>`);
+  return out.join("");
+}
+
+/* 사례를 2열로 깐다.
+
+   메일에서 다단은 테이블이라야 버틴다 — Outlook 데스크톱은 Word 엔진이라 flex도
+   inline-block도 못 읽고 칸을 한 줄로 쏟아 버린다. <style> 블록과 미디어 쿼리도
+   클라이언트마다 지워지므로, 좁은 화면에서 접히게 만들 수단이 없다. 그래서 칸 폭을
+   퍼센트로 두고 이미지가 같이 줄게 한다.
+
+   사례가 하나뿐이면(= 무료 수신자) 쪼개지 않는다. 한 장을 반쪽 칸에 가두면 작고
+   초라해지고, 그 한 장이 구독을 설득해야 하는 유일한 그림이다. */
+function evidenceGrid(list) {
+  if (list.length === 1) {
+    return `<div style="margin:0 0 28px">${evidenceBlock(list[0], 516)}</div>`;
+  }
+  const rows = [];
+  for (let i = 0; i < list.length; i += 2) {
+    const pair = [list[i], list[i + 1]];
+    const cells = pair.map((e, j) =>
+      `<td width="50%" valign="top" style="width:50%;padding:0 ${j === 0 ? "10px 28px 0" : "0 28px 10px"}">` +
+      (e ? evidenceBlock(e, 248) : "") + `</td>`).join("");
+    rows.push(`<tr>${cells}</tr>`);
+  }
+  return `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" ` +
+    `style="width:100%;border-collapse:collapse">${rows.join("")}</table>`;
 }
 
 export function renderReport({ edition, lang, blocks, entitled, unsubUrl }) {
@@ -80,7 +124,7 @@ export function renderReport({ edition, lang, blocks, entitled, unsubUrl }) {
   if (shown.length) {
     out.push(`<div style="margin:34px 0 18px;padding-top:18px;border-top:1px solid #e3dccf;` +
       `font-size:12px;letter-spacing:.06em;color:#9a9284">${esc(t.cases)}</div>`);
-    for (const e of shown) out.push(evidenceBlock(e));
+    out.push(evidenceGrid(shown));
   }
   if (held > 0) {
     out.push(`<p style="margin:0;padding:16px 18px;border-radius:12px;background:#f1ece4;` +
@@ -97,9 +141,9 @@ ${out.join("")}
 <p style="margin:0;font-size:12px"><a href="${esc(unsubUrl)}" style="color:#8a8377">${esc(t.unsub)}</a></p>
 </div></body></html>`;
 
-  // 제목은 판본 번호가 아니라 명제다 — 받은메일함에서 열어 볼 이유가 거기 있다.
-  const thesis = String(b.thesis || "").trim();
-  let subject = `${t.prefix} · ${thesis}`;
-  if (subject.length > SUBJECT_MAX) subject = subject.slice(0, SUBJECT_MAX - 1).trimEnd() + "…";
-  return { subject, html };
+  /* 제목은 판본 번호가 아니라 그 주의 요점이다 — 받은메일함에서 열어 볼 이유가
+     거기 있다. 명제를 구체적으로 쓰라고 하면서 길어졌으므로(이름과 숫자가 자리를
+     먹는다) 제목용 짧은 줄을 따로 받고, 없으면 명제로 떨어진다. */
+  const line = String(b.subject || b.thesis || "").trim();
+  return { subject: clip(`${t.prefix} · ${line}`, SUBJECT_MAX), html };
 }

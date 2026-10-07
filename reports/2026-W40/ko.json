@@ -1,36 +1,37 @@
 {
   "edition": "2026-W40",
   "lang": "ko",
-  "thesis": "이번 주 AI 규칙은 또 늘었는데, 막힌 자리는 규칙이 아니라 지켜졌는지 확인하는 비용 쪽이었다.",
-  "ground": "선을 그은 문장은 쉽게 늘어난다. 어려운 쪽은 그 선을 넘었는지 누가 무슨 돈으로 들여다보느냐이고, 이번 주 카드에서는 그 값을 치를 데가 없는 자리마다 규칙이 글자로만 남거나 통째 금지로 바뀌었다.",
+  "subject": "NASA는 확인 대신 AI 이미지를 금지했다",
+  "thesis": "이번 주에도 AI 규칙은 늘었지만 지켰는지 확인하는 데 돈을 쓰는 곳이 없어서, 대만의 선거 딥페이크법에는 삭제 요청이 한 건도 들어오지 않았고 NASA는 가려내는 일을 접고 AI 이미지를 아예 금지했다.",
+  "ground": "UC 도서관이 사들인 Springer Nature 전자책에는 기계가 요약한 책이 섞여 있었고, 파는 쪽도 사는 쪽도 그걸 읽어 걸러내지 않았다. Musixmatch는 저작권 탐지 도구 Sentinel로 Suno를 고객으로 받았는데, 이렇게 돈을 내는 회사가 있을 때만 확인이 실제로 돌아간다.",
   "evidence": [
     {
       "section": "politics",
       "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
       "url": "https://axitnow.com/ko/?c=politics:taiwandeepfake",
       "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "선거용 딥페이크법이 이미 있는데 삭제 요청은 한 건도 없었다는 대목이, 막힌 쪽은 규칙이 아니라는 명제의 앞 절을 그대로 떠받친다."
-    },
-    {
-      "section": "books",
-      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
-      "url": "https://axitnow.com/ko/?c=books:books-springer-ai-slop",
-      "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "확인 값을 아무도 치르지 않으면 그 부담이 사슬 맨 아래 구매자에게 떨어진다는 부분을 Springer 전자책을 사들인 도서관이 받친다."
+      "role": "법을 만들어도 단속할 사람에게 돈이 가지 않으면 삭제 요청이 한 건도 들어오지 않는다는 앞 절을 이 사례가 떠받친다."
     },
     {
       "section": "design",
       "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
       "url": "https://axitnow.com/ko/?c=design:design-nasa-brand-trust-ai-imagery",
       "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "건별로 확인하는 값이 너무 커지면 조직은 확인을 접고 통째 금지를 고른다는 쪽을, 신뢰가 곧 자산인 NASA의 선택이 보여 준다."
+      "role": "하나하나 확인할 여력이 없으면 규칙 대신 전면 금지가 나온다는 것을 NASA의 결정이 보여준다."
+    },
+    {
+      "section": "books",
+      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
+      "url": "https://axitnow.com/ko/?c=books:books-springer-ai-slop",
+      "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
+      "role": "원고를 읽는 사람을 아무도 두지 않으면 무엇이 통과했는지도 모른 채 대학 도서관 서가까지 간다는 것을 이 전자책이 드러낸다."
     },
     {
       "section": "music",
       "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
       "url": "https://axitnow.com/ko/?c=music:music-musixmatch-lyrics-llm",
       "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "확인이 규칙에 딸린 절차가 아니라 값을 받고 파는 물건이 됐고 그 값을 치르는 쪽이 생성하는 쪽이라는 데서, Musixmatch의 Sentinel과 고객이 된 Suno로 명제가 닫힌다."
+      "role": "확인이 공짜가 아니라 돈 받고 파는 상품이라는 것은 Suno가 Sentinel의 고객이 된 데서 알 수 있다."
     }
   ]
 }

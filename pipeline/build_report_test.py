@@ -153,6 +153,31 @@ def test_unmailable_formats_still_yield_nothing():
     assert mail_image("https://x", None) == ""
 
 
+# 2열에서는 두 칸의 그림 높이가 다르면 글줄이 어긋난다. 세로 이미지가 한 칸에
+# 오면(카드 영상 포스터가 608x1080이다) 아예 깨져 보인다. 원본을 자르지 않고
+# 메일 배경색으로 여백을 채워 같은 상자에 넣는다 — 도표의 라벨이 잘리면 안 된다.
+def test_derivative_has_a_fixed_aspect_ratio():
+    import subprocess, tempfile, shutil
+    from build_report import ensure_mail_image, MAIL_WIDTH, MAIL_HEIGHT
+    if not shutil.which("sips"):
+        return
+    with tempfile.TemporaryDirectory() as root:
+        media = os.path.join(root, "pipeline", "media")
+        os.makedirs(media)
+        src = "/System/Library/CoreServices/DefaultDesktop.heic"
+        for name, (w, h) in (("wide.png", (2000, 800)), ("tall.png", (600, 1200))):
+            dst = os.path.join(media, name)
+            subprocess.run(["sips", "-s", "format", "png", "-z", str(h), str(w),
+                            src, "--out", dst], check=True, capture_output=True)
+            assert ensure_mail_image(f"pipeline/media/{name}", root=root), name
+            out = os.path.join(media, "mail", name.replace(".png", ".jpg"))
+            g = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", out],
+                               check=True, capture_output=True, text=True).stdout
+            got = dict(l.strip().split(": ") for l in g.splitlines() if ": " in l)
+            assert int(got["pixelWidth"]) == MAIL_WIDTH, (name, got)
+            assert int(got["pixelHeight"]) == MAIL_HEIGHT, (name, got)
+
+
 def test_derivative_is_built_and_is_smaller():
     """실제로 구워 보고 작아졌는지 본다 — 경로만 맞고 파일이 없으면 메일에 깨진
     그림 자리가 남는다. 원본보다 크면 굽는 의미가 없다."""

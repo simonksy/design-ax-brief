@@ -1,36 +1,37 @@
 {
   "edition": "2026-W40",
   "lang": "en",
-  "thesis": "More AI rules landed this week, and what jammed was not the rule but the cost of checking whether anyone kept to it.",
-  "ground": "Drawing the line is the cheap part. The expensive part is someone paying to look at whether the line was crossed, and across this week's cards, wherever there was nobody to cover that bill the rule either sat on paper or was swapped for a blanket ban.",
+  "subject": "NASA bans AI images instead of checking",
+  "thesis": "More AI rules arrived this week while nobody is paying anyone to check that they are followed: Taiwan's election deepfake law has not drawn a single takedown request, and NASA stopped trying to tell real images from generated ones and banned AI imagery outright.",
+  "ground": "The Springer Nature ebooks that UC libraries bought turned out to include machine-summarized titles, and neither the publisher selling them nor the library buying them read them closely enough to stop it. Musixmatch signed Suno as a customer for Sentinel, its copyright-detection tool, and checking only really runs where a company like that is paying for it.",
   "evidence": [
     {
       "section": "politics",
       "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
       "url": "https://axitnow.com/en/?c=politics:taiwandeepfake",
       "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "A deepfake law was already on the books for an election and drew not a single takedown request, which holds the first half of the thesis: the jam is not in the rule."
-    },
-    {
-      "section": "books",
-      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
-      "url": "https://axitnow.com/en/?c=books:books-springer-ai-slop",
-      "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "It holds the part where nobody pays to check and the bill lands on the buyer at the end of the chain, in this case a library that had already bought the Springer titles."
+      "role": "It holds up the first half: pass a law, fund nobody to enforce it, and not one takedown request comes in."
     },
     {
       "section": "design",
       "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
       "url": "https://axitnow.com/en/?c=design:design-nasa-brand-trust-ai-imagery",
       "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "It shows the other side: when per-item checking gets too expensive, an organization stops checking and takes the blanket ban instead, which is what NASA did with trust as its core asset."
+      "role": "NASA's decision shows what takes the place of checking once an organization cannot afford to vet images one by one."
+    },
+    {
+      "section": "books",
+      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
+      "url": "https://axitnow.com/en/?c=books:books-springer-ai-slop",
+      "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
+      "role": "With nobody reading the manuscripts, no one even knows what got through until it is sitting on a university shelf."
     },
     {
       "section": "music",
       "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
       "url": "https://axitnow.com/en/?c=music:music-musixmatch-lyrics-llm",
       "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "The thesis closes here, where checking is no longer a step inside a rule but a product with a price, and the party paying for it is the party generating, with Musixmatch selling Sentinel and Suno signing up."
+      "role": "Suno becoming a Sentinel customer shows that checking is not free but a product someone has to buy."
     }
   ]
 }
