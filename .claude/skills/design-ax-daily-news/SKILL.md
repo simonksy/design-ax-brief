@@ -12,10 +12,19 @@ source categories): `design` (AI×design tools/work culture), `music` (AI×Music
 `movies` (AI×Film), `games` (AI×Video Games), `books` (AI×Books/Publishing), `gadgets`
 (AI×devices/hardware — AI wearables, on-device AI, smart glasses, robots, NPU PCs),
 `science` (AI×research — psychology, life/materials science, physics, quantum, astronomy),
-`politics` (AI×politics on three axes: **policy/regulation**, **AI in elections & public
-opinion**, **AI geopolitics**), `marketing` (AI×marketing on four axes: **creative
-production**, **targeting & measurement**, **search/discovery shift**, **customer
+`medicine` (AI×의학 — 환자·임상의·규제기관에 닿은 것만: 임상 시험, FDA/CE 승인, 병원 배치,
+진단·영상 판독, 임상 단계 신약, 의료기기 소프트웨어, EHR·진료 문서화, 원격의료, 보험 심사,
+환자 안전·편향·책임), `politics` (AI×politics on three axes: **policy/regulation**, **AI in
+elections & public opinion**, **AI geopolitics**), `marketing` (AI×marketing on four axes:
+**creative production**, **targeting & measurement**, **search/discovery shift**, **customer
 operations**). AI is the constant axis; each section pairs AI with its domain.
+
+**Medicine와 science의 경계.** 'AI가 생물학을 더 잘 알게 됐다'는 science, '그 결과가 환자·
+임상의·규제기관에 닿았다'는 medicine이다. 단백질 구조 예측 자체는 science, 그 모델로 만든
+후보물질이 임상에 들어가면 medicine. 같은 기사를 두 섹션에 싣지 않는다 — 카드 id와
+`pipeline/media/` 파일이 충돌한다. 전문 규칙은 `sources.json` → `categories[medicine]._note`.
+의학 섹션에서는 병원체 기능획득·생물무기로 읽힐 수 있는 기사를 고르지 않는다. 표현을
+다듬지 말고 다른 기사로 바꾼다 — 치료·진단·백신 개발은 해당 없다.
 
 **Marketing is scoped like politics.** Take only stories where AI is what makes the story
 happen — if deleting AI from the headline leaves it standing, it is general marketing news
@@ -43,8 +52,9 @@ Never pad with stale or off-topic items.
 **Freshness window is per-section** (`pipeline/freshness.py <pub_iso> <now_iso> <section>`):
 `design` / `politics` / `marketing` = **72h** — these beats move fast and are dense, and a two-week-old
 ruling or export-control decision is already stale. `music` / `movies` / `games` / `books`
-/ `gadgets` / `science` = **14 days (336h)** — those domains publish AI news less often, so
-a wider window is needed to fill 5.
+/ `gadgets` / `science` / `medicine` = **14 days (336h)** — those domains publish AI news less
+often, so a wider window is needed to fill 5. (medicine은 의도적으로 느린 쪽이다: 임상 결과와
+승인은 매일 나오지 않고, 2주 지난 FDA 승인도 여전히 뉴스다.)
 
 **Fill the count (keyword expansion).** If, after the first keyword pass + freshness +
 dedup, a section has fewer than 5 candidates, ax-librarian EXPANDS: add related/sibling
@@ -77,8 +87,9 @@ Korean 존댓말 for any extra search keywords and which sections to run today (
 9). Defaults come from `pipeline/keyword_pool.json` (section-keyed pools). Pass user
 keywords to ax-planner as extra seeds for the relevant section(s).
 
-For EACH selected section S (default order design, music, movies, games, books, gadgets,
-science, politics, marketing):
+For EACH selected section S (order comes from `pipeline/sources.json` → `sections` — read it
+each run rather than trusting a list written here, which goes stale the day a section is
+added or moved):
 1. **ax-planner** — "Section: S. Today is <date>. Extra seeds: <…/none>. Run your steps."
    (reads `keyword_pool.json.sections[S]` — always its `core`, rotates the rest by date.)
    → `pipeline/keywords.json`
@@ -168,7 +179,7 @@ byte-identical (~8–25% change). The front card flips (회전문) to the `full`
 containers).
 
 Freshness: **per-section** window via `pipeline/freshness.py <pub> <now> <section>`
-(design/politics/marketing 72h; music/movies/games/books/gadgets/science 14 days). Dedup is **per
+(design/politics/marketing 72h; 나머지 전부 14 days). Dedup is **per
 section** (URL + CONTENT): each distinct story appears on exactly one date within its
 section (earliest-wins) — `roll.py` drops rolled-in URLs already earlier in that section;
 `build_data.py` FAILS the build on a duplicate URL within a section (WARNS on shared

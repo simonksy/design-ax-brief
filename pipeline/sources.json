@@ -14,6 +14,13 @@
       ]
     },
     {
+      "section": "marketing",
+      "label": "Marketing",
+      "categories": [
+        "marketing"
+      ]
+    },
+    {
       "section": "music",
       "label": "Music",
       "categories": [
@@ -56,17 +63,17 @@
       ]
     },
     {
+      "section": "medicine",
+      "label": "Medicine",
+      "categories": [
+        "medicine"
+      ]
+    },
+    {
       "section": "politics",
       "label": "Politics",
       "categories": [
         "politics"
-      ]
-    },
-    {
-      "section": "marketing",
-      "label": "Marketing",
-      "categories": [
-        "marketing"
       ]
     }
   ],
@@ -481,6 +488,62 @@
         "press.aboutamazon.com"
       ],
       "_note": "AI x marketing. Take a story only where AI is what makes it happen — if deleting AI from the headline leaves it standing, it is general marketing news and does not belong. FOUR AXES: (1) CREATIVE PRODUCTION - generative ad creative, video/image/copy at scale, brand-safe model training, synthetic spokespeople and the disclosure rules around them; (2) TARGETING & MEASUREMENT - AI bidding and budget allocation, attribution after cookie loss, audience modelling, incrementality testing, ad fraud detection; (3) SEARCH & DISCOVERY SHIFT - AI overviews and answer engines eating referral traffic, GEO/AEO (optimising for generative answers), publisher licensing deals with model makers, zero-click behaviour; (4) CUSTOMER OPERATIONS - AI agents in CRM/email/support, personalisation engines, chat commerce, marketing-mix automation. OUT OF SCOPE: funding rounds, agency M&A, executive hires, award shows, and generic 'AI will change marketing' opinion with no concrete product, ruling, or number. Prefer the primary source (product changelog, platform blog, filing) over commentary."
+    },
+    {
+      "category": "medicine",
+      "label": "Medicine",
+      "motif": "sphere",
+      "accent": "#00897b",
+      "_note": "AI×의학: 환자에게 닿는 자리만 — 임상 시험 결과, 규제 승인(FDA 510(k)/De Novo/CE), 병원·진료 현장 배치, 진단·영상 판독, 신약 개발 파이프라인의 임상 단계, 의료기기 소프트웨어, 전자의무기록·의료 문서화, 원격의료, 보험 심사 자동화, 환자 안전·편향·책임 문제. science 섹션과의 경계: 'AI가 생물학을 더 잘 알게 됐다'는 science, '그 결과가 환자·임상의·규제기관에 닿았다'는 medicine이다. 단백질 구조 예측 자체는 science, 그 모델로 만든 후보물질이 임상에 들어가면 medicine. 같은 기사를 두 섹션에 싣지 않는다 — 더 가까운 쪽 하나만 고른다. 제외: 병원 경영·투자 유치·인사 이동 같은 일반 비즈니스 뉴스, 건강 보조식품 광고성 기사, 의학적 근거 없는 웰니스 앱 홍보. 안전: 병원체 기능획득·생물무기 설계로 읽힐 수 있는 기사는 고르지 않는다 — 표현을 다듬지 말고 다른 기사로 바꾼다. 치료·진단·백신 개발은 해당 없다.",
+      "allowed_domains": [
+        "fda.gov",
+        "ema.europa.eu",
+        "nih.gov",
+        "nejm.org",
+        "thelancet.com",
+        "jamanetwork.com",
+        "bmj.com",
+        "nature.com",
+        "science.org",
+        "cell.com",
+        "who.int",
+        "cdc.gov",
+        "clinicaltrials.gov",
+        "statnews.com",
+        "medpagetoday.com",
+        "fiercebiotech.com",
+        "fiercehealthcare.com",
+        "healthcareitnews.com",
+        "mobihealthnews.com",
+        "medcitynews.com",
+        "endpts.com",
+        "biopharmadive.com",
+        "healthcaredive.com",
+        "medscape.com",
+        "radiologybusiness.com",
+        "auntminnie.com",
+        "beckershospitalreview.com",
+        "modernhealthcare.com",
+        "mayoclinic.org",
+        "hopkinsmedicine.org",
+        "stanford.edu",
+        "mit.edu",
+        "deepmind.google",
+        "health.google",
+        "microsoft.com",
+        "reuters.com",
+        "apnews.com",
+        "bbc.com",
+        "technologyreview.com",
+        "newscientist.com",
+        "arstechnica.com",
+        "theverge.com",
+        "wired.com",
+        "dailypharm.com",
+        "docdocdoc.co.kr",
+        "medigatenews.com",
+        "bosa.co.kr"
+      ]
     }
   ],
   "palette": [

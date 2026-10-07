@@ -548,6 +548,129 @@
     ],
     "lockedCount": 4
   },
+  "marketing": {
+    "label": "Marketing",
+    "news": [
+      {
+        "id": "chatgpt-labels",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "accent": "#ff8a3d",
+        "motif": "frame",
+        "image": "pipeline/media/chatgpt-labels.jpg",
+        "headline": "OpenAI tests editorial\nlabels on ChatGPT results",
+        "body": "OpenAI is testing labels like 'best all-rounder' and 'best for beginners' on ChatGPT's organic product results.",
+        "mini_headline": "Editorial labels in ChatGPT",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
+              "cap": "ChatGPT product boxes."
+            },
+            {
+              "t": "p",
+              "x": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as “best all-rounder,” “best for beginners,” “best cushioning,” and so on."
+            },
+            {
+              "t": "p",
+              "x": "The labels also can be shown in green and gray highlights, which make them really stand out."
+            },
+            {
+              "t": "p",
+              "x": "This was spotted by Brodie Clark, who posted about it on X and on SERP Alert: “ChatGPT is testing out a new variation of the labels that can be displayed for organic products in its results. Expanding upon the original version, the new experiment is displaying a green label for the ‘best all-rounder’ product and also additional grey labels for the ‘best’ for different criteria.”"
+            },
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+              "cap": "Brodie Clark’s screenshot of the new labels."
+            },
+            {
+              "t": "p",
+              "x": "This should help with click-through rates on these products."
+            }
+          ]
+        },
+        "lang": "en",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "monks-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Digiday",
+        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/monks-agents.jpg",
+        "headline": "At S4 Capital's Monks, AI\nagents run for days unwatched",
+        "body": "S4 Capital's Monks has coding agents running unsupervised for 36 to 48 hours, with social and performance work next.",
+        "mini_headline": "Monks lets agents run alone",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nano-banana-21",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "accent": "#2ec5c5",
+        "motif": "frame",
+        "image": "pipeline/media/nano-banana-21.jpg",
+        "headline": "Nano Banana 2.1 is rolling\nout inside AI Mode",
+        "body": "Google shipped Nano Banana 2.1, its latest image model, and it is rolling out inside AI Mode in Search.",
+        "mini_headline": "Nano Banana 2.1 in AI Mode",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "pinterest-beauty-guides",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/pinterest-beauty-guides.jpg",
+        "headline": "Pinterest turns beauty Pins\ninto salon action plans",
+        "body": "Pinterest's AI Beauty Guides translate hair and nail Pins into salon terms with estimated costs, times and upkeep.",
+        "mini_headline": "Beauty Pins become plans",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mueller-ai-crawlers",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/mueller-ai-crawlers.jpg",
+        "headline": "Mueller sees AI crawlers\nfetching sitemaps and RSS",
+        "body": "Google's John Mueller says his logs show AI crawlers fetching sitemaps and RSS, so he advises default sitemap names.",
+        "mini_headline": "AI crawlers read sitemaps",
+        "lang": "en",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
+    "lockedCount": 4
+  },
   "music": {
     "label": "Music",
     "news": [
@@ -4231,141 +4354,19 @@
       }
     ],
     "lockedCount": 4
-  },
-  "marketing": {
-    "label": "Marketing",
-    "news": [
-      {
-        "id": "chatgpt-labels",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
-        "accent": "#ff8a3d",
-        "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI tests editorial\nlabels on ChatGPT results",
-        "body": "OpenAI is testing labels like 'best all-rounder' and 'best for beginners' on ChatGPT's organic product results.",
-        "mini_headline": "Editorial labels in ChatGPT",
-        "full": {
-          "mode": "full",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPT product boxes."
-            },
-            {
-              "t": "p",
-              "x": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as “best all-rounder,” “best for beginners,” “best cushioning,” and so on."
-            },
-            {
-              "t": "p",
-              "x": "The labels also can be shown in green and gray highlights, which make them really stand out."
-            },
-            {
-              "t": "p",
-              "x": "This was spotted by Brodie Clark, who posted about it on X and on SERP Alert: “ChatGPT is testing out a new variation of the labels that can be displayed for organic products in its results. Expanding upon the original version, the new experiment is displaying a green label for the ‘best all-rounder’ product and also additional grey labels for the ‘best’ for different criteria.”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clark’s screenshot of the new labels."
-            },
-            {
-              "t": "p",
-              "x": "This should help with click-through rates on these products."
-            }
-          ]
-        },
-        "lang": "en",
-        "free": true,
-        "hasFull": true
-      },
-      {
-        "id": "monks-agents",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "At S4 Capital's Monks, AI\nagents run for days unwatched",
-        "body": "S4 Capital's Monks has coding agents running unsupervised for 36 to 48 hours, with social and performance work next.",
-        "mini_headline": "Monks lets agents run alone",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-        "accent": "#2ec5c5",
-        "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana 2.1 is rolling\nout inside AI Mode",
-        "body": "Google shipped Nano Banana 2.1, its latest image model, and it is rolling out inside AI Mode in Search.",
-        "mini_headline": "Nano Banana 2.1 in AI Mode",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "pinterest-beauty-guides",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
-        "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "Pinterest turns beauty Pins\ninto salon action plans",
-        "body": "Pinterest's AI Beauty Guides translate hair and nail Pins into salon terms with estimated costs, times and upkeep.",
-        "mini_headline": "Beauty Pins become plans",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "Mueller sees AI crawlers\nfetching sitemaps and RSS",
-        "body": "Google's John Mueller says his logs show AI crawlers fetching sitemaps and RSS, so he advises default sitemap names.",
-        "mini_headline": "AI crawlers read sitemaps",
-        "lang": "en",
-        "hasFull": true,
-        "locked": true
-      }
-    ],
-    "days": [],
-    "lockedCount": 4
   }
 };
   window.AX_SECTION_ORDER = [
   "design",
+  "marketing",
   "music",
   "movies",
   "games",
   "books",
   "gadgets",
   "science",
-  "politics",
-  "marketing"
+  "medicine",
+  "politics"
 ];
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [

@@ -2128,7 +2128,7 @@ function MobileStickyHeader({ t, stuckTitle, stuckTabs, ds, gutter, sections, or
 const INSIGHTS_COLORS = {
   design: '#0070f3', music: '#eb367f', movies: '#7928ca', games: '#2ec5c5',
   books: '#f5a623', gadgets: '#ff5a4d', science: '#3aa655', politics: '#9aa8c7',
-  marketing: '#ff8a3d',
+  marketing: '#ff8a3d', medicine: '#00897b',
 };
 const insightsLabel = (sec) => tx('insights.legend_' + sec);   // legend label per section key
 const INSIGHTS_CARD_W = 384;    // 뉴스 카드 열 너비

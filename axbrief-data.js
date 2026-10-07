@@ -548,6 +548,129 @@
     ],
     "lockedCount": 4
   },
+  "marketing": {
+    "label": "Marketing",
+    "news": [
+      {
+        "id": "chatgpt-labels",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "accent": "#ff8a3d",
+        "motif": "frame",
+        "image": "pipeline/media/chatgpt-labels.jpg",
+        "headline": "OpenAI, 편집 라벨\nChatGPT 결과에 시험",
+        "body": "OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다.",
+        "mini_headline": "ChatGPT의 편집 라벨",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
+              "cap": "ChatGPT 상품 박스."
+            },
+            {
+              "t": "p",
+              "x": "OpenAI가 ChatGPT 상품 결과에 새 라벨을 붙여 시험하고 있다. 라벨은 화면에 띄운 상품을 두고 “종합 최고”, “입문자에게 최고”, “쿠셔닝 최고” 같은 정보를 덧붙인다."
+            },
+            {
+              "t": "p",
+              "x": "라벨은 초록색과 회색 강조 표시로도 나타나 눈에 잘 띈다."
+            },
+            {
+              "t": "p",
+              "x": "이를 발견한 사람은 Brodie Clark다. 그는 X와 SERP Alert에 이렇게 적었다. “ChatGPT가 검색 결과의 자연 상품에 띄울 수 있는 라벨의 새 변형을 시험하고 있다. 기존 버전을 확장해, 새 실험은 ‘종합 최고’ 상품에 초록색 라벨을, 기준별 ‘최고’ 항목에는 회색 라벨을 더 보여 준다.”"
+            },
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+              "cap": "Brodie Clark가 올린 새 라벨 스크린샷."
+            },
+            {
+              "t": "p",
+              "x": "이는 해당 상품의 클릭률을 높이는 데 도움이 될 것이다."
+            }
+          ]
+        },
+        "lang": "ko",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "monks-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Digiday",
+        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/monks-agents.jpg",
+        "headline": "S4 Capital 산하\nMonks AI 며칠 자율",
+        "body": "Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다.",
+        "mini_headline": "에이전트를 홀로 두는 Monks",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nano-banana-21",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "accent": "#2ec5c5",
+        "motif": "frame",
+        "image": "pipeline/media/nano-banana-21.jpg",
+        "headline": "Nano Banana\n2.1 AI Mode 배포",
+        "body": "Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다.",
+        "mini_headline": "AI Mode의 Nano Banana 2.1",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "pinterest-beauty-guides",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/pinterest-beauty-guides.jpg",
+        "headline": "뷰티 Pin을 살롱\n실행 계획으로",
+        "body": "Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다.",
+        "mini_headline": "뷰티 Pin으로 짜는 살롱 계획",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mueller-ai-crawlers",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/mueller-ai-crawlers.jpg",
+        "headline": "AI 크롤러가 읽는\nsitemap과 RSS",
+        "body": "John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다.",
+        "mini_headline": "sitemap을 읽는 AI 크롤러",
+        "lang": "ko",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
+    "lockedCount": 4
+  },
   "music": {
     "label": "Music",
     "news": [
@@ -4232,141 +4355,19 @@
       }
     ],
     "lockedCount": 4
-  },
-  "marketing": {
-    "label": "Marketing",
-    "news": [
-      {
-        "id": "chatgpt-labels",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
-        "accent": "#ff8a3d",
-        "motif": "frame",
-        "image": "pipeline/media/chatgpt-labels.jpg",
-        "headline": "OpenAI, 편집 라벨\nChatGPT 결과에 시험",
-        "body": "OpenAI가 ChatGPT 상품 결과에 편집 라벨을 붙여 시험한다.",
-        "mini_headline": "ChatGPT의 편집 라벨",
-        "full": {
-          "mode": "full",
-          "blocks": [
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
-              "cap": "ChatGPT 상품 박스."
-            },
-            {
-              "t": "p",
-              "x": "OpenAI가 ChatGPT 상품 결과에 새 라벨을 붙여 시험하고 있다. 라벨은 화면에 띄운 상품을 두고 “종합 최고”, “입문자에게 최고”, “쿠셔닝 최고” 같은 정보를 덧붙인다."
-            },
-            {
-              "t": "p",
-              "x": "라벨은 초록색과 회색 강조 표시로도 나타나 눈에 잘 띈다."
-            },
-            {
-              "t": "p",
-              "x": "이를 발견한 사람은 Brodie Clark다. 그는 X와 SERP Alert에 이렇게 적었다. “ChatGPT가 검색 결과의 자연 상품에 띄울 수 있는 라벨의 새 변형을 시험하고 있다. 기존 버전을 확장해, 새 실험은 ‘종합 최고’ 상품에 초록색 라벨을, 기준별 ‘최고’ 항목에는 회색 라벨을 더 보여 준다.”"
-            },
-            {
-              "t": "img",
-              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
-              "cap": "Brodie Clark가 올린 새 라벨 스크린샷."
-            },
-            {
-              "t": "p",
-              "x": "이는 해당 상품의 클릭률을 높이는 데 도움이 될 것이다."
-            }
-          ]
-        },
-        "lang": "ko",
-        "free": true,
-        "hasFull": true
-      },
-      {
-        "id": "monks-agents",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Digiday",
-        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
-        "accent": "#0070f3",
-        "motif": "frame",
-        "image": "pipeline/media/monks-agents.jpg",
-        "headline": "S4 Capital 산하\nMonks AI 며칠 자율",
-        "body": "Monks의 코딩 에이전트는 감독 없이 36~48시간을 돌아간다.",
-        "mini_headline": "에이전트를 홀로 두는 Monks",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "nano-banana-21",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Roundtable",
-        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-        "accent": "#2ec5c5",
-        "motif": "frame",
-        "image": "pipeline/media/nano-banana-21.jpg",
-        "headline": "Nano Banana\n2.1 AI Mode 배포",
-        "body": "Google이 Nano Banana 2.1을 AI Mode에서 순차 배포한다.",
-        "mini_headline": "AI Mode의 Nano Banana 2.1",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "pinterest-beauty-guides",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "TechCrunch",
-        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "accent": "#7928ca",
-        "motif": "frame",
-        "image": "pipeline/media/pinterest-beauty-guides.jpg",
-        "headline": "뷰티 Pin을 살롱\n실행 계획으로",
-        "body": "Pinterest의 Beauty Guides가 뷰티 Pin을 살롱 용어로 바꾼다.",
-        "mini_headline": "뷰티 Pin으로 짜는 살롱 계획",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      },
-      {
-        "id": "mueller-ai-crawlers",
-        "source_lang": "en",
-        "eyebrow": "AI NEWS",
-        "tool": "Marketing",
-        "source": "Search Engine Journal",
-        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-        "accent": "#ff5a4d",
-        "motif": "frame",
-        "image": "pipeline/media/mueller-ai-crawlers.jpg",
-        "headline": "AI 크롤러가 읽는\nsitemap과 RSS",
-        "body": "John Mueller는 AI 크롤러가 sitemap과 RSS를 읽는다고 말한다.",
-        "mini_headline": "sitemap을 읽는 AI 크롤러",
-        "lang": "ko",
-        "hasFull": true,
-        "locked": true
-      }
-    ],
-    "days": [],
-    "lockedCount": 4
   }
 };
   window.AX_SECTION_ORDER = [
   "design",
+  "marketing",
   "music",
   "movies",
   "games",
   "books",
   "gadgets",
   "science",
-  "politics",
-  "marketing"
+  "medicine",
+  "politics"
 ];
   // back-compat (large-card app reads these until it becomes section-aware):
   window.AX_NEWS = [
