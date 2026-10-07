@@ -32,6 +32,19 @@ if [ -n "$(git rev-list origin/main..HEAD 2>/dev/null || true)" ]; then
   exit 1
 fi
 
+# 아래 직접 배포(wrangler deploy)는 커밋이 아니라 '작업트리'를 올린다. 그래서 커밋을
+# 빠뜨린 파일도 프로덕션에 올라가 멀쩡해 보이고, 다음 CI 빌드가 커밋된 상태로 다시
+# 빌드하는 순간 조용히 사라진다 — 마케팅 섹션이 실제로 이렇게 하루 만에 증발했다.
+# 추적 대상 파일이 더럽거나, 배포에 들어갈 새 파일이 커밋되지 않았으면 멈춘다.
+DIRTY="$(git status --porcelain -- . ':!*.log' | grep -v '^?? \.superpowers/' || true)"
+if [ -n "$DIRTY" ]; then
+  echo "ERROR: 작업트리가 깨끗하지 않다. 직접 배포는 작업트리를 올리므로, 지금 배포하면" >&2
+  echo "       커밋되지 않은 내용이 프로덕션에 올라갔다가 다음 CI 빌드에서 사라진다." >&2
+  echo "       커밋하거나 되돌린 뒤 다시 실행하라:" >&2
+  echo "$DIRTY" | sed 's/^/         /' >&2
+  exit 1
+fi
+
 start_branch="$(git rev-parse --abbrev-ref HEAD)"
 cleanup() { git checkout "$start_branch" --quiet 2>/dev/null || true; }
 trap cleanup EXIT

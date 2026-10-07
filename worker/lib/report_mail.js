@@ -45,7 +45,19 @@ export function renderReport({ edition, lang, blocks, entitled, sections, unsubU
     `<h2 style="margin:28px 0 10px;font-size:16px;color:#1c1a18">${esc(s)}</h2>`;
 
   const out = [];
-  if (b.change) out.push(h(t.change), p(b.change));
+  if (b.change) {
+    out.push(h(t.change), p(b.change));
+    // ①의 근거 카드는 무료 수신자에게도 보여 준다 — 잠긴 카드를 누르면 구독
+    // 모달이 뜨고, 그게 메일에서 전환으로 가는 유일한 길이다. 원문이 아니라
+    // 사이트 딥링크라야 그 길이 열린다.
+    const links = (b.links || []).filter((l) => l && l.url);
+    if (links.length) {
+      out.push('<ul style="margin:0 0 14px;padding:0 0 0 18px">' + links.map((l) =>
+        `<li style="margin:0 0 6px;font-size:14px;line-height:1.6">` +
+        `<a href="${esc(l.url)}" style="color:#3a352f">${esc(l.headline || l.url)}</a></li>`
+      ).join("") + "</ul>");
+    }
+  }
 
   if (entitled) {
     // 블록이 없는 섹션은 그냥 빠진다 — 한 섹션의 생성 실패가 메일 전체를
