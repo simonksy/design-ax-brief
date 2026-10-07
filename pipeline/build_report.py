@@ -227,51 +227,89 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
         "langs": LANGS,
         "answer_shape": {
             "subject": "메일 제목용 한 줄. 25자 안쪽.",
-            "thesis": "한 문장. 섹션들을 관통하는 명제.",
-            "ground": "두 문장. 그 명제가 왜 이번 주에 성립하는지에 대한 논거.",
-            "evidence": [{"card": "<섹션>/<카드 id>", "role": "한 문장."}],
+            "insight": "굵게 들어갈 한 문장. 이 주의 핵심 통찰.",
+            "article": "세 문장. 사람 에디터가 쓴 것 같은 글.",
+            "evidence": [{"card": "<섹션>/<카드 id>"}],
         },
         "rules": [
-            # 이 메일의 존재 이유가 이 한 줄에 달려 있다. 섹션별 요약은 사이트가 이미
-            # 하는 일이고, 메일이 그걸 반복하면 따로 받을 이유가 없다.
-            "섹션별 요약을 쓰지 않는다. 한 주의 카드를 전부 읽은 사람에게만 보이는 관통선 하나를 명제로 쓴다.",
-            "명제는 뉴스 한 건으로는 못 하는 말이어야 한다. 한 사건을 바꿔 말한 문장이면 버리고 다시 쓴다.",
+            # 메일은 짧다. 맨 위 콜라주 한 장, 굵은 인사이트 한 줄, 짧은 글, 카드 링크.
+            # 사례를 넉 장 펼치던 구조는 글이 너무 많았다 — 사이트가 하는 일을 반복했다.
+            "섹션별 요약을 쓰지 않는다. 한 주의 카드를 전부 읽은 사람에게만 보이는 것을 쓴다.",
 
-            # 여기부터가 '읽히는 글'을 만드는 규칙이다. W40 첫 판이 추상명사로만
-            # 돌아가서 무슨 말인지 모르겠다는 지적을 받았다. 통찰이 날카로워도
-            # 한 번 읽고 모르면 없는 것과 같다.
-            "쉬운 말로 쓴다. 한 번 읽고 바로 알아야 한다. 두 번 읽어야 하면 틀린 문장이다.",
-            "명제에 실제 이름이 최소 둘 들어간다 — 회사, 기관, 나라, 법, 제품, 숫자 중에서. "
-            "추상명사로만 이루어진 문장은 버린다.",
-            "'자리', '지점', '영역', '측면', '부분' 같은 말로 행위자를 대신하지 않는다. "
-            "누가 무엇을 했는지 주어와 동사로 쓴다.",
-            "비유를 쓰지 않는다. '선을 긋다', '벽에 부딪히다', '값을 치르다' 같은 표현은 "
-            "그 자리에서 실제로 일어난 일로 바꿔 쓴다.",
-            "판정법: 이번 주 뉴스를 하나도 안 본 사람에게 이 한 문장만 보여 줬을 때 "
-            "무슨 일이 있었는지 짐작되면 통과, 되묻게 되면 탈락이다.",
-            # 같은 통찰을 두 가지로 써 보인다. 설명보다 대조가 빠르다.
-            "나쁜 예: '이번 주 AI 규칙은 또 늘었는데, 막힌 자리는 규칙이 아니라 지켜졌는지 "
-            "확인하는 비용 쪽이었다.' — 실제 이름이 하나도 없고 '막힌 자리'가 무엇인지 모른다.",
-            "좋은 예: 'AI 규칙은 계속 생기는데 지켰는지 확인할 돈을 아무도 안 낸다. 대만의 "
-            "딥페이크법은 삭제 요청 0건으로 남았고, NASA는 확인 대신 AI 이미지를 통째로 "
-            "금지했다.' — 같은 통찰인데 나라, 법, 기관, 숫자가 들어가 바로 읽힌다.",
-            "ground 두 문장에도 각각 구체적인 사례가 최소 하나씩 들어간다. 사례 없이 "
-            "원리만 설명하는 문장은 쓰지 않는다.",
-            # 명제를 구체적으로 쓰면 길어진다 — 이름과 숫자가 자리를 먹는다. 받은메일함은
-            # 70자쯤만 보여 주므로 제목은 따로 받는다.
-            "subject는 받은메일함에 뜨는 한 줄이다. 25자 안쪽으로, 명제를 줄인 게 아니라 "
-            "그 주의 요점을 제목답게 다시 쓴 문장이어야 한다. 마침표를 찍지 않는다.",
-            "subject에도 실제 이름이 하나는 들어간다. '이번 주의 AI' 같은 제목은 열 이유가 "
-            "되지 않는다.",
-            "명제는 서로 다른 섹션 최소 3곳의 카드로 떠받쳐져야 한다. 한 섹션 안에서만 성립하면 그건 그 섹션의 뉴스다.",
-            "'AI가 모든 것을 바꾼다' 같은 언제나 참인 문장은 명제가 아니다. 이번 주에 새로 참이 된 것만 쓴다.",
+            # insight — 일반 원리 한 줄. 이름을 넣지 않아도 된다. 읽히는 게 전부다.
+            "insight는 한 문장짜리 일반 원리다. 이번 주 사건들에서 뽑아낸, 다음 주에도 "
+            "쓸 수 있는 판단 기준을 쓴다. 예: 'AI 규제는 늘어나지만 그 규제를 집행할 "
+            "주체에게 경제적 보상이 없으면 규제는 사실상 효력이 없다.'",
+            "insight는 쉬운 말로 쓴다. 한 번 읽고 바로 알아야 한다. 비유를 쓰지 않고, "
+            "'자리·지점·영역·측면' 같은 말로 행위자를 대신하지 않는다.",
+            "insight는 주장이어야 한다. '~가 늘고 있다' 같은 관찰이 아니라 '~하면 ~이다' 꼴로 "
+            "쓴다. 'AI가 모든 것을 바꾼다'처럼 언제나 참인 문장은 통찰이 아니다.",
+            "insight는 뉴스 한 건으로는 못 하는 말이어야 하고, 서로 다른 섹션 최소 3곳의 "
+            "카드로 떠받쳐져야 한다.",
+
+            # article — 여기가 사람 에디터의 자리다.
+            "article은 세 문장이다. 사실을 모아 요약하지 않는다 — 이 현상을 본 편집자가 "
+            "독자에게 '그래서 이게 당신에게 무슨 뜻인지'를 말해 주는 글로 쓴다.",
+            "article 첫 문장과 둘째 문장은 구체적인 사례를 든다. 회사·기관·나라·법·제품 "
+            "이름과 숫자를 그대로 쓴다. 셋째 문장은 그래서 독자가 무엇을 달리 봐야 하는지로 "
+            "닫는다.",
+            "article에 '~로 보인다', '~일 수 있다', '주목된다' 같은 기자체 상투어를 쓰지 "
+            "않는다. 편집자가 자기 판단으로 말한다.",
+            "전망이나 '다음 주에 볼 것'을 쓰지 않는다. 지금 읽는 사람에게 지금 쓸모 있는 "
+            "말로 끝낸다.",
+
+            # 공통
             "근거 카드가 없는 주장은 쓰지 않는다. 추측 금지.",
-            "사례는 4건. 각 role은 '이 사례가 명제의 어느 부분을 떠받치는가'만 쓴다 — 기사 요약을 다시 쓰지 않는다.",
-            "사례는 has_image가 true인 카드에서 고른다. 메일은 사례마다 카드 그림을 싣고, 그림 없는 카드는 그 자리가 빈다. 논지상 꼭 필요한 카드만 예외로 두되 첫 사례로는 쓰지 않는다 — 첫 사례는 무료 수신자가 보는 단 하나다.",
-            "링크와 이미지 주소는 쓰지 않는다. card에 \"<섹션>/<카드 id>\"만 적으면 조립 쪽이 만든다.",
-            "다음 주 전망, 지켜볼 것, 맺음말을 쓰지 않는다. 명제와 그 근거에서 끝낸다.",
+            "subject는 받은메일함에 뜨는 한 줄이다. 25자 안쪽으로, insight를 줄인 게 아니라 "
+            "제목답게 다시 쓴 문장이어야 한다. 실제 이름이 하나는 들어가고, 마침표는 없다.",
+            "evidence는 4건. 서로 다른 섹션에서 고르고, 맨 위 콜라주가 이 넷의 그림으로 "
+            "만들어지므로 has_image가 true인 카드만 쓴다. role은 쓰지 않는다 — 메일에는 "
+            "제목만 링크로 걸린다.",
+            "링크와 이미지 주소는 쓰지 않는다. card에 \"<섹션>/<카드 id>\"만 적는다.",
         ],
     }
+
+
+def build_collage(rels, edition, root=None):
+    """사례 썸네일 넉 장을 2x2 한 장으로 합친다. 메일 맨 위에 오는 그림이다.
+
+    넉 장을 따로 싣던 구조는 글이 너무 많았다. 한 장으로 묶으면 메일이 짧아지고,
+    받는 쪽이 한눈에 '이번 주에 무슨 그림이 있었나'를 본다.
+
+    ffmpeg의 hstack/vstack을 쓴다 — ImageMagick도 PIL도 이 기계에 없고, sips는
+    합성을 못 한다. 타일이 넉 장이 안 되면 빈 칸을 메일 배경색으로 채운다:
+    사례가 모자란 주에도 그림의 모양은 일정해야 한다.
+
+    못 만들면 빈 문자열을 돌려주고 렌더러가 콜라주 없이 간다."""
+    base = root or ROOT
+    tiles = [r for r in rels if r and os.path.exists(os.path.join(base, r))][:4]
+    if not tiles:
+        return ""
+    out_rel = os.path.join("pipeline", "media", "mail", f"collage-{edition}.jpg")
+    out = os.path.join(base, out_rel)
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    half_w, half_h = MAIL_WIDTH // 2, MAIL_HEIGHT // 2
+
+    args = ["ffmpeg", "-y", "-loglevel", "error"]
+    for t in tiles:
+        args += ["-i", os.path.join(base, t)]
+    # 빈 칸은 배경색 단색으로 채운다. 타일과 같은 크기라야 stack이 붙는다.
+    blanks = 4 - len(tiles)
+    for _ in range(blanks):
+        args += ["-f", "lavfi", "-i", f"color=c=0x{MAIL_PAD}:s={half_w}x{half_h}"]
+    scale = "".join(f"[{i}:v]scale={half_w}:{half_h}:force_original_aspect_ratio=increase,"
+                    f"crop={half_w}:{half_h}[t{i}];" for i in range(len(tiles)))
+    scale += "".join(f"[{len(tiles)+i}:v]null[t{len(tiles)+i}];" for i in range(blanks))
+    chain = scale + "[t0][t1]hstack[top];[t2][t3]hstack[bot];[top][bot]vstack[v]"
+    args += ["-filter_complex", chain, "-map", "[v]", "-frames:v", "1",
+             "-q:v", "4", out]
+    try:
+        subprocess.run(args, check=True, capture_output=True)
+    except (OSError, subprocess.CalledProcessError):
+        if os.path.exists(out):
+            os.remove(out)
+        return ""
+    return out_rel if os.path.exists(out) else ""
 
 
 def evidence_image(base_url, rel):
@@ -303,11 +341,12 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
         a = answers.get(lang)
         if not a:
             continue          # 한 언어가 비어도 나머지는 쓴다
-        evidence = []
+        evidence, used = [], []
         for item in a.get("evidence") or []:
             c = by_key.get((item or {}).get("card"))
             if not c:
                 continue      # 없는 카드를 가리키면 링크를 만들지 않는다
+            used.append(c)
             evidence.append({
                 "section": c.get("section"),
                 "headline": (c.get("headline") or "").replace("\n", " "),
@@ -315,9 +354,16 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
                 "image": evidence_image(base_url, c.get("image")),
                 "role": item.get("role", ""),
             })
+        # 콜라주는 사례 썸네일에서 만든다. 언어가 달라도 카드는 같으므로 한 번만 굽고
+        # 다섯 언어가 같은 그림을 쓴다.
+        # 콜라주는 '원본'에서 만든다. 축소본은 이미 레터박스로 여백이 들어가 있어서,
+        # 그걸 다시 잘라 채우면 타일 안에 배경색 띠가 남는다.
+        collage = build_collage([c.get("image") for c in used
+                                 if mail_image("x", c.get("image"))], edition)
         json.dump({"edition": edition, "lang": lang,
                    "subject": a.get("subject", ""),
-                   "thesis": a.get("thesis", ""), "ground": a.get("ground", ""),
+                   "collage": f"{base_url.rstrip('/')}/{collage}" if collage else "",
+                   "insight": a.get("insight", ""), "article": a.get("article", ""),
                    "evidence": evidence},
                   open(os.path.join(root, f"{lang}.json"), "w", encoding="utf-8"),
                   ensure_ascii=False, indent=2)

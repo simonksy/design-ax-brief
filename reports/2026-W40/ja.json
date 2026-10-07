@@ -1,37 +1,38 @@
 {
   "edition": "2026-W40",
   "lang": "ja",
-  "subject": "NASAは確認をやめてAI画像を全面禁止",
-  "thesis": "今週もAIのルールは増えたのに、守られているかを確かめる人に金を払う相手がいないため、台湾の選挙ディープフェイク法には削除要請が一件も来ず、NASAは見分けることをやめてAI画像を全面禁止した。",
-  "ground": "UCの図書館が買ったSpringer Natureの電子書籍には機械が要約した本が混じっていて、売る側も買う側も中身を読んで止めなかった。Musixmatchは著作権検出ツールSentinelでSunoを顧客にしたが、確認が実際に回るのは、こうして金を払う会社がいるときだけだ。",
+  "subject": "Springerの機械要約本をUCが買った",
+  "collage": "https://axitnow.com/pipeline/media/mail/collage-2026-W40.jpg",
+  "insight": "AIが途中の検証を省いても検証の費用は消えず、列の最後で受け取って使う人に回る",
+  "article": "UC の図書館が代金を払って買った Springer Nature の電子書籍には機械が要約した本が混ざっており、AudioEye が調べた AI でつくられたサイト 15 件は、どれも WCAG A に届かなかった。台湾の選挙ディープフェイク法には削除要請が一件も来ず、誤った AI 要約を読んだ人の記憶の正確さは 44.8% にとどまった — 手間を省いた側と、間違いを引き受けた側は最初から別人だ。だから今週からは AI で浮いた時間を数えるのをやめて、その確認をいま代わりにやっている人の名前を書き出してほしい — 書く名前がなければ、やっているのは客であり、客は請求書を送らずに去っていく。",
   "evidence": [
-    {
-      "section": "politics",
-      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
-      "url": "https://axitnow.com/ja/?c=politics:taiwandeepfake",
-      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "法律を作っても取り締まる人に予算が付かなければ削除要請は一件も来ない、という前半をこの事例が支える。"
-    },
-    {
-      "section": "design",
-      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
-      "url": "https://axitnow.com/ja/?c=design:design-nasa-brand-trust-ai-imagery",
-      "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "一枚ずつ確かめる余裕がなくなったとき、ルールの代わりに全面禁止が出てくることをNASAの判断が示す。"
-    },
     {
       "section": "books",
       "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
       "url": "https://axitnow.com/ja/?c=books:books-springer-ai-slop",
       "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "原稿を読む人を誰も置かなければ、大学の書架に並ぶまで何が通ったのかも分からない。"
+      "role": ""
     },
     {
-      "section": "music",
-      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
-      "url": "https://axitnow.com/ja/?c=music:music-musixmatch-lyrics-llm",
-      "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "確認が無料ではなく金を払って買う商品だということは、SunoがSentinelの顧客になった点から分かる。"
+      "section": "design",
+      "headline": "AI-built 15곳 모두 접근성 불합격",
+      "url": "https://axitnow.com/ja/?c=design:ai-sites-wcag-audit",
+      "image": "https://axitnow.com/pipeline/media/mail/ai-sites-wcag-audit.jpg",
+      "role": ""
+    },
+    {
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/ja/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
+      "role": ""
+    },
+    {
+      "section": "science",
+      "headline": "틀린 AI 요약이 사람 기억을 흐린다",
+      "url": "https://axitnow.com/ja/?c=science:science-ai-summary-memory",
+      "image": "https://axitnow.com/pipeline/media/mail/science-ai-summary-memory.jpg",
+      "role": ""
     }
   ]
 }

@@ -1,37 +1,38 @@
 {
   "edition": "2026-W40",
   "lang": "en",
-  "subject": "NASA bans AI images instead of checking",
-  "thesis": "More AI rules arrived this week while nobody is paying anyone to check that they are followed: Taiwan's election deepfake law has not drawn a single takedown request, and NASA stopped trying to tell real images from generated ones and banned AI imagery outright.",
-  "ground": "The Springer Nature ebooks that UC libraries bought turned out to include machine-summarized titles, and neither the publisher selling them nor the library buying them read them closely enough to stop it. Musixmatch signed Suno as a customer for Sentinel, its copyright-detection tool, and checking only really runs where a company like that is paying for it.",
+  "subject": "UC bought Springer's machine summaries",
+  "collage": "https://axitnow.com/pipeline/media/mail/collage-2026-W40.jpg",
+  "insight": "When AI removes the checking in the middle, the cost of checking doesn't vanish — it lands on whoever is last in line",
+  "article": "The Springer Nature ebooks that UC libraries paid for turned out to include books a machine had summarized, and of the 15 sites built with AI that AudioEye audited, not one reached WCAG A. Taiwan's election deepfake law drew not a single takedown request, and readers handed a faulty AI summary scored 44.8% on memory accuracy — the side that saved the work and the side that absorbed the error were never the same side. So this week, stop counting the hours AI saved you and write down the name of the person doing that checking right now — if there is no name to write, your customer is doing it, and customers don't send an invoice, they just leave.",
   "evidence": [
-    {
-      "section": "politics",
-      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
-      "url": "https://axitnow.com/en/?c=politics:taiwandeepfake",
-      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "It holds up the first half: pass a law, fund nobody to enforce it, and not one takedown request comes in."
-    },
-    {
-      "section": "design",
-      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
-      "url": "https://axitnow.com/en/?c=design:design-nasa-brand-trust-ai-imagery",
-      "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "NASA's decision shows what takes the place of checking once an organization cannot afford to vet images one by one."
-    },
     {
       "section": "books",
       "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
       "url": "https://axitnow.com/en/?c=books:books-springer-ai-slop",
       "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "With nobody reading the manuscripts, no one even knows what got through until it is sitting on a university shelf."
+      "role": ""
     },
     {
-      "section": "music",
-      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
-      "url": "https://axitnow.com/en/?c=music:music-musixmatch-lyrics-llm",
-      "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "Suno becoming a Sentinel customer shows that checking is not free but a product someone has to buy."
+      "section": "design",
+      "headline": "AI-built 15곳 모두 접근성 불합격",
+      "url": "https://axitnow.com/en/?c=design:ai-sites-wcag-audit",
+      "image": "https://axitnow.com/pipeline/media/mail/ai-sites-wcag-audit.jpg",
+      "role": ""
+    },
+    {
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/en/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
+      "role": ""
+    },
+    {
+      "section": "science",
+      "headline": "틀린 AI 요약이 사람 기억을 흐린다",
+      "url": "https://axitnow.com/en/?c=science:science-ai-summary-memory",
+      "image": "https://axitnow.com/pipeline/media/mail/science-ai-summary-memory.jpg",
+      "role": ""
     }
   ]
 }

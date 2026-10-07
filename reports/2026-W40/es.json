@@ -1,37 +1,38 @@
 {
   "edition": "2026-W40",
   "lang": "es",
-  "subject": "NASA veta las imágenes AI en vez de revisar",
-  "thesis": "Esta semana llegaron más reglas sobre la AI mientras nadie paga a quien debería comprobar que se cumplen: la ley electoral contra los deepfakes de Taiwan no ha recibido ni una solicitud de retirada y NASA dejó de distinguir lo real de lo generado y prohibió del todo las imágenes hechas con AI.",
-  "ground": "Los libros electrónicos de Springer Nature que compraron las bibliotecas de UC incluían títulos resumidos por una máquina, y ni la editorial que los vendía ni la biblioteca que los compraba los leyó a tiempo para frenarlos. Musixmatch convirtió a Suno en cliente de Sentinel, su herramienta de detección de derechos de autor, y la comprobación solo funciona de verdad donde hay una empresa así pagándola.",
+  "subject": "Springer resumió a máquina y UC lo pagó",
+  "collage": "https://axitnow.com/pipeline/media/mail/collage-2026-W40.jpg",
+  "insight": "Cuando la AI elimina la revisión intermedia, el coste de revisar no desaparece: lo paga quien está al final de la fila",
+  "article": "Los ebooks de Springer Nature que pagaron las bibliotecas de UC traían libros resumidos por una máquina, y de los 15 sitios hechos con AI que auditó AudioEye ninguno llegó al nivel WCAG A. La ley taiwanesa contra los deepfakes electorales no recibió una sola solicitud de retirada, y quienes leyeron un resumen de AI equivocado se quedaron en un 44.8% de precisión al recordar — el que se ahorró el trabajo y el que cargó con el error nunca fueron el mismo. Así que esta semana deja de contar las horas que te ahorró la AI y escribe el nombre de quien está haciendo esa revisión ahora mismo — si no hay nombre que escribir, lo está haciendo tu cliente, y los clientes no mandan factura: simplemente se van.",
   "evidence": [
-    {
-      "section": "politics",
-      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
-      "url": "https://axitnow.com/es/?c=politics:taiwandeepfake",
-      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
-      "role": "Sostiene la primera mitad: se aprueba una ley, no se paga a nadie para aplicarla y no entra ni una solicitud de retirada."
-    },
-    {
-      "section": "design",
-      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
-      "url": "https://axitnow.com/es/?c=design:design-nasa-brand-trust-ai-imagery",
-      "image": "https://axitnow.com/pipeline/media/mail/design-nasa-brand-trust-ai-imagery.jpg",
-      "role": "La decisión de NASA muestra qué ocupa el puesto de la comprobación cuando una organización ya no puede revisar imagen por imagen."
-    },
     {
       "section": "books",
       "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
       "url": "https://axitnow.com/es/?c=books:books-springer-ai-slop",
       "image": "https://axitnow.com/pipeline/media/mail/books-springer-ai-slop.jpg",
-      "role": "Si nadie lee los manuscritos, nadie sabe qué pasó el filtro hasta que ya está en el estante de una biblioteca universitaria."
+      "role": ""
     },
     {
-      "section": "music",
-      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
-      "url": "https://axitnow.com/es/?c=music:music-musixmatch-lyrics-llm",
-      "image": "https://axitnow.com/pipeline/media/mail/music-musixmatch-lyrics-llm.jpg",
-      "role": "Que Suno sea cliente de Sentinel muestra que comprobar no es gratis, sino un producto que alguien tiene que comprar."
+      "section": "design",
+      "headline": "AI-built 15곳 모두 접근성 불합격",
+      "url": "https://axitnow.com/es/?c=design:ai-sites-wcag-audit",
+      "image": "https://axitnow.com/pipeline/media/mail/ai-sites-wcag-audit.jpg",
+      "role": ""
+    },
+    {
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/es/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/mail/taiwandeepfake.jpg",
+      "role": ""
+    },
+    {
+      "section": "science",
+      "headline": "틀린 AI 요약이 사람 기억을 흐린다",
+      "url": "https://axitnow.com/es/?c=science:science-ai-summary-memory",
+      "image": "https://axitnow.com/pipeline/media/mail/science-ai-summary-memory.jpg",
+      "role": ""
     }
   ]
 }

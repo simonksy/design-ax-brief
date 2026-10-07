@@ -406,8 +406,8 @@ export default {
       }
       const edition = blocks ? want : "TEST";
       const body = blocks || {
-        thesis: "배관 점검용 더미 명제입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
-        ground: "더미 논거 문장입니다.",
+        insight: "배관 점검용 더미 인사이트입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
+        article: "더미 아티클 문장입니다.",
         evidence: [{ headline: "더미 사례", section: "design", url: env.BASE_URL,
                      image: "", role: "더미 역할 문장입니다." }],
       };
