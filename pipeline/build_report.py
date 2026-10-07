@@ -107,7 +107,9 @@ def card_link(base, lang, section, card_id):
 MAILABLE_IMG = (".jpg", ".jpeg", ".png", ".gif")
 MAIL_DIR = "mail"
 MAIL_WIDTH = 1032          # 메일 본문 표시 폭 516px의 2배 — 고해상도 화면까지 커버한다
+MAIL_HEIGHT = 580          # 16:9. 2열에서 두 칸의 그림 높이가 같아야 글줄이 맞는다
 MAIL_QUALITY = "70"
+MAIL_PAD = "FBF8F3"        # 메일 본문 배경색 — 여백이 배경에 녹아 보이지 않는다
 
 
 def mail_rel(rel):
@@ -132,6 +134,14 @@ def mail_image(base, rel):
     return f"{base.rstrip('/')}/{mail_rel(rel).lstrip('/')}"
 
 
+def _dims(path):
+    """sips가 읽어 준 원본 픽셀 크기."""
+    out = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", path],
+                         check=True, capture_output=True, text=True).stdout
+    d = dict(l.strip().split(": ") for l in out.splitlines() if ": " in l)
+    return int(d["pixelWidth"]), int(d["pixelHeight"])
+
+
 def ensure_mail_image(rel, root=None):
     """메일용 축소본을 굽는다. 이미 있으면 그대로 두고 True.
 
@@ -146,12 +156,18 @@ def ensure_mail_image(rel, root=None):
         return True
     os.makedirs(os.path.dirname(out), exist_ok=True)
     try:
-        # -Z는 긴 변만 보고 줄인다. 원본이 더 작으면 sips는 키우지 않는다.
+        w, h = _dims(src)
+        # 상자 안에 통째로 들어가게 줄인 뒤 배경색으로 여백을 채운다. 잘라서 맞추면
+        # 도표의 축이나 라벨이 날아간다 — 이 메일의 그림은 장식이 아니라 근거다.
+        k = min(MAIL_WIDTH / w, MAIL_HEIGHT / h, 1.0)
         subprocess.run(["sips", "-s", "format", "jpeg",
                         "-s", "formatOptions", MAIL_QUALITY,
-                        "-Z", str(MAIL_WIDTH), src, "--out", out],
+                        "-z", str(max(1, round(h * k))), str(max(1, round(w * k))),
+                        "--padToHeightWidth", str(MAIL_HEIGHT), str(MAIL_WIDTH),
+                        "--padColor", MAIL_PAD,
+                        src, "--out", out],
                        check=True, capture_output=True)
-    except (OSError, subprocess.CalledProcessError):
+    except (OSError, ValueError, ZeroDivisionError, subprocess.CalledProcessError):
         if os.path.exists(out):
             os.remove(out)
         return False
@@ -210,6 +226,7 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
         "clusters": [{**c, "cards": [brief(i) for i in c["ids"]]} for c in clusters],
         "langs": LANGS,
         "answer_shape": {
+            "subject": "메일 제목용 한 줄. 25자 안쪽.",
             "thesis": "한 문장. 섹션들을 관통하는 명제.",
             "ground": "두 문장. 그 명제가 왜 이번 주에 성립하는지에 대한 논거.",
             "evidence": [{"card": "<섹션>/<카드 id>", "role": "한 문장."}],
@@ -219,6 +236,33 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
             # 하는 일이고, 메일이 그걸 반복하면 따로 받을 이유가 없다.
             "섹션별 요약을 쓰지 않는다. 한 주의 카드를 전부 읽은 사람에게만 보이는 관통선 하나를 명제로 쓴다.",
             "명제는 뉴스 한 건으로는 못 하는 말이어야 한다. 한 사건을 바꿔 말한 문장이면 버리고 다시 쓴다.",
+
+            # 여기부터가 '읽히는 글'을 만드는 규칙이다. W40 첫 판이 추상명사로만
+            # 돌아가서 무슨 말인지 모르겠다는 지적을 받았다. 통찰이 날카로워도
+            # 한 번 읽고 모르면 없는 것과 같다.
+            "쉬운 말로 쓴다. 한 번 읽고 바로 알아야 한다. 두 번 읽어야 하면 틀린 문장이다.",
+            "명제에 실제 이름이 최소 둘 들어간다 — 회사, 기관, 나라, 법, 제품, 숫자 중에서. "
+            "추상명사로만 이루어진 문장은 버린다.",
+            "'자리', '지점', '영역', '측면', '부분' 같은 말로 행위자를 대신하지 않는다. "
+            "누가 무엇을 했는지 주어와 동사로 쓴다.",
+            "비유를 쓰지 않는다. '선을 긋다', '벽에 부딪히다', '값을 치르다' 같은 표현은 "
+            "그 자리에서 실제로 일어난 일로 바꿔 쓴다.",
+            "판정법: 이번 주 뉴스를 하나도 안 본 사람에게 이 한 문장만 보여 줬을 때 "
+            "무슨 일이 있었는지 짐작되면 통과, 되묻게 되면 탈락이다.",
+            # 같은 통찰을 두 가지로 써 보인다. 설명보다 대조가 빠르다.
+            "나쁜 예: '이번 주 AI 규칙은 또 늘었는데, 막힌 자리는 규칙이 아니라 지켜졌는지 "
+            "확인하는 비용 쪽이었다.' — 실제 이름이 하나도 없고 '막힌 자리'가 무엇인지 모른다.",
+            "좋은 예: 'AI 규칙은 계속 생기는데 지켰는지 확인할 돈을 아무도 안 낸다. 대만의 "
+            "딥페이크법은 삭제 요청 0건으로 남았고, NASA는 확인 대신 AI 이미지를 통째로 "
+            "금지했다.' — 같은 통찰인데 나라, 법, 기관, 숫자가 들어가 바로 읽힌다.",
+            "ground 두 문장에도 각각 구체적인 사례가 최소 하나씩 들어간다. 사례 없이 "
+            "원리만 설명하는 문장은 쓰지 않는다.",
+            # 명제를 구체적으로 쓰면 길어진다 — 이름과 숫자가 자리를 먹는다. 받은메일함은
+            # 70자쯤만 보여 주므로 제목은 따로 받는다.
+            "subject는 받은메일함에 뜨는 한 줄이다. 25자 안쪽으로, 명제를 줄인 게 아니라 "
+            "그 주의 요점을 제목답게 다시 쓴 문장이어야 한다. 마침표를 찍지 않는다.",
+            "subject에도 실제 이름이 하나는 들어간다. '이번 주의 AI' 같은 제목은 열 이유가 "
+            "되지 않는다.",
             "명제는 서로 다른 섹션 최소 3곳의 카드로 떠받쳐져야 한다. 한 섹션 안에서만 성립하면 그건 그 섹션의 뉴스다.",
             "'AI가 모든 것을 바꾼다' 같은 언제나 참인 문장은 명제가 아니다. 이번 주에 새로 참이 된 것만 쓴다.",
             "근거 카드가 없는 주장은 쓰지 않는다. 추측 금지.",
@@ -272,6 +316,7 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
                 "role": item.get("role", ""),
             })
         json.dump({"edition": edition, "lang": lang,
+                   "subject": a.get("subject", ""),
                    "thesis": a.get("thesis", ""), "ground": a.get("ground", ""),
                    "evidence": evidence},
                   open(os.path.join(root, f"{lang}.json"), "w", encoding="utf-8"),
