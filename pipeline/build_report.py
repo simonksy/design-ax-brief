@@ -84,7 +84,17 @@ def cross_section_clusters(cards, links, min_sections=2):
     out = [{"kw": v["kw"], "ids": sorted(v["ids"]), "sections": sorted(v["sections"]), "w": v["w"]}
            for v in by_kw.values() if len(v["sections"]) >= min_sections]
     out.sort(key=lambda x: (-x["w"], str(x["kw"])))
-    return out
+    # 같은 카드 묶음이 동의어 수만큼 반복되면 상위 칸을 한 사건이 다 차지한다
+    # (실측: W40의 1·2·3위가 court / fair / 공정이었고 뒤 둘은 같은 카드 두 장).
+    # 카드 집합이 같으면 가장 무거운 하나만 남긴다.
+    seen, uniq = set(), []
+    for g in out:
+        key = tuple(g["ids"])
+        if key in seen:
+            continue
+        seen.add(key)
+        uniq.append(g)
+    return uniq
 
 
 def card_link(base, lang, section, card_id):
