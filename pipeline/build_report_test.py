@@ -37,10 +37,10 @@ def test_matches_real_shapes_bare_card_id_and_list_kw():
     links = [{"source": "design/cad", "target": "marketing/gpt-ads",
               "kw": ["watermark", "출처"], "w": 0.9}]
     out = cross_section_clusters(cards, links)
-    # kw 리스트는 낱개 키워드로 펼쳐지므로 표기 수만큼 묶음이 나온다(I5).
-    assert len(out) == 2, out
-    assert {g["kw"] for g in out} == {"watermark", "출처"}
-    assert all(set(g["sections"]) == {"design", "marketing"} for g in out)
+    # kw는 낱개로 펼쳐지지만, 같은 카드 묶음은 하나만 남는다(동의어 중복 제거).
+    assert len(out) == 1, out
+    assert out[0]["kw"] in ("watermark", "출처"), out[0]["kw"]
+    assert set(out[0]["sections"]) == {"design", "marketing"}
 
 
 def test_cluster_must_span_two_sections():
@@ -119,6 +119,20 @@ def test_change_cards_become_deep_links():
     assert got["links"], got
     assert got["links"][0]["url"] == "https://axitnow.com/ko/?c=marketing:ads", got["links"]
     assert got["links"][0]["headline"] == "ChatGPT 광고"
+
+
+# 같은 카드 묶음이 동의어 수만큼 반복되면 상위 3칸을 한 사건이 다 차지한다
+# (실측 W40: 1·2·3위가 'court' / 'fair' / '공정', 뒤 둘은 같은 카드 두 장).
+def test_same_card_set_is_not_repeated_under_synonyms():
+    cards = [{"id": "1", "section": "music"}, {"id": "2", "section": "politics"},
+             {"id": "3", "section": "games"}]
+    links = [{"source": "music/1", "target": "politics/2", "kw": ["fair", "공정"], "w": 2},
+             {"source": "games/3", "target": "music/1", "kw": ["voice"], "w": 1}]
+    out = cross_section_clusters(cards, links)
+    sets = [tuple(c["ids"]) for c in out]
+    assert len(sets) == len(set(sets)), out
+    # 더 무거운 쪽이 남는다
+    assert out[0]["kw"] in ("fair", "공정"), out[0]
 
 
 if __name__ == "__main__":

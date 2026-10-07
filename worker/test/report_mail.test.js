@@ -56,6 +56,24 @@ describe("renderReport", () => {
     expect(html).toContain("&lt;script&gt;");
   });
 
+  // ①의 근거 카드 링크 — 메일이 사람을 사이트로 돌려보내는 유일한 통로다.
+  it("근거 카드 링크를 ①번 아래에 건다", () => {
+    const { html } = renderReport({ ...base, entitled: true, sections: [],
+      blocks: { ...BLOCKS, links: [
+        { headline: "항소법원, 톰슨 로이터 승소 유지", url: "https://axitnow.com/ko/?c=politics:rossappeal" }] } });
+    expect(html).toContain("https://axitnow.com/ko/?c=politics:rossappeal");
+    expect(html).toContain("항소법원, 톰슨 로이터 승소 유지");
+  });
+
+  // 무료 수신자도 ①은 받으므로 그 근거 링크까지는 보여 준다 — 잠긴 카드를
+  // 누르면 구독 모달이 뜨고, 그게 전환 경로다.
+  it("무료 수신자에게도 ①의 근거 링크는 보인다", () => {
+    const { html } = renderReport({ ...base, entitled: false, sections: ["design"],
+      blocks: { ...BLOCKS, links: [{ headline: "근거 카드", url: "https://x/c" }] } });
+    expect(html).toContain("https://x/c");
+    expect(html).not.toContain("디자인 신호");
+  });
+
   it("언어마다 제목이 다르다", () => {
     expect(renderReport({ ...base, lang: "en", entitled: true, sections: [] }).subject)
       .not.toBe(renderReport({ ...base, lang: "ko", entitled: true, sections: [] }).subject);

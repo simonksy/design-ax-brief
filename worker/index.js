@@ -393,20 +393,33 @@ export default {
       const ent = await getEntitlement(env.DB, email);
       const prefs = await getPrefs(env.DB, email);
       const token = await signUnsub(email, env.SESSION_SIGNING_KEY);
+
+      // ?edition=2026-W40 을 주면 그 주의 '진짜' 리포트를 보낸다. 더미로는 글의
+      // 수준을 볼 수 없고, 수준을 보지 않고 매주 보내기 시작할 수는 없다.
+      const want = url.searchParams.get("edition");
+      let blocks = null;
+      if (want && /^\d{4}-W\d{2}$/.test(want)) {
+        const r = await env.ASSETS.fetch(
+          new Request(new URL(`/reports/${want}/${prefs.lang}.json`, env.BASE_URL)));
+        if (r.ok) { try { blocks = await r.json(); } catch (e) {} }
+        if (!blocks) return json({ ok: false, reason: "no_report_for_" + want }, 404);
+      }
+      const edition = blocks ? want : "TEST";
+      const body = blocks || {
+        change: "배관 점검용 더미 문단입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
+        sections: { design: "디자인 더미 신호" },
+        dots: "교차 인사이트 더미 문단입니다.",
+        next: ["더미 항목"],
+      };
+      const secs = blocks ? Object.keys(body.sections || {}) : ["design"];
       const { subject, html } = renderReport({
-        edition: "TEST", lang: prefs.lang,
-        blocks: {
-          change: "배관 점검용 더미 문단입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
-          sections: { design: "디자인 더미 신호" },
-          dots: "교차 인사이트 더미 문단입니다.",
-          next: ["더미 항목"],
-        },
-        entitled: ent.entitled, sections: ["design"],
+        edition, lang: prefs.lang, blocks: body,
+        entitled: ent.entitled, sections: secs,
         unsubUrl: `${env.BASE_URL}/api/mail/unsubscribe?t=${token}`,
       });
       try { await sendReport(env, email, subject, html); }
       catch (e) { return json({ ok: false, reason: String((e && e.message) || e) }, 502); }
-      return json({ ok: true, to: email, entitled: ent.entitled });
+      return json({ ok: true, to: email, entitled: ent.entitled, edition });
     }
 
     // 수신 거부 — 로그인을 요구하지 않는다. 메일을 받은 사람이 로그인 화면을
