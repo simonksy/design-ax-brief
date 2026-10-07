@@ -76,3 +76,69 @@ assert "N en head" in sh
 legacy = open(f"{d9}/s/design/n.html", encoding="utf-8").read()
 assert '<html lang="ko">' in legacy and "https://ax.test/?c=design:n" in legacy
 print("build_data i18n OK")
+
+
+# 번역은 cards.json에 들어가는데 roll은 그걸 news_data.json으로 옮긴 뒤다. 순서가
+# 어긋나면 오늘 카드가 text 없이 남고, 사이트는 멈추지 않는다 — 한국어 독자에게
+# 영어 원문이 '미번역' 회색 안내와 함께 그대로 나간다. 조용히 틀리는 쪽이 제일 나쁘다.
+def _card(cid, langs):
+    full = {"headline": "h", "body": "b"}
+    return {"id": cid, "url": f"https://{cid}", "source_lang": "en",
+            "text": {l: dict(full) for l in langs}}
+
+
+def test_untranslated_today_card_is_warned():
+    import io, contextlib
+    import build_data
+    today = {"date": "2026-10-07", "cards": [
+        _card("done", ["en", "ko", "ja", "zh", "es"]),
+        _card("half", ["en", "es"]),
+    ]}
+    err = io.StringIO()
+    with contextlib.redirect_stderr(err):
+        build_data.warn_untranslated_today("marketing", today)
+    out = err.getvalue()
+    assert "half" in out and "marketing" in out, out
+    assert "ko" in out and "ja" in out and "zh" in out, out   # 빠진 언어를 이름으로 댄다
+    assert "es" not in out.split("(")[1].split(")")[0], out   # 있는 언어는 적지 않는다
+    assert "done" not in out, out                             # 다 갖춘 카드는 조용하다
+
+
+def test_fully_translated_today_is_silent():
+    import io, contextlib
+    import build_data
+    today = {"date": "2026-10-07",
+             "cards": [_card("done", ["en", "ko", "ja", "zh", "es"])]}
+    err = io.StringIO()
+    with contextlib.redirect_stderr(err):
+        build_data.warn_untranslated_today("marketing", today)
+    assert err.getvalue() == "", err.getvalue()
+
+
+test_untranslated_today_card_is_warned()
+test_fully_translated_today_is_silent()
+
+
+# 함수가 맞아도 호출 '자리'가 틀리면 소용없다 — 처음에 to_js 안에 뒀는데, 거기는
+# 언어별 flatten이 끝나 text가 이미 사라진 뒤라 멀쩡한 카드까지 전부 미번역으로
+# 경고했다. 그래서 진짜 빌드를 돌려 경고가 '그 한 장만' 나오는지 본다.
+def test_build_warns_only_for_the_untranslated_card():
+    data = {"sections": {"marketing": {"today": {"date": "2026-10-07", "cards": [
+        dict(_card("done", ["en", "ko", "ja", "zh", "es"]),
+             tool="T", eyebrow="E", headline="h", body="b", source="S", accent="#111"),
+        dict(_card("half", ["en"]),
+             tool="T", eyebrow="E", headline="h", body="b", source="S", accent="#222"),
+    ]}, "days": []}}}
+    dd = tempfile.mkdtemp()
+    json.dump(data, open(os.path.join(dd, "news_data.json"), "w"), ensure_ascii=False)
+    r = subprocess.run(["python3", os.path.abspath("build_data.py"),
+                        "--in", os.path.join(dd, "news_data.json"),
+                        "--out", os.path.join(dd, "axbrief-data.js")],
+                       check=True, capture_output=True, text=True)
+    warns = [l for l in r.stderr.splitlines() if "번역이 없다" in l]
+    assert len(warns) == 1, r.stderr
+    assert "half" in warns[0], warns
+
+
+test_build_warns_only_for_the_untranslated_card()
+print("build_data untranslated-guard OK")

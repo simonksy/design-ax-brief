@@ -4231,6 +4231,129 @@
       }
     ],
     "lockedCount": 4
+  },
+  "marketing": {
+    "label": "Marketing",
+    "news": [
+      {
+        "id": "chatgpt-labels",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "accent": "#ff8a3d",
+        "motif": "frame",
+        "image": "pipeline/media/chatgpt-labels.jpg",
+        "headline": "OpenAI、編集ラベル\nChatGPTの結果で試す",
+        "body": "OpenAIはChatGPTの商品結果に編集ラベルを付けて試している。",
+        "mini_headline": "ChatGPTの編集ラベル",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
+              "cap": "ChatGPTの商品ボックス。"
+            },
+            {
+              "t": "p",
+              "x": "OpenAIはChatGPTの商品結果に添える新しいラベルを試している。ラベルは表示中の商品について「総合的に最も優れた製品」「初心者に最適」「クッション性が最も高い」といった情報を加える。"
+            },
+            {
+              "t": "p",
+              "x": "ラベルは緑とグレーのハイライトで表示される場合もあり、かなり目を引く。"
+            },
+            {
+              "t": "p",
+              "x": "見つけたのはBrodie Clarkで、XとSERP Alertに次のように投稿した。「ChatGPTが検索結果のオーガニック商品に表示できるラベルの新しい変種を試している。元の版を広げ、新しい実験では『総合的に最も優れた』商品に緑のラベルを、さらに基準ごとの『最も優れた』項目にグレーのラベルを表示している。」"
+            },
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+              "cap": "Brodie Clarkが投稿した新しいラベルのスクリーンショット。"
+            },
+            {
+              "t": "p",
+              "x": "これは該当商品のクリック率を押し上げるはずだ。"
+            }
+          ]
+        },
+        "lang": "ja",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "monks-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Digiday",
+        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/monks-agents.jpg",
+        "headline": "S4 Capital傘下の\nMonks、AIが無人稼働",
+        "body": "Monksのコーディングエージェントは監視なしで36〜48時間動く。",
+        "mini_headline": "エージェントを任せるMonks",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nano-banana-21",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "accent": "#2ec5c5",
+        "motif": "frame",
+        "image": "pipeline/media/nano-banana-21.jpg",
+        "headline": "Nano Banana\n2.1、AI Modeで展開",
+        "body": "GoogleはNano Banana 2.1をAI Modeで順次展開している。",
+        "mini_headline": "AI ModeのNano Banana 2.1",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "pinterest-beauty-guides",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/pinterest-beauty-guides.jpg",
+        "headline": "PinterestのAIが\n美容Pinを計画に",
+        "body": "PinterestのBeauty Guidesが美容Pinをサロンの用語に置き換える。",
+        "mini_headline": "美容Pinが計画になる",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mueller-ai-crawlers",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/mueller-ai-crawlers.jpg",
+        "headline": "AIクローラーが読む\nsitemapとRSS",
+        "body": "John MuellerはAIクローラーがsitemapとRSSを取得するのを確認した。",
+        "mini_headline": "AIクローラーがsitemapを読む",
+        "lang": "ja",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
+    "lockedCount": 4
   }
 };
   window.AX_SECTION_ORDER = [

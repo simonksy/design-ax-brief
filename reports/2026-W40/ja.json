@@ -1,43 +1,36 @@
 {
   "edition": "2026-W40",
   "lang": "ja",
-  "change": "今週の動きを一つ選ぶなら、モデルに入れる素材に値が付き始めたことだ。米連邦控訴裁は出版社のコンテンツを無断でAI学習に複製する行為をフェアユースと認めず、東京地裁は声優の請求を棄却しながらも、声がパブリシティ権で保護されると判断した。どちらも当事者が望んだ結論を丸ごと得たわけではないが、基準は残った。同じ週にIMPFとIMPELはAIライセンスで楽曲も録音と同じだけ支払われるべきだと線を引き、SunoはWMG・BMGと契約し、MentatはAIが自社の本をどれだけ引用したかを出版社自身が確認できるようにした。使えるかを争う場が、いくらで使うかを計算する場に移った。",
-  "links": [
+  "thesis": "今週もAIのルールは増えたが、詰まったのはルールではなく、守られたかどうかを確かめる費用のほうだった。",
+  "ground": "線を引く文章は簡単に増える。難しいのは、その線を越えたかどうかを誰がどの予算で見に行くかで、今週のカードでは、その費用を負う相手がいない場所ではルールが文字のまま残るか、まとめて禁止に置き換わった。",
+  "evidence": [
     {
-      "headline": "항소법원, 톰슨 로이터 AI 저작권 승소 유지",
-      "url": "https://axitnow.com/ja/?c=politics:rossappeal"
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/ja/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/taiwandeepfake.png",
+      "role": "選挙向けのディープフェイク法はすでにあるのに、削除請求が一件も出なかった。詰まっているのはルールではないという命題の前半を、この点がそのまま支える。"
     },
     {
-      "headline": "츠다 켄지로 AI 음성 소송 기각, 목소리 권리는 인정됐다",
-      "url": "https://axitnow.com/ja/?c=games:games-tsuda-voice-ruling"
+      "section": "books",
+      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
+      "url": "https://axitnow.com/ja/?c=books:books-springer-ai-slop",
+      "image": "https://axitnow.com/pipeline/media/books-springer-ai-slop.jpg",
+      "role": "誰も確認の費用を払わないとき、その負担が鎖の末端の買い手に落ちるという部分を、Springerの電子書籍を買い入れた図書館が支える。"
     },
     {
-      "headline": "독립 퍼블리셔들이 내놓은 AI 라이선스 원칙",
-      "url": "https://axitnow.com/ja/?c=music:music-impf-impel-ai-licensing"
+      "section": "design",
+      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
+      "url": "https://axitnow.com/ja/?c=design:design-nasa-brand-trust-ai-imagery",
+      "image": "https://axitnow.com/pipeline/media/design-nasa-brand-trust-ai-imagery.jpg",
+      "role": "一件ずつ確かめる費用が大きすぎるとき、組織は確認をやめて一律禁止を選ぶという側を、信頼そのものが資産であるNASAの判断が示す。"
     },
     {
-      "headline": "WMG·BMG와 손잡은 Suno v6, 아티스트 측 반응은 제각각이다",
-      "url": "https://axitnow.com/ja/?c=music:music-suno-v6-label-deals-artist-reps"
-    },
-    {
-      "headline": "AI가 내 책을 얼마나 인용했는지 눈으로 확인한다",
-      "url": "https://axitnow.com/ja/?c=books:books-mentat-licensing"
+      "section": "music",
+      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
+      "url": "https://axitnow.com/ja/?c=music:music-musixmatch-lyrics-llm",
+      "image": "https://axitnow.com/pipeline/media/music-musixmatch-lyrics-llm.png",
+      "role": "確認がルールに付いた手続きではなく値段のつく商品になり、その代金を払うのが生成する側だという地点で、MusixmatchのSentinelと顧客になったSunoによって命題が閉じる。"
     }
-  ],
-  "sections": {
-    "books": "組織のAI活用は63%に伸びたのに、個人の活用は46%から38%へ落ちた。道具がないのではなく、打ち明けられる場がないからだ。AIが先に入ったのは執筆ではなく翻訳と挿画である。",
-    "design": "PhotoshopとLightroomはGeminiの対話画面へ、AdobeのプラグインはChatGPTの中へ、Cinema 4DとClassCADはMCPへ移った。作業面がキャンバスの外に出ていく。一方、調査されたAI生成サイト15件はすべてWCAG Aに達しなかった。",
-    "gadgets": "Metaのスマートグラスの聴覚補助がFDAの認可を得て、30日の体験後は149ドルという値が付いた。Legato Framesは999ドルからだ。AIがスペック表の一行から、金を取る補助機器へ移る。",
-    "games": "プラットフォームは門を開く。ONE StoreはAI製ゲームの登録を全開発者に開き、MetaはHorizon Studioを出した。作る側は逆だ。Super Mario GalaxyのPC移植は「100%人間が書いた」を前面に置く。",
-    "movies": "『テラリウム』は空のスタジオで俳優だけを撮り、場所と小道具はAIで埋める。ジャ・ジャンクーはAIを物語の中に置き、製作には使わない。どこまで使うかが作品の身元になった。",
-    "music": "SunoはWMG・BMGと契約し、IMPFとIMPELは楽曲も録音と同じだけ受け取るべきだと明言した。Musixmatchは検出を商品にしてSunoに売った。流通と取り締まりが同じ速さで育つ。",
-    "politics": "ホワイトハウスは「AI」を「超知能」に置き換える大統領令に署名し、米中は超知能対話を新設した。同じ週にFTCとカリフォルニア州がOpenAIの安全性調査に入った。言葉と執行が同時に動く。",
-    "science": "AnthropicのLLMが3〜10次元の格子でもパーコレーション転移が連続であることを証明し、チャルマース工科大のAI科学者は酵母の実験を自ら回した。同じ週、誤ったAI要約を読んだ参加者の記憶正確度は44.8%だった。検証は成果の一部だ。"
-  },
-  "dots": "ネットワークが束ねた4枚は、すべて法廷の話である。ゲームの津田健次郎の判決と音楽の日本の裁判所の判決は、同じ東京の判断を二つの産業の言葉で読んだものだ。音楽の「フェアユースではない」と政治の「Thomson Reutersの勝訴維持」も、一つの控訴審を別の角度から見ている。一つのセクションだけを開けば、声優の訴訟が一件、著作権の判例が一件に見える。四枚を重ねれば線は一本だ。人の声と人が書いた文がモデルの入力になるとき、その入力に権利者が付く。だから同じ週に出たMentatの引用量の確認、MusixmatchのSentinelによる検出、出版界のAI表示の議論が、別々のニュースには読めない。判決が基準を立てれば、それを数える道具がすぐ後に続く。",
-  "next": [
-    "欧州委員会の著作権と生成AIに関する意見募集は11月3日に閉じる。AIが声や演技を真似た実演家の問題まで問うており、音楽と出版は今から出す言葉を用意する必要がある。",
-    "大統領令に基づき、科学技術担当補佐官は60日以内に「超知能」の連邦定義案を大統領に提出する。最初のAIエージェント法案2件が「エージェント」の定義から食い違っている今、この定義が基準点になる。",
-    "日付が決まっているものが二つある。EUのヌーディファイAI禁止は12月2日施行で、Kling 4.0は10月に出て、アリババは動画モデルを11月に公開すると予告した。"
   ]
 }

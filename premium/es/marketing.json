@@ -1,0 +1,131 @@
+{
+  "cards": {
+    "marketing/monks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "S4 Capital ha empezado a dejar que los agentes de AI trabajen durante días sin que nadie los vigile. Algunas ejecuciones se prolongan de 36 a 48 horas y los proyectos grandes pueden llevar varios días, dijo Wesley ter Haar, chief AI and revenue officer de Monks, de S4 Capital."
+        },
+        {
+          "t": "p",
+          "x": "La mayor parte de ese trabajo es programar el software propio de la agencia: el código es preciso y está sujeto a reglas, así que ceder esas tareas fue “una decisión casi obvia”. En palabras de ter Haar: “Teníamos agentes de código que trabajaron de 36 a 48 horas sin cometer errores.”"
+        },
+        {
+          "t": "p",
+          "x": "Las condiciones las siguen fijando las personas. El equipo redacta los requisitos con los que trabajarán los agentes antes de iniciar una ejecución; desde ahí los agentes reparten el trabajo, prueban lo que programan contra esos requisitos y se revisan entre sí. Hasta hace unos meses los desarrolladores tenían que montar ese andamiaje a mano. “Los modelos actuales ya no lo necesitan”, dijo ter Haar. “Levantan su propia configuración agéntica.”"
+        },
+        {
+          "t": "p",
+          "x": "Lo siguiente es el marketing. Monks está adaptando el esquema a social y performance, donde los agentes esperan una tendencia, una tanda de comentarios o una publicación con bajo rendimiento y entonces actúan, con los datos de interacción como circuito de retroalimentación. “Por ahora esto es sobre todo software, pero la dirección está clara”, dijo ter Haar. Un cliente no identificado trasladará su trabajo en social a este esquema a comienzos del año próximo."
+        },
+        {
+          "t": "p",
+          "x": "El cambio también mueve el dinero: los tokens salen ahora de lo que ter Haar llama el presupuesto de talento y, con sprints de dos semanas comprimidos a dos días, Monks debate si “reintroducir algo de fricción” para que las personas sigan aportando un punto de vista."
+        }
+      ]
+    },
+    "marketing/nano-banana-21": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
+          "cap": "Nano Banana."
+        },
+        {
+          "t": "p",
+          "x": "Google publicó hoy Nano Banana 2.1 y ya funciona dentro de AI Mode en la Búsqueda de Google. Nano Banana 2.1 es el modelo más reciente de generación y edición de imágenes de Google."
+        },
+        {
+          "t": "p",
+          "x": "Google dijo que Nano Banana 2.1 “supera a nuestros modelos anteriores en todos los frentes, con saltos notables en diseño visual, edición con máscaras y consistencia del sujeto para ayudarte a crear imágenes de aspecto más natural.”"
+        },
+        {
+          "t": "p",
+          "x": "Robby Stein, VP de Producto de Búsqueda en Google, añadió que Nano Banana 2.1 ya está en AI Mode. Escribió en X: “Nano Banana 2.1 se está desplegando en AI Mode en la Búsqueda”. Para usarlo, dijo, basta con “abrir la app de Google y tocar el icono 🍌 debajo de la caja de búsqueda para empezar a crear”."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
+          "cap": "El botón de banana en la app de Google."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
+          "cap": "Lo que ocurre al tocar el icono."
+        },
+        {
+          "t": "p",
+          "x": "Google llevó Nano Banana a Google Lens por primera vez hace un año, amplió el acceso a AI Mode en diciembre pasado y en julio lo sumó a AI Overviews. AI Overviews puede no usar todavía la versión 2.1, pero AI Mode sí."
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+          "cap": "Créditos de imagen: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest mostró el martes una nueva función que usará IA para actuar sobre la inspiración que guardas en Pins de belleza, como ideas de peinado y de uñas, y convertirla en planes concretos que puedes llevar al salón."
+        },
+        {
+          "t": "p",
+          "x": "“Beauty Guides”, que funciona con Pinterest Intelligence, la tecnología de inteligencia visual e IA generativa de la empresa, traducirá los Pins a los términos y expresiones que emplean estilistas y manicuristas y que el usuario común quizá no conozca, como “balayage”, “root melt” o “almond nails”."
+        },
+        {
+          "t": "p",
+          "x": "La función se apoya en algo que la gente ya hace —llevar al salón una foto de su inspiración—, aunque también resulta útil tener la terminología adecuada a mano al conversar sobre qué partes del look conviene cambiar."
+        },
+        {
+          "t": "p",
+          "x": "Las guías ofrecen además el tipo de información que ayuda a planificar la visita, como el tiempo que puede llevar cada parte del proceso y el coste. (Balayage llega a los cientos de dólares.)"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
+          "cap": "Créditos de imagen: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "Las guías aparecen al tocar el botón “Get the Guide” dentro de la aplicación y detallan qué hay que pedir exactamente, cuánto tiempo lleva, el rango de precios y los requisitos de mantenimiento, como cada cuánto habrá que cortar, matizar o retocar. En el lanzamiento, la función funcionará con Pins relacionados con el peinado, el color, la forma de las uñas y el acabado."
+        }
+      ]
+    },
+    "marketing/mueller-ai-crawlers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
+          "cap": "Search Engine Journal"
+        },
+        {
+          "t": "p",
+          "x": "John Mueller, de Google, dice que los rastreadores de entrenamiento de IA no suelen ofrecer a los responsables de un sitio una forma de enviar un sitemap, y sugiere un nombre de archivo por defecto o un feed RSS para los sitios que quieran que esos rastreadores encuentren su contenido."
+        },
+        {
+          "t": "p",
+          "x": "Lo comentó junto a Martin Splitt en el episodio del 1 de octubre del podcast Search Off the Record de Google, titulado “Do sitemaps still matter?”. También dijo que en sus propios registros de servidor ha visto rastreadores de IA acceder a sus archivos de sitemap y RSS."
+        },
+        {
+          "t": "p",
+          "x": "“He visto que ocurre en mis registros de servidor, donde algún rastreador de IA accede a mi archivo de sitemap”, dijo, y ha observado lo mismo con sus archivos RSS. No nombró a los rastreadores y señaló que no sabe si las empresas de IA documentan esto ni qué hacen con los archivos."
+        },
+        {
+          "t": "p",
+          "x": "Los rastreadores de entrenamiento de IA son distintos porque “normalmente no tienen ninguna Console ni ninguna configuración donde puedas enviar un archivo de sitemap”. Para los sitios que quieren su contenido en sistemas de IA, sugirió “o te quedas con el nombre genérico, lo llamas sitemap.xml, o te centras en los feeds RSS”. Los feeds son más fáciles de encontrar, apuntó, porque suelen estar enlazados desde el head del HTML de una página."
+        },
+        {
+          "t": "p",
+          "x": "Un sitemap mantenido en privado, con un nombre de archivo poco habitual y sin entrada en robots.txt, permanece oculto para los sistemas a los que no se envía. Preguntado por si llms.txt podría sustituir a un sitemap XML, Mueller comparó el archivo Markdown con un sitemap HTML y dijo que los sistemas de Google no pueden usarlo como sitemap porque carece del formato estricto."
+        }
+      ]
+    }
+  }
+}

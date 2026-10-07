@@ -406,15 +406,13 @@ export default {
       }
       const edition = blocks ? want : "TEST";
       const body = blocks || {
-        change: "배관 점검용 더미 문단입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
-        sections: { design: "디자인 더미 신호" },
-        dots: "교차 인사이트 더미 문단입니다.",
-        next: ["더미 항목"],
+        thesis: "배관 점검용 더미 명제입니다. 이 메일이 보이면 조립과 발송이 돕니다.",
+        ground: "더미 논거 문장입니다.",
+        evidence: [{ headline: "더미 사례", section: "design", url: env.BASE_URL,
+                     image: "", role: "더미 역할 문장입니다." }],
       };
-      const secs = blocks ? Object.keys(body.sections || {}) : ["design"];
       const { subject, html } = renderReport({
-        edition, lang: prefs.lang, blocks: body,
-        entitled: ent.entitled, sections: secs,
+        edition, lang: prefs.lang, blocks: body, entitled: ent.entitled,
         unsubUrl: `${env.BASE_URL}/api/mail/unsubscribe?t=${token}`,
       });
       try { await sendReport(env, email, subject, html); }

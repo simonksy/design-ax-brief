@@ -4231,6 +4231,129 @@
       }
     ],
     "lockedCount": 4
+  },
+  "marketing": {
+    "label": "Marketing",
+    "news": [
+      {
+        "id": "chatgpt-labels",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "accent": "#ff8a3d",
+        "motif": "frame",
+        "image": "pipeline/media/chatgpt-labels.jpg",
+        "headline": "OpenAI prueba etiquetas\neditoriales en ChatGPT",
+        "body": "OpenAI está probando etiquetas como 'best all-rounder' y 'best for beginners' en resultados orgánicos de ChatGPT.",
+        "mini_headline": "Etiquetas editoriales en ChatGPT",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
+              "cap": "Cajas de productos en ChatGPT."
+            },
+            {
+              "t": "p",
+              "x": "OpenAI está probando nuevas etiquetas añadidas a los resultados de productos de ChatGPT. Esas etiquetas pueden aportar información sobre el producto que se muestra, como “best all-rounder”, “best for beginners”, “best cushioning” y así sucesivamente."
+            },
+            {
+              "t": "p",
+              "x": "Las etiquetas también pueden aparecer resaltadas en verde y gris, lo que las hace destacar mucho."
+            },
+            {
+              "t": "p",
+              "x": "Lo detectó Brodie Clark, que lo publicó en X y en SERP Alert: “ChatGPT está probando una nueva variación de las etiquetas que puede mostrar para los productos orgánicos en sus resultados. Ampliando la versión original, el nuevo experimento muestra una etiqueta verde para el producto ‘best all-rounder’ y además etiquetas grises para el ‘best’ según distintos criterios.”"
+            },
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+              "cap": "La captura de Brodie Clark con las nuevas etiquetas."
+            },
+            {
+              "t": "p",
+              "x": "Esto debería ayudar a las tasas de clics de estos productos."
+            }
+          ]
+        },
+        "lang": "es",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "monks-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Digiday",
+        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/monks-agents.jpg",
+        "headline": "En Monks, de S4 Capital, los\nagentes de AI trabajan solos",
+        "body": "Monks, de S4 Capital, mantiene agentes de código trabajando sin supervisión 36 a 48 horas.",
+        "mini_headline": "Monks deja solos a sus agentes",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nano-banana-21",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "accent": "#2ec5c5",
+        "motif": "frame",
+        "image": "pipeline/media/nano-banana-21.jpg",
+        "headline": "Nano Banana 2.1 comienza a\ndesplegarse en AI Mode",
+        "body": "Google lanzó Nano Banana 2.1, su último modelo de imagen, que se despliega en AI Mode en el buscador.",
+        "mini_headline": "Nano Banana 2.1 en AI Mode",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "pinterest-beauty-guides",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/pinterest-beauty-guides.jpg",
+        "headline": "Pinterest convierte los Pins\nde belleza en planes",
+        "body": "Las Beauty Guides de Pinterest traducen Pins de pelo y uñas a términos de salón, con costes, tiempos y mantenimiento.",
+        "mini_headline": "Los Pins de belleza se vuelven planes",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mueller-ai-crawlers",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/mueller-ai-crawlers.jpg",
+        "headline": "Mueller ve a rastreadores de IA\nleyendo sitemaps y RSS",
+        "body": "John Mueller, de Google, dice que sus registros muestran rastreadores de IA leyendo sitemaps y RSS.",
+        "mini_headline": "Los rastreadores de IA leen sitemaps",
+        "lang": "es",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
+    "lockedCount": 4
   }
 };
   window.AX_SECTION_ORDER = [

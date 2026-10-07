@@ -1,178 +1,118 @@
 {
- "date": "2026-10-06",
- "section": "marketing",
- "now_iso": "2026-10-06T10:40:00Z",
- "window_hours": 72,
- "items": [
-  {
-   "title": "Building advertising for the way people use AI",
-   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "source": "OpenAI",
-   "published_iso": "2026-10-05T10:00:00+00:00",
-   "og_image": null,
-   "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability controls for advertisers. The visual format starts testing later this month in the US with an initial group of advertisers.",
-   "keyword": "AI advertising",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI launches visual ads that appear alongside image generation results",
-   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "source": "TechCrunch",
-   "published_iso": "2026-10-05T15:14:24+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-   "excerpt": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-   "keyword": "AI advertising",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI moves to make ChatGPT Ads more measurable — and more visual",
-   "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
-   "source": "Digiday",
-   "published_iso": "2026-10-05T10:01:00+00:00",
-   "og_image": "https://digiday.com/wp-content/uploads/sites/3/2025/12/openai-ads-digiday.jpg",
-   "excerpt": "OpenAI answers advertiser complaints with a new format, measurement tools and brand suitability testing to ChatGPT Ads.",
-   "keyword": "AI attribution",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI Testing Visual ChatGPT Ad Format",
-   "url": "https://www.seroundtable.com/openai-visual-chatgpt-ad-format-42229.html",
-   "source": "Search Engine Roundtable",
-   "published_iso": "2026-10-05T07:03:00-04:00",
-   "og_image": "https://images.seroundtable.com/chatgpt-image-gen-ads-Gg7tVkfj.jpg",
-   "excerpt": "OpenAI announced \"new visual ad format in ChatGPT\" that it will be testing \"later this month in the US with an initial group of advertisers.\" The new visual ad format is an \"ad format during image generation in ChatGPT.\" So if you ask ChatGPT to make an image for you, it will show a special ad for that process.",
-   "keyword": "AI ad platform update",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI Is Piloting Brand Suitability Controls With DoubleVerify and IAS",
-   "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
-   "source": "Adweek",
-   "published_iso": "2026-10-05T12:06:50-04:00",
-   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=600&h=315&crop=1",
-   "excerpt": "The company is also testing a larger, image-led ad format and expanding its measurement partners.",
-   "keyword": "brand safety AI verification",
-   "category": "marketing"
-  },
-  {
-   "title": "TikTok Adds an AI Shopping Assistant and Lets Users Buy Direct From Brands",
-   "url": "https://www.adweek.com/commerce/tiktok-adds-an-ai-shopping-assistant-and-lets-users-buy-direct-from-brands/",
-   "source": "Adweek",
-   "published_iso": "2026-10-05T10:41:47-04:00",
-   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/TikTok-Shopping.jpg?w=600&h=315&crop=1",
-   "excerpt": "The shopping assistant gives guidance on product details, shipping, sizing, availability, and purchasing",
-   "keyword": "AI product discovery",
-   "category": "marketing"
-  },
-  {
-   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-   "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-   "source": "TechCrunch",
-   "published_iso": "2026-10-05T18:29:00+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
-   "excerpt": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-   "keyword": "chatbot shopping assistant",
-   "category": "marketing"
-  },
-  {
-   "title": "TikTok broadens agentic AI play, brings global ad network to US",
-   "url": "https://www.marketingdive.com/news/tiktok-broadens-agentic-ai-play-brings-global-ad-network-to-us/832007/",
-   "source": "Marketing Dive",
-   "published_iso": "2026-10-05T10:30:00-04:00",
-   "og_image": "https://imgproxy.divecdn.com/m_DB6CgOJ57JOX8dknxoWdGDy_5-oL2PuvJEQOjGkdc/g:nowe:0:32/c:2500:1412/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTY4NzczNTI3LmpwZw==.webp",
-   "excerpt": "New products timed to Advertising Week see the video-sharing app boasting of its economic might ahead of the busy holiday season.",
-   "keyword": "marketing automation AI agent",
-   "category": "marketing"
-  },
-  {
-   "title": "Google Ads AI Campaign Localization Tool For Search Campaigns",
-   "url": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
-   "source": "Search Engine Roundtable",
-   "published_iso": "2026-10-05T07:11:00-04:00",
-   "og_image": "https://images.seroundtable.com/google-ads-ai-localization-tool-doc-u1priojH.png",
-   "excerpt": "Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. \"You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using generative AI,\" Google wrote in the help document.",
-   "keyword": "Google Ads AI campaign feature",
-   "category": "marketing"
-  },
-  {
-   "title": "Google Search Spam Updates Use AI To Find AI Spam",
-   "url": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
-   "source": "Search Engine Roundtable",
-   "published_iso": "2026-10-05T07:45:00-04:00",
-   "og_image": "https://images.seroundtable.com/google-shield-yaSxaxKM.jpg",
-   "excerpt": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new content than before. He also said Google is using AI to catch more spam.",
-   "keyword": "AI search referral",
-   "category": "marketing"
-  },
-  {
-   "title": "Google's Mueller Says AI Crawlers Access Sitemaps & RSS In His Logs",
-   "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
-   "source": "Search Engine Journal",
-   "published_iso": "2026-10-05T22:47:18+00:00",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
-   "excerpt": "Google's John Mueller says AI training crawlers usually don't offer sitemap submission and suggests default sitemap names or RSS feeds to help them find sites.",
-   "keyword": "answer engine optimization",
-   "category": "marketing"
-  },
-  {
-   "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse",
-   "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
-   "source": "Search Engine Journal",
-   "published_iso": "2026-10-05T21:03:08+00:00",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-serp-tracking-467.jpg",
-   "excerpt": "Google is slamming the door on SERP tracking, but AI agents may be giving it more reason to shut down automated queries.",
-   "keyword": "LLM visibility ranking brands",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In",
-   "url": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
-   "source": "Search Engine Journal",
-   "published_iso": "2026-10-06T01:07:32+00:00",
-   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/openai-eu-featured-1600x840-1.jpg",
-   "excerpt": "OpenAI will add an invisible watermark to ChatGPT and Codex text in the EU. Its tests show editing can weaken it.",
-   "keyword": "AI 광고 표시 의무",
-   "category": "marketing"
-  },
-  {
-   "title": "Gap unveils AI-assisted shopping, three decades after its first website",
-   "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
-   "source": "Retail Dive",
-   "published_iso": "2026-10-05T11:01:00-04:00",
-   "og_image": "https://imgproxy.divecdn.com/UaO5m3HdJQLXAfmElFR7k5h-eHGyY38ksIDBK9qo0cg/g:nowe:56:1373/c:1936:1094/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-   "excerpt": "Starting Monday, customers can get recommendations from the Alta Daily and Daydream platforms. Banana Republic and Old Navy are also launching conversational shopping agents.",
-   "keyword": "AI product discovery",
-   "category": "marketing"
-  },
-  {
-   "title": "Pricing tactics come under scrutiny in the age of AI",
-   "url": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/",
-   "source": "Modern Retail",
-   "published_iso": "2026-10-05T14:00:00+00:00",
-   "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/01/piggy-bank-shattered.webp",
-   "excerpt": "Concern is growing that retailers are using customer data to engage in dynamic pricing, and it is putting more companies on the defensive.",
-   "keyword": "retail media AI",
-   "category": "marketing"
-  },
-  {
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-   "source": "The Verge",
-   "published_iso": "2026-10-05T18:08:39+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "﻿It’s launching textGrain watermarking in the EU, but OpenAI says it won’t be the ‘global default’ yet.",
-   "keyword": "AI ad disclosure rule",
-   "category": "marketing"
-  },
-  {
-   "title": "Our approach to EU text provenance rules",
-   "url": "https://openai.com/index/eu-text-provenance",
-   "source": "OpenAI",
-   "published_iso": "2026-10-05T15:00:00+00:00",
-   "og_image": null,
-   "excerpt": "OpenAI explains how it is approaching text watermarking under EU provenance rules — where watermarks apply, how detection works, and why detector access starts with researchers.",
-   "keyword": "AI 생성 광고 표기",
-   "category": "marketing"
-  }
- ]
+  "date": "2026-10-07",
+  "window_hours": 72,
+  "items": [
+    {
+      "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-06T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+      "excerpt": "S4 Capital's Monks has started letting AI agents run autonomously for days at a stretch with no human supervising them, pushing agency production work from assisted to unattended."
+    },
+    {
+      "url": "https://www.adweek.com/programmatic/adweek-tech-advantage-ai-agents-are-increasingly-getting-their-hands-on-ad-dollars/",
+      "source": "Adweek",
+      "category": "marketing",
+      "published_iso": "2026-10-06T07:57:23-04:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/09/fifty-dollar-bills.webp?w=600&h=315&crop=1",
+      "excerpt": "As AI moves from making ads to making media-buying decisions, the industry is grappling with how far to let agents go with real budget — and who gets to set the rules."
+    },
+    {
+      "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-06T13:10:00-04:00",
+      "og_image": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
+      "excerpt": "Google released Nano Banana 2.1, its latest image generation and editing model, and it is already live inside AI Mode in Google Search — putting generative imagery directly in the search surface brands optimize for."
+    },
+    {
+      "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-06T06:02:00-04:00",
+      "og_image": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+      "excerpt": "OpenAI is testing editorial-style labels on ChatGPT product results — \"best all-rounder,\" \"best for beginners,\" \"best cushioning\" — a new ranking layer brands cannot buy but will be judged by."
+    },
+    {
+      "url": "https://www.seroundtable.com/google-search-generative-ai-control-add-42236.html",
+      "source": "Search Engine Roundtable",
+      "category": "marketing",
+      "published_iso": "2026-10-06T07:41:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-generative-ai-controls-doc-update-n74ef0oA.png",
+      "excerpt": "Google expanded its Search Console generative-AI control page to spell out when a child property overrides the parent's AI setting, clarifying how site owners actually opt content in or out of AI features."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-05T22:47:18+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
+      "excerpt": "Google's John Mueller says his own server logs show AI training crawlers fetching sitemaps and RSS feeds, and recommends default sitemap names or RSS as the practical way to be found by them."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-05T21:03:08+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/google-serp-tracking-467.jpg",
+      "excerpt": "Google is shutting the door on automated SERP scraping, and the rise of AI agents issuing machine queries gives it more reason to clamp down — threatening the rank-tracking data SEO teams run on."
+    },
+    {
+      "url": "https://www.adexchanger.com/inside-the-stack/want-an-ai-built-mmm-you-can-trust-start-with-a-thesis/",
+      "source": "AdExchanger",
+      "category": "marketing",
+      "published_iso": "2026-10-06T20:58:38+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49250-Inside-the-Stack-Madan_1080x1080.jpg",
+      "excerpt": "M Squared's Madan Bharadwaj on whether you can trust a marketing mix model an AI built: automation makes the model cheap, which is exactly why the human thesis behind it matters more, not less."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "source": "TechCrunch",
+      "category": "marketing",
+      "published_iso": "2026-10-06T19:56:50+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+      "excerpt": "Personal AI agents promise to shop and book for consumers, but anti-bot defenses and deliberate blocks keep locking them out. A new standard aims to let sites distinguish an agent acting for a customer from a scraper."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "category": "marketing",
+      "published_iso": "2026-10-06T14:00:49+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+      "excerpt": "Pinterest's new AI-powered Beauty Guides translate hair and nail Pins into salon terminology with estimated costs, appointment times and maintenance needs — turning inspiration pins into a purchase path."
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "source": "TechCrunch",
+      "category": "marketing",
+      "published_iso": "2026-10-06T20:35:20+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+      "excerpt": "Musubi released PolicyLM-1.7B, a lightweight open-weight decision model built for real-time content moderation — a cheaper way for platforms to enforce the policy rules that define brand-safe inventory."
+    },
+    {
+      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "source": "The Verge",
+      "category": "marketing",
+      "published_iso": "2026-10-05T19:05:19+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+      "excerpt": "The Wikimedia Foundation says OpenAI's \"rogue\" bots may be linked to a May outage, the latest case of AI crawler traffic hitting a publisher's infrastructure hard enough to take pages down."
+    },
+    {
+      "url": "https://www.modernretail.co/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/",
+      "source": "Modern Retail",
+      "category": "marketing",
+      "published_iso": "2026-10-05T04:00:00+00:00",
+      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/06/mascot-digiday.webp",
+      "excerpt": "At Shoptalk, a panel of Gen Alpha shoppers described how they actually use AI and influencers to decide what to buy — and what they do not want brands doing with either."
+    },
+    {
+      "url": "https://www.retaildive.com/news/where-do-associates-fit-in-an-ai-world-retail/831640/",
+      "source": "Retail Dive",
+      "category": "marketing",
+      "published_iso": "2026-10-06T12:14:00",
+      "og_image": "https://imgproxy.divecdn.com/Wkh6Pnbk3tt-AFeNApOwalovO6H-KTgkI6aql8HGvLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjY5MTQ2NDc1LmpwZw==.webp",
+      "excerpt": "Shoppers now walk into stores pre-briefed by AI assistants, and experts say store associates have to support or build on what the chatbot already told them — rewriting the in-store service script."
+    }
+  ]
 }

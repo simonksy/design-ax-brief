@@ -1,0 +1,131 @@
+{
+  "cards": {
+    "marketing/monks-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/s4-holdings-digiday.gif",
+          "cap": "Ivy Liu"
+        },
+        {
+          "t": "p",
+          "x": "S4 Capital has started letting AI agents work for days at a stretch with no one watching them. Some runs go on for 36 to 48 hours and sizable projects can take several days, said Wesley ter Haar, chief AI and revenue officer at S4 Capital’s Monks."
+        },
+        {
+          "t": "p",
+          "x": "Most of that work is coding on the agency’s own software — code is precise and rule-bound, so handing those jobs over was “a bit of a no-brainer.” As ter Haar put it: “We had coding agents that were working for 36 to 48 hours and not making mistakes.”"
+        },
+        {
+          "t": "p",
+          "x": "People still set the terms. Staff write the requirements agents build against before a run starts; from there the agents split the work, test what they code against those requirements and review each other. Until a few months ago developers had to build that scaffolding by hand. “The current models really just don’t need that anymore,” said ter Haar. “They spin up their own agentic setup.”"
+        },
+        {
+          "t": "p",
+          "x": "Marketing work is next. Monks is adapting the setup for social and performance, where agents wait for a trend, a run of comments or an underperforming post and then act, with engagement data as their feedback loop. “Currently this is mostly software based but the direction of travel is clear,” ter Haar said. An unnamed client moves its social work onto it early next year."
+        },
+        {
+          "t": "p",
+          "x": "The shift moves money too: tokens now come out of what ter Haar calls the talent budget, and with two-week sprints compressed to two days Monks is debating whether to “reintroduce some friction” so people still add a point of view."
+        }
+      ]
+    },
+    "marketing/nano-banana-21": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-banana-7vUoTjMa.jpg",
+          "cap": "Nano Banana."
+        },
+        {
+          "t": "p",
+          "x": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google’s latest image generation and editing model."
+        },
+        {
+          "t": "p",
+          "x": "Google said Nano Banana 2.1 “outperforms our previous models across the board, with notable leaps in visual design, mask-based editing, and subject consistency to help you create more natural-looking images.”"
+        },
+        {
+          "t": "p",
+          "x": "Robby Stein, Google’s VP of Product in Search, added that Nano Banana 2.1 is already in AI Mode. He wrote on X, “Nano Banana 2.1 is rolling out in AI Mode in Search!” To use it, he said, just “open the Google app & tap the 🍌 icon under the Search box to get started creating.”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-button-ktje2V8A.jpg",
+          "cap": "The banana button in the Google app."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/nano-banana-google-app-k7k5PS9G.jpg",
+          "cap": "What happens when you tap the icon."
+        },
+        {
+          "t": "p",
+          "x": "Google first brought Nano Banana to Google Lens a year ago, then expanded access to AI Mode last December, and in July brought it to AI Overviews. AI Overviews may not use version 2.1 yet, but AI Mode does."
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/BeautyGuides_Newsroom.webp?resize=1200,675",
+          "cap": "Image Credits: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest on Tuesday showed off a new feature that will leverage AI to take action on your saved inspiration from beauty-related Pins, like hair and nail ideas, and turn them into actionable plans you can take with you to the salon."
+        },
+        {
+          "t": "p",
+          "x": "“Beauty Guides,” which are powered by the company’s visual intelligence and generative AI technology, Pinterest Intelligence, will translate Pins into terms and phrases used by stylists and nail artists that everyday users may not know, like “balayage,” “root melt,” or “almond nails.”"
+        },
+        {
+          "t": "p",
+          "x": "The feature slots into something people already do — bringing a photo of their inspiration to the salon — but having the right terminology at hand while discussing which parts of the look to change is useful too."
+        },
+        {
+          "t": "p",
+          "x": "The guides also offer the sort of information that can help users plan for their visit, like the time each part of the process may take and the cost. (Balayage goes into the hundreds of dollars.)"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/rKcAS0UQ.jpeg?w=680",
+          "cap": "Image Credits: Pinterest"
+        },
+        {
+          "t": "p",
+          "x": "The guides show up when you tap the “Get the Guide” button within the app, and then offer details about what, specifically, you should ask for, the time it takes, price range, and maintenance requirements, like how often you’ll need to trim, tone, or touch up. At launch, the feature will work across Pins related to hairstyle, color, nail shape, and finish."
+        }
+      ]
+    },
+    "marketing/mueller-ai-crawlers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/mueller-sitemaps-featured-1600x840-1.jpg",
+          "cap": "Search Engine Journal"
+        },
+        {
+          "t": "p",
+          "x": "Google’s John Mueller says AI training crawlers usually don’t give site owners a way to submit a sitemap, and he suggests a default file name or an RSS feed for sites that want those crawlers to find their content."
+        },
+        {
+          "t": "p",
+          "x": "He made the comments with Martin Splitt in the Oct. 1 episode of Google’s Search Off the Record podcast, titled “Do sitemaps still matter?” He also said he has seen AI crawlers access his sitemap and RSS files in his own server logs."
+        },
+        {
+          "t": "p",
+          "x": "“I’ve seen that happen in my server logs where some AI crawler accesses my sitemap file,” he said, and he’s seen the same with his RSS files. He didn’t name the crawlers and said he doesn’t know whether AI companies document this or what they do with the files."
+        },
+        {
+          "t": "p",
+          "x": "AI training crawlers are different because “they usually don’t have any kind of a Console or any setup where you can submit a sitemap file.” For sites that want their content in AI systems, he suggested “either you stick to the generic naming, call it sitemap.xml, or you focus on RSS feeds.” Feeds are easier to find, he noted, because they’re usually linked from a page’s HTML head."
+        },
+        {
+          "t": "p",
+          "x": "A sitemap kept private with an unusual file name and no robots.txt entry stays hidden from systems it isn’t submitted to. Asked whether llms.txt could replace an XML sitemap, Mueller compared the Markdown file to an HTML sitemap and said Google’s systems can’t use it as a sitemap because it lacks the strict format."
+        }
+      ]
+    }
+  }
+}

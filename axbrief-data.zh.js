@@ -4231,6 +4231,129 @@
       }
     ],
     "lockedCount": 4
+  },
+  "marketing": {
+    "label": "Marketing",
+    "news": [
+      {
+        "id": "chatgpt-labels",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+        "accent": "#ff8a3d",
+        "motif": "frame",
+        "image": "pipeline/media/chatgpt-labels.jpg",
+        "headline": "OpenAI测试编辑标签\n出现在ChatGPT结果",
+        "body": "OpenAI正在ChatGPT自然商品结果中测试“综合最佳”等编辑标签。",
+        "mini_headline": "ChatGPT中的编辑标签",
+        "full": {
+          "mode": "full",
+          "blocks": [
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-boxes-4Xkzk833.jpg",
+              "cap": "ChatGPT的商品框。"
+            },
+            {
+              "t": "p",
+              "x": "OpenAI正在测试附加在ChatGPT商品结果上的新标签。这些标签会补充所展示商品的信息，例如“综合最佳”“最适合新手”“缓震最佳”等等。"
+            },
+            {
+              "t": "p",
+              "x": "标签还可能以绿色和灰色高亮显示，非常醒目。"
+            },
+            {
+              "t": "p",
+              "x": "发现这一变化的是Brodie Clark，他在X和SERP Alert上写道：“ChatGPT正在测试结果中自然商品标签的新变体。在最初版本的基础上，新实验为‘综合最佳’的商品显示绿色标签，并为不同标准下的‘最佳’加上灰色标签。”"
+            },
+            {
+              "t": "img",
+              "src": "https://images.seroundtable.com/chatgpt-labels-JtgkDfWg.jpg",
+              "cap": "Brodie Clark拍下的新标签截图。"
+            },
+            {
+              "t": "p",
+              "x": "这应该有助于提升这些商品的点击率。"
+            }
+          ]
+        },
+        "lang": "zh",
+        "free": true,
+        "hasFull": true
+      },
+      {
+        "id": "monks-agents",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Digiday",
+        "url": "https://digiday.com/marketing/at-s4-capitals-monks-agents-can-run-autonomously-unsupervised-for-days/",
+        "accent": "#0070f3",
+        "motif": "frame",
+        "image": "pipeline/media/monks-agents.jpg",
+        "headline": "S4 Capital旗下\nMonks放手让AI连跑数日",
+        "body": "S4 Capital旗下Monks的编码代理已能无人监督运行36至48小时。",
+        "mini_headline": "Monks让代理独立运行",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "nano-banana-21",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Roundtable",
+        "url": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+        "accent": "#2ec5c5",
+        "motif": "frame",
+        "image": "pipeline/media/nano-banana-21.jpg",
+        "headline": "Nano Banana\n2.1逐步进入AI Mode",
+        "body": "Google发布最新图像模型Nano Banana 2.1，并在AI Mode中逐步推出。",
+        "mini_headline": "AI Mode中的Nano Banana 2.1",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "pinterest-beauty-guides",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "accent": "#7928ca",
+        "motif": "frame",
+        "image": "pipeline/media/pinterest-beauty-guides.jpg",
+        "headline": "Pinterest 新功能\n把美容 Pin 变方案",
+        "body": "Pinterest 的 Beauty Guides 把美容 Pin 译成沙龙用语。",
+        "mini_headline": "美容 Pin 变成沙龙方案",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      },
+      {
+        "id": "mueller-ai-crawlers",
+        "source_lang": "en",
+        "eyebrow": "AI NEWS",
+        "tool": "Marketing",
+        "source": "Search Engine Journal",
+        "url": "https://www.searchenginejournal.com/googles-mueller-says-ai-crawlers-access-sitemaps-rss-in-his-logs/592012/",
+        "accent": "#ff5a4d",
+        "motif": "frame",
+        "image": "pipeline/media/mueller-ai-crawlers.jpg",
+        "headline": "AI 爬虫在抓取\nsitemap 与 RSS",
+        "body": "John Mueller 说，日志显示 AI 爬虫会抓取 sitemap 与 RSS。",
+        "mini_headline": "AI 爬虫会读 sitemap",
+        "lang": "zh",
+        "hasFull": true,
+        "locked": true
+      }
+    ],
+    "days": [],
+    "lockedCount": 4
   }
 };
   window.AX_SECTION_ORDER = [

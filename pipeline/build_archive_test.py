@@ -11,7 +11,7 @@ rec = dict(t, date="2026-10-02", section="design")
 js_en = ba.to_js([rec], "en")
 assert "Figma ships" in js_en and "secret" not in js_en and '"text"' not in js_en
 assert "한\\n헤드" in ba.to_js([rec], "ko")
-assert "figma" in ba._terms(rec) and "본문" not in ba._terms(rec)     # 그래프는 en 우선
+assert {"figma", "본문"} <= ba._terms(rec)   # 그래프 키워드는 원문 ∪ 영문 (한 덩어리 유지)
 old = {"id": "o", "headline": "옛 카드", "body": "피그마 모션", "date": "2026-09-01", "section": "design"}
 assert '"untranslated": true' in ba.to_js([old], "ja")
 print("build_archive OK")

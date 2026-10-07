@@ -1,43 +1,36 @@
 {
   "edition": "2026-W40",
   "lang": "zh",
-  "change": "若只挑这一周的一个动向，那就是进入模型的素材开始被标价。美国联邦上诉法院没有把未经许可复制出版商内容用于AI训练认定为合理使用，东京地方法院驳回了声优的请求，却认定声音受公开权保护。两边都没有完整拿到自己想要的结论，留下来的是标准。同一周，IMPF与IMPEL划下界线，AI授权中词曲应与录音获得同等报酬；Suno与WMG、BMG签约；Mentat让出版社自己核对AI引用了多少自家图书。争论的位置，从能不能用挪到了用多少钱。",
-  "links": [
+  "thesis": "这一周 AI 的规则又添了几条，真正卡住的却不是规则，而是核查有没有人遵守所要花的钱。",
+  "ground": "划一条线很容易。难的是由谁、花哪笔钱去看那条线有没有被越过；本周的卡片里，凡是找不到人付这笔账的地方，规则要么停在纸面，要么被一刀切的禁令取代。",
+  "evidence": [
     {
-      "headline": "항소법원, 톰슨 로이터 AI 저작권 승소 유지",
-      "url": "https://axitnow.com/zh/?c=politics:rossappeal"
+      "section": "politics",
+      "headline": "대만 선거에 필요한 제대로 된 딥페이크법",
+      "url": "https://axitnow.com/zh/?c=politics:taiwandeepfake",
+      "image": "https://axitnow.com/pipeline/media/taiwandeepfake.png",
+      "role": "选举用的深度伪造法早已写好，却一次删除请求都没有收到——这正撑住命题的前半句：卡住的不是规则。"
     },
     {
-      "headline": "츠다 켄지로 AI 음성 소송 기각, 목소리 권리는 인정됐다",
-      "url": "https://axitnow.com/zh/?c=games:games-tsuda-voice-ruling"
+      "section": "books",
+      "headline": "스프링거 네이처의 기계 생성 책, 대학 도서관 서가에 들어왔다",
+      "url": "https://axitnow.com/zh/?c=books:books-springer-ai-slop",
+      "image": "https://axitnow.com/pipeline/media/books-springer-ai-slop.jpg",
+      "role": "它撑住的是这一段：核查的费用没人出，账单就落到链条末端的买家身上，这次是已经买下 Springer 电子书的图书馆。"
     },
     {
-      "headline": "독립 퍼블리셔들이 내놓은 AI 라이선스 원칙",
-      "url": "https://axitnow.com/zh/?c=music:music-impf-impel-ai-licensing"
+      "section": "design",
+      "headline": "AI 이미지가 넘칠수록 NASA 브랜드는 신뢰를 지킨다",
+      "url": "https://axitnow.com/zh/?c=design:design-nasa-brand-trust-ai-imagery",
+      "image": "https://axitnow.com/pipeline/media/design-nasa-brand-trust-ai-imagery.jpg",
+      "role": "逐件核查太贵时，机构会放弃核查、直接选择全面禁止——以信任为资产的 NASA 的决定说明了这一侧。"
     },
     {
-      "headline": "WMG·BMG와 손잡은 Suno v6, 아티스트 측 반응은 제각각이다",
-      "url": "https://axitnow.com/zh/?c=music:music-suno-v6-label-deals-artist-reps"
-    },
-    {
-      "headline": "AI가 내 책을 얼마나 인용했는지 눈으로 확인한다",
-      "url": "https://axitnow.com/zh/?c=books:books-mentat-licensing"
+      "section": "music",
+      "headline": "뮤직스매치 CEO, 가사를 음악 산업의 LLM이라 부르다",
+      "url": "https://axitnow.com/zh/?c=music:music-musixmatch-lyrics-llm",
+      "image": "https://axitnow.com/pipeline/media/music-musixmatch-lyrics-llm.png",
+      "role": "核查不再是规则里的一个步骤，而成了标价出售的东西，付钱的一方正是做生成的那一方：Musixmatch 卖 Sentinel，Suno 成了客户，命题在这里收口。"
     }
-  ],
-  "sections": {
-    "books": "机构层面的AI使用升到63%，个人使用却从46%掉到38%。缺的不是工具，而是可以坦白的环境。AI最先进入的不是写作，而是翻译和插画。",
-    "design": "Photoshop与Lightroom进了Gemini的对话窗，Adobe插件进了ChatGPT，Cinema 4D和ClassCAD接上MCP。工作面正在离开画布。而受测的15个AI生成网站全部未达WCAG A级。",
-    "gadgets": "Meta智能眼镜的听力辅助拿到FDA许可，30天试用后要149美元；Legato Frames从999美元起。AI从参数表上的一行，变成要收钱的辅助设备。",
-    "games": "平台在开门：ONE Store把AI游戏上架开放给所有开发者，Meta推出Horizon Studio。做东西的人反着走，超级马力欧银河的PC移植把「100%由人编写」摆在最前面。",
-    "movies": "《Terrarium》在空摄影棚只拍演员，场景和道具由AI补齐；贾樟柯把AI留在故事里，不用在制作上。用到哪一步，如今成了作品的身份。",
-    "music": "Suno与WMG、BMG签约，IMPF和IMPEL明确词曲应与录音同等计酬，Musixmatch把版权检测做成产品卖给了Suno。分发和稽查以同样的速度长大。",
-    "politics": "白宫签署行政令，把「AI」改称「超级智能」，中美新设超级智能对话。同一周，FTC和加州对OpenAI启动安全调查。措辞和执法一起动。",
-    "science": "Anthropic的LLM证明3到10维格子上渗流相变依然连续，查尔默斯的AI科学家自己跑完了酵母实验。同一周，读过错误AI摘要的参与者记忆准确率只有44.8%。验证是成果的一部分。"
-  },
-  "dots": "知识网络串起来的四张卡，全是法庭的事。游戏区的津田健次郎判决和音乐区的日本法院判决，是同一份东京裁判被两个行业各自读了一遍；音乐区的「不属于合理使用」和政治区的「Thomson Reuters胜诉获维持」，是同一宗上诉案的两个角度。只打开一个版块，看到的是一桩声优诉讼、一条著作权判例；四张叠在一起，线只有一条：当人的声音和人写的句子成为模型输入，这个输入就跟上了权利人。所以同一周的Mentat引用核对、Musixmatch的Sentinel检测、出版界的AI标示讨论，读起来不像互不相干的新闻。判决立下标准，计数的工具立刻跟上。",
-  "next": [
-    "欧盟委员会关于著作权与生成式AI的意见征询在11月3日关闭，问题里包含被AI模仿的表演者，音乐和出版现在就要备好要说的话。",
-    "依照行政令，科技顾问须在60天内向总统提交「超级智能」的联邦定义草案。首批两部AI代理法案连「代理」的定义都不一致，这份定义会成为基准。",
-    "两个确定的日期：欧盟的nudify AI禁令12月2日生效；Kling 4.0在10月推出，阿里巴巴预告11月公开其视频模型。"
   ]
 }
