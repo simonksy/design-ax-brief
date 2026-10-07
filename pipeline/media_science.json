@@ -1,31 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "science",
- "media": [
-  {
-   "id": "science-xray-agent",
-   "type": "image",
-   "src": "pipeline/media/science-xray-agent.jpg"
-  },
-  {
-   "id": "science-flashflood-forecast",
-   "type": "image",
-   "src": "pipeline/media/science-flashflood-forecast.jpg"
-  },
-  {
-   "id": "science-heart-transplant-rejection",
-   "type": "image",
-   "src": "pipeline/media/science-heart-transplant-rejection.jpg"
-  },
-  {
-   "id": "science-earth-ai-public-health",
-   "type": "image",
-   "src": "pipeline/media/science-earth-ai-public-health.jpg"
-  },
-  {
-   "id": "science-microalgae-growth",
-   "type": "image",
-   "src": "pipeline/media/science-microalgae-growth.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "science-unique-games-proof-race",
+      "type": "image",
+      "src": "pipeline/media/science-unique-games-proof-race.jpg"
+    },
+    {
+      "id": "science-satellite-damage-through-smoke",
+      "type": "image",
+      "src": "pipeline/media/science-satellite-damage-through-smoke.jpg"
+    },
+    {
+      "id": "science-ai2-astabrief-open-weights",
+      "type": "image",
+      "src": "pipeline/media/science-ai2-astabrief-open-weights.png"
+    },
+    {
+      "id": "science-haiqu-agenticos-quantum",
+      "type": "image",
+      "src": "pipeline/media/science-haiqu-agenticos-quantum.jpg"
+    },
+    {
+      "id": "science-virtual-cell-model-calibration",
+      "type": "image",
+      "src": "pipeline/media/science-virtual-cell-model-calibration.jpg"
+    }
+  ]
 }

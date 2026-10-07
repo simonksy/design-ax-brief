@@ -1,103 +1,100 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "games",
   "items": [
     {
-      "title": "FromSoftware-Style Bosses Could Stop Being Learnable, As PlayStation's October 1 AI Patent Rewrites Enemy Behavior On The Fly",
-      "url": "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/",
-      "source": "Wccftech",
-      "published_iso": "2026-10-06T11:03:27+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-      "excerpt": "New PlayStation patent details an AI system that rewrites NPC behavior dynamically, revolutionizing action and soulslike games like Dark Souls.",
+      "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
+      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+      "source": "80 Level",
+      "published_iso": "2026-10-07T21:09:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50548/images/6ac6b507913eb/contain_1200x630.jpg",
+      "excerpt": "Unity Spark combines AI-assisted game creation with artist-made Asset Store content, but Unity CEO Matt Bromberg stresses that creators must still design, iterate, polish, and finish their experiences.",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New Sony patent filing (Oct 1) for AI that rewrites enemy behavior at runtime. It goes straight at how encounter and boss design gets authored and tuned."
+      "rationale": "Unity launches Unity Spark, a web-based prompt-to-game editor. It is built on artist-made Asset Store content, which puts asset creators directly into the AI game-making loop. Of the five outlets covering Unity Spark, this one has the clearest angle for artists."
     },
     {
-      "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
-      "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-06T10:51:11.300428+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Retro egg-rolling platformer Dizzy is on its way back from the 80s, but with the caveat of its creators being very happy to use genAI for the entire production.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "New game announcement: the original Oliver Twins creators are openly making a legacy-IP game end to end with genAI. It is a rare pro-disclosure case and a contrast to the usual backlash."
-    },
-    {
-      "title": "After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude",
-      "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-06T09:14:14.138328+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Two new mods adding connection-stabilising rollback netcode to Ultra Street Fighter IV appear, but both are made with generative AI.",
+      "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
+      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+      "source": "Kotaku",
+      "published_iso": "2026-10-07T16:15:05+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+      "excerpt": "Astrocade is filled with AI slop, but millions of people don't seem to care",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "Two newly released mods use Claude to add rollback netcode, which is hard engineering work, to a 12-year-old fighter. It is a concrete marker of what AI-assisted coding now does to legacy games."
+      "rationale": "Hard demand data: Astrocade, an AI-generated games platform, reports 10M monthly users. It shows that players already use prompt-made games at scale, despite the quality complaints."
     },
     {
-      "title": "D&D and Magic The Gathering developers unionize, allege Wizards of the Coast is pushing \"adoption of LLMs and generative AI\"",
-      "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-06T19:50:25Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-      "excerpt": "",
+      "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
+      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
+      "source": "IGN",
+      "published_iso": "2026-10-07T11:59:07.926Z",
+      "og_image": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "The AI video game clone explosion continues at pace. Now, someone has made Minecraft playable inside X / Twitter with working multiplayer.",
       "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "New union filing in which management pushing LLM and genAI adoption is a stated reason to organize. It is a new labor-vs-AI flashpoint after the Blizzard AI contract (09-12)."
+      "rationale": "A newly released AI-built clone runs Minecraft with working multiplayer inside the X feed and was monetised at once through crypto sponsorships. It shows how fast AI clones of big IP are now built and sold."
     },
     {
-      "title": "Sega won't \"entrust the creative aspect of games to AI,\" but is using tech to \"improve efficiency\" in other departments",
-      "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-10-06T13:50:19.330891+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Senior executive officer and deputy chief business officer Tsuyoshi Saito said Sega is \"very cautious\" about how it implements generative AI during development",
+      "title": "AI Bro Defends Reverse-Engineering PlayStation Homebrew Tool",
+      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+      "source": "Kotaku",
+      "published_iso": "2026-10-07T14:36:16+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e-1200x675.jpg",
+      "excerpt": "Zer0Day justified his AI-slop rip-off of GoldHEN by stating that 'creativity should never have to ask for permission' in a lengthy post on GitHub",
       "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Sega's first stated genAI policy: no AI in creative work, AI for efficiency elsewhere. It sits next to Capcom's opposite stance (10-05) as a major-publisher line on where AI is allowed."
+      "rationale": "A new authorship and permission dispute: an AI-assisted rip-off of the GoldHEN PS homebrew tool, defended publicly on GitHub. It is a concrete case of where open-source and community work stands when LLMs can clone it."
+    },
+    {
+      "title": "AI 발전 속 변화 살펴본다, HTML5 게임포럼 8일 열린다",
+      "url": "https://www.gamemeca.com/view.php?gid=1781498",
+      "source": "게임메카",
+      "published_iso": "2026-10-07T14:37:43+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/498/gm401874_thumb_HTML5_.webp",
+      "excerpt": "한국모바일게임협회는 10월 8일 서울 강남구 MARU180 이벤트홀에서 '2026 대한민국 HTML5 게임포럼'을 개최할 예정이라고 밝혔다. 이번 포럼은 HTML5 기술 및 플랫폼 환경의 변화와 함께 빠르게 확장되고 있는 웹 기반 게임 생태계를 살펴볼 목적으로 마련됐다. 국내 게...",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "rationale": "The Korea Mobile Game Association announced the 2026 HTML5 Game Forum for October 8, framed around how AI is changing web-based games. It is the only clean fresh item left in the pool, and it adds a Korean, web-platform angle to a day that is otherwise about prompt-made games."
     }
   ],
   "alternates": [
-    "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/",
-    "https://www.gamesradar.com/games/it-has-no-place-in-my-world-analogue-pocket-snes-emulator-dev-says-ai-powered-hack-is-loaded-with-slop-code-and-wastes-time-and-brainpower/",
-    "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
-    "https://www.polygon.com/ps5-jailbreak-emulator-minecraft-elden-ring-claude-opus-5-ai-games/",
-    "https://www.gamemeca.com/view.php?gid=1781162"
+    "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
+    "https://www.destructoid.com/i-wasnt-prepared-for-skyrim-with-dlss-5-on-max-settings/"
   ],
   "dedup": {
     "checks": {
-      "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/": {
+      "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches"
+        "nearest": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support"
       },
-      "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai": {
+      "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894": {
         "verdict": "new",
-        "nearest": "https://kotaku.com/steins-gate-mages-visual-novel-ai-shooter-juggernaut-2000733010"
+        "nearest": "https://www.inven.co.kr/webzine/news/?news=321517"
       },
-      "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude": {
+      "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto": {
         "verdict": "new",
         "nearest": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash"
       },
-      "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/": {
+      "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/blizzard-workers-secure-historic-contract-covering-ai-use-layoff-protections/"
+        "nearest": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/"
       },
-      "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments": {
+      "https://www.gamemeca.com/view.php?gid=1781498": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/games/1004418/capcom-ai-game-development"
+        "nearest": "https://www.inven.co.kr/webzine/news/?news=321517"
       }
     },
-    "note": "Dropped as published duplicates: (1) Kotaku 'Kojima has mixed feelings on DLSS 5'. This is the same Kojima/Death Stranding 2 DLSS 5 remarks published 2026-10-06 (GamesRadar+), with no new statement. (2) The Verge 'An AI couldn't beat humans at StarCraft, so it decided to cheat'. This is the GPT-6 Astra StarCraft showdown published 2026-09-30 (36kr). It was already dropped on 10-05 and 10-06. (3) PC Gamer Warhorse co-founder 'AI is not a get out of jail free card'. These are more remarks from the same co-founder interview run covered 2026-09-26 (PC Gamer), so it is commentary, not a new event. Dropped as off-scope or weak AI angle: GamesRadar Skyrim Elden Ring combat mod (AI is only the 'no AI' framing), Kotaku Loish (illustration, not games; passed on 10-05 and 10-06), GameMeca Gyeonggi public-private-academic council (no AI). Not picked on merit (ranked alternates): Road to VR Astro Bot Quest 3 vibe-coded mod (a third AI-mod card next to USF4), GamesRadar Analogue Pocket SNES AI hack (another vibe-code backlash after 10-03 and 10-05), Wccftech DOOM DLSS 5 port (a heavily covered DLSS 5 mod run), Polygon 'Hell is breaking loose' (opinion round-up of the mashup and jailbreak stories already published), GameMeca National Assembly AI content forum (9/30, policy talk). Diversity: 4 outlets (RPS x2, Wccftech, GamesRadar+, GI.biz). The topics split into a platform patent, an AI-made game announcement, an AI-built mod release, a labor filing and a publisher policy."
+    "note": "SWAP PASS: Cluster c1 (Unity Spark x4 + Google Playground) is one launch, because Unity Spark is Unity's prompting tool built for Google Playground. Kept one card: 80.lv Unity Spark, for the artist and Asset Store angle that matters most to designers. Dropped the Game Developer 'Google Playground is an experimental AI game platform' card and its dedup entry, along with the Game Developer, Kotaku and GamesIndustry.biz Unity Spark pieces. Backfilled with GameMeca's 2026 HTML5 Game Forum announcement, a new event that matches nothing in history_digest. The nearest is the Inven ONE store AI-game listing story from 09-30, which is a different event. Other remaining pool items rejected: Destructoid Skyrim DLSS 5 hands-on, which is opinion on the long-running DLSS 5 story and has no new release; IGN Capcom RE Engine clarification, commentary on the Verge story published 10-05; PC Gamer and GamesRadar+ Warhorse remarks, from the interview run published 09-26; RPS Jagex trailer apology, a likely-repeat of the GamesIndustry.biz story from 10-06; PC Gamer GPT-6 StarCraft cheating, the 36kr story from 09-30. No overlap with today's design, gadgets or movies picks. Diversity: 4 outlets (Kotaku x2, 80 Level, IGN, GameMeca)."
   }
 }

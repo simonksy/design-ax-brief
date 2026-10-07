@@ -116,6 +116,133 @@
           "x": "Sven Gerjets, director de tecnología, dice que es consciente de que los compradores pueden desconfiar de las experiencias de compra asistidas por IA, e incluso quedar decepcionados. Retail Dive cita una encuesta de SmartCustomer del mes pasado según la cual el 45% de las compras de las que los consumidores se arrepienten tras usar ayuda de IA fueron de ropa y calzado, y una investigación de Synchrony y Oxford Economics que concluye que los consumidores son más propensos a comprar con IA en minoristas en los que ya confían, aunque recelan del uso que se hace de sus datos."
         }
       ]
+    },
+    "marketing/marketing-nbcu-ctv-buying-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La compra de medios con agentes está de moda, también en la TV en streaming. Una nueva iniciativa conjunta anunciada el martes usará agentes a medida para ayudar a los responsables de marketing de marca a sacar más partido de sus inversiones en TV en streaming, incluidos los compromisos de upfront. La iniciativa reúne a NBCUniversal, su SSP FreeWheel, la agencia Carat, propiedad de Dentsu (Dentsu-owned), y la plataforma de analítica con agentes Newton."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes de compra a medida combinan datos de identidad de NBCU y FreeWheel con inteligencia de audiencias de Dentsu y Newton. El agente usa esos datos de audiencia y de rendimiento publicitario para recomendar inventario publicitario de NBCU según el resultado que busca el anunciante."
+        },
+        {
+          "t": "p",
+          "x": "Un minorista de lujo no identificado que trabaja con Carat es el primer anunciante en usar la solución, aunque la oferta conjunta acabará estando disponible para todos los clientes de Dentsu. Mientras tanto, Carat construye agentes a medida para KPIs concretos de cada anunciante, desde el aumento en búsquedas hasta el alcance incremental."
+        },
+        {
+          "t": "p",
+          "x": "La promesa es que los agentes podrían acercar la compra outcomes-based (basada en resultados) a la corriente principal en CTV. Pero si cada compra se juzga por resultados inmediatos, los anunciantes podrían acabar sacrificando la construcción de marca a largo plazo por ganancias a corto plazo."
+        }
+      ]
+    },
+    "marketing/marketing-google-merchant-center-ucp-hub": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Merchant Center está desplegando el hub de integración de UCP en Estados Unidos. El hub de integración de UCP permite incorporarse al programa UCP desde la cuenta de Merchant Center."
+        },
+        {
+          "t": "p",
+          "x": "El hub dice \"Empieza a vender en las superficies de AI implementando Universal Commerce Protocol\", con acciones de agentes en AI Mode, Gemini y Search, empezando por el pago directo en Google."
+        },
+        {
+          "t": "p",
+          "x": "El documento de ayuda de Google, detectado por Hana Kobzova en PPC News, dice: \"Universal Commerce Protocol (UCP) es un nuevo estándar abierto para el comercio con agentes que permite que agentes y sistemas trabajen juntos en todo el ecosistema comercial. Al integrarte con UCP, puedes añadir un botón de pago en las fichas de producto aptas en AI Mode de Google Search y en Gemini.\""
+        },
+        {
+          "t": "p",
+          "x": "La integración de Merchant Center se está desplegando de forma gradual en U.S. y llegará a los comerciantes de Australia y Canadá el próximo año. \"Esto te permitirá incorporarte al programa desde tu cuenta de Merchant Center y activar funciones como la transferencia del carrito al sitio del comerciante y pruebas mejoradas del flujo de pago\", añadió Google."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+          "cap": "El hub de integración de UCP en Merchant Center"
+        }
+      ]
+    },
+    "marketing/marketing-radisson-chatgpt-hotel-booking": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gracias a su alianza con Accenture Song, Radisson Hotel Group usa tecnología de OpenAI para llegar a los huéspedes en una fase más temprana de la planificación del viaje. El plugin Radisson Hotels ChatGPT ayuda a los viajeros a comparar hoteles y explorar opciones de viaje, y los primeros resultados muestran una conversión de reservas de aproximadamente 1.5 veces la de la búsqueda orgánica de Radisson."
+        },
+        {
+          "t": "p",
+          "x": "Con ayuda del desarrollo con agentes, el equipo creó y lanzó el plugin en solo seis semanas. Permite ver sugerencias de Radisson Hotel en un mapa, comparar precios y consultar en detalle los servicios del hotel directamente en ChatGPT, para luego pasar al sitio de Radisson y completar la reserva."
+        },
+        {
+          "t": "p",
+          "x": "Tras una actualización reciente de ChatGPT, los usuarios ya no tienen que escribir @RadissonHotels; si el plugin está instalado, ChatGPT lo muestra automáticamente cuando es relevante."
+        },
+        {
+          "t": "p",
+          "x": "Radisson también figura entre los pioneros de la hostelería que publican anuncios patrocinados en ChatGPT. Más de la mitad de los eventos de pago y reserva registrados en la campaña se atribuyeron mediante medición view-through. El servidor MCP y las APIs que Accenture desarrolló para el plugin también impulsan la experiencia publicitaria."
+        }
+      ]
+    },
+    "marketing/marketing-trafficguard-chatgpt-ad-invalid-clicks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+          "cap": "Cuatro trajes vacíos de doce: hasta un tercio de los clics en algunos anuncios de ChatGPT fueron inválidos"
+        },
+        {
+          "t": "p",
+          "x": "TrafficGuard, la plataforma de verificación publicitaria propiedad de Adveritas Ltd, afirmó que un análisis de 40,021 clics en anuncios de ChatGPT de OpenAI halló tasas de invalidez de entre el 0.1% y el 34% según el anunciante, con cuatro redes de hosting y proxy detrás del 47% de los clics marcados."
+        },
+        {
+          "t": "p",
+          "x": "Los clics llegaron a 78 sitios web gestionados por 47 grandes anunciantes entre el 24 de agosto y el 14 de septiembre de 2026. En la cuenta más afectada, según el consejero delegado Mathew Ratty, \"casi el 90% de los clics marcados procedía de infraestructura de servidores sin ningún usuario humano detrás\"."
+        },
+        {
+          "t": "p",
+          "x": "Las cuatro redes enviaron 899 clics en tres semanas, llegaron a 25 de los 47 anunciantes y produjeron 742 de los 1,592 clics inválidos. 1,336 clics de ChatGPT (3.34%) procedían de espacio IP de hosting, residential-proxy o malicioso, frente al 0.92% en Google Ads de los mismos anunciantes."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras de TrafficGuard cuentan los clics que llegaron a los sitios web de los anunciantes, no los facturados por OpenAI, y la empresa vende verificación de clics, por lo que los resultados proceden de una parte con un interés comercial."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
+          "cap": "Pantallas de ChatGPT con el nuevo formato de anuncio visual junto a una imagen generada."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI está incorporando un nuevo formato de anuncio visual en ChatGPT, amplía sus herramientas y acuerdos de medición y desarrolla nuevas formas de evaluar la idoneidad de marca. La compañía afirma que ChatGPT llega a 1.200 millones personas cada semana."
+        },
+        {
+          "t": "p",
+          "x": "El formato muestra imágenes de inspiración sobre un producto, de su uso o de las experiencias que ese producto hace posibles. OpenAI lo probará durante la generación de imágenes en ChatGPT, para usuarios de los planes Free y Go. Los anuncios se identificarán con claridad y quedarán separados de la imagen que se está creando, y la compañía señala que la publicidad no influye en las respuestas que da ChatGPT. Las pruebas comienzan a finales de este mes en Estados Unidos con un primer grupo de anunciantes."
+        },
+        {
+          "t": "p",
+          "x": "En medición, nuevas integraciones con Hightouch, Tealium y LiveRamp permiten a los anunciantes enviar datos de conversión desde sus propios sistemas a ChatGPT Ads, y OpenAI ya admite una larga lista de socios de atribución para su interfaz de conversiones, los informes y la atribución de clics. Los experimentos que comparan resultados entre territorios, realizados con Haus, Measured y WorkMagic, siguen en una fase inicial."
+        },
+        {
+          "t": "p",
+          "x": "Las cifras de rendimiento que cita OpenAI provienen de esos socios y no de la propia OpenAI. DV Rockerbox afirma que WeightWatchers pagó un 15.3% menos por adquisición en ChatGPT Ads que su referencia combinada de búsqueda pagada, y Triple Whale afirma que el 93% de los visitantes de Portland Leather procedentes de ChatGPT Ads eran nuevos."
+        },
+        {
+          "t": "p",
+          "x": "Los límites de ubicación evalúan si una conversación resulta adecuada para la publicidad, y Negative Phrases ya está disponible para los anunciantes que cumplen los requisitos y necesitan exclusiones propias de sus políticas."
+        }
+      ]
     }
   }
 }

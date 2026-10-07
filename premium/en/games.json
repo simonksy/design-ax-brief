@@ -6511,6 +6511,110 @@
           "x": "You steer it, and it does the building."
         }
       ]
+    },
+    "games/games-astrocade-10m-monthly-users": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+          "cap": "© Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Astrocade, a free online platform built around AI-generated games and experiences, now boasts 10 million monthly users. CEO Amir Sadeghian told Gamesbeat it grew from around five million to 10 million in just the last four months. Anyone can create games with its AI tools, and other users can play them, similar to Roblox."
+        },
+        {
+          "t": "p",
+          "x": "“The whole reason we exist as a platform is the AI creation tools, which enables everyone to create,” said Sadeghian. The company is preparing to launch an iOS app and is marketing heavily in the United States."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+          "cap": "©Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Many of the most popular games are Minecraft clones, games with copyrighted characters, and knock-offs of Roblox hits like Steal a Brainrot, all with AI slop artwork, yet some have hundreds of thousands or even millions of plays. Like TikTok, the games are vertical and served through an endless algorithmic feed; Sadeghian calls them “playables.”"
+        },
+        {
+          "t": "p",
+          "x": "“AI is now like writing code better than a lot of engineers,” said the CEO. “And even some of these 3D assets are getting to a point that it’s like very hard to distinguish.”"
+        }
+      ]
+    },
+    "games/games-minecraft-x-twitter-ai-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "The AI video game clone explosion continues at pace. X user jaivin used AI to make Mojang’s Minecraft playable inside posts on X / Twitter with working multiplayer, and is letting people buy in-game sponsorships with cryptocurrency."
+        },
+        {
+          "t": "p",
+          "x": "“Tweetcraft is a block game in a post: every world is a link on X, and everyone who opens it plays together,” reads the official blurb. “Put your ad at the top of the server list, in a world’s sponsor leaderboard, or your logo on the Block Dragon.” The browser-based clone puts everyone who clicks a world’s link into the same real-time session."
+        },
+        {
+          "t": "p",
+          "x": "The unauthorized “port” has drawn 7.4 million views on its launch post. Jaivin insisted that “Tweetcraft uses none of Minecraft's assets and is not associated with Mojang or Microsoft.”"
+        },
+        {
+          "t": "p",
+          "x": "October has already seen GTA 5 and the original Halo made playable in a browser; the GTA 5 clone and a Fallout: New York game were hit by takedowns. With AI models becoming increasingly powerful, the time it takes for unauthorized versions of established games to appear could shrink to just hours or even minutes."
+        }
+      ]
+    },
+    "games/games-goldhen-ai-ripoff-free-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+          "cap": "© Sony / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "The PlayStation jailbreaking and homebrew scene is in disarray as an explosion of vibecoded AI-slop projects takes its toll. Forks of the PS5 emulators KytyPS5, SharpEmu, and AnyPS5 on GitHub jumped from roughly 1,300 to roughly 1,840 in three days."
+        },
+        {
+          "t": "p",
+          "x": "Now the team behind GoldHEN, the beloved PS4 homebrew enabler, has had their project stolen and published online by a fellow homebrew dev, Zer0Day. His lengthy README declares that “code should not be a cage” and “creativity should never have to ask for permission.”"
+        },
+        {
+          "t": "p",
+          "x": "GoldHEN is closed source, primarily designed by Sistro with several maintainers over roughly five years. Sistro made it private after seeing “a sad abuse of the source code.”"
+        },
+        {
+          "t": "p",
+          "x": "On X, Zer0Day said “I don’t care what [GoldHEN’s] team thinks” and asserted he has “the right to freedom of speech and freedom of expression.” He has been open in replies about using AI, and his deleted code includes comments like “these are the standard Elf64 structures it walks.”"
+        }
+      ]
+    },
+    "games/games-ps-ai-boss": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+          "cap": "A new PlayStation patent outlines a system using AI to rewrite enemy behavior on the fly"
+        },
+        {
+          "t": "p",
+          "x": "A new Sony Interactive Entertainment patent, discovered by Patentlyze and published on October 1, covers \"improving video game systems using an artificial intelligence-adapted non-player character.\""
+        },
+        {
+          "t": "p",
+          "x": "The system works in four steps: it collects player data on encounters with an NPC along with game data, feeds that into a machine learning model, gets back NPC content that adjusts behavior, dialogue and appearance, and then modifies the game content. The patent doesn't list a specific model architecture, so it could work across different AI systems and be used by developers beyond PlayStation's own studios."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech argues soulslikes would benefit most. Enemies in single-player games normally stick to programmed patterns that can be learned and exploited; with AI rewriting their behavior, they could adapt to how aggressive or defensive the player is, and multi-phase bosses could even enter their second phase earlier under pressure, like fighting-game comeback mechanics."
+        },
+        {
+          "t": "p",
+          "x": "Such a system would need tweaking so games don't become too difficult, but it could offer a greater yet fairer challenge than simply turning up enemy health or damage."
+        }
+      ]
     }
   }
 }

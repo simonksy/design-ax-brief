@@ -1,124 +1,160 @@
 {
- "date": "2026-10-07",
  "section": "design",
+ "now_iso": "2026-10-07T22:04:00Z",
  "window_hours": 72,
  "items": [
   {
-   "title": "3 ways product designers use the Figma agent for craft, speed, and creative expression",
-   "url": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
-   "source": "Figma Blog",
-   "category": "figma",
-   "published_iso": "2026-10-06T14:00:00.000Z",
-   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-   "excerpt": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available."
+   "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
+   "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+   "source": "80 Level",
+   "category": "render",
+   "published_iso": "2026-10-07T21:09:00+00:00",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50548/images/6ac6b507913eb/contain_1200x630.jpg",
+   "excerpt": "Unity Spark combines AI-assisted game creation with artist-made Asset Store content, but Unity CEO Matt Bromberg stresses that creators must still design, iterate, polish, and finish their experiences."
   },
   {
-   "title": "How to lighten design system upkeep with the Figma agent",
-   "url": "https://www.figma.com/blog/figma-agent-and-design-systems/",
-   "source": "Figma Blog",
+   "title": "How to use WebMCP with coding agents",
+   "url": "https://www.builder.io/blog/how-to-use-webmcp",
+   "source": "Builder.io",
+   "category": "figma",
+   "published_iso": "2026-10-06T18:00:00.000Z",
+   "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/c35681eeb5684cf1bcad43c06de7b996?width=1200",
+   "excerpt": "WebMCP lets a web app hand your coding agent real tools. Here’s how to install the /webmcp skill so your agent calls them instead of clicking around."
+  },
+  {
+   "title": "It's time to stop installing skills",
+   "url": "https://www.builder.io/blog/stop-installing-skills",
+   "source": "Builder.io",
+   "category": "figma",
+   "published_iso": "2026-10-06T18:00:00.000Z",
+   "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/e371bf611ec5483a9c948d4de350db88?width=1200",
+   "excerpt": "The best agent skills are the ones you keep rewriting. Save your hand edits, teach the skill what they know, and rerun it until it catches up with you."
+  },
+  {
+   "title": "MecAgent targets complex CAD tasks with GPT-6 Astra powered V2",
+   "url": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
+   "source": "DEVELOP3D",
+   "category": "cad",
+   "published_iso": "2026-10-07T14:29:13+00:00",
+   "og_image": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg",
+   "excerpt": "MecAgent V2 AI for CAD software, uses its agent harness to enlist GPT-6 Astra into powering CAD designs directly within solidworks"
+  },
+  {
+   "title": "Formas.AI Cartesian brings new kernel & toolkit to 3D modelling AI Agents",
+   "url": "https://develop3d.com/cad/formas-ai-cartesian-brings-new-kernel-toolkit-to-3d-modelling-ai-agents/",
+   "source": "DEVELOP3D",
+   "category": "cad",
+   "published_iso": "2026-10-05T11:30:27+00:00",
+   "og_image": "https://develop3d.com/wp-content/uploads/2026/10/cartesian-ai-software-formas-2026.jpg",
+   "excerpt": "Formas.AI has unveiled a preview of Cartesian, its AI-assisted platform for early-stage product design, furniture and architecture design."
+  },
+  {
+   "title": "Logo Design Skill Packages SVG Checks for AI Agents",
+   "url": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
+   "source": "DEV Community",
    "category": "tokens",
-   "published_iso": "2026-10-06T14:00:00.000Z",
-   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4628d622dd91516f5755c9431146749f0ca1db35-1632x918.png?w=1200&q=70&fit=max&auto=format",
-   "excerpt": "Here, we share a few ways to put the agent to work."
+   "published_iso": "2026-10-07T19:40:26Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png",
+   "excerpt": "An open-source Agent Skill gives Claude, Gemini CLI and Codex a staged logo workflow, SVG checks and a searchable library of 1,400-plus marks."
   },
   {
-   "title": "Workflow lab: Staying in the flow with Figma's agent",
-   "url": "https://www.figma.com/blog/workflow-lab-staying-in-the-flow-with-the-figma-agent/",
-   "source": "Figma Blog",
-   "category": "workflow",
-   "published_iso": "2026-10-06T14:00:00.000Z",
-   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/bd2c0137b62fb9bdb9bd9bde5e13e1821d6a9992-1056x704.jpg?w=1200&q=70&fit=max&auto=format",
-   "excerpt": "See how a designer shapes a new feature while the Figma agent handles the library updates, crit feedback, and a first draft of a design system spec."
-  },
-  {
-   "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
-   "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+   "title": "Nano Banana 2.1: What Changes for Design, Editing, and Image Costs",
+   "url": "https://dev.to/dong_chenguang_2cbe5a1770/nano-banana-21-what-changes-for-design-editing-and-image-costs-4l8c",
    "source": "DEV Community",
-   "category": "figma",
-   "published_iso": "2026-10-04T09:02:16Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1771354187164%2F527db913-c109-41ca-941e-9fbc137702ac.webp",
-   "excerpt": "Figma now lets you push live code from Claude directly into editable frames. I tested it for a week. Here's when it's worth using and when screenshots work"
+   "category": "render",
+   "published_iso": "2026-10-07T13:01:29Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa0kri6erw5rk5l5q1cvp.png",
+   "excerpt": "Better text, more controlled edits, and a lower image bill—with an important catch at 4K.  By Neo..."
   },
   {
-   "title": "I used to be a Figma expert. Here's how I design now.",
-   "url": "https://dev.to/laurilllll/i-used-to-be-a-figma-expert-heres-how-i-design-now-4lm9",
+   "title": "Does a design system change what a coding agent writes?",
+   "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
    "source": "DEV Community",
+   "category": "tokens",
+   "published_iso": "2026-10-07T20:27:23Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png",
+   "excerpt": "A while ago I finished a piece of work I was proud of: a design system built the way I'd argue a..."
+  },
+  {
+   "title": "Google's experimental Playground platform uses AI to create games for you",
+   "url": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/",
+   "source": "Engadget",
+   "category": "render",
+   "published_iso": "2026-10-07T12:00:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/l-intro-1791372099.jpg",
+   "excerpt": "Google launches an AI-powered game creation platform called Playground."
+  },
+  {
+   "title": "Google's AI detection website is now available",
+   "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/",
+   "source": "Engadget",
+   "category": "render",
+   "published_iso": "2026-10-07T14:00:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/googles-ai-detection-website-is-now-available/l-intro-1791328862.jpg",
+   "excerpt": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies."
+  },
+  {
+   "title": "Xreal's Aura Android XR smartglasses will cost you at least $1,279",
+   "url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
+   "source": "Engadget",
+   "category": "vr",
+   "published_iso": "2026-10-07T12:00:00+00:00",
+   "og_image": "https://www.engadget.com/img/gallery/xreals-next-gen-aura-android-xr-smartglasses-will-cost-you-at-least-1279/l-intro-1791367954.jpg",
+   "excerpt": "Xreal’s Aura smartglasses are powered by Qualcomm’s Snapdragon Reality Elite chip."
+  },
+  {
+   "title": "Keysight adds agentic AI tools to RF design software",
+   "url": "https://www.engineering.com/keysight-adds-agentic-ai-tools-to-rf-design-software/",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-10-07T15:00:23+00:00",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Keysight-adds-agentic-AI-tools-to-RF-design-software.jpg",
+   "excerpt": "ADS 2027 adds MCP servers, macro recording and Python script generation for automated RF design workflows."
+  },
+  {
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+   "source": "NVIDIA Blog",
+   "category": "render",
+   "published_iso": "2026-10-07T18:45:28+00:00",
+   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-scaled.png",
+   "excerpt": "NVIDIA RTX Spark pre-orders open October 16, and DGX Station for Windows brings GB300 AI infrastructure to the enterprise desktop."
+  },
+  {
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "source": "The Verge",
    "category": "workflow",
-   "published_iso": "2026-10-06T08:17:49Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Frvaxiqts44iena78wbf0.png",
-   "excerpt": "A designer who once called themself a Figma expert explains how their practice shifted: describing websites, apps and video ads to an agent (Claude Opus 5) that builds them, while Figma adds its own agent."
+   "published_iso": "2026-10-07T19:10:42+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "excerpt": "Visual responses are coming to all ChatGPT users."
   },
   {
-   "title": "Nano Banana 2.1 now available on AI Gateway",
-   "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
-   "source": "Vercel",
-   "category": "render",
-   "published_iso": "2026-10-06T00:00+00:00",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
-   "excerpt": "Generate and edit images with Nano Banana 2.1 through Vercel AI Gateway with one API key: no provider account, spend tracking, and traces on every request."
-  },
-  {
-   "title": "Adobe releases Photoshop 27.11",
-   "url": "https://www.cgchannel.com/2026/10/adobe-releases-photoshop-27-11/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-10-06T09:36:50+00:00",
-   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261006_Photoshop2711_f.jpg",
-   "excerpt": "Photoshop 27.11 adds Enhance Edge, an AI option (20 generative credits per use) that reduces colour fringing in Remove Background masks, and lets users pick OpenAI's GPT Image 2 for Generate Image and Prompt to edit."
-  },
-  {
-   "title": "New 3D software you may have missed: 4 October 2026",
-   "url": "https://www.cgchannel.com/2026/10/new-3d-software-you-may-have-missed-4-october-2026/",
-   "source": "CG Channel",
-   "category": "render",
-   "published_iso": "2026-10-04T14:14:57+00:00",
-   "og_image": "https://www.cgchannel.com/wp-content/uploads/2026/10/261004_NewCGSoftwareYouMayHaveMisssed4October2026_alt_f.jpg",
-   "excerpt": "Weekly CG tools roundup: Lightricks' LTX-2.5 AI world model gains Alpha Gen matte generation plus Native Resolution, Refine and Restore features; new motion graphics app Caddis supports nine AI models including Nano Banana Pro and Seedance 2."
-  },
-  {
-   "title": "Photoshop Can Now Move the Light in Your Photo",
-   "url": "https://fstoppers.com/photoshop/photoshop-can-now-move-light-your-photo-904920",
-   "source": "Fstoppers",
-   "category": "render",
-   "published_iso": "2026-10-04T05:03:01-04:00",
-   "og_image": "https://cdn.fstoppers.com/styles/large_16_9/s3/lead/2026/10/cover_9.jpg.webp?itok=l6WMCqhq",
-   "excerpt": "Photoshop's new Relight feature lets you reposition, soften, and recolor light in finished images using sliders. Jesús Ramirez tests how it handles portraits, interiors, and composites, and where it falls short."
-  },
-  {
-   "title": "Vectorworks 2027 targets real-world workflows",
-   "url": "https://aecmag.com/bim/vectorworks-2027-targets-real-world-workflows/",
-   "source": "AEC Magazine",
-   "category": "cad",
-   "published_iso": "2026-10-06T11:29:20+00:00",
-   "og_image": "https://aecmag.com/wp-content/uploads/2026/10/graphics-acceleration.jpg",
-   "excerpt": "Vectorworks 2027 targets real-world workflows. Promises enhanced performance, better visualisation, expanded support for Revit and more"
-  },
-  {
-   "title": "OpenSpace AI to help firms make faster decisions on site",
-   "url": "https://aecmag.com/reality-capture-modelling/openspace-ai-to-help-firms-make-faster-decisions-on-site/",
-   "source": "AEC Magazine",
-   "category": "cad",
-   "published_iso": "2026-10-05T08:17:50+00:00",
-   "og_image": "https://aecmag.com/wp-content/uploads/2026/10/openspace.jpg",
-   "excerpt": "OpenSpace AI reality capture platform now includes AI agents that can see, understand, and act on job site data."
-  },
-  {
-   "title": "Volve AI to help automate tendering and pre-construction tasks",
-   "url": "https://aecmag.com/construction/volve-ai-to-help-automate-tendering-and-pre-construction-tasks/",
-   "source": "AEC Magazine",
-   "category": "cad",
-   "published_iso": "2026-10-06T12:30:34+00:00",
-   "og_image": "https://aecmag.com/wp-content/uploads/2026/10/volve.jpg",
-   "excerpt": "Volve AI automates tendering and pre-construction. Contractors can more easily compare information across specs, drawings and BIM models"
-  },
-  {
-   "title": "How Hark designed an AI assistant that's actually helpful",
-   "url": "https://www.fastcompany.com/91618831/how-hark-designed-an-ai-assistant-thats-actually-helpful",
-   "source": "Fast Company",
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "source": "The Verge",
    "category": "workflow",
-   "published_iso": "2026-10-06T16:15:00+00:00",
-   "og_image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/10/02-91618831-hark-pro.jpg",
-   "excerpt": "With a chatbot interface and agentic capabilities, Hark Pro checks the boxes of a 2026 AI release, but its designers rethought the core premise of how an assistant should help, prioritising privacy and usefulness."
+   "published_iso": "2026-10-07T18:01:20+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "excerpt": "Hybrid Intelligence features are coming to Copilot over the “next couple months.”"
+  },
+  {
+   "title": "Bounded delegation: How much authority should AI have?",
+   "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-10-07T19:54:06+00:00",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
+   "excerpt": "A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary."
+  },
+  {
+   "title": "Beyond streaks and nudges: ethical gamification & AI design",
+   "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-10-07T19:48:49+00:00",
+   "og_image": "https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png",
+   "excerpt": "An essay on designing AI-driven gamification without manipulative streaks and nudges."
   },
   {
    "title": "Is Meta's new AI agent easier to trust because it's cute?",
@@ -127,52 +163,35 @@
    "category": "workflow",
    "published_iso": "2026-10-05T22:00:31+00:00",
    "og_image": "https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png",
-   "excerpt": "Meta's Muse agent comes with an avatar you design and a keyring gadget. Few people would hand Meta their passwords, yet it topped the US App Store, raising questions about cute character design as a trust strategy."
+   "excerpt": "A UX critique of how the character design of Meta's new AI agent shapes user trust."
   },
   {
-   "title": "The taste paradox: why the skill everyone says matters is the one we've stopped building",
-   "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95",
-   "source": "UX Collective",
+   "title": "FLUX 3 Image now available on AI Gateway",
+   "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+   "source": "Vercel",
+   "category": "render",
+   "published_iso": "2026-10-05T00:00:00Z",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/308Sa3pzuNe99tVYc4COdn/ff4af2bd86781de4212ab8ab7ba90e62/image.png",
+   "excerpt": "Generate and edit images with FLUX 3 Image through Vercel AI Gateway, with one API key, unified billing, and request traces."
+  },
+  {
+   "title": "Nano Banana 2.1 now available on AI Gateway",
+   "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
+   "source": "Vercel",
+   "category": "render",
+   "published_iso": "2026-10-06T00:00:00Z",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
+   "excerpt": "Generate and edit images with Nano Banana 2.1 through Vercel AI Gateway with one API key: no provider account, spend tracking, and traces on every request."
+  },
+  {
+   "title": "The new Microsoft Surface Ultra is literally built for multi-disciplinary creatives",
+   "url": "https://www.creativebloq.com/tech/laptops/the-new-microsoft-surface-ultra-is-literally-built-for-multi-disciplinary-creatives",
+   "source": "Creative Bloq",
    "category": "workflow",
-   "published_iso": "2026-10-05T21:59:40+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/1*mOYPU2yTBp4CKAr8_fMG4Q.png",
-   "excerpt": "Designers say taste is the last human advantage over AI, but the world and now the tools make it almost impossible to develop, and teams respond by de-risking even further."
-  },
-  {
-   "title": "Producers can now vibe code their own music production tools using Google Flow Music",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/",
-   "source": "Google Blog",
-   "category": "workflow",
-   "published_iso": "2026-10-06",
-   "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-1440x810.jpg",
-   "excerpt": "Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instrument…"
-  },
-  {
-   "title": "OpenAI launches visual ads that appear alongside image generation results",
-   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "source": "TechCrunch",
-   "category": "workflow",
-   "published_iso": "2026-10-05T15:14:24+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-   "excerpt": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers."
-  },
-  {
-   "title": "The next hurdle for AI agents: getting websites to let them in",
-   "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-   "source": "TechCrunch",
-   "category": "figma",
-   "published_iso": "2026-10-06T19:56:50+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
-   "excerpt": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help."
-  },
-  {
-   "title": "Mistral's new 1T model aims to leapfrog closed and open rivals",
-   "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-   "source": "TechCrunch",
-   "category": "workflow",
-   "published_iso": "2026-10-06T14:33:16+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-   "excerpt": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
+   "published_iso": "2026-10-07T19:38:16Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/sBx2xR45jHVy2DSBKasNp8-1024-80.png",
+   "excerpt": "Microsoft's Surface Laptop Ultra, powered by NVIDIA RTX Spark for local AI, is pitched at creatives working across 3D, video and design."
   }
- ]
+ ],
+ "date": "2026-10-08"
 }

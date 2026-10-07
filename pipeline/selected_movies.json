@@ -1,103 +1,102 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "movies",
   "dedup": {
     "checks": {
-      "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026": {
+      "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://variety.com/2026/tv/news/prime-video-ai-sync-actors-mouths-dubbed-maxton-hall-1236855286/",
         "new_action": ""
       },
-      "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/": {
-        "verdict": "follow-up",
-        "nearest": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
-        "new_action": "First trailer released for the R-rated, fully AI-made theatrical feature 'Gods Don't Give Gifts'. The 09-28 card was only a Zurich Summit panel where its director spoke."
-      },
-      "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html": {
+      "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://nofilmschool.com/creative-provenance-ai",
         "new_action": ""
       },
-      "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/": {
+      "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/": {
         "verdict": "new",
-        "nearest": "https://beforesandafters.com/2026/09/14/vfx-supervisor-eran-dinur-discusses-the-big-ai-and-ml-changes-that-have-impacted-visual-effects/",
+        "nearest": "https://www.awn.com/news/former-youtube-and-tiktok-exec-masoud-loghmani-launches-studio-jadu",
         "new_action": ""
       },
-      "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/": {
+      "https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/biz/news/jeffrey-katzenberg-hollywood-must-accept-not-going-away-1236873535/",
+        "nearest": "https://deadline.com/2026/09/harry-potter-david-barron-backs-ai-the-call-of-the-wild-1237115076/",
+        "new_action": ""
+      },
+      "https://nofilmschool.com/sinima-creative-ownership-platform": {
+        "verdict": "new",
+        "nearest": "https://nofilmschool.com/creative-provenance-ai",
         "new_action": ""
       }
     },
-    "note": "Pool of 15 checked against the 30-day history_digest. Dropped as duplicates: RedShark 'Made on YouTube 2026' (same event as The Verge, 09-24); Cartoon Brew OIAF 2026 recap (same running OIAF story as the 09-25 TAC AI debate card, and only an AI-panel recap). Retouch4me Lab is dropped because it is a still-photo colour tool that follows the 09-27 Lab Video card, so it is weak for film. Not AI-made, or AI only incidental: Motionographer 'Machines Learning' (a film about AI themes, not made with it); CorridorKey 2 (11-second teaser, nothing verifiable, avoided as instructed). Low-value or noise: Iberseries/Platino preview (festival exec talk, 09-28), USC Annenberg survey call (a call for participants, not news). VFX Voice had 3 features, capped at 1 here to keep spread. Gossip Goblin is kept as a follow-up because the trailer release is a new concrete event. Diversity: 5 distinct outlets (AWN, Deadline, Cartoon Brew, VFX Voice, postPerspective), 1 each. The Guardian brain-rot copyright piece is the first alternate."
+    "note": "Pool of 17 checked against the 30-day history_digest. Dropped as duplicates: RedShark 'Made on YouTube 2026' (same event as The Verge card, 09-24); Retouch4me Lab (a still-photo follow-on to the 09-27 Lab Video card, with no new film release). Dropped as weak or low-value: CorridorKey 2 (teaser only, and the excerpt was written from prior knowledge, not the source); Curious Refuge agent test (opinion video, close to the 09-28 and 10-05 AI-agent videos); USC Annenberg survey call (a call for participants, not news); RevThink accelerator (a promotional programme); Motionographer 'Machines Learning' (festival premiere of a film about AI, not made with it). Opinion and interview pieces were passed over for concrete releases and decisions, as instructed: Aaron Sorkin interview, Fan Bingbing BIFF quote, Amazon's Kelly Day remarks, and the postPerspective VHS restoration case study. The THR 'Artificial' feature, where Neon picks up the film after Amazon shelved it, is the first alternate. SynthID is a general Google launch and may also have been picked by another section (politics, design or gadgets), so the orchestrator should check for a cross-section clash before roll. Diversity: 4 outlets (No Film School x2, Google Blog, Deadline, Variety)."
   },
   "items": [
     {
-      "url": "https://www.awn.com/news/loftapps-debut-loft-software-and-peek-phil-tippetts-mad-god-sequel-view-2026",
-      "source": "AWN",
-      "title": "LOFTAPPS to Debut LOFT Software and Peek at Phil Tippett's 'Mad God' Sequel at VIEW 2026",
+      "url": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
+      "source": "No Film School",
+      "title": "DittoDub Launches New Native 6 AI Dubbing Model With Support for Over 100 Languages",
       "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "New tool debut. LOFTAPPS gives its generative AI production OS its European premiere, and Phil Tippett shows a stop-motion 'Mad God' sequel made with it, a strong craft-meets-AI case.",
-      "published_iso": "2026-10-06T11:29:36-07:00",
-      "og_image": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
-      "excerpt": "Berkeley company LOFTAPPS gives its generative AI production system a European premiere at VIEW 2026 in Turin (Oct 12-16), where Phil Tippett will share an exclusive look at his stop-motion 'Mad God' follow-up made with the LOFT OS."
+      "rationale": "Concrete model release. Native 6 recreates an original speaker's performance in 109 languages, which directly changes how creators localise their work.",
+      "published_iso": "2026-10-07T19:34:45+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68382655&width=1200&height=600&coordinates=0%2C15%2C0%2C15",
+      "excerpt": "More AI tools and dubbing options are on the way, and this new one from the team at DittoDub will let creators or teams recreate an original speaker’s performance in 109 different languages."
     },
     {
-      "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
-      "source": "Deadline",
-      "title": "YouTuber Gossip Goblin Releases Trailer For R-Rated AI Theatrical Film 'Gods Don't Give Gifts'",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "source": "Google Blog",
+      "title": "We're making it easier to identify AI-generated content globally.",
       "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "Concrete release. This is the first trailer for an R-rated theatrical feature made entirely with AI, so viewers can now see what a fully AI-made feature looks like.",
-      "published_iso": "2026-10-06T16:52:10+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024",
-      "excerpt": "YouTuber Gossip Goblin has released the trailer for 'Gods Don't Give Gifts,' an R-rated theatrical feature film made entirely with artificial intelligence."
+      "rationale": "Official launch of a standalone SynthID detector that checks whether video or images came from Google or partner AI tools. This is a concrete provenance check for footage and an answer to the 'prove you didn't use AI' question.",
+      "published_iso": "2026-10-07",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png",
+      "excerpt": "We’re launching a standalone platform to help you easily identify whether online content was created using Google AI or tools from our industry partners."
     },
     {
-      "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
-      "source": "Cartoon Brew",
-      "title": "SAG-AFTRA TV Animation Deal Boosts Wages, AI Protections",
+      "url": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/",
+      "source": "Deadline",
+      "title": "Abundantia Entertainment To Turn AI Arm AiOn Into Standalone Studio",
       "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New labour agreement with expanded AI protections for voice performers, now going to a member vote. It directly changes the rules for AI voice use in TV animation.",
-      "published_iso": "2026-10-06T07:08:51-07:00",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2023/07/sagaftra.jpg",
-      "excerpt": "SAG-AFTRA members will vote on a new TV animation agreement featuring annual wage increases, expanded AI protections for voice performers, better residuals and benefit gains."
+      "rationale": "Corporate decision: an established Indian producer is spinning its AI creative arm out as a standalone production studio, a sign that AI production is becoming its own business line.",
+      "published_iso": "2026-10-07T08:00:00+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+      "excerpt": "India's Abundantia Entertainment is moving to turn its AI creative arm Abundantia AiOn into a standalone production studio."
     },
     {
-      "url": "https://vfxvoice.com/the-tools-shaping-the-future-of-vfx/",
-      "source": "VFX Voice",
-      "title": "The Tools Shaping the Future of VFX",
+      "url": "https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/",
+      "source": "Variety",
+      "title": "AI Studio Authors First, Backed by $10 Million, Pledges to Help Writers Faithfully Adapt Their Books",
       "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Practitioners name the specific ML/AI, real-time and cloud tools they expect to reshape shot-making, giving artists an actionable list to evaluate.",
-      "published_iso": "2026-10-06T15:53:30+00:00",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-1-coral3_shots_3082a_0220_432.1129.jpg",
-      "excerpt": "VFX artists, supervisors and technologists across the VFX and AI ecosystem name the ML/AI, real-time, virtual production and cloud tools they believe will reshape how shots are made and who holds creative control."
+      "rationale": "New $10M AI studio launch with an author-controlled model, in which sci-fi and fantasy writers adapt their own books. This is a new path from book IP to screen.",
+      "published_iso": "2026-10-06T13:00:00+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Authors First, founded by venture capitalist Robert Hamwee, promises to let science-fiction and fantasy scribes adapt their titles as closely to their intended vision as possible"
     },
     {
-      "url": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
-      "source": "postPerspective",
-      "title": "The State of VFX and Animation Might Surprise You",
+      "url": "https://nofilmschool.com/sinima-creative-ownership-platform",
+      "source": "No Film School",
+      "title": "Worried About AI Training on Your Videos? This Platform Lets You Protect and Monetize Your Work",
       "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A reality check on Katzenberg's 2023 forecast that AI would cut animation crews by 90% by 2026: it measures what AI has actually changed in VFX and animation staffing.",
-      "published_iso": "2026-09-30T21:23:43+00:00",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/09/2026-coming-soon-sq.jpg",
-      "excerpt": "Three years after Jeffrey Katzenberg predicted AI would shrink a 500-artist animated feature crew to under 50 by 2026, Joseph Bell checks how AI has actually changed VFX and animation staffing."
+      "rationale": "New platform launch. Sinima gives filmmakers protection, visibility and licensing control over uploaded work that AI could otherwise train on, which they can act on right away.",
+      "published_iso": "2026-10-07T20:19:15+00:00",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68382975&width=1200&height=600&coordinates=0%2C56%2C0%2C56",
+      "excerpt": "A look at Sinima, a new Creative Ownership Platform that aims to give filmmakers and creatives new levels of protection, visibility, and control over the work they upload online."
     }
   ],
   "alternates": [
-    "https://www.theguardian.com/technology/2026/oct/06/brain-rot-tung-tung-tung-sahur-noxa-openai-video",
-    "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
-    "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
-    "https://www.awn.com/news/call-participation-usc-annenberg-ai-film-and-tv-survey",
-    "https://www.hollywoodreporter.com/business/business-news/iberseries-platino-industria-2026-preview-ai-usefulness-1236697465/"
+    "https://www.hollywoodreporter.com/movies/movie-features/artificial-exclusive-luca-guadagnino-andrew-garfield-1236721477/",
+    "https://postperspective.com/ai-and-artistry-used-restore-lost-treasure-messiah-in-bethlehem-concert/",
+    "https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/",
+    "https://www.yna.co.kr/view/AKR20261007121300005"
   ]
 }

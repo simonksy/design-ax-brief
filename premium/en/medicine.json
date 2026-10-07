@@ -85,6 +85,116 @@
           "x": "Models were also inconsistent: in 80.4 percent of repeated ten run cells a model returned the same category of answer every time, with model level consistency ranging from 4.4 percent to 100 percent. The authors call the work a proof of concept that supplies an evaluation framework and state plainly that it does not estimate clinical risk in deployed systems. No patients were involved."
         }
       ]
+    },
+    "medicine/medicine-teladoc-ambient-ai-vitals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+          "cap": "Permission granted by Teladoc"
+        },
+        {
+          "t": "p",
+          "x": "Teladoc Health is adding new artificial intelligence capabilities to its virtual care platform for hospitals and health systems: a “contactless” approach to remotely monitoring patients’ vital signs and an AI scribe that records and transcribes clinical encounters to create notes. The scribing tool is now available; the vitals feature is in private preview and expected to be released broadly in December."
+        },
+        {
+          "t": "p",
+          "x": "SoloVitals lets care teams track patients’ heart and respiratory rates without touching them: Solo devices with a camera capture patients' facial skin color and use an optical technique to measure changes in blood volume. SoloScribe is an ambient AI documentation feature for both in-person and virtual visits."
+        },
+        {
+          "t": "p",
+          "x": "“Health systems are under intense pressure to do more, yet they are spending more time navigating a growing number of platforms, tools and vendors,” said Joby McKenzie, general manager of North American Health Systems at Teladoc Health."
+        },
+        {
+          "t": "p",
+          "x": "After a net loss of $200.3 million in 2025, Teladoc lowered its 2026 revenue outlook in July to $2.36 billion to $2.45 billion, down 5% from earlier guidance, primarily due to its mental health division, BetterHelp."
+        }
+      ]
+    },
+    "medicine/medicine-parkinsons-ai-telerehab-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "This exploratory, multicenter, randomized, rater-blinded, multi-arm comparative trial aimed to evaluate the feasibility and exploratory clinical signals of an AI-facilitated telerehabilitation system across different intervention durations in early-stage Parkinson’s disease (PD)."
+        },
+        {
+          "t": "p",
+          "x": "One-hundred and twenty PD patients (Hoehn-Yahr stage ≤2.5) were randomized in a 1:1:1 ratio into short-term (1 month), medium-term (2 months), and long-term (3 months) training groups (15–30 min, 5 days/week). The primary outcome was the change in MDS-UPDRS Part III score from baseline to 3 months."
+        },
+        {
+          "t": "p",
+          "x": "Final analysis included 71 participants. No significant differences were observed between groups for the primary motor outcome at 3 months. Post hoc responder analysis showed that the 3-month group had higher proportions reaching the exploratory cognitive responder threshold compared with the 1-month group. No falls or adverse events were recorded throughout the trial."
+        },
+        {
+          "t": "p",
+          "x": "Because the primary endpoint was negative, attrition was high, no usual-care control was included, and the cognitive finding was limited to an exploratory post-hoc analysis, the authors say the findings should be interpreted as hypothesis-generating, requiring further validation in larger trials."
+        }
+      ]
+    },
+    "medicine/medicine-clairity-everlywell-breast-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Clairity is broadening U.S. availability of its Clairity Breast AI-based breast cancer risk assessment platform through a partnership with consumer health testing company Everlywell."
+        },
+        {
+          "t": "p",
+          "x": "Clairity Breast analyzes a single routine screening mammogram to predict a woman's five-year risk of developing breast cancer. The platform received De Novo authorization from the U.S. Food and Drug Administration (FDA) in 2025. It was previously available only at Beth Israel Deaconess Medical Center in Massachusetts and Invision Sally Jobe Imaging Center in Colorado."
+        },
+        {
+          "t": "p",
+          "x": "Patients in the U.S. with a qualifying recent screening mammogram can now access the assessment through Everlywell's consumer platform, which includes physician order review, digital results delivery, and clinician-supported follow-up, Clairity said. The company was founded by breast imaging researcher Connie Lehman, MD, PhD."
+        }
+      ]
+    },
+    "medicine/medicine-europe-20-center-radiology-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+        },
+        {
+          "t": "p",
+          "x": "Widespread AI adoption in a private radiology practice can produce measurable efficiency gains, according to a study published in JACR. European imaging experts assessed 10 AI tools from seven vendors over a nearly 5-year implementation across 20 outpatient imaging centers of the 3R Swiss Imaging Network."
+        },
+        {
+          "t": "p",
+          "x": "“Infrastructure latency, not algorithm speed, was the primary barrier to clinical utility,” wrote lead author Dr. Sergey Morozov and colleagues. Cohorts included 97,000 exams for latency, 21,000 exams from 2025 for turnaround time, and a survey of 58 radiologists."
+        },
+        {
+          "t": "p",
+          "x": "Active AI adoption reached about 91% of physicians. Median total latency was about 2.06 minutes, about 72% of it from data routing; AI results arrived after the report was finalized in about 7.2% of cases, from 3% for knee MRI to 13% for chest CT."
+        },
+        {
+          "t": "p",
+          "x": "AI availability was associated with lower median turnaround times for trauma radiography (-26%) and knee MRI (-18%), while brain volumetry MRI showed no significant change. The program generated 0.69 FTE of capacity through trauma radiography alone."
+        }
+      ]
+    },
+    "medicine/breast-second-read": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+          "cap": "A radiologist reading mammograms at a reporting workstation. Source: Lunit."
+        },
+        {
+          "t": "p",
+          "x": "A European health system has announced that it will replace radiologist second reads in breast screening with artificial intelligence. The rollout spans three hospitals in Sweden's Stockholm Region and covers between 200,000 and 250,000 breast imaging exams a year, with the AI acting as an independent second reader at regional scale."
+        },
+        {
+          "t": "p",
+          "x": "Like most of Europe, and unlike the United States, Sweden has two radiologists independently review each mammogram as a quality check. The AI stands in for the second of those two readers, so one radiologist still reads every exam."
+        },
+        {
+          "t": "p",
+          "x": "The groundwork was a prospective, population based study at Saint Goran hospital in Stockholm, which evaluated the system in the real world screening of more than 55,000 women. First year results presented at the RSNA meeting in 2024 showed a 15% increase in cancer detection and more than a 36% reduction in radiologist reading times."
+        },
+        {
+          "t": "p",
+          "x": "That hospital has used the system since 2023, supporting around 200,000 breast exams over three years, and this is the vendor's second region wide rollout in Sweden after Dalarna County. The news follows a Berlin based company's announcement that it received the world's first approval for a breast triage tool that bypasses radiologist review entirely for normal mammograms."
+        }
+      ]
     }
   }
 }

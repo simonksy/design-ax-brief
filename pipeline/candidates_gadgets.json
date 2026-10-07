@@ -1,196 +1,158 @@
 {
- "date": "2026-10-07",
  "section": "gadgets",
+ "now_iso": "2026-10-07T22:04:00Z",
  "window_hours": 336,
  "items": [
   {
-   "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-   "url": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-   "source": "The Verge",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T21:39:53+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STK071_APPLE_E.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "LG on the label but Apple behind the scenes?"
-  },
-  {
-   "title": "Leak hints at major Siri upgrades for Apple’s upcoming smart home devices",
-   "url": "https://www.digitaltrends.com/home/leak-hints-at-major-siri-upgrades-for-apples-upcoming-smart-home-devices/",
+   "title": "Xreal puts a $1,279 price tag on its first Android XR glasses",
+   "url": "https://www.digitaltrends.com/wearables/xreal-puts-a-1279-price-tag-on-its-first-android-xr-glasses/",
    "source": "Digital Trends",
    "category": "gadgets",
-   "published_iso": "2026-10-06T10:38:09-07:00",
-   "og_image": "https://www.digitaltrends.com/tachyon/2022/11/Apple-TV-4K-2022-Gen-3-8.jpg?resize=1200%2C630",
-   "excerpt": "Apple's upcoming smart home devices could be getting some major Siri upgrades, new leak suggests."
+   "published_iso": "2026-10-07T07:08:31-07:00",
+   "og_image": "https://www.digitaltrends.com/tachyon/2026/10/Xreal-Aura-featured.jpg?resize=1200%2C630",
+   "excerpt": "Xreal has revealed pricing and preorder details for the Aura, its first Android XR glasses, with the base model starting at $1,279 and shipments beginning before the holiday season.",
+   "keyword": "smart glasses AI"
   },
   {
-   "title": "Teen founder reveals 'personal AI computer' that's a $3,499 Mac mini rival",
-   "url": "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box",
-   "source": "TechRadar",
+   "title": "I Put on Meta and Xreal’s XR Glasses. Face Computers Are Finally Getting Good",
+   "url": "https://www.wired.com/story/weve-tried-meta-and-xreals-xr-glasses-is-there-a-winner/",
+   "source": "WIRED",
    "category": "gadgets",
-   "published_iso": "2026-10-06T16:17:33Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg",
-   "excerpt": "Ghost's Core 'builds context on your life over time and works continuously to help you' while offering tight security and privacy."
+   "published_iso": "2026-10-07T12:00:00.000Z",
+   "og_image": "https://media.wired.com/photos/6ac61c28239592efa511f0ba/191:100/w_1280,c_limit/100726-XR%20VR%20Glasses.jpg",
+   "excerpt": "Xreal’s long-hyped Aura glasses arrive soon for $1,279. Here’s how they fare against Meta’s recently announced VR Glasses.",
+   "keyword": "smart glasses AI"
   },
   {
-   "title": "JBL’s New Party Speaker Has an AI Karaoke Feature You May Actually Want to Use",
-   "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
-   "source": "Gizmodo",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+   "source": "TechCrunch",
    "category": "gadgets",
-   "published_iso": "2026-10-06T19:15:27+00:00",
-   "og_image": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg",
-   "excerpt": "The PartyBox Ultimate 2 uses JBL's AI tool to strip vocals from your songs."
+   "published_iso": "2026-10-07T20:22:37+00:00",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+   "excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+   "keyword": "Copilot+ PC"
   },
   {
-   "title": "New Surface Laptop Ultra release details revealed with up to 128 GB RAM and 20-core RTX Spark",
-   "url": "https://www.notebookcheck.net/New-Surface-Laptop-Ultra-release-details-revealed-with-up-to-128-GB-RAM-and-20-core-RTX-Spark.1416963.0.html",
+   "title": "The Surface Laptop Ultra is an AI monster with a laptop problem",
+   "url": "https://www.pcworld.com/article/3255200/the-surface-laptop-ultra-is-an-ai-monster-with-a-laptop-problem.html",
+   "source": "PCWorld",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T20:15:07+00:00",
+   "og_image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255200-0-48162900-1791407081-Microsoft-Surface-Laptop-Ultra-at-Windows-and-Surface-Event-October-2026.jpg?quality=50&strip=all&w=1024",
+   "excerpt": "Microsoft’s new Surface Laptop Ultra is powered by a Mediatek CPU and Nvidia’s powerful RTX Spark SoC, which is mainly designed to run local AI models on the user’s lap. Five competing laptops—from Dell, HP, MSI and more—will offer additional options.\n\n\n\nHere’s the thinking. M",
+   "keyword": "NPU laptop"
+  },
+  {
+   "title": "Microsoft launches compact local AI monster with 128 GB unified memory",
+   "url": "https://www.notebookcheck.net/Microsoft-launches-compact-local-AI-monster-with-128-GB-unified-memory.1418421.0.html",
    "source": "Notebookcheck",
    "category": "gadgets",
-   "published_iso": "2026-10-06T14:04:00Z",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/microsoft-surface-laptop-ultra-new-info-kv.jpg",
-   "excerpt": "Microsoft will be officially launching the Surface Laptop Ultra on October 7. In the meantime, multiple sources have revealed release details ahead of schedule."
+   "published_iso": "2026-10-07T19:02:00+00:00",
+   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Microsoft-Surface-RTX-Spark-Dev-Box-Header.png",
+   "excerpt": "Microsoft has launched the Surface RTX Spark Dev Box, a compact developer workstation built around Nvidia's RTX Spark platform. It packs 128 GB of unified memory and 2 TB of storage.",
+   "keyword": "AI hardware"
+  },
+  {
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "source": "The Verge",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T18:01:20+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "excerpt": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]",
+   "keyword": "Copilot+ PC"
+  },
+  {
+   "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+   "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+   "source": "TechCrunch",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T14:41:38+00:00",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
+   "excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+   "keyword": "AI gadget"
+  },
+  {
+   "title": "애플·LG전자, AI 스마트홈 기기 공동 개발…도어락·보안 카메라 등 출시 추진",
+   "url": "https://www.etnews.com/20261007000151",
+   "source": "전자신문",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T10:58:15+09:00",
+   "og_image": "https://img.etnews.com/news/article/2026/10/07/news-p.v1.20261007.ee5f6106643049788c5fd539a88fd30e_P1.png",
+   "excerpt": "애플이 LG전자와 손잡고 인공지능(AI) 기반 스마트홈 기기 개발에 나서는 것으로 알려졌다. 비디오 초인종과 스마트 도어락, 보안 카메라 등 제품을 LG전자 브랜드로 출시하고 애플 차세대 스마트홈 허브와 연동하는 방안을 추진하는 식이다. 7일 블룸버그통신 등에 따르면 애플과 LG전자는 비디오 초인종과 스마트 도어락, 보안 카메라, 스마트 온도센서·온도조절기 등 스마트홈 기기 여러 종을 공동 개발 중이다. 제품은 LG전자 브랜드로 출시될 예정이다",
+   "keyword": "AI 디바이스"
+  },
+  {
+   "title": "Apple's Own Home Security Camera Still Coming Next Year",
+   "url": "https://www.macrumors.com/2026/10/07/apple-home-security-camera-still-coming-next-year/",
+   "source": "MacRumors",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T10:35:17+00:00",
+   "og_image": "https://images.macrumors.com/t/WbClhigH_etb1FnsUGGXMv_DDZc=/2500x/article-new/2024/11/homekit-showdown-redux.jpg",
+   "excerpt": "Apple's home security camera remains in development separately from the LG-made accessories reported yesterday, Bloomberg's Mark Gurman has clarified. In a follow-up post on X, Gurman said the security cameras co-developed with LG are \"completely separate\" from Apple's privacy-centric home camera an",
+   "keyword": "AI camera"
+  },
+  {
+   "title": "Fitbit Edge specs and colors leak along with pricing for the EU and UK",
+   "url": "https://www.gsmarena.com/fitbit_edge_specs_and_colors_leak_along_with_pricing_for_the_eu_and_uk-news-74931.php",
+   "source": "GSMArena",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T04:01:02+02:00",
+   "og_image": "https://fdn.gsmarena.com/imgroot/news/26/10/fitbit-edge-prices/-952x498w6/gsmarena_000.jpg",
+   "excerpt": "Fitbit Edge leak: EUR179/GBP159 pricing, 1.34-inch AMOLED, runs Fitbit OS with personalized Gemini coaching.",
+   "keyword": "AI wearable"
+  },
+  {
+   "title": "Norway Proposes Temporary Ban on Smart Glasses in Public Places",
+   "url": "https://roadtovr.com/norway-proposes-temporary-ban-on-smart-glasses-in-public-places/",
+   "source": "Road to VR",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T14:30:35+00:00",
+   "og_image": "https://roadtovr.com/wp-content/uploads/2023/12/Ray-Ban-Meta-glasses.jpg",
+   "excerpt": "The Norwegian government announced it’s aiming to introduce a temporary ban on smart glasses in a number of public locations, citing privacy as the main concern. While the government says the temporary ban is a high priority, it must still be introduced as legislation and approved by Norway’s parlia",
+   "keyword": "smart glasses AI"
+  },
+  {
+   "title": "Apple may have to officially support Apple Intelligence removal on Macs to protect sales",
+   "url": "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/",
+   "source": "9to5Mac",
+   "category": "gadgets",
+   "published_iso": "2026-10-07T11:39:57+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/macbook-air-apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "You only have to read some of the comments right here to see that there’s a vocal minority of people rejecting all AI tools, including Apple Intelligence. That’s led to an unofficial tool enabling people to turn off the feature on their Macs and remove all downloaded Siri AI models.\n\n\n\nWe warned yes",
+   "keyword": "Apple Intelligence device"
   },
   {
    "title": "Expandable AI workstation with RTX PRO Blackwell introduced in a compact 5L chassis",
    "url": "https://www.notebookcheck.net/Expandable-AI-workstation-with-RTX-PRO-Blackwell-introduced-in-a-compact-5L-chassis.1416965.0.html",
    "source": "Notebookcheck",
    "category": "gadgets",
-   "published_iso": "2026-10-06T16:46:00Z",
+   "published_iso": "2026-10-06T16:46:00+00:00",
    "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Asrock-DeskSlim.jpg",
-   "excerpt": "ASRock packs either an NVIDIA RTX PRO 4000 Blackwell SFF Edition or an NVIDIA RTX PRO 2000 Blackwell into a compact 5L power and AI workstation for professionals. The DeskSlim X600 and DeskSlim B760 are designed to offer strong expandability in a truly small form factor."
+   "excerpt": "ASRock packs either an NVIDIA RTX PRO 4000 Blackwell SFF Edition or an NVIDIA RTX PRO 2000 Blackwell into a compact 5L power and AI workstation for professionals. The DeskSlim X600 and DeskSlim B760 are designed to offer strong expandability in a truly small form factor.",
+   "keyword": "AI hardware"
   },
   {
-   "title": "I tried Meta Muse for a week, and it didn’t go how I expected",
-   "url": "https://www.androidauthority.com/meta-muse-one-week-later-hands-on-3718233/",
-   "source": "Android Authority",
+   "title": "One UI 9 on the Galaxy S26 series: Here’s what’s changed",
+   "url": "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/",
+   "source": "SamMobile",
    "category": "gadgets",
-   "published_iso": "2026-10-06T10:00:30+00:00",
-   "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/meta-muse-on-pixel-11-pro-xl-scaled.jpg",
-   "excerpt": "Meta Muse has received a lot of attention since its launch. But is it any good? I tried it for a week to find out."
+   "published_iso": "2026-10-07T02:30:00+00:00",
+   "og_image": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg",
+   "excerpt": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features you may have seen in One UI 9 coverage were already available on these phones. Ot",
+   "keyword": "Galaxy AI phone"
   },
   {
-   "title": "Norway becomes first country to propose temporary ban on smart glasses",
-   "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/norway-set-to-become-first-country-to-slap-a-temporary-ban-on-smart-specs-and-an-informed-debate-will-determine-the-future-of-meta-ray-bans-and-other-pervert-glasses",
-   "source": "TechRadar",
+   "title": "If Apple's AI suggestions in Messages annoys you, there's a solution",
+   "url": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
+   "source": "9to5Mac",
    "category": "gadgets",
-   "published_iso": "2026-10-06T11:56:13Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/o6zZmE7E7hdJ7iggPkTX8N-1319-80.jpg",
-   "excerpt": "Norway's temporary ban would prohibit the use of smart glasses in parks, beaches, museums, schools, kindergartens, and other public spaces."
-  },
-  {
-   "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027",
-   "url": "https://www.cnet.com/tech/mobile/meta-muse-charm-pendant-smartwatch-hint/",
-   "source": "CNET",
-   "category": "gadgets",
-   "published_iso": "2026-10-05T08:00:14-04:00",
-   "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/image-1-2.png",
-   "excerpt": "As smartwatches head toward becoming AI companions, Meta might be working a new angle."
-  },
-  {
-   "title": "Google’s new Fitbit could make you rethink buying a smartwatch",
-   "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
-   "source": "Digital Trends",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T09:26:24-07:00",
-   "og_image": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C630",
-   "excerpt": "Google’s rumored Fitbit Edge could pack a screen, GPS, Gemini coaching, and week-long battery life into one tiny tracker."
-  },
-  {
-   "title": "What to expect at Microsoft's special Windows & Surface event on October 7",
-   "url": "https://www.windowscentral.com/microsoft/windows-11/what-to-expect-at-microsofts-special-windows-and-surface-event-on-october-7-surface-laptop-ultra-and-rtx-spark-revealed-new-agentic-os-capabilities-and-more",
-   "source": "Windows Central",
-   "category": "gadgets",
-   "published_iso": "2026-10-05T16:10:51Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/obrUnsxVfd6fSbXxbuctfW-2560-80.jpg",
-   "excerpt": "It's not often that Microsoft holds dedicated Windows & Surface events, so all eyes are on its October 7 keynote to deliver something truly meaningful."
-  },
-  {
-   "title": "TDK shows off smart-glasses display that projects images straight onto the retina",
-   "url": "https://www.notebookcheck.net/TDK-shows-off-smart-glasses-display-that-projects-images-straight-onto-the-retina.1414790.0.html",
-   "source": "Notebookcheck",
-   "category": "gadgets",
-   "published_iso": "2026-10-02T19:27:00Z",
-   "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/TDK-metaoptic-mirror-display_01.jpg",
-   "excerpt": "TDK has demonstrated a new smart-glasses display that projects images directly onto the wearer’s retina using a 150-nm-thick meta-optic mirror. The company says the technology could enable highly transparent lenses while keeping projected information private to the wearer."
-  },
-  {
-   "title": "Samsung reportedly confirms November launch for first Android XR glasses",
-   "url": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/",
-   "source": "9to5Google",
-   "category": "gadgets",
-   "published_iso": "2026-10-01T14:20:00+00:00",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/07/samsung-android-xr-glasses-warby-parker-12.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "Samsung's first Android XR glasses reportedly have a release date confirmed for sometime in November 2026."
-  },
-  {
-   "title": "STUDY: Qualcomm’s 18‑core Snapdragon X2 outperforms Intel on CPU, AI, battery, and price",
-   "url": "https://www.windowscentral.com/hardware/qualcomm/qualcomms-snapdragon-x2-doesnt-need-the-extreme-badge-to-beat-intel-signal65-study",
-   "source": "Windows Central",
-   "category": "gadgets",
-   "published_iso": "2026-10-01T18:38:23Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/fTCrizsYk6gYBBh6YbCSvU-2448-80.jpg",
-   "excerpt": "New tests show Qualcomm’s 18‑core Snapdragon X2 outperforming Intel’s mainstream laptop chips across CPU, AI, battery life, and price, proving the non‑Extreme model is already a major threat."
-  },
-  {
-   "title": "Solos gives its smart glasses a physical privacy kill switch",
-   "url": "https://www.androidcentral.com/wearables/solos-gives-its-smart-glasses-a-physical-privacy-kill-switch",
-   "source": "Android Central",
-   "category": "gadgets",
-   "published_iso": "2026-09-29T18:08:32Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/UEYZxQpubGf5QcapHZjTDL-1792-80.jpg",
-   "excerpt": "The AirGo V2’s new privacy kit takes cameras out of the equation."
-  },
-  {
-   "title": "Meta Ray-Ban Display Gets New Features, Online Ordering & International Launch",
-   "url": "https://www.uploadvr.com/meta-ray-ban-display-gets-new-features-online-ordering-international-launch/",
-   "source": "UploadVR",
-   "category": "gadgets",
-   "published_iso": "2026-09-28T01:07:44.000Z",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-Ray-Ban-Display-Connect-2026-news.png",
-   "excerpt": "Meta Ray-Ban Display is now available in the UK and Canada, and will be available in France, Italy and Germany next month. It's also getting new features and updates."
-  },
-  {
-   "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-   "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-   "source": "TechCrunch",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T20:47:01+00:00",
-   "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
-   "excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
-  },
-  {
-   "title": "Google AI Edge Foresight for Mac turns scribbles into full notes using offline recordings",
-   "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
-   "source": "9to5Google",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T17:15:19+00:00",
-   "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&resize=1200,628",
-   "excerpt": "Google today announced EmbeddingGemma 2. To show off its potential, Google created an AI Edge Foresight Mac app for \"intelligent notetaking.\""
-  },
-  {
-   "title": "Here's when Siri AI may finally become available in the EU",
-   "url": "https://www.gsmarena.com/heres_when_siri_ai_may_finally_become_available_in_the_eu-news-74916.php",
-   "source": "GSMArena",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T11:12:02+02:00",
-   "og_image": "https://fdn.gsmarena.com/imgroot/news/26/10/siri-ai-eu-timeline/-952x498w6/gsmarena_000.jpg",
-   "excerpt": "It's not good news, unfortunately. One of the main new features of iOS 27 and iPadOS 27 is the new Siri AI, but this still isn't available in the EU,..."
-  },
-  {
-   "title": "도시 곳곳으로 들어온 AI…'SLW 2026'서 펼쳐진 피지컬 AI 미래 일상",
-   "url": "https://www.etnews.com/20261006000286",
-   "source": "전자신문",
-   "category": "gadgets",
-   "published_iso": "2026-10-06T14:33:21+09:00",
-   "og_image": "https://img.etnews.com/news/article/2026/10/06/news-p.v1.20261006.ee990ed1ce6c4db2afd78e86221c3fea_P1.jpg",
-   "excerpt": "인공지능(AI)이 화면을 넘어 도시 속에서 움직이기 시작했다. 자율주행차가 사람과 물건을 나르고, 로봇과 드론이 사람 대신 지하철 선로와 위험 현장을 점검하며, AI는 시민의 피부와 건강 상태를 살피고 행정서비스에도 스며든다. 6일 서울 코엑스에서 개막한 '스마트라이프위크(SLW) 2026'은 교통·안전·돌봄·주거·행정 등 도시의 일상 전반에 들어온 AI와 로봇 기술을 전시장에 모아 '피지컬 AI 도시'가 더 이상 먼 미래의 이야기가 아니라는"
-  },
-  {
-   "title": "Meta VR Glasses Officially Announced, Shipping Spring 2027 For $1300",
-   "url": "https://www.uploadvr.com/meta-vr-glasses-officially-announced-connect-2026/",
-   "source": "UploadVR",
-   "category": "gadgets",
-   "published_iso": "2026-09-23T23:42:03.000Z",
-   "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/Meta-VR-Glasses---Lifestyle---Close-Up-1.jpg",
-   "excerpt": "Meta VR Glasses have 2.4K micro-OLED displays, weigh 100 grams, and are powered by a tethered puck with Qualcomm's Snapdragon Reality Elite chipset."
+   "published_iso": "2026-10-06T10:49:17+00:00",
+   "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+   "excerpt": "The current beta of iOS 27.2 includes a Siri AI “suggested actions” feature in the Messages app that some will consider useful and others find annoying. \n\n\n\nA developer who has found a number of unannounced features has discovered that Apple is seeking to keep everyone happy with a new set of option",
+   "keyword": "Apple Intelligence device"
   }
- ]
+ ],
+ "date": "2026-10-08"
 }

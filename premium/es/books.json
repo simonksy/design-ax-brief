@@ -5519,6 +5519,91 @@
           "x": "La CEO del Authors Guild, Mary Rasenberger, afirmó que el fallo “reivindica la ley de derechos de autor. Aclara que no se pueden robar las obras de otra persona para entrenar un sistema de AI que desplaza precisamente las obras con las que se entrenó la AI”."
         }
       ]
+    },
+    "books/books-simon-schuster-ai-tracking-letter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "La batalla por la AI en el sector editorial se ha extendido a los empleados de Simon & Schuster, que temen que se use para vigilar su rendimiento. El personal está reuniendo firmas para una carta abierta al CEO, Greg Greeley, que expresa una “fuerte oposición” al uso de Skan AI o de software similar que analiza la actividad laboral, “aparentemente a instancias de KKR”, la firma de capital privado que compró S&S en 2023."
+        },
+        {
+          "t": "p",
+          "x": "“Introducir una tecnología que rastrea las pulsaciones de teclado de los empleados y ‘supervisa el cumplimiento de forma continua’ sería una transgresión directa contra nuestra privacidad y dignidad como trabajadores”, dice la carta. Sus autores, que no se identifican, buscan 250 firmas; S&S tiene 1,500 empleados."
+        },
+        {
+          "t": "p",
+          "x": "En un memorando del 6 de octubre, Greeley afirmó que no hay planes en marcha para usar AI para medir el rendimiento. Blueprint, de Skan AI, es “una posible vía que se está explorando” para reducir tareas administrativas, pero “no se ha tomado ninguna decisión de usar Blueprint ni ninguna otra herramienta de monitoreo de productividad o de análisis de flujos de trabajo, y no hay ningún despliegue en toda la empresa en marcha ni en estudio”."
+        }
+      ]
+    },
+    "books/books-trace-ai-licensed-content": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+          "cap": "Priya Madina, de Springer Nature; Tasha Mellins-Cohen, de COUNTER; Todd Toler, de Ithaka S+R, y Todd Carpenter, de NISO, anuncian la iniciativa TRACE durante la conferencia STM previa a la Frankfurt Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems reúne a las comunidades de la edición académica y de la AI para acelerar la infraestructura técnica necesaria para mejorar la fiabilidad de los sistemas de AI en la comunicación académica, con apoyo a estándares de intercambio de contenidos, mecanismos de seguimiento de la procedencia y protocolos de informes de uso."
+        },
+        {
+          "t": "p",
+          "x": "Arranca con financiación para tres proyectos paralelos: la fase dos de las métricas de uso de AI de COUNTER, que incluye el uso en tiempo de inferencia fuera de las plataformas de las editoriales; un piloto de NISO para definir un modelo mínimo viable de metadatos para la procedencia y la atribución en sistemas de AI; y un estudio de tres meses de Ithaka S+R sobre cómo los agentes de AI descubren contenido académico, se autentican mediante los derechos de acceso del usuario y crean un registro fiable del uso del contenido."
+        },
+        {
+          "t": "p",
+          "x": "Las investigaciones han documentado referencias alucinadas con una frecuencia de aproximadamente el 20 % al 40 % en los resultados generales de LLM. “¿Cómo podemos confiar en un resultado si no podemos ver de dónde procede?”, escribe Todd Carpenter, de NISO."
+        }
+      ]
+    },
+    "books/books-pangram-ai-detector-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+          "cap": "Max Spero, director ejecutivo de Pangram"
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Pangram ha defendido su herramienta de detección de AI frente a las sugerencias de que penaliza de forma desproporcionada a los autores de color, y ha afirmado que ha habido un “enorme aumento” en la adopción de la plataforma “en el mundo literario”."
+        }
+      ]
+    },
+    "books/books-boersenblatt-ki-uebersetzen-umfrage": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+          "cap": "© istockphoto"
+        },
+        {
+          "t": "p",
+          "x": "La asociación digital Bitkom publicó el martes, con motivo del inicio de la Frankfurter Buchmesse (Feria del Libro de Fráncfort), una encuesta representativa sobre la KI en los libros que probablemente alarmará a los traductores: según la asociación, el 79 % de los encuestados apoya el uso de KI en la traducción de libros. En cambio, solo el 29 % leería un libro escrito íntegramente por KI."
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+          "cap": "El gráfico de barras sobre la KI en los libros muestra un 79 % para traducciones, un 72 % para el etiquetado y un 29 % para KI-Bücher. Fuente: Bitkom / Gráfico: Börsenblatt (KI-generiert)"
+        }
+      ]
+    },
+    "books/books-redpine": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
+          "cap": "Anders Hammarbäck, CEO de Redpine"
+        },
+        {
+          "t": "p",
+          "x": "Cinco editoriales académicas –BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing y Wanfang Data– han cerrado un acuerdo con la empresa de AI Redpine para ofrecer a agentes de AI acceso con licencia a 20 millones de artículos de investigación revisados por pares."
+        }
+      ]
     }
   }
 }

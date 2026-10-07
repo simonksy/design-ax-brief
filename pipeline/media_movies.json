@@ -1,32 +1,30 @@
 {
- "date": "2026-10-07",
- "section": "movies",
- "media": [
-  {
-   "id": "movies-loftapps-mad-god",
-   "type": "image",
-   "src": "pipeline/media/movies-loftapps-mad-god.jpg"
-  },
-  {
-   "id": "movies-gods-dont-give-gifts-trailer",
-   "type": "video",
-   "src": "pipeline/media/movies-gods-dont-give-gifts-trailer.mp4",
-   "poster": "pipeline/media/movies-gods-dont-give-gifts-trailer.jpg"
-  },
-  {
-   "id": "movies-sag-aftra-animation-deal",
-   "type": "image",
-   "src": "pipeline/media/movies-sag-aftra-animation-deal.jpg"
-  },
-  {
-   "id": "movies-vfx-voice-future-tools",
-   "type": "image",
-   "src": "pipeline/media/movies-vfx-voice-future-tools.jpg"
-  },
-  {
-   "id": "movies-katzenberg-forecast-check",
-   "type": "image",
-   "src": "pipeline/media/movies-katzenberg-forecast-check.jpg"
-  }
- ]
+  "date": "2026-10-08",
+  "media": [
+    {
+      "id": "movies-dittodub-native6-dubbing",
+      "type": "image",
+      "src": "pipeline/media/movies-dittodub-native6-dubbing.png"
+    },
+    {
+      "id": "movies-google-synthid-detector-launch",
+      "type": "image",
+      "src": "pipeline/media/movies-google-synthid-detector-launch.png"
+    },
+    {
+      "id": "movies-abundantia-aion-standalone-studio",
+      "type": "image",
+      "src": "pipeline/media/movies-abundantia-aion-standalone-studio.png"
+    },
+    {
+      "id": "movies-authors-first-book-adaptation-studio",
+      "type": "image",
+      "src": "pipeline/media/movies-authors-first-book-adaptation-studio.jpg"
+    },
+    {
+      "id": "movies-sinima-creative-ownership-platform",
+      "type": "image",
+      "src": "pipeline/media/movies-sinima-creative-ownership-platform.png"
+    }
+  ]
 }

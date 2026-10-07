@@ -5598,6 +5598,113 @@
           "x": "教程还介绍了如何调整曲序和编辑Album信息、在发布前分享草稿、将现有播放列表转为Album、为所有歌曲使用同一张Album封面、发布时会发生什么，以及发布后如何查找和编辑Album。"
         }
       ]
+    },
+    "music/music-grok-suno-backend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+          "cap": "图片来源：Mariia Berezovsky"
+        },
+        {
+          "t": "p",
+          "x": "据Elon Musk在X上发布的一则简短帖子，号称提供“能为你真正干活的AI队友”的SpaceXAI旗下Grok Bot将正式开始使用Suno的音乐生成模型。"
+        },
+        {
+          "t": "p",
+          "x": "他写道：“关于Grok @bot的重要说明：今后，@SpaceX将针对每项任务选用最佳的后端模型，包括Claude Opus 5.5、MidJourney、Suno及其他领先的APIs。哪个最可能给你带来最好的结果，就用哪个。”"
+        },
+        {
+          "t": "p",
+          "x": "Musk补充说，Grok Bot的大多数请求“都相当简单，等Grok 4.8推出后，将由其极速版本处理”。目前其他细节寥寥；X上的用户在询问上线时间表以及生成内容所附带的权利，还有人指出Suno和Midjourney并没有“官方API产品”。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，ElevenLabs正在向音乐领域扩张，Suno则在十月伊始推出了Speech，称其为“首个将人声与音乐作为一条完整连贯音轨同时生成的音频模型”。Suno的法律纠纷仍在继续，如今还包括意大利一项针对其服务条款的调查。"
+        }
+      ]
+    },
+    "music/music-tencent-music-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+          "cap": "Credit: mundissima / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "据Bloomberg周二（10月6日）报道，中国AI公司DeepSeek即将在新一轮融资中筹集至少RMB 80 billion（USD $12 billion），Tencent Holdings是其最大支持者之一。Tencent与电池制造商CATL“承诺的金额位居最大之列”。"
+        },
+        {
+          "t": "p",
+          "x": "Tencent是Tencent Music Entertainment（TME）的控股股东，TME已于2025年将DeepSeek整合进其音乐流媒体服务。本轮融资最终可能接近RMB 100 billion（$15 billion）；DeepSeek的目标是在2027年初上市。"
+        },
+        {
+          "t": "p",
+          "x": "TME在2025年3月的财报电话会上披露了这一整合，CEO Ross Liang当时表示，DeepSeek已被嵌入其AI词曲创作工具、AI助手、评论区和推荐页面。TME在Q2 2026报告中表示，QQ Music和Kugou Music中的AI智能体如今可即时生成个性化歌单。"
+        },
+        {
+          "t": "p",
+          "x": "International Confederation of Music Publishers（ICMP）此前曾指控DeepSeek复制受版权保护的歌词，总干事John Phelan称其未经许可将受保护的音乐用于商业用途。"
+        }
+      ]
+    },
+    "music/music-humanculture-first-clients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，我们报道过一家由Defected Records和AWAL前高管创办的初创公司，其开发的技术能在内容发布前预测其在社交媒体上的表现。"
+        },
+        {
+          "t": "p",
+          "x": "如今HumanCulture已正式上线，并公布了首批客户。Defected是其中之一，此外还有Red Light Management、Armada Big Family、Arketyp、Knox Artists和FourFour Digital。"
+        },
+        {
+          "t": "p",
+          "x": "重点仍是预测分析。其宣传语称：“通过将叙事主题、视觉风格、受众行为和社区对话与量化表现数据结合分析，它在发布前就为创意团队提供基于证据的方向，而不是事后的回顾性报告。”并宣称“预测内容表现的准确率达82-90%”。"
+        },
+        {
+          "t": "p",
+          "x": "此次上线还公布了一项名为Jasper的功能，HumanCulture称其为“内置AI创意策略师”，客户可与其对话，为营销活动、内容日历及其他营销任务获取创意。"
+        },
+        {
+          "t": "p",
+          "x": "公司强调，其技术会针对每位艺人进行调整，首先通过入驻流程分析艺人最多一年的Instagram和TikTok帖子以及受众评论。"
+        },
+        {
+          "t": "p",
+          "x": "HumanCulture采用‘per-talent’（按艺人计费）的定价方案：服务1-9位艺人的公司起价为每位艺人每月£65，旗下艺人达50-99位的公司则降至每月£52.50。"
+        }
+      ]
+    },
+    "music/music-suno-italy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "图片来源：FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "意大利竞争管理局（AGCM）周二（10月6日）表示，已对Suno的服务条款展开调查，认为这些条款“根据《消费者法典》第33条可能属于不公平条款”。"
+        },
+        {
+          "t": "p",
+          "x": "其关注点包括价格调整、账户终止、基于美国（US-based）的仲裁，以及一项据称要求用户放弃著作人身权的内容许可。该机构表示，这些条款“似乎赋予Suno广泛的自由裁量权，可在无需提供任何理由的情况下单方面变更合同、服务和订阅价格”。"
+        },
+        {
+          "t": "p",
+          "x": "AGCM表示，“有关版权的合同条款尤其值得关注”，称强加给消费者的许可界定不够明确，且违反意大利版权法（Law 633/1941），强制用户放弃著作人身权。该机构还指出了在美国进行的具有约束力的个人仲裁，以及放弃集体诉讼的条款。"
+        },
+        {
+          "t": "p",
+          "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
+        }
+      ]
     }
   }
 }

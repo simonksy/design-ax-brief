@@ -6007,6 +6007,147 @@
           "x": "Los costos se ven en cada paso, y un agente de AI ayuda a crear flujos de trabajo sin necesidad de programar. Mosa ya está disponible para creadores individuales y freelancers, así como para estudios, agencias y equipos internos, con un plan enterprise para organizaciones más grandes."
         }
       ]
+    },
+    "movies/movies-google-synthid-detector-launch": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A medida que las herramientas AI mejoran y se vuelven más fáciles de usar, contar con un contexto claro sobre el contenido que encuentras en línea te ayuda a decidir con criterio en qué confiar. Desde que lanzamos Google SynthID en 2023, hemos ayudado a identificar medios AI-generated mediante marcas de agua imperceptibles en imágenes, video y audio. Hasta la fecha, hemos marcado más de 180 mil millones de imágenes y videos, además de 240,000 años de contenido de audio."
+        },
+        {
+          "t": "p",
+          "x": "El año pasado presentamos una versión inicial de SynthID Detector para ayudar a los profesionales de los medios a verificar contenido AI-generated. Ahora ampliamos el acceso a todo el mundo: la herramienta está disponible globalmente en inglés desde hoy."
+        },
+        {
+          "t": "p",
+          "x": "Con el nuevo SynthID Detector, cualquiera puede comprobar fácilmente si una imagen, un video o un archivo de audio se creó con AI de Google o de nuestros socios, entre ellos OpenAI, NVIDIA, Kakao y, próximamente, Apple."
+        },
+        {
+          "t": "p",
+          "x": "Esta herramienta se suma a las funciones de verificación integradas en Search, la app Gemini y Chrome, que hoy gestionan con regularidad más de 1 millón de solicitudes diarias. Todo forma parte de nuestro trabajo continuo para darte más contexto sobre los medios que ves en línea, de modo que puedas navegar por la web con confianza."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+        }
+      ]
+    },
+    "movies/movies-abundantia-aion-standalone-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
+          "cap": "'Subedaar', 'Maa Behen' y 'Daldal'; Vikram Malhotra (recuadro)"
+        },
+        {
+          "t": "p",
+          "x": "Un año después de lanzar su división de producción AI, Abundantia AiOn, la india Abundantia Entertainment la está transformando en un estudio AI nativo y totalmente independiente que buscará aprovechar la llegada de ideas de fuentes no tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "“AiOn desarrollará sus propias historias, creará su propio contenido, producirá obras totalmente generadas e híbridas y gestionará todo el ecosistema, tal como hace Abundantia como estudio independiente”, dijo a Deadline su fundador y CEO, Vikram Malhotra. Según él, AiOn se lanzará como estudio de pleno derecho en 2027."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora, Malhotra dirigirá AiOn. “De momento estará dentro de Abundantia, pero lo estamos construyendo de forma que tenga su propia identidad y alcance… Es de verdad una confluencia de tecnología y arte.”"
+        },
+        {
+          "t": "p",
+          "x": "Afirmó que en los últimos seis meses recibió “el triple de propuestas de personas que nunca han escrito, hecho películas ni pertenecido al ecosistema cinematográfico convencional” que en el pasado, y citó a directores como Curry Barker y Kane Parsons como prueba de una “democratización” de las ideas."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este año, Abundantia también se asoció con la empresa de video AI InVideo en un estudio de cine que desarrolla una cartera de cinco películas."
+        }
+      ]
+    },
+    "movies/movies-authors-first-book-adaptation-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Authors First, fundada por Robert Hamwee, veterano del capital privado, promete que los autores de ciencia ficción y fantasía puedan adaptar sus títulos lo más fielmente posible a la visión que tenían. Utiliza generadores AI como Seedance 2.5 y Nano Banana, además de “otra tecnología”, como Blender, para crear adaptaciones sin las limitaciones de presupuesto de los estudios de Hollywood."
+        },
+        {
+          "t": "p",
+          "x": "La empresa se lanza tras una ronda semilla de más de $10 millones en la que participan Hamwee, Brand Foundry y The Family Office of David Blitzer. Hamwee la dirige como CEO, con un equipo que incluye a veteranos de Hulu, Warner Bros. y Universal."
+        },
+        {
+          "t": "p",
+          "x": "Su primer proyecto es “Genghis: Birth of an Empire”, adaptación del libro de 2007 de Conn Iggulden “Wolf of the Plains”. Unas 25 personas trabajaron en la historia, los ángulos de cámara y los diálogos, aunque el proyecto se generó en su mayor parte con AI. Iggulden afirma que de otro modo nunca se habría adaptado, porque las ofertas se diluían ante el presupuesto que exige una épica histórica."
+        },
+        {
+          "t": "video",
+          "yt": "KarPbRqW_U8"
+        }
+      ]
+    },
+    "movies/movies-sinima-creative-ownership-platform": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Recién lanzada tras una fase beta, Sinima aspira a ser un nuevo espacio donde cineastas y creadores alojen, protejan, supervisen y moneticen sus películas y videos, con el foco puesto en lo que llama “propiedad creativa”."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
+          "cap": "Crédito: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Fundada por un equipo que incluye a un exVP de Vimeo, Sinima aborda dos problemas: los creadores no pueden saber con certeza si sus videos se usan para entrenar modelos AI, mientras que las empresas AI tienen vías legales limitadas para entrenar con metraje real."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
+          "cap": "Crédito: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sus funciones incluyen alojamiento, revisión privada con clientes, registros de propiedad y procedencia, monitoreo de coincidencias y permisos AI controlados por el creador. Cada archivo recibe una huella digital única y un certificado de propiedad con un enlace de verificación público, y los detalles se registran en manifiestos C2PA-format."
+        },
+        {
+          "t": "p",
+          "x": "Cuando un título se licencia para entrenamiento AI, los creadores se quedan con el 85% de lo que paga el comprador. La tarifa actual valora el metraje elegible y con derechos liberados entre $4,000 y $7,500 por hora, de modo que entre $3,400 y $6,375 por hora liberada van al creador."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
+          "cap": "Crédito: Sinima"
+        },
+        {
+          "t": "p",
+          "x": "Sinima se puede empezar a usar gratis, con planes de suscripción desde $15 al mes."
+        }
+      ]
+    },
+    "movies/movies-loftapps-mad-god": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/image_20from_20_e2_80_9cmad_20god_e2_80_9d_20sequel_20produced_20with_20the_20loft_20os-1280.jpg?itok=SJvuW8w_",
+          "cap": "Imagen de la secuela de 'Mad God' de Phil Tippett, ahora en producción con LOFT. Imagen cortesía de LOFTAPPS."
+        },
+        {
+          "t": "p",
+          "x": "LOFTAPPS, con sede en Berkeley, California, anunció que LOFT, su software de producción para AI generativa, hará su debut europeo en VIEW Conference 2026, que se celebrará del 12 al 16 de octubre en Turín, Italia. Los asistentes también podrán ver en exclusiva un adelanto de la secuela de Mad God, el largometraje en stop-motion de Phil Tippett, actualmente en producción con LOFT."
+        },
+        {
+          "t": "p",
+          "x": "LOFT gestiona activos, intención creativa, prompts, procedencia, revisión y recursos de producción a lo largo de pipelines complejos y múltiples modelos de AI en un solo sistema. Concebido como un producto AI-first, también admite flujos de trabajo híbridos y ya se distribuye a clientes seleccionados mediante un proceso de incorporación guiado."
+        },
+        {
+          "t": "p",
+          "x": "\"Su valor es un proceso de producción conectado que cambia de raíz cómo se genera, multiplica y gestiona el trabajo de producción\", afirmó Gary Mundell, cofundador y CEO de LOFTAPPS."
+        },
+        {
+          "t": "p",
+          "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
+        }
+      ]
     }
   }
 }

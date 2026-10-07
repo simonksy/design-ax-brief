@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "marketing",
   "cards": [
     {
-      "id": "chatgpt-ads",
+      "id": "marketing-ads-uploader-meta-agent-batches",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
-      "mini_headline": "ChatGPT의 새 광고 형식",
-      "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
+      "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
+      "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
+      "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
       "tool": "Marketing",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "source": "PPC Land",
+      "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,203 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-            "cap": "생성된 이미지 옆에 새 비주얼 광고 형식이 나란히 뜬 ChatGPT 화면."
+            "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+            "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT에 새 비주얼 광고 형식을 들인다. 측정 도구와 파트너십을 넓히고, 브랜드 적합성을 가늠할 방법도 새로 만들고 있다. OpenAI는 ChatGPT의 주간 이용자가 1.2 billion 명이라고 밝혔다."
+            "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사 설명으로는 서비스에 직접 연결된 AI 에이전트가 이 플랫폼에서 제출된 배치 36,289개 중 17.5%를 냈다."
           },
           {
             "t": "p",
-            "x": "이 형식은 제품에서 얻는 영감, 제품을 쓰는 장면, 제품이 있어야 가능한 경험을 이미지로 보여준다. OpenAI는 ChatGPT에서 이미지를 만드는 동안 이 형식을 시험하며, 대상은 Free와 Go 요금제 이용자다. 광고에는 표시가 분명히 붙고 생성 중인 이미지와는 떨어져 있다. 광고가 ChatGPT의 답변을 좌우하지는 않는다고 회사는 설명한다. 시험은 이달 말 미국에서 초기 광고주 그룹과 함께 시작한다."
+            "x": "이 비율로 계산하면 한 달 에이전트 배치는 약 6,350개, 30-day 기준 하루 약 212개다. 같은 발표를 보면 그달 만들어진 Meta 광고는 286,137개로, 하루 약 9,500개꼴이다."
           },
           {
             "t": "p",
-            "x": "측정 쪽에서는 Hightouch, Tealium, LiveRamp 연동이 새로 붙어 광고주가 자사 시스템의 전환 데이터를 ChatGPT Ads로 보낼 수 있다. OpenAI는 전환 인터페이스와 리포팅, 클릭 어트리뷰션에서 여러 어트리뷰션 파트너를 지원한다. Haus, Measured, WorkMagic과 함께 지역별 결과를 비교하는 실험은 아직 초기 단계다."
+            "x": "플랫폼의 MCP 서버나 command-line 인터페이스로 AI 에이전트가 넣은 배치는 agent-made로 센다. 자율성이 얼마나 되느냐가 아니라 어떤 경로로 들어왔느냐가 기준이다. 사람이 감독한 배치와 그렇지 않은 배치는 발표 자료에서 따로 나누지 않았다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 내건 성과 수치는 OpenAI가 아니라 이 파트너들에게서 나왔다. DV Rockerbox는 WeightWatchers가 ChatGPT Ads에서 자사 통합 유료 검색 벤치마크보다 획득당 비용을 15.3% 적게 썼다고 밝혔고, Triple Whale은 ChatGPT Ads를 타고 Portland Leather에 들어온 방문자의 93%가 신규였다고 전한다."
+            "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
           },
           {
             "t": "p",
-            "x": "게재 가드레일은 해당 대화가 광고를 붙이기에 적절한지 판단한다. Negative Phrases는 자체 정책에 맞는 제외 설정이 필요한, 자격 요건을 갖춘 광고주에게 열린다."
+            "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT will test visual ads\nduring image generation",
-          "body": "OpenAI will test visual ads during ChatGPT image generation in the United States with select advertisers.",
-          "mini_headline": "A new ChatGPT ad format",
+          "headline": "One in six Meta ad batches\nnow come from AI agents",
+          "body": "Ads Uploader data shows 17.5% of 36,289 Meta ad batches came from AI agents, about 212 agent batches a day.",
+          "mini_headline": "Agents send 1 in 6 Meta ad batches",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "ChatGPT screens showing the new visual ad format alongside a generated image."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "One empty chair, one self-typing machine: the 1 in 6 Meta ad launches run by AI at Ads Uploader"
               },
               {
                 "t": "p",
-                "x": "OpenAI is introducing a new visual ad format in ChatGPT, expanding its measurement tools and partnerships, and developing new ways to understand brand suitability. The company says ChatGPT reaches 1.2 billion people each week."
+                "x": "Ads Uploader, a bulk ad-submission platform for Meta, published September 2026 figures showing that AI agents connected directly to the service accounted for 17.5% of the 36,289 batches submitted through it, according to the company."
               },
               {
                 "t": "p",
-                "x": "The format shows images of product inspiration, product usage, or the experiences a product makes possible. OpenAI will test it during image generation in ChatGPT, for users on the Free and Go plans. Ads will be clearly labeled and stay separate from the image being created, and the company says advertising does not influence the answers ChatGPT gives. Testing begins later this month in the United States with an initial group of advertisers."
+                "x": "Applied to the total, that share works out to about 6,350 agent batches over the month, or roughly 212 a day on a 30-day window. The same release puts the month's output at 286,137 Meta ads, about 9,500 a day."
               },
               {
                 "t": "p",
-                "x": "On measurement, new integrations with Hightouch, Tealium and LiveRamp let advertisers send conversion data from their own systems into ChatGPT Ads, and OpenAI now supports a long list of attribution partners for its conversions interface, reporting and click attribution. Experiments comparing results across geographies, run with Haus, Measured and WorkMagic, are still at an early stage."
+                "x": "A batch counts as agent-made when an AI agent submits it through the platform's MCP server or its command-line interface. The definition is based on the channel, not on the degree of autonomy, and the release does not split supervised from unsupervised batches."
               },
               {
                 "t": "p",
-                "x": "The performance figures OpenAI quotes come from those partners rather than from OpenAI itself. DV Rockerbox says WeightWatchers paid 15.3% less per acquisition on ChatGPT Ads than its blended paid search benchmark, and Triple Whale says 93% of Portland Leather's visitors from ChatGPT Ads were new."
+                "x": "\"A lot of advertisers already have an agent doing the setup work,\" said Chris Pollard, founder of Ads Uploader. \"Last month about 1 in 6 batch launches on our platform came from one.\""
               },
               {
                 "t": "p",
-                "x": "Placement guardrails assess whether a conversation is appropriate for advertising, and Negative Phrases are now available to qualifying advertisers that need exclusions specific to their own policies."
+                "x": "The data is supplied by the vendor, covers a single month and a single ad platform, and has not been audited. The figures arrive as Meta, Amazon and X open their own ad systems to agents."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
-          "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
-          "mini_headline": "ChatGPT의 새 광고 형식",
+          "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
+          "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
+          "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "생성된 이미지 옆에 새 비주얼 광고 형식이 나란히 뜬 ChatGPT 화면."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT에 새 비주얼 광고 형식을 들인다. 측정 도구와 파트너십을 넓히고, 브랜드 적합성을 가늠할 방법도 새로 만들고 있다. OpenAI는 ChatGPT의 주간 이용자가 12억 명이라고 밝혔다."
+                "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사 설명으로는 서비스에 직접 연결된 AI 에이전트가 이 플랫폼에서 제출된 배치 36,289개 중 17.5%를 냈다."
               },
               {
                 "t": "p",
-                "x": "이 형식은 제품에서 얻는 영감, 제품을 쓰는 장면, 제품이 있어야 가능한 경험을 이미지로 보여준다. OpenAI는 ChatGPT에서 이미지를 만드는 동안 이 형식을 시험하며, 대상은 Free와 Go 요금제 이용자다. 광고에는 표시가 분명히 붙고 생성 중인 이미지와는 떨어져 있다. 광고가 ChatGPT의 답변을 좌우하지는 않는다고 회사는 설명한다. 시험은 이달 말 미국에서 초기 광고주 그룹과 함께 시작한다."
+                "x": "이 비율로 계산하면 한 달 에이전트 배치는 약 6,350개, 30-day 기준 하루 약 212개다. 같은 발표를 보면 그달 만들어진 Meta 광고는 286,137개로, 하루 약 9,500개꼴이다."
               },
               {
                 "t": "p",
-                "x": "측정 쪽에서는 Hightouch, Tealium, LiveRamp 연동이 새로 붙어 광고주가 자사 시스템의 전환 데이터를 ChatGPT Ads로 보낼 수 있다. OpenAI는 전환 인터페이스와 리포팅, 클릭 어트리뷰션에서 여러 어트리뷰션 파트너를 지원한다. Haus, Measured, WorkMagic과 함께 지역별 결과를 비교하는 실험은 아직 초기 단계다."
+                "x": "플랫폼의 MCP 서버나 command-line 인터페이스로 AI 에이전트가 넣은 배치는 agent-made로 센다. 자율성이 얼마나 되느냐가 아니라 어떤 경로로 들어왔느냐가 기준이다. 사람이 감독한 배치와 그렇지 않은 배치는 발표 자료에서 따로 나누지 않았다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 내건 성과 수치는 OpenAI가 아니라 이 파트너들에게서 나왔다. DV Rockerbox는 WeightWatchers가 ChatGPT Ads에서 자사 통합 유료 검색 벤치마크보다 획득당 비용을 15.3% 적게 썼다고 밝혔고, Triple Whale은 ChatGPT Ads를 타고 Portland Leather에 들어온 방문자의 93%가 신규였다고 전한다."
+                "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
               },
               {
                 "t": "p",
-                "x": "게재 가드레일은 해당 대화가 광고를 붙이기에 적절한지 판단한다. Negative Phrases는 자체 정책에 맞는 제외 설정이 필요한, 자격 요건을 갖춘 광고주에게 열린다."
+                "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT、画像生成中に\nビジュアル広告を試験",
-          "body": "OpenAIが米国の一部広告主と、ChatGPTの画像生成中にビジュアル広告を試験する。",
-          "mini_headline": "ChatGPTの新しい広告枠",
+          "headline": "Meta広告バッチの\n六つに一つはAIエージェント",
+          "body": "Ads Uploaderの集計で、Meta広告36,289バッチの17.5%はAI経由だ。",
+          "mini_headline": "Metaバッチの6件に1件はエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "生成された画像の隣に新しいビジュアル広告枠が並ぶChatGPTの画面。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "空いた椅子がひとつ、ひとりでに打つ機械がひとつ。Ads UploaderでAIが出稿したMeta広告は6件に1件"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPTに新しいビジュアル広告枠を導入し、計測ツールと提携先を広げ、ブランド適合性を把握する新たな手立ても開発している。同社によれば、ChatGPTの利用者は毎週12億人に達する。"
+                "x": "Meta向けの一括広告入稿プラットフォームAds Uploaderは、2026年9月の数値を公表した。同社によると、サービスに直接接続したAIエージェントが、同プラットフォーム経由で提出された36,289バッチの17.5%を占めた。"
               },
               {
                 "t": "p",
-                "x": "この枠は、商品から得る着想、商品を使う場面、商品があって初めて成り立つ体験を画像で示す。OpenAIはChatGPTでの画像生成中にこれを試験し、対象はFreeとGoの各プランの利用者である。広告であることは明示され、生成中の画像とは切り離される。広告がChatGPTの回答を左右することはないと同社は説明する。試験は今月後半、米国で初期の広告主グループとともに始まる。"
+                "x": "この比率を全体に当てはめると、エージェントによるバッチは月に約6,350件、30-dayの期間で見ると一日あたり約212件になる。同じ発表では、同月のMeta広告の出稿数は286,137件、一日あたり約9,500件とされる。"
               },
               {
                 "t": "p",
-                "x": "計測面では、Hightouch、Tealium、LiveRampとの新たな連携により、広告主は自社システムのコンバージョンデータをChatGPT Adsへ送れる。OpenAIはコンバージョン用インターフェースやレポート、クリックアトリビューションで多数のアトリビューション事業者に対応している。Haus、Measured、WorkMagicと進める地域間の成果比較の実験は、まだ初期段階にある。"
+                "x": "AIエージェントがプラットフォームのMCPサーバーまたはcommand-lineインターフェース経由で提出したバッチを、agent-madeとして数える。定義は自律性の度合いではなく経路に基づいており、発表は人の監督下のバッチとそうでないバッチを区別していない。"
               },
               {
                 "t": "p",
-                "x": "OpenAIが挙げる成果の数字は、OpenAI自身ではなく各パートナーによるものである。DV Rockerboxによれば、WeightWatchersはChatGPT Adsで、自社の統合有料検索のベンチマークより獲得単価を15.3%低く抑えた。Triple Whaleによれば、ChatGPT Ads経由でPortland Leatherを訪れた人の93%が新規だった。"
+                "x": "「多くの広告主は、すでにセットアップ作業をエージェントに任せている」とAds Uploader創業者のChris Pollardは語る。「先月、当社のプラットフォームでのバッチ出稿のおよそ6件に1件はエージェントによるものだった」"
               },
               {
                 "t": "p",
-                "x": "配信のガードレールは、その会話が広告の掲載に適するかを判定する。Negative Phrasesは、自社方針に沿った除外設定を必要とする、条件を満たす広告主に提供される。"
+                "x": "データはベンダー自身が提供したもので、対象はひと月、ひとつの広告プラットフォームに限られ、監査も受けていない。この数値は、Meta、Amazon、Xが自社の広告システムをエージェントに開放しつつある中で出てきた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT将在图像生成中\n测试视觉广告",
-          "body": "OpenAI将在美国与部分广告主一起测试ChatGPT图像生成中的视觉广告。",
-          "mini_headline": "ChatGPT的新广告形式",
+          "headline": "Meta广告批次\n六分之一来自AI智能体",
+          "body": "Ads Uploader数据显示，36,289个Meta广告批次中17.5%来自AI智能体。",
+          "mini_headline": "智能体提交每6个Meta批次中的1个",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "ChatGPT界面中，新的视觉广告形式与生成的图像并排出现。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "一把空椅子，一台自动打字的机器：在Ads Uploader，每6次Meta广告投放中就有1次由AI完成"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在ChatGPT中推出一种新的视觉广告形式，同时扩充测量工具与合作方，并开发判断品牌适宜度的新方法。该公司称，ChatGPT每周触达12亿人。"
+                "x": "面向Meta的批量广告提交平台Ads Uploader公布了2026年9月的数据。该公司表示，直接接入该服务的AI智能体占通过该平台提交的36,289个批次的17.5%。"
               },
               {
                 "t": "p",
-                "x": "该形式以图像呈现产品带来的灵感、产品的使用场景，或产品所能成就的体验。OpenAI将在ChatGPT的图像生成过程中测试它，对象为Free与Go套餐用户。广告会有清晰标注，并与正在生成的图像保持分离；该公司表示，广告不会影响ChatGPT给出的回答。测试于本月晚些时候在美国启动，先与一批初期广告主展开。"
+                "x": "按总量折算，这一比例相当于当月约6,350个智能体批次，按30-day窗口计算约为每天212个。同一份发布还显示，当月共产出286,137条Meta广告，约合每天9,500条。"
               },
               {
                 "t": "p",
-                "x": "在测量方面，与Hightouch、Tealium、LiveRamp的新集成，让广告主可以把自有系统中的转化数据传入ChatGPT Ads；OpenAI的转化接口、报告与点击归因目前支持一长串归因合作方。与Haus、Measured、WorkMagic共同开展的跨地区效果比较实验仍处于早期阶段。"
+                "x": "当AI智能体通过平台的MCP服务器或command-line界面提交批次时，该批次即被计为agent-made。这一定义基于提交渠道而非自主程度，发布内容也未区分有人监督和无人监督的批次。"
               },
               {
                 "t": "p",
-                "x": "OpenAI引用的效果数据来自这些合作方，而非OpenAI自己。DV Rockerbox称，WeightWatchers在ChatGPT Ads上的单次获客成本比其混合付费搜索基准低15.3%；Triple Whale称，Portland Leather来自ChatGPT Ads的访客中有93%是新访客。"
+                "x": "“很多广告主已经让智能体来做设置工作，”Ads Uploader创始人Chris Pollard说，“上个月，我们平台上约每6次批次投放中就有1次来自智能体。”"
               },
               {
                 "t": "p",
-                "x": "投放护栏会评估某段对话是否适合投放广告；Negative Phrases现已向符合条件的广告主开放，供其按自身政策设置排除项。"
+                "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT probará anuncios\nvisuales al generar imágenes",
-          "body": "OpenAI probará anuncios visuales en la generación de imágenes de ChatGPT en Estados Unidos con algunos anunciantes.",
-          "mini_headline": "Un nuevo formato de anuncio en ChatGPT",
+          "headline": "Uno de cada seis lotes de Meta\nya viene de agentes de AI",
+          "body": "Según datos de Ads Uploader, el 17.5% de 36,289 lotes de anuncios en Meta vino de agentes de AI, unos 212 al día.",
+          "mini_headline": "Los agentes envían 1 de cada 6 lotes de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "Pantallas de ChatGPT con el nuevo formato de anuncio visual junto a una imagen generada."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "Una silla vacía, una máquina que escribe sola: 1 de cada 6 lanzamientos de anuncios en Meta los ejecuta la AI en Ads Uploader"
               },
               {
                 "t": "p",
-                "x": "OpenAI está incorporando un nuevo formato de anuncio visual en ChatGPT, amplía sus herramientas y acuerdos de medición y desarrolla nuevas formas de evaluar la idoneidad de marca. La compañía afirma que ChatGPT llega a 1.200 millones personas cada semana."
+                "x": "Ads Uploader, plataforma de envío masivo de anuncios para Meta, publicó cifras de septiembre de 2026 que muestran que los agentes de AI conectados directamente al servicio representaron el 17.5% de los 36,289 lotes enviados a través de ella, según la empresa."
               },
               {
                 "t": "p",
-                "x": "El formato muestra imágenes de inspiración sobre un producto, de su uso o de las experiencias que ese producto hace posibles. OpenAI lo probará durante la generación de imágenes en ChatGPT, para usuarios de los planes Free y Go. Los anuncios se identificarán con claridad y quedarán separados de la imagen que se está creando, y la compañía señala que la publicidad no influye en las respuestas que da ChatGPT. Las pruebas comienzan a finales de este mes en Estados Unidos con un primer grupo de anunciantes."
+                "x": "Aplicada al total, esa proporción equivale a unos 6,350 lotes de agentes en el mes, o cerca de 212 al día en una ventana de 30 días (30-day). El mismo comunicado sitúa la producción del mes en 286,137 anuncios de Meta, unos 9,500 al día."
               },
               {
                 "t": "p",
-                "x": "En medición, nuevas integraciones con Hightouch, Tealium y LiveRamp permiten a los anunciantes enviar datos de conversión desde sus propios sistemas a ChatGPT Ads, y OpenAI ya admite una larga lista de socios de atribución para su interfaz de conversiones, los informes y la atribución de clics. Los experimentos que comparan resultados entre territorios, realizados con Haus, Measured y WorkMagic, siguen en una fase inicial."
+                "x": "Un lote cuenta como agent-made cuando un agente de AI lo envía a través del servidor MCP de la plataforma o de su interfaz command-line. La definición se basa en el canal, no en el grado de autonomía, y el comunicado no separa los lotes supervisados de los no supervisados."
               },
               {
                 "t": "p",
-                "x": "Las cifras de rendimiento que cita OpenAI provienen de esos socios y no de la propia OpenAI. DV Rockerbox afirma que WeightWatchers pagó un 15.3% menos por adquisición en ChatGPT Ads que su referencia combinada de búsqueda pagada, y Triple Whale afirma que el 93% de los visitantes de Portland Leather procedentes de ChatGPT Ads eran nuevos."
+                "x": "\"Muchos anunciantes ya tienen un agente que hace el trabajo de configuración\", dijo Chris Pollard, fundador de Ads Uploader. \"El mes pasado, cerca de 1 de cada 6 lanzamientos de lotes en nuestra plataforma vino de uno\"."
               },
               {
                 "t": "p",
-                "x": "Los límites de ubicación evalúan si una conversación resulta adecuada para la publicidad, y Negative Phrases ya está disponible para los anunciantes que cumplen los requisitos y necesitan exclusiones propias de sus políticas."
+                "x": "Los datos los aporta el proveedor, abarcan un solo mes y una sola plataforma publicitaria, y no han sido auditados. Las cifras llegan cuando Meta, Amazon y X abren sus propios sistemas publicitarios a los agentes."
               }
             ]
           }
@@ -223,141 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT 비주얼 광고\n이미지 생성 중 시험",
-          "body": "OpenAI가 미국에서 ChatGPT 이미지 생성 중 비주얼 광고를 시험한다.",
-          "mini_headline": "ChatGPT의 새 광고 형식",
+          "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
+          "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
+          "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "생성된 이미지 옆에 새 비주얼 광고 형식이 나란히 뜬 ChatGPT 화면."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT에 새 비주얼 광고 형식을 들인다. 측정 도구와 파트너십을 넓히고, 브랜드 적합성을 가늠할 방법도 새로 만들고 있다. OpenAI는 ChatGPT의 주간 이용자가 1.2 billion 명이라고 밝혔다."
+                "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사에 따르면 서비스에 직접 연결된 AI 에이전트가 이 플랫폼으로 제출된 36,289개 배치 중 17.5%를 차지했다."
               },
               {
                 "t": "p",
-                "x": "이 형식은 제품에서 얻는 영감, 제품을 쓰는 장면, 제품이 있어야 가능한 경험을 이미지로 보여준다. OpenAI는 ChatGPT에서 이미지를 만드는 동안 이 형식을 시험하며, 대상은 Free와 Go 요금제 이용자다. 광고에는 표시가 분명히 붙고 생성 중인 이미지와는 떨어져 있다. 광고가 ChatGPT의 답변을 좌우하지는 않는다고 회사는 설명한다. 시험은 이달 말 미국에서 초기 광고주 그룹과 함께 시작한다."
+                "x": "이 비율을 전체에 적용하면 한 달간 에이전트 배치는 약 6,350개, 30-day 기준으로 하루 약 212개다. 같은 발표에 따르면 그달 생산된 Meta 광고는 286,137개로, 하루 약 9,500개다."
               },
               {
                 "t": "p",
-                "x": "측정 쪽에서는 Hightouch, Tealium, LiveRamp 연동이 새로 붙어 광고주가 자사 시스템의 전환 데이터를 ChatGPT Ads로 보낼 수 있다. OpenAI는 전환 인터페이스와 리포팅, 클릭 어트리뷰션에서 여러 어트리뷰션 파트너를 지원한다. Haus, Measured, WorkMagic과 함께 지역별 결과를 비교하는 실험은 아직 초기 단계다."
+                "x": "AI 에이전트가 플랫폼의 MCP 서버나 command-line 인터페이스로 제출한 배치는 agent-made로 집계한다. 기준은 자율성의 정도가 아니라 경로이며, 발표 자료는 사람이 감독한 배치와 그렇지 않은 배치를 나누지 않았다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 내건 성과 수치는 OpenAI가 아니라 이 파트너들에게서 나왔다. DV Rockerbox는 WeightWatchers가 ChatGPT Ads에서 자사 통합 유료 검색 벤치마크보다 획득당 비용을 15.3% 적게 썼다고 밝혔고, Triple Whale은 ChatGPT Ads를 타고 Portland Leather에 들어온 방문자의 93%가 신규였다고 전한다."
+                "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
               },
               {
                 "t": "p",
-                "x": "게재 가드레일은 해당 대화가 광고를 붙이기에 적절한지 판단한다. Negative Phrases는 자체 정책에 맞는 제외 설정이 필요한, 자격 요건을 갖춘 광고주에게 열린다."
+                "x": "데이터는 업체가 직접 제공한 것으로 한 달, 한 광고 플랫폼만 다루며 감사를 거치지 않았다. 이 수치는 Meta, Amazon, X가 자사 광고 시스템을 에이전트에 개방하는 가운데 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT、画像生成中に\nビジュアル広告を試験",
-          "body": "OpenAIが米国の一部広告主と、ChatGPTの画像生成中にビジュアル広告を試験する。",
-          "mini_headline": "ChatGPTの新しい広告枠",
+          "headline": "Meta広告バッチの\n六つに一つはAIエージェント",
+          "body": "Ads Uploaderの集計で、Meta広告36,289バッチの17.5%はAI経由だ。",
+          "mini_headline": "Metaバッチの6件に1件はエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "生成された画像の隣に新しいビジュアル広告枠が並ぶChatGPTの画面。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "空いた椅子がひとつ、ひとりでに打つ機械がひとつ。Ads UploaderでAIが出稿したMeta広告は6件に1件"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPTに新しいビジュアル広告枠を導入し、計測ツールと提携先を広げ、ブランド適合性を把握する新たな手立ても開発している。同社によれば、ChatGPTの利用者は毎週1.2 billion人に達する。"
+                "x": "Meta向けの一括広告入稿プラットフォームAds Uploaderは、2026年9月の数値を公表した。同社によると、サービスに直接接続したAIエージェントが、同プラットフォーム経由で提出された36,289バッチの17.5%を占めた。"
               },
               {
                 "t": "p",
-                "x": "この枠は、商品から得る着想、商品を使う場面、商品があって初めて成り立つ体験を画像で示す。OpenAIはChatGPTでの画像生成中にこれを試験し、対象はFreeとGoの各プランの利用者である。広告であることは明示され、生成中の画像とは切り離される。広告がChatGPTの回答を左右することはないと同社は説明する。試験は今月後半、米国で初期の広告主グループとともに始まる。"
+                "x": "この比率を全体に当てはめると、エージェントによるバッチは月に約6,350件、30-dayの期間で見ると一日あたり約212件になる。同じ発表では、同月のMeta広告の出稿数は286,137件、一日あたり約9,500件とされる。"
               },
               {
                 "t": "p",
-                "x": "計測面では、Hightouch、Tealium、LiveRampとの新たな連携により、広告主は自社システムのコンバージョンデータをChatGPT Adsへ送れる。OpenAIはコンバージョン用インターフェースやレポート、クリックアトリビューションで多数のアトリビューション事業者に対応している。Haus、Measured、WorkMagicと進める地域間の成果比較の実験は、まだ初期段階にある。"
+                "x": "AIエージェントがプラットフォームのMCPサーバーまたはcommand-lineインターフェース経由で提出したバッチを、agent-madeとして数える。定義は自律性の度合いではなく経路に基づいており、発表は人の監督下のバッチとそうでないバッチを区別していない。"
               },
               {
                 "t": "p",
-                "x": "OpenAIが挙げる成果の数字は、OpenAI自身ではなく各パートナーによるものである。DV Rockerboxによれば、WeightWatchersはChatGPT Adsで、自社の統合有料検索のベンチマークより獲得単価を15.3%低く抑えた。Triple Whaleによれば、ChatGPT Ads経由でPortland Leatherを訪れた人の93%が新規だった。"
+                "x": "「多くの広告主は、すでにセットアップ作業をエージェントに任せている」とAds Uploader創業者のChris Pollardは語る。「先月、当社のプラットフォームでのバッチ出稿のおよそ6件に1件はエージェントによるものだった」"
               },
               {
                 "t": "p",
-                "x": "配信のガードレールは、その会話が広告の掲載に適するかを判定する。Negative Phrasesは、自社方針に沿った除外設定を必要とする、条件を満たす広告主に提供される。"
+                "x": "データはベンダー自身が提供したもので、対象はひと月、ひとつの広告プラットフォームに限られ、監査も受けていない。この数値は、Meta、Amazon、Xが自社の広告システムをエージェントに開放しつつある中で出てきた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT将在图像生成中\n测试视觉广告",
-          "body": "OpenAI将在美国与部分广告主一起测试ChatGPT图像生成中的视觉广告。",
-          "mini_headline": "ChatGPT的新广告形式",
+          "headline": "Meta广告批次\n六分之一来自AI智能体",
+          "body": "Ads Uploader数据显示，36,289个Meta广告批次中17.5%来自AI智能体。",
+          "mini_headline": "智能体提交每6个Meta批次中的1个",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "ChatGPT界面中，新的视觉广告形式与生成的图像并排出现。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "一把空椅子，一台自动打字的机器：在Ads Uploader，每6次Meta广告投放中就有1次由AI完成"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在ChatGPT中推出一种新的视觉广告形式，同时扩充测量工具与合作方，并开发判断品牌适宜度的新方法。该公司称，ChatGPT每周触达1.2 billion人。"
+                "x": "面向Meta的批量广告提交平台Ads Uploader公布了2026年9月的数据。该公司表示，直接接入该服务的AI智能体占通过该平台提交的36,289个批次的17.5%。"
               },
               {
                 "t": "p",
-                "x": "该形式以图像呈现产品带来的灵感、产品的使用场景，或产品所能成就的体验。OpenAI将在ChatGPT的图像生成过程中测试它，对象为Free与Go套餐用户。广告会有清晰标注，并与正在生成的图像保持分离；该公司表示，广告不会影响ChatGPT给出的回答。测试于本月晚些时候在美国启动，先与一批初期广告主展开。"
+                "x": "按总量折算，这一比例相当于当月约6,350个智能体批次，按30-day窗口计算约为每天212个。同一份发布还显示，当月共产出286,137条Meta广告，约合每天9,500条。"
               },
               {
                 "t": "p",
-                "x": "在测量方面，与Hightouch、Tealium、LiveRamp的新集成，让广告主可以把自有系统中的转化数据传入ChatGPT Ads；OpenAI的转化接口、报告与点击归因目前支持一长串归因合作方。与Haus、Measured、WorkMagic共同开展的跨地区效果比较实验仍处于早期阶段。"
+                "x": "当AI智能体通过平台的MCP服务器或command-line界面提交批次时，该批次即被计为agent-made。这一定义基于提交渠道而非自主程度，发布内容也未区分有人监督和无人监督的批次。"
               },
               {
                 "t": "p",
-                "x": "OpenAI引用的效果数据来自这些合作方，而非OpenAI自己。DV Rockerbox称，WeightWatchers在ChatGPT Ads上的单次获客成本比其混合付费搜索基准低15.3%；Triple Whale称，Portland Leather来自ChatGPT Ads的访客中有93%是新访客。"
+                "x": "“很多广告主已经让智能体来做设置工作，”Ads Uploader创始人Chris Pollard说，“上个月，我们平台上约每6次批次投放中就有1次来自智能体。”"
               },
               {
                 "t": "p",
-                "x": "投放护栏会评估某段对话是否适合投放广告；Negative Phrases现已向符合条件的广告主开放，供其按自身政策设置排除项。"
+                "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT probará anuncios\nvisuales al generar imágenes",
-          "body": "OpenAI probará anuncios visuales en la generación de imágenes de ChatGPT en Estados Unidos con algunos anunciantes.",
-          "mini_headline": "Un nuevo formato de anuncio en ChatGPT",
+          "headline": "Uno de cada seis lotes de Meta\nya viene de agentes de AI",
+          "body": "Según datos de Ads Uploader, el 17.5% de 36,289 lotes de anuncios en Meta vino de agentes de AI, unos 212 al día.",
+          "mini_headline": "Los agentes envían 1 de cada 6 lotes de Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/67KkeiDAWPNKV0czIQnrpU/3f3ca0a38f8154a982285b0ba6fa42e7/heirloom-grocery-visual-ads-hero.png?w=1600&q=90&fm=jpg",
-                "cap": "Pantallas de ChatGPT con el nuevo formato de anuncio visual junto a una imagen generada."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+                "cap": "Una silla vacía, una máquina que escribe sola: 1 de cada 6 lanzamientos de anuncios en Meta los ejecuta la AI en Ads Uploader"
               },
               {
                 "t": "p",
-                "x": "OpenAI está incorporando un nuevo formato de anuncio visual en ChatGPT, amplía sus herramientas y acuerdos de medición y desarrolla nuevas formas de evaluar la idoneidad de marca. La compañía afirma que ChatGPT llega a 1.2 billion personas cada semana."
+                "x": "Ads Uploader, plataforma de envío masivo de anuncios para Meta, publicó cifras de septiembre de 2026 que muestran que los agentes de AI conectados directamente al servicio representaron el 17.5% de los 36,289 lotes enviados a través de ella, según la empresa."
               },
               {
                 "t": "p",
-                "x": "El formato muestra imágenes de inspiración sobre un producto, de su uso o de las experiencias que ese producto hace posibles. OpenAI lo probará durante la generación de imágenes en ChatGPT, para usuarios de los planes Free y Go. Los anuncios se identificarán con claridad y quedarán separados de la imagen que se está creando, y la compañía señala que la publicidad no influye en las respuestas que da ChatGPT. Las pruebas comienzan a finales de este mes en Estados Unidos con un primer grupo de anunciantes."
+                "x": "Aplicada al total, esa proporción equivale a unos 6,350 lotes de agentes en el mes, o cerca de 212 al día en una ventana de 30 días (30-day). El mismo comunicado sitúa la producción del mes en 286,137 anuncios de Meta, unos 9,500 al día."
               },
               {
                 "t": "p",
-                "x": "En medición, nuevas integraciones con Hightouch, Tealium y LiveRamp permiten a los anunciantes enviar datos de conversión desde sus propios sistemas a ChatGPT Ads, y OpenAI ya admite una larga lista de socios de atribución para su interfaz de conversiones, los informes y la atribución de clics. Los experimentos que comparan resultados entre territorios, realizados con Haus, Measured y WorkMagic, siguen en una fase inicial."
+                "x": "Un lote cuenta como agent-made cuando un agente de AI lo envía a través del servidor MCP de la plataforma o de su interfaz command-line. La definición se basa en el canal, no en el grado de autonomía, y el comunicado no separa los lotes supervisados de los no supervisados."
               },
               {
                 "t": "p",
-                "x": "Las cifras de rendimiento que cita OpenAI provienen de esos socios y no de la propia OpenAI. DV Rockerbox afirma que WeightWatchers pagó un 15.3% menos por adquisición en ChatGPT Ads que su referencia combinada de búsqueda pagada, y Triple Whale afirma que el 93% de los visitantes de Portland Leather procedentes de ChatGPT Ads eran nuevos."
+                "x": "\"Muchos anunciantes ya tienen un agente que hace el trabajo de configuración\", dijo Chris Pollard, fundador de Ads Uploader. \"El mes pasado, cerca de 1 de cada 6 lanzamientos de lotes en nuestra plataforma vino de uno\"."
               },
               {
                 "t": "p",
-                "x": "Los límites de ubicación evalúan si una conversación resulta adecuada para la publicidad, y Negative Phrases ya está disponible para los anunciantes que cumplen los requisitos y necesitan exclusiones propias de sus políticas."
+                "x": "Los datos los aporta el proveedor, abarcan un solo mes y una sola plataforma publicitaria, y no han sido auditados. Las cifras llegan cuando Meta, Amazon y X abren sus propios sistemas publicitarios a los agentes."
               }
             ]
           }
@@ -365,15 +365,15 @@
       }
     },
     {
-      "id": "chatgpt-brand-safety",
+      "id": "marketing-nbcu-ctv-buying-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
-      "mini_headline": "ChatGPT 광고는 누가 검증하나",
-      "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
+      "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
+      "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
+      "mini_headline": "구매 에이전트, CTV로",
       "tool": "Marketing",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -381,203 +381,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-            "cap": "Advertising Week New York에 나온 OpenAI."
+            "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
           },
           {
             "t": "p",
-            "x": "OpenAI가 DoubleVerify, Integral Ad Science와 함께 브랜드 적합성 통제 장치를 시범 운영한다. ChatGPT의 광고 안전장치가 어떻게 작동하는지 광고주가 독립적으로 확인하게 하려는 것이다. 회사는 월요일 Advertising Week New York에서 이를 알렸다."
+            "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 대세가 되고 있다. 화요일 발표된 공동 프로젝트는 맞춤형 에이전트로 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 거두도록 돕는다. NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 함께한다."
           },
           {
             "t": "p",
-            "x": "두 검증사는 통제된 테스트 환경에서 OpenAI가 브랜드 세이프티 기준을 어떻게 적용하는지 평가하며, 이용자의 사적인 대화에는 접근하지 않는다. OpenAI는 대화의 프라이버시를 지키면서 안전장치의 작동 방식을 광고주에게 더 투명하게 보여주는 것이 목표라고 말한다."
+            "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 더한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 보고, 광고주가 원하는 성과에 맞는 NBCU 광고 인벤토리를 추천한다."
           },
           {
             "t": "p",
-            "x": "Adweek은 외부 검증을 끌어들이는 방식이, 매체 판매사가 자기 성적을 스스로 매기는 것을 미덥잖게 보는 구매자를 설득하려고 다른 플랫폼들이 이미 걸어온 길이라고 짚는다. 두 회사는 TikTok과 Meta, Reddit에서 브랜드 세이프티 게재면을 이미 측정하고 있다. 이번 파일럿은 당장은 범위가 더 좁고, 두 회사가 실제 집행 중인 캠페인의 게재면까지 측정할지는 아직 분명하지 않다."
+            "x": "첫 사용자는 Carat과 일하는 익명의 럭셔리 리테일러다. 공동 상품은 앞으로 모든 Dentsu 고객에게 열릴 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지, 광고주별 KPIs에 맞춘 에이전트를 만들고 있다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 Negative Phrases도 내놨다. 브랜드가 자체 정책에 맞춰 게재 제외 조건을 걸 수 있는 기능이다. ChatGPT에서 이용자 대화와 어긋나는 광고가 보인다고 광고주들이 말한다는 Adweek 보도가 나온 뒤, 회사는 8월에 이 도구를 시험 중이라고 확인했다."
-          },
-          {
-            "t": "p",
-            "x": "이와 함께 OpenAI는 이미지 생성 중에 나타나는, 이미지를 앞세운 더 큰 광고 형식을 시험하고 측정 파트너도 늘리고 있다."
+            "x": "에이전트 덕분에 CTV의 outcomes-based 구매가 주류에 더 가까워질 수 있다는 기대가 나온다. 다만 모든 구매를 당장의 결과로만 따지면 광고주는 단기 성과에 매달리다 장기적인 브랜드 구축을 놓칠 수도 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Outside firms will vet\nChatGPT ads in a pilot",
-          "body": "OpenAI is piloting brand suitability controls with DoubleVerify and Integral Ad Science in a controlled test.",
-          "mini_headline": "Who vets ChatGPT ads",
+          "headline": "AI buying agents come\nfor NBCU streaming ads",
+          "body": "Custom agents blend NBCU and FreeWheel identity data with Dentsu and Newton audience data to recommend NBCU inventory.",
+          "mini_headline": "Buying agents reach CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "OpenAI at Advertising Week New York."
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI is piloting brand suitability controls with DoubleVerify and Integral Ad Science, giving advertisers an independent read on how the ad safeguards in ChatGPT work, the company announced on Monday during Advertising Week New York."
+                "x": "Agentic media buying is all the rage, including for streaming TV. A new joint effort announced Tuesday will use custom agents to help brand marketers get more from their streaming TV investments, including upfront commitments. The initiative brings together NBCUniversal, its SSP FreeWheel, Dentsu-owned agency Carat and agentic analytics platform Newton."
               },
               {
                 "t": "p",
-                "x": "The two verification firms will assess how OpenAI applies its brand safety standards in a controlled testing environment, without access to private user conversations. OpenAI says the goal is to give advertisers greater transparency into how those safeguards work while protecting conversation privacy."
+                "x": "Custom buying agents pair identity data from NBCU and FreeWheel with audience intelligence from Dentsu and Newton. The agent uses that audience data and ad performance data to recommend NBCU ad inventory based on an advertiser's desired outcome."
               },
               {
                 "t": "p",
-                "x": "Adweek notes that bringing in outside verification follows a path other platforms have taken to win over buyers wary of media sellers grading their own work, and that both firms already measure brand safety placements across TikTok, Meta and Reddit. The pilots here are narrower for now, and it is unclear whether either firm will measure placements in live campaigns."
+                "x": "An unnamed luxury retailer working with Carat is the first marketer to use the solution, although the joint offering will eventually be available to all Dentsu clients. In the meantime, Carat is busy building custom agents for specific advertiser KPIs, everything from search lift to incremental reach."
               },
               {
                 "t": "p",
-                "x": "OpenAI also launched Negative Phrases, which lets brands set placement exclusions specific to their own policies. The company confirmed it was testing the tool in August, after Adweek reported that advertisers were seeing ads misaligned with user conversations in ChatGPT."
-              },
-              {
-                "t": "p",
-                "x": "Alongside this, OpenAI is testing a larger ad format led by images, which appears during image generation, and is expanding its roster of measurement partners."
+                "x": "The promise is that agents could bring outcomes-based buying closer to the mainstream in CTV. But if every buy is judged by immediate results, advertisers could end up sacrificing long-term brand building for short-term gains."
               }
             ]
           }
         },
         "ko": {
-          "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
-          "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
-          "mini_headline": "ChatGPT 광고는 누가 검증하나",
+          "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
+          "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
+          "mini_headline": "구매 에이전트, CTV로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "Advertising Week New York에 나온 OpenAI."
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 DoubleVerify, Integral Ad Science와 함께 브랜드 적합성 통제 장치를 시범 운영한다. ChatGPT의 광고 안전장치가 어떻게 작동하는지 광고주가 독립적으로 확인하게 하려는 것이다. 회사는 월요일 Advertising Week New York에서 이를 알렸다."
+                "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 대세가 되고 있다. 화요일 발표된 공동 프로젝트는 맞춤형 에이전트로 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 거두도록 돕는다. NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 함께한다."
               },
               {
                 "t": "p",
-                "x": "두 검증사는 통제된 테스트 환경에서 OpenAI가 브랜드 세이프티 기준을 어떻게 적용하는지 평가하며, 이용자의 사적인 대화에는 접근하지 않는다. OpenAI는 대화의 프라이버시를 지키면서 안전장치의 작동 방식을 광고주에게 더 투명하게 보여주는 것이 목표라고 말한다."
+                "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 더한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 보고, 광고주가 원하는 성과에 맞는 NBCU 광고 인벤토리를 추천한다."
               },
               {
                 "t": "p",
-                "x": "Adweek은 외부 검증을 끌어들이는 방식이, 매체 판매사가 자기 성적을 스스로 매기는 것을 미덥잖게 보는 구매자를 설득하려고 다른 플랫폼들이 이미 걸어온 길이라고 짚는다. 두 회사는 TikTok과 Meta, Reddit에서 브랜드 세이프티 게재면을 이미 측정하고 있다. 이번 파일럿은 당장은 범위가 더 좁고, 두 회사가 실제 집행 중인 캠페인의 게재면까지 측정할지는 아직 분명하지 않다."
+                "x": "첫 사용자는 Carat과 일하는 익명의 럭셔리 리테일러다. 공동 상품은 앞으로 모든 Dentsu 고객에게 열릴 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지, 광고주별 KPIs에 맞춘 에이전트를 만들고 있다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 Negative Phrases도 내놨다. 브랜드가 자체 정책에 맞춰 게재 제외 조건을 걸 수 있는 기능이다. ChatGPT에서 이용자 대화와 어긋나는 광고가 보인다고 광고주들이 말한다는 Adweek 보도가 나온 뒤, 회사는 8월에 이 도구를 시험 중이라고 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "이와 함께 OpenAI는 이미지 생성 중에 나타나는, 이미지를 앞세운 더 큰 광고 형식을 시험하고 측정 파트너도 늘리고 있다."
+                "x": "에이전트 덕분에 CTV의 outcomes-based 구매가 주류에 더 가까워질 수 있다는 기대가 나온다. 다만 모든 구매를 당장의 결과로만 따지면 광고주는 단기 성과에 매달리다 장기적인 브랜드 구축을 놓칠 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT広告を外部が\nパイロットで検証",
-          "body": "OpenAIは管理された試験環境で、ブランド適合性の制御をパイロット運用する。",
-          "mini_headline": "ChatGPT広告を誰が検証するのか",
+          "headline": "AI購買エージェントが\nNBCUの配信広告へ",
+          "body": "NBCU・FreeWheel・Dentsu・Newtonのデータでエージェントが推奨する。",
+          "mini_headline": "購買エージェントがCTVへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "Advertising Week New YorkでのOpenAI。"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、DoubleVerifyとIntegral Ad Scienceとともにブランド適合性の制御をパイロット運用する。ChatGPTの広告面の安全策がどう働いているかを、広告主が独立した立場で確かめられるようにする狙いで、同社が月曜、Advertising Week New Yorkで発表した。"
+                "x": "エージェントによるメディアバイイングは、ストリーミングTVを含めて大流行している。火曜日に発表された新たな共同の取り組みでは、カスタムエージェントを使い、アップフロントでの出稿約束を含むストリーミングTV投資からブランドマーケターがより多くを得られるよう支援する。参加するのはNBCUniversal、そのSSPであるFreeWheel、Dentsu-ownedのエージェンシーCarat、エージェント型分析プラットフォームNewtonだ。"
               },
               {
                 "t": "p",
-                "x": "両社は、利用者の非公開の会話には触れずに、管理された試験環境でOpenAIがブランドセーフティ基準をどう適用しているかを評価する。OpenAIは、会話のプライバシーを守りながら、安全策の仕組みを広告主にこれまで以上に開くことが目的だとしている。"
+                "x": "カスタム購買エージェントは、NBCUとFreeWheelのアイデンティティデータに、DentsuとNewtonのオーディエンスインテリジェンスを組み合わせる。エージェントはこのオーディエンスデータと広告パフォーマンスデータを使い、広告主が望む成果に基づいてNBCUの広告在庫を推奨する。"
               },
               {
                 "t": "p",
-                "x": "Adweekは、外部検証を入れるやり方が、媒体の売り手が自らの成績を自ら採点することを警戒する買い手を納得させるために、他のプラットフォームがすでにたどった道だと指摘する。両社はTikTok、Meta、Redditでブランドセーフティの配信面をすでに計測している。今回のパイロットは当面それより範囲が狭く、両社が実際に配信中のキャンペーンの配信面まで計測するかは明らかでない。"
+                "x": "Caratと組む匿名の高級小売業者が最初の利用マーケターとなるが、この共同サービスはいずれすべてのDentsu顧客に提供される予定だ。その間、Caratは検索リフトから増分リーチまで、広告主ごとのKPIsに合わせたカスタムエージェントの構築を進めている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはNegative Phrasesも投入した。ブランドが自社方針に沿って配信除外を設定できる機能である。ChatGPTで利用者の会話と噛み合わない広告が出ていると広告主が見ている、とAdweekが報じた後、同社は8月にこの機能を試験中だと認めた。"
-              },
-              {
-                "t": "p",
-                "x": "あわせてOpenAIは、画像生成中に現れる、画像を主体とした大型の広告枠を試験しており、計測パートナーも増やしている。"
+                "x": "エージェントによって、CTVにおけるoutcomes-basedの購買が主流に近づく可能性がある。だが、すべての購買が目先の結果で評価されれば、広告主は短期的な成果のために長期的なブランド構築を犠牲にしかねない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "外部机构将在试点中\n审核ChatGPT广告",
-          "body": "OpenAI正与两家外部机构在受控测试中试点品牌适宜度管控。",
-          "mini_headline": "谁来审核ChatGPT广告",
+          "headline": "AI购买智能体\n瞄准NBCU流媒体广告",
+          "body": "智能体结合NBCU、FreeWheel与Dentsu、Newton数据，推荐NBCU库存。",
+          "mini_headline": "购买智能体进军CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "OpenAI出席Advertising Week New York。"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI正与DoubleVerify和Integral Ad Science一同试点品牌适宜度管控，让广告主能够独立了解ChatGPT中的广告防护措施如何运作。该公司于周一在Advertising Week New York期间宣布了这一安排。"
+                "x": "智能体式媒体购买正风靡一时，流媒体TV也不例外。周二宣布的一项新合作将借助定制智能体，帮助品牌营销人员从包括预购承诺在内的流媒体TV投资中获得更多回报。参与方包括NBCUniversal、其SSP FreeWheel、Dentsu-owned代理商Carat以及智能体分析平台Newton。"
               },
               {
                 "t": "p",
-                "x": "两家验证公司将在受控测试环境中评估OpenAI如何执行其品牌安全标准，期间不会接触用户的私人对话。OpenAI表示，目标是在保护对话隐私的同时，让广告主更清楚这些防护措施的运作方式。"
+                "x": "定制购买智能体将NBCU和FreeWheel的身份数据与Dentsu和Newton的受众洞察相结合。智能体利用这些受众数据和广告效果数据，根据广告主期望的成果推荐NBCU的广告库存。"
               },
               {
                 "t": "p",
-                "x": "Adweek指出，引入外部验证沿用了其他平台争取买方的做法，买方对媒体卖方自评成绩一向存疑；这两家公司已在TikTok、Meta和Reddit上测量品牌安全类广告位。眼下这些试点的范围更窄，两家公司是否会测量实际投放中的广告位尚不清楚。"
+                "x": "一家与Carat合作的未具名奢侈品零售商是首个使用该方案的营销方，但这项联合产品最终将向所有Dentsu客户开放。与此同时，Carat正在为广告主的具体KPIs打造定制智能体，涵盖从搜索提升到增量触达的各类目标。"
               },
               {
                 "t": "p",
-                "x": "OpenAI还推出了Negative Phrases，品牌可据此按自身政策设置投放排除项。此前Adweek报道称，广告主发现ChatGPT中出现与用户对话不相称的广告，随后该公司确认8月已在测试这一工具。"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，OpenAI正在测试一种以图像为主、尺寸更大的广告形式，它出现在图像生成过程中；该公司也在扩充测量合作方名单。"
+                "x": "人们期待智能体能让outcomes-based购买在CTV领域更接近主流。但如果每次购买都以即时结果来评判，广告主可能会为了短期收益而牺牲长期的品牌建设。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Firmas externas revisarán\nanuncios de ChatGPT en piloto",
-          "body": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science en una prueba controlada.",
-          "mini_headline": "Quién revisa los anuncios de ChatGPT",
+          "headline": "Agentes de compra con AI llegan\nal streaming de NBCU",
+          "body": "Agentes a medida cruzan datos de NBCU y FreeWheel con los de Dentsu y Newton para recomendar inventario de NBCU.",
+          "mini_headline": "Los agentes de compra llegan a CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "OpenAI en Advertising Week New York."
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science, de modo que los anunciantes obtengan una lectura independiente de cómo funcionan las salvaguardas publicitarias en ChatGPT, según anunció la compañía el lunes durante Advertising Week New York."
+                "x": "La compra de medios con agentes está de moda, también en la TV en streaming. Una nueva iniciativa conjunta anunciada el martes usará agentes a medida para ayudar a los responsables de marketing de marca a sacar más partido de sus inversiones en TV en streaming, incluidos los compromisos de upfront. La iniciativa reúne a NBCUniversal, su SSP FreeWheel, la agencia Carat, propiedad de Dentsu (Dentsu-owned), y la plataforma de analítica con agentes Newton."
               },
               {
                 "t": "p",
-                "x": "Las dos empresas de verificación evaluarán cómo aplica OpenAI sus estándares de seguridad de marca en un entorno de pruebas controlado, sin acceso a las conversaciones privadas de los usuarios. OpenAI señala que el objetivo es dar a los anunciantes más transparencia sobre el funcionamiento de esas salvaguardas, preservando la privacidad de las conversaciones."
+                "x": "Los agentes de compra a medida combinan datos de identidad de NBCU y FreeWheel con inteligencia de audiencias de Dentsu y Newton. El agente usa esos datos de audiencia y de rendimiento publicitario para recomendar inventario publicitario de NBCU según el resultado que busca el anunciante."
               },
               {
                 "t": "p",
-                "x": "Adweek apunta que recurrir a la verificación externa sigue un camino ya recorrido por otras plataformas para convencer a compradores que desconfían de que los vendedores de medios califiquen su propio trabajo, y que ambas empresas ya miden ubicaciones de seguridad de marca en TikTok, Meta y Reddit. Por ahora, estos pilotos son más limitados, y no está claro si alguna de las dos medirá ubicaciones en campañas activas."
+                "x": "Un minorista de lujo no identificado que trabaja con Carat es el primer anunciante en usar la solución, aunque la oferta conjunta acabará estando disponible para todos los clientes de Dentsu. Mientras tanto, Carat construye agentes a medida para KPIs concretos de cada anunciante, desde el aumento en búsquedas hasta el alcance incremental."
               },
               {
                 "t": "p",
-                "x": "OpenAI también lanzó Negative Phrases, que permite a las marcas fijar exclusiones de ubicación acordes con sus propias políticas. La compañía confirmó en agosto que estaba probando la herramienta, después de que Adweek informara de que los anunciantes veían anuncios desalineados con las conversaciones de los usuarios en ChatGPT."
-              },
-              {
-                "t": "p",
-                "x": "Junto a esto, OpenAI está probando un formato publicitario de mayor tamaño encabezado por imágenes, que aparece durante la generación de imágenes, y amplía su lista de socios de medición."
+                "x": "La promesa es que los agentes podrían acercar la compra outcomes-based (basada en resultados) a la corriente principal en CTV. Pero si cada compra se juzga por resultados inmediatos, los anunciantes podrían acabar sacrificando la construcción de marca a largo plazo por ganancias a corto plazo."
               }
             ]
           }
@@ -585,141 +555,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "외부 검증사가 파일럿에서\nChatGPT 광고 점검",
-          "body": "OpenAI가 통제된 테스트 환경에서 브랜드 적합성 검증을 시범 운영한다.",
-          "mini_headline": "ChatGPT 광고는 누가 검증하나",
+          "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
+          "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
+          "mini_headline": "구매 에이전트, CTV로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "Advertising Week New York에 나온 OpenAI."
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 DoubleVerify, Integral Ad Science와 함께 브랜드 적합성 통제 장치를 시범 운영한다. ChatGPT의 광고 안전장치가 어떻게 작동하는지 광고주가 독립적으로 확인하게 하려는 것이다. 회사는 월요일 Advertising Week New York에서 이를 알렸다."
+                "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 크게 유행하고 있다. 화요일 발표된 새 공동 프로젝트는 맞춤형 에이전트를 활용해 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 얻도록 돕는다. 여기에는 NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 참여한다."
               },
               {
                 "t": "p",
-                "x": "두 검증사는 통제된 테스트 환경에서 OpenAI가 브랜드 세이프티 기준을 어떻게 적용하는지 평가하며, 이용자의 사적인 대화에는 접근하지 않는다. OpenAI는 대화의 프라이버시를 지키면서 안전장치의 작동 방식을 광고주에게 더 투명하게 보여주는 것이 목표라고 말한다."
+                "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 결합한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 바탕으로 광고주가 원하는 성과에 맞춰 NBCU 광고 인벤토리를 추천한다."
               },
               {
                 "t": "p",
-                "x": "Adweek은 외부 검증을 끌어들이는 방식이, 매체 판매사가 자기 성적을 스스로 매기는 것을 미덥잖게 보는 구매자를 설득하려고 다른 플랫폼들이 이미 걸어온 길이라고 짚는다. 두 회사는 TikTok과 Meta, Reddit에서 브랜드 세이프티 게재면을 이미 측정하고 있다. 이번 파일럿은 당장은 범위가 더 좁고, 두 회사가 실제 집행 중인 캠페인의 게재면까지 측정할지는 아직 분명하지 않다."
+                "x": "Carat과 일하는 익명의 럭셔리 리테일러가 이 솔루션을 처음 쓰는 마케터이며, 공동 상품은 향후 모든 Dentsu 고객에게 제공될 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지 광고주별 KPIs에 맞춘 맞춤형 에이전트를 만드는 중이다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 Negative Phrases도 내놨다. 브랜드가 자체 정책에 맞춰 게재 제외 조건을 걸 수 있는 기능이다. ChatGPT에서 이용자 대화와 어긋나는 광고가 보인다고 광고주들이 말한다는 Adweek 보도가 나온 뒤, 회사는 8월에 이 도구를 시험 중이라고 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "이와 함께 OpenAI는 이미지 생성 중에 나타나는, 이미지를 앞세운 더 큰 광고 형식을 시험하고 측정 파트너도 늘리고 있다."
+                "x": "에이전트가 CTV에서 outcomes-based 구매를 주류에 더 가깝게 끌어올 수 있다는 기대가 있다. 하지만 모든 구매를 즉각적인 결과로만 평가한다면 광고주는 단기 성과를 위해 장기적인 브랜드 구축을 희생하게 될 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT広告を外部が\nパイロットで検証",
-          "body": "OpenAIは管理された試験環境で、ブランド適合性の制御をパイロット運用する。",
-          "mini_headline": "ChatGPT広告を誰が検証するのか",
+          "headline": "AI購買エージェントが\nNBCUの配信広告へ",
+          "body": "NBCU・FreeWheel・Dentsu・Newtonのデータでエージェントが推奨する。",
+          "mini_headline": "購買エージェントがCTVへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "Advertising Week New YorkでのOpenAI。"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、DoubleVerifyとIntegral Ad Scienceとともにブランド適合性の制御をパイロット運用する。ChatGPTの広告面の安全策がどう働いているかを、広告主が独立した立場で確かめられるようにする狙いで、同社が月曜、Advertising Week New Yorkで発表した。"
+                "x": "エージェントによるメディアバイイングは、ストリーミングTVを含めて大流行している。火曜日に発表された新たな共同の取り組みでは、カスタムエージェントを使い、アップフロントでの出稿約束を含むストリーミングTV投資からブランドマーケターがより多くを得られるよう支援する。参加するのはNBCUniversal、そのSSPであるFreeWheel、Dentsu-ownedのエージェンシーCarat、エージェント型分析プラットフォームNewtonだ。"
               },
               {
                 "t": "p",
-                "x": "両社は、利用者の非公開の会話には触れずに、管理された試験環境でOpenAIがブランドセーフティ基準をどう適用しているかを評価する。OpenAIは、会話のプライバシーを守りながら、安全策の仕組みを広告主にこれまで以上に開くことが目的だとしている。"
+                "x": "カスタム購買エージェントは、NBCUとFreeWheelのアイデンティティデータに、DentsuとNewtonのオーディエンスインテリジェンスを組み合わせる。エージェントはこのオーディエンスデータと広告パフォーマンスデータを使い、広告主が望む成果に基づいてNBCUの広告在庫を推奨する。"
               },
               {
                 "t": "p",
-                "x": "Adweekは、外部検証を入れるやり方が、媒体の売り手が自らの成績を自ら採点することを警戒する買い手を納得させるために、他のプラットフォームがすでにたどった道だと指摘する。両社はTikTok、Meta、Redditでブランドセーフティの配信面をすでに計測している。今回のパイロットは当面それより範囲が狭く、両社が実際に配信中のキャンペーンの配信面まで計測するかは明らかでない。"
+                "x": "Caratと組む匿名の高級小売業者が最初の利用マーケターとなるが、この共同サービスはいずれすべてのDentsu顧客に提供される予定だ。その間、Caratは検索リフトから増分リーチまで、広告主ごとのKPIsに合わせたカスタムエージェントの構築を進めている。"
               },
               {
                 "t": "p",
-                "x": "OpenAIはNegative Phrasesも投入した。ブランドが自社方針に沿って配信除外を設定できる機能である。ChatGPTで利用者の会話と噛み合わない広告が出ていると広告主が見ている、とAdweekが報じた後、同社は8月にこの機能を試験中だと認めた。"
-              },
-              {
-                "t": "p",
-                "x": "あわせてOpenAIは、画像生成中に現れる、画像を主体とした大型の広告枠を試験しており、計測パートナーも増やしている。"
+                "x": "エージェントによって、CTVにおけるoutcomes-basedの購買が主流に近づく可能性がある。だが、すべての購買が目先の結果で評価されれば、広告主は短期的な成果のために長期的なブランド構築を犠牲にしかねない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "外部机构将在试点中\n审核ChatGPT广告",
-          "body": "OpenAI正与两家外部机构在受控测试中试点品牌适宜度管控。",
-          "mini_headline": "谁来审核ChatGPT广告",
+          "headline": "AI购买智能体\n瞄准NBCU流媒体广告",
+          "body": "智能体结合NBCU、FreeWheel与Dentsu、Newton数据，推荐NBCU库存。",
+          "mini_headline": "购买智能体进军CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "OpenAI出席Advertising Week New York。"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI正与DoubleVerify和Integral Ad Science一同试点品牌适宜度管控，让广告主能够独立了解ChatGPT中的广告防护措施如何运作。该公司于周一在Advertising Week New York期间宣布了这一安排。"
+                "x": "智能体式媒体购买正风靡一时，流媒体TV也不例外。周二宣布的一项新合作将借助定制智能体，帮助品牌营销人员从包括预购承诺在内的流媒体TV投资中获得更多回报。参与方包括NBCUniversal、其SSP FreeWheel、Dentsu-owned代理商Carat以及智能体分析平台Newton。"
               },
               {
                 "t": "p",
-                "x": "两家验证公司将在受控测试环境中评估OpenAI如何执行其品牌安全标准，期间不会接触用户的私人对话。OpenAI表示，目标是在保护对话隐私的同时，让广告主更清楚这些防护措施的运作方式。"
+                "x": "定制购买智能体将NBCU和FreeWheel的身份数据与Dentsu和Newton的受众洞察相结合。智能体利用这些受众数据和广告效果数据，根据广告主期望的成果推荐NBCU的广告库存。"
               },
               {
                 "t": "p",
-                "x": "Adweek指出，引入外部验证沿用了其他平台争取买方的做法，买方对媒体卖方自评成绩一向存疑；这两家公司已在TikTok、Meta和Reddit上测量品牌安全类广告位。眼下这些试点的范围更窄，两家公司是否会测量实际投放中的广告位尚不清楚。"
+                "x": "一家与Carat合作的未具名奢侈品零售商是首个使用该方案的营销方，但这项联合产品最终将向所有Dentsu客户开放。与此同时，Carat正在为广告主的具体KPIs打造定制智能体，涵盖从搜索提升到增量触达的各类目标。"
               },
               {
                 "t": "p",
-                "x": "OpenAI还推出了Negative Phrases，品牌可据此按自身政策设置投放排除项。此前Adweek报道称，广告主发现ChatGPT中出现与用户对话不相称的广告，随后该公司确认8月已在测试这一工具。"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，OpenAI正在测试一种以图像为主、尺寸更大的广告形式，它出现在图像生成过程中；该公司也在扩充测量合作方名单。"
+                "x": "人们期待智能体能让outcomes-based购买在CTV领域更接近主流。但如果每次购买都以即时结果来评判，广告主可能会为了短期收益而牺牲长期的品牌建设。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Firmas externas revisarán\nanuncios de ChatGPT en piloto",
-          "body": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science en una prueba controlada.",
-          "mini_headline": "Quién revisa los anuncios de ChatGPT",
+          "headline": "Agentes de compra con AI llegan\nal streaming de NBCU",
+          "body": "Agentes a medida cruzan datos de NBCU y FreeWheel con los de Dentsu y Newton para recomendar inventario de NBCU.",
+          "mini_headline": "Los agentes de compra llegan a CTV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/OpenAI-AWNY.png?w=1240",
-                "cap": "OpenAI en Advertising Week New York."
+                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI está probando controles de idoneidad de marca con DoubleVerify e Integral Ad Science, de modo que los anunciantes obtengan una lectura independiente de cómo funcionan las salvaguardas publicitarias en ChatGPT, según anunció la compañía el lunes durante Advertising Week New York."
+                "x": "La compra de medios con agentes está de moda, también en la TV en streaming. Una nueva iniciativa conjunta anunciada el martes usará agentes a medida para ayudar a los responsables de marketing de marca a sacar más partido de sus inversiones en TV en streaming, incluidos los compromisos de upfront. La iniciativa reúne a NBCUniversal, su SSP FreeWheel, la agencia Carat, propiedad de Dentsu (Dentsu-owned), y la plataforma de analítica con agentes Newton."
               },
               {
                 "t": "p",
-                "x": "Las dos empresas de verificación evaluarán cómo aplica OpenAI sus estándares de seguridad de marca en un entorno de pruebas controlado, sin acceso a las conversaciones privadas de los usuarios. OpenAI señala que el objetivo es dar a los anunciantes más transparencia sobre el funcionamiento de esas salvaguardas, preservando la privacidad de las conversaciones."
+                "x": "Los agentes de compra a medida combinan datos de identidad de NBCU y FreeWheel con inteligencia de audiencias de Dentsu y Newton. El agente usa esos datos de audiencia y de rendimiento publicitario para recomendar inventario publicitario de NBCU según el resultado que busca el anunciante."
               },
               {
                 "t": "p",
-                "x": "Adweek apunta que recurrir a la verificación externa sigue un camino ya recorrido por otras plataformas para convencer a compradores que desconfían de que los vendedores de medios califiquen su propio trabajo, y que ambas empresas ya miden ubicaciones de seguridad de marca en TikTok, Meta y Reddit. Por ahora, estos pilotos son más limitados, y no está claro si alguna de las dos medirá ubicaciones en campañas activas."
+                "x": "Un minorista de lujo no identificado que trabaja con Carat es el primer anunciante en usar la solución, aunque la oferta conjunta acabará estando disponible para todos los clientes de Dentsu. Mientras tanto, Carat construye agentes a medida para KPIs concretos de cada anunciante, desde el aumento en búsquedas hasta el alcance incremental."
               },
               {
                 "t": "p",
-                "x": "OpenAI también lanzó Negative Phrases, que permite a las marcas fijar exclusiones de ubicación acordes con sus propias políticas. La compañía confirmó en agosto que estaba probando la herramienta, después de que Adweek informara de que los anunciantes veían anuncios desalineados con las conversaciones de los usuarios en ChatGPT."
-              },
-              {
-                "t": "p",
-                "x": "Junto a esto, OpenAI está probando un formato publicitario de mayor tamaño encabezado por imágenes, que aparece durante la generación de imágenes, y amplía su lista de socios de medición."
+                "x": "La promesa es que los agentes podrían acercar la compra outcomes-based (basada en resultados) a la corriente principal en CTV. Pero si cada compra se juzga por resultados inmediatos, los anunciantes podrían acabar sacrificando la construcción de marca a largo plazo por ganancias a corto plazo."
               }
             ]
           }
@@ -727,15 +677,15 @@
       }
     },
     {
-      "id": "tiktok-agentic-ads",
+      "id": "marketing-google-merchant-center-ucp-hub",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
-      "mini_headline": "에이전틱으로 가는 TikTok",
-      "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
+      "headline": "구글 Merchant\nCenter에 UCP 허브",
+      "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
+      "mini_headline": "Merchant Center에 UCP 허브",
       "tool": "Marketing",
-      "source": "TikTok Newsroom",
-      "url": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -743,203 +693,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-            "cap": "TikTok이 내놓은 광고 업데이트 발표."
+            "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
           },
           {
             "t": "p",
-            "x": "Advertising Week New York 2026에서 TikTok이 고객 여정의 모든 단계를 아우르는 에이전틱 광고·커머스 업데이트를 한꺼번에 내놨다."
+            "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. 이 허브를 쓰면 Merchant Center 계정에서 바로 UCP 프로그램에 온보딩할 수 있다."
           },
           {
             "t": "p",
-            "x": "판매 쪽에서는 Buy Direct와 Shopping Assistant를 시작으로 새로운 에이전틱 커머스 쇼핑 경험을 만들고 있다고 TikTok은 말한다. Salesforce, Shopify, Shoplazza, Stripe 같은 커머스·결제 플랫폼과 함께 개발한다. Buy Direct는 쇼핑객이 TikTok을 떠나지 않고 For You 피드에서 한 번의 클릭으로 브랜드 제품을 사는 앱 내 결제다. Shopping Assistant는 제품 정보와 배송, 사이즈, 재고, 구매까지 한 번의 대화로 처리하는 대화형 에이전트다."
+            "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 걸려 있다. Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에 에이전트 기능을 붙인다."
           },
           {
             "t": "p",
-            "x": "Agentic Leads는 리드 확보용 별도 에이전트로, TikTok 다이렉트 메시지와 광고주 자체 웹사이트의 리드 폼에서 안내형 대화를 끌고 간다."
+            "x": "PPC News의 Hana Kobzova가 찾아낸 Google 도움말 문서에는 이렇게 적혀 있다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
           },
           {
             "t": "p",
-            "x": "구매 쪽에서는 TikTok Ad Network를 미국 광고주에게 연다. TikTok이 프리미엄이라고 설명하는 400,000개에 가까운 앱 네트워크로 캠페인을 넓히는 것이다. Smart+ 기반의 Search Ads Campaign과 Smart+ Creative Selection도 함께 연다. Smart+ Creative Selection은 광고주 자체 소재와 Symphony가 만든 크리에이티브, 크리에이터 콘텐츠를 하나의 승인 절차로 모은다."
+            "x": "Merchant Center 연동은 지금 U.S.에서 단계적으로 배포되고 있고, 내년에는 호주와 캐나다 판매자에게도 열린다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
           },
           {
-            "t": "p",
-            "x": "TikTok은 개방형 Model Context Protocol로 만든 비즈니스 인터페이스가 여러 플랫폼과 레지스트리에서 커넥터로 제공된다고 밝혔다. 캠페인 실행에 이를 쓰는 광고주가 200% 넘게 늘었다는 수치는 2026년 7월부터 9월까지의 자사 내부 데이터를 근거로 든 것이다."
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+            "cap": "Merchant Center의 UCP 통합 허브"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "TikTok is building agentic\ncommerce for advertisers",
-          "body": "TikTok announced Buy Direct checkout, a conversational Shopping Assistant and Smart+ powered Search Ads.",
-          "mini_headline": "TikTok goes agentic",
+          "headline": "Google Merchant Center adds\na UCP onboarding hub",
+          "body": "US merchants can onboard to the Universal Commerce Protocol through a new hub in their Merchant Center account.",
+          "mini_headline": "Merchant Center adds UCP hub",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "TikTok's announcement of its advertising updates."
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "At Advertising Week New York 2026, TikTok set out a package of agentic advertising and commerce updates spanning every stage of the customer journey."
+                "x": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account."
               },
               {
                 "t": "p",
-                "x": "On the selling side, TikTok says it is building new agentic commerce shopping experiences, starting with Buy Direct and Shopping Assistant, and building them with commerce and payment platforms including Salesforce, Shopify, Shoplazza and Stripe. Buy Direct is an in-app checkout that lets a shopper buy from a brand without leaving TikTok, in one click from the For You feed. Shopping Assistant is a conversational agent that handles product details, shipping, sizing, availability and purchase in a single conversation."
+                "x": "The hub says \"Start selling across AI surfaces by implementing Universal Commerce Protocol,\" with agentic actions on AI Mode, Gemini, and Search, starting with checkout directly on Google."
               },
               {
                 "t": "p",
-                "x": "Agentic Leads is a separate agent for lead generation, running guided conversations in TikTok direct messages and in lead forms on advertisers' own websites."
+                "x": "Google's help document, spotted by Hana Kobzova on PPC News, says: \"The Universal Commerce Protocol (UCP) is a new open standard for agentic commerce that enables agents and systems to work together across the commerce ecosystem. By integrating with UCP, you can implement a checkout button on eligible product listings in AI Mode in Google Search and on Gemini.\""
               },
               {
                 "t": "p",
-                "x": "On the buying side, TikTok is bringing its TikTok Ad Network to advertisers in the United States, extending campaigns across what it describes as a premium network of nearly 400,000 apps, and is opening Search Ads Campaign powered by Smart+ along with Smart+ Creative Selection, which gathers an advertiser's own assets, Symphony's generated creative and creator content into one approval workflow."
+                "x": "The Merchant Center integration is gradually rolling out in the U.S. right now, and will roll out to merchants in Australia and Canada next year. \"This will allow you to onboard to the program from your Merchant Center account and enable capabilities like cart transfer to a merchant site and enhanced checkout flow testing,\" Google added."
               },
               {
-                "t": "p",
-                "x": "TikTok also says its business interface built on the open Model Context Protocol is now available as a connector across several platforms and registries, and that advertiser use of it for campaign activation has grown by more than 200%, citing its own internal data for July to September 2026."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "The UCP integration hub in Merchant Center"
               }
             ]
           }
         },
         "ko": {
-          "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
-          "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
-          "mini_headline": "에이전틱으로 가는 TikTok",
+          "headline": "구글 Merchant\nCenter에 UCP 허브",
+          "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
+          "mini_headline": "Merchant Center에 UCP 허브",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "TikTok이 내놓은 광고 업데이트 발표."
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "Advertising Week New York 2026에서 TikTok이 고객 여정의 모든 단계를 아우르는 에이전틱 광고·커머스 업데이트를 한꺼번에 내놨다."
+                "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. 이 허브를 쓰면 Merchant Center 계정에서 바로 UCP 프로그램에 온보딩할 수 있다."
               },
               {
                 "t": "p",
-                "x": "판매 쪽에서는 Buy Direct와 Shopping Assistant를 시작으로 새로운 에이전틱 커머스 쇼핑 경험을 만들고 있다고 TikTok은 말한다. Salesforce, Shopify, Shoplazza, Stripe 같은 커머스·결제 플랫폼과 함께 개발한다. Buy Direct는 쇼핑객이 TikTok을 떠나지 않고 For You 피드에서 한 번의 클릭으로 브랜드 제품을 사는 앱 내 결제다. Shopping Assistant는 제품 정보와 배송, 사이즈, 재고, 구매까지 한 번의 대화로 처리하는 대화형 에이전트다."
+                "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 걸려 있다. Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에 에이전트 기능을 붙인다."
               },
               {
                 "t": "p",
-                "x": "Agentic Leads는 리드 확보용 별도 에이전트로, TikTok 다이렉트 메시지와 광고주 자체 웹사이트의 리드 폼에서 안내형 대화를 끌고 간다."
+                "x": "PPC News의 Hana Kobzova가 찾아낸 Google 도움말 문서에는 이렇게 적혀 있다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "구매 쪽에서는 TikTok Ad Network를 미국 광고주에게 연다. TikTok이 프리미엄이라고 설명하는 400,000개에 가까운 앱 네트워크로 캠페인을 넓히는 것이다. Smart+ 기반의 Search Ads Campaign과 Smart+ Creative Selection도 함께 연다. Smart+ Creative Selection은 광고주 자체 소재와 Symphony가 만든 크리에이티브, 크리에이터 콘텐츠를 하나의 승인 절차로 모은다."
+                "x": "Merchant Center 연동은 지금 U.S.에서 단계적으로 배포되고 있고, 내년에는 호주와 캐나다 판매자에게도 열린다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
               },
               {
-                "t": "p",
-                "x": "TikTok은 개방형 Model Context Protocol로 만든 비즈니스 인터페이스가 여러 플랫폼과 레지스트리에서 커넥터로 제공된다고 밝혔다. 캠페인 실행에 이를 쓰는 광고주가 200% 넘게 늘었다는 수치는 2026년 7월부터 9월까지의 자사 내부 데이터를 근거로 든 것이다."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant Center의 UCP 통합 허브"
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok、広告主向けに\nエージェント型商取引を構築",
-          "body": "TikTokはBuy DirectとShopping Assistantを発表した。",
-          "mini_headline": "TikTokがエージェント型へ",
+          "headline": "グーグルMerchant\nCenterにUCPハブ",
+          "body": "USの販売者はMerchant Centerの新ハブからUCPに参加できる。",
+          "mini_headline": "Merchant CenterにUCPハブ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "広告関連の更新を発表したTikTok。"
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "Advertising Week New York 2026で、TikTokは顧客の行動段階すべてにまたがるエージェント型の広告・商取引の更新をまとめて示した。"
+                "x": "Google Merchant Centerは米国でUCP統合ハブの提供を始めている。UCP統合ハブを使えば、Merchant CenterアカウントからUCPプログラムにオンボーディングできる。"
               },
               {
                 "t": "p",
-                "x": "販売側では、Buy DirectとShopping Assistantを手始めに、新しいエージェント型のコマース体験を構築しているとTikTokは述べる。開発はSalesforce、Shopify、Shoplazza、Stripeといったコマース・決済プラットフォームと組んで進める。Buy Directはアプリ内決済で、買い手はTikTokを離れずにFor Youフィードから1クリックでブランドの商品を買える。Shopping Assistantは、商品情報、配送、サイズ、在庫、購入までを一つの会話で扱う対話型エージェントである。"
+                "x": "ハブには「Universal Commerce Protocolを実装して、AIサーフェス全体で販売を始めましょう」と記され、Google上での直接チェックアウトを皮切りに、AI Mode、Gemini、Searchでのエージェント機能が示されている。"
               },
               {
                 "t": "p",
-                "x": "Agentic Leadsは見込み客獲得向けの別のエージェントで、TikTokのダイレクトメッセージや、広告主自身のサイトのリードフォームで案内に沿った会話を進める。"
+                "x": "PPC NewsのHana Kobzovaが見つけたGoogleのヘルプ文書にはこうある。「Universal Commerce Protocol(UCP)は、エージェントとシステムがコマースのエコシステム全体で連携できるようにする、エージェント型コマースの新しいオープン標準です。UCPと統合することで、Google SearchのAI ModeとGeminiで、対象となる商品リスティングにチェックアウトボタンを実装できます」"
               },
               {
                 "t": "p",
-                "x": "購入側では、TikTok Ad Networkを米国の広告主に開放し、同社がプレミアムと説明する400,000に近いアプリのネットワークへキャンペーンを広げる。あわせてSmart+を用いるSearch Ads Campaignと、Smart+ Creative Selectionを開く。後者は、広告主自身の素材、Symphonyが生成したクリエイティブ、クリエイターのコンテンツを一つの承認フローにまとめる。"
+                "x": "Merchant Centerとの統合は現在U.S.で段階的に展開中で、来年にはオーストラリアとカナダの販売者にも展開される。Googleは「これにより、Merchant Centerアカウントからプログラムにオンボーディングし、販売者サイトへのカート移行や、強化されたチェックアウトフローのテストといった機能を有効にできる」と付け加えた。"
               },
               {
-                "t": "p",
-                "x": "TikTokはまた、オープンなModel Context Protocolを基にした事業者向けインターフェースが、複数のプラットフォームやレジストリでコネクターとして使えるようになったとしている。キャンペーン実行での広告主の利用が200%以上伸びたという数字については、2026年7月から9月の自社内部データを根拠に挙げている。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant CenterのUCP統合ハブ"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok正在为广告主\n构建智能体商务能力",
-          "body": "TikTok宣布推出Buy Direct结算与对话式Shopping Assistant。",
-          "mini_headline": "TikTok转向智能体",
+          "headline": "谷歌Merchant\nCenter推UCP接入中心",
+          "body": "US商家可通过Merchant Center账户中的新中心接入UCP。",
+          "mini_headline": "Merchant Center新增UCP中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "TikTok发布的广告功能更新。"
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "在Advertising Week New York 2026上，TikTok集中发布了一批覆盖顾客旅程各个阶段的智能体广告与商务更新。"
+                "x": "Google Merchant Center正在美国推出UCP集成中心。借助UCP集成中心，商家可以从Merchant Center账户接入UCP计划。"
               },
               {
                 "t": "p",
-                "x": "在卖方一侧，TikTok称正在构建新的智能体商务购物体验，先从Buy Direct和Shopping Assistant开始，并与Salesforce、Shopify、Shoplazza、Stripe等商务与支付平台共同开发。Buy Direct是应用内结算，购物者无需离开TikTok，在For You信息流中一键即可向品牌下单。Shopping Assistant是对话式智能体，可在一次对话中处理商品细节、配送、尺码、库存与购买。"
+                "x": "该中心写道：“通过实施Universal Commerce Protocol，开始在各类AI界面上销售”，并提供AI Mode、Gemini和Search上的智能体操作，首先是直接在Google上结账。"
               },
               {
                 "t": "p",
-                "x": "Agentic Leads是另一个用于获取销售线索的智能体，可在TikTok私信以及广告主自有网站的线索表单中展开引导式对话。"
+                "x": "PPC News的Hana Kobzova发现的Google帮助文档写道：“Universal Commerce Protocol（UCP）是一项面向智能体商务的新开放标准，使智能体和系统能够在整个商务生态中协同工作。通过与UCP集成，你可以在Google Search的AI Mode和Gemini中，为符合条件的商品信息添加结账按钮。”"
               },
               {
                 "t": "p",
-                "x": "在买方一侧，TikTok将TikTok Ad Network开放给美国广告主，把投放延伸到其所称的、由接近400,000个应用组成的优质网络，并开放由Smart+驱动的Search Ads Campaign以及Smart+ Creative Selection；后者把广告主自有素材、Symphony生成的创意与创作者内容汇入同一套审批流程。"
+                "x": "Merchant Center集成目前正在U.S.逐步推出，明年将扩展至澳大利亚和加拿大的商家。Google补充说：“这将让你从Merchant Center账户接入该计划，并启用将购物车转移至商家网站、增强型结账流程测试等功能。”"
               },
               {
-                "t": "p",
-                "x": "TikTok还表示，基于开放的Model Context Protocol构建的商家接口，现已可作为连接器在多个平台与注册表中使用，并称广告主用它启动投放的用量增长超过200%，依据是其2026年7月至9月的内部数据。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant Center中的UCP集成中心"
               }
             ]
           }
         },
         "es": {
-          "headline": "TikTok construye comercio\ncon agentes para anunciantes",
-          "body": "TikTok anunció el pago Buy Direct, un Shopping Assistant conversacional y Search Ads con Smart+.",
-          "mini_headline": "TikTok se vuelve agéntico",
+          "headline": "Google Merchant Center suma\nun hub de incorporación a UCP",
+          "body": "Los comercios de US pueden sumarse al Universal Commerce Protocol desde un nuevo hub en su cuenta de Merchant Center.",
+          "mini_headline": "Merchant Center suma un hub de UCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "El anuncio de TikTok sobre sus novedades publicitarias."
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "En Advertising Week New York 2026, TikTok presentó un conjunto de novedades de publicidad y comercio con agentes que abarcan todas las etapas del recorrido del cliente."
+                "x": "Google Merchant Center está desplegando el hub de integración de UCP en Estados Unidos. El hub de integración de UCP permite incorporarse al programa UCP desde la cuenta de Merchant Center."
               },
               {
                 "t": "p",
-                "x": "En el lado de la venta, TikTok dice que está construyendo nuevas experiencias de compra de comercio con agentes, empezando por Buy Direct y Shopping Assistant, y que las desarrolla con plataformas de comercio y pagos como Salesforce, Shopify, Shoplazza y Stripe. Buy Direct es un pago dentro de la aplicación que permite comprar a una marca sin salir de TikTok, con un clic desde el feed For You. Shopping Assistant es un agente conversacional que resuelve detalles de producto, envío, tallas, disponibilidad y compra en una sola conversación."
+                "x": "El hub dice \"Empieza a vender en las superficies de AI implementando Universal Commerce Protocol\", con acciones de agentes en AI Mode, Gemini y Search, empezando por el pago directo en Google."
               },
               {
                 "t": "p",
-                "x": "Agentic Leads es un agente aparte para la captación de contactos, que mantiene conversaciones guiadas en los mensajes directos de TikTok y en los formularios de las propias webs de los anunciantes."
+                "x": "El documento de ayuda de Google, detectado por Hana Kobzova en PPC News, dice: \"Universal Commerce Protocol (UCP) es un nuevo estándar abierto para el comercio con agentes que permite que agentes y sistemas trabajen juntos en todo el ecosistema comercial. Al integrarte con UCP, puedes añadir un botón de pago en las fichas de producto aptas en AI Mode de Google Search y en Gemini.\""
               },
               {
                 "t": "p",
-                "x": "En el lado de la compra, TikTok abre su TikTok Ad Network a los anunciantes de Estados Unidos y extiende las campañas a lo que describe como una red premium de casi 400,000 aplicaciones, y pone en marcha Search Ads Campaign con Smart+, junto con Smart+ Creative Selection, que reúne los materiales propios del anunciante, la creatividad generada por Symphony y el contenido de creadores en un único flujo de aprobación."
+                "x": "La integración de Merchant Center se está desplegando de forma gradual en U.S. y llegará a los comerciantes de Australia y Canadá el próximo año. \"Esto te permitirá incorporarte al programa desde tu cuenta de Merchant Center y activar funciones como la transferencia del carrito al sitio del comerciante y pruebas mejoradas del flujo de pago\", añadió Google."
               },
               {
-                "t": "p",
-                "x": "TikTok añade que su interfaz para negocios, construida sobre el Model Context Protocol abierto, ya está disponible como conector en varias plataformas y registros, y que el uso que hacen de ella los anunciantes para activar campañas ha crecido más de un 200%, según sus propios datos internos de julio a septiembre de 2026."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "El hub de integración de UCP en Merchant Center"
               }
             ]
           }
@@ -947,141 +897,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "TikTok, 광고주용\n에이전틱 커머스 구축 중",
-          "body": "TikTok이 Buy Direct와 Shopping Assistant를 공개했다.",
-          "mini_headline": "에이전틱으로 가는 TikTok",
+          "headline": "구글 Merchant\nCenter에 UCP 허브",
+          "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
+          "mini_headline": "Merchant Center에 UCP 허브",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "TikTok이 내놓은 광고 업데이트 발표."
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "Advertising Week New York 2026에서 TikTok이 고객 여정의 모든 단계를 아우르는 에이전틱 광고·커머스 업데이트를 한꺼번에 내놨다."
+                "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. UCP 통합 허브를 이용하면 Merchant Center 계정에서 UCP 프로그램에 온보딩할 수 있다."
               },
               {
                 "t": "p",
-                "x": "판매 쪽에서는 Buy Direct와 Shopping Assistant를 시작으로 새로운 에이전틱 커머스 쇼핑 경험을 만들고 있다고 TikTok은 말한다. Salesforce, Shopify, Shoplazza, Stripe 같은 커머스·결제 플랫폼과 함께 개발한다. Buy Direct는 쇼핑객이 TikTok을 떠나지 않고 For You 피드에서 한 번의 클릭으로 브랜드 제품을 사는 앱 내 결제다. Shopping Assistant는 제품 정보와 배송, 사이즈, 재고, 구매까지 한 번의 대화로 처리하는 대화형 에이전트다."
+                "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 있으며, Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에서 에이전트 기능을 제공한다."
               },
               {
                 "t": "p",
-                "x": "Agentic Leads는 리드 확보용 별도 에이전트로, TikTok 다이렉트 메시지와 광고주 자체 웹사이트의 리드 폼에서 안내형 대화를 끌고 간다."
+                "x": "PPC News의 Hana Kobzova가 발견한 Google 도움말 문서는 이렇게 설명한다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
               },
               {
                 "t": "p",
-                "x": "구매 쪽에서는 TikTok Ad Network를 미국 광고주에게 연다. TikTok이 프리미엄이라고 설명하는 400,000개에 가까운 앱 네트워크로 캠페인을 넓히는 것이다. Smart+ 기반의 Search Ads Campaign과 Smart+ Creative Selection도 함께 연다. Smart+ Creative Selection은 광고주 자체 소재와 Symphony가 만든 크리에이티브, 크리에이터 콘텐츠를 하나의 승인 절차로 모은다."
+                "x": "Merchant Center 연동은 현재 U.S.에서 단계적으로 배포 중이며, 내년에는 호주와 캐나다 판매자에게도 배포된다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
               },
               {
-                "t": "p",
-                "x": "TikTok은 개방형 Model Context Protocol로 만든 비즈니스 인터페이스가 여러 플랫폼과 레지스트리에서 커넥터로 제공된다고 밝혔다. 캠페인 실행에 이를 쓰는 광고주가 200% 넘게 늘었다는 수치는 2026년 7월부터 9월까지의 자사 내부 데이터를 근거로 든 것이다."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant Center의 UCP 통합 허브"
               }
             ]
           }
         },
         "ja": {
-          "headline": "TikTok、広告主向けに\nエージェント型商取引を構築",
-          "body": "TikTokはBuy DirectとShopping Assistantを発表した。",
-          "mini_headline": "TikTokがエージェント型へ",
+          "headline": "グーグルMerchant\nCenterにUCPハブ",
+          "body": "USの販売者はMerchant Centerの新ハブからUCPに参加できる。",
+          "mini_headline": "Merchant CenterにUCPハブ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "広告関連の更新を発表したTikTok。"
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "Advertising Week New York 2026で、TikTokは顧客の行動段階すべてにまたがるエージェント型の広告・商取引の更新をまとめて示した。"
+                "x": "Google Merchant Centerは米国でUCP統合ハブの提供を始めている。UCP統合ハブを使えば、Merchant CenterアカウントからUCPプログラムにオンボーディングできる。"
               },
               {
                 "t": "p",
-                "x": "販売側では、Buy DirectとShopping Assistantを手始めに、新しいエージェント型のコマース体験を構築しているとTikTokは述べる。開発はSalesforce、Shopify、Shoplazza、Stripeといったコマース・決済プラットフォームと組んで進める。Buy Directはアプリ内決済で、買い手はTikTokを離れずにFor Youフィードから1クリックでブランドの商品を買える。Shopping Assistantは、商品情報、配送、サイズ、在庫、購入までを一つの会話で扱う対話型エージェントである。"
+                "x": "ハブには「Universal Commerce Protocolを実装して、AIサーフェス全体で販売を始めましょう」と記され、Google上での直接チェックアウトを皮切りに、AI Mode、Gemini、Searchでのエージェント機能が示されている。"
               },
               {
                 "t": "p",
-                "x": "Agentic Leadsは見込み客獲得向けの別のエージェントで、TikTokのダイレクトメッセージや、広告主自身のサイトのリードフォームで案内に沿った会話を進める。"
+                "x": "PPC NewsのHana Kobzovaが見つけたGoogleのヘルプ文書にはこうある。「Universal Commerce Protocol(UCP)は、エージェントとシステムがコマースのエコシステム全体で連携できるようにする、エージェント型コマースの新しいオープン標準です。UCPと統合することで、Google SearchのAI ModeとGeminiで、対象となる商品リスティングにチェックアウトボタンを実装できます」"
               },
               {
                 "t": "p",
-                "x": "購入側では、TikTok Ad Networkを米国の広告主に開放し、同社がプレミアムと説明する400,000に近いアプリのネットワークへキャンペーンを広げる。あわせてSmart+を用いるSearch Ads Campaignと、Smart+ Creative Selectionを開く。後者は、広告主自身の素材、Symphonyが生成したクリエイティブ、クリエイターのコンテンツを一つの承認フローにまとめる。"
+                "x": "Merchant Centerとの統合は現在U.S.で段階的に展開中で、来年にはオーストラリアとカナダの販売者にも展開される。Googleは「これにより、Merchant Centerアカウントからプログラムにオンボーディングし、販売者サイトへのカート移行や、強化されたチェックアウトフローのテストといった機能を有効にできる」と付け加えた。"
               },
               {
-                "t": "p",
-                "x": "TikTokはまた、オープンなModel Context Protocolを基にした事業者向けインターフェースが、複数のプラットフォームやレジストリでコネクターとして使えるようになったとしている。キャンペーン実行での広告主の利用が200%以上伸びたという数字については、2026年7月から9月の自社内部データを根拠に挙げている。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant CenterのUCP統合ハブ"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TikTok正在为广告主\n构建智能体商务能力",
-          "body": "TikTok宣布推出Buy Direct结算与对话式Shopping Assistant。",
-          "mini_headline": "TikTok转向智能体",
+          "headline": "谷歌Merchant\nCenter推UCP接入中心",
+          "body": "US商家可通过Merchant Center账户中的新中心接入UCP。",
+          "mini_headline": "Merchant Center新增UCP中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "TikTok发布的广告功能更新。"
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "在Advertising Week New York 2026上，TikTok集中发布了一批覆盖顾客旅程各个阶段的智能体广告与商务更新。"
+                "x": "Google Merchant Center正在美国推出UCP集成中心。借助UCP集成中心，商家可以从Merchant Center账户接入UCP计划。"
               },
               {
                 "t": "p",
-                "x": "在卖方一侧，TikTok称正在构建新的智能体商务购物体验，先从Buy Direct和Shopping Assistant开始，并与Salesforce、Shopify、Shoplazza、Stripe等商务与支付平台共同开发。Buy Direct是应用内结算，购物者无需离开TikTok，在For You信息流中一键即可向品牌下单。Shopping Assistant是对话式智能体，可在一次对话中处理商品细节、配送、尺码、库存与购买。"
+                "x": "该中心写道：“通过实施Universal Commerce Protocol，开始在各类AI界面上销售”，并提供AI Mode、Gemini和Search上的智能体操作，首先是直接在Google上结账。"
               },
               {
                 "t": "p",
-                "x": "Agentic Leads是另一个用于获取销售线索的智能体，可在TikTok私信以及广告主自有网站的线索表单中展开引导式对话。"
+                "x": "PPC News的Hana Kobzova发现的Google帮助文档写道：“Universal Commerce Protocol（UCP）是一项面向智能体商务的新开放标准，使智能体和系统能够在整个商务生态中协同工作。通过与UCP集成，你可以在Google Search的AI Mode和Gemini中，为符合条件的商品信息添加结账按钮。”"
               },
               {
                 "t": "p",
-                "x": "在买方一侧，TikTok将TikTok Ad Network开放给美国广告主，把投放延伸到其所称的、由接近400,000个应用组成的优质网络，并开放由Smart+驱动的Search Ads Campaign以及Smart+ Creative Selection；后者把广告主自有素材、Symphony生成的创意与创作者内容汇入同一套审批流程。"
+                "x": "Merchant Center集成目前正在U.S.逐步推出，明年将扩展至澳大利亚和加拿大的商家。Google补充说：“这将让你从Merchant Center账户接入该计划，并启用将购物车转移至商家网站、增强型结账流程测试等功能。”"
               },
               {
-                "t": "p",
-                "x": "TikTok还表示，基于开放的Model Context Protocol构建的商家接口，现已可作为连接器在多个平台与注册表中使用，并称广告主用它启动投放的用量增长超过200%，依据是其2026年7月至9月的内部数据。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "Merchant Center中的UCP集成中心"
               }
             ]
           }
         },
         "es": {
-          "headline": "TikTok construye comercio\ncon agentes para anunciantes",
-          "body": "TikTok anunció el pago Buy Direct, un Shopping Assistant conversacional y Search Ads con Smart+.",
-          "mini_headline": "TikTok se vuelve agéntico",
+          "headline": "Google Merchant Center suma\nun hub de incorporación a UCP",
+          "body": "Los comercios de US pueden sumarse al Universal Commerce Protocol desde un nuevo hub en su cuenta de Merchant Center.",
+          "mini_headline": "Merchant Center suma un hub de UCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://p16-ttark-sg.tiktokcdn.com/tos-alisg-i-0twjg7x6w4-sg/1af66d35800d6cf867daebc9c3ad4dbf.png~tplv-0twjg7x6w4-default:0:0:q75.image",
-                "cap": "El anuncio de TikTok sobre sus novedades publicitarias."
+                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
               },
               {
                 "t": "p",
-                "x": "En Advertising Week New York 2026, TikTok presentó un conjunto de novedades de publicidad y comercio con agentes que abarcan todas las etapas del recorrido del cliente."
+                "x": "Google Merchant Center está desplegando el hub de integración de UCP en Estados Unidos. El hub de integración de UCP permite incorporarse al programa UCP desde la cuenta de Merchant Center."
               },
               {
                 "t": "p",
-                "x": "En el lado de la venta, TikTok dice que está construyendo nuevas experiencias de compra de comercio con agentes, empezando por Buy Direct y Shopping Assistant, y que las desarrolla con plataformas de comercio y pagos como Salesforce, Shopify, Shoplazza y Stripe. Buy Direct es un pago dentro de la aplicación que permite comprar a una marca sin salir de TikTok, con un clic desde el feed For You. Shopping Assistant es un agente conversacional que resuelve detalles de producto, envío, tallas, disponibilidad y compra en una sola conversación."
+                "x": "El hub dice \"Empieza a vender en las superficies de AI implementando Universal Commerce Protocol\", con acciones de agentes en AI Mode, Gemini y Search, empezando por el pago directo en Google."
               },
               {
                 "t": "p",
-                "x": "Agentic Leads es un agente aparte para la captación de contactos, que mantiene conversaciones guiadas en los mensajes directos de TikTok y en los formularios de las propias webs de los anunciantes."
+                "x": "El documento de ayuda de Google, detectado por Hana Kobzova en PPC News, dice: \"Universal Commerce Protocol (UCP) es un nuevo estándar abierto para el comercio con agentes que permite que agentes y sistemas trabajen juntos en todo el ecosistema comercial. Al integrarte con UCP, puedes añadir un botón de pago en las fichas de producto aptas en AI Mode de Google Search y en Gemini.\""
               },
               {
                 "t": "p",
-                "x": "En el lado de la compra, TikTok abre su TikTok Ad Network a los anunciantes de Estados Unidos y extiende las campañas a lo que describe como una red premium de casi 400,000 aplicaciones, y pone en marcha Search Ads Campaign con Smart+, junto con Smart+ Creative Selection, que reúne los materiales propios del anunciante, la creatividad generada por Symphony y el contenido de creadores en un único flujo de aprobación."
+                "x": "La integración de Merchant Center se está desplegando de forma gradual en U.S. y llegará a los comerciantes de Australia y Canadá el próximo año. \"Esto te permitirá incorporarte al programa desde tu cuenta de Merchant Center y activar funciones como la transferencia del carrito al sitio del comerciante y pruebas mejoradas del flujo de pago\", añadió Google."
               },
               {
-                "t": "p",
-                "x": "TikTok añade que su interfaz para negocios, construida sobre el Model Context Protocol abierto, ya está disponible como conector en varias plataformas y registros, y que el uso que hacen de ella los anunciantes para activar campañas ha crecido más de un 200%, según sus propios datos internos de julio a septiembre de 2026."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
+                "cap": "El hub de integración de UCP en Merchant Center"
               }
             ]
           }
@@ -1089,219 +1039,165 @@
       }
     },
     {
-      "id": "rembrand-in-content",
+      "id": "marketing-radisson-chatgpt-hotel-booking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Omnicom, 광고를\n영상 안에 심는다",
-      "mini_headline": "영상 안으로 들어간 광고",
-      "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
+      "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
+      "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
+      "mini_headline": "ChatGPT 속 Radisson 플러그인",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/media-buying/omnicom-media-and-rembrand-partner-to-evolve-in-content-ad-placements/",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/radisson",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-            "cap": "뉴욕에서 열린 Advertising Week in New York을 다룬 Digiday 기사."
+            "t": "p",
+            "x": "Radisson Hotel Group은 Accenture Song과 손잡고 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객을 만나고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 둘러보게 돕는다. 초기 결과를 보면 예약 전환율이 Radisson 자연 검색의 약 1.5배였다."
           },
           {
             "t": "p",
-            "x": "Omnicom Media가 광고 플랫폼 Rembrand와 손잡았다. 브랜드가 프리미엄 스트리밍 콘텐츠 안의 광고 자리를 찾아내 계획하고 집행하게 해주는 기능으로, 회사는 이를 업계 최초라고 부른다."
+            "x": "팀은 에이전트 기반 개발의 힘을 빌려 여섯 주 만에 플러그인을 만들고 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고 가격을 비교하고 편의시설을 꼼꼼히 살핀 뒤, Radisson 사이트로 넘어가 예약을 마친다."
           },
           {
             "t": "p",
-            "x": "두 회사는 Rembrand의 VISTA 플랫폼을 쓸 계획이다. VISTA는 AI로 퍼블리셔 콘텐츠를 훑어 수익화할 수 있는 장면을 골라낸다. 그다음 Omnicom Media의 브랜디드 콘텐츠 조직인 Content Collective가 그 자리에 광고를 녹여 넣는다. 한두 건으로 끝나던 콘텐츠 내 광고를 규모 있게 늘리겠다는 것이다."
+            "x": "최근 ChatGPT 업데이트 이후로는 @RadissonHotels를 따로 입력하지 않아도 된다. 플러그인을 설치해 두면 관련이 있을 때 ChatGPT가 알아서 띄워 준다."
           },
           {
             "t": "p",
-            "x": "Omnicom Media는 Acxiom 안의 자사 오디언스 상품 RealID로 브랜드에 맞는 프로그램을 고르고, 스트리밍 업체의 시청 데이터와 맞춰본 뒤 VISTA가 찾아낸 기회와 연결한다. 생활용품 광고주라면 제작과 촬영이 이미 끝난 요리 리얼리티 프로그램 한 회차에 들어갈 수 있다. Digiday는 발상 자체는 새롭지 않지만 제작이 끝난 뒤에 넣는다는 점이 새롭다고 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "Digiday에 따르면 이 지주회사의 미디어 네트워크는 스트리밍 서비스를 운영하는 여러 미디어 기업과 아직 협상 중이며, 어느 곳인지는 밝히지 못했다. 북미 최고제품책임자 Megan Pagliuca는 원래 판매 측 기술이던 이 기능을 구매 측이 쓰는 것은 이번이 처음이라며, 아직 초기 단계의 기능이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "독립 조사가 아니라 Omnicom Media가 Rembrand와 직접 진행한 조사에서는, 콘텐츠 안의 광고를 기존 영상 광고와 함께 노출했을 때 메시지 회상이 5.5배, 구매 의향과 브랜드를 프리미엄으로 보는 인식이 각각 4배 올랐다."
+            "x": "Radisson은 ChatGPT에 스폰서 광고를 낸 숙박업계 선두 주자 가운데 하나이기도 하다. 캠페인에서 잡힌 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. 광고 경험도 Accenture가 플러그인용으로 만든 MCP 서버와 APIs 위에서 돌아간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Omnicom will put ads\ninside the video itself",
-          "body": "Omnicom Media and Rembrand will use AI to find scenes in premium streaming shows that can carry ads.",
-          "mini_headline": "Ads inside the video",
+          "headline": "Radisson brings hotel\ndiscovery into ChatGPT",
+          "body": "Radisson and Accenture Song built a ChatGPT plugin to compare hotels, converting about 1.5 times its organic search.",
+          "mini_headline": "Radisson plugin in ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "Digiday's coverage of Advertising Week in New York."
+                "t": "p",
+                "x": "Through its partnership with Accenture Song, Radisson Hotel Group is using OpenAI technology to reach guests earlier in the travel planning journey. The Radisson Hotels ChatGPT plugin helps travelers compare hotels and explore travel options, and early results show booking conversion approximately 1.5 times that of Radisson's organic search."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media has partnered with the advertising platform Rembrand on what it calls a first to market capability that lets brands identify, plan and activate placements inside premium streaming content."
+                "x": "With the help of agentic development, the team built and launched the plugin in just six weeks. It lets users see Radisson Hotel suggestions on a map, compare pricing, and view hotel amenities in detail directly in ChatGPT, then continue to the Radisson site to complete their booking."
               },
               {
                 "t": "p",
-                "x": "The pair plan to use Rembrand's VISTA platform, which uses AI to scan publisher content and identify scenes that can be monetized. Omnicom Media's Content Collective, its branded content unit, then works the placements into the content. The aim is to scale placement inside content beyond isolated instances."
+                "x": "A recent ChatGPT update means users no longer have to type @RadissonHotels; if the plugin is installed, ChatGPT automatically shows it whenever relevant."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media picks the shows for a brand using its RealID audience product within Acxiom, matched against viewership data from streamers, then maps that against the opportunities in VISTA. A packaged goods client could be inserted into an episode of a cooking reality show after it has been produced and shot. Digiday notes the idea is not new, but doing it after production is."
-              },
-              {
-                "t": "p",
-                "x": "Digiday reports the holding company's media network is still negotiating with several media companies that run streaming services, and could not name any of them. Megan Pagliuca, chief product officer for North America, said this is the first time the capability has been used by the buy side, having historically been a sell side technology, and called it still a nascent capability."
-              },
-              {
-                "t": "p",
-                "x": "Omnicom Media's own research with Rembrand, rather than an independent study, found that placements inside content paired with traditional video ads drove a 5.5 times increase in message recall and a fourfold increase in both purchase intent and perception of the brand as premium."
+                "x": "Radisson is also among the hospitality pioneers running sponsored advertising in ChatGPT. More than half of the campaign's recorded checkout and booking events were attributed through view-through measurement. The MCP server and APIs Accenture developed for the plugin also power the ads experience."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Omnicom, 광고를\n영상 안에 심는다",
-          "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
-          "mini_headline": "영상 안으로 들어간 광고",
+          "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
+          "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
+          "mini_headline": "ChatGPT 속 Radisson 플러그인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "뉴욕에서 열린 Advertising Week in New York을 다룬 Digiday 기사."
+                "t": "p",
+                "x": "Radisson Hotel Group은 Accenture Song과 손잡고 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객을 만나고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 둘러보게 돕는다. 초기 결과를 보면 예약 전환율이 Radisson 자연 검색의 약 1.5배였다."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media가 광고 플랫폼 Rembrand와 손잡았다. 브랜드가 프리미엄 스트리밍 콘텐츠 안의 광고 자리를 찾아내 계획하고 집행하게 해주는 기능으로, 회사는 이를 업계 최초라고 부른다."
+                "x": "팀은 에이전트 기반 개발의 힘을 빌려 여섯 주 만에 플러그인을 만들고 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고 가격을 비교하고 편의시설을 꼼꼼히 살핀 뒤, Radisson 사이트로 넘어가 예약을 마친다."
               },
               {
                 "t": "p",
-                "x": "두 회사는 Rembrand의 VISTA 플랫폼을 쓸 계획이다. VISTA는 AI로 퍼블리셔 콘텐츠를 훑어 수익화할 수 있는 장면을 골라낸다. 그다음 Omnicom Media의 브랜디드 콘텐츠 조직인 Content Collective가 그 자리에 광고를 녹여 넣는다. 한두 건으로 끝나던 콘텐츠 내 광고를 규모 있게 늘리겠다는 것이다."
+                "x": "최근 ChatGPT 업데이트 이후로는 @RadissonHotels를 따로 입력하지 않아도 된다. 플러그인을 설치해 두면 관련이 있을 때 ChatGPT가 알아서 띄워 준다."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media는 Acxiom 안의 자사 오디언스 상품 RealID로 브랜드에 맞는 프로그램을 고르고, 스트리밍 업체의 시청 데이터와 맞춰본 뒤 VISTA가 찾아낸 기회와 연결한다. 생활용품 광고주라면 제작과 촬영이 이미 끝난 요리 리얼리티 프로그램 한 회차에 들어갈 수 있다. Digiday는 발상 자체는 새롭지 않지만 제작이 끝난 뒤에 넣는다는 점이 새롭다고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "Digiday에 따르면 이 지주회사의 미디어 네트워크는 스트리밍 서비스를 운영하는 여러 미디어 기업과 아직 협상 중이며, 어느 곳인지는 밝히지 못했다. 북미 최고제품책임자 Megan Pagliuca는 원래 판매 측 기술이던 이 기능을 구매 측이 쓰는 것은 이번이 처음이라며, 아직 초기 단계의 기능이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "독립 조사가 아니라 Omnicom Media가 Rembrand와 직접 진행한 조사에서는, 콘텐츠 안의 광고를 기존 영상 광고와 함께 노출했을 때 메시지 회상이 5.5배, 구매 의향과 브랜드를 프리미엄으로 보는 인식이 각각 4배 올랐다."
+                "x": "Radisson은 ChatGPT에 스폰서 광고를 낸 숙박업계 선두 주자 가운데 하나이기도 하다. 캠페인에서 잡힌 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. 광고 경험도 Accenture가 플러그인용으로 만든 MCP 서버와 APIs 위에서 돌아간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Omnicom、広告を\n映像の中に埋め込む",
-          "body": "Omnicom MediaとRembrandがAIで配信番組内の広告枠を探す。",
-          "mini_headline": "映像の中に入る広告",
+          "headline": "Radissonのホテル探し\nChatGPTの中へ",
+          "body": "RadissonとAccenture SongのChatGPTプラグインは転換約1.5倍だ。",
+          "mini_headline": "ChatGPT内のRadissonプラグイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "ニューヨークのAdvertising Week in New Yorkを伝えるDigidayの記事。"
+                "t": "p",
+                "x": "Radisson Hotel Groupは、Accenture Songとのパートナーシップを通じてOpenAIの技術を活用し、旅行計画のより早い段階で顧客にリーチしている。Radisson Hotels ChatGPTプラグインは旅行者がホテルを比較し旅行の選択肢を探るのを助けるもので、初期結果では予約転換率がRadissonの自然検索の約1.5倍だった。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Mediaは広告プラットフォームのRembrandと組み、ブランドがプレミアムな配信コンテンツ内の広告枠を見つけ、計画し、実行できる機能を打ち出す。同社はこれを市場初の機能だとしている。"
+                "x": "エージェント型開発の助けを借り、チームはわずか六週間でプラグインを構築・公開した。ユーザーはChatGPT上で、Radisson Hotelの提案を地図で確認し、料金を比較し、ホテルの設備を詳しく見たうえで、Radissonのサイトに移って予約を完了できる。"
               },
               {
                 "t": "p",
-                "x": "両社はRembrandのVISTAを使う計画である。VISTAはAIでパブリッシャーのコンテンツを走査し、収益化できる場面を見つけ出す。その上でOmnicom Mediaのブランドコンテンツ部門Content Collectiveが、広告枠をコンテンツに織り込む。単発で終わっていたコンテンツ内の広告を、規模のある形にすることを狙う。"
+                "x": "最近のChatGPTのアップデートにより、ユーザーは@RadissonHotelsと入力する必要がなくなった。プラグインがインストールされていれば、関連する場面でChatGPTが自動的に表示する。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Mediaは、Acxiom内の自社オーディエンス商品RealIDで対象番組を選び、配信事業者の視聴データと突き合わせたうえで、VISTA側の機会と照らし合わせる。日用品の広告主なら、制作と撮影を終えた料理リアリティ番組の一話に後から入り込める。Digidayは、考え方自体は新しくないが、制作後に行う点が新しいと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "Digidayによると、この持ち株会社のメディアネットワークは配信サービスを手がける複数のメディア企業と交渉中で、社名は明らかにできなかった。北米の最高プロダクト責任者Megan Pagliucaは、従来は売り手側の技術だったこの機能を買い手側が使うのは今回が初めてだと述べ、まだ芽の段階の機能だとした。"
-              },
-              {
-                "t": "p",
-                "x": "独立した調査ではなくOmnicom MediaがRembrandと自ら行った調査では、コンテンツ内の広告を従来の動画広告と組み合わせた場合、メッセージ想起が5.5倍、購入意向とプレミアムだという受け止めがいずれも4倍に伸びた。"
+                "x": "RadissonはChatGPTでスポンサー広告を展開するホスピタリティ業界の先駆者の一社でもある。キャンペーンで記録されたチェックアウトと予約イベントの半数以上が、view-through計測によって帰属された。Accentureがプラグイン用に開発したMCPサーバーとAPIsは、広告体験も支えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Omnicom要把广告\n放进视频画面里",
-          "body": "Omnicom Media与Rembrand将用AI寻找流媒体节目中可放广告的画面。",
-          "mini_headline": "广告进入视频画面",
+          "headline": "Radisson把酒店搜寻\n搬进ChatGPT",
+          "body": "Radisson与Accenture Song的ChatGPT插件转化约为自然搜索1.5倍。",
+          "mini_headline": "ChatGPT里的Radisson插件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "Digiday对纽约Advertising Week in New York的报道。"
+                "t": "p",
+                "x": "通过与Accenture Song的合作，Radisson Hotel Group正利用OpenAI技术，在旅行规划更早的阶段触达客人。Radisson Hotels ChatGPT插件帮助旅行者比较酒店、探索出行选择，早期结果显示其预订转化率约为Radisson自然搜索的1.5倍。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Media已与广告平台Rembrand合作，推出其所称的市场首创能力，让品牌可以识别、规划并启动优质流媒体内容中的植入位置。"
+                "x": "借助智能体式开发，团队仅用六周就完成了插件的构建和上线。用户可以直接在ChatGPT中在地图上查看Radisson Hotel的推荐、比较价格、详细了解酒店设施，然后前往Radisson网站完成预订。"
               },
               {
                 "t": "p",
-                "x": "两家计划使用Rembrand的VISTA平台，该平台用AI扫描发布方内容，找出可以变现的场景。随后由Omnicom Media旗下品牌内容部门Content Collective把植入融入内容。目标是让内容内植入不再是零星个案，而能形成规模。"
+                "x": "ChatGPT最近的一次更新意味着用户不再需要输入@RadissonHotels；只要安装了插件，ChatGPT就会在相关时自动显示它。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Media借助Acxiom中的自有受众产品RealID为品牌挑选节目，与流媒体平台的收视数据做匹配，再对应VISTA中的机会。一个包装消费品客户可以在一档烹饪真人秀制作与拍摄完成之后被放入某一集。Digiday指出，这个思路并不新，新的是在制作完成之后再做。"
-              },
-              {
-                "t": "p",
-                "x": "Digiday报道称，这家控股公司的媒体网络仍在与多家经营流媒体服务的媒体公司谈判，且未能透露其中任何一家。北美首席产品官Megan Pagliuca表示，这项能力历来属于卖方技术，这是买方首次使用，她称其仍是一项初生的能力。"
-              },
-              {
-                "t": "p",
-                "x": "Omnicom Media与Rembrand自行开展的研究（而非独立研究）发现，内容内植入与传统视频广告搭配投放，使信息回想提升5.5倍，购买意向与品牌高端认知均提升4倍。"
+                "x": "Radisson也是在ChatGPT中投放赞助广告的酒店业先行者之一。该活动记录的结账和预订事件中，超过一半通过view-through衡量完成归因。Accenture为插件开发的MCP服务器和APIs也为广告体验提供支持。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Omnicom pondrá anuncios\ndentro del propio video",
-          "body": "Omnicom Media y Rembrand usarán IA para hallar escenas de series en streaming que admitan anuncios.",
-          "mini_headline": "Anuncios dentro del video",
+          "headline": "Radisson lleva la búsqueda\nde hoteles a ChatGPT",
+          "body": "Radisson y Accenture Song crearon un plugin de ChatGPT que convierte cerca de 1.5 veces lo que su búsqueda orgánica.",
+          "mini_headline": "El plugin de Radisson en ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "La cobertura de Digiday sobre Advertising Week in New York."
+                "t": "p",
+                "x": "Gracias a su alianza con Accenture Song, Radisson Hotel Group usa tecnología de OpenAI para llegar a los huéspedes en una fase más temprana de la planificación del viaje. El plugin Radisson Hotels ChatGPT ayuda a los viajeros a comparar hoteles y explorar opciones de viaje, y los primeros resultados muestran una conversión de reservas de aproximadamente 1.5 veces la de la búsqueda orgánica de Radisson."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media se ha asociado con la plataforma publicitaria Rembrand en lo que describe como una capacidad pionera en el mercado, que permite a las marcas identificar, planificar y activar emplazamientos dentro de contenido premium en streaming."
+                "x": "Con ayuda del desarrollo con agentes, el equipo creó y lanzó el plugin en solo seis semanas. Permite ver sugerencias de Radisson Hotel en un mapa, comparar precios y consultar en detalle los servicios del hotel directamente en ChatGPT, para luego pasar al sitio de Radisson y completar la reserva."
               },
               {
                 "t": "p",
-                "x": "Ambas partes planean usar la plataforma VISTA de Rembrand, que emplea IA para rastrear el contenido de los editores e identificar escenas que pueden monetizarse. Content Collective, la unidad de contenido de marca de Omnicom Media, integra después esos emplazamientos en el contenido. El objetivo es dar escala al emplazamiento dentro del contenido, más allá de casos aislados."
+                "x": "Tras una actualización reciente de ChatGPT, los usuarios ya no tienen que escribir @RadissonHotels; si el plugin está instalado, ChatGPT lo muestra automáticamente cuando es relevante."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media elige los programas para una marca con su producto de audiencias RealID dentro de Acxiom, cruzado con datos de audiencia de las plataformas de streaming, y luego lo contrasta con las oportunidades que aparecen en VISTA. Un cliente de productos de consumo envasado podría incorporarse a un episodio de un reality de cocina después de haberse producido y rodado. Digiday observa que la idea no es nueva, pero hacerlo después de la producción sí lo es."
-              },
-              {
-                "t": "p",
-                "x": "Digiday informa de que la red de medios del grupo sigue negociando con varias compañías que operan servicios de streaming, y no pudo nombrar a ninguna. Megan Pagliuca, directora de producto para Norteamérica, dijo que es la primera vez que el lado comprador usa esta capacidad, históricamente una tecnología del lado vendedor, y la calificó de capacidad todavía incipiente."
-              },
-              {
-                "t": "p",
-                "x": "Una investigación propia de Omnicom Media con Rembrand, y no un estudio independiente, halló que los emplazamientos dentro del contenido combinados con anuncios de video tradicionales elevaron 5.5 veces el recuerdo del mensaje y cuadruplicaron tanto la intención de compra como la percepción de la marca como premium."
+                "x": "Radisson también figura entre los pioneros de la hostelería que publican anuncios patrocinados en ChatGPT. Más de la mitad de los eventos de pago y reserva registrados en la campaña se atribuyeron mediante medición view-through. El servidor MCP y las APIs que Accenture desarrolló para el plugin también impulsan la experiencia publicitaria."
               }
             ]
           }
@@ -1309,141 +1205,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Omnicom, 광고를\n영상 안에 심는다",
-          "body": "Omnicom Media와 Rembrand가 AI로 영상 속 광고 자리를 찾는다.",
-          "mini_headline": "영상 안으로 들어간 광고",
+          "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
+          "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
+          "mini_headline": "ChatGPT 속 Radisson 플러그인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "뉴욕에서 열린 Advertising Week in New York을 다룬 Digiday 기사."
+                "t": "p",
+                "x": "Radisson Hotel Group은 Accenture Song과의 파트너십을 통해 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객에게 다가가고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 살펴보도록 돕는데, 초기 결과에서 예약 전환율은 Radisson 자연 검색의 약 1.5배였다."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media가 광고 플랫폼 Rembrand와 손잡았다. 브랜드가 프리미엄 스트리밍 콘텐츠 안의 광고 자리를 찾아내 계획하고 집행하게 해주는 기능으로, 회사는 이를 업계 최초라고 부른다."
+                "x": "팀은 에이전트 기반 개발의 도움으로 여섯 주 만에 플러그인을 만들어 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고, 가격을 비교하고, 호텔 편의시설을 자세히 살펴본 뒤 Radisson 사이트로 넘어가 예약을 마칠 수 있다."
               },
               {
                 "t": "p",
-                "x": "두 회사는 Rembrand의 VISTA 플랫폼을 쓸 계획이다. VISTA는 AI로 퍼블리셔 콘텐츠를 훑어 수익화할 수 있는 장면을 골라낸다. 그다음 Omnicom Media의 브랜디드 콘텐츠 조직인 Content Collective가 그 자리에 광고를 녹여 넣는다. 한두 건으로 끝나던 콘텐츠 내 광고를 규모 있게 늘리겠다는 것이다."
+                "x": "최근 ChatGPT 업데이트로 사용자는 더 이상 @RadissonHotels를 입력할 필요가 없다. 플러그인을 설치해 두면 ChatGPT가 관련 있을 때마다 자동으로 보여 준다."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media는 Acxiom 안의 자사 오디언스 상품 RealID로 브랜드에 맞는 프로그램을 고르고, 스트리밍 업체의 시청 데이터와 맞춰본 뒤 VISTA가 찾아낸 기회와 연결한다. 생활용품 광고주라면 제작과 촬영이 이미 끝난 요리 리얼리티 프로그램 한 회차에 들어갈 수 있다. Digiday는 발상 자체는 새롭지 않지만 제작이 끝난 뒤에 넣는다는 점이 새롭다고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "Digiday에 따르면 이 지주회사의 미디어 네트워크는 스트리밍 서비스를 운영하는 여러 미디어 기업과 아직 협상 중이며, 어느 곳인지는 밝히지 못했다. 북미 최고제품책임자 Megan Pagliuca는 원래 판매 측 기술이던 이 기능을 구매 측이 쓰는 것은 이번이 처음이라며, 아직 초기 단계의 기능이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "독립 조사가 아니라 Omnicom Media가 Rembrand와 직접 진행한 조사에서는, 콘텐츠 안의 광고를 기존 영상 광고와 함께 노출했을 때 메시지 회상이 5.5배, 구매 의향과 브랜드를 프리미엄으로 보는 인식이 각각 4배 올랐다."
+                "x": "Radisson은 ChatGPT에서 스폰서 광고를 운영하는 숙박업계 선구자 중 하나이기도 하다. 캠페인에서 기록된 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. Accenture가 플러그인용으로 개발한 MCP 서버와 APIs가 광고 경험도 뒷받침한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Omnicom、広告を\n映像の中に埋め込む",
-          "body": "Omnicom MediaとRembrandがAIで配信番組内の広告枠を探す。",
-          "mini_headline": "映像の中に入る広告",
+          "headline": "Radissonのホテル探し\nChatGPTの中へ",
+          "body": "RadissonとAccenture SongのChatGPTプラグインは転換約1.5倍だ。",
+          "mini_headline": "ChatGPT内のRadissonプラグイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "ニューヨークのAdvertising Week in New Yorkを伝えるDigidayの記事。"
+                "t": "p",
+                "x": "Radisson Hotel Groupは、Accenture Songとのパートナーシップを通じてOpenAIの技術を活用し、旅行計画のより早い段階で顧客にリーチしている。Radisson Hotels ChatGPTプラグインは旅行者がホテルを比較し旅行の選択肢を探るのを助けるもので、初期結果では予約転換率がRadissonの自然検索の約1.5倍だった。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Mediaは広告プラットフォームのRembrandと組み、ブランドがプレミアムな配信コンテンツ内の広告枠を見つけ、計画し、実行できる機能を打ち出す。同社はこれを市場初の機能だとしている。"
+                "x": "エージェント型開発の助けを借り、チームはわずか六週間でプラグインを構築・公開した。ユーザーはChatGPT上で、Radisson Hotelの提案を地図で確認し、料金を比較し、ホテルの設備を詳しく見たうえで、Radissonのサイトに移って予約を完了できる。"
               },
               {
                 "t": "p",
-                "x": "両社はRembrandのVISTAを使う計画である。VISTAはAIでパブリッシャーのコンテンツを走査し、収益化できる場面を見つけ出す。その上でOmnicom Mediaのブランドコンテンツ部門Content Collectiveが、広告枠をコンテンツに織り込む。単発で終わっていたコンテンツ内の広告を、規模のある形にすることを狙う。"
+                "x": "最近のChatGPTのアップデートにより、ユーザーは@RadissonHotelsと入力する必要がなくなった。プラグインがインストールされていれば、関連する場面でChatGPTが自動的に表示する。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Mediaは、Acxiom内の自社オーディエンス商品RealIDで対象番組を選び、配信事業者の視聴データと突き合わせたうえで、VISTA側の機会と照らし合わせる。日用品の広告主なら、制作と撮影を終えた料理リアリティ番組の一話に後から入り込める。Digidayは、考え方自体は新しくないが、制作後に行う点が新しいと指摘する。"
-              },
-              {
-                "t": "p",
-                "x": "Digidayによると、この持ち株会社のメディアネットワークは配信サービスを手がける複数のメディア企業と交渉中で、社名は明らかにできなかった。北米の最高プロダクト責任者Megan Pagliucaは、従来は売り手側の技術だったこの機能を買い手側が使うのは今回が初めてだと述べ、まだ芽の段階の機能だとした。"
-              },
-              {
-                "t": "p",
-                "x": "独立した調査ではなくOmnicom MediaがRembrandと自ら行った調査では、コンテンツ内の広告を従来の動画広告と組み合わせた場合、メッセージ想起が5.5倍、購入意向とプレミアムだという受け止めがいずれも4倍に伸びた。"
+                "x": "RadissonはChatGPTでスポンサー広告を展開するホスピタリティ業界の先駆者の一社でもある。キャンペーンで記録されたチェックアウトと予約イベントの半数以上が、view-through計測によって帰属された。Accentureがプラグイン用に開発したMCPサーバーとAPIsは、広告体験も支えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Omnicom要把广告\n放进视频画面里",
-          "body": "Omnicom Media与Rembrand将用AI寻找流媒体节目中可放广告的画面。",
-          "mini_headline": "广告进入视频画面",
+          "headline": "Radisson把酒店搜寻\n搬进ChatGPT",
+          "body": "Radisson与Accenture Song的ChatGPT插件转化约为自然搜索1.5倍。",
+          "mini_headline": "ChatGPT里的Radisson插件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "Digiday对纽约Advertising Week in New York的报道。"
+                "t": "p",
+                "x": "通过与Accenture Song的合作，Radisson Hotel Group正利用OpenAI技术，在旅行规划更早的阶段触达客人。Radisson Hotels ChatGPT插件帮助旅行者比较酒店、探索出行选择，早期结果显示其预订转化率约为Radisson自然搜索的1.5倍。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Media已与广告平台Rembrand合作，推出其所称的市场首创能力，让品牌可以识别、规划并启动优质流媒体内容中的植入位置。"
+                "x": "借助智能体式开发，团队仅用六周就完成了插件的构建和上线。用户可以直接在ChatGPT中在地图上查看Radisson Hotel的推荐、比较价格、详细了解酒店设施，然后前往Radisson网站完成预订。"
               },
               {
                 "t": "p",
-                "x": "两家计划使用Rembrand的VISTA平台，该平台用AI扫描发布方内容，找出可以变现的场景。随后由Omnicom Media旗下品牌内容部门Content Collective把植入融入内容。目标是让内容内植入不再是零星个案，而能形成规模。"
+                "x": "ChatGPT最近的一次更新意味着用户不再需要输入@RadissonHotels；只要安装了插件，ChatGPT就会在相关时自动显示它。"
               },
               {
                 "t": "p",
-                "x": "Omnicom Media借助Acxiom中的自有受众产品RealID为品牌挑选节目，与流媒体平台的收视数据做匹配，再对应VISTA中的机会。一个包装消费品客户可以在一档烹饪真人秀制作与拍摄完成之后被放入某一集。Digiday指出，这个思路并不新，新的是在制作完成之后再做。"
-              },
-              {
-                "t": "p",
-                "x": "Digiday报道称，这家控股公司的媒体网络仍在与多家经营流媒体服务的媒体公司谈判，且未能透露其中任何一家。北美首席产品官Megan Pagliuca表示，这项能力历来属于卖方技术，这是买方首次使用，她称其仍是一项初生的能力。"
-              },
-              {
-                "t": "p",
-                "x": "Omnicom Media与Rembrand自行开展的研究（而非独立研究）发现，内容内植入与传统视频广告搭配投放，使信息回想提升5.5倍，购买意向与品牌高端认知均提升4倍。"
+                "x": "Radisson也是在ChatGPT中投放赞助广告的酒店业先行者之一。该活动记录的结账和预订事件中，超过一半通过view-through衡量完成归因。Accenture为插件开发的MCP服务器和APIs也为广告体验提供支持。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Omnicom pondrá anuncios\ndentro del propio video",
-          "body": "Omnicom Media y Rembrand usarán IA para hallar escenas de series en streaming que admitan anuncios.",
-          "mini_headline": "Anuncios dentro del video",
+          "headline": "Radisson lleva la búsqueda\nde hoteles a ChatGPT",
+          "body": "Radisson y Accenture Song crearon un plugin de ChatGPT que convierte cerca de 1.5 veces lo que su búsqueda orgánica.",
+          "mini_headline": "El plugin de Radisson en ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/sponsored-multimedia-ads-digiday.001.jpeg",
-                "cap": "La cobertura de Digiday sobre Advertising Week in New York."
+                "t": "p",
+                "x": "Gracias a su alianza con Accenture Song, Radisson Hotel Group usa tecnología de OpenAI para llegar a los huéspedes en una fase más temprana de la planificación del viaje. El plugin Radisson Hotels ChatGPT ayuda a los viajeros a comparar hoteles y explorar opciones de viaje, y los primeros resultados muestran una conversión de reservas de aproximadamente 1.5 veces la de la búsqueda orgánica de Radisson."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media se ha asociado con la plataforma publicitaria Rembrand en lo que describe como una capacidad pionera en el mercado, que permite a las marcas identificar, planificar y activar emplazamientos dentro de contenido premium en streaming."
+                "x": "Con ayuda del desarrollo con agentes, el equipo creó y lanzó el plugin en solo seis semanas. Permite ver sugerencias de Radisson Hotel en un mapa, comparar precios y consultar en detalle los servicios del hotel directamente en ChatGPT, para luego pasar al sitio de Radisson y completar la reserva."
               },
               {
                 "t": "p",
-                "x": "Ambas partes planean usar la plataforma VISTA de Rembrand, que emplea IA para rastrear el contenido de los editores e identificar escenas que pueden monetizarse. Content Collective, la unidad de contenido de marca de Omnicom Media, integra después esos emplazamientos en el contenido. El objetivo es dar escala al emplazamiento dentro del contenido, más allá de casos aislados."
+                "x": "Tras una actualización reciente de ChatGPT, los usuarios ya no tienen que escribir @RadissonHotels; si el plugin está instalado, ChatGPT lo muestra automáticamente cuando es relevante."
               },
               {
                 "t": "p",
-                "x": "Omnicom Media elige los programas para una marca con su producto de audiencias RealID dentro de Acxiom, cruzado con datos de audiencia de las plataformas de streaming, y luego lo contrasta con las oportunidades que aparecen en VISTA. Un cliente de productos de consumo envasado podría incorporarse a un episodio de un reality de cocina después de haberse producido y rodado. Digiday observa que la idea no es nueva, pero hacerlo después de la producción sí lo es."
-              },
-              {
-                "t": "p",
-                "x": "Digiday informa de que la red de medios del grupo sigue negociando con varias compañías que operan servicios de streaming, y no pudo nombrar a ninguna. Megan Pagliuca, directora de producto para Norteamérica, dijo que es la primera vez que el lado comprador usa esta capacidad, históricamente una tecnología del lado vendedor, y la calificó de capacidad todavía incipiente."
-              },
-              {
-                "t": "p",
-                "x": "Una investigación propia de Omnicom Media con Rembrand, y no un estudio independiente, halló que los emplazamientos dentro del contenido combinados con anuncios de video tradicionales elevaron 5.5 veces el recuerdo del mensaje y cuadruplicaron tanto la intención de compra como la percepción de la marca como premium."
+                "x": "Radisson también figura entre los pioneros de la hostelería que publican anuncios patrocinados en ChatGPT. Más de la mitad de los eventos de pago y reserva registrados en la campaña se atribuyeron mediante medición view-through. El servidor MCP y las APIs que Accenture desarrolló para el plugin también impulsan la experiencia publicitaria."
               }
             ]
           }
@@ -1451,371 +1311,321 @@
       }
     },
     {
-      "id": "gap-shopping-agents",
+      "id": "marketing-trafficguard-chatgpt-ad-invalid-clicks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
-      "mini_headline": "Gap에 등장한 쇼핑 에이전트",
-      "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
+      "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
+      "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
+      "mini_headline": "ChatGPT 광고 무효 클릭",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
-      "accent": "#3b6bff",
+      "source": "PPC Land",
+      "url": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
+      "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-            "cap": "2026년 6월 샌프란시스코 Marina 지구의 Gap 매장."
+            "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+            "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
           },
           {
             "t": "p",
-            "x": "Gap Inc.가 AI로 만든 쇼핑 도구들을 전 브랜드에 선보인다. 같은 이름의 Gap 브랜드로 첫 온라인 스토어를 연 지 30년 만이다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-            "cap": "1996년 문을 연 Gap의 첫 온라인 스토어. 사진 제공 Gap."
+            "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard가 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석했다. 무효 비율은 광고주에 따라 0.1%에서 34%까지 벌어졌고, 무효로 분류된 클릭의 47%는 호스팅·프록시 네트워크 네 곳에서 나왔다."
           },
           {
             "t": "p",
-            "x": "월요일부터 Gap 고객은 외부 플랫폼 두 곳에서 상품을 찾을 수 있다. Alta Daily는 이용자의 일정과 예산, 일기예보 같은 변수를 모아 옷차림을 추천하고, 브랜드 상품은 물론 이미 옷장에 있는 옷도 함께 꺼내 보여준다. Daydream은 일상적인 말을 받아 패션 아이디어로 돌려주며, Gap과 Banana Republic, Old Navy, Athleta까지 Gap Inc.의 네 개 브랜드를 모두 다룬다."
+            "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 들어왔다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
           },
           {
             "t": "p",
-            "x": "Old Navy와 Banana Republic 고객은 두 브랜드의 웹사이트와 앱에 있는 대화형 쇼핑 에이전트에게 찾는 물건을 평소 말투로 설명할 수 있다."
+            "x": "네 네트워크가 세 주 동안 보낸 클릭은 899건으로, 광고주 47곳 중 25곳에 닿았고 무효 클릭 1,592건 중 742건을 만들어 냈다. 호스팅, residential-proxy 또는 악성 IP 대역에서 온 ChatGPT 클릭은 1,336건(3.34%)이었다. 같은 광고주의 Google Ads에서는 이 비율이 0.92%에 그쳤다."
           },
           {
             "t": "p",
-            "x": "최고기술책임자 Sven Gerjets는 쇼핑객이 AI가 거드는 쇼핑 경험을 경계하거나 실망하기도 한다는 점을 안다고 말한다. Retail Dive는 지난달 SmartCustomer 조사에서 소비자가 AI의 도움을 받아 산 뒤 후회한 구매의 45%가 의류와 신발이었다는 결과와, Synchrony와 Oxford Economics 연구에서 소비자가 이미 믿고 쓰는 소매업체에서는 AI를 끼고 살 가능성이 높지만 자기 데이터가 어떻게 쓰이는지는 경계한다는 결과를 함께 전한다."
+            "x": "TrafficGuard가 센 것은 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭이다. 이 회사는 클릭 검증을 파는 곳이라, 이번 결과에는 상업적 이해관계가 걸려 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gap puts shopping agents\nin front of buyers",
-          "body": "Gap Inc. is putting conversational shopping agents in front of customers at Old Navy and Banana Republic.",
-          "mini_headline": "Shopping agents at Gap",
+          "headline": "Up to 34% of some ChatGPT\nad clicks flagged invalid",
+          "body": "TrafficGuard says four proxy and hosting networks reached 25 of 47 advertisers and drove 47% of flagged ChatGPT clicks.",
+          "mini_headline": "ChatGPT ad clicks flagged",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "Gap's store in the Marina district of San Francisco in June 2026."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "Four hollow suits in twelve: up to a third of clicks on some ChatGPT ads were invalid"
               },
               {
                 "t": "p",
-                "x": "Gap Inc. is unveiling a suite of shopping tools built on AI across all of its brands, thirty years after it launched the first online store for its namesake Gap brand."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "Gap's first online store at its debut in 1996. Courtesy of Gap."
+                "x": "TrafficGuard, the ad verification platform owned by Adveritas Ltd, said an analysis of 40,021 clicks on OpenAI's ChatGPT ads found invalid rates between 0.1% and 34% depending on the advertiser, with four hosting and proxy networks behind 47% of the flagged clicks."
               },
               {
                 "t": "p",
-                "x": "From Monday, Gap customers can discover items through two outside platforms. Alta Daily curates outfit suggestions from variables including a user's schedule, budget and the weather forecast, and can surface items from a shopper's existing wardrobe as well as brands' assortments. Daydream takes everyday language and returns fashion ideas, with access to all four Gap Inc. brands: Gap, Banana Republic, Old Navy and Athleta."
+                "x": "The clicks landed on 78 websites run by 47 enterprise advertisers between August 24 and September 14, 2026. On the worst-hit account, according to chief executive Mathew Ratty, \"nearly 90% of flagged clicks came from server infrastructure with no human user behind it.\""
               },
               {
                 "t": "p",
-                "x": "Old Navy and Banana Republic customers can describe what they are looking for in natural language to conversational shopping agents on those two brands' websites and apps."
+                "x": "The four networks sent 899 clicks in three weeks, reached 25 of the 47 advertisers and produced 742 of the 1,592 invalid clicks. 1,336 ChatGPT clicks (3.34%) came from hosting, residential-proxy or malicious IP space, against 0.92% on the same advertisers' Google Ads."
               },
               {
                 "t": "p",
-                "x": "Sven Gerjets, chief technology officer, says he is aware shoppers can be wary of or even disappointed by shopping experiences assisted by AI. Retail Dive cites a SmartCustomer survey last month finding 45% of purchases consumers regret making with AI help were apparel and footwear, and research from Synchrony and Oxford Economics finding consumers are more likely to shop with AI at retailers they already trust, but are wary of how their data is used."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
-          "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
-          "mini_headline": "Gap에 등장한 쇼핑 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026년 6월 샌프란시스코 Marina 지구의 Gap 매장."
-              },
-              {
-                "t": "p",
-                "x": "Gap Inc.가 AI로 만든 쇼핑 도구들을 전 브랜드에 선보인다. 같은 이름의 Gap 브랜드로 첫 온라인 스토어를 연 지 30년 만이다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996년 문을 연 Gap의 첫 온라인 스토어. 사진 제공 Gap."
-              },
-              {
-                "t": "p",
-                "x": "월요일부터 Gap 고객은 외부 플랫폼 두 곳에서 상품을 찾을 수 있다. Alta Daily는 이용자의 일정과 예산, 일기예보 같은 변수를 모아 옷차림을 추천하고, 브랜드 상품은 물론 이미 옷장에 있는 옷도 함께 꺼내 보여준다. Daydream은 일상적인 말을 받아 패션 아이디어로 돌려주며, Gap과 Banana Republic, Old Navy, Athleta까지 Gap Inc.의 네 개 브랜드를 모두 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "Old Navy와 Banana Republic 고객은 두 브랜드의 웹사이트와 앱에 있는 대화형 쇼핑 에이전트에게 찾는 물건을 평소 말투로 설명할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "최고기술책임자 Sven Gerjets는 쇼핑객이 AI가 거드는 쇼핑 경험을 경계하거나 실망하기도 한다는 점을 안다고 말한다. Retail Dive는 지난달 SmartCustomer 조사에서 소비자가 AI의 도움을 받아 산 뒤 후회한 구매의 45%가 의류와 신발이었다는 결과와, Synchrony와 Oxford Economics 연구에서 소비자가 이미 믿고 쓰는 소매업체에서는 AI를 끼고 살 가능성이 높지만 자기 데이터가 어떻게 쓰이는지는 경계한다는 결과를 함께 전한다."
+                "x": "TrafficGuard's figures count clicks that reached advertisers' websites, not clicks billed by OpenAI, and the company sells click verification, so the findings come from a party with a commercial interest."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Gap、買い物エージェントを\n顧客の前に置く",
-          "body": "Gap Inc.はOld NavyとBanana Republicに買物エージェントを置く。",
-          "mini_headline": "Gapの買い物エージェント",
+          "headline": "ChatGPT広告クリック\n一部で最大34%が無効",
+          "body": "TrafficGuardによればChatGPT無効クリックの47%は四つのネットワーク発だ。",
+          "mini_headline": "ChatGPT広告クリックに無効判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026年6月、サンフランシスコのMarina地区にあるGapの店舗。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "十二着のうち四着は中身のないスーツ。一部のChatGPT広告では、クリックの最大三分の一が無効だった"
               },
               {
                 "t": "p",
-                "x": "Gap Inc.は、AIを土台にした買い物ツール群を全ブランドで公開する。同名のGapブランドで初のオンラインストアを開いてから30年になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996年の公開時のGap初のオンラインストア。写真提供:Gap。"
+                "x": "Adveritas Ltdが所有する広告検証プラットフォームTrafficGuardは、OpenAIのChatGPT広告に対する40,021件のクリックを分析した結果、無効率は広告主によって0.1%から34%で、無効と判定されたクリックの47%は四つのホスティング・プロキシネットワークによるものだったと発表した。"
               },
               {
                 "t": "p",
-                "x": "月曜から、Gapの客は二つの外部プラットフォームで商品を探せる。Alta Dailyは、利用者の予定や予算、天気予報といった変数から着こなしを提案し、ブランドの品ぞろえに加えて手持ちの服も引き出せる。Daydreamは日常の言葉を受け取ってファッションの案を返し、Gap、Banana Republic、Old Navy、AthletaというGap Inc.の四ブランドすべてを扱う。"
+                "x": "クリックは2026年8月24日から9月14日にかけて、47社の大手広告主が運営する78のウェブサイトに着地した。最高経営責任者Mathew Rattyによると、最も被害の大きいアカウントでは「判定されたクリックの90%近くが、背後に人間のユーザーがいないサーバーインフラから来ていた」。"
               },
               {
                 "t": "p",
-                "x": "Old NavyとBanana Republicの客は、両ブランドのサイトとアプリにある対話型の買い物エージェントに、探しているものを普段の言葉で伝えられる。"
+                "x": "四つのネットワークは三週間で899件のクリックを送り、47社中25社の広告主に到達し、1,592件の無効クリックのうち742件を生み出した。ChatGPTのクリック1,336件(3.34%)がホスティング、residential-proxy、または悪意あるIP空間からのもので、同じ広告主のGoogle Adsでは0.92%だった。"
               },
               {
                 "t": "p",
-                "x": "最高技術責任者のSven Gerjetsは、AIが手を貸す買い物体験に客が身構えたり、落胆したりすることがあるのは承知していると語る。Retail Diveは、先月のSmartCustomerの調査で、AIの助けを借りて買って後悔した買い物の45%が衣料品と靴だったこと、またSynchronyとOxford Economicsの調査で、消費者はすでに信頼している小売業者ではAIを使って買いやすい一方、自分のデータの扱いには警戒していることを挙げている。"
+                "x": "TrafficGuardの数値はOpenAIが課金したクリックではなく、広告主のウェブサイトに到達したクリックを数えたものだ。また同社はクリック検証を販売しており、調査結果は商業的利害を持つ当事者によるものである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gap把购物智能体\n摆到顾客面前",
-          "body": "Gap Inc.在Old Navy和Banana Republic向顾客推出购物智能体。",
-          "mini_headline": "Gap的购物智能体",
+          "headline": "部分ChatGPT广告点击\n最高34%被判无效",
+          "body": "TrafficGuard称四个网络触及47家中25家广告主，占ChatGPT标记点击47%。",
+          "mini_headline": "ChatGPT广告点击被标记",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026年6月，旧金山Marina街区的Gap门店。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "十二套西装里有四套是空的：部分ChatGPT广告中，最多三分之一的点击无效"
               },
               {
                 "t": "p",
-                "x": "Gap Inc.正面向旗下所有品牌推出一套基于AI的购物工具，距其为同名品牌Gap开出第一家网上商店已有三十年。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996年上线时的Gap首个网上商店。图片由Gap提供。"
+                "x": "Adveritas Ltd旗下的广告验证平台TrafficGuard表示，对OpenAI的ChatGPT广告40,021次点击的分析发现，不同广告主的无效率在0.1%至34%之间，被标记点击中有47%来自四个托管和代理网络。"
               },
               {
                 "t": "p",
-                "x": "从周一起，Gap的顾客可以通过两个外部平台发现商品。Alta Daily根据用户的日程、预算和天气预报等变量整理穿搭建议，既能推荐品牌货品，也能调出顾客衣柜里已有的单品。Daydream接收日常语言并给出穿搭想法，可访问Gap Inc.旗下全部四个品牌：Gap、Banana Republic、Old Navy和Athleta。"
+                "x": "这些点击于2026年8月24日至9月14日期间落在47家企业广告主运营的78个网站上。据首席执行官Mathew Ratty称，在受影响最严重的账户中，“近90%的被标记点击来自背后没有真人用户的服务器基础设施。”"
               },
               {
                 "t": "p",
-                "x": "Old Navy和Banana Republic的顾客，可以在这两个品牌的网站和应用上，用自然语言向对话式购物智能体描述自己想要什么。"
+                "x": "这四个网络在三周内发送了899次点击，触及47家广告主中的25家，产生了1,592次无效点击中的742次。共有1,336次ChatGPT点击（3.34%）来自托管、residential-proxy或恶意IP地址空间，而同一批广告主在Google Ads上的这一比例为0.92%。"
               },
               {
                 "t": "p",
-                "x": "首席技术官Sven Gerjets表示，他清楚购物者对AI辅助的购物体验可能心存戒备，甚至感到失望。Retail Dive援引SmartCustomer上月的调查称，消费者在AI帮助下完成、事后感到后悔的购买中，有45%是服装和鞋类；Synchrony与Oxford Economics的研究则发现，消费者更愿意在自己已经信任的零售商处借助AI购物，但对自身数据的使用方式心存顾虑。"
+                "x": "TrafficGuard的数据统计的是到达广告主网站的点击，而非OpenAI计费的点击，且该公司本身销售点击验证服务，因此这些结论来自存在商业利益的一方。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gap pone agentes de compra\ndelante de los clientes",
-          "body": "Gap Inc. pone agentes de compra conversacionales ante los clientes de Old Navy y Banana Republic.",
-          "mini_headline": "Agentes de compra en Gap",
+          "headline": "Hasta 34% de clics en anuncios\nde ChatGPT, marcados inválidos",
+          "body": "Según TrafficGuard, cuatro redes llegaron a 25 de 47 anunciantes y generaron el 47% de los clics marcados de ChatGPT.",
+          "mini_headline": "Clics en anuncios de ChatGPT, marcados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "La tienda de Gap en el distrito Marina de San Francisco, en junio de 2026."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "Cuatro trajes vacíos de doce: hasta un tercio de los clics en algunos anuncios de ChatGPT fueron inválidos"
               },
               {
                 "t": "p",
-                "x": "Gap Inc. presenta un conjunto de herramientas de compra basadas en IA en todas sus marcas, treinta años después de abrir la primera tienda en línea de su marca homónima, Gap."
+                "x": "TrafficGuard, la plataforma de verificación publicitaria propiedad de Adveritas Ltd, afirmó que un análisis de 40,021 clics en anuncios de ChatGPT de OpenAI halló tasas de invalidez de entre el 0.1% y el 34% según el anunciante, con cuatro redes de hosting y proxy detrás del 47% de los clics marcados."
               },
+              {
+                "t": "p",
+                "x": "Los clics llegaron a 78 sitios web gestionados por 47 grandes anunciantes entre el 24 de agosto y el 14 de septiembre de 2026. En la cuenta más afectada, según el consejero delegado Mathew Ratty, \"casi el 90% de los clics marcados procedía de infraestructura de servidores sin ningún usuario humano detrás\"."
+              },
+              {
+                "t": "p",
+                "x": "Las cuatro redes enviaron 899 clics en tres semanas, llegaron a 25 de los 47 anunciantes y produjeron 742 de los 1,592 clics inválidos. 1,336 clics de ChatGPT (3.34%) procedían de espacio IP de hosting, residential-proxy o malicioso, frente al 0.92% en Google Ads de los mismos anunciantes."
+              },
+              {
+                "t": "p",
+                "x": "Las cifras de TrafficGuard cuentan los clics que llegaron a los sitios web de los anunciantes, no los facturados por OpenAI, y la empresa vende verificación de clics, por lo que los resultados proceden de una parte con un interés comercial."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
+          "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
+          "mini_headline": "ChatGPT 광고 무효 클릭",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "La primera tienda en línea de Gap en su estreno, en 1996. Cortesía de Gap."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
               },
               {
                 "t": "p",
-                "x": "Desde el lunes, los clientes de Gap pueden descubrir prendas a través de dos plataformas externas. Alta Daily arma propuestas de conjuntos a partir de variables como la agenda del usuario, su presupuesto y el pronóstico del tiempo, y puede mostrar prendas del armario del propio comprador además de los surtidos de las marcas. Daydream recibe lenguaje cotidiano y devuelve ideas de moda, con acceso a las cuatro marcas de Gap Inc.: Gap, Banana Republic, Old Navy y Athleta."
+                "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard가 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석했다. 무효 비율은 광고주에 따라 0.1%에서 34%까지 벌어졌고, 무효로 분류된 클릭의 47%는 호스팅·프록시 네트워크 네 곳에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "Los clientes de Old Navy y Banana Republic pueden describir en lenguaje natural lo que buscan a los agentes de compra conversacionales en los sitios web y las aplicaciones de esas dos marcas."
+                "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 들어왔다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
               },
               {
                 "t": "p",
-                "x": "Sven Gerjets, director de tecnología, dice que es consciente de que los compradores pueden desconfiar de las experiencias de compra asistidas por IA, e incluso quedar decepcionados. Retail Dive cita una encuesta de SmartCustomer del mes pasado según la cual el 45% de las compras de las que los consumidores se arrepienten tras usar ayuda de IA fueron de ropa y calzado, y una investigación de Synchrony y Oxford Economics que concluye que los consumidores son más propensos a comprar con IA en minoristas en los que ya confían, aunque recelan del uso que se hace de sus datos."
+                "x": "네 네트워크가 세 주 동안 보낸 클릭은 899건으로, 광고주 47곳 중 25곳에 닿았고 무효 클릭 1,592건 중 742건을 만들어 냈다. 호스팅, residential-proxy 또는 악성 IP 대역에서 온 ChatGPT 클릭은 1,336건(3.34%)이었다. 같은 광고주의 Google Ads에서는 이 비율이 0.92%에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "TrafficGuard가 센 것은 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭이다. 이 회사는 클릭 검증을 파는 곳이라, 이번 결과에는 상업적 이해관계가 걸려 있다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Gap, 쇼핑 에이전트를\n고객 앞에 세운다",
-          "body": "Gap Inc.가 Old Navy와 Banana Republic에 에이전트를 둔다.",
-          "mini_headline": "Gap에 등장한 쇼핑 에이전트",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026년 6월 샌프란시스코 Marina 지구의 Gap 매장."
-              },
-              {
-                "t": "p",
-                "x": "Gap Inc.가 AI로 만든 쇼핑 도구들을 전 브랜드에 선보인다. 같은 이름의 Gap 브랜드로 첫 온라인 스토어를 연 지 30년 만이다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996년 문을 연 Gap의 첫 온라인 스토어. 사진 제공 Gap."
-              },
-              {
-                "t": "p",
-                "x": "월요일부터 Gap 고객은 외부 플랫폼 두 곳에서 상품을 찾을 수 있다. Alta Daily는 이용자의 일정과 예산, 일기예보 같은 변수를 모아 옷차림을 추천하고, 브랜드 상품은 물론 이미 옷장에 있는 옷도 함께 꺼내 보여준다. Daydream은 일상적인 말을 받아 패션 아이디어로 돌려주며, Gap과 Banana Republic, Old Navy, Athleta까지 Gap Inc.의 네 개 브랜드를 모두 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "Old Navy와 Banana Republic 고객은 두 브랜드의 웹사이트와 앱에 있는 대화형 쇼핑 에이전트에게 찾는 물건을 평소 말투로 설명할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "최고기술책임자 Sven Gerjets는 쇼핑객이 AI가 거드는 쇼핑 경험을 경계하거나 실망하기도 한다는 점을 안다고 말한다. Retail Dive는 지난달 SmartCustomer 조사에서 소비자가 AI의 도움을 받아 산 뒤 후회한 구매의 45%가 의류와 신발이었다는 결과와, Synchrony와 Oxford Economics 연구에서 소비자가 이미 믿고 쓰는 소매업체에서는 AI를 끼고 살 가능성이 높지만 자기 데이터가 어떻게 쓰이는지는 경계한다는 결과를 함께 전한다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "Gap、買い物エージェントを\n顧客の前に置く",
-          "body": "Gap Inc.はOld NavyとBanana Republicに買物エージェントを置く。",
-          "mini_headline": "Gapの買い物エージェント",
+          "headline": "ChatGPT広告クリック\n一部で最大34%が無効",
+          "body": "TrafficGuardによればChatGPT無効クリックの47%は四つのネットワーク発だ。",
+          "mini_headline": "ChatGPT広告クリックに無効判定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026年6月、サンフランシスコのMarina地区にあるGapの店舗。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "十二着のうち四着は中身のないスーツ。一部のChatGPT広告では、クリックの最大三分の一が無効だった"
               },
               {
                 "t": "p",
-                "x": "Gap Inc.は、AIを土台にした買い物ツール群を全ブランドで公開する。同名のGapブランドで初のオンラインストアを開いてから30年になる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996年の公開時のGap初のオンラインストア。写真提供:Gap。"
+                "x": "Adveritas Ltdが所有する広告検証プラットフォームTrafficGuardは、OpenAIのChatGPT広告に対する40,021件のクリックを分析した結果、無効率は広告主によって0.1%から34%で、無効と判定されたクリックの47%は四つのホスティング・プロキシネットワークによるものだったと発表した。"
               },
               {
                 "t": "p",
-                "x": "月曜から、Gapの客は二つの外部プラットフォームで商品を探せる。Alta Dailyは、利用者の予定や予算、天気予報といった変数から着こなしを提案し、ブランドの品ぞろえに加えて手持ちの服も引き出せる。Daydreamは日常の言葉を受け取ってファッションの案を返し、Gap、Banana Republic、Old Navy、AthletaというGap Inc.の四ブランドすべてを扱う。"
+                "x": "クリックは2026年8月24日から9月14日にかけて、47社の大手広告主が運営する78のウェブサイトに着地した。最高経営責任者Mathew Rattyによると、最も被害の大きいアカウントでは「判定されたクリックの90%近くが、背後に人間のユーザーがいないサーバーインフラから来ていた」。"
               },
               {
                 "t": "p",
-                "x": "Old NavyとBanana Republicの客は、両ブランドのサイトとアプリにある対話型の買い物エージェントに、探しているものを普段の言葉で伝えられる。"
+                "x": "四つのネットワークは三週間で899件のクリックを送り、47社中25社の広告主に到達し、1,592件の無効クリックのうち742件を生み出した。ChatGPTのクリック1,336件(3.34%)がホスティング、residential-proxy、または悪意あるIP空間からのもので、同じ広告主のGoogle Adsでは0.92%だった。"
               },
               {
                 "t": "p",
-                "x": "最高技術責任者のSven Gerjetsは、AIが手を貸す買い物体験に客が身構えたり、落胆したりすることがあるのは承知していると語る。Retail Diveは、先月のSmartCustomerの調査で、AIの助けを借りて買って後悔した買い物の45%が衣料品と靴だったこと、またSynchronyとOxford Economicsの調査で、消費者はすでに信頼している小売業者ではAIを使って買いやすい一方、自分のデータの扱いには警戒していることを挙げている。"
+                "x": "TrafficGuardの数値はOpenAIが課金したクリックではなく、広告主のウェブサイトに到達したクリックを数えたものだ。また同社はクリック検証を販売しており、調査結果は商業的利害を持つ当事者によるものである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gap把购物智能体\n摆到顾客面前",
-          "body": "Gap Inc.在Old Navy和Banana Republic向顾客推出购物智能体。",
-          "mini_headline": "Gap的购物智能体",
+          "headline": "部分ChatGPT广告点击\n最高34%被判无效",
+          "body": "TrafficGuard称四个网络触及47家中25家广告主，占ChatGPT标记点击47%。",
+          "mini_headline": "ChatGPT广告点击被标记",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "2026年6月，旧金山Marina街区的Gap门店。"
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "十二套西装里有四套是空的：部分ChatGPT广告中，最多三分之一的点击无效"
               },
               {
                 "t": "p",
-                "x": "Gap Inc.正面向旗下所有品牌推出一套基于AI的购物工具，距其为同名品牌Gap开出第一家网上商店已有三十年。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "1996年上线时的Gap首个网上商店。图片由Gap提供。"
+                "x": "Adveritas Ltd旗下的广告验证平台TrafficGuard表示，对OpenAI的ChatGPT广告40,021次点击的分析发现，不同广告主的无效率在0.1%至34%之间，被标记点击中有47%来自四个托管和代理网络。"
               },
               {
                 "t": "p",
-                "x": "从周一起，Gap的顾客可以通过两个外部平台发现商品。Alta Daily根据用户的日程、预算和天气预报等变量整理穿搭建议，既能推荐品牌货品，也能调出顾客衣柜里已有的单品。Daydream接收日常语言并给出穿搭想法，可访问Gap Inc.旗下全部四个品牌：Gap、Banana Republic、Old Navy和Athleta。"
+                "x": "这些点击于2026年8月24日至9月14日期间落在47家企业广告主运营的78个网站上。据首席执行官Mathew Ratty称，在受影响最严重的账户中，“近90%的被标记点击来自背后没有真人用户的服务器基础设施。”"
               },
               {
                 "t": "p",
-                "x": "Old Navy和Banana Republic的顾客，可以在这两个品牌的网站和应用上，用自然语言向对话式购物智能体描述自己想要什么。"
+                "x": "这四个网络在三周内发送了899次点击，触及47家广告主中的25家，产生了1,592次无效点击中的742次。共有1,336次ChatGPT点击（3.34%）来自托管、residential-proxy或恶意IP地址空间，而同一批广告主在Google Ads上的这一比例为0.92%。"
               },
               {
                 "t": "p",
-                "x": "首席技术官Sven Gerjets表示，他清楚购物者对AI辅助的购物体验可能心存戒备，甚至感到失望。Retail Dive援引SmartCustomer上月的调查称，消费者在AI帮助下完成、事后感到后悔的购买中，有45%是服装和鞋类；Synchrony与Oxford Economics的研究则发现，消费者更愿意在自己已经信任的零售商处借助AI购物，但对自身数据的使用方式心存顾虑。"
+                "x": "TrafficGuard的数据统计的是到达广告主网站的点击，而非OpenAI计费的点击，且该公司本身销售点击验证服务，因此这些结论来自存在商业利益的一方。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gap pone agentes de compra\ndelante de los clientes",
-          "body": "Gap Inc. pone agentes de compra conversacionales ante los clientes de Old Navy y Banana Republic.",
-          "mini_headline": "Agentes de compra en Gap",
+          "headline": "Hasta 34% de clics en anuncios\nde ChatGPT, marcados inválidos",
+          "body": "Según TrafficGuard, cuatro redes llegaron a 25 de 47 anunciantes y generaron el 47% de los clics marcados de ChatGPT.",
+          "mini_headline": "Clics en anuncios de ChatGPT, marcados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/Im9HKtXeGOCvq15g8pMTGIksQ6-47nWBqJImoXRCamQ/g:nowe:56:1373/c:1936:1094/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJpbmFfR2FwXzEuanBn.webp",
-                "cap": "La tienda de Gap en el distrito Marina de San Francisco, en junio de 2026."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "Cuatro trajes vacíos de doce: hasta un tercio de los clics en algunos anuncios de ChatGPT fueron inválidos"
               },
               {
                 "t": "p",
-                "x": "Gap Inc. presenta un conjunto de herramientas de compra basadas en IA en todas sus marcas, treinta años después de abrir la primera tienda en línea de su marca homónima, Gap."
+                "x": "TrafficGuard, la plataforma de verificación publicitaria propiedad de Adveritas Ltd, afirmó que un análisis de 40,021 clics en anuncios de ChatGPT de OpenAI halló tasas de invalidez de entre el 0.1% y el 34% según el anunciante, con cuatro redes de hosting y proxy detrás del 47% de los clics marcados."
               },
+              {
+                "t": "p",
+                "x": "Los clics llegaron a 78 sitios web gestionados por 47 grandes anunciantes entre el 24 de agosto y el 14 de septiembre de 2026. En la cuenta más afectada, según el consejero delegado Mathew Ratty, \"casi el 90% de los clics marcados procedía de infraestructura de servidores sin ningún usuario humano detrás\"."
+              },
+              {
+                "t": "p",
+                "x": "Las cuatro redes enviaron 899 clics en tres semanas, llegaron a 25 de los 47 anunciantes y produjeron 742 de los 1,592 clics inválidos. 1,336 clics de ChatGPT (3.34%) procedían de espacio IP de hosting, residential-proxy o malicioso, frente al 0.92% en Google Ads de los mismos anunciantes."
+              },
+              {
+                "t": "p",
+                "x": "Las cifras de TrafficGuard cuentan los clics que llegaron a los sitios web de los anunciantes, no los facturados por OpenAI, y la empresa vende verificación de clics, por lo que los resultados proceden de una parte con un interés comercial."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
+          "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
+          "mini_headline": "ChatGPT 광고 무효 클릭",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/fZPWjnJWgIYvrYPsZjoQyYbtOHpRc5qE7CDwzLRdYp8/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9nYXBfMXN0X3dlYnNpdGUucG5n.webp",
-                "cap": "La primera tienda en línea de Gap en su estreno, en 1996. Cortesía de Gap."
+                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
+                "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
               },
               {
                 "t": "p",
-                "x": "Desde el lunes, los clientes de Gap pueden descubrir prendas a través de dos plataformas externas. Alta Daily arma propuestas de conjuntos a partir de variables como la agenda del usuario, su presupuesto y el pronóstico del tiempo, y puede mostrar prendas del armario del propio comprador además de los surtidos de las marcas. Daydream recibe lenguaje cotidiano y devuelve ideas de moda, con acceso a las cuatro marcas de Gap Inc.: Gap, Banana Republic, Old Navy y Athleta."
+                "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard는 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석한 결과 광고주에 따라 무효 비율이 0.1%에서 34%까지 나왔고, 무효로 분류된 클릭의 47%가 호스팅·프록시 네트워크 네 곳에서 나왔다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Los clientes de Old Navy y Banana Republic pueden describir en lenguaje natural lo que buscan a los agentes de compra conversacionales en los sitios web y las aplicaciones de esas dos marcas."
+                "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 유입됐다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
               },
               {
                 "t": "p",
-                "x": "Sven Gerjets, director de tecnología, dice que es consciente de que los compradores pueden desconfiar de las experiencias de compra asistidas por IA, e incluso quedar decepcionados. Retail Dive cita una encuesta de SmartCustomer del mes pasado según la cual el 45% de las compras de las que los consumidores se arrepienten tras usar ayuda de IA fueron de ropa y calzado, y una investigación de Synchrony y Oxford Economics que concluye que los consumidores son más propensos a comprar con IA en minoristas en los que ya confían, aunque recelan del uso que se hace de sus datos."
+                "x": "네 네트워크는 세 주 동안 899건의 클릭을 보내 광고주 47곳 중 25곳에 닿았고, 무효 클릭 1,592건 중 742건을 만들었다. ChatGPT 클릭 1,336건(3.34%)이 호스팅, residential-proxy 또는 악성 IP 대역에서 왔는데, 같은 광고주의 Google Ads에서는 이 비율이 0.92%였다."
+              },
+              {
+                "t": "p",
+                "x": "TrafficGuard의 수치는 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭을 센 것이다. 또 이 회사는 클릭 검증을 판매하므로, 이번 결과는 상업적 이해관계가 있는 쪽에서 나온 것이다."
               }
             ]
           }

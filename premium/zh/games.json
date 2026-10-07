@@ -5985,6 +5985,110 @@
           "x": "你来掌舵，它来动手。"
         }
       ]
+    },
+    "games/games-astrocade-10m-monthly-users": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+          "cap": "© Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "Astrocade是一个以AI-generated游戏和体验为核心的免费在线平台，如今月度用户已达10M。CEO Amir Sadeghian对Gamesbeat表示，平台仅在过去四个月就从约五百万增长到10M。与Roblox类似，任何人都能用它的AI工具制作游戏，其他用户则可以游玩。"
+        },
+        {
+          "t": "p",
+          "x": "“我们作为平台存在的全部意义，就在于让每个人都能创作的AI创作工具。”Sadeghian说。公司正准备推出iOS应用，并在美国（United States）大力开展营销。"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+          "cap": "©Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "最受欢迎的游戏中，许多是Minecraft克隆作、使用受版权保护角色的游戏，以及Steal a Brainrot等Roblox热门作品的仿制品，美术全是AI垃圾内容，但其中一些游玩次数达到数十万甚至数百万。与TikTok一样，这些游戏采用竖屏，通过无尽的算法信息流推送；Sadeghian称之为“playables”。"
+        },
+        {
+          "t": "p",
+          "x": "“AI现在写代码的能力好像比很多工程师都强，”这位CEO说，“甚至一些3D素材也已经到了很难分辨的程度。”"
+        }
+      ]
+    },
+    "games/games-minecraft-x-twitter-ai-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "AI电子游戏克隆的热潮仍在快速蔓延。X用户jaivin用AI让Mojang的Minecraft能在X / Twitter帖子中运行并支持多人联机，还允许人们用加密货币购买游戏内赞助。"
+        },
+        {
+          "t": "p",
+          "x": "“Tweetcraft是帖子里的方块游戏：每个世界都是X上的一个链接，打开它的人都会一起玩，”官方简介写道，“把你的广告放在服务器列表顶部、某个世界的赞助排行榜上，或者把你的标志放在Block Dragon身上。”这款基于浏览器的克隆会把所有点击某个世界链接的人放进同一个实时会话。"
+        },
+        {
+          "t": "p",
+          "x": "这一未经授权的“移植版”发布帖获得了7.4M 次浏览。Jaivin坚称：“Tweetcraft没有使用任何Minecraft资产，与Mojang或Microsoft无关。”"
+        },
+        {
+          "t": "p",
+          "x": "本月（October）已有GTA 5和初代Halo被做成可在浏览器中游玩的版本；GTA 5克隆和一款Fallout: New York游戏已遭下架。随着AI模型日益强大，现有游戏的未授权版本出现所需的时间可能缩短到短短几小时甚至几分钟。"
+        }
+      ]
+    },
+    "games/games-goldhen-ai-ripoff-free-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+          "cap": "© Sony / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "随着氛围编程的AI-slop项目激增，PlayStation越狱和自制软件圈陷入混乱。GitHub上PS5模拟器KytyPS5、SharpEmu和AnyPS5的分叉数在三天内从约1,300个跃升至约1,840个。"
+        },
+        {
+          "t": "p",
+          "x": "如今，备受喜爱的PS4自制软件启用工具GoldHEN的团队，其项目被同为自制软件开发者的Zer0Day盗用并公开发布到网上。他在冗长的README中宣称“代码不应成为牢笼”，“创造力永远不应需要请求许可”。"
+        },
+        {
+          "t": "p",
+          "x": "GoldHEN是闭源项目，约五年来主要由Sistro设计，并有多名维护者参与。Sistro在看到“源代码被可悲地滥用”后将其转为私有。"
+        },
+        {
+          "t": "p",
+          "x": "Zer0Day在X上表示“我不在乎[GoldHEN的]团队怎么想”，并声称自己拥有“言论自由和表达自由的权利”。他在回复中公开承认使用了AI，其已删除的代码中包含诸如“这些是它遍历的标准Elf64结构”之类的注释。"
+        }
+      ]
+    },
+    "games/games-ps-ai-boss": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+          "cap": "PlayStation新专利描述了一套用AI即时改写敌人行为的系统"
+        },
+        {
+          "t": "p",
+          "x": "Patentlyze发现的一项Sony Interactive Entertainment新专利于10月1日公布，内容涉及“利用人工智能适配的非玩家角色改进电子游戏系统”。"
+        },
+        {
+          "t": "p",
+          "x": "该系统分四步运作：收集玩家与NPC遭遇时的数据及游戏数据，输入机器学习模型，得到调整行为、对话和外观的NPC内容，再据此修改游戏内容。专利没有列明具体的模型架构，因此可适用于不同的AI系统，PlayStation自家工作室以外的开发者也可能使用。"
+        },
+        {
+          "t": "p",
+          "x": "Wccftech认为魂类游戏获益最大。单人游戏中的敌人通常遵循预设模式，玩家可以摸清并加以利用；若由AI改写其行为，敌人就能根据玩家的进攻或防守倾向作出调整，多阶段首领甚至可能像格斗游戏的翻盘机制那样，在压力下提前进入第二阶段。"
+        },
+        {
+          "t": "p",
+          "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
+        }
+      ]
     }
   }
 }

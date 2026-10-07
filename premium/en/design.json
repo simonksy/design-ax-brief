@@ -6912,6 +6912,171 @@
           "x": "A rebar modelling agent generates 3D rebar directly from an attached PDF specification. Argus also includes a QA/QC module where users describe rules in plain language and AI creates the corresponding checks. BIMlogiq can also develop specialised agents trained on a firm's past data and designs."
         }
       ]
+    },
+    "design/design-mecagent-v2-gpt6-astra-solidworks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MecAgent has launched the second version of its AI for CAD software, using its agent harness to enlist GPT-6 Astra into powering CAD designs directly within an existing CAD package."
+        },
+        {
+          "t": "p",
+          "x": "The CAD Agent works within an open Solidworks session – capable of Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD and STEP-to-SLDPRT with a reconstructed feature tree – modelling parts, adding them to assemblies, applying materials, and renaming, exporting or writing macros into the feature tree."
+        },
+        {
+          "t": "p",
+          "x": "Other tasks it can run include feature tree cleanup, motion creation from text, translating and exporting CAD files, standards verification, assembly-to-BOM, and creating exploded views, among others."
+        },
+        {
+          "t": "p",
+          "x": "A demo showcases a RC helicopter – some 56 parts, two subassemblies, including motion linking the gears and rotors, but no electronics – being built in under five hours of unmanned runtime."
+        },
+        {
+          "t": "p",
+          "x": "Rather than generating individual parts, MecAgent is moving to tackle extended, multi-stage design tasks inside industry standard parametric CAD software."
+        },
+        {
+          "t": "p",
+          "x": "MecAgent itself describes the broader capability as “spec-to-CAD”. An engineer can provide a set of requirements and have the agent perform the sequence of CAD operations needed to construct the design, rather than explicitly modelling every component."
+        },
+        {
+          "t": "p",
+          "x": "According to MecAgent CPO Alexandre Senet, an Onshape variant is on MecAgent’s roadmap for the coming months, reporting that its existing AI copilot has in excess of 35,000 installs."
+        },
+        {
+          "t": "p",
+          "x": "DEVELOP3D readers can try MecAgent V2.0.0 via its free plan – equipped with 3,000 free tokens."
+        },
+        {
+          "t": "video",
+          "yt": "_twtNuzZw-8"
+        }
+      ]
+    },
+    "design/design-logo-design-agent-skill-svg": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
+        },
+        {
+          "t": "p",
+          "x": "The public, MIT-licensed logo-design-skill repository packages a staged logo-design workflow for Claude Code, Gemini CLI, Codex CLI and other agents that support skills, moving from a brief to tested SVG concepts and, after approval, a broader identity kit."
+        },
+        {
+          "t": "p",
+          "x": "The process begins with a brief and category research, then calls for eight to 12 one-line concepts, of which three are built in SVG and tested. At a mandatory checkpoint the agent shows the directions, recommends one and waits; colour system, lockups, icons and guidelines come only after the user approves a direction."
+        },
+        {
+          "t": "p",
+          "x": "Dependency-free Python utilities audit SVGs, render PNGs and assemble concept sheets and boards. Test sheets cover 16-pixel rendering, one-colour and reversed variants, squint and mirror checks, mockups and a competitor shelf test; it can also export favicon, app-icon and web-manifest assets."
+        },
+        {
+          "t": "p",
+          "x": "A reference library holds more than 1,400 real-world SVG logos classified by mark type, technique, geometry, mood and industry — framed as material for studying construction and avoiding look-alikes, not for copying."
+        },
+        {
+          "t": "p",
+          "x": "Analysis: the approval checkpoint favours reviewable work over unattended completion. Evidence for output quality remains internal — 28 fictional briefs — not independent validation."
+        }
+      ]
+    },
+    "design/design-bounded-delegation-ai-authority": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
+          "cap": "Image created by the author with OpenAI image generation."
+        },
+        {
+          "t": "p",
+          "x": "An AI tool clusters customer comments and names the largest theme “pricing friction”. By the time someone approves its recommendation, the important decision may already have been made. Capability describes what a system can produce; authority concerns what the organisation is prepared to let it decide, shape or set in motion."
+        },
+        {
+          "t": "p",
+          "x": "Gale Robins calls the distinction bounded delegation: AI authority should narrow as impact and accountability increase — broad in generation, inspectable in analysis, narrowest at commitment."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
+          "cap": "AI authority should narrow as consequence and irreversibility increase."
+        },
+        {
+          "t": "p",
+          "x": "Four questions set the boundary: What happens if we are wrong? Who remains accountable? Can the work be inspected? Is this generation, analysis or commitment? “Human in the loop” is not an operating model; teams need deliberate hand-offs."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
+          "cap": "Judgment Points mark where AI-supported exploration becomes human-owned commitment."
+        },
+        {
+          "t": "p",
+          "x": "The Discovery Judgment Framework’s Judgment Points create natural boundaries. Bounded delegation is not an argument for using less AI, but for being more precise about authority."
+        }
+      ]
+    },
+    "design/design-system-coding-agent-experiment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+        },
+        {
+          "t": "p",
+          "x": "The author built a design system before agents started writing UI: three-tier tokens, 14 Angular components, type declarations and an llms.client.txt shipped inside the npm package, plus a token resolver over MCP. Then he asked whether any of it changes what a coding agent produces."
+        },
+        {
+          "t": "p",
+          "x": "The test: one Angular dashboard, a byte-identical prompt, fresh sessions, and five arms — specification and Figma frames only (A), plus a prose styleguide (A′), plus the npm packages (B), plus llms.client.txt (C), plus the MCP resolver (D). Thirty scored runs, with scorers and falsifiers committed in advance."
+        },
+        {
+          "t": "p",
+          "x": "Shipping the system is a step function; writing it down is not. Without the package, the agent hand-writes 12 or 13 of 13 components and the app acquires around 90 custom properties; with it, zero and zero."
+        },
+        {
+          "t": "p",
+          "x": "Accessibility mattered more than consistency: agents got colours right from Figma but shipped serious contrast failures. Agents never hallucinated the component API in 30 runs. Using the library cost more per generation, and the MCP resolver added no measurable improvement over the text file."
+        },
+        {
+          "t": "p",
+          "x": "“The design system does not make the agent smarter or more correct. It decides who ends up owning the code it writes.” The author calls it a case study, not a benchmark."
+        }
+      ]
+    },
+    "design/design-figma-agent-ga": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/db42b5ac107ab5fa407461b3939c98820bba3d2c-3840x2160.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Example prompts hover over a mobile screen"
+        },
+        {
+          "t": "p",
+          "x": "Here’s how teams at Uber, Granola, and Atlassian support high-quality, fast-moving work with the Figma agent, now generally available. Today the agent moves out of beta, better at following instructions and handling longer-running tasks; it wins in ~60%+ of Figma’s human-graded evals with professional designers. Library owners can add guidelines—markdown files that give the agent context on their design system."
+        },
+        {
+          "t": "p",
+          "x": "Uber’s design systems team, which delivers components across seven platforms, built skills like /create-anatomy and /create-color to document its system. Documentation that once took multiple people months now gets published by a single designer in an afternoon."
+        },
+        {
+          "t": "p",
+          "x": "At Granola, Product Designer Paavan Buddhdev uses the Granola connector so the agent annotates the canvas with feedback pulled from meeting notes. “It's been a massive time saver,” he says."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/fb292fd309218dd724a2567f504ff2521e92becb-4284x2536.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Paavan uses the Granola connector with the Figma agent to add feedback on the canvas as annotations."
+        },
+        {
+          "t": "p",
+          "x": "Atlassian turned motion assets into reusable components, with the agent helping designers iterate on easing and duration within its design system. “For designers working with static designs, our skillsets have increased,” says Product Designer Davy Fung."
+        }
+      ]
     }
   }
 }

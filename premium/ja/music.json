@@ -5802,6 +5802,113 @@
           "x": "さらに、曲順の入れ替えやAlbum詳細の編集、リリース前の下書き共有、既存プレイリストのAlbum化、全曲に一つのAlbumカバーを使う方法、公開時に何が起きるか、リリース後のAlbumの検索と編集も取り上げている。"
         }
       ]
+    },
+    "music/music-grok-suno-backend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+          "cap": "写真: Mariia Berezovsky"
+        },
+        {
+          "t": "p",
+          "x": "Elon Muskの短いX投稿によると、「実際に仕事をしてくれるAIチームメイト」を提供するとされるSpaceXAIのGrok Botが、Sunoの音楽生成モデルを正式に使い始める。"
+        },
+        {
+          "t": "p",
+          "x": "「Grok @botに関する重要なお知らせ：今後、@SpaceXはClaude Opus 5.5、MidJourney、Sunoをはじめとする主要なAPIsの中から、タスクごとに最適なバックエンドモデルを使う。最良の結果をもたらす可能性が最も高いものを使う」と同氏は書いた。"
+        },
+        {
+          "t": "p",
+          "x": "Muskは、Grok Botへのリクエストの大半は「かなり単純で、Grok 4.8が出れば、その超高速版が処理する」と付け加えた。その他の詳細はほとんど明らかになっていない。Xのユーザーは提供開始の時期や生成物に付随する権利について質問しており、SunoとMidjourneyには「公式のAPI製品がない」と指摘する声もあった。"
+        },
+        {
+          "t": "p",
+          "x": "一方、ElevenLabsは音楽分野へ進出しており、Sunoは十月の幕開けに「声と音楽をひとつのまとまったトラックとして同時に生成する初のオーディオモデル」であるSpeechを発表した。イタリアでの利用規約をめぐる調査も加わり、Sunoの法廷闘争は続いている。"
+        }
+      ]
+    },
+    "music/music-tencent-music-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+          "cap": "Credit: mundissima / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "中国のAI企業DeepSeekが新たな資金調達ラウンドで少なくともRMB 80 billion（USD $12 billion）の調達に近づいており、Tencent Holdingsが最大の出資者の一つだと、Bloombergが10月6日（火）に報じた。Tencentと電池メーカーのCATLは「最大級の金額を約束した」という。"
+        },
+        {
+          "t": "p",
+          "x": "TencentはTencent Music Entertainment（TME）の支配株主であり、TMEは2025年に自社の音楽ストリーミングサービスへDeepSeekを統合した。ラウンドは最終的にRMB 100 billion（$15 billion）近くに達する可能性があり、DeepSeekは2027年初めの株式上場を目指している。"
+        },
+        {
+          "t": "p",
+          "x": "TMEは2025年3月の決算説明会でこの統合を明らかにした。CEOのRoss Liangは当時、DeepSeekをAI作詞作曲ツール、AIアシスタント、コメント欄、レコメンドページに組み込んだと述べた。Q2 2026の報告でTMEは、QQ MusicとKugou MusicのAIエージェントが個人向けプレイリストをその場で作成するようになったとしている。"
+        },
+        {
+          "t": "p",
+          "x": "International Confederation of Music Publishers（ICMP）は以前、DeepSeekが著作権で保護された歌詞を複製していると非難しており、事務局長のJohn Phelanは、同社が保護された音楽をライセンスなしで商業利用したと主張している。"
+        }
+      ]
+    },
+    "music/music-humanculture-first-clients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "今年初め、Defected RecordsとAWALの元幹部が設立し、コンテンツが投稿前にソーシャルメディアでどれだけ成果を上げるかを予測する技術を開発しているスタートアップについて報じた。"
+        },
+        {
+          "t": "p",
+          "x": "そのHumanCultureが正式にローンチし、最初の顧客群を発表した。Defectedもその一社で、Red Light Management、Armada Big Family、Arketyp、Knox Artists、FourFour Digitalが名を連ねる。"
+        },
+        {
+          "t": "p",
+          "x": "軸足は引き続き予測分析にある。「ストーリーテリングのテーマ、ビジュアルスタイル、オーディエンスの行動、コミュニティでの会話を定量的なパフォーマンスデータとあわせて分析することで、事後の振り返りレポートではなく、公開前にエビデンスに基づく方向性をクリエイティブチームに示す」というのが売り文句で、「コンテンツのパフォーマンス予測で82-90%の精度」をうたう。"
+        },
+        {
+          "t": "p",
+          "x": "ローンチでは、Jasperという機能も明らかになった。HumanCultureはこれを「組み込み型のAIクリエイティブストラテジスト」と説明しており、顧客は対話を通じてキャンペーンやコンテンツカレンダー、その他のマーケティング業務のアイデアを得られる。"
+        },
+        {
+          "t": "p",
+          "x": "同社は、自社の技術が個々のアーティストに合わせて適応する点を強調する。その起点となるのが、アーティストのInstagramとTikTokの投稿とオーディエンスのコメントを最大一年分分析するオンボーディングだ。"
+        },
+        {
+          "t": "p",
+          "x": "HumanCultureは‘per-talent’（タレント単位）の料金プランを採用しており、1-9人のアーティストで使う企業はタレントごとに月£65から、50-99人を抱える企業では月£52.50まで下がる。"
+        }
+      ]
+    },
+    "music/music-suno-italy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "写真：FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "イタリアの競争当局（AGCM）は火曜日（10月6日）、Sunoの利用規約について調査を開始したと発表した。当局は同規約が「消費者法典第33条に照らして不公正である可能性がある」としている。"
+        },
+        {
+          "t": "p",
+          "x": "当局が懸念を示したのは、価格変更、アカウント停止、米国拠点（US-based）の仲裁、そしてユーザーに著作者人格権の放棄を求めるとするコンテンツライセンスだ。当局は、同規約が「Sunoに対し、何ら正当な理由を示すことなく、契約、サービス、サブスクリプション料金を一方的に変更できる広い裁量を与えているようだ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "AGCMは「著作権に関する契約条項は特に注意に値する」と述べ、消費者に課されるライセンスの定義が不十分であり、イタリア著作権法（Law 633/1941）に反して著作者人格権の放棄を課していると指摘した。米国での拘束力のある個別仲裁と、集団訴訟の放棄についても問題視した。"
+        },
+        {
+          "t": "p",
+          "x": "当局は今後数週間のうちに、同規約に関するパブリックコンサルテーションを実施する。不公正な契約条項に対する制裁金は€5,000から€10 millionの範囲だ。MBWはSunoにコメントを求めている。"
+        }
+      ]
     }
   }
 }

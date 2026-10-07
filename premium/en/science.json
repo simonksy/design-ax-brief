@@ -6665,6 +6665,150 @@
           "x": "CMOS chips from Ken Shepard's lab read the fluorescence, so users could dip a disposable stick into water for an instant readout. Cornish estimates it will cost orders of magnitude less than current methods."
         }
       ]
+    },
+    "science/science-satellite-damage-through-smoke": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new technology has been developed that can rapidly predict city-scale structural damage even when portions of satellite imagery are obscured by clouds or smoke immediately after a disaster."
+        },
+        {
+          "t": "p",
+          "x": "A team led by professor In Ho Cho of Seoul National University combined a Scientific AI approach, which integrates structural engineering knowledge into AI, with a statistical imputation method that reconstructs missing data. The findings are published in Scientific Reports."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+          "cap": "City-scale damage prediction results using satellite imagery and image disorder (entropy) before and after a major typhoon. Credit: Scientific Reports"
+        },
+        {
+          "t": "p",
+          "x": "The framework uses image entropy, a measure of disorder in pre- and post-disaster satellite imagery, plus open data. Unlike state-of-the-art AI approaches, it needs no costly training stage."
+        },
+        {
+          "t": "p",
+          "x": "In a major typhoon case, even when more than 50% of the imagery was obscured by clouds, it predicted damage to buildings beneath the obscured areas with an error of less than 5%. It was also applied to a major wildfire case."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
+          "cap": "Example results from applying the developed framework to a major wildfire damage case. Credit: Scientific Reports"
+        }
+      ]
+    },
+    "science/science-ai2-astabrief-open-weights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 built AstaBrief 8B, a model that turns a research question and retrieved literature excerpts into a cited report. It is available in Asta's Generate a report feature as Fast mode alongside Claude-powered Thinking mode, and Ai2 is open-sourcing it and the training data."
+        },
+        {
+          "t": "p",
+          "x": "Fast mode averages 51.1 seconds per report compared with 178.5 seconds for Thinking mode, about 3.5× faster. Open weights let institutions run it on their own infrastructure, necessary when questions reveal sensitive or unpublished work."
+        },
+        {
+          "t": "p",
+          "x": "Starting from Qwen3-8B, Ai2 focused on post-training data, using supervised fine-tuning and DPO, which brought AstaBrief within range of the Claude-powered pipeline and DR Tulu."
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
+          "cap": "LLM-judged pairwise win rate vs. Claude-powered Thinking mode"
+        },
+        {
+          "t": "p",
+          "x": "Among 374 Asta users who've tried Fast mode, 29.1% used it for two or more days."
+        }
+      ]
+    },
+    "science/science-haiqu-agenticos-quantum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Haiqu launched AgenticOS, a system that coordinates specialized AI agents to plan, validate and prepare quantum research experiments for hardware execution under human oversight."
+        },
+        {
+          "t": "p",
+          "x": "General-purpose AI agents can make small changes no one asked for, like shifting a molecular geometry or slipping in an unapproved approximation. AgenticOS assigns teams of agents to review literature, work through derivations, assess quantum feasibility and check results against classical baselines, critic agents and human review."
+        },
+        {
+          "t": "p",
+          "x": "In a chemistry study accepted at a NeurIPS 2026 workshop, four of 10 unassisted agent runs ignored an explicit setup instruction. With AgenticOS, the models held to the approved protocol and produced a result within approximately 3.4% of the exact diagonalization reference."
+        },
+        {
+          "t": "p",
+          "x": "On a 3-by-3 Hubbard model experiment run on an IBM quantum computer, it reduced circuit depth by 75%. AgenticOS is available to enterprise R&D teams upon request; academic researchers can apply for free access."
+        }
+      ]
+    },
+    "science/science-virtual-cell-model-calibration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Published in Nature Biotechnology, the paper “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” introduces a positive-control baseline and a framework for testing whether common metrics can distinguish meaningful model predictions from less informative ones."
+        },
+        {
+          "t": "p",
+          "x": "Genetic perturbation models, a subset of AI virtual cells, predict how activating or inhibiting genes alters a cell's transcriptome. Recent studies found sophisticated deep learning systems often failed to beat simple baselines."
+        },
+        {
+          "t": "p",
+          "x": "The team built an “interpolated duplicate” positive control and the dynamic range fraction (DRF), which measures how well a metric separates it from a negative control. Across 14 datasets and 18 metrics, mean squared error and control-referenced Pearson correlation were often poorly calibrated; weighted and rank-based metrics such as WMSE, weighted RΔ2 and NIR were better."
+        },
+        {
+          "t": "p",
+          "x": "On calibrated metrics, earlier models including scGPT and GEARS often surpassed uninformative baselines, and PRESAGE and scLambda performed more strongly. In Norman19 (0.63% of gene combinations covered) an additive baseline stayed hard to beat; in Wessels23 (10.3%) several models beat it."
+        },
+        {
+          "t": "p",
+          "x": "Shift Bioscience, based in Cambridge, U.K., plans to apply the framework to screens for targets relevant to rejuvenation and age-related disease, initially focusing on fibrosis."
+        }
+      ]
+    },
+    "science/science-xray-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Science has increasingly used artificial intelligence (AI) as a kind of microscope. Now a new shift is underway: agentic AI that helps scientists decide what to do next through simple, natural language requests."
+        },
+        {
+          "t": "p",
+          "x": "At the DOE's Argonne National Laboratory, researchers demonstrated this capability as part of the SYNAPS-I project, part of DOE's Genesis Mission and led by Lawrence Berkeley National Laboratory."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+          "cap": "Tao Zhou, scientist with the CNM, loads a sample into the Hard X-ray Nanoprobe beamline at the APS. Credit: Jason Creps/Argonne National Laboratory"
+        },
+        {
+          "t": "video",
+          "yt": "Be89VHHNJLM"
+        },
+        {
+          "t": "p",
+          "x": "\"Instead of writing code or entering technical commands, researchers can talk to the AI, which then handles data collection, processing and analysis automatically,\" said Argonne computational scientist Ming Du."
+        },
+        {
+          "t": "p",
+          "x": "Scientists can describe what they want, such as \"map this area at high resolution.\" The agent interprets images reconstructed in real time by the PtychoFM model, searches for regions of interest, and asks for human approval only for higher-risk operations. Meta's SAM3 segments features in each image."
+        },
+        {
+          "t": "p",
+          "x": "In a test at the 26-ID beamline, the agent was told to locate the interface between two regions in an integrated circuit and navigated from deep inside the device to the correct spot — a step toward self-driving microscopes."
+        }
+      ]
     }
   }
 }

@@ -10805,6 +10805,110 @@
           "x": "방향은 사람이 잡고, 만드는 일은 에이전트가 맡는다."
         }
       ]
+    },
+    "games/games-astrocade-10m-monthly-users": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+          "cap": "© Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "AI-generated 게임과 경험을 내세운 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 사이 약 오백만 명에서 10M 명으로 늘었다고 밝혔다. Roblox처럼 누구나 AI 도구로 게임을 만들고, 다른 사용자가 그 게임을 플레이한다."
+        },
+        {
+          "t": "p",
+          "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 앞두고 미국(United States)에서 대대적인 마케팅에 나섰다."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+          "cap": "©Astrocade / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권 있는 캐릭터를 가져다 쓴 게임, Steal a Brainrot 같은 Roblox 히트작 모방작이다. 하나같이 AI 슬롭 아트를 쓰는데도 일부는 플레이 수가 수십만에서 수백만 회에 이른다. 게임은 TikTok처럼 세로 화면에 끝없는 알고리즘 피드로 흘러나오고, Sadeghian은 이를 “playables”라고 부른다."
+        },
+        {
+          "t": "p",
+          "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+        }
+      ]
+    },
+    "games/games-minecraft-x-twitter-ai-clone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "AI로 만든 비디오 게임 클론이 잇따라 쏟아진다. X 사용자 jaivin은 AI로 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 즐기게 만들었고, 게임 내 스폰서십은 암호화폐로 사게 했다."
+        },
+        {
+          "t": "p",
+          "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저에서 돌아가는 이 클론은 월드 링크를 누른 사람을 모두 같은 실시간 세션에 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "무단 ‘이식판’을 알린 출시 게시물은 조회수 7.4M 회를 찍었다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 달(October)에만 GTA 5와 원작 Halo를 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 강력해질수록 기존 게임의 무단 버전이 나오기까지 걸리는 시간은 몇 시간, 심지어 몇 분까지 줄어들 수 있다."
+        }
+      ]
+    },
+    "games/games-goldhen-ai-ripoff-free-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+          "cap": "© Sony / Kotaku"
+        },
+        {
+          "t": "p",
+          "x": "바이브코딩으로 찍어낸 AI-slop 프로젝트가 쏟아지면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크는 사흘 만에 약 1,300개에서 약 1,840개로 불어났다."
+        },
+        {
+          "t": "p",
+          "x": "이번에 당한 쪽은 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이다. 동료 홈브루 개발자 Zer0Day가 프로젝트를 도용해 온라인에 공개했다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+        },
+        {
+          "t": "p",
+          "x": "비공개 소스인 GoldHEN은 약 다섯 해 동안 Sistro가 주로 설계했고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 돌렸다."
+        },
+        {
+          "t": "p",
+          "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 답글에서는 AI를 썼다는 사실을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+        }
+      ]
+    },
+    "games/games-ps-ai-boss": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
+          "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
+        },
+        {
+          "t": "p",
+          "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 다루는 내용은 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”이다."
+        },
+        {
+          "t": "p",
+          "x": "시스템은 네 단계로 돌아간다. NPC를 만났을 때의 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정한 NPC 콘텐츠를 받아 게임 콘텐츠를 고친다. 특허는 특정 모델 아키텍처를 못 박지 않았다. 그래서 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Wccftech는 소울라이크가 가장 큰 덕을 보리라 본다. 싱글플레이 게임의 적은 대개 정해진 패턴을 따르니 플레이어가 익혀서 공략할 수 있다. AI가 적의 행동을 다시 쓰면 얘기가 달라진다. 적은 플레이어가 얼마나 공격적인지, 혹은 방어적인지에 맞춰 적응하고 페이즈가 여럿인 보스는 격투 게임의 역전 메커니즘처럼 몰리면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "게임이 너무 어려워지지 않게 조율은 해야겠지만, 적의 체력이나 공격력만 올리는 것보다 크면서도 공정한 도전을 줄 수 있다."
+        }
+      ]
     }
   }
 }

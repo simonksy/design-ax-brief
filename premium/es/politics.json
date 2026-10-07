@@ -1426,6 +1426,140 @@
           "x": "Meta, Google y OpenAI creen que las gafas inteligentes podrían sustituir a los teléfonos como la principal puerta de acceso a la AI. Counterpoint Research estima que los consumidores gastarán más de 1 billón de dólares en dispositivos vestibles entre 2026 y 2032, pero la preocupación por la privacidad ha llevado a algunos activistas a llamarlas “tecnología pervertida”."
         }
       ]
+    },
+    "politics/politics-trump-superintelligence-science-summit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+          "cap": "Fotoilustración: Sarah Grillo/Axios. Foto: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El presidente Trump asistirá el jueves a una cumbre destinada a empoderar a los científicos y a posicionar a U.S. (Estados Unidos) como líder en avances impulsados por la \"superinteligencia\", según un anuncio compartido primero con Axios."
+        },
+        {
+          "t": "p",
+          "x": "Por qué importa: el gobierno de Trump busca que la industria intervenga en medio de sus recortes a la financiación pública de la investigación y el desarrollo científicos."
+        },
+        {
+          "t": "p",
+          "x": "Lo que impulsa la noticia: la Casa Blanca anuncia más de $1 billion en compromisos de la industria para la Genesis Mission por parte de AMD, OpenAI, Anthropic y otros. También anuncia un centro de computación con más de 14 instituciones en 10 estados del sureste, y una inversión de $1 billion en Georgia para el acceso a computación de estudiantes y profesores. La National Science Foundation y el Departamento de Energía invertirán más de $100 million en herramientas científicas AI-driven."
+        },
+        {
+          "t": "p",
+          "x": "En detalle: la cumbre se inspiró en un informe de julio del director de la OSTP de la Casa Blanca, Michael Kratsios, que destaca el creciente papel de la industria en el impulso de la I+D (R&D)."
+        },
+        {
+          "t": "p",
+          "x": "Contexto rápido: Trump lanzó en noviembre pasado la Genesis Mission, que fija plazos ambiciosos para acelerar los descubrimientos científicos. En julio, la Casa Blanca dijo que se ampliaría a más de 15 agencias federales."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-liability-altman-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+          "cap": "Sam Altman habla durante la Reunión Ministerial de Innovación del G20 en Carolina del Norte, el 2 de septiembre de 2026. | Matt Ramey/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Los eurodiputados de la EU insisten en reclamar que se recupere una ley de responsabilidad de la inteligencia artificial tras recibir el apoyo de un aliado inesperado: Sam Altman, de OpenAI."
+        },
+        {
+          "t": "p",
+          "x": "“Va a hacer falta un marco de responsabilidad para las empresas”, dijo Altman en una entrevista con Decoded by POLITICO. La EU descartó el año pasado su propuesta de ley de responsabilidad de AI en plena ofensiva desreguladora, y la Comisión argumentó que tenía pocas posibilidades de obtener suficiente apoyo político."
+        },
+        {
+          "t": "p",
+          "x": "El eurodiputado conservador alemán Axel Voss, que lideró la propuesta en el Parlamento, quiere que vuelva a la agenda. “Ahora hasta el CEO de OpenAI lo admite: sin responsabilidad no hay confianza”, dijo. El socialdemócrata Brando Benifei calificó la retirada de “un grave error”."
+        },
+        {
+          "t": "p",
+          "x": "La Comisión dijo que “sigue supervisando” la AI Act y la Product Liability Directive, y añadió: “En esta fase, no hay ningún plan para volver a presentar una propuesta sobre responsabilidad de la AI”. El director de investigación del CEPS, Artur Bogucki, dijo que la EU necesita “un instrumento de responsabilidad de AI directo y específico, acotado y procedimental en esencia”."
+        }
+      ]
+    },
+    "politics/politics-western-open-weight-models-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+          "cap": "Ilustración: Aïda Amer/Axios"
+        },
+        {
+          "t": "p",
+          "x": "Una nueva hornada de potentes sistemas de AI open-weight occidentales está protagonizando un regreso, con nuevos modelos de Reflection y Mistral que reducen la reciente ventaja de China. Darán a empresas y gobiernos alternativas a los ecosistemas cerrados de OpenAI y Anthropic, así como a las opciones chinas que quizá hayan evitado por motivos de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Reflection presentó Beam, un modelo 501-billion-parameter de tipo mixture-of-experts con 23 billion de parámetros activos. Reflection afirma que compite con el GLM-5.2 de China; sus propias pruebas de rendimiento muestran un panorama desigual. Los pesos se publicarán a finales de este mes."
+        },
+        {
+          "t": "p",
+          "x": "Mistral está terminando Mistral Large 4, alias \"Le Chonk\", un modelo multimodal 1-trillion-parameter que considera el mejor modelo open-weight del mundo, con la publicación de los pesos prevista para el 27 de octubre. \"No quiero vivir en un futuro en el que cualquier oligopolio controle el acceso cerrado a este tipo de inteligencia\", dijo Pierre Stock, de Mistral."
+        },
+        {
+          "t": "p",
+          "x": "Sí, pero: una vez que los pesos son públicos, los usuarios pueden intentar eliminar las salvaguardas, algo relevante a medida que los modelos ganan capacidad en ciberseguridad. Ambas empresas sostienen que la apertura también puede mejorar la seguridad."
+        }
+      ]
+    },
+    "politics/politics-europol-ai-policing-privacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+          "cap": "Exterior de la sede de Europol, la agencia policial de la EU, en La Haya el 24 de noviembre de 2015. | Remko de Waal/ANP/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Altos cargos de la EU advierten de que un amplio plan nuevo para armar a la agencia policial del bloque, Europol, para la era de la AI podría amenazar la privacidad de los europeos. Los planes, anunciados este verano, duplicarían su presupuesto hasta €3 billion y darían a Europol un papel directo en la lucha contra nuevas amenazas, con acceso a más datos y tecnología avanzada."
+        },
+        {
+          "t": "p",
+          "x": "El Supervisor Europeo de Protección de Datos, Wojciech Wiewiórowski, dijo estar “absolutamente a favor” de dotar a Europol de herramientas de AI, pero que “tiene que haber supervisión”. Ha advertido que la propuesta permitiría a la agencia conservar datos de un número “enorme” de personas sin vínculos con actividades delictivas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+          "cap": "El subdirector de Europol, Jurgen Ebner, designado el mes pasado para dirigir la agencia, habla en una rueda de prensa en Bruselas el 26 de junio de 2026. | Olivier Hoslet/EPA"
+        },
+        {
+          "t": "p",
+          "x": "“La AI hace que las actividades delictivas sean más rápidas, más sofisticadas y más fáciles de llevar a cabo a gran escala”, dijo Jürgen Ebner, elegido para dirigir Europol. También dijo que Europol no debería cruzar la línea en la que “recopilar datos se convierte en un objetivo en sí mismo”."
+        }
+      ]
+    },
+    "politics/politics-sif-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+          "cap": "El director de Inteligencia Nacional, Jay Clayton, dirigirá el grupo de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "El Gobierno de Trump ha otorgado a su recién creada “Super Intelligence Force” amplias facultades para determinar cómo la industria tecnológica y el Gobierno federal deben afrontar las amenazas a la seguridad nacional y a las libertades civiles que plantea la tecnología de IA, en rápida evolución, según una carta obtenida por POLITICO. Tres personas al tanto de las conversaciones confirmaron la autenticidad del documento."
+        },
+        {
+          "t": "p",
+          "x": "El grupo de trabajo identificará “medidas para mejorar la preparación y la capacidad de respuesta tanto del gobierno como del sector privado” y elaborará un informe sobre los riesgos de la IA centrado en las libertades civiles, la ciberseguridad, los estándares para modelos avanzados y los efectos de una posible sobrerregulación."
+        },
+        {
+          "t": "p",
+          "x": "Lo dirigirá el director de Inteligencia Nacional, Jay Clayton, como zar de la IA del Gobierno, con el subsecretario de Defensa Emil Michael, el director de la OPM Scott Kupor y el presidente de la FTC Andrew Ferguson como vicepresidentes. Funcionará durante 120 días, prorrogables por indicación de la jefa de gabinete, Susie Wiles."
+        },
+        {
+          "t": "p",
+          "x": "La carta también señala las amenazas a la bioseguridad y al suministro de agua, y encarga al grupo revisar los protocolos con los que los laboratorios de IA notifican al gobierno filtraciones, hackeos y jailbreaks."
+        },
+        {
+          "t": "p",
+          "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
+        }
+      ]
     }
   }
 }

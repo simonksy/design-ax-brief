@@ -10728,6 +10728,113 @@
           "x": "트랙 순서 바꾸기와 Album 세부 정보 편집, 발매 전 초안 공유, 기존 플레이리스트를 Album으로 바꾸기, 모든 곡에 Album 커버 하나 쓰기도 다룬다. 공개하면 무엇이 달라지는지, 발매 후 Album을 찾아 고치는 법까지 설명한다."
         }
       ]
+    },
+    "music/music-grok-suno-backend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+          "cap": "사진: Mariia Berezovsky"
+        },
+        {
+          "t": "p",
+          "x": "Elon Musk가 X에 올린 짧은 게시물에 따르면, SpaceXAI의 Grok Bot이 Suno의 음악 생성 모델을 공식적으로 쓰기 시작한다. Grok Bot은 “실제로 일을 해 주는 AI 팀원”을 내세운 서비스다."
+        },
+        {
+          "t": "p",
+          "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+        },
+        {
+          "t": "p",
+          "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 나오지 않았다. X 사용자들은 출시 일정과 결과물의 권리를 묻는다. 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "한편 ElevenLabs는 음악으로 발을 넓히는 중이고, Suno는 시월 초 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 내놓았다. 이탈리아에서 약관을 문제 삼은 조사까지 더해져 Suno의 법적 분쟁은 좀처럼 끝나지 않는다."
+        }
+      ]
+    },
+    "music/music-tencent-music-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+          "cap": "사진: mundissima / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
+        },
+        {
+          "t": "p",
+          "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
+        },
+        {
+          "t": "p",
+          "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
+        }
+      ]
+    },
+    "music/music-humanculture-first-clients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "올해 초 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 소개한 적이 있다. 콘텐츠를 올리기 전에 소셜 미디어에서 얼마나 성과를 낼지 예측하는 기술을 만들던 회사다."
+        },
+        {
+          "t": "p",
+          "x": "그 HumanCulture가 공식 출범하면서 첫 고객사를 공개했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이다."
+        },
+        {
+          "t": "p",
+          "x": "무게중심은 여전히 예측 분석이다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우고, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
+        },
+        {
+          "t": "p",
+          "x": "출시와 함께 Jasper라는 기능도 나왔다. HumanCulture가 “내장형 AI 크리에이티브 전략가”라고 부르는 기능으로, 고객은 Jasper와 대화하며 캠페인과 콘텐츠 캘린더, 기타 마케팅 업무에 쓸 아이디어를 얻는다."
+        },
+        {
+          "t": "p",
+          "x": "회사가 강조하는 건 기술이 아티스트마다 맞춰 조정된다는 점이다. 출발점은 온보딩이다. 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석한다."
+        },
+        {
+          "t": "p",
+          "x": "HumanCulture의 요금은 ‘per-talent’(아티스트당) 방식이다. 아티스트 1-9명을 맡은 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50까지 내려간다."
+        }
+      ]
+    },
+    "music/music-suno-italy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "사진 출처: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "이탈리아 경쟁당국(AGCM)은 화요일(10월 6일) Suno 이용약관 조사에 착수했다고 밝혔다. 이 약관이 \"소비자법 제33조에 따라 불공정할 수 있다\"는 판단이다."
+        },
+        {
+          "t": "p",
+          "x": "당국이 문제 삼은 대목은 가격 변경과 계정 해지, 미국 기반(US-based) 중재, 그리고 이용자에게 저작인격권 포기를 요구하는 것으로 본 콘텐츠 라이선스다. 당국은 이 약관이 \"Suno에게 어떤 정당한 사유도 제시하지 않고 계약과 서비스, 구독 가격을 일방적으로 바꿀 수 있는 폭넓은 재량을 주는 것으로 보인다\"고 했다."
+        },
+        {
+          "t": "p",
+          "x": "AGCM은 \"저작권 관련 계약 조항은 특히 주의 깊게 볼 필요가 있다\"고 밝혔다. 소비자에게 부과하는 라이선스는 범위가 충분히 정해지지 않았고, 이탈리아 저작권법(Law 633/1941)에 어긋나는 저작인격권 포기까지 강요한다는 것이다. 미국에서 진행하는 구속력 있는 개별 중재와 집단소송 포기 조항도 문제로 꼽았다."
+        },
+        {
+          "t": "p",
+          "x": "당국은 몇 주 안에 이 약관을 두고 공개 의견 수렴에 들어간다. 불공정 계약 조항에 매기는 과징금은 €5,000에서 €10 million 사이다. MBW는 Suno에 입장을 물었다."
+        }
+      ]
     }
   }
 }

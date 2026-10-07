@@ -1426,6 +1426,140 @@
           "x": "Meta, Google, OpenAI는 스마트 안경이 휴대폰을 대신해 AI로 들어가는 주요 관문이 되리라 본다. Counterpoint Research는 2026년부터 2032년까지 소비자가 웨어러블에 1조 달러 이상을 쓸 것으로 추정한다. 반면 사생활 우려 탓에 이를 “변태 기술”이라고 부르는 활동가들도 있다."
         }
       ]
+    },
+    "politics/politics-trump-superintelligence-science-summit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+          "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Axios가 먼저 입수한 발표문을 보면, 트럼프 대통령은 목요일 정상회의에 참석한다. 과학자들에게 힘을 싣고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우겠다는 자리다."
+        },
+        {
+          "t": "p",
+          "x": "의미: 트럼프 행정부는 과학 연구개발 지원을 줄이면서 그 빈자리를 산업계가 채워 주길 기대한다."
+        },
+        {
+          "t": "p",
+          "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브, 학생과 교수진의 컴퓨팅 접근을 넓힐 조지아주 $1 billion 투자도 함께 공개한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 넣는다."
+        },
+        {
+          "t": "p",
+          "x": "자세히 보면: 이번 정상회의의 출발점은 백악관 OSTP 국장 Michael Kratsios가 7월에 낸 보고서다. 보고서는 R&D에서 산업계가 맡는 역할이 커지고 있다고 짚는다."
+        },
+        {
+          "t": "p",
+          "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당길 야심 찬 시한을 담아 Genesis Mission을 출범시켰다. 백악관은 7월 이 미션을 15개 이상 연방 기관으로 넓히겠다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-eu-ai-liability-altman-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+          "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU 의회 의원들은 OpenAI의 Sam Altman이라는 뜻밖의 우군을 얻은 뒤, 인공지능 책임법을 되살리자고 거듭 요구하고 있다."
+        },
+        {
+          "t": "p",
+          "x": "Altman은 Decoded by POLITICO 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 했다. EU는 지난해 규제 완화 흐름 속에서 AI 책임법 제안을 폐기했다. 당시 집행위원회는 정치적 지지를 충분히 얻기 어렵다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "의회에서 이 법안을 이끈 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리고 싶어 한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열 Brando Benifei는 철회를 “심각한 실수”라고 불렀다."
+        },
+        {
+          "t": "p",
+          "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”면서 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 했다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+        }
+      ]
+    },
+    "politics/politics-western-open-weight-models-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+          "cap": "일러스트: Aïda Amer/Axios"
+        },
+        {
+          "t": "p",
+          "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral이 내놓은 새 모델이 최근 중국이 쥐고 있던 우위를 좁히는 중이다. 기업과 정부로서는 OpenAI·Anthropic의 폐쇄형 생태계, 그리고 보안 때문에 피해 왔을 중국산 모델을 대신할 선택지가 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "Reflection은 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. 활성 파라미터는 23 billion 개다. 회사는 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+        },
+        {
+          "t": "p",
+          "x": "Mistral은 'Le Chonk'라는 별칭이 붙은 Mistral Large 4를 마무리하는 중이다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델로 본다. 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "다만 가중치가 풀리면 사용자가 안전장치를 걷어내려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍게 넘길 문제가 아니다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+        }
+      ]
+    },
+    "politics/politics-europol-ai-policing-privacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+          "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대규모 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 나온 이 계획대로라면 Europol 예산은 두 배인 €3 billion으로 늘고, Europol은 더 많은 데이터와 첨단 기술을 손에 쥐고 새 위협에 직접 대응하게 된다."
+        },
+        {
+          "t": "p",
+          "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”한다면서도 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로면 기관이 범죄와 무관한 “방대한” 수의 사람 데이터를 보관할 수 있다고 경고해 왔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+          "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+        },
+        {
+          "t": "p",
+          "x": "Europol 수장으로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그러면서도 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+        }
+      ]
+    },
+    "politics/politics-sif-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+          "cap": "제이 클레이턴 국가정보장이 태스크포스를 이끈다."
+        },
+        {
+          "t": "p",
+          "x": "POLITICO가 입수한 헌장을 보면 트럼프 행정부는 새로 만든 ‘초지능군(Super Intelligence Force)’에 폭넓은 권한을 줬다. 빠르게 발전하는 AI 기술이 국가안보와 시민의 자유를 위협할 때 기술 업계와 연방정부가 어떻게 대응할지 정하는 권한이다. 논의를 잘 아는 세 사람이 문서가 진본이라고 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "태스크포스는 ‘정부와 민간 부문 모두의 대비 태세와 대응 역량을 높일 방안’을 찾는다. AI 위험 보고서도 쓰는데, 시민의 자유와 사이버보안, 첨단 모델 기준, 과잉 규제가 낳을 영향을 중심으로 다룬다."
+        },
+        {
+          "t": "p",
+          "x": "제이 클레이턴 국가정보장이 행정부의 AI 차르로서 태스크포스를 이끌고, 에밀 마이클 국방부 차관, 스콧 쿠퍼 OPM 처장, 앤드루 퍼거슨 FTC 위원장이 부의장을 맡는다. 존속 기간은 120일로, 수지 와일스 비서실장이 지시하면 늘릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "헌장은 생물보안과 상수도 위협도 짚었다. AI 연구소가 침해, 해킹, 탈옥 사실을 정부에 알리는 절차를 검토하는 일도 이 조직의 몫이다."
+        },
+        {
+          "t": "p",
+          "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
+        }
+      ]
     }
   }
 }

@@ -6850,6 +6850,150 @@
           "x": "Ken Shepardの研究室のCMOSチップが蛍光を読み取るため、使い捨てのスティックを水に浸すだけで即座に結果が分かる。Cornishは、コストが現行手法より桁違いに低くなると見積もる。"
         }
       ]
+    },
+    "science/science-satellite-damage-through-smoke": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "災害直後に衛星画像の一部が雲や煙で隠れていても、都市規模の構造物被害を迅速に予測できる新技術が開発された。"
+        },
+        {
+          "t": "p",
+          "x": "Seoul National University(ソウル大学)のIn Ho Cho教授らのチームは、構造工学の知見をAIに統合するScientific AIの手法と、欠損データを再構成する統計的補完法を組み合わせた。成果はScientific Reportsに掲載された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+          "cap": "大型台風の前後の衛星画像と画像の乱雑さ(エントロピー)を用いた都市規模(City-scale)の被害予測結果。出典:Scientific Reports"
+        },
+        {
+          "t": "p",
+          "x": "このフレームワークは、災害前後の衛星画像の乱雑さを示す画像エントロピーとオープンデータを用いる。最先端のAI手法と異なり、コストのかかる学習段階を必要としない。"
+        },
+        {
+          "t": "p",
+          "x": "大型台風の事例では、画像の50%以上が雲に覆われていても、隠れた領域の下にある建物の被害を5%未満の誤差で予測した。大規模な山火事の事例にも適用された。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
+          "cap": "開発したフレームワークを大規模な山火事の被害事例に適用した結果の例。出典:Scientific Reports"
+        }
+      ]
+    },
+    "science/science-ai2-astabrief-open-weights": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2が開発したAstaBrief 8B モデルは、研究上の問いと検索した文献の抜粋から、引用付きのレポートを作成する。AstaのGenerate a report機能で、Claude-powered Thinking modeと並ぶFast modeとして利用でき、Ai2はモデルと学習データをオープンソース化する。"
+        },
+        {
+          "t": "p",
+          "x": "Fast modeはレポート一件あたり平均51.1秒で、Thinking modeの178.5秒より約3.5× 速い。オープンウェイト(Open weights)のため、機関は自前のインフラで実行でき、質問から機密性の高い研究や未発表の研究が明らかになり得る場合には欠かせない。"
+        },
+        {
+          "t": "p",
+          "x": "Ai2はQwen3-8Bを出発点に、教師ありファインチューニングとDPOを用いた事後学習データに注力し、AstaBriefをClaude-poweredパイプラインやDR Tuluに迫る水準に引き上げた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
+          "cap": "Claude-powered Thinking modeに対するLLM-judgedのペアワイズ勝率"
+        },
+        {
+          "t": "p",
+          "x": "Fast modeを試したAstaユーザー374人のうち、29.1%が二日以上利用した。"
+        }
+      ]
+    },
+    "science/science-haiqu-agenticos-quantum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HaiquはAgenticOSを発表した。専門AIエージェントを連携させ、人間の監督のもとで量子研究の実験を計画・検証し、ハードウェアでの実行に向けて準備するシステムだ。"
+        },
+        {
+          "t": "p",
+          "x": "汎用(General-purpose)AIエージェントは、分子構造をずらしたり未承認の近似を紛れ込ませたりと、誰も頼んでいない小さな変更を加えることがある。AgenticOSはエージェントのチームに文献調査、導出の展開、量子的な実現可能性の評価を割り当て、結果を古典的ベースライン、批評エージェント、人間のレビューと照合する。"
+        },
+        {
+          "t": "p",
+          "x": "NeurIPS 2026のワークショップに採択された化学研究では、支援なしのエージェント実行10回のうち四回が明示的な設定指示を無視した。AgenticOSを使うと、モデルは承認されたプロトコルを守り、厳密対角化の参照値から約3.4%以内の結果を出した。"
+        },
+        {
+          "t": "p",
+          "x": "IBMの量子コンピューターで行った3-by-3 Hubbardモデル実験では、回路の深さを75%削減した。AgenticOSは企業のR&Dチームが依頼すれば利用でき、学術研究者は無償利用を申請できる。"
+        }
+      ]
+    },
+    "science/science-virtual-cell-model-calibration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nature Biotechnologyに掲載された論文「Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics」は、陽性対照ベースラインと、一般的な指標が意味のあるモデル予測と情報量の少ない予測を区別できるかを検証する枠組みを提示している。"
+        },
+        {
+          "t": "p",
+          "x": "AI仮想細胞の一種である遺伝子摂動モデルは、遺伝子の活性化や阻害によって細胞のトランスクリプトームがどう変わるかを予測する。最近の研究では、高度な深層学習システムが単純なベースラインを上回れないことが多いと分かっていた。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームは「interpolated duplicate(補間複製)」という陽性対照と、指標がそれを陰性対照とどれだけ区別できるかを測るダイナミックレンジ比(DRF)を構築した。14のデータセットと18の指標で調べると、平均二乗誤差や対照基準のPearson相関は較正が不十分なことが多く、WMSE、重み付きRΔ2、NIRなどの重み付き・順位ベースの指標の方が優れていた。"
+        },
+        {
+          "t": "p",
+          "x": "較正された指標では、scGPTやGEARSなど従来のモデルが情報のないベースラインをしばしば上回り、PRESAGEとscLambdaはさらに高い性能を示した。Norman19(遺伝子の組み合わせの0.63%をカバー)では加法ベースラインを超えるのが難しかったが、Wessels23(10.3%)では複数のモデルがそれを上回った。"
+        },
+        {
+          "t": "p",
+          "x": "Cambridge, U.K.(英国ケンブリッジ)に拠点を置くShift Bioscienceは、この枠組みを若返りや加齢関連疾患に関わる標的のスクリーニングに応用する計画で、まず線維症に注力する。"
+        }
+      ]
+    },
+    "science/science-xray-agent": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "科学はこれまで、人工知能(AI)を一種の顕微鏡として使う場面を増やしてきた。いま新たな転換が進んでいる。簡単な自然言語の依頼を通じて、科学者が次に何をすべきか決めるのを助けるエージェント型AIである。"
+        },
+        {
+          "t": "p",
+          "x": "DOEのアルゴンヌ国立研究所(Argonne National Laboratory)の研究者らは、SYNAPS-Iプロジェクトの一環としてこの能力を実証した。同プロジェクトはDOEのGenesis Missionの一部で、ローレンス・バークレー国立研究所(Lawrence Berkeley National Laboratory)が主導する。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
+          "cap": "APSのHard X-ray Nanoprobeビームラインに試料を装填するCNMの科学者Tao Zhou。提供:Jason Creps/Argonne National Laboratory"
+        },
+        {
+          "t": "video",
+          "yt": "Be89VHHNJLM"
+        },
+        {
+          "t": "p",
+          "x": "「コードを書いたり技術的なコマンドを入力したりする代わりに、研究者はAIと会話できる。するとAIがデータの収集、処理、分析を自動で担う」と、Argonneの計算科学者Ming Duは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "科学者は「この領域を高解像度でマッピングして」のように、望むことを言葉で伝えればよい。エージェントはPtychoFMモデルがリアルタイムで再構成した画像を解釈し、関心領域を探し、リスクの高い操作に限って人間の承認を求める。各画像の特徴はMetaのSAM3がセグメント化する。"
+        },
+        {
+          "t": "p",
+          "x": "26-IDビームラインでの試験では、エージェントは集積回路内の二つの領域の境界面を探すよう指示され、デバイスの深部から正しい地点までたどり着いた。自律走行する顕微鏡へ向けた一歩である。"
+        }
+      ]
     }
   }
 }

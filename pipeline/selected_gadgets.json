@@ -1,102 +1,100 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Teen founder reveals 'personal AI computer' that's a $3,499 Mac mini rival",
-      "url": "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box",
-      "source": "TechRadar",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New dedicated local-agent hardware (Ghost Core, RTX PRO 4000) that pitches a subscription-free, always-on AI box, a fresh device category angle.",
-      "published_iso": "2026-10-06T16:17:33Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/vXMu7BEQHCXDcHgaJXp3DG-970-80.jpg",
-      "excerpt": "Ghost's Core 'builds context on your life over time and works continuously to help you' while offering tight security and privacy."
+      "rationale": "Microsoft's Surface Laptop Ultra launch on Nvidia RTX Spark, built to run local AI models and agents; the hardware headline of the Windows and Surface event, with specs and price.",
+      "published_iso": "2026-10-07T20:22:37+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+      "excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
     },
     {
-      "title": "Google AI Edge Foresight for Mac turns scribbles into full notes using offline recordings",
-      "url": "https://9to5google.com/2026/10/06/google-ai-edge-foresight/",
-      "source": "9to5Google",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "source": "The Verge",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Google ships EmbeddingGemma 2 with an offline on-device notetaking Mac app, a concrete new release for on-device AI.",
-      "published_iso": "2026-10-06T17:15:19+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/Google-AI-Edge-Foresight.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Google today announced EmbeddingGemma 2. To show off its potential, Google created an AI Edge Foresight Mac app for \"intelligent notetaking.\""
+      "rationale": "A separate software announcement from the same event: Copilot gets local file access and can act across the OS under 'Hybrid Intelligence', which changes how people work in Windows day to day.",
+      "published_iso": "2026-10-07T18:01:20+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]"
     },
     {
-      "title": "Google's new Fitbit could make you rethink buying a smartwatch",
-      "url": "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/",
-      "source": "Digital Trends",
+      "title": "One UI 9 on the Galaxy S26 series: Here’s what’s changed",
+      "url": "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/",
+      "source": "SamMobile",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "Rumored Fitbit Edge tracker built around Gemini coaching, a sign that Google's AI health coach is moving onto low-cost dedicated wearables.",
-      "published_iso": "2026-10-06T09:26:24-07:00",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-05T023815.533.jpg?resize=1200%2C630",
-      "excerpt": "Google’s rumored Fitbit Edge could pack a screen, GPS, Gemini coaching, and week-long battery life into one tiny tracker."
+      "rationale": "One UI 9 (Android 17) reaches the Galaxy S26 line with new Galaxy AI tools: a concrete software release that changes what AI features millions of Samsung flagship users get, and the brief's only Android pick today.",
+      "published_iso": "2026-10-07T02:30:00+00:00",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg",
+      "excerpt": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features you may have seen in One UI 9 coverage were already available on these phones. Ot"
     },
     {
-      "title": "JBL's New Party Speaker Has an AI Karaoke Feature You May Actually Want to Use",
-      "url": "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328",
-      "source": "Gizmodo",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New consumer audio product with on-device AI vocal stem separation, a practical AI feature in a mainstream gadget.",
-      "published_iso": "2026-10-06T19:15:27+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/10/JBL-PartyBox-Ultimate-2-1200x675.jpg",
-      "excerpt": "The PartyBox Ultimate 2 uses JBL's AI tool to strip vocals from your songs."
+      "rationale": "The iPod's creator explains why first-generation AI gadgets failed and what the next wave needs to earn trust: a useful product-design view for anyone designing AI hardware.",
+      "published_iso": "2026-10-07T14:41:38+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
+      "excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
     },
     {
-      "title": "Silicon Valley's AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
-      "url": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
-      "source": "TechCrunch",
+      "title": "If Apple's AI suggestions in Messages annoys you, there's a solution",
+      "url": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
+      "source": "9to5Mac",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Launch of a free, fully on-device personal AI assistant positioned against Meta Muse, a new product release rather than more Muse coverage.",
-      "published_iso": "2026-10-06T20:47:01+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Conway-Underdog-Sigil-Wen-.jpg?resize=1200,800",
-      "excerpt": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks."
+      "rationale": "New in the iOS 27.2 beta: settings that let users turn down Siri AI 'suggested actions' in Messages, a concrete change to how much control people have over AI in the UI.",
+      "published_iso": "2026-10-06T10:49:17+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "The current beta of iOS 27.2 includes a Siri AI “suggested actions” feature in the Messages app that some will consider useful and others find annoying. A developer who has found a number of unannounced features has discovered that Apple is seeking to keep everyone happy with a new set of options."
     }
   ],
   "alternates": [
-    "https://www.etnews.com/20261006000286",
-    "https://www.windowscentral.com/hardware/qualcomm/qualcomms-snapdragon-x2-doesnt-need-the-extreme-badge-to-beat-intel-signal65-study",
     "https://www.notebookcheck.net/Expandable-AI-workstation-with-RTX-PRO-Blackwell-introduced-in-a-compact-5L-chassis.1416965.0.html",
-    "https://www.androidcentral.com/wearables/solos-gives-its-smart-glasses-a-physical-privacy-kill-switch"
+    "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/"
   ],
   "dedup": {
     "checks": {
-      "https://www.techradar.com/ai-platforms-assistants/teen-founder-reveals-personal-ai-computer-for-running-local-agents-usd3-499-mac-mini-rival-runs-on-nvidia-rtx-pro-4000-gpu-and-promises-to-be-a-subscription-free-brain-in-a-box": {
+      "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/review/apple-mac-mini-m6/",
+        "nearest": "https://www.digitaltrends.com/computing/microsoft-snapdragon-x2-elite-surface-local-ai-demos/",
         "new_action": ""
       },
-      "https://9to5google.com/2026/10/06/google-ai-edge-foresight/": {
+      "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence": {
         "verdict": "new",
-        "nearest": "https://www.xda-developers.com/found-speech-recognition-model-vs-code-never-sends-word-cloud/",
+        "nearest": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/wearables/googles-new-fitbit-could-make-you-rethink-buying-a-smartwatch/": {
+      "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
+        "nearest": "https://9to5google.com/2026/09/01/september-2026-android-drop/",
         "new_action": ""
       },
-      "https://gizmodo.com/jbl-partybox-ultimate-2-2000822328": {
+      "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/": {
+      "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "nearest": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
         "new_action": ""
       }
     },
-    "note": "Coordinator swap: removed Notebookcheck Surface Laptop Ultra (enrichment found a pure hardware leak, no AI content) and TechRadar Norway smart-glasses ban (substance is camera/privacy regulation, not AI); replaced with next-ranked alternates Fitbit Edge (Digital Trends) and Underdog (TechCrunch). Neither replacement is in /tmp/ax_claimed_urls.txt nor the same story as a claimed URL (the claimed TechCrunch LibreOffice item is unrelated). Underdog's history_match (Wired, Meta glasses privacy, 09-25) is weaker than the 10-03 Verge Muse open-source card, so the Verge card is named as nearest; Underdog is a separate product launch, not Muse coverage. Fitbit Edge has no 30-day match; the nearest is the 09-28 Pixel Buds Gemini card. Windows Central Oct 7 event preview removed from alternates (same cluster as the dropped Surface leak). Original drops: Digital Trends Siri smart-home leak (= 10-06 tvOS 27.2 Apple Intelligence / 09-22 Apple smart home display); Android Authority Meta Muse week hands-on and CNET Muse 'AI Tamagotchi' (commentary on Muse, covered 09-23/09-24/09-25/10-03); 9to5Google Samsung Android XR glasses November (= 10-02 Samsung FCC glasses story); UploadVR Ray-Ban Display features (overlaps 10-06 Meta Ray-Ban updates); GSMArena Siri AI EU timeline (Siri AI running story). Low AI relevance: Verge Apple+LG HomeKit gear, TDK retina display, UploadVR Meta VR Glasses. Outlet spread: TechRadar, 9to5Google, Digital Trends, Gizmodo, TechCrunch (1 each)."
+    "note": "SWAP: Digital Trends 'Xreal puts a $1,279 price tag on its first Android XR glasses' removed after the fact-check found the article never mentions AI (keyword match only). Replaced with SamMobile One UI 9 on Galaxy S26: no history_match tag; no One UI 9 or Galaxy AI release card in the 30-day history_digest (nearest is the 09-09 9to5Google September Android Drop, a different vendor and release; the 09-20 Galaxy Watch9 review is a different product). No overlap with other sections today (design: ChatGPT Intelligent UI, MecAgent CAD, logo SVG skill, bounded delegation; movies: Google SynthID detector). Over the other alternates: Notebookcheck ASRock DeskSlim is a workstation with an 'AI' label, so the same keyword-only risk applies; 9to5Mac Apple Intelligence removal is opinion with no new event, it would be a second 9to5Mac card on the same 'switching off Apple AI' theme as the Messages pick, and it sits close to the 09-24 MacRumors 30GB story. Earlier drops (unchanged): PCWorld Surface Laptop Ultra and Notebookcheck Surface RTX Spark Dev Box (same Microsoft event as the TechCrunch pick); WIRED Meta-vs-Xreal (cluster c0, which is now gone entirely); GSMArena Fitbit Edge leak (= 10-07 Digital Trends Fitbit card); MacRumors Apple camera 'still coming' (running story, no new release); Road to VR Norway glasses ban and etnews Apple-LG (low AI relevance). Outlet spread: TechCrunch x2, The Verge, SamMobile, 9to5Mac."
   }
 }

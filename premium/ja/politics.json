@@ -1426,6 +1426,140 @@
           "x": "Meta、Google、OpenAIは、スマートグラスがスマートフォンに代わってAIへの主要な入り口になりうると考えている。Counterpoint Researchは、2026年から2032年にかけて消費者がウェアラブルに1兆ドル超を費やすと推計するが、プライバシーへの懸念から一部の活動家は「変態テクノロジー」と呼んでいる。"
         }
       ]
+    },
+    "politics/politics-trump-superintelligence-science-summit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
+          "cap": "写真イラスト：Sarah Grillo/Axios。写真：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Axiosが先行して入手した発表によると、トランプ大統領は木曜日、科学者を後押しし、米国（U.S.）を「超知能（super intelligence）」による飛躍的成果のリーダーに位置づけるためのサミットに出席する。"
+        },
+        {
+          "t": "p",
+          "x": "なぜ重要か：トランプ政権は科学の研究開発に対する政府資金を削減する中、産業界がその穴を埋めることを期待している。"
+        },
+        {
+          "t": "p",
+          "x": "ニュースの核心：ホワイトハウスは、AMD、OpenAI、AnthropicなどによるGenesis Missionへの$1 billion超の産業界からの拠出表明を発表する。また、南東部10州の14以上の機関をつなぐコンピューティング拠点と、学生・教員の計算資源利用に向けたジョージア州への$1 billionの投資も発表する。全米科学財団とエネルギー省はAI-drivenな科学ツールに$100 million以上を投じる。"
+        },
+        {
+          "t": "p",
+          "x": "詳しく見ると：サミットは、ホワイトハウスOSTPのMichael Kratsios局長による7月の報告書に着想を得たもので、同報告書はR&Dを主導する産業界の役割の高まりを強調している。"
+        },
+        {
+          "t": "p",
+          "x": "おさらい：トランプ氏は昨年11月、科学的発見を加速するための野心的な期限を設けたGenesis Missionを開始した。ホワイトハウスは7月、これを15以上の連邦機関に拡大すると表明した。"
+        }
+      ]
+    },
+    "politics/politics-eu-ai-liability-altman-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+          "cap": "2026年9月2日、ノースカロライナ州で開かれたG20イノベーション閣僚会合で発言するSam Altman氏。| Matt Ramey/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EU議会の議員らは、思わぬ味方であるOpenAIのSam Altman氏の支持を得て、人工知能責任法の復活を求める姿勢を強めている。"
+        },
+        {
+          "t": "p",
+          "x": "Altman氏はDecoded by POLITICOのインタビューで「企業向けの責任の枠組みが必要になるだろう」と述べた。EUは昨年、規制緩和の流れの中でAI責任法案を撤回しており、欧州委員会は十分な政治的支持を得られる見込みが薄いと説明していた。"
+        },
+        {
+          "t": "p",
+          "x": "議会で同法案を主導したドイツの保守派議員Axel Voss氏は、これを再び議題に載せたい考えだ。「今やOpenAIのCEOでさえ認めている。責任なくして信頼なしだ」と同氏は語った。社会民主主義系のBrando Benifei氏は撤回を「重大な誤り」と呼んだ。"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会はAI Actと製造物責任指令（Product Liability Directive）を「引き続き注視している」とし、「現段階でAI責任に関する提案を再提出する計画はない」と付け加えた。CEPSの研究ディレクターArtur Bogucki氏は、EUには「直接的で対象を絞った、核心において限定的かつ手続き的なAI責任の仕組み」が必要だと述べた。"
+        }
+      ]
+    },
+    "politics/politics-western-open-weight-models-vs-china": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
+          "cap": "イラスト：Aïda Amer/Axios"
+        },
+        {
+          "t": "p",
+          "x": "強力な西側のopen-weight AIシステムが巻き返しを図っており、ReflectionとMistralの新モデルが中国の最近のリードを縮めている。これらは企業や政府にとって、OpenAIやAnthropicの閉じたエコシステムに加え、セキュリティ上の理由で避けてきたかもしれない中国製の選択肢に代わるものとなる。"
+        },
+        {
+          "t": "p",
+          "x": "ReflectionはBeamを発表した。アクティブパラメータ23 billion の501-billion-parameter mixture-of-experts モデルだ。Reflectionは中国のGLM-5.2に匹敵するとしているが、自社のベンチマーク結果はまちまちだ。重みは今月下旬に公開される予定だ。"
+        },
+        {
+          "t": "p",
+          "x": "Mistralは「Le Chonk」の愛称を持つMistral Large 4の仕上げに入っている。1-trillion-parameter のマルチモーダルモデルで、同社は世界最高のopen-weightモデルだと考えており、重みは10月27日に公開予定だ。「いかなる寡占もこの種の知能へのアクセスを閉鎖的に支配する、そんな未来には生きたくない」とMistralのPierre Stock氏は語った。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、重みが公開されると、利用者が安全対策を外そうとする可能性がある。モデルのサイバーセキュリティ能力が高まるにつれ、これは重大な問題になる。両社は、オープン性が安全性の向上にもつながり得ると主張する。"
+        }
+      ]
+    },
+    "politics/politics-europol-ai-policing-privacy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+          "cap": "2015年11月24日、ハーグにあるEUの警察機関Europolの本部外観。| Remko de Waal/ANP/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "EUの高官らは、域内の警察機関EuropolをAI時代に向けて強化する大規模な新計画が、欧州市民のプライバシーを脅かしかねないと警告している。今夏発表された計画は、予算を倍増の€3 billionとし、より多くのデータと先端技術へのアクセスを与えて、新たな脅威への対処にEuropolが直接関わるようにするものだ。"
+        },
+        {
+          "t": "p",
+          "x": "欧州データ保護監察官のWojciech Wiewiórowski氏は、EuropolにAIツールを持たせることには「全面的に賛成」だが、「監督がなければならない」と述べた。同氏は、この提案によって同機関が犯罪と無関係の「膨大な」数の人々のデータを保持できるようになると警告してきた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
+          "cap": "先月、同機関のトップに指名されたEuropolのJurgen Ebner副長官。2026年6月26日、ブリュッセルでの記者会見で。| Olivier Hoslet/EPA"
+        },
+        {
+          "t": "p",
+          "x": "「AIは犯罪活動をより速く、より巧妙に、そして大規模に実行しやすくする」と、Europolを率いることになったJürgen Ebner氏は語った。同氏はまた、Europolは「データ収集それ自体が目的になる」一線を越えるべきではないとも述べた。"
+        }
+      ]
+    },
+    "politics/politics-sif-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
+          "cap": "ジェイ・クレイトン国家情報長官がタスクフォースを率いる。"
+        },
+        {
+          "t": "p",
+          "x": "POLITICOが入手した憲章によると、トランプ政権は新設した「超知能部隊（Super Intelligence Force）」に、急速に進化するAI技術が国家安全保障と市民の自由にもたらす脅威に、テック業界と連邦政府がどう対処すべきかを決める広い権限を与えた。協議に詳しい三人が文書の真正性を認めた。"
+        },
+        {
+          "t": "p",
+          "x": "タスクフォースは「政府と民間部門双方の備えと対応能力を高める措置」を特定し、市民の自由、サイバーセキュリティ、先端モデルの基準、過剰規制がもたらしうる影響を中心に、AIリスクに関する報告書をまとめる。"
+        },
+        {
+          "t": "p",
+          "x": "ジェイ・クレイトン国家情報長官が政権のAI担当責任者として率い、エミル・マイケル国防次官、スコット・クーパーOPM局長、アンドルー・ファーガソンFTC委員長が副議長を務める。存続期間は120日で、スージー・ワイルズ首席補佐官の指示で延長できる。"
+        },
+        {
+          "t": "p",
+          "x": "憲章は生物安全保障や水供給への脅威にも言及し、AI研究所が侵害、ハッキング、ジェイルブレイクを政府に通知する手順の見直しも同グループに課した。"
+        },
+        {
+          "t": "p",
+          "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
+        }
+      ]
     }
   }
 }

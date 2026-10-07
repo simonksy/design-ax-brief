@@ -1,118 +1,115 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "politics",
   "picks": [
     {
       "rank": 1,
-      "title": "Read the charter for the White House's 'Super Intelligence Force'",
-      "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
-      "source": "politico.eu",
-      "published_iso": "2026-10-06T21:51:30+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2285609348-scaled.jpg",
-      "excerpt": "POLITICO publishes the charter of the White House 'Super Intelligence Force' — a new body with broad authority to determine how the federal government should protect against AI threats. New primary document following the Super Intelligence executive order and Jay Clayton's appointment.",
+      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "source": "wired.com",
+      "published_iso": "2026-10-07T15:34:33.446Z",
+      "og_image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+      "excerpt": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary document: the charter that defines the new federal AI-threat body's authority, a concrete official release beyond the earlier EO and czar appointment."
+      "rationale": "AI procurement rules: the Pentagon's Tradewinds fast-track (5-minute video pitches) changes how AI vendors including OpenAI, Anthropic and Google sell to defense."
     },
     {
       "rank": 2,
-      "title": "미 국방부, 앤트로픽 AI 사용 중단…블랙리스트 지정 8개월만",
-      "url": "https://www.yna.co.kr/view/AKR20261006093800009",
-      "source": "yna.co.kr",
-      "published_iso": "2026-10-06T14:06:40+09:00",
-      "og_image": "https://img4.yna.co.kr/photo/reuters/2026/10/03/PRU20261003159801009_P4.jpg",
-      "excerpt": "미국 국방부가 앤트로픽의 클로드 모델 등 AI 제품 사용을 중단했다고 발표 — 공급망 위험(블랙리스트) 지정 8개월 만. US Pentagon says it has stopped using Anthropic's Claude products.",
+      "title": "Exclusive: Inside Trump's AI science summit",
+      "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+      "source": "axios.com",
+      "published_iso": "2026-10-07T19:00:06+00:00",
+      "og_image": "https://images.axios.com/sceicdpm2rgOIJ7dPsnuLKBZTRU=/0x0:1920x1080/1366x768/2026/03/20/1774024302418.jpeg",
+      "excerpt": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios. The administration is looking for industry to step in amid cuts to federal science research funding.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New official action in AI procurement: the Pentagon announced it has stopped using Claude, directly affecting vendors selling AI to government."
+      "rationale": "New official announcement: a White House AI science summit that asks industry to fund superintelligence-driven research while federal science budgets are cut."
     },
     {
       "rank": 3,
-      "title": "Jailed Albanian mayor uses AI avatar to make deepfake speech",
-      "url": "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/",
+      "title": "The EU shelved AI liability rules. Sam Altman has revived the debate.",
+      "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
       "source": "politico.eu",
-      "published_iso": "2026-10-06T13:36:46+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2198210329-scaled.jpg",
-      "excerpt": "Tirana's jailed mayor Erion Veliaj is using an AI avatar to deliver a deepfake speech and keep running the city from behind bars, raising questions about synthetic media in politics.",
-      "axis": "elections",
+      "published_iso": "2026-10-06T19:18:07+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
+      "excerpt": "OpenAI’s CEO triggers ‘told you so’ moment for fans of liability laws in Europe.",
+      "axis": "policy",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Novel case of an officeholder using a synthetic avatar for political communication; the story only exists because of AI."
+      "rationale": "AI liability is back on the EU agenda after Altman's remarks, reopening a shelved rule that would decide who pays when AI systems cause harm."
     },
     {
       "rank": 4,
-      "title": "日출판협회 \"중고책 美 AI 학습용으로 대량판매 의혹…허용안돼\"",
-      "url": "https://www.yna.co.kr/view/AKR20261006194100073",
-      "source": "yna.co.kr",
-      "published_iso": "2026-10-06T21:22:31+09:00",
-      "og_image": "https://img6.yna.co.kr/photo/cms/2016/06/26/01/C0A8CA3D000001558D22B72C00147842_P4.jpeg",
-      "excerpt": "일본출판협회, 도서 유통업체가 미국 AI 개발사에 AI 학습용으로 중고책을 대량 판매했다는 의혹에 '허용 안 돼' 성명 — AI 학습 저작권 쟁점.",
-      "axis": "policy",
+      "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
+      "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "source": "axios.com",
+      "published_iso": "2026-10-06T13:05:06+00:00",
+      "og_image": "https://images.axios.com/4iSJg-XnM2SqScKNUxnprgBge30=/128x128/smart/2026/10/06/1791294167803.jpg",
+      "excerpt": "A new crop of powerful Western open-weight AI systems from Reflection and Mistral is narrowing China's recent lead, giving businesses and governments alternatives to Chinese open models.",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Formal statement from Japan's publishers' association objecting to bulk used-book sales for US AI training; a new cross-border AI-training copyright dispute with no story without AI."
+      "rationale": "Covers the US-China AI competition through new releases: Western open-weight models from Reflection and Mistral give governments alternatives to Chinese open models."
     },
     {
       "rank": 5,
-      "title": "Latino group bets on bilingual AI to cut voter confusion before the midterms",
-      "url": "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi",
-      "source": "axios.com",
-      "published_iso": "2026-10-06T09:00:00+00:00",
-      "og_image": "https://images.axios.com/1l5et48-fRu5fXJ2cUJJupbJksM=/0x0:1280x720/2026/10/05/1791235960291.gif",
-      "excerpt": "A national Latino civic engagement group is turning to a bilingual AI app to help voters navigate an increasingly complicated election system ahead of the midterms.",
-      "axis": "elections",
+      "title": "Europe’s AI policing plan stokes privacy concerns",
+      "url": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/",
+      "source": "politico.eu",
+      "published_iso": "2026-10-05T17:28:14+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
+      "excerpt": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
+      "axis": "policy",
       "tool": "Politics",
-      "accent": "#ff5a4d",
+      "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "New deployment of an AI voter-information tool ahead of the midterms; a non-partisan look at AI in election administration rather than deepfake risk."
+      "rationale": "Europol's plan to expand its AI capabilities brings EU privacy rules into conflict with AI-powered law enforcement."
     }
   ],
   "alternates": [
-    "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "https://www.lawfaremedia.org/article/how-to-make-an-ai-deal-with-china--trade-throttling-for-pacing",
-    "https://www.techpolicy.press/the-uns-ai-panel-sees-misalignment-we-see-corporate-misbehavior",
-    "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-    "https://www.lawfaremedia.org/article/the-law-can-t-keep-up-with-flock-s-ai-surveillance",
-    "https://www.politico.eu/article/les-renforts-deuropol-en-ia-suscitent-des-inquietudes-sur-la-protection-de-la-vie-privee/",
     "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
-    "https://www.techpolicy.press/pennsylvania-is-a-swing-state-case-study-for-data-center-politics",
-    "https://thediplomat.com/2026/10/data-centers-in-the-asia-pacific/",
-    "https://fpf.org/blog/what-gets-measured-gets-governed-benchmarking-privacy-in-frontier-ai-development-and-deployment/"
+    "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/",
+    "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+    "https://techpolicy.press/uk-wants-to-lead-the-world-on-ai-safety-it-cant-decide-where-to-start",
+    "https://techpolicy.press/the-uns-ai-panel-sees-misalignment-we-see-corporate-misbehavior",
+    "https://www.chinatalk.media/p/chinas-ai-safety-money-problem",
+    "https://thediplomat.com/2026/10/data-centers-in-the-asia-pacific/"
   ],
   "dedup": {
     "checks": {
-      "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/": {
-        "verdict": "follow-up",
-        "nearest": "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
-        "new_action": "Charter of the White House 'Super Intelligence Force' published (new primary document defining the body's authority), distinct from the 9/30 EO and the 10/05 Clayton appointment."
+      "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/": {
+        "verdict": "new",
+        "nearest": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261006093800009": {
+      "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit": {
         "verdict": "follow-up",
-        "nearest": "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
-        "new_action": "Pentagon officially announced it has stopped using Anthropic's Claude products (new agency action after the 9/28 court ruling)."
+        "nearest": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
+        "new_action": "White House announced a new presidential AI/superintelligence science summit (Thursday), a separate event from the 9/30 Super Intelligence EO and the 10/05 Kyoto Vision coalition release."
       },
-      "https://www.politico.eu/article/jailed-albanian-mayor-erion-veliaj-uses-ai-avatar-to-make-deepfake-speech/": {
+      "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/": {
+        "verdict": "new",
+        "nearest": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
+        "new_action": ""
+      },
+      "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china": {
+        "verdict": "new",
+        "nearest": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+        "new_action": ""
+      },
+      "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
-      },
-      "https://www.yna.co.kr/view/AKR20261006194100073": {
-        "verdict": "new",
-        "nearest": "https://digital-strategy.ec.europa.eu/en/consultations/targeted-consultation-support-better-copyright-environment-creativity-and-innovation",
-        "new_action": ""
-      },
-      "https://www.axios.com/2026/10/06/latino-voters-ai-guide-midterms-nubi": {
-        "verdict": "new",
-        "nearest": "https://www.techpolicy.press/when-nigerias-election-technology-cannot-recognize-the-voter",
-        "new_action": ""
       }
     },
-    "note": "Swap: removed WIRED 'Rural Data Centers Are in for a Big Federal Tax Break' (enrichment found the body is about the general rural opportunity-zone program and never mentions AI, so it fails the AI-makes-the-story test). Replaced at position 4 with the yna Japanese publishers' association statement on used books sold for US AI training. That story is new: the nearest copyright items in the 30-day history (EU copyright consultation 9/30, Thomson Reuters appeal 10/02) are different events. It is not in /tmp/ax_claimed_urls.txt and is not the same story as the books-section claim (thebookseller BMJ/Sage sharing research papers with Redpine). A geopolitics replacement was considered, but every remaining geopolitics candidate is commentary (Lawfare China deal, Diplomat x2, ChinaTalk, RoW book review) or industry model-release framing (Axios open-weight models), so the primary-document rule won out. yna.co.kr is now at 2, the cap. Earlier drops still stand: 과방위 국감 '독파모' 공방 (partisan reaction to the published 10/03 story), Europol (third politico.eu card), Ars OpenAI agents/Wikipedia (running rogue-agent story, not a government action), commentary pieces ranked below news. Upstream story_dedup removed CSET 'Should We Track AI Chips?' (repeat of 9/30)."
+    "note": "Dropped: CSET 'Should We Track AI Chips?' (same CSET chip-location-verification report as 'Tracking AI Chips: What Does It Cost?' published 9/30; upstream flagged it as a repeat yesterday). Brookings 'Trump's morally binding AI pact is not enough' (commentary on the voluntary AI standards published 9/30). Ars AI-song streaming fraud sentencing (a criminal case, not policy, and music already covered it). Register South Korean president cyber-attack tools (fails the AI-deletion test because the headline still works without AI). Common Sense Media ChatGPT for Teens (an advocacy rating, not a government action, so it is off the three axes). Ranked below the picks as commentary/analysis/interview: CSET propaganda op-ed, Diplomat x2, TPP x3 (UK safety, UN panel brief, regulate-dev op-ed), Lawfare Audrey Tang interview, ChinaTalk. Axios open-weight carries a 'related' history_match to the 9/29 OpenAI rogue-agents story, but that match is a false positive from word overlap: the two stories have different subjects. Europol was dropped yesterday only for the politico.eu cap and was never published, so it is fresh. Outlets: wired 1, axios 2, politico.eu 2, which meets the cap of 2 and gives 3 distinct outlets. Axes: 4 policy, 1 geopolitics. The only fresh elections/public-opinion candidate was the CSET op-ed (commentary), so no elections pick was made."
   }
 }

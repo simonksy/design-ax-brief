@@ -85,6 +85,116 @@
           "x": "模型的表现也不稳定：在重复十次的单元中，有80.4%每次都给出同一类答案，而各模型的一致性从4.4%到100%不等。作者称这项工作是提供评估框架的概念验证，并明确表示它并未估计已部署系统中的临床风险。研究没有涉及患者。"
         }
       ]
+    },
+    "medicine/medicine-teladoc-ambient-ai-vitals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+          "cap": "经Teladoc许可使用"
+        },
+        {
+          "t": "p",
+          "x": "Teladoc Health正为其面向医院和医疗系统的虚拟诊疗平台增加新的人工智能功能：一种远程监测患者生命体征的“非接触式”方法，以及一个可录制并转写临床问诊、生成病历记录的AI记录员。记录工具现已上线；生命体征功能正处于私密预览阶段，预计将于十二月全面发布。"
+        },
+        {
+          "t": "p",
+          "x": "借助SoloVitals，医护团队无需接触患者即可追踪其心率和呼吸频率：配备摄像头的Solo设备捕捉患者面部肤色，并利用光学技术测量血容量变化。SoloScribe是一项环境式AI文档功能，适用于线下和线上问诊。"
+        },
+        {
+          "t": "p",
+          "x": "“医疗系统承受着要做得更多的巨大压力，却要花更多时间应付越来越多的平台、工具和供应商，”Teladoc Health北美医疗系统（North American Health Systems）总经理Joby McKenzie表示。"
+        },
+        {
+          "t": "p",
+          "x": "在2025年净亏损$200.3 million之后，Teladoc于七月将2026年营收预期下调至$2.36 billion至$2.45 billion，较此前指引下降5%，主要原因在于其心理健康部门BetterHelp。"
+        }
+      ]
+    },
+    "medicine/medicine-parkinsons-ai-telerehab-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "这项探索性、多中心、随机、评估者设盲、多组比较试验旨在评估一套AI-facilitated远程康复系统在早期帕金森病（PD）中不同干预时长下的可行性和探索性临床信号。"
+        },
+        {
+          "t": "p",
+          "x": "一百二十名PD患者（Hoehn-Yahr分期≤2.5）按1:1:1比例被随机分入短期（1个月）、中期（2个月）和长期（3个月）训练组（15–30分钟，每周5天）。主要结局为MDS-UPDRS Part III评分从基线到3个月的变化。"
+        },
+        {
+          "t": "p",
+          "x": "最终分析纳入71名参与者。3个月时各组主要运动结局无显著差异。事后应答者分析显示，与1个月组相比，3个月组达到探索性认知应答阈值的比例更高。整个试验期间未记录到跌倒或不良事件。"
+        },
+        {
+          "t": "p",
+          "x": "由于主要终点为阴性、失访率高、未设常规护理对照组，且认知方面的发现仅限于探索性事后分析，作者表示这些结果应被视为提出假设，需要在更大规模的试验中进一步验证。"
+        }
+      ]
+    },
+    "medicine/medicine-clairity-everlywell-breast-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Clairity正通过与消费者健康检测公司Everlywell合作，扩大其AI-based乳腺癌风险评估平台Clairity Breast在U.S.的可及范围。"
+        },
+        {
+          "t": "p",
+          "x": "Clairity Breast通过分析一次常规筛查钼靶影像，预测女性未来五年内罹患乳腺癌的风险。该平台于2025年获得U.S.食品药品监督管理局（FDA）的De Novo授权。此前，它仅在马萨诸塞州的Beth Israel Deaconess Medical Center和科罗拉多州的Invision Sally Jobe Imaging Center提供。"
+        },
+        {
+          "t": "p",
+          "x": "Clairity表示，近期做过符合条件的筛查钼靶检查的U.S.患者，现在可通过Everlywell的消费者平台获得该评估，平台提供医生医嘱审核、数字化结果交付以及临床医生支持的后续随访。该公司由乳腺影像研究者Connie Lehman, MD, PhD创立。"
+        }
+      ]
+    },
+    "medicine/medicine-europe-20-center-radiology-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+        },
+        {
+          "t": "p",
+          "x": "据发表于JACR的一项研究，在私立放射科机构中广泛采用AI可带来可衡量的效率提升。欧洲影像专家在3R Swiss Imaging Network的20家门诊影像中心、历时近5年的实施过程中，评估了来自七家供应商的10款AI工具。"
+        },
+        {
+          "t": "p",
+          "x": "“临床效用的主要障碍是基础设施延迟，而非算法速度，”第一作者Dr. Sergey Morozov及其同事写道。研究队列包括用于延迟分析的97,000次检查、用于周转时间分析的2025年21,000次检查，以及一项针对58名放射科医生的调查。"
+        },
+        {
+          "t": "p",
+          "x": "约91%的医生积极采用了AI。总延迟中位数约为2.06分钟，其中约72%来自数据路由；约7.2%的病例中，AI结果在报告定稿后才送达，比例从膝关节MRI的3%到胸部CT的13%不等。"
+        },
+        {
+          "t": "p",
+          "x": "有AI可用时，创伤放射摄影（-26%）和膝关节MRI（-18%）的周转时间中位数降低，而脑容量测量MRI无显著变化。仅创伤放射摄影一项，该项目就释放了0.69 FTE的产能。"
+        }
+      ]
+    },
+    "medicine/breast-second-read": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+          "cap": "放射科医生在诊断工作站上阅读乳腺X线影像。来源: Lunit。"
+        },
+        {
+          "t": "p",
+          "x": "一家欧洲医疗系统宣布，将用人工智能取代乳腺筛查中放射科医生的第二次阅片。此次部署覆盖瑞典 Stockholm Region 的三家医院，每年涉及200,000至250,000例乳腺影像检查，AI将在区域规模上充当独立的第二阅片者。"
+        },
+        {
+          "t": "p",
+          "x": "与欧洲多数国家一样，也与美国不同，瑞典由两名放射科医生各自独立复核每一份乳腺X线影像，以此作为质量把关。AI替代其中的第二名阅片者，因此每例检查仍由一名放射科医生阅读。"
+        },
+        {
+          "t": "p",
+          "x": "此举的基础是在 Stockholm 的 Saint Goran 医院开展的一项前瞻性人群研究，该研究在超过55,000名女性的真实筛查环境中评估了该系统。2024年RSNA年会上公布的首年结果显示，癌症检出率提高15%，放射科医生的阅片时间缩短超过36%。"
+        },
+        {
+          "t": "p",
+          "x": "该医院自2023年起使用该系统，三年间支持约200,000例乳腺检查，这也是该厂商继Dalarna County之后在瑞典的第二次区域范围部署。在此之前，一家总部位于Berlin的公司宣布，其乳腺分诊工具获得全球首个批准，该工具对正常乳腺X线影像完全跳过放射科医生复核。"
+        }
+      ]
     }
   }
 }

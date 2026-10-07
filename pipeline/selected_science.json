@@ -1,109 +1,107 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "section": "science",
   "items": [
     {
-      "title": "Agentic AI turns simple language into self-guided X-ray scans of microelectronics",
-      "url": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-06T12:40:13-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-new-kind-of-microsco.jpg",
-      "excerpt": "Science has increasingly used artificial intelligence (AI) as a kind of microscope—sorting data, analyzing images and revealing hidden patterns. Now a new shift is underway: AI that not only breaks down data but also helps scientists decide what to do next through simple, natural",
+      "title": "As AI Closed In on 'Unique Games' Proof, Researchers Raced to Beat the Machines",
+      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "source": "Quanta Magazine",
+      "published_iso": "2026-10-07T15:08:46+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Social.jpg",
+      "excerpt": "In the shadow of a rumored AI proof of one of the biggest problems in their field, three computer scientists rushed to publish their own milestone result.",
       "category": "science",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "An AI agent takes plain-language instructions and steers X-ray imaging of microelectronics on its own. This moves AI from analyzing data to running the instrument, and it is a different instrument and study from the 09-15 AFM microscope card."
+      "rationale": "A new milestone result on the Unique Games conjecture, published early because an AI proof was rumored to be close. This is a different problem and event from the earlier Millennium Prize, sphere-packing and probability cards."
     },
     {
-      "title": "AI techniques behind image creation improve flash flood forecasts across U.S. river basins",
-      "url": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-06T17:30:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-techniques-behind-i-1.jpg",
-      "excerpt": "A flash flood can devastate a community for years in a matter of minutes. These disasters account for roughly 85% of floods and cause thousands of deaths annually worldwide, with water levels capable of shooting up 30 feet (9 meters) and receding to normal levels in the span of a",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "A specific new hydrology result that applies image-generation methods to flash-flood forecasting across U.S. river basins. The history_match (09-13) is a general feature on AI disaster forecasting, not this study."
-    },
-    {
-      "title": "AI may help catch heart transplant rejection without biopsies",
-      "url": "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html",
-      "source": "Medical Xpress",
-      "published_iso": "2026-10-06T14:20:04-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heart-patient-1.jpg",
-      "excerpt": "By analyzing heart rhythm recordings and blood tests, artificial intelligence may accurately flag when a transplant patient's body starts attacking a donated heart, a new study suggests.",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "New clinical study in which AI reads ECGs and blood tests to flag heart transplant rejection without invasive biopsies. It is a different condition and study from the 09-12 STAT heart-attack EKG card and the 09-30 xECG card."
-    },
-    {
-      "title": "Unlocking Earth AI's planetary geospatial foundation models for global public health",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "source": "Google Research",
-      "published_iso": "2026-10-06T15:05:11+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
-      "excerpt": "Google Research blog post on applying Earth AI's planetary geospatial foundation models to global public health (excerpt not extractable; enrichment pass should read the body).",
-      "category": "science",
-      "tool": "Science",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "Primary-source research release that applies geospatial foundation models to population-health questions. It adds a lab-blog outlet and an Earth-observation-meets-epidemiology field. The history_match (ocean sediment carbon, 09-09) is unrelated."
-    },
-    {
-      "title": "From food to fuel, AI helps pinpoint how to grow 'microalgae' at scale",
-      "url": "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-06T15:20:15-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/from-food-to-fuel-ai-h.jpg",
-      "excerpt": "Microalgae (microscopic organisms that use light and carbon dioxide to grow) can be used to make ingredients and food for animals, pigments and potentially renewable fuels. But growing microalgae efficiently at an industrial scale is difficult.",
+      "title": "New AI method uses engineering knowledge to estimate disaster damage from incomplete satellite imagery",
+      "url": "https://techxplore.com/news/2026-10-ai-method-knowledge-disaster-incomplete.html",
+      "source": "Tech Xplore",
+      "published_iso": "2026-10-07T16:20:09-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
+      "excerpt": "A new technology has been developed that can rapidly predict city-scale structural damage even when portions of satellite imagery are obscured by clouds or smoke immediately after a disaster. The method folds engineering knowledge into the model so missing pixels do not break the estimate.",
       "category": "science",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Applied bioprocess result in which AI finds growth conditions for industrial-scale microalgae. It is fresh, has no counterpart in the 30-day history, and adds a biotech and energy field."
+      "rationale": "A new physics-informed method that estimates city-scale structural damage after a disaster when the imagery is obscured. It is post-event damage assessment, which is a different study from the 09-13 forecasting feature and the 10-07 flash-flood card."
+    },
+    {
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://allenai.org/blog/astabrief",
+      "source": "Ai2",
+      "published_iso": "2026-10-02T00:00:00-08:00",
+      "og_image": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png",
+      "excerpt": "Ai2 is releasing AstaBrief, an 8B open-weights model for generating cited scientific reports, available in Asta's Fast mode or to download and run on your own infrastructure.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A primary-source release of an 8B open-weights model that writes cited scientific reports. Researchers can run it themselves, and it is unrelated to the 09-08 Ai2 BenchMIRT card."
+    },
+    {
+      "title": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
+      "url": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+      "source": "The Quantum Insider",
+      "published_iso": "2026-10-07T15:42:10+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg",
+      "excerpt": "Haiqu launched AgenticOS, a system that coordinates specialized AI agents to plan, validate and prepare quantum research experiments.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "A new product release in which coordinated AI agents plan and validate quantum experiments. It comes from a different company and does something different from the earlier IonQ, QC Design and MIT optics-lab quantum cards."
+    },
+    {
+      "title": "New Calibration Framework Improves Confidence in AI Virtual Cell Models",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/new-calibration-framework-improves-confidence-in-ai-virtual-cell-models/",
+      "source": "GEN - Genetic Engineering and Biotechnology News",
+      "published_iso": "2026-10-06T23:05:38Z",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg",
+      "excerpt": "Metrics such as mean squared error and control-referenced Pearson correlation are frequently miscalibrated when used to judge AI virtual cell models, according to the authors, who propose a calibration framework instead.",
+      "category": "science",
+      "tool": "Science",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "rationale": "A new framework for evaluating AI virtual cell models, showing that the standard metrics (MSE, control-referenced Pearson) are miscalibrated. It is an AI-evaluation result, not one of the earlier virtual-cell model releases (09-24, 09-15), and it is basic biology rather than clinical, so it stays in science. It also adds GEN as a fifth outlet."
     }
   ],
   "alternates": [
-    "https://phys.org/news/2026-10-ai-method-retention-small-molecules.html",
-    "https://medicalxpress.com/news/2026-10-camera-combined-ai-diagnosis-movement.html",
-    "https://techxplore.com/news/2026-10-gender-pay-gap-ai-female.html",
-    "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-    "https://techxplore.com/news/2026-10-scientists-detector-ai-chatbots.html",
-    "https://www.scientificamerican.com/article/what-makes-a-good-ai-safety-test-experts-explain-why-even-the-best-techniques-may-not-be-powerful-enough/"
+    "https://allenai.org/blog/bolmo-nature",
+    "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+    "https://www.genengnews.com/topics/bioprocessing/adding-low-fidelity-data-to-ml-training-sets-could-yield-better-process-models/",
+    "https://techxplore.com/news/2026-10-spiking-neural-network.html"
   ],
   "dedup": {
     "checks": {
-      "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html": {
+      "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-microscopes-nanoscale-features-sample.html",
+        "nearest": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html": {
+      "https://techxplore.com/news/2026-10-ai-method-knowledge-disaster-incomplete.html": {
         "verdict": "new",
         "nearest": "https://phys.org/news/2026-09-eye-ai-revolution-natural-disaster.html",
         "new_action": ""
       },
-      "https://medicalxpress.com/news/2026-10-ai-heart-transplant-biopsies.html": {
+      "https://allenai.org/blog/astabrief": {
         "verdict": "new",
-        "nearest": "https://www.statnews.com/2026/09/11/fda-new-ekg-heart-attack-detection-algo-queen-of-hearts/",
+        "nearest": "https://allenai.org/blog/benchmirt",
         "new_action": ""
       },
-      "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/": {
+      "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-physics-based-ai-global-carbon.html",
+        "nearest": "https://thequantuminsider.com/2026/09/18/mits-robotic-optics-lab-could-speed-testing-for-quantum-technology/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-food-fuel-ai-microalgae-scale.html": {
+      "https://www.genengnews.com/topics/artificial-intelligence/new-calibration-framework-improves-confidence-in-ai-virtual-cell-models/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
+        "nearest": "https://phys.org/news/2026-09-virtual-cells-built-4d-ai.html",
         "new_action": ""
       }
     },
-    "note": "No candidate is a repeat of the 30-day history. All four history_match tags are 'related' band and each points to a different study. DROPPED as repeat: Physics World 'Drones, AI and the future of wildlife conservation' is an evergreen feature that overlaps the 10-03 Antarctica drones card and was already passed over on 10-06. NOT PICKED as opinion, essay or feature: Quanta 'Is AI the End of Math', SciAm attachment theory, SciAm AI safety test explainer, MSR podcast, Tech Xplore lie-detector expert piece. NOT PICKED as off-axis: MIT algorithmic monoculture (economics), MIT 'How AI Sees the City' (book). In the SciAm Etruscan tomb story the AI role is unclear. MIT AI hardware survey leans toward compute and industry. Phys.org retention-times was skipped to keep Phys.org at 2; it is the first alternate. Medical Xpress newborn camera and Tech Xplore gender pay gap were weaker than the picks. No pathogen or biosecurity items were picked; the Google public-health post is about geospatial population health. Outlets: Tech Xplore 1, Phys.org 2, Medical Xpress 1, Google Research 1 (4 distinct)."
+    "note": "None of the 22 candidates repeats a story from the 30-day history. All 6 history_match tags are in the 'related' band, and each points to a different study. SWAP PASS: the Phys.org spatial-transcriptomics pick (https://phys.org/news/2026-10-algorithm-gene-easier-cell.html) was removed after fact-check. Its Domain Elastic Transform method is a training-free, non-ML registration algorithm, so it is not an AI story. It was replaced by GEN's AI virtual-cell calibration framework. That candidate's history_match points to the 09-13 Psychology Today 'AI Behavior Impacted by Internal Confidence Levels' card (related band, a different topic: LLM confidence vs. cell-model metrics). The closer published story is the 09-24 Phys.org 'Virtual cells built from 4D AI models' card. That card was a model-building study, while this is a new evaluation and calibration framework, so it is a separate event and the verdict is new. It is also distinct from the 09-15 Stanford cross-species cell models and the 09-22 cell-type comparison tool. There is no overlap with today's medicine picks (pediatric bone age FDA, Teladoc, Parkinson's telerehab RCT, Clairity, Swiss radiology AI study). Alternates considered for the swap: Ai2 Bolmo is a Nature publication of an already-released language-model technique, would be a second Ai2 card, and is not a science application. GEN hybrid digital twins is mechanistic modelling plus AI, so it is less AI-centred. GEN low-fidelity data is a narrower bioprocess-modelling result. The Tech Xplore spiking-network study would be a second Tech Xplore card and is computational neuroscience. NOT PICKED on safety or section-boundary grounds: (1) DeepMind SynthID Bio was skipped on the biosecurity-adjacent rule; it has no og_image either. (2) Phys.org MALVINA (bacterial invasion of human cells) was skipped as pathogen-adjacent. (3) The bioRxiv preprint testing AlphaGenome on ALS was skipped because it names a specific disease, so it leans toward medicine; it also continues the AlphaGenome story published 09-09 and 09-20. NOT PICKED as essays or explainers: Quanta 'Is AI the End of Math', MIT Technology Review's LLM-reasoning opinion piece, SciAm on attachment theory, SciAm on distillation (industry dispute), and the Tech Xplore lie-detector expert piece. Physics World's wildlife-drones feature is evergreen and overlaps the 10-03 Antarctica drones card. In the SciAm Etruscan tomb story the AI role is unclear. RGI-Toolkit has no og_image. The 5 picks come from 5 different outlets: Quanta, Tech Xplore, Ai2, The Quantum Insider and GEN."
   }
 }

@@ -85,6 +85,116 @@
           "x": "Los modelos también fueron inconsistentes: en el 80.4% de las celdas repetidas diez veces, un modelo devolvió siempre la misma categoría de respuesta, con una consistencia por modelo que fue del 4.4% al 100%. Los autores describen el trabajo como una prueba de concepto que aporta un marco de evaluación y afirman con claridad que no estima el riesgo clínico en sistemas ya desplegados. No participaron pacientes."
         }
       ]
+    },
+    "medicine/medicine-teladoc-ambient-ai-vitals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
+          "cap": "Con permiso de Teladoc"
+        },
+        {
+          "t": "p",
+          "x": "Teladoc Health incorpora nuevas capacidades de inteligencia artificial a su plataforma de atención virtual para hospitales y sistemas de salud: un enfoque “sin contacto” para monitorizar a distancia las constantes vitales de los pacientes y un escriba de AI que graba y transcribe las consultas clínicas para generar notas. La herramienta de transcripción ya está disponible; la función de constantes vitales está en versión preliminar privada y se espera que se lance de forma general en diciembre."
+        },
+        {
+          "t": "p",
+          "x": "SoloVitals permite a los equipos asistenciales seguir la frecuencia cardiaca y respiratoria de los pacientes sin tocarlos: los dispositivos Solo con cámara captan el color de la piel del rostro del paciente y usan una técnica óptica para medir cambios en el volumen sanguíneo. SoloScribe es una función de documentación con AI ambiental para consultas presenciales y virtuales."
+        },
+        {
+          "t": "p",
+          "x": "“Los sistemas de salud están sometidos a una intensa presión para hacer más, pero dedican cada vez más tiempo a gestionar un número creciente de plataformas, herramientas y proveedores”, afirmó Joby McKenzie, director general de North American Health Systems en Teladoc Health."
+        },
+        {
+          "t": "p",
+          "x": "Tras una pérdida neta de $200.3 millones en 2025, Teladoc rebajó en julio su previsión de ingresos para 2026 a entre $2.36 mil millones y $2.45 mil millones, un 5% menos que su previsión anterior, principalmente por su división de salud mental, BetterHelp."
+        }
+      ]
+    },
+    "medicine/medicine-parkinsons-ai-telerehab-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Este ensayo comparativo exploratorio, multicéntrico, aleatorizado, con evaluadores cegados y de múltiples brazos tuvo como objetivo evaluar la viabilidad y las señales clínicas exploratorias de un sistema de telerrehabilitación facilitado por AI (AI-facilitated) con distintas duraciones de intervención en la enfermedad de Parkinson en fase inicial (PD)."
+        },
+        {
+          "t": "p",
+          "x": "Ciento veinte pacientes con PD (estadio de Hoehn-Yahr ≤2.5) fueron aleatorizados en proporción 1:1:1 a grupos de entrenamiento de corta (1 mes), media (2 meses) y larga duración (3 meses) (15–30 min, 5 días/semana). La variable principal fue el cambio en la puntuación de la MDS-UPDRS Part III desde el inicio hasta los 3 meses."
+        },
+        {
+          "t": "p",
+          "x": "El análisis final incluyó a 71 participantes. No se observaron diferencias significativas entre grupos en el resultado motor principal a los 3 meses. Un análisis post hoc de respondedores mostró que el grupo de 3 meses alcanzó con más frecuencia el umbral exploratorio de respuesta cognitiva que el grupo de 1 mes. No se registraron caídas ni eventos adversos durante el ensayo."
+        },
+        {
+          "t": "p",
+          "x": "Dado que la variable principal fue negativa, el abandono fue elevado, no hubo un grupo control con atención habitual y el hallazgo cognitivo se limitó a un análisis post hoc exploratorio, los autores señalan que los resultados deben interpretarse como generadores de hipótesis y requieren validación en ensayos más amplios."
+        }
+      ]
+    },
+    "medicine/medicine-clairity-everlywell-breast-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Clairity amplía la disponibilidad en U.S. de Clairity Breast, su plataforma AI-based de evaluación del riesgo de cáncer de mama, mediante una alianza con Everlywell, empresa de pruebas de salud para consumidores."
+        },
+        {
+          "t": "p",
+          "x": "Clairity Breast analiza una sola mamografía de cribado rutinaria para predecir el riesgo de una mujer de desarrollar cáncer de mama en cinco años. La plataforma recibió en 2025 la autorización De Novo de la Administración de Alimentos y Medicamentos de U.S. (FDA). Hasta ahora solo estaba disponible en el Beth Israel Deaconess Medical Center, en Massachusetts, y en el Invision Sally Jobe Imaging Center, en Colorado."
+        },
+        {
+          "t": "p",
+          "x": "Los pacientes en U.S. con una mamografía de cribado reciente que cumpla los requisitos ya pueden acceder a la evaluación a través de la plataforma de consumo de Everlywell, que incluye revisión médica de la orden, entrega digital de resultados y seguimiento con apoyo clínico, según Clairity. La empresa fue fundada por la investigadora en imagen mamaria Connie Lehman, MD, PhD."
+        }
+      ]
+    },
+    "medicine/medicine-europe-20-center-radiology-ai-study": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+        },
+        {
+          "t": "p",
+          "x": "La adopción generalizada de AI en una consulta privada de radiología puede producir mejoras de eficiencia medibles, según un estudio publicado en JACR. Expertos europeos en imagen evaluaron 10 herramientas de AI de siete proveedores durante una implementación de casi 5 años en 20 centros de imagen ambulatorios de 3R Swiss Imaging Network."
+        },
+        {
+          "t": "p",
+          "x": "“La latencia de la infraestructura, no la velocidad del algoritmo, fue la principal barrera para la utilidad clínica”, escribieron el autor principal, Dr. Sergey Morozov, y sus colegas. Las cohortes incluyeron 97,000 estudios para la latencia, 21,000 estudios de 2025 para el tiempo de respuesta y una encuesta a 58 radiólogos."
+        },
+        {
+          "t": "p",
+          "x": "La adopción activa de AI alcanzó a cerca del 91% de los médicos. La latencia total mediana fue de unos 2.06 minutos, cerca del 72% de ella debida al enrutamiento de datos; los resultados de AI llegaron después de finalizar el informe en cerca del 7.2% de los casos, desde el 3% en la MRI de rodilla hasta el 13% en la CT de tórax."
+        },
+        {
+          "t": "p",
+          "x": "La disponibilidad de AI se asoció con menores tiempos de respuesta medianos en la radiografía de traumatología (-26%) y en la MRI de rodilla (-18%), mientras que la MRI de volumetría cerebral no mostró cambios significativos. El programa generó 0.69 FTE de capacidad solo con la radiografía de traumatología."
+        }
+      ]
+    },
+    "medicine/breast-second-read": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-09/performance_for_mammography.jpg?h=f8a52084&itok=Ri_ATJtr",
+          "cap": "Un radiólogo lee mamografías en una estación de trabajo de informes. Fuente: Lunit."
+        },
+        {
+          "t": "p",
+          "x": "Un sistema de salud europeo ha anunciado que sustituirá las segundas lecturas de los radiólogos en el cribado de mama por inteligencia artificial. El despliegue abarca tres hospitales de la Stockholm Region de Suecia y cubre entre 200,000 y 250,000 exámenes de imagen mamaria al año, con la IA actuando como segundo lector independiente a escala regional."
+        },
+        {
+          "t": "p",
+          "x": "Como en la mayor parte de Europa, y a diferencia de Estados Unidos, en Suecia dos radiólogos revisan de forma independiente cada mamografía como control de calidad. La IA ocupa el lugar del segundo de esos dos lectores, de modo que un radiólogo sigue leyendo todos los exámenes."
+        },
+        {
+          "t": "p",
+          "x": "La base fue un estudio prospectivo de base poblacional en el hospital Saint Goran de Stockholm, que evaluó el sistema en el cribado real de más de 55,000 mujeres. Los resultados del primer año, presentados en la reunión de la RSNA en 2024, mostraron un aumento del 15% en la detección de cáncer y una reducción de más del 36% en los tiempos de lectura de los radiólogos."
+        },
+        {
+          "t": "p",
+          "x": "Ese hospital utiliza el sistema desde 2023 y ha dado soporte a unos 200,000 exámenes mamarios en tres años; este es el segundo despliegue regional del proveedor en Suecia, después de Dalarna County. La noticia llega después de que una empresa con sede en Berlin anunciara que había recibido la primera autorización mundial para una herramienta de triaje mamario que omite por completo la revisión del radiólogo en las mamografías normales."
+        }
+      ]
     }
   }
 }

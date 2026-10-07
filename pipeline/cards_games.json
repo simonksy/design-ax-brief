@@ -1,1656 +1,1514 @@
 {
- "date": "2026-10-07",
- "section": "games",
- "cards": [
-  {
-   "id": "games-ps-ai-boss",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
-   "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
-   "mini_headline": "보스 행동을 다시 쓰는 AI",
-   "tool": "Games",
-   "source": "Wccftech",
-   "url": "https://wccftech.com/fromsoftware-bosses-stop-learnable-playstation-ai-patent-rewrite-enemy-behavior/",
-   "accent": "#7928ca",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-      "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
-     },
-     {
-      "t": "p",
-      "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 다루는 내용은 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”이다."
-     },
-     {
-      "t": "p",
-      "x": "시스템은 네 단계로 돌아간다. NPC를 만났을 때의 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정한 NPC 콘텐츠를 받아 게임 콘텐츠를 고친다. 특허는 특정 모델 아키텍처를 못 박지 않았다. 그래서 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
-     },
-     {
-      "t": "p",
-      "x": "Wccftech는 소울라이크가 가장 큰 덕을 보리라 본다. 싱글플레이 게임의 적은 대개 정해진 패턴을 따르니 플레이어가 익혀서 공략할 수 있다. AI가 적의 행동을 다시 쓰면 얘기가 달라진다. 적은 플레이어가 얼마나 공격적인지, 혹은 방어적인지에 맞춰 적응하고 페이즈가 여럿인 보스는 격투 게임의 역전 메커니즘처럼 몰리면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
-     },
-     {
-      "t": "p",
-      "x": "게임이 너무 어려워지지 않게 조율은 해야겠지만, 적의 체력이나 공격력만 올리는 것보다 크면서도 공정한 도전을 줄 수 있다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "PlayStation patent lets AI\nrewrite enemy behavior live",
-     "body": "A new PlayStation patent describes AI that rewrites NPC behavior on the fly, which could transform soulslike games.",
-     "mini_headline": "AI that rewrites boss behavior",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "A new PlayStation patent outlines a system using AI to rewrite enemy behavior on the fly"
-       },
-       {
-        "t": "p",
-        "x": "A new Sony Interactive Entertainment patent, discovered by Patentlyze and published on October 1, covers \"improving video game systems using an artificial intelligence-adapted non-player character.\""
-       },
-       {
-        "t": "p",
-        "x": "The system works in four steps: it collects player data on encounters with an NPC along with game data, feeds that into a machine learning model, gets back NPC content that adjusts behavior, dialogue and appearance, and then modifies the game content. The patent doesn't list a specific model architecture, so it could work across different AI systems and be used by developers beyond PlayStation's own studios."
-       },
-       {
-        "t": "p",
-        "x": "Wccftech argues soulslikes would benefit most. Enemies in single-player games normally stick to programmed patterns that can be learned and exploited; with AI rewriting their behavior, they could adapt to how aggressive or defensive the player is, and multi-phase bosses could even enter their second phase earlier under pressure, like fighting-game comeback mechanics."
-       },
-       {
-        "t": "p",
-        "x": "Such a system would need tweaking so games don't become too difficult, but it could offer a greater yet fairer challenge than simply turning up enemy health or damage."
-       }
-      ]
-     }
+  "date": "2026-10-08",
+  "section": "games",
+  "cards": [
+    {
+      "id": "games-unity-spark-asset-store",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
+      "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
+      "mini_headline": "Unity Spark와 Asset Store의 만남",
+      "tool": "Games",
+      "source": "80 Level",
+      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "IkcK7aeMw5A"
+          },
+          {
+            "t": "p",
+            "x": "Unity가 브라우저에서 게임을 만드는 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고 만들고 다듬어 게시까지 하게 해주는 도구다."
+          },
+          {
+            "t": "p",
+            "x": "Unity CEO Matt Bromberg는 Spark가 프롬프트 한 번으로 게임을 뽑아내는 생성기와는 다르다고 분명히 선을 긋는다. 아이디어를 구현할 때 부딪히는 기술 장벽을 일부 걷어내려는 것일 뿐, 창작을 자동화하거나 첫 프롬프트에 완성된 게임이 나온다고 내세우지는 않는다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+            "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+            "cap": "Space Corridor | Unity Spark로 만든 Shooter"
+          },
+          {
+            "t": "p",
+            "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
+          },
+          {
+            "t": "p",
+            "x": "Financial Times에 따르면 Spark가 “일부 에셋을 생성”하기는 하지만 이미지와 효과는 대부분 사람이 만든 Unity의 기존 라이브러리에서 가져온다. 기여한 작가에게는 크레디트와 보상이 돌아간다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+            "cap": "Horror Story | Unity Spark로 만든 Haunted House"
+          },
+          {
+            "t": "p",
+            "x": "공유 URL 하나로 여럿이 함께 개발하고, 완성한 게임은 Google의 새 플랫폼 Playground에 올릴 수 있다. 수익 모델은 아직 정하지 않았지만 Unity는 무료와 유료 이용 단계를 모두 둘 계획이다. 비공개 베타는 2026년 후반에 시작한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Unity Spark builds AI games\nfrom artist-made assets",
+          "body": "Unity Spark pairs AI game creation with Asset Store art, but its CEO says creators must still design and polish.",
+          "mini_headline": "Unity Spark meets the Asset Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity has announced Unity Spark, a browser-based game creation platform intended to let people describe, construct, refine, and publish interactive experiences without first learning conventional programming or the complete Unity Editor."
+              },
+              {
+                "t": "p",
+                "x": "Unity CEO Matt Bromberg is positioning Spark very differently from one-prompt game generators. The goal is to remove some of the technical barriers around implementing ideas, but not to automate the creative process or pretend a first prompt produces a finished game."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Action RPG Made in Untiy Spark"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Shooter Made in Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "\"This isn’t about “one-shotting”. Asking AI to regurgitate an already invented game does not make you the next Hideo Kojima… Unity Spark connects directly to the Unity Asset Store, so you can build with thousands of high-quality, artist-created assets made by our community.\" – Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "According to the Financial Times, Spark will be able to \"generate some assets,\" but most of its imagery and effects will come from Unity’s existing human-made library, with contributing artists credited and compensated."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Haunted House Made in Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "Projects can be developed collaboratively through a shared URL, and completed games can be published through Google’s new Playground platform. Unity has not finalized its commercial model, although both free and paid access levels are planned. A closed beta is scheduled to begin later in 2026."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
+          "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
+          "mini_headline": "Unity Spark와 Asset Store의 만남",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity가 브라우저에서 게임을 만드는 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고 만들고 다듬어 게시까지 하게 해주는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "Unity CEO Matt Bromberg는 Spark가 프롬프트 한 번으로 게임을 뽑아내는 생성기와는 다르다고 분명히 선을 긋는다. 아이디어를 구현할 때 부딪히는 기술 장벽을 일부 걷어내려는 것일 뿐, 창작을 자동화하거나 첫 프롬프트에 완성된 게임이 나온다고 내세우지는 않는다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Unity Spark로 만든 Shooter"
+              },
+              {
+                "t": "p",
+                "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Times에 따르면 Spark가 “일부 에셋을 생성”하기는 하지만 이미지와 효과는 대부분 사람이 만든 Unity의 기존 라이브러리에서 가져온다. 기여한 작가에게는 크레디트와 보상이 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Unity Spark로 만든 Haunted House"
+              },
+              {
+                "t": "p",
+                "x": "공유 URL 하나로 여럿이 함께 개발하고, 완성한 게임은 Google의 새 플랫폼 Playground에 올릴 수 있다. 수익 모델은 아직 정하지 않았지만 Unity는 무료와 유료 이용 단계를 모두 둘 계획이다. 비공개 베타는 2026년 후반에 시작한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Unity Sparkが\n作家の素材でAIゲーム",
+          "body": "Unity SparkはAsset Store素材で作るが、仕上げは人の仕事だ。",
+          "mini_headline": "Unity SparkとAsset Storeが連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unityは、ブラウザ上で動くゲーム制作プラットフォーム「Unity Spark」を発表した。従来のプログラミングやUnity Editor全体を先に習得しなくても、インタラクティブな体験を記述し、組み立て、磨き上げ、公開できるようにすることを狙う。"
+              },
+              {
+                "t": "p",
+                "x": "Unity CEOのMatt Bromberg氏は、Sparkを一つのプロンプトでゲームを生み出すツールとはまったく異なるものとして位置づける。目指すのはアイデアを形にする際の技術的な障壁を一部取り除くことであり、創作プロセスを自動化することでも、最初のプロンプトで完成したゲームができると装うことでもない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Untiy Sparkで作られたAction RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Unity Sparkで作られたShooter"
+              },
+              {
+                "t": "p",
+                "x": "「これは“one-shotting”の話ではない。すでに生み出されたゲームをAIに吐き出させても、次のHideo Kojimaにはなれない…Unity SparkはUnity Asset Storeに直接つながっており、コミュニティのアーティストが作った数千点の高品質なアセットを使って制作できる」– Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Timesによると、Sparkは「一部のアセットを生成」できるが、画像やエフェクトの大半はUnityが持つ人の手による既存ライブラリから提供され、素材を提供したアーティストにはクレジットと報酬が与えられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Unity Sparkで作られたHaunted House"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Unity Spark用\n艺术家素材做AI游戏",
+          "body": "Unity Spark借助Asset Store素材做AI游戏，但CEO称打磨仍靠创作者。",
+          "mini_headline": "Unity Spark对接Asset Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity发布了Unity Spark，这是一个基于浏览器的游戏创作平台，旨在让人们无需先学习传统编程或完整的Unity Editor，就能描述、搭建、打磨并发布互动体验。"
+              },
+              {
+                "t": "p",
+                "x": "Unity CEO Matt Bromberg对Spark的定位与“一句提示词生成游戏”的工具截然不同。其目标是消除实现创意时的部分技术门槛，而不是让创作过程自动化，也不是假装第一个提示词就能产出完整的游戏。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | 用Untiy Spark制作的Action RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | 用Unity Spark制作的Shooter"
+              },
+              {
+                "t": "p",
+                "x": "“这无关‘one-shotting’。让AI照搬一款已经被发明出来的游戏，并不能让你成为下一个Hideo Kojima……Unity Spark直接连接Unity Asset Store，你可以使用社区艺术家创作的数千个高质量素材进行开发。”– Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "据Financial Times报道，Spark将能够“生成部分素材”，但大部分图像和特效将来自Unity现有的人工制作素材库，贡献素材的艺术家会获得署名和报酬。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | 用Unity Spark制作的Haunted House"
+              },
+              {
+                "t": "p",
+                "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Unity Spark crea juegos con AI\na partir de recursos de artistas",
+          "body": "Unity Spark combina juegos con AI y arte de Asset Store, pero su CEO dice que los creadores aún deben diseñar y pulir.",
+          "mini_headline": "Unity Spark se une a Asset Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity ha anunciado Unity Spark, una plataforma de creación de juegos basada en navegador que busca que cualquiera pueda describir, construir, refinar y publicar experiencias interactivas sin aprender antes programación convencional ni el Unity Editor completo."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Unity, Matt Bromberg, presenta Spark de forma muy distinta a los generadores de juegos de un solo prompt. El objetivo es eliminar parte de las barreras técnicas para llevar las ideas a la práctica, no automatizar el proceso creativo ni fingir que un primer prompt produce un juego terminado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Action RPG hecho en Untiy Spark"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Shooter hecho en Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "“No se trata de ‘one-shotting’. Pedirle a la AI que regurgite un juego ya inventado no te convierte en el próximo Hideo Kojima… Unity Spark se conecta directamente con la Unity Asset Store, así que puedes crear con miles de recursos de alta calidad hechos por artistas de nuestra comunidad.” – Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Según el Financial Times, Spark podrá “generar algunos recursos”, pero la mayor parte de sus imágenes y efectos procederá de la biblioteca existente de Unity, hecha por personas, y los artistas que contribuyan recibirán crédito y compensación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Haunted House hecha en Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
+          "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
+          "mini_headline": "Unity Spark와 Asset Store의 만남",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity가 브라우저 기반 게임 제작 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고, 만들고, 다듬고, 게시할 수 있게 하려는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "Unity CEO Matt Bromberg는 Spark를 프롬프트 한 번으로 게임을 뽑아내는 생성기와 확실히 다르게 자리매김한다. 목표는 아이디어를 구현할 때의 기술적 장벽 일부를 걷어내는 것이지, 창작 과정을 자동화하거나 첫 프롬프트로 완성된 게임이 나온다고 내세우는 것이 아니다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Unity Spark로 만든 Shooter"
+              },
+              {
+                "t": "p",
+                "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Times에 따르면 Spark는 “일부 에셋을 생성”할 수 있지만, 이미지와 효과 대부분은 사람이 만든 Unity의 기존 라이브러리에서 가져오며 기여한 작가에게는 크레디트와 보상이 돌아간다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Unity Spark로 만든 Haunted House"
+              },
+              {
+                "t": "p",
+                "x": "프로젝트는 공유 URL로 함께 개발할 수 있고, 완성한 게임은 Google의 새 플랫폼 Playground로 게시할 수 있다. Unity는 아직 수익 모델을 확정하지 않았지만 무료와 유료 이용 단계를 모두 계획하고 있다. 비공개 베타는 2026년 후반에 시작할 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Unity Sparkが\n作家の素材でAIゲーム",
+          "body": "Unity SparkはAsset Store素材で作るが、仕上げは人の仕事だ。",
+          "mini_headline": "Unity SparkとAsset Storeが連携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unityは、ブラウザ上で動くゲーム制作プラットフォーム「Unity Spark」を発表した。従来のプログラミングやUnity Editor全体を先に習得しなくても、インタラクティブな体験を記述し、組み立て、磨き上げ、公開できるようにすることを狙う。"
+              },
+              {
+                "t": "p",
+                "x": "Unity CEOのMatt Bromberg氏は、Sparkを一つのプロンプトでゲームを生み出すツールとはまったく異なるものとして位置づける。目指すのはアイデアを形にする際の技術的な障壁を一部取り除くことであり、創作プロセスを自動化することでも、最初のプロンプトで完成したゲームができると装うことでもない。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Untiy Sparkで作られたAction RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Unity Sparkで作られたShooter"
+              },
+              {
+                "t": "p",
+                "x": "「これは“one-shotting”の話ではない。すでに生み出されたゲームをAIに吐き出させても、次のHideo Kojimaにはなれない…Unity SparkはUnity Asset Storeに直接つながっており、コミュニティのアーティストが作った数千点の高品質なアセットを使って制作できる」– Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Financial Timesによると、Sparkは「一部のアセットを生成」できるが、画像やエフェクトの大半はUnityが持つ人の手による既存ライブラリから提供され、素材を提供したアーティストにはクレジットと報酬が与えられる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Unity Sparkで作られたHaunted House"
+              },
+              {
+                "t": "p",
+                "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Unity Spark用\n艺术家素材做AI游戏",
+          "body": "Unity Spark借助Asset Store素材做AI游戏，但CEO称打磨仍靠创作者。",
+          "mini_headline": "Unity Spark对接Asset Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity发布了Unity Spark，这是一个基于浏览器的游戏创作平台，旨在让人们无需先学习传统编程或完整的Unity Editor，就能描述、搭建、打磨并发布互动体验。"
+              },
+              {
+                "t": "p",
+                "x": "Unity CEO Matt Bromberg对Spark的定位与“一句提示词生成游戏”的工具截然不同。其目标是消除实现创意时的部分技术门槛，而不是让创作过程自动化，也不是假装第一个提示词就能产出完整的游戏。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | 用Untiy Spark制作的Action RPG"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | 用Unity Spark制作的Shooter"
+              },
+              {
+                "t": "p",
+                "x": "“这无关‘one-shotting’。让AI照搬一款已经被发明出来的游戏，并不能让你成为下一个Hideo Kojima……Unity Spark直接连接Unity Asset Store，你可以使用社区艺术家创作的数千个高质量素材进行开发。”– Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "据Financial Times报道，Spark将能够“生成部分素材”，但大部分图像和特效将来自Unity现有的人工制作素材库，贡献素材的艺术家会获得署名和报酬。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | 用Unity Spark制作的Haunted House"
+              },
+              {
+                "t": "p",
+                "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Unity Spark crea juegos con AI\na partir de recursos de artistas",
+          "body": "Unity Spark combina juegos con AI y arte de Asset Store, pero su CEO dice que los creadores aún deben diseñar y pulir.",
+          "mini_headline": "Unity Spark se une a Asset Store",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "IkcK7aeMw5A"
+              },
+              {
+                "t": "p",
+                "x": "Unity ha anunciado Unity Spark, una plataforma de creación de juegos basada en navegador que busca que cualquiera pueda describir, construir, refinar y publicar experiencias interactivas sin aprender antes programación convencional ni el Unity Editor completo."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Unity, Matt Bromberg, presenta Spark de forma muy distinta a los generadores de juegos de un solo prompt. El objetivo es eliminar parte de las barreras técnicas para llevar las ideas a la práctica, no automatizar el proceso creativo ni fingir que un primer prompt produce un juego terminado."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+                "cap": "Emberwell | Action RPG hecho en Untiy Spark"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+                "cap": "Space Corridor | Shooter hecho en Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "“No se trata de ‘one-shotting’. Pedirle a la AI que regurgite un juego ya inventado no te convierte en el próximo Hideo Kojima… Unity Spark se conecta directamente con la Unity Asset Store, así que puedes crear con miles de recursos de alta calidad hechos por artistas de nuestra comunidad.” – Matt Bromberg"
+              },
+              {
+                "t": "p",
+                "x": "Según el Financial Times, Spark podrá “generar algunos recursos”, pero la mayor parte de sus imágenes y efectos procederá de la biblioteca existente de Unity, hecha por personas, y los artistas que contribuyan recibirán crédito y compensación."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+                "cap": "Horror Story | Haunted House hecha en Unity Spark"
+              },
+              {
+                "t": "p",
+                "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ko": {
-     "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
-     "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
-     "mini_headline": "보스 행동을 다시 쓰는 AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 다루는 내용은 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”이다."
-       },
-       {
-        "t": "p",
-        "x": "시스템은 네 단계로 돌아간다. NPC를 만났을 때의 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정한 NPC 콘텐츠를 받아 게임 콘텐츠를 고친다. 특허는 특정 모델 아키텍처를 못 박지 않았다. 그래서 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "Wccftech는 소울라이크가 가장 큰 덕을 보리라 본다. 싱글플레이 게임의 적은 대개 정해진 패턴을 따르니 플레이어가 익혀서 공략할 수 있다. AI가 적의 행동을 다시 쓰면 얘기가 달라진다. 적은 플레이어가 얼마나 공격적인지, 혹은 방어적인지에 맞춰 적응하고 페이즈가 여럿인 보스는 격투 게임의 역전 메커니즘처럼 몰리면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
-       },
-       {
-        "t": "p",
-        "x": "게임이 너무 어려워지지 않게 조율은 해야겠지만, 적의 체력이나 공격력만 올리는 것보다 크면서도 공정한 도전을 줄 수 있다."
-       }
-      ]
-     }
+    {
+      "id": "games-astrocade-10m-monthly-users",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
+      "body": "Astrocade는 AI 슬롭투성이인데도 이미 월 10M 명이 개의치 않고 즐긴다.",
+      "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+            "cap": "© Astrocade / Kotaku"
+          },
+          {
+            "t": "p",
+            "x": "AI-generated 게임과 경험을 내세운 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 사이 약 오백만 명에서 10M 명으로 늘었다고 밝혔다. Roblox처럼 누구나 AI 도구로 게임을 만들고, 다른 사용자가 그 게임을 플레이한다."
+          },
+          {
+            "t": "p",
+            "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 앞두고 미국(United States)에서 대대적인 마케팅에 나섰다."
+          },
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+            "cap": "©Astrocade / Kotaku"
+          },
+          {
+            "t": "p",
+            "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권 있는 캐릭터를 가져다 쓴 게임, Steal a Brainrot 같은 Roblox 히트작 모방작이다. 하나같이 AI 슬롭 아트를 쓰는데도 일부는 플레이 수가 수십만에서 수백만 회에 이른다. 게임은 TikTok처럼 세로 화면에 끝없는 알고리즘 피드로 흘러나오고, Sadeghian은 이를 “playables”라고 부른다."
+          },
+          {
+            "t": "p",
+            "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI-made games platform\nhits 10 million monthly users",
+          "body": "Astrocade is full of AI slop, yet it already draws 10 million monthly users who don't seem to care.",
+          "mini_headline": "Astrocade hits 10M monthly users",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Astrocade, a free online platform built around AI-generated games and experiences, now boasts 10 million monthly users. CEO Amir Sadeghian told Gamesbeat it grew from around five million to 10 million in just the last four months. Anyone can create games with its AI tools, and other users can play them, similar to Roblox."
+              },
+              {
+                "t": "p",
+                "x": "“The whole reason we exist as a platform is the AI creation tools, which enables everyone to create,” said Sadeghian. The company is preparing to launch an iOS app and is marketing heavily in the United States."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Many of the most popular games are Minecraft clones, games with copyrighted characters, and knock-offs of Roblox hits like Steal a Brainrot, all with AI slop artwork, yet some have hundreds of thousands or even millions of plays. Like TikTok, the games are vertical and served through an endless algorithmic feed; Sadeghian calls them “playables.”"
+              },
+              {
+                "t": "p",
+                "x": "“AI is now like writing code better than a lot of engineers,” said the CEO. “And even some of these 3D assets are getting to a point that it’s like very hard to distinguish.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
+          "body": "Astrocade는 AI 슬롭투성이인데도 이미 월 10M 명이 개의치 않고 즐긴다.",
+          "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "AI-generated 게임과 경험을 내세운 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 사이 약 오백만 명에서 10M 명으로 늘었다고 밝혔다. Roblox처럼 누구나 AI 도구로 게임을 만들고, 다른 사용자가 그 게임을 플레이한다."
+              },
+              {
+                "t": "p",
+                "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 앞두고 미국(United States)에서 대대적인 마케팅에 나섰다."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권 있는 캐릭터를 가져다 쓴 게임, Steal a Brainrot 같은 Roblox 히트작 모방작이다. 하나같이 AI 슬롭 아트를 쓰는데도 일부는 플레이 수가 수십만에서 수백만 회에 이른다. 게임은 TikTok처럼 세로 화면에 끝없는 알고리즘 피드로 흘러나오고, Sadeghian은 이를 “playables”라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-made ゲーム基盤が\n月間10M 人を突破",
+          "body": "AstrocadeはAIスロップだらけだが、既に月間10M 人が気にせず遊ぶ。",
+          "mini_headline": "Astrocade、月間10M 人を突破",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "AI-generatedのゲームや体験を中心とした無料オンラインプラットフォームAstrocadeの月間ユーザーが10M 人に達した。CEOのAmir Sadeghian氏はGamesbeatに対し、直近四か月で約五百万人から10M 人へ伸びたと語った。Robloxと同様に、誰でもAIツールでゲームを作り、他のユーザーがそれを遊べる。"
+              },
+              {
+                "t": "p",
+                "x": "「プラットフォームとして私たちが存在する理由はすべて、誰もが創作できるようにするAI制作ツールにある」とSadeghian氏は述べた。同社はiOSアプリのローンチを準備中で、米国（United States）で大々的にマーケティングを展開している。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "人気上位のゲームの多くはMinecraftのクローン、著作権のあるキャラクターを使ったゲーム、Steal a BrainrotなどRobloxのヒット作の模倣品で、いずれもAIスロップのアートワークだが、中には数十万から数百万回プレイされたものもある。TikTokのようにゲームは縦型で、終わりのないアルゴリズムのフィードで配信される。Sadeghian氏はこれを「playables」と呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "「今やAIは多くのエンジニアよりも上手にコードを書くようなものだ」とCEOは言う。「一部の3Dアセットでさえ、見分けるのが非常に難しいところまで来ている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-made 游戏平台\n月活用户突破10M",
+          "body": "Astrocade充斥AI垃圾内容，却已吸引10M 月度用户，他们似乎并不在意。",
+          "mini_headline": "Astrocade月度用户达10M",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Astrocade是一个以AI-generated游戏和体验为核心的免费在线平台，如今月度用户已达10M。CEO Amir Sadeghian对Gamesbeat表示，平台仅在过去四个月就从约五百万增长到10M。与Roblox类似，任何人都能用它的AI工具制作游戏，其他用户则可以游玩。"
+              },
+              {
+                "t": "p",
+                "x": "“我们作为平台存在的全部意义，就在于让每个人都能创作的AI创作工具。”Sadeghian说。公司正准备推出iOS应用，并在美国（United States）大力开展营销。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "最受欢迎的游戏中，许多是Minecraft克隆作、使用受版权保护角色的游戏，以及Steal a Brainrot等Roblox热门作品的仿制品，美术全是AI垃圾内容，但其中一些游玩次数达到数十万甚至数百万。与TikTok一样，这些游戏采用竖屏，通过无尽的算法信息流推送；Sadeghian称之为“playables”。"
+              },
+              {
+                "t": "p",
+                "x": "“AI现在写代码的能力好像比很多工程师都强，”这位CEO说，“甚至一些3D素材也已经到了很难分辨的程度。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Plataforma de juegos AI-made\nllega a 10 millones al mes",
+          "body": "Astrocade está llena de AI slop, pero ya atrae a 10 millones de usuarios mensuales a los que no parece importarles.",
+          "mini_headline": "Astrocade llega a 10M de usuarios mensuales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Astrocade, una plataforma en línea gratuita centrada en juegos y experiencias AI-generated, ya cuenta con 10 millones de usuarios mensuales. Su CEO, Amir Sadeghian, dijo a Gamesbeat que pasó de unos cinco millones a 10 millones en solo los últimos cuatro meses. Cualquiera puede crear juegos con sus herramientas de AI y otros usuarios pueden jugarlos, de forma similar a Roblox."
+              },
+              {
+                "t": "p",
+                "x": "“Toda la razón por la que existimos como plataforma son las herramientas de creación con AI, que permiten crear a todo el mundo”, dijo Sadeghian. La empresa se prepara para lanzar una app para iOS y está haciendo una fuerte campaña de marketing en Estados Unidos (United States)."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Muchos de los juegos más populares son clones de Minecraft, juegos con personajes protegidos por derechos de autor e imitaciones de éxitos de Roblox como Steal a Brainrot, todos con arte de AI slop, y aun así algunos suman cientos de miles o incluso millones de partidas. Como en TikTok, los juegos son verticales y se sirven a través de un feed algorítmico infinito; Sadeghian los llama “playables”."
+              },
+              {
+                "t": "p",
+                "x": "“La AI ya escribe código mejor que muchos ingenieros”, dijo el CEO. “E incluso algunos de estos recursos 3D están llegando a un punto en el que es muy difícil distinguirlos”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
+          "body": "Astrocade는 AI 슬롭투성이지만 이미 월 10M 명이 개의치 않고 즐긴다.",
+          "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "AI-generated 게임과 경험을 중심으로 한 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 만에 약 오백만 명에서 10M 명으로 늘었다고 말했다. Roblox처럼 누구나 AI 도구로 게임을 만들고 다른 사용자가 이를 플레이할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 준비하며 미국(United States)에서 대대적인 마케팅을 펼치고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권이 있는 캐릭터를 쓴 게임, Steal a Brainrot 같은 Roblox 히트작의 모방작이며 모두 AI 슬롭 아트를 쓰지만, 일부는 플레이 수가 수십만에서 수백만 회에 이른다. TikTok처럼 게임은 세로 화면이고 끝없는 알고리즘 피드로 제공되며, Sadeghian은 이를 “playables”라고 부른다."
+              },
+              {
+                "t": "p",
+                "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-made ゲーム基盤が\n月間10M 人を突破",
+          "body": "AstrocadeはAIスロップだらけだが、既に月間10M 人が気にせず遊ぶ。",
+          "mini_headline": "Astrocade、月間10M 人を突破",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "AI-generatedのゲームや体験を中心とした無料オンラインプラットフォームAstrocadeの月間ユーザーが10M 人に達した。CEOのAmir Sadeghian氏はGamesbeatに対し、直近四か月で約五百万人から10M 人へ伸びたと語った。Robloxと同様に、誰でもAIツールでゲームを作り、他のユーザーがそれを遊べる。"
+              },
+              {
+                "t": "p",
+                "x": "「プラットフォームとして私たちが存在する理由はすべて、誰もが創作できるようにするAI制作ツールにある」とSadeghian氏は述べた。同社はiOSアプリのローンチを準備中で、米国（United States）で大々的にマーケティングを展開している。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "人気上位のゲームの多くはMinecraftのクローン、著作権のあるキャラクターを使ったゲーム、Steal a BrainrotなどRobloxのヒット作の模倣品で、いずれもAIスロップのアートワークだが、中には数十万から数百万回プレイされたものもある。TikTokのようにゲームは縦型で、終わりのないアルゴリズムのフィードで配信される。Sadeghian氏はこれを「playables」と呼ぶ。"
+              },
+              {
+                "t": "p",
+                "x": "「今やAIは多くのエンジニアよりも上手にコードを書くようなものだ」とCEOは言う。「一部の3Dアセットでさえ、見分けるのが非常に難しいところまで来ている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-made 游戏平台\n月活用户突破10M",
+          "body": "Astrocade充斥AI垃圾内容，却已吸引10M 月度用户，他们似乎并不在意。",
+          "mini_headline": "Astrocade月度用户达10M",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Astrocade是一个以AI-generated游戏和体验为核心的免费在线平台，如今月度用户已达10M。CEO Amir Sadeghian对Gamesbeat表示，平台仅在过去四个月就从约五百万增长到10M。与Roblox类似，任何人都能用它的AI工具制作游戏，其他用户则可以游玩。"
+              },
+              {
+                "t": "p",
+                "x": "“我们作为平台存在的全部意义，就在于让每个人都能创作的AI创作工具。”Sadeghian说。公司正准备推出iOS应用，并在美国（United States）大力开展营销。"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "最受欢迎的游戏中，许多是Minecraft克隆作、使用受版权保护角色的游戏，以及Steal a Brainrot等Roblox热门作品的仿制品，美术全是AI垃圾内容，但其中一些游玩次数达到数十万甚至数百万。与TikTok一样，这些游戏采用竖屏，通过无尽的算法信息流推送；Sadeghian称之为“playables”。"
+              },
+              {
+                "t": "p",
+                "x": "“AI现在写代码的能力好像比很多工程师都强，”这位CEO说，“甚至一些3D素材也已经到了很难分辨的程度。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Plataforma de juegos AI-made\nllega a 10 millones al mes",
+          "body": "Astrocade está llena de AI slop, pero ya atrae a 10 millones de usuarios mensuales a los que no parece importarles.",
+          "mini_headline": "Astrocade llega a 10M de usuarios mensuales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
+                "cap": "© Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Astrocade, una plataforma en línea gratuita centrada en juegos y experiencias AI-generated, ya cuenta con 10 millones de usuarios mensuales. Su CEO, Amir Sadeghian, dijo a Gamesbeat que pasó de unos cinco millones a 10 millones en solo los últimos cuatro meses. Cualquiera puede crear juegos con sus herramientas de AI y otros usuarios pueden jugarlos, de forma similar a Roblox."
+              },
+              {
+                "t": "p",
+                "x": "“Toda la razón por la que existimos como plataforma son las herramientas de creación con AI, que permiten crear a todo el mundo”, dijo Sadeghian. La empresa se prepara para lanzar una app para iOS y está haciendo una fuerte campaña de marketing en Estados Unidos (United States)."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
+                "cap": "©Astrocade / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "Muchos de los juegos más populares son clones de Minecraft, juegos con personajes protegidos por derechos de autor e imitaciones de éxitos de Roblox como Steal a Brainrot, todos con arte de AI slop, y aun así algunos suman cientos de miles o incluso millones de partidas. Como en TikTok, los juegos son verticales y se sirven a través de un feed algorítmico infinito; Sadeghian los llama “playables”."
+              },
+              {
+                "t": "p",
+                "x": "“La AI ya escribe código mejor que muchos ingenieros”, dijo el CEO. “E incluso algunos de estos recursos 3D están llegando a un punto en el que es muy difícil distinguirlos”."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ja": {
-     "headline": "PlayStation特許\nAIが敵の行動を即座に変更",
-     "body": "PlayStationの新特許は、NPCの行動をその場で書き換えるAIを示した。",
-     "mini_headline": "ボスの行動を書き換えるAI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "PlayStationの新特許は、AIで敵の行動をその場で書き換えるシステムを示している"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyzeが見つけ、10月1日に公開されたSony Interactive Entertainmentの新特許は、「人工知能で適応させたノンプレイヤーキャラクターを用いたビデオゲームシステムの改善」を対象とする。"
-       },
-       {
-        "t": "p",
-        "x": "システムは四つの段階で動く。NPCとの遭遇に関するプレイヤーデータとゲームデータを集めて機械学習モデルに入力し、行動・セリフ・外見を調整するNPCコンテンツを受け取り、ゲームコンテンツを変更する。特許は特定のモデルアーキテクチャを挙げていないため、さまざまなAIシステムで機能し、PlayStationの自社スタジオ以外の開発者も使える可能性がある。"
-       },
-       {
-        "t": "p",
-        "x": "Wccftechは、最も恩恵を受けるのはソウルライクだと論じる。シングルプレイヤーゲームの敵は通常、プログラムされたパターンに従うため、覚えて攻略できる。AIが行動を書き換えれば、敵はプレイヤーがどれほど攻撃的か守備的かに適応でき、複数フェーズを持つボスが格闘ゲームの逆転要素のように、追い詰められると第二フェーズに早く移ることもありうる。"
-       },
-       {
-        "t": "p",
-        "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
-       }
-      ]
-     }
+    {
+      "id": "games-minecraft-x-twitter-ai-clone",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
+      "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
+      "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+      "tool": "Games",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+          },
+          {
+            "t": "p",
+            "x": "AI로 만든 비디오 게임 클론이 잇따라 쏟아진다. X 사용자 jaivin은 AI로 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 즐기게 만들었고, 게임 내 스폰서십은 암호화폐로 사게 했다."
+          },
+          {
+            "t": "p",
+            "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저에서 돌아가는 이 클론은 월드 링크를 누른 사람을 모두 같은 실시간 세션에 넣는다."
+          },
+          {
+            "t": "p",
+            "x": "무단 ‘이식판’을 알린 출시 게시물은 조회수 7.4M 회를 찍었다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
+          },
+          {
+            "t": "p",
+            "x": "이번 달(October)에만 GTA 5와 원작 Halo를 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 강력해질수록 기존 게임의 무단 버전이 나오기까지 걸리는 시간은 몇 시간, 심지어 몇 분까지 줄어들 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI makes Minecraft playable\ninside X with multiplayer",
+          "body": "Someone used AI to make Minecraft playable inside X with working multiplayer, then sold sponsorships via crypto.",
+          "mini_headline": "AI Minecraft clone runs inside X",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "The AI video game clone explosion continues at pace. X user jaivin used AI to make Mojang’s Minecraft playable inside posts on X / Twitter with working multiplayer, and is letting people buy in-game sponsorships with cryptocurrency."
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft is a block game in a post: every world is a link on X, and everyone who opens it plays together,” reads the official blurb. “Put your ad at the top of the server list, in a world’s sponsor leaderboard, or your logo on the Block Dragon.” The browser-based clone puts everyone who clicks a world’s link into the same real-time session."
+              },
+              {
+                "t": "p",
+                "x": "The unauthorized “port” has drawn 7.4 million views on its launch post. Jaivin insisted that “Tweetcraft uses none of Minecraft's assets and is not associated with Mojang or Microsoft.”"
+              },
+              {
+                "t": "p",
+                "x": "October has already seen GTA 5 and the original Halo made playable in a browser; the GTA 5 clone and a Fallout: New York game were hit by takedowns. With AI models becoming increasingly powerful, the time it takes for unauthorized versions of established games to appear could shrink to just hours or even minutes."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
+          "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
+          "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AI로 만든 비디오 게임 클론이 잇따라 쏟아진다. X 사용자 jaivin은 AI로 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 즐기게 만들었고, 게임 내 스폰서십은 암호화폐로 사게 했다."
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저에서 돌아가는 이 클론은 월드 링크를 누른 사람을 모두 같은 실시간 세션에 넣는다."
+              },
+              {
+                "t": "p",
+                "x": "무단 ‘이식판’을 알린 출시 게시물은 조회수 7.4M 회를 찍었다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 달(October)에만 GTA 5와 원작 Halo를 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 강력해질수록 기존 게임의 무단 버전이 나오기까지 걸리는 시간은 몇 시간, 심지어 몇 분까지 줄어들 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIでMinecraftが\nX内でマルチプレイ",
+          "body": "あるユーザーがAIでX内のマルチ対応Minecraftを作り、暗号資産で広告枠を売った。",
+          "mini_headline": "X内で動くAI製Minecraftクローン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AIによるビデオゲームのクローンの急増が勢いを保ったまま続いている。XユーザーのjaivinはAIを使い、MojangのMinecraftをX / Twitterの投稿内でマルチプレイ付きで遊べるようにし、さらに暗号資産でゲーム内スポンサー枠を購入できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "「Tweetcraftは投稿の中のブロックゲームだ。すべてのワールドはX上のリンクで、開いた人全員が一緒に遊ぶ」と公式の紹介文にはある。「サーバーリストの最上部やワールドのスポンサーリーダーボードに広告を、あるいはBlock Dragonにロゴを掲載できる」。ブラウザベースのこのクローンでは、ワールドのリンクをクリックした全員が同じリアルタイムセッションに入る。"
+              },
+              {
+                "t": "p",
+                "x": "この無許可の「移植版」のローンチ投稿は7.4M 回の閲覧を集めた。Jaivinは「TweetcraftはMinecraftのアセットを一切使っておらず、MojangやMicrosoftとは無関係だ」と主張している。"
+              },
+              {
+                "t": "p",
+                "x": "今月（October）はすでにGTA 5と初代Haloがブラウザで遊べるようになり、GTA 5のクローンとFallout: New Yorkのゲームは削除措置を受けた。AIモデルがますます強力になるにつれ、既存ゲームの無許可版が登場するまでの時間は数時間、あるいは数分にまで縮まる可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI让Minecraft\n在X内多人联机",
+          "body": "有人用AI让Minecraft在X内多人联机，并用加密货币出售赞助位。",
+          "mini_headline": "AI版Minecraft克隆在X内运行",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AI电子游戏克隆的热潮仍在快速蔓延。X用户jaivin用AI让Mojang的Minecraft能在X / Twitter帖子中运行并支持多人联机，还允许人们用加密货币购买游戏内赞助。"
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft是帖子里的方块游戏：每个世界都是X上的一个链接，打开它的人都会一起玩，”官方简介写道，“把你的广告放在服务器列表顶部、某个世界的赞助排行榜上，或者把你的标志放在Block Dragon身上。”这款基于浏览器的克隆会把所有点击某个世界链接的人放进同一个实时会话。"
+              },
+              {
+                "t": "p",
+                "x": "这一未经授权的“移植版”发布帖获得了7.4M 次浏览。Jaivin坚称：“Tweetcraft没有使用任何Minecraft资产，与Mojang或Microsoft无关。”"
+              },
+              {
+                "t": "p",
+                "x": "本月（October）已有GTA 5和初代Halo被做成可在浏览器中游玩的版本；GTA 5克隆和一款Fallout: New York游戏已遭下架。随着AI模型日益强大，现有游戏的未授权版本出现所需的时间可能缩短到短短几小时甚至几分钟。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI hace jugable Minecraft\ndentro de X con multijugador",
+          "body": "Alguien usó AI para hacer jugable Minecraft dentro de X con multijugador y vendió patrocinios con cripto.",
+          "mini_headline": "Un clon de Minecraft hecho con AI funciona dentro de X",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "La explosión de clones de videojuegos hechos con AI sigue a buen ritmo. El usuario de X jaivin usó AI para hacer jugable Minecraft, de Mojang, dentro de publicaciones de X / Twitter con multijugador funcional, y permite comprar patrocinios dentro del juego con criptomonedas."
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft es un juego de bloques dentro de una publicación: cada mundo es un enlace en X, y todos los que lo abren juegan juntos”, dice la descripción oficial. “Pon tu anuncio en lo alto de la lista de servidores, en la tabla de patrocinadores de un mundo o tu logo en el Block Dragon”. El clon, que funciona en el navegador, coloca a todos los que hacen clic en el enlace de un mundo en la misma sesión en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "El “port” no autorizado ha sumado 7.4 millones de visualizaciones en su publicación de lanzamiento. Jaivin insistió en que “Tweetcraft no usa ninguno de los recursos de Minecraft y no está asociado con Mojang ni con Microsoft”."
+              },
+              {
+                "t": "p",
+                "x": "En octubre (October) ya se ha visto cómo GTA 5 y el Halo original se volvían jugables en un navegador; el clon de GTA 5 y un juego de Fallout: New York sufrieron retiradas. Con modelos de AI cada vez más potentes, el tiempo que tardan en aparecer versiones no autorizadas de juegos consolidados podría reducirse a solo horas o incluso minutos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
+          "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
+          "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AI 비디오 게임 클론 열풍이 빠르게 이어지고 있다. X 사용자 jaivin은 AI를 이용해 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 되는 형태로 플레이할 수 있게 만들었고, 암호화폐로 게임 내 스폰서십을 살 수 있게 했다."
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저 기반의 이 클론은 월드 링크를 누른 모든 사람을 같은 실시간 세션에 넣는다."
+              },
+              {
+                "t": "p",
+                "x": "이 무단 ‘이식판’의 출시 게시물은 조회수 7.4M 회를 기록했다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "이번 달(October)에만 GTA 5와 원작 Halo가 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 갈수록 강력해지면서, 기존 게임의 무단 버전이 등장하기까지 걸리는 시간은 몇 시간, 심지어 몇 분으로 줄어들 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIでMinecraftが\nX内でマルチプレイ",
+          "body": "あるユーザーがAIでX内のマルチ対応Minecraftを作り、暗号資産で広告枠を売った。",
+          "mini_headline": "X内で動くAI製Minecraftクローン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AIによるビデオゲームのクローンの急増が勢いを保ったまま続いている。XユーザーのjaivinはAIを使い、MojangのMinecraftをX / Twitterの投稿内でマルチプレイ付きで遊べるようにし、さらに暗号資産でゲーム内スポンサー枠を購入できるようにした。"
+              },
+              {
+                "t": "p",
+                "x": "「Tweetcraftは投稿の中のブロックゲームだ。すべてのワールドはX上のリンクで、開いた人全員が一緒に遊ぶ」と公式の紹介文にはある。「サーバーリストの最上部やワールドのスポンサーリーダーボードに広告を、あるいはBlock Dragonにロゴを掲載できる」。ブラウザベースのこのクローンでは、ワールドのリンクをクリックした全員が同じリアルタイムセッションに入る。"
+              },
+              {
+                "t": "p",
+                "x": "この無許可の「移植版」のローンチ投稿は7.4M 回の閲覧を集めた。Jaivinは「TweetcraftはMinecraftのアセットを一切使っておらず、MojangやMicrosoftとは無関係だ」と主張している。"
+              },
+              {
+                "t": "p",
+                "x": "今月（October）はすでにGTA 5と初代Haloがブラウザで遊べるようになり、GTA 5のクローンとFallout: New Yorkのゲームは削除措置を受けた。AIモデルがますます強力になるにつれ、既存ゲームの無許可版が登場するまでの時間は数時間、あるいは数分にまで縮まる可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI让Minecraft\n在X内多人联机",
+          "body": "有人用AI让Minecraft在X内多人联机，并用加密货币出售赞助位。",
+          "mini_headline": "AI版Minecraft克隆在X内运行",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "AI电子游戏克隆的热潮仍在快速蔓延。X用户jaivin用AI让Mojang的Minecraft能在X / Twitter帖子中运行并支持多人联机，还允许人们用加密货币购买游戏内赞助。"
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft是帖子里的方块游戏：每个世界都是X上的一个链接，打开它的人都会一起玩，”官方简介写道，“把你的广告放在服务器列表顶部、某个世界的赞助排行榜上，或者把你的标志放在Block Dragon身上。”这款基于浏览器的克隆会把所有点击某个世界链接的人放进同一个实时会话。"
+              },
+              {
+                "t": "p",
+                "x": "这一未经授权的“移植版”发布帖获得了7.4M 次浏览。Jaivin坚称：“Tweetcraft没有使用任何Minecraft资产，与Mojang或Microsoft无关。”"
+              },
+              {
+                "t": "p",
+                "x": "本月（October）已有GTA 5和初代Halo被做成可在浏览器中游玩的版本；GTA 5克隆和一款Fallout: New York游戏已遭下架。随着AI模型日益强大，现有游戏的未授权版本出现所需的时间可能缩短到短短几小时甚至几分钟。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La AI hace jugable Minecraft\ndentro de X con multijugador",
+          "body": "Alguien usó AI para hacer jugable Minecraft dentro de X con multijugador y vendió patrocinios con cripto.",
+          "mini_headline": "Un clon de Minecraft hecho con AI funciona dentro de X",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+              },
+              {
+                "t": "p",
+                "x": "La explosión de clones de videojuegos hechos con AI sigue a buen ritmo. El usuario de X jaivin usó AI para hacer jugable Minecraft, de Mojang, dentro de publicaciones de X / Twitter con multijugador funcional, y permite comprar patrocinios dentro del juego con criptomonedas."
+              },
+              {
+                "t": "p",
+                "x": "“Tweetcraft es un juego de bloques dentro de una publicación: cada mundo es un enlace en X, y todos los que lo abren juegan juntos”, dice la descripción oficial. “Pon tu anuncio en lo alto de la lista de servidores, en la tabla de patrocinadores de un mundo o tu logo en el Block Dragon”. El clon, que funciona en el navegador, coloca a todos los que hacen clic en el enlace de un mundo en la misma sesión en tiempo real."
+              },
+              {
+                "t": "p",
+                "x": "El “port” no autorizado ha sumado 7.4 millones de visualizaciones en su publicación de lanzamiento. Jaivin insistió en que “Tweetcraft no usa ninguno de los recursos de Minecraft y no está asociado con Mojang ni con Microsoft”."
+              },
+              {
+                "t": "p",
+                "x": "En octubre (October) ya se ha visto cómo GTA 5 y el Halo original se volvían jugables en un navegador; el clon de GTA 5 y un juego de Fallout: New York sufrieron retiradas. Con modelos de AI cada vez más potentes, el tiempo que tardan en aparecer versiones no autorizadas de juegos consolidados podría reducirse a solo horas o incluso minutos."
+              }
+            ]
+          }
+        }
+      }
     },
-    "zh": {
-     "headline": "PlayStation专利\nAI实时改写敌人行为",
-     "body": "PlayStation新专利描述了可即时改写NPC行为的AI，或将改变魂类游戏。",
-     "mini_headline": "改写首领行为的AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "PlayStation新专利描述了一套用AI即时改写敌人行为的系统"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyze发现的一项Sony Interactive Entertainment新专利于10月1日公布，内容涉及“利用人工智能适配的非玩家角色改进电子游戏系统”。"
-       },
-       {
-        "t": "p",
-        "x": "该系统分四步运作：收集玩家与NPC遭遇时的数据及游戏数据，输入机器学习模型，得到调整行为、对话和外观的NPC内容，再据此修改游戏内容。专利没有列明具体的模型架构，因此可适用于不同的AI系统，PlayStation自家工作室以外的开发者也可能使用。"
-       },
-       {
-        "t": "p",
-        "x": "Wccftech认为魂类游戏获益最大。单人游戏中的敌人通常遵循预设模式，玩家可以摸清并加以利用；若由AI改写其行为，敌人就能根据玩家的进攻或防守倾向作出调整，多阶段首领甚至可能像格斗游戏的翻盘机制那样，在压力下提前进入第二阶段。"
-       },
-       {
-        "t": "p",
-        "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Patente de PlayStation: IA (AI)\nque reescribe enemigos en vivo",
-     "body": "Una nueva patente de PlayStation describe una IA (AI) que cambia al vuelo la conducta de los NPC.",
-     "mini_headline": "Una IA (AI) que reescribe a los jefes",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "Una nueva patente de PlayStation describe un sistema que usa IA (AI) para reescribir al vuelo la conducta de los enemigos"
-       },
-       {
-        "t": "p",
-        "x": "Una nueva patente de Sony Interactive Entertainment, descubierta por Patentlyze y publicada el 1 de octubre, abarca la “mejora de sistemas de videojuegos mediante un personaje no jugador adaptado por inteligencia artificial”."
-       },
-       {
-        "t": "p",
-        "x": "El sistema funciona en cuatro pasos: recopila datos del jugador sobre sus encuentros con un NPC junto con datos del juego, los introduce en un modelo de aprendizaje automático, obtiene contenido de NPC que ajusta su conducta, diálogo y apariencia, y luego modifica el contenido del juego. La patente no especifica una arquitectura de modelo concreta, por lo que podría funcionar con distintos sistemas de IA (AI) y ser utilizada por desarrolladores ajenos a los estudios propios de PlayStation."
-       },
-       {
-        "t": "p",
-        "x": "Wccftech sostiene que los soulslike serían los más beneficiados. Los enemigos de los juegos para un jugador suelen seguir patrones programados que se pueden aprender y explotar; si la IA (AI) reescribe su conducta, podrían adaptarse a lo agresivo o defensivo que sea el jugador, e incluso los jefes con varias fases podrían pasar antes a su segunda fase bajo presión, como las mecánicas de remontada de los juegos de lucha."
-       },
-       {
-        "t": "p",
-        "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
-       }
-      ]
-     }
+    {
+      "id": "games-goldhen-ai-ripoff-free-speech",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
+      "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
+      "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+            "cap": "© Sony / Kotaku"
+          },
+          {
+            "t": "p",
+            "x": "바이브코딩으로 찍어낸 AI-slop 프로젝트가 쏟아지면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크는 사흘 만에 약 1,300개에서 약 1,840개로 불어났다."
+          },
+          {
+            "t": "p",
+            "x": "이번에 당한 쪽은 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이다. 동료 홈브루 개발자 Zer0Day가 프로젝트를 도용해 온라인에 공개했다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+          },
+          {
+            "t": "p",
+            "x": "비공개 소스인 GoldHEN은 약 다섯 해 동안 Sistro가 주로 설계했고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 돌렸다."
+          },
+          {
+            "t": "p",
+            "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 답글에서는 AI를 썼다는 사실을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI rip-off of GoldHEN tool\ndefended as free speech",
+          "body": "Zer0Day defended his AI-made rip-off of the GoldHEN PlayStation homebrew tool, saying creativity needs no permission.",
+          "mini_headline": "GoldHEN AI rip-off defended",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "The PlayStation jailbreaking and homebrew scene is in disarray as an explosion of vibecoded AI-slop projects takes its toll. Forks of the PS5 emulators KytyPS5, SharpEmu, and AnyPS5 on GitHub jumped from roughly 1,300 to roughly 1,840 in three days."
+              },
+              {
+                "t": "p",
+                "x": "Now the team behind GoldHEN, the beloved PS4 homebrew enabler, has had their project stolen and published online by a fellow homebrew dev, Zer0Day. His lengthy README declares that “code should not be a cage” and “creativity should never have to ask for permission.”"
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN is closed source, primarily designed by Sistro with several maintainers over roughly five years. Sistro made it private after seeing “a sad abuse of the source code.”"
+              },
+              {
+                "t": "p",
+                "x": "On X, Zer0Day said “I don’t care what [GoldHEN’s] team thinks” and asserted he has “the right to freedom of speech and freedom of expression.” He has been open in replies about using AI, and his deleted code includes comments like “these are the standard Elf64 structures it walks.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
+          "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
+          "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "바이브코딩으로 찍어낸 AI-slop 프로젝트가 쏟아지면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크는 사흘 만에 약 1,300개에서 약 1,840개로 불어났다."
+              },
+              {
+                "t": "p",
+                "x": "이번에 당한 쪽은 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이다. 동료 홈브루 개발자 Zer0Day가 프로젝트를 도용해 온라인에 공개했다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+              },
+              {
+                "t": "p",
+                "x": "비공개 소스인 GoldHEN은 약 다섯 해 동안 Sistro가 주로 설계했고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 돌렸다."
+              },
+              {
+                "t": "p",
+                "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 답글에서는 AI를 썼다는 사실을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIでGoldHENを模倣\n表現の自由と擁護",
+          "body": "Zer0Dayは創作に許可は要らないとし、AI-madeのGoldHEN模倣を擁護した。",
+          "mini_headline": "GoldHENのAI模倣を擁護",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "バイブコーディングで作られたAI-slopプロジェクトの急増が打撃となり、PlayStationの脱獄・homebrewシーンは混乱に陥っている。GitHub上のPS5エミュレーターKytyPS5、SharpEmu、AnyPS5のフォーク数は、三日間で約1,300から約1,840に跳ね上がった。"
+              },
+              {
+                "t": "p",
+                "x": "そして今度は、愛されてきたPS4向けhomebrew実行ツールGoldHENのチームが、同じhomebrew開発者のZer0Dayにプロジェクトを盗まれ、オンラインで公開された。彼は長いREADMEで「コードは檻であってはならない」「創造性は決して許可を求める必要があってはならない」と宣言している。"
+              },
+              {
+                "t": "p",
+                "x": "GoldHENはクローズドソースで、約五年にわたり主にSistroが設計し、複数のメンテナーが関わってきた。Sistroは「ソースコードの悲しい悪用」を目にしたことで、プロジェクトを非公開にした。"
+              },
+              {
+                "t": "p",
+                "x": "Zer0DayはX上で「[GoldHEN]のチームがどう思おうと気にしない」と述べ、自分には「言論の自由と表現の自由の権利」があると主張した。彼はリプライでAIの使用を隠しておらず、削除されたコードには「これらは走査対象の標準的なElf64構造体だ」といったコメントが含まれている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI仿制GoldHEN\n被辩称为言论自由",
+          "body": "Zer0Day为其AI-made的GoldHEN仿制品辩护，称创作无需许可。",
+          "mini_headline": "为GoldHEN AI仿制品辩护",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "随着氛围编程的AI-slop项目激增，PlayStation越狱和自制软件圈陷入混乱。GitHub上PS5模拟器KytyPS5、SharpEmu和AnyPS5的分叉数在三天内从约1,300个跃升至约1,840个。"
+              },
+              {
+                "t": "p",
+                "x": "如今，备受喜爱的PS4自制软件启用工具GoldHEN的团队，其项目被同为自制软件开发者的Zer0Day盗用并公开发布到网上。他在冗长的README中宣称“代码不应成为牢笼”，“创造力永远不应需要请求许可”。"
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN是闭源项目，约五年来主要由Sistro设计，并有多名维护者参与。Sistro在看到“源代码被可悲地滥用”后将其转为私有。"
+              },
+              {
+                "t": "p",
+                "x": "Zer0Day在X上表示“我不在乎[GoldHEN的]团队怎么想”，并声称自己拥有“言论自由和表达自由的权利”。他在回复中公开承认使用了AI，其已删除的代码中包含诸如“这些是它遍历的标准Elf64结构”之类的注释。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Copia con AI de GoldHEN,\ndefendida como libre expresión",
+          "body": "Zer0Day defendió su copia AI-made del homebrew GoldHEN para PlayStation, alegando que crear no requiere permiso.",
+          "mini_headline": "Defienden la copia con AI de GoldHEN",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "La escena de jailbreak y homebrew de PlayStation está sumida en el caos por la explosión de proyectos AI-slop hechos con vibecoding. Los forks de los emuladores de PS5 KytyPS5, SharpEmu y AnyPS5 en GitHub pasaron de unos 1,300 a unos 1,840 en tres días."
+              },
+              {
+                "t": "p",
+                "x": "Ahora el equipo detrás de GoldHEN, la apreciada herramienta homebrew para PS4, ha visto cómo otro desarrollador homebrew, Zer0Day, robaba su proyecto y lo publicaba en internet. Su extenso README declara que “el código no debería ser una jaula” y que “la creatividad nunca debería tener que pedir permiso”."
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN es de código cerrado y lo diseñó principalmente Sistro, con varios mantenedores, a lo largo de unos cinco años. Sistro lo hizo privado tras ver “un triste abuso del código fuente”."
+              },
+              {
+                "t": "p",
+                "x": "En X, Zer0Day dijo “me da igual lo que piense el equipo [de GoldHEN]” y afirmó tener “derecho a la libertad de palabra y a la libertad de expresión”. Ha reconocido abiertamente en sus respuestas que usa AI, y su código eliminado incluye comentarios como “estas son las estructuras Elf64 estándar que recorre”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
+          "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
+          "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "바이브코딩으로 만든 AI-slop 프로젝트가 폭증하면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크 수는 사흘 만에 약 1,300개에서 약 1,840개로 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "이번에는 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이 동료 홈브루 개발자 Zer0Day에게 프로젝트를 도용당했고, 그 결과물이 온라인에 공개됐다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN은 비공개 소스로, 약 다섯 해 동안 Sistro가 주로 설계하고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 전환했다."
+              },
+              {
+                "t": "p",
+                "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 그는 답글에서 AI 사용을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIでGoldHENを模倣\n表現の自由と擁護",
+          "body": "Zer0Dayは創作に許可は要らないとし、AI-madeのGoldHEN模倣を擁護した。",
+          "mini_headline": "GoldHENのAI模倣を擁護",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "バイブコーディングで作られたAI-slopプロジェクトの急増が打撃となり、PlayStationの脱獄・homebrewシーンは混乱に陥っている。GitHub上のPS5エミュレーターKytyPS5、SharpEmu、AnyPS5のフォーク数は、三日間で約1,300から約1,840に跳ね上がった。"
+              },
+              {
+                "t": "p",
+                "x": "そして今度は、愛されてきたPS4向けhomebrew実行ツールGoldHENのチームが、同じhomebrew開発者のZer0Dayにプロジェクトを盗まれ、オンラインで公開された。彼は長いREADMEで「コードは檻であってはならない」「創造性は決して許可を求める必要があってはならない」と宣言している。"
+              },
+              {
+                "t": "p",
+                "x": "GoldHENはクローズドソースで、約五年にわたり主にSistroが設計し、複数のメンテナーが関わってきた。Sistroは「ソースコードの悲しい悪用」を目にしたことで、プロジェクトを非公開にした。"
+              },
+              {
+                "t": "p",
+                "x": "Zer0DayはX上で「[GoldHEN]のチームがどう思おうと気にしない」と述べ、自分には「言論の自由と表現の自由の権利」があると主張した。彼はリプライでAIの使用を隠しておらず、削除されたコードには「これらは走査対象の標準的なElf64構造体だ」といったコメントが含まれている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI仿制GoldHEN\n被辩称为言论自由",
+          "body": "Zer0Day为其AI-made的GoldHEN仿制品辩护，称创作无需许可。",
+          "mini_headline": "为GoldHEN AI仿制品辩护",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "随着氛围编程的AI-slop项目激增，PlayStation越狱和自制软件圈陷入混乱。GitHub上PS5模拟器KytyPS5、SharpEmu和AnyPS5的分叉数在三天内从约1,300个跃升至约1,840个。"
+              },
+              {
+                "t": "p",
+                "x": "如今，备受喜爱的PS4自制软件启用工具GoldHEN的团队，其项目被同为自制软件开发者的Zer0Day盗用并公开发布到网上。他在冗长的README中宣称“代码不应成为牢笼”，“创造力永远不应需要请求许可”。"
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN是闭源项目，约五年来主要由Sistro设计，并有多名维护者参与。Sistro在看到“源代码被可悲地滥用”后将其转为私有。"
+              },
+              {
+                "t": "p",
+                "x": "Zer0Day在X上表示“我不在乎[GoldHEN的]团队怎么想”，并声称自己拥有“言论自由和表达自由的权利”。他在回复中公开承认使用了AI，其已删除的代码中包含诸如“这些是它遍历的标准Elf64结构”之类的注释。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Copia con AI de GoldHEN,\ndefendida como libre expresión",
+          "body": "Zer0Day defendió su copia AI-made del homebrew GoldHEN para PlayStation, alegando que crear no requiere permiso.",
+          "mini_headline": "Defienden la copia con AI de GoldHEN",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
+                "cap": "© Sony / Kotaku"
+              },
+              {
+                "t": "p",
+                "x": "La escena de jailbreak y homebrew de PlayStation está sumida en el caos por la explosión de proyectos AI-slop hechos con vibecoding. Los forks de los emuladores de PS5 KytyPS5, SharpEmu y AnyPS5 en GitHub pasaron de unos 1,300 a unos 1,840 en tres días."
+              },
+              {
+                "t": "p",
+                "x": "Ahora el equipo detrás de GoldHEN, la apreciada herramienta homebrew para PS4, ha visto cómo otro desarrollador homebrew, Zer0Day, robaba su proyecto y lo publicaba en internet. Su extenso README declara que “el código no debería ser una jaula” y que “la creatividad nunca debería tener que pedir permiso”."
+              },
+              {
+                "t": "p",
+                "x": "GoldHEN es de código cerrado y lo diseñó principalmente Sistro, con varios mantenedores, a lo largo de unos cinco años. Sistro lo hizo privado tras ver “un triste abuso del código fuente”."
+              },
+              {
+                "t": "p",
+                "x": "En X, Zer0Day dijo “me da igual lo que piense el equipo [de GoldHEN]” y afirmó tener “derecho a la libertad de palabra y a la libertad de expresión”. Ha reconocido abiertamente en sus respuestas que usa AI, y su código eliminado incluye comentarios como “estas son las estructuras Elf64 estándar que recorre”."
+              }
+            ]
+          }
+        }
+      }
     }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "PlayStation 특허\nAI가 적 행동 즉석 수정",
-     "body": "새 PlayStation 특허는 NPC 행동을 즉석에서 바꾸는 AI를 담았다.",
-     "mini_headline": "보스 행동을 다시 쓰는 AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "새 PlayStation 특허는 AI로 적의 행동을 즉석에서 다시 쓰는 시스템을 담았다"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyze가 찾아낸 Sony Interactive Entertainment의 새 특허가 10월 1일 공개됐다. 특허는 “인공지능으로 조정한 비플레이어 캐릭터를 활용한 비디오 게임 시스템 개선”을 다룬다."
-       },
-       {
-        "t": "p",
-        "x": "시스템은 네 단계로 작동한다. NPC와의 조우에 관한 플레이어 데이터와 게임 데이터를 모아 머신러닝 모델에 넣고, 행동·대사·외형을 조정하는 NPC 콘텐츠를 돌려받은 뒤 게임 콘텐츠를 수정한다. 특허에 특정 모델 아키텍처가 명시되지 않아 여러 AI 시스템에서 작동할 수 있고, PlayStation 자체 스튜디오 밖의 개발사도 쓸 수 있다."
-       },
-       {
-        "t": "p",
-        "x": "Wccftech는 소울라이크가 가장 큰 덕을 볼 것이라고 본다. 싱글플레이 게임의 적은 보통 정해진 패턴을 따르기 때문에 플레이어가 익히고 공략할 수 있다. AI가 적의 행동을 다시 쓰면 적은 플레이어가 얼마나 공격적인지 혹은 방어적인지에 맞춰 적응하고, 여러 페이즈를 가진 보스는 격투 게임의 역전 메커니즘처럼 압박을 받으면 두 번째 페이즈에 더 일찍 들어설 수도 있다."
-       },
-       {
-        "t": "p",
-        "x": "게임이 지나치게 어려워지지 않도록 조율은 필요하겠지만, 적의 체력이나 공격력을 단순히 올리는 것보다 더 크면서도 공정한 도전을 줄 수 있다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "PlayStation特許\nAIが敵の行動を即座に変更",
-     "body": "PlayStationの新特許は、NPCの行動をその場で書き換えるAIを示した。",
-     "mini_headline": "ボスの行動を書き換えるAI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "PlayStationの新特許は、AIで敵の行動をその場で書き換えるシステムを示している"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyzeが見つけ、10月1日に公開されたSony Interactive Entertainmentの新特許は、「人工知能で適応させたノンプレイヤーキャラクターを用いたビデオゲームシステムの改善」を対象とする。"
-       },
-       {
-        "t": "p",
-        "x": "システムは四つの段階で動く。NPCとの遭遇に関するプレイヤーデータとゲームデータを集めて機械学習モデルに入力し、行動・セリフ・外見を調整するNPCコンテンツを受け取り、ゲームコンテンツを変更する。特許は特定のモデルアーキテクチャを挙げていないため、さまざまなAIシステムで機能し、PlayStationの自社スタジオ以外の開発者も使える可能性がある。"
-       },
-       {
-        "t": "p",
-        "x": "Wccftechは、最も恩恵を受けるのはソウルライクだと論じる。シングルプレイヤーゲームの敵は通常、プログラムされたパターンに従うため、覚えて攻略できる。AIが行動を書き換えれば、敵はプレイヤーがどれほど攻撃的か守備的かに適応でき、複数フェーズを持つボスが格闘ゲームの逆転要素のように、追い詰められると第二フェーズに早く移ることもありうる。"
-       },
-       {
-        "t": "p",
-        "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "PlayStation专利\nAI实时改写敌人行为",
-     "body": "PlayStation新专利描述了可即时改写NPC行为的AI，或将改变魂类游戏。",
-     "mini_headline": "改写首领行为的AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "PlayStation新专利描述了一套用AI即时改写敌人行为的系统"
-       },
-       {
-        "t": "p",
-        "x": "Patentlyze发现的一项Sony Interactive Entertainment新专利于10月1日公布，内容涉及“利用人工智能适配的非玩家角色改进电子游戏系统”。"
-       },
-       {
-        "t": "p",
-        "x": "该系统分四步运作：收集玩家与NPC遭遇时的数据及游戏数据，输入机器学习模型，得到调整行为、对话和外观的NPC内容，再据此修改游戏内容。专利没有列明具体的模型架构，因此可适用于不同的AI系统，PlayStation自家工作室以外的开发者也可能使用。"
-       },
-       {
-        "t": "p",
-        "x": "Wccftech认为魂类游戏获益最大。单人游戏中的敌人通常遵循预设模式，玩家可以摸清并加以利用；若由AI改写其行为，敌人就能根据玩家的进攻或防守倾向作出调整，多阶段首领甚至可能像格斗游戏的翻盘机制那样，在压力下提前进入第二阶段。"
-       },
-       {
-        "t": "p",
-        "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Patente de PlayStation: IA (AI)\nque reescribe enemigos en vivo",
-     "body": "Una nueva patente de PlayStation describe una IA (AI) que cambia al vuelo la conducta de los NPC.",
-     "mini_headline": "Una IA (AI) que reescribe a los jefes",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Patent-AI-Enemy-behavior-FromSoftware-Soulslike.jpg",
-        "cap": "Una nueva patente de PlayStation describe un sistema que usa IA (AI) para reescribir al vuelo la conducta de los enemigos"
-       },
-       {
-        "t": "p",
-        "x": "Una nueva patente de Sony Interactive Entertainment, descubierta por Patentlyze y publicada el 1 de octubre, abarca la “mejora de sistemas de videojuegos mediante un personaje no jugador adaptado por inteligencia artificial”."
-       },
-       {
-        "t": "p",
-        "x": "El sistema funciona en cuatro pasos: recopila datos del jugador sobre sus encuentros con un NPC junto con datos del juego, los introduce en un modelo de aprendizaje automático, obtiene contenido de NPC que ajusta su conducta, diálogo y apariencia, y luego modifica el contenido del juego. La patente no especifica una arquitectura de modelo concreta, por lo que podría funcionar con distintos sistemas de IA (AI) y ser utilizada por desarrolladores ajenos a los estudios propios de PlayStation."
-       },
-       {
-        "t": "p",
-        "x": "Wccftech sostiene que los soulslike serían los más beneficiados. Los enemigos de los juegos para un jugador suelen seguir patrones programados que se pueden aprender y explotar; si la IA (AI) reescribe su conducta, podrían adaptarse a lo agresivo o defensivo que sea el jugador, e incluso los jefes con varias fases podrían pasar antes a su segunda fase bajo presión, como las mecánicas de remontada de los juegos de lucha."
-       },
-       {
-        "t": "p",
-        "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "games-dizzy-ai",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
-   "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
-   "mini_headline": "Dizzy 귀환, genAI로 제작",
-   "tool": "Games",
-   "source": "Rock Paper Shotgun",
-   "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai",
-   "accent": "#0070f3",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-      "cap": "이미지 출처: Code Masters"
-     },
-     {
-      "t": "p",
-      "x": "달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 1987년부터 1992년까지 열여섯 편이 나온 시리즈다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
-     },
-     {
-      "t": "p",
-      "x": "Andrew가 맡은 신작은 큰 틀에서 1989년작 Treasure Island Dizzy의 리메이크다. ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업 중이다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
-     },
-     {
-      "t": "video",
-      "yt": "lTSaPajJCcE"
-     },
-     {
-      "t": "p",
-      "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 거기 들어간 아트 전부가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 답했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로는 자금이 넉넉한 대형 스튜디오를 꼽았다."
-     },
-     {
-      "t": "p",
-      "x": "RPS의 Ashley Schofield는 수긍하지 않는다. 혼자, 혹은 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 이유에서다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Dizzy's creators bring it back,\nhappily made with genAI",
-     "body": "Dizzy's original creators, the Oliver Twins, are reviving the 80s platformer and happily using genAI to make it.",
-     "mini_headline": "Dizzy returns, made with genAI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Image credit: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "Dizzy, the egg-starring platformer series that managed sixteen releases between 1987 and 1992, is coming back. Its creators, the Oliver Twins, announced a new Dizzy game during their talk at Play Expo in Blackpool."
-       },
-       {
-        "t": "p",
-        "x": "Andrew's new entry will mostly be a remake of 1989's Treasure Island Dizzy, combining the ZX Spectrum and NES versions, plus a new Mega Drive version and a completely new 'Ultra' version with modern visuals. Phillip is working on Journey to the Emerald City. Both projects lean happily on generative AI."
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Asked by Time Extension about it, Phillip Oliver said that without it, Emerald City and all of its art \"would have been an over-a-year project with a couple of artists, probably a hundred thousand pounds.\" Andrew added that genAI \"allows indies to compete on a level with the production quality\" of big, well-financed studios."
-       },
-       {
-        "t": "p",
-        "x": "RPS's Ashley Schofield is unconvinced, arguing that plenty of solo and duo indie developers have made games without genAI tools built on scraping artists' work."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
-     "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
-     "mini_headline": "Dizzy 귀환, genAI로 제작",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "이미지 출처: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 1987년부터 1992년까지 열여섯 편이 나온 시리즈다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
-       },
-       {
-        "t": "p",
-        "x": "Andrew가 맡은 신작은 큰 틀에서 1989년작 Treasure Island Dizzy의 리메이크다. ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업 중이다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 거기 들어간 아트 전부가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 답했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로는 자금이 넉넉한 대형 스튜디오를 꼽았다."
-       },
-       {
-        "t": "p",
-        "x": "RPS의 Ashley Schofield는 수긍하지 않는다. 혼자, 혹은 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 이유에서다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Dizzyを生みの親が復活\ngenAIで嬉々として制作",
-     "body": "Oliver Twinsが80年代のDizzyを復活させ、genAIを喜んで使う。",
-     "mini_headline": "Dizzy復活、genAIで制作",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "画像提供: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "1987年から1992年までに十六作が発売された、卵が主役のプラットフォーマーシリーズDizzyが帰ってくる。生みの親であるOliver Twinsは、Blackpoolで開かれたPlay Expoでの講演で新作Dizzyを発表した。"
-       },
-       {
-        "t": "p",
-        "x": "Andrewが手がける新作は、主に1989年のTreasure Island Dizzyのリメイクで、ZX Spectrum版とNES版を統合し、新たなMega Drive版と、現代的なビジュアルの完全新作'Ultra'版を加える。PhillipはJourney to the Emerald Cityを制作中だ。どちらのプロジェクトも生成AIに積極的に頼っている。"
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Time Extensionに問われたPhillip Oliverは、それがなければEmerald Cityとそのアートすべては「アーティスト二人ほどで一年以上かかるプロジェクトになり、おそらく十万ポンドかかっただろう」と語った。Andrewは、genAIが資金力のある大手スタジオの「制作品質に、インディーが対等に渡り合うことを可能にする」と付け加えた。"
-       },
-       {
-        "t": "p",
-        "x": "RPSのAshley Schofieldは納得していない。アーティストの作品をスクレイピングして作られたgenAIツールを使わずにゲームを作ってきた一人や二人のインディー開発者は大勢いる、というのがその主張だ。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Dizzy原班人马重启\n乐于用genAI制作",
-     "body": "Dizzy原作者Oliver Twins复活这款80年代平台游戏，并乐于用genAI制作。",
-     "mini_headline": "Dizzy回归，用genAI打造",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "图片来源：Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "以鸡蛋为主角的平台游戏系列Dizzy在1987年至1992年间推出了十六作，如今即将回归。其创作者Oliver Twins在Blackpool举行的Play Expo演讲中宣布了一款新的Dizzy游戏。"
-       },
-       {
-        "t": "p",
-        "x": "Andrew负责的新作主要是1989年Treasure Island Dizzy的重制版，整合ZX Spectrum版与NES版，另有全新的Mega Drive版，以及采用现代画面、完全新作的'Ultra'版。Phillip则在制作Journey to the Emerald City。两个项目都乐于借助生成式AI。"
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "被Time Extension问及此事时，Phillip Oliver表示，若没有它，Emerald City及其全部美术“会是一个需要两三位美术人员、耗时一年多的项目，大概要花十万英镑”。Andrew补充说，genAI“让独立开发者能在制作品质上”与资金雄厚的大型工作室“平等竞争”。"
-       },
-       {
-        "t": "p",
-        "x": "RPS的Ashley Schofield并不信服，指出有许多单人或双人独立开发者没有借助genAI工具也做出了游戏，而这类工具建立在抓取艺术家作品的基础之上。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Los creadores de Dizzy lo traen\nde vuelta, felices con genAI",
-     "body": "Los Oliver Twins, creadores originales de Dizzy, reviven el plataformas de los 80 y usan genAI con gusto.",
-     "mini_headline": "Dizzy vuelve, hecho con genAI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crédito de la imagen: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "Dizzy, la serie de plataformas protagonizada por un huevo que llegó a sumar dieciséis lanzamientos entre 1987 y 1992, regresa. Sus creadores, los Oliver Twins, anunciaron un nuevo juego de Dizzy durante su charla en Play Expo, en Blackpool."
-       },
-       {
-        "t": "p",
-        "x": "La nueva entrega de Andrew será sobre todo un remake de Treasure Island Dizzy, de 1989, que combina las versiones de ZX Spectrum y NES, además de una nueva versión para Mega Drive y una versión 'Ultra' completamente nueva con gráficos modernos. Phillip trabaja en Journey to the Emerald City. Ambos proyectos se apoyan de buen grado en la IA (AI) generativa."
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Consultado por Time Extension al respecto, Phillip Oliver afirmó que, sin ella, Emerald City y todo su arte “habrían sido un proyecto de más de un año con un par de artistas, probablemente cien mil libras”. Andrew añadió que la genAI “permite a los indies competir de igual a igual con la calidad de producción” de los estudios grandes y con buena financiación."
-       },
-       {
-        "t": "p",
-        "x": "A Ashley Schofield, de RPS, no le convence el argumento: sostiene que muchos desarrolladores indie que trabajan solos o en pareja han hecho juegos sin herramientas de genAI construidas a partir del scraping del trabajo de artistas."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Dizzy 원작자의 귀환\ngenAI로 기꺼이 만든다",
-     "body": "Oliver Twins가 80년대 Dizzy를 되살리며 genAI를 기꺼이 쓴다.",
-     "mini_headline": "Dizzy 귀환, genAI로 제작",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "이미지 출처: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "1987년부터 1992년까지 열여섯 편이 나온, 달걀이 주인공인 플랫포머 시리즈 Dizzy가 돌아온다. 원작자 Oliver Twins는 Blackpool에서 열린 Play Expo 강연에서 새 Dizzy 게임을 발표했다."
-       },
-       {
-        "t": "p",
-        "x": "Andrew가 맡은 신작은 대체로 1989년작 Treasure Island Dizzy의 리메이크로, ZX Spectrum판과 NES판을 합치고 새 Mega Drive판과 현대적 그래픽을 입힌 완전히 새로운 'Ultra' 버전을 더한다. Phillip은 Journey to the Emerald City를 작업하고 있다. 두 프로젝트 모두 생성형 AI에 기꺼이 기댄다."
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Time Extension의 질문에 Phillip Oliver는 생성형 AI가 없었다면 Emerald City와 그 모든 아트가 “아티스트 두어 명이 한 해 넘게 매달리는 프로젝트였을 것이고, 아마 십만 파운드가 들었을 것”이라고 말했다. Andrew는 genAI가 “인디가 제작 품질 면에서 대등하게 경쟁할 수 있게 해준다”며, 그 상대로 자금이 넉넉한 대형 스튜디오를 꼽았다."
-       },
-       {
-        "t": "p",
-        "x": "RPS의 Ashley Schofield는 이에 수긍하지 않는다. 혼자 또는 둘이서 일하는 인디 개발자 상당수가 아티스트의 작업물을 긁어모아 만든 genAI 도구 없이도 게임을 만들어 왔다는 것이다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Dizzyを生みの親が復活\ngenAIで嬉々として制作",
-     "body": "Oliver Twinsが80年代のDizzyを復活させ、genAIを喜んで使う。",
-     "mini_headline": "Dizzy復活、genAIで制作",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "画像提供: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "1987年から1992年までに十六作が発売された、卵が主役のプラットフォーマーシリーズDizzyが帰ってくる。生みの親であるOliver Twinsは、Blackpoolで開かれたPlay Expoでの講演で新作Dizzyを発表した。"
-       },
-       {
-        "t": "p",
-        "x": "Andrewが手がける新作は、主に1989年のTreasure Island Dizzyのリメイクで、ZX Spectrum版とNES版を統合し、新たなMega Drive版と、現代的なビジュアルの完全新作'Ultra'版を加える。PhillipはJourney to the Emerald Cityを制作中だ。どちらのプロジェクトも生成AIに積極的に頼っている。"
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Time Extensionに問われたPhillip Oliverは、それがなければEmerald Cityとそのアートすべては「アーティスト二人ほどで一年以上かかるプロジェクトになり、おそらく十万ポンドかかっただろう」と語った。Andrewは、genAIが資金力のある大手スタジオの「制作品質に、インディーが対等に渡り合うことを可能にする」と付け加えた。"
-       },
-       {
-        "t": "p",
-        "x": "RPSのAshley Schofieldは納得していない。アーティストの作品をスクレイピングして作られたgenAIツールを使わずにゲームを作ってきた一人や二人のインディー開発者は大勢いる、というのがその主張だ。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Dizzy原班人马重启\n乐于用genAI制作",
-     "body": "Dizzy原作者Oliver Twins复活这款80年代平台游戏，并乐于用genAI制作。",
-     "mini_headline": "Dizzy回归，用genAI打造",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "图片来源：Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "以鸡蛋为主角的平台游戏系列Dizzy在1987年至1992年间推出了十六作，如今即将回归。其创作者Oliver Twins在Blackpool举行的Play Expo演讲中宣布了一款新的Dizzy游戏。"
-       },
-       {
-        "t": "p",
-        "x": "Andrew负责的新作主要是1989年Treasure Island Dizzy的重制版，整合ZX Spectrum版与NES版，另有全新的Mega Drive版，以及采用现代画面、完全新作的'Ultra'版。Phillip则在制作Journey to the Emerald City。两个项目都乐于借助生成式AI。"
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "被Time Extension问及此事时，Phillip Oliver表示，若没有它，Emerald City及其全部美术“会是一个需要两三位美术人员、耗时一年多的项目，大概要花十万英镑”。Andrew补充说，genAI“让独立开发者能在制作品质上”与资金雄厚的大型工作室“平等竞争”。"
-       },
-       {
-        "t": "p",
-        "x": "RPS的Ashley Schofield并不信服，指出有许多单人或双人独立开发者没有借助genAI工具也做出了游戏，而这类工具建立在抓取艺术家作品的基础之上。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Los creadores de Dizzy lo traen\nde vuelta, felices con genAI",
-     "body": "Los Oliver Twins, creadores originales de Dizzy, reviven el plataformas de los 80 y usan genAI con gusto.",
-     "mini_headline": "Dizzy vuelve, hecho con genAI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/Dizzy.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crédito de la imagen: Code Masters"
-       },
-       {
-        "t": "p",
-        "x": "Dizzy, la serie de plataformas protagonizada por un huevo que llegó a sumar dieciséis lanzamientos entre 1987 y 1992, regresa. Sus creadores, los Oliver Twins, anunciaron un nuevo juego de Dizzy durante su charla en Play Expo, en Blackpool."
-       },
-       {
-        "t": "p",
-        "x": "La nueva entrega de Andrew será sobre todo un remake de Treasure Island Dizzy, de 1989, que combina las versiones de ZX Spectrum y NES, además de una nueva versión para Mega Drive y una versión 'Ultra' completamente nueva con gráficos modernos. Phillip trabaja en Journey to the Emerald City. Ambos proyectos se apoyan de buen grado en la IA (AI) generativa."
-       },
-       {
-        "t": "video",
-        "yt": "lTSaPajJCcE"
-       },
-       {
-        "t": "p",
-        "x": "Consultado por Time Extension al respecto, Phillip Oliver afirmó que, sin ella, Emerald City y todo su arte “habrían sido un proyecto de más de un año con un par de artistas, probablemente cien mil libras”. Andrew añadió que la genAI “permite a los indies competir de igual a igual con la calidad de producción” de los estudios grandes y con buena financiación."
-       },
-       {
-        "t": "p",
-        "x": "A Ashley Schofield, de RPS, no le convence el argumento: sostiene que muchos desarrolladores indie que trabajan solos o en pareja han hecho juegos sin herramientas de genAI construidas a partir del scraping del trabajo de artistas."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "games-usf4-rollback",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Street Fighter\nIV에 Claude 롤백",
-   "body": "Ultra Street Fighter IV에 Claude 롤백 모드가 둘 나왔다.",
-   "mini_headline": "Claude 모드, USF4에 롤백 추가",
-   "tool": "Games",
-   "source": "Rock Paper Shotgun",
-   "url": "https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude",
-   "accent": "#f5a623",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-      "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
-     },
-     {
-      "t": "p",
-      "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 명맥이 끊겼다. 2010년대 중반부터 업계 표준이 된, 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
-     },
-     {
-      "t": "p",
-      "x": "Delay-based 넷코드는 불안정한 연결에 맞춰 입력을 그때그때 늦춘다. 롤백은 입력을 바로 받아들이고 연결 문제로 플레이어 사이에 어긋남이 생기면 게임 상태를 되감는다."
-     },
-     {
-      "t": "p",
-      "x": "최근 몇 주 사이 두 모드가 공개됐다. Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'다. 둘 다 롤백 넷코드와 비공개 방을 더했고, 코딩에는 Anthropic의 Claude 도움을 받았다. Faabi는 이후 SF4Enhanced 개발을 접었다. \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"며 \"전에는 C++를 거의 써 본 적이 없었다\"고 털어놓은 그는 플레이어들에게 Ember를 권했다."
-     },
-     {
-      "t": "p",
-      "x": "두 모드 모두 플레이어가 꽤 많은 듯하다. 그래도 RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다고 한다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Two Claude-built mods bring\nrollback to Street Fighter IV",
-     "body": "Twelve years on, Ultra Street Fighter IV gets two rollback netcode mods, and both were made using Claude.",
-     "mini_headline": "Claude mods add USF4 rollback",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Image credit: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV saw its final iteration in 2014's Ultra Street Fighter IV, a game still limited to delay-based netcode rather than the more stable rollback netcode that has become the industry standard since the mid 2010s."
-       },
-       {
-        "t": "p",
-        "x": "Delay-based netcode variably delays inputs to cope with unstable connections, while rollback accepts inputs immediately and rewinds the game state if the connection causes inconsistencies between players."
-       },
-       {
-        "t": "p",
-        "x": "Two new mods, Faabi's 'SF4Enhanced' and Kabiefox's 'SF4 Ember', both released in the last few weeks, add rollback netcode and private rooms, and both were coded with the assistance of Anthropic's Claude. Faabi has since abandoned SF4Enhanced, saying they \"don't have the time to deliver what this community deserves\" and admitting they \"had barely written any C++ before,\" and points players to Ember."
-       },
-       {
-        "t": "p",
-        "x": "Both mods seem to be getting a lot of play, but RPS's writer would rather stick with delay-based netcode than use AI-made code."
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Dos mods Claude-built añaden\nrollback a Street Fighter IV",
-     "body": "Doce años después, Ultra Street Fighter IV recibe dos mods de netcode rollback, ambos hechos con Claude.",
-     "mini_headline": "Mods de Claude dan rollback a USF4",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crédito de la imagen: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV tuvo su última versión en Ultra Street Fighter IV, de 2014, un juego que sigue limitado a un netcode basado en retardo en lugar del netcode rollback, más estable, que se ha convertido en el estándar de la industria desde mediados de la década de 2010."
-       },
-       {
-        "t": "p",
-        "x": "El netcode basado en retardo (Delay-based) retrasa las entradas de forma variable para lidiar con conexiones inestables, mientras que el rollback acepta las entradas de inmediato y rebobina el estado del juego si la conexión provoca incoherencias entre los jugadores."
-       },
-       {
-        "t": "p",
-        "x": "Dos nuevos mods, 'SF4Enhanced' de Faabi y 'SF4 Ember' de Kabiefox, ambos publicados en las últimas semanas, añaden netcode rollback y salas privadas, y los dos se programaron con ayuda de Claude, de Anthropic. Desde entonces, Faabi ha abandonado SF4Enhanced: dice que “no tiene tiempo para ofrecer lo que esta comunidad merece”, admite que “apenas había escrito C++ antes” y remite a los jugadores a Ember."
-       },
-       {
-        "t": "p",
-        "x": "Ambos mods parecen tener muchos jugadores, pero el redactor de RPS prefiere quedarse con el netcode basado en retardo antes que usar código AI-made, hecho con IA."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Street Fighter\nIV에 Claude 롤백",
-     "body": "Ultra Street Fighter IV에 Claude 롤백 모드가 둘 나왔다.",
-     "mini_headline": "Claude 모드, USF4에 롤백 추가",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 명맥이 끊겼다. 2010년대 중반부터 업계 표준이 된, 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
-       },
-       {
-        "t": "p",
-        "x": "Delay-based 넷코드는 불안정한 연결에 맞춰 입력을 그때그때 늦춘다. 롤백은 입력을 바로 받아들이고 연결 문제로 플레이어 사이에 어긋남이 생기면 게임 상태를 되감는다."
-       },
-       {
-        "t": "p",
-        "x": "최근 몇 주 사이 두 모드가 공개됐다. Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'다. 둘 다 롤백 넷코드와 비공개 방을 더했고, 코딩에는 Anthropic의 Claude 도움을 받았다. Faabi는 이후 SF4Enhanced 개발을 접었다. \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"며 \"전에는 C++를 거의 써 본 적이 없었다\"고 털어놓은 그는 플레이어들에게 Ember를 권했다."
-       },
-       {
-        "t": "p",
-        "x": "두 모드 모두 플레이어가 꽤 많은 듯하다. 그래도 RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다고 한다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Street Fighter\nIVにClaude製モッド",
-     "body": "Ultra Street Fighter IVにClaude製ロールバックモッドが二つ出た。",
-     "mini_headline": "Claude製モッドでUSF4にロールバック",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "画像提供: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IVは2014年のUltra Street Fighter IVを最終版とした。同作は、2010年代半ばから業界標準となったより安定したロールバック型ネットコードではなく、いまもディレイ型(delay-based)ネットコードにとどまっている。"
-       },
-       {
-        "t": "p",
-        "x": "Delay-basedのネットコードは不安定な接続に対応するため入力を可変的に遅らせる。一方ロールバックは入力を即座に受け付け、接続によってプレイヤー間に食い違いが生じるとゲームの状態を巻き戻す。"
-       },
-       {
-        "t": "p",
-        "x": "ここ数週間で公開された二つのモッド、Faabiの『SF4Enhanced』とKabiefoxの『SF4 Ember』は、ロールバック型ネットコードとプライベートルームを追加した。どちらもAnthropicのClaudeの助けを借りてコーディングされたものだ。Faabiはその後SF4Enhancedの開発を断念し、「このコミュニティにふさわしいものを届ける時間がない」と述べ、「それまでC++をほとんど書いたことがなかった」と認めたうえで、プレイヤーにEmberを勧めている。"
-       },
-       {
-        "t": "p",
-        "x": "両モッドとも多くプレイされているようだが、RPSの筆者はAI-madeのコードを使うくらいならdelay-basedのネットコードを使い続けたいという。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Street Fighter\nIV获Claude回滚模组",
-     "body": "时隔十二年，Ultra Street Fighter IV迎来两款Claude回滚模组。",
-     "mini_headline": "Claude模组为USF4加入回滚",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "图片来源：Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV的最终版本是2014年的Ultra Street Fighter IV。这款游戏至今仍只支持延迟式（delay-based）网络代码，而非自2010年代中期以来已成为行业标准、更加稳定的回滚网络代码。"
-       },
-       {
-        "t": "p",
-        "x": "Delay-based网络代码会可变地延迟输入，以应对不稳定的连接；而回滚则会立即接受输入，并在连接导致玩家之间出现不一致时回退游戏状态。"
-       },
-       {
-        "t": "p",
-        "x": "最近几周发布的两款新模组——Faabi的“SF4Enhanced”和Kabiefox的“SF4 Ember”——都加入了回滚网络代码和私人房间，并且都是在Anthropic的Claude协助下编写的。Faabi此后已放弃SF4Enhanced，称自己“没有时间交付这个社区应得的东西”，并承认自己“以前几乎没写过C++”，同时推荐玩家转向Ember。"
-       },
-       {
-        "t": "p",
-        "x": "两款模组似乎都有大量玩家使用，但RPS的作者宁愿继续使用delay-based网络代码，也不愿使用AI-made代码。"
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "es": {
-     "headline": "Dos mods Claude-built añaden\nrollback a Street Fighter IV",
-     "body": "Doce años después, Ultra Street Fighter IV recibe dos mods de netcode rollback, ambos hechos con Claude.",
-     "mini_headline": "Mods de Claude dan rollback a USF4",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crédito de la imagen: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV tuvo su última versión en Ultra Street Fighter IV, de 2014, un juego que sigue limitado a un netcode basado en retardo en lugar del netcode rollback, más estable, que se ha convertido en el estándar de la industria desde mediados de la década de 2010."
-       },
-       {
-        "t": "p",
-        "x": "El netcode basado en retardo (Delay-based) retrasa las entradas de forma variable para lidiar con conexiones inestables, mientras que el rollback acepta las entradas de inmediato y rebobina el estado del juego si la conexión provoca incoherencias entre los jugadores."
-       },
-       {
-        "t": "p",
-        "x": "Dos nuevos mods, 'SF4Enhanced' de Faabi y 'SF4 Ember' de Kabiefox, ambos publicados en las últimas semanas, añaden netcode rollback y salas privadas, y los dos se programaron con ayuda de Claude, de Anthropic. Desde entonces, Faabi ha abandonado SF4Enhanced: dice que “no tiene tiempo para ofrecer lo que esta comunidad merece”, admite que “apenas había escrito C++ antes” y remite a los jugadores a Ember."
-       },
-       {
-        "t": "p",
-        "x": "Ambos mods parecen tener muchos jugadores, pero el redactor de RPS prefiere quedarse con el netcode basado en retardo antes que usar código AI-made, hecho con IA."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Street Fighter\nIV에 Claude 롤백",
-     "body": "Ultra Street Fighter IV에 Claude 롤백 모드 둘이 나왔다.",
-     "mini_headline": "Claude 모드, USF4에 롤백 추가",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "이미지 출처: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV는 2014년 Ultra Street Fighter IV를 끝으로 더 나오지 않았다. 이 게임은 2010년대 중반부터 업계 표준으로 자리 잡은 더 안정적인 롤백 넷코드가 아니라 여전히 딜레이 방식(delay-based) 넷코드에 머물러 있다."
-       },
-       {
-        "t": "p",
-        "x": "Delay-based 넷코드는 불안정한 연결에 대응하려고 입력을 가변적으로 지연시킨다. 반면 롤백은 입력을 즉시 받아들이고, 연결 문제로 플레이어 사이에 불일치가 생기면 게임 상태를 되감는다."
-       },
-       {
-        "t": "p",
-        "x": "최근 몇 주 사이 공개된 두 모드, Faabi의 'SF4Enhanced'와 Kabiefox의 'SF4 Ember'는 롤백 넷코드와 비공개 방을 더했고, 둘 다 Anthropic의 Claude 도움을 받아 코딩됐다. Faabi는 이후 SF4Enhanced 개발을 접었다. 그는 \"이 커뮤니티가 받아 마땅한 것을 내놓을 시간이 없다\"고 말하며 \"전에는 C++를 거의 써 본 적이 없었다\"고 인정했고, 플레이어들에게 Ember를 권했다."
-       },
-       {
-        "t": "p",
-        "x": "두 모드 모두 많이 플레이되는 듯하지만, RPS의 필자는 AI-made 코드를 쓰느니 delay-based 넷코드를 고수하겠다는 입장이다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Street Fighter\nIVにClaude製モッド",
-     "body": "Ultra Street Fighter IVにClaude製ロールバックモッドが二つ出た。",
-     "mini_headline": "Claude製モッドでUSF4にロールバック",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "画像提供: Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IVは2014年のUltra Street Fighter IVを最終版とした。同作は、2010年代半ばから業界標準となったより安定したロールバック型ネットコードではなく、いまもディレイ型(delay-based)ネットコードにとどまっている。"
-       },
-       {
-        "t": "p",
-        "x": "Delay-basedのネットコードは不安定な接続に対応するため入力を可変的に遅らせる。一方ロールバックは入力を即座に受け付け、接続によってプレイヤー間に食い違いが生じるとゲームの状態を巻き戻す。"
-       },
-       {
-        "t": "p",
-        "x": "ここ数週間で公開された二つのモッド、Faabiの『SF4Enhanced』とKabiefoxの『SF4 Ember』は、ロールバック型ネットコードとプライベートルームを追加した。どちらもAnthropicのClaudeの助けを借りてコーディングされたものだ。Faabiはその後SF4Enhancedの開発を断念し、「このコミュニティにふさわしいものを届ける時間がない」と述べ、「それまでC++をほとんど書いたことがなかった」と認めたうえで、プレイヤーにEmberを勧めている。"
-       },
-       {
-        "t": "p",
-        "x": "両モッドとも多くプレイされているようだが、RPSの筆者はAI-madeのコードを使うくらいならdelay-basedのネットコードを使い続けたいという。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Street Fighter\nIV获Claude回滚模组",
-     "body": "时隔十二年，Ultra Street Fighter IV迎来两款Claude回滚模组。",
-     "mini_headline": "Claude模组为USF4加入回滚",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/SFIV-Shin-Shoryuken.png?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "图片来源：Rock Paper Shotgun/Capcom"
-       },
-       {
-        "t": "p",
-        "x": "Street Fighter IV的最终版本是2014年的Ultra Street Fighter IV。这款游戏至今仍只支持延迟式（delay-based）网络代码，而非自2010年代中期以来已成为行业标准、更加稳定的回滚网络代码。"
-       },
-       {
-        "t": "p",
-        "x": "Delay-based网络代码会可变地延迟输入，以应对不稳定的连接；而回滚则会立即接受输入，并在连接导致玩家之间出现不一致时回退游戏状态。"
-       },
-       {
-        "t": "p",
-        "x": "最近几周发布的两款新模组——Faabi的“SF4Enhanced”和Kabiefox的“SF4 Ember”——都加入了回滚网络代码和私人房间，并且都是在Anthropic的Claude协助下编写的。Faabi此后已放弃SF4Enhanced，称自己“没有时间交付这个社区应得的东西”，并承认自己“以前几乎没写过C++”，同时推荐玩家转向Ember。"
-       },
-       {
-        "t": "p",
-        "x": "两款模组似乎都有大量玩家使用，但RPS的作者宁愿继续使用delay-based网络代码，也不愿使用AI-made代码。"
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "games-wotc-union",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "D&D·Magic 개발자들\nAI 압박에 노조 결성",
-   "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
-   "mini_headline": "WotC 직원들, AI 문제로 노조 결성",
-   "tool": "Games",
-   "source": "GamesRadar+",
-   "url": "https://www.gamesradar.com/tabletop-gaming/d-and-d-and-magic-the-gathering-developers-unionize-allege-wizards-of-the-coast-is-pushing-adoption-of-llms-and-generative-ai/",
-   "accent": "#2ec5c5",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-      "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
-     },
-     {
-      "t": "p",
-      "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하며 회사에 노조를 자발적으로 인정하라고 요구했다."
-     },
-     {
-      "t": "p",
-      "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 꾸려져 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들도 Communication Workers of America의 지원을 받아 같은 깃발 아래 모인다."
-     },
-     {
-      "t": "p",
-      "x": "요구 사항은 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”, 그리고 “AI 잠식으로부터의 보호”다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 이미 내 둔 상태다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "D&D and Magic developers\nunionize, citing AI push",
-     "body": "D&D and Magic developers are unionizing, alleging Wizards of the Coast is pushing adoption of LLMs and genAI.",
-     "mini_headline": "WotC staff unionize, citing AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "Bandits in the 2025 Monster Manual (Image credit: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "The developers of Dungeons & Dragons and Magic: The Gathering have announced they're joining United Wizards of the Coast - CWA and are calling on the company to voluntarily recognize the union."
-       },
-       {
-        "t": "p",
-        "x": "The union first formed in April with only the Magic: The Gathering Arena developers, and won its election in June. Now workers behind D&D, D&D Beyond, Magic: The Gathering and Duel Masters are joining under the same banner, supported by the Communication Workers of America."
-       },
-       {
-        "t": "p",
-        "x": "Alongside \"fair wages,\" \"reliable and easily accessible healthcare\" and \"remote work protections,\" the union is demanding \"protection against the encroachment of AI.\" \"Leadership, without regard for the desires of our teams, has pushed for adoption of LLMs and generative AI,\" it says. \"This has to stop.\""
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast has until October 13 to respond. The union has already filed an election petition with the National Labor Relations Board."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "D&D·Magic 개발자들\nAI 압박에 노조 결성",
-     "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
-     "mini_headline": "WotC 직원들, AI 문제로 노조 결성",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하며 회사에 노조를 자발적으로 인정하라고 요구했다."
-       },
-       {
-        "t": "p",
-        "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 꾸려져 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들도 Communication Workers of America의 지원을 받아 같은 깃발 아래 모인다."
-       },
-       {
-        "t": "p",
-        "x": "요구 사항은 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”, 그리고 “AI 잠식으로부터의 보호”다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 이미 내 둔 상태다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "D&DとMagicの開発者\nAI推進を理由に労組結成",
-     "body": "D&DとMagicの開発者が、会社のLLMsとgenAIの導入強要を訴え労組を結成する。",
-     "mini_headline": "WotC社員がAIを理由に労組結成",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025年版Monster Manualの盗賊(Bandits)(画像提供: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & DragonsとMagic: The Gatheringの開発者が、United Wizards of the Coast - CWAへの参加を発表し、会社に対して労働組合を自主的に承認するよう求めた。"
-       },
-       {
-        "t": "p",
-        "x": "組合は4月、Magic: The Gathering Arenaの開発者のみで結成され、6月の選挙で勝利した。今回はD&D、D&D Beyond、Magic: The Gathering、Duel Mastersに携わる従業員が、Communication Workers of Americaの支援を受けて同じ旗の下に加わる。"
-       },
-       {
-        "t": "p",
-        "x": "組合は「公正な賃金」「信頼でき利用しやすい医療保障」「リモートワークの保護」と並んで、「AIの侵食からの保護」を求めている。「経営陣はチームの意向を顧みず、LLMsと生成AIの導入を推し進めてきた」と組合は述べ、「これは止めなければならない」としている。"
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coastは10月13日までに回答する必要がある。組合はすでにNational Labor Relations Board(全米労働関係委員会)に選挙の申し立てを行っている。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "D&D与Magic开发者\n因AI推行而组建工会",
-     "body": "D&D与Magic开发者组建工会，指公司强推LLMs与genAI。",
-     "mini_headline": "WotC员工因AI组建工会",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025年版Monster Manual中的强盗（Bandits）（图片来源：Wizards of the Coast）"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & Dragons与Magic: The Gathering的开发者宣布加入United Wizards of the Coast - CWA，并呼吁公司自愿承认该工会。"
-       },
-       {
-        "t": "p",
-        "x": "该工会于4月首次成立，当时仅有Magic: The Gathering Arena的开发者，并于6月赢得选举。如今，D&D、D&D Beyond、Magic: The Gathering和Duel Masters背后的员工也在Communication Workers of America的支持下加入同一阵营。"
-       },
-       {
-        "t": "p",
-        "x": "除了“公平的薪酬”“可靠且便于获取的医疗保障”和“远程工作保障”外，工会还要求“免受AI侵蚀的保护”。工会表示：“领导层无视我们团队的意愿，一直推动采用LLMs和生成式AI。”“这必须停止。”"
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast须在10月13日前作出回应。工会已向National Labor Relations Board（国家劳资关系委员会）提交选举申请。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Desarrolladores de D&D y Magic\nse sindicalizan por la IA (AI)",
-     "body": "Los desarrolladores de D&D y Magic se sindicalizan y acusan a Wizards of the Coast de impulsar los LLMs y la genAI.",
-     "mini_headline": "El personal de WotC se sindicaliza por la IA (AI)",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "Bandidos (Bandits) en el Monster Manual de 2025 (Crédito de la imagen: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Los desarrolladores de Dungeons & Dragons y Magic: The Gathering anunciaron que se unen a United Wizards of the Coast - CWA y piden a la empresa que reconozca voluntariamente al sindicato."
-       },
-       {
-        "t": "p",
-        "x": "El sindicato se formó en abril solo con los desarrolladores de Magic: The Gathering Arena y ganó su elección en junio. Ahora, los trabajadores detrás de D&D, D&D Beyond, Magic: The Gathering y Duel Masters se suman bajo la misma bandera, con el apoyo de Communication Workers of America."
-       },
-       {
-        "t": "p",
-        "x": "Junto a “salarios justos”, “atención médica fiable y de fácil acceso” y “protecciones para el trabajo remoto”, el sindicato exige “protección frente al avance de la IA (AI)”. “La dirección, sin tener en cuenta los deseos de nuestros equipos, ha impulsado la adopción de LLMs y de IA generativa”, afirma. “Esto tiene que parar”."
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast tiene hasta el 13 de octubre para responder. El sindicato ya presentó una petición de elección ante la National Labor Relations Board."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "D&D·Magic 개발자들\nAI 압박 이유로 노조",
-     "body": "D&D·Magic 개발진이 사측의 LLMs·genAI 강요에 노조를 꾸린다.",
-     "mini_headline": "WotC 직원들, AI 들어 노조 결성",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025 Monster Manual 속 도적들(Bandits) (이미지 출처: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & Dragons와 Magic: The Gathering 개발자들이 United Wizards of the Coast - CWA에 합류한다고 발표하고, 회사에 노조를 자발적으로 인정하라고 요구했다."
-       },
-       {
-        "t": "p",
-        "x": "노조는 4월 Magic: The Gathering Arena 개발자들만으로 처음 결성됐고, 6월 선거에서 이겼다. 이제 D&D, D&D Beyond, Magic: The Gathering, Duel Masters를 만드는 직원들이 Communication Workers of America의 지원을 받아 같은 깃발 아래 합류한다."
-       },
-       {
-        "t": "p",
-        "x": "노조는 “공정한 임금”, “믿을 수 있고 쉽게 이용할 수 있는 의료 보장”, “원격 근무 보호”와 함께 “AI 잠식으로부터의 보호”를 요구한다. 노조는 “경영진은 우리 팀의 바람을 무시한 채 LLMs와 생성형 AI 도입을 밀어붙였다”며 “이는 멈춰야 한다”고 밝혔다."
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast는 10월 13일까지 답해야 한다. 노조는 이미 National Labor Relations Board(전국노동관계위원회)에 선거 청원을 냈다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "D&DとMagicの開発者\nAI推進を理由に労組結成",
-     "body": "D&DとMagicの開発者が、会社のLLMsとgenAIの導入強要を訴え労組を結成する。",
-     "mini_headline": "WotC社員がAIを理由に労組結成",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025年版Monster Manualの盗賊(Bandits)(画像提供: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & DragonsとMagic: The Gatheringの開発者が、United Wizards of the Coast - CWAへの参加を発表し、会社に対して労働組合を自主的に承認するよう求めた。"
-       },
-       {
-        "t": "p",
-        "x": "組合は4月、Magic: The Gathering Arenaの開発者のみで結成され、6月の選挙で勝利した。今回はD&D、D&D Beyond、Magic: The Gathering、Duel Mastersに携わる従業員が、Communication Workers of Americaの支援を受けて同じ旗の下に加わる。"
-       },
-       {
-        "t": "p",
-        "x": "組合は「公正な賃金」「信頼でき利用しやすい医療保障」「リモートワークの保護」と並んで、「AIの侵食からの保護」を求めている。「経営陣はチームの意向を顧みず、LLMsと生成AIの導入を推し進めてきた」と組合は述べ、「これは止めなければならない」としている。"
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coastは10月13日までに回答する必要がある。組合はすでにNational Labor Relations Board(全米労働関係委員会)に選挙の申し立てを行っている。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "D&D与Magic开发者\n因AI推行而组建工会",
-     "body": "D&D与Magic开发者组建工会，指公司强推LLMs与genAI。",
-     "mini_headline": "WotC员工因AI组建工会",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "2025年版Monster Manual中的强盗（Bandits）（图片来源：Wizards of the Coast）"
-       },
-       {
-        "t": "p",
-        "x": "Dungeons & Dragons与Magic: The Gathering的开发者宣布加入United Wizards of the Coast - CWA，并呼吁公司自愿承认该工会。"
-       },
-       {
-        "t": "p",
-        "x": "该工会于4月首次成立，当时仅有Magic: The Gathering Arena的开发者，并于6月赢得选举。如今，D&D、D&D Beyond、Magic: The Gathering和Duel Masters背后的员工也在Communication Workers of America的支持下加入同一阵营。"
-       },
-       {
-        "t": "p",
-        "x": "除了“公平的薪酬”“可靠且便于获取的医疗保障”和“远程工作保障”外，工会还要求“免受AI侵蚀的保护”。工会表示：“领导层无视我们团队的意愿，一直推动采用LLMs和生成式AI。”“这必须停止。”"
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast须在10月13日前作出回应。工会已向National Labor Relations Board（国家劳资关系委员会）提交选举申请。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Desarrolladores de D&D y Magic\nse sindicalizan por la IA (AI)",
-     "body": "Los desarrolladores de D&D y Magic se sindicalizan y acusan a Wizards of the Coast de impulsar los LLMs y la genAI.",
-     "mini_headline": "El personal de WotC se sindicaliza por la IA (AI)",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://cdn.mos.cms.futurecdn.net/XYDnJMVAtjTKpH8V2fhFdA-1920-80.jpg",
-        "cap": "Bandidos (Bandits) en el Monster Manual de 2025 (Crédito de la imagen: Wizards of the Coast)"
-       },
-       {
-        "t": "p",
-        "x": "Los desarrolladores de Dungeons & Dragons y Magic: The Gathering anunciaron que se unen a United Wizards of the Coast - CWA y piden a la empresa que reconozca voluntariamente al sindicato."
-       },
-       {
-        "t": "p",
-        "x": "El sindicato se formó en abril solo con los desarrolladores de Magic: The Gathering Arena y ganó su elección en junio. Ahora, los trabajadores detrás de D&D, D&D Beyond, Magic: The Gathering y Duel Masters se suman bajo la misma bandera, con el apoyo de Communication Workers of America."
-       },
-       {
-        "t": "p",
-        "x": "Junto a “salarios justos”, “atención médica fiable y de fácil acceso” y “protecciones para el trabajo remoto”, el sindicato exige “protección frente al avance de la IA (AI)”. “La dirección, sin tener en cuenta los deseos de nuestros equipos, ha impulsado la adopción de LLMs y de IA generativa”, afirma. “Esto tiene que parar”."
-       },
-       {
-        "t": "p",
-        "x": "Wizards of the Coast tiene hasta el 13 de octubre para responder. El sindicato ya presentó una petición de elección ante la National Labor Relations Board."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "games-sega-ai",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
-   "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
-   "mini_headline": "Sega, AI는 효율화에만",
-   "tool": "Games",
-   "source": "GamesIndustry.biz",
-   "url": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
-   "accent": "#eb367f",
-   "motif": "cube",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-      "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
-     },
-     {
-      "t": "p",
-      "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei 인터뷰에서 개발 과정에 생성형 AI를 들이는 문제라면 회사가 “매우 신중하다”고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
-     },
-     {
-      "t": "p",
-      "x": "Sega는 지난해 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 그 안에 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”가 있다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 써 논란이 일었다."
-     },
-     {
-      "t": "p",
-      "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 썼다. 다만 “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Sega keeps AI out of creative\nwork, uses it for efficiency",
-     "body": "Sega won't entrust the creative side of games to AI but is using it to improve efficiency in other departments.",
-     "mini_headline": "Sega limits AI to efficiency",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour (Image credit: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "Speaking to Nikkei, Sega senior executive officer and deputy chief business officer Tsuyoshi Saito said the company is \"very cautious\" about how it implements generative AI during development."
-       },
-       {
-        "t": "p",
-        "x": "\"We are using AI to improve efficiency in areas such as publishing and corporate departments, as well as for generating business ideas,\" said Saito. \"However, we are being very cautious about its use in the game development process, and we are not entrusting the creative aspects of games to AI.\""
-       },
-       {
-        "t": "p",
-        "x": "Sega established a \"Generative AI Committee\" last year, including an \"AI Task Force\" responsible for \"developing in-house AI tools.\" Earlier this year, Sega faced controversy after generative AI was used \"during the development of background assets\" for Crazy Taxi: World Tour."
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics says it used generative AI similarly for early prototyping on Tomb Raider: Legacy of Atlantis, while \"making sure that all the finished content in the final game is human-created.\""
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
-     "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
-     "mini_headline": "Sega, AI는 효율화에만",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei 인터뷰에서 개발 과정에 생성형 AI를 들이는 문제라면 회사가 “매우 신중하다”고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "Sega는 지난해 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 그 안에 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”가 있다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 써 논란이 일었다."
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 썼다. 다만 “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Sega、創作にAI使わず\n効率化には活用",
-     "body": "Segaはゲームの創作面をAIに任せないが、他部門の効率化には活用している。",
-     "mini_headline": "Sega、AIは効率化に限定",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour(画像提供: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "Segaの上席執行役員で副最高事業責任者のTsuyoshi Saitoは、Nikkeiの取材に対し、同社は開発における生成AIの導入方法について「非常に慎重」だと語った。"
-       },
-       {
-        "t": "p",
-        "x": "「パブリッシングやコーポレート部門などの効率化や、事業アイデアの創出にAIを活用している」とSaitoは述べた。「ただし、ゲーム開発の過程での利用には非常に慎重であり、ゲームの創作的な部分をAIに任せることはしていない」"
-       },
-       {
-        "t": "p",
-        "x": "Segaは昨年、「社内AIツールの開発」を担う「AI Task Force」を含む「Generative AI Committee」(生成AI委員会)を設置した。今年初めには、Crazy Taxi: World Tourの「背景アセットの開発中」に生成AIが使われたことで論争を招いた。"
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamicsも、Tomb Raider: Legacy of Atlantisの初期プロトタイピングで同様に生成AIを使ったとしつつ、「最終的なゲームの完成コンテンツはすべて人間が作ったものにしている」と説明している。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Sega创作不交给AI\n但用来提升效率",
-     "body": "Sega不会把游戏创作交给AI，但在其他部门用它提升效率。",
-     "mini_headline": "Sega将AI限于提效",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour（图片来源：Sega）"
-       },
-       {
-        "t": "p",
-        "x": "Sega高级执行官兼副首席业务官Tsuyoshi Saito在接受Nikkei采访时表示，公司在开发中如何采用生成式AI这件事上“非常谨慎”。"
-       },
-       {
-        "t": "p",
-        "x": "Saito说：“我们正在用AI提升发行和企业部门等领域的效率，也用它来构思业务点子。”他还说：“不过，我们对在游戏开发过程中使用AI非常谨慎，不会把游戏的创意部分交给AI。”"
-       },
-       {
-        "t": "p",
-        "x": "Sega去年成立了“生成式AI委员会”（Generative AI Committee），其中包括负责“开发内部AI工具”的“AI特别工作组”（AI Task Force）。今年早些时候，Sega因在Crazy Taxi: World Tour的“背景素材开发过程中”使用生成式AI而引发争议。"
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics表示，它在Tomb Raider: Legacy of Atlantis的早期原型制作中也以类似方式使用了生成式AI，同时“确保最终游戏中的所有成品内容均由人类创作”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Sega no usa la IA (AI) al crear\npero sí para ganar eficiencia",
-     "body": "Sega no confiará a la IA (AI) lo creativo de sus juegos, pero la usa para ganar eficiencia en otros departamentos.",
-     "mini_headline": "Sega limita la IA (AI) a la eficiencia",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour (Crédito de la imagen: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "En declaraciones a Nikkei, Tsuyoshi Saito, alto ejecutivo y director adjunto de negocio de Sega, afirmó que la compañía es “muy cautelosa” en cuanto a cómo implementa la IA (AI) generativa durante el desarrollo."
-       },
-       {
-        "t": "p",
-        "x": "“Usamos la IA (AI) para mejorar la eficiencia en áreas como la publicación y los departamentos corporativos, así como para generar ideas de negocio”, dijo Saito. “Sin embargo, somos muy cautelosos con su uso en el proceso de desarrollo de juegos y no confiamos a la IA los aspectos creativos de los juegos”."
-       },
-       {
-        "t": "p",
-        "x": "Sega creó el año pasado un “Comité de IA Generativa” (Generative AI Committee), que incluye un “Grupo de Trabajo de IA” (AI Task Force) encargado de “desarrollar herramientas de IA propias”. A principios de este año, Sega recibió críticas después de que se usara IA (AI) generativa “durante el desarrollo de los recursos de fondo” de Crazy Taxi: World Tour."
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics afirma que usó la IA (AI) generativa de forma similar para los primeros prototipos de Tomb Raider: Legacy of Atlantis, “asegurándose de que todo el contenido terminado del juego final esté creado por personas”."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Sega 창작엔 AI 배제\n효율 개선엔 활용",
-     "body": "Sega는 게임 창작을 AI에 맡기지 않지만 다른 부서 효율화에는 쓴다.",
-     "mini_headline": "Sega, AI는 효율화에만",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour (이미지 출처: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "Sega의 상무 겸 부최고사업책임자 Tsuyoshi Saito는 Nikkei와의 인터뷰에서 회사가 개발 과정에 생성형 AI를 도입하는 방식에 “매우 신중하다”고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "Saito는 “퍼블리싱과 기업 부서 등의 효율을 높이고 사업 아이디어를 내는 데 AI를 쓰고 있다”며 “하지만 게임 개발 과정에서의 사용에는 매우 신중하며, 게임의 창작적 측면을 AI에 맡기지 않는다”고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "Sega는 지난해 “사내 AI 도구 개발”을 맡는 “AI 태스크포스(AI Task Force)”를 포함한 “생성형 AI 위원회(Generative AI Committee)”를 세웠다. 올해 초에는 Crazy Taxi: World Tour의 “배경 에셋 개발 과정에서” 생성형 AI를 쓴 일로 논란을 겪었다."
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics도 Tomb Raider: Legacy of Atlantis 초기 프로토타이핑에 생성형 AI를 비슷하게 활용했으며, “최종 게임의 완성 콘텐츠는 모두 사람이 만들도록 했다”고 밝혔다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Sega、創作にAI使わず\n効率化には活用",
-     "body": "Segaはゲームの創作面をAIに任せないが、他部門の効率化には活用している。",
-     "mini_headline": "Sega、AIは効率化に限定",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour(画像提供: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "Segaの上席執行役員で副最高事業責任者のTsuyoshi Saitoは、Nikkeiの取材に対し、同社は開発における生成AIの導入方法について「非常に慎重」だと語った。"
-       },
-       {
-        "t": "p",
-        "x": "「パブリッシングやコーポレート部門などの効率化や、事業アイデアの創出にAIを活用している」とSaitoは述べた。「ただし、ゲーム開発の過程での利用には非常に慎重であり、ゲームの創作的な部分をAIに任せることはしていない」"
-       },
-       {
-        "t": "p",
-        "x": "Segaは昨年、「社内AIツールの開発」を担う「AI Task Force」を含む「Generative AI Committee」(生成AI委員会)を設置した。今年初めには、Crazy Taxi: World Tourの「背景アセットの開発中」に生成AIが使われたことで論争を招いた。"
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamicsも、Tomb Raider: Legacy of Atlantisの初期プロトタイピングで同様に生成AIを使ったとしつつ、「最終的なゲームの完成コンテンツはすべて人間が作ったものにしている」と説明している。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Sega创作不交给AI\n但用来提升效率",
-     "body": "Sega不会把游戏创作交给AI，但在其他部门用它提升效率。",
-     "mini_headline": "Sega将AI限于提效",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour（图片来源：Sega）"
-       },
-       {
-        "t": "p",
-        "x": "Sega高级执行官兼副首席业务官Tsuyoshi Saito在接受Nikkei采访时表示，公司在开发中如何采用生成式AI这件事上“非常谨慎”。"
-       },
-       {
-        "t": "p",
-        "x": "Saito说：“我们正在用AI提升发行和企业部门等领域的效率，也用它来构思业务点子。”他还说：“不过，我们对在游戏开发过程中使用AI非常谨慎，不会把游戏的创意部分交给AI。”"
-       },
-       {
-        "t": "p",
-        "x": "Sega去年成立了“生成式AI委员会”（Generative AI Committee），其中包括负责“开发内部AI工具”的“AI特别工作组”（AI Task Force）。今年早些时候，Sega因在Crazy Taxi: World Tour的“背景素材开发过程中”使用生成式AI而引发争议。"
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics表示，它在Tomb Raider: Legacy of Atlantis的早期原型制作中也以类似方式使用了生成式AI，同时“确保最终游戏中的所有成品内容均由人类创作”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Sega no usa la IA (AI) al crear\npero sí para ganar eficiencia",
-     "body": "Sega no confiará a la IA (AI) lo creativo de sus juegos, pero la usa para ganar eficiencia en otros departamentos.",
-     "mini_headline": "Sega limita la IA (AI) a la eficiencia",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://assetsio.gnwcdn.com/crazy-taxi-1.jpg?width=1200&quality=85&format=jpg&auto=webp",
-        "cap": "Crazy Taxi: World Tour (Crédito de la imagen: Sega)"
-       },
-       {
-        "t": "p",
-        "x": "En declaraciones a Nikkei, Tsuyoshi Saito, alto ejecutivo y director adjunto de negocio de Sega, afirmó que la compañía es “muy cautelosa” en cuanto a cómo implementa la IA (AI) generativa durante el desarrollo."
-       },
-       {
-        "t": "p",
-        "x": "“Usamos la IA (AI) para mejorar la eficiencia en áreas como la publicación y los departamentos corporativos, así como para generar ideas de negocio”, dijo Saito. “Sin embargo, somos muy cautelosos con su uso en el proceso de desarrollo de juegos y no confiamos a la IA los aspectos creativos de los juegos”."
-       },
-       {
-        "t": "p",
-        "x": "Sega creó el año pasado un “Comité de IA Generativa” (Generative AI Committee), que incluye un “Grupo de Trabajo de IA” (AI Task Force) encargado de “desarrollar herramientas de IA propias”. A principios de este año, Sega recibió críticas después de que se usara IA (AI) generativa “durante el desarrollo de los recursos de fondo” de Crazy Taxi: World Tour."
-       },
-       {
-        "t": "p",
-        "x": "Crystal Dynamics afirma que usó la IA (AI) generativa de forma similar para los primeros prototipos de Tomb Raider: Legacy of Atlantis, “asegurándose de que todo el contenido terminado del juego final esté creado por personas”."
-       }
-      ]
-     }
-    }
-   }
-  }
- ]
+  ]
 }

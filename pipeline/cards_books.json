@@ -1,1686 +1,1385 @@
 {
- "date": "2026-10-07",
- "section": "books",
- "cards": [
-  {
-   "id": "books-redpine",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "다섯 출판사 20m 편\nRedpine 타고 AI로",
-   "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
-   "mini_headline": "AI 에이전트용 논문 20m 편",
-   "tool": "Books",
-   "source": "The Bookseller",
-   "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine",
-   "accent": "#f5a623",
-   "motif": "swatch",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-      "cap": "Redpine CEO Anders Hammarbäck"
-     },
-     {
-      "t": "p",
-      "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. 이에 따라 AI 에이전트는 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 받고 접근한다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Five publishers open 20m papers\nto AI agents via Redpine",
-     "body": "BMJ Group, Sage and three other publishers will give AI agents licensed access to 20 million papers via Redpine.",
-     "mini_headline": "20m papers for AI agents",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Anders Hammarbäck, Redpine's CEO"
-       },
-       {
-        "t": "p",
-        "x": "Five academic publishers – BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing and Wanfang Data – have struck a deal with AI company Redpine to provide AI agents with licensed access to 20 million peer-reviewed research papers."
-       }
-      ]
-     }
+  "date": "2026-10-08",
+  "section": "books",
+  "cards": [
+    {
+      "id": "books-organic-literature-stamp",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "사람이 쓴 책에\n붙이는 인증 도장",
+      "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
+      "mini_headline": "사람이 쓴 책 인증 도장",
+      "tool": "Books",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "accent": "#f5a623",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+            "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+          },
+          {
+            "t": "p",
+            "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)의 승인을 받았다. 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인이다. 지문 모양의 이 도장은 책 표지에 찍힌다."
+          },
+          {
+            "t": "p",
+            "x": "Books by People은 양심에 맡기지 않는다. 저자에게 확인서를 받고 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 읽어 “인간다움의 지표”를 찾는다. 비용은 출판사 몫이다. 정액 회원비에 책마다 일정 금액이 더 붙는다. 지금까지 출판사 다섯 곳이 가입했고 첫 인증 도서는 연말까지 나올 전망이다."
+          },
+          {
+            "t": "p",
+            "x": "비판론자들은 오탐을 걱정한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했다. 작가 본인은 이 도구가 자신의 나이지리아 방언을 잘못 읽었다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A stamp for books\nwritten by humans",
+          "body": "A UK startup’s “organic literature” stamp will help readers pick out books written by real humans amid AI scandals.",
+          "mini_headline": "Organic stamp for human books",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "Photo Illustration of a Book inside Food Packaging with Organic Sticker"
+              },
+              {
+                "t": "p",
+                "x": "As scandals involving the use of AI by professional authors pile up, British startup Books by People has received approval from the UK’s Intellectual Property Office to distribute a mark certifying a book as authored by a human. The stamp, which looks like a thumbprint, will be displayed on the cover."
+              },
+              {
+                "t": "p",
+                "x": "Rather than an honesty system, Books by People asks for an authorship declaration, runs each manuscript through proprietary software, and manually examines early drafts and research materials for “indicators of humanity.” It will charge publishers a flat membership fee plus a sum per book. Five publishers have signed up so far, and the first certified book is expected by the end of the year."
+              },
+              {
+                "t": "p",
+                "x": "Critics warn of false positives. Pangram, which claims 99.7 percent accuracy, scored debut author Jerry Falade’s book as 97 percent AI-generated; he alleged it misconstrued his Nigerian dialect. “We need to be quite careful that this doesn’t end up becoming a witch hunt,” says Tom West of the Publishers’ Licensing Services."
+              },
+              {
+                "t": "p",
+                "x": "“I wouldn’t call it AI detection,” says cofounder Esme Dennys. “The bedrock of our organization is to avoid [writers] being unjustly accused.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "사람이 쓴 책에\n붙이는 인증 도장",
+          "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
+          "mini_headline": "사람이 쓴 책 인증 도장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+              },
+              {
+                "t": "p",
+                "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)의 승인을 받았다. 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인이다. 지문 모양의 이 도장은 책 표지에 찍힌다."
+              },
+              {
+                "t": "p",
+                "x": "Books by People은 양심에 맡기지 않는다. 저자에게 확인서를 받고 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 읽어 “인간다움의 지표”를 찾는다. 비용은 출판사 몫이다. 정액 회원비에 책마다 일정 금액이 더 붙는다. 지금까지 출판사 다섯 곳이 가입했고 첫 인증 도서는 연말까지 나올 전망이다."
+              },
+              {
+                "t": "p",
+                "x": "비판론자들은 오탐을 걱정한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했다. 작가 본인은 이 도구가 자신의 나이지리아 방언을 잘못 읽었다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人間が書いた本に\n押す認証スタンプ",
+          "body": "UK発の「オーガニック文学」印が、AI騒動の中で人間の書いた本を示す。",
+          "mini_headline": "人間の本にオーガニック印",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "オーガニックシールが貼られた食品パッケージに入った本のフォトイラスト"
+              },
+              {
+                "t": "p",
+                "x": "プロの作家によるAI使用をめぐる騒動が相次ぐなか、英国のスタートアップBooks by Peopleは、本が人間によって書かれたことを証明するマークを配布する承認をUKの知的財産庁(Intellectual Property Office)から得た。指紋のような形のこのスタンプは、本の表紙に表示される。"
+              },
+              {
+                "t": "p",
+                "x": "Books by Peopleは自己申告に頼るのではなく、著者であることの宣誓を求め、各原稿を独自ソフトウェアで解析し、初期稿や調査資料を人の手で確認して「人間らしさの指標」を探す。出版社には定額の会員費に加え、本ごとに一定額を課す。これまでに五社の出版社が加わり、最初の認証本は年末までに出る見込みだ。"
+              },
+              {
+                "t": "p",
+                "x": "批判する側は誤判定を警戒する。精度99.7%をうたうPangramは、デビュー作家Jerry Faladeの本を97% AI-generatedと判定し、彼はこのツールが自身のナイジェリアの方言を誤って解釈したと主張した。Publishers’ Licensing ServicesのTom Westは「これが魔女狩りにならないよう、かなり慎重になる必要がある」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "为人类写的书\n盖上认证印章",
+          "body": "UK一家初创公司推出“有机文学”印章，帮助读者在AI丑闻中辨认真人写的书。",
+          "mini_headline": "人类写的书贴上有机标",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "插图：装在食品包装中、贴有有机标签的书"
+              },
+              {
+                "t": "p",
+                "x": "随着职业作家使用AI的丑闻接连出现，英国初创公司Books by People已获得UK知识产权局（Intellectual Property Office）批准，可以发放证明图书由人类创作的标志。这枚形似指纹的印章将印在封面上。"
+              },
+              {
+                "t": "p",
+                "x": "Books by People并不依赖诚信自律，而是要求作者提交著作声明，用自有软件检测每份手稿，并人工审查早期草稿和研究资料，寻找“人性指标”。它将向出版商收取固定会员费，外加按书计费。目前已有五家出版商签约，首本认证图书预计年底前问世。"
+              },
+              {
+                "t": "p",
+                "x": "批评者担心误判。自称准确率达99.7%的Pangram将新人作家Jerry Falade的书判定为97% AI-generated；他认为该工具误读了他的尼日利亚方言。Publishers’ Licensing Services的Tom West说：“我们必须相当小心，别让这件事最终变成一场猎巫。”"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un sello para los libros\nescritos por humanos",
+          "body": "Un sello de “literatura orgánica” de una startup de UK ayudará a distinguir libros humanos entre escándalos de AI.",
+          "mini_headline": "Sello orgánico para libros humanos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "Ilustración fotográfica de un libro dentro de un envase de alimentos con una etiqueta orgánica"
+              },
+              {
+                "t": "p",
+                "x": "A medida que se acumulan los escándalos por el uso de AI entre autores profesionales, la startup británica Books by People ha recibido la aprobación de la Intellectual Property Office del UK para distribuir una marca que certifica que un libro fue escrito por un ser humano. El sello, con forma de huella dactilar, aparecerá en la cubierta."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de confiar en la palabra del autor, Books by People pide una declaración de autoría, analiza cada manuscrito con software propio y examina a mano los primeros borradores y los materiales de investigación en busca de “indicadores de humanidad”. Cobrará a las editoriales una cuota fija de membresía más una cantidad por libro. Cinco editoriales se han sumado hasta ahora, y se espera el primer libro certificado antes de fin de año."
+              },
+              {
+                "t": "p",
+                "x": "Los críticos advierten de los falsos positivos. Pangram, que asegura tener una precisión del 99.7 %, calificó el libro del autor debutante Jerry Falade como 97 % AI-generated; él sostuvo que la herramienta malinterpretó su dialecto nigeriano. “Tenemos que tener bastante cuidado de que esto no acabe convirtiéndose en una caza de brujas”, dice Tom West, de Publishers’ Licensing Services."
+              },
+              {
+                "t": "p",
+                "x": "“Yo no lo llamaría detección de AI”, dice la cofundadora Esme Dennys. “La base de nuestra organización es evitar que [los escritores] sean acusados injustamente”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "사람이 쓴 책에\n붙이는 인증 도장",
+          "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
+          "mini_headline": "사람이 쓴 책 인증 도장",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+              },
+              {
+                "t": "p",
+                "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데, 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)으로부터 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인을 받았다. 지문 모양의 이 도장은 책 표지에 표시된다."
+              },
+              {
+                "t": "p",
+                "x": "Books by People은 양심에 맡기는 방식 대신 저자 확인서를 받고, 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 살펴 “인간다움의 지표”를 찾는다. 출판사에는 정액 회원비에 책마다 일정 금액을 더해 청구한다. 지금까지 출판사 다섯 곳이 가입했고, 첫 인증 도서는 연말까지 나올 전망이다."
+              },
+              {
+                "t": "p",
+                "x": "비판하는 쪽은 오탐을 우려한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했고, 그는 이 도구가 자신의 나이지리아 방언을 잘못 해석했다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "人間が書いた本に\n押す認証スタンプ",
+          "body": "UK発の「オーガニック文学」印が、AI騒動の中で人間の書いた本を示す。",
+          "mini_headline": "人間の本にオーガニック印",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "オーガニックシールが貼られた食品パッケージに入った本のフォトイラスト"
+              },
+              {
+                "t": "p",
+                "x": "プロの作家によるAI使用をめぐる騒動が相次ぐなか、英国のスタートアップBooks by Peopleは、本が人間によって書かれたことを証明するマークを配布する承認をUKの知的財産庁(Intellectual Property Office)から得た。指紋のような形のこのスタンプは、本の表紙に表示される。"
+              },
+              {
+                "t": "p",
+                "x": "Books by Peopleは自己申告に頼るのではなく、著者であることの宣誓を求め、各原稿を独自ソフトウェアで解析し、初期稿や調査資料を人の手で確認して「人間らしさの指標」を探す。出版社には定額の会員費に加え、本ごとに一定額を課す。これまでに五社の出版社が加わり、最初の認証本は年末までに出る見込みだ。"
+              },
+              {
+                "t": "p",
+                "x": "批判する側は誤判定を警戒する。精度99.7%をうたうPangramは、デビュー作家Jerry Faladeの本を97% AI-generatedと判定し、彼はこのツールが自身のナイジェリアの方言を誤って解釈したと主張した。Publishers’ Licensing ServicesのTom Westは「これが魔女狩りにならないよう、かなり慎重になる必要がある」と語る。"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "为人类写的书\n盖上认证印章",
+          "body": "UK一家初创公司推出“有机文学”印章，帮助读者在AI丑闻中辨认真人写的书。",
+          "mini_headline": "人类写的书贴上有机标",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "插图：装在食品包装中、贴有有机标签的书"
+              },
+              {
+                "t": "p",
+                "x": "随着职业作家使用AI的丑闻接连出现，英国初创公司Books by People已获得UK知识产权局（Intellectual Property Office）批准，可以发放证明图书由人类创作的标志。这枚形似指纹的印章将印在封面上。"
+              },
+              {
+                "t": "p",
+                "x": "Books by People并不依赖诚信自律，而是要求作者提交著作声明，用自有软件检测每份手稿，并人工审查早期草稿和研究资料，寻找“人性指标”。它将向出版商收取固定会员费，外加按书计费。目前已有五家出版商签约，首本认证图书预计年底前问世。"
+              },
+              {
+                "t": "p",
+                "x": "批评者担心误判。自称准确率达99.7%的Pangram将新人作家Jerry Falade的书判定为97% AI-generated；他认为该工具误读了他的尼日利亚方言。Publishers’ Licensing Services的Tom West说：“我们必须相当小心，别让这件事最终变成一场猎巫。”"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un sello para los libros\nescritos por humanos",
+          "body": "Un sello de “literatura orgánica” de una startup de UK ayudará a distinguir libros humanos entre escándalos de AI.",
+          "mini_headline": "Sello orgánico para libros humanos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+                "cap": "Ilustración fotográfica de un libro dentro de un envase de alimentos con una etiqueta orgánica"
+              },
+              {
+                "t": "p",
+                "x": "A medida que se acumulan los escándalos por el uso de AI entre autores profesionales, la startup británica Books by People ha recibido la aprobación de la Intellectual Property Office del UK para distribuir una marca que certifica que un libro fue escrito por un ser humano. El sello, con forma de huella dactilar, aparecerá en la cubierta."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de confiar en la palabra del autor, Books by People pide una declaración de autoría, analiza cada manuscrito con software propio y examina a mano los primeros borradores y los materiales de investigación en busca de “indicadores de humanidad”. Cobrará a las editoriales una cuota fija de membresía más una cantidad por libro. Cinco editoriales se han sumado hasta ahora, y se espera el primer libro certificado antes de fin de año."
+              },
+              {
+                "t": "p",
+                "x": "Los críticos advierten de los falsos positivos. Pangram, que asegura tener una precisión del 99.7 %, calificó el libro del autor debutante Jerry Falade como 97 % AI-generated; él sostuvo que la herramienta malinterpretó su dialecto nigeriano. “Tenemos que tener bastante cuidado de que esto no acabe convirtiéndose en una caza de brujas”, dice Tom West, de Publishers’ Licensing Services."
+              },
+              {
+                "t": "p",
+                "x": "“Yo no lo llamaría detección de AI”, dice la cofundadora Esme Dennys. “La base de nuestra organización es evitar que [los escritores] sean acusados injustamente”."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ko": {
-     "headline": "다섯 출판사 20m 편\nRedpine 타고 AI로",
-     "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
-     "mini_headline": "AI 에이전트용 논문 20m 편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Redpine CEO Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. 이에 따라 AI 에이전트는 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 받고 접근한다."
-       }
-      ]
-     }
+    {
+      "id": "books-simon-schuster-ai-tracking-letter",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
+      "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
+      "mini_headline": "S&S 직원 vs AI 추적",
+      "tool": "Books",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
+      "accent": "#0070f3",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+          },
+          {
+            "t": "p",
+            "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. AI가 자기 업무 성과를 감시하는 데 쓰일까 걱정하는 직원들이 CEO Greg Greeley에게 보낼 공개서한에 서명을 모은다. 서한은 업무 활동을 분석하는 Skan AI나 비슷한 소프트웨어를 쓰는 데 “강력한 반대”를 밝히고, 이 움직임이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 짚었다."
+          },
+          {
+            "t": "p",
+            "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 익명의 작성자들이 목표로 잡은 서명은 250명이다. S&S 직원은 1,500명이다."
+          },
+          {
+            "t": "p",
+            "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획이 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이려고 “검토 중인 가능한 방안 가운데 하나”일 뿐이고, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”고 했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "S&S staff push back on\nAI tracking software",
+          "body": "S&S staff oppose Skan AI or similar software in an open letter; the CEO says no company-wide rollout is planned.",
+          "mini_headline": "S&S staff vs AI tracking",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "The AI battle in publishing has expanded to include employees of Simon & Schuster who worry it will be used to monitor their performance. Staff are gathering signatures for an open letter to CEO Greg Greeley that cites “strong opposition” to using Skan AI or similar software that analyzes workplace activity — “at the apparent urging of KKR,” the private equity firm that purchased S&S in 2023."
+              },
+              {
+                "t": "p",
+                "x": "“Introducing a technology that tracks employees’ keystrokes and ‘monitors compliance continuously’ would be a direct transgression against our privacy and dignity as workers,” the letter reads. Its unnamed authors are seeking 250 signatures; S&S has 1,500 employees."
+              },
+              {
+                "t": "p",
+                "x": "In an October 6 memo, Greeley said no plans are underway to use AI to track performance. Blueprint from Skan AI is “one possible avenue being explored” to reduce administrative tasks, but “no decision has been made to use Blueprint or any other productivity-monitoring or workflow-analysis tool, and there is no company-wide rollout underway or under consideration.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
+          "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
+          "mini_headline": "S&S 직원 vs AI 추적",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. AI가 자기 업무 성과를 감시하는 데 쓰일까 걱정하는 직원들이 CEO Greg Greeley에게 보낼 공개서한에 서명을 모은다. 서한은 업무 활동을 분석하는 Skan AI나 비슷한 소프트웨어를 쓰는 데 “강력한 반대”를 밝히고, 이 움직임이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 짚었다."
+              },
+              {
+                "t": "p",
+                "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 익명의 작성자들이 목표로 잡은 서명은 250명이다. S&S 직원은 1,500명이다."
+              },
+              {
+                "t": "p",
+                "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획이 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이려고 “검토 중인 가능한 방안 가운데 하나”일 뿐이고, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "S&S社員、AI追跡\nソフトに反発",
+          "body": "S&S社員が公開書簡でSkan AIなどに反対し、CEOは全社導入の予定はないとした。",
+          "mini_headline": "S&S社員 vs AI追跡",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "出版界のAIをめぐる攻防は、業績の監視に使われることを懸念するSimon & Schusterの従業員にまで広がった。従業員らはCEOのGreg Greeley宛ての公開書簡への署名を集めている。書簡は、職場での活動を分析するSkan AIや類似ソフトウェアの使用に「強く反対」すると表明し、それが2023年にS&Sを買収したプライベート・エクイティ企業KKRの「意向によるものとみられる」と指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "書簡には「従業員のキー入力を追跡し、『コンプライアンスを継続的に監視する』技術の導入は、労働者としての私たちのプライバシーと尊厳に対する直接的な侵害だ」とある。匿名の起草者らは250人の署名を目指している。S&Sの従業員は1,500人だ。"
+              },
+              {
+                "t": "p",
+                "x": "Greeleyは10月6日付のメモで、業績追跡にAIを使う計画はないと述べた。Skan AIのBlueprintは事務作業を減らすために「検討中の選択肢の一つ」だが、「Blueprintやその他の生産性監視・ワークフロー分析ツールを使う決定は下されておらず、全社的な導入は進行中でも検討中でもない」という。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "S&S员工反对\nAI追踪软件",
+          "body": "S&S员工发公开信反对Skan AI等软件，CEO称没有全公司推行计划。",
+          "mini_headline": "S&S员工 vs AI追踪",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "出版业围绕AI的争斗已蔓延到Simon & Schuster的员工，他们担心AI会被用来监控自己的工作表现。员工正在为致CEO Greg Greeley的公开信征集签名，信中表示“强烈反对”使用Skan AI或类似的工作场所活动分析软件，称此举“显然是在KKR的推动下”进行的。KKR是于2023年收购S&S的私募股权公司。"
+              },
+              {
+                "t": "p",
+                "x": "信中写道：“引入追踪员工键盘输入、‘持续监控合规情况’的技术，将直接侵犯我们作为劳动者的隐私与尊严。”未具名的发起人希望征集250个签名；S&S共有1,500名员工。"
+              },
+              {
+                "t": "p",
+                "x": "Greeley在10月6日的备忘录中表示，目前没有用AI追踪工作表现的计划。Skan AI的Blueprint是为减少行政事务而“正在探索的一种可能途径”，但“尚未决定使用Blueprint或任何其他生产力监控或工作流程分析工具，也没有正在推行或考虑中的全公司部署”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Empleados de S&S rechazan\nel software de rastreo con AI",
+          "body": "Empleados de S&S rechazan Skan AI y similares en una carta abierta; el CEO dice que no prevé un despliegue general.",
+          "mini_headline": "Plantilla de S&S vs rastreo con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "La batalla por la AI en el sector editorial se ha extendido a los empleados de Simon & Schuster, que temen que se use para vigilar su rendimiento. El personal está reuniendo firmas para una carta abierta al CEO, Greg Greeley, que expresa una “fuerte oposición” al uso de Skan AI o de software similar que analiza la actividad laboral, “aparentemente a instancias de KKR”, la firma de capital privado que compró S&S en 2023."
+              },
+              {
+                "t": "p",
+                "x": "“Introducir una tecnología que rastrea las pulsaciones de teclado de los empleados y ‘supervisa el cumplimiento de forma continua’ sería una transgresión directa contra nuestra privacidad y dignidad como trabajadores”, dice la carta. Sus autores, que no se identifican, buscan 250 firmas; S&S tiene 1,500 empleados."
+              },
+              {
+                "t": "p",
+                "x": "En un memorando del 6 de octubre, Greeley afirmó que no hay planes en marcha para usar AI para medir el rendimiento. Blueprint, de Skan AI, es “una posible vía que se está explorando” para reducir tareas administrativas, pero “no se ha tomado ninguna decisión de usar Blueprint ni ninguna otra herramienta de monitoreo de productividad o de análisis de flujos de trabajo, y no hay ningún despliegue en toda la empresa en marcha ni en estudio”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
+          "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
+          "mini_headline": "S&S 직원 vs AI 추적",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. 직원들은 AI가 자신들의 업무 성과를 감시하는 데 쓰일까 우려한다. 이들은 CEO Greg Greeley에게 보내는 공개서한에 서명을 모으고 있다. 서한은 업무 활동을 분석하는 Skan AI 또는 유사 소프트웨어 사용에 “강력한 반대”를 밝히며, 이것이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 지적한다."
+              },
+              {
+                "t": "p",
+                "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 이름을 밝히지 않은 작성자들은 서명 250명을 목표로 한다. S&S 직원은 1,500명이다."
+              },
+              {
+                "t": "p",
+                "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획은 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이기 위해 “검토 중인 가능한 방안 가운데 하나”이지만, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”는 설명이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "S&S社員、AI追跡\nソフトに反発",
+          "body": "S&S社員が公開書簡でSkan AIなどに反対し、CEOは全社導入の予定はないとした。",
+          "mini_headline": "S&S社員 vs AI追跡",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "出版界のAIをめぐる攻防は、業績の監視に使われることを懸念するSimon & Schusterの従業員にまで広がった。従業員らはCEOのGreg Greeley宛ての公開書簡への署名を集めている。書簡は、職場での活動を分析するSkan AIや類似ソフトウェアの使用に「強く反対」すると表明し、それが2023年にS&Sを買収したプライベート・エクイティ企業KKRの「意向によるものとみられる」と指摘する。"
+              },
+              {
+                "t": "p",
+                "x": "書簡には「従業員のキー入力を追跡し、『コンプライアンスを継続的に監視する』技術の導入は、労働者としての私たちのプライバシーと尊厳に対する直接的な侵害だ」とある。匿名の起草者らは250人の署名を目指している。S&Sの従業員は1,500人だ。"
+              },
+              {
+                "t": "p",
+                "x": "Greeleyは10月6日付のメモで、業績追跡にAIを使う計画はないと述べた。Skan AIのBlueprintは事務作業を減らすために「検討中の選択肢の一つ」だが、「Blueprintやその他の生産性監視・ワークフロー分析ツールを使う決定は下されておらず、全社的な導入は進行中でも検討中でもない」という。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "S&S员工反对\nAI追踪软件",
+          "body": "S&S员工发公开信反对Skan AI等软件，CEO称没有全公司推行计划。",
+          "mini_headline": "S&S员工 vs AI追踪",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "出版业围绕AI的争斗已蔓延到Simon & Schuster的员工，他们担心AI会被用来监控自己的工作表现。员工正在为致CEO Greg Greeley的公开信征集签名，信中表示“强烈反对”使用Skan AI或类似的工作场所活动分析软件，称此举“显然是在KKR的推动下”进行的。KKR是于2023年收购S&S的私募股权公司。"
+              },
+              {
+                "t": "p",
+                "x": "信中写道：“引入追踪员工键盘输入、‘持续监控合规情况’的技术，将直接侵犯我们作为劳动者的隐私与尊严。”未具名的发起人希望征集250个签名；S&S共有1,500名员工。"
+              },
+              {
+                "t": "p",
+                "x": "Greeley在10月6日的备忘录中表示，目前没有用AI追踪工作表现的计划。Skan AI的Blueprint是为减少行政事务而“正在探索的一种可能途径”，但“尚未决定使用Blueprint或任何其他生产力监控或工作流程分析工具，也没有正在推行或考虑中的全公司部署”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Empleados de S&S rechazan\nel software de rastreo con AI",
+          "body": "Empleados de S&S rechazan Skan AI y similares en una carta abierta; el CEO dice que no prevé un despliegue general.",
+          "mini_headline": "Plantilla de S&S vs rastreo con AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "La batalla por la AI en el sector editorial se ha extendido a los empleados de Simon & Schuster, que temen que se use para vigilar su rendimiento. El personal está reuniendo firmas para una carta abierta al CEO, Greg Greeley, que expresa una “fuerte oposición” al uso de Skan AI o de software similar que analiza la actividad laboral, “aparentemente a instancias de KKR”, la firma de capital privado que compró S&S en 2023."
+              },
+              {
+                "t": "p",
+                "x": "“Introducir una tecnología que rastrea las pulsaciones de teclado de los empleados y ‘supervisa el cumplimiento de forma continua’ sería una transgresión directa contra nuestra privacidad y dignidad como trabajadores”, dice la carta. Sus autores, que no se identifican, buscan 250 firmas; S&S tiene 1,500 empleados."
+              },
+              {
+                "t": "p",
+                "x": "En un memorando del 6 de octubre, Greeley afirmó que no hay planes en marcha para usar AI para medir el rendimiento. Blueprint, de Skan AI, es “una posible vía que se está explorando” para reducir tareas administrativas, pero “no se ha tomado ninguna decisión de usar Blueprint ni ninguna otra herramienta de monitoreo de productividad o de análisis de flujos de trabajo, y no hay ningún despliegue en toda la empresa en marcha ni en estudio”."
+              }
+            ]
+          }
+        }
+      }
     },
-    "ja": {
-     "headline": "出版五社が論文20m 本を\nRedpineでAIに開放",
-     "body": "BMJ Group、Sageなど五社がRedpineでAIに論文2000万本を開放する。",
-     "mini_headline": "AIエージェントに論文20m 本",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "RedpineのCEO、Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
-       }
-      ]
-     }
+    {
+      "id": "books-trace-ai-licensed-content",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
+      "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
+      "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+      "tool": "Books",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/",
+      "accent": "#7928ca",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+            "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한자리에 모은다. 학술 커뮤니케이션에 쓰이는 AI 시스템을 더 믿을 만하게 만들 기술 인프라를 앞당겨 갖추자는 취지다. 지원 대상은 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜이다."
+          },
+          {
+            "t": "p",
+            "x": "TRACE는 병렬 프로젝트 세 개에 자금을 대며 첫발을 뗀다. 하나는 출판사 플랫폼 밖의 추론 시점 이용까지 아우르는 COUNTER의 두 번째 단계 AI 이용 지표다. 또 하나는 AI 시스템의 출처·귀속에 필요한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿이다. 나머지는 Ithaka S+R의 석 달짜리 연구로, AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증한 뒤 신뢰할 만한 이용 기록을 남기는 방식을 살핀다."
+          },
+          {
+            "t": "p",
+            "x": "연구를 보면 일반 LLM 출력에는 지어낸 참고문헌이 약 20%에서 40%꼴로 섞여 있다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "TRACE launches to track\nscholarly content in AI",
+          "body": "Scholarly publishing groups launch TRACE to build provenance, attribution and usage standards for AI systems.",
+          "mini_headline": "TRACE for AI content provenance",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "Priya Madina from Springer Nature, Tasha Mellins-Cohen from COUNTER, Todd Toler from Ithaka S+R, and Todd Carpenter from NISO announce the TRACE initiative during the STM conference prior to the Frankfurt Book Fair."
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems brings together the scholarly publishing and AI communities to accelerate the technical infrastructure needed to improve the trustworthiness of AI systems in scholarly communication, supporting content exchange standards, provenance tracking mechanisms and usage reporting protocols."
+              },
+              {
+                "t": "p",
+                "x": "It launches with funding for three parallel projects: COUNTER’s phase two AI usage metrics, including inference-time usage outside publishers’ platforms; a NISO pilot to define a minimum viable metadata model for provenance and attribution in AI systems; and a three-month Ithaka S+R study of how AI agents discover scholarly content, authenticate through a user’s entitlements and create a credible record of content use."
+              },
+              {
+                "t": "p",
+                "x": "Research has documented hallucinated references at rates of approximately 20% to 40% in general LLM outputs. “How can we trust a result if we can’t see where it was derived from?” writes NISO’s Todd Carpenter."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
+          "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
+          "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한자리에 모은다. 학술 커뮤니케이션에 쓰이는 AI 시스템을 더 믿을 만하게 만들 기술 인프라를 앞당겨 갖추자는 취지다. 지원 대상은 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜이다."
+              },
+              {
+                "t": "p",
+                "x": "TRACE는 병렬 프로젝트 세 개에 자금을 대며 첫발을 뗀다. 하나는 출판사 플랫폼 밖의 추론 시점 이용까지 아우르는 COUNTER의 두 번째 단계 AI 이용 지표다. 또 하나는 AI 시스템의 출처·귀속에 필요한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿이다. 나머지는 Ithaka S+R의 석 달짜리 연구로, AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증한 뒤 신뢰할 만한 이용 기록을 남기는 방식을 살핀다."
+              },
+              {
+                "t": "p",
+                "x": "연구를 보면 일반 LLM 출력에는 지어낸 참고문헌이 약 20%에서 40%꼴로 섞여 있다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TRACEが始動\nAIの学術情報を追跡",
+          "body": "学術出版界がTRACEを立ち上げ、AIシステムの出所・帰属・利用の標準を築く。",
+          "mini_headline": "AIコンテンツの出所を追うTRACE",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair)に先立つSTMカンファレンスで、TRACEイニシアチブを発表するSpringer NatureのPriya Madina、COUNTERのTasha Mellins-Cohen、Ithaka S+RのTodd Toler、NISOのTodd Carpenter。"
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystemsは、学術出版とAIのコミュニティを結びつけ、学術コミュニケーションにおけるAIシステムの信頼性向上に必要な技術基盤づくりを加速させる。コンテンツ交換の標準、出所追跡の仕組み、利用状況報告のプロトコルを支援する。"
+              },
+              {
+                "t": "p",
+                "x": "TRACEは三つの並行プロジェクトへの資金提供とともに始動する。出版社のプラットフォーム外での推論時の利用も含むCOUNTERの第二段階のAI利用指標、AIシステムにおける出所と帰属のための最小限のメタデータモデルを定めるNISOのパイロット、そしてAIエージェントが学術コンテンツをどう見つけ、利用者の利用権限で認証し、信頼できる利用記録を残すかを調べるIthaka S+Rの三か月間の研究だ。"
+              },
+              {
+                "t": "p",
+                "x": "一般的なLLMの出力では、およそ20%から40%の割合で架空の参考文献が生じることが研究で確認されている。NISOのTodd Carpenterは「出どころが見えない結果を、どうして信頼できるだろうか」と書いている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "TRACE启动\n追踪AI中的学术内容",
+          "body": "学术出版团体推出TRACE，为AI系统建立来源、归属与使用标准。",
+          "mini_headline": "TRACE追踪AI内容来源",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "在法兰克福书展（Frankfurt Book Fair）前举行的STM会议上，Springer Nature的Priya Madina、COUNTER的Tasha Mellins-Cohen、Ithaka S+R的Todd Toler和NISO的Todd Carpenter宣布TRACE计划。"
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems汇集学术出版界与AI社群，加快建设提升学术交流中AI系统可信度所需的技术基础设施，支持内容交换标准、来源追踪机制和使用报告协议。"
+              },
+              {
+                "t": "p",
+                "x": "该计划启动时资助三个并行项目：COUNTER第二阶段的AI使用指标，涵盖出版商平台之外的推理时使用；NISO的试点项目，旨在为AI系统中的来源与归属定义最小可行元数据模型；以及Ithaka S+R为期三个月的研究，考察AI智能体如何发现学术内容、借助用户的访问权限完成认证，并留下可信的内容使用记录。"
+              },
+              {
+                "t": "p",
+                "x": "研究记录显示，通用LLM输出中虚构参考文献的比例约为20%至40%。NISO的Todd Carpenter写道：“如果看不到结果从何而来，我们又怎能信任它？”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nace TRACE para rastrear el\ncontenido académico en la AI",
+          "body": "Grupos de la edición académica lanzan TRACE para crear estándares de procedencia, atribución y uso en sistemas de AI.",
+          "mini_headline": "TRACE para la procedencia del contenido en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "Priya Madina, de Springer Nature; Tasha Mellins-Cohen, de COUNTER; Todd Toler, de Ithaka S+R, y Todd Carpenter, de NISO, anuncian la iniciativa TRACE durante la conferencia STM previa a la Frankfurt Book Fair."
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems reúne a las comunidades de la edición académica y de la AI para acelerar la infraestructura técnica necesaria para mejorar la fiabilidad de los sistemas de AI en la comunicación académica, con apoyo a estándares de intercambio de contenidos, mecanismos de seguimiento de la procedencia y protocolos de informes de uso."
+              },
+              {
+                "t": "p",
+                "x": "Arranca con financiación para tres proyectos paralelos: la fase dos de las métricas de uso de AI de COUNTER, que incluye el uso en tiempo de inferencia fuera de las plataformas de las editoriales; un piloto de NISO para definir un modelo mínimo viable de metadatos para la procedencia y la atribución en sistemas de AI; y un estudio de tres meses de Ithaka S+R sobre cómo los agentes de AI descubren contenido académico, se autentican mediante los derechos de acceso del usuario y crean un registro fiable del uso del contenido."
+              },
+              {
+                "t": "p",
+                "x": "Las investigaciones han documentado referencias alucinadas con una frecuencia de aproximadamente el 20 % al 40 % en los resultados generales de LLM. “¿Cómo podemos confiar en un resultado si no podemos ver de dónde procede?”, escribe Todd Carpenter, de NISO."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
+          "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
+          "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한데 모아, 학술 커뮤니케이션에서 AI 시스템의 신뢰성을 높이는 데 필요한 기술 인프라 구축을 앞당긴다. 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "TRACE는 세 개의 병렬 프로젝트에 자금을 지원하며 출범한다. 출판사 플랫폼 밖에서 일어나는 추론 시점 이용까지 포함한 COUNTER의 두 번째 단계 AI 이용 지표, AI 시스템의 출처·귀속을 위한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿, 그리고 AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증하며 신뢰할 만한 콘텐츠 이용 기록을 남기는 방식을 살피는 Ithaka S+R의 석 달짜리 연구다."
+              },
+              {
+                "t": "p",
+                "x": "연구에 따르면 일반 LLM 출력에서 지어낸 참고문헌이 약 20%에서 40% 비율로 나타난다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "TRACEが始動\nAIの学術情報を追跡",
+          "body": "学術出版界がTRACEを立ち上げ、AIシステムの出所・帰属・利用の標準を築く。",
+          "mini_headline": "AIコンテンツの出所を追うTRACE",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair)に先立つSTMカンファレンスで、TRACEイニシアチブを発表するSpringer NatureのPriya Madina、COUNTERのTasha Mellins-Cohen、Ithaka S+RのTodd Toler、NISOのTodd Carpenter。"
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystemsは、学術出版とAIのコミュニティを結びつけ、学術コミュニケーションにおけるAIシステムの信頼性向上に必要な技術基盤づくりを加速させる。コンテンツ交換の標準、出所追跡の仕組み、利用状況報告のプロトコルを支援する。"
+              },
+              {
+                "t": "p",
+                "x": "TRACEは三つの並行プロジェクトへの資金提供とともに始動する。出版社のプラットフォーム外での推論時の利用も含むCOUNTERの第二段階のAI利用指標、AIシステムにおける出所と帰属のための最小限のメタデータモデルを定めるNISOのパイロット、そしてAIエージェントが学術コンテンツをどう見つけ、利用者の利用権限で認証し、信頼できる利用記録を残すかを調べるIthaka S+Rの三か月間の研究だ。"
+              },
+              {
+                "t": "p",
+                "x": "一般的なLLMの出力では、およそ20%から40%の割合で架空の参考文献が生じることが研究で確認されている。NISOのTodd Carpenterは「出どころが見えない結果を、どうして信頼できるだろうか」と書いている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "TRACE启动\n追踪AI中的学术内容",
+          "body": "学术出版团体推出TRACE，为AI系统建立来源、归属与使用标准。",
+          "mini_headline": "TRACE追踪AI内容来源",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "在法兰克福书展（Frankfurt Book Fair）前举行的STM会议上，Springer Nature的Priya Madina、COUNTER的Tasha Mellins-Cohen、Ithaka S+R的Todd Toler和NISO的Todd Carpenter宣布TRACE计划。"
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems汇集学术出版界与AI社群，加快建设提升学术交流中AI系统可信度所需的技术基础设施，支持内容交换标准、来源追踪机制和使用报告协议。"
+              },
+              {
+                "t": "p",
+                "x": "该计划启动时资助三个并行项目：COUNTER第二阶段的AI使用指标，涵盖出版商平台之外的推理时使用；NISO的试点项目，旨在为AI系统中的来源与归属定义最小可行元数据模型；以及Ithaka S+R为期三个月的研究，考察AI智能体如何发现学术内容、借助用户的访问权限完成认证，并留下可信的内容使用记录。"
+              },
+              {
+                "t": "p",
+                "x": "研究记录显示，通用LLM输出中虚构参考文献的比例约为20%至40%。NISO的Todd Carpenter写道：“如果看不到结果从何而来，我们又怎能信任它？”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Nace TRACE para rastrear el\ncontenido académico en la AI",
+          "body": "Grupos de la edición académica lanzan TRACE para crear estándares de procedencia, atribución y uso en sistemas de AI.",
+          "mini_headline": "TRACE para la procedencia del contenido en AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
+                "cap": "Priya Madina, de Springer Nature; Tasha Mellins-Cohen, de COUNTER; Todd Toler, de Ithaka S+R, y Todd Carpenter, de NISO, anuncian la iniciativa TRACE durante la conferencia STM previa a la Frankfurt Book Fair."
+              },
+              {
+                "t": "p",
+                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems reúne a las comunidades de la edición académica y de la AI para acelerar la infraestructura técnica necesaria para mejorar la fiabilidad de los sistemas de AI en la comunicación académica, con apoyo a estándares de intercambio de contenidos, mecanismos de seguimiento de la procedencia y protocolos de informes de uso."
+              },
+              {
+                "t": "p",
+                "x": "Arranca con financiación para tres proyectos paralelos: la fase dos de las métricas de uso de AI de COUNTER, que incluye el uso en tiempo de inferencia fuera de las plataformas de las editoriales; un piloto de NISO para definir un modelo mínimo viable de metadatos para la procedencia y la atribución en sistemas de AI; y un estudio de tres meses de Ithaka S+R sobre cómo los agentes de AI descubren contenido académico, se autentican mediante los derechos de acceso del usuario y crean un registro fiable del uso del contenido."
+              },
+              {
+                "t": "p",
+                "x": "Las investigaciones han documentado referencias alucinadas con una frecuencia de aproximadamente el 20 % al 40 % en los resultados generales de LLM. “¿Cómo podemos confiar en un resultado si no podemos ver de dónde procede?”, escribe Todd Carpenter, de NISO."
+              }
+            ]
+          }
+        }
+      }
     },
-    "zh": {
-     "headline": "五家出版商将20m 篇论文\n经Redpine开放给AI",
-     "body": "BMJ Group、Sage等五家出版商经Redpine向AI代理开放2000万篇论文。",
-     "mini_headline": "20m 篇论文开放给AI智能体",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Redpine CEO Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
-       }
-      ]
-     }
+    {
+      "id": "books-pangram-ai-detector-bias",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Pangram CEO\nAI 탐지 편향 부인",
+      "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
+      "mini_headline": "Pangram, AI-detector 편향 부인",
+      "tool": "Books",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+            "cap": "Pangram 최고경영자 Max Spero"
+          },
+          {
+            "t": "p",
+            "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하다는 지적을 반박하며 도구를 감쌌다. “문학계에서” 플랫폼 도입이 “크게 늘었다”는 말도 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Pangram CEO denies bias\nin its AI detector",
+          "body": "Pangram’s CEO rejects claims its AI-detection tool penalises authors of colour, as adoption in the literary world rises.",
+          "mini_headline": "Pangram denies AI-detector bias",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Max Spero, chief executive of Pangram"
+              },
+              {
+                "t": "p",
+                "x": "The co-founder of Pangram has defended its AI detection tool from suggestions that it disproportionately penalises authors of colour, while saying there has been a “huge upswing” in adoption of the platform “in the literary world”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Pangram CEO\nAI 탐지 편향 부인",
+          "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
+          "mini_headline": "Pangram, AI-detector 편향 부인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangram 최고경영자 Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하다는 지적을 반박하며 도구를 감쌌다. “문학계에서” 플랫폼 도입이 “크게 늘었다”는 말도 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Pangram CEO\nAI検出の偏り否定",
+          "body": "Pangram CEOがAI-detectionの有色人種作家への偏りを否定した。",
+          "mini_headline": "Pangram、AI-detectorの偏りを否定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangramの最高経営責任者Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangramの共同創業者は、同社のAI検出ツールが有色人種の作家に不当に不利に働くとの指摘に反論し、「文学界で」プラットフォームの導入が「大きく増えている」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pangram CEO否认\nAI检测工具有偏见",
+          "body": "Pangram CEO否认其AI-detection工具对有色人种作者不利。",
+          "mini_headline": "Pangram否认AI-detector偏见",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangram首席执行官Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangram联合创始人为其AI检测工具辩护，驳斥该工具对有色人种作者造成不成比例惩罚的说法，同时表示该平台“在文学界”的采用出现了“大幅增长”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El CEO de Pangram niega sesgo\nen su detector de AI",
+          "body": "El CEO de Pangram niega que su herramienta AI-detection perjudique a autores de color, mientras crece su uso literario.",
+          "mini_headline": "Pangram niega sesgo en su AI-detector",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Max Spero, director ejecutivo de Pangram"
+              },
+              {
+                "t": "p",
+                "x": "El cofundador de Pangram ha defendido su herramienta de detección de AI frente a las sugerencias de que penaliza de forma desproporcionada a los autores de color, y ha afirmado que ha habido un “enorme aumento” en la adopción de la plataforma “en el mundo literario”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Pangram CEO\nAI 탐지 편향 부인",
+          "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
+          "mini_headline": "Pangram, AI-detector 편향 부인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangram 최고경영자 Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하게 작용한다는 지적에 맞서 도구를 옹호하는 한편, “문학계에서” 플랫폼 도입이 “크게 늘었다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Pangram CEO\nAI検出の偏り否定",
+          "body": "Pangram CEOがAI-detectionの有色人種作家への偏りを否定した。",
+          "mini_headline": "Pangram、AI-detectorの偏りを否定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangramの最高経営責任者Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangramの共同創業者は、同社のAI検出ツールが有色人種の作家に不当に不利に働くとの指摘に反論し、「文学界で」プラットフォームの導入が「大きく増えている」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pangram CEO否认\nAI检测工具有偏见",
+          "body": "Pangram CEO否认其AI-detection工具对有色人种作者不利。",
+          "mini_headline": "Pangram否认AI-detector偏见",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Pangram首席执行官Max Spero"
+              },
+              {
+                "t": "p",
+                "x": "Pangram联合创始人为其AI检测工具辩护，驳斥该工具对有色人种作者造成不成比例惩罚的说法，同时表示该平台“在文学界”的采用出现了“大幅增长”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El CEO de Pangram niega sesgo\nen su detector de AI",
+          "body": "El CEO de Pangram niega que su herramienta AI-detection perjudique a autores de color, mientras crece su uso literario.",
+          "mini_headline": "Pangram niega sesgo en su AI-detector",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+                "cap": "Max Spero, director ejecutivo de Pangram"
+              },
+              {
+                "t": "p",
+                "x": "El cofundador de Pangram ha defendido su herramienta de detección de AI frente a las sugerencias de que penaliza de forma desproporcionada a los autores de color, y ha afirmado que ha habido un “enorme aumento” en la adopción de la plataforma “en el mundo literario”."
+              }
+            ]
+          }
+        }
+      }
     },
-    "es": {
-     "headline": "Redpine: cinco editoriales abren\n20m de artículos a agentes AI",
-     "body": "BMJ Group, Sage y otras tres editoriales abrirán 20 millones de artículos a agentes de AI vía Redpine, con licencia.",
-     "mini_headline": "20m de artículos para agentes de AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Anders Hammarbäck, CEO de Redpine"
-       },
-       {
-        "t": "p",
-        "x": "Cinco editoriales académicas –BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing y Wanfang Data– han cerrado un acuerdo con la empresa de AI Redpine para ofrecer a agentes de AI acceso con licencia a 20 millones de artículos de investigación revisados por pares."
-       }
-      ]
-     }
+    {
+      "id": "books-boersenblatt-ki-uebersetzen-umfrage",
+      "source_lang": "de",
+      "eyebrow": "AI NEWS",
+      "headline": "KI 번역은 찬성,\n집필은 반대",
+      "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %에 그쳤다.",
+      "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+      "tool": "Books",
+      "source": "Börsenblatt",
+      "url": "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+            "cap": "© istockphoto"
+          },
+          {
+            "t": "p",
+            "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI를 주제로 한 대표성 있는 설문 결과를 내놨다. 번역가라면 긴장할 만한 내용이다. 협회 발표로는 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 처음부터 끝까지 KI가 쓴 책을 읽겠다는 응답은 29 %뿐이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+            "cap": "책 속 KI를 다룬 막대그래프. 번역 79 %, 표시 72 %, KI-Bücher 29 %. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+          }
+        ]
+      },
+      "text": {
+        "_src": {
+          "headline": "KI beim Übersetzen ja,\nbeim Schreiben nein",
+          "body": "79 % der Befragten befürworten KI beim Übersetzen, aber nur 29 % würden ein reines KI-Buch lesen.",
+          "mini_headline": "KI: Übersetzen ja, Schreiben nein",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "Der Digitalverband Bitkom hat am Dienstag anlässlich der beginnenden Frankfurter Buchmesse eine repräsentative Umfrage zu KI in Büchern veröffentlicht, die Übersetzer:innen alarmieren dürfte: 79 Prozent der Befragten befürworten demnach KI bei Buchübersetzungen, wie der Verband mitteilte. Ein vollständig von KI geschriebenes Buch würden dagegen nur 29 Prozent lesen."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "Das Balkendiagramm zu KI in Büchern zeigt 79 % für Übersetzungen, 72 % für Kennzeichnung und 29 % für KI-Bücher. Quelle: Bitkom / Grafik: Börsenblatt (KI-generiert)"
+              }
+            ]
+          },
+          "lang": "de"
+        },
+        "en": {
+          "headline": "Yes to KI in translation,\nno to KI in writing",
+          "body": "79 % of respondents support KI in translation, but only 29 % would read a book written purely by KI (KI-Buch).",
+          "mini_headline": "KI: yes to translating, no to writing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "On Tuesday, as the Frankfurter Buchmesse (Frankfurt Book Fair) opened, the digital association Bitkom published a representative survey on KI in books that is likely to alarm translators: according to the association, 79 % of respondents support KI in book translation. By contrast, only 29 % would read a book written entirely by KI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "The bar chart on KI in books shows 79 % for translations, 72 % for labelling and 29 % for KI-Bücher. Source: Bitkom / Graphic: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "KI 번역은 찬성,\n집필은 반대",
+          "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %에 그쳤다.",
+          "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI를 주제로 한 대표성 있는 설문 결과를 내놨다. 번역가라면 긴장할 만한 내용이다. 협회 발표로는 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 처음부터 끝까지 KI가 쓴 책을 읽겠다는 응답은 29 %뿐이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "책 속 KI를 다룬 막대그래프. 번역 79 %, 표시 72 %, KI-Bücher 29 %. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "翻訳のKIには賛成、\n執筆には反対",
+          "body": "79 %がKIによる翻訳に賛成したが、KI-Buchを読む人は29 %にとどまった。",
+          "mini_headline": "KI: 翻訳は賛成、執筆は反対",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "デジタル業界団体Bitkomは火曜日、Frankfurter Buchmesse（フランクフルト・ブックフェア）の開幕に合わせ、書籍におけるKIについての代表性のある調査を公表した。翻訳者を不安にさせそうな内容だ。同団体によると、回答者の79 %が書籍の翻訳でのKI利用に賛成した。一方、すべてKIが書いた本を読むと答えたのは29 %にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "書籍におけるKIの棒グラフは、翻訳79 %、表示72 %、KI-Bücher 29 %を示す。出典：Bitkom / グラフィック：Börsenblatt（KI-generiert）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "KI用于翻译可以，\n用于写作不行",
+          "body": "79 %的受访者支持用KI翻译，但只有29 %愿意读一本纯粹的KI-Buch。",
+          "mini_headline": "KI: 翻译可以，写作不行",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "数字行业协会Bitkom于周二借Frankfurter Buchmesse（法兰克福书展）开幕之际，发布了一项关于书籍中KI的代表性调查，结果恐令译者不安：据该协会介绍，79 %的受访者赞成在图书翻译中使用KI。而只有29 %的人愿意读一本完全由KI写成的书。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "关于书籍中KI的柱状图显示：翻译79 %，标注72 %，KI-Bücher 29 %。来源：Bitkom / 图表：Börsenblatt（KI-generiert）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "KI para traducir, sí;\npara escribir, no",
+          "body": "El 79 % de los encuestados apoya la KI en la traducción, pero solo el 29 % leería un KI-Buch puro.",
+          "mini_headline": "KI: sí a traducir, no a escribir",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "La asociación digital Bitkom publicó el martes, con motivo del inicio de la Frankfurter Buchmesse (Feria del Libro de Fráncfort), una encuesta representativa sobre la KI en los libros que probablemente alarmará a los traductores: según la asociación, el 79 % de los encuestados apoya el uso de KI en la traducción de libros. En cambio, solo el 29 % leería un libro escrito íntegramente por KI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "El gráfico de barras sobre la KI en los libros muestra un 79 % para traducciones, un 72 % para el etiquetado y un 29 % para KI-Bücher. Fuente: Bitkom / Gráfico: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Yes to KI in translation,\nno to KI in writing",
+          "body": "79 % of respondents support KI in translation, but only 29 % would read a book written purely by KI (KI-Buch).",
+          "mini_headline": "KI: yes to translating, no to writing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "On Tuesday, as the Frankfurter Buchmesse (Frankfurt Book Fair) opened, the digital association Bitkom published a representative survey on KI in books that is likely to alarm translators: according to the association, 79 % of respondents support KI in book translation. By contrast, only 29 % would read a book written entirely by KI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "The bar chart on KI in books shows 79 % for translations, 72 % for labelling and 29 % for KI-Bücher. Source: Bitkom / Graphic: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "KI 번역은 찬성,\n집필은 반대",
+          "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %다.",
+          "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI에 관한 대표성 있는 설문 결과를 발표했다. 번역가들을 긴장하게 할 만한 내용이다. 협회에 따르면 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 반면 전부 KI가 쓴 책을 읽겠다는 응답은 29 %에 그쳤다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "책 속 KI에 관한 막대그래프는 번역 79 %, 표시 72 %, KI-Bücher 29 %를 보여 준다. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "翻訳のKIには賛成、\n執筆には反対",
+          "body": "79 %がKIによる翻訳に賛成したが、KI-Buchを読む人は29 %にとどまった。",
+          "mini_headline": "KI: 翻訳は賛成、執筆は反対",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "デジタル業界団体Bitkomは火曜日、Frankfurter Buchmesse（フランクフルト・ブックフェア）の開幕に合わせ、書籍におけるKIについての代表性のある調査を公表した。翻訳者を不安にさせそうな内容だ。同団体によると、回答者の79 %が書籍の翻訳でのKI利用に賛成した。一方、すべてKIが書いた本を読むと答えたのは29 %にとどまった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "書籍におけるKIの棒グラフは、翻訳79 %、表示72 %、KI-Bücher 29 %を示す。出典：Bitkom / グラフィック：Börsenblatt（KI-generiert）"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "KI用于翻译可以，\n用于写作不行",
+          "body": "79 %的受访者支持用KI翻译，但只有29 %愿意读一本纯粹的KI-Buch。",
+          "mini_headline": "KI: 翻译可以，写作不行",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "数字行业协会Bitkom于周二借Frankfurter Buchmesse（法兰克福书展）开幕之际，发布了一项关于书籍中KI的代表性调查，结果恐令译者不安：据该协会介绍，79 %的受访者赞成在图书翻译中使用KI。而只有29 %的人愿意读一本完全由KI写成的书。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "关于书籍中KI的柱状图显示：翻译79 %，标注72 %，KI-Bücher 29 %。来源：Bitkom / 图表：Börsenblatt（KI-generiert）"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "KI para traducir, sí;\npara escribir, no",
+          "body": "El 79 % de los encuestados apoya la KI en la traducción, pero solo el 29 % leería un KI-Buch puro.",
+          "mini_headline": "KI: sí a traducir, no a escribir",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+                "cap": "© istockphoto"
+              },
+              {
+                "t": "p",
+                "x": "La asociación digital Bitkom publicó el martes, con motivo del inicio de la Frankfurter Buchmesse (Feria del Libro de Fráncfort), una encuesta representativa sobre la KI en los libros que probablemente alarmará a los traductores: según la asociación, el 79 % de los encuestados apoya el uso de KI en la traducción de libros. En cambio, solo el 29 % leería un libro escrito íntegramente por KI."
+              },
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
+                "cap": "El gráfico de barras sobre la KI en los libros muestra un 79 % para traducciones, un 72 % para el etiquetado y un 29 % para KI-Bücher. Fuente: Bitkom / Gráfico: Börsenblatt (KI-generiert)"
+              }
+            ]
+          }
+        }
+      }
     }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "다섯 출판사 20m 편\nRedpine 통해 AI로",
-     "body": "BMJ Group·Sage 등이 Redpine으로 AI에 2000만 논문을 연다.",
-     "mini_headline": "AI 에이전트용 논문 20m 편",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Redpine CEO Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "학술 출판사 다섯 곳(BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing, Wanfang Data)이 AI 기업 Redpine과 계약을 맺었다. AI 에이전트가 동료 심사를 거친 연구 논문 2000만 편에 라이선스를 갖춘 방식으로 접근할 수 있게 하는 내용이다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "出版五社が論文20m 本を\nRedpineでAIに開放",
-     "body": "BMJ Group、Sageなど五社がRedpineでAIに論文2000万本を開放する。",
-     "mini_headline": "AIエージェントに論文20m 本",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "RedpineのCEO、Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "五家出版商将20m 篇论文\n经Redpine开放给AI",
-     "body": "BMJ Group、Sage等五家出版商经Redpine向AI代理开放2000万篇论文。",
-     "mini_headline": "20m 篇论文开放给AI智能体",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Redpine CEO Anders Hammarbäck"
-       },
-       {
-        "t": "p",
-        "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Redpine: cinco editoriales abren\n20m de artículos a agentes AI",
-     "body": "BMJ Group, Sage y otras tres editoriales abrirán 20 millones de artículos a agentes de AI vía Redpine, con licencia.",
-     "mini_headline": "20m de artículos para agentes de AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-        "cap": "Anders Hammarbäck, CEO de Redpine"
-       },
-       {
-        "t": "p",
-        "x": "Cinco editoriales académicas –BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing y Wanfang Data– han cerrado un acuerdo con la empresa de AI Redpine para ofrecer a agentes de AI acceso con licencia a 20 millones de artículos de investigación revisados por pares."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "books-frankfurt-lepore",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Frankfurt 개막\n모두의 화두는 AI",
-   "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
-   "mini_headline": "Frankfurt, AI로 개막",
-   "tool": "Books",
-   "source": "Publishing Perspectives",
-   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/",
-   "accent": "#0070f3",
-   "motif": "swatch",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-      "cap": "Jill Lepore (사진: Johannes Minkus)."
-     },
-     {
-      "t": "p",
-      "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑이 여전히 꽃피고 있다고 했다. 다만 모두가 주목하는 AI의 등장을 비롯해 업계 앞에 거대한 도전이 놓여 있다고 덧붙였다."
-     },
-     {
-      "t": "img",
-      "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-      "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
-     },
-     {
-      "t": "p",
-      "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
-     },
-     {
-      "t": "p",
-      "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분 기조연설에서 소수 테크 거물들 손에 넘어간 미래를 경계했다. “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 했다."
-     },
-     {
-      "t": "p",
-      "x": "Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”도 내놨다. 도서전은 10월 7–11일 이어진다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Frankfurt opens with AI\non everyone's mind",
-     "body": "At the fair's opening, Jill Lepore warned against handing the future to tech moguls as AI dominated the conversation.",
-     "mini_headline": "Frankfurt opens on AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore (credit: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "At the October 6 opening press conference for the 78th Frankfurter Buchmesse, Sebastian Guggolz, Chairman of the German Publishers and Booksellers Association, said the love of books is still flourishing, but the industry faces epic challenges, including the issue on everyone’s minds: the advent of AI."
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(From left): Torsten Casimir, Sebastian Guggolz, Juergen Boos and Jill Lepore (credit: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "“The problem of reading competence cannot be compensated by AI, which delivers answers at random,” Guggolz said, urging “immediate intervention” from world leaders."
-       },
-       {
-        "t": "p",
-        "x": "In a 15-minute keynote, Pulitzer Prize-winning historian Jill Lepore warned against a future handed over to a cadre of tech moguls. “We meet here this year on the knife-edge of history,” she said. “The sum of human knowledge that is contained in the world’s books has been swallowed whole by machines owned by corporations.”"
-       },
-       {
-        "t": "p",
-        "x": "Meanwhile, the Börsenverein has issued the “Frankfurt appeal,” calling on legislators for AI training-data transparency, a licensing market with fair revenue models, and robust enforcement of European copyright law. The fair runs October 7–11."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Frankfurt 개막\n모두의 화두는 AI",
-     "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
-     "mini_headline": "Frankfurt, AI로 개막",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore (사진: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑이 여전히 꽃피고 있다고 했다. 다만 모두가 주목하는 AI의 등장을 비롯해 업계 앞에 거대한 도전이 놓여 있다고 덧붙였다."
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분 기조연설에서 소수 테크 거물들 손에 넘어간 미래를 경계했다. “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 했다."
-       },
-       {
-        "t": "p",
-        "x": "Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”도 내놨다. 도서전은 10월 7–11일 이어진다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Frankfurt開幕\n話題の中心はAI",
-     "body": "開幕でJill Leporeは、AIが席巻する中、未来をテック富豪に委ねるなと警告した。",
-     "mini_headline": "Frankfurt、AIで開幕",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore(写真: Johannes Minkus)。"
-       },
-       {
-        "t": "p",
-        "x": "10月6日に開かれた第78回Frankfurter Buchmesseの開幕記者会見で、ドイツ出版・書籍販売業者協会のSebastian Guggolz会長は、本への愛は今も花開いているが、業界は誰もが気にかける問題、すなわちAIの到来を含む大きな課題に直面していると述べた。"
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(左から)Torsten Casimir、Sebastian Guggolz、Juergen Boos、Jill Lepore(写真: Johannes Minkus)。"
-       },
-       {
-        "t": "p",
-        "x": "Guggolzは「読解力の問題は、でたらめに答えを出すAIでは補えない」と述べ、世界の指導者に「即時の介入」を求めた。"
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning(ピューリッツァー賞受賞)の歴史家Jill Leporeは15分間の基調講演で、一握りのテック富豪に委ねられた未来に警鐘を鳴らした。「私たちは今年、歴史の瀬戸際でここに集っている」と述べ、「世界の本に収められた人類の知の総体は、企業が所有する機械に丸ごと飲み込まれた」と語った。"
-       },
-       {
-        "t": "p",
-        "x": "一方、Börsenvereinは「Frankfurt appeal」を発表し、AI学習データの透明性、公正な収益モデルを備えたライセンス市場、欧州著作権法の厳格な執行を立法者に求めた。ブックフェアは10月7–11日に開催される。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Frankfurt书展开幕\n人人都在谈AI",
-     "body": "书展开幕之际，Jill Lepore警告勿把未来交给科技大亨，AI成为全场焦点。",
-     "mini_headline": "Frankfurt书展以AI开场",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore（摄影：Johannes Minkus）。"
-       },
-       {
-        "t": "p",
-        "x": "在10月6日举行的第78届Frankfurter Buchmesse开幕新闻发布会上，德国出版商与书商协会主席Sebastian Guggolz表示，人们对书的热爱依然旺盛，但行业正面临巨大挑战，其中包括人人关注的问题：AI的到来。"
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "（左起）Torsten Casimir、Sebastian Guggolz、Juergen Boos和Jill Lepore（摄影：Johannes Minkus）。"
-       },
-       {
-        "t": "p",
-        "x": "Guggolz说：“随机给出答案的AI无法弥补阅读能力的问题。”他敦促世界各国领导人“立即干预”。"
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning（普利策奖得主）历史学家Jill Lepore在15分钟的主旨演讲中警告，不应让未来落入一小撮科技大亨之手。她说：“今年我们相聚于此，正站在历史的刀锋之上。”她还说：“世界书籍中蕴含的人类知识总和，已被企业拥有的机器整个吞没。”"
-       },
-       {
-        "t": "p",
-        "x": "与此同时，Börsenverein发布了“Frankfurt appeal”，呼吁立法者推动AI训练数据透明化、建立具备公平收益模式的授权市场，并严格执行欧洲版权法。书展于10月7–11日举行。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Frankfurt abre con la AI\nen boca de todos",
-     "body": "En la inauguración, dominada por la AI, Jill Lepore advirtió contra ceder el futuro a los magnates tecnológicos.",
-     "mini_headline": "Frankfurt abre con la AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore (foto: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "En la rueda de prensa inaugural del 6 de octubre de la 78.ª Frankfurter Buchmesse, Sebastian Guggolz, presidente de la Asociación Alemana de Editores y Libreros, dijo que el amor por los libros sigue floreciendo, pero que la industria afronta desafíos enormes, entre ellos el asunto que ocupa todas las mentes: la llegada de la AI."
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(Desde la izquierda): Torsten Casimir, Sebastian Guggolz, Juergen Boos y Jill Lepore (foto: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "“El problema de la competencia lectora no puede compensarse con la AI, que da respuestas al azar”, dijo Guggolz, quien pidió una “intervención inmediata” a los líderes mundiales."
-       },
-       {
-        "t": "p",
-        "x": "En una conferencia magistral de 15 minutos, la historiadora Jill Lepore, ganadora del premio Pulitzer (Pulitzer Prize-winning), advirtió contra un futuro entregado a una camarilla de magnates tecnológicos. “Este año nos reunimos aquí en el filo de la navaja de la historia”, dijo. “La suma del conocimiento humano contenida en los libros del mundo ha sido engullida por completo por máquinas propiedad de corporaciones”."
-       },
-       {
-        "t": "p",
-        "x": "Mientras tanto, el Börsenverein ha emitido el “Frankfurt appeal”, que pide a los legisladores transparencia en los datos de entrenamiento de AI, un mercado de licencias con modelos de ingresos justos y una aplicación rigurosa de la ley europea de derechos de autor. La feria se celebra del 7 al 11 de octubre."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Frankfurt 개막\n모두의 화두는 AI",
-     "body": "AI가 휩쓴 개막식, Jill Lepore는 테크 거물이 쥔 미래를 경계했다.",
-     "mini_headline": "Frankfurt, AI로 개막",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore (사진: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "10월 6일 열린 제78회 Frankfurter Buchmesse 개막 기자회견에서 독일출판서점협회 회장 Sebastian Guggolz는 책을 향한 사랑은 여전히 꽃피고 있지만, 업계는 모두가 주목하는 AI의 등장을 비롯해 거대한 도전에 직면해 있다고 말했다."
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(왼쪽부터) Torsten Casimir, Sebastian Guggolz, Juergen Boos, Jill Lepore (사진: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "Guggolz는 “무작위로 답을 내놓는 AI로는 읽기 능력의 문제를 메울 수 없다”며 세계 지도자들에게 “즉각적인 개입”을 촉구했다."
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning(퓰리처상 수상) 역사학자 Jill Lepore는 15분간의 기조연설에서 소수 테크 거물 집단에 넘겨진 미래를 경계했다. 그는 “올해 우리는 역사의 칼날 위에서 이곳에 모였다”며 “세계의 책에 담긴 인류 지식의 총합이 기업 소유의 기계에 통째로 삼켜졌다”고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "한편 Börsenverein은 입법자들에게 AI 학습 데이터의 투명성, 공정한 수익 모델을 갖춘 라이선스 시장, 유럽 저작권법의 엄격한 집행을 요구하는 “Frankfurt appeal”을 발표했다. 도서전은 10월 7–11일 열린다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Frankfurt開幕\n話題の中心はAI",
-     "body": "開幕でJill Leporeは、AIが席巻する中、未来をテック富豪に委ねるなと警告した。",
-     "mini_headline": "Frankfurt、AIで開幕",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore(写真: Johannes Minkus)。"
-       },
-       {
-        "t": "p",
-        "x": "10月6日に開かれた第78回Frankfurter Buchmesseの開幕記者会見で、ドイツ出版・書籍販売業者協会のSebastian Guggolz会長は、本への愛は今も花開いているが、業界は誰もが気にかける問題、すなわちAIの到来を含む大きな課題に直面していると述べた。"
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(左から)Torsten Casimir、Sebastian Guggolz、Juergen Boos、Jill Lepore(写真: Johannes Minkus)。"
-       },
-       {
-        "t": "p",
-        "x": "Guggolzは「読解力の問題は、でたらめに答えを出すAIでは補えない」と述べ、世界の指導者に「即時の介入」を求めた。"
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning(ピューリッツァー賞受賞)の歴史家Jill Leporeは15分間の基調講演で、一握りのテック富豪に委ねられた未来に警鐘を鳴らした。「私たちは今年、歴史の瀬戸際でここに集っている」と述べ、「世界の本に収められた人類の知の総体は、企業が所有する機械に丸ごと飲み込まれた」と語った。"
-       },
-       {
-        "t": "p",
-        "x": "一方、Börsenvereinは「Frankfurt appeal」を発表し、AI学習データの透明性、公正な収益モデルを備えたライセンス市場、欧州著作権法の厳格な執行を立法者に求めた。ブックフェアは10月7–11日に開催される。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Frankfurt书展开幕\n人人都在谈AI",
-     "body": "书展开幕之际，Jill Lepore警告勿把未来交给科技大亨，AI成为全场焦点。",
-     "mini_headline": "Frankfurt书展以AI开场",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore（摄影：Johannes Minkus）。"
-       },
-       {
-        "t": "p",
-        "x": "在10月6日举行的第78届Frankfurter Buchmesse开幕新闻发布会上，德国出版商与书商协会主席Sebastian Guggolz表示，人们对书的热爱依然旺盛，但行业正面临巨大挑战，其中包括人人关注的问题：AI的到来。"
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "（左起）Torsten Casimir、Sebastian Guggolz、Juergen Boos和Jill Lepore（摄影：Johannes Minkus）。"
-       },
-       {
-        "t": "p",
-        "x": "Guggolz说：“随机给出答案的AI无法弥补阅读能力的问题。”他敦促世界各国领导人“立即干预”。"
-       },
-       {
-        "t": "p",
-        "x": "Pulitzer Prize-winning（普利策奖得主）历史学家Jill Lepore在15分钟的主旨演讲中警告，不应让未来落入一小撮科技大亨之手。她说：“今年我们相聚于此，正站在历史的刀锋之上。”她还说：“世界书籍中蕴含的人类知识总和，已被企业拥有的机器整个吞没。”"
-       },
-       {
-        "t": "p",
-        "x": "与此同时，Börsenverein发布了“Frankfurt appeal”，呼吁立法者推动AI训练数据透明化、建立具备公平收益模式的授权市场，并严格执行欧洲版权法。书展于10月7–11日举行。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Frankfurt abre con la AI\nen boca de todos",
-     "body": "En la inauguración, dominada por la AI, Jill Lepore advirtió contra ceder el futuro a los magnates tecnológicos.",
-     "mini_headline": "Frankfurt abre con la AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-        "cap": "Jill Lepore (foto: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "En la rueda de prensa inaugural del 6 de octubre de la 78.ª Frankfurter Buchmesse, Sebastian Guggolz, presidente de la Asociación Alemana de Editores y Libreros, dijo que el amor por los libros sigue floreciendo, pero que la industria afronta desafíos enormes, entre ellos el asunto que ocupa todas las mentes: la llegada de la AI."
-       },
-       {
-        "t": "img",
-        "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0394-scaled.jpeg",
-        "cap": "(Desde la izquierda): Torsten Casimir, Sebastian Guggolz, Juergen Boos y Jill Lepore (foto: Johannes Minkus)."
-       },
-       {
-        "t": "p",
-        "x": "“El problema de la competencia lectora no puede compensarse con la AI, que da respuestas al azar”, dijo Guggolz, quien pidió una “intervención inmediata” a los líderes mundiales."
-       },
-       {
-        "t": "p",
-        "x": "En una conferencia magistral de 15 minutos, la historiadora Jill Lepore, ganadora del premio Pulitzer (Pulitzer Prize-winning), advirtió contra un futuro entregado a una camarilla de magnates tecnológicos. “Este año nos reunimos aquí en el filo de la navaja de la historia”, dijo. “La suma del conocimiento humano contenida en los libros del mundo ha sido engullida por completo por máquinas propiedad de corporaciones”."
-       },
-       {
-        "t": "p",
-        "x": "Mientras tanto, el Börsenverein ha emitido el “Frankfurt appeal”, que pide a los legisladores transparencia en los datos de entrenamiento de AI, un mercado de licencias con modelos de ingresos justos y una aplicación rigurosa de la ley europea de derechos de autor. La feria se celebra del 7 al 11 de octubre."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "books-roose",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
-   "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
-   "mini_headline": "Roose의 AI 책, AI 없이",
-   "tool": "Books",
-   "source": "WIRED",
-   "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-   "accent": "#7928ca",
-   "motif": "swatch",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-     },
-     {
-      "t": "p",
-      "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 두 가지를 이야기한다. 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles다. Roose는 약 한 해 동안 취재하고 글을 쓰며 150명 넘는 사람을 만났다."
-     },
-     {
-      "t": "p",
-      "x": "Drummond가 이 책을 Pangram으로 검사해 봤다고 하자 Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 곁에서 도왔다."
-     },
-     {
-      "t": "p",
-      "x": "그래도 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 썼고 취재 업무와 메모 정리에도 도움을 받았다. 팩트체크에는 인간 팩트체커와 함께 “AI swarm”을 돌렸다. 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 불러 썼다."
-     },
-     {
-      "t": "p",
-      "x": "Roose가 보기에 독자는 책을 사람이 썼는지 크게 신경 쓴다. 작가가 작업 과정을 보여줘야 독자도 그 안에 담긴 노동과 이어질 수 있다는 게 그의 말이다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Kevin Roose's AI book\nwas written without AI",
-     "body": "Kevin Roose says The AGI Chronicles was written by a tired, overworked human, not by the AI it covers.",
-     "mini_headline": "Roose's AI book, no AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "On WIRED’s Big Interview, Katie Drummond talks with Kevin Roose about his new media company Machine Gods Media, launched with Casey Newton, and his book The AGI Chronicles, which follows OpenAI, Anthropic and Google. Roose spent about a year reporting and writing and talked to more than 150 people."
-       },
-       {
-        "t": "p",
-        "x": "Drummond says she ran the book through Pangram. Roose: “It was written by a very tired, overworked, underslept human being,” with help from researcher Jasmine Sun and human editors at FSG."
-       },
-       {
-        "t": "p",
-        "x": "He did use AI around the writing: a giant NotebookLM notebook of research, interview transcripts and papers he queried “like a supercharged search function,” help with reporting tasks and organizing notes, an “AI swarm” for fact-checks alongside a human fact-checker, and a “Council of Claudes” giving editorial feedback from different vantage points."
-       },
-       {
-        "t": "p",
-        "x": "Roose thinks readers care a lot whether a human wrote a book, and says writers should show their process so people can connect with the labor involved."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
-     "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
-     "mini_headline": "Roose의 AI 책, AI 없이",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 두 가지를 이야기한다. 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles다. Roose는 약 한 해 동안 취재하고 글을 쓰며 150명 넘는 사람을 만났다."
-       },
-       {
-        "t": "p",
-        "x": "Drummond가 이 책을 Pangram으로 검사해 봤다고 하자 Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 곁에서 도왔다."
-       },
-       {
-        "t": "p",
-        "x": "그래도 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 썼고 취재 업무와 메모 정리에도 도움을 받았다. 팩트체크에는 인간 팩트체커와 함께 “AI swarm”을 돌렸다. 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 불러 썼다."
-       },
-       {
-        "t": "p",
-        "x": "Roose가 보기에 독자는 책을 사람이 썼는지 크게 신경 쓴다. 작가가 작업 과정을 보여줘야 독자도 그 안에 담긴 노동과 이어질 수 있다는 게 그의 말이다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Kevin Rooseの\nAI本はAIなしで執筆",
-     "body": "Kevin RooseはThe AGI ChroniclesをAIなしで書いたと語る。",
-     "mini_headline": "RooseのAI本、AIなし",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "WIREDのBig Interviewで、Katie DrummondはKevin Rooseと、Casey Newtonと立ち上げた新メディア企業Machine Gods Media、そしてOpenAI、Anthropic、Googleを追った著書The AGI Chroniclesについて語り合う。Rooseは約一年をかけて取材と執筆を行い、150人以上に話を聞いた。"
-       },
-       {
-        "t": "p",
-        "x": "Drummondはこの本をPangramにかけたという。Rooseによれば、本書は「とても疲れて、働きすぎで、寝不足の人間が書いた」もので、リサーチャーのJasmine SunとFSGの人間の編集者が手を貸した。"
-       },
-       {
-        "t": "p",
-        "x": "ただし執筆の周辺ではAIを使った。調査資料やインタビューの書き起こし、論文を集めた巨大なNotebookLMのノートブックを「強化された検索機能のように」使い、取材作業やメモの整理にも助けを借りた。人間のファクトチェッカーと並行してファクトチェック用の「AI swarm」を走らせ、さまざまな視点から編集上のフィードバックを返す「Council of Claudes」も用いた。"
-       },
-       {
-        "t": "p",
-        "x": "Rooseは、読者は本を人間が書いたかどうかを強く気にしていると考える。書き手は自らのプロセスを示し、そこに注がれた労働に人々が共感できるようにすべきだと語る。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Kevin Roose的\nAI之书未用AI",
-     "body": "Kevin Roose称，The AGI Chronicles由疲惫的人类而非AI写成。",
-     "mini_headline": "Roose的AI书，不用AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "在WIRED的Big Interview中，Katie Drummond与Kevin Roose谈到他和Casey Newton共同创办的新媒体公司Machine Gods Media，以及他追踪OpenAI、Anthropic和Google的新书The AGI Chronicles。Roose花了大约一年时间采访和写作，与150多人交谈过。"
-       },
-       {
-        "t": "p",
-        "x": "Drummond说她用Pangram检测过这本书。Roose表示：“这本书是由一个非常疲惫、过度劳累、睡眠不足的人类写成的。”研究员Jasmine Sun和FSG的人类编辑也提供了帮助。"
-       },
-       {
-        "t": "p",
-        "x": "不过，他在写作之外确实用了AI：一个装满研究资料、采访记录和论文的庞大NotebookLM笔记本，他“像使用超强搜索功能一样”查询它；AI还协助他完成采访任务、整理笔记；一个“AI swarm”与人类事实核查员一起核查事实；还有一个“Council of Claudes”从不同角度提供编辑反馈。"
-       },
-       {
-        "t": "p",
-        "x": "Roose认为读者非常在意一本书是否由人类写成，并表示作者应展示自己的创作过程，让人们能与其中付出的劳动产生共鸣。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El libro sobre AI de Kevin Roose\nse escribió sin AI",
-     "body": "Kevin Roose dice que The AGI Chronicles lo escribió un humano cansado y sobrecargado, no la AI de la que trata.",
-     "mini_headline": "El libro de Roose sobre AI, sin AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "En el Big Interview de WIRED, Katie Drummond conversa con Kevin Roose sobre su nueva empresa de medios, Machine Gods Media, fundada con Casey Newton, y sobre su libro The AGI Chronicles, que sigue a OpenAI, Anthropic y Google. Roose dedicó cerca de un año a investigar y escribir, y habló con más de 150 personas."
-       },
-       {
-        "t": "p",
-        "x": "Drummond dice que pasó el libro por Pangram. Roose: “Lo escribió un ser humano muy cansado, con exceso de trabajo y falto de sueño”, con la ayuda de la investigadora Jasmine Sun y de editores humanos de FSG."
-       },
-       {
-        "t": "p",
-        "x": "Sí usó AI en torno a la escritura: un enorme cuaderno de NotebookLM con investigación, transcripciones de entrevistas y artículos que consultaba “como una función de búsqueda potenciada”, ayuda con tareas de reporterismo y organización de notas, un “AI swarm” para verificar datos junto a un verificador humano y un “Council of Claudes” que le daba comentarios editoriales desde distintos puntos de vista."
-       },
-       {
-        "t": "p",
-        "x": "Roose cree que a los lectores les importa mucho si un libro lo escribió un humano, y dice que los escritores deberían mostrar su proceso para que la gente conecte con el trabajo que implica."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "Kevin Roose의\nAI 책, AI 없이 썼다",
-     "body": "Kevin Roose는 The AGI Chronicles를 AI 없이 썼다.",
-     "mini_headline": "Roose의 AI 책, AI 없이",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "WIRED의 Big Interview에서 Katie Drummond는 Kevin Roose와 함께 그가 Casey Newton과 세운 새 미디어 회사 Machine Gods Media, 그리고 OpenAI, Anthropic, Google을 추적한 책 The AGI Chronicles에 관해 이야기를 나눈다. Roose는 약 한 해 동안 취재와 집필을 하며 150명 넘는 사람을 만났다."
-       },
-       {
-        "t": "p",
-        "x": "Drummond는 이 책을 Pangram으로 검사해 봤다고 말한다. Roose는 “아주 지치고, 과로하고, 잠이 부족한 인간이 썼다”고 답했다. 연구원 Jasmine Sun과 FSG의 인간 편집자들이 도왔다."
-       },
-       {
-        "t": "p",
-        "x": "다만 그는 집필 주변 작업에는 AI를 썼다. 조사 자료와 인터뷰 녹취록, 논문을 모은 거대한 NotebookLM 노트북을 “강력해진 검색 기능처럼” 활용했고, 취재 업무와 메모 정리에도 도움을 받았다. 인간 팩트체커와 함께 팩트체크용 “AI swarm”을 돌렸고, 여러 관점에서 편집 피드백을 주는 “Council of Claudes”도 활용했다."
-       },
-       {
-        "t": "p",
-        "x": "Roose는 독자들이 책을 사람이 썼는지를 크게 신경 쓴다고 본다. 그래서 작가가 자신의 작업 과정을 보여줘야 사람들이 그 안에 담긴 노동과 이어질 수 있다고 말한다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "Kevin Rooseの\nAI本はAIなしで執筆",
-     "body": "Kevin RooseはThe AGI ChroniclesをAIなしで書いたと語る。",
-     "mini_headline": "RooseのAI本、AIなし",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "WIREDのBig Interviewで、Katie DrummondはKevin Rooseと、Casey Newtonと立ち上げた新メディア企業Machine Gods Media、そしてOpenAI、Anthropic、Googleを追った著書The AGI Chroniclesについて語り合う。Rooseは約一年をかけて取材と執筆を行い、150人以上に話を聞いた。"
-       },
-       {
-        "t": "p",
-        "x": "Drummondはこの本をPangramにかけたという。Rooseによれば、本書は「とても疲れて、働きすぎで、寝不足の人間が書いた」もので、リサーチャーのJasmine SunとFSGの人間の編集者が手を貸した。"
-       },
-       {
-        "t": "p",
-        "x": "ただし執筆の周辺ではAIを使った。調査資料やインタビューの書き起こし、論文を集めた巨大なNotebookLMのノートブックを「強化された検索機能のように」使い、取材作業やメモの整理にも助けを借りた。人間のファクトチェッカーと並行してファクトチェック用の「AI swarm」を走らせ、さまざまな視点から編集上のフィードバックを返す「Council of Claudes」も用いた。"
-       },
-       {
-        "t": "p",
-        "x": "Rooseは、読者は本を人間が書いたかどうかを強く気にしていると考える。書き手は自らのプロセスを示し、そこに注がれた労働に人々が共感できるようにすべきだと語る。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "Kevin Roose的\nAI之书未用AI",
-     "body": "Kevin Roose称，The AGI Chronicles由疲惫的人类而非AI写成。",
-     "mini_headline": "Roose的AI书，不用AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "在WIRED的Big Interview中，Katie Drummond与Kevin Roose谈到他和Casey Newton共同创办的新媒体公司Machine Gods Media，以及他追踪OpenAI、Anthropic和Google的新书The AGI Chronicles。Roose花了大约一年时间采访和写作，与150多人交谈过。"
-       },
-       {
-        "t": "p",
-        "x": "Drummond说她用Pangram检测过这本书。Roose表示：“这本书是由一个非常疲惫、过度劳累、睡眠不足的人类写成的。”研究员Jasmine Sun和FSG的人类编辑也提供了帮助。"
-       },
-       {
-        "t": "p",
-        "x": "不过，他在写作之外确实用了AI：一个装满研究资料、采访记录和论文的庞大NotebookLM笔记本，他“像使用超强搜索功能一样”查询它；AI还协助他完成采访任务、整理笔记；一个“AI swarm”与人类事实核查员一起核查事实；还有一个“Council of Claudes”从不同角度提供编辑反馈。"
-       },
-       {
-        "t": "p",
-        "x": "Roose认为读者非常在意一本书是否由人类写成，并表示作者应展示自己的创作过程，让人们能与其中付出的劳动产生共鸣。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "El libro sobre AI de Kevin Roose\nse escribió sin AI",
-     "body": "Kevin Roose dice que The AGI Chronicles lo escribió un humano cansado y sobrecargado, no la AI de la que trata.",
-     "mini_headline": "El libro de Roose sobre AI, sin AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://media.wired.com/photos/6ac38dc08ab26dc18d4b0746/master/w_1600%2Cc_limit/100516-Big%2520Interview%2520K%2520Roose%2520Comp.jpg"
-       },
-       {
-        "t": "p",
-        "x": "En el Big Interview de WIRED, Katie Drummond conversa con Kevin Roose sobre su nueva empresa de medios, Machine Gods Media, fundada con Casey Newton, y sobre su libro The AGI Chronicles, que sigue a OpenAI, Anthropic y Google. Roose dedicó cerca de un año a investigar y escribir, y habló con más de 150 personas."
-       },
-       {
-        "t": "p",
-        "x": "Drummond dice que pasó el libro por Pangram. Roose: “Lo escribió un ser humano muy cansado, con exceso de trabajo y falto de sueño”, con la ayuda de la investigadora Jasmine Sun y de editores humanos de FSG."
-       },
-       {
-        "t": "p",
-        "x": "Sí usó AI en torno a la escritura: un enorme cuaderno de NotebookLM con investigación, transcripciones de entrevistas y artículos que consultaba “como una función de búsqueda potenciada”, ayuda con tareas de reporterismo y organización de notas, un “AI swarm” para verificar datos junto a un verificador humano y un “Council of Claudes” que le daba comentarios editoriales desde distintos puntos de vista."
-       },
-       {
-        "t": "p",
-        "x": "Roose cree que a los lectores les importa mucho si un libro lo escribió un humano, y dice que los escritores deberían mostrar su proceso para que la gente conecte con el trabajo que implica."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "books-ssp-integrity",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "AI 투고에\n짓눌린 연구 무결성",
-   "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고에 무결성이 흔들린다.",
-   "mini_headline": "AI가 연구 무결성 압박",
-   "tool": "Books",
-   "source": "The Scholarly Kitchen",
-   "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
-   "accent": "#2ec5c5",
-   "motif": "swatch",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "p",
-      "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하는지 물었다."
-     },
-     {
-      "t": "img",
-      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-      "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
-     },
-     {
-      "t": "p",
-      "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 우려 상위 세 가지 안에 꼽았다. 페이퍼 밀(44%)과 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
-     },
-     {
-      "t": "img",
-      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-      "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
-     },
-     {
-      "t": "p",
-      "x": "정작 출판 전에 AI-generated 원고를 걸러낼 수 있다고 매우 또는 극도로 확신한 응답은 10%뿐이었다. 49%는 약간 확신하거나 전혀 확신하지 못했다."
-     },
-     {
-      "t": "img",
-      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-      "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
-     },
-     {
-      "t": "p",
-      "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓴다. 94%가 무결성 조치를 하나 이상 시행하지만 63%는 생태계가 학술 기록을 지키고 있다고 거의 확신하지 못했다."
-     },
-     {
-      "t": "img",
-      "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-      "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
-     },
-     {
-      "t": "p",
-      "x": "가장 큰 근본 원인은 Publish-or-perish(출판하지 않으면 도태) 인센티브였다. 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 뒤를 이었다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "Survey: AI submissions strain\nresearch integrity",
-     "body": "SSP's Pulse Check survey finds paper mills and AI-made submissions straining publishers' integrity systems.",
-     "mini_headline": "AI strains research integrity",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSP’s September 2026 Pulse Check Poll asked 181 people across scholarly publishing how they are responding to research integrity challenges."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "Which research integrity challenges represent the greatest concern for your organization today?"
-       },
-       {
-        "t": "p",
-        "x": "73% named AI-generated or AI-manipulated manuscripts as a top-three concern, followed by paper mills (44%) and false references or AI-generated hallucinations (41%)."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "How confident is your organization in its ability to detect the following issues before publication or dissemination?"
-       },
-       {
-        "t": "p",
-        "x": "Yet only 10% are very or extremely confident they can detect AI-generated manuscripts before publication, and 49% are slightly or not at all confident."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "Overall, what is the impact that artificial intelligence is having on research integrity today?"
-       },
-       {
-        "t": "p",
-        "x": "95% agree AI is creating new integrity risks, while 54% already use AI-assisted screening tools. Despite 94% implementing at least one integrity measure, 63% have little confidence the ecosystem is protecting the scholarly record."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "Rank the root causes in order of perceived impact."
-       },
-       {
-        "t": "p",
-        "x": "Publish-or-perish incentives rank as the leading root cause, with generative AI outpacing policy and detection a close second."
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "AI 투고에\n짓눌린 연구 무결성",
-     "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고에 무결성이 흔들린다.",
-     "mini_headline": "AI가 연구 무결성 압박",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하는지 물었다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
-       },
-       {
-        "t": "p",
-        "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 우려 상위 세 가지 안에 꼽았다. 페이퍼 밀(44%)과 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
-       },
-       {
-        "t": "p",
-        "x": "정작 출판 전에 AI-generated 원고를 걸러낼 수 있다고 매우 또는 극도로 확신한 응답은 10%뿐이었다. 49%는 약간 확신하거나 전혀 확신하지 못했다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
-       },
-       {
-        "t": "p",
-        "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓴다. 94%가 무결성 조치를 하나 이상 시행하지만 63%는 생태계가 학술 기록을 지키고 있다고 거의 확신하지 못했다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
-       },
-       {
-        "t": "p",
-        "x": "가장 큰 근본 원인은 Publish-or-perish(출판하지 않으면 도태) 인센티브였다. 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 뒤를 이었다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "調査：AIの投稿が\n研究公正を圧迫",
-     "body": "SSPのPulse Checkによると、論文工場とAI-made投稿が公正性を圧迫する。",
-     "mini_headline": "AIが研究公正を圧迫",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSPの2026年9月のPulse Check Pollは、学術出版に携わる181人に、研究公正の課題にどう対応しているかを尋ねた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "現在、貴組織にとって最大の懸念となっている研究公正上の課題はどれか?"
-       },
-       {
-        "t": "p",
-        "x": "73%がAI-generated(AI生成)またはAI-manipulated(AI改ざん)の原稿を上位三つの懸念に挙げ、論文工場(44%)、虚偽の参考文献やAI-generatedのハルシネーション(41%)が続いた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "出版・公開前に以下の問題を検出できることに、貴組織はどの程度自信があるか?"
-       },
-       {
-        "t": "p",
-        "x": "しかし、出版前にAI-generatedの原稿を検出できることに非常に、または極めて自信があるのは10%にとどまり、49%はわずかにしか自信がない、またはまったく自信がないと答えた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "全体として、人工知能は現在の研究公正にどのような影響を与えているか?"
-       },
-       {
-        "t": "p",
-        "x": "95%がAIは新たな公正性リスクを生んでいると同意し、54%はすでにAI-assisted(AI支援)のスクリーニングツールを使っている。94%が少なくとも一つの公正性対策を実施しているにもかかわらず、63%はエコシステムが学術記録を守れているという自信をほとんど持っていない。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "根本原因を、影響が大きいと思う順に並べよ。"
-       },
-       {
-        "t": "p",
-        "x": "根本原因の最上位はPublish-or-perish(出版か死か)のインセンティブで、政策や検出を上回る速さで進む生成AIが僅差でそれに続いた。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "调查：AI投稿\n冲击科研诚信",
-     "body": "SSP的Pulse Check调查发现，论文工厂和AI-made投稿冲击出版商诚信体系。",
-     "mini_headline": "AI冲击科研诚信",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSP于2026年9月开展的Pulse Check Poll询问了学术出版领域的181人，了解他们如何应对科研诚信挑战。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "目前，哪些科研诚信挑战是贵机构最担忧的？"
-       },
-       {
-        "t": "p",
-        "x": "73%的受访者将AI-generated（AI生成）或AI-manipulated（AI篡改）稿件列为前三大担忧之一，其次是论文工厂（44%）以及虚假参考文献或AI-generated幻觉（41%）。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "贵机构对在出版或传播前发现以下问题的能力有多大信心？"
-       },
-       {
-        "t": "p",
-        "x": "然而，只有10%的人对在出版前发现AI-generated稿件非常或极其有信心，49%的人只有一点信心或完全没有信心。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "总体而言，人工智能目前对科研诚信产生了怎样的影响？"
-       },
-       {
-        "t": "p",
-        "x": "95%的人认同AI正在带来新的诚信风险，54%已在使用AI-assisted（AI辅助）筛查工具。尽管94%至少实施了一项诚信措施，63%的人对整个生态系统能否守护学术记录缺乏信心。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "请按感知影响大小对根本原因进行排序。"
-       },
-       {
-        "t": "p",
-        "x": "Publish-or-perish（不发表就出局）的激励机制被列为首要根本原因，发展速度超过政策和检测的生成式AI以微弱差距位居其次。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Encuesta: los envíos con AI\ntensan la integridad científica",
-     "body": "Según el Pulse Check de SSP, las fábricas de artículos y los envíos AI-made tensan la integridad editorial.",
-     "mini_headline": "La AI tensa la integridad científica",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "El Pulse Check Poll de SSP de septiembre de 2026 preguntó a 181 personas del ámbito de la edición académica cómo están respondiendo a los desafíos de integridad de la investigación."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "¿Qué desafíos de integridad de la investigación representan hoy la mayor preocupación para su organización?"
-       },
-       {
-        "t": "p",
-        "x": "El 73% señaló los manuscritos generados o manipulados con AI (AI-generated o AI-manipulated) como una de sus tres principales preocupaciones, seguidos de las fábricas de artículos (44%) y las referencias falsas o alucinaciones AI-generated (41%)."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "¿Qué grado de confianza tiene su organización en su capacidad para detectar los siguientes problemas antes de la publicación o difusión?"
-       },
-       {
-        "t": "p",
-        "x": "Sin embargo, solo el 10% confía mucho o muchísimo en poder detectar manuscritos generados con AI (AI-generated) antes de su publicación, y el 49% confía poco o nada."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "En general, ¿qué impacto está teniendo hoy la inteligencia artificial en la integridad de la investigación?"
-       },
-       {
-        "t": "p",
-        "x": "El 95% coincide en que la AI está creando nuevos riesgos para la integridad, y el 54% ya usa herramientas de cribado asistidas por AI (AI-assisted). Aunque el 94% aplica al menos una medida de integridad, el 63% confía poco en que el ecosistema esté protegiendo el registro académico."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "Ordene las causas de fondo según su impacto percibido."
-       },
-       {
-        "t": "p",
-        "x": "Los incentivos de “publicar o perecer” (Publish-or-perish) figuran como la principal causa de fondo, y la AI generativa, que avanza más rápido que las políticas y la detección, queda en un ajustado segundo lugar."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "조사: AI 투고가\n연구 무결성 압박",
-     "body": "SSP Pulse Check: 페이퍼 밀·AI-made 투고가 무결성을 압박한다.",
-     "mini_headline": "AI가 연구 무결성 압박",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSP의 2026년 9월 Pulse Check Poll은 학술 출판 전반의 181명에게 연구 무결성 문제에 어떻게 대응하고 있는지 물었다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "현재 귀 기관이 가장 우려하는 연구 무결성 과제는 무엇인가?"
-       },
-       {
-        "t": "p",
-        "x": "73%가 AI-generated(AI 생성) 또는 AI-manipulated(AI 조작) 원고를 상위 세 가지 우려 사항으로 꼽았고, 페이퍼 밀(44%), 허위 참고문헌 또는 AI-generated 환각(41%)이 뒤를 이었다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "귀 기관은 출판이나 배포 전에 다음 문제를 탐지할 수 있다고 얼마나 확신하는가?"
-       },
-       {
-        "t": "p",
-        "x": "그러나 출판 전에 AI-generated 원고를 탐지할 수 있다고 매우 또는 극도로 확신하는 응답은 10%에 그쳤고, 49%는 약간 확신하거나 전혀 확신하지 못했다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "전반적으로 인공지능은 오늘날 연구 무결성에 어떤 영향을 미치고 있는가?"
-       },
-       {
-        "t": "p",
-        "x": "95%는 AI가 새로운 무결성 위험을 만든다는 데 동의했고, 54%는 이미 AI-assisted(AI 지원) 심사 도구를 쓰고 있다. 94%가 무결성 조치를 하나 이상 시행하고 있지만, 63%는 생태계가 학술 기록을 지키고 있다는 데 확신이 거의 없었다."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "체감 영향이 큰 순서대로 근본 원인의 순위를 매기시오."
-       },
-       {
-        "t": "p",
-        "x": "가장 큰 근본 원인으로는 Publish-or-perish(출판하지 않으면 도태) 인센티브가 꼽혔고, 정책과 탐지를 앞지르는 생성형 AI가 근소한 차이로 그 뒤를 이었다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "調査：AIの投稿が\n研究公正を圧迫",
-     "body": "SSPのPulse Checkによると、論文工場とAI-made投稿が公正性を圧迫する。",
-     "mini_headline": "AIが研究公正を圧迫",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSPの2026年9月のPulse Check Pollは、学術出版に携わる181人に、研究公正の課題にどう対応しているかを尋ねた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "現在、貴組織にとって最大の懸念となっている研究公正上の課題はどれか?"
-       },
-       {
-        "t": "p",
-        "x": "73%がAI-generated(AI生成)またはAI-manipulated(AI改ざん)の原稿を上位三つの懸念に挙げ、論文工場(44%)、虚偽の参考文献やAI-generatedのハルシネーション(41%)が続いた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "出版・公開前に以下の問題を検出できることに、貴組織はどの程度自信があるか?"
-       },
-       {
-        "t": "p",
-        "x": "しかし、出版前にAI-generatedの原稿を検出できることに非常に、または極めて自信があるのは10%にとどまり、49%はわずかにしか自信がない、またはまったく自信がないと答えた。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "全体として、人工知能は現在の研究公正にどのような影響を与えているか?"
-       },
-       {
-        "t": "p",
-        "x": "95%がAIは新たな公正性リスクを生んでいると同意し、54%はすでにAI-assisted(AI支援)のスクリーニングツールを使っている。94%が少なくとも一つの公正性対策を実施しているにもかかわらず、63%はエコシステムが学術記録を守れているという自信をほとんど持っていない。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "根本原因を、影響が大きいと思う順に並べよ。"
-       },
-       {
-        "t": "p",
-        "x": "根本原因の最上位はPublish-or-perish(出版か死か)のインセンティブで、政策や検出を上回る速さで進む生成AIが僅差でそれに続いた。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "调查：AI投稿\n冲击科研诚信",
-     "body": "SSP的Pulse Check调查发现，论文工厂和AI-made投稿冲击出版商诚信体系。",
-     "mini_headline": "AI冲击科研诚信",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "SSP于2026年9月开展的Pulse Check Poll询问了学术出版领域的181人，了解他们如何应对科研诚信挑战。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "目前，哪些科研诚信挑战是贵机构最担忧的？"
-       },
-       {
-        "t": "p",
-        "x": "73%的受访者将AI-generated（AI生成）或AI-manipulated（AI篡改）稿件列为前三大担忧之一，其次是论文工厂（44%）以及虚假参考文献或AI-generated幻觉（41%）。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "贵机构对在出版或传播前发现以下问题的能力有多大信心？"
-       },
-       {
-        "t": "p",
-        "x": "然而，只有10%的人对在出版前发现AI-generated稿件非常或极其有信心，49%的人只有一点信心或完全没有信心。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "总体而言，人工智能目前对科研诚信产生了怎样的影响？"
-       },
-       {
-        "t": "p",
-        "x": "95%的人认同AI正在带来新的诚信风险，54%已在使用AI-assisted（AI辅助）筛查工具。尽管94%至少实施了一项诚信措施，63%的人对整个生态系统能否守护学术记录缺乏信心。"
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "请按感知影响大小对根本原因进行排序。"
-       },
-       {
-        "t": "p",
-        "x": "Publish-or-perish（不发表就出局）的激励机制被列为首要根本原因，发展速度超过政策和检测的生成式AI以微弱差距位居其次。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "Encuesta: los envíos con AI\ntensan la integridad científica",
-     "body": "Según el Pulse Check de SSP, las fábricas de artículos y los envíos AI-made tensan la integridad editorial.",
-     "mini_headline": "La AI tensa la integridad científica",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "p",
-        "x": "El Pulse Check Poll de SSP de septiembre de 2026 preguntó a 181 personas del ámbito de la edición académica cómo están respondiendo a los desafíos de integridad de la investigación."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-        "cap": "¿Qué desafíos de integridad de la investigación representan hoy la mayor preocupación para su organización?"
-       },
-       {
-        "t": "p",
-        "x": "El 73% señaló los manuscritos generados o manipulados con AI (AI-generated o AI-manipulated) como una de sus tres principales preocupaciones, seguidos de las fábricas de artículos (44%) y las referencias falsas o alucinaciones AI-generated (41%)."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-3-detection.png",
-        "cap": "¿Qué grado de confianza tiene su organización en su capacidad para detectar los siguientes problemas antes de la publicación o difusión?"
-       },
-       {
-        "t": "p",
-        "x": "Sin embargo, solo el 10% confía mucho o muchísimo en poder detectar manuscritos generados con AI (AI-generated) antes de su publicación, y el 49% confía poco o nada."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-4-impactAI.png",
-        "cap": "En general, ¿qué impacto está teniendo hoy la inteligencia artificial en la integridad de la investigación?"
-       },
-       {
-        "t": "p",
-        "x": "El 95% coincide en que la AI está creando nuevos riesgos para la integridad, y el 54% ya usa herramientas de cribado asistidas por AI (AI-assisted). Aunque el 94% aplica al menos una medida de integridad, el 63% confía poco en que el ecosistema esté protegiendo el registro académico."
-       },
-       {
-        "t": "img",
-        "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-7-rootcause.png",
-        "cap": "Ordene las causas de fondo según su impacto percibido."
-       },
-       {
-        "t": "p",
-        "x": "Los incentivos de “publicar o perecer” (Publish-or-perish) figuran como la principal causa de fondo, y la AI generativa, que avanza más rápido que las políticas y la detección, queda en un ajustado segundo lugar."
-       }
-      ]
-     }
-    }
-   }
-  },
-  {
-   "id": "books-libreoffice",
-   "source_lang": "en",
-   "eyebrow": "AI NEWS",
-   "headline": "LibreOffice의\n무기는 'AI 없음'",
-   "body": "LibreOffice는 데이터 통제권 때문에 기본 설치에 AI를 넣지 않는다.",
-   "mini_headline": "LibreOffice, 기본 AI 없다",
-   "tool": "Books",
-   "source": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-   "accent": "#eb367f",
-   "motif": "swatch",
-   "full": {
-    "mode": "summary",
-    "blocks": [
-     {
-      "t": "img",
-      "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-      "cap": "Image Credits: LibreOffice"
-     },
-     {
-      "t": "p",
-      "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않는다면서도 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
-     },
-     {
-      "t": "p",
-      "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어디에도 네트워크 연결이 필요 없게 하려는 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 했다."
-     },
-     {
-      "t": "p",
-      "x": "LibreOffice를 로컬 AI 모델과 잇는 확장 기능은 지금도 설치할 수 있다. 재단은 지금은 요건을 채우는 통합 기능이 없다며 이번 결정이 “최종적인 거부”가 아니라 현재 기술을 평가한 결과라고 설명했다."
-     }
-    ]
-   },
-   "text": {
-    "en": {
-     "headline": "LibreOffice pitches 'no AI'\nas a software feature",
-     "body": "LibreOffice won't add AI to its default installation, citing users' control over where their data goes.",
-     "mini_headline": "LibreOffice: no AI by default",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "The Document Foundation, the nonprofit behind the open source document editor LibreOffice, said in a blog post this week that while it does not reject AI out of hand, it “will not add” AI to its software for the foreseeable future."
-       },
-       {
-        "t": "p",
-        "x": "Its latest release in late August “contains no generative AI features,” a “deliberate design position” so users’ documents are not uploaded to a server and no part of the software needs a network connection. “Any organisation handling confidential, legally privileged or personal data needs to know where that data goes, and the only assurance that survives an audit is that it does not leave the machine,” it said."
-       },
-       {
-        "t": "p",
-        "x": "Users can still install extensions that connect LibreOffice to local AI models. The nonprofit said no current integration meets its requirements, and called the decision an assessment of today’s technology rather than a “definitive rejection.”"
-       }
-      ]
-     }
-    },
-    "ko": {
-     "headline": "LibreOffice의\n무기는 'AI 없음'",
-     "body": "LibreOffice는 데이터 통제권 때문에 기본 설치에 AI를 넣지 않는다.",
-     "mini_headline": "LibreOffice, 기본 AI 없다",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않는다면서도 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
-       },
-       {
-        "t": "p",
-        "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어디에도 네트워크 연결이 필요 없게 하려는 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 했다."
-       },
-       {
-        "t": "p",
-        "x": "LibreOffice를 로컬 AI 모델과 잇는 확장 기능은 지금도 설치할 수 있다. 재단은 지금은 요건을 채우는 통합 기능이 없다며 이번 결정이 “최종적인 거부”가 아니라 현재 기술을 평가한 결과라고 설명했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "LibreOffice、\n「AIなし」を売りに",
-     "body": "LibreOfficeは、利用者がデータの行方を管理できるよう、標準でAIを載せない。",
-     "mini_headline": "LibreOffice、標準でAIなし",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "オープンソースの文書編集ソフトLibreOfficeを手がける非営利団体The Document Foundationは今週のブログ投稿で、AIを頭ごなしに否定するわけではないが、当面はソフトウェアにAIを「追加しない」と表明した。"
-       },
-       {
-        "t": "p",
-        "x": "8月下旬の最新リリースは「生成AI機能を一切含まない」。これはユーザーの文書がサーバーにアップロードされず、ソフトウェアのどの部分もネットワーク接続を必要としないようにするための「意図的な設計方針」だという。「機密情報や法的な秘匿特権のある情報、個人データを扱う組織は、そのデータがどこへ行くのかを知る必要がある。監査に耐えうる唯一の保証は、データがマシンから出ないことだ」と同団体は述べた。"
-       },
-       {
-        "t": "p",
-        "x": "ユーザーは引き続き、LibreOfficeをローカルAIモデルにつなぐ拡張機能をインストールできる。同団体は現時点で要件を満たす統合はないとし、今回の判断は「決定的な拒絶」ではなく、現在の技術に対する評価だと説明した。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "LibreOffice把\n“无AI”当作卖点",
-     "body": "LibreOffice称为让用户掌控数据去向，默认安装中不会加入AI。",
-     "mini_headline": "LibreOffice默认不含AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "开源文档编辑器LibreOffice背后的非营利组织The Document Foundation本周在一篇博客文章中表示，虽然并不一概排斥AI，但在可预见的未来，其软件“不会加入”AI。"
-       },
-       {
-        "t": "p",
-        "x": "其8月下旬发布的最新版本“不包含任何生成式AI功能”，这是一种“有意为之的设计立场”，确保用户文档不会被上传到服务器，软件的任何部分都无需联网。该组织表示：“任何处理机密、受法律特权保护或个人数据的组织，都需要知道这些数据去了哪里，而唯一经得起审计的保证，就是数据不离开本机。”"
-       },
-       {
-        "t": "p",
-        "x": "用户仍可安装将LibreOffice连接到本地AI模型的扩展。该组织表示，目前没有任何集成方案符合其要求，并称这一决定是对当前技术的评估，而非“最终否定”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "LibreOffice vende el 'sin AI'\ncomo una función del software",
-     "body": "LibreOffice no añadirá AI a su instalación predeterminada para que los usuarios controlen adónde van sus datos.",
-     "mini_headline": "LibreOffice: sin AI por defecto",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "The Document Foundation, la organización sin fines de lucro detrás del editor de documentos de código abierto LibreOffice, afirmó esta semana en una entrada de blog que, aunque no rechaza la AI de plano, “no añadirá” AI a su software en el futuro previsible."
-       },
-       {
-        "t": "p",
-        "x": "Su versión más reciente, de finales de agosto, “no contiene funciones de AI generativa”, una “posición de diseño deliberada” para que los documentos de los usuarios no se suban a un servidor y ninguna parte del software necesite conexión a la red. “Cualquier organización que maneje datos confidenciales, protegidos por secreto profesional o personales necesita saber adónde van esos datos, y la única garantía que resiste una auditoría es que no salgan de la máquina”, señaló."
-       },
-       {
-        "t": "p",
-        "x": "Los usuarios aún pueden instalar extensiones que conectan LibreOffice con modelos de AI locales. La organización dijo que ninguna integración actual cumple sus requisitos y calificó la decisión como una evaluación de la tecnología actual y no como un “rechazo definitivo”."
-       }
-      ]
-     }
-    }
-   },
-   "_i18n_passed": {
-    "ko": {
-     "headline": "LibreOffice의\n무기는 'AI 없음'",
-     "body": "LibreOffice는 데이터 통제권을 이유로 기본 설치에 AI를 넣지 않는다.",
-     "mini_headline": "LibreOffice, 기본 AI 없다",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "오픈소스 문서 편집기 LibreOffice를 운영하는 비영리단체 The Document Foundation은 이번 주 블로그 글에서 AI를 무조건 거부하지는 않지만, 당분간 자사 소프트웨어에 AI를 “추가하지 않겠다”고 밝혔다."
-       },
-       {
-        "t": "p",
-        "x": "8월 말 나온 최신 버전에는 “생성형 AI 기능이 없다”. 사용자 문서가 서버로 올라가지 않고 소프트웨어 어느 부분도 네트워크 연결이 필요 없도록 한 “의도적인 설계 방침”이다. 재단은 “기밀 정보나 법적 비밀유지 특권이 있는 정보, 개인 데이터를 다루는 조직이라면 그 데이터가 어디로 가는지 알아야 하며, 감사를 통과할 수 있는 유일한 보장은 데이터가 기기를 떠나지 않는다는 것”이라고 말했다."
-       },
-       {
-        "t": "p",
-        "x": "사용자는 여전히 LibreOffice를 로컬 AI 모델과 연결하는 확장 기능을 설치할 수 있다. 재단은 현재 요건을 충족하는 통합 기능이 없다며, 이번 결정은 “최종적인 거부”가 아니라 현재 기술에 대한 평가라고 설명했다."
-       }
-      ]
-     }
-    },
-    "ja": {
-     "headline": "LibreOffice、\n「AIなし」を売りに",
-     "body": "LibreOfficeは、利用者がデータの行方を管理できるよう、標準でAIを載せない。",
-     "mini_headline": "LibreOffice、標準でAIなし",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "オープンソースの文書編集ソフトLibreOfficeを手がける非営利団体The Document Foundationは今週のブログ投稿で、AIを頭ごなしに否定するわけではないが、当面はソフトウェアにAIを「追加しない」と表明した。"
-       },
-       {
-        "t": "p",
-        "x": "8月下旬の最新リリースは「生成AI機能を一切含まない」。これはユーザーの文書がサーバーにアップロードされず、ソフトウェアのどの部分もネットワーク接続を必要としないようにするための「意図的な設計方針」だという。「機密情報や法的な秘匿特権のある情報、個人データを扱う組織は、そのデータがどこへ行くのかを知る必要がある。監査に耐えうる唯一の保証は、データがマシンから出ないことだ」と同団体は述べた。"
-       },
-       {
-        "t": "p",
-        "x": "ユーザーは引き続き、LibreOfficeをローカルAIモデルにつなぐ拡張機能をインストールできる。同団体は現時点で要件を満たす統合はないとし、今回の判断は「決定的な拒絶」ではなく、現在の技術に対する評価だと説明した。"
-       }
-      ]
-     }
-    },
-    "zh": {
-     "headline": "LibreOffice把\n“无AI”当作卖点",
-     "body": "LibreOffice称为让用户掌控数据去向，默认安装中不会加入AI。",
-     "mini_headline": "LibreOffice默认不含AI",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "开源文档编辑器LibreOffice背后的非营利组织The Document Foundation本周在一篇博客文章中表示，虽然并不一概排斥AI，但在可预见的未来，其软件“不会加入”AI。"
-       },
-       {
-        "t": "p",
-        "x": "其8月下旬发布的最新版本“不包含任何生成式AI功能”，这是一种“有意为之的设计立场”，确保用户文档不会被上传到服务器，软件的任何部分都无需联网。该组织表示：“任何处理机密、受法律特权保护或个人数据的组织，都需要知道这些数据去了哪里，而唯一经得起审计的保证，就是数据不离开本机。”"
-       },
-       {
-        "t": "p",
-        "x": "用户仍可安装将LibreOffice连接到本地AI模型的扩展。该组织表示，目前没有任何集成方案符合其要求，并称这一决定是对当前技术的评估，而非“最终否定”。"
-       }
-      ]
-     }
-    },
-    "es": {
-     "headline": "LibreOffice vende el 'sin AI'\ncomo una función del software",
-     "body": "LibreOffice no añadirá AI a su instalación predeterminada para que los usuarios controlen adónde van sus datos.",
-     "mini_headline": "LibreOffice: sin AI por defecto",
-     "full": {
-      "mode": "summary",
-      "blocks": [
-       {
-        "t": "img",
-        "src": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-        "cap": "Image Credits: LibreOffice"
-       },
-       {
-        "t": "p",
-        "x": "The Document Foundation, la organización sin fines de lucro detrás del editor de documentos de código abierto LibreOffice, afirmó esta semana en una entrada de blog que, aunque no rechaza la AI de plano, “no añadirá” AI a su software en el futuro previsible."
-       },
-       {
-        "t": "p",
-        "x": "Su versión más reciente, de finales de agosto, “no contiene funciones de AI generativa”, una “posición de diseño deliberada” para que los documentos de los usuarios no se suban a un servidor y ninguna parte del software necesite conexión a la red. “Cualquier organización que maneje datos confidenciales, protegidos por secreto profesional o personales necesita saber adónde van esos datos, y la única garantía que resiste una auditoría es que no salgan de la máquina”, señaló."
-       },
-       {
-        "t": "p",
-        "x": "Los usuarios aún pueden instalar extensiones que conectan LibreOffice con modelos de AI locales. La organización dijo que ninguna integración actual cumple sus requisitos y calificó la decisión como una evaluación de la tecnología actual y no como un “rechazo definitivo”."
-       }
-      ]
-     }
-    }
-   }
-  }
- ]
+  ]
 }

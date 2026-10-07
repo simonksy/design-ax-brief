@@ -6449,6 +6449,113 @@
           "x": "It also covers reordering tracks and editing Album details, sharing a draft before release, turning an existing playlist into an Album, using one Album cover across every song, what happens on publish, and finding and editing Albums after release."
         }
       ]
+    },
+    "music/music-grok-suno-backend": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
+          "cap": "Photo Credit: Mariia Berezovsky"
+        },
+        {
+          "t": "p",
+          "x": "SpaceXAI’s Grok Bot, which is said to provide “AI teammates that do real work for you,” is officially set to begin utilizing Suno’s music generation models, according to a brief X post from Elon Musk."
+        },
+        {
+          "t": "p",
+          "x": "“Important note regarding Grok @bot: Going forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome,” he wrote."
+        },
+        {
+          "t": "p",
+          "x": "Musk added that most Grok Bot requests “are pretty simple and will be handled by a lightning-fast version of Grok 4.8 when that comes out.” Few other details are available; users on X are asking about the rollout timetable and the rights attached to outputs, and one noted that Suno and Midjourney don’t “have official API products.”"
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile ElevenLabs is expanding into music, and Suno kicked off October by launching Speech, “the first audio model that generates voice and music together as one cohesive track.” Suno’s legal battles, now including a terms-focused investigation in Italy, continue."
+        }
+      ]
+    },
+    "music/music-tencent-music-deepseek": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
+          "cap": "Credit: mundissima / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "China-based AI company DeepSeek is close to raising at least RMB 80 billion (USD $12 billion) in a new funding round, with Tencent Holdings among its biggest backers, Bloomberg reported on Tuesday (October 6). Tencent and battery maker CATL “have committed among the largest amounts.”"
+        },
+        {
+          "t": "p",
+          "x": "Tencent is the controlling shareholder of Tencent Music Entertainment (TME), which integrated DeepSeek into its music streaming service in 2025. The round could end up near RMB 100 billion ($15 billion); DeepSeek is targeting a stock market listing in early 2027."
+        },
+        {
+          "t": "p",
+          "x": "TME disclosed the integration on an earnings call in March 2025, when CEO Ross Liang said DeepSeek had been built into its AI songwriting tool, AI assistant, comment sections, and recommendation pages. In its Q2 2026 report, TME said AI agents in QQ Music and Kugou Music now create personalized playlists on the fly."
+        },
+        {
+          "t": "p",
+          "x": "The International Confederation of Music Publishers (ICMP) has previously accused DeepSeek of reproducing copyrighted song lyrics, with Director General John Phelan alleging it used protected music commercially without licenses."
+        }
+      ]
+    },
+    "music/music-humanculture-first-clients": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Earlier this year we reported on a startup founded by former Defected Records and AWAL execs developing tech to predict how well content would perform on social media before it was posted."
+        },
+        {
+          "t": "p",
+          "x": "Now HumanCulture has launched officially, including announcing its first set of clients. Defected is one of them, along with Red Light Management, Armada Big Family, Arketyp, Knox Artists and FourFour Digital."
+        },
+        {
+          "t": "p",
+          "x": "The focus is still on predictive analytics. “By analysing storytelling themes, visual styles, audience behaviour and community conversations alongside quantitative performance data, it gives creative teams evidence-based direction before publishing rather than retrospective reporting afterwards,” is the pitch, claiming “82-90% accuracy in predicting content performance”."
+        },
+        {
+          "t": "p",
+          "x": "The launch also revealed a feature called Jasper, which HumanCulture is describing as a “built-in AI creative strategist” who clients can converse with to get ideas for campaigns, content calendars and other marketing tasks."
+        },
+        {
+          "t": "p",
+          "x": "The company is stressing that its tech adapts to each individual artist, starting with an onboarding process that analyses up to a year of their Instagram and TikTok posts and audience comments."
+        },
+        {
+          "t": "p",
+          "x": "HumanCulture is using ‘per-talent’ pricing plans, starting at £65 per talent per month for companies using it for 1-9 artists, dropping to £52.50 per month for those with 50-99 on the books."
+        }
+      ]
+    },
+    "music/music-suno-italy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/09/shutterstock_2785216973-1.jpg",
+          "cap": "Photo credit: FotoField / Shutterstock.com"
+        },
+        {
+          "t": "p",
+          "x": "Italy's competition authority (AGCM) said on Tuesday (October 6) that it has opened an investigation into Suno's terms of service, which it says \"may be unfair pursuant to Article 33 of the Consumer Code.\""
+        },
+        {
+          "t": "p",
+          "x": "Its concerns include price changes, account terminations, US-based arbitration, and a content license that it says requires users to waive their moral rights. The terms \"seem to give Suno broad discretion to make unilateral changes to the contract, the service and the subscription prices, without having to provide any justification,\" the authority said."
+        },
+        {
+          "t": "p",
+          "x": "The AGCM said \"the contractual provisions on copyright deserve particular attention,\" calling the license imposed on consumers insufficiently defined and saying it imposes the waiver of moral rights contrary to Italy's copyright statute, Law 633/1941. It also flagged binding individual arbitration in the United States and a waiver of class actions."
+        },
+        {
+          "t": "p",
+          "x": "The authority will open a public consultation on the terms over the next few weeks. Its fines for unfair contract terms range between €5,000 and €10 million. MBW has reached out to Suno for comment."
+        }
+      ]
     }
   }
 }

@@ -1,9 +1,35 @@
 {
-  "date": "2026-10-07",
   "section": "books",
+  "now_iso": "2026-10-07T22:04:00Z",
   "window_hours": 336,
-  "generated_at": "2026-10-06T22:00:38Z",
   "items": [
+    {
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "source": "WIRED",
+      "category": "books",
+      "published_iso": "2026-10-07T08:30:00Z",
+      "og_image": "https://media.wired.com/photos/6abfd3ec63cea41649272758/191:100/w_1280,c_limit/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
+      "excerpt": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers pick out books authored by real humans."
+    },
+    {
+      "title": "‘We have fine dining, and we have McDonalds’: Publishers hotly debate AI narration at FBF",
+      "url": "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-10-07T15:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+      "excerpt": "Publishers from Blinkist, Storytel and Hörbuch Hamburg Verlag debated the value of AI narration on a Frankfurt Book Fair panel on 7 October."
+    },
+    {
+      "title": "Pangram CEO says ‘no bias’ in its AI-detection tool, as adoption rises",
+      "url": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-10-07T07:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
+      "excerpt": "Pangram's co-founder defended its AI detection tool against claims it penalises authors of colour, citing a huge upswing in adoption by publishers."
+    },
     {
       "title": "Sales of Thélyson Orélien's novel skyrocket despite AI and plagiarism accusations",
       "url": "https://www.thebookseller.com/news/sales-of-thelyson-oreliens-novel-skyrocket-despite-ai-and-plagiarism-accusations",
@@ -11,9 +37,9 @@
       "category": "books",
       "published_iso": "2026-10-06T07:45:00Z",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/asd12.jpg",
-      "excerpt": "Two weeks after the X account 'Balance ton Claude' accused Thélyson Orélien of writing most of his award-winning novel C'était ça ou mourir with generative AI, sales of the book have surged rather than collapsed.",
+      "excerpt": "A fortnight after an X account accused Orélien of writing most of his award-winning novel with generative AI, sales have surged rather than dipped.",
       "history_match": {
-        "score": 0.471,
+        "score": 0.422,
         "date": "2026-09-24",
         "url": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
         "title": "Canadian author Thélyson Orélien accused of using AI to write award-winning novel",
@@ -21,172 +47,98 @@
       }
     },
     {
-      "title": "BMJ Group, Sage and more to share 20m research papers with AI company Redpine",
-      "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-10-06T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Anders-Hammarback.jpg",
-      "excerpt": "Five academic publishers (BMJ Group, Sage, IOP Publishing, IGI Global and Wanfang Data) struck a deal giving Redpine's AI agents licensed access to 20 million peer-reviewed papers, a new licensing model for publisher content."
-    },
-    {
-      "title": "OpenAI 'trained models' on books from 'sketchy AF' LibGen, unsealed court filings reveal",
-      "url": "https://www.thebookseller.com/news/openai-trained-models-on-books-from-sketchy-af-libgen-unsealed-court-filings-reveal",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-09-23T11:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/555/shutterstock_18941542211.jpg",
-      "excerpt": "Unsealed filings in the authors' case show OpenAI staff discussed training early GPT models on Library Genesis books, debated how to describe the source publicly, and weighed the cost of buying books instead.",
-      "history_match": {
-        "score": 0.223,
-        "date": "2026-09-18",
-        "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Frankfurter Buchmesse 2026: Historian Jill Lepore Speaks of an Industry—and a World—'On the Knife Edge of History'",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-10-06T13:40:12Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/2026-10-06_Frankfurt_PressConference_0299-scaled.jpeg",
-      "excerpt": "At Frankfurt's opening press conference, where AI was called 'the issue on everyone's minds', Jill Lepore warned against handing the future to tech moguls, and German publishers' chair Sebastian Guggolz said AI cannot make up for falling reading competence."
-    },
-    {
-      "title": "Frankfurter Buchmesse 2026: Program Picks",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-program-picks/",
-      "source": "Publishing Perspectives",
-      "category": "books",
-      "published_iso": "2026-10-02T11:51:01Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/On-the-Books-Frankfurter-Buchmesse-Preview-Recording-Shot.png",
-      "excerpt": "Selected Frankfurt 2026 sessions include 'AI Narration Beyond the Lab: Use Cases, Business Models and Listener Acceptance' and a look at how rights trading changes in an AI-driven environment."
-    },
-    {
-      "title": "Kevin Roose Didn't Use AI to Write His Book About AI",
-      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/",
-      "source": "WIRED",
-      "category": "books",
-      "published_iso": "2026-10-06T10:30:00Z",
-      "og_image": "https://media.wired.com/photos/6ac390393e484daf0cf6af34/191:100/w_1280,c_limit/100516-Big%20Interview%20K%20Roose%20Solo.jpg",
-      "excerpt": "On WIRED's Big Interview, the author of The AGI Chronicles says his book 'was written by a very tired, overworked, under-slept human being', and talks about where AI fits, and doesn't, in writing a book."
-    },
-    {
-      "title": "LibreOffice says 'no AI' is now a software feature",
-      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-      "source": "TechCrunch",
-      "category": "books",
-      "published_iso": "2026-10-06T15:25:00Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-      "excerpt": "The open-source document editor used by many writers says it won't add AI to its default configuration, citing user privacy, and is pitching 'no AI' as a feature against Word and Docs."
-    },
-    {
-      "title": "Research Integrity in Scholarly Communications — SSP Pulse Check Report",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-10-06T09:30:14Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/chart-2-concerns.png",
-      "excerpt": "SSP's latest Pulse Check survey shows how scholarly publishers are dealing with research integrity as paper mills, manipulation and generative-AI-made submissions put integrity systems under strain."
-    },
-    {
-      "title": "Guest Post — Six Ways to Close the Attribution Loop in Publishing",
-      "url": "https://scholarlykitchen.sspnet.org/2026/09/24/guest-post-six-ways-to-close-the-attribution-loop-in-publishing/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-09-24T09:30:01Z",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/09/iStock-1461608537.jpg",
-      "excerpt": "A six-part model for explaining spikes in manuscript submissions as discovery shifts to agentic AI and zero-click behavior, and for how publishers should reach both humans and the AI tools they use.",
-      "history_match": {
-        "score": 0.192,
-        "date": "2026-09-25",
-        "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/",
-        "title": "Guest Post — Peer Review Triage: Deciding What’s Worth Saving",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Can Better Wording Fix the 'Made With AI' Problem? New 2026 Research Says It's Complicated",
-      "url": "https://the-digital-reader.com/can-better-wording-fix-the-made-with-ai-problem-new-2026-research-says-its-complicated/",
-      "source": "The Digital Reader",
-      "category": "books",
-      "published_iso": "2026-10-02T15:17:43Z",
-      "og_image": "https://the-digital-reader.com/wp-content/uploads/2026/10/Wording.png",
-      "excerpt": "New 2026 research looks at whether rewording AI-disclosure labels changes how readers trust AI-assisted content. It matters because 'Made with AI' labels are becoming standard on books and digital media."
-    },
-    {
-      "title": "Another AI scandal affects an author in competition for a prestigious award",
-      "url": "https://janefriedman.com/another-ai-scandal-affects-an-author-in-competition-for-a-prestigious-award/",
-      "source": "Jane Friedman",
-      "category": "books",
-      "published_iso": "2026-09-30T16:00:00Z",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
-      "excerpt": "Jane Friedman argues every high-profile literary award that tries to exclude AI-assisted work risks a scandal like this one (likely the same Orélien story The Bookseller covered; the article is paywalled).",
-      "history_match": {
-        "score": 0.171,
-        "date": "2026-09-13",
-        "url": "https://lithub.com/50-things-every-ai-working-with-humans-should-know/",
-        "title": "50 Things Every AI Working With Humans Should Know — Ken Liu's machine-assisted story",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Veteran Producers Launch Bookish 'Micromovie' Studio",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/people/article/101391-veteran-producers-launch-bookish-micromovie-studio.html",
+      "title": "S&S Staff Balk at AI Performance-Tracking Software Talks",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
       "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-01T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131801-1.JPG",
-      "excerpt": "Rommi, a new studio making vertical live-action films from romance novels, launches as HarperCollins' Harlequin adapts some of its titles into AI-generated 'micro-dramas' with Bengaluru tech company Dashverse."
+      "published_iso": "2026-10-07T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG",
+      "excerpt": "Simon & Schuster employees are circulating an open letter opposing use of Skan AI or similar software to monitor their work; the CEO says there is no company-wide rollout."
     },
     {
-      "title": "The Concept of the Asian Robot Maid Has Haunted My Life",
-      "url": "https://electricliterature.com/the-concept-of-the-asian-robot-maid-has-haunted-my-life/",
-      "source": "Electric Literature",
+      "title": "Frankfurt Book Fair 2026: Five Questions with Elisabeth Jaquette",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101453-frankfurt-book-fair-2026-five-questions-with-elisabeth-jaquette.html",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-01T11:10:00Z",
-      "og_image": "https://electricliterature.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-094028.png",
-      "excerpt": "'I, Roomba', an essay from Franny Choi's We Radiant Things, looks at the robot-maid trope and the rise of physical AI, drawing on industry reports on embodied AI (literary essay, a weak fit)."
+      "published_iso": "2026-10-07T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131957-1.PNG",
+      "excerpt": "The executive director of Words Without Borders on why translated literature matters and why the organization is rejecting AI translation.",
+      "history_match": {
+        "score": 0.165,
+        "date": "2026-09-25",
+        "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
+        "title": "Frankfurt Book Fair 2026: Redrawing the Map",
+        "band": "related"
+      }
+    },
+    {
+      "title": "TRACE Project Launches to Advance AI interoperability",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-10-07T09:30:07+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-scaled.jpg",
+      "excerpt": "The scholarly publishing community launches TRACE, a project to improve generative AI systems' interoperability, verifiability and usage tracking of licensed content."
+    },
+    {
+      "title": "Barrierefreies Lesen und KI-gestützte Hörbuchproduktion",
+      "url": "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501",
+      "source": "Börsenblatt",
+      "category": "books",
+      "published_iso": "2026-10-07T14:00:54+02:00",
+      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW",
+      "excerpt": "The 2026 Digital Publishing Award, presented at Frankfurt on 7 October, honours Avneesh Singh, Nahdet Misr Group, Pozotron Studio (AI-assisted audiobook production) and ReadBee from 42 entries."
+    },
+    {
+      "title": "KI in Büchern: Schreiben nein, Übersetzen ja?",
+      "url": "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193",
+      "source": "Börsenblatt",
+      "category": "books",
+      "published_iso": "2026-10-06T13:45:10+02:00",
+      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
+      "excerpt": "79 percent of respondents in a new survey support AI for book translation, but only 29 percent would read a book written entirely by AI."
+    },
+    {
+      "title": "Neues Label: \"Von Menschen gemacht\"",
+      "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849",
+      "source": "Börsenblatt",
+      "category": "books",
+      "published_iso": "2026-10-05T10:19:40+02:00",
+      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg?h=6f727fa6&itok=EEkAbAuJ",
+      "excerpt": "18 German-language children's and YA publishers launch a 'written, designed, checked by humans' label to show text, illustration and design were made without generative AI."
+    },
+    {
+      "title": "How to Listen to Kindle Books With CastReader",
+      "url": "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-10-07T16:49:55+00:00",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/07124918/Kindle_Listening_Routes.png",
+      "excerpt": "A guide to CastReader, which reads Kindle Cloud Reader books aloud with cloud AI voices and offers an 'AI Explain' feature for difficult passages."
+    },
+    {
+      "title": "From Story Seeds To Stories, And Writing An Author’s Note, With Joanna Penn",
+      "url": "https://www.thecreativepenn.com/2026/10/07/from-story-seeds-to-stories-and-writing-an-authors-note-with-joanna-penn/",
+      "source": "The Creative Penn",
+      "category": "books",
+      "published_iso": "2026-10-07T06:30:00+00:00",
+      "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/10/story-seeds-and-authors-note.jpg",
+      "excerpt": "Joanna Penn on turning story ideas into fiction and why an author's note matters in an age of AI; intro covers KDP's two-titles-per-week cap and AI-related Digital Publishing Awards at Frankfurt."
     }
   ],
+  "date": "2026-10-08",
   "dedup": {
     "dropped": 0,
-    "kept": 13,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 2,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-07",
-      "title": "전자책을 오디오북으로 바꾸는 폰 TCL P80, 기기 안에서 처리 TCL P80 Pro와 Ultra는 전자책을 AI 낭독 오디오북이나 팟캐스트식 요약으로 기기 안에서 바꾼다.",
-      "url": "https://gizmodo.com/tcl-p80-ultra-can-convert-ebooks-into-audiobooks-and-podcasts-using-ai-2000806765"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "Podcast: We Spoke to an Amazon Worker Destroying Books for AI",
-      "url": "https://www.404media.co/podcast-we-spoke-to-an-amazon-worker-destroying-books-for-ai/"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "경계 없는 독서, 대화하는 독서 밀리의서재가 그린 읽기의 미래 kt 밀리의서재가 경계 없는 독서와 대화하는 독서를 포함한 미래 읽기 경험의 다섯 가지 지향점을 내놨다.",
-      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=406515"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "생성형 AI 정책을 쓰는 공공도서관의 실제 문장들 미국 공공도서관들이 직원과 이용자를 위한 생성형 AI 정책을 어떻게 쓰고 있는지 살핀 논문이 나왔다.",
-      "url": "https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/"
-    },
-    {
-      "date": "2026-09-07",
-      "title": "코파일럿은 책을 베끼지 않는다 마이크로소프트의 법정 답변 마이크로소프트가 약식판결을 신청하며, 코파일럿이 책을 통째로 재현하는 일은 거의 없다고 법원에 밝혔다.",
-      "url": "https://www.unite.ai/microsoft-tells-court-copilot-rarely-reproduces-books-in-ai-copyright-mdl/"
-    },
     {
       "date": "2026-09-08",
       "title": "정식 교육이 채우는 건 10%뿐 AI 시대 재교육은 현장에서 만든다 AI가 일을 흔드는 지금 정식 교육이 채우는 몫은 10%뿐이라고 짚는다.",
@@ -771,6 +723,31 @@
       "date": "2026-10-06",
       "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case",
       "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Frankfurter Buchmesse 2026: Historian Jill Lepore Speaks of an Industry—and a World—'On the Knife Edge of History'",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Research Integrity in Scholarly Communications — SSP Pulse Check Report",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "LibreOffice says 'no AI' is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "BMJ Group, Sage and more to share 20m research papers with AI company Redpine",
+      "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Kevin Roose Didn't Use AI to Write His Book About AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
     }
   ]
 }
