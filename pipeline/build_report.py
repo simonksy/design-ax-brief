@@ -14,6 +14,7 @@ import argparse
 import datetime
 import json
 import os
+import subprocess
 import re
 from collections import defaultdict
 
@@ -104,18 +105,57 @@ def card_link(base, lang, section, card_id):
 
 
 MAILABLE_IMG = (".jpg", ".jpeg", ".png", ".gif")
+MAIL_DIR = "mail"
+MAIL_WIDTH = 1032          # 메일 본문 표시 폭 516px의 2배 — 고해상도 화면까지 커버한다
+MAIL_QUALITY = "70"
+
+
+def mail_rel(rel):
+    """원본 카드 이미지 경로 → 메일용 축소본의 상대 경로."""
+    d, name = os.path.split(rel)
+    return os.path.join(d, MAIL_DIR, os.path.splitext(name)[0] + ".jpg")
 
 
 def mail_image(base, rel):
-    """카드 이미지의 절대 주소. 메일에서는 사이트와 달리 상대 경로가 안 먹는다.
+    """메일에 실을 그림의 절대 주소. 상대 경로는 메일에서 안 먹는다.
 
-    svg와 webp는 뺀다 — Outlook과 몇몇 클라이언트가 못 그리고, 깨진 그림 자리가
-    남는 것보다 글만 가는 게 낫다. 렌더러는 이미지 없는 사례를 이미 처리한다."""
+    카드 그림은 사이트 기준으로 만들어져 있어서 메일에는 너무 무겁다 — W40 사례
+    4장의 원본을 합치면 2.98MB이고 그중 PNG 두 장이 2.6MB인데, 메일은 그걸 516px로
+    그리면서 원본을 통째로 내려받는다. 그래서 메일은 늘 축소본을 가리킨다.
+
+    svg와 webp는 아예 뺀다 — Outlook과 몇몇 클라이언트가 못 그리고, 깨진 그림
+    자리가 남는 것보다 글만 가는 게 낫다. 렌더러는 이미지 없는 사례를 처리한다."""
     if not rel:
         return ""
     if not rel.lower().endswith(MAILABLE_IMG):
         return ""
-    return f"{base.rstrip('/')}/{rel.lstrip('/')}"
+    return f"{base.rstrip('/')}/{mail_rel(rel).lstrip('/')}"
+
+
+def ensure_mail_image(rel, root=None):
+    """메일용 축소본을 굽는다. 이미 있으면 그대로 두고 True.
+
+    sips는 macOS에만 있다 — 이 파이프라인은 사용자의 Mac에서 도는 cron이 돌리므로
+    그걸 쓴다. 없거나 실패하면 False를 돌려주고, 호출부가 원본 주소로 떨어진다."""
+    base = root or ROOT
+    src = os.path.join(base, rel)
+    if not os.path.exists(src):
+        return False
+    out = os.path.join(base, mail_rel(rel))
+    if os.path.exists(out):
+        return True
+    os.makedirs(os.path.dirname(out), exist_ok=True)
+    try:
+        # -Z는 긴 변만 보고 줄인다. 원본이 더 작으면 sips는 키우지 않는다.
+        subprocess.run(["sips", "-s", "format", "jpeg",
+                        "-s", "formatOptions", MAIL_QUALITY,
+                        "-Z", str(MAIL_WIDTH), src, "--out", out],
+                       check=True, capture_output=True)
+    except (OSError, subprocess.CalledProcessError):
+        if os.path.exists(out):
+            os.remove(out)
+        return False
+    return os.path.exists(out)
 
 
 def load_graph(path=None):
@@ -190,6 +230,19 @@ def build_prompts(edition, archive=None, graph=None, base_url="https://axitnow.c
     }
 
 
+def evidence_image(base_url, rel):
+    """메일에 실을 주소를 고른다: 축소본이 있으면 그걸, 못 만들면 원본을.
+
+    그림 없는 메일보다 무거운 그림이 낫다 — 특히 첫 사례는 무료 수신자가 보는
+    단 하나라서 그 자리가 비면 그림 없는 메일이 된다."""
+    small = mail_image(base_url, rel)
+    if not small:
+        return ""
+    if ensure_mail_image(rel):
+        return small
+    return f"{base_url.rstrip('/')}/{rel.lstrip('/')}"
+
+
 def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com",
                   archive=None):
     """언어별 답을 reports/<edition>/<lang>.json으로 쓴다.
@@ -215,7 +268,7 @@ def apply_answers(edition, answers, out_root=None, base_url="https://axitnow.com
                 "section": c.get("section"),
                 "headline": (c.get("headline") or "").replace("\n", " "),
                 "url": card_link(base_url, lang, c.get("section"), c.get("id")),
-                "image": mail_image(base_url, c.get("image")),
+                "image": evidence_image(base_url, c.get("image")),
                 "role": item.get("role", ""),
             })
         json.dump({"edition": edition, "lang": lang,

@@ -128,9 +128,61 @@ def test_evidence_card_becomes_deep_link_and_absolute_image():
                          "evidence": [{"card": "marketing/ads", "role": "떠받친다"}]}})
     e = got["evidence"][0]
     assert e["url"] == "https://axitnow.com/ko/?c=marketing:ads", e
-    assert e["image"] == "https://axitnow.com/pipeline/media/ads.jpg", e
+    assert e["image"].startswith("https://axitnow.com/pipeline/media/"), e
     assert e["headline"] == "ChatGPT 광고" and e["role"] == "떠받친다", e
     assert e["section"] == "marketing", e
+
+
+# 카드 그림은 사이트 기준으로 만들어져 있다. W40 리포트의 사례 4장 원본을 합치면
+# 2.98MB이고, 그중 PNG 두 장이 2.6MB다. 메일은 그걸 516px로 그리면서 원본을 통째로
+# 내려받는다 — 모바일 데이터로 메일을 여는 사람에게 무례하다. 메일용 축소본을 따로
+# 굽고 메일은 그쪽을 가리킨다.
+def test_mail_image_points_at_the_mail_derivative():
+    from build_report import mail_image
+    u = mail_image("https://axitnow.com", "pipeline/media/x.png")
+    assert u == "https://axitnow.com/pipeline/media/mail/x.jpg", u
+    # 원본이 jpg여도 같은 자리를 가리킨다 — 메일용은 항상 다시 굽는다
+    u2 = mail_image("https://axitnow.com", "pipeline/media/y.jpg")
+    assert u2 == "https://axitnow.com/pipeline/media/mail/y.jpg", u2
+
+
+def test_unmailable_formats_still_yield_nothing():
+    from build_report import mail_image
+    for ext in ("svg", "webp"):
+        assert mail_image("https://x", f"pipeline/media/a.{ext}") == "", ext
+    assert mail_image("https://x", None) == ""
+
+
+def test_derivative_is_built_and_is_smaller():
+    """실제로 구워 보고 작아졌는지 본다 — 경로만 맞고 파일이 없으면 메일에 깨진
+    그림 자리가 남는다. 원본보다 크면 굽는 의미가 없다."""
+    import subprocess, tempfile, shutil
+    from build_report import ensure_mail_image
+    if not shutil.which("sips"):
+        return                      # macOS 밖에서는 건너뛴다
+    with tempfile.TemporaryDirectory() as root:
+        media = os.path.join(root, "pipeline", "media")
+        os.makedirs(media)
+        src = os.path.join(media, "big.png")
+        # 2000px 짜리 PNG을 만든다 (메일 표시 폭의 네 배)
+        subprocess.run(["sips", "-s", "format", "png", "-z", "2000", "2000",
+                        "/System/Library/CoreServices/DefaultDesktop.heic",
+                        "--out", src], check=True, capture_output=True)
+        made = ensure_mail_image("pipeline/media/big.png", root=root)
+        assert made, "축소본을 만들지 못했다"
+        out = os.path.join(media, "mail", "big.jpg")
+        assert os.path.exists(out), out
+        assert os.path.getsize(out) < os.path.getsize(src), (
+            os.path.getsize(out), os.path.getsize(src))
+
+
+def test_missing_source_falls_back_to_the_original():
+    """축소본을 못 만들면 원본 주소라도 내보낸다 — 그림 없는 메일보다 무거운
+    그림이 낫다."""
+    arch = [dict(ARCH[0], image="pipeline/media/nope.jpg")]
+    got = _apply({"ko": {"thesis": "t", "ground": "g",
+                         "evidence": [{"card": "marketing/ads", "role": "r"}]}}, arch)
+    assert got["evidence"][0]["image"] ==         "https://axitnow.com/pipeline/media/nope.jpg", got
 
 
 def test_thesis_and_ground_pass_through():
