@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="AX-it NOW">
+  <!-- 마스트헤드 로고는 'AX-it'과 'NOW'가 goo 필터로 녹아 붙는 모프다. 16px 탭에서는
+       글자가 안 읽히므로 그 형태 언어만 가져온다: 두 덩이가 목으로 이어진 메타볼.
+
+       필터를 쓰지 않고 패스로 구워 둔다 — SVG 파비콘의 필터 지원은 브라우저마다
+       갈리고, 안 먹으면 동그라미 두 개로 흩어져 보인다.
+
+       마크는 사각형을 거의 꽉 채운다. 여백을 넉넉히 뒀더니 16px에서 점으로 보였다. -->
+  <rect width="100" height="100" rx="21" fill="#17150f"/>
+  <defs>
+    <linearGradient id="g" x1="14" y1="26" x2="86" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8a2be0"/>
+      <stop offset=".48" stop-color="#0070f3"/>
+      <stop offset="1" stop-color="#ff3d8b"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)"
+        d="M44.14 35.86
+           Q50 43 55.86 35.86
+           A20 20 0 1 1 55.86 64.14
+           Q50 57 44.14 64.14
+           A20 20 0 1 1 44.14 35.86
+           Z"/>
+</svg>

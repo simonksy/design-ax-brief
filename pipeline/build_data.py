@@ -183,6 +183,9 @@ SHARE_TMPL = """<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <title>{title} · AX-it NOW</title>
 <meta name="description" content="{desc}">
 <meta property="og:type" content="article">
