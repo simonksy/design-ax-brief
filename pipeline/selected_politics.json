@@ -1,115 +1,113 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "politics",
   "picks": [
     {
       "rank": 1,
-      "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
-      "source": "wired.com",
-      "published_iso": "2026-10-07T15:34:33.446Z",
-      "og_image": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-      "excerpt": "The US government’s Tradewinds initiative has made it easier to throw millions of dollars at “nontraditional” defense contractors, including OpenAI, Anthropic, and Google.",
+      "title": "AI giants promise to play nice with personal data after UK watchdog scrutiny",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "source": "theregister.com",
+      "published_iso": "2026-10-08T12:35:00+00:00",
+      "og_image": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
+      "excerpt": "The UK ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI and Stability AI made or committed to changes in how they use personal data to train AI; the watchdog now turns to autonomous agents and continues a separate Grok probe.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "AI procurement rules: the Pentagon's Tradewinds fast-track (5-minute video pitches) changes how AI vendors including OpenAI, Anthropic and Google sell to defense."
+      "rationale": "Official regulator outcome: the UK ICO reports that ten AI developers changed or committed to change how they use personal data for training, and says it will look at autonomous agents next."
     },
     {
       "rank": 2,
-      "title": "Exclusive: Inside Trump's AI science summit",
-      "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
-      "source": "axios.com",
-      "published_iso": "2026-10-07T19:00:06+00:00",
-      "og_image": "https://images.axios.com/sceicdpm2rgOIJ7dPsnuLKBZTRU=/0x0:1920x1080/1366x768/2026/03/20/1774024302418.jpeg",
-      "excerpt": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios. The administration is looking for industry to step in amid cuts to federal science research funding.",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+      "source": "theverge.com",
+      "published_iso": "2026-10-08T17:58:33+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "USA Today Co. filed a copyright lawsuit against OpenAI, joining a growing list of news publishers alleging their journalism was used without permission to train AI models.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New official announcement: a White House AI science summit that asks industry to fund superintelligence-driven research while federal science budgets are cut."
+      "rationale": "New court filing in AI copyright litigation: a major US newspaper group sues OpenAI over training data, which adds to the publisher cases that will shape training-data rules."
     },
     {
       "rank": 3,
-      "title": "The EU shelved AI liability rules. Sam Altman has revived the debate.",
-      "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
-      "source": "politico.eu",
-      "published_iso": "2026-10-06T19:18:07+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-      "excerpt": "OpenAI’s CEO triggers ‘told you so’ moment for fans of liability laws in Europe.",
+      "title": "Data centers face a sweeping new power regime",
+      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+      "source": "axios.com",
+      "published_iso": "2026-10-08T09:15:05+00:00",
+      "og_image": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+      "excerpt": "Lawmakers are considering bipartisan legislation, unveiled last week, that would force data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "AI liability is back on the EU agenda after Altman's remarks, reopening a shelved rule that would decide who pays when AI systems cause harm."
+      "rationale": "A new bipartisan bill would make AI data centers pay for and limit their grid use while also fast-tracking power infrastructure, which affects where and how AI compute gets built."
     },
     {
       "rank": 4,
-      "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
-      "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-      "source": "axios.com",
-      "published_iso": "2026-10-06T13:05:06+00:00",
-      "og_image": "https://images.axios.com/4iSJg-XnM2SqScKNUxnprgBge30=/128x128/smart/2026/10/06/1791294167803.jpg",
-      "excerpt": "A new crop of powerful Western open-weight AI systems from Reflection and Mistral is narrowing China's recent lead, giving businesses and governments alternatives to Chinese open models.",
-      "axis": "geopolitics",
+      "title": "Singapore's central bank wants all FinTech AI use cases subject to independent review",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+      "source": "theregister.com",
+      "published_iso": "2026-10-08T00:53:03+00:00",
+      "og_image": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "excerpt": "The Monetary Authority of Singapore wants every AI use case at fintech firms to be subject to independent review.",
+      "axis": "policy",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Covers the US-China AI competition through new releases: Western open-weight models from Reflection and Mistral give governments alternatives to Chinese open models."
+      "rationale": "Regulatory proposal from a financial supervisor: MAS would require independent review of every AI use case at fintech firms, which raises the compliance bar for teams building AI in finance."
     },
     {
       "rank": 5,
-      "title": "Europe’s AI policing plan stokes privacy concerns",
-      "url": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/",
+      "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
+      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
       "source": "politico.eu",
-      "published_iso": "2026-10-05T17:28:14+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-      "excerpt": "The EU police agency will have to contend with both cybercriminals and privacy activists.",
-      "axis": "policy",
+      "published_iso": "2026-10-06T17:07:45+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+      "excerpt": "Ecosia, the German search engine, replaced Mistral with Chinese open-source AI models, complicating Europe's digital-sovereignty push.",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Europol's plan to expand its AI capabilities brings EU privacy rules into conflict with AI-powered law enforcement."
+      "rationale": "AI geopolitics as a concrete decision: Ecosia switched from Mistral to Chinese open-weight models, which tests Europe's digital-sovereignty goals."
     }
   ],
   "alternates": [
-    "https://cset.georgetown.edu/article/the-triumph-of-tech-fueled-propaganda/",
-    "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/",
-    "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
-    "https://techpolicy.press/uk-wants-to-lead-the-world-on-ai-safety-it-cant-decide-where-to-start",
-    "https://techpolicy.press/the-uns-ai-panel-sees-misalignment-we-see-corporate-misbehavior",
-    "https://www.chinatalk.media/p/chinas-ai-safety-money-problem",
-    "https://thediplomat.com/2026/10/data-centers-in-the-asia-pacific/"
+    "https://www.lawfaremedia.org/article/the-ai-model-distillation-paradox",
+    "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+    "https://thediplomat.com/2026/10/ai-and-the-risk-to-democracy/",
+    "https://ainowinstitute.org/news/announcement/ai-nows-aashna-agarwal-testifies-before-nyc-council-committee-of-the-whole",
+    "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/"
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/": {
+      "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966": {
         "verdict": "new",
-        "nearest": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+        "nearest": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
         "new_action": ""
       },
-      "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit": {
-        "verdict": "follow-up",
-        "nearest": "https://www.whitehouse.gov/releases/2026/10/us-leads-international-coalition-to-endorse-kyoto-vision-for-a-golden-age-of-science/",
-        "new_action": "White House announced a new presidential AI/superintelligence science summit (Thursday), a separate event from the 9/30 Super Intelligence EO and the 10/05 Kyoto Vision coalition release."
-      },
-      "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/": {
+      "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
+        "nearest": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
         "new_action": ""
       },
-      "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china": {
+      "https://www.axios.com/2026/10/08/data-centers-power-regime": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
+        "nearest": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
         "new_action": ""
       },
-      "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/": {
+      "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
+      },
+      "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/": {
+        "verdict": "new",
+        "nearest": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+        "new_action": ""
       }
     },
-    "note": "Dropped: CSET 'Should We Track AI Chips?' (same CSET chip-location-verification report as 'Tracking AI Chips: What Does It Cost?' published 9/30; upstream flagged it as a repeat yesterday). Brookings 'Trump's morally binding AI pact is not enough' (commentary on the voluntary AI standards published 9/30). Ars AI-song streaming fraud sentencing (a criminal case, not policy, and music already covered it). Register South Korean president cyber-attack tools (fails the AI-deletion test because the headline still works without AI). Common Sense Media ChatGPT for Teens (an advocacy rating, not a government action, so it is off the three axes). Ranked below the picks as commentary/analysis/interview: CSET propaganda op-ed, Diplomat x2, TPP x3 (UK safety, UN panel brief, regulate-dev op-ed), Lawfare Audrey Tang interview, ChinaTalk. Axios open-weight carries a 'related' history_match to the 9/29 OpenAI rogue-agents story, but that match is a false positive from word overlap: the two stories have different subjects. Europol was dropped yesterday only for the politico.eu cap and was never published, so it is fresh. Outlets: wired 1, axios 2, politico.eu 2, which meets the cap of 2 and gives 3 distinct outlets. Axes: 4 policy, 1 geopolitics. The only fresh elections/public-opinion candidate was the CSET op-ed (commentary), so no elections pick was made."
+    "note": "Upstream had already dropped CSET 'Should We Track AI Chips?' as a repeat of the 9/30 card. Dropped as duplicates or off-axis: Axios Trump 'AI is THE ENEMY' (a presidential social post about the Super Intelligence rebrand, which continues the 10/07 Super Intelligence Force charter story and has no new decision); Brookings 'morally binding AI pact' (commentary on the 9/30 voluntary-standards story); Common Sense Media ChatGPT teens (an advocacy rating, not a government action); Ars AI-song streaming fraud (a criminal case, off-axis, and dropped yesterday); Register South Korean president cyber tools (fails the AI-deletion test); Rest of World China tech (not AI-centred, mostly batteries, solar and drones). Ranked below the picks as commentary, analysis or interview: Lawfare distillation, SemiAnalysis China safety regime, Diplomat x2 (democracy interview, China governance), TPP x3, ChinaTalk interview, AI Now NYC Council testimony. history_match notes: USA Today v. OpenAI is a new filing in a different case from the Thomson Reuters v. Ross appeal (the 'related' match), so it is new. Ecosia's switch to Chinese models is a separate company decision from the Reflection/Mistral open-weight releases (the 'related' match), so it is new. Outlets: theregister 2, theverge 1, axios 1, politico.eu 1, which is 4 distinct outlets under the cap of 2. Axes: 4 policy, 1 geopolitics. The only elections/public-opinion candidate was the Diplomat interview, which is commentary, so there is no elections pick."
   }
 }

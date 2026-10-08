@@ -6216,6 +6216,161 @@
           "x": "Un sistema así necesitaría ajustes para que los juegos no resulten demasiado difíciles, pero podría ofrecer un desafío mayor y a la vez más justo que simplemente subir la salud o el daño de los enemigos."
         }
       ]
+    },
+    "games/games-doom-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Nikolai Zhivotenko ha llevado NVIDIA DLSS 5 Neural Rendering al DOOM original de 1993 mediante un port personalizado para Windows. DOOM + DLSS 5 se basa en Linux DOOM 1.10, convertido en una aplicación de Windows de 64-bit con una ruta de presentación DirectX 12."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DOOM sigue renderizando internamente a 320x200 y se muestra en una ventana DX12 de 1280x800, pero el renderizador modificado ahora genera datos de profundidad, normales y movimiento en cada fotograma."
+        },
+        {
+          "t": "video",
+          "yt": "KFZ5NHp2Wj0"
+        },
+        {
+          "t": "p",
+          "x": "Los modos incluyen DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K y nearest-neighbor 4x. El modo DLSS 5 ejecuta la ruta de DLSS 4.5 antes de aplicar DLSS 5 Neural Rendering, siempre que esté instalada la configuración DLSS 5 Swapper. Algunos detalles reconstruidos pueden verse bastante extraños."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El código fuente, bajo GPLv2, está en GitHub; los usuarios aportan su propio DOOM IWAD y compilan el port."
+        }
+      ]
+    },
+    "games/games-ctr-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Crash Team Racing: Turbocharged, un port gratuito para PC del juego de carreras de PS1, se basa en el proyecto CTR native decomp, human-made, y añade renderizado native-resolution \"hasta 4K y más allá\", pantalla panorámica, texturas mejoradas y hasta 240fps."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador Camzie99 confirmó en un comentario de YouTube que se usaron Large Language Models para crear el port."
+        },
+        {
+          "t": "video",
+          "yt": "e2bI3uvGHlI"
+        },
+        {
+          "t": "p",
+          "x": "\"Sí usé LLMs para escribir código, pero no con prompts vagos\", dice Camzie99. Planificó cada función y decidió qué había que cambiar, y luego hizo que un LLM escribiera el código \"en fragmentos más pequeños, función por función, o limitado a un solo archivo\" para que fuera fácil de revisar. Se cita como ejemplo PGXP, la corrección del tambaleo de PS1."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ señala que no hay ningún aviso sobre AI en la página del proyecto ni en los materiales promocionales, y califica la omisión de engañosa: puede que esquive la etiqueta de \"vibe-coded\", pero sigue siendo producto de la AI."
+        }
+      ]
+    },
+    "games/games-loish-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La artista Loish (Lois van Baarle, cuya obra aparece en Horizon Zero Dawn) fue acusada \"en Tiktok\" de usar genAI en sus ilustraciones. En un video de Instagram mostró cómo se podía identificar fácilmente la pieza como original: su feed tiene videos del proceso, que prueban que la hizo en 2023. Publica arte desde 2003."
+        },
+        {
+          "t": "p",
+          "x": "\"Es un momento difícil para los artistas\", escribió. \"Nos vemos obligados a competir con slop en los algoritmos de las redes sociales y en nuestras industrias creativas, mientras nuestro trabajo alimenta sin descanso esta máquina sin nuestro consentimiento. Ahora hemos llegado a un punto en el que pueden acusarnos de usar AI en nuestro arte, incluso cuando documentamos cada paso de nuestro proceso.\""
+        },
+        {
+          "t": "p",
+          "x": "Su consejo: \"Vayan más allá de la sección de comentarios. Revisen perfiles, vean videos del proceso, aprendan las señales de alerta de las imágenes generadas por AI... ¡No olviden lo que nos hace humanos!\""
+        }
+      ]
+    },
+    "games/games-schofield-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Glen Schofield, que dirigió Sledgehammer Games y encabezó Striking Distance Studios bajo Krafton, se jubiló este verano y ahora se dedica al arte. Dice que Krafton lo obligó a lanzar The Callisto Protocol en diciembre de 2022, meses antes de la fecha de marzo de 2023 que le habían prometido después de que la COVID alterara el desarrollo."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Afirma que los costes de los AAA han subido demasiado: \"Estaría encantado de hacer un juego por menos de $150 millones\". Dead Space costó $28 millones."
+        },
+        {
+          "t": "p",
+          "x": "\"Ahora mismo, una idea creativa puede ahorrar más dinero que la AI\", dice, y cita un plan para reutilizar de forma creativa recursos de juegos antiguos que ahorraría unos $25 millones."
+        },
+        {
+          "t": "p",
+          "x": "Defiende la AI, pero se niega a verla como una herramienta: \"Midjourney se ha convertido en un medio para mí\". Usaría la AI en áreas concretas: \"Arreglar las colisiones. Hagamos mejores cámaras\"."
+        }
+      ]
+    },
+    "games/games-unity-spark-asset-store": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        },
+        {
+          "t": "p",
+          "x": "Unity ha anunciado Unity Spark, una plataforma de creación de juegos basada en navegador que busca que cualquiera pueda describir, construir, refinar y publicar experiencias interactivas sin aprender antes programación convencional ni el Unity Editor completo."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Unity, Matt Bromberg, presenta Spark de forma muy distinta a los generadores de juegos de un solo prompt. El objetivo es eliminar parte de las barreras técnicas para llevar las ideas a la práctica, no automatizar el proceso creativo ni fingir que un primer prompt produce un juego terminado."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+          "cap": "Emberwell | Action RPG hecho en Untiy Spark"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+          "cap": "Space Corridor | Shooter hecho en Unity Spark"
+        },
+        {
+          "t": "p",
+          "x": "“No se trata de ‘one-shotting’. Pedirle a la AI que regurgite un juego ya inventado no te convierte en el próximo Hideo Kojima… Unity Spark se conecta directamente con la Unity Asset Store, así que puedes crear con miles de recursos de alta calidad hechos por artistas de nuestra comunidad.” – Matt Bromberg"
+        },
+        {
+          "t": "p",
+          "x": "Según el Financial Times, Spark podrá “generar algunos recursos”, pero la mayor parte de sus imágenes y efectos procederá de la biblioteca existente de Unity, hecha por personas, y los artistas que contribuyan recibirán crédito y compensación."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+          "cap": "Horror Story | Haunted House hecha en Unity Spark"
+        },
+        {
+          "t": "p",
+          "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
+        }
+      ]
     }
   }
 }

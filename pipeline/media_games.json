@@ -1,25 +1,34 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "games",
   "media": [
     {
-      "id": "games-unity-spark-asset-store",
-      "type": "image",
-      "src": "pipeline/media/games-unity-spark-asset-store.png"
+      "id": "games-fortnite-whenere",
+      "type": "video",
+      "src": "pipeline/media/games-fortnite-whenere.mp4",
+      "poster": "pipeline/media/games-fortnite-whenere.jpg"
     },
     {
-      "id": "games-astrocade-10m-monthly-users",
-      "type": "image",
-      "src": "pipeline/media/games-astrocade-10m-monthly-users.jpg"
+      "id": "games-doom-dlss5",
+      "type": "video",
+      "src": "pipeline/media/games-doom-dlss5.mp4",
+      "poster": "pipeline/media/games-doom-dlss5.jpg"
     },
     {
-      "id": "games-minecraft-x-twitter-ai-clone",
-      "type": "image",
-      "src": "pipeline/media/games-minecraft-x-twitter-ai-clone.jpg"
+      "id": "games-ctr-recomp",
+      "type": "video",
+      "src": "pipeline/media/games-ctr-recomp.mp4",
+      "poster": "pipeline/media/games-ctr-recomp.jpg"
     },
     {
-      "id": "games-goldhen-ai-ripoff-free-speech",
+      "id": "games-loish-genai",
       "type": "image",
-      "src": "pipeline/media/games-goldhen-ai-ripoff-free-speech.jpg"
+      "src": "pipeline/media/games-loish-genai.jpg"
+    },
+    {
+      "id": "games-schofield-ai",
+      "type": "image",
+      "src": "pipeline/media/games-schofield-ai.jpg"
     }
   ]
 }

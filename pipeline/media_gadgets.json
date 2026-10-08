@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "gadgets",
   "media": [
     {
-      "id": "gadgets-surface-laptop-ultra-nvidia",
+      "id": "gadgets-alexa-tablets",
       "type": "image",
-      "src": "pipeline/media/gadgets-surface-laptop-ultra-nvidia.png"
+      "src": "pipeline/media/gadgets-alexa-tablets.jpg"
     },
     {
-      "id": "gadgets-copilot-windows-local-files",
+      "id": "gadgets-natura-ring",
       "type": "image",
-      "src": "pipeline/media/gadgets-copilot-windows-local-files.jpg"
+      "src": "pipeline/media/gadgets-natura-ring.jpg"
     },
     {
-      "id": "gadgets-one-ui-9-galaxy-s26-ai",
+      "id": "gadgets-apple-home-event",
       "type": "image",
-      "src": "pipeline/media/gadgets-one-ui-9-galaxy-s26-ai.jpg"
+      "src": "pipeline/media/gadgets-apple-home-event.jpg"
     },
     {
-      "id": "gadgets-tony-fadell-ai-gadgets-failed",
+      "id": "gadgets-nvidia-physical-ai-safety",
       "type": "image",
-      "src": "pipeline/media/gadgets-tony-fadell-ai-gadgets-failed.jpg"
+      "src": "pipeline/media/gadgets-nvidia-physical-ai-safety.jpg"
     },
     {
-      "id": "gadgets-ios-27-2-messages-ai-suggestions",
+      "id": "gadgets-cybopal-monitor-arm",
       "type": "image",
-      "src": "pipeline/media/gadgets-ios-27-2-messages-ai-suggestions.jpg"
+      "src": "pipeline/media/gadgets-cybopal-monitor-arm.jpg"
     }
   ]
 }

@@ -243,6 +243,147 @@
           "x": "Placement guardrails assess whether a conversation is appropriate for advertising, and Negative Phrases are now available to qualifying advertisers that need exclusions specific to their own policies."
         }
       ]
+    },
+    "marketing/marketing-weight-watchers-chatgpt-cpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DoubleVerify said on October 5, 2026 that advertisers can now measure ChatGPT Ads as one touchpoint among their other channels inside DV Rockerbox, the attribution business it bought in 2025 for $85 million. It is also developing a brand suitability pilot with OpenAI, still a work in progress."
+        },
+        {
+          "t": "p",
+          "x": "According to DoubleVerify, Weight Watchers added ChatGPT Ads as a new source of member acquisition, and its attributed cost per acquisition landed 15.3% below its established benchmark during the measured period. OpenAI's same-day post describes the comparison as a blended paid-search benchmark."
+        },
+        {
+          "t": "p",
+          "x": "“As new advertising channels emerge, we need to understand how they contribute to the broader customer journey,” said Jake Dmochowski, vice president of growth at Weight Watchers."
+        },
+        {
+          "t": "p",
+          "x": "The release offers no spend, flight dates, acquisition counts, attribution window or benchmark definition, and does not say whether multi-touch attribution or incrementality testing applies to ChatGPT Ads."
+        },
+        {
+          "t": "p",
+          "x": "The pilot would have independent partners assess OpenAI's suitability policies and guardrails without accessing private user conversations; OpenAI names Integral Ad Science in a parallel pilot."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-columns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting."
+        },
+        {
+          "t": "p",
+          "x": "This was spotted by Vivek Gupta who wrote on LinkedIn, \"Google Ads has added some new AI Max related columns.\""
+        },
+        {
+          "t": "p",
+          "x": "Here is the screenshot showing these four new options:"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brand Inclusions, Locations of interest, Commission, Optimized targeting"
+        }
+      ]
+    },
+    "marketing/marketing-ok-future-goodwipes-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "When former MullenLowe U.S. CEO Frank Cartagena launched his own creative shop, OK Future, he wanted to test how much generative AI would let his agency of four people punch above its weight."
+        },
+        {
+          "t": "p",
+          "x": "Its first work, Goodwipes’ “Meet Asstra,” a spoof of OpenAI’s commercial for its AI model Astra, went from concept to execution in four days with generative AI tools and curbed the projected $700,000 production costs. A minute-long produced commercial typically takes about six weeks, he said."
+        },
+        {
+          "t": "p",
+          "x": "Goodwipes and OK Future handled the script, character building, storyboarding and edits; tools including ArtCraft, Seedance and OpenAI’s Astra visualized and voiced the characters and produced the location."
+        },
+        {
+          "t": "p",
+          "x": "The team worked in shifts around the clock on little sleep. “I really wouldn’t recommend that this be the norm of a project. It’s just an unsustainable pace,” Cartagena said. “It’s a total pressure cooker.”"
+        },
+        {
+          "t": "p",
+          "x": "The spot drove more than 750,000 Reddit views in its first 48 hours and has since reached almost 1.5 million views across subreddits, with more than 800 shares, according to a company spokesperson."
+        }
+      ]
+    },
+    "marketing/marketing-walmart-sparky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
+        },
+        {
+          "t": "p",
+          "x": "“We have been leaning into AI for quite some time — we've had physical AI in our supply chain for over seven years — and you can see it reshaping our company, reshaping our customer value proposition,” Guggina said in a conversation with Goldman Sachs’ Katharine McShane."
+        },
+        {
+          "t": "p",
+          "x": "The gains show most in e-commerce: sales grew 24% year over year in Q2, the 10th consecutive quarter of more than 20% growth. Guggina credited AI-driven efficiencies — faster delivery and cost savings — that were reinvested into competitive pricing and customer experience."
+        },
+        {
+          "t": "p",
+          "x": "Sparky, which Guggina describes as “becoming more and more capable,” is central to those improvements. Weekly engagement with Sparky has grown 60% quarter over quarter, and its new visual search has led to a 57% spike in conversion compared with text-based searches."
+        },
+        {
+          "t": "p",
+          "x": "Guggina is also “really happy” with partnerships with external AI agents like OpenAI’s ChatGPT and Google’s Gemini, which most often deep link customers to Walmart with “fantastic conversion rates.” That contrasts with Amazon, which last month moved to block Meta’s new AI assistant Muse from its site. Many customers arriving via ChatGPT and Gemini are new or returning, with a “very high” organic repeat rate."
+        }
+      ]
+    },
+    "marketing/marketing-ads-uploader-meta-agent-batches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+          "cap": "One empty chair, one self-typing machine: the 1 in 6 Meta ad launches run by AI at Ads Uploader"
+        },
+        {
+          "t": "p",
+          "x": "Ads Uploader, a bulk ad-submission platform for Meta, published September 2026 figures showing that AI agents connected directly to the service accounted for 17.5% of the 36,289 batches submitted through it, according to the company."
+        },
+        {
+          "t": "p",
+          "x": "Applied to the total, that share works out to about 6,350 agent batches over the month, or roughly 212 a day on a 30-day window. The same release puts the month's output at 286,137 Meta ads, about 9,500 a day."
+        },
+        {
+          "t": "p",
+          "x": "A batch counts as agent-made when an AI agent submits it through the platform's MCP server or its command-line interface. The definition is based on the channel, not on the degree of autonomy, and the release does not split supervised from unsupervised batches."
+        },
+        {
+          "t": "p",
+          "x": "\"A lot of advertisers already have an agent doing the setup work,\" said Chris Pollard, founder of Ads Uploader. \"Last month about 1 in 6 batch launches on our platform came from one.\""
+        },
+        {
+          "t": "p",
+          "x": "The data is supplied by the vendor, covers a single month and a single ad platform, and has not been audited. The figures arrive as Meta, Amazon and X open their own ad systems to agents."
+        }
+      ]
     }
   }
 }

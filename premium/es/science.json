@@ -6559,6 +6559,151 @@
           "x": "En una prueba en la línea de luz 26-ID, se pidió al agente que localizara la interfaz entre dos regiones de un circuito integrado, y este navegó desde lo más profundo del dispositivo hasta el punto correcto, un paso hacia los microscopios autónomos."
         }
       ]
+    },
+    "science/science-gene-function-microscopy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+          "cap": "Resumen gráfico. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del LMU Munich's Gene Center, el Max Planck Institute of Biochemistry y Helmholtz Munich, dirigidos por Veit Hornung, Matthias Mann y Fabian Theis, presentan en Cell una tecnología llamada SPARCS que combina la AI con la microscopía y el cribado genético."
+        },
+        {
+          "t": "p",
+          "x": "La AI analiza imágenes de microscopía de un total de 70 millones de células y busca rasgos visuales complejos, de modo que los efectos celulares puedan vincularse con las alteraciones genéticas que los causan."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+          "cap": "Credit: Niklas Schmacke"
+        },
+        {
+          "t": "p",
+          "x": "Después, las células de interés se aíslan intactas y se analizan por espectrometría de masas para determinar su composición proteica."
+        },
+        {
+          "t": "p",
+          "x": "En un cribado genome-wide de la autofagia, el sistema de reciclaje de la célula, el método recuperó muchos reguladores conocidos y encontró otros nuevos. El equipo también descubrió que la acidez del Golgi, regulada por la proteína GPHR, influye en el transporte temprano del sensor inmunitario STING y en su activación posterior."
+        }
+      ]
+    },
+    "science/science-gravitational-lenses-desi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+          "cap": "Ejemplos de lentes gravitacionales halladas en datos de DESI Legacy Imaging Surveys."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo internacional exploró los DESI Legacy Imaging Surveys, que en agosto de 2026 se convirtieron en el mayor mapa 2D del universo, con unos 5.6 billones de píxeles y casi 4 mil millones de objetos."
+        },
+        {
+          "t": "p",
+          "x": "Una red neuronal residual examinó las imágenes del sondeo y elaboró un catálogo de unas 3,500 lentes potenciales, de las que se seleccionaron 76 candidatas para su seguimiento."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+          "cap": "Cómo una galaxia masiva en primer plano amplifica otra galaxia más lejana situada detrás."
+        },
+        {
+          "t": "p",
+          "x": "La espectroscopía de campo integral con el instrumento MUSE del ESO's Very Large Telescope, con observaciones de 2022 a 2024, confirmó que 70 de las candidatas son verdaderas lentes gravitacionales. Los resultados se publican en The Astrophysical Journal Supplement Series."
+        },
+        {
+          "t": "p",
+          "x": "Las lentes se suman al DESI Strong Lens Foundry Project y se espera que apoyen la investigación sobre materia oscura, estructura galáctica y cosmología con Hubble, JWST, Roman y el Rubin Observatory's LSST."
+        }
+      ]
+    },
+    "science/science-chatbot-tipping-formula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+          "cap": "Conversaciones con AI. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los físicos Neil F. Johnson y Frank Yingjie Huo, de la George Washington University, presentan en Patterns una fórmula matemática que predice cuándo un chatbot de AI pasará de respuestas aceptables a otras indeseables, como consejos dañinos o información engañosa."
+        },
+        {
+          "t": "p",
+          "x": "La fórmula se deriva de una sola unidad de atención del modelo. El cambio puede producirse tras varias respuestas aceptables, y el orden de las preguntas en una conversación puede influir en el resultado."
+        },
+        {
+          "t": "p",
+          "x": "Sus predicciones coincidieron con 18 de 19 casos de giro en siete modelos abiertos de tres empresas."
+        },
+        {
+          "t": "p",
+          "x": "A los autores les preocupa especialmente la AI sin conexión, donde no operan los filtros de seguridad cloud-based, y sugieren que los dispositivos futuros podrían incorporar una advertencia cuando una conversación derive hacia terreno arriesgado."
+        }
+      ]
+    },
+    "science/science-co2-methanol-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+          "cap": "Superficie de un catalizador de cobre que muestra la hidrogenación de CO₂ a metanol. Credit: Shivam Chaturvedi"
+        },
+        {
+          "t": "p",
+          "x": "La hidrogenación de CO₂ implica miles de pequeños pasos en la superficie de un catalizador, por lo que tradicionalmente los modeladores eligen un número reducido de reacciones probables, lo que significa que pueden pasarse por alto cientos de reacciones importantes."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del Indian Institute of Science, en un trabajo publicado en Nature Communications, crearon una base de datos de 152 reacciones a partir de simulaciones quantum-mechanical, entrenaron modelos de aprendizaje automático para predecir barreras de energía de activación y usaron herramientas automatizadas para ampliar la red a 9,389 reacciones elementales sobre cobre."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando modelamos el proceso con las 152 reacciones consideradas al principio, la red predijo erróneamente el ácido fórmico, y no el metanol, como producto principal”, afirma Ananth Govind Rajan. La red ampliada predijo un aumento de unas 40 veces (40-fold) en la conversión de CO₂ e identificó correctamente el metanol y el monóxido de carbono como productos principales."
+        },
+        {
+          "t": "p",
+          "x": "También reveló que el hidrógeno puede transferirse directamente a los intermedios como H₂ molecular."
+        }
+      ]
+    },
+    "science/science-unique-games-proof-race": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
+          "cap": "James O’Brien para Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "La mañana del 11 de septiembre de 2026, Dor Minzer, del MIT y uno de los principales expertos en la conjetura de los “unique games”, empezó a recibir mensajes: OpenAI habría descubierto una prueba de la conjetura y podría hacerla pública cualquier día."
+        },
+        {
+          "t": "p",
+          "x": "Minzer no la había demostrado. Pero él y sus estudiantes de posgrado Yumou Fei y Shuo Wang habían demostrado hace poco un resultado clave sobre una cuestión estrechamente relacionada. Tres días después publicaron en línea un artículo de 95 páginas, con la advertencia de que estaba “completo matemáticamente, pero no en la forma en que queríamos compartirlo”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
+          "cap": "Dor Minzer y sus estudiantes se apresuraron a publicar un resultado clave para no verse eclipsados por una supuesta prueba AI. Cortesía de Dor Minzer"
+        },
+        {
+          "t": "p",
+          "x": "El 6 de octubre, OpenAI anunció una prueba de la conjetura de los unique games, junto con otros 376 resultados en muchos campos de las matemáticas. El anuncio incluía además una prueba Lean-verified de la conjetura 2-to-1 de Khot, en un manuscrito AI-generated sin edición humana ni revisión de expertos independientes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
+          "cap": "Subhash Khot planteó la conjetura de los unique games cuando aún era estudiante de posgrado. Béatrice de Géa para Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "El trío demostró una versión 4-to-1, algo más débil, de la conjetura de los 2-to-1 games de Khot, lo que implica que algunos grafos 3-colorable siguen siendo difíciles de colorear por muchos colores adicionales que se usen. “Las matemáticas por comunicado de prensa no son muy sanas para las matemáticas”, dijo Mark Braverman, de Princeton."
+        }
+      ]
     }
   }
 }

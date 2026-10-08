@@ -5705,6 +5705,128 @@
           "x": "该机构将在未来几周内就这些条款启动公众咨询。对不公平合同条款的罚款在€5,000至€10 million之间。MBW已联系Suno请其置评。"
         }
       ]
+    },
+    "music/music-base-for-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google for Startups将于下月在Mountain View总部举办与Google DeepMind、Google Cloud合作的Gemini Startup Forum。来自17个国家的100多家初创公司从2,000多份申请中入选。"
+        },
+        {
+          "t": "p",
+          "x": "其中之一是法国音乐营销公司Base for Music，该公司称自己是这一批次中唯一的音乐科技企业。它销售一套营销操作系统，将广告支出、受众、CRM和流媒体数据汇入同一环境，追踪每笔营销投入的回报。公司成立于2021年，2025年6月融资€1.5 million（USD $1.73m），目前服务超过20,000名艺人和厂牌。"
+        },
+        {
+          "t": "p",
+          "x": "过去一年，公司作为法国Google for Startups项目的一部分，自研了AI系统Base Intelligence，并称如今能在营销活动上线前预测营销ROI。它举例巴西艺人Tom Ribeira：不到六个月，其Spotify月度听众从零增至200,000多人，“靠€1,000的投入，三个月内就实现盈利”。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Maxence Bazin表示，目前其ROI预测依赖行业平均值：“今天[我们]最缺的，是与流媒体收入挂钩的清晰、结构化的财务数据。”"
+        }
+      ]
+    },
+    "music/music-riaa-nofakes": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eCLR1kMf4H8"
+        },
+        {
+          "t": "p",
+          "x": "RIAA董事长兼CEO Mitch Glazier在Billboard On the Record节目中谈及中期选举、Trump政府和AI。他最着力推动的是NO FAKES Act，这项法案旨在防范未经授权的深度伪造，如今支持者从Google、OpenAI一直延伸到SAG-AFTRA和Motion Picture Association。"
+        },
+        {
+          "t": "p",
+          "x": "上周，参议员Marsha Blackburn将法案提交参议院全体会议，获得近乎一致的支持，却因讽刺和政治评论的例外条款遭参议员Ted Cruz阻挡。Glazier表示，法案在跛脚鸭会期以一致同意方式通过有“a real shot”，但更可能在2027年重新提出。"
+        },
+        {
+          "t": "p",
+          "x": "被问到生成式AI是否会成为音乐业的下一个Napster时刻，Glazier说：“I think it’s the opposite.”Napster时期，行业是在与粉丝对抗；而在AI问题上，“the fans, the people, they’re with us”，人们担心AI取代人的因素。他说，民调数字“like, 92%.”"
+        },
+        {
+          "t": "p",
+          "x": "他介绍，法案对数字复制品的定义是未经同意使用的“a highly realistic, computer-generated replica of your voice or your likeness”，并说：“It is really about AI cloning.”"
+        }
+      ]
+    },
+    "music/music-human-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Rap Fame的Head of Content and Community John Lister在Hypebot的一篇op-ed中指出，从鼓机到Auto-Tune，嘻哈（hip-hop）一直在拥抱新技术。但与这些工具不同，AI可以让人的贡献变得可有可无——因此关键问题变成了：一首歌究竟是谁做的。"
+        },
+        {
+          "t": "p",
+          "x": "他提到，University of Chicago的一项研究发现，其考察的AI生成（AI-generated）曲目中有93%播放量寥寥甚至为零；他还以Tyga部分借助AI制作的专辑$TARFACE为例，Pitchfork给它打了0.0分。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+        },
+        {
+          "t": "p",
+          "x": "他写道，用AI做头脑风暴、延展旋律或清理人声，并不会让音乐变得毫无意义。听众想要的是披露：如果是人写的，就说明；如果是人与AI合作完成的，就说明；如果全部由机器完成，也要说明。“问题出在人们假装这三种情况是一回事的时候。”"
+        }
+      ]
+    },
+    "music/music-kpop-ai-conductors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+          "cap": "本图片使用AI技术制作。照片=IS Photo"
+        },
+        {
+          "t": "p",
+          "x": "日刊体育策划系列[K-pop与AI革命]分9期，聚焦K-pop制作的三大支柱：作曲与工作室、虚拟偶像与粉丝圈、音乐录影带制作现场。现场的实际情况，与对技术的单纯恐惧或欢呼相去甚远。"
+        },
+        {
+          "t": "p",
+          "x": "韩国音乐著作权协会发布AI音乐登记指南后仅22天便将其撤回，业内还存在无法列入署名的“幽灵助理”，即便如此，现场早已全面接纳AI。在从业27年的制作人Kim Won-jong的工作室里，AI从初稿到作词、编曲、混音，全面取代了词曲创作营，将制作成本降至1/1000的水平。动辄数亿韩元（수억 원）的音乐录影带布景与VFX费用，借助AI与立体拍摄的结合，降到了1/10的水平。"
+        },
+        {
+          "t": "p",
+          "x": "创作者的角色也在被重新定义。AI大量生成素材和方案的同时，作曲家和导演正演变为统筹整体概念、驾驭技术的指挥者。导演Noh Ji-hoon指出，“按一个按钮就能一下子完成，这是误解”，最终能挑出理想镜头的，还是创作者的眼光与品味。不过，新人积累经验的阶梯随之动摇，这一副作用也在显现。"
+        },
+        {
+          "t": "p",
+          "x": "技术越先进，粉丝寻找的越是人类独有的经验与共鸣，即“人情味”。产业的核心问题不是“用AI取代什么”，而是“如何发掘和培育技术无法取代的要素”。"
+        }
+      ]
+    },
+    "music/music-copyright-office-fraud-inquiry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+          "cap": "U.S. Copyright Office所在的华盛顿DC的Library of Congress（美国国会图书馆），摄于May 12, 2025。"
+        },
+        {
+          "t": "p",
+          "x": "U.S. Copyright Office（美国版权局）已就音乐产业最大的难题之一——流媒体欺诈——展开调查。该局在周三（Oct. 7）发布于Federal Register（联邦公报）的通知中表示，正在征集“可能有助于国会理解流媒体欺诈、当前遏制这一问题的努力及潜在解决方案”的数据和建议。公众意见截止日期为Nov. 23。"
+        },
+        {
+          "t": "p",
+          "x": "此次调查是对Rep. Scott Fitzgerald（R-Wis.）众议员五月来信的回应。他在信中表示，该局应审视“生成式AI可能如何成为犯罪分子实施流媒体欺诈的催化剂”。"
+        },
+        {
+          "t": "p",
+          "x": "由于DSPs从固定的资金池中分配版税，虚假播放会从真实播放中分走收入。如今AI音乐生成工具让不法分子能够批量炮制大量歌曲（Deezer发现，2025年完全AI-generated曲目的播放中，高达85%属于欺诈），而智能体AI则让机器人农场规模不断扩大。"
+        },
+        {
+          "t": "p",
+          "x": "通知询问哪些手法最为普遍、经济影响有多大、AI起到了怎样的作用，以及解决方案是否应来自国会立法。通知发布的前一天，Michael Smith在U.S.首例流媒体欺诈起诉案中被判刑，他通过欺诈获得的版税超过$8 million。"
+        }
+      ]
     }
   }
 }

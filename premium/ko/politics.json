@@ -1560,6 +1560,130 @@
           "x": "헌장은 AI 위험의 책임을 연구소에 두면서 “공화국의 근본 원칙이 지켜지고 발전하도록 우리나라의 법을 집행하는 것이 … 연방정부의 역할”이라고 밝혔다."
         }
       ]
+    },
+    "politics/politics-usa-today-sues-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co.와 이 회사 소유의 여러 지역 신문이 OpenAI를 상대로 소송을 냈다. 앞서 Reuters 보도에 따르면 이들은 OpenAI가 AI 모델을 학습시키려고 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI가 콘텐츠를 무단으로 써 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI를 상대로 잇따른 저작권 소송 가운데 가장 최근 건이다. OpenAI는 The New York Times의 저작권 소송 말고도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송까지 안고 있다."
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 주장이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
+        }
+      ]
+    },
+    "politics/politics-data-center-power-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+          "cap": "일러스트: Sarah Grillo/Axios"
+        },
+        {
+          "t": "p",
+          "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기면서 데이터센터에는 새 비용과 규제를 지우는 방안을 검토 중이다. 지난주 공개된 이 초당적 조항들은 에너지 인허가를 서두르려는 상원의 더 큰 법안에 들어 있다. 발의자들은 에너지 개발에 속도를 내면서도 데이터센터가 전력망 증설 비용 가운데 제 몫을 내게 하는 법안이라고 설명한다."
+        },
+        {
+          "t": "p",
+          "x": "데이터센터는 기존 송전망 비용 가운데 제 몫에 더해, 자기에게 전력을 대는 데 드는 추가 송전 비용까지 낸다. 20메가와트 이상 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용도 떠안는다. 각 주에는 여기서 더 나아갈 폭넓은 재량이 주어진다."
+        },
+        {
+          "t": "p",
+          "x": "Data Center Coalition은 아직 법안을 검토하는 중이라고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
+        },
+        {
+          "t": "p",
+          "x": "상원이 중간선거를 앞두고 휴회 중이라 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
+        }
+      ]
+    },
+    "politics/politics-singapore-mas-fintech-ai-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "싱가포르 통화청(MAS)이 수요일 처음 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서 현지 업계의 모든 기업에 AI 활용 사례를 배포하기 전 독립적인 검토를 받으라고 요구했다. 통화청은 중앙은행이자 금융업 규제기관이다."
+        },
+        {
+          "t": "p",
+          "x": "MAS는 AI가 복잡한 탓에 예기치 않거나 더 편향된 동작이 나올 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 본다. 에이전트형 AI에는 “이러한 위험을 더욱 키울 수 있다”는 우려를 보였다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고 이사회와 고위 경영진이 그 책임을 지기를 바란다."
+        },
+        {
+          "t": "p",
+          "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대비한 비상 계획도 요구했다. 또 “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "가이드라인 시행일은 2027년 10월 7일이다."
+        }
+      ]
+    },
+    "politics/politics-ecosia-drops-mistral-chinese-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+          "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
+        },
+        {
+          "t": "p",
+          "x": "정부 서비스에서도 쓰는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 갈아탄다. 이 회사 CEO가 POLITICO에 밝힌 내용이다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 던졌다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+          "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia가 손잡은 곳은 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious다. Kroll은 비용이 대략 절반으로 줄었다고 했다. 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에는 일부 전문가가 동의하지 않는다."
+        }
+      ]
+    },
+    "politics/politics-pentagon-tradewinds-video-ai-buys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+          "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+        },
+        {
+          "t": "p",
+          "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+        }
+      ]
     }
   }
 }

@@ -5838,6 +5838,97 @@
           "x": "Five academic publishers – BMJ Group, Sage, IOP Publishing, IGI Global Scientific Publishing and Wanfang Data – have struck a deal with AI company Redpine to provide AI agents with licensed access to 20 million peer-reviewed research papers."
         }
       ]
+    },
+    "books/books-storytel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Storytel began experimenting with AI-assisted translation in 2021 and has now automated its translation publishing workflow through a partnership with Swedish tech firm Nuanxed, where chief content and publishing officer Helena Gustafsson is also a board member. Since 2025 it has offered AI-generated narrator voices, and it recently introduced Genie, an “AI-powered companion.”"
+        },
+        {
+          "t": "p",
+          "x": "Gustafsson says the driver is time, not money: “We can get an eight-book series out in just six months.” Storytel targets 10 core markets—the Nordics, plus Bulgaria, the Netherlands, Poland, Turkey, and the U.S.—and only publishes market-adapted books."
+        },
+        {
+          "t": "p",
+          "x": "On reader response, she calls AI “a perception issue, not actually about quality,” recalling a journalist who criticized a Finnish “AI-translated” book that turned out to be human-translated."
+        },
+        {
+          "t": "p",
+          "x": "She sees limits: AI is “really bad at” creating new stories, and some books demand human translation—“I don’t see anyone trying to translate a poetry book with AI.” Anyone using AI, she adds, must ask how to do it responsibly and ethically."
+        }
+      ]
+    },
+    "books/books-uk-human-authored-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+          "cap": "Books By People founders Gavin Johnston, Conrad Young and Esme Dennys"
+        },
+        {
+          "t": "p",
+          "x": "The Intellectual Property Office (IPO) has registered the UK’s first certification mark for human-authored books: Books By People’s ‘human-authored’ certification."
+        }
+      ]
+    },
+    "books/books-digital-publishing-award": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
+        },
+        {
+          "t": "p",
+          "x": "The Digital Publishing Award 2026 honors Avneesh Singh, the Nahdet Misr Group, Pozotron Studio and ReadBee. The winners were chosen from 42 submissions on 7 October at the Frankfurt Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "An international jury gave the awards in four categories to projects and figures from Egypt, the USA, Germany and the publishing industry worldwide. What they share, the jury said, is that they use technology to support people rather than replace them."
+        }
+      ]
+    },
+    "books/books-ai-narration-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+          "cap": "Frankfurt Book Fair © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "“We have fine dining, and we have McDonalds.” Publishers from Blinkist, Storytel and Hörbuch Hamburg Verlag debated the value of AI narration on a panel, chaired by Chris Kling, CEO of Audio, at Frankfurt Book Fair on 7 October, with questions of distrust, value and listener preference raised."
+        }
+      ]
+    },
+    "books/books-organic-literature-stamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+          "cap": "Photo Illustration of a Book inside Food Packaging with Organic Sticker"
+        },
+        {
+          "t": "p",
+          "x": "As scandals involving the use of AI by professional authors pile up, British startup Books by People has received approval from the UK’s Intellectual Property Office to distribute a mark certifying a book as authored by a human. The stamp, which looks like a thumbprint, will be displayed on the cover."
+        },
+        {
+          "t": "p",
+          "x": "Rather than an honesty system, Books by People asks for an authorship declaration, runs each manuscript through proprietary software, and manually examines early drafts and research materials for “indicators of humanity.” It will charge publishers a flat membership fee plus a sum per book. Five publishers have signed up so far, and the first certified book is expected by the end of the year."
+        },
+        {
+          "t": "p",
+          "x": "Critics warn of false positives. Pangram, which claims 99.7 percent accuracy, scored debut author Jerry Falade’s book as 97 percent AI-generated; he alleged it misconstrued his Nigerian dialect. “We need to be quite careful that this doesn’t end up becoming a witch hunt,” says Tom West of the Publishers’ Licensing Services."
+        },
+        {
+          "t": "p",
+          "x": "“I wouldn’t call it AI detection,” says cofounder Esme Dennys. “The bedrock of our organization is to avoid [writers] being unjustly accused.”"
+        }
+      ]
     }
   }
 }

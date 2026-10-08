@@ -7077,6 +7077,141 @@
           "x": "Atlassian turned motion assets into reusable components, with the agent helping designers iterate on easing and duration within its design system. “For designers working with static designs, our skillsets have increased,” says Product Designer Davy Fung."
         }
       ]
+    },
+    "design/design-keyshot-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+          "cap": "Image credit: 3D model produced by KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot 2026 continues to embrace AI to improve rendered output and simplify workflows, and Creative Bloq finds it easier to use and faster than ever. New features include more realistic AI output through AI Shots, now with editing and upscaling, an upgraded Move Tool + Custom Pivot and an all-new Gallery."
+        },
+        {
+          "t": "p",
+          "x": "AI Shots, KeyShot's generative AI workflow introduced in 2025.2, can generate images from a CAD model or edit an existing image, and now works with much shorter prompts. Its upscaler can double or quadruple the resolution of both traditional renderings and AI Shots."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+          "cap": "Image credit: 3D model produced by KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "Tested on a 16GB MacBook Pro (32GB is recommended), AI Shots never crashed, but some prompts took upwards of five minutes and it sometimes misinterpreted prompts. It also needs a download of near 20GB of AI data."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+          "cap": "Image credit: 3D model produced by KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot Professional costs $108.25 per month, billed annually at $1,299; KeyShot Business costs $133.25 per month ($1,599 annually). KeyShot is designed almost exclusively for product visualisation."
+        }
+      ]
+    },
+    "design/design-free-ai-creative-cloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canva and Affinity continue to give Adobe a run for its money, but Adobe itself has also pushed some users away, thanks to its AI terms and cancellation policies."
+        },
+        {
+          "t": "p",
+          "x": "The latter apparently inspired solo developer Brandon Thomas to recreate several of Adobe's most popular tools, including Photoshop, Premiere and Illustrator, rebuilt using Claude and Rust. On Hacker News he said he \"got bit by the dark pattern \"cancellation fee\" one too many times.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+        },
+        {
+          "t": "p",
+          "x": "\"I'm not just some casual vibe coder. I'm a 15-year industry veteran,\" Thomas wrote on Reddit, adding on Hacker News: \"Software is over.\""
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq is sceptical: using AI to create a carbon copy is not as exciting as creating something new, and it's hard to imagine professional creatives placing their files, and their livelihoods, in the hands of AI-generated software. As one Redditor puts it, unproven software that vaguely looks like Photoshop is very different from dependable software maintained long-term."
+        }
+      ]
+    },
+    "design/design-claude-frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic's frontend-design skill ships in its skills repository and as a plugin in the official Claude Code marketplace. It is one Markdown file, 71 lines long, with no scripts and no component library; everything it changes, it changes by changing how Claude plans."
+        },
+        {
+          "t": "p",
+          "x": "It tells Claude to design from the subject, names generated-design tells to avoid (cream background with serif and terracotta accent, the \"SaaS card kit\", ALL-CAPS eyebrows), and asks for a token plan of 4 to 6 named hex colours, typefaces and an ASCII layout before any code."
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+          "cap": "With the frontend-design skill."
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+          "cap": "The same brief with no skill."
+        },
+        {
+          "t": "p",
+          "x": "On one brief, a landing page for a fictional bookkeeping app called Ledgerline, the skill run cut all-caps labels from 9 to 0 and middle-dot strings from 4 to 0, and had no horizontal scroll at 375 px versus 16 px overflow. It took 14 turns and 5.7 minutes against 2 turns and 3.3 minutes, at $1.61 versus $0.98."
+        },
+        {
+          "t": "p",
+          "x": "It did not stop either page from inventing product facts, and it kept seven spaced em dashes. Each ran once, so treat it as one example, not a benchmark."
+        }
+      ]
+    },
+    "design/design-copilot-identity": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "FgHhrBiamzw"
+        },
+        {
+          "t": "p",
+          "x": "Your apps, tools, and context come together in our new Copilot identity, inspired by work and designed for it."
+        }
+      ]
+    },
+    "design/design-chatgpt-intelligent-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+          "cap": "Image: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them. One example shows a diagram of a seven-speed bicycle, complete with interactive buttons that highlight different parts."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT generates a diagram showing the design of a seven-speed bicycle. Image: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "Another shows ChatGPT teaching Mahjong with visuals of each tile placed into scrollable categories. You can also ask it to generate tools such as a retirement savings calculator, retro game, or bill splitter, built in-line with its response."
+        },
+        {
+          "t": "p",
+          "x": "GPT-6 with Intelligent UI is rolling out globally to Plus, Pro, Business, and Enterprise users starting today, and expands to Go and free tiers on Thursday. Higher tiers get the mid-range GPT-6 Sol model; Go and free users get the more efficient GPT-6 Luna."
+        }
+      ]
     }
   }
 }

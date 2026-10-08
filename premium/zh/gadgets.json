@@ -6202,6 +6202,128 @@
           "x": "Core 在美国售价 $3,499 ，首批产品上市当天售罄，将于本月底发货。面向 AI 的顶配 Mac mini 售价 $3,199 ，但缺少 Core 专用的本地 AI（local-AI）软件和隐私功能。"
         }
       ]
+    },
+    "gadgets/gadgets-natura-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Interface是AI与硬件初创公司Natura推出的一款$99新智能戒指，专为AI智能体时代设计。只需用手指一按，就能让AI智能体完成任务、记录想法、处理事务，无需拿起手机——这枚戒指还兼作健康追踪器。"
+        },
+        {
+          "t": "p",
+          "x": "上市时，它可连接Meta的Muse、Instinct、Grok Bot、Claude和ChatGPT等智能体与应用，用户可以自行选择由哪个智能体处理哪项任务。回复可通过耳机、iPhone Live Activity或NatureOS应用接收。预购将于下月开启，12月或1月发货。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+        },
+        {
+          "t": "p",
+          "x": "创始人Carlo Edoardo Ferraris表示：“归根结底，用户与技术之间的主要界面将是戒指。”在三至六个月的免费期之后，Natura计划推出每月$9的订阅。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "这枚戒指可追踪心率、HRV、睡眠阶段、步数和皮肤温度，充一次电可用六至12天。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple宣布将于10月13日9AM ET在纽约Tribeca举办今年秋季的第二场发布会，预告语为“Welcome home”。据悉，除了更新版Apple TV和HomePod mini，Apple还将推出外界期待已久的HomePad。"
+        },
+        {
+          "t": "p",
+          "x": "长期以来一直有传言称Apple正在开发一款对标Amazon Echo Show的智能显示屏。Bloomberg的Mark Gurman报道称，Apple将这款设备推迟到Siri AI准备就绪后再推出。"
+        },
+        {
+          "t": "p",
+          "x": "据称HomePad将配备七英寸显示屏、名为homeOS的全新操作系统以及StandBy-like仪表盘。传言称它将通过人脸和语音识别为不同使用者个性化内容，并支持智能家居控制、FaceTime、流媒体和对讲功能。"
+        },
+        {
+          "t": "p",
+          "x": "新款Apple TV和HomePod mini可能会升级规格，以支持Siri AI。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-physical-ai-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+          "cap": "Agility Robotics的Digit人形机器人借助Nvidia的Halos系统在人身边安全工作。图片来源：Agility Robotics"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia的Halos系统于2025年推出，帮助开发者在自动驾驶汽车中实现安全护栏；2026年6月，公司又推出Halos for Robotics加以扩展，覆盖仓储机器人、工厂人形机器人乃至手术机器人。Nvidia的Amit Goel表示：“我们认为下一个瓶颈将是安全。”"
+        },
+        {
+          "t": "p",
+          "x": "这套全栈方案包括配备独立安全处理器的IGX Thor模块、监控“每一个硬件模块”和“每一个软件库”的Halos OS、Holoscan Sensor Bridge、仿真以及检测实验室项目。由于扫地机器人和仓库叉车对安全的定义不同，开发者可以编写自定义安全功能。"
+        },
+        {
+          "t": "p",
+          "x": "Agility Robotics率先将Halos装进Digit 5人形机器人，使其无需外部传感器即可在人附近工作。Goel说：“现在机器人真正挣脱了锁链。”Boston Dynamics、KION Group和LG也已加入。"
+        }
+      ]
+    },
+    "gadgets/gadgets-cybopal-monitor-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+          "cap": "图片来源：Cybopal/Kickstarter"
+        },
+        {
+          "t": "p",
+          "x": "通过Kickstarter众筹的CyboPal ONE把一块27英寸4K、160Hz显示屏装在可夹在桌边的六轴机械臂上，它会留意你的位置，并相应移动屏幕。Super Early Bird价格为$1,599，计划零售价为$2,499。"
+        },
+        {
+          "t": "p",
+          "x": "它自带一台电脑：“Linux AI Compute Base”内置搭载6 TOPS NPU的八核Rockchip RK3588、8GB RAM和128GB存储，在设备端完成人脸追踪、手势识别和3D 空间感知。双目3D 传感器负责避障和路径规划，人脸追踪可在四秒内调整屏幕位置。"
+        },
+        {
+          "t": "p",
+          "x": "Pauli语音智能体运行在桌面客户端中，实际计算仍需一台笔记本或台式机。这项众筹将于2026年11月21日截止，目前已达HK$80,000目标的11,000%以上——但TechRadar指出，支持者押注的是尚未经过独立测试的软件。"
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-laptop-ultra-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+        },
+        {
+          "t": "p",
+          "x": "今年6月，Nvidia 宣布与 Microsoft 及其他 PC 厂商达成协议，基于其 RTX Spark 芯片开发面向 AI 与智能体(AI- and agent-ready)的 Windows PCs。周三，在 Tech Week 期间于 San Francisco 举行的活动上，Microsoft 公布了新款 Surface Laptop Ultra 的规格和价格。它有两款基础型号，起价分别为 $2,600 和 $3,700，选配后最高可达 $5,900。(Microsoft 称最高配机型已经售罄。)"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft 还发布了 Surface RTX Spark Dev Box 工作站，起价 $6,000，预装 VS Code、GitHub Copilot CLI、WSL 和 PowerShell 7。两款设备都旨在在本地设备上运行 AI 模型(而且免费)。"
+        },
+        {
+          "t": "p",
+          "x": "它们运行经过改版的 Windows 11，其中有一项名为“Execution Containers”的功能，可以更方便地把 AI 智能体放进沙盒；CEO Satya Nadella 表示，该功能将面向所有 Windows 11 用户开放。他说：“你需要这样一个受控的层，能够承接多个模型，加上上下文、记忆以及行动空间。”"
+        },
+        {
+          "t": "p",
+          "x": "这些设备显然瞄准开发者：Microsoft 为以旧 MacBook Pro 换购的用户提供最高 $1,000 的折扣。Dell 也公布了售价 $3,800 的 Nvidia-RTX Spark XPS 16 Creator Edition 的细节。"
+        }
+      ]
     }
   }
 }

@@ -6990,6 +6990,128 @@
           "x": "Core cuesta $3,499 en EE. UU. (US); el primer lote se agotó el primer día y se envía a finales de este mes. Un Mac mini de máxima configuración para AI cuesta $3,199, pero carece del software local-AI dedicado y de las funciones de privacidad de Core."
         }
       ]
+    },
+    "gadgets/gadgets-natura-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Interface es un nuevo anillo inteligente de $99 de Natura, una startup de AI y hardware, diseñado para la era de los agentes de AI. Con solo presionarlo con el dedo, se le puede pedir a un agente de AI que complete una tarea, anotar ideas y resolver pendientes sin sacar el teléfono; además, el anillo funciona como monitor de salud."
+        },
+        {
+          "t": "p",
+          "x": "En su lanzamiento se conecta con agentes y aplicaciones como Muse de Meta, Instinct, Grok Bot, Claude y ChatGPT, y el usuario puede elegir qué agente se encarga de cada tarea. Las respuestas llegan por auriculares, una iPhone Live Activity o la aplicación NatureOS. Las reservas abren el mes próximo y los envíos serán en diciembre o enero."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+        },
+        {
+          "t": "p",
+          "x": "\"En última instancia, la principal interfaz entre los usuarios y la tecnología va a ser el anillo\", dijo el fundador Carlo Edoardo Ferraris. Tras un periodo gratuito de tres a seis meses, Natura prevé una suscripción mensual de $9."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "El anillo registra frecuencia cardiaca, HRV, fases del sueño, pasos y temperatura de la piel, y su batería dura de seis a 12 días por carga."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple anunció su segundo evento del otoño, presentado con la frase \"Welcome home\", para el 13 de octubre a las 9AM ET en Tribeca, Nueva York. Además de versiones renovadas del Apple TV y el HomePod mini, se espera que Apple presente su esperado HomePad."
+        },
+        {
+          "t": "p",
+          "x": "Desde hace tiempo se rumorea que Apple trabaja en una pantalla inteligente para competir con el Echo Show de Amazon, y Mark Gurman, de Bloomberg, informó que Apple retrasó el dispositivo hasta que Siri AI estuviera lista."
+        },
+        {
+          "t": "p",
+          "x": "Se dice que el HomePad tendrá una pantalla de siete pulgadas, un nuevo sistema operativo llamado homeOS y un panel StandBy-like. Los rumores apuntan a que usará reconocimiento facial y de voz para personalizar el contenido según quién lo use, además de control del hogar inteligente, FaceTime, streaming e intercomunicador."
+        },
+        {
+          "t": "p",
+          "x": "Es probable que el nuevo Apple TV y el HomePod mini reciban mejoras de especificaciones para admitir Siri AI."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-physical-ai-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+          "cap": "El robot humanoide Digit de Agility Robotics usa el sistema Halos de Nvidia para trabajar de forma segura cerca de las personas. Crédito: Agility Robotics"
+        },
+        {
+          "t": "p",
+          "x": "El sistema Halos de Nvidia se lanzó en 2025 para ayudar a los desarrolladores a implementar barreras de protección en vehículos autónomos, y en junio de 2026 la compañía lo amplió con Halos for Robotics, destinado a robots de almacén, humanoides de fábrica e incluso robots quirúrgicos. \"Pensamos que el próximo cuello de botella sería la seguridad\", dijo Amit Goel, de Nvidia."
+        },
+        {
+          "t": "p",
+          "x": "La pila completa abarca el módulo IGX Thor con un procesador de seguridad independiente, un Halos OS que supervisa \"cada bloque de hardware\" y \"cada biblioteca de software\", el Holoscan Sensor Bridge, simulación y un programa de laboratorios de inspección. Como una aspiradora robot y una carretilla elevadora de almacén definen la seguridad de forma distinta, los desarrolladores pueden programar funciones de seguridad personalizadas."
+        },
+        {
+          "t": "p",
+          "x": "Agility Robotics fue la primera en integrar Halos en su humanoide Digit 5, lo que le permite trabajar cerca de personas sin sensores externos. \"Ahora el robot está literalmente desencadenado\", dijo Goel. Boston Dynamics, KION Group y LG también se han sumado."
+        }
+      ]
+    },
+    "gadgets/gadgets-cybopal-monitor-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+          "cap": "Crédito de la imagen: Cybopal/Kickstarter"
+        },
+        {
+          "t": "p",
+          "x": "El CyboPal ONE, financiado en Kickstarter, monta una pantalla 4K de 160Hz y 27 pulgadas en un brazo robótico de seis ejes que se sujeta al escritorio, vigila dónde estás y mueve la pantalla en consecuencia. El precio Super Early Bird de $1,599 se compara con un precio de venta previsto de $2,499."
+        },
+        {
+          "t": "p",
+          "x": "Lleva su propio equipo informático: un Rockchip RK3588 de ocho núcleos con una NPU de 6 TOPS, 8GB de RAM y 128GB de almacenamiento en una \"Linux AI Compute Base\" que gestiona en el propio dispositivo el seguimiento facial, el reconocimiento de gestos y la detección espacial 3D. Un sensor 3D binocular se encarga de evitar obstáculos y planificar trayectorias, y el seguimiento facial recoloca la pantalla en menos de cuatro segundos."
+        },
+        {
+          "t": "p",
+          "x": "El agente de voz Pauli funciona en un cliente de escritorio, y aún se necesita un equipo portátil o de escritorio para el cómputo real. La campaña, que cierra el 21 de noviembre de 2026, supera el 11,000% de su meta de HK$80,000, pero TechRadar advierte que los patrocinadores apuestan por un software que no se ha probado de forma independiente."
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-laptop-ultra-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+        },
+        {
+          "t": "p",
+          "x": "En junio, Nvidia anunció acuerdos con Microsoft y otros fabricantes de PC para desarrollar Windows PCs preparados para AI y agentes (AI- and agent-ready) basados en su chip RTX Spark. El miércoles, en un evento en San Francisco durante la Tech Week, Microsoft reveló las especificaciones y el precio de su nuevo Surface Laptop Ultra. Llega en dos modelos base, desde $2,600 y $3,700, con opciones de hasta $5,900. (Microsoft afirma que el equipo de gama más alta ya está agotado.)"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft también presentó la estación de trabajo Surface RTX Spark Dev Box, que parte de $6,000 e incluye VS Code, GitHub Copilot CLI, WSL y PowerShell 7. Ambos están diseñados para ejecutar modelos de AI en el propio dispositivo, de forma local (y gratuita)."
+        },
+        {
+          "t": "p",
+          "x": "Funcionan con una versión renovada de Windows 11 que incluye una función llamada “Execution Containers”, que facilita aislar agentes de AI en un sandbox; estará disponible para todos los usuarios de Windows 11, dijo el CEO Satya Nadella. “Hace falta esta capa controlada capaz de recibir varios modelos, además del contexto, la memoria y el espacio de acción”, afirmó."
+        },
+        {
+          "t": "p",
+          "x": "Los dispositivos están claramente dirigidos a desarrolladores: Microsoft ofrece hasta $1,000 de descuento a quienes entreguen un MacBook Pro. Dell también detalló su Nvidia-RTX Spark XPS 16 Creator Edition, con un precio de $3,800."
+        }
+      ]
     }
   }
 }

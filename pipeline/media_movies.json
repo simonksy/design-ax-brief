@@ -1,30 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "movies",
   "media": [
     {
-      "id": "movies-dittodub-native6-dubbing",
-      "type": "image",
-      "src": "pipeline/media/movies-dittodub-native6-dubbing.png"
+      "id": "movies-houdini-ai-docuseries",
+      "type": "video",
+      "src": "pipeline/media/movies-houdini-ai-docuseries.mp4",
+      "poster": "pipeline/media/movies-houdini-ai-docuseries.jpg"
     },
     {
-      "id": "movies-google-synthid-detector-launch",
+      "id": "movies-cinema4d-mcp-server",
       "type": "image",
-      "src": "pipeline/media/movies-google-synthid-detector-launch.png"
+      "src": "pipeline/media/movies-cinema4d-mcp-server.jpg"
     },
     {
-      "id": "movies-abundantia-aion-standalone-studio",
+      "id": "movies-dfx-techshow-ai-contest",
       "type": "image",
-      "src": "pipeline/media/movies-abundantia-aion-standalone-studio.png"
+      "src": "pipeline/media/movies-dfx-techshow-ai-contest.jpg"
     },
     {
-      "id": "movies-authors-first-book-adaptation-studio",
+      "id": "movies-messiah-bethlehem-restoration",
       "type": "image",
-      "src": "pipeline/media/movies-authors-first-book-adaptation-studio.jpg"
+      "src": "pipeline/media/movies-messiah-bethlehem-restoration.jpg"
     },
     {
-      "id": "movies-sinima-creative-ownership-platform",
+      "id": "movies-serhant-heygen-avatar",
       "type": "image",
-      "src": "pipeline/media/movies-sinima-creative-ownership-platform.png"
+      "src": "pipeline/media/movies-serhant-heygen-avatar.jpg"
     }
   ]
 }

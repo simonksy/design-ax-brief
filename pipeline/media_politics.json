@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "politics",
   "media": [
     {
-      "id": "politics-pentagon-tradewinds-video-ai-buys",
+      "id": "politics-uk-ico-ai-training-data-pledges",
       "type": "image",
-      "src": "pipeline/media/politics-pentagon-tradewinds-video-ai-buys.jpg"
+      "src": "pipeline/media/politics-uk-ico-ai-training-data-pledges.jpg"
     },
     {
-      "id": "politics-trump-superintelligence-science-summit",
+      "id": "politics-usa-today-sues-openai",
       "type": "image",
-      "src": "pipeline/media/politics-trump-superintelligence-science-summit.jpg"
+      "src": "pipeline/media/politics-usa-today-sues-openai.jpg"
     },
     {
-      "id": "politics-eu-ai-liability-altman-debate",
+      "id": "politics-data-center-power-bill",
       "type": "image",
-      "src": "pipeline/media/politics-eu-ai-liability-altman-debate.jpg"
+      "src": "pipeline/media/politics-data-center-power-bill.jpg"
     },
     {
-      "id": "politics-western-open-weight-models-vs-china",
+      "id": "politics-singapore-mas-fintech-ai-review",
       "type": "image",
-      "src": "pipeline/media/politics-western-open-weight-models-vs-china.jpg"
+      "src": "pipeline/media/politics-singapore-mas-fintech-ai-review.jpg"
     },
     {
-      "id": "politics-europol-ai-policing-privacy",
+      "id": "politics-ecosia-drops-mistral-chinese-ai",
       "type": "image",
-      "src": "pipeline/media/politics-europol-ai-policing-privacy.jpg"
+      "src": "pipeline/media/politics-ecosia-drops-mistral-chinese-ai.jpg"
     }
   ]
 }

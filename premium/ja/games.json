@@ -6243,6 +6243,161 @@
           "x": "ゲームが難しくなりすぎないよう調整は必要だが、敵の体力や攻撃力を単に上げるよりも、手応えがありながら公平な挑戦を提供できる可能性がある。"
         }
       ]
+    },
+    "games/games-doom-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "開発者のNikolai Zhivotenkoが、独自のWindows移植版を通じて1993年のオリジナル版DOOMにNVIDIA DLSS 5 Neural Renderingを導入した。DOOM + DLSS 5はLinux DOOM 1.10をベースに、DirectX 12の表示パスを備えた64-bit Windowsアプリケーションへ変換したものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DOOMはいまも内部では320x200で描画し、1280x800のDX12ウィンドウに表示するが、改修されたレンダラーが毎フレームの深度、法線、モーションデータを生成するようになった。"
+        },
+        {
+          "t": "video",
+          "yt": "KFZ5NHp2Wj0"
+        },
+        {
+          "t": "p",
+          "x": "モードはDLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K と nearest-neighbor 4x を備える。DLSS 5 Swapperのセットアップが導入されていれば、DLSS 5モードはDLSS 4.5のパスを経たうえでDLSS 5 Neural Renderingを適用する。再構成されたディテールの一部は、かなり奇妙に見えることがある。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GPLv2のソースコードはGitHubで公開されており、ユーザーは自分のDOOM IWADを用意して移植版をビルドする。"
+        }
+      ]
+    },
+    "games/games-ctr-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PS1のレースゲームを無料でPCに移植したCrash Team Racing: Turbochargedは、人の手で作られた（human-made）CTR native decompプロジェクトを土台に、「4K 以上まで」のnative-resolutionレンダリング、ワイドスクリーン、強化テクスチャ、最大240fpsを加えている。"
+        },
+        {
+          "t": "p",
+          "x": "開発者のCamzie99は、YouTubeのコメントで、移植版の制作にLarge Language Modelsを使ったことを認めた。"
+        },
+        {
+          "t": "video",
+          "yt": "e2bI3uvGHlI"
+        },
+        {
+          "t": "p",
+          "x": "「コードを書くのにLLMsを使ったのは確かだが、あいまいなプロンプトで書かせたわけではない」とCamzie99は言う。各機能を計画して何を変えるべきかを決め、そのうえでレビューしやすいよう「小さな塊に分け、関数ごとに、あるいは単一ファイルに限定して」LLMにコードを書かせた。例として挙げられているのが、PS1特有の揺れを直すPGXPだ。"
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+は、プロジェクトページにも宣伝素材にもAIに関する注記がないと指摘し、この省略は欺瞞的だとする。「vibe-coded」の扱いは避けられるかもしれないが、それでもAIの産物であることに変わりはない。"
+        }
+      ]
+    },
+    "games/games-loish-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+        },
+        {
+          "t": "p",
+          "x": "アーティストのLoish（Horizon Zero Dawnにも作品が登場するLois van Baarle）は、「Tiktokで」作品にgenAIを使ったと非難された。Instagramの動画で彼女は、この作品がオリジナルだと簡単に確認できる方法を示した。フィードには制作過程の動画があり、2023年に自分で描いたことが証明できる。彼女は2003年から作品を投稿し続けている。"
+        },
+        {
+          "t": "p",
+          "x": "「アーティストにとってつらい時代だ」と彼女は書いた。「私たちはソーシャルメディアのアルゴリズムでもクリエイティブ業界でもスロップとの競争を強いられ、作品は同意もなくこの機械に絶え間なく注ぎ込まれている。いまや制作過程を一歩ずつすべて記録していても、作品にAIを使ったと非難されかねないところまで来ている」"
+        },
+        {
+          "t": "p",
+          "x": "彼女の助言はこうだ。「コメント欄の外までクリックしよう。プロフィールを確認し、制作過程の動画を見て、AI生成画像の危険信号を学ぼう……何が私たちを人間たらしめているのかを忘れないで！」"
+        }
+      ]
+    },
+    "games/games-schofield-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Sledgehammer Gamesを率い、Krafton傘下でStriking Distance Studiosを指揮したGlen Schofieldは、この夏に引退し、いまは絵を描いている。COVIDで開発が混乱した後に約束されていた2023年3月より数カ月早い2022年12月に、KraftonからThe Callisto Protocolの発売を強いられたと彼は語る。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "AAAの開発費は高くなりすぎたと彼は言う。「1億5000万ドル（$150 million）未満でゲームを作れたら本当にうれしい」。Dead Spaceの開発費は2800万ドル（$28 million）だった。"
+        },
+        {
+          "t": "p",
+          "x": "「いまは、創造的なアイデアの方がAIよりも多くのお金を節約できる」と彼は言い、古いゲームアセットを創造的に再利用して約2500万ドル（$25 million）を節約する計画を例に挙げた。"
+        },
+        {
+          "t": "p",
+          "x": "彼はAI推進派だが、AIをツールとみなすことは拒む。「Midjourneyは私にとってひとつの媒体になった」。AIは限られた領域で使うという。「衝突判定を直そう。カメラを良くしよう」"
+        }
+      ]
+    },
+    "games/games-unity-spark-asset-store": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        },
+        {
+          "t": "p",
+          "x": "Unityは、ブラウザ上で動くゲーム制作プラットフォーム「Unity Spark」を発表した。従来のプログラミングやUnity Editor全体を先に習得しなくても、インタラクティブな体験を記述し、組み立て、磨き上げ、公開できるようにすることを狙う。"
+        },
+        {
+          "t": "p",
+          "x": "Unity CEOのMatt Bromberg氏は、Sparkを一つのプロンプトでゲームを生み出すツールとはまったく異なるものとして位置づける。目指すのはアイデアを形にする際の技術的な障壁を一部取り除くことであり、創作プロセスを自動化することでも、最初のプロンプトで完成したゲームができると装うことでもない。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+          "cap": "Emberwell | Untiy Sparkで作られたAction RPG"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+          "cap": "Space Corridor | Unity Sparkで作られたShooter"
+        },
+        {
+          "t": "p",
+          "x": "「これは“one-shotting”の話ではない。すでに生み出されたゲームをAIに吐き出させても、次のHideo Kojimaにはなれない…Unity SparkはUnity Asset Storeに直接つながっており、コミュニティのアーティストが作った数千点の高品質なアセットを使って制作できる」– Matt Bromberg"
+        },
+        {
+          "t": "p",
+          "x": "Financial Timesによると、Sparkは「一部のアセットを生成」できるが、画像やエフェクトの大半はUnityが持つ人の手による既存ライブラリから提供され、素材を提供したアーティストにはクレジットと報酬が与えられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+          "cap": "Horror Story | Unity Sparkで作られたHaunted House"
+        },
+        {
+          "t": "p",
+          "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
+        }
+      ]
     }
   }
 }

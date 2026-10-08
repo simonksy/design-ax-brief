@@ -6148,6 +6148,144 @@
           "x": "El 15 de octubre, Mundell y el CTO Remko Noteboom, con Tippett conectado a distancia, presentarán \"The Hybrid Trap: Why AI-Native Production Matters\", donde mostrarán contenido entre bastidores de proyectos cinematográficos AI-supported que reflejan el estilo visual artesanal del director. Tippett dedicó unos 30 años a Mad God, estrenada en cines en 2022."
         }
       ]
+    },
+    "movies/movies-cinema4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maxon ha incorporado compatibilidad nativa con Model Context Protocol (MCP) en Cinema 4D mediante el nuevo servidor Cinema 4D MCP, que permite a los artistas usar instrucciones en lenguaje natural para dirigir de forma segura asistentes de AI como Claude y ChatGPT o Codex dentro de los flujos de trabajo de Cinema 4D."
+        },
+        {
+          "t": "p",
+          "x": "“La idea es sencilla: los artistas conservan el control mientras delegan cualquier tarea que consideren una carga”, afirma el CEO de Maxon, David McGavran. Los artistas pueden usar los asistentes para organizar cientos de objetos importados en una jerarquía coherente, crear variaciones de objetos y materiales, preparar renders multipase (multi-pass) y encargarse de tareas básicas de seguimiento de cámara 3D, mapeado UV, rigging y animación."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Cada acción se ejecuta a través de la propia API de Cinema 4D, en la escena del artista y en su propia máquina. Los resultados se mantienen como datos de escena nativos, cada lote de cambios aparece desglosado en el historial de deshacer y los comandos se registran en un log de auditoría local. El servidor está protegido por un token de acceso, los artistas eligen qué grupos de herramientas puede usar el asistente y la ejecución de Python se puede controlar."
+        },
+        {
+          "t": "p",
+          "x": "MCP viene desactivado de forma predeterminada y está disponible en Cinema 4D 2026.4 o posterior en Windows y macOS, sin instalaciones adicionales."
+        }
+      ]
+    },
+    "movies/movies-dfx-techshow-ai-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+          "cap": "El supervisor de VFX Hong Jeong-ho durante su presentación en el DFX Tech Show."
+        },
+        {
+          "t": "p",
+          "x": "El DFX Tech Show es el programa insignia del Festival de Cine de Efectos Especiales de Daejeon (DFX), donde profesionales en activo del sector presentan tendencias industriales y tecnológicas e historias de producción. El 18 de septiembre, la sesión ‘Lo que no existe en la realidad, como si fuera real-UNREAL’ contó como ponentes con Jang Seong-ho, director de MOFAC Studio; Lee Jae-won, supervisor de modelado de DreamWorks, y Hong Jeong-ho, supervisor de VFX de Dexter Studios."
+        },
+        {
+          "t": "p",
+          "x": "Jang señaló que en el sector empieza a aparecer el término ‘chip valley’ y que “la era en la que la AI se usa activamente en la producción de contenido audiovisual y resuelve muchas cosas por sí sola está a la vuelta de la esquina”, aunque al final lo decisivo es lo bien que se plasma la intención del creador. Hong repasó su trabajo en <Gunche> y explicó que la tendencia reciente es usar AI para crear previsualizaciones con una calidad cercana al resultado final. En la sesión ‘REAL’ del 19 de septiembre, directores de arte, artes marciales y maquillaje de efectos especiales hablaron de cómo combinar el trabajo físico con la producción actual."
+        },
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+        },
+        {
+          "t": "p",
+          "x": "El 18 de septiembre también se celebró la ceremonia de premios del concurso de video con AI ‘Ai AI que hace realidad la imaginación vol.2’, organizado por la ciudad de Daejeon. Se presentaron 504 obras, un 139% más que el año anterior, y los 19 trabajos premiados se repartieron un total de 4800만원. El presidente del jurado, Son Seung-hyun, director de Westworld, explicó que este año el foco estuvo en cuán completa y profunda era la historia construida con la AI como herramienta."
+        }
+      ]
+    },
+    "movies/movies-messiah-bethlehem-restoration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La única cinta VHS que se conserva de Messiah in Bethlehem, un concierto de 1994, ha sido restaurada para su proyección en salas. Único material audiovisual rodado en la iglesia donde nació Cristo, el concierto fue una coproducción de israelíes y palestinos, ante un público de cristianos, musulmanes y judíos."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo lo realizó DigitalFilm Tree (DFT) en Hollywood. Su CTO y colorista sénior, Thomas Galyon, dirigió la restauración digital, la composición y el color, después de que el casete original se digitalizara con corrección de base de tiempo (time-based correction)."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+          "cap": "Thomas Galyon, durante el trabajo de restauración."
+        },
+        {
+          "t": "p",
+          "x": "Después, herramientas AI-based abordaron el ruido, el desenfoque, el entrelazado y la inestabilidad: superresolución (super-resolution) de 480i hacia 1080p o 4K, desentrelazado AI-assisted, reducción de ruido que separa el detalle real del ruido analógico y modelos transformer-based que usan fotogramas vecinos para estabilizar la imagen. El color se terminó en DaVinci Resolve y la composición en Nuke, y en el audio se corrigieron el siseo, el zumbido y la distorsión."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“La AI no creó el producto final, Lost Treasure: Messiah in Bethlehem; lo reveló”, escribe Galyon. La restauración fue “un acto de recuperación, no de invención”."
+        }
+      ]
+    },
+    "movies/movies-serhant-heygen-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Ryan Serhant, el agente inmobiliario estrella de “Owning Manhattan” de Netflix, dice que su empresa produce unas 2,200 publicaciones sociales al mes, con un estudio de producción propio (in-house) de unas 100 personas. Ahora se ha asociado con HeyGen para crear una presencia en redes sociales protagonizada por un avatar AI basado en su imagen, que aparece en Instagram, TikTok y X como @HeySerhant para compartir lecciones de décadas en el sector inmobiliario."
+        },
+        {
+          "t": "p",
+          "x": "“He acumulado años de lecciones que no siempre tengo tiempo de convertir en contenido”, dice a Variety. “Si tienes una marca construida en torno a un rostro, si tienes una marca construida en torno a una voz, ¿cómo la escalas?”"
+        },
+        {
+          "t": "p",
+          "x": "La cuenta producirá al menos un video al día durante al menos 12 meses, y Serhant y su equipo trabajarán en cada uno. No sustituirá su contenido personal, como los videos de “un día en la vida de un CEO”. El acuerdo sigue a otras figuras que han cedido su imagen a empresas de AI, como Sunny Hostin con Fountain 0."
+        }
+      ]
+    },
+    "movies/movies-dittodub-native6-dubbing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DittoDub lanzó su nuevo modelo de doblaje AI, Native 6, que ya admite 109 idiomas, incluidas 126 opciones de dialecto."
+        },
+        {
+          "t": "p",
+          "x": "Lanzado como el nuevo modelo de doblaje predeterminado para los videos subidos a su plataforma, Native 6 está pensado como una forma sencilla y eficaz para que creadores y equipos de video trasladen la voz, la energía y la carga emocional de un hablante a un video traducido."
+        },
+        {
+          "t": "p",
+          "x": "“Los espectadores conectan con la personalidad de un creador: cómo cuenta una historia o remata un chiste. Cuando un video pasa a otro idioma, esa personalidad debería ir con él. Ese es el estándar en torno al cual construimos Native 6.” - Nate Stone, CEO y cofundador de DittoDub."
+        },
+        {
+          "t": "p",
+          "x": "Funciona con el flujo de localización de video que la empresa ya ofrece: los equipos suben un video grabado, eligen los idiomas de destino y luego revisan y editan el texto traducido y las voces antes de compartirlo."
+        },
+        {
+          "t": "video",
+          "yt": "ZOqyQrAyjRw"
+        },
+        {
+          "t": "p",
+          "x": "La plataforma también admite varios hablantes y prepara el audio doblado, los subtítulos y los títulos y descripciones traducidos del video. Una extensión, YouTube Sync, transfiere estos recursos directamente a YouTube Studio."
+        },
+        {
+          "t": "p",
+          "x": "Native 6 ya está disponible en los planes de suscripción mensual de DittoDub, desde unos $50 al mes."
+        }
+      ]
     }
   }
 }

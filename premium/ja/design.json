@@ -7204,6 +7204,141 @@
           "x": "Atlassianはモーション素材を再利用可能なコンポーネントに変え、エージェントはデザインシステム内でデザイナーがイージングやデュレーションを繰り返し調整するのを手助けしている。「静的なデザインを扱うデザイナーにとって、スキルの幅が広がった」とProduct DesignerのDavy Fungは語る。"
         }
       ]
+    },
+    "design/design-keyshot-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+          "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot 2026は、レンダリング結果の向上とワークフローの簡素化に向けて引き続きAIを取り入れており、Creative Bloqはこれまでになく使いやすく速いと評価する。新機能には、編集とアップスケーリングに対応したAI ShotsによるよりリアルなAI出力、強化されたMove Tool + Custom Pivot、まったく新しいGalleryがある。"
+        },
+        {
+          "t": "p",
+          "x": "AI ShotsはKeyShotが2025.2で導入した生成AIワークフローで、CADモデルから画像を生成したり既存の画像を編集したりでき、現在ははるかに短いプロンプトでも機能する。アップスケーラーは従来のレンダリングとAI Shotsの両方の解像度を二倍または四倍にできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+          "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+        },
+        {
+          "t": "p",
+          "x": "16GBのMacBook Pro(推奨は32GB)でテストしたところ、AI Shotsは一度もクラッシュしなかったが、プロンプトによっては五分以上かかり、プロンプトを読み違えることもあった。また、20GB近いAIデータのダウンロードも必要だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+          "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot Professionalは月額$108.25(年額$1,299の一括請求)、KeyShot Businessは月額$133.25(年額$1,599)だ。KeyShotはほぼ製品ビジュアライゼーション専用に設計されている。"
+        }
+      ]
+    },
+    "design/design-free-ai-creative-cloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "CanvaとAffinityがAdobeを脅かし続ける一方、Adobe自身もAI規約と解約ポリシーによって一部のユーザーを遠ざけてきた。"
+        },
+        {
+          "t": "p",
+          "x": "後者は、個人開発者のBrandon Thomasが、Photoshop、Premiere、IllustratorなどAdobeの人気ツールをいくつも再現するきっかけになったようだ。ツールはClaudeとRustで作り直された。彼はHacker Newsで「ダークパターンの『解約手数料』に何度も噛まれた」と述べている。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+        },
+        {
+          "t": "p",
+          "x": "「私はただの気軽なバイブコーダーではない。業界歴15年(15-year)のベテランだ」とThomasはRedditに書き、Hacker Newsでは「ソフトウェアは終わった」と付け加えた。"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloqは懐疑的だ。AIで複製を作ることは新しいものを生み出すほど刺激的ではなく、プロのクリエイターが自分のファイルや生計をAIが生成した(AI-generated)ソフトウェアに委ねる姿は想像しにくいという。あるRedditorが言うように、Photoshopにぼんやり似ているだけの実績のないソフトウェアは、長期にわたって保守される信頼できるソフトウェアとはまったく違う。"
+        }
+      ]
+    },
+    "design/design-claude-frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropicのfrontend-designスキルは、同社のskillsリポジトリで公開され、公式Claude Codeマーケットプレイスのプラグインとしても提供されている。スクリプトもコンポーネントライブラリもない、71行のMarkdownファイル一つだ。このスキルがもたらす変化はすべて、Claudeの計画の立て方を変えることで生まれる。"
+        },
+        {
+          "t": "p",
+          "x": "スキルはClaudeに主題から出発してデザインするよう指示し、避けるべき生成デザインの癖(セリフ体とテラコッタのアクセントを載せたクリーム色の背景、「SaaS card kit」、ALL-CAPSのアイブロウ)を名指しする。さらにコードを書く前に、名前付きのhexカラー4〜6色、書体、ASCIIレイアウトからなるトークン計画を求める。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+          "cap": "frontend-designスキルあり。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+          "cap": "同じブリーフをスキルなしで。"
+        },
+        {
+          "t": "p",
+          "x": "架空の帳簿アプリLedgerlineのランディングページという一つのブリーフで、スキルを使った実行ではall-capsのラベルが9個から0個に、中黒の文字列が4個から0個に減り、375 pxで横スクロールは発生しなかった(スキルなしでは16 pxはみ出した)。所要は14ターン・5.7分で、2ターン・3.3分より長く、費用は$1.61対$0.98だった。"
+        },
+        {
+          "t": "p",
+          "x": "どちらのページも製品の事実をでっち上げるのは防げず、前後にスペースを入れたem dashも七つ残った。各実行は一回のみなので、ベンチマークではなく一つの例として見るべきだ。"
+        }
+      ]
+    },
+    "design/design-copilot-identity": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "FgHhrBiamzw"
+        },
+        {
+          "t": "p",
+          "x": "アプリ、ツール、コンテキストが、新しいCopilotアイデンティティのもとでひとつになる。仕事から着想を得て、仕事のためにデザインした。"
+        }
+      ]
+    },
+    "design/design-chatgpt-intelligent-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+          "cap": "画像: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPTに新機能Intelligent UIを導入する。チャットボットが質問にインタラクティブなビジュアルで答えられるようにする機能だ。GPT-6とともに全ユーザーへ順次提供されるこのアップデートにより、ChatGPTはテキストの回答に図、グラフ、フォーム、タップできるボタンなどを組み合わせられるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIによると、GPT-6にはテキストよりインタラクティブなビジュアルを生成すべき場面と、その組み立て方を学習させたという。例の一つは七段変速の自転車の図で、各部品をハイライトするインタラクティブなボタンが付いている。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPTが七段変速の自転車の設計を示す図を生成する。画像: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "別の例では、ChatGPTが各牌をスクロールできるカテゴリーに並べたビジュアルで麻雀（Mahjong）を教える。退職後の貯蓄計算機、レトロゲーム、割り勘ツールなどを生成させることもでき、これらは回答の中にそのまま組み込まれる。"
+        },
+        {
+          "t": "p",
+          "x": "Intelligent UIを備えたGPT-6は、本日から世界のPlus、Pro、Business、Enterpriseユーザーに順次提供され、木曜日にはGoと無料プランにも広がる。上位プランは中位モデルのGPT-6 Solを、Goと無料ユーザーはより効率的なGPT-6 Lunaを使う。"
+        }
+      ]
     }
   }
 }

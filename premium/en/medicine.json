@@ -195,6 +195,115 @@
           "x": "That hospital has used the system since 2023, supporting around 200,000 breast exams over three years, and this is the vendor's second region wide rollout in Sweden after Dalarna County. The news follows a Berlin based company's announcement that it received the world's first approval for a breast triage tool that bypasses radiologist review entirely for normal mammograms."
         }
       ]
+    },
+    "medicine/medicine-suki-ask-uptodate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
+        },
+        {
+          "t": "p",
+          "x": "Suki launched Ask, a tool that lets clinicians ask complex clinical questions using Wolters Kluwer’s UpToDate Expert AI API directly within the Suki for Clinicians app. Answers are grounded in UpToDate’s proprietary content, developed by more than 7,600 physician authors, editors and peer reviewers; it is the first product integration of the API."
+        },
+        {
+          "t": "p",
+          "x": "Responses include transparent sourcing, medication and dosing considerations and links to supporting content. “Clinicians selected patient-specific insights 83% of the time across various queries, including diagnoses, dosages and safety considerations,” said Suki chief product officer Abhi Pathak."
+        },
+        {
+          "t": "p",
+          "x": "Ask is available across Epic, Oracle Health, athenahealth and Meditech EHR systems. In late August, Suki also rolled out Suki Dictation, built natively inside Epic and Meditech EHRs."
+        }
+      ]
+    },
+    "medicine/medicine-ai-depression-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Ministry of Health and Welfare and the Korean Neuropsychiatric Association released the “Guidelines for Using Generative AI for Mental Health Purposes” on the 8th, ahead of Mental Health Day on the 10th. Their message: do not accept AI answers as medical judgment, and seek help from professionals in a mental health crisis."
+        },
+        {
+          "t": "p",
+          "x": "The guidelines for all users contain 3 key messages and 21 recommendations. They advise checking a service's purpose, evidence base and personal data handling before use, and recommend: “Don't take what AI says about your condition as a conclusion” and “Keep your distance from AI, and talk to a person.” Children and adolescents, and guardians, were each given 7 recommendations."
+        },
+        {
+          "t": "p",
+          "x": "In a Korea Institute for Health and Social Affairs survey (1,019 people), 68.8% of respondents had used generative AI for emotional purposes, and 14.6% had accepted AI's judgment as a medical diagnosis or used it to diagnose themselves with a mental illness. Among adolescents aged 15 to 18, 51.7% said they consider themselves somewhat dependent on AI."
+        },
+        {
+          "t": "p",
+          "x": "Choi Jun-ho, chairman of the Korean Neuropsychiatric Association, stressed: “Since AI cannot replace professional assessment and treatment, it is important to get timely help from medical staff when needed.”"
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-llm-ehr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Epilepsy and psychogenic non-epileptic seizures often present with similar seizure-like manifestations but require fundamentally different management strategies. Misdiagnosis is common and can lead to prolonged diagnostic delays, unnecessary treatments, and substantial patient morbidity. Although prolonged video-electroencephalography is the diagnostic gold standard, its high cost and limited accessibility hinder timely diagnosis."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Here, we developed a low-cost, effective approach, EpiScreen, for early epilepsy detection by utilizing routinely collected clinical notes from electronic health records. Through fine-tuning large language models on labeled notes, EpiScreen achieved an AUC of up to 0.875 on the MIMIC-IV dataset and 0.980 on a private cohort of the University of Minnesota. In a clinician-AI collaboration setting, EpiScreen-assisted neurologists outperformed unaided experts by up to 14.3%."
+        },
+        {
+          "t": "p",
+          "x": "Overall, this study demonstrates that EpiScreen supports early epilepsy detection, facilitating timely and cost-effective screening that may reduce diagnostic delays and avoid unnecessary interventions, particularly in resource-limited regions."
+        }
+      ]
+    },
+    "medicine/medicine-clinicalgpt-med-safety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Real-time medication-safety auditing requires current laboratory and medication histories, yet EHRs may contain stale or missing decisive evidence. The authors present ClinicalGPT, an audit-ready foundation model using Clinical Trajectory Language to encode time, units, provenance, and observability."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Across seven health systems, they retrospectively evaluated 847,000 eligible high-risk medication orders. ClinicalGPT with hard constraints achieved 3.2 misses per 1000 orders, versus 9.4 for rules only, 6.1 for the original generic LLM comparator, and 4.8 for the strongest LLM comparator (RAG + LLM + rules). Its false-alert rate was 33.9, versus 38.7 for rules only."
+        },
+        {
+          "t": "p",
+          "x": "The offline metric did not measure clinical actions, adverse drug events, or patient harm; the findings support comparative order-time auditing performance but do not establish clinical effectiveness or reduced patient harm."
+        }
+      ]
+    },
+    "medicine/medicine-fda-pediatric-bone-age-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+          "cap": "Photo: Lerner Children’s Pavilion at Hospital for Special Surgery"
+        },
+        {
+          "t": "p",
+          "x": "The U.S. Food and Drug Administration has cleared AI software designed to improve pediatric bone age assessments. The 510(k) clearance covers Visiana’s BoneXpert, a machine learning software that determines bone age in patients ages 2 to 21 using the Greulich-Pyle method, intended to support pediatric radiologists in evaluating children with growth and pubertal disorders."
+        },
+        {
+          "t": "p",
+          "x": "Manual assessment is a known challenge and can vary between readers. BoneXpert analyzes radiographs of either hand and provides an annotated image showing the bones it evaluated and their individual bone ages. It withholds a result when an image falls outside its validated scope; the radiologist remains responsible for the final assessment."
+        },
+        {
+          "t": "p",
+          "x": "In a multicenter study at five U.S. sites, its root mean square error was 0.55 years, compared with 0.76 years for radiologists, with fewer results off by at least 1.5 years (1.7% vs. 6.4%). The software runs on-premise, so radiographs do not leave the institution."
+        },
+        {
+          "t": "p",
+          "x": "BoneXpert has been used clinically in Europe since 2009 and is supported by more than 50 peer-reviewed studies. Visiana plans to release it in the U.S. in early October."
+        }
+      ]
     }
   }
 }

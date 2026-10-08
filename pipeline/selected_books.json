@@ -1,107 +1,106 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "books",
   "items": [
     {
-      "title": "Your Next Great Read Might Be Certified ‘Organic’",
-      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
-      "source": "WIRED",
-      "published_iso": "2026-10-07T08:30:00Z",
-      "og_image": "https://media.wired.com/photos/6abfd3ec63cea41649272758/191:100/w_1280,c_limit/Business_Plagued%20By%20AI%20Scandals,%20Publishers%20Are%20Starting%20To%20Sell%20%E2%80%98Organic%20Literature%E2%80%99_v1.jpg",
-      "excerpt": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers pick out books authored by real humans.",
+      "title": "Frankfurt Book Fair 2026: Germany Finds in Favor of Copyright Holders Against AI",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101447-frankfurt-book-fair-2026-germany-finds-in-favor-of-copyright-holders-against-ai.html",
+      "source": "Publishers Weekly",
+      "published_iso": "2026-10-08T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG",
+      "excerpt": "A regional court in Munich has twice ruled that LLMs are memorizing work, an illegal act of reproduction",
       "category": "books",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new 'organic literature' stamp gives readers a human-authored label at the point of purchase; the broader of the two human-made-label stories, so it beats the Börsenblatt one."
+      "rationale": "A court decision: a Munich regional court has ruled that LLM memorization of works is illegal reproduction. This shifts the legal ground under every licensing and training-data dispute publishers are in."
     },
     {
-      "title": "S&S Staff Balk at AI Performance-Tracking Software Talks",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
+      "title": "Frankfurt Book Fair: Storytel’s Talks AI-translated Audiobooks",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101454-frankfurt-book-fair-storytel-s-talks-ai-translated-audiobooks.html",
       "source": "Publishers Weekly",
-      "published_iso": "2026-10-07T00:00:00-04:00",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG",
-      "excerpt": "Simon & Schuster employees are circulating an open letter opposing use of Skan AI or similar software to monitor their work; the CEO says there is no company-wide rollout.",
+      "published_iso": "2026-10-08T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG",
+      "excerpt": "The company has automated its translation publishing workflow and introduced Genie, a new AI-powered companion.",
       "category": "books",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New event: Big Five staff circulate an open letter against AI work-monitoring software, and the CEO responds. AI moves from the manuscript to tracking the workers who handle it."
+      "rationale": "A major audiobook platform has fully automated its translation-to-audio workflow and launched Genie, an AI companion. This is a concrete production change, not a debate."
     },
     {
-      "title": "TRACE Project Launches to Advance AI interoperability",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-10-07T09:30:07+00:00",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-scaled.jpg",
-      "excerpt": "The scholarly publishing community launches TRACE, a project to improve generative AI systems' interoperability, verifiability and usage tracking of licensed content.",
+      "title": "Intellectual Property Office registers UK’s first ‘human-authored’ certification mark",
+      "url": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-07T07:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+      "excerpt": "The Intellectual Property Office (IPO) has registered the UK’s first certification mark for human-authored books.",
       "category": "books",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A concrete industry launch: a shared project to make licensed content traceable and verifiable inside generative AI systems, the plumbing the licensing deals depend on."
+      "rationale": "Follow-up with a new official act: the UK IPO has formally registered a 'human-authored' certification mark, so the label now has legal standing instead of being only an industry stamp."
     },
     {
-      "title": "Pangram CEO says ‘no bias’ in its AI-detection tool, as adoption rises",
-      "url": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
-      "source": "The Bookseller",
-      "published_iso": "2026-10-07T07:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-      "excerpt": "Pangram's co-founder defended its AI detection tool against claims it penalises authors of colour, citing a huge upswing in adoption by publishers.",
+      "title": "Barrierefreies Lesen und KI-gestützte Hörbuchproduktion",
+      "url": "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501",
+      "source": "Börsenblatt",
+      "published_iso": "2026-10-07T12:00:54Z",
+      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW",
+      "excerpt": "Der Digital Publishing Award 2026 zeichnet Avneesh Singh, die Nahdet Misr Group, Pozotron Studio und ReadBee aus. Die Preisträger wurden am 7. Oktober auf der Frankfurter Buchmesse aus 42 Einreichungen ausgewählt.",
       "category": "books",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "AI detection is becoming routine at publishers, and the leading vendor is now answering bias claims; this directly affects how submitted manuscripts get screened."
+      "rationale": "Follow-up with a new result: the Digital Publishing Award winners are announced, including an AI-assisted audiobook production studio (Pozotron), showing which AI publishing tools the industry is endorsing."
     },
     {
-      "title": "KI in Büchern: Schreiben nein, Übersetzen ja?",
-      "url": "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193",
-      "source": "Börsenblatt",
-      "published_iso": "2026-10-06T13:45:10+02:00",
-      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-      "excerpt": "79 percent of respondents in a new survey support AI for book translation, but only 29 percent would read a book written entirely by AI.",
+      "title": "‘We have fine dining, and we have McDonalds’: Publishers hotly debate AI narration at FBF",
+      "url": "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf",
+      "source": "The Bookseller",
+      "published_iso": "2026-10-07T15:00:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+      "excerpt": "Publishers from Blinkist, Storytel and Horbuch Hamburg Verlag debated the value of AI narration on a panel, chaired by Chris Kling, CEO of Audio, at Frankfurt Book Fair today (7th October), with questions of distrust, value and listener preference raised.",
       "category": "books",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "New reader-survey numbers: readers accept AI for translation (79%) but reject AI-written books (29%), a clear split that can guide where publishers deploy AI."
+      "rationale": "Audio publishers at Frankfurt take a two-tier position on AI narration ('fine dining vs McDonalds'), which tells authors and producers where human narration is still expected to win."
     }
   ],
   "alternates": [
-    "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf",
-    "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501",
-    "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101453-frankfurt-book-fair-2026-five-questions-with-elisabeth-jaquette.html",
-    "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader"
+    "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+    "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+    "https://www.thebookseller.com/news/toniebox-will-never-become-ai-toy-ceo-tobias-wann-tells-fbf"
   ],
   "dedup": {
     "checks": {
-      "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/": {
+      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101447-frankfurt-book-fair-2026-germany-finds-in-favor-of-copyright-holders-against-ai.html": {
         "verdict": "new",
-        "nearest": "https://www.hani.co.kr/arti/culture/book/1280041.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html",
         "new_action": ""
       },
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html": {
+      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101454-frankfurt-book-fair-storytel-s-talks-ai-translated-audiobooks.html": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html",
         "new_action": ""
       },
-      "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/": {
-        "verdict": "new",
-        "nearest": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/",
-        "new_action": ""
+      "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark": {
+        "verdict": "follow-up",
+        "nearest": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+        "new_action": "UK Intellectual Property Office formally registered the first 'human-authored' certification mark (an official registration decision, not covered by the 10/08 WIRED piece on the stamp)."
       },
-      "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises": {
-        "verdict": "new",
-        "nearest": "https://platum.kr/archives/295202",
-        "new_action": ""
+      "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501": {
+        "verdict": "follow-up",
+        "nearest": "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/",
+        "new_action": "Digital Publishing Award 2026 winners announced on 7 Oct at Frankfurt (10/02 card covered only the 12 finalists)."
       },
-      "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193": {
+      "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf": {
         "verdict": "new",
-        "nearest": "https://selfpublishingadvice.org/ai-survey-reveals-deep-divide-among-writers/",
+        "nearest": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse",
         "new_action": ""
       }
     },
-    "note": "DROPPED: (1) The Bookseller 'Sales of Thelyson Orelien's novel skyrocket' (history_match likely-repeat, 9/24 Bookseller + 9/26 Guardian): a sales surge is extra reporting on the same AI-authorship story, with no new decision or release, so it is a duplicate. (2) Börsenblatt 'Neues Label: Von Menschen gemacht': same theme as the WIRED 'organic literature' stamp (a human-made certification label), so at most one per the orchestrator. WIRED kept as the broader, fresher piece. RANKED ALTERNATES (not picked): Bookseller AI-narration panel at FBF (panel debate; the AI-narration theme already ran 9/08, 10/02, 10/03, and this would be a second Bookseller card); Börsenblatt Digital Publishing Award winners (a valid follow-up to the 10/02 PP finalists card, since the winners announcement is new, but it would be a second Börsenblatt card and the finalists story already ran); PW Jaquette interview (history_match 'related' to the 9/25 PW Frankfurt preview; an interview, and WWB rejecting AI translation overlaps the 9/18 and 9/29 translator cards); Good e-Reader CastReader how-to (an evergreen guide); Creative Penn podcast (its news items, the KDP cap and the IDPA, already published). DIVERSITY: 5 picks from 5 distinct outlets (WIRED, PW, Scholarly Kitchen, Bookseller, Börsenblatt), no repeated URLs, distinct accents."
+    "note": "DROPPED: (1) Börsenblatt 'Datenturbo: KI für Metadaten' (Snackz): the same running story as the 9/29 PP 'MVB builds Snackz AI metadata into its system', a startup profile with no new release. (2) TechCrunch Spotify audiobooks in 180 markets: librarian note says AI appears only in passing (ElevenLabs mention), and Spotify AI narration already ran on 9/13. (3) PP Tonies and Bookseller Toniebox: AI is peripheral in both (business strategy and a CEO saying it won't be an AI toy). (4) Good e-Reader CastReader how-to: an evergreen guide. (5) Creative Penn podcast: AI only in passing. (6) Writer's Digest book comps: no AI angle. ALTERNATES: PW 'jobs will adapt' panel (it would be a 3rd PW card); PP ENLIT translators (AI is tangential, and the translator theme ran 9/18 and 9/29). Storytel's history_match (9/25 PW Frankfurt preview) was checked: a different story (a new workflow and Genie launch), and it is also distinct from the 9/26 Yle Storytel recaps story. DIVERSITY: PW 2, Bookseller 2, Börsenblatt 1, so 3 outlets; no duplicate URLs; distinct accents."
   }
 }

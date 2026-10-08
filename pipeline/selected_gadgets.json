@@ -1,100 +1,100 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-      "source": "TechCrunch",
+      "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+      "source": "Engadget",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Microsoft's Surface Laptop Ultra launch on Nvidia RTX Spark, built to run local AI models and agents; the hardware headline of the Windows and Surface event, with specs and price.",
-      "published_iso": "2026-10-07T20:22:37+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-      "excerpt": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents."
+      "rationale": "Amazon launches three new tablets built around Alexa+, its first hardware line rebranded around the AI assistant: a concrete product launch where AI is the selling point.",
+      "published_iso": "2026-10-08T13:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg",
+      "excerpt": "Amazon has launched three new tablets that come with Alexa+."
     },
     {
-      "title": "Microsoft is giving Copilot more control over Windows and your files",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-      "source": "The Verge",
+      "title": "Natura’s $99 smart ring puts AI agents on your finger",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A separate software announcement from the same event: Copilot gets local file access and can act across the OS under 'Hybrid Intelligence', which changes how people work in Windows day to day.",
-      "published_iso": "2026-10-07T18:01:20+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelligence,\" where apps and tools rely on a mix of […]"
+      "rationale": "A $99 ring that summons AI agents with a finger press to run tasks, capture thoughts and control devices: a new form factor for agent input, and a cheap one.",
+      "published_iso": "2026-10-08T16:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+      "excerpt": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
     },
     {
-      "title": "One UI 9 on the Galaxy S26 series: Here’s what’s changed",
-      "url": "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/",
-      "source": "SamMobile",
+      "title": "Apple is set to show off new smart home devices at an October 13 event",
+      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+      "source": "Engadget",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "One UI 9 (Android 17) reaches the Galaxy S26 line with new Galaxy AI tools: a concrete software release that changes what AI features millions of Samsung flagship users get, and the brief's only Android pick today.",
-      "published_iso": "2026-10-07T02:30:00+00:00",
-      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg",
-      "excerpt": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features you may have seen in One UI 9 coverage were already available on these phones. Ot"
+      "rationale": "Apple officially announces its 'Welcome Home' event for Oct 13, where a Siri/Apple Intelligence home hub is expected: the official date turns last month's rumor into a scheduled launch.",
+      "published_iso": "2026-10-08T16:16:30+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg",
+      "excerpt": "Apple teased a 'Welcome Home' event for October 13 at 9AM ET, where it is expected to show new smart home devices such as a Siri/Apple Intelligence-driven home hub."
     },
     {
-      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-      "source": "TechCrunch",
+      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Ars Technica",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "The iPod's creator explains why first-generation AI gadgets failed and what the next wave needs to earn trust: a useful product-design view for anyone designing AI hardware.",
-      "published_iso": "2026-10-07T14:41:38+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800",
-      "excerpt": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust."
+      "rationale": "Nvidia's full-stack safety system for physical AI, already used by robotics makers such as Agility: the layer that decides whether humanoids and robotaxis can be trusted around people.",
+      "published_iso": "2026-10-08T11:15:33+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+      "excerpt": "Full-stack safety solution for physical AI is being used by robotics companies."
     },
     {
-      "title": "If Apple's AI suggestions in Messages annoys you, there's a solution",
-      "url": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
-      "source": "9to5Mac",
+      "title": "This $1599 smart monitor robotic arm has its own built-in PC, and its 27-inch 4K display will follow you around thanks to its binocular 3D sensor",
+      "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New in the iOS 27.2 beta: settings that let users turn down Siri AI 'suggested actions' in Messages, a concrete change to how much control people have over AI in the UI.",
-      "published_iso": "2026-10-06T10:49:17+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "The current beta of iOS 27.2 includes a Siri AI “suggested actions” feature in the Messages app that some will consider useful and others find annoying. A developer who has found a number of unannounced features has discovered that Apple is seeking to keep everyone happy with a new set of options."
+      "rationale": "CyboPal's monitor on a robotic arm uses an on-device NPU for face tracking, gesture recognition and 3D sensing so the screen follows the user: on-device AI changing desk ergonomics.",
+      "published_iso": "2026-10-08T01:10:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+      "excerpt": "CyboPal's $1,599 smart monitor sits on a robotic arm with a built-in Rockchip RK3588 (6 TOPS NPU) 'Linux AI Compute Base' that handles on-device face tracking, gesture recognition and 3D spatial sensing so the 27-inch 4K display follows the user."
     }
   ],
   "alternates": [
-    "https://www.notebookcheck.net/Expandable-AI-workstation-with-RTX-PRO-Blackwell-introduced-in-a-compact-5L-chassis.1416965.0.html",
-    "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/"
+    "https://www.androidcentral.com/wearables/solos-gives-its-smart-glasses-a-physical-privacy-kill-switch",
+    "https://www.etnews.com/20261007000433"
   ],
   "dedup": {
     "checks": {
-      "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/": {
+      "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/": {
         "verdict": "new",
-        "nearest": "https://www.digitaltrends.com/computing/microsoft-snapdragon-x2-elite-surface-local-ai-demos/",
+        "nearest": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
         "new_action": ""
       },
-      "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence": {
+      "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+        "nearest": "https://www.tomsguide.com/wellness/smart-rings/circular-just-announced-two-new-smart-rings-at-ifa-2026-i-sat-down-with-their-ceo-to-find-out-more",
         "new_action": ""
       },
-      "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/": {
+      "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+        "new_action": "Apple officially announced its 'Welcome Home' event for October 13 at 9AM ET; the 09-22 card was only a report that the device might come next month."
+      },
+      "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/09/01/september-2026-android-drop/",
+        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/": {
+      "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
-        "new_action": ""
-      },
-      "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/": {
-        "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/09/09/apple-confirms-siri-ai-launches-in-english-this-month-will-add-five-languages-in-october/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "SWAP: Digital Trends 'Xreal puts a $1,279 price tag on its first Android XR glasses' removed after the fact-check found the article never mentions AI (keyword match only). Replaced with SamMobile One UI 9 on Galaxy S26: no history_match tag; no One UI 9 or Galaxy AI release card in the 30-day history_digest (nearest is the 09-09 9to5Google September Android Drop, a different vendor and release; the 09-20 Galaxy Watch9 review is a different product). No overlap with other sections today (design: ChatGPT Intelligent UI, MecAgent CAD, logo SVG skill, bounded delegation; movies: Google SynthID detector). Over the other alternates: Notebookcheck ASRock DeskSlim is a workstation with an 'AI' label, so the same keyword-only risk applies; 9to5Mac Apple Intelligence removal is opinion with no new event, it would be a second 9to5Mac card on the same 'switching off Apple AI' theme as the Messages pick, and it sits close to the 09-24 MacRumors 30GB story. Earlier drops (unchanged): PCWorld Surface Laptop Ultra and Notebookcheck Surface RTX Spark Dev Box (same Microsoft event as the TechCrunch pick); WIRED Meta-vs-Xreal (cluster c0, which is now gone entirely); GSMArena Fitbit Edge leak (= 10-07 Digital Trends Fitbit card); MacRumors Apple camera 'still coming' (running story, no new release); Road to VR Norway glasses ban and etnews Apple-LG (low AI relevance). Outlet spread: TechCrunch x2, The Verge, SamMobile, 9to5Mac."
+    "note": "Alexa tablets cluster c1: kept Engadget launch report; dropped WIRED 'Alexa tablets blueprint for Amazon phone' (same launch, analysis) and Engadget Panos Panay tease (same Oct 8 event, design-language preview with no shipping product). The tablets are a new hardware launch, distinct from the 10-01 Fire TV interface card. Dropped as published repeats: 9to5Google Copilot+ PC branding (= 09-26 Ars, likely-repeat); UploadVR Meta Muse on glasses (= 09-24 Android Authority leak, plus 09-23/10-03 Muse cards; no new release); 디일렉 RTX Spark laptops (= 10-08 TechCrunch Microsoft Nvidia-chip AI PCs); PCWorld Windows Search AI control center (= 10-08 Verge Copilot control over Windows/search, same event). Dropped on relevance/freshness: 9to5Google XREAL Aura price (yesterday's Digital Trends version of the same price story was pulled because the article never mentions AI; same risk here); Road to VR Norway smart-glasses ban (low AI relevance, dropped yesterday for the same reason); UploadVR Ray-Ban Display features/international launch (Connect news from 09-28, Meta glasses already covered heavily, nearest 10-06 9to5Google); Tom's Guide Amazon driver glasses (warehouse-tour feature, not a new launch). Alternates: Solos privacy kill switch, etnews DeepRobotics traffic humanoid. Outlet spread: Engadget x2, TechCrunch, Ars Technica, TechRadar."
   }
 }

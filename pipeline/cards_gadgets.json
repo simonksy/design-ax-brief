@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-surface-laptop-ultra-nvidia",
+      "id": "gadgets-alexa-tablets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Surface AI PCs\nNvidia 칩으로 구동",
-      "body": "Surface Laptop Ultra는 Nvidia 칩을 단 AI PC다.",
-      "mini_headline": "Surface AI PCs, Nvidia 탑재",
+      "headline": "Alexa+를 품은\nAmazon 새 태블릿",
+      "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
+      "mini_headline": "Amazon의 Alexa+ 태블릿",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,173 +19,174 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+            "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
           },
           {
             "t": "p",
-            "x": "Nvidia는 지난 6월 Microsoft를 비롯한 PC 제조사들과 손잡고 자사 RTX Spark 칩 기반의 AI·에이전트 대응(AI- and agent-ready) Windows PCs를 만들겠다고 발표했다. 수요일 Tech Week 중 San Francisco에서 열린 행사에서 Microsoft는 새 Surface Laptop Ultra의 사양과 가격을 공개했다. 기본 모델은 $2,600와 $3,700부터 시작하는 두 가지이고, 옵션을 더하면 $5,900까지 올라간다. 최상위 기기는 이미 품절됐다고 Microsoft는 밝혔다."
+            "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디에 Alexa+를 핵심으로 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
           },
           {
             "t": "p",
-            "x": "Microsoft는 Surface RTX Spark Dev Box 워크스테이션도 내놨다. 가격은 $6,000부터이고 VS Code, GitHub Copilot CLI, WSL, PowerShell 7이 함께 딸려 온다. 두 기기 모두 AI 모델을 기기에서 로컬로, 그것도 무료로 돌리도록 설계됐다."
+            "x": "12 Pro는 4nm 8코어 칩, 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Nanomatte로도 고를 수 있는데, Corning과 함께 유리에 눈부심 방지 질감을 새긴 버전이다. 가격은 $500부터, Nanomatte는 $550이다. Pro Pen은 $90, 키보드는 $150이고 Tablet 11은 $330, Tablet 8은 $230부터다."
           },
           {
             "t": "p",
-            "x": "두 기기는 새로 손본 Windows 11에서 돌아간다. 여기에는 AI 에이전트를 샌드박스로 격리하기 쉽게 해 주는 “Execution Containers” 기능이 들어갔고, CEO Satya Nadella는 이 기능을 모든 Windows 11 사용자에게 제공하겠다고 했다. 그는 “여러 모델에 맥락과 메모리, 행동 공간까지 받아낼 수 있는, 이렇게 제어된 계층이 있어야 한다”고 말했다."
+            "x": "세 제품 모두 새 Kindle 경험이 들어간다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 바로 물을 수 있다. 스포츠 경기 일정을 통째로 캘린더에 넣거나 영상 속 제품을 Amazon에서 찾는 식이다. 기본값은 꺼짐이라 사용자가 직접 켜야 한다."
           },
           {
             "t": "p",
-            "x": "누가 봐도 개발자를 겨냥한 기기다. MacBook Pro를 보상 판매하면 Microsoft가 최대 $1,000를 깎아 준다. Dell도 $3,800짜리 Nvidia-RTX Spark XPS 16 Creator Edition의 세부 사항을 내놨다."
+            "x": "판매는 10월 14일 미국(US), 멕시코, 캐나다에서 먼저 시작하고 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인으로 이어진다."
           }
         ]
       },
+      "lead_image": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg",
       "text": {
         "en": {
-          "headline": "Surface AI PCs now\nrun on Nvidia chips",
-          "body": "Surface Laptop Ultra is a new AI PC with Nvidia chips, built to run AI models and agents.",
-          "mini_headline": "Surface AI PCs on Nvidia",
+          "headline": "Amazon's new tablets\nare built around Alexa+",
+          "body": "Amazon has launched three new tablets that come with Alexa+, including a 12-inch model with an anti-glare screen.",
+          "mini_headline": "Amazon's Alexa+ tablets",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "Back in June, Nvidia announced agreements with Microsoft and other PC makers to develop AI- and agent-ready Windows PCs based on its RTX Spark chip. On Wednesday, at an event in San Francisco during Tech Week, Microsoft revealed the specs and price for its new Surface Laptop Ultra. It comes in two base models, starting at $2,600 and $3,700, with options up to $5,900. (Microsoft says the highest-end device is already out of stock.)"
+                "x": "Amazon has launched new Alexa tablets in 12, 11 and 8 inches, all with an aluminum unibody and Alexa+ built into their core. The flagship Alexa Tablet 12 Pro has \"three times faster processing and nine times faster graphics\" than any tablet Amazon has shipped."
               },
               {
                 "t": "p",
-                "x": "Microsoft also revealed the Surface RTX Spark Dev Box workstation, which starts at $6,000 and comes with VS Code, GitHub Copilot CLI, WSL, and PowerShell 7. Both are designed to run AI models on-device locally (and for free)."
+                "x": "The 12 Pro runs a 4nm 8-core chip with up to 16GB of RAM and a 120Hz, 3:2 display — optionally Nanomatte, an anti-glare texture etched into the glass with Corning. It starts at $500, or $550 for Nanomatte, with a $90 Pro Pen and $150 keyboard. The Tablet 11 starts at $330 and the Tablet 8 at $230."
               },
               {
                 "t": "p",
-                "x": "They run a revamped Windows 11 with a feature called “Execution Containers,” which makes it easier to sandbox AI agents; it will be available for all Windows 11 users, CEO Satya Nadella said. “You need to have this harnessed layer that is able to take multiple models plus context, plus memory, and the action space,” he said."
+                "x": "All three get a new Kindle experience, and Alexa+'s On-Screen Intelligence lets you ask the assistant about what's on screen — add every date of a sporting event to your calendar, or find a product seen in a video on Amazon. It is off by default and opt-in."
               },
               {
                 "t": "p",
-                "x": "The devices are clearly aimed at developers: Microsoft is offering up to $1,000 off to people who trade in a MacBook Pro. Dell also detailed its Nvidia-RTX Spark XPS 16 Creator Edition, priced at $3,800."
+                "x": "The tablets go on sale October 14 in the US, Mexico and Canada, and October 19 in the UK, Germany, France, Italy and Spain."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Surface AI PCs\nNvidia 칩으로 구동",
-          "body": "Surface Laptop Ultra는 Nvidia 칩을 단 AI PC다.",
-          "mini_headline": "Surface AI PCs, Nvidia 탑재",
+          "headline": "Alexa+를 품은\nAmazon 새 태블릿",
+          "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
+          "mini_headline": "Amazon의 Alexa+ 태블릿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia는 지난 6월 Microsoft를 비롯한 PC 제조사들과 손잡고 자사 RTX Spark 칩 기반의 AI·에이전트 대응(AI- and agent-ready) Windows PCs를 만들겠다고 발표했다. 수요일 Tech Week 중 San Francisco에서 열린 행사에서 Microsoft는 새 Surface Laptop Ultra의 사양과 가격을 공개했다. 기본 모델은 $2,600와 $3,700부터 시작하는 두 가지이고, 옵션을 더하면 $5,900까지 올라간다. 최상위 기기는 이미 품절됐다고 Microsoft는 밝혔다."
+                "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디에 Alexa+를 핵심으로 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
               },
               {
                 "t": "p",
-                "x": "Microsoft는 Surface RTX Spark Dev Box 워크스테이션도 내놨다. 가격은 $6,000부터이고 VS Code, GitHub Copilot CLI, WSL, PowerShell 7이 함께 딸려 온다. 두 기기 모두 AI 모델을 기기에서 로컬로, 그것도 무료로 돌리도록 설계됐다."
+                "x": "12 Pro는 4nm 8코어 칩, 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Nanomatte로도 고를 수 있는데, Corning과 함께 유리에 눈부심 방지 질감을 새긴 버전이다. 가격은 $500부터, Nanomatte는 $550이다. Pro Pen은 $90, 키보드는 $150이고 Tablet 11은 $330, Tablet 8은 $230부터다."
               },
               {
                 "t": "p",
-                "x": "두 기기는 새로 손본 Windows 11에서 돌아간다. 여기에는 AI 에이전트를 샌드박스로 격리하기 쉽게 해 주는 “Execution Containers” 기능이 들어갔고, CEO Satya Nadella는 이 기능을 모든 Windows 11 사용자에게 제공하겠다고 했다. 그는 “여러 모델에 맥락과 메모리, 행동 공간까지 받아낼 수 있는, 이렇게 제어된 계층이 있어야 한다”고 말했다."
+                "x": "세 제품 모두 새 Kindle 경험이 들어간다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 바로 물을 수 있다. 스포츠 경기 일정을 통째로 캘린더에 넣거나 영상 속 제품을 Amazon에서 찾는 식이다. 기본값은 꺼짐이라 사용자가 직접 켜야 한다."
               },
               {
                 "t": "p",
-                "x": "누가 봐도 개발자를 겨냥한 기기다. MacBook Pro를 보상 판매하면 Microsoft가 최대 $1,000를 깎아 준다. Dell도 $3,800짜리 Nvidia-RTX Spark XPS 16 Creator Edition의 세부 사항을 내놨다."
+                "x": "판매는 10월 14일 미국(US), 멕시코, 캐나다에서 먼저 시작하고 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인으로 이어진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Surface AI PCs\nNvidia チップ搭載",
-          "body": "Surface Laptop Ultraは、Nvidiaチップを積んだ新しいAI PCだ。",
-          "mini_headline": "Surface AI PCs、Nvidia搭載",
+          "headline": "Alexa+を軸にした\nAmazon新タブレット",
+          "body": "Amazonが12インチの反射防止モデルを含むAlexa+搭載タブレット三機種を発売した。",
+          "mini_headline": "AmazonのAlexa+タブレット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは6月、Microsoftをはじめとする PC メーカーと、自社の RTX Spark チップを基盤にした AI・エージェント対応(AI- and agent-ready)の Windows PCs を開発する契約を結んだと発表していた。水曜日、Tech Week 期間中に San Francisco で開かれたイベントで、Microsoft は新しい Surface Laptop Ultra の仕様と価格を明らかにした。ベースモデルは2種類で、$2,600 と $3,700 から始まり、オプションを加えると最大 $5,900 になる。(Microsoft によれば、最上位モデルはすでに在庫切れだという。)"
+                "x": "Amazonは12、11、8インチの新しいAlexaタブレットを発売した。いずれもアルミニウムのユニボディで、中核にAlexa+を組み込んでいる。フラッグシップのAlexa Tablet 12 Proは、Amazonがこれまでに出荷したどのタブレットよりも「処理が三倍、グラフィックスが九倍速い」という。"
               },
               {
                 "t": "p",
-                "x": "Microsoft はワークステーション Surface RTX Spark Dev Box も発表した。価格は $6,000 からで、VS Code、GitHub Copilot CLI、WSL、PowerShell 7 が付属する。どちらも AI モデルをデバイス上でローカルに(しかも無料で)動かすよう設計されている。"
+                "x": "12 Proは4nmの8コアチップ、最大16GBのRAM、120Hzで3:2のディスプレイを備える。ディスプレイは、Corningと共同でガラスに反射防止の質感を刻んだNanomatteも選べる。価格は$500から、Nanomatteは$550で、Pro Penは$90、キーボードは$150。Tablet 11は$330から、Tablet 8は$230からだ。"
               },
               {
                 "t": "p",
-                "x": "両機は刷新された Windows 11 で動作し、AI エージェントをサンドボックス化しやすくする「Execution Containers」という機能を備える。CEO Satya Nadella は、この機能をすべての Windows 11 ユーザーに提供すると述べた。「複数のモデルに加え、コンテキスト、メモリ、そして行動空間を受け止められる、制御されたレイヤーが必要だ」と彼は語った。"
+                "x": "三機種とも新しいKindle体験を備え、Alexa+のOn-Screen Intelligenceを使えば画面に表示された内容についてアシスタントに尋ねられる。スポーツイベントの全日程をカレンダーに追加したり、動画で見た製品をAmazonで探したりできる。この機能は初期設定でオフで、利用は任意だ。"
               },
               {
                 "t": "p",
-                "x": "これらのデバイスが開発者を狙っているのは明らかだ。Microsoft は MacBook Pro を下取りに出す人に最大 $1,000 を割り引く。Dell も $3,800 の Nvidia-RTX Spark XPS 16 Creator Edition の詳細を明らかにした。"
+                "x": "発売は10月14日に米国(US)、メキシコ、カナダで、10月19日に英国(UK)、ドイツ、フランス、イタリア、スペインで始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Surface AI PCs\n改用 Nvidia 芯片",
-          "body": "Surface Laptop Ultra 是搭载 Nvidia 芯片的全新 AI PC。",
-          "mini_headline": "Surface AI PCs 搭载 Nvidia",
+          "headline": "Amazon新平板\n以Alexa+为核心",
+          "body": "Amazon推出三款搭载Alexa+的新平板，其中包括一款配备防眩光屏幕的12英寸机型。",
+          "mini_headline": "Amazon的Alexa+平板",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "今年6月，Nvidia 宣布与 Microsoft 及其他 PC 厂商达成协议，基于其 RTX Spark 芯片开发面向 AI 与智能体(AI- and agent-ready)的 Windows PCs。周三，在 Tech Week 期间于 San Francisco 举行的活动上，Microsoft 公布了新款 Surface Laptop Ultra 的规格和价格。它有两款基础型号，起价分别为 $2,600 和 $3,700，选配后最高可达 $5,900。(Microsoft 称最高配机型已经售罄。)"
+                "x": "Amazon推出了12、11和8英寸的新款Alexa平板，全部采用铝制一体机身，并将Alexa+置于核心。旗舰机型Alexa Tablet 12 Pro比Amazon以往推出的任何平板都“处理速度快三倍、图形性能快九倍”。"
               },
               {
                 "t": "p",
-                "x": "Microsoft 还发布了 Surface RTX Spark Dev Box 工作站，起价 $6,000，预装 VS Code、GitHub Copilot CLI、WSL 和 PowerShell 7。两款设备都旨在在本地设备上运行 AI 模型(而且免费)。"
+                "x": "12 Pro搭载4nm 8核芯片，最高16GB RAM，配备120Hz、3:2的显示屏，可选Nanomatte——与Corning合作在玻璃上蚀刻的防眩光纹理。起售价$500，Nanomatte版$550，Pro Pen售价$90，键盘$150。Tablet 11起售价$330，Tablet 8起售价$230。"
               },
               {
                 "t": "p",
-                "x": "它们运行经过改版的 Windows 11，其中有一项名为“Execution Containers”的功能，可以更方便地把 AI 智能体放进沙盒；CEO Satya Nadella 表示，该功能将面向所有 Windows 11 用户开放。他说：“你需要这样一个受控的层，能够承接多个模型，加上上下文、记忆以及行动空间。”"
+                "x": "三款平板都将获得全新的Kindle体验。借助Alexa+的On-Screen Intelligence，用户可以就屏幕上的内容向助手提问——比如把一项体育赛事的所有日期加入日历，或在Amazon上找到视频里出现的商品。该功能默认关闭，需用户主动开启。"
               },
               {
                 "t": "p",
-                "x": "这些设备显然瞄准开发者：Microsoft 为以旧 MacBook Pro 换购的用户提供最高 $1,000 的折扣。Dell 也公布了售价 $3,800 的 Nvidia-RTX Spark XPS 16 Creator Edition 的细节。"
+                "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los Surface AI PCs ahora\nfuncionan con chips Nvidia",
-          "body": "Surface Laptop Ultra es un nuevo AI PC con chips Nvidia, diseñado para ejecutar modelos y agentes de AI.",
-          "mini_headline": "Surface AI PCs con Nvidia",
+          "headline": "Las nuevas tabletas de Amazon\ngiran en torno a Alexa+",
+          "body": "Amazon lanzó tres nuevas tabletas con Alexa+, entre ellas un modelo de 12 pulgadas con pantalla antirreflejos.",
+          "mini_headline": "Las tabletas Alexa+ de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "En junio, Nvidia anunció acuerdos con Microsoft y otros fabricantes de PC para desarrollar Windows PCs preparados para AI y agentes (AI- and agent-ready) basados en su chip RTX Spark. El miércoles, en un evento en San Francisco durante la Tech Week, Microsoft reveló las especificaciones y el precio de su nuevo Surface Laptop Ultra. Llega en dos modelos base, desde $2,600 y $3,700, con opciones de hasta $5,900. (Microsoft afirma que el equipo de gama más alta ya está agotado.)"
+                "x": "Amazon lanzó nuevas tabletas Alexa de 12, 11 y 8 pulgadas, todas con cuerpo unibody de aluminio y Alexa+ integrado en su núcleo. La insignia, Alexa Tablet 12 Pro, ofrece \"un procesamiento tres veces más rápido y gráficos nueve veces más rápidos\" que cualquier tableta que Amazon haya comercializado."
               },
               {
                 "t": "p",
-                "x": "Microsoft también presentó la estación de trabajo Surface RTX Spark Dev Box, que parte de $6,000 e incluye VS Code, GitHub Copilot CLI, WSL y PowerShell 7. Ambos están diseñados para ejecutar modelos de AI en el propio dispositivo, de forma local (y gratuita)."
+                "x": "La 12 Pro usa un chip de 4nm y 8 núcleos, hasta 16GB de RAM y una pantalla de 120Hz en formato 3:2, con la opción Nanomatte, una textura antirreflejos grabada en el vidrio junto con Corning. Parte de $500, o $550 con Nanomatte, con un Pro Pen de $90 y un teclado de $150. La Tablet 11 parte de $330 y la Tablet 8, de $230."
               },
               {
                 "t": "p",
-                "x": "Funcionan con una versión renovada de Windows 11 que incluye una función llamada “Execution Containers”, que facilita aislar agentes de AI en un sandbox; estará disponible para todos los usuarios de Windows 11, dijo el CEO Satya Nadella. “Hace falta esta capa controlada capaz de recibir varios modelos, además del contexto, la memoria y el espacio de acción”, afirmó."
+                "x": "Las tres reciben una nueva experiencia de Kindle, y On-Screen Intelligence de Alexa+ permite preguntar al asistente por lo que aparece en pantalla: añadir al calendario todas las fechas de un evento deportivo o encontrar en Amazon un producto visto en un video. Viene desactivada por defecto y hay que activarla."
               },
               {
                 "t": "p",
-                "x": "Los dispositivos están claramente dirigidos a desarrolladores: Microsoft ofrece hasta $1,000 de descuento a quienes entreguen un MacBook Pro. Dell también detalló su Nvidia-RTX Spark XPS 16 Creator Edition, con un precio de $3,800."
+                "x": "Las tabletas salen a la venta el 14 de octubre en Estados Unidos (US), México y Canadá, y el 19 de octubre en Reino Unido (UK), Alemania, Francia, Italia y España."
               }
             ]
           }
@@ -193,121 +194,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Surface AI PCs\nNvidia 칩으로 구동",
-          "body": "Surface Laptop Ultra는 Nvidia 칩을 단 AI PC다.",
-          "mini_headline": "Surface AI PCs, Nvidia 탑재",
+          "headline": "Alexa+를 품은\nAmazon 새 태블릿",
+          "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
+          "mini_headline": "Amazon의 Alexa+ 태블릿",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia는 지난 6월 Microsoft를 비롯한 PC 제조사들과 자사 RTX Spark 칩 기반의 AI·에이전트 대응(AI- and agent-ready) Windows PCs를 개발하기로 합의했다고 발표했다. 수요일 Tech Week 기간 San Francisco에서 열린 행사에서 Microsoft는 새 Surface Laptop Ultra의 사양과 가격을 공개했다. 기본 모델은 두 가지로 $2,600와 $3,700부터 시작하며, 옵션을 더하면 최대 $5,900에 이른다. (Microsoft는 최상위 기기가 이미 품절됐다고 밝혔다.)"
+                "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디를 쓰고 Alexa+를 핵심에 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
               },
               {
                 "t": "p",
-                "x": "Microsoft는 Surface RTX Spark Dev Box 워크스테이션도 공개했다. 가격은 $6,000부터이며 VS Code, GitHub Copilot CLI, WSL, PowerShell 7이 함께 제공된다. 두 기기 모두 AI 모델을 기기 안에서 로컬로(그리고 무료로) 돌리도록 설계됐다."
+                "x": "12 Pro는 4nm 8코어 칩과 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Corning과 함께 유리에 눈부심 방지 질감을 새긴 Nanomatte로 고를 수 있다. 가격은 $500부터이고 Nanomatte는 $550이며, Pro Pen은 $90, 키보드는 $150이다. Tablet 11은 $330, Tablet 8은 $230부터다."
               },
               {
                 "t": "p",
-                "x": "두 기기는 새로 손본 Windows 11에서 돌아가며, 여기에는 AI 에이전트를 샌드박스로 격리하기 쉽게 해 주는 “Execution Containers” 기능이 들어간다. CEO Satya Nadella는 이 기능을 모든 Windows 11 사용자에게 제공할 것이라고 말했다. 그는 “여러 모델에 맥락과 메모리, 행동 공간까지 받아낼 수 있는, 이렇게 제어된 계층이 있어야 한다”고 말했다."
+                "x": "세 제품 모두 새 Kindle 경험을 얻는다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 물을 수 있다. 스포츠 경기 일정을 모두 캘린더에 넣거나, 영상에서 본 제품을 Amazon에서 찾는 식이다. 이 기능은 기본으로 꺼져 있고 사용자가 직접 켜야 한다."
               },
               {
                 "t": "p",
-                "x": "이 기기들은 분명히 개발자를 겨냥한다. Microsoft는 MacBook Pro를 보상 판매하는 사람에게 최대 $1,000를 할인해 준다. Dell도 $3,800짜리 Nvidia-RTX Spark XPS 16 Creator Edition의 세부 사항을 공개했다."
+                "x": "태블릿은 10월 14일 미국(US), 멕시코, 캐나다에서, 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인에서 판매를 시작한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Surface AI PCs\nNvidia チップ搭載",
-          "body": "Surface Laptop Ultraは、Nvidiaチップを積んだ新しいAI PCだ。",
-          "mini_headline": "Surface AI PCs、Nvidia搭載",
+          "headline": "Alexa+を軸にした\nAmazon新タブレット",
+          "body": "Amazonが12インチの反射防止モデルを含むAlexa+搭載タブレット三機種を発売した。",
+          "mini_headline": "AmazonのAlexa+タブレット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidiaは6月、Microsoftをはじめとする PC メーカーと、自社の RTX Spark チップを基盤にした AI・エージェント対応(AI- and agent-ready)の Windows PCs を開発する契約を結んだと発表していた。水曜日、Tech Week 期間中に San Francisco で開かれたイベントで、Microsoft は新しい Surface Laptop Ultra の仕様と価格を明らかにした。ベースモデルは2種類で、$2,600 と $3,700 から始まり、オプションを加えると最大 $5,900 になる。(Microsoft によれば、最上位モデルはすでに在庫切れだという。)"
+                "x": "Amazonは12、11、8インチの新しいAlexaタブレットを発売した。いずれもアルミニウムのユニボディで、中核にAlexa+を組み込んでいる。フラッグシップのAlexa Tablet 12 Proは、Amazonがこれまでに出荷したどのタブレットよりも「処理が三倍、グラフィックスが九倍速い」という。"
               },
               {
                 "t": "p",
-                "x": "Microsoft はワークステーション Surface RTX Spark Dev Box も発表した。価格は $6,000 からで、VS Code、GitHub Copilot CLI、WSL、PowerShell 7 が付属する。どちらも AI モデルをデバイス上でローカルに(しかも無料で)動かすよう設計されている。"
+                "x": "12 Proは4nmの8コアチップ、最大16GBのRAM、120Hzで3:2のディスプレイを備える。ディスプレイは、Corningと共同でガラスに反射防止の質感を刻んだNanomatteも選べる。価格は$500から、Nanomatteは$550で、Pro Penは$90、キーボードは$150。Tablet 11は$330から、Tablet 8は$230からだ。"
               },
               {
                 "t": "p",
-                "x": "両機は刷新された Windows 11 で動作し、AI エージェントをサンドボックス化しやすくする「Execution Containers」という機能を備える。CEO Satya Nadella は、この機能をすべての Windows 11 ユーザーに提供すると述べた。「複数のモデルに加え、コンテキスト、メモリ、そして行動空間を受け止められる、制御されたレイヤーが必要だ」と彼は語った。"
+                "x": "三機種とも新しいKindle体験を備え、Alexa+のOn-Screen Intelligenceを使えば画面に表示された内容についてアシスタントに尋ねられる。スポーツイベントの全日程をカレンダーに追加したり、動画で見た製品をAmazonで探したりできる。この機能は初期設定でオフで、利用は任意だ。"
               },
               {
                 "t": "p",
-                "x": "これらのデバイスが開発者を狙っているのは明らかだ。Microsoft は MacBook Pro を下取りに出す人に最大 $1,000 を割り引く。Dell も $3,800 の Nvidia-RTX Spark XPS 16 Creator Edition の詳細を明らかにした。"
+                "x": "発売は10月14日に米国(US)、メキシコ、カナダで、10月19日に英国(UK)、ドイツ、フランス、イタリア、スペインで始まる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Surface AI PCs\n改用 Nvidia 芯片",
-          "body": "Surface Laptop Ultra 是搭载 Nvidia 芯片的全新 AI PC。",
-          "mini_headline": "Surface AI PCs 搭载 Nvidia",
+          "headline": "Amazon新平板\n以Alexa+为核心",
+          "body": "Amazon推出三款搭载Alexa+的新平板，其中包括一款配备防眩光屏幕的12英寸机型。",
+          "mini_headline": "Amazon的Alexa+平板",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "今年6月，Nvidia 宣布与 Microsoft 及其他 PC 厂商达成协议，基于其 RTX Spark 芯片开发面向 AI 与智能体(AI- and agent-ready)的 Windows PCs。周三，在 Tech Week 期间于 San Francisco 举行的活动上，Microsoft 公布了新款 Surface Laptop Ultra 的规格和价格。它有两款基础型号，起价分别为 $2,600 和 $3,700，选配后最高可达 $5,900。(Microsoft 称最高配机型已经售罄。)"
+                "x": "Amazon推出了12、11和8英寸的新款Alexa平板，全部采用铝制一体机身，并将Alexa+置于核心。旗舰机型Alexa Tablet 12 Pro比Amazon以往推出的任何平板都“处理速度快三倍、图形性能快九倍”。"
               },
               {
                 "t": "p",
-                "x": "Microsoft 还发布了 Surface RTX Spark Dev Box 工作站，起价 $6,000，预装 VS Code、GitHub Copilot CLI、WSL 和 PowerShell 7。两款设备都旨在在本地设备上运行 AI 模型(而且免费)。"
+                "x": "12 Pro搭载4nm 8核芯片，最高16GB RAM，配备120Hz、3:2的显示屏，可选Nanomatte——与Corning合作在玻璃上蚀刻的防眩光纹理。起售价$500，Nanomatte版$550，Pro Pen售价$90，键盘$150。Tablet 11起售价$330，Tablet 8起售价$230。"
               },
               {
                 "t": "p",
-                "x": "它们运行经过改版的 Windows 11，其中有一项名为“Execution Containers”的功能，可以更方便地把 AI 智能体放进沙盒；CEO Satya Nadella 表示，该功能将面向所有 Windows 11 用户开放。他说：“你需要这样一个受控的层，能够承接多个模型，加上上下文、记忆以及行动空间。”"
+                "x": "三款平板都将获得全新的Kindle体验。借助Alexa+的On-Screen Intelligence，用户可以就屏幕上的内容向助手提问——比如把一项体育赛事的所有日期加入日历，或在Amazon上找到视频里出现的商品。该功能默认关闭，需用户主动开启。"
               },
               {
                 "t": "p",
-                "x": "这些设备显然瞄准开发者：Microsoft 为以旧 MacBook Pro 换购的用户提供最高 $1,000 的折扣。Dell 也公布了售价 $3,800 的 Nvidia-RTX Spark XPS 16 Creator Edition 的细节。"
+                "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los Surface AI PCs ahora\nfuncionan con chips Nvidia",
-          "body": "Surface Laptop Ultra es un nuevo AI PC con chips Nvidia, diseñado para ejecutar modelos y agentes de AI.",
-          "mini_headline": "Surface AI PCs con Nvidia",
+          "headline": "Las nuevas tabletas de Amazon\ngiran en torno a Alexa+",
+          "body": "Amazon lanzó tres nuevas tabletas con Alexa+, entre ellas un modelo de 12 pulgadas con pantalla antirreflejos.",
+          "mini_headline": "Las tabletas Alexa+ de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
               },
               {
                 "t": "p",
-                "x": "En junio, Nvidia anunció acuerdos con Microsoft y otros fabricantes de PC para desarrollar Windows PCs preparados para AI y agentes (AI- and agent-ready) basados en su chip RTX Spark. El miércoles, en un evento en San Francisco durante la Tech Week, Microsoft reveló las especificaciones y el precio de su nuevo Surface Laptop Ultra. Llega en dos modelos base, desde $2,600 y $3,700, con opciones de hasta $5,900. (Microsoft afirma que el equipo de gama más alta ya está agotado.)"
+                "x": "Amazon lanzó nuevas tabletas Alexa de 12, 11 y 8 pulgadas, todas con cuerpo unibody de aluminio y Alexa+ integrado en su núcleo. La insignia, Alexa Tablet 12 Pro, ofrece \"un procesamiento tres veces más rápido y gráficos nueve veces más rápidos\" que cualquier tableta que Amazon haya comercializado."
               },
               {
                 "t": "p",
-                "x": "Microsoft también presentó la estación de trabajo Surface RTX Spark Dev Box, que parte de $6,000 e incluye VS Code, GitHub Copilot CLI, WSL y PowerShell 7. Ambos están diseñados para ejecutar modelos de AI en el propio dispositivo, de forma local (y gratuita)."
+                "x": "La 12 Pro usa un chip de 4nm y 8 núcleos, hasta 16GB de RAM y una pantalla de 120Hz en formato 3:2, con la opción Nanomatte, una textura antirreflejos grabada en el vidrio junto con Corning. Parte de $500, o $550 con Nanomatte, con un Pro Pen de $90 y un teclado de $150. La Tablet 11 parte de $330 y la Tablet 8, de $230."
               },
               {
                 "t": "p",
-                "x": "Funcionan con una versión renovada de Windows 11 que incluye una función llamada “Execution Containers”, que facilita aislar agentes de AI en un sandbox; estará disponible para todos los usuarios de Windows 11, dijo el CEO Satya Nadella. “Hace falta esta capa controlada capaz de recibir varios modelos, además del contexto, la memoria y el espacio de acción”, afirmó."
+                "x": "Las tres reciben una nueva experiencia de Kindle, y On-Screen Intelligence de Alexa+ permite preguntar al asistente por lo que aparece en pantalla: añadir al calendario todas las fechas de un evento deportivo o encontrar en Amazon un producto visto en un video. Viene desactivada por defecto y hay que activarla."
               },
               {
                 "t": "p",
-                "x": "Los dispositivos están claramente dirigidos a desarrolladores: Microsoft ofrece hasta $1,000 de descuento a quienes entreguen un MacBook Pro. Dell también detalló su Nvidia-RTX Spark XPS 16 Creator Edition, con un precio de $3,800."
+                "x": "Las tabletas salen a la venta el 14 de octubre en Estados Unidos (US), México y Canadá, y el 19 de octubre en Reino Unido (UK), Alemania, Francia, Italia y España."
               }
             ]
           }
@@ -315,189 +316,238 @@
       }
     },
     {
-      "id": "gadgets-copilot-windows-local-files",
+      "id": "gadgets-natura-ring",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Copilot, 내 PC를\n더 깊이 다룬다",
-      "body": "Copilot이 로컬 파일을 열고 로컬·클라우드 AI로 Windows를 다룬다.",
-      "mini_headline": "Copilot, PC 제어 확대",
+      "headline": "AI 에이전트 부르는\n$99 스마트 링",
+      "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
+      "mini_headline": "$99 링 속 AI 에이전트",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "Microsoft는 오늘 열린 Windows·Surface 행사에서 한층 업그레이드된 Copilot AI 시스템을 선보였다. 이제 Copilot은 PC의 로컬 파일에 접근하고 OS 전반에서 작업을 실행하게 된다. Microsoft가 “Hybrid Intelligence”라 부르는 구상의 일부로, 앱과 도구가 로컬 AI 모델과 클라우드 AI 모델을 섞어 써서 일을 효율적으로 처리하는 방식이다."
+            "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 $99 스마트 링 Interface를 내놓았다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리한다. 건강 트래커 역할도 겸한다."
           },
           {
             "t": "p",
-            "x": "Microsoft에서 Copilot을 맡은 EVP Jacob Andreou는 무대에서 영상 데모로 Hybrid Intelligence가 어떻게 돌아가는지 보여 줬다. 데모에서 그는 Microsoft의 Autopilot 도구에 세금 신고를 도와 달라고 했다. 회계사에게서 이메일을 받았다고 AI 에이전트에게 알리고, 회계사가 필요한 자료를 챙겨 달라고 Autopilot에 부탁했다. Autopilot은 Hybrid Intelligence로 여러 폴더를 뒤져 문서를 찾고 파일 이름을 바꿨다. 이어 한 폴더로 zip 압축하고, 그 zip 파일을 첨부해 회계사에게 보낼 이메일 초안까지 써 두었다."
+            "x": "출시 때부터 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되고, 어떤 작업을 어느 에이전트에 맡길지는 사용자가 고른다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고 배송은 12월이나 1월이다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
           },
           {
             "t": "p",
-            "x": "Andreou는 Hybrid Intelligence 기반 기능이 “앞으로 두어 달” 안에 Copilot에 들어온다고 했다."
+            "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 받을 계획이다."
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
           },
           {
             "t": "p",
-            "x": "Microsoft는 검색창에서 곧바로 간단한 작업을 처리하는 새 Windows 검색 경험도 공개했다. 다크 모드를 켜고, 인라인(in-line) 슬라이더로 마이크 볼륨을 높이고, 문자도 보낸다. Windows·Surface 책임자 Pavan Davuluri는 새 경험을 올가을부터 Windows 11 PCs에서 쓸 수 있다고 밝혔다."
+            "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 재고, 한 번 충전하면 엿새에서 12일을 간다."
           }
         ]
       },
+      "lead_image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024",
       "text": {
         "en": {
-          "headline": "Copilot gets more\ncontrol of your PC",
-          "body": "Copilot will get local file access and act across Windows, mixing local and cloud AI models.",
-          "mini_headline": "Copilot gets more PC control",
+          "headline": "A $99 smart ring that\nsummons AI agents",
+          "body": "Natura's $99 Interface ring summons AI agents with a finger press and doubles as a health tracker.",
+          "mini_headline": "AI agents on a $99 ring",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "At today’s Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It’s part of an idea Microsoft is calling “Hybrid Intelligence,” where apps and tools rely on a mix of local and cloud AI models to accomplish tasks efficiently."
+                "x": "Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents. With a press of your finger, you can ask an AI agent to complete a task, capture thoughts, and get things done without reaching for your phone — and the ring doubles as a health tracker."
               },
               {
                 "t": "p",
-                "x": "To show off how Hybrid Intelligence works, Jacob Andreou, Microsoft’s EVP of Copilot, walked through a video demo onstage asking Microsoft’s Autopilot tool to help with filing taxes. Andreou told the AI agent that he got an email from his accountant and asked Autopilot to get her what she needs. Autopilot then used Hybrid Intelligence to search across different folders to find the documents, rename the files, zip them into a folder, and draft an email to send to the accountant with the zip file attached."
+                "x": "At launch it connects with agents and apps including Meta's Muse, Instinct, Grok Bot, Claude and ChatGPT, and users can pick which agent handles which task. Responses arrive via headphones, an iPhone Live Activity or the NatureOS app. Preorders open next month, shipping in December or January."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Features powered by Hybrid Intelligence will be coming to Copilot over the “next couple months,” Andreou said."
+                "x": "\"Ultimately, the main interface between users and technology is going to be the ring,\" founder Carlo Edoardo Ferraris said. After a three- to six-month free period, Natura plans a $9 monthly subscription."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft also showed off a new Windows search experience that lets you take quick actions from the search bar, like turning on dark mode, turning up your mic volume with an in-line slider, or even sending a text. The new experience will be available starting this fall on Windows 11 PCs, according to Windows and Surface boss Pavan Davuluri."
+                "x": "The ring tracks heart rate, HRV, sleep stages, steps and skin temperature, and lasts six to 12 days per charge."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Copilot, 내 PC를\n더 깊이 다룬다",
-          "body": "Copilot이 로컬 파일을 열고 로컬·클라우드 AI로 Windows를 다룬다.",
-          "mini_headline": "Copilot, PC 제어 확대",
+          "headline": "AI 에이전트 부르는\n$99 스마트 링",
+          "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
+          "mini_headline": "$99 링 속 AI 에이전트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 오늘 열린 Windows·Surface 행사에서 한층 업그레이드된 Copilot AI 시스템을 선보였다. 이제 Copilot은 PC의 로컬 파일에 접근하고 OS 전반에서 작업을 실행하게 된다. Microsoft가 “Hybrid Intelligence”라 부르는 구상의 일부로, 앱과 도구가 로컬 AI 모델과 클라우드 AI 모델을 섞어 써서 일을 효율적으로 처리하는 방식이다."
+                "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 $99 스마트 링 Interface를 내놓았다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리한다. 건강 트래커 역할도 겸한다."
               },
               {
                 "t": "p",
-                "x": "Microsoft에서 Copilot을 맡은 EVP Jacob Andreou는 무대에서 영상 데모로 Hybrid Intelligence가 어떻게 돌아가는지 보여 줬다. 데모에서 그는 Microsoft의 Autopilot 도구에 세금 신고를 도와 달라고 했다. 회계사에게서 이메일을 받았다고 AI 에이전트에게 알리고, 회계사가 필요한 자료를 챙겨 달라고 Autopilot에 부탁했다. Autopilot은 Hybrid Intelligence로 여러 폴더를 뒤져 문서를 찾고 파일 이름을 바꿨다. 이어 한 폴더로 zip 압축하고, 그 zip 파일을 첨부해 회계사에게 보낼 이메일 초안까지 써 두었다."
+                "x": "출시 때부터 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되고, 어떤 작업을 어느 에이전트에 맡길지는 사용자가 고른다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고 배송은 12월이나 1월이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou는 Hybrid Intelligence 기반 기능이 “앞으로 두어 달” 안에 Copilot에 들어온다고 했다."
+                "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 받을 계획이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 검색창에서 곧바로 간단한 작업을 처리하는 새 Windows 검색 경험도 공개했다. 다크 모드를 켜고, 인라인(in-line) 슬라이더로 마이크 볼륨을 높이고, 문자도 보낸다. Windows·Surface 책임자 Pavan Davuluri는 새 경험을 올가을부터 Windows 11 PCs에서 쓸 수 있다고 밝혔다."
+                "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 재고, 한 번 충전하면 엿새에서 12일을 간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Copilot、PCを\nさらに深く操作",
-          "body": "CopilotがローカルとクラウドのAIを併用し、Windowsでファイルも操作する。",
-          "mini_headline": "Copilot、PC操作を拡大",
+          "headline": "AIエージェントを呼ぶ\n$99のスマートリング",
+          "body": "Naturaの$99リングInterfaceは押すとAIエージェントを呼び、健康も測る。",
+          "mini_headline": "$99リングでAIエージェント",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "本日の Windows・Surface イベントで、Microsoft は Copilot AI システムのアップグレードを披露した。PC 上のローカルファイルにアクセスし、OS 全体で操作を実行できるようになる。Microsoft が「Hybrid Intelligence」と呼ぶ構想の一環で、アプリやツールがローカルとクラウドの AI モデルを組み合わせ、タスクを効率よくこなす仕組みだ。"
+                "x": "AIとハードウェアのスタートアップNaturaが、AIエージェントの時代に向けて設計した$99の新しいスマートリングInterfaceだ。指で押すだけで、スマートフォンに手を伸ばさずにAIエージェントにタスクを頼み、考えを書き留め、用事を片付けられる。さらにヘルストラッカーとしても機能する。"
               },
               {
                 "t": "p",
-                "x": "Hybrid Intelligence の仕組みを示すため、Microsoft の Copilot 担当 EVP である Jacob Andreou は、壇上で動画デモを紹介した。デモでは Microsoft の Autopilot ツールに確定申告の手伝いを頼んだ。Andreou は AI エージェントに、会計士からメールが届いたと伝え、彼女が必要とするものを用意するよう Autopilot に依頼した。すると Autopilot は Hybrid Intelligence を使って複数のフォルダーを検索して書類を見つけ、ファイル名を変更し、フォルダーに zip でまとめ、その zip ファイルを添付した会計士宛てのメールを下書きした。"
+                "x": "発売時点でMetaのMuse、Instinct、Grok Bot、Claude、ChatGPTなどのエージェントやアプリと連携し、どのタスクをどのエージェントに任せるかをユーザーが選べる。応答はヘッドホン、iPhone Live Activity、NatureOSアプリで受け取る。予約注文は来月始まり、出荷は12月か1月の予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou によれば、Hybrid Intelligence を活用した機能は「今後数カ月」のうちに Copilot に搭載される。"
+                "x": "創業者のCarlo Edoardo Ferrarisは「最終的に、ユーザーとテクノロジーをつなぐ主なインターフェースはリングになる」と語った。Naturaは三〜六か月の無料期間の後、月額$9のサブスクリプションを導入する計画だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft は、検索バーから素早く操作できる新しい Windows の検索体験も披露した。ダークモードをオンにしたり、インライン(in-line)スライダーでマイク音量を上げたり、メッセージを送ったりもできる。Windows・Surface 部門トップの Pavan Davuluri によると、新しい体験はこの秋から Windows 11 PCs で利用できるようになる。"
+                "x": "リングは心拍数、HRV、睡眠段階、歩数、皮膚温度を記録し、一度の充電で六〜12日持つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot 将获得\n更多 PC 控制权",
-          "body": "Copilot 将可访问本地文件，并结合本地与云端 AI 模型在 Windows 中操作。",
-          "mini_headline": "Copilot 获得更多 PC 控制权",
+          "headline": "能召唤AI智能体的\n$99智能戒指",
+          "body": "Natura售价$99的Interface戒指按一下就能召唤AI智能体，也能兼作健康追踪器。",
+          "mini_headline": "$99戒指上的AI智能体",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "在今天的 Windows 与 Surface 发布活动上，Microsoft 展示了 Copilot AI 系统的一项升级：它将能访问你 PC 上的本地文件，并在整个 OS 中执行操作。这是 Microsoft 所称“Hybrid Intelligence”理念的一部分，即应用和工具结合本地与云端 AI 模型，高效完成任务。"
+                "x": "Interface是AI与硬件初创公司Natura推出的一款$99新智能戒指，专为AI智能体时代设计。只需用手指一按，就能让AI智能体完成任务、记录想法、处理事务，无需拿起手机——这枚戒指还兼作健康追踪器。"
               },
               {
                 "t": "p",
-                "x": "为展示 Hybrid Intelligence 的工作方式，Microsoft 负责 Copilot 的 EVP Jacob Andreou 在台上讲解了一段视频演示，演示中他请 Microsoft 的 Autopilot 工具帮忙报税。Andreou 告诉这个 AI 智能体，他收到了会计师的邮件，并请 Autopilot 为她准备所需材料。随后，Autopilot 借助 Hybrid Intelligence 在不同文件夹中搜索找到文档，重命名文件，将其 zip 压缩到一个文件夹里，并起草了一封附带该 zip 文件、准备发给会计师的邮件。"
+                "x": "上市时，它可连接Meta的Muse、Instinct、Grok Bot、Claude和ChatGPT等智能体与应用，用户可以自行选择由哪个智能体处理哪项任务。回复可通过耳机、iPhone Live Activity或NatureOS应用接收。预购将于下月开启，12月或1月发货。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou 表示，由 Hybrid Intelligence 驱动的功能将在“接下来的几个月”内登陆 Copilot。"
+                "x": "创始人Carlo Edoardo Ferraris表示：“归根结底，用户与技术之间的主要界面将是戒指。”在三至六个月的免费期之后，Natura计划推出每月$9的订阅。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft 还展示了全新的 Windows 搜索体验，可直接在搜索栏执行快捷操作，比如开启深色模式、用内嵌(in-line)滑块调高麦克风音量，甚至发送短信。据 Windows 与 Surface 负责人 Pavan Davuluri 介绍，新体验将于今年秋季起在 Windows 11 PCs 上推出。"
+                "x": "这枚戒指可追踪心率、HRV、睡眠阶段、步数和皮肤温度，充一次电可用六至12天。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Copilot gana más\ncontrol de tu PC",
-          "body": "Copilot tendrá acceso a archivos locales y actuará en todo Windows, combinando modelos de AI locales y en la nube.",
-          "mini_headline": "Copilot gana más control del PC",
+          "headline": "Un anillo inteligente de $99\nque convoca agentes de AI",
+          "body": "El anillo Interface de Natura, de $99, convoca agentes de AI con solo presionarlo y funciona como monitor de salud.",
+          "mini_headline": "Agentes de AI en un anillo de $99",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "En el evento de Windows y Surface de hoy, Microsoft mostró una mejora de su sistema Copilot AI que le dará acceso a los archivos locales de tu PC y la capacidad de realizar acciones en todo el OS. Forma parte de una idea que Microsoft llama “Hybrid Intelligence”, en la que apps y herramientas combinan modelos de AI locales y en la nube para completar tareas con eficiencia."
+                "x": "Interface es un nuevo anillo inteligente de $99 de Natura, una startup de AI y hardware, diseñado para la era de los agentes de AI. Con solo presionarlo con el dedo, se le puede pedir a un agente de AI que complete una tarea, anotar ideas y resolver pendientes sin sacar el teléfono; además, el anillo funciona como monitor de salud."
               },
               {
                 "t": "p",
-                "x": "Para mostrar cómo funciona Hybrid Intelligence, Jacob Andreou, EVP de Copilot en Microsoft, presentó en el escenario una demostración en video en la que pedía a la herramienta Autopilot de Microsoft ayuda para presentar los impuestos. Andreou le dijo al agente de AI que había recibido un correo de su contadora y pidió a Autopilot que le hiciera llegar lo que ella necesitaba. Autopilot usó entonces Hybrid Intelligence para buscar en distintas carpetas, encontrar los documentos, cambiarles el nombre, comprimirlos en zip en una carpeta y redactar un correo para la contadora con el archivo zip adjunto."
+                "x": "En su lanzamiento se conecta con agentes y aplicaciones como Muse de Meta, Instinct, Grok Bot, Claude y ChatGPT, y el usuario puede elegir qué agente se encarga de cada tarea. Las respuestas llegan por auriculares, una iPhone Live Activity o la aplicación NatureOS. Las reservas abren el mes próximo y los envíos serán en diciembre o enero."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Las funciones basadas en Hybrid Intelligence llegarán a Copilot en los “próximos dos meses”, dijo Andreou."
+                "x": "\"En última instancia, la principal interfaz entre los usuarios y la tecnología va a ser el anillo\", dijo el fundador Carlo Edoardo Ferraris. Tras un periodo gratuito de tres a seis meses, Natura prevé una suscripción mensual de $9."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft también mostró una nueva experiencia de búsqueda en Windows que permite realizar acciones rápidas desde la barra de búsqueda, como activar el modo oscuro, subir el volumen del micrófono con un control deslizante in-line o incluso enviar un mensaje de texto. La nueva experiencia estará disponible a partir de este otoño en los Windows 11 PCs, según el responsable de Windows y Surface, Pavan Davuluri."
+                "x": "El anillo registra frecuencia cardiaca, HRV, fases del sueño, pasos y temperatura de la piel, y su batería dura de seis a 12 días por carga."
               }
             ]
           }
@@ -505,121 +555,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Copilot, 내 PC를\n더 깊이 다룬다",
-          "body": "Copilot이 로컬 파일을 열고 로컬·클라우드 AI로 Windows를 다룬다.",
-          "mini_headline": "Copilot, PC 제어 확대",
+          "headline": "AI 에이전트 부르는\n$99 스마트 링",
+          "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
+          "mini_headline": "$99 링 속 AI 에이전트",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "오늘 열린 Windows·Surface 행사에서 Microsoft는 Copilot AI 시스템의 업그레이드를 선보였다. Copilot이 PC의 로컬 파일에 접근하고 OS 전반에서 작업을 실행할 수 있게 된다. Microsoft가 “Hybrid Intelligence”라 부르는 구상의 일부로, 앱과 도구가 로컬과 클라우드 AI 모델을 섞어 써서 작업을 효율적으로 처리하는 방식이다."
+                "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 내놓은 $99 스마트 링 Interface다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리할 수 있다. 이 링은 건강 트래커 역할도 한다."
               },
               {
                 "t": "p",
-                "x": "Microsoft의 Copilot 담당 EVP인 Jacob Andreou는 Hybrid Intelligence의 작동 방식을 보여 주려고 무대에서 영상 데모를 소개했다. 데모에서 그는 Microsoft의 Autopilot 도구에 세금 신고를 도와 달라고 요청했다. Andreou는 AI 에이전트에게 회계사에게서 이메일을 받았다고 말하고, 회계사가 필요로 하는 자료를 챙겨 달라고 Autopilot에 부탁했다. 그러자 Autopilot은 Hybrid Intelligence로 여러 폴더를 뒤져 문서를 찾고, 파일 이름을 바꾸고, 한 폴더로 zip 압축한 뒤, zip 파일을 첨부해 회계사에게 보낼 이메일 초안을 작성했다."
+                "x": "출시 시점에 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되며, 사용자는 어떤 작업을 어떤 에이전트에 맡길지 고를 수 있다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고, 배송은 12월이나 1월이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou는 Hybrid Intelligence 기반 기능이 “앞으로 두어 달” 사이 Copilot에 들어온다고 말했다."
+                "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 도입할 계획이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft는 검색창에서 바로 빠른 작업을 실행하는 새 Windows 검색 경험도 공개했다. 다크 모드를 켜거나, 인라인(in-line) 슬라이더로 마이크 볼륨을 올리거나, 문자를 보내는 일까지 가능하다. Windows·Surface 책임자 Pavan Davuluri에 따르면 새 경험은 올가을부터 Windows 11 PCs에서 쓸 수 있다."
+                "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 추적하며, 한 번 충전하면 엿새에서 12일 간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Copilot、PCを\nさらに深く操作",
-          "body": "CopilotがローカルとクラウドのAIを併用し、Windowsでファイルも操作する。",
-          "mini_headline": "Copilot、PC操作を拡大",
+          "headline": "AIエージェントを呼ぶ\n$99のスマートリング",
+          "body": "Naturaの$99リングInterfaceは押すとAIエージェントを呼び、健康も測る。",
+          "mini_headline": "$99リングでAIエージェント",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "本日の Windows・Surface イベントで、Microsoft は Copilot AI システムのアップグレードを披露した。PC 上のローカルファイルにアクセスし、OS 全体で操作を実行できるようになる。Microsoft が「Hybrid Intelligence」と呼ぶ構想の一環で、アプリやツールがローカルとクラウドの AI モデルを組み合わせ、タスクを効率よくこなす仕組みだ。"
+                "x": "AIとハードウェアのスタートアップNaturaが、AIエージェントの時代に向けて設計した$99の新しいスマートリングInterfaceだ。指で押すだけで、スマートフォンに手を伸ばさずにAIエージェントにタスクを頼み、考えを書き留め、用事を片付けられる。さらにヘルストラッカーとしても機能する。"
               },
               {
                 "t": "p",
-                "x": "Hybrid Intelligence の仕組みを示すため、Microsoft の Copilot 担当 EVP である Jacob Andreou は、壇上で動画デモを紹介した。デモでは Microsoft の Autopilot ツールに確定申告の手伝いを頼んだ。Andreou は AI エージェントに、会計士からメールが届いたと伝え、彼女が必要とするものを用意するよう Autopilot に依頼した。すると Autopilot は Hybrid Intelligence を使って複数のフォルダーを検索して書類を見つけ、ファイル名を変更し、フォルダーに zip でまとめ、その zip ファイルを添付した会計士宛てのメールを下書きした。"
+                "x": "発売時点でMetaのMuse、Instinct、Grok Bot、Claude、ChatGPTなどのエージェントやアプリと連携し、どのタスクをどのエージェントに任せるかをユーザーが選べる。応答はヘッドホン、iPhone Live Activity、NatureOSアプリで受け取る。予約注文は来月始まり、出荷は12月か1月の予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou によれば、Hybrid Intelligence を活用した機能は「今後数カ月」のうちに Copilot に搭載される。"
+                "x": "創業者のCarlo Edoardo Ferrarisは「最終的に、ユーザーとテクノロジーをつなぐ主なインターフェースはリングになる」と語った。Naturaは三〜六か月の無料期間の後、月額$9のサブスクリプションを導入する計画だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft は、検索バーから素早く操作できる新しい Windows の検索体験も披露した。ダークモードをオンにしたり、インライン(in-line)スライダーでマイク音量を上げたり、メッセージを送ったりもできる。Windows・Surface 部門トップの Pavan Davuluri によると、新しい体験はこの秋から Windows 11 PCs で利用できるようになる。"
+                "x": "リングは心拍数、HRV、睡眠段階、歩数、皮膚温度を記録し、一度の充電で六〜12日持つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot 将获得\n更多 PC 控制权",
-          "body": "Copilot 将可访问本地文件，并结合本地与云端 AI 模型在 Windows 中操作。",
-          "mini_headline": "Copilot 获得更多 PC 控制权",
+          "headline": "能召唤AI智能体的\n$99智能戒指",
+          "body": "Natura售价$99的Interface戒指按一下就能召唤AI智能体，也能兼作健康追踪器。",
+          "mini_headline": "$99戒指上的AI智能体",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "在今天的 Windows 与 Surface 发布活动上，Microsoft 展示了 Copilot AI 系统的一项升级：它将能访问你 PC 上的本地文件，并在整个 OS 中执行操作。这是 Microsoft 所称“Hybrid Intelligence”理念的一部分，即应用和工具结合本地与云端 AI 模型，高效完成任务。"
+                "x": "Interface是AI与硬件初创公司Natura推出的一款$99新智能戒指，专为AI智能体时代设计。只需用手指一按，就能让AI智能体完成任务、记录想法、处理事务，无需拿起手机——这枚戒指还兼作健康追踪器。"
               },
               {
                 "t": "p",
-                "x": "为展示 Hybrid Intelligence 的工作方式，Microsoft 负责 Copilot 的 EVP Jacob Andreou 在台上讲解了一段视频演示，演示中他请 Microsoft 的 Autopilot 工具帮忙报税。Andreou 告诉这个 AI 智能体，他收到了会计师的邮件，并请 Autopilot 为她准备所需材料。随后，Autopilot 借助 Hybrid Intelligence 在不同文件夹中搜索找到文档，重命名文件，将其 zip 压缩到一个文件夹里，并起草了一封附带该 zip 文件、准备发给会计师的邮件。"
+                "x": "上市时，它可连接Meta的Muse、Instinct、Grok Bot、Claude和ChatGPT等智能体与应用，用户可以自行选择由哪个智能体处理哪项任务。回复可通过耳机、iPhone Live Activity或NatureOS应用接收。预购将于下月开启，12月或1月发货。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Andreou 表示，由 Hybrid Intelligence 驱动的功能将在“接下来的几个月”内登陆 Copilot。"
+                "x": "创始人Carlo Edoardo Ferraris表示：“归根结底，用户与技术之间的主要界面将是戒指。”在三至六个月的免费期之后，Natura计划推出每月$9的订阅。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft 还展示了全新的 Windows 搜索体验，可直接在搜索栏执行快捷操作，比如开启深色模式、用内嵌(in-line)滑块调高麦克风音量，甚至发送短信。据 Windows 与 Surface 负责人 Pavan Davuluri 介绍，新体验将于今年秋季起在 Windows 11 PCs 上推出。"
+                "x": "这枚戒指可追踪心率、HRV、睡眠阶段、步数和皮肤温度，充一次电可用六至12天。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Copilot gana más\ncontrol de tu PC",
-          "body": "Copilot tendrá acceso a archivos locales y actuará en todo Windows, combinando modelos de AI locales y en la nube.",
-          "mini_headline": "Copilot gana más control del PC",
+          "headline": "Un anillo inteligente de $99\nque convoca agentes de AI",
+          "body": "El anillo Interface de Natura, de $99, convoca agentes de AI con solo presionarlo y funciona como monitor de salud.",
+          "mini_headline": "Agentes de AI en un anillo de $99",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "En el evento de Windows y Surface de hoy, Microsoft mostró una mejora de su sistema Copilot AI que le dará acceso a los archivos locales de tu PC y la capacidad de realizar acciones en todo el OS. Forma parte de una idea que Microsoft llama “Hybrid Intelligence”, en la que apps y herramientas combinan modelos de AI locales y en la nube para completar tareas con eficiencia."
+                "x": "Interface es un nuevo anillo inteligente de $99 de Natura, una startup de AI y hardware, diseñado para la era de los agentes de AI. Con solo presionarlo con el dedo, se le puede pedir a un agente de AI que complete una tarea, anotar ideas y resolver pendientes sin sacar el teléfono; además, el anillo funciona como monitor de salud."
               },
               {
                 "t": "p",
-                "x": "Para mostrar cómo funciona Hybrid Intelligence, Jacob Andreou, EVP de Copilot en Microsoft, presentó en el escenario una demostración en video en la que pedía a la herramienta Autopilot de Microsoft ayuda para presentar los impuestos. Andreou le dijo al agente de AI que había recibido un correo de su contadora y pidió a Autopilot que le hiciera llegar lo que ella necesitaba. Autopilot usó entonces Hybrid Intelligence para buscar en distintas carpetas, encontrar los documentos, cambiarles el nombre, comprimirlos en zip en una carpeta y redactar un correo para la contadora con el archivo zip adjunto."
+                "x": "En su lanzamiento se conecta con agentes y aplicaciones como Muse de Meta, Instinct, Grok Bot, Claude y ChatGPT, y el usuario puede elegir qué agente se encarga de cada tarea. Las respuestas llegan por auriculares, una iPhone Live Activity o la aplicación NatureOS. Las reservas abren el mes próximo y los envíos serán en diciembre o enero."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
               },
               {
                 "t": "p",
-                "x": "Las funciones basadas en Hybrid Intelligence llegarán a Copilot en los “próximos dos meses”, dijo Andreou."
+                "x": "\"En última instancia, la principal interfaz entre los usuarios y la tecnología va a ser el anillo\", dijo el fundador Carlo Edoardo Ferraris. Tras un periodo gratuito de tres a seis meses, Natura prevé una suscripción mensual de $9."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
               },
               {
                 "t": "p",
-                "x": "Microsoft también mostró una nueva experiencia de búsqueda en Windows que permite realizar acciones rápidas desde la barra de búsqueda, como activar el modo oscuro, subir el volumen del micrófono con un control deslizante in-line o incluso enviar un mensaje de texto. La nueva experiencia estará disponible a partir de este otoño en los Windows 11 PCs, según el responsable de Windows y Surface, Pavan Davuluri."
+                "x": "El anillo registra frecuencia cardiaca, HRV, fases del sueño, pasos y temperatura de la piel, y su batería dura de seis a 12 días por carga."
               }
             ]
           }
@@ -627,15 +709,15 @@
       }
     },
     {
-      "id": "gadgets-one-ui-9-galaxy-s26-ai",
+      "id": "gadgets-apple-home-event",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "One UI 9, S26에\nGalaxy AI 더한다",
-      "body": "Galaxy S26에 Call Brief, My FanCam 등이 새로 붙는다.",
-      "mini_headline": "S26에 Galaxy AI 추가",
+      "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
+      "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
+      "mini_headline": "Apple 홈 행사, 10월 13일",
       "tool": "Gadgets",
-      "source": "SamMobile",
-      "url": "https://www.sammobile.com/news/one-ui-9-samsung-galaxy-s26-plus-ultra-changes-features/",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -643,269 +725,174 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+            "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
           },
           {
             "t": "p",
-            "x": "One UI 9는 Galaxy S26, S26+, S26 Ultra에 Android 17과 여러 새 기능을 들여온다. Galaxy AI 도구가 늘고 사용자 설정 옵션도 많아진다. S26 시리즈는 One UI 8.5로 나왔기 때문에 이미 쓸 수 있던 기능도 일부 있다."
+            "x": "Apple이 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. 예고 문구는 \"Welcome home\"이다. Apple TV와 HomePod mini 새 버전, 그리고 오래 기다려 온 HomePad가 나올 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "Call Brief는 통화 화면에 관련 정보를 띄운다. 해외로 전화를 걸면 상대방의 국가와 현지 시각을 보여 주는 식이다."
+            "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 만든다는 소문은 오래전부터 돌았다. Bloomberg의 Mark Gurman에 따르면 Apple은 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다."
           },
           {
             "t": "p",
-            "x": "My FanCam은 기존 영상을 사용자가 고른 인물 중심으로 잘라 새 버전을 만든다. Gallery에서 영상을 열어 Galaxy AI 아이콘을 누르고 인물과 방향, 화면 비율을 고른 다음 Follow를 누르면 끝이다."
-          },
-          {
-            "t": "video",
-            "yt": "cWtvEpKt8Tw"
+            "x": "HomePad에는 일곱 인치 디스플레이와 새 운영체제 homeOS, StandBy-like 대시보드가 들어간다고 알려졌다. 얼굴·음성 인식으로 사용자마다 콘텐츠를 맞춰 보여주고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴도 지원한다는 소문이다."
           },
           {
             "t": "p",
-            "x": "Now Brief에는 사용자 지정 카드가 생긴다. 날씨, 건강, 영상 정보로 최대 세 장까지 만들고 언제 띄울지도 직접 정한다."
-          },
-          {
-            "t": "p",
-            "x": "나머지 업데이트는 non-AI 기능이다. 크기 조절이 되는 Quick Panel 컨트롤, Warranty and care 섹션, 세 가지 크기의 Bixby 홈 화면 위젯, Dual Recording 분할 레이아웃, Driving Report, 한결 쉬워진 Samsung DeX 데스크톱 관리 등이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Good Lock의 Home Up에는 pinch-out으로 AI Select를 여는 등 multi-finger 제스처가 추가된다. One UI 9에서 가장 눈여겨볼 대목은 늘어난 AI 도구와 소소한 편의 기능이다."
+            "x": "새 Apple TV와 HomePod mini도 Siri AI에 맞춰 사양이 올라갈 공산이 크다."
           }
         ]
       },
+      "lead_image": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg",
       "text": {
         "en": {
-          "headline": "One UI 9 adds more Galaxy AI\ntools to the Galaxy S26",
-          "body": "One UI 9 brings Call Brief, My FanCam, and custom Now Brief cards to the Galaxy S26, alongside many non-AI tweaks.",
-          "mini_headline": "More Galaxy AI on the S26",
+          "headline": "Apple sets an October 13\nevent for the smart home",
+          "body": "Apple teased a 'Welcome home' event for October 13, where it is expected to show a Siri AI-driven smart home hub.",
+          "mini_headline": "Apple's home event, Oct 13",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9 brings Android 17 and several new features to the Galaxy S26, S26+, and S26 Ultra, including more Galaxy AI tools and additional customization options. The S26 series launched with One UI 8.5, so some features were already available."
+                "x": "Apple has announced its second event of the fall, teased with the phrase \"Welcome home,\" for October 13 at 9AM ET in Tribeca, New York. Along with refreshed versions of the Apple TV and HomePod mini, Apple is said to unveil its long-expected HomePad."
               },
               {
                 "t": "p",
-                "x": "Call Brief displays relevant information on the call screen — for example, a caller's country and local time when calling overseas."
+                "x": "Apple has long been rumored to be working on a smart display to rival Amazon's Echo Show, and Bloomberg's Mark Gurman reported that Apple delayed the device until Siri AI was ready."
               },
               {
                 "t": "p",
-                "x": "My FanCam takes an existing video and creates a cropped version that follows a person you select: open a video in Gallery, tap the Galaxy AI icon, choose the person, orientation, and aspect ratio, then tap Follow."
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "The HomePad is said to have a seven-inch display, a new operating system dubbed homeOS and a StandBy-like dashboard. Rumors suggest it will use face and voice recognition to personalize content for whoever is using it, alongside smart home control, FaceTime, streaming and intercom."
               },
               {
                 "t": "p",
-                "x": "Now Brief gets custom cards: you can create up to three using weather, health, or video information and choose when they appear."
-              },
-              {
-                "t": "p",
-                "x": "The rest of the update is non-AI: resizable Quick Panel controls, a Warranty and care section, Bixby home screen widgets in three sizes, split layouts for Dual Recording, Driving Report, and easier Samsung DeX desktop management."
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good Lock's Home Up adds multi-finger gestures, such as a pinch-out to launch AI Select. The biggest reasons to explore One UI 9 are the additional AI tools and smaller conveniences."
+                "x": "The new Apple TV and HomePod mini are likely getting spec upgrades so they can support Siri AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "One UI 9, S26에\nGalaxy AI 더한다",
-          "body": "Galaxy S26에 Call Brief, My FanCam 등이 새로 붙는다.",
-          "mini_headline": "S26에 Galaxy AI 추가",
+          "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
+          "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
+          "mini_headline": "Apple 홈 행사, 10월 13일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9는 Galaxy S26, S26+, S26 Ultra에 Android 17과 여러 새 기능을 들여온다. Galaxy AI 도구가 늘고 사용자 설정 옵션도 많아진다. S26 시리즈는 One UI 8.5로 나왔기 때문에 이미 쓸 수 있던 기능도 일부 있다."
+                "x": "Apple이 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. 예고 문구는 \"Welcome home\"이다. Apple TV와 HomePod mini 새 버전, 그리고 오래 기다려 온 HomePad가 나올 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "Call Brief는 통화 화면에 관련 정보를 띄운다. 해외로 전화를 걸면 상대방의 국가와 현지 시각을 보여 주는 식이다."
+                "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 만든다는 소문은 오래전부터 돌았다. Bloomberg의 Mark Gurman에 따르면 Apple은 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다."
               },
               {
                 "t": "p",
-                "x": "My FanCam은 기존 영상을 사용자가 고른 인물 중심으로 잘라 새 버전을 만든다. Gallery에서 영상을 열어 Galaxy AI 아이콘을 누르고 인물과 방향, 화면 비율을 고른 다음 Follow를 누르면 끝이다."
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "HomePad에는 일곱 인치 디스플레이와 새 운영체제 homeOS, StandBy-like 대시보드가 들어간다고 알려졌다. 얼굴·음성 인식으로 사용자마다 콘텐츠를 맞춰 보여주고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴도 지원한다는 소문이다."
               },
               {
                 "t": "p",
-                "x": "Now Brief에는 사용자 지정 카드가 생긴다. 날씨, 건강, 영상 정보로 최대 세 장까지 만들고 언제 띄울지도 직접 정한다."
-              },
-              {
-                "t": "p",
-                "x": "나머지 업데이트는 non-AI 기능이다. 크기 조절이 되는 Quick Panel 컨트롤, Warranty and care 섹션, 세 가지 크기의 Bixby 홈 화면 위젯, Dual Recording 분할 레이아웃, Driving Report, 한결 쉬워진 Samsung DeX 데스크톱 관리 등이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good Lock의 Home Up에는 pinch-out으로 AI Select를 여는 등 multi-finger 제스처가 추가된다. One UI 9에서 가장 눈여겨볼 대목은 늘어난 AI 도구와 소소한 편의 기능이다."
+                "x": "새 Apple TV와 HomePod mini도 Siri AI에 맞춰 사양이 올라갈 공산이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "One UI 9でS26に\nGalaxy AIが拡充",
-          "body": "Galaxy S26にCall Brief、My FanCamなどが加わる。",
-          "mini_headline": "S26でGalaxy AIが拡充",
+          "headline": "Apple、10月13日に\nスマートホーム発表会",
+          "body": "Appleは10月13日、Siri AI-drivenのホームハブを披露する見通しだ。",
+          "mini_headline": "Appleのホーム発表会、10月13日",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9はGalaxy S26、S26+、S26 UltraにAndroid 17と複数の新機能をもたらす。Galaxy AIツールの追加やカスタマイズ項目の拡充も含まれる。S26シリーズはOne UI 8.5で発売されたため、一部の機能はすでに利用できていた。"
+                "x": "Appleは「Welcome home」という言葉で予告した今秋二度目のイベントを、10月13日9AM ET にニューヨークのTribecaで開くと発表した。Apple TVとHomePod miniの刷新版に加え、待望のHomePadを発表するとされる。"
               },
               {
                 "t": "p",
-                "x": "Call Briefは通話画面に関連情報を表示する。たとえば海外に電話をかける際には、相手の国と現地時刻を表示する。"
+                "x": "AppleがAmazonのEcho Showに対抗するスマートディスプレイを開発中だという噂は以前からあった。BloombergのMark Gurmanは、AppleがSiri AIの準備が整うまでこの製品を延期したと報じている。"
               },
               {
                 "t": "p",
-                "x": "My FanCamは既存の動画から、選んだ人物を追いかけるようにトリミングした動画を作る。Galleryで動画を開いてGalaxy AIアイコンをタップし、人物、向き、アスペクト比を選んでFollowをタップすればよい。"
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "HomePadは七インチのディスプレイ、homeOSと呼ばれる新OS、StandBy-likeなダッシュボードを備えるとされる。顔と声の認識で使う人ごとにコンテンツを最適化し、スマートホーム操作、FaceTime、ストリーミング、インターホン機能も担うと噂されている。"
               },
               {
                 "t": "p",
-                "x": "Now Briefにはカスタムカードが加わる。天気、健康、動画の情報を使って最大三枚まで作成でき、表示するタイミングも選べる。"
-              },
-              {
-                "t": "p",
-                "x": "残りのアップデートはnon-AIの内容だ。サイズ変更できるQuick Panelのコントロール、Warranty and careセクション、三種類のサイズのBixbyホーム画面ウィジェット、Dual Recordingの分割レイアウト、Driving Report、そしてSamsung DeXのデスクトップ管理の簡素化が含まれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good LockのHome Upは、pinch-outでAI Selectを起動するといったmulti-fingerジェスチャーを追加する。One UI 9を試す最大の理由は、追加されたAIツールと細かな使い勝手の向上だ。"
+                "x": "新しいApple TVとHomePod miniは、Siri AIに対応するため仕様が強化される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "One UI 9为S26\n加入更多Galaxy AI",
-          "body": "One UI 9为Galaxy S26带来Call Brief和My FanCam等功能。",
-          "mini_headline": "S26获得更多Galaxy AI",
+          "headline": "Apple定于10月13日\n举办智能家居发布会",
+          "body": "预计Apple将于10月13日展示Siri AI-driven智能家居中枢。",
+          "mini_headline": "Apple家居发布会，10月13日",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9为Galaxy S26、S26+和S26 Ultra带来Android 17及多项新功能，包括更多Galaxy AI工具和更多自定义选项。S26系列出厂搭载One UI 8.5，因此部分功能此前已可使用。"
+                "x": "Apple宣布将于10月13日9AM ET在纽约Tribeca举办今年秋季的第二场发布会，预告语为“Welcome home”。据悉，除了更新版Apple TV和HomePod mini，Apple还将推出外界期待已久的HomePad。"
               },
               {
                 "t": "p",
-                "x": "Call Brief会在通话界面显示相关信息，例如拨打国际电话时显示对方所在国家和当地时间。"
+                "x": "长期以来一直有传言称Apple正在开发一款对标Amazon Echo Show的智能显示屏。Bloomberg的Mark Gurman报道称，Apple将这款设备推迟到Siri AI准备就绪后再推出。"
               },
               {
                 "t": "p",
-                "x": "My FanCam可基于已有视频生成一个裁切版本，画面跟随你选定的人物：在Gallery中打开视频，点击Galaxy AI图标，选择人物、方向和画面比例，然后点击Follow即可。"
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "据称HomePad将配备七英寸显示屏、名为homeOS的全新操作系统以及StandBy-like仪表盘。传言称它将通过人脸和语音识别为不同使用者个性化内容，并支持智能家居控制、FaceTime、流媒体和对讲功能。"
               },
               {
                 "t": "p",
-                "x": "Now Brief新增自定义卡片：你可以利用天气、健康或视频信息创建最多三张卡片，并选择它们的显示时间。"
-              },
-              {
-                "t": "p",
-                "x": "其余更新则属于non-AI内容：可调整大小的Quick Panel控件、Warranty and care板块、三种尺寸的Bixby主屏幕小组件、Dual Recording分屏布局、Driving Report，以及更便捷的Samsung DeX桌面管理。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good Lock的Home Up新增multi-finger手势，例如用pinch-out启动AI Select。体验One UI 9的最大理由，是新增的AI工具和各种小便利。"
+                "x": "新款Apple TV和HomePod mini可能会升级规格，以支持Siri AI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "One UI 9 suma herramientas de\nGalaxy AI al Galaxy S26",
-          "body": "One UI 9 lleva Call Brief, My FanCam y tarjetas personalizadas de Now Brief al Galaxy S26, con muchos ajustes non-AI.",
-          "mini_headline": "Más Galaxy AI en el S26",
+          "headline": "Apple anuncia un evento\npara el hogar el 13 de octubre",
+          "body": "Apple anunció un evento 'Welcome home' para el 13 de octubre, donde se espera un hub doméstico Siri AI-driven.",
+          "mini_headline": "Evento de Apple para el hogar, 13 de octubre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9 lleva Android 17 y varias funciones nuevas a los Galaxy S26, S26+ y S26 Ultra, entre ellas más herramientas de Galaxy AI y opciones adicionales de personalización. La serie S26 salió con One UI 8.5, así que algunas funciones ya estaban disponibles."
+                "x": "Apple anunció su segundo evento del otoño, presentado con la frase \"Welcome home\", para el 13 de octubre a las 9AM ET en Tribeca, Nueva York. Además de versiones renovadas del Apple TV y el HomePod mini, se espera que Apple presente su esperado HomePad."
               },
               {
                 "t": "p",
-                "x": "Call Brief muestra información relevante en la pantalla de llamada; por ejemplo, el país y la hora local de quien llama cuando se trata de llamadas al extranjero."
+                "x": "Desde hace tiempo se rumorea que Apple trabaja en una pantalla inteligente para competir con el Echo Show de Amazon, y Mark Gurman, de Bloomberg, informó que Apple retrasó el dispositivo hasta que Siri AI estuviera lista."
               },
               {
                 "t": "p",
-                "x": "My FanCam toma un video existente y crea una versión recortada que sigue a la persona que elijas: abre un video en Gallery, toca el icono de Galaxy AI, elige la persona, la orientación y la relación de aspecto, y luego toca Follow."
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "Se dice que el HomePad tendrá una pantalla de siete pulgadas, un nuevo sistema operativo llamado homeOS y un panel StandBy-like. Los rumores apuntan a que usará reconocimiento facial y de voz para personalizar el contenido según quién lo use, además de control del hogar inteligente, FaceTime, streaming e intercomunicador."
               },
               {
                 "t": "p",
-                "x": "Now Brief incorpora tarjetas personalizadas: puedes crear hasta tres con información del clima, de salud o de videos y elegir cuándo aparecen."
-              },
-              {
-                "t": "p",
-                "x": "El resto de la actualización es non-AI: controles del Quick Panel redimensionables, una sección Warranty and care, widgets de Bixby para la pantalla de inicio en tres tamaños, diseños divididos para Dual Recording, Driving Report y una gestión más sencilla del escritorio de Samsung DeX."
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Up de Good Lock añade gestos multi-finger, como un pinch-out para abrir AI Select. Los mayores motivos para explorar One UI 9 son las herramientas de AI adicionales y las pequeñas comodidades."
+                "x": "Es probable que el nuevo Apple TV y el HomePod mini reciban mejoras de especificaciones para admitir Siri AI."
               }
             ]
           }
@@ -913,185 +900,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "One UI 9, S26에\nGalaxy AI 더한다",
-          "body": "Galaxy S26에 Call Brief와 My FanCam 등이 추가된다.",
-          "mini_headline": "S26에 Galaxy AI 추가",
+          "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
+          "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
+          "mini_headline": "Apple 홈 행사, 10월 13일",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9는 Galaxy S26, S26+, S26 Ultra에 Android 17과 여러 새 기능을 가져온다. Galaxy AI 도구가 늘고 사용자 설정 옵션도 추가된다. S26 시리즈는 One UI 8.5로 출시됐기 때문에 일부 기능은 이미 쓸 수 있었다."
+                "x": "Apple이 \"Welcome home\"이라는 문구로 예고한 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. Apple TV와 HomePod mini 새 버전과 함께, 오래 기다려 온 HomePad가 공개될 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "Call Brief는 통화 화면에 관련 정보를 보여 준다. 예를 들어 해외로 전화할 때 상대방의 국가와 현지 시각을 표시한다."
+                "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 개발 중이라는 소문은 오래전부터 있었다. Bloomberg의 Mark Gurman은 Apple이 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "My FanCam은 기존 영상에서 사용자가 고른 인물을 따라가도록 잘라낸 버전을 만든다. Gallery에서 영상을 열고 Galaxy AI 아이콘을 누른 뒤, 인물과 방향, 화면 비율을 고르고 Follow를 누르면 된다."
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "HomePad는 일곱 인치 디스플레이와 homeOS라는 새 운영체제, StandBy-like 대시보드를 갖출 것으로 알려졌다. 얼굴·음성 인식으로 사용자에 맞춰 콘텐츠를 개인화하고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴 기능도 지원한다는 소문이다."
               },
               {
                 "t": "p",
-                "x": "Now Brief에는 사용자 지정 카드가 생긴다. 날씨, 건강, 영상 정보로 최대 세 장까지 만들 수 있고, 언제 표시할지도 정할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "나머지 업데이트는 non-AI 기능이다. 크기를 조절할 수 있는 Quick Panel 컨트롤, Warranty and care 섹션, 세 가지 크기의 Bixby 홈 화면 위젯, Dual Recording 분할 레이아웃, Driving Report, 한결 쉬워진 Samsung DeX 데스크톱 관리가 포함된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good Lock의 Home Up은 pinch-out으로 AI Select를 실행하는 등 multi-finger 제스처를 추가한다. One UI 9를 살펴볼 가장 큰 이유는 늘어난 AI 도구와 소소한 편의 기능이다."
+                "x": "새 Apple TV와 HomePod mini는 Siri AI를 지원하도록 사양이 올라갈 가능성이 크다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "One UI 9でS26に\nGalaxy AIが拡充",
-          "body": "Galaxy S26にCall Brief、My FanCamなどが加わる。",
-          "mini_headline": "S26でGalaxy AIが拡充",
+          "headline": "Apple、10月13日に\nスマートホーム発表会",
+          "body": "Appleは10月13日、Siri AI-drivenのホームハブを披露する見通しだ。",
+          "mini_headline": "Appleのホーム発表会、10月13日",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9はGalaxy S26、S26+、S26 UltraにAndroid 17と複数の新機能をもたらす。Galaxy AIツールの追加やカスタマイズ項目の拡充も含まれる。S26シリーズはOne UI 8.5で発売されたため、一部の機能はすでに利用できていた。"
+                "x": "Appleは「Welcome home」という言葉で予告した今秋二度目のイベントを、10月13日9AM ET にニューヨークのTribecaで開くと発表した。Apple TVとHomePod miniの刷新版に加え、待望のHomePadを発表するとされる。"
               },
               {
                 "t": "p",
-                "x": "Call Briefは通話画面に関連情報を表示する。たとえば海外に電話をかける際には、相手の国と現地時刻を表示する。"
+                "x": "AppleがAmazonのEcho Showに対抗するスマートディスプレイを開発中だという噂は以前からあった。BloombergのMark Gurmanは、AppleがSiri AIの準備が整うまでこの製品を延期したと報じている。"
               },
               {
                 "t": "p",
-                "x": "My FanCamは既存の動画から、選んだ人物を追いかけるようにトリミングした動画を作る。Galleryで動画を開いてGalaxy AIアイコンをタップし、人物、向き、アスペクト比を選んでFollowをタップすればよい。"
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "HomePadは七インチのディスプレイ、homeOSと呼ばれる新OS、StandBy-likeなダッシュボードを備えるとされる。顔と声の認識で使う人ごとにコンテンツを最適化し、スマートホーム操作、FaceTime、ストリーミング、インターホン機能も担うと噂されている。"
               },
               {
                 "t": "p",
-                "x": "Now Briefにはカスタムカードが加わる。天気、健康、動画の情報を使って最大三枚まで作成でき、表示するタイミングも選べる。"
-              },
-              {
-                "t": "p",
-                "x": "残りのアップデートはnon-AIの内容だ。サイズ変更できるQuick Panelのコントロール、Warranty and careセクション、三種類のサイズのBixbyホーム画面ウィジェット、Dual Recordingの分割レイアウト、Driving Report、そしてSamsung DeXのデスクトップ管理の簡素化が含まれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good LockのHome Upは、pinch-outでAI Selectを起動するといったmulti-fingerジェスチャーを追加する。One UI 9を試す最大の理由は、追加されたAIツールと細かな使い勝手の向上だ。"
+                "x": "新しいApple TVとHomePod miniは、Siri AIに対応するため仕様が強化される見込みだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "One UI 9为S26\n加入更多Galaxy AI",
-          "body": "One UI 9为Galaxy S26带来Call Brief和My FanCam等功能。",
-          "mini_headline": "S26获得更多Galaxy AI",
+          "headline": "Apple定于10月13日\n举办智能家居发布会",
+          "body": "预计Apple将于10月13日展示Siri AI-driven智能家居中枢。",
+          "mini_headline": "Apple家居发布会，10月13日",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9为Galaxy S26、S26+和S26 Ultra带来Android 17及多项新功能，包括更多Galaxy AI工具和更多自定义选项。S26系列出厂搭载One UI 8.5，因此部分功能此前已可使用。"
+                "x": "Apple宣布将于10月13日9AM ET在纽约Tribeca举办今年秋季的第二场发布会，预告语为“Welcome home”。据悉，除了更新版Apple TV和HomePod mini，Apple还将推出外界期待已久的HomePad。"
               },
               {
                 "t": "p",
-                "x": "Call Brief会在通话界面显示相关信息，例如拨打国际电话时显示对方所在国家和当地时间。"
+                "x": "长期以来一直有传言称Apple正在开发一款对标Amazon Echo Show的智能显示屏。Bloomberg的Mark Gurman报道称，Apple将这款设备推迟到Siri AI准备就绪后再推出。"
               },
               {
                 "t": "p",
-                "x": "My FanCam可基于已有视频生成一个裁切版本，画面跟随你选定的人物：在Gallery中打开视频，点击Galaxy AI图标，选择人物、方向和画面比例，然后点击Follow即可。"
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "据称HomePad将配备七英寸显示屏、名为homeOS的全新操作系统以及StandBy-like仪表盘。传言称它将通过人脸和语音识别为不同使用者个性化内容，并支持智能家居控制、FaceTime、流媒体和对讲功能。"
               },
               {
                 "t": "p",
-                "x": "Now Brief新增自定义卡片：你可以利用天气、健康或视频信息创建最多三张卡片，并选择它们的显示时间。"
-              },
-              {
-                "t": "p",
-                "x": "其余更新则属于non-AI内容：可调整大小的Quick Panel控件、Warranty and care板块、三种尺寸的Bixby主屏幕小组件、Dual Recording分屏布局、Driving Report，以及更便捷的Samsung DeX桌面管理。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Good Lock的Home Up新增multi-finger手势，例如用pinch-out启动AI Select。体验One UI 9的最大理由，是新增的AI工具和各种小便利。"
+                "x": "新款Apple TV和HomePod mini可能会升级规格，以支持Siri AI。"
               }
             ]
           }
         },
         "es": {
-          "headline": "One UI 9 suma herramientas de\nGalaxy AI al Galaxy S26",
-          "body": "One UI 9 lleva Call Brief, My FanCam y tarjetas personalizadas de Now Brief al Galaxy S26, con muchos ajustes non-AI.",
-          "mini_headline": "Más Galaxy AI en el S26",
+          "headline": "Apple anuncia un evento\npara el hogar el 13 de octubre",
+          "body": "Apple anunció un evento 'Welcome home' para el 13 de octubre, donde se espera un hub doméstico Siri AI-driven.",
+          "mini_headline": "Evento de Apple para el hogar, 13 de octubre",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/09/Galaxy-S26-FE-review-12.jpg"
+                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
               },
               {
                 "t": "p",
-                "x": "One UI 9 lleva Android 17 y varias funciones nuevas a los Galaxy S26, S26+ y S26 Ultra, entre ellas más herramientas de Galaxy AI y opciones adicionales de personalización. La serie S26 salió con One UI 8.5, así que algunas funciones ya estaban disponibles."
+                "x": "Apple anunció su segundo evento del otoño, presentado con la frase \"Welcome home\", para el 13 de octubre a las 9AM ET en Tribeca, Nueva York. Además de versiones renovadas del Apple TV y el HomePod mini, se espera que Apple presente su esperado HomePad."
               },
               {
                 "t": "p",
-                "x": "Call Brief muestra información relevante en la pantalla de llamada; por ejemplo, el país y la hora local de quien llama cuando se trata de llamadas al extranjero."
+                "x": "Desde hace tiempo se rumorea que Apple trabaja en una pantalla inteligente para competir con el Echo Show de Amazon, y Mark Gurman, de Bloomberg, informó que Apple retrasó el dispositivo hasta que Siri AI estuviera lista."
               },
               {
                 "t": "p",
-                "x": "My FanCam toma un video existente y crea una versión recortada que sigue a la persona que elijas: abre un video en Gallery, toca el icono de Galaxy AI, elige la persona, la orientación y la relación de aspecto, y luego toca Follow."
-              },
-              {
-                "t": "video",
-                "yt": "cWtvEpKt8Tw"
+                "x": "Se dice que el HomePad tendrá una pantalla de siete pulgadas, un nuevo sistema operativo llamado homeOS y un panel StandBy-like. Los rumores apuntan a que usará reconocimiento facial y de voz para personalizar el contenido según quién lo use, además de control del hogar inteligente, FaceTime, streaming e intercomunicador."
               },
               {
                 "t": "p",
-                "x": "Now Brief incorpora tarjetas personalizadas: puedes crear hasta tres con información del clima, de salud o de videos y elegir cuándo aparecen."
-              },
-              {
-                "t": "p",
-                "x": "El resto de la actualización es non-AI: controles del Quick Panel redimensionables, una sección Warranty and care, widgets de Bixby para la pantalla de inicio en tres tamaños, diseños divididos para Dual Recording, Driving Report y una gestión más sencilla del escritorio de Samsung DeX."
-              },
-              {
-                "t": "img",
-                "src": "https://www.sammobile.com/wp-content/uploads/2026/10/Bixby-widgets-in-One-UI-9.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Home Up de Good Lock añade gestos multi-finger, como un pinch-out para abrir AI Select. Los mayores motivos para explorar One UI 9 son las herramientas de AI adicionales y las pequeñas comodidades."
+                "x": "Es probable que el nuevo Apple TV y el HomePod mini reciban mejoras de especificaciones para admitir Siri AI."
               }
             ]
           }
@@ -1099,15 +1022,15 @@
       }
     },
     {
-      "id": "gadgets-tony-fadell-ai-gadgets-failed",
+      "id": "gadgets-nvidia-physical-ai-safety",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tony Fadell이 본\n첫 AI 기기 실패 이유",
-      "body": "iPod 개발자는 초기 AI 기기가 실제 문제를 풀지 못했다고 짚었다.",
-      "mini_headline": "Fadell이 본 다음 AI 기기",
+      "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
+      "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
+      "mini_headline": "Nvidia의 피지컬 AI 안전",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -1115,173 +1038,156 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+            "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템 덕분에 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
           },
           {
             "t": "p",
-            "x": "Tony Fadell은 첫 MIT Future Fest에서 단종된 AI 기기 세 가지, Rabbit R1, Humane Ai pin, Limitless pendant를 슬라이드에 띄웠다. 그는 “이것들은 일종의 ‘Gen 1’ AI 제품이었고, 제 이력 때문에 이 회사들이 제게 연락해 도와 달라고 했다”며 “저는 돕지 않았다”고 말했다."
+            "x": "Nvidia의 Halos 시스템은 2025년, 개발자가 자율주행차에 가드레일을 구현하도록 돕는 용도로 나왔다. 2026년 6월에는 Halos for Robotics로 범위를 넓혀 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥했다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "그는 “무엇을 하려는지, 어떤 고통을 해결하려는지 정말로 이해해야 한다”며 “이 사례들은 하나같이 어떤 필요도 충족하지 못했다. 그저 괴짜들에게 흥미로운 기술이었을 뿐”이라고 했다."
+            "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 짜였다. 로봇 청소기와 창고 지게차는 안전의 정의부터 다르다. 그래서 개발자가 안전 기능을 직접 맞춰 프로그래밍할 수 있다."
           },
           {
             "t": "p",
-            "x": "Fadell은 “사람 [비서]에게 무언가를 맡겨 본 적이 있는 사람은 세계 인구의 0.01%도 안 된다”며 “우리가 어떤 형태의 지능에 무엇을 넘기든 신뢰와 안전이 가장 중요해질 것”이라고 말했다. 그가 보기에 이 일을 해낼 곳은 Apple, 그리고 어쩌면 다른 한 회사 정도다. 성공하는 에이전트는 on-device로만 작동해야 할 것이라는 전망도 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "Meta와 OpenAI가 기기로 눈을 돌리는 건 휴대폰 센서에 접근할 수 없어서라는 게 그의 진단이다. 그는 “스타트업이라 기회는 한 번뿐”이라며 “Vision Pro를 낸 Apple과는 다르다”고 꼬집었다."
+            "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
           }
         ]
       },
+      "lead_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
       "text": {
         "en": {
-          "headline": "Tony Fadell on why the first\nwave of AI gadgets failed",
-          "body": "The iPod's creator says early AI gadgets failed to solve real problems and the next wave must earn consumer trust.",
-          "mini_headline": "Fadell on the next AI gadgets",
+          "headline": "Nvidia bets on safety\nfor physical AI",
+          "body": "Nvidia's full-stack safety system for physical AI, aimed at safer robotaxis and humanoids, is in use by robot makers.",
+          "mini_headline": "Nvidia's physical AI safety",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility Robotics' Digit humanoid robot uses Nvidia's Halos system to help safely work around people. Credit: Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "At the inaugural MIT Future Fest, Tony Fadell projected a slide of three discontinued AI devices: the Rabbit R1, the Humane Ai pin, and the Limitless pendant. “These were kind of the ‘Gen 1’ AI products, and because of my background, these companies called me and asked me to help them,” he said. “I didn’t.”"
+                "x": "Nvidia's Halos system launched in 2025 to help developers implement guardrails in self-driving cars, and in June 2026 the company extended it with Halos for Robotics — for warehouse robots, factory humanoids and even surgical robots. \"A thing we thought is going to be the next bottleneck is safety,\" said Nvidia's Amit Goel."
               },
               {
                 "t": "p",
-                "x": "“You have to really understand what you’re trying to do, what pain you’re trying to solve,” he said. “In each of these cases, each one of them didn’t meet any kind of need — it was just interesting technology for geeks.”"
+                "x": "The full stack spans the IGX Thor module with an independent safety processor, a Halos OS that monitors \"every hardware block\" and \"every software library,\" the Holoscan Sensor Bridge, simulation and an inspection lab program. Because a robot vacuum and a warehouse forklift define safety differently, developers can program custom safety functions."
               },
               {
                 "t": "p",
-                "x": "“It’s less than 0.01% of the world population that has ever had a human [assistant] do anything,” Fadell said. “Trust and safety are going to be paramount with anything that we turn over to some kind of intelligence.” He sees Apple — maybe one other company — as able to do this, and predicts a successful agent will have to operate on-device only."
-              },
-              {
-                "t": "p",
-                "x": "He theorizes that Meta and OpenAI are turning to gadgets because they lack access to the sensors on your phone. “Because it’s a startup, you get one shot,” he quipped. “It’s not like Apple with the Vision Pro.”"
+                "x": "Agility Robotics was first to put Halos inside its Digit 5 humanoid, letting it work near people without external sensors. \"Now the robot is literally unchained,\" Goel said. Boston Dynamics, KION Group and LG are also on board."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tony Fadell이 본\n첫 AI 기기 실패 이유",
-          "body": "iPod 개발자는 초기 AI 기기가 실제 문제를 풀지 못했다고 짚었다.",
-          "mini_headline": "Fadell이 본 다음 AI 기기",
+          "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
+          "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
+          "mini_headline": "Nvidia의 피지컬 AI 안전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템 덕분에 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "Tony Fadell은 첫 MIT Future Fest에서 단종된 AI 기기 세 가지, Rabbit R1, Humane Ai pin, Limitless pendant를 슬라이드에 띄웠다. 그는 “이것들은 일종의 ‘Gen 1’ AI 제품이었고, 제 이력 때문에 이 회사들이 제게 연락해 도와 달라고 했다”며 “저는 돕지 않았다”고 말했다."
+                "x": "Nvidia의 Halos 시스템은 2025년, 개발자가 자율주행차에 가드레일을 구현하도록 돕는 용도로 나왔다. 2026년 6월에는 Halos for Robotics로 범위를 넓혀 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥했다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "그는 “무엇을 하려는지, 어떤 고통을 해결하려는지 정말로 이해해야 한다”며 “이 사례들은 하나같이 어떤 필요도 충족하지 못했다. 그저 괴짜들에게 흥미로운 기술이었을 뿐”이라고 했다."
+                "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 짜였다. 로봇 청소기와 창고 지게차는 안전의 정의부터 다르다. 그래서 개발자가 안전 기능을 직접 맞춰 프로그래밍할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Fadell은 “사람 [비서]에게 무언가를 맡겨 본 적이 있는 사람은 세계 인구의 0.01%도 안 된다”며 “우리가 어떤 형태의 지능에 무엇을 넘기든 신뢰와 안전이 가장 중요해질 것”이라고 말했다. 그가 보기에 이 일을 해낼 곳은 Apple, 그리고 어쩌면 다른 한 회사 정도다. 성공하는 에이전트는 on-device로만 작동해야 할 것이라는 전망도 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "Meta와 OpenAI가 기기로 눈을 돌리는 건 휴대폰 센서에 접근할 수 없어서라는 게 그의 진단이다. 그는 “스타트업이라 기회는 한 번뿐”이라며 “Vision Pro를 낸 Apple과는 다르다”고 꼬집었다."
+                "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tony Fadellが語る\n初期AIガジェットの失敗",
-          "body": "iPodの生みの親は、初期のAIガジェットは現実の課題を解決できなかったと語る。",
-          "mini_headline": "Fadellが語る次のAIガジェット",
+          "headline": "Nvidiaが賭ける\nフィジカルAIの安全",
+          "body": "Nvidiaのfull-stackなフィジカルAI安全システムをロボット各社が採用済みだ。",
+          "mini_headline": "NvidiaのフィジカルAI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility RoboticsのヒューマノイドロボットDigitは、NvidiaのHalosシステムで人のそばでも安全に作業する。出典：Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "Tony Fadellは第一回MIT Future Festで、販売終了となった三つのAIデバイス、Rabbit R1、Humane Ai pin、Limitless pendantを映したスライドを示した。「これらはいわば‘Gen 1’のAI製品で、私の経歴もあって、これらの企業から手助けを頼まれた」と彼は語った。「でも、引き受けなかった」"
+                "x": "NvidiaのHalosシステムは、開発者が自動運転車にガードレールを実装するのを支援するため2025年に登場した。同社は2026年6月、倉庫ロボット、工場のヒューマノイド、さらには手術ロボットまでを対象とするHalos for Roboticsで適用範囲を広げた。NvidiaのAmit Goelは「次のボトルネックになると考えたのは安全だ」と語った。"
               },
               {
                 "t": "p",
-                "x": "「自分が何をしようとしているのか、どんな痛みを解決しようとしているのかを本当に理解しなければならない」と彼は言う。「どのケースも、何のニーズも満たしていなかった。ただのオタク向けの面白い技術だった」"
+                "x": "フルスタックは、独立した安全プロセッサを備えるIGX Thorモジュール、「すべてのハードウェアブロック」と「すべてのソフトウェアライブラリ」を監視するHalos OS、Holoscan Sensor Bridge、シミュレーション、検査ラボプログラムで構成される。ロボット掃除機と倉庫のフォークリフトでは安全の定義が異なるため、開発者は独自の安全機能をプログラムできる。"
               },
               {
                 "t": "p",
-                "x": "「人間の[アシスタント]に何かをしてもらった経験がある人は、世界人口の0.01%にも満たない」とFadellは述べた。「何らかの知能に委ねるものについては、信頼と安全が何より重要になる」。彼はこれを実現できるのはApple、そしておそらくもう一社くらいだと見ており、成功するエージェントはon-deviceのみで動作する必要があると予測する。"
-              },
-              {
-                "t": "p",
-                "x": "MetaとOpenAIがガジェットに向かうのは、スマートフォンのセンサーにアクセスできないからだ、と彼は推測する。「スタートアップだから、チャンスは一度きりだ」と彼は皮肉った。「Vision Proを出したAppleとは違う」"
+                "x": "Agility Roboticsは初めてHalosをヒューマノイドDigit 5に搭載し、外部センサーなしで人の近くで働けるようにした。「今やロボットは文字どおり鎖から解き放たれた」とGoelは言う。Boston Dynamics、KION Group、LGも参加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tony Fadell谈\n首批AI硬件为何失败",
-          "body": "这位iPod之父认为，早期AI设备没能解决真实问题，下一波须赢得消费者信任。",
-          "mini_headline": "Fadell谈下一代AI硬件",
+          "headline": "Nvidia押注\n物理AI安全",
+          "body": "Nvidia面向物理AI的full-stack安全系统，已被机器人厂商采用。",
+          "mini_headline": "Nvidia的物理AI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility Robotics的Digit人形机器人借助Nvidia的Halos系统在人身边安全工作。图片来源：Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "在首届MIT Future Fest上，Tony Fadell投出一张幻灯片，上面是三款已停产的AI设备：Rabbit R1、Humane Ai pin和Limitless pendant。“这些算是‘Gen 1’AI产品，因为我的背景，这些公司都找过我，请我帮忙，”他说，“我没有答应。”"
+                "x": "Nvidia的Halos系统于2025年推出，帮助开发者在自动驾驶汽车中实现安全护栏；2026年6月，公司又推出Halos for Robotics加以扩展，覆盖仓储机器人、工厂人形机器人乃至手术机器人。Nvidia的Amit Goel表示：“我们认为下一个瓶颈将是安全。”"
               },
               {
                 "t": "p",
-                "x": "“你必须真正弄清楚自己想做什么、想解决什么痛点，”他说，“在这些案例里，没有一个满足了任何需求——它们只是给极客看的有趣技术。”"
+                "x": "这套全栈方案包括配备独立安全处理器的IGX Thor模块、监控“每一个硬件模块”和“每一个软件库”的Halos OS、Holoscan Sensor Bridge、仿真以及检测实验室项目。由于扫地机器人和仓库叉车对安全的定义不同，开发者可以编写自定义安全功能。"
               },
               {
                 "t": "p",
-                "x": "“全世界曾经让一个真人[助理]帮自己做过事的人，不到0.01%，”Fadell说，“凡是我们交给某种智能去处理的事情，信任和安全都将是首要的。”他认为Apple——或许再加上另一家公司——有能力做到这一点，并预测成功的智能体必须只在on-device端运行。"
-              },
-              {
-                "t": "p",
-                "x": "他推测，Meta和OpenAI之所以转向硬件，是因为它们无法获取你手机上的传感器。“因为是创业公司，你只有一次机会，”他调侃道，“这可不像Apple和Vision Pro。”"
+                "x": "Agility Robotics率先将Halos装进Digit 5人形机器人，使其无需外部传感器即可在人附近工作。Goel说：“现在机器人真正挣脱了锁链。”Boston Dynamics、KION Group和LG也已加入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tony Fadell explica por qué\nfallaron los primeros AI gadgets",
-          "body": "Para el creador del iPod, los primeros AI gadgets no resolvían problemas reales y la próxima ola debe ganar confianza.",
-          "mini_headline": "Fadell y los próximos AI gadgets",
+          "headline": "Nvidia apuesta por la seguridad\nde la AI física",
+          "body": "Fabricantes de robots usan el sistema full-stack de Nvidia para una AI física más segura en robotaxis y humanoides.",
+          "mini_headline": "La seguridad de la AI física de Nvidia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "El robot humanoide Digit de Agility Robotics usa el sistema Halos de Nvidia para trabajar de forma segura cerca de las personas. Crédito: Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "En la primera edición del MIT Future Fest, Tony Fadell proyectó una diapositiva con tres dispositivos de AI ya descontinuados: el Rabbit R1, el Humane Ai pin y el Limitless pendant. “Estos fueron una especie de productos de AI de ‘Gen 1’, y por mi trayectoria, estas empresas me llamaron y me pidieron ayuda”, dijo. “No los ayudé”."
+                "x": "El sistema Halos de Nvidia se lanzó en 2025 para ayudar a los desarrolladores a implementar barreras de protección en vehículos autónomos, y en junio de 2026 la compañía lo amplió con Halos for Robotics, destinado a robots de almacén, humanoides de fábrica e incluso robots quirúrgicos. \"Pensamos que el próximo cuello de botella sería la seguridad\", dijo Amit Goel, de Nvidia."
               },
               {
                 "t": "p",
-                "x": "“Tienes que entender de verdad qué intentas hacer, qué problema intentas resolver”, dijo. “En cada uno de estos casos, ninguno respondía a necesidad alguna: era solo tecnología interesante para geeks”."
+                "x": "La pila completa abarca el módulo IGX Thor con un procesador de seguridad independiente, un Halos OS que supervisa \"cada bloque de hardware\" y \"cada biblioteca de software\", el Holoscan Sensor Bridge, simulación y un programa de laboratorios de inspección. Como una aspiradora robot y una carretilla elevadora de almacén definen la seguridad de forma distinta, los desarrolladores pueden programar funciones de seguridad personalizadas."
               },
               {
                 "t": "p",
-                "x": "“Menos del 0.01% de la población mundial ha tenido alguna vez a un [asistente] humano que hiciera algo por ella”, dijo Fadell. “La confianza y la seguridad serán primordiales en todo lo que deleguemos en algún tipo de inteligencia”. Considera que Apple —quizá alguna otra empresa— puede lograrlo, y predice que un agente exitoso tendrá que funcionar solo on-device."
-              },
-              {
-                "t": "p",
-                "x": "Su teoría es que Meta y OpenAI recurren a los gadgets porque no tienen acceso a los sensores de tu teléfono. “Como es una startup, solo tienes una oportunidad”, bromeó. “No es como Apple con el Vision Pro”."
+                "x": "Agility Robotics fue la primera en integrar Halos en su humanoide Digit 5, lo que le permite trabajar cerca de personas sin sensores externos. \"Ahora el robot está literalmente desencadenado\", dijo Goel. Boston Dynamics, KION Group y LG también se han sumado."
               }
             ]
           }
@@ -1289,121 +1195,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tony Fadell이 본\n첫 AI 기기 실패 이유",
-          "body": "iPod 개발자는 초기 AI 기기가 실제 문제를 풀지 못했다고 말했다.",
-          "mini_headline": "Fadell이 본 다음 AI 기기",
+          "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
+          "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
+          "mini_headline": "Nvidia의 피지컬 AI 안전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템으로 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "Tony Fadell은 첫 MIT Future Fest에서 단종된 AI 기기 세 가지, 곧 Rabbit R1, Humane Ai pin, Limitless pendant를 담은 슬라이드를 띄웠다. 그는 “이것들은 일종의 ‘Gen 1’ AI 제품이었고, 제 이력 때문에 이 회사들이 제게 연락해 도와 달라고 했다”며 “저는 돕지 않았다”고 말했다."
+                "x": "Nvidia의 Halos 시스템은 개발자가 자율주행차에 가드레일을 구현하도록 돕기 위해 2025년 출시됐다. 2026년 6월에는 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥한 Halos for Robotics로 범위를 넓혔다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "그는 “무엇을 하려는지, 어떤 고통을 해결하려는지 정말로 이해해야 한다”며 “이 사례들은 하나같이 어떤 필요도 충족하지 못했다. 그저 괴짜들에게 흥미로운 기술이었을 뿐”이라고 말했다."
+                "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 이뤄진다. 로봇 청소기와 창고 지게차는 안전을 다르게 정의하므로, 개발자가 맞춤형 안전 기능을 프로그래밍할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Fadell은 “사람 [비서]에게 무언가를 맡겨 본 적이 있는 사람은 세계 인구의 0.01%도 안 된다”며 “우리가 어떤 형태의 지능에 무엇을 넘기든 신뢰와 안전이 가장 중요해질 것”이라고 말했다. 그는 이를 해낼 수 있는 곳으로 Apple, 그리고 어쩌면 다른 한 회사 정도를 꼽았고, 성공하는 에이전트는 on-device로만 작동해야 할 것이라고 내다봤다."
-              },
-              {
-                "t": "p",
-                "x": "그는 Meta와 OpenAI가 기기로 눈을 돌리는 이유가 휴대폰 센서에 접근할 수 없기 때문이라고 본다. 그는 “스타트업이라 기회는 한 번뿐”이라며 “Vision Pro를 낸 Apple과는 다르다”고 꼬집었다."
+                "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어, 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tony Fadellが語る\n初期AIガジェットの失敗",
-          "body": "iPodの生みの親は、初期のAIガジェットは現実の課題を解決できなかったと語る。",
-          "mini_headline": "Fadellが語る次のAIガジェット",
+          "headline": "Nvidiaが賭ける\nフィジカルAIの安全",
+          "body": "Nvidiaのfull-stackなフィジカルAI安全システムをロボット各社が採用済みだ。",
+          "mini_headline": "NvidiaのフィジカルAI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility RoboticsのヒューマノイドロボットDigitは、NvidiaのHalosシステムで人のそばでも安全に作業する。出典：Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "Tony Fadellは第一回MIT Future Festで、販売終了となった三つのAIデバイス、Rabbit R1、Humane Ai pin、Limitless pendantを映したスライドを示した。「これらはいわば‘Gen 1’のAI製品で、私の経歴もあって、これらの企業から手助けを頼まれた」と彼は語った。「でも、引き受けなかった」"
+                "x": "NvidiaのHalosシステムは、開発者が自動運転車にガードレールを実装するのを支援するため2025年に登場した。同社は2026年6月、倉庫ロボット、工場のヒューマノイド、さらには手術ロボットまでを対象とするHalos for Roboticsで適用範囲を広げた。NvidiaのAmit Goelは「次のボトルネックになると考えたのは安全だ」と語った。"
               },
               {
                 "t": "p",
-                "x": "「自分が何をしようとしているのか、どんな痛みを解決しようとしているのかを本当に理解しなければならない」と彼は言う。「どのケースも、何のニーズも満たしていなかった。ただのオタク向けの面白い技術だった」"
+                "x": "フルスタックは、独立した安全プロセッサを備えるIGX Thorモジュール、「すべてのハードウェアブロック」と「すべてのソフトウェアライブラリ」を監視するHalos OS、Holoscan Sensor Bridge、シミュレーション、検査ラボプログラムで構成される。ロボット掃除機と倉庫のフォークリフトでは安全の定義が異なるため、開発者は独自の安全機能をプログラムできる。"
               },
               {
                 "t": "p",
-                "x": "「人間の[アシスタント]に何かをしてもらった経験がある人は、世界人口の0.01%にも満たない」とFadellは述べた。「何らかの知能に委ねるものについては、信頼と安全が何より重要になる」。彼はこれを実現できるのはApple、そしておそらくもう一社くらいだと見ており、成功するエージェントはon-deviceのみで動作する必要があると予測する。"
-              },
-              {
-                "t": "p",
-                "x": "MetaとOpenAIがガジェットに向かうのは、スマートフォンのセンサーにアクセスできないからだ、と彼は推測する。「スタートアップだから、チャンスは一度きりだ」と彼は皮肉った。「Vision Proを出したAppleとは違う」"
+                "x": "Agility Roboticsは初めてHalosをヒューマノイドDigit 5に搭載し、外部センサーなしで人の近くで働けるようにした。「今やロボットは文字どおり鎖から解き放たれた」とGoelは言う。Boston Dynamics、KION Group、LGも参加している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tony Fadell谈\n首批AI硬件为何失败",
-          "body": "这位iPod之父认为，早期AI设备没能解决真实问题，下一波须赢得消费者信任。",
-          "mini_headline": "Fadell谈下一代AI硬件",
+          "headline": "Nvidia押注\n物理AI安全",
+          "body": "Nvidia面向物理AI的full-stack安全系统，已被机器人厂商采用。",
+          "mini_headline": "Nvidia的物理AI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "Agility Robotics的Digit人形机器人借助Nvidia的Halos系统在人身边安全工作。图片来源：Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "在首届MIT Future Fest上，Tony Fadell投出一张幻灯片，上面是三款已停产的AI设备：Rabbit R1、Humane Ai pin和Limitless pendant。“这些算是‘Gen 1’AI产品，因为我的背景，这些公司都找过我，请我帮忙，”他说，“我没有答应。”"
+                "x": "Nvidia的Halos系统于2025年推出，帮助开发者在自动驾驶汽车中实现安全护栏；2026年6月，公司又推出Halos for Robotics加以扩展，覆盖仓储机器人、工厂人形机器人乃至手术机器人。Nvidia的Amit Goel表示：“我们认为下一个瓶颈将是安全。”"
               },
               {
                 "t": "p",
-                "x": "“你必须真正弄清楚自己想做什么、想解决什么痛点，”他说，“在这些案例里，没有一个满足了任何需求——它们只是给极客看的有趣技术。”"
+                "x": "这套全栈方案包括配备独立安全处理器的IGX Thor模块、监控“每一个硬件模块”和“每一个软件库”的Halos OS、Holoscan Sensor Bridge、仿真以及检测实验室项目。由于扫地机器人和仓库叉车对安全的定义不同，开发者可以编写自定义安全功能。"
               },
               {
                 "t": "p",
-                "x": "“全世界曾经让一个真人[助理]帮自己做过事的人，不到0.01%，”Fadell说，“凡是我们交给某种智能去处理的事情，信任和安全都将是首要的。”他认为Apple——或许再加上另一家公司——有能力做到这一点，并预测成功的智能体必须只在on-device端运行。"
-              },
-              {
-                "t": "p",
-                "x": "他推测，Meta和OpenAI之所以转向硬件，是因为它们无法获取你手机上的传感器。“因为是创业公司，你只有一次机会，”他调侃道，“这可不像Apple和Vision Pro。”"
+                "x": "Agility Robotics率先将Halos装进Digit 5人形机器人，使其无需外部传感器即可在人附近工作。Goel说：“现在机器人真正挣脱了锁链。”Boston Dynamics、KION Group和LG也已加入。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tony Fadell explica por qué\nfallaron los primeros AI gadgets",
-          "body": "Para el creador del iPod, los primeros AI gadgets no resolvían problemas reales y la próxima ola debe ganar confianza.",
-          "mini_headline": "Fadell y los próximos AI gadgets",
+          "headline": "Nvidia apuesta por la seguridad\nde la AI física",
+          "body": "Fabricantes de robots usan el sistema full-stack de Nvidia para una AI física más segura en robotaxis y humanoides.",
+          "mini_headline": "La seguridad de la AI física de Nvidia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/Tony-Fadell_AI-Hardware_MIT-Future-Fest-1.jpg?resize=1200,800"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+                "cap": "El robot humanoide Digit de Agility Robotics usa el sistema Halos de Nvidia para trabajar de forma segura cerca de las personas. Crédito: Agility Robotics"
               },
               {
                 "t": "p",
-                "x": "En la primera edición del MIT Future Fest, Tony Fadell proyectó una diapositiva con tres dispositivos de AI ya descontinuados: el Rabbit R1, el Humane Ai pin y el Limitless pendant. “Estos fueron una especie de productos de AI de ‘Gen 1’, y por mi trayectoria, estas empresas me llamaron y me pidieron ayuda”, dijo. “No los ayudé”."
+                "x": "El sistema Halos de Nvidia se lanzó en 2025 para ayudar a los desarrolladores a implementar barreras de protección en vehículos autónomos, y en junio de 2026 la compañía lo amplió con Halos for Robotics, destinado a robots de almacén, humanoides de fábrica e incluso robots quirúrgicos. \"Pensamos que el próximo cuello de botella sería la seguridad\", dijo Amit Goel, de Nvidia."
               },
               {
                 "t": "p",
-                "x": "“Tienes que entender de verdad qué intentas hacer, qué problema intentas resolver”, dijo. “En cada uno de estos casos, ninguno respondía a necesidad alguna: era solo tecnología interesante para geeks”."
+                "x": "La pila completa abarca el módulo IGX Thor con un procesador de seguridad independiente, un Halos OS que supervisa \"cada bloque de hardware\" y \"cada biblioteca de software\", el Holoscan Sensor Bridge, simulación y un programa de laboratorios de inspección. Como una aspiradora robot y una carretilla elevadora de almacén definen la seguridad de forma distinta, los desarrolladores pueden programar funciones de seguridad personalizadas."
               },
               {
                 "t": "p",
-                "x": "“Menos del 0.01% de la población mundial ha tenido alguna vez a un [asistente] humano que hiciera algo por ella”, dijo Fadell. “La confianza y la seguridad serán primordiales en todo lo que deleguemos en algún tipo de inteligencia”. Considera que Apple —quizá alguna otra empresa— puede lograrlo, y predice que un agente exitoso tendrá que funcionar solo on-device."
-              },
-              {
-                "t": "p",
-                "x": "Su teoría es que Meta y OpenAI recurren a los gadgets porque no tienen acceso a los sensores de tu teléfono. “Como es una startup, solo tienes una oportunidad”, bromeó. “No es como Apple con el Vision Pro”."
+                "x": "Agility Robotics fue la primera en integrar Halos en su humanoide Digit 5, lo que le permite trabajar cerca de personas sin sensores externos. \"Ahora el robot está literalmente desencadenado\", dijo Goel. Boston Dynamics, KION Group y LG también se han sumado."
               }
             ]
           }
@@ -1411,15 +1305,15 @@
       }
     },
     {
-      "id": "gadgets-ios-27-2-messages-ai-suggestions",
+      "id": "gadgets-cybopal-monitor-arm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "iOS 27.2 beta에\nMessages AI 제어",
-      "body": "iOS 27.2 beta 3 코드에서 Siri AI 제안을 줄이는 옵션이 나왔다.",
-      "mini_headline": "iOS 27.2, Messages AI 길들이기",
+      "headline": "얼굴을 따라가는\n$1,599 모니터 암",
+      "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
+      "mini_headline": "나를 따라오는 모니터",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/06/if-apples-ai-suggestions-in-messages-annoys-you-theres-a-solution/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1427,173 +1321,156 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+            "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+            "cap": "이미지 출처: Cybopal/Kickstarter"
           },
           {
             "t": "p",
-            "x": "지금 iOS 27.2 beta에는 Messages 앱의 Siri AI “제안된 동작” 기능이 들어 있다. 쓸모 있다는 사람도, 성가시다는 사람도 나올 법한 기능이다."
+            "x": "Kickstarter에서 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 여섯 축 로봇 팔에 달아 책상에 고정한 제품이다. 팔이 사용자의 위치를 살피고 그에 맞춰 화면을 옮긴다. Super Early Bird 가격은 $1,599로, 예정 소매가 $2,499보다 싸다."
           },
           {
             "t": "p",
-            "x": "Suggested Actions는 첫 iOS 27 beta에 있었다. 그런데 일부 제안이 꽤 엉뚱하다는 불만이 나오자 Apple이 기능을 뺐고, 이번 iOS 27.2 beta에서 다시 돌아왔다. Messages는 대화 맥락을 보고 Add to Reminders, Add to Notes 같은 one-tap 제안이나 요청한 사진을 바로 찾아 주는 버튼을 띄운다."
+            "x": "컴퓨터도 따로 들어 있다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기 안에서 처리한다. 장애물 회피와 경로 계획은 양안 3D 센서 몫이고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
           },
           {
             "t": "p",
-            "x": "유출 제보자 pdfu는 iOS 27.2 beta 3 코드에서 원치 않는 제안을 골라 끄는 새 컨트롤을 찾아냈다. 카테고리별로 제안을 끄거나, 최근 30일 동안 안 쓴 카테고리는 Siri AI가 숨기게 할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이 옵션들은 아직 beta에 적용되지 않았지만 머지않아 만나 볼 수 있을 전망이다."
+            "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가고, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립 검증을 거치지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
           }
         ]
       },
+      "lead_image": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
       "text": {
         "en": {
-          "headline": "iOS 27.2 beta code reveals\nMessages AI suggestion controls",
-          "body": "A developer found options in iOS 27.2 beta 3 code that will let users rein in Siri AI's suggested actions in Messages.",
-          "mini_headline": "iOS 27.2 tames Messages AI",
+          "headline": "A $1,599 monitor arm\nthat follows your face",
+          "body": "CyboPal's $1,599 arm uses a 6 TOPS on-device NPU to track your face so its 27-inch 4K screen follows you.",
+          "mini_headline": "A monitor that follows you",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "Image credit: Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "The current beta of iOS 27.2 includes a Siri AI “suggested actions” feature in the Messages app that some will consider useful and others find annoying."
+                "x": "The Kickstarter-funded CyboPal ONE bolts a 27-inch 4K, 160Hz display to a six-axis robotic arm that clamps to your desk, keeps an eye on where you are, and moves the screen to match. The $1,599 Super Early Bird price compares with a planned $2,499 retail price."
               },
               {
                 "t": "p",
-                "x": "Suggested Actions were present in the initial iOS 27 beta, but Apple later pulled the feature after complaints that some suggestions were rather random. It returned in the iOS 27.2 beta. Messages offers one-tap suggestions based on the context of conversations, such as Add to Reminders and Add to Notes, or a button that jumps to a search for requested photos."
+                "x": "It carries its own computer: an eight-core Rockchip RK3588 with a 6 TOPS NPU, 8GB of RAM and 128GB of storage in a \"Linux AI Compute Base\" that handles face tracking, gesture recognition and 3D spatial sensing on the device. A binocular 3D sensor handles obstacle avoidance and path planning, and face tracking repositions the screen in under four seconds."
               },
               {
                 "t": "p",
-                "x": "Leaker pdfu found new controls in iOS 27.2 beta 3 code to selectively toggle off unwanted suggestions. They allow suggestions to be toggled off by category, or you can let Siri AI hide the categories you haven’t used in the last 30 days."
-              },
-              {
-                "t": "p",
-                "x": "These options aren’t yet live in the beta, but we can likely expect to see them soon."
+                "x": "The Pauli voice agent runs in a desktop client, and you still need a laptop or desktop for actual compute. The campaign, closing November 21, 2026, sits at over 11,000% of its HK$80,000 goal — but TechRadar notes backers are betting on software that hasn't been independently tested."
               }
             ]
           }
         },
         "ko": {
-          "headline": "iOS 27.2 beta에\nMessages AI 제어",
-          "body": "iOS 27.2 beta 3 코드에서 Siri AI 제안을 줄이는 옵션이 나왔다.",
-          "mini_headline": "iOS 27.2, Messages AI 길들이기",
+          "headline": "얼굴을 따라가는\n$1,599 모니터 암",
+          "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
+          "mini_headline": "나를 따라오는 모니터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "이미지 출처: Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "지금 iOS 27.2 beta에는 Messages 앱의 Siri AI “제안된 동작” 기능이 들어 있다. 쓸모 있다는 사람도, 성가시다는 사람도 나올 법한 기능이다."
+                "x": "Kickstarter에서 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 여섯 축 로봇 팔에 달아 책상에 고정한 제품이다. 팔이 사용자의 위치를 살피고 그에 맞춰 화면을 옮긴다. Super Early Bird 가격은 $1,599로, 예정 소매가 $2,499보다 싸다."
               },
               {
                 "t": "p",
-                "x": "Suggested Actions는 첫 iOS 27 beta에 있었다. 그런데 일부 제안이 꽤 엉뚱하다는 불만이 나오자 Apple이 기능을 뺐고, 이번 iOS 27.2 beta에서 다시 돌아왔다. Messages는 대화 맥락을 보고 Add to Reminders, Add to Notes 같은 one-tap 제안이나 요청한 사진을 바로 찾아 주는 버튼을 띄운다."
+                "x": "컴퓨터도 따로 들어 있다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기 안에서 처리한다. 장애물 회피와 경로 계획은 양안 3D 센서 몫이고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
               },
               {
                 "t": "p",
-                "x": "유출 제보자 pdfu는 iOS 27.2 beta 3 코드에서 원치 않는 제안을 골라 끄는 새 컨트롤을 찾아냈다. 카테고리별로 제안을 끄거나, 최근 30일 동안 안 쓴 카테고리는 Siri AI가 숨기게 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 옵션들은 아직 beta에 적용되지 않았지만 머지않아 만나 볼 수 있을 전망이다."
+                "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가고, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립 검증을 거치지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iOS 27.2 betaに\nMessages AI制御",
-          "body": "iOS 27.2 beta 3のコードに、Siri AIの提案を抑える設定が見つかった。",
-          "mini_headline": "iOS 27.2でMessagesのAIを制御",
+          "headline": "顔を追いかける\n$1,599のモニターアーム",
+          "body": "$1,599のCyboPalは6 TOPS NPUで顔を追い27インチ4K 画面を動かす。",
+          "mini_headline": "ユーザーを追うモニター",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "画像提供：Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "現行のiOS 27.2 betaには、MessagesアプリにSiri AIの「提案アクション」機能が含まれている。便利だと考える人もいれば、煩わしいと感じる人もいるだろう。"
+                "x": "Kickstarterで資金を集めたCyboPal ONEは、27インチ・4K・160Hzのディスプレイを、机に固定する六軸ロボットアームに取り付けた製品だ。ユーザーの位置を見守り、それに合わせて画面を動かす。Super Early Bird価格は$1,599で、予定小売価格は$2,499だ。"
               },
               {
                 "t": "p",
-                "x": "Suggested Actionsは最初のiOS 27 betaに搭載されていたが、一部の提案がかなり的外れだという苦情を受けてAppleがいったん取り下げた。iOS 27.2 betaで復活した形だ。Messagesは会話の文脈に応じて、Add to RemindersやAdd to Notesといったone-tapの提案や、求められた写真の検索に飛ぶボタンを表示する。"
+                "x": "独自のコンピューターも内蔵する。「Linux AI Compute Base」には6 TOPS NPU付きの八コアRockchip RK3588、8GBのRAM、128GBのストレージが収められ、顔追跡、ジェスチャー認識、3D 空間センシングをデバイス上で処理する。両眼式の3D センサーが障害物回避と経路計画を担い、顔追跡により四秒未満で画面の位置を調整する。"
               },
               {
                 "t": "p",
-                "x": "リーカーのpdfuは、iOS 27.2 beta 3のコードから、不要な提案を個別にオフにできる新しいコントロールを見つけた。提案をカテゴリーごとにオフにするか、過去30日間使っていないカテゴリーをSiri AIに非表示にさせることができる。"
-              },
-              {
-                "t": "p",
-                "x": "これらのオプションはまだbetaで有効になっていないが、近いうちに登場するとみられる。"
+                "x": "音声エージェントPauliはデスクトップクライアントで動作し、実際の計算処理には引き続きノートパソコンかデスクトップが必要だ。2026年11月21日に終了するキャンペーンは目標額HK$80,000の11,000%超に達しているが、TechRadarは、支援者が独立した検証を経ていないソフトウェアに賭けていると指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iOS 27.2代码曝光\nMessages AI管控",
-          "body": "iOS 27.2 beta 3代码显示，用户将能限制Messages中的Siri AI建议。",
-          "mini_headline": "iOS 27.2管住Messages AI",
+          "headline": "跟随人脸转动的\n$1,599显示器支架",
+          "body": "$1,599的CyboPal用6 TOPS NPU追踪人脸，让27英寸4K 屏幕随人转动。",
+          "mini_headline": "跟着你转的显示器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "图片来源：Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "当前的iOS 27.2 beta在Messages应用中加入了Siri AI“建议操作”功能，有人会觉得实用，也有人会觉得烦人。"
+                "x": "通过Kickstarter众筹的CyboPal ONE把一块27英寸4K、160Hz显示屏装在可夹在桌边的六轴机械臂上，它会留意你的位置，并相应移动屏幕。Super Early Bird价格为$1,599，计划零售价为$2,499。"
               },
               {
                 "t": "p",
-                "x": "Suggested Actions曾出现在最初的iOS 27 beta中，但因有用户抱怨部分建议颇为随机，Apple随后撤下了该功能。它在iOS 27.2 beta中重新回归。Messages会根据对话上下文提供one-tap建议，例如Add to Reminders和Add to Notes，或一个直接跳转搜索所需照片的按钮。"
+                "x": "它自带一台电脑：“Linux AI Compute Base”内置搭载6 TOPS NPU的八核Rockchip RK3588、8GB RAM和128GB存储，在设备端完成人脸追踪、手势识别和3D 空间感知。双目3D 传感器负责避障和路径规划，人脸追踪可在四秒内调整屏幕位置。"
               },
               {
                 "t": "p",
-                "x": "爆料者pdfu在iOS 27.2 beta 3代码中发现了新的控制项，可有选择地关闭不需要的建议。用户可以按类别关闭建议，也可以让Siri AI隐藏过去30天未使用的类别。"
-              },
-              {
-                "t": "p",
-                "x": "这些选项尚未在beta中上线，但很可能不久就会出现。"
+                "x": "Pauli语音智能体运行在桌面客户端中，实际计算仍需一台笔记本或台式机。这项众筹将于2026年11月21日截止，目前已达HK$80,000目标的11,000%以上——但TechRadar指出，支持者押注的是尚未经过独立测试的软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de iOS 27.2 revela\ncontroles de AI en Messages",
-          "body": "Un desarrollador halló en el código de iOS 27.2 beta 3 opciones para frenar las sugerencias de Siri AI en Messages.",
-          "mini_headline": "iOS 27.2 controla la AI de Messages",
+          "headline": "Un brazo para monitor de $1,599\nque sigue tu rostro",
+          "body": "El brazo CyboPal de $1,599 usa una NPU on-device de 6 TOPS para seguir tu rostro con su pantalla 4K de 27 pulgadas.",
+          "mini_headline": "Un monitor que te sigue",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "Crédito de la imagen: Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "La beta actual de iOS 27.2 incluye en la app Messages una función de “acciones sugeridas” de Siri AI que algunos considerarán útil y a otros les resultará molesta."
+                "x": "El CyboPal ONE, financiado en Kickstarter, monta una pantalla 4K de 160Hz y 27 pulgadas en un brazo robótico de seis ejes que se sujeta al escritorio, vigila dónde estás y mueve la pantalla en consecuencia. El precio Super Early Bird de $1,599 se compara con un precio de venta previsto de $2,499."
               },
               {
                 "t": "p",
-                "x": "Suggested Actions estaba presente en la primera beta de iOS 27, pero Apple retiró después la función tras quejas de que algunas sugerencias eran bastante aleatorias. Volvió en la beta de iOS 27.2. Messages ofrece sugerencias one-tap según el contexto de las conversaciones, como Add to Reminders y Add to Notes, o un botón que lleva a una búsqueda de las fotos solicitadas."
+                "x": "Lleva su propio equipo informático: un Rockchip RK3588 de ocho núcleos con una NPU de 6 TOPS, 8GB de RAM y 128GB de almacenamiento en una \"Linux AI Compute Base\" que gestiona en el propio dispositivo el seguimiento facial, el reconocimiento de gestos y la detección espacial 3D. Un sensor 3D binocular se encarga de evitar obstáculos y planificar trayectorias, y el seguimiento facial recoloca la pantalla en menos de cuatro segundos."
               },
               {
                 "t": "p",
-                "x": "El filtrador pdfu encontró en el código de iOS 27.2 beta 3 nuevos controles para desactivar de forma selectiva las sugerencias no deseadas. Permiten desactivarlas por categoría, o dejar que Siri AI oculte las categorías que no has usado en los últimos 30 días."
-              },
-              {
-                "t": "p",
-                "x": "Estas opciones aún no están activas en la beta, pero es probable que las veamos pronto."
+                "x": "El agente de voz Pauli funciona en un cliente de escritorio, y aún se necesita un equipo portátil o de escritorio para el cómputo real. La campaña, que cierra el 21 de noviembre de 2026, supera el 11,000% de su meta de HK$80,000, pero TechRadar advierte que los patrocinadores apuestan por un software que no se ha probado de forma independiente."
               }
             ]
           }
@@ -1601,121 +1478,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "iOS 27.2 beta에\nMessages AI 제어",
-          "body": "iOS 27.2 beta 3 코드에서 Siri AI 제안을 줄이는 옵션이 나왔다.",
-          "mini_headline": "iOS 27.2, Messages AI 길들이기",
+          "headline": "얼굴을 따라가는\n$1,599 모니터 암",
+          "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
+          "mini_headline": "나를 따라오는 모니터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "이미지 출처: Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "현재 iOS 27.2 beta에는 Messages 앱의 Siri AI “제안된 동작” 기능이 들어 있다. 유용하다고 여길 사람도, 성가시다고 느낄 사람도 있을 기능이다."
+                "x": "Kickstarter로 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 책상에 고정하는 여섯 축 로봇 팔에 단 제품이다. 팔은 사용자의 위치를 살피며 그에 맞춰 화면을 움직인다. Super Early Bird 가격은 $1,599로, 예정된 소매가 $2,499보다 낮다."
               },
               {
                 "t": "p",
-                "x": "Suggested Actions는 첫 iOS 27 beta에 있었지만, 일부 제안이 꽤 엉뚱하다는 불만이 나오자 Apple이 기능을 뺐다. 이 기능은 iOS 27.2 beta에서 돌아왔다. Messages는 대화 맥락에 따라 Add to Reminders, Add to Notes 같은 one-tap 제안이나, 요청한 사진을 바로 검색하는 버튼을 띄운다."
+                "x": "자체 컴퓨터도 갖췄다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기에서 처리한다. 양안 3D 센서가 장애물 회피와 경로 계획을 맡고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
               },
               {
                 "t": "p",
-                "x": "유출 제보자 pdfu는 iOS 27.2 beta 3 코드에서 원치 않는 제안을 골라 끌 수 있는 새 컨트롤을 찾아냈다. 제안을 카테고리별로 끄거나, 최근 30일 동안 쓰지 않은 카테고리를 Siri AI가 숨기도록 할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 옵션들은 아직 beta에 적용되지 않았지만 곧 볼 수 있을 것으로 보인다."
+                "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가며, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립적으로 검증되지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "iOS 27.2 betaに\nMessages AI制御",
-          "body": "iOS 27.2 beta 3のコードに、Siri AIの提案を抑える設定が見つかった。",
-          "mini_headline": "iOS 27.2でMessagesのAIを制御",
+          "headline": "顔を追いかける\n$1,599のモニターアーム",
+          "body": "$1,599のCyboPalは6 TOPS NPUで顔を追い27インチ4K 画面を動かす。",
+          "mini_headline": "ユーザーを追うモニター",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "画像提供：Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "現行のiOS 27.2 betaには、MessagesアプリにSiri AIの「提案アクション」機能が含まれている。便利だと考える人もいれば、煩わしいと感じる人もいるだろう。"
+                "x": "Kickstarterで資金を集めたCyboPal ONEは、27インチ・4K・160Hzのディスプレイを、机に固定する六軸ロボットアームに取り付けた製品だ。ユーザーの位置を見守り、それに合わせて画面を動かす。Super Early Bird価格は$1,599で、予定小売価格は$2,499だ。"
               },
               {
                 "t": "p",
-                "x": "Suggested Actionsは最初のiOS 27 betaに搭載されていたが、一部の提案がかなり的外れだという苦情を受けてAppleがいったん取り下げた。iOS 27.2 betaで復活した形だ。Messagesは会話の文脈に応じて、Add to RemindersやAdd to Notesといったone-tapの提案や、求められた写真の検索に飛ぶボタンを表示する。"
+                "x": "独自のコンピューターも内蔵する。「Linux AI Compute Base」には6 TOPS NPU付きの八コアRockchip RK3588、8GBのRAM、128GBのストレージが収められ、顔追跡、ジェスチャー認識、3D 空間センシングをデバイス上で処理する。両眼式の3D センサーが障害物回避と経路計画を担い、顔追跡により四秒未満で画面の位置を調整する。"
               },
               {
                 "t": "p",
-                "x": "リーカーのpdfuは、iOS 27.2 beta 3のコードから、不要な提案を個別にオフにできる新しいコントロールを見つけた。提案をカテゴリーごとにオフにするか、過去30日間使っていないカテゴリーをSiri AIに非表示にさせることができる。"
-              },
-              {
-                "t": "p",
-                "x": "これらのオプションはまだbetaで有効になっていないが、近いうちに登場するとみられる。"
+                "x": "音声エージェントPauliはデスクトップクライアントで動作し、実際の計算処理には引き続きノートパソコンかデスクトップが必要だ。2026年11月21日に終了するキャンペーンは目標額HK$80,000の11,000%超に達しているが、TechRadarは、支援者が独立した検証を経ていないソフトウェアに賭けていると指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "iOS 27.2代码曝光\nMessages AI管控",
-          "body": "iOS 27.2 beta 3代码显示，用户将能限制Messages中的Siri AI建议。",
-          "mini_headline": "iOS 27.2管住Messages AI",
+          "headline": "跟随人脸转动的\n$1,599显示器支架",
+          "body": "$1,599的CyboPal用6 TOPS NPU追踪人脸，让27英寸4K 屏幕随人转动。",
+          "mini_headline": "跟着你转的显示器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "图片来源：Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "当前的iOS 27.2 beta在Messages应用中加入了Siri AI“建议操作”功能，有人会觉得实用，也有人会觉得烦人。"
+                "x": "通过Kickstarter众筹的CyboPal ONE把一块27英寸4K、160Hz显示屏装在可夹在桌边的六轴机械臂上，它会留意你的位置，并相应移动屏幕。Super Early Bird价格为$1,599，计划零售价为$2,499。"
               },
               {
                 "t": "p",
-                "x": "Suggested Actions曾出现在最初的iOS 27 beta中，但因有用户抱怨部分建议颇为随机，Apple随后撤下了该功能。它在iOS 27.2 beta中重新回归。Messages会根据对话上下文提供one-tap建议，例如Add to Reminders和Add to Notes，或一个直接跳转搜索所需照片的按钮。"
+                "x": "它自带一台电脑：“Linux AI Compute Base”内置搭载6 TOPS NPU的八核Rockchip RK3588、8GB RAM和128GB存储，在设备端完成人脸追踪、手势识别和3D 空间感知。双目3D 传感器负责避障和路径规划，人脸追踪可在四秒内调整屏幕位置。"
               },
               {
                 "t": "p",
-                "x": "爆料者pdfu在iOS 27.2 beta 3代码中发现了新的控制项，可有选择地关闭不需要的建议。用户可以按类别关闭建议，也可以让Siri AI隐藏过去30天未使用的类别。"
-              },
-              {
-                "t": "p",
-                "x": "这些选项尚未在beta中上线，但很可能不久就会出现。"
+                "x": "Pauli语音智能体运行在桌面客户端中，实际计算仍需一台笔记本或台式机。这项众筹将于2026年11月21日截止，目前已达HK$80,000目标的11,000%以上——但TechRadar指出，支持者押注的是尚未经过独立测试的软件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de iOS 27.2 revela\ncontroles de AI en Messages",
-          "body": "Un desarrollador halló en el código de iOS 27.2 beta 3 opciones para frenar las sugerencias de Siri AI en Messages.",
-          "mini_headline": "iOS 27.2 controla la AI de Messages",
+          "headline": "Un brazo para monitor de $1,599\nque sigue tu rostro",
+          "body": "El brazo CyboPal de $1,599 usa una NPU on-device de 6 TOPS para seguir tu rostro con su pantalla 4K de 27 pulgadas.",
+          "mini_headline": "Un monitor que te sigue",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/messages-one-tap-suggestions-ios-27.jpg?quality=82&strip=all&resize=1200,628"
+                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+                "cap": "Crédito de la imagen: Cybopal/Kickstarter"
               },
               {
                 "t": "p",
-                "x": "La beta actual de iOS 27.2 incluye en la app Messages una función de “acciones sugeridas” de Siri AI que algunos considerarán útil y a otros les resultará molesta."
+                "x": "El CyboPal ONE, financiado en Kickstarter, monta una pantalla 4K de 160Hz y 27 pulgadas en un brazo robótico de seis ejes que se sujeta al escritorio, vigila dónde estás y mueve la pantalla en consecuencia. El precio Super Early Bird de $1,599 se compara con un precio de venta previsto de $2,499."
               },
               {
                 "t": "p",
-                "x": "Suggested Actions estaba presente en la primera beta de iOS 27, pero Apple retiró después la función tras quejas de que algunas sugerencias eran bastante aleatorias. Volvió en la beta de iOS 27.2. Messages ofrece sugerencias one-tap según el contexto de las conversaciones, como Add to Reminders y Add to Notes, o un botón que lleva a una búsqueda de las fotos solicitadas."
+                "x": "Lleva su propio equipo informático: un Rockchip RK3588 de ocho núcleos con una NPU de 6 TOPS, 8GB de RAM y 128GB de almacenamiento en una \"Linux AI Compute Base\" que gestiona en el propio dispositivo el seguimiento facial, el reconocimiento de gestos y la detección espacial 3D. Un sensor 3D binocular se encarga de evitar obstáculos y planificar trayectorias, y el seguimiento facial recoloca la pantalla en menos de cuatro segundos."
               },
               {
                 "t": "p",
-                "x": "El filtrador pdfu encontró en el código de iOS 27.2 beta 3 nuevos controles para desactivar de forma selectiva las sugerencias no deseadas. Permiten desactivarlas por categoría, o dejar que Siri AI oculte las categorías que no has usado en los últimos 30 días."
-              },
-              {
-                "t": "p",
-                "x": "Estas opciones aún no están activas en la beta, pero es probable que las veamos pronto."
+                "x": "El agente de voz Pauli funciona en un cliente de escritorio, y aún se necesita un equipo portátil o de escritorio para el cómputo real. La campaña, que cierra el 21 de noviembre de 2026, supera el 11,000% de su meta de HK$80,000, pero TechRadar advierte que los patrocinadores apuestan por un software que no se ha probado de forma independiente."
               }
             ]
           }

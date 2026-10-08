@@ -6089,6 +6089,161 @@
           "x": "这类系统需要调校，以免游戏变得过难，但相比单纯提高敌人的血量或伤害，它能带来更大也更公平的挑战。"
         }
       ]
+    },
+    "games/games-doom-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "开发者Nikolai Zhivotenko通过自制的Windows移植版，为1993年的初代DOOM带来了NVIDIA DLSS 5 Neural Rendering。DOOM + DLSS 5基于Linux DOOM 1.10，被转换为带有DirectX 12呈现路径的64-bit Windows应用程序。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DOOM内部仍以320x200渲染，并在1280x800的DX12窗口中呈现，但修改后的渲染器如今会为每一帧生成深度、法线和运动数据。"
+        },
+        {
+          "t": "video",
+          "yt": "KFZ5NHp2Wj0"
+        },
+        {
+          "t": "p",
+          "x": "可选模式包括DLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K 和 nearest-neighbor 4x 等。若已安装DLSS 5 Swapper设置，DLSS 5模式会先运行DLSS 4.5路径，再应用DLSS 5 Neural Rendering。部分重建出的细节看起来可能相当怪异。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GPLv2源代码已发布在GitHub上；用户需自备DOOM IWAD并自行构建该移植版。"
+        }
+      ]
+    },
+    "games/games-ctr-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Crash Team Racing: Turbocharged是这款PS1赛车游戏的免费PC移植版，以人工打造（human-made）的CTR native decomp项目为基础，加入了“最高4K 乃至更高”的native-resolution渲染、宽屏、增强纹理以及最高240fps。"
+        },
+        {
+          "t": "p",
+          "x": "开发者Camzie99在YouTube评论中证实，该移植版的制作使用了Large Language Models。"
+        },
+        {
+          "t": "video",
+          "yt": "e2bI3uvGHlI"
+        },
+        {
+          "t": "p",
+          "x": "“我确实用LLMs写了代码，但不是靠含糊的提示词，”Camzie99表示。Camzie99先规划每项功能、决定需要改动的部分，再让LLM“以更小的块、逐个函数，或限定在单个文件内”编写代码，以便审查。修正PS1画面抖动的PGXP就是一例。"
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+指出，项目页面和宣传材料上都没有AI声明，并称这种省略具有欺骗性：它或许能避开“vibe-coded”的标签，但依然是AI的产物。"
+        }
+      ]
+    },
+    "games/games-loish-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+        },
+        {
+          "t": "p",
+          "x": "画师Loish（Lois van Baarle，其作品曾出现在Horizon Zero Dawn中）被人“在Tiktok上”指控在作品中使用genAI。她在一段Instagram视频中展示了如何轻松证明这幅作品是原创：她的动态里有这幅作品的创作过程视频，证明它完成于2023年。她从2003年起就开始发布作品。"
+        },
+        {
+          "t": "p",
+          "x": "“这是艺术家的艰难时期，”她写道。“我们被迫在社交媒体算法和创意行业中与粗制滥造的内容（slop）竞争，而我们的作品在未经同意的情况下被源源不断地喂给这台机器。如今，即便记录下创作过程的每一步，我们仍可能被指控用AI创作。”"
+        },
+        {
+          "t": "p",
+          "x": "她的建议是：“别只看评论区，多点进去看看。查看主页，观看创作过程视频，了解AI生成图像的预警信号……别忘了是什么让我们成为人类！”"
+        }
+      ]
+    },
+    "games/games-schofield-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Glen Schofield曾执掌Sledgehammer Games，后在Krafton旗下领导Striking Distance Studios，今年夏天退休，如今从事艺术创作。他表示，COVID打乱开发后，他曾获承诺可在2023年3月发售，但Krafton却逼他在2022年12月推出The Callisto Protocol，比承诺的时间早了几个月。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "他认为AAA游戏的成本已经过高：“如果能用不到1.5亿美元（$150 million）做一款游戏，我会非常高兴。”Dead Space的成本是2800万美元（$28 million）。"
+        },
+        {
+          "t": "p",
+          "x": "“眼下，一个创意能比AI省下更多钱，”他说，并以一项创造性复用旧游戏素材的计划为例，该计划可节省约2500万美元（$25 million）。"
+        },
+        {
+          "t": "p",
+          "x": "他支持AI，却拒绝把它视为工具：“Midjourney对我来说已经成了一种媒介。”他会在特定领域让AI发挥作用：“修复碰撞问题。把镜头做得更好。”"
+        }
+      ]
+    },
+    "games/games-unity-spark-asset-store": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        },
+        {
+          "t": "p",
+          "x": "Unity发布了Unity Spark，这是一个基于浏览器的游戏创作平台，旨在让人们无需先学习传统编程或完整的Unity Editor，就能描述、搭建、打磨并发布互动体验。"
+        },
+        {
+          "t": "p",
+          "x": "Unity CEO Matt Bromberg对Spark的定位与“一句提示词生成游戏”的工具截然不同。其目标是消除实现创意时的部分技术门槛，而不是让创作过程自动化，也不是假装第一个提示词就能产出完整的游戏。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+          "cap": "Emberwell | 用Untiy Spark制作的Action RPG"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+          "cap": "Space Corridor | 用Unity Spark制作的Shooter"
+        },
+        {
+          "t": "p",
+          "x": "“这无关‘one-shotting’。让AI照搬一款已经被发明出来的游戏，并不能让你成为下一个Hideo Kojima……Unity Spark直接连接Unity Asset Store，你可以使用社区艺术家创作的数千个高质量素材进行开发。”– Matt Bromberg"
+        },
+        {
+          "t": "p",
+          "x": "据Financial Times报道，Spark将能够“生成部分素材”，但大部分图像和特效将来自Unity现有的人工制作素材库，贡献素材的艺术家会获得署名和报酬。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+          "cap": "Horror Story | 用Unity Spark制作的Haunted House"
+        },
+        {
+          "t": "p",
+          "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
+        }
+      ]
     }
   }
 }

@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "science",
   "media": [
     {
-      "id": "science-unique-games-proof-race",
+      "id": "science-alphaproof-nexus",
       "type": "image",
-      "src": "pipeline/media/science-unique-games-proof-race.jpg"
+      "src": "pipeline/media/science-alphaproof-nexus.png"
     },
     {
-      "id": "science-satellite-damage-through-smoke",
+      "id": "science-gene-function-microscopy",
       "type": "image",
-      "src": "pipeline/media/science-satellite-damage-through-smoke.jpg"
+      "src": "pipeline/media/science-gene-function-microscopy.jpg"
     },
     {
-      "id": "science-ai2-astabrief-open-weights",
+      "id": "science-gravitational-lenses-desi",
       "type": "image",
-      "src": "pipeline/media/science-ai2-astabrief-open-weights.png"
+      "src": "pipeline/media/science-gravitational-lenses-desi.jpg"
     },
     {
-      "id": "science-haiqu-agenticos-quantum",
+      "id": "science-chatbot-tipping-formula",
       "type": "image",
-      "src": "pipeline/media/science-haiqu-agenticos-quantum.jpg"
+      "src": "pipeline/media/science-chatbot-tipping-formula.jpg"
     },
     {
-      "id": "science-virtual-cell-model-calibration",
+      "id": "science-co2-methanol-ml",
       "type": "image",
-      "src": "pipeline/media/science-virtual-cell-model-calibration.jpg"
+      "src": "pipeline/media/science-co2-methanol-ml.jpg"
     }
   ]
 }

@@ -6615,6 +6615,161 @@
           "x": "Such a system would need tweaking so games don't become too difficult, but it could offer a greater yet fairer challenge than simply turning up enemy health or damage."
         }
       ]
+    },
+    "games/games-doom-dlss5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Developer Nikolai Zhivotenko has brought NVIDIA DLSS 5 Neural Rendering to the original 1993 DOOM through a custom Windows port. DOOM + DLSS 5 is based on Linux DOOM 1.10, converted into a 64-bit Windows application with a DirectX 12 presentation path."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DOOM still renders internally at 320x200, presented in a 1280x800 DX12 window, but the modified renderer now generates depth, normal, and motion data for every frame."
+        },
+        {
+          "t": "video",
+          "yt": "KFZ5NHp2Wj0"
+        },
+        {
+          "t": "p",
+          "x": "Modes include DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K and nearest-neighbor 4x. The DLSS 5 mode runs the DLSS 4.5 path before applying DLSS 5 Neural Rendering, if the DLSS 5 Swapper setup is installed. Some reconstructed details can look rather unusual."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The GPLv2 source code is on GitHub; users supply their own DOOM IWAD and build the port."
+        }
+      ]
+    },
+    "games/games-ctr-recomp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Crash Team Racing: Turbocharged, a free PC port of the PS1 racer, builds on the human-made CTR native decomp project and adds native-resolution rendering \"up to 4K and beyond,\" widescreen, enhanced textures and up to 240fps."
+        },
+        {
+          "t": "p",
+          "x": "Developer Camzie99 confirmed in a YouTube comment that Large Language Models were used to create the port."
+        },
+        {
+          "t": "video",
+          "yt": "e2bI3uvGHlI"
+        },
+        {
+          "t": "p",
+          "x": "\"I did use LLMs to write code, however it wasn't with vague prompts,\" Camzie99 says. They planned each feature and decided what needed to change, then had an LLM write the code \"in smaller chunks, function by function, or limited to a single file\" so it was easy to review. PGXP, the PS1 wobble fix, is cited as an example."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ notes there's no AI disclaimer on the project page or promotional materials, calling the omission deceptive: it may dodge \"vibe-coded\" status, but it's still the product of AI."
+        }
+      ]
+    },
+    "games/games-loish-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Artist Loish (Lois van Baarle, whose work appears in Horizon Zero Dawn) was accused \"over on Tiktok\" of using genAI in her artwork. In an Instagram video she showed how the piece could easily be identified as original: her feed has process videos of it, proving she made it in 2023. She has been posting art since 2003."
+        },
+        {
+          "t": "p",
+          "x": "\"It's a rough time for artists,\" she wrote. \"We are forced to compete with slop in our social media algorithms and in our creative industries, while our work is relentlessly fed into this machine without our consent. Now we're at a point where we can be accused of using AI for our art, even when documenting every step of our process.\""
+        },
+        {
+          "t": "p",
+          "x": "Her advice: \"Click beyond the comment section. Check profiles, watch process videos, learn the warning signs for AI generated imagery... Don't forget what makes us human!\""
+        }
+      ]
+    },
+    "games/games-schofield-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Glen Schofield, who headed Sledgehammer Games and led Striking Distance Studios under Krafton, retired this summer and now makes art. He says Krafton forced him to ship The Callisto Protocol in December 2022, months before the March 2023 date he had been promised after COVID disrupted development."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "He says AAA costs have risen too high: \"I'd be so happy to make a game for less than $150 million.\" Dead Space cost $28 million."
+        },
+        {
+          "t": "p",
+          "x": "\"A creative idea can save more money than AI can right now,\" he says, citing a plan to creatively reuse older game assets that would save about $25 million."
+        },
+        {
+          "t": "p",
+          "x": "He is an advocate for AI but refuses to see it as a tool: \"Midjourney has become a medium for me.\" He would put AI to work in select areas: \"Fix collisions. Let's make cameras better.\""
+        }
+      ]
+    },
+    "games/games-unity-spark-asset-store": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "IkcK7aeMw5A"
+        },
+        {
+          "t": "p",
+          "x": "Unity has announced Unity Spark, a browser-based game creation platform intended to let people describe, construct, refine, and publish interactive experiences without first learning conventional programming or the complete Unity Editor."
+        },
+        {
+          "t": "p",
+          "x": "Unity CEO Matt Bromberg is positioning Spark very differently from one-prompt game generators. The goal is to remove some of the technical barriers around implementing ideas, but not to automate the creative process or pretend a first prompt produces a finished game."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
+          "cap": "Emberwell | Action RPG Made in Untiy Spark"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
+          "cap": "Space Corridor | Shooter Made in Unity Spark"
+        },
+        {
+          "t": "p",
+          "x": "\"This isn’t about “one-shotting”. Asking AI to regurgitate an already invented game does not make you the next Hideo Kojima… Unity Spark connects directly to the Unity Asset Store, so you can build with thousands of high-quality, artist-created assets made by our community.\" – Matt Bromberg"
+        },
+        {
+          "t": "p",
+          "x": "According to the Financial Times, Spark will be able to \"generate some assets,\" but most of its imagery and effects will come from Unity’s existing human-made library, with contributing artists credited and compensated."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
+          "cap": "Horror Story | Haunted House Made in Unity Spark"
+        },
+        {
+          "t": "p",
+          "x": "Projects can be developed collaboratively through a shared URL, and completed games can be published through Google’s new Playground platform. Unity has not finalized its commercial model, although both free and paid access levels are planned. A closed beta is scheduled to begin later in 2026."
+        }
+      ]
     }
   }
 }

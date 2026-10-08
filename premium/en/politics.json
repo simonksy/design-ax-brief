@@ -1560,6 +1560,130 @@
           "x": "It places responsibility for AI risks on the labs, stating that “it is the role of the federal government … to enforce our nation’s laws so that the fundamental principles of our Republic are safeguarded and advanced.”"
         }
       ]
+    },
+    "politics/politics-usa-today-sues-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied “hundreds of thousands” of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI’s unauthorized use of its content “has done real and continuing” harm to its outlets."
+        },
+        {
+          "t": "p",
+          "x": "This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET owner Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, and a coalition of nearly 400 local newspapers."
+        },
+        {
+          "t": "p",
+          "x": "“OpenAI’s commercial success rests on large-scale copyright infringement,” USA Today Co.’s lawsuit claims. It alleges that OpenAI never asked for permission to use its content, instead “took” USA Today’s content to “build products worth hundreds of billions of dollars.” The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman, and several other local outlets are also included in the lawsuit."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI didn’t immediately respond to The Verge’s request for comment."
+        }
+      ]
+    },
+    "politics/politics-data-center-power-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+          "cap": "Illustration: Sarah Grillo/Axios"
+        },
+        {
+          "t": "p",
+          "x": "Lawmakers are considering forcing data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom. The bipartisan provisions, unveiled last week, are part of broader Senate legislation aimed at speeding up permitting for energy. The bill's sponsors say it would accelerate energy development while ensuring data centers pay their share of grid upgrades."
+        },
+        {
+          "t": "p",
+          "x": "Data centers would pay both their share of the existing transmission network and the incremental transmission costs needed to serve them. New data centers of at least 20 megawatts would bear the incremental costs they impose across the power system, and states would get wide latitude to go further."
+        },
+        {
+          "t": "p",
+          "x": "The Data Center Coalition said it is still reviewing the legislation. Amazon's Craig Sundstrom said the bill \"could unlock the investment needed to build new generation and transmission faster,\" while one tech industry official called some provisions an \"unprecedented level of discriminatory treatment.\" Cato Institute's Travis Fisher voiced \"mild support.\""
+        },
+        {
+          "t": "p",
+          "x": "With the Senate out of town ahead of the midterm elections, stakeholders have time to push for changes before a possible lame-duck debate."
+        }
+      ]
+    },
+    "politics/politics-singapore-mas-fintech-ai-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Singapore’s Monetary Authority (MAS), which acts as both central bank and finance industry regulator, wants all local industry players to seek independent review of AI use cases before deployment, under its first Guidelines on Artificial Intelligence Risk Management for Financial Institutions, published on Wednesday."
+        },
+        {
+          "t": "p",
+          "x": "MAS warns that AI’s complexity can lead to unexpected or more biased behaviour, rates generative AI as even riskier, and fears agentic AI “could further amplify these risks.” It wants financial institutions to expand risk frameworks to cover AI, with board and senior management responsible."
+        },
+        {
+          "t": "p",
+          "x": "“Prior to deployment, an FI should subject the AI use case, including its underlying systems or models, to reviews by parties not involved in its development,” the guidelines state. MAS also wants ongoing monitoring, up-to-date AI inventories and contingency plans for high-risk uses, and says “FIs remain accountable for AI used in the services they deliver, including AI developed, operated or provided by third parties.”"
+        },
+        {
+          "t": "p",
+          "x": "The guidelines come into force on October 7, 2027."
+        }
+      ]
+    },
+    "politics/politics-ecosia-drops-mistral-chinese-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+          "cap": "Christian Kroll speaks at the 2019 Web Summit in Lisbon. | Web Summit via Wikimedia"
+        },
+        {
+          "t": "p",
+          "x": "A Berlin-based search engine used by government services is dropping its French AI partner, Mistral, in favor of open-source models, including those from China, its CEO told POLITICO. “We are disappointed with the quality of Mistral,” Ecosia founder and CEO Christian Kroll said, calling its models “a year behind” the competition."
+        },
+        {
+          "t": "p",
+          "x": "Ecosia replaced OpenAI with Mistral in May but hit recurring technical problems, Kroll said. He also questioned Mistral’s fit with Ecosia’s environmental goals and its independence: “The fact that Mistral relies on investment from international investors is, in our view, not truly sovereign.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+          "cap": "Guillaume Lample speaks at the AI Now Summit in Paris on May 28, 2026. | Stephane de Sakutin/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Mistral co-founder Guillaume Lample said: “I would encourage them to test our new model as soon as possible.” Ecosia is partnering with Melious, which hosts models including Qwen, GLM, and Kimi; Kroll said costs were roughly cut in half. Some experts dispute his view that the models’ political biases can be fixed technically."
+        }
+      ]
+    },
+    "politics/politics-pentagon-tradewinds-video-ai-buys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+          "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "An under-the-radar Department of Defense procurement program, Tradewinds, grants special statuses to would-be contractors that make it easier for the government to quickly purchase their AI offerings, based on product videos no longer than five minutes. It is managed by DOD’s Chief Digital and Artificial Intelligence Office (CDAO)."
+        },
+        {
+          "t": "p",
+          "x": "Products accepted into the Tradewinds Solutions Marketplace are considered “post-competitive,” which can help shave months off award timelines. A DOD official says the department has in several instances made awards using Tradewinds in less than a week. OpenAI, Anthropic, and Google are all listed as participants; all three declined to comment."
+        },
+        {
+          "t": "p",
+          "x": "This year, the military is seeking pitches for AI tech that can help “enhance force lethality” and agents that assist in joint targeting, including so-called kill chain execution. The status eases use of “other transaction” agreements (OTs); by law, the Pentagon can spend up to $500 million on a single OT without notifying Congress."
+        },
+        {
+          "t": "p",
+          "x": "Senator Joni Ernst says reviews of OTAs have raised red flags, including questionable costs and a lack of oversight. Public records show Google, Anthropic, and OpenAI all have OTs with CDAO, but the companies did not confirm whether Tradewinds was used for them."
+        }
+      ]
     }
   }
 }

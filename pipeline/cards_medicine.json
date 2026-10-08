@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-fda-pediatric-bone-age-ai",
+      "id": "medicine-mri2ct-bone",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
-      "body": "FDA가 아이 골격이 나이만큼 자랐는지 평가를 돕는 AI 도구를 허가했다.",
-      "mini_headline": "FDA, AI 골연령 도구 허가",
+      "headline": "FDA 허가, MRIs를\n3D 뼈로 바꾸는 AI",
+      "body": "MRI2CT의 NextMR은 척추 MRIs로 3D 뼈를 그려 CT 피폭을 줄인다.",
+      "mini_headline": "FDA, MRI-to-3D 뼈 AI 허가",
       "tool": "Medicine",
       "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/fda-clears-ai-tool-creates-3d-bone-visualizations-standard-mris",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,150 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-            "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
           },
           {
             "t": "p",
-            "x": "U.S. 식품의약국이 소아 골연령 평가를 개선할 AI 소프트웨어를 허가했다. 이번에 510(k) 허가를 받은 제품은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애가 있는 아이를 평가하는 소아 영상의학 전문의를 돕는다."
+            "x": "미국 식품의약국(U.S. Food and Drug Administration)이 MRI2CT Inc.의 AI 기반(AI-powered) 플랫폼 NextMR을 허가했다. 표준 척추 MRI만으로 뼈를 3D로 시각화하는 플랫폼이다. 이스라엘 기반(Israel-based) 업체 MRI2CT는 “척추 진료의 MRI-only 워크플로”를 실현하는 것이 목표라고 밝혔다. 환자를 CT의 추가 방사선에 노출하지 않고도 뼈 형태를 정밀하게 모델링한다는 설명이다."
           },
           {
             "t": "p",
-            "x": "수작업 평가가 까다롭다는 건 잘 알려져 있고 판독자마다 결과가 달라지기도 한다. BoneXpert는 양손 어느 쪽 방사선 사진이든 분석해 평가한 뼈와 뼈별 골연령을 표시한 주석 이미지를 내놓는다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않는다. 최종 판단은 영상의학 전문의가 책임진다."
+            "x": "CEO Shmulik Shpiro는 “환자는 보통 MRI로 척추 진료를 시작하지만, 뼈를 정밀한 3D로 보려면 영상 검사를 한 번 더 받아야 할 수 있다”며 “NextMR은 그 패러다임을 바꾼다”고 말했다."
           },
           {
             "t": "p",
-            "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았다. 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어가 온프레미스로 돌아가서 방사선 사진은 기관 밖으로 나가지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
+            "x": "NextMR은 1.5T와 3T 스캐너의 일반 MRI 시퀀스로 돌아간다. 60초 안에 3D 뼈 결과물을 자동으로 만들어 웹 인터페이스에 띄운다. 검증에는 미국(U.S.)과 이스라엘(Israel) 기관의 독립 후향적 데이터셋을 썼는데, MRI와 CT 영상을 함께 갖춘 성인 145명 분량이다."
           }
         ]
       },
+      "lead_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v",
       "text": {
         "en": {
-          "headline": "FDA clears AI for pediatric\nbone age assessments",
-          "body": "The FDA has cleared an AI tool that helps assess whether a child's skeletal development matches their age.",
-          "mini_headline": "FDA clears AI bone age tool",
+          "headline": "FDA clears AI that turns\nstandard MRIs into 3D bone",
+          "body": "MRI2CT's NextMR turns standard spine MRIs into 3D bone visualizations, so patients may skip a CT's extra radiation.",
+          "mini_headline": "FDA clears MRI-to-3D bone AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "Photo: Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "The U.S. Food and Drug Administration has cleared AI software designed to improve pediatric bone age assessments. The 510(k) clearance covers Visiana’s BoneXpert, a machine learning software that determines bone age in patients ages 2 to 21 using the Greulich-Pyle method, intended to support pediatric radiologists in evaluating children with growth and pubertal disorders."
+                "x": "The U.S. Food and Drug Administration has cleared an AI-powered platform, MRI2CT Inc.'s NextMR, that creates 3D bone visualizations from standard spine MRIs. The Israel-based vendor says its goal is to enable “MRI-only workflows in spine care,” producing detailed models of bone morphology without exposing patients to additional radiation from CT."
               },
               {
                 "t": "p",
-                "x": "Manual assessment is a known challenge and can vary between readers. BoneXpert analyzes radiographs of either hand and provides an annotated image showing the bones it evaluated and their individual bone ages. It withholds a result when an image falls outside its validated scope; the radiologist remains responsible for the final assessment."
+                "x": "“Patients commonly begin their spine journey with an MRI, while detailed 3D visualization of bone may require another imaging step,” CEO Shmulik Shpiro said. “NextMR changes that paradigm.”"
               },
               {
                 "t": "p",
-                "x": "In a multicenter study at five U.S. sites, its root mean square error was 0.55 years, compared with 0.76 years for radiologists, with fewer results off by at least 1.5 years (1.7% vs. 6.4%). The software runs on-premise, so radiographs do not leave the institution."
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert has been used clinically in Europe since 2009 and is supported by more than 50 peer-reviewed studies. Visiana plans to release it in the U.S. in early October."
+                "x": "NextMR works with routine MRI sequences on 1.5T and 3T scanners and automatically generates its 3D bone output in under 60 seconds, viewable through a web interface. It was validated on an independent, retrospective dataset of 145 adults with paired MRI and CT images from sites in the U.S. and Israel."
               }
             ]
           }
         },
         "ko": {
-          "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
-          "body": "FDA가 아이 골격이 나이만큼 자랐는지 평가를 돕는 AI 도구를 허가했다.",
-          "mini_headline": "FDA, AI 골연령 도구 허가",
+          "headline": "FDA 허가, MRIs를\n3D 뼈로 바꾸는 AI",
+          "body": "MRI2CT의 NextMR은 척추 MRIs로 3D 뼈를 그려 CT 피폭을 줄인다.",
+          "mini_headline": "FDA, MRI-to-3D 뼈 AI 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S. 식품의약국이 소아 골연령 평가를 개선할 AI 소프트웨어를 허가했다. 이번에 510(k) 허가를 받은 제품은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애가 있는 아이를 평가하는 소아 영상의학 전문의를 돕는다."
+                "x": "미국 식품의약국(U.S. Food and Drug Administration)이 MRI2CT Inc.의 AI 기반(AI-powered) 플랫폼 NextMR을 허가했다. 표준 척추 MRI만으로 뼈를 3D로 시각화하는 플랫폼이다. 이스라엘 기반(Israel-based) 업체 MRI2CT는 “척추 진료의 MRI-only 워크플로”를 실현하는 것이 목표라고 밝혔다. 환자를 CT의 추가 방사선에 노출하지 않고도 뼈 형태를 정밀하게 모델링한다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "수작업 평가가 까다롭다는 건 잘 알려져 있고 판독자마다 결과가 달라지기도 한다. BoneXpert는 양손 어느 쪽 방사선 사진이든 분석해 평가한 뼈와 뼈별 골연령을 표시한 주석 이미지를 내놓는다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않는다. 최종 판단은 영상의학 전문의가 책임진다."
+                "x": "CEO Shmulik Shpiro는 “환자는 보통 MRI로 척추 진료를 시작하지만, 뼈를 정밀한 3D로 보려면 영상 검사를 한 번 더 받아야 할 수 있다”며 “NextMR은 그 패러다임을 바꾼다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았다. 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어가 온프레미스로 돌아가서 방사선 사진은 기관 밖으로 나가지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
+                "x": "NextMR은 1.5T와 3T 스캐너의 일반 MRI 시퀀스로 돌아간다. 60초 안에 3D 뼈 결과물을 자동으로 만들어 웹 인터페이스에 띄운다. 검증에는 미국(U.S.)과 이스라엘(Israel) 기관의 독립 후향적 데이터셋을 썼는데, MRI와 CT 영상을 함께 갖춘 성인 145명 분량이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、小児の骨年齢\nAI評価ツールを認可",
-          "body": "FDAは、子どもの骨格の発達が年齢に見合うかの評価を支援するAIツールを認可した。",
-          "mini_headline": "FDA、AI骨年齢ツールを認可",
+          "headline": "FDA、通常のMRIsを\n3D骨に変えるAIを承認",
+          "body": "MRI2CTのNextMRは脊椎MRIsから3D骨画像を作り、CTの追加被ばくを避けうる。",
+          "mini_headline": "MRI-to-3D骨AIをFDAが承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "写真：Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S.食品医薬品局は、小児の骨年齢評価を改善するために設計されたAIソフトウェアを認可した。510(k)クリアランスの対象はVisianaのBoneXpertで、Greulich-Pyle法を用いて2〜21歳の患者の骨年齢を判定する機械学習ソフトウェアである。成長障害や思春期障害のある小児を評価する小児放射線科医の支援を目的とする。"
+                "x": "米食品医薬品局（U.S. Food and Drug Administration）は、MRI2CT Inc.のAI搭載（AI-powered）プラットフォームNextMRを承認した。標準的な脊椎MRIから3Dの骨可視化画像を生成する。イスラエル拠点（Israel-based）の同社は「脊椎診療におけるMRI-onlyのワークフロー」の実現を目指すとし、CTによる追加の放射線被ばくなしに骨形態の詳細なモデルを作れると説明している。"
               },
               {
                 "t": "p",
-                "x": "手作業による評価は難しさがよく知られており、読影者によってばらつきが生じうる。BoneXpertは左右どちらかの手の放射線画像を解析し、評価した骨とそれぞれの骨年齢を示した注釈付き画像を提供する。画像が検証済みの範囲を外れる場合は結果を出さず、最終的な評価の責任は放射線科医が負う。"
+                "x": "CEOのShmulik Shpiro氏は「患者の脊椎診療は通常MRIから始まるが、骨の詳細な3D可視化には別の画像検査が必要になることがある」と述べ、「NextMRはそのパラダイムを変える」と語った。"
               },
               {
                 "t": "p",
-                "x": "U.S.の五つの施設で行われた多施設研究では、二乗平均平方根誤差は0.55年で、放射線科医の0.76年を下回り、1.5年以上ずれた結果も少なかった（1.7% vs. 6.4%）。ソフトウェアはオンプレミスで動作するため、画像が施設の外に出ることはない。"
-              },
-              {
-                "t": "p",
-                "x": "BoneXpertは2009年から欧州で臨床使用されており、50件を超える査読付き研究に裏付けられている。Visianaは十月上旬にU.S.で発売する予定だ。"
+                "x": "NextMRは1.5Tと3Tのスキャナーで撮る通常のMRIシーケンスに対応し、60秒未満で3D骨画像を自動生成する。結果はウェブインターフェースで閲覧できる。検証には、米国（U.S.）とイスラエル（Israel）の施設で得たMRIとCTの対画像を持つ成人145人の独立した後ろ向きデータセットを用いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准AI工具\n评估儿童骨龄",
-          "body": "FDA批准了一款AI工具，可帮助评估儿童骨骼发育是否与其年龄相符。",
-          "mini_headline": "FDA批准AI骨龄工具",
+          "headline": "FDA批准AI把常规MRIs\n转为3D骨骼影像",
+          "body": "MRI2CT的NextMR将脊柱MRIs转为3D骨骼影像，患者或可免受CT额外辐射。",
+          "mini_headline": "FDA批准MRI-to-3D骨骼AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "图片：Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S.食品药品监督管理局已批准一款旨在改进儿童骨龄评估的AI软件。此次510(k)许可针对Visiana的BoneXpert，这是一款机器学习软件，采用Greulich-Pyle法为2至21岁患者判定骨龄，用于辅助儿科放射科医生评估患有生长和青春期发育障碍的儿童。"
+                "x": "美国食品药品监督管理局（U.S. Food and Drug Administration）批准了MRI2CT Inc.的AI驱动（AI-powered）平台NextMR，可基于标准脊柱MRI生成3D骨骼可视化影像。这家总部位于以色列（Israel-based）的厂商表示，其目标是实现“脊柱诊疗中的MRI-only工作流程”，在不让患者额外承受CT辐射的情况下生成骨骼形态的精细模型。"
               },
               {
                 "t": "p",
-                "x": "人工评估是公认的难题，不同阅片者之间结果可能存在差异。BoneXpert可分析任意一只手的放射影像，并提供标注图像，显示其评估的骨骼及各骨骼的骨龄。当图像超出其验证范围时，软件不会给出结果；最终评估仍由放射科医生负责。"
+                "x": "“患者的脊柱诊疗通常从MRI开始，而骨骼的精细3D可视化可能还需要另一项影像检查，”CEO Shmulik Shpiro说，“NextMR改变了这一范式。”"
               },
               {
                 "t": "p",
-                "x": "在U.S.五个站点开展的多中心研究中，其均方根误差为0.55年，放射科医生为0.76年，且偏差至少1.5年的结果更少（1.7% vs. 6.4%）。该软件在本地部署运行，放射影像不会离开医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
+                "x": "NextMR适用于1.5T和3T扫描仪上的常规MRI序列，可在60秒内自动生成3D骨骼结果，并通过网页界面查看。该平台在一个独立的回顾性数据集上完成验证，数据集包含来自美国（U.S.）和以色列（Israel）多家机构、同时拥有MRI与CT配对影像的145名成人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA autoriza una AI para\nevaluar la edad ósea infantil",
-          "body": "La FDA ha autorizado una herramienta de AI que ayuda a evaluar si el desarrollo óseo de un niño coincide con su edad.",
-          "mini_headline": "La FDA autoriza una AI de edad ósea",
+          "headline": "FDA aprueba AI que convierte\nMRIs estándar en hueso 3D",
+          "body": "NextMR, de MRI2CT, convierte MRIs de columna en imágenes óseas 3D y puede ahorrar la radiación extra de un CT.",
+          "mini_headline": "FDA aprueba AI ósea MRI-to-3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "Foto: Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "La Administración de Alimentos y Medicamentos de U.S. ha autorizado un software de AI diseñado para mejorar la evaluación de la edad ósea pediátrica. La autorización 510(k) cubre BoneXpert, de Visiana, un software de aprendizaje automático que determina la edad ósea en pacientes de 2 a 21 años mediante el método Greulich-Pyle, con el fin de apoyar a los radiólogos pediátricos en la evaluación de niños con trastornos del crecimiento y de la pubertad."
+                "x": "La U.S. Food and Drug Administration aprobó NextMR, una plataforma impulsada por AI (AI-powered) de MRI2CT Inc. que crea visualizaciones óseas 3D a partir de MRI de columna estándar. La empresa, con sede en Israel (Israel-based), afirma que su objetivo es permitir “flujos de trabajo MRI-only en la atención de la columna”, generando modelos detallados de la morfología ósea sin exponer a los pacientes a la radiación adicional de un CT."
               },
               {
                 "t": "p",
-                "x": "La evaluación manual es un desafío conocido y puede variar entre lectores. BoneXpert analiza radiografías de cualquiera de las dos manos y ofrece una imagen anotada que muestra los huesos evaluados y la edad ósea de cada uno. No emite resultado cuando una imagen queda fuera de su ámbito validado; el radiólogo sigue siendo responsable de la evaluación final."
+                "x": "“Los pacientes suelen comenzar su recorrido por la columna con una MRI, mientras que la visualización 3D detallada del hueso puede requerir otro estudio de imagen”, dijo el CEO Shmulik Shpiro. “NextMR cambia ese paradigma”."
               },
               {
                 "t": "p",
-                "x": "En un estudio multicéntrico en cinco centros de U.S., su raíz del error cuadrático medio fue de 0.55 años, frente a 0.76 años de los radiólogos, con menos resultados desviados al menos 1.5 años (1.7% vs. 6.4%). El software funciona de forma local, por lo que las radiografías no salen de la institución."
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
+                "x": "NextMR funciona con secuencias de MRI habituales en escáneres de 1.5T y 3T y genera automáticamente su resultado óseo 3D en menos de 60 segundos, visible a través de una interfaz web. Se validó con un conjunto de datos independiente y retrospectivo de 145 adultos con imágenes pareadas de MRI y CT procedentes de centros en Estados Unidos (U.S.) e Israel."
               }
             ]
           }
@@ -199,125 +170,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "FDA, 소아 골연령\nAI 평가 도구 허가",
-          "body": "FDA가 아이의 골격 발달이 나이에 맞는지 평가를 돕는 AI 도구를 허가했다.",
-          "mini_headline": "FDA, AI 골연령 도구 허가",
+          "headline": "FDA 허가, MRIs를\n3D 뼈로 바꾸는 AI",
+          "body": "MRI2CT의 NextMR은 척추 MRIs로 3D 뼈를 그려 CT 피폭을 줄인다.",
+          "mini_headline": "FDA, MRI-to-3D 뼈 AI 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S. 식품의약국이 소아 골연령 평가를 개선하도록 설계된 AI 소프트웨어를 허가했다. 이번 510(k) 허가 대상은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애 아동을 평가하는 소아 영상의학 전문의를 지원하는 용도다."
+                "x": "미국 식품의약국(U.S. Food and Drug Administration)이 MRI2CT Inc.의 AI 기반(AI-powered) 플랫폼 NextMR을 허가했다. 표준 척추 MRI로 3D 뼈 시각화를 만드는 플랫폼이다. 이스라엘 기반(Israel-based) 업체인 MRI2CT는 “척추 진료의 MRI-only 워크플로”를 가능하게 하는 것이 목표라고 밝혔다. CT의 추가 방사선에 환자를 노출하지 않고도 뼈 형태를 정밀하게 모델링한다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "수작업 평가는 잘 알려진 난제이며 판독자마다 결과가 달라질 수 있다. BoneXpert는 어느 쪽 손이든 방사선 사진을 분석해, 평가한 뼈와 각 뼈의 골연령을 표시한 주석 이미지를 제공한다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않으며, 최종 판단의 책임은 영상의학 전문의에게 있다."
+                "x": "CEO Shmulik Shpiro는 “환자는 보통 MRI로 척추 진료를 시작하지만, 뼈를 정밀한 3D로 보려면 영상 검사를 한 번 더 받아야 할 수 있다”며 “NextMR은 그 패러다임을 바꾼다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았고, 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어는 온프레미스로 작동해 방사선 사진이 기관 밖으로 나가지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert는 2009년부터 유럽에서 임상에 쓰여 왔으며 50편이 넘는 동료 심사 연구가 이를 뒷받침한다. Visiana는 시월 초 U.S.에 출시할 계획이다."
+                "x": "NextMR은 1.5T와 3T 스캐너의 일반 MRI 시퀀스로 작동하며, 60초 안에 3D 뼈 결과물을 자동으로 만들고 웹 인터페이스에서 보여준다. 미국(U.S.)과 이스라엘(Israel) 기관에서 MRI와 CT 영상을 함께 갖춘 성인 145명의 독립 후향적 데이터셋으로 검증을 거쳤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "FDA、小児の骨年齢\nAI評価ツールを認可",
-          "body": "FDAは、子どもの骨格の発達が年齢に見合うかの評価を支援するAIツールを認可した。",
-          "mini_headline": "FDA、AI骨年齢ツールを認可",
+          "headline": "FDA、通常のMRIsを\n3D骨に変えるAIを承認",
+          "body": "MRI2CTのNextMRは脊椎MRIsから3D骨画像を作り、CTの追加被ばくを避けうる。",
+          "mini_headline": "MRI-to-3D骨AIをFDAが承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "写真：Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S.食品医薬品局は、小児の骨年齢評価を改善するために設計されたAIソフトウェアを認可した。510(k)クリアランスの対象はVisianaのBoneXpertで、Greulich-Pyle法を用いて2〜21歳の患者の骨年齢を判定する機械学習ソフトウェアである。成長障害や思春期障害のある小児を評価する小児放射線科医の支援を目的とする。"
+                "x": "米食品医薬品局（U.S. Food and Drug Administration）は、MRI2CT Inc.のAI搭載（AI-powered）プラットフォームNextMRを承認した。標準的な脊椎MRIから3Dの骨可視化画像を生成する。イスラエル拠点（Israel-based）の同社は「脊椎診療におけるMRI-onlyのワークフロー」の実現を目指すとし、CTによる追加の放射線被ばくなしに骨形態の詳細なモデルを作れると説明している。"
               },
               {
                 "t": "p",
-                "x": "手作業による評価は難しさがよく知られており、読影者によってばらつきが生じうる。BoneXpertは左右どちらかの手の放射線画像を解析し、評価した骨とそれぞれの骨年齢を示した注釈付き画像を提供する。画像が検証済みの範囲を外れる場合は結果を出さず、最終的な評価の責任は放射線科医が負う。"
+                "x": "CEOのShmulik Shpiro氏は「患者の脊椎診療は通常MRIから始まるが、骨の詳細な3D可視化には別の画像検査が必要になることがある」と述べ、「NextMRはそのパラダイムを変える」と語った。"
               },
               {
                 "t": "p",
-                "x": "U.S.の五つの施設で行われた多施設研究では、二乗平均平方根誤差は0.55年で、放射線科医の0.76年を下回り、1.5年以上ずれた結果も少なかった（1.7% vs. 6.4%）。ソフトウェアはオンプレミスで動作するため、画像が施設の外に出ることはない。"
-              },
-              {
-                "t": "p",
-                "x": "BoneXpertは2009年から欧州で臨床使用されており、50件を超える査読付き研究に裏付けられている。Visianaは十月上旬にU.S.で発売する予定だ。"
+                "x": "NextMRは1.5Tと3Tのスキャナーで撮る通常のMRIシーケンスに対応し、60秒未満で3D骨画像を自動生成する。結果はウェブインターフェースで閲覧できる。検証には、米国（U.S.）とイスラエル（Israel）の施設で得たMRIとCTの対画像を持つ成人145人の独立した後ろ向きデータセットを用いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "FDA批准AI工具\n评估儿童骨龄",
-          "body": "FDA批准了一款AI工具，可帮助评估儿童骨骼发育是否与其年龄相符。",
-          "mini_headline": "FDA批准AI骨龄工具",
+          "headline": "FDA批准AI把常规MRIs\n转为3D骨骼影像",
+          "body": "MRI2CT的NextMR将脊柱MRIs转为3D骨骼影像，患者或可免受CT额外辐射。",
+          "mini_headline": "FDA批准MRI-to-3D骨骼AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "图片：Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "U.S.食品药品监督管理局已批准一款旨在改进儿童骨龄评估的AI软件。此次510(k)许可针对Visiana的BoneXpert，这是一款机器学习软件，采用Greulich-Pyle法为2至21岁患者判定骨龄，用于辅助儿科放射科医生评估患有生长和青春期发育障碍的儿童。"
+                "x": "美国食品药品监督管理局（U.S. Food and Drug Administration）批准了MRI2CT Inc.的AI驱动（AI-powered）平台NextMR，可基于标准脊柱MRI生成3D骨骼可视化影像。这家总部位于以色列（Israel-based）的厂商表示，其目标是实现“脊柱诊疗中的MRI-only工作流程”，在不让患者额外承受CT辐射的情况下生成骨骼形态的精细模型。"
               },
               {
                 "t": "p",
-                "x": "人工评估是公认的难题，不同阅片者之间结果可能存在差异。BoneXpert可分析任意一只手的放射影像，并提供标注图像，显示其评估的骨骼及各骨骼的骨龄。当图像超出其验证范围时，软件不会给出结果；最终评估仍由放射科医生负责。"
+                "x": "“患者的脊柱诊疗通常从MRI开始，而骨骼的精细3D可视化可能还需要另一项影像检查，”CEO Shmulik Shpiro说，“NextMR改变了这一范式。”"
               },
               {
                 "t": "p",
-                "x": "在U.S.五个站点开展的多中心研究中，其均方根误差为0.55年，放射科医生为0.76年，且偏差至少1.5年的结果更少（1.7% vs. 6.4%）。该软件在本地部署运行，放射影像不会离开医疗机构。"
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
+                "x": "NextMR适用于1.5T和3T扫描仪上的常规MRI序列，可在60秒内自动生成3D骨骼结果，并通过网页界面查看。该平台在一个独立的回顾性数据集上完成验证，数据集包含来自美国（U.S.）和以色列（Israel）多家机构、同时拥有MRI与CT配对影像的145名成人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La FDA autoriza una AI para\nevaluar la edad ósea infantil",
-          "body": "La FDA ha autorizado una herramienta de AI que ayuda a evaluar si el desarrollo óseo de un niño coincide con su edad.",
-          "mini_headline": "La FDA autoriza una AI de edad ósea",
+          "headline": "FDA aprueba AI que convierte\nMRIs estándar en hueso 3D",
+          "body": "NextMR, de MRI2CT, convierte MRIs de columna en imágenes óseas 3D y puede ahorrar la radiación extra de un CT.",
+          "mini_headline": "FDA aprueba AI ósea MRI-to-3D",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
-                "cap": "Foto: Lerner Children’s Pavilion at Hospital for Special Surgery"
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
               },
               {
                 "t": "p",
-                "x": "La Administración de Alimentos y Medicamentos de U.S. ha autorizado un software de AI diseñado para mejorar la evaluación de la edad ósea pediátrica. La autorización 510(k) cubre BoneXpert, de Visiana, un software de aprendizaje automático que determina la edad ósea en pacientes de 2 a 21 años mediante el método Greulich-Pyle, con el fin de apoyar a los radiólogos pediátricos en la evaluación de niños con trastornos del crecimiento y de la pubertad."
+                "x": "La U.S. Food and Drug Administration aprobó NextMR, una plataforma impulsada por AI (AI-powered) de MRI2CT Inc. que crea visualizaciones óseas 3D a partir de MRI de columna estándar. La empresa, con sede en Israel (Israel-based), afirma que su objetivo es permitir “flujos de trabajo MRI-only en la atención de la columna”, generando modelos detallados de la morfología ósea sin exponer a los pacientes a la radiación adicional de un CT."
               },
               {
                 "t": "p",
-                "x": "La evaluación manual es un desafío conocido y puede variar entre lectores. BoneXpert analiza radiografías de cualquiera de las dos manos y ofrece una imagen anotada que muestra los huesos evaluados y la edad ósea de cada uno. No emite resultado cuando una imagen queda fuera de su ámbito validado; el radiólogo sigue siendo responsable de la evaluación final."
+                "x": "“Los pacientes suelen comenzar su recorrido por la columna con una MRI, mientras que la visualización 3D detallada del hueso puede requerir otro estudio de imagen”, dijo el CEO Shmulik Shpiro. “NextMR cambia ese paradigma”."
               },
               {
                 "t": "p",
-                "x": "En un estudio multicéntrico en cinco centros de U.S., su raíz del error cuadrático medio fue de 0.55 años, frente a 0.76 años de los radiólogos, con menos resultados desviados al menos 1.5 años (1.7% vs. 6.4%). El software funciona de forma local, por lo que las radiografías no salen de la institución."
-              },
-              {
-                "t": "p",
-                "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
+                "x": "NextMR funciona con secuencias de MRI habituales en escáneres de 1.5T y 3T y genera automáticamente su resultado óseo 3D en menos de 60 segundos, visible a través de una interfaz web. Se validó con un conjunto de datos independiente y retrospectivo de 145 adultos con imágenes pareadas de MRI y CT procedentes de centros en Estados Unidos (U.S.) e Israel."
               }
             ]
           }
@@ -325,15 +276,15 @@
       }
     },
     {
-      "id": "medicine-teladoc-ambient-ai-vitals",
+      "id": "medicine-suki-ask-uptodate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
-      "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라로 재는 활력징후를 넣었다.",
-      "mini_headline": "Teladoc, AI 기록 기능 추가",
+      "headline": "Suki 'Ask' 추가\nUpToDate로 답한다",
+      "body": "Suki의 Ask는 앱에서 의료진의 복잡한 질문에 UpToDate 근거로 답한다.",
+      "mini_headline": "Suki Ask, UpToDate 연동",
       "tool": "Medicine",
-      "source": "Healthcare Dive",
-      "url": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -341,179 +292,150 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-            "cap": "Teladoc 허가 하에 게재"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
           },
           {
             "t": "p",
-            "x": "Teladoc Health가 병원과 의료 시스템용 가상 진료 플랫폼에 새 인공지능 기능을 더한다. 환자 활력징후를 원격으로 지켜보는 ‘비접촉’ 방식, 그리고 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있다. 활력징후 기능은 비공개 프리뷰 단계이며 십이월에 폭넓게 출시될 예정이다."
+            "x": "Suki가 Ask를 출시했다. 의료진이 Suki for Clinicians 앱 안에서 Wolters Kluwer의 UpToDate Expert AI API로 복잡한 임상 질문을 바로 던질 수 있는 도구다. 답변은 7,600명이 넘는 의사 저자·편집자·동료 심사자가 만든 UpToDate 고유 콘텐츠에서 나온다. 이 API를 제품에 통합한 첫 사례다."
           },
           {
             "t": "p",
-            "x": "SoloVitals를 쓰면 의료진은 환자 몸에 손대지 않고 심박수와 호흡수를 추적한다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 잡아내고 광학 기법으로 혈액량 변화를 잰다. SoloScribe는 대면 진료와 가상 진료에 모두 쓰는 앰비언트 AI 문서화 기능이다."
+            "x": "응답에는 출처가 투명하게 표시되고 약물·용량 고려 사항과 근거 콘텐츠 링크도 붙는다. Suki 최고제품책임자 Abhi Pathak은 “진단, 용량, 안전 고려 사항 등 다양한 질의에서 의료진은 83%의 경우 환자별 인사이트를 선택했다”고 말했다."
           },
           {
             "t": "p",
-            "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 데 이어, 칠월에는 2026년 매출 전망을 기존 가이던스보다 5% 낮은 $2.36 billion~$2.45 billion으로 내렸다. 정신건강 부문 BetterHelp가 주된 원인이다."
+            "x": "Ask는 Epic, Oracle Health, athenahealth, Meditech EHR 시스템에서 쓸 수 있다. Suki는 8월 말에 Epic과 Meditech EHRs 안에 네이티브로 구축한 Suki Dictation도 내놓았다."
           }
         ]
       },
+      "lead_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
       "text": {
         "en": {
-          "headline": "Teladoc adds ambient AI and\nremote vitals monitoring",
-          "body": "Teladoc has built AI scribing and camera-based vitals monitoring into its hospital virtual care platform.",
-          "mini_headline": "Teladoc adds AI scribing",
+          "headline": "Suki adds 'Ask' for answers\nfrom UpToDate evidence",
+          "body": "Suki's new Ask feature lets clinicians pose complex questions in its app and get answers grounded in UpToDate.",
+          "mini_headline": "Suki Ask taps UpToDate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Permission granted by Teladoc"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health is adding new artificial intelligence capabilities to its virtual care platform for hospitals and health systems: a “contactless” approach to remotely monitoring patients’ vital signs and an AI scribe that records and transcribes clinical encounters to create notes. The scribing tool is now available; the vitals feature is in private preview and expected to be released broadly in December."
+                "x": "Suki launched Ask, a tool that lets clinicians ask complex clinical questions using Wolters Kluwer’s UpToDate Expert AI API directly within the Suki for Clinicians app. Answers are grounded in UpToDate’s proprietary content, developed by more than 7,600 physician authors, editors and peer reviewers; it is the first product integration of the API."
               },
               {
                 "t": "p",
-                "x": "SoloVitals lets care teams track patients’ heart and respiratory rates without touching them: Solo devices with a camera capture patients' facial skin color and use an optical technique to measure changes in blood volume. SoloScribe is an ambient AI documentation feature for both in-person and virtual visits."
+                "x": "Responses include transparent sourcing, medication and dosing considerations and links to supporting content. “Clinicians selected patient-specific insights 83% of the time across various queries, including diagnoses, dosages and safety considerations,” said Suki chief product officer Abhi Pathak."
               },
               {
                 "t": "p",
-                "x": "“Health systems are under intense pressure to do more, yet they are spending more time navigating a growing number of platforms, tools and vendors,” said Joby McKenzie, general manager of North American Health Systems at Teladoc Health."
-              },
-              {
-                "t": "p",
-                "x": "After a net loss of $200.3 million in 2025, Teladoc lowered its 2026 revenue outlook in July to $2.36 billion to $2.45 billion, down 5% from earlier guidance, primarily due to its mental health division, BetterHelp."
+                "x": "Ask is available across Epic, Oracle Health, athenahealth and Meditech EHR systems. In late August, Suki also rolled out Suki Dictation, built natively inside Epic and Meditech EHRs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
-          "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라로 재는 활력징후를 넣었다.",
-          "mini_headline": "Teladoc, AI 기록 기능 추가",
+          "headline": "Suki 'Ask' 추가\nUpToDate로 답한다",
+          "body": "Suki의 Ask는 앱에서 의료진의 복잡한 질문에 UpToDate 근거로 답한다.",
+          "mini_headline": "Suki Ask, UpToDate 연동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Teladoc 허가 하에 게재"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health가 병원과 의료 시스템용 가상 진료 플랫폼에 새 인공지능 기능을 더한다. 환자 활력징후를 원격으로 지켜보는 ‘비접촉’ 방식, 그리고 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있다. 활력징후 기능은 비공개 프리뷰 단계이며 십이월에 폭넓게 출시될 예정이다."
+                "x": "Suki가 Ask를 출시했다. 의료진이 Suki for Clinicians 앱 안에서 Wolters Kluwer의 UpToDate Expert AI API로 복잡한 임상 질문을 바로 던질 수 있는 도구다. 답변은 7,600명이 넘는 의사 저자·편집자·동료 심사자가 만든 UpToDate 고유 콘텐츠에서 나온다. 이 API를 제품에 통합한 첫 사례다."
               },
               {
                 "t": "p",
-                "x": "SoloVitals를 쓰면 의료진은 환자 몸에 손대지 않고 심박수와 호흡수를 추적한다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 잡아내고 광학 기법으로 혈액량 변화를 잰다. SoloScribe는 대면 진료와 가상 진료에 모두 쓰는 앰비언트 AI 문서화 기능이다."
+                "x": "응답에는 출처가 투명하게 표시되고 약물·용량 고려 사항과 근거 콘텐츠 링크도 붙는다. Suki 최고제품책임자 Abhi Pathak은 “진단, 용량, 안전 고려 사항 등 다양한 질의에서 의료진은 83%의 경우 환자별 인사이트를 선택했다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 데 이어, 칠월에는 2026년 매출 전망을 기존 가이던스보다 5% 낮은 $2.36 billion~$2.45 billion으로 내렸다. 정신건강 부문 BetterHelp가 주된 원인이다."
+                "x": "Ask는 Epic, Oracle Health, athenahealth, Meditech EHR 시스템에서 쓸 수 있다. Suki는 8월 말에 Epic과 Meditech EHRs 안에 네이티브로 구축한 Suki Dictation도 내놓았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Teladoc、AI記録と\n遠隔バイタル計測",
-          "body": "Teladocは病院向け仮想診療基盤に、AI記録とカメラによるバイタル計測を組み込んだ。",
-          "mini_headline": "Teladoc、AI記録機能を追加",
+          "headline": "Sukiが「Ask」を追加\nUpToDateの根拠で回答",
+          "body": "SukiのAskは、臨床医の複雑な質問にアプリ内でUpToDateに基づき答える。",
+          "mini_headline": "Suki Ask、UpToDateを活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Teladocの許可を得て掲載"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Healthは、病院や医療システム向けのバーチャルケアプラットフォームに新たな人工知能機能を加える。患者のバイタルサインを遠隔で監視する「非接触」の手法と、診療中の会話を録音・文字起こしして記録を作成するAI書記である。記録ツールはすでに利用可能で、バイタル機能は限定プレビュー段階にあり、十二月に広く公開される見込みだ。"
+                "x": "SukiはAskを公開した。臨床医がSuki for Clinicians アプリ内で、Wolters KluwerのUpToDate Expert AI APIを使って複雑な臨床上の質問を直接投げかけられるツールだ。回答は7,600人を超える医師の著者、編集者、査読者が作成したUpToDate独自のコンテンツに基づく。同APIを製品に統合した初の事例である。"
               },
               {
                 "t": "p",
-                "x": "SoloVitalsを使えば、ケアチームは患者に触れることなく心拍数と呼吸数を追跡できる。カメラを備えたSoloデバイスが患者の顔の肌の色を捉え、光学的手法で血液量の変化を測定する。SoloScribeは、対面診療とバーチャル診療の両方に対応するアンビエントAI文書作成機能である。"
+                "x": "回答には透明性のある出典、薬剤と用量に関する考慮事項、根拠となるコンテンツへのリンクが含まれる。Sukiの最高製品責任者Abhi Pathak氏は「診断、用量、安全性への配慮など様々な質問において、臨床医は83%の割合で患者個別のインサイトを選んだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「医療システムはより多くの成果を求める強い圧力にさらされているが、増え続けるプラットフォームやツール、ベンダーへの対応により多くの時間を費やしている」と、Teladoc HealthのNorth American Health Systems担当ゼネラルマネージャー、Joby McKenzie氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Teladocは2025年に$200.3 millionの純損失を計上した後、七月に2026年の売上高見通しを従来予想から5%引き下げ、$2.36 billion〜$2.45 billionとした。主な要因はメンタルヘルス部門のBetterHelpである。"
+                "x": "AskはEpic、Oracle Health、athenahealth、MeditechのEHRシステムで利用できる。Sukiは8月下旬、EpicとMeditechのEHRs内にネイティブ構築したSuki Dictationも展開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Teladoc上线AI记录\n与远程体征监测",
-          "body": "Teladoc在其医院虚拟诊疗平台中加入了AI记录与基于摄像头的生命体征监测。",
-          "mini_headline": "Teladoc上线AI记录功能",
+          "headline": "Suki推出'Ask'\n依UpToDate证据作答",
+          "body": "Suki的Ask让临床医生在应用内提出复杂问题，并获得基于UpToDate的回答。",
+          "mini_headline": "Suki Ask接入UpToDate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "经Teladoc许可使用"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health正为其面向医院和医疗系统的虚拟诊疗平台增加新的人工智能功能：一种远程监测患者生命体征的“非接触式”方法，以及一个可录制并转写临床问诊、生成病历记录的AI记录员。记录工具现已上线；生命体征功能正处于私密预览阶段，预计将于十二月全面发布。"
+                "x": "Suki推出Ask工具，临床医生可直接在Suki for Clinicians应用中，借助Wolters Kluwer的UpToDate Expert AI API提出复杂的临床问题。答案以UpToDate的专有内容为依据，这些内容由7,600多名医师作者、编辑和同行评审者共同完成；这也是该API首次被集成到产品中。"
               },
               {
                 "t": "p",
-                "x": "借助SoloVitals，医护团队无需接触患者即可追踪其心率和呼吸频率：配备摄像头的Solo设备捕捉患者面部肤色，并利用光学技术测量血容量变化。SoloScribe是一项环境式AI文档功能，适用于线下和线上问诊。"
+                "x": "回答附有透明的来源说明、用药及剂量方面的考量，以及支持性内容的链接。Suki首席产品官Abhi Pathak表示：“在诊断、剂量和安全考量等各类查询中，临床医生有83%的情况选择了针对患者的个性化洞察。”"
               },
               {
                 "t": "p",
-                "x": "“医疗系统承受着要做得更多的巨大压力，却要花更多时间应付越来越多的平台、工具和供应商，”Teladoc Health北美医疗系统（North American Health Systems）总经理Joby McKenzie表示。"
-              },
-              {
-                "t": "p",
-                "x": "在2025年净亏损$200.3 million之后，Teladoc于七月将2026年营收预期下调至$2.36 billion至$2.45 billion，较此前指引下降5%，主要原因在于其心理健康部门BetterHelp。"
+                "x": "Ask可在Epic、Oracle Health、athenahealth和Meditech的EHR系统中使用。8月下旬，Suki还推出了直接内置于Epic和Meditech EHRs中的Suki Dictation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Teladoc suma AI ambiental y\nseguimiento remoto de constantes",
-          "body": "Teladoc integra en su plataforma virtual para hospitales notas con AI y control de constantes por cámara.",
-          "mini_headline": "Teladoc añade notas con AI",
+          "headline": "Suki suma 'Ask' con respuestas\nbasadas en evidencia de UpToDate",
+          "body": "La función Ask de Suki permite a clínicos plantear preguntas complejas en su app con respuestas basadas en UpToDate.",
+          "mini_headline": "Suki Ask recurre a UpToDate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Con permiso de Teladoc"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health incorpora nuevas capacidades de inteligencia artificial a su plataforma de atención virtual para hospitales y sistemas de salud: un enfoque “sin contacto” para monitorizar a distancia las constantes vitales de los pacientes y un escriba de AI que graba y transcribe las consultas clínicas para generar notas. La herramienta de transcripción ya está disponible; la función de constantes vitales está en versión preliminar privada y se espera que se lance de forma general en diciembre."
+                "x": "Suki lanzó Ask, una herramienta que permite a los clínicos plantear preguntas clínicas complejas con la UpToDate Expert AI API de Wolters Kluwer directamente en la app Suki for Clinicians. Las respuestas se basan en el contenido propio de UpToDate, elaborado por más de 7,600 médicos autores, editores y revisores; es la primera integración de la API en un producto."
               },
               {
                 "t": "p",
-                "x": "SoloVitals permite a los equipos asistenciales seguir la frecuencia cardiaca y respiratoria de los pacientes sin tocarlos: los dispositivos Solo con cámara captan el color de la piel del rostro del paciente y usan una técnica óptica para medir cambios en el volumen sanguíneo. SoloScribe es una función de documentación con AI ambiental para consultas presenciales y virtuales."
+                "x": "Las respuestas incluyen fuentes transparentes, consideraciones sobre medicación y dosis, y enlaces al contenido de respaldo. “Los clínicos seleccionaron información específica del paciente el 83% de las veces en diversas consultas, incluidos diagnósticos, dosis y consideraciones de seguridad”, dijo Abhi Pathak, director de producto de Suki."
               },
               {
                 "t": "p",
-                "x": "“Los sistemas de salud están sometidos a una intensa presión para hacer más, pero dedican cada vez más tiempo a gestionar un número creciente de plataformas, herramientas y proveedores”, afirmó Joby McKenzie, director general de North American Health Systems en Teladoc Health."
-              },
-              {
-                "t": "p",
-                "x": "Tras una pérdida neta de $200.3 millones en 2025, Teladoc rebajó en julio su previsión de ingresos para 2026 a entre $2.36 mil millones y $2.45 mil millones, un 5% menos que su previsión anterior, principalmente por su división de salud mental, BetterHelp."
+                "x": "Ask está disponible en los sistemas EHR de Epic, Oracle Health, athenahealth y Meditech. A finales de agosto, Suki también lanzó Suki Dictation, integrado de forma nativa en las EHRs de Epic y Meditech."
               }
             ]
           }
@@ -521,125 +443,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Teladoc AI 기록과\n원격 활력징후 추가",
-          "body": "Teladoc이 병원용 가상 진료에 AI 기록과 카메라 활력징후 측정을 넣었다.",
-          "mini_headline": "Teladoc, AI 기록 기능 추가",
+          "headline": "Suki 'Ask' 추가\nUpToDate로 답한다",
+          "body": "Suki의 Ask는 앱에서 의료진의 복잡한 질문에 UpToDate 근거로 답한다.",
+          "mini_headline": "Suki Ask, UpToDate 연동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Teladoc 허가 하에 게재"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health가 병원과 의료 시스템을 위한 가상 진료 플랫폼에 새로운 인공지능 기능을 더한다. 환자의 활력징후를 원격으로 모니터링하는 ‘비접촉’ 방식과, 진료 대화를 녹음·전사해 기록을 만드는 AI 서기다. 기록 도구는 지금 바로 쓸 수 있고, 활력징후 기능은 비공개 프리뷰 단계로 십이월에 폭넓게 출시될 예정이다."
+                "x": "Suki가 Ask를 출시했다. 의료진이 Suki for Clinicians 앱 안에서 Wolters Kluwer의 UpToDate Expert AI API로 복잡한 임상 질문을 바로 던질 수 있는 도구다. 답변은 7,600명이 넘는 의사 저자·편집자·동료 심사자가 만든 UpToDate 고유 콘텐츠에 근거하며, 이 API를 제품에 통합한 첫 사례다."
               },
               {
                 "t": "p",
-                "x": "SoloVitals를 쓰면 의료진은 환자에게 손대지 않고 심박수와 호흡수를 추적할 수 있다. 카메라가 달린 Solo 기기가 환자 얼굴의 피부색을 포착하고, 광학 기법으로 혈액량 변화를 측정한다. SoloScribe는 대면 진료와 가상 진료 모두에 쓰는 앰비언트 AI 문서화 기능이다."
+                "x": "응답에는 투명한 출처 표시, 약물·용량 고려 사항, 근거 콘텐츠 링크가 담긴다. Suki 최고제품책임자 Abhi Pathak은 “진단, 용량, 안전 고려 사항 등 다양한 질의에서 의료진은 83%의 경우 환자별 인사이트를 선택했다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Teladoc Health의 North American Health Systems 총괄 매니저 Joby McKenzie는 “의료 시스템은 더 많은 일을 해내야 한다는 강한 압박을 받고 있지만, 늘어나는 플랫폼과 도구, 공급업체를 오가는 데 더 많은 시간을 쓰고 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Teladoc은 2025년 $200.3 million의 순손실을 낸 뒤, 칠월 2026년 매출 전망을 기존 가이던스보다 5% 낮춘 $2.36 billion~$2.45 billion으로 조정했다. 주된 원인은 정신건강 부문 BetterHelp다."
+                "x": "Ask는 Epic, Oracle Health, athenahealth, Meditech EHR 시스템에서 쓸 수 있다. Suki는 8월 말 Epic과 Meditech EHRs 안에 네이티브로 구축한 Suki Dictation도 내놓았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Teladoc、AI記録と\n遠隔バイタル計測",
-          "body": "Teladocは病院向け仮想診療基盤に、AI記録とカメラによるバイタル計測を組み込んだ。",
-          "mini_headline": "Teladoc、AI記録機能を追加",
+          "headline": "Sukiが「Ask」を追加\nUpToDateの根拠で回答",
+          "body": "SukiのAskは、臨床医の複雑な質問にアプリ内でUpToDateに基づき答える。",
+          "mini_headline": "Suki Ask、UpToDateを活用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Teladocの許可を得て掲載"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Healthは、病院や医療システム向けのバーチャルケアプラットフォームに新たな人工知能機能を加える。患者のバイタルサインを遠隔で監視する「非接触」の手法と、診療中の会話を録音・文字起こしして記録を作成するAI書記である。記録ツールはすでに利用可能で、バイタル機能は限定プレビュー段階にあり、十二月に広く公開される見込みだ。"
+                "x": "SukiはAskを公開した。臨床医がSuki for Clinicians アプリ内で、Wolters KluwerのUpToDate Expert AI APIを使って複雑な臨床上の質問を直接投げかけられるツールだ。回答は7,600人を超える医師の著者、編集者、査読者が作成したUpToDate独自のコンテンツに基づく。同APIを製品に統合した初の事例である。"
               },
               {
                 "t": "p",
-                "x": "SoloVitalsを使えば、ケアチームは患者に触れることなく心拍数と呼吸数を追跡できる。カメラを備えたSoloデバイスが患者の顔の肌の色を捉え、光学的手法で血液量の変化を測定する。SoloScribeは、対面診療とバーチャル診療の両方に対応するアンビエントAI文書作成機能である。"
+                "x": "回答には透明性のある出典、薬剤と用量に関する考慮事項、根拠となるコンテンツへのリンクが含まれる。Sukiの最高製品責任者Abhi Pathak氏は「診断、用量、安全性への配慮など様々な質問において、臨床医は83%の割合で患者個別のインサイトを選んだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "「医療システムはより多くの成果を求める強い圧力にさらされているが、増え続けるプラットフォームやツール、ベンダーへの対応により多くの時間を費やしている」と、Teladoc HealthのNorth American Health Systems担当ゼネラルマネージャー、Joby McKenzie氏は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Teladocは2025年に$200.3 millionの純損失を計上した後、七月に2026年の売上高見通しを従来予想から5%引き下げ、$2.36 billion〜$2.45 billionとした。主な要因はメンタルヘルス部門のBetterHelpである。"
+                "x": "AskはEpic、Oracle Health、athenahealth、MeditechのEHRシステムで利用できる。Sukiは8月下旬、EpicとMeditechのEHRs内にネイティブ構築したSuki Dictationも展開した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Teladoc上线AI记录\n与远程体征监测",
-          "body": "Teladoc在其医院虚拟诊疗平台中加入了AI记录与基于摄像头的生命体征监测。",
-          "mini_headline": "Teladoc上线AI记录功能",
+          "headline": "Suki推出'Ask'\n依UpToDate证据作答",
+          "body": "Suki的Ask让临床医生在应用内提出复杂问题，并获得基于UpToDate的回答。",
+          "mini_headline": "Suki Ask接入UpToDate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "经Teladoc许可使用"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health正为其面向医院和医疗系统的虚拟诊疗平台增加新的人工智能功能：一种远程监测患者生命体征的“非接触式”方法，以及一个可录制并转写临床问诊、生成病历记录的AI记录员。记录工具现已上线；生命体征功能正处于私密预览阶段，预计将于十二月全面发布。"
+                "x": "Suki推出Ask工具，临床医生可直接在Suki for Clinicians应用中，借助Wolters Kluwer的UpToDate Expert AI API提出复杂的临床问题。答案以UpToDate的专有内容为依据，这些内容由7,600多名医师作者、编辑和同行评审者共同完成；这也是该API首次被集成到产品中。"
               },
               {
                 "t": "p",
-                "x": "借助SoloVitals，医护团队无需接触患者即可追踪其心率和呼吸频率：配备摄像头的Solo设备捕捉患者面部肤色，并利用光学技术测量血容量变化。SoloScribe是一项环境式AI文档功能，适用于线下和线上问诊。"
+                "x": "回答附有透明的来源说明、用药及剂量方面的考量，以及支持性内容的链接。Suki首席产品官Abhi Pathak表示：“在诊断、剂量和安全考量等各类查询中，临床医生有83%的情况选择了针对患者的个性化洞察。”"
               },
               {
                 "t": "p",
-                "x": "“医疗系统承受着要做得更多的巨大压力，却要花更多时间应付越来越多的平台、工具和供应商，”Teladoc Health北美医疗系统（North American Health Systems）总经理Joby McKenzie表示。"
-              },
-              {
-                "t": "p",
-                "x": "在2025年净亏损$200.3 million之后，Teladoc于七月将2026年营收预期下调至$2.36 billion至$2.45 billion，较此前指引下降5%，主要原因在于其心理健康部门BetterHelp。"
+                "x": "Ask可在Epic、Oracle Health、athenahealth和Meditech的EHR系统中使用。8月下旬，Suki还推出了直接内置于Epic和Meditech EHRs中的Suki Dictation。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Teladoc suma AI ambiental y\nseguimiento remoto de constantes",
-          "body": "Teladoc integra en su plataforma virtual para hospitales notas con AI y control de constantes por cámara.",
-          "mini_headline": "Teladoc añade notas con AI",
+          "headline": "Suki suma 'Ask' con respuestas\nbasadas en evidencia de UpToDate",
+          "body": "La función Ask de Suki permite a clínicos plantear preguntas complejas en su app con respuestas basadas en UpToDate.",
+          "mini_headline": "Suki Ask recurre a UpToDate",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7LQrth9PPtdQ7RVe6xIwuXuIsPnUEtcy3SzNjM1MWU8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mZW1hbGUtbWVkaWNhbC1wcm9mZXNzaW9uYWwtbG9va2luZy1hdC10YWJsZXQ5NS5qcGc=.webp",
-                "cap": "Con permiso de Teladoc"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
               },
               {
                 "t": "p",
-                "x": "Teladoc Health incorpora nuevas capacidades de inteligencia artificial a su plataforma de atención virtual para hospitales y sistemas de salud: un enfoque “sin contacto” para monitorizar a distancia las constantes vitales de los pacientes y un escriba de AI que graba y transcribe las consultas clínicas para generar notas. La herramienta de transcripción ya está disponible; la función de constantes vitales está en versión preliminar privada y se espera que se lance de forma general en diciembre."
+                "x": "Suki lanzó Ask, una herramienta que permite a los clínicos plantear preguntas clínicas complejas con la UpToDate Expert AI API de Wolters Kluwer directamente en la app Suki for Clinicians. Las respuestas se basan en el contenido propio de UpToDate, elaborado por más de 7,600 médicos autores, editores y revisores; es la primera integración de la API en un producto."
               },
               {
                 "t": "p",
-                "x": "SoloVitals permite a los equipos asistenciales seguir la frecuencia cardiaca y respiratoria de los pacientes sin tocarlos: los dispositivos Solo con cámara captan el color de la piel del rostro del paciente y usan una técnica óptica para medir cambios en el volumen sanguíneo. SoloScribe es una función de documentación con AI ambiental para consultas presenciales y virtuales."
+                "x": "Las respuestas incluyen fuentes transparentes, consideraciones sobre medicación y dosis, y enlaces al contenido de respaldo. “Los clínicos seleccionaron información específica del paciente el 83% de las veces en diversas consultas, incluidos diagnósticos, dosis y consideraciones de seguridad”, dijo Abhi Pathak, director de producto de Suki."
               },
               {
                 "t": "p",
-                "x": "“Los sistemas de salud están sometidos a una intensa presión para hacer más, pero dedican cada vez más tiempo a gestionar un número creciente de plataformas, herramientas y proveedores”, afirmó Joby McKenzie, director general de North American Health Systems en Teladoc Health."
-              },
-              {
-                "t": "p",
-                "x": "Tras una pérdida neta de $200.3 millones en 2025, Teladoc rebajó en julio su previsión de ingresos para 2026 a entre $2.36 mil millones y $2.45 mil millones, un 5% menos que su previsión anterior, principalmente por su división de salud mental, BetterHelp."
+                "x": "Ask está disponible en los sistemas EHR de Epic, Oracle Health, athenahealth y Meditech. A finales de agosto, Suki también lanzó Suki Dictation, integrado de forma nativa en las EHRs de Epic y Meditech."
               }
             ]
           }
@@ -647,271 +549,312 @@
       }
     },
     {
-      "id": "medicine-parkinsons-ai-telerehab-rct",
-      "source_lang": "en",
+      "id": "medicine-ai-depression-warning",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "초기 파킨슨병에\nAI 원격재활 시험",
-      "body": "초기 파킨슨병 120명에 AI 원격재활을 1·2·3개월 해도 운동 차이는 없었다.",
-      "mini_headline": "파킨슨병 AI 원격재활",
+      "headline": "AI 우울증 진단을\n믿지 말라는 경고",
+      "body": "복지부와 정신의학회는 AI 우울증 진단을 의학적 판단으로 여기지 말라고 당부했다.",
+      "mini_headline": "AI 진단 과의존 경고",
       "tool": "Medicine",
-      "source": "npj Digital Medicine (Nature)",
-      "url": "https://www.nature.com/articles/s41746-026-03339-1",
+      "source": "청년의사(docdocdoc.co.kr)",
+      "url": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043448",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계다. 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 살피는 게 목표였다."
+            "t": "img",
+            "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
           },
           {
             "t": "p",
-            "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 1:1:1 비율로 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지 MDS-UPDRS Part III 점수가 얼마나 변했는지였다."
+            "x": "보건복지부와 대한신경정신의학회는 오는 10일 정신건강의 날을 맞아 8일 ‘정신건강 목적 생성형 AI 이용 가이드라인’을 발표했다. AI 답변을 의학적 판단으로 받아들이지 말고 정신건강 위기 상황에서는 전문가 도움을 받으라는 당부다."
           },
           {
             "t": "p",
-            "x": "최종 분석에는 71명이 들어갔다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 탐색적 인지 반응 기준에 도달한 비율이 3개월군에서 1개월군보다 높았다. 시험 내내 낙상이나 이상사례는 기록되지 않았다."
+            "x": "모든 이용자를 위한 가이드라인은 3가지 핵심 메시지와 21개 권고문을 담았다. 이용 전 서비스의 목적과 근거, 개인정보 처리방식을 확인하고, ‘내 상태에 대한 AI의 말을 결론으로 삼지 마세요’, ‘AI와 거리를 두고, 사람에게 이야기해 주세요’라고 권고했다. 아동·청소년과 보호자에게는 각각 7개 권고사항을 제시했다."
           },
           {
             "t": "p",
-            "x": "일차 평가변수는 음성이었고 탈락률은 높았다. 통상 치료 대조군이 없었으며 인지 관련 결과는 탐색적 사후 분석에 그쳤다. 그래서 저자들은 이번 결과를 가설을 세우는 수준에서 읽어야 하고, 더 큰 시험에서 추가로 검증해야 한다고 밝혔다."
+            "x": "한국보건사회연구원 조사(1,019명)에서 응답자의 68.8%가 정서적 목적으로 생성형 AI를 이용했고, AI의 판단을 의학적 진단으로 받아들이거나 이를 근거로 스스로 정신질환을 진단한 경험은 14.6%였다. 15~18세 청소년의 51.7%는 스스로 AI에 의존적인 편이라고 답했다."
+          },
+          {
+            "t": "p",
+            "x": "대한신경정신의학회 최준호 이사장은 “AI는 전문적인 평가와 치료를 대신할 수는 없는 만큼 필요한 경우 의료진의 도움을 적기에 받는 것이 중요하다”고 강조했다."
           }
         ]
       },
+      "lead_image": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg",
       "text": {
-        "en": {
-          "headline": "AI telerehabilitation tested\nin early Parkinson's",
-          "body": "A 120-patient trial of 1-, 2- and 3-month AI telerehab for early Parkinson's found no difference in motor outcomes.",
-          "mini_headline": "AI telerehab for Parkinson's",
+        "ko": {
+          "headline": "AI 우울증 진단을\n믿지 말라는 경고",
+          "body": "복지부와 정신의학회는 AI 우울증 진단을 의학적 판단으로 여기지 말라고 당부했다.",
+          "mini_headline": "AI 진단 과의존 경고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "This exploratory, multicenter, randomized, rater-blinded, multi-arm comparative trial aimed to evaluate the feasibility and exploratory clinical signals of an AI-facilitated telerehabilitation system across different intervention durations in early-stage Parkinson’s disease (PD)."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "One-hundred and twenty PD patients (Hoehn-Yahr stage ≤2.5) were randomized in a 1:1:1 ratio into short-term (1 month), medium-term (2 months), and long-term (3 months) training groups (15–30 min, 5 days/week). The primary outcome was the change in MDS-UPDRS Part III score from baseline to 3 months."
+                "x": "보건복지부와 대한신경정신의학회는 오는 10일 정신건강의 날을 맞아 8일 ‘정신건강 목적 생성형 AI 이용 가이드라인’을 발표했다. AI 답변을 의학적 판단으로 받아들이지 말고 정신건강 위기 상황에서는 전문가 도움을 받으라는 당부다."
               },
               {
                 "t": "p",
-                "x": "Final analysis included 71 participants. No significant differences were observed between groups for the primary motor outcome at 3 months. Post hoc responder analysis showed that the 3-month group had higher proportions reaching the exploratory cognitive responder threshold compared with the 1-month group. No falls or adverse events were recorded throughout the trial."
+                "x": "모든 이용자를 위한 가이드라인은 3가지 핵심 메시지와 21개 권고문을 담았다. 이용 전 서비스의 목적과 근거, 개인정보 처리방식을 확인하고, ‘내 상태에 대한 AI의 말을 결론으로 삼지 마세요’, ‘AI와 거리를 두고, 사람에게 이야기해 주세요’라고 권고했다. 아동·청소년과 보호자에게는 각각 7개 권고사항을 제시했다."
               },
               {
                 "t": "p",
-                "x": "Because the primary endpoint was negative, attrition was high, no usual-care control was included, and the cognitive finding was limited to an exploratory post-hoc analysis, the authors say the findings should be interpreted as hypothesis-generating, requiring further validation in larger trials."
+                "x": "한국보건사회연구원 조사(1,019명)에서 응답자의 68.8%가 정서적 목적으로 생성형 AI를 이용했고, AI의 판단을 의학적 진단으로 받아들이거나 이를 근거로 스스로 정신질환을 진단한 경험은 14.6%였다. 15~18세 청소년의 51.7%는 스스로 AI에 의존적인 편이라고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "대한신경정신의학회 최준호 이사장은 “AI는 전문적인 평가와 치료를 대신할 수는 없는 만큼 필요한 경우 의료진의 도움을 적기에 받는 것이 중요하다”고 강조했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "초기 파킨슨병에\nAI 원격재활 시험",
-          "body": "초기 파킨슨병 120명에 AI 원격재활을 1·2·3개월 해도 운동 차이는 없었다.",
-          "mini_headline": "파킨슨병 AI 원격재활",
+        "en": {
+          "headline": "A warning not to trust\nAI depression diagnoses",
+          "body": "The health ministry and psychiatric association warned against treating AI depression diagnoses as medical judgment.",
+          "mini_headline": "Warning on AI diagnosis overreliance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계다. 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 살피는 게 목표였다."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 1:1:1 비율로 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지 MDS-UPDRS Part III 점수가 얼마나 변했는지였다."
+                "x": "The Ministry of Health and Welfare and the Korean Neuropsychiatric Association released the “Guidelines for Using Generative AI for Mental Health Purposes” on the 8th, ahead of Mental Health Day on the 10th. Their message: do not accept AI answers as medical judgment, and seek help from professionals in a mental health crisis."
               },
               {
                 "t": "p",
-                "x": "최종 분석에는 71명이 들어갔다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 탐색적 인지 반응 기준에 도달한 비율이 3개월군에서 1개월군보다 높았다. 시험 내내 낙상이나 이상사례는 기록되지 않았다."
+                "x": "The guidelines for all users contain 3 key messages and 21 recommendations. They advise checking a service's purpose, evidence base and personal data handling before use, and recommend: “Don't take what AI says about your condition as a conclusion” and “Keep your distance from AI, and talk to a person.” Children and adolescents, and guardians, were each given 7 recommendations."
               },
               {
                 "t": "p",
-                "x": "일차 평가변수는 음성이었고 탈락률은 높았다. 통상 치료 대조군이 없었으며 인지 관련 결과는 탐색적 사후 분석에 그쳤다. 그래서 저자들은 이번 결과를 가설을 세우는 수준에서 읽어야 하고, 더 큰 시험에서 추가로 검증해야 한다고 밝혔다."
+                "x": "In a Korea Institute for Health and Social Affairs survey (1,019 people), 68.8% of respondents had used generative AI for emotional purposes, and 14.6% had accepted AI's judgment as a medical diagnosis or used it to diagnose themselves with a mental illness. Among adolescents aged 15 to 18, 51.7% said they consider themselves somewhat dependent on AI."
+              },
+              {
+                "t": "p",
+                "x": "Choi Jun-ho, chairman of the Korean Neuropsychiatric Association, stressed: “Since AI cannot replace professional assessment and treatment, it is important to get timely help from medical staff when needed.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "早期パーキンソン病で\nAI遠隔リハを検証",
-          "body": "早期パーキンソン病120人でAI遠隔リハ1・2・3カ月を比べ、運動転帰に差はなかった。",
-          "mini_headline": "パーキンソン病にAI遠隔リハ",
+          "headline": "AIのうつ病診断を\n信じるなとの警告",
+          "body": "保健福祉部と精神医学会は、AIのうつ病診断を医学的判断と見なさないよう求めた。",
+          "mini_headline": "AI診断への過度な依存に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "本研究は探索的・多施設・無作為化・評価者盲検・多群比較試験であり、早期パーキンソン病（PD）において、AI-facilitatedな遠隔リハビリテーションシステムの実施可能性と探索的な臨床シグナルを、介入期間の違いごとに評価することを目的とした。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Hoehn-Yahr重症度≤2.5のPD患者百二十人を、1:1:1の比率で短期（1カ月）、中期（2カ月）、長期（3カ月）の訓練群に無作為に割り付けた（15–30分、週5日）。主要評価項目は、ベースラインから3カ月までのMDS-UPDRS Part IIIスコアの変化である。"
+                "x": "保健福祉部と大韓神経精神医学会は、10日の「精神健康の日」を前に、8日「精神健康目的の生成AI利用ガイドライン」を発表した。AIの回答を医学的判断として受け取らず、精神的な危機の際は専門家の助けを受けるよう呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "最終解析には71人が含まれた。3カ月時点の主要運動評価項目に群間の有意差はみられなかった。事後のレスポンダー解析では、3カ月群は1カ月群に比べ、探索的な認知レスポンダー閾値に達した割合が高かった。試験期間を通じて転倒や有害事象は記録されなかった。"
+                "x": "すべての利用者向けのガイドラインには、3つの核心メッセージと21の勧告が盛り込まれた。利用前にサービスの目的と根拠、個人情報の取り扱いを確認し、「自分の状態についてのAIの言葉を結論にしないでください」「AIと距離を置き、人に話してください」と勧告した。子ども・青少年と保護者には、それぞれ7つの勧告事項を示した。"
               },
               {
                 "t": "p",
-                "x": "主要評価項目が陰性で、脱落率が高く、通常ケアの対照群がなく、認知面の所見は探索的な事後解析に限られることから、著者らはこの結果を仮説生成的なものとして解釈すべきであり、より大規模な試験でのさらなる検証が必要だとしている。"
+                "x": "韓国保健社会研究院の調査（1,019人）では、回答者の68.8%が感情的な目的で生成AIを利用し、AIの判断を医学的診断として受け入れたり、それを根拠に自ら精神疾患を診断したりした経験は14.6%だった。15～18歳の青少年の51.7%は、自分はAIに依存しているほうだと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓神経精神医学会のチェ・ジュンホ理事長は「AIは専門的な評価と治療に代わることはできないため、必要な場合は適時に医療者の助けを受けることが重要だ」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "早期帕金森病\n试验AI远程康复",
-          "body": "一项纳入120名早期帕金森病患者的试验发现，1、2、3个月AI远程康复的运动结局无差异。",
-          "mini_headline": "帕金森病AI远程康复",
+          "headline": "警告：勿轻信\nAI抑郁症诊断",
+          "body": "保健福祉部与精神医学会呼吁，勿将AI抑郁症诊断视为医学判断。",
+          "mini_headline": "警惕过度依赖AI诊断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这项探索性、多中心、随机、评估者设盲、多组比较试验旨在评估一套AI-facilitated远程康复系统在早期帕金森病（PD）中不同干预时长下的可行性和探索性临床信号。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "一百二十名PD患者（Hoehn-Yahr分期≤2.5）按1:1:1比例被随机分入短期（1个月）、中期（2个月）和长期（3个月）训练组（15–30分钟，每周5天）。主要结局为MDS-UPDRS Part III评分从基线到3个月的变化。"
+                "x": "保健福祉部与大韩神经精神医学会在10日“精神健康日”到来之际，于8日发布了《以精神健康为目的的生成式AI使用指南》，呼吁公众不要把AI的回答当作医学判断，在出现精神健康危机时应寻求专业人士帮助。"
               },
               {
                 "t": "p",
-                "x": "最终分析纳入71名参与者。3个月时各组主要运动结局无显著差异。事后应答者分析显示，与1个月组相比，3个月组达到探索性认知应答阈值的比例更高。整个试验期间未记录到跌倒或不良事件。"
+                "x": "面向所有用户的指南包含3条核心信息和21条建议。指南建议用户在使用前确认服务的目的、依据及个人信息处理方式，并提出“不要把AI对自身状态的说法当作结论”“与AI保持距离，和人聊一聊”。指南还分别为儿童·青少年和监护人各提出了7条建议。"
               },
               {
                 "t": "p",
-                "x": "由于主要终点为阴性、失访率高、未设常规护理对照组，且认知方面的发现仅限于探索性事后分析，作者表示这些结果应被视为提出假设，需要在更大规模的试验中进一步验证。"
+                "x": "韩国保健社会研究院的调查（1,019人）显示，68.8%的受访者曾出于情感目的使用生成式AI；把AI的判断当作医学诊断，或据此自行诊断精神疾病的比例为14.6%。15~18岁青少年中有51.7%认为自己比较依赖AI。"
+              },
+              {
+                "t": "p",
+                "x": "大韩神经精神医学会理事长Choi Jun-ho强调：“AI无法取代专业评估和治疗，因此必要时及时获得医护人员的帮助非常重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prueban la telerrehabilitación\ncon AI en el Parkinson inicial",
-          "body": "En 120 pacientes con Parkinson inicial, 1, 2 o 3 meses de telerrehabilitación con AI no mostraron diferencias motoras.",
-          "mini_headline": "AI y telerrehabilitación en Parkinson",
+          "headline": "Piden no fiarse del diagnóstico\nde depresión hecho por AI",
+          "body": "El ministerio y la asociación de psiquiatría pidieron no tomar el diagnóstico de depresión por AI como juicio médico.",
+          "mini_headline": "Alerta ante la dependencia de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Este ensayo comparativo exploratorio, multicéntrico, aleatorizado, con evaluadores cegados y de múltiples brazos tuvo como objetivo evaluar la viabilidad y las señales clínicas exploratorias de un sistema de telerrehabilitación facilitado por AI (AI-facilitated) con distintas duraciones de intervención en la enfermedad de Parkinson en fase inicial (PD)."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Ciento veinte pacientes con PD (estadio de Hoehn-Yahr ≤2.5) fueron aleatorizados en proporción 1:1:1 a grupos de entrenamiento de corta (1 mes), media (2 meses) y larga duración (3 meses) (15–30 min, 5 días/semana). La variable principal fue el cambio en la puntuación de la MDS-UPDRS Part III desde el inicio hasta los 3 meses."
+                "x": "El Ministerio de Salud y Bienestar y la Asociación Coreana de Neuropsiquiatría publicaron el día 8 la “Guía para el uso de AI generativa con fines de salud mental”, con motivo del Día de la Salud Mental del día 10. Piden no aceptar las respuestas de la AI como juicio médico y buscar ayuda profesional en situaciones de crisis de salud mental."
               },
               {
                 "t": "p",
-                "x": "El análisis final incluyó a 71 participantes. No se observaron diferencias significativas entre grupos en el resultado motor principal a los 3 meses. Un análisis post hoc de respondedores mostró que el grupo de 3 meses alcanzó con más frecuencia el umbral exploratorio de respuesta cognitiva que el grupo de 1 mes. No se registraron caídas ni eventos adversos durante el ensayo."
+                "x": "La guía para todos los usuarios recoge 3 mensajes clave y 21 recomendaciones. Aconseja comprobar antes del uso el propósito y la base del servicio, así como su manejo de datos personales, y recomienda: “No tome como conclusión lo que la AI dice sobre su estado” y “Tome distancia de la AI y hable con una persona”. Para niños y adolescentes, y para tutores, presentó 7 recomendaciones a cada grupo."
               },
               {
                 "t": "p",
-                "x": "Dado que la variable principal fue negativa, el abandono fue elevado, no hubo un grupo control con atención habitual y el hallazgo cognitivo se limitó a un análisis post hoc exploratorio, los autores señalan que los resultados deben interpretarse como generadores de hipótesis y requieren validación en ensayos más amplios."
+                "x": "En una encuesta del Instituto Coreano de Salud y Asuntos Sociales (1,019 personas), el 68.8% de los encuestados había usado AI generativa con fines emocionales, y el 14.6% había aceptado el juicio de la AI como diagnóstico médico o se había autodiagnosticado una enfermedad mental con base en él. El 51.7% de los adolescentes de 15 a 18 años respondió que se considera más bien dependiente de la AI."
+              },
+              {
+                "t": "p",
+                "x": "Choi Jun-ho, presidente de la Asociación Coreana de Neuropsiquiatría, subrayó: “Dado que la AI no puede sustituir la evaluación y el tratamiento profesionales, es importante recibir a tiempo la ayuda del personal médico cuando sea necesario”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "초기 파킨슨병에\nAI 원격재활 시험",
-          "body": "초기 파킨슨병 120명 시험서 1·2·3개월 AI 원격재활 간 운동 차이는 없었다.",
-          "mini_headline": "파킨슨병 AI 원격재활",
+        "en": {
+          "headline": "A warning not to trust\nAI depression diagnoses",
+          "body": "The health ministry and psychiatric association warned against treating AI depression diagnoses as medical judgment.",
+          "mini_headline": "Warning on AI diagnosis overreliance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "이번 시험은 탐색적·다기관·무작위 배정·평가자 눈가림·다중군 비교 설계로, 초기 파킨슨병(PD)에서 AI-facilitated 원격재활 시스템의 실행 가능성과 탐색적 임상 신호를 개입 기간별로 평가하는 것을 목표로 했다."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Hoehn-Yahr 단계 ≤2.5인 PD 환자 백이십 명을 1:1:1 비율로 단기(1개월), 중기(2개월), 장기(3개월) 훈련군에 무작위 배정했다(15–30분, 주 5일). 일차 결과지표는 기저 시점부터 3개월까지의 MDS-UPDRS Part III 점수 변화였다."
+                "x": "The Ministry of Health and Welfare and the Korean Neuropsychiatric Association released the “Guidelines for Using Generative AI for Mental Health Purposes” on the 8th, ahead of Mental Health Day on the 10th. Their message: do not accept AI answers as medical judgment, and seek help from professionals in a mental health crisis."
               },
               {
                 "t": "p",
-                "x": "최종 분석에는 71명이 포함됐다. 3개월 시점 일차 운동 결과에서 군 간 유의한 차이는 없었다. 사후 반응자 분석에서는 3개월군이 1개월군보다 탐색적 인지 반응 기준에 도달한 비율이 높았다. 시험 기간 내내 낙상이나 이상사례는 기록되지 않았다."
+                "x": "The guidelines for all users contain 3 key messages and 21 recommendations. They advise checking a service's purpose, evidence base and personal data handling before use, and recommend: “Don't take what AI says about your condition as a conclusion” and “Keep your distance from AI, and talk to a person.” Children and adolescents, and guardians, were each given 7 recommendations."
               },
               {
                 "t": "p",
-                "x": "일차 평가변수가 음성이었고, 탈락률이 높았으며, 통상 치료 대조군이 없었고, 인지 관련 결과는 탐색적 사후 분석에 그쳤기 때문에, 저자들은 이번 결과를 가설 생성 차원으로 해석해야 하며 더 큰 규모의 시험에서 추가 검증이 필요하다고 밝혔다."
+                "x": "In a Korea Institute for Health and Social Affairs survey (1,019 people), 68.8% of respondents had used generative AI for emotional purposes, and 14.6% had accepted AI's judgment as a medical diagnosis or used it to diagnose themselves with a mental illness. Among adolescents aged 15 to 18, 51.7% said they consider themselves somewhat dependent on AI."
+              },
+              {
+                "t": "p",
+                "x": "Choi Jun-ho, chairman of the Korean Neuropsychiatric Association, stressed: “Since AI cannot replace professional assessment and treatment, it is important to get timely help from medical staff when needed.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "早期パーキンソン病で\nAI遠隔リハを検証",
-          "body": "早期パーキンソン病120人でAI遠隔リハ1・2・3カ月を比べ、運動転帰に差はなかった。",
-          "mini_headline": "パーキンソン病にAI遠隔リハ",
+          "headline": "AIのうつ病診断を\n信じるなとの警告",
+          "body": "保健福祉部と精神医学会は、AIのうつ病診断を医学的判断と見なさないよう求めた。",
+          "mini_headline": "AI診断への過度な依存に警鐘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "本研究は探索的・多施設・無作為化・評価者盲検・多群比較試験であり、早期パーキンソン病（PD）において、AI-facilitatedな遠隔リハビリテーションシステムの実施可能性と探索的な臨床シグナルを、介入期間の違いごとに評価することを目的とした。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Hoehn-Yahr重症度≤2.5のPD患者百二十人を、1:1:1の比率で短期（1カ月）、中期（2カ月）、長期（3カ月）の訓練群に無作為に割り付けた（15–30分、週5日）。主要評価項目は、ベースラインから3カ月までのMDS-UPDRS Part IIIスコアの変化である。"
+                "x": "保健福祉部と大韓神経精神医学会は、10日の「精神健康の日」を前に、8日「精神健康目的の生成AI利用ガイドライン」を発表した。AIの回答を医学的判断として受け取らず、精神的な危機の際は専門家の助けを受けるよう呼びかけている。"
               },
               {
                 "t": "p",
-                "x": "最終解析には71人が含まれた。3カ月時点の主要運動評価項目に群間の有意差はみられなかった。事後のレスポンダー解析では、3カ月群は1カ月群に比べ、探索的な認知レスポンダー閾値に達した割合が高かった。試験期間を通じて転倒や有害事象は記録されなかった。"
+                "x": "すべての利用者向けのガイドラインには、3つの核心メッセージと21の勧告が盛り込まれた。利用前にサービスの目的と根拠、個人情報の取り扱いを確認し、「自分の状態についてのAIの言葉を結論にしないでください」「AIと距離を置き、人に話してください」と勧告した。子ども・青少年と保護者には、それぞれ7つの勧告事項を示した。"
               },
               {
                 "t": "p",
-                "x": "主要評価項目が陰性で、脱落率が高く、通常ケアの対照群がなく、認知面の所見は探索的な事後解析に限られることから、著者らはこの結果を仮説生成的なものとして解釈すべきであり、より大規模な試験でのさらなる検証が必要だとしている。"
+                "x": "韓国保健社会研究院の調査（1,019人）では、回答者の68.8%が感情的な目的で生成AIを利用し、AIの判断を医学的診断として受け入れたり、それを根拠に自ら精神疾患を診断したりした経験は14.6%だった。15～18歳の青少年の51.7%は、自分はAIに依存しているほうだと答えた。"
+              },
+              {
+                "t": "p",
+                "x": "大韓神経精神医学会のチェ・ジュンホ理事長は「AIは専門的な評価と治療に代わることはできないため、必要な場合は適時に医療者の助けを受けることが重要だ」と強調した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "早期帕金森病\n试验AI远程康复",
-          "body": "一项纳入120名早期帕金森病患者的试验发现，1、2、3个月AI远程康复的运动结局无差异。",
-          "mini_headline": "帕金森病AI远程康复",
+          "headline": "警告：勿轻信\nAI抑郁症诊断",
+          "body": "保健福祉部与精神医学会呼吁，勿将AI抑郁症诊断视为医学判断。",
+          "mini_headline": "警惕过度依赖AI诊断",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "这项探索性、多中心、随机、评估者设盲、多组比较试验旨在评估一套AI-facilitated远程康复系统在早期帕金森病（PD）中不同干预时长下的可行性和探索性临床信号。"
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "一百二十名PD患者（Hoehn-Yahr分期≤2.5）按1:1:1比例被随机分入短期（1个月）、中期（2个月）和长期（3个月）训练组（15–30分钟，每周5天）。主要结局为MDS-UPDRS Part III评分从基线到3个月的变化。"
+                "x": "保健福祉部与大韩神经精神医学会在10日“精神健康日”到来之际，于8日发布了《以精神健康为目的的生成式AI使用指南》，呼吁公众不要把AI的回答当作医学判断，在出现精神健康危机时应寻求专业人士帮助。"
               },
               {
                 "t": "p",
-                "x": "最终分析纳入71名参与者。3个月时各组主要运动结局无显著差异。事后应答者分析显示，与1个月组相比，3个月组达到探索性认知应答阈值的比例更高。整个试验期间未记录到跌倒或不良事件。"
+                "x": "面向所有用户的指南包含3条核心信息和21条建议。指南建议用户在使用前确认服务的目的、依据及个人信息处理方式，并提出“不要把AI对自身状态的说法当作结论”“与AI保持距离，和人聊一聊”。指南还分别为儿童·青少年和监护人各提出了7条建议。"
               },
               {
                 "t": "p",
-                "x": "由于主要终点为阴性、失访率高、未设常规护理对照组，且认知方面的发现仅限于探索性事后分析，作者表示这些结果应被视为提出假设，需要在更大规模的试验中进一步验证。"
+                "x": "韩国保健社会研究院的调查（1,019人）显示，68.8%的受访者曾出于情感目的使用生成式AI；把AI的判断当作医学诊断，或据此自行诊断精神疾病的比例为14.6%。15~18岁青少年中有51.7%认为自己比较依赖AI。"
+              },
+              {
+                "t": "p",
+                "x": "大韩神经精神医学会理事长Choi Jun-ho强调：“AI无法取代专业评估和治疗，因此必要时及时获得医护人员的帮助非常重要。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Prueban la telerrehabilitación\ncon AI en el Parkinson inicial",
-          "body": "En 120 pacientes con Parkinson inicial, 1, 2 o 3 meses de telerrehabilitación con AI no mostraron diferencias motoras.",
-          "mini_headline": "AI y telerrehabilitación en Parkinson",
+          "headline": "Piden no fiarse del diagnóstico\nde depresión hecho por AI",
+          "body": "El ministerio y la asociación de psiquiatría pidieron no tomar el diagnóstico de depresión por AI como juicio médico.",
+          "mini_headline": "Alerta ante la dependencia de la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Este ensayo comparativo exploratorio, multicéntrico, aleatorizado, con evaluadores cegados y de múltiples brazos tuvo como objetivo evaluar la viabilidad y las señales clínicas exploratorias de un sistema de telerrehabilitación facilitado por AI (AI-facilitated) con distintas duraciones de intervención en la enfermedad de Parkinson en fase inicial (PD)."
+                "t": "img",
+                "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
               },
               {
                 "t": "p",
-                "x": "Ciento veinte pacientes con PD (estadio de Hoehn-Yahr ≤2.5) fueron aleatorizados en proporción 1:1:1 a grupos de entrenamiento de corta (1 mes), media (2 meses) y larga duración (3 meses) (15–30 min, 5 días/semana). La variable principal fue el cambio en la puntuación de la MDS-UPDRS Part III desde el inicio hasta los 3 meses."
+                "x": "El Ministerio de Salud y Bienestar y la Asociación Coreana de Neuropsiquiatría publicaron el día 8 la “Guía para el uso de AI generativa con fines de salud mental”, con motivo del Día de la Salud Mental del día 10. Piden no aceptar las respuestas de la AI como juicio médico y buscar ayuda profesional en situaciones de crisis de salud mental."
               },
               {
                 "t": "p",
-                "x": "El análisis final incluyó a 71 participantes. No se observaron diferencias significativas entre grupos en el resultado motor principal a los 3 meses. Un análisis post hoc de respondedores mostró que el grupo de 3 meses alcanzó con más frecuencia el umbral exploratorio de respuesta cognitiva que el grupo de 1 mes. No se registraron caídas ni eventos adversos durante el ensayo."
+                "x": "La guía para todos los usuarios recoge 3 mensajes clave y 21 recomendaciones. Aconseja comprobar antes del uso el propósito y la base del servicio, así como su manejo de datos personales, y recomienda: “No tome como conclusión lo que la AI dice sobre su estado” y “Tome distancia de la AI y hable con una persona”. Para niños y adolescentes, y para tutores, presentó 7 recomendaciones a cada grupo."
               },
               {
                 "t": "p",
-                "x": "Dado que la variable principal fue negativa, el abandono fue elevado, no hubo un grupo control con atención habitual y el hallazgo cognitivo se limitó a un análisis post hoc exploratorio, los autores señalan que los resultados deben interpretarse como generadores de hipótesis y requieren validación en ensayos más amplios."
+                "x": "En una encuesta del Instituto Coreano de Salud y Asuntos Sociales (1,019 personas), el 68.8% de los encuestados había usado AI generativa con fines emocionales, y el 14.6% había aceptado el juicio de la AI como diagnóstico médico o se había autodiagnosticado una enfermedad mental con base en él. El 51.7% de los adolescentes de 15 a 18 años respondió que se considera más bien dependiente de la AI."
+              },
+              {
+                "t": "p",
+                "x": "Choi Jun-ho, presidente de la Asociación Coreana de Neuropsiquiatría, subrayó: “Dado que la AI no puede sustituir la evaluación y el tratamiento profesionales, es importante recibir a tiempo la ayuda del personal médico cuando sea necesario”."
               }
             ]
           }
@@ -919,15 +862,15 @@
       }
     },
     {
-      "id": "medicine-clairity-everlywell-breast-risk",
+      "id": "medicine-epilepsy-llm-ehr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Clairity, 유방암\nAI 위험 평가 확대",
-      "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
-      "mini_headline": "Clairity AI 위험 도구 확대",
+      "headline": "LLMs, 진료기록으로\n뇌전증 조기 포착",
+      "body": "LLMs가 EHR 메모로 뇌전증과 오진 잦은 심인성 발작을 일찍 가려낸다.",
+      "mini_headline": "LLMs, 뇌전증 조기 포착",
       "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
+      "source": "npj Digital Medicine (Nature)",
+      "url": "https://www.nature.com/articles/s41746-026-03346-2",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -935,125 +878,150 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
+            "x": "뇌전증과 심인성 비뇌전증 발작은 발작 양상이 비슷할 때가 많지만 관리 전략은 근본부터 다르다. 오진이 흔하고, 오진은 긴 진단 지연과 불필요한 치료, 상당한 환자 이환으로 이어지기도 한다. 진단 표준은 장시간 비디오 뇌파 검사지만 비용이 높고 받기도 어려워 제때 진단하기가 쉽지 않다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
           },
           {
             "t": "p",
-            "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
+            "x": "연구진이 개발한 EpiScreen은 전자건강기록에 늘 쌓이는 임상 메모로 뇌전증을 일찍 찾아내는 저비용·고효율 방법이다. 라벨을 붙인 메모로 대규모 언어 모델을 미세조정하자 EpiScreen의 AUC는 MIMIC-IV 데이터셋에서 최대 0.875, University of Minnesota(미네소타대학교) 비공개 코호트에서 0.980까지 올라갔다. 의료진-AI 협업(clinician-AI) 환경에서는 EpiScreen 지원(EpiScreen-assisted)을 받은 신경과 의사의 성과가 단독 전문가보다 최대 14.3% 좋았다."
           },
           {
             "t": "p",
-            "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
+            "x": "종합하면 이 연구는 EpiScreen이 뇌전증 조기 발견을 돕는다는 점을 보여준다. 시의적절하고 비용 효율적인 선별 검사가 가능해지면 특히 자원이 부족한 지역에서 진단 지연을 줄이고 불필요한 개입을 피할 수 있다."
           }
         ]
       },
+      "lead_image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png",
       "text": {
         "en": {
-          "headline": "Clairity widens access to AI\nbreast cancer risk tool",
-          "body": "An Everlywell deal extends Clairity Breast, which predicts five-year risk from one mammogram, beyond two U.S. sites.",
-          "mini_headline": "Clairity AI risk tool expands",
+          "headline": "LLMs spot epilepsy early\nin health record notes",
+          "body": "LLMs reading EHR notes distinguish epilepsy earlier from psychogenic seizures, a look-alike often misdiagnosed.",
+          "mini_headline": "LLMs flag epilepsy early",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity is broadening U.S. availability of its Clairity Breast AI-based breast cancer risk assessment platform through a partnership with consumer health testing company Everlywell."
+                "x": "Epilepsy and psychogenic non-epileptic seizures often present with similar seizure-like manifestations but require fundamentally different management strategies. Misdiagnosis is common and can lead to prolonged diagnostic delays, unnecessary treatments, and substantial patient morbidity. Although prolonged video-electroencephalography is the diagnostic gold standard, its high cost and limited accessibility hinder timely diagnosis."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast analyzes a single routine screening mammogram to predict a woman's five-year risk of developing breast cancer. The platform received De Novo authorization from the U.S. Food and Drug Administration (FDA) in 2025. It was previously available only at Beth Israel Deaconess Medical Center in Massachusetts and Invision Sally Jobe Imaging Center in Colorado."
+                "x": "Here, we developed a low-cost, effective approach, EpiScreen, for early epilepsy detection by utilizing routinely collected clinical notes from electronic health records. Through fine-tuning large language models on labeled notes, EpiScreen achieved an AUC of up to 0.875 on the MIMIC-IV dataset and 0.980 on a private cohort of the University of Minnesota. In a clinician-AI collaboration setting, EpiScreen-assisted neurologists outperformed unaided experts by up to 14.3%."
               },
               {
                 "t": "p",
-                "x": "Patients in the U.S. with a qualifying recent screening mammogram can now access the assessment through Everlywell's consumer platform, which includes physician order review, digital results delivery, and clinician-supported follow-up, Clairity said. The company was founded by breast imaging researcher Connie Lehman, MD, PhD."
+                "x": "Overall, this study demonstrates that EpiScreen supports early epilepsy detection, facilitating timely and cost-effective screening that may reduce diagnostic delays and avoid unnecessary interventions, particularly in resource-limited regions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Clairity, 유방암\nAI 위험 평가 확대",
-          "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
-          "mini_headline": "Clairity AI 위험 도구 확대",
+          "headline": "LLMs, 진료기록으로\n뇌전증 조기 포착",
+          "body": "LLMs가 EHR 메모로 뇌전증과 오진 잦은 심인성 발작을 일찍 가려낸다.",
+          "mini_headline": "LLMs, 뇌전증 조기 포착",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
+                "x": "뇌전증과 심인성 비뇌전증 발작은 발작 양상이 비슷할 때가 많지만 관리 전략은 근본부터 다르다. 오진이 흔하고, 오진은 긴 진단 지연과 불필요한 치료, 상당한 환자 이환으로 이어지기도 한다. 진단 표준은 장시간 비디오 뇌파 검사지만 비용이 높고 받기도 어려워 제때 진단하기가 쉽지 않다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
+                "x": "연구진이 개발한 EpiScreen은 전자건강기록에 늘 쌓이는 임상 메모로 뇌전증을 일찍 찾아내는 저비용·고효율 방법이다. 라벨을 붙인 메모로 대규모 언어 모델을 미세조정하자 EpiScreen의 AUC는 MIMIC-IV 데이터셋에서 최대 0.875, University of Minnesota(미네소타대학교) 비공개 코호트에서 0.980까지 올라갔다. 의료진-AI 협업(clinician-AI) 환경에서는 EpiScreen 지원(EpiScreen-assisted)을 받은 신경과 의사의 성과가 단독 전문가보다 최대 14.3% 좋았다."
               },
               {
                 "t": "p",
-                "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
+                "x": "종합하면 이 연구는 EpiScreen이 뇌전증 조기 발견을 돕는다는 점을 보여준다. 시의적절하고 비용 효율적인 선별 검사가 가능해지면 특히 자원이 부족한 지역에서 진단 지연을 줄이고 불필요한 개입을 피할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clairity、AI乳がん\nリスク評価を拡大",
-          "body": "Everlywell提携で、Clairity BreastがU.S.二施設以外へ広がる。",
-          "mini_headline": "Clairity、AIリスク評価を拡大",
+          "headline": "LLMs、診療記録から\nてんかんを早期発見",
+          "body": "EHRのメモを読むLLMsが、誤診されやすい心因性発作とてんかんを早く見分ける。",
+          "mini_headline": "LLMsがてんかんを早期検出",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairityは、消費者向け健康検査企業Everlywellとの提携を通じて、AI-basedの乳がんリスク評価プラットフォームClairity BreastのU.S.での提供範囲を広げる。"
+                "x": "てんかんと心因性非てんかん性発作は似た発作様の症状を示すことが多いが、管理方針は根本的に異なる。誤診は珍しくなく、診断の長期遅延や不要な治療、患者の大きな負担につながりうる。長時間ビデオ脳波検査が診断のゴールドスタンダードだが、高コストで利用しにくいため、適時の診断が妨げられている。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breastは、通常の検診マンモグラフィ一枚を解析し、女性が五年以内に乳がんを発症するリスクを予測する。同プラットフォームは2025年にU.S.食品医薬品局（FDA）からDe Novo認可を受けた。これまではマサチューセッツ州のBeth Israel Deaconess Medical Centerと、コロラド州のInvision Sally Jobe Imaging Centerでしか利用できなかった。"
+                "x": "研究チームは、電子カルテに日常的に蓄積される臨床メモを活用し、てんかんを早期に検出する低コストで有効な手法EpiScreenを開発した。ラベル付きメモで大規模言語モデルをファインチューニングした結果、EpiScreenのAUCはMIMIC-IVデータセットで最大0.875、University of Minnesota（ミネソタ大学）の非公開コホートで0.980に達した。臨床医とAIの協働（clinician-AI）の場面では、EpiScreenの支援（EpiScreen-assisted）を受けた神経内科医が、支援なしの専門家を最大14.3%上回った。"
               },
               {
                 "t": "p",
-                "x": "Clairityによると、条件を満たす最近の検診マンモグラフィを受けたU.S.の患者は、Everlywellの消費者向けプラットフォームを通じてこの評価を利用できるようになった。同プラットフォームには、医師による検査オーダーの確認、デジタルでの結果通知、臨床医の支援によるフォローアップが含まれる。同社は乳房画像研究者のConnie Lehman, MD, PhDが創業した。"
+                "x": "総じて本研究は、EpiScreenがてんかんの早期検出を支え、特に資源の限られた地域で診断の遅れを減らし不要な介入を避けうる、適時かつ費用対効果の高いスクリーニングを可能にすることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clairity扩大AI\n乳腺癌风险工具覆盖",
-          "body": "借助与Everlywell的合作，Clairity Breast不再限于U.S.两家机构。",
-          "mini_headline": "Clairity AI风险工具扩大覆盖",
+          "headline": "LLMs借助病历笔记\n及早识别癫痫",
+          "body": "读取EHR笔记的LLMs能更早区分癫痫与常被误诊的心因性发作。",
+          "mini_headline": "LLMs及早识别癫痫",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity正通过与消费者健康检测公司Everlywell合作，扩大其AI-based乳腺癌风险评估平台Clairity Breast在U.S.的可及范围。"
+                "x": "癫痫与心因性非癫痫性发作常表现出相似的类发作症状，但所需的管理策略截然不同。误诊十分常见，可能导致诊断长期延误、不必要的治疗以及严重的患者病痛。长程视频脑电图虽是诊断金标准，但费用高、可及性有限，阻碍了及时诊断。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast通过分析一次常规筛查钼靶影像，预测女性未来五年内罹患乳腺癌的风险。该平台于2025年获得U.S.食品药品监督管理局（FDA）的De Novo授权。此前，它仅在马萨诸塞州的Beth Israel Deaconess Medical Center和科罗拉多州的Invision Sally Jobe Imaging Center提供。"
+                "x": "研究团队利用电子健康记录中常规收集的临床笔记，开发了一种低成本且有效的早期癫痫检测方法EpiScreen。通过在标注笔记上微调大语言模型，EpiScreen在MIMIC-IV数据集上的AUC最高达0.875，在University of Minnesota（明尼苏达大学）的私有队列中达0.980。在临床医生与AI协作（clinician-AI）的场景下，借助EpiScreen（EpiScreen-assisted）的神经科医生比无辅助专家的表现最多高出14.3%。"
               },
               {
                 "t": "p",
-                "x": "Clairity表示，近期做过符合条件的筛查钼靶检查的U.S.患者，现在可通过Everlywell的消费者平台获得该评估，平台提供医生医嘱审核、数字化结果交付以及临床医生支持的后续随访。该公司由乳腺影像研究者Connie Lehman, MD, PhD创立。"
+                "x": "总体而言，该研究表明EpiScreen有助于癫痫的早期检测，可实现及时且具成本效益的筛查，有望减少诊断延误、避免不必要的干预，在资源有限的地区尤其如此。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clairity amplía el acceso a su\nAI de riesgo de cáncer de mama",
-          "body": "Gracias a Everlywell, Clairity Breast, que predice el riesgo a cinco años, llegará más allá de dos centros de U.S.",
-          "mini_headline": "Se amplía la AI de riesgo de Clairity",
+          "headline": "Los LLMs detectan la epilepsia\npronto en el historial clínico",
+          "body": "Los LLMs que leen notas de EHR distinguen antes la epilepsia de las crisis psicógenas, a menudo mal diagnosticadas.",
+          "mini_headline": "Los LLMs detectan antes la epilepsia",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity amplía la disponibilidad en U.S. de Clairity Breast, su plataforma AI-based de evaluación del riesgo de cáncer de mama, mediante una alianza con Everlywell, empresa de pruebas de salud para consumidores."
+                "x": "La epilepsia y las crisis psicógenas no epilépticas suelen presentar manifestaciones similares a convulsiones, pero requieren estrategias de manejo fundamentalmente distintas. El diagnóstico erróneo es frecuente y puede provocar largos retrasos diagnósticos, tratamientos innecesarios y una morbilidad considerable para los pacientes. Aunque la videoelectroencefalografía prolongada es el estándar de referencia diagnóstico, su alto costo y su acceso limitado dificultan un diagnóstico oportuno."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast analiza una sola mamografía de cribado rutinaria para predecir el riesgo de una mujer de desarrollar cáncer de mama en cinco años. La plataforma recibió en 2025 la autorización De Novo de la Administración de Alimentos y Medicamentos de U.S. (FDA). Hasta ahora solo estaba disponible en el Beth Israel Deaconess Medical Center, en Massachusetts, y en el Invision Sally Jobe Imaging Center, en Colorado."
+                "x": "Aquí desarrollamos EpiScreen, un enfoque eficaz y de bajo costo para la detección temprana de la epilepsia que aprovecha las notas clínicas recopiladas de forma rutinaria en las historias clínicas electrónicas. Mediante el ajuste fino de grandes modelos de lenguaje con notas etiquetadas, EpiScreen alcanzó un AUC de hasta 0.875 en el conjunto de datos MIMIC-IV y de 0.980 en una cohorte privada de la University of Minnesota. En un entorno de colaboración clinician-AI, los neurólogos asistidos por EpiScreen (EpiScreen-assisted) superaron hasta en un 14.3% a los expertos sin ayuda."
               },
               {
                 "t": "p",
-                "x": "Los pacientes en U.S. con una mamografía de cribado reciente que cumpla los requisitos ya pueden acceder a la evaluación a través de la plataforma de consumo de Everlywell, que incluye revisión médica de la orden, entrega digital de resultados y seguimiento con apoyo clínico, según Clairity. La empresa fue fundada por la investigadora en imagen mamaria Connie Lehman, MD, PhD."
+                "x": "En conjunto, este estudio demuestra que EpiScreen favorece la detección temprana de la epilepsia y facilita un cribado oportuno y rentable que podría reducir los retrasos diagnósticos y evitar intervenciones innecesarias, sobre todo en regiones con recursos limitados."
               }
             ]
           }
@@ -1061,89 +1029,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Clairity, 유방암\nAI 위험 평가 확대",
-          "body": "Clairity Breast가 Everlywell로 U.S. 두 곳 밖으로 간다.",
-          "mini_headline": "Clairity AI 위험 도구 확대",
+          "headline": "LLMs, 진료기록으로\n뇌전증 조기 포착",
+          "body": "LLMs가 EHR 메모로 뇌전증과 오진 잦은 심인성 발작을 일찍 가려낸다.",
+          "mini_headline": "LLMs, 뇌전증 조기 포착",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity가 소비자 건강 검사 기업 Everlywell과의 제휴를 통해 AI-based 유방암 위험 평가 플랫폼 Clairity Breast의 U.S. 내 이용 범위를 넓힌다."
+                "x": "뇌전증과 심인성 비뇌전증 발작은 비슷한 발작 양상을 보이는 경우가 많지만 관리 전략은 근본적으로 다르다. 오진이 흔하고, 이는 긴 진단 지연과 불필요한 치료, 상당한 환자 이환으로 이어질 수 있다. 장시간 비디오 뇌파 검사가 진단의 표준이지만 비용이 높고 접근성이 낮아 제때 진단하기 어렵다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast는 일상적인 선별 유방촬영 한 장을 분석해 여성이 향후 다섯 해 안에 유방암에 걸릴 위험을 예측한다. 이 플랫폼은 2025년 U.S. 식품의약국(FDA)의 De Novo 승인을 받았다. 이전에는 매사추세츠의 Beth Israel Deaconess Medical Center와 콜로라도의 Invision Sally Jobe Imaging Center에서만 이용할 수 있었다."
+                "x": "연구진은 전자건강기록에 일상적으로 쌓이는 임상 메모를 활용해 뇌전증을 조기에 찾아내는 저비용·고효율 방법 EpiScreen을 개발했다. 라벨을 붙인 메모로 대규모 언어 모델을 미세조정한 결과, EpiScreen의 AUC는 MIMIC-IV 데이터셋에서 최대 0.875, University of Minnesota(미네소타대학교) 비공개 코호트에서 0.980에 이르렀다. 의료진-AI 협업(clinician-AI) 환경에서는 EpiScreen 지원(EpiScreen-assisted)을 받은 신경과 의사가 단독 전문가보다 최대 14.3% 더 나은 성과를 냈다."
               },
               {
                 "t": "p",
-                "x": "Clairity에 따르면 조건에 맞는 최근 선별 유방촬영을 받은 U.S. 환자는 이제 Everlywell의 소비자 플랫폼에서 이 평가를 이용할 수 있다. 이 플랫폼에는 의사의 처방 검토, 디지털 결과 전달, 임상의가 지원하는 후속 관리가 포함된다. 회사는 유방영상 연구자 Connie Lehman, MD, PhD가 설립했다."
+                "x": "종합하면 이 연구는 EpiScreen이 뇌전증 조기 발견을 돕고, 특히 자원이 부족한 지역에서 진단 지연을 줄이고 불필요한 개입을 피할 수 있는 시의적절하고 비용 효율적인 선별 검사를 가능하게 한다는 점을 보여준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Clairity、AI乳がん\nリスク評価を拡大",
-          "body": "Everlywell提携で、Clairity BreastがU.S.二施設以外へ広がる。",
-          "mini_headline": "Clairity、AIリスク評価を拡大",
+          "headline": "LLMs、診療記録から\nてんかんを早期発見",
+          "body": "EHRのメモを読むLLMsが、誤診されやすい心因性発作とてんかんを早く見分ける。",
+          "mini_headline": "LLMsがてんかんを早期検出",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairityは、消費者向け健康検査企業Everlywellとの提携を通じて、AI-basedの乳がんリスク評価プラットフォームClairity BreastのU.S.での提供範囲を広げる。"
+                "x": "てんかんと心因性非てんかん性発作は似た発作様の症状を示すことが多いが、管理方針は根本的に異なる。誤診は珍しくなく、診断の長期遅延や不要な治療、患者の大きな負担につながりうる。長時間ビデオ脳波検査が診断のゴールドスタンダードだが、高コストで利用しにくいため、適時の診断が妨げられている。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breastは、通常の検診マンモグラフィ一枚を解析し、女性が五年以内に乳がんを発症するリスクを予測する。同プラットフォームは2025年にU.S.食品医薬品局（FDA）からDe Novo認可を受けた。これまではマサチューセッツ州のBeth Israel Deaconess Medical Centerと、コロラド州のInvision Sally Jobe Imaging Centerでしか利用できなかった。"
+                "x": "研究チームは、電子カルテに日常的に蓄積される臨床メモを活用し、てんかんを早期に検出する低コストで有効な手法EpiScreenを開発した。ラベル付きメモで大規模言語モデルをファインチューニングした結果、EpiScreenのAUCはMIMIC-IVデータセットで最大0.875、University of Minnesota（ミネソタ大学）の非公開コホートで0.980に達した。臨床医とAIの協働（clinician-AI）の場面では、EpiScreenの支援（EpiScreen-assisted）を受けた神経内科医が、支援なしの専門家を最大14.3%上回った。"
               },
               {
                 "t": "p",
-                "x": "Clairityによると、条件を満たす最近の検診マンモグラフィを受けたU.S.の患者は、Everlywellの消費者向けプラットフォームを通じてこの評価を利用できるようになった。同プラットフォームには、医師による検査オーダーの確認、デジタルでの結果通知、臨床医の支援によるフォローアップが含まれる。同社は乳房画像研究者のConnie Lehman, MD, PhDが創業した。"
+                "x": "総じて本研究は、EpiScreenがてんかんの早期検出を支え、特に資源の限られた地域で診断の遅れを減らし不要な介入を避けうる、適時かつ費用対効果の高いスクリーニングを可能にすることを示している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Clairity扩大AI\n乳腺癌风险工具覆盖",
-          "body": "借助与Everlywell的合作，Clairity Breast不再限于U.S.两家机构。",
-          "mini_headline": "Clairity AI风险工具扩大覆盖",
+          "headline": "LLMs借助病历笔记\n及早识别癫痫",
+          "body": "读取EHR笔记的LLMs能更早区分癫痫与常被误诊的心因性发作。",
+          "mini_headline": "LLMs及早识别癫痫",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity正通过与消费者健康检测公司Everlywell合作，扩大其AI-based乳腺癌风险评估平台Clairity Breast在U.S.的可及范围。"
+                "x": "癫痫与心因性非癫痫性发作常表现出相似的类发作症状，但所需的管理策略截然不同。误诊十分常见，可能导致诊断长期延误、不必要的治疗以及严重的患者病痛。长程视频脑电图虽是诊断金标准，但费用高、可及性有限，阻碍了及时诊断。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast通过分析一次常规筛查钼靶影像，预测女性未来五年内罹患乳腺癌的风险。该平台于2025年获得U.S.食品药品监督管理局（FDA）的De Novo授权。此前，它仅在马萨诸塞州的Beth Israel Deaconess Medical Center和科罗拉多州的Invision Sally Jobe Imaging Center提供。"
+                "x": "研究团队利用电子健康记录中常规收集的临床笔记，开发了一种低成本且有效的早期癫痫检测方法EpiScreen。通过在标注笔记上微调大语言模型，EpiScreen在MIMIC-IV数据集上的AUC最高达0.875，在University of Minnesota（明尼苏达大学）的私有队列中达0.980。在临床医生与AI协作（clinician-AI）的场景下，借助EpiScreen（EpiScreen-assisted）的神经科医生比无辅助专家的表现最多高出14.3%。"
               },
               {
                 "t": "p",
-                "x": "Clairity表示，近期做过符合条件的筛查钼靶检查的U.S.患者，现在可通过Everlywell的消费者平台获得该评估，平台提供医生医嘱审核、数字化结果交付以及临床医生支持的后续随访。该公司由乳腺影像研究者Connie Lehman, MD, PhD创立。"
+                "x": "总体而言，该研究表明EpiScreen有助于癫痫的早期检测，可实现及时且具成本效益的筛查，有望减少诊断延误、避免不必要的干预，在资源有限的地区尤其如此。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Clairity amplía el acceso a su\nAI de riesgo de cáncer de mama",
-          "body": "Gracias a Everlywell, Clairity Breast, que predice el riesgo a cinco años, llegará más allá de dos centros de U.S.",
-          "mini_headline": "Se amplía la AI de riesgo de Clairity",
+          "headline": "Los LLMs detectan la epilepsia\npronto en el historial clínico",
+          "body": "Los LLMs que leen notas de EHR distinguen antes la epilepsia de las crisis psicógenas, a menudo mal diagnosticadas.",
+          "mini_headline": "Los LLMs detectan antes la epilepsia",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "Clairity amplía la disponibilidad en U.S. de Clairity Breast, su plataforma AI-based de evaluación del riesgo de cáncer de mama, mediante una alianza con Everlywell, empresa de pruebas de salud para consumidores."
+                "x": "La epilepsia y las crisis psicógenas no epilépticas suelen presentar manifestaciones similares a convulsiones, pero requieren estrategias de manejo fundamentalmente distintas. El diagnóstico erróneo es frecuente y puede provocar largos retrasos diagnósticos, tratamientos innecesarios y una morbilidad considerable para los pacientes. Aunque la videoelectroencefalografía prolongada es el estándar de referencia diagnóstico, su alto costo y su acceso limitado dificultan un diagnóstico oportuno."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "Clairity Breast analiza una sola mamografía de cribado rutinaria para predecir el riesgo de una mujer de desarrollar cáncer de mama en cinco años. La plataforma recibió en 2025 la autorización De Novo de la Administración de Alimentos y Medicamentos de U.S. (FDA). Hasta ahora solo estaba disponible en el Beth Israel Deaconess Medical Center, en Massachusetts, y en el Invision Sally Jobe Imaging Center, en Colorado."
+                "x": "Aquí desarrollamos EpiScreen, un enfoque eficaz y de bajo costo para la detección temprana de la epilepsia que aprovecha las notas clínicas recopiladas de forma rutinaria en las historias clínicas electrónicas. Mediante el ajuste fino de grandes modelos de lenguaje con notas etiquetadas, EpiScreen alcanzó un AUC de hasta 0.875 en el conjunto de datos MIMIC-IV y de 0.980 en una cohorte privada de la University of Minnesota. En un entorno de colaboración clinician-AI, los neurólogos asistidos por EpiScreen (EpiScreen-assisted) superaron hasta en un 14.3% a los expertos sin ayuda."
               },
               {
                 "t": "p",
-                "x": "Los pacientes en U.S. con una mamografía de cribado reciente que cumpla los requisitos ya pueden acceder a la evaluación a través de la plataforma de consumo de Everlywell, que incluye revisión médica de la orden, entrega digital de resultados y seguimiento con apoyo clínico, según Clairity. La empresa fue fundada por la investigadora en imagen mamaria Connie Lehman, MD, PhD."
+                "x": "En conjunto, este estudio demuestra que EpiScreen favorece la detección temprana de la epilepsia y facilita un cribado oportuno y rentable que podría reducir los retrasos diagnósticos y evitar intervenciones innecesarias, sobre todo en regiones con recursos limitados."
               }
             ]
           }
@@ -1151,311 +1135,272 @@
       }
     },
     {
-      "id": "medicine-europe-20-center-radiology-ai-study",
+      "id": "medicine-clinicalgpt-med-safety",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 20개 센터 도입\n효율 개선 확인",
-      "body": "센터 20곳·AI 도구 10종·의사 58명을 살핀 유럽 연구에서 효율이 올랐다.",
-      "mini_headline": "AI로 영상의학 효율 향상",
+      "headline": "EHR 모델이 약물\n처방 시점에 감사한다",
+      "body": "일곱 곳서 ClinicalGPT는 1,000건당 3.2건, 규칙은 9.4건 놓쳤다.",
+      "mini_headline": "EHR 모델이 약물 처방을 감사한다",
       "tool": "Medicine",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+      "source": "npj Digital Medicine (Nature)",
+      "url": "https://www.nature.com/articles/s41746-026-03243-8",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "실시간 투약 안전 감사에는 최신 검사 기록과 투약 이력이 필요하다. 그런데 여러 병원의 EHRs에는 결정적 근거가 오래됐거나 빠져 있기도 하다. 연구진은 Clinical Trajectory Language로 시간, 단위, 출처, 관측 가능성을 표현하는 감사용 파운데이션 모델 ClinicalGPT를 제시했다."
+          },
+          {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
           },
           {
             "t": "p",
-            "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관이 AI를 폭넓게 도입하면 효율 향상을 수치로 확인할 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간에 일곱 개 업체의 AI 도구 10종을 평가했다."
+            "x": "연구진은 일곱 개 의료 시스템의 해당 고위험 투약 처방 847,000건을 후향적으로 평가했다. 처방 1000건당 누락은 강한 제약을 건 ClinicalGPT가 3.2건이었다. 규칙만 쓴 방식은 9.4건, 원래의 범용 LLM 비교군은 6.1건, 가장 강한 LLM 비교군(RAG + LLM + rules)은 4.8건이었다. 오경보율도 33.9로 규칙만 쓴 방식의 38.7보다 낮았다."
           },
           {
             "t": "p",
-            "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 그리고 영상의학과 전문의 58명 대상 설문으로 이뤄졌다."
-          },
-          {
-            "t": "p",
-            "x": "AI를 적극 활용한 의사는 약 91%였다. 총 지연 시간 중앙값은 약 2.06분이었는데 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우도 약 7.2%였고, 무릎 MRI 3%에서 흉부 CT 13%까지 검사마다 달랐다."
-          },
-          {
-            "t": "p",
-            "x": "AI를 쓸 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었다. 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램으로 외상 방사선촬영에서만 0.69 FTE만큼 업무 여력이 생겼다."
+            "x": "다만 이 오프라인 지표로는 임상 조치나 약물 이상 사례, 환자 위해를 재지 않았다. 처방 시점 감사 성능에서 앞선다는 근거는 되지만 임상적 효과나 환자 위해 감소까지 입증하지는 않는다."
           }
         ]
       },
+      "lead_image": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png",
       "text": {
         "en": {
-          "headline": "AI rollout across 20 centers\nshows efficiency gains",
-          "body": "A European study of 10 AI tools at 20 centers with 58 radiologists found measurable efficiency gains.",
-          "mini_headline": "AI lifts radiology efficiency",
+          "headline": "An EHR model audits drug\norders as they are placed",
+          "body": "In a seven-system test, ClinicalGPT missed 3.2 high-risk drug orders per 1,000, versus 9.4 for rules alone.",
+          "mini_headline": "EHR model audits drug orders",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
-              },
-              {
                 "t": "p",
-                "x": "Widespread AI adoption in a private radiology practice can produce measurable efficiency gains, according to a study published in JACR. European imaging experts assessed 10 AI tools from seven vendors over a nearly 5-year implementation across 20 outpatient imaging centers of the 3R Swiss Imaging Network."
+                "x": "Real-time medication-safety auditing requires current laboratory and medication histories, yet EHRs may contain stale or missing decisive evidence. The authors present ClinicalGPT, an audit-ready foundation model using Clinical Trajectory Language to encode time, units, provenance, and observability."
               },
-              {
-                "t": "p",
-                "x": "“Infrastructure latency, not algorithm speed, was the primary barrier to clinical utility,” wrote lead author Dr. Sergey Morozov and colleagues. Cohorts included 97,000 exams for latency, 21,000 exams from 2025 for turnaround time, and a survey of 58 radiologists."
-              },
-              {
-                "t": "p",
-                "x": "Active AI adoption reached about 91% of physicians. Median total latency was about 2.06 minutes, about 72% of it from data routing; AI results arrived after the report was finalized in about 7.2% of cases, from 3% for knee MRI to 13% for chest CT."
-              },
-              {
-                "t": "p",
-                "x": "AI availability was associated with lower median turnaround times for trauma radiography (-26%) and knee MRI (-18%), while brain volumetry MRI showed no significant change. The program generated 0.69 FTE of capacity through trauma radiography alone."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI, 20개 센터 도입\n효율 개선 확인",
-          "body": "센터 20곳·AI 도구 10종·의사 58명을 살핀 유럽 연구에서 효율이 올랐다.",
-          "mini_headline": "AI로 영상의학 효율 향상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관이 AI를 폭넓게 도입하면 효율 향상을 수치로 확인할 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간에 일곱 개 업체의 AI 도구 10종을 평가했다."
+                "x": "Across seven health systems, they retrospectively evaluated 847,000 eligible high-risk medication orders. ClinicalGPT with hard constraints achieved 3.2 misses per 1000 orders, versus 9.4 for rules only, 6.1 for the original generic LLM comparator, and 4.8 for the strongest LLM comparator (RAG + LLM + rules). Its false-alert rate was 33.9, versus 38.7 for rules only."
               },
               {
                 "t": "p",
-                "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 그리고 영상의학과 전문의 58명 대상 설문으로 이뤄졌다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 적극 활용한 의사는 약 91%였다. 총 지연 시간 중앙값은 약 2.06분이었는데 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우도 약 7.2%였고, 무릎 MRI 3%에서 흉부 CT 13%까지 검사마다 달랐다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 쓸 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었다. 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램으로 외상 방사선촬영에서만 0.69 FTE만큼 업무 여력이 생겼다."
+                "x": "The offline metric did not measure clinical actions, adverse drug events, or patient harm; the findings support comparative order-time auditing performance but do not establish clinical effectiveness or reduced patient harm."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを20施設に導入\n効率向上を確認",
-          "body": "欧州20施設、AIツール10種、放射線科医58人の研究で効率向上が確認された。",
-          "mini_headline": "AIで放射線科の効率向上",
+          "headline": "EHRモデルが薬の\n処方を即時に監査",
+          "body": "七施設でClinicalGPTは1,000件中3.2件、ルールのみは9.4件を見逃した。",
+          "mini_headline": "EHRモデルが処方を監査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "リアルタイムの投薬安全監査には最新の検査歴と投薬歴が必要だが、EHRsでは決め手となる情報が古かったり欠けていたりすることがある。著者らは、時間、単位、来歴、観測可能性を符号化するClinical Trajectory Languageを用いた監査対応の基盤モデルClinicalGPTを提示した。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "JACRに掲載された研究によると、民間の放射線科診療でAIを広く導入すると、測定可能な効率向上が得られる。欧州の画像診断の専門家らは、3R Swiss Imaging Networkの外来画像センター20施設で約5年にわたる導入期間中、七社の10種類のAIツールを評価した。"
+                "x": "七つの医療システムで、対象となる高リスク薬の処方847,000件を後ろ向きに評価した。ハード制約付きのClinicalGPTの見逃しは1000件あたり3.2件で、ルールのみは9.4件、従来の汎用LLM比較モデルは6.1件、最も強力なLLM比較モデル（RAG + LLM + rules）は4.8件だった。誤警報率は33.9で、ルールのみの38.7を下回った。"
               },
               {
                 "t": "p",
-                "x": "「臨床的有用性の主な障壁は、アルゴリズムの速度ではなくインフラの遅延だった」と、筆頭著者のDr. Sergey Morozovらは記している。コホートには、遅延の分析に97,000件の検査、報告所要時間の分析に2025年の21,000件の検査、そして放射線科医58人への調査が含まれた。"
-              },
-              {
-                "t": "p",
-                "x": "AIを積極的に活用する医師は約91%に達した。総遅延時間の中央値は約2.06分で、その約72%がデータのルーティングによるものだった。レポート確定後にAIの結果が届いたケースは約7.2%で、膝MRIの3%から胸部CTの13%まで幅があった。"
-              },
-              {
-                "t": "p",
-                "x": "AIが利用できる場合、外傷の単純撮影（-26%）と膝MRI（-18%）で報告所要時間の中央値が短縮した一方、脳容積測定MRIでは有意な変化はみられなかった。このプログラムは外傷の単純撮影だけで0.69 FTE分の処理能力を生み出した。"
+                "x": "このオフライン指標は、臨床上の対応、薬物有害事象、患者への害を測定していない。結果は処方時点の監査性能の比較を裏付けるものの、臨床的有効性や患者への害の減少を立証するものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI落地20家中心\n效率提升可测",
-          "body": "一项欧洲研究覆盖20家中心、10款AI工具和58名放射科医生，发现效率提升可衡量。",
-          "mini_headline": "AI提升放射科效率",
+          "headline": "EHR模型在开药时\n即时审核医嘱",
+          "body": "七个系统中，ClinicalGPT每1,000条高风险医嘱漏3.2条，纯规则漏9.4条。",
+          "mini_headline": "EHR模型审核用药医嘱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "实时用药安全审核需要最新的化验和用药史，但EHRs中可能存在过时或缺失的关键证据。作者提出了ClinicalGPT，这是一个面向审核的基础模型，采用Clinical Trajectory Language对时间、单位、来源和可观测性进行编码。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "据发表于JACR的一项研究，在私立放射科机构中广泛采用AI可带来可衡量的效率提升。欧洲影像专家在3R Swiss Imaging Network的20家门诊影像中心、历时近5年的实施过程中，评估了来自七家供应商的10款AI工具。"
+                "x": "研究者在七个医疗系统中回顾性评估了847,000条符合条件的高风险用药医嘱。施加硬约束的ClinicalGPT每1000条医嘱漏判3.2条，而纯规则为9.4条，原始通用LLM对照为6.1条，最强的LLM对照（RAG + LLM + rules）为4.8条。其误报率为33.9，纯规则为38.7。"
               },
               {
                 "t": "p",
-                "x": "“临床效用的主要障碍是基础设施延迟，而非算法速度，”第一作者Dr. Sergey Morozov及其同事写道。研究队列包括用于延迟分析的97,000次检查、用于周转时间分析的2025年21,000次检查，以及一项针对58名放射科医生的调查。"
-              },
-              {
-                "t": "p",
-                "x": "约91%的医生积极采用了AI。总延迟中位数约为2.06分钟，其中约72%来自数据路由；约7.2%的病例中，AI结果在报告定稿后才送达，比例从膝关节MRI的3%到胸部CT的13%不等。"
-              },
-              {
-                "t": "p",
-                "x": "有AI可用时，创伤放射摄影（-26%）和膝关节MRI（-18%）的周转时间中位数降低，而脑容量测量MRI无显著变化。仅创伤放射摄影一项，该项目就释放了0.69 FTE的产能。"
+                "x": "该离线指标并未衡量临床处置、药物不良事件或患者伤害；研究结果支持其在下达医嘱时的审核性能具有比较优势，但并不能证明临床有效性或患者伤害的减少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI en 20 centros muestra\nmejoras de eficiencia",
-          "body": "Un estudio europeo con 10 herramientas de AI en 20 centros y 58 radiólogos halló mejoras medibles de eficiencia.",
-          "mini_headline": "La AI mejora la eficiencia en radiología",
+          "headline": "Un modelo de EHR audita las\nórdenes de fármacos al emitirse",
+          "body": "En siete sistemas, ClinicalGPT omitió 3.2 órdenes de fármacos de alto riesgo por 1,000, frente a 9.4 con solo reglas.",
+          "mini_headline": "Un modelo de EHR audita órdenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La auditoría de seguridad de la medicación en tiempo real requiere historiales de laboratorio y de medicación actualizados, pero las EHRs pueden contener evidencia decisiva desactualizada o ausente. Los autores presentan ClinicalGPT, un modelo fundacional preparado para auditoría que usa Clinical Trajectory Language para codificar tiempo, unidades, procedencia y observabilidad."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "La adopción generalizada de AI en una consulta privada de radiología puede producir mejoras de eficiencia medibles, según un estudio publicado en JACR. Expertos europeos en imagen evaluaron 10 herramientas de AI de siete proveedores durante una implementación de casi 5 años en 20 centros de imagen ambulatorios de 3R Swiss Imaging Network."
+                "x": "En siete sistemas de salud, evaluaron de forma retrospectiva 847,000 órdenes de medicamentos de alto riesgo elegibles. ClinicalGPT con restricciones estrictas logró 3.2 omisiones por cada 1000 órdenes, frente a 9.4 con solo reglas, 6.1 del comparador LLM genérico original y 4.8 del comparador LLM más fuerte (RAG + LLM + rules). Su tasa de falsas alertas fue de 33.9, frente a 38.7 con solo reglas."
               },
               {
                 "t": "p",
-                "x": "“La latencia de la infraestructura, no la velocidad del algoritmo, fue la principal barrera para la utilidad clínica”, escribieron el autor principal, Dr. Sergey Morozov, y sus colegas. Las cohortes incluyeron 97,000 estudios para la latencia, 21,000 estudios de 2025 para el tiempo de respuesta y una encuesta a 58 radiólogos."
+                "x": "La métrica offline no midió acciones clínicas, eventos adversos a medicamentos ni daño al paciente; los hallazgos respaldan el rendimiento comparativo de auditoría en el momento de la orden, pero no establecen eficacia clínica ni una reducción del daño al paciente."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "EHR 모델이 약물\n처방 시점에 감사한다",
+          "body": "일곱 곳서 ClinicalGPT는 1,000건당 3.2건, 규칙은 9.4건 놓쳤다.",
+          "mini_headline": "EHR 모델이 약물 처방을 감사한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "실시간 투약 안전 감사에는 최신 검사 기록과 투약 이력이 필요하다. 그런데 여러 병원의 EHRs에는 결정적 근거가 오래됐거나 빠져 있기도 하다. 연구진은 Clinical Trajectory Language로 시간, 단위, 출처, 관측 가능성을 표현하는 감사용 파운데이션 모델 ClinicalGPT를 제시했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "La adopción activa de AI alcanzó a cerca del 91% de los médicos. La latencia total mediana fue de unos 2.06 minutos, cerca del 72% de ella debida al enrutamiento de datos; los resultados de AI llegaron después de finalizar el informe en cerca del 7.2% de los casos, desde el 3% en la MRI de rodilla hasta el 13% en la CT de tórax."
+                "x": "연구진은 일곱 개 의료 시스템의 해당 고위험 투약 처방 847,000건을 후향적으로 평가했다. 처방 1000건당 누락은 강한 제약을 건 ClinicalGPT가 3.2건이었다. 규칙만 쓴 방식은 9.4건, 원래의 범용 LLM 비교군은 6.1건, 가장 강한 LLM 비교군(RAG + LLM + rules)은 4.8건이었다. 오경보율도 33.9로 규칙만 쓴 방식의 38.7보다 낮았다."
               },
               {
                 "t": "p",
-                "x": "La disponibilidad de AI se asoció con menores tiempos de respuesta medianos en la radiografía de traumatología (-26%) y en la MRI de rodilla (-18%), mientras que la MRI de volumetría cerebral no mostró cambios significativos. El programa generó 0.69 FTE de capacidad solo con la radiografía de traumatología."
+                "x": "다만 이 오프라인 지표로는 임상 조치나 약물 이상 사례, 환자 위해를 재지 않았다. 처방 시점 감사 성능에서 앞선다는 근거는 되지만 임상적 효과나 환자 위해 감소까지 입증하지는 않는다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI, 20개 센터 도입\n효율 개선 확인",
-          "body": "20개 센터·AI 도구 10종·의사 58명의 유럽 연구에서 효율 향상이 나타났다.",
-          "mini_headline": "AI로 영상의학 효율 향상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
-              },
-              {
-                "t": "p",
-                "x": "JACR에 실린 연구에 따르면 민간 영상의학 기관에서 AI를 폭넓게 도입하면 측정 가능한 효율 향상을 얻을 수 있다. 유럽 영상의학 전문가들은 3R Swiss Imaging Network의 외래 영상센터 20곳에서 약 5년에 걸친 도입 기간 동안 일곱 개 업체의 AI 도구 10종을 평가했다."
-              },
-              {
-                "t": "p",
-                "x": "주저자 Dr. Sergey Morozov와 동료들은 “임상적 유용성의 주된 장벽은 알고리즘 속도가 아니라 인프라 지연이었다”고 썼다. 코호트는 지연 시간 분석용 검사 97,000건, 판독 소요 시간 분석용 2025년 검사 21,000건, 영상의학과 전문의 58명 대상 설문으로 구성됐다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 적극 활용한 의사는 약 91%에 달했다. 총 지연 시간 중앙값은 약 2.06분이었고 그중 약 72%가 데이터 라우팅에서 생겼다. 판독 보고서가 확정된 뒤에야 AI 결과가 도착한 경우는 약 7.2%로, 무릎 MRI 3%부터 흉부 CT 13%까지 분포했다."
-              },
-              {
-                "t": "p",
-                "x": "AI를 사용할 수 있을 때 외상 방사선촬영(-26%)과 무릎 MRI(-18%)의 판독 소요 시간 중앙값이 줄었고, 뇌 용적 측정 MRI에서는 유의한 변화가 없었다. 이 프로그램은 외상 방사선촬영만으로 0.69 FTE의 업무 여력을 만들어냈다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "AIを20施設に導入\n効率向上を確認",
-          "body": "欧州20施設、AIツール10種、放射線科医58人の研究で効率向上が確認された。",
-          "mini_headline": "AIで放射線科の効率向上",
+          "headline": "EHRモデルが薬の\n処方を即時に監査",
+          "body": "七施設でClinicalGPTは1,000件中3.2件、ルールのみは9.4件を見逃した。",
+          "mini_headline": "EHRモデルが処方を監査",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "リアルタイムの投薬安全監査には最新の検査歴と投薬歴が必要だが、EHRsでは決め手となる情報が古かったり欠けていたりすることがある。著者らは、時間、単位、来歴、観測可能性を符号化するClinical Trajectory Languageを用いた監査対応の基盤モデルClinicalGPTを提示した。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "JACRに掲載された研究によると、民間の放射線科診療でAIを広く導入すると、測定可能な効率向上が得られる。欧州の画像診断の専門家らは、3R Swiss Imaging Networkの外来画像センター20施設で約5年にわたる導入期間中、七社の10種類のAIツールを評価した。"
+                "x": "七つの医療システムで、対象となる高リスク薬の処方847,000件を後ろ向きに評価した。ハード制約付きのClinicalGPTの見逃しは1000件あたり3.2件で、ルールのみは9.4件、従来の汎用LLM比較モデルは6.1件、最も強力なLLM比較モデル（RAG + LLM + rules）は4.8件だった。誤警報率は33.9で、ルールのみの38.7を下回った。"
               },
               {
                 "t": "p",
-                "x": "「臨床的有用性の主な障壁は、アルゴリズムの速度ではなくインフラの遅延だった」と、筆頭著者のDr. Sergey Morozovらは記している。コホートには、遅延の分析に97,000件の検査、報告所要時間の分析に2025年の21,000件の検査、そして放射線科医58人への調査が含まれた。"
-              },
-              {
-                "t": "p",
-                "x": "AIを積極的に活用する医師は約91%に達した。総遅延時間の中央値は約2.06分で、その約72%がデータのルーティングによるものだった。レポート確定後にAIの結果が届いたケースは約7.2%で、膝MRIの3%から胸部CTの13%まで幅があった。"
-              },
-              {
-                "t": "p",
-                "x": "AIが利用できる場合、外傷の単純撮影（-26%）と膝MRI（-18%）で報告所要時間の中央値が短縮した一方、脳容積測定MRIでは有意な変化はみられなかった。このプログラムは外傷の単純撮影だけで0.69 FTE分の処理能力を生み出した。"
+                "x": "このオフライン指標は、臨床上の対応、薬物有害事象、患者への害を測定していない。結果は処方時点の監査性能の比較を裏付けるものの、臨床的有効性や患者への害の減少を立証するものではない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI落地20家中心\n效率提升可测",
-          "body": "一项欧洲研究覆盖20家中心、10款AI工具和58名放射科医生，发现效率提升可衡量。",
-          "mini_headline": "AI提升放射科效率",
+          "headline": "EHR模型在开药时\n即时审核医嘱",
+          "body": "七个系统中，ClinicalGPT每1,000条高风险医嘱漏3.2条，纯规则漏9.4条。",
+          "mini_headline": "EHR模型审核用药医嘱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "实时用药安全审核需要最新的化验和用药史，但EHRs中可能存在过时或缺失的关键证据。作者提出了ClinicalGPT，这是一个面向审核的基础模型，采用Clinical Trajectory Language对时间、单位、来源和可观测性进行编码。"
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "据发表于JACR的一项研究，在私立放射科机构中广泛采用AI可带来可衡量的效率提升。欧洲影像专家在3R Swiss Imaging Network的20家门诊影像中心、历时近5年的实施过程中，评估了来自七家供应商的10款AI工具。"
+                "x": "研究者在七个医疗系统中回顾性评估了847,000条符合条件的高风险用药医嘱。施加硬约束的ClinicalGPT每1000条医嘱漏判3.2条，而纯规则为9.4条，原始通用LLM对照为6.1条，最强的LLM对照（RAG + LLM + rules）为4.8条。其误报率为33.9，纯规则为38.7。"
               },
               {
                 "t": "p",
-                "x": "“临床效用的主要障碍是基础设施延迟，而非算法速度，”第一作者Dr. Sergey Morozov及其同事写道。研究队列包括用于延迟分析的97,000次检查、用于周转时间分析的2025年21,000次检查，以及一项针对58名放射科医生的调查。"
-              },
-              {
-                "t": "p",
-                "x": "约91%的医生积极采用了AI。总延迟中位数约为2.06分钟，其中约72%来自数据路由；约7.2%的病例中，AI结果在报告定稿后才送达，比例从膝关节MRI的3%到胸部CT的13%不等。"
-              },
-              {
-                "t": "p",
-                "x": "有AI可用时，创伤放射摄影（-26%）和膝关节MRI（-18%）的周转时间中位数降低，而脑容量测量MRI无显著变化。仅创伤放射摄影一项，该项目就释放了0.69 FTE的产能。"
+                "x": "该离线指标并未衡量临床处置、药物不良事件或患者伤害；研究结果支持其在下达医嘱时的审核性能具有比较优势，但并不能证明临床有效性或患者伤害的减少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI en 20 centros muestra\nmejoras de eficiencia",
-          "body": "Un estudio europeo con 10 herramientas de AI en 20 centros y 58 radiólogos halló mejoras medibles de eficiencia.",
-          "mini_headline": "La AI mejora la eficiencia en radiología",
+          "headline": "Un modelo de EHR audita las\nórdenes de fármacos al emitirse",
+          "body": "En siete sistemas, ClinicalGPT omitió 3.2 órdenes de fármacos de alto riesgo por 1,000, frente a 9.4 con solo reglas.",
+          "mini_headline": "Un modelo de EHR audita órdenes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "La auditoría de seguridad de la medicación en tiempo real requiere historiales de laboratorio y de medicación actualizados, pero las EHRs pueden contener evidencia decisiva desactualizada o ausente. Los autores presentan ClinicalGPT, un modelo fundacional preparado para auditoría que usa Clinical Trajectory Language para codificar tiempo, unidades, procedencia y observabilidad."
+              },
+              {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2023-05/microsoftteams-image_13.png.webp?itok=yqa6b9N2"
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "La adopción generalizada de AI en una consulta privada de radiología puede producir mejoras de eficiencia medibles, según un estudio publicado en JACR. Expertos europeos en imagen evaluaron 10 herramientas de AI de siete proveedores durante una implementación de casi 5 años en 20 centros de imagen ambulatorios de 3R Swiss Imaging Network."
+                "x": "En siete sistemas de salud, evaluaron de forma retrospectiva 847,000 órdenes de medicamentos de alto riesgo elegibles. ClinicalGPT con restricciones estrictas logró 3.2 omisiones por cada 1000 órdenes, frente a 9.4 con solo reglas, 6.1 del comparador LLM genérico original y 4.8 del comparador LLM más fuerte (RAG + LLM + rules). Su tasa de falsas alertas fue de 33.9, frente a 38.7 con solo reglas."
               },
               {
                 "t": "p",
-                "x": "“La latencia de la infraestructura, no la velocidad del algoritmo, fue la principal barrera para la utilidad clínica”, escribieron el autor principal, Dr. Sergey Morozov, y sus colegas. Las cohortes incluyeron 97,000 estudios para la latencia, 21,000 estudios de 2025 para el tiempo de respuesta y una encuesta a 58 radiólogos."
+                "x": "La métrica offline no midió acciones clínicas, eventos adversos a medicamentos ni daño al paciente; los hallazgos respaldan el rendimiento comparativo de auditoría en el momento de la orden, pero no establecen eficacia clínica ni una reducción del daño al paciente."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "EHR 모델이 약물\n처방 시점에 감사한다",
+          "body": "일곱 곳서 ClinicalGPT는 1,000건당 3.2건, 규칙은 9.4건 놓쳤다.",
+          "mini_headline": "EHR 모델이 약물 처방을 감사한다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "실시간 투약 안전 감사에는 최신 검사 기록과 투약 이력이 필요하지만, 여러 병원의 EHRs에는 결정적 근거가 오래됐거나 빠져 있을 수 있다. 연구진은 Clinical Trajectory Language로 시간, 단위, 출처, 관측 가능성을 표현하는 감사용 파운데이션 모델 ClinicalGPT를 제시했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
               },
               {
                 "t": "p",
-                "x": "La adopción activa de AI alcanzó a cerca del 91% de los médicos. La latencia total mediana fue de unos 2.06 minutos, cerca del 72% de ella debida al enrutamiento de datos; los resultados de AI llegaron después de finalizar el informe en cerca del 7.2% de los casos, desde el 3% en la MRI de rodilla hasta el 13% en la CT de tórax."
+                "x": "연구진은 일곱 개 의료 시스템에서 해당 고위험 투약 처방 847,000건을 후향적으로 평가했다. 강한 제약을 건 ClinicalGPT의 누락은 처방 1000건당 3.2건이었고, 규칙만 쓴 방식은 9.4건, 원래의 범용 LLM 비교군은 6.1건, 가장 강한 LLM 비교군(RAG + LLM + rules)은 4.8건이었다. 오경보율은 33.9로, 규칙만 쓴 방식의 38.7보다 낮았다."
               },
               {
                 "t": "p",
-                "x": "La disponibilidad de AI se asoció con menores tiempos de respuesta medianos en la radiografía de traumatología (-26%) y en la MRI de rodilla (-18%), mientras que la MRI de volumetría cerebral no mostró cambios significativos. El programa generó 0.69 FTE de capacidad solo con la radiografía de traumatología."
+                "x": "이 오프라인 지표는 임상 조치, 약물 이상 사례, 환자 위해를 측정하지 않았다. 결과는 처방 시점 감사 성능의 비교 우위를 뒷받침하지만, 임상적 효과나 환자 위해 감소를 입증하지는 않는다."
               }
             ]
           }

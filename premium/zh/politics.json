@@ -1560,6 +1560,130 @@
           "x": "章程将AI风险的责任归于实验室，并写道：“联邦政府的职责是……执行我国法律，使我们共和国的基本原则得到维护和推进。”"
         }
       ]
+    },
+    "politics/politics-usa-today-sues-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "据Reuters此前报道，USA Today Co.及其旗下多家地方报纸正起诉OpenAI，指控该公司复制了“数十万”篇文章来训练其AI模型。该出版商在周四提交的诉状中要求超过2.5亿美元的赔偿，称OpenAI未经授权使用其内容，已对旗下媒体造成“真实且持续的”损害。"
+        },
+        {
+          "t": "p",
+          "x": "这只是OpenAI近来遭遇的一系列版权诉讼中最新的一起。除The New York Times提起的版权诉讼外，OpenAI还面临The Intercept、CNET母公司Ziff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times以及由近400家地方报纸组成的联盟的法律行动。"
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co.在诉状中称：“OpenAI的商业成功建立在大规模版权侵权之上。”诉状指控OpenAI从未就使用其内容征求许可，而是“拿走”USA Today的内容来“打造价值数千亿美元的产品”。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahoman等多家地方媒体也是此案原告。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI未立即回应The Verge的置评请求。"
+        }
+      ]
+    },
+    "politics/politics-data-center-power-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+          "cap": "插图：Sarah Grillo/Axios"
+        },
+        {
+          "t": "p",
+          "x": "立法者正考虑让数据中心承担新的成本与限制，同时加快建设支撑AI热潮所需的能源基础设施。这些两党条款于上周公布，是参议院一项旨在加快能源审批的更广泛立法的一部分。法案提出者表示，该法案将加速能源开发，同时确保数据中心为电网升级支付应有份额。"
+        },
+        {
+          "t": "p",
+          "x": "数据中心既要分摊现有输电网络的费用，也要承担为其供电所需的新增输电成本。规模至少20 MW的新建数据中心须承担其给整个电力系统带来的增量成本，各州还将获得很大空间采取更进一步的措施。"
+        },
+        {
+          "t": "p",
+          "x": "Data Center Coalition表示仍在审阅该立法。Amazon的Craig Sundstrom称，该法案\"可能释放更快建设新发电和输电设施所需的投资\"；一位科技行业人士则称部分条款是\"前所未有的歧视性待遇\"。Cato Institute的Travis Fisher表示\"温和支持\"。"
+        },
+        {
+          "t": "p",
+          "x": "由于参议院在中期选举前休会，各利益相关方有时间在可能到来的跛脚鸭会期辩论前推动修改。"
+        }
+      ]
+    },
+    "politics/politics-singapore-mas-fintech-ai-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "同时担任中央银行和金融业监管机构的新加坡金融管理局(MAS)周三发布了首份《金融机构人工智能风险管理指引》，要求本地所有业内机构在部署AI用例前寻求独立审查。"
+        },
+        {
+          "t": "p",
+          "x": "MAS警告称，AI的复杂性可能导致意外或更具偏见的行为，并认为生成式AI风险更高，还担心智能体AI“可能进一步放大这些风险”。它希望金融机构将风险框架扩展至AI，并由董事会和高级管理层负责。"
+        },
+        {
+          "t": "p",
+          "x": "指引写道：“在部署之前，FI应将AI用例（包括其底层系统或模型）交由未参与其开发的各方进行审查。”MAS还要求持续监测、及时更新的AI清单以及针对高风险用途的应急计划，并表示“FIs仍须对其所提供服务中使用的AI负责，包括由第三方开发、运营或提供的AI”。"
+        },
+        {
+          "t": "p",
+          "x": "该指引将于2027年10月7日生效。"
+        }
+      ]
+    },
+    "politics/politics-ecosia-drops-mistral-chinese-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+          "cap": "Christian Kroll在2019年里斯本Web Summit上发言。| Web Summit via Wikimedia"
+        },
+        {
+          "t": "p",
+          "x": "一家被政府服务采用的柏林搜索引擎正弃用其法国AI合作伙伴Mistral，转而采用包括中国模型在内的开源模型，其首席执行官向POLITICO透露。Ecosia创始人兼首席执行官Christian Kroll表示：“我们对Mistral的质量感到失望。”他称其模型比竞争对手“落后一年”。"
+        },
+        {
+          "t": "p",
+          "x": "Kroll说，Ecosia在5月用Mistral取代了OpenAI，但反复遇到技术问题。他还质疑Mistral是否契合Ecosia的环保目标及其独立性：“在我们看来，Mistral依赖国际投资者的投资，这并非真正的主权。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+          "cap": "Guillaume Lample在2026年5月28日巴黎AI Now Summit上发言。| Stephane de Sakutin/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Mistral联合创始人Guillaume Lample表示：“我建议他们尽快试用我们的新模型。”Ecosia正与托管Qwen、GLM和Kimi等模型的Melious合作；Kroll称成本大约减少了一半。一些专家对他所称模型的政治偏见可以通过技术手段解决的观点提出异议。"
+        }
+      ]
+    },
+    "politics/politics-pentagon-tradewinds-video-ai-buys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+          "cap": "图片合成：Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "国防部一项鲜为人知的采购计划Tradewinds，根据不超过五分钟的产品视频，向潜在承包商授予特殊资格，使政府能更快采购其AI产品。该计划由DOD首席数字与人工智能办公室（CDAO）管理。"
+        },
+        {
+          "t": "p",
+          "x": "进入Tradewinds Solutions Marketplace的产品被视为“post-competitive”（已完成竞争），可将授标周期缩短数月。一名DOD官员表示，国防部已有数次借助Tradewinds在不到一周内完成授标。OpenAI、Anthropic和Google均列为参与方；三家公司均拒绝置评。"
+        },
+        {
+          "t": "p",
+          "x": "今年，军方正征集可帮助“提升部队杀伤力”的AI技术，以及协助联合目标打击（包括所谓“杀伤链”执行）的智能体方案。该资格让“其他交易”协议（OTs）更易使用；依据法律，五角大楼可在不通知国会的情况下，在单份OT上支出最多$500 million。"
+        },
+        {
+          "t": "p",
+          "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
+        }
+      ]
     }
   }
 }

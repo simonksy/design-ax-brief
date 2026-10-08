@@ -6994,6 +6994,151 @@
           "x": "26-IDビームラインでの試験では、エージェントは集積回路内の二つの領域の境界面を探すよう指示され、デバイスの深部から正しい地点までたどり着いた。自律走行する顕微鏡へ向けた一歩である。"
         }
       ]
+    },
+    "science/science-gene-function-microscopy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+          "cap": "グラフィカルアブストラクト。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+        },
+        {
+          "t": "p",
+          "x": "LMU Munich's Gene Center、Max Planck Institute of Biochemistry、Helmholtz Munichの研究者らは、Veit Hornung、Matthias Mann、Fabian Theisの主導のもと、AIを顕微鏡観察および遺伝子スクリーニングと組み合わせた技術SPARCSをCellに報告した。"
+        },
+        {
+          "t": "p",
+          "x": "AIが合計7000万個の細胞の顕微鏡画像を解析し、複雑な視覚的特徴をスクリーニングする。これにより、細胞に現れた効果をその原因となる遺伝的変化と結びつけられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+          "cap": "Credit: Niklas Schmacke"
+        },
+        {
+          "t": "p",
+          "x": "その後、注目する細胞を無傷のまま単離し、質量分析でタンパク質組成を調べる。"
+        },
+        {
+          "t": "p",
+          "x": "細胞のリサイクル機構であるオートファジーのgenome-wideスクリーニングでは、既知の制御因子の多くを再発見し、新たな制御因子も見つけた。さらに研究チームは、タンパク質GPHRが調節するGolgiの酸性度が、免疫センサーSTINGの初期輸送とその後の活性化に影響することも突き止めた。"
+        }
+      ]
+    },
+    "science/science-gravitational-lenses-desi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+          "cap": "DESI Legacy Imaging Surveysのデータで見つかった重力レンズの例。"
+        },
+        {
+          "t": "p",
+          "x": "国際研究チームは、2026年8月に宇宙最大の2D地図となったDESI Legacy Imaging Surveysを解析した。この地図は約5.6兆ピクセル、40億近くの天体を含む。"
+        },
+        {
+          "t": "p",
+          "x": "残差ニューラルネットワークがサーベイ画像を探索し、約3,500個の潜在的なレンズのカタログを作成した。そこから76個の候補を追観測の対象に選んだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+          "cap": "手前にある巨大な銀河が、その背後のより遠い銀河を拡大して見せる仕組み。"
+        },
+        {
+          "t": "p",
+          "x": "2022年から2024年にかけてESO's Very Large TelescopeのMUSE装置で行った面分光観測により、候補のうち70個が本物の重力レンズと確認された。成果はThe Astrophysical Journal Supplement Seriesに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "これらのレンズはDESI Strong Lens Foundry Projectに加わり、Hubble、JWST、Roman、Rubin Observatory's LSSTを使った暗黒物質、銀河構造、宇宙論の研究に役立つと期待されている。"
+        }
+      ]
+    },
+    "science/science-chatbot-tipping-formula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+          "cap": "AIとの会話。Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "George Washington Universityの物理学者Neil F. JohnsonとFrank Yingjie Huoは、AIチャットボットが許容できる回答から、有害な助言や誤解を招く情報といった望ましくない回答へと転じるタイミングを予測する数式をPatternsに報告した。"
+        },
+        {
+          "t": "p",
+          "x": "この式はモデル内の単一のアテンションユニットから導かれる。転換は許容できる回答が何度か続いた後に起こることもあり、会話の中での質問の順序が結果を左右することもある。"
+        },
+        {
+          "t": "p",
+          "x": "その予測は、三社による七つのオープンモデルで生じた転換事例19件のうち18件と一致した。"
+        },
+        {
+          "t": "p",
+          "x": "著者らが特に懸念するのは、cloud-basedの安全フィルターが機能しないオフラインのAIだ。将来のデバイスには、会話が危険な領域へ流れたときに警告を出す機能を組み込めるのではないかと提案している。"
+        }
+      ]
+    },
+    "science/science-co2-methanol-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+          "cap": "CO₂の水素化によるメタノール生成を描いた銅触媒の表面。Credit: Shivam Chaturvedi"
+        },
+        {
+          "t": "p",
+          "x": "CO₂の水素化では触媒表面で何千もの微小なステップが進むため、モデル研究者は従来、起こりそうな反応を少数だけ選んできた。そのため、重要な反応が何百も見落とされている可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "Nature Communicationsで報告したIndian Institute of Scienceの研究者らは、量子力学的(quantum-mechanical)シミュレーションから152反応のデータベースを構築し、活性化エネルギー障壁を予測する機械学習モデルを訓練した。さらに自動化ツールを使い、銅上の反応ネットワークを9,389の素反応へと拡張した。"
+        },
+        {
+          "t": "p",
+          "x": "「当初検討した152の反応でプロセスをモデル化したところ、ネットワークは主生成物をメタノールではなくギ酸と誤って予測した」とAnanth Govind Rajanは語る。拡張したネットワークはCO₂転化が約40倍(40-fold)に増えると予測し、メタノールと一酸化炭素を主生成物として正しく特定した。"
+        },
+        {
+          "t": "p",
+          "x": "また、水素が分子状のH₂のまま中間体へ直接移り得ることも明らかになった。"
+        }
+      ]
+    },
+    "science/science-unique-games-proof-race": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
+          "cap": "James O’Brien(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月11日の朝、「unique games」予想の第一人者であるMITのDor Minzerのもとにメッセージが届き始めた。OpenAIがこの予想の証明を発見したとされ、近いうちに公開するかもしれないというのだ。"
+        },
+        {
+          "t": "p",
+          "x": "Minzerが証明したわけではない。だが彼と大学院生のYumou Fei、Shuo Wangは最近、密接に関連する問題で節目となる結果を証明していた。三日後、彼らは95ページの論文をオンラインで公開し、「数学的には完成しているが、共有したかった形にはなっていない」との但し書きを添えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
+          "cap": "Dor Minzerと学生たちは、噂のAI証明に先を越されないよう、節目となる結果を急いで公開した。提供:Dor Minzer"
+        },
+        {
+          "t": "p",
+          "x": "10月6日、OpenAIは数学の多くの分野にわたる376件の他の成果とともに、unique games予想の証明を発表した。そこにはKhotの2-to-1予想のLean-verified証明も含まれていたが、人間による編集も独立した専門家の査読も経ていないAI-generatedの原稿だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
+          "cap": "Subhash Khotはまだ大学院生だった頃にunique games予想を提起した。Béatrice de Géa(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "三人はKhotの2-to-1 games予想よりわずかに弱い4-to-1版を証明した。これは、一部の3-colorableグラフは色をどれだけ追加しても塗り分けが難しいままであることを意味する。PrincetonのMark Bravermanは「プレスリリースによる数学は、数学にとってあまり健全ではない」と語った。"
+        }
+      ]
     }
   }
 }

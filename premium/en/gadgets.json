@@ -6946,6 +6946,128 @@
           "x": "Core costs $3,499 in the US; the first batch sold out on day one and ships at the end of this month. A top-spec Mac mini for AI runs $3,199, but lacks Core's dedicated local-AI software and privacy features."
         }
       ]
+    },
+    "gadgets/gadgets-natura-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents. With a press of your finger, you can ask an AI agent to complete a task, capture thoughts, and get things done without reaching for your phone — and the ring doubles as a health tracker."
+        },
+        {
+          "t": "p",
+          "x": "At launch it connects with agents and apps including Meta's Muse, Instinct, Grok Bot, Claude and ChatGPT, and users can pick which agent handles which task. Responses arrive via headphones, an iPhone Live Activity or the NatureOS app. Preorders open next month, shipping in December or January."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+        },
+        {
+          "t": "p",
+          "x": "\"Ultimately, the main interface between users and technology is going to be the ring,\" founder Carlo Edoardo Ferraris said. After a three- to six-month free period, Natura plans a $9 monthly subscription."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "The ring tracks heart rate, HRV, sleep stages, steps and skin temperature, and lasts six to 12 days per charge."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple has announced its second event of the fall, teased with the phrase \"Welcome home,\" for October 13 at 9AM ET in Tribeca, New York. Along with refreshed versions of the Apple TV and HomePod mini, Apple is said to unveil its long-expected HomePad."
+        },
+        {
+          "t": "p",
+          "x": "Apple has long been rumored to be working on a smart display to rival Amazon's Echo Show, and Bloomberg's Mark Gurman reported that Apple delayed the device until Siri AI was ready."
+        },
+        {
+          "t": "p",
+          "x": "The HomePad is said to have a seven-inch display, a new operating system dubbed homeOS and a StandBy-like dashboard. Rumors suggest it will use face and voice recognition to personalize content for whoever is using it, alongside smart home control, FaceTime, streaming and intercom."
+        },
+        {
+          "t": "p",
+          "x": "The new Apple TV and HomePod mini are likely getting spec upgrades so they can support Siri AI."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-physical-ai-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+          "cap": "Agility Robotics' Digit humanoid robot uses Nvidia's Halos system to help safely work around people. Credit: Agility Robotics"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia's Halos system launched in 2025 to help developers implement guardrails in self-driving cars, and in June 2026 the company extended it with Halos for Robotics — for warehouse robots, factory humanoids and even surgical robots. \"A thing we thought is going to be the next bottleneck is safety,\" said Nvidia's Amit Goel."
+        },
+        {
+          "t": "p",
+          "x": "The full stack spans the IGX Thor module with an independent safety processor, a Halos OS that monitors \"every hardware block\" and \"every software library,\" the Holoscan Sensor Bridge, simulation and an inspection lab program. Because a robot vacuum and a warehouse forklift define safety differently, developers can program custom safety functions."
+        },
+        {
+          "t": "p",
+          "x": "Agility Robotics was first to put Halos inside its Digit 5 humanoid, letting it work near people without external sensors. \"Now the robot is literally unchained,\" Goel said. Boston Dynamics, KION Group and LG are also on board."
+        }
+      ]
+    },
+    "gadgets/gadgets-cybopal-monitor-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+          "cap": "Image credit: Cybopal/Kickstarter"
+        },
+        {
+          "t": "p",
+          "x": "The Kickstarter-funded CyboPal ONE bolts a 27-inch 4K, 160Hz display to a six-axis robotic arm that clamps to your desk, keeps an eye on where you are, and moves the screen to match. The $1,599 Super Early Bird price compares with a planned $2,499 retail price."
+        },
+        {
+          "t": "p",
+          "x": "It carries its own computer: an eight-core Rockchip RK3588 with a 6 TOPS NPU, 8GB of RAM and 128GB of storage in a \"Linux AI Compute Base\" that handles face tracking, gesture recognition and 3D spatial sensing on the device. A binocular 3D sensor handles obstacle avoidance and path planning, and face tracking repositions the screen in under four seconds."
+        },
+        {
+          "t": "p",
+          "x": "The Pauli voice agent runs in a desktop client, and you still need a laptop or desktop for actual compute. The campaign, closing November 21, 2026, sits at over 11,000% of its HK$80,000 goal — but TechRadar notes backers are betting on software that hasn't been independently tested."
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-laptop-ultra-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+        },
+        {
+          "t": "p",
+          "x": "Back in June, Nvidia announced agreements with Microsoft and other PC makers to develop AI- and agent-ready Windows PCs based on its RTX Spark chip. On Wednesday, at an event in San Francisco during Tech Week, Microsoft revealed the specs and price for its new Surface Laptop Ultra. It comes in two base models, starting at $2,600 and $3,700, with options up to $5,900. (Microsoft says the highest-end device is already out of stock.)"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft also revealed the Surface RTX Spark Dev Box workstation, which starts at $6,000 and comes with VS Code, GitHub Copilot CLI, WSL, and PowerShell 7. Both are designed to run AI models on-device locally (and for free)."
+        },
+        {
+          "t": "p",
+          "x": "They run a revamped Windows 11 with a feature called “Execution Containers,” which makes it easier to sandbox AI agents; it will be available for all Windows 11 users, CEO Satya Nadella said. “You need to have this harnessed layer that is able to take multiple models plus context, plus memory, and the action space,” he said."
+        },
+        {
+          "t": "p",
+          "x": "The devices are clearly aimed at developers: Microsoft is offering up to $1,000 off to people who trade in a MacBook Pro. Dell also detailed its Nvidia-RTX Spark XPS 16 Creator Edition, priced at $3,800."
+        }
+      ]
     }
   }
 }

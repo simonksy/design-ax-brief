@@ -1,221 +1,288 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-ads-uploader-meta-agent-batches",
+      "id": "marketing-meta-adweek-ai-tools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
-      "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
-      "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
+      "headline": "Meta, 광고주용\n새 AI 도구 시험",
+      "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
+      "mini_headline": "Meta, 새 AI 광고 도구 시험",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
+      "source": "Marketing Dive",
+      "url": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 크리에이티브 인사이트를 새로 넣고, 기억하는 맥락도 늘린다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
+          },
+          {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-            "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
+            "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
           },
           {
             "t": "p",
-            "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사 설명으로는 서비스에 직접 연결된 AI 에이전트가 이 플랫폼에서 제출된 배치 36,289개 중 17.5%를 냈다."
+            "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험 중이다. 에이전트 기능을 더해 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅과 광고 예산을 바꾸게 한다. 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
           },
           {
             "t": "p",
-            "x": "이 비율로 계산하면 한 달 에이전트 배치는 약 6,350개, 30-day 기준 하루 약 212개다. 같은 발표를 보면 그달 만들어진 Meta 광고는 286,137개로, 하루 약 9,500개꼴이다."
+            "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
           },
           {
             "t": "p",
-            "x": "플랫폼의 MCP 서버나 command-line 인터페이스로 AI 에이전트가 넣은 배치는 agent-made로 센다. 자율성이 얼마나 되느냐가 아니라 어떤 경로로 들어왔느냐가 기준이다. 사람이 감독한 배치와 그렇지 않은 배치는 발표 자료에서 따로 나누지 않았다."
+            "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
           },
           {
             "t": "p",
-            "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
-          },
-          {
-            "t": "p",
-            "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
+            "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
           }
         ]
       },
+      "lead_image": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
       "text": {
         "en": {
-          "headline": "One in six Meta ad batches\nnow come from AI agents",
-          "body": "Ads Uploader data shows 17.5% of 36,289 Meta ad batches came from AI agents, about 212 agent batches a day.",
-          "mini_headline": "Agents send 1 in 6 Meta ad batches",
+          "headline": "Meta tests new AI tools\nfor advertisers",
+          "body": "Meta is testing importing and creative insight features plus better conversational guidance in its AI tools.",
+          "mini_headline": "Meta tests new AI ad tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta announced a range of ad updates at its Advertising Week presentation in New York, including an improved business assistant, an expansion of its creative tools for brands and new shopping experiences."
+              },
+              {
+                "t": "p",
+                "x": "Meta is beefing up its AI-powered business assistant, which provides conversational guidance on key ad creation elements, by adding new creative insights and giving it more memory and context: “the context of what you tried last quarter, your seasonality, and the goals you’ve described,” Meta said."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "One empty chair, one self-typing machine: the 1 in 6 Meta ad launches run by AI at Ads Uploader"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Ads Uploader, a bulk ad-submission platform for Meta, published September 2026 figures showing that AI agents connected directly to the service accounted for 17.5% of the 36,289 batches submitted through it, according to the company."
+                "x": "Meta is also testing importing tools that let brands upload their strategy and brand voice guidelines, adding agentic capacity so the assistant can generate creative, update targeting and change an ad's budget via conversational prompts, and testing scheduled tasks such as recurring performance reports and alerts."
               },
               {
                 "t": "p",
-                "x": "Applied to the total, that share works out to about 6,350 agent batches over the month, or roughly 212 a day on a 30-day window. The same release puts the month's output at 286,137 Meta ads, about 9,500 a day."
+                "x": "Ads Creative Studio is expanding to more advertisers, the Meta Ads MCP server now supports more use cases for third-party AI tools, and Customer Lifecycle Strategy is available to all advertisers."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "A batch counts as agent-made when an AI agent submits it through the platform's MCP server or its command-line interface. The definition is based on the channel, not on the degree of autonomy, and the release does not split supervised from unsupervised batches."
+                "x": "In Advantage+ creative, generating video from existing static assets is now generally available; Ads Creative Studio adds tools to change hooks, adjust audio and clip length, add text overlays and captions, or change end scenes."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "\"A lot of advertisers already have an agent doing the setup work,\" said Chris Pollard, founder of Ads Uploader. \"Last month about 1 in 6 batch launches on our platform came from one.\""
-              },
-              {
-                "t": "p",
-                "x": "The data is supplied by the vendor, covers a single month and a single ad platform, and has not been audited. The figures arrive as Meta, Amazon and X open their own ad systems to agents."
+                "x": "Meta is working with Shopify on direct checkout via Meta Business Agent on Messenger, and testing similar checkout options for Meta AI with Adyen, PayPal, Shopify and Stripe."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
-          "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
-          "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
+          "headline": "Meta, 광고주용\n새 AI 도구 시험",
+          "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
+          "mini_headline": "Meta, 새 AI 광고 도구 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 크리에이티브 인사이트를 새로 넣고, 기억하는 맥락도 늘린다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사 설명으로는 서비스에 직접 연결된 AI 에이전트가 이 플랫폼에서 제출된 배치 36,289개 중 17.5%를 냈다."
+                "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험 중이다. 에이전트 기능을 더해 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅과 광고 예산을 바꾸게 한다. 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
               },
               {
                 "t": "p",
-                "x": "이 비율로 계산하면 한 달 에이전트 배치는 약 6,350개, 30-day 기준 하루 약 212개다. 같은 발표를 보면 그달 만들어진 Meta 광고는 286,137개로, 하루 약 9,500개꼴이다."
+                "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "플랫폼의 MCP 서버나 command-line 인터페이스로 AI 에이전트가 넣은 배치는 agent-made로 센다. 자율성이 얼마나 되느냐가 아니라 어떤 경로로 들어왔느냐가 기준이다. 사람이 감독한 배치와 그렇지 않은 배치는 발표 자료에서 따로 나누지 않았다."
+                "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
-              },
-              {
-                "t": "p",
-                "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
+                "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta広告バッチの\n六つに一つはAIエージェント",
-          "body": "Ads Uploaderの集計で、Meta広告36,289バッチの17.5%はAI経由だ。",
-          "mini_headline": "Metaバッチの6件に1件はエージェント",
+          "headline": "Meta、広告主向け\n新AIツールを試験",
+          "body": "MetaはAIツールで取り込みやクリエイティブ分析、改善した対話型ガイダンスを試験中だ。",
+          "mini_headline": "Meta、新AI広告ツールを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MetaはNew YorkでのAdvertising Weekのプレゼンテーションで、改良したビジネスアシスタント、ブランド向けクリエイティブツールの拡充、新しいショッピング体験など、一連の広告アップデートを発表した。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは、広告制作の主要要素について対話形式でガイダンスを示すAI-poweredのビジネスアシスタントを強化する。新たなクリエイティブインサイトを加え、記憶と文脈を広げる。Metaはその文脈を「前四半期に試したこと、季節性、説明済みの目標という文脈」だと説明した。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "空いた椅子がひとつ、ひとりでに打つ機械がひとつ。Ads UploaderでAIが出稿したMeta広告は6件に1件"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Meta向けの一括広告入稿プラットフォームAds Uploaderは、2026年9月の数値を公表した。同社によると、サービスに直接接続したAIエージェントが、同プラットフォーム経由で提出された36,289バッチの17.5%を占めた。"
+                "x": "Metaはさらに、ブランドが戦略やブランドボイスのガイドラインをアップロードできる取り込みツールを試験している。対話型プロンプトでアシスタントがクリエイティブを生成し、ターゲティングを更新し、広告予算を変更できるようエージェント機能も加える。定期的なパフォーマンスレポートやアラートといった予約タスクも試験中だ。"
               },
               {
                 "t": "p",
-                "x": "この比率を全体に当てはめると、エージェントによるバッチは月に約6,350件、30-dayの期間で見ると一日あたり約212件になる。同じ発表では、同月のMeta広告の出稿数は286,137件、一日あたり約9,500件とされる。"
+                "x": "Ads Creative Studioはより多くの広告主に広がり、Meta Ads MCPサーバーはthird-partyのAIツールでより多くの用途に対応した。Customer Lifecycle Strategyはすべての広告主が利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "AIエージェントがプラットフォームのMCPサーバーまたはcommand-lineインターフェース経由で提出したバッチを、agent-madeとして数える。定義は自律性の度合いではなく経路に基づいており、発表は人の監督下のバッチとそうでないバッチを区別していない。"
+                "x": "Advantage+ creativeでは、既存の静止画アセットから動画を生成する機能が一般提供となった。Ads Creative Studioには、フックの変更、音声とクリップ長の調整、テキストオーバーレイと字幕の追加、エンドシーンの変更を行うツールが加わる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "「多くの広告主は、すでにセットアップ作業をエージェントに任せている」とAds Uploader創業者のChris Pollardは語る。「先月、当社のプラットフォームでのバッチ出稿のおよそ6件に1件はエージェントによるものだった」"
-              },
-              {
-                "t": "p",
-                "x": "データはベンダー自身が提供したもので、対象はひと月、ひとつの広告プラットフォームに限られ、監査も受けていない。この数値は、Meta、Amazon、Xが自社の広告システムをエージェントに開放しつつある中で出てきた。"
+                "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告批次\n六分之一来自AI智能体",
-          "body": "Ads Uploader数据显示，36,289个Meta广告批次中17.5%来自AI智能体。",
-          "mini_headline": "智能体提交每6个Meta批次中的1个",
+          "headline": "Meta为广告主\n测试新AI工具",
+          "body": "Meta正在AI工具中测试导入与创意洞察功能，并改进对话式指导。",
+          "mini_headline": "Meta测试新AI广告工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta在New York的Advertising Week发布会上公布了一系列广告更新，包括改进的商业助手、面向品牌的创意工具扩展以及新的购物体验。"
+              },
+              {
+                "t": "p",
+                "x": "Meta正在加强其AI-powered商业助手。该助手以对话方式就广告制作的关键要素提供指导，此次新增创意洞察，并赋予它更多记忆和上下文。Meta表示，这包括“你上季度尝试过的内容、你的季节性规律，以及你描述过的目标”。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "一把空椅子，一台自动打字的机器：在Ads Uploader，每6次Meta广告投放中就有1次由AI完成"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "面向Meta的批量广告提交平台Ads Uploader公布了2026年9月的数据。该公司表示，直接接入该服务的AI智能体占通过该平台提交的36,289个批次的17.5%。"
+                "x": "Meta还在测试导入工具，让品牌上传其策略和品牌语调指南；同时加入智能体能力，使助手能通过对话式提示生成创意、更新定向并调整广告预算；此外也在测试定期效果报告和提醒等计划任务。"
               },
               {
                 "t": "p",
-                "x": "按总量折算，这一比例相当于当月约6,350个智能体批次，按30-day窗口计算约为每天212个。同一份发布还显示，当月共产出286,137条Meta广告，约合每天9,500条。"
+                "x": "Ads Creative Studio正向更多广告主开放，Meta Ads MCP服务器现在支持third-party AI工具的更多用例，Customer Lifecycle Strategy已向所有广告主开放。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "当AI智能体通过平台的MCP服务器或command-line界面提交批次时，该批次即被计为agent-made。这一定义基于提交渠道而非自主程度，发布内容也未区分有人监督和无人监督的批次。"
+                "x": "在Advantage+ creative中，用现有静态素材生成视频的功能已全面上线；Ads Creative Studio新增工具，可更换开头钩子、调整音频和片段时长、添加文字叠加和字幕，或更换结尾画面。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "“很多广告主已经让智能体来做设置工作，”Ads Uploader创始人Chris Pollard说，“上个月，我们平台上约每6次批次投放中就有1次来自智能体。”"
-              },
-              {
-                "t": "p",
-                "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
+                "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada seis lotes de Meta\nya viene de agentes de AI",
-          "body": "Según datos de Ads Uploader, el 17.5% de 36,289 lotes de anuncios en Meta vino de agentes de AI, unos 212 al día.",
-          "mini_headline": "Los agentes envían 1 de cada 6 lotes de Meta",
+          "headline": "Meta prueba nuevas herramientas\nde AI para anunciantes",
+          "body": "Meta prueba en sus herramientas de AI importación, insights creativos y mejor guía conversacional.",
+          "mini_headline": "Meta prueba nuevas herramientas de AI para anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta anunció una serie de novedades publicitarias en su presentación de Advertising Week en New York, entre ellas un asistente empresarial mejorado, la ampliación de sus herramientas creativas para marcas y nuevas experiencias de compra."
+              },
+              {
+                "t": "p",
+                "x": "Meta refuerza su asistente empresarial AI-powered, que ofrece orientación conversacional sobre los elementos clave de la creación de anuncios, con nuevos insights creativos y más memoria y contexto: “el contexto de lo que probaste el trimestre pasado, tu estacionalidad y los objetivos que has descrito”, dijo Meta."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "Una silla vacía, una máquina que escribe sola: 1 de cada 6 lanzamientos de anuncios en Meta los ejecuta la AI en Ads Uploader"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Ads Uploader, plataforma de envío masivo de anuncios para Meta, publicó cifras de septiembre de 2026 que muestran que los agentes de AI conectados directamente al servicio representaron el 17.5% de los 36,289 lotes enviados a través de ella, según la empresa."
+                "x": "Meta también prueba herramientas de importación que permiten a las marcas subir su estrategia y sus pautas de voz de marca, añade capacidad agéntica para que el asistente genere creatividades, actualice la segmentación y cambie el presupuesto de un anuncio mediante instrucciones conversacionales, y prueba tareas programadas como informes de rendimiento y alertas periódicas."
               },
               {
                 "t": "p",
-                "x": "Aplicada al total, esa proporción equivale a unos 6,350 lotes de agentes en el mes, o cerca de 212 al día en una ventana de 30 días (30-day). El mismo comunicado sitúa la producción del mes en 286,137 anuncios de Meta, unos 9,500 al día."
+                "x": "Ads Creative Studio se amplía a más anunciantes, el servidor Meta Ads MCP admite ahora más casos de uso para herramientas de AI third-party y Customer Lifecycle Strategy está disponible para todos los anunciantes."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "Un lote cuenta como agent-made cuando un agente de AI lo envía a través del servidor MCP de la plataforma o de su interfaz command-line. La definición se basa en el canal, no en el grado de autonomía, y el comunicado no separa los lotes supervisados de los no supervisados."
+                "x": "En Advantage+ creative, la generación de video a partir de recursos estáticos existentes ya está disponible para todos; Ads Creative Studio suma herramientas para cambiar ganchos, ajustar el audio y la duración de los clips, añadir textos superpuestos y subtítulos o cambiar las escenas finales."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "\"Muchos anunciantes ya tienen un agente que hace el trabajo de configuración\", dijo Chris Pollard, fundador de Ads Uploader. \"El mes pasado, cerca de 1 de cada 6 lanzamientos de lotes en nuestra plataforma vino de uno\"."
-              },
-              {
-                "t": "p",
-                "x": "Los datos los aporta el proveedor, abarcan un solo mes y una sola plataforma publicitaria, y no han sido auditados. Las cifras llegan cuando Meta, Amazon y X abren sus propios sistemas publicitarios a los agentes."
+                "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
               }
             ]
           }
@@ -223,141 +290,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 광고 배치\n여섯 중 하나는 AI 몫",
-          "body": "Ads Uploader의 Meta 배치 36,289건 중 17.5%를 AI가 냈다.",
-          "mini_headline": "에이전트가 Meta 배치 6건 중 1건 제출",
+          "headline": "Meta, 광고주용\n새 AI 도구 시험",
+          "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
+          "mini_headline": "Meta, 새 AI 광고 도구 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 새 크리에이티브 인사이트를 더하고 기억과 맥락을 늘리는 방식이다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사에 따르면 서비스에 직접 연결된 AI 에이전트가 이 플랫폼으로 제출된 36,289개 배치 중 17.5%를 차지했다."
+                "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험하고 있다. 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅을 수정하며 광고 예산을 바꿀 수 있도록 에이전트 기능을 더하고, 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
               },
               {
                 "t": "p",
-                "x": "이 비율을 전체에 적용하면 한 달간 에이전트 배치는 약 6,350개, 30-day 기준으로 하루 약 212개다. 같은 발표에 따르면 그달 생산된 Meta 광고는 286,137개로, 하루 약 9,500개다."
+                "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "AI 에이전트가 플랫폼의 MCP 서버나 command-line 인터페이스로 제출한 배치는 agent-made로 집계한다. 기준은 자율성의 정도가 아니라 경로이며, 발표 자료는 사람이 감독한 배치와 그렇지 않은 배치를 나누지 않았다."
+                "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
-              },
-              {
-                "t": "p",
-                "x": "데이터는 업체가 직접 제공한 것으로 한 달, 한 광고 플랫폼만 다루며 감사를 거치지 않았다. 이 수치는 Meta, Amazon, X가 자사 광고 시스템을 에이전트에 개방하는 가운데 나왔다."
+                "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent를 통한 바로 결제를 준비하고 있으며, Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta広告バッチの\n六つに一つはAIエージェント",
-          "body": "Ads Uploaderの集計で、Meta広告36,289バッチの17.5%はAI経由だ。",
-          "mini_headline": "Metaバッチの6件に1件はエージェント",
+          "headline": "Meta、広告主向け\n新AIツールを試験",
+          "body": "MetaはAIツールで取り込みやクリエイティブ分析、改善した対話型ガイダンスを試験中だ。",
+          "mini_headline": "Meta、新AI広告ツールを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MetaはNew YorkでのAdvertising Weekのプレゼンテーションで、改良したビジネスアシスタント、ブランド向けクリエイティブツールの拡充、新しいショッピング体験など、一連の広告アップデートを発表した。"
+              },
+              {
+                "t": "p",
+                "x": "Metaは、広告制作の主要要素について対話形式でガイダンスを示すAI-poweredのビジネスアシスタントを強化する。新たなクリエイティブインサイトを加え、記憶と文脈を広げる。Metaはその文脈を「前四半期に試したこと、季節性、説明済みの目標という文脈」だと説明した。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "空いた椅子がひとつ、ひとりでに打つ機械がひとつ。Ads UploaderでAIが出稿したMeta広告は6件に1件"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Meta向けの一括広告入稿プラットフォームAds Uploaderは、2026年9月の数値を公表した。同社によると、サービスに直接接続したAIエージェントが、同プラットフォーム経由で提出された36,289バッチの17.5%を占めた。"
+                "x": "Metaはさらに、ブランドが戦略やブランドボイスのガイドラインをアップロードできる取り込みツールを試験している。対話型プロンプトでアシスタントがクリエイティブを生成し、ターゲティングを更新し、広告予算を変更できるようエージェント機能も加える。定期的なパフォーマンスレポートやアラートといった予約タスクも試験中だ。"
               },
               {
                 "t": "p",
-                "x": "この比率を全体に当てはめると、エージェントによるバッチは月に約6,350件、30-dayの期間で見ると一日あたり約212件になる。同じ発表では、同月のMeta広告の出稿数は286,137件、一日あたり約9,500件とされる。"
+                "x": "Ads Creative Studioはより多くの広告主に広がり、Meta Ads MCPサーバーはthird-partyのAIツールでより多くの用途に対応した。Customer Lifecycle Strategyはすべての広告主が利用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "AIエージェントがプラットフォームのMCPサーバーまたはcommand-lineインターフェース経由で提出したバッチを、agent-madeとして数える。定義は自律性の度合いではなく経路に基づいており、発表は人の監督下のバッチとそうでないバッチを区別していない。"
+                "x": "Advantage+ creativeでは、既存の静止画アセットから動画を生成する機能が一般提供となった。Ads Creative Studioには、フックの変更、音声とクリップ長の調整、テキストオーバーレイと字幕の追加、エンドシーンの変更を行うツールが加わる。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "「多くの広告主は、すでにセットアップ作業をエージェントに任せている」とAds Uploader創業者のChris Pollardは語る。「先月、当社のプラットフォームでのバッチ出稿のおよそ6件に1件はエージェントによるものだった」"
-              },
-              {
-                "t": "p",
-                "x": "データはベンダー自身が提供したもので、対象はひと月、ひとつの広告プラットフォームに限られ、監査も受けていない。この数値は、Meta、Amazon、Xが自社の広告システムをエージェントに開放しつつある中で出てきた。"
+                "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta广告批次\n六分之一来自AI智能体",
-          "body": "Ads Uploader数据显示，36,289个Meta广告批次中17.5%来自AI智能体。",
-          "mini_headline": "智能体提交每6个Meta批次中的1个",
+          "headline": "Meta为广告主\n测试新AI工具",
+          "body": "Meta正在AI工具中测试导入与创意洞察功能，并改进对话式指导。",
+          "mini_headline": "Meta测试新AI广告工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta在New York的Advertising Week发布会上公布了一系列广告更新，包括改进的商业助手、面向品牌的创意工具扩展以及新的购物体验。"
+              },
+              {
+                "t": "p",
+                "x": "Meta正在加强其AI-powered商业助手。该助手以对话方式就广告制作的关键要素提供指导，此次新增创意洞察，并赋予它更多记忆和上下文。Meta表示，这包括“你上季度尝试过的内容、你的季节性规律，以及你描述过的目标”。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "一把空椅子，一台自动打字的机器：在Ads Uploader，每6次Meta广告投放中就有1次由AI完成"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "面向Meta的批量广告提交平台Ads Uploader公布了2026年9月的数据。该公司表示，直接接入该服务的AI智能体占通过该平台提交的36,289个批次的17.5%。"
+                "x": "Meta还在测试导入工具，让品牌上传其策略和品牌语调指南；同时加入智能体能力，使助手能通过对话式提示生成创意、更新定向并调整广告预算；此外也在测试定期效果报告和提醒等计划任务。"
               },
               {
                 "t": "p",
-                "x": "按总量折算，这一比例相当于当月约6,350个智能体批次，按30-day窗口计算约为每天212个。同一份发布还显示，当月共产出286,137条Meta广告，约合每天9,500条。"
+                "x": "Ads Creative Studio正向更多广告主开放，Meta Ads MCP服务器现在支持third-party AI工具的更多用例，Customer Lifecycle Strategy已向所有广告主开放。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "当AI智能体通过平台的MCP服务器或command-line界面提交批次时，该批次即被计为agent-made。这一定义基于提交渠道而非自主程度，发布内容也未区分有人监督和无人监督的批次。"
+                "x": "在Advantage+ creative中，用现有静态素材生成视频的功能已全面上线；Ads Creative Studio新增工具，可更换开头钩子、调整音频和片段时长、添加文字叠加和字幕，或更换结尾画面。"
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "“很多广告主已经让智能体来做设置工作，”Ads Uploader创始人Chris Pollard说，“上个月，我们平台上约每6次批次投放中就有1次来自智能体。”"
-              },
-              {
-                "t": "p",
-                "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
+                "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Uno de cada seis lotes de Meta\nya viene de agentes de AI",
-          "body": "Según datos de Ads Uploader, el 17.5% de 36,289 lotes de anuncios en Meta vino de agentes de AI, unos 212 al día.",
-          "mini_headline": "Los agentes envían 1 de cada 6 lotes de Meta",
+          "headline": "Meta prueba nuevas herramientas\nde AI para anunciantes",
+          "body": "Meta prueba en sus herramientas de AI importación, insights creativos y mejor guía conversacional.",
+          "mini_headline": "Meta prueba nuevas herramientas de AI para anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta anunció una serie de novedades publicitarias en su presentación de Advertising Week en New York, entre ellas un asistente empresarial mejorado, la ampliación de sus herramientas creativas para marcas y nuevas experiencias de compra."
+              },
+              {
+                "t": "p",
+                "x": "Meta refuerza su asistente empresarial AI-powered, que ofrece orientación conversacional sobre los elementos clave de la creación de anuncios, con nuevos insights creativos y más memoria y contexto: “el contexto de lo que probaste el trimestre pasado, tu estacionalidad y los objetivos que has descrito”, dijo Meta."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-                "cap": "Una silla vacía, una máquina que escribe sola: 1 de cada 6 lanzamientos de anuncios en Meta los ejecuta la AI en Ads Uploader"
+                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
               },
               {
                 "t": "p",
-                "x": "Ads Uploader, plataforma de envío masivo de anuncios para Meta, publicó cifras de septiembre de 2026 que muestran que los agentes de AI conectados directamente al servicio representaron el 17.5% de los 36,289 lotes enviados a través de ella, según la empresa."
+                "x": "Meta también prueba herramientas de importación que permiten a las marcas subir su estrategia y sus pautas de voz de marca, añade capacidad agéntica para que el asistente genere creatividades, actualice la segmentación y cambie el presupuesto de un anuncio mediante instrucciones conversacionales, y prueba tareas programadas como informes de rendimiento y alertas periódicas."
               },
               {
                 "t": "p",
-                "x": "Aplicada al total, esa proporción equivale a unos 6,350 lotes de agentes en el mes, o cerca de 212 al día en una ventana de 30 días (30-day). El mismo comunicado sitúa la producción del mes en 286,137 anuncios de Meta, unos 9,500 al día."
+                "x": "Ads Creative Studio se amplía a más anunciantes, el servidor Meta Ads MCP admite ahora más casos de uso para herramientas de AI third-party y Customer Lifecycle Strategy está disponible para todos los anunciantes."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "Un lote cuenta como agent-made cuando un agente de AI lo envía a través del servidor MCP de la plataforma o de su interfaz command-line. La definición se basa en el canal, no en el grado de autonomía, y el comunicado no separa los lotes supervisados de los no supervisados."
+                "x": "En Advantage+ creative, la generación de video a partir de recursos estáticos existentes ya está disponible para todos; Ads Creative Studio suma herramientas para cambiar ganchos, ajustar el audio y la duración de los clips, añadir textos superpuestos y subtítulos o cambiar las escenas finales."
+              },
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
               },
               {
                 "t": "p",
-                "x": "\"Muchos anunciantes ya tienen un agente que hace el trabajo de configuración\", dijo Chris Pollard, fundador de Ads Uploader. \"El mes pasado, cerca de 1 de cada 6 lanzamientos de lotes en nuestra plataforma vino de uno\"."
-              },
-              {
-                "t": "p",
-                "x": "Los datos los aporta el proveedor, abarcan un solo mes y una sola plataforma publicitaria, y no han sido auditados. Las cifras llegan cuando Meta, Amazon y X abren sus propios sistemas publicitarios a los agentes."
+                "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
               }
             ]
           }
@@ -365,15 +476,15 @@
       }
     },
     {
-      "id": "marketing-nbcu-ctv-buying-agents",
+      "id": "marketing-weight-watchers-chatgpt-cpa",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
-      "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
-      "mini_headline": "구매 에이전트, CTV로",
+      "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
+      "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
+      "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -381,173 +492,198 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+            "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
           },
           {
             "t": "p",
-            "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 대세가 되고 있다. 화요일 발표된 공동 프로젝트는 맞춤형 에이전트로 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 거두도록 돕는다. NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 함께한다."
+            "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 함께 개발하는데, 아직 끝나지 않았다."
           },
           {
             "t": "p",
-            "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 더한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 보고, 광고주가 원하는 성과에 맞는 NBCU 광고 인벤토리를 추천한다."
+            "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간에 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
           },
           {
             "t": "p",
-            "x": "첫 사용자는 Carat과 일하는 익명의 럭셔리 리테일러다. 공동 상품은 앞으로 모든 Dentsu 고객에게 열릴 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지, 광고주별 KPIs에 맞춘 에이전트를 만들고 있다."
+            "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
           },
           {
             "t": "p",
-            "x": "에이전트 덕분에 CTV의 outcomes-based 구매가 주류에 더 가까워질 수 있다는 기대가 나온다. 다만 모든 구매를 당장의 결과로만 따지면 광고주는 단기 성과에 매달리다 장기적인 브랜드 구축을 놓칠 수도 있다."
+            "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠졌다. ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
           }
         ]
       },
+      "lead_image": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg",
       "text": {
         "en": {
-          "headline": "AI buying agents come\nfor NBCU streaming ads",
-          "body": "Custom agents blend NBCU and FreeWheel identity data with Dentsu and Newton audience data to recommend NBCU inventory.",
-          "mini_headline": "Buying agents reach CTV",
+          "headline": "Weight Watchers' ChatGPT ads\nbeat CPA benchmark by 15.3%",
+          "body": "DoubleVerify says Weight Watchers' ChatGPT ads delivered a cost per acquisition 15.3% below benchmark.",
+          "mini_headline": "ChatGPT ads beat CPA benchmark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "Agentic media buying is all the rage, including for streaming TV. A new joint effort announced Tuesday will use custom agents to help brand marketers get more from their streaming TV investments, including upfront commitments. The initiative brings together NBCUniversal, its SSP FreeWheel, Dentsu-owned agency Carat and agentic analytics platform Newton."
+                "x": "DoubleVerify said on October 5, 2026 that advertisers can now measure ChatGPT Ads as one touchpoint among their other channels inside DV Rockerbox, the attribution business it bought in 2025 for $85 million. It is also developing a brand suitability pilot with OpenAI, still a work in progress."
               },
               {
                 "t": "p",
-                "x": "Custom buying agents pair identity data from NBCU and FreeWheel with audience intelligence from Dentsu and Newton. The agent uses that audience data and ad performance data to recommend NBCU ad inventory based on an advertiser's desired outcome."
+                "x": "According to DoubleVerify, Weight Watchers added ChatGPT Ads as a new source of member acquisition, and its attributed cost per acquisition landed 15.3% below its established benchmark during the measured period. OpenAI's same-day post describes the comparison as a blended paid-search benchmark."
               },
               {
                 "t": "p",
-                "x": "An unnamed luxury retailer working with Carat is the first marketer to use the solution, although the joint offering will eventually be available to all Dentsu clients. In the meantime, Carat is busy building custom agents for specific advertiser KPIs, everything from search lift to incremental reach."
+                "x": "“As new advertising channels emerge, we need to understand how they contribute to the broader customer journey,” said Jake Dmochowski, vice president of growth at Weight Watchers."
               },
               {
                 "t": "p",
-                "x": "The promise is that agents could bring outcomes-based buying closer to the mainstream in CTV. But if every buy is judged by immediate results, advertisers could end up sacrificing long-term brand building for short-term gains."
+                "x": "The release offers no spend, flight dates, acquisition counts, attribution window or benchmark definition, and does not say whether multi-touch attribution or incrementality testing applies to ChatGPT Ads."
+              },
+              {
+                "t": "p",
+                "x": "The pilot would have independent partners assess OpenAI's suitability policies and guardrails without accessing private user conversations; OpenAI names Integral Ad Science in a parallel pilot."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
-          "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
-          "mini_headline": "구매 에이전트, CTV로",
+          "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
+          "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
+          "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 대세가 되고 있다. 화요일 발표된 공동 프로젝트는 맞춤형 에이전트로 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 거두도록 돕는다. NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 함께한다."
+                "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 함께 개발하는데, 아직 끝나지 않았다."
               },
               {
                 "t": "p",
-                "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 더한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 보고, 광고주가 원하는 성과에 맞는 NBCU 광고 인벤토리를 추천한다."
+                "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간에 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
               },
               {
                 "t": "p",
-                "x": "첫 사용자는 Carat과 일하는 익명의 럭셔리 리테일러다. 공동 상품은 앞으로 모든 Dentsu 고객에게 열릴 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지, 광고주별 KPIs에 맞춘 에이전트를 만들고 있다."
+                "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "에이전트 덕분에 CTV의 outcomes-based 구매가 주류에 더 가까워질 수 있다는 기대가 나온다. 다만 모든 구매를 당장의 결과로만 따지면 광고주는 단기 성과에 매달리다 장기적인 브랜드 구축을 놓칠 수도 있다."
+                "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠졌다. ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI購買エージェントが\nNBCUの配信広告へ",
-          "body": "NBCU・FreeWheel・Dentsu・Newtonのデータでエージェントが推奨する。",
-          "mini_headline": "購買エージェントがCTVへ",
+          "headline": "ChatGPT広告のCPA\n基準を15.3%下回る",
+          "body": "Weight WatchersのChatGPT広告は、CPAが基準を15.3%下回った。",
+          "mini_headline": "ChatGPT広告、CPA基準を上回る成果",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェントによるメディアバイイングは、ストリーミングTVを含めて大流行している。火曜日に発表された新たな共同の取り組みでは、カスタムエージェントを使い、アップフロントでの出稿約束を含むストリーミングTV投資からブランドマーケターがより多くを得られるよう支援する。参加するのはNBCUniversal、そのSSPであるFreeWheel、Dentsu-ownedのエージェンシーCarat、エージェント型分析プラットフォームNewtonだ。"
+                "x": "DoubleVerifyは2026年10月5日、広告主がDV Rockerbox内でChatGPT Adsをほかのチャネルと並ぶ一つのタッチポイントとして測定できるようになったと発表した。DV Rockerboxは同社が2025年に$85 million で買収したアトリビューション事業だ。同社はOpenAIとブランド適合性のパイロットも開発しているが、まだ途上にある。"
               },
               {
                 "t": "p",
-                "x": "カスタム購買エージェントは、NBCUとFreeWheelのアイデンティティデータに、DentsuとNewtonのオーディエンスインテリジェンスを組み合わせる。エージェントはこのオーディエンスデータと広告パフォーマンスデータを使い、広告主が望む成果に基づいてNBCUの広告在庫を推奨する。"
+                "x": "DoubleVerifyによると、Weight WatchersはChatGPT Adsを新たな会員獲得の手段として加え、計測期間中のアトリビューションによる顧客獲得単価は、既存のベンチマークを15.3%下回った。OpenAIは同日の投稿で、比較対象をブレンドしたpaid-searchのベンチマークだと説明している。"
               },
               {
                 "t": "p",
-                "x": "Caratと組む匿名の高級小売業者が最初の利用マーケターとなるが、この共同サービスはいずれすべてのDentsu顧客に提供される予定だ。その間、Caratは検索リフトから増分リーチまで、広告主ごとのKPIsに合わせたカスタムエージェントの構築を進めている。"
+                "x": "Weight Watchersのグロース担当バイスプレジデント、Jake Dmochowskiは「新しい広告チャネルが生まれるなか、それがより広いカスタマージャーニーにどう貢献するかを理解する必要がある」と述べた。"
               },
               {
                 "t": "p",
-                "x": "エージェントによって、CTVにおけるoutcomes-basedの購買が主流に近づく可能性がある。だが、すべての購買が目先の結果で評価されれば、広告主は短期的な成果のために長期的なブランド構築を犠牲にしかねない。"
+                "x": "発表には広告費、配信期間、獲得件数、アトリビューション期間、ベンチマークの定義が示されておらず、ChatGPT Adsにmulti-touchアトリビューションやインクリメンタリティテストが適用されるかどうかも明らかにしていない。"
+              },
+              {
+                "t": "p",
+                "x": "パイロットでは、独立したパートナーが非公開のユーザー会話にアクセスすることなく、OpenAIの適合性ポリシーとガードレールを評価する。OpenAIは並行するパイロットでIntegral Ad Scienceの名を挙げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI购买智能体\n瞄准NBCU流媒体广告",
-          "body": "智能体结合NBCU、FreeWheel与Dentsu、Newton数据，推荐NBCU库存。",
-          "mini_headline": "购买智能体进军CTV",
+          "headline": "ChatGPT广告CPA\n低于基准15.3%",
+          "body": "Weight Watchers的ChatGPT广告获客成本比基准低15.3%。",
+          "mini_headline": "ChatGPT广告CPA优于基准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "智能体式媒体购买正风靡一时，流媒体TV也不例外。周二宣布的一项新合作将借助定制智能体，帮助品牌营销人员从包括预购承诺在内的流媒体TV投资中获得更多回报。参与方包括NBCUniversal、其SSP FreeWheel、Dentsu-owned代理商Carat以及智能体分析平台Newton。"
+                "x": "DoubleVerify于2026年10月5日表示，广告主现在可以在DV Rockerbox中把ChatGPT Ads作为与其他渠道并列的一个触点来衡量。DV Rockerbox是DoubleVerify在2025年以$85 million 收购的归因业务。该公司还在与OpenAI开发一项品牌适宜性试点，目前仍在推进中。"
               },
               {
                 "t": "p",
-                "x": "定制购买智能体将NBCU和FreeWheel的身份数据与Dentsu和Newton的受众洞察相结合。智能体利用这些受众数据和广告效果数据，根据广告主期望的成果推荐NBCU的广告库存。"
+                "x": "据DoubleVerify称，Weight Watchers将ChatGPT Ads作为新的会员获取来源，在衡量期内，其归因后的单次获客成本比既定基准低15.3%。OpenAI同日发布的文章称，这一比较对象是混合的paid-search基准。"
               },
               {
                 "t": "p",
-                "x": "一家与Carat合作的未具名奢侈品零售商是首个使用该方案的营销方，但这项联合产品最终将向所有Dentsu客户开放。与此同时，Carat正在为广告主的具体KPIs打造定制智能体，涵盖从搜索提升到增量触达的各类目标。"
+                "x": "Weight Watchers增长副总裁Jake Dmochowski表示：“随着新的广告渠道不断出现，我们需要了解它们如何为更广泛的客户旅程做出贡献。”"
               },
               {
                 "t": "p",
-                "x": "人们期待智能体能让outcomes-based购买在CTV领域更接近主流。但如果每次购买都以即时结果来评判，广告主可能会为了短期收益而牺牲长期的品牌建设。"
+                "x": "此次发布没有给出投放金额、投放日期、获客数量、归因窗口或基准定义，也没有说明ChatGPT Ads是否适用multi-touch归因或增量测试。"
+              },
+              {
+                "t": "p",
+                "x": "该试点将由独立合作方在不接触用户私密对话的情况下，评估OpenAI的适宜性政策和防护措施；OpenAI在一项并行试点中点名了Integral Ad Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de compra con AI llegan\nal streaming de NBCU",
-          "body": "Agentes a medida cruzan datos de NBCU y FreeWheel con los de Dentsu y Newton para recomendar inventario de NBCU.",
-          "mini_headline": "Los agentes de compra llegan a CTV",
+          "headline": "Weight Watchers: CPA en ChatGPT\nun 15.3% bajo la referencia",
+          "body": "Según DoubleVerify, los anuncios de Weight Watchers en ChatGPT tuvieron un CPA 15.3% inferior a la referencia.",
+          "mini_headline": "Los anuncios en ChatGPT superan la referencia de CPA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "La compra de medios con agentes está de moda, también en la TV en streaming. Una nueva iniciativa conjunta anunciada el martes usará agentes a medida para ayudar a los responsables de marketing de marca a sacar más partido de sus inversiones en TV en streaming, incluidos los compromisos de upfront. La iniciativa reúne a NBCUniversal, su SSP FreeWheel, la agencia Carat, propiedad de Dentsu (Dentsu-owned), y la plataforma de analítica con agentes Newton."
+                "x": "DoubleVerify informó el 5 de octubre de 2026 que los anunciantes ya pueden medir ChatGPT Ads como un punto de contacto más entre sus otros canales dentro de DV Rockerbox, el negocio de atribución que compró en 2025 por $85 millones. También desarrolla con OpenAI un piloto de idoneidad de marca, todavía en curso."
               },
               {
                 "t": "p",
-                "x": "Los agentes de compra a medida combinan datos de identidad de NBCU y FreeWheel con inteligencia de audiencias de Dentsu y Newton. El agente usa esos datos de audiencia y de rendimiento publicitario para recomendar inventario publicitario de NBCU según el resultado que busca el anunciante."
+                "x": "Según DoubleVerify, Weight Watchers incorporó ChatGPT Ads como nueva fuente de captación de socios, y su costo por adquisición atribuido quedó un 15.3% por debajo de su referencia establecida durante el periodo medido. La publicación de OpenAI del mismo día describe la comparación como una referencia combinada de paid-search."
               },
               {
                 "t": "p",
-                "x": "Un minorista de lujo no identificado que trabaja con Carat es el primer anunciante en usar la solución, aunque la oferta conjunta acabará estando disponible para todos los clientes de Dentsu. Mientras tanto, Carat construye agentes a medida para KPIs concretos de cada anunciante, desde el aumento en búsquedas hasta el alcance incremental."
+                "x": "“A medida que surgen nuevos canales publicitarios, necesitamos entender cómo contribuyen al recorrido más amplio del cliente”, dijo Jake Dmochowski, vicepresidente de crecimiento de Weight Watchers."
               },
               {
                 "t": "p",
-                "x": "La promesa es que los agentes podrían acercar la compra outcomes-based (basada en resultados) a la corriente principal en CTV. Pero si cada compra se juzga por resultados inmediatos, los anunciantes podrían acabar sacrificando la construcción de marca a largo plazo por ganancias a corto plazo."
+                "x": "El comunicado no detalla inversión, fechas de campaña, número de adquisiciones, ventana de atribución ni definición de la referencia, y no aclara si a ChatGPT Ads se le aplica atribución multi-touch o pruebas de incrementalidad."
+              },
+              {
+                "t": "p",
+                "x": "En el piloto, socios independientes evaluarían las políticas de idoneidad y las salvaguardas de OpenAI sin acceder a conversaciones privadas de los usuarios; OpenAI menciona a Integral Ad Science en un piloto paralelo."
               }
             ]
           }
@@ -555,121 +691,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 구매 에이전트가\nNBCU 스트리밍 광고로",
-          "body": "NBCU·FreeWheel·Dentsu·Newton 데이터로 에이전트가 추천한다.",
-          "mini_headline": "구매 에이전트, CTV로",
+          "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
+          "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
+          "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "에이전트 기반 미디어 구매가 스트리밍 TV에서도 크게 유행하고 있다. 화요일 발표된 새 공동 프로젝트는 맞춤형 에이전트를 활용해 브랜드 마케터가 업프론트 약정을 포함한 스트리밍 TV 투자에서 더 많은 성과를 얻도록 돕는다. 여기에는 NBCUniversal과 그 SSP인 FreeWheel, Dentsu-owned 에이전시 Carat, 에이전트 분석 플랫폼 Newton이 참여한다."
+                "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 개발하고 있으며, 이 작업은 아직 진행 중이다."
               },
               {
                 "t": "p",
-                "x": "맞춤형 구매 에이전트는 NBCU와 FreeWheel의 아이덴티티 데이터에 Dentsu와 Newton의 오디언스 인텔리전스를 결합한다. 에이전트는 이 오디언스 데이터와 광고 성과 데이터를 바탕으로 광고주가 원하는 성과에 맞춰 NBCU 광고 인벤토리를 추천한다."
+                "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간 동안 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
               },
               {
                 "t": "p",
-                "x": "Carat과 일하는 익명의 럭셔리 리테일러가 이 솔루션을 처음 쓰는 마케터이며, 공동 상품은 향후 모든 Dentsu 고객에게 제공될 예정이다. 그사이 Carat은 검색 상승 효과부터 증분 도달까지 광고주별 KPIs에 맞춘 맞춤형 에이전트를 만드는 중이다."
+                "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "에이전트가 CTV에서 outcomes-based 구매를 주류에 더 가깝게 끌어올 수 있다는 기대가 있다. 하지만 모든 구매를 즉각적인 결과로만 평가한다면 광고주는 단기 성과를 위해 장기적인 브랜드 구축을 희생하게 될 수도 있다."
+                "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠져 있고, ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI購買エージェントが\nNBCUの配信広告へ",
-          "body": "NBCU・FreeWheel・Dentsu・Newtonのデータでエージェントが推奨する。",
-          "mini_headline": "購買エージェントがCTVへ",
+          "headline": "ChatGPT広告のCPA\n基準を15.3%下回る",
+          "body": "Weight WatchersのChatGPT広告は、CPAが基準を15.3%下回った。",
+          "mini_headline": "ChatGPT広告、CPA基準を上回る成果",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェントによるメディアバイイングは、ストリーミングTVを含めて大流行している。火曜日に発表された新たな共同の取り組みでは、カスタムエージェントを使い、アップフロントでの出稿約束を含むストリーミングTV投資からブランドマーケターがより多くを得られるよう支援する。参加するのはNBCUniversal、そのSSPであるFreeWheel、Dentsu-ownedのエージェンシーCarat、エージェント型分析プラットフォームNewtonだ。"
+                "x": "DoubleVerifyは2026年10月5日、広告主がDV Rockerbox内でChatGPT Adsをほかのチャネルと並ぶ一つのタッチポイントとして測定できるようになったと発表した。DV Rockerboxは同社が2025年に$85 million で買収したアトリビューション事業だ。同社はOpenAIとブランド適合性のパイロットも開発しているが、まだ途上にある。"
               },
               {
                 "t": "p",
-                "x": "カスタム購買エージェントは、NBCUとFreeWheelのアイデンティティデータに、DentsuとNewtonのオーディエンスインテリジェンスを組み合わせる。エージェントはこのオーディエンスデータと広告パフォーマンスデータを使い、広告主が望む成果に基づいてNBCUの広告在庫を推奨する。"
+                "x": "DoubleVerifyによると、Weight WatchersはChatGPT Adsを新たな会員獲得の手段として加え、計測期間中のアトリビューションによる顧客獲得単価は、既存のベンチマークを15.3%下回った。OpenAIは同日の投稿で、比較対象をブレンドしたpaid-searchのベンチマークだと説明している。"
               },
               {
                 "t": "p",
-                "x": "Caratと組む匿名の高級小売業者が最初の利用マーケターとなるが、この共同サービスはいずれすべてのDentsu顧客に提供される予定だ。その間、Caratは検索リフトから増分リーチまで、広告主ごとのKPIsに合わせたカスタムエージェントの構築を進めている。"
+                "x": "Weight Watchersのグロース担当バイスプレジデント、Jake Dmochowskiは「新しい広告チャネルが生まれるなか、それがより広いカスタマージャーニーにどう貢献するかを理解する必要がある」と述べた。"
               },
               {
                 "t": "p",
-                "x": "エージェントによって、CTVにおけるoutcomes-basedの購買が主流に近づく可能性がある。だが、すべての購買が目先の結果で評価されれば、広告主は短期的な成果のために長期的なブランド構築を犠牲にしかねない。"
+                "x": "発表には広告費、配信期間、獲得件数、アトリビューション期間、ベンチマークの定義が示されておらず、ChatGPT Adsにmulti-touchアトリビューションやインクリメンタリティテストが適用されるかどうかも明らかにしていない。"
+              },
+              {
+                "t": "p",
+                "x": "パイロットでは、独立したパートナーが非公開のユーザー会話にアクセスすることなく、OpenAIの適合性ポリシーとガードレールを評価する。OpenAIは並行するパイロットでIntegral Ad Scienceの名を挙げている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI购买智能体\n瞄准NBCU流媒体广告",
-          "body": "智能体结合NBCU、FreeWheel与Dentsu、Newton数据，推荐NBCU库存。",
-          "mini_headline": "购买智能体进军CTV",
+          "headline": "ChatGPT广告CPA\n低于基准15.3%",
+          "body": "Weight Watchers的ChatGPT广告获客成本比基准低15.3%。",
+          "mini_headline": "ChatGPT广告CPA优于基准",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "智能体式媒体购买正风靡一时，流媒体TV也不例外。周二宣布的一项新合作将借助定制智能体，帮助品牌营销人员从包括预购承诺在内的流媒体TV投资中获得更多回报。参与方包括NBCUniversal、其SSP FreeWheel、Dentsu-owned代理商Carat以及智能体分析平台Newton。"
+                "x": "DoubleVerify于2026年10月5日表示，广告主现在可以在DV Rockerbox中把ChatGPT Ads作为与其他渠道并列的一个触点来衡量。DV Rockerbox是DoubleVerify在2025年以$85 million 收购的归因业务。该公司还在与OpenAI开发一项品牌适宜性试点，目前仍在推进中。"
               },
               {
                 "t": "p",
-                "x": "定制购买智能体将NBCU和FreeWheel的身份数据与Dentsu和Newton的受众洞察相结合。智能体利用这些受众数据和广告效果数据，根据广告主期望的成果推荐NBCU的广告库存。"
+                "x": "据DoubleVerify称，Weight Watchers将ChatGPT Ads作为新的会员获取来源，在衡量期内，其归因后的单次获客成本比既定基准低15.3%。OpenAI同日发布的文章称，这一比较对象是混合的paid-search基准。"
               },
               {
                 "t": "p",
-                "x": "一家与Carat合作的未具名奢侈品零售商是首个使用该方案的营销方，但这项联合产品最终将向所有Dentsu客户开放。与此同时，Carat正在为广告主的具体KPIs打造定制智能体，涵盖从搜索提升到增量触达的各类目标。"
+                "x": "Weight Watchers增长副总裁Jake Dmochowski表示：“随着新的广告渠道不断出现，我们需要了解它们如何为更广泛的客户旅程做出贡献。”"
               },
               {
                 "t": "p",
-                "x": "人们期待智能体能让outcomes-based购买在CTV领域更接近主流。但如果每次购买都以即时结果来评判，广告主可能会为了短期收益而牺牲长期的品牌建设。"
+                "x": "此次发布没有给出投放金额、投放日期、获客数量、归因窗口或基准定义，也没有说明ChatGPT Ads是否适用multi-touch归因或增量测试。"
+              },
+              {
+                "t": "p",
+                "x": "该试点将由独立合作方在不接触用户私密对话的情况下，评估OpenAI的适宜性政策和防护措施；OpenAI在一项并行试点中点名了Integral Ad Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de compra con AI llegan\nal streaming de NBCU",
-          "body": "Agentes a medida cruzan datos de NBCU y FreeWheel con los de Dentsu y Newton para recomendar inventario de NBCU.",
-          "mini_headline": "Los agentes de compra llegan a CTV",
+          "headline": "Weight Watchers: CPA en ChatGPT\nun 15.3% bajo la referencia",
+          "body": "Según DoubleVerify, los anuncios de Weight Watchers en ChatGPT tuvieron un CPA 15.3% inferior a la referencia.",
+          "mini_headline": "Los anuncios en ChatGPT superan la referencia de CPA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2018/07/2050thesingularity.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
               },
               {
                 "t": "p",
-                "x": "La compra de medios con agentes está de moda, también en la TV en streaming. Una nueva iniciativa conjunta anunciada el martes usará agentes a medida para ayudar a los responsables de marketing de marca a sacar más partido de sus inversiones en TV en streaming, incluidos los compromisos de upfront. La iniciativa reúne a NBCUniversal, su SSP FreeWheel, la agencia Carat, propiedad de Dentsu (Dentsu-owned), y la plataforma de analítica con agentes Newton."
+                "x": "DoubleVerify informó el 5 de octubre de 2026 que los anunciantes ya pueden medir ChatGPT Ads como un punto de contacto más entre sus otros canales dentro de DV Rockerbox, el negocio de atribución que compró en 2025 por $85 millones. También desarrolla con OpenAI un piloto de idoneidad de marca, todavía en curso."
               },
               {
                 "t": "p",
-                "x": "Los agentes de compra a medida combinan datos de identidad de NBCU y FreeWheel con inteligencia de audiencias de Dentsu y Newton. El agente usa esos datos de audiencia y de rendimiento publicitario para recomendar inventario publicitario de NBCU según el resultado que busca el anunciante."
+                "x": "Según DoubleVerify, Weight Watchers incorporó ChatGPT Ads como nueva fuente de captación de socios, y su costo por adquisición atribuido quedó un 15.3% por debajo de su referencia establecida durante el periodo medido. La publicación de OpenAI del mismo día describe la comparación como una referencia combinada de paid-search."
               },
               {
                 "t": "p",
-                "x": "Un minorista de lujo no identificado que trabaja con Carat es el primer anunciante en usar la solución, aunque la oferta conjunta acabará estando disponible para todos los clientes de Dentsu. Mientras tanto, Carat construye agentes a medida para KPIs concretos de cada anunciante, desde el aumento en búsquedas hasta el alcance incremental."
+                "x": "“A medida que surgen nuevos canales publicitarios, necesitamos entender cómo contribuyen al recorrido más amplio del cliente”, dijo Jake Dmochowski, vicepresidente de crecimiento de Weight Watchers."
               },
               {
                 "t": "p",
-                "x": "La promesa es que los agentes podrían acercar la compra outcomes-based (basada en resultados) a la corriente principal en CTV. Pero si cada compra se juzga por resultados inmediatos, los anunciantes podrían acabar sacrificando la construcción de marca a largo plazo por ganancias a corto plazo."
+                "x": "El comunicado no detalla inversión, fechas de campaña, número de adquisiciones, ventana de atribución ni definición de la referencia, y no aclara si a ChatGPT Ads se le aplica atribución multi-touch o pruebas de incrementalidad."
+              },
+              {
+                "t": "p",
+                "x": "En el piloto, socios independientes evaluarían las políticas de idoneidad y las salvaguardas de OpenAI sin acceder a conversaciones privadas de los usuarios; OpenAI menciona a Integral Ad Science en un piloto paralelo."
               }
             ]
           }
@@ -677,527 +829,214 @@
       }
     },
     {
-      "id": "marketing-google-merchant-center-ucp-hub",
+      "id": "marketing-google-ads-ai-max-columns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "구글 Merchant\nCenter에 UCP 허브",
-      "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
-      "mini_headline": "Merchant Center에 UCP 허브",
+      "headline": "Google Ads에\nAI Max 보고 열 추가",
+      "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
+      "mini_headline": "Google Ads에 새 AI Max 열",
       "tool": "Marketing",
       "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. 이 허브를 쓰면 Merchant Center 계정에서 바로 UCP 프로그램에 온보딩할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 걸려 있다. Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에 에이전트 기능을 붙인다."
-          },
-          {
-            "t": "p",
-            "x": "PPC News의 Hana Kobzova가 찾아낸 Google 도움말 문서에는 이렇게 적혀 있다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
-          },
-          {
-            "t": "p",
-            "x": "Merchant Center 연동은 지금 U.S.에서 단계적으로 배포되고 있고, 내년에는 호주와 캐나다 판매자에게도 열린다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-            "cap": "Merchant Center의 UCP 통합 허브"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Google Merchant Center adds\na UCP onboarding hub",
-          "body": "US merchants can onboard to the Universal Commerce Protocol through a new hub in their Merchant Center account.",
-          "mini_headline": "Merchant Center adds UCP hub",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account."
-              },
-              {
-                "t": "p",
-                "x": "The hub says \"Start selling across AI surfaces by implementing Universal Commerce Protocol,\" with agentic actions on AI Mode, Gemini, and Search, starting with checkout directly on Google."
-              },
-              {
-                "t": "p",
-                "x": "Google's help document, spotted by Hana Kobzova on PPC News, says: \"The Universal Commerce Protocol (UCP) is a new open standard for agentic commerce that enables agents and systems to work together across the commerce ecosystem. By integrating with UCP, you can implement a checkout button on eligible product listings in AI Mode in Google Search and on Gemini.\""
-              },
-              {
-                "t": "p",
-                "x": "The Merchant Center integration is gradually rolling out in the U.S. right now, and will roll out to merchants in Australia and Canada next year. \"This will allow you to onboard to the program from your Merchant Center account and enable capabilities like cart transfer to a merchant site and enhanced checkout flow testing,\" Google added."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "The UCP integration hub in Merchant Center"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "구글 Merchant\nCenter에 UCP 허브",
-          "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
-          "mini_headline": "Merchant Center에 UCP 허브",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. 이 허브를 쓰면 Merchant Center 계정에서 바로 UCP 프로그램에 온보딩할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 걸려 있다. Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에 에이전트 기능을 붙인다."
-              },
-              {
-                "t": "p",
-                "x": "PPC News의 Hana Kobzova가 찾아낸 Google 도움말 문서에는 이렇게 적혀 있다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Center 연동은 지금 U.S.에서 단계적으로 배포되고 있고, 내년에는 호주와 캐나다 판매자에게도 열린다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant Center의 UCP 통합 허브"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "グーグルMerchant\nCenterにUCPハブ",
-          "body": "USの販売者はMerchant Centerの新ハブからUCPに参加できる。",
-          "mini_headline": "Merchant CenterにUCPハブ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Centerは米国でUCP統合ハブの提供を始めている。UCP統合ハブを使えば、Merchant CenterアカウントからUCPプログラムにオンボーディングできる。"
-              },
-              {
-                "t": "p",
-                "x": "ハブには「Universal Commerce Protocolを実装して、AIサーフェス全体で販売を始めましょう」と記され、Google上での直接チェックアウトを皮切りに、AI Mode、Gemini、Searchでのエージェント機能が示されている。"
-              },
-              {
-                "t": "p",
-                "x": "PPC NewsのHana Kobzovaが見つけたGoogleのヘルプ文書にはこうある。「Universal Commerce Protocol(UCP)は、エージェントとシステムがコマースのエコシステム全体で連携できるようにする、エージェント型コマースの新しいオープン標準です。UCPと統合することで、Google SearchのAI ModeとGeminiで、対象となる商品リスティングにチェックアウトボタンを実装できます」"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Centerとの統合は現在U.S.で段階的に展開中で、来年にはオーストラリアとカナダの販売者にも展開される。Googleは「これにより、Merchant Centerアカウントからプログラムにオンボーディングし、販売者サイトへのカート移行や、強化されたチェックアウトフローのテストといった機能を有効にできる」と付け加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant CenterのUCP統合ハブ"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "谷歌Merchant\nCenter推UCP接入中心",
-          "body": "US商家可通过Merchant Center账户中的新中心接入UCP。",
-          "mini_headline": "Merchant Center新增UCP中心",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center正在美国推出UCP集成中心。借助UCP集成中心，商家可以从Merchant Center账户接入UCP计划。"
-              },
-              {
-                "t": "p",
-                "x": "该中心写道：“通过实施Universal Commerce Protocol，开始在各类AI界面上销售”，并提供AI Mode、Gemini和Search上的智能体操作，首先是直接在Google上结账。"
-              },
-              {
-                "t": "p",
-                "x": "PPC News的Hana Kobzova发现的Google帮助文档写道：“Universal Commerce Protocol（UCP）是一项面向智能体商务的新开放标准，使智能体和系统能够在整个商务生态中协同工作。通过与UCP集成，你可以在Google Search的AI Mode和Gemini中，为符合条件的商品信息添加结账按钮。”"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Center集成目前正在U.S.逐步推出，明年将扩展至澳大利亚和加拿大的商家。Google补充说：“这将让你从Merchant Center账户接入该计划，并启用将购物车转移至商家网站、增强型结账流程测试等功能。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant Center中的UCP集成中心"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Merchant Center suma\nun hub de incorporación a UCP",
-          "body": "Los comercios de US pueden sumarse al Universal Commerce Protocol desde un nuevo hub en su cuenta de Merchant Center.",
-          "mini_headline": "Merchant Center suma un hub de UCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center está desplegando el hub de integración de UCP en Estados Unidos. El hub de integración de UCP permite incorporarse al programa UCP desde la cuenta de Merchant Center."
-              },
-              {
-                "t": "p",
-                "x": "El hub dice \"Empieza a vender en las superficies de AI implementando Universal Commerce Protocol\", con acciones de agentes en AI Mode, Gemini y Search, empezando por el pago directo en Google."
-              },
-              {
-                "t": "p",
-                "x": "El documento de ayuda de Google, detectado por Hana Kobzova en PPC News, dice: \"Universal Commerce Protocol (UCP) es un nuevo estándar abierto para el comercio con agentes que permite que agentes y sistemas trabajen juntos en todo el ecosistema comercial. Al integrarte con UCP, puedes añadir un botón de pago en las fichas de producto aptas en AI Mode de Google Search y en Gemini.\""
-              },
-              {
-                "t": "p",
-                "x": "La integración de Merchant Center se está desplegando de forma gradual en U.S. y llegará a los comerciantes de Australia y Canadá el próximo año. \"Esto te permitirá incorporarte al programa desde tu cuenta de Merchant Center y activar funciones como la transferencia del carrito al sitio del comerciante y pruebas mejoradas del flujo de pago\", añadió Google."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "El hub de integración de UCP en Merchant Center"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "구글 Merchant\nCenter에 UCP 허브",
-          "body": "US 판매자는 Merchant Center 새 허브에서 UCP에 합류한다.",
-          "mini_headline": "Merchant Center에 UCP 허브",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center가 미국에서 UCP 통합 허브를 배포하고 있다. UCP 통합 허브를 이용하면 Merchant Center 계정에서 UCP 프로그램에 온보딩할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "허브에는 “Universal Commerce Protocol을 구현해 AI 서피스 전반에서 판매를 시작하세요”라는 문구가 있으며, Google에서 바로 결제하는 기능을 시작으로 AI Mode, Gemini, Search에서 에이전트 기능을 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "PPC News의 Hana Kobzova가 발견한 Google 도움말 문서는 이렇게 설명한다. “Universal Commerce Protocol(UCP)은 에이전트와 시스템이 커머스 생태계 전반에서 함께 작동하도록 하는 에이전틱 커머스용 새 개방형 표준이다. UCP와 연동하면 Google Search의 AI Mode와 Gemini에서 적격 상품 목록에 결제 버튼을 넣을 수 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Center 연동은 현재 U.S.에서 단계적으로 배포 중이며, 내년에는 호주와 캐나다 판매자에게도 배포된다. Google은 “이를 통해 Merchant Center 계정에서 프로그램에 온보딩하고, 판매자 사이트로의 장바구니 이전과 개선된 결제 흐름 테스트 같은 기능을 활성화할 수 있다”고 덧붙였다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant Center의 UCP 통합 허브"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "グーグルMerchant\nCenterにUCPハブ",
-          "body": "USの販売者はMerchant Centerの新ハブからUCPに参加できる。",
-          "mini_headline": "Merchant CenterにUCPハブ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Centerは米国でUCP統合ハブの提供を始めている。UCP統合ハブを使えば、Merchant CenterアカウントからUCPプログラムにオンボーディングできる。"
-              },
-              {
-                "t": "p",
-                "x": "ハブには「Universal Commerce Protocolを実装して、AIサーフェス全体で販売を始めましょう」と記され、Google上での直接チェックアウトを皮切りに、AI Mode、Gemini、Searchでのエージェント機能が示されている。"
-              },
-              {
-                "t": "p",
-                "x": "PPC NewsのHana Kobzovaが見つけたGoogleのヘルプ文書にはこうある。「Universal Commerce Protocol(UCP)は、エージェントとシステムがコマースのエコシステム全体で連携できるようにする、エージェント型コマースの新しいオープン標準です。UCPと統合することで、Google SearchのAI ModeとGeminiで、対象となる商品リスティングにチェックアウトボタンを実装できます」"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Centerとの統合は現在U.S.で段階的に展開中で、来年にはオーストラリアとカナダの販売者にも展開される。Googleは「これにより、Merchant Centerアカウントからプログラムにオンボーディングし、販売者サイトへのカート移行や、強化されたチェックアウトフローのテストといった機能を有効にできる」と付け加えた。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant CenterのUCP統合ハブ"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "谷歌Merchant\nCenter推UCP接入中心",
-          "body": "US商家可通过Merchant Center账户中的新中心接入UCP。",
-          "mini_headline": "Merchant Center新增UCP中心",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center正在美国推出UCP集成中心。借助UCP集成中心，商家可以从Merchant Center账户接入UCP计划。"
-              },
-              {
-                "t": "p",
-                "x": "该中心写道：“通过实施Universal Commerce Protocol，开始在各类AI界面上销售”，并提供AI Mode、Gemini和Search上的智能体操作，首先是直接在Google上结账。"
-              },
-              {
-                "t": "p",
-                "x": "PPC News的Hana Kobzova发现的Google帮助文档写道：“Universal Commerce Protocol（UCP）是一项面向智能体商务的新开放标准，使智能体和系统能够在整个商务生态中协同工作。通过与UCP集成，你可以在Google Search的AI Mode和Gemini中，为符合条件的商品信息添加结账按钮。”"
-              },
-              {
-                "t": "p",
-                "x": "Merchant Center集成目前正在U.S.逐步推出，明年将扩展至澳大利亚和加拿大的商家。Google补充说：“这将让你从Merchant Center账户接入该计划，并启用将购物车转移至商家网站、增强型结账流程测试等功能。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "Merchant Center中的UCP集成中心"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Merchant Center suma\nun hub de incorporación a UCP",
-          "body": "Los comercios de US pueden sumarse al Universal Commerce Protocol desde un nuevo hub en su cuenta de Merchant Center.",
-          "mini_headline": "Merchant Center suma un hub de UCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-hero-XE2SEFKg.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Google Merchant Center está desplegando el hub de integración de UCP en Estados Unidos. El hub de integración de UCP permite incorporarse al programa UCP desde la cuenta de Merchant Center."
-              },
-              {
-                "t": "p",
-                "x": "El hub dice \"Empieza a vender en las superficies de AI implementando Universal Commerce Protocol\", con acciones de agentes en AI Mode, Gemini y Search, empezando por el pago directo en Google."
-              },
-              {
-                "t": "p",
-                "x": "El documento de ayuda de Google, detectado por Hana Kobzova en PPC News, dice: \"Universal Commerce Protocol (UCP) es un nuevo estándar abierto para el comercio con agentes que permite que agentes y sistemas trabajen juntos en todo el ecosistema comercial. Al integrarte con UCP, puedes añadir un botón de pago en las fichas de producto aptas en AI Mode de Google Search y en Gemini.\""
-              },
-              {
-                "t": "p",
-                "x": "La integración de Merchant Center se está desplegando de forma gradual en U.S. y llegará a los comerciantes de Australia y Canadá el próximo año. \"Esto te permitirá incorporarte al programa desde tu cuenta de Merchant Center y activar funciones como la transferencia del carrito al sitio del comerciante y pruebas mejoradas del flujo de pago\", añadió Google."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-                "cap": "El hub de integración de UCP en Merchant Center"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-radisson-chatgpt-hotel-booking",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
-      "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
-      "mini_headline": "ChatGPT 속 Radisson 플러그인",
-      "tool": "Marketing",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/radisson",
+      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Radisson Hotel Group은 Accenture Song과 손잡고 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객을 만나고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 둘러보게 돕는다. 초기 결과를 보면 예약 전환율이 Radisson 자연 검색의 약 1.5배였다."
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
           },
           {
             "t": "p",
-            "x": "팀은 에이전트 기반 개발의 힘을 빌려 여섯 주 만에 플러그인을 만들고 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고 가격을 비교하고 편의시설을 꼼꼼히 살핀 뒤, Radisson 사이트로 넘어가 예약을 마친다."
+            "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 넣는 중이다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
           },
           {
             "t": "p",
-            "x": "최근 ChatGPT 업데이트 이후로는 @RadissonHotels를 따로 입력하지 않아도 된다. 플러그인을 설치해 두면 관련이 있을 때 ChatGPT가 알아서 띄워 준다."
+            "x": "처음 발견한 사람은 Vivek Gupta로, LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
           },
           {
             "t": "p",
-            "x": "Radisson은 ChatGPT에 스폰서 광고를 낸 숙박업계 선두 주자 가운데 하나이기도 하다. 캠페인에서 잡힌 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. 광고 경험도 Accenture가 플러그인용으로 만든 MCP 서버와 APIs 위에서 돌아간다."
+            "x": "새로 생긴 네 가지 옵션은 아래 스크린숏에서 볼 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
           }
         ]
       },
+      "lead_image": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg",
       "text": {
         "en": {
-          "headline": "Radisson brings hotel\ndiscovery into ChatGPT",
-          "body": "Radisson and Accenture Song built a ChatGPT plugin to compare hotels, converting about 1.5 times its organic search.",
-          "mini_headline": "Radisson plugin in ChatGPT",
+          "headline": "Google Ads adds AI Max\nreporting columns",
+          "body": "Google Ads is adding AI Max columns for brand inclusions, locations of interest, commission and optimized targeting.",
+          "mini_headline": "New AI Max columns in Google Ads",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Through its partnership with Accenture Song, Radisson Hotel Group is using OpenAI technology to reach guests earlier in the travel planning journey. The Radisson Hotels ChatGPT plugin helps travelers compare hotels and explore travel options, and early results show booking conversion approximately 1.5 times that of Radisson's organic search."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "With the help of agentic development, the team built and launched the plugin in just six weeks. It lets users see Radisson Hotel suggestions on a map, compare pricing, and view hotel amenities in detail directly in ChatGPT, then continue to the Radisson site to complete their booking."
+                "x": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting."
               },
               {
                 "t": "p",
-                "x": "A recent ChatGPT update means users no longer have to type @RadissonHotels; if the plugin is installed, ChatGPT automatically shows it whenever relevant."
+                "x": "This was spotted by Vivek Gupta who wrote on LinkedIn, \"Google Ads has added some new AI Max related columns.\""
               },
               {
                 "t": "p",
-                "x": "Radisson is also among the hospitality pioneers running sponsored advertising in ChatGPT. More than half of the campaign's recorded checkout and booking events were attributed through view-through measurement. The MCP server and APIs Accenture developed for the plugin also power the ads experience."
+                "x": "Here is the screenshot showing these four new options:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions, Locations of interest, Commission, Optimized targeting"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
-          "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
-          "mini_headline": "ChatGPT 속 Radisson 플러그인",
+          "headline": "Google Ads에\nAI Max 보고 열 추가",
+          "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
+          "mini_headline": "Google Ads에 새 AI Max 열",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Radisson Hotel Group은 Accenture Song과 손잡고 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객을 만나고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 둘러보게 돕는다. 초기 결과를 보면 예약 전환율이 Radisson 자연 검색의 약 1.5배였다."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "팀은 에이전트 기반 개발의 힘을 빌려 여섯 주 만에 플러그인을 만들고 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고 가격을 비교하고 편의시설을 꼼꼼히 살핀 뒤, Radisson 사이트로 넘어가 예약을 마친다."
+                "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 넣는 중이다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
               },
               {
                 "t": "p",
-                "x": "최근 ChatGPT 업데이트 이후로는 @RadissonHotels를 따로 입력하지 않아도 된다. 플러그인을 설치해 두면 관련이 있을 때 ChatGPT가 알아서 띄워 준다."
+                "x": "처음 발견한 사람은 Vivek Gupta로, LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
               },
               {
                 "t": "p",
-                "x": "Radisson은 ChatGPT에 스폰서 광고를 낸 숙박업계 선두 주자 가운데 하나이기도 하다. 캠페인에서 잡힌 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. 광고 경험도 Accenture가 플러그인용으로 만든 MCP 서버와 APIs 위에서 돌아간다."
+                "x": "새로 생긴 네 가지 옵션은 아래 스크린숏에서 볼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Radissonのホテル探し\nChatGPTの中へ",
-          "body": "RadissonとAccenture SongのChatGPTプラグインは転換約1.5倍だ。",
-          "mini_headline": "ChatGPT内のRadissonプラグイン",
+          "headline": "Google Adsが\nAI Maxレポート列追加",
+          "body": "Google Adsが関心のある地域や手数料などAI Maxの列を追加する。",
+          "mini_headline": "Google Adsに新しいAI Max列",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Radisson Hotel Groupは、Accenture Songとのパートナーシップを通じてOpenAIの技術を活用し、旅行計画のより早い段階で顧客にリーチしている。Radisson Hotels ChatGPTプラグインは旅行者がホテルを比較し旅行の選択肢を探るのを助けるもので、初期結果では予約転換率がRadissonの自然検索の約1.5倍だった。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェント型開発の助けを借り、チームはわずか六週間でプラグインを構築・公開した。ユーザーはChatGPT上で、Radisson Hotelの提案を地図で確認し、料金を比較し、ホテルの設備を詳しく見たうえで、Radissonのサイトに移って予約を完了できる。"
+                "x": "Google Adsは、Google AdsのレポートコンソールにAI Max関連の列を新たに追加している。追加されるのは、ブランドの包含、関心のある地域、手数料、最適化ターゲティングの列だ。"
               },
               {
                 "t": "p",
-                "x": "最近のChatGPTのアップデートにより、ユーザーは@RadissonHotelsと入力する必要がなくなった。プラグインがインストールされていれば、関連する場面でChatGPTが自動的に表示する。"
+                "x": "これを見つけたのはVivek Guptaで、LinkedInに「Google AdsにAI Max関連の新しい列がいくつか追加された」と投稿した。"
               },
               {
                 "t": "p",
-                "x": "RadissonはChatGPTでスポンサー広告を展開するホスピタリティ業界の先駆者の一社でもある。キャンペーンで記録されたチェックアウトと予約イベントの半数以上が、view-through計測によって帰属された。Accentureがプラグイン用に開発したMCPサーバーとAPIsは、広告体験も支えている。"
+                "x": "四つの新しいオプションを示すスクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions（ブランドの包含）、Locations of interest（関心のある地域）、Commission（手数料）、Optimized targeting（最適化ターゲティング）"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Radisson把酒店搜寻\n搬进ChatGPT",
-          "body": "Radisson与Accenture Song的ChatGPT插件转化约为自然搜索1.5倍。",
-          "mini_headline": "ChatGPT里的Radisson插件",
+          "headline": "Google Ads新增\nAI Max报告列",
+          "body": "Google Ads新增品牌包含、兴趣地点、佣金和优化定位等AI Max相关列。",
+          "mini_headline": "Google Ads新增AI Max列",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "通过与Accenture Song的合作，Radisson Hotel Group正利用OpenAI技术，在旅行规划更早的阶段触达客人。Radisson Hotels ChatGPT插件帮助旅行者比较酒店、探索出行选择，早期结果显示其预订转化率约为Radisson自然搜索的1.5倍。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "借助智能体式开发，团队仅用六周就完成了插件的构建和上线。用户可以直接在ChatGPT中在地图上查看Radisson Hotel的推荐、比较价格、详细了解酒店设施，然后前往Radisson网站完成预订。"
+                "x": "Google Ads正在其报告控制台中新增与AI Max相关的列，包括品牌包含、兴趣地点、佣金和优化定位。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT最近的一次更新意味着用户不再需要输入@RadissonHotels；只要安装了插件，ChatGPT就会在相关时自动显示它。"
+                "x": "这一变化由Vivek Gupta发现，他在LinkedIn上写道：“Google Ads新增了一些与AI Max相关的列。”"
               },
               {
                 "t": "p",
-                "x": "Radisson也是在ChatGPT中投放赞助广告的酒店业先行者之一。该活动记录的结账和预订事件中，超过一半通过view-through衡量完成归因。Accenture为插件开发的MCP服务器和APIs也为广告体验提供支持。"
+                "x": "以下截图展示了这四个新选项："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions（品牌包含）、Locations of interest（兴趣地点）、Commission（佣金）、Optimized targeting（优化定位）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radisson lleva la búsqueda\nde hoteles a ChatGPT",
-          "body": "Radisson y Accenture Song crearon un plugin de ChatGPT que convierte cerca de 1.5 veces lo que su búsqueda orgánica.",
-          "mini_headline": "El plugin de Radisson en ChatGPT",
+          "headline": "Google Ads añade columnas\nde informes de AI Max",
+          "body": "Google Ads añade columnas AI Max de inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada.",
+          "mini_headline": "Nuevas columnas de AI Max en Google Ads",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gracias a su alianza con Accenture Song, Radisson Hotel Group usa tecnología de OpenAI para llegar a los huéspedes en una fase más temprana de la planificación del viaje. El plugin Radisson Hotels ChatGPT ayuda a los viajeros a comparar hoteles y explorar opciones de viaje, y los primeros resultados muestran una conversión de reservas de aproximadamente 1.5 veces la de la búsqueda orgánica de Radisson."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "Con ayuda del desarrollo con agentes, el equipo creó y lanzó el plugin en solo seis semanas. Permite ver sugerencias de Radisson Hotel en un mapa, comparar precios y consultar en detalle los servicios del hotel directamente en ChatGPT, para luego pasar al sitio de Radisson y completar la reserva."
+                "x": "Google Ads está añadiendo nuevas columnas relacionadas con AI Max a la consola de informes de Google Ads. Las columnas incluyen inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada."
               },
               {
                 "t": "p",
-                "x": "Tras una actualización reciente de ChatGPT, los usuarios ya no tienen que escribir @RadissonHotels; si el plugin está instalado, ChatGPT lo muestra automáticamente cuando es relevante."
+                "x": "Lo detectó Vivek Gupta, que escribió en LinkedIn: “Google Ads ha añadido algunas columnas nuevas relacionadas con AI Max”."
               },
               {
                 "t": "p",
-                "x": "Radisson también figura entre los pioneros de la hostelería que publican anuncios patrocinados en ChatGPT. Más de la mitad de los eventos de pago y reserva registrados en la campaña se atribuyeron mediante medición view-through. El servidor MCP y las APIs que Accenture desarrolló para el plugin también impulsan la experiencia publicitaria."
+                "x": "Esta es la captura de pantalla que muestra las cuatro nuevas opciones:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions (inclusiones de marca), Locations of interest (ubicaciones de interés), Commission (comisión), Optimized targeting (segmentación optimizada)"
               }
             ]
           }
@@ -1205,105 +1044,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Radisson 호텔 탐색\nChatGPT 안으로",
-          "body": "Radisson의 ChatGPT 플러그인 예약 전환은 자연 검색의 약 1.5배다.",
-          "mini_headline": "ChatGPT 속 Radisson 플러그인",
+          "headline": "Google Ads에\nAI Max 보고 열 추가",
+          "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
+          "mini_headline": "Google Ads에 새 AI Max 열",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Radisson Hotel Group은 Accenture Song과의 파트너십을 통해 OpenAI 기술로 여행 계획의 더 이른 단계에서 고객에게 다가가고 있다. Radisson Hotels ChatGPT 플러그인은 여행자가 호텔을 비교하고 여행 선택지를 살펴보도록 돕는데, 초기 결과에서 예약 전환율은 Radisson 자연 검색의 약 1.5배였다."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "팀은 에이전트 기반 개발의 도움으로 여섯 주 만에 플러그인을 만들어 출시했다. 사용자는 ChatGPT 안에서 지도 위 Radisson Hotel 추천을 보고, 가격을 비교하고, 호텔 편의시설을 자세히 살펴본 뒤 Radisson 사이트로 넘어가 예약을 마칠 수 있다."
+                "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 추가하고 있다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
               },
               {
                 "t": "p",
-                "x": "최근 ChatGPT 업데이트로 사용자는 더 이상 @RadissonHotels를 입력할 필요가 없다. 플러그인을 설치해 두면 ChatGPT가 관련 있을 때마다 자동으로 보여 준다."
+                "x": "이 변화는 Vivek Gupta가 처음 발견해 LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
               },
               {
                 "t": "p",
-                "x": "Radisson은 ChatGPT에서 스폰서 광고를 운영하는 숙박업계 선구자 중 하나이기도 하다. 캠페인에서 기록된 결제·예약 이벤트의 절반 이상이 view-through 측정으로 귀속됐다. Accenture가 플러그인용으로 개발한 MCP 서버와 APIs가 광고 경험도 뒷받침한다."
+                "x": "아래는 새로 생긴 네 가지 옵션을 보여 주는 스크린숏이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Radissonのホテル探し\nChatGPTの中へ",
-          "body": "RadissonとAccenture SongのChatGPTプラグインは転換約1.5倍だ。",
-          "mini_headline": "ChatGPT内のRadissonプラグイン",
+          "headline": "Google Adsが\nAI Maxレポート列追加",
+          "body": "Google Adsが関心のある地域や手数料などAI Maxの列を追加する。",
+          "mini_headline": "Google Adsに新しいAI Max列",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Radisson Hotel Groupは、Accenture Songとのパートナーシップを通じてOpenAIの技術を活用し、旅行計画のより早い段階で顧客にリーチしている。Radisson Hotels ChatGPTプラグインは旅行者がホテルを比較し旅行の選択肢を探るのを助けるもので、初期結果では予約転換率がRadissonの自然検索の約1.5倍だった。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "エージェント型開発の助けを借り、チームはわずか六週間でプラグインを構築・公開した。ユーザーはChatGPT上で、Radisson Hotelの提案を地図で確認し、料金を比較し、ホテルの設備を詳しく見たうえで、Radissonのサイトに移って予約を完了できる。"
+                "x": "Google Adsは、Google AdsのレポートコンソールにAI Max関連の列を新たに追加している。追加されるのは、ブランドの包含、関心のある地域、手数料、最適化ターゲティングの列だ。"
               },
               {
                 "t": "p",
-                "x": "最近のChatGPTのアップデートにより、ユーザーは@RadissonHotelsと入力する必要がなくなった。プラグインがインストールされていれば、関連する場面でChatGPTが自動的に表示する。"
+                "x": "これを見つけたのはVivek Guptaで、LinkedInに「Google AdsにAI Max関連の新しい列がいくつか追加された」と投稿した。"
               },
               {
                 "t": "p",
-                "x": "RadissonはChatGPTでスポンサー広告を展開するホスピタリティ業界の先駆者の一社でもある。キャンペーンで記録されたチェックアウトと予約イベントの半数以上が、view-through計測によって帰属された。Accentureがプラグイン用に開発したMCPサーバーとAPIsは、広告体験も支えている。"
+                "x": "四つの新しいオプションを示すスクリーンショットは以下のとおりだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions（ブランドの包含）、Locations of interest（関心のある地域）、Commission（手数料）、Optimized targeting（最適化ターゲティング）"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Radisson把酒店搜寻\n搬进ChatGPT",
-          "body": "Radisson与Accenture Song的ChatGPT插件转化约为自然搜索1.5倍。",
-          "mini_headline": "ChatGPT里的Radisson插件",
+          "headline": "Google Ads新增\nAI Max报告列",
+          "body": "Google Ads新增品牌包含、兴趣地点、佣金和优化定位等AI Max相关列。",
+          "mini_headline": "Google Ads新增AI Max列",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "通过与Accenture Song的合作，Radisson Hotel Group正利用OpenAI技术，在旅行规划更早的阶段触达客人。Radisson Hotels ChatGPT插件帮助旅行者比较酒店、探索出行选择，早期结果显示其预订转化率约为Radisson自然搜索的1.5倍。"
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "借助智能体式开发，团队仅用六周就完成了插件的构建和上线。用户可以直接在ChatGPT中在地图上查看Radisson Hotel的推荐、比较价格、详细了解酒店设施，然后前往Radisson网站完成预订。"
+                "x": "Google Ads正在其报告控制台中新增与AI Max相关的列，包括品牌包含、兴趣地点、佣金和优化定位。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT最近的一次更新意味着用户不再需要输入@RadissonHotels；只要安装了插件，ChatGPT就会在相关时自动显示它。"
+                "x": "这一变化由Vivek Gupta发现，他在LinkedIn上写道：“Google Ads新增了一些与AI Max相关的列。”"
               },
               {
                 "t": "p",
-                "x": "Radisson也是在ChatGPT中投放赞助广告的酒店业先行者之一。该活动记录的结账和预订事件中，超过一半通过view-through衡量完成归因。Accenture为插件开发的MCP服务器和APIs也为广告体验提供支持。"
+                "x": "以下截图展示了这四个新选项："
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions（品牌包含）、Locations of interest（兴趣地点）、Commission（佣金）、Optimized targeting（优化定位）"
               }
             ]
           }
         },
         "es": {
-          "headline": "Radisson lleva la búsqueda\nde hoteles a ChatGPT",
-          "body": "Radisson y Accenture Song crearon un plugin de ChatGPT que convierte cerca de 1.5 veces lo que su búsqueda orgánica.",
-          "mini_headline": "El plugin de Radisson en ChatGPT",
+          "headline": "Google Ads añade columnas\nde informes de AI Max",
+          "body": "Google Ads añade columnas AI Max de inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada.",
+          "mini_headline": "Nuevas columnas de AI Max en Google Ads",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gracias a su alianza con Accenture Song, Radisson Hotel Group usa tecnología de OpenAI para llegar a los huéspedes en una fase más temprana de la planificación del viaje. El plugin Radisson Hotels ChatGPT ayuda a los viajeros a comparar hoteles y explorar opciones de viaje, y los primeros resultados muestran una conversión de reservas de aproximadamente 1.5 veces la de la búsqueda orgánica de Radisson."
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
               },
               {
                 "t": "p",
-                "x": "Con ayuda del desarrollo con agentes, el equipo creó y lanzó el plugin en solo seis semanas. Permite ver sugerencias de Radisson Hotel en un mapa, comparar precios y consultar en detalle los servicios del hotel directamente en ChatGPT, para luego pasar al sitio de Radisson y completar la reserva."
+                "x": "Google Ads está añadiendo nuevas columnas relacionadas con AI Max a la consola de informes de Google Ads. Las columnas incluyen inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada."
               },
               {
                 "t": "p",
-                "x": "Tras una actualización reciente de ChatGPT, los usuarios ya no tienen que escribir @RadissonHotels; si el plugin está instalado, ChatGPT lo muestra automáticamente cuando es relevante."
+                "x": "Lo detectó Vivek Gupta, que escribió en LinkedIn: “Google Ads ha añadido algunas columnas nuevas relacionadas con AI Max”."
               },
               {
                 "t": "p",
-                "x": "Radisson también figura entre los pioneros de la hostelería que publican anuncios patrocinados en ChatGPT. Más de la mitad de los eventos de pago y reserva registrados en la campaña se atribuyeron mediante medición view-through. El servidor MCP y las APIs que Accenture desarrolló para el plugin también impulsan la experiencia publicitaria."
+                "x": "Esta es la captura de pantalla que muestra las cuatro nuevas opciones:"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brand Inclusions (inclusiones de marca), Locations of interest (ubicaciones de interés), Commission (comisión), Optimized targeting (segmentación optimizada)"
               }
             ]
           }
@@ -1311,15 +1182,15 @@
       }
     },
     {
-      "id": "marketing-trafficguard-chatgpt-ad-invalid-clicks",
+      "id": "marketing-ok-future-goodwipes-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
-      "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
-      "mini_headline": "ChatGPT 광고 무효 클릭",
+      "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
+      "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
+      "mini_headline": "여섯 주 걸릴 광고를 나흘에",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
+      "source": "Digiday",
+      "url": "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1327,305 +1198,689 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-            "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
           },
           {
             "t": "p",
-            "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard가 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석했다. 무효 비율은 광고주에 따라 0.1%에서 34%까지 벌어졌고, 무효로 분류된 클릭의 47%는 호스팅·프록시 네트워크 네 곳에서 나왔다."
+            "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼지 시험해 보고 싶었다."
           },
           {
             "t": "p",
-            "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 들어왔다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
+            "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그의 말로는 일 분 길이 광고를 만드는 데 보통 여섯 주쯤 걸린다."
           },
           {
             "t": "p",
-            "x": "네 네트워크가 세 주 동안 보낸 클릭은 899건으로, 광고주 47곳 중 25곳에 닿았고 무효 클릭 1,592건 중 742건을 만들어 냈다. 호스팅, residential-proxy 또는 악성 IP 대역에서 온 ChatGPT 클릭은 1,336건(3.34%)이었다. 같은 광고주의 Google Ads에서는 이 비율이 0.92%에 그쳤다."
+            "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구로는 캐릭터를 시각화하고 목소리를 입히고 촬영 장소를 만들었다."
           },
           {
             "t": "p",
-            "x": "TrafficGuard가 센 것은 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭이다. 이 회사는 클릭 검증을 파는 곳이라, 이번 결과에는 상업적 이해관계가 걸려 있다."
+            "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
           }
         ]
       },
+      "lead_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp",
       "text": {
         "en": {
-          "headline": "Up to 34% of some ChatGPT\nad clicks flagged invalid",
-          "body": "TrafficGuard says four proxy and hosting networks reached 25 of 47 advertisers and drove 47% of flagged ChatGPT clicks.",
-          "mini_headline": "ChatGPT ad clicks flagged",
+          "headline": "AI cuts an agency's ad work\nfrom six weeks to four days",
+          "body": "OK Future made Goodwipes' AI spoof ad in four days instead of six weeks, cutting costs but pushing the team hard.",
+          "mini_headline": "A six-week ad in four days",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "Four hollow suits in twelve: up to a third of clicks on some ChatGPT ads were invalid"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "TrafficGuard, the ad verification platform owned by Adveritas Ltd, said an analysis of 40,021 clicks on OpenAI's ChatGPT ads found invalid rates between 0.1% and 34% depending on the advertiser, with four hosting and proxy networks behind 47% of the flagged clicks."
+                "x": "When former MullenLowe U.S. CEO Frank Cartagena launched his own creative shop, OK Future, he wanted to test how much generative AI would let his agency of four people punch above its weight."
               },
               {
                 "t": "p",
-                "x": "The clicks landed on 78 websites run by 47 enterprise advertisers between August 24 and September 14, 2026. On the worst-hit account, according to chief executive Mathew Ratty, \"nearly 90% of flagged clicks came from server infrastructure with no human user behind it.\""
+                "x": "Its first work, Goodwipes’ “Meet Asstra,” a spoof of OpenAI’s commercial for its AI model Astra, went from concept to execution in four days with generative AI tools and curbed the projected $700,000 production costs. A minute-long produced commercial typically takes about six weeks, he said."
               },
               {
                 "t": "p",
-                "x": "The four networks sent 899 clicks in three weeks, reached 25 of the 47 advertisers and produced 742 of the 1,592 invalid clicks. 1,336 ChatGPT clicks (3.34%) came from hosting, residential-proxy or malicious IP space, against 0.92% on the same advertisers' Google Ads."
+                "x": "Goodwipes and OK Future handled the script, character building, storyboarding and edits; tools including ArtCraft, Seedance and OpenAI’s Astra visualized and voiced the characters and produced the location."
               },
               {
                 "t": "p",
-                "x": "TrafficGuard's figures count clicks that reached advertisers' websites, not clicks billed by OpenAI, and the company sells click verification, so the findings come from a party with a commercial interest."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT広告クリック\n一部で最大34%が無効",
-          "body": "TrafficGuardによればChatGPT無効クリックの47%は四つのネットワーク発だ。",
-          "mini_headline": "ChatGPT広告クリックに無効判定",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "十二着のうち四着は中身のないスーツ。一部のChatGPT広告では、クリックの最大三分の一が無効だった"
+                "x": "The team worked in shifts around the clock on little sleep. “I really wouldn’t recommend that this be the norm of a project. It’s just an unsustainable pace,” Cartagena said. “It’s a total pressure cooker.”"
               },
               {
                 "t": "p",
-                "x": "Adveritas Ltdが所有する広告検証プラットフォームTrafficGuardは、OpenAIのChatGPT広告に対する40,021件のクリックを分析した結果、無効率は広告主によって0.1%から34%で、無効と判定されたクリックの47%は四つのホスティング・プロキシネットワークによるものだったと発表した。"
-              },
-              {
-                "t": "p",
-                "x": "クリックは2026年8月24日から9月14日にかけて、47社の大手広告主が運営する78のウェブサイトに着地した。最高経営責任者Mathew Rattyによると、最も被害の大きいアカウントでは「判定されたクリックの90%近くが、背後に人間のユーザーがいないサーバーインフラから来ていた」。"
-              },
-              {
-                "t": "p",
-                "x": "四つのネットワークは三週間で899件のクリックを送り、47社中25社の広告主に到達し、1,592件の無効クリックのうち742件を生み出した。ChatGPTのクリック1,336件(3.34%)がホスティング、residential-proxy、または悪意あるIP空間からのもので、同じ広告主のGoogle Adsでは0.92%だった。"
-              },
-              {
-                "t": "p",
-                "x": "TrafficGuardの数値はOpenAIが課金したクリックではなく、広告主のウェブサイトに到達したクリックを数えたものだ。また同社はクリック検証を販売しており、調査結果は商業的利害を持つ当事者によるものである。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "部分ChatGPT广告点击\n最高34%被判无效",
-          "body": "TrafficGuard称四个网络触及47家中25家广告主，占ChatGPT标记点击47%。",
-          "mini_headline": "ChatGPT广告点击被标记",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "十二套西装里有四套是空的：部分ChatGPT广告中，最多三分之一的点击无效"
-              },
-              {
-                "t": "p",
-                "x": "Adveritas Ltd旗下的广告验证平台TrafficGuard表示，对OpenAI的ChatGPT广告40,021次点击的分析发现，不同广告主的无效率在0.1%至34%之间，被标记点击中有47%来自四个托管和代理网络。"
-              },
-              {
-                "t": "p",
-                "x": "这些点击于2026年8月24日至9月14日期间落在47家企业广告主运营的78个网站上。据首席执行官Mathew Ratty称，在受影响最严重的账户中，“近90%的被标记点击来自背后没有真人用户的服务器基础设施。”"
-              },
-              {
-                "t": "p",
-                "x": "这四个网络在三周内发送了899次点击，触及47家广告主中的25家，产生了1,592次无效点击中的742次。共有1,336次ChatGPT点击（3.34%）来自托管、residential-proxy或恶意IP地址空间，而同一批广告主在Google Ads上的这一比例为0.92%。"
-              },
-              {
-                "t": "p",
-                "x": "TrafficGuard的数据统计的是到达广告主网站的点击，而非OpenAI计费的点击，且该公司本身销售点击验证服务，因此这些结论来自存在商业利益的一方。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Hasta 34% de clics en anuncios\nde ChatGPT, marcados inválidos",
-          "body": "Según TrafficGuard, cuatro redes llegaron a 25 de 47 anunciantes y generaron el 47% de los clics marcados de ChatGPT.",
-          "mini_headline": "Clics en anuncios de ChatGPT, marcados",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "Cuatro trajes vacíos de doce: hasta un tercio de los clics en algunos anuncios de ChatGPT fueron inválidos"
-              },
-              {
-                "t": "p",
-                "x": "TrafficGuard, la plataforma de verificación publicitaria propiedad de Adveritas Ltd, afirmó que un análisis de 40,021 clics en anuncios de ChatGPT de OpenAI halló tasas de invalidez de entre el 0.1% y el 34% según el anunciante, con cuatro redes de hosting y proxy detrás del 47% de los clics marcados."
-              },
-              {
-                "t": "p",
-                "x": "Los clics llegaron a 78 sitios web gestionados por 47 grandes anunciantes entre el 24 de agosto y el 14 de septiembre de 2026. En la cuenta más afectada, según el consejero delegado Mathew Ratty, \"casi el 90% de los clics marcados procedía de infraestructura de servidores sin ningún usuario humano detrás\"."
-              },
-              {
-                "t": "p",
-                "x": "Las cuatro redes enviaron 899 clics en tres semanas, llegaron a 25 de los 47 anunciantes y produjeron 742 de los 1,592 clics inválidos. 1,336 clics de ChatGPT (3.34%) procedían de espacio IP de hosting, residential-proxy o malicioso, frente al 0.92% en Google Ads de los mismos anunciantes."
-              },
-              {
-                "t": "p",
-                "x": "Las cifras de TrafficGuard cuentan los clics que llegaron a los sitios web de los anunciantes, no los facturados por OpenAI, y la empresa vende verificación de clics, por lo que los resultados proceden de una parte con un interés comercial."
+                "x": "The spot drove more than 750,000 Reddit views in its first 48 hours and has since reached almost 1.5 million views across subreddits, with more than 800 shares, according to a company spokesperson."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
-          "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
-          "mini_headline": "ChatGPT 광고 무효 클릭",
+          "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
+          "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
+          "mini_headline": "여섯 주 걸릴 광고를 나흘에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard가 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석했다. 무효 비율은 광고주에 따라 0.1%에서 34%까지 벌어졌고, 무효로 분류된 클릭의 47%는 호스팅·프록시 네트워크 네 곳에서 나왔다."
+                "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼지 시험해 보고 싶었다."
               },
               {
                 "t": "p",
-                "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 들어왔다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
+                "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그의 말로는 일 분 길이 광고를 만드는 데 보통 여섯 주쯤 걸린다."
               },
               {
                 "t": "p",
-                "x": "네 네트워크가 세 주 동안 보낸 클릭은 899건으로, 광고주 47곳 중 25곳에 닿았고 무효 클릭 1,592건 중 742건을 만들어 냈다. 호스팅, residential-proxy 또는 악성 IP 대역에서 온 ChatGPT 클릭은 1,336건(3.34%)이었다. 같은 광고주의 Google Ads에서는 이 비율이 0.92%에 그쳤다."
+                "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구로는 캐릭터를 시각화하고 목소리를 입히고 촬영 장소를 만들었다."
               },
               {
                 "t": "p",
-                "x": "TrafficGuard가 센 것은 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭이다. 이 회사는 클릭 검증을 파는 곳이라, 이번 결과에는 상업적 이해관계가 걸려 있다."
+                "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで代理店の広告制作\n六週間から四日に",
+          "body": "OK FutureはGoodwipesのAIパロディ広告を六週間でなく四日で作った。",
+          "mini_headline": "六週間の広告を四日で",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+              },
+              {
+                "t": "p",
+                "x": "MullenLowe U.S.の元CEO、Frank Cartagenaは自らのクリエイティブショップOK Futureを立ち上げた際、生成AIによって四人の代理店がどこまで実力以上の仕事をできるかを試したいと考えた。"
+              },
+              {
+                "t": "p",
+                "x": "最初の作品は、OpenAIのAIモデルAstraのCMをもじったGoodwipesの「Meet Asstra」だ。生成AIツールを使って構想から完成まで四日で仕上げ、$700,000と見込まれた制作費を抑えた。一分の本格的なCMは通常およそ六週間かかると彼は語る。"
+              },
+              {
+                "t": "p",
+                "x": "脚本、キャラクター作り、絵コンテ、編集はGoodwipesとOK Futureが担い、ArtCraft、Seedance、OpenAIのAstraなどのツールがキャラクターの映像化と声、ロケーションの制作を担った。"
+              },
+              {
+                "t": "p",
+                "x": "チームはほとんど眠らず、交代で昼夜を問わず作業した。Cartagenaは「これがプロジェクトの標準になることは本当に勧めない。持続できないペースだ」と述べ、「まさに圧力鍋だ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "同社の広報担当者によると、このCMは公開後48時間でReddit上で750,000回を超える再生を記録し、その後は複数のサブレディットで合計1.5 million 回近い再生と800回を超えるシェアを得た。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI让代理商广告制作\n从六周缩至四天",
+          "body": "OK Future用四天而非六周做出Goodwipes的AI恶搞广告，省下成本但团队吃紧。",
+          "mini_headline": "六周的广告四天完成",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+              },
+              {
+                "t": "p",
+                "x": "前MullenLowe U.S. CEO Frank Cartagena创办自己的创意工作室OK Future时，想检验生成式AI能让他这家四人代理商在多大程度上以小博大。"
+              },
+              {
+                "t": "p",
+                "x": "其首个作品是Goodwipes的“Meet Asstra”，恶搞了OpenAI为其AI模型Astra拍摄的广告。借助生成式AI工具，这支广告从构思到执行只用了四天，并压低了预计$700,000的制作成本。他说，一支一分钟的正式广告通常需要约六周。"
+              },
+              {
+                "t": "p",
+                "x": "Goodwipes和OK Future负责脚本、角色塑造、分镜和剪辑；ArtCraft、Seedance和OpenAI的Astra等工具则完成角色的视觉呈现和配音，并生成拍摄场景。"
+              },
+              {
+                "t": "p",
+                "x": "团队几乎没怎么睡觉，轮班昼夜赶工。Cartagena说：“我真的不建议让这成为项目的常态。这个节奏根本无法持续。”他还说：“完全就是个高压锅。”"
+              },
+              {
+                "t": "p",
+                "x": "据公司发言人介绍，这支广告在发布后48小时内在Reddit获得超过750,000次观看，此后在多个子版块累计观看近1.5 million 次，分享超过800次。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Con AI, una agencia pasa\nde seis semanas a cuatro días",
+          "body": "OK Future hizo el anuncio paródico de AI de Goodwipes en cuatro días y no seis semanas, con ahorro y mucha presión.",
+          "mini_headline": "Un anuncio de seis semanas, en cuatro días",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+              },
+              {
+                "t": "p",
+                "x": "Cuando Frank Cartagena, ex CEO de MullenLowe U.S., fundó su propio estudio creativo, OK Future, quiso comprobar hasta qué punto la AI generativa permitiría a su agencia de cuatro personas rendir por encima de su tamaño."
+              },
+              {
+                "t": "p",
+                "x": "Su primer trabajo, “Meet Asstra” de Goodwipes, una parodia del comercial de OpenAI para su modelo de AI Astra, pasó del concepto a la ejecución en cuatro días con herramientas de AI generativa y redujo los $700,000 de costos de producción previstos. Un comercial producido de un minuto suele tardar unas seis semanas, dijo."
+              },
+              {
+                "t": "p",
+                "x": "Goodwipes y OK Future se encargaron del guion, la construcción de personajes, el storyboard y la edición; herramientas como ArtCraft, Seedance y Astra de OpenAI dieron imagen y voz a los personajes y generaron la locación."
+              },
+              {
+                "t": "p",
+                "x": "El equipo trabajó por turnos día y noche, durmiendo poco. “De verdad no recomendaría que esto fuera la norma de un proyecto. Es un ritmo insostenible”, dijo Cartagena. “Es una auténtica olla a presión”."
+              },
+              {
+                "t": "p",
+                "x": "Según un portavoz de la empresa, el anuncio superó las 750,000 visualizaciones en Reddit en sus primeras 48 horas y desde entonces ha alcanzado casi 1.5 millones de visualizaciones en distintos subreddits, y se ha compartido más de 800 veces."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "ChatGPT広告クリック\n一部で最大34%が無効",
-          "body": "TrafficGuardによればChatGPT無効クリックの47%は四つのネットワーク発だ。",
-          "mini_headline": "ChatGPT広告クリックに無効判定",
+        "ko": {
+          "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
+          "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
+          "mini_headline": "여섯 주 걸릴 광고를 나흘에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "十二着のうち四着は中身のないスーツ。一部のChatGPT広告では、クリックの最大三分の一が無効だった"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Adveritas Ltdが所有する広告検証プラットフォームTrafficGuardは、OpenAIのChatGPT広告に対する40,021件のクリックを分析した結果、無効率は広告主によって0.1%から34%で、無効と判定されたクリックの47%は四つのホスティング・プロキシネットワークによるものだったと発表した。"
+                "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서, 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼 수 있는지 시험해 보고 싶었다."
               },
               {
                 "t": "p",
-                "x": "クリックは2026年8月24日から9月14日にかけて、47社の大手広告主が運営する78のウェブサイトに着地した。最高経営責任者Mathew Rattyによると、最も被害の大きいアカウントでは「判定されたクリックの90%近くが、背後に人間のユーザーがいないサーバーインフラから来ていた」。"
+                "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그는 일 분 길이의 광고를 제작하는 데 보통 여섯 주가량 걸린다고 말했다."
               },
               {
                 "t": "p",
-                "x": "四つのネットワークは三週間で899件のクリックを送り、47社中25社の広告主に到達し、1,592件の無効クリックのうち742件を生み出した。ChatGPTのクリック1,336件(3.34%)がホスティング、residential-proxy、または悪意あるIP空間からのもので、同じ広告主のGoogle Adsでは0.92%だった。"
+                "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구가 캐릭터를 시각화하고 목소리를 입혔으며 촬영 장소를 만들어 냈다."
               },
               {
                 "t": "p",
-                "x": "TrafficGuardの数値はOpenAIが課金したクリックではなく、広告主のウェブサイトに到達したクリックを数えたものだ。また同社はクリック検証を販売しており、調査結果は商業的利害を持つ当事者によるものである。"
+                "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで代理店の広告制作\n六週間から四日に",
+          "body": "OK FutureはGoodwipesのAIパロディ広告を六週間でなく四日で作った。",
+          "mini_headline": "六週間の広告を四日で",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+              },
+              {
+                "t": "p",
+                "x": "MullenLowe U.S.の元CEO、Frank Cartagenaは自らのクリエイティブショップOK Futureを立ち上げた際、生成AIによって四人の代理店がどこまで実力以上の仕事をできるかを試したいと考えた。"
+              },
+              {
+                "t": "p",
+                "x": "最初の作品は、OpenAIのAIモデルAstraのCMをもじったGoodwipesの「Meet Asstra」だ。生成AIツールを使って構想から完成まで四日で仕上げ、$700,000と見込まれた制作費を抑えた。一分の本格的なCMは通常およそ六週間かかると彼は語る。"
+              },
+              {
+                "t": "p",
+                "x": "脚本、キャラクター作り、絵コンテ、編集はGoodwipesとOK Futureが担い、ArtCraft、Seedance、OpenAIのAstraなどのツールがキャラクターの映像化と声、ロケーションの制作を担った。"
+              },
+              {
+                "t": "p",
+                "x": "チームはほとんど眠らず、交代で昼夜を問わず作業した。Cartagenaは「これがプロジェクトの標準になることは本当に勧めない。持続できないペースだ」と述べ、「まさに圧力鍋だ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "同社の広報担当者によると、このCMは公開後48時間でReddit上で750,000回を超える再生を記録し、その後は複数のサブレディットで合計1.5 million 回近い再生と800回を超えるシェアを得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "部分ChatGPT广告点击\n最高34%被判无效",
-          "body": "TrafficGuard称四个网络触及47家中25家广告主，占ChatGPT标记点击47%。",
-          "mini_headline": "ChatGPT广告点击被标记",
+          "headline": "AI让代理商广告制作\n从六周缩至四天",
+          "body": "OK Future用四天而非六周做出Goodwipes的AI恶搞广告，省下成本但团队吃紧。",
+          "mini_headline": "六周的广告四天完成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "十二套西装里有四套是空的：部分ChatGPT广告中，最多三分之一的点击无效"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Adveritas Ltd旗下的广告验证平台TrafficGuard表示，对OpenAI的ChatGPT广告40,021次点击的分析发现，不同广告主的无效率在0.1%至34%之间，被标记点击中有47%来自四个托管和代理网络。"
+                "x": "前MullenLowe U.S. CEO Frank Cartagena创办自己的创意工作室OK Future时，想检验生成式AI能让他这家四人代理商在多大程度上以小博大。"
               },
               {
                 "t": "p",
-                "x": "这些点击于2026年8月24日至9月14日期间落在47家企业广告主运营的78个网站上。据首席执行官Mathew Ratty称，在受影响最严重的账户中，“近90%的被标记点击来自背后没有真人用户的服务器基础设施。”"
+                "x": "其首个作品是Goodwipes的“Meet Asstra”，恶搞了OpenAI为其AI模型Astra拍摄的广告。借助生成式AI工具，这支广告从构思到执行只用了四天，并压低了预计$700,000的制作成本。他说，一支一分钟的正式广告通常需要约六周。"
               },
               {
                 "t": "p",
-                "x": "这四个网络在三周内发送了899次点击，触及47家广告主中的25家，产生了1,592次无效点击中的742次。共有1,336次ChatGPT点击（3.34%）来自托管、residential-proxy或恶意IP地址空间，而同一批广告主在Google Ads上的这一比例为0.92%。"
+                "x": "Goodwipes和OK Future负责脚本、角色塑造、分镜和剪辑；ArtCraft、Seedance和OpenAI的Astra等工具则完成角色的视觉呈现和配音，并生成拍摄场景。"
               },
               {
                 "t": "p",
-                "x": "TrafficGuard的数据统计的是到达广告主网站的点击，而非OpenAI计费的点击，且该公司本身销售点击验证服务，因此这些结论来自存在商业利益的一方。"
+                "x": "团队几乎没怎么睡觉，轮班昼夜赶工。Cartagena说：“我真的不建议让这成为项目的常态。这个节奏根本无法持续。”他还说：“完全就是个高压锅。”"
+              },
+              {
+                "t": "p",
+                "x": "据公司发言人介绍，这支广告在发布后48小时内在Reddit获得超过750,000次观看，此后在多个子版块累计观看近1.5 million 次，分享超过800次。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Hasta 34% de clics en anuncios\nde ChatGPT, marcados inválidos",
-          "body": "Según TrafficGuard, cuatro redes llegaron a 25 de 47 anunciantes y generaron el 47% de los clics marcados de ChatGPT.",
-          "mini_headline": "Clics en anuncios de ChatGPT, marcados",
+          "headline": "Con AI, una agencia pasa\nde seis semanas a cuatro días",
+          "body": "OK Future hizo el anuncio paródico de AI de Goodwipes en cuatro días y no seis semanas, con ahorro y mucha presión.",
+          "mini_headline": "Un anuncio de seis semanas, en cuatro días",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "Cuatro trajes vacíos de doce: hasta un tercio de los clics en algunos anuncios de ChatGPT fueron inválidos"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "TrafficGuard, la plataforma de verificación publicitaria propiedad de Adveritas Ltd, afirmó que un análisis de 40,021 clics en anuncios de ChatGPT de OpenAI halló tasas de invalidez de entre el 0.1% y el 34% según el anunciante, con cuatro redes de hosting y proxy detrás del 47% de los clics marcados."
+                "x": "Cuando Frank Cartagena, ex CEO de MullenLowe U.S., fundó su propio estudio creativo, OK Future, quiso comprobar hasta qué punto la AI generativa permitiría a su agencia de cuatro personas rendir por encima de su tamaño."
               },
               {
                 "t": "p",
-                "x": "Los clics llegaron a 78 sitios web gestionados por 47 grandes anunciantes entre el 24 de agosto y el 14 de septiembre de 2026. En la cuenta más afectada, según el consejero delegado Mathew Ratty, \"casi el 90% de los clics marcados procedía de infraestructura de servidores sin ningún usuario humano detrás\"."
+                "x": "Su primer trabajo, “Meet Asstra” de Goodwipes, una parodia del comercial de OpenAI para su modelo de AI Astra, pasó del concepto a la ejecución en cuatro días con herramientas de AI generativa y redujo los $700,000 de costos de producción previstos. Un comercial producido de un minuto suele tardar unas seis semanas, dijo."
               },
               {
                 "t": "p",
-                "x": "Las cuatro redes enviaron 899 clics en tres semanas, llegaron a 25 de los 47 anunciantes y produjeron 742 de los 1,592 clics inválidos. 1,336 clics de ChatGPT (3.34%) procedían de espacio IP de hosting, residential-proxy o malicioso, frente al 0.92% en Google Ads de los mismos anunciantes."
+                "x": "Goodwipes y OK Future se encargaron del guion, la construcción de personajes, el storyboard y la edición; herramientas como ArtCraft, Seedance y Astra de OpenAI dieron imagen y voz a los personajes y generaron la locación."
               },
               {
                 "t": "p",
-                "x": "Las cifras de TrafficGuard cuentan los clics que llegaron a los sitios web de los anunciantes, no los facturados por OpenAI, y la empresa vende verificación de clics, por lo que los resultados proceden de una parte con un interés comercial."
+                "x": "El equipo trabajó por turnos día y noche, durmiendo poco. “De verdad no recomendaría que esto fuera la norma de un proyecto. Es un ritmo insostenible”, dijo Cartagena. “Es una auténtica olla a presión”."
+              },
+              {
+                "t": "p",
+                "x": "Según un portavoz de la empresa, el anuncio superó las 750,000 visualizaciones en Reddit en sus primeras 48 horas y desde entonces ha alcanzado casi 1.5 millones de visualizaciones en distintos subreddits, y se ha compartido más de 800 veces."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-walmart-sparky",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Walmart AI 절감분\n고객 경험에 재투자",
+      "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
+      "mini_headline": "Walmart, AI 절감분 재투자",
+      "tool": "Marketing",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+          },
+          {
+            "t": "p",
+            "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI 발전 덕분에 비용을 아끼고, 그 돈을 고객 경험 개선에 다시 투자한다."
+          },
+          {
+            "t": "p",
+            "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽으며 여기서 얻은 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "이 개선의 중심에는 Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
+          },
+          {
+            "t": "p",
+            "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
+          }
+        ]
+      },
+      "lead_image": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp",
+      "text": {
+        "en": {
+          "headline": "Walmart says AI savings fund\nbetter customer experience",
+          "body": "Walmart U.S. CEO David Guggina says AI is cutting costs that the retailer reinvests in customer experience.",
+          "mini_headline": "Walmart reinvests AI savings",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
+              },
+              {
+                "t": "p",
+                "x": "“We have been leaning into AI for quite some time — we've had physical AI in our supply chain for over seven years — and you can see it reshaping our company, reshaping our customer value proposition,” Guggina said in a conversation with Goldman Sachs’ Katharine McShane."
+              },
+              {
+                "t": "p",
+                "x": "The gains show most in e-commerce: sales grew 24% year over year in Q2, the 10th consecutive quarter of more than 20% growth. Guggina credited AI-driven efficiencies — faster delivery and cost savings — that were reinvested into competitive pricing and customer experience."
+              },
+              {
+                "t": "p",
+                "x": "Sparky, which Guggina describes as “becoming more and more capable,” is central to those improvements. Weekly engagement with Sparky has grown 60% quarter over quarter, and its new visual search has led to a 57% spike in conversion compared with text-based searches."
+              },
+              {
+                "t": "p",
+                "x": "Guggina is also “really happy” with partnerships with external AI agents like OpenAI’s ChatGPT and Google’s Gemini, which most often deep link customers to Walmart with “fantastic conversion rates.” That contrasts with Amazon, which last month moved to block Meta’s new AI assistant Muse from its site. Many customers arriving via ChatGPT and Gemini are new or returning, with a “very high” organic repeat rate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 광고 클릭\n최대 34% 무효 판정",
-          "body": "ChatGPT 무효클릭 47%는 광고주 47곳 중 25곳에 닿은 네 망에서 나왔다.",
-          "mini_headline": "ChatGPT 광고 무효 클릭",
+          "headline": "Walmart AI 절감분\n고객 경험에 재투자",
+          "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
+          "mini_headline": "Walmart, AI 절감분 재투자",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/size/w2000/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-                "cap": "열둘 중 속 빈 정장 넷. 일부 ChatGPT 광고에서는 클릭의 최대 삼분의 일이 무효였다"
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Adveritas Ltd 소유의 광고 검증 플랫폼 TrafficGuard는 OpenAI의 ChatGPT 광고 클릭 40,021건을 분석한 결과 광고주에 따라 무효 비율이 0.1%에서 34%까지 나왔고, 무효로 분류된 클릭의 47%가 호스팅·프록시 네트워크 네 곳에서 나왔다고 밝혔다."
+                "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI 발전 덕분에 비용을 아끼고, 그 돈을 고객 경험 개선에 다시 투자한다."
               },
               {
                 "t": "p",
-                "x": "이 클릭들은 2026년 August 24일부터 September 14일 사이 대기업 광고주 47곳이 운영하는 웹사이트 78개로 유입됐다. 최고경영자 Mathew Ratty에 따르면 피해가 가장 컸던 계정에서는 \"무효로 분류된 클릭의 90% 가까이가 사람 사용자가 없는 서버 인프라에서 나왔다.\""
+                "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "네 네트워크는 세 주 동안 899건의 클릭을 보내 광고주 47곳 중 25곳에 닿았고, 무효 클릭 1,592건 중 742건을 만들었다. ChatGPT 클릭 1,336건(3.34%)이 호스팅, residential-proxy 또는 악성 IP 대역에서 왔는데, 같은 광고주의 Google Ads에서는 이 비율이 0.92%였다."
+                "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽으며 여기서 얻은 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "TrafficGuard의 수치는 OpenAI가 과금한 클릭이 아니라 광고주 웹사이트에 도달한 클릭을 센 것이다. 또 이 회사는 클릭 검증을 판매하므로, 이번 결과는 상업적 이해관계가 있는 쪽에서 나온 것이다."
+                "x": "이 개선의 중심에는 Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
+              },
+              {
+                "t": "p",
+                "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Walmart、AI節減分を\n顧客体験に再投資",
+          "body": "Walmart U.S. CEOのDavid GugginaはAI節減分を顧客体験に回す。",
+          "mini_headline": "Walmart、AI節減分を再投資",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "U.S. CEOのDavid Gugginaによると、AIの進歩がWalmartのコスト削減を後押ししており、同社はその分を顧客体験の改善に再投資している。"
+              },
+              {
+                "t": "p",
+                "x": "GugginaはGoldman SachsのKatharine McShaneとの対談で「我々はかなり前からAIに力を入れてきた。サプライチェーンでは七年以上前からフィジカルAIを使っている。AIが会社を、そして顧客への価値提案を作り変えているのがわかる」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "成果が最も表れているのはe-commerceだ。Q2の売上高は前年同期比24%増で、20%を超える成長は10四半期連続となった。Gugginaは、配送の迅速化やコスト削減といったAI-drivenの効率化を要因に挙げ、その成果を競争力のある価格と顧客体験に再投資したと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "こうした改善の中心にあるのが、Gugginaが「ますます有能になっている」と評するSparkyだ。Sparkyの週間エンゲージメントは前四半期比60%増え、新しいビジュアル検索はテキスト検索と比べてコンバージョンを57%押し上げた。"
+              },
+              {
+                "t": "p",
+                "x": "GugginaはOpenAIのChatGPTやGoogleのGeminiといった外部AIエージェントとの提携にも「本当に満足している」という。これらは多くの場合、顧客をWalmartへ直接ディープリンクし、「素晴らしいコンバージョン率」を生んでいる。先月、Metaの新しいAIアシスタントMuseを自社サイトから締め出す動きに出たAmazonとは対照的だ。ChatGPTやGeminiを経由する顧客の多くは新規か再来の顧客で、自然なリピート率は「非常に高い」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Walmart称AI省下的钱\n用于改善顾客体验",
+          "body": "Walmart U.S. CEO David Guggina称AI省下的钱再投入顾客体验。",
+          "mini_headline": "Walmart将AI节省再投资",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "据U.S. CEO David Guggina介绍，AI的进步正在帮助Walmart节省开支，而公司又把省下的钱再投入到顾客体验的改善中。"
+              },
+              {
+                "t": "p",
+                "x": "Guggina在与Goldman Sachs的Katharine McShane对谈时说：“我们投入AI已经有相当长的时间了——我们的供应链使用实体AI已经超过七年——你能看到它正在重塑我们的公司，重塑我们对顾客的价值主张。”"
+              },
+              {
+                "t": "p",
+                "x": "成效在e-commerce上最为明显：Q2销售额同比增长24%，连续第10个季度增幅超过20%。Guggina将此归功于AI-driven的效率提升，即更快的配送和成本节约，这些收益又被再投入到有竞争力的价格和顾客体验中。"
+              },
+              {
+                "t": "p",
+                "x": "被Guggina形容为“能力越来越强”的Sparky是这些改进的核心。Sparky的周互动量环比增长60%，其新的视觉搜索与文字搜索相比带来了57%的转化率跃升。"
+              },
+              {
+                "t": "p",
+                "x": "Guggina对与OpenAI的ChatGPT、Google的Gemini等外部AI智能体的合作也“非常满意”，这些智能体通常将顾客直接深度链接到Walmart，带来“极佳的转化率”。这与Amazon形成对比，后者上月出手阻止Meta的新AI助手Muse访问其网站。经由ChatGPT和Gemini而来的顾客很多是新顾客或回流顾客，自然复购率“非常高”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Walmart: el ahorro de la AI\nfinancia una mejor experiencia",
+          "body": "El CEO de Walmart U.S., David Guggina, dice que la AI reduce costos que reinvierte en la experiencia del cliente.",
+          "mini_headline": "Walmart reinvierte el ahorro de la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "Los avances en AI están ayudando a Walmart a ahorrar dinero, que a su vez reinvierte en mejorar la experiencia del cliente, según el CEO de U.S., David Guggina."
+              },
+              {
+                "t": "p",
+                "x": "“Llevamos bastante tiempo apostando por la AI —tenemos AI física en nuestra cadena de suministro desde hace más de siete años— y se ve cómo está transformando nuestra empresa y nuestra propuesta de valor para el cliente”, dijo Guggina en una conversación con Katharine McShane, de Goldman Sachs."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados se notan sobre todo en e-commerce: las ventas crecieron un 24% interanual en Q2, el 10.º trimestre consecutivo con un crecimiento superior al 20%. Guggina lo atribuyó a eficiencias AI-driven —entregas más rápidas y ahorro de costos— que se reinvirtieron en precios competitivos y en la experiencia del cliente."
+              },
+              {
+                "t": "p",
+                "x": "Sparky, que según Guggina es “cada vez más capaz”, es clave en esas mejoras. La interacción semanal con Sparky creció un 60% respecto del trimestre anterior, y su nueva búsqueda visual elevó un 57% la conversión frente a las búsquedas por texto."
+              },
+              {
+                "t": "p",
+                "x": "Guggina también se mostró “muy contento” con las alianzas con agentes de AI externos como ChatGPT de OpenAI y Gemini de Google, que la mayoría de las veces envían a los clientes a Walmart mediante enlaces profundos con “tasas de conversión fantásticas”. Eso contrasta con Amazon, que el mes pasado tomó medidas para bloquear en su sitio a Muse, el nuevo asistente de AI de Meta. Muchos clientes que llegan desde ChatGPT y Gemini son nuevos o recurrentes, con una tasa de repetición orgánica “muy alta”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Walmart AI 절감분\n고객 경험에 재투자",
+          "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
+          "mini_headline": "Walmart, AI 절감분 재투자",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI의 발전 덕분에 비용을 아끼고 있으며, 아낀 돈을 다시 고객 경험 개선에 투자하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽았고, 이 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 이 개선의 중심에 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
+              },
+              {
+                "t": "p",
+                "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Walmart、AI節減分を\n顧客体験に再投資",
+          "body": "Walmart U.S. CEOのDavid GugginaはAI節減分を顧客体験に回す。",
+          "mini_headline": "Walmart、AI節減分を再投資",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "U.S. CEOのDavid Gugginaによると、AIの進歩がWalmartのコスト削減を後押ししており、同社はその分を顧客体験の改善に再投資している。"
+              },
+              {
+                "t": "p",
+                "x": "GugginaはGoldman SachsのKatharine McShaneとの対談で「我々はかなり前からAIに力を入れてきた。サプライチェーンでは七年以上前からフィジカルAIを使っている。AIが会社を、そして顧客への価値提案を作り変えているのがわかる」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "成果が最も表れているのはe-commerceだ。Q2の売上高は前年同期比24%増で、20%を超える成長は10四半期連続となった。Gugginaは、配送の迅速化やコスト削減といったAI-drivenの効率化を要因に挙げ、その成果を競争力のある価格と顧客体験に再投資したと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "こうした改善の中心にあるのが、Gugginaが「ますます有能になっている」と評するSparkyだ。Sparkyの週間エンゲージメントは前四半期比60%増え、新しいビジュアル検索はテキスト検索と比べてコンバージョンを57%押し上げた。"
+              },
+              {
+                "t": "p",
+                "x": "GugginaはOpenAIのChatGPTやGoogleのGeminiといった外部AIエージェントとの提携にも「本当に満足している」という。これらは多くの場合、顧客をWalmartへ直接ディープリンクし、「素晴らしいコンバージョン率」を生んでいる。先月、Metaの新しいAIアシスタントMuseを自社サイトから締め出す動きに出たAmazonとは対照的だ。ChatGPTやGeminiを経由する顧客の多くは新規か再来の顧客で、自然なリピート率は「非常に高い」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Walmart称AI省下的钱\n用于改善顾客体验",
+          "body": "Walmart U.S. CEO David Guggina称AI省下的钱再投入顾客体验。",
+          "mini_headline": "Walmart将AI节省再投资",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "据U.S. CEO David Guggina介绍，AI的进步正在帮助Walmart节省开支，而公司又把省下的钱再投入到顾客体验的改善中。"
+              },
+              {
+                "t": "p",
+                "x": "Guggina在与Goldman Sachs的Katharine McShane对谈时说：“我们投入AI已经有相当长的时间了——我们的供应链使用实体AI已经超过七年——你能看到它正在重塑我们的公司，重塑我们对顾客的价值主张。”"
+              },
+              {
+                "t": "p",
+                "x": "成效在e-commerce上最为明显：Q2销售额同比增长24%，连续第10个季度增幅超过20%。Guggina将此归功于AI-driven的效率提升，即更快的配送和成本节约，这些收益又被再投入到有竞争力的价格和顾客体验中。"
+              },
+              {
+                "t": "p",
+                "x": "被Guggina形容为“能力越来越强”的Sparky是这些改进的核心。Sparky的周互动量环比增长60%，其新的视觉搜索与文字搜索相比带来了57%的转化率跃升。"
+              },
+              {
+                "t": "p",
+                "x": "Guggina对与OpenAI的ChatGPT、Google的Gemini等外部AI智能体的合作也“非常满意”，这些智能体通常将顾客直接深度链接到Walmart，带来“极佳的转化率”。这与Amazon形成对比，后者上月出手阻止Meta的新AI助手Muse访问其网站。经由ChatGPT和Gemini而来的顾客很多是新顾客或回流顾客，自然复购率“非常高”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Walmart: el ahorro de la AI\nfinancia una mejor experiencia",
+          "body": "El CEO de Walmart U.S., David Guggina, dice que la AI reduce costos que reinvierte en la experiencia del cliente.",
+          "mini_headline": "Walmart reinvierte el ahorro de la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+              },
+              {
+                "t": "p",
+                "x": "Los avances en AI están ayudando a Walmart a ahorrar dinero, que a su vez reinvierte en mejorar la experiencia del cliente, según el CEO de U.S., David Guggina."
+              },
+              {
+                "t": "p",
+                "x": "“Llevamos bastante tiempo apostando por la AI —tenemos AI física en nuestra cadena de suministro desde hace más de siete años— y se ve cómo está transformando nuestra empresa y nuestra propuesta de valor para el cliente”, dijo Guggina en una conversación con Katharine McShane, de Goldman Sachs."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados se notan sobre todo en e-commerce: las ventas crecieron un 24% interanual en Q2, el 10.º trimestre consecutivo con un crecimiento superior al 20%. Guggina lo atribuyó a eficiencias AI-driven —entregas más rápidas y ahorro de costos— que se reinvirtieron en precios competitivos y en la experiencia del cliente."
+              },
+              {
+                "t": "p",
+                "x": "Sparky, que según Guggina es “cada vez más capaz”, es clave en esas mejoras. La interacción semanal con Sparky creció un 60% respecto del trimestre anterior, y su nueva búsqueda visual elevó un 57% la conversión frente a las búsquedas por texto."
+              },
+              {
+                "t": "p",
+                "x": "Guggina también se mostró “muy contento” con las alianzas con agentes de AI externos como ChatGPT de OpenAI y Gemini de Google, que la mayoría de las veces envían a los clientes a Walmart mediante enlaces profundos con “tasas de conversión fantásticas”. Eso contrasta con Amazon, que el mes pasado tomó medidas para bloquear en su sitio a Muse, el nuevo asistente de AI de Meta. Muchos clientes que llegan desde ChatGPT y Gemini son nuevos o recurrentes, con una tasa de repetición orgánica “muy alta”."
               }
             ]
           }

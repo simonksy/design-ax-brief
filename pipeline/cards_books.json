@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "books",
   "cards": [
     {
-      "id": "books-organic-literature-stamp",
+      "id": "books-munich-llm-ruling",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "사람이 쓴 책에\n붙이는 인증 도장",
-      "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
-      "mini_headline": "사람이 쓴 책 인증 도장",
+      "headline": "뮌헨 법원, LLM\n암기는 복제라고 판결",
+      "body": "뮌헨 법원이 AI 학습물 암기를 복제로 보고 GEMA 손을 두 번 들어줬다.",
+      "mini_headline": "뮌헨 법원, LLMs에 불리한 판결",
       "tool": "Books",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101447-frankfurt-book-fair-2026-germany-finds-in-favor-of-copyright-holders-against-ai.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,179 +19,174 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-            "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
           },
           {
             "t": "p",
-            "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)의 승인을 받았다. 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인이다. 지문 모양의 이 도장은 책 표지에 찍힌다."
+            "x": "뮌헨 지방법원이 올해 들어 두 번째로 AI 기업과의 소송에서 독일 저작권 집중관리단체 GEMA의 손을 들어줬다. 지난해 11월 독일어(German-language) 가사를 두고 OpenAI에 불리한 판결을 내린 데 이어, 7월에는 Boney M.의 곡이 비중 있게 다뤄진 여러 음악 작품을 두고 Suno AI에 불리한 판결을 내렸다."
           },
           {
             "t": "p",
-            "x": "Books by People은 양심에 맡기지 않는다. 저자에게 확인서를 받고 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 읽어 “인간다움의 지표”를 찾는다. 비용은 출판사 몫이다. 정액 회원비에 책마다 일정 금액이 더 붙는다. 지금까지 출판사 다섯 곳이 가입했고 첫 인증 도서는 연말까지 나올 전망이다."
+            "x": "판결은 핵심 질문을 정면으로 다뤘다. LLMs는 암기하는가, 그렇다면 그것은 복제인가? 법원의 답은 둘 다 ‘그렇다’였다. 판결문은 “학습 데이터와 출력물 사이의 일치로부터... 학습 데이터가 암기되었다고 추론할 수 있다”고 밝혔다. 간단한 프롬프트 하나로 토큰화된 저작물이 다시 짜 맞춰진다면 그건 복제나 다름없다는 게 법원의 판단이다."
           },
           {
             "t": "p",
-            "x": "비판론자들은 오탐을 걱정한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했다. 작가 본인은 이 도구가 자신의 나이지리아 방언을 잘못 읽었다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+            "x": "학습이 미국(U.S.)에서 이뤄졌기 때문에 뮌헨 법원은 미국 저작권법을 적용했고, Bartz v. Anthropic과 Kadrey v. Meta 판결을 꼼꼼히 검토했다. 다만 두 사건과 달리 이번에는 출력물이 입력물을 실제로 복제했다고 봤다. 이용이 “변형적(transformative)”이지 않으니 공정 이용(fair use) 항변도 통하지 않는다는 결론이다."
           },
           {
             "t": "p",
-            "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 했다."
+            "x": "이번 판결은 확정되지 않았고 항소 가능성도 남아 있다. RELX의 Richard Mollett은 PW 기고에서 저작권이 AI에 짓밟히고 있지 않다고 주장한다. 소송과 함께 늘어나는 라이선스 계약이 권리자들의 의지를 보여준다는 논리다."
           }
         ]
       },
+      "lead_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG",
       "text": {
         "en": {
-          "headline": "A stamp for books\nwritten by humans",
-          "body": "A UK startup’s “organic literature” stamp will help readers pick out books written by real humans amid AI scandals.",
-          "mini_headline": "Organic stamp for human books",
+          "headline": "Munich court rules LLM\nmemorization is copying",
+          "body": "A Munich court has twice ruled for GEMA against AI firms, finding that memorizing training works is reproduction.",
+          "mini_headline": "Munich court rules against LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "Photo Illustration of a Book inside Food Packaging with Organic Sticker"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "As scandals involving the use of AI by professional authors pile up, British startup Books by People has received approval from the UK’s Intellectual Property Office to distribute a mark certifying a book as authored by a human. The stamp, which looks like a thumbprint, will be displayed on the cover."
+                "x": "For the second time this year, the Munich Regional Court has ruled in favor of the German collective rights organization GEMA in a case against AI companies. After finding against OpenAI over German-language lyrics last November, in July the court ruled against Suno AI over a number of musical works, with Boney M. featuring prominently."
               },
               {
                 "t": "p",
-                "x": "Rather than an honesty system, Books by People asks for an authorship declaration, runs each manuscript through proprietary software, and manually examines early drafts and research materials for “indicators of humanity.” It will charge publishers a flat membership fee plus a sum per book. Five publishers have signed up so far, and the first certified book is expected by the end of the year."
+                "x": "The judgment went to the core question: do LLMs memorize, and if so, is that a reproduction? Per the court, yes and yes. As the ruling states, “From the correspondence between the training data and the outputs... it can be inferred that the training data was memorized.” If a simple prompt brings tokenized works back together, the court suggests, that is tantamount to reproduction."
               },
               {
                 "t": "p",
-                "x": "Critics warn of false positives. Pangram, which claims 99.7 percent accuracy, scored debut author Jerry Falade’s book as 97 percent AI-generated; he alleged it misconstrued his Nigerian dialect. “We need to be quite careful that this doesn’t end up becoming a witch hunt,” says Tom West of the Publishers’ Licensing Services."
+                "x": "Because the training took place in the U.S., the Munich court applied U.S. copyright law, reading Bartz v. Anthropic and Kadrey v. Meta closely. Unlike those cases, it found the outputs did reproduce the inputs, so the use was not “transformative” and fair use was no defense."
               },
               {
                 "t": "p",
-                "x": "“I wouldn’t call it AI detection,” says cofounder Esme Dennys. “The bedrock of our organization is to avoid [writers] being unjustly accused.”"
+                "x": "The judgment is not final and may yet be appealed. Writing for PW, RELX’s Richard Mollett argues that copyright is not being steamrolled by AI: litigation and the parallel growth in licensing deals show rightsholders’ resolve."
               }
             ]
           }
         },
         "ko": {
-          "headline": "사람이 쓴 책에\n붙이는 인증 도장",
-          "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
-          "mini_headline": "사람이 쓴 책 인증 도장",
+          "headline": "뮌헨 법원, LLM\n암기는 복제라고 판결",
+          "body": "뮌헨 법원이 AI 학습물 암기를 복제로 보고 GEMA 손을 두 번 들어줬다.",
+          "mini_headline": "뮌헨 법원, LLMs에 불리한 판결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)의 승인을 받았다. 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인이다. 지문 모양의 이 도장은 책 표지에 찍힌다."
+                "x": "뮌헨 지방법원이 올해 들어 두 번째로 AI 기업과의 소송에서 독일 저작권 집중관리단체 GEMA의 손을 들어줬다. 지난해 11월 독일어(German-language) 가사를 두고 OpenAI에 불리한 판결을 내린 데 이어, 7월에는 Boney M.의 곡이 비중 있게 다뤄진 여러 음악 작품을 두고 Suno AI에 불리한 판결을 내렸다."
               },
               {
                 "t": "p",
-                "x": "Books by People은 양심에 맡기지 않는다. 저자에게 확인서를 받고 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 읽어 “인간다움의 지표”를 찾는다. 비용은 출판사 몫이다. 정액 회원비에 책마다 일정 금액이 더 붙는다. 지금까지 출판사 다섯 곳이 가입했고 첫 인증 도서는 연말까지 나올 전망이다."
+                "x": "판결은 핵심 질문을 정면으로 다뤘다. LLMs는 암기하는가, 그렇다면 그것은 복제인가? 법원의 답은 둘 다 ‘그렇다’였다. 판결문은 “학습 데이터와 출력물 사이의 일치로부터... 학습 데이터가 암기되었다고 추론할 수 있다”고 밝혔다. 간단한 프롬프트 하나로 토큰화된 저작물이 다시 짜 맞춰진다면 그건 복제나 다름없다는 게 법원의 판단이다."
               },
               {
                 "t": "p",
-                "x": "비판론자들은 오탐을 걱정한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했다. 작가 본인은 이 도구가 자신의 나이지리아 방언을 잘못 읽었다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+                "x": "학습이 미국(U.S.)에서 이뤄졌기 때문에 뮌헨 법원은 미국 저작권법을 적용했고, Bartz v. Anthropic과 Kadrey v. Meta 판결을 꼼꼼히 검토했다. 다만 두 사건과 달리 이번에는 출력물이 입력물을 실제로 복제했다고 봤다. 이용이 “변형적(transformative)”이지 않으니 공정 이용(fair use) 항변도 통하지 않는다는 결론이다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 했다."
+                "x": "이번 판결은 확정되지 않았고 항소 가능성도 남아 있다. RELX의 Richard Mollett은 PW 기고에서 저작권이 AI에 짓밟히고 있지 않다고 주장한다. 소송과 함께 늘어나는 라이선스 계약이 권리자들의 의지를 보여준다는 논리다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間が書いた本に\n押す認証スタンプ",
-          "body": "UK発の「オーガニック文学」印が、AI騒動の中で人間の書いた本を示す。",
-          "mini_headline": "人間の本にオーガニック印",
+          "headline": "ミュンヘン地裁、LLMの\n記憶は「複製」",
+          "body": "ミュンヘン地裁はAI学習作品の記憶を複製と認め、GEMA勝訴の判決を二度下した。",
+          "mini_headline": "ミュンヘン地裁、LLMsに不利な判決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "オーガニックシールが貼られた食品パッケージに入った本のフォトイラスト"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "プロの作家によるAI使用をめぐる騒動が相次ぐなか、英国のスタートアップBooks by Peopleは、本が人間によって書かれたことを証明するマークを配布する承認をUKの知的財産庁(Intellectual Property Office)から得た。指紋のような形のこのスタンプは、本の表紙に表示される。"
+                "x": "ミュンヘン地方裁判所は今年二度目となる、AI企業を相手取った訴訟で、ドイツの著作権集中管理団体GEMAの訴えを認めた。昨年11月にドイツ語(German-language)の歌詞をめぐってOpenAIに不利な判決を下したのに続き、7月にはBoney M.の楽曲が大きく扱われた複数の音楽作品をめぐり、Suno AIに不利な判決を下した。"
               },
               {
                 "t": "p",
-                "x": "Books by Peopleは自己申告に頼るのではなく、著者であることの宣誓を求め、各原稿を独自ソフトウェアで解析し、初期稿や調査資料を人の手で確認して「人間らしさの指標」を探す。出版社には定額の会員費に加え、本ごとに一定額を課す。これまでに五社の出版社が加わり、最初の認証本は年末までに出る見込みだ。"
+                "x": "判決は核心の問いに踏み込んだ。LLMsは記憶するのか、するならそれは複製なのか。裁判所の答えはいずれも「イエス」だった。判決文は「学習データと出力の一致から...学習データが記憶されたと推認できる」と述べる。単純なプロンプトでトークン化された作品が再び組み上がるなら、それは複製に等しいというのが裁判所の見方だ。"
               },
               {
                 "t": "p",
-                "x": "批判する側は誤判定を警戒する。精度99.7%をうたうPangramは、デビュー作家Jerry Faladeの本を97% AI-generatedと判定し、彼はこのツールが自身のナイジェリアの方言を誤って解釈したと主張した。Publishers’ Licensing ServicesのTom Westは「これが魔女狩りにならないよう、かなり慎重になる必要がある」と語る。"
+                "x": "学習が米国(U.S.)で行われたため、ミュンヘン地裁は米国の著作権法を適用し、Bartz v. AnthropicとKadrey v. Metaを丹念に読み込んだ。ただしこれらの事件とは異なり、出力が入力を実際に複製していると判断したため、利用は「変形的(transformative)」ではなく、フェアユース(fair use)の抗弁も成り立たないとした。"
               },
               {
                 "t": "p",
-                "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
+                "x": "判決は確定しておらず、控訴される可能性もある。RELXのRichard MollettはPWへの寄稿で、著作権はAIに踏みにじられてはいないと論じる。訴訟と並行してライセンス契約が増えていることが、権利者の決意を示しているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为人类写的书\n盖上认证印章",
-          "body": "UK一家初创公司推出“有机文学”印章，帮助读者在AI丑闻中辨认真人写的书。",
-          "mini_headline": "人类写的书贴上有机标",
+          "headline": "慕尼黑法院裁定\nLLM记忆即复制",
+          "body": "慕尼黑法院认定AI训练作品被记忆即构成复制，已两度判GEMA胜诉。",
+          "mini_headline": "慕尼黑法院裁定不利于LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "插图：装在食品包装中、贴有有机标签的书"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "随着职业作家使用AI的丑闻接连出现，英国初创公司Books by People已获得UK知识产权局（Intellectual Property Office）批准，可以发放证明图书由人类创作的标志。这枚形似指纹的印章将印在封面上。"
+                "x": "慕尼黑地区法院今年第二次在针对AI公司的诉讼中支持德国集体权利管理组织GEMA。继去年11月就德语（German-language）歌词作出不利于OpenAI的判决后，该法院又于7月就多部音乐作品作出不利于Suno AI的判决，其中Boney M.的作品尤为突出。"
               },
               {
                 "t": "p",
-                "x": "Books by People并不依赖诚信自律，而是要求作者提交著作声明，用自有软件检测每份手稿，并人工审查早期草稿和研究资料，寻找“人性指标”。它将向出版商收取固定会员费，外加按书计费。目前已有五家出版商签约，首本认证图书预计年底前问世。"
+                "x": "判决直指核心问题：LLMs是否会记忆？如果会，这是否构成复制？法院的回答是：是，也是。判决书写道：“从训练数据与输出之间的对应关系...可以推断训练数据已被记忆。”法院认为，如果一个简单的提示词就能让分词后的作品重新拼合，那就等同于复制。"
               },
               {
                 "t": "p",
-                "x": "批评者担心误判。自称准确率达99.7%的Pangram将新人作家Jerry Falade的书判定为97% AI-generated；他认为该工具误读了他的尼日利亚方言。Publishers’ Licensing Services的Tom West说：“我们必须相当小心，别让这件事最终变成一场猎巫。”"
+                "x": "由于训练发生在美国（U.S.），慕尼黑法院适用了美国版权法，并仔细研读了Bartz v. Anthropic和Kadrey v. Meta两案。与这两案不同，法院认定输出确实复制了输入，因此这种使用不具有“转换性”（transformative），合理使用（fair use）抗辩也不成立。"
               },
               {
                 "t": "p",
-                "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
+                "x": "该判决尚未生效，仍可能被上诉。RELX的Richard Mollett在为PW撰写的文章中指出，版权并未被AI碾压：诉讼以及同步增长的授权协议都显示了权利人的决心。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un sello para los libros\nescritos por humanos",
-          "body": "Un sello de “literatura orgánica” de una startup de UK ayudará a distinguir libros humanos entre escándalos de AI.",
-          "mini_headline": "Sello orgánico para libros humanos",
+          "headline": "Múnich: la memorización de LLM\nes copia, dice un tribunal",
+          "body": "Un tribunal de Múnich falló dos veces a favor de GEMA contra firmas de AI: memorizar obras es reproducirlas.",
+          "mini_headline": "Múnich falla contra los LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "Ilustración fotográfica de un libro dentro de un envase de alimentos con una etiqueta orgánica"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "A medida que se acumulan los escándalos por el uso de AI entre autores profesionales, la startup británica Books by People ha recibido la aprobación de la Intellectual Property Office del UK para distribuir una marca que certifica que un libro fue escrito por un ser humano. El sello, con forma de huella dactilar, aparecerá en la cubierta."
+                "x": "Por segunda vez este año, el Tribunal Regional de Múnich ha fallado a favor de la sociedad alemana de gestión colectiva de derechos GEMA en un caso contra empresas de AI. Tras fallar contra OpenAI por letras en alemán (German-language) el pasado noviembre, en julio el tribunal falló contra Suno AI por varias obras musicales, con Boney M. en un lugar destacado."
               },
               {
                 "t": "p",
-                "x": "En lugar de confiar en la palabra del autor, Books by People pide una declaración de autoría, analiza cada manuscrito con software propio y examina a mano los primeros borradores y los materiales de investigación en busca de “indicadores de humanidad”. Cobrará a las editoriales una cuota fija de membresía más una cantidad por libro. Cinco editoriales se han sumado hasta ahora, y se espera el primer libro certificado antes de fin de año."
+                "x": "La sentencia abordó la cuestión de fondo: ¿memorizan los LLMs y, de ser así, es eso una reproducción? Según el tribunal, sí y sí. Como señala el fallo, “de la correspondencia entre los datos de entrenamiento y los resultados... puede inferirse que los datos de entrenamiento fueron memorizados”. Si un simple prompt vuelve a reunir obras tokenizadas, sugiere el tribunal, eso equivale a una reproducción."
               },
               {
                 "t": "p",
-                "x": "Los críticos advierten de los falsos positivos. Pangram, que asegura tener una precisión del 99.7 %, calificó el libro del autor debutante Jerry Falade como 97 % AI-generated; él sostuvo que la herramienta malinterpretó su dialecto nigeriano. “Tenemos que tener bastante cuidado de que esto no acabe convirtiéndose en una caza de brujas”, dice Tom West, de Publishers’ Licensing Services."
+                "x": "Como el entrenamiento tuvo lugar en Estados Unidos (U.S.), el tribunal de Múnich aplicó la ley estadounidense de derechos de autor y analizó con detalle Bartz v. Anthropic y Kadrey v. Meta. A diferencia de esos casos, concluyó que los resultados sí reproducían los datos de entrada, por lo que el uso no era “transformativo” (transformative) y el fair use no servía como defensa."
               },
               {
                 "t": "p",
-                "x": "“Yo no lo llamaría detección de AI”, dice la cofundadora Esme Dennys. “La base de nuestra organización es evitar que [los escritores] sean acusados injustamente”."
+                "x": "La sentencia no es firme y aún puede recurrirse. En un artículo para PW, Richard Mollett, de RELX, sostiene que la AI no está arrollando los derechos de autor: los litigios y el crecimiento paralelo de los acuerdos de licencia muestran la determinación de los titulares de derechos."
               }
             ]
           }
@@ -199,125 +194,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "사람이 쓴 책에\n붙이는 인증 도장",
-          "body": "UK 스타트업의 ‘유기농 문학’ 도장이 AI 논란 속 사람이 쓴 책을 가려낸다.",
-          "mini_headline": "사람이 쓴 책 인증 도장",
+          "headline": "뮌헨 법원, LLM\n암기는 복제라고 판결",
+          "body": "뮌헨 법원이 AI 학습물 암기를 복제로 보고 GEMA 손을 두 번 들어줬다.",
+          "mini_headline": "뮌헨 법원, LLMs에 불리한 판결",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "유기농 스티커가 붙은 식품 포장 안에 책을 담은 사진 일러스트"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "전문 작가들의 AI 사용을 둘러싼 논란이 잇따르는 가운데, 영국 스타트업 Books by People이 UK 지식재산청(Intellectual Property Office)으로부터 책을 사람이 썼다고 인증하는 마크를 배포해도 된다는 승인을 받았다. 지문 모양의 이 도장은 책 표지에 표시된다."
+                "x": "뮌헨 지방법원이 올해 들어 두 번째로 AI 기업을 상대로 한 소송에서 독일 저작권 집중관리단체 GEMA의 손을 들어줬다. 지난해 11월 독일어(German-language) 가사를 두고 OpenAI에 불리한 판결을 내린 데 이어, 7월에는 Boney M.의 곡이 비중 있게 다뤄진 여러 음악 작품을 두고 Suno AI에 불리한 판결을 내렸다."
               },
               {
                 "t": "p",
-                "x": "Books by People은 양심에 맡기는 방식 대신 저자 확인서를 받고, 자체 소프트웨어로 원고를 하나하나 검사하며, 초고와 조사 자료를 사람이 직접 살펴 “인간다움의 지표”를 찾는다. 출판사에는 정액 회원비에 책마다 일정 금액을 더해 청구한다. 지금까지 출판사 다섯 곳이 가입했고, 첫 인증 도서는 연말까지 나올 전망이다."
+                "x": "판결은 핵심 질문을 정면으로 다뤘다. LLMs는 암기하는가, 그렇다면 그것은 복제인가? 법원의 답은 둘 다 ‘그렇다’였다. 판결문은 “학습 데이터와 출력물 사이의 일치로부터... 학습 데이터가 암기되었다고 추론할 수 있다”고 밝혔다. 법원은 간단한 프롬프트 하나로 토큰화된 저작물이 다시 짜 맞춰진다면 이는 복제나 다름없다고 보았다."
               },
               {
                 "t": "p",
-                "x": "비판하는 쪽은 오탐을 우려한다. 정확도 99.7%를 내세우는 Pangram은 신인 작가 Jerry Falade의 책을 97% AI-generated로 판정했고, 그는 이 도구가 자신의 나이지리아 방언을 잘못 해석했다고 주장했다. Publishers’ Licensing Services의 Tom West는 “이 일이 마녀사냥으로 번지지 않도록 상당히 조심해야 한다”고 말했다."
+                "x": "학습이 미국(U.S.)에서 이뤄졌기 때문에 뮌헨 법원은 미국 저작권법을 적용했고, Bartz v. Anthropic과 Kadrey v. Meta 판결을 꼼꼼히 검토했다. 다만 두 사건과 달리 출력물이 입력물을 실제로 복제했다고 판단했고, 따라서 이용이 “변형적(transformative)”이지 않아 공정 이용(fair use) 항변도 통하지 않는다고 결론지었다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자 Esme Dennys는 “AI 탐지라고 부르고 싶지는 않다”며 “우리 조직의 근간은 [작가들이] 부당하게 의심받는 일을 막는 데 있다”고 말했다."
+                "x": "이번 판결은 확정되지 않았고 항소 가능성도 남아 있다. RELX의 Richard Mollett은 PW 기고에서 저작권이 AI에 짓밟히고 있지 않다고 주장한다. 소송과 함께 늘어나는 라이선스 계약이 권리자들의 의지를 보여준다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間が書いた本に\n押す認証スタンプ",
-          "body": "UK発の「オーガニック文学」印が、AI騒動の中で人間の書いた本を示す。",
-          "mini_headline": "人間の本にオーガニック印",
+          "headline": "ミュンヘン地裁、LLMの\n記憶は「複製」",
+          "body": "ミュンヘン地裁はAI学習作品の記憶を複製と認め、GEMA勝訴の判決を二度下した。",
+          "mini_headline": "ミュンヘン地裁、LLMsに不利な判決",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "オーガニックシールが貼られた食品パッケージに入った本のフォトイラスト"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "プロの作家によるAI使用をめぐる騒動が相次ぐなか、英国のスタートアップBooks by Peopleは、本が人間によって書かれたことを証明するマークを配布する承認をUKの知的財産庁(Intellectual Property Office)から得た。指紋のような形のこのスタンプは、本の表紙に表示される。"
+                "x": "ミュンヘン地方裁判所は今年二度目となる、AI企業を相手取った訴訟で、ドイツの著作権集中管理団体GEMAの訴えを認めた。昨年11月にドイツ語(German-language)の歌詞をめぐってOpenAIに不利な判決を下したのに続き、7月にはBoney M.の楽曲が大きく扱われた複数の音楽作品をめぐり、Suno AIに不利な判決を下した。"
               },
               {
                 "t": "p",
-                "x": "Books by Peopleは自己申告に頼るのではなく、著者であることの宣誓を求め、各原稿を独自ソフトウェアで解析し、初期稿や調査資料を人の手で確認して「人間らしさの指標」を探す。出版社には定額の会員費に加え、本ごとに一定額を課す。これまでに五社の出版社が加わり、最初の認証本は年末までに出る見込みだ。"
+                "x": "判決は核心の問いに踏み込んだ。LLMsは記憶するのか、するならそれは複製なのか。裁判所の答えはいずれも「イエス」だった。判決文は「学習データと出力の一致から...学習データが記憶されたと推認できる」と述べる。単純なプロンプトでトークン化された作品が再び組み上がるなら、それは複製に等しいというのが裁判所の見方だ。"
               },
               {
                 "t": "p",
-                "x": "批判する側は誤判定を警戒する。精度99.7%をうたうPangramは、デビュー作家Jerry Faladeの本を97% AI-generatedと判定し、彼はこのツールが自身のナイジェリアの方言を誤って解釈したと主張した。Publishers’ Licensing ServicesのTom Westは「これが魔女狩りにならないよう、かなり慎重になる必要がある」と語る。"
+                "x": "学習が米国(U.S.)で行われたため、ミュンヘン地裁は米国の著作権法を適用し、Bartz v. AnthropicとKadrey v. Metaを丹念に読み込んだ。ただしこれらの事件とは異なり、出力が入力を実際に複製していると判断したため、利用は「変形的(transformative)」ではなく、フェアユース(fair use)の抗弁も成り立たないとした。"
               },
               {
                 "t": "p",
-                "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
+                "x": "判決は確定しておらず、控訴される可能性もある。RELXのRichard MollettはPWへの寄稿で、著作権はAIに踏みにじられてはいないと論じる。訴訟と並行してライセンス契約が増えていることが、権利者の決意を示しているという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "为人类写的书\n盖上认证印章",
-          "body": "UK一家初创公司推出“有机文学”印章，帮助读者在AI丑闻中辨认真人写的书。",
-          "mini_headline": "人类写的书贴上有机标",
+          "headline": "慕尼黑法院裁定\nLLM记忆即复制",
+          "body": "慕尼黑法院认定AI训练作品被记忆即构成复制，已两度判GEMA胜诉。",
+          "mini_headline": "慕尼黑法院裁定不利于LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "插图：装在食品包装中、贴有有机标签的书"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "随着职业作家使用AI的丑闻接连出现，英国初创公司Books by People已获得UK知识产权局（Intellectual Property Office）批准，可以发放证明图书由人类创作的标志。这枚形似指纹的印章将印在封面上。"
+                "x": "慕尼黑地区法院今年第二次在针对AI公司的诉讼中支持德国集体权利管理组织GEMA。继去年11月就德语（German-language）歌词作出不利于OpenAI的判决后，该法院又于7月就多部音乐作品作出不利于Suno AI的判决，其中Boney M.的作品尤为突出。"
               },
               {
                 "t": "p",
-                "x": "Books by People并不依赖诚信自律，而是要求作者提交著作声明，用自有软件检测每份手稿，并人工审查早期草稿和研究资料，寻找“人性指标”。它将向出版商收取固定会员费，外加按书计费。目前已有五家出版商签约，首本认证图书预计年底前问世。"
+                "x": "判决直指核心问题：LLMs是否会记忆？如果会，这是否构成复制？法院的回答是：是，也是。判决书写道：“从训练数据与输出之间的对应关系...可以推断训练数据已被记忆。”法院认为，如果一个简单的提示词就能让分词后的作品重新拼合，那就等同于复制。"
               },
               {
                 "t": "p",
-                "x": "批评者担心误判。自称准确率达99.7%的Pangram将新人作家Jerry Falade的书判定为97% AI-generated；他认为该工具误读了他的尼日利亚方言。Publishers’ Licensing Services的Tom West说：“我们必须相当小心，别让这件事最终变成一场猎巫。”"
+                "x": "由于训练发生在美国（U.S.），慕尼黑法院适用了美国版权法，并仔细研读了Bartz v. Anthropic和Kadrey v. Meta两案。与这两案不同，法院认定输出确实复制了输入，因此这种使用不具有“转换性”（transformative），合理使用（fair use）抗辩也不成立。"
               },
               {
                 "t": "p",
-                "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
+                "x": "该判决尚未生效，仍可能被上诉。RELX的Richard Mollett在为PW撰写的文章中指出，版权并未被AI碾压：诉讼以及同步增长的授权协议都显示了权利人的决心。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un sello para los libros\nescritos por humanos",
-          "body": "Un sello de “literatura orgánica” de una startup de UK ayudará a distinguir libros humanos entre escándalos de AI.",
-          "mini_headline": "Sello orgánico para libros humanos",
+          "headline": "Múnich: la memorización de LLM\nes copia, dice un tribunal",
+          "body": "Un tribunal de Múnich falló dos veces a favor de GEMA contra firmas de AI: memorizar obras es reproducirlas.",
+          "mini_headline": "Múnich falla contra los LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
-                "cap": "Ilustración fotográfica de un libro dentro de un envase de alimentos con una etiqueta orgánica"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
               },
               {
                 "t": "p",
-                "x": "A medida que se acumulan los escándalos por el uso de AI entre autores profesionales, la startup británica Books by People ha recibido la aprobación de la Intellectual Property Office del UK para distribuir una marca que certifica que un libro fue escrito por un ser humano. El sello, con forma de huella dactilar, aparecerá en la cubierta."
+                "x": "Por segunda vez este año, el Tribunal Regional de Múnich ha fallado a favor de la sociedad alemana de gestión colectiva de derechos GEMA en un caso contra empresas de AI. Tras fallar contra OpenAI por letras en alemán (German-language) el pasado noviembre, en julio el tribunal falló contra Suno AI por varias obras musicales, con Boney M. en un lugar destacado."
               },
               {
                 "t": "p",
-                "x": "En lugar de confiar en la palabra del autor, Books by People pide una declaración de autoría, analiza cada manuscrito con software propio y examina a mano los primeros borradores y los materiales de investigación en busca de “indicadores de humanidad”. Cobrará a las editoriales una cuota fija de membresía más una cantidad por libro. Cinco editoriales se han sumado hasta ahora, y se espera el primer libro certificado antes de fin de año."
+                "x": "La sentencia abordó la cuestión de fondo: ¿memorizan los LLMs y, de ser así, es eso una reproducción? Según el tribunal, sí y sí. Como señala el fallo, “de la correspondencia entre los datos de entrenamiento y los resultados... puede inferirse que los datos de entrenamiento fueron memorizados”. Si un simple prompt vuelve a reunir obras tokenizadas, sugiere el tribunal, eso equivale a una reproducción."
               },
               {
                 "t": "p",
-                "x": "Los críticos advierten de los falsos positivos. Pangram, que asegura tener una precisión del 99.7 %, calificó el libro del autor debutante Jerry Falade como 97 % AI-generated; él sostuvo que la herramienta malinterpretó su dialecto nigeriano. “Tenemos que tener bastante cuidado de que esto no acabe convirtiéndose en una caza de brujas”, dice Tom West, de Publishers’ Licensing Services."
+                "x": "Como el entrenamiento tuvo lugar en Estados Unidos (U.S.), el tribunal de Múnich aplicó la ley estadounidense de derechos de autor y analizó con detalle Bartz v. Anthropic y Kadrey v. Meta. A diferencia de esos casos, concluyó que los resultados sí reproducían los datos de entrada, por lo que el uso no era “transformativo” (transformative) y el fair use no servía como defensa."
               },
               {
                 "t": "p",
-                "x": "“Yo no lo llamaría detección de AI”, dice la cofundadora Esme Dennys. “La base de nuestra organización es evitar que [los escritores] sean acusados injustamente”."
+                "x": "La sentencia no es firme y aún puede recurrirse. En un artículo para PW, Richard Mollett, de RELX, sostiene que la AI no está arrollando los derechos de autor: los litigios y el crecimiento paralelo de los acuerdos de licencia muestran la determinación de los titulares de derechos."
               }
             ]
           }
@@ -325,165 +316,190 @@
       }
     },
     {
-      "id": "books-simon-schuster-ai-tracking-letter",
+      "id": "books-storytel-ai-translation",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
-      "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
-      "mini_headline": "S&S 직원 vs AI 추적",
+      "headline": "Storytel, AI\n번역 공정 자동화",
+      "body": "Storytel이 번역 출판을 자동화하고 AI-powered Genie를 선보였다.",
+      "mini_headline": "Storytel, 번역 자동화",
       "tool": "Books",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101454-frankfurt-book-fair-storytel-s-talks-ai-translated-audiobooks.html",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
           },
           {
             "t": "p",
-            "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. AI가 자기 업무 성과를 감시하는 데 쓰일까 걱정하는 직원들이 CEO Greg Greeley에게 보낼 공개서한에 서명을 모은다. 서한은 업무 활동을 분석하는 Skan AI나 비슷한 소프트웨어를 쓰는 데 “강력한 반대”를 밝히고, 이 움직임이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 짚었다."
+            "x": "Storytel은 2021년 AI 보조(AI-assisted) 번역 실험을 시작했고, 이제 스웨덴 기술 기업 Nuanxed와 손잡고 번역 출판 공정을 자동화했다. 최고콘텐츠·출판책임자 Helena Gustafsson은 Nuanxed의 이사이기도 하다. Storytel은 2025년부터 AI 생성(AI-generated) 내레이터 음성을 제공해 왔으며 최근에는 “AI 기반 동반자(AI-powered companion)” Genie를 선보였다."
           },
           {
             "t": "p",
-            "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 익명의 작성자들이 목표로 잡은 서명은 250명이다. S&S 직원은 1,500명이다."
+            "x": "Gustafsson이 꼽는 동력은 돈이 아니라 시간이다. “여덟 권짜리(eight-book) 시리즈를 단 여섯 달 만에 낼 수 있습니다.” Storytel은 북유럽 국가들과 불가리아, 네덜란드, 폴란드, 튀르키예, 미국(U.S.)까지 10개 핵심 시장을 겨냥하며, 시장에 맞춘(market-adapted) 책만 낸다."
           },
           {
             "t": "p",
-            "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획이 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이려고 “검토 중인 가능한 방안 가운데 하나”일 뿐이고, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”고 했다."
+            "x": "독자 반응을 두고 그는 AI가 “실은 품질이 아니라 인식의 문제”라고 말한다. 핀란드의 한 “AI 번역(AI-translated)” 책을 비판한 기자가 있었는데, 알고 보니 그 책은 사람이 번역한(human-translated) 것이었다는 일화도 전했다."
+          },
+          {
+            "t": "p",
+            "x": "한계도 분명하다고 본다. AI는 새로운 이야기를 만드는 데 “정말 서툴고”, 어떤 책은 사람의 번역이 꼭 필요하다는 것이다. “시집을 AI로 번역하려는 사람은 없을 겁니다.” AI를 쓰는 사람이라면 누구든 책임감 있고 윤리적으로 쓰는 법을 고민해야 한다고도 덧붙였다."
           }
         ]
       },
+      "lead_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG",
       "text": {
         "en": {
-          "headline": "S&S staff push back on\nAI tracking software",
-          "body": "S&S staff oppose Skan AI or similar software in an open letter; the CEO says no company-wide rollout is planned.",
-          "mini_headline": "S&S staff vs AI tracking",
+          "headline": "Storytel automates its\nAI translation workflow",
+          "body": "Storytel has automated its translation publishing workflow and introduced Genie, a new AI-powered companion.",
+          "mini_headline": "Storytel automates translation",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "The AI battle in publishing has expanded to include employees of Simon & Schuster who worry it will be used to monitor their performance. Staff are gathering signatures for an open letter to CEO Greg Greeley that cites “strong opposition” to using Skan AI or similar software that analyzes workplace activity — “at the apparent urging of KKR,” the private equity firm that purchased S&S in 2023."
+                "x": "Storytel began experimenting with AI-assisted translation in 2021 and has now automated its translation publishing workflow through a partnership with Swedish tech firm Nuanxed, where chief content and publishing officer Helena Gustafsson is also a board member. Since 2025 it has offered AI-generated narrator voices, and it recently introduced Genie, an “AI-powered companion.”"
               },
               {
                 "t": "p",
-                "x": "“Introducing a technology that tracks employees’ keystrokes and ‘monitors compliance continuously’ would be a direct transgression against our privacy and dignity as workers,” the letter reads. Its unnamed authors are seeking 250 signatures; S&S has 1,500 employees."
+                "x": "Gustafsson says the driver is time, not money: “We can get an eight-book series out in just six months.” Storytel targets 10 core markets—the Nordics, plus Bulgaria, the Netherlands, Poland, Turkey, and the U.S.—and only publishes market-adapted books."
               },
               {
                 "t": "p",
-                "x": "In an October 6 memo, Greeley said no plans are underway to use AI to track performance. Blueprint from Skan AI is “one possible avenue being explored” to reduce administrative tasks, but “no decision has been made to use Blueprint or any other productivity-monitoring or workflow-analysis tool, and there is no company-wide rollout underway or under consideration.”"
+                "x": "On reader response, she calls AI “a perception issue, not actually about quality,” recalling a journalist who criticized a Finnish “AI-translated” book that turned out to be human-translated."
+              },
+              {
+                "t": "p",
+                "x": "She sees limits: AI is “really bad at” creating new stories, and some books demand human translation—“I don’t see anyone trying to translate a poetry book with AI.” Anyone using AI, she adds, must ask how to do it responsibly and ethically."
               }
             ]
           }
         },
         "ko": {
-          "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
-          "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
-          "mini_headline": "S&S 직원 vs AI 추적",
+          "headline": "Storytel, AI\n번역 공정 자동화",
+          "body": "Storytel이 번역 출판을 자동화하고 AI-powered Genie를 선보였다.",
+          "mini_headline": "Storytel, 번역 자동화",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. AI가 자기 업무 성과를 감시하는 데 쓰일까 걱정하는 직원들이 CEO Greg Greeley에게 보낼 공개서한에 서명을 모은다. 서한은 업무 활동을 분석하는 Skan AI나 비슷한 소프트웨어를 쓰는 데 “강력한 반대”를 밝히고, 이 움직임이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 짚었다."
+                "x": "Storytel은 2021년 AI 보조(AI-assisted) 번역 실험을 시작했고, 이제 스웨덴 기술 기업 Nuanxed와 손잡고 번역 출판 공정을 자동화했다. 최고콘텐츠·출판책임자 Helena Gustafsson은 Nuanxed의 이사이기도 하다. Storytel은 2025년부터 AI 생성(AI-generated) 내레이터 음성을 제공해 왔으며 최근에는 “AI 기반 동반자(AI-powered companion)” Genie를 선보였다."
               },
               {
                 "t": "p",
-                "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 익명의 작성자들이 목표로 잡은 서명은 250명이다. S&S 직원은 1,500명이다."
+                "x": "Gustafsson이 꼽는 동력은 돈이 아니라 시간이다. “여덟 권짜리(eight-book) 시리즈를 단 여섯 달 만에 낼 수 있습니다.” Storytel은 북유럽 국가들과 불가리아, 네덜란드, 폴란드, 튀르키예, 미국(U.S.)까지 10개 핵심 시장을 겨냥하며, 시장에 맞춘(market-adapted) 책만 낸다."
               },
               {
                 "t": "p",
-                "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획이 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이려고 “검토 중인 가능한 방안 가운데 하나”일 뿐이고, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”고 했다."
+                "x": "독자 반응을 두고 그는 AI가 “실은 품질이 아니라 인식의 문제”라고 말한다. 핀란드의 한 “AI 번역(AI-translated)” 책을 비판한 기자가 있었는데, 알고 보니 그 책은 사람이 번역한(human-translated) 것이었다는 일화도 전했다."
+              },
+              {
+                "t": "p",
+                "x": "한계도 분명하다고 본다. AI는 새로운 이야기를 만드는 데 “정말 서툴고”, 어떤 책은 사람의 번역이 꼭 필요하다는 것이다. “시집을 AI로 번역하려는 사람은 없을 겁니다.” AI를 쓰는 사람이라면 누구든 책임감 있고 윤리적으로 쓰는 법을 고민해야 한다고도 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "S&S社員、AI追跡\nソフトに反発",
-          "body": "S&S社員が公開書簡でSkan AIなどに反対し、CEOは全社導入の予定はないとした。",
-          "mini_headline": "S&S社員 vs AI追跡",
+          "headline": "Storytel、AI翻訳\nワークフロー自動化",
+          "body": "Storytelは翻訳出版を自動化し、AI-poweredの相棒Genieを導入した。",
+          "mini_headline": "Storytel、翻訳を自動化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "出版界のAIをめぐる攻防は、業績の監視に使われることを懸念するSimon & Schusterの従業員にまで広がった。従業員らはCEOのGreg Greeley宛ての公開書簡への署名を集めている。書簡は、職場での活動を分析するSkan AIや類似ソフトウェアの使用に「強く反対」すると表明し、それが2023年にS&Sを買収したプライベート・エクイティ企業KKRの「意向によるものとみられる」と指摘する。"
+                "x": "Storytelは2021年にAI支援(AI-assisted)翻訳の実験を始め、現在はスウェーデンのテック企業Nuanxedとの提携によって翻訳出版のワークフローを自動化している。Nuanxedでは、最高コンテンツ・出版責任者のHelena Gustafssonが取締役も務める。Storytelは2025年からAI生成(AI-generated)のナレーター音声を提供し、最近は「AI搭載の相棒(AI-powered companion)」Genieを導入した。"
               },
               {
                 "t": "p",
-                "x": "書簡には「従業員のキー入力を追跡し、『コンプライアンスを継続的に監視する』技術の導入は、労働者としての私たちのプライバシーと尊厳に対する直接的な侵害だ」とある。匿名の起草者らは250人の署名を目指している。S&Sの従業員は1,500人だ。"
+                "x": "Gustafssonによれば、原動力はお金ではなく時間だ。「八冊(eight-book)のシリーズをわずか六か月で出せる」。Storytelは北欧諸国に加え、ブルガリア、オランダ、ポーランド、トルコ、米国(U.S.)の10の中核市場を対象とし、市場に合わせた(market-adapted)本だけを出版している。"
               },
               {
                 "t": "p",
-                "x": "Greeleyは10月6日付のメモで、業績追跡にAIを使う計画はないと述べた。Skan AIのBlueprintは事務作業を減らすために「検討中の選択肢の一つ」だが、「Blueprintやその他の生産性監視・ワークフロー分析ツールを使う決定は下されておらず、全社的な導入は進行中でも検討中でもない」という。"
+                "x": "読者の反応について、彼女はAIを「実のところ品質ではなく、認識の問題」と呼ぶ。フィンランドの「AI翻訳(AI-translated)」本を批判した記者がいたが、その本は実は人間による翻訳(human-translated)だったという例を挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "限界もあると見る。AIは新しい物語を作るのが「本当に苦手」で、人間による翻訳が欠かせない本もある。「詩集をAIで翻訳しようとする人はいないでしょう」。AIを使う者は誰であれ、責任をもって倫理的に使う方法を問わなければならないと彼女は付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "S&S员工反对\nAI追踪软件",
-          "body": "S&S员工发公开信反对Skan AI等软件，CEO称没有全公司推行计划。",
-          "mini_headline": "S&S员工 vs AI追踪",
+          "headline": "Storytel将AI\n翻译流程自动化",
+          "body": "Storytel已将翻译出版流程自动化，并推出AI-powered助手Genie。",
+          "mini_headline": "Storytel翻译自动化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "出版业围绕AI的争斗已蔓延到Simon & Schuster的员工，他们担心AI会被用来监控自己的工作表现。员工正在为致CEO Greg Greeley的公开信征集签名，信中表示“强烈反对”使用Skan AI或类似的工作场所活动分析软件，称此举“显然是在KKR的推动下”进行的。KKR是于2023年收购S&S的私募股权公司。"
+                "x": "Storytel自2021年开始尝试AI辅助（AI-assisted）翻译，如今通过与瑞典科技公司Nuanxed合作，实现了翻译出版流程的自动化；首席内容与出版官Helena Gustafsson同时也是Nuanxed的董事会成员。自2025年起，Storytel提供AI生成（AI-generated）的朗读者声音，最近又推出了“AI驱动的伙伴”（AI-powered companion）Genie。"
               },
               {
                 "t": "p",
-                "x": "信中写道：“引入追踪员工键盘输入、‘持续监控合规情况’的技术，将直接侵犯我们作为劳动者的隐私与尊严。”未具名的发起人希望征集250个签名；S&S共有1,500名员工。"
+                "x": "Gustafsson表示，驱动力是时间而不是钱：“一套八本（eight-book）的系列，我们只需六个月就能推出。”Storytel瞄准10个核心市场——北欧国家，以及保加利亚、荷兰、波兰、土耳其和美国（U.S.）——并且只出版针对市场调整（market-adapted）的图书。"
               },
               {
                 "t": "p",
-                "x": "Greeley在10月6日的备忘录中表示，目前没有用AI追踪工作表现的计划。Skan AI的Blueprint是为减少行政事务而“正在探索的一种可能途径”，但“尚未决定使用Blueprint或任何其他生产力监控或工作流程分析工具，也没有正在推行或考虑中的全公司部署”。"
+                "x": "谈到读者反应，她称AI“其实是认知问题，而不是质量问题”，并回忆起一位记者批评一本芬兰“AI翻译”（AI-translated）图书，结果那本书其实是人工翻译（human-translated）的。"
+              },
+              {
+                "t": "p",
+                "x": "她也看到局限：AI在创作新故事方面“真的很差”，有些书必须由人来翻译——“我想不会有人尝试用AI翻译诗集。”她补充说，任何使用AI的人都必须思考如何负责任、合乎伦理地使用它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empleados de S&S rechazan\nel software de rastreo con AI",
-          "body": "Empleados de S&S rechazan Skan AI y similares en una carta abierta; el CEO dice que no prevé un despliegue general.",
-          "mini_headline": "Plantilla de S&S vs rastreo con AI",
+          "headline": "Storytel automatiza su flujo\nde traducción con AI",
+          "body": "Storytel automatizó su flujo de publicación de traducciones y presentó Genie, un nuevo acompañante AI-powered.",
+          "mini_headline": "Storytel automatiza la traducción",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "La batalla por la AI en el sector editorial se ha extendido a los empleados de Simon & Schuster, que temen que se use para vigilar su rendimiento. El personal está reuniendo firmas para una carta abierta al CEO, Greg Greeley, que expresa una “fuerte oposición” al uso de Skan AI o de software similar que analiza la actividad laboral, “aparentemente a instancias de KKR”, la firma de capital privado que compró S&S en 2023."
+                "x": "Storytel empezó a experimentar con la traducción AI-assisted en 2021 y ahora ha automatizado su flujo de publicación de traducciones gracias a una alianza con la tecnológica sueca Nuanxed, en cuyo consejo también se sienta Helena Gustafsson, directora de contenidos y publicaciones. Desde 2025 ofrece voces de narración AI-generated y hace poco presentó Genie, un “acompañante AI-powered”."
               },
               {
                 "t": "p",
-                "x": "“Introducir una tecnología que rastrea las pulsaciones de teclado de los empleados y ‘supervisa el cumplimiento de forma continua’ sería una transgresión directa contra nuestra privacidad y dignidad como trabajadores”, dice la carta. Sus autores, que no se identifican, buscan 250 firmas; S&S tiene 1,500 empleados."
+                "x": "Gustafsson afirma que el motor es el tiempo, no el dinero: “Podemos sacar una serie de ocho libros (eight-book) en solo seis meses”. Storytel apunta a 10 mercados clave —los países nórdicos, además de Bulgaria, los Países Bajos, Polonia, Turquía y Estados Unidos (U.S.)— y solo publica libros adaptados a cada mercado (market-adapted)."
               },
               {
                 "t": "p",
-                "x": "En un memorando del 6 de octubre, Greeley afirmó que no hay planes en marcha para usar AI para medir el rendimiento. Blueprint, de Skan AI, es “una posible vía que se está explorando” para reducir tareas administrativas, pero “no se ha tomado ninguna decisión de usar Blueprint ni ninguna otra herramienta de monitoreo de productividad o de análisis de flujos de trabajo, y no hay ningún despliegue en toda la empresa en marcha ni en estudio”."
+                "x": "Sobre la respuesta de los lectores, califica la AI de “un problema de percepción, no realmente de calidad”, y recuerda a un periodista que criticó un libro finlandés “AI-translated” que resultó haber sido traducido por personas (human-translated)."
+              },
+              {
+                "t": "p",
+                "x": "También ve límites: la AI es “realmente mala” creando historias nuevas, y algunos libros exigen traducción humana: “No veo a nadie intentando traducir un libro de poesía con AI”. Quien use AI, añade, debe preguntarse cómo hacerlo de forma responsable y ética."
               }
             ]
           }
@@ -491,105 +507,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "S&S 직원들, AI\n추적 소프트웨어 반대",
-          "body": "S&S 직원들이 Skan AI에 반대하자 CEO는 전사 도입 계획이 없다고 했다.",
-          "mini_headline": "S&S 직원 vs AI 추적",
+          "headline": "Storytel, AI\n번역 공정 자동화",
+          "body": "Storytel이 번역 출판을 자동화하고 AI-powered Genie를 선보였다.",
+          "mini_headline": "Storytel, 번역 자동화",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "출판계의 AI 갈등이 Simon & Schuster 직원들에게까지 번졌다. 직원들은 AI가 자신들의 업무 성과를 감시하는 데 쓰일까 우려한다. 이들은 CEO Greg Greeley에게 보내는 공개서한에 서명을 모으고 있다. 서한은 업무 활동을 분석하는 Skan AI 또는 유사 소프트웨어 사용에 “강력한 반대”를 밝히며, 이것이 2023년 S&S를 인수한 사모펀드 KKR의 “요청에 따른 것으로 보인다”고 지적한다."
+                "x": "Storytel은 2021년 AI 보조(AI-assisted) 번역 실험을 시작했고, 이제 스웨덴 기술 기업 Nuanxed와 손잡고 번역 출판 공정을 자동화했다. 최고콘텐츠·출판책임자 Helena Gustafsson은 Nuanxed의 이사이기도 하다. Storytel은 2025년부터 AI 생성(AI-generated) 내레이터 음성을 제공해 왔고, 최근에는 “AI 기반 동반자(AI-powered companion)” Genie를 선보였다."
               },
               {
                 "t": "p",
-                "x": "서한은 “직원의 키 입력을 추적하고 ‘규정 준수를 지속적으로 감시하는’ 기술을 도입하는 것은 노동자로서 우리의 사생활과 존엄을 정면으로 침해하는 일”이라고 적었다. 이름을 밝히지 않은 작성자들은 서명 250명을 목표로 한다. S&S 직원은 1,500명이다."
+                "x": "Gustafsson은 동력이 돈이 아니라 시간이라고 말한다. “여덟 권짜리(eight-book) 시리즈를 단 여섯 달 만에 낼 수 있습니다.” Storytel은 북유럽 국가들과 불가리아, 네덜란드, 폴란드, 튀르키예, 미국(U.S.)까지 10개 핵심 시장을 겨냥하며, 시장에 맞춘(market-adapted) 책만 낸다."
               },
               {
                 "t": "p",
-                "x": "Greeley는 10월 6일 메모에서 성과 추적에 AI를 쓸 계획은 없다고 밝혔다. Skan AI의 Blueprint는 행정 업무를 줄이기 위해 “검토 중인 가능한 방안 가운데 하나”이지만, “Blueprint나 다른 어떤 생산성 모니터링·워크플로 분석 도구도 쓰기로 결정한 바 없으며, 전사 도입이 진행 중이거나 검토되고 있지도 않다”는 설명이다."
+                "x": "독자 반응에 대해 그는 AI가 “실은 품질이 아니라 인식의 문제”라고 말한다. 핀란드의 한 “AI 번역(AI-translated)” 책을 비판한 기자가 있었는데, 알고 보니 그 책은 사람이 번역한(human-translated) 것이었다는 일화도 전했다."
+              },
+              {
+                "t": "p",
+                "x": "한계도 분명하다고 본다. AI는 새로운 이야기를 만드는 데 “정말 서툴고”, 어떤 책은 사람의 번역이 꼭 필요하다는 것이다. “시집을 AI로 번역하려는 사람은 없을 겁니다.” 그는 AI를 쓰는 사람이라면 누구든 이를 책임감 있고 윤리적으로 하는 방법을 고민해야 한다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "S&S社員、AI追跡\nソフトに反発",
-          "body": "S&S社員が公開書簡でSkan AIなどに反対し、CEOは全社導入の予定はないとした。",
-          "mini_headline": "S&S社員 vs AI追跡",
+          "headline": "Storytel、AI翻訳\nワークフロー自動化",
+          "body": "Storytelは翻訳出版を自動化し、AI-poweredの相棒Genieを導入した。",
+          "mini_headline": "Storytel、翻訳を自動化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "出版界のAIをめぐる攻防は、業績の監視に使われることを懸念するSimon & Schusterの従業員にまで広がった。従業員らはCEOのGreg Greeley宛ての公開書簡への署名を集めている。書簡は、職場での活動を分析するSkan AIや類似ソフトウェアの使用に「強く反対」すると表明し、それが2023年にS&Sを買収したプライベート・エクイティ企業KKRの「意向によるものとみられる」と指摘する。"
+                "x": "Storytelは2021年にAI支援(AI-assisted)翻訳の実験を始め、現在はスウェーデンのテック企業Nuanxedとの提携によって翻訳出版のワークフローを自動化している。Nuanxedでは、最高コンテンツ・出版責任者のHelena Gustafssonが取締役も務める。Storytelは2025年からAI生成(AI-generated)のナレーター音声を提供し、最近は「AI搭載の相棒(AI-powered companion)」Genieを導入した。"
               },
               {
                 "t": "p",
-                "x": "書簡には「従業員のキー入力を追跡し、『コンプライアンスを継続的に監視する』技術の導入は、労働者としての私たちのプライバシーと尊厳に対する直接的な侵害だ」とある。匿名の起草者らは250人の署名を目指している。S&Sの従業員は1,500人だ。"
+                "x": "Gustafssonによれば、原動力はお金ではなく時間だ。「八冊(eight-book)のシリーズをわずか六か月で出せる」。Storytelは北欧諸国に加え、ブルガリア、オランダ、ポーランド、トルコ、米国(U.S.)の10の中核市場を対象とし、市場に合わせた(market-adapted)本だけを出版している。"
               },
               {
                 "t": "p",
-                "x": "Greeleyは10月6日付のメモで、業績追跡にAIを使う計画はないと述べた。Skan AIのBlueprintは事務作業を減らすために「検討中の選択肢の一つ」だが、「Blueprintやその他の生産性監視・ワークフロー分析ツールを使う決定は下されておらず、全社的な導入は進行中でも検討中でもない」という。"
+                "x": "読者の反応について、彼女はAIを「実のところ品質ではなく、認識の問題」と呼ぶ。フィンランドの「AI翻訳(AI-translated)」本を批判した記者がいたが、その本は実は人間による翻訳(human-translated)だったという例を挙げた。"
+              },
+              {
+                "t": "p",
+                "x": "限界もあると見る。AIは新しい物語を作るのが「本当に苦手」で、人間による翻訳が欠かせない本もある。「詩集をAIで翻訳しようとする人はいないでしょう」。AIを使う者は誰であれ、責任をもって倫理的に使う方法を問わなければならないと彼女は付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "S&S员工反对\nAI追踪软件",
-          "body": "S&S员工发公开信反对Skan AI等软件，CEO称没有全公司推行计划。",
-          "mini_headline": "S&S员工 vs AI追踪",
+          "headline": "Storytel将AI\n翻译流程自动化",
+          "body": "Storytel已将翻译出版流程自动化，并推出AI-powered助手Genie。",
+          "mini_headline": "Storytel翻译自动化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "出版业围绕AI的争斗已蔓延到Simon & Schuster的员工，他们担心AI会被用来监控自己的工作表现。员工正在为致CEO Greg Greeley的公开信征集签名，信中表示“强烈反对”使用Skan AI或类似的工作场所活动分析软件，称此举“显然是在KKR的推动下”进行的。KKR是于2023年收购S&S的私募股权公司。"
+                "x": "Storytel自2021年开始尝试AI辅助（AI-assisted）翻译，如今通过与瑞典科技公司Nuanxed合作，实现了翻译出版流程的自动化；首席内容与出版官Helena Gustafsson同时也是Nuanxed的董事会成员。自2025年起，Storytel提供AI生成（AI-generated）的朗读者声音，最近又推出了“AI驱动的伙伴”（AI-powered companion）Genie。"
               },
               {
                 "t": "p",
-                "x": "信中写道：“引入追踪员工键盘输入、‘持续监控合规情况’的技术，将直接侵犯我们作为劳动者的隐私与尊严。”未具名的发起人希望征集250个签名；S&S共有1,500名员工。"
+                "x": "Gustafsson表示，驱动力是时间而不是钱：“一套八本（eight-book）的系列，我们只需六个月就能推出。”Storytel瞄准10个核心市场——北欧国家，以及保加利亚、荷兰、波兰、土耳其和美国（U.S.）——并且只出版针对市场调整（market-adapted）的图书。"
               },
               {
                 "t": "p",
-                "x": "Greeley在10月6日的备忘录中表示，目前没有用AI追踪工作表现的计划。Skan AI的Blueprint是为减少行政事务而“正在探索的一种可能途径”，但“尚未决定使用Blueprint或任何其他生产力监控或工作流程分析工具，也没有正在推行或考虑中的全公司部署”。"
+                "x": "谈到读者反应，她称AI“其实是认知问题，而不是质量问题”，并回忆起一位记者批评一本芬兰“AI翻译”（AI-translated）图书，结果那本书其实是人工翻译（human-translated）的。"
+              },
+              {
+                "t": "p",
+                "x": "她也看到局限：AI在创作新故事方面“真的很差”，有些书必须由人来翻译——“我想不会有人尝试用AI翻译诗集。”她补充说，任何使用AI的人都必须思考如何负责任、合乎伦理地使用它。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Empleados de S&S rechazan\nel software de rastreo con AI",
-          "body": "Empleados de S&S rechazan Skan AI y similares en una carta abierta; el CEO dice que no prevé un despliegue general.",
-          "mini_headline": "Plantilla de S&S vs rastreo con AI",
+          "headline": "Storytel automatiza su flujo\nde traducción con AI",
+          "body": "Storytel automatizó su flujo de publicación de traducciones y presentó Genie, un nuevo acompañante AI-powered.",
+          "mini_headline": "Storytel automatiza la traducción",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131995-1.JPG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
               },
               {
                 "t": "p",
-                "x": "La batalla por la AI en el sector editorial se ha extendido a los empleados de Simon & Schuster, que temen que se use para vigilar su rendimiento. El personal está reuniendo firmas para una carta abierta al CEO, Greg Greeley, que expresa una “fuerte oposición” al uso de Skan AI o de software similar que analiza la actividad laboral, “aparentemente a instancias de KKR”, la firma de capital privado que compró S&S en 2023."
+                "x": "Storytel empezó a experimentar con la traducción AI-assisted en 2021 y ahora ha automatizado su flujo de publicación de traducciones gracias a una alianza con la tecnológica sueca Nuanxed, en cuyo consejo también se sienta Helena Gustafsson, directora de contenidos y publicaciones. Desde 2025 ofrece voces de narración AI-generated y hace poco presentó Genie, un “acompañante AI-powered”."
               },
               {
                 "t": "p",
-                "x": "“Introducir una tecnología que rastrea las pulsaciones de teclado de los empleados y ‘supervisa el cumplimiento de forma continua’ sería una transgresión directa contra nuestra privacidad y dignidad como trabajadores”, dice la carta. Sus autores, que no se identifican, buscan 250 firmas; S&S tiene 1,500 empleados."
+                "x": "Gustafsson afirma que el motor es el tiempo, no el dinero: “Podemos sacar una serie de ocho libros (eight-book) en solo seis meses”. Storytel apunta a 10 mercados clave —los países nórdicos, además de Bulgaria, los Países Bajos, Polonia, Turquía y Estados Unidos (U.S.)— y solo publica libros adaptados a cada mercado (market-adapted)."
               },
               {
                 "t": "p",
-                "x": "En un memorando del 6 de octubre, Greeley afirmó que no hay planes en marcha para usar AI para medir el rendimiento. Blueprint, de Skan AI, es “una posible vía que se está explorando” para reducir tareas administrativas, pero “no se ha tomado ninguna decisión de usar Blueprint ni ninguna otra herramienta de monitoreo de productividad o de análisis de flujos de trabajo, y no hay ningún despliegue en toda la empresa en marcha ni en estudio”."
+                "x": "Sobre la respuesta de los lectores, califica la AI de “un problema de percepción, no realmente de calidad”, y recuerda a un periodista que criticó un libro finlandés “AI-translated” que resultó haber sido traducido por personas (human-translated)."
+              },
+              {
+                "t": "p",
+                "x": "También ve límites: la AI es “realmente mala” creando historias nuevas, y algunos libros exigen traducción humana: “No veo a nadie intentando traducir un libro de poesía con AI”. Quien use AI, añade, debe preguntarse cómo hacerlo de forma responsable y ética."
               }
             ]
           }
@@ -597,15 +629,15 @@
       }
     },
     {
-      "id": "books-trace-ai-licensed-content",
+      "id": "books-uk-human-authored-mark",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
-      "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
-      "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+      "headline": "UK, 사람이 쓴 책\n첫 인증 마크 등록",
+      "body": "UK 지식재산청이 human-authored 도서 인증 마크를 처음 등록했다.",
+      "mini_headline": "UK, human-authored 마크 인정",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -613,155 +645,108 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-            "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표했다."
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+            "cap": "Books By People 창업자 Gavin Johnston, Conrad Young, Esme Dennys"
           },
           {
             "t": "p",
-            "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한자리에 모은다. 학술 커뮤니케이션에 쓰이는 AI 시스템을 더 믿을 만하게 만들 기술 인프라를 앞당겨 갖추자는 취지다. 지원 대상은 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜이다."
-          },
-          {
-            "t": "p",
-            "x": "TRACE는 병렬 프로젝트 세 개에 자금을 대며 첫발을 뗀다. 하나는 출판사 플랫폼 밖의 추론 시점 이용까지 아우르는 COUNTER의 두 번째 단계 AI 이용 지표다. 또 하나는 AI 시스템의 출처·귀속에 필요한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿이다. 나머지는 Ithaka S+R의 석 달짜리 연구로, AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증한 뒤 신뢰할 만한 이용 기록을 남기는 방식을 살핀다."
-          },
-          {
-            "t": "p",
-            "x": "연구를 보면 일반 LLM 출력에는 지어낸 참고문헌이 약 20%에서 40%꼴로 섞여 있다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+            "x": "지식재산청(IPO)이 사람이 쓴 책에 붙는 UK 첫 인증 마크를 등록했다. Books By People의 ‘human-authored’ 인증이다."
           }
         ]
       },
+      "lead_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
       "text": {
         "en": {
-          "headline": "TRACE launches to track\nscholarly content in AI",
-          "body": "Scholarly publishing groups launch TRACE to build provenance, attribution and usage standards for AI systems.",
-          "mini_headline": "TRACE for AI content provenance",
+          "headline": "UK registers its first\nhuman-authored book mark",
+          "body": "The UK Intellectual Property Office has registered the country's first certification mark for human-authored books.",
+          "mini_headline": "UK backs human-authored mark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "Priya Madina from Springer Nature, Tasha Mellins-Cohen from COUNTER, Todd Toler from Ithaka S+R, and Todd Carpenter from NISO announce the TRACE initiative during the STM conference prior to the Frankfurt Book Fair."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By People founders Gavin Johnston, Conrad Young and Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems brings together the scholarly publishing and AI communities to accelerate the technical infrastructure needed to improve the trustworthiness of AI systems in scholarly communication, supporting content exchange standards, provenance tracking mechanisms and usage reporting protocols."
-              },
-              {
-                "t": "p",
-                "x": "It launches with funding for three parallel projects: COUNTER’s phase two AI usage metrics, including inference-time usage outside publishers’ platforms; a NISO pilot to define a minimum viable metadata model for provenance and attribution in AI systems; and a three-month Ithaka S+R study of how AI agents discover scholarly content, authenticate through a user’s entitlements and create a credible record of content use."
-              },
-              {
-                "t": "p",
-                "x": "Research has documented hallucinated references at rates of approximately 20% to 40% in general LLM outputs. “How can we trust a result if we can’t see where it was derived from?” writes NISO’s Todd Carpenter."
+                "x": "The Intellectual Property Office (IPO) has registered the UK’s first certification mark for human-authored books: Books By People’s ‘human-authored’ certification."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
-          "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
-          "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+          "headline": "UK, 사람이 쓴 책\n첫 인증 마크 등록",
+          "body": "UK 지식재산청이 human-authored 도서 인증 마크를 처음 등록했다.",
+          "mini_headline": "UK, human-authored 마크 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표했다."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By People 창업자 Gavin Johnston, Conrad Young, Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한자리에 모은다. 학술 커뮤니케이션에 쓰이는 AI 시스템을 더 믿을 만하게 만들 기술 인프라를 앞당겨 갖추자는 취지다. 지원 대상은 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜이다."
-              },
-              {
-                "t": "p",
-                "x": "TRACE는 병렬 프로젝트 세 개에 자금을 대며 첫발을 뗀다. 하나는 출판사 플랫폼 밖의 추론 시점 이용까지 아우르는 COUNTER의 두 번째 단계 AI 이용 지표다. 또 하나는 AI 시스템의 출처·귀속에 필요한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿이다. 나머지는 Ithaka S+R의 석 달짜리 연구로, AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증한 뒤 신뢰할 만한 이용 기록을 남기는 방식을 살핀다."
-              },
-              {
-                "t": "p",
-                "x": "연구를 보면 일반 LLM 출력에는 지어낸 참고문헌이 약 20%에서 40%꼴로 섞여 있다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+                "x": "지식재산청(IPO)이 사람이 쓴 책에 붙는 UK 첫 인증 마크를 등록했다. Books By People의 ‘human-authored’ 인증이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TRACEが始動\nAIの学術情報を追跡",
-          "body": "学術出版界がTRACEを立ち上げ、AIシステムの出所・帰属・利用の標準を築く。",
-          "mini_headline": "AIコンテンツの出所を追うTRACE",
+          "headline": "UK、人間が書いた本の\n認証マークを初登録",
+          "body": "UK知的財産庁が、human-authoredの書籍向け認証マークを国内で初めて登録した。",
+          "mini_headline": "UK、human-authoredマークを認定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair)に先立つSTMカンファレンスで、TRACEイニシアチブを発表するSpringer NatureのPriya Madina、COUNTERのTasha Mellins-Cohen、Ithaka S+RのTodd Toler、NISOのTodd Carpenter。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By Peopleの創業者Gavin Johnston、Conrad Young、Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystemsは、学術出版とAIのコミュニティを結びつけ、学術コミュニケーションにおけるAIシステムの信頼性向上に必要な技術基盤づくりを加速させる。コンテンツ交換の標準、出所追跡の仕組み、利用状況報告のプロトコルを支援する。"
-              },
-              {
-                "t": "p",
-                "x": "TRACEは三つの並行プロジェクトへの資金提供とともに始動する。出版社のプラットフォーム外での推論時の利用も含むCOUNTERの第二段階のAI利用指標、AIシステムにおける出所と帰属のための最小限のメタデータモデルを定めるNISOのパイロット、そしてAIエージェントが学術コンテンツをどう見つけ、利用者の利用権限で認証し、信頼できる利用記録を残すかを調べるIthaka S+Rの三か月間の研究だ。"
-              },
-              {
-                "t": "p",
-                "x": "一般的なLLMの出力では、およそ20%から40%の割合で架空の参考文献が生じることが研究で確認されている。NISOのTodd Carpenterは「出どころが見えない結果を、どうして信頼できるだろうか」と書いている。"
+                "x": "知的財産庁(IPO)は、人間が書いた本を対象とするUK初の認証マークとして、Books By Peopleの「human-authored」認証を登録した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TRACE启动\n追踪AI中的学术内容",
-          "body": "学术出版团体推出TRACE，为AI系统建立来源、归属与使用标准。",
-          "mini_headline": "TRACE追踪AI内容来源",
+          "headline": "UK登记首个\n“人类创作”图书标志",
+          "body": "UK知识产权局登记了该国首个human-authored图书认证标志。",
+          "mini_headline": "UK认可human-authored标志",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "在法兰克福书展（Frankfurt Book Fair）前举行的STM会议上，Springer Nature的Priya Madina、COUNTER的Tasha Mellins-Cohen、Ithaka S+R的Todd Toler和NISO的Todd Carpenter宣布TRACE计划。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By People创始人Gavin Johnston、Conrad Young和Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems汇集学术出版界与AI社群，加快建设提升学术交流中AI系统可信度所需的技术基础设施，支持内容交换标准、来源追踪机制和使用报告协议。"
-              },
-              {
-                "t": "p",
-                "x": "该计划启动时资助三个并行项目：COUNTER第二阶段的AI使用指标，涵盖出版商平台之外的推理时使用；NISO的试点项目，旨在为AI系统中的来源与归属定义最小可行元数据模型；以及Ithaka S+R为期三个月的研究，考察AI智能体如何发现学术内容、借助用户的访问权限完成认证，并留下可信的内容使用记录。"
-              },
-              {
-                "t": "p",
-                "x": "研究记录显示，通用LLM输出中虚构参考文献的比例约为20%至40%。NISO的Todd Carpenter写道：“如果看不到结果从何而来，我们又怎能信任它？”"
+                "x": "知识产权局（IPO）已登记UK首个面向人类创作图书的认证标志：Books By People的“human-authored”认证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nace TRACE para rastrear el\ncontenido académico en la AI",
-          "body": "Grupos de la edición académica lanzan TRACE para crear estándares de procedencia, atribución y uso en sistemas de AI.",
-          "mini_headline": "TRACE para la procedencia del contenido en AI",
+          "headline": "UK registra su primer sello\nde libro escrito por humanos",
+          "body": "La Intellectual Property Office del UK registró la primera marca de certificación del país para libros human-authored.",
+          "mini_headline": "El UK respalda la marca human-authored",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "Priya Madina, de Springer Nature; Tasha Mellins-Cohen, de COUNTER; Todd Toler, de Ithaka S+R, y Todd Carpenter, de NISO, anuncian la iniciativa TRACE durante la conferencia STM previa a la Frankfurt Book Fair."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Gavin Johnston, Conrad Young y Esme Dennys, fundadores de Books By People"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems reúne a las comunidades de la edición académica y de la AI para acelerar la infraestructura técnica necesaria para mejorar la fiabilidad de los sistemas de AI en la comunicación académica, con apoyo a estándares de intercambio de contenidos, mecanismos de seguimiento de la procedencia y protocolos de informes de uso."
-              },
-              {
-                "t": "p",
-                "x": "Arranca con financiación para tres proyectos paralelos: la fase dos de las métricas de uso de AI de COUNTER, que incluye el uso en tiempo de inferencia fuera de las plataformas de las editoriales; un piloto de NISO para definir un modelo mínimo viable de metadatos para la procedencia y la atribución en sistemas de AI; y un estudio de tres meses de Ithaka S+R sobre cómo los agentes de AI descubren contenido académico, se autentican mediante los derechos de acceso del usuario y crean un registro fiable del uso del contenido."
-              },
-              {
-                "t": "p",
-                "x": "Las investigaciones han documentado referencias alucinadas con una frecuencia de aproximadamente el 20 % al 40 % en los resultados generales de LLM. “¿Cómo podemos confiar en un resultado si no podemos ver de dónde procede?”, escribe Todd Carpenter, de NISO."
+                "x": "La Intellectual Property Office (IPO) ha registrado la primera marca de certificación del UK para libros escritos por humanos: la certificación ‘human-authored’ de Books By People."
               }
             ]
           }
@@ -769,109 +754,77 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 속 학술 콘텐츠\n추적하는 TRACE 출범",
-          "body": "학술 출판계가 AI 시스템의 출처·귀속·이용 표준을 만들 TRACE를 출범했다.",
-          "mini_headline": "AI 콘텐츠 출처 추적 TRACE",
+          "headline": "UK, 사람이 쓴 책\n첫 인증 마크 등록",
+          "body": "UK 지식재산청이 human-authored 도서 인증 마크를 처음 등록했다.",
+          "mini_headline": "UK, human-authored 마크 인정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "Springer Nature의 Priya Madina, COUNTER의 Tasha Mellins-Cohen, Ithaka S+R의 Todd Toler, NISO의 Todd Carpenter가 프랑크푸르트 도서전(Frankfurt Book Fair)에 앞서 열린 STM 콘퍼런스에서 TRACE 이니셔티브를 발표하고 있다."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By People 창업자 Gavin Johnston, Conrad Young, Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems는 학술 출판계와 AI 커뮤니티를 한데 모아, 학술 커뮤니케이션에서 AI 시스템의 신뢰성을 높이는 데 필요한 기술 인프라 구축을 앞당긴다. 콘텐츠 교환 표준, 출처 추적 장치, 이용 보고 프로토콜을 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "TRACE는 세 개의 병렬 프로젝트에 자금을 지원하며 출범한다. 출판사 플랫폼 밖에서 일어나는 추론 시점 이용까지 포함한 COUNTER의 두 번째 단계 AI 이용 지표, AI 시스템의 출처·귀속을 위한 최소 실행 가능 메타데이터 모델을 정의하는 NISO 파일럿, 그리고 AI 에이전트가 학술 콘텐츠를 찾아내고 이용자의 이용 권한으로 인증하며 신뢰할 만한 콘텐츠 이용 기록을 남기는 방식을 살피는 Ithaka S+R의 석 달짜리 연구다."
-              },
-              {
-                "t": "p",
-                "x": "연구에 따르면 일반 LLM 출력에서 지어낸 참고문헌이 약 20%에서 40% 비율로 나타난다. NISO의 Todd Carpenter는 “결과가 어디서 나왔는지 볼 수 없다면 어떻게 그 결과를 믿을 수 있겠는가?”라고 썼다."
+                "x": "지식재산청(IPO)이 사람이 쓴 책을 위한 UK 최초의 인증 마크를 등록했다. Books By People의 ‘human-authored’ 인증이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "TRACEが始動\nAIの学術情報を追跡",
-          "body": "学術出版界がTRACEを立ち上げ、AIシステムの出所・帰属・利用の標準を築く。",
-          "mini_headline": "AIコンテンツの出所を追うTRACE",
+          "headline": "UK、人間が書いた本の\n認証マークを初登録",
+          "body": "UK知的財産庁が、human-authoredの書籍向け認証マークを国内で初めて登録した。",
+          "mini_headline": "UK、human-authoredマークを認定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair)に先立つSTMカンファレンスで、TRACEイニシアチブを発表するSpringer NatureのPriya Madina、COUNTERのTasha Mellins-Cohen、Ithaka S+RのTodd Toler、NISOのTodd Carpenter。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By Peopleの創業者Gavin Johnston、Conrad Young、Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystemsは、学術出版とAIのコミュニティを結びつけ、学術コミュニケーションにおけるAIシステムの信頼性向上に必要な技術基盤づくりを加速させる。コンテンツ交換の標準、出所追跡の仕組み、利用状況報告のプロトコルを支援する。"
-              },
-              {
-                "t": "p",
-                "x": "TRACEは三つの並行プロジェクトへの資金提供とともに始動する。出版社のプラットフォーム外での推論時の利用も含むCOUNTERの第二段階のAI利用指標、AIシステムにおける出所と帰属のための最小限のメタデータモデルを定めるNISOのパイロット、そしてAIエージェントが学術コンテンツをどう見つけ、利用者の利用権限で認証し、信頼できる利用記録を残すかを調べるIthaka S+Rの三か月間の研究だ。"
-              },
-              {
-                "t": "p",
-                "x": "一般的なLLMの出力では、およそ20%から40%の割合で架空の参考文献が生じることが研究で確認されている。NISOのTodd Carpenterは「出どころが見えない結果を、どうして信頼できるだろうか」と書いている。"
+                "x": "知的財産庁(IPO)は、人間が書いた本を対象とするUK初の認証マークとして、Books By Peopleの「human-authored」認証を登録した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TRACE启动\n追踪AI中的学术内容",
-          "body": "学术出版团体推出TRACE，为AI系统建立来源、归属与使用标准。",
-          "mini_headline": "TRACE追踪AI内容来源",
+          "headline": "UK登记首个\n“人类创作”图书标志",
+          "body": "UK知识产权局登记了该国首个human-authored图书认证标志。",
+          "mini_headline": "UK认可human-authored标志",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "在法兰克福书展（Frankfurt Book Fair）前举行的STM会议上，Springer Nature的Priya Madina、COUNTER的Tasha Mellins-Cohen、Ithaka S+R的Todd Toler和NISO的Todd Carpenter宣布TRACE计划。"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Books By People创始人Gavin Johnston、Conrad Young和Esme Dennys"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems汇集学术出版界与AI社群，加快建设提升学术交流中AI系统可信度所需的技术基础设施，支持内容交换标准、来源追踪机制和使用报告协议。"
-              },
-              {
-                "t": "p",
-                "x": "该计划启动时资助三个并行项目：COUNTER第二阶段的AI使用指标，涵盖出版商平台之外的推理时使用；NISO的试点项目，旨在为AI系统中的来源与归属定义最小可行元数据模型；以及Ithaka S+R为期三个月的研究，考察AI智能体如何发现学术内容、借助用户的访问权限完成认证，并留下可信的内容使用记录。"
-              },
-              {
-                "t": "p",
-                "x": "研究记录显示，通用LLM输出中虚构参考文献的比例约为20%至40%。NISO的Todd Carpenter写道：“如果看不到结果从何而来，我们又怎能信任它？”"
+                "x": "知识产权局（IPO）已登记UK首个面向人类创作图书的认证标志：Books By People的“human-authored”认证。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nace TRACE para rastrear el\ncontenido académico en la AI",
-          "body": "Grupos de la edición académica lanzan TRACE para crear estándares de procedencia, atribución y uso en sistemas de AI.",
-          "mini_headline": "TRACE para la procedencia del contenido en AI",
+          "headline": "UK registra su primer sello\nde libro escrito por humanos",
+          "body": "La Intellectual Property Office del UK registró la primera marca de certificación del país para libros human-authored.",
+          "mini_headline": "El UK respalda la marca human-authored",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/IMG_2853-1024x703.jpg",
-                "cap": "Priya Madina, de Springer Nature; Tasha Mellins-Cohen, de COUNTER; Todd Toler, de Ithaka S+R, y Todd Carpenter, de NISO, anuncian la iniciativa TRACE durante la conferencia STM previa a la Frankfurt Book Fair."
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+                "cap": "Gavin Johnston, Conrad Young y Esme Dennys, fundadores de Books By People"
               },
               {
                 "t": "p",
-                "x": "TRACE: Trusted Retrieval & Attribution for Content Ecosystems reúne a las comunidades de la edición académica y de la AI para acelerar la infraestructura técnica necesaria para mejorar la fiabilidad de los sistemas de AI en la comunicación académica, con apoyo a estándares de intercambio de contenidos, mecanismos de seguimiento de la procedencia y protocolos de informes de uso."
-              },
-              {
-                "t": "p",
-                "x": "Arranca con financiación para tres proyectos paralelos: la fase dos de las métricas de uso de AI de COUNTER, que incluye el uso en tiempo de inferencia fuera de las plataformas de las editoriales; un piloto de NISO para definir un modelo mínimo viable de metadatos para la procedencia y la atribución en sistemas de AI; y un estudio de tres meses de Ithaka S+R sobre cómo los agentes de AI descubren contenido académico, se autentican mediante los derechos de acceso del usuario y crean un registro fiable del uso del contenido."
-              },
-              {
-                "t": "p",
-                "x": "Las investigaciones han documentado referencias alucinadas con una frecuencia de aproximadamente el 20 % al 40 % en los resultados generales de LLM. “¿Cómo podemos confiar en un resultado si no podemos ver de dónde procede?”, escribe Todd Carpenter, de NISO."
+                "x": "La Intellectual Property Office (IPO) ha registrado la primera marca de certificación del UK para libros escritos por humanos: la certificación ‘human-authored’ de Books By People."
               }
             ]
           }
@@ -879,15 +832,15 @@
       }
     },
     {
-      "id": "books-pangram-ai-detector-bias",
-      "source_lang": "en",
+      "id": "books-digital-publishing-award",
+      "source_lang": "de",
       "eyebrow": "AI NEWS",
-      "headline": "Pangram CEO\nAI 탐지 편향 부인",
-      "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
-      "mini_headline": "Pangram, AI-detector 편향 부인",
+      "headline": "KI-Hörbücher도\n디지털 출판상 수상",
+      "body": "2026 디지털 출판상은 Avneesh Singh과 ReadBee 등이 받았다.",
+      "mini_headline": "Digital Publishing Award 발표",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises",
+      "source": "Börsenblatt",
+      "url": "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -895,185 +848,261 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-            "cap": "Pangram 최고경영자 Max Spero"
+            "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
           },
           {
             "t": "p",
-            "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하다는 지적을 반박하며 도구를 감쌌다. “문학계에서” 플랫폼 도입이 “크게 늘었다”는 말도 덧붙였다."
+            "x": "Digital Publishing Award 2026은 Avneesh Singh, Nahdet Misr Group, Pozotron Studio, ReadBee에 돌아갔다. 수상자는 10월 7일 프랑크푸르트 도서전에서 응모작 42건 가운데 뽑혔다."
+          },
+          {
+            "t": "p",
+            "x": "국제 심사위원단은 이집트, 미국, 독일과 전 세계 출판계의 프로젝트와 인물에 네 개 부문의 상을 줬다. 심사위원단에 따르면 수상자들은 모두 기술을 사람을 대신하는 데가 아니라 돕는 데 쓴다."
           }
         ]
       },
+      "lead_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW",
       "text": {
-        "en": {
-          "headline": "Pangram CEO denies bias\nin its AI detector",
-          "body": "Pangram’s CEO rejects claims its AI-detection tool penalises authors of colour, as adoption in the literary world rises.",
-          "mini_headline": "Pangram denies AI-detector bias",
+        "_src": {
+          "headline": "Digital Publishing Award\nehrt auch KI-Hörbücher",
+          "body": "Der Digital Publishing Award 2026 geht an Avneesh Singh, die Nahdet Misr Group, Pozotron Studio und ReadBee.",
+          "mini_headline": "Digital Publishing Award vergeben",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Max Spero, chief executive of Pangram"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "The co-founder of Pangram has defended its AI detection tool from suggestions that it disproportionately penalises authors of colour, while saying there has been a “huge upswing” in adoption of the platform “in the literary world”."
+                "x": "Der Digital Publishing Award 2026 zeichnet Avneesh Singh, die Nahdet Misr Group, Pozotron Studio und ReadBee aus. Die Preisträger wurden am 7. Oktober auf der Frankfurter Buchmesse aus 42 Einreichungen ausgewählt."
+              },
+              {
+                "t": "p",
+                "x": "Eine international besetzte Jury vergab die Auszeichnungen in vier Kategorien an Projekte und Persönlichkeiten aus Ägypten, den USA, Deutschland und der Verlagsbranche weltweit. Gemeinsam sei ihnen, dass sie Technologie einsetzen, um Menschen zu unterstützen, statt sie zu ersetzen."
+              }
+            ]
+          },
+          "lang": "de"
+        },
+        "en": {
+          "headline": "Digital Publishing Award\nalso honors KI-Hörbücher",
+          "body": "The Digital Publishing Award 2026 goes to Avneesh Singh, the Nahdet Misr Group, Pozotron Studio and ReadBee.",
+          "mini_headline": "Digital Publishing Award presented",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
+              },
+              {
+                "t": "p",
+                "x": "The Digital Publishing Award 2026 honors Avneesh Singh, the Nahdet Misr Group, Pozotron Studio and ReadBee. The winners were chosen from 42 submissions on 7 October at the Frankfurt Book Fair."
+              },
+              {
+                "t": "p",
+                "x": "An international jury gave the awards in four categories to projects and figures from Egypt, the USA, Germany and the publishing industry worldwide. What they share, the jury said, is that they use technology to support people rather than replace them."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pangram CEO\nAI 탐지 편향 부인",
-          "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
-          "mini_headline": "Pangram, AI-detector 편향 부인",
+          "headline": "KI-Hörbücher도\n디지털 출판상 수상",
+          "body": "2026 디지털 출판상은 Avneesh Singh과 ReadBee 등이 받았다.",
+          "mini_headline": "Digital Publishing Award 발표",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangram 최고경영자 Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하다는 지적을 반박하며 도구를 감쌌다. “문학계에서” 플랫폼 도입이 “크게 늘었다”는 말도 덧붙였다."
+                "x": "Digital Publishing Award 2026은 Avneesh Singh, Nahdet Misr Group, Pozotron Studio, ReadBee에 돌아갔다. 수상자는 10월 7일 프랑크푸르트 도서전에서 응모작 42건 가운데 뽑혔다."
+              },
+              {
+                "t": "p",
+                "x": "국제 심사위원단은 이집트, 미국, 독일과 전 세계 출판계의 프로젝트와 인물에 네 개 부문의 상을 줬다. 심사위원단에 따르면 수상자들은 모두 기술을 사람을 대신하는 데가 아니라 돕는 데 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pangram CEO\nAI検出の偏り否定",
-          "body": "Pangram CEOがAI-detectionの有色人種作家への偏りを否定した。",
-          "mini_headline": "Pangram、AI-detectorの偏りを否定",
+          "headline": "KI-Hörbücherも\nデジタル出版賞に",
+          "body": "2026年のデジタル出版賞はAvneesh SinghやReadBeeらが受賞した。",
+          "mini_headline": "Digital Publishing Award発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangramの最高経営責任者Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangramの共同創業者は、同社のAI検出ツールが有色人種の作家に不当に不利に働くとの指摘に反論し、「文学界で」プラットフォームの導入が「大きく増えている」と述べた。"
+                "x": "Digital Publishing Award 2026はAvneesh Singh、Nahdet Misr Group、Pozotron Studio、ReadBeeに贈られた。受賞者は10月7日、フランクフルト・ブックフェアで42件の応募から選ばれた。"
+              },
+              {
+                "t": "p",
+                "x": "国際的な審査員団は、エジプト、米国、ドイツ、そして世界の出版業界のプロジェクトと人物に、四つの部門で賞を授与した。共通するのは、人を置き換えるのではなく支えるために技術を使っている点だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pangram CEO否认\nAI检测工具有偏见",
-          "body": "Pangram CEO否认其AI-detection工具对有色人种作者不利。",
-          "mini_headline": "Pangram否认AI-detector偏见",
+          "headline": "数字出版奖也表彰\nKI-Hörbücher",
+          "body": "2026年数字出版奖授予Avneesh Singh和ReadBee等获奖者。",
+          "mini_headline": "Digital Publishing Award揭晓",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangram首席执行官Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangram联合创始人为其AI检测工具辩护，驳斥该工具对有色人种作者造成不成比例惩罚的说法，同时表示该平台“在文学界”的采用出现了“大幅增长”。"
+                "x": "Digital Publishing Award 2026授予Avneesh Singh、Nahdet Misr Group、Pozotron Studio和ReadBee。获奖者于10月7日在法兰克福书展上从42份参评作品中选出。"
+              },
+              {
+                "t": "p",
+                "x": "国际评审团在四个类别中，向来自埃及、美国、德国以及全球出版业的项目和人物颁奖。评审团表示，他们的共同点是用技术来支持人，而不是取代人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El CEO de Pangram niega sesgo\nen su detector de AI",
-          "body": "El CEO de Pangram niega que su herramienta AI-detection perjudique a autores de color, mientras crece su uso literario.",
-          "mini_headline": "Pangram niega sesgo en su AI-detector",
+          "headline": "Digital Publishing Award\npremia también KI-Hörbücher",
+          "body": "El Digital Publishing Award 2026 es para Avneesh Singh, Nahdet Misr Group, Pozotron Studio y ReadBee.",
+          "mini_headline": "Entregado el Digital Publishing Award",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Max Spero, director ejecutivo de Pangram"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "El cofundador de Pangram ha defendido su herramienta de detección de AI frente a las sugerencias de que penaliza de forma desproporcionada a los autores de color, y ha afirmado que ha habido un “enorme aumento” en la adopción de la plataforma “en el mundo literario”."
+                "x": "El Digital Publishing Award 2026 distingue a Avneesh Singh, Nahdet Misr Group, Pozotron Studio y ReadBee. Los galardonados fueron elegidos el 7 de octubre en la Feria del Libro de Fráncfort entre 42 candidaturas."
+              },
+              {
+                "t": "p",
+                "x": "Un jurado internacional concedió los premios en cuatro categorías a proyectos y personalidades de Egipto, Estados Unidos, Alemania y del sector editorial de todo el mundo. Según el jurado, todos comparten el uso de la tecnología para apoyar a las personas, no para reemplazarlas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Pangram CEO\nAI 탐지 편향 부인",
-          "body": "Pangram CEO는 AI-detection 도구의 유색인 차별설을 부인했다.",
-          "mini_headline": "Pangram, AI-detector 편향 부인",
+        "en": {
+          "headline": "Digital Publishing Award\nalso honors KI-Hörbücher",
+          "body": "The Digital Publishing Award 2026 goes to Avneesh Singh, the Nahdet Misr Group, Pozotron Studio and ReadBee.",
+          "mini_headline": "Digital Publishing Award presented",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangram 최고경영자 Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangram 공동 창업자는 자사 AI 탐지 도구가 유색인 작가에게 지나치게 불리하게 작용한다는 지적에 맞서 도구를 옹호하는 한편, “문학계에서” 플랫폼 도입이 “크게 늘었다”고 말했다."
+                "x": "The Digital Publishing Award 2026 honors Avneesh Singh, the Nahdet Misr Group, Pozotron Studio and ReadBee. The winners were chosen from 42 submissions on 7 October at the Frankfurt Book Fair."
+              },
+              {
+                "t": "p",
+                "x": "An international jury gave the awards in four categories to projects and figures from Egypt, the USA, Germany and the publishing industry worldwide. What they share, the jury said, is that they use technology to support people rather than replace them."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "KI-Hörbücher도\n디지털 출판상 수상",
+          "body": "2026 디지털 출판상은 Avneesh Singh과 ReadBee 등이 받았다.",
+          "mini_headline": "Digital Publishing Award 발표",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
+              },
+              {
+                "t": "p",
+                "x": "Digital Publishing Award 2026은 Avneesh Singh, Nahdet Misr Group, Pozotron Studio, ReadBee에 돌아갔다. 수상자는 10월 7일 프랑크푸르트 도서전에서 42건의 응모작 가운데 선정됐다."
+              },
+              {
+                "t": "p",
+                "x": "국제 심사위원단은 이집트, 미국, 독일과 전 세계 출판계의 프로젝트와 인물에 네 개 부문의 상을 줬다. 심사위원단은 이들 모두 기술을 사람을 대신하는 데가 아니라 돕는 데 쓴다는 공통점이 있다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pangram CEO\nAI検出の偏り否定",
-          "body": "Pangram CEOがAI-detectionの有色人種作家への偏りを否定した。",
-          "mini_headline": "Pangram、AI-detectorの偏りを否定",
+          "headline": "KI-Hörbücherも\nデジタル出版賞に",
+          "body": "2026年のデジタル出版賞はAvneesh SinghやReadBeeらが受賞した。",
+          "mini_headline": "Digital Publishing Award発表",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangramの最高経営責任者Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangramの共同創業者は、同社のAI検出ツールが有色人種の作家に不当に不利に働くとの指摘に反論し、「文学界で」プラットフォームの導入が「大きく増えている」と述べた。"
+                "x": "Digital Publishing Award 2026はAvneesh Singh、Nahdet Misr Group、Pozotron Studio、ReadBeeに贈られた。受賞者は10月7日、フランクフルト・ブックフェアで42件の応募から選ばれた。"
+              },
+              {
+                "t": "p",
+                "x": "国際的な審査員団は、エジプト、米国、ドイツ、そして世界の出版業界のプロジェクトと人物に、四つの部門で賞を授与した。共通するのは、人を置き換えるのではなく支えるために技術を使っている点だという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pangram CEO否认\nAI检测工具有偏见",
-          "body": "Pangram CEO否认其AI-detection工具对有色人种作者不利。",
-          "mini_headline": "Pangram否认AI-detector偏见",
+          "headline": "数字出版奖也表彰\nKI-Hörbücher",
+          "body": "2026年数字出版奖授予Avneesh Singh和ReadBee等获奖者。",
+          "mini_headline": "Digital Publishing Award揭晓",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Pangram首席执行官Max Spero"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "Pangram联合创始人为其AI检测工具辩护，驳斥该工具对有色人种作者造成不成比例惩罚的说法，同时表示该平台“在文学界”的采用出现了“大幅增长”。"
+                "x": "Digital Publishing Award 2026授予Avneesh Singh、Nahdet Misr Group、Pozotron Studio和ReadBee。获奖者于10月7日在法兰克福书展上从42份参评作品中选出。"
+              },
+              {
+                "t": "p",
+                "x": "国际评审团在四个类别中，向来自埃及、美国、德国以及全球出版业的项目和人物颁奖。评审团表示，他们的共同点是用技术来支持人，而不是取代人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El CEO de Pangram niega sesgo\nen su detector de AI",
-          "body": "El CEO de Pangram niega que su herramienta AI-detection perjudique a autores de color, mientras crece su uso literario.",
-          "mini_headline": "Pangram niega sesgo en su AI-detector",
+          "headline": "Digital Publishing Award\npremia también KI-Hörbücher",
+          "body": "El Digital Publishing Award 2026 es para Avneesh Singh, Nahdet Misr Group, Pozotron Studio y ReadBee.",
+          "mini_headline": "Entregado el Digital Publishing Award",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Max-Spero-CEO-of-Pangram_Main.jpg",
-                "cap": "Max Spero, director ejecutivo de Pangram"
+                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
               },
               {
                 "t": "p",
-                "x": "El cofundador de Pangram ha defendido su herramienta de detección de AI frente a las sugerencias de que penaliza de forma desproporcionada a los autores de color, y ha afirmado que ha habido un “enorme aumento” en la adopción de la plataforma “en el mundo literario”."
+                "x": "El Digital Publishing Award 2026 distingue a Avneesh Singh, Nahdet Misr Group, Pozotron Studio y ReadBee. Los galardonados fueron elegidos el 7 de octubre en la Feria del Libro de Fráncfort entre 42 candidaturas."
+              },
+              {
+                "t": "p",
+                "x": "Un jurado internacional concedió los premios en cuatro categorías a proyectos y personalidades de Egipto, Estados Unidos, Alemania y del sector editorial de todo el mundo. Según el jurado, todos comparten el uso de la tecnología para apoyar a las personas, no para reemplazarlas."
               }
             ]
           }
@@ -1081,15 +1110,15 @@
       }
     },
     {
-      "id": "books-boersenblatt-ki-uebersetzen-umfrage",
-      "source_lang": "de",
+      "id": "books-ai-narration-debate",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "KI 번역은 찬성,\n집필은 반대",
-      "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %에 그쳤다.",
-      "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+      "headline": "AI 오디오북 낭독,\n출판사들 엇갈려",
+      "body": "Blinkist·Storytel·Hörbuch Hamburg가 AI 낭독을 논했다.",
+      "mini_headline": "AI 낭독에 갈린 출판사들",
       "tool": "Books",
-      "source": "Börsenblatt",
-      "url": "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1097,284 +1126,186 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-            "cap": "© istockphoto"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+            "cap": "프랑크푸르트 도서전(Frankfurt Book Fair) © Shutterstock"
           },
           {
             "t": "p",
-            "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI를 주제로 한 대표성 있는 설문 결과를 내놨다. 번역가라면 긴장할 만한 내용이다. 협회 발표로는 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 처음부터 끝까지 KI가 쓴 책을 읽겠다는 응답은 29 %뿐이었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-            "cap": "책 속 KI를 다룬 막대그래프. 번역 79 %, 표시 72 %, KI-Bücher 29 %. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+            "x": "“우리에겐 파인다이닝도 있고, McDonalds도 있다.” Blinkist, Storytel, Hörbuch Hamburg Verlag의 출판인들이 10월 7일 프랑크푸르트 도서전(Frankfurt Book Fair)에서 Audio의 CEO Chris Kling이 진행한 패널에 나와 AI 낭독의 가치를 두고 토론했다. 불신과 가치, 청취자 선호를 묻는 질문이 이어졌다."
           }
         ]
       },
+      "lead_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
       "text": {
-        "_src": {
-          "headline": "KI beim Übersetzen ja,\nbeim Schreiben nein",
-          "body": "79 % der Befragten befürworten KI beim Übersetzen, aber nur 29 % würden ein reines KI-Buch lesen.",
-          "mini_headline": "KI: Übersetzen ja, Schreiben nein",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
-              },
-              {
-                "t": "p",
-                "x": "Der Digitalverband Bitkom hat am Dienstag anlässlich der beginnenden Frankfurter Buchmesse eine repräsentative Umfrage zu KI in Büchern veröffentlicht, die Übersetzer:innen alarmieren dürfte: 79 Prozent der Befragten befürworten demnach KI bei Buchübersetzungen, wie der Verband mitteilte. Ein vollständig von KI geschriebenes Buch würden dagegen nur 29 Prozent lesen."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "Das Balkendiagramm zu KI in Büchern zeigt 79 % für Übersetzungen, 72 % für Kennzeichnung und 29 % für KI-Bücher. Quelle: Bitkom / Grafik: Börsenblatt (KI-generiert)"
-              }
-            ]
-          },
-          "lang": "de"
-        },
         "en": {
-          "headline": "Yes to KI in translation,\nno to KI in writing",
-          "body": "79 % of respondents support KI in translation, but only 29 % would read a book written purely by KI (KI-Buch).",
-          "mini_headline": "KI: yes to translating, no to writing",
+          "headline": "Publishers split over\nAI audiobook narration",
+          "body": "Blinkist, Storytel and Hörbuch Hamburg debated AI narration at Frankfurt, weighing distrust, value and preference.",
+          "mini_headline": "AI narration splits publishers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "Frankfurt Book Fair © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "On Tuesday, as the Frankfurter Buchmesse (Frankfurt Book Fair) opened, the digital association Bitkom published a representative survey on KI in books that is likely to alarm translators: according to the association, 79 % of respondents support KI in book translation. By contrast, only 29 % would read a book written entirely by KI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "The bar chart on KI in books shows 79 % for translations, 72 % for labelling and 29 % for KI-Bücher. Source: Bitkom / Graphic: Börsenblatt (KI-generiert)"
+                "x": "“We have fine dining, and we have McDonalds.” Publishers from Blinkist, Storytel and Hörbuch Hamburg Verlag debated the value of AI narration on a panel, chaired by Chris Kling, CEO of Audio, at Frankfurt Book Fair on 7 October, with questions of distrust, value and listener preference raised."
               }
             ]
           }
         },
         "ko": {
-          "headline": "KI 번역은 찬성,\n집필은 반대",
-          "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %에 그쳤다.",
-          "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+          "headline": "AI 오디오북 낭독,\n출판사들 엇갈려",
+          "body": "Blinkist·Storytel·Hörbuch Hamburg가 AI 낭독을 논했다.",
+          "mini_headline": "AI 낭독에 갈린 출판사들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "프랑크푸르트 도서전(Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI를 주제로 한 대표성 있는 설문 결과를 내놨다. 번역가라면 긴장할 만한 내용이다. 협회 발표로는 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 처음부터 끝까지 KI가 쓴 책을 읽겠다는 응답은 29 %뿐이었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "책 속 KI를 다룬 막대그래프. 번역 79 %, 표시 72 %, KI-Bücher 29 %. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+                "x": "“우리에겐 파인다이닝도 있고, McDonalds도 있다.” Blinkist, Storytel, Hörbuch Hamburg Verlag의 출판인들이 10월 7일 프랑크푸르트 도서전(Frankfurt Book Fair)에서 Audio의 CEO Chris Kling이 진행한 패널에 나와 AI 낭독의 가치를 두고 토론했다. 불신과 가치, 청취자 선호를 묻는 질문이 이어졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳のKIには賛成、\n執筆には反対",
-          "body": "79 %がKIによる翻訳に賛成したが、KI-Buchを読む人は29 %にとどまった。",
-          "mini_headline": "KI: 翻訳は賛成、執筆は反対",
+          "headline": "AIによる朗読、\n出版社の評価割れる",
+          "body": "Blinkist、Storytel、Hörbuch HamburgがAI朗読を議論した。",
+          "mini_headline": "AI朗読で出版社の意見割れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "デジタル業界団体Bitkomは火曜日、Frankfurter Buchmesse（フランクフルト・ブックフェア）の開幕に合わせ、書籍におけるKIについての代表性のある調査を公表した。翻訳者を不安にさせそうな内容だ。同団体によると、回答者の79 %が書籍の翻訳でのKI利用に賛成した。一方、すべてKIが書いた本を読むと答えたのは29 %にとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "書籍におけるKIの棒グラフは、翻訳79 %、表示72 %、KI-Bücher 29 %を示す。出典：Bitkom / グラフィック：Börsenblatt（KI-generiert）"
+                "x": "「高級レストランもあれば、McDonaldsもある」。Blinkist、Storytel、Hörbuch Hamburg Verlagの出版人が10月7日、フランクフルト・ブックフェア(Frankfurt Book Fair)で、AudioのCEO、Chris Klingが司会を務めるパネルに登壇し、AIナレーションの価値を議論した。不信感や価値、リスナーの好みをめぐる問いが提起された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KI用于翻译可以，\n用于写作不行",
-          "body": "79 %的受访者支持用KI翻译，但只有29 %愿意读一本纯粹的KI-Buch。",
-          "mini_headline": "KI: 翻译可以，写作不行",
+          "headline": "AI有声书朗读\n令出版商分歧",
+          "body": "Blinkist、Storytel和Hörbuch Hamburg在法兰克福辩论AI朗读。",
+          "mini_headline": "AI朗读令出版商分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "法兰克福书展（Frankfurt Book Fair）© Shutterstock"
               },
               {
                 "t": "p",
-                "x": "数字行业协会Bitkom于周二借Frankfurter Buchmesse（法兰克福书展）开幕之际，发布了一项关于书籍中KI的代表性调查，结果恐令译者不安：据该协会介绍，79 %的受访者赞成在图书翻译中使用KI。而只有29 %的人愿意读一本完全由KI写成的书。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "关于书籍中KI的柱状图显示：翻译79 %，标注72 %，KI-Bücher 29 %。来源：Bitkom / 图表：Börsenblatt（KI-generiert）"
+                "x": "“我们有精致餐饮，也有McDonalds。”10月7日，在法兰克福书展（Frankfurt Book Fair）上，来自Blinkist、Storytel和Hörbuch Hamburg Verlag的出版人参加了由Audio的CEO Chris Kling主持的小组讨论，就AI朗读的价值展开辩论，讨论涉及不信任、价值和听众偏好等问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "KI para traducir, sí;\npara escribir, no",
-          "body": "El 79 % de los encuestados apoya la KI en la traducción, pero solo el 29 % leería un KI-Buch puro.",
-          "mini_headline": "KI: sí a traducir, no a escribir",
+          "headline": "Las editoriales se dividen\nsobre la narración con AI",
+          "body": "Blinkist, Storytel y Hörbuch Hamburg debatieron en Fráncfort la narración con AI: desconfianza, valor y preferencias.",
+          "mini_headline": "La narración con AI divide a las editoriales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "Feria del Libro de Fráncfort (Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "La asociación digital Bitkom publicó el martes, con motivo del inicio de la Frankfurter Buchmesse (Feria del Libro de Fráncfort), una encuesta representativa sobre la KI en los libros que probablemente alarmará a los traductores: según la asociación, el 79 % de los encuestados apoya el uso de KI en la traducción de libros. En cambio, solo el 29 % leería un libro escrito íntegramente por KI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "El gráfico de barras sobre la KI en los libros muestra un 79 % para traducciones, un 72 % para el etiquetado y un 29 % para KI-Bücher. Fuente: Bitkom / Gráfico: Börsenblatt (KI-generiert)"
+                "x": "“Tenemos alta cocina y tenemos McDonalds”. Editores de Blinkist, Storytel y Hörbuch Hamburg Verlag debatieron sobre el valor de la narración con AI en un panel moderado por Chris Kling, CEO de Audio, en la Feria del Libro de Fráncfort (Frankfurt Book Fair) el 7 de octubre, donde se plantearon cuestiones de desconfianza, valor y preferencias de los oyentes."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Yes to KI in translation,\nno to KI in writing",
-          "body": "79 % of respondents support KI in translation, but only 29 % would read a book written purely by KI (KI-Buch).",
-          "mini_headline": "KI: yes to translating, no to writing",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
-              },
-              {
-                "t": "p",
-                "x": "On Tuesday, as the Frankfurter Buchmesse (Frankfurt Book Fair) opened, the digital association Bitkom published a representative survey on KI in books that is likely to alarm translators: according to the association, 79 % of respondents support KI in book translation. By contrast, only 29 % would read a book written entirely by KI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "The bar chart on KI in books shows 79 % for translations, 72 % for labelling and 29 % for KI-Bücher. Source: Bitkom / Graphic: Börsenblatt (KI-generiert)"
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "KI 번역은 찬성,\n집필은 반대",
-          "body": "79 %가 KI 번역에 찬성했지만 KI-Buch를 읽겠다는 답은 29 %다.",
-          "mini_headline": "KI: 번역은 찬성, 집필은 반대",
+          "headline": "AI 오디오북 낭독,\n출판사들 엇갈려",
+          "body": "Blinkist·Storytel·Hörbuch Hamburg가 AI 낭독을 논했다.",
+          "mini_headline": "AI 낭독에 갈린 출판사들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "프랑크푸르트 도서전(Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "디지털 협회 Bitkom이 화요일 Frankfurter Buchmesse(프랑크푸르트 도서전) 개막에 맞춰 책 속 KI에 관한 대표성 있는 설문 결과를 발표했다. 번역가들을 긴장하게 할 만한 내용이다. 협회에 따르면 응답자의 79 %가 도서 번역에 KI를 쓰는 데 찬성했다. 반면 전부 KI가 쓴 책을 읽겠다는 응답은 29 %에 그쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "책 속 KI에 관한 막대그래프는 번역 79 %, 표시 72 %, KI-Bücher 29 %를 보여 준다. 출처: Bitkom / 그래픽: Börsenblatt (KI-generiert)"
+                "x": "“우리에겐 파인다이닝도 있고, McDonalds도 있다.” Blinkist, Storytel, Hörbuch Hamburg Verlag의 출판인들이 10월 7일 프랑크푸르트 도서전(Frankfurt Book Fair)에서 Audio의 CEO Chris Kling이 진행한 패널에 나와 AI 낭독의 가치를 두고 토론했다. 불신과 가치, 청취자 선호에 관한 질문이 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "翻訳のKIには賛成、\n執筆には反対",
-          "body": "79 %がKIによる翻訳に賛成したが、KI-Buchを読む人は29 %にとどまった。",
-          "mini_headline": "KI: 翻訳は賛成、執筆は反対",
+          "headline": "AIによる朗読、\n出版社の評価割れる",
+          "body": "Blinkist、Storytel、Hörbuch HamburgがAI朗読を議論した。",
+          "mini_headline": "AI朗読で出版社の意見割れる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "デジタル業界団体Bitkomは火曜日、Frankfurter Buchmesse（フランクフルト・ブックフェア）の開幕に合わせ、書籍におけるKIについての代表性のある調査を公表した。翻訳者を不安にさせそうな内容だ。同団体によると、回答者の79 %が書籍の翻訳でのKI利用に賛成した。一方、すべてKIが書いた本を読むと答えたのは29 %にとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "書籍におけるKIの棒グラフは、翻訳79 %、表示72 %、KI-Bücher 29 %を示す。出典：Bitkom / グラフィック：Börsenblatt（KI-generiert）"
+                "x": "「高級レストランもあれば、McDonaldsもある」。Blinkist、Storytel、Hörbuch Hamburg Verlagの出版人が10月7日、フランクフルト・ブックフェア(Frankfurt Book Fair)で、AudioのCEO、Chris Klingが司会を務めるパネルに登壇し、AIナレーションの価値を議論した。不信感や価値、リスナーの好みをめぐる問いが提起された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KI用于翻译可以，\n用于写作不行",
-          "body": "79 %的受访者支持用KI翻译，但只有29 %愿意读一本纯粹的KI-Buch。",
-          "mini_headline": "KI: 翻译可以，写作不行",
+          "headline": "AI有声书朗读\n令出版商分歧",
+          "body": "Blinkist、Storytel和Hörbuch Hamburg在法兰克福辩论AI朗读。",
+          "mini_headline": "AI朗读令出版商分歧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "法兰克福书展（Frankfurt Book Fair）© Shutterstock"
               },
               {
                 "t": "p",
-                "x": "数字行业协会Bitkom于周二借Frankfurter Buchmesse（法兰克福书展）开幕之际，发布了一项关于书籍中KI的代表性调查，结果恐令译者不安：据该协会介绍，79 %的受访者赞成在图书翻译中使用KI。而只有29 %的人愿意读一本完全由KI写成的书。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "关于书籍中KI的柱状图显示：翻译79 %，标注72 %，KI-Bücher 29 %。来源：Bitkom / 图表：Börsenblatt（KI-generiert）"
+                "x": "“我们有精致餐饮，也有McDonalds。”10月7日，在法兰克福书展（Frankfurt Book Fair）上，来自Blinkist、Storytel和Hörbuch Hamburg Verlag的出版人参加了由Audio的CEO Chris Kling主持的小组讨论，就AI朗读的价值展开辩论，讨论涉及不信任、价值和听众偏好等问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "KI para traducir, sí;\npara escribir, no",
-          "body": "El 79 % de los encuestados apoya la KI en la traducción, pero solo el 29 % leería un KI-Buch puro.",
-          "mini_headline": "KI: sí a traducir, no a escribir",
+          "headline": "Las editoriales se dividen\nsobre la narración con AI",
+          "body": "Blinkist, Storytel y Hörbuch Hamburg debatieron en Fráncfort la narración con AI: desconfianza, valor y preferencias.",
+          "mini_headline": "La narración con AI divide a las editoriales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-08/istock-1050855182_preview_0.jpg?h=82f92a78&itok=hHx7zSg8",
-                "cap": "© istockphoto"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+                "cap": "Feria del Libro de Fráncfort (Frankfurt Book Fair) © Shutterstock"
               },
               {
                 "t": "p",
-                "x": "La asociación digital Bitkom publicó el martes, con motivo del inicio de la Frankfurter Buchmesse (Feria del Libro de Fráncfort), una encuesta representativa sobre la KI en los libros que probablemente alarmará a los traductores: según la asociación, el 79 % de los encuestados apoya el uso de KI en la traducción de libros. En cambio, solo el 29 % leería un libro escrito íntegramente por KI."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/styles/article_inline_image_desktop/public/2026-10/bitkom_ki_buecher_gesamt.png?itok=J4aijmKa",
-                "cap": "El gráfico de barras sobre la KI en los libros muestra un 79 % para traducciones, un 72 % para el etiquetado y un 29 % para KI-Bücher. Fuente: Bitkom / Gráfico: Börsenblatt (KI-generiert)"
+                "x": "“Tenemos alta cocina y tenemos McDonalds”. Editores de Blinkist, Storytel y Hörbuch Hamburg Verlag debatieron sobre el valor de la narración con AI en un panel moderado por Chris Kling, CEO de Audio, en la Feria del Libro de Fráncfort (Frankfurt Book Fair) el 7 de octubre, donde se plantearon cuestiones de desconfianza, valor y preferencias de los oyentes."
               }
             ]
           }

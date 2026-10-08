@@ -1560,6 +1560,130 @@
           "x": "Atribuye a los laboratorios la responsabilidad por los riesgos de la IA y afirma que “es función del gobierno federal … hacer cumplir las leyes de nuestra nación para que los principios fundamentales de nuestra República se protejan y se promuevan”."
         }
       ]
+    },
+    "politics/politics-usa-today-sues-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co., junto con varios periódicos locales de su propiedad, ha demandado a OpenAI alegando que la empresa copió “cientos de miles” de artículos para entrenar sus modelos de IA, según informó antes Reuters. En una demanda presentada el jueves, la editorial pide daños y perjuicios por más de 250 millones de dólares y sostiene que el uso no autorizado de su contenido por parte de OpenAI “ha causado un daño real y continuo” a sus medios."
+        },
+        {
+          "t": "p",
+          "x": "Es solo la más reciente de una serie de demandas por derechos de autor contra OpenAI. Además de la demanda presentada por The New York Times, OpenAI también enfrenta acciones legales de The Intercept, Ziff Davis (propietaria de CNET), CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times y una coalición de casi 400 periódicos locales."
+        },
+        {
+          "t": "p",
+          "x": "“El éxito comercial de OpenAI se basa en una infracción de derechos de autor a gran escala”, afirma la demanda de USA Today Co. Sostiene que OpenAI nunca pidió permiso para usar su contenido y que, en cambio, “tomó” el contenido de USA Today para “crear productos valorados en cientos de miles de millones de dólares”. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman y otros medios locales también forman parte de la demanda."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI no respondió de inmediato a la solicitud de comentarios de The Verge."
+        }
+      ]
+    },
+    "politics/politics-data-center-power-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+          "cap": "Ilustración: Sarah Grillo/Axios"
+        },
+        {
+          "t": "p",
+          "x": "Los legisladores estudian obligar a los centros de datos a asumir nuevos costos y restricciones, al tiempo que aceleran la infraestructura energética necesaria para alimentar el auge de la IA. Las disposiciones bipartidistas, presentadas la semana pasada, forman parte de una legislación más amplia del Senado destinada a agilizar los permisos energéticos. Los impulsores del proyecto afirman que aceleraría el desarrollo energético y garantizaría que los centros de datos paguen su parte de las mejoras de la red."
+        },
+        {
+          "t": "p",
+          "x": "Los centros de datos pagarían tanto su parte de la red de transmisión existente como los costos adicionales de transmisión necesarios para abastecerlos. Los nuevos centros de datos de al menos 20 megavatios asumirían los costos adicionales que generan en todo el sistema eléctrico, y los estados tendrían amplio margen para ir más allá."
+        },
+        {
+          "t": "p",
+          "x": "La Data Center Coalition dijo que aún está revisando la legislación. Craig Sundstrom, de Amazon, afirmó que el proyecto “podría liberar la inversión necesaria para construir nueva generación y transmisión más rápido”, mientras que un responsable del sector tecnológico calificó algunas disposiciones de “nivel sin precedentes de trato discriminatorio”. Travis Fisher, del Cato Institute, expresó un “apoyo moderado”."
+        },
+        {
+          "t": "p",
+          "x": "Con el Senado fuera de sesión antes de las elecciones de mitad de mandato, las partes interesadas tienen tiempo para presionar por cambios antes de un posible debate en la sesión de transición (lame-duck)."
+        }
+      ]
+    },
+    "politics/politics-singapore-mas-fintech-ai-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "La Autoridad Monetaria de Singapur (MAS), que actúa como banco central y como regulador del sector financiero, quiere que todas las entidades locales del sector sometan sus casos de uso de IA a una revisión independiente antes de implantarlos, según sus primeras Directrices sobre Gestión de Riesgos de la Inteligencia Artificial para Instituciones Financieras, publicadas el miércoles."
+        },
+        {
+          "t": "p",
+          "x": "La MAS advierte que la complejidad de la IA puede provocar comportamientos inesperados o más sesgados, considera que la IA generativa entraña aún más riesgo y teme que la IA agéntica “pueda amplificar aún más estos riesgos”. Quiere que las instituciones financieras amplíen sus marcos de riesgo para abarcar la IA, con el consejo de administración y la alta dirección como responsables."
+        },
+        {
+          "t": "p",
+          "x": "“Antes de su implantación, una FI debe someter el caso de uso de IA, incluidos sus sistemas o modelos subyacentes, a revisiones de partes no involucradas en su desarrollo”, establecen las directrices. La MAS también pide supervisión continua, inventarios de IA actualizados y planes de contingencia para los usos de alto riesgo, y afirma que “las FIs siguen siendo responsables de la IA utilizada en los servicios que prestan, incluida la IA desarrollada, operada o proporcionada por terceros”."
+        },
+        {
+          "t": "p",
+          "x": "Las directrices entrarán en vigor el 7 de octubre de 2027."
+        }
+      ]
+    },
+    "politics/politics-ecosia-drops-mistral-chinese-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+          "cap": "Christian Kroll interviene en la Web Summit de 2019 en Lisboa. | Web Summit via Wikimedia"
+        },
+        {
+          "t": "p",
+          "x": "Un buscador con sede en Berlín que utilizan servicios gubernamentales abandona a su socio francés de IA, Mistral, en favor de modelos de código abierto, incluidos algunos de China, según dijo su CEO a POLITICO. “Estamos decepcionados con la calidad de Mistral”, afirmó Christian Kroll, fundador y CEO de Ecosia, quien consideró que sus modelos están “un año por detrás” de la competencia."
+        },
+        {
+          "t": "p",
+          "x": "Ecosia sustituyó a OpenAI por Mistral en mayo, pero sufrió problemas técnicos recurrentes, según Kroll. También cuestionó el encaje de Mistral con los objetivos medioambientales de Ecosia y su independencia: “El hecho de que Mistral dependa de la inversión de inversores internacionales no es, a nuestro juicio, verdaderamente soberano”."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+          "cap": "Guillaume Lample interviene en la AI Now Summit de París el 28 de mayo de 2026. | Stephane de Sakutin/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Mistral, Guillaume Lample, dijo: “Les animaría a probar nuestro nuevo modelo lo antes posible”. Ecosia se ha asociado con Melious, que aloja modelos como Qwen, GLM y Kimi; Kroll dijo que los costos se redujeron aproximadamente a la mitad. Algunos expertos rebaten su opinión de que los sesgos políticos de los modelos pueden corregirse técnicamente."
+        }
+      ]
+    },
+    "politics/politics-pentagon-tradewinds-video-ai-buys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+          "cap": "Fotoilustración: Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Tradewinds, un programa de adquisiciones poco conocido del Departamento de Defensa, otorga estatus especiales a posibles contratistas que facilitan al gobierno comprar con rapidez sus productos de AI, a partir de videos de producto de no más de cinco minutos. Lo gestiona la Oficina Principal de Digital e Inteligencia Artificial (CDAO) del DOD."
+        },
+        {
+          "t": "p",
+          "x": "Los productos aceptados en el Tradewinds Solutions Marketplace se consideran “post-competitive” (poscompetitivos), lo que puede recortar meses de los plazos de adjudicación. Un funcionario del DOD afirma que el departamento ha adjudicado contratos con Tradewinds en menos de una semana en varias ocasiones. OpenAI, Anthropic y Google figuran como participantes; las tres declinaron hacer comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Este año, el ejército busca propuestas de tecnología de AI que ayude a “aumentar la letalidad de la fuerza” y de agentes que asistan en la selección conjunta de objetivos, incluida la llamada ejecución de la cadena de muerte (kill chain). El estatus facilita el uso de acuerdos de “otras transacciones” (OTs); por ley, el Pentágono puede gastar hasta 500 millones de dólares en un solo OT sin notificar al Congreso."
+        },
+        {
+          "t": "p",
+          "x": "La senadora Joni Ernst afirma que las revisiones de los OTAs han encendido alarmas, como costos cuestionables y falta de supervisión. Los registros públicos muestran que Google, Anthropic y OpenAI tienen OTs con la CDAO, pero las empresas no confirmaron si se usó Tradewinds para ellos."
+        }
+      ]
     }
   }
 }

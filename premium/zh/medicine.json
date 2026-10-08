@@ -195,6 +195,115 @@
           "x": "该医院自2023年起使用该系统，三年间支持约200,000例乳腺检查，这也是该厂商继Dalarna County之后在瑞典的第二次区域范围部署。在此之前，一家总部位于Berlin的公司宣布，其乳腺分诊工具获得全球首个批准，该工具对正常乳腺X线影像完全跳过放射科医生复核。"
         }
       ]
+    },
+    "medicine/medicine-suki-ask-uptodate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
+        },
+        {
+          "t": "p",
+          "x": "Suki推出Ask工具，临床医生可直接在Suki for Clinicians应用中，借助Wolters Kluwer的UpToDate Expert AI API提出复杂的临床问题。答案以UpToDate的专有内容为依据，这些内容由7,600多名医师作者、编辑和同行评审者共同完成；这也是该API首次被集成到产品中。"
+        },
+        {
+          "t": "p",
+          "x": "回答附有透明的来源说明、用药及剂量方面的考量，以及支持性内容的链接。Suki首席产品官Abhi Pathak表示：“在诊断、剂量和安全考量等各类查询中，临床医生有83%的情况选择了针对患者的个性化洞察。”"
+        },
+        {
+          "t": "p",
+          "x": "Ask可在Epic、Oracle Health、athenahealth和Meditech的EHR系统中使用。8月下旬，Suki还推出了直接内置于Epic和Meditech EHRs中的Suki Dictation。"
+        }
+      ]
+    },
+    "medicine/medicine-ai-depression-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
+        },
+        {
+          "t": "p",
+          "x": "保健福祉部与大韩神经精神医学会在10日“精神健康日”到来之际，于8日发布了《以精神健康为目的的生成式AI使用指南》，呼吁公众不要把AI的回答当作医学判断，在出现精神健康危机时应寻求专业人士帮助。"
+        },
+        {
+          "t": "p",
+          "x": "面向所有用户的指南包含3条核心信息和21条建议。指南建议用户在使用前确认服务的目的、依据及个人信息处理方式，并提出“不要把AI对自身状态的说法当作结论”“与AI保持距离，和人聊一聊”。指南还分别为儿童·青少年和监护人各提出了7条建议。"
+        },
+        {
+          "t": "p",
+          "x": "韩国保健社会研究院的调查（1,019人）显示，68.8%的受访者曾出于情感目的使用生成式AI；把AI的判断当作医学诊断，或据此自行诊断精神疾病的比例为14.6%。15~18岁青少年中有51.7%认为自己比较依赖AI。"
+        },
+        {
+          "t": "p",
+          "x": "大韩神经精神医学会理事长Choi Jun-ho强调：“AI无法取代专业评估和治疗，因此必要时及时获得医护人员的帮助非常重要。”"
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-llm-ehr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "癫痫与心因性非癫痫性发作常表现出相似的类发作症状，但所需的管理策略截然不同。误诊十分常见，可能导致诊断长期延误、不必要的治疗以及严重的患者病痛。长程视频脑电图虽是诊断金标准，但费用高、可及性有限，阻碍了及时诊断。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "研究团队利用电子健康记录中常规收集的临床笔记，开发了一种低成本且有效的早期癫痫检测方法EpiScreen。通过在标注笔记上微调大语言模型，EpiScreen在MIMIC-IV数据集上的AUC最高达0.875，在University of Minnesota（明尼苏达大学）的私有队列中达0.980。在临床医生与AI协作（clinician-AI）的场景下，借助EpiScreen（EpiScreen-assisted）的神经科医生比无辅助专家的表现最多高出14.3%。"
+        },
+        {
+          "t": "p",
+          "x": "总体而言，该研究表明EpiScreen有助于癫痫的早期检测，可实现及时且具成本效益的筛查，有望减少诊断延误、避免不必要的干预，在资源有限的地区尤其如此。"
+        }
+      ]
+    },
+    "medicine/medicine-clinicalgpt-med-safety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "实时用药安全审核需要最新的化验和用药史，但EHRs中可能存在过时或缺失的关键证据。作者提出了ClinicalGPT，这是一个面向审核的基础模型，采用Clinical Trajectory Language对时间、单位、来源和可观测性进行编码。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "研究者在七个医疗系统中回顾性评估了847,000条符合条件的高风险用药医嘱。施加硬约束的ClinicalGPT每1000条医嘱漏判3.2条，而纯规则为9.4条，原始通用LLM对照为6.1条，最强的LLM对照（RAG + LLM + rules）为4.8条。其误报率为33.9，纯规则为38.7。"
+        },
+        {
+          "t": "p",
+          "x": "该离线指标并未衡量临床处置、药物不良事件或患者伤害；研究结果支持其在下达医嘱时的审核性能具有比较优势，但并不能证明临床有效性或患者伤害的减少。"
+        }
+      ]
+    },
+    "medicine/medicine-fda-pediatric-bone-age-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+          "cap": "图片：Lerner Children’s Pavilion at Hospital for Special Surgery"
+        },
+        {
+          "t": "p",
+          "x": "U.S.食品药品监督管理局已批准一款旨在改进儿童骨龄评估的AI软件。此次510(k)许可针对Visiana的BoneXpert，这是一款机器学习软件，采用Greulich-Pyle法为2至21岁患者判定骨龄，用于辅助儿科放射科医生评估患有生长和青春期发育障碍的儿童。"
+        },
+        {
+          "t": "p",
+          "x": "人工评估是公认的难题，不同阅片者之间结果可能存在差异。BoneXpert可分析任意一只手的放射影像，并提供标注图像，显示其评估的骨骼及各骨骼的骨龄。当图像超出其验证范围时，软件不会给出结果；最终评估仍由放射科医生负责。"
+        },
+        {
+          "t": "p",
+          "x": "在U.S.五个站点开展的多中心研究中，其均方根误差为0.55年，放射科医生为0.76年，且偏差至少1.5年的结果更少（1.7% vs. 6.4%）。该软件在本地部署运行，放射影像不会离开医疗机构。"
+        },
+        {
+          "t": "p",
+          "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
+        }
+      ]
     }
   }
 }

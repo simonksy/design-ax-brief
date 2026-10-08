@@ -6809,6 +6809,151 @@
           "x": "In a test at the 26-ID beamline, the agent was told to locate the interface between two regions in an integrated circuit and navigated from deep inside the device to the correct spot — a step toward self-driving microscopes."
         }
       ]
+    },
+    "science/science-gene-function-microscopy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+          "cap": "Graphical abstract. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+        },
+        {
+          "t": "p",
+          "x": "Researchers from LMU Munich's Gene Center, the Max Planck Institute of Biochemistry and Helmholtz Munich, led by Veit Hornung, Matthias Mann and Fabian Theis, report in Cell a technology called SPARCS that combines AI with microscopy and genetic screening."
+        },
+        {
+          "t": "p",
+          "x": "AI analyzes microscopy images of a total of 70 million cells, screening for complex visual features so that cellular effects can be linked to the genetic alterations that cause them."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+          "cap": "Credit: Niklas Schmacke"
+        },
+        {
+          "t": "p",
+          "x": "Cells of interest are then isolated intact and analyzed by mass spectrometry to determine their protein composition."
+        },
+        {
+          "t": "p",
+          "x": "In a genome-wide screen of autophagy, the cell's recycling system, the method recovered many known regulators and found new ones. The team also found that Golgi acidity, regulated by the protein GPHR, affects early transport of the immune sensor STING and its later activation."
+        }
+      ]
+    },
+    "science/science-gravitational-lenses-desi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+          "cap": "Sample gravitational lenses found in DESI Legacy Imaging Surveys data."
+        },
+        {
+          "t": "p",
+          "x": "An international team mined the DESI Legacy Imaging Surveys, which in August 2026 became the largest 2D map of the universe, with about 5.6 trillion pixels and nearly 4 billion objects."
+        },
+        {
+          "t": "p",
+          "x": "A residual neural network searched the survey images and produced a catalog of about 3,500 potential lenses, from which 76 candidates were selected for follow-up."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+          "cap": "How a massive foreground galaxy magnifies a more distant galaxy behind it."
+        },
+        {
+          "t": "p",
+          "x": "Integral field spectroscopy with the MUSE instrument on ESO's Very Large Telescope, observed from 2022 to 2024, confirmed 70 of the candidates as true gravitational lenses. The results appear in The Astrophysical Journal Supplement Series."
+        },
+        {
+          "t": "p",
+          "x": "The lenses join the DESI Strong Lens Foundry Project and are expected to aid research on dark matter, galaxy structure and cosmology with Hubble, JWST, Roman and the Rubin Observatory's LSST."
+        }
+      ]
+    },
+    "science/science-chatbot-tipping-formula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+          "cap": "AI conversations. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "George Washington University physicists Neil F. Johnson and Frank Yingjie Huo report in Patterns a mathematical formula that predicts when an AI chatbot will tip from acceptable answers to undesirable ones, such as harmful advice or misleading information."
+        },
+        {
+          "t": "p",
+          "x": "The formula is derived from a single attention unit in the model. The shift can come after several acceptable answers, and the order of questions in a conversation can affect the result."
+        },
+        {
+          "t": "p",
+          "x": "Its predictions matched 18 of 19 tipping cases across seven open models from three companies."
+        },
+        {
+          "t": "p",
+          "x": "The authors are particularly concerned about offline AI, where cloud-based safety filters don't operate, and suggest future devices could include a built-in warning when conversations drift toward risky territory."
+        }
+      ]
+    },
+    "science/science-co2-methanol-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+          "cap": "Surface of a copper catalyst depicting CO₂ hydrogenation to methanol. Credit: Shivam Chaturvedi"
+        },
+        {
+          "t": "p",
+          "x": "CO₂ hydrogenation involves thousands of tiny steps on a catalyst surface, so modelers traditionally pick a small number of likely reactions, which means hundreds of important reactions may be missed."
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the Indian Institute of Science, reporting in Nature Communications, built a database of 152 reactions from quantum-mechanical simulations, trained machine learning models to predict activation energy barriers, and used automated tools to expand the network to 9,389 elementary reactions on copper."
+        },
+        {
+          "t": "p",
+          "x": "“When we modelled the process using the 152 reactions considered initially, the network wrongly predicted formic acid, not methanol, as the major product,” says Ananth Govind Rajan. The expanded network predicted an approximately 40-fold increase in CO₂ conversion and correctly identified methanol and carbon monoxide as major products."
+        },
+        {
+          "t": "p",
+          "x": "It also revealed that hydrogen can transfer to intermediates directly as molecular H₂."
+        }
+      ]
+    },
+    "science/science-unique-games-proof-race": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
+          "cap": "James O’Brien for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "On the morning of September 11, 2026, MIT's Dor Minzer, a leading expert on the “unique games” conjecture, began receiving messages: OpenAI had allegedly discovered a proof of the conjecture and might make it public any day."
+        },
+        {
+          "t": "p",
+          "x": "Minzer had not proved it. But he and his graduate students Yumou Fei and Shuo Wang had recently proved a milestone result about a closely related question. Three days later, they posted a 95-page paper online, with a disclaimer that it was “complete mathematically, but it is not in the shape we wished to share in.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
+          "cap": "Dor Minzer and his students rushed to post a milestone result, hoping to avoid being upstaged by a rumored AI proof. Courtesy of Dor Minzer"
+        },
+        {
+          "t": "p",
+          "x": "On October 6, OpenAI announced a proof of the unique games conjecture, along with 376 other results across many fields of math. Its release also included a Lean-verified proof of Khot's 2-to-1 conjecture, in an AI-generated manuscript with no human editing or independent expert review."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
+          "cap": "Subhash Khot posed the unique games conjecture back when he was still in graduate school. Béatrice de Géa for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "The trio proved a slightly weaker 4-to-1 version of Khot's 2-to-1 games conjecture, implying that some 3-colorable graphs stay hard to color no matter how many extra colors you use. “Math by press release is not that healthy for math,” said Princeton's Mark Braverman."
+        }
+      ]
     }
   }
 }

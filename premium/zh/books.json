@@ -5371,6 +5371,97 @@
           "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing和Wanfang Data五家学术出版商与AI公司Redpine达成协议，为AI智能体提供2000万篇经同行评审的研究论文的授权访问。"
         }
       ]
+    },
+    "books/books-storytel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Storytel自2021年开始尝试AI辅助（AI-assisted）翻译，如今通过与瑞典科技公司Nuanxed合作，实现了翻译出版流程的自动化；首席内容与出版官Helena Gustafsson同时也是Nuanxed的董事会成员。自2025年起，Storytel提供AI生成（AI-generated）的朗读者声音，最近又推出了“AI驱动的伙伴”（AI-powered companion）Genie。"
+        },
+        {
+          "t": "p",
+          "x": "Gustafsson表示，驱动力是时间而不是钱：“一套八本（eight-book）的系列，我们只需六个月就能推出。”Storytel瞄准10个核心市场——北欧国家，以及保加利亚、荷兰、波兰、土耳其和美国（U.S.）——并且只出版针对市场调整（market-adapted）的图书。"
+        },
+        {
+          "t": "p",
+          "x": "谈到读者反应，她称AI“其实是认知问题，而不是质量问题”，并回忆起一位记者批评一本芬兰“AI翻译”（AI-translated）图书，结果那本书其实是人工翻译（human-translated）的。"
+        },
+        {
+          "t": "p",
+          "x": "她也看到局限：AI在创作新故事方面“真的很差”，有些书必须由人来翻译——“我想不会有人尝试用AI翻译诗集。”她补充说，任何使用AI的人都必须思考如何负责任、合乎伦理地使用它。"
+        }
+      ]
+    },
+    "books/books-uk-human-authored-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+          "cap": "Books By People创始人Gavin Johnston、Conrad Young和Esme Dennys"
+        },
+        {
+          "t": "p",
+          "x": "知识产权局（IPO）已登记UK首个面向人类创作图书的认证标志：Books By People的“human-authored”认证。"
+        }
+      ]
+    },
+    "books/books-digital-publishing-award": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Award 2026授予Avneesh Singh、Nahdet Misr Group、Pozotron Studio和ReadBee。获奖者于10月7日在法兰克福书展上从42份参评作品中选出。"
+        },
+        {
+          "t": "p",
+          "x": "国际评审团在四个类别中，向来自埃及、美国、德国以及全球出版业的项目和人物颁奖。评审团表示，他们的共同点是用技术来支持人，而不是取代人。"
+        }
+      ]
+    },
+    "books/books-ai-narration-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+          "cap": "法兰克福书展（Frankfurt Book Fair）© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "“我们有精致餐饮，也有McDonalds。”10月7日，在法兰克福书展（Frankfurt Book Fair）上，来自Blinkist、Storytel和Hörbuch Hamburg Verlag的出版人参加了由Audio的CEO Chris Kling主持的小组讨论，就AI朗读的价值展开辩论，讨论涉及不信任、价值和听众偏好等问题。"
+        }
+      ]
+    },
+    "books/books-organic-literature-stamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+          "cap": "插图：装在食品包装中、贴有有机标签的书"
+        },
+        {
+          "t": "p",
+          "x": "随着职业作家使用AI的丑闻接连出现，英国初创公司Books by People已获得UK知识产权局（Intellectual Property Office）批准，可以发放证明图书由人类创作的标志。这枚形似指纹的印章将印在封面上。"
+        },
+        {
+          "t": "p",
+          "x": "Books by People并不依赖诚信自律，而是要求作者提交著作声明，用自有软件检测每份手稿，并人工审查早期草稿和研究资料，寻找“人性指标”。它将向出版商收取固定会员费，外加按书计费。目前已有五家出版商签约，首本认证图书预计年底前问世。"
+        },
+        {
+          "t": "p",
+          "x": "批评者担心误判。自称准确率达99.7%的Pangram将新人作家Jerry Falade的书判定为97% AI-generated；他认为该工具误读了他的尼日利亚方言。Publishers’ Licensing Services的Tom West说：“我们必须相当小心，别让这件事最终变成一场猎巫。”"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
+        }
+      ]
     }
   }
 }
