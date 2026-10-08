@@ -2931,6 +2931,9 @@ function ThemedPage({ themeKey }) {
     .then((d) => { if (d) { setAuth(d); if (window.axSetAuthUI) window.axSetAuthUI(d); } })
     .catch(() => {}), []);
   useEffect(() => { loadMe(); }, [loadMe]);
+  // 앱이 붙었다고 알린다 — i18n.js가 그때까지 상단바를 감추고 있다. 그 전에는
+  // 빈 화면에 로그인·Pro·지구본만 떠 있어서 레이아웃이 깨진 것처럼 보였다.
+  useEffect(() => { window.dispatchEvent(new Event('ax:ready')); }, []);
   // 다른 기기에서 승인이 떨어진 순간 — 새로고침 없이 그 자리에서 잠금을 푼다.
   useEffect(() => {
     const on = () => loadMe();

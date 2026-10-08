@@ -38,7 +38,17 @@
       "#ax-topbar{position:fixed;top:0;left:0;right:0;height:52px;z-index:300;display:flex;" +
       "align-items:center;justify-content:flex-end;gap:8px;padding:0 14px;box-sizing:border-box;" +
       // 별도 영역처럼 보이지 않게 — 페이지 맨 위 배경색 그대로에 가는 구분선만.
-      "background:#f4f0e9;border-bottom:1px solid rgba(40,30,20,.07);}" +
+      "background:#f4f0e9;border-bottom:1px solid rgba(40,30,20,.07);transition:opacity .18s ease;}" +
+      // 앱이 붙기 전에는 바와 버튼 셋을 함께 감춘다.
+      //
+      // globe/pro/login은 만들어질 때 document.body에 직접 붙는다. 그리고
+      // place()는 React 페이지에서 자리(#ax-actions-d)가 아직 없으면 바만
+      // 감추고 early return 하므로, 버튼 셋이 body에 그대로 남는다. Babel이
+      // 152KB 앱을 컴파일하는 동안 빈 화면에 그 셋만 둥둥 떠 있었다.
+      // 자리(body padding)는 그대로 두어 나타날 때 글이 밀리지 않는다.
+      "html.ax-booting #ax-topbar,html.ax-booting #ax-globe," +
+      "html.ax-booting #ax-pro,html.ax-booting #ax-login" +
+      "{opacity:0;pointer-events:none;}" +
       "body{padding-top:52px;}html.ax-nobar body{padding-top:0;}" +
       // 폰에서는 React가 그리는 고정바 1줄이 버튼의 자리다 — 이 바는 쓰지 않는다.
       "@media (max-width:720px){#ax-topbar{display:none;}body{padding-top:0;}}" +
@@ -291,6 +301,17 @@
     }, 100);
 
   };
+  /* React 앱이 붙는 페이지에서만 바를 숨겼다 드러낸다. #root가 없는 페이지(아카이브)는
+     본문이 바로 나오므로 감출 이유가 없다 — 괜히 감추면 거기만 늦게 뜬다. */
+  (function () {
+    var root = document.getElementById("root");
+    if (!root) return;
+    document.documentElement.classList.add("ax-booting");
+    var reveal = function () { document.documentElement.classList.remove("ax-booting"); };
+    window.addEventListener("ax:ready", reveal);
+    // 앱이 끝내 못 붙어도 바는 나와야 한다 — 언어 선택과 로그인이 거기 있다.
+    setTimeout(reveal, 4000);
+  })();
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", window.axMountGlobe);
   else window.axMountGlobe();
 })();
