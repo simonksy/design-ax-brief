@@ -1,100 +1,97 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "games",
   "items": [
     {
-      "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
-      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
-      "source": "80 Level",
-      "published_iso": "2026-10-07T21:09:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50548/images/6ac6b507913eb/contain_1200x630.jpg",
-      "excerpt": "Unity Spark combines AI-assisted game creation with artist-made Asset Store content, but Unity CEO Matt Bromberg stresses that creators must still design, iterate, polish, and finish their experiences.",
+      "title": "Fortnite Will Give Kids What They've Always Wanted: AI Pride And Prejudice Fan Fic",
+      "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
+      "source": "Aftermath",
+      "published_iso": "2026-10-08T16:54:21.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png",
+      "excerpt": "Neal Stephenson's company Whenere is bringing an AI-driven storytelling platform to Fortnite",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Unity launches Unity Spark, a web-based prompt-to-game editor. It is built on artist-made Asset Store content, which puts asset creators directly into the AI game-making loop. Of the five outlets covering Unity Spark, this one has the clearest angle for artists."
+      "rationale": "New launch: Neal Stephenson's Whenere is bringing an AI-driven narrative platform into Fortnite. That puts generative storytelling inside the largest UGC game ecosystem, which matters to narrative and level designers."
     },
     {
-      "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
-      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
-      "source": "Kotaku",
-      "published_iso": "2026-10-07T16:15:05+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-      "excerpt": "Astrocade is filled with AI slop, but millions of people don't seem to care",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "Hard demand data: Astrocade, an AI-generated games platform, reports 10M monthly users. It shows that players already use prompt-made games at scale, despite the quality complaints."
-    },
-    {
-      "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
-      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
-      "source": "IGN",
-      "published_iso": "2026-10-07T11:59:07.926Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "The AI video game clone explosion continues at pace. Now, someone has made Minecraft playable inside X / Twitter with working multiplayer.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "A newly released AI-built clone runs Minecraft with working multiplayer inside the X feed and was monetised at once through crypto sponsorships. It shows how fast AI clones of big IP are now built and sold."
-    },
-    {
-      "title": "AI Bro Defends Reverse-Engineering PlayStation Homebrew Tool",
-      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
-      "source": "Kotaku",
-      "published_iso": "2026-10-07T14:36:16+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e-1200x675.jpg",
-      "excerpt": "Zer0Day justified his AI-slop rip-off of GoldHEN by stating that 'creativity should never have to ask for permission' in a lengthy post on GitHub",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "rationale": "A new authorship and permission dispute: an AI-assisted rip-off of the GoldHEN PS homebrew tool, defended publicly on GitHub. It is a concrete case of where open-source and community work stands when LLMs can clone it."
-    },
-    {
-      "title": "AI 발전 속 변화 살펴본다, HTML5 게임포럼 8일 열린다",
-      "url": "https://www.gamemeca.com/view.php?gid=1781498",
-      "source": "게임메카",
-      "published_iso": "2026-10-07T14:37:43+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/498/gm401874_thumb_HTML5_.webp",
-      "excerpt": "한국모바일게임협회는 10월 8일 서울 강남구 MARU180 이벤트홀에서 '2026 대한민국 HTML5 게임포럼'을 개최할 예정이라고 밝혔다. 이번 포럼은 HTML5 기술 및 플랫폼 환경의 변화와 함께 빠르게 확장되고 있는 웹 기반 게임 생태계를 살펴볼 목적으로 마련됐다. 국내 게...",
+      "title": "Original DOOM Gets NVIDIA DLSS 5 Neural Rendering Through a Custom DirectX 12 Port",
+      "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
+      "source": "Wccftech",
+      "published_iso": "2026-10-06T21:21:17+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg",
+      "excerpt": "Developer Nikolai Zhivotenko ports DOOM to Windows with NVIDIA DLSS 5 Neural Rendering, enhancing its graphics through modern upscaling techniques.",
       "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "The Korea Mobile Game Association announced the 2026 HTML5 Game Forum for October 8, framed around how AI is changing web-based games. It is the only clean fresh item left in the pool, and it adds a Korean, web-platform angle to a day that is otherwise about prompt-made games."
+      "rationale": "A new release: a custom DX12 port that applies DLSS 5 neural rendering to the original DOOM's sprite art. It is a concrete test of what the AI filter does to classic pixel art."
+    },
+    {
+      "title": "The OG Crash Team Racing for PS1 just arrived on PC, but it's sadly yet another recomp spoiled by AI",
+      "url": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-08T11:43:14Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg",
+      "excerpt": "Wump wump",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "A new release: a PC recompilation of PS1 Crash Team Racing built with AI. It is the latest flashpoint in the preservation community's fight over vibe-coded ports."
+    },
+    {
+      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!'",
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "source": "Kotaku",
+      "published_iso": "2026-10-02T17:30:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
+      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Illustrator Loish answers false gen-AI accusations and explains how to recognise original work. This hits artists directly: their process and style are now under suspicion by default."
+    },
+    {
+      "title": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-10-08T13:30:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The Call of Duty and Dead Space alumnus explains why he doesn't view AI as a tool and why he isn't a fan of remote work",
+      "category": "games",
+      "tool": "Games",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "rationale": "Dead Space and Callisto Protocol creator Glen Schofield argues that creative ideas cut AAA costs more than AI does today. It is a senior creative director's counterweight to studios' AI-efficiency pitch."
     }
   ],
-  "alternates": [
-    "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-    "https://www.destructoid.com/i-wasnt-prepared-for-skyrim-with-dlss-5-on-max-settings/"
-  ],
+  "alternates": [],
   "dedup": {
     "checks": {
-      "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/": {
+      "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support"
+        "nearest": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark"
       },
-      "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894": {
+      "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/": {
         "verdict": "new",
-        "nearest": "https://www.inven.co.kr/webzine/news/?news=321517"
+        "nearest": "https://wccftech.com/nvidia-dlss-5-neural-rendering-disappoints-stylized-yet-solid-super-smash-bros-melee/"
       },
-      "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto": {
+      "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/": {
         "verdict": "new",
-        "nearest": "https://www.eurogamer.net/claude-opus-vibe-coded-mashup-mods-x-twitter-modding-backlash"
+        "nearest": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/"
       },
-      "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098": {
+      "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/ps5-linux-dev-abandons-the-project-as-ai-slop-kiddies-ruin-open-source-mods-ahead-of-gta-6-just-a-bunch-of-noobs-using-llms-and-writing-hacks-they-dont-even-understand/"
+        "nearest": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/"
       },
-      "https://www.gamemeca.com/view.php?gid=1781498": {
+      "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa": {
         "verdict": "new",
-        "nearest": "https://www.inven.co.kr/webzine/news/?news=321517"
+        "nearest": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments"
       }
     },
-    "note": "SWAP PASS: Cluster c1 (Unity Spark x4 + Google Playground) is one launch, because Unity Spark is Unity's prompting tool built for Google Playground. Kept one card: 80.lv Unity Spark, for the artist and Asset Store angle that matters most to designers. Dropped the Game Developer 'Google Playground is an experimental AI game platform' card and its dedup entry, along with the Game Developer, Kotaku and GamesIndustry.biz Unity Spark pieces. Backfilled with GameMeca's 2026 HTML5 Game Forum announcement, a new event that matches nothing in history_digest. The nearest is the Inven ONE store AI-game listing story from 09-30, which is a different event. Other remaining pool items rejected: Destructoid Skyrim DLSS 5 hands-on, which is opinion on the long-running DLSS 5 story and has no new release; IGN Capcom RE Engine clarification, commentary on the Verge story published 10-05; PC Gamer and GamesRadar+ Warhorse remarks, from the interview run published 09-26; RPS Jagex trailer apology, a likely-repeat of the GamesIndustry.biz story from 10-06; PC Gamer GPT-6 StarCraft cheating, the 36kr story from 09-30. No overlap with today's design, gadgets or movies picks. Diversity: 4 outlets (Kotaku x2, 80 Level, IGN, GameMeca)."
+    "note": "Pool: 10 items. Dropped all three Google Playground items in cluster c1: Game Developer, 80 Level and Eurogamer, which pairs Google Playground with Unity Spark. The 10-08 games run already published this launch as the 80.lv Unity Spark card and explicitly folded Google Playground into it (Unity Spark is the prompting tool built for Playground). Any of the three would repeat that story. Dropped GamingBolt 'Capcom has no plans for gen-AI assets in RE Engine': it carries a related history_match to The Verge Capcom story from 10-05 and is a clarification of that same statement with no new release. The 10-08 run rejected IGN's version of it for the same reason. Dropped PC Gamer 'haystack slop' (09-28): a stale weekly Steam roundup with a related history_match to the GamesRadar 'Robloxification of Steam' story from 09-27. No funding or exec items in the pool. The DOOM DLSS 5 port is a distinct new port release, not commentary on the running DLSS 5 story. The CTR recomp is a different release from the Banjo-Tooie recomp published 10-03. The pool had exactly 5 fresh items, so all 5 were taken with no backfill reserve. Diversity: 5 distinct outlets (Aftermath, Wccftech, GamesRadar+, Kotaku, GamesIndustry.biz), and accents are distinct across the single games category."
   }
 }

@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "design",
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6": {
+      "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/": {
         "verdict": "new",
-        "nearest": "https://mixed-news.com/en/chatgpt-sites-public-beta-no-data-residency-10gb-d1/",
+        "nearest": "https://www.engineering.com/vectorworks-2027-adds-tools-for-connected-design-workflows/",
         "new_action": ""
       },
-      "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/": {
+      "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use": {
         "verdict": "new",
-        "nearest": "https://develop3d.com/ai/classcad-ai-cad-mcp/",
+        "nearest": "https://www.cgchannel.com/2026/09/otoy-releases-octanerender-2027-1-in-alpha/",
         "new_action": ""
       },
-      "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk": {
+      "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free": {
         "verdict": "new",
-        "nearest": "https://dev.to/usman_basheers/which-mcp-server-can-design-svg-and-app-ui-eight-compared-2026-2emp",
+        "nearest": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
         "new_action": ""
       },
-      "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192": {
+      "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm": {
         "verdict": "new",
-        "nearest": "https://nofilmschool.com/apples-full-disk-access-statement",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
         "new_action": ""
       },
-      "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d": {
+      "https://www.youtube.com/watch?v=FgHhrBiamzw": {
         "verdict": "new",
-        "nearest": "https://www.infoq.com/articles/regeneratable-ui-component-library/",
+        "nearest": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
         "new_action": ""
       }
     },
-    "note": "SWAP: the DEV 'Nano Banana 2.1: What Changes for Design, Editing, and Image Costs' pick was removed after fact-check. It read as near-advertorial: the author's own product ReelDance, a 'drafted with AI assistance' note, and a closing 'Try it on ReelDance' walkthrough. It was also mislabeled KeyShot. The Vercel Nano Banana 2.1 and FLUX 3 Gateway posts (c18) stay out. Nano Banana 2.1 is not carried by any other pick. Replacement: the DEV 'Does a design system change what a coding agent writes?' essay, checked against the 30-day history_digest. It has no history_match tag. Its nearest stories are InfoQ 'From Reusable to Regeneratable' (10-03), DESIGN.md (09-08) and 'Bringing Design Systems into Figma Make' (09-12). None of them is the same experiment or article, so the verdict is new. Other alternates were rejected. Builder.io WebMCP how-to is a tutorial on the WebMCP running story (Vercel 09-19) with no new release, so it is treated as a follow-up and dropped. Keysight ADS 2027 is a real release but is RF engineering, far from designers, and would be a second cad card. UX Collective gamification would make 3 workflow cards and a second UX Collective card. Cross-section reservations from the original pass still hold. Unity Spark and Google Playground go to games. Surface Ultra, Xreal Aura, Copilot Windows and RTX Spark go to gadgets. SynthID goes to movies. Also still dropped from the original pass: Formas.AI Cartesian (same launch as aecmag 10-05), the UX Collective Meta cute-agent piece (same as Fast Company Muse Charm 09-27) and Builder.io 'stop installing skills' (close to Vercel 'State of agent skills' 09-26). Outlets: The Verge, DEVELOP3D, DEV x2, UX Collective (4 distinct, cap 2 respected). Categories: workflow 2, cad 1, tokens 2. The second tokens card gets palette accent #0070f3."
+    "note": "Checked against the 30-day history_digest. Dropped as repeats or follow-ups: (1) NVIDIA 'Into the Omniverse' agents-to-simulation post. It is the same running story as the NVIDIA tech blog 'How to Use AI Agents to Prepare 3D Scenes for Simulation' (09-18) and reports no new release. (2) Builder.io 'How to use WebMCP'. It is a tutorial on the WebMCP story (Vercel mcp-handler 09-19), so it is a follow-up with no new release. (3) Fast Company 'Big Tech is cutewashing its AI agents'. It is the same mascot-branding thread as 'With Meta's Muse Charm, AI enters its kawaii era' (09-27) and 'OpenAI's new dots agents come with a crew of friendly mascots' (09-30), and it is commentary only. (4) Vercel FLUX 3 Image on AI Gateway. It is the same release as the-decoder's Flux 3 launch (10-03). Grok Imagine Video 1.5 Lite on AI Gateway is in the same c10 content-hub cluster and is a gateway listing, not design news. (5) The Figma Blog post on the Figma agent and design system upkeep. It is a guidance post on the same Figma agent covered on 10-07 ('3 ways product designers use the Figma agent') and has no new release. Kept as an alternate. Also dropped for other reasons: the DEV 'Nano Banana 2.1' post was already rejected as near-advertorial on 10-08 (it promotes the author's ReelDance). Google Playground (80 Level) is reserved for games. Fanta's AI Halloween ad is advertising critique that fits marketing better. Engineering.com 'AI in PLM' is organizational-readiness analysis. MindStudio's Kandinsky 6 and Tencent Prism posts are SEO-style model explainers. The UX Collective essays (incidents, gamification) and the DEV 'Five UI patterns' post are evergreen and lower-ranked. The final 5 come from Engineering.com, Creative Bloq x2, DEV Community and Microsoft Design (YouTube): 4 distinct outlets, and the cap of 2 per outlet is respected. Categories: cad, render, workflow, figma, social, one each, so every card keeps its category accent."
   },
   "items": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "rationale": "ChatGPT's 'Intelligent UI' turns answers into generated interfaces with images, charts and buttons for all users, so the AI product designers build for now writes UI on its own.",
-      "published_iso": "2026-10-07T19:10:42+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-      "excerpt": "Visual responses are coming to all ChatGPT users."
-    },
-    {
-      "url": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
-      "source": "DEVELOP3D",
+      "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
+      "source": "Engineering.com",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "MecAgent V2 is a new release. Its agent harness puts GPT-6 Astra to work on complex CAD tasks directly inside SolidWorks.",
-      "published_iso": "2026-10-07T14:29:13+00:00",
-      "og_image": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg",
-      "excerpt": "MecAgent V2 AI for CAD software, uses its agent harness to enlist GPT-6 Astra into powering CAD designs directly within solidworks"
+      "rationale": "New release: Graphisoft's 2026 Archicad portfolio adds MCP connectivity, AI Visualizer updates, MEP Designer expansion and a new Archicad Max tier, which affects architects' BIM-plus-AI workflow right away.",
+      "published_iso": "2026-10-08T13:26:41+00:00",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png",
+      "excerpt": "The 2026 portfolio adds MCP connectivity, AI Visualizer updates, MEP Designer expansion and a new Archicad Max subscription."
     },
     {
-      "url": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
-      "source": "DEV Community",
-      "tool": "Design Tokens",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "rationale": "An open-source Agent Skill gives Claude, Gemini CLI and Codex a staged logo workflow, SVG validation and a library of 1,400+ marks, and designers can install it today.",
-      "published_iso": "2026-10-07T19:40:26Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png",
-      "excerpt": "An open-source Agent Skill gives Claude, Gemini CLI and Codex a staged logo workflow, SVG checks and a searchable library of 1,400-plus marks."
+      "url": "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use",
+      "source": "Creative Bloq",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A hands-on review of KeyShot 2026's AI Shots, which puts generative AI inside product rendering, tells product designers whether the new AI tools are worth using.",
+      "published_iso": "2026-10-08T17:03:41Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+      "excerpt": "Creative Bloq reviews KeyShot 2026, whose AI Shots feature brings generative AI into the heart of the product-rendering workflow alongside its fast, easy 3D rendering."
     },
     {
-      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
-      "source": "UX Collective",
+      "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "source": "Creative Bloq",
       "tool": "AI Workflow",
-      "accent": "#3b6bff",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "A practical model for deciding what an AI agent may do on its own and what humans must still own, which product teams can use to set agent boundaries.",
-      "published_iso": "2026-10-07T19:54:06+00:00",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-      "excerpt": "A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary."
+      "rationale": "A developer used AI to rebuild a free suite of Creative Cloud-style apps. It shows how cheap AI-built creative software has become and what that means for designers' tool choices and for Adobe.",
+      "published_iso": "2026-10-08T16:19:44Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
+      "excerpt": "A developer used AI to rebuild a suite of Adobe Creative Cloud-style apps and released it for free, raising questions about what AI-built creative software means for designers and Adobe."
     },
     {
-      "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
+      "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
       "source": "DEV Community",
-      "tool": "Design Tokens",
+      "tool": "Figma",
       "accent": "#0070f3",
-      "motif": "swatch",
-      "rationale": "This essay tests whether a well-built design system actually steers the UI code a coding agent writes. That question decides whether design-system work pays off once agents write the front end.",
-      "published_iso": "2026-10-07T20:27:23Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png",
-      "excerpt": "A while ago I finished a piece of work I was proud of: a design system built the way I'd argue a..."
+      "motif": "frame",
+      "rationale": "The post breaks down the 71 lines of Anthropic's frontend-design skill, shows how to install it, and builds the same landing page with and without it, so designers can see what the skill changes and install it today.",
+      "published_iso": "2026-10-08T19:38:43Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.skillgild.dev%2Fmedia%2Fsite%2Fdevto%2Ffrontend-skills%2Fcover-frontend-design-1760x660.png",
+      "excerpt": "Anthropic's frontend-design skill for Claude Code: what its 71 lines tell Claude, how to install it, and a landing page built with and without it on the same brief."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FgHhrBiamzw",
+      "source": "Microsoft Design",
+      "tool": "Social",
+      "accent": "#ff2d55",
+      "motif": "frame",
+      "rationale": "Microsoft Design's behind-the-scenes look at the new Copilot visual identity is a primary-source case study in branding an AI agent product.",
+      "published_iso": "2026-10-06T19:03:16+00:00",
+      "og_image": "https://i.ytimg.com/vi/FgHhrBiamzw/maxresdefault.jpg",
+      "excerpt": "Your apps, tools, and context come together in our new Copilot identity, inspired by work and designed for it."
     }
   ],
   "alternates": [
-    "https://www.engineering.com/keysight-adds-agentic-ai-tools-to-rf-design-software/",
-    "https://www.builder.io/blog/how-to-use-webmcp",
-    "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc"
+    "https://www.figma.com/blog/figma-agent-and-design-systems/",
+    "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e",
+    "https://dev.to/yash_07/five-ui-patterns-that-make-ai-agents-easier-to-trust-367a"
   ]
 }

@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "books",
   "media": [
     {
-      "id": "books-organic-literature-stamp",
+      "id": "books-munich-llm-ruling",
       "type": "image",
-      "src": "pipeline/media/books-organic-literature-stamp.jpg"
+      "src": "pipeline/media/books-munich-llm-ruling.png"
     },
     {
-      "id": "books-simon-schuster-ai-tracking-letter",
+      "id": "books-storytel-ai-translation",
       "type": "image",
-      "src": "pipeline/media/books-simon-schuster-ai-tracking-letter.jpg"
+      "src": "pipeline/media/books-storytel-ai-translation.png"
     },
     {
-      "id": "books-trace-ai-licensed-content",
+      "id": "books-uk-human-authored-mark",
       "type": "image",
-      "src": "pipeline/media/books-trace-ai-licensed-content.jpg"
+      "src": "pipeline/media/books-uk-human-authored-mark.jpg"
     },
     {
-      "id": "books-pangram-ai-detector-bias",
+      "id": "books-digital-publishing-award",
       "type": "image",
-      "src": "pipeline/media/books-pangram-ai-detector-bias.jpg"
+      "src": "pipeline/media/books-digital-publishing-award.png"
     },
     {
-      "id": "books-boersenblatt-ki-uebersetzen-umfrage",
+      "id": "books-ai-narration-debate",
       "type": "image",
-      "src": "pipeline/media/books-boersenblatt-ki-uebersetzen-umfrage.jpg"
+      "src": "pipeline/media/books-ai-narration-debate.jpg"
     }
   ]
 }

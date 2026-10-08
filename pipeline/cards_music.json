@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "music",
   "cards": [
     {
-      "id": "music-copyright-office-fraud-inquiry",
-      "source_lang": "en",
+      "id": "music-amuchart",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
-      "body": "U.S. 저작권청이 AI 곡과 봇 재생으로 번지는 스트리밍 사기 의견을 모은다.",
-      "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+      "headline": "AI 음악 전용 플랫폼\n아뮤차트 출범",
+      "body": "홍종구의 아뮤차트는 반응 좋은 AI 곡을 실제 가수가 부르게 할 계획이다.",
+      "mini_headline": "AI 음악 플랫폼\n아뮤차트",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/copyright-office-music-streaming-fraud-inquiry/",
+      "source": "일간스포츠",
+      "url": "https://isplus.com/article/view/isp202610070043",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,305 +19,346 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-            "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+            "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+            "cap": "홍종구 대표 (2024 KGMA 조직위원회 발대식)"
           },
           {
             "t": "p",
-            "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 골칫거리 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 공고를 내고 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받겠다고 밝혔다. 공개 의견은 Nov. 23까지 받는다."
+            "x": "그룹 노이즈 출신이자 메타 AI 랩의 홍종구 대표가 AI 음악 창작자들을 위한 최초의 전용 플랫폼 '아뮤차트'를 선보였다. 그는 \"AI로 탄생한 노래들을 온전히 담아낼 수 있는 플랫폼을 먼저 만들자는 생각에서 출발했다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에서 시작됐다. 그는 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 저작권청이 살펴봐야 한다고 요구했다."
+            "x": "아뮤차트는 지난 9월 9일 오픈 이후 두 달이 안 되는 기간 동안 약 300명의 창작자가 참여해 약 9000곡을 모았다. 창작자 가입 기준은 만 15세 이상이며, 확인된 최고령 창작자는 약 80세다. 가장 많은 곡을 올린 창작자는 180곡에 달해, 플랫폼은 업로드를 한 명당 하루 5곡으로 제한했다."
           },
           {
             "t": "p",
-            "x": "DSPs는 고정된 풀에서 로열티를 나눠 주므로 가짜 재생이 늘수록 실제 스트리밍에 돌아갈 몫이 줄어든다. 이제 악의적 행위자들은 AI 음악 생성기로 곡을 대량으로 찍어 낼 수 있게 됐다(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다). 에이전트형 AI는 봇 팜의 규모까지 키웠다."
+            "x": "리스너가 채팅이나 음성으로 기분과 상황을 설정하면 가상 DJ가 음악을 추천한다. 후원, 실시간 채팅, DM 기능과 함께, 크루끼리 음악을 만들어 배틀을 벌이는 '크루', 리스너가 창작자를 발굴해 성장(5단계 레벨)에 따라 수익 일부를 배분받는 '스카우트' 제도도 갖췄다."
           },
           {
             "t": "p",
-            "x": "공고는 어떤 수법이 가장 널리 퍼졌는지, 경제적 영향은 얼마나 큰지, AI는 어떤 역할을 했는지, 해법은 의회 입법에서 나와야 하는지를 묻는다. 공고가 나온 날은 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 바로 다음 날이었다. 그는 부정한 로열티로 $8 million 넘게 챙겼다."
+            "x": "한 엔진에서 일률적인 곡이 쏟아질 위험에 대비해 '리마스터링' 시스템과 음악 생성 서비스 고도화도 준비 중이다. 홍 대표는 AI 뮤직 시상식·페스티벌·컨퍼런스 개최와 매니지먼트 사업 확장을 구상하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "\"AI 곡 중 반응이 좋은 곡은 전문가 및 창작자와의 긴밀한 협의를 거쳐 실제 가수가 부르게 하는 매니지먼트 사업으로 확장할 계획입니다.\""
           }
         ]
       },
+      "lead_image": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
       "text": {
-        "en": {
-          "headline": "U.S. Copyright Office opens\nstreaming fraud inquiry",
-          "body": "The U.S. Copyright Office is seeking public input on streaming fraud, including AI tracks pumped with bot streams.",
-          "mini_headline": "Copyright Office probes\nstreaming fraud",
+        "ko": {
+          "headline": "AI 음악 전용 플랫폼\n아뮤차트 출범",
+          "body": "홍종구의 아뮤차트는 반응 좋은 AI 곡을 실제 가수가 부르게 할 계획이다.",
+          "mini_headline": "AI 음악 플랫폼\n아뮤차트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "The Library of Congress, which houses the U.S. Copyright Office, is seen on May 12, 2025 in Washington, DC."
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "홍종구 대표 (2024 KGMA 조직위원회 발대식)"
               },
               {
                 "t": "p",
-                "x": "The U.S. Copyright Office has launched an investigation into one of the music industry’s biggest problems: streaming fraud. In a Wednesday (Oct. 7) notice in the Federal Register, it said it is soliciting data and suggestions that “may contribute to Congress’s understanding of streaming fraud, current efforts to curb this problem and potential solutions.” Public comments are due Nov. 23."
+                "x": "그룹 노이즈 출신이자 메타 AI 랩의 홍종구 대표가 AI 음악 창작자들을 위한 최초의 전용 플랫폼 '아뮤차트'를 선보였다. 그는 \"AI로 탄생한 노래들을 온전히 담아낼 수 있는 플랫폼을 먼저 만들자는 생각에서 출발했다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "The inquiry responds to a May letter from Rep. Scott Fitzgerald (R-Wis.), who said the office should examine the ways “generative AI can serve as a catalyst for criminals to perpetrate streaming fraud.”"
+                "x": "아뮤차트는 지난 9월 9일 오픈 이후 두 달이 안 되는 기간 동안 약 300명의 창작자가 참여해 약 9000곡을 모았다. 창작자 가입 기준은 만 15세 이상이며, 확인된 최고령 창작자는 약 80세다. 가장 많은 곡을 올린 창작자는 180곡에 달해, 플랫폼은 업로드를 한 명당 하루 5곡으로 제한했다."
               },
               {
                 "t": "p",
-                "x": "Since DSPs divvy up royalties out of a fixed pool, fake plays siphon off money from real streams. AI music generators now let bad actors churn out huge amounts of songs (Deezer found up to 85% of streams on fully AI-generated tracks in 2025 were fraudulent), and agentic AI has scaled bot farms."
+                "x": "리스너가 채팅이나 음성으로 기분과 상황을 설정하면 가상 DJ가 음악을 추천한다. 후원, 실시간 채팅, DM 기능과 함께, 크루끼리 음악을 만들어 배틀을 벌이는 '크루', 리스너가 창작자를 발굴해 성장(5단계 레벨)에 따라 수익 일부를 배분받는 '스카우트' 제도도 갖췄다."
               },
               {
                 "t": "p",
-                "x": "The notice asks which schemes are most prevalent, how significant the economic impacts are, how AI has contributed, and whether a solution should come from Congressional legislation. It comes a day after Michael Smith was sentenced in the first-ever U.S. streaming fraud prosecution, having earned more than $8 million in fraudulent royalties."
+                "x": "한 엔진에서 일률적인 곡이 쏟아질 위험에 대비해 '리마스터링' 시스템과 음악 생성 서비스 고도화도 준비 중이다. 홍 대표는 AI 뮤직 시상식·페스티벌·컨퍼런스 개최와 매니지먼트 사업 확장을 구상하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "\"AI 곡 중 반응이 좋은 곡은 전문가 및 창작자와의 긴밀한 협의를 거쳐 실제 가수가 부르게 하는 매니지먼트 사업으로 확장할 계획입니다.\""
               }
             ]
           }
         },
-        "ko": {
-          "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
-          "body": "U.S. 저작권청이 AI 곡과 봇 재생으로 번지는 스트리밍 사기 의견을 모은다.",
-          "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+        "en": {
+          "headline": "AI music gets its own\nplatform: Amuchart launches",
+          "body": "Hong Jong-gu's Amuchart plans to have real singers perform the AI songs that draw the best response.",
+          "mini_headline": "AI music platform Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "CEO Hong Jong-gu (2024 KGMA organizing committee launch ceremony)"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 골칫거리 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 공고를 내고 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받겠다고 밝혔다. 공개 의견은 Nov. 23까지 받는다."
+                "x": "Hong Jong-gu, a former member of the group Noise and head of Meta AI Lab, has launched Amuchart, the first platform dedicated to AI music creators. “It started from the idea of first building a platform that could fully hold the songs born from AI,” he said."
               },
               {
                 "t": "p",
-                "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에서 시작됐다. 그는 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 저작권청이 살펴봐야 한다고 요구했다."
+                "x": "Since opening on September 9, Amuchart has drawn about 300 creators and gathered about 9000 songs in less than two months. Creators must be 15 or older, and the oldest confirmed creator is about 80. The most prolific creator uploaded 180 songs, so the platform limited uploads to 5 songs per person per day."
               },
               {
                 "t": "p",
-                "x": "DSPs는 고정된 풀에서 로열티를 나눠 주므로 가짜 재생이 늘수록 실제 스트리밍에 돌아갈 몫이 줄어든다. 이제 악의적 행위자들은 AI 음악 생성기로 곡을 대량으로 찍어 낼 수 있게 됐다(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다). 에이전트형 AI는 봇 팜의 규모까지 키웠다."
+                "x": "Listeners set their mood and situation by chat or voice, and a virtual DJ recommends music. Alongside donations, live chat and DM features, it offers 'Crew', where crews make music and battle each other, and 'Scout', where listeners discover creators and receive a share of revenue as those creators grow (5 levels)."
               },
               {
                 "t": "p",
-                "x": "공고는 어떤 수법이 가장 널리 퍼졌는지, 경제적 영향은 얼마나 큰지, AI는 어떤 역할을 했는지, 해법은 의회 입법에서 나와야 하는지를 묻는다. 공고가 나온 날은 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 바로 다음 날이었다. 그는 부정한 로열티로 $8 million 넘게 챙겼다."
+                "x": "To guard against a flood of uniform songs from a single engine, it is preparing a 'remastering' system and upgrades to its music generation service. Hong is considering hosting AI music awards, festivals and conferences, and expanding into a management business."
+              },
+              {
+                "t": "p",
+                "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "U.S. 著作権局が\n配信不正の調査開始",
-          "body": "U.S. 著作権局が、ボット再生で水増しされたAI楽曲を含む配信不正について意見を募る。",
-          "mini_headline": "Copyright Office、配信不正を調査",
+          "headline": "AI音楽専用プラットフォーム\nアミュチャート始動",
+          "body": "ホン・ジョング氏のアミュチャートは、反響の大きいAI曲を実在の歌手に歌わせる計画だ。",
+          "mini_headline": "AI音楽プラットフォーム アミュチャート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Officeが入るワシントンDCのLibrary of Congress（米議会図書館）。May 12, 2025撮影。"
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "ホン・ジョング代表（2024 KGMA組織委員会発足式）"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office（米著作権局）が、音楽業界最大の問題のひとつであるストリーミング不正の調査に乗り出した。水曜日（Oct. 7）のFederal Register（連邦官報）での告知で、同局は「ストリーミング不正、この問題を抑える現在の取り組み、そして考えうる解決策について、議会の理解に資する可能性がある」データと提案を募ると述べた。パブリックコメントの締め切りはNov. 23である。"
+                "x": "グループ・ノイズ出身で、メタAIラボを率いるホン・ジョング代表が、AI音楽クリエイターのための初の専用プラットフォーム「アミュチャート」を立ち上げた。彼は「AIから生まれた曲をしっかり受け止められるプラットフォームを、まず作ろうという考えから始まった」と語った。"
               },
               {
                 "t": "p",
-                "x": "今回の調査は、Rep. Scott Fitzgerald（R-Wis.）下院議員が五月に送った書簡を受けたものだ。同議員は、同局が「生成AIが犯罪者によるストリーミング不正を助長する触媒になりうる」仕組みを検証すべきだと述べていた。"
+                "x": "アミュチャートは9月9日のオープンから二か月足らずで約300人のクリエイターが参加し、約9000曲を集めた。クリエイター登録は満15歳以上が条件で、確認された最高齢のクリエイターは約80歳だ。最も多く投稿したクリエイターは180曲に達し、プラットフォームは投稿を一人あたり一日5曲に制限した。"
               },
               {
                 "t": "p",
-                "x": "DSPsは固定のプールからロイヤルティを分配するため、偽の再生は本物のストリームから収益を吸い上げる。AI音楽生成ツールによって悪意ある者が大量の楽曲を量産できるようになり（Deezerによれば、2025年に完全なAI-generated楽曲で発生したストリームの最大85%が不正だった）、エージェント型AIはボットファームの規模を拡大させた。"
+                "x": "リスナーがチャットや音声で気分や状況を設定すると、仮想DJが音楽を薦める。投げ銭、リアルタイムチャット、DM機能に加え、クルー同士で音楽を作ってバトルする「クルー」、リスナーがクリエイターを発掘し、その成長（5段階のレベル）に応じて収益の一部を受け取る「スカウト」制度も備える。"
               },
               {
                 "t": "p",
-                "x": "告知は、どの手口が最も蔓延しているか、経済的影響はどれほど大きいか、AIがどう関与してきたか、解決策を議会の立法に求めるべきかを問うている。告知は、U.S.で初のストリーミング不正訴追でMichael Smithに判決が下った翌日に出された。同氏は不正なロイヤルティで$8 million超を得ていた。"
+                "x": "一つのエンジンから画一的な曲があふれるリスクに備え、「リマスタリング」システムや音楽生成サービスの高度化も準備中だ。ホン代表はAIミュージックの授賞式・フェスティバル・カンファレンスの開催と、マネジメント事業の拡大を構想している。"
+              },
+              {
+                "t": "p",
+                "x": "「AI曲のうち反響の良い曲は、専門家やクリエイターと緊密に協議したうえで、実在の歌手が歌うマネジメント事業へと拡大する計画です」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "U.S. 版权局启动\n流媒体欺诈调查",
-          "body": "U.S. 版权局就流媒体欺诈公开征求意见，包括用机器人刷量的AI歌曲。",
-          "mini_headline": "Copyright Office调查流媒体欺诈",
+          "headline": "AI音乐专属平台\nAmuchart上线",
+          "body": "Hong Jong-gu的Amuchart计划让反响好的AI歌曲由真人歌手演唱。",
+          "mini_headline": "AI音乐平台Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Office所在的华盛顿DC的Library of Congress（美国国会图书馆），摄于May 12, 2025。"
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "Hong Jong-gu代表（2024 KGMA组委会成立仪式）"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office（美国版权局）已就音乐产业最大的难题之一——流媒体欺诈——展开调查。该局在周三（Oct. 7）发布于Federal Register（联邦公报）的通知中表示，正在征集“可能有助于国会理解流媒体欺诈、当前遏制这一问题的努力及潜在解决方案”的数据和建议。公众意见截止日期为Nov. 23。"
+                "x": "出身组合Noise、现任Meta AI实验室负责人的Hong Jong-gu代表，推出了首个面向AI音乐创作者的专属平台Amuchart。他表示：“最初的想法是，先打造一个能完整容纳AI诞生歌曲的平台。”"
               },
               {
                 "t": "p",
-                "x": "此次调查是对Rep. Scott Fitzgerald（R-Wis.）众议员五月来信的回应。他在信中表示，该局应审视“生成式AI可能如何成为犯罪分子实施流媒体欺诈的催化剂”。"
+                "x": "Amuchart自9月9日上线以来，不到两个月就吸引约300名创作者参与，汇集约9000首歌曲。创作者注册门槛为年满15岁，已确认的最年长创作者约80岁。上传最多的创作者达180首，平台因此将上传限制为每人每天5首。"
               },
               {
                 "t": "p",
-                "x": "由于DSPs从固定的资金池中分配版税，虚假播放会从真实播放中分走收入。如今AI音乐生成工具让不法分子能够批量炮制大量歌曲（Deezer发现，2025年完全AI-generated曲目的播放中，高达85%属于欺诈），而智能体AI则让机器人农场规模不断扩大。"
+                "x": "听众通过聊天或语音设定心情和场景后，虚拟DJ会推荐音乐。除打赏、实时聊天和DM功能外，平台还设有让战队之间创作音乐并展开对战的“战队”，以及听众发掘创作者、并按其成长（5级等级）分得部分收益的“星探”制度。"
               },
               {
                 "t": "p",
-                "x": "通知询问哪些手法最为普遍、经济影响有多大、AI起到了怎样的作用，以及解决方案是否应来自国会立法。通知发布的前一天，Michael Smith在U.S.首例流媒体欺诈起诉案中被判刑，他通过欺诈获得的版税超过$8 million。"
+                "x": "为应对同一引擎产出大量雷同歌曲的风险，平台正在准备“重制母带”系统，并升级音乐生成服务。Hong Jong-gu代表正构想举办AI音乐颁奖典礼、音乐节和大会，并拓展经纪业务。"
+              },
+              {
+                "t": "p",
+                "x": "“AI歌曲中反响好的作品，将在与专家及创作者密切协商后交由真人歌手演唱，我们计划借此拓展经纪业务。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "U.S. Copyright Office investiga\nel fraude en streaming",
-          "body": "La U.S. Copyright Office abre consulta sobre el fraude en streaming, incluidas pistas de AI infladas con bots.",
-          "mini_headline": "La Copyright Office investiga el fraude en streaming",
+          "headline": "Nace Amuchart, plataforma\nexclusiva de música con AI",
+          "body": "Amuchart, de Hong Jong-gu, planea que cantantes reales interpreten las canciones de AI con mejor acogida.",
+          "mini_headline": "Plataforma de música AI Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "La Library of Congress, sede de la U.S. Copyright Office, el 12 de mayo de 2025 en Washington, DC."
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "Hong Jong-gu, CEO (ceremonia de lanzamiento del comité organizador de los 2024 KGMA)"
               },
               {
                 "t": "p",
-                "x": "La U.S. Copyright Office abrió una investigación sobre uno de los mayores problemas de la industria musical: el fraude en streaming. En un aviso publicado el miércoles (Oct. 7) en el Federal Register, indicó que solicita datos y sugerencias que “puedan contribuir a la comprensión del Congreso sobre el fraude en streaming, los esfuerzos actuales para frenar este problema y las posibles soluciones”. Los comentarios públicos vencen el Nov. 23."
+                "x": "Hong Jong-gu, exmiembro del grupo Noise y al frente de Meta AI Lab, presentó Amuchart, la primera plataforma dedicada a los creadores de música con AI. “Partí de la idea de construir primero una plataforma capaz de acoger plenamente las canciones nacidas de la AI”, dijo."
               },
               {
                 "t": "p",
-                "x": "La investigación responde a una carta de mayo del Rep. Scott Fitzgerald (R-Wis.), quien afirmó que la oficina debía examinar las formas en que “la AI generativa puede servir de catalizador para que los delincuentes cometan fraude en streaming”."
+                "x": "Desde su apertura el 9 de septiembre, en menos de dos meses Amuchart reunió a unos 300 creadores y cerca de 9000 canciones. Los creadores deben tener 15 años o más, y el de mayor edad confirmado tiene unos 80. El creador más prolífico llegó a 180 canciones, por lo que la plataforma limitó las subidas a 5 canciones por persona al día."
               },
               {
                 "t": "p",
-                "x": "Como las DSPs reparten las regalías a partir de un fondo fijo, las reproducciones falsas desvían dinero de las reproducciones reales. Los generadores de música con AI permiten ahora a actores malintencionados producir enormes cantidades de canciones (Deezer halló que hasta el 85% de las reproducciones de pistas totalmente AI-generated en 2025 fueron fraudulentas), y la AI agéntica ha ampliado las granjas de bots."
+                "x": "Los oyentes indican su estado de ánimo y su situación por chat o por voz, y un DJ virtual les recomienda música. Además de donaciones, chat en tiempo real y mensajes por DM, ofrece 'Crew', donde los equipos crean música y compiten en batallas, y 'Scout', un sistema en el que los oyentes descubren creadores y reciben parte de los ingresos según su crecimiento (5 niveles)."
               },
               {
                 "t": "p",
-                "x": "El aviso pregunta qué esquemas son los más extendidos, cuán significativo es su impacto económico, cómo ha contribuido la AI y si la solución debería venir de una ley del Congreso. Llega un día después de que Michael Smith fuera condenado en el primer proceso por fraude en streaming en U.S., tras obtener más de $8 millones en regalías fraudulentas."
+                "x": "Ante el riesgo de una avalancha de canciones uniformes salidas de un mismo motor, prepara un sistema de 'remasterización' y mejoras en su servicio de generación musical. Hong planea organizar premios, festivales y conferencias de música AI, y ampliar el negocio de representación artística."
+              },
+              {
+                "t": "p",
+                "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "U.S. 저작권청,\n스트리밍 사기 조사",
-          "body": "U.S. 저작권청이 봇 재생을 부풀린 AI 곡 등 스트리밍 사기 의견을 받는다.",
-          "mini_headline": "Copyright Office, 스트리밍 사기 조사",
+        "en": {
+          "headline": "AI music gets its own\nplatform: Amuchart launches",
+          "body": "Hong Jong-gu's Amuchart plans to have real singers perform the AI songs that draw the best response.",
+          "mini_headline": "AI music platform Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Office가 자리한 워싱턴 DC의 Library of Congress(미 의회도서관). May 12, 2025 촬영."
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "CEO Hong Jong-gu (2024 KGMA organizing committee launch ceremony)"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office(미국 저작권청)가 음악 산업의 가장 큰 문제 중 하나인 스트리밍 사기 조사에 나섰다. 저작권청은 수요일(Oct. 7) Federal Register(연방 관보)에 낸 공고에서 “스트리밍 사기와 이 문제를 억제하려는 현재의 노력, 잠재적 해법에 대한 의회의 이해에 기여할 수 있는” 데이터와 제안을 받는다고 밝혔다. 공개 의견 마감일은 Nov. 23이다."
+                "x": "Hong Jong-gu, a former member of the group Noise and head of Meta AI Lab, has launched Amuchart, the first platform dedicated to AI music creators. “It started from the idea of first building a platform that could fully hold the songs born from AI,” he said."
               },
               {
                 "t": "p",
-                "x": "이번 조사는 Rep. Scott Fitzgerald(R-Wis.) 하원의원이 지난 오월 보낸 서한에 따른 것이다. 그는 저작권청이 “생성형 AI가 범죄자들의 스트리밍 사기를 부추기는 촉매가 될 수 있는” 방식을 살펴봐야 한다고 했다."
+                "x": "Since opening on September 9, Amuchart has drawn about 300 creators and gathered about 9000 songs in less than two months. Creators must be 15 or older, and the oldest confirmed creator is about 80. The most prolific creator uploaded 180 songs, so the platform limited uploads to 5 songs per person per day."
               },
               {
                 "t": "p",
-                "x": "DSPs는 고정된 풀에서 로열티를 나눠 주기 때문에 가짜 재생은 실제 스트리밍에 돌아갈 돈을 빼간다. 이제 AI 음악 생성기로 악의적 행위자들이 곡을 대량으로 찍어낼 수 있고(Deezer는 2025년 완전히 AI-generated 트랙에서 나온 스트리밍의 최대 85%가 사기였다고 밝혔다), 에이전트형 AI는 봇 팜의 규모를 키웠다."
+                "x": "Listeners set their mood and situation by chat or voice, and a virtual DJ recommends music. Alongside donations, live chat and DM features, it offers 'Crew', where crews make music and battle each other, and 'Scout', where listeners discover creators and receive a share of revenue as those creators grow (5 levels)."
               },
               {
                 "t": "p",
-                "x": "공고는 어떤 수법이 가장 널리 퍼져 있는지, 경제적 영향은 얼마나 큰지, AI가 어떤 역할을 했는지, 해법이 의회 입법에서 나와야 하는지를 묻는다. 공고는 U.S. 최초의 스트리밍 사기 기소 사건에서 Michael Smith가 선고를 받은 다음 날 나왔다. 그는 부정한 로열티로 $8 million 넘게 벌어들였다."
+                "x": "To guard against a flood of uniform songs from a single engine, it is preparing a 'remastering' system and upgrades to its music generation service. Hong is considering hosting AI music awards, festivals and conferences, and expanding into a management business."
+              },
+              {
+                "t": "p",
+                "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "U.S. 著作権局が\n配信不正の調査開始",
-          "body": "U.S. 著作権局が、ボット再生で水増しされたAI楽曲を含む配信不正について意見を募る。",
-          "mini_headline": "Copyright Office、配信不正を調査",
+          "headline": "AI音楽専用プラットフォーム\nアミュチャート始動",
+          "body": "ホン・ジョング氏のアミュチャートは、反響の大きいAI曲を実在の歌手に歌わせる計画だ。",
+          "mini_headline": "AI音楽プラットフォーム アミュチャート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Officeが入るワシントンDCのLibrary of Congress（米議会図書館）。May 12, 2025撮影。"
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "ホン・ジョング代表（2024 KGMA組織委員会発足式）"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office（米著作権局）が、音楽業界最大の問題のひとつであるストリーミング不正の調査に乗り出した。水曜日（Oct. 7）のFederal Register（連邦官報）での告知で、同局は「ストリーミング不正、この問題を抑える現在の取り組み、そして考えうる解決策について、議会の理解に資する可能性がある」データと提案を募ると述べた。パブリックコメントの締め切りはNov. 23である。"
+                "x": "グループ・ノイズ出身で、メタAIラボを率いるホン・ジョング代表が、AI音楽クリエイターのための初の専用プラットフォーム「アミュチャート」を立ち上げた。彼は「AIから生まれた曲をしっかり受け止められるプラットフォームを、まず作ろうという考えから始まった」と語った。"
               },
               {
                 "t": "p",
-                "x": "今回の調査は、Rep. Scott Fitzgerald（R-Wis.）下院議員が五月に送った書簡を受けたものだ。同議員は、同局が「生成AIが犯罪者によるストリーミング不正を助長する触媒になりうる」仕組みを検証すべきだと述べていた。"
+                "x": "アミュチャートは9月9日のオープンから二か月足らずで約300人のクリエイターが参加し、約9000曲を集めた。クリエイター登録は満15歳以上が条件で、確認された最高齢のクリエイターは約80歳だ。最も多く投稿したクリエイターは180曲に達し、プラットフォームは投稿を一人あたり一日5曲に制限した。"
               },
               {
                 "t": "p",
-                "x": "DSPsは固定のプールからロイヤルティを分配するため、偽の再生は本物のストリームから収益を吸い上げる。AI音楽生成ツールによって悪意ある者が大量の楽曲を量産できるようになり（Deezerによれば、2025年に完全なAI-generated楽曲で発生したストリームの最大85%が不正だった）、エージェント型AIはボットファームの規模を拡大させた。"
+                "x": "リスナーがチャットや音声で気分や状況を設定すると、仮想DJが音楽を薦める。投げ銭、リアルタイムチャット、DM機能に加え、クルー同士で音楽を作ってバトルする「クルー」、リスナーがクリエイターを発掘し、その成長（5段階のレベル）に応じて収益の一部を受け取る「スカウト」制度も備える。"
               },
               {
                 "t": "p",
-                "x": "告知は、どの手口が最も蔓延しているか、経済的影響はどれほど大きいか、AIがどう関与してきたか、解決策を議会の立法に求めるべきかを問うている。告知は、U.S.で初のストリーミング不正訴追でMichael Smithに判決が下った翌日に出された。同氏は不正なロイヤルティで$8 million超を得ていた。"
+                "x": "一つのエンジンから画一的な曲があふれるリスクに備え、「リマスタリング」システムや音楽生成サービスの高度化も準備中だ。ホン代表はAIミュージックの授賞式・フェスティバル・カンファレンスの開催と、マネジメント事業の拡大を構想している。"
+              },
+              {
+                "t": "p",
+                "x": "「AI曲のうち反響の良い曲は、専門家やクリエイターと緊密に協議したうえで、実在の歌手が歌うマネジメント事業へと拡大する計画です」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "U.S. 版权局启动\n流媒体欺诈调查",
-          "body": "U.S. 版权局就流媒体欺诈公开征求意见，包括用机器人刷量的AI歌曲。",
-          "mini_headline": "Copyright Office调查流媒体欺诈",
+          "headline": "AI音乐专属平台\nAmuchart上线",
+          "body": "Hong Jong-gu的Amuchart计划让反响好的AI歌曲由真人歌手演唱。",
+          "mini_headline": "AI音乐平台Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "U.S. Copyright Office所在的华盛顿DC的Library of Congress（美国国会图书馆），摄于May 12, 2025。"
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "Hong Jong-gu代表（2024 KGMA组委会成立仪式）"
               },
               {
                 "t": "p",
-                "x": "U.S. Copyright Office（美国版权局）已就音乐产业最大的难题之一——流媒体欺诈——展开调查。该局在周三（Oct. 7）发布于Federal Register（联邦公报）的通知中表示，正在征集“可能有助于国会理解流媒体欺诈、当前遏制这一问题的努力及潜在解决方案”的数据和建议。公众意见截止日期为Nov. 23。"
+                "x": "出身组合Noise、现任Meta AI实验室负责人的Hong Jong-gu代表，推出了首个面向AI音乐创作者的专属平台Amuchart。他表示：“最初的想法是，先打造一个能完整容纳AI诞生歌曲的平台。”"
               },
               {
                 "t": "p",
-                "x": "此次调查是对Rep. Scott Fitzgerald（R-Wis.）众议员五月来信的回应。他在信中表示，该局应审视“生成式AI可能如何成为犯罪分子实施流媒体欺诈的催化剂”。"
+                "x": "Amuchart自9月9日上线以来，不到两个月就吸引约300名创作者参与，汇集约9000首歌曲。创作者注册门槛为年满15岁，已确认的最年长创作者约80岁。上传最多的创作者达180首，平台因此将上传限制为每人每天5首。"
               },
               {
                 "t": "p",
-                "x": "由于DSPs从固定的资金池中分配版税，虚假播放会从真实播放中分走收入。如今AI音乐生成工具让不法分子能够批量炮制大量歌曲（Deezer发现，2025年完全AI-generated曲目的播放中，高达85%属于欺诈），而智能体AI则让机器人农场规模不断扩大。"
+                "x": "听众通过聊天或语音设定心情和场景后，虚拟DJ会推荐音乐。除打赏、实时聊天和DM功能外，平台还设有让战队之间创作音乐并展开对战的“战队”，以及听众发掘创作者、并按其成长（5级等级）分得部分收益的“星探”制度。"
               },
               {
                 "t": "p",
-                "x": "通知询问哪些手法最为普遍、经济影响有多大、AI起到了怎样的作用，以及解决方案是否应来自国会立法。通知发布的前一天，Michael Smith在U.S.首例流媒体欺诈起诉案中被判刑，他通过欺诈获得的版税超过$8 million。"
+                "x": "为应对同一引擎产出大量雷同歌曲的风险，平台正在准备“重制母带”系统，并升级音乐生成服务。Hong Jong-gu代表正构想举办AI音乐颁奖典礼、音乐节和大会，并拓展经纪业务。"
+              },
+              {
+                "t": "p",
+                "x": "“AI歌曲中反响好的作品，将在与专家及创作者密切协商后交由真人歌手演唱，我们计划借此拓展经纪业务。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "U.S. Copyright Office investiga\nel fraude en streaming",
-          "body": "La U.S. Copyright Office abre consulta sobre el fraude en streaming, incluidas pistas de AI infladas con bots.",
-          "mini_headline": "La Copyright Office investiga el fraude en streaming",
+          "headline": "Nace Amuchart, plataforma\nexclusiva de música con AI",
+          "body": "Amuchart, de Hong Jong-gu, planea que cantantes reales interpreten las canciones de AI con mejor acogida.",
+          "mini_headline": "Plataforma de música AI Amuchart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
-                "cap": "La Library of Congress, sede de la U.S. Copyright Office, el 12 de mayo de 2025 en Washington, DC."
+                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+                "cap": "Hong Jong-gu, CEO (ceremonia de lanzamiento del comité organizador de los 2024 KGMA)"
               },
               {
                 "t": "p",
-                "x": "La U.S. Copyright Office abrió una investigación sobre uno de los mayores problemas de la industria musical: el fraude en streaming. En un aviso publicado el miércoles (Oct. 7) en el Federal Register, indicó que solicita datos y sugerencias que “puedan contribuir a la comprensión del Congreso sobre el fraude en streaming, los esfuerzos actuales para frenar este problema y las posibles soluciones”. Los comentarios públicos vencen el Nov. 23."
+                "x": "Hong Jong-gu, exmiembro del grupo Noise y al frente de Meta AI Lab, presentó Amuchart, la primera plataforma dedicada a los creadores de música con AI. “Partí de la idea de construir primero una plataforma capaz de acoger plenamente las canciones nacidas de la AI”, dijo."
               },
               {
                 "t": "p",
-                "x": "La investigación responde a una carta de mayo del Rep. Scott Fitzgerald (R-Wis.), quien afirmó que la oficina debía examinar las formas en que “la AI generativa puede servir de catalizador para que los delincuentes cometan fraude en streaming”."
+                "x": "Desde su apertura el 9 de septiembre, en menos de dos meses Amuchart reunió a unos 300 creadores y cerca de 9000 canciones. Los creadores deben tener 15 años o más, y el de mayor edad confirmado tiene unos 80. El creador más prolífico llegó a 180 canciones, por lo que la plataforma limitó las subidas a 5 canciones por persona al día."
               },
               {
                 "t": "p",
-                "x": "Como las DSPs reparten las regalías a partir de un fondo fijo, las reproducciones falsas desvían dinero de las reproducciones reales. Los generadores de música con AI permiten ahora a actores malintencionados producir enormes cantidades de canciones (Deezer halló que hasta el 85% de las reproducciones de pistas totalmente AI-generated en 2025 fueron fraudulentas), y la AI agéntica ha ampliado las granjas de bots."
+                "x": "Los oyentes indican su estado de ánimo y su situación por chat o por voz, y un DJ virtual les recomienda música. Además de donaciones, chat en tiempo real y mensajes por DM, ofrece 'Crew', donde los equipos crean música y compiten en batallas, y 'Scout', un sistema en el que los oyentes descubren creadores y reciben parte de los ingresos según su crecimiento (5 niveles)."
               },
               {
                 "t": "p",
-                "x": "El aviso pregunta qué esquemas son los más extendidos, cuán significativo es su impacto económico, cómo ha contribuido la AI y si la solución debería venir de una ley del Congreso. Llega un día después de que Michael Smith fuera condenado en el primer proceso por fraude en streaming en U.S., tras obtener más de $8 millones en regalías fraudulentas."
+                "x": "Ante el riesgo de una avalancha de canciones uniformes salidas de un mismo motor, prepara un sistema de 'remasterización' y mejoras en su servicio de generación musical. Hong planea organizar premios, festivales y conferencias de música AI, y ampliar el negocio de representación artística."
+              },
+              {
+                "t": "p",
+                "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
               }
             ]
           }
@@ -325,15 +366,954 @@
       }
     },
     {
-      "id": "music-grok-suno-backend",
+      "id": "music-base-for-music",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
-      "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
-      "mini_headline": "Grok, 음악은 Suno로",
+      "headline": "Google이 고른\n음악 ROI 예측 AI",
+      "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
+      "mini_headline": "Google이 고른 AI 마케팅 예측",
       "tool": "Music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/10/07/grok-bot-suno/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 2,000건 넘는 지원서 가운데 17개국 100곳 이상의 스타트업이 뽑혔다."
+          },
+          {
+            "t": "p",
+            "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music이다. 회사는 자신들이 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립돼 2025년 6월 €1.5 million(USD $1.73m)을 유치했고, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "회사는 지난 한 해 프랑스 Google for Startups 프로그램에 참여하며 자체 AI Base Intelligence를 만들었다. 이제 캠페인을 시작하기 전에 마케팅 ROI를 예측할 수 있다는 주장이다. 브라질 아티스트 Tom Ribeira가 그 예다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+          },
+          {
+            "t": "p",
+            "x": "CEO Maxence Bazin은 아직은 ROI 예측이 업계 평균에 기댄다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+          }
+        ]
+      },
+      "lead_image": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg",
+      "text": {
+        "en": {
+          "headline": "Google picks an AI that\nforecasts music marketing ROI",
+          "body": "Base for Music, a French startup using AI to predict campaign ROI, made Google's cut of 100+ from 2,000+ applicants.",
+          "mini_headline": "Google picks an AI\nmarketing forecaster",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups will host its Gemini Startup Forum, run with Google DeepMind and Google Cloud, at its Mountain View headquarters next month. More than 100 startups from 17 countries were selected from over 2,000 applications."
+              },
+              {
+                "t": "p",
+                "x": "One of them is French music marketing company Base for Music, which says it is the only music tech company in the cohort. It sells a marketing operating system that pulls ad spend, audience, CRM and streaming data into one environment to track the return on each marketing investment. Founded in 2021, it raised €1.5 million (USD $1.73m) in June 2025 and supports more than 20,000 artists and labels."
+              },
+              {
+                "t": "p",
+                "x": "The company built its own AI, Base Intelligence, over the past year as part of the Google for Startups program in France, and claims it can now predict marketing ROI before a campaign launches. It cites Brazilian artist Tom Ribeira, who went from zero to over 200,000 monthly Spotify listeners in under six months “on a €1,000 investment that became profitable within three months.”"
+              },
+              {
+                "t": "p",
+                "x": "For now, CEO Maxence Bazin says, its ROI predictions rely on industry averages: “The main piece missing today [for us] is clear, structured financial data tied to streaming revenues.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google이 고른\n음악 ROI 예측 AI",
+          "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
+          "mini_headline": "Google이 고른 AI 마케팅 예측",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 2,000건 넘는 지원서 가운데 17개국 100곳 이상의 스타트업이 뽑혔다."
+              },
+              {
+                "t": "p",
+                "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music이다. 회사는 자신들이 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립돼 2025년 6월 €1.5 million(USD $1.73m)을 유치했고, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 지난 한 해 프랑스 Google for Startups 프로그램에 참여하며 자체 AI Base Intelligence를 만들었다. 이제 캠페인을 시작하기 전에 마케팅 ROI를 예측할 수 있다는 주장이다. 브라질 아티스트 Tom Ribeira가 그 예다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "CEO Maxence Bazin은 아직은 ROI 예측이 업계 평균에 기댄다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Googleが選んだ\n音楽ROI予測AI",
+          "body": "ROI予測AIのBase for Musicが、2,000超の応募から100社に選ばれた。",
+          "mini_headline": "Googleが選んだAIマーケティング予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startupsは来月、Google DeepMind、Google Cloudと共同で、Gemini Startup ForumをMountain Viewの本社で開催する。17か国の100社を超えるスタートアップが、2,000件超の応募から選ばれた。"
+              },
+              {
+                "t": "p",
+                "x": "その一つがフランスの音楽マーケティング企業Base for Musicで、同社は選出企業の中で唯一の音楽テック企業だとしている。広告費、オーディエンス、CRM、ストリーミングのデータを一つの環境に集約し、マーケティング投資ごとのリターンを追跡するマーケティング用オペレーティングシステムを販売する。2021年に設立され、2025年6月に€1.5 million（USD $1.73m）を調達し、20,000以上のアーティストとレーベルを支援している。"
+              },
+              {
+                "t": "p",
+                "x": "同社は過去一年、フランスのGoogle for Startupsプログラムの一環として独自のAI「Base Intelligence」を構築し、キャンペーン開始前にマーケティングROIを予測できるようになったと主張する。例に挙げるのはブラジルのアーティストTom Ribeiraで、六か月足らずでSpotifyの月間リスナーをゼロから200,000人超に増やした。「€1,000の投資で、三か月以内に黒字化した」という。"
+              },
+              {
+                "t": "p",
+                "x": "CEOのMaxence Bazinによれば、現時点のROI予測は業界平均に頼っている。「今[私たちに]欠けている主なものは、ストリーミング収益と結びついた、明確で構造化された財務データだ」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google选中一款\n音乐营销ROI预测AI",
+          "body": "AI预测ROI的Base for Music从2,000多家中入选Google的100多家。",
+          "mini_headline": "Google选中的AI营销预测工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups将于下月在Mountain View总部举办与Google DeepMind、Google Cloud合作的Gemini Startup Forum。来自17个国家的100多家初创公司从2,000多份申请中入选。"
+              },
+              {
+                "t": "p",
+                "x": "其中之一是法国音乐营销公司Base for Music，该公司称自己是这一批次中唯一的音乐科技企业。它销售一套营销操作系统，将广告支出、受众、CRM和流媒体数据汇入同一环境，追踪每笔营销投入的回报。公司成立于2021年，2025年6月融资€1.5 million（USD $1.73m），目前服务超过20,000名艺人和厂牌。"
+              },
+              {
+                "t": "p",
+                "x": "过去一年，公司作为法国Google for Startups项目的一部分，自研了AI系统Base Intelligence，并称如今能在营销活动上线前预测营销ROI。它举例巴西艺人Tom Ribeira：不到六个月，其Spotify月度听众从零增至200,000多人，“靠€1,000的投入，三个月内就实现盈利”。"
+              },
+              {
+                "t": "p",
+                "x": "CEO Maxence Bazin表示，目前其ROI预测依赖行业平均值：“今天[我们]最缺的，是与流媒体收入挂钩的清晰、结构化的财务数据。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google elige una AI que predice\nel ROI del marketing musical",
+          "body": "Base for Music, startup francesa que predice con AI el ROI de campañas, está entre 100+ elegidas por Google de 2,000+.",
+          "mini_headline": "Google elige una AI de pronóstico de marketing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups celebrará el próximo mes en su sede de Mountain View el Gemini Startup Forum, organizado con Google DeepMind y Google Cloud. Más de 100 startups de 17 países fueron seleccionadas entre más de 2,000 solicitudes."
+              },
+              {
+                "t": "p",
+                "x": "Una de ellas es la empresa francesa de marketing musical Base for Music, que afirma ser la única compañía de tecnología musical del grupo. Vende un sistema operativo de marketing que reúne datos de inversión publicitaria, audiencia, CRM y streaming en un solo entorno para seguir el retorno de cada inversión en marketing. Fundada en 2021, recaudó €1.5 millones (USD $1.73m) en junio de 2025 y da soporte a más de 20,000 artistas y sellos."
+              },
+              {
+                "t": "p",
+                "x": "Durante el último año, la empresa creó su propia AI, Base Intelligence, dentro del programa Google for Startups en Francia, y afirma que ya puede predecir el ROI de marketing antes del lanzamiento de una campaña. Cita al artista brasileño Tom Ribeira, que pasó de cero a más de 200,000 oyentes mensuales en Spotify en menos de seis meses “con una inversión de €1,000 que fue rentable en tres meses”."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora, según el CEO Maxence Bazin, sus predicciones de ROI se basan en promedios del sector: “La principal pieza que [nos] falta hoy son datos financieros claros y estructurados vinculados a los ingresos por streaming”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google이 고른\n음악 ROI 예측 AI",
+          "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
+          "mini_headline": "Google이 고른 AI 마케팅 예측",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 17개국 100곳 이상의 스타트업이 2,000건 넘는 지원서 가운데서 선정됐다."
+              },
+              {
+                "t": "p",
+                "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music으로, 이 회사는 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립됐고 2025년 6월 €1.5 million(USD $1.73m)을 유치했으며, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 지난 한 해 동안 프랑스 Google for Startups 프로그램의 일환으로 자체 AI인 Base Intelligence를 만들었고, 이제 캠페인 시작 전에 마케팅 ROI를 예측할 수 있다고 주장한다. 예로 드는 것은 브라질 아티스트 Tom Ribeira다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+              },
+              {
+                "t": "p",
+                "x": "CEO Maxence Bazin은 현재로서는 ROI 예측이 업계 평균에 기대고 있다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Googleが選んだ\n音楽ROI予測AI",
+          "body": "ROI予測AIのBase for Musicが、2,000超の応募から100社に選ばれた。",
+          "mini_headline": "Googleが選んだAIマーケティング予測",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startupsは来月、Google DeepMind、Google Cloudと共同で、Gemini Startup ForumをMountain Viewの本社で開催する。17か国の100社を超えるスタートアップが、2,000件超の応募から選ばれた。"
+              },
+              {
+                "t": "p",
+                "x": "その一つがフランスの音楽マーケティング企業Base for Musicで、同社は選出企業の中で唯一の音楽テック企業だとしている。広告費、オーディエンス、CRM、ストリーミングのデータを一つの環境に集約し、マーケティング投資ごとのリターンを追跡するマーケティング用オペレーティングシステムを販売する。2021年に設立され、2025年6月に€1.5 million（USD $1.73m）を調達し、20,000以上のアーティストとレーベルを支援している。"
+              },
+              {
+                "t": "p",
+                "x": "同社は過去一年、フランスのGoogle for Startupsプログラムの一環として独自のAI「Base Intelligence」を構築し、キャンペーン開始前にマーケティングROIを予測できるようになったと主張する。例に挙げるのはブラジルのアーティストTom Ribeiraで、六か月足らずでSpotifyの月間リスナーをゼロから200,000人超に増やした。「€1,000の投資で、三か月以内に黒字化した」という。"
+              },
+              {
+                "t": "p",
+                "x": "CEOのMaxence Bazinによれば、現時点のROI予測は業界平均に頼っている。「今[私たちに]欠けている主なものは、ストリーミング収益と結びついた、明確で構造化された財務データだ」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google选中一款\n音乐营销ROI预测AI",
+          "body": "AI预测ROI的Base for Music从2,000多家中入选Google的100多家。",
+          "mini_headline": "Google选中的AI营销预测工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups将于下月在Mountain View总部举办与Google DeepMind、Google Cloud合作的Gemini Startup Forum。来自17个国家的100多家初创公司从2,000多份申请中入选。"
+              },
+              {
+                "t": "p",
+                "x": "其中之一是法国音乐营销公司Base for Music，该公司称自己是这一批次中唯一的音乐科技企业。它销售一套营销操作系统，将广告支出、受众、CRM和流媒体数据汇入同一环境，追踪每笔营销投入的回报。公司成立于2021年，2025年6月融资€1.5 million（USD $1.73m），目前服务超过20,000名艺人和厂牌。"
+              },
+              {
+                "t": "p",
+                "x": "过去一年，公司作为法国Google for Startups项目的一部分，自研了AI系统Base Intelligence，并称如今能在营销活动上线前预测营销ROI。它举例巴西艺人Tom Ribeira：不到六个月，其Spotify月度听众从零增至200,000多人，“靠€1,000的投入，三个月内就实现盈利”。"
+              },
+              {
+                "t": "p",
+                "x": "CEO Maxence Bazin表示，目前其ROI预测依赖行业平均值：“今天[我们]最缺的，是与流媒体收入挂钩的清晰、结构化的财务数据。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google elige una AI que predice\nel ROI del marketing musical",
+          "body": "Base for Music, startup francesa que predice con AI el ROI de campañas, está entre 100+ elegidas por Google de 2,000+.",
+          "mini_headline": "Google elige una AI de pronóstico de marketing",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google for Startups celebrará el próximo mes en su sede de Mountain View el Gemini Startup Forum, organizado con Google DeepMind y Google Cloud. Más de 100 startups de 17 países fueron seleccionadas entre más de 2,000 solicitudes."
+              },
+              {
+                "t": "p",
+                "x": "Una de ellas es la empresa francesa de marketing musical Base for Music, que afirma ser la única compañía de tecnología musical del grupo. Vende un sistema operativo de marketing que reúne datos de inversión publicitaria, audiencia, CRM y streaming en un solo entorno para seguir el retorno de cada inversión en marketing. Fundada en 2021, recaudó €1.5 millones (USD $1.73m) en junio de 2025 y da soporte a más de 20,000 artistas y sellos."
+              },
+              {
+                "t": "p",
+                "x": "Durante el último año, la empresa creó su propia AI, Base Intelligence, dentro del programa Google for Startups en Francia, y afirma que ya puede predecir el ROI de marketing antes del lanzamiento de una campaña. Cita al artista brasileño Tom Ribeira, que pasó de cero a más de 200,000 oyentes mensuales en Spotify en menos de seis meses “con una inversión de €1,000 que fue rentable en tres meses”."
+              },
+              {
+                "t": "p",
+                "x": "Por ahora, según el CEO Maxence Bazin, sus predicciones de ROI se basan en promedios del sector: “La principal pieza que [nos] falta hoy son datos financieros claros y estructurados vinculados a los ingresos por streaming”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-riaa-nofakes",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
+      "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
+      "mini_headline": "RIAA 수장, NO FAKES에 건다",
+      "tool": "Music",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "eCLR1kMf4H8"
+          },
+          {
+            "t": "p",
+            "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 공들이는 법안은 허락 없는 딥페이크를 막는 NO FAKES Act다. 지지층은 지금 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 넓다."
+          },
+          {
+            "t": "p",
+            "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 지지는 거의 만장일치에 가까웠지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보면서도 2027년에 다시 발의될 가능성이 더 크다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들은 AI가 인간적 요소를 밀어내는 걸 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+          },
+          {
+            "t": "p",
+            "x": "법안이 말하는 디지털 복제물은 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라는 게 그의 설명이다. 그러면서 “It is really about AI cloning.”이라고 덧붙였다."
+          }
+        ]
+      },
+      "lead_image": "https://www.billboard.com/wp-content/uploads/2026/10/Mitch-Glazier-2024-billboard-1800.jpg?w=1024",
+      "text": {
+        "en": {
+          "headline": "RIAA chief: AI is no Napster,\nand NO FAKES can still pass",
+          "body": "RIAA CEO Mitch Glazier called AI the opposite of Napster as fans side with artists, and sees a real shot for NO FAKES.",
+          "mini_headline": "RIAA chief bets on\nNO FAKES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "On Billboard On the Record, RIAA chairman/CEO Mitch Glazier discussed the midterms, the Trump administration and AI. His biggest push is the NO FAKES Act, a bill guarding against unauthorized deepfakes, now backed by supporters ranging from Google and OpenAI to SAG-AFTRA and the Motion Picture Association."
+              },
+              {
+                "t": "p",
+                "x": "Last week Sen. Marsha Blackburn took the bill to the Senate floor; it received nearly universal support but was blocked by Sen. Ted Cruz over exceptions for satire and political commentary. Glazier says it has “a real shot” at unanimous consent in the lame duck period, though more likely it will be reintroduced in 2027."
+              },
+              {
+                "t": "p",
+                "x": "Asked whether generative AI is music’s next Napster moment, Glazier said, “I think it’s the opposite.” With Napster the industry was fighting fans; with AI, “the fans, the people, they’re with us,” wary of AI replacing the human element — polling numbers, he said, are “like, 92%.”"
+              },
+              {
+                "t": "p",
+                "x": "He described the bill’s definition of a digital replica as “a highly realistic, computer-generated replica of your voice or your likeness” used without consent: “It is really about AI cloning.”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "RIAA: la AI no es Napster y\nNO FAKES aún puede aprobarse",
+          "body": "Mitch Glazier, CEO de la RIAA, dice que la AI es lo opuesto a Napster y ve una opción real para NO FAKES.",
+          "mini_headline": "El jefe de la RIAA apuesta por NO FAKES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "En Billboard On the Record, el presidente y CEO de la RIAA, Mitch Glazier, habló de las elecciones de medio mandato, la administración Trump y la AI. Su mayor apuesta es la NO FAKES Act, un proyecto de ley contra los deepfakes no autorizados que hoy cuenta con apoyos que van de Google y OpenAI a SAG-AFTRA y la Motion Picture Association."
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada, la senadora Marsha Blackburn llevó el proyecto al pleno del Senado; recibió un apoyo casi unánime, pero el senador Ted Cruz lo bloqueó por las excepciones para la sátira y el comentario político. Glazier dice que tiene “una opción real” de aprobarse por consentimiento unánime en el periodo de transición del Congreso saliente, aunque lo más probable es que se vuelva a presentar en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarle si la AI generativa es el próximo momento Napster de la música, Glazier dijo: “Creo que es lo contrario”. Con Napster la industria luchaba contra los fans; con la AI, “los fans, la gente, están con nosotros”, recelosos de que la AI sustituya el elemento humano; las encuestas, dijo, rondan “el 92%”."
+              },
+              {
+                "t": "p",
+                "x": "Describió la definición de réplica digital del proyecto como “una réplica muy realista, generada por computadora (computer-generated), de tu voz o tu imagen” usada sin consentimiento: “En realidad se trata de la clonación con AI”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
+          "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
+          "mini_headline": "RIAA 수장, NO FAKES에 건다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 공들이는 법안은 허락 없는 딥페이크를 막는 NO FAKES Act다. 지지층은 지금 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 넓다."
+              },
+              {
+                "t": "p",
+                "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 지지는 거의 만장일치에 가까웠지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보면서도 2027년에 다시 발의될 가능성이 더 크다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들은 AI가 인간적 요소를 밀어내는 걸 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+              },
+              {
+                "t": "p",
+                "x": "법안이 말하는 디지털 복제물은 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라는 게 그의 설명이다. 그러면서 “It is really about AI cloning.”이라고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "RIAAトップ、なお\nNO FAKES成立に期待",
+          "body": "RIAAのGlazierはAIをNapsterの逆と呼び、NO FAKES成立に望みを見る。",
+          "mini_headline": "RIAAトップ、NO FAKESに賭ける",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA会長兼CEOのMitch GlazierはBillboard On the Recordで、中間選挙、Trump政権、AIについて語った。最も力を入れるのは、無許可のディープフェイクを防ぐ法案NO FAKES Actだ。支持はGoogleやOpenAIからSAG-AFTRA、Motion Picture Associationにまで広がっている。"
+              },
+              {
+                "t": "p",
+                "x": "先週、Marsha Blackburn上院議員が法案を上院本会議に持ち込んだ。ほぼ全面的な支持を得たが、風刺や政治的論評の例外をめぐりTed Cruz上院議員に阻まれた。Glazierはレームダック期間に全会一致の同意を得る「a real shot」があるとみるが、2027年に再提出される可能性のほうが高いという。"
+              },
+              {
+                "t": "p",
+                "x": "生成AIは音楽業界にとって次のNapsterの瞬間かと問われ、Glazierは「I think it’s the opposite.」と答えた。Napsterのとき業界はファンと戦っていたが、AIでは「the fans, the people, they’re with us」であり、人々はAIが人間的な要素に取って代わることを警戒している。世論調査の数字は「like, 92%.」だと彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "彼は法案におけるデジタル複製の定義を、同意なく使われる「a highly realistic, computer-generated replica of your voice or your likeness」と説明し、「It is really about AI cloning.」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "RIAA掌门人：\nNO FAKES仍有望通过",
+          "body": "RIAA的Glazier称AI与Napster相反，并认为NO FAKES确有通过机会。",
+          "mini_headline": "RIAA掌门人押注NO FAKES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA董事长兼CEO Mitch Glazier在Billboard On the Record节目中谈及中期选举、Trump政府和AI。他最着力推动的是NO FAKES Act，这项法案旨在防范未经授权的深度伪造，如今支持者从Google、OpenAI一直延伸到SAG-AFTRA和Motion Picture Association。"
+              },
+              {
+                "t": "p",
+                "x": "上周，参议员Marsha Blackburn将法案提交参议院全体会议，获得近乎一致的支持，却因讽刺和政治评论的例外条款遭参议员Ted Cruz阻挡。Glazier表示，法案在跛脚鸭会期以一致同意方式通过有“a real shot”，但更可能在2027年重新提出。"
+              },
+              {
+                "t": "p",
+                "x": "被问到生成式AI是否会成为音乐业的下一个Napster时刻，Glazier说：“I think it’s the opposite.”Napster时期，行业是在与粉丝对抗；而在AI问题上，“the fans, the people, they’re with us”，人们担心AI取代人的因素。他说，民调数字“like, 92%.”"
+              },
+              {
+                "t": "p",
+                "x": "他介绍，法案对数字复制品的定义是未经同意使用的“a highly realistic, computer-generated replica of your voice or your likeness”，并说：“It is really about AI cloning.”"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "RIAA: la AI no es Napster y\nNO FAKES aún puede aprobarse",
+          "body": "Mitch Glazier, CEO de la RIAA, dice que la AI es lo opuesto a Napster y ve una opción real para NO FAKES.",
+          "mini_headline": "El jefe de la RIAA apuesta por NO FAKES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "En Billboard On the Record, el presidente y CEO de la RIAA, Mitch Glazier, habló de las elecciones de medio mandato, la administración Trump y la AI. Su mayor apuesta es la NO FAKES Act, un proyecto de ley contra los deepfakes no autorizados que hoy cuenta con apoyos que van de Google y OpenAI a SAG-AFTRA y la Motion Picture Association."
+              },
+              {
+                "t": "p",
+                "x": "La semana pasada, la senadora Marsha Blackburn llevó el proyecto al pleno del Senado; recibió un apoyo casi unánime, pero el senador Ted Cruz lo bloqueó por las excepciones para la sátira y el comentario político. Glazier dice que tiene “una opción real” de aprobarse por consentimiento unánime en el periodo de transición del Congreso saliente, aunque lo más probable es que se vuelva a presentar en 2027."
+              },
+              {
+                "t": "p",
+                "x": "Al preguntarle si la AI generativa es el próximo momento Napster de la música, Glazier dijo: “Creo que es lo contrario”. Con Napster la industria luchaba contra los fans; con la AI, “los fans, la gente, están con nosotros”, recelosos de que la AI sustituya el elemento humano; las encuestas, dijo, rondan “el 92%”."
+              },
+              {
+                "t": "p",
+                "x": "Describió la definición de réplica digital del proyecto como “una réplica muy realista, generada por computadora (computer-generated), de tu voz o tu imagen” usada sin consentimiento: “En realidad se trata de la clonación con AI”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
+          "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
+          "mini_headline": "RIAA 수장, NO FAKES에 건다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 힘을 쏟는 것은 허락 없는 딥페이크를 막는 법안인 NO FAKES Act로, 지금은 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 지지층이 넓다."
+              },
+              {
+                "t": "p",
+                "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 거의 만장일치에 가까운 지지를 받았지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보지만, 2027년에 다시 발의될 가능성이 더 크다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들이 AI가 인간적 요소를 대체하는 것을 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 법안이 정의하는 디지털 복제물을 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라고 설명하며 “It is really about AI cloning.”이라고 했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "RIAAトップ、なお\nNO FAKES成立に期待",
+          "body": "RIAAのGlazierはAIをNapsterの逆と呼び、NO FAKES成立に望みを見る。",
+          "mini_headline": "RIAAトップ、NO FAKESに賭ける",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA会長兼CEOのMitch GlazierはBillboard On the Recordで、中間選挙、Trump政権、AIについて語った。最も力を入れるのは、無許可のディープフェイクを防ぐ法案NO FAKES Actだ。支持はGoogleやOpenAIからSAG-AFTRA、Motion Picture Associationにまで広がっている。"
+              },
+              {
+                "t": "p",
+                "x": "先週、Marsha Blackburn上院議員が法案を上院本会議に持ち込んだ。ほぼ全面的な支持を得たが、風刺や政治的論評の例外をめぐりTed Cruz上院議員に阻まれた。Glazierはレームダック期間に全会一致の同意を得る「a real shot」があるとみるが、2027年に再提出される可能性のほうが高いという。"
+              },
+              {
+                "t": "p",
+                "x": "生成AIは音楽業界にとって次のNapsterの瞬間かと問われ、Glazierは「I think it’s the opposite.」と答えた。Napsterのとき業界はファンと戦っていたが、AIでは「the fans, the people, they’re with us」であり、人々はAIが人間的な要素に取って代わることを警戒している。世論調査の数字は「like, 92%.」だと彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "彼は法案におけるデジタル複製の定義を、同意なく使われる「a highly realistic, computer-generated replica of your voice or your likeness」と説明し、「It is really about AI cloning.」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "RIAA掌门人：\nNO FAKES仍有望通过",
+          "body": "RIAA的Glazier称AI与Napster相反，并认为NO FAKES确有通过机会。",
+          "mini_headline": "RIAA掌门人押注NO FAKES",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eCLR1kMf4H8"
+              },
+              {
+                "t": "p",
+                "x": "RIAA董事长兼CEO Mitch Glazier在Billboard On the Record节目中谈及中期选举、Trump政府和AI。他最着力推动的是NO FAKES Act，这项法案旨在防范未经授权的深度伪造，如今支持者从Google、OpenAI一直延伸到SAG-AFTRA和Motion Picture Association。"
+              },
+              {
+                "t": "p",
+                "x": "上周，参议员Marsha Blackburn将法案提交参议院全体会议，获得近乎一致的支持，却因讽刺和政治评论的例外条款遭参议员Ted Cruz阻挡。Glazier表示，法案在跛脚鸭会期以一致同意方式通过有“a real shot”，但更可能在2027年重新提出。"
+              },
+              {
+                "t": "p",
+                "x": "被问到生成式AI是否会成为音乐业的下一个Napster时刻，Glazier说：“I think it’s the opposite.”Napster时期，行业是在与粉丝对抗；而在AI问题上，“the fans, the people, they’re with us”，人们担心AI取代人的因素。他说，民调数字“like, 92%.”"
+              },
+              {
+                "t": "p",
+                "x": "他介绍，法案对数字复制品的定义是未经同意使用的“a highly realistic, computer-generated replica of your voice or your likeness”，并说：“It is really about AI cloning.”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-human-disclosure",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
+      "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
+      "mini_headline": "인간 기여도를 밝혀라",
+      "tool": "Music",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/who-actually-made-this-the-question-ai-is-forcing-music-to-ask/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들였다고 말한다. 그런데 AI는 다르다. 인간의 기여를 선택 사항으로 만들 수 있다. 그러니 물어야 할 것은 누가 실제로 곡을 만들었느냐다."
+          },
+          {
+            "t": "p",
+            "x": "그가 인용한 University of Chicago 연구에서는 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다. 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례도 든다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+          },
+          {
+            "t": "p",
+            "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 썼다. 청취자가 원하는 건 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+          }
+        ]
+      },
+      "lead_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg",
+      "text": {
+        "en": {
+          "headline": "The line isn't AI, it's\nhow much a human made",
+          "body": "An op-ed argues AI can support music-making, but disclosing how much a human was involved keeps the artist-fan bond.",
+          "mini_headline": "Disclose how much\na human made",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In a Hypebot op-ed, Rap Fame’s Head of Content and Community John Lister argues hip-hop has always embraced new tech, from drum machines to Auto-Tune. But unlike those tools, AI can make the human contribution optional — so the key question becomes who actually made a track."
+              },
+              {
+                "t": "p",
+                "x": "He notes a University of Chicago study found 93% of AI-generated tracks it examined got few, if any, plays, and points to Tyga’s $TARFACE album, made partly with AI, which Pitchfork rated 0.0."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "Using AI to brainstorm, extend a melody or clean a vocal doesn’t make music meaningless, he writes. What listeners want is disclosure: if a human wrote it, say so; if a human and AI made it together, say so; if a machine made the whole thing, say so. “The problem comes when people pretend these three things are the same.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
+          "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
+          "mini_headline": "인간 기여도를 밝혀라",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들였다고 말한다. 그런데 AI는 다르다. 인간의 기여를 선택 사항으로 만들 수 있다. 그러니 물어야 할 것은 누가 실제로 곡을 만들었느냐다."
+              },
+              {
+                "t": "p",
+                "x": "그가 인용한 University of Chicago 연구에서는 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다. 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례도 든다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 썼다. 청취자가 원하는 건 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "線引きはAIではなく\n人が作った度合いだ",
+          "body": "AIはmusic-makingを支えうるが、人の関与の開示がartist-fanの絆を保つ。",
+          "mini_headline": "人の関与の度合いを開示せよ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap FameのHead of Content and CommunityであるJohn ListerはHypebotのop-edで、ドラムマシンからAuto-Tuneまで、ヒップホップ（hip-hop）は常に新しい技術を取り入れてきたと論じる。だがAIはそうした道具と違い、人間の貢献を任意のものにしうる。だからこそ核心の問いは、誰が実際にその曲を作ったのかになる。"
+              },
+              {
+                "t": "p",
+                "x": "彼は、University of Chicagoの研究で調べたAI生成（AI-generated）トラックの93%がほとんど、あるいはまったく再生されなかったと指摘し、一部をAIで制作したTygaのアルバム『$TARFACE』がPitchforkで0.0と評価された例を挙げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "ブレインストーミングやメロディの展開、ボーカルの整音にAIを使っても、音楽が無意味になるわけではないと彼は書く。リスナーが求めているのは開示だ。人間が書いたならそう言い、人間とAIが一緒に作ったならそう言い、機械がすべて作ったならそう言えばいい。「問題は、人々がこの三つを同じものであるかのように装うときに生じる」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "界线不在AI\n而在人类参与多少",
+          "body": "op-ed称AI可助music-making，公开人类参与度能维系artist-fan关系。",
+          "mini_headline": "公开人类参与程度",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap Fame的Head of Content and Community John Lister在Hypebot的一篇op-ed中指出，从鼓机到Auto-Tune，嘻哈（hip-hop）一直在拥抱新技术。但与这些工具不同，AI可以让人的贡献变得可有可无——因此关键问题变成了：一首歌究竟是谁做的。"
+              },
+              {
+                "t": "p",
+                "x": "他提到，University of Chicago的一项研究发现，其考察的AI生成（AI-generated）曲目中有93%播放量寥寥甚至为零；他还以Tyga部分借助AI制作的专辑$TARFACE为例，Pitchfork给它打了0.0分。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "他写道，用AI做头脑风暴、延展旋律或清理人声，并不会让音乐变得毫无意义。听众想要的是披露：如果是人写的，就说明；如果是人与AI合作完成的，就说明；如果全部由机器完成，也要说明。“问题出在人们假装这三种情况是一回事的时候。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La línea no es la AI, sino\ncuánto hizo un humano",
+          "body": "Un op-ed dice que la AI puede apoyar el music-making, pero revelar el aporte humano protege el vínculo artist-fan.",
+          "mini_headline": "Revelar cuánto hizo un humano",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En un op-ed en Hypebot, John Lister, Head of Content and Community de Rap Fame, sostiene que el hip-hop siempre ha adoptado nuevas tecnologías, de las cajas de ritmos al Auto-Tune. Pero, a diferencia de esas herramientas, la AI puede volver opcional la contribución humana, así que la pregunta clave pasa a ser quién hizo realmente una canción."
+              },
+              {
+                "t": "p",
+                "x": "Señala que un estudio de la University of Chicago halló que el 93% de las pistas AI-generated que examinó tuvo pocas reproducciones o ninguna, y menciona el álbum $TARFACE de Tyga, hecho en parte con AI, al que Pitchfork calificó con 0.0."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "Usar la AI para generar ideas, extender una melodía o limpiar una voz no vacía de sentido la música, escribe. Lo que quieren los oyentes es transparencia: si lo escribió una persona, que se diga; si lo hicieron juntos una persona y la AI, que se diga; si lo hizo todo una máquina, que se diga. “El problema surge cuando la gente finge que estas tres cosas son lo mismo”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
+          "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
+          "mini_headline": "인간 기여도를 밝혀라",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들여 왔다고 말한다. 하지만 AI는 그런 도구와 달리 인간의 기여를 선택 사항으로 만들 수 있다. 그래서 핵심 질문은 누가 실제로 곡을 만들었느냐가 된다."
+              },
+              {
+                "t": "p",
+                "x": "그는 University of Chicago 연구에서 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다고 짚는다. 또 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례를 든다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 쓴다. 청취자가 원하는 것은 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "線引きはAIではなく\n人が作った度合いだ",
+          "body": "AIはmusic-makingを支えうるが、人の関与の開示がartist-fanの絆を保つ。",
+          "mini_headline": "人の関与の度合いを開示せよ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap FameのHead of Content and CommunityであるJohn ListerはHypebotのop-edで、ドラムマシンからAuto-Tuneまで、ヒップホップ（hip-hop）は常に新しい技術を取り入れてきたと論じる。だがAIはそうした道具と違い、人間の貢献を任意のものにしうる。だからこそ核心の問いは、誰が実際にその曲を作ったのかになる。"
+              },
+              {
+                "t": "p",
+                "x": "彼は、University of Chicagoの研究で調べたAI生成（AI-generated）トラックの93%がほとんど、あるいはまったく再生されなかったと指摘し、一部をAIで制作したTygaのアルバム『$TARFACE』がPitchforkで0.0と評価された例を挙げる。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "ブレインストーミングやメロディの展開、ボーカルの整音にAIを使っても、音楽が無意味になるわけではないと彼は書く。リスナーが求めているのは開示だ。人間が書いたならそう言い、人間とAIが一緒に作ったならそう言い、機械がすべて作ったならそう言えばいい。「問題は、人々がこの三つを同じものであるかのように装うときに生じる」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "界线不在AI\n而在人类参与多少",
+          "body": "op-ed称AI可助music-making，公开人类参与度能维系artist-fan关系。",
+          "mini_headline": "公开人类参与程度",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Rap Fame的Head of Content and Community John Lister在Hypebot的一篇op-ed中指出，从鼓机到Auto-Tune，嘻哈（hip-hop）一直在拥抱新技术。但与这些工具不同，AI可以让人的贡献变得可有可无——因此关键问题变成了：一首歌究竟是谁做的。"
+              },
+              {
+                "t": "p",
+                "x": "他提到，University of Chicago的一项研究发现，其考察的AI生成（AI-generated）曲目中有93%播放量寥寥甚至为零；他还以Tyga部分借助AI制作的专辑$TARFACE为例，Pitchfork给它打了0.0分。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "他写道，用AI做头脑风暴、延展旋律或清理人声，并不会让音乐变得毫无意义。听众想要的是披露：如果是人写的，就说明；如果是人与AI合作完成的，就说明；如果全部由机器完成，也要说明。“问题出在人们假装这三种情况是一回事的时候。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La línea no es la AI, sino\ncuánto hizo un humano",
+          "body": "Un op-ed dice que la AI puede apoyar el music-making, pero revelar el aporte humano protege el vínculo artist-fan.",
+          "mini_headline": "Revelar cuánto hizo un humano",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En un op-ed en Hypebot, John Lister, Head of Content and Community de Rap Fame, sostiene que el hip-hop siempre ha adoptado nuevas tecnologías, de las cajas de ritmos al Auto-Tune. Pero, a diferencia de esas herramientas, la AI puede volver opcional la contribución humana, así que la pregunta clave pasa a ser quién hizo realmente una canción."
+              },
+              {
+                "t": "p",
+                "x": "Señala que un estudio de la University of Chicago halló que el 93% de las pistas AI-generated que examinó tuvo pocas reproducciones o ninguna, y menciona el álbum $TARFACE de Tyga, hecho en parte con AI, al que Pitchfork calificó con 0.0."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+              },
+              {
+                "t": "p",
+                "x": "Usar la AI para generar ideas, extender una melodía o limpiar una voz no vacía de sentido la música, escribe. Lo que quieren los oyentes es transparencia: si lo escribió una persona, que se diga; si lo hicieron juntos una persona y la AI, que se diga; si lo hizo todo una máquina, que se diga. “El problema surge cuando la gente finge que estas tres cosas son lo mismo”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-kpop-ai-conductors",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI를 지휘하는\nK팝 창작자들",
+      "body": "생성형 AI 시대, K팝 창작자는 AI를 지휘하며 대체 불가능한 일에 집중한다.",
+      "mini_headline": "AI 지휘하는 K팝",
+      "tool": "Music",
+      "source": "일간스포츠",
+      "url": "https://isplus.com/article/view/isp202609280072",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -341,1019 +1321,306 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-            "cap": "사진: Mariia Berezovsky"
+            "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+            "cap": "본 이미지는 AI 기술을 활용해 제작되었습니다. 사진=IS포토"
           },
           {
             "t": "p",
-            "x": "Elon Musk가 X에 올린 짧은 게시물에 따르면, SpaceXAI의 Grok Bot이 Suno의 음악 생성 모델을 공식적으로 쓰기 시작한다. Grok Bot은 “실제로 일을 해 주는 AI 팀원”을 내세운 서비스다."
+            "x": "일간스포츠 기획 시리즈 [K팝과 AI 혁명]은 작곡·작업실, 버추얼 아이돌·팬덤, 뮤직비디오 제작 현장이라는 K팝 프로덕션의 세 축을 9회에 걸쳐 조명했다. 현장의 실상은 단순한 기술적 공포나 환호와는 거리가 멀었다."
           },
           {
             "t": "p",
-            "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+            "x": "한국음악저작권협회가 AI 음악 등록 가이드라인을 발표했다가 22일 만에 백지화하고, 크레딧에 올리지 못하는 ‘유령 어시스턴트’를 두는 상황에서도 현장은 이미 AI를 전면 수용하고 있었다. 27년 차 김원종 프로듀서의 작업실에서 AI는 초안부터 가사·편곡·믹싱까지 송라이팅 캠프를 대체하며 제작비를 1000분의 1 수준으로 줄였다. 수억 원대 뮤직비디오 세트·VFX 비용은 AI와 입체 촬영의 결합으로 10분의 1 수준으로 줄었다."
           },
           {
             "t": "p",
-            "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 나오지 않았다. X 사용자들은 출시 일정과 결과물의 권리를 묻는다. 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 짚었다."
+            "x": "창작자의 역할도 재정의되고 있다. AI가 대량의 소스와 시안을 만드는 동안 작곡가와 연출가는 전체 콘셉트를 조율하고 기술을 통제하는 지휘자로 진화한다. 노지훈 감독은 “버튼 하나 누르면 뚝딱 완성된다는 것은 오해”이며 원하는 컷을 건져내는 것은 결국 창작자의 안목과 취향이라고 지적했다. 다만 신인들이 경험을 쌓을 사다리가 흔들리는 부작용도 생기고 있다."
           },
           {
             "t": "p",
-            "x": "한편 ElevenLabs는 음악으로 발을 넓히는 중이고, Suno는 시월 초 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 내놓았다. 이탈리아에서 약관을 문제 삼은 조사까지 더해져 Suno의 법적 분쟁은 좀처럼 끝나지 않는다."
+            "x": "기술이 고도화될수록 팬들이 찾는 것은 인간 고유의 경험과 교감, 즉 ‘휴먼 터치’였다. 산업의 핵심 질문은 ‘무엇을 AI로 대체할 것인가’가 아니라 ‘기술로 대체되지 않는 요소를 어떻게 발굴하고 키울 것인가’에 있다."
           }
         ]
       },
+      "lead_image": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
       "text": {
-        "en": {
-          "headline": "Grok will hand music\ngeneration to Suno",
-          "body": "Elon Musk says Grok Bot will use Suno and other leading back-end models, picking the best one for each task.",
-          "mini_headline": "Grok routes music\nto Suno",
+        "ko": {
+          "headline": "AI를 지휘하는\nK팝 창작자들",
+          "body": "생성형 AI 시대, K팝 창작자는 AI를 지휘하며 대체 불가능한 일에 집중한다.",
+          "mini_headline": "AI 지휘하는 K팝",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "Photo Credit: Mariia Berezovsky"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "본 이미지는 AI 기술을 활용해 제작되었습니다. 사진=IS포토"
               },
               {
                 "t": "p",
-                "x": "SpaceXAI’s Grok Bot, which is said to provide “AI teammates that do real work for you,” is officially set to begin utilizing Suno’s music generation models, according to a brief X post from Elon Musk."
+                "x": "일간스포츠 기획 시리즈 [K팝과 AI 혁명]은 작곡·작업실, 버추얼 아이돌·팬덤, 뮤직비디오 제작 현장이라는 K팝 프로덕션의 세 축을 9회에 걸쳐 조명했다. 현장의 실상은 단순한 기술적 공포나 환호와는 거리가 멀었다."
               },
               {
                 "t": "p",
-                "x": "“Important note regarding Grok @bot: Going forward, @SpaceX will use the best back end model for any given task, including Claude Opus 5.5, MidJourney, Suno and other leading APIs. Whatever is most likely to give you the best outcome,” he wrote."
+                "x": "한국음악저작권협회가 AI 음악 등록 가이드라인을 발표했다가 22일 만에 백지화하고, 크레딧에 올리지 못하는 ‘유령 어시스턴트’를 두는 상황에서도 현장은 이미 AI를 전면 수용하고 있었다. 27년 차 김원종 프로듀서의 작업실에서 AI는 초안부터 가사·편곡·믹싱까지 송라이팅 캠프를 대체하며 제작비를 1000분의 1 수준으로 줄였다. 수억 원대 뮤직비디오 세트·VFX 비용은 AI와 입체 촬영의 결합으로 10분의 1 수준으로 줄었다."
               },
               {
                 "t": "p",
-                "x": "Musk added that most Grok Bot requests “are pretty simple and will be handled by a lightning-fast version of Grok 4.8 when that comes out.” Few other details are available; users on X are asking about the rollout timetable and the rights attached to outputs, and one noted that Suno and Midjourney don’t “have official API products.”"
+                "x": "창작자의 역할도 재정의되고 있다. AI가 대량의 소스와 시안을 만드는 동안 작곡가와 연출가는 전체 콘셉트를 조율하고 기술을 통제하는 지휘자로 진화한다. 노지훈 감독은 “버튼 하나 누르면 뚝딱 완성된다는 것은 오해”이며 원하는 컷을 건져내는 것은 결국 창작자의 안목과 취향이라고 지적했다. 다만 신인들이 경험을 쌓을 사다리가 흔들리는 부작용도 생기고 있다."
               },
               {
                 "t": "p",
-                "x": "Meanwhile ElevenLabs is expanding into music, and Suno kicked off October by launching Speech, “the first audio model that generates voice and music together as one cohesive track.” Suno’s legal battles, now including a terms-focused investigation in Italy, continue."
+                "x": "기술이 고도화될수록 팬들이 찾는 것은 인간 고유의 경험과 교감, 즉 ‘휴먼 터치’였다. 산업의 핵심 질문은 ‘무엇을 AI로 대체할 것인가’가 아니라 ‘기술로 대체되지 않는 요소를 어떻게 발굴하고 키울 것인가’에 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
-          "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
-          "mini_headline": "Grok, 음악은 Suno로",
+        "en": {
+          "headline": "K-pop creators\nconducting AI",
+          "body": "In the generative AI era, K-pop creators conduct AI and focus on the work that cannot be replaced.",
+          "mini_headline": "K-pop conducting AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "사진: Mariia Berezovsky"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "This image was created using AI technology. Photo=IS Photo"
               },
               {
                 "t": "p",
-                "x": "Elon Musk가 X에 올린 짧은 게시물에 따르면, SpaceXAI의 Grok Bot이 Suno의 음악 생성 모델을 공식적으로 쓰기 시작한다. Grok Bot은 “실제로 일을 해 주는 AI 팀원”을 내세운 서비스다."
+                "x": "Ilgan Sports' special series [K-pop and the AI Revolution] examined three pillars of K-pop production over 9 installments: songwriting and the studio, virtual idols and fandom, and music video production. The reality on the ground was far from simple fear of, or enthusiasm for, the technology."
               },
               {
                 "t": "p",
-                "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
+                "x": "Even as the Korea Music Copyright Association announced AI music registration guidelines and scrapped them 22 days later, and studios kept 'ghost assistants' who cannot be credited, the field had already fully embraced AI. In the studio of Kim Won-jong, a producer of 27 years, AI has replaced the songwriting camp, from first drafts to lyrics, arrangement and mixing, cutting production costs to about 1/1000. Music video set and VFX costs running to hundreds of millions of won (수억 원) have fallen to about 1/10 by combining AI with stereoscopic filming."
               },
               {
                 "t": "p",
-                "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 나오지 않았다. X 사용자들은 출시 일정과 결과물의 권리를 묻는다. 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 짚었다."
+                "x": "The creator's role is being redefined too. While AI produces large volumes of source material and drafts, composers and directors are evolving into conductors who coordinate the overall concept and control the technology. Director Noh Ji-hoon said “it is a misconception that it is done with the push of one button,” noting that picking out the shot you want ultimately comes down to the creator's eye and taste. But there is a side effect: the ladder newcomers use to gain experience is being shaken."
               },
               {
                 "t": "p",
-                "x": "한편 ElevenLabs는 음악으로 발을 넓히는 중이고, Suno는 시월 초 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 내놓았다. 이탈리아에서 약관을 문제 삼은 조사까지 더해져 Suno의 법적 분쟁은 좀처럼 끝나지 않는다."
+                "x": "The more advanced the technology becomes, the more fans look for uniquely human experience and connection, the 'human touch.' The industry's key question is not 'what to replace with AI' but 'how to discover and nurture what technology cannot replace.'"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Grok、音楽生成を\nSunoに任せる",
-          "body": "Elon MuskはGrok BotがSunoなど最適なback-endを使うと述べた。",
-          "mini_headline": "Grok、音楽はSunoへ",
+          "headline": "AIを指揮する\nK-POPクリエイター",
+          "body": "生成AI時代、K-POPクリエイターはAIを指揮し、代替不可能な仕事に集中する。",
+          "mini_headline": "AIを指揮するK-POP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "写真: Mariia Berezovsky"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "本画像はAI技術を活用して制作された。写真=ISフォト"
               },
               {
                 "t": "p",
-                "x": "Elon Muskの短いX投稿によると、「実際に仕事をしてくれるAIチームメイト」を提供するとされるSpaceXAIのGrok Botが、Sunoの音楽生成モデルを正式に使い始める。"
+                "x": "イルガンスポーツの企画シリーズ［K-POPとAI革命］は、作曲・作業室、バーチャルアイドル・ファンダム、ミュージックビデオ制作現場というK-POPプロダクションの三つの軸を9回にわたって取り上げた。現場の実情は、技術への単純な恐怖や熱狂とはかけ離れていた。"
               },
               {
                 "t": "p",
-                "x": "「Grok @botに関する重要なお知らせ：今後、@SpaceXはClaude Opus 5.5、MidJourney、Sunoをはじめとする主要なAPIsの中から、タスクごとに最適なバックエンドモデルを使う。最良の結果をもたらす可能性が最も高いものを使う」と同氏は書いた。"
+                "x": "韓国音楽著作権協会がAI音楽の登録ガイドラインを発表しながら22日で白紙に戻し、クレジットに載せられない「幽霊アシスタント」を置く状況でも、現場はすでにAIを全面的に受け入れていた。キャリア27年のキム・ウォンジョン・プロデューサーの作業室では、AIが草案から作詞・編曲・ミキシングまでソングライティングキャンプを代替し、制作費を1000分の1の水準にまで減らした。数億ウォン（수억 원）規模のミュージックビデオのセット・VFX費用は、AIと立体撮影の組み合わせで10分の1の水準に下がった。"
               },
               {
                 "t": "p",
-                "x": "Muskは、Grok Botへのリクエストの大半は「かなり単純で、Grok 4.8が出れば、その超高速版が処理する」と付け加えた。その他の詳細はほとんど明らかになっていない。Xのユーザーは提供開始の時期や生成物に付随する権利について質問しており、SunoとMidjourneyには「公式のAPI製品がない」と指摘する声もあった。"
+                "x": "クリエイターの役割も再定義されつつある。AIが大量のソースや試案を生み出す間、作曲家や演出家は全体のコンセプトを調整し技術を制御する指揮者へと進化している。ノ・ジフン監督は「ボタン一つ押せばたちまち完成するというのは誤解」だとし、望むカットをすくい上げるのは結局クリエイターの目と好みだと指摘した。ただ、新人が経験を積むためのはしごが揺らぐ副作用も生じている。"
               },
               {
                 "t": "p",
-                "x": "一方、ElevenLabsは音楽分野へ進出しており、Sunoは十月の幕開けに「声と音楽をひとつのまとまったトラックとして同時に生成する初のオーディオモデル」であるSpeechを発表した。イタリアでの利用規約をめぐる調査も加わり、Sunoの法廷闘争は続いている。"
+                "x": "技術が高度になるほど、ファンが求めるのは人間ならではの経験と交感、つまり「ヒューマンタッチ」だった。業界の核心的な問いは「何をAIで代替するか」ではなく、「技術で代替されない要素をどう発掘し育てるか」にある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Grok把音乐生成\n交给Suno",
-          "body": "Elon Musk称Grok Bot将按任务择优选用Suno等领先back-end模型。",
-          "mini_headline": "Grok音乐交给Suno",
+          "headline": "指挥AI的\nK-pop创作者",
+          "body": "生成式AI时代，K-pop创作者指挥AI，专注于无法被取代的工作。",
+          "mini_headline": "指挥AI的K-pop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "图片来源：Mariia Berezovsky"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "本图片使用AI技术制作。照片=IS Photo"
               },
               {
                 "t": "p",
-                "x": "据Elon Musk在X上发布的一则简短帖子，号称提供“能为你真正干活的AI队友”的SpaceXAI旗下Grok Bot将正式开始使用Suno的音乐生成模型。"
+                "x": "日刊体育策划系列[K-pop与AI革命]分9期，聚焦K-pop制作的三大支柱：作曲与工作室、虚拟偶像与粉丝圈、音乐录影带制作现场。现场的实际情况，与对技术的单纯恐惧或欢呼相去甚远。"
               },
               {
                 "t": "p",
-                "x": "他写道：“关于Grok @bot的重要说明：今后，@SpaceX将针对每项任务选用最佳的后端模型，包括Claude Opus 5.5、MidJourney、Suno及其他领先的APIs。哪个最可能给你带来最好的结果，就用哪个。”"
+                "x": "韩国音乐著作权协会发布AI音乐登记指南后仅22天便将其撤回，业内还存在无法列入署名的“幽灵助理”，即便如此，现场早已全面接纳AI。在从业27年的制作人Kim Won-jong的工作室里，AI从初稿到作词、编曲、混音，全面取代了词曲创作营，将制作成本降至1/1000的水平。动辄数亿韩元（수억 원）的音乐录影带布景与VFX费用，借助AI与立体拍摄的结合，降到了1/10的水平。"
               },
               {
                 "t": "p",
-                "x": "Musk补充说，Grok Bot的大多数请求“都相当简单，等Grok 4.8推出后，将由其极速版本处理”。目前其他细节寥寥；X上的用户在询问上线时间表以及生成内容所附带的权利，还有人指出Suno和Midjourney并没有“官方API产品”。"
+                "x": "创作者的角色也在被重新定义。AI大量生成素材和方案的同时，作曲家和导演正演变为统筹整体概念、驾驭技术的指挥者。导演Noh Ji-hoon指出，“按一个按钮就能一下子完成，这是误解”，最终能挑出理想镜头的，还是创作者的眼光与品味。不过，新人积累经验的阶梯随之动摇，这一副作用也在显现。"
               },
               {
                 "t": "p",
-                "x": "与此同时，ElevenLabs正在向音乐领域扩张，Suno则在十月伊始推出了Speech，称其为“首个将人声与音乐作为一条完整连贯音轨同时生成的音频模型”。Suno的法律纠纷仍在继续，如今还包括意大利一项针对其服务条款的调查。"
+                "x": "技术越先进，粉丝寻找的越是人类独有的经验与共鸣，即“人情味”。产业的核心问题不是“用AI取代什么”，而是“如何发掘和培育技术无法取代的要素”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grok delegará la generación\nmusical en Suno",
-          "body": "Elon Musk dice que Grok Bot usará Suno y otros modelos back-end líderes, eligiendo el mejor para cada tarea.",
-          "mini_headline": "Grok deriva la música a Suno",
+          "headline": "Los creadores de K-pop\nque dirigen la AI",
+          "body": "En la era de la AI generativa, los creadores de K-pop dirigen la AI y se centran en lo que no se puede sustituir.",
+          "mini_headline": "El K-pop que dirige la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "Crédito de la foto: Mariia Berezovsky"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "Esta imagen se creó con tecnología AI. Foto=IS Photo"
               },
               {
                 "t": "p",
-                "x": "El Grok Bot de SpaceXAI, que según se afirma ofrece “compañeros de equipo de AI que hacen trabajo real por ti”, comenzará oficialmente a utilizar los modelos de generación musical de Suno, según una breve publicación en X de Elon Musk."
+                "x": "La serie especial de Ilgan Sports [K-pop y la revolución AI] examinó en 9 entregas tres pilares de la producción del K-pop: la composición y el estudio, los ídolos virtuales y el fandom, y el rodaje de videoclips. La realidad sobre el terreno distaba mucho del simple miedo o entusiasmo ante la tecnología."
               },
               {
                 "t": "p",
-                "x": "“Nota importante sobre Grok @bot: de ahora en adelante, @SpaceX usará el mejor modelo de back end para cada tarea, incluidos Claude Opus 5.5, MidJourney, Suno y otras APIs líderes. Lo que tenga más probabilidades de darte el mejor resultado”, escribió."
+                "x": "Aunque la Asociación de Derechos de Autor Musicales de Corea publicó unas directrices de registro de música AI y las anuló 22 días después, y aunque se recurre a 'asistentes fantasma' que no pueden figurar en los créditos, el sector ya había adoptado la AI por completo. En el estudio de Kim Won-jong, productor con 27 años de trayectoria, la AI sustituyó al campamento de composición, desde el primer borrador hasta la letra, los arreglos y la mezcla, y redujo los costes de producción a 1/1000. Los costes de decorados y VFX de videoclips, que alcanzaban cientos de millones de wones (수억 원), bajaron a 1/10 al combinar la AI con la filmación estereoscópica."
               },
               {
                 "t": "p",
-                "x": "Musk añadió que la mayoría de las solicitudes a Grok Bot “son bastante simples y las atenderá una versión ultrarrápida de Grok 4.8 cuando salga”. Hay pocos detalles más; usuarios de X preguntan por el calendario de despliegue y los derechos sobre los resultados, y uno señaló que Suno y Midjourney no “tienen productos de API oficiales”."
+                "x": "El papel del creador también se está redefiniendo. Mientras la AI genera grandes cantidades de material y bocetos, compositores y directores evolucionan hacia directores de orquesta que coordinan el concepto general y controlan la tecnología. El director Noh Ji-hoon señaló que “es un error pensar que todo sale listo con pulsar un botón” y que rescatar la toma deseada depende, al final, del criterio y el gusto del creador. Con todo, surge un efecto secundario: se tambalea la escalera con la que los nuevos talentos acumulan experiencia."
               },
               {
                 "t": "p",
-                "x": "Mientras tanto, ElevenLabs se expande hacia la música, y Suno inició octubre con el lanzamiento de Speech, “el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada”. Continúan las batallas legales de Suno, que ahora incluyen una investigación en Italia centrada en sus términos."
+                "x": "Cuanto más avanza la tecnología, más buscan los fans la experiencia y la conexión propias del ser humano, el 'toque humano'. La pregunta clave del sector no es 'qué sustituir con AI', sino 'cómo descubrir y cultivar lo que la tecnología no puede sustituir'."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Grok, 음악 생성은\nSuno에 맡긴다",
-          "body": "Elon Musk는 Grok Bot이 Suno 등 back-end를 고른다고 했다.",
-          "mini_headline": "Grok, 음악은 Suno로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "사진: Mariia Berezovsky"
-              },
-              {
-                "t": "p",
-                "x": "Elon Musk의 짧은 X 게시물에 따르면, “실제로 일을 해 주는 AI 팀원”을 제공한다는 SpaceXAI의 Grok Bot이 공식적으로 Suno의 음악 생성 모델을 쓰기 시작한다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “Grok @bot 관련 중요 공지: 앞으로 @SpaceX는 Claude Opus 5.5, MidJourney, Suno를 비롯한 주요 APIs 가운데 각 작업에 가장 적합한 백엔드 모델을 쓸 것이다. 무엇이든 최선의 결과를 낼 가능성이 가장 높은 것을 쓴다”라고 적었다."
-              },
-              {
-                "t": "p",
-                "x": "Musk는 Grok Bot 요청 대부분이 “꽤 단순해서, Grok 4.8이 나오면 그 초고속 버전이 처리할 것”이라고 덧붙였다. 그 밖의 세부 사항은 거의 공개되지 않았다. X 사용자들은 출시 일정과 결과물에 붙는 권리를 묻고 있으며, 한 사용자는 Suno와 Midjourney에 “공식 API 제품이 없다”고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "한편 ElevenLabs는 음악으로 영역을 넓히고 있고, Suno는 시월을 열며 “음성과 음악을 하나의 일관된 트랙으로 함께 생성하는 최초의 오디오 모델” Speech를 출시했다. 이탈리아에서 약관을 겨냥한 조사까지 더해지며 Suno의 법적 분쟁은 이어지고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Grok、音楽生成を\nSunoに任せる",
-          "body": "Elon MuskはGrok BotがSunoなど最適なback-endを使うと述べた。",
-          "mini_headline": "Grok、音楽はSunoへ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "写真: Mariia Berezovsky"
-              },
-              {
-                "t": "p",
-                "x": "Elon Muskの短いX投稿によると、「実際に仕事をしてくれるAIチームメイト」を提供するとされるSpaceXAIのGrok Botが、Sunoの音楽生成モデルを正式に使い始める。"
-              },
-              {
-                "t": "p",
-                "x": "「Grok @botに関する重要なお知らせ：今後、@SpaceXはClaude Opus 5.5、MidJourney、Sunoをはじめとする主要なAPIsの中から、タスクごとに最適なバックエンドモデルを使う。最良の結果をもたらす可能性が最も高いものを使う」と同氏は書いた。"
-              },
-              {
-                "t": "p",
-                "x": "Muskは、Grok Botへのリクエストの大半は「かなり単純で、Grok 4.8が出れば、その超高速版が処理する」と付け加えた。その他の詳細はほとんど明らかになっていない。Xのユーザーは提供開始の時期や生成物に付随する権利について質問しており、SunoとMidjourneyには「公式のAPI製品がない」と指摘する声もあった。"
-              },
-              {
-                "t": "p",
-                "x": "一方、ElevenLabsは音楽分野へ進出しており、Sunoは十月の幕開けに「声と音楽をひとつのまとまったトラックとして同時に生成する初のオーディオモデル」であるSpeechを発表した。イタリアでの利用規約をめぐる調査も加わり、Sunoの法廷闘争は続いている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Grok把音乐生成\n交给Suno",
-          "body": "Elon Musk称Grok Bot将按任务择优选用Suno等领先back-end模型。",
-          "mini_headline": "Grok音乐交给Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "图片来源：Mariia Berezovsky"
-              },
-              {
-                "t": "p",
-                "x": "据Elon Musk在X上发布的一则简短帖子，号称提供“能为你真正干活的AI队友”的SpaceXAI旗下Grok Bot将正式开始使用Suno的音乐生成模型。"
-              },
-              {
-                "t": "p",
-                "x": "他写道：“关于Grok @bot的重要说明：今后，@SpaceX将针对每项任务选用最佳的后端模型，包括Claude Opus 5.5、MidJourney、Suno及其他领先的APIs。哪个最可能给你带来最好的结果，就用哪个。”"
-              },
-              {
-                "t": "p",
-                "x": "Musk补充说，Grok Bot的大多数请求“都相当简单，等Grok 4.8推出后，将由其极速版本处理”。目前其他细节寥寥；X上的用户在询问上线时间表以及生成内容所附带的权利，还有人指出Suno和Midjourney并没有“官方API产品”。"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，ElevenLabs正在向音乐领域扩张，Suno则在十月伊始推出了Speech，称其为“首个将人声与音乐作为一条完整连贯音轨同时生成的音频模型”。Suno的法律纠纷仍在继续，如今还包括意大利一项针对其服务条款的调查。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Grok delegará la generación\nmusical en Suno",
-          "body": "Elon Musk dice que Grok Bot usará Suno y otros modelos back-end líderes, eligiendo el mejor para cada tarea.",
-          "mini_headline": "Grok deriva la música a Suno",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Grok-Bot-Suno-1024x546.jpg",
-                "cap": "Crédito de la foto: Mariia Berezovsky"
-              },
-              {
-                "t": "p",
-                "x": "El Grok Bot de SpaceXAI, que según se afirma ofrece “compañeros de equipo de AI que hacen trabajo real por ti”, comenzará oficialmente a utilizar los modelos de generación musical de Suno, según una breve publicación en X de Elon Musk."
-              },
-              {
-                "t": "p",
-                "x": "“Nota importante sobre Grok @bot: de ahora en adelante, @SpaceX usará el mejor modelo de back end para cada tarea, incluidos Claude Opus 5.5, MidJourney, Suno y otras APIs líderes. Lo que tenga más probabilidades de darte el mejor resultado”, escribió."
-              },
-              {
-                "t": "p",
-                "x": "Musk añadió que la mayoría de las solicitudes a Grok Bot “son bastante simples y las atenderá una versión ultrarrápida de Grok 4.8 cuando salga”. Hay pocos detalles más; usuarios de X preguntan por el calendario de despliegue y los derechos sobre los resultados, y uno señaló que Suno y Midjourney no “tienen productos de API oficiales”."
-              },
-              {
-                "t": "p",
-                "x": "Mientras tanto, ElevenLabs se expande hacia la música, y Suno inició octubre con el lanzamiento de Speech, “el primer modelo de audio que genera voz y música juntas como una sola pista cohesionada”. Continúan las batallas legales de Suno, que ahora incluyen una investigación en Italia centrada en sus términos."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-tencent-music-deepseek",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Tencent Music\nAI툴에 DeepSeek",
-      "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
-      "mini_headline": "Tencent Music, DeepSeek 내장",
-      "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-            "cap": "사진: mundissima / Shutterstock.com"
-          },
-          {
-            "t": "p",
-            "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
-          },
-          {
-            "t": "p",
-            "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
-          },
-          {
-            "t": "p",
-            "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
-          }
-        ]
-      },
-      "text": {
         "en": {
-          "headline": "Tencent Music runs DeepSeek\ninside its AI tools",
-          "body": "Parent Tencent is among the biggest backers of DeepSeek's $12B round; Tencent Music has used DeepSeek since 2025.",
-          "mini_headline": "Tencent Music\nbuilds in DeepSeek",
+          "headline": "K-pop creators\nconducting AI",
+          "body": "In the generative AI era, K-pop creators conduct AI and focus on the work that cannot be replaced.",
+          "mini_headline": "K-pop conducting AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Credit: mundissima / Shutterstock.com"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "This image was created using AI technology. Photo=IS Photo"
               },
               {
                 "t": "p",
-                "x": "China-based AI company DeepSeek is close to raising at least RMB 80 billion (USD $12 billion) in a new funding round, with Tencent Holdings among its biggest backers, Bloomberg reported on Tuesday (October 6). Tencent and battery maker CATL “have committed among the largest amounts.”"
+                "x": "Ilgan Sports' special series [K-pop and the AI Revolution] examined three pillars of K-pop production over 9 installments: songwriting and the studio, virtual idols and fandom, and music video production. The reality on the ground was far from simple fear of, or enthusiasm for, the technology."
               },
               {
                 "t": "p",
-                "x": "Tencent is the controlling shareholder of Tencent Music Entertainment (TME), which integrated DeepSeek into its music streaming service in 2025. The round could end up near RMB 100 billion ($15 billion); DeepSeek is targeting a stock market listing in early 2027."
+                "x": "Even as the Korea Music Copyright Association announced AI music registration guidelines and scrapped them 22 days later, and studios kept 'ghost assistants' who cannot be credited, the field had already fully embraced AI. In the studio of Kim Won-jong, a producer of 27 years, AI has replaced the songwriting camp, from first drafts to lyrics, arrangement and mixing, cutting production costs to about 1/1000. Music video set and VFX costs running to hundreds of millions of won (수억 원) have fallen to about 1/10 by combining AI with stereoscopic filming."
               },
               {
                 "t": "p",
-                "x": "TME disclosed the integration on an earnings call in March 2025, when CEO Ross Liang said DeepSeek had been built into its AI songwriting tool, AI assistant, comment sections, and recommendation pages. In its Q2 2026 report, TME said AI agents in QQ Music and Kugou Music now create personalized playlists on the fly."
+                "x": "The creator's role is being redefined too. While AI produces large volumes of source material and drafts, composers and directors are evolving into conductors who coordinate the overall concept and control the technology. Director Noh Ji-hoon said “it is a misconception that it is done with the push of one button,” noting that picking out the shot you want ultimately comes down to the creator's eye and taste. But there is a side effect: the ladder newcomers use to gain experience is being shaken."
               },
               {
                 "t": "p",
-                "x": "The International Confederation of Music Publishers (ICMP) has previously accused DeepSeek of reproducing copyrighted song lyrics, with Director General John Phelan alleging it used protected music commercially without licenses."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Tencent Music\nAI툴에 DeepSeek",
-          "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
-          "mini_headline": "Tencent Music, DeepSeek 내장",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "사진: mundissima / Shutterstock.com"
-              },
-              {
-                "t": "p",
-                "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
-              },
-              {
-                "t": "p",
-                "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
-              },
-              {
-                "t": "p",
-                "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Tencent Music integra DeepSeek\nen sus herramientas de AI",
-          "body": "Su matriz, Tencent, es de los mayores inversores en la ronda de $12B de DeepSeek; Tencent Music lo usa desde 2025.",
-          "mini_headline": "Tencent Music integra DeepSeek",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Crédito: mundissima / Shutterstock.com"
-              },
-              {
-                "t": "p",
-                "x": "DeepSeek, empresa de AI China-based, está cerca de recaudar al menos RMB 80 mil millones (USD $12 mil millones) en una nueva ronda de financiación, con Tencent Holdings entre sus mayores inversores, informó Bloomberg el martes (6 de octubre). Tencent y el fabricante de baterías CATL “se han comprometido con algunos de los montos más altos”."
-              },
-              {
-                "t": "p",
-                "x": "Tencent es el accionista de control de Tencent Music Entertainment (TME), que integró DeepSeek en su servicio de streaming musical en 2025. La ronda podría acercarse a los RMB 100 mil millones ($15 mil millones); DeepSeek apunta a salir a bolsa a principios de 2027."
-              },
-              {
-                "t": "p",
-                "x": "TME reveló la integración en una conferencia de resultados en marzo de 2025, cuando su CEO, Ross Liang, dijo que DeepSeek se había incorporado a su herramienta de composición con AI, su asistente de AI, las secciones de comentarios y las páginas de recomendaciones. En su informe del Q2 2026, TME señaló que los agentes de AI de QQ Music y Kugou Music ya crean listas de reproducción personalizadas al instante."
-              },
-              {
-                "t": "p",
-                "x": "La International Confederation of Music Publishers (ICMP) ya había acusado a DeepSeek de reproducir letras de canciones protegidas por derechos de autor, y su director general, John Phelan, afirmó que usó música protegida con fines comerciales sin licencias."
+                "x": "The more advanced the technology becomes, the more fans look for uniquely human experience and connection, the 'human touch.' The industry's key question is not 'what to replace with AI' but 'how to discover and nurture what technology cannot replace.'"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tencent Music\nAIにDeepSeek搭載",
-          "body": "TencentはDeepSeekの$12B 調達の大口出資者で、TMEは2025年から採用。",
-          "mini_headline": "Tencent MusicがDeepSeekを組み込む",
+          "headline": "AIを指揮する\nK-POPクリエイター",
+          "body": "生成AI時代、K-POPクリエイターはAIを指揮し、代替不可能な仕事に集中する。",
+          "mini_headline": "AIを指揮するK-POP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Credit: mundissima / Shutterstock.com"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "本画像はAI技術を活用して制作された。写真=ISフォト"
               },
               {
                 "t": "p",
-                "x": "中国のAI企業DeepSeekが新たな資金調達ラウンドで少なくともRMB 80 billion（USD $12 billion）の調達に近づいており、Tencent Holdingsが最大の出資者の一つだと、Bloombergが10月6日（火）に報じた。Tencentと電池メーカーのCATLは「最大級の金額を約束した」という。"
+                "x": "イルガンスポーツの企画シリーズ［K-POPとAI革命］は、作曲・作業室、バーチャルアイドル・ファンダム、ミュージックビデオ制作現場というK-POPプロダクションの三つの軸を9回にわたって取り上げた。現場の実情は、技術への単純な恐怖や熱狂とはかけ離れていた。"
               },
               {
                 "t": "p",
-                "x": "TencentはTencent Music Entertainment（TME）の支配株主であり、TMEは2025年に自社の音楽ストリーミングサービスへDeepSeekを統合した。ラウンドは最終的にRMB 100 billion（$15 billion）近くに達する可能性があり、DeepSeekは2027年初めの株式上場を目指している。"
+                "x": "韓国音楽著作権協会がAI音楽の登録ガイドラインを発表しながら22日で白紙に戻し、クレジットに載せられない「幽霊アシスタント」を置く状況でも、現場はすでにAIを全面的に受け入れていた。キャリア27年のキム・ウォンジョン・プロデューサーの作業室では、AIが草案から作詞・編曲・ミキシングまでソングライティングキャンプを代替し、制作費を1000分の1の水準にまで減らした。数億ウォン（수억 원）規模のミュージックビデオのセット・VFX費用は、AIと立体撮影の組み合わせで10分の1の水準に下がった。"
               },
               {
                 "t": "p",
-                "x": "TMEは2025年3月の決算説明会でこの統合を明らかにした。CEOのRoss Liangは当時、DeepSeekをAI作詞作曲ツール、AIアシスタント、コメント欄、レコメンドページに組み込んだと述べた。Q2 2026の報告でTMEは、QQ MusicとKugou MusicのAIエージェントが個人向けプレイリストをその場で作成するようになったとしている。"
+                "x": "クリエイターの役割も再定義されつつある。AIが大量のソースや試案を生み出す間、作曲家や演出家は全体のコンセプトを調整し技術を制御する指揮者へと進化している。ノ・ジフン監督は「ボタン一つ押せばたちまち完成するというのは誤解」だとし、望むカットをすくい上げるのは結局クリエイターの目と好みだと指摘した。ただ、新人が経験を積むためのはしごが揺らぐ副作用も生じている。"
               },
               {
                 "t": "p",
-                "x": "International Confederation of Music Publishers（ICMP）は以前、DeepSeekが著作権で保護された歌詞を複製していると非難しており、事務局長のJohn Phelanは、同社が保護された音楽をライセンスなしで商業利用したと主張している。"
+                "x": "技術が高度になるほど、ファンが求めるのは人間ならではの経験と交感、つまり「ヒューマンタッチ」だった。業界の核心的な問いは「何をAIで代替するか」ではなく、「技術で代替されない要素をどう発掘し育てるか」にある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tencent Music\nAI工具内置DeepSeek",
-          "body": "Tencent是DeepSeek $12B 融资的最大金主之一，TME自2025年起已采用。",
-          "mini_headline": "Tencent Music内置DeepSeek",
+          "headline": "指挥AI的\nK-pop创作者",
+          "body": "生成式AI时代，K-pop创作者指挥AI，专注于无法被取代的工作。",
+          "mini_headline": "指挥AI的K-pop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Credit: mundissima / Shutterstock.com"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "本图片使用AI技术制作。照片=IS Photo"
               },
               {
                 "t": "p",
-                "x": "据Bloomberg周二（10月6日）报道，中国AI公司DeepSeek即将在新一轮融资中筹集至少RMB 80 billion（USD $12 billion），Tencent Holdings是其最大支持者之一。Tencent与电池制造商CATL“承诺的金额位居最大之列”。"
+                "x": "日刊体育策划系列[K-pop与AI革命]分9期，聚焦K-pop制作的三大支柱：作曲与工作室、虚拟偶像与粉丝圈、音乐录影带制作现场。现场的实际情况，与对技术的单纯恐惧或欢呼相去甚远。"
               },
               {
                 "t": "p",
-                "x": "Tencent是Tencent Music Entertainment（TME）的控股股东，TME已于2025年将DeepSeek整合进其音乐流媒体服务。本轮融资最终可能接近RMB 100 billion（$15 billion）；DeepSeek的目标是在2027年初上市。"
+                "x": "韩国音乐著作权协会发布AI音乐登记指南后仅22天便将其撤回，业内还存在无法列入署名的“幽灵助理”，即便如此，现场早已全面接纳AI。在从业27年的制作人Kim Won-jong的工作室里，AI从初稿到作词、编曲、混音，全面取代了词曲创作营，将制作成本降至1/1000的水平。动辄数亿韩元（수억 원）的音乐录影带布景与VFX费用，借助AI与立体拍摄的结合，降到了1/10的水平。"
               },
               {
                 "t": "p",
-                "x": "TME在2025年3月的财报电话会上披露了这一整合，CEO Ross Liang当时表示，DeepSeek已被嵌入其AI词曲创作工具、AI助手、评论区和推荐页面。TME在Q2 2026报告中表示，QQ Music和Kugou Music中的AI智能体如今可即时生成个性化歌单。"
+                "x": "创作者的角色也在被重新定义。AI大量生成素材和方案的同时，作曲家和导演正演变为统筹整体概念、驾驭技术的指挥者。导演Noh Ji-hoon指出，“按一个按钮就能一下子完成，这是误解”，最终能挑出理想镜头的，还是创作者的眼光与品味。不过，新人积累经验的阶梯随之动摇，这一副作用也在显现。"
               },
               {
                 "t": "p",
-                "x": "International Confederation of Music Publishers（ICMP）此前曾指控DeepSeek复制受版权保护的歌词，总干事John Phelan称其未经许可将受保护的音乐用于商业用途。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Tencent Music\nAI툴에 DeepSeek",
-          "body": "Tencent는 DeepSeek $12B 투자 큰손, 자회사는 2025년부터 쓴다.",
-          "mini_headline": "Tencent Music, DeepSeek 내장",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "사진: mundissima / Shutterstock.com"
-              },
-              {
-                "t": "p",
-                "x": "China-based AI 기업 DeepSeek가 새 투자 라운드에서 최소 RMB 80 billion(USD $12 billion) 조달을 앞두고 있으며, Tencent Holdings가 최대 투자자 가운데 하나라고 Bloomberg가 화요일(October 6) 보도했다. Tencent와 배터리 업체 CATL은 “가장 큰 금액을 약정한 곳에 속한다.”"
-              },
-              {
-                "t": "p",
-                "x": "Tencent는 Tencent Music Entertainment(TME)의 지배주주이며, TME는 2025년 자사 음악 스트리밍 서비스에 DeepSeek를 통합했다. 이번 라운드는 RMB 100 billion($15 billion) 가까이 불어날 수 있고, DeepSeek는 2027년 초 증시 상장을 목표로 한다."
-              },
-              {
-                "t": "p",
-                "x": "TME는 2025년 삼월 실적 발표 콘퍼런스콜에서 이 통합을 공개했다. 당시 CEO Ross Liang은 DeepSeek를 AI 작곡 도구, AI 어시스턴트, 댓글 섹션, 추천 페이지에 적용했다고 밝혔다. TME는 Q2 2026 보고서에서 QQ Music과 Kugou Music의 AI 에이전트가 이제 개인 맞춤 플레이리스트를 즉석에서 만든다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "International Confederation of Music Publishers(ICMP, 국제음악출판자연맹)는 앞서 DeepSeek가 저작권이 있는 노래 가사를 복제한다고 비판했으며, John Phelan 사무총장은 DeepSeek가 보호받는 음악을 라이선스 없이 상업적으로 사용했다고 주장했다."
+                "x": "技术越先进，粉丝寻找的越是人类独有的经验与共鸣，即“人情味”。产业的核心问题不是“用AI取代什么”，而是“如何发掘和培育技术无法取代的要素”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tencent Music integra DeepSeek\nen sus herramientas de AI",
-          "body": "Su matriz, Tencent, es de los mayores inversores en la ronda de $12B de DeepSeek; Tencent Music lo usa desde 2025.",
-          "mini_headline": "Tencent Music integra DeepSeek",
+          "headline": "Los creadores de K-pop\nque dirigen la AI",
+          "body": "En la era de la AI generativa, los creadores de K-pop dirigen la AI y se centran en lo que no se puede sustituir.",
+          "mini_headline": "El K-pop que dirige la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Crédito: mundissima / Shutterstock.com"
+                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+                "cap": "Esta imagen se creó con tecnología AI. Foto=IS Photo"
               },
               {
                 "t": "p",
-                "x": "DeepSeek, empresa de AI China-based, está cerca de recaudar al menos RMB 80 mil millones (USD $12 mil millones) en una nueva ronda de financiación, con Tencent Holdings entre sus mayores inversores, informó Bloomberg el martes (6 de octubre). Tencent y el fabricante de baterías CATL “se han comprometido con algunos de los montos más altos”."
+                "x": "La serie especial de Ilgan Sports [K-pop y la revolución AI] examinó en 9 entregas tres pilares de la producción del K-pop: la composición y el estudio, los ídolos virtuales y el fandom, y el rodaje de videoclips. La realidad sobre el terreno distaba mucho del simple miedo o entusiasmo ante la tecnología."
               },
               {
                 "t": "p",
-                "x": "Tencent es el accionista de control de Tencent Music Entertainment (TME), que integró DeepSeek en su servicio de streaming musical en 2025. La ronda podría acercarse a los RMB 100 mil millones ($15 mil millones); DeepSeek apunta a salir a bolsa a principios de 2027."
+                "x": "Aunque la Asociación de Derechos de Autor Musicales de Corea publicó unas directrices de registro de música AI y las anuló 22 días después, y aunque se recurre a 'asistentes fantasma' que no pueden figurar en los créditos, el sector ya había adoptado la AI por completo. En el estudio de Kim Won-jong, productor con 27 años de trayectoria, la AI sustituyó al campamento de composición, desde el primer borrador hasta la letra, los arreglos y la mezcla, y redujo los costes de producción a 1/1000. Los costes de decorados y VFX de videoclips, que alcanzaban cientos de millones de wones (수억 원), bajaron a 1/10 al combinar la AI con la filmación estereoscópica."
               },
               {
                 "t": "p",
-                "x": "TME reveló la integración en una conferencia de resultados en marzo de 2025, cuando su CEO, Ross Liang, dijo que DeepSeek se había incorporado a su herramienta de composición con AI, su asistente de AI, las secciones de comentarios y las páginas de recomendaciones. En su informe del Q2 2026, TME señaló que los agentes de AI de QQ Music y Kugou Music ya crean listas de reproducción personalizadas al instante."
+                "x": "El papel del creador también se está redefiniendo. Mientras la AI genera grandes cantidades de material y bocetos, compositores y directores evolucionan hacia directores de orquesta que coordinan el concepto general y controlan la tecnología. El director Noh Ji-hoon señaló que “es un error pensar que todo sale listo con pulsar un botón” y que rescatar la toma deseada depende, al final, del criterio y el gusto del creador. Con todo, surge un efecto secundario: se tambalea la escalera con la que los nuevos talentos acumulan experiencia."
               },
               {
                 "t": "p",
-                "x": "La International Confederation of Music Publishers (ICMP) ya había acusado a DeepSeek de reproducir letras de canciones protegidas por derechos de autor, y su director general, John Phelan, afirmó que usó música protegida con fines comerciales sin licencias."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Tencent Music\nAIにDeepSeek搭載",
-          "body": "TencentはDeepSeekの$12B 調達の大口出資者で、TMEは2025年から採用。",
-          "mini_headline": "Tencent MusicがDeepSeekを組み込む",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Credit: mundissima / Shutterstock.com"
-              },
-              {
-                "t": "p",
-                "x": "中国のAI企業DeepSeekが新たな資金調達ラウンドで少なくともRMB 80 billion（USD $12 billion）の調達に近づいており、Tencent Holdingsが最大の出資者の一つだと、Bloombergが10月6日（火）に報じた。Tencentと電池メーカーのCATLは「最大級の金額を約束した」という。"
-              },
-              {
-                "t": "p",
-                "x": "TencentはTencent Music Entertainment（TME）の支配株主であり、TMEは2025年に自社の音楽ストリーミングサービスへDeepSeekを統合した。ラウンドは最終的にRMB 100 billion（$15 billion）近くに達する可能性があり、DeepSeekは2027年初めの株式上場を目指している。"
-              },
-              {
-                "t": "p",
-                "x": "TMEは2025年3月の決算説明会でこの統合を明らかにした。CEOのRoss Liangは当時、DeepSeekをAI作詞作曲ツール、AIアシスタント、コメント欄、レコメンドページに組み込んだと述べた。Q2 2026の報告でTMEは、QQ MusicとKugou MusicのAIエージェントが個人向けプレイリストをその場で作成するようになったとしている。"
-              },
-              {
-                "t": "p",
-                "x": "International Confederation of Music Publishers（ICMP）は以前、DeepSeekが著作権で保護された歌詞を複製していると非難しており、事務局長のJohn Phelanは、同社が保護された音楽をライセンスなしで商業利用したと主張している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Tencent Music\nAI工具内置DeepSeek",
-          "body": "Tencent是DeepSeek $12B 融资的最大金主之一，TME自2025年起已采用。",
-          "mini_headline": "Tencent Music内置DeepSeek",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/shutterstock_2576961823-e1791371644299-836x471.jpg",
-                "cap": "Credit: mundissima / Shutterstock.com"
-              },
-              {
-                "t": "p",
-                "x": "据Bloomberg周二（10月6日）报道，中国AI公司DeepSeek即将在新一轮融资中筹集至少RMB 80 billion（USD $12 billion），Tencent Holdings是其最大支持者之一。Tencent与电池制造商CATL“承诺的金额位居最大之列”。"
-              },
-              {
-                "t": "p",
-                "x": "Tencent是Tencent Music Entertainment（TME）的控股股东，TME已于2025年将DeepSeek整合进其音乐流媒体服务。本轮融资最终可能接近RMB 100 billion（$15 billion）；DeepSeek的目标是在2027年初上市。"
-              },
-              {
-                "t": "p",
-                "x": "TME在2025年3月的财报电话会上披露了这一整合，CEO Ross Liang当时表示，DeepSeek已被嵌入其AI词曲创作工具、AI助手、评论区和推荐页面。TME在Q2 2026报告中表示，QQ Music和Kugou Music中的AI智能体如今可即时生成个性化歌单。"
-              },
-              {
-                "t": "p",
-                "x": "International Confederation of Music Publishers（ICMP）此前曾指控DeepSeek复制受版权保护的歌词，总干事John Phelan称其未经许可将受保护的音乐用于商业用途。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-humanculture-first-clients",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
-      "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 올리기 전에 점친다.",
-      "mini_headline": "소셜 성과를 예측하는 AI",
-      "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-          },
-          {
-            "t": "p",
-            "x": "올해 초 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 소개한 적이 있다. 콘텐츠를 올리기 전에 소셜 미디어에서 얼마나 성과를 낼지 예측하는 기술을 만들던 회사다."
-          },
-          {
-            "t": "p",
-            "x": "그 HumanCulture가 공식 출범하면서 첫 고객사를 공개했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이다."
-          },
-          {
-            "t": "p",
-            "x": "무게중심은 여전히 예측 분석이다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우고, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
-          },
-          {
-            "t": "p",
-            "x": "출시와 함께 Jasper라는 기능도 나왔다. HumanCulture가 “내장형 AI 크리에이티브 전략가”라고 부르는 기능으로, 고객은 Jasper와 대화하며 캠페인과 콘텐츠 캘린더, 기타 마케팅 업무에 쓸 아이디어를 얻는다."
-          },
-          {
-            "t": "p",
-            "x": "회사가 강조하는 건 기술이 아티스트마다 맞춰 조정된다는 점이다. 출발점은 온보딩이다. 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석한다."
-          },
-          {
-            "t": "p",
-            "x": "HumanCulture의 요금은 ‘per-talent’(아티스트당) 방식이다. 아티스트 1-9명을 맡은 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50까지 내려간다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "HumanCulture signs first\nclients for predictive AI",
-          "body": "HumanCulture's AI, now with its first clients, predicts how music content will perform on social media before posting.",
-          "mini_headline": "AI that predicts\nsocial performance",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "Earlier this year we reported on a startup founded by former Defected Records and AWAL execs developing tech to predict how well content would perform on social media before it was posted."
-              },
-              {
-                "t": "p",
-                "x": "Now HumanCulture has launched officially, including announcing its first set of clients. Defected is one of them, along with Red Light Management, Armada Big Family, Arketyp, Knox Artists and FourFour Digital."
-              },
-              {
-                "t": "p",
-                "x": "The focus is still on predictive analytics. “By analysing storytelling themes, visual styles, audience behaviour and community conversations alongside quantitative performance data, it gives creative teams evidence-based direction before publishing rather than retrospective reporting afterwards,” is the pitch, claiming “82-90% accuracy in predicting content performance”."
-              },
-              {
-                "t": "p",
-                "x": "The launch also revealed a feature called Jasper, which HumanCulture is describing as a “built-in AI creative strategist” who clients can converse with to get ideas for campaigns, content calendars and other marketing tasks."
-              },
-              {
-                "t": "p",
-                "x": "The company is stressing that its tech adapts to each individual artist, starting with an onboarding process that analyses up to a year of their Instagram and TikTok posts and audience comments."
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture is using ‘per-talent’ pricing plans, starting at £65 per talent per month for companies using it for 1-9 artists, dropping to £52.50 per month for those with 50-99 on the books."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
-          "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 올리기 전에 점친다.",
-          "mini_headline": "소셜 성과를 예측하는 AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "올해 초 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 소개한 적이 있다. 콘텐츠를 올리기 전에 소셜 미디어에서 얼마나 성과를 낼지 예측하는 기술을 만들던 회사다."
-              },
-              {
-                "t": "p",
-                "x": "그 HumanCulture가 공식 출범하면서 첫 고객사를 공개했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이다."
-              },
-              {
-                "t": "p",
-                "x": "무게중심은 여전히 예측 분석이다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우고, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "출시와 함께 Jasper라는 기능도 나왔다. HumanCulture가 “내장형 AI 크리에이티브 전략가”라고 부르는 기능으로, 고객은 Jasper와 대화하며 캠페인과 콘텐츠 캘린더, 기타 마케팅 업무에 쓸 아이디어를 얻는다."
-              },
-              {
-                "t": "p",
-                "x": "회사가 강조하는 건 기술이 아티스트마다 맞춰 조정된다는 점이다. 출발점은 온보딩이다. 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석한다."
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture의 요금은 ‘per-talent’(아티스트당) 방식이다. 아티스트 1-9명을 맡은 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50까지 내려간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HumanCulture、\n予測AIで初顧客を獲得",
-          "body": "HumanCultureのAIは、音楽コンテンツのソーシャルでの成果を投稿前に予測する。",
-          "mini_headline": "ソーシャルでの成果を予測するAI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "今年初め、Defected RecordsとAWALの元幹部が設立し、コンテンツが投稿前にソーシャルメディアでどれだけ成果を上げるかを予測する技術を開発しているスタートアップについて報じた。"
-              },
-              {
-                "t": "p",
-                "x": "そのHumanCultureが正式にローンチし、最初の顧客群を発表した。Defectedもその一社で、Red Light Management、Armada Big Family、Arketyp、Knox Artists、FourFour Digitalが名を連ねる。"
-              },
-              {
-                "t": "p",
-                "x": "軸足は引き続き予測分析にある。「ストーリーテリングのテーマ、ビジュアルスタイル、オーディエンスの行動、コミュニティでの会話を定量的なパフォーマンスデータとあわせて分析することで、事後の振り返りレポートではなく、公開前にエビデンスに基づく方向性をクリエイティブチームに示す」というのが売り文句で、「コンテンツのパフォーマンス予測で82-90%の精度」をうたう。"
-              },
-              {
-                "t": "p",
-                "x": "ローンチでは、Jasperという機能も明らかになった。HumanCultureはこれを「組み込み型のAIクリエイティブストラテジスト」と説明しており、顧客は対話を通じてキャンペーンやコンテンツカレンダー、その他のマーケティング業務のアイデアを得られる。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、自社の技術が個々のアーティストに合わせて適応する点を強調する。その起点となるのが、アーティストのInstagramとTikTokの投稿とオーディエンスのコメントを最大一年分分析するオンボーディングだ。"
-              },
-              {
-                "t": "p",
-                "x": "HumanCultureは‘per-talent’（タレント単位）の料金プランを採用しており、1-9人のアーティストで使う企業はタレントごとに月£65から、50-99人を抱える企業では月£52.50まで下がる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "HumanCulture\n预测AI迎来首批客户",
-          "body": "HumanCulture的AI已迎来首批客户，可在发布前预测音乐内容在社交媒体上的表现。",
-          "mini_headline": "预测社交表现的AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "今年早些时候，我们报道过一家由Defected Records和AWAL前高管创办的初创公司，其开发的技术能在内容发布前预测其在社交媒体上的表现。"
-              },
-              {
-                "t": "p",
-                "x": "如今HumanCulture已正式上线，并公布了首批客户。Defected是其中之一，此外还有Red Light Management、Armada Big Family、Arketyp、Knox Artists和FourFour Digital。"
-              },
-              {
-                "t": "p",
-                "x": "重点仍是预测分析。其宣传语称：“通过将叙事主题、视觉风格、受众行为和社区对话与量化表现数据结合分析，它在发布前就为创意团队提供基于证据的方向，而不是事后的回顾性报告。”并宣称“预测内容表现的准确率达82-90%”。"
-              },
-              {
-                "t": "p",
-                "x": "此次上线还公布了一项名为Jasper的功能，HumanCulture称其为“内置AI创意策略师”，客户可与其对话，为营销活动、内容日历及其他营销任务获取创意。"
-              },
-              {
-                "t": "p",
-                "x": "公司强调，其技术会针对每位艺人进行调整，首先通过入驻流程分析艺人最多一年的Instagram和TikTok帖子以及受众评论。"
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture采用‘per-talent’（按艺人计费）的定价方案：服务1-9位艺人的公司起价为每位艺人每月£65，旗下艺人达50-99位的公司则降至每月£52.50。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HumanCulture suma sus primeros\nclientes de AI predictiva",
-          "body": "La AI de HumanCulture predice cómo rendirá el contenido musical en redes sociales antes de publicarlo.",
-          "mini_headline": "AI que predice el rendimiento social",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "A principios de este año informamos sobre una startup fundada por exejecutivos de Defected Records y AWAL que desarrollaba tecnología para predecir qué tan bien funcionaría un contenido en redes sociales antes de publicarse."
-              },
-              {
-                "t": "p",
-                "x": "Ahora HumanCulture se ha lanzado oficialmente y ha anunciado su primer grupo de clientes. Defected es uno de ellos, junto con Red Light Management, Armada Big Family, Arketyp, Knox Artists y FourFour Digital."
-              },
-              {
-                "t": "p",
-                "x": "El foco sigue puesto en la analítica predictiva. “Al analizar temas narrativos, estilos visuales, comportamiento de la audiencia y conversaciones de la comunidad junto con datos cuantitativos de rendimiento, ofrece a los equipos creativos una dirección basada en evidencia antes de publicar, en lugar de informes retrospectivos después”, es su propuesta, que afirma una “precisión del 82-90% en la predicción del rendimiento del contenido”."
-              },
-              {
-                "t": "p",
-                "x": "El lanzamiento también dio a conocer una función llamada Jasper, que HumanCulture describe como un “estratega creativo de AI integrado” con el que los clientes pueden conversar para obtener ideas para campañas, calendarios de contenido y otras tareas de marketing."
-              },
-              {
-                "t": "p",
-                "x": "La empresa subraya que su tecnología se adapta a cada artista, empezando por un proceso de incorporación que analiza hasta un año de sus publicaciones en Instagram y TikTok y los comentarios de su audiencia."
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture usa planes de precios ‘per-talent’ (por artista), que empiezan en £65 por artista al mes para empresas que lo usan con 1-9 artistas y bajan a £52.50 al mes para quienes tienen 50-99 en su catálogo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "HumanCulture,\n예측 AI 첫 고객 확보",
-          "body": "HumanCulture의 AI는 음악 콘텐츠의 소셜 성과를 게시 전에 예측한다.",
-          "mini_headline": "소셜 성과를 예측하는 AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "올해 초 우리는 Defected Records와 AWAL 출신 임원들이 세운 스타트업을 다뤘다. 이 회사는 콘텐츠를 게시하기 전에 소셜 미디어에서 얼마나 좋은 성과를 낼지 예측하는 기술을 개발하고 있었다."
-              },
-              {
-                "t": "p",
-                "x": "이제 HumanCulture가 공식 출범하며 첫 고객사들을 발표했다. Defected를 비롯해 Red Light Management, Armada Big Family, Arketyp, Knox Artists, FourFour Digital이 이름을 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "초점은 여전히 예측 분석에 있다. 회사는 “스토리텔링 주제, 시각적 스타일, 관객 행동, 커뮤니티 대화를 정량적 성과 데이터와 함께 분석해, 게시 후의 회고식 보고가 아니라 게시 전에 근거 기반의 방향을 크리에이티브 팀에 제시한다”고 내세우며, “콘텐츠 성과 예측 정확도 82-90%”를 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "출시와 함께 Jasper라는 기능도 공개됐다. HumanCulture는 이를 “내장형 AI 크리에이티브 전략가”라고 설명하며, 고객은 Jasper와 대화하며 캠페인, 콘텐츠 캘린더, 기타 마케팅 업무에 필요한 아이디어를 얻을 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 자사 기술이 아티스트 개개인에 맞춰 조정된다는 점을 강조한다. 그 출발점은 아티스트의 Instagram과 TikTok 게시물, 관객 댓글을 최대 일 년치까지 분석하는 온보딩 과정이다."
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture는 ‘per-talent’(아티스트당) 요금제를 쓴다. 1-9명의 아티스트에게 쓰는 회사는 아티스트당 월 £65부터 시작하고, 50-99명을 둔 회사는 월 £52.50로 내려간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "HumanCulture、\n予測AIで初顧客を獲得",
-          "body": "HumanCultureのAIは、音楽コンテンツのソーシャルでの成果を投稿前に予測する。",
-          "mini_headline": "ソーシャルでの成果を予測するAI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "今年初め、Defected RecordsとAWALの元幹部が設立し、コンテンツが投稿前にソーシャルメディアでどれだけ成果を上げるかを予測する技術を開発しているスタートアップについて報じた。"
-              },
-              {
-                "t": "p",
-                "x": "そのHumanCultureが正式にローンチし、最初の顧客群を発表した。Defectedもその一社で、Red Light Management、Armada Big Family、Arketyp、Knox Artists、FourFour Digitalが名を連ねる。"
-              },
-              {
-                "t": "p",
-                "x": "軸足は引き続き予測分析にある。「ストーリーテリングのテーマ、ビジュアルスタイル、オーディエンスの行動、コミュニティでの会話を定量的なパフォーマンスデータとあわせて分析することで、事後の振り返りレポートではなく、公開前にエビデンスに基づく方向性をクリエイティブチームに示す」というのが売り文句で、「コンテンツのパフォーマンス予測で82-90%の精度」をうたう。"
-              },
-              {
-                "t": "p",
-                "x": "ローンチでは、Jasperという機能も明らかになった。HumanCultureはこれを「組み込み型のAIクリエイティブストラテジスト」と説明しており、顧客は対話を通じてキャンペーンやコンテンツカレンダー、その他のマーケティング業務のアイデアを得られる。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、自社の技術が個々のアーティストに合わせて適応する点を強調する。その起点となるのが、アーティストのInstagramとTikTokの投稿とオーディエンスのコメントを最大一年分分析するオンボーディングだ。"
-              },
-              {
-                "t": "p",
-                "x": "HumanCultureは‘per-talent’（タレント単位）の料金プランを採用しており、1-9人のアーティストで使う企業はタレントごとに月£65から、50-99人を抱える企業では月£52.50まで下がる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "HumanCulture\n预测AI迎来首批客户",
-          "body": "HumanCulture的AI已迎来首批客户，可在发布前预测音乐内容在社交媒体上的表现。",
-          "mini_headline": "预测社交表现的AI",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "今年早些时候，我们报道过一家由Defected Records和AWAL前高管创办的初创公司，其开发的技术能在内容发布前预测其在社交媒体上的表现。"
-              },
-              {
-                "t": "p",
-                "x": "如今HumanCulture已正式上线，并公布了首批客户。Defected是其中之一，此外还有Red Light Management、Armada Big Family、Arketyp、Knox Artists和FourFour Digital。"
-              },
-              {
-                "t": "p",
-                "x": "重点仍是预测分析。其宣传语称：“通过将叙事主题、视觉风格、受众行为和社区对话与量化表现数据结合分析，它在发布前就为创意团队提供基于证据的方向，而不是事后的回顾性报告。”并宣称“预测内容表现的准确率达82-90%”。"
-              },
-              {
-                "t": "p",
-                "x": "此次上线还公布了一项名为Jasper的功能，HumanCulture称其为“内置AI创意策略师”，客户可与其对话，为营销活动、内容日历及其他营销任务获取创意。"
-              },
-              {
-                "t": "p",
-                "x": "公司强调，其技术会针对每位艺人进行调整，首先通过入驻流程分析艺人最多一年的Instagram和TikTok帖子以及受众评论。"
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture采用‘per-talent’（按艺人计费）的定价方案：服务1-9位艺人的公司起价为每位艺人每月£65，旗下艺人达50-99位的公司则降至每月£52.50。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HumanCulture suma sus primeros\nclientes de AI predictiva",
-          "body": "La AI de HumanCulture predice cómo rendirá el contenido musical en redes sociales antes de publicarlo.",
-          "mini_headline": "AI que predice el rendimiento social",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-07T112501.108.png?fit=2000%2C1500&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "A principios de este año informamos sobre una startup fundada por exejecutivos de Defected Records y AWAL que desarrollaba tecnología para predecir qué tan bien funcionaría un contenido en redes sociales antes de publicarse."
-              },
-              {
-                "t": "p",
-                "x": "Ahora HumanCulture se ha lanzado oficialmente y ha anunciado su primer grupo de clientes. Defected es uno de ellos, junto con Red Light Management, Armada Big Family, Arketyp, Knox Artists y FourFour Digital."
-              },
-              {
-                "t": "p",
-                "x": "El foco sigue puesto en la analítica predictiva. “Al analizar temas narrativos, estilos visuales, comportamiento de la audiencia y conversaciones de la comunidad junto con datos cuantitativos de rendimiento, ofrece a los equipos creativos una dirección basada en evidencia antes de publicar, en lugar de informes retrospectivos después”, es su propuesta, que afirma una “precisión del 82-90% en la predicción del rendimiento del contenido”."
-              },
-              {
-                "t": "p",
-                "x": "El lanzamiento también dio a conocer una función llamada Jasper, que HumanCulture describe como un “estratega creativo de AI integrado” con el que los clientes pueden conversar para obtener ideas para campañas, calendarios de contenido y otras tareas de marketing."
-              },
-              {
-                "t": "p",
-                "x": "La empresa subraya que su tecnología se adapta a cada artista, empezando por un proceso de incorporación que analiza hasta un año de sus publicaciones en Instagram y TikTok y los comentarios de su audiencia."
-              },
-              {
-                "t": "p",
-                "x": "HumanCulture usa planes de precios ‘per-talent’ (por artista), que empiezan en £65 por artista al mes para empresas que lo usan con 1-9 artistas y bajan a £52.50 al mes para quienes tienen 50-99 en su catálogo."
+                "x": "Cuanto más avanza la tecnología, más buscan los fans la experiencia y la conexión propias del ser humano, el 'toque humano'. La pregunta clave del sector no es 'qué sustituir con AI', sino 'cómo descubrir y cultivar lo que la tecnología no puede sustituir'."
               }
             ]
           }

@@ -1,30 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "design",
   "media": [
     {
-      "id": "design-chatgpt-intelligent-ui",
+      "id": "design-archicad-ai",
       "type": "image",
-      "src": "pipeline/media/design-chatgpt-intelligent-ui.jpg"
+      "src": "pipeline/media/design-archicad-ai.jpg"
     },
     {
-      "id": "design-mecagent-v2-gpt6-astra-solidworks",
+      "id": "design-keyshot-2026",
       "type": "image",
-      "src": "pipeline/media/design-mecagent-v2-gpt6-astra-solidworks.jpg"
+      "src": "pipeline/media/design-keyshot-2026.jpg"
     },
     {
-      "id": "design-logo-design-agent-skill-svg",
+      "id": "design-free-ai-creative-cloud",
       "type": "image",
-      "src": "pipeline/media/design-logo-design-agent-skill-svg.png"
+      "src": "pipeline/media/design-free-ai-creative-cloud.jpg"
     },
     {
-      "id": "design-bounded-delegation-ai-authority",
+      "id": "design-claude-frontend-skill",
       "type": "image",
-      "src": "pipeline/media/design-bounded-delegation-ai-authority.jpg"
+      "src": "pipeline/media/design-claude-frontend-skill.png"
     },
     {
-      "id": "design-system-coding-agent-experiment",
-      "type": "image",
-      "src": "pipeline/media/design-system-coding-agent-experiment.png"
+      "id": "design-copilot-identity",
+      "type": "video",
+      "src": "pipeline/media/design-copilot-identity.mp4",
+      "poster": "pipeline/media/design-copilot-identity.jpg"
     }
   ]
 }

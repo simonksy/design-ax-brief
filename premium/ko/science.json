@@ -11002,6 +11002,151 @@
           "x": "26-ID 빔라인 시험에서 에이전트는 집적회로 속 두 영역의 경계면을 찾으라는 지시를 받고 소자 깊숙한 곳의 정확한 지점까지 파고들었다. 자율주행 현미경에 한 발 다가선 셈이다."
         }
       ]
+    },
+    "science/science-gene-function-microscopy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+          "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+        },
+        {
+          "t": "p",
+          "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진이 Veit Hornung, Matthias Mann, Fabian Theis의 주도 아래 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "AI는 세포 총 7000만 개의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 덕분에 세포에 나타난 효과를 그 원인이 된 유전적 변화와 이어 볼 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+          "cap": "Credit: Niklas Schmacke"
+        },
+        {
+          "t": "p",
+          "x": "그다음 관심 있는 세포를 온전한 상태로 분리하고, 질량분석으로 단백질 구성을 확인한다."
+        },
+        {
+          "t": "p",
+          "x": "세포의 재활용 시스템인 자가포식을 대상으로 genome-wide 스크리닝을 해 보니, 이 방법은 이미 알려진 조절인자 다수를 다시 찾아냈고 새 조절인자도 발견했다. 연구팀은 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혀냈다."
+        }
+      ]
+    },
+    "science/science-gravitational-lenses-desi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+          "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
+        },
+        {
+          "t": "p",
+          "x": "국제 연구팀이 분석한 DESI Legacy Imaging Surveys는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담으며 우주에서 가장 큰 2D 지도가 됐다."
+        },
+        {
+          "t": "p",
+          "x": "잔차 신경망이 관측 이미지를 훑어 잠재적 렌즈 약 3,500개를 추렸고, 이 중 후보 76개를 후속 관측 대상으로 골랐다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+          "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
+        },
+        {
+          "t": "p",
+          "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 해 보니 후보 중 70개가 실제 중력렌즈였다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "새 렌즈들은 DESI Strong Lens Foundry Project에 추가돼 Hubble, JWST, Roman, Rubin Observatory's LSST로 진행할 암흑물질, 은하 구조, 우주론 연구에 쓰일 전망이다."
+        }
+      ]
+    },
+    "science/science-chatbot-tipping-formula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+          "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo가 AI 챗봇의 답변이 수용 가능한 수준에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 쪽으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "공식의 출발점은 모델 안의 단일 어텐션 유닛이다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어나기도 하고, 대화 속 질문 순서도 결과를 바꿀 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
+        },
+        {
+          "t": "p",
+          "x": "저자들이 특히 걱정하는 쪽은 cloud-based 안전 필터가 작동하지 않는 오프라인 AI다. 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 앞으로 기기에 내장할 수 있다는 게 이들의 제안이다."
+        }
+      ]
+    },
+    "science/science-co2-methanol-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+          "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
+        },
+        {
+          "t": "p",
+          "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 일어날 법한 반응 몇 개만 골라 쓰는 게 관행이었고, 그 바람에 중요한 반응 수백 개를 놓칠 수 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Indian Institute of Science 연구진은 Nature Communications에 실린 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개짜리 데이터베이스를 만들고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개까지 넓혔다."
+        },
+        {
+          "t": "p",
+          "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 주생성물도 메탄올과 일산화탄소로 정확히 짚어냈다."
+        },
+        {
+          "t": "p",
+          "x": "수소가 분자 상태의 H₂ 그대로 중간체에 직접 옮겨갈 수 있다는 사실도 새로 드러났다."
+        }
+      ]
+    },
+    "science/science-unique-games-proof-race": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
+          "cap": "James O’Brien(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "2026년 9월 11일 아침, ‘unique games’ 추측의 권위자인 MIT의 Dor Minzer에게 메시지가 밀려들었다. OpenAI가 이 추측의 증명을 찾았고 언제든 공개할 수 있다는 소식이었다."
+        },
+        {
+          "t": "p",
+          "x": "증명한 사람은 Minzer가 아니었다. 다만 그는 최근 대학원생 Yumou Fei, Shuo Wang과 함께 밀접한 문제에서 이정표가 될 결과를 증명해 둔 참이었다. 사흘 뒤 세 사람은 95쪽 논문을 온라인에 올리며 “수학적으로는 완결됐지만, 우리가 공유하고 싶었던 형태는 아니다”라는 단서를 달았다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
+          "cap": "Dor Minzer와 학생들은 AI 증명 소문에 선수를 빼앗기지 않으려고 이정표가 될 결과를 서둘러 올렸다. 사진 제공: Dor Minzer"
+        },
+        {
+          "t": "p",
+          "x": "10월 6일 OpenAI는 수학 여러 분야의 다른 결과 376건과 함께 unique games 추측의 증명을 발표했다. Khot의 2-to-1 추측에 대한 Lean-verified 증명도 들어 있었다. 사람이 편집하지도, 독립 전문가가 검토하지도 않은 AI-generated 원고였다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
+          "cap": "Subhash Khot은 대학원생 때 unique games 추측을 내놓았다. Béatrice de Géa(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "세 사람이 증명한 건 Khot의 2-to-1 games 추측보다 조금 약한 4-to-1 버전이다. 일부 3-colorable 그래프는 색을 아무리 더 써도 여전히 칠하기 어렵다는 내용이다. Princeton의 Mark Braverman은 “보도자료로 하는 수학은 수학에 그다지 건강하지 않다”고 말했다."
+        }
+      ]
     }
   }
 }

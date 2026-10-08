@@ -1,17 +1,793 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "design",
   "cards": [
     {
-      "id": "design-chatgpt-intelligent-ui",
+      "id": "design-archicad-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT, 이제\n생성한 화면으로 답한다",
-      "body": "ChatGPT의 Intelligent UI가 모든 사용자에게 시각 자료로 답한다.",
-      "mini_headline": "ChatGPT, UI로 답한다",
+      "headline": "Archicad에\nMCP와 AI 더한다",
+      "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
+      "mini_headline": "Archicad에 MCP·AI 추가",
+      "tool": "Text-to-CAD",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+          },
+          {
+            "t": "p",
+            "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에 놓인 것은 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이다. Design Intelligence Strategy에 맞춰 핵심 제품을 손보고, Model Context Protocol(MCP) 연결 계획과 AI Assistant 업데이트도 담았다."
+          },
+          {
+            "t": "p",
+            "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개 넘는 시장에 새로 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+          },
+          {
+            "t": "p",
+            "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, 건축가는 AI Assistant Spaces에서 자기 문서로 지식 베이스를 꾸린다."
+          },
+          {
+            "t": "p",
+            "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
+          }
+        ]
+      },
+      "lead_image": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png",
+      "text": {
+        "en": {
+          "headline": "Graphisoft adds MCP and AI\nto its Archicad portfolio",
+          "body": "Graphisoft's 2026 Archicad portfolio brings planned MCP support, AI Visualizer updates and a new Archicad Max plan.",
+          "mini_headline": "Archicad adds MCP and AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft introduced its 2026 product portfolio, led by Archicad and new artificial intelligence capabilities for architecture, engineering and construction teams. Based on its Design Intelligence Strategy, it includes updates to core products, planned Model Context Protocol (MCP) connectivity and an update to AI Assistant."
+              },
+              {
+                "t": "p",
+                "x": "The latest Archicad adds Dark Mode for Windows, improved visibility for multistory walls, more documentation controls, updated Project Info management, customizable Navigator organization and expanded drawing label options. MEP Designer and DDScad gain BIM querying, visualization, workflow and AI integration improvements, and MEP Designer comes to more than 40 additional markets."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "During October, Archicad users get early access to Nemetschek Creator, a cloud-native platform for early-stage design, sustainability and feasibility analysis, and the Open Collaboration Platform, plus real-time visualization through Maxon Redshift. AI Visualizer will add image-generation capabilities and AI image models including Nano Banana Pro, and AI Assistant Spaces will let architects build a knowledge base from their own documents."
+              },
+              {
+                "t": "p",
+                "x": "Subscriptions expand to three plans: Archicad Studio, Archicad Collaborate and Archicad Max, the last intended for practices using data- and AI-based workflows."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Archicad에\nMCP와 AI 더한다",
+          "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
+          "mini_headline": "Archicad에 MCP·AI 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에 놓인 것은 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이다. Design Intelligence Strategy에 맞춰 핵심 제품을 손보고, Model Context Protocol(MCP) 연결 계획과 AI Assistant 업데이트도 담았다."
+              },
+              {
+                "t": "p",
+                "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개 넘는 시장에 새로 나온다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, 건축가는 AI Assistant Spaces에서 자기 문서로 지식 베이스를 꾸린다."
+              },
+              {
+                "t": "p",
+                "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Archicadに\nMCPとAIを追加",
+          "body": "Graphisoftの2026年版ArchicadはMCP対応予定とAI強化を打ち出した。",
+          "mini_headline": "ArchicadにMCPとAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoftは、Archicadと、建築・エンジニアリング・建設チーム向けの新たな人工知能機能を柱とする2026年の製品ポートフォリオを発表した。Design Intelligence Strategyに基づき、主要製品のアップデート、予定されているModel Context Protocol(MCP)接続、AI Assistantのアップデートを含む。"
+              },
+              {
+                "t": "p",
+                "x": "最新のArchicadには、Windows向けDark Mode、複数階にまたがる壁の視認性向上、図面作成の制御強化、Project Info管理の刷新、カスタマイズ可能なNavigator構成、図面ラベルオプションの拡充が加わった。MEP DesignerとDDScadはBIMクエリ、可視化、ワークフロー、AI統合が改善され、MEP Designerは新たに40を超える市場に展開される。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10月中、Archicadユーザーは、初期段階の設計、サステナビリティ、実現可能性分析のためのクラウドネイティブ・プラットフォームNemetschek CreatorとOpen Collaboration Platformを先行利用でき、Maxon Redshiftによるリアルタイム可視化も使える。AI Visualizerには画像生成機能とNano Banana ProなどのAI画像モデルが加わり、AI Assistant Spacesでは建築家が自分の文書からナレッジベースを構築できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Archicad新增\nMCP与AI能力",
+          "body": "Graphisoft的2026年Archicad产品线计划支持MCP，并强化AI。",
+          "mini_headline": "Archicad新增MCP与AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft发布2026年产品组合，以Archicad以及面向建筑、工程和施工团队的全新人工智能功能为核心。该组合基于其Design Intelligence Strategy，包括核心产品更新、计划中的Model Context Protocol（MCP）连接以及AI Assistant的更新。"
+              },
+              {
+                "t": "p",
+                "x": "最新版Archicad新增Windows版Dark Mode，改进多层墙体的可见性，提供更多出图控制，更新Project Info管理，支持自定义Navigator组织方式，并扩展图纸标注选项。MEP Designer和DDScad在BIM查询、可视化、工作流程和AI集成方面得到改进，MEP Designer还将进入另外40多个市场。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10月期间，Archicad用户可抢先使用Nemetschek Creator（一个面向早期设计、可持续性与可行性分析的云原生平台）和Open Collaboration Platform，并可通过Maxon Redshift进行实时可视化。AI Visualizer将加入图像生成功能以及包括Nano Banana Pro在内的AI图像模型，AI Assistant Spaces则让建筑师能用自己的文档建立知识库。"
+              },
+              {
+                "t": "p",
+                "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Graphisoft suma MCP y AI\na su cartera de Archicad",
+          "body": "La cartera 2026 de Graphisoft trae soporte previsto para MCP, mejoras en AI Visualizer y el plan Archicad Max.",
+          "mini_headline": "Archicad suma MCP y AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft presentó su cartera de productos 2026, encabezada por Archicad y por nuevas capacidades de inteligencia artificial para equipos de arquitectura, ingeniería y construcción. Basada en su Design Intelligence Strategy, incluye actualizaciones de los productos principales, la conectividad prevista con Model Context Protocol (MCP) y una actualización de AI Assistant."
+              },
+              {
+                "t": "p",
+                "x": "La última versión de Archicad añade Dark Mode para Windows, mejor visibilidad de los muros de varias plantas, más controles de documentación, una gestión renovada de Project Info, organización personalizable de Navigator y más opciones de etiquetas de dibujo. MEP Designer y DDScad mejoran en consultas BIM, visualización, flujos de trabajo e integración de AI, y MEP Designer llega a más de 40 mercados adicionales."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "Durante octubre, los usuarios de Archicad obtienen acceso anticipado a Nemetschek Creator, una plataforma nativa en la nube para diseño en fase inicial, sostenibilidad y análisis de viabilidad, y a Open Collaboration Platform, además de visualización en tiempo real con Maxon Redshift. AI Visualizer añadirá capacidades de generación de imágenes y modelos de imagen de AI como Nano Banana Pro, y AI Assistant Spaces permitirá a los arquitectos crear una base de conocimiento con sus propios documentos."
+              },
+              {
+                "t": "p",
+                "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Archicad에\nMCP와 AI 더한다",
+          "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
+          "mini_headline": "Archicad에 MCP·AI 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에는 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이 있다. Design Intelligence Strategy를 바탕으로 핵심 제품 업데이트, Model Context Protocol(MCP) 연결 계획, AI Assistant 업데이트를 담았다."
+              },
+              {
+                "t": "p",
+                "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개가 넘는 시장에 새로 출시된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, AI Assistant Spaces로 건축가는 자신의 문서로 지식 베이스를 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. 이 가운데 Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소를 위한 요금제다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Archicadに\nMCPとAIを追加",
+          "body": "Graphisoftの2026年版ArchicadはMCP対応予定とAI強化を打ち出した。",
+          "mini_headline": "ArchicadにMCPとAI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoftは、Archicadと、建築・エンジニアリング・建設チーム向けの新たな人工知能機能を柱とする2026年の製品ポートフォリオを発表した。Design Intelligence Strategyに基づき、主要製品のアップデート、予定されているModel Context Protocol(MCP)接続、AI Assistantのアップデートを含む。"
+              },
+              {
+                "t": "p",
+                "x": "最新のArchicadには、Windows向けDark Mode、複数階にまたがる壁の視認性向上、図面作成の制御強化、Project Info管理の刷新、カスタマイズ可能なNavigator構成、図面ラベルオプションの拡充が加わった。MEP DesignerとDDScadはBIMクエリ、可視化、ワークフロー、AI統合が改善され、MEP Designerは新たに40を超える市場に展開される。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10月中、Archicadユーザーは、初期段階の設計、サステナビリティ、実現可能性分析のためのクラウドネイティブ・プラットフォームNemetschek CreatorとOpen Collaboration Platformを先行利用でき、Maxon Redshiftによるリアルタイム可視化も使える。AI Visualizerには画像生成機能とNano Banana ProなどのAI画像モデルが加わり、AI Assistant Spacesでは建築家が自分の文書からナレッジベースを構築できるようになる。"
+              },
+              {
+                "t": "p",
+                "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Archicad新增\nMCP与AI能力",
+          "body": "Graphisoft的2026年Archicad产品线计划支持MCP，并强化AI。",
+          "mini_headline": "Archicad新增MCP与AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft发布2026年产品组合，以Archicad以及面向建筑、工程和施工团队的全新人工智能功能为核心。该组合基于其Design Intelligence Strategy，包括核心产品更新、计划中的Model Context Protocol（MCP）连接以及AI Assistant的更新。"
+              },
+              {
+                "t": "p",
+                "x": "最新版Archicad新增Windows版Dark Mode，改进多层墙体的可见性，提供更多出图控制，更新Project Info管理，支持自定义Navigator组织方式，并扩展图纸标注选项。MEP Designer和DDScad在BIM查询、可视化、工作流程和AI集成方面得到改进，MEP Designer还将进入另外40多个市场。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "10月期间，Archicad用户可抢先使用Nemetschek Creator（一个面向早期设计、可持续性与可行性分析的云原生平台）和Open Collaboration Platform，并可通过Maxon Redshift进行实时可视化。AI Visualizer将加入图像生成功能以及包括Nano Banana Pro在内的AI图像模型，AI Assistant Spaces则让建筑师能用自己的文档建立知识库。"
+              },
+              {
+                "t": "p",
+                "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Graphisoft suma MCP y AI\na su cartera de Archicad",
+          "body": "La cartera 2026 de Graphisoft trae soporte previsto para MCP, mejoras en AI Visualizer y el plan Archicad Max.",
+          "mini_headline": "Archicad suma MCP y AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+              },
+              {
+                "t": "p",
+                "x": "Graphisoft presentó su cartera de productos 2026, encabezada por Archicad y por nuevas capacidades de inteligencia artificial para equipos de arquitectura, ingeniería y construcción. Basada en su Design Intelligence Strategy, incluye actualizaciones de los productos principales, la conectividad prevista con Model Context Protocol (MCP) y una actualización de AI Assistant."
+              },
+              {
+                "t": "p",
+                "x": "La última versión de Archicad añade Dark Mode para Windows, mejor visibilidad de los muros de varias plantas, más controles de documentación, una gestión renovada de Project Info, organización personalizable de Navigator y más opciones de etiquetas de dibujo. MEP Designer y DDScad mejoran en consultas BIM, visualización, flujos de trabajo e integración de AI, y MEP Designer llega a más de 40 mercados adicionales."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+              },
+              {
+                "t": "p",
+                "x": "Durante octubre, los usuarios de Archicad obtienen acceso anticipado a Nemetschek Creator, una plataforma nativa en la nube para diseño en fase inicial, sostenibilidad y análisis de viabilidad, y a Open Collaboration Platform, además de visualización en tiempo real con Maxon Redshift. AI Visualizer añadirá capacidades de generación de imágenes y modelos de imagen de AI como Nano Banana Pro, y AI Assistant Spaces permitirá a los arquitectos crear una base de conocimiento con sus propios documentos."
+              },
+              {
+                "t": "p",
+                "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-keyshot-2026",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
+      "body": "KeyShot 2026은 AI Shots로 렌더링 작업에 생성형 AI를 들였다.",
+      "mini_headline": "KeyShot 2026, AI Shots 추가",
+      "tool": "KeyShot",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+          },
+          {
+            "t": "p",
+            "x": "KeyShot 2026은 렌더링 결과물을 다듬고 워크플로를 줄이려고 AI를 꾸준히 받아들인다. Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능은 편집과 업스케일링까지 되는 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery다."
+          },
+          {
+            "t": "p",
+            "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 고친다. 이제는 훨씬 짧은 프롬프트로도 돌아간다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+          },
+          {
+            "t": "p",
+            "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트해 보니 AI Shots는 한 번도 멈추지 않았다. 다만 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 엉뚱하게 읽을 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+          },
+          {
+            "t": "p",
+            "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 사실상 제품 시각화 전용으로 설계됐다."
+          }
+        ]
+      },
+      "lead_image": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX.jpg",
+      "text": {
+        "en": {
+          "headline": "KeyShot 2026 puts generative\nAI inside product rendering",
+          "body": "Creative Bloq's review finds KeyShot 2026's AI Shots bring generative AI straight into the product-rendering workflow.",
+          "mini_headline": "KeyShot 2026 adds AI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "Image credit: 3D model produced by KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026 continues to embrace AI to improve rendered output and simplify workflows, and Creative Bloq finds it easier to use and faster than ever. New features include more realistic AI output through AI Shots, now with editing and upscaling, an upgraded Move Tool + Custom Pivot and an all-new Gallery."
+              },
+              {
+                "t": "p",
+                "x": "AI Shots, KeyShot's generative AI workflow introduced in 2025.2, can generate images from a CAD model or edit an existing image, and now works with much shorter prompts. Its upscaler can double or quadruple the resolution of both traditional renderings and AI Shots."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "Image credit: 3D model produced by KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "Tested on a 16GB MacBook Pro (32GB is recommended), AI Shots never crashed, but some prompts took upwards of five minutes and it sometimes misinterpreted prompts. It also needs a download of near 20GB of AI data."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "Image credit: 3D model produced by KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional costs $108.25 per month, billed annually at $1,299; KeyShot Business costs $133.25 per month ($1,599 annually). KeyShot is designed almost exclusively for product visualisation."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
+          "body": "KeyShot 2026은 AI Shots로 렌더링 작업에 생성형 AI를 들였다.",
+          "mini_headline": "KeyShot 2026, AI Shots 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026은 렌더링 결과물을 다듬고 워크플로를 줄이려고 AI를 꾸준히 받아들인다. Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능은 편집과 업스케일링까지 되는 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery다."
+              },
+              {
+                "t": "p",
+                "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 고친다. 이제는 훨씬 짧은 프롬프트로도 돌아간다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트해 보니 AI Shots는 한 번도 멈추지 않았다. 다만 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 엉뚱하게 읽을 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 사실상 제품 시각화 전용으로 설계됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "KeyShot 2026、\n生成AIを製品レンダリングに",
+          "body": "KeyShot 2026のAI Shotsは生成AIをレンダリング工程に直結させた。",
+          "mini_headline": "KeyShot 2026にAI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026は、レンダリング結果の向上とワークフローの簡素化に向けて引き続きAIを取り入れており、Creative Bloqはこれまでになく使いやすく速いと評価する。新機能には、編集とアップスケーリングに対応したAI ShotsによるよりリアルなAI出力、強化されたMove Tool + Custom Pivot、まったく新しいGalleryがある。"
+              },
+              {
+                "t": "p",
+                "x": "AI ShotsはKeyShotが2025.2で導入した生成AIワークフローで、CADモデルから画像を生成したり既存の画像を編集したりでき、現在ははるかに短いプロンプトでも機能する。アップスケーラーは従来のレンダリングとAI Shotsの両方の解像度を二倍または四倍にできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "16GBのMacBook Pro(推奨は32GB)でテストしたところ、AI Shotsは一度もクラッシュしなかったが、プロンプトによっては五分以上かかり、プロンプトを読み違えることもあった。また、20GB近いAIデータのダウンロードも必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professionalは月額$108.25(年額$1,299の一括請求)、KeyShot Businessは月額$133.25(年額$1,599)だ。KeyShotはほぼ製品ビジュアライゼーション専用に設計されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "KeyShot 2026\n把生成式AI带入产品渲染",
+          "body": "KeyShot 2026的AI Shots将生成式AI直接引入产品渲染流程。",
+          "mini_headline": "KeyShot 2026新增AI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026继续拥抱AI，以提升渲染效果并简化工作流程，Creative Bloq认为它比以往更易用、更快。新功能包括：借助AI Shots获得更逼真的AI输出，且现在支持编辑与放大；升级的Move Tool + Custom Pivot；以及全新的Gallery。"
+              },
+              {
+                "t": "p",
+                "x": "AI Shots是KeyShot在2025.2中推出的生成式AI工作流程，可以从CAD模型生成图像或编辑现有图像，现在用短得多的提示词也能工作。其放大功能可将传统渲染图和AI Shots图像的分辨率提升至两倍或四倍。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "在16GB的MacBook Pro（推荐32GB）上测试时，AI Shots从未崩溃，但部分提示词耗时超过五分钟，有时还会误解提示词。它还需要下载近20GB的AI数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional每月$108.25，按年计费$1,299；KeyShot Business每月$133.25（每年$1,599）。KeyShot几乎专为产品可视化而设计。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "KeyShot 2026 integra la AI\ngenerativa en el renderizado",
+          "body": "Creative Bloq concluye que AI Shots de KeyShot 2026 lleva la AI generativa directamente al flujo de renderizado.",
+          "mini_headline": "KeyShot 2026 añade AI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026 sigue apostando por la AI para mejorar los resultados del renderizado y simplificar los flujos de trabajo, y Creative Bloq lo encuentra más fácil de usar y más rápido que nunca. Entre las novedades figuran resultados de AI más realistas con AI Shots, que ahora permite editar y escalar, una versión mejorada de Move Tool + Custom Pivot y una Gallery completamente nueva."
+              },
+              {
+                "t": "p",
+                "x": "AI Shots, el flujo de trabajo de AI generativa que KeyShot introdujo en 2025.2, puede generar imágenes a partir de un modelo CAD o editar una imagen existente, y ahora funciona con instrucciones mucho más cortas. Su escalador puede duplicar o cuadruplicar la resolución tanto de los renderizados tradicionales como de AI Shots."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "En las pruebas en un MacBook Pro de 16GB (se recomiendan 32GB), AI Shots nunca se bloqueó, pero algunas instrucciones tardaron más de cinco minutos y a veces las interpretó mal. Además, requiere descargar cerca de 20GB de datos de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional cuesta $108.25 al mes, con facturación anual de $1,299; KeyShot Business cuesta $133.25 al mes ($1,599 al año). KeyShot está diseñado casi exclusivamente para la visualización de productos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
+          "body": "KeyShot 2026의 AI Shots는 생성형 AI를 렌더링 작업에 들였다.",
+          "mini_headline": "KeyShot 2026, AI Shots 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026은 렌더링 결과물을 개선하고 워크플로를 단순화하려고 AI를 계속 받아들이고 있으며, Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능으로는 편집과 업스케일링을 지원하게 된 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery가 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 편집할 수 있고 이제 훨씬 짧은 프롬프트로도 작동한다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트한 결과 AI Shots는 한 번도 멈추지 않았지만, 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 잘못 해석할 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 거의 제품 시각화만을 위해 설계됐다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "KeyShot 2026、\n生成AIを製品レンダリングに",
+          "body": "KeyShot 2026のAI Shotsは生成AIをレンダリング工程に直結させた。",
+          "mini_headline": "KeyShot 2026にAI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026は、レンダリング結果の向上とワークフローの簡素化に向けて引き続きAIを取り入れており、Creative Bloqはこれまでになく使いやすく速いと評価する。新機能には、編集とアップスケーリングに対応したAI ShotsによるよりリアルなAI出力、強化されたMove Tool + Custom Pivot、まったく新しいGalleryがある。"
+              },
+              {
+                "t": "p",
+                "x": "AI ShotsはKeyShotが2025.2で導入した生成AIワークフローで、CADモデルから画像を生成したり既存の画像を編集したりでき、現在ははるかに短いプロンプトでも機能する。アップスケーラーは従来のレンダリングとAI Shotsの両方の解像度を二倍または四倍にできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "16GBのMacBook Pro(推奨は32GB)でテストしたところ、AI Shotsは一度もクラッシュしなかったが、プロンプトによっては五分以上かかり、プロンプトを読み違えることもあった。また、20GB近いAIデータのダウンロードも必要だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professionalは月額$108.25(年額$1,299の一括請求)、KeyShot Businessは月額$133.25(年額$1,599)だ。KeyShotはほぼ製品ビジュアライゼーション専用に設計されている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "KeyShot 2026\n把生成式AI带入产品渲染",
+          "body": "KeyShot 2026的AI Shots将生成式AI直接引入产品渲染流程。",
+          "mini_headline": "KeyShot 2026新增AI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026继续拥抱AI，以提升渲染效果并简化工作流程，Creative Bloq认为它比以往更易用、更快。新功能包括：借助AI Shots获得更逼真的AI输出，且现在支持编辑与放大；升级的Move Tool + Custom Pivot；以及全新的Gallery。"
+              },
+              {
+                "t": "p",
+                "x": "AI Shots是KeyShot在2025.2中推出的生成式AI工作流程，可以从CAD模型生成图像或编辑现有图像，现在用短得多的提示词也能工作。其放大功能可将传统渲染图和AI Shots图像的分辨率提升至两倍或四倍。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "在16GB的MacBook Pro（推荐32GB）上测试时，AI Shots从未崩溃，但部分提示词耗时超过五分钟，有时还会误解提示词。它还需要下载近20GB的AI数据。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "图片来源：KeyShot制作的3D模型"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional每月$108.25，按年计费$1,299；KeyShot Business每月$133.25（每年$1,599）。KeyShot几乎专为产品可视化而设计。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "KeyShot 2026 integra la AI\ngenerativa en el renderizado",
+          "body": "Creative Bloq concluye que AI Shots de KeyShot 2026 lleva la AI generativa directamente al flujo de renderizado.",
+          "mini_headline": "KeyShot 2026 añade AI Shots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot 2026 sigue apostando por la AI para mejorar los resultados del renderizado y simplificar los flujos de trabajo, y Creative Bloq lo encuentra más fácil de usar y más rápido que nunca. Entre las novedades figuran resultados de AI más realistas con AI Shots, que ahora permite editar y escalar, una versión mejorada de Move Tool + Custom Pivot y una Gallery completamente nueva."
+              },
+              {
+                "t": "p",
+                "x": "AI Shots, el flujo de trabajo de AI generativa que KeyShot introdujo en 2025.2, puede generar imágenes a partir de un modelo CAD o editar una imagen existente, y ahora funciona con instrucciones mucho más cortas. Su escalador puede duplicar o cuadruplicar la resolución tanto de los renderizados tradicionales como de AI Shots."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "En las pruebas en un MacBook Pro de 16GB (se recomiendan 32GB), AI Shots nunca se bloqueó, pero algunas instrucciones tardaron más de cinco minutos y a veces las interpretó mal. Además, requiere descargar cerca de 20GB de datos de AI."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+              },
+              {
+                "t": "p",
+                "x": "KeyShot Professional cuesta $108.25 al mes, con facturación anual de $1,299; KeyShot Business cuesta $133.25 al mes ($1,599 al año). KeyShot está diseñado casi exclusivamente para la visualización de productos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-free-ai-creative-cloud",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Creative Cloud\nAI로 재현해 무료 공개",
+      "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
+      "mini_headline": "Creative Cloud, 무료로 재탄생",
       "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -19,209 +795,198 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-            "cap": "이미지: OpenAI"
+            "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT에 새 기능 Intelligent UI를 내놓는다. 질문에 인터랙티브 시각 자료로 답하는 기능이다. GPT-6와 함께 모든 사용자에게 배포되며, 이제 ChatGPT는 텍스트 답변에 다이어그램, 차트, 양식, 누를 수 있는 버튼 등을 곁들인다."
+            "x": "Canva와 Affinity가 Adobe를 계속 위협하는 사이, Adobe는 AI 약관과 해지 정책으로 스스로 사용자 일부를 떠나보냈다."
           },
           {
             "t": "p",
-            "x": "OpenAI는 텍스트 대신 인터랙티브 시각 자료를 만들 때가 언제인지, 그 형식은 어떻게 짤지를 GPT-6에 학습시켰다고 밝혔다. 예시 하나는 기어가 일곱 단인 자전거 다이어그램인데, 부품마다 강조해 보여 주는 인터랙티브 버튼까지 달렸다."
+            "x": "1인 개발자 Brandon Thomas를 움직인 건 그중 해지 정책이었던 모양이다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. Hacker News에서는 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-            "cap": "ChatGPT가 그린, 기어가 일곱 단인 자전거의 설계 다이어그램. 이미지: OpenAI"
+            "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
           },
           {
             "t": "p",
-            "x": "다른 예시에서 ChatGPT는 패를 하나하나 스크롤 가능한 범주로 나눈 시각 자료로 마작(Mahjong)을 가르친다. 은퇴 저축 계산기, 레트로 게임, 비용 분할 계산기 같은 도구도 요청하면 답변 안에 바로 만들어 준다."
+            "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Intelligent UI를 갖춘 GPT-6는 오늘부터 전 세계 Plus, Pro, Business, Enterprise 사용자에게 배포되고, 목요일에는 Go와 무료 요금제로 넓어진다. 상위 요금제는 중간급 모델 GPT-6 Sol을, Go와 무료 사용자는 더 효율적인 GPT-6 Luna를 쓴다."
+            "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습도 떠올리기 어렵다고 본다. 한 Redditor의 말대로 Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
           }
         ]
       },
+      "lead_image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg",
       "text": {
         "en": {
-          "headline": "ChatGPT now answers\nwith generated interfaces",
-          "body": "ChatGPT's Intelligent UI brings visual answers with images, charts and buttons to all users.",
-          "mini_headline": "ChatGPT answers in UI",
+          "headline": "A developer rebuilt Creative\nCloud with AI and gave it away",
+          "body": "A developer used Claude and Rust to rebuild Photoshop, Premiere and Illustrator clones, then gave them away for free.",
+          "mini_headline": "Creative Cloud, rebuilt free",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "Image: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more."
+                "x": "Canva and Affinity continue to give Adobe a run for its money, but Adobe itself has also pushed some users away, thanks to its AI terms and cancellation policies."
               },
               {
                 "t": "p",
-                "x": "OpenAI says it trained GPT-6 when to generate interactive visuals over text, as well as how to format them. One example shows a diagram of a seven-speed bicycle, complete with interactive buttons that highlight different parts."
+                "x": "The latter apparently inspired solo developer Brandon Thomas to recreate several of Adobe's most popular tools, including Photoshop, Premiere and Illustrator, rebuilt using Claude and Rust. On Hacker News he said he \"got bit by the dark pattern \"cancellation fee\" one too many times.\""
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT generates a diagram showing the design of a seven-speed bicycle. Image: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "Another shows ChatGPT teaching Mahjong with visuals of each tile placed into scrollable categories. You can also ask it to generate tools such as a retirement savings calculator, retro game, or bill splitter, built in-line with its response."
+                "x": "\"I'm not just some casual vibe coder. I'm a 15-year industry veteran,\" Thomas wrote on Reddit, adding on Hacker News: \"Software is over.\""
               },
               {
                 "t": "p",
-                "x": "GPT-6 with Intelligent UI is rolling out globally to Plus, Pro, Business, and Enterprise users starting today, and expands to Go and free tiers on Thursday. Higher tiers get the mid-range GPT-6 Sol model; Go and free users get the more efficient GPT-6 Luna."
+                "x": "Creative Bloq is sceptical: using AI to create a carbon copy is not as exciting as creating something new, and it's hard to imagine professional creatives placing their files, and their livelihoods, in the hands of AI-generated software. As one Redditor puts it, unproven software that vaguely looks like Photoshop is very different from dependable software maintained long-term."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT, 이제\n생성한 화면으로 답한다",
-          "body": "ChatGPT의 Intelligent UI가 모든 사용자에게 시각 자료로 답한다.",
-          "mini_headline": "ChatGPT, UI로 답한다",
+          "headline": "Creative Cloud\nAI로 재현해 무료 공개",
+          "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
+          "mini_headline": "Creative Cloud, 무료로 재탄생",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "이미지: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT에 새 기능 Intelligent UI를 내놓는다. 질문에 인터랙티브 시각 자료로 답하는 기능이다. GPT-6와 함께 모든 사용자에게 배포되며, 이제 ChatGPT는 텍스트 답변에 다이어그램, 차트, 양식, 누를 수 있는 버튼 등을 곁들인다."
+                "x": "Canva와 Affinity가 Adobe를 계속 위협하는 사이, Adobe는 AI 약관과 해지 정책으로 스스로 사용자 일부를 떠나보냈다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 텍스트 대신 인터랙티브 시각 자료를 만들 때가 언제인지, 그 형식은 어떻게 짤지를 GPT-6에 학습시켰다고 밝혔다. 예시 하나는 기어가 일곱 단인 자전거 다이어그램인데, 부품마다 강조해 보여 주는 인터랙티브 버튼까지 달렸다."
+                "x": "1인 개발자 Brandon Thomas를 움직인 건 그중 해지 정책이었던 모양이다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. Hacker News에서는 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT가 그린, 기어가 일곱 단인 자전거의 설계 다이어그램. 이미지: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "다른 예시에서 ChatGPT는 패를 하나하나 스크롤 가능한 범주로 나눈 시각 자료로 마작(Mahjong)을 가르친다. 은퇴 저축 계산기, 레트로 게임, 비용 분할 계산기 같은 도구도 요청하면 답변 안에 바로 만들어 준다."
+                "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Intelligent UI를 갖춘 GPT-6는 오늘부터 전 세계 Plus, Pro, Business, Enterprise 사용자에게 배포되고, 목요일에는 Go와 무료 요금제로 넓어진다. 상위 요금제는 중간급 모델 GPT-6 Sol을, Go와 무료 사용자는 더 효율적인 GPT-6 Luna를 쓴다."
+                "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습도 떠올리기 어렵다고 본다. 한 Redditor의 말대로 Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが\n生成した画面で答える",
-          "body": "ChatGPTのIntelligent UIが全ユーザーに視覚的な回答を届ける。",
-          "mini_headline": "ChatGPTがUIで回答",
+          "headline": "AIで作り直し無料公開\nCreative Cloud",
+          "body": "ある開発者がClaudeとRustでPhotoshopなどを再現し、無料で公開した。",
+          "mini_headline": "Creative Cloudを無料で再現",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "画像: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPTに新機能Intelligent UIを導入する。チャットボットが質問にインタラクティブなビジュアルで答えられるようにする機能だ。GPT-6とともに全ユーザーへ順次提供されるこのアップデートにより、ChatGPTはテキストの回答に図、グラフ、フォーム、タップできるボタンなどを組み合わせられるようになる。"
+                "x": "CanvaとAffinityがAdobeを脅かし続ける一方、Adobe自身もAI規約と解約ポリシーによって一部のユーザーを遠ざけてきた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIによると、GPT-6にはテキストよりインタラクティブなビジュアルを生成すべき場面と、その組み立て方を学習させたという。例の一つは七段変速の自転車の図で、各部品をハイライトするインタラクティブなボタンが付いている。"
+                "x": "後者は、個人開発者のBrandon Thomasが、Photoshop、Premiere、IllustratorなどAdobeの人気ツールをいくつも再現するきっかけになったようだ。ツールはClaudeとRustで作り直された。彼はHacker Newsで「ダークパターンの『解約手数料』に何度も噛まれた」と述べている。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPTが七段変速の自転車の設計を示す図を生成する。画像: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "別の例では、ChatGPTが各牌をスクロールできるカテゴリーに並べたビジュアルで麻雀（Mahjong）を教える。退職後の貯蓄計算機、レトロゲーム、割り勘ツールなどを生成させることもでき、これらは回答の中にそのまま組み込まれる。"
+                "x": "「私はただの気軽なバイブコーダーではない。業界歴15年(15-year)のベテランだ」とThomasはRedditに書き、Hacker Newsでは「ソフトウェアは終わった」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Intelligent UIを備えたGPT-6は、本日から世界のPlus、Pro、Business、Enterpriseユーザーに順次提供され、木曜日にはGoと無料プランにも広がる。上位プランは中位モデルのGPT-6 Solを、Goと無料ユーザーはより効率的なGPT-6 Lunaを使う。"
+                "x": "Creative Bloqは懐疑的だ。AIで複製を作ることは新しいものを生み出すほど刺激的ではなく、プロのクリエイターが自分のファイルや生計をAIが生成した(AI-generated)ソフトウェアに委ねる姿は想像しにくいという。あるRedditorが言うように、Photoshopにぼんやり似ているだけの実績のないソフトウェアは、長期にわたって保守される信頼できるソフトウェアとはまったく違う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT开始用\n生成的界面作答",
-          "body": "ChatGPT的Intelligent UI向所有用户提供带图表和按钮的可视化回答。",
-          "mini_headline": "ChatGPT用UI作答",
+          "headline": "开发者用AI重做\nCreative Cloud",
+          "body": "一名开发者用Claude和Rust重做Photoshop等工具，并免费公开。",
+          "mini_headline": "免费重做的Creative Cloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "图片：OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在为ChatGPT推出名为Intelligent UI的新功能，让聊天机器人能用交互式视觉内容回答问题。这项更新随GPT-6向所有用户推送，使ChatGPT能把文字回答与示意图、图表、表单、可点按的按钮等结合起来。"
+                "x": "Canva和Affinity持续给Adobe带来压力，而Adobe自身的AI条款和取消订阅政策也赶走了一部分用户。"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，它训练GPT-6判断何时用交互式视觉内容代替文字，以及如何编排其格式。其中一个示例展示了一辆七速自行车的示意图，并配有可高亮不同部件的交互按钮。"
+                "x": "后者似乎促使独立开发者Brandon Thomas用Claude和Rust重做了Adobe多款最受欢迎的工具，包括Photoshop、Premiere和Illustrator。他在Hacker News上说，自己“被‘取消费’这种暗黑模式坑了太多次”。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT生成一张展示七速自行车设计的示意图。图片：OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "另一个示例中，ChatGPT把每张牌放进可滚动的分类里，以图示方式教人打麻将（Mahjong）。用户还可以让它生成退休储蓄计算器、复古游戏或账单分摊工具，这些工具会直接嵌在回答之中。"
+                "x": "“我可不是随便玩玩的氛围编程者。我是有15年（15-year）经验的业内老手。”Thomas在Reddit上写道，并在Hacker News上补充：“软件已经完蛋了。”"
               },
               {
                 "t": "p",
-                "x": "搭载Intelligent UI的GPT-6今天起面向全球Plus、Pro、Business和Enterprise用户推出，并于周四扩展到Go和免费版。较高档位用户使用中端模型GPT-6 Sol；Go和免费用户使用更高效的GPT-6 Luna。"
+                "x": "Creative Bloq对此持怀疑态度：用AI做出一模一样的复制品，远不如创造新东西令人兴奋；也很难想象专业创作者会把自己的文件乃至生计交给AI生成（AI-generated）的软件。正如一位Redditor所说，一个未经验证、只是看起来有点像Photoshop的软件，和长期维护、值得信赖的软件截然不同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT ya responde con\ninterfaces generadas",
-          "body": "La función Intelligent UI de ChatGPT lleva a todos los usuarios respuestas visuales con imágenes, gráficos y botones.",
-          "mini_headline": "ChatGPT responde con UI",
+          "headline": "Un desarrollador rehízo con AI\nCreative Cloud y lo regaló",
+          "body": "Un desarrollador usó Claude y Rust para recrear clones de Photoshop, Premiere e Illustrator y los regaló.",
+          "mini_headline": "Creative Cloud, recreado gratis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "Imagen: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI lanza en ChatGPT una nueva función, Intelligent UI, que permite al chatbot responder a tus preguntas con elementos visuales interactivos. La actualización, que llega a todos los usuarios junto con GPT-6, permite a ChatGPT combinar una respuesta de texto con diagramas, gráficos, formularios, botones táctiles y más."
+                "x": "Canva y Affinity siguen plantando cara a Adobe, pero la propia Adobe también ha alejado a algunos usuarios por sus condiciones sobre AI y sus políticas de cancelación."
               },
               {
                 "t": "p",
-                "x": "OpenAI afirma que entrenó a GPT-6 para saber cuándo generar elementos visuales interactivos en lugar de texto y cómo darles formato. Un ejemplo muestra el diagrama de una bicicleta de siete velocidades, con botones interactivos que resaltan sus distintas piezas."
+                "x": "Al parecer, esto último llevó al desarrollador independiente Brandon Thomas a recrear varias de las herramientas más populares de Adobe, como Photoshop, Premiere e Illustrator, reconstruidas con Claude y Rust. En Hacker News dijo que lo había \"mordido el patrón oscuro de la 'tarifa de cancelación' demasiadas veces\"."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT genera un diagrama que muestra el diseño de una bicicleta de siete velocidades. Imagen: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "Otro muestra a ChatGPT enseñando Mahjong con imágenes de cada ficha ordenadas en categorías desplazables. También se le puede pedir que genere herramientas como una calculadora de ahorro para la jubilación, un juego retro o un divisor de cuentas, integradas en su propia respuesta."
+                "x": "\"No soy un vibe coder cualquiera. Soy un veterano con 15 años (15-year) en la industria\", escribió Thomas en Reddit, y añadió en Hacker News: \"El software se acabó\"."
               },
               {
                 "t": "p",
-                "x": "GPT-6 con Intelligent UI llega desde hoy a los usuarios de Plus, Pro, Business y Enterprise en todo el mundo, y se amplía a Go y a los planes gratuitos el jueves. Los planes superiores obtienen el modelo intermedio GPT-6 Sol; los usuarios de Go y gratuitos, el más eficiente GPT-6 Luna."
+                "x": "Creative Bloq se muestra escéptico: usar AI para crear una copia exacta no resulta tan interesante como crear algo nuevo, y cuesta imaginar a creativos profesionales dejando sus archivos, y su sustento, en manos de software generado con AI (AI-generated). Como dice un Redditor, un software sin probar que se parece vagamente a Photoshop es muy distinto de un software fiable mantenido a largo plazo."
               }
             ]
           }
@@ -229,145 +994,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT, 이제\n생성한 화면으로 답한다",
-          "body": "ChatGPT의 Intelligent UI가 모든 사용자에게 시각적 답을 준다.",
-          "mini_headline": "ChatGPT, UI로 답한다",
+          "headline": "Creative Cloud\nAI로 재현해 무료 공개",
+          "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
+          "mini_headline": "Creative Cloud, 무료로 재탄생",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "이미지: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT에 새 기능 Intelligent UI를 내놓는다. 챗봇이 질문에 인터랙티브 시각 자료로 답하게 하는 기능이다. GPT-6와 함께 모든 사용자에게 배포되는 이번 업데이트로 ChatGPT는 텍스트 답변에 다이어그램, 차트, 양식, 누를 수 있는 버튼 등을 결합할 수 있다."
+                "x": "Canva와 Affinity가 계속 Adobe를 위협하는 가운데, Adobe 스스로도 AI 약관과 해지 정책 탓에 일부 사용자를 떠나보냈다."
               },
               {
                 "t": "p",
-                "x": "OpenAI는 GPT-6에 언제 텍스트 대신 인터랙티브 시각 자료를 만들지, 그리고 그 형식을 어떻게 짤지를 학습시켰다고 밝혔다. 한 예시는 기어가 일곱 단인 자전거의 다이어그램으로, 각 부품을 강조하는 인터랙티브 버튼까지 갖췄다."
+                "x": "그중 해지 정책이 1인 개발자 Brandon Thomas를 움직인 것으로 보인다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. 그는 Hacker News에서 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT가 기어가 일곱 단인 자전거의 설계를 보여 주는 다이어그램을 생성한다. 이미지: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "또 다른 예시에서 ChatGPT는 패 하나하나를 스크롤 가능한 범주로 나눈 시각 자료로 마작(Mahjong)을 가르친다. 은퇴 저축 계산기, 레트로 게임, 비용 분할 계산기 같은 도구를 요청할 수도 있으며, 이런 도구는 답변 안에 바로 만들어진다."
+                "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Intelligent UI를 갖춘 GPT-6는 오늘부터 전 세계 Plus, Pro, Business, Enterprise 사용자에게 배포되며, 목요일에는 Go와 무료 요금제로 확대된다. 상위 요금제는 중간급 모델인 GPT-6 Sol을, Go와 무료 사용자는 더 효율적인 GPT-6 Luna를 쓴다."
+                "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새로운 것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습은 상상하기 어렵다는 것이다. 한 Redditor의 말처럼, Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTが\n生成した画面で答える",
-          "body": "ChatGPTのIntelligent UIが全ユーザーに視覚的な回答を届ける。",
-          "mini_headline": "ChatGPTがUIで回答",
+          "headline": "AIで作り直し無料公開\nCreative Cloud",
+          "body": "ある開発者がClaudeとRustでPhotoshopなどを再現し、無料で公開した。",
+          "mini_headline": "Creative Cloudを無料で再現",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "画像: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPTに新機能Intelligent UIを導入する。チャットボットが質問にインタラクティブなビジュアルで答えられるようにする機能だ。GPT-6とともに全ユーザーへ順次提供されるこのアップデートにより、ChatGPTはテキストの回答に図、グラフ、フォーム、タップできるボタンなどを組み合わせられるようになる。"
+                "x": "CanvaとAffinityがAdobeを脅かし続ける一方、Adobe自身もAI規約と解約ポリシーによって一部のユーザーを遠ざけてきた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIによると、GPT-6にはテキストよりインタラクティブなビジュアルを生成すべき場面と、その組み立て方を学習させたという。例の一つは七段変速の自転車の図で、各部品をハイライトするインタラクティブなボタンが付いている。"
+                "x": "後者は、個人開発者のBrandon Thomasが、Photoshop、Premiere、IllustratorなどAdobeの人気ツールをいくつも再現するきっかけになったようだ。ツールはClaudeとRustで作り直された。彼はHacker Newsで「ダークパターンの『解約手数料』に何度も噛まれた」と述べている。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPTが七段変速の自転車の設計を示す図を生成する。画像: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "別の例では、ChatGPTが各牌をスクロールできるカテゴリーに並べたビジュアルで麻雀（Mahjong）を教える。退職後の貯蓄計算機、レトロゲーム、割り勘ツールなどを生成させることもでき、これらは回答の中にそのまま組み込まれる。"
+                "x": "「私はただの気軽なバイブコーダーではない。業界歴15年(15-year)のベテランだ」とThomasはRedditに書き、Hacker Newsでは「ソフトウェアは終わった」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Intelligent UIを備えたGPT-6は、本日から世界のPlus、Pro、Business、Enterpriseユーザーに順次提供され、木曜日にはGoと無料プランにも広がる。上位プランは中位モデルのGPT-6 Solを、Goと無料ユーザーはより効率的なGPT-6 Lunaを使う。"
+                "x": "Creative Bloqは懐疑的だ。AIで複製を作ることは新しいものを生み出すほど刺激的ではなく、プロのクリエイターが自分のファイルや生計をAIが生成した(AI-generated)ソフトウェアに委ねる姿は想像しにくいという。あるRedditorが言うように、Photoshopにぼんやり似ているだけの実績のないソフトウェアは、長期にわたって保守される信頼できるソフトウェアとはまったく違う。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT开始用\n生成的界面作答",
-          "body": "ChatGPT的Intelligent UI向所有用户提供带图表和按钮的可视化回答。",
-          "mini_headline": "ChatGPT用UI作答",
+          "headline": "开发者用AI重做\nCreative Cloud",
+          "body": "一名开发者用Claude和Rust重做Photoshop等工具，并免费公开。",
+          "mini_headline": "免费重做的Creative Cloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "图片：OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在为ChatGPT推出名为Intelligent UI的新功能，让聊天机器人能用交互式视觉内容回答问题。这项更新随GPT-6向所有用户推送，使ChatGPT能把文字回答与示意图、图表、表单、可点按的按钮等结合起来。"
+                "x": "Canva和Affinity持续给Adobe带来压力，而Adobe自身的AI条款和取消订阅政策也赶走了一部分用户。"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，它训练GPT-6判断何时用交互式视觉内容代替文字，以及如何编排其格式。其中一个示例展示了一辆七速自行车的示意图，并配有可高亮不同部件的交互按钮。"
+                "x": "后者似乎促使独立开发者Brandon Thomas用Claude和Rust重做了Adobe多款最受欢迎的工具，包括Photoshop、Premiere和Illustrator。他在Hacker News上说，自己“被‘取消费’这种暗黑模式坑了太多次”。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT生成一张展示七速自行车设计的示意图。图片：OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "另一个示例中，ChatGPT把每张牌放进可滚动的分类里，以图示方式教人打麻将（Mahjong）。用户还可以让它生成退休储蓄计算器、复古游戏或账单分摊工具，这些工具会直接嵌在回答之中。"
+                "x": "“我可不是随便玩玩的氛围编程者。我是有15年（15-year）经验的业内老手。”Thomas在Reddit上写道，并在Hacker News上补充：“软件已经完蛋了。”"
               },
               {
                 "t": "p",
-                "x": "搭载Intelligent UI的GPT-6今天起面向全球Plus、Pro、Business和Enterprise用户推出，并于周四扩展到Go和免费版。较高档位用户使用中端模型GPT-6 Sol；Go和免费用户使用更高效的GPT-6 Luna。"
+                "x": "Creative Bloq对此持怀疑态度：用AI做出一模一样的复制品，远不如创造新东西令人兴奋；也很难想象专业创作者会把自己的文件乃至生计交给AI生成（AI-generated）的软件。正如一位Redditor所说，一个未经验证、只是看起来有点像Photoshop的软件，和长期维护、值得信赖的软件截然不同。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT ya responde con\ninterfaces generadas",
-          "body": "La función Intelligent UI de ChatGPT lleva a todos los usuarios respuestas visuales con imágenes, gráficos y botones.",
-          "mini_headline": "ChatGPT responde con UI",
+          "headline": "Un desarrollador rehízo con AI\nCreative Cloud y lo regaló",
+          "body": "Un desarrollador usó Claude y Rust para recrear clones de Photoshop, Premiere e Illustrator y los regaló.",
+          "mini_headline": "Creative Cloud, recreado gratis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
-                "cap": "Imagen: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
               },
               {
                 "t": "p",
-                "x": "OpenAI lanza en ChatGPT una nueva función, Intelligent UI, que permite al chatbot responder a tus preguntas con elementos visuales interactivos. La actualización, que llega a todos los usuarios junto con GPT-6, permite a ChatGPT combinar una respuesta de texto con diagramas, gráficos, formularios, botones táctiles y más."
+                "x": "Canva y Affinity siguen plantando cara a Adobe, pero la propia Adobe también ha alejado a algunos usuarios por sus condiciones sobre AI y sus políticas de cancelación."
               },
               {
                 "t": "p",
-                "x": "OpenAI afirma que entrenó a GPT-6 para saber cuándo generar elementos visuales interactivos en lugar de texto y cómo darles formato. Un ejemplo muestra el diagrama de una bicicleta de siete velocidades, con botones interactivos que resaltan sus distintas piezas."
+                "x": "Al parecer, esto último llevó al desarrollador independiente Brandon Thomas a recrear varias de las herramientas más populares de Adobe, como Photoshop, Premiere e Illustrator, reconstruidas con Claude y Rust. En Hacker News dijo que lo había \"mordido el patrón oscuro de la 'tarifa de cancelación' demasiadas veces\"."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
-                "cap": "ChatGPT genera un diagrama que muestra el diseño de una bicicleta de siete velocidades. Imagen: OpenAI"
+                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
               },
               {
                 "t": "p",
-                "x": "Otro muestra a ChatGPT enseñando Mahjong con imágenes de cada ficha ordenadas en categorías desplazables. También se le puede pedir que genere herramientas como una calculadora de ahorro para la jubilación, un juego retro o un divisor de cuentas, integradas en su propia respuesta."
+                "x": "\"No soy un vibe coder cualquiera. Soy un veterano con 15 años (15-year) en la industria\", escribió Thomas en Reddit, y añadió en Hacker News: \"El software se acabó\"."
               },
               {
                 "t": "p",
-                "x": "GPT-6 con Intelligent UI llega desde hoy a los usuarios de Plus, Pro, Business y Enterprise en todo el mundo, y se amplía a Go y a los planes gratuitos el jueves. Los planes superiores obtienen el modelo intermedio GPT-6 Sol; los usuarios de Go y gratuitos, el más eficiente GPT-6 Luna."
+                "x": "Creative Bloq se muestra escéptico: usar AI para crear una copia exacta no resulta tan interesante como crear algo nuevo, y cuesta imaginar a creativos profesionales dejando sus archivos, y su sustento, en manos de software generado con AI (AI-generated). Como dice un Redditor, un software sin probar que se parece vagamente a Photoshop es muy distinto de un software fiable mantenido a largo plazo."
               }
             ]
           }
@@ -375,1119 +1132,226 @@
       }
     },
     {
-      "id": "design-mecagent-v2-gpt6-astra-solidworks",
+      "id": "design-claude-frontend-skill",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MecAgent V2,\n복잡한 CAD 작업 맡는다",
-      "body": "MecAgent V2는 GPT-6 Astra로 SolidWorks CAD를 다룬다.",
-      "mini_headline": "CAD용 MecAgent V2",
-      "tool": "Text-to-CAD",
-      "source": "DEVELOP3D",
-      "url": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-          },
-          {
-            "t": "p",
-            "x": "MecAgent가 CAD용 AI 소프트웨어의 두 번째 버전을 내놓았다. 에이전트 하네스로 GPT-6 Astra를 불러와, 쓰던 CAD 패키지 안에서 곧바로 CAD 설계를 해낸다."
-          },
-          {
-            "t": "p",
-            "x": "CAD Agent는 열려 있는 Solidworks 세션 안에서 돌아간다. Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD, 그리고 피처 트리를 재구성하는 STEP-to-SLDPRT를 지원한다. 부품을 모델링해 어셈블리에 넣고 재질을 입히며, 이름 변경과 내보내기, 피처 트리에 매크로 작성까지 맡는다."
-          },
-          {
-            "t": "p",
-            "x": "피처 트리 정리, 텍스트 기반 모션 생성, CAD 파일 변환과 내보내기, 표준 검증, assembly-to-BOM, 분해도 생성도 한다."
-          },
-          {
-            "t": "p",
-            "x": "데모에서는 부품 약 56개와 서브어셈블리 두 개로 된 RC 헬리콥터를 무인 실행 다섯 시간이 채 안 돼 완성한다. 기어와 로터를 잇는 모션은 들어갔지만 전자 장치는 빠졌다."
-          },
-          {
-            "t": "p",
-            "x": "MecAgent는 개별 부품 생성에서 한발 더 나가, 업계 표준 파라메트릭 CAD 소프트웨어 안에서 여러 단계로 길게 이어지는 설계 작업까지 노린다."
-          },
-          {
-            "t": "p",
-            "x": "MecAgent는 이 폭넓은 기능을 “spec-to-CAD”라 부른다. 엔지니어가 부품을 일일이 모델링하지 않고 요구 사항만 내놓으면, 설계에 필요한 CAD 작업을 에이전트가 차례로 처리한다."
-          },
-          {
-            "t": "p",
-            "x": "MecAgent CPO Alexandre Senet은 Onshape용 버전이 앞으로 몇 달간의 MecAgent 로드맵에 올라 있다고 했다. 기존 AI 코파일럿 설치 수는 35,000건을 넘었다."
-          },
-          {
-            "t": "p",
-            "x": "DEVELOP3D 독자는 무료 토큰 3,000개를 주는 무료 플랜으로 MecAgent V2.0.0을 써볼 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "_twtNuzZw-8"
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "MecAgent V2 takes on\ncomplex CAD tasks",
-          "body": "MecAgent V2 uses its agent harness to enlist GPT-6 Astra for complex CAD design tasks directly within SolidWorks.",
-          "mini_headline": "MecAgent V2 for CAD",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent has launched the second version of its AI for CAD software, using its agent harness to enlist GPT-6 Astra into powering CAD designs directly within an existing CAD package."
-              },
-              {
-                "t": "p",
-                "x": "The CAD Agent works within an open Solidworks session – capable of Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD and STEP-to-SLDPRT with a reconstructed feature tree – modelling parts, adding them to assemblies, applying materials, and renaming, exporting or writing macros into the feature tree."
-              },
-              {
-                "t": "p",
-                "x": "Other tasks it can run include feature tree cleanup, motion creation from text, translating and exporting CAD files, standards verification, assembly-to-BOM, and creating exploded views, among others."
-              },
-              {
-                "t": "p",
-                "x": "A demo showcases a RC helicopter – some 56 parts, two subassemblies, including motion linking the gears and rotors, but no electronics – being built in under five hours of unmanned runtime."
-              },
-              {
-                "t": "p",
-                "x": "Rather than generating individual parts, MecAgent is moving to tackle extended, multi-stage design tasks inside industry standard parametric CAD software."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent itself describes the broader capability as “spec-to-CAD”. An engineer can provide a set of requirements and have the agent perform the sequence of CAD operations needed to construct the design, rather than explicitly modelling every component."
-              },
-              {
-                "t": "p",
-                "x": "According to MecAgent CPO Alexandre Senet, an Onshape variant is on MecAgent’s roadmap for the coming months, reporting that its existing AI copilot has in excess of 35,000 installs."
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3D readers can try MecAgent V2.0.0 via its free plan – equipped with 3,000 free tokens."
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "MecAgent V2,\n복잡한 CAD 작업 맡는다",
-          "body": "MecAgent V2는 GPT-6 Astra로 SolidWorks CAD를 다룬다.",
-          "mini_headline": "CAD용 MecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent가 CAD용 AI 소프트웨어의 두 번째 버전을 내놓았다. 에이전트 하네스로 GPT-6 Astra를 불러와, 쓰던 CAD 패키지 안에서 곧바로 CAD 설계를 해낸다."
-              },
-              {
-                "t": "p",
-                "x": "CAD Agent는 열려 있는 Solidworks 세션 안에서 돌아간다. Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD, 그리고 피처 트리를 재구성하는 STEP-to-SLDPRT를 지원한다. 부품을 모델링해 어셈블리에 넣고 재질을 입히며, 이름 변경과 내보내기, 피처 트리에 매크로 작성까지 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "피처 트리 정리, 텍스트 기반 모션 생성, CAD 파일 변환과 내보내기, 표준 검증, assembly-to-BOM, 분해도 생성도 한다."
-              },
-              {
-                "t": "p",
-                "x": "데모에서는 부품 약 56개와 서브어셈블리 두 개로 된 RC 헬리콥터를 무인 실행 다섯 시간이 채 안 돼 완성한다. 기어와 로터를 잇는 모션은 들어갔지만 전자 장치는 빠졌다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent는 개별 부품 생성에서 한발 더 나가, 업계 표준 파라메트릭 CAD 소프트웨어 안에서 여러 단계로 길게 이어지는 설계 작업까지 노린다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent는 이 폭넓은 기능을 “spec-to-CAD”라 부른다. 엔지니어가 부품을 일일이 모델링하지 않고 요구 사항만 내놓으면, 설계에 필요한 CAD 작업을 에이전트가 차례로 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent CPO Alexandre Senet은 Onshape용 버전이 앞으로 몇 달간의 MecAgent 로드맵에 올라 있다고 했다. 기존 AI 코파일럿 설치 수는 35,000건을 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3D 독자는 무료 토큰 3,000개를 주는 무료 플랜으로 MecAgent V2.0.0을 써볼 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MecAgent V2、\n複雑なCAD作業に挑む",
-          "body": "MecAgent V2はGPT-6 AstraでSolidWorks内のCAD設計を担う。",
-          "mini_headline": "CAD向けMecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentはCAD向けAIソフトウェアの第2版をリリースした。エージェントハーネスでGPT-6 Astraを呼び出し、既存のCADパッケージ内で直接CAD設計を行う。"
-              },
-              {
-                "t": "p",
-                "x": "CAD Agentは開いているSolidworksセッション内で動作する。Text-to-CAD、Image-to-CAD、CAD-to-Drawing、Drawing-to-CAD、フィーチャーツリーを再構築するSTEP-to-SLDPRTに対応し、部品のモデリング、アセンブリへの追加、材料の適用、名前の変更やエクスポート、フィーチャーツリーへのマクロ記述までこなす。"
-              },
-              {
-                "t": "p",
-                "x": "ほかにもフィーチャーツリーの整理、テキストからのモーション作成、CADファイルの変換とエクスポート、規格検証、assembly-to-BOM、分解図の作成などを実行できる。"
-              },
-              {
-                "t": "p",
-                "x": "デモでは、約56の部品と2つのサブアセンブリからなるRCヘリコプターが、5時間未満の無人実行で組み上がる。ギアとローターを連動させるモーションは含むが、電子部品は含まない。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentは個別部品の生成にとどまらず、業界標準のパラメトリックCADソフトウェア内で、長く多段階にわたる設計作業に取り組もうとしている。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent自身はこの幅広い機能を「spec-to-CAD」と呼ぶ。エンジニアがすべての部品を明示的にモデリングする代わりに要件を示せば、エージェントが設計の構築に必要な一連のCAD操作を実行する。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentのCPOであるAlexandre Senetによると、Onshape版が今後数カ月のMecAgentのロードマップに載っており、既存のAIコパイロットのインストール数は35,000を超えているという。"
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3Dの読者は、3,000の無料トークンが付く無料プランでMecAgent V2.0.0を試せる。"
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MecAgent V2\n挑战复杂CAD任务",
-          "body": "MecAgent V2借助GPT-6 Astra在SolidWorks内完成CAD设计。",
-          "mini_headline": "面向CAD的MecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent推出了其CAD AI软件的第二版，借助智能体框架调用GPT-6 Astra，直接在现有CAD软件包内完成CAD设计。"
-              },
-              {
-                "t": "p",
-                "x": "CAD Agent在已打开的Solidworks会话中运行，支持Text-to-CAD、Image-to-CAD、CAD-to-Drawing、Drawing-to-CAD，以及可重建特征树的STEP-to-SLDPRT；它能建模零件、将其加入装配体、应用材料，并进行重命名、导出或向特征树写入宏。"
-              },
-              {
-                "t": "p",
-                "x": "它还能执行特征树清理、基于文本的运动创建、CAD文件转换与导出、标准校验、assembly-to-BOM以及生成爆炸视图等任务。"
-              },
-              {
-                "t": "p",
-                "x": "一段演示展示了一架RC直升机在不到五小时的无人值守运行中搭建完成：约56个零件、两个子装配体，包含联动齿轮与旋翼的运动，但不含电子元件。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent不再只生成单个零件，而是着手在行业标准的参数化CAD软件中处理更长、多阶段的设计任务。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent将这一更广泛的能力称为“spec-to-CAD”。工程师只需提供一组需求，智能体便会执行构建设计所需的一系列CAD操作，而无需逐一显式建模每个部件。"
-              },
-              {
-                "t": "p",
-                "x": "据MecAgent CPO Alexandre Senet介绍，Onshape版本已列入MecAgent未来几个月的路线图，其现有AI副驾驶的安装量已超过35,000次。"
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3D读者可通过免费计划试用MecAgent V2.0.0，该计划附带3,000个免费令牌。"
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MecAgent V2 asume\ntareas complejas de CAD",
-          "body": "MecAgent V2 usa su arnés de agentes para recurrir a GPT-6 Astra en tareas complejas de diseño CAD en SolidWorks.",
-          "mini_headline": "MecAgent V2 para CAD",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent ha lanzado la segunda versión de su software de AI para CAD, que usa su arnés de agentes para recurrir a GPT-6 Astra y generar diseños CAD directamente dentro de un paquete CAD existente."
-              },
-              {
-                "t": "p",
-                "x": "El CAD Agent trabaja dentro de una sesión abierta de Solidworks –con capacidad para Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD y STEP-to-SLDPRT con un árbol de operaciones reconstruido–: modela piezas, las añade a ensamblajes, aplica materiales y cambia nombres, exporta o escribe macros en el árbol de operaciones."
-              },
-              {
-                "t": "p",
-                "x": "Entre otras tareas que puede ejecutar figuran la limpieza del árbol de operaciones, la creación de movimiento a partir de texto, la traducción y exportación de archivos CAD, la verificación de normas, assembly-to-BOM y la creación de vistas explosionadas."
-              },
-              {
-                "t": "p",
-                "x": "Una demostración muestra un helicóptero RC –unas 56 piezas y dos subensamblajes, con movimiento que vincula engranajes y rotores, pero sin electrónica– construido en menos de cinco horas de ejecución sin supervisión."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de generar piezas individuales, MecAgent avanza hacia tareas de diseño extensas y de varias etapas dentro de software CAD paramétrico estándar de la industria."
-              },
-              {
-                "t": "p",
-                "x": "La propia MecAgent describe esta capacidad más amplia como “spec-to-CAD”. Un ingeniero puede aportar un conjunto de requisitos y dejar que el agente ejecute la secuencia de operaciones CAD necesaria para construir el diseño, en lugar de modelar explícitamente cada componente."
-              },
-              {
-                "t": "p",
-                "x": "Según el CPO de MecAgent, Alexandre Senet, una variante para Onshape figura en la hoja de ruta de MecAgent para los próximos meses, y su actual copiloto de AI supera las 35,000 instalaciones."
-              },
-              {
-                "t": "p",
-                "x": "Los lectores de DEVELOP3D pueden probar MecAgent V2.0.0 con su plan gratuito, que incluye 3,000 tokens gratuitos."
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "MecAgent V2,\n복잡한 CAD 작업 맡는다",
-          "body": "MecAgent V2는 GPT-6 Astra로 SolidWorks CAD를 다룬다.",
-          "mini_headline": "CAD용 MecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent가 CAD용 AI 소프트웨어의 두 번째 버전을 출시했다. 에이전트 하네스로 GPT-6 Astra를 불러와 기존 CAD 패키지 안에서 바로 CAD 설계를 수행한다."
-              },
-              {
-                "t": "p",
-                "x": "CAD Agent는 열려 있는 Solidworks 세션 안에서 작동한다. Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD, 피처 트리를 재구성하는 STEP-to-SLDPRT를 지원하며, 부품을 모델링해 어셈블리에 추가하고 재질을 적용하며, 이름 변경과 내보내기, 피처 트리에 매크로 작성까지 해낸다."
-              },
-              {
-                "t": "p",
-                "x": "이 밖에도 피처 트리 정리, 텍스트 기반 모션 생성, CAD 파일 변환과 내보내기, 표준 검증, assembly-to-BOM, 분해도 생성 등을 수행할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "데모에서는 부품 약 56개와 서브어셈블리 두 개로 이뤄진 RC 헬리콥터가 무인 실행 다섯 시간 미만 만에 완성된다. 기어와 로터를 잇는 모션은 포함됐지만 전자 장치는 빠졌다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent는 개별 부품 생성을 넘어, 업계 표준 파라메트릭 CAD 소프트웨어 안에서 길고 여러 단계로 이어지는 설계 작업을 다루는 쪽으로 나아가고 있다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent는 이 폭넓은 기능을 “spec-to-CAD”라고 부른다. 엔지니어가 모든 부품을 직접 모델링하는 대신 요구 사항을 제시하면, 에이전트가 설계를 구성하는 데 필요한 일련의 CAD 작업을 수행한다."
-              },
-              {
-                "t": "p",
-                "x": "MecAgent CPO Alexandre Senet에 따르면 Onshape용 버전이 앞으로 몇 달간의 MecAgent 로드맵에 올라 있으며, 기존 AI 코파일럿의 설치 수는 35,000건을 넘었다."
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3D 독자는 무료 토큰 3,000개가 제공되는 무료 플랜으로 MecAgent V2.0.0을 써볼 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "MecAgent V2、\n複雑なCAD作業に挑む",
-          "body": "MecAgent V2はGPT-6 AstraでSolidWorks内のCAD設計を担う。",
-          "mini_headline": "CAD向けMecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentはCAD向けAIソフトウェアの第2版をリリースした。エージェントハーネスでGPT-6 Astraを呼び出し、既存のCADパッケージ内で直接CAD設計を行う。"
-              },
-              {
-                "t": "p",
-                "x": "CAD Agentは開いているSolidworksセッション内で動作する。Text-to-CAD、Image-to-CAD、CAD-to-Drawing、Drawing-to-CAD、フィーチャーツリーを再構築するSTEP-to-SLDPRTに対応し、部品のモデリング、アセンブリへの追加、材料の適用、名前の変更やエクスポート、フィーチャーツリーへのマクロ記述までこなす。"
-              },
-              {
-                "t": "p",
-                "x": "ほかにもフィーチャーツリーの整理、テキストからのモーション作成、CADファイルの変換とエクスポート、規格検証、assembly-to-BOM、分解図の作成などを実行できる。"
-              },
-              {
-                "t": "p",
-                "x": "デモでは、約56の部品と2つのサブアセンブリからなるRCヘリコプターが、5時間未満の無人実行で組み上がる。ギアとローターを連動させるモーションは含むが、電子部品は含まない。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentは個別部品の生成にとどまらず、業界標準のパラメトリックCADソフトウェア内で、長く多段階にわたる設計作業に取り組もうとしている。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent自身はこの幅広い機能を「spec-to-CAD」と呼ぶ。エンジニアがすべての部品を明示的にモデリングする代わりに要件を示せば、エージェントが設計の構築に必要な一連のCAD操作を実行する。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgentのCPOであるAlexandre Senetによると、Onshape版が今後数カ月のMecAgentのロードマップに載っており、既存のAIコパイロットのインストール数は35,000を超えているという。"
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3Dの読者は、3,000の無料トークンが付く無料プランでMecAgent V2.0.0を試せる。"
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "MecAgent V2\n挑战复杂CAD任务",
-          "body": "MecAgent V2借助GPT-6 Astra在SolidWorks内完成CAD设计。",
-          "mini_headline": "面向CAD的MecAgent V2",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent推出了其CAD AI软件的第二版，借助智能体框架调用GPT-6 Astra，直接在现有CAD软件包内完成CAD设计。"
-              },
-              {
-                "t": "p",
-                "x": "CAD Agent在已打开的Solidworks会话中运行，支持Text-to-CAD、Image-to-CAD、CAD-to-Drawing、Drawing-to-CAD，以及可重建特征树的STEP-to-SLDPRT；它能建模零件、将其加入装配体、应用材料，并进行重命名、导出或向特征树写入宏。"
-              },
-              {
-                "t": "p",
-                "x": "它还能执行特征树清理、基于文本的运动创建、CAD文件转换与导出、标准校验、assembly-to-BOM以及生成爆炸视图等任务。"
-              },
-              {
-                "t": "p",
-                "x": "一段演示展示了一架RC直升机在不到五小时的无人值守运行中搭建完成：约56个零件、两个子装配体，包含联动齿轮与旋翼的运动，但不含电子元件。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent不再只生成单个零件，而是着手在行业标准的参数化CAD软件中处理更长、多阶段的设计任务。"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent将这一更广泛的能力称为“spec-to-CAD”。工程师只需提供一组需求，智能体便会执行构建设计所需的一系列CAD操作，而无需逐一显式建模每个部件。"
-              },
-              {
-                "t": "p",
-                "x": "据MecAgent CPO Alexandre Senet介绍，Onshape版本已列入MecAgent未来几个月的路线图，其现有AI副驾驶的安装量已超过35,000次。"
-              },
-              {
-                "t": "p",
-                "x": "DEVELOP3D读者可通过免费计划试用MecAgent V2.0.0，该计划附带3,000个免费令牌。"
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "MecAgent V2 asume\ntareas complejas de CAD",
-          "body": "MecAgent V2 usa su arnés de agentes para recurrir a GPT-6 Astra en tareas complejas de diseño CAD en SolidWorks.",
-          "mini_headline": "MecAgent V2 para CAD",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg"
-              },
-              {
-                "t": "p",
-                "x": "MecAgent ha lanzado la segunda versión de su software de AI para CAD, que usa su arnés de agentes para recurrir a GPT-6 Astra y generar diseños CAD directamente dentro de un paquete CAD existente."
-              },
-              {
-                "t": "p",
-                "x": "El CAD Agent trabaja dentro de una sesión abierta de Solidworks –con capacidad para Text-to-CAD, Image-to-CAD, CAD-to-Drawing, Drawing-to-CAD y STEP-to-SLDPRT con un árbol de operaciones reconstruido–: modela piezas, las añade a ensamblajes, aplica materiales y cambia nombres, exporta o escribe macros en el árbol de operaciones."
-              },
-              {
-                "t": "p",
-                "x": "Entre otras tareas que puede ejecutar figuran la limpieza del árbol de operaciones, la creación de movimiento a partir de texto, la traducción y exportación de archivos CAD, la verificación de normas, assembly-to-BOM y la creación de vistas explosionadas."
-              },
-              {
-                "t": "p",
-                "x": "Una demostración muestra un helicóptero RC –unas 56 piezas y dos subensamblajes, con movimiento que vincula engranajes y rotores, pero sin electrónica– construido en menos de cinco horas de ejecución sin supervisión."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de generar piezas individuales, MecAgent avanza hacia tareas de diseño extensas y de varias etapas dentro de software CAD paramétrico estándar de la industria."
-              },
-              {
-                "t": "p",
-                "x": "La propia MecAgent describe esta capacidad más amplia como “spec-to-CAD”. Un ingeniero puede aportar un conjunto de requisitos y dejar que el agente ejecute la secuencia de operaciones CAD necesaria para construir el diseño, en lugar de modelar explícitamente cada componente."
-              },
-              {
-                "t": "p",
-                "x": "Según el CPO de MecAgent, Alexandre Senet, una variante para Onshape figura en la hoja de ruta de MecAgent para los próximos meses, y su actual copiloto de AI supera las 35,000 instalaciones."
-              },
-              {
-                "t": "p",
-                "x": "Los lectores de DEVELOP3D pueden probar MecAgent V2.0.0 con su plan gratuito, que incluye 3,000 tokens gratuitos."
-              },
-              {
-                "t": "video",
-                "yt": "_twtNuzZw-8"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-logo-design-agent-skill-svg",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Agent Skill로\nAI가 로고를 배운다",
-      "body": "오픈소스 스킬이 Claude 등에 SVG 검사와 1,400개 넘는 마크를 건넨다.",
-      "mini_headline": "에이전트용 로고 스킬",
-      "tool": "Design Tokens",
+      "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
+      "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
+      "mini_headline": "Claude 디자인 스킬 실험",
+      "tool": "Figma",
       "source": "DEV Community",
-      "url": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-          },
-          {
-            "t": "p",
-            "x": "MIT 라이선스(MIT-licensed)로 공개된 저장소 logo-design-skill은 Claude Code, Gemini CLI, Codex CLI처럼 스킬을 지원하는 에이전트에 단계별 로고 디자인 워크플로를 붙여 준다. 브리프에서 시작해 검증한 SVG 콘셉트를 거치고, 승인을 받으면 더 넓은 아이덴티티 키트로 넘어간다."
-          },
-          {
-            "t": "p",
-            "x": "브리프와 카테고리 조사로 시작해 한 줄짜리 콘셉트를 여덟 개에서 12개까지 뽑고, 그중 세 개를 SVG로 만들어 검증한다. 필수 체크포인트에서 에이전트는 방향들을 보여 주고 하나를 추천한 다음 기다린다. 컬러 시스템, 록업, 아이콘, 가이드라인은 사용자가 방향을 승인해야 나온다."
-          },
-          {
-            "t": "p",
-            "x": "의존성 없는(Dependency-free) Python 유틸리티가 SVGs를 점검하고 PNGs를 렌더링하며 콘셉트 시트와 보드를 묶는다. 테스트 시트에는 16픽셀(16-pixel) 렌더링, 단색·반전 변형, 눈을 가늘게 뜨고 보기와 좌우 반전 점검, 목업, 경쟁사 진열대 테스트가 들어간다. favicon, app-icon, web-manifest 에셋도 내보낸다."
-          },
-          {
-            "t": "p",
-            "x": "참고 라이브러리에는 실제 SVG 로고 1,400개 이상이 마크 유형, 기법, 기하 구조, 분위기, 업종별로 정리돼 있다. 베끼라는 게 아니라 구성 방식을 연구하고 닮은꼴을 피하라고 둔 자료라고 한다."
-          },
-          {
-            "t": "p",
-            "x": "분석: 승인 체크포인트는 무인 완주보다 검토할 수 있는 작업에 무게를 둔다. 결과물 품질을 뒷받침하는 근거는 가상 브리프 28건이라는 내부 자료뿐이고, 독립 검증을 거치지는 않았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "An open Agent Skill teaches\nAI agents logo design",
-          "body": "An open-source skill gives Claude, Gemini CLI and Codex a staged logo workflow, SVG checks and 1,400-plus marks.",
-          "mini_headline": "A logo skill for agents",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "The public, MIT-licensed logo-design-skill repository packages a staged logo-design workflow for Claude Code, Gemini CLI, Codex CLI and other agents that support skills, moving from a brief to tested SVG concepts and, after approval, a broader identity kit."
-              },
-              {
-                "t": "p",
-                "x": "The process begins with a brief and category research, then calls for eight to 12 one-line concepts, of which three are built in SVG and tested. At a mandatory checkpoint the agent shows the directions, recommends one and waits; colour system, lockups, icons and guidelines come only after the user approves a direction."
-              },
-              {
-                "t": "p",
-                "x": "Dependency-free Python utilities audit SVGs, render PNGs and assemble concept sheets and boards. Test sheets cover 16-pixel rendering, one-colour and reversed variants, squint and mirror checks, mockups and a competitor shelf test; it can also export favicon, app-icon and web-manifest assets."
-              },
-              {
-                "t": "p",
-                "x": "A reference library holds more than 1,400 real-world SVG logos classified by mark type, technique, geometry, mood and industry — framed as material for studying construction and avoiding look-alikes, not for copying."
-              },
-              {
-                "t": "p",
-                "x": "Analysis: the approval checkpoint favours reviewable work over unattended completion. Evidence for output quality remains internal — 28 fictional briefs — not independent validation."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Agent Skill로\nAI가 로고를 배운다",
-          "body": "오픈소스 스킬이 Claude 등에 SVG 검사와 1,400개 넘는 마크를 건넨다.",
-          "mini_headline": "에이전트용 로고 스킬",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "MIT 라이선스(MIT-licensed)로 공개된 저장소 logo-design-skill은 Claude Code, Gemini CLI, Codex CLI처럼 스킬을 지원하는 에이전트에 단계별 로고 디자인 워크플로를 붙여 준다. 브리프에서 시작해 검증한 SVG 콘셉트를 거치고, 승인을 받으면 더 넓은 아이덴티티 키트로 넘어간다."
-              },
-              {
-                "t": "p",
-                "x": "브리프와 카테고리 조사로 시작해 한 줄짜리 콘셉트를 여덟 개에서 12개까지 뽑고, 그중 세 개를 SVG로 만들어 검증한다. 필수 체크포인트에서 에이전트는 방향들을 보여 주고 하나를 추천한 다음 기다린다. 컬러 시스템, 록업, 아이콘, 가이드라인은 사용자가 방향을 승인해야 나온다."
-              },
-              {
-                "t": "p",
-                "x": "의존성 없는(Dependency-free) Python 유틸리티가 SVGs를 점검하고 PNGs를 렌더링하며 콘셉트 시트와 보드를 묶는다. 테스트 시트에는 16픽셀(16-pixel) 렌더링, 단색·반전 변형, 눈을 가늘게 뜨고 보기와 좌우 반전 점검, 목업, 경쟁사 진열대 테스트가 들어간다. favicon, app-icon, web-manifest 에셋도 내보낸다."
-              },
-              {
-                "t": "p",
-                "x": "참고 라이브러리에는 실제 SVG 로고 1,400개 이상이 마크 유형, 기법, 기하 구조, 분위기, 업종별로 정리돼 있다. 베끼라는 게 아니라 구성 방식을 연구하고 닮은꼴을 피하라고 둔 자료라고 한다."
-              },
-              {
-                "t": "p",
-                "x": "분석: 승인 체크포인트는 무인 완주보다 검토할 수 있는 작업에 무게를 둔다. 결과물 품질을 뒷받침하는 근거는 가상 브리프 28건이라는 내부 자료뿐이고, 독립 검증을 거치지는 않았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Agent Skillで\nAIがロゴ設計を学ぶ",
-          "body": "オープンソースのスキルがClaudeなどにSVG検査と1,400超のロゴを与える。",
-          "mini_headline": "エージェント向けロゴスキル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "MIT-licensedで公開されているリポジトリlogo-design-skillは、Claude Code、Gemini CLI、Codex CLIなどスキル対応エージェント向けに、段階的なロゴデザインのワークフローをまとめたものだ。ブリーフから検証済みのSVGコンセプトへ、承認後はより広いアイデンティティキットへと進む。"
-              },
-              {
-                "t": "p",
-                "x": "プロセスはブリーフとカテゴリー調査から始まり、一行のコンセプトを八から12案出し、そのうち三案をSVGで作ってテストする。必須のチェックポイントでエージェントは方向性を示し、一つを推薦して待つ。カラーシステム、ロックアップ、アイコン、ガイドラインは、ユーザーが方向性を承認してから作られる。"
-              },
-              {
-                "t": "p",
-                "x": "依存関係のない（Dependency-free）Pythonユーティリティが、SVGsを監査し、PNGsをレンダリングし、コンセプトシートやボードを組み立てる。テストシートは16-pixelでの表示、単色版と反転版、目を細めての確認と左右反転の確認、モックアップ、競合と並べる棚テストを扱う。favicon、app-icon、web-manifestのアセットも書き出せる。"
-              },
-              {
-                "t": "p",
-                "x": "リファレンスライブラリには、マークの種類、技法、幾何、ムード、業種で分類した実在のSVGロゴが1,400点以上収められている。模倣のためではなく、構成を研究し似たデザインを避けるための素材と位置づけられている。"
-              },
-              {
-                "t": "p",
-                "x": "分析：承認チェックポイントは、無人での完遂よりもレビューできる作業を重視する。出力品質の根拠は内部の28件の架空ブリーフにとどまり、独立した検証ではない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "开源Agent Skill\n教AI智能体设计标志",
-          "body": "开源技能为Claude、Codex等提供分阶段流程、SVG检查和1,400多个标志。",
-          "mini_headline": "智能体的标志技能",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "公开的MIT-licensed仓库logo-design-skill，为Claude Code、Gemini CLI、Codex CLI及其他支持技能的智能体打包了一套分阶段的标志设计流程：从设计简报到经过测试的SVG概念，获批后再扩展为更完整的品牌识别套件。"
-              },
-              {
-                "t": "p",
-                "x": "流程从简报和品类调研开始，随后提出八到12个一句话概念，其中三个用SVG制作并测试。在一个必经的检查点，智能体展示各个方向、推荐其中一个并等待；配色系统、组合标志、图标和规范要等用户批准方向后才会生成。"
-              },
-              {
-                "t": "p",
-                "x": "无依赖（Dependency-free）的Python工具可审核SVGs、渲染PNGs，并拼合概念图表和展板。测试图表涵盖16-pixel渲染、单色与反白版本、眯眼与镜像检查、样机以及与竞品同架对比测试；它还能导出favicon、app-icon和web-manifest资源。"
-              },
-              {
-                "t": "p",
-                "x": "参考库收录了1,400多个真实的SVG标志，按标志类型、技法、几何结构、气质和行业分类——定位为研究构造、避免撞脸的材料，而非用于抄袭。"
-              },
-              {
-                "t": "p",
-                "x": "分析：审批检查点更看重可审阅的工作，而非无人值守地完成任务。输出质量的证据仍属内部——28份虚构简报——并非独立验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una Agent Skill abierta enseña\ndiseño de logos a agentes de AI",
-          "body": "Una skill open-source da a Claude, Gemini CLI y Codex un flujo de logos por etapas, pruebas SVG y más de 1,400 marcas.",
-          "mini_headline": "Una skill de logos para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "El repositorio público logo-design-skill, MIT-licensed (con licencia MIT), empaqueta un flujo de trabajo de logo-design por etapas para Claude Code, Gemini CLI, Codex CLI y otros agentes compatibles con skills: va de un brief a conceptos SVG probados y, tras la aprobación, a un kit de identidad más amplio."
-              },
-              {
-                "t": "p",
-                "x": "El proceso empieza con un brief y una investigación de la categoría, y luego pide de ocho a 12 conceptos de una línea, de los cuales tres se construyen en SVG y se prueban. En un punto de control obligatorio, el agente muestra las direcciones, recomienda una y espera; el sistema de color, los lockups, los iconos y las guías llegan solo después de que el usuario aprueba una dirección."
-              },
-              {
-                "t": "p",
-                "x": "Utilidades en Python sin dependencias auditan los SVGs, renderizan PNGs y montan hojas y tableros de conceptos. Las hojas de prueba cubren el renderizado a 16 píxeles, variantes a una tinta e invertidas, pruebas de entrecerrar los ojos y de espejo, mockups y una prueba de estantería frente a la competencia; también puede exportar recursos de favicon, app-icon y web-manifest."
-              },
-              {
-                "t": "p",
-                "x": "Una biblioteca de referencia reúne más de 1,400 logos SVG reales clasificados por tipo de marca, técnica, geometría, tono e industria, presentados como material para estudiar su construcción y evitar parecidos, no para copiarlos."
-              },
-              {
-                "t": "p",
-                "x": "Análisis: el punto de aprobación prioriza un trabajo revisable sobre la ejecución desatendida. La evidencia sobre la calidad de los resultados sigue siendo interna —28 briefs ficticios—, no una validación independiente."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Agent Skill로\nAI가 로고를 배운다",
-          "body": "오픈소스 스킬이 Claude 등에 SVG 검사와 1,400개 넘는 마크를 준다.",
-          "mini_headline": "에이전트용 로고 스킬",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "MIT 라이선스(MIT-licensed)로 공개된 저장소 logo-design-skill은 Claude Code, Gemini CLI, Codex CLI 등 스킬을 지원하는 에이전트를 위한 단계별 로고 디자인 워크플로를 담았다. 브리프에서 출발해 검증한 SVG 콘셉트로, 승인 뒤에는 더 넓은 아이덴티티 키트로 나아간다."
-              },
-              {
-                "t": "p",
-                "x": "과정은 브리프와 카테고리 조사로 시작해, 한 줄짜리 콘셉트를 여덟 개에서 12개까지 낸 뒤 그중 세 개를 SVG로 만들어 검증한다. 필수 체크포인트에서 에이전트는 방향들을 보여 주고 하나를 추천한 뒤 기다린다. 컬러 시스템, 록업, 아이콘, 가이드라인은 사용자가 방향을 승인한 뒤에야 나온다."
-              },
-              {
-                "t": "p",
-                "x": "의존성 없는(Dependency-free) Python 유틸리티가 SVGs를 점검하고 PNGs를 렌더링하며 콘셉트 시트와 보드를 조립한다. 테스트 시트는 16픽셀(16-pixel) 렌더링, 단색·반전 변형, 눈을 가늘게 뜨고 보기와 좌우 반전 점검, 목업, 경쟁사 진열대 테스트를 다룬다. favicon, app-icon, web-manifest 에셋도 내보낼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "참고 라이브러리에는 마크 유형, 기법, 기하 구조, 분위기, 업종별로 분류한 실제 SVG 로고 1,400개 이상이 들어 있다. 베끼기용이 아니라 구성 방식을 연구하고 닮은꼴을 피하기 위한 자료라는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "분석: 승인 체크포인트는 무인 완주보다 검토할 수 있는 작업을 우선한다. 결과물 품질의 근거는 가상의 브리프 28건이라는 내부 자료에 머물며, 독립적인 검증은 아니다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Agent Skillで\nAIがロゴ設計を学ぶ",
-          "body": "オープンソースのスキルがClaudeなどにSVG検査と1,400超のロゴを与える。",
-          "mini_headline": "エージェント向けロゴスキル",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "MIT-licensedで公開されているリポジトリlogo-design-skillは、Claude Code、Gemini CLI、Codex CLIなどスキル対応エージェント向けに、段階的なロゴデザインのワークフローをまとめたものだ。ブリーフから検証済みのSVGコンセプトへ、承認後はより広いアイデンティティキットへと進む。"
-              },
-              {
-                "t": "p",
-                "x": "プロセスはブリーフとカテゴリー調査から始まり、一行のコンセプトを八から12案出し、そのうち三案をSVGで作ってテストする。必須のチェックポイントでエージェントは方向性を示し、一つを推薦して待つ。カラーシステム、ロックアップ、アイコン、ガイドラインは、ユーザーが方向性を承認してから作られる。"
-              },
-              {
-                "t": "p",
-                "x": "依存関係のない（Dependency-free）Pythonユーティリティが、SVGsを監査し、PNGsをレンダリングし、コンセプトシートやボードを組み立てる。テストシートは16-pixelでの表示、単色版と反転版、目を細めての確認と左右反転の確認、モックアップ、競合と並べる棚テストを扱う。favicon、app-icon、web-manifestのアセットも書き出せる。"
-              },
-              {
-                "t": "p",
-                "x": "リファレンスライブラリには、マークの種類、技法、幾何、ムード、業種で分類した実在のSVGロゴが1,400点以上収められている。模倣のためではなく、構成を研究し似たデザインを避けるための素材と位置づけられている。"
-              },
-              {
-                "t": "p",
-                "x": "分析：承認チェックポイントは、無人での完遂よりもレビューできる作業を重視する。出力品質の根拠は内部の28件の架空ブリーフにとどまり、独立した検証ではない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "开源Agent Skill\n教AI智能体设计标志",
-          "body": "开源技能为Claude、Codex等提供分阶段流程、SVG检查和1,400多个标志。",
-          "mini_headline": "智能体的标志技能",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "公开的MIT-licensed仓库logo-design-skill，为Claude Code、Gemini CLI、Codex CLI及其他支持技能的智能体打包了一套分阶段的标志设计流程：从设计简报到经过测试的SVG概念，获批后再扩展为更完整的品牌识别套件。"
-              },
-              {
-                "t": "p",
-                "x": "流程从简报和品类调研开始，随后提出八到12个一句话概念，其中三个用SVG制作并测试。在一个必经的检查点，智能体展示各个方向、推荐其中一个并等待；配色系统、组合标志、图标和规范要等用户批准方向后才会生成。"
-              },
-              {
-                "t": "p",
-                "x": "无依赖（Dependency-free）的Python工具可审核SVGs、渲染PNGs，并拼合概念图表和展板。测试图表涵盖16-pixel渲染、单色与反白版本、眯眼与镜像检查、样机以及与竞品同架对比测试；它还能导出favicon、app-icon和web-manifest资源。"
-              },
-              {
-                "t": "p",
-                "x": "参考库收录了1,400多个真实的SVG标志，按标志类型、技法、几何结构、气质和行业分类——定位为研究构造、避免撞脸的材料，而非用于抄袭。"
-              },
-              {
-                "t": "p",
-                "x": "分析：审批检查点更看重可审阅的工作，而非无人值守地完成任务。输出质量的证据仍属内部——28份虚构简报——并非独立验证。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Una Agent Skill abierta enseña\ndiseño de logos a agentes de AI",
-          "body": "Una skill open-source da a Claude, Gemini CLI y Codex un flujo de logos por etapas, pruebas SVG y más de 1,400 marcas.",
-          "mini_headline": "Una skill de logos para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png"
-              },
-              {
-                "t": "p",
-                "x": "El repositorio público logo-design-skill, MIT-licensed (con licencia MIT), empaqueta un flujo de trabajo de logo-design por etapas para Claude Code, Gemini CLI, Codex CLI y otros agentes compatibles con skills: va de un brief a conceptos SVG probados y, tras la aprobación, a un kit de identidad más amplio."
-              },
-              {
-                "t": "p",
-                "x": "El proceso empieza con un brief y una investigación de la categoría, y luego pide de ocho a 12 conceptos de una línea, de los cuales tres se construyen en SVG y se prueban. En un punto de control obligatorio, el agente muestra las direcciones, recomienda una y espera; el sistema de color, los lockups, los iconos y las guías llegan solo después de que el usuario aprueba una dirección."
-              },
-              {
-                "t": "p",
-                "x": "Utilidades en Python sin dependencias auditan los SVGs, renderizan PNGs y montan hojas y tableros de conceptos. Las hojas de prueba cubren el renderizado a 16 píxeles, variantes a una tinta e invertidas, pruebas de entrecerrar los ojos y de espejo, mockups y una prueba de estantería frente a la competencia; también puede exportar recursos de favicon, app-icon y web-manifest."
-              },
-              {
-                "t": "p",
-                "x": "Una biblioteca de referencia reúne más de 1,400 logos SVG reales clasificados por tipo de marca, técnica, geometría, tono e industria, presentados como material para estudiar su construcción y evitar parecidos, no para copiarlos."
-              },
-              {
-                "t": "p",
-                "x": "Análisis: el punto de aprobación prioriza un trabajo revisable sobre la ejecución desatendida. La evidencia sobre la calidad de los resultados sigue siendo interna —28 briefs ficticios—, no una validación independiente."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-bounded-delegation-ai-authority",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트에\n권한을 얼마나 줄까",
-      "body": "제한적 위임 모델로 제품 팀이 AI 단독 업무와 사람 몫을 가른다.",
-      "mini_headline": "AI 권한의 경계",
-      "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
-      "accent": "#3b6bff",
+      "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
+      "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-            "cap": "필자가 OpenAI 이미지 생성으로 만든 이미지."
+            "t": "p",
+            "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 만드는 차이는 모두 Claude의 계획 방식을 바꾸는 데서 나온다."
           },
           {
             "t": "p",
-            "x": "AI 도구 하나가 고객 의견을 묶고 가장 큰 주제에 “가격 마찰”이라는 이름을 붙인다. 누군가 그 추천을 승인할 즈음이면 중요한 결정은 이미 내려졌을지 모른다. 역량은 시스템이 무엇을 만들어 낼 수 있느냐의 문제다. 권한은 조직이 시스템에 무엇을 결정하고 다듬고 실행하도록 맡길 준비가 됐느냐의 문제다."
-          },
-          {
-            "t": "p",
-            "x": "Gale Robins는 이 구분을 제한적 위임(bounded delegation)이라 부른다. 영향과 책임이 커질수록 AI 권한은 좁아져야 한다는 얘기다. 생성 단계에서는 넓게, 분석에서는 점검할 수 있게, 확정 단계에서는 가장 좁게 둔다."
+            "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 코드를 쓰기 전에는 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-            "cap": "결과가 무겁고 되돌리기 어려울수록 AI 권한은 좁아져야 한다."
-          },
-          {
-            "t": "p",
-            "x": "경계를 정하는 질문은 네 가지다. 틀리면 무슨 일이 생기나? 누가 끝까지 책임지나? 작업을 점검할 수 있나? 이것은 생성인가, 분석인가, 확정인가? “Human in the loop”는 운영 모델이 아니다. 팀에 필요한 건 의도적인 인계다."
+            "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+            "cap": "frontend-design 스킬을 쓴 결과."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-            "cap": "Judgment Points는 AI-supported 탐색이 사람이 책임지는 확정으로 넘어가는 지점에 찍힌다."
+            "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+            "cap": "같은 브리프를 스킬 없이 만든 결과."
           },
           {
             "t": "p",
-            "x": "Discovery Judgment Framework의 Judgment Points가 자연스러운 경계가 된다. 제한적 위임은 AI를 덜 쓰자는 얘기가 아니다. 권한을 더 정확히 다루자는 얘기다."
+            "x": "브리프는 가상의 회계 앱 Ledgerline의 랜딩 페이지 하나였다. 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
+          },
+          {
+            "t": "p",
+            "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크라기보다 사례 하나로 보는 게 맞다."
           }
         ]
       },
+      "lead_image": "https://media.skillgild.dev/media/site/devto/frontend-skills/cover-frontend-design-1760x660.png",
       "text": {
         "en": {
-          "headline": "How much authority\nshould AI agents have",
-          "body": "A practical bounded-delegation model helps product teams decide what AI may do alone and what humans must still own.",
-          "mini_headline": "Bounding AI authority",
+          "headline": "What Claude's frontend-design\nskill changes in a real run",
+          "body": "A DEV post unpacks the 71 lines of Anthropic's frontend-design skill and builds one landing page with and without it.",
+          "mini_headline": "Claude's design skill, tested",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "Image created by the author with OpenAI image generation."
+                "t": "p",
+                "x": "Anthropic's frontend-design skill ships in its skills repository and as a plugin in the official Claude Code marketplace. It is one Markdown file, 71 lines long, with no scripts and no component library; everything it changes, it changes by changing how Claude plans."
               },
               {
                 "t": "p",
-                "x": "An AI tool clusters customer comments and names the largest theme “pricing friction”. By the time someone approves its recommendation, the important decision may already have been made. Capability describes what a system can produce; authority concerns what the organisation is prepared to let it decide, shape or set in motion."
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins calls the distinction bounded delegation: AI authority should narrow as impact and accountability increase — broad in generation, inspectable in analysis, narrowest at commitment."
+                "x": "It tells Claude to design from the subject, names generated-design tells to avoid (cream background with serif and terracotta accent, the \"SaaS card kit\", ALL-CAPS eyebrows), and asks for a token plan of 4 to 6 named hex colours, typefaces and an ASCII layout before any code."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "AI authority should narrow as consequence and irreversibility increase."
-              },
-              {
-                "t": "p",
-                "x": "Four questions set the boundary: What happens if we are wrong? Who remains accountable? Can the work be inspected? Is this generation, analysis or commitment? “Human in the loop” is not an operating model; teams need deliberate hand-offs."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "With the frontend-design skill."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Points mark where AI-supported exploration becomes human-owned commitment."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "The same brief with no skill."
               },
               {
                 "t": "p",
-                "x": "The Discovery Judgment Framework’s Judgment Points create natural boundaries. Bounded delegation is not an argument for using less AI, but for being more precise about authority."
+                "x": "On one brief, a landing page for a fictional bookkeeping app called Ledgerline, the skill run cut all-caps labels from 9 to 0 and middle-dot strings from 4 to 0, and had no horizontal scroll at 375 px versus 16 px overflow. It took 14 turns and 5.7 minutes against 2 turns and 3.3 minutes, at $1.61 versus $0.98."
+              },
+              {
+                "t": "p",
+                "x": "It did not stop either page from inventing product facts, and it kept seven spaced em dashes. Each ran once, so treat it as one example, not a benchmark."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트에\n권한을 얼마나 줄까",
-          "body": "제한적 위임 모델로 제품 팀이 AI 단독 업무와 사람 몫을 가른다.",
-          "mini_headline": "AI 권한의 경계",
+          "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
+          "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
+          "mini_headline": "Claude 디자인 스킬 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "필자가 OpenAI 이미지 생성으로 만든 이미지."
+                "t": "p",
+                "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 만드는 차이는 모두 Claude의 계획 방식을 바꾸는 데서 나온다."
               },
               {
                 "t": "p",
-                "x": "AI 도구 하나가 고객 의견을 묶고 가장 큰 주제에 “가격 마찰”이라는 이름을 붙인다. 누군가 그 추천을 승인할 즈음이면 중요한 결정은 이미 내려졌을지 모른다. 역량은 시스템이 무엇을 만들어 낼 수 있느냐의 문제다. 권한은 조직이 시스템에 무엇을 결정하고 다듬고 실행하도록 맡길 준비가 됐느냐의 문제다."
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins는 이 구분을 제한적 위임(bounded delegation)이라 부른다. 영향과 책임이 커질수록 AI 권한은 좁아져야 한다는 얘기다. 생성 단계에서는 넓게, 분석에서는 점검할 수 있게, 확정 단계에서는 가장 좁게 둔다."
+                "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 코드를 쓰기 전에는 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "결과가 무겁고 되돌리기 어려울수록 AI 권한은 좁아져야 한다."
-              },
-              {
-                "t": "p",
-                "x": "경계를 정하는 질문은 네 가지다. 틀리면 무슨 일이 생기나? 누가 끝까지 책임지나? 작업을 점검할 수 있나? 이것은 생성인가, 분석인가, 확정인가? “Human in the loop”는 운영 모델이 아니다. 팀에 필요한 건 의도적인 인계다."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "frontend-design 스킬을 쓴 결과."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Points는 AI-supported 탐색이 사람이 책임지는 확정으로 넘어가는 지점에 찍힌다."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "같은 브리프를 스킬 없이 만든 결과."
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment Framework의 Judgment Points가 자연스러운 경계가 된다. 제한적 위임은 AI를 덜 쓰자는 얘기가 아니다. 권한을 더 정확히 다루자는 얘기다."
+                "x": "브리프는 가상의 회계 앱 Ledgerline의 랜딩 페이지 하나였다. 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
+              },
+              {
+                "t": "p",
+                "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크라기보다 사례 하나로 보는 게 맞다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントに\n権限をどこまで渡すか",
-          "body": "限定的委任モデルで、AIに任せる範囲と人が担う範囲を製品チームが決める。",
-          "mini_headline": "AIの権限に線を引く",
+          "headline": "Claudeのデザイン\nスキルを実際に試す",
+          "body": "DEVの記事が71行のfrontend-designスキルを有無で比べた。",
+          "mini_headline": "Claudeのデザインスキルを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "著者がOpenAIの画像生成で作成した画像。"
+                "t": "p",
+                "x": "Anthropicのfrontend-designスキルは、同社のskillsリポジトリで公開され、公式Claude Codeマーケットプレイスのプラグインとしても提供されている。スクリプトもコンポーネントライブラリもない、71行のMarkdownファイル一つだ。このスキルがもたらす変化はすべて、Claudeの計画の立て方を変えることで生まれる。"
               },
               {
                 "t": "p",
-                "x": "あるAIツールが顧客コメントをクラスタリングし、最大のテーマを「価格の摩擦」と名づける。誰かがその推奨を承認する頃には、重要な判断はすでに下されているかもしれない。能力とはシステムが何を生み出せるかであり、権限とは組織がシステムに何を決めさせ、形づくらせ、動かさせる用意があるかに関わる。"
-              },
-              {
-                "t": "p",
-                "x": "Gale Robinsはこの区別を限定的委任（bounded delegation）と呼ぶ。影響と説明責任が大きくなるほどAIの権限は狭めるべきだという考え方で、生成では広く、分析では検証可能に、コミットメントでは最も狭くする。"
+                "x": "スキルはClaudeに主題から出発してデザインするよう指示し、避けるべき生成デザインの癖(セリフ体とテラコッタのアクセントを載せたクリーム色の背景、「SaaS card kit」、ALL-CAPSのアイブロウ)を名指しする。さらにコードを書く前に、名前付きのhexカラー4〜6色、書体、ASCIIレイアウトからなるトークン計画を求める。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "結果の重さと不可逆性が増すほど、AIの権限は狭めるべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "境界を決めるのは四つの問いだ。間違っていたら何が起きるか。誰が説明責任を負い続けるか。作業を検証できるか。これは生成か、分析か、コミットメントか。「Human in the loop」は運用モデルではなく、チームには意図的な引き継ぎが必要だ。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "frontend-designスキルあり。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Pointsは、AI-supportedの探索が人間の責任によるコミットメントに変わる地点を示す。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "同じブリーフをスキルなしで。"
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment FrameworkのJudgment Pointsは自然な境界をつくる。限定的委任はAIの利用を減らせという主張ではなく、権限をより正確に扱えという主張だ。"
+                "x": "架空の帳簿アプリLedgerlineのランディングページという一つのブリーフで、スキルを使った実行ではall-capsのラベルが9個から0個に、中黒の文字列が4個から0個に減り、375 pxで横スクロールは発生しなかった(スキルなしでは16 pxはみ出した)。所要は14ターン・5.7分で、2ターン・3.3分より長く、費用は$1.61対$0.98だった。"
+              },
+              {
+                "t": "p",
+                "x": "どちらのページも製品の事実をでっち上げるのは防げず、前後にスペースを入れたem dashも七つ残った。各実行は一回のみなので、ベンチマークではなく一つの例として見るべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体\n应拥有多大权限",
-          "body": "一种有边界的授权模型，帮助产品团队划定AI可独立做什么、哪些仍须由人负责。",
-          "mini_headline": "为AI权限划界",
+          "headline": "Claude设计技能\n实测效果如何",
+          "body": "DEV文章拆解Anthropic的71行frontend-design技能并做对照。",
+          "mini_headline": "Claude设计技能实测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "图片由作者使用OpenAI图像生成功能制作。"
+                "t": "p",
+                "x": "Anthropic的frontend-design技能收录在其skills仓库中，也以插件形式上架官方Claude Code市场。它只是一份71行的Markdown文件，没有脚本，也没有组件库；它带来的一切变化，都源于改变Claude的规划方式。"
               },
               {
                 "t": "p",
-                "x": "一款AI工具将客户评论聚类，并把最大的主题命名为“定价摩擦”。等到有人批准它的建议时，重要的决定可能早已做出。能力描述的是系统能产出什么；权限关乎组织愿意让它决定、塑造或启动什么。"
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins把这种区分称为有边界的授权（bounded delegation）：随着影响和问责的加大，AI的权限应当收窄——在生成阶段宽，在分析阶段可检查，在承诺阶段最窄。"
+                "x": "它要求Claude从主题出发进行设计，点名要避免的生成式设计痕迹（衬线字体加赤陶色点缀的奶油色背景、“SaaS card kit”、ALL-CAPS眉标），并要求在写任何代码之前先给出令牌方案：4到6种命名的hex颜色、字体以及一个ASCII布局。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "随着后果和不可逆性的增加，AI的权限应当收窄。"
-              },
-              {
-                "t": "p",
-                "x": "四个问题划定边界：如果我们错了会怎样？谁仍须负责？工作能否被检查？这属于生成、分析还是承诺？“Human in the loop”不是一种运作模式；团队需要有意设计的交接。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "使用frontend-design技能。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Points标示出AI-supported的探索转变为由人负责的承诺的节点。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "同一需求，未使用技能。"
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment Framework的Judgment Points形成了自然的边界。有边界的授权并不是主张少用AI，而是主张对权限更加精确。"
+                "x": "在一份需求（为虚构记账应用Ledgerline制作落地页）上，使用技能的那次运行把all-caps标签从9个减到0个，把中点分隔字符串从4个减到0个，并且在375 px下没有横向滚动，而对照组溢出16 px。它用了14轮、5.7分钟，对照组为2轮、3.3分钟，费用为$1.61对$0.98。"
+              },
+              {
+                "t": "p",
+                "x": "它没能阻止任何一个页面编造产品信息，也保留了七处带空格的em dash。每种方式只运行了一次，因此只能当作一个例子，而不是基准测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Cuánta autoridad deben\ntener los agentes de IA?",
-          "body": "Un modelo de delegación acotada ayuda a decidir qué puede hacer la IA sola y qué deben seguir asumiendo las personas.",
-          "mini_headline": "Acotar la autoridad de la IA",
+          "headline": "La skill frontend-design de\nClaude, puesta a prueba",
+          "body": "Un artículo de DEV desglosa la skill frontend-design de Anthropic, de 71 líneas, y prueba una página con y sin ella.",
+          "mini_headline": "La skill de diseño de Claude, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "Imagen creada por el autor con la generación de imágenes de OpenAI."
+                "t": "p",
+                "x": "La skill frontend-design de Anthropic se distribuye en su repositorio de skills y como plugin en el marketplace oficial de Claude Code. Es un único archivo Markdown de 71 líneas, sin scripts ni biblioteca de componentes; todo lo que cambia, lo cambia modificando la forma en que Claude planifica."
               },
               {
                 "t": "p",
-                "x": "Una herramienta de IA agrupa comentarios de clientes y llama al tema más amplio “fricción de precios”. Para cuando alguien aprueba su recomendación, la decisión importante puede haberse tomado ya. La capacidad describe lo que un sistema puede producir; la autoridad tiene que ver con lo que la organización está dispuesta a dejarle decidir, moldear o poner en marcha."
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins llama a esta distinción delegación acotada: la autoridad de la IA debe estrecharse a medida que aumentan el impacto y la responsabilidad; amplia en la generación, inspeccionable en el análisis y mínima en el compromiso."
+                "x": "Indica a Claude que diseñe a partir del tema, enumera los rasgos típicos del diseño generado que hay que evitar (fondo crema con serif y acento terracota, el \"SaaS card kit\", antetítulos en ALL-CAPS) y pide, antes de escribir código, un plan de tokens con 4 a 6 colores hex con nombre, tipografías y un layout en ASCII."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "La autoridad de la IA debe estrecharse a medida que aumentan las consecuencias y la irreversibilidad."
-              },
-              {
-                "t": "p",
-                "x": "Cuatro preguntas fijan el límite: ¿Qué pasa si nos equivocamos? ¿Quién sigue siendo responsable? ¿Se puede inspeccionar el trabajo? ¿Es generación, análisis o compromiso? “Human in the loop” no es un modelo operativo; los equipos necesitan traspasos deliberados."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "Con la skill frontend-design."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Los Judgment Points marcan dónde la exploración apoyada por IA se convierte en un compromiso asumido por personas."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "El mismo encargo sin ninguna skill."
               },
               {
                 "t": "p",
-                "x": "Los Judgment Points del Discovery Judgment Framework crean límites naturales. La delegación acotada no es un argumento para usar menos IA, sino para ser más precisos sobre la autoridad."
+                "x": "Con un solo encargo, la landing page de una app ficticia de contabilidad llamada Ledgerline, la ejecución con la skill redujo las etiquetas en all-caps de 9 a 0 y las cadenas con punto medio de 4 a 0, y no tuvo scroll horizontal a 375 px frente a un desbordamiento de 16 px. Tardó 14 turnos y 5.7 minutos frente a 2 turnos y 3.3 minutos, por $1.61 frente a $0.98."
+              },
+              {
+                "t": "p",
+                "x": "No impidió que ninguna de las páginas inventara datos del producto, y mantuvo siete em dash con espacios. Cada una se ejecutó una sola vez, así que conviene tomarlo como un ejemplo, no como un benchmark."
               }
             ]
           }
@@ -1495,165 +1359,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트에\n권한을 얼마나 줄까",
-          "body": "제한적 위임 모델로 제품 팀이 AI 단독 업무와 사람 몫을 가른다.",
-          "mini_headline": "AI 권한의 경계",
+          "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
+          "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
+          "mini_headline": "Claude 디자인 스킬 실험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "필자가 OpenAI 이미지 생성으로 만든 이미지."
+                "t": "p",
+                "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 바꾸는 모든 것은 Claude가 계획하는 방식을 바꾸는 데서 나온다."
               },
               {
                 "t": "p",
-                "x": "한 AI 도구가 고객 의견을 묶어 가장 큰 주제에 “가격 마찰”이라는 이름을 붙인다. 누군가 그 추천을 승인할 즈음이면 중요한 결정은 이미 내려졌을지 모른다. 역량은 시스템이 무엇을 만들어 낼 수 있는지를 말하고, 권한은 조직이 시스템에 무엇을 결정하고 다듬고 실행에 옮기도록 맡길 준비가 됐는지를 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins는 이 구분을 제한적 위임(bounded delegation)이라 부른다. 영향과 책임이 커질수록 AI 권한은 좁아져야 한다는 것이다. 생성 단계에서는 넓게, 분석에서는 점검할 수 있게, 확정 단계에서는 가장 좁게 둬야 한다."
+                "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 그리고 코드를 쓰기 전에 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "결과의 무게와 되돌릴 수 없는 정도가 커질수록 AI 권한은 좁아져야 한다."
-              },
-              {
-                "t": "p",
-                "x": "경계를 정하는 질문은 네 가지다. 틀리면 무슨 일이 생기는가? 누가 계속 책임을 지는가? 작업을 점검할 수 있는가? 이것은 생성인가, 분석인가, 확정인가? “Human in the loop”는 운영 모델이 아니며, 팀에는 의도적인 인계가 필요하다."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "frontend-design 스킬을 쓴 결과."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Points는 AI-supported 탐색이 사람이 책임지는 확정으로 넘어가는 지점을 표시한다."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "같은 브리프를 스킬 없이 만든 결과."
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment Framework의 Judgment Points는 자연스러운 경계를 만든다. 제한적 위임은 AI를 덜 쓰자는 주장이 아니라, 권한을 더 정확히 다루자는 주장이다."
+                "x": "가상의 회계 앱 Ledgerline의 랜딩 페이지라는 하나의 브리프에서, 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
+              },
+              {
+                "t": "p",
+                "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크가 아니라 하나의 사례로 봐야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントに\n権限をどこまで渡すか",
-          "body": "限定的委任モデルで、AIに任せる範囲と人が担う範囲を製品チームが決める。",
-          "mini_headline": "AIの権限に線を引く",
+          "headline": "Claudeのデザイン\nスキルを実際に試す",
+          "body": "DEVの記事が71行のfrontend-designスキルを有無で比べた。",
+          "mini_headline": "Claudeのデザインスキルを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "著者がOpenAIの画像生成で作成した画像。"
+                "t": "p",
+                "x": "Anthropicのfrontend-designスキルは、同社のskillsリポジトリで公開され、公式Claude Codeマーケットプレイスのプラグインとしても提供されている。スクリプトもコンポーネントライブラリもない、71行のMarkdownファイル一つだ。このスキルがもたらす変化はすべて、Claudeの計画の立て方を変えることで生まれる。"
               },
               {
                 "t": "p",
-                "x": "あるAIツールが顧客コメントをクラスタリングし、最大のテーマを「価格の摩擦」と名づける。誰かがその推奨を承認する頃には、重要な判断はすでに下されているかもしれない。能力とはシステムが何を生み出せるかであり、権限とは組織がシステムに何を決めさせ、形づくらせ、動かさせる用意があるかに関わる。"
-              },
-              {
-                "t": "p",
-                "x": "Gale Robinsはこの区別を限定的委任（bounded delegation）と呼ぶ。影響と説明責任が大きくなるほどAIの権限は狭めるべきだという考え方で、生成では広く、分析では検証可能に、コミットメントでは最も狭くする。"
+                "x": "スキルはClaudeに主題から出発してデザインするよう指示し、避けるべき生成デザインの癖(セリフ体とテラコッタのアクセントを載せたクリーム色の背景、「SaaS card kit」、ALL-CAPSのアイブロウ)を名指しする。さらにコードを書く前に、名前付きのhexカラー4〜6色、書体、ASCIIレイアウトからなるトークン計画を求める。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "結果の重さと不可逆性が増すほど、AIの権限は狭めるべきだ。"
-              },
-              {
-                "t": "p",
-                "x": "境界を決めるのは四つの問いだ。間違っていたら何が起きるか。誰が説明責任を負い続けるか。作業を検証できるか。これは生成か、分析か、コミットメントか。「Human in the loop」は運用モデルではなく、チームには意図的な引き継ぎが必要だ。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "frontend-designスキルあり。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Pointsは、AI-supportedの探索が人間の責任によるコミットメントに変わる地点を示す。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "同じブリーフをスキルなしで。"
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment FrameworkのJudgment Pointsは自然な境界をつくる。限定的委任はAIの利用を減らせという主張ではなく、権限をより正確に扱えという主張だ。"
+                "x": "架空の帳簿アプリLedgerlineのランディングページという一つのブリーフで、スキルを使った実行ではall-capsのラベルが9個から0個に、中黒の文字列が4個から0個に減り、375 pxで横スクロールは発生しなかった(スキルなしでは16 pxはみ出した)。所要は14ターン・5.7分で、2ターン・3.3分より長く、費用は$1.61対$0.98だった。"
+              },
+              {
+                "t": "p",
+                "x": "どちらのページも製品の事実をでっち上げるのは防げず、前後にスペースを入れたem dashも七つ残った。各実行は一回のみなので、ベンチマークではなく一つの例として見るべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体\n应拥有多大权限",
-          "body": "一种有边界的授权模型，帮助产品团队划定AI可独立做什么、哪些仍须由人负责。",
-          "mini_headline": "为AI权限划界",
+          "headline": "Claude设计技能\n实测效果如何",
+          "body": "DEV文章拆解Anthropic的71行frontend-design技能并做对照。",
+          "mini_headline": "Claude设计技能实测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "图片由作者使用OpenAI图像生成功能制作。"
+                "t": "p",
+                "x": "Anthropic的frontend-design技能收录在其skills仓库中，也以插件形式上架官方Claude Code市场。它只是一份71行的Markdown文件，没有脚本，也没有组件库；它带来的一切变化，都源于改变Claude的规划方式。"
               },
               {
                 "t": "p",
-                "x": "一款AI工具将客户评论聚类，并把最大的主题命名为“定价摩擦”。等到有人批准它的建议时，重要的决定可能早已做出。能力描述的是系统能产出什么；权限关乎组织愿意让它决定、塑造或启动什么。"
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins把这种区分称为有边界的授权（bounded delegation）：随着影响和问责的加大，AI的权限应当收窄——在生成阶段宽，在分析阶段可检查，在承诺阶段最窄。"
+                "x": "它要求Claude从主题出发进行设计，点名要避免的生成式设计痕迹（衬线字体加赤陶色点缀的奶油色背景、“SaaS card kit”、ALL-CAPS眉标），并要求在写任何代码之前先给出令牌方案：4到6种命名的hex颜色、字体以及一个ASCII布局。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "随着后果和不可逆性的增加，AI的权限应当收窄。"
-              },
-              {
-                "t": "p",
-                "x": "四个问题划定边界：如果我们错了会怎样？谁仍须负责？工作能否被检查？这属于生成、分析还是承诺？“Human in the loop”不是一种运作模式；团队需要有意设计的交接。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "使用frontend-design技能。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Judgment Points标示出AI-supported的探索转变为由人负责的承诺的节点。"
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "同一需求，未使用技能。"
               },
               {
                 "t": "p",
-                "x": "Discovery Judgment Framework的Judgment Points形成了自然的边界。有边界的授权并不是主张少用AI，而是主张对权限更加精确。"
+                "x": "在一份需求（为虚构记账应用Ledgerline制作落地页）上，使用技能的那次运行把all-caps标签从9个减到0个，把中点分隔字符串从4个减到0个，并且在375 px下没有横向滚动，而对照组溢出16 px。它用了14轮、5.7分钟，对照组为2轮、3.3分钟，费用为$1.61对$0.98。"
+              },
+              {
+                "t": "p",
+                "x": "它没能阻止任何一个页面编造产品信息，也保留了七处带空格的em dash。每种方式只运行了一次，因此只能当作一个例子，而不是基准测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Cuánta autoridad deben\ntener los agentes de IA?",
-          "body": "Un modelo de delegación acotada ayuda a decidir qué puede hacer la IA sola y qué deben seguir asumiendo las personas.",
-          "mini_headline": "Acotar la autoridad de la IA",
+          "headline": "La skill frontend-design de\nClaude, puesta a prueba",
+          "body": "Un artículo de DEV desglosa la skill frontend-design de Anthropic, de 71 líneas, y prueba una página con y sin ella.",
+          "mini_headline": "La skill de diseño de Claude, a prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-                "cap": "Imagen creada por el autor con la generación de imágenes de OpenAI."
+                "t": "p",
+                "x": "La skill frontend-design de Anthropic se distribuye en su repositorio de skills y como plugin en el marketplace oficial de Claude Code. Es un único archivo Markdown de 71 líneas, sin scripts ni biblioteca de componentes; todo lo que cambia, lo cambia modificando la forma en que Claude planifica."
               },
               {
                 "t": "p",
-                "x": "Una herramienta de IA agrupa comentarios de clientes y llama al tema más amplio “fricción de precios”. Para cuando alguien aprueba su recomendación, la decisión importante puede haberse tomado ya. La capacidad describe lo que un sistema puede producir; la autoridad tiene que ver con lo que la organización está dispuesta a dejarle decidir, moldear o poner en marcha."
-              },
-              {
-                "t": "p",
-                "x": "Gale Robins llama a esta distinción delegación acotada: la autoridad de la IA debe estrecharse a medida que aumentan el impacto y la responsabilidad; amplia en la generación, inspeccionable en el análisis y mínima en el compromiso."
+                "x": "Indica a Claude que diseñe a partir del tema, enumera los rasgos típicos del diseño generado que hay que evitar (fondo crema con serif y acento terracota, el \"SaaS card kit\", antetítulos en ALL-CAPS) y pide, antes de escribir código, un plan de tokens con 4 a 6 colores hex con nombre, tipografías y un layout en ASCII."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*cB9pUoTkq8SOrn0W.png",
-                "cap": "La autoridad de la IA debe estrecharse a medida que aumentan las consecuencias y la irreversibilidad."
-              },
-              {
-                "t": "p",
-                "x": "Cuatro preguntas fijan el límite: ¿Qué pasa si nos equivocamos? ¿Quién sigue siendo responsable? ¿Se puede inspeccionar el trabajo? ¿Es generación, análisis o compromiso? “Human in the loop” no es un modelo operativo; los equipos necesitan traspasos deliberados."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+                "cap": "Con la skill frontend-design."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/0*TwXgCi3F8DQFg7Vs.png",
-                "cap": "Los Judgment Points marcan dónde la exploración apoyada por IA se convierte en un compromiso asumido por personas."
+                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+                "cap": "El mismo encargo sin ninguna skill."
               },
               {
                 "t": "p",
-                "x": "Los Judgment Points del Discovery Judgment Framework crean límites naturales. La delegación acotada no es un argumento para usar menos IA, sino para ser más precisos sobre la autoridad."
+                "x": "Con un solo encargo, la landing page de una app ficticia de contabilidad llamada Ledgerline, la ejecución con la skill redujo las etiquetas en all-caps de 9 a 0 y las cadenas con punto medio de 4 a 0, y no tuvo scroll horizontal a 375 px frente a un desbordamiento de 16 px. Tardó 14 turnos y 5.7 minutos frente a 2 turnos y 3.3 minutos, por $1.61 frente a $0.98."
+              },
+              {
+                "t": "p",
+                "x": "No impidió que ninguna de las páginas inventara datos del producto, y mantuvo siete em dash con espacios. Cada una se ejecutó una sola vez, así que conviene tomarlo como un ejemplo, no como un benchmark."
               }
             ]
           }
@@ -1661,213 +1505,118 @@
       }
     },
     {
-      "id": "design-system-coding-agent-experiment",
+      "id": "design-copilot-identity",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "디자인 시스템이\n에이전트 코드를 좌우할까",
-      "body": "30회 실행에서 npm 패키지로 받은 에이전트는 컴포넌트를 직접 짜지 않았다.",
-      "mini_headline": "디자인 시스템과\n코딩 에이전트",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
-      "accent": "#0070f3",
-      "motif": "swatch",
+      "headline": "Copilot의 새\n비주얼 아이덴티티",
+      "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
+      "mini_headline": "Microsoft Design의 새 Copilot",
+      "tool": "Social",
+      "source": "Microsoft Design",
+      "url": "https://www.youtube.com/watch?v=FgHhrBiamzw",
+      "accent": "#ff2d55",
+      "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+            "t": "video",
+            "yt": "FgHhrBiamzw"
           },
           {
             "t": "p",
-            "x": "필자는 에이전트가 UI를 쓰기 전에 디자인 시스템부터 만들었다. 세 단계 토큰, 14개의 Angular 컴포넌트, 타입 선언, npm 패키지에 함께 넣어 배포한 llms.client.txt, MCP 기반 토큰 리졸버까지. 그러고 나서 이 중 무엇이라도 코딩 에이전트의 결과물을 바꾸는지 따져 봤다."
-          },
-          {
-            "t": "p",
-            "x": "실험 설계는 이렇다. Angular 대시보드 하나에 바이트 단위까지 같은 프롬프트, 매번 새 세션, 실험군 다섯 개. 명세와 Figma 프레임만 준 A, 여기에 문장형 스타일가이드를 더한 A′, npm 패키지를 더한 B, llms.client.txt를 더한 C, MCP 리졸버를 더한 D다. 채점한 실행은 서른 번이고, 채점 기준과 반증 조건은 미리 커밋해 뒀다."
-          },
-          {
-            "t": "p",
-            "x": "시스템을 배포하면 효과가 계단 함수처럼 뛰지만, 문서로 적어 두기만 해서는 그렇지 않다. 패키지가 없으면 에이전트는 13개 컴포넌트 중 12개나 13개를 직접 짜고, 앱에는 커스텀 프로퍼티가 약 90개 생긴다. 패키지가 있으면 둘 다 제로다."
-          },
-          {
-            "t": "p",
-            "x": "일관성보다 접근성이 더 큰 문제였다. 에이전트는 Figma의 색은 정확히 가져왔지만 심각한 명도 대비 실패도 그대로 내보냈다. 30회 실행 내내 에이전트가 컴포넌트 API를 지어낸 적은 없었다. 라이브러리를 쓰면 생성당 비용이 더 들었고, MCP 리졸버는 텍스트 파일보다 측정할 만한 개선을 더하지 못했다."
-          },
-          {
-            "t": "p",
-            "x": "“디자인 시스템이 에이전트를 더 똑똑하거나 더 정확하게 만들지는 않는다. 에이전트가 쓴 코드를 결국 누가 소유하게 되는지를 정한다.” 벤치마크가 아니라 사례 연구라는 게 필자의 설명이다."
+            "x": "새 Copilot 아이덴티티 안에서 앱과 도구, 맥락이 하나로 모인다. 일에서 영감을 얻었고 일을 위해 디자인했다."
           }
         ]
       },
+      "lead_image": "https://i.ytimg.com/vi/FgHhrBiamzw/sddefault.jpg",
       "text": {
         "en": {
-          "headline": "Does a design system steer\nwhat a coding agent writes",
-          "body": "In 30 runs, agents given the design system as an npm package hand-wrote no components; a prose styleguide fell short.",
-          "mini_headline": "Design systems and\ncoding agents",
+          "headline": "Microsoft Design unveils\nCopilot's new visual identity",
+          "body": "Microsoft Design's new Copilot identity brings apps, tools and context together, inspired by work and designed for it.",
+          "mini_headline": "Copilot gets a new identity",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "The author built a design system before agents started writing UI: three-tier tokens, 14 Angular components, type declarations and an llms.client.txt shipped inside the npm package, plus a token resolver over MCP. Then he asked whether any of it changes what a coding agent produces."
-              },
-              {
-                "t": "p",
-                "x": "The test: one Angular dashboard, a byte-identical prompt, fresh sessions, and five arms — specification and Figma frames only (A), plus a prose styleguide (A′), plus the npm packages (B), plus llms.client.txt (C), plus the MCP resolver (D). Thirty scored runs, with scorers and falsifiers committed in advance."
-              },
-              {
-                "t": "p",
-                "x": "Shipping the system is a step function; writing it down is not. Without the package, the agent hand-writes 12 or 13 of 13 components and the app acquires around 90 custom properties; with it, zero and zero."
-              },
-              {
-                "t": "p",
-                "x": "Accessibility mattered more than consistency: agents got colours right from Figma but shipped serious contrast failures. Agents never hallucinated the component API in 30 runs. Using the library cost more per generation, and the MCP resolver added no measurable improvement over the text file."
-              },
-              {
-                "t": "p",
-                "x": "“The design system does not make the agent smarter or more correct. It decides who ends up owning the code it writes.” The author calls it a case study, not a benchmark."
+                "x": "Your apps, tools, and context come together in our new Copilot identity, inspired by work and designed for it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "디자인 시스템이\n에이전트 코드를 좌우할까",
-          "body": "30회 실행에서 npm 패키지로 받은 에이전트는 컴포넌트를 직접 짜지 않았다.",
-          "mini_headline": "디자인 시스템과\n코딩 에이전트",
+          "headline": "Copilot의 새\n비주얼 아이덴티티",
+          "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
+          "mini_headline": "Microsoft Design의 새 Copilot",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "필자는 에이전트가 UI를 쓰기 전에 디자인 시스템부터 만들었다. 세 단계 토큰, 14개의 Angular 컴포넌트, 타입 선언, npm 패키지에 함께 넣어 배포한 llms.client.txt, MCP 기반 토큰 리졸버까지. 그러고 나서 이 중 무엇이라도 코딩 에이전트의 결과물을 바꾸는지 따져 봤다."
-              },
-              {
-                "t": "p",
-                "x": "실험 설계는 이렇다. Angular 대시보드 하나에 바이트 단위까지 같은 프롬프트, 매번 새 세션, 실험군 다섯 개. 명세와 Figma 프레임만 준 A, 여기에 문장형 스타일가이드를 더한 A′, npm 패키지를 더한 B, llms.client.txt를 더한 C, MCP 리졸버를 더한 D다. 채점한 실행은 서른 번이고, 채점 기준과 반증 조건은 미리 커밋해 뒀다."
-              },
-              {
-                "t": "p",
-                "x": "시스템을 배포하면 효과가 계단 함수처럼 뛰지만, 문서로 적어 두기만 해서는 그렇지 않다. 패키지가 없으면 에이전트는 13개 컴포넌트 중 12개나 13개를 직접 짜고, 앱에는 커스텀 프로퍼티가 약 90개 생긴다. 패키지가 있으면 둘 다 제로다."
-              },
-              {
-                "t": "p",
-                "x": "일관성보다 접근성이 더 큰 문제였다. 에이전트는 Figma의 색은 정확히 가져왔지만 심각한 명도 대비 실패도 그대로 내보냈다. 30회 실행 내내 에이전트가 컴포넌트 API를 지어낸 적은 없었다. 라이브러리를 쓰면 생성당 비용이 더 들었고, MCP 리졸버는 텍스트 파일보다 측정할 만한 개선을 더하지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "“디자인 시스템이 에이전트를 더 똑똑하거나 더 정확하게 만들지는 않는다. 에이전트가 쓴 코드를 결국 누가 소유하게 되는지를 정한다.” 벤치마크가 아니라 사례 연구라는 게 필자의 설명이다."
+                "x": "새 Copilot 아이덴티티 안에서 앱과 도구, 맥락이 하나로 모인다. 일에서 영감을 얻었고 일을 위해 디자인했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステムは\nエージェントを導くか",
-          "body": "30回の試行で、npmパッケージを渡されたエージェントはコンポーネントを自作しなかった。",
-          "mini_headline": "デザインシステムと\nコーディングエージェント",
+          "headline": "Copilotの新しい\nビジュアルアイデンティティ",
+          "body": "Microsoftの新Copilotアイデンティティはアプリ・ツール・文脈を束ねる。",
+          "mini_headline": "Microsoft DesignのCopilot新アイデンティティ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "筆者はエージェントがUIを書き始める前にデザインシステムを構築していた。三層のトークン、14個のAngularコンポーネント、型宣言、npmパッケージに同梱したllms.client.txt、そしてMCP経由のトークンリゾルバーだ。そのうえで、これらのいずれかがコーディングエージェントの出力を変えるのかを問うた。"
-              },
-              {
-                "t": "p",
-                "x": "テストの条件は、Angularダッシュボード一つ、バイト単位で同一のプロンプト、新規セッション、そして五つの群だ。仕様とFigmaフレームのみ（A）、それに文章のスタイルガイドを加えたもの（A′）、npmパッケージを加えたもの（B）、llms.client.txtを加えたもの（C）、MCPリゾルバーを加えたもの（D）。採点対象の実行は三十回で、採点方法と反証条件は事前にコミットした。"
-              },
-              {
-                "t": "p",
-                "x": "システムを配布することは段階関数のように効くが、書き記すだけではそうならない。パッケージがなければ、エージェントは13個中12個か13個のコンポーネントを手書きし、アプリには約90個のカスタムプロパティが生じる。パッケージがあれば、どちらもゼロだ。"
-              },
-              {
-                "t": "p",
-                "x": "一貫性よりアクセシビリティのほうが重要だった。エージェントはFigmaから色を正しく取り込んだが、深刻なコントラスト不備を残したまま出力した。30回の実行で、エージェントがコンポーネントAPIをでっち上げたことは一度もない。ライブラリを使うと生成あたりのコストは増え、MCPリゾルバーはテキストファイルに比べて測定可能な改善をもたらさなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「デザインシステムはエージェントを賢くも正確にもしない。エージェントが書いたコードを最終的に誰が所有するかを決めるのだ」。筆者はこれをベンチマークではなくケーススタディと呼ぶ。"
+                "x": "アプリ、ツール、コンテキストが、新しいCopilotアイデンティティのもとでひとつになる。仕事から着想を得て、仕事のためにデザインした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计系统能否左右\n编码智能体写的代码",
-          "body": "30次运行中，以npm包获得设计系统的智能体未手写组件；文字风格指南则不够。",
-          "mini_headline": "设计系统与\n编码智能体",
+          "headline": "Copilot启用\n全新视觉识别",
+          "body": "Microsoft Design为Copilot推出新形象，把应用、工具和上下文汇聚一处。",
+          "mini_headline": "Copilot换上新形象",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "作者在智能体开始编写UI之前就搭建了一套设计系统：三层令牌、14个Angular组件、类型声明、随npm包一起发布的llms.client.txt，以及基于MCP的令牌解析器。然后他提出一个问题：这些东西是否会改变编码智能体的产出？"
-              },
-              {
-                "t": "p",
-                "x": "测试设置为：一个Angular仪表盘、逐字节相同的提示词、全新会话，以及五个实验组——仅规格说明和Figma画框（A），加上文字风格指南（A′），加上npm包（B），加上llms.client.txt（C），加上MCP解析器（D）。共三十次计分运行，评分器和证伪条件均事先提交。"
-              },
-              {
-                "t": "p",
-                "x": "交付系统带来的是阶跃式变化，把它写成文档则不然。没有这个包时，智能体会在13个组件中手写12或13个，应用里会多出约90个自定义属性；有了它，两者都是零。"
-              },
-              {
-                "t": "p",
-                "x": "可访问性比一致性更重要：智能体从Figma中把颜色取对了，却带着严重的对比度问题交付。在30次运行中，智能体从未臆造组件API。使用组件库让每次生成的成本更高，而MCP解析器相比文本文件没有带来可衡量的提升。"
-              },
-              {
-                "t": "p",
-                "x": "“设计系统并不会让智能体更聪明或更正确。它决定的是，最终由谁来拥有它写出的代码。”作者称这是一项案例研究，而非基准测试。"
+                "x": "你的应用、工具和上下文，在我们全新的Copilot形象中汇聚一处。它的灵感源自工作，也为工作而设计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Orienta un sistema de diseño\nel código de un agente?",
-          "body": "En 30 ejecuciones, los agentes con el sistema de diseño como paquete npm no escribieron ningún componente a mano.",
-          "mini_headline": "Sistemas de diseño y\nagentes de código",
+          "headline": "Microsoft Design estrena la\nidentidad visual de Copilot",
+          "body": "La nueva identidad de Copilot de Microsoft Design reúne apps, herramientas y contexto, pensada para el trabajo.",
+          "mini_headline": "Copilot estrena identidad",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "El autor construyó un sistema de diseño antes de que los agentes empezaran a escribir UI: tokens de tres niveles, 14 componentes de Angular, declaraciones de tipos y un llms.client.txt incluido en el paquete npm, además de un resolvedor de tokens sobre MCP. Después se preguntó si algo de eso cambia lo que produce un agente de código."
-              },
-              {
-                "t": "p",
-                "x": "La prueba: un panel de Angular, un prompt idéntico byte a byte, sesiones nuevas y cinco brazos: solo especificación y frames de Figma (A), más una guía de estilo en prosa (A′), más los paquetes npm (B), más llms.client.txt (C), más el resolvedor MCP (D). Treinta ejecuciones puntuadas, con evaluadores y criterios de falsación fijados de antemano."
-              },
-              {
-                "t": "p",
-                "x": "Distribuir el sistema es una función escalón; ponerlo por escrito no. Sin el paquete, el agente escribe a mano 12 o 13 de 13 componentes y la app acumula unas 90 propiedades personalizadas; con él, cero y cero."
-              },
-              {
-                "t": "p",
-                "x": "La accesibilidad importó más que la consistencia: los agentes acertaron con los colores desde Figma, pero entregaron fallos graves de contraste. En 30 ejecuciones, los agentes nunca alucinaron la API de los componentes. Usar la biblioteca costó más por generación, y el resolvedor MCP no aportó ninguna mejora medible frente al archivo de texto."
-              },
-              {
-                "t": "p",
-                "x": "“El sistema de diseño no hace al agente más listo ni más correcto. Decide quién acaba siendo dueño del código que escribe.” El autor lo describe como un estudio de caso, no como un benchmark."
+                "x": "Tus apps, herramientas y contexto se reúnen en nuestra nueva identidad de Copilot, inspirada en el trabajo y diseñada para él."
               }
             ]
           }
@@ -1875,137 +1624,73 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "디자인 시스템이\n에이전트 코드를 좌우할까",
-          "body": "30회 실행에서 npm 패키지로 받은 에이전트는 컴포넌트를 직접 짜지 않았다.",
-          "mini_headline": "디자인 시스템과\n코딩 에이전트",
+          "headline": "Copilot의 새\n비주얼 아이덴티티",
+          "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
+          "mini_headline": "Microsoft Design의 새 Copilot",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "필자는 에이전트가 UI를 쓰기 전에 디자인 시스템을 만들었다. 세 단계 토큰, 14개의 Angular 컴포넌트, 타입 선언, npm 패키지 안에 함께 배포한 llms.client.txt, 그리고 MCP 기반 토큰 리졸버다. 그런 다음 이 가운데 무엇이라도 코딩 에이전트의 결과물을 바꾸는지 물었다."
-              },
-              {
-                "t": "p",
-                "x": "실험 설계는 이렇다. Angular 대시보드 하나, 바이트 단위로 같은 프롬프트, 새 세션, 그리고 다섯 개 실험군이다. 명세와 Figma 프레임만 준 A, 여기에 문장형 스타일가이드를 더한 A′, npm 패키지를 더한 B, llms.client.txt를 더한 C, MCP 리졸버를 더한 D다. 채점한 실행은 서른 번이며, 채점 기준과 반증 조건은 미리 커밋해 두었다."
-              },
-              {
-                "t": "p",
-                "x": "시스템을 배포하면 계단 함수처럼 효과가 나타나지만, 문서로 적어 두는 것은 그렇지 않다. 패키지가 없으면 에이전트는 13개 컴포넌트 중 12개나 13개를 직접 작성하고, 앱에는 약 90개의 커스텀 프로퍼티가 생긴다. 패키지가 있으면 둘 다 제로다."
-              },
-              {
-                "t": "p",
-                "x": "일관성보다 접근성이 더 중요했다. 에이전트는 Figma에서 색은 정확히 가져왔지만 심각한 명도 대비 실패를 그대로 내보냈다. 30회 실행 동안 에이전트가 컴포넌트 API를 지어낸 적은 한 번도 없었다. 라이브러리를 쓰면 생성당 비용이 더 들었고, MCP 리졸버는 텍스트 파일보다 측정 가능한 개선을 더하지 못했다."
-              },
-              {
-                "t": "p",
-                "x": "“디자인 시스템이 에이전트를 더 똑똑하거나 더 정확하게 만들지는 않는다. 에이전트가 쓴 코드를 결국 누가 소유하게 되는지를 정한다.” 필자는 이를 벤치마크가 아닌 사례 연구라고 부른다."
+                "x": "앱과 도구, 맥락이 새로운 Copilot 아이덴티티 안에서 하나로 모인다. 일에서 영감을 얻었고, 일을 위해 디자인했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "デザインシステムは\nエージェントを導くか",
-          "body": "30回の試行で、npmパッケージを渡されたエージェントはコンポーネントを自作しなかった。",
-          "mini_headline": "デザインシステムと\nコーディングエージェント",
+          "headline": "Copilotの新しい\nビジュアルアイデンティティ",
+          "body": "Microsoftの新Copilotアイデンティティはアプリ・ツール・文脈を束ねる。",
+          "mini_headline": "Microsoft DesignのCopilot新アイデンティティ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "筆者はエージェントがUIを書き始める前にデザインシステムを構築していた。三層のトークン、14個のAngularコンポーネント、型宣言、npmパッケージに同梱したllms.client.txt、そしてMCP経由のトークンリゾルバーだ。そのうえで、これらのいずれかがコーディングエージェントの出力を変えるのかを問うた。"
-              },
-              {
-                "t": "p",
-                "x": "テストの条件は、Angularダッシュボード一つ、バイト単位で同一のプロンプト、新規セッション、そして五つの群だ。仕様とFigmaフレームのみ（A）、それに文章のスタイルガイドを加えたもの（A′）、npmパッケージを加えたもの（B）、llms.client.txtを加えたもの（C）、MCPリゾルバーを加えたもの（D）。採点対象の実行は三十回で、採点方法と反証条件は事前にコミットした。"
-              },
-              {
-                "t": "p",
-                "x": "システムを配布することは段階関数のように効くが、書き記すだけではそうならない。パッケージがなければ、エージェントは13個中12個か13個のコンポーネントを手書きし、アプリには約90個のカスタムプロパティが生じる。パッケージがあれば、どちらもゼロだ。"
-              },
-              {
-                "t": "p",
-                "x": "一貫性よりアクセシビリティのほうが重要だった。エージェントはFigmaから色を正しく取り込んだが、深刻なコントラスト不備を残したまま出力した。30回の実行で、エージェントがコンポーネントAPIをでっち上げたことは一度もない。ライブラリを使うと生成あたりのコストは増え、MCPリゾルバーはテキストファイルに比べて測定可能な改善をもたらさなかった。"
-              },
-              {
-                "t": "p",
-                "x": "「デザインシステムはエージェントを賢くも正確にもしない。エージェントが書いたコードを最終的に誰が所有するかを決めるのだ」。筆者はこれをベンチマークではなくケーススタディと呼ぶ。"
+                "x": "アプリ、ツール、コンテキストが、新しいCopilotアイデンティティのもとでひとつになる。仕事から着想を得て、仕事のためにデザインした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "设计系统能否左右\n编码智能体写的代码",
-          "body": "30次运行中，以npm包获得设计系统的智能体未手写组件；文字风格指南则不够。",
-          "mini_headline": "设计系统与\n编码智能体",
+          "headline": "Copilot启用\n全新视觉识别",
+          "body": "Microsoft Design为Copilot推出新形象，把应用、工具和上下文汇聚一处。",
+          "mini_headline": "Copilot换上新形象",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "作者在智能体开始编写UI之前就搭建了一套设计系统：三层令牌、14个Angular组件、类型声明、随npm包一起发布的llms.client.txt，以及基于MCP的令牌解析器。然后他提出一个问题：这些东西是否会改变编码智能体的产出？"
-              },
-              {
-                "t": "p",
-                "x": "测试设置为：一个Angular仪表盘、逐字节相同的提示词、全新会话，以及五个实验组——仅规格说明和Figma画框（A），加上文字风格指南（A′），加上npm包（B），加上llms.client.txt（C），加上MCP解析器（D）。共三十次计分运行，评分器和证伪条件均事先提交。"
-              },
-              {
-                "t": "p",
-                "x": "交付系统带来的是阶跃式变化，把它写成文档则不然。没有这个包时，智能体会在13个组件中手写12或13个，应用里会多出约90个自定义属性；有了它，两者都是零。"
-              },
-              {
-                "t": "p",
-                "x": "可访问性比一致性更重要：智能体从Figma中把颜色取对了，却带着严重的对比度问题交付。在30次运行中，智能体从未臆造组件API。使用组件库让每次生成的成本更高，而MCP解析器相比文本文件没有带来可衡量的提升。"
-              },
-              {
-                "t": "p",
-                "x": "“设计系统并不会让智能体更聪明或更正确。它决定的是，最终由谁来拥有它写出的代码。”作者称这是一项案例研究，而非基准测试。"
+                "x": "你的应用、工具和上下文，在我们全新的Copilot形象中汇聚一处。它的灵感源自工作，也为工作而设计。"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Orienta un sistema de diseño\nel código de un agente?",
-          "body": "En 30 ejecuciones, los agentes con el sistema de diseño como paquete npm no escribieron ningún componente a mano.",
-          "mini_headline": "Sistemas de diseño y\nagentes de código",
+          "headline": "Microsoft Design estrena la\nidentidad visual de Copilot",
+          "body": "La nueva identidad de Copilot de Microsoft Design reúne apps, herramientas y contexto, pensada para el trabajo.",
+          "mini_headline": "Copilot estrena identidad",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+                "t": "video",
+                "yt": "FgHhrBiamzw"
               },
               {
                 "t": "p",
-                "x": "El autor construyó un sistema de diseño antes de que los agentes empezaran a escribir UI: tokens de tres niveles, 14 componentes de Angular, declaraciones de tipos y un llms.client.txt incluido en el paquete npm, además de un resolvedor de tokens sobre MCP. Después se preguntó si algo de eso cambia lo que produce un agente de código."
-              },
-              {
-                "t": "p",
-                "x": "La prueba: un panel de Angular, un prompt idéntico byte a byte, sesiones nuevas y cinco brazos: solo especificación y frames de Figma (A), más una guía de estilo en prosa (A′), más los paquetes npm (B), más llms.client.txt (C), más el resolvedor MCP (D). Treinta ejecuciones puntuadas, con evaluadores y criterios de falsación fijados de antemano."
-              },
-              {
-                "t": "p",
-                "x": "Distribuir el sistema es una función escalón; ponerlo por escrito no. Sin el paquete, el agente escribe a mano 12 o 13 de 13 componentes y la app acumula unas 90 propiedades personalizadas; con él, cero y cero."
-              },
-              {
-                "t": "p",
-                "x": "La accesibilidad importó más que la consistencia: los agentes acertaron con los colores desde Figma, pero entregaron fallos graves de contraste. En 30 ejecuciones, los agentes nunca alucinaron la API de los componentes. Usar la biblioteca costó más por generación, y el resolvedor MCP no aportó ninguna mejora medible frente al archivo de texto."
-              },
-              {
-                "t": "p",
-                "x": "“El sistema de diseño no hace al agente más listo ni más correcto. Decide quién acaba siendo dueño del código que escribe.” El autor lo describe como un estudio de caso, no como un benchmark."
+                "x": "Tus apps, herramientas y contexto se reúnen en nuestra nueva identidad de Copilot, inspirada en el trabajo y diseñada para él."
               }
             ]
           }

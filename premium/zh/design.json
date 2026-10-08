@@ -6818,6 +6818,141 @@
           "x": "Atlassian 把动效素材变成了可复用组件，智能体帮助设计师在其设计系统内反复调整缓动和时长。Product Designer Davy Fung 说：“对于做静态设计的设计师来说，我们的技能更全面了。”"
         }
       ]
+    },
+    "design/design-keyshot-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+          "cap": "图片来源：KeyShot制作的3D模型"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot 2026继续拥抱AI，以提升渲染效果并简化工作流程，Creative Bloq认为它比以往更易用、更快。新功能包括：借助AI Shots获得更逼真的AI输出，且现在支持编辑与放大；升级的Move Tool + Custom Pivot；以及全新的Gallery。"
+        },
+        {
+          "t": "p",
+          "x": "AI Shots是KeyShot在2025.2中推出的生成式AI工作流程，可以从CAD模型生成图像或编辑现有图像，现在用短得多的提示词也能工作。其放大功能可将传统渲染图和AI Shots图像的分辨率提升至两倍或四倍。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+          "cap": "图片来源：KeyShot制作的3D模型"
+        },
+        {
+          "t": "p",
+          "x": "在16GB的MacBook Pro（推荐32GB）上测试时，AI Shots从未崩溃，但部分提示词耗时超过五分钟，有时还会误解提示词。它还需要下载近20GB的AI数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+          "cap": "图片来源：KeyShot制作的3D模型"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot Professional每月$108.25，按年计费$1,299；KeyShot Business每月$133.25（每年$1,599）。KeyShot几乎专为产品可视化而设计。"
+        }
+      ]
+    },
+    "design/design-free-ai-creative-cloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canva和Affinity持续给Adobe带来压力，而Adobe自身的AI条款和取消订阅政策也赶走了一部分用户。"
+        },
+        {
+          "t": "p",
+          "x": "后者似乎促使独立开发者Brandon Thomas用Claude和Rust重做了Adobe多款最受欢迎的工具，包括Photoshop、Premiere和Illustrator。他在Hacker News上说，自己“被‘取消费’这种暗黑模式坑了太多次”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+        },
+        {
+          "t": "p",
+          "x": "“我可不是随便玩玩的氛围编程者。我是有15年（15-year）经验的业内老手。”Thomas在Reddit上写道，并在Hacker News上补充：“软件已经完蛋了。”"
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq对此持怀疑态度：用AI做出一模一样的复制品，远不如创造新东西令人兴奋；也很难想象专业创作者会把自己的文件乃至生计交给AI生成（AI-generated）的软件。正如一位Redditor所说，一个未经验证、只是看起来有点像Photoshop的软件，和长期维护、值得信赖的软件截然不同。"
+        }
+      ]
+    },
+    "design/design-claude-frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Anthropic的frontend-design技能收录在其skills仓库中，也以插件形式上架官方Claude Code市场。它只是一份71行的Markdown文件，没有脚本，也没有组件库；它带来的一切变化，都源于改变Claude的规划方式。"
+        },
+        {
+          "t": "p",
+          "x": "它要求Claude从主题出发进行设计，点名要避免的生成式设计痕迹（衬线字体加赤陶色点缀的奶油色背景、“SaaS card kit”、ALL-CAPS眉标），并要求在写任何代码之前先给出令牌方案：4到6种命名的hex颜色、字体以及一个ASCII布局。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+          "cap": "使用frontend-design技能。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+          "cap": "同一需求，未使用技能。"
+        },
+        {
+          "t": "p",
+          "x": "在一份需求（为虚构记账应用Ledgerline制作落地页）上，使用技能的那次运行把all-caps标签从9个减到0个，把中点分隔字符串从4个减到0个，并且在375 px下没有横向滚动，而对照组溢出16 px。它用了14轮、5.7分钟，对照组为2轮、3.3分钟，费用为$1.61对$0.98。"
+        },
+        {
+          "t": "p",
+          "x": "它没能阻止任何一个页面编造产品信息，也保留了七处带空格的em dash。每种方式只运行了一次，因此只能当作一个例子，而不是基准测试。"
+        }
+      ]
+    },
+    "design/design-copilot-identity": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "FgHhrBiamzw"
+        },
+        {
+          "t": "p",
+          "x": "你的应用、工具和上下文，在我们全新的Copilot形象中汇聚一处。它的灵感源自工作，也为工作而设计。"
+        }
+      ]
+    },
+    "design/design-chatgpt-intelligent-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+          "cap": "图片：OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正在为ChatGPT推出名为Intelligent UI的新功能，让聊天机器人能用交互式视觉内容回答问题。这项更新随GPT-6向所有用户推送，使ChatGPT能把文字回答与示意图、图表、表单、可点按的按钮等结合起来。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI表示，它训练GPT-6判断何时用交互式视觉内容代替文字，以及如何编排其格式。其中一个示例展示了一辆七速自行车的示意图，并配有可高亮不同部件的交互按钮。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT生成一张展示七速自行车设计的示意图。图片：OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "另一个示例中，ChatGPT把每张牌放进可滚动的分类里，以图示方式教人打麻将（Mahjong）。用户还可以让它生成退休储蓄计算器、复古游戏或账单分摊工具，这些工具会直接嵌在回答之中。"
+        },
+        {
+          "t": "p",
+          "x": "搭载Intelligent UI的GPT-6今天起面向全球Plus、Pro、Business和Enterprise用户推出，并于周四扩展到Go和免费版。较高档位用户使用中端模型GPT-6 Sol；Go和免费用户使用更高效的GPT-6 Luna。"
+        }
+      ]
     }
   }
 }

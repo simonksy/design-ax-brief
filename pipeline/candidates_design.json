@@ -1,197 +1,197 @@
 {
  "section": "design",
- "now_iso": "2026-10-07T22:04:00Z",
+ "now_iso": "2026-10-08T22:00:45Z",
  "window_hours": 72,
  "items": [
   {
-   "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
-   "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
-   "source": "80 Level",
+   "url": "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use",
+   "title": "KeyShot 2026 review: fast, easy 3D rendering and with AI tools you might actually use",
+   "source": "Creative Bloq",
    "category": "render",
-   "published_iso": "2026-10-07T21:09:00+00:00",
-   "og_image": "https://cdn.80.lv/api/upload/meta/50548/images/6ac6b507913eb/contain_1200x630.jpg",
-   "excerpt": "Unity Spark combines AI-assisted game creation with artist-made Asset Store content, but Unity CEO Matt Bromberg stresses that creators must still design, iterate, polish, and finish their experiences."
+   "published_iso": "2026-10-08T17:03:41Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+   "excerpt": "Creative Bloq reviews KeyShot 2026, whose AI Shots feature brings generative AI into the heart of the product-rendering workflow alongside its fast, easy 3D rendering."
   },
   {
-   "title": "How to use WebMCP with coding agents",
-   "url": "https://www.builder.io/blog/how-to-use-webmcp",
-   "source": "Builder.io",
+   "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+   "title": "Someone just rebuilt Adobe Creative Cloud with AI – then gave it away for free",
+   "source": "Creative Bloq",
+   "category": "workflow",
+   "published_iso": "2026-10-08T16:19:44Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G-889-80.jpg",
+   "excerpt": "A developer used AI to rebuild a suite of Adobe Creative Cloud-style apps and released it for free, raising questions about what AI-built creative software means for designers and Adobe."
+  },
+  {
+   "url": "https://www.creativebloq.com/ai/fantas-ai-slop-halloween-advert-is-a-real-horror-show",
+   "title": "Fanta's AI slop Halloween advert is a real horror show",
+   "source": "Creative Bloq",
+   "category": "workflow",
+   "published_iso": "2026-10-08T07:00:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/LwnUfbgu2K8uUiUSyLP8Wh-1920-80.jpg",
+   "excerpt": "Fanta's AI-generated Halloween advert draws criticism as 'AI slop', reopening the debate over brands using generative video in place of traditional creative production."
+  },
+  {
+   "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
+   "title": "Graphisoft updates Archicad portfolio with AI capabilities",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-10-08T13:26:41+00:00",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png",
+   "excerpt": "The 2026 portfolio adds MCP connectivity, AI Visualizer updates, MEP Designer expansion and a new Archicad Max subscription."
+  },
+  {
+   "url": "https://www.engineering.com/ai-in-plm-near-term-expectations-and-challenges/",
+   "title": "AI in PLM: near-term expectations and challenges",
+   "source": "Engineering.com",
+   "category": "cad",
+   "published_iso": "2026-10-08T17:15:35+00:00",
+   "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/billeo-ainearterm-infograph.png",
+   "excerpt": "View AI as an organizational capability rather than a tool. Organizational readiness—not the technology itself—is the main barrier to AI delivering measurable near-term value in PLM."
+  },
+  {
+   "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+   "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "source": "NVIDIA Blog",
+   "category": "render",
+   "published_iso": "2026-10-08T21:06:35+00:00",
+   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/Copy-of-nvidia-ov-x-astra-4up-KV-r1-press-4k-r2-1680x945.png",
+   "excerpt": "See how developers are combining AI agents with NVIDIA Omniverse libraries to build simulation applications, test physical behavior and guide improvements."
+  },
+  {
+   "url": "https://www.fastcompany.com/91620091/big-tech-is-cutewashing-its-ai-agents",
+   "title": "Big Tech is cutewashing its AI agents",
+   "source": "Fast Company",
+   "category": "workflow",
+   "published_iso": "2026-10-08T10:45:04+00:00",
+   "og_image": "https://images.fastcompany.com/image/upload/f_webp,q_auto,c_fit,w_1024/wp-cms-2/2026/10/i-1-91620091-ai-mascots.jpg",
+   "excerpt": "As the biggest AI players roll out agent capabilities, their branding is converging on the same visual shorthand: cute little mascots, following the earlier sparkle-and-gradient trend."
+  },
+  {
+   "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e",
+   "title": "AI: incidents by design",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-10-08T09:20:37+00:00",
+   "og_image": "https://cdn-images-1.medium.com/max/1024/1*X6uoa9EXHGh-8NGtYKAU4A.jpeg",
+   "excerpt": "When safety is optional and capability is urgent, AI incidents are not accidents but what teams designed and built for, argues Patrizia Bertini on responsible AI agent design."
+  },
+  {
+   "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc",
+   "title": "Beyond streaks and nudges: ethical gamification & AI design",
+   "source": "UX Collective",
+   "category": "workflow",
+   "published_iso": "2026-10-07T19:48:49+00:00",
+   "og_image": "https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png",
+   "excerpt": "Part 1 of 3 on designing AI-era systems that inspire rather than manipulate, moving beyond streaks and nudges toward ethical gamification."
+  },
+  {
+   "url": "https://www.figma.com/blog/figma-agent-and-design-systems/",
+   "title": "How to Lighten Design System Upkeep With the Figma Agent",
+   "source": "Figma Blog",
    "category": "figma",
+   "published_iso": "2026-10-06T14:00:00.000Z",
+   "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/4628d622dd91516f5755c9431146749f0ca1db35-1632x918.png?w=1200&q=70&fit=max&auto=format",
+   "excerpt": "Figma shares ways to put its agent to work on design system upkeep, from library updates to guidelines the agent can follow."
+  },
+  {
+   "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
+   "title": "FLUX 3 Image now available on AI Gateway",
+   "source": "Vercel",
+   "category": "render",
+   "published_iso": "2026-10-08T00:00+00:00",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/308Sa3pzuNe99tVYc4COdn/ff4af2bd86781de4212ab8ab7ba90e62/image.png",
+   "excerpt": "Generate and edit images with FLUX 3 Image through Vercel AI Gateway, with one API key, unified billing, and request traces."
+  },
+  {
+   "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+   "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+   "source": "Vercel",
+   "category": "render",
+   "published_iso": "2026-10-08T00:00+00:00",
+   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png",
+   "excerpt": "Call xAI's Grok Imagine Video 1.5 Lite through Vercel AI Gateway with one API key, unified billing, and request traces."
+  },
+  {
+   "url": "https://www.builder.io/blog/how-to-use-webmcp",
+   "title": "How to use WebMCP with coding agents",
+   "source": "Builder.io",
+   "category": "tokens",
    "published_iso": "2026-10-06T18:00:00.000Z",
    "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/c35681eeb5684cf1bcad43c06de7b996?width=1200",
    "excerpt": "WebMCP lets a web app hand your coding agent real tools. Here’s how to install the /webmcp skill so your agent calls them instead of clicking around."
   },
   {
-   "title": "It's time to stop installing skills",
-   "url": "https://www.builder.io/blog/stop-installing-skills",
-   "source": "Builder.io",
-   "category": "figma",
-   "published_iso": "2026-10-06T18:00:00.000Z",
-   "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/e371bf611ec5483a9c948d4de350db88?width=1200",
-   "excerpt": "The best agent skills are the ones you keep rewriting. Save your hand edits, teach the skill what they know, and rerun it until it catches up with you."
+   "url": "https://80.lv/articles/google-released-its-own-game-creation-platform/",
+   "title": "Google's Playground Lets You Make Games without Coding",
+   "source": "80 Level",
+   "category": "render",
+   "published_iso": "2026-10-08T11:56:00+00:00",
+   "og_image": "https://cdn.80.lv/api/upload/meta/50558/images/6ac78b0dc65c3/contain_1200x630.jpg",
+   "excerpt": "Google's Playground lets users make games without coding, using AI to turn prompts into playable experiences."
   },
   {
-   "title": "MecAgent targets complex CAD tasks with GPT-6 Astra powered V2",
-   "url": "https://develop3d.com/cad/mecagent-targets-complex-cad-tasks-with-gpt-6-astra-powered-v2/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-10-07T14:29:13+00:00",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/10/MecAgent-V2-2026.jpg",
-   "excerpt": "MecAgent V2 AI for CAD software, uses its agent harness to enlist GPT-6 Astra into powering CAD designs directly within solidworks"
-  },
-  {
-   "title": "Formas.AI Cartesian brings new kernel & toolkit to 3D modelling AI Agents",
-   "url": "https://develop3d.com/cad/formas-ai-cartesian-brings-new-kernel-toolkit-to-3d-modelling-ai-agents/",
-   "source": "DEVELOP3D",
-   "category": "cad",
-   "published_iso": "2026-10-05T11:30:27+00:00",
-   "og_image": "https://develop3d.com/wp-content/uploads/2026/10/cartesian-ai-software-formas-2026.jpg",
-   "excerpt": "Formas.AI has unveiled a preview of Cartesian, its AI-assisted platform for early-stage product design, furniture and architecture design."
-  },
-  {
-   "title": "Logo Design Skill Packages SVG Checks for AI Agents",
-   "url": "https://dev.to/dd8888/logo-design-skill-packages-svg-checks-for-ai-agents-bfk",
+   "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
+   "title": "Claude's frontend-design skill: what it does, with a real run",
    "source": "DEV Community",
-   "category": "tokens",
-   "published_iso": "2026-10-07T19:40:26Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2hw2lqc3vma4qtenbsh3.png",
-   "excerpt": "An open-source Agent Skill gives Claude, Gemini CLI and Codex a staged logo workflow, SVG checks and a searchable library of 1,400-plus marks."
+   "category": "figma",
+   "published_iso": "2026-10-08T19:38:43Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmedia.skillgild.dev%2Fmedia%2Fsite%2Fdevto%2Ffrontend-skills%2Fcover-frontend-design-1760x660.png",
+   "excerpt": "Anthropic's frontend-design skill for Claude Code: what its 71 lines tell Claude, how to install it, and a landing page built with and without it on the same brief."
   },
   {
-   "title": "Nano Banana 2.1: What Changes for Design, Editing, and Image Costs",
    "url": "https://dev.to/dong_chenguang_2cbe5a1770/nano-banana-21-what-changes-for-design-editing-and-image-costs-4l8c",
+   "title": "Nano Banana 2.1: What Changes for Design, Editing, and Image Costs",
    "source": "DEV Community",
    "category": "render",
    "published_iso": "2026-10-07T13:01:29Z",
    "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fa0kri6erw5rk5l5q1cvp.png",
-   "excerpt": "Better text, more controlled edits, and a lower image bill—with an important catch at 4K.  By Neo..."
+   "excerpt": "Nano Banana 2.1 brings better text rendering, more controlled edits and a lower image bill for design and editing work, with an important catch at 4K."
   },
   {
-   "title": "Does a design system change what a coding agent writes?",
-   "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
+   "url": "https://dev.to/yash_07/five-ui-patterns-that-make-ai-agents-easier-to-trust-367a",
+   "title": "Five UI Patterns That Make AI Agents Easier to Trust",
    "source": "DEV Community",
    "category": "tokens",
-   "published_iso": "2026-10-07T20:27:23Z",
-   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png",
-   "excerpt": "A while ago I finished a piece of work I was proud of: a design system built the way I'd argue a..."
+   "published_iso": "2026-10-07T10:45:40Z",
+   "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fojtsdq54wilmg1a8s605.png",
+   "excerpt": "An AI agent’s interface should help users understand its actions, inspect changes, and intervene when..."
   },
   {
-   "title": "Google's experimental Playground platform uses AI to create games for you",
-   "url": "https://www.engadget.com/2279750/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-10-07T12:00:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/googles-experimental-playground-platform-uses-ai-to-create-games-for-you/l-intro-1791372099.jpg",
-   "excerpt": "Google launches an AI-powered game creation platform called Playground."
+   "url": "https://www.mindstudio.ai/blog/kandinsky-6-open-source-video-model/",
+   "title": "Run Kandinsky 6.0 Locally: RTX 4090 Guide to the Open Video Model",
+   "source": "MindStudio",
+   "category": "tokens",
+   "published_iso": "2026-10-07T00:00:00.000Z",
+   "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/7de7bd66-7039-4e55-bee0-08f369316779.png?fm=auto&w=1200&h=630&fit=crop",
+   "excerpt": "Kandinsky 6.0 is an open-source text-to-video model that runs on consumer GPUs. Here's how to install it locally or use it via Fal.ai."
   },
   {
-   "title": "Google's AI detection website is now available",
-   "url": "https://www.engadget.com/2279565/google-synth-id-detector-ai-detection-website-is-now-available/",
-   "source": "Engadget",
-   "category": "render",
-   "published_iso": "2026-10-07T14:00:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/googles-ai-detection-website-is-now-available/l-intro-1791328862.jpg",
-   "excerpt": "SynthID Detector will flag content created with AI tools from OpenAI, Google, Apple and other companies."
+   "url": "https://www.mindstudio.ai/blog/prism-tencent-open-source-video-model/",
+   "title": "Tencent Prism: Open-Source 2K Video AI Needs 80GB VRAM",
+   "source": "MindStudio",
+   "category": "tokens",
+   "published_iso": "2026-10-07T00:00:00.000Z",
+   "og_image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/90177336-0cb2-4064-99a7-a3df877189a2.png?fm=auto&w=1200&h=630&fit=crop",
+   "excerpt": "Tencent's Prism generates native 2K AI video with audio from a single image, but its 80GB VRAM requirement keeps it out of consumer reach."
   },
   {
-   "title": "Xreal's Aura Android XR smartglasses will cost you at least $1,279",
-   "url": "https://www.engadget.com/2279737/xreals-aura-android-xr-smartglasses-will-cost-you-at-least-1279/",
-   "source": "Engadget",
-   "category": "vr",
-   "published_iso": "2026-10-07T12:00:00+00:00",
-   "og_image": "https://www.engadget.com/img/gallery/xreals-next-gen-aura-android-xr-smartglasses-will-cost-you-at-least-1279/l-intro-1791367954.jpg",
-   "excerpt": "Xreal’s Aura smartglasses are powered by Qualcomm’s Snapdragon Reality Elite chip."
+   "url": "https://www.youtube.com/watch?v=FgHhrBiamzw",
+   "title": "Behind-the-scenes Look at the New Microsoft Copilot Identity",
+   "source": "Microsoft Design",
+   "category": "social",
+   "published_iso": "2026-10-06T19:03:16+00:00",
+   "og_image": "https://i.ytimg.com/vi/FgHhrBiamzw/maxresdefault.jpg",
+   "excerpt": "Your apps, tools, and context come together in our new Copilot identity, inspired by work and designed for it."
   },
   {
-   "title": "Keysight adds agentic AI tools to RF design software",
-   "url": "https://www.engineering.com/keysight-adds-agentic-ai-tools-to-rf-design-software/",
-   "source": "Engineering.com",
-   "category": "cad",
-   "published_iso": "2026-10-07T15:00:23+00:00",
-   "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/Keysight-adds-agentic-AI-tools-to-RF-design-software.jpg",
-   "excerpt": "ADS 2027 adds MCP servers, macro recording and Python script generation for automated RF design workflows."
-  },
-  {
-   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
-   "source": "NVIDIA Blog",
-   "category": "render",
-   "published_iso": "2026-10-07T18:45:28+00:00",
-   "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-rtx-spark-microsoft-event-3840x2160-1-scaled.png",
-   "excerpt": "NVIDIA RTX Spark pre-orders open October 16, and DGX Station for Windows brings GB300 AI infrastructure to the enterprise desktop."
-  },
-  {
-   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-   "source": "The Verge",
-   "category": "workflow",
-   "published_iso": "2026-10-07T19:10:42+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "excerpt": "Visual responses are coming to all ChatGPT users."
-  },
-  {
-   "title": "Microsoft is giving Copilot more control over Windows and your files",
-   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-   "source": "The Verge",
-   "category": "workflow",
-   "published_iso": "2026-10-07T18:01:20+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lcimg-e4e44609-0bf6-40b2-8c24-2e8c3ce7cee8.jpeg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Hybrid Intelligence features are coming to Copilot over the “next couple months.”"
-  },
-  {
-   "title": "Bounded delegation: How much authority should AI have?",
-   "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192",
-   "source": "UX Collective",
-   "category": "workflow",
-   "published_iso": "2026-10-07T19:54:06+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/1024/0*s2u8cr6hv5yDHDZ3.png",
-   "excerpt": "A practical model for deciding what AI can do, what humans must still own, and where product teams should draw the boundary."
-  },
-  {
-   "title": "Beyond streaks and nudges: ethical gamification & AI design",
-   "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc",
-   "source": "UX Collective",
-   "category": "workflow",
-   "published_iso": "2026-10-07T19:48:49+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/600/1*BzDLC65lxOHmHIgAg8ykxA.png",
-   "excerpt": "An essay on designing AI-driven gamification without manipulative streaks and nudges."
-  },
-  {
-   "title": "Is Meta's new AI agent easier to trust because it's cute?",
-   "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f",
-   "source": "UX Collective",
-   "category": "workflow",
-   "published_iso": "2026-10-05T22:00:31+00:00",
-   "og_image": "https://cdn-images-1.medium.com/max/852/1*784GNB8X9O9PcH2kPQC5wg.png",
-   "excerpt": "A UX critique of how the character design of Meta's new AI agent shapes user trust."
-  },
-  {
-   "title": "FLUX 3 Image now available on AI Gateway",
-   "url": "https://vercel.com/changelog/flux-3-image-now-available-on-ai-gateway",
-   "source": "Vercel",
-   "category": "render",
-   "published_iso": "2026-10-05T00:00:00Z",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/308Sa3pzuNe99tVYc4COdn/ff4af2bd86781de4212ab8ab7ba90e62/image.png",
-   "excerpt": "Generate and edit images with FLUX 3 Image through Vercel AI Gateway, with one API key, unified billing, and request traces."
-  },
-  {
-   "title": "Nano Banana 2.1 now available on AI Gateway",
-   "url": "https://vercel.com/changelog/nano-banana-2-1-now-available-on-ai-gateway",
-   "source": "Vercel",
-   "category": "render",
-   "published_iso": "2026-10-06T00:00:00Z",
-   "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/38lhFWswSQd6xdOwRCNNKC/9d4006e436aba2c29c165b60f58e816a/image.png",
-   "excerpt": "Generate and edit images with Nano Banana 2.1 through Vercel AI Gateway with one API key: no provider account, spend tracking, and traces on every request."
-  },
-  {
-   "title": "The new Microsoft Surface Ultra is literally built for multi-disciplinary creatives",
-   "url": "https://www.creativebloq.com/tech/laptops/the-new-microsoft-surface-ultra-is-literally-built-for-multi-disciplinary-creatives",
-   "source": "Creative Bloq",
-   "category": "workflow",
-   "published_iso": "2026-10-07T19:38:16Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/sBx2xR45jHVy2DSBKasNp8-1024-80.png",
-   "excerpt": "Microsoft's Surface Laptop Ultra, powered by NVIDIA RTX Spark for local AI, is pitched at creatives working across 3D, video and design."
+   "url": "https://www.youtube.com/watch?v=pqMZj2FRXRA",
+   "title": "How far can I push Framer Skills",
+   "source": "Jesse Showalter",
+   "category": "social",
+   "published_iso": "2026-10-06T13:00:36+00:00",
+   "og_image": "https://i.ytimg.com/vi/pqMZj2FRXRA/maxresdefault.jpg",
+   "excerpt": "I keep asking AI to help me build websites… but I keep reteaching it how I work. So in this video, I’m fixing that.I’m taking one real  @Framer   project fro..."
   }
  ],
- "date": "2026-10-08"
+ "date": "2026-10-09"
 }

@@ -11422,6 +11422,144 @@
           "x": "10월 15일 Mundell과 CTO Remko Noteboom은 원격으로 참여하는 Tippett과 함께 \"The Hybrid Trap: Why AI-Native Production Matters\"를 발표한다. 감독 특유의 수작업 비주얼 스타일이 살아 있는 AI-supported 영화 프로젝트의 비하인드 콘텐츠도 공유한다. Tippett은 약 30년에 걸쳐 Mad God을 완성했고, 2022년 극장에서 개봉했다."
         }
       ]
+    },
+    "movies/movies-cinema4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maxon이 새 Cinema 4D MCP 서버로 Cinema 4D에 Model Context Protocol(MCP) 지원을 기본 탑재했다. 이제 아티스트는 자연어로 지시해 Claude와 ChatGPT, Codex 같은 AI 어시스턴트를 Cinema 4D 워크플로 안에서 안전하게 부릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "“발상은 단순하다. 아티스트는 통제권을 쥔 채 귀찮다고 여기는 작업을 넘기면 된다.” Maxon CEO David McGavran의 말이다. 어시스턴트에게 불러온 오브젝트 수백 개를 일관된 계층 구조로 정리하거나 오브젝트와 머티리얼 변형을 만들게 하고, 멀티패스(multi-pass) 렌더 준비도 시키면 된다. 기본적인 3D 카메라 트래킹, UV 매핑, 리깅, 애니메이션 작업도 맡길 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "모든 동작은 아티스트 자신의 장비와 씬 안에서 Cinema 4D 자체 API를 거쳐 돌아간다. 결과물은 네이티브 씬 데이터 그대로 남는다. 변경 묶음은 실행 취소 기록에 하나하나 나뉘어 보이고, 명령은 로컬 감사 로그에 쌓인다. 서버는 액세스 토큰으로 보호된다. 어시스턴트에게 허용할 도구 그룹은 아티스트가 고르고, Python 실행도 제어할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "MCP는 기본적으로 꺼져 있고, Windows와 macOS의 Cinema 4D 2026.4 이상에서 별도 설치 없이 쓸 수 있다."
+        }
+      ]
+    },
+    "movies/movies-dfx-techshow-ai-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+          "cap": "DFX 테크쇼 발표를 진행중인 홍정호 VFX 슈퍼바이저."
+        },
+        {
+          "t": "p",
+          "x": "DFX 테크쇼는 대전특수영상영화제(DFX)의 대표 프로그램으로, 특수영상 업계 현업 전문가들이 산업·기술 동향과 제작 비화를 발표하는 자리다. 9월 18일 ‘현실에 없는 것을, 진짜처럼-UNREAL’ 세션에는 장성호 모팩 스튜디오 감독, 이재원 드림웍스 모델링 슈퍼바이저, 홍정호 덱스터스튜디오 VFX 슈퍼바이저가 연사로 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "장성호 감독은 업계에 ‘칩 밸리’라는 말이 나타나고 있다며 “영상 콘텐츠 제작에 AI를 적극적으로 쓰고 AI가 많은 것을 스스로 해결하는 시대가 바로 코앞”이지만 결국 창작자의 의도가 얼마나 잘 구현됐는지가 관건이라고 말했다. 홍정호 슈퍼바이저는 <군체> 작업을 복기하며 최근엔 AI로 최종 결과물에 가까운 품질의 프리비즈를 만드는 추세라고 설명했다. 9월 19일 ‘REAL’ 세션에서는 미술·무술·특수분장 감독들이 물리적 작업과 최근 프로덕션의 결합을 강연했다."
+        },
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+        },
+        {
+          "t": "p",
+          "x": "9월 18일에는 대전시 주최 AI 영상 공모전 ‘상상을 실현하는 아이 AI vol.2’ 시상식도 열렸다. 공모작은 504편으로 지난해보다 139% 늘었고, 19편의 수상작에 총상금 4800만원이 돌아갔다. 심사위원장 손승현 웨스트월드 대표는 올해는 AI라는 도구로 얼마나 완성도 있고 깊이 있는 이야기를 만들었는지에 초점을 뒀다고 밝혔다."
+        }
+      ]
+    },
+    "movies/movies-messiah-bethlehem-restoration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1994년 공연 Messiah in Bethlehem의 유일하게 남은 VHS 테이프가 극장 상영용으로 복원됐다. 이 공연은 그리스도가 태어난 교회에서 찍은 유일한 영상 기록이다. 이스라엘인과 팔레스타인인이 공동 제작했고 기독교인·무슬림·유대인 관객이 함께했다."
+        },
+        {
+          "t": "p",
+          "x": "작업은 할리우드의 DigitalFilm Tree(DFT)가 맡았다. 원본 카세트를 타임베이스 보정으로 디지털화한 뒤, CTO 겸 시니어 컬러리스트 Thomas Galyon이 디지털 복원과 합성, 색 보정을 이끌었다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+          "cap": "복원 작업 중인 Thomas Galyon."
+        },
+        {
+          "t": "p",
+          "x": "이어 AI-based 도구가 노이즈, 흐림, 인터레이스, 화면 흔들림을 다뤘다. 480i를 1080p 또는 4K 수준으로 끌어올리는 초해상도, AI-assisted 디인터레이싱, 실제 디테일과 아날로그 노이즈를 구분하는 노이즈 제거, 인접 프레임으로 화면을 안정시키는 transformer 기반 모델을 썼다. 색은 DaVinci Resolve에서, 합성은 Nuke에서 마무리했고, 오디오는 히스·험 노이즈와 왜곡을 손봤다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Galyon은 “AI가 최종 결과물 Lost Treasure: Messiah in Bethlehem을 만든 것이 아니라 드러낸 것”이라고 썼다. 그에게 복원은 “발명이 아니라 되찾는 작업”이었다."
+        }
+      ]
+    },
+    "movies/movies-serhant-heygen-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix ‘Owning Manhattan’의 스타 부동산 중개인 Ryan Serhant는 자신의 회사가 한 달에 소셜 게시물 약 2,200건을 만들고, 사내(in-house) 제작 스튜디오 인원이 100명 남짓이라고 말한다. 그런 그가 이번엔 HeyGen과 손잡고 자기 모습을 본뜬 AI 아바타가 이끄는 소셜 미디어 계정을 만들었다. 아바타는 Instagram, TikTok, X에 @HeySerhant로 등장해 수십 년 부동산 경력에서 얻은 교훈을 전한다."
+        },
+        {
+          "t": "p",
+          "x": "“수년간 쌓은 교훈이 있지만 그걸 콘텐츠로 만들 시간이 늘 있는 건 아니다.” 그가 Variety에 한 말이다. “얼굴을 중심으로 브랜드를 세웠다면, 목소리를 중심으로 브랜드를 세웠다면, 그걸 어떻게 확장할 수 있을까?”"
+        },
+        {
+          "t": "p",
+          "x": "계정은 최소 12개월 동안 하루 한 편 이상 영상을 올리고, 영상마다 Serhant와 그의 팀이 손을 보탠다. “CEO의 하루” 같은 그의 개인 콘텐츠를 대체하지는 않는다. 이번 계약은 Fountain 0와 손잡은 Sunny Hostin처럼 자기 초상을 AI 기업에 라이선스한 다른 인물들의 뒤를 잇는다."
+        }
+      ]
+    },
+    "movies/movies-dittodub-native6-dubbing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DittoDub가 새 AI 더빙 모델 Native 6를 내놨다. 126개 방언 옵션을 포함해 지원 언어는 이제 109개다."
+        },
+        {
+          "t": "p",
+          "x": "Native 6는 플랫폼에 올라오는 영상의 새 기본 더빙 모델이다. 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계했다."
+        },
+        {
+          "t": "p",
+          "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
+        },
+        {
+          "t": "p",
+          "x": "Native 6는 회사의 기존 영상 현지화 워크플로 위에서 돌아간다. 팀은 녹화한 영상을 올리고 대상 언어를 고른 다음, 공유하기 전에 번역 문구와 음성을 검토하고 고친다."
+        },
+        {
+          "t": "video",
+          "yt": "ZOqyQrAyjRw"
+        },
+        {
+          "t": "p",
+          "x": "여러 화자도 지원하고, 더빙 오디오와 자막, 번역된 영상 제목·설명까지 함께 준비해 준다. YouTube Sync 확장 기능을 쓰면 이 자산이 YouTube Studio로 바로 넘어간다."
+        },
+        {
+          "t": "p",
+          "x": "Native 6는 지금 DittoDub 월간 구독 요금제에서 쓸 수 있다. 가격은 월 약 $50부터다."
+        }
+      ]
     }
   }
 }

@@ -6563,6 +6563,144 @@
           "x": "On October 15, Mundell and CTO Remko Noteboom, with Tippett joining remotely, present \"The Hybrid Trap: Why AI-Native Production Matters,\" sharing behind-the-scenes content from AI-supported film projects that demonstrate the director's handmade visual style. Tippett spent some 30 years making Mad God, released in theaters in 2022."
         }
       ]
+    },
+    "movies/movies-cinema4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maxon has added built-in Model Context Protocol (MCP) support for Cinema 4D through the new Cinema 4D MCP server, letting artists use natural language instructions to securely direct Claude and ChatGPT or Codex AI assistants within Cinema 4D workflows."
+        },
+        {
+          "t": "p",
+          "x": "“The idea is simple: Artists retain control while handing off any tasks they consider a chore,” says Maxon CEO David McGavran. Artists can use the assistants to organize hundreds of imported objects into a consistent hierarchy, create object and material variations, prepare multi-pass renders, and handle basic 3D camera tracking, UV mapping, rigging and animating."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Every action runs through Cinema 4D’s own API, in the artist’s own scene, on their own machine. Results remain native scene data, each batch of changes is broken down in the undo history, and commands are written to a local audit log. The server is protected by an access token, artists choose which tool groups the assistant may use, and Python execution can be controlled."
+        },
+        {
+          "t": "p",
+          "x": "MCP is switched off by default and is available in Cinema 4D 2026.4 or later on Windows and macOS, with no additional installs."
+        }
+      ]
+    },
+    "movies/movies-dfx-techshow-ai-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+          "cap": "VFX supervisor Hong Jeong-ho presenting at the DFX Tech Show."
+        },
+        {
+          "t": "p",
+          "x": "The DFX Tech Show is the flagship program of the Daejeon Special Effects Film Festival (DFX), where working professionals in the special-effects industry present industry and technology trends and behind-the-scenes production stories. At the September 18 session ‘What does not exist in reality, as if real-UNREAL’, the speakers were Jang Seong-ho, director at MOFAC Studio; Lee Jae-won, modeling supervisor at DreamWorks; and Hong Jeong-ho, VFX supervisor at Dexter Studios."
+        },
+        {
+          "t": "p",
+          "x": "Director Jang said the term ‘chip valley’ is emerging in the industry and that “an era in which AI is actively used in video content production and AI solves many things on its own is just around the corner,” but that what ultimately matters is how well the creator's intent is realized. Supervisor Hong looked back on his work on <Gunche>, explaining that the recent trend is to use AI to make previs close in quality to the final output. At the September 19 ‘REAL’ session, art, martial arts and special makeup directors spoke about combining physical work with recent production."
+        },
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+        },
+        {
+          "t": "p",
+          "x": "On September 18, Daejeon City also held the awards ceremony for its AI video contest ‘Ai AI That Realizes Imagination vol.2’. Entries reached 504, up 139% from last year, and 19 winning works shared total prize money of 4800만원. Jury chair Son Seung-hyun, head of Westworld, said this year's judging focused on how complete and deep a story entrants built with AI as a tool."
+        }
+      ]
+    },
+    "movies/movies-messiah-bethlehem-restoration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The only surviving VHS tape of Messiah in Bethlehem, a 1994 concert performance, has been restored for theatrical projection. The only visual media ever shot in the church where Christ was born, the concert was a co-production of Israelis and Palestinians, with an audience of Christians, Muslims and Jews."
+        },
+        {
+          "t": "p",
+          "x": "The work was done by DigitalFilm Tree (DFT) in Hollywood. Its CTO and senior colorist Thomas Galyon led the digital restoration, compositing and color, after the original cassette was digitized with time-based correction."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+          "cap": "Thomas Galyon at work on the restoration."
+        },
+        {
+          "t": "p",
+          "x": "AI-based tools then tackled noise, blur, interlacing and instability: super-resolution from 480i toward 1080p or 4K, AI-assisted deinterlacing, noise reduction that separates real detail from analog noise, and transformer-based models that use neighboring frames for stabilization. Color was finished in DaVinci Resolve and compositing in Nuke, and the audio was repaired for hiss, hum and distortion."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "“AI did not create the final product, Lost Treasure: Messiah in Bethlehem; it revealed it,” Galyon writes. The restoration was “an act of recovery, not invention.”"
+        }
+      ]
+    },
+    "movies/movies-serhant-heygen-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Ryan Serhant, the star realtor of Netflix’s “Owning Manhattan,” says his company produces about 2,200 social posts a month, with an in-house production studio of roughly 100 people. Now he has partnered with HeyGen to build a social media presence featuring an AI avatar modeled after his likeness, appearing on Instagram, TikTok and X as @HeySerhant to share lessons from decades in real estate."
+        },
+        {
+          "t": "p",
+          "x": "“I’ve accumulated years of lessons that I don’t always have time to turn into content,” he tells Variety. “If you have a brand built around a face, if you have a brand built around a voice, how do you scale that?”"
+        },
+        {
+          "t": "p",
+          "x": "The account will produce at least one video a day for at least 12 months, with Serhant and his team working on each one. It won’t replace his personal content, such as “day in the life of a CEO” videos. The deal follows other figures licensing their likeness to AI companies, including Sunny Hostin with Fountain 0."
+        }
+      ]
+    },
+    "movies/movies-dittodub-native6-dubbing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DittoDub launched its new Native 6 AI dubbing model, which now supports 109 languages, including 126 dialect options."
+        },
+        {
+          "t": "p",
+          "x": "Launched as the new default dubbing model for videos uploaded on its platform, Native 6 is designed to be an easy, effective way for creators and video teams to carry a speaker’s voice, energy, and emotional delivery into a translated video."
+        },
+        {
+          "t": "p",
+          "x": "“Viewers connect with a creator’s personality: how they tell a story or land a joke. When a video moves into another language, that personality should come with it. That is the standard we are building Native 6 around.” - Nate Stone, CEO and co-founder of DittoDub."
+        },
+        {
+          "t": "p",
+          "x": "It works with the company’s existing video localization workflow: teams upload a recorded video, select their target languages, then review and edit the translated wording and vocals before sharing."
+        },
+        {
+          "t": "video",
+          "yt": "ZOqyQrAyjRw"
+        },
+        {
+          "t": "p",
+          "x": "The platform also supports multiple speakers and prepares dubbed audio, subtitles, and translated video titles and descriptions. A YouTube Sync extension transfers these assets directly into YouTube Studio."
+        },
+        {
+          "t": "p",
+          "x": "Native 6 is available now on DittoDub’s monthly subscription plans, starting at around $50 a month."
+        }
+      ]
     }
   }
 }

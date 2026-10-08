@@ -6161,6 +6161,144 @@
           "x": "10月15日、MundellとCTOのRemko Noteboomは、リモートで参加するTippettとともに「The Hybrid Trap: Why AI-Native Production Matters」と題して登壇し、監督の手作りの映像スタイルを示すAI-supportedの映画プロジェクトの舞台裏を紹介する。TippettはMad Godの制作に約30年を費やし、同作は2022年に劇場公開された。"
         }
       ]
+    },
+    "movies/movies-cinema4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maxonは新しいCinema 4D MCPサーバーを通じて、Cinema 4DにModel Context Protocol(MCP)のサポートを標準搭載した。アーティストは自然言語の指示で、ClaudeやChatGPT、CodexといったAIアシスタントをCinema 4Dのワークフロー内で安全に操れる。"
+        },
+        {
+          "t": "p",
+          "x": "「考え方はシンプルだ。アーティストは主導権を保ったまま、面倒だと感じる作業を任せればいい」とMaxonのCEO、David McGavranは言う。アシスタントには、読み込んだ数百のオブジェクトを一貫した階層に整理する、オブジェクトやマテリアルのバリエーションを作る、マルチパス(multi-pass)レンダーを準備する、基本的な3Dカメラトラッキング、UVマッピング、リギング、アニメーションをこなす、といった作業を任せられる。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "すべての操作は、アーティスト自身のマシン上、自身のシーン内で、Cinema 4D独自のAPIを通じて実行される。結果はネイティブのシーンデータのまま残り、変更のまとまりごとに取り消し履歴に分けて記録され、コマンドはローカルの監査ログに書き込まれる。サーバーはアクセストークンで保護され、アシスタントが使えるツールグループはアーティストが選び、Pythonの実行も制御できる。"
+        },
+        {
+          "t": "p",
+          "x": "MCPは初期状態でオフになっており、WindowsとmacOSのCinema 4D 2026.4以降で、追加インストールなしに使える。"
+        }
+      ]
+    },
+    "movies/movies-dfx-techshow-ai-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+          "cap": "DFXテックショーで発表するホン・ジョンホVFXスーパーバイザー。"
+        },
+        {
+          "t": "p",
+          "x": "DFXテックショーは大田特殊映像映画祭(DFX)の看板プログラムで、特殊映像業界の現役専門家が産業・技術の動向や制作の裏話を発表する場だ。9月18日の「現実にないものを、本物のように-UNREAL」セッションには、MOFAC Studioのチャン・ソンホ監督、DreamWorksのイ・ジェウォン・モデリングスーパーバイザー、Dexter Studiosのホン・ジョンホVFXスーパーバイザーが登壇した。"
+        },
+        {
+          "t": "p",
+          "x": "チャン・ソンホ監督は、業界に「チップバレー」という言葉が現れていると述べ、「映像コンテンツ制作にAIを積極的に使い、AIが多くのことを自ら解決する時代はすぐそこ」だが、結局は創作者の意図がどれだけうまく実現されたかが鍵だと語った。ホン・ジョンホ・スーパーバイザーは『群体』の作業を振り返り、最近はAIで最終成果物に近い品質のプリビズを作るのが流れだと説明した。9月19日の「REAL」セッションでは、美術・武術・特殊メイクの監督たちが、物理的な作業と最近のプロダクションの組み合わせについて講演した。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+        },
+        {
+          "t": "p",
+          "x": "9月18日には、大田市主催のAI映像公募展「想像を実現するアイ AI vol.2」の授賞式も開かれた。応募作は504本で前年より139%増え、19本の受賞作に賞金総額4800만원が贈られた。審査委員長を務めたWestworld代表のソン・スンヒョンは、今年はAIという道具でどれだけ完成度が高く深みのある物語を作ったかに焦点を当てたと明かした。"
+        }
+      ]
+    },
+    "movies/movies-messiah-bethlehem-restoration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1994年の公演『Messiah in Bethlehem』の唯一現存するVHSテープが、劇場上映用に復元された。キリストが生まれた教会で撮影された唯一の映像記録であるこの公演は、イスラエル人とパレスチナ人の共同制作で、キリスト教徒、イスラム教徒、ユダヤ教徒が客席に集った。"
+        },
+        {
+          "t": "p",
+          "x": "作業はハリウッドのDigitalFilm Tree(DFT)が担当した。元のカセットをタイムベース補正付きでデジタル化した後、同社CTOでシニアカラリストのThomas Galyonがデジタル復元、合成、カラーを率いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+          "cap": "復元作業に取り組むThomas Galyon。"
+        },
+        {
+          "t": "p",
+          "x": "続いてAI-basedのツールが、ノイズ、ぼやけ、インターレース、映像の不安定さに対処した。用いたのは超解像（480iから1080pまたは4K）、AI-assistedのデインターレース、実際のディテールとアナログノイズを分離するノイズ除去、隣接フレームを使って安定化するtransformerベースのモデルだ。カラーはDaVinci Resolve、合成はNukeで仕上げ、音声はヒス、ハム、歪みを修復した。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "「AIが最終作品『Lost Treasure: Messiah in Bethlehem』を生み出したのではない。それを明らかにしたのだ」とGalyonは記す。復元は「発明ではなく回復の行為」だったという。"
+        }
+      ]
+    },
+    "movies/movies-serhant-heygen-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix「Owning Manhattan」のスター不動産業者Ryan Serhantによると、彼の会社は月に約2,200件のソーシャル投稿を制作し、社内(in-house)の制作スタジオには約100人が在籍する。今回、彼はHeyGenと組み、自身の姿をもとにしたAIアバターが登場するソーシャルメディアアカウントを立ち上げた。アバターはInstagram、TikTok、Xに@HeySerhantとして登場し、数十年に及ぶ不動産業の教訓を伝える。"
+        },
+        {
+          "t": "p",
+          "x": "「何年分もの教訓がたまっているが、それをコンテンツにする時間がいつもあるわけではない」と彼はVarietyに語る。「顔を軸にしたブランドや、声を軸にしたブランドがあるとして、それをどう拡大するのか」"
+        },
+        {
+          "t": "p",
+          "x": "このアカウントは少なくとも12カ月間、一日に少なくとも一本の動画を公開し、Serhantと彼のチームが一本ごとに関わる。「CEOの一日」のような彼の個人コンテンツに取って代わるものではない。今回の契約は、Fountain 0と組んだSunny Hostinなど、自らの肖像をAI企業にライセンスしたほかの人物に続くものだ。"
+        }
+      ]
+    },
+    "movies/movies-dittodub-native6-dubbing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DittoDubは新しいAI吹替モデルNative 6を公開した。126の方言オプションを含む109言語に対応する。"
+        },
+        {
+          "t": "p",
+          "x": "Native 6は同社プラットフォームにアップロードされた動画の新たな標準吹替モデルであり、クリエイターや動画チームが話者の声、熱量、感情表現を翻訳後の動画へ手軽かつ効果的に引き継げるよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "「視聴者はクリエイターの個性、つまり物語の語り方や笑いの取り方に惹かれる。動画が別の言語に移るとき、その個性も一緒に移るべきだ。それがNative 6を形づくる基準だ」 - Nate Stone（DittoDubのCEO兼共同創業者）"
+        },
+        {
+          "t": "p",
+          "x": "Native 6は同社の既存の動画ローカライズのワークフローと連動する。チームは収録済みの動画をアップロードし、対象言語を選び、共有前に翻訳された文言と音声を確認・編集する。"
+        },
+        {
+          "t": "video",
+          "yt": "ZOqyQrAyjRw"
+        },
+        {
+          "t": "p",
+          "x": "プラットフォームは複数話者にも対応し、吹替音声、字幕、翻訳済みの動画タイトルと説明文を用意する。拡張機能YouTube Syncはこれらの素材をYouTube Studioへ直接送る。"
+        },
+        {
+          "t": "p",
+          "x": "Native 6はDittoDubの月額サブスクリプションプランで現在利用でき、料金は月約$50からだ。"
+        }
+      ]
     }
   }
 }

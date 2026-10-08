@@ -1,96 +1,95 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "marketing",
   "dedup": {
     "checks": {
-      "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/": {
+      "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/": {
+        "verdict": "new",
+        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
+        "new_action": ""
+      },
+      "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/": {
+        "verdict": "new",
+        "nearest": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "new_action": ""
+      },
+      "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/": {
+      "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html": {
+      "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://openai.com/index/radisson": {
-        "verdict": "new",
-        "nearest": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "new_action": ""
-      },
-      "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/": {
-        "verdict": "new",
-        "nearest": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+        "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
         "new_action": ""
       }
     },
-    "note": "Checked against history_digest (5 marketing cards from 2026-10-07; no earlier marketing history). DROPPED AS DUPLICATE: Retail Dive 'TikTok to add AI-powered discovery and one-click checkout' (history_match related, 0.228) - the published 2026-10-07 TikTok Newsroom card already covered the same Advertising Week package, explicitly including the conversational Shopping Assistant and Buy Direct agentic checkout; Retail Dive's piece is a retelling of that announcement with no new release, so it is the same story. Radisson in ChatGPT and TrafficGuard's invalid-click audit touch ChatGPT but are distinct events from the published OpenAI ad-format launch (a hotel brand's booking app in ChatGPT; a third-party fraud measurement of ChatGPT ads), so both are new; nearest named. DROPPED ON SCOPE (_note): AdExchanger 'Who eats the gap' (Data-Driven Thinking opinion column, no event); AdExchanger AI-built MMM (interview, no release or number); Digiday S4/Monks agents running unsupervised (agency internal operations, not ad buying/selling); Marketing Dive Liquid Death AI-native org (conference talk, no concrete product or number); Modern Retail AI pricing scrutiny (concern piece, AI peripheral, no ruling); TechCrunch Meta AI detection of ads leading to CSAM (content-moderation/ad-integrity infrastructure, excluded category - strongest scope drop); PPC Land Invoca AI agents for LSA calls (vendor packaging piece, and PPC Land already at the 2-per-outlet cap). DIVERSITY: 4 outlets (PPC Land x2, AdExchanger, Search Engine Roundtable, OpenAI); axes = agentic ad creation volume / agentic CTV buying / agentic commerce checkout protocol / brand commerce inside a chat assistant / ad-fraud measurement in AI ad surfaces. No duplicate URLs. Radisson og_image is null (openai.com emits no OG tags) - media pass needs a fallback."
+    "note": "SWAP 2026-10-09: removed https://ppc.land/amazon-blocks-metas-muse-ai-agent-from-shopping-on-its-site/ after fact-check: the PPC Land piece (10-08) recaps an Amazon/Meta Muse block that GeekWire reported 2026-09-20, about 19 days old and outside the 72h marketing window. REPLACEMENT: Retail Dive 'AI is reshaping Walmart and Sparky is leading the charge' (2026-10-08T15:28Z, inside the window). No history_match tag. Checked by content against the history_digest: the closest is the 10-07 Retail Dive Gap shopping-agents card, which is a different retailer and a different event (Gap launching agents vs. Walmart's U.S. CEO giving new statements on Sparky-driven savings and CX reinvestment). It is not the Amazon/Muse story either. AI is what makes the story happen (Walmart's Sparky AI shopping agent). It also adds a 5th distinct outlet. ALTERNATES REJECTED: Digiday agencies/rogue-agent fears (reaction/analysis on the agentic-buying thread, no new release, close to the 10-08 AdExchanger agentic CTV card); PPC Land Google Ads auto-apply coupons (automated promotions sourcing where AI is not clearly what drives the story; published 10-06, near the window edge). Earlier drops (unchanged): AdExchanger agentic CTV explainer (same running story as 10-08 AdExchanger card); Digiday OpenAI 'good of humanity' (commentary on the already-published ChatGPT ads business); SEJ AI video ads (sponsored); AdExchanger 'Who eats the gap' (opinion); AdExchanger AI-built MMM (interview); Marketing Dive Liquid Death (conference talk, dropped 10-08); Adweek AWNY/Jupiter Fest recap (roundup); SEJ regulated paid media (evergreen how-to); Modern Retail+ research (generic survey). DIVERSITY: 5 outlets (Marketing Dive, PPC Land, Search Engine Roundtable, Digiday, Retail Dive), none over 1 card; no duplicate URLs."
   },
   "items": [
     {
-      "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
-      "source": "PPC Land",
+      "url": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
+      "source": "Marketing Dive",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "A hard number on agentic ad ops: 17.5% of 36,289 Meta ad batches through Ads Uploader came from AI agents - roughly one in six uploads is no longer typed by a person.",
-      "published_iso": "2026-10-07T18:54:51.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
-      "excerpt": "By arithmetic on vendor data, about 6,350 agent batches reached Meta in 30 days, about 212 a day. Will agents built by Amazon, Meta and X take over that share?"
+      "rationale": "New Meta ad-platform release: Meta is testing AI campaign-import and creative-insight features plus better conversational guidance in its AI tools - directly changes how advertisers build and iterate creative on Meta.",
+      "published_iso": "2026-10-08T16:20:00Z",
+      "og_image": "https://imgproxy.divecdn.com/Rp0xe1Ahhkz7jdldpGbwKnFSK0quBEraTUPQWPDsKbg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
+      "excerpt": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements."
     },
     {
-      "url": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
-      "source": "AdExchanger",
+      "url": "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Agentic media buying reaches streaming TV: custom buying agents combine NBCU/FreeWheel identity data with Dentsu and Newton audience intelligence to recommend NBCU inventory.",
-      "published_iso": "2026-10-07T04:03:03+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/02/bot-transparency-singularity-comic-daily-newsletter-.jpg",
-      "excerpt": "Custom buying agents pair identity data from NBCU and FreeWheel with audience intelligence from Dentsu and Newton to recommend NBCU ad inventory — agentic media buying comes to streaming TV."
+      "rationale": "First disclosed brand performance number for ChatGPT ads: DoubleVerify says Weight Watchers' CPA ran 15.3% below benchmark, and Rockerbox now treats ChatGPT as an attribution touchpoint.",
+      "published_iso": "2026-10-07T17:29:42.000Z",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg",
+      "excerpt": "Rockerbox users can now treat ChatGPT as a touchpoint, and a suitability pilot with OpenAI is in development. Will early results arrive with disclosed methods?"
     },
     {
-      "url": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
       "source": "Search Engine Roundtable",
-      "tool": "Marketing",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Actionable for merchants tomorrow: Google Merchant Center rolls out a US hub to onboard to the Universal Commerce Protocol, the plumbing that lets AI agents check out on a seller's behalf.",
-      "published_iso": "2026-10-07T07:21:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-merchant-center-ucp-hub-otz4O9CR.jpg",
-      "excerpt": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account."
-    },
-    {
-      "url": "https://openai.com/index/radisson",
-      "source": "OpenAI",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "A brand moves its point of sale into the assistant: Radisson and Accenture ship a ChatGPT app that lets travelers find, compare and book hotels inside the conversation.",
-      "published_iso": "2026-10-07T07:00:00+00:00",
-      "og_image": null,
-      "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+      "rationale": "Actionable tomorrow: Google Ads adds AI Max reporting columns (brand inclusions, locations of interest, commission, optimized targeting), giving buyers visibility into what the AI expansion is doing.",
+      "published_iso": "2026-10-08T07:21:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg",
+      "excerpt": "Google Ads is adding new AI Max related columns to the Google Ads reporting console.  The columns include brand inclusions, locations of interest, commission and optimized targeting."
     },
     {
-      "url": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
-      "source": "PPC Land",
+      "url": "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/",
+      "source": "Digiday",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "First third-party fraud read on ChatGPT ads: TrafficGuard flags up to 34% invalid clicks for some advertisers, with four hosting/proxy networks driving 47% of flagged clicks - a measurement check every buyer of the new surface needs.",
-      "published_iso": "2026-10-05T19:37:20.000Z",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/trafficguard-chatgpt-ads-invalid-clicks-hollow-suits-skyscraper.jpg",
-      "excerpt": "Four hosting and proxy networks reached 25 of 47 advertisers and drove 47% of flagged clicks. Vendor-sourced figures leave open what advertisers were billed."
+      "rationale": "A concrete AI ad-creative case study: OK Future compressed Goodwipes' AI campaign work from weeks to days, showing both the cost upside and the human toll of high-speed AI production.",
+      "published_iso": "2026-10-08T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp",
+      "excerpt": "OK Future squeezed Goodwipes' AI project from weeks into days, proving the financial upside and psychological toll of high-speed AI workflows."
+    },
+    {
+      "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
+      "source": "Retail Dive",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Retail-side AI shift: Walmart U.S. CEO David Guggina says AI, led by the Sparky shopping agent, is cutting costs that Walmart reinvests in customer experience - a signal of where retail-media and shopper-marketing attention is moving.",
+      "published_iso": "2026-10-08T15:28:00Z",
+      "og_image": "https://imgproxy.divecdn.com/U9etOSrcDLS4VpVknurNxB0F-2iJdwYKPG6Kolz0EpI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp",
+      "excerpt": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
     }
   ],
   "alternates": [
-    "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-    "https://ppc.land/invoca-packages-ai-agents-as-google-bills-missed-lsa-calls-over-20-seconds/",
-    "https://www.marketingdive.com/news/how-liquid-death-is-building-an-ai-native-marketing-organization/832345/"
+    "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+    "https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/"
   ]
 }

@@ -5753,6 +5753,144 @@
           "x": "10月15日，Mundell与CTO Remko Noteboom将与远程连线的Tippett一起发表演讲“The Hybrid Trap: Why AI-Native Production Matters”，分享AI-supported电影项目的幕后内容，展示这位导演的手工视觉风格。Tippett花了约30年制作Mad God，该片于2022年在影院上映。"
         }
       ]
+    },
+    "movies/movies-cinema4d-mcp-server": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Maxon通过新的Cinema 4D MCP服务器，为Cinema 4D内置了Model Context Protocol（MCP）支持。艺术家可以用自然语言指令，在Cinema 4D工作流中安全地指挥Claude、ChatGPT或Codex等AI助手。"
+        },
+        {
+          "t": "p",
+          "x": "“思路很简单：艺术家保有控制权，同时把自认为繁琐的任务交出去。”Maxon CEO David McGavran说。艺术家可以让助手把导入的数百个对象整理成统一的层级，创建对象和材质变体，准备多通道（multi-pass）渲染，并处理基础的3D摄像机跟踪、UV贴图、绑定和动画。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "所有操作都通过Cinema 4D自身的API，在艺术家自己的场景、自己的机器上运行。结果保留为原生场景数据，每批更改都会在撤销历史中逐一列出，命令会写入本地审计日志。服务器由访问令牌保护，艺术家可以选择助手能使用哪些工具组，Python的执行也可以控制。"
+        },
+        {
+          "t": "p",
+          "x": "MCP默认关闭，适用于Windows和macOS上的Cinema 4D 2026.4及更高版本，无需额外安装。"
+        }
+      ]
+    },
+    "movies/movies-dfx-techshow-ai-contest": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+          "cap": "正在DFX技术秀上演讲的VFX总监Hong Jeong-ho。"
+        },
+        {
+          "t": "p",
+          "x": "DFX技术秀是大田特殊影像电影节（DFX）的招牌项目，由特殊影像行业的一线专家分享产业与技术趋势以及制作幕后故事。9月18日“现实中不存在的，做得像真的一样-UNREAL”环节，MOFAC Studio导演Jang Seong-ho、DreamWorks建模总监Lee Jae-won、Dexter Studios VFX总监Hong Jeong-ho担任主讲。"
+        },
+        {
+          "t": "p",
+          "x": "Jang Seong-ho导演表示，业界开始出现“chip valley”的说法，并称“在影像内容制作中积极使用AI、由AI自行解决许多问题的时代近在眼前”，但关键终究在于创作者的意图实现得如何。Hong Jeong-ho总监回顾了《群体》的制作，介绍说最近的趋势是用AI制作质量接近最终成片的预演。9月19日的“REAL”环节中，美术、武术与特效化妆导演们讲述了实体制作与近期制作方式的结合。"
+        },
+        {
+          "t": "img",
+          "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
+        },
+        {
+          "t": "p",
+          "x": "9月18日还举行了大田市主办的AI影像大赛“实现想象的Ai AI vol.2”颁奖典礼。参赛作品共504部，比去年增加139%，19部获奖作品共分得总奖金4800만원。评审委员长、Westworld代表Son Seung-hyun表示，今年的评审重点是参赛者借助AI这一工具，讲出了多完整、多有深度的故事。"
+        }
+      ]
+    },
+    "movies/movies-messiah-bethlehem-restoration": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+        },
+        {
+          "t": "p",
+          "x": "1994年音乐会演出《Messiah in Bethlehem》仅存的VHS录像带已修复至可供影院放映。这是在基督诞生的教堂内拍摄的唯一影像，音乐会由以色列人和巴勒斯坦人联合制作，观众包括基督徒、穆斯林和犹太人。"
+        },
+        {
+          "t": "p",
+          "x": "修复工作由好莱坞的DigitalFilm Tree（DFT）完成。原始录像带经时基校正数字化后，由该公司CTO兼高级调色师Thomas Galyon主导数字修复、合成与调色。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+          "cap": "Thomas Galyon正在进行修复工作。"
+        },
+        {
+          "t": "p",
+          "x": "随后，AI-based工具处理了噪点、模糊、隔行扫描和画面不稳等问题：超分辨率（从480i提升至1080p或4K）、AI-assisted去隔行、区分真实细节与模拟噪声的降噪，以及利用相邻帧实现稳定的transformer架构模型。调色在DaVinci Resolve中完成，合成在Nuke中完成，音频则修复了嘶声、嗡声和失真。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Galyon写道：“AI并没有创造最终作品《Lost Treasure: Messiah in Bethlehem》，而是让它显现出来。”这次修复是“一次找回，而非发明”。"
+        }
+      ]
+    },
+    "movies/movies-serhant-heygen-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "Netflix节目《Owning Manhattan》的明星房产经纪人Ryan Serhant表示，他的公司每月制作约2,200条社交媒体帖子，内部（in-house）制作工作室约有100人。如今他与HeyGen合作，打造以自身形象为原型的AI化身社交媒体账号，以@HeySerhant身份出现在Instagram、TikTok和X上，分享他数十年房地产生涯的经验。"
+        },
+        {
+          "t": "p",
+          "x": "“我积累了多年的经验，却不总有时间把它们做成内容。”他对Variety说，“如果一个品牌建立在一张脸上，建立在一种声音上，该如何扩大它的规模？”"
+        },
+        {
+          "t": "p",
+          "x": "该账号将在至少12个月内每天至少发布一条视频，每一条都由Serhant和团队参与制作。它不会取代他的个人内容，比如“CEO的一天”类视频。此前已有其他人物将肖像授权给AI公司，例如Sunny Hostin与Fountain 0的合作。"
+        }
+      ]
+    },
+    "movies/movies-dittodub-native6-dubbing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "DittoDub推出新的AI配音模型Native 6，现已支持109种语言，其中包括126个方言选项。"
+        },
+        {
+          "t": "p",
+          "x": "Native 6作为平台上传视频的新默认配音模型推出，旨在让创作者和视频团队以简单有效的方式，把说话者的声音、活力与情感表达带入翻译后的视频。"
+        },
+        {
+          "t": "p",
+          "x": "“观众与创作者的个性产生联结：他们怎样讲故事、怎样抖包袱。当视频转换成另一种语言时，这种个性也应随之而来。这正是我们打造Native 6所依据的标准。”——Nate Stone，DittoDub CEO兼联合创始人。"
+        },
+        {
+          "t": "p",
+          "x": "它与公司现有的视频本地化流程配合使用：团队上传录制好的视频，选择目标语言，然后在分享前审阅并修改翻译后的文字和配音。"
+        },
+        {
+          "t": "video",
+          "yt": "ZOqyQrAyjRw"
+        },
+        {
+          "t": "p",
+          "x": "平台还支持多名说话者，并会准备配音音频、字幕以及翻译后的视频标题和简介。YouTube Sync扩展可将这些素材直接传入YouTube Studio。"
+        },
+        {
+          "t": "p",
+          "x": "Native 6现已在DittoDub的月度订阅方案中提供，起价约为每月$50。"
+        }
+      ]
     }
   }
 }

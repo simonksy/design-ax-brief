@@ -1,393 +1,434 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-dittodub-native6-dubbing",
+      "id": "movies-houdini-ai-docuseries",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DittoDub, 109개\n언어 더빙 Native 6",
-      "body": "DittoDub Native 6가 원 화자의 연기를 109개 언어로 옮긴다.",
-      "mini_headline": "DittoDub, 109개 언어 더빙",
+      "headline": "AI로 되살린 후디니\n자기 삶을 직접 말하다",
+      "body": "Fox Nation이 AI-generated 이미지로 후디니 생애를 그린다.",
+      "mini_headline": "AI로 되살린 후디니",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/dittodub-native-6-ai-dubbing-model",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/tv/tv-news/fox-nation-houdini-docuseries-ai-imagery-1236725532/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "DittoDub가 새 AI 더빙 모델 Native 6를 내놨다. 126개 방언 옵션을 포함해 지원 언어는 이제 109개다."
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
           },
           {
             "t": "p",
-            "x": "Native 6는 플랫폼에 올라오는 영상의 새 기본 더빙 모델이다. 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계했다."
+            "x": "Fox Nation이 마술사 해리 후디니의 생애를 다룬 다큐시리즈를 공개한다. 영상은 전부 인공지능으로 만들었다."
           },
           {
             "t": "p",
-            "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
+            "x": "Houdini: Back From the Dead는 10월 14일 공개된다. 2026년 10월 31일 후디니 사망 100주기에 맞춘 3부작이다. 마술사로, 또 가짜 영매를 폭로한 사람으로 산 그의 삶을 담았다. 스트리밍 서비스는 이 작품이 “전적으로 AI-generated 이미지에 의존한” 첫 장편 제작물이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Native 6는 회사의 기존 영상 현지화 워크플로 위에서 돌아간다. 팀은 녹화한 영상을 올리고 대상 언어를 고른 다음, 공유하기 전에 번역 문구와 음성을 검토하고 고친다."
+            "x": "“Fox Nation은 새로운 기술로 역사상 가장 매혹적인 인물 가운데 한 명을 오늘의 관객 앞에 되살리며 창작의 새 지평을 열고 있다”고 Fox Nation 사장 로런 페터슨은 말했다."
+          },
+          {
+            "t": "p",
+            "x": "제작사 Red Rock Films는 AI-assisted 방식의 모션 캡처로 후디니와 아내 베스 등을 연기한 배우들의 외형을 바꿨다. 재연 장면을 비롯한 다른 영상도 AI-generated 결과물이다. 제작진은 아카이브 영상과 사진 약 400장의 라이선스를 확보해 원천 자료로 썼다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "대본은 실제 사람이 썼고, 역사적 주장은 “아카이브 조사와 전문가 검토”로 뒷받침했다. 시리즈 속 AI-generated 후디니는 인터뷰에 응하는 식으로 등장하고, 대사는 그의 편지와 일기 등에서 따왔다."
           },
           {
             "t": "video",
-            "yt": "ZOqyQrAyjRw"
+            "yt": "8Nsf3KcQIgg"
           },
           {
             "t": "p",
-            "x": "여러 화자도 지원하고, 더빙 오디오와 자막, 번역된 영상 제목·설명까지 함께 준비해 준다. YouTube Sync 확장 기능을 쓰면 이 자산이 YouTube Studio로 바로 넘어간다."
-          },
-          {
-            "t": "p",
-            "x": "Native 6는 지금 DittoDub 월간 구독 요금제에서 쓸 수 있다. 가격은 월 약 $50부터다."
+            "x": "Red Rock은 AI-assisted 모션 캡처 방식이 기존 모캡에 쓰이는 CGI보다 더 싸고 효율적이라고 설명한다."
           }
         ]
       },
+      "lead_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1",
       "text": {
         "en": {
-          "headline": "DittoDub Native 6 dubs\nin 109 languages",
-          "body": "DittoDub's Native 6 model lets creators recreate an original speaker's performance in 109 different languages.",
-          "mini_headline": "DittoDub dubs in 109 languages",
+          "headline": "Fox Nation uses AI to let\nHoudini tell his own story",
+          "body": "Fox Nation's 'Houdini: Back From the Dead' uses AI-generated imagery to have the magician tell his own life story.",
+          "mini_headline": "AI reanimates Houdini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDub launched its new Native 6 AI dubbing model, which now supports 109 languages, including 126 dialect options."
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Launched as the new default dubbing model for videos uploaded on its platform, Native 6 is designed to be an easy, effective way for creators and video teams to carry a speaker’s voice, energy, and emotional delivery into a translated video."
+                "x": "Fox Nation is set to premiere a docuseries about the life of illusionist Harry Houdini — with visuals generated solely using artificial intelligence."
               },
               {
                 "t": "p",
-                "x": "“Viewers connect with a creator’s personality: how they tell a story or land a joke. When a video moves into another language, that personality should come with it. That is the standard we are building Native 6 around.” - Nate Stone, CEO and co-founder of DittoDub."
+                "x": "Houdini: Back From the Dead is set to premiere Oct. 14. The three-part series, timed to the 100th anniversary of Houdini’s death on Oct. 31, 2026, will examine the life of the magician and debunker of phony spiritualists. The streamer says the show is its first long-form production “to rely entirely on AI-generated imagery.”"
               },
               {
                 "t": "p",
-                "x": "It works with the company’s existing video localization workflow: teams upload a recorded video, select their target languages, then review and edit the translated wording and vocals before sharing."
-              },
-              {
-                "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "x": "“Fox Nation is breaking new creative ground by using emerging technology to bring one of history’s most fascinating figures to life for a modern audience,” said Fox Nation president Lauren Petterson."
               },
               {
                 "t": "p",
-                "x": "The platform also supports multiple speakers and prepares dubbed audio, subtitles, and translated video titles and descriptions. A YouTube Sync extension transfers these assets directly into YouTube Studio."
+                "x": "Red Rock Films, which produced the series, used an AI-assisted form of motion capture to alter the appearance of human actors playing Houdini, his wife Bess and others. Re-enactments and other visuals are also AI-generated. The production says it licensed archival footage and some 400 photographs to serve as source material for the series."
               },
               {
                 "t": "p",
-                "x": "Native 6 is available now on DittoDub’s monthly subscription plans, starting at around $50 a month."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "DittoDub, 109개\n언어 더빙 Native 6",
-          "body": "DittoDub Native 6가 원 화자의 연기를 109개 언어로 옮긴다.",
-          "mini_headline": "DittoDub, 109개 언어 더빙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "DittoDub가 새 AI 더빙 모델 Native 6를 내놨다. 126개 방언 옵션을 포함해 지원 언어는 이제 109개다."
-              },
-              {
-                "t": "p",
-                "x": "Native 6는 플랫폼에 올라오는 영상의 새 기본 더빙 모델이다. 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계했다."
-              },
-              {
-                "t": "p",
-                "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
-              },
-              {
-                "t": "p",
-                "x": "Native 6는 회사의 기존 영상 현지화 워크플로 위에서 돌아간다. 팀은 녹화한 영상을 올리고 대상 언어를 고른 다음, 공유하기 전에 번역 문구와 음성을 검토하고 고친다."
+                "x": "The scripts were written by real people, with “archival research and expert review” backing up historical claims. The series uses the conceit of the AI-generated Houdini sitting for an interview, using words pulled from his correspondence, diaries and other sources."
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "여러 화자도 지원하고, 더빙 오디오와 자막, 번역된 영상 제목·설명까지 함께 준비해 준다. YouTube Sync 확장 기능을 쓰면 이 자산이 YouTube Studio로 바로 넘어간다."
-              },
-              {
-                "t": "p",
-                "x": "Native 6는 지금 DittoDub 월간 구독 요금제에서 쓸 수 있다. 가격은 월 약 $50부터다."
+                "x": "Red Rock says the AI-assisted motion capture process is less expensive and more efficient than traditional CGI used in mo-cap."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DittoDubの吹替\nNative 6は109言語",
-          "body": "DittoDubのNative 6でクリエイターは元の話者の演技を109言語で再現できる。",
-          "mini_headline": "DittoDub、109言語で吹替",
+          "headline": "Fox Nation、AIで\nHoudiniが自らを語る",
+          "body": "Fox Nationの新作は、AI生成映像でHoudini自身に生涯を語らせる。",
+          "mini_headline": "AIで甦るHoudini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDubは新しいAI吹替モデルNative 6を公開した。126の方言オプションを含む109言語に対応する。"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6は同社プラットフォームにアップロードされた動画の新たな標準吹替モデルであり、クリエイターや動画チームが話者の声、熱量、感情表現を翻訳後の動画へ手軽かつ効果的に引き継げるよう設計されている。"
+                "x": "Fox Nationが奇術師Harry Houdiniの生涯を描くドキュシリーズを配信する。映像はすべて人工知能(AI)だけで生成したものだ。"
               },
               {
                 "t": "p",
-                "x": "「視聴者はクリエイターの個性、つまり物語の語り方や笑いの取り方に惹かれる。動画が別の言語に移るとき、その個性も一緒に移るべきだ。それがNative 6を形づくる基準だ」 - Nate Stone（DittoDubのCEO兼共同創業者）"
+                "x": "Houdini: Back From the Deadは10月14日に配信を始める。三部構成(three-part)のこのシリーズは、2026年10月31日のHoudini没後100年に合わせ、奇術師であり偽の霊媒師を暴いた人物でもある彼の生涯をたどる。配信元によると、本作は「全面的にAI-generatedの映像に頼った」初の長編(long-form)作品だという。"
               },
               {
                 "t": "p",
-                "x": "Native 6は同社の既存の動画ローカライズのワークフローと連動する。チームは収録済みの動画をアップロードし、対象言語を選び、共有前に翻訳された文言と音声を確認・編集する。"
+                "x": "「Fox Nationは新しい技術を使い、歴史上もっとも魅力的な人物の一人を現代の観客のためによみがえらせ、創作の新境地を切り開いている」とFox Nation社長のLauren Pettersonは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "制作を担ったRed Rock Filmsは、AI-assistedのモーションキャプチャーを使い、Houdiniや妻のBessなどを演じる俳優の外見を変えた。再現シーン(Re-enactments)などの映像もAI-generatedだ。制作側はアーカイブ映像と約400枚の写真をライセンスし、シリーズの素材にしたという。"
+              },
+              {
+                "t": "p",
+                "x": "脚本は実在の人間が書き、歴史的な記述は「アーカイブ調査と専門家のレビュー」で裏付けた。シリーズはAI-generatedのHoudiniがインタビューに応じるという設定を取り、その言葉は書簡や日記などの資料から引いている。"
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "プラットフォームは複数話者にも対応し、吹替音声、字幕、翻訳済みの動画タイトルと説明文を用意する。拡張機能YouTube Syncはこれらの素材をYouTube Studioへ直接送る。"
-              },
-              {
-                "t": "p",
-                "x": "Native 6はDittoDubの月額サブスクリプションプランで現在利用でき、料金は月約$50からだ。"
+                "x": "Red Rockによれば、AI-assistedのモーションキャプチャー工程は、モーキャプ(mo-cap)で使われてきた従来のCGIより安価で効率も高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DittoDub配音模型\nNative 6达109语种",
-          "body": "DittoDub的Native 6模型让创作者以109种语言重现原说话者的表演。",
-          "mini_headline": "DittoDub支持109种语言配音",
+          "headline": "Fox Nation用AI\n让Houdini自述生平",
+          "body": "Fox Nation新剧用AI生成影像，让Houdini亲口讲述自己的一生。",
+          "mini_headline": "AI让Houdini重现",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDub推出新的AI配音模型Native 6，现已支持109种语言，其中包括126个方言选项。"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6作为平台上传视频的新默认配音模型推出，旨在让创作者和视频团队以简单有效的方式，把说话者的声音、活力与情感表达带入翻译后的视频。"
+                "x": "Fox Nation即将推出一部关于魔术师Harry Houdini生平的纪录剧集，画面全部由人工智能（AI）生成。"
               },
               {
                 "t": "p",
-                "x": "“观众与创作者的个性产生联结：他们怎样讲故事、怎样抖包袱。当视频转换成另一种语言时，这种个性也应随之而来。这正是我们打造Native 6所依据的标准。”——Nate Stone，DittoDub CEO兼联合创始人。"
+                "x": "Houdini: Back From the Dead将于10月14日首播。这部三集（three-part）剧集配合2026年10月31日Houdini逝世100周年推出，回顾这位魔术师兼伪灵媒揭穿者的一生。该流媒体平台称，这是其首部“完全依赖AI-generated影像”的长篇（long-form）作品。"
               },
               {
                 "t": "p",
-                "x": "它与公司现有的视频本地化流程配合使用：团队上传录制好的视频，选择目标语言，然后在分享前审阅并修改翻译后的文字和配音。"
+                "x": "“Fox Nation正借助新兴技术，为现代观众重现历史上最引人入胜的人物之一，开辟新的创作领域。”Fox Nation总裁Lauren Petterson表示。"
+              },
+              {
+                "t": "p",
+                "x": "制作该剧的Red Rock Films采用AI-assisted动作捕捉，改变了饰演Houdini、其妻Bess等角色的真人演员的外貌。情景重现（Re-enactments）等画面同样为AI-generated。制作方称，已获得档案影像和约400张照片的授权，作为该剧的素材来源。"
+              },
+              {
+                "t": "p",
+                "x": "剧本由真人撰写，历史陈述有“档案研究与专家审阅”作支撑。剧集设定AI-generated的Houdini接受采访，所用话语取自他的书信、日记等资料。"
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "平台还支持多名说话者，并会准备配音音频、字幕以及翻译后的视频标题和简介。YouTube Sync扩展可将这些素材直接传入YouTube Studio。"
-              },
-              {
-                "t": "p",
-                "x": "Native 6现已在DittoDub的月度订阅方案中提供，起价约为每月$50。"
+                "x": "Red Rock表示，AI-assisted动作捕捉流程比动捕（mo-cap）中使用的传统CGI成本更低、效率更高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DittoDub Native 6 dobla\nen 109 idiomas",
-          "body": "El modelo Native 6 de DittoDub permite a los creadores recrear la actuación del hablante original en 109 idiomas.",
-          "mini_headline": "DittoDub dobla en 109 idiomas",
+          "headline": "Fox Nation usa AI para que\nHoudini narre su propia historia",
+          "body": "'Houdini: Back From the Dead', de Fox Nation, usa imágenes AI-generated para que el mago narre su propia vida.",
+          "mini_headline": "La AI revive a Houdini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDub lanzó su nuevo modelo de doblaje AI, Native 6, que ya admite 109 idiomas, incluidas 126 opciones de dialecto."
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Lanzado como el nuevo modelo de doblaje predeterminado para los videos subidos a su plataforma, Native 6 está pensado como una forma sencilla y eficaz para que creadores y equipos de video trasladen la voz, la energía y la carga emocional de un hablante a un video traducido."
+                "x": "Fox Nation estrenará una serie documental sobre la vida del ilusionista Harry Houdini, con imágenes generadas únicamente mediante inteligencia artificial (AI)."
               },
               {
                 "t": "p",
-                "x": "“Los espectadores conectan con la personalidad de un creador: cómo cuenta una historia o remata un chiste. Cuando un video pasa a otro idioma, esa personalidad debería ir con él. Ese es el estándar en torno al cual construimos Native 6.” - Nate Stone, CEO y cofundador de DittoDub."
+                "x": "Houdini: Back From the Dead se estrena el 14 de octubre. La serie de tres partes (three-part), que coincide con los 100 años de la muerte de Houdini el 31 de octubre de 2026, repasará la vida del mago y desenmascarador de falsos espiritistas. La plataforma afirma que es su primera producción de formato largo (long-form) que “depende por completo de imágenes AI-generated”."
               },
               {
                 "t": "p",
-                "x": "Funciona con el flujo de localización de video que la empresa ya ofrece: los equipos suben un video grabado, eligen los idiomas de destino y luego revisan y editan el texto traducido y las voces antes de compartirlo."
+                "x": "“Fox Nation abre un nuevo terreno creativo al usar tecnología emergente para dar vida, ante el público actual, a una de las figuras más fascinantes de la historia”, dijo la presidenta de Fox Nation, Lauren Petterson."
+              },
+              {
+                "t": "p",
+                "x": "Red Rock Films, productora de la serie, usó una forma de captura de movimiento AI-assisted para alterar la apariencia de los actores que interpretan a Houdini, a su esposa Bess y a otros personajes. Las recreaciones (Re-enactments) y otros elementos visuales también son AI-generated. La producción afirma que obtuvo licencias de material de archivo y de unas 400 fotografías como fuente para la serie."
+              },
+              {
+                "t": "p",
+                "x": "Los guiones los escribieron personas reales, y las afirmaciones históricas se apoyan en “investigación de archivo y revisión de expertos”. La serie recurre a la ficción de un Houdini AI-generated que concede una entrevista, con palabras tomadas de su correspondencia, sus diarios y otras fuentes."
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "La plataforma también admite varios hablantes y prepara el audio doblado, los subtítulos y los títulos y descripciones traducidos del video. Una extensión, YouTube Sync, transfiere estos recursos directamente a YouTube Studio."
+                "x": "Red Rock afirma que el proceso de captura de movimiento AI-assisted es más barato y eficiente que el CGI tradicional usado en mo-cap."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI로 되살린 후디니\n자기 삶을 직접 말하다",
+          "body": "Fox Nation이 AI-generated 이미지로 후디니 생애를 그린다.",
+          "mini_headline": "AI로 되살린 후디니",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6 ya está disponible en los planes de suscripción mensual de DittoDub, desde unos $50 al mes."
+                "x": "Fox Nation이 마술사 해리 후디니의 생애를 다룬 다큐시리즈를 공개한다. 영상은 전부 인공지능으로 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "Houdini: Back From the Dead는 10월 14일 공개된다. 2026년 10월 31일 후디니 사망 100주기에 맞춘 3부작이다. 마술사로, 또 가짜 영매를 폭로한 사람으로 산 그의 삶을 담았다. 스트리밍 서비스는 이 작품이 “전적으로 AI-generated 이미지에 의존한” 첫 장편 제작물이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“Fox Nation은 새로운 기술로 역사상 가장 매혹적인 인물 가운데 한 명을 오늘의 관객 앞에 되살리며 창작의 새 지평을 열고 있다”고 Fox Nation 사장 로런 페터슨은 말했다."
+              },
+              {
+                "t": "p",
+                "x": "제작사 Red Rock Films는 AI-assisted 방식의 모션 캡처로 후디니와 아내 베스 등을 연기한 배우들의 외형을 바꿨다. 재연 장면을 비롯한 다른 영상도 AI-generated 결과물이다. 제작진은 아카이브 영상과 사진 약 400장의 라이선스를 확보해 원천 자료로 썼다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "대본은 실제 사람이 썼고, 역사적 주장은 “아카이브 조사와 전문가 검토”로 뒷받침했다. 시리즈 속 AI-generated 후디니는 인터뷰에 응하는 식으로 등장하고, 대사는 그의 편지와 일기 등에서 따왔다."
+              },
+              {
+                "t": "video",
+                "yt": "8Nsf3KcQIgg"
+              },
+              {
+                "t": "p",
+                "x": "Red Rock은 AI-assisted 모션 캡처 방식이 기존 모캡에 쓰이는 CGI보다 더 싸고 효율적이라고 설명한다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "DittoDub, 109개\n언어 더빙 Native 6",
-          "body": "DittoDub의 Native 6는 원 화자의 연기를 109개 언어로 재현한다.",
-          "mini_headline": "DittoDub, 109개 언어 더빙",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "DittoDub가 새 AI 더빙 모델 Native 6를 출시했다. 이제 126개 방언 옵션을 포함해 109개 언어를 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "플랫폼에 올라오는 영상의 새 기본 더빙 모델인 Native 6는 크리에이터와 영상 팀이 화자의 목소리, 에너지, 감정 표현을 번역된 영상에 쉽고 효과적으로 옮기도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "“시청자는 크리에이터의 개성, 즉 이야기를 풀어내고 농담을 살리는 방식에 끌립니다. 영상이 다른 언어로 넘어갈 때 그 개성도 함께 가야 합니다. 그것이 우리가 Native 6를 만드는 기준입니다.” - Nate Stone, DittoDub CEO 겸 공동 창업자."
-              },
-              {
-                "t": "p",
-                "x": "Native 6는 회사의 기존 영상 현지화 워크플로와 함께 작동한다. 팀이 녹화한 영상을 올리고 대상 언어를 고른 뒤, 공유하기 전에 번역 문구와 음성을 검토하고 수정하는 방식이다."
-              },
-              {
-                "t": "video",
-                "yt": "ZOqyQrAyjRw"
-              },
-              {
-                "t": "p",
-                "x": "플랫폼은 여러 화자도 지원하며 더빙 오디오, 자막, 번역된 영상 제목과 설명을 함께 준비한다. YouTube Sync 확장 기능은 이 자산을 YouTube Studio로 바로 옮긴다."
-              },
-              {
-                "t": "p",
-                "x": "Native 6는 현재 DittoDub 월간 구독 요금제에서 쓸 수 있으며, 가격은 월 약 $50부터다."
-              }
-            ]
-          }
-        },
         "ja": {
-          "headline": "DittoDubの吹替\nNative 6は109言語",
-          "body": "DittoDubのNative 6でクリエイターは元の話者の演技を109言語で再現できる。",
-          "mini_headline": "DittoDub、109言語で吹替",
+          "headline": "Fox Nation、AIで\nHoudiniが自らを語る",
+          "body": "Fox Nationの新作は、AI生成映像でHoudini自身に生涯を語らせる。",
+          "mini_headline": "AIで甦るHoudini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDubは新しいAI吹替モデルNative 6を公開した。126の方言オプションを含む109言語に対応する。"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6は同社プラットフォームにアップロードされた動画の新たな標準吹替モデルであり、クリエイターや動画チームが話者の声、熱量、感情表現を翻訳後の動画へ手軽かつ効果的に引き継げるよう設計されている。"
+                "x": "Fox Nationが奇術師Harry Houdiniの生涯を描くドキュシリーズを配信する。映像はすべて人工知能(AI)だけで生成したものだ。"
               },
               {
                 "t": "p",
-                "x": "「視聴者はクリエイターの個性、つまり物語の語り方や笑いの取り方に惹かれる。動画が別の言語に移るとき、その個性も一緒に移るべきだ。それがNative 6を形づくる基準だ」 - Nate Stone（DittoDubのCEO兼共同創業者）"
+                "x": "Houdini: Back From the Deadは10月14日に配信を始める。三部構成(three-part)のこのシリーズは、2026年10月31日のHoudini没後100年に合わせ、奇術師であり偽の霊媒師を暴いた人物でもある彼の生涯をたどる。配信元によると、本作は「全面的にAI-generatedの映像に頼った」初の長編(long-form)作品だという。"
               },
               {
                 "t": "p",
-                "x": "Native 6は同社の既存の動画ローカライズのワークフローと連動する。チームは収録済みの動画をアップロードし、対象言語を選び、共有前に翻訳された文言と音声を確認・編集する。"
+                "x": "「Fox Nationは新しい技術を使い、歴史上もっとも魅力的な人物の一人を現代の観客のためによみがえらせ、創作の新境地を切り開いている」とFox Nation社長のLauren Pettersonは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "制作を担ったRed Rock Filmsは、AI-assistedのモーションキャプチャーを使い、Houdiniや妻のBessなどを演じる俳優の外見を変えた。再現シーン(Re-enactments)などの映像もAI-generatedだ。制作側はアーカイブ映像と約400枚の写真をライセンスし、シリーズの素材にしたという。"
+              },
+              {
+                "t": "p",
+                "x": "脚本は実在の人間が書き、歴史的な記述は「アーカイブ調査と専門家のレビュー」で裏付けた。シリーズはAI-generatedのHoudiniがインタビューに応じるという設定を取り、その言葉は書簡や日記などの資料から引いている。"
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "プラットフォームは複数話者にも対応し、吹替音声、字幕、翻訳済みの動画タイトルと説明文を用意する。拡張機能YouTube Syncはこれらの素材をYouTube Studioへ直接送る。"
-              },
-              {
-                "t": "p",
-                "x": "Native 6はDittoDubの月額サブスクリプションプランで現在利用でき、料金は月約$50からだ。"
+                "x": "Red Rockによれば、AI-assistedのモーションキャプチャー工程は、モーキャプ(mo-cap)で使われてきた従来のCGIより安価で効率も高い。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DittoDub配音模型\nNative 6达109语种",
-          "body": "DittoDub的Native 6模型让创作者以109种语言重现原说话者的表演。",
-          "mini_headline": "DittoDub支持109种语言配音",
+          "headline": "Fox Nation用AI\n让Houdini自述生平",
+          "body": "Fox Nation新剧用AI生成影像，让Houdini亲口讲述自己的一生。",
+          "mini_headline": "AI让Houdini重现",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDub推出新的AI配音模型Native 6，现已支持109种语言，其中包括126个方言选项。"
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6作为平台上传视频的新默认配音模型推出，旨在让创作者和视频团队以简单有效的方式，把说话者的声音、活力与情感表达带入翻译后的视频。"
+                "x": "Fox Nation即将推出一部关于魔术师Harry Houdini生平的纪录剧集，画面全部由人工智能（AI）生成。"
               },
               {
                 "t": "p",
-                "x": "“观众与创作者的个性产生联结：他们怎样讲故事、怎样抖包袱。当视频转换成另一种语言时，这种个性也应随之而来。这正是我们打造Native 6所依据的标准。”——Nate Stone，DittoDub CEO兼联合创始人。"
+                "x": "Houdini: Back From the Dead将于10月14日首播。这部三集（three-part）剧集配合2026年10月31日Houdini逝世100周年推出，回顾这位魔术师兼伪灵媒揭穿者的一生。该流媒体平台称，这是其首部“完全依赖AI-generated影像”的长篇（long-form）作品。"
               },
               {
                 "t": "p",
-                "x": "它与公司现有的视频本地化流程配合使用：团队上传录制好的视频，选择目标语言，然后在分享前审阅并修改翻译后的文字和配音。"
+                "x": "“Fox Nation正借助新兴技术，为现代观众重现历史上最引人入胜的人物之一，开辟新的创作领域。”Fox Nation总裁Lauren Petterson表示。"
+              },
+              {
+                "t": "p",
+                "x": "制作该剧的Red Rock Films采用AI-assisted动作捕捉，改变了饰演Houdini、其妻Bess等角色的真人演员的外貌。情景重现（Re-enactments）等画面同样为AI-generated。制作方称，已获得档案影像和约400张照片的授权，作为该剧的素材来源。"
+              },
+              {
+                "t": "p",
+                "x": "剧本由真人撰写，历史陈述有“档案研究与专家审阅”作支撑。剧集设定AI-generated的Houdini接受采访，所用话语取自他的书信、日记等资料。"
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "平台还支持多名说话者，并会准备配音音频、字幕以及翻译后的视频标题和简介。YouTube Sync扩展可将这些素材直接传入YouTube Studio。"
-              },
-              {
-                "t": "p",
-                "x": "Native 6现已在DittoDub的月度订阅方案中提供，起价约为每月$50。"
+                "x": "Red Rock表示，AI-assisted动作捕捉流程比动捕（mo-cap）中使用的传统CGI成本更低、效率更高。"
               }
             ]
           }
         },
         "es": {
-          "headline": "DittoDub Native 6 dobla\nen 109 idiomas",
-          "body": "El modelo Native 6 de DittoDub permite a los creadores recrear la actuación del hablante original en 109 idiomas.",
-          "mini_headline": "DittoDub dobla en 109 idiomas",
+          "headline": "Fox Nation usa AI para que\nHoudini narre su propia historia",
+          "body": "'Houdini: Back From the Dead', de Fox Nation, usa imágenes AI-generated para que el mago narre su propia vida.",
+          "mini_headline": "La AI revive a Houdini",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "DittoDub lanzó su nuevo modelo de doblaje AI, Native 6, que ya admite 109 idiomas, incluidas 126 opciones de dialecto."
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Lanzado como el nuevo modelo de doblaje predeterminado para los videos subidos a su plataforma, Native 6 está pensado como una forma sencilla y eficaz para que creadores y equipos de video trasladen la voz, la energía y la carga emocional de un hablante a un video traducido."
+                "x": "Fox Nation estrenará una serie documental sobre la vida del ilusionista Harry Houdini, con imágenes generadas únicamente mediante inteligencia artificial (AI)."
               },
               {
                 "t": "p",
-                "x": "“Los espectadores conectan con la personalidad de un creador: cómo cuenta una historia o remata un chiste. Cuando un video pasa a otro idioma, esa personalidad debería ir con él. Ese es el estándar en torno al cual construimos Native 6.” - Nate Stone, CEO y cofundador de DittoDub."
+                "x": "Houdini: Back From the Dead se estrena el 14 de octubre. La serie de tres partes (three-part), que coincide con los 100 años de la muerte de Houdini el 31 de octubre de 2026, repasará la vida del mago y desenmascarador de falsos espiritistas. La plataforma afirma que es su primera producción de formato largo (long-form) que “depende por completo de imágenes AI-generated”."
               },
               {
                 "t": "p",
-                "x": "Funciona con el flujo de localización de video que la empresa ya ofrece: los equipos suben un video grabado, eligen los idiomas de destino y luego revisan y editan el texto traducido y las voces antes de compartirlo."
+                "x": "“Fox Nation abre un nuevo terreno creativo al usar tecnología emergente para dar vida, ante el público actual, a una de las figuras más fascinantes de la historia”, dijo la presidenta de Fox Nation, Lauren Petterson."
+              },
+              {
+                "t": "p",
+                "x": "Red Rock Films, productora de la serie, usó una forma de captura de movimiento AI-assisted para alterar la apariencia de los actores que interpretan a Houdini, a su esposa Bess y a otros personajes. Las recreaciones (Re-enactments) y otros elementos visuales también son AI-generated. La producción afirma que obtuvo licencias de material de archivo y de unas 400 fotografías como fuente para la serie."
+              },
+              {
+                "t": "p",
+                "x": "Los guiones los escribieron personas reales, y las afirmaciones históricas se apoyan en “investigación de archivo y revisión de expertos”. La serie recurre a la ficción de un Houdini AI-generated que concede una entrevista, con palabras tomadas de su correspondencia, sus diarios y otras fuentes."
               },
               {
                 "t": "video",
-                "yt": "ZOqyQrAyjRw"
+                "yt": "8Nsf3KcQIgg"
               },
               {
                 "t": "p",
-                "x": "La plataforma también admite varios hablantes y prepara el audio doblado, los subtítulos y los títulos y descripciones traducidos del video. Una extensión, YouTube Sync, transfiere estos recursos directamente a YouTube Studio."
+                "x": "Red Rock afirma que el proceso de captura de movimiento AI-assisted es más barato y eficiente que el CGI tradicional usado en mo-cap."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI로 되살린 후디니\n자기 삶을 직접 말하다",
+          "body": "Fox Nation이 AI-generated 이미지로 후디니 생애를 그린다.",
+          "mini_headline": "AI로 되살린 후디니",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/HOUDINI-Back-from-the-Dead-Official-Trailer-Screenshot-H-2026.jpg?w=1296&h=730&crop=1"
               },
               {
                 "t": "p",
-                "x": "Native 6 ya está disponible en los planes de suscripción mensual de DittoDub, desde unos $50 al mes."
+                "x": "Fox Nation이 마술사 해리 후디니의 생애를 다룬 다큐시리즈를 공개한다. 영상은 오직 인공지능으로만 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "Houdini: Back From the Dead는 10월 14일 공개된다. 2026년 10월 31일 후디니 사망 100주기에 맞춘 3부작으로, 마술사이자 가짜 영매를 폭로한 그의 삶을 조명한다. 스트리밍 서비스 측은 이 작품이 “전적으로 AI-generated 이미지에 의존한” 첫 장편 제작물이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "“Fox Nation은 새로운 기술로 역사상 가장 매혹적인 인물 가운데 한 명을 오늘의 관객 앞에 되살리며 창작의 새 지평을 열고 있다”고 Fox Nation 사장 로런 페터슨은 말했다."
+              },
+              {
+                "t": "p",
+                "x": "시리즈를 제작한 Red Rock Films는 AI-assisted 방식의 모션 캡처로 후디니와 아내 베스 등을 연기한 배우들의 외형을 바꿨다. 재연 장면을 비롯한 다른 영상도 AI-generated 결과물이다. 제작진은 아카이브 영상과 사진 약 400장의 라이선스를 확보해 원천 자료로 썼다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "대본은 실제 사람이 썼고, 역사적 주장은 “아카이브 조사와 전문가 검토”로 뒷받침했다. 시리즈는 AI-generated 후디니가 인터뷰에 응하는 설정을 택했고, 대사는 그의 편지와 일기 등에서 가져왔다."
+              },
+              {
+                "t": "video",
+                "yt": "8Nsf3KcQIgg"
+              },
+              {
+                "t": "p",
+                "x": "Red Rock은 AI-assisted 모션 캡처 방식이 기존 모캡에 쓰이는 CGI보다 비용이 적게 들고 효율적이라고 설명한다."
               }
             ]
           }
@@ -395,189 +436,214 @@
       }
     },
     {
-      "id": "movies-google-synthid-detector-launch",
+      "id": "movies-cinema4d-mcp-server",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google, 독립형\nSynthID 탐지기 공개",
-      "body": "Google AI·파트너 도구로 만든 콘텐츠를 가려내는 독립 플랫폼이 나온다.",
-      "mini_headline": "독립형 SynthID 탐지기",
+      "headline": "Cinema 4D 조종하는\nClaude·ChatGPT",
+      "body": "Cinema 4D MCP로 Claude·ChatGPT·Codex를 말로 부린다.",
+      "mini_headline": "Cinema 4D에 MCP 탑재",
       "tool": "Movies",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/maxon-cinema-4d-adds-mcp-support-for-claude-and-chatgpt/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI 도구가 좋아지고 쓰기 쉬워질수록, 온라인에서 마주치는 콘텐츠의 맥락을 알아야 무엇을 믿을지 판단하기 쉽다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보게 도왔다. 지금까지 워터마크를 넣은 콘텐츠는 이미지와 영상 180 billion 개 이상, 오디오 240,000년 분량이다."
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
           },
           {
             "t": "p",
-            "x": "지난해에는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 이 도구를 모두에게 열어, 오늘부터 전 세계 어디서나 영어로 쓸 수 있다."
+            "x": "Maxon이 새 Cinema 4D MCP 서버로 Cinema 4D에 Model Context Protocol(MCP) 지원을 기본 탑재했다. 이제 아티스트는 자연어로 지시해 Claude와 ChatGPT, Codex 같은 AI 어시스턴트를 Cinema 4D 워크플로 안에서 안전하게 부릴 수 있다."
           },
           {
             "t": "p",
-            "x": "새 SynthID Detector에서는 누구나 이미지, 영상, 오디오 파일이 Google의 AI로 만들어졌는지, OpenAI, NVIDIA, Kakao, 그리고 곧 Apple까지 포함하는 파트너의 AI로 만들어졌는지 쉽게 확인한다."
-          },
-          {
-            "t": "p",
-            "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능과 나란히 선다. 이 기능들은 지금 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 온라인에서 보는 미디어의 맥락을 더 알려 주고, 사람들이 자신 있게 웹을 돌아다니게 하려는 작업의 연장선이다."
+            "x": "“발상은 단순하다. 아티스트는 통제권을 쥔 채 귀찮다고 여기는 작업을 넘기면 된다.” Maxon CEO David McGavran의 말이다. 어시스턴트에게 불러온 오브젝트 수백 개를 일관된 계층 구조로 정리하거나 오브젝트와 머티리얼 변형을 만들게 하고, 멀티패스(multi-pass) 렌더 준비도 시키면 된다. 기본적인 3D 카메라 트래킹, UV 매핑, 리깅, 애니메이션 작업도 맡길 수 있다."
           },
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+            "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "모든 동작은 아티스트 자신의 장비와 씬 안에서 Cinema 4D 자체 API를 거쳐 돌아간다. 결과물은 네이티브 씬 데이터 그대로 남는다. 변경 묶음은 실행 취소 기록에 하나하나 나뉘어 보이고, 명령은 로컬 감사 로그에 쌓인다. 서버는 액세스 토큰으로 보호된다. 어시스턴트에게 허용할 도구 그룹은 아티스트가 고르고, Python 실행도 제어할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "MCP는 기본적으로 꺼져 있고, Windows와 macOS의 Cinema 4D 2026.4 이상에서 별도 설치 없이 쓸 수 있다."
           }
         ]
       },
+      "lead_image": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg",
       "text": {
         "en": {
-          "headline": "Google opens a standalone\nSynthID detector",
-          "body": "Google is launching a standalone platform to check whether online content was made with Google AI or partner tools.",
-          "mini_headline": "A standalone SynthID detector",
+          "headline": "Cinema 4D now takes orders\nfrom Claude and ChatGPT",
+          "body": "Maxon's new Cinema 4D MCP server lets artists direct Claude, ChatGPT or Codex inside Cinema 4D using natural language.",
+          "mini_headline": "Cinema 4D adds MCP",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "As AI tools become better and easier to use, having clear context about the content you encounter online helps you make informed decisions about what to trust. Since launching Google SynthID in 2023, we've helped people identify AI-generated media using imperceptible watermarks across images, video, and audio. To date, we've watermarked over 180 billion images and videos, along with 240,000 years of audio content."
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Last year, we introduced an early version of the SynthID Detector to help media professionals verify AI-generated content. Now, we’re expanding access to everyone – with the tool available globally in English starting today."
+                "x": "Maxon has added built-in Model Context Protocol (MCP) support for Cinema 4D through the new Cinema 4D MCP server, letting artists use natural language instructions to securely direct Claude and ChatGPT or Codex AI assistants within Cinema 4D workflows."
               },
               {
                 "t": "p",
-                "x": "With the new SynthID Detector, anyone can easily check if an image, video, or audio file was made with AI from Google or our partners, including OpenAI, NVIDIA, Kakao, and soon, Apple."
-              },
-              {
-                "t": "p",
-                "x": "This tool joins our built-in verification features in Search, the Gemini app, and Chrome, which now regularly handle over 1 million requests daily. It’s all part of our ongoing work to give you more context about the media you see online, so you can navigate the web with confidence."
+                "x": "“The idea is simple: Artists retain control while handing off any tasks they consider a chore,” says Maxon CEO David McGavran. Artists can use the assistants to organize hundreds of imported objects into a consistent hierarchy, create object and material variations, prepare multi-pass renders, and handle basic 3D camera tracking, UV mapping, rigging and animating."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Every action runs through Cinema 4D’s own API, in the artist’s own scene, on their own machine. Results remain native scene data, each batch of changes is broken down in the undo history, and commands are written to a local audit log. The server is protected by an access token, artists choose which tool groups the assistant may use, and Python execution can be controlled."
+              },
+              {
+                "t": "p",
+                "x": "MCP is switched off by default and is available in Cinema 4D 2026.4 or later on Windows and macOS, with no additional installs."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 독립형\nSynthID 탐지기 공개",
-          "body": "Google AI·파트너 도구로 만든 콘텐츠를 가려내는 독립 플랫폼이 나온다.",
-          "mini_headline": "독립형 SynthID 탐지기",
+          "headline": "Cinema 4D 조종하는\nClaude·ChatGPT",
+          "body": "Cinema 4D MCP로 Claude·ChatGPT·Codex를 말로 부린다.",
+          "mini_headline": "Cinema 4D에 MCP 탑재",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI 도구가 좋아지고 쓰기 쉬워질수록, 온라인에서 마주치는 콘텐츠의 맥락을 알아야 무엇을 믿을지 판단하기 쉽다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보게 도왔다. 지금까지 워터마크를 넣은 콘텐츠는 이미지와 영상 180 billion 개 이상, 오디오 240,000년 분량이다."
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "지난해에는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 이 도구를 모두에게 열어, 오늘부터 전 세계 어디서나 영어로 쓸 수 있다."
+                "x": "Maxon이 새 Cinema 4D MCP 서버로 Cinema 4D에 Model Context Protocol(MCP) 지원을 기본 탑재했다. 이제 아티스트는 자연어로 지시해 Claude와 ChatGPT, Codex 같은 AI 어시스턴트를 Cinema 4D 워크플로 안에서 안전하게 부릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "새 SynthID Detector에서는 누구나 이미지, 영상, 오디오 파일이 Google의 AI로 만들어졌는지, OpenAI, NVIDIA, Kakao, 그리고 곧 Apple까지 포함하는 파트너의 AI로 만들어졌는지 쉽게 확인한다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능과 나란히 선다. 이 기능들은 지금 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 온라인에서 보는 미디어의 맥락을 더 알려 주고, 사람들이 자신 있게 웹을 돌아다니게 하려는 작업의 연장선이다."
+                "x": "“발상은 단순하다. 아티스트는 통제권을 쥔 채 귀찮다고 여기는 작업을 넘기면 된다.” Maxon CEO David McGavran의 말이다. 어시스턴트에게 불러온 오브젝트 수백 개를 일관된 계층 구조로 정리하거나 오브젝트와 머티리얼 변형을 만들게 하고, 멀티패스(multi-pass) 렌더 준비도 시키면 된다. 기본적인 3D 카메라 트래킹, UV 매핑, 리깅, 애니메이션 작업도 맡길 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "모든 동작은 아티스트 자신의 장비와 씬 안에서 Cinema 4D 자체 API를 거쳐 돌아간다. 결과물은 네이티브 씬 데이터 그대로 남는다. 변경 묶음은 실행 취소 기록에 하나하나 나뉘어 보이고, 명령은 로컬 감사 로그에 쌓인다. 서버는 액세스 토큰으로 보호된다. 어시스턴트에게 허용할 도구 그룹은 아티스트가 고르고, Python 실행도 제어할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "MCP는 기본적으로 꺼져 있고, Windows와 macOS의 Cinema 4D 2026.4 이상에서 별도 설치 없이 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、単体の\nSynthID検出ツール",
-          "body": "GoogleがGoogle AIやパートナー製のコンテンツを見分ける単体サービスを始める。",
-          "mini_headline": "単体のSynthID検出ツール",
+          "headline": "Cinema 4Dを動かす\nClaudeとChatGPT",
+          "body": "Cinema 4D上でClaude・ChatGPT・Codexに自然言語で指示できる。",
+          "mini_headline": "Cinema 4DがMCP対応",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AIツールが高性能になり使いやすくなるにつれ、オンラインで出会うコンテンツの文脈を明確に知ることは、何を信頼するかを判断する助けになる。2023年にGoogle SynthIDを公開して以来、私たちは画像、動画、音声に知覚できない電子透かしを入れ、人々がAI-generatedメディアを見分けられるよう支援してきた。これまでに180 billion 件を超える画像と動画、さらに240,000年分の音声コンテンツに透かしを入れている。"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "昨年、メディアの専門家がAI-generatedコンテンツを検証できるよう、SynthID Detectorの初期版を導入した。そして今回、誰もが使えるよう提供を広げ、本日から世界中で英語版を利用できる。"
+                "x": "Maxonは新しいCinema 4D MCPサーバーを通じて、Cinema 4DにModel Context Protocol(MCP)のサポートを標準搭載した。アーティストは自然言語の指示で、ClaudeやChatGPT、CodexといったAIアシスタントをCinema 4Dのワークフロー内で安全に操れる。"
               },
               {
                 "t": "p",
-                "x": "新しいSynthID Detectorを使えば、誰でも画像、動画、音声ファイルが、Google、あるいはOpenAI、NVIDIA、Kakao、そして近くApple を含むパートナーのAIで作られたかを簡単に確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、Search、Geminiアプリ、Chromeに組み込まれた検証機能に加わる。これらの機能は現在、毎日1 million 件を超えるリクエストを日常的に処理している。いずれも、オンラインで目にするメディアについてより多くの文脈を提供し、安心してウェブを使えるようにする継続的な取り組みの一環だ。"
+                "x": "「考え方はシンプルだ。アーティストは主導権を保ったまま、面倒だと感じる作業を任せればいい」とMaxonのCEO、David McGavranは言う。アシスタントには、読み込んだ数百のオブジェクトを一貫した階層に整理する、オブジェクトやマテリアルのバリエーションを作る、マルチパス(multi-pass)レンダーを準備する、基本的な3Dカメラトラッキング、UVマッピング、リギング、アニメーションをこなす、といった作業を任せられる。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "すべての操作は、アーティスト自身のマシン上、自身のシーン内で、Cinema 4D独自のAPIを通じて実行される。結果はネイティブのシーンデータのまま残り、変更のまとまりごとに取り消し履歴に分けて記録され、コマンドはローカルの監査ログに書き込まれる。サーバーはアクセストークンで保護され、アシスタントが使えるツールグループはアーティストが選び、Pythonの実行も制御できる。"
+              },
+              {
+                "t": "p",
+                "x": "MCPは初期状態でオフになっており、WindowsとmacOSのCinema 4D 2026.4以降で、追加インストールなしに使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google推出独立\nSynthID检测工具",
-          "body": "Google推出独立平台，可检验网上内容是否由Google AI或合作伙伴工具生成。",
-          "mini_headline": "独立的SynthID检测工具",
+          "headline": "指挥Cinema 4D的\nClaude与ChatGPT",
+          "body": "Maxon新推出的MCP服务器，让艺术家用自然语言在Cinema 4D中指挥AI助手。",
+          "mini_headline": "Cinema 4D支持MCP",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "随着AI工具越来越好用、越来越强大，清楚了解网上所见内容的背景，有助于你判断该信任什么。自2023年推出Google SynthID以来，我们通过在图像、视频和音频中加入不可察觉的水印，帮助人们识别AI-generated媒体。迄今为止，我们已为超过180 billion 个图像和视频，以及240,000年时长的音频内容添加了水印。"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "去年，我们推出了SynthID Detector的早期版本，帮助媒体从业者核实AI-generated内容。现在，我们将它开放给所有人，即日起在全球以英文提供。"
+                "x": "Maxon通过新的Cinema 4D MCP服务器，为Cinema 4D内置了Model Context Protocol（MCP）支持。艺术家可以用自然语言指令，在Cinema 4D工作流中安全地指挥Claude、ChatGPT或Codex等AI助手。"
               },
               {
                 "t": "p",
-                "x": "借助新的SynthID Detector，任何人都能轻松查验一个图像、视频或音频文件是否由Google或其合作伙伴（包括OpenAI、NVIDIA、Kakao，以及即将加入的Apple）的AI生成。"
-              },
-              {
-                "t": "p",
-                "x": "这一工具将与Search、Gemini应用和Chrome中内置的验证功能并列，这些功能如今每天经常处理超过1 million 次请求。这一切都是我们持续工作的一部分：为你提供更多关于网上媒体的背景信息，让你放心浏览网络。"
+                "x": "“思路很简单：艺术家保有控制权，同时把自认为繁琐的任务交出去。”Maxon CEO David McGavran说。艺术家可以让助手把导入的数百个对象整理成统一的层级，创建对象和材质变体，准备多通道（multi-pass）渲染，并处理基础的3D摄像机跟踪、UV贴图、绑定和动画。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "所有操作都通过Cinema 4D自身的API，在艺术家自己的场景、自己的机器上运行。结果保留为原生场景数据，每批更改都会在撤销历史中逐一列出，命令会写入本地审计日志。服务器由访问令牌保护，艺术家可以选择助手能使用哪些工具组，Python的执行也可以控制。"
+              },
+              {
+                "t": "p",
+                "x": "MCP默认关闭，适用于Windows和macOS上的Cinema 4D 2026.4及更高版本，无需额外安装。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza un detector\nSynthID independiente",
-          "body": "Google lanza una plataforma independiente para saber si un contenido se creó con Google AI o con socios.",
-          "mini_headline": "Un detector SynthID independiente",
+          "headline": "Cinema 4D ya recibe órdenes\nde Claude y ChatGPT",
+          "body": "El nuevo servidor Cinema 4D MCP de Maxon permite dirigir Claude, ChatGPT o Codex en Cinema 4D con lenguaje natural.",
+          "mini_headline": "Cinema 4D suma MCP",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "A medida que las herramientas AI mejoran y se vuelven más fáciles de usar, contar con un contexto claro sobre el contenido que encuentras en línea te ayuda a decidir con criterio en qué confiar. Desde que lanzamos Google SynthID en 2023, hemos ayudado a identificar medios AI-generated mediante marcas de agua imperceptibles en imágenes, video y audio. Hasta la fecha, hemos marcado más de 180 mil millones de imágenes y videos, además de 240,000 años de contenido de audio."
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "El año pasado presentamos una versión inicial de SynthID Detector para ayudar a los profesionales de los medios a verificar contenido AI-generated. Ahora ampliamos el acceso a todo el mundo: la herramienta está disponible globalmente en inglés desde hoy."
+                "x": "Maxon ha incorporado compatibilidad nativa con Model Context Protocol (MCP) en Cinema 4D mediante el nuevo servidor Cinema 4D MCP, que permite a los artistas usar instrucciones en lenguaje natural para dirigir de forma segura asistentes de AI como Claude y ChatGPT o Codex dentro de los flujos de trabajo de Cinema 4D."
               },
               {
                 "t": "p",
-                "x": "Con el nuevo SynthID Detector, cualquiera puede comprobar fácilmente si una imagen, un video o un archivo de audio se creó con AI de Google o de nuestros socios, entre ellos OpenAI, NVIDIA, Kakao y, próximamente, Apple."
-              },
-              {
-                "t": "p",
-                "x": "Esta herramienta se suma a las funciones de verificación integradas en Search, la app Gemini y Chrome, que hoy gestionan con regularidad más de 1 millón de solicitudes diarias. Todo forma parte de nuestro trabajo continuo para darte más contexto sobre los medios que ves en línea, de modo que puedas navegar por la web con confianza."
+                "x": "“La idea es sencilla: los artistas conservan el control mientras delegan cualquier tarea que consideren una carga”, afirma el CEO de Maxon, David McGavran. Los artistas pueden usar los asistentes para organizar cientos de objetos importados en una jerarquía coherente, crear variaciones de objetos y materiales, preparar renders multipase (multi-pass) y encargarse de tareas básicas de seguimiento de cámara 3D, mapeado UV, rigging y animación."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Cada acción se ejecuta a través de la propia API de Cinema 4D, en la escena del artista y en su propia máquina. Los resultados se mantienen como datos de escena nativos, cada lote de cambios aparece desglosado en el historial de deshacer y los comandos se registran en un log de auditoría local. El servidor está protegido por un token de acceso, los artistas eligen qué grupos de herramientas puede usar el asistente y la ejecución de Python se puede controlar."
+              },
+              {
+                "t": "p",
+                "x": "MCP viene desactivado de forma predeterminada y está disponible en Cinema 4D 2026.4 o posterior en Windows y macOS, sin instalaciones adicionales."
               }
             ]
           }
@@ -585,121 +651,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 독립형\nSynthID 탐지기 공개",
-          "body": "Google AI·파트너 도구로 만든 콘텐츠를 가리는 독립 플랫폼이 나온다.",
-          "mini_headline": "독립형 SynthID 탐지기",
+          "headline": "Cinema 4D 조종하는\nClaude·ChatGPT",
+          "body": "Cinema 4D MCP로 Claude·ChatGPT·Codex를 말로 부린다.",
+          "mini_headline": "Cinema 4D에 MCP 탑재",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI 도구가 더 좋아지고 쓰기 쉬워지면서, 온라인에서 마주치는 콘텐츠의 맥락을 분명히 알면 무엇을 믿을지 판단하는 데 도움이 된다. 2023년 Google SynthID를 출시한 뒤 우리는 이미지, 영상, 오디오에 눈에 띄지 않는 워터마크를 넣어 사람들이 AI-generated 미디어를 알아보도록 도왔다. 지금까지 180 billion 개가 넘는 이미지와 영상, 그리고 240,000년 분량의 오디오 콘텐츠에 워터마크를 넣었다."
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "지난해 우리는 미디어 전문가가 AI-generated 콘텐츠를 검증하도록 SynthID Detector 초기 버전을 선보였다. 이제 모두에게 문을 열어, 오늘부터 전 세계에서 영어로 이 도구를 쓸 수 있다."
+                "x": "Maxon이 새 Cinema 4D MCP 서버로 Cinema 4D에 Model Context Protocol(MCP) 지원을 기본 탑재했다. 아티스트는 자연어 지시로 Claude와 ChatGPT, Codex 같은 AI 어시스턴트를 Cinema 4D 워크플로 안에서 안전하게 부릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "새 SynthID Detector로 누구나 이미지, 영상, 오디오 파일이 Google 또는 OpenAI, NVIDIA, Kakao, 그리고 곧 Apple을 포함한 파트너의 AI로 만들어졌는지 쉽게 확인할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이 도구는 Search, Gemini 앱, Chrome에 내장된 검증 기능에 합류한다. 이 기능들은 현재 매일 1 million 건이 넘는 요청을 꾸준히 처리한다. 모두 온라인에서 보는 미디어에 대해 더 많은 맥락을 제공해 자신 있게 웹을 탐색하도록 돕는 지속적인 작업의 일환이다."
+                "x": "“발상은 단순하다. 아티스트는 통제권을 쥔 채 귀찮다고 여기는 작업을 넘기면 된다.” Maxon CEO David McGavran의 말이다. 아티스트는 어시스턴트에게 불러온 오브젝트 수백 개를 일관된 계층 구조로 정리하고, 오브젝트와 머티리얼 변형을 만들고, 멀티패스(multi-pass) 렌더를 준비하게 할 수 있다. 기본적인 3D 카메라 트래킹, UV 매핑, 리깅, 애니메이션 작업도 맡길 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "모든 동작은 아티스트 자신의 장비와 씬 안에서 Cinema 4D 자체 API를 거쳐 돌아간다. 결과물은 네이티브 씬 데이터 그대로 남고, 변경 묶음은 실행 취소 기록에서 하나하나 나뉘어 보이며, 명령은 로컬 감사 로그에 남는다. 서버는 액세스 토큰으로 보호하고, 아티스트가 어시스턴트에게 허용할 도구 그룹을 고르며, Python 실행도 제어할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "MCP는 기본적으로 꺼져 있고, Windows와 macOS의 Cinema 4D 2026.4 이상에서 별도 설치 없이 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、単体の\nSynthID検出ツール",
-          "body": "GoogleがGoogle AIやパートナー製のコンテンツを見分ける単体サービスを始める。",
-          "mini_headline": "単体のSynthID検出ツール",
+          "headline": "Cinema 4Dを動かす\nClaudeとChatGPT",
+          "body": "Cinema 4D上でClaude・ChatGPT・Codexに自然言語で指示できる。",
+          "mini_headline": "Cinema 4DがMCP対応",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AIツールが高性能になり使いやすくなるにつれ、オンラインで出会うコンテンツの文脈を明確に知ることは、何を信頼するかを判断する助けになる。2023年にGoogle SynthIDを公開して以来、私たちは画像、動画、音声に知覚できない電子透かしを入れ、人々がAI-generatedメディアを見分けられるよう支援してきた。これまでに180 billion 件を超える画像と動画、さらに240,000年分の音声コンテンツに透かしを入れている。"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "昨年、メディアの専門家がAI-generatedコンテンツを検証できるよう、SynthID Detectorの初期版を導入した。そして今回、誰もが使えるよう提供を広げ、本日から世界中で英語版を利用できる。"
+                "x": "Maxonは新しいCinema 4D MCPサーバーを通じて、Cinema 4DにModel Context Protocol(MCP)のサポートを標準搭載した。アーティストは自然言語の指示で、ClaudeやChatGPT、CodexといったAIアシスタントをCinema 4Dのワークフロー内で安全に操れる。"
               },
               {
                 "t": "p",
-                "x": "新しいSynthID Detectorを使えば、誰でも画像、動画、音声ファイルが、Google、あるいはOpenAI、NVIDIA、Kakao、そして近くApple を含むパートナーのAIで作られたかを簡単に確認できる。"
-              },
-              {
-                "t": "p",
-                "x": "このツールは、Search、Geminiアプリ、Chromeに組み込まれた検証機能に加わる。これらの機能は現在、毎日1 million 件を超えるリクエストを日常的に処理している。いずれも、オンラインで目にするメディアについてより多くの文脈を提供し、安心してウェブを使えるようにする継続的な取り組みの一環だ。"
+                "x": "「考え方はシンプルだ。アーティストは主導権を保ったまま、面倒だと感じる作業を任せればいい」とMaxonのCEO、David McGavranは言う。アシスタントには、読み込んだ数百のオブジェクトを一貫した階層に整理する、オブジェクトやマテリアルのバリエーションを作る、マルチパス(multi-pass)レンダーを準備する、基本的な3Dカメラトラッキング、UVマッピング、リギング、アニメーションをこなす、といった作業を任せられる。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "すべての操作は、アーティスト自身のマシン上、自身のシーン内で、Cinema 4D独自のAPIを通じて実行される。結果はネイティブのシーンデータのまま残り、変更のまとまりごとに取り消し履歴に分けて記録され、コマンドはローカルの監査ログに書き込まれる。サーバーはアクセストークンで保護され、アシスタントが使えるツールグループはアーティストが選び、Pythonの実行も制御できる。"
+              },
+              {
+                "t": "p",
+                "x": "MCPは初期状態でオフになっており、WindowsとmacOSのCinema 4D 2026.4以降で、追加インストールなしに使える。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google推出独立\nSynthID检测工具",
-          "body": "Google推出独立平台，可检验网上内容是否由Google AI或合作伙伴工具生成。",
-          "mini_headline": "独立的SynthID检测工具",
+          "headline": "指挥Cinema 4D的\nClaude与ChatGPT",
+          "body": "Maxon新推出的MCP服务器，让艺术家用自然语言在Cinema 4D中指挥AI助手。",
+          "mini_headline": "Cinema 4D支持MCP",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "随着AI工具越来越好用、越来越强大，清楚了解网上所见内容的背景，有助于你判断该信任什么。自2023年推出Google SynthID以来，我们通过在图像、视频和音频中加入不可察觉的水印，帮助人们识别AI-generated媒体。迄今为止，我们已为超过180 billion 个图像和视频，以及240,000年时长的音频内容添加了水印。"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "去年，我们推出了SynthID Detector的早期版本，帮助媒体从业者核实AI-generated内容。现在，我们将它开放给所有人，即日起在全球以英文提供。"
+                "x": "Maxon通过新的Cinema 4D MCP服务器，为Cinema 4D内置了Model Context Protocol（MCP）支持。艺术家可以用自然语言指令，在Cinema 4D工作流中安全地指挥Claude、ChatGPT或Codex等AI助手。"
               },
               {
                 "t": "p",
-                "x": "借助新的SynthID Detector，任何人都能轻松查验一个图像、视频或音频文件是否由Google或其合作伙伴（包括OpenAI、NVIDIA、Kakao，以及即将加入的Apple）的AI生成。"
-              },
-              {
-                "t": "p",
-                "x": "这一工具将与Search、Gemini应用和Chrome中内置的验证功能并列，这些功能如今每天经常处理超过1 million 次请求。这一切都是我们持续工作的一部分：为你提供更多关于网上媒体的背景信息，让你放心浏览网络。"
+                "x": "“思路很简单：艺术家保有控制权，同时把自认为繁琐的任务交出去。”Maxon CEO David McGavran说。艺术家可以让助手把导入的数百个对象整理成统一的层级，创建对象和材质变体，准备多通道（multi-pass）渲染，并处理基础的3D摄像机跟踪、UV贴图、绑定和动画。"
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "所有操作都通过Cinema 4D自身的API，在艺术家自己的场景、自己的机器上运行。结果保留为原生场景数据，每批更改都会在撤销历史中逐一列出，命令会写入本地审计日志。服务器由访问令牌保护，艺术家可以选择助手能使用哪些工具组，Python的执行也可以控制。"
+              },
+              {
+                "t": "p",
+                "x": "MCP默认关闭，适用于Windows和macOS上的Cinema 4D 2026.4及更高版本，无需额外安装。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google lanza un detector\nSynthID independiente",
-          "body": "Google lanza una plataforma independiente para saber si un contenido se creó con Google AI o con socios.",
-          "mini_headline": "Un detector SynthID independiente",
+          "headline": "Cinema 4D ya recibe órdenes\nde Claude y ChatGPT",
+          "body": "El nuevo servidor Cinema 4D MCP de Maxon permite dirigir Claude, ChatGPT o Codex en Cinema 4D con lenguaje natural.",
+          "mini_headline": "Cinema 4D suma MCP",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "A medida que las herramientas AI mejoran y se vuelven más fáciles de usar, contar con un contexto claro sobre el contenido que encuentras en línea te ayuda a decidir con criterio en qué confiar. Desde que lanzamos Google SynthID en 2023, hemos ayudado a identificar medios AI-generated mediante marcas de agua imperceptibles en imágenes, video y audio. Hasta la fecha, hemos marcado más de 180 mil millones de imágenes y videos, además de 240,000 años de contenido de audio."
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP-UI_Workstation-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "El año pasado presentamos una versión inicial de SynthID Detector para ayudar a los profesionales de los medios a verificar contenido AI-generated. Ahora ampliamos el acceso a todo el mundo: la herramienta está disponible globalmente en inglés desde hoy."
+                "x": "Maxon ha incorporado compatibilidad nativa con Model Context Protocol (MCP) en Cinema 4D mediante el nuevo servidor Cinema 4D MCP, que permite a los artistas usar instrucciones en lenguaje natural para dirigir de forma segura asistentes de AI como Claude y ChatGPT o Codex dentro de los flujos de trabajo de Cinema 4D."
               },
               {
                 "t": "p",
-                "x": "Con el nuevo SynthID Detector, cualquiera puede comprobar fácilmente si una imagen, un video o un archivo de audio se creó con AI de Google o de nuestros socios, entre ellos OpenAI, NVIDIA, Kakao y, próximamente, Apple."
-              },
-              {
-                "t": "p",
-                "x": "Esta herramienta se suma a las funciones de verificación integradas en Search, la app Gemini y Chrome, que hoy gestionan con regularidad más de 1 millón de solicitudes diarias. Todo forma parte de nuestro trabajo continuo para darte más contexto sobre los medios que ves en línea, de modo que puedas navegar por la web con confianza."
+                "x": "“La idea es sencilla: los artistas conservan el control mientras delegan cualquier tarea que consideren una carga”, afirma el CEO de Maxon, David McGavran. Los artistas pueden usar los asistentes para organizar cientos de objetos importados en una jerarquía coherente, crear variaciones de objetos y materiales, preparar renders multipase (multi-pass) y encargarse de tareas básicas de seguimiento de cámara 3D, mapeado UV, rigging y animación."
               },
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-1440x810.png"
+                "src": "https://postperspective.com/wp-content/uploads/2026/09/Cinema4D_MCP_server-example.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Cada acción se ejecuta a través de la propia API de Cinema 4D, en la escena del artista y en su propia máquina. Los resultados se mantienen como datos de escena nativos, cada lote de cambios aparece desglosado en el historial de deshacer y los comandos se registran en un log de auditoría local. El servidor está protegido por un token de acceso, los artistas eligen qué grupos de herramientas puede usar el asistente y la ejecución de Python se puede controlar."
+              },
+              {
+                "t": "p",
+                "x": "MCP viene desactivado de forma predeterminada y está disponible en Cinema 4D 2026.4 o posterior en Windows y macOS, sin instalaciones adicionales."
               }
             ]
           }
@@ -707,15 +789,15 @@
       }
     },
     {
-      "id": "movies-abundantia-aion-standalone-studio",
-      "source_lang": "en",
+      "id": "movies-dfx-techshow-ai-contest",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
-      "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
-      "mini_headline": "Abundantia, AiOn 분사",
+      "headline": "DFX 테크쇼와\n대전 AI 영상 공모전",
+      "body": "VFX 현업 발표와 대전 AI 영상 공모전이 영상기술의 최전선을 보여줬다.",
+      "mini_headline": "DFX 테크쇼·AI 공모전",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/abundantia-entertainment-ai-creative-arm-studio-1237147643/",
+      "source": "씨네21",
+      "url": "https://cine21.com/news/view/?mag_id=110864",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -723,345 +805,306 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-            "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+            "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+            "cap": "DFX 테크쇼 발표를 진행중인 홍정호 VFX 슈퍼바이저."
           },
           {
             "t": "p",
-            "x": "인도의 Abundantia Entertainment가 AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸는 중이다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+            "x": "DFX 테크쇼는 대전특수영상영화제(DFX)의 대표 프로그램으로, 특수영상 업계 현업 전문가들이 산업·기술 동향과 제작 비화를 발표하는 자리다. 9월 18일 ‘현실에 없는 것을, 진짜처럼-UNREAL’ 세션에는 장성호 모팩 스튜디오 감독, 이재원 드림웍스 모델링 슈퍼바이저, 홍정호 덱스터스튜디오 VFX 슈퍼바이저가 연사로 나섰다."
           },
           {
             "t": "p",
-            "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. AiOn은 2027년 온전한 스튜디오로 출범한다."
+            "x": "장성호 감독은 업계에 ‘칩 밸리’라는 말이 나타나고 있다며 “영상 콘텐츠 제작에 AI를 적극적으로 쓰고 AI가 많은 것을 스스로 해결하는 시대가 바로 코앞”이지만 결국 창작자의 의도가 얼마나 잘 구현됐는지가 관건이라고 말했다. 홍정호 슈퍼바이저는 <군체> 작업을 복기하며 최근엔 AI로 최종 결과물에 가까운 품질의 프리비즈를 만드는 추세라고 설명했다. 9월 19일 ‘REAL’ 세션에서는 미술·무술·특수분장 감독들이 물리적 작업과 최근 프로덕션의 결합을 강연했다."
+          },
+          {
+            "t": "img",
+            "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
           },
           {
             "t": "p",
-            "x": "당분간 AiOn은 Malhotra가 직접 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
-          },
-          {
-            "t": "p",
-            "x": "지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”이 보낸 피치가 과거의 세 배였다고 그는 말했다. Curry Barker와 Kane Parsons 같은 감독이 아이디어 “민주화”의 증거라는 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고, 영화 다섯 편을 개발할 영화 스튜디오를 꾸렸다."
+            "x": "9월 18일에는 대전시 주최 AI 영상 공모전 ‘상상을 실현하는 아이 AI vol.2’ 시상식도 열렸다. 공모작은 504편으로 지난해보다 139% 늘었고, 19편의 수상작에 총상금 4800만원이 돌아갔다. 심사위원장 손승현 웨스트월드 대표는 올해는 AI라는 도구로 얼마나 완성도 있고 깊이 있는 이야기를 만들었는지에 초점을 뒀다고 밝혔다."
           }
         ]
       },
+      "lead_image": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
       "text": {
-        "en": {
-          "headline": "Abundantia spins AI arm AiOn\ninto a standalone studio",
-          "body": "India's Abundantia Entertainment is moving to turn its AI creative arm AiOn into a standalone production studio.",
-          "mini_headline": "Abundantia spins off AiOn",
+        "ko": {
+          "headline": "DFX 테크쇼와\n대전 AI 영상 공모전",
+          "body": "VFX 현업 발표와 대전 AI 영상 공모전이 영상기술의 최전선을 보여줬다.",
+          "mini_headline": "DFX 테크쇼·AI 공모전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "'Subedaar', 'Maa Behen' and 'Daldal'; Vikram Malhotra (inset)"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "DFX 테크쇼 발표를 진행중인 홍정호 VFX 슈퍼바이저."
               },
               {
                 "t": "p",
-                "x": "A year after launching its AI production division Abundantia AiOn, India’s Abundantia Entertainment is morphing it into a fully standalone native AI studio that will seek to harness an influx of ideas from non-traditional sources."
+                "x": "DFX 테크쇼는 대전특수영상영화제(DFX)의 대표 프로그램으로, 특수영상 업계 현업 전문가들이 산업·기술 동향과 제작 비화를 발표하는 자리다. 9월 18일 ‘현실에 없는 것을, 진짜처럼-UNREAL’ 세션에는 장성호 모팩 스튜디오 감독, 이재원 드림웍스 모델링 슈퍼바이저, 홍정호 덱스터스튜디오 VFX 슈퍼바이저가 연사로 나섰다."
               },
               {
                 "t": "p",
-                "x": "“AiOn will develop its own stories, create its own content, produce fully generated as well as hybrid work, and manage the entire ecosystem, just as Abundantia does as a standalone studio,” founder and CEO Vikram Malhotra told Deadline. He said AiOn launches as a fully fledged studio in 2027."
+                "x": "장성호 감독은 업계에 ‘칩 밸리’라는 말이 나타나고 있다며 “영상 콘텐츠 제작에 AI를 적극적으로 쓰고 AI가 많은 것을 스스로 해결하는 시대가 바로 코앞”이지만 결국 창작자의 의도가 얼마나 잘 구현됐는지가 관건이라고 말했다. 홍정호 슈퍼바이저는 <군체> 작업을 복기하며 최근엔 AI로 최종 결과물에 가까운 품질의 프리비즈를 만드는 추세라고 설명했다. 9월 19일 ‘REAL’ 세션에서는 미술·무술·특수분장 감독들이 물리적 작업과 최근 프로덕션의 결합을 강연했다."
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "Malhotra will lead AiOn for now. “For the moment, it will sit within Abundantia, but we are building it in a way that gives it its own identity and scope… It is truly a confluence of technology and art.”"
-              },
-              {
-                "t": "p",
-                "x": "He said that over the last six months he received “three times as many pitches from people who have never written, made films or belonged to the conventional filmmaking ecosystem” as in the past, citing directors such as Curry Barker and Kane Parsons as evidence of a “democratization” of ideas."
-              },
-              {
-                "t": "p",
-                "x": "Earlier this year Abundantia also teamed with AI video company InVideo on a film studio developing a slate of five films."
+                "x": "9월 18일에는 대전시 주최 AI 영상 공모전 ‘상상을 실현하는 아이 AI vol.2’ 시상식도 열렸다. 공모작은 504편으로 지난해보다 139% 늘었고, 19편의 수상작에 총상금 4800만원이 돌아갔다. 심사위원장 손승현 웨스트월드 대표는 올해는 AI라는 도구로 얼마나 완성도 있고 깊이 있는 이야기를 만들었는지에 초점을 뒀다고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
-          "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
-          "mini_headline": "Abundantia, AiOn 분사",
+        "en": {
+          "headline": "DFX Tech Show and Daejeon's\nAI video contest",
+          "body": "VFX practitioners' talks and Daejeon's AI video contest showed the front line of moving-image technology.",
+          "mini_headline": "DFX Tech Show, AI contest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "VFX supervisor Hong Jeong-ho presenting at the DFX Tech Show."
               },
               {
                 "t": "p",
-                "x": "인도의 Abundantia Entertainment가 AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸는 중이다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+                "x": "The DFX Tech Show is the flagship program of the Daejeon Special Effects Film Festival (DFX), where working professionals in the special-effects industry present industry and technology trends and behind-the-scenes production stories. At the September 18 session ‘What does not exist in reality, as if real-UNREAL’, the speakers were Jang Seong-ho, director at MOFAC Studio; Lee Jae-won, modeling supervisor at DreamWorks; and Hong Jeong-ho, VFX supervisor at Dexter Studios."
               },
               {
                 "t": "p",
-                "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. AiOn은 2027년 온전한 스튜디오로 출범한다."
+                "x": "Director Jang said the term ‘chip valley’ is emerging in the industry and that “an era in which AI is actively used in video content production and AI solves many things on its own is just around the corner,” but that what ultimately matters is how well the creator's intent is realized. Supervisor Hong looked back on his work on <Gunche>, explaining that the recent trend is to use AI to make previs close in quality to the final output. At the September 19 ‘REAL’ session, art, martial arts and special makeup directors spoke about combining physical work with recent production."
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "당분간 AiOn은 Malhotra가 직접 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”이 보낸 피치가 과거의 세 배였다고 그는 말했다. Curry Barker와 Kane Parsons 같은 감독이 아이디어 “민주화”의 증거라는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고, 영화 다섯 편을 개발할 영화 스튜디오를 꾸렸다."
+                "x": "On September 18, Daejeon City also held the awards ceremony for its AI video contest ‘Ai AI That Realizes Imagination vol.2’. Entries reached 504, up 139% from last year, and 19 winning works shared total prize money of 4800만원. Jury chair Son Seung-hyun, head of Westworld, said this year's judging focused on how complete and deep a story entrants built with AI as a tool."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Abundantia傘下の\nAiOnが独立AIスタジオに",
-          "body": "Abundantia EntertainmentがAI部門AiOnを独立スタジオにする。",
-          "mini_headline": "AbundantiaがAiOnを独立",
+          "headline": "DFXテックショーと\n大田AI映像公募展",
+          "body": "VFX現場の発表と大田のAI映像公募展が、映像技術の最前線を示した。",
+          "mini_headline": "DFXテックショー・AI公募展",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "『Subedaar』『Maa Behen』『Daldal』、Vikram Malhotra（挿入写真）"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "DFXテックショーで発表するホン・ジョンホVFXスーパーバイザー。"
               },
               {
                 "t": "p",
-                "x": "AI制作部門Abundantia AiOnを立ち上げてから一年、インドのAbundantia Entertainmentはこれを完全に独立したネイティブAIスタジオへと移行させている。従来とは異なる出どころから流れ込むアイデアを取り込む狙いだ。"
+                "x": "DFXテックショーは大田特殊映像映画祭(DFX)の看板プログラムで、特殊映像業界の現役専門家が産業・技術の動向や制作の裏話を発表する場だ。9月18日の「現実にないものを、本物のように-UNREAL」セッションには、MOFAC Studioのチャン・ソンホ監督、DreamWorksのイ・ジェウォン・モデリングスーパーバイザー、Dexter Studiosのホン・ジョンホVFXスーパーバイザーが登壇した。"
               },
               {
                 "t": "p",
-                "x": "「AiOnは、Abundantiaが独立スタジオとしてそうしているように、独自の物語を開発し、独自のコンテンツを作り、完全生成型とハイブリッド型の作品を制作し、エコシステム全体を管理する」と、創業者でCEOのVikram MalhotraはDeadlineに語った。AiOnは2027年に本格的なスタジオとして始動するという。"
+                "x": "チャン・ソンホ監督は、業界に「チップバレー」という言葉が現れていると述べ、「映像コンテンツ制作にAIを積極的に使い、AIが多くのことを自ら解決する時代はすぐそこ」だが、結局は創作者の意図がどれだけうまく実現されたかが鍵だと語った。ホン・ジョンホ・スーパーバイザーは『群体』の作業を振り返り、最近はAIで最終成果物に近い品質のプリビズを作るのが流れだと説明した。9月19日の「REAL」セッションでは、美術・武術・特殊メイクの監督たちが、物理的な作業と最近のプロダクションの組み合わせについて講演した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "当面はMalhotraがAiOnを率いる。「今のところはAbundantiaの中に置くが、独自のアイデンティティと領域を持つように作っている…まさに技術と芸術の合流だ」"
-              },
-              {
-                "t": "p",
-                "x": "彼によれば、この六か月で「脚本を書いたことも映画を作ったこともなく、従来の映画制作のエコシステムに属したこともない人々」からの企画提案が以前の三倍に増えた。Curry BarkerやKane Parsonsといった監督を、アイデアの「民主化」の証拠として挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "Abundantiaは今年初め、AI動画企業InVideoとも組み、五本の映画を開発する映画スタジオを立ち上げている。"
+                "x": "9月18日には、大田市主催のAI映像公募展「想像を実現するアイ AI vol.2」の授賞式も開かれた。応募作は504本で前年より139%増え、19本の受賞作に賞金総額4800만원が贈られた。審査委員長を務めたWestworld代表のソン・スンヒョンは、今年はAIという道具でどれだけ完成度が高く深みのある物語を作ったかに焦点を当てたと明かした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Abundantia旗下\nAiOn独立为AI工作室",
-          "body": "印度Abundantia Entertainment将AI部门AiOn转为独立工作室。",
-          "mini_headline": "Abundantia分拆AiOn",
+          "headline": "DFX技术秀与\n大田AI影像大赛",
+          "body": "VFX一线从业者的演讲与大田AI影像大赛，展现了影像技术的最前沿。",
+          "mini_headline": "DFX技术秀·AI大赛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "《Subedaar》《Maa Behen》《Daldal》；Vikram Malhotra（小图）"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "正在DFX技术秀上演讲的VFX总监Hong Jeong-ho。"
               },
               {
                 "t": "p",
-                "x": "在推出AI制作部门Abundantia AiOn一年后，印度的Abundantia Entertainment正将其转型为完全独立的原生AI工作室，力求吸纳来自非传统渠道的大量创意。"
+                "x": "DFX技术秀是大田特殊影像电影节（DFX）的招牌项目，由特殊影像行业的一线专家分享产业与技术趋势以及制作幕后故事。9月18日“现实中不存在的，做得像真的一样-UNREAL”环节，MOFAC Studio导演Jang Seong-ho、DreamWorks建模总监Lee Jae-won、Dexter Studios VFX总监Hong Jeong-ho担任主讲。"
               },
               {
                 "t": "p",
-                "x": "“AiOn将开发自己的故事、创作自己的内容，制作完全生成和混合形式的作品，并管理整个生态系统，就像Abundantia作为独立工作室所做的那样。”创始人兼CEO Vikram Malhotra对Deadline表示。他说AiOn将于2027年以成熟工作室的形态启动。"
+                "x": "Jang Seong-ho导演表示，业界开始出现“chip valley”的说法，并称“在影像内容制作中积极使用AI、由AI自行解决许多问题的时代近在眼前”，但关键终究在于创作者的意图实现得如何。Hong Jeong-ho总监回顾了《群体》的制作，介绍说最近的趋势是用AI制作质量接近最终成片的预演。9月19日的“REAL”环节中，美术、武术与特效化妆导演们讲述了实体制作与近期制作方式的结合。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "目前由Malhotra领导AiOn。“眼下它会留在Abundantia内部，但我们正以赋予它独立身份和业务范围的方式来打造它……这真正是技术与艺术的交汇。”"
-              },
-              {
-                "t": "p",
-                "x": "他说，过去六个月里，他收到来自“从未写作、拍过电影或属于传统电影制作生态”的人的提案，是以往的三倍，并举出Curry Barker和Kane Parsons等导演，作为创意“民主化”的证据。"
-              },
-              {
-                "t": "p",
-                "x": "今年早些时候，Abundantia还与AI视频公司InVideo合作成立电影工作室，开发五部电影。"
+                "x": "9月18日还举行了大田市主办的AI影像大赛“实现想象的Ai AI vol.2”颁奖典礼。参赛作品共504部，比去年增加139%，19部获奖作品共分得总奖金4800만원。评审委员长、Westworld代表Son Seung-hyun表示，今年的评审重点是参赛者借助AI这一工具，讲出了多完整、多有深度的故事。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abundantia convierte AiOn\nen un estudio AI independiente",
-          "body": "La india Abundantia Entertainment convertirá su brazo creativo AI, AiOn, en un estudio de producción independiente.",
-          "mini_headline": "Abundantia separa a AiOn",
+          "headline": "El DFX Tech Show y el concurso\nde video con AI de Daejeon",
+          "body": "Las charlas de profesionales de VFX y el concurso de video con AI de Daejeon mostraron la vanguardia audiovisual.",
+          "mini_headline": "DFX Tech Show y concurso AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "'Subedaar', 'Maa Behen' y 'Daldal'; Vikram Malhotra (recuadro)"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "El supervisor de VFX Hong Jeong-ho durante su presentación en el DFX Tech Show."
               },
               {
                 "t": "p",
-                "x": "Un año después de lanzar su división de producción AI, Abundantia AiOn, la india Abundantia Entertainment la está transformando en un estudio AI nativo y totalmente independiente que buscará aprovechar la llegada de ideas de fuentes no tradicionales."
+                "x": "El DFX Tech Show es el programa insignia del Festival de Cine de Efectos Especiales de Daejeon (DFX), donde profesionales en activo del sector presentan tendencias industriales y tecnológicas e historias de producción. El 18 de septiembre, la sesión ‘Lo que no existe en la realidad, como si fuera real-UNREAL’ contó como ponentes con Jang Seong-ho, director de MOFAC Studio; Lee Jae-won, supervisor de modelado de DreamWorks, y Hong Jeong-ho, supervisor de VFX de Dexter Studios."
               },
               {
                 "t": "p",
-                "x": "“AiOn desarrollará sus propias historias, creará su propio contenido, producirá obras totalmente generadas e híbridas y gestionará todo el ecosistema, tal como hace Abundantia como estudio independiente”, dijo a Deadline su fundador y CEO, Vikram Malhotra. Según él, AiOn se lanzará como estudio de pleno derecho en 2027."
+                "x": "Jang señaló que en el sector empieza a aparecer el término ‘chip valley’ y que “la era en la que la AI se usa activamente en la producción de contenido audiovisual y resuelve muchas cosas por sí sola está a la vuelta de la esquina”, aunque al final lo decisivo es lo bien que se plasma la intención del creador. Hong repasó su trabajo en <Gunche> y explicó que la tendencia reciente es usar AI para crear previsualizaciones con una calidad cercana al resultado final. En la sesión ‘REAL’ del 19 de septiembre, directores de arte, artes marciales y maquillaje de efectos especiales hablaron de cómo combinar el trabajo físico con la producción actual."
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "Por ahora, Malhotra dirigirá AiOn. “De momento estará dentro de Abundantia, pero lo estamos construyendo de forma que tenga su propia identidad y alcance… Es de verdad una confluencia de tecnología y arte.”"
-              },
-              {
-                "t": "p",
-                "x": "Afirmó que en los últimos seis meses recibió “el triple de propuestas de personas que nunca han escrito, hecho películas ni pertenecido al ecosistema cinematográfico convencional” que en el pasado, y citó a directores como Curry Barker y Kane Parsons como prueba de una “democratización” de las ideas."
-              },
-              {
-                "t": "p",
-                "x": "A principios de este año, Abundantia también se asoció con la empresa de video AI InVideo en un estudio de cine que desarrolla una cartera de cinco películas."
+                "x": "El 18 de septiembre también se celebró la ceremonia de premios del concurso de video con AI ‘Ai AI que hace realidad la imaginación vol.2’, organizado por la ciudad de Daejeon. Se presentaron 504 obras, un 139% más que el año anterior, y los 19 trabajos premiados se repartieron un total de 4800만원. El presidente del jurado, Son Seung-hyun, director de Westworld, explicó que este año el foco estuvo en cuán completa y profunda era la historia construida con la AI como herramienta."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Abundantia AI\nAiOn 독립 스튜디오로",
-          "body": "Abundantia Entertainment가 AI 조직 AiOn을 독립시킨다.",
-          "mini_headline": "Abundantia, AiOn 분사",
+        "en": {
+          "headline": "DFX Tech Show and Daejeon's\nAI video contest",
+          "body": "VFX practitioners' talks and Daejeon's AI video contest showed the front line of moving-image technology.",
+          "mini_headline": "DFX Tech Show, AI contest",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "'Subedaar', 'Maa Behen', 'Daldal'; Vikram Malhotra(작은 사진)"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "VFX supervisor Hong Jeong-ho presenting at the DFX Tech Show."
               },
               {
                 "t": "p",
-                "x": "AI 제작 부문 Abundantia AiOn을 출범한 지 한 해 만에, 인도의 Abundantia Entertainment가 이를 완전히 독립된 네이티브 AI 스튜디오로 바꾸고 있다. 전통적이지 않은 곳에서 들어오는 아이디어를 적극 받아들이겠다는 구상이다."
+                "x": "The DFX Tech Show is the flagship program of the Daejeon Special Effects Film Festival (DFX), where working professionals in the special-effects industry present industry and technology trends and behind-the-scenes production stories. At the September 18 session ‘What does not exist in reality, as if real-UNREAL’, the speakers were Jang Seong-ho, director at MOFAC Studio; Lee Jae-won, modeling supervisor at DreamWorks; and Hong Jeong-ho, VFX supervisor at Dexter Studios."
               },
               {
                 "t": "p",
-                "x": "“AiOn은 Abundantia가 독립 스튜디오로서 하듯 자체 이야기를 개발하고, 자체 콘텐츠를 만들고, 완전 생성형 작품과 하이브리드 작품을 제작하며, 생태계 전체를 관리할 것입니다.” 창업자이자 CEO인 Vikram Malhotra가 Deadline에 한 말이다. 그는 AiOn이 2027년 온전한 스튜디오로 출범한다고 밝혔다."
+                "x": "Director Jang said the term ‘chip valley’ is emerging in the industry and that “an era in which AI is actively used in video content production and AI solves many things on its own is just around the corner,” but that what ultimately matters is how well the creator's intent is realized. Supervisor Hong looked back on his work on <Gunche>, explaining that the recent trend is to use AI to make previs close in quality to the final output. At the September 19 ‘REAL’ session, art, martial arts and special makeup directors spoke about combining physical work with recent production."
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "당분간은 Malhotra가 AiOn을 이끈다. “지금은 Abundantia 안에 두지만, 고유한 정체성과 범위를 갖도록 만들고 있습니다… 진정 기술과 예술이 만나는 지점입니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그는 지난 여섯 달 동안 “글을 써 본 적도, 영화를 만든 적도, 기존 영화 제작 생태계에 속한 적도 없는 사람들”에게서 과거보다 세 배 많은 피치를 받았다고 말했다. 그리고 Curry Barker와 Kane Parsons 같은 감독을 아이디어 “민주화”의 증거로 들었다."
-              },
-              {
-                "t": "p",
-                "x": "Abundantia는 올해 초 AI 영상 기업 InVideo와도 손잡고 영화 다섯 편을 개발하는 영화 스튜디오를 꾸렸다."
+                "x": "On September 18, Daejeon City also held the awards ceremony for its AI video contest ‘Ai AI That Realizes Imagination vol.2’. Entries reached 504, up 139% from last year, and 19 winning works shared total prize money of 4800만원. Jury chair Son Seung-hyun, head of Westworld, said this year's judging focused on how complete and deep a story entrants built with AI as a tool."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Abundantia傘下の\nAiOnが独立AIスタジオに",
-          "body": "Abundantia EntertainmentがAI部門AiOnを独立スタジオにする。",
-          "mini_headline": "AbundantiaがAiOnを独立",
+          "headline": "DFXテックショーと\n大田AI映像公募展",
+          "body": "VFX現場の発表と大田のAI映像公募展が、映像技術の最前線を示した。",
+          "mini_headline": "DFXテックショー・AI公募展",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "『Subedaar』『Maa Behen』『Daldal』、Vikram Malhotra（挿入写真）"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "DFXテックショーで発表するホン・ジョンホVFXスーパーバイザー。"
               },
               {
                 "t": "p",
-                "x": "AI制作部門Abundantia AiOnを立ち上げてから一年、インドのAbundantia Entertainmentはこれを完全に独立したネイティブAIスタジオへと移行させている。従来とは異なる出どころから流れ込むアイデアを取り込む狙いだ。"
+                "x": "DFXテックショーは大田特殊映像映画祭(DFX)の看板プログラムで、特殊映像業界の現役専門家が産業・技術の動向や制作の裏話を発表する場だ。9月18日の「現実にないものを、本物のように-UNREAL」セッションには、MOFAC Studioのチャン・ソンホ監督、DreamWorksのイ・ジェウォン・モデリングスーパーバイザー、Dexter Studiosのホン・ジョンホVFXスーパーバイザーが登壇した。"
               },
               {
                 "t": "p",
-                "x": "「AiOnは、Abundantiaが独立スタジオとしてそうしているように、独自の物語を開発し、独自のコンテンツを作り、完全生成型とハイブリッド型の作品を制作し、エコシステム全体を管理する」と、創業者でCEOのVikram MalhotraはDeadlineに語った。AiOnは2027年に本格的なスタジオとして始動するという。"
+                "x": "チャン・ソンホ監督は、業界に「チップバレー」という言葉が現れていると述べ、「映像コンテンツ制作にAIを積極的に使い、AIが多くのことを自ら解決する時代はすぐそこ」だが、結局は創作者の意図がどれだけうまく実現されたかが鍵だと語った。ホン・ジョンホ・スーパーバイザーは『群体』の作業を振り返り、最近はAIで最終成果物に近い品質のプリビズを作るのが流れだと説明した。9月19日の「REAL」セッションでは、美術・武術・特殊メイクの監督たちが、物理的な作業と最近のプロダクションの組み合わせについて講演した。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "当面はMalhotraがAiOnを率いる。「今のところはAbundantiaの中に置くが、独自のアイデンティティと領域を持つように作っている…まさに技術と芸術の合流だ」"
-              },
-              {
-                "t": "p",
-                "x": "彼によれば、この六か月で「脚本を書いたことも映画を作ったこともなく、従来の映画制作のエコシステムに属したこともない人々」からの企画提案が以前の三倍に増えた。Curry BarkerやKane Parsonsといった監督を、アイデアの「民主化」の証拠として挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "Abundantiaは今年初め、AI動画企業InVideoとも組み、五本の映画を開発する映画スタジオを立ち上げている。"
+                "x": "9月18日には、大田市主催のAI映像公募展「想像を実現するアイ AI vol.2」の授賞式も開かれた。応募作は504本で前年より139%増え、19本の受賞作に賞金総額4800만원が贈られた。審査委員長を務めたWestworld代表のソン・スンヒョンは、今年はAIという道具でどれだけ完成度が高く深みのある物語を作ったかに焦点を当てたと明かした。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Abundantia旗下\nAiOn独立为AI工作室",
-          "body": "印度Abundantia Entertainment将AI部门AiOn转为独立工作室。",
-          "mini_headline": "Abundantia分拆AiOn",
+          "headline": "DFX技术秀与\n大田AI影像大赛",
+          "body": "VFX一线从业者的演讲与大田AI影像大赛，展现了影像技术的最前沿。",
+          "mini_headline": "DFX技术秀·AI大赛",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "《Subedaar》《Maa Behen》《Daldal》；Vikram Malhotra（小图）"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "正在DFX技术秀上演讲的VFX总监Hong Jeong-ho。"
               },
               {
                 "t": "p",
-                "x": "在推出AI制作部门Abundantia AiOn一年后，印度的Abundantia Entertainment正将其转型为完全独立的原生AI工作室，力求吸纳来自非传统渠道的大量创意。"
+                "x": "DFX技术秀是大田特殊影像电影节（DFX）的招牌项目，由特殊影像行业的一线专家分享产业与技术趋势以及制作幕后故事。9月18日“现实中不存在的，做得像真的一样-UNREAL”环节，MOFAC Studio导演Jang Seong-ho、DreamWorks建模总监Lee Jae-won、Dexter Studios VFX总监Hong Jeong-ho担任主讲。"
               },
               {
                 "t": "p",
-                "x": "“AiOn将开发自己的故事、创作自己的内容，制作完全生成和混合形式的作品，并管理整个生态系统，就像Abundantia作为独立工作室所做的那样。”创始人兼CEO Vikram Malhotra对Deadline表示。他说AiOn将于2027年以成熟工作室的形态启动。"
+                "x": "Jang Seong-ho导演表示，业界开始出现“chip valley”的说法，并称“在影像内容制作中积极使用AI、由AI自行解决许多问题的时代近在眼前”，但关键终究在于创作者的意图实现得如何。Hong Jeong-ho总监回顾了《群体》的制作，介绍说最近的趋势是用AI制作质量接近最终成片的预演。9月19日的“REAL”环节中，美术、武术与特效化妆导演们讲述了实体制作与近期制作方式的结合。"
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "目前由Malhotra领导AiOn。“眼下它会留在Abundantia内部，但我们正以赋予它独立身份和业务范围的方式来打造它……这真正是技术与艺术的交汇。”"
-              },
-              {
-                "t": "p",
-                "x": "他说，过去六个月里，他收到来自“从未写作、拍过电影或属于传统电影制作生态”的人的提案，是以往的三倍，并举出Curry Barker和Kane Parsons等导演，作为创意“民主化”的证据。"
-              },
-              {
-                "t": "p",
-                "x": "今年早些时候，Abundantia还与AI视频公司InVideo合作成立电影工作室，开发五部电影。"
+                "x": "9月18日还举行了大田市主办的AI影像大赛“实现想象的Ai AI vol.2”颁奖典礼。参赛作品共504部，比去年增加139%，19部获奖作品共分得总奖金4800만원。评审委员长、Westworld代表Son Seung-hyun表示，今年的评审重点是参赛者借助AI这一工具，讲出了多完整、多有深度的故事。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Abundantia convierte AiOn\nen un estudio AI independiente",
-          "body": "La india Abundantia Entertainment convertirá su brazo creativo AI, AiOn, en un estudio de producción independiente.",
-          "mini_headline": "Abundantia separa a AiOn",
+          "headline": "El DFX Tech Show y el concurso\nde video con AI de Daejeon",
+          "body": "Las charlas de profesionales de VFX y el concurso de video con AI de Daejeon mostraron la vanguardia audiovisual.",
+          "mini_headline": "DFX Tech Show y concurso AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Abundantia-Entertainment-e1791282566127.png?w=1024",
-                "cap": "'Subedaar', 'Maa Behen' y 'Daldal'; Vikram Malhotra (recuadro)"
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453de1939a[W680-].jpg",
+                "cap": "El supervisor de VFX Hong Jeong-ho durante su presentación en el DFX Tech Show."
               },
               {
                 "t": "p",
-                "x": "Un año después de lanzar su división de producción AI, Abundantia AiOn, la india Abundantia Entertainment la está transformando en un estudio AI nativo y totalmente independiente que buscará aprovechar la llegada de ideas de fuentes no tradicionales."
+                "x": "El DFX Tech Show es el programa insignia del Festival de Cine de Efectos Especiales de Daejeon (DFX), donde profesionales en activo del sector presentan tendencias industriales y tecnológicas e historias de producción. El 18 de septiembre, la sesión ‘Lo que no existe en la realidad, como si fuera real-UNREAL’ contó como ponentes con Jang Seong-ho, director de MOFAC Studio; Lee Jae-won, supervisor de modelado de DreamWorks, y Hong Jeong-ho, supervisor de VFX de Dexter Studios."
               },
               {
                 "t": "p",
-                "x": "“AiOn desarrollará sus propias historias, creará su propio contenido, producirá obras totalmente generadas e híbridas y gestionará todo el ecosistema, tal como hace Abundantia como estudio independiente”, dijo a Deadline su fundador y CEO, Vikram Malhotra. Según él, AiOn se lanzará como estudio de pleno derecho en 2027."
+                "x": "Jang señaló que en el sector empieza a aparecer el término ‘chip valley’ y que “la era en la que la AI se usa activamente en la producción de contenido audiovisual y resuelve muchas cosas por sí sola está a la vuelta de la esquina”, aunque al final lo decisivo es lo bien que se plasma la intención del creador. Hong repasó su trabajo en <Gunche> y explicó que la tendencia reciente es usar AI para crear previsualizaciones con una calidad cercana al resultado final. En la sesión ‘REAL’ del 19 de septiembre, directores de arte, artes marciales y maquillaje de efectos especiales hablaron de cómo combinar el trabajo físico con la producción actual."
+              },
+              {
+                "t": "img",
+                "src": "https://image.cine21.com/resize/cine21/article/2026/1006/110864_6ac453e05f083[W680-].jpg"
               },
               {
                 "t": "p",
-                "x": "Por ahora, Malhotra dirigirá AiOn. “De momento estará dentro de Abundantia, pero lo estamos construyendo de forma que tenga su propia identidad y alcance… Es de verdad una confluencia de tecnología y arte.”"
-              },
-              {
-                "t": "p",
-                "x": "Afirmó que en los últimos seis meses recibió “el triple de propuestas de personas que nunca han escrito, hecho películas ni pertenecido al ecosistema cinematográfico convencional” que en el pasado, y citó a directores como Curry Barker y Kane Parsons como prueba de una “democratización” de las ideas."
-              },
-              {
-                "t": "p",
-                "x": "A principios de este año, Abundantia también se asoció con la empresa de video AI InVideo en un estudio de cine que desarrolla una cartera de cinco películas."
+                "x": "El 18 de septiembre también se celebró la ceremonia de premios del concurso de video con AI ‘Ai AI que hace realidad la imaginación vol.2’, organizado por la ciudad de Daejeon. Se presentaron 504 obras, un 139% más que el año anterior, y los 19 trabajos premiados se repartieron un total de 4800만원. El presidente del jurado, Son Seung-hyun, director de Westworld, explicó que este año el foco estuvo en cuán completa y profunda era la historia construida con la AI como herramienta."
               }
             ]
           }
@@ -1069,15 +1112,15 @@
       }
     },
     {
-      "id": "movies-authors-first-book-adaptation-studio",
+      "id": "movies-messiah-bethlehem-restoration",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
-      "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
-      "mini_headline": "Authors First, 책 각색 지원",
+      "headline": "AI가 살린 마지막 VHS\n1994년 메시아 공연",
+      "body": "AI와 장인의 손길이 1994년 베들레헴 메시아 공연의 유일한 VHS를 살렸다.",
+      "mini_headline": "AI가 살린 1994년 공연 테이프",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/biz/news/ai-studio-authors-first-10-million-writers-adapt-books-1236898818/",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/ai-and-artistry-used-restore-lost-treasure-messiah-in-bethlehem-concert/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1085,295 +1128,386 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
           },
           {
             "t": "p",
-            "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 원래 그린 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기에 Blender를 비롯한 “기타 기술”을 더해, Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+            "x": "1994년 공연 Messiah in Bethlehem의 유일하게 남은 VHS 테이프가 극장 상영용으로 복원됐다. 이 공연은 그리스도가 태어난 교회에서 찍은 유일한 영상 기록이다. 이스라엘인과 팔레스타인인이 공동 제작했고 기독교인·무슬림·유대인 관객이 함께했다."
           },
           {
             "t": "p",
-            "x": "회사는 $10 million 이상의 시드 라운드로 출범하며, 여기에 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여했다. CEO는 Hamwee가 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 있다."
+            "x": "작업은 할리우드의 DigitalFilm Tree(DFT)가 맡았다. 원본 카세트를 타임베이스 보정으로 디지털화한 뒤, CTO 겸 시니어 컬러리스트 Thomas Galyon이 디지털 복원과 합성, 색 보정을 이끌었다."
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+            "cap": "복원 작업 중인 Thomas Galyon."
           },
           {
             "t": "p",
-            "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리와 카메라 앵글, 대사를 맡았지만 대부분은 AI로 생성했다. Iggulden은 역사 대작에 드는 예산 탓에 제안이 번번이 무산됐다며, 이 방식이 아니었다면 결코 각색되지 못했을 거라고 말한다."
+            "x": "이어 AI-based 도구가 노이즈, 흐림, 인터레이스, 화면 흔들림을 다뤘다. 480i를 1080p 또는 4K 수준으로 끌어올리는 초해상도, AI-assisted 디인터레이싱, 실제 디테일과 아날로그 노이즈를 구분하는 노이즈 제거, 인접 프레임으로 화면을 안정시키는 transformer 기반 모델을 썼다. 색은 DaVinci Resolve에서, 합성은 Nuke에서 마무리했고, 오디오는 히스·험 노이즈와 왜곡을 손봤다."
           },
           {
-            "t": "video",
-            "yt": "KarPbRqW_U8"
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Galyon은 “AI가 최종 결과물 Lost Treasure: Messiah in Bethlehem을 만든 것이 아니라 드러낸 것”이라고 썼다. 그에게 복원은 “발명이 아니라 되찾는 작업”이었다."
           }
         ]
       },
+      "lead_image": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg",
       "text": {
         "en": {
-          "headline": "A $10M-backed AI studio lets\nauthors adapt their own books",
-          "body": "Authors First, an AI studio backed by $10 million, pledges to help sci-fi and fantasy writers adapt books faithfully.",
-          "mini_headline": "Authors First backs book adaptations",
+          "headline": "AI restores the last VHS of\na 1994 Messiah concert",
+          "body": "AI and artistry rescued the only surviving VHS tape of Messiah in Bethlehem, a 1994 concert performance.",
+          "mini_headline": "AI saves a 1994 concert tape",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Authors First, founded by private equity veteran Robert Hamwee, promises to let science-fiction and fantasy scribes adapt their titles as closely to their intended vision as possible. It uses AI generators like Seedance 2.5 and Nano Banana plus “other technology,” including Blender, to craft adaptations without the budget constraints of Hollywood studios."
+                "x": "The only surviving VHS tape of Messiah in Bethlehem, a 1994 concert performance, has been restored for theatrical projection. The only visual media ever shot in the church where Christ was born, the concert was a co-production of Israelis and Palestinians, with an audience of Christians, Muslims and Jews."
               },
               {
                 "t": "p",
-                "x": "The company launches after a more than $10 million seed round that includes Hamwee, Brand Foundry and The Family Office of David Blitzer. Hamwee leads as CEO, with a team including veterans of Hulu, Warner Bros. and Universal."
+                "x": "The work was done by DigitalFilm Tree (DFT) in Hollywood. Its CTO and senior colorist Thomas Galyon led the digital restoration, compositing and color, after the original cassette was digitized with time-based correction."
               },
-              {
-                "t": "p",
-                "x": "Its first project is “Genghis: Birth of an Empire,” adapting Conn Iggulden’s 2007 book “Wolf of the Plains.” Roughly 25 humans worked on the story, camera angles and dialogue, though the project was mostly generated by AI. Iggulden says it would never have been adapted otherwise, as offers fizzled over the budget a historical epic needs."
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
-          "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
-          "mini_headline": "Authors First, 책 각색 지원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "Thomas Galyon at work on the restoration."
               },
               {
                 "t": "p",
-                "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 원래 그린 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기에 Blender를 비롯한 “기타 기술”을 더해, Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+                "x": "AI-based tools then tackled noise, blur, interlacing and instability: super-resolution from 480i toward 1080p or 4K, AI-assisted deinterlacing, noise reduction that separates real detail from analog noise, and transformer-based models that use neighboring frames for stabilization. Color was finished in DaVinci Resolve and compositing in Nuke, and the audio was repaired for hiss, hum and distortion."
               },
-              {
-                "t": "p",
-                "x": "회사는 $10 million 이상의 시드 라운드로 출범하며, 여기에 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여했다. CEO는 Hamwee가 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 있다."
-              },
-              {
-                "t": "p",
-                "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리와 카메라 앵글, 대사를 맡았지만 대부분은 AI로 생성했다. Iggulden은 역사 대작에 드는 예산 탓에 제안이 번번이 무산됐다며, 이 방식이 아니었다면 결코 각색되지 못했을 거라고 말한다."
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "$10M-backed AI\nスタジオで作家が自作を映像化",
-          "body": "$10 millionのAIスタジオAuthors Firstが原作の忠実な映像化を担う。",
-          "mini_headline": "Authors Firstが書籍の映像化を支援",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
               },
               {
                 "t": "p",
-                "x": "プライベートエクイティのベテラン、Robert Hamweeが創業したAuthors Firstは、SFやファンタジーの作家が自作を本来思い描いたビジョンにできる限り近い形で映像化できるようにすると約束する。Seedance 2.5やNano BananaといったAI生成ツールに、Blenderなどの「その他の技術」を組み合わせ、Hollywoodスタジオのような予算の制約なしに映像化作品を作る。"
-              },
-              {
-                "t": "p",
-                "x": "同社は、Hamwee、Brand Foundry、The Family Office of David Blitzerが参加した$10 millionを超えるシードラウンドを経て始動する。HamweeがCEOを務め、チームにはHulu、Warner Bros.、Universalの出身者が加わる。"
-              },
-              {
-                "t": "p",
-                "x": "第一弾は、Conn Igguldenの2007年の本「Wolf of the Plains」を映像化した「Genghis: Birth of an Empire」だ。約25人がストーリー、カメラアングル、台詞に携わったが、作品の大部分はAIで生成された。Igguldenは、歴史大作に必要な予算を理由にオファーが立ち消えになってきたため、この方法でなければ映像化されることはなかったと語る。"
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "$10M-backed AI\n工作室助作者改编自己的书",
-          "body": "AI工作室Authors First获$10 million支持，助作家忠实改编原著。",
-          "mini_headline": "Authors First助力图书改编",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "由私募股权老将Robert Hamwee创立的Authors First承诺，让科幻和奇幻作家尽可能贴近自己的原本构想来改编作品。它借助Seedance 2.5、Nano Banana等AI生成工具以及包括Blender在内的“其他技术”，在不受Hollywood制片厂预算限制的情况下打造改编作品。"
-              },
-              {
-                "t": "p",
-                "x": "公司在完成超过$10 million的种子轮融资后成立，参投方包括Hamwee、Brand Foundry和The Family Office of David Blitzer。Hamwee出任CEO，团队成员包括来自Hulu、Warner Bros.和Universal的资深人士。"
-              },
-              {
-                "t": "p",
-                "x": "其首个项目是《Genghis: Birth of an Empire》，改编自Conn Iggulden 2007年的书《Wolf of the Plains》。约25人参与了故事、镜头角度和对白的工作，但项目大部分由AI生成。Iggulden表示，由于历史史诗所需的预算，此前的邀约都不了了之，否则这部作品永远不会被改编。"
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
+                "x": "“AI did not create the final product, Lost Treasure: Messiah in Bethlehem; it revealed it,” Galyon writes. The restoration was “an act of recovery, not invention.”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un estudio AI con $10M ayuda\na autores a adaptar sus libros",
-          "body": "Authors First, estudio AI con $10 millones, ayuda a autores de ciencia ficción y fantasía a adaptar sus libros.",
-          "mini_headline": "Authors First impulsa adaptaciones de libros",
+          "headline": "La AI restaura el último VHS\ndel concierto Messiah de 1994",
+          "body": "La AI y el oficio rescataron la única cinta VHS de Messiah in Bethlehem, un concierto de 1994.",
+          "mini_headline": "La AI salva una cinta de 1994",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "Authors First, fundada por Robert Hamwee, veterano del capital privado, promete que los autores de ciencia ficción y fantasía puedan adaptar sus títulos lo más fielmente posible a la visión que tenían. Utiliza generadores AI como Seedance 2.5 y Nano Banana, además de “otra tecnología”, como Blender, para crear adaptaciones sin las limitaciones de presupuesto de los estudios de Hollywood."
+                "x": "La única cinta VHS que se conserva de Messiah in Bethlehem, un concierto de 1994, ha sido restaurada para su proyección en salas. Único material audiovisual rodado en la iglesia donde nació Cristo, el concierto fue una coproducción de israelíes y palestinos, ante un público de cristianos, musulmanes y judíos."
               },
               {
                 "t": "p",
-                "x": "La empresa se lanza tras una ronda semilla de más de $10 millones en la que participan Hamwee, Brand Foundry y The Family Office of David Blitzer. Hamwee la dirige como CEO, con un equipo que incluye a veteranos de Hulu, Warner Bros. y Universal."
+                "x": "El trabajo lo realizó DigitalFilm Tree (DFT) en Hollywood. Su CTO y colorista sénior, Thomas Galyon, dirigió la restauración digital, la composición y el color, después de que el casete original se digitalizara con corrección de base de tiempo (time-based correction)."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "Thomas Galyon, durante el trabajo de restauración."
               },
               {
                 "t": "p",
-                "x": "Su primer proyecto es “Genghis: Birth of an Empire”, adaptación del libro de 2007 de Conn Iggulden “Wolf of the Plains”. Unas 25 personas trabajaron en la historia, los ángulos de cámara y los diálogos, aunque el proyecto se generó en su mayor parte con AI. Iggulden afirma que de otro modo nunca se habría adaptado, porque las ofertas se diluían ante el presupuesto que exige una épica histórica."
+                "x": "Después, herramientas AI-based abordaron el ruido, el desenfoque, el entrelazado y la inestabilidad: superresolución (super-resolution) de 480i hacia 1080p o 4K, desentrelazado AI-assisted, reducción de ruido que separa el detalle real del ruido analógico y modelos transformer-based que usan fotogramas vecinos para estabilizar la imagen. El color se terminó en DaVinci Resolve y la composición en Nuke, y en el audio se corrigieron el siseo, el zumbido y la distorsión."
               },
               {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "“La AI no creó el producto final, Lost Treasure: Messiah in Bethlehem; lo reveló”, escribe Galyon. La restauración fue “un acto de recuperación, no de invención”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 살린 마지막 VHS\n1994년 메시아 공연",
+          "body": "AI와 장인의 손길이 1994년 베들레헴 메시아 공연의 유일한 VHS를 살렸다.",
+          "mini_headline": "AI가 살린 1994년 공연 테이프",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "1994년 공연 Messiah in Bethlehem의 유일하게 남은 VHS 테이프가 극장 상영용으로 복원됐다. 이 공연은 그리스도가 태어난 교회에서 찍은 유일한 영상 기록이다. 이스라엘인과 팔레스타인인이 공동 제작했고 기독교인·무슬림·유대인 관객이 함께했다."
+              },
+              {
+                "t": "p",
+                "x": "작업은 할리우드의 DigitalFilm Tree(DFT)가 맡았다. 원본 카세트를 타임베이스 보정으로 디지털화한 뒤, CTO 겸 시니어 컬러리스트 Thomas Galyon이 디지털 복원과 합성, 색 보정을 이끌었다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "복원 작업 중인 Thomas Galyon."
+              },
+              {
+                "t": "p",
+                "x": "이어 AI-based 도구가 노이즈, 흐림, 인터레이스, 화면 흔들림을 다뤘다. 480i를 1080p 또는 4K 수준으로 끌어올리는 초해상도, AI-assisted 디인터레이싱, 실제 디테일과 아날로그 노이즈를 구분하는 노이즈 제거, 인접 프레임으로 화면을 안정시키는 transformer 기반 모델을 썼다. 색은 DaVinci Resolve에서, 합성은 Nuke에서 마무리했고, 오디오는 히스·험 노이즈와 왜곡을 손봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Galyon은 “AI가 최종 결과물 Lost Treasure: Messiah in Bethlehem을 만든 것이 아니라 드러낸 것”이라고 썼다. 그에게 복원은 “발명이 아니라 되찾는 작업”이었다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが救った最後のVHS\n1994年メサイア公演",
+          "body": "AIと職人技が、1994年の『ベツレヘムのメサイア』公演の唯一のVHSを救った。",
+          "mini_headline": "AIが1994年の公演テープを救う",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "1994年の公演『Messiah in Bethlehem』の唯一現存するVHSテープが、劇場上映用に復元された。キリストが生まれた教会で撮影された唯一の映像記録であるこの公演は、イスラエル人とパレスチナ人の共同制作で、キリスト教徒、イスラム教徒、ユダヤ教徒が客席に集った。"
+              },
+              {
+                "t": "p",
+                "x": "作業はハリウッドのDigitalFilm Tree(DFT)が担当した。元のカセットをタイムベース補正付きでデジタル化した後、同社CTOでシニアカラリストのThomas Galyonがデジタル復元、合成、カラーを率いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "復元作業に取り組むThomas Galyon。"
+              },
+              {
+                "t": "p",
+                "x": "続いてAI-basedのツールが、ノイズ、ぼやけ、インターレース、映像の不安定さに対処した。用いたのは超解像（480iから1080pまたは4K）、AI-assistedのデインターレース、実際のディテールとアナログノイズを分離するノイズ除去、隣接フレームを使って安定化するtransformerベースのモデルだ。カラーはDaVinci Resolve、合成はNukeで仕上げ、音声はヒス、ハム、歪みを修復した。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "「AIが最終作品『Lost Treasure: Messiah in Bethlehem』を生み出したのではない。それを明らかにしたのだ」とGalyonは記す。復元は「発明ではなく回復の行為」だったという。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI修复最后一盘VHS\n1994年弥赛亚音乐会",
+          "body": "AI与匠心挽救了1994年《伯利恒弥赛亚》音乐会仅存的VHS录像带。",
+          "mini_headline": "AI挽救1994年音乐会录像",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "1994年音乐会演出《Messiah in Bethlehem》仅存的VHS录像带已修复至可供影院放映。这是在基督诞生的教堂内拍摄的唯一影像，音乐会由以色列人和巴勒斯坦人联合制作，观众包括基督徒、穆斯林和犹太人。"
+              },
+              {
+                "t": "p",
+                "x": "修复工作由好莱坞的DigitalFilm Tree（DFT）完成。原始录像带经时基校正数字化后，由该公司CTO兼高级调色师Thomas Galyon主导数字修复、合成与调色。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "Thomas Galyon正在进行修复工作。"
+              },
+              {
+                "t": "p",
+                "x": "随后，AI-based工具处理了噪点、模糊、隔行扫描和画面不稳等问题：超分辨率（从480i提升至1080p或4K）、AI-assisted去隔行、区分真实细节与模拟噪声的降噪，以及利用相邻帧实现稳定的transformer架构模型。调色在DaVinci Resolve中完成，合成在Nuke中完成，音频则修复了嘶声、嗡声和失真。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Galyon写道：“AI并没有创造最终作品《Lost Treasure: Messiah in Bethlehem》，而是让它显现出来。”这次修复是“一次找回，而非发明”。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "$10M-backed AI\n스튜디오, 작가 직접 각색",
-          "body": "$10 million AI 스튜디오 Authors First가 책 각색을 돕는다.",
-          "mini_headline": "Authors First, 책 각색 지원",
+        "es": {
+          "headline": "La AI restaura el último VHS\ndel concierto Messiah de 1994",
+          "body": "La AI y el oficio rescataron la única cinta VHS de Messiah in Bethlehem, un concierto de 1994.",
+          "mini_headline": "La AI salva una cinta de 1994",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "사모펀드 베테랑 Robert Hamwee가 세운 Authors First는 공상과학·판타지 작가가 자신이 의도한 비전에 최대한 가깝게 작품을 각색하도록 돕겠다고 약속한다. Seedance 2.5, Nano Banana 같은 AI 생성기와 Blender를 비롯한 “기타 기술”을 활용해 Hollywood 스튜디오의 예산 제약 없이 각색물을 만든다."
+                "x": "La única cinta VHS que se conserva de Messiah in Bethlehem, un concierto de 1994, ha sido restaurada para su proyección en salas. Único material audiovisual rodado en la iglesia donde nació Cristo, el concierto fue una coproducción de israelíes y palestinos, ante un público de cristianos, musulmanes y judíos."
               },
               {
                 "t": "p",
-                "x": "회사는 Hamwee, Brand Foundry, The Family Office of David Blitzer가 참여한 $10 million 이상의 시드 라운드를 거쳐 출범한다. Hamwee가 CEO를 맡고, 팀에는 Hulu, Warner Bros., Universal 출신이 포함됐다."
+                "x": "El trabajo lo realizó DigitalFilm Tree (DFT) en Hollywood. Su CTO y colorista sénior, Thomas Galyon, dirigió la restauración digital, la composición y el color, después de que el casete original se digitalizara con corrección de base de tiempo (time-based correction)."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "Thomas Galyon, durante el trabajo de restauración."
               },
               {
                 "t": "p",
-                "x": "첫 프로젝트는 Conn Iggulden의 2007년 책 “Wolf of the Plains”를 각색한 “Genghis: Birth of an Empire”다. 약 25명이 스토리, 카메라 앵글, 대사 작업에 참여했지만 대부분은 AI로 생성됐다. Iggulden은 역사 대작에 필요한 예산 문제로 제안이 번번이 무산됐기에, 이 방식이 아니었다면 결코 각색되지 못했을 것이라고 말한다."
+                "x": "Después, herramientas AI-based abordaron el ruido, el desenfoque, el entrelazado y la inestabilidad: superresolución (super-resolution) de 480i hacia 1080p o 4K, desentrelazado AI-assisted, reducción de ruido que separa el detalle real del ruido analógico y modelos transformer-based que usan fotogramas vecinos para estabilizar la imagen. El color se terminó en DaVinci Resolve y la composición en Nuke, y en el audio se corrigieron el siseo, el zumbido y la distorsión."
               },
               {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "“La AI no creó el producto final, Lost Treasure: Messiah in Bethlehem; lo reveló”, escribe Galyon. La restauración fue “un acto de recuperación, no de invención”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI가 살린 마지막 VHS\n1994년 메시아 공연",
+          "body": "AI와 장인의 손길이 1994년 베들레헴 메시아 공연의 유일한 VHS를 살렸다.",
+          "mini_headline": "AI가 살린 1994년 공연 테이프",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
+              },
+              {
+                "t": "p",
+                "x": "1994년 공연 Messiah in Bethlehem의 유일하게 남은 VHS 테이프가 극장 상영용으로 복원됐다. 그리스도가 태어난 교회에서 촬영된 유일한 영상 기록인 이 공연은 이스라엘인과 팔레스타인인이 공동 제작했고, 기독교인·무슬림·유대인 관객이 함께했다."
+              },
+              {
+                "t": "p",
+                "x": "작업은 할리우드의 DigitalFilm Tree(DFT)가 맡았다. 원본 카세트를 타임베이스 보정으로 디지털화한 뒤, CTO 겸 시니어 컬러리스트 Thomas Galyon이 디지털 복원과 합성, 색 보정을 이끌었다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "복원 작업 중인 Thomas Galyon."
+              },
+              {
+                "t": "p",
+                "x": "이어 AI-based 도구가 노이즈, 흐림, 인터레이스, 화면 흔들림을 다뤘다. 480i를 1080p 또는 4K 수준으로 끌어올리는 초해상도, AI-assisted 디인터레이싱, 실제 디테일과 아날로그 노이즈를 구분하는 노이즈 제거, 인접 프레임으로 화면을 안정시키는 transformer 기반 모델이 쓰였다. 색은 DaVinci Resolve에서, 합성은 Nuke에서 마무리했고, 오디오는 히스·험 노이즈와 왜곡을 손봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Galyon은 “AI가 최종 결과물 Lost Treasure: Messiah in Bethlehem을 만든 것이 아니라 드러낸 것”이라고 썼다. 복원은 “발명이 아니라 되찾는 작업”이었다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "$10M-backed AI\nスタジオで作家が自作を映像化",
-          "body": "$10 millionのAIスタジオAuthors Firstが原作の忠実な映像化を担う。",
-          "mini_headline": "Authors Firstが書籍の映像化を支援",
+          "headline": "AIが救った最後のVHS\n1994年メサイア公演",
+          "body": "AIと職人技が、1994年の『ベツレヘムのメサイア』公演の唯一のVHSを救った。",
+          "mini_headline": "AIが1994年の公演テープを救う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "プライベートエクイティのベテラン、Robert Hamweeが創業したAuthors Firstは、SFやファンタジーの作家が自作を本来思い描いたビジョンにできる限り近い形で映像化できるようにすると約束する。Seedance 2.5やNano BananaといったAI生成ツールに、Blenderなどの「その他の技術」を組み合わせ、Hollywoodスタジオのような予算の制約なしに映像化作品を作る。"
+                "x": "1994年の公演『Messiah in Bethlehem』の唯一現存するVHSテープが、劇場上映用に復元された。キリストが生まれた教会で撮影された唯一の映像記録であるこの公演は、イスラエル人とパレスチナ人の共同制作で、キリスト教徒、イスラム教徒、ユダヤ教徒が客席に集った。"
               },
               {
                 "t": "p",
-                "x": "同社は、Hamwee、Brand Foundry、The Family Office of David Blitzerが参加した$10 millionを超えるシードラウンドを経て始動する。HamweeがCEOを務め、チームにはHulu、Warner Bros.、Universalの出身者が加わる。"
+                "x": "作業はハリウッドのDigitalFilm Tree(DFT)が担当した。元のカセットをタイムベース補正付きでデジタル化した後、同社CTOでシニアカラリストのThomas Galyonがデジタル復元、合成、カラーを率いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "復元作業に取り組むThomas Galyon。"
               },
               {
                 "t": "p",
-                "x": "第一弾は、Conn Igguldenの2007年の本「Wolf of the Plains」を映像化した「Genghis: Birth of an Empire」だ。約25人がストーリー、カメラアングル、台詞に携わったが、作品の大部分はAIで生成された。Igguldenは、歴史大作に必要な予算を理由にオファーが立ち消えになってきたため、この方法でなければ映像化されることはなかったと語る。"
+                "x": "続いてAI-basedのツールが、ノイズ、ぼやけ、インターレース、映像の不安定さに対処した。用いたのは超解像（480iから1080pまたは4K）、AI-assistedのデインターレース、実際のディテールとアナログノイズを分離するノイズ除去、隣接フレームを使って安定化するtransformerベースのモデルだ。カラーはDaVinci Resolve、合成はNukeで仕上げ、音声はヒス、ハム、歪みを修復した。"
               },
               {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "「AIが最終作品『Lost Treasure: Messiah in Bethlehem』を生み出したのではない。それを明らかにしたのだ」とGalyonは記す。復元は「発明ではなく回復の行為」だったという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "$10M-backed AI\n工作室助作者改编自己的书",
-          "body": "AI工作室Authors First获$10 million支持，助作家忠实改编原著。",
-          "mini_headline": "Authors First助力图书改编",
+          "headline": "AI修复最后一盘VHS\n1994年弥赛亚音乐会",
+          "body": "AI与匠心挽救了1994年《伯利恒弥赛亚》音乐会仅存的VHS录像带。",
+          "mini_headline": "AI挽救1994年音乐会录像",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-Main-image-from-poster-copyno-txt-copy.jpg"
               },
               {
                 "t": "p",
-                "x": "由私募股权老将Robert Hamwee创立的Authors First承诺，让科幻和奇幻作家尽可能贴近自己的原本构想来改编作品。它借助Seedance 2.5、Nano Banana等AI生成工具以及包括Blender在内的“其他技术”，在不受Hollywood制片厂预算限制的情况下打造改编作品。"
+                "x": "1994年音乐会演出《Messiah in Bethlehem》仅存的VHS录像带已修复至可供影院放映。这是在基督诞生的教堂内拍摄的唯一影像，音乐会由以色列人和巴勒斯坦人联合制作，观众包括基督徒、穆斯林和犹太人。"
               },
               {
                 "t": "p",
-                "x": "公司在完成超过$10 million的种子轮融资后成立，参投方包括Hamwee、Brand Foundry和The Family Office of David Blitzer。Hamwee出任CEO，团队成员包括来自Hulu、Warner Bros.和Universal的资深人士。"
+                "x": "修复工作由好莱坞的DigitalFilm Tree（DFT）完成。原始录像带经时基校正数字化后，由该公司CTO兼高级调色师Thomas Galyon主导数字修复、合成与调色。"
               },
-              {
-                "t": "p",
-                "x": "其首个项目是《Genghis: Birth of an Empire》，改编自Conn Iggulden 2007年的书《Wolf of the Plains》。约25人参与了故事、镜头角度和对白的工作，但项目大部分由AI生成。Iggulden表示，由于历史史诗所需的预算，此前的邀约都不了了之，否则这部作品永远不会被改编。"
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un estudio AI con $10M ayuda\na autores a adaptar sus libros",
-          "body": "Authors First, estudio AI con $10 millones, ayuda a autores de ciencia ficción y fantasía a adaptar sus libros.",
-          "mini_headline": "Authors First impulsa adaptaciones de libros",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Adobe-Express-file-2.jpg?w=1000&h=563&crop=1"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-treasure-Thomas-Gaylon-2.jpeg",
+                "cap": "Thomas Galyon正在进行修复工作。"
               },
               {
                 "t": "p",
-                "x": "Authors First, fundada por Robert Hamwee, veterano del capital privado, promete que los autores de ciencia ficción y fantasía puedan adaptar sus títulos lo más fielmente posible a la visión que tenían. Utiliza generadores AI como Seedance 2.5 y Nano Banana, además de “otra tecnología”, como Blender, para crear adaptaciones sin las limitaciones de presupuesto de los estudios de Hollywood."
+                "x": "随后，AI-based工具处理了噪点、模糊、隔行扫描和画面不稳等问题：超分辨率（从480i提升至1080p或4K）、AI-assisted去隔行、区分真实细节与模拟噪声的降噪，以及利用相邻帧实现稳定的transformer架构模型。调色在DaVinci Resolve中完成，合成在Nuke中完成，音频则修复了嘶声、嗡声和失真。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Lost-Treasure-side-by-side-1.jpg"
               },
               {
                 "t": "p",
-                "x": "La empresa se lanza tras una ronda semilla de más de $10 millones en la que participan Hamwee, Brand Foundry y The Family Office of David Blitzer. Hamwee la dirige como CEO, con un equipo que incluye a veteranos de Hulu, Warner Bros. y Universal."
-              },
-              {
-                "t": "p",
-                "x": "Su primer proyecto es “Genghis: Birth of an Empire”, adaptación del libro de 2007 de Conn Iggulden “Wolf of the Plains”. Unas 25 personas trabajaron en la historia, los ángulos de cámara y los diálogos, aunque el proyecto se generó en su mayor parte con AI. Iggulden afirma que de otro modo nunca se habría adaptado, porque las ofertas se diluían ante el presupuesto que exige una épica histórica."
-              },
-              {
-                "t": "video",
-                "yt": "KarPbRqW_U8"
+                "x": "Galyon写道：“AI并没有创造最终作品《Lost Treasure: Messiah in Bethlehem》，而是让它显现出来。”这次修复是“一次找回，而非发明”。"
               }
             ]
           }
@@ -1381,279 +1515,166 @@
       }
     },
     {
-      "id": "movies-sinima-creative-ownership-platform",
+      "id": "movies-serhant-heygen-avatar",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
-      "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
-      "mini_headline": "Sinima, AI로부터 영화 보호",
+      "headline": "Ryan Serhant,\nHeyGen과 AI 분신",
+      "body": "Ryan Serhant가 HeyGen과 손잡고 자신의 AI 아바타 계정을 연다.",
+      "mini_headline": "Serhant의 HeyGen AI 분신",
       "tool": "Movies",
-      "source": "No Film School",
-      "url": "https://nofilmschool.com/sinima-creative-ownership-platform",
+      "source": "Variety",
+      "url": "https://variety.com/2026/biz/news/owning-manhattan-star-ryan-serhant-heygen-ai-avatar-1236904752/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "베타를 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고 보호하고 모니터링하며 수익까지 낼 수 있는 새 공간을 내세운다. 중심에는 회사가 “창작 소유권”이라 부르는 개념이 있다."
-          },
-          {
             "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-            "cap": "출처: Sinima"
+            "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima가 겨냥하는 문제는 두 가지다. 크리에이터는 자기 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 합법적으로 학습할 길이 많지 않다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-            "cap": "출처: Sinima"
+            "x": "Netflix ‘Owning Manhattan’의 스타 부동산 중개인 Ryan Serhant는 자신의 회사가 한 달에 소셜 게시물 약 2,200건을 만들고, 사내(in-house) 제작 스튜디오 인원이 100명 남짓이라고 말한다. 그런 그가 이번엔 HeyGen과 손잡고 자기 모습을 본뜬 AI 아바타가 이끄는 소셜 미디어 계정을 만들었다. 아바타는 Instagram, TikTok, X에 @HeySerhant로 등장해 수십 년 부동산 경력에서 얻은 교훈을 전한다."
           },
           {
             "t": "p",
-            "x": "호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가 기능을 갖췄다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+            "x": "“수년간 쌓은 교훈이 있지만 그걸 콘텐츠로 만들 시간이 늘 있는 건 아니다.” 그가 Variety에 한 말이다. “얼굴을 중심으로 브랜드를 세웠다면, 목소리를 중심으로 브랜드를 세웠다면, 그걸 어떻게 확장할 수 있을까?”"
           },
           {
             "t": "p",
-            "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 받는다. 현재 요율표는 자격을 갖추고 권리 처리를 마친 영상을 시간당 $4,000~$7,500로 매긴다. 크리에이터에게는 처리된 시간당 $3,400~$6,375가 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-            "cap": "출처: Sinima"
-          },
-          {
-            "t": "p",
-            "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+            "x": "계정은 최소 12개월 동안 하루 한 편 이상 영상을 올리고, 영상마다 Serhant와 그의 팀이 손을 보탠다. “CEO의 하루” 같은 그의 개인 콘텐츠를 대체하지는 않는다. 이번 계약은 Fountain 0와 손잡은 Sunny Hostin처럼 자기 초상을 AI 기업에 라이선스한 다른 인물들의 뒤를 잇는다."
           }
         ]
       },
+      "lead_image": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1",
       "text": {
         "en": {
-          "headline": "Sinima helps filmmakers guard\ntheir work from AI training",
-          "body": "Sinima's new platform aims to give filmmakers protection, visibility and control over the work they upload online.",
-          "mini_headline": "Sinima guards films from AI",
+          "headline": "Ryan Serhant teams with HeyGen\non an AI avatar of himself",
+          "body": "'Owning Manhattan' star Ryan Serhant partnered with HeyGen on a social media presence led by an AI avatar of himself.",
+          "mini_headline": "Serhant's HeyGen AI double",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Just launched after a beta run, Sinima aims to be a new space for filmmakers and creators to host, protect, monitor, and earn on their films and videos, with a focus on what it calls “creative ownership.”"
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "Credit: Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Launched by founders that include a former VP at Vimeo, Sinima targets two problems: creators can’t be sure whether their uploads are used to train AI models, while AI companies have limited legal avenues to train on real footage."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "Credit: Sinima"
+                "x": "Ryan Serhant, the star realtor of Netflix’s “Owning Manhattan,” says his company produces about 2,200 social posts a month, with an in-house production studio of roughly 100 people. Now he has partnered with HeyGen to build a social media presence featuring an AI avatar modeled after his likeness, appearing on Instagram, TikTok and X as @HeySerhant to share lessons from decades in real estate."
               },
               {
                 "t": "p",
-                "x": "Features include hosting, private client review, ownership and provenance records, match monitoring, and creator-controlled AI permissions. Each upload gets a unique digital fingerprint and an ownership certificate with a public verification link, with details recorded in C2PA-format manifests."
+                "x": "“I’ve accumulated years of lessons that I don’t always have time to turn into content,” he tells Variety. “If you have a brand built around a face, if you have a brand built around a voice, how do you scale that?”"
               },
               {
                 "t": "p",
-                "x": "When a title is licensed for AI training, creators keep 85% of what the buyer pays. The current rate card values eligible, rights-cleared footage at $4,000 to $7,500 per hour, so $3,400 to $6,375 per cleared hour goes to the creator."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "Credit: Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima is free to get started, with subscription plans starting at $15 a month."
+                "x": "The account will produce at least one video a day for at least 12 months, with Serhant and his team working on each one. It won’t replace his personal content, such as “day in the life of a CEO” videos. The deal follows other figures licensing their likeness to AI companies, including Sunny Hostin with Fountain 0."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
-          "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
-          "mini_headline": "Sinima, AI로부터 영화 보호",
+          "headline": "Ryan Serhant,\nHeyGen과 AI 분신",
+          "body": "Ryan Serhant가 HeyGen과 손잡고 자신의 AI 아바타 계정을 연다.",
+          "mini_headline": "Serhant의 HeyGen AI 분신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "베타를 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고 보호하고 모니터링하며 수익까지 낼 수 있는 새 공간을 내세운다. 중심에는 회사가 “창작 소유권”이라 부르는 개념이 있다."
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "출처: Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima가 겨냥하는 문제는 두 가지다. 크리에이터는 자기 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 합법적으로 학습할 길이 많지 않다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "출처: Sinima"
+                "x": "Netflix ‘Owning Manhattan’의 스타 부동산 중개인 Ryan Serhant는 자신의 회사가 한 달에 소셜 게시물 약 2,200건을 만들고, 사내(in-house) 제작 스튜디오 인원이 100명 남짓이라고 말한다. 그런 그가 이번엔 HeyGen과 손잡고 자기 모습을 본뜬 AI 아바타가 이끄는 소셜 미디어 계정을 만들었다. 아바타는 Instagram, TikTok, X에 @HeySerhant로 등장해 수십 년 부동산 경력에서 얻은 교훈을 전한다."
               },
               {
                 "t": "p",
-                "x": "호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가 기능을 갖췄다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+                "x": "“수년간 쌓은 교훈이 있지만 그걸 콘텐츠로 만들 시간이 늘 있는 건 아니다.” 그가 Variety에 한 말이다. “얼굴을 중심으로 브랜드를 세웠다면, 목소리를 중심으로 브랜드를 세웠다면, 그걸 어떻게 확장할 수 있을까?”"
               },
               {
                 "t": "p",
-                "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 받는다. 현재 요율표는 자격을 갖추고 권리 처리를 마친 영상을 시간당 $4,000~$7,500로 매긴다. 크리에이터에게는 처리된 시간당 $3,400~$6,375가 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "출처: Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+                "x": "계정은 최소 12개월 동안 하루 한 편 이상 영상을 올리고, 영상마다 Serhant와 그의 팀이 손을 보탠다. “CEO의 하루” 같은 그의 개인 콘텐츠를 대체하지는 않는다. 이번 계약은 Fountain 0와 손잡은 Sunny Hostin처럼 자기 초상을 AI 기업에 라이선스한 다른 인물들의 뒤를 잇는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sinima、映画作品を\nAI学習から守る",
-          "body": "Sinimaの新プラットフォームは、映画制作者が投稿した作品の保護・可視性・管理を担う。",
-          "mini_headline": "SinimaがAIから映画を守る",
+          "headline": "Ryan Serhant、\nHeyGenでAI分身",
+          "body": "Ryan SerhantがHeyGenと組み、自身のAIアバターがSNSに登場する。",
+          "mini_headline": "SerhantのHeyGen製AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ベータ運用を経て公開されたばかりのSinimaは、映画制作者やクリエイターが映画や動画をホスティングし、保護し、監視し、収益化できる新たな場を目指す。軸に据えるのは、同社が「クリエイティブ・オーナーシップ」と呼ぶ考え方だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "提供：Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Vimeoの元VPを含む創業者らが立ち上げたSinimaは、二つの問題に取り組む。クリエイターは自分のアップロードがAIモデルの学習に使われているか確信できず、一方でAI企業が実写映像で合法的に学習する手段は限られている。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "提供：Sinima"
+                "x": "Netflix「Owning Manhattan」のスター不動産業者Ryan Serhantによると、彼の会社は月に約2,200件のソーシャル投稿を制作し、社内(in-house)の制作スタジオには約100人が在籍する。今回、彼はHeyGenと組み、自身の姿をもとにしたAIアバターが登場するソーシャルメディアアカウントを立ち上げた。アバターはInstagram、TikTok、Xに@HeySerhantとして登場し、数十年に及ぶ不動産業の教訓を伝える。"
               },
               {
                 "t": "p",
-                "x": "機能には、ホスティング、非公開のクライアントレビュー、所有権と来歴の記録、一致の監視、クリエイターが管理するAI利用許可が含まれる。アップロードごとに固有のデジタル指紋と、公開検証リンク付きの所有権証明書が発行され、詳細はC2PA-formatのマニフェストに記録される。"
+                "x": "「何年分もの教訓がたまっているが、それをコンテンツにする時間がいつもあるわけではない」と彼はVarietyに語る。「顔を軸にしたブランドや、声を軸にしたブランドがあるとして、それをどう拡大するのか」"
               },
               {
                 "t": "p",
-                "x": "作品がAI学習用にライセンスされると、クリエイターは購入者の支払額の85%を受け取る。現行の料金表では、条件を満たし権利処理済みの映像を1時間あたり$4,000〜$7,500と評価しており、処理済み1時間あたり$3,400〜$6,375がクリエイターに渡る。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "提供：Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinimaは無料で始められ、サブスクリプションプランは月$15からだ。"
+                "x": "このアカウントは少なくとも12カ月間、一日に少なくとも一本の動画を公開し、Serhantと彼のチームが一本ごとに関わる。「CEOの一日」のような彼の個人コンテンツに取って代わるものではない。今回の契約は、Fountain 0と組んだSunny Hostinなど、自らの肖像をAI企業にライセンスしたほかの人物に続くものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sinima助电影人\n保护作品免遭AI训练",
-          "body": "Sinima新平台旨在让电影人对上传作品拥有保护、可见度与控制权。",
-          "mini_headline": "Sinima保护电影免遭AI训练",
+          "headline": "Ryan Serhant\n携HeyGen打造AI分身",
+          "body": "Ryan Serhant与HeyGen合作，以自己的AI化身经营社交媒体。",
+          "mini_headline": "Serhant的HeyGen AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Sinima在完成测试后刚刚上线，目标是成为电影人和创作者托管、保护、监测其电影和视频并从中获利的新空间，重点在于它所说的“创作所有权”。"
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "图片来源：Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Sinima由包括一名Vimeo前VP在内的创始人创立，瞄准两个问题：创作者无法确定自己上传的内容是否被用于训练AI模型，而AI公司用真实影像进行训练的合法途径有限。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "图片来源：Sinima"
+                "x": "Netflix节目《Owning Manhattan》的明星房产经纪人Ryan Serhant表示，他的公司每月制作约2,200条社交媒体帖子，内部（in-house）制作工作室约有100人。如今他与HeyGen合作，打造以自身形象为原型的AI化身社交媒体账号，以@HeySerhant身份出现在Instagram、TikTok和X上，分享他数十年房地产生涯的经验。"
               },
               {
                 "t": "p",
-                "x": "功能包括托管、私密客户审阅、所有权与来源记录、匹配监测，以及由创作者掌控的AI使用许可。每次上传都会获得独特的数字指纹和附带公开验证链接的所有权证书，详细信息记录在C2PA-format清单中。"
+                "x": "“我积累了多年的经验，却不总有时间把它们做成内容。”他对Variety说，“如果一个品牌建立在一张脸上，建立在一种声音上，该如何扩大它的规模？”"
               },
               {
                 "t": "p",
-                "x": "当作品被授权用于AI训练时，创作者可获得买方所付金额的85%。按现行价目表，符合条件且已完成版权清理的影像每小时估值$4,000至$7,500，因此每个清理小时有$3,400至$6,375归创作者所有。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "图片来源：Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima可免费开始使用，订阅方案每月$15起。"
+                "x": "该账号将在至少12个月内每天至少发布一条视频，每一条都由Serhant和团队参与制作。它不会取代他的个人内容，比如“CEO的一天”类视频。此前已有其他人物将肖像授权给AI公司，例如Sunny Hostin与Fountain 0的合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sinima protege obras de cine\ndel entrenamiento de AI",
-          "body": "La nueva plataforma de Sinima busca dar a los cineastas protección, visibilidad y control sobre su obra en línea.",
-          "mini_headline": "Sinima protege el cine de la AI",
+          "headline": "Ryan Serhant se une a HeyGen\npara un avatar AI de sí mismo",
+          "body": "Ryan Serhant, estrella de 'Owning Manhattan', se asoció con HeyGen para una presencia en redes con su avatar AI.",
+          "mini_headline": "El doble AI de Serhant con HeyGen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Recién lanzada tras una fase beta, Sinima aspira a ser un nuevo espacio donde cineastas y creadores alojen, protejan, supervisen y moneticen sus películas y videos, con el foco puesto en lo que llama “propiedad creativa”."
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "Crédito: Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Fundada por un equipo que incluye a un exVP de Vimeo, Sinima aborda dos problemas: los creadores no pueden saber con certeza si sus videos se usan para entrenar modelos AI, mientras que las empresas AI tienen vías legales limitadas para entrenar con metraje real."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "Crédito: Sinima"
+                "x": "Ryan Serhant, el agente inmobiliario estrella de “Owning Manhattan” de Netflix, dice que su empresa produce unas 2,200 publicaciones sociales al mes, con un estudio de producción propio (in-house) de unas 100 personas. Ahora se ha asociado con HeyGen para crear una presencia en redes sociales protagonizada por un avatar AI basado en su imagen, que aparece en Instagram, TikTok y X como @HeySerhant para compartir lecciones de décadas en el sector inmobiliario."
               },
               {
                 "t": "p",
-                "x": "Sus funciones incluyen alojamiento, revisión privada con clientes, registros de propiedad y procedencia, monitoreo de coincidencias y permisos AI controlados por el creador. Cada archivo recibe una huella digital única y un certificado de propiedad con un enlace de verificación público, y los detalles se registran en manifiestos C2PA-format."
+                "x": "“He acumulado años de lecciones que no siempre tengo tiempo de convertir en contenido”, dice a Variety. “Si tienes una marca construida en torno a un rostro, si tienes una marca construida en torno a una voz, ¿cómo la escalas?”"
               },
               {
                 "t": "p",
-                "x": "Cuando un título se licencia para entrenamiento AI, los creadores se quedan con el 85% de lo que paga el comprador. La tarifa actual valora el metraje elegible y con derechos liberados entre $4,000 y $7,500 por hora, de modo que entre $3,400 y $6,375 por hora liberada van al creador."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "Crédito: Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima se puede empezar a usar gratis, con planes de suscripción desde $15 al mes."
+                "x": "La cuenta producirá al menos un video al día durante al menos 12 meses, y Serhant y su equipo trabajarán en cada uno. No sustituirá su contenido personal, como los videos de “un día en la vida de un CEO”. El acuerdo sigue a otras figuras que han cedido su imagen a empresas de AI, como Sunny Hostin con Fountain 0."
               }
             ]
           }
@@ -1661,181 +1682,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sinima, 영화인 작품\nAI 학습에서 지킨다",
-          "body": "Sinima 새 플랫폼은 온라인에 올린 작품의 보호·가시성·통제를 돕는다.",
-          "mini_headline": "Sinima, AI로부터 영화 보호",
+          "headline": "Ryan Serhant,\nHeyGen과 AI 분신",
+          "body": "Ryan Serhant가 HeyGen과 손잡고 자신의 AI 아바타 계정을 연다.",
+          "mini_headline": "Serhant의 HeyGen AI 분신",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "베타 운영을 마치고 막 출시된 Sinima는 영화인과 크리에이터가 영화와 영상을 호스팅하고, 보호하고, 모니터링하며 수익을 낼 수 있는 새 공간을 지향한다. 핵심은 회사가 “창작 소유권”이라 부르는 개념이다."
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "출처: Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Vimeo 전 VP를 포함한 창업자들이 세운 Sinima는 두 가지 문제를 겨냥한다. 크리에이터는 자신이 올린 영상이 AI 모델 학습에 쓰이는지 확신할 수 없고, AI 기업은 실제 영상으로 학습할 합법적 경로가 제한적이다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "출처: Sinima"
+                "x": "Netflix ‘Owning Manhattan’의 스타 부동산 중개인 Ryan Serhant는 자신의 회사가 한 달에 소셜 게시물 약 2,200건을 만들고, 사내(in-house) 제작 스튜디오 인원이 100명 남짓이라고 말한다. 이제 그는 HeyGen과 손잡고 자신의 모습을 본뜬 AI 아바타가 이끄는 소셜 미디어 계정을 만들었다. 이 아바타는 Instagram, TikTok, X에 @HeySerhant로 등장해 수십 년 부동산 경력에서 얻은 교훈을 전한다."
               },
               {
                 "t": "p",
-                "x": "기능으로는 호스팅, 비공개 클라이언트 리뷰, 소유권·출처 기록, 일치 모니터링, 크리에이터가 직접 정하는 AI 사용 허가가 있다. 업로드마다 고유한 디지털 지문과 공개 검증 링크가 달린 소유권 인증서가 붙고, 세부 정보는 C2PA-format 매니페스트에 기록된다."
+                "x": "“수년간 쌓은 교훈이 있지만 그걸 콘텐츠로 만들 시간이 늘 있는 건 아니다.” 그가 Variety에 한 말이다. “얼굴을 중심으로 브랜드를 세웠다면, 목소리를 중심으로 브랜드를 세웠다면, 그걸 어떻게 확장할 수 있을까?”"
               },
               {
                 "t": "p",
-                "x": "작품이 AI 학습용으로 라이선스되면 크리에이터는 구매자가 낸 금액의 85%를 가져간다. 현재 요율표는 자격을 갖추고 권리 처리가 끝난 영상을 시간당 $4,000~$7,500로 매기므로, 처리된 시간당 $3,400~$6,375가 크리에이터에게 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "출처: Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima는 무료로 시작할 수 있고, 구독 요금제는 월 $15부터다."
+                "x": "이 계정은 최소 12개월 동안 하루 한 편 이상의 영상을 내고, Serhant와 그의 팀이 영상마다 작업에 참여한다. “CEO의 하루” 같은 그의 개인 콘텐츠를 대체하지는 않는다. 이번 계약은 Fountain 0와 손잡은 Sunny Hostin처럼 자신의 초상을 AI 기업에 라이선스한 다른 인물들의 뒤를 잇는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sinima、映画作品を\nAI学習から守る",
-          "body": "Sinimaの新プラットフォームは、映画制作者が投稿した作品の保護・可視性・管理を担う。",
-          "mini_headline": "SinimaがAIから映画を守る",
+          "headline": "Ryan Serhant、\nHeyGenでAI分身",
+          "body": "Ryan SerhantがHeyGenと組み、自身のAIアバターがSNSに登場する。",
+          "mini_headline": "SerhantのHeyGen製AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ベータ運用を経て公開されたばかりのSinimaは、映画制作者やクリエイターが映画や動画をホスティングし、保護し、監視し、収益化できる新たな場を目指す。軸に据えるのは、同社が「クリエイティブ・オーナーシップ」と呼ぶ考え方だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "提供：Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Vimeoの元VPを含む創業者らが立ち上げたSinimaは、二つの問題に取り組む。クリエイターは自分のアップロードがAIモデルの学習に使われているか確信できず、一方でAI企業が実写映像で合法的に学習する手段は限られている。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "提供：Sinima"
+                "x": "Netflix「Owning Manhattan」のスター不動産業者Ryan Serhantによると、彼の会社は月に約2,200件のソーシャル投稿を制作し、社内(in-house)の制作スタジオには約100人が在籍する。今回、彼はHeyGenと組み、自身の姿をもとにしたAIアバターが登場するソーシャルメディアアカウントを立ち上げた。アバターはInstagram、TikTok、Xに@HeySerhantとして登場し、数十年に及ぶ不動産業の教訓を伝える。"
               },
               {
                 "t": "p",
-                "x": "機能には、ホスティング、非公開のクライアントレビュー、所有権と来歴の記録、一致の監視、クリエイターが管理するAI利用許可が含まれる。アップロードごとに固有のデジタル指紋と、公開検証リンク付きの所有権証明書が発行され、詳細はC2PA-formatのマニフェストに記録される。"
+                "x": "「何年分もの教訓がたまっているが、それをコンテンツにする時間がいつもあるわけではない」と彼はVarietyに語る。「顔を軸にしたブランドや、声を軸にしたブランドがあるとして、それをどう拡大するのか」"
               },
               {
                 "t": "p",
-                "x": "作品がAI学習用にライセンスされると、クリエイターは購入者の支払額の85%を受け取る。現行の料金表では、条件を満たし権利処理済みの映像を1時間あたり$4,000〜$7,500と評価しており、処理済み1時間あたり$3,400〜$6,375がクリエイターに渡る。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "提供：Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinimaは無料で始められ、サブスクリプションプランは月$15からだ。"
+                "x": "このアカウントは少なくとも12カ月間、一日に少なくとも一本の動画を公開し、Serhantと彼のチームが一本ごとに関わる。「CEOの一日」のような彼の個人コンテンツに取って代わるものではない。今回の契約は、Fountain 0と組んだSunny Hostinなど、自らの肖像をAI企業にライセンスしたほかの人物に続くものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sinima助电影人\n保护作品免遭AI训练",
-          "body": "Sinima新平台旨在让电影人对上传作品拥有保护、可见度与控制权。",
-          "mini_headline": "Sinima保护电影免遭AI训练",
+          "headline": "Ryan Serhant\n携HeyGen打造AI分身",
+          "body": "Ryan Serhant与HeyGen合作，以自己的AI化身经营社交媒体。",
+          "mini_headline": "Serhant的HeyGen AI分身",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Sinima在完成测试后刚刚上线，目标是成为电影人和创作者托管、保护、监测其电影和视频并从中获利的新空间，重点在于它所说的“创作所有权”。"
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "图片来源：Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Sinima由包括一名Vimeo前VP在内的创始人创立，瞄准两个问题：创作者无法确定自己上传的内容是否被用于训练AI模型，而AI公司用真实影像进行训练的合法途径有限。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "图片来源：Sinima"
+                "x": "Netflix节目《Owning Manhattan》的明星房产经纪人Ryan Serhant表示，他的公司每月制作约2,200条社交媒体帖子，内部（in-house）制作工作室约有100人。如今他与HeyGen合作，打造以自身形象为原型的AI化身社交媒体账号，以@HeySerhant身份出现在Instagram、TikTok和X上，分享他数十年房地产生涯的经验。"
               },
               {
                 "t": "p",
-                "x": "功能包括托管、私密客户审阅、所有权与来源记录、匹配监测，以及由创作者掌控的AI使用许可。每次上传都会获得独特的数字指纹和附带公开验证链接的所有权证书，详细信息记录在C2PA-format清单中。"
+                "x": "“我积累了多年的经验，却不总有时间把它们做成内容。”他对Variety说，“如果一个品牌建立在一张脸上，建立在一种声音上，该如何扩大它的规模？”"
               },
               {
                 "t": "p",
-                "x": "当作品被授权用于AI训练时，创作者可获得买方所付金额的85%。按现行价目表，符合条件且已完成版权清理的影像每小时估值$4,000至$7,500，因此每个清理小时有$3,400至$6,375归创作者所有。"
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "图片来源：Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima可免费开始使用，订阅方案每月$15起。"
+                "x": "该账号将在至少12个月内每天至少发布一条视频，每一条都由Serhant和团队参与制作。它不会取代他的个人内容，比如“CEO的一天”类视频。此前已有其他人物将肖像授权给AI公司，例如Sunny Hostin与Fountain 0的合作。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sinima protege obras de cine\ndel entrenamiento de AI",
-          "body": "La nueva plataforma de Sinima busca dar a los cineastas protección, visibilidad y control sobre su obra en línea.",
-          "mini_headline": "Sinima protege el cine de la AI",
+          "headline": "Ryan Serhant se une a HeyGen\npara un avatar AI de sí mismo",
+          "body": "Ryan Serhant, estrella de 'Owning Manhattan', se asoció con HeyGen para una presencia en redes con su avatar AI.",
+          "mini_headline": "El doble AI de Serhant con HeyGen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Recién lanzada tras una fase beta, Sinima aspira a ser un nuevo espacio donde cineastas y creadores alojen, protejan, supervisen y moneticen sus películas y videos, con el foco puesto en lo que llama “propiedad creativa”."
-              },
-              {
                 "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382965&width=980",
-                "cap": "Crédito: Sinima"
+                "src": "https://variety.com/wp-content/uploads/2026/10/heyserhant-shoot-10-1.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Fundada por un equipo que incluye a un exVP de Vimeo, Sinima aborda dos problemas: los creadores no pueden saber con certeza si sus videos se usan para entrenar modelos AI, mientras que las empresas AI tienen vías legales limitadas para entrenar con metraje real."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382966&width=980",
-                "cap": "Crédito: Sinima"
+                "x": "Ryan Serhant, el agente inmobiliario estrella de “Owning Manhattan” de Netflix, dice que su empresa produce unas 2,200 publicaciones sociales al mes, con un estudio de producción propio (in-house) de unas 100 personas. Ahora se ha asociado con HeyGen para crear una presencia en redes sociales protagonizada por un avatar AI basado en su imagen, que aparece en Instagram, TikTok y X como @HeySerhant para compartir lecciones de décadas en el sector inmobiliario."
               },
               {
                 "t": "p",
-                "x": "Sus funciones incluyen alojamiento, revisión privada con clientes, registros de propiedad y procedencia, monitoreo de coincidencias y permisos AI controlados por el creador. Cada archivo recibe una huella digital única y un certificado de propiedad con un enlace de verificación público, y los detalles se registran en manifiestos C2PA-format."
+                "x": "“He acumulado años de lecciones que no siempre tengo tiempo de convertir en contenido”, dice a Variety. “Si tienes una marca construida en torno a un rostro, si tienes una marca construida en torno a una voz, ¿cómo la escalas?”"
               },
               {
                 "t": "p",
-                "x": "Cuando un título se licencia para entrenamiento AI, los creadores se quedan con el 85% de lo que paga el comprador. La tarifa actual valora el metraje elegible y con derechos liberados entre $4,000 y $7,500 por hora, de modo que entre $3,400 y $6,375 por hora liberada van al creador."
-              },
-              {
-                "t": "img",
-                "src": "https://nofilmschool.com/media-library/image.png?id=68382969&width=980",
-                "cap": "Crédito: Sinima"
-              },
-              {
-                "t": "p",
-                "x": "Sinima se puede empezar a usar gratis, con planes de suscripción desde $15 al mes."
+                "x": "La cuenta producirá al menos un video al día durante al menos 12 meses, y Serhant y su equipo trabajarán en cada uno. No sustituirá su contenido personal, como los videos de “un día en la vida de un CEO”. El acuerdo sigue a otras figuras que han cedido su imagen a empresas de AI, como Sunny Hostin con Fountain 0."
               }
             ]
           }

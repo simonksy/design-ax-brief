@@ -5845,6 +5845,97 @@
           "x": "BMJ Group、Sage、IOP Publishing、IGI Global Scientific Publishing、Wanfang Dataの学術出版社五社は、AI企業Redpineと契約を結んだ。AIエージェントが査読済みの研究論文2000万本にライセンスに基づいてアクセスできるようにする。"
         }
       ]
+    },
+    "books/books-storytel-ai-translation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131958-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Storytelは2021年にAI支援(AI-assisted)翻訳の実験を始め、現在はスウェーデンのテック企業Nuanxedとの提携によって翻訳出版のワークフローを自動化している。Nuanxedでは、最高コンテンツ・出版責任者のHelena Gustafssonが取締役も務める。Storytelは2025年からAI生成(AI-generated)のナレーター音声を提供し、最近は「AI搭載の相棒(AI-powered companion)」Genieを導入した。"
+        },
+        {
+          "t": "p",
+          "x": "Gustafssonによれば、原動力はお金ではなく時間だ。「八冊(eight-book)のシリーズをわずか六か月で出せる」。Storytelは北欧諸国に加え、ブルガリア、オランダ、ポーランド、トルコ、米国(U.S.)の10の中核市場を対象とし、市場に合わせた(market-adapted)本だけを出版している。"
+        },
+        {
+          "t": "p",
+          "x": "読者の反応について、彼女はAIを「実のところ品質ではなく、認識の問題」と呼ぶ。フィンランドの「AI翻訳(AI-translated)」本を批判した記者がいたが、その本は実は人間による翻訳(human-translated)だったという例を挙げた。"
+        },
+        {
+          "t": "p",
+          "x": "限界もあると見る。AIは新しい物語を作るのが「本当に苦手」で、人間による翻訳が欠かせない本もある。「詩集をAIで翻訳しようとする人はいないでしょう」。AIを使う者は誰であれ、責任をもって倫理的に使う方法を問わなければならないと彼女は付け加えた。"
+        }
+      ]
+    },
+    "books/books-uk-human-authored-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/615/Books-by-People-Team-photo1.jpg",
+          "cap": "Books By Peopleの創業者Gavin Johnston、Conrad Young、Esme Dennys"
+        },
+        {
+          "t": "p",
+          "x": "知的財産庁(IPO)は、人間が書いた本を対象とするUK初の認証マークとして、Books By Peopleの「human-authored」認証を登録した。"
+        }
+      ]
+    },
+    "books/books-digital-publishing-award": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/design_ohne_titel_36.png?h=8893360f&itok=Qzs-Q9hW"
+        },
+        {
+          "t": "p",
+          "x": "Digital Publishing Award 2026はAvneesh Singh、Nahdet Misr Group、Pozotron Studio、ReadBeeに贈られた。受賞者は10月7日、フランクフルト・ブックフェアで42件の応募から選ばれた。"
+        },
+        {
+          "t": "p",
+          "x": "国際的な審査員団は、エジプト、米国、ドイツ、そして世界の出版業界のプロジェクトと人物に、四つの部門で賞を授与した。共通するのは、人を置き換えるのではなく支えるために技術を使っている点だという。"
+        }
+      ]
+    },
+    "books/books-ai-narration-debate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/616/Frankfurt-Book-Fair-c-Shutterstock1.jpg",
+          "cap": "フランクフルト・ブックフェア(Frankfurt Book Fair) © Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "「高級レストランもあれば、McDonaldsもある」。Blinkist、Storytel、Hörbuch Hamburg Verlagの出版人が10月7日、フランクフルト・ブックフェア(Frankfurt Book Fair)で、AudioのCEO、Chris Klingが司会を務めるパネルに登壇し、AIナレーションの価値を議論した。不信感や価値、リスナーの好みをめぐる問いが提起された。"
+        }
+      ]
+    },
+    "books/books-organic-literature-stamp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abfd3ec63cea41649272758/master/w_2560%2Cc_limit/Business_Plagued%2520By%2520AI%2520Scandals%2C%2520Publishers%2520Are%2520Starting%2520To%2520Sell%2520%25E2%2580%2598Organic%2520Literature%25E2%2580%2599_v1.jpg",
+          "cap": "オーガニックシールが貼られた食品パッケージに入った本のフォトイラスト"
+        },
+        {
+          "t": "p",
+          "x": "プロの作家によるAI使用をめぐる騒動が相次ぐなか、英国のスタートアップBooks by Peopleは、本が人間によって書かれたことを証明するマークを配布する承認をUKの知的財産庁(Intellectual Property Office)から得た。指紋のような形のこのスタンプは、本の表紙に表示される。"
+        },
+        {
+          "t": "p",
+          "x": "Books by Peopleは自己申告に頼るのではなく、著者であることの宣誓を求め、各原稿を独自ソフトウェアで解析し、初期稿や調査資料を人の手で確認して「人間らしさの指標」を探す。出版社には定額の会員費に加え、本ごとに一定額を課す。これまでに五社の出版社が加わり、最初の認証本は年末までに出る見込みだ。"
+        },
+        {
+          "t": "p",
+          "x": "批判する側は誤判定を警戒する。精度99.7%をうたうPangramは、デビュー作家Jerry Faladeの本を97% AI-generatedと判定し、彼はこのツールが自身のナイジェリアの方言を誤って解釈したと主張した。Publishers’ Licensing ServicesのTom Westは「これが魔女狩りにならないよう、かなり慎重になる必要がある」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
+        }
+      ]
     }
   }
 }

@@ -1,29 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "marketing",
   "media": [
     {
-      "id": "marketing-ads-uploader-meta-agent-batches",
+      "id": "marketing-meta-adweek-ai-tools",
       "type": "image",
-      "src": "pipeline/media/marketing-ads-uploader-meta-agent-batches.jpg"
+      "src": "pipeline/media/marketing-meta-adweek-ai-tools.png"
     },
     {
-      "id": "marketing-nbcu-ctv-buying-agents",
-      "type": "svg"
+      "id": "marketing-weight-watchers-chatgpt-cpa",
+      "type": "image",
+      "src": "pipeline/media/marketing-weight-watchers-chatgpt-cpa.jpg"
     },
     {
-      "id": "marketing-google-merchant-center-ucp-hub",
+      "id": "marketing-google-ads-ai-max-columns",
       "type": "image",
-      "src": "pipeline/media/marketing-google-merchant-center-ucp-hub.jpg"
+      "src": "pipeline/media/marketing-google-ads-ai-max-columns.jpg"
     },
     {
-      "id": "marketing-radisson-chatgpt-hotel-booking",
+      "id": "marketing-ok-future-goodwipes-ai",
       "type": "image",
-      "src": "pipeline/media/marketing-radisson-chatgpt-hotel-booking.jpg"
+      "src": "pipeline/media/marketing-ok-future-goodwipes-ai.jpg"
     },
     {
-      "id": "marketing-trafficguard-chatgpt-ad-invalid-clicks",
+      "id": "marketing-walmart-sparky",
       "type": "image",
-      "src": "pipeline/media/marketing-trafficguard-chatgpt-ad-invalid-clicks.jpg"
+      "src": "pipeline/media/marketing-walmart-sparky.jpg"
     }
   ]
 }

@@ -1560,6 +1560,130 @@
           "x": "憲章はAIリスクの責任を研究所に置き、「共和国の基本原則が守られ、前進するよう、わが国の法律を執行することが……連邦政府の役割である」と記している。"
         }
       ]
+    },
+    "politics/politics-usa-today-sues-openai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "USA Today Co.と傘下の複数の地方紙が、AIモデルの学習のために記事「数十万」本を複製したとしてOpenAIを提訴した。先にReutersが報じていた。木曜日に提出した訴状で同社は2億5000万ドルを超える損害賠償を求め、OpenAIによるコンテンツの無断利用が自社媒体に「現実の継続的な」損害を与えていると主張している。"
+        },
+        {
+          "t": "p",
+          "x": "これはOpenAIに対する一連の著作権訴訟の最新例にすぎない。OpenAIはThe New York Timesによる著作権訴訟のほか、The Intercept、CNETを所有するZiff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times、そして400近い地方紙の連合からも訴えられている。"
+        },
+        {
+          "t": "p",
+          "x": "「OpenAIの商業的成功は大規模な著作権侵害の上に成り立っている」とUSA Today Co.の訴状は主張する。OpenAIはコンテンツの利用許可を一度も求めず、USA Todayのコンテンツを「奪い」、「数千億ドル規模の製品を作った」としている。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahomanなど複数の地方媒体も原告に名を連ねている。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはThe Vergeのコメント要請にすぐには応じなかった。"
+        }
+      ]
+    },
+    "politics/politics-data-center-power-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+          "cap": "イラスト：Sarah Grillo/Axios"
+        },
+        {
+          "t": "p",
+          "x": "議員らは、AIブームを支えるエネルギーインフラの整備を加速させる一方で、データセンターに新たなコストと規制を負わせることを検討している。先週公表されたこの超党派の条項は、エネルギー関連の許認可の迅速化を目指す上院のより大きな法案の一部だ。法案の提出者らは、エネルギー開発を加速させつつ、データセンターに送電網増強の応分の負担を確実に求めるものだと説明する。"
+        },
+        {
+          "t": "p",
+          "x": "データセンターは、既存の送電網に対する応分の負担と、自らへの電力供給に必要な追加の送電コストの両方を支払うことになる。20メガワット以上の新設データセンターは、電力システム全体に生じさせる追加コストを負担し、各州にはさらに踏み込む広い裁量が与えられる。"
+        },
+        {
+          "t": "p",
+          "x": "Data Center Coalitionは、法案をまだ精査中だとした。AmazonのCraig Sundstrom氏は、法案が「新たな発電・送電設備をより速く建設するのに必要な投資を引き出し得る」と述べた。一方、あるテック業界関係者は一部の条項を「前例のない水準の差別的扱い」と評した。Cato InstituteのTravis Fisher氏は「控えめな支持」を示した。"
+        },
+        {
+          "t": "p",
+          "x": "中間選挙を前に上院は休会中で、利害関係者には、レームダック会期での審議の可能性に先立ち修正を働きかける時間がある。"
+        }
+      ]
+    },
+    "politics/politics-singapore-mas-fintech-ai-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "中央銀行と金融業界の規制当局を兼ねるシンガポール金融通貨庁(MAS)は水曜日、初となる「金融機関向け人工知能リスク管理ガイドライン」を公表し、国内のすべての業界関係者に対し、AI活用事例を導入前に独立したレビューにかけるよう求めた。"
+        },
+        {
+          "t": "p",
+          "x": "MASは、AIの複雑さが予期しない、あるいはより偏った挙動につながり得ると警告し、生成AIはさらにリスクが高いと評価したうえで、エージェント型AIが「こうしたリスクをさらに増幅させる可能性がある」と懸念する。金融機関にはリスク管理の枠組みをAIにまで広げ、取締役会と上級経営陣が責任を負うことを求めている。"
+        },
+        {
+          "t": "p",
+          "x": "ガイドラインは「導入前に、FIは基盤となるシステムやモデルを含むAI活用事例を、その開発に関与していない者によるレビューにかけるべきだ」と定めている。MASはさらに継続的なモニタリング、最新のAI一覧、高リスク用途向けの緊急時対応計画を求め、「FIsは、第三者が開発・運用・提供したAIを含め、自らが提供するサービスで使われるAIについて引き続き責任を負う」としている。"
+        },
+        {
+          "t": "p",
+          "x": "ガイドラインは2027年10月7日に施行される。"
+        }
+      ]
+    },
+    "politics/politics-ecosia-drops-mistral-chinese-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+          "cap": "2019年、リスボンのWeb Summitで講演するChristian Kroll氏。 | Web Summit via Wikimedia"
+        },
+        {
+          "t": "p",
+          "x": "行政サービスでも使われているベルリン拠点の検索エンジンが、フランスのAIパートナーであるMistralをやめ、中国製を含むオープンソースモデルに切り替えると、同社CEOがPOLITICOに語った。Ecosiaの創業者でCEOのChristian Kroll氏は「Mistralの品質には失望している」と述べ、同社のモデルは競合より「一年遅れている」と評した。"
+        },
+        {
+          "t": "p",
+          "x": "Kroll氏によると、Ecosiaは5月にOpenAIからMistralに切り替えたが、技術的な問題が繰り返し発生した。同氏はMistralがEcosiaの環境目標に合うかどうか、そしてその独立性にも疑問を呈した。「Mistralが国際的な投資家からの出資に頼っているという事実は、我々の見方では真に主権的とは言えない」"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+          "cap": "2026年5月28日、パリのAI Now Summitで講演するGuillaume Lample氏。 | Stephane de Sakutin/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Mistralの共同創業者Guillaume Lample氏は「できるだけ早く我々の新モデルを試してほしい」と述べた。EcosiaはQwen、GLM、Kimiなどのモデルをホストする Melious と提携しており、Kroll氏によればコストはおよそ半分になった。一部の専門家は、モデルの政治的偏りは技術的に修正できるとする同氏の見方に異を唱えている。"
+        }
+      ]
+    },
+    "politics/politics-pentagon-tradewinds-video-ai-buys": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
+          "cap": "写真イラスト：Jobanny Cabrera; Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "あまり知られていない国防総省の調達プログラムTradewindsは、五分以内の製品動画をもとに、契約を目指す企業に特別な資格を与え、政府がそのAI製品を素早く購入できるようにしている。運営するのはDODの最高デジタル・人工知能局（CDAO）だ。"
+        },
+        {
+          "t": "p",
+          "x": "Tradewinds Solutions Marketplaceに採用された製品は「post-competitive（競争済み）」とみなされ、契約までの期間を数カ月短縮できる。DOD当局者によると、Tradewindsを使って一週間足らずで契約に至った例が何度かある。OpenAI、Anthropic、Googleはいずれも参加企業として掲載されており、三社ともコメントを控えた。"
+        },
+        {
+          "t": "p",
+          "x": "今年、軍は「部隊の殺傷力を高める」AI技術や、いわゆるキルチェーン（kill chain）の実行を含む統合ターゲティングを支援するエージェントの提案を募っている。この資格があれば「その他の取引」協定（OTs）を使いやすくなる。法律上、国防総省は議会に通知せずに単一のOTに最大$500 millionを支出できる。"
+        },
+        {
+          "t": "p",
+          "x": "Joni Ernst上院議員は、OTAsの審査で疑わしいコストや監督の欠如といった危険信号が見つかったと述べる。公開記録によるとGoogle、Anthropic、OpenAIはいずれもCDAOとOTsを結んでいるが、各社はそれにTradewindsが使われたかどうかを確認しなかった。"
+        }
+      ]
     }
   }
 }

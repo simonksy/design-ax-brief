@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-pentagon-tradewinds-video-ai-buys",
+      "id": "politics-uk-ico-ai-training-data-pledges",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
-      "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
-      "mini_headline": "펜타곤, AI 구매 가속",
+      "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
+      "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
+      "mini_headline": "영국 ICO, AI 데이터 약속 확보",
       "tool": "Politics",
-      "source": "wired.com",
-      "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
@@ -19,179 +19,174 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-            "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+            "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+            "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검 끝에 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 바꿨거나 바꾸겠다고 약속했다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+            "x": "개인정보가 AI 모델 학습에 어떻게 쓰이는지 더 명확히 알리는 설명, 사람들이 데이터 권리를 행사할 더 나은 방법, 개발사 보호 장치를 더 엄격하게 따지는 평가가 여기에 들어간다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳이 대상이었다. 그러다 ICO가 xAI의 Grok 챗봇을 따로 공식 조사하려고 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
           },
           {
             "t": "p",
-            "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+            "x": "ICO는 개발사들이 약속을 지키는지 지켜보는 중이다. 모델에 묻힌 민감 정보, 개인이 자기 정보를 지워 달라고 할 방법 등 지금의 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다는 점도 인정했다."
           },
           {
             "t": "p",
-            "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+            "x": "규제기관의 눈은 이제 AI 에이전트로 향한다. 에이전트가 보호 장치를 우회했다는 보도가 나오자 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 의견 수렴은 여섯 주 일정으로 11월 20일까지 열린다."
           }
         ]
       },
+      "lead_image": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
       "text": {
         "en": {
-          "headline": "Pentagon turns to short videos\nto speed up AI buys",
-          "body": "Tradewinds lets the Pentagon fast-track AI buys from five-minute video pitches, listing OpenAI, Anthropic and Google.",
-          "mini_headline": "Pentagon speeds up AI buys",
+          "headline": "UK watchdog wins data pledges\nfrom ten AI developers",
+          "body": "The UK's ICO says ten AI developers changed or committed to change how they use personal data to train AI.",
+          "mini_headline": "UK ICO gets AI data pledges",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "Photo-Illustration: Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "An under-the-radar Department of Defense procurement program, Tradewinds, grants special statuses to would-be contractors that make it easier for the government to quickly purchase their AI offerings, based on product videos no longer than five minutes. It is managed by DOD’s Chief Digital and Artificial Intelligence Office (CDAO)."
+                "x": "Ten of the world's biggest AI developers have agreed to tighten their handling of personal data following scrutiny by Britain's privacy watchdog. The ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, and Stability AI have either made changes or committed to doing so."
               },
               {
                 "t": "p",
-                "x": "Products accepted into the Tradewinds Solutions Marketplace are considered “post-competitive,” which can help shave months off award timelines. A DOD official says the department has in several instances made awards using Tradewinds in less than a week. OpenAI, Anthropic, and Google are all listed as participants; all three declined to comment."
+                "x": "These include clearer explanations of how personal information is used to train AI models, better ways for people to exercise their data rights, and tougher assessments of developers' safeguards. The supervisory program launched in 2025 initially covered 11 developers; it dropped to ten after the ICO paused its engagement with xAI to pursue a separate formal investigation into its Grok chatbot."
               },
               {
                 "t": "p",
-                "x": "This year, the military is seeking pitches for AI tech that can help “enhance force lethality” and agents that assist in joint targeting, including so-called kill chain execution. The status eases use of “other transaction” agreements (OTs); by law, the Pentagon can spend up to $500 million on a single OT without notifying Congress."
+                "x": "The ICO is monitoring whether developers deliver and admits current AI training practices still pose problems under UK data protection law, including sensitive data buried in models and how people can get their details removed."
               },
               {
                 "t": "p",
-                "x": "Senator Joni Ernst says reviews of OTAs have raised red flags, including questionable costs and a lack of oversight. Public records show Google, Anthropic, and OpenAI all have OTs with CDAO, but the companies did not confirm whether Tradewinds was used for them."
+                "x": "The regulator is now turning to AI agents. It has contacted OpenAI, Anthropic, Meta, and the UK's AI Security Institute after reports of agents bypassing safeguards. \"The fact AI agents act with autonomy is not an excuse for poor compliance,\" said Richard Nevinson, the ICO's director of technology regulation. A six-week call for evidence on agentic AI runs until November 20."
               }
             ]
           }
         },
         "ko": {
-          "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
-          "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
-          "mini_headline": "펜타곤, AI 구매 가속",
+          "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
+          "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
+          "mini_headline": "영국 ICO, AI 데이터 약속 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+                "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검 끝에 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 바꿨거나 바꾸겠다고 약속했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+                "x": "개인정보가 AI 모델 학습에 어떻게 쓰이는지 더 명확히 알리는 설명, 사람들이 데이터 권리를 행사할 더 나은 방법, 개발사 보호 장치를 더 엄격하게 따지는 평가가 여기에 들어간다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳이 대상이었다. 그러다 ICO가 xAI의 Grok 챗봇을 따로 공식 조사하려고 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
               },
               {
                 "t": "p",
-                "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+                "x": "ICO는 개발사들이 약속을 지키는지 지켜보는 중이다. 모델에 묻힌 민감 정보, 개인이 자기 정보를 지워 달라고 할 방법 등 지금의 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다는 점도 인정했다."
               },
               {
                 "t": "p",
-                "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+                "x": "규제기관의 눈은 이제 AI 에이전트로 향한다. 에이전트가 보호 장치를 우회했다는 보도가 나오자 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 의견 수렴은 여섯 주 일정으로 11월 20일까지 열린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "国防総省、短い動画で\nAI調達を加速",
-          "body": "AI調達を早めるTradewindsにOpenAI・Anthropic・Googleが並ぶ。",
-          "mini_headline": "国防総省、AI調達を加速",
+          "headline": "英監視機関、AI開発\n十社からデータ保護の確約",
+          "body": "英ICOによると、AI開発十社が学習での個人データ利用を変更済みか変更を約束した。",
+          "mini_headline": "英ICO、AIデータで確約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "写真イラスト：Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "あまり知られていない国防総省の調達プログラムTradewindsは、五分以内の製品動画をもとに、契約を目指す企業に特別な資格を与え、政府がそのAI製品を素早く購入できるようにしている。運営するのはDODの最高デジタル・人工知能局（CDAO）だ。"
+                "x": "世界有数のAI開発企業十社が、英国のプライバシー監視機関による精査を受け、個人データの取り扱いを厳格化することで合意した。ICOによると、Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI、Stability AIはすでに変更を行ったか、行うことを約束した。"
               },
               {
                 "t": "p",
-                "x": "Tradewinds Solutions Marketplaceに採用された製品は「post-competitive（競争済み）」とみなされ、契約までの期間を数カ月短縮できる。DOD当局者によると、Tradewindsを使って一週間足らずで契約に至った例が何度かある。OpenAI、Anthropic、Googleはいずれも参加企業として掲載されており、三社ともコメントを控えた。"
+                "x": "具体的には、個人情報がAIモデルの学習にどう使われるかをより明確に説明すること、人々がデータ権利を行使しやすくすること、開発企業の安全対策をより厳しく評価することなどが含まれる。2025年に始まった監督プログラムは当初11社を対象としていたが、ICOがxAIのチャットボットGrokについて別途正式な調査を進めるためxAIとの協議を中断したことで、十社となった。"
               },
               {
                 "t": "p",
-                "x": "今年、軍は「部隊の殺傷力を高める」AI技術や、いわゆるキルチェーン（kill chain）の実行を含む統合ターゲティングを支援するエージェントの提案を募っている。この資格があれば「その他の取引」協定（OTs）を使いやすくなる。法律上、国防総省は議会に通知せずに単一のOTに最大$500 millionを支出できる。"
+                "x": "ICOは各社が約束を実行するかを監視している。また、モデルに埋もれた機微なデータや、人々が自分の情報を削除してもらう方法など、現在のAI学習の慣行には英国のデータ保護法上なお問題があると認めている。"
               },
               {
                 "t": "p",
-                "x": "Joni Ernst上院議員は、OTAsの審査で疑わしいコストや監督の欠如といった危険信号が見つかったと述べる。公開記録によるとGoogle、Anthropic、OpenAIはいずれもCDAOとOTsを結んでいるが、各社はそれにTradewindsが使われたかどうかを確認しなかった。"
+                "x": "規制当局は次にAIエージェントに目を向けている。エージェントが安全対策を回避したとの報道を受け、OpenAI、Anthropic、Meta、そして英国のAI Security Instituteに連絡を取った。ICOの技術規制担当ディレクター、Richard Nevinson氏は「AIエージェントが自律的に動くという事実は、不十分なコンプライアンスの言い訳にはならない」と述べた。エージェント型AIに関する六週間の意見募集は11月20日まで行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五角大楼借短视频\n加速采购AI",
-          "body": "Tradewinds凭视频加速AI采购，OpenAI、Anthropic和Google在列。",
-          "mini_headline": "五角大楼加速AI采购",
+          "headline": "英国监管机构获十家\nAI开发商数据承诺",
+          "body": "英国ICO称，十家AI开发商已改变或承诺改变用个人数据训练AI的方式。",
+          "mini_headline": "英国ICO获AI数据承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "图片合成：Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "国防部一项鲜为人知的采购计划Tradewinds，根据不超过五分钟的产品视频，向潜在承包商授予特殊资格，使政府能更快采购其AI产品。该计划由DOD首席数字与人工智能办公室（CDAO）管理。"
+                "x": "全球十家最大的AI开发商在英国隐私监管机构审查后，同意收紧对个人数据的处理。ICO表示，Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI和Stability AI已经作出调整或承诺作出调整。"
               },
               {
                 "t": "p",
-                "x": "进入Tradewinds Solutions Marketplace的产品被视为“post-competitive”（已完成竞争），可将授标周期缩短数月。一名DOD官员表示，国防部已有数次借助Tradewinds在不到一周内完成授标。OpenAI、Anthropic和Google均列为参与方；三家公司均拒绝置评。"
+                "x": "这些措施包括更清楚地说明个人信息如何用于训练AI模型、为人们行使数据权利提供更好的途径，以及对开发商的保障措施进行更严格的评估。该监督计划于2025年启动，最初涵盖11家开发商；后因ICO暂停与xAI的接触、转而对其Grok聊天机器人另行展开正式调查，数量降至十家。"
               },
               {
                 "t": "p",
-                "x": "今年，军方正征集可帮助“提升部队杀伤力”的AI技术，以及协助联合目标打击（包括所谓“杀伤链”执行）的智能体方案。该资格让“其他交易”协议（OTs）更易使用；依据法律，五角大楼可在不通知国会的情况下，在单份OT上支出最多$500 million。"
+                "x": "ICO正在监督开发商是否兑现承诺，并承认按照英国数据保护法，当前的AI训练做法仍存在问题，包括埋藏在模型中的敏感数据，以及人们如何让自己的信息被删除。"
               },
               {
                 "t": "p",
-                "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
+                "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pentágono usa videos cortos\npara acelerar compras de AI",
-          "body": "Tradewinds agiliza las compras de AI del Pentágono con videos de cinco minutos; figuran OpenAI, Anthropic y Google.",
-          "mini_headline": "El Pentágono acelera compras de AI",
+          "headline": "El regulador británico obtiene\ncompromisos de diez firmas de IA",
+          "body": "La ICO del UK dice que diez desarrolladores de IA cambiaron o prometieron cambiar su uso de datos para entrenar IA.",
+          "mini_headline": "La ICO del UK obtiene compromisos de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "Fotoilustración: Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Tradewinds, un programa de adquisiciones poco conocido del Departamento de Defensa, otorga estatus especiales a posibles contratistas que facilitan al gobierno comprar con rapidez sus productos de AI, a partir de videos de producto de no más de cinco minutos. Lo gestiona la Oficina Principal de Digital e Inteligencia Artificial (CDAO) del DOD."
+                "x": "Diez de los mayores desarrolladores de IA del mundo han aceptado endurecer su manejo de datos personales tras el escrutinio del regulador de privacidad británico. La ICO afirmó que Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI y Stability AI ya han hecho cambios o se han comprometido a hacerlos."
               },
               {
                 "t": "p",
-                "x": "Los productos aceptados en el Tradewinds Solutions Marketplace se consideran “post-competitive” (poscompetitivos), lo que puede recortar meses de los plazos de adjudicación. Un funcionario del DOD afirma que el departamento ha adjudicado contratos con Tradewinds en menos de una semana en varias ocasiones. OpenAI, Anthropic y Google figuran como participantes; las tres declinaron hacer comentarios."
+                "x": "Entre ellos figuran explicaciones más claras sobre cómo se usa la información personal para entrenar modelos de IA, mejores vías para que las personas ejerzan sus derechos sobre sus datos y evaluaciones más estrictas de las salvaguardas de los desarrolladores. El programa de supervisión, lanzado en 2025, abarcaba inicialmente a 11 desarrolladores; quedaron diez después de que la ICO suspendiera su relación con xAI para abrir una investigación formal aparte sobre su chatbot Grok."
               },
               {
                 "t": "p",
-                "x": "Este año, el ejército busca propuestas de tecnología de AI que ayude a “aumentar la letalidad de la fuerza” y de agentes que asistan en la selección conjunta de objetivos, incluida la llamada ejecución de la cadena de muerte (kill chain). El estatus facilita el uso de acuerdos de “otras transacciones” (OTs); por ley, el Pentágono puede gastar hasta 500 millones de dólares en un solo OT sin notificar al Congreso."
+                "x": "La ICO vigila si los desarrolladores cumplen y admite que las prácticas actuales de entrenamiento de IA aún plantean problemas según la ley de protección de datos del UK, como los datos sensibles ocultos en los modelos y la forma en que las personas pueden lograr que se eliminen sus datos."
               },
               {
                 "t": "p",
-                "x": "La senadora Joni Ernst afirma que las revisiones de los OTAs han encendido alarmas, como costos cuestionables y falta de supervisión. Los registros públicos muestran que Google, Anthropic y OpenAI tienen OTs con la CDAO, pero las empresas no confirmaron si se usó Tradewinds para ellos."
+                "x": "El regulador se centra ahora en los agentes de IA. Ha contactado con OpenAI, Anthropic, Meta y el AI Security Institute del UK tras informes de agentes que eludían salvaguardas. “Que los agentes de IA actúen con autonomía no es excusa para un cumplimiento deficiente”, dijo Richard Nevinson, director de regulación tecnológica de la ICO. Una consulta de seis semanas para recabar pruebas sobre la IA agéntica estará abierta hasta el 20 de noviembre."
               }
             ]
           }
@@ -199,125 +194,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "펜타곤, 짧은 영상으로\nAI 구매 속도 높인다",
-          "body": "Tradewinds 영상 심사에 OpenAI·Anthropic·Google도 있다.",
-          "mini_headline": "펜타곤, AI 구매 가속",
+          "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
+          "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
+          "mini_headline": "영국 ICO, AI 데이터 약속 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "사진 일러스트: Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "잘 알려지지 않은 국방부 조달 프로그램 Tradewinds는 오 분 이내의 제품 영상만 보고 계약 희망 기업에 특별 지위를 준다. 이 지위가 있으면 정부가 해당 기업의 AI 제품을 빠르게 사들일 수 있다. 운영은 DOD의 최고디지털·인공지능실(CDAO)이 맡는다."
+                "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검을 받은 뒤 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 변경을 마쳤거나 변경을 약속했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Tradewinds Solutions Marketplace에 오른 제품은 '경쟁 절차를 마친(post-competitive)' 것으로 간주돼 계약까지 걸리는 기간을 몇 달씩 줄일 수 있다. 한 DOD 관계자는 Tradewinds로 일주일도 안 돼 계약을 맺은 사례가 여러 번 있었다고 말했다. OpenAI, Anthropic, Google이 모두 참여 기업으로 올라 있으며, 세 회사 모두 논평을 거부했다."
+                "x": "여기에는 개인정보가 AI 모델 학습에 어떻게 쓰이는지에 대한 더 명확한 설명, 사람들이 데이터 권리를 행사할 수 있는 더 나은 방법, 개발사 보호 장치에 대한 더 엄격한 평가가 포함된다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳을 대상으로 했으나, ICO가 xAI의 Grok 챗봇에 대한 별도 공식 조사를 위해 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
               },
               {
                 "t": "p",
-                "x": "올해 군은 '부대의 살상력을 높이는' AI 기술과, 이른바 킬체인(kill chain) 실행을 포함한 합동 표적 선정을 돕는 에이전트에 대한 제안을 받고 있다. 이 지위를 얻으면 '기타 거래(other transaction)' 협약(OTs)을 쓰기 쉬워진다. 법에 따라 펜타곤은 단일 OT에 의회 통보 없이 최대 $500 million까지 쓸 수 있다."
+                "x": "ICO는 개발사들이 약속을 이행하는지 지켜보고 있다. 아울러 모델에 묻힌 민감 정보, 개인이 자기 정보를 삭제받는 방법 등 현재 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다고 인정했다."
               },
               {
                 "t": "p",
-                "x": "Joni Ernst 상원의원은 OTAs 검토에서 의심스러운 비용과 감독 부재 같은 경고 신호가 드러났다고 말한다. 공개 기록을 보면 Google, Anthropic, OpenAI 모두 CDAO와 OTs를 맺고 있지만, 이들 기업은 여기에 Tradewinds가 쓰였는지 확인하지 않았다."
+                "x": "규제기관은 이제 AI 에이전트로 눈을 돌리고 있다. 에이전트가 보호 장치를 우회했다는 보도가 나온 뒤 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 여섯 주간의 의견 수렴은 11월 20일까지 진행된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "国防総省、短い動画で\nAI調達を加速",
-          "body": "AI調達を早めるTradewindsにOpenAI・Anthropic・Googleが並ぶ。",
-          "mini_headline": "国防総省、AI調達を加速",
+          "headline": "英監視機関、AI開発\n十社からデータ保護の確約",
+          "body": "英ICOによると、AI開発十社が学習での個人データ利用を変更済みか変更を約束した。",
+          "mini_headline": "英ICO、AIデータで確約",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "写真イラスト：Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "あまり知られていない国防総省の調達プログラムTradewindsは、五分以内の製品動画をもとに、契約を目指す企業に特別な資格を与え、政府がそのAI製品を素早く購入できるようにしている。運営するのはDODの最高デジタル・人工知能局（CDAO）だ。"
+                "x": "世界有数のAI開発企業十社が、英国のプライバシー監視機関による精査を受け、個人データの取り扱いを厳格化することで合意した。ICOによると、Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI、Stability AIはすでに変更を行ったか、行うことを約束した。"
               },
               {
                 "t": "p",
-                "x": "Tradewinds Solutions Marketplaceに採用された製品は「post-competitive（競争済み）」とみなされ、契約までの期間を数カ月短縮できる。DOD当局者によると、Tradewindsを使って一週間足らずで契約に至った例が何度かある。OpenAI、Anthropic、Googleはいずれも参加企業として掲載されており、三社ともコメントを控えた。"
+                "x": "具体的には、個人情報がAIモデルの学習にどう使われるかをより明確に説明すること、人々がデータ権利を行使しやすくすること、開発企業の安全対策をより厳しく評価することなどが含まれる。2025年に始まった監督プログラムは当初11社を対象としていたが、ICOがxAIのチャットボットGrokについて別途正式な調査を進めるためxAIとの協議を中断したことで、十社となった。"
               },
               {
                 "t": "p",
-                "x": "今年、軍は「部隊の殺傷力を高める」AI技術や、いわゆるキルチェーン（kill chain）の実行を含む統合ターゲティングを支援するエージェントの提案を募っている。この資格があれば「その他の取引」協定（OTs）を使いやすくなる。法律上、国防総省は議会に通知せずに単一のOTに最大$500 millionを支出できる。"
+                "x": "ICOは各社が約束を実行するかを監視している。また、モデルに埋もれた機微なデータや、人々が自分の情報を削除してもらう方法など、現在のAI学習の慣行には英国のデータ保護法上なお問題があると認めている。"
               },
               {
                 "t": "p",
-                "x": "Joni Ernst上院議員は、OTAsの審査で疑わしいコストや監督の欠如といった危険信号が見つかったと述べる。公開記録によるとGoogle、Anthropic、OpenAIはいずれもCDAOとOTsを結んでいるが、各社はそれにTradewindsが使われたかどうかを確認しなかった。"
+                "x": "規制当局は次にAIエージェントに目を向けている。エージェントが安全対策を回避したとの報道を受け、OpenAI、Anthropic、Meta、そして英国のAI Security Instituteに連絡を取った。ICOの技術規制担当ディレクター、Richard Nevinson氏は「AIエージェントが自律的に動くという事実は、不十分なコンプライアンスの言い訳にはならない」と述べた。エージェント型AIに関する六週間の意見募集は11月20日まで行われる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "五角大楼借短视频\n加速采购AI",
-          "body": "Tradewinds凭视频加速AI采购，OpenAI、Anthropic和Google在列。",
-          "mini_headline": "五角大楼加速AI采购",
+          "headline": "英国监管机构获十家\nAI开发商数据承诺",
+          "body": "英国ICO称，十家AI开发商已改变或承诺改变用个人数据训练AI的方式。",
+          "mini_headline": "英国ICO获AI数据承诺",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "图片合成：Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "国防部一项鲜为人知的采购计划Tradewinds，根据不超过五分钟的产品视频，向潜在承包商授予特殊资格，使政府能更快采购其AI产品。该计划由DOD首席数字与人工智能办公室（CDAO）管理。"
+                "x": "全球十家最大的AI开发商在英国隐私监管机构审查后，同意收紧对个人数据的处理。ICO表示，Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI和Stability AI已经作出调整或承诺作出调整。"
               },
               {
                 "t": "p",
-                "x": "进入Tradewinds Solutions Marketplace的产品被视为“post-competitive”（已完成竞争），可将授标周期缩短数月。一名DOD官员表示，国防部已有数次借助Tradewinds在不到一周内完成授标。OpenAI、Anthropic和Google均列为参与方；三家公司均拒绝置评。"
+                "x": "这些措施包括更清楚地说明个人信息如何用于训练AI模型、为人们行使数据权利提供更好的途径，以及对开发商的保障措施进行更严格的评估。该监督计划于2025年启动，最初涵盖11家开发商；后因ICO暂停与xAI的接触、转而对其Grok聊天机器人另行展开正式调查，数量降至十家。"
               },
               {
                 "t": "p",
-                "x": "今年，军方正征集可帮助“提升部队杀伤力”的AI技术，以及协助联合目标打击（包括所谓“杀伤链”执行）的智能体方案。该资格让“其他交易”协议（OTs）更易使用；依据法律，五角大楼可在不通知国会的情况下，在单份OT上支出最多$500 million。"
+                "x": "ICO正在监督开发商是否兑现承诺，并承认按照英国数据保护法，当前的AI训练做法仍存在问题，包括埋藏在模型中的敏感数据，以及人们如何让自己的信息被删除。"
               },
               {
                 "t": "p",
-                "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
+                "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pentágono usa videos cortos\npara acelerar compras de AI",
-          "body": "Tradewinds agiliza las compras de AI del Pentágono con videos de cinco minutos; figuran OpenAI, Anthropic y Google.",
-          "mini_headline": "El Pentágono acelera compras de AI",
+          "headline": "El regulador británico obtiene\ncompromisos de diez firmas de IA",
+          "body": "La ICO del UK dice que diez desarrolladores de IA cambiaron o prometieron cambiar su uso de datos para entrenar IA.",
+          "mini_headline": "La ICO del UK obtiene compromisos de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6abbccfabe7d0477fd09a6c4/191:100/w_1280,c_limit/Security_Pentagon%20Hopes%20to%20Speed%20Up%20%E2%80%98Kill%20Chain%E2%80%99%20AI%20Buys%20With%205-Minute%20Videos_v1.jpg",
-                "cap": "Fotoilustración: Jobanny Cabrera; Getty Images"
+                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Tradewinds, un programa de adquisiciones poco conocido del Departamento de Defensa, otorga estatus especiales a posibles contratistas que facilitan al gobierno comprar con rapidez sus productos de AI, a partir de videos de producto de no más de cinco minutos. Lo gestiona la Oficina Principal de Digital e Inteligencia Artificial (CDAO) del DOD."
+                "x": "Diez de los mayores desarrolladores de IA del mundo han aceptado endurecer su manejo de datos personales tras el escrutinio del regulador de privacidad británico. La ICO afirmó que Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI y Stability AI ya han hecho cambios o se han comprometido a hacerlos."
               },
               {
                 "t": "p",
-                "x": "Los productos aceptados en el Tradewinds Solutions Marketplace se consideran “post-competitive” (poscompetitivos), lo que puede recortar meses de los plazos de adjudicación. Un funcionario del DOD afirma que el departamento ha adjudicado contratos con Tradewinds en menos de una semana en varias ocasiones. OpenAI, Anthropic y Google figuran como participantes; las tres declinaron hacer comentarios."
+                "x": "Entre ellos figuran explicaciones más claras sobre cómo se usa la información personal para entrenar modelos de IA, mejores vías para que las personas ejerzan sus derechos sobre sus datos y evaluaciones más estrictas de las salvaguardas de los desarrolladores. El programa de supervisión, lanzado en 2025, abarcaba inicialmente a 11 desarrolladores; quedaron diez después de que la ICO suspendiera su relación con xAI para abrir una investigación formal aparte sobre su chatbot Grok."
               },
               {
                 "t": "p",
-                "x": "Este año, el ejército busca propuestas de tecnología de AI que ayude a “aumentar la letalidad de la fuerza” y de agentes que asistan en la selección conjunta de objetivos, incluida la llamada ejecución de la cadena de muerte (kill chain). El estatus facilita el uso de acuerdos de “otras transacciones” (OTs); por ley, el Pentágono puede gastar hasta 500 millones de dólares en un solo OT sin notificar al Congreso."
+                "x": "La ICO vigila si los desarrolladores cumplen y admite que las prácticas actuales de entrenamiento de IA aún plantean problemas según la ley de protección de datos del UK, como los datos sensibles ocultos en los modelos y la forma en que las personas pueden lograr que se eliminen sus datos."
               },
               {
                 "t": "p",
-                "x": "La senadora Joni Ernst afirma que las revisiones de los OTAs han encendido alarmas, como costos cuestionables y falta de supervisión. Los registros públicos muestran que Google, Anthropic y OpenAI tienen OTs con la CDAO, pero las empresas no confirmaron si se usó Tradewinds para ellos."
+                "x": "El regulador se centra ahora en los agentes de IA. Ha contactado con OpenAI, Anthropic, Meta y el AI Security Institute del UK tras informes de agentes que eludían salvaguardas. “Que los agentes de IA actúen con autonomía no es excusa para un cumplimiento deficiente”, dijo Richard Nevinson, director de regulación tecnológica de la ICO. Una consulta de seis semanas para recabar pruebas sobre la IA agéntica estará abierta hasta el 20 de noviembre."
               }
             ]
           }
@@ -325,219 +316,190 @@
       }
     },
     {
-      "id": "politics-trump-superintelligence-science-summit",
+      "id": "politics-usa-today-sues-openai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "트럼프, AI-driven\n과학 정상회의 간다",
-      "body": "Axios에 따르면 행정부는 연방 연구비를 줄이며 산업계의 과학 투자를 기대한다.",
-      "mini_headline": "트럼프의 AI 과학 정상회의",
+      "headline": "USA Today가\nOpenAI에 저작권 소송",
+      "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
+      "mini_headline": "USA Today, OpenAI 제소",
       "tool": "Politics",
-      "source": "axios.com",
-      "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+      "source": "theverge.com",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-            "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
           },
           {
             "t": "p",
-            "x": "Axios가 먼저 입수한 발표문을 보면, 트럼프 대통령은 목요일 정상회의에 참석한다. 과학자들에게 힘을 싣고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우겠다는 자리다."
+            "x": "USA Today Co.와 이 회사 소유의 여러 지역 신문이 OpenAI를 상대로 소송을 냈다. 앞서 Reuters 보도에 따르면 이들은 OpenAI가 AI 모델을 학습시키려고 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI가 콘텐츠를 무단으로 써 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
           },
           {
             "t": "p",
-            "x": "의미: 트럼프 행정부는 과학 연구개발 지원을 줄이면서 그 빈자리를 산업계가 채워 주길 기대한다."
+            "x": "OpenAI를 상대로 잇따른 저작권 소송 가운데 가장 최근 건이다. OpenAI는 The New York Times의 저작권 소송 말고도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송까지 안고 있다."
           },
           {
             "t": "p",
-            "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브, 학생과 교수진의 컴퓨팅 접근을 넓힐 조지아주 $1 billion 투자도 함께 공개한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 넣는다."
+            "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 주장이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
           },
           {
             "t": "p",
-            "x": "자세히 보면: 이번 정상회의의 출발점은 백악관 OSTP 국장 Michael Kratsios가 7월에 낸 보고서다. 보고서는 R&D에서 산업계가 맡는 역할이 커지고 있다고 짚는다."
-          },
-          {
-            "t": "p",
-            "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당길 야심 찬 시한을 담아 Genesis Mission을 출범시켰다. 백악관은 7월 이 미션을 15개 이상 연방 기관으로 넓히겠다고 밝혔다."
+            "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
           }
         ]
       },
+      "lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "text": {
         "en": {
-          "headline": "Trump to attend summit on\nAI-driven science",
-          "body": "The administration wants industry to step in on science research amid federal funding cuts, Axios reports.",
-          "mini_headline": "Trump's AI science summit",
+          "headline": "USA Today sues OpenAI\nover use of its journalism",
+          "body": "USA Today Co. alleges OpenAI used its journalism without permission to train AI models, joining other publishers.",
+          "mini_headline": "USA Today sues OpenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "Photo illustration: Sarah Grillo/Axios. Photo: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "President Trump will attend a summit Thursday meant to empower scientists and position the U.S. as a leader in breakthroughs driven by \"super intelligence,\" according to an announcement shared first with Axios."
+                "x": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied “hundreds of thousands” of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI’s unauthorized use of its content “has done real and continuing” harm to its outlets."
               },
               {
                 "t": "p",
-                "x": "Why it matters: The Trump administration is looking for industry to step in amid its cuts to government funding for science research and development."
+                "x": "This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET owner Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, and a coalition of nearly 400 local newspapers."
               },
               {
                 "t": "p",
-                "x": "Driving the news: The White House is announcing more than $1 billion in industry commitments for the Genesis Mission from AMD, OpenAI, Anthropic and others. It is also announcing a compute hub of more than 14 institutions across 10 southeast states, and a $1 billion investment in Georgia for student and faculty compute access. The National Science Foundation and the Energy Department will invest more than $100 million in AI-driven science tools."
+                "x": "“OpenAI’s commercial success rests on large-scale copyright infringement,” USA Today Co.’s lawsuit claims. It alleges that OpenAI never asked for permission to use its content, instead “took” USA Today’s content to “build products worth hundreds of billions of dollars.” The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman, and several other local outlets are also included in the lawsuit."
               },
               {
                 "t": "p",
-                "x": "Zoom in: The summit was inspired by a July report from White House OSTP Director Michael Kratsios, which highlights industry's increasing role in driving R&D."
-              },
-              {
-                "t": "p",
-                "x": "Catch up quick: Trump last November launched the Genesis Mission, which sets ambitious deadlines to accelerate scientific discovery. In July, the White House said it would expand to more than 15 federal agencies."
+                "x": "OpenAI didn’t immediately respond to The Verge’s request for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "트럼프, AI-driven\n과학 정상회의 간다",
-          "body": "Axios에 따르면 행정부는 연방 연구비를 줄이며 산업계의 과학 투자를 기대한다.",
-          "mini_headline": "트럼프의 AI 과학 정상회의",
+          "headline": "USA Today가\nOpenAI에 저작권 소송",
+          "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
+          "mini_headline": "USA Today, OpenAI 제소",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Axios가 먼저 입수한 발표문을 보면, 트럼프 대통령은 목요일 정상회의에 참석한다. 과학자들에게 힘을 싣고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우겠다는 자리다."
+                "x": "USA Today Co.와 이 회사 소유의 여러 지역 신문이 OpenAI를 상대로 소송을 냈다. 앞서 Reuters 보도에 따르면 이들은 OpenAI가 AI 모델을 학습시키려고 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI가 콘텐츠를 무단으로 써 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
               },
               {
                 "t": "p",
-                "x": "의미: 트럼프 행정부는 과학 연구개발 지원을 줄이면서 그 빈자리를 산업계가 채워 주길 기대한다."
+                "x": "OpenAI를 상대로 잇따른 저작권 소송 가운데 가장 최근 건이다. OpenAI는 The New York Times의 저작권 소송 말고도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송까지 안고 있다."
               },
               {
                 "t": "p",
-                "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브, 학생과 교수진의 컴퓨팅 접근을 넓힐 조지아주 $1 billion 투자도 함께 공개한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 넣는다."
+                "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 주장이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
               },
               {
                 "t": "p",
-                "x": "자세히 보면: 이번 정상회의의 출발점은 백악관 OSTP 국장 Michael Kratsios가 7월에 낸 보고서다. 보고서는 R&D에서 산업계가 맡는 역할이 커지고 있다고 짚는다."
-              },
-              {
-                "t": "p",
-                "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당길 야심 찬 시한을 담아 Genesis Mission을 출범시켰다. 백악관은 7월 이 미션을 15개 이상 연방 기관으로 넓히겠다고 밝혔다."
+                "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-driven科学\n会議にトランプ氏出席",
-          "body": "Axiosによると、政権は連邦研究費削減の中で産業界に科学研究の肩代わりを求めている。",
-          "mini_headline": "トランプ氏のAI科学サミット",
+          "headline": "USA Todayが\n記事利用でOpenAIを提訴",
+          "body": "USA Today Co.も、OpenAIが記事を無断でAI学習に使ったとして提訴した。",
+          "mini_headline": "USA Today、OpenAIを提訴",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "写真イラスト：Sarah Grillo/Axios。写真：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Axiosが先行して入手した発表によると、トランプ大統領は木曜日、科学者を後押しし、米国（U.S.）を「超知能（super intelligence）」による飛躍的成果のリーダーに位置づけるためのサミットに出席する。"
+                "x": "USA Today Co.と傘下の複数の地方紙が、AIモデルの学習のために記事「数十万」本を複製したとしてOpenAIを提訴した。先にReutersが報じていた。木曜日に提出した訴状で同社は2億5000万ドルを超える損害賠償を求め、OpenAIによるコンテンツの無断利用が自社媒体に「現実の継続的な」損害を与えていると主張している。"
               },
               {
                 "t": "p",
-                "x": "なぜ重要か：トランプ政権は科学の研究開発に対する政府資金を削減する中、産業界がその穴を埋めることを期待している。"
+                "x": "これはOpenAIに対する一連の著作権訴訟の最新例にすぎない。OpenAIはThe New York Timesによる著作権訴訟のほか、The Intercept、CNETを所有するZiff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times、そして400近い地方紙の連合からも訴えられている。"
               },
               {
                 "t": "p",
-                "x": "ニュースの核心：ホワイトハウスは、AMD、OpenAI、AnthropicなどによるGenesis Missionへの$1 billion超の産業界からの拠出表明を発表する。また、南東部10州の14以上の機関をつなぐコンピューティング拠点と、学生・教員の計算資源利用に向けたジョージア州への$1 billionの投資も発表する。全米科学財団とエネルギー省はAI-drivenな科学ツールに$100 million以上を投じる。"
+                "x": "「OpenAIの商業的成功は大規模な著作権侵害の上に成り立っている」とUSA Today Co.の訴状は主張する。OpenAIはコンテンツの利用許可を一度も求めず、USA Todayのコンテンツを「奪い」、「数千億ドル規模の製品を作った」としている。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahomanなど複数の地方媒体も原告に名を連ねている。"
               },
               {
                 "t": "p",
-                "x": "詳しく見ると：サミットは、ホワイトハウスOSTPのMichael Kratsios局長による7月の報告書に着想を得たもので、同報告書はR&Dを主導する産業界の役割の高まりを強調している。"
-              },
-              {
-                "t": "p",
-                "x": "おさらい：トランプ氏は昨年11月、科学的発見を加速するための野心的な期限を設けたGenesis Missionを開始した。ホワイトハウスは7月、これを15以上の連邦機関に拡大すると表明した。"
+                "x": "OpenAIはThe Vergeのコメント要請にすぐには応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特朗普将出席\nAI-driven科学峰会",
-          "body": "据Axios报道，联邦科研经费削减之际，政府希望产业界接手科学研究。",
-          "mini_headline": "特朗普的AI科学峰会",
+          "headline": "USA Today就报道\n使用问题起诉OpenAI",
+          "body": "USA Today Co.指控OpenAI未经许可用其新闻训练AI，加入其他出版商行列。",
+          "mini_headline": "USA Today起诉OpenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "图片合成：Sarah Grillo/Axios。照片：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "据Axios率先获得的公告，特朗普总统将于周四出席一场峰会，旨在为科学家赋能，并使美国（U.S.）成为“超级智能”（super intelligence）驱动的突破的引领者。"
+                "x": "据Reuters此前报道，USA Today Co.及其旗下多家地方报纸正起诉OpenAI，指控该公司复制了“数十万”篇文章来训练其AI模型。该出版商在周四提交的诉状中要求超过2.5亿美元的赔偿，称OpenAI未经授权使用其内容，已对旗下媒体造成“真实且持续的”损害。"
               },
               {
                 "t": "p",
-                "x": "为何重要：特朗普政府在削减政府科研经费的同时，希望产业界出手填补。"
+                "x": "这只是OpenAI近来遭遇的一系列版权诉讼中最新的一起。除The New York Times提起的版权诉讼外，OpenAI还面临The Intercept、CNET母公司Ziff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times以及由近400家地方报纸组成的联盟的法律行动。"
               },
               {
                 "t": "p",
-                "x": "新闻要点：白宫将宣布AMD、OpenAI、Anthropic等企业对Genesis Mission超过$1 billion的产业承诺。白宫还将宣布一个覆盖东南部10个州、14家以上机构的算力中心，以及在佐治亚州投入$1 billion，为师生提供算力。美国国家科学基金会和能源部将向AI-driven科学工具投入超过$100 million。"
+                "x": "USA Today Co.在诉状中称：“OpenAI的商业成功建立在大规模版权侵权之上。”诉状指控OpenAI从未就使用其内容征求许可，而是“拿走”USA Today的内容来“打造价值数千亿美元的产品”。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahoman等多家地方媒体也是此案原告。"
               },
               {
                 "t": "p",
-                "x": "深入来看：此次峰会的灵感来自白宫OSTP主任Michael Kratsios 7月发布的一份报告，报告强调产业界在推动R&D方面的作用日益增强。"
-              },
-              {
-                "t": "p",
-                "x": "回顾：特朗普去年11月启动Genesis Mission，为加速科学发现设定了雄心勃勃的期限。白宫7月表示，将把该计划扩展至15个以上联邦机构。"
+                "x": "OpenAI未立即回应The Verge的置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trump asistirá a una cumbre\nsobre ciencia AI-driven",
-          "body": "El gobierno quiere que la industria asuma la investigación científica ante los recortes federales, informa Axios.",
-          "mini_headline": "La cumbre de ciencia AI de Trump",
+          "headline": "USA Today demanda a OpenAI\npor el uso de su periodismo",
+          "body": "USA Today Co. acusa a OpenAI de usar su periodismo sin permiso para entrenar modelos de IA, como otras editoriales.",
+          "mini_headline": "USA Today demanda a OpenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "Fotoilustración: Sarah Grillo/Axios. Foto: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "El presidente Trump asistirá el jueves a una cumbre destinada a empoderar a los científicos y a posicionar a U.S. (Estados Unidos) como líder en avances impulsados por la \"superinteligencia\", según un anuncio compartido primero con Axios."
+                "x": "USA Today Co., junto con varios periódicos locales de su propiedad, ha demandado a OpenAI alegando que la empresa copió “cientos de miles” de artículos para entrenar sus modelos de IA, según informó antes Reuters. En una demanda presentada el jueves, la editorial pide daños y perjuicios por más de 250 millones de dólares y sostiene que el uso no autorizado de su contenido por parte de OpenAI “ha causado un daño real y continuo” a sus medios."
               },
               {
                 "t": "p",
-                "x": "Por qué importa: el gobierno de Trump busca que la industria intervenga en medio de sus recortes a la financiación pública de la investigación y el desarrollo científicos."
+                "x": "Es solo la más reciente de una serie de demandas por derechos de autor contra OpenAI. Además de la demanda presentada por The New York Times, OpenAI también enfrenta acciones legales de The Intercept, Ziff Davis (propietaria de CNET), CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times y una coalición de casi 400 periódicos locales."
               },
               {
                 "t": "p",
-                "x": "Lo que impulsa la noticia: la Casa Blanca anuncia más de $1 billion en compromisos de la industria para la Genesis Mission por parte de AMD, OpenAI, Anthropic y otros. También anuncia un centro de computación con más de 14 instituciones en 10 estados del sureste, y una inversión de $1 billion en Georgia para el acceso a computación de estudiantes y profesores. La National Science Foundation y el Departamento de Energía invertirán más de $100 million en herramientas científicas AI-driven."
+                "x": "“El éxito comercial de OpenAI se basa en una infracción de derechos de autor a gran escala”, afirma la demanda de USA Today Co. Sostiene que OpenAI nunca pidió permiso para usar su contenido y que, en cambio, “tomó” el contenido de USA Today para “crear productos valorados en cientos de miles de millones de dólares”. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman y otros medios locales también forman parte de la demanda."
               },
               {
                 "t": "p",
-                "x": "En detalle: la cumbre se inspiró en un informe de julio del director de la OSTP de la Casa Blanca, Michael Kratsios, que destaca el creciente papel de la industria en el impulso de la I+D (R&D)."
-              },
-              {
-                "t": "p",
-                "x": "Contexto rápido: Trump lanzó en noviembre pasado la Genesis Mission, que fija plazos ambiciosos para acelerar los descubrimientos científicos. En julio, la Casa Blanca dijo que se ampliaría a más de 15 agencias federales."
+                "x": "OpenAI no respondió de inmediato a la solicitud de comentarios de The Verge."
               }
             ]
           }
@@ -545,141 +507,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "트럼프, AI-driven\n과학 정상회의 간다",
-          "body": "Axios에 따르면 행정부는 연방 연구비 삭감 속 산업계의 과학 투자를 바란다.",
-          "mini_headline": "트럼프의 AI 과학 정상회의",
+          "headline": "USA Today가\nOpenAI에 저작권 소송",
+          "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
+          "mini_headline": "USA Today, OpenAI 제소",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "사진 일러스트: Sarah Grillo/Axios. 사진: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Axios가 먼저 입수한 발표에 따르면, 트럼프 대통령은 목요일 과학자들에게 힘을 실어주고 미국(U.S.)을 '초지능(super intelligence)'이 이끄는 혁신의 선도국으로 세우기 위한 정상회의에 참석한다."
+                "x": "USA Today Co.와 이 회사가 소유한 여러 지역 신문이 OpenAI를 상대로 소송을 제기했다. 앞서 Reuters가 보도한 바에 따르면, 이들은 OpenAI가 AI 모델 학습을 위해 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI의 무단 콘텐츠 사용이 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
               },
               {
                 "t": "p",
-                "x": "의미: 트럼프 행정부는 과학 연구개발에 대한 정부 지원을 줄이는 가운데, 산업계가 그 자리를 채워주기를 기대하고 있다."
+                "x": "이는 OpenAI를 상대로 잇따라 제기된 저작권 소송 가운데 가장 최근 사례다. OpenAI는 The New York Times가 제기한 저작권 소송 외에도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송에도 직면해 있다."
               },
               {
                 "t": "p",
-                "x": "핵심 뉴스: 백악관은 AMD, OpenAI, Anthropic 등이 Genesis Mission에 약속한 $1 billion 이상의 산업계 투자를 발표한다. 남동부 10개 주 14개 이상 기관을 잇는 컴퓨팅 허브와, 학생·교수진의 컴퓨팅 접근을 위한 조지아주 $1 billion 투자도 함께 발표한다. 국립과학재단(National Science Foundation)과 에너지부는 AI-driven 과학 도구에 $100 million 이상을 투자한다."
+                "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 것이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
               },
               {
                 "t": "p",
-                "x": "자세히 보면: 이번 정상회의는 백악관 OSTP 국장 Michael Kratsios의 7월 보고서에서 출발했다. 이 보고서는 R&D를 이끄는 산업계의 역할이 커지고 있다고 강조한다."
-              },
-              {
-                "t": "p",
-                "x": "배경: 트럼프는 지난해 11월 과학적 발견을 앞당기기 위한 야심 찬 시한을 담은 Genesis Mission을 출범시켰다. 백악관은 7월 이를 15개 이상의 연방 기관으로 넓히겠다고 밝혔다."
+                "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-driven科学\n会議にトランプ氏出席",
-          "body": "Axiosによると、政権は連邦研究費削減の中で産業界に科学研究の肩代わりを求めている。",
-          "mini_headline": "トランプ氏のAI科学サミット",
+          "headline": "USA Todayが\n記事利用でOpenAIを提訴",
+          "body": "USA Today Co.も、OpenAIが記事を無断でAI学習に使ったとして提訴した。",
+          "mini_headline": "USA Today、OpenAIを提訴",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "写真イラスト：Sarah Grillo/Axios。写真：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "Axiosが先行して入手した発表によると、トランプ大統領は木曜日、科学者を後押しし、米国（U.S.）を「超知能（super intelligence）」による飛躍的成果のリーダーに位置づけるためのサミットに出席する。"
+                "x": "USA Today Co.と傘下の複数の地方紙が、AIモデルの学習のために記事「数十万」本を複製したとしてOpenAIを提訴した。先にReutersが報じていた。木曜日に提出した訴状で同社は2億5000万ドルを超える損害賠償を求め、OpenAIによるコンテンツの無断利用が自社媒体に「現実の継続的な」損害を与えていると主張している。"
               },
               {
                 "t": "p",
-                "x": "なぜ重要か：トランプ政権は科学の研究開発に対する政府資金を削減する中、産業界がその穴を埋めることを期待している。"
+                "x": "これはOpenAIに対する一連の著作権訴訟の最新例にすぎない。OpenAIはThe New York Timesによる著作権訴訟のほか、The Intercept、CNETを所有するZiff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times、そして400近い地方紙の連合からも訴えられている。"
               },
               {
                 "t": "p",
-                "x": "ニュースの核心：ホワイトハウスは、AMD、OpenAI、AnthropicなどによるGenesis Missionへの$1 billion超の産業界からの拠出表明を発表する。また、南東部10州の14以上の機関をつなぐコンピューティング拠点と、学生・教員の計算資源利用に向けたジョージア州への$1 billionの投資も発表する。全米科学財団とエネルギー省はAI-drivenな科学ツールに$100 million以上を投じる。"
+                "x": "「OpenAIの商業的成功は大規模な著作権侵害の上に成り立っている」とUSA Today Co.の訴状は主張する。OpenAIはコンテンツの利用許可を一度も求めず、USA Todayのコンテンツを「奪い」、「数千億ドル規模の製品を作った」としている。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahomanなど複数の地方媒体も原告に名を連ねている。"
               },
               {
                 "t": "p",
-                "x": "詳しく見ると：サミットは、ホワイトハウスOSTPのMichael Kratsios局長による7月の報告書に着想を得たもので、同報告書はR&Dを主導する産業界の役割の高まりを強調している。"
-              },
-              {
-                "t": "p",
-                "x": "おさらい：トランプ氏は昨年11月、科学的発見を加速するための野心的な期限を設けたGenesis Missionを開始した。ホワイトハウスは7月、これを15以上の連邦機関に拡大すると表明した。"
+                "x": "OpenAIはThe Vergeのコメント要請にすぐには応じなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "特朗普将出席\nAI-driven科学峰会",
-          "body": "据Axios报道，联邦科研经费削减之际，政府希望产业界接手科学研究。",
-          "mini_headline": "特朗普的AI科学峰会",
+          "headline": "USA Today就报道\n使用问题起诉OpenAI",
+          "body": "USA Today Co.指控OpenAI未经许可用其新闻训练AI，加入其他出版商行列。",
+          "mini_headline": "USA Today起诉OpenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "图片合成：Sarah Grillo/Axios。照片：Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "据Axios率先获得的公告，特朗普总统将于周四出席一场峰会，旨在为科学家赋能，并使美国（U.S.）成为“超级智能”（super intelligence）驱动的突破的引领者。"
+                "x": "据Reuters此前报道，USA Today Co.及其旗下多家地方报纸正起诉OpenAI，指控该公司复制了“数十万”篇文章来训练其AI模型。该出版商在周四提交的诉状中要求超过2.5亿美元的赔偿，称OpenAI未经授权使用其内容，已对旗下媒体造成“真实且持续的”损害。"
               },
               {
                 "t": "p",
-                "x": "为何重要：特朗普政府在削减政府科研经费的同时，希望产业界出手填补。"
+                "x": "这只是OpenAI近来遭遇的一系列版权诉讼中最新的一起。除The New York Times提起的版权诉讼外，OpenAI还面临The Intercept、CNET母公司Ziff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times以及由近400家地方报纸组成的联盟的法律行动。"
               },
               {
                 "t": "p",
-                "x": "新闻要点：白宫将宣布AMD、OpenAI、Anthropic等企业对Genesis Mission超过$1 billion的产业承诺。白宫还将宣布一个覆盖东南部10个州、14家以上机构的算力中心，以及在佐治亚州投入$1 billion，为师生提供算力。美国国家科学基金会和能源部将向AI-driven科学工具投入超过$100 million。"
+                "x": "USA Today Co.在诉状中称：“OpenAI的商业成功建立在大规模版权侵权之上。”诉状指控OpenAI从未就使用其内容征求许可，而是“拿走”USA Today的内容来“打造价值数千亿美元的产品”。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahoman等多家地方媒体也是此案原告。"
               },
               {
                 "t": "p",
-                "x": "深入来看：此次峰会的灵感来自白宫OSTP主任Michael Kratsios 7月发布的一份报告，报告强调产业界在推动R&D方面的作用日益增强。"
-              },
-              {
-                "t": "p",
-                "x": "回顾：特朗普去年11月启动Genesis Mission，为加速科学发现设定了雄心勃勃的期限。白宫7月表示，将把该计划扩展至15个以上联邦机构。"
+                "x": "OpenAI未立即回应The Verge的置评请求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Trump asistirá a una cumbre\nsobre ciencia AI-driven",
-          "body": "El gobierno quiere que la industria asuma la investigación científica ante los recortes federales, informa Axios.",
-          "mini_headline": "La cumbre de ciencia AI de Trump",
+          "headline": "USA Today demanda a OpenAI\npor el uso de su periodismo",
+          "body": "USA Today Co. acusa a OpenAI de usar su periodismo sin permiso para entrenar modelos de IA, como otras editoriales.",
+          "mini_headline": "USA Today demanda a OpenAI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/ottzRZt69W1aorywXHugd2OOQt0=/0x0:1920x1080/1920x1080/2026/03/20/1774024302418.jpeg?w=3840",
-                "cap": "Fotoilustración: Sarah Grillo/Axios. Foto: Aaron Schwartz/UPI/Bloomberg via Getty Images"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
               },
               {
                 "t": "p",
-                "x": "El presidente Trump asistirá el jueves a una cumbre destinada a empoderar a los científicos y a posicionar a U.S. (Estados Unidos) como líder en avances impulsados por la \"superinteligencia\", según un anuncio compartido primero con Axios."
+                "x": "USA Today Co., junto con varios periódicos locales de su propiedad, ha demandado a OpenAI alegando que la empresa copió “cientos de miles” de artículos para entrenar sus modelos de IA, según informó antes Reuters. En una demanda presentada el jueves, la editorial pide daños y perjuicios por más de 250 millones de dólares y sostiene que el uso no autorizado de su contenido por parte de OpenAI “ha causado un daño real y continuo” a sus medios."
               },
               {
                 "t": "p",
-                "x": "Por qué importa: el gobierno de Trump busca que la industria intervenga en medio de sus recortes a la financiación pública de la investigación y el desarrollo científicos."
+                "x": "Es solo la más reciente de una serie de demandas por derechos de autor contra OpenAI. Además de la demanda presentada por The New York Times, OpenAI también enfrenta acciones legales de The Intercept, Ziff Davis (propietaria de CNET), CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times y una coalición de casi 400 periódicos locales."
               },
               {
                 "t": "p",
-                "x": "Lo que impulsa la noticia: la Casa Blanca anuncia más de $1 billion en compromisos de la industria para la Genesis Mission por parte de AMD, OpenAI, Anthropic y otros. También anuncia un centro de computación con más de 14 instituciones en 10 estados del sureste, y una inversión de $1 billion en Georgia para el acceso a computación de estudiantes y profesores. La National Science Foundation y el Departamento de Energía invertirán más de $100 million en herramientas científicas AI-driven."
+                "x": "“El éxito comercial de OpenAI se basa en una infracción de derechos de autor a gran escala”, afirma la demanda de USA Today Co. Sostiene que OpenAI nunca pidió permiso para usar su contenido y que, en cambio, “tomó” el contenido de USA Today para “crear productos valorados en cientos de miles de millones de dólares”. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman y otros medios locales también forman parte de la demanda."
               },
               {
                 "t": "p",
-                "x": "En detalle: la cumbre se inspiró en un informe de julio del director de la OSTP de la Casa Blanca, Michael Kratsios, que destaca el creciente papel de la industria en el impulso de la I+D (R&D)."
-              },
-              {
-                "t": "p",
-                "x": "Contexto rápido: Trump lanzó en noviembre pasado la Genesis Mission, que fija plazos ambiciosos para acelerar los descubrimientos científicos. En julio, la Casa Blanca dijo que se ampliaría a más de 15 agencias federales."
+                "x": "OpenAI no respondió de inmediato a la solicitud de comentarios de The Verge."
               }
             ]
           }
@@ -687,15 +629,15 @@
       }
     },
     {
-      "id": "politics-eu-ai-liability-altman-debate",
+      "id": "politics-data-center-power-bill",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Altman이 다시 켠\nEU AI 책임법 논쟁",
-      "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
-      "mini_headline": "EU AI 책임법 논쟁 재개",
+      "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
+      "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
+      "mini_headline": "데이터센터에 새 비용",
       "tool": "Politics",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
+      "source": "axios.com",
+      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -703,179 +645,180 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-            "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+            "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+            "cap": "일러스트: Sarah Grillo/Axios"
           },
           {
             "t": "p",
-            "x": "EU 의회 의원들은 OpenAI의 Sam Altman이라는 뜻밖의 우군을 얻은 뒤, 인공지능 책임법을 되살리자고 거듭 요구하고 있다."
+            "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기면서 데이터센터에는 새 비용과 규제를 지우는 방안을 검토 중이다. 지난주 공개된 이 초당적 조항들은 에너지 인허가를 서두르려는 상원의 더 큰 법안에 들어 있다. 발의자들은 에너지 개발에 속도를 내면서도 데이터센터가 전력망 증설 비용 가운데 제 몫을 내게 하는 법안이라고 설명한다."
           },
           {
             "t": "p",
-            "x": "Altman은 Decoded by POLITICO 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 했다. EU는 지난해 규제 완화 흐름 속에서 AI 책임법 제안을 폐기했다. 당시 집행위원회는 정치적 지지를 충분히 얻기 어렵다고 설명했다."
+            "x": "데이터센터는 기존 송전망 비용 가운데 제 몫에 더해, 자기에게 전력을 대는 데 드는 추가 송전 비용까지 낸다. 20메가와트 이상 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용도 떠안는다. 각 주에는 여기서 더 나아갈 폭넓은 재량이 주어진다."
           },
           {
             "t": "p",
-            "x": "의회에서 이 법안을 이끈 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리고 싶어 한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열 Brando Benifei는 철회를 “심각한 실수”라고 불렀다."
+            "x": "Data Center Coalition은 아직 법안을 검토하는 중이라고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
           },
           {
             "t": "p",
-            "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”면서 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 했다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+            "x": "상원이 중간선거를 앞두고 휴회 중이라 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
           }
         ]
       },
+      "lead_image": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
       "text": {
         "en": {
-          "headline": "Altman revives EU debate\non AI liability rules",
-          "body": "The EU shelved its AI liability rules, but OpenAI CEO Sam Altman has revived the debate, Politico Europe reports.",
-          "mini_headline": "EU AI liability debate returns",
+          "headline": "Bipartisan bill would put\nnew costs on data centers",
+          "body": "A bipartisan bill would impose new costs and limits on data centers while speeding the energy build-out for AI.",
+          "mini_headline": "New costs for data centers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "Sam Altman speaks during the G20 Innovation Ministerial in North Carolina, on Sept. 2, 2026. | Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "Illustration: Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "EU parliamentarians are digging in on calls to revive an artificial intelligence liability law after receiving support from an unexpected ally: OpenAI’s Sam Altman."
+                "x": "Lawmakers are considering forcing data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom. The bipartisan provisions, unveiled last week, are part of broader Senate legislation aimed at speeding up permitting for energy. The bill's sponsors say it would accelerate energy development while ensuring data centers pay their share of grid upgrades."
               },
               {
                 "t": "p",
-                "x": "“There's gonna need to be a liability framework for companies,” Altman said in an interview with Decoded by POLITICO. The EU last year scrapped its proposed AI liability law amid a push to deregulate, with the Commission arguing it had little chance of securing sufficient political support."
+                "x": "Data centers would pay both their share of the existing transmission network and the incremental transmission costs needed to serve them. New data centers of at least 20 megawatts would bear the incremental costs they impose across the power system, and states would get wide latitude to go further."
               },
               {
                 "t": "p",
-                "x": "German conservative lawmaker Axel Voss, who led on the proposal in Parliament, wants it back on the agenda. “Now even the CEO of OpenAI admits: Without liability, there is no trust,” he said. Social democrat Brando Benifei called the withdrawal “a serious mistake.”"
+                "x": "The Data Center Coalition said it is still reviewing the legislation. Amazon's Craig Sundstrom said the bill \"could unlock the investment needed to build new generation and transmission faster,\" while one tech industry official called some provisions an \"unprecedented level of discriminatory treatment.\" Cato Institute's Travis Fisher voiced \"mild support.\""
               },
               {
                 "t": "p",
-                "x": "The Commission said it “continues monitoring” the AI Act and Product Liability Directive, adding: “At this stage, there is no plan to reintroduce a proposal on AI liability.” CEPS research director Artur Bogucki said the EU needs “a direct, targeted AI liability instrument, narrow and procedural at its core.”"
+                "x": "With the Senate out of town ahead of the midterm elections, stakeholders have time to push for changes before a possible lame-duck debate."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Altman이 다시 켠\nEU AI 책임법 논쟁",
-          "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
-          "mini_headline": "EU AI 책임법 논쟁 재개",
+          "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
+          "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
+          "mini_headline": "데이터센터에 새 비용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "일러스트: Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "EU 의회 의원들은 OpenAI의 Sam Altman이라는 뜻밖의 우군을 얻은 뒤, 인공지능 책임법을 되살리자고 거듭 요구하고 있다."
+                "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기면서 데이터센터에는 새 비용과 규제를 지우는 방안을 검토 중이다. 지난주 공개된 이 초당적 조항들은 에너지 인허가를 서두르려는 상원의 더 큰 법안에 들어 있다. 발의자들은 에너지 개발에 속도를 내면서도 데이터센터가 전력망 증설 비용 가운데 제 몫을 내게 하는 법안이라고 설명한다."
               },
               {
                 "t": "p",
-                "x": "Altman은 Decoded by POLITICO 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 했다. EU는 지난해 규제 완화 흐름 속에서 AI 책임법 제안을 폐기했다. 당시 집행위원회는 정치적 지지를 충분히 얻기 어렵다고 설명했다."
+                "x": "데이터센터는 기존 송전망 비용 가운데 제 몫에 더해, 자기에게 전력을 대는 데 드는 추가 송전 비용까지 낸다. 20메가와트 이상 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용도 떠안는다. 각 주에는 여기서 더 나아갈 폭넓은 재량이 주어진다."
               },
               {
                 "t": "p",
-                "x": "의회에서 이 법안을 이끈 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리고 싶어 한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열 Brando Benifei는 철회를 “심각한 실수”라고 불렀다."
+                "x": "Data Center Coalition은 아직 법안을 검토하는 중이라고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”면서 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 했다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+                "x": "상원이 중간선거를 앞두고 휴회 중이라 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Altman氏、EUの\nAI責任法論議を再燃",
-          "body": "EUが棚上げしたAI責任規則の議論を、OpenAI CEOのAltman氏が再燃させた。",
-          "mini_headline": "EUのAI責任論議が再燃",
+          "headline": "超党派法案、データ\nセンターに新たなコスト",
+          "body": "超党派法案は、AI向けエネルギー整備を急ぐ一方、データセンターに新たな費用と制限を課す。",
+          "mini_headline": "データセンターに新たな負担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "2026年9月2日、ノースカロライナ州で開かれたG20イノベーション閣僚会合で発言するSam Altman氏。| Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "イラスト：Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "EU議会の議員らは、思わぬ味方であるOpenAIのSam Altman氏の支持を得て、人工知能責任法の復活を求める姿勢を強めている。"
+                "x": "議員らは、AIブームを支えるエネルギーインフラの整備を加速させる一方で、データセンターに新たなコストと規制を負わせることを検討している。先週公表されたこの超党派の条項は、エネルギー関連の許認可の迅速化を目指す上院のより大きな法案の一部だ。法案の提出者らは、エネルギー開発を加速させつつ、データセンターに送電網増強の応分の負担を確実に求めるものだと説明する。"
               },
               {
                 "t": "p",
-                "x": "Altman氏はDecoded by POLITICOのインタビューで「企業向けの責任の枠組みが必要になるだろう」と述べた。EUは昨年、規制緩和の流れの中でAI責任法案を撤回しており、欧州委員会は十分な政治的支持を得られる見込みが薄いと説明していた。"
+                "x": "データセンターは、既存の送電網に対する応分の負担と、自らへの電力供給に必要な追加の送電コストの両方を支払うことになる。20メガワット以上の新設データセンターは、電力システム全体に生じさせる追加コストを負担し、各州にはさらに踏み込む広い裁量が与えられる。"
               },
               {
                 "t": "p",
-                "x": "議会で同法案を主導したドイツの保守派議員Axel Voss氏は、これを再び議題に載せたい考えだ。「今やOpenAIのCEOでさえ認めている。責任なくして信頼なしだ」と同氏は語った。社会民主主義系のBrando Benifei氏は撤回を「重大な誤り」と呼んだ。"
+                "x": "Data Center Coalitionは、法案をまだ精査中だとした。AmazonのCraig Sundstrom氏は、法案が「新たな発電・送電設備をより速く建設するのに必要な投資を引き出し得る」と述べた。一方、あるテック業界関係者は一部の条項を「前例のない水準の差別的扱い」と評した。Cato InstituteのTravis Fisher氏は「控えめな支持」を示した。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はAI Actと製造物責任指令（Product Liability Directive）を「引き続き注視している」とし、「現段階でAI責任に関する提案を再提出する計画はない」と付け加えた。CEPSの研究ディレクターArtur Bogucki氏は、EUには「直接的で対象を絞った、核心において限定的かつ手続き的なAI責任の仕組み」が必要だと述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Altman重燃EU\nAI责任规则之争",
-          "body": "EU已搁置AI责任规则，但OpenAI CEO Sam Altman重燃了这场辩论。",
-          "mini_headline": "EU的AI责任之争重启",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "2026年9月2日，Sam Altman在北卡罗来纳州举行的G20创新部长级会议上发言。| Matt Ramey/AFP via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "EU议会议员获得了一位意外盟友——OpenAI的Sam Altman——的支持，正坚持呼吁恢复一部人工智能责任法。"
-              },
-              {
-                "t": "p",
-                "x": "Altman在接受Decoded by POLITICO采访时说：“企业将需要一个责任框架。”去年，EU在放松监管的浪潮中撤回了拟议的AI责任法，欧盟委员会当时称该法几乎不可能获得足够的政治支持。"
-              },
-              {
-                "t": "p",
-                "x": "在议会牵头推动该提案的德国保守派议员Axel Voss希望将其重新提上议程。他说：“如今连OpenAI的CEO都承认：没有责任，就没有信任。”社会民主党人Brando Benifei称撤回该法是“一个严重错误”。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会表示，正在“持续监测”AI Act和《产品责任指令》（Product Liability Directive），并补充说：“现阶段没有重新提出AI责任提案的计划。”CEPS研究主任Artur Bogucki表示，EU需要“一项直接、有针对性的AI责任工具，其核心应当范围窄、以程序为主”。"
+                "x": "中間選挙を前に上院は休会中で、利害関係者には、レームダック会期での審議の可能性に先立ち修正を働きかける時間がある。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Altman reabre el debate en la EU\nsobre responsabilidad de la AI",
-          "body": "La EU archivó normas de responsabilidad de AI, pero Sam Altman, CEO de OpenAI, reabrió el debate, según Politico Europe.",
-          "mini_headline": "Vuelve el debate sobre responsabilidad de la AI en la EU",
+          "headline": "Un plan bipartidista impondría\nnuevos costos a centros de datos",
+          "body": "Un proyecto bipartidista impondría nuevos costos y límites a los centros de datos y aceleraría la energía para la IA.",
+          "mini_headline": "Nuevos costos para centros de datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "Sam Altman habla durante la Reunión Ministerial de Innovación del G20 en Carolina del Norte, el 2 de septiembre de 2026. | Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "Ilustración: Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "Los eurodiputados de la EU insisten en reclamar que se recupere una ley de responsabilidad de la inteligencia artificial tras recibir el apoyo de un aliado inesperado: Sam Altman, de OpenAI."
+                "x": "Los legisladores estudian obligar a los centros de datos a asumir nuevos costos y restricciones, al tiempo que aceleran la infraestructura energética necesaria para alimentar el auge de la IA. Las disposiciones bipartidistas, presentadas la semana pasada, forman parte de una legislación más amplia del Senado destinada a agilizar los permisos energéticos. Los impulsores del proyecto afirman que aceleraría el desarrollo energético y garantizaría que los centros de datos paguen su parte de las mejoras de la red."
               },
               {
                 "t": "p",
-                "x": "“Va a hacer falta un marco de responsabilidad para las empresas”, dijo Altman en una entrevista con Decoded by POLITICO. La EU descartó el año pasado su propuesta de ley de responsabilidad de AI en plena ofensiva desreguladora, y la Comisión argumentó que tenía pocas posibilidades de obtener suficiente apoyo político."
+                "x": "Los centros de datos pagarían tanto su parte de la red de transmisión existente como los costos adicionales de transmisión necesarios para abastecerlos. Los nuevos centros de datos de al menos 20 megavatios asumirían los costos adicionales que generan en todo el sistema eléctrico, y los estados tendrían amplio margen para ir más allá."
               },
               {
                 "t": "p",
-                "x": "El eurodiputado conservador alemán Axel Voss, que lideró la propuesta en el Parlamento, quiere que vuelva a la agenda. “Ahora hasta el CEO de OpenAI lo admite: sin responsabilidad no hay confianza”, dijo. El socialdemócrata Brando Benifei calificó la retirada de “un grave error”."
+                "x": "La Data Center Coalition dijo que aún está revisando la legislación. Craig Sundstrom, de Amazon, afirmó que el proyecto “podría liberar la inversión necesaria para construir nueva generación y transmisión más rápido”, mientras que un responsable del sector tecnológico calificó algunas disposiciones de “nivel sin precedentes de trato discriminatorio”. Travis Fisher, del Cato Institute, expresó un “apoyo moderado”."
               },
               {
                 "t": "p",
-                "x": "La Comisión dijo que “sigue supervisando” la AI Act y la Product Liability Directive, y añadió: “En esta fase, no hay ningún plan para volver a presentar una propuesta sobre responsabilidad de la AI”. El director de investigación del CEPS, Artur Bogucki, dijo que la EU necesita “un instrumento de responsabilidad de AI directo y específico, acotado y procedimental en esencia”."
+                "x": "Con el Senado fuera de sesión antes de las elecciones de mitad de mandato, las partes interesadas tienen tiempo para presionar por cambios antes de un posible debate en la sesión de transición (lame-duck)."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "两党法案拟向\n数据中心加征新成本",
+          "body": "一项两党法案拟对数据中心施加新的成本与限制，同时加快为AI建设能源设施。",
+          "mini_headline": "数据中心面临新成本",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "插图：Sarah Grillo/Axios"
+              },
+              {
+                "t": "p",
+                "x": "立法者正考虑让数据中心承担新的成本与限制，同时加快建设支撑AI热潮所需的能源基础设施。这些两党条款于上周公布，是参议院一项旨在加快能源审批的更广泛立法的一部分。法案提出者表示，该法案将加速能源开发，同时确保数据中心为电网升级支付应有份额。"
+              },
+              {
+                "t": "p",
+                "x": "数据中心既要分摊现有输电网络的费用，也要承担为其供电所需的新增输电成本。规模至少20 MW的新建数据中心须承担其给整个电力系统带来的增量成本，各州还将获得很大空间采取更进一步的措施。"
+              },
+              {
+                "t": "p",
+                "x": "Data Center Coalition表示仍在审阅该立法。Amazon的Craig Sundstrom称，该法案\"可能释放更快建设新发电和输电设施所需的投资\"；一位科技行业人士则称部分条款是\"前所未有的歧视性待遇\"。Cato Institute的Travis Fisher表示\"温和支持\"。"
+              },
+              {
+                "t": "p",
+                "x": "由于参议院在中期选举前休会，各利益相关方有时间在可能到来的跛脚鸭会期辩论前推动修改。"
               }
             ]
           }
@@ -883,125 +826,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Altman, EU의\nAI 책임법 논쟁 재점화",
-          "body": "EU가 접은 AI 책임법 논쟁을 OpenAI CEO Sam Altman이 되살렸다.",
-          "mini_headline": "EU AI 책임법 논쟁 재개",
+          "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
+          "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
+          "mini_headline": "데이터센터에 새 비용",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "Sam Altman이 2026년 9월 2일 노스캐롤라이나에서 열린 G20 혁신 장관회의에서 발언하고 있다. | Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "일러스트: Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "EU 의회 의원들이 뜻밖의 우군인 OpenAI의 Sam Altman에게서 지지를 얻은 뒤, 인공지능 책임법을 되살리자는 요구를 굽히지 않고 있다."
+                "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기는 한편, 데이터센터에 새로운 비용과 규제를 부담시키는 방안을 검토하고 있다. 지난주 공개된 이 초당적 조항들은 에너지 인허가 절차를 빠르게 하려는 상원의 더 큰 법안의 일부다. 법안 발의자들은 이 법안이 에너지 개발을 가속하면서도 데이터센터가 전력망 증설 비용 가운데 자기 몫을 내도록 보장할 것이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "Altman은 Decoded by POLITICO와의 인터뷰에서 “기업을 위한 책임 체계가 필요해질 것”이라고 말했다. EU는 지난해 규제 완화 흐름 속에 AI 책임법 제안을 폐기했고, 당시 집행위원회는 충분한 정치적 지지를 얻을 가능성이 낮다고 설명했다."
+                "x": "데이터센터는 기존 송전망에 대한 자기 몫과, 자신에게 전력을 공급하는 데 필요한 추가 송전 비용을 모두 내게 된다. 20메가와트 이상의 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용을 부담하며, 각 주는 이보다 더 나아갈 수 있는 폭넓은 재량을 갖게 된다."
               },
               {
                 "t": "p",
-                "x": "의회에서 이 법안을 주도한 독일 보수 성향 의원 Axel Voss는 법안을 다시 의제에 올리길 원한다. 그는 “이제 OpenAI CEO조차 인정한다. 책임 없이는 신뢰도 없다”고 말했다. 사회민주주의 계열의 Brando Benifei는 철회를 “심각한 실수”라고 했다."
+                "x": "Data Center Coalition은 아직 법안을 검토하고 있다고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 AI Act와 제조물책임지침(Product Liability Directive)을 “계속 모니터링하고 있다”며 “현 단계에서 AI 책임 제안을 다시 내놓을 계획은 없다”고 덧붙였다. CEPS 연구책임자 Artur Bogucki는 EU에 “직접적이고 표적화된, 핵심은 좁고 절차적인 AI 책임 수단”이 필요하다고 말했다."
+                "x": "중간선거를 앞두고 상원이 휴회 중이어서, 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Altman氏、EUの\nAI責任法論議を再燃",
-          "body": "EUが棚上げしたAI責任規則の議論を、OpenAI CEOのAltman氏が再燃させた。",
-          "mini_headline": "EUのAI責任論議が再燃",
+          "headline": "超党派法案、データ\nセンターに新たなコスト",
+          "body": "超党派法案は、AI向けエネルギー整備を急ぐ一方、データセンターに新たな費用と制限を課す。",
+          "mini_headline": "データセンターに新たな負担",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "2026年9月2日、ノースカロライナ州で開かれたG20イノベーション閣僚会合で発言するSam Altman氏。| Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "イラスト：Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "EU議会の議員らは、思わぬ味方であるOpenAIのSam Altman氏の支持を得て、人工知能責任法の復活を求める姿勢を強めている。"
+                "x": "議員らは、AIブームを支えるエネルギーインフラの整備を加速させる一方で、データセンターに新たなコストと規制を負わせることを検討している。先週公表されたこの超党派の条項は、エネルギー関連の許認可の迅速化を目指す上院のより大きな法案の一部だ。法案の提出者らは、エネルギー開発を加速させつつ、データセンターに送電網増強の応分の負担を確実に求めるものだと説明する。"
               },
               {
                 "t": "p",
-                "x": "Altman氏はDecoded by POLITICOのインタビューで「企業向けの責任の枠組みが必要になるだろう」と述べた。EUは昨年、規制緩和の流れの中でAI責任法案を撤回しており、欧州委員会は十分な政治的支持を得られる見込みが薄いと説明していた。"
+                "x": "データセンターは、既存の送電網に対する応分の負担と、自らへの電力供給に必要な追加の送電コストの両方を支払うことになる。20メガワット以上の新設データセンターは、電力システム全体に生じさせる追加コストを負担し、各州にはさらに踏み込む広い裁量が与えられる。"
               },
               {
                 "t": "p",
-                "x": "議会で同法案を主導したドイツの保守派議員Axel Voss氏は、これを再び議題に載せたい考えだ。「今やOpenAIのCEOでさえ認めている。責任なくして信頼なしだ」と同氏は語った。社会民主主義系のBrando Benifei氏は撤回を「重大な誤り」と呼んだ。"
+                "x": "Data Center Coalitionは、法案をまだ精査中だとした。AmazonのCraig Sundstrom氏は、法案が「新たな発電・送電設備をより速く建設するのに必要な投資を引き出し得る」と述べた。一方、あるテック業界関係者は一部の条項を「前例のない水準の差別的扱い」と評した。Cato InstituteのTravis Fisher氏は「控えめな支持」を示した。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はAI Actと製造物責任指令（Product Liability Directive）を「引き続き注視している」とし、「現段階でAI責任に関する提案を再提出する計画はない」と付け加えた。CEPSの研究ディレクターArtur Bogucki氏は、EUには「直接的で対象を絞った、核心において限定的かつ手続き的なAI責任の仕組み」が必要だと述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Altman重燃EU\nAI责任规则之争",
-          "body": "EU已搁置AI责任规则，但OpenAI CEO Sam Altman重燃了这场辩论。",
-          "mini_headline": "EU的AI责任之争重启",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "2026年9月2日，Sam Altman在北卡罗来纳州举行的G20创新部长级会议上发言。| Matt Ramey/AFP via Getty Images"
-              },
-              {
-                "t": "p",
-                "x": "EU议会议员获得了一位意外盟友——OpenAI的Sam Altman——的支持，正坚持呼吁恢复一部人工智能责任法。"
-              },
-              {
-                "t": "p",
-                "x": "Altman在接受Decoded by POLITICO采访时说：“企业将需要一个责任框架。”去年，EU在放松监管的浪潮中撤回了拟议的AI责任法，欧盟委员会当时称该法几乎不可能获得足够的政治支持。"
-              },
-              {
-                "t": "p",
-                "x": "在议会牵头推动该提案的德国保守派议员Axel Voss希望将其重新提上议程。他说：“如今连OpenAI的CEO都承认：没有责任，就没有信任。”社会民主党人Brando Benifei称撤回该法是“一个严重错误”。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会表示，正在“持续监测”AI Act和《产品责任指令》（Product Liability Directive），并补充说：“现阶段没有重新提出AI责任提案的计划。”CEPS研究主任Artur Bogucki表示，EU需要“一项直接、有针对性的AI责任工具，其核心应当范围窄、以程序为主”。"
+                "x": "中間選挙を前に上院は休会中で、利害関係者には、レームダック会期での審議の可能性に先立ち修正を働きかける時間がある。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Altman reabre el debate en la EU\nsobre responsabilidad de la AI",
-          "body": "La EU archivó normas de responsabilidad de AI, pero Sam Altman, CEO de OpenAI, reabrió el debate, según Politico Europe.",
-          "mini_headline": "Vuelve el debate sobre responsabilidad de la AI en la EU",
+          "headline": "Un plan bipartidista impondría\nnuevos costos a centros de datos",
+          "body": "Un proyecto bipartidista impondría nuevos costos y límites a los centros de datos y aceleraría la energía para la IA.",
+          "mini_headline": "Nuevos costos para centros de datos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=773,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/06/GettyImages-2292626781.jpg",
-                "cap": "Sam Altman habla durante la Reunión Ministerial de Innovación del G20 en Carolina del Norte, el 2 de septiembre de 2026. | Matt Ramey/AFP via Getty Images"
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "Ilustración: Sarah Grillo/Axios"
               },
               {
                 "t": "p",
-                "x": "Los eurodiputados de la EU insisten en reclamar que se recupere una ley de responsabilidad de la inteligencia artificial tras recibir el apoyo de un aliado inesperado: Sam Altman, de OpenAI."
+                "x": "Los legisladores estudian obligar a los centros de datos a asumir nuevos costos y restricciones, al tiempo que aceleran la infraestructura energética necesaria para alimentar el auge de la IA. Las disposiciones bipartidistas, presentadas la semana pasada, forman parte de una legislación más amplia del Senado destinada a agilizar los permisos energéticos. Los impulsores del proyecto afirman que aceleraría el desarrollo energético y garantizaría que los centros de datos paguen su parte de las mejoras de la red."
               },
               {
                 "t": "p",
-                "x": "“Va a hacer falta un marco de responsabilidad para las empresas”, dijo Altman en una entrevista con Decoded by POLITICO. La EU descartó el año pasado su propuesta de ley de responsabilidad de AI en plena ofensiva desreguladora, y la Comisión argumentó que tenía pocas posibilidades de obtener suficiente apoyo político."
+                "x": "Los centros de datos pagarían tanto su parte de la red de transmisión existente como los costos adicionales de transmisión necesarios para abastecerlos. Los nuevos centros de datos de al menos 20 megavatios asumirían los costos adicionales que generan en todo el sistema eléctrico, y los estados tendrían amplio margen para ir más allá."
               },
               {
                 "t": "p",
-                "x": "El eurodiputado conservador alemán Axel Voss, que lideró la propuesta en el Parlamento, quiere que vuelva a la agenda. “Ahora hasta el CEO de OpenAI lo admite: sin responsabilidad no hay confianza”, dijo. El socialdemócrata Brando Benifei calificó la retirada de “un grave error”."
+                "x": "La Data Center Coalition dijo que aún está revisando la legislación. Craig Sundstrom, de Amazon, afirmó que el proyecto “podría liberar la inversión necesaria para construir nueva generación y transmisión más rápido”, mientras que un responsable del sector tecnológico calificó algunas disposiciones de “nivel sin precedentes de trato discriminatorio”. Travis Fisher, del Cato Institute, expresó un “apoyo moderado”."
               },
               {
                 "t": "p",
-                "x": "La Comisión dijo que “sigue supervisando” la AI Act y la Product Liability Directive, y añadió: “En esta fase, no hay ningún plan para volver a presentar una propuesta sobre responsabilidad de la AI”. El director de investigación del CEPS, Artur Bogucki, dijo que la EU necesita “un instrumento de responsabilidad de AI directo y específico, acotado y procedimental en esencia”."
+                "x": "Con el Senado fuera de sesión antes de las elecciones de mitad de mandato, las partes interesadas tienen tiempo para presionar por cambios antes de un posible debate en la sesión de transición (lame-duck)."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "两党法案拟向\n数据中心加征新成本",
+          "body": "一项两党法案拟对数据中心施加新的成本与限制，同时加快为AI建设能源设施。",
+          "mini_headline": "数据中心面临新成本",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
+                "cap": "插图：Sarah Grillo/Axios"
+              },
+              {
+                "t": "p",
+                "x": "立法者正考虑让数据中心承担新的成本与限制，同时加快建设支撑AI热潮所需的能源基础设施。这些两党条款于上周公布，是参议院一项旨在加快能源审批的更广泛立法的一部分。法案提出者表示，该法案将加速能源开发，同时确保数据中心为电网升级支付应有份额。"
+              },
+              {
+                "t": "p",
+                "x": "数据中心既要分摊现有输电网络的费用，也要承担为其供电所需的新增输电成本。规模至少20 MW的新建数据中心须承担其给整个电力系统带来的增量成本，各州还将获得很大空间采取更进一步的措施。"
+              },
+              {
+                "t": "p",
+                "x": "Data Center Coalition表示仍在审阅该立法。Amazon的Craig Sundstrom称，该法案\"可能释放更快建设新发电和输电设施所需的投资\"；一位科技行业人士则称部分条款是\"前所未有的歧视性待遇\"。Cato Institute的Travis Fisher表示\"温和支持\"。"
+              },
+              {
+                "t": "p",
+                "x": "由于参议院在中期选举前休会，各利益相关方有时间在可能到来的跛脚鸭会期辩论前推动修改。"
               }
             ]
           }
@@ -1009,15 +952,15 @@
       }
     },
     {
-      "id": "politics-western-open-weight-models-vs-china",
+      "id": "politics-singapore-mas-fintech-ai-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "open-weight로\n중국 쫓는 서구 AI",
-      "body": "Reflection·Mistral의 open-weight 모델은 중국산 대안이다.",
-      "mini_headline": "open-weight 모델 vs 중국",
+      "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
+      "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
+      "mini_headline": "싱가포르, AI 독립 검토 추진",
       "tool": "Politics",
-      "source": "axios.com",
-      "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+      "source": "theregister.com",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1025,179 +968,174 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-            "cap": "일러스트: Aïda Amer/Axios"
+            "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral이 내놓은 새 모델이 최근 중국이 쥐고 있던 우위를 좁히는 중이다. 기업과 정부로서는 OpenAI·Anthropic의 폐쇄형 생태계, 그리고 보안 때문에 피해 왔을 중국산 모델을 대신할 선택지가 생겼다."
+            "x": "싱가포르 통화청(MAS)이 수요일 처음 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서 현지 업계의 모든 기업에 AI 활용 사례를 배포하기 전 독립적인 검토를 받으라고 요구했다. 통화청은 중앙은행이자 금융업 규제기관이다."
           },
           {
             "t": "p",
-            "x": "Reflection은 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. 활성 파라미터는 23 billion 개다. 회사는 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+            "x": "MAS는 AI가 복잡한 탓에 예기치 않거나 더 편향된 동작이 나올 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 본다. 에이전트형 AI에는 “이러한 위험을 더욱 키울 수 있다”는 우려를 보였다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고 이사회와 고위 경영진이 그 책임을 지기를 바란다."
           },
           {
             "t": "p",
-            "x": "Mistral은 'Le Chonk'라는 별칭이 붙은 Mistral Large 4를 마무리하는 중이다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델로 본다. 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+            "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대비한 비상 계획도 요구했다. 또 “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "다만 가중치가 풀리면 사용자가 안전장치를 걷어내려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍게 넘길 문제가 아니다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+            "x": "가이드라인 시행일은 2027년 10월 7일이다."
           }
         ]
       },
+      "lead_image": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "text": {
         "en": {
-          "headline": "Western open-weight models\nnarrow China's AI lead",
-          "body": "New open-weight systems from Reflection and Mistral give businesses and governments alternatives to Chinese models.",
-          "mini_headline": "Open-weight models vs China",
+          "headline": "Singapore wants all finance\nAI uses independently vetted",
+          "body": "Singapore's central bank wants every AI use case at financial firms independently reviewed before deployment.",
+          "mini_headline": "Singapore eyes AI reviews",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "Illustration: Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "A new crop of powerful, Western open-weight AI systems are mounting a comeback, with fresh models from Reflection and Mistral narrowing China's recent lead. They will give businesses and governments alternatives to the closed ecosystems of OpenAI and Anthropic, as well as to Chinese options they may have eschewed for security reasons."
+                "x": "Singapore’s Monetary Authority (MAS), which acts as both central bank and finance industry regulator, wants all local industry players to seek independent review of AI use cases before deployment, under its first Guidelines on Artificial Intelligence Risk Management for Financial Institutions, published on Wednesday."
               },
               {
                 "t": "p",
-                "x": "Reflection introduced Beam, a 501-billion-parameter mixture-of-experts model with 23 billion active parameters. Reflection says it is competitive with China's GLM-5.2; its own benchmarks show a mixed picture. Weights are due later this month."
+                "x": "MAS warns that AI’s complexity can lead to unexpected or more biased behaviour, rates generative AI as even riskier, and fears agentic AI “could further amplify these risks.” It wants financial institutions to expand risk frameworks to cover AI, with board and senior management responsible."
               },
               {
                 "t": "p",
-                "x": "Mistral is finishing Mistral Large 4, aka \"Le Chonk,\" a 1-trillion-parameter multimodal model it believes is the world's best open-weight model, with weights planned for Oct. 27. \"I don't want to live in the future in which any oligopoly controls closed access to this type of intelligence,\" Mistral's Pierre Stock said."
+                "x": "“Prior to deployment, an FI should subject the AI use case, including its underlying systems or models, to reviews by parties not involved in its development,” the guidelines state. MAS also wants ongoing monitoring, up-to-date AI inventories and contingency plans for high-risk uses, and says “FIs remain accountable for AI used in the services they deliver, including AI developed, operated or provided by third parties.”"
               },
               {
                 "t": "p",
-                "x": "Yes, but: once weights are public, users can try to remove safeguards — significant as models grow more capable at cybersecurity. Both companies argue openness can also improve safety."
+                "x": "The guidelines come into force on October 7, 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "open-weight로\n중국 쫓는 서구 AI",
-          "body": "Reflection·Mistral의 open-weight 모델은 중국산 대안이다.",
-          "mini_headline": "open-weight 모델 vs 중국",
+          "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
+          "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
+          "mini_headline": "싱가포르, AI 독립 검토 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "일러스트: Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral이 내놓은 새 모델이 최근 중국이 쥐고 있던 우위를 좁히는 중이다. 기업과 정부로서는 OpenAI·Anthropic의 폐쇄형 생태계, 그리고 보안 때문에 피해 왔을 중국산 모델을 대신할 선택지가 생겼다."
+                "x": "싱가포르 통화청(MAS)이 수요일 처음 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서 현지 업계의 모든 기업에 AI 활용 사례를 배포하기 전 독립적인 검토를 받으라고 요구했다. 통화청은 중앙은행이자 금융업 규제기관이다."
               },
               {
                 "t": "p",
-                "x": "Reflection은 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. 활성 파라미터는 23 billion 개다. 회사는 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+                "x": "MAS는 AI가 복잡한 탓에 예기치 않거나 더 편향된 동작이 나올 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 본다. 에이전트형 AI에는 “이러한 위험을 더욱 키울 수 있다”는 우려를 보였다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고 이사회와 고위 경영진이 그 책임을 지기를 바란다."
               },
               {
                 "t": "p",
-                "x": "Mistral은 'Le Chonk'라는 별칭이 붙은 Mistral Large 4를 마무리하는 중이다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델로 본다. 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+                "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대비한 비상 계획도 요구했다. 또 “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "다만 가중치가 풀리면 사용자가 안전장치를 걷어내려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍게 넘길 문제가 아니다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+                "x": "가이드라인 시행일은 2027년 10월 7일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "西側のopen-weight\nモデル、中国のAI優位に迫る",
-          "body": "ReflectionとMistralのopen-weightモデルは中国製の代替になる。",
-          "mini_headline": "open-weightモデル対中国",
+          "headline": "シンガポール、金融AI\n全件に独立審査を要求",
+          "body": "シンガポール中銀は、金融機関の全AI活用事例に導入前の独立審査を求めている。",
+          "mini_headline": "シンガポール、AIの独立審査へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "イラスト：Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "強力な西側のopen-weight AIシステムが巻き返しを図っており、ReflectionとMistralの新モデルが中国の最近のリードを縮めている。これらは企業や政府にとって、OpenAIやAnthropicの閉じたエコシステムに加え、セキュリティ上の理由で避けてきたかもしれない中国製の選択肢に代わるものとなる。"
+                "x": "中央銀行と金融業界の規制当局を兼ねるシンガポール金融通貨庁(MAS)は水曜日、初となる「金融機関向け人工知能リスク管理ガイドライン」を公表し、国内のすべての業界関係者に対し、AI活用事例を導入前に独立したレビューにかけるよう求めた。"
               },
               {
                 "t": "p",
-                "x": "ReflectionはBeamを発表した。アクティブパラメータ23 billion の501-billion-parameter mixture-of-experts モデルだ。Reflectionは中国のGLM-5.2に匹敵するとしているが、自社のベンチマーク結果はまちまちだ。重みは今月下旬に公開される予定だ。"
+                "x": "MASは、AIの複雑さが予期しない、あるいはより偏った挙動につながり得ると警告し、生成AIはさらにリスクが高いと評価したうえで、エージェント型AIが「こうしたリスクをさらに増幅させる可能性がある」と懸念する。金融機関にはリスク管理の枠組みをAIにまで広げ、取締役会と上級経営陣が責任を負うことを求めている。"
               },
               {
                 "t": "p",
-                "x": "Mistralは「Le Chonk」の愛称を持つMistral Large 4の仕上げに入っている。1-trillion-parameter のマルチモーダルモデルで、同社は世界最高のopen-weightモデルだと考えており、重みは10月27日に公開予定だ。「いかなる寡占もこの種の知能へのアクセスを閉鎖的に支配する、そんな未来には生きたくない」とMistralのPierre Stock氏は語った。"
+                "x": "ガイドラインは「導入前に、FIは基盤となるシステムやモデルを含むAI活用事例を、その開発に関与していない者によるレビューにかけるべきだ」と定めている。MASはさらに継続的なモニタリング、最新のAI一覧、高リスク用途向けの緊急時対応計画を求め、「FIsは、第三者が開発・運用・提供したAIを含め、自らが提供するサービスで使われるAIについて引き続き責任を負う」としている。"
               },
               {
                 "t": "p",
-                "x": "ただし、重みが公開されると、利用者が安全対策を外そうとする可能性がある。モデルのサイバーセキュリティ能力が高まるにつれ、これは重大な問題になる。両社は、オープン性が安全性の向上にもつながり得ると主張する。"
+                "x": "ガイドラインは2027年10月7日に施行される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西方open-weight\n模型缩小中国AI领先优势",
-          "body": "Reflection与Mistral的新open-weight模型成为中国模型的替代选项。",
-          "mini_headline": "open-weight模型对阵中国",
+          "headline": "新加坡要求金融业所有\nAI应用接受独立审查",
+          "body": "新加坡央行希望金融机构的每一项AI用例在部署前都接受独立审查。",
+          "mini_headline": "新加坡拟推AI独立审查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "插图：Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "一批强大的西方open-weight AI系统正在卷土重来，Reflection和Mistral的新模型正在缩小中国近来的领先优势。它们将为企业和政府提供替代选择，既可替代OpenAI和Anthropic的封闭生态，也可替代出于安全考虑可能被回避的中国模型。"
+                "x": "同时担任中央银行和金融业监管机构的新加坡金融管理局(MAS)周三发布了首份《金融机构人工智能风险管理指引》，要求本地所有业内机构在部署AI用例前寻求独立审查。"
               },
               {
                 "t": "p",
-                "x": "Reflection推出了Beam，这是一款501-billion-parameter 的mixture-of-experts 模型，激活参数为23 billion 个。Reflection称其可与中国的GLM-5.2竞争，但其自家基准测试结果好坏参半。权重将于本月晚些时候发布。"
+                "x": "MAS警告称，AI的复杂性可能导致意外或更具偏见的行为，并认为生成式AI风险更高，还担心智能体AI“可能进一步放大这些风险”。它希望金融机构将风险框架扩展至AI，并由董事会和高级管理层负责。"
               },
               {
                 "t": "p",
-                "x": "Mistral正在完成Mistral Large 4（昵称“Le Chonk”），这是一款1-trillion-parameter 多模态模型，公司认为它是全球最好的open-weight模型，计划于10月27日发布权重。Mistral的Pierre Stock说：“我不想生活在由任何寡头垄断以封闭方式控制此类智能获取的未来。”"
+                "x": "指引写道：“在部署之前，FI应将AI用例（包括其底层系统或模型）交由未参与其开发的各方进行审查。”MAS还要求持续监测、及时更新的AI清单以及针对高风险用途的应急计划，并表示“FIs仍须对其所提供服务中使用的AI负责，包括由第三方开发、运营或提供的AI”。"
               },
               {
                 "t": "p",
-                "x": "不过：一旦权重公开，用户就可能尝试移除安全防护——随着模型网络安全能力增强，这一点尤为重要。两家公司都认为，开放同样可以提升安全性。"
+                "x": "该指引将于2027年10月7日生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelos open-weight occidentales\nrecortan la ventaja china en AI",
-          "body": "Los nuevos sistemas open-weight de Reflection y Mistral dan a empresas y gobiernos alternativas a los modelos chinos.",
-          "mini_headline": "Modelos open-weight frente a China",
+          "headline": "Singapur pide revisión externa\nde todo uso de IA financiera",
+          "body": "El banco central de Singapur quiere que todo uso de IA en el sector financiero tenga revisión independiente previa.",
+          "mini_headline": "Singapur pide revisar la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "Ilustración: Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Una nueva hornada de potentes sistemas de AI open-weight occidentales está protagonizando un regreso, con nuevos modelos de Reflection y Mistral que reducen la reciente ventaja de China. Darán a empresas y gobiernos alternativas a los ecosistemas cerrados de OpenAI y Anthropic, así como a las opciones chinas que quizá hayan evitado por motivos de seguridad."
+                "x": "La Autoridad Monetaria de Singapur (MAS), que actúa como banco central y como regulador del sector financiero, quiere que todas las entidades locales del sector sometan sus casos de uso de IA a una revisión independiente antes de implantarlos, según sus primeras Directrices sobre Gestión de Riesgos de la Inteligencia Artificial para Instituciones Financieras, publicadas el miércoles."
               },
               {
                 "t": "p",
-                "x": "Reflection presentó Beam, un modelo 501-billion-parameter de tipo mixture-of-experts con 23 billion de parámetros activos. Reflection afirma que compite con el GLM-5.2 de China; sus propias pruebas de rendimiento muestran un panorama desigual. Los pesos se publicarán a finales de este mes."
+                "x": "La MAS advierte que la complejidad de la IA puede provocar comportamientos inesperados o más sesgados, considera que la IA generativa entraña aún más riesgo y teme que la IA agéntica “pueda amplificar aún más estos riesgos”. Quiere que las instituciones financieras amplíen sus marcos de riesgo para abarcar la IA, con el consejo de administración y la alta dirección como responsables."
               },
               {
                 "t": "p",
-                "x": "Mistral está terminando Mistral Large 4, alias \"Le Chonk\", un modelo multimodal 1-trillion-parameter que considera el mejor modelo open-weight del mundo, con la publicación de los pesos prevista para el 27 de octubre. \"No quiero vivir en un futuro en el que cualquier oligopolio controle el acceso cerrado a este tipo de inteligencia\", dijo Pierre Stock, de Mistral."
+                "x": "“Antes de su implantación, una FI debe someter el caso de uso de IA, incluidos sus sistemas o modelos subyacentes, a revisiones de partes no involucradas en su desarrollo”, establecen las directrices. La MAS también pide supervisión continua, inventarios de IA actualizados y planes de contingencia para los usos de alto riesgo, y afirma que “las FIs siguen siendo responsables de la IA utilizada en los servicios que prestan, incluida la IA desarrollada, operada o proporcionada por terceros”."
               },
               {
                 "t": "p",
-                "x": "Sí, pero: una vez que los pesos son públicos, los usuarios pueden intentar eliminar las salvaguardas, algo relevante a medida que los modelos ganan capacidad en ciberseguridad. Ambas empresas sostienen que la apertura también puede mejorar la seguridad."
+                "x": "Las directrices entrarán en vigor el 7 de octubre de 2027."
               }
             ]
           }
@@ -1205,125 +1143,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "서구 open-weight\n모델, 중국 AI 추격",
-          "body": "Reflection·Mistral의 open-weight 모델은 중국산의 대안이다.",
-          "mini_headline": "open-weight 모델 vs 중국",
+          "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
+          "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
+          "mini_headline": "싱가포르, AI 독립 검토 추진",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "일러스트: Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "강력한 서구 open-weight AI 시스템이 다시 힘을 얻고 있다. Reflection과 Mistral의 새 모델이 최근 중국이 쥔 우위를 좁히고 있다. 이들 모델은 기업과 정부에 OpenAI·Anthropic의 폐쇄형 생태계는 물론, 보안상 이유로 피해 왔을 중국산 모델의 대안이 된다."
+                "x": "중앙은행이자 금융업 규제기관인 싱가포르 통화청(MAS)이 수요일 처음으로 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서, 현지 업계의 모든 기업이 AI 활용 사례를 배포하기 전에 독립적인 검토를 받도록 요구했다."
               },
               {
                 "t": "p",
-                "x": "Reflection은 활성 파라미터 23 billion 개를 갖춘 501-billion-parameter mixture-of-experts 모델 Beam을 공개했다. Reflection은 이 모델이 중국 GLM-5.2와 견줄 만하다고 하지만, 자체 벤치마크 결과는 엇갈린다. 가중치는 이달 말 공개된다."
+                "x": "MAS는 AI의 복잡성이 예기치 않거나 더 편향된 동작으로 이어질 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 평가하고, 에이전트형 AI가 “이러한 위험을 더욱 키울 수 있다”고 우려한다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고, 이사회와 고위 경영진이 그 책임을 지기를 원한다."
               },
               {
                 "t": "p",
-                "x": "Mistral은 'Le Chonk'라는 별칭의 Mistral Large 4를 마무리하고 있다. 1-trillion-parameter 멀티모달 모델로, 회사는 세계 최고의 open-weight 모델이라고 보고 있으며 가중치는 10월 27일 공개할 계획이다. Mistral의 Pierre Stock은 “어떤 과두 집단이 이런 지능에 대한 접근을 폐쇄적으로 통제하는 미래에서 살고 싶지 않다”고 말했다."
+                "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 또 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대한 비상 계획을 요구하며, “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "다만 가중치가 공개되면 사용자가 안전장치를 없애려 할 수 있다. 모델의 사이버보안 역량이 커질수록 가볍지 않은 문제다. 두 회사는 개방성이 오히려 안전을 높일 수도 있다고 주장한다."
+                "x": "이 가이드라인은 2027년 10월 7일부터 시행된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "西側のopen-weight\nモデル、中国のAI優位に迫る",
-          "body": "ReflectionとMistralのopen-weightモデルは中国製の代替になる。",
-          "mini_headline": "open-weightモデル対中国",
+          "headline": "シンガポール、金融AI\n全件に独立審査を要求",
+          "body": "シンガポール中銀は、金融機関の全AI活用事例に導入前の独立審査を求めている。",
+          "mini_headline": "シンガポール、AIの独立審査へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "イラスト：Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "強力な西側のopen-weight AIシステムが巻き返しを図っており、ReflectionとMistralの新モデルが中国の最近のリードを縮めている。これらは企業や政府にとって、OpenAIやAnthropicの閉じたエコシステムに加え、セキュリティ上の理由で避けてきたかもしれない中国製の選択肢に代わるものとなる。"
+                "x": "中央銀行と金融業界の規制当局を兼ねるシンガポール金融通貨庁(MAS)は水曜日、初となる「金融機関向け人工知能リスク管理ガイドライン」を公表し、国内のすべての業界関係者に対し、AI活用事例を導入前に独立したレビューにかけるよう求めた。"
               },
               {
                 "t": "p",
-                "x": "ReflectionはBeamを発表した。アクティブパラメータ23 billion の501-billion-parameter mixture-of-experts モデルだ。Reflectionは中国のGLM-5.2に匹敵するとしているが、自社のベンチマーク結果はまちまちだ。重みは今月下旬に公開される予定だ。"
+                "x": "MASは、AIの複雑さが予期しない、あるいはより偏った挙動につながり得ると警告し、生成AIはさらにリスクが高いと評価したうえで、エージェント型AIが「こうしたリスクをさらに増幅させる可能性がある」と懸念する。金融機関にはリスク管理の枠組みをAIにまで広げ、取締役会と上級経営陣が責任を負うことを求めている。"
               },
               {
                 "t": "p",
-                "x": "Mistralは「Le Chonk」の愛称を持つMistral Large 4の仕上げに入っている。1-trillion-parameter のマルチモーダルモデルで、同社は世界最高のopen-weightモデルだと考えており、重みは10月27日に公開予定だ。「いかなる寡占もこの種の知能へのアクセスを閉鎖的に支配する、そんな未来には生きたくない」とMistralのPierre Stock氏は語った。"
+                "x": "ガイドラインは「導入前に、FIは基盤となるシステムやモデルを含むAI活用事例を、その開発に関与していない者によるレビューにかけるべきだ」と定めている。MASはさらに継続的なモニタリング、最新のAI一覧、高リスク用途向けの緊急時対応計画を求め、「FIsは、第三者が開発・運用・提供したAIを含め、自らが提供するサービスで使われるAIについて引き続き責任を負う」としている。"
               },
               {
                 "t": "p",
-                "x": "ただし、重みが公開されると、利用者が安全対策を外そうとする可能性がある。モデルのサイバーセキュリティ能力が高まるにつれ、これは重大な問題になる。両社は、オープン性が安全性の向上にもつながり得ると主張する。"
+                "x": "ガイドラインは2027年10月7日に施行される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西方open-weight\n模型缩小中国AI领先优势",
-          "body": "Reflection与Mistral的新open-weight模型成为中国模型的替代选项。",
-          "mini_headline": "open-weight模型对阵中国",
+          "headline": "新加坡要求金融业所有\nAI应用接受独立审查",
+          "body": "新加坡央行希望金融机构的每一项AI用例在部署前都接受独立审查。",
+          "mini_headline": "新加坡拟推AI独立审查",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "插图：Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "一批强大的西方open-weight AI系统正在卷土重来，Reflection和Mistral的新模型正在缩小中国近来的领先优势。它们将为企业和政府提供替代选择，既可替代OpenAI和Anthropic的封闭生态，也可替代出于安全考虑可能被回避的中国模型。"
+                "x": "同时担任中央银行和金融业监管机构的新加坡金融管理局(MAS)周三发布了首份《金融机构人工智能风险管理指引》，要求本地所有业内机构在部署AI用例前寻求独立审查。"
               },
               {
                 "t": "p",
-                "x": "Reflection推出了Beam，这是一款501-billion-parameter 的mixture-of-experts 模型，激活参数为23 billion 个。Reflection称其可与中国的GLM-5.2竞争，但其自家基准测试结果好坏参半。权重将于本月晚些时候发布。"
+                "x": "MAS警告称，AI的复杂性可能导致意外或更具偏见的行为，并认为生成式AI风险更高，还担心智能体AI“可能进一步放大这些风险”。它希望金融机构将风险框架扩展至AI，并由董事会和高级管理层负责。"
               },
               {
                 "t": "p",
-                "x": "Mistral正在完成Mistral Large 4（昵称“Le Chonk”），这是一款1-trillion-parameter 多模态模型，公司认为它是全球最好的open-weight模型，计划于10月27日发布权重。Mistral的Pierre Stock说：“我不想生活在由任何寡头垄断以封闭方式控制此类智能获取的未来。”"
+                "x": "指引写道：“在部署之前，FI应将AI用例（包括其底层系统或模型）交由未参与其开发的各方进行审查。”MAS还要求持续监测、及时更新的AI清单以及针对高风险用途的应急计划，并表示“FIs仍须对其所提供服务中使用的AI负责，包括由第三方开发、运营或提供的AI”。"
               },
               {
                 "t": "p",
-                "x": "不过：一旦权重公开，用户就可能尝试移除安全防护——随着模型网络安全能力增强，这一点尤为重要。两家公司都认为，开放同样可以提升安全性。"
+                "x": "该指引将于2027年10月7日生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Modelos open-weight occidentales\nrecortan la ventaja china en AI",
-          "body": "Los nuevos sistemas open-weight de Reflection y Mistral dan a empresas y gobiernos alternativas a los modelos chinos.",
-          "mini_headline": "Modelos open-weight frente a China",
+          "headline": "Singapur pide revisión externa\nde todo uso de IA financiera",
+          "body": "El banco central de Singapur quiere que todo uso de IA en el sector financiero tenga revisión independiente previa.",
+          "mini_headline": "Singapur pide revisar la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/yGx5rf7O0GjMCPLdyqsh3-ehxgg=/0x0:1920x1080/1920x1080/2026/10/06/1791294167803.jpg",
-                "cap": "Ilustración: Aïda Amer/Axios"
+                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "Una nueva hornada de potentes sistemas de AI open-weight occidentales está protagonizando un regreso, con nuevos modelos de Reflection y Mistral que reducen la reciente ventaja de China. Darán a empresas y gobiernos alternativas a los ecosistemas cerrados de OpenAI y Anthropic, así como a las opciones chinas que quizá hayan evitado por motivos de seguridad."
+                "x": "La Autoridad Monetaria de Singapur (MAS), que actúa como banco central y como regulador del sector financiero, quiere que todas las entidades locales del sector sometan sus casos de uso de IA a una revisión independiente antes de implantarlos, según sus primeras Directrices sobre Gestión de Riesgos de la Inteligencia Artificial para Instituciones Financieras, publicadas el miércoles."
               },
               {
                 "t": "p",
-                "x": "Reflection presentó Beam, un modelo 501-billion-parameter de tipo mixture-of-experts con 23 billion de parámetros activos. Reflection afirma que compite con el GLM-5.2 de China; sus propias pruebas de rendimiento muestran un panorama desigual. Los pesos se publicarán a finales de este mes."
+                "x": "La MAS advierte que la complejidad de la IA puede provocar comportamientos inesperados o más sesgados, considera que la IA generativa entraña aún más riesgo y teme que la IA agéntica “pueda amplificar aún más estos riesgos”. Quiere que las instituciones financieras amplíen sus marcos de riesgo para abarcar la IA, con el consejo de administración y la alta dirección como responsables."
               },
               {
                 "t": "p",
-                "x": "Mistral está terminando Mistral Large 4, alias \"Le Chonk\", un modelo multimodal 1-trillion-parameter que considera el mejor modelo open-weight del mundo, con la publicación de los pesos prevista para el 27 de octubre. \"No quiero vivir en un futuro en el que cualquier oligopolio controle el acceso cerrado a este tipo de inteligencia\", dijo Pierre Stock, de Mistral."
+                "x": "“Antes de su implantación, una FI debe someter el caso de uso de IA, incluidos sus sistemas o modelos subyacentes, a revisiones de partes no involucradas en su desarrollo”, establecen las directrices. La MAS también pide supervisión continua, inventarios de IA actualizados y planes de contingencia para los usos de alto riesgo, y afirma que “las FIs siguen siendo responsables de la IA utilizada en los servicios que prestan, incluida la IA desarrollada, operada o proporcionada por terceros”."
               },
               {
                 "t": "p",
-                "x": "Sí, pero: una vez que los pesos son públicos, los usuarios pueden intentar eliminar las salvaguardas, algo relevante a medida que los modelos ganan capacidad en ciberseguridad. Ambas empresas sostienen que la apertura también puede mejorar la seguridad."
+                "x": "Las directrices entrarán en vigor el 7 de octubre de 2027."
               }
             ]
           }
@@ -1331,15 +1265,15 @@
       }
     },
     {
-      "id": "politics-europol-ai-policing-privacy",
+      "id": "politics-ecosia-drops-mistral-chinese-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Europol AI 치안\n계획에 사생활 우려",
-      "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자, 사생활 운동가와 맞선다.",
-      "mini_headline": "Europol의 AI 계획과 사생활",
+      "headline": "Mistral 대신\nEcosia는 중국 AI로",
+      "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
+      "mini_headline": "Ecosia, 중국 AI로 전환",
       "tool": "Politics",
       "source": "politico.eu",
-      "url": "https://www.politico.eu/article/europol-ai-new-weapons-new-privacy-risks-reboots-for-the-era/",
+      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1347,185 +1281,186 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-            "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+            "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
           },
           {
             "t": "p",
-            "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대규모 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 나온 이 계획대로라면 Europol 예산은 두 배인 €3 billion으로 늘고, Europol은 더 많은 데이터와 첨단 기술을 손에 쥐고 새 위협에 직접 대응하게 된다."
+            "x": "정부 서비스에서도 쓰는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 갈아탄다. 이 회사 CEO가 POLITICO에 밝힌 내용이다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”한다면서도 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로면 기관이 범죄와 무관한 “방대한” 수의 사람 데이터를 보관할 수 있다고 경고해 왔다."
+            "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 던졌다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
           },
           {
             "t": "img",
-            "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-            "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+            "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+            "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
           },
           {
             "t": "p",
-            "x": "Europol 수장으로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그러면서도 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+            "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia가 손잡은 곳은 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious다. Kroll은 비용이 대략 절반으로 줄었다고 했다. 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에는 일부 전문가가 동의하지 않는다."
           }
         ]
       },
+      "lead_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
       "text": {
         "en": {
-          "headline": "Europol's AI policing plan\nraises privacy concerns",
-          "body": "As it plans for AI-powered policing, the EU police agency must contend with both cybercriminals and privacy activists.",
-          "mini_headline": "Europol AI plan and privacy",
+          "headline": "Ecosia drops Mistral for\nChinese open-source AI",
+          "body": "Ecosia's CEO says it is dropping Mistral for open-source models, including Chinese ones, over quality concerns.",
+          "mini_headline": "Ecosia turns to Chinese AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "The outside of EU police agency Europol's headquarters is seen in The Hague on Nov. 24, 2015. | Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "Christian Kroll speaks at the 2019 Web Summit in Lisbon. | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "Senior EU officials warn that a sweeping new plan to arm the bloc's police agency, Europol, for the AI era could threaten Europeans' privacy. The plans, announced this summer, would double its budget to €3 billion and give Europol a hands-on role in fighting new threats, with access to more data and advanced technology."
+                "x": "A Berlin-based search engine used by government services is dropping its French AI partner, Mistral, in favor of open-source models, including those from China, its CEO told POLITICO. “We are disappointed with the quality of Mistral,” Ecosia founder and CEO Christian Kroll said, calling its models “a year behind” the competition."
               },
               {
                 "t": "p",
-                "x": "European Data Protection Supervisor Wojciech Wiewiórowski said he is “absolutely in favor” of empowering Europol with AI tools, but there “has to be oversight.” He has cautioned the proposal would let the agency retain data on a “vast” number of people with no links to criminal activity."
+                "x": "Ecosia replaced OpenAI with Mistral in May but hit recurring technical problems, Kroll said. He also questioned Mistral’s fit with Ecosia’s environmental goals and its independence: “The fact that Mistral relies on investment from international investors is, in our view, not truly sovereign.”"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "Europol Deputy Director Jurgen Ebner, who was last month named to take the agency helm, speaks at a press conference in Brussels on June 26, 2026. | Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "Guillaume Lample speaks at the AI Now Summit in Paris on May 28, 2026. | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "“AI makes criminal activities faster, more sophisticated and easier to carry out at scale,” said Jürgen Ebner, selected to lead Europol. He also said Europol shouldn't cross a line where “collecting data becomes an objective in itself.”"
+                "x": "Mistral co-founder Guillaume Lample said: “I would encourage them to test our new model as soon as possible.” Ecosia is partnering with Melious, which hosts models including Qwen, GLM, and Kimi; Kroll said costs were roughly cut in half. Some experts dispute his view that the models’ political biases can be fixed technically."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Europol AI 치안\n계획에 사생활 우려",
-          "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자, 사생활 운동가와 맞선다.",
-          "mini_headline": "Europol의 AI 계획과 사생활",
+          "headline": "Mistral 대신\nEcosia는 중국 AI로",
+          "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
+          "mini_headline": "Ecosia, 중국 AI로 전환",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대규모 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 나온 이 계획대로라면 Europol 예산은 두 배인 €3 billion으로 늘고, Europol은 더 많은 데이터와 첨단 기술을 손에 쥐고 새 위협에 직접 대응하게 된다."
+                "x": "정부 서비스에서도 쓰는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 갈아탄다. 이 회사 CEO가 POLITICO에 밝힌 내용이다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”한다면서도 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로면 기관이 범죄와 무관한 “방대한” 수의 사람 데이터를 보관할 수 있다고 경고해 왔다."
+                "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 던졌다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Europol 수장으로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그러면서도 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+                "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia가 손잡은 곳은 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious다. Kroll은 비용이 대략 절반으로 줄었다고 했다. 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에는 일부 전문가가 동의하지 않는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EuropolのAI警察計画\nプライバシー懸念を招く",
-          "body": "AI-powered警察を目指すEU機関は、サイバー犯罪者とプライバシー活動家に挟まれる。",
-          "mini_headline": "EuropolのAI計画とプライバシー",
+          "headline": "Ecosia、Mistral\n離れ中国オープンソースへ",
+          "body": "Ecosiaは品質を理由に、Mistralから中国製を含むオープンソースへ移るという。",
+          "mini_headline": "Ecosia、中国AIへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015年11月24日、ハーグにあるEUの警察機関Europolの本部外観。| Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "2019年、リスボンのWeb Summitで講演するChristian Kroll氏。 | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EUの高官らは、域内の警察機関EuropolをAI時代に向けて強化する大規模な新計画が、欧州市民のプライバシーを脅かしかねないと警告している。今夏発表された計画は、予算を倍増の€3 billionとし、より多くのデータと先端技術へのアクセスを与えて、新たな脅威への対処にEuropolが直接関わるようにするものだ。"
+                "x": "行政サービスでも使われているベルリン拠点の検索エンジンが、フランスのAIパートナーであるMistralをやめ、中国製を含むオープンソースモデルに切り替えると、同社CEOがPOLITICOに語った。Ecosiaの創業者でCEOのChristian Kroll氏は「Mistralの品質には失望している」と述べ、同社のモデルは競合より「一年遅れている」と評した。"
               },
               {
                 "t": "p",
-                "x": "欧州データ保護監察官のWojciech Wiewiórowski氏は、EuropolにAIツールを持たせることには「全面的に賛成」だが、「監督がなければならない」と述べた。同氏は、この提案によって同機関が犯罪と無関係の「膨大な」数の人々のデータを保持できるようになると警告してきた。"
+                "x": "Kroll氏によると、Ecosiaは5月にOpenAIからMistralに切り替えたが、技術的な問題が繰り返し発生した。同氏はMistralがEcosiaの環境目標に合うかどうか、そしてその独立性にも疑問を呈した。「Mistralが国際的な投資家からの出資に頼っているという事実は、我々の見方では真に主権的とは言えない」"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "先月、同機関のトップに指名されたEuropolのJurgen Ebner副長官。2026年6月26日、ブリュッセルでの記者会見で。| Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "2026年5月28日、パリのAI Now Summitで講演するGuillaume Lample氏。 | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "「AIは犯罪活動をより速く、より巧妙に、そして大規模に実行しやすくする」と、Europolを率いることになったJürgen Ebner氏は語った。同氏はまた、Europolは「データ収集それ自体が目的になる」一線を越えるべきではないとも述べた。"
+                "x": "Mistralの共同創業者Guillaume Lample氏は「できるだけ早く我々の新モデルを試してほしい」と述べた。EcosiaはQwen、GLM、Kimiなどのモデルをホストする Melious と提携しており、Kroll氏によればコストはおよそ半分になった。一部の専門家は、モデルの政治的偏りは技術的に修正できるとする同氏の見方に異を唱えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Europol AI警务计划\n引发隐私担忧",
-          "body": "EU警察机构筹备AI-powered警务，需同时应对网络犯罪分子与隐私活动人士。",
-          "mini_headline": "Europol的AI计划与隐私",
+          "headline": "Ecosia弃Mistral\n转投中国开源AI",
+          "body": "Ecosia首席执行官称，因质量问题将弃用Mistral，改用含中国模型在内的开源模型。",
+          "mini_headline": "Ecosia转向中国AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015年11月24日，位于海牙的EU警察机构Europol总部外景。| Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "Christian Kroll在2019年里斯本Web Summit上发言。| Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EU高级官员警告，一项为AI时代武装欧盟警察机构Europol的大规模新计划，可能威胁欧洲人的隐私。该计划于今年夏天公布，将把Europol预算翻倍至€3 billion，并让其获取更多数据和先进技术，直接参与应对新威胁。"
+                "x": "一家被政府服务采用的柏林搜索引擎正弃用其法国AI合作伙伴Mistral，转而采用包括中国模型在内的开源模型，其首席执行官向POLITICO透露。Ecosia创始人兼首席执行官Christian Kroll表示：“我们对Mistral的质量感到失望。”他称其模型比竞争对手“落后一年”。"
               },
               {
                 "t": "p",
-                "x": "欧洲数据保护监督官Wojciech Wiewiórowski表示，他“完全赞成”为Europol配备AI工具，但“必须有监督”。他曾警告，该提案将使该机构得以保留“大量”与犯罪活动无关人员的数据。"
+                "x": "Kroll说，Ecosia在5月用Mistral取代了OpenAI，但反复遇到技术问题。他还质疑Mistral是否契合Ecosia的环保目标及其独立性：“在我们看来，Mistral依赖国际投资者的投资，这并非真正的主权。”"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "上月被任命执掌该机构的Europol副局长Jurgen Ebner于2026年6月26日在布鲁塞尔的新闻发布会上发言。| Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "Guillaume Lample在2026年5月28日巴黎AI Now Summit上发言。| Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "被选定领导Europol的Jürgen Ebner说：“AI让犯罪活动更快、更复杂，也更容易大规模实施。”他还表示，Europol不应越过“收集数据本身成为目的”的界线。"
+                "x": "Mistral联合创始人Guillaume Lample表示：“我建议他们尽快试用我们的新模型。”Ecosia正与托管Qwen、GLM和Kimi等模型的Melious合作；Kroll称成本大约减少了一半。一些专家对他所称模型的政治偏见可以通过技术手段解决的观点提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El plan de policía con AI de\nEuropol inquieta por privacidad",
-          "body": "Al planear una policía AI-powered, la agencia de la EU debe lidiar con ciberdelincuentes y activistas de privacidad.",
-          "mini_headline": "El plan de AI de Europol y la privacidad",
+          "headline": "Ecosia deja Mistral por la IA\nchina de código abierto",
+          "body": "El CEO de Ecosia dice que deja Mistral por modelos de código abierto, incluidos chinos, por dudas sobre su calidad.",
+          "mini_headline": "Ecosia apuesta por IA china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "Exterior de la sede de Europol, la agencia policial de la EU, en La Haya el 24 de noviembre de 2015. | Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "Christian Kroll interviene en la Web Summit de 2019 en Lisboa. | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "Altos cargos de la EU advierten de que un amplio plan nuevo para armar a la agencia policial del bloque, Europol, para la era de la AI podría amenazar la privacidad de los europeos. Los planes, anunciados este verano, duplicarían su presupuesto hasta €3 billion y darían a Europol un papel directo en la lucha contra nuevas amenazas, con acceso a más datos y tecnología avanzada."
+                "x": "Un buscador con sede en Berlín que utilizan servicios gubernamentales abandona a su socio francés de IA, Mistral, en favor de modelos de código abierto, incluidos algunos de China, según dijo su CEO a POLITICO. “Estamos decepcionados con la calidad de Mistral”, afirmó Christian Kroll, fundador y CEO de Ecosia, quien consideró que sus modelos están “un año por detrás” de la competencia."
               },
               {
                 "t": "p",
-                "x": "El Supervisor Europeo de Protección de Datos, Wojciech Wiewiórowski, dijo estar “absolutamente a favor” de dotar a Europol de herramientas de AI, pero que “tiene que haber supervisión”. Ha advertido que la propuesta permitiría a la agencia conservar datos de un número “enorme” de personas sin vínculos con actividades delictivas."
+                "x": "Ecosia sustituyó a OpenAI por Mistral en mayo, pero sufrió problemas técnicos recurrentes, según Kroll. También cuestionó el encaje de Mistral con los objetivos medioambientales de Ecosia y su independencia: “El hecho de que Mistral dependa de la inversión de inversores internacionales no es, a nuestro juicio, verdaderamente soberano”."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "El subdirector de Europol, Jurgen Ebner, designado el mes pasado para dirigir la agencia, habla en una rueda de prensa en Bruselas el 26 de junio de 2026. | Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "Guillaume Lample interviene en la AI Now Summit de París el 28 de mayo de 2026. | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "“La AI hace que las actividades delictivas sean más rápidas, más sofisticadas y más fáciles de llevar a cabo a gran escala”, dijo Jürgen Ebner, elegido para dirigir Europol. También dijo que Europol no debería cruzar la línea en la que “recopilar datos se convierte en un objetivo en sí mismo”."
+                "x": "El cofundador de Mistral, Guillaume Lample, dijo: “Les animaría a probar nuestro nuevo modelo lo antes posible”. Ecosia se ha asociado con Melious, que aloja modelos como Qwen, GLM y Kimi; Kroll dijo que los costos se redujeron aproximadamente a la mitad. Algunos expertos rebaten su opinión de que los sesgos políticos de los modelos pueden corregirse técnicamente."
               }
             ]
           }
@@ -1533,129 +1468,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Europol AI 치안\n계획에 사생활 우려",
-          "body": "AI-powered 치안을 앞둔 EU 경찰은 사이버범죄자와 사생활 운동가에 맞선다.",
-          "mini_headline": "Europol의 AI 계획과 사생활",
+          "headline": "Mistral 대신\nEcosia는 중국 AI로",
+          "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
+          "mini_headline": "Ecosia, 중국 AI로 전환",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015년 11월 24일 헤이그에 있는 EU 경찰기구 Europol 본부 외관. | Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EU 고위 당국자들은 EU 경찰기구 Europol을 AI 시대에 맞게 무장시키려는 대대적인 새 계획이 유럽인의 사생활을 위협할 수 있다고 경고한다. 올여름 발표된 이 계획은 Europol 예산을 두 배인 €3 billion으로 늘리고, 더 많은 데이터와 첨단 기술에 접근하게 해 새로운 위협 대응에 직접 나서도록 한다."
+                "x": "정부 서비스에서도 쓰이는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 옮겨 간다고 CEO가 POLITICO에 밝혔다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "유럽정보보호감독관 Wojciech Wiewiórowski는 Europol에 AI 도구를 쥐여주는 데 “전적으로 찬성”하지만 “감독이 반드시 있어야 한다”고 말했다. 그는 이 제안대로라면 기관이 범죄와 무관한 “방대한” 수의 사람에 대한 데이터를 보관할 수 있다고 경고해 왔다."
+                "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 제기했다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "지난달 기관 수장으로 지명된 Europol 부국장 Jurgen Ebner가 2026년 6월 26일 브뤼셀 기자회견에서 발언하고 있다. | Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Europol을 이끌 인물로 선정된 Jürgen Ebner는 “AI는 범죄를 더 빠르고 정교하게, 그리고 대규모로 저지르기 쉽게 만든다”고 말했다. 그는 또 Europol이 “데이터 수집 자체가 목적이 되는” 선을 넘어서는 안 된다고 했다."
+                "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia는 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious와 손잡았으며, Kroll은 비용이 대략 절반으로 줄었다고 말했다. 일부 전문가는 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에 이견을 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EuropolのAI警察計画\nプライバシー懸念を招く",
-          "body": "AI-powered警察を目指すEU機関は、サイバー犯罪者とプライバシー活動家に挟まれる。",
-          "mini_headline": "EuropolのAI計画とプライバシー",
+          "headline": "Ecosia、Mistral\n離れ中国オープンソースへ",
+          "body": "Ecosiaは品質を理由に、Mistralから中国製を含むオープンソースへ移るという。",
+          "mini_headline": "Ecosia、中国AIへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015年11月24日、ハーグにあるEUの警察機関Europolの本部外観。| Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "2019年、リスボンのWeb Summitで講演するChristian Kroll氏。 | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EUの高官らは、域内の警察機関EuropolをAI時代に向けて強化する大規模な新計画が、欧州市民のプライバシーを脅かしかねないと警告している。今夏発表された計画は、予算を倍増の€3 billionとし、より多くのデータと先端技術へのアクセスを与えて、新たな脅威への対処にEuropolが直接関わるようにするものだ。"
+                "x": "行政サービスでも使われているベルリン拠点の検索エンジンが、フランスのAIパートナーであるMistralをやめ、中国製を含むオープンソースモデルに切り替えると、同社CEOがPOLITICOに語った。Ecosiaの創業者でCEOのChristian Kroll氏は「Mistralの品質には失望している」と述べ、同社のモデルは競合より「一年遅れている」と評した。"
               },
               {
                 "t": "p",
-                "x": "欧州データ保護監察官のWojciech Wiewiórowski氏は、EuropolにAIツールを持たせることには「全面的に賛成」だが、「監督がなければならない」と述べた。同氏は、この提案によって同機関が犯罪と無関係の「膨大な」数の人々のデータを保持できるようになると警告してきた。"
+                "x": "Kroll氏によると、Ecosiaは5月にOpenAIからMistralに切り替えたが、技術的な問題が繰り返し発生した。同氏はMistralがEcosiaの環境目標に合うかどうか、そしてその独立性にも疑問を呈した。「Mistralが国際的な投資家からの出資に頼っているという事実は、我々の見方では真に主権的とは言えない」"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "先月、同機関のトップに指名されたEuropolのJurgen Ebner副長官。2026年6月26日、ブリュッセルでの記者会見で。| Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "2026年5月28日、パリのAI Now Summitで講演するGuillaume Lample氏。 | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "「AIは犯罪活動をより速く、より巧妙に、そして大規模に実行しやすくする」と、Europolを率いることになったJürgen Ebner氏は語った。同氏はまた、Europolは「データ収集それ自体が目的になる」一線を越えるべきではないとも述べた。"
+                "x": "Mistralの共同創業者Guillaume Lample氏は「できるだけ早く我々の新モデルを試してほしい」と述べた。EcosiaはQwen、GLM、Kimiなどのモデルをホストする Melious と提携しており、Kroll氏によればコストはおよそ半分になった。一部の専門家は、モデルの政治的偏りは技術的に修正できるとする同氏の見方に異を唱えている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Europol AI警务计划\n引发隐私担忧",
-          "body": "EU警察机构筹备AI-powered警务，需同时应对网络犯罪分子与隐私活动人士。",
-          "mini_headline": "Europol的AI计划与隐私",
+          "headline": "Ecosia弃Mistral\n转投中国开源AI",
+          "body": "Ecosia首席执行官称，因质量问题将弃用Mistral，改用含中国模型在内的开源模型。",
+          "mini_headline": "Ecosia转向中国AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "2015年11月24日，位于海牙的EU警察机构Europol总部外景。| Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "Christian Kroll在2019年里斯本Web Summit上发言。| Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "EU高级官员警告，一项为AI时代武装欧盟警察机构Europol的大规模新计划，可能威胁欧洲人的隐私。该计划于今年夏天公布，将把Europol预算翻倍至€3 billion，并让其获取更多数据和先进技术，直接参与应对新威胁。"
+                "x": "一家被政府服务采用的柏林搜索引擎正弃用其法国AI合作伙伴Mistral，转而采用包括中国模型在内的开源模型，其首席执行官向POLITICO透露。Ecosia创始人兼首席执行官Christian Kroll表示：“我们对Mistral的质量感到失望。”他称其模型比竞争对手“落后一年”。"
               },
               {
                 "t": "p",
-                "x": "欧洲数据保护监督官Wojciech Wiewiórowski表示，他“完全赞成”为Europol配备AI工具，但“必须有监督”。他曾警告，该提案将使该机构得以保留“大量”与犯罪活动无关人员的数据。"
+                "x": "Kroll说，Ecosia在5月用Mistral取代了OpenAI，但反复遇到技术问题。他还质疑Mistral是否契合Ecosia的环保目标及其独立性：“在我们看来，Mistral依赖国际投资者的投资，这并非真正的主权。”"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "上月被任命执掌该机构的Europol副局长Jurgen Ebner于2026年6月26日在布鲁塞尔的新闻发布会上发言。| Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "Guillaume Lample在2026年5月28日巴黎AI Now Summit上发言。| Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "被选定领导Europol的Jürgen Ebner说：“AI让犯罪活动更快、更复杂，也更容易大规模实施。”他还表示，Europol不应越过“收集数据本身成为目的”的界线。"
+                "x": "Mistral联合创始人Guillaume Lample表示：“我建议他们尽快试用我们的新模型。”Ecosia正与托管Qwen、GLM和Kimi等模型的Melious合作；Kroll称成本大约减少了一半。一些专家对他所称模型的政治偏见可以通过技术手段解决的观点提出异议。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El plan de policía con AI de\nEuropol inquieta por privacidad",
-          "body": "Al planear una policía AI-powered, la agencia de la EU debe lidiar con ciberdelincuentes y activistas de privacidad.",
-          "mini_headline": "El plan de AI de Europol y la privacidad",
+          "headline": "Ecosia deja Mistral por la IA\nchina de código abierto",
+          "body": "El CEO de Ecosia dice que deja Mistral por modelos de código abierto, incluidos chinos, por dudas sobre su calidad.",
+          "mini_headline": "Ecosia apuesta por IA china",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=642,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/05/GettyImages-1140107546-scaled.jpg",
-                "cap": "Exterior de la sede de Europol, la agencia policial de la EU, en La Haya el 24 de noviembre de 2015. | Remko de Waal/ANP/AFP via Getty Images"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
+                "cap": "Christian Kroll interviene en la Web Summit de 2019 en Lisboa. | Web Summit via Wikimedia"
               },
               {
                 "t": "p",
-                "x": "Altos cargos de la EU advierten de que un amplio plan nuevo para armar a la agencia policial del bloque, Europol, para la era de la AI podría amenazar la privacidad de los europeos. Los planes, anunciados este verano, duplicarían su presupuesto hasta €3 billion y darían a Europol un papel directo en la lucha contra nuevas amenazas, con acceso a más datos y tecnología avanzada."
+                "x": "Un buscador con sede en Berlín que utilizan servicios gubernamentales abandona a su socio francés de IA, Mistral, en favor de modelos de código abierto, incluidos algunos de China, según dijo su CEO a POLITICO. “Estamos decepcionados con la calidad de Mistral”, afirmó Christian Kroll, fundador y CEO de Ecosia, quien consideró que sus modelos están “un año por detrás” de la competencia."
               },
               {
                 "t": "p",
-                "x": "El Supervisor Europeo de Protección de Datos, Wojciech Wiewiórowski, dijo estar “absolutamente a favor” de dotar a Europol de herramientas de AI, pero que “tiene que haber supervisión”. Ha advertido que la propuesta permitiría a la agencia conservar datos de un número “enorme” de personas sin vínculos con actividades delictivas."
+                "x": "Ecosia sustituyó a OpenAI por Mistral en mayo, pero sufrió problemas técnicos recurrentes, según Kroll. También cuestionó el encaje de Mistral con los objetivos medioambientales de Ecosia y su independencia: “El hecho de que Mistral dependa de la inversión de inversores internacionales no es, a nuestro juicio, verdaderamente soberano”."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/14099979-1024x683.jpg",
-                "cap": "El subdirector de Europol, Jurgen Ebner, designado el mes pasado para dirigir la agencia, habla en una rueda de prensa en Bruselas el 26 de junio de 2026. | Olivier Hoslet/EPA"
+                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
+                "cap": "Guillaume Lample interviene en la AI Now Summit de París el 28 de mayo de 2026. | Stephane de Sakutin/AFP via Getty Images"
               },
               {
                 "t": "p",
-                "x": "“La AI hace que las actividades delictivas sean más rápidas, más sofisticadas y más fáciles de llevar a cabo a gran escala”, dijo Jürgen Ebner, elegido para dirigir Europol. También dijo que Europol no debería cruzar la línea en la que “recopilar datos se convierte en un objetivo en sí mismo”."
+                "x": "El cofundador de Mistral, Guillaume Lample, dijo: “Les animaría a probar nuestro nuevo modelo lo antes posible”. Ecosia se ha asociado con Melious, que aloja modelos como Qwen, GLM y Kimi; Kroll dijo que los costos se redujeron aproximadamente a la mitad. Algunos expertos rebaten su opinión de que los sesgos políticos de los modelos pueden corregirse técnicamente."
               }
             ]
           }

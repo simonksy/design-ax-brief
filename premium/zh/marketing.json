@@ -243,6 +243,147 @@
           "x": "投放护栏会评估某段对话是否适合投放广告；Negative Phrases现已向符合条件的广告主开放，供其按自身政策设置排除项。"
         }
       ]
+    },
+    "marketing/marketing-weight-watchers-chatgpt-cpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DoubleVerify于2026年10月5日表示，广告主现在可以在DV Rockerbox中把ChatGPT Ads作为与其他渠道并列的一个触点来衡量。DV Rockerbox是DoubleVerify在2025年以$85 million 收购的归因业务。该公司还在与OpenAI开发一项品牌适宜性试点，目前仍在推进中。"
+        },
+        {
+          "t": "p",
+          "x": "据DoubleVerify称，Weight Watchers将ChatGPT Ads作为新的会员获取来源，在衡量期内，其归因后的单次获客成本比既定基准低15.3%。OpenAI同日发布的文章称，这一比较对象是混合的paid-search基准。"
+        },
+        {
+          "t": "p",
+          "x": "Weight Watchers增长副总裁Jake Dmochowski表示：“随着新的广告渠道不断出现，我们需要了解它们如何为更广泛的客户旅程做出贡献。”"
+        },
+        {
+          "t": "p",
+          "x": "此次发布没有给出投放金额、投放日期、获客数量、归因窗口或基准定义，也没有说明ChatGPT Ads是否适用multi-touch归因或增量测试。"
+        },
+        {
+          "t": "p",
+          "x": "该试点将由独立合作方在不接触用户私密对话的情况下，评估OpenAI的适宜性政策和防护措施；OpenAI在一项并行试点中点名了Integral Ad Science。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-columns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads正在其报告控制台中新增与AI Max相关的列，包括品牌包含、兴趣地点、佣金和优化定位。"
+        },
+        {
+          "t": "p",
+          "x": "这一变化由Vivek Gupta发现，他在LinkedIn上写道：“Google Ads新增了一些与AI Max相关的列。”"
+        },
+        {
+          "t": "p",
+          "x": "以下截图展示了这四个新选项："
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brand Inclusions（品牌包含）、Locations of interest（兴趣地点）、Commission（佣金）、Optimized targeting（优化定位）"
+        }
+      ]
+    },
+    "marketing/marketing-ok-future-goodwipes-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "前MullenLowe U.S. CEO Frank Cartagena创办自己的创意工作室OK Future时，想检验生成式AI能让他这家四人代理商在多大程度上以小博大。"
+        },
+        {
+          "t": "p",
+          "x": "其首个作品是Goodwipes的“Meet Asstra”，恶搞了OpenAI为其AI模型Astra拍摄的广告。借助生成式AI工具，这支广告从构思到执行只用了四天，并压低了预计$700,000的制作成本。他说，一支一分钟的正式广告通常需要约六周。"
+        },
+        {
+          "t": "p",
+          "x": "Goodwipes和OK Future负责脚本、角色塑造、分镜和剪辑；ArtCraft、Seedance和OpenAI的Astra等工具则完成角色的视觉呈现和配音，并生成拍摄场景。"
+        },
+        {
+          "t": "p",
+          "x": "团队几乎没怎么睡觉，轮班昼夜赶工。Cartagena说：“我真的不建议让这成为项目的常态。这个节奏根本无法持续。”他还说：“完全就是个高压锅。”"
+        },
+        {
+          "t": "p",
+          "x": "据公司发言人介绍，这支广告在发布后48小时内在Reddit获得超过750,000次观看，此后在多个子版块累计观看近1.5 million 次，分享超过800次。"
+        }
+      ]
+    },
+    "marketing/marketing-walmart-sparky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "据U.S. CEO David Guggina介绍，AI的进步正在帮助Walmart节省开支，而公司又把省下的钱再投入到顾客体验的改善中。"
+        },
+        {
+          "t": "p",
+          "x": "Guggina在与Goldman Sachs的Katharine McShane对谈时说：“我们投入AI已经有相当长的时间了——我们的供应链使用实体AI已经超过七年——你能看到它正在重塑我们的公司，重塑我们对顾客的价值主张。”"
+        },
+        {
+          "t": "p",
+          "x": "成效在e-commerce上最为明显：Q2销售额同比增长24%，连续第10个季度增幅超过20%。Guggina将此归功于AI-driven的效率提升，即更快的配送和成本节约，这些收益又被再投入到有竞争力的价格和顾客体验中。"
+        },
+        {
+          "t": "p",
+          "x": "被Guggina形容为“能力越来越强”的Sparky是这些改进的核心。Sparky的周互动量环比增长60%，其新的视觉搜索与文字搜索相比带来了57%的转化率跃升。"
+        },
+        {
+          "t": "p",
+          "x": "Guggina对与OpenAI的ChatGPT、Google的Gemini等外部AI智能体的合作也“非常满意”，这些智能体通常将顾客直接深度链接到Walmart，带来“极佳的转化率”。这与Amazon形成对比，后者上月出手阻止Meta的新AI助手Muse访问其网站。经由ChatGPT和Gemini而来的顾客很多是新顾客或回流顾客，自然复购率“非常高”。"
+        }
+      ]
+    },
+    "marketing/marketing-ads-uploader-meta-agent-batches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+          "cap": "一把空椅子，一台自动打字的机器：在Ads Uploader，每6次Meta广告投放中就有1次由AI完成"
+        },
+        {
+          "t": "p",
+          "x": "面向Meta的批量广告提交平台Ads Uploader公布了2026年9月的数据。该公司表示，直接接入该服务的AI智能体占通过该平台提交的36,289个批次的17.5%。"
+        },
+        {
+          "t": "p",
+          "x": "按总量折算，这一比例相当于当月约6,350个智能体批次，按30-day窗口计算约为每天212个。同一份发布还显示，当月共产出286,137条Meta广告，约合每天9,500条。"
+        },
+        {
+          "t": "p",
+          "x": "当AI智能体通过平台的MCP服务器或command-line界面提交批次时，该批次即被计为agent-made。这一定义基于提交渠道而非自主程度，发布内容也未区分有人监督和无人监督的批次。"
+        },
+        {
+          "t": "p",
+          "x": "“很多广告主已经让智能体来做设置工作，”Ads Uploader创始人Chris Pollard说，“上个月，我们平台上约每6次批次投放中就有1次来自智能体。”"
+        },
+        {
+          "t": "p",
+          "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
+        }
+      ]
     }
   }
 }

@@ -1,25 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "music",
   "media": [
     {
-      "id": "music-copyright-office-fraud-inquiry",
+      "id": "music-amuchart",
       "type": "image",
-      "src": "pipeline/media/music-copyright-office-fraud-inquiry.jpg"
+      "src": "pipeline/media/music-amuchart.jpg"
     },
     {
-      "id": "music-grok-suno-backend",
+      "id": "music-base-for-music",
       "type": "image",
-      "src": "pipeline/media/music-grok-suno-backend.jpg"
+      "src": "pipeline/media/music-base-for-music.jpg"
     },
     {
-      "id": "music-tencent-music-deepseek",
-      "type": "image",
-      "src": "pipeline/media/music-tencent-music-deepseek.jpg"
+      "id": "music-riaa-nofakes",
+      "type": "video",
+      "src": "pipeline/media/music-riaa-nofakes.mp4",
+      "poster": "pipeline/media/music-riaa-nofakes.jpg"
     },
     {
-      "id": "music-humanculture-first-clients",
+      "id": "music-human-disclosure",
       "type": "image",
-      "src": "pipeline/media/music-humanculture-first-clients.png"
+      "src": "pipeline/media/music-human-disclosure.jpg"
+    },
+    {
+      "id": "music-kpop-ai-conductors",
+      "type": "image",
+      "src": "pipeline/media/music-kpop-ai-conductors.png"
     }
   ]
 }

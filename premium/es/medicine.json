@@ -195,6 +195,115 @@
           "x": "Ese hospital utiliza el sistema desde 2023 y ha dado soporte a unos 200,000 exámenes mamarios en tres años; este es el segundo despliegue regional del proveedor en Suecia, después de Dalarna County. La noticia llega después de que una empresa con sede en Berlin anunciara que había recibido la primera autorización mundial para una herramienta de triaje mamario que omite por completo la revisión del radiólogo en las mamografías normales."
         }
       ]
+    },
+    "medicine/medicine-suki-ask-uptodate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
+        },
+        {
+          "t": "p",
+          "x": "Suki lanzó Ask, una herramienta que permite a los clínicos plantear preguntas clínicas complejas con la UpToDate Expert AI API de Wolters Kluwer directamente en la app Suki for Clinicians. Las respuestas se basan en el contenido propio de UpToDate, elaborado por más de 7,600 médicos autores, editores y revisores; es la primera integración de la API en un producto."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas incluyen fuentes transparentes, consideraciones sobre medicación y dosis, y enlaces al contenido de respaldo. “Los clínicos seleccionaron información específica del paciente el 83% de las veces en diversas consultas, incluidos diagnósticos, dosis y consideraciones de seguridad”, dijo Abhi Pathak, director de producto de Suki."
+        },
+        {
+          "t": "p",
+          "x": "Ask está disponible en los sistemas EHR de Epic, Oracle Health, athenahealth y Meditech. A finales de agosto, Suki también lanzó Suki Dictation, integrado de forma nativa en las EHRs de Epic y Meditech."
+        }
+      ]
+    },
+    "medicine/medicine-ai-depression-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El Ministerio de Salud y Bienestar y la Asociación Coreana de Neuropsiquiatría publicaron el día 8 la “Guía para el uso de AI generativa con fines de salud mental”, con motivo del Día de la Salud Mental del día 10. Piden no aceptar las respuestas de la AI como juicio médico y buscar ayuda profesional en situaciones de crisis de salud mental."
+        },
+        {
+          "t": "p",
+          "x": "La guía para todos los usuarios recoge 3 mensajes clave y 21 recomendaciones. Aconseja comprobar antes del uso el propósito y la base del servicio, así como su manejo de datos personales, y recomienda: “No tome como conclusión lo que la AI dice sobre su estado” y “Tome distancia de la AI y hable con una persona”. Para niños y adolescentes, y para tutores, presentó 7 recomendaciones a cada grupo."
+        },
+        {
+          "t": "p",
+          "x": "En una encuesta del Instituto Coreano de Salud y Asuntos Sociales (1,019 personas), el 68.8% de los encuestados había usado AI generativa con fines emocionales, y el 14.6% había aceptado el juicio de la AI como diagnóstico médico o se había autodiagnosticado una enfermedad mental con base en él. El 51.7% de los adolescentes de 15 a 18 años respondió que se considera más bien dependiente de la AI."
+        },
+        {
+          "t": "p",
+          "x": "Choi Jun-ho, presidente de la Asociación Coreana de Neuropsiquiatría, subrayó: “Dado que la AI no puede sustituir la evaluación y el tratamiento profesionales, es importante recibir a tiempo la ayuda del personal médico cuando sea necesario”."
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-llm-ehr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La epilepsia y las crisis psicógenas no epilépticas suelen presentar manifestaciones similares a convulsiones, pero requieren estrategias de manejo fundamentalmente distintas. El diagnóstico erróneo es frecuente y puede provocar largos retrasos diagnósticos, tratamientos innecesarios y una morbilidad considerable para los pacientes. Aunque la videoelectroencefalografía prolongada es el estándar de referencia diagnóstico, su alto costo y su acceso limitado dificultan un diagnóstico oportuno."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "Aquí desarrollamos EpiScreen, un enfoque eficaz y de bajo costo para la detección temprana de la epilepsia que aprovecha las notas clínicas recopiladas de forma rutinaria en las historias clínicas electrónicas. Mediante el ajuste fino de grandes modelos de lenguaje con notas etiquetadas, EpiScreen alcanzó un AUC de hasta 0.875 en el conjunto de datos MIMIC-IV y de 0.980 en una cohorte privada de la University of Minnesota. En un entorno de colaboración clinician-AI, los neurólogos asistidos por EpiScreen (EpiScreen-assisted) superaron hasta en un 14.3% a los expertos sin ayuda."
+        },
+        {
+          "t": "p",
+          "x": "En conjunto, este estudio demuestra que EpiScreen favorece la detección temprana de la epilepsia y facilita un cribado oportuno y rentable que podría reducir los retrasos diagnósticos y evitar intervenciones innecesarias, sobre todo en regiones con recursos limitados."
+        }
+      ]
+    },
+    "medicine/medicine-clinicalgpt-med-safety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La auditoría de seguridad de la medicación en tiempo real requiere historiales de laboratorio y de medicación actualizados, pero las EHRs pueden contener evidencia decisiva desactualizada o ausente. Los autores presentan ClinicalGPT, un modelo fundacional preparado para auditoría que usa Clinical Trajectory Language para codificar tiempo, unidades, procedencia y observabilidad."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "En siete sistemas de salud, evaluaron de forma retrospectiva 847,000 órdenes de medicamentos de alto riesgo elegibles. ClinicalGPT con restricciones estrictas logró 3.2 omisiones por cada 1000 órdenes, frente a 9.4 con solo reglas, 6.1 del comparador LLM genérico original y 4.8 del comparador LLM más fuerte (RAG + LLM + rules). Su tasa de falsas alertas fue de 33.9, frente a 38.7 con solo reglas."
+        },
+        {
+          "t": "p",
+          "x": "La métrica offline no midió acciones clínicas, eventos adversos a medicamentos ni daño al paciente; los hallazgos respaldan el rendimiento comparativo de auditoría en el momento de la orden, pero no establecen eficacia clínica ni una reducción del daño al paciente."
+        }
+      ]
+    },
+    "medicine/medicine-fda-pediatric-bone-age-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+          "cap": "Foto: Lerner Children’s Pavilion at Hospital for Special Surgery"
+        },
+        {
+          "t": "p",
+          "x": "La Administración de Alimentos y Medicamentos de U.S. ha autorizado un software de AI diseñado para mejorar la evaluación de la edad ósea pediátrica. La autorización 510(k) cubre BoneXpert, de Visiana, un software de aprendizaje automático que determina la edad ósea en pacientes de 2 a 21 años mediante el método Greulich-Pyle, con el fin de apoyar a los radiólogos pediátricos en la evaluación de niños con trastornos del crecimiento y de la pubertad."
+        },
+        {
+          "t": "p",
+          "x": "La evaluación manual es un desafío conocido y puede variar entre lectores. BoneXpert analiza radiografías de cualquiera de las dos manos y ofrece una imagen anotada que muestra los huesos evaluados y la edad ósea de cada uno. No emite resultado cuando una imagen queda fuera de su ámbito validado; el radiólogo sigue siendo responsable de la evaluación final."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio multicéntrico en cinco centros de U.S., su raíz del error cuadrático medio fue de 0.55 años, frente a 0.76 años de los radiólogos, con menos resultados desviados al menos 1.5 años (1.7% vs. 6.4%). El software funciona de forma local, por lo que las radiografías no salen de la institución."
+        },
+        {
+          "t": "p",
+          "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
+        }
+      ]
     }
   }
 }

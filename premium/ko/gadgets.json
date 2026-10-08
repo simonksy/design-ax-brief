@@ -12211,6 +12211,128 @@
           "x": "Core는 미국에서 $3,499에 팔린다. 첫 물량은 출시 첫날 매진됐고 배송은 이달 말이다. AI용 최고 사양 Mac mini는 $3,199다. 다만 Core 같은 전용 로컬 AI(local-AI) 소프트웨어와 개인정보 보호 기능은 없다."
         }
       ]
+    },
+    "gadgets/gadgets-natura-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 $99 스마트 링 Interface를 내놓았다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리한다. 건강 트래커 역할도 겸한다."
+        },
+        {
+          "t": "p",
+          "x": "출시 때부터 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되고, 어떤 작업을 어느 에이전트에 맡길지는 사용자가 고른다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고 배송은 12월이나 1월이다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+        },
+        {
+          "t": "p",
+          "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 받을 계획이다."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 재고, 한 번 충전하면 엿새에서 12일을 간다."
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. 예고 문구는 \"Welcome home\"이다. Apple TV와 HomePod mini 새 버전, 그리고 오래 기다려 온 HomePad가 나올 것으로 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 만든다는 소문은 오래전부터 돌았다. Bloomberg의 Mark Gurman에 따르면 Apple은 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다."
+        },
+        {
+          "t": "p",
+          "x": "HomePad에는 일곱 인치 디스플레이와 새 운영체제 homeOS, StandBy-like 대시보드가 들어간다고 알려졌다. 얼굴·음성 인식으로 사용자마다 콘텐츠를 맞춰 보여주고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴도 지원한다는 소문이다."
+        },
+        {
+          "t": "p",
+          "x": "새 Apple TV와 HomePod mini도 Siri AI에 맞춰 사양이 올라갈 공산이 크다."
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-physical-ai-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+          "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템 덕분에 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia의 Halos 시스템은 2025년, 개발자가 자율주행차에 가드레일을 구현하도록 돕는 용도로 나왔다. 2026년 6월에는 Halos for Robotics로 범위를 넓혀 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥했다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 짜였다. 로봇 청소기와 창고 지게차는 안전의 정의부터 다르다. 그래서 개발자가 안전 기능을 직접 맞춰 프로그래밍할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
+        }
+      ]
+    },
+    "gadgets/gadgets-cybopal-monitor-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+          "cap": "이미지 출처: Cybopal/Kickstarter"
+        },
+        {
+          "t": "p",
+          "x": "Kickstarter에서 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 여섯 축 로봇 팔에 달아 책상에 고정한 제품이다. 팔이 사용자의 위치를 살피고 그에 맞춰 화면을 옮긴다. Super Early Bird 가격은 $1,599로, 예정 소매가 $2,499보다 싸다."
+        },
+        {
+          "t": "p",
+          "x": "컴퓨터도 따로 들어 있다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기 안에서 처리한다. 장애물 회피와 경로 계획은 양안 3D 센서 몫이고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
+        },
+        {
+          "t": "p",
+          "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가고, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립 검증을 거치지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-laptop-ultra-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia는 지난 6월 Microsoft를 비롯한 PC 제조사들과 손잡고 자사 RTX Spark 칩 기반의 AI·에이전트 대응(AI- and agent-ready) Windows PCs를 만들겠다고 발표했다. 수요일 Tech Week 중 San Francisco에서 열린 행사에서 Microsoft는 새 Surface Laptop Ultra의 사양과 가격을 공개했다. 기본 모델은 $2,600와 $3,700부터 시작하는 두 가지이고, 옵션을 더하면 $5,900까지 올라간다. 최상위 기기는 이미 품절됐다고 Microsoft는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 Surface RTX Spark Dev Box 워크스테이션도 내놨다. 가격은 $6,000부터이고 VS Code, GitHub Copilot CLI, WSL, PowerShell 7이 함께 딸려 온다. 두 기기 모두 AI 모델을 기기에서 로컬로, 그것도 무료로 돌리도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "두 기기는 새로 손본 Windows 11에서 돌아간다. 여기에는 AI 에이전트를 샌드박스로 격리하기 쉽게 해 주는 “Execution Containers” 기능이 들어갔고, CEO Satya Nadella는 이 기능을 모든 Windows 11 사용자에게 제공하겠다고 했다. 그는 “여러 모델에 맥락과 메모리, 행동 공간까지 받아낼 수 있는, 이렇게 제어된 계층이 있어야 한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "누가 봐도 개발자를 겨냥한 기기다. MacBook Pro를 보상 판매하면 Microsoft가 최대 $1,000를 깎아 준다. Dell도 $3,800짜리 Nvidia-RTX Spark XPS 16 Creator Edition의 세부 사항을 내놨다."
+        }
+      ]
     }
   }
 }

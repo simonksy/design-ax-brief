@@ -1,257 +1,222 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "science",
   "cards": [
     {
-      "id": "science-unique-games-proof-race",
+      "id": "science-alphaproof-nexus",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unique Games,\nAI 증명설과 벌인 경주",
-      "body": "AI가 Unique Games를 증명했다는 소문에 세 연구자가 성과를 서둘러 냈다.",
-      "mini_headline": "AI 증명설과의 경주",
+      "headline": "AlphaProof\nNexus 수십 난제 풀다",
+      "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
+      "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
       "tool": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "source": "EurekAlert! (AAAS / Science)",
+      "url": "https://www.eurekalert.org/news-releases/1146436",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-            "cap": "James O’Brien(Quanta Magazine)"
+            "t": "p",
+            "x": "연구진이 Science에 발표한 새 LLM-based 프레임워크 AlphaProof Nexus는 일부 수학 문제를 스스로 푼다. 증명을 탐색한 뒤 검증을 거쳐 풀이가 논리적으로 타당한지 확인하는 방식이다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
           },
           {
             "t": "p",
-            "x": "2026년 9월 11일 아침, ‘unique games’ 추측의 권위자인 MIT의 Dor Minzer에게 메시지가 밀려들었다. OpenAI가 이 추측의 증명을 찾았고 언제든 공개할 수 있다는 소식이었다."
-          },
-          {
-            "t": "p",
-            "x": "증명한 사람은 Minzer가 아니었다. 다만 그는 최근 대학원생 Yumou Fei, Shuo Wang과 함께 밀접한 문제에서 이정표가 될 결과를 증명해 둔 참이었다. 사흘 뒤 세 사람은 95쪽 논문을 온라인에 올리며 “수학적으로는 완결됐지만, 우리가 공유하고 싶었던 형태는 아니다”라는 단서를 달았다."
+            "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 논리 단계마다 자동으로 검증해 주는 형식 언어 Lean으로 증명을 만든다."
           },
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-            "cap": "Dor Minzer와 학생들은 AI 증명 소문에 선수를 빼앗기지 않으려고 이정표가 될 결과를 서둘러 올렸다. 사진 제공: Dor Minzer"
+            "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+            "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
           },
           {
             "t": "p",
-            "x": "10월 6일 OpenAI는 수학 여러 분야의 다른 결과 376건과 함께 unique games 추측의 증명을 발표했다. Khot의 2-to-1 추측에 대한 Lean-verified 증명도 들어 있었다. 사람이 편집하지도, 독립 전문가가 검토하지도 않은 AI-generated 원고였다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-            "cap": "Subhash Khot은 대학원생 때 unique games 추측을 내놓았다. Béatrice de Géa(Quanta Magazine)"
+            "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받아 가며 증명을 찾는 프레임워크를 만들었다. 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 함께 붙였다."
           },
           {
             "t": "p",
-            "x": "세 사람이 증명한 건 Khot의 2-to-1 games 추측보다 조금 약한 4-to-1 버전이다. 일부 3-colorable 그래프는 색을 아무리 더 써도 여전히 칠하기 어렵다는 내용이다. Princeton의 Mark Braverman은 “보도자료로 하는 수학은 수학에 그다지 건강하지 않다”고 말했다."
+            "x": "시도한 Erdős 문제 353개 가운데 아홉 개를 풀었는데, 그중 두 문제는 50년 넘게 풀리지 않던 난제다. 미해결 OEIS 추측도 492개 중 44개를 풀었고 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
+          },
+          {
+            "t": "p",
+            "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
           }
         ]
       },
+      "lead_image": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
       "text": {
         "en": {
-          "headline": "Researchers race a rumored\nAI proof on Unique Games",
-          "body": "Three computer scientists rushed out a milestone on a related conjecture as a rumored AI Unique Games proof closed in.",
-          "mini_headline": "Racing a rumored AI proof",
+          "headline": "AlphaProof Nexus settles\ndozens of open math problems",
+          "body": "An LLM-based system that seeks formally verified proofs solved dozens of open problems across several fields.",
+          "mini_headline": "AlphaProof Nexus settles open problems",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien for Quanta Magazine"
+                "t": "p",
+                "x": "A new LLM-based framework called AlphaProof Nexus can autonomously tackle select math problems, seeking proofs and using verification to ensure the solutions are logically sound, researchers report in Science. It solved dozens of previously open problems across several mathematical fields."
               },
               {
                 "t": "p",
-                "x": "On the morning of September 11, 2026, MIT's Dor Minzer, a leading expert on the “unique games” conjecture, began receiving messages: OpenAI had allegedly discovered a proof of the conjecture and might make it public any day."
-              },
-              {
-                "t": "p",
-                "x": "Minzer had not proved it. But he and his graduate students Yumou Fei and Shuo Wang had recently proved a milestone result about a closely related question. Three days later, they posted a 95-page paper online, with a disclaimer that it was “complete mathematically, but it is not in the shape we wished to share in.”"
+                "x": "LLMs tend to produce subtle logical errors or “hallucinations,” so the system generates proofs in the formal language Lean, which automatically verifies each logical step."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer and his students rushed to post a milestone result, hoping to avoid being upstaged by a rumored AI proof. Courtesy of Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "Design of the full-featured AlphaProof Nexus agent. Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "On October 6, OpenAI announced a proof of the unique games conjecture, along with 376 other results across many fields of math. Its release also included a Lean-verified proof of Khot's 2-to-1 conjecture, in an AI-generated manuscript with no human editing or independent expert review."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot posed the unique games conjecture back when he was still in graduate school. Béatrice de Géa for Quanta Magazine"
+                "x": "George Tsoukalas and colleagues built a framework in which multiple AI agents search for proofs with feedback from the Lean compiler, plus a full-featured agent that coordinates subagents through an evolutionary algorithm and uses AlphaProof as a specialized proof tool."
               },
               {
                 "t": "p",
-                "x": "The trio proved a slightly weaker 4-to-1 version of Khot's 2-to-1 games conjecture, implying that some 3-colorable graphs stay hard to color no matter how many extra colors you use. “Math by press release is not that healthy for math,” said Princeton's Mark Braverman."
+                "x": "It solved nine of 353 attempted Erdős problems, including two unsolved for more than 50 years, and 44 of 492 open OEIS conjectures, along with problems in algebraic geometry, optimization, quantum optics and graph theory."
+              },
+              {
+                "t": "p",
+                "x": "In a related Perspective, Jeremy Avigad and Matthew Ballard note that even unsuccessful AI proof attempts helped the authors understand the problems better and make progress."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unique Games,\nAI 증명설과 벌인 경주",
-          "body": "AI가 Unique Games를 증명했다는 소문에 세 연구자가 성과를 서둘러 냈다.",
-          "mini_headline": "AI 증명설과의 경주",
+          "headline": "AlphaProof\nNexus 수십 난제 풀다",
+          "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
+          "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "연구진이 Science에 발표한 새 LLM-based 프레임워크 AlphaProof Nexus는 일부 수학 문제를 스스로 푼다. 증명을 탐색한 뒤 검증을 거쳐 풀이가 논리적으로 타당한지 확인하는 방식이다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
               },
               {
                 "t": "p",
-                "x": "2026년 9월 11일 아침, ‘unique games’ 추측의 권위자인 MIT의 Dor Minzer에게 메시지가 밀려들었다. OpenAI가 이 추측의 증명을 찾았고 언제든 공개할 수 있다는 소식이었다."
-              },
-              {
-                "t": "p",
-                "x": "증명한 사람은 Minzer가 아니었다. 다만 그는 최근 대학원생 Yumou Fei, Shuo Wang과 함께 밀접한 문제에서 이정표가 될 결과를 증명해 둔 참이었다. 사흘 뒤 세 사람은 95쪽 논문을 온라인에 올리며 “수학적으로는 완결됐지만, 우리가 공유하고 싶었던 형태는 아니다”라는 단서를 달았다."
+                "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 논리 단계마다 자동으로 검증해 주는 형식 언어 Lean으로 증명을 만든다."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer와 학생들은 AI 증명 소문에 선수를 빼앗기지 않으려고 이정표가 될 결과를 서둘러 올렸다. 사진 제공: Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10월 6일 OpenAI는 수학 여러 분야의 다른 결과 376건과 함께 unique games 추측의 증명을 발표했다. Khot의 2-to-1 추측에 대한 Lean-verified 증명도 들어 있었다. 사람이 편집하지도, 독립 전문가가 검토하지도 않은 AI-generated 원고였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot은 대학원생 때 unique games 추측을 내놓았다. Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받아 가며 증명을 찾는 프레임워크를 만들었다. 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 함께 붙였다."
               },
               {
                 "t": "p",
-                "x": "세 사람이 증명한 건 Khot의 2-to-1 games 추측보다 조금 약한 4-to-1 버전이다. 일부 3-colorable 그래프는 색을 아무리 더 써도 여전히 칠하기 어렵다는 내용이다. Princeton의 Mark Braverman은 “보도자료로 하는 수학은 수학에 그다지 건강하지 않다”고 말했다."
+                "x": "시도한 Erdős 문제 353개 가운데 아홉 개를 풀었는데, 그중 두 문제는 50년 넘게 풀리지 않던 난제다. 미해결 OEIS 추측도 492개 중 44개를 풀었고 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
+              },
+              {
+                "t": "p",
+                "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unique Games\nAI証明の噂と研究者が競争",
-          "body": "AIによるUnique Games証明の噂が迫る中、三人が関連予想の成果を急ぎ公表した。",
-          "mini_headline": "噂のAI証明との競争",
+          "headline": "AlphaProof\nNexusが数十の難問を解く",
+          "body": "LLM-basedのシステムが形式検証された証明を探し、複数分野の未解決問題を数十件解いた。",
+          "mini_headline": "AlphaProof Nexus、未解決問題を解く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "AlphaProof Nexusと呼ばれる新しいLLM-basedのフレームワークは、一部の数学問題に自律的に取り組み、証明を探索し、検証によって解が論理的に正しいことを担保できると、研究チームがScienceに報告した。複数の数学分野で、これまで未解決だった問題を数十件解いた。"
               },
               {
                 "t": "p",
-                "x": "2026年9月11日の朝、「unique games」予想の第一人者であるMITのDor Minzerのもとにメッセージが届き始めた。OpenAIがこの予想の証明を発見したとされ、近いうちに公開するかもしれないというのだ。"
-              },
-              {
-                "t": "p",
-                "x": "Minzerが証明したわけではない。だが彼と大学院生のYumou Fei、Shuo Wangは最近、密接に関連する問題で節目となる結果を証明していた。三日後、彼らは95ページの論文をオンラインで公開し、「数学的には完成しているが、共有したかった形にはなっていない」との但し書きを添えた。"
+                "x": "LLMsは微妙な論理的誤り、いわゆる「幻覚」を生みやすい。そこでこのシステムは、各論理ステップを自動で検証する形式言語Leanで証明を生成する。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzerと学生たちは、噂のAI証明に先を越されないよう、節目となる結果を急いで公開した。提供:Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured版AlphaProof Nexusエージェントの設計。Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10月6日、OpenAIは数学の多くの分野にわたる376件の他の成果とともに、unique games予想の証明を発表した。そこにはKhotの2-to-1予想のLean-verified証明も含まれていたが、人間による編集も独立した専門家の査読も経ていないAI-generatedの原稿だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khotはまだ大学院生だった頃にunique games予想を提起した。Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalasらは、複数のAIエージェントがLeanコンパイラからのフィードバックを受けながら証明を探索するフレームワークを構築した。さらに、進化的アルゴリズムでサブエージェントを統括し、AlphaProofを専用の証明ツールとして使うfull-featuredのエージェントも開発した。"
               },
               {
                 "t": "p",
-                "x": "三人はKhotの2-to-1 games予想よりわずかに弱い4-to-1版を証明した。これは、一部の3-colorableグラフは色をどれだけ追加しても塗り分けが難しいままであることを意味する。PrincetonのMark Bravermanは「プレスリリースによる数学は、数学にとってあまり健全ではない」と語った。"
+                "x": "試みた353問のErdős問題のうち九問を解き、その中には50年以上未解決だった二問も含まれる。未解決のOEIS予想492件のうち44件も解いたほか、代数幾何学、最適化、量子光学、グラフ理論の問題も解決した。"
+              },
+              {
+                "t": "p",
+                "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unique Games\n研究者与AI证明传闻赛跑",
-          "body": "AI攻克Unique Games的传闻逼近之际，三位学者抢先发布了相关猜想的里程碑成果。",
-          "mini_headline": "与传闻中的AI证明赛跑",
+          "headline": "AlphaProof\nNexus攻克数十道数学难题",
+          "body": "一个LLM-based系统通过寻找形式化验证的证明，解决了多个领域的数十个开放问题。",
+          "mini_headline": "AlphaProof Nexus攻克开放问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "研究人员在Science上报告，一个名为AlphaProof Nexus的新型LLM-based框架能够自主处理部分数学问题：它寻找证明，并借助验证确保解答在逻辑上成立。该系统已解决多个数学领域中数十个此前悬而未决的问题。"
               },
               {
                 "t": "p",
-                "x": "2026年9月11日上午，“unique games”猜想的权威专家、MIT的Dor Minzer开始陆续收到消息：据称OpenAI已发现该猜想的证明，随时可能公开。"
-              },
-              {
-                "t": "p",
-                "x": "Minzer本人并未证明它。但他与研究生Yumou Fei、Shuo Wang最近在一个密切相关的问题上证明了一项里程碑式结果。三天后，他们在网上发布了一篇95页的论文，并附上声明：“在数学上是完整的，但还不是我们希望分享的样子。”"
+                "x": "LLMs容易产生细微的逻辑错误，即所谓的“幻觉”，因此该系统用形式语言Lean生成证明，由其自动验证每一步逻辑。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer和他的学生为免被传闻中的AI证明抢先，匆忙发布了里程碑式结果。图片由Dor Minzer提供"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured版AlphaProof Nexus智能体的设计。Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10月6日，OpenAI宣布证明了unique games猜想，同时公布了横跨多个数学领域的另外376项结果。发布内容还包括Khot的2-to-1猜想的Lean-verified证明，这是一份未经人工编辑、也未经独立专家评审的AI-generated手稿。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot在读研究生时就提出了unique games猜想。Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalas及其同事构建了一个框架，让多个AI智能体在Lean编译器的反馈下搜索证明；另有一个full-featured智能体，通过进化算法协调各子智能体，并把AlphaProof用作专门的证明工具。"
               },
               {
                 "t": "p",
-                "x": "三人证明了Khot的2-to-1 games猜想的一个稍弱的4-to-1版本，这意味着某些3-colorable图无论额外使用多少种颜色，仍然难以着色。Princeton的Mark Braverman说：“靠新闻稿做数学，对数学并不那么健康。”"
+                "x": "在尝试的353个Erdős问题中，它解决了九个，其中两个已悬而未决超过50年；它还解决了492个开放OEIS猜想中的44个，以及代数几何、优化、量子光学和图论领域的问题。"
+              },
+              {
+                "t": "p",
+                "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carrera contra el rumor de\nuna prueba AI de Unique Games",
-          "body": "Tres informáticos adelantaron un hito sobre una conjetura afín ante el rumor de una prueba AI de Unique Games.",
-          "mini_headline": "Carrera contra una prueba AI",
+          "headline": "AlphaProof Nexus resuelve\ndecenas de problemas abiertos",
+          "body": "Un sistema LLM-based de pruebas verificadas formalmente resolvió decenas de problemas abiertos en varias áreas.",
+          "mini_headline": "AlphaProof Nexus resuelve problemas abiertos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien para Quanta Magazine"
+                "t": "p",
+                "x": "Un nuevo marco LLM-based llamado AlphaProof Nexus puede abordar de forma autónoma ciertos problemas matemáticos: busca demostraciones y usa la verificación para garantizar que las soluciones sean lógicamente sólidas, según informan los investigadores en Science. Resolvió decenas de problemas hasta ahora abiertos en varios campos de las matemáticas."
               },
               {
                 "t": "p",
-                "x": "La mañana del 11 de septiembre de 2026, Dor Minzer, del MIT y uno de los principales expertos en la conjetura de los “unique games”, empezó a recibir mensajes: OpenAI habría descubierto una prueba de la conjetura y podría hacerla pública cualquier día."
-              },
-              {
-                "t": "p",
-                "x": "Minzer no la había demostrado. Pero él y sus estudiantes de posgrado Yumou Fei y Shuo Wang habían demostrado hace poco un resultado clave sobre una cuestión estrechamente relacionada. Tres días después publicaron en línea un artículo de 95 páginas, con la advertencia de que estaba “completo matemáticamente, pero no en la forma en que queríamos compartirlo”."
+                "x": "Los LLMs tienden a cometer errores lógicos sutiles o “alucinaciones”, por lo que el sistema genera las demostraciones en el lenguaje formal Lean, que verifica automáticamente cada paso lógico."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer y sus estudiantes se apresuraron a publicar un resultado clave para no verse eclipsados por una supuesta prueba AI. Cortesía de Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "Diseño del agente full-featured de AlphaProof Nexus. Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "El 6 de octubre, OpenAI anunció una prueba de la conjetura de los unique games, junto con otros 376 resultados en muchos campos de las matemáticas. El anuncio incluía además una prueba Lean-verified de la conjetura 2-to-1 de Khot, en un manuscrito AI-generated sin edición humana ni revisión de expertos independientes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot planteó la conjetura de los unique games cuando aún era estudiante de posgrado. Béatrice de Géa para Quanta Magazine"
+                "x": "George Tsoukalas y sus colegas crearon un marco en el que varios agentes de AI buscan demostraciones con la retroalimentación del compilador de Lean, además de un agente full-featured que coordina subagentes mediante un algoritmo evolutivo y usa AlphaProof como herramienta especializada de demostración."
               },
               {
                 "t": "p",
-                "x": "El trío demostró una versión 4-to-1, algo más débil, de la conjetura de los 2-to-1 games de Khot, lo que implica que algunos grafos 3-colorable siguen siendo difíciles de colorear por muchos colores adicionales que se usen. “Las matemáticas por comunicado de prensa no son muy sanas para las matemáticas”, dijo Mark Braverman, de Princeton."
+                "x": "Resolvió nueve de los 353 problemas de Erdős que intentó, entre ellos dos sin resolver desde hace más de 50 años, y 44 de 492 conjeturas abiertas de la OEIS, además de problemas de geometría algebraica, optimización, óptica cuántica y teoría de grafos."
+              },
+              {
+                "t": "p",
+                "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
               }
             ]
           }
@@ -259,165 +224,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unique Games,\nAI 증명설과 벌인 경주",
-          "body": "AI의 Unique Games 증명설에 세 연구자가 관련 성과를 서둘러 냈다.",
-          "mini_headline": "AI 증명설과의 경주",
+          "headline": "AlphaProof\nNexus 수십 난제 풀다",
+          "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
+          "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "AlphaProof Nexus라는 새로운 LLM-based 프레임워크가 일부 수학 문제를 스스로 풀어낸다고 연구진이 Science에 발표했다. 이 시스템은 증명을 탐색하고 검증을 거쳐 풀이가 논리적으로 타당한지 확인한다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
               },
               {
                 "t": "p",
-                "x": "2026년 9월 11일 아침, ‘unique games’ 추측의 권위자인 MIT의 Dor Minzer에게 메시지가 오기 시작했다. OpenAI가 이 추측의 증명을 발견했다고 하며, 언제든 공개할 수 있다는 내용이었다."
-              },
-              {
-                "t": "p",
-                "x": "Minzer가 증명한 것은 아니었다. 다만 그는 대학원생 Yumou Fei, Shuo Wang과 함께 밀접하게 연관된 문제에서 이정표가 될 결과를 최근 증명했다. 사흘 뒤 이들은 95쪽 논문을 온라인에 올리며 “수학적으로는 완결됐지만, 우리가 공유하고 싶었던 형태는 아니다”라는 단서를 달았다."
+                "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 각 논리 단계를 자동으로 검증하는 형식 언어 Lean으로 증명을 생성한다."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer와 학생들은 소문으로 돌던 AI 증명에 선수를 빼앗기지 않으려고 이정표가 될 결과를 서둘러 올렸다. 사진 제공: Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10월 6일 OpenAI는 수학 여러 분야의 다른 결과 376건과 함께 unique games 추측의 증명을 발표했다. 여기에는 Khot의 2-to-1 추측에 대한 Lean-verified 증명도 들어 있었는데, 사람의 편집이나 독립적인 전문가 검토를 거치지 않은 AI-generated 원고였다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot은 대학원생 시절에 unique games 추측을 제시했다. Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받으며 증명을 찾는 프레임워크를 만들었다. 여기에 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 더했다."
               },
               {
                 "t": "p",
-                "x": "세 사람은 Khot의 2-to-1 games 추측보다 조금 약한 4-to-1 버전을 증명했다. 이는 일부 3-colorable 그래프가 색을 아무리 더 써도 여전히 칠하기 어렵다는 뜻이다. Princeton의 Mark Braverman은 “보도자료로 하는 수학은 수학에 그다지 건강하지 않다”고 말했다."
+                "x": "시도한 Erdős 문제 353개 중 아홉 개를 풀었고, 여기에는 50년 넘게 풀리지 않던 두 문제가 들어 있다. 미해결 OEIS 추측 492개 중 44개도 풀었으며, 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
+              },
+              {
+                "t": "p",
+                "x": "관련 Perspective에서 Jeremy Avigad와 Matthew Ballard는 실패한 AI 증명 시도조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unique Games\nAI証明の噂と研究者が競争",
-          "body": "AIによるUnique Games証明の噂が迫る中、三人が関連予想の成果を急ぎ公表した。",
-          "mini_headline": "噂のAI証明との競争",
+          "headline": "AlphaProof\nNexusが数十の難問を解く",
+          "body": "LLM-basedのシステムが形式検証された証明を探し、複数分野の未解決問題を数十件解いた。",
+          "mini_headline": "AlphaProof Nexus、未解決問題を解く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "AlphaProof Nexusと呼ばれる新しいLLM-basedのフレームワークは、一部の数学問題に自律的に取り組み、証明を探索し、検証によって解が論理的に正しいことを担保できると、研究チームがScienceに報告した。複数の数学分野で、これまで未解決だった問題を数十件解いた。"
               },
               {
                 "t": "p",
-                "x": "2026年9月11日の朝、「unique games」予想の第一人者であるMITのDor Minzerのもとにメッセージが届き始めた。OpenAIがこの予想の証明を発見したとされ、近いうちに公開するかもしれないというのだ。"
-              },
-              {
-                "t": "p",
-                "x": "Minzerが証明したわけではない。だが彼と大学院生のYumou Fei、Shuo Wangは最近、密接に関連する問題で節目となる結果を証明していた。三日後、彼らは95ページの論文をオンラインで公開し、「数学的には完成しているが、共有したかった形にはなっていない」との但し書きを添えた。"
+                "x": "LLMsは微妙な論理的誤り、いわゆる「幻覚」を生みやすい。そこでこのシステムは、各論理ステップを自動で検証する形式言語Leanで証明を生成する。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzerと学生たちは、噂のAI証明に先を越されないよう、節目となる結果を急いで公開した。提供:Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured版AlphaProof Nexusエージェントの設計。Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10月6日、OpenAIは数学の多くの分野にわたる376件の他の成果とともに、unique games予想の証明を発表した。そこにはKhotの2-to-1予想のLean-verified証明も含まれていたが、人間による編集も独立した専門家の査読も経ていないAI-generatedの原稿だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khotはまだ大学院生だった頃にunique games予想を提起した。Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalasらは、複数のAIエージェントがLeanコンパイラからのフィードバックを受けながら証明を探索するフレームワークを構築した。さらに、進化的アルゴリズムでサブエージェントを統括し、AlphaProofを専用の証明ツールとして使うfull-featuredのエージェントも開発した。"
               },
               {
                 "t": "p",
-                "x": "三人はKhotの2-to-1 games予想よりわずかに弱い4-to-1版を証明した。これは、一部の3-colorableグラフは色をどれだけ追加しても塗り分けが難しいままであることを意味する。PrincetonのMark Bravermanは「プレスリリースによる数学は、数学にとってあまり健全ではない」と語った。"
+                "x": "試みた353問のErdős問題のうち九問を解き、その中には50年以上未解決だった二問も含まれる。未解決のOEIS予想492件のうち44件も解いたほか、代数幾何学、最適化、量子光学、グラフ理論の問題も解決した。"
+              },
+              {
+                "t": "p",
+                "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unique Games\n研究者与AI证明传闻赛跑",
-          "body": "AI攻克Unique Games的传闻逼近之际，三位学者抢先发布了相关猜想的里程碑成果。",
-          "mini_headline": "与传闻中的AI证明赛跑",
+          "headline": "AlphaProof\nNexus攻克数十道数学难题",
+          "body": "一个LLM-based系统通过寻找形式化验证的证明，解决了多个领域的数十个开放问题。",
+          "mini_headline": "AlphaProof Nexus攻克开放问题",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien(Quanta Magazine)"
+                "t": "p",
+                "x": "研究人员在Science上报告，一个名为AlphaProof Nexus的新型LLM-based框架能够自主处理部分数学问题：它寻找证明，并借助验证确保解答在逻辑上成立。该系统已解决多个数学领域中数十个此前悬而未决的问题。"
               },
               {
                 "t": "p",
-                "x": "2026年9月11日上午，“unique games”猜想的权威专家、MIT的Dor Minzer开始陆续收到消息：据称OpenAI已发现该猜想的证明，随时可能公开。"
-              },
-              {
-                "t": "p",
-                "x": "Minzer本人并未证明它。但他与研究生Yumou Fei、Shuo Wang最近在一个密切相关的问题上证明了一项里程碑式结果。三天后，他们在网上发布了一篇95页的论文，并附上声明：“在数学上是完整的，但还不是我们希望分享的样子。”"
+                "x": "LLMs容易产生细微的逻辑错误，即所谓的“幻觉”，因此该系统用形式语言Lean生成证明，由其自动验证每一步逻辑。"
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer和他的学生为免被传闻中的AI证明抢先，匆忙发布了里程碑式结果。图片由Dor Minzer提供"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "full-featured版AlphaProof Nexus智能体的设计。Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "10月6日，OpenAI宣布证明了unique games猜想，同时公布了横跨多个数学领域的另外376项结果。发布内容还包括Khot的2-to-1猜想的Lean-verified证明，这是一份未经人工编辑、也未经独立专家评审的AI-generated手稿。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot在读研究生时就提出了unique games猜想。Béatrice de Géa(Quanta Magazine)"
+                "x": "George Tsoukalas及其同事构建了一个框架，让多个AI智能体在Lean编译器的反馈下搜索证明；另有一个full-featured智能体，通过进化算法协调各子智能体，并把AlphaProof用作专门的证明工具。"
               },
               {
                 "t": "p",
-                "x": "三人证明了Khot的2-to-1 games猜想的一个稍弱的4-to-1版本，这意味着某些3-colorable图无论额外使用多少种颜色，仍然难以着色。Princeton的Mark Braverman说：“靠新闻稿做数学，对数学并不那么健康。”"
+                "x": "在尝试的353个Erdős问题中，它解决了九个，其中两个已悬而未决超过50年；它还解决了492个开放OEIS猜想中的44个，以及代数几何、优化、量子光学和图论领域的问题。"
+              },
+              {
+                "t": "p",
+                "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carrera contra el rumor de\nuna prueba AI de Unique Games",
-          "body": "Tres informáticos adelantaron un hito sobre una conjetura afín ante el rumor de una prueba AI de Unique Games.",
-          "mini_headline": "Carrera contra una prueba AI",
+          "headline": "AlphaProof Nexus resuelve\ndecenas de problemas abiertos",
+          "body": "Un sistema LLM-based de pruebas verificadas formalmente resolvió decenas de problemas abiertos en varias áreas.",
+          "mini_headline": "AlphaProof Nexus resuelve problemas abiertos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
-                "cap": "James O’Brien para Quanta Magazine"
+                "t": "p",
+                "x": "Un nuevo marco LLM-based llamado AlphaProof Nexus puede abordar de forma autónoma ciertos problemas matemáticos: busca demostraciones y usa la verificación para garantizar que las soluciones sean lógicamente sólidas, según informan los investigadores en Science. Resolvió decenas de problemas hasta ahora abiertos en varios campos de las matemáticas."
               },
               {
                 "t": "p",
-                "x": "La mañana del 11 de septiembre de 2026, Dor Minzer, del MIT y uno de los principales expertos en la conjetura de los “unique games”, empezó a recibir mensajes: OpenAI habría descubierto una prueba de la conjetura y podría hacerla pública cualquier día."
-              },
-              {
-                "t": "p",
-                "x": "Minzer no la había demostrado. Pero él y sus estudiantes de posgrado Yumou Fei y Shuo Wang habían demostrado hace poco un resultado clave sobre una cuestión estrechamente relacionada. Tres días después publicaron en línea un artículo de 95 páginas, con la advertencia de que estaba “completo matemáticamente, pero no en la forma en que queríamos compartirlo”."
+                "x": "Los LLMs tienden a cometer errores lógicos sutiles o “alucinaciones”, por lo que el sistema genera las demostraciones en el lenguaje formal Lean, que verifica automáticamente cada paso lógico."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
-                "cap": "Dor Minzer y sus estudiantes se apresuraron a publicar un resultado clave para no verse eclipsados por una supuesta prueba AI. Cortesía de Dor Minzer"
+                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+                "cap": "Diseño del agente full-featured de AlphaProof Nexus. Credit: Tsoukalas et al., arXiv:2605.22763"
               },
               {
                 "t": "p",
-                "x": "El 6 de octubre, OpenAI anunció una prueba de la conjetura de los unique games, junto con otros 376 resultados en muchos campos de las matemáticas. El anuncio incluía además una prueba Lean-verified de la conjetura 2-to-1 de Khot, en un manuscrito AI-generated sin edición humana ni revisión de expertos independientes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
-                "cap": "Subhash Khot planteó la conjetura de los unique games cuando aún era estudiante de posgrado. Béatrice de Géa para Quanta Magazine"
+                "x": "George Tsoukalas y sus colegas crearon un marco en el que varios agentes de AI buscan demostraciones con la retroalimentación del compilador de Lean, además de un agente full-featured que coordina subagentes mediante un algoritmo evolutivo y usa AlphaProof como herramienta especializada de demostración."
               },
               {
                 "t": "p",
-                "x": "El trío demostró una versión 4-to-1, algo más débil, de la conjetura de los 2-to-1 games de Khot, lo que implica que algunos grafos 3-colorable siguen siendo difíciles de colorear por muchos colores adicionales que se usen. “Las matemáticas por comunicado de prensa no son muy sanas para las matemáticas”, dijo Mark Braverman, de Princeton."
+                "x": "Resolvió nueve de los 353 problemas de Erdős que intentó, entre ellos dos sin resolver desde hace más de 50 años, y 44 de 492 conjeturas abiertas de la OEIS, además de problemas de geometría algebraica, optimización, óptica cuántica y teoría de grafos."
+              },
+              {
+                "t": "p",
+                "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
               }
             ]
           }
@@ -425,225 +366,226 @@
       }
     },
     {
-      "id": "science-satellite-damage-through-smoke",
+      "id": "science-gene-function-microscopy",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "구름·연기 너머로\n재난 피해를 추정한다",
-      "body": "위성 영상이 구름에 가려도 공학 지식을 담은 모델이 도시 규모 피해를 가늠한다.",
-      "mini_headline": "연기 너머의 피해 지도",
+      "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
+      "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
+      "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-method-knowledge-disaster-incomplete.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "재난 직후 위성 영상 일부가 구름이나 연기에 가려도 도시 규모의 구조물 피해를 빠르게 예측하는 기술이 나왔다."
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+            "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
           },
           {
             "t": "p",
-            "x": "서울대학교(Seoul National University) In Ho Cho 교수 연구팀은 구조공학 지식을 AI에 녹인 Scientific AI 방식에, 빠진 데이터를 메우는 통계적 대치 기법을 더했다. 연구 결과는 Scientific Reports에 실렸다."
+            "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진이 Veit Hornung, Matthias Mann, Fabian Theis의 주도 아래 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+          },
+          {
+            "t": "p",
+            "x": "AI는 세포 총 7000만 개의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 덕분에 세포에 나타난 효과를 그 원인이 된 유전적 변화와 이어 볼 수 있다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-            "cap": "대형 태풍 전후의 위성 영상과 영상 무질서도(엔트로피)를 활용한 도시 규모(City-scale) 피해 예측 결과. 출처: Scientific Reports"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+            "cap": "Credit: Niklas Schmacke"
           },
           {
             "t": "p",
-            "x": "프레임워크의 재료는 재난 전후 위성 영상의 무질서도를 나타내는 영상 엔트로피와 공개 데이터다. 최신 AI 방식과 달리 비용이 많이 드는 학습 단계가 필요 없다."
+            "x": "그다음 관심 있는 세포를 온전한 상태로 분리하고, 질량분석으로 단백질 구성을 확인한다."
           },
           {
             "t": "p",
-            "x": "대형 태풍 사례에서는 영상의 50% 이상이 구름에 가렸는데도 그 아래 건물 피해를 5% 미만의 오차로 예측했다. 연구팀은 대형 산불 사례에도 이 방식을 적용했다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-            "cap": "개발한 프레임워크를 대형 산불 피해 사례에 적용한 예시. 출처: Scientific Reports"
+            "x": "세포의 재활용 시스템인 자가포식을 대상으로 genome-wide 스크리닝을 해 보니, 이 방법은 이미 알려진 조절인자 다수를 다시 찾아냈고 새 조절인자도 발견했다. 연구팀은 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혀냈다."
           }
         ]
       },
+      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
       "text": {
         "en": {
-          "headline": "Estimating disaster damage\nthrough clouds and smoke",
-          "body": "A new method folds engineering knowledge into its model to estimate city-scale damage when clouds hide satellite views.",
-          "mini_headline": "Damage maps through smoke",
+          "headline": "AI reads 70 million cells\nto trace what genes do",
+          "body": "Pairing AI analysis of some 70 million imaged cells with genetic screening reveals the visible effects of single genes.",
+          "mini_headline": "AI maps what genes do in cells",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "A new technology has been developed that can rapidly predict city-scale structural damage even when portions of satellite imagery are obscured by clouds or smoke immediately after a disaster."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "Graphical abstract. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "A team led by professor In Ho Cho of Seoul National University combined a Scientific AI approach, which integrates structural engineering knowledge into AI, with a statistical imputation method that reconstructs missing data. The findings are published in Scientific Reports."
+                "x": "Researchers from LMU Munich's Gene Center, the Max Planck Institute of Biochemistry and Helmholtz Munich, led by Veit Hornung, Matthias Mann and Fabian Theis, report in Cell a technology called SPARCS that combines AI with microscopy and genetic screening."
+              },
+              {
+                "t": "p",
+                "x": "AI analyzes microscopy images of a total of 70 million cells, screening for complex visual features so that cellular effects can be linked to the genetic alterations that cause them."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "City-scale damage prediction results using satellite imagery and image disorder (entropy) before and after a major typhoon. Credit: Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "The framework uses image entropy, a measure of disorder in pre- and post-disaster satellite imagery, plus open data. Unlike state-of-the-art AI approaches, it needs no costly training stage."
+                "x": "Cells of interest are then isolated intact and analyzed by mass spectrometry to determine their protein composition."
               },
               {
                 "t": "p",
-                "x": "In a major typhoon case, even when more than 50% of the imagery was obscured by clouds, it predicted damage to buildings beneath the obscured areas with an error of less than 5%. It was also applied to a major wildfire case."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "Example results from applying the developed framework to a major wildfire damage case. Credit: Scientific Reports"
+                "x": "In a genome-wide screen of autophagy, the cell's recycling system, the method recovered many known regulators and found new ones. The team also found that Golgi acidity, regulated by the protein GPHR, affects early transport of the immune sensor STING and its later activation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "구름·연기 너머로\n재난 피해를 추정한다",
-          "body": "위성 영상이 구름에 가려도 공학 지식을 담은 모델이 도시 규모 피해를 가늠한다.",
-          "mini_headline": "연기 너머의 피해 지도",
+          "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
+          "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
+          "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "재난 직후 위성 영상 일부가 구름이나 연기에 가려도 도시 규모의 구조물 피해를 빠르게 예측하는 기술이 나왔다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "서울대학교(Seoul National University) In Ho Cho 교수 연구팀은 구조공학 지식을 AI에 녹인 Scientific AI 방식에, 빠진 데이터를 메우는 통계적 대치 기법을 더했다. 연구 결과는 Scientific Reports에 실렸다."
+                "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진이 Veit Hornung, Matthias Mann, Fabian Theis의 주도 아래 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "AI는 세포 총 7000만 개의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 덕분에 세포에 나타난 효과를 그 원인이 된 유전적 변화와 이어 볼 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "대형 태풍 전후의 위성 영상과 영상 무질서도(엔트로피)를 활용한 도시 규모(City-scale) 피해 예측 결과. 출처: Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "프레임워크의 재료는 재난 전후 위성 영상의 무질서도를 나타내는 영상 엔트로피와 공개 데이터다. 최신 AI 방식과 달리 비용이 많이 드는 학습 단계가 필요 없다."
+                "x": "그다음 관심 있는 세포를 온전한 상태로 분리하고, 질량분석으로 단백질 구성을 확인한다."
               },
               {
                 "t": "p",
-                "x": "대형 태풍 사례에서는 영상의 50% 이상이 구름에 가렸는데도 그 아래 건물 피해를 5% 미만의 오차로 예측했다. 연구팀은 대형 산불 사례에도 이 방식을 적용했다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "개발한 프레임워크를 대형 산불 피해 사례에 적용한 예시. 출처: Scientific Reports"
+                "x": "세포의 재활용 시스템인 자가포식을 대상으로 genome-wide 스크리닝을 해 보니, 이 방법은 이미 알려진 조절인자 다수를 다시 찾아냈고 새 조절인자도 발견했다. 연구팀은 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혀냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "雲や煙を越えて\n災害被害を推定する",
-          "body": "衛星画像が雲に隠れても、工学の知見を組み込んだモデルで都市規模の被害を推定する手法だ。",
-          "mini_headline": "煙の向こうの被害マップ",
+          "headline": "AIが7000万の細胞を読み\n遺伝子の働きを追う",
+          "body": "約7000万個の細胞画像のAI解析と遺伝子スクリーニングで、単一遺伝子の効果を可視化する。",
+          "mini_headline": "AIが細胞内の遺伝子機能をマッピング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "災害直後に衛星画像の一部が雲や煙で隠れていても、都市規模の構造物被害を迅速に予測できる新技術が開発された。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "グラフィカルアブストラクト。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Seoul National University(ソウル大学)のIn Ho Cho教授らのチームは、構造工学の知見をAIに統合するScientific AIの手法と、欠損データを再構成する統計的補完法を組み合わせた。成果はScientific Reportsに掲載された。"
+                "x": "LMU Munich's Gene Center、Max Planck Institute of Biochemistry、Helmholtz Munichの研究者らは、Veit Hornung、Matthias Mann、Fabian Theisの主導のもと、AIを顕微鏡観察および遺伝子スクリーニングと組み合わせた技術SPARCSをCellに報告した。"
+              },
+              {
+                "t": "p",
+                "x": "AIが合計7000万個の細胞の顕微鏡画像を解析し、複雑な視覚的特徴をスクリーニングする。これにより、細胞に現れた効果をその原因となる遺伝的変化と結びつけられる。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "大型台風の前後の衛星画像と画像の乱雑さ(エントロピー)を用いた都市規模(City-scale)の被害予測結果。出典:Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "このフレームワークは、災害前後の衛星画像の乱雑さを示す画像エントロピーとオープンデータを用いる。最先端のAI手法と異なり、コストのかかる学習段階を必要としない。"
+                "x": "その後、注目する細胞を無傷のまま単離し、質量分析でタンパク質組成を調べる。"
               },
               {
                 "t": "p",
-                "x": "大型台風の事例では、画像の50%以上が雲に覆われていても、隠れた領域の下にある建物の被害を5%未満の誤差で予測した。大規模な山火事の事例にも適用された。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "開発したフレームワークを大規模な山火事の被害事例に適用した結果の例。出典:Scientific Reports"
+                "x": "細胞のリサイクル機構であるオートファジーのgenome-wideスクリーニングでは、既知の制御因子の多くを再発見し、新たな制御因子も見つけた。さらに研究チームは、タンパク質GPHRが調節するGolgiの酸性度が、免疫センサーSTINGの初期輸送とその後の活性化に影響することも突き止めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "穿透云层与烟雾\n估算灾害损失",
-          "body": "新方法将工程知识融入模型，在卫星视野被云层遮挡时估算城市尺度的损毁。",
-          "mini_headline": "穿透烟雾的灾损地图",
+          "headline": "AI读取7000万个细胞\n追踪基因功能",
+          "body": "AI分析约7000万个细胞图像，结合基因筛选，揭示单个基因的可见效应。",
+          "mini_headline": "AI描绘细胞中的基因功能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一项新技术已经问世：即便灾害发生后卫星图像的部分区域被云层或烟雾遮挡，也能快速预测城市尺度的结构损毁。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "图形摘要。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Seoul National University(首尔大学)In Ho Cho教授领导的团队，将把结构工程知识融入AI的Scientific AI方法，与重建缺失数据的统计插补方法相结合。研究成果发表于Scientific Reports。"
+                "x": "来自LMU Munich's Gene Center、Max Planck Institute of Biochemistry和Helmholtz Munich的研究人员在Veit Hornung、Matthias Mann和Fabian Theis的带领下，在Cell上报告了一项名为SPARCS的技术，它将AI与显微成像和基因筛选结合在一起。"
+              },
+              {
+                "t": "p",
+                "x": "AI分析总计7000万个细胞的显微图像，筛查复杂的视觉特征，从而把细胞层面的效应与引发这些效应的基因改变联系起来。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "利用大型台风前后的卫星图像及图像无序度(熵)得到的城市尺度(City-scale)损毁预测结果。来源：Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "该框架利用图像熵(衡量灾前与灾后卫星图像无序程度的指标)以及公开数据。与最先进的AI方法不同，它不需要成本高昂的训练阶段。"
+                "x": "随后，研究人员将感兴趣的细胞完整分离出来，用质谱分析测定其蛋白质组成。"
               },
               {
                 "t": "p",
-                "x": "在一次大型台风案例中，即使超过50%的图像被云层遮挡，它对遮挡区域下方建筑损毁的预测误差仍低于5%。该方法也被应用于一次大型山火案例。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "将所开发框架应用于大型山火损毁案例的结果示例。来源：Scientific Reports"
+                "x": "在针对细胞回收系统——自噬——的genome-wide筛选中，该方法找回了许多已知调控因子，并发现了新的调控因子。团队还发现，由蛋白质GPHR调节的Golgi酸度会影响免疫传感器STING的早期运输及其后续激活。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Estimar daños de desastres\na través de nubes y humo",
-          "body": "Un nuevo método suma ingeniería a su modelo para estimar daños urbanos cuando las nubes tapan el satélite.",
-          "mini_headline": "Mapas de daños a través del humo",
+          "headline": "AI lee 70 millones de células\ny rastrea qué hacen los genes",
+          "body": "El análisis con AI de unos 70 millones de células, unido al cribado genético, revela efectos visibles de genes únicos.",
+          "mini_headline": "La AI traza la función de los genes en las células",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Se ha desarrollado una nueva tecnología capaz de predecir con rapidez los daños estructurales a escala de ciudad incluso cuando partes de las imágenes satelitales quedan ocultas por nubes o humo justo después de un desastre."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "Resumen gráfico. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por el profesor In Ho Cho, de la Seoul National University, combinó un enfoque de Scientific AI, que integra conocimiento de ingeniería estructural en la AI, con un método estadístico de imputación que reconstruye los datos faltantes. Los resultados se publican en Scientific Reports."
+                "x": "Investigadores del LMU Munich's Gene Center, el Max Planck Institute of Biochemistry y Helmholtz Munich, dirigidos por Veit Hornung, Matthias Mann y Fabian Theis, presentan en Cell una tecnología llamada SPARCS que combina la AI con la microscopía y el cribado genético."
+              },
+              {
+                "t": "p",
+                "x": "La AI analiza imágenes de microscopía de un total de 70 millones de células y busca rasgos visuales complejos, de modo que los efectos celulares puedan vincularse con las alteraciones genéticas que los causan."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "Resultados de predicción de daños a escala de ciudad (City-scale) con imágenes satelitales y el desorden de la imagen (entropía) antes y después de un gran tifón. Crédito: Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "El marco utiliza la entropía de imagen, una medida del desorden en las imágenes satelitales previas y posteriores al desastre, además de datos abiertos. A diferencia de los enfoques de AI más avanzados, no necesita una costosa fase de entrenamiento."
+                "x": "Después, las células de interés se aíslan intactas y se analizan por espectrometría de masas para determinar su composición proteica."
               },
               {
                 "t": "p",
-                "x": "En el caso de un gran tifón, aun con más del 50% de las imágenes cubierto por nubes, predijo los daños de los edificios bajo las zonas ocultas con un error inferior al 5%. También se aplicó a un gran incendio forestal."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "Ejemplo de resultados al aplicar el marco desarrollado a un caso de daños por un gran incendio forestal. Crédito: Scientific Reports"
+                "x": "En un cribado genome-wide de la autofagia, el sistema de reciclaje de la célula, el método recuperó muchos reguladores conocidos y encontró otros nuevos. El equipo también descubrió que la acidez del Golgi, regulada por la proteína GPHR, influye en el transporte temprano del sensor inmunitario STING y en su activación posterior."
               }
             ]
           }
@@ -651,145 +593,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "구름·연기 너머로\n재난 피해를 추정한다",
-          "body": "위성 영상이 구름에 가려도 공학 지식을 담은 모델로 도시 규모 피해를 추정한다.",
-          "mini_headline": "연기 너머의 피해 지도",
+          "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
+          "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
+          "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "재난 직후 위성 영상 일부가 구름이나 연기에 가려도 도시 규모의 구조물 피해를 빠르게 예측할 수 있는 새 기술이 개발됐다."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "서울대학교(Seoul National University) In Ho Cho 교수 연구팀은 구조공학 지식을 AI에 통합하는 Scientific AI 방식과, 누락된 데이터를 복원하는 통계적 대치 기법을 결합했다. 연구 결과는 Scientific Reports에 실렸다."
+                "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진은 Veit Hornung, Matthias Mann, Fabian Theis의 주도로 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "AI가 총 7000만 개 세포의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 이를 통해 세포에 나타난 효과를 그 원인이 되는 유전적 변화와 연결할 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "대형 태풍 전후의 위성 영상과 영상 무질서도(엔트로피)를 활용한 도시 규모(City-scale) 피해 예측 결과. 출처: Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "이 프레임워크는 재난 전후 위성 영상의 무질서도를 나타내는 영상 엔트로피와 공개 데이터를 활용한다. 최신 AI 방식과 달리 비용이 많이 드는 학습 단계가 필요 없다."
+                "x": "이후 관심 대상 세포를 온전한 상태로 분리해 질량분석으로 단백질 구성을 확인한다."
               },
               {
                 "t": "p",
-                "x": "대형 태풍 사례에서 영상의 50% 이상이 구름에 가려졌을 때도, 가려진 영역 아래 건물의 피해를 5% 미만의 오차로 예측했다. 대형 산불 사례에도 적용됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "개발한 프레임워크를 대형 산불 피해 사례에 적용한 결과 예시. 출처: Scientific Reports"
+                "x": "세포의 재활용 시스템인 자가포식을 대상으로 한 genome-wide 스크리닝에서 이 방법은 알려진 조절인자 다수를 다시 찾아냈고 새로운 조절인자도 발견했다. 연구팀은 또 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "雲や煙を越えて\n災害被害を推定する",
-          "body": "衛星画像が雲に隠れても、工学の知見を組み込んだモデルで都市規模の被害を推定する手法だ。",
-          "mini_headline": "煙の向こうの被害マップ",
+          "headline": "AIが7000万の細胞を読み\n遺伝子の働きを追う",
+          "body": "約7000万個の細胞画像のAI解析と遺伝子スクリーニングで、単一遺伝子の効果を可視化する。",
+          "mini_headline": "AIが細胞内の遺伝子機能をマッピング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "災害直後に衛星画像の一部が雲や煙で隠れていても、都市規模の構造物被害を迅速に予測できる新技術が開発された。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "グラフィカルアブストラクト。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Seoul National University(ソウル大学)のIn Ho Cho教授らのチームは、構造工学の知見をAIに統合するScientific AIの手法と、欠損データを再構成する統計的補完法を組み合わせた。成果はScientific Reportsに掲載された。"
+                "x": "LMU Munich's Gene Center、Max Planck Institute of Biochemistry、Helmholtz Munichの研究者らは、Veit Hornung、Matthias Mann、Fabian Theisの主導のもと、AIを顕微鏡観察および遺伝子スクリーニングと組み合わせた技術SPARCSをCellに報告した。"
+              },
+              {
+                "t": "p",
+                "x": "AIが合計7000万個の細胞の顕微鏡画像を解析し、複雑な視覚的特徴をスクリーニングする。これにより、細胞に現れた効果をその原因となる遺伝的変化と結びつけられる。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "大型台風の前後の衛星画像と画像の乱雑さ(エントロピー)を用いた都市規模(City-scale)の被害予測結果。出典:Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "このフレームワークは、災害前後の衛星画像の乱雑さを示す画像エントロピーとオープンデータを用いる。最先端のAI手法と異なり、コストのかかる学習段階を必要としない。"
+                "x": "その後、注目する細胞を無傷のまま単離し、質量分析でタンパク質組成を調べる。"
               },
               {
                 "t": "p",
-                "x": "大型台風の事例では、画像の50%以上が雲に覆われていても、隠れた領域の下にある建物の被害を5%未満の誤差で予測した。大規模な山火事の事例にも適用された。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "開発したフレームワークを大規模な山火事の被害事例に適用した結果の例。出典:Scientific Reports"
+                "x": "細胞のリサイクル機構であるオートファジーのgenome-wideスクリーニングでは、既知の制御因子の多くを再発見し、新たな制御因子も見つけた。さらに研究チームは、タンパク質GPHRが調節するGolgiの酸性度が、免疫センサーSTINGの初期輸送とその後の活性化に影響することも突き止めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "穿透云层与烟雾\n估算灾害损失",
-          "body": "新方法将工程知识融入模型，在卫星视野被云层遮挡时估算城市尺度的损毁。",
-          "mini_headline": "穿透烟雾的灾损地图",
+          "headline": "AI读取7000万个细胞\n追踪基因功能",
+          "body": "AI分析约7000万个细胞图像，结合基因筛选，揭示单个基因的可见效应。",
+          "mini_headline": "AI描绘细胞中的基因功能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一项新技术已经问世：即便灾害发生后卫星图像的部分区域被云层或烟雾遮挡，也能快速预测城市尺度的结构损毁。"
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "图形摘要。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Seoul National University(首尔大学)In Ho Cho教授领导的团队，将把结构工程知识融入AI的Scientific AI方法，与重建缺失数据的统计插补方法相结合。研究成果发表于Scientific Reports。"
+                "x": "来自LMU Munich's Gene Center、Max Planck Institute of Biochemistry和Helmholtz Munich的研究人员在Veit Hornung、Matthias Mann和Fabian Theis的带领下，在Cell上报告了一项名为SPARCS的技术，它将AI与显微成像和基因筛选结合在一起。"
+              },
+              {
+                "t": "p",
+                "x": "AI分析总计7000万个细胞的显微图像，筛查复杂的视觉特征，从而把细胞层面的效应与引发这些效应的基因改变联系起来。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "利用大型台风前后的卫星图像及图像无序度(熵)得到的城市尺度(City-scale)损毁预测结果。来源：Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "该框架利用图像熵(衡量灾前与灾后卫星图像无序程度的指标)以及公开数据。与最先进的AI方法不同，它不需要成本高昂的训练阶段。"
+                "x": "随后，研究人员将感兴趣的细胞完整分离出来，用质谱分析测定其蛋白质组成。"
               },
               {
                 "t": "p",
-                "x": "在一次大型台风案例中，即使超过50%的图像被云层遮挡，它对遮挡区域下方建筑损毁的预测误差仍低于5%。该方法也被应用于一次大型山火案例。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "将所开发框架应用于大型山火损毁案例的结果示例。来源：Scientific Reports"
+                "x": "在针对细胞回收系统——自噬——的genome-wide筛选中，该方法找回了许多已知调控因子，并发现了新的调控因子。团队还发现，由蛋白质GPHR调节的Golgi酸度会影响免疫传感器STING的早期运输及其后续激活。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Estimar daños de desastres\na través de nubes y humo",
-          "body": "Un nuevo método suma ingeniería a su modelo para estimar daños urbanos cuando las nubes tapan el satélite.",
-          "mini_headline": "Mapas de daños a través del humo",
+          "headline": "AI lee 70 millones de células\ny rastrea qué hacen los genes",
+          "body": "El análisis con AI de unos 70 millones de células, unido al cribado genético, revela efectos visibles de genes únicos.",
+          "mini_headline": "La AI traza la función de los genes en las células",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Se ha desarrollado una nueva tecnología capaz de predecir con rapidez los daños estructurales a escala de ciudad incluso cuando partes de las imágenes satelitales quedan ocultas por nubes o humo justo después de un desastre."
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+                "cap": "Resumen gráfico. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
               },
               {
                 "t": "p",
-                "x": "Un equipo dirigido por el profesor In Ho Cho, de la Seoul National University, combinó un enfoque de Scientific AI, que integra conocimiento de ingeniería estructural en la AI, con un método estadístico de imputación que reconstruye los datos faltantes. Los resultados se publican en Scientific Reports."
+                "x": "Investigadores del LMU Munich's Gene Center, el Max Planck Institute of Biochemistry y Helmholtz Munich, dirigidos por Veit Hornung, Matthias Mann y Fabian Theis, presentan en Cell una tecnología llamada SPARCS que combina la AI con la microscopía y el cribado genético."
+              },
+              {
+                "t": "p",
+                "x": "La AI analiza imágenes de microscopía de un total de 70 millones de células y busca rasgos visuales complejos, de modo que los efectos celulares puedan vincularse con las alteraciones genéticas que los causan."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build.jpg",
-                "cap": "Resultados de predicción de daños a escala de ciudad (City-scale) con imágenes satelitales y el desorden de la imagen (entropía) antes y después de un gran tifón. Crédito: Scientific Reports"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+                "cap": "Credit: Niklas Schmacke"
               },
               {
                 "t": "p",
-                "x": "El marco utiliza la entropía de imagen, una medida del desorden en las imágenes satelitales previas y posteriores al desastre, además de datos abiertos. A diferencia de los enfoques de AI más avanzados, no necesita una costosa fase de entrenamiento."
+                "x": "Después, las células de interés se aíslan intactas y se analizan por espectrometría de masas para determinar su composición proteica."
               },
               {
                 "t": "p",
-                "x": "En el caso de un gran tifón, aun con más del 50% de las imágenes cubierto por nubes, predijo los daños de los edificios bajo las zonas ocultas con un error inferior al 5%. También se aplicó a un gran incendio forestal."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/predicting-urban-build-1.jpg",
-                "cap": "Ejemplo de resultados al aplicar el marco desarrollado a un caso de daños por un gran incendio forestal. Crédito: Scientific Reports"
+                "x": "En un cribado genome-wide de la autofagia, el sistema de reciclaje de la célula, el método recuperó muchos reguladores conocidos y encontró otros nuevos. El equipo también descubrió que la acidez del Golgi, regulada por la proteína GPHR, influye en el transporte temprano del sensor inmunitario STING y en su activación posterior."
               }
             ]
           }
@@ -797,15 +739,15 @@
       }
     },
     {
-      "id": "science-ai2-astabrief-open-weights",
+      "id": "science-gravitational-lenses-desi",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ai2의 AstaBrief\n인용 보고서 모델 공개",
-      "body": "Ai2가 인용 보고서를 쓰는 8B 오픈 웨이트 모델 AstaBrief를 냈다.",
-      "mini_headline": "AstaBrief 오픈소스 공개",
+      "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
+      "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
+      "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/astabrief",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -813,203 +755,210 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+            "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
           },
           {
             "t": "p",
-            "x": "Ai2의 AstaBrief 8B 모델은 연구 질문과 검색한 문헌 발췌를 받아 인용이 달린 보고서로 정리한다. Asta의 Generate a report 기능에서 Claude-powered Thinking mode와 나란히 Fast mode로 들어가며, Ai2는 모델과 학습 데이터를 오픈소스로 공개한다."
+            "x": "국제 연구팀이 분석한 DESI Legacy Imaging Surveys는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담으며 우주에서 가장 큰 2D 지도가 됐다."
           },
           {
             "t": "p",
-            "x": "Fast mode는 보고서 한 건에 평균 51.1초가 걸린다. 178.5초인 Thinking mode보다 약 3.5× 빠르다. 오픈 웨이트(Open weights)라서 기관은 자체 인프라에서 모델을 돌릴 수 있는데, 질문 자체가 민감하거나 미발표 연구를 드러낼 때는 이 점이 꼭 필요하다."
-          },
-          {
-            "t": "p",
-            "x": "Ai2는 Qwen3-8B를 출발점으로 지도 미세조정과 DPO를 쓴 사후 학습 데이터에 공을 들였다. 덕분에 AstaBrief는 Claude-powered 파이프라인과 DR Tulu에 근접한 수준까지 올라왔다."
+            "x": "잔차 신경망이 관측 이미지를 훑어 잠재적 렌즈 약 3,500개를 추렸고, 이 중 후보 76개를 후속 관측 대상으로 골랐다."
           },
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-            "cap": "Claude-powered Thinking mode 대비 LLM-judged 쌍별 승률"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+            "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
           },
           {
             "t": "p",
-            "x": "Fast mode를 써 본 Asta 사용자 374명 중 29.1%는 이틀 이상 사용했다."
+            "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 해 보니 후보 중 70개가 실제 중력렌즈였다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+          },
+          {
+            "t": "p",
+            "x": "새 렌즈들은 DESI Strong Lens Foundry Project에 추가돼 Hubble, JWST, Roman, Rubin Observatory's LSST로 진행할 암흑물질, 은하 구조, 우주론 연구에 쓰일 전망이다."
           }
         ]
       },
+      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
       "text": {
         "en": {
-          "headline": "Ai2 open-sources AstaBrief\nfor cited science reports",
-          "body": "Ai2 released AstaBrief, an 8B open-weights model that writes cited scientific reports in Asta or on your own servers.",
-          "mini_headline": "AstaBrief goes open",
+          "headline": "Neural network helps confirm\n70 new gravitational lenses",
+          "body": "A neural network searched DESI survey data for lens candidates, and VLT spectroscopy then confirmed 70 new lenses.",
+          "mini_headline": "AI helps confirm 70 new lenses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "Sample gravitational lenses found in DESI Legacy Imaging Surveys data."
               },
               {
                 "t": "p",
-                "x": "Ai2 built AstaBrief 8B, a model that turns a research question and retrieved literature excerpts into a cited report. It is available in Asta's Generate a report feature as Fast mode alongside Claude-powered Thinking mode, and Ai2 is open-sourcing it and the training data."
+                "x": "An international team mined the DESI Legacy Imaging Surveys, which in August 2026 became the largest 2D map of the universe, with about 5.6 trillion pixels and nearly 4 billion objects."
               },
               {
                 "t": "p",
-                "x": "Fast mode averages 51.1 seconds per report compared with 178.5 seconds for Thinking mode, about 3.5× faster. Open weights let institutions run it on their own infrastructure, necessary when questions reveal sensitive or unpublished work."
-              },
-              {
-                "t": "p",
-                "x": "Starting from Qwen3-8B, Ai2 focused on post-training data, using supervised fine-tuning and DPO, which brought AstaBrief within range of the Claude-powered pipeline and DR Tulu."
+                "x": "A residual neural network searched the survey images and produced a catalog of about 3,500 potential lenses, from which 76 candidates were selected for follow-up."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "LLM-judged pairwise win rate vs. Claude-powered Thinking mode"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "How a massive foreground galaxy magnifies a more distant galaxy behind it."
               },
               {
                 "t": "p",
-                "x": "Among 374 Asta users who've tried Fast mode, 29.1% used it for two or more days."
+                "x": "Integral field spectroscopy with the MUSE instrument on ESO's Very Large Telescope, observed from 2022 to 2024, confirmed 70 of the candidates as true gravitational lenses. The results appear in The Astrophysical Journal Supplement Series."
+              },
+              {
+                "t": "p",
+                "x": "The lenses join the DESI Strong Lens Foundry Project and are expected to aid research on dark matter, galaxy structure and cosmology with Hubble, JWST, Roman and the Rubin Observatory's LSST."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ai2의 AstaBrief\n인용 보고서 모델 공개",
-          "body": "Ai2가 인용 보고서를 쓰는 8B 오픈 웨이트 모델 AstaBrief를 냈다.",
-          "mini_headline": "AstaBrief 오픈소스 공개",
+          "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
+          "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
+          "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
               },
               {
                 "t": "p",
-                "x": "Ai2의 AstaBrief 8B 모델은 연구 질문과 검색한 문헌 발췌를 받아 인용이 달린 보고서로 정리한다. Asta의 Generate a report 기능에서 Claude-powered Thinking mode와 나란히 Fast mode로 들어가며, Ai2는 모델과 학습 데이터를 오픈소스로 공개한다."
+                "x": "국제 연구팀이 분석한 DESI Legacy Imaging Surveys는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담으며 우주에서 가장 큰 2D 지도가 됐다."
               },
               {
                 "t": "p",
-                "x": "Fast mode는 보고서 한 건에 평균 51.1초가 걸린다. 178.5초인 Thinking mode보다 약 3.5× 빠르다. 오픈 웨이트(Open weights)라서 기관은 자체 인프라에서 모델을 돌릴 수 있는데, 질문 자체가 민감하거나 미발표 연구를 드러낼 때는 이 점이 꼭 필요하다."
-              },
-              {
-                "t": "p",
-                "x": "Ai2는 Qwen3-8B를 출발점으로 지도 미세조정과 DPO를 쓴 사후 학습 데이터에 공을 들였다. 덕분에 AstaBrief는 Claude-powered 파이프라인과 DR Tulu에 근접한 수준까지 올라왔다."
+                "x": "잔차 신경망이 관측 이미지를 훑어 잠재적 렌즈 약 3,500개를 추렸고, 이 중 후보 76개를 후속 관측 대상으로 골랐다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Claude-powered Thinking mode 대비 LLM-judged 쌍별 승률"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
               },
               {
                 "t": "p",
-                "x": "Fast mode를 써 본 Asta 사용자 374명 중 29.1%는 이틀 이상 사용했다."
+                "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 해 보니 후보 중 70개가 실제 중력렌즈였다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "새 렌즈들은 DESI Strong Lens Foundry Project에 추가돼 Hubble, JWST, Roman, Rubin Observatory's LSST로 진행할 암흑물질, 은하 구조, 우주론 연구에 쓰일 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2がAstaBrief\n引用付き報告モデルを開放",
-          "body": "Ai2は引用付きレポートを書く8B オープンウェイトモデルAstaBriefを公開した。",
-          "mini_headline": "AstaBriefがオープンに",
+          "headline": "ニューラルネットで新たな\n重力レンズ70個を確認",
+          "body": "ニューラルネットがDESIデータからレンズ候補を探し、VLT分光で新たに70個を確認した。",
+          "mini_headline": "AIが新たなレンズ70個の確認に貢献",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "DESI Legacy Imaging Surveysのデータで見つかった重力レンズの例。"
               },
               {
                 "t": "p",
-                "x": "Ai2が開発したAstaBrief 8B モデルは、研究上の問いと検索した文献の抜粋から、引用付きのレポートを作成する。AstaのGenerate a report機能で、Claude-powered Thinking modeと並ぶFast modeとして利用でき、Ai2はモデルと学習データをオープンソース化する。"
+                "x": "国際研究チームは、2026年8月に宇宙最大の2D地図となったDESI Legacy Imaging Surveysを解析した。この地図は約5.6兆ピクセル、40億近くの天体を含む。"
               },
               {
                 "t": "p",
-                "x": "Fast modeはレポート一件あたり平均51.1秒で、Thinking modeの178.5秒より約3.5× 速い。オープンウェイト(Open weights)のため、機関は自前のインフラで実行でき、質問から機密性の高い研究や未発表の研究が明らかになり得る場合には欠かせない。"
-              },
-              {
-                "t": "p",
-                "x": "Ai2はQwen3-8Bを出発点に、教師ありファインチューニングとDPOを用いた事後学習データに注力し、AstaBriefをClaude-poweredパイプラインやDR Tuluに迫る水準に引き上げた。"
+                "x": "残差ニューラルネットワークがサーベイ画像を探索し、約3,500個の潜在的なレンズのカタログを作成した。そこから76個の候補を追観測の対象に選んだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Claude-powered Thinking modeに対するLLM-judgedのペアワイズ勝率"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "手前にある巨大な銀河が、その背後のより遠い銀河を拡大して見せる仕組み。"
               },
               {
                 "t": "p",
-                "x": "Fast modeを試したAstaユーザー374人のうち、29.1%が二日以上利用した。"
+                "x": "2022年から2024年にかけてESO's Very Large TelescopeのMUSE装置で行った面分光観測により、候補のうち70個が本物の重力レンズと確認された。成果はThe Astrophysical Journal Supplement Seriesに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "これらのレンズはDESI Strong Lens Foundry Projectに加わり、Hubble、JWST、Roman、Rubin Observatory's LSSTを使った暗黒物質、銀河構造、宇宙論の研究に役立つと期待されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2开源AstaBrief\n生成带引用科学报告",
-          "body": "Ai2发布8B 开放权重模型AstaBrief，可在Asta或自有服务器撰写带引用报告。",
-          "mini_headline": "AstaBrief走向开源",
+          "headline": "神经网络助力确认\n70个新引力透镜",
+          "body": "神经网络在DESI巡天数据中搜寻透镜候选体，随后VLT光谱观测确认了70个新透镜。",
+          "mini_headline": "AI助力确认70个新透镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "在DESI Legacy Imaging Surveys数据中发现的引力透镜样例。"
               },
               {
                 "t": "p",
-                "x": "Ai2打造了AstaBrief 8B 模型，可将研究问题和检索到的文献摘录转化为带引用的报告。它以Fast mode的形式出现在Asta的Generate a report功能中，与Claude-powered Thinking mode并列；Ai2还将开源该模型及其训练数据。"
+                "x": "一个国际团队挖掘了DESI Legacy Imaging Surveys的数据。该巡天在2026年8月成为最大的宇宙2D地图，包含约5.6万亿像素和近40亿个天体。"
               },
               {
                 "t": "p",
-                "x": "Fast mode生成每份报告平均耗时51.1秒，而Thinking mode为178.5秒，速度快约3.5×。开放权重(Open weights)让机构可以在自有基础设施上运行模型，当问题本身会暴露敏感或未发表的研究时，这一点必不可少。"
-              },
-              {
-                "t": "p",
-                "x": "Ai2以Qwen3-8B为起点，专注于后训练数据，采用监督微调和DPO，使AstaBrief的表现接近Claude-powered流程和DR Tulu。"
+                "x": "一个残差神经网络搜索了巡天图像，生成了约3,500个潜在透镜的目录，并从中选出76个候选体进行后续观测。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "与Claude-powered Thinking mode相比的LLM-judged成对胜率"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "前景中的大质量星系如何放大其后方更遥远的星系。"
               },
               {
                 "t": "p",
-                "x": "在试用过Fast mode的374名Asta用户中，29.1%使用了两天或以上。"
+                "x": "研究人员于2022年至2024年间利用ESO's Very Large Telescope上的MUSE仪器进行积分视场光谱观测，确认其中70个候选体为真正的引力透镜。成果发表于The Astrophysical Journal Supplement Series。"
+              },
+              {
+                "t": "p",
+                "x": "这些透镜将纳入DESI Strong Lens Foundry Project，预计将借助Hubble、JWST、Roman和Rubin Observatory's LSST，助力暗物质、星系结构和宇宙学研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 libera AstaBrief para\ninformes científicos con citas",
-          "body": "Ai2 lanzó AstaBrief, un modelo 8B de pesos abiertos que redacta informes con citas en Asta o en servidores propios.",
-          "mini_headline": "AstaBrief se abre",
+          "headline": "Red neuronal ayuda a confirmar\n70 nuevas lentes gravitacionales",
+          "body": "Una red neuronal buscó candidatas a lente en datos de DESI y la espectroscopía del VLT confirmó 70 lentes nuevas.",
+          "mini_headline": "La AI ayuda a confirmar 70 nuevas lentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "Ejemplos de lentes gravitacionales halladas en datos de DESI Legacy Imaging Surveys."
               },
               {
                 "t": "p",
-                "x": "Ai2 creó AstaBrief 8B, un modelo que convierte una pregunta de investigación y fragmentos de literatura recuperados en un informe con citas. Está disponible en la función Generate a report de Asta como Fast mode, junto al Thinking mode Claude-powered, y Ai2 libera como código abierto el modelo y los datos de entrenamiento."
+                "x": "Un equipo internacional exploró los DESI Legacy Imaging Surveys, que en agosto de 2026 se convirtieron en el mayor mapa 2D del universo, con unos 5.6 billones de píxeles y casi 4 mil millones de objetos."
               },
               {
                 "t": "p",
-                "x": "Fast mode tarda de media 51.1 segundos por informe, frente a 178.5 segundos de Thinking mode: aproximadamente 3.5× más rápido. Los pesos abiertos (Open weights) permiten a las instituciones ejecutarlo en su propia infraestructura, algo necesario cuando las preguntas revelan trabajos sensibles o inéditos."
-              },
-              {
-                "t": "p",
-                "x": "Partiendo de Qwen3-8B, Ai2 se centró en los datos de posentrenamiento, con ajuste fino supervisado y DPO, lo que situó a AstaBrief cerca del pipeline Claude-powered y de DR Tulu."
+                "x": "Una red neuronal residual examinó las imágenes del sondeo y elaboró un catálogo de unas 3,500 lentes potenciales, de las que se seleccionaron 76 candidatas para su seguimiento."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Tasa de victorias por pares LLM-judged frente al Thinking mode Claude-powered"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "Cómo una galaxia masiva en primer plano amplifica otra galaxia más lejana situada detrás."
               },
               {
                 "t": "p",
-                "x": "Entre los 374 usuarios de Asta que han probado Fast mode, el 29.1% lo usó durante dos o más días."
+                "x": "La espectroscopía de campo integral con el instrumento MUSE del ESO's Very Large Telescope, con observaciones de 2022 a 2024, confirmó que 70 de las candidatas son verdaderas lentes gravitacionales. Los resultados se publican en The Astrophysical Journal Supplement Series."
+              },
+              {
+                "t": "p",
+                "x": "Las lentes se suman al DESI Strong Lens Foundry Project y se espera que apoyen la investigación sobre materia oscura, estructura galáctica y cosmología con Hubble, JWST, Roman y el Rubin Observatory's LSST."
               }
             ]
           }
@@ -1017,141 +966,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ai2의 AstaBrief\n인용 보고서 모델 공개",
-          "body": "Ai2가 인용 과학 보고서용 8B 오픈 웨이트 모델 AstaBrief를 냈다.",
-          "mini_headline": "AstaBrief 오픈소스 공개",
+          "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
+          "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
+          "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
               },
               {
                 "t": "p",
-                "x": "Ai2가 만든 AstaBrief 8B 모델은 연구 질문과 검색한 문헌 발췌를 인용이 달린 보고서로 바꿔 준다. Asta의 Generate a report 기능에서 Claude-powered Thinking mode와 함께 Fast mode로 쓸 수 있으며, Ai2는 이 모델과 학습 데이터를 오픈소스로 공개한다."
+                "x": "국제 연구팀은 DESI Legacy Imaging Surveys를 분석했다. 이 자료는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담아 우주에서 가장 큰 2D 지도가 됐다."
               },
               {
                 "t": "p",
-                "x": "Fast mode는 보고서 한 건에 평균 51.1초가 걸려, 178.5초인 Thinking mode보다 약 3.5× 빠르다. 오픈 웨이트(Open weights) 덕분에 기관은 자체 인프라에서 모델을 돌릴 수 있는데, 질문이 민감하거나 미발표인 연구를 드러낼 때 꼭 필요하다."
-              },
-              {
-                "t": "p",
-                "x": "Ai2는 Qwen3-8B에서 출발해 지도 미세조정과 DPO를 활용한 사후 학습 데이터에 집중했고, 그 결과 AstaBrief는 Claude-powered 파이프라인 및 DR Tulu에 근접한 수준에 이르렀다."
+                "x": "잔차 신경망이 관측 이미지를 탐색해 잠재적 렌즈 약 3,500개의 목록을 만들었고, 그중 후보 76개를 후속 관측 대상으로 골랐다."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Claude-powered Thinking mode 대비 LLM-judged 쌍별 승률"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
               },
               {
                 "t": "p",
-                "x": "Fast mode를 써 본 Asta 사용자 374명 가운데 29.1%가 이틀 이상 사용했다."
+                "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 한 결과, 후보 중 70개가 실제 중력렌즈로 확인됐다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+              },
+              {
+                "t": "p",
+                "x": "이 렌즈들은 DESI Strong Lens Foundry Project에 더해지며, Hubble, JWST, Roman, Rubin Observatory's LSST를 활용한 암흑물질, 은하 구조, 우주론 연구에 도움이 될 전망이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ai2がAstaBrief\n引用付き報告モデルを開放",
-          "body": "Ai2は引用付きレポートを書く8B オープンウェイトモデルAstaBriefを公開した。",
-          "mini_headline": "AstaBriefがオープンに",
+          "headline": "ニューラルネットで新たな\n重力レンズ70個を確認",
+          "body": "ニューラルネットがDESIデータからレンズ候補を探し、VLT分光で新たに70個を確認した。",
+          "mini_headline": "AIが新たなレンズ70個の確認に貢献",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "DESI Legacy Imaging Surveysのデータで見つかった重力レンズの例。"
               },
               {
                 "t": "p",
-                "x": "Ai2が開発したAstaBrief 8B モデルは、研究上の問いと検索した文献の抜粋から、引用付きのレポートを作成する。AstaのGenerate a report機能で、Claude-powered Thinking modeと並ぶFast modeとして利用でき、Ai2はモデルと学習データをオープンソース化する。"
+                "x": "国際研究チームは、2026年8月に宇宙最大の2D地図となったDESI Legacy Imaging Surveysを解析した。この地図は約5.6兆ピクセル、40億近くの天体を含む。"
               },
               {
                 "t": "p",
-                "x": "Fast modeはレポート一件あたり平均51.1秒で、Thinking modeの178.5秒より約3.5× 速い。オープンウェイト(Open weights)のため、機関は自前のインフラで実行でき、質問から機密性の高い研究や未発表の研究が明らかになり得る場合には欠かせない。"
-              },
-              {
-                "t": "p",
-                "x": "Ai2はQwen3-8Bを出発点に、教師ありファインチューニングとDPOを用いた事後学習データに注力し、AstaBriefをClaude-poweredパイプラインやDR Tuluに迫る水準に引き上げた。"
+                "x": "残差ニューラルネットワークがサーベイ画像を探索し、約3,500個の潜在的なレンズのカタログを作成した。そこから76個の候補を追観測の対象に選んだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Claude-powered Thinking modeに対するLLM-judgedのペアワイズ勝率"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "手前にある巨大な銀河が、その背後のより遠い銀河を拡大して見せる仕組み。"
               },
               {
                 "t": "p",
-                "x": "Fast modeを試したAstaユーザー374人のうち、29.1%が二日以上利用した。"
+                "x": "2022年から2024年にかけてESO's Very Large TelescopeのMUSE装置で行った面分光観測により、候補のうち70個が本物の重力レンズと確認された。成果はThe Astrophysical Journal Supplement Seriesに掲載された。"
+              },
+              {
+                "t": "p",
+                "x": "これらのレンズはDESI Strong Lens Foundry Projectに加わり、Hubble、JWST、Roman、Rubin Observatory's LSSTを使った暗黒物質、銀河構造、宇宙論の研究に役立つと期待されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ai2开源AstaBrief\n生成带引用科学报告",
-          "body": "Ai2发布8B 开放权重模型AstaBrief，可在Asta或自有服务器撰写带引用报告。",
-          "mini_headline": "AstaBrief走向开源",
+          "headline": "神经网络助力确认\n70个新引力透镜",
+          "body": "神经网络在DESI巡天数据中搜寻透镜候选体，随后VLT光谱观测确认了70个新透镜。",
+          "mini_headline": "AI助力确认70个新透镜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "在DESI Legacy Imaging Surveys数据中发现的引力透镜样例。"
               },
               {
                 "t": "p",
-                "x": "Ai2打造了AstaBrief 8B 模型，可将研究问题和检索到的文献摘录转化为带引用的报告。它以Fast mode的形式出现在Asta的Generate a report功能中，与Claude-powered Thinking mode并列；Ai2还将开源该模型及其训练数据。"
+                "x": "一个国际团队挖掘了DESI Legacy Imaging Surveys的数据。该巡天在2026年8月成为最大的宇宙2D地图，包含约5.6万亿像素和近40亿个天体。"
               },
               {
                 "t": "p",
-                "x": "Fast mode生成每份报告平均耗时51.1秒，而Thinking mode为178.5秒，速度快约3.5×。开放权重(Open weights)让机构可以在自有基础设施上运行模型，当问题本身会暴露敏感或未发表的研究时，这一点必不可少。"
-              },
-              {
-                "t": "p",
-                "x": "Ai2以Qwen3-8B为起点，专注于后训练数据，采用监督微调和DPO，使AstaBrief的表现接近Claude-powered流程和DR Tulu。"
+                "x": "一个残差神经网络搜索了巡天图像，生成了约3,500个潜在透镜的目录，并从中选出76个候选体进行后续观测。"
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "与Claude-powered Thinking mode相比的LLM-judged成对胜率"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "前景中的大质量星系如何放大其后方更遥远的星系。"
               },
               {
                 "t": "p",
-                "x": "在试用过Fast mode的374名Asta用户中，29.1%使用了两天或以上。"
+                "x": "研究人员于2022年至2024年间利用ESO's Very Large Telescope上的MUSE仪器进行积分视场光谱观测，确认其中70个候选体为真正的引力透镜。成果发表于The Astrophysical Journal Supplement Series。"
+              },
+              {
+                "t": "p",
+                "x": "这些透镜将纳入DESI Strong Lens Foundry Project，预计将借助Hubble、JWST、Roman和Rubin Observatory's LSST，助力暗物质、星系结构和宇宙学研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ai2 libera AstaBrief para\ninformes científicos con citas",
-          "body": "Ai2 lanzó AstaBrief, un modelo 8B de pesos abiertos que redacta informes con citas en Asta o en servidores propios.",
-          "mini_headline": "AstaBrief se abre",
+          "headline": "Red neuronal ayuda a confirmar\n70 nuevas lentes gravitacionales",
+          "body": "Una red neuronal buscó candidatas a lente en datos de DESI y la espectroscopía del VLT confirmó 70 lentes nuevas.",
+          "mini_headline": "La AI ayuda a confirmar 70 nuevas lentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790891256-asta-report-generation-model-blog-astabrief-google-docs-image-1.png"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+                "cap": "Ejemplos de lentes gravitacionales halladas en datos de DESI Legacy Imaging Surveys."
               },
               {
                 "t": "p",
-                "x": "Ai2 creó AstaBrief 8B, un modelo que convierte una pregunta de investigación y fragmentos de literatura recuperados en un informe con citas. Está disponible en la función Generate a report de Asta como Fast mode, junto al Thinking mode Claude-powered, y Ai2 libera como código abierto el modelo y los datos de entrenamiento."
+                "x": "Un equipo internacional exploró los DESI Legacy Imaging Surveys, que en agosto de 2026 se convirtieron en el mayor mapa 2D del universo, con unos 5.6 billones de píxeles y casi 4 mil millones de objetos."
               },
               {
                 "t": "p",
-                "x": "Fast mode tarda de media 51.1 segundos por informe, frente a 178.5 segundos de Thinking mode: aproximadamente 3.5× más rápido. Los pesos abiertos (Open weights) permiten a las instituciones ejecutarlo en su propia infraestructura, algo necesario cuando las preguntas revelan trabajos sensibles o inéditos."
-              },
-              {
-                "t": "p",
-                "x": "Partiendo de Qwen3-8B, Ai2 se centró en los datos de posentrenamiento, con ajuste fino supervisado y DPO, lo que situó a AstaBrief cerca del pipeline Claude-powered y de DR Tulu."
+                "x": "Una red neuronal residual examinó las imágenes del sondeo y elaboró un catálogo de unas 3,500 lentes potenciales, de las que se seleccionaron 76 candidatas para su seguimiento."
               },
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1790954318-precision-capture-2026-10-02t15-18-28-llm-judged-pairwise-win-rate-vs-claude-powered-thinking-mode.png",
-                "cap": "Tasa de victorias por pares LLM-judged frente al Thinking mode Claude-powered"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+                "cap": "Cómo una galaxia masiva en primer plano amplifica otra galaxia más lejana situada detrás."
               },
               {
                 "t": "p",
-                "x": "Entre los 374 usuarios de Asta que han probado Fast mode, el 29.1% lo usó durante dos o más días."
+                "x": "La espectroscopía de campo integral con el instrumento MUSE del ESO's Very Large Telescope, con observaciones de 2022 a 2024, confirmó que 70 de las candidatas son verdaderas lentes gravitacionales. Los resultados se publican en The Astrophysical Journal Supplement Series."
+              },
+              {
+                "t": "p",
+                "x": "Las lentes se suman al DESI Strong Lens Foundry Project y se espera que apoyen la investigación sobre materia oscura, estructura galáctica y cosmología con Hubble, JWST, Roman y el Rubin Observatory's LSST."
               }
             ]
           }
@@ -1159,15 +1112,15 @@
       }
     },
     {
-      "id": "science-haiqu-agenticos-quantum",
+      "id": "science-chatbot-tipping-formula",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Haiqu AI 에이전트,\n양자 연구를 설계·검증",
-      "body": "Haiqu의 AgenticOS는 AI 에이전트를 묶어 양자 실험을 계획·검증한다.",
-      "mini_headline": "양자 연구실의 에이전트",
+      "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
+      "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
+      "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1175,173 +1128,180 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+            "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Haiqu가 AgenticOS를 내놓았다. 전문 AI 에이전트 여럿을 조율해 사람의 감독 아래 양자 연구 실험을 계획·검증하고 하드웨어 실행까지 준비하는 시스템이다."
+            "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo가 AI 챗봇의 답변이 수용 가능한 수준에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 쪽으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
           },
           {
             "t": "p",
-            "x": "범용(General-purpose) AI 에이전트는 아무도 요청하지 않은 작은 변경을 할 수 있다. 분자 구조를 바꾸거나 승인되지 않은 근사를 슬쩍 끼워 넣는 식이다. AgenticOS는 문헌 검토, 유도 과정 전개, 양자 실현 가능성 평가를 에이전트 팀에 나눠 맡기고 결과는 고전적 기준선과 비평 에이전트, 사람의 검토로 확인한다."
+            "x": "공식의 출발점은 모델 안의 단일 어텐션 유닛이다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어나기도 하고, 대화 속 질문 순서도 결과를 바꿀 수 있다."
           },
           {
             "t": "p",
-            "x": "NeurIPS 2026 워크숍에 채택된 화학 연구에서는 도움 없이 돌린 에이전트가 10회 중 네 번 명시된 설정 지시를 무시했다. AgenticOS를 붙이자 모델은 승인된 프로토콜을 지켰고 정확 대각화 기준값과 약 3.4% 이내의 결과를 냈다."
+            "x": "예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
           },
           {
             "t": "p",
-            "x": "IBM 양자 컴퓨터에서 돌린 3-by-3 Hubbard 모델 실험에서는 회로 깊이가 75% 줄었다. 기업 R&D 팀은 요청하면 AgenticOS를 쓸 수 있고, 학계 연구자는 무료 이용을 신청하면 된다."
+            "x": "저자들이 특히 걱정하는 쪽은 cloud-based 안전 필터가 작동하지 않는 오프라인 AI다. 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 앞으로 기기에 내장할 수 있다는 게 이들의 제안이다."
           }
         ]
       },
+      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
       "text": {
         "en": {
-          "headline": "Haiqu's AI agents plan and\ncheck quantum research",
-          "body": "Haiqu's AgenticOS coordinates specialized AI agents to plan, validate and prepare quantum research experiments.",
-          "mini_headline": "Agents for quantum labs",
+          "headline": "A simple formula predicts\nwhen chatbots turn harmful",
+          "body": "Derived from a single attention unit, the formula matched 18 of 19 harmful tipping cases across seven open models.",
+          "mini_headline": "Formula flags when chatbots tip",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AI conversations. Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu launched AgenticOS, a system that coordinates specialized AI agents to plan, validate and prepare quantum research experiments for hardware execution under human oversight."
+                "x": "George Washington University physicists Neil F. Johnson and Frank Yingjie Huo report in Patterns a mathematical formula that predicts when an AI chatbot will tip from acceptable answers to undesirable ones, such as harmful advice or misleading information."
               },
               {
                 "t": "p",
-                "x": "General-purpose AI agents can make small changes no one asked for, like shifting a molecular geometry or slipping in an unapproved approximation. AgenticOS assigns teams of agents to review literature, work through derivations, assess quantum feasibility and check results against classical baselines, critic agents and human review."
+                "x": "The formula is derived from a single attention unit in the model. The shift can come after several acceptable answers, and the order of questions in a conversation can affect the result."
               },
               {
                 "t": "p",
-                "x": "In a chemistry study accepted at a NeurIPS 2026 workshop, four of 10 unassisted agent runs ignored an explicit setup instruction. With AgenticOS, the models held to the approved protocol and produced a result within approximately 3.4% of the exact diagonalization reference."
+                "x": "Its predictions matched 18 of 19 tipping cases across seven open models from three companies."
               },
               {
                 "t": "p",
-                "x": "On a 3-by-3 Hubbard model experiment run on an IBM quantum computer, it reduced circuit depth by 75%. AgenticOS is available to enterprise R&D teams upon request; academic researchers can apply for free access."
+                "x": "The authors are particularly concerned about offline AI, where cloud-based safety filters don't operate, and suggest future devices could include a built-in warning when conversations drift toward risky territory."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Haiqu AI 에이전트,\n양자 연구를 설계·검증",
-          "body": "Haiqu의 AgenticOS는 AI 에이전트를 묶어 양자 실험을 계획·검증한다.",
-          "mini_headline": "양자 연구실의 에이전트",
+          "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
+          "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
+          "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu가 AgenticOS를 내놓았다. 전문 AI 에이전트 여럿을 조율해 사람의 감독 아래 양자 연구 실험을 계획·검증하고 하드웨어 실행까지 준비하는 시스템이다."
+                "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo가 AI 챗봇의 답변이 수용 가능한 수준에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 쪽으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
               },
               {
                 "t": "p",
-                "x": "범용(General-purpose) AI 에이전트는 아무도 요청하지 않은 작은 변경을 할 수 있다. 분자 구조를 바꾸거나 승인되지 않은 근사를 슬쩍 끼워 넣는 식이다. AgenticOS는 문헌 검토, 유도 과정 전개, 양자 실현 가능성 평가를 에이전트 팀에 나눠 맡기고 결과는 고전적 기준선과 비평 에이전트, 사람의 검토로 확인한다."
+                "x": "공식의 출발점은 모델 안의 단일 어텐션 유닛이다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어나기도 하고, 대화 속 질문 순서도 결과를 바꿀 수 있다."
               },
               {
                 "t": "p",
-                "x": "NeurIPS 2026 워크숍에 채택된 화학 연구에서는 도움 없이 돌린 에이전트가 10회 중 네 번 명시된 설정 지시를 무시했다. AgenticOS를 붙이자 모델은 승인된 프로토콜을 지켰고 정확 대각화 기준값과 약 3.4% 이내의 결과를 냈다."
+                "x": "예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
               },
               {
                 "t": "p",
-                "x": "IBM 양자 컴퓨터에서 돌린 3-by-3 Hubbard 모델 실험에서는 회로 깊이가 75% 줄었다. 기업 R&D 팀은 요청하면 AgenticOS를 쓸 수 있고, 학계 연구자는 무료 이용을 신청하면 된다."
+                "x": "저자들이 특히 걱정하는 쪽은 cloud-based 안전 필터가 작동하지 않는 오프라인 AI다. 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 앞으로 기기에 내장할 수 있다는 게 이들의 제안이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HaiquのAIエージェント\n量子研究を計画・検証",
-          "body": "HaiquのAgenticOSは専門AIエージェントを束ね、量子実験を計画・検証する。",
-          "mini_headline": "量子ラボのためのエージェント",
+          "headline": "単純な式が予測する\nチャットボットの有害化",
+          "body": "アテンションユニット一つに基づく式が七つのオープンモデルの有害化19件中18件を当てた。",
+          "mini_headline": "チャットボットの有害化を式で予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AIとの会話。Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "HaiquはAgenticOSを発表した。専門AIエージェントを連携させ、人間の監督のもとで量子研究の実験を計画・検証し、ハードウェアでの実行に向けて準備するシステムだ。"
+                "x": "George Washington Universityの物理学者Neil F. JohnsonとFrank Yingjie Huoは、AIチャットボットが許容できる回答から、有害な助言や誤解を招く情報といった望ましくない回答へと転じるタイミングを予測する数式をPatternsに報告した。"
               },
               {
                 "t": "p",
-                "x": "汎用(General-purpose)AIエージェントは、分子構造をずらしたり未承認の近似を紛れ込ませたりと、誰も頼んでいない小さな変更を加えることがある。AgenticOSはエージェントのチームに文献調査、導出の展開、量子的な実現可能性の評価を割り当て、結果を古典的ベースライン、批評エージェント、人間のレビューと照合する。"
+                "x": "この式はモデル内の単一のアテンションユニットから導かれる。転換は許容できる回答が何度か続いた後に起こることもあり、会話の中での質問の順序が結果を左右することもある。"
               },
               {
                 "t": "p",
-                "x": "NeurIPS 2026のワークショップに採択された化学研究では、支援なしのエージェント実行10回のうち四回が明示的な設定指示を無視した。AgenticOSを使うと、モデルは承認されたプロトコルを守り、厳密対角化の参照値から約3.4%以内の結果を出した。"
+                "x": "その予測は、三社による七つのオープンモデルで生じた転換事例19件のうち18件と一致した。"
               },
               {
                 "t": "p",
-                "x": "IBMの量子コンピューターで行った3-by-3 Hubbardモデル実験では、回路の深さを75%削減した。AgenticOSは企業のR&Dチームが依頼すれば利用でき、学術研究者は無償利用を申請できる。"
+                "x": "著者らが特に懸念するのは、cloud-basedの安全フィルターが機能しないオフラインのAIだ。将来のデバイスには、会話が危険な領域へ流れたときに警告を出す機能を組み込めるのではないかと提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Haiqu的AI智能体\n规划并核查量子研究",
-          "body": "Haiqu的AgenticOS协调多个专业AI智能体，规划、验证并准备量子研究实验。",
-          "mini_headline": "服务量子实验室的智能体",
+          "headline": "简单公式可预测\n聊天机器人何时转向有害",
+          "body": "这一公式源自单个注意力单元，在七个开放模型的19个有害转向案例中准确预测了18个。",
+          "mini_headline": "公式预警聊天机器人何时转向",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AI对话。Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu推出了AgenticOS，该系统协调多个专业AI智能体，在人类监督下规划、验证量子研究实验，并为硬件执行做好准备。"
+                "x": "George Washington University的物理学家Neil F. Johnson和Frank Yingjie Huo在Patterns上报告了一个数学公式，可预测AI聊天机器人何时会从可接受的回答转向不良回答，例如有害建议或误导性信息。"
               },
               {
                 "t": "p",
-                "x": "通用(General-purpose)AI智能体可能会做出没人要求的细小改动，比如改变分子几何结构，或悄悄加入未经批准的近似。AgenticOS为智能体团队分配文献综述、推导演算和量子可行性评估等任务，并对照经典基线、评审智能体和人工审核来检查结果。"
+                "x": "该公式源自模型中的单个注意力单元。这种转变可能出现在若干个可接受的回答之后，对话中提问的顺序也可能影响结果。"
               },
               {
                 "t": "p",
-                "x": "在一项被NeurIPS 2026研讨会接收的化学研究中，10次无辅助的智能体运行里有四次无视了明确的设置指令。借助AgenticOS，模型遵循了获批的方案，结果与精确对角化参考值的偏差约在3.4%以内。"
+                "x": "在来自三家公司的七个开放模型中，其预测与19个转向案例中的18个相符。"
               },
               {
                 "t": "p",
-                "x": "在IBM量子计算机上运行的3-by-3 Hubbard模型实验中，它将电路深度降低了75%。企业R&D团队可申请使用AgenticOS，学术研究人员可申请免费使用。"
+                "x": "作者尤其担心离线AI，因为cloud-based安全过滤器在那里不起作用；他们建议，未来的设备可内置警告功能，在对话滑向危险领域时发出提醒。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes AI de Haiqu planifican\ny revisan ensayos cuánticos",
-          "body": "AgenticOS, de Haiqu, coordina agentes AI especializados para planificar, validar y preparar experimentos cuánticos.",
-          "mini_headline": "Agentes para laboratorios cuánticos",
+          "headline": "Fórmula simple predice cuándo\nun chatbot se vuelve dañino",
+          "body": "La fórmula, derivada de una sola unidad de atención, acertó 18 de 19 casos de giro dañino en siete modelos abiertos.",
+          "mini_headline": "Una fórmula detecta cuándo se desvía un chatbot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "Conversaciones con AI. Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu lanzó AgenticOS, un sistema que coordina agentes AI especializados para planificar, validar y preparar experimentos de investigación cuántica para su ejecución en hardware bajo supervisión humana."
+                "x": "Los físicos Neil F. Johnson y Frank Yingjie Huo, de la George Washington University, presentan en Patterns una fórmula matemática que predice cuándo un chatbot de AI pasará de respuestas aceptables a otras indeseables, como consejos dañinos o información engañosa."
               },
               {
                 "t": "p",
-                "x": "Los agentes AI de propósito general (General-purpose) pueden introducir pequeños cambios que nadie pidió, como alterar una geometría molecular o colar una aproximación no aprobada. AgenticOS asigna equipos de agentes para revisar la literatura, desarrollar derivaciones, evaluar la viabilidad cuántica y contrastar los resultados con referencias clásicas, agentes críticos y revisión humana."
+                "x": "La fórmula se deriva de una sola unidad de atención del modelo. El cambio puede producirse tras varias respuestas aceptables, y el orden de las preguntas en una conversación puede influir en el resultado."
               },
               {
                 "t": "p",
-                "x": "En un estudio de química aceptado en un taller de NeurIPS 2026, cuatro de 10 ejecuciones de agentes sin asistencia ignoraron una instrucción de configuración explícita. Con AgenticOS, los modelos se ciñeron al protocolo aprobado y obtuvieron un resultado a aproximadamente un 3.4% de la referencia de diagonalización exacta."
+                "x": "Sus predicciones coincidieron con 18 de 19 casos de giro en siete modelos abiertos de tres empresas."
               },
               {
                 "t": "p",
-                "x": "En un experimento con el modelo de Hubbard de 3-by-3 ejecutado en una computadora cuántica de IBM, redujo la profundidad del circuito en un 75%. AgenticOS está disponible bajo solicitud para equipos de R&D empresariales; los investigadores académicos pueden solicitar acceso gratuito."
+                "x": "A los autores les preocupa especialmente la AI sin conexión, donde no operan los filtros de seguridad cloud-based, y sugieren que los dispositivos futuros podrían incorporar una advertencia cuando una conversación derive hacia terreno arriesgado."
               }
             ]
           }
@@ -1349,121 +1309,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Haiqu AI 에이전트,\n양자 연구를 설계·검증",
-          "body": "Haiqu의 AgenticOS는 AI 에이전트로 양자 실험을 계획하고 검증한다.",
-          "mini_headline": "양자 연구실의 에이전트",
+          "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
+          "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
+          "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu가 AgenticOS를 출시했다. 전문 AI 에이전트들을 조율해 사람의 감독 아래 양자 연구 실험을 계획·검증하고 하드웨어 실행을 준비하는 시스템이다."
+                "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo는 AI 챗봇이 수용 가능한 답변에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 답변으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
               },
               {
                 "t": "p",
-                "x": "범용(General-purpose) AI 에이전트는 분자 구조를 바꾸거나 승인되지 않은 근사를 슬쩍 끼워 넣는 등, 아무도 요청하지 않은 작은 변경을 할 수 있다. AgenticOS는 에이전트 팀에 문헌 검토, 유도 과정 전개, 양자 실현 가능성 평가를 맡기고, 결과를 고전적 기준선과 비평 에이전트, 사람의 검토로 확인한다."
+                "x": "이 공식은 모델 안의 단일 어텐션 유닛에서 나왔다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어날 수 있고, 대화 속 질문 순서가 결과에 영향을 줄 수 있다."
               },
               {
                 "t": "p",
-                "x": "NeurIPS 2026 워크숍에 채택된 화학 연구에서, 도움 없이 실행한 에이전트 10회 중 네 번이 명시된 설정 지시를 무시했다. AgenticOS를 쓰자 모델은 승인된 프로토콜을 지켰고, 정확 대각화 기준값과 약 3.4% 이내의 결과를 냈다."
+                "x": "이 공식의 예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
               },
               {
                 "t": "p",
-                "x": "IBM 양자 컴퓨터에서 실행한 3-by-3 Hubbard 모델 실험에서는 회로 깊이를 75% 줄였다. AgenticOS는 기업 R&D 팀이 요청하면 이용할 수 있고, 학계 연구자는 무료 이용을 신청할 수 있다."
+                "x": "저자들은 특히 cloud-based 안전 필터가 작동하지 않는 오프라인 AI를 우려한다. 이들은 앞으로 기기에 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 내장할 수 있다고 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "HaiquのAIエージェント\n量子研究を計画・検証",
-          "body": "HaiquのAgenticOSは専門AIエージェントを束ね、量子実験を計画・検証する。",
-          "mini_headline": "量子ラボのためのエージェント",
+          "headline": "単純な式が予測する\nチャットボットの有害化",
+          "body": "アテンションユニット一つに基づく式が七つのオープンモデルの有害化19件中18件を当てた。",
+          "mini_headline": "チャットボットの有害化を式で予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AIとの会話。Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "HaiquはAgenticOSを発表した。専門AIエージェントを連携させ、人間の監督のもとで量子研究の実験を計画・検証し、ハードウェアでの実行に向けて準備するシステムだ。"
+                "x": "George Washington Universityの物理学者Neil F. JohnsonとFrank Yingjie Huoは、AIチャットボットが許容できる回答から、有害な助言や誤解を招く情報といった望ましくない回答へと転じるタイミングを予測する数式をPatternsに報告した。"
               },
               {
                 "t": "p",
-                "x": "汎用(General-purpose)AIエージェントは、分子構造をずらしたり未承認の近似を紛れ込ませたりと、誰も頼んでいない小さな変更を加えることがある。AgenticOSはエージェントのチームに文献調査、導出の展開、量子的な実現可能性の評価を割り当て、結果を古典的ベースライン、批評エージェント、人間のレビューと照合する。"
+                "x": "この式はモデル内の単一のアテンションユニットから導かれる。転換は許容できる回答が何度か続いた後に起こることもあり、会話の中での質問の順序が結果を左右することもある。"
               },
               {
                 "t": "p",
-                "x": "NeurIPS 2026のワークショップに採択された化学研究では、支援なしのエージェント実行10回のうち四回が明示的な設定指示を無視した。AgenticOSを使うと、モデルは承認されたプロトコルを守り、厳密対角化の参照値から約3.4%以内の結果を出した。"
+                "x": "その予測は、三社による七つのオープンモデルで生じた転換事例19件のうち18件と一致した。"
               },
               {
                 "t": "p",
-                "x": "IBMの量子コンピューターで行った3-by-3 Hubbardモデル実験では、回路の深さを75%削減した。AgenticOSは企業のR&Dチームが依頼すれば利用でき、学術研究者は無償利用を申請できる。"
+                "x": "著者らが特に懸念するのは、cloud-basedの安全フィルターが機能しないオフラインのAIだ。将来のデバイスには、会話が危険な領域へ流れたときに警告を出す機能を組み込めるのではないかと提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Haiqu的AI智能体\n规划并核查量子研究",
-          "body": "Haiqu的AgenticOS协调多个专业AI智能体，规划、验证并准备量子研究实验。",
-          "mini_headline": "服务量子实验室的智能体",
+          "headline": "简单公式可预测\n聊天机器人何时转向有害",
+          "body": "这一公式源自单个注意力单元，在七个开放模型的19个有害转向案例中准确预测了18个。",
+          "mini_headline": "公式预警聊天机器人何时转向",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "AI对话。Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu推出了AgenticOS，该系统协调多个专业AI智能体，在人类监督下规划、验证量子研究实验，并为硬件执行做好准备。"
+                "x": "George Washington University的物理学家Neil F. Johnson和Frank Yingjie Huo在Patterns上报告了一个数学公式，可预测AI聊天机器人何时会从可接受的回答转向不良回答，例如有害建议或误导性信息。"
               },
               {
                 "t": "p",
-                "x": "通用(General-purpose)AI智能体可能会做出没人要求的细小改动，比如改变分子几何结构，或悄悄加入未经批准的近似。AgenticOS为智能体团队分配文献综述、推导演算和量子可行性评估等任务，并对照经典基线、评审智能体和人工审核来检查结果。"
+                "x": "该公式源自模型中的单个注意力单元。这种转变可能出现在若干个可接受的回答之后，对话中提问的顺序也可能影响结果。"
               },
               {
                 "t": "p",
-                "x": "在一项被NeurIPS 2026研讨会接收的化学研究中，10次无辅助的智能体运行里有四次无视了明确的设置指令。借助AgenticOS，模型遵循了获批的方案，结果与精确对角化参考值的偏差约在3.4%以内。"
+                "x": "在来自三家公司的七个开放模型中，其预测与19个转向案例中的18个相符。"
               },
               {
                 "t": "p",
-                "x": "在IBM量子计算机上运行的3-by-3 Hubbard模型实验中，它将电路深度降低了75%。企业R&D团队可申请使用AgenticOS，学术研究人员可申请免费使用。"
+                "x": "作者尤其担心离线AI，因为cloud-based安全过滤器在那里不起作用；他们建议，未来的设备可内置警告功能，在对话滑向危险领域时发出提醒。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes AI de Haiqu planifican\ny revisan ensayos cuánticos",
-          "body": "AgenticOS, de Haiqu, coordina agentes AI especializados para planificar, validar y preparar experimentos cuánticos.",
-          "mini_headline": "Agentes para laboratorios cuánticos",
+          "headline": "Fórmula simple predice cuándo\nun chatbot se vuelve dañino",
+          "body": "La fórmula, derivada de una sola unidad de atención, acertó 18 de 19 casos de giro dañino en siete modelos abiertos.",
+          "mini_headline": "Una fórmula detecta cuándo se desvía un chatbot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/agent.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+                "cap": "Conversaciones con AI. Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Haiqu lanzó AgenticOS, un sistema que coordina agentes AI especializados para planificar, validar y preparar experimentos de investigación cuántica para su ejecución en hardware bajo supervisión humana."
+                "x": "Los físicos Neil F. Johnson y Frank Yingjie Huo, de la George Washington University, presentan en Patterns una fórmula matemática que predice cuándo un chatbot de AI pasará de respuestas aceptables a otras indeseables, como consejos dañinos o información engañosa."
               },
               {
                 "t": "p",
-                "x": "Los agentes AI de propósito general (General-purpose) pueden introducir pequeños cambios que nadie pidió, como alterar una geometría molecular o colar una aproximación no aprobada. AgenticOS asigna equipos de agentes para revisar la literatura, desarrollar derivaciones, evaluar la viabilidad cuántica y contrastar los resultados con referencias clásicas, agentes críticos y revisión humana."
+                "x": "La fórmula se deriva de una sola unidad de atención del modelo. El cambio puede producirse tras varias respuestas aceptables, y el orden de las preguntas en una conversación puede influir en el resultado."
               },
               {
                 "t": "p",
-                "x": "En un estudio de química aceptado en un taller de NeurIPS 2026, cuatro de 10 ejecuciones de agentes sin asistencia ignoraron una instrucción de configuración explícita. Con AgenticOS, los modelos se ciñeron al protocolo aprobado y obtuvieron un resultado a aproximadamente un 3.4% de la referencia de diagonalización exacta."
+                "x": "Sus predicciones coincidieron con 18 de 19 casos de giro en siete modelos abiertos de tres empresas."
               },
               {
                 "t": "p",
-                "x": "En un experimento con el modelo de Hubbard de 3-by-3 ejecutado en una computadora cuántica de IBM, redujo la profundidad del circuito en un 75%. AgenticOS está disponible bajo solicitud para equipos de R&D empresariales; los investigadores académicos pueden solicitar acceso gratuito."
+                "x": "A los autores les preocupa especialmente la AI sin conexión, donde no operan los filtros de seguridad cloud-based, y sugieren que los dispositivos futuros podrían incorporar una advertencia cuando una conversación derive hacia terreno arriesgado."
               }
             ]
           }
@@ -1471,15 +1435,15 @@
       }
     },
     {
-      "id": "science-virtual-cell-model-calibration",
+      "id": "science-co2-methanol-ml",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "가상세포 모델에\n보정 프레임워크",
-      "body": "평균제곱오차 같은 지표가 AI 가상세포 모델을 자주 잘못 평가해 보정 틀이 나왔다.",
-      "mini_headline": "AI 가상세포 보정",
+      "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
+      "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
+      "mini_headline": "ML로 그린 CO2-to-methanol 경로",
       "tool": "Science",
-      "source": "GEN - Genetic Engineering and Biotechnology News",
-      "url": "https://www.genengnews.com/topics/artificial-intelligence/new-calibration-framework-improves-confidence-in-ai-virtual-cell-models/",
+      "source": "EurekAlert! (IISc)",
+      "url": "https://www.eurekalert.org/news-releases/1146653",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1487,197 +1451,180 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+            "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+            "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
           },
           {
             "t": "p",
-            "x": "Nature Biotechnology에 실린 논문 “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”는 양성 대조 기준선과 함께 프레임워크 하나를 내놓았다. 흔히 쓰는 지표가 의미 있는 모델 예측과 정보가 적은 예측을 가려낼 수 있는지 검증하는 틀이다."
+            "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 일어날 법한 반응 몇 개만 골라 쓰는 게 관행이었고, 그 바람에 중요한 반응 수백 개를 놓칠 수 있었다."
           },
           {
             "t": "p",
-            "x": "유전자 교란 모델은 AI 가상세포의 한 갈래로, 유전자를 활성화하거나 억제할 때 세포의 전사체가 어떻게 바뀌는지 예측한다. 최근 연구들에서는 정교한 딥러닝 시스템이 단순한 기준선을 넘지 못하는 경우가 많았다."
+            "x": "Indian Institute of Science 연구진은 Nature Communications에 실린 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개짜리 데이터베이스를 만들고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개까지 넓혔다."
           },
           {
             "t": "p",
-            "x": "연구팀은 ‘보간 복제(interpolated duplicate)’ 양성 대조군을 만들고, 지표가 이를 음성 대조군과 얼마나 잘 구분하는지 재는 동적 범위 비율(DRF)도 고안했다. 14개 데이터셋과 18개 지표를 살펴보니 평균제곱오차와 대조군 기준 Pearson 상관은 보정이 미흡한 경우가 많았다. WMSE, 가중 RΔ2, NIR 같은 가중·순위 기반 지표가 더 나았다."
+            "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 주생성물도 메탄올과 일산화탄소로 정확히 짚어냈다."
           },
           {
             "t": "p",
-            "x": "지표를 보정하자 scGPT, GEARS 등 이전 모델도 정보 없는 기준선을 자주 넘어섰고, PRESAGE와 scLambda는 그보다 강한 성능을 보였다. Norman19(유전자 조합의 0.63% 포괄)에서는 가산 기준선을 넘기 어려웠지만 Wessels23(10.3%)에서는 여러 모델이 이를 앞섰다."
-          },
-          {
-            "t": "p",
-            "x": "Cambridge, U.K.(영국 케임브리지)의 Shift Bioscience는 이 프레임워크를 회춘과 노화 관련 질환의 표적 스크리닝에 적용할 계획이다. 첫 대상은 섬유화다."
+            "x": "수소가 분자 상태의 H₂ 그대로 중간체에 직접 옮겨갈 수 있다는 사실도 새로 드러났다."
           }
         ]
       },
+      "lead_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
       "text": {
         "en": {
-          "headline": "Virtual cell models get\na calibration framework",
-          "body": "Metrics like mean squared error often misjudge AI virtual cell models, so the authors propose a calibration framework.",
-          "mini_headline": "Calibrating AI\nvirtual cells",
+          "headline": "Machine learning maps\nhow CO2 becomes methanol",
+          "body": "IISc researchers used machine learning to map nearly 10,000 surface reactions turning CO2 into methanol on copper.",
+          "mini_headline": "ML maps CO2-to-methanol paths",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "Surface of a copper catalyst depicting CO₂ hydrogenation to methanol. Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Published in Nature Biotechnology, the paper “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” introduces a positive-control baseline and a framework for testing whether common metrics can distinguish meaningful model predictions from less informative ones."
+                "x": "CO₂ hydrogenation involves thousands of tiny steps on a catalyst surface, so modelers traditionally pick a small number of likely reactions, which means hundreds of important reactions may be missed."
               },
               {
                 "t": "p",
-                "x": "Genetic perturbation models, a subset of AI virtual cells, predict how activating or inhibiting genes alters a cell's transcriptome. Recent studies found sophisticated deep learning systems often failed to beat simple baselines."
+                "x": "Researchers at the Indian Institute of Science, reporting in Nature Communications, built a database of 152 reactions from quantum-mechanical simulations, trained machine learning models to predict activation energy barriers, and used automated tools to expand the network to 9,389 elementary reactions on copper."
               },
               {
                 "t": "p",
-                "x": "The team built an “interpolated duplicate” positive control and the dynamic range fraction (DRF), which measures how well a metric separates it from a negative control. Across 14 datasets and 18 metrics, mean squared error and control-referenced Pearson correlation were often poorly calibrated; weighted and rank-based metrics such as WMSE, weighted RΔ2 and NIR were better."
+                "x": "“When we modelled the process using the 152 reactions considered initially, the network wrongly predicted formic acid, not methanol, as the major product,” says Ananth Govind Rajan. The expanded network predicted an approximately 40-fold increase in CO₂ conversion and correctly identified methanol and carbon monoxide as major products."
               },
               {
                 "t": "p",
-                "x": "On calibrated metrics, earlier models including scGPT and GEARS often surpassed uninformative baselines, and PRESAGE and scLambda performed more strongly. In Norman19 (0.63% of gene combinations covered) an additive baseline stayed hard to beat; in Wessels23 (10.3%) several models beat it."
-              },
-              {
-                "t": "p",
-                "x": "Shift Bioscience, based in Cambridge, U.K., plans to apply the framework to screens for targets relevant to rejuvenation and age-related disease, initially focusing on fibrosis."
+                "x": "It also revealed that hydrogen can transfer to intermediates directly as molecular H₂."
               }
             ]
           }
         },
         "ko": {
-          "headline": "가상세포 모델에\n보정 프레임워크",
-          "body": "평균제곱오차 같은 지표가 AI 가상세포 모델을 자주 잘못 평가해 보정 틀이 나왔다.",
-          "mini_headline": "AI 가상세포 보정",
+          "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
+          "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
+          "mini_headline": "ML로 그린 CO2-to-methanol 경로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Nature Biotechnology에 실린 논문 “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”는 양성 대조 기준선과 함께 프레임워크 하나를 내놓았다. 흔히 쓰는 지표가 의미 있는 모델 예측과 정보가 적은 예측을 가려낼 수 있는지 검증하는 틀이다."
+                "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 일어날 법한 반응 몇 개만 골라 쓰는 게 관행이었고, 그 바람에 중요한 반응 수백 개를 놓칠 수 있었다."
               },
               {
                 "t": "p",
-                "x": "유전자 교란 모델은 AI 가상세포의 한 갈래로, 유전자를 활성화하거나 억제할 때 세포의 전사체가 어떻게 바뀌는지 예측한다. 최근 연구들에서는 정교한 딥러닝 시스템이 단순한 기준선을 넘지 못하는 경우가 많았다."
+                "x": "Indian Institute of Science 연구진은 Nature Communications에 실린 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개짜리 데이터베이스를 만들고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개까지 넓혔다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 ‘보간 복제(interpolated duplicate)’ 양성 대조군을 만들고, 지표가 이를 음성 대조군과 얼마나 잘 구분하는지 재는 동적 범위 비율(DRF)도 고안했다. 14개 데이터셋과 18개 지표를 살펴보니 평균제곱오차와 대조군 기준 Pearson 상관은 보정이 미흡한 경우가 많았다. WMSE, 가중 RΔ2, NIR 같은 가중·순위 기반 지표가 더 나았다."
+                "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 주생성물도 메탄올과 일산화탄소로 정확히 짚어냈다."
               },
               {
                 "t": "p",
-                "x": "지표를 보정하자 scGPT, GEARS 등 이전 모델도 정보 없는 기준선을 자주 넘어섰고, PRESAGE와 scLambda는 그보다 강한 성능을 보였다. Norman19(유전자 조합의 0.63% 포괄)에서는 가산 기준선을 넘기 어려웠지만 Wessels23(10.3%)에서는 여러 모델이 이를 앞섰다."
-              },
-              {
-                "t": "p",
-                "x": "Cambridge, U.K.(영국 케임브리지)의 Shift Bioscience는 이 프레임워크를 회춘과 노화 관련 질환의 표적 스크리닝에 적용할 계획이다. 첫 대상은 섬유화다."
+                "x": "수소가 분자 상태의 H₂ 그대로 중간체에 직접 옮겨갈 수 있다는 사실도 새로 드러났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仮想細胞モデルに\n較正の枠組み",
-          "body": "平均二乗誤差などの指標はAI仮想細胞モデルを誤評価しがちで、較正の枠組みが提案された。",
-          "mini_headline": "AI仮想細胞の較正",
+          "headline": "機械学習が描く\nCO2がメタノールになる道",
+          "body": "IISc研究陣は機械学習で銅表面でCO2がメタノールになる反応約10,000件を描いた。",
+          "mini_headline": "MLでCO2-to-methanolの経路を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "CO₂の水素化によるメタノール生成を描いた銅触媒の表面。Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Nature Biotechnologyに掲載された論文「Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics」は、陽性対照ベースラインと、一般的な指標が意味のあるモデル予測と情報量の少ない予測を区別できるかを検証する枠組みを提示している。"
+                "x": "CO₂の水素化では触媒表面で何千もの微小なステップが進むため、モデル研究者は従来、起こりそうな反応を少数だけ選んできた。そのため、重要な反応が何百も見落とされている可能性がある。"
               },
               {
                 "t": "p",
-                "x": "AI仮想細胞の一種である遺伝子摂動モデルは、遺伝子の活性化や阻害によって細胞のトランスクリプトームがどう変わるかを予測する。最近の研究では、高度な深層学習システムが単純なベースラインを上回れないことが多いと分かっていた。"
+                "x": "Nature Communicationsで報告したIndian Institute of Scienceの研究者らは、量子力学的(quantum-mechanical)シミュレーションから152反応のデータベースを構築し、活性化エネルギー障壁を予測する機械学習モデルを訓練した。さらに自動化ツールを使い、銅上の反応ネットワークを9,389の素反応へと拡張した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは「interpolated duplicate(補間複製)」という陽性対照と、指標がそれを陰性対照とどれだけ区別できるかを測るダイナミックレンジ比(DRF)を構築した。14のデータセットと18の指標で調べると、平均二乗誤差や対照基準のPearson相関は較正が不十分なことが多く、WMSE、重み付きRΔ2、NIRなどの重み付き・順位ベースの指標の方が優れていた。"
+                "x": "「当初検討した152の反応でプロセスをモデル化したところ、ネットワークは主生成物をメタノールではなくギ酸と誤って予測した」とAnanth Govind Rajanは語る。拡張したネットワークはCO₂転化が約40倍(40-fold)に増えると予測し、メタノールと一酸化炭素を主生成物として正しく特定した。"
               },
               {
                 "t": "p",
-                "x": "較正された指標では、scGPTやGEARSなど従来のモデルが情報のないベースラインをしばしば上回り、PRESAGEとscLambdaはさらに高い性能を示した。Norman19(遺伝子の組み合わせの0.63%をカバー)では加法ベースラインを超えるのが難しかったが、Wessels23(10.3%)では複数のモデルがそれを上回った。"
-              },
-              {
-                "t": "p",
-                "x": "Cambridge, U.K.(英国ケンブリッジ)に拠点を置くShift Bioscienceは、この枠組みを若返りや加齢関連疾患に関わる標的のスクリーニングに応用する計画で、まず線維症に注力する。"
+                "x": "また、水素が分子状のH₂のまま中間体へ直接移り得ることも明らかになった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "虚拟细胞模型\n迎来校准框架",
-          "body": "均方误差等指标常误判AI虚拟细胞模型，作者因此提出了一套校准框架。",
-          "mini_headline": "校准AI虚拟细胞",
+          "headline": "机器学习描绘\nCO2如何变成甲醇",
+          "body": "IISc研究人员用机器学习绘制了铜表面近10,000个将CO2转化为甲醇的反应。",
+          "mini_headline": "ML绘制CO2-to-methanol路径",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "描绘CO₂加氢制甲醇的铜催化剂表面。Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "发表于Nature Biotechnology的论文“Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”提出了一种阳性对照基线，以及一套检验常用指标能否区分有意义的模型预测与信息量较少的预测的框架。"
+                "x": "CO₂加氢在催化剂表面涉及数千个微小步骤，因此建模者传统上只挑选少数可能的反应，这意味着可能漏掉数百个重要反应。"
               },
               {
                 "t": "p",
-                "x": "遗传扰动模型是AI虚拟细胞的一个分支，用于预测激活或抑制基因会如何改变细胞的转录组。近期研究发现，复杂的深度学习系统往往无法超越简单的基线。"
+                "x": "Indian Institute of Science的研究人员在Nature Communications上报告，他们基于quantum-mechanical（量子力学）模拟构建了包含152个反应的数据库，训练机器学习模型预测活化能垒，并借助自动化工具将铜上的反应网络扩展到9,389个基元反应。"
               },
               {
                 "t": "p",
-                "x": "团队构建了“interpolated duplicate”(插值复制)阳性对照，以及衡量指标区分它与阴性对照能力的动态范围分数(DRF)。在14个数据集和18个指标中，均方误差和以对照为参照的Pearson相关性往往校准不佳；WMSE、加权RΔ2和NIR等加权和基于排序的指标表现更好。"
+                "x": "“当我们用最初考虑的152个反应为该过程建模时，网络错误地把甲酸而非甲醇预测为主要产物，”Ananth Govind Rajan说。扩展后的网络预测CO₂转化率提高约40倍（40-fold），并正确识别出甲醇和一氧化碳为主要产物。"
               },
               {
                 "t": "p",
-                "x": "在经过校准的指标上，scGPT和GEARS等早期模型常常超过无信息基线，PRESAGE和scLambda表现更强。在Norman19(覆盖0.63%的基因组合)中，加性基线仍难以超越；在Wessels23(10.3%)中，多个模型超过了它。"
-              },
-              {
-                "t": "p",
-                "x": "总部位于Cambridge, U.K.(英国剑桥)的Shift Bioscience计划将该框架用于筛选与返老还童及衰老相关疾病有关的靶点，初期聚焦纤维化。"
+                "x": "研究还揭示，氢可以直接以分子H₂的形式转移到中间体上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los modelos de célula virtual\nganan un marco de calibración",
-          "body": "Métricas como el error cuadrático medio suelen juzgar mal los modelos AI de célula virtual; se propone calibrarlas.",
-          "mini_headline": "Calibrar las células virtuales de AI",
+          "headline": "El aprendizaje automático mapea\ncómo el CO2 se vuelve metanol",
+          "body": "Un equipo del IISc mapeó con aprendizaje automático casi 10,000 reacciones que convierten CO2 en metanol sobre cobre.",
+          "mini_headline": "El ML traza las rutas CO2-to-methanol",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "Superficie de un catalizador de cobre que muestra la hidrogenación de CO₂ a metanol. Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Publicado en Nature Biotechnology, el artículo “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” presenta una línea base de control positivo y un marco para comprobar si las métricas habituales distinguen las predicciones significativas de un modelo de las menos informativas."
+                "x": "La hidrogenación de CO₂ implica miles de pequeños pasos en la superficie de un catalizador, por lo que tradicionalmente los modeladores eligen un número reducido de reacciones probables, lo que significa que pueden pasarse por alto cientos de reacciones importantes."
               },
               {
                 "t": "p",
-                "x": "Los modelos de perturbación genética, un subconjunto de las células virtuales de AI, predicen cómo la activación o la inhibición de genes altera el transcriptoma de una célula. Estudios recientes hallaron que sistemas sofisticados de aprendizaje profundo a menudo no superaban líneas base simples."
+                "x": "Investigadores del Indian Institute of Science, en un trabajo publicado en Nature Communications, crearon una base de datos de 152 reacciones a partir de simulaciones quantum-mechanical, entrenaron modelos de aprendizaje automático para predecir barreras de energía de activación y usaron herramientas automatizadas para ampliar la red a 9,389 reacciones elementales sobre cobre."
               },
               {
                 "t": "p",
-                "x": "El equipo creó un control positivo de “duplicado interpolado” (interpolated duplicate) y la fracción de rango dinámico (DRF), que mide lo bien que una métrica lo separa de un control negativo. En 14 conjuntos de datos y 18 métricas, el error cuadrático medio y la correlación de Pearson referida al control a menudo estaban mal calibrados; las métricas ponderadas y basadas en rangos, como WMSE, RΔ2 ponderado y NIR, funcionaron mejor."
+                "x": "“Cuando modelamos el proceso con las 152 reacciones consideradas al principio, la red predijo erróneamente el ácido fórmico, y no el metanol, como producto principal”, afirma Ananth Govind Rajan. La red ampliada predijo un aumento de unas 40 veces (40-fold) en la conversión de CO₂ e identificó correctamente el metanol y el monóxido de carbono como productos principales."
               },
               {
                 "t": "p",
-                "x": "Con métricas calibradas, modelos anteriores como scGPT y GEARS superaron a menudo las líneas base no informativas, y PRESAGE y scLambda rindieron aún mejor. En Norman19 (0.63% de las combinaciones de genes cubiertas) una línea base aditiva siguió siendo difícil de superar; en Wessels23 (10.3%) varios modelos la superaron."
-              },
-              {
-                "t": "p",
-                "x": "Shift Bioscience, con sede en Cambridge, U.K., planea aplicar el marco a cribados de dianas relevantes para el rejuvenecimiento y las enfermedades asociadas a la edad, centrándose inicialmente en la fibrosis."
+                "x": "También reveló que el hidrógeno puede transferirse directamente a los intermedios como H₂ molecular."
               }
             ]
           }
@@ -1685,137 +1632,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "가상세포 모델에\n보정 프레임워크",
-          "body": "평균제곱오차 등의 지표가 AI 가상세포 모델을 자주 오판해 보정 틀이 나왔다.",
-          "mini_headline": "AI 가상세포 보정",
+          "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
+          "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
+          "mini_headline": "ML로 그린 CO2-to-methanol 경로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Nature Biotechnology에 실린 논문 “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”는 양성 대조 기준선과 함께, 흔히 쓰는 지표가 의미 있는 모델 예측과 정보가 적은 예측을 구별할 수 있는지 검증하는 프레임워크를 제시한다."
+                "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 전통적으로 일어날 법한 반응 몇 개만 골라 왔고, 이 때문에 중요한 반응 수백 개를 놓칠 수 있었다."
               },
               {
                 "t": "p",
-                "x": "AI 가상세포의 한 갈래인 유전자 교란 모델은 유전자를 활성화하거나 억제할 때 세포의 전사체가 어떻게 바뀌는지 예측한다. 최근 연구들은 정교한 딥러닝 시스템이 단순한 기준선을 넘지 못하는 경우가 많다는 사실을 확인했다."
+                "x": "Indian Institute of Science 연구진은 Nature Communications에 발표한 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개의 데이터베이스를 구축하고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개로 넓혔다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 ‘보간 복제(interpolated duplicate)’ 양성 대조군과, 지표가 이를 음성 대조군과 얼마나 잘 구분하는지 측정하는 동적 범위 비율(DRF)을 만들었다. 14개 데이터셋과 18개 지표에 걸쳐 평균제곱오차와 대조군 기준 Pearson 상관은 보정이 미흡한 경우가 많았고, WMSE, 가중 RΔ2, NIR 같은 가중·순위 기반 지표가 더 나았다."
+                "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 메탄올과 일산화탄소를 주생성물로 정확히 짚어냈다."
               },
               {
                 "t": "p",
-                "x": "보정된 지표에서는 scGPT, GEARS 등 이전 모델이 정보 없는 기준선을 자주 넘어섰고, PRESAGE와 scLambda는 더 강한 성능을 보였다. Norman19(유전자 조합의 0.63% 포괄)에서는 가산 기준선을 넘기 어려웠지만, Wessels23(10.3%)에서는 여러 모델이 이를 앞섰다."
-              },
-              {
-                "t": "p",
-                "x": "Cambridge, U.K.(영국 케임브리지)에 있는 Shift Bioscience는 이 프레임워크를 회춘 및 노화 관련 질환 표적 스크리닝에 적용할 계획이며, 우선 섬유화에 집중한다."
+                "x": "또 수소가 분자 상태의 H₂로 중간체에 직접 옮겨갈 수 있다는 사실도 드러났다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仮想細胞モデルに\n較正の枠組み",
-          "body": "平均二乗誤差などの指標はAI仮想細胞モデルを誤評価しがちで、較正の枠組みが提案された。",
-          "mini_headline": "AI仮想細胞の較正",
+          "headline": "機械学習が描く\nCO2がメタノールになる道",
+          "body": "IISc研究陣は機械学習で銅表面でCO2がメタノールになる反応約10,000件を描いた。",
+          "mini_headline": "MLでCO2-to-methanolの経路を描く",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "CO₂の水素化によるメタノール生成を描いた銅触媒の表面。Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Nature Biotechnologyに掲載された論文「Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics」は、陽性対照ベースラインと、一般的な指標が意味のあるモデル予測と情報量の少ない予測を区別できるかを検証する枠組みを提示している。"
+                "x": "CO₂の水素化では触媒表面で何千もの微小なステップが進むため、モデル研究者は従来、起こりそうな反応を少数だけ選んできた。そのため、重要な反応が何百も見落とされている可能性がある。"
               },
               {
                 "t": "p",
-                "x": "AI仮想細胞の一種である遺伝子摂動モデルは、遺伝子の活性化や阻害によって細胞のトランスクリプトームがどう変わるかを予測する。最近の研究では、高度な深層学習システムが単純なベースラインを上回れないことが多いと分かっていた。"
+                "x": "Nature Communicationsで報告したIndian Institute of Scienceの研究者らは、量子力学的(quantum-mechanical)シミュレーションから152反応のデータベースを構築し、活性化エネルギー障壁を予測する機械学習モデルを訓練した。さらに自動化ツールを使い、銅上の反応ネットワークを9,389の素反応へと拡張した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは「interpolated duplicate(補間複製)」という陽性対照と、指標がそれを陰性対照とどれだけ区別できるかを測るダイナミックレンジ比(DRF)を構築した。14のデータセットと18の指標で調べると、平均二乗誤差や対照基準のPearson相関は較正が不十分なことが多く、WMSE、重み付きRΔ2、NIRなどの重み付き・順位ベースの指標の方が優れていた。"
+                "x": "「当初検討した152の反応でプロセスをモデル化したところ、ネットワークは主生成物をメタノールではなくギ酸と誤って予測した」とAnanth Govind Rajanは語る。拡張したネットワークはCO₂転化が約40倍(40-fold)に増えると予測し、メタノールと一酸化炭素を主生成物として正しく特定した。"
               },
               {
                 "t": "p",
-                "x": "較正された指標では、scGPTやGEARSなど従来のモデルが情報のないベースラインをしばしば上回り、PRESAGEとscLambdaはさらに高い性能を示した。Norman19(遺伝子の組み合わせの0.63%をカバー)では加法ベースラインを超えるのが難しかったが、Wessels23(10.3%)では複数のモデルがそれを上回った。"
-              },
-              {
-                "t": "p",
-                "x": "Cambridge, U.K.(英国ケンブリッジ)に拠点を置くShift Bioscienceは、この枠組みを若返りや加齢関連疾患に関わる標的のスクリーニングに応用する計画で、まず線維症に注力する。"
+                "x": "また、水素が分子状のH₂のまま中間体へ直接移り得ることも明らかになった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "虚拟细胞模型\n迎来校准框架",
-          "body": "均方误差等指标常误判AI虚拟细胞模型，作者因此提出了一套校准框架。",
-          "mini_headline": "校准AI虚拟细胞",
+          "headline": "机器学习描绘\nCO2如何变成甲醇",
+          "body": "IISc研究人员用机器学习绘制了铜表面近10,000个将CO2转化为甲醇的反应。",
+          "mini_headline": "ML绘制CO2-to-methanol路径",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "描绘CO₂加氢制甲醇的铜催化剂表面。Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "发表于Nature Biotechnology的论文“Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics”提出了一种阳性对照基线，以及一套检验常用指标能否区分有意义的模型预测与信息量较少的预测的框架。"
+                "x": "CO₂加氢在催化剂表面涉及数千个微小步骤，因此建模者传统上只挑选少数可能的反应，这意味着可能漏掉数百个重要反应。"
               },
               {
                 "t": "p",
-                "x": "遗传扰动模型是AI虚拟细胞的一个分支，用于预测激活或抑制基因会如何改变细胞的转录组。近期研究发现，复杂的深度学习系统往往无法超越简单的基线。"
+                "x": "Indian Institute of Science的研究人员在Nature Communications上报告，他们基于quantum-mechanical（量子力学）模拟构建了包含152个反应的数据库，训练机器学习模型预测活化能垒，并借助自动化工具将铜上的反应网络扩展到9,389个基元反应。"
               },
               {
                 "t": "p",
-                "x": "团队构建了“interpolated duplicate”(插值复制)阳性对照，以及衡量指标区分它与阴性对照能力的动态范围分数(DRF)。在14个数据集和18个指标中，均方误差和以对照为参照的Pearson相关性往往校准不佳；WMSE、加权RΔ2和NIR等加权和基于排序的指标表现更好。"
+                "x": "“当我们用最初考虑的152个反应为该过程建模时，网络错误地把甲酸而非甲醇预测为主要产物，”Ananth Govind Rajan说。扩展后的网络预测CO₂转化率提高约40倍（40-fold），并正确识别出甲醇和一氧化碳为主要产物。"
               },
               {
                 "t": "p",
-                "x": "在经过校准的指标上，scGPT和GEARS等早期模型常常超过无信息基线，PRESAGE和scLambda表现更强。在Norman19(覆盖0.63%的基因组合)中，加性基线仍难以超越；在Wessels23(10.3%)中，多个模型超过了它。"
-              },
-              {
-                "t": "p",
-                "x": "总部位于Cambridge, U.K.(英国剑桥)的Shift Bioscience计划将该框架用于筛选与返老还童及衰老相关疾病有关的靶点，初期聚焦纤维化。"
+                "x": "研究还揭示，氢可以直接以分子H₂的形式转移到中间体上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los modelos de célula virtual\nganan un marco de calibración",
-          "body": "Métricas como el error cuadrático medio suelen juzgar mal los modelos AI de célula virtual; se propone calibrarlas.",
-          "mini_headline": "Calibrar las células virtuales de AI",
+          "headline": "El aprendizaje automático mapea\ncómo el CO2 se vuelve metanol",
+          "body": "Un equipo del IISc mapeó con aprendizaje automático casi 10,000 reacciones que convierten CO2 en metanol sobre cobre.",
+          "mini_headline": "El ML traza las rutas CO2-to-methanol",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.genengnews.com/wp-content/uploads/2026/08/Getty_2257382308_CellInterior-e1791306952785.jpg"
+                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+                "cap": "Superficie de un catalizador de cobre que muestra la hidrogenación de CO₂ a metanol. Credit: Shivam Chaturvedi"
               },
               {
                 "t": "p",
-                "x": "Publicado en Nature Biotechnology, el artículo “Deep Learning Perturbation Models Can Outperform Baselines on Calibrated Metrics” presenta una línea base de control positivo y un marco para comprobar si las métricas habituales distinguen las predicciones significativas de un modelo de las menos informativas."
+                "x": "La hidrogenación de CO₂ implica miles de pequeños pasos en la superficie de un catalizador, por lo que tradicionalmente los modeladores eligen un número reducido de reacciones probables, lo que significa que pueden pasarse por alto cientos de reacciones importantes."
               },
               {
                 "t": "p",
-                "x": "Los modelos de perturbación genética, un subconjunto de las células virtuales de AI, predicen cómo la activación o la inhibición de genes altera el transcriptoma de una célula. Estudios recientes hallaron que sistemas sofisticados de aprendizaje profundo a menudo no superaban líneas base simples."
+                "x": "Investigadores del Indian Institute of Science, en un trabajo publicado en Nature Communications, crearon una base de datos de 152 reacciones a partir de simulaciones quantum-mechanical, entrenaron modelos de aprendizaje automático para predecir barreras de energía de activación y usaron herramientas automatizadas para ampliar la red a 9,389 reacciones elementales sobre cobre."
               },
               {
                 "t": "p",
-                "x": "El equipo creó un control positivo de “duplicado interpolado” (interpolated duplicate) y la fracción de rango dinámico (DRF), que mide lo bien que una métrica lo separa de un control negativo. En 14 conjuntos de datos y 18 métricas, el error cuadrático medio y la correlación de Pearson referida al control a menudo estaban mal calibrados; las métricas ponderadas y basadas en rangos, como WMSE, RΔ2 ponderado y NIR, funcionaron mejor."
+                "x": "“Cuando modelamos el proceso con las 152 reacciones consideradas al principio, la red predijo erróneamente el ácido fórmico, y no el metanol, como producto principal”, afirma Ananth Govind Rajan. La red ampliada predijo un aumento de unas 40 veces (40-fold) en la conversión de CO₂ e identificó correctamente el metanol y el monóxido de carbono como productos principales."
               },
               {
                 "t": "p",
-                "x": "Con métricas calibradas, modelos anteriores como scGPT y GEARS superaron a menudo las líneas base no informativas, y PRESAGE y scLambda rindieron aún mejor. En Norman19 (0.63% de las combinaciones de genes cubiertas) una línea base aditiva siguió siendo difícil de superar; en Wessels23 (10.3%) varios modelos la superaron."
-              },
-              {
-                "t": "p",
-                "x": "Shift Bioscience, con sede en Cambridge, U.K., planea aplicar el marco a cribados de dianas relevantes para el rejuvenecimiento y las enfermedades asociadas a la edad, centrándose inicialmente en la fibrosis."
+                "x": "También reveló que el hidrógeno puede transferirse directamente a los intermedios como H₂ molecular."
               }
             ]
           }

@@ -6541,6 +6541,128 @@
           "x": "Core の米国価格は $3,499 だ。初回分は発売初日に完売し、今月末に出荷される。AI 向け最上位構成の Mac mini は $3,199 だが、Core の専用ローカル AI（local-AI）ソフトウェアやプライバシー機能は備えていない。"
         }
       ]
+    },
+    "gadgets/gadgets-natura-ring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "AIとハードウェアのスタートアップNaturaが、AIエージェントの時代に向けて設計した$99の新しいスマートリングInterfaceだ。指で押すだけで、スマートフォンに手を伸ばさずにAIエージェントにタスクを頼み、考えを書き留め、用事を片付けられる。さらにヘルストラッカーとしても機能する。"
+        },
+        {
+          "t": "p",
+          "x": "発売時点でMetaのMuse、Instinct、Grok Bot、Claude、ChatGPTなどのエージェントやアプリと連携し、どのタスクをどのエージェントに任せるかをユーザーが選べる。応答はヘッドホン、iPhone Live Activity、NatureOSアプリで受け取る。予約注文は来月始まり、出荷は12月か1月の予定だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+        },
+        {
+          "t": "p",
+          "x": "創業者のCarlo Edoardo Ferrarisは「最終的に、ユーザーとテクノロジーをつなぐ主なインターフェースはリングになる」と語った。Naturaは三〜六か月の無料期間の後、月額$9のサブスクリプションを導入する計画だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+        },
+        {
+          "t": "p",
+          "x": "リングは心拍数、HRV、睡眠段階、歩数、皮膚温度を記録し、一度の充電で六〜12日持つ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-apple-home-event": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Appleは「Welcome home」という言葉で予告した今秋二度目のイベントを、10月13日9AM ET にニューヨークのTribecaで開くと発表した。Apple TVとHomePod miniの刷新版に加え、待望のHomePadを発表するとされる。"
+        },
+        {
+          "t": "p",
+          "x": "AppleがAmazonのEcho Showに対抗するスマートディスプレイを開発中だという噂は以前からあった。BloombergのMark Gurmanは、AppleがSiri AIの準備が整うまでこの製品を延期したと報じている。"
+        },
+        {
+          "t": "p",
+          "x": "HomePadは七インチのディスプレイ、homeOSと呼ばれる新OS、StandBy-likeなダッシュボードを備えるとされる。顔と声の認識で使う人ごとにコンテンツを最適化し、スマートホーム操作、FaceTime、ストリーミング、インターホン機能も担うと噂されている。"
+        },
+        {
+          "t": "p",
+          "x": "新しいApple TVとHomePod miniは、Siri AIに対応するため仕様が強化される見込みだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nvidia-physical-ai-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
+          "cap": "Agility RoboticsのヒューマノイドロボットDigitは、NvidiaのHalosシステムで人のそばでも安全に作業する。出典：Agility Robotics"
+        },
+        {
+          "t": "p",
+          "x": "NvidiaのHalosシステムは、開発者が自動運転車にガードレールを実装するのを支援するため2025年に登場した。同社は2026年6月、倉庫ロボット、工場のヒューマノイド、さらには手術ロボットまでを対象とするHalos for Roboticsで適用範囲を広げた。NvidiaのAmit Goelは「次のボトルネックになると考えたのは安全だ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "フルスタックは、独立した安全プロセッサを備えるIGX Thorモジュール、「すべてのハードウェアブロック」と「すべてのソフトウェアライブラリ」を監視するHalos OS、Holoscan Sensor Bridge、シミュレーション、検査ラボプログラムで構成される。ロボット掃除機と倉庫のフォークリフトでは安全の定義が異なるため、開発者は独自の安全機能をプログラムできる。"
+        },
+        {
+          "t": "p",
+          "x": "Agility Roboticsは初めてHalosをヒューマノイドDigit 5に搭載し、外部センサーなしで人の近くで働けるようにした。「今やロボットは文字どおり鎖から解き放たれた」とGoelは言う。Boston Dynamics、KION Group、LGも参加している。"
+        }
+      ]
+    },
+    "gadgets/gadgets-cybopal-monitor-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
+          "cap": "画像提供：Cybopal/Kickstarter"
+        },
+        {
+          "t": "p",
+          "x": "Kickstarterで資金を集めたCyboPal ONEは、27インチ・4K・160Hzのディスプレイを、机に固定する六軸ロボットアームに取り付けた製品だ。ユーザーの位置を見守り、それに合わせて画面を動かす。Super Early Bird価格は$1,599で、予定小売価格は$2,499だ。"
+        },
+        {
+          "t": "p",
+          "x": "独自のコンピューターも内蔵する。「Linux AI Compute Base」には6 TOPS NPU付きの八コアRockchip RK3588、8GBのRAM、128GBのストレージが収められ、顔追跡、ジェスチャー認識、3D 空間センシングをデバイス上で処理する。両眼式の3D センサーが障害物回避と経路計画を担い、顔追跡により四秒未満で画面の位置を調整する。"
+        },
+        {
+          "t": "p",
+          "x": "音声エージェントPauliはデスクトップクライアントで動作し、実際の計算処理には引き続きノートパソコンかデスクトップが必要だ。2026年11月21日に終了するキャンペーンは目標額HK$80,000の11,000%超に達しているが、TechRadarは、支援者が独立した検証を経ていないソフトウェアに賭けていると指摘する。"
+        }
+      ]
+    },
+    "gadgets/gadgets-surface-laptop-ultra-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaは6月、Microsoftをはじめとする PC メーカーと、自社の RTX Spark チップを基盤にした AI・エージェント対応(AI- and agent-ready)の Windows PCs を開発する契約を結んだと発表していた。水曜日、Tech Week 期間中に San Francisco で開かれたイベントで、Microsoft は新しい Surface Laptop Ultra の仕様と価格を明らかにした。ベースモデルは2種類で、$2,600 と $3,700 から始まり、オプションを加えると最大 $5,900 になる。(Microsoft によれば、最上位モデルはすでに在庫切れだという。)"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft はワークステーション Surface RTX Spark Dev Box も発表した。価格は $6,000 からで、VS Code、GitHub Copilot CLI、WSL、PowerShell 7 が付属する。どちらも AI モデルをデバイス上でローカルに(しかも無料で)動かすよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "両機は刷新された Windows 11 で動作し、AI エージェントをサンドボックス化しやすくする「Execution Containers」という機能を備える。CEO Satya Nadella は、この機能をすべての Windows 11 ユーザーに提供すると述べた。「複数のモデルに加え、コンテキスト、メモリ、そして行動空間を受け止められる、制御されたレイヤーが必要だ」と彼は語った。"
+        },
+        {
+          "t": "p",
+          "x": "これらのデバイスが開発者を狙っているのは明らかだ。Microsoft は MacBook Pro を下取りに出す人に最大 $1,000 を割り引く。Dell も $3,800 の Nvidia-RTX Spark XPS 16 Creator Edition の詳細を明らかにした。"
+        }
+      ]
     }
   }
 }

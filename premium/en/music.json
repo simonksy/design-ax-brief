@@ -6556,6 +6556,128 @@
           "x": "The authority will open a public consultation on the terms over the next few weeks. Its fines for unfair contract terms range between €5,000 and €10 million. MBW has reached out to Suno for comment."
         }
       ]
+    },
+    "music/music-base-for-music": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google for Startups will host its Gemini Startup Forum, run with Google DeepMind and Google Cloud, at its Mountain View headquarters next month. More than 100 startups from 17 countries were selected from over 2,000 applications."
+        },
+        {
+          "t": "p",
+          "x": "One of them is French music marketing company Base for Music, which says it is the only music tech company in the cohort. It sells a marketing operating system that pulls ad spend, audience, CRM and streaming data into one environment to track the return on each marketing investment. Founded in 2021, it raised €1.5 million (USD $1.73m) in June 2025 and supports more than 20,000 artists and labels."
+        },
+        {
+          "t": "p",
+          "x": "The company built its own AI, Base Intelligence, over the past year as part of the Google for Startups program in France, and claims it can now predict marketing ROI before a campaign launches. It cites Brazilian artist Tom Ribeira, who went from zero to over 200,000 monthly Spotify listeners in under six months “on a €1,000 investment that became profitable within three months.”"
+        },
+        {
+          "t": "p",
+          "x": "For now, CEO Maxence Bazin says, its ROI predictions rely on industry averages: “The main piece missing today [for us] is clear, structured financial data tied to streaming revenues.”"
+        }
+      ]
+    },
+    "music/music-riaa-nofakes": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eCLR1kMf4H8"
+        },
+        {
+          "t": "p",
+          "x": "On Billboard On the Record, RIAA chairman/CEO Mitch Glazier discussed the midterms, the Trump administration and AI. His biggest push is the NO FAKES Act, a bill guarding against unauthorized deepfakes, now backed by supporters ranging from Google and OpenAI to SAG-AFTRA and the Motion Picture Association."
+        },
+        {
+          "t": "p",
+          "x": "Last week Sen. Marsha Blackburn took the bill to the Senate floor; it received nearly universal support but was blocked by Sen. Ted Cruz over exceptions for satire and political commentary. Glazier says it has “a real shot” at unanimous consent in the lame duck period, though more likely it will be reintroduced in 2027."
+        },
+        {
+          "t": "p",
+          "x": "Asked whether generative AI is music’s next Napster moment, Glazier said, “I think it’s the opposite.” With Napster the industry was fighting fans; with AI, “the fans, the people, they’re with us,” wary of AI replacing the human element — polling numbers, he said, are “like, 92%.”"
+        },
+        {
+          "t": "p",
+          "x": "He described the bill’s definition of a digital replica as “a highly realistic, computer-generated replica of your voice or your likeness” used without consent: “It is really about AI cloning.”"
+        }
+      ]
+    },
+    "music/music-human-disclosure": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a Hypebot op-ed, Rap Fame’s Head of Content and Community John Lister argues hip-hop has always embraced new tech, from drum machines to Auto-Tune. But unlike those tools, AI can make the human contribution optional — so the key question becomes who actually made a track."
+        },
+        {
+          "t": "p",
+          "x": "He notes a University of Chicago study found 93% of AI-generated tracks it examined got few, if any, plays, and points to Tyga’s $TARFACE album, made partly with AI, which Pitchfork rated 0.0."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+        },
+        {
+          "t": "p",
+          "x": "Using AI to brainstorm, extend a melody or clean a vocal doesn’t make music meaningless, he writes. What listeners want is disclosure: if a human wrote it, say so; if a human and AI made it together, say so; if a machine made the whole thing, say so. “The problem comes when people pretend these three things are the same.”"
+        }
+      ]
+    },
+    "music/music-kpop-ai-conductors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
+          "cap": "This image was created using AI technology. Photo=IS Photo"
+        },
+        {
+          "t": "p",
+          "x": "Ilgan Sports' special series [K-pop and the AI Revolution] examined three pillars of K-pop production over 9 installments: songwriting and the studio, virtual idols and fandom, and music video production. The reality on the ground was far from simple fear of, or enthusiasm for, the technology."
+        },
+        {
+          "t": "p",
+          "x": "Even as the Korea Music Copyright Association announced AI music registration guidelines and scrapped them 22 days later, and studios kept 'ghost assistants' who cannot be credited, the field had already fully embraced AI. In the studio of Kim Won-jong, a producer of 27 years, AI has replaced the songwriting camp, from first drafts to lyrics, arrangement and mixing, cutting production costs to about 1/1000. Music video set and VFX costs running to hundreds of millions of won (수억 원) have fallen to about 1/10 by combining AI with stereoscopic filming."
+        },
+        {
+          "t": "p",
+          "x": "The creator's role is being redefined too. While AI produces large volumes of source material and drafts, composers and directors are evolving into conductors who coordinate the overall concept and control the technology. Director Noh Ji-hoon said “it is a misconception that it is done with the push of one button,” noting that picking out the shot you want ultimately comes down to the creator's eye and taste. But there is a side effect: the ladder newcomers use to gain experience is being shaken."
+        },
+        {
+          "t": "p",
+          "x": "The more advanced the technology becomes, the more fans look for uniquely human experience and connection, the 'human touch.' The industry's key question is not 'what to replace with AI' but 'how to discover and nurture what technology cannot replace.'"
+        }
+      ]
+    },
+    "music/music-copyright-office-fraud-inquiry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2026/10/2214736576-e1791398223131.jpg?w=1024",
+          "cap": "The Library of Congress, which houses the U.S. Copyright Office, is seen on May 12, 2025 in Washington, DC."
+        },
+        {
+          "t": "p",
+          "x": "The U.S. Copyright Office has launched an investigation into one of the music industry’s biggest problems: streaming fraud. In a Wednesday (Oct. 7) notice in the Federal Register, it said it is soliciting data and suggestions that “may contribute to Congress’s understanding of streaming fraud, current efforts to curb this problem and potential solutions.” Public comments are due Nov. 23."
+        },
+        {
+          "t": "p",
+          "x": "The inquiry responds to a May letter from Rep. Scott Fitzgerald (R-Wis.), who said the office should examine the ways “generative AI can serve as a catalyst for criminals to perpetrate streaming fraud.”"
+        },
+        {
+          "t": "p",
+          "x": "Since DSPs divvy up royalties out of a fixed pool, fake plays siphon off money from real streams. AI music generators now let bad actors churn out huge amounts of songs (Deezer found up to 85% of streams on fully AI-generated tracks in 2025 were fraudulent), and agentic AI has scaled bot farms."
+        },
+        {
+          "t": "p",
+          "x": "The notice asks which schemes are most prevalent, how significant the economic impacts are, how AI has contributed, and whether a solution should come from Congressional legislation. It comes a day after Michael Smith was sentenced in the first-ever U.S. streaming fraud prosecution, having earned more than $8 million in fraudulent royalties."
+        }
+      ]
     }
   }
 }

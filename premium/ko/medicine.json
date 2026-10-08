@@ -195,6 +195,115 @@
           "x": "이 병원은 2023년부터 시스템을 사용해 3년간 약 200,000건의 유방 검사를 뒷받침했으며, 이번 도입은 이 업체가 Dalarna County에 이어 스웨덴에서 두 번째로 진행하는 광역 단위 확대다. 이 소식은 Berlin에 본사를 둔 기업이 정상 유방 촬영 영상에 대해 영상의학과 의사의 검토를 완전히 건너뛰는 유방 분류 도구로 세계 최초 승인을 받았다고 발표한 데 뒤이어 나왔다."
         }
       ]
+    },
+    "medicine/medicine-suki-ask-uptodate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA"
+        },
+        {
+          "t": "p",
+          "x": "Suki가 Ask를 출시했다. 의료진이 Suki for Clinicians 앱 안에서 Wolters Kluwer의 UpToDate Expert AI API로 복잡한 임상 질문을 바로 던질 수 있는 도구다. 답변은 7,600명이 넘는 의사 저자·편집자·동료 심사자가 만든 UpToDate 고유 콘텐츠에서 나온다. 이 API를 제품에 통합한 첫 사례다."
+        },
+        {
+          "t": "p",
+          "x": "응답에는 출처가 투명하게 표시되고 약물·용량 고려 사항과 근거 콘텐츠 링크도 붙는다. Suki 최고제품책임자 Abhi Pathak은 “진단, 용량, 안전 고려 사항 등 다양한 질의에서 의료진은 83%의 경우 환자별 인사이트를 선택했다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Ask는 Epic, Oracle Health, athenahealth, Meditech EHR 시스템에서 쓸 수 있다. Suki는 8월 말에 Epic과 Meditech EHRs 안에 네이티브로 구축한 Suki Dictation도 내놓았다."
+        }
+      ]
+    },
+    "medicine/medicine-ai-depression-warning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.docdocdoc.co.kr/news/photo/202610/3043448_3047276_452.jpg"
+        },
+        {
+          "t": "p",
+          "x": "보건복지부와 대한신경정신의학회는 오는 10일 정신건강의 날을 맞아 8일 ‘정신건강 목적 생성형 AI 이용 가이드라인’을 발표했다. AI 답변을 의학적 판단으로 받아들이지 말고 정신건강 위기 상황에서는 전문가 도움을 받으라는 당부다."
+        },
+        {
+          "t": "p",
+          "x": "모든 이용자를 위한 가이드라인은 3가지 핵심 메시지와 21개 권고문을 담았다. 이용 전 서비스의 목적과 근거, 개인정보 처리방식을 확인하고, ‘내 상태에 대한 AI의 말을 결론으로 삼지 마세요’, ‘AI와 거리를 두고, 사람에게 이야기해 주세요’라고 권고했다. 아동·청소년과 보호자에게는 각각 7개 권고사항을 제시했다."
+        },
+        {
+          "t": "p",
+          "x": "한국보건사회연구원 조사(1,019명)에서 응답자의 68.8%가 정서적 목적으로 생성형 AI를 이용했고, AI의 판단을 의학적 진단으로 받아들이거나 이를 근거로 스스로 정신질환을 진단한 경험은 14.6%였다. 15~18세 청소년의 51.7%는 스스로 AI에 의존적인 편이라고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "대한신경정신의학회 최준호 이사장은 “AI는 전문적인 평가와 치료를 대신할 수는 없는 만큼 필요한 경우 의료진의 도움을 적기에 받는 것이 중요하다”고 강조했다."
+        }
+      ]
+    },
+    "medicine/medicine-epilepsy-llm-ehr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "뇌전증과 심인성 비뇌전증 발작은 발작 양상이 비슷할 때가 많지만 관리 전략은 근본부터 다르다. 오진이 흔하고, 오진은 긴 진단 지연과 불필요한 치료, 상당한 환자 이환으로 이어지기도 한다. 진단 표준은 장시간 비디오 뇌파 검사지만 비용이 높고 받기도 어려워 제때 진단하기가 쉽지 않다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03346-2/MediaObjects/41746_2026_3346_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "연구진이 개발한 EpiScreen은 전자건강기록에 늘 쌓이는 임상 메모로 뇌전증을 일찍 찾아내는 저비용·고효율 방법이다. 라벨을 붙인 메모로 대규모 언어 모델을 미세조정하자 EpiScreen의 AUC는 MIMIC-IV 데이터셋에서 최대 0.875, University of Minnesota(미네소타대학교) 비공개 코호트에서 0.980까지 올라갔다. 의료진-AI 협업(clinician-AI) 환경에서는 EpiScreen 지원(EpiScreen-assisted)을 받은 신경과 의사의 성과가 단독 전문가보다 최대 14.3% 좋았다."
+        },
+        {
+          "t": "p",
+          "x": "종합하면 이 연구는 EpiScreen이 뇌전증 조기 발견을 돕는다는 점을 보여준다. 시의적절하고 비용 효율적인 선별 검사가 가능해지면 특히 자원이 부족한 지역에서 진단 지연을 줄이고 불필요한 개입을 피할 수 있다."
+        }
+      ]
+    },
+    "medicine/medicine-clinicalgpt-med-safety": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "실시간 투약 안전 감사에는 최신 검사 기록과 투약 이력이 필요하다. 그런데 여러 병원의 EHRs에는 결정적 근거가 오래됐거나 빠져 있기도 하다. 연구진은 Clinical Trajectory Language로 시간, 단위, 출처, 관측 가능성을 표현하는 감사용 파운데이션 모델 ClinicalGPT를 제시했다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03243-8/MediaObjects/41746_2026_3243_Fig1_HTML.png"
+        },
+        {
+          "t": "p",
+          "x": "연구진은 일곱 개 의료 시스템의 해당 고위험 투약 처방 847,000건을 후향적으로 평가했다. 처방 1000건당 누락은 강한 제약을 건 ClinicalGPT가 3.2건이었다. 규칙만 쓴 방식은 9.4건, 원래의 범용 LLM 비교군은 6.1건, 가장 강한 LLM 비교군(RAG + LLM + rules)은 4.8건이었다. 오경보율도 33.9로 규칙만 쓴 방식의 38.7보다 낮았다."
+        },
+        {
+          "t": "p",
+          "x": "다만 이 오프라인 지표로는 임상 조치나 약물 이상 사례, 환자 위해를 재지 않았다. 처방 시점 감사 성능에서 앞선다는 근거는 되지만 임상적 효과나 환자 위해 감소까지 입증하지는 않는다."
+        }
+      ]
+    },
+    "medicine/medicine-fda-pediatric-bone-age-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/top_stories/public/2025-05/pediatric_mri.jpg.webp?itok=rmkpzjSB",
+          "cap": "사진: Lerner Children’s Pavilion at Hospital for Special Surgery"
+        },
+        {
+          "t": "p",
+          "x": "U.S. 식품의약국이 소아 골연령 평가를 개선할 AI 소프트웨어를 허가했다. 이번에 510(k) 허가를 받은 제품은 Visiana의 BoneXpert다. Greulich-Pyle 방법으로 2~21세 환자의 골연령을 판정하는 머신러닝 소프트웨어로, 성장·사춘기 장애가 있는 아이를 평가하는 소아 영상의학 전문의를 돕는다."
+        },
+        {
+          "t": "p",
+          "x": "수작업 평가가 까다롭다는 건 잘 알려져 있고 판독자마다 결과가 달라지기도 한다. BoneXpert는 양손 어느 쪽 방사선 사진이든 분석해 평가한 뼈와 뼈별 골연령을 표시한 주석 이미지를 내놓는다. 이미지가 검증된 범위를 벗어나면 결과를 내지 않는다. 최종 판단은 영상의학 전문의가 책임진다."
+        },
+        {
+          "t": "p",
+          "x": "U.S. 내 다섯 곳에서 진행한 다기관 연구에서 평균제곱근오차는 0.55년으로 영상의학 전문의의 0.76년보다 낮았다. 1.5년 이상 어긋난 결과도 더 적었다(1.7% vs. 6.4%). 소프트웨어가 온프레미스로 돌아가서 방사선 사진은 기관 밖으로 나가지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
+        }
+      ]
     }
   }
 }

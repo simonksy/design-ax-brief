@@ -6914,6 +6914,141 @@
           "x": "Atlassian convirtió sus recursos de movimiento en componentes reutilizables, y el agente ayuda a los diseñadores a iterar el easing y la duración dentro de su sistema de diseño. “Para los diseñadores que trabajan con diseños estáticos, nuestras habilidades han aumentado”, dice el Product Designer Davy Fung."
         }
       ]
+    },
+    "design/design-keyshot-2026": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
+          "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot 2026 sigue apostando por la AI para mejorar los resultados del renderizado y simplificar los flujos de trabajo, y Creative Bloq lo encuentra más fácil de usar y más rápido que nunca. Entre las novedades figuran resultados de AI más realistas con AI Shots, que ahora permite editar y escalar, una versión mejorada de Move Tool + Custom Pivot y una Gallery completamente nueva."
+        },
+        {
+          "t": "p",
+          "x": "AI Shots, el flujo de trabajo de AI generativa que KeyShot introdujo en 2025.2, puede generar imágenes a partir de un modelo CAD o editar una imagen existente, y ahora funciona con instrucciones mucho más cortas. Su escalador puede duplicar o cuadruplicar la resolución tanto de los renderizados tradicionales como de AI Shots."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
+          "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "En las pruebas en un MacBook Pro de 16GB (se recomiendan 32GB), AI Shots nunca se bloqueó, pero algunas instrucciones tardaron más de cinco minutos y a veces las interpretó mal. Además, requiere descargar cerca de 20GB de datos de AI."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
+          "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+        },
+        {
+          "t": "p",
+          "x": "KeyShot Professional cuesta $108.25 al mes, con facturación anual de $1,299; KeyShot Business cuesta $133.25 al mes ($1,599 al año). KeyShot está diseñado casi exclusivamente para la visualización de productos."
+        }
+      ]
+    },
+    "design/design-free-ai-creative-cloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Canva y Affinity siguen plantando cara a Adobe, pero la propia Adobe también ha alejado a algunos usuarios por sus condiciones sobre AI y sus políticas de cancelación."
+        },
+        {
+          "t": "p",
+          "x": "Al parecer, esto último llevó al desarrollador independiente Brandon Thomas a recrear varias de las herramientas más populares de Adobe, como Photoshop, Premiere e Illustrator, reconstruidas con Claude y Rust. En Hacker News dijo que lo había \"mordido el patrón oscuro de la 'tarifa de cancelación' demasiadas veces\"."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+        },
+        {
+          "t": "p",
+          "x": "\"No soy un vibe coder cualquiera. Soy un veterano con 15 años (15-year) en la industria\", escribió Thomas en Reddit, y añadió en Hacker News: \"El software se acabó\"."
+        },
+        {
+          "t": "p",
+          "x": "Creative Bloq se muestra escéptico: usar AI para crear una copia exacta no resulta tan interesante como crear algo nuevo, y cuesta imaginar a creativos profesionales dejando sus archivos, y su sustento, en manos de software generado con AI (AI-generated). Como dice un Redditor, un software sin probar que se parece vagamente a Photoshop es muy distinto de un software fiable mantenido a largo plazo."
+        }
+      ]
+    },
+    "design/design-claude-frontend-skill": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La skill frontend-design de Anthropic se distribuye en su repositorio de skills y como plugin en el marketplace oficial de Claude Code. Es un único archivo Markdown de 71 líneas, sin scripts ni biblioteca de componentes; todo lo que cambia, lo cambia modificando la forma en que Claude planifica."
+        },
+        {
+          "t": "p",
+          "x": "Indica a Claude que diseñe a partir del tema, enumera los rasgos típicos del diseño generado que hay que evitar (fondo crema con serif y acento terracota, el \"SaaS card kit\", antetítulos en ALL-CAPS) y pide, antes de escribir código, un plan de tokens con 4 a 6 colores hex con nombre, tipografías y un layout en ASCII."
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
+          "cap": "Con la skill frontend-design."
+        },
+        {
+          "t": "img",
+          "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
+          "cap": "El mismo encargo sin ninguna skill."
+        },
+        {
+          "t": "p",
+          "x": "Con un solo encargo, la landing page de una app ficticia de contabilidad llamada Ledgerline, la ejecución con la skill redujo las etiquetas en all-caps de 9 a 0 y las cadenas con punto medio de 4 a 0, y no tuvo scroll horizontal a 375 px frente a un desbordamiento de 16 px. Tardó 14 turnos y 5.7 minutos frente a 2 turnos y 3.3 minutos, por $1.61 frente a $0.98."
+        },
+        {
+          "t": "p",
+          "x": "No impidió que ninguna de las páginas inventara datos del producto, y mantuvo siete em dash con espacios. Cada una se ejecutó una sola vez, así que conviene tomarlo como un ejemplo, no como un benchmark."
+        }
+      ]
+    },
+    "design/design-copilot-identity": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "FgHhrBiamzw"
+        },
+        {
+          "t": "p",
+          "x": "Tus apps, herramientas y contexto se reúnen en nuestra nueva identidad de Copilot, inspirada en el trabajo y diseñada para él."
+        }
+      ]
+    },
+    "design/design-chatgpt-intelligent-ui": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Intelligent-UI.png?quality=90&strip=all&crop=7.8125%2C0%2C84.375%2C100&w=2400",
+          "cap": "Imagen: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI lanza en ChatGPT una nueva función, Intelligent UI, que permite al chatbot responder a tus preguntas con elementos visuales interactivos. La actualización, que llega a todos los usuarios junto con GPT-6, permite a ChatGPT combinar una respuesta de texto con diagramas, gráficos, formularios, botones táctiles y más."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI afirma que entrenó a GPT-6 para saber cuándo generar elementos visuales interactivos en lugar de texto y cómo darles formato. Un ejemplo muestra el diagrama de una bicicleta de siete velocidades, con botones interactivos que resaltan sus distintas piezas."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-07-at-2.48.45-PM.png?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400",
+          "cap": "ChatGPT genera un diagrama que muestra el diseño de una bicicleta de siete velocidades. Imagen: OpenAI"
+        },
+        {
+          "t": "p",
+          "x": "Otro muestra a ChatGPT enseñando Mahjong con imágenes de cada ficha ordenadas en categorías desplazables. También se le puede pedir que genere herramientas como una calculadora de ahorro para la jubilación, un juego retro o un divisor de cuentas, integradas en su propia respuesta."
+        },
+        {
+          "t": "p",
+          "x": "GPT-6 con Intelligent UI llega desde hoy a los usuarios de Plus, Pro, Business y Enterprise en todo el mundo, y se amplía a Go y a los planes gratuitos el jueves. Los planes superiores obtienen el modelo intermedio GPT-6 Sol; los usuarios de Go y gratuitos, el más eficiente GPT-6 Luna."
+        }
+      ]
     }
   }
 }

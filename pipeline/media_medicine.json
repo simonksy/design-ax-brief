@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
+  "section": "medicine",
   "media": [
     {
-      "id": "medicine-fda-pediatric-bone-age-ai",
+      "id": "medicine-mri2ct-bone",
       "type": "image",
-      "src": "pipeline/media/medicine-fda-pediatric-bone-age-ai.jpg"
+      "src": "pipeline/media/medicine-mri2ct-bone.jpg"
     },
     {
-      "id": "medicine-teladoc-ambient-ai-vitals",
+      "id": "medicine-suki-ask-uptodate",
       "type": "image",
-      "src": "pipeline/media/medicine-teladoc-ambient-ai-vitals.jpg"
+      "src": "pipeline/media/medicine-suki-ask-uptodate.jpg"
     },
     {
-      "id": "medicine-parkinsons-ai-telerehab-rct",
-      "type": "video",
-      "src": "pipeline/media/medicine-parkinsons-ai-telerehab-rct.mp4",
-      "poster": "pipeline/media/medicine-parkinsons-ai-telerehab-rct.jpg"
+      "id": "medicine-ai-depression-warning",
+      "type": "image",
+      "src": "pipeline/media/medicine-ai-depression-warning.jpg"
     },
     {
-      "id": "medicine-clairity-everlywell-breast-risk",
+      "id": "medicine-epilepsy-llm-ehr",
       "type": "image",
-      "src": "pipeline/media/medicine-clairity-everlywell-breast-risk.png"
+      "src": "pipeline/media/medicine-epilepsy-llm-ehr.png"
     },
     {
-      "id": "medicine-europe-20-center-radiology-ai-study",
+      "id": "medicine-clinicalgpt-med-safety",
       "type": "image",
-      "src": "pipeline/media/medicine-europe-20-center-radiology-ai-study.jpg"
+      "src": "pipeline/media/medicine-clinicalgpt-med-safety.png"
     }
   ]
 }

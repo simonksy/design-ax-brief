@@ -243,6 +243,147 @@
           "x": "게재 가드레일은 해당 대화가 광고를 붙이기에 적절한지 판단한다. Negative Phrases는 자체 정책에 맞는 제외 설정이 필요한, 자격 요건을 갖춘 광고주에게 열린다."
         }
       ]
+    },
+    "marketing/marketing-weight-watchers-chatgpt-cpa": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 함께 개발하는데, 아직 끝나지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간에 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠졌다. ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-ai-max-columns": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 넣는 중이다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
+        },
+        {
+          "t": "p",
+          "x": "처음 발견한 사람은 Vivek Gupta로, LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
+        },
+        {
+          "t": "p",
+          "x": "새로 생긴 네 가지 옵션은 아래 스크린숏에서 볼 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
+        }
+      ]
+    },
+    "marketing/marketing-ok-future-goodwipes-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼지 시험해 보고 싶었다."
+        },
+        {
+          "t": "p",
+          "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그의 말로는 일 분 길이 광고를 만드는 데 보통 여섯 주쯤 걸린다."
+        },
+        {
+          "t": "p",
+          "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구로는 캐릭터를 시각화하고 목소리를 입히고 촬영 장소를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+        }
+      ]
+    },
+    "marketing/marketing-walmart-sparky": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI 발전 덕분에 비용을 아끼고, 그 돈을 고객 경험 개선에 다시 투자한다."
+        },
+        {
+          "t": "p",
+          "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽으며 여기서 얻은 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이 개선의 중심에는 Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
+        },
+        {
+          "t": "p",
+          "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
+        }
+      ]
+    },
+    "marketing/marketing-ads-uploader-meta-agent-batches": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w2000/2026/10/ads-uploader-ai-agents-meta-ad-batches-typing-pool-one-in-six.jpg",
+          "cap": "빈 의자 하나, 스스로 타이핑하는 기계 하나. Ads Uploader에서 AI가 띄운 Meta 광고 6건 중 1건"
+        },
+        {
+          "t": "p",
+          "x": "Meta용 대량 광고 등록 플랫폼 Ads Uploader가 2026년 9월 수치를 공개했다. 회사 설명으로는 서비스에 직접 연결된 AI 에이전트가 이 플랫폼에서 제출된 배치 36,289개 중 17.5%를 냈다."
+        },
+        {
+          "t": "p",
+          "x": "이 비율로 계산하면 한 달 에이전트 배치는 약 6,350개, 30-day 기준 하루 약 212개다. 같은 발표를 보면 그달 만들어진 Meta 광고는 286,137개로, 하루 약 9,500개꼴이다."
+        },
+        {
+          "t": "p",
+          "x": "플랫폼의 MCP 서버나 command-line 인터페이스로 AI 에이전트가 넣은 배치는 agent-made로 센다. 자율성이 얼마나 되느냐가 아니라 어떤 경로로 들어왔느냐가 기준이다. 사람이 감독한 배치와 그렇지 않은 배치는 발표 자료에서 따로 나누지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "“이미 많은 광고주가 설정 작업을 에이전트에 맡기고 있다”고 Ads Uploader 창업자 Chris Pollard는 말했다. “지난달 우리 플랫폼에서 배치 출시 약 6건 중 1건이 에이전트에서 나왔다.”"
+        },
+        {
+          "t": "p",
+          "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
+        }
+      ]
     }
   }
 }

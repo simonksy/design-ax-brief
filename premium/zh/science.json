@@ -6120,6 +6120,151 @@
           "x": "在26-ID光束线的测试中，智能体接到指令，要在集成电路中找到两个区域之间的界面，结果从器件深处一路导航到正确位置——这是迈向自动驾驶显微镜的一步。"
         }
       ]
+    },
+    "science/science-gene-function-microscopy": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
+          "cap": "图形摘要。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+        },
+        {
+          "t": "p",
+          "x": "来自LMU Munich's Gene Center、Max Planck Institute of Biochemistry和Helmholtz Munich的研究人员在Veit Hornung、Matthias Mann和Fabian Theis的带领下，在Cell上报告了一项名为SPARCS的技术，它将AI与显微成像和基因筛选结合在一起。"
+        },
+        {
+          "t": "p",
+          "x": "AI分析总计7000万个细胞的显微图像，筛查复杂的视觉特征，从而把细胞层面的效应与引发这些效应的基因改变联系起来。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
+          "cap": "Credit: Niklas Schmacke"
+        },
+        {
+          "t": "p",
+          "x": "随后，研究人员将感兴趣的细胞完整分离出来，用质谱分析测定其蛋白质组成。"
+        },
+        {
+          "t": "p",
+          "x": "在针对细胞回收系统——自噬——的genome-wide筛选中，该方法找回了许多已知调控因子，并发现了新的调控因子。团队还发现，由蛋白质GPHR调节的Golgi酸度会影响免疫传感器STING的早期运输及其后续激活。"
+        }
+      ]
+    },
+    "science/science-gravitational-lenses-desi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
+          "cap": "在DESI Legacy Imaging Surveys数据中发现的引力透镜样例。"
+        },
+        {
+          "t": "p",
+          "x": "一个国际团队挖掘了DESI Legacy Imaging Surveys的数据。该巡天在2026年8月成为最大的宇宙2D地图，包含约5.6万亿像素和近40亿个天体。"
+        },
+        {
+          "t": "p",
+          "x": "一个残差神经网络搜索了巡天图像，生成了约3,500个潜在透镜的目录，并从中选出76个候选体进行后续观测。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
+          "cap": "前景中的大质量星系如何放大其后方更遥远的星系。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员于2022年至2024年间利用ESO's Very Large Telescope上的MUSE仪器进行积分视场光谱观测，确认其中70个候选体为真正的引力透镜。成果发表于The Astrophysical Journal Supplement Series。"
+        },
+        {
+          "t": "p",
+          "x": "这些透镜将纳入DESI Strong Lens Foundry Project，预计将借助Hubble、JWST、Roman和Rubin Observatory's LSST，助力暗物质、星系结构和宇宙学研究。"
+        }
+      ]
+    },
+    "science/science-chatbot-tipping-formula": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
+          "cap": "AI对话。Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "George Washington University的物理学家Neil F. Johnson和Frank Yingjie Huo在Patterns上报告了一个数学公式，可预测AI聊天机器人何时会从可接受的回答转向不良回答，例如有害建议或误导性信息。"
+        },
+        {
+          "t": "p",
+          "x": "该公式源自模型中的单个注意力单元。这种转变可能出现在若干个可接受的回答之后，对话中提问的顺序也可能影响结果。"
+        },
+        {
+          "t": "p",
+          "x": "在来自三家公司的七个开放模型中，其预测与19个转向案例中的18个相符。"
+        },
+        {
+          "t": "p",
+          "x": "作者尤其担心离线AI，因为cloud-based安全过滤器在那里不起作用；他们建议，未来的设备可内置警告功能，在对话滑向危险领域时发出提醒。"
+        }
+      ]
+    },
+    "science/science-co2-methanol-ml": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
+          "cap": "描绘CO₂加氢制甲醇的铜催化剂表面。Credit: Shivam Chaturvedi"
+        },
+        {
+          "t": "p",
+          "x": "CO₂加氢在催化剂表面涉及数千个微小步骤，因此建模者传统上只挑选少数可能的反应，这意味着可能漏掉数百个重要反应。"
+        },
+        {
+          "t": "p",
+          "x": "Indian Institute of Science的研究人员在Nature Communications上报告，他们基于quantum-mechanical（量子力学）模拟构建了包含152个反应的数据库，训练机器学习模型预测活化能垒，并借助自动化工具将铜上的反应网络扩展到9,389个基元反应。"
+        },
+        {
+          "t": "p",
+          "x": "“当我们用最初考虑的152个反应为该过程建模时，网络错误地把甲酸而非甲醇预测为主要产物，”Ananth Govind Rajan说。扩展后的网络预测CO₂转化率提高约40倍（40-fold），并正确识别出甲醇和一氧化碳为主要产物。"
+        },
+        {
+          "t": "p",
+          "x": "研究还揭示，氢可以直接以分子H₂的形式转移到中间体上。"
+        }
+      ]
+    },
+    "science/science-unique-games-proof-race": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Unique-Games-cr.James-OBrien-Lede-1536x864.webp",
+          "cap": "James O’Brien(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月11日上午，“unique games”猜想的权威专家、MIT的Dor Minzer开始陆续收到消息：据称OpenAI已发现该猜想的证明，随时可能公开。"
+        },
+        {
+          "t": "p",
+          "x": "Minzer本人并未证明它。但他与研究生Yumou Fei、Shuo Wang最近在一个密切相关的问题上证明了一项里程碑式结果。三天后，他们在网上发布了一篇95页的论文，并附上声明：“在数学上是完整的，但还不是我们希望分享的样子。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Dor-Minzer-cr.Courtesy-of-Dor-Minzer-1-768x512.webp",
+          "cap": "Dor Minzer和他的学生为免被传闻中的AI证明抢先，匆忙发布了里程碑式结果。图片由Dor Minzer提供"
+        },
+        {
+          "t": "p",
+          "x": "10月6日，OpenAI宣布证明了unique games猜想，同时公布了横跨多个数学领域的另外376项结果。发布内容还包括Khot的2-to-1猜想的Lean-verified证明，这是一份未经人工编辑、也未经独立专家评审的AI-generated手稿。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/SubhashKhot-crBeatrice-de-Gea-for-Quanta-Magazine-768x583.webp",
+          "cap": "Subhash Khot在读研究生时就提出了unique games猜想。Béatrice de Géa(Quanta Magazine)"
+        },
+        {
+          "t": "p",
+          "x": "三人证明了Khot的2-to-1 games猜想的一个稍弱的4-to-1版本，这意味着某些3-colorable图无论额外使用多少种颜色，仍然难以着色。Princeton的Mark Braverman说：“靠新闻稿做数学，对数学并不那么健康。”"
+        }
+      ]
     }
   }
 }

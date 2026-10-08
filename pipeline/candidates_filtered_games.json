@@ -1,46 +1,20 @@
 {
   "section": "games",
-  "now_iso": "2026-10-07T22:04:00Z",
+  "now_iso": "2026-10-08T22:00:45Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
-      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
-      "source": "80 Level",
-      "category": "games",
-      "published_iso": "2026-10-07T21:09:00+00:00",
-      "og_image": "https://cdn.80.lv/api/upload/meta/50548/images/6ac6b507913eb/contain_1200x630.jpg",
-      "excerpt": "Unity Spark combines AI-assisted game creation with artist-made Asset Store content, but Unity CEO Matt Bromberg stresses that creators must still design, iterate, polish, and finish their experiences."
-    },
-    {
-      "title": "Unity unveils prompting AI tool Unity Spark for Google Playground",
-      "url": "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-      "source": "Game Developer",
-      "category": "games",
-      "published_iso": "2026-10-07T12:05:56.000Z",
-      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltd443a64734004de0/6ac555573c18ba4e4637d06c/UnitySpark_Logo.png?disable=upscale&width=1200&height=630&fit=crop",
-      "excerpt": "Unity's new tool allows prompt-based game development in collaboration with Google AI.",
-      "history_match": {
-        "score": 0.172,
-        "date": "2026-09-30",
-        "url": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
-        "title": "Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support",
-        "band": "related"
-      },
-      "cluster": "c1"
-    },
-    {
-      "title": "Unity Spark Promises To Let You Vibe Code Your 'Dream Game' In The Most Embarrassing Video Imaginable",
-      "url": "https://kotaku.com/unity-spark-space-corridor-vibe-coding-ai-trailer-game-development-2000741912",
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!'",
       "source": "Kotaku",
       "category": "games",
-      "published_iso": "2026-10-07T18:00:56+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/space-corridor.jpg",
-      "excerpt": "Get ready for the vision that is Space Corridor"
+      "published_iso": "2026-10-02T17:30:58+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
+      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity"
     },
     {
-      "title": "Google Playground is an 'experimental' AI game platform",
       "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "title": "Google Playground is an 'experimental' AI game platform",
       "source": "Game Developer",
       "category": "games",
       "published_iso": "2026-10-06T20:14:47.000Z",
@@ -49,24 +23,61 @@
       "cluster": "c1"
     },
     {
-      "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
-      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
-      "source": "Kotaku",
+      "url": "https://80.lv/articles/google-released-its-own-game-creation-platform/",
+      "title": "Google's Playground Lets You Make Games without Coding",
+      "source": "80 Level",
       "category": "games",
-      "published_iso": "2026-10-07T16:15:05+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-      "excerpt": "Astrocade is filled with AI slop, but millions of people don't seem to care"
+      "published_iso": "2026-10-08T11:56:00+00:00",
+      "og_image": "https://cdn.80.lv/api/upload/meta/50558/images/6ac78b0dc65c3/contain_1200x630.jpg",
+      "excerpt": "It uses AI to make your dreams come true.",
+      "cluster": "c1"
     },
     {
-      "title": "Capcom Said It Will Use AI to Improve the RE Engine — We Asked for Clarification",
-      "url": "https://www.ign.com/articles/capcom-clarifies-stance-on-ai-after-re-engine-conference-comments",
-      "source": "IGN",
+      "url": "https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators",
+      "title": "Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them by creating depressingly rubbish \"dream game\" Space Corridor",
+      "source": "Eurogamer",
       "category": "games",
-      "published_iso": "2026-10-07T17:59:11.389Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/07/capcom-clarifies-stance-on-ai-1791395067864.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "Resident Evil and Street Fighter developer Capcom has clarified its stance on AI and its future plans for the RE Engine in an exclusive conversation with IGN.",
+      "published_iso": "2026-10-08T11:33:09.134712+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/playground-google.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "It was only a matter of time. Google now lets you create simple games with AI text prompts. The Unity engine will also include text prompts and co-op creation."
+    },
+    {
+      "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
+      "title": "Fortnite Will Give Kids What They've Always Wanted: AI Pride And Prejudice Fan Fic",
+      "source": "Aftermath",
+      "category": "games",
+      "published_iso": "2026-10-08T16:54:21.000Z",
+      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png",
+      "excerpt": "Neal Stephenson's company Whenere is bringing an AI-driven storytelling platform to Fortnite"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+      "title": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
+      "source": "GamesIndustry.biz",
+      "category": "games",
+      "published_iso": "2026-10-08T13:30:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "The Call of Duty and Dead Space alumnus explains why he doesn't view AI as a tool and why he isn't a fan of remote work"
+    },
+    {
+      "url": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+      "title": "The OG Crash Team Racing for PS1 just arrived on PC, but it's sadly yet another recomp spoiled by AI",
+      "source": "GamesRadar+",
+      "category": "games",
+      "published_iso": "2026-10-08T11:43:14Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg",
+      "excerpt": "Wump wump"
+    },
+    {
+      "url": "https://gamingbolt.com/capcom-has-no-plans-to-implement-generative-ai-assets-in-re-engine",
+      "title": "Capcom Has No Plans to Implement Generative AI Assets in RE Engine",
+      "source": "GamingBolt",
+      "category": "games",
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "og_image": "https://gamingbolt.com/wp-content/uploads/2026/10/re-engine-logo.jpg",
+      "excerpt": "The company noted that any AI tools making their way into the RE Engine will largely revolve around streamlining data processing.",
       "history_match": {
-        "score": 0.34,
+        "score": 0.283,
         "date": "2026-10-05",
         "url": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
         "title": "Capcom is preparing for a ‘future where we create games together with AI’",
@@ -74,163 +85,57 @@
       }
     },
     {
-      "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
-      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
-      "source": "IGN",
+      "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
+      "title": "Original DOOM Gets NVIDIA DLSS 5 Neural Rendering Through a Custom DirectX 12 Port",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-10-07T11:59:07.926Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80",
-      "excerpt": "The AI video game clone explosion continues at pace. Now, someone has made Minecraft playable inside X / Twitter with working multiplayer."
-    },
-    {
-      "title": "Kingdom Come: Deliverance 2 boss says using AI to replace devs is a \"fundamentally flawed idea,\" but admits it could help us get \"bigger games for the same cost\" | GamesRadar+",
-      "url": "https://www.gamesradar.com/games/rpg/kingdom-come-deliverance-2-boss-says-using-ai-to-replace-devs-is-a-fundamentally-flawed-idea-but-admits-it-could-help-us-get-bigger-games-for-the-same-cost/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-07T10:48:55Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/kPeCfTMaFRPZDb9zaCM7cW-1920-80.jpg",
-      "excerpt": "Warhorse Studios won't be using gen-AI assets any time soon, anyway"
-    },
-    {
-      "title": "Warhorse co-founder believes 'AI is not a get out of jail free card' and that execs have a 'simplified mental model' of what it means for games",
-      "url": "https://www.pcgamer.com/software/ai/warhorse-co-founder-believes-ai-is-not-a-get-out-of-jail-free-card-and-that-execs-have-a-simplified-mental-model-of-what-it-means-for-games/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-06T16:21:29Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Z5dm3tHivwkvMfs8GBBsRJ-1920-80.jpg",
-      "excerpt": "Wish for both quantity and quality.",
+      "published_iso": "2026-10-06T21:21:17+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg",
+      "excerpt": "Developer Nikolai Zhivotenko ports DOOM to Windows with NVIDIA DLSS 5 Neural Rendering, enhancing its graphics through modern upscaling techniques.",
       "history_match": {
-        "score": 0.201,
+        "score": 0.189,
         "date": "2026-09-26",
-        "url": "https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/",
-        "title": "For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism",
+        "url": "https://wccftech.com/nvidia-dlss-5-neural-rendering-disappoints-stylized-yet-solid-super-smash-bros-melee/",
+        "title": "NVIDIA DLSS 5 Neural Rendering Usually Disappoints In Stylized Games, Yet Delivers Solid Results in Super Smash Bros. Melee",
         "band": "related"
       }
     },
     {
-      "title": "AI Bro Defends Reverse-Engineering PlayStation Homebrew Tool",
-      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-07T14:36:16+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e-1200x675.jpg",
-      "excerpt": "Zer0Day justified his AI-slop rip-off of GoldHEN by stating that ‘creativity should never have to ask for permission’ in a lengthy post on GitHub"
-    },
-    {
-      "title": "Jagex pull Runescape trailer and apologise for genAI use after complaints about six-fingered knights, pinning the blame on a \"trusted external partner\"",
-      "url": "https://www.rockpapershotgun.com/jagex-pull-runescape-trailer-and-apologise-for-genai-use-after-complaints-about-six-fingered-knights-pinning-the-blame-on-a-trusted-external-partner",
-      "source": "Rock Paper Shotgun",
-      "category": "games",
-      "published_iso": "2026-10-06T16:30:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/RuneScape_ScXlYx6.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Certain imagery in a recent RuneScape trailer led to accusations of genAI use, which Jagex admitted was the case but quickly clarified it was from a third party",
-      "history_match": {
-        "score": 0.412,
-        "date": "2026-10-06",
-        "url": "https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner",
-        "title": "Jagex responds to use of generative AI in RuneScape trailer made by \"trusted external partner\"",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+      "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/",
+      "title": "Great, haystack slop is a thing now",
       "source": "PC Gamer",
       "category": "games",
-      "published_iso": "2026-10-04T10:49:26Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg",
-      "excerpt": "GPT-6 Astra tried to get a leg-up in Blizzard's RTS by pilfering a human-created bot.",
+      "published_iso": "2026-09-28T01:57:44Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/a8h5r8JXCRb4HF239QdTuJ-1200-80.png",
+      "excerpt": "All the interesting Steam facts for the week ending September 27.",
       "history_match": {
-        "score": 0.182,
-        "date": "2026-09-30",
-        "url": "https://eu.36kr.com/en/p/3995368325501056",
-        "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
+        "score": 0.166,
+        "date": "2026-09-27",
+        "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
+        "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
         "band": "related"
       }
-    },
-    {
-      "title": "I wasn't prepared for Skyrim with DLSS 5 on max settings",
-      "url": "https://www.destructoid.com/i-wasnt-prepared-for-skyrim-with-dlss-5-on-max-settings/",
-      "source": "Destructoid",
-      "category": "games",
-      "published_iso": "2026-10-07T17:11:05+00:00",
-      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/Skyrim-DLSS-5.jpg",
-      "excerpt": "We go over the effects that DLSS 5, Nvidia's AI-powered new graphics tech has over Skyrim, and it's absolutely horrifying."
-    },
-    {
-      "title": "AI 발전 속 변화 살펴본다, HTML5 게임포럼 8일 열린다",
-      "url": "https://www.gamemeca.com/view.php?gid=1781498",
-      "source": "게임메카",
-      "category": "games",
-      "published_iso": "2026-10-07T14:37:43+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/498/gm401874_thumb_HTML5_.webp",
-      "excerpt": "한국모바일게임협회는 10월 8일 서울 강남구 MARU180 이벤트홀에서 '2026 대한민국 HTML5 게임포럼'을 개최할 예정이라고 밝혔다. 이번 포럼은 HTML5 기술 및 플랫폼 환경의 변화와 함께 빠르게 확장되고 있는 웹 기반 게임 생태계를 살펴볼 목적으로 마련됐다. 국내 게..."
-    },
-    {
-      "title": "Unity unveils a web-based AI game creation platform",
-      "url": "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-      "source": "GamesIndustry.biz",
-      "category": "games",
-      "published_iso": "2026-10-07T12:00:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/UnitySpark_Logo.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Unity Spark will launch later this year on Google Playground",
-      "cluster": "c1"
     }
   ],
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "dedup": {
-    "dropped": 2,
-    "kept": 15,
+    "dropped": 0,
+    "kept": 10,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 3,
     "same_story_pairs": [
       [
-        "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
         "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-        0.398
-      ],
-      [
-        "https://www.gamedeveloper.com/programming/unity-unveils-unity-spark-an-prompt-based-tool-for-google-s-ai-games-platform",
-        "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-        0.531
-      ],
-      [
-        "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
-        "https://www.gamesindustry.biz/unity-unveils-a-web-based-ai-game-creation-platform",
-        0.331
+        "https://80.lv/articles/google-released-its-own-game-creation-platform/",
+        0.366
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-08",
-      "title": "내 게임 아트만 학습한 모델로 1분짜리 세로 애니 열 편 아스트로번 팀이 자기 아트만 학습시킨 모델로 1분짜리 세로 에피소드 열 편을 뽑았다.",
-      "url": "https://gamesbeat.com/astroburn-expands-into-ai-powered-animated-vertical-micro-series/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "퍼블리셔 계약 조건에 생성형 AI 슬롭은 없다 어그로 크랩이 퍼블리싱 부문을 열면서 계약 조건에 생성형 AI 슬롭 금지를 못 박았다.",
-      "url": "https://kotaku.com/aggro-crab-peak-new-indie-publisher-outersloth-bigmode-2000730611"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "NVIDIA DLSS 5 Cripples Most PCs in Modded Games, but DLSS 5 Autopilot Restores Playable Performance",
-      "url": "https://wccftech.com/nvidia-dlss-5-cripples-pcs-but-dlss-5-autopilot-restores-performance/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Go grandmaster becomes first human to win series against advanced AI engine in 3-hour match",
-      "url": "https://www.pcgamer.com/software/ai/go-grandmaster-becomes-first-human-to-win-series-against-advanced-ai-engine-in-3-hour-match/"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Penguin Colony gave me a genAI fright in its release date trailer, but there's no actual cause for concern",
-      "url": "https://www.rockpapershotgun.com/cosmic-horror-and-sea-bird-waddling-sim-penguin-colony-gave-me-a-genai-fright-in-its-release-date-trailer-but-thankfully-theres-no-actual-cause-for-concern"
-    },
     {
       "date": "2026-09-09",
       "title": "Report: EA's NHL 27 is using genAI for commentator voiceover, claims a sports broadcaster",
@@ -830,6 +735,26 @@
       "date": "2026-10-07",
       "title": "Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI",
       "url": "https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
+      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "AI Bro Defends Reverse-Engineering PlayStation Homebrew Tool",
+      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
+      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Someone Used AI to Make Minecraft Playable Inside Twitter With Working Multiplayer, and Immediately Sold Sponsorships via Crypto",
+      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto"
     }
   ]
 }

@@ -1,305 +1,216 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "section": "games",
   "cards": [
     {
-      "id": "games-unity-spark-asset-store",
+      "id": "games-fortnite-whenere",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
-      "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
-      "mini_headline": "Unity Spark와 Asset Store의 만남",
+      "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
+      "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
+      "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
       "tool": "Games",
-      "source": "80 Level",
-      "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+      "source": "Aftermath",
+      "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+          },
+          {
+            "t": "p",
+            "x": "Sci-fi 작가 Neal Stephenson이 세운 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite에 옮겨 온다. Whenere는 자사를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+          },
+          {
+            "t": "p",
+            "x": "책을 그대로 옮기기보다 Netherfield Park 같은 배경을 꾸린다. 사용자는 장소를 고르고 움직임을 스크립트로 짠 다음 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 붙여 Whenere의 Fortnite 섬에 공개한다."
+          },
+          {
+            "t": "p",
+            "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
+          },
+          {
             "t": "video",
-            "yt": "IkcK7aeMw5A"
+            "yt": "ZdBRAz9yvro"
           },
           {
             "t": "p",
-            "x": "Unity가 브라우저에서 게임을 만드는 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고 만들고 다듬어 게시까지 하게 해주는 도구다."
-          },
-          {
-            "t": "p",
-            "x": "Unity CEO Matt Bromberg는 Spark가 프롬프트 한 번으로 게임을 뽑아내는 생성기와는 다르다고 분명히 선을 긋는다. 아이디어를 구현할 때 부딪히는 기술 장벽을 일부 걷어내려는 것일 뿐, 창작을 자동화하거나 첫 프롬프트에 완성된 게임이 나온다고 내세우지는 않는다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-            "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-            "cap": "Space Corridor | Unity Spark로 만든 Shooter"
-          },
-          {
-            "t": "p",
-            "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
-          },
-          {
-            "t": "p",
-            "x": "Financial Times에 따르면 Spark가 “일부 에셋을 생성”하기는 하지만 이미지와 효과는 대부분 사람이 만든 Unity의 기존 라이브러리에서 가져온다. 기여한 작가에게는 크레디트와 보상이 돌아간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-            "cap": "Horror Story | Unity Spark로 만든 Haunted House"
-          },
-          {
-            "t": "p",
-            "x": "공유 URL 하나로 여럿이 함께 개발하고, 완성한 게임은 Google의 새 플랫폼 Playground에 올릴 수 있다. 수익 모델은 아직 정하지 않았지만 Unity는 무료와 유료 이용 단계를 모두 둘 계획이다. 비공개 베타는 2026년 후반에 시작한다."
+            "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트는 잡혀 있지만 공개 출시일은 아직 없다."
           }
         ]
       },
+      "lead_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png",
       "text": {
         "en": {
-          "headline": "Unity Spark builds AI games\nfrom artist-made assets",
-          "body": "Unity Spark pairs AI game creation with Asset Store art, but its CEO says creators must still design and polish.",
-          "mini_headline": "Unity Spark meets the Asset Store",
+          "headline": "Stephenson's Whenere brings\nAI storytelling to Fortnite",
+          "body": "Neal Stephenson's company Whenere is bringing an AI-driven storytelling platform to Fortnite.",
+          "mini_headline": "Whenere brings AI stories to Fortnite",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi author Neal Stephenson's company Whenere is bringing Jane Austen's Pride and Prejudice to Fortnite. Whenere describes itself as a \"web-based script editor to help you create immersive, cinematic stories that can be watched directly within Fortnite.\""
+              },
+              {
+                "t": "p",
+                "x": "Rather than recreating the book, it builds settings such as Netherfield Park where users pick a location, script movement and add dialogue (self-written or with the assistance of AI), then publish on Whenere's Fortnite island."
+              },
+              {
+                "t": "p",
+                "x": "Whenere uses Dreamlands, an AI tool powered by Google's Gemini, to \"generate much of the furniture and décor and maintain historical accuracy.\" Stephenson told Google: \"This can be a place where AI is augmenting and enhancing creativity, not replacing it.\""
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity has announced Unity Spark, a browser-based game creation platform intended to let people describe, construct, refine, and publish interactive experiences without first learning conventional programming or the complete Unity Editor."
-              },
-              {
-                "t": "p",
-                "x": "Unity CEO Matt Bromberg is positioning Spark very differently from one-prompt game generators. The goal is to remove some of the technical barriers around implementing ideas, but not to automate the creative process or pretend a first prompt produces a finished game."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Action RPG Made in Untiy Spark"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Shooter Made in Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "\"This isn’t about “one-shotting”. Asking AI to regurgitate an already invented game does not make you the next Hideo Kojima… Unity Spark connects directly to the Unity Asset Store, so you can build with thousands of high-quality, artist-created assets made by our community.\" – Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "According to the Financial Times, Spark will be able to \"generate some assets,\" but most of its imagery and effects will come from Unity’s existing human-made library, with contributing artists credited and compensated."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Haunted House Made in Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "Projects can be developed collaboratively through a shared URL, and completed games can be published through Google’s new Playground platform. Unity has not finalized its commercial model, although both free and paid access levels are planned. A closed beta is scheduled to begin later in 2026."
+                "x": "Aftermath argues the AI-generated assets could turn off fanfic writers, calling it \"another bit of AI hype.\" A closed playtest is planned; there's no public release date yet."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
-          "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
-          "mini_headline": "Unity Spark와 Asset Store의 만남",
+          "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
+          "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
+          "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi 작가 Neal Stephenson이 세운 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite에 옮겨 온다. Whenere는 자사를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "책을 그대로 옮기기보다 Netherfield Park 같은 배경을 꾸린다. 사용자는 장소를 고르고 움직임을 스크립트로 짠 다음 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 붙여 Whenere의 Fortnite 섬에 공개한다."
+              },
+              {
+                "t": "p",
+                "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity가 브라우저에서 게임을 만드는 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고 만들고 다듬어 게시까지 하게 해주는 도구다."
-              },
-              {
-                "t": "p",
-                "x": "Unity CEO Matt Bromberg는 Spark가 프롬프트 한 번으로 게임을 뽑아내는 생성기와는 다르다고 분명히 선을 긋는다. 아이디어를 구현할 때 부딪히는 기술 장벽을 일부 걷어내려는 것일 뿐, 창작을 자동화하거나 첫 프롬프트에 완성된 게임이 나온다고 내세우지는 않는다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Unity Spark로 만든 Shooter"
-              },
-              {
-                "t": "p",
-                "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Times에 따르면 Spark가 “일부 에셋을 생성”하기는 하지만 이미지와 효과는 대부분 사람이 만든 Unity의 기존 라이브러리에서 가져온다. 기여한 작가에게는 크레디트와 보상이 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Unity Spark로 만든 Haunted House"
-              },
-              {
-                "t": "p",
-                "x": "공유 URL 하나로 여럿이 함께 개발하고, 완성한 게임은 Google의 새 플랫폼 Playground에 올릴 수 있다. 수익 모델은 아직 정하지 않았지만 Unity는 무료와 유료 이용 단계를 모두 둘 계획이다. 비공개 베타는 2026년 후반에 시작한다."
+                "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트는 잡혀 있지만 공개 출시일은 아직 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity Sparkが\n作家の素材でAIゲーム",
-          "body": "Unity SparkはAsset Store素材で作るが、仕上げは人の仕事だ。",
-          "mini_headline": "Unity SparkとAsset Storeが連携",
+          "headline": "WhenereのAI物語が\nFortniteに登場",
+          "body": "WhenereがFortniteにAI-drivenの物語プラットフォームを導入する。",
+          "mini_headline": "Whenere、FortniteにAI物語を導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi作家Neal Stephensonの会社Whenereが、Jane Austenの『高慢と偏見（Pride and Prejudice）』をFortniteに持ち込む。Whenereは自らを「Fortnite内で直接視聴できる、没入感のあるシネマティックな物語づくりを支援するweb-basedのスクリプトエディター」と説明している。"
+              },
+              {
+                "t": "p",
+                "x": "原作をそのまま再現するのではなく、Netherfield Parkのような舞台を用意する。ユーザーは場所を選び、動きをスクリプト化し、セリフ（self-writtenで自作するか、AIの助けを借りる）を加えたうえで、WhenereのFortnite島で公開する。"
+              },
+              {
+                "t": "p",
+                "x": "WhenereはGoogleのGeminiを基盤とするAIツールDreamlandsを使い、「家具や装飾（décor）の多くを生成し、歴史的な正確さを保つ」。StephensonはGoogleに「ここは、AIが創造性を置き換えるのではなく、補強し高める場になりうる」と語った。"
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unityは、ブラウザ上で動くゲーム制作プラットフォーム「Unity Spark」を発表した。従来のプログラミングやUnity Editor全体を先に習得しなくても、インタラクティブな体験を記述し、組み立て、磨き上げ、公開できるようにすることを狙う。"
-              },
-              {
-                "t": "p",
-                "x": "Unity CEOのMatt Bromberg氏は、Sparkを一つのプロンプトでゲームを生み出すツールとはまったく異なるものとして位置づける。目指すのはアイデアを形にする際の技術的な障壁を一部取り除くことであり、創作プロセスを自動化することでも、最初のプロンプトで完成したゲームができると装うことでもない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Untiy Sparkで作られたAction RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Unity Sparkで作られたShooter"
-              },
-              {
-                "t": "p",
-                "x": "「これは“one-shotting”の話ではない。すでに生み出されたゲームをAIに吐き出させても、次のHideo Kojimaにはなれない…Unity SparkはUnity Asset Storeに直接つながっており、コミュニティのアーティストが作った数千点の高品質なアセットを使って制作できる」– Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Timesによると、Sparkは「一部のアセットを生成」できるが、画像やエフェクトの大半はUnityが持つ人の手による既存ライブラリから提供され、素材を提供したアーティストにはクレジットと報酬が与えられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Unity Sparkで作られたHaunted House"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
+                "x": "Aftermathは、AI-generatedのアセットが二次創作の書き手を遠ざけかねないとし、「またひとつのAIハイプ」と評した。クローズドプレイテストが予定されているが、一般向けの発売日はまだない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity Spark用\n艺术家素材做AI游戏",
-          "body": "Unity Spark借助Asset Store素材做AI游戏，但CEO称打磨仍靠创作者。",
-          "mini_headline": "Unity Spark对接Asset Store",
+          "headline": "Whenere把AI叙事\n带进Fortnite",
+          "body": "Stephenson的Whenere将把AI-driven叙事平台带进Fortnite。",
+          "mini_headline": "Whenere把AI故事带进Fortnite",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi作家Neal Stephenson的公司Whenere正把Jane Austen的《傲慢与偏见》（Pride and Prejudice）带进Fortnite。Whenere自称是一款“web-based脚本编辑器，帮助你创作可直接在Fortnite内观看的沉浸式电影化故事”。"
+              },
+              {
+                "t": "p",
+                "x": "它并不复刻原著，而是搭建Netherfield Park等场景：用户选择地点、编排走位、添加对白（可self-written自行撰写，也可借助AI），然后发布到Whenere的Fortnite岛上。"
+              },
+              {
+                "t": "p",
+                "x": "Whenere使用由Google的Gemini驱动的AI工具Dreamlands来“生成大部分家具和装饰（décor），并保持历史准确性”。Stephenson对Google表示：“这里可以成为AI增强和提升创造力、而非取代创造力的地方。”"
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity发布了Unity Spark，这是一个基于浏览器的游戏创作平台，旨在让人们无需先学习传统编程或完整的Unity Editor，就能描述、搭建、打磨并发布互动体验。"
-              },
-              {
-                "t": "p",
-                "x": "Unity CEO Matt Bromberg对Spark的定位与“一句提示词生成游戏”的工具截然不同。其目标是消除实现创意时的部分技术门槛，而不是让创作过程自动化，也不是假装第一个提示词就能产出完整的游戏。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | 用Untiy Spark制作的Action RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | 用Unity Spark制作的Shooter"
-              },
-              {
-                "t": "p",
-                "x": "“这无关‘one-shotting’。让AI照搬一款已经被发明出来的游戏，并不能让你成为下一个Hideo Kojima……Unity Spark直接连接Unity Asset Store，你可以使用社区艺术家创作的数千个高质量素材进行开发。”– Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "据Financial Times报道，Spark将能够“生成部分素材”，但大部分图像和特效将来自Unity现有的人工制作素材库，贡献素材的艺术家会获得署名和报酬。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | 用Unity Spark制作的Haunted House"
-              },
-              {
-                "t": "p",
-                "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
+                "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity Spark crea juegos con AI\na partir de recursos de artistas",
-          "body": "Unity Spark combina juegos con AI y arte de Asset Store, pero su CEO dice que los creadores aún deben diseñar y pulir.",
-          "mini_headline": "Unity Spark se une a Asset Store",
+          "headline": "Whenere, de Stephenson, lleva\nrelatos con AI a Fortnite",
+          "body": "Whenere, la empresa de Neal Stephenson, lleva a Fortnite una plataforma narrativa AI-driven.",
+          "mini_headline": "Whenere lleva historias con AI a Fortnite",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Whenere, la empresa del autor de Sci-fi Neal Stephenson, lleva Pride and Prejudice, de Jane Austen, a Fortnite. Whenere se describe como un \"editor de guiones web-based que te ayuda a crear historias inmersivas y cinematográficas que se pueden ver directamente dentro de Fortnite\"."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de recrear el libro, construye escenarios como Netherfield Park, donde los usuarios eligen una ubicación, guionizan el movimiento y añaden diálogos (self-written o con ayuda de AI), y luego publican en la isla de Fortnite de Whenere."
+              },
+              {
+                "t": "p",
+                "x": "Whenere usa Dreamlands, una herramienta de AI basada en Gemini de Google, para \"generar gran parte del mobiliario y la decoración (décor) y mantener la precisión histórica\". Stephenson dijo a Google: \"Este puede ser un lugar donde la AI aumente y potencie la creatividad, no donde la sustituya\"."
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity ha anunciado Unity Spark, una plataforma de creación de juegos basada en navegador que busca que cualquiera pueda describir, construir, refinar y publicar experiencias interactivas sin aprender antes programación convencional ni el Unity Editor completo."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Unity, Matt Bromberg, presenta Spark de forma muy distinta a los generadores de juegos de un solo prompt. El objetivo es eliminar parte de las barreras técnicas para llevar las ideas a la práctica, no automatizar el proceso creativo ni fingir que un primer prompt produce un juego terminado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Action RPG hecho en Untiy Spark"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Shooter hecho en Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "“No se trata de ‘one-shotting’. Pedirle a la AI que regurgite un juego ya inventado no te convierte en el próximo Hideo Kojima… Unity Spark se conecta directamente con la Unity Asset Store, así que puedes crear con miles de recursos de alta calidad hechos por artistas de nuestra comunidad.” – Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Según el Financial Times, Spark podrá “generar algunos recursos”, pero la mayor parte de sus imágenes y efectos procederá de la biblioteca existente de Unity, hecha por personas, y los artistas que contribuyan recibirán crédito y compensación."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Haunted House hecha en Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
+                "x": "Aftermath sostiene que los recursos AI-generated podrían alejar a los autores de fanfic y lo califica de \"otra muestra más del hype de la AI\". Hay prevista una prueba de juego cerrada; aún no hay fecha de lanzamiento pública."
               }
             ]
           }
@@ -307,197 +218,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unity Spark는\n작가 에셋으로 AI 게임",
-          "body": "Unity Spark는 Asset Store 아트를 쓰지만 마감은 창작자 몫이다.",
-          "mini_headline": "Unity Spark와 Asset Store의 만남",
+          "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
+          "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
+          "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi 작가 Neal Stephenson의 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite로 가져온다. Whenere는 스스로를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "책을 그대로 재현하지 않고 Netherfield Park 같은 배경을 만든다. 사용자는 장소를 고르고, 움직임을 스크립트로 짜고, 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 더한 뒤 Whenere의 Fortnite 섬에 공개한다."
+              },
+              {
+                "t": "p",
+                "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity가 브라우저 기반 게임 제작 플랫폼 Unity Spark를 발표했다. 기존 프로그래밍이나 Unity Editor 전체를 먼저 익히지 않아도 인터랙티브 경험을 설명하고, 만들고, 다듬고, 게시할 수 있게 하려는 도구다."
-              },
-              {
-                "t": "p",
-                "x": "Unity CEO Matt Bromberg는 Spark를 프롬프트 한 번으로 게임을 뽑아내는 생성기와 확실히 다르게 자리매김한다. 목표는 아이디어를 구현할 때의 기술적 장벽 일부를 걷어내는 것이지, 창작 과정을 자동화하거나 첫 프롬프트로 완성된 게임이 나온다고 내세우는 것이 아니다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Untiy Spark로 만든 Action RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Unity Spark로 만든 Shooter"
-              },
-              {
-                "t": "p",
-                "x": "“이건 ‘one-shotting’에 관한 이야기가 아닙니다. 이미 만들어진 게임을 AI에게 되풀이해 달라고 한다고 다음 Hideo Kojima가 되지는 않습니다… Unity Spark는 Unity Asset Store와 바로 연결되므로, 커뮤니티 작가들이 만든 수천 개의 고품질 에셋으로 게임을 만들 수 있습니다.” – Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Times에 따르면 Spark는 “일부 에셋을 생성”할 수 있지만, 이미지와 효과 대부분은 사람이 만든 Unity의 기존 라이브러리에서 가져오며 기여한 작가에게는 크레디트와 보상이 돌아간다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Unity Spark로 만든 Haunted House"
-              },
-              {
-                "t": "p",
-                "x": "프로젝트는 공유 URL로 함께 개발할 수 있고, 완성한 게임은 Google의 새 플랫폼 Playground로 게시할 수 있다. Unity는 아직 수익 모델을 확정하지 않았지만 무료와 유료 이용 단계를 모두 계획하고 있다. 비공개 베타는 2026년 후반에 시작할 예정이다."
+                "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트가 예정돼 있고, 아직 공개 출시일은 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity Sparkが\n作家の素材でAIゲーム",
-          "body": "Unity SparkはAsset Store素材で作るが、仕上げは人の仕事だ。",
-          "mini_headline": "Unity SparkとAsset Storeが連携",
+          "headline": "WhenereのAI物語が\nFortniteに登場",
+          "body": "WhenereがFortniteにAI-drivenの物語プラットフォームを導入する。",
+          "mini_headline": "Whenere、FortniteにAI物語を導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi作家Neal Stephensonの会社Whenereが、Jane Austenの『高慢と偏見（Pride and Prejudice）』をFortniteに持ち込む。Whenereは自らを「Fortnite内で直接視聴できる、没入感のあるシネマティックな物語づくりを支援するweb-basedのスクリプトエディター」と説明している。"
+              },
+              {
+                "t": "p",
+                "x": "原作をそのまま再現するのではなく、Netherfield Parkのような舞台を用意する。ユーザーは場所を選び、動きをスクリプト化し、セリフ（self-writtenで自作するか、AIの助けを借りる）を加えたうえで、WhenereのFortnite島で公開する。"
+              },
+              {
+                "t": "p",
+                "x": "WhenereはGoogleのGeminiを基盤とするAIツールDreamlandsを使い、「家具や装飾（décor）の多くを生成し、歴史的な正確さを保つ」。StephensonはGoogleに「ここは、AIが創造性を置き換えるのではなく、補強し高める場になりうる」と語った。"
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unityは、ブラウザ上で動くゲーム制作プラットフォーム「Unity Spark」を発表した。従来のプログラミングやUnity Editor全体を先に習得しなくても、インタラクティブな体験を記述し、組み立て、磨き上げ、公開できるようにすることを狙う。"
-              },
-              {
-                "t": "p",
-                "x": "Unity CEOのMatt Bromberg氏は、Sparkを一つのプロンプトでゲームを生み出すツールとはまったく異なるものとして位置づける。目指すのはアイデアを形にする際の技術的な障壁を一部取り除くことであり、創作プロセスを自動化することでも、最初のプロンプトで完成したゲームができると装うことでもない。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Untiy Sparkで作られたAction RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Unity Sparkで作られたShooter"
-              },
-              {
-                "t": "p",
-                "x": "「これは“one-shotting”の話ではない。すでに生み出されたゲームをAIに吐き出させても、次のHideo Kojimaにはなれない…Unity SparkはUnity Asset Storeに直接つながっており、コミュニティのアーティストが作った数千点の高品質なアセットを使って制作できる」– Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Financial Timesによると、Sparkは「一部のアセットを生成」できるが、画像やエフェクトの大半はUnityが持つ人の手による既存ライブラリから提供され、素材を提供したアーティストにはクレジットと報酬が与えられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Unity Sparkで作られたHaunted House"
-              },
-              {
-                "t": "p",
-                "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
+                "x": "Aftermathは、AI-generatedのアセットが二次創作の書き手を遠ざけかねないとし、「またひとつのAIハイプ」と評した。クローズドプレイテストが予定されているが、一般向けの発売日はまだない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity Spark用\n艺术家素材做AI游戏",
-          "body": "Unity Spark借助Asset Store素材做AI游戏，但CEO称打磨仍靠创作者。",
-          "mini_headline": "Unity Spark对接Asset Store",
+          "headline": "Whenere把AI叙事\n带进Fortnite",
+          "body": "Stephenson的Whenere将把AI-driven叙事平台带进Fortnite。",
+          "mini_headline": "Whenere把AI故事带进Fortnite",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Sci-fi作家Neal Stephenson的公司Whenere正把Jane Austen的《傲慢与偏见》（Pride and Prejudice）带进Fortnite。Whenere自称是一款“web-based脚本编辑器，帮助你创作可直接在Fortnite内观看的沉浸式电影化故事”。"
+              },
+              {
+                "t": "p",
+                "x": "它并不复刻原著，而是搭建Netherfield Park等场景：用户选择地点、编排走位、添加对白（可self-written自行撰写，也可借助AI），然后发布到Whenere的Fortnite岛上。"
+              },
+              {
+                "t": "p",
+                "x": "Whenere使用由Google的Gemini驱动的AI工具Dreamlands来“生成大部分家具和装饰（décor），并保持历史准确性”。Stephenson对Google表示：“这里可以成为AI增强和提升创造力、而非取代创造力的地方。”"
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity发布了Unity Spark，这是一个基于浏览器的游戏创作平台，旨在让人们无需先学习传统编程或完整的Unity Editor，就能描述、搭建、打磨并发布互动体验。"
-              },
-              {
-                "t": "p",
-                "x": "Unity CEO Matt Bromberg对Spark的定位与“一句提示词生成游戏”的工具截然不同。其目标是消除实现创意时的部分技术门槛，而不是让创作过程自动化，也不是假装第一个提示词就能产出完整的游戏。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | 用Untiy Spark制作的Action RPG"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | 用Unity Spark制作的Shooter"
-              },
-              {
-                "t": "p",
-                "x": "“这无关‘one-shotting’。让AI照搬一款已经被发明出来的游戏，并不能让你成为下一个Hideo Kojima……Unity Spark直接连接Unity Asset Store，你可以使用社区艺术家创作的数千个高质量素材进行开发。”– Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "据Financial Times报道，Spark将能够“生成部分素材”，但大部分图像和特效将来自Unity现有的人工制作素材库，贡献素材的艺术家会获得署名和报酬。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | 用Unity Spark制作的Haunted House"
-              },
-              {
-                "t": "p",
-                "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
+                "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unity Spark crea juegos con AI\na partir de recursos de artistas",
-          "body": "Unity Spark combina juegos con AI y arte de Asset Store, pero su CEO dice que los creadores aún deben diseñar y pulir.",
-          "mini_headline": "Unity Spark se une a Asset Store",
+          "headline": "Whenere, de Stephenson, lleva\nrelatos con AI a Fortnite",
+          "body": "Whenere, la empresa de Neal Stephenson, lleva a Fortnite una plataforma narrativa AI-driven.",
+          "mini_headline": "Whenere lleva historias con AI a Fortnite",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+              },
+              {
+                "t": "p",
+                "x": "Whenere, la empresa del autor de Sci-fi Neal Stephenson, lleva Pride and Prejudice, de Jane Austen, a Fortnite. Whenere se describe como un \"editor de guiones web-based que te ayuda a crear historias inmersivas y cinematográficas que se pueden ver directamente dentro de Fortnite\"."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de recrear el libro, construye escenarios como Netherfield Park, donde los usuarios eligen una ubicación, guionizan el movimiento y añaden diálogos (self-written o con ayuda de AI), y luego publican en la isla de Fortnite de Whenere."
+              },
+              {
+                "t": "p",
+                "x": "Whenere usa Dreamlands, una herramienta de AI basada en Gemini de Google, para \"generar gran parte del mobiliario y la decoración (décor) y mantener la precisión histórica\". Stephenson dijo a Google: \"Este puede ser un lugar donde la AI aumente y potencie la creatividad, no donde la sustituya\"."
+              },
+              {
                 "t": "video",
-                "yt": "IkcK7aeMw5A"
+                "yt": "ZdBRAz9yvro"
               },
               {
                 "t": "p",
-                "x": "Unity ha anunciado Unity Spark, una plataforma de creación de juegos basada en navegador que busca que cualquiera pueda describir, construir, refinar y publicar experiencias interactivas sin aprender antes programación convencional ni el Unity Editor completo."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de Unity, Matt Bromberg, presenta Spark de forma muy distinta a los generadores de juegos de un solo prompt. El objetivo es eliminar parte de las barreras técnicas para llevar las ideas a la práctica, no automatizar el proceso creativo ni fingir que un primer prompt produce un juego terminado."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/5f/images/6ac6b33721298/widen_1840x0.png",
-                "cap": "Emberwell | Action RPG hecho en Untiy Spark"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/74/images/6ac6b31f3e12f/widen_1840x0.png",
-                "cap": "Space Corridor | Shooter hecho en Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "“No se trata de ‘one-shotting’. Pedirle a la AI que regurgite un juego ya inventado no te convierte en el próximo Hideo Kojima… Unity Spark se conecta directamente con la Unity Asset Store, así que puedes crear con miles de recursos de alta calidad hechos por artistas de nuestra comunidad.” – Matt Bromberg"
-              },
-              {
-                "t": "p",
-                "x": "Según el Financial Times, Spark podrá “generar algunos recursos”, pero la mayor parte de sus imágenes y efectos procederá de la biblioteca existente de Unity, hecha por personas, y los artistas que contribuyan recibirán crédito y compensación."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.80.lv/api/upload/content/f3/images/6ac6b366e6301/widen_1840x0.png",
-                "cap": "Horror Story | Haunted House hecha en Unity Spark"
-              },
-              {
-                "t": "p",
-                "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
+                "x": "Aftermath sostiene que los recursos AI-generated podrían alejar a los autores de fanfic y lo califica de \"otra muestra más del hype de la AI\". Hay prevista una prueba de juego cerrada; aún no hay fecha de lanzamiento pública."
               }
             ]
           }
@@ -505,15 +356,448 @@
       }
     },
     {
-      "id": "games-astrocade-10m-monthly-users",
+      "id": "games-doom-dlss5",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
-      "body": "Astrocade는 AI 슬롭투성이인데도 이미 월 10M 명이 개의치 않고 즐긴다.",
-      "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+      "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
+      "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
+      "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+          },
+          {
+            "t": "p",
+            "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 64-bit Windows 애플리케이션으로 바꾸고 DirectX 12 프레젠테이션 경로를 붙였다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+          },
+          {
+            "t": "p",
+            "x": "DOOM은 여전히 내부에서 320x200 해상도로 렌더링해 1280x800 DX12 창에 띄운다. 다만 이제는 수정된 렌더러가 매 프레임 깊이, 노멀, 모션 데이터를 뽑아낸다."
+          },
+          {
+            "t": "video",
+            "yt": "KFZ5NHp2Wj0"
+          },
+          {
+            "t": "p",
+            "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 디테일 가운데 일부는 꽤 낯설게 보이기도 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+          },
+          {
+            "t": "p",
+            "x": "GPLv2 소스 코드는 GitHub에 올라와 있다. DOOM IWAD는 사용자가 직접 준비해 포트를 빌드하면 된다."
+          }
+        ]
+      },
+      "lead_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg",
+      "text": {
+        "en": {
+          "headline": "Original DOOM gets DLSS 5\nneural rendering in DX12 port",
+          "body": "Developer Nikolai Zhivotenko's DirectX 12 port of DOOM adds an NVIDIA DLSS 5 neural rendering mode.",
+          "mini_headline": "DOOM gets DLSS 5 neural rendering",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Developer Nikolai Zhivotenko has brought NVIDIA DLSS 5 Neural Rendering to the original 1993 DOOM through a custom Windows port. DOOM + DLSS 5 is based on Linux DOOM 1.10, converted into a 64-bit Windows application with a DirectX 12 presentation path."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM still renders internally at 320x200, presented in a 1280x800 DX12 window, but the modified renderer now generates depth, normal, and motion data for every frame."
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "Modes include DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K and nearest-neighbor 4x. The DLSS 5 mode runs the DLSS 4.5 path before applying DLSS 5 Neural Rendering, if the DLSS 5 Swapper setup is installed. Some reconstructed details can look rather unusual."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The GPLv2 source code is on GitHub; users supply their own DOOM IWAD and build the port."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
+          "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
+          "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 64-bit Windows 애플리케이션으로 바꾸고 DirectX 12 프레젠테이션 경로를 붙였다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM은 여전히 내부에서 320x200 해상도로 렌더링해 1280x800 DX12 창에 띄운다. 다만 이제는 수정된 렌더러가 매 프레임 깊이, 노멀, 모션 데이터를 뽑아낸다."
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 디테일 가운데 일부는 꽤 낯설게 보이기도 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2 소스 코드는 GitHub에 올라와 있다. DOOM IWAD는 사용자가 직접 준비해 포트를 빌드하면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初代DOOMにDLSS 5\nDX12版でニューラル描画",
+          "body": "DirectX 12版DOOMにNVIDIA DLSS 5のニューラル描画モードが加わった。",
+          "mini_headline": "DOOMにDLSS 5のニューラル描画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "開発者のNikolai Zhivotenkoが、独自のWindows移植版を通じて1993年のオリジナル版DOOMにNVIDIA DLSS 5 Neural Renderingを導入した。DOOM + DLSS 5はLinux DOOM 1.10をベースに、DirectX 12の表示パスを備えた64-bit Windowsアプリケーションへ変換したものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOMはいまも内部では320x200で描画し、1280x800のDX12ウィンドウに表示するが、改修されたレンダラーが毎フレームの深度、法線、モーションデータを生成するようになった。"
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "モードはDLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K と nearest-neighbor 4x を備える。DLSS 5 Swapperのセットアップが導入されていれば、DLSS 5モードはDLSS 4.5のパスを経たうえでDLSS 5 Neural Renderingを適用する。再構成されたディテールの一部は、かなり奇妙に見えることがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2のソースコードはGitHubで公開されており、ユーザーは自分のDOOM IWADを用意して移植版をビルドする。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "初代DOOM迎来DLSS 5\nDX12移植版实现神经渲染",
+          "body": "DirectX 12移植版DOOM新增NVIDIA DLSS 5神经渲染模式。",
+          "mini_headline": "DOOM迎来DLSS 5神经渲染",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "开发者Nikolai Zhivotenko通过自制的Windows移植版，为1993年的初代DOOM带来了NVIDIA DLSS 5 Neural Rendering。DOOM + DLSS 5基于Linux DOOM 1.10，被转换为带有DirectX 12呈现路径的64-bit Windows应用程序。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM内部仍以320x200渲染，并在1280x800的DX12窗口中呈现，但修改后的渲染器如今会为每一帧生成深度、法线和运动数据。"
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "可选模式包括DLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K 和 nearest-neighbor 4x 等。若已安装DLSS 5 Swapper设置，DLSS 5模式会先运行DLSS 4.5路径，再应用DLSS 5 Neural Rendering。部分重建出的细节看起来可能相当怪异。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2源代码已发布在GitHub上；用户需自备DOOM IWAD并自行构建该移植版。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un port DX12 del DOOM original\nsuma DLSS 5 Neural Rendering",
+          "body": "El port a DirectX 12 de DOOM creado por Nikolai Zhivotenko añade un modo de renderizado neuronal NVIDIA DLSS 5.",
+          "mini_headline": "DOOM recibe el renderizado neuronal DLSS 5",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El desarrollador Nikolai Zhivotenko ha llevado NVIDIA DLSS 5 Neural Rendering al DOOM original de 1993 mediante un port personalizado para Windows. DOOM + DLSS 5 se basa en Linux DOOM 1.10, convertido en una aplicación de Windows de 64-bit con una ruta de presentación DirectX 12."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM sigue renderizando internamente a 320x200 y se muestra en una ventana DX12 de 1280x800, pero el renderizador modificado ahora genera datos de profundidad, normales y movimiento en cada fotograma."
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "Los modos incluyen DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K y nearest-neighbor 4x. El modo DLSS 5 ejecuta la ruta de DLSS 4.5 antes de aplicar DLSS 5 Neural Rendering, siempre que esté instalada la configuración DLSS 5 Swapper. Algunos detalles reconstruidos pueden verse bastante extraños."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El código fuente, bajo GPLv2, está en GitHub; los usuarios aportan su propio DOOM IWAD y compilan el port."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
+          "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
+          "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 바탕으로 DirectX 12 프레젠테이션 경로를 갖춘 64-bit Windows 애플리케이션으로 변환한 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM은 여전히 내부적으로 320x200 해상도로 렌더링하고 1280x800 DX12 창에 표시하지만, 수정된 렌더러가 이제 매 프레임의 깊이, 노멀, 모션 데이터를 생성한다."
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 일부 디테일은 꽤 낯설어 보일 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2 소스 코드는 GitHub에 있으며, 사용자가 DOOM IWAD를 직접 준비해 포트를 빌드한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "初代DOOMにDLSS 5\nDX12版でニューラル描画",
+          "body": "DirectX 12版DOOMにNVIDIA DLSS 5のニューラル描画モードが加わった。",
+          "mini_headline": "DOOMにDLSS 5のニューラル描画",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "開発者のNikolai Zhivotenkoが、独自のWindows移植版を通じて1993年のオリジナル版DOOMにNVIDIA DLSS 5 Neural Renderingを導入した。DOOM + DLSS 5はLinux DOOM 1.10をベースに、DirectX 12の表示パスを備えた64-bit Windowsアプリケーションへ変換したものだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOMはいまも内部では320x200で描画し、1280x800のDX12ウィンドウに表示するが、改修されたレンダラーが毎フレームの深度、法線、モーションデータを生成するようになった。"
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "モードはDLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K と nearest-neighbor 4x を備える。DLSS 5 Swapperのセットアップが導入されていれば、DLSS 5モードはDLSS 4.5のパスを経たうえでDLSS 5 Neural Renderingを適用する。再構成されたディテールの一部は、かなり奇妙に見えることがある。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2のソースコードはGitHubで公開されており、ユーザーは自分のDOOM IWADを用意して移植版をビルドする。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "初代DOOM迎来DLSS 5\nDX12移植版实现神经渲染",
+          "body": "DirectX 12移植版DOOM新增NVIDIA DLSS 5神经渲染模式。",
+          "mini_headline": "DOOM迎来DLSS 5神经渲染",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "开发者Nikolai Zhivotenko通过自制的Windows移植版，为1993年的初代DOOM带来了NVIDIA DLSS 5 Neural Rendering。DOOM + DLSS 5基于Linux DOOM 1.10，被转换为带有DirectX 12呈现路径的64-bit Windows应用程序。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM内部仍以320x200渲染，并在1280x800的DX12窗口中呈现，但修改后的渲染器如今会为每一帧生成深度、法线和运动数据。"
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "可选模式包括DLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K 和 nearest-neighbor 4x 等。若已安装DLSS 5 Swapper设置，DLSS 5模式会先运行DLSS 4.5路径，再应用DLSS 5 Neural Rendering。部分重建出的细节看起来可能相当怪异。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "GPLv2源代码已发布在GitHub上；用户需自备DOOM IWAD并自行构建该移植版。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un port DX12 del DOOM original\nsuma DLSS 5 Neural Rendering",
+          "body": "El port a DirectX 12 de DOOM creado por Nikolai Zhivotenko añade un modo de renderizado neuronal NVIDIA DLSS 5.",
+          "mini_headline": "DOOM recibe el renderizado neuronal DLSS 5",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El desarrollador Nikolai Zhivotenko ha llevado NVIDIA DLSS 5 Neural Rendering al DOOM original de 1993 mediante un port personalizado para Windows. DOOM + DLSS 5 se basa en Linux DOOM 1.10, convertido en una aplicación de Windows de 64-bit con una ruta de presentación DirectX 12."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+              },
+              {
+                "t": "p",
+                "x": "DOOM sigue renderizando internamente a 320x200 y se muestra en una ventana DX12 de 1280x800, pero el renderizador modificado ahora genera datos de profundidad, normales y movimiento en cada fotograma."
+              },
+              {
+                "t": "video",
+                "yt": "KFZ5NHp2Wj0"
+              },
+              {
+                "t": "p",
+                "x": "Los modos incluyen DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K y nearest-neighbor 4x. El modo DLSS 5 ejecuta la ruta de DLSS 4.5 antes de aplicar DLSS 5 Neural Rendering, siempre que esté instalada la configuración DLSS 5 Swapper. Algunos detalles reconstruidos pueden verse bastante extraños."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El código fuente, bajo GPLv2, está en GitHub; los usuarios aportan su propio DOOM IWAD y compilan el port."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-ctr-recomp",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
+      "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
+      "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -521,209 +805,198 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-            "cap": "© Astrocade / Kotaku"
+            "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "AI-generated 게임과 경험을 내세운 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 사이 약 오백만 명에서 10M 명으로 늘었다고 밝혔다. Roblox처럼 누구나 AI 도구로 게임을 만들고, 다른 사용자가 그 게임을 플레이한다."
+            "x": "Crash Team Racing: Turbocharged는 PS1 레이싱 게임을 PC로 옮긴 무료 포트다. 사람이 만든(human-made) CTR native decomp 프로젝트 위에 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 얹었다."
           },
           {
             "t": "p",
-            "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 앞두고 미국(United States)에서 대대적인 마케팅에 나섰다."
+            "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
           },
           {
-            "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-            "cap": "©Astrocade / Kotaku"
-          },
-          {
-            "t": "p",
-            "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권 있는 캐릭터를 가져다 쓴 게임, Steal a Brainrot 같은 Roblox 히트작 모방작이다. 하나같이 AI 슬롭 아트를 쓰는데도 일부는 플레이 수가 수십만에서 수백만 회에 이른다. 게임은 TikTok처럼 세로 화면에 끝없는 알고리즘 피드로 흘러나오고, Sadeghian은 이를 “playables”라고 부른다."
+            "t": "video",
+            "yt": "e2bI3uvGHlI"
           },
           {
             "t": "p",
-            "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+            "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 그는 기능마다 계획을 세워 무엇을 바꿀지 정한 뒤, 검토하기 쉽게 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 잡는 PGXP가 대표적인 예다."
+          },
+          {
+            "t": "p",
+            "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할지 몰라도 결국 AI가 만든 결과물이라는 얘기다."
           }
         ]
       },
+      "lead_image": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg",
       "text": {
         "en": {
-          "headline": "AI-made games platform\nhits 10 million monthly users",
-          "body": "Astrocade is full of AI slop, yet it already draws 10 million monthly users who don't seem to care.",
-          "mini_headline": "Astrocade hits 10M monthly users",
+          "headline": "PS1 Crash Team Racing's PC port\nhad its code written by LLMs",
+          "body": "Developer Camzie99 confirmed LLMs wrote the code for the free 4K Crash Team Racing PC port, function by function.",
+          "mini_headline": "Crash Team Racing PC port coded by LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Astrocade, a free online platform built around AI-generated games and experiences, now boasts 10 million monthly users. CEO Amir Sadeghian told Gamesbeat it grew from around five million to 10 million in just the last four months. Anyone can create games with its AI tools, and other users can play them, similar to Roblox."
+                "x": "Crash Team Racing: Turbocharged, a free PC port of the PS1 racer, builds on the human-made CTR native decomp project and adds native-resolution rendering \"up to 4K and beyond,\" widescreen, enhanced textures and up to 240fps."
               },
               {
                 "t": "p",
-                "x": "“The whole reason we exist as a platform is the AI creation tools, which enables everyone to create,” said Sadeghian. The company is preparing to launch an iOS app and is marketing heavily in the United States."
+                "x": "Developer Camzie99 confirmed in a YouTube comment that Large Language Models were used to create the port."
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "Many of the most popular games are Minecraft clones, games with copyrighted characters, and knock-offs of Roblox hits like Steal a Brainrot, all with AI slop artwork, yet some have hundreds of thousands or even millions of plays. Like TikTok, the games are vertical and served through an endless algorithmic feed; Sadeghian calls them “playables.”"
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“AI is now like writing code better than a lot of engineers,” said the CEO. “And even some of these 3D assets are getting to a point that it’s like very hard to distinguish.”"
+                "x": "\"I did use LLMs to write code, however it wasn't with vague prompts,\" Camzie99 says. They planned each feature and decided what needed to change, then had an LLM write the code \"in smaller chunks, function by function, or limited to a single file\" so it was easy to review. PGXP, the PS1 wobble fix, is cited as an example."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ notes there's no AI disclaimer on the project page or promotional materials, calling the omission deceptive: it may dodge \"vibe-coded\" status, but it's still the product of AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
-          "body": "Astrocade는 AI 슬롭투성이인데도 이미 월 10M 명이 개의치 않고 즐긴다.",
-          "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+          "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
+          "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
+          "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generated 게임과 경험을 내세운 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 사이 약 오백만 명에서 10M 명으로 늘었다고 밝혔다. Roblox처럼 누구나 AI 도구로 게임을 만들고, 다른 사용자가 그 게임을 플레이한다."
+                "x": "Crash Team Racing: Turbocharged는 PS1 레이싱 게임을 PC로 옮긴 무료 포트다. 사람이 만든(human-made) CTR native decomp 프로젝트 위에 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 얹었다."
               },
               {
                 "t": "p",
-                "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 앞두고 미국(United States)에서 대대적인 마케팅에 나섰다."
+                "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권 있는 캐릭터를 가져다 쓴 게임, Steal a Brainrot 같은 Roblox 히트작 모방작이다. 하나같이 AI 슬롭 아트를 쓰는데도 일부는 플레이 수가 수십만에서 수백만 회에 이른다. 게임은 TikTok처럼 세로 화면에 끝없는 알고리즘 피드로 흘러나오고, Sadeghian은 이를 “playables”라고 부른다."
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+                "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 그는 기능마다 계획을 세워 무엇을 바꿀지 정한 뒤, 검토하기 쉽게 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 잡는 PGXP가 대표적인 예다."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할지 몰라도 결국 AI가 만든 결과물이라는 얘기다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-made ゲーム基盤が\n月間10M 人を突破",
-          "body": "AstrocadeはAIスロップだらけだが、既に月間10M 人が気にせず遊ぶ。",
-          "mini_headline": "Astrocade、月間10M 人を突破",
+          "headline": "PS1レースゲームのPC版\nコードはLLMsが執筆",
+          "body": "Crash Team RacingのPC移植版のコードは、LLMsが関数単位で書いた。",
+          "mini_headline": "Crash Team RacingのPC版、LLMsがコード執筆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generatedのゲームや体験を中心とした無料オンラインプラットフォームAstrocadeの月間ユーザーが10M 人に達した。CEOのAmir Sadeghian氏はGamesbeatに対し、直近四か月で約五百万人から10M 人へ伸びたと語った。Robloxと同様に、誰でもAIツールでゲームを作り、他のユーザーがそれを遊べる。"
+                "x": "PS1のレースゲームを無料でPCに移植したCrash Team Racing: Turbochargedは、人の手で作られた（human-made）CTR native decompプロジェクトを土台に、「4K 以上まで」のnative-resolutionレンダリング、ワイドスクリーン、強化テクスチャ、最大240fpsを加えている。"
               },
               {
                 "t": "p",
-                "x": "「プラットフォームとして私たちが存在する理由はすべて、誰もが創作できるようにするAI制作ツールにある」とSadeghian氏は述べた。同社はiOSアプリのローンチを準備中で、米国（United States）で大々的にマーケティングを展開している。"
+                "x": "開発者のCamzie99は、YouTubeのコメントで、移植版の制作にLarge Language Modelsを使ったことを認めた。"
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "人気上位のゲームの多くはMinecraftのクローン、著作権のあるキャラクターを使ったゲーム、Steal a BrainrotなどRobloxのヒット作の模倣品で、いずれもAIスロップのアートワークだが、中には数十万から数百万回プレイされたものもある。TikTokのようにゲームは縦型で、終わりのないアルゴリズムのフィードで配信される。Sadeghian氏はこれを「playables」と呼ぶ。"
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "「今やAIは多くのエンジニアよりも上手にコードを書くようなものだ」とCEOは言う。「一部の3Dアセットでさえ、見分けるのが非常に難しいところまで来ている」"
+                "x": "「コードを書くのにLLMsを使ったのは確かだが、あいまいなプロンプトで書かせたわけではない」とCamzie99は言う。各機能を計画して何を変えるべきかを決め、そのうえでレビューしやすいよう「小さな塊に分け、関数ごとに、あるいは単一ファイルに限定して」LLMにコードを書かせた。例として挙げられているのが、PS1特有の揺れを直すPGXPだ。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+は、プロジェクトページにも宣伝素材にもAIに関する注記がないと指摘し、この省略は欺瞞的だとする。「vibe-coded」の扱いは避けられるかもしれないが、それでもAIの産物であることに変わりはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made 游戏平台\n月活用户突破10M",
-          "body": "Astrocade充斥AI垃圾内容，却已吸引10M 月度用户，他们似乎并不在意。",
-          "mini_headline": "Astrocade月度用户达10M",
+          "headline": "PS1赛车游戏PC移植版\n代码由LLMs编写",
+          "body": "免费4K Crash Team Racing PC移植版的代码由LLMs逐个函数编写。",
+          "mini_headline": "Crash Team Racing PC版由LLMs编写代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Astrocade是一个以AI-generated游戏和体验为核心的免费在线平台，如今月度用户已达10M。CEO Amir Sadeghian对Gamesbeat表示，平台仅在过去四个月就从约五百万增长到10M。与Roblox类似，任何人都能用它的AI工具制作游戏，其他用户则可以游玩。"
+                "x": "Crash Team Racing: Turbocharged是这款PS1赛车游戏的免费PC移植版，以人工打造（human-made）的CTR native decomp项目为基础，加入了“最高4K 乃至更高”的native-resolution渲染、宽屏、增强纹理以及最高240fps。"
               },
               {
                 "t": "p",
-                "x": "“我们作为平台存在的全部意义，就在于让每个人都能创作的AI创作工具。”Sadeghian说。公司正准备推出iOS应用，并在美国（United States）大力开展营销。"
+                "x": "开发者Camzie99在YouTube评论中证实，该移植版的制作使用了Large Language Models。"
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "最受欢迎的游戏中，许多是Minecraft克隆作、使用受版权保护角色的游戏，以及Steal a Brainrot等Roblox热门作品的仿制品，美术全是AI垃圾内容，但其中一些游玩次数达到数十万甚至数百万。与TikTok一样，这些游戏采用竖屏，通过无尽的算法信息流推送；Sadeghian称之为“playables”。"
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“AI现在写代码的能力好像比很多工程师都强，”这位CEO说，“甚至一些3D素材也已经到了很难分辨的程度。”"
+                "x": "“我确实用LLMs写了代码，但不是靠含糊的提示词，”Camzie99表示。Camzie99先规划每项功能、决定需要改动的部分，再让LLM“以更小的块、逐个函数，或限定在单个文件内”编写代码，以便审查。修正PS1画面抖动的PGXP就是一例。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+指出，项目页面和宣传材料上都没有AI声明，并称这种省略具有欺骗性：它或许能避开“vibe-coded”的标签，但依然是AI的产物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Plataforma de juegos AI-made\nllega a 10 millones al mes",
-          "body": "Astrocade está llena de AI slop, pero ya atrae a 10 millones de usuarios mensuales a los que no parece importarles.",
-          "mini_headline": "Astrocade llega a 10M de usuarios mensuales",
+          "headline": "Crash Team Racing (PS1) en PC:\nsu código lo escribieron LLMs",
+          "body": "Camzie99 confirmó que LLMs crearon función por función el código del port gratuito en 4K de Crash Team Racing para PC.",
+          "mini_headline": "El port a PC de Crash Team Racing, programado con LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Astrocade, una plataforma en línea gratuita centrada en juegos y experiencias AI-generated, ya cuenta con 10 millones de usuarios mensuales. Su CEO, Amir Sadeghian, dijo a Gamesbeat que pasó de unos cinco millones a 10 millones en solo los últimos cuatro meses. Cualquiera puede crear juegos con sus herramientas de AI y otros usuarios pueden jugarlos, de forma similar a Roblox."
+                "x": "Crash Team Racing: Turbocharged, un port gratuito para PC del juego de carreras de PS1, se basa en el proyecto CTR native decomp, human-made, y añade renderizado native-resolution \"hasta 4K y más allá\", pantalla panorámica, texturas mejoradas y hasta 240fps."
               },
               {
                 "t": "p",
-                "x": "“Toda la razón por la que existimos como plataforma son las herramientas de creación con AI, que permiten crear a todo el mundo”, dijo Sadeghian. La empresa se prepara para lanzar una app para iOS y está haciendo una fuerte campaña de marketing en Estados Unidos (United States)."
+                "x": "El desarrollador Camzie99 confirmó en un comentario de YouTube que se usaron Large Language Models para crear el port."
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "Muchos de los juegos más populares son clones de Minecraft, juegos con personajes protegidos por derechos de autor e imitaciones de éxitos de Roblox como Steal a Brainrot, todos con arte de AI slop, y aun así algunos suman cientos de miles o incluso millones de partidas. Como en TikTok, los juegos son verticales y se sirven a través de un feed algorítmico infinito; Sadeghian los llama “playables”."
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“La AI ya escribe código mejor que muchos ingenieros”, dijo el CEO. “E incluso algunos de estos recursos 3D están llegando a un punto en el que es muy difícil distinguirlos”."
+                "x": "\"Sí usé LLMs para escribir código, pero no con prompts vagos\", dice Camzie99. Planificó cada función y decidió qué había que cambiar, y luego hizo que un LLM escribiera el código \"en fragmentos más pequeños, función por función, o limitado a un solo archivo\" para que fuera fácil de revisar. Se cita como ejemplo PGXP, la corrección del tambaleo de PS1."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ señala que no hay ningún aviso sobre AI en la página del proyecto ni en los materiales promocionales, y califica la omisión de engañosa: puede que esquive la etiqueta de \"vibe-coded\", pero sigue siendo producto de la AI."
               }
             ]
           }
@@ -731,145 +1004,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-made 게임 플랫폼\n월 사용자 10M 명 돌파",
-          "body": "Astrocade는 AI 슬롭투성이지만 이미 월 10M 명이 개의치 않고 즐긴다.",
-          "mini_headline": "Astrocade, 월 사용자 10M 명 돌파",
+          "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
+          "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
+          "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generated 게임과 경험을 중심으로 한 무료 온라인 플랫폼 Astrocade의 월 사용자가 10M 명에 이르렀다. CEO Amir Sadeghian은 Gamesbeat에 최근 넉 달 만에 약 오백만 명에서 10M 명으로 늘었다고 말했다. Roblox처럼 누구나 AI 도구로 게임을 만들고 다른 사용자가 이를 플레이할 수 있다."
+                "x": "PS1 레이싱 게임의 무료 PC 포트인 Crash Team Racing: Turbocharged는 사람이 만든(human-made) CTR native decomp 프로젝트를 바탕으로 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 더했다."
               },
               {
                 "t": "p",
-                "x": "“우리가 플랫폼으로 존재하는 이유는 전적으로 누구나 창작할 수 있게 해주는 AI 창작 도구에 있습니다.” Sadeghian의 말이다. 회사는 iOS 앱 출시를 준비하며 미국(United States)에서 대대적인 마케팅을 펼치고 있다."
+                "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "가장 인기 있는 게임 상당수는 Minecraft 클론, 저작권이 있는 캐릭터를 쓴 게임, Steal a Brainrot 같은 Roblox 히트작의 모방작이며 모두 AI 슬롭 아트를 쓰지만, 일부는 플레이 수가 수십만에서 수백만 회에 이른다. TikTok처럼 게임은 세로 화면이고 끝없는 알고리즘 피드로 제공되며, Sadeghian은 이를 “playables”라고 부른다."
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“이제 AI는 많은 엔지니어보다 코드를 더 잘 쓰는 수준입니다.” CEO의 말이다. “일부 3D 에셋도 구별하기가 정말 어려운 지점에 이르고 있습니다.”"
+                "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 각 기능을 계획하고 무엇을 바꿔야 할지 정한 다음, 검토하기 쉽도록 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 고치는 PGXP가 그 예로 꼽힌다."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할 수 있을지 몰라도 결국 AI의 산물이라는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-made ゲーム基盤が\n月間10M 人を突破",
-          "body": "AstrocadeはAIスロップだらけだが、既に月間10M 人が気にせず遊ぶ。",
-          "mini_headline": "Astrocade、月間10M 人を突破",
+          "headline": "PS1レースゲームのPC版\nコードはLLMsが執筆",
+          "body": "Crash Team RacingのPC移植版のコードは、LLMsが関数単位で書いた。",
+          "mini_headline": "Crash Team RacingのPC版、LLMsがコード執筆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-generatedのゲームや体験を中心とした無料オンラインプラットフォームAstrocadeの月間ユーザーが10M 人に達した。CEOのAmir Sadeghian氏はGamesbeatに対し、直近四か月で約五百万人から10M 人へ伸びたと語った。Robloxと同様に、誰でもAIツールでゲームを作り、他のユーザーがそれを遊べる。"
+                "x": "PS1のレースゲームを無料でPCに移植したCrash Team Racing: Turbochargedは、人の手で作られた（human-made）CTR native decompプロジェクトを土台に、「4K 以上まで」のnative-resolutionレンダリング、ワイドスクリーン、強化テクスチャ、最大240fpsを加えている。"
               },
               {
                 "t": "p",
-                "x": "「プラットフォームとして私たちが存在する理由はすべて、誰もが創作できるようにするAI制作ツールにある」とSadeghian氏は述べた。同社はiOSアプリのローンチを準備中で、米国（United States）で大々的にマーケティングを展開している。"
+                "x": "開発者のCamzie99は、YouTubeのコメントで、移植版の制作にLarge Language Modelsを使ったことを認めた。"
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "人気上位のゲームの多くはMinecraftのクローン、著作権のあるキャラクターを使ったゲーム、Steal a BrainrotなどRobloxのヒット作の模倣品で、いずれもAIスロップのアートワークだが、中には数十万から数百万回プレイされたものもある。TikTokのようにゲームは縦型で、終わりのないアルゴリズムのフィードで配信される。Sadeghian氏はこれを「playables」と呼ぶ。"
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "「今やAIは多くのエンジニアよりも上手にコードを書くようなものだ」とCEOは言う。「一部の3Dアセットでさえ、見分けるのが非常に難しいところまで来ている」"
+                "x": "「コードを書くのにLLMsを使ったのは確かだが、あいまいなプロンプトで書かせたわけではない」とCamzie99は言う。各機能を計画して何を変えるべきかを決め、そのうえでレビューしやすいよう「小さな塊に分け、関数ごとに、あるいは単一ファイルに限定して」LLMにコードを書かせた。例として挙げられているのが、PS1特有の揺れを直すPGXPだ。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+は、プロジェクトページにも宣伝素材にもAIに関する注記がないと指摘し、この省略は欺瞞的だとする。「vibe-coded」の扱いは避けられるかもしれないが、それでもAIの産物であることに変わりはない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made 游戏平台\n月活用户突破10M",
-          "body": "Astrocade充斥AI垃圾内容，却已吸引10M 月度用户，他们似乎并不在意。",
-          "mini_headline": "Astrocade月度用户达10M",
+          "headline": "PS1赛车游戏PC移植版\n代码由LLMs编写",
+          "body": "免费4K Crash Team Racing PC移植版的代码由LLMs逐个函数编写。",
+          "mini_headline": "Crash Team Racing PC版由LLMs编写代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Astrocade是一个以AI-generated游戏和体验为核心的免费在线平台，如今月度用户已达10M。CEO Amir Sadeghian对Gamesbeat表示，平台仅在过去四个月就从约五百万增长到10M。与Roblox类似，任何人都能用它的AI工具制作游戏，其他用户则可以游玩。"
+                "x": "Crash Team Racing: Turbocharged是这款PS1赛车游戏的免费PC移植版，以人工打造（human-made）的CTR native decomp项目为基础，加入了“最高4K 乃至更高”的native-resolution渲染、宽屏、增强纹理以及最高240fps。"
               },
               {
                 "t": "p",
-                "x": "“我们作为平台存在的全部意义，就在于让每个人都能创作的AI创作工具。”Sadeghian说。公司正准备推出iOS应用，并在美国（United States）大力开展营销。"
+                "x": "开发者Camzie99在YouTube评论中证实，该移植版的制作使用了Large Language Models。"
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "最受欢迎的游戏中，许多是Minecraft克隆作、使用受版权保护角色的游戏，以及Steal a Brainrot等Roblox热门作品的仿制品，美术全是AI垃圾内容，但其中一些游玩次数达到数十万甚至数百万。与TikTok一样，这些游戏采用竖屏，通过无尽的算法信息流推送；Sadeghian称之为“playables”。"
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“AI现在写代码的能力好像比很多工程师都强，”这位CEO说，“甚至一些3D素材也已经到了很难分辨的程度。”"
+                "x": "“我确实用LLMs写了代码，但不是靠含糊的提示词，”Camzie99表示。Camzie99先规划每项功能、决定需要改动的部分，再让LLM“以更小的块、逐个函数，或限定在单个文件内”编写代码，以便审查。修正PS1画面抖动的PGXP就是一例。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+指出，项目页面和宣传材料上都没有AI声明，并称这种省略具有欺骗性：它或许能避开“vibe-coded”的标签，但依然是AI的产物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Plataforma de juegos AI-made\nllega a 10 millones al mes",
-          "body": "Astrocade está llena de AI slop, pero ya atrae a 10 millones de usuarios mensuales a los que no parece importarles.",
-          "mini_headline": "Astrocade llega a 10M de usuarios mensuales",
+          "headline": "Crash Team Racing (PS1) en PC:\nsu código lo escribieron LLMs",
+          "body": "Camzie99 confirmó que LLMs crearon función por función el código del port gratuito en 4K de Crash Team Racing para PC.",
+          "mini_headline": "El port a PC de Crash Team Racing, programado con LLMs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/ai-slop-games.jpg",
-                "cap": "© Astrocade / Kotaku"
+                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Astrocade, una plataforma en línea gratuita centrada en juegos y experiencias AI-generated, ya cuenta con 10 millones de usuarios mensuales. Su CEO, Amir Sadeghian, dijo a Gamesbeat que pasó de unos cinco millones a 10 millones en solo los últimos cuatro meses. Cualquiera puede crear juegos con sus herramientas de AI y otros usuarios pueden jugarlos, de forma similar a Roblox."
+                "x": "Crash Team Racing: Turbocharged, un port gratuito para PC del juego de carreras de PS1, se basa en el proyecto CTR native decomp, human-made, y añade renderizado native-resolution \"hasta 4K y más allá\", pantalla panorámica, texturas mejoradas y hasta 240fps."
               },
               {
                 "t": "p",
-                "x": "“Toda la razón por la que existimos como plataforma son las herramientas de creación con AI, que permiten crear a todo el mundo”, dijo Sadeghian. La empresa se prepara para lanzar una app para iOS y está haciendo una fuerte campaña de marketing en Estados Unidos (United States)."
+                "x": "El desarrollador Camzie99 confirmó en un comentario de YouTube que se usaron Large Language Models para crear el port."
               },
               {
-                "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/image-263.jpg",
-                "cap": "©Astrocade / Kotaku"
-              },
-              {
-                "t": "p",
-                "x": "Muchos de los juegos más populares son clones de Minecraft, juegos con personajes protegidos por derechos de autor e imitaciones de éxitos de Roblox como Steal a Brainrot, todos con arte de AI slop, y aun así algunos suman cientos de miles o incluso millones de partidas. Como en TikTok, los juegos son verticales y se sirven a través de un feed algorítmico infinito; Sadeghian los llama “playables”."
+                "t": "video",
+                "yt": "e2bI3uvGHlI"
               },
               {
                 "t": "p",
-                "x": "“La AI ya escribe código mejor que muchos ingenieros”, dijo el CEO. “E incluso algunos de estos recursos 3D están llegando a un punto en el que es muy difícil distinguirlos”."
+                "x": "\"Sí usé LLMs para escribir código, pero no con prompts vagos\", dice Camzie99. Planificó cada función y decidió qué había que cambiar, y luego hizo que un LLM escribiera el código \"en fragmentos más pequeños, función por función, o limitado a un solo archivo\" para que fuera fácil de revisar. Se cita como ejemplo PGXP, la corrección del tambaleo de PS1."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ señala que no hay ningún aviso sobre AI en la página del proyecto ni en los materiales promocionales, y califica la omisión de engañosa: puede que esquive la etiqueta de \"vibe-coded\", pero sigue siendo producto de la AI."
               }
             ]
           }
@@ -877,15 +1142,15 @@
       }
     },
     {
-      "id": "games-minecraft-x-twitter-ai-clone",
+      "id": "games-loish-genai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
-      "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
-      "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+      "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
+      "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
+      "mini_headline": "Loish, AI 사용 누명에 답하다",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/someone-used-ai-to-make-minecraft-playable-inside-twitter-with-working-multiplayer-and-immediately-sold-sponsorships-via-crypto",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -893,173 +1158,150 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
           },
           {
             "t": "p",
-            "x": "AI로 만든 비디오 게임 클론이 잇따라 쏟아진다. X 사용자 jaivin은 AI로 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 즐기게 만들었고, 게임 내 스폰서십은 암호화폐로 사게 했다."
+            "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 올라온 작업 과정 영상이 2023년에 직접 그린 그림임을 보여준다. Loish는 2003년부터 그림을 올려 왔다."
           },
           {
             "t": "p",
-            "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저에서 돌아가는 이 클론은 월드 링크를 누른 사람을 모두 같은 실시간 세션에 넣는다."
+            "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
           },
           {
             "t": "p",
-            "x": "무단 ‘이식판’을 알린 출시 게시물은 조회수 7.4M 회를 찍었다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
-          },
-          {
-            "t": "p",
-            "x": "이번 달(October)에만 GTA 5와 원작 Halo를 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 강력해질수록 기존 게임의 무단 버전이 나오기까지 걸리는 시간은 몇 시간, 심지어 몇 분까지 줄어들 수 있다."
+            "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
           }
         ]
       },
+      "lead_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
       "text": {
         "en": {
-          "headline": "AI makes Minecraft playable\ninside X with multiplayer",
-          "body": "Someone used AI to make Minecraft playable inside X with working multiplayer, then sold sponsorships via crypto.",
-          "mini_headline": "AI Minecraft clone runs inside X",
+          "headline": "Loish answers a false claim\nthat she used generative AI",
+          "body": "Artist Loish took to Instagram to explain why false gen-AI accusations matter and how to spot original creativity.",
+          "mini_headline": "Loish answers a false AI claim",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "The AI video game clone explosion continues at pace. X user jaivin used AI to make Mojang’s Minecraft playable inside posts on X / Twitter with working multiplayer, and is letting people buy in-game sponsorships with cryptocurrency."
+                "x": "Artist Loish (Lois van Baarle, whose work appears in Horizon Zero Dawn) was accused \"over on Tiktok\" of using genAI in her artwork. In an Instagram video she showed how the piece could easily be identified as original: her feed has process videos of it, proving she made it in 2023. She has been posting art since 2003."
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft is a block game in a post: every world is a link on X, and everyone who opens it plays together,” reads the official blurb. “Put your ad at the top of the server list, in a world’s sponsor leaderboard, or your logo on the Block Dragon.” The browser-based clone puts everyone who clicks a world’s link into the same real-time session."
+                "x": "\"It's a rough time for artists,\" she wrote. \"We are forced to compete with slop in our social media algorithms and in our creative industries, while our work is relentlessly fed into this machine without our consent. Now we're at a point where we can be accused of using AI for our art, even when documenting every step of our process.\""
               },
               {
                 "t": "p",
-                "x": "The unauthorized “port” has drawn 7.4 million views on its launch post. Jaivin insisted that “Tweetcraft uses none of Minecraft's assets and is not associated with Mojang or Microsoft.”"
-              },
-              {
-                "t": "p",
-                "x": "October has already seen GTA 5 and the original Halo made playable in a browser; the GTA 5 clone and a Fallout: New York game were hit by takedowns. With AI models becoming increasingly powerful, the time it takes for unauthorized versions of established games to appear could shrink to just hours or even minutes."
+                "x": "Her advice: \"Click beyond the comment section. Check profiles, watch process videos, learn the warning signs for AI generated imagery... Don't forget what makes us human!\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
-          "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
-          "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+          "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
+          "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
+          "mini_headline": "Loish, AI 사용 누명에 답하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AI로 만든 비디오 게임 클론이 잇따라 쏟아진다. X 사용자 jaivin은 AI로 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 즐기게 만들었고, 게임 내 스폰서십은 암호화폐로 사게 했다."
+                "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 올라온 작업 과정 영상이 2023년에 직접 그린 그림임을 보여준다. Loish는 2003년부터 그림을 올려 왔다."
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저에서 돌아가는 이 클론은 월드 링크를 누른 사람을 모두 같은 실시간 세션에 넣는다."
+                "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
               },
               {
                 "t": "p",
-                "x": "무단 ‘이식판’을 알린 출시 게시물은 조회수 7.4M 회를 찍었다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 달(October)에만 GTA 5와 원작 Halo를 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 강력해질수록 기존 게임의 무단 버전이 나오기까지 걸리는 시간은 몇 시간, 심지어 몇 분까지 줄어들 수 있다."
+                "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでMinecraftが\nX内でマルチプレイ",
-          "body": "あるユーザーがAIでX内のマルチ対応Minecraftを作り、暗号資産で広告枠を売った。",
-          "mini_headline": "X内で動くAI製Minecraftクローン",
+          "headline": "Loish、生成AI\n使用の濡れ衣に反論",
+          "body": "LoishがInstagramで、誤ったgen-AI疑惑の問題と独創性の見分け方を語った。",
+          "mini_headline": "Loish、AI使用の濡れ衣に反論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AIによるビデオゲームのクローンの急増が勢いを保ったまま続いている。XユーザーのjaivinはAIを使い、MojangのMinecraftをX / Twitterの投稿内でマルチプレイ付きで遊べるようにし、さらに暗号資産でゲーム内スポンサー枠を購入できるようにした。"
+                "x": "アーティストのLoish（Horizon Zero Dawnにも作品が登場するLois van Baarle）は、「Tiktokで」作品にgenAIを使ったと非難された。Instagramの動画で彼女は、この作品がオリジナルだと簡単に確認できる方法を示した。フィードには制作過程の動画があり、2023年に自分で描いたことが証明できる。彼女は2003年から作品を投稿し続けている。"
               },
               {
                 "t": "p",
-                "x": "「Tweetcraftは投稿の中のブロックゲームだ。すべてのワールドはX上のリンクで、開いた人全員が一緒に遊ぶ」と公式の紹介文にはある。「サーバーリストの最上部やワールドのスポンサーリーダーボードに広告を、あるいはBlock Dragonにロゴを掲載できる」。ブラウザベースのこのクローンでは、ワールドのリンクをクリックした全員が同じリアルタイムセッションに入る。"
+                "x": "「アーティストにとってつらい時代だ」と彼女は書いた。「私たちはソーシャルメディアのアルゴリズムでもクリエイティブ業界でもスロップとの競争を強いられ、作品は同意もなくこの機械に絶え間なく注ぎ込まれている。いまや制作過程を一歩ずつすべて記録していても、作品にAIを使ったと非難されかねないところまで来ている」"
               },
               {
                 "t": "p",
-                "x": "この無許可の「移植版」のローンチ投稿は7.4M 回の閲覧を集めた。Jaivinは「TweetcraftはMinecraftのアセットを一切使っておらず、MojangやMicrosoftとは無関係だ」と主張している。"
-              },
-              {
-                "t": "p",
-                "x": "今月（October）はすでにGTA 5と初代Haloがブラウザで遊べるようになり、GTA 5のクローンとFallout: New Yorkのゲームは削除措置を受けた。AIモデルがますます強力になるにつれ、既存ゲームの無許可版が登場するまでの時間は数時間、あるいは数分にまで縮まる可能性がある。"
+                "x": "彼女の助言はこうだ。「コメント欄の外までクリックしよう。プロフィールを確認し、制作過程の動画を見て、AI生成画像の危険信号を学ぼう……何が私たちを人間たらしめているのかを忘れないで！」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让Minecraft\n在X内多人联机",
-          "body": "有人用AI让Minecraft在X内多人联机，并用加密货币出售赞助位。",
-          "mini_headline": "AI版Minecraft克隆在X内运行",
+          "headline": "Loish回应\n使用生成式AI的不实指控",
+          "body": "画师Loish在Instagram上解释gen-AI不实指控的危害及如何辨识原创。",
+          "mini_headline": "Loish回应AI使用不实指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AI电子游戏克隆的热潮仍在快速蔓延。X用户jaivin用AI让Mojang的Minecraft能在X / Twitter帖子中运行并支持多人联机，还允许人们用加密货币购买游戏内赞助。"
+                "x": "画师Loish（Lois van Baarle，其作品曾出现在Horizon Zero Dawn中）被人“在Tiktok上”指控在作品中使用genAI。她在一段Instagram视频中展示了如何轻松证明这幅作品是原创：她的动态里有这幅作品的创作过程视频，证明它完成于2023年。她从2003年起就开始发布作品。"
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft是帖子里的方块游戏：每个世界都是X上的一个链接，打开它的人都会一起玩，”官方简介写道，“把你的广告放在服务器列表顶部、某个世界的赞助排行榜上，或者把你的标志放在Block Dragon身上。”这款基于浏览器的克隆会把所有点击某个世界链接的人放进同一个实时会话。"
+                "x": "“这是艺术家的艰难时期，”她写道。“我们被迫在社交媒体算法和创意行业中与粗制滥造的内容（slop）竞争，而我们的作品在未经同意的情况下被源源不断地喂给这台机器。如今，即便记录下创作过程的每一步，我们仍可能被指控用AI创作。”"
               },
               {
                 "t": "p",
-                "x": "这一未经授权的“移植版”发布帖获得了7.4M 次浏览。Jaivin坚称：“Tweetcraft没有使用任何Minecraft资产，与Mojang或Microsoft无关。”"
-              },
-              {
-                "t": "p",
-                "x": "本月（October）已有GTA 5和初代Halo被做成可在浏览器中游玩的版本；GTA 5克隆和一款Fallout: New York游戏已遭下架。随着AI模型日益强大，现有游戏的未授权版本出现所需的时间可能缩短到短短几小时甚至几分钟。"
+                "x": "她的建议是：“别只看评论区，多点进去看看。查看主页，观看创作过程视频，了解AI生成图像的预警信号……别忘了是什么让我们成为人类！”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI hace jugable Minecraft\ndentro de X con multijugador",
-          "body": "Alguien usó AI para hacer jugable Minecraft dentro de X con multijugador y vendió patrocinios con cripto.",
-          "mini_headline": "Un clon de Minecraft hecho con AI funciona dentro de X",
+          "headline": "Loish responde a la acusación\nfalsa de usar AI generativa",
+          "body": "Loish explicó en Instagram por qué importan las falsas acusaciones de gen-AI y cómo reconocer la creatividad original.",
+          "mini_headline": "Loish responde a una falsa acusación de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "La explosión de clones de videojuegos hechos con AI sigue a buen ritmo. El usuario de X jaivin usó AI para hacer jugable Minecraft, de Mojang, dentro de publicaciones de X / Twitter con multijugador funcional, y permite comprar patrocinios dentro del juego con criptomonedas."
+                "x": "La artista Loish (Lois van Baarle, cuya obra aparece en Horizon Zero Dawn) fue acusada \"en Tiktok\" de usar genAI en sus ilustraciones. En un video de Instagram mostró cómo se podía identificar fácilmente la pieza como original: su feed tiene videos del proceso, que prueban que la hizo en 2023. Publica arte desde 2003."
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft es un juego de bloques dentro de una publicación: cada mundo es un enlace en X, y todos los que lo abren juegan juntos”, dice la descripción oficial. “Pon tu anuncio en lo alto de la lista de servidores, en la tabla de patrocinadores de un mundo o tu logo en el Block Dragon”. El clon, que funciona en el navegador, coloca a todos los que hacen clic en el enlace de un mundo en la misma sesión en tiempo real."
+                "x": "\"Es un momento difícil para los artistas\", escribió. \"Nos vemos obligados a competir con slop en los algoritmos de las redes sociales y en nuestras industrias creativas, mientras nuestro trabajo alimenta sin descanso esta máquina sin nuestro consentimiento. Ahora hemos llegado a un punto en el que pueden acusarnos de usar AI en nuestro arte, incluso cuando documentamos cada paso de nuestro proceso.\""
               },
               {
                 "t": "p",
-                "x": "El “port” no autorizado ha sumado 7.4 millones de visualizaciones en su publicación de lanzamiento. Jaivin insistió en que “Tweetcraft no usa ninguno de los recursos de Minecraft y no está asociado con Mojang ni con Microsoft”."
-              },
-              {
-                "t": "p",
-                "x": "En octubre (October) ya se ha visto cómo GTA 5 y el Halo original se volvían jugables en un navegador; el clon de GTA 5 y un juego de Fallout: New York sufrieron retiradas. Con modelos de AI cada vez más potentes, el tiempo que tardan en aparecer versiones no autorizadas de juegos consolidados podría reducirse a solo horas o incluso minutos."
+                "x": "Su consejo: \"Vayan más allá de la sección de comentarios. Revisen perfiles, vean videos del proceso, aprendan las señales de alerta de las imágenes generadas por AI... ¡No olviden lo que nos hace humanos!\""
               }
             ]
           }
@@ -1067,121 +1309,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Minecraft를 AI로\nX 안에서 멀티플레이",
-          "body": "한 사용자가 AI로 X 속 Minecraft를 만들고 스폰서를 암호화폐로 팔았다.",
-          "mini_headline": "X 안에서 돌아가는 AI Minecraft 클론",
+          "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
+          "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
+          "mini_headline": "Loish, AI 사용 누명에 답하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 비디오 게임 클론 열풍이 빠르게 이어지고 있다. X 사용자 jaivin은 AI를 이용해 Mojang의 Minecraft를 X / Twitter 게시물 안에서 멀티플레이까지 되는 형태로 플레이할 수 있게 만들었고, 암호화폐로 게임 내 스폰서십을 살 수 있게 했다."
+                "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 이 작품의 작업 과정 영상이 있어 2023년에 직접 그렸다는 사실이 증명된다. Loish는 2003년부터 그림을 올려 왔다."
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft는 게시물 속 블록 게임입니다. 모든 월드는 X의 링크이고, 링크를 연 사람은 모두 함께 플레이합니다.” 공식 소개 문구다. “서버 목록 맨 위나 월드의 스폰서 리더보드에 광고를 걸거나, Block Dragon에 로고를 넣을 수 있습니다.” 브라우저 기반의 이 클론은 월드 링크를 누른 모든 사람을 같은 실시간 세션에 넣는다."
+                "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
               },
               {
                 "t": "p",
-                "x": "이 무단 ‘이식판’의 출시 게시물은 조회수 7.4M 회를 기록했다. Jaivin은 “Tweetcraft는 Minecraft의 에셋을 전혀 쓰지 않으며 Mojang이나 Microsoft와 관련이 없다”고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 달(October)에만 GTA 5와 원작 Halo가 브라우저에서 플레이할 수 있게 됐고, GTA 5 클론과 Fallout: New York 게임은 삭제 조치를 받았다. AI 모델이 갈수록 강력해지면서, 기존 게임의 무단 버전이 등장하기까지 걸리는 시간은 몇 시간, 심지어 몇 분으로 줄어들 수 있다."
+                "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでMinecraftが\nX内でマルチプレイ",
-          "body": "あるユーザーがAIでX内のマルチ対応Minecraftを作り、暗号資産で広告枠を売った。",
-          "mini_headline": "X内で動くAI製Minecraftクローン",
+          "headline": "Loish、生成AI\n使用の濡れ衣に反論",
+          "body": "LoishがInstagramで、誤ったgen-AI疑惑の問題と独創性の見分け方を語った。",
+          "mini_headline": "Loish、AI使用の濡れ衣に反論",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AIによるビデオゲームのクローンの急増が勢いを保ったまま続いている。XユーザーのjaivinはAIを使い、MojangのMinecraftをX / Twitterの投稿内でマルチプレイ付きで遊べるようにし、さらに暗号資産でゲーム内スポンサー枠を購入できるようにした。"
+                "x": "アーティストのLoish（Horizon Zero Dawnにも作品が登場するLois van Baarle）は、「Tiktokで」作品にgenAIを使ったと非難された。Instagramの動画で彼女は、この作品がオリジナルだと簡単に確認できる方法を示した。フィードには制作過程の動画があり、2023年に自分で描いたことが証明できる。彼女は2003年から作品を投稿し続けている。"
               },
               {
                 "t": "p",
-                "x": "「Tweetcraftは投稿の中のブロックゲームだ。すべてのワールドはX上のリンクで、開いた人全員が一緒に遊ぶ」と公式の紹介文にはある。「サーバーリストの最上部やワールドのスポンサーリーダーボードに広告を、あるいはBlock Dragonにロゴを掲載できる」。ブラウザベースのこのクローンでは、ワールドのリンクをクリックした全員が同じリアルタイムセッションに入る。"
+                "x": "「アーティストにとってつらい時代だ」と彼女は書いた。「私たちはソーシャルメディアのアルゴリズムでもクリエイティブ業界でもスロップとの競争を強いられ、作品は同意もなくこの機械に絶え間なく注ぎ込まれている。いまや制作過程を一歩ずつすべて記録していても、作品にAIを使ったと非難されかねないところまで来ている」"
               },
               {
                 "t": "p",
-                "x": "この無許可の「移植版」のローンチ投稿は7.4M 回の閲覧を集めた。Jaivinは「TweetcraftはMinecraftのアセットを一切使っておらず、MojangやMicrosoftとは無関係だ」と主張している。"
-              },
-              {
-                "t": "p",
-                "x": "今月（October）はすでにGTA 5と初代Haloがブラウザで遊べるようになり、GTA 5のクローンとFallout: New Yorkのゲームは削除措置を受けた。AIモデルがますます強力になるにつれ、既存ゲームの無許可版が登場するまでの時間は数時間、あるいは数分にまで縮まる可能性がある。"
+                "x": "彼女の助言はこうだ。「コメント欄の外までクリックしよう。プロフィールを確認し、制作過程の動画を見て、AI生成画像の危険信号を学ぼう……何が私たちを人間たらしめているのかを忘れないで！」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让Minecraft\n在X内多人联机",
-          "body": "有人用AI让Minecraft在X内多人联机，并用加密货币出售赞助位。",
-          "mini_headline": "AI版Minecraft克隆在X内运行",
+          "headline": "Loish回应\n使用生成式AI的不实指控",
+          "body": "画师Loish在Instagram上解释gen-AI不实指控的危害及如何辨识原创。",
+          "mini_headline": "Loish回应AI使用不实指控",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "AI电子游戏克隆的热潮仍在快速蔓延。X用户jaivin用AI让Mojang的Minecraft能在X / Twitter帖子中运行并支持多人联机，还允许人们用加密货币购买游戏内赞助。"
+                "x": "画师Loish（Lois van Baarle，其作品曾出现在Horizon Zero Dawn中）被人“在Tiktok上”指控在作品中使用genAI。她在一段Instagram视频中展示了如何轻松证明这幅作品是原创：她的动态里有这幅作品的创作过程视频，证明它完成于2023年。她从2003年起就开始发布作品。"
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft是帖子里的方块游戏：每个世界都是X上的一个链接，打开它的人都会一起玩，”官方简介写道，“把你的广告放在服务器列表顶部、某个世界的赞助排行榜上，或者把你的标志放在Block Dragon身上。”这款基于浏览器的克隆会把所有点击某个世界链接的人放进同一个实时会话。"
+                "x": "“这是艺术家的艰难时期，”她写道。“我们被迫在社交媒体算法和创意行业中与粗制滥造的内容（slop）竞争，而我们的作品在未经同意的情况下被源源不断地喂给这台机器。如今，即便记录下创作过程的每一步，我们仍可能被指控用AI创作。”"
               },
               {
                 "t": "p",
-                "x": "这一未经授权的“移植版”发布帖获得了7.4M 次浏览。Jaivin坚称：“Tweetcraft没有使用任何Minecraft资产，与Mojang或Microsoft无关。”"
-              },
-              {
-                "t": "p",
-                "x": "本月（October）已有GTA 5和初代Halo被做成可在浏览器中游玩的版本；GTA 5克隆和一款Fallout: New York游戏已遭下架。随着AI模型日益强大，现有游戏的未授权版本出现所需的时间可能缩短到短短几小时甚至几分钟。"
+                "x": "她的建议是：“别只看评论区，多点进去看看。查看主页，观看创作过程视频，了解AI生成图像的预警信号……别忘了是什么让我们成为人类！”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La AI hace jugable Minecraft\ndentro de X con multijugador",
-          "body": "Alguien usó AI para hacer jugable Minecraft dentro de X con multijugador y vendió patrocinios con cripto.",
-          "mini_headline": "Un clon de Minecraft hecho con AI funciona dentro de X",
+          "headline": "Loish responde a la acusación\nfalsa de usar AI generativa",
+          "body": "Loish explicó en Instagram por qué importan las falsas acusaciones de gen-AI y cómo reconocer la creatividad original.",
+          "mini_headline": "Loish responde a una falsa acusación de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2026/10/07/mc-1791374215482.jpg?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
               },
               {
                 "t": "p",
-                "x": "La explosión de clones de videojuegos hechos con AI sigue a buen ritmo. El usuario de X jaivin usó AI para hacer jugable Minecraft, de Mojang, dentro de publicaciones de X / Twitter con multijugador funcional, y permite comprar patrocinios dentro del juego con criptomonedas."
+                "x": "La artista Loish (Lois van Baarle, cuya obra aparece en Horizon Zero Dawn) fue acusada \"en Tiktok\" de usar genAI en sus ilustraciones. En un video de Instagram mostró cómo se podía identificar fácilmente la pieza como original: su feed tiene videos del proceso, que prueban que la hizo en 2023. Publica arte desde 2003."
               },
               {
                 "t": "p",
-                "x": "“Tweetcraft es un juego de bloques dentro de una publicación: cada mundo es un enlace en X, y todos los que lo abren juegan juntos”, dice la descripción oficial. “Pon tu anuncio en lo alto de la lista de servidores, en la tabla de patrocinadores de un mundo o tu logo en el Block Dragon”. El clon, que funciona en el navegador, coloca a todos los que hacen clic en el enlace de un mundo en la misma sesión en tiempo real."
+                "x": "\"Es un momento difícil para los artistas\", escribió. \"Nos vemos obligados a competir con slop en los algoritmos de las redes sociales y en nuestras industrias creativas, mientras nuestro trabajo alimenta sin descanso esta máquina sin nuestro consentimiento. Ahora hemos llegado a un punto en el que pueden acusarnos de usar AI en nuestro arte, incluso cuando documentamos cada paso de nuestro proceso.\""
               },
               {
                 "t": "p",
-                "x": "El “port” no autorizado ha sumado 7.4 millones de visualizaciones en su publicación de lanzamiento. Jaivin insistió en que “Tweetcraft no usa ninguno de los recursos de Minecraft y no está asociado con Mojang ni con Microsoft”."
-              },
-              {
-                "t": "p",
-                "x": "En octubre (October) ya se ha visto cómo GTA 5 y el Halo original se volvían jugables en un navegador; el clon de GTA 5 y un juego de Fallout: New York sufrieron retiradas. Con modelos de AI cada vez más potentes, el tiempo que tardan en aparecer versiones no autorizadas de juegos consolidados podría reducirse a solo horas o incluso minutos."
+                "x": "Su consejo: \"Vayan más allá de la sección de comentarios. Revisen perfiles, vean videos del proceso, aprendan las señales de alerta de las imágenes generadas por AI... ¡No olviden lo que nos hace humanos!\""
               }
             ]
           }
@@ -1189,15 +1415,15 @@
       }
     },
     {
-      "id": "games-goldhen-ai-ripoff-free-speech",
+      "id": "games-schofield-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
-      "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
-      "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+      "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
+      "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
+      "mini_headline": "Schofield: 비용은 AI보다 아이디어",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ai-bro-defends-sloppily-reverse-engineering-playstation-homebrew-tool-without-permission-by-invoking-freedom-of-speech-2000741098",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1205,179 +1431,198 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-            "cap": "© Sony / Kotaku"
+            "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "바이브코딩으로 찍어낸 AI-slop 프로젝트가 쏟아지면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크는 사흘 만에 약 1,300개에서 약 1,840개로 불어났다."
+            "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. 그의 말에 따르면 COVID로 개발이 차질을 빚은 뒤 Krafton은 약속받은 2023년 3월보다 몇 달 이른 2022년 12월에 The Callisto Protocol을 출시하라고 강요했다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
           },
           {
             "t": "p",
-            "x": "이번에 당한 쪽은 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이다. 동료 홈브루 개발자 Zer0Day가 프로젝트를 도용해 온라인에 공개했다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+            "x": "AAA 개발비는 너무 불어났다는 게 그의 진단이다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
           },
           {
             "t": "p",
-            "x": "비공개 소스인 GoldHEN은 약 다섯 해 동안 Sistro가 주로 설계했고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 돌렸다."
+            "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예로 든 것은 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 아끼는 계획이다."
           },
           {
             "t": "p",
-            "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 답글에서는 AI를 썼다는 사실을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+            "x": "AI 옹호론자인 그는 AI를 도구로 보기를 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 쓰겠다는 생각이다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
           }
         ]
       },
+      "lead_image": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "text": {
         "en": {
-          "headline": "AI rip-off of GoldHEN tool\ndefended as free speech",
-          "body": "Zer0Day defended his AI-made rip-off of the GoldHEN PlayStation homebrew tool, saying creativity needs no permission.",
-          "mini_headline": "GoldHEN AI rip-off defended",
+          "headline": "Glen Schofield says ideas save\nmore money than AI right now",
+          "body": "Dead Space veteran Glen Schofield calls AI a medium rather than a tool, but says a creative idea can save more money.",
+          "mini_headline": "Schofield: ideas beat AI on cost",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "The PlayStation jailbreaking and homebrew scene is in disarray as an explosion of vibecoded AI-slop projects takes its toll. Forks of the PS5 emulators KytyPS5, SharpEmu, and AnyPS5 on GitHub jumped from roughly 1,300 to roughly 1,840 in three days."
+                "x": "Glen Schofield, who headed Sledgehammer Games and led Striking Distance Studios under Krafton, retired this summer and now makes art. He says Krafton forced him to ship The Callisto Protocol in December 2022, months before the March 2023 date he had been promised after COVID disrupted development."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Now the team behind GoldHEN, the beloved PS4 homebrew enabler, has had their project stolen and published online by a fellow homebrew dev, Zer0Day. His lengthy README declares that “code should not be a cage” and “creativity should never have to ask for permission.”"
+                "x": "He says AAA costs have risen too high: \"I'd be so happy to make a game for less than $150 million.\" Dead Space cost $28 million."
               },
               {
                 "t": "p",
-                "x": "GoldHEN is closed source, primarily designed by Sistro with several maintainers over roughly five years. Sistro made it private after seeing “a sad abuse of the source code.”"
+                "x": "\"A creative idea can save more money than AI can right now,\" he says, citing a plan to creatively reuse older game assets that would save about $25 million."
               },
               {
                 "t": "p",
-                "x": "On X, Zer0Day said “I don’t care what [GoldHEN’s] team thinks” and asserted he has “the right to freedom of speech and freedom of expression.” He has been open in replies about using AI, and his deleted code includes comments like “these are the standard Elf64 structures it walks.”"
+                "x": "He is an advocate for AI but refuses to see it as a tool: \"Midjourney has become a medium for me.\" He would put AI to work in select areas: \"Fix collisions. Let's make cameras better.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
-          "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
-          "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+          "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
+          "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
+          "mini_headline": "Schofield: 비용은 AI보다 아이디어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "바이브코딩으로 찍어낸 AI-slop 프로젝트가 쏟아지면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크는 사흘 만에 약 1,300개에서 약 1,840개로 불어났다."
+                "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. 그의 말에 따르면 COVID로 개발이 차질을 빚은 뒤 Krafton은 약속받은 2023년 3월보다 몇 달 이른 2022년 12월에 The Callisto Protocol을 출시하라고 강요했다."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "이번에 당한 쪽은 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이다. 동료 홈브루 개발자 Zer0Day가 프로젝트를 도용해 온라인에 공개했다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+                "x": "AAA 개발비는 너무 불어났다는 게 그의 진단이다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
               },
               {
                 "t": "p",
-                "x": "비공개 소스인 GoldHEN은 약 다섯 해 동안 Sistro가 주로 설계했고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 돌렸다."
+                "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예로 든 것은 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 아끼는 계획이다."
               },
               {
                 "t": "p",
-                "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 답글에서는 AI를 썼다는 사실을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+                "x": "AI 옹호론자인 그는 AI를 도구로 보기를 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 쓰겠다는 생각이다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでGoldHENを模倣\n表現の自由と擁護",
-          "body": "Zer0Dayは創作に許可は要らないとし、AI-madeのGoldHEN模倣を擁護した。",
-          "mini_headline": "GoldHENのAI模倣を擁護",
+          "headline": "Glen Schofield\n今はAIよりアイデアが得",
+          "body": "Glen SchofieldはAIを媒体とみなすが、創造的なアイデアの方が節約になると語る。",
+          "mini_headline": "Schofield「コストではアイデアがAIに勝る」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "バイブコーディングで作られたAI-slopプロジェクトの急増が打撃となり、PlayStationの脱獄・homebrewシーンは混乱に陥っている。GitHub上のPS5エミュレーターKytyPS5、SharpEmu、AnyPS5のフォーク数は、三日間で約1,300から約1,840に跳ね上がった。"
+                "x": "Sledgehammer Gamesを率い、Krafton傘下でStriking Distance Studiosを指揮したGlen Schofieldは、この夏に引退し、いまは絵を描いている。COVIDで開発が混乱した後に約束されていた2023年3月より数カ月早い2022年12月に、KraftonからThe Callisto Protocolの発売を強いられたと彼は語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "そして今度は、愛されてきたPS4向けhomebrew実行ツールGoldHENのチームが、同じhomebrew開発者のZer0Dayにプロジェクトを盗まれ、オンラインで公開された。彼は長いREADMEで「コードは檻であってはならない」「創造性は決して許可を求める必要があってはならない」と宣言している。"
+                "x": "AAAの開発費は高くなりすぎたと彼は言う。「1億5000万ドル（$150 million）未満でゲームを作れたら本当にうれしい」。Dead Spaceの開発費は2800万ドル（$28 million）だった。"
               },
               {
                 "t": "p",
-                "x": "GoldHENはクローズドソースで、約五年にわたり主にSistroが設計し、複数のメンテナーが関わってきた。Sistroは「ソースコードの悲しい悪用」を目にしたことで、プロジェクトを非公開にした。"
+                "x": "「いまは、創造的なアイデアの方がAIよりも多くのお金を節約できる」と彼は言い、古いゲームアセットを創造的に再利用して約2500万ドル（$25 million）を節約する計画を例に挙げた。"
               },
               {
                 "t": "p",
-                "x": "Zer0DayはX上で「[GoldHEN]のチームがどう思おうと気にしない」と述べ、自分には「言論の自由と表現の自由の権利」があると主張した。彼はリプライでAIの使用を隠しておらず、削除されたコードには「これらは走査対象の標準的なElf64構造体だ」といったコメントが含まれている。"
+                "x": "彼はAI推進派だが、AIをツールとみなすことは拒む。「Midjourneyは私にとってひとつの媒体になった」。AIは限られた領域で使うという。「衝突判定を直そう。カメラを良くしよう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI仿制GoldHEN\n被辩称为言论自由",
-          "body": "Zer0Day为其AI-made的GoldHEN仿制品辩护，称创作无需许可。",
-          "mini_headline": "为GoldHEN AI仿制品辩护",
+          "headline": "Glen Schofield\n眼下创意比AI更省钱",
+          "body": "Dead Space老将Glen Schofield视AI为媒介而非工具，但称创意更能省钱。",
+          "mini_headline": "Schofield：创意比AI更省钱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "随着氛围编程的AI-slop项目激增，PlayStation越狱和自制软件圈陷入混乱。GitHub上PS5模拟器KytyPS5、SharpEmu和AnyPS5的分叉数在三天内从约1,300个跃升至约1,840个。"
+                "x": "Glen Schofield曾执掌Sledgehammer Games，后在Krafton旗下领导Striking Distance Studios，今年夏天退休，如今从事艺术创作。他表示，COVID打乱开发后，他曾获承诺可在2023年3月发售，但Krafton却逼他在2022年12月推出The Callisto Protocol，比承诺的时间早了几个月。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "如今，备受喜爱的PS4自制软件启用工具GoldHEN的团队，其项目被同为自制软件开发者的Zer0Day盗用并公开发布到网上。他在冗长的README中宣称“代码不应成为牢笼”，“创造力永远不应需要请求许可”。"
+                "x": "他认为AAA游戏的成本已经过高：“如果能用不到1.5亿美元（$150 million）做一款游戏，我会非常高兴。”Dead Space的成本是2800万美元（$28 million）。"
               },
               {
                 "t": "p",
-                "x": "GoldHEN是闭源项目，约五年来主要由Sistro设计，并有多名维护者参与。Sistro在看到“源代码被可悲地滥用”后将其转为私有。"
+                "x": "“眼下，一个创意能比AI省下更多钱，”他说，并以一项创造性复用旧游戏素材的计划为例，该计划可节省约2500万美元（$25 million）。"
               },
               {
                 "t": "p",
-                "x": "Zer0Day在X上表示“我不在乎[GoldHEN的]团队怎么想”，并声称自己拥有“言论自由和表达自由的权利”。他在回复中公开承认使用了AI，其已删除的代码中包含诸如“这些是它遍历的标准Elf64结构”之类的注释。"
+                "x": "他支持AI，却拒绝把它视为工具：“Midjourney对我来说已经成了一种媒介。”他会在特定领域让AI发挥作用：“修复碰撞问题。把镜头做得更好。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Copia con AI de GoldHEN,\ndefendida como libre expresión",
-          "body": "Zer0Day defendió su copia AI-made del homebrew GoldHEN para PlayStation, alegando que crear no requiere permiso.",
-          "mini_headline": "Defienden la copia con AI de GoldHEN",
+          "headline": "Glen Schofield: hoy las ideas\nahorran más dinero que la AI",
+          "body": "Glen Schofield, de Dead Space, ve la AI como un medio, no una herramienta, pero cree que una idea creativa ahorra más.",
+          "mini_headline": "Schofield: las ideas superan a la AI en costes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "La escena de jailbreak y homebrew de PlayStation está sumida en el caos por la explosión de proyectos AI-slop hechos con vibecoding. Los forks de los emuladores de PS5 KytyPS5, SharpEmu y AnyPS5 en GitHub pasaron de unos 1,300 a unos 1,840 en tres días."
+                "x": "Glen Schofield, que dirigió Sledgehammer Games y encabezó Striking Distance Studios bajo Krafton, se jubiló este verano y ahora se dedica al arte. Dice que Krafton lo obligó a lanzar The Callisto Protocol en diciembre de 2022, meses antes de la fecha de marzo de 2023 que le habían prometido después de que la COVID alterara el desarrollo."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Ahora el equipo detrás de GoldHEN, la apreciada herramienta homebrew para PS4, ha visto cómo otro desarrollador homebrew, Zer0Day, robaba su proyecto y lo publicaba en internet. Su extenso README declara que “el código no debería ser una jaula” y que “la creatividad nunca debería tener que pedir permiso”."
+                "x": "Afirma que los costes de los AAA han subido demasiado: \"Estaría encantado de hacer un juego por menos de $150 millones\". Dead Space costó $28 millones."
               },
               {
                 "t": "p",
-                "x": "GoldHEN es de código cerrado y lo diseñó principalmente Sistro, con varios mantenedores, a lo largo de unos cinco años. Sistro lo hizo privado tras ver “un triste abuso del código fuente”."
+                "x": "\"Ahora mismo, una idea creativa puede ahorrar más dinero que la AI\", dice, y cita un plan para reutilizar de forma creativa recursos de juegos antiguos que ahorraría unos $25 millones."
               },
               {
                 "t": "p",
-                "x": "En X, Zer0Day dijo “me da igual lo que piense el equipo [de GoldHEN]” y afirmó tener “derecho a la libertad de palabra y a la libertad de expresión”. Ha reconocido abiertamente en sus respuestas que usa AI, y su código eliminado incluye comentarios como “estas son las estructuras Elf64 estándar que recorre”."
+                "x": "Defiende la AI, pero se niega a verla como una herramienta: \"Midjourney se ha convertido en un medio para mí\". Usaría la AI en áreas concretas: \"Arreglar las colisiones. Hagamos mejores cámaras\"."
               }
             ]
           }
@@ -1385,125 +1630,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 베낀 GoldHEN\n표현의 자유라며 옹호",
-          "body": "Zer0Day는 창작엔 허락이 필요 없다며 AI-made 모방작을 옹호했다.",
-          "mini_headline": "GoldHEN AI 모방작 옹호 논란",
+          "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
+          "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
+          "mini_headline": "Schofield: 비용은 AI보다 아이디어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "바이브코딩으로 만든 AI-slop 프로젝트가 폭증하면서 PlayStation 탈옥·홈브루 씬이 혼란에 빠졌다. GitHub에서 PS5 에뮬레이터 KytyPS5, SharpEmu, AnyPS5의 포크 수는 사흘 만에 약 1,300개에서 약 1,840개로 늘었다."
+                "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. COVID로 개발이 차질을 빚은 뒤 약속받은 2023년 3월보다 몇 달 앞선 2022년 12월에 Krafton이 The Callisto Protocol 출시를 강요했다고 그는 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "이번에는 사랑받는 PS4 홈브루 실행 도구 GoldHEN의 팀이 동료 홈브루 개발자 Zer0Day에게 프로젝트를 도용당했고, 그 결과물이 온라인에 공개됐다. 그는 긴 README에서 “코드는 감옥이 되어서는 안 된다”, “창작은 결코 허락을 구할 필요가 없어야 한다”고 선언했다."
+                "x": "그는 AAA 개발비가 너무 높아졌다고 말한다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
               },
               {
                 "t": "p",
-                "x": "GoldHEN은 비공개 소스로, 약 다섯 해 동안 Sistro가 주로 설계하고 여러 메인테이너가 함께 관리해 왔다. Sistro는 “소스 코드가 안타깝게 악용되는 것”을 보고 프로젝트를 비공개로 전환했다."
+                "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 절약하는 계획을 예로 들었다."
               },
               {
                 "t": "p",
-                "x": "Zer0Day는 X에서 “[GoldHEN] 팀이 어떻게 생각하든 상관없다”며 자신에게 “언론의 자유와 표현의 자유에 대한 권리”가 있다고 주장했다. 그는 답글에서 AI 사용을 숨기지 않았고, 삭제된 그의 코드에는 “이것들은 순회하는 표준 Elf64 구조체다” 같은 주석이 들어 있다."
+                "x": "그는 AI 옹호론자지만 AI를 도구로 보기는 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 투입하겠다고 한다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでGoldHENを模倣\n表現の自由と擁護",
-          "body": "Zer0Dayは創作に許可は要らないとし、AI-madeのGoldHEN模倣を擁護した。",
-          "mini_headline": "GoldHENのAI模倣を擁護",
+          "headline": "Glen Schofield\n今はAIよりアイデアが得",
+          "body": "Glen SchofieldはAIを媒体とみなすが、創造的なアイデアの方が節約になると語る。",
+          "mini_headline": "Schofield「コストではアイデアがAIに勝る」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "バイブコーディングで作られたAI-slopプロジェクトの急増が打撃となり、PlayStationの脱獄・homebrewシーンは混乱に陥っている。GitHub上のPS5エミュレーターKytyPS5、SharpEmu、AnyPS5のフォーク数は、三日間で約1,300から約1,840に跳ね上がった。"
+                "x": "Sledgehammer Gamesを率い、Krafton傘下でStriking Distance Studiosを指揮したGlen Schofieldは、この夏に引退し、いまは絵を描いている。COVIDで開発が混乱した後に約束されていた2023年3月より数カ月早い2022年12月に、KraftonからThe Callisto Protocolの発売を強いられたと彼は語る。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "そして今度は、愛されてきたPS4向けhomebrew実行ツールGoldHENのチームが、同じhomebrew開発者のZer0Dayにプロジェクトを盗まれ、オンラインで公開された。彼は長いREADMEで「コードは檻であってはならない」「創造性は決して許可を求める必要があってはならない」と宣言している。"
+                "x": "AAAの開発費は高くなりすぎたと彼は言う。「1億5000万ドル（$150 million）未満でゲームを作れたら本当にうれしい」。Dead Spaceの開発費は2800万ドル（$28 million）だった。"
               },
               {
                 "t": "p",
-                "x": "GoldHENはクローズドソースで、約五年にわたり主にSistroが設計し、複数のメンテナーが関わってきた。Sistroは「ソースコードの悲しい悪用」を目にしたことで、プロジェクトを非公開にした。"
+                "x": "「いまは、創造的なアイデアの方がAIよりも多くのお金を節約できる」と彼は言い、古いゲームアセットを創造的に再利用して約2500万ドル（$25 million）を節約する計画を例に挙げた。"
               },
               {
                 "t": "p",
-                "x": "Zer0DayはX上で「[GoldHEN]のチームがどう思おうと気にしない」と述べ、自分には「言論の自由と表現の自由の権利」があると主張した。彼はリプライでAIの使用を隠しておらず、削除されたコードには「これらは走査対象の標準的なElf64構造体だ」といったコメントが含まれている。"
+                "x": "彼はAI推進派だが、AIをツールとみなすことは拒む。「Midjourneyは私にとってひとつの媒体になった」。AIは限られた領域で使うという。「衝突判定を直そう。カメラを良くしよう」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI仿制GoldHEN\n被辩称为言论自由",
-          "body": "Zer0Day为其AI-made的GoldHEN仿制品辩护，称创作无需许可。",
-          "mini_headline": "为GoldHEN AI仿制品辩护",
+          "headline": "Glen Schofield\n眼下创意比AI更省钱",
+          "body": "Dead Space老将Glen Schofield视AI为媒介而非工具，但称创意更能省钱。",
+          "mini_headline": "Schofield：创意比AI更省钱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "随着氛围编程的AI-slop项目激增，PlayStation越狱和自制软件圈陷入混乱。GitHub上PS5模拟器KytyPS5、SharpEmu和AnyPS5的分叉数在三天内从约1,300个跃升至约1,840个。"
+                "x": "Glen Schofield曾执掌Sledgehammer Games，后在Krafton旗下领导Striking Distance Studios，今年夏天退休，如今从事艺术创作。他表示，COVID打乱开发后，他曾获承诺可在2023年3月发售，但Krafton却逼他在2022年12月推出The Callisto Protocol，比承诺的时间早了几个月。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "如今，备受喜爱的PS4自制软件启用工具GoldHEN的团队，其项目被同为自制软件开发者的Zer0Day盗用并公开发布到网上。他在冗长的README中宣称“代码不应成为牢笼”，“创造力永远不应需要请求许可”。"
+                "x": "他认为AAA游戏的成本已经过高：“如果能用不到1.5亿美元（$150 million）做一款游戏，我会非常高兴。”Dead Space的成本是2800万美元（$28 million）。"
               },
               {
                 "t": "p",
-                "x": "GoldHEN是闭源项目，约五年来主要由Sistro设计，并有多名维护者参与。Sistro在看到“源代码被可悲地滥用”后将其转为私有。"
+                "x": "“眼下，一个创意能比AI省下更多钱，”他说，并以一项创造性复用旧游戏素材的计划为例，该计划可节省约2500万美元（$25 million）。"
               },
               {
                 "t": "p",
-                "x": "Zer0Day在X上表示“我不在乎[GoldHEN的]团队怎么想”，并声称自己拥有“言论自由和表达自由的权利”。他在回复中公开承认使用了AI，其已删除的代码中包含诸如“这些是它遍历的标准Elf64结构”之类的注释。"
+                "x": "他支持AI，却拒绝把它视为工具：“Midjourney对我来说已经成了一种媒介。”他会在特定领域让AI发挥作用：“修复碰撞问题。把镜头做得更好。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Copia con AI de GoldHEN,\ndefendida como libre expresión",
-          "body": "Zer0Day defendió su copia AI-made del homebrew GoldHEN para PlayStation, alegando que crear no requiere permiso.",
-          "mini_headline": "Defienden la copia con AI de GoldHEN",
+          "headline": "Glen Schofield: hoy las ideas\nahorran más dinero que la AI",
+          "body": "Glen Schofield, de Dead Space, ve la AI como un medio, no una herramienta, pero cree que una idea creativa ahorra más.",
+          "mini_headline": "Schofield: las ideas superan a la AI en costes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2021/12/e37af6782e62c4f9d7bca201c8a74a6e.jpg",
-                "cap": "© Sony / Kotaku"
+                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "La escena de jailbreak y homebrew de PlayStation está sumida en el caos por la explosión de proyectos AI-slop hechos con vibecoding. Los forks de los emuladores de PS5 KytyPS5, SharpEmu y AnyPS5 en GitHub pasaron de unos 1,300 a unos 1,840 en tres días."
+                "x": "Glen Schofield, que dirigió Sledgehammer Games y encabezó Striking Distance Studios bajo Krafton, se jubiló este verano y ahora se dedica al arte. Dice que Krafton lo obligó a lanzar The Callisto Protocol en diciembre de 2022, meses antes de la fecha de marzo de 2023 que le habían prometido después de que la COVID alterara el desarrollo."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Ahora el equipo detrás de GoldHEN, la apreciada herramienta homebrew para PS4, ha visto cómo otro desarrollador homebrew, Zer0Day, robaba su proyecto y lo publicaba en internet. Su extenso README declara que “el código no debería ser una jaula” y que “la creatividad nunca debería tener que pedir permiso”."
+                "x": "Afirma que los costes de los AAA han subido demasiado: \"Estaría encantado de hacer un juego por menos de $150 millones\". Dead Space costó $28 millones."
               },
               {
                 "t": "p",
-                "x": "GoldHEN es de código cerrado y lo diseñó principalmente Sistro, con varios mantenedores, a lo largo de unos cinco años. Sistro lo hizo privado tras ver “un triste abuso del código fuente”."
+                "x": "\"Ahora mismo, una idea creativa puede ahorrar más dinero que la AI\", dice, y cita un plan para reutilizar de forma creativa recursos de juegos antiguos que ahorraría unos $25 millones."
               },
               {
                 "t": "p",
-                "x": "En X, Zer0Day dijo “me da igual lo que piense el equipo [de GoldHEN]” y afirmó tener “derecho a la libertad de palabra y a la libertad de expresión”. Ha reconocido abiertamente en sus respuestas que usa AI, y su código eliminado incluye comentarios como “estas son las estructuras Elf64 estándar que recorre”."
+                "x": "Defiende la AI, pero se niega a verla como una herramienta: \"Midjourney se ha convertido en un medio para mí\". Usaría la AI en áreas concretas: \"Arreglar las colisiones. Hagamos mejores cámaras\"."
               }
             ]
           }
