@@ -6065,6 +6065,132 @@
           "x": "El aviso pregunta qué esquemas son los más extendidos, cuán significativo es su impacto económico, cómo ha contribuido la AI y si la solución debería venir de una ley del Congreso. Llega un día después de que Michael Smith fuera condenado en el primer proceso por fraude en streaming en U.S., tras obtener más de $8 millones en regalías fraudulentas."
         }
       ]
+    },
+    "music/music-denmark-replica-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
+        },
+        {
+          "t": "p",
+          "x": "La ministra de Cultura danesa, Zenia Stampe, ha presentado al Parlamento propuestas revisadas de nuevos derechos para ayudar a los intérpretes, y a las personas en general, a bloquear réplicas digitales no autorizadas de su voz o su imagen."
+        },
+        {
+          "t": "p",
+          "x": "El proyecto se basa en las propuestas del año pasado y retoma el esfuerzo tras unas elecciones generales y un cambio de gobierno. Stampe, ministra de Cultura desde junio, declaró: “ahora estamos frenando el robo de identidad digital y ayudando a los artistas cuyo sustento está amenazado”."
+        },
+        {
+          "t": "p",
+          "x": "Modifica la ley danesa de derechos de autor para que sea ilegal publicar imitaciones digitales realistas de la voz o la imagen de una persona sin su consentimiento, con excepciones para la caricatura, la parodia y la crítica, salvo que la imitación sea desinformación peligrosa. Abarca los deepfakes de IA (AI) y las ediciones digitales tradicionales, pero solo las imitaciones realistas que puedan confundirse con la persona real."
+        },
+        {
+          "t": "p",
+          "x": "Además de bloquear los abusos, la claridad legal podría permitir a los artistas licenciar su voz o su imagen a plataformas de IA. Stampe quiere que las grandes tecnológicas retiren rápidamente el contenido manipulado y espera que las protecciones entren en vigor a principios del próximo año."
+        }
+      ]
+    },
+    "music/music-flow-music-plugins": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Z4l8igzzHHw"
+        },
+        {
+          "t": "p",
+          "x": "La programación asistida por IA (AI-assisted programming), conocida como 'vibe coding', está transformando el desarrollo de software y ya tiene un gran impacto en el alcance y la variedad del software y el firmware disponibles para los músicos electrónicos."
+        },
+        {
+          "t": "p",
+          "x": "Ahora Google quiere que programes aplicaciones de audio con vibe coding, y afirma que los productores ya pueden crear herramientas de producción musical con vibe coding en Google Flow Music:"
+        },
+        {
+          "t": "p",
+          "x": "“Cada artista, productor y compositor trabaja de forma distinta. Para adaptarse a esos flujos creativos individuales, Spaces en Google Flow Music permite a los creadores construir instrumentos o efectos personalizados con lenguaje natural, sin necesidad de experiencia en programación."
+        },
+        {
+          "t": "p",
+          "x": "Ahora facilitamos llevar estas capacidades directamente a entornos profesionales. Los productores ya pueden exportar sus Spaces personalizados como plugins VST3/AU para ejecutarlos dentro de sus estaciones de trabajo de audio digital (Digital Audio Workstations, DAWs)."
+        },
+        {
+          "t": "p",
+          "x": "En pocas palabras, los productores pueden crear con facilidad herramientas adaptadas a sus procesos y estilos dentro de sus flujos de producción habituales.”"
+        }
+      ]
+    },
+    "music/music-sonilo-video-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+        },
+        {
+          "t": "p",
+          "x": "Sonilo es una plataforma con un “sistema propio de IA (AI) multimodal que conecta la comprensión de video, la generación de audio y la alineación temporal”. Debería reconocer el ritmo, la emoción y la trama de un video y generar audio que encaje con ellos de forma creíble. Ahora ha recaudado $11m en financiación para escalar la empresa."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo fue fundada por personas que trabajaron en los equipos de IA y de música de TikTok. Su CEO y cofundador, Shawn Song, dice que la clave es que el audio parte de un video, no de un prompt de texto: “Nos das las imágenes y Sonilo entiende lo que ocurre fotograma a fotograma”."
+        },
+        {
+          "t": "p",
+          "x": "En otras noticias del resumen semanal de Music Ally: Laylo lanzó un Discovery Agent que envía un mensaje de texto una vez al mes a usuarios de Spotify sobre conciertos cercanos de artistas que escuchan pero no siguen, y la startup francesa Base For Music, cuya herramienta de IA encuentra a los fans más comprometidos de los artistas, fue seleccionada para el Gemini Startup Forum de Google."
+        }
+      ]
+    },
+    "music/music-arxiv-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "¿Cómo podemos verificar de quién es la música que contribuyó a un resultado AI-generated? Este artículo muestra cómo la atribución basada en las entradas puede aportar pruebas verificables de qué fuentes de audio se usaron en una generación y de si moldearon el resultado."
+        },
+        {
+          "t": "p",
+          "x": "El generador, MixAudio, está condicionado únicamente por audio, sin entrada de texto: una grabación de prompt por stem más un contexto compartido opcional. En pruebas de adherencia al prompt y en intercambios controlados de entradas, sus stems siguen al audio del prompt en el timbre y al audio de contexto en la armonía."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados aún pueden reproducir datos de entrenamiento no suministrados como entradas, por lo que los autores auditan la memorización con su modelo de identificación de versiones musicales, musicDNA, y encuentran pocas reproducciones fuera de los registros de entrada. En los casos señalados y evaluados por personas, supera a los demás detectores de memorización probados en precisión y exhaustividad."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+          "cap": "Figura 3: Rendimiento de detección de las métricas de memorización."
+        },
+        {
+          "t": "p",
+          "x": "Según los autores, los registros de entrada y el análisis de la salida ofrecen pruebas complementarias para la atribución de una pista AI-made, en las que pueden apoyarse los informes y la compensación a los titulares de derechos a medida que toma forma la economía de la música con AI."
+        }
+      ]
+    },
+    "music/music-amuchart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+          "cap": "Hong Jong-gu, CEO (ceremonia de lanzamiento del comité organizador de los 2024 KGMA)"
+        },
+        {
+          "t": "p",
+          "x": "Hong Jong-gu, exmiembro del grupo Noise y al frente de Meta AI Lab, presentó Amuchart, la primera plataforma dedicada a los creadores de música con AI. “Partí de la idea de construir primero una plataforma capaz de acoger plenamente las canciones nacidas de la AI”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Desde su apertura el 9 de septiembre, en menos de dos meses Amuchart reunió a unos 300 creadores y cerca de 9000 canciones. Los creadores deben tener 15 años o más, y el de mayor edad confirmado tiene unos 80. El creador más prolífico llegó a 180 canciones, por lo que la plataforma limitó las subidas a 5 canciones por persona al día."
+        },
+        {
+          "t": "p",
+          "x": "Los oyentes indican su estado de ánimo y su situación por chat o por voz, y un DJ virtual les recomienda música. Además de donaciones, chat en tiempo real y mensajes por DM, ofrece 'Crew', donde los equipos crean música y compiten en batallas, y 'Scout', un sistema en el que los oyentes descubren creadores y reciben parte de los ingresos según su crecimiento (5 niveles)."
+        },
+        {
+          "t": "p",
+          "x": "Ante el riesgo de una avalancha de canciones uniformes salidas de un mismo motor, prepara un sistema de 'remasterización' y mejoras en su servicio de generación musical. Hong planea organizar premios, festivales y conferencias de música AI, y ampliar el negocio de representación artística."
+        },
+        {
+          "t": "p",
+          "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
+        }
+      ]
     }
   }
 }

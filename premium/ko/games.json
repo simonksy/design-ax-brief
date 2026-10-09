@@ -11064,6 +11064,154 @@
           "x": "공유 URL 하나로 여럿이 함께 개발하고, 완성한 게임은 Google의 새 플랫폼 Playground에 올릴 수 있다. 수익 모델은 아직 정하지 않았지만 Unity는 무료와 유료 이용 단계를 모두 둘 계획이다. 비공개 베타는 2026년 후반에 시작한다."
         }
       ]
+    },
+    "games/sister-driving-llm-cost": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+          "cap": "여동생 운전 가르치기 대표 이미지 (사진출처: 스팀)"
+        },
+        {
+          "t": "p",
+          "x": "스트리머들의 입소문을 탄 스팀 게임 '여동생 운전 가르치기'가 개발팀의 재정난을 불러왔다. 개발사 이지 폭스(Easy Fox)는 7일 스팀 공지로 1.2.9 업데이트와 개발 상황을 공유하며, 데모 이용자 급증에 따른 서비스 장애와 유지 비용 대책을 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "핵심은 AI다. 플레이어가 말하듯 운전을 가르치면 AI가 이를 처리해 여동생이 운전하는 구조라, 사용하는 AI 모델에 따라 경험이 크게 갈린다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+          "cap": "여동생 운전 가르치기 1.2.9 업데이트 공지 이미지 (사진출처: 스팀)"
+        },
+        {
+          "t": "p",
+          "x": "한 달 새 데모 이용자가 20배 이상 늘며 지출이 하루 1,000달러(약 134만 원)에 달했다. 정식 출시 때는 패키지 가격에 예상 AI 사용료를 포함해 추가 과금을 막을 전망이다. 이지 폭스는 \"데모 운영을 이어가기 위해 은행 대출도 받은 상황\"이라며, 네 명뿐인 팀이라 데모를 예상보다 일찍 종료할 수도 있지만 아직 결정하지는 않았다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+          "cap": "여동생 운전 가르치기 스크린샷 (사진출처: 스팀)"
+        },
+        {
+          "t": "p",
+          "x": "품질 문제도 있다. 주력이던 구글 제미나이가 폭증한 트래픽에 잦은 오류를 내자 보조 모델인 오픈AI 모델 비중이 커졌고, 장황한 응답과 기계적인 어투가 나타났다. 이지 폭스는 답변 길이와 어조 개선을 최우선 과제로 삼고, 주행 지시를 반대로 수행하는 오작동도 줄여 나갈 계획이다."
+        }
+      ]
+    },
+    "games/dreamlands-1-0-public": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+        },
+        {
+          "t": "p",
+          "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 3D 에셋과 월드 전체를 생성하며, 요금제는 월 $20부터 $200까지다. 출시 무대는 Google Cloud의 Gemini at Work 행사였고, 플랫폼은 Google Cloud Marketplace에서 제공된다."
+        },
+        {
+          "t": "p",
+          "x": "Unity와 Ubisoft를 거친 Thomas Tobin CEO는 세 가지 기능을 내세웠다. One-Click Texturing은 편집 1회에 $0.10, 약 10초면 오브젝트 스타일을 바꾼다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+        },
+        {
+          "t": "p",
+          "x": "Surface는 나무, 금속, 유리, 천을 자동으로 알아보는 레이어 시스템을 얹어 리스킨을 빠르게 해 준다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+        },
+        {
+          "t": "p",
+          "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 짓고, 실제 세계의 배치를 본떠 도시도 만든다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+        },
+        {
+          "t": "p",
+          "x": "3인 스튜디오 Whenere는 이 도구로 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성했고, 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 예전 같으면 자기네 규모의 팀에게 \"정말 불가능했던\" 일이라고 했다. Dreamlands는 Google Cloud 위에서 돌아가며 Gemini 모델을 쓴다."
+        }
+      ]
+    },
+    "games/kutaragi-ai-daydreams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 지금 AI 기업을 이끈다. 그는 비디오 게임이 머지않아 AI 백일몽에 자리를 내줄 것이라고 확신하는 듯하다."
+        },
+        {
+          "t": "p",
+          "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 밝혔다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며 2028년에서 2029년 무렵이면 오늘날 콘솔 수준의 속도로 돌아갈 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끄는 만큼 AI를 필연으로 홍보할 이해관계가 있다고 짚었다."
+        }
+      ]
+    },
+    "games/krafton-snu-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+          "cap": "크래프톤과 서울대학교 월드모델 공동연구 출범식 전경(사진제공: 크래프톤)"
+        },
+        {
+          "t": "p",
+          "x": "크래프톤이 서울대학교와 게임 및 로봇 분야를 아우르는 월드모델 공동연구에 착수했다. 양측은 서울대에서 출범식을 열고 연구 주제와 연구진을 공개했으며, 이강욱 크래프톤 CAIO와 강유 서울대 교수 등이 참석했다."
+        },
+        {
+          "t": "p",
+          "x": "월드모델은 AI가 현재 상황을 파악하고 행동에 따라 환경이 어떻게 변할지 예측·시뮬레이션하는 기술이다. 공동연구는 향후 3년간 교수진의 세 가지 연구과제와 공동연구센터 운영으로 진행된다. 긴 영상에서 공간과 사물을 일관되게 유지하는 기술, 게임 속 동작 데이터로 사람과 사물의 움직임을 잇는 기술, AI가 공간 정보를 판단 근거로 삼는지 검증하는 연구와 벤치마크 구축이 포함된다."
+        },
+        {
+          "t": "p",
+          "x": "이번 출범은 지난해 11월 체결한 산학협력협약을 바탕으로 했다. 이강욱 CAIO는 \"게임으로 쌓아 온 시뮬레이션·가상세계 구축 역량은 월드모델 연구의 중요한 기반\"이라며 성과를 게임 경험과 로보틱스로 확장하겠다고 말했다. 크래프톤은 지난해 미국에 로보틱스 연구법인 루도 로보틱스를, 올해 2월 한국 법인을 세웠다."
+        }
+      ]
+    },
+    "games/games-fortnite-whenere": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Sci-fi 작가 Neal Stephenson이 세운 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite에 옮겨 온다. Whenere는 자사를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+        },
+        {
+          "t": "p",
+          "x": "책을 그대로 옮기기보다 Netherfield Park 같은 배경을 꾸린다. 사용자는 장소를 고르고 움직임을 스크립트로 짠 다음 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 붙여 Whenere의 Fortnite 섬에 공개한다."
+        },
+        {
+          "t": "p",
+          "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
+        },
+        {
+          "t": "video",
+          "yt": "ZdBRAz9yvro"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트는 잡혀 있지만 공개 출시일은 아직 없다."
+        }
+      ]
     }
   }
 }

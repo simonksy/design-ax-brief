@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-10",
+  "section": "marketing",
+  "now_iso": "2026-10-09T22:05:00Z",
+  "window_hours": 72,
+  "pass": "recovery",
+  "items": [
+    {
+      "category": "marketing",
+      "source": "CX Dive",
+      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+      "title": "A health insurance agency's journey from pilot to full-time voice AI agent",
+      "published_iso": "2026-10-07T07:00:00-04:00",
+      "og_image": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
+      "excerpt": "eHealth uses Regal's 'Alice' voice AI agent to prescreen Medicare callers during open enrollment; it answers every call instantly, scores 77% 'exceptional' satisfaction and drives a 27% higher purchase rate than the outsourced human screeners it replaced.",
+      "axis": "customer operations / sales conversion"
+    },
+    {
+      "category": "marketing",
+      "source": "CX Dive",
+      "url": "https://www.customerexperiencedive.com/news/mcdonalds-disputes-dynamic-pricing-artificial-intelligence-menu-claims/832357/",
+      "title": "McDonald's disputes reports that it uses AI to set prices",
+      "published_iso": "2026-10-07T16:00:00-04:00",
+      "og_image": "https://imgproxy.divecdn.com/Z6kHe8XZ5xI73PKRhIHcp9JYAAkrGkQknD30bymcIVs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjQyMF8yLmpwZw==.webp",
+      "excerpt": "McDonald's vehemently denied using AI to set or change menu prices, saying its pricing tool gives restaurant-specific recommendations and doesn't change prices in real time or by daypart; franchisees make the final call.",
+      "axis": "pricing/promotions as a sales lever"
+    },
+    {
+      "category": "marketing",
+      "source": "MADTIMES (Tinuiti release)",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29223",
+      "title": "Tinuiti Unveils Bliss Point MCP Server, Pioneering Open Measurement Access for AI Agents",
+      "published_iso": "2026-10-07T18:28:57+09:00",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202610/29223_71478_274_v150.jpg",
+      "excerpt": "Agency Tinuiti opened its Bliss Point measurement layer to AI agents via an MCP server, letting ChatGPT, Claude, Copilot or a client's own agents query normalized cross-channel media performance and measurement data under client permissions.",
+      "axis": "targeting & measurement (agentic)"
+    },
+    {
+      "category": "marketing",
+      "source": "MADTIMES",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29183",
+      "title": "AI마다 추천 브랜드·판매처 제각각…AI 쇼핑, 브랜드 경쟁도 바꾼다",
+      "published_iso": "2026-10-09T00:00:00+09:00",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202610/29183_71392_458_v150.jpg",
+      "excerpt": "Jellyfish's Share of Model study across 8 categories in 4 markets found ChatGPT, Google AI Mode and Alexa for Shopping recommend very different products and retailers (ChatGPT ~80% of measured recommendations); it added SKU-level 'Shopping Optimization' to track why AI agents pick products.",
+      "axis": "search/discovery shift (AI shopping shelf)"
+    },
+    {
+      "category": "marketing",
+      "source": "MADTIMES (Pinterest release)",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
+      "title": "Pinterest launches Beauty Guides to turn inspiration into action",
+      "published_iso": "2026-10-09T09:17:51+09:00",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202610/29255_71542_169_v150.jpg",
+      "excerpt": "Pinterest's new Beauty Guides combine visual understanding with an LLM to turn hair and nail Pins into personalized guides with salon instructions, similar looks and relevant products, part of its 'Pinterest Intelligence' push from inspiration to purchase intent.",
+      "axis": "AI shopping discovery / commerce"
+    },
+    {
+      "category": "marketing",
+      "source": "Brand Brief",
+      "url": "http://www.brandbrief.co.kr/news/articleView.html?idxno=10387",
+      "title": "TBWA코리아, AI 시대 맞춤 모듈형 마케팅 솔루션 'AIM by TBWA' 선봬",
+      "published_iso": "2026-10-07T10:05:02+09:00",
+      "og_image": "https://www.brandbrief.co.kr/news/thumbnail/202610/10387_23705_5652_v150.jpg",
+      "excerpt": "TBWA Korea launched AIM, a modular service that diagnoses how a brand is represented inside AI answers (GEO) and feeds that into media, PR, content, customer acquisition and CRM in a seven-stage loop, responding to zero-click AI discovery.",
+      "axis": "search/discovery shift (weak: agency GEO service, borderline vendor promo)"
+    },
+    {
+      "category": "marketing",
+      "source": "MOBIINSIDE",
+      "url": "https://www.mobiinside.co.kr/2026/10/08/ai-ad-designer-creative-lab-interview/",
+      "title": "AI는 소스를 만들고, 사람은 완성한다 — 14년 차 광고 디자이너의 AI 활용법",
+      "published_iso": "2026-10-08T05:54:31+00:00",
+      "og_image": "https://mobiinsidecontent.s3.ap-northeast-2.amazonaws.com/kr/wp-content/uploads/2026/10/07135237/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7-2026-10-07-135219.png",
+      "excerpt": "A 14-year ad designer explains how generative AI now produces the source imagery for ad creatives while humans finish typography and layout, because fully automated AI banners still look 'AI-made'.",
+      "axis": "creative production (weak: interview, agency-branded)"
+    }
+  ],
+  "expansion": {
+    "terms": [
+      "voice AI agent sales conversion (Regal, eHealth)",
+      "AI menu/dynamic pricing (McDonald's)",
+      "MCP measurement server for AI agents (Tinuiti Bliss Point)",
+      "Share of Model / AI shopping shelf (Jellyfish)",
+      "Pinterest Intelligence / Beauty Guides",
+      "GEO agency service (TBWA Korea AIM)",
+      "생성형 AI 광고 소재 제작",
+      "Amazon Ads Creative Agent",
+      "TikTok Symphony",
+      "Snap/Pinterest AI ad tools",
+      "Perplexity/Copilot/AI Mode ads",
+      "Sierra/Intercom Fin/Agentforce",
+      "Adobe GenStudio/Canva Grow",
+      "네이버/카카오/쿠팡 AI 광고"
+    ],
+    "added_sources_offlist": [
+      "customerexperiencedive.com",
+      "madtimes.co.kr",
+      "brandbrief.co.kr",
+      "mobiinside.co.kr",
+      "paymentsdive/ciodive/restaurantdive (no keepers)",
+      "socialmediatoday.com (no keepers)",
+      "martechseries.com (no keepers)"
+    ],
+    "dropped": [
+      "DV ChatGPT ads attribution/brand suitability (madtimes) - same story as published DV Rockerbox/Weight Watchers",
+      "Dentsu 'Making it Real' CMO report (madtimes) - per-source cap 3, generic survey",
+      "FMI/NGA FTC personalized pricing - no AI substance in body",
+      "SEJ 'Scale AI video ads' - sponsored",
+      "SER Conversion Lift self-service - no AI",
+      "Morrisons Eagle Eye AIR - vendor case study",
+      "Verge Instinct vs Muse - Meta Muse story rejected as stale",
+      "6 WebSearch queries returned no fresh items (index stale)"
+    ]
+  }
+}

@@ -1684,6 +1684,135 @@
           "x": "Senator Joni Ernst says reviews of OTAs have raised red flags, including questionable costs and a lack of oversight. Public records show Google, Anthropic, and OpenAI all have OTs with CDAO, but the companies did not confirm whether Tradewinds was used for them."
         }
       ]
+    },
+    "politics/openai-false-front-ops": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI says it banned two covert influence operations, one from Russia and one from Iran, that used its models alongside traditional techniques to run “false front” entities laundering geopolitical messaging to target audiences."
+        },
+        {
+          "t": "p",
+          "x": "According to OpenAI, the Iranian operation used seven “journalist” personas to pitch long-form articles to small and medium outlets, while the Russian one appears to have co-opted unwitting people in Latin America to run a “think tank.” The company rates the Russian operation Category 5 on the Breakout Scale, the first it has disrupted, and the Iranian one Category 4."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+          "cap": "OpenAI's matrix of 30 influence operations it has exposed since early 2024, by distribution method and Breakout Scale category."
+        },
+        {
+          "t": "p",
+          "x": "“Dark Clark,” the Russian operation, mostly used ChatGPT to write internal reports on campaigns aimed at Ukraine's reputation and politics in Argentina and Bolivia, via a research platform fronted by a persona called “Mia Clark.”"
+        },
+        {
+          "t": "p",
+          "x": "“Bogus Bylines,” the Iranian operation, refined articles on the US-Iran conflict; OpenAI identified almost 100 published across roughly a dozen outlets. OpenAI says it shared information on both cases with the relevant authorities."
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+          "cap": "Timeline of articles published under the seven Bogus Bylines personas, per OpenAI."
+        }
+      ]
+    },
+    "politics/enisa-jrc-chinese-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+          "cap": "A display for a Chinese telecom company at the PT Expo on September 22, 2026 in Beijing. | Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The European Union's cybersecurity agency and in-house research center have each begun experimenting with open AI models from China, three EU officials told POLITICO."
+        },
+        {
+          "t": "p",
+          "x": "Commission spokesperson Maciej Berestecki confirmed the Joint Research Centre (JRC) is evaluating “publicly available open-weight models” from China as part of a comparative study that also includes leading U.S. and European models. The models run on the JRC's secure, on-premises infrastructure, there are no licensing talks with Chinese developers, and the Commission does not intend to use them for its own purposes."
+        },
+        {
+          "t": "p",
+          "x": "ENISA executive director Juhan Lepassaar said the agency, which has access to advanced models from Anthropic, OpenAI and Google, is also experimenting with “a couple” of open-weight Chinese models."
+        },
+        {
+          "t": "p",
+          "x": "The two bodies have been tasked with building an AI testing platform under a recent EU action plan on AI and cyber, launched after incidents in which AI systems broke out of testing environments."
+        }
+      ]
+    },
+    "politics/park-wansu-deepfake-election-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+          "cap": "Police raided the South Gyeongsang Provincial Government office and other sites on June 9 to investigate the 'deepfake video and official election-meddling allegations' case."
+        },
+        {
+          "t": "p",
+          "x": "Police have questioned South Gyeongsang Governor Park Wan-su as a suspect over the 'deepfake video and official election-meddling allegations' involving the campaign of Park, then the People Power Party candidate for South Gyeongsang governor, which surfaced during the 6·3 (June 3) local elections, it has been confirmed."
+        },
+        {
+          "t": "p",
+          "x": "The cyber investigation division of the South Gyeongsang Provincial Police Agency said on the 8th that it had booked Park on charges including violating the Public Official Election Act. Park reportedly appeared at the police from 8 a.m. to 9 p.m. the previous day for questioning. A police official said, \"The investigation is still under way, so it is difficult to disclose details.\""
+        },
+        {
+          "t": "p",
+          "x": "Police had earlier opened an investigation into 5 cases of alleged smear campaigning involving 9 people, including officials from then governor-elect Park's campaign and current and former South Gyeongsang provincial government officials. In May, the South Gyeongsang Election Commission referred the 9 to the Changwon District Prosecutors' Office for investigation on charges of violating the Public Official Election Act, and the side of Democratic Party candidate for South Gyeongsang governor Kim Kyoung-soo also filed a complaint with the South Gyeongsang Provincial Police Agency against 5 people on charges of producing and spreading deepfake videos and of public officials interfering in the election. Police are known to have merged the cases into a single investigation."
+        },
+        {
+          "t": "p",
+          "x": "In August, arrest warrants for 4 campaign officials were all rejected. They are accused of ordering the production of deepfake videos defaming candidate Kim Kyoung-soo and of providing internal provincial government documents, money and other valuables. Among them, former official A and current official B are also accused of setting up a quasi-campaign office to handle the video production."
+        }
+      ]
+    },
+    "politics/yandex-ai-datacenter-strike": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+          "cap": "A satellite image showing damage to a Yandex AI data center in the Sasovo region of Russia. Credit: Planet Labs PBC"
+        },
+        {
+          "t": "p",
+          "x": "Ukrainian drone strikes have knocked out two of five data centers belonging to Yandex, known as “Russia's Google,” leaving it struggling to maintain its AI chatbot and other online services."
+        },
+        {
+          "t": "p",
+          "x": "The drones struck Yandex data centers in the Sasovo and Kaluga regions on October 8 and 9, according to Reuters. The Sasovo site houses two of the company's three supercomputers used to train its YandexGPT model; Kaluga is its largest facility. Ukrainian President Volodymyr Zelenskyy called the strikes a “symmetrical response” to a Russian drone campaign against Ukraine's data centers since late September."
+        },
+        {
+          "t": "p",
+          "x": "Yandex said no employees were hurt but acknowledged disruptions. Users reported problems with services including Ivi, T-Bank and Russian Railways."
+        },
+        {
+          "t": "p",
+          "x": "Data centers have become wartime targets in 2026: Iranian drones earlier knocked out Amazon data centers in Bahrain and the UAE."
+        }
+      ]
+    },
+    "politics/politics-uk-ico-ai-training-data-pledges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Ten of the world's biggest AI developers have agreed to tighten their handling of personal data following scrutiny by Britain's privacy watchdog. The ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, and Stability AI have either made changes or committed to doing so."
+        },
+        {
+          "t": "p",
+          "x": "These include clearer explanations of how personal information is used to train AI models, better ways for people to exercise their data rights, and tougher assessments of developers' safeguards. The supervisory program launched in 2025 initially covered 11 developers; it dropped to ten after the ICO paused its engagement with xAI to pursue a separate formal investigation into its Grok chatbot."
+        },
+        {
+          "t": "p",
+          "x": "The ICO is monitoring whether developers deliver and admits current AI training practices still pose problems under UK data protection law, including sensitive data buried in models and how people can get their details removed."
+        },
+        {
+          "t": "p",
+          "x": "The regulator is now turning to AI agents. It has contacted OpenAI, Anthropic, Meta, and the UK's AI Security Institute after reports of agents bypassing safeguards. \"The fact AI agents act with autonomy is not an excuse for poor compliance,\" said Richard Nevinson, the ICO's director of technology regulation. A six-week call for evidence on agentic AI runs until November 20."
+        }
+      ]
     }
   }
 }

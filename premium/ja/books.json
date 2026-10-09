@@ -5936,6 +5936,129 @@
           "x": "共同創業者のEsme Dennysは「AI検出とは呼びたくない」と言う。「私たちの組織の根幹は、[作家が]不当に非難されるのを防ぐことにある」"
         }
       ]
+    },
+    "books/books-wired-publishers-ai-staff-revolt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+        },
+        {
+          "t": "p",
+          "x": "米国(US)の大手出版社Big Fiveのうち少なくとも三社(HarperCollins、Simon & Schuster、Hachette)が、公表も著者の同意もないまま、ひそかにAIツールを取り入れてきた。WIREDに匿名で語った二十数人を超える従業員が明かした。"
+        },
+        {
+          "t": "p",
+          "x": "従業員によると、ClaudeやChatGPTなどのLLMsが、文芸エージェントへのメール、宣伝文や裏表紙の文章の作成、表紙デザイン、マーケティング資料の生成に使われており、多くは経営陣の指示によるものだという。"
+        },
+        {
+          "t": "p",
+          "x": "HarperCollinsでは経営陣がClaudeのライセンスを購入し、社員は事実上の強制志願(「voluntold」)で「AI Champions」になった。Hachetteは業務面でのAI活用は支持するが創作面では支持しないとし、Simon & Schusterはツールの使用は必須ではないと説明した。HarperCollinsは回答しなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Simon & Schusterの従業員はSkan AIソフトウェアの試験導入に反対する公開書簡を回覧し、CEOのGreg Greeleyは使用を決めたわけではないと返答した。"
+        },
+        {
+          "t": "p",
+          "x": "WIREDが取材した業界関係者の多くは、出版社に明確なAI利用ガイドラインと開示を求めているだけだ。"
+        }
+      ]
+    },
+    "books/books-von-menschen-label": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ドイツ語圏の児童・青少年書の出版社18社が新しいラベルを導入する。„Von Menschen · geschrieben · gestaltet · geprüft“(人が・書き・デザインし・確認した)は、文章、イラスト、デザインが人の手で作られ、本が出版社で編集上のチェックを受けていることを示すものだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
+          "cap": "ロゴ „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
+        },
+        {
+          "t": "p",
+          "x": "出版社はこの取り組みを通じて、人間の創造性、編集上の責任、創作物の保護を訴える。ラベルは、業務プロセスの支援や分析、リサーチなど、出版社での人工知能の利用を禁じるものではない。目的は、人間による創作物に対する透明性と責任である。"
+        },
+        {
+          "t": "p",
+          "x": "ラベルはavj(Arbeitsgemeinschaft von Jugendbuchverlagen、青少年書出版社協会)の作業部会が開発した。出版社はこれによって次のような共通の約束を掲げる。"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geschrieben(人が書く):文章は著者が執筆する。"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen gestaltet(人がデザインする):イラストはアーティストが制作し、写真やレイアウトなどのデザイン要素は人が選び、作り込み、キュレーションする。"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geprüft(人が確認する):内容、言語、デザインは出版社で編集上のチェックを受ける。"
+        }
+      ]
+    },
+    "books/books-ghostwriters-ai-commissions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "ゴーストライターたちはThe Booksellerに対し、著者志望者が生成AIを試すようになり依頼が減っていると語った。一方で、AIが生成した(AI-generated)原稿の仕事を頼まれることが増えている者もいる。"
+        }
+      ]
+    },
+    "books/books-tonies-ai-storyteller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
+          "cap": "Tonies CEO Tobias Wann"
+        },
+        {
+          "t": "p",
+          "x": "Frankfurter BuchmesseのGlobal 50 CEO Talk 2026で、ToniesのCEO、Tobias Wannは、今年の売上高を約€800m(8億ユーロ)と見込み、これまでにボックス約1,200万台、フィギュア1,700万体以上を販売したと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Toniesは「Sleepy Friends」シリーズなどオリジナルIPの開発を進めているが、カタログの大半は依然としてライセンス作品で、パートナーが制作をTonies Studioに任せるケースも増えている。"
+        },
+        {
+          "t": "p",
+          "x": "AIナレーションについて、Wannは慎重だった。Toniesは閉じた環境の中で、子どもの名前、年齢、興味からパーソナライズされた物語を生成するAI「語り手(storyteller)」を3,000世帯で試験した。しかし親の懐疑的な見方に触れ、「Toniebox自体がAI玩具になることは決してない」と語った。社内では従業員の約85%が日常的にAIを使っている。"
+        },
+        {
+          "t": "p",
+          "x": "Toniesは2027年に少なくとも二カ国に新たに進出し、2030年までにすべての主要地域での展開を目指す。"
+        }
+      ]
+    },
+    "books/books-munich-llm-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "ミュンヘン地方裁判所は今年二度目となる、AI企業を相手取った訴訟で、ドイツの著作権集中管理団体GEMAの訴えを認めた。昨年11月にドイツ語(German-language)の歌詞をめぐってOpenAIに不利な判決を下したのに続き、7月にはBoney M.の楽曲が大きく扱われた複数の音楽作品をめぐり、Suno AIに不利な判決を下した。"
+        },
+        {
+          "t": "p",
+          "x": "判決は核心の問いに踏み込んだ。LLMsは記憶するのか、するならそれは複製なのか。裁判所の答えはいずれも「イエス」だった。判決文は「学習データと出力の一致から...学習データが記憶されたと推認できる」と述べる。単純なプロンプトでトークン化された作品が再び組み上がるなら、それは複製に等しいというのが裁判所の見方だ。"
+        },
+        {
+          "t": "p",
+          "x": "学習が米国(U.S.)で行われたため、ミュンヘン地裁は米国の著作権法を適用し、Bartz v. AnthropicとKadrey v. Metaを丹念に読み込んだ。ただしこれらの事件とは異なり、出力が入力を実際に複製していると判断したため、利用は「変形的(transformative)」ではなく、フェアユース(fair use)の抗弁も成り立たないとした。"
+        },
+        {
+          "t": "p",
+          "x": "判決は確定しておらず、控訴される可能性もある。RELXのRichard MollettはPWへの寄稿で、著作権はAIに踏みにじられてはいないと論じる。訴訟と並行してライセンス契約が増えていることが、権利者の決意を示しているという。"
+        }
+      ]
     }
   }
 }

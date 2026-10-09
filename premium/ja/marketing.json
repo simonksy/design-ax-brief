@@ -384,6 +384,151 @@
           "x": "データはベンダー自身が提供したもので、対象はひと月、ひとつの広告プラットフォームに限られ、監査も受けていない。この数値は、Meta、Amazon、Xが自社の広告システムをエージェントに開放しつつある中で出てきた。"
         }
       ]
+    },
+    "marketing/chatgpt-virtual-try-on-selfie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIがChatGPTユーザー向けにバーチャル試着(virtual try-on)機能を公開した。ChatGPTで服やアクセサリーを見ているときに「try on」ボタンを押し、自分の写真を撮るかアップロードすると、その商品を身に着けた自分の画像を生成できる。"
+        },
+        {
+          "t": "p",
+          "x": "買い物客は商品をFavoritesに保存したり、ChatGPT Libraryにフォルダーを作ったりできる。機能はChatGPTのウェブサイトとモバイルアプリで利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIがショッピング機能を拡充するにつれ、このプラットフォームを試す小売業者も増えている。David's Bridalは4月、ShopifyのChatGPT向けAgentic Storefrontsに出店し、Etsyは5月にChatGPTアプリを公開した。"
+        },
+        {
+          "t": "p",
+          "x": "試着機能によって、OpenAIはGoogleに追いつこうとしている。Googleは2023年に女性用トップスのバーチャル試着を始め、その後ドレスや靴にも広げた。Perfect Corp.の2024年の調査では、バーチャル試着を導入したブランドの販売コンバージョン率は2倍以上になった。"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-max-text-asset-previews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Adsで、Google Ads AI MaxキャンペーンのためにGoogle AIが生成したアセットをプレビューできるようになった。検索キャンペーンのヘルプページに新設された「Text customization asset previews（テキストのカスタマイズのアセットプレビュー）」セクションで案内されている。"
+        },
+        {
+          "t": "p",
+          "x": "「アセットプレビューを使うと、Google AIがキャンペーン向けに生成したサンプルのテキストアセットを確認できる…テキストのカスタマイズを有効にする前や新しいキャンペーンを開始する前に、生成されたテキストアセットが定めたブランドおよびテキストのガイドラインに沿っているかを確かめられる。」"
+        },
+        {
+          "t": "p",
+          "x": "アセット例の大半は30秒未満で生成され、英語、スペイン語、ポルトガル語、イタリア語、フランス語、ドイツ語、日本語、オランダ語など、テキストのカスタマイズが対応するすべての言語で利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "最終ページURLを入力すると、Google AIが見出しと説明文の例を最大10件自動で生成する。表示するためにテキストのカスタマイズを有効にする必要はない。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+          "cap": "新設されたヘルプページのセクション"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PinterestがAIを活用した新機能「ビューティーガイド(Beauty Guides)」を発表した。ヘアやネイルのピンを個人に合わせた実践ガイドに変え、Pinterestで見つけたスタイルを実際に再現できるよう後押しする。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pinterestの視覚認識技術がピン内のヘアスタイル、カラー、ネイルの形、仕上がりなどを分析し、大規模言語モデル(LLM)がそれをサロンで伝える内容、施術の流れ、似たスタイル、関連商品、ステップごとの手順にまとめる。ヘアやネイルのピンを拡大表示し、「ガイドを見る(Get the Guide)」をタップすればよい。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+        },
+        {
+          "t": "p",
+          "x": "最高製品技術責任者(CPTO)のマット・マドリガル氏は「人々は、望むスタイルを言葉で説明できなくても、はっきりした視点を持ってPinterestにやって来る」と述べた。この機能は、ファーストパーティーデータ、視覚認識、目的特化型AIモデルを組み合わせた「Pinterestインテリジェンス」の一例である。"
+        },
+        {
+          "t": "p",
+          "x": "Pinterestユーザーの85%以上が、新しい美容トレンドを他のどこよりも先にPinterestで見つけると回答した。ビューティーガイドはまず米国のiOSユーザーに提供され、今後は地域と商品カテゴリーを広げていく計画だ。"
+        }
+      ]
+    },
+    "marketing/ehealth-regal-alice-voice-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "eHealthの顧客の多くは、約54日間のMedicareオープン加入期間に電話をかけてくる。その数は約五十万件にのぼり、70%から80%が電話で購入するため、有資格の担当者を六時間待つ人もいた。"
+        },
+        {
+          "t": "p",
+          "x": "この健康保険代理店は現在、RegalのLLMベース(LLM-based)の音声エージェント「Alice」で電話を事前選別している。RegalがCX Diveに提供したデータによると、Aliceはすべての電話に即座に応答し、満足度評価では77%が「exceptional(非常に良い)」を付け、eHealthが外部委託コールセンターの人間による選別を使っていた頃より購入率が27%高い。"
+        },
+        {
+          "t": "p",
+          "x": "導入は2025年2月、時間外の試験運用として始まった。規制上、プライバシーに関する説明を途切れなく伝える必要があるため、Regalはエージェントが割り込まれずに読み上げてから人間の担当者に引き継ぐ「static node(静的ノード)」を構築した。"
+        },
+        {
+          "t": "p",
+          "x": "コンプライアンス部門は当初から重要な関係者だった。eHealthの製品・AI担当VP、Atul Kumar氏は「規制を受けるあらゆる企業にとって、これはplug-and-playのソリューションではない」と語った。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-adweek-ai-tools": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MetaはNew YorkでのAdvertising Weekのプレゼンテーションで、改良したビジネスアシスタント、ブランド向けクリエイティブツールの拡充、新しいショッピング体験など、一連の広告アップデートを発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは、広告制作の主要要素について対話形式でガイダンスを示すAI-poweredのビジネスアシスタントを強化する。新たなクリエイティブインサイトを加え、記憶と文脈を広げる。Metaはその文脈を「前四半期に試したこと、季節性、説明済みの目標という文脈」だと説明した。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Metaはさらに、ブランドが戦略やブランドボイスのガイドラインをアップロードできる取り込みツールを試験している。対話型プロンプトでアシスタントがクリエイティブを生成し、ターゲティングを更新し、広告予算を変更できるようエージェント機能も加える。定期的なパフォーマンスレポートやアラートといった予約タスクも試験中だ。"
+        },
+        {
+          "t": "p",
+          "x": "Ads Creative Studioはより多くの広告主に広がり、Meta Ads MCPサーバーはthird-partyのAIツールでより多くの用途に対応した。Customer Lifecycle Strategyはすべての広告主が利用できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "Advantage+ creativeでは、既存の静止画アセットから動画を生成する機能が一般提供となった。Ads Creative Studioには、フックの変更、音声とクリップ長の調整、テキストオーバーレイと字幕の追加、エンドシーンの変更を行うツールが加わる。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
+        }
+      ]
     }
   }
 }

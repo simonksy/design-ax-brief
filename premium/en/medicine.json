@@ -304,6 +304,116 @@
           "x": "BoneXpert has been used clinically in Europe since 2009 and is supported by more than 50 peer-reviewed studies. Visiana plans to release it in the U.S. in early October."
         }
       ]
+    },
+    "medicine/radnet-prostate-biopsy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
+          "cap": "prostate cancer PSA"
+        },
+        {
+          "t": "p",
+          "x": "An AI solution from RadNet subsidiary DeepHealth can help nearly 1 in 5 patients avoid prostate biopsies, according to new research in European Radiology comparing an AI risk-classification tool against radiologist-assigned PI-RADS scores on prostate MRI."
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted biopsy triage avoided nearly 19% of biopsies while maintaining 98.4% sensitivity for clinically significant cancer. The retrospective study covered nearly 800 subjects scanned between 2014 and 2025 in the U.S., Germany and the Netherlands, on equipment from five vendors."
+        },
+        {
+          "t": "p",
+          "x": "The tool uses a simplified three-tier risk scale (low, medium, high) versus PI-RADS' five categories. It achieved non-inferior patient-level sensitivity and higher discrimination than PI-RADS, but lower lesion-level sensitivity, so researchers see it complementing PI-RADS, especially for equivocal PI-RADS 3 lesions, while radiologists retain responsibility for lesion mapping."
+        },
+        {
+          "t": "p",
+          "x": "“These findings show how AI applications within our Prostate MR Solution can support clinicians at one of the most consequential decision points in prostate care,” said DeepHealth's Niccolò Stefani, MD."
+        }
+      ]
+    },
+    "medicine/abridge-ut-system-ambient": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
+          "cap": "Across the UT System, the pilot grew 73% in recording clinicians and 80% in monthly notes over the last 12 months. (Pakorn Supajitsoontorn/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Abridge is expanding its clinical AI platform across the University of Texas System through an enterprise-wide agreement with UT REAL Health AI, giving the system's eight health institutions access while upholding local decision-making."
+        },
+        {
+          "t": "p",
+          "x": "The deal builds on a pilot launched in 2025 with clinicians at five locations across outpatient, inpatient and emergency settings and more than 50 specialties. UT Health hospitals and clinics provided nearly 11.7 million outpatient visits in the last year."
+        },
+        {
+          "t": "p",
+          "x": "“We are focused not only on expanding clinician access to ambient AI to strip away the mental clutter of clerical overhead, but equally on returning that focused, human presence back to patients at the bedside,” said UT REAL Health AI chair Peter McCaffrey, M.D."
+        },
+        {
+          "t": "p",
+          "x": "Abridge says it works with 300 of the largest U.S. health systems and will support more than 100 million patient-clinician conversations this year. Last month it won an enterprise ambient AI contract with the VA."
+        }
+      ]
+    },
+    "medicine/coreline-jrs-lung-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft said on the 6th that its lung nodule diagnostic support software, AVIEW Lung Nodule CAD, has been listed as an officially certified AI software product by the Japan Radiological Society (JRS). Following approval last month from Japan's Pharmaceuticals and Medical Devices Agency (PMDA), the company has secured a basis for linking the product to imaging diagnosis add-on fees."
+        },
+        {
+          "t": "p",
+          "x": "With this certification, medical institutions that meet the facility standards for imaging diagnosis management add-on 3·4 can claim the add-on fee when they use the product. Certification of the product alone, however, does not apply to every hospital. Japan currently has 45 JRS-certified AI imaging diagnostic support software products, and the PMDA approval is the first for a Korean-developed CT-based lung nodule CAD."
+        },
+        {
+          "t": "p",
+          "x": "After acquiring VUNO's Japanese chest CT AI assets last year, the company grew its customer hospitals to about 80 within 1 year, and also signed a supply contract with M3 AI for its cardiovascular software AVIEW CAC."
+        },
+        {
+          "t": "p",
+          "x": "CEO Kim Jin-kook said, “By securing certification that meets hospitals' fee requirements following PMDA approval, the incentive for Japanese medical institutions to adopt AI and keep using it has become much clearer.”"
+        }
+      ]
+    },
+    "medicine/gpt5-agent-complexity-paradox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers ran a systematic quantitative analysis of ten GPT-5-based configurations on 161 clinician-validated real-world multimodal cases, scoring diagnostic accuracy, reasoning quality, retrieval accuracy, evidence integration and robustness to low-quality inputs."
+        },
+        {
+          "t": "p",
+          "x": "They found important limitations, including image misinterpretation, inconsistent web search that sometimes degraded performance, and limited transparency in agentic workflows. Strengths included effective use of patient history, clear stepwise reasoning, plausible differentials, improved specificity with explicit reasoning, and relevant evidence retrieval."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude that reliable real-world multimodal diagnosis depends more on transparent reasoning and high-quality inputs than on aggressive retrieval or complex agentic workflows, and that gaps in evidence integration and visual reasoning remain major barriers to routine clinical use."
+        }
+      ]
+    },
+    "medicine/medicine-mri2ct-bone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
+        },
+        {
+          "t": "p",
+          "x": "The U.S. Food and Drug Administration has cleared an AI-powered platform, MRI2CT Inc.'s NextMR, that creates 3D bone visualizations from standard spine MRIs. The Israel-based vendor says its goal is to enable “MRI-only workflows in spine care,” producing detailed models of bone morphology without exposing patients to additional radiation from CT."
+        },
+        {
+          "t": "p",
+          "x": "“Patients commonly begin their spine journey with an MRI, while detailed 3D visualization of bone may require another imaging step,” CEO Shmulik Shpiro said. “NextMR changes that paradigm.”"
+        },
+        {
+          "t": "p",
+          "x": "NextMR works with routine MRI sequences on 1.5T and 3T scanners and automatically generates its 3D bone output in under 60 seconds, viewable through a web interface. It was validated on an independent, retrospective dataset of 145 adults with paired MRI and CT images from sites in the U.S. and Israel."
+        }
+      ]
     }
   }
 }

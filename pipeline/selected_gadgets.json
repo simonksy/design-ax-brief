@@ -1,100 +1,99 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-      "source": "Engadget",
+      "title": "Pixel Watch 4 update adds Google's AI watch face generator",
+      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
+      "source": "9to5Google",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Amazon launches three new tablets built around Alexa+, its first hardware line rebranded around the AI assistant: a concrete product launch where AI is the selling point.",
-      "published_iso": "2026-10-08T13:00:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg",
-      "excerpt": "Amazon has launched three new tablets that come with Alexa+."
+      "rationale": "Google's generative AI watch face creator, launched as a Pixel Watch 5 exclusive, now reaches last year's watch by update: a concrete release where generative AI is the feature itself.",
+      "published_iso": "2026-10-09T15:30:56+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Pixel Watch 4 update brings Google's generative AI watch face generator (previously a Pixel Watch 5 feature) to last year's watch, along with other additions."
     },
     {
-      "title": "Natura’s $99 smart ring puts AI agents on your finger",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-      "source": "TechCrunch",
+      "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
+      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A $99 ring that summons AI agents with a finger press to run tasks, capture thoughts and control devices: a new form factor for agent input, and a cheap one.",
-      "published_iso": "2026-10-08T16:00:00+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
-      "excerpt": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker."
+      "rationale": "Local-AI RTX Spark laptops move from announcement to purchasable: pre-orders are live from $2,599, with concrete Blackwell configurations to compare.",
+      "published_iso": "2026-10-09T19:00:45Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+      "excerpt": "Pre-orders are now live for Nvidia RTX Spark laptops starting at $2,599; TechRadar picks three Blackwell-powered machines for running local AI."
     },
     {
-      "title": "Apple is set to show off new smart home devices at an October 13 event",
-      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
-      "source": "Engadget",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "Apple officially announces its 'Welcome Home' event for Oct 13, where a Siri/Apple Intelligence home hub is expected: the official date turns last month's rumor into a scheduled launch.",
-      "published_iso": "2026-10-08T16:16:30+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg",
-      "excerpt": "Apple teased a 'Welcome Home' event for October 13 at 9AM ET, where it is expected to show new smart home devices such as a Siri/Apple Intelligence-driven home hub."
-    },
-    {
-      "title": "Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-      "source": "Ars Technica",
+      "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
+      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
+      "source": "Gizmodo",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Nvidia's full-stack safety system for physical AI, already used by robotics makers such as Agility: the layer that decides whether humanoids and robotaxis can be trusted around people.",
-      "published_iso": "2026-10-08T11:15:33+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-      "excerpt": "Full-stack safety solution for physical AI is being used by robotics companies."
+      "rationale": "A hands-on review of $449 AI glasses you can buy now. The hardware barely changed, so the story is the new Muse model running the on-glasses assistant.",
+      "published_iso": "2026-10-07T23:00:13+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02-1200x675.jpg",
+      "excerpt": "Gizmodo reviews the $449 Ray-Ban Meta Gen 3 AI glasses: same camera and AI feature set as before, but Meta's new Muse model is a significant upgrade to the on-glasses assistant; spatial audio arrives via the Meta AI app."
     },
     {
-      "title": "This $1599 smart monitor robotic arm has its own built-in PC, and its 27-inch 4K display will follow you around thanks to its binocular 3D sensor",
-      "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor",
-      "source": "TechRadar",
+      "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
+      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+      "source": "The Verge",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "CyboPal's monitor on a robotic arm uses an on-device NPU for face tracking, gesture recognition and 3D sensing so the screen follows the user: on-device AI changing desk ergonomics.",
-      "published_iso": "2026-10-08T01:10:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-      "excerpt": "CyboPal's $1,599 smart monitor sits on a robotic arm with a built-in Rockchip RK3588 (6 TOPS NPU) 'Linux AI Compute Base' that handles on-device face tracking, gesture recognition and 3D spatial sensing so the 27-inch 4K display follows the user."
+      "rationale": "A year-long test of Amazon's generative-AI assistant on shipping Echo Show, Dot and Max hardware. It shows what the assistant does well and badly in daily use, and that it now carries ads.",
+      "published_iso": "2026-10-08T14:00:22+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&crop=0%2C10.736553697403%2C100%2C78.526892605194&w=1200",
+      "excerpt": "A year living with Alexa Plus across Echo Show, Dot and Max: Amazon's generative-AI assistant is better at running the smart home, but not yet ready to run your life - and it now comes with ads."
+    },
+    {
+      "title": "Xpanceo's AI smart contact lenses put 'an AI helper on your cornea' as soon as 2030",
+      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
+      "source": "CNET",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "The founders explain the prototype AI contact lenses they have built over five years and give a 2030 target date. The weakest pick (no shipping product yet), but it covers a new form factor not seen in the section before.",
+      "published_iso": "2026-10-08T11:21:08-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg",
+      "excerpt": "CNET interviews the founders of Dubai-based Xpanceo, which has spent five years building AI-powered smart contact lenses - 'an AI helper directly on your cornea' - that could arrive as soon as 2030."
     }
   ],
   "alternates": [
-    "https://www.androidcentral.com/wearables/solos-gives-its-smart-glasses-a-physical-privacy-kill-switch",
-    "https://www.etnews.com/20261007000433"
+    "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/"
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/": {
+      "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
+        "nearest": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/": {
-        "verdict": "new",
-        "nearest": "https://www.tomsguide.com/wellness/smart-rings/circular-just-announced-two-new-smart-rings-at-ifa-2026-i-sat-down-with-their-ceo-to-find-out-more",
-        "new_action": ""
-      },
-      "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/": {
+      "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business": {
         "verdict": "follow-up",
-        "nearest": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
-        "new_action": "Apple officially announced its 'Welcome Home' event for October 13 at 9AM ET; the 09-22 card was only a report that the device might come next month."
+        "nearest": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "new_action": "Pre-orders for RTX Spark laptops opened, with pricing from $2,599; the 10-08 card covered only the launch announcement. (history_match tag pointed at the 10-03 64GB DGX Spark card, a different product.)"
       },
-      "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/": {
+      "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
+        "nearest": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
         "new_action": ""
       },
-      "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor": {
+      "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max": {
+        "verdict": "new",
+        "nearest": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "new_action": ""
+      },
+      "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Alexa tablets cluster c1: kept Engadget launch report; dropped WIRED 'Alexa tablets blueprint for Amazon phone' (same launch, analysis) and Engadget Panos Panay tease (same Oct 8 event, design-language preview with no shipping product). The tablets are a new hardware launch, distinct from the 10-01 Fire TV interface card. Dropped as published repeats: 9to5Google Copilot+ PC branding (= 09-26 Ars, likely-repeat); UploadVR Meta Muse on glasses (= 09-24 Android Authority leak, plus 09-23/10-03 Muse cards; no new release); 디일렉 RTX Spark laptops (= 10-08 TechCrunch Microsoft Nvidia-chip AI PCs); PCWorld Windows Search AI control center (= 10-08 Verge Copilot control over Windows/search, same event). Dropped on relevance/freshness: 9to5Google XREAL Aura price (yesterday's Digital Trends version of the same price story was pulled because the article never mentions AI; same risk here); Road to VR Norway smart-glasses ban (low AI relevance, dropped yesterday for the same reason); UploadVR Ray-Ban Display features/international launch (Connect news from 09-28, Meta glasses already covered heavily, nearest 10-06 9to5Google); Tom's Guide Amazon driver glasses (warehouse-tour feature, not a new launch). Alternates: Solos privacy kill switch, etnews DeepRobotics traffic humanoid. Outlet spread: Engadget x2, TechCrunch, Ars Technica, TechRadar."
+    "note": "SWAP (orchestrator request): removed iBuyPower Ryzen AI Max+ Pro 495 mini PC (Notebookcheck; no AI content beyond chip/product names, Q4 announcement) and next-gen Google TV Streamer (9to5Google; article never mentions Gemini/AI), along with their dedup.checks entries. Kept the Pixel Watch 4 and RTX Spark pre-order picks unchanged. Backfilled from recovery items. Ray-Ban Meta Gen 3 review (Gizmodo): a hands-on review of the Gen 3 hardware with the Muse model. This is not the 10-05 Ray-Ban Meta Audio (camera-less) card, the 10-06 audio/navigation update, or the 09-23/09-24 Muse 0-day and Muse leak cards. Alexa Plus one-year review (Verge): a long-term assistant review, distinct from the 10-09 Alexa tablets hardware card and the 10-01 Fire TV Alexa+ card. Xpanceo AI contact lenses (CNET): a new company and form factor with no history match; it is the weakest pick (an interview about a 2030 prototype), taken to reach 5. Dropped: Apple Home app iOS 27 (9to5Mac), because its AI core (HomeKit Secure Video AI highlights) is the same story as the 09-15 MacRumors AI Camera Summaries card and the 09-27 Verge Apple Intelligence security-camera card. Dropped: Pixel Buds Pro 2/2a update (Verge), the rollout of the same Gemini-controls update published 09-29 (9to5Google), with no new release. Apple Intelligence removal on Macs (9to5Mac) is an alternate only: speculative opinion framing ('may have to'), and a running thread with the 09-24 30GB-storage card. Also excluded per instruction: MSI Pro Max Edge AI+ review (same class as the dropped mini PC), Tom's Guide RTX Spark battery test (same story as the kept pick), THE ELEC RTX Spark launch (same as the 10-08 TechCrunch card), Motorola AI key and Razer AI button (AI is only a button), XREAL Aura pricing (AI not central), Googlebook roundtable and Acer review (commentary on published launch), XDA local-AI week and Robot Report podcast (generic opinion). DeepX DX-M1 was not in the filtered pool (only in the recovery expansion terms), so it was not considered. Outlets: 9to5Google, TechRadar, Gizmodo, The Verge, CNET (5 distinct, 1 each)."
   }
 }

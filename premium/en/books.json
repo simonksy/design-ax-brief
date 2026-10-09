@@ -5929,6 +5929,129 @@
           "x": "“I wouldn’t call it AI detection,” says cofounder Esme Dennys. “The bedrock of our organization is to avoid [writers] being unjustly accused.”"
         }
       ]
+    },
+    "books/books-wired-publishers-ai-staff-revolt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At least three of the Big Five US publishers—HarperCollins, Simon & Schuster and Hachette—have been quietly incorporating AI tools without public disclosure or author consent, according to more than two dozen workers who spoke to WIRED anonymously."
+        },
+        {
+          "t": "p",
+          "x": "Staff say LLMs like Claude and ChatGPT are used to email literary agents, write publicity and back-cover copy, design cover art and generate marketing materials, often at executives’ direction."
+        },
+        {
+          "t": "p",
+          "x": "At HarperCollins, leaders bought Claude licenses and staff were “voluntold” to become “AI Champions.” Hachette says it supports operational but not creative uses of AI; Simon & Schuster says its tools are not mandatory. HarperCollins did not respond."
+        },
+        {
+          "t": "p",
+          "x": "Simon & Schuster employees circulated an open letter opposing a trial of Skan AI software; CEO Greg Greeley replied that no decision had been made to use it."
+        },
+        {
+          "t": "p",
+          "x": "Most industry professionals WIRED spoke with simply want publishers to provide clear AI usage guidelines and disclosures."
+        }
+      ]
+    },
+    "books/books-von-menschen-label": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "18 German-language children’s and youth book publishers are introducing a new label: “Von Menschen · geschrieben · gestaltet · geprüft” (by humans · written · designed · checked) is meant to make visible that texts, illustrations and design are created by humans and that the books are editorially reviewed at the publishers."
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
+          "cap": "Logo “Von Menschen · geschrieben · gestaltet · geprüft” © avj"
+        },
+        {
+          "t": "p",
+          "x": "With the initiative, the publishers stand up for human creativity, editorial responsibility and the protection of creative work. The label does not prohibit the use of artificial intelligence at publishers, for example to support processes, analysis or research. It is about transparency and responsibility toward the creative works of humans."
+        },
+        {
+          "t": "p",
+          "x": "The label was developed by a working group of the avj (Arbeitsgemeinschaft von Jugendbuchverlagen, the association of youth book publishers). With it, the publishers make a shared promise:"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geschrieben (written by humans): texts are written by authors."
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen gestaltet (designed by humans): illustrations are created by artists; photos, layouts and other design elements are selected, developed and curated by humans."
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geprüft (checked by humans): content, language and design are editorially reviewed at the publisher."
+        }
+      ]
+    },
+    "books/books-ghostwriters-ai-commissions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Ghostwriters have told The Bookseller that commissions are falling as prospective authors experiment with generative AI, while others are increasingly being asked to work on AI-generated manuscripts."
+        }
+      ]
+    },
+    "books/books-tonies-ai-storyteller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
+          "cap": "Tonies CEO Tobias Wann"
+        },
+        {
+          "t": "p",
+          "x": "At the Frankfurter Buchmesse’s Global 50 CEO Talk 2026, Tonies CEO Tobias Wann said the company expects revenue of about €800m this year and has sold some 12 million boxes and more than 17 million figurines."
+        },
+        {
+          "t": "p",
+          "x": "Tonies is developing more original IP such as its “Sleepy Friends” line, but licensed material still makes up the bulk of the catalogue, with partners increasingly handing production to Tonies Studio."
+        },
+        {
+          "t": "p",
+          "x": "On AI narration, Wann was measured. Tonies trialed an AI “storyteller” with 3,000 households, generating personalized stories from a child’s name, age and interests inside a closed environment. But “the Toniebox itself will never become an AI toy,” he said, noting parental skepticism. Internally, about 85% of staff use AI daily."
+        },
+        {
+          "t": "p",
+          "x": "Tonies will enter at least two new countries in 2027, aiming for a presence in every major region by 2030."
+        }
+      ]
+    },
+    "books/books-munich-llm-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "For the second time this year, the Munich Regional Court has ruled in favor of the German collective rights organization GEMA in a case against AI companies. After finding against OpenAI over German-language lyrics last November, in July the court ruled against Suno AI over a number of musical works, with Boney M. featuring prominently."
+        },
+        {
+          "t": "p",
+          "x": "The judgment went to the core question: do LLMs memorize, and if so, is that a reproduction? Per the court, yes and yes. As the ruling states, “From the correspondence between the training data and the outputs... it can be inferred that the training data was memorized.” If a simple prompt brings tokenized works back together, the court suggests, that is tantamount to reproduction."
+        },
+        {
+          "t": "p",
+          "x": "Because the training took place in the U.S., the Munich court applied U.S. copyright law, reading Bartz v. Anthropic and Kadrey v. Meta closely. Unlike those cases, it found the outputs did reproduce the inputs, so the use was not “transformative” and fair use was no defense."
+        },
+        {
+          "t": "p",
+          "x": "The judgment is not final and may yet be appealed. Writing for PW, RELX’s Richard Mollett argues that copyright is not being steamrolled by AI: litigation and the parallel growth in licensing deals show rightsholders’ resolve."
+        }
+      ]
     }
   }
 }

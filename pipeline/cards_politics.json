@@ -1,505 +1,167 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-uk-ico-ai-training-data-pledges",
+      "id": "eu-ai-panel-loss-of-control",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
-      "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
-      "mini_headline": "영국 ICO, AI 데이터 약속 확보",
       "tool": "Politics",
-      "source": "theregister.com",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
+      "eyebrow": "AI NEWS",
+      "headline": "EU AI 과학패널\n통제 상실 사고 논의",
+      "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
+      "mini_headline": "EU 패널, AI 통제 상실 조사",
+      "source": "digital-strategy.ec.europa.eu",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
       "accent": "#3b6bff",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-          },
-          {
-            "t": "p",
-            "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검 끝에 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 바꿨거나 바꾸겠다고 약속했다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "개인정보가 AI 모델 학습에 어떻게 쓰이는지 더 명확히 알리는 설명, 사람들이 데이터 권리를 행사할 더 나은 방법, 개발사 보호 장치를 더 엄격하게 따지는 평가가 여기에 들어간다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳이 대상이었다. 그러다 ICO가 xAI의 Grok 챗봇을 따로 공식 조사하려고 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "ICO는 개발사들이 약속을 지키는지 지켜보는 중이다. 모델에 묻힌 민감 정보, 개인이 자기 정보를 지워 달라고 할 방법 등 지금의 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다는 점도 인정했다."
-          },
-          {
-            "t": "p",
-            "x": "규제기관의 눈은 이제 AI 에이전트로 향한다. 에이전트가 보호 장치를 우회했다는 보도가 나오자 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 의견 수렴은 여섯 주 일정으로 11월 20일까지 열린다."
-          }
-        ]
-      },
-      "lead_image": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
-      "text": {
-        "en": {
-          "headline": "UK watchdog wins data pledges\nfrom ten AI developers",
-          "body": "The UK's ICO says ten AI developers changed or committed to change how they use personal data to train AI.",
-          "mini_headline": "UK ICO gets AI data pledges",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "Ten of the world's biggest AI developers have agreed to tighten their handling of personal data following scrutiny by Britain's privacy watchdog. The ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, and Stability AI have either made changes or committed to doing so."
-              },
-              {
-                "t": "p",
-                "x": "These include clearer explanations of how personal information is used to train AI models, better ways for people to exercise their data rights, and tougher assessments of developers' safeguards. The supervisory program launched in 2025 initially covered 11 developers; it dropped to ten after the ICO paused its engagement with xAI to pursue a separate formal investigation into its Grok chatbot."
-              },
-              {
-                "t": "p",
-                "x": "The ICO is monitoring whether developers deliver and admits current AI training practices still pose problems under UK data protection law, including sensitive data buried in models and how people can get their details removed."
-              },
-              {
-                "t": "p",
-                "x": "The regulator is now turning to AI agents. It has contacted OpenAI, Anthropic, Meta, and the UK's AI Security Institute after reports of agents bypassing safeguards. \"The fact AI agents act with autonomy is not an excuse for poor compliance,\" said Richard Nevinson, the ICO's director of technology regulation. A six-week call for evidence on agentic AI runs until November 20."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
-          "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
-          "mini_headline": "영국 ICO, AI 데이터 약속 확보",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검 끝에 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 바꿨거나 바꾸겠다고 약속했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "개인정보가 AI 모델 학습에 어떻게 쓰이는지 더 명확히 알리는 설명, 사람들이 데이터 권리를 행사할 더 나은 방법, 개발사 보호 장치를 더 엄격하게 따지는 평가가 여기에 들어간다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳이 대상이었다. 그러다 ICO가 xAI의 Grok 챗봇을 따로 공식 조사하려고 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "ICO는 개발사들이 약속을 지키는지 지켜보는 중이다. 모델에 묻힌 민감 정보, 개인이 자기 정보를 지워 달라고 할 방법 등 지금의 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다는 점도 인정했다."
-              },
-              {
-                "t": "p",
-                "x": "규제기관의 눈은 이제 AI 에이전트로 향한다. 에이전트가 보호 장치를 우회했다는 보도가 나오자 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 의견 수렴은 여섯 주 일정으로 11월 20일까지 열린다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "英監視機関、AI開発\n十社からデータ保護の確約",
-          "body": "英ICOによると、AI開発十社が学習での個人データ利用を変更済みか変更を約束した。",
-          "mini_headline": "英ICO、AIデータで確約",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "世界有数のAI開発企業十社が、英国のプライバシー監視機関による精査を受け、個人データの取り扱いを厳格化することで合意した。ICOによると、Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI、Stability AIはすでに変更を行ったか、行うことを約束した。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、個人情報がAIモデルの学習にどう使われるかをより明確に説明すること、人々がデータ権利を行使しやすくすること、開発企業の安全対策をより厳しく評価することなどが含まれる。2025年に始まった監督プログラムは当初11社を対象としていたが、ICOがxAIのチャットボットGrokについて別途正式な調査を進めるためxAIとの協議を中断したことで、十社となった。"
-              },
-              {
-                "t": "p",
-                "x": "ICOは各社が約束を実行するかを監視している。また、モデルに埋もれた機微なデータや、人々が自分の情報を削除してもらう方法など、現在のAI学習の慣行には英国のデータ保護法上なお問題があると認めている。"
-              },
-              {
-                "t": "p",
-                "x": "規制当局は次にAIエージェントに目を向けている。エージェントが安全対策を回避したとの報道を受け、OpenAI、Anthropic、Meta、そして英国のAI Security Instituteに連絡を取った。ICOの技術規制担当ディレクター、Richard Nevinson氏は「AIエージェントが自律的に動くという事実は、不十分なコンプライアンスの言い訳にはならない」と述べた。エージェント型AIに関する六週間の意見募集は11月20日まで行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "英国监管机构获十家\nAI开发商数据承诺",
-          "body": "英国ICO称，十家AI开发商已改变或承诺改变用个人数据训练AI的方式。",
-          "mini_headline": "英国ICO获AI数据承诺",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "全球十家最大的AI开发商在英国隐私监管机构审查后，同意收紧对个人数据的处理。ICO表示，Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI和Stability AI已经作出调整或承诺作出调整。"
-              },
-              {
-                "t": "p",
-                "x": "这些措施包括更清楚地说明个人信息如何用于训练AI模型、为人们行使数据权利提供更好的途径，以及对开发商的保障措施进行更严格的评估。该监督计划于2025年启动，最初涵盖11家开发商；后因ICO暂停与xAI的接触、转而对其Grok聊天机器人另行展开正式调查，数量降至十家。"
-              },
-              {
-                "t": "p",
-                "x": "ICO正在监督开发商是否兑现承诺，并承认按照英国数据保护法，当前的AI训练做法仍存在问题，包括埋藏在模型中的敏感数据，以及人们如何让自己的信息被删除。"
-              },
-              {
-                "t": "p",
-                "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El regulador británico obtiene\ncompromisos de diez firmas de IA",
-          "body": "La ICO del UK dice que diez desarrolladores de IA cambiaron o prometieron cambiar su uso de datos para entrenar IA.",
-          "mini_headline": "La ICO del UK obtiene compromisos de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "Diez de los mayores desarrolladores de IA del mundo han aceptado endurecer su manejo de datos personales tras el escrutinio del regulador de privacidad británico. La ICO afirmó que Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI y Stability AI ya han hecho cambios o se han comprometido a hacerlos."
-              },
-              {
-                "t": "p",
-                "x": "Entre ellos figuran explicaciones más claras sobre cómo se usa la información personal para entrenar modelos de IA, mejores vías para que las personas ejerzan sus derechos sobre sus datos y evaluaciones más estrictas de las salvaguardas de los desarrolladores. El programa de supervisión, lanzado en 2025, abarcaba inicialmente a 11 desarrolladores; quedaron diez después de que la ICO suspendiera su relación con xAI para abrir una investigación formal aparte sobre su chatbot Grok."
-              },
-              {
-                "t": "p",
-                "x": "La ICO vigila si los desarrolladores cumplen y admite que las prácticas actuales de entrenamiento de IA aún plantean problemas según la ley de protección de datos del UK, como los datos sensibles ocultos en los modelos y la forma en que las personas pueden lograr que se eliminen sus datos."
-              },
-              {
-                "t": "p",
-                "x": "El regulador se centra ahora en los agentes de IA. Ha contactado con OpenAI, Anthropic, Meta y el AI Security Institute del UK tras informes de agentes que eludían salvaguardas. “Que los agentes de IA actúen con autonomía no es excusa para un cumplimiento deficiente”, dijo Richard Nevinson, director de regulación tecnológica de la ICO. Una consulta de seis semanas para recabar pruebas sobre la IA agéntica estará abierta hasta el 20 de noviembre."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "영국 ICO, AI 개발사\n열 곳 데이터 약속 받아",
-          "body": "ICO에 따르면 AI 개발사 열 곳이 개인정보 학습 방식을 바꿨거나 바꾸기로 했다.",
-          "mini_headline": "영국 ICO, AI 데이터 약속 확보",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "세계 최대 AI 개발사 열 곳이 영국 개인정보 감독기관의 점검을 받은 뒤 개인정보 처리를 강화하기로 했다. ICO는 Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI, Stability AI가 이미 변경을 마쳤거나 변경을 약속했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "여기에는 개인정보가 AI 모델 학습에 어떻게 쓰이는지에 대한 더 명확한 설명, 사람들이 데이터 권리를 행사할 수 있는 더 나은 방법, 개발사 보호 장치에 대한 더 엄격한 평가가 포함된다. 2025년 시작된 이 감독 프로그램은 처음에 개발사 11곳을 대상으로 했으나, ICO가 xAI의 Grok 챗봇에 대한 별도 공식 조사를 위해 xAI와의 협의를 중단하면서 열 곳으로 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "ICO는 개발사들이 약속을 이행하는지 지켜보고 있다. 아울러 모델에 묻힌 민감 정보, 개인이 자기 정보를 삭제받는 방법 등 현재 AI 학습 관행이 영국 데이터 보호법상 여전히 문제를 안고 있다고 인정했다."
-              },
-              {
-                "t": "p",
-                "x": "규제기관은 이제 AI 에이전트로 눈을 돌리고 있다. 에이전트가 보호 장치를 우회했다는 보도가 나온 뒤 OpenAI, Anthropic, Meta와 영국 AI Security Institute에 연락했다. ICO의 기술 규제 담당 이사 Richard Nevinson은 “AI 에이전트가 자율적으로 움직인다는 사실이 부실한 법규 준수의 핑계가 될 수는 없다”고 말했다. 에이전트형 AI에 관한 여섯 주간의 의견 수렴은 11월 20일까지 진행된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "英監視機関、AI開発\n十社からデータ保護の確約",
-          "body": "英ICOによると、AI開発十社が学習での個人データ利用を変更済みか変更を約束した。",
-          "mini_headline": "英ICO、AIデータで確約",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "世界有数のAI開発企業十社が、英国のプライバシー監視機関による精査を受け、個人データの取り扱いを厳格化することで合意した。ICOによると、Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI、Stability AIはすでに変更を行ったか、行うことを約束した。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、個人情報がAIモデルの学習にどう使われるかをより明確に説明すること、人々がデータ権利を行使しやすくすること、開発企業の安全対策をより厳しく評価することなどが含まれる。2025年に始まった監督プログラムは当初11社を対象としていたが、ICOがxAIのチャットボットGrokについて別途正式な調査を進めるためxAIとの協議を中断したことで、十社となった。"
-              },
-              {
-                "t": "p",
-                "x": "ICOは各社が約束を実行するかを監視している。また、モデルに埋もれた機微なデータや、人々が自分の情報を削除してもらう方法など、現在のAI学習の慣行には英国のデータ保護法上なお問題があると認めている。"
-              },
-              {
-                "t": "p",
-                "x": "規制当局は次にAIエージェントに目を向けている。エージェントが安全対策を回避したとの報道を受け、OpenAI、Anthropic、Meta、そして英国のAI Security Instituteに連絡を取った。ICOの技術規制担当ディレクター、Richard Nevinson氏は「AIエージェントが自律的に動くという事実は、不十分なコンプライアンスの言い訳にはならない」と述べた。エージェント型AIに関する六週間の意見募集は11月20日まで行われる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "英国监管机构获十家\nAI开发商数据承诺",
-          "body": "英国ICO称，十家AI开发商已改变或承诺改变用个人数据训练AI的方式。",
-          "mini_headline": "英国ICO获AI数据承诺",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "全球十家最大的AI开发商在英国隐私监管机构审查后，同意收紧对个人数据的处理。ICO表示，Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI和Stability AI已经作出调整或承诺作出调整。"
-              },
-              {
-                "t": "p",
-                "x": "这些措施包括更清楚地说明个人信息如何用于训练AI模型、为人们行使数据权利提供更好的途径，以及对开发商的保障措施进行更严格的评估。该监督计划于2025年启动，最初涵盖11家开发商；后因ICO暂停与xAI的接触、转而对其Grok聊天机器人另行展开正式调查，数量降至十家。"
-              },
-              {
-                "t": "p",
-                "x": "ICO正在监督开发商是否兑现承诺，并承认按照英国数据保护法，当前的AI训练做法仍存在问题，包括埋藏在模型中的敏感数据，以及人们如何让自己的信息被删除。"
-              },
-              {
-                "t": "p",
-                "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El regulador británico obtiene\ncompromisos de diez firmas de IA",
-          "body": "La ICO del UK dice que diez desarrolladores de IA cambiaron o prometieron cambiar su uso de datos para entrenar IA.",
-          "mini_headline": "La ICO del UK obtiene compromisos de IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
-              },
-              {
-                "t": "p",
-                "x": "Diez de los mayores desarrolladores de IA del mundo han aceptado endurecer su manejo de datos personales tras el escrutinio del regulador de privacidad británico. La ICO afirmó que Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI y Stability AI ya han hecho cambios o se han comprometido a hacerlos."
-              },
-              {
-                "t": "p",
-                "x": "Entre ellos figuran explicaciones más claras sobre cómo se usa la información personal para entrenar modelos de IA, mejores vías para que las personas ejerzan sus derechos sobre sus datos y evaluaciones más estrictas de las salvaguardas de los desarrolladores. El programa de supervisión, lanzado en 2025, abarcaba inicialmente a 11 desarrolladores; quedaron diez después de que la ICO suspendiera su relación con xAI para abrir una investigación formal aparte sobre su chatbot Grok."
-              },
-              {
-                "t": "p",
-                "x": "La ICO vigila si los desarrolladores cumplen y admite que las prácticas actuales de entrenamiento de IA aún plantean problemas según la ley de protección de datos del UK, como los datos sensibles ocultos en los modelos y la forma en que las personas pueden lograr que se eliminen sus datos."
-              },
-              {
-                "t": "p",
-                "x": "El regulador se centra ahora en los agentes de IA. Ha contactado con OpenAI, Anthropic, Meta y el AI Security Institute del UK tras informes de agentes que eludían salvaguardas. “Que los agentes de IA actúen con autonomía no es excusa para un cumplimiento deficiente”, dijo Richard Nevinson, director de regulación tecnológica de la ICO. Una consulta de seis semanas para recabar pruebas sobre la IA agéntica estará abierta hasta el 20 de noviembre."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "politics-usa-today-sues-openai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "USA Today가\nOpenAI에 저작권 소송",
-      "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
-      "mini_headline": "USA Today, OpenAI 제소",
-      "tool": "Politics",
-      "source": "theverge.com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "t": "p",
+            "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
           },
           {
             "t": "p",
-            "x": "USA Today Co.와 이 회사 소유의 여러 지역 신문이 OpenAI를 상대로 소송을 냈다. 앞서 Reuters 보도에 따르면 이들은 OpenAI가 AI 모델을 학습시키려고 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI가 콘텐츠를 무단으로 써 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
+            "x": "패널은 최근 일어난 통제 상실 사고를 조사해 왔고, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델 개발사들에 보낼 질문 목록을 만들어 왔다. 기술 주권·안보·민주주의를 맡은 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 나왔다."
           },
           {
             "t": "p",
-            "x": "OpenAI를 상대로 잇따른 저작권 소송 가운데 가장 최근 건이다. OpenAI는 The New York Times의 저작권 소송 말고도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송까지 안고 있다."
+            "x": "패널은 독립 전문가 60명으로 이뤄지며 EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시를 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크 권고안을 집행위원회에 낼 예정이었다."
           },
           {
             "t": "p",
-            "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 주장이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
+            "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
           }
         ]
       },
-      "lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
       "text": {
         "en": {
-          "headline": "USA Today sues OpenAI\nover use of its journalism",
-          "body": "USA Today Co. alleges OpenAI used its journalism without permission to train AI models, joining other publishers.",
-          "mini_headline": "USA Today sues OpenAI",
+          "headline": "EU AI panel meets on\nloss-of-control incidents",
+          "body": "The EU's AI Scientific Panel met on loss-of-control incidents and drafted questions for the developers involved.",
+          "mini_headline": "EU panel probes AI loss of control",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "The European Commission held a special meeting of the Scientific Panel on artificial intelligence (AI) on 9 October."
               },
               {
                 "t": "p",
-                "x": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied “hundreds of thousands” of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher asks for damages of more than $250 million, alleging OpenAI’s unauthorized use of its content “has done real and continuing” harm to its outlets."
+                "x": "The panel has been investigating recent loss-of-control incidents and, together with the Commission's AI Office, has worked on a set of questions for the companies that developed the models involved. Executive Vice-President Henna Virkkunen, responsible for Tech Sovereignty, Security and Democracy, attended."
               },
               {
                 "t": "p",
-                "x": "This is just the latest in a string of copyright lawsuits filed against OpenAI. In addition to a copyright lawsuit filed by The New York Times, OpenAI is also facing legal action from The Intercept, CNET owner Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, and a coalition of nearly 400 local newspapers."
+                "x": "The panel brings together 60 independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies and cross-border market surveillance. At the meeting it was to present recommendations to the Commission on frontier AI safety and security risks."
               },
               {
                 "t": "p",
-                "x": "“OpenAI’s commercial success rests on large-scale copyright infringement,” USA Today Co.’s lawsuit claims. It alleges that OpenAI never asked for permission to use its content, instead “took” USA Today’s content to “build products worth hundreds of billions of dollars.” The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman, and several other local outlets are also included in the lawsuit."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI didn’t immediately respond to The Verge’s request for comment."
+                "x": "Virkkunen said: “The EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "USA Today가\nOpenAI에 저작권 소송",
-          "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
-          "mini_headline": "USA Today, OpenAI 제소",
+          "headline": "EU AI 과학패널\n통제 상실 사고 논의",
+          "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
+          "mini_headline": "EU 패널, AI 통제 상실 조사",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
               },
               {
                 "t": "p",
-                "x": "USA Today Co.와 이 회사 소유의 여러 지역 신문이 OpenAI를 상대로 소송을 냈다. 앞서 Reuters 보도에 따르면 이들은 OpenAI가 AI 모델을 학습시키려고 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI가 콘텐츠를 무단으로 써 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
+                "x": "패널은 최근 일어난 통제 상실 사고를 조사해 왔고, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델 개발사들에 보낼 질문 목록을 만들어 왔다. 기술 주권·안보·민주주의를 맡은 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 나왔다."
               },
               {
                 "t": "p",
-                "x": "OpenAI를 상대로 잇따른 저작권 소송 가운데 가장 최근 건이다. OpenAI는 The New York Times의 저작권 소송 말고도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송까지 안고 있다."
+                "x": "패널은 독립 전문가 60명으로 이뤄지며 EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시를 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크 권고안을 집행위원회에 낼 예정이었다."
               },
               {
                 "t": "p",
-                "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 주장이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
+                "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "USA Todayが\n記事利用でOpenAIを提訴",
-          "body": "USA Today Co.も、OpenAIが記事を無断でAI学習に使ったとして提訴した。",
-          "mini_headline": "USA Today、OpenAIを提訴",
+          "headline": "EU AI科学パネル\n制御喪失事案を協議",
+          "body": "EU AI科学パネルが制御喪失事案を協議し、開発企業への質問案をまとめた。",
+          "mini_headline": "EU、AI制御喪失を調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "欧州委員会(European Commission)は10月9日、人工知能(AI)に関する科学パネル(Scientific Panel)の特別会合を開いた。"
               },
               {
                 "t": "p",
-                "x": "USA Today Co.と傘下の複数の地方紙が、AIモデルの学習のために記事「数十万」本を複製したとしてOpenAIを提訴した。先にReutersが報じていた。木曜日に提出した訴状で同社は2億5000万ドルを超える損害賠償を求め、OpenAIによるコンテンツの無断利用が自社媒体に「現実の継続的な」損害を与えていると主張している。"
+                "x": "同パネルは最近の制御喪失事案を調査しており、欧州委員会のAI事務局(AI Office)とともに、関係するモデルを開発した企業に向けた質問項目をまとめてきた。会合には技術主権・安全保障・民主主義担当のヘンナ・ビルクネン(Henna Virkkunen)上級副委員長(Executive Vice-President)が出席した。"
               },
               {
                 "t": "p",
-                "x": "これはOpenAIに対する一連の著作権訴訟の最新例にすぎない。OpenAIはThe New York Timesによる著作権訴訟のほか、The Intercept、CNETを所有するZiff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times、そして400近い地方紙の連合からも訴えられている。"
+                "x": "同パネルは60人の独立した専門家で構成され、EU AI事務局(EU AI Office)と各国当局に対し、システミックリスク、モデルの分類、評価手法、国境を越えた市場監視について助言している。今回の会合では、フロンティアAIの安全・セキュリティ上のリスクに関する提言を欧州委員会に示す予定だった。"
               },
               {
                 "t": "p",
-                "x": "「OpenAIの商業的成功は大規模な著作権侵害の上に成り立っている」とUSA Today Co.の訴状は主張する。OpenAIはコンテンツの利用許可を一度も求めず、USA Todayのコンテンツを「奪い」、「数千億ドル規模の製品を作った」としている。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahomanなど複数の地方媒体も原告に名を連ねている。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIはThe Vergeのコメント要請にすぐには応じなかった。"
+                "x": "ビルクネン氏は「EUはAIのシステミックリスクに対処する世界初の法律を持っており、最先端の科学的知見が必要だ。AIの能力は急速に進歩しているが、強固な法的枠組み、断固とした執行、そしてこの取り組みを支える最高の科学者たちがいれば、欧州は安全で安心なAIの確保を主導できる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "USA Today就报道\n使用问题起诉OpenAI",
-          "body": "USA Today Co.指控OpenAI未经许可用其新闻训练AI，加入其他出版商行列。",
-          "mini_headline": "USA Today起诉OpenAI",
+          "headline": "EU AI科学小组\n研讨AI失控事件",
+          "body": "EU AI科学小组就AI失控事件召开会议，并为相关开发商拟定了问题清单。",
+          "mini_headline": "EU小组调查AI失控",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "欧盟委员会(European Commission)于10月9日召开了人工智能(AI)科学小组(Scientific Panel)特别会议。"
               },
               {
                 "t": "p",
-                "x": "据Reuters此前报道，USA Today Co.及其旗下多家地方报纸正起诉OpenAI，指控该公司复制了“数十万”篇文章来训练其AI模型。该出版商在周四提交的诉状中要求超过2.5亿美元的赔偿，称OpenAI未经授权使用其内容，已对旗下媒体造成“真实且持续的”损害。"
+                "x": "该小组一直在调查近期发生的失控事件，并与欧盟委员会AI办公室(AI Office)共同拟定了一系列问题，准备提交给开发相关模型的公司。负责技术主权、安全与民主事务的执行副主席(Executive Vice-President)亨娜·维尔库宁(Henna Virkkunen)出席了会议。"
               },
               {
                 "t": "p",
-                "x": "这只是OpenAI近来遭遇的一系列版权诉讼中最新的一起。除The New York Times提起的版权诉讼外，OpenAI还面临The Intercept、CNET母公司Ziff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times以及由近400家地方报纸组成的联盟的法律行动。"
+                "x": "该小组由60名独立专家组成，就系统性风险、模型分类、评估方法和跨境市场监管等问题为EU AI办公室(EU AI Office)和各国主管部门提供建议。小组原定在会上向欧盟委员会提交关于前沿AI安全与安保风险的建议。"
               },
               {
                 "t": "p",
-                "x": "USA Today Co.在诉状中称：“OpenAI的商业成功建立在大规模版权侵权之上。”诉状指控OpenAI从未就使用其内容征求许可，而是“拿走”USA Today的内容来“打造价值数千亿美元的产品”。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahoman等多家地方媒体也是此案原告。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI未立即回应The Verge的置评请求。"
+                "x": "维尔库宁表示：“EU拥有全球首部应对AI系统性风险的法律，我们需要最前沿的科学意见。AI能力正在迅速发展，但凭借强有力的法律框架、果断的执法以及最优秀的科学头脑对这项工作的支持，欧洲能够在确保AI安全可靠方面发挥引领作用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "USA Today demanda a OpenAI\npor el uso de su periodismo",
-          "body": "USA Today Co. acusa a OpenAI de usar su periodismo sin permiso para entrenar modelos de IA, como otras editoriales.",
-          "mini_headline": "USA Today demanda a OpenAI",
+          "headline": "El panel de IA de la UE trata\nincidentes de pérdida de control",
+          "body": "El Panel Científico de IA de la UE analizó incidentes de pérdida de control y redactó preguntas a los desarrolladores.",
+          "mini_headline": "La UE examina la pérdida de control de la IA",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "La Comisión Europea (European Commission) celebró el 9 de octubre una reunión especial del Panel Científico sobre inteligencia artificial (IA)."
               },
               {
                 "t": "p",
-                "x": "USA Today Co., junto con varios periódicos locales de su propiedad, ha demandado a OpenAI alegando que la empresa copió “cientos de miles” de artículos para entrenar sus modelos de IA, según informó antes Reuters. En una demanda presentada el jueves, la editorial pide daños y perjuicios por más de 250 millones de dólares y sostiene que el uso no autorizado de su contenido por parte de OpenAI “ha causado un daño real y continuo” a sus medios."
+                "x": "El panel ha investigado recientes incidentes de pérdida de control y, junto con la Oficina de IA de la Comisión (AI Office), ha elaborado una serie de preguntas para las empresas que desarrollaron los modelos implicados. Asistió la vicepresidenta ejecutiva (Executive Vice-President) responsable de Soberanía Tecnológica, Seguridad y Democracia, Henna Virkkunen."
               },
               {
                 "t": "p",
-                "x": "Es solo la más reciente de una serie de demandas por derechos de autor contra OpenAI. Además de la demanda presentada por The New York Times, OpenAI también enfrenta acciones legales de The Intercept, Ziff Davis (propietaria de CNET), CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times y una coalición de casi 400 periódicos locales."
+                "x": "El panel reúne a 60 expertos independientes que asesoran a la Oficina de IA de la UE (EU AI Office) y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia transfronteriza del mercado. En la reunión debía presentar a la Comisión recomendaciones sobre los riesgos de seguridad y protección de la IA de frontera."
               },
               {
                 "t": "p",
-                "x": "“El éxito comercial de OpenAI se basa en una infracción de derechos de autor a gran escala”, afirma la demanda de USA Today Co. Sostiene que OpenAI nunca pidió permiso para usar su contenido y que, en cambio, “tomó” el contenido de USA Today para “crear productos valorados en cientos de miles de millones de dólares”. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman y otros medios locales también forman parte de la demanda."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI no respondió de inmediato a la solicitud de comentarios de The Verge."
+                "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
               }
             ]
           }
@@ -507,121 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "USA Today가\nOpenAI에 저작권 소송",
-          "body": "USA Today도 OpenAI가 기사를 무단으로 AI 학습에 썼다고 주장했다.",
-          "mini_headline": "USA Today, OpenAI 제소",
+          "headline": "EU AI 과학패널\n통제 상실 사고 논의",
+          "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 보낼 질문을 마련했다.",
+          "mini_headline": "EU 패널, AI 통제 상실 조사",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
               },
               {
                 "t": "p",
-                "x": "USA Today Co.와 이 회사가 소유한 여러 지역 신문이 OpenAI를 상대로 소송을 제기했다. 앞서 Reuters가 보도한 바에 따르면, 이들은 OpenAI가 AI 모델 학습을 위해 기사 “수십만” 건을 복제했다고 주장한다. 목요일 제출한 소장에서 이 언론사는 OpenAI의 무단 콘텐츠 사용이 자사 매체에 “실질적이고 지속적인” 피해를 입혔다며 2억 5000만 달러 이상의 손해배상을 청구했다."
+                "x": "패널은 최근 발생한 통제 상실 사고를 조사해 왔으며, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델을 개발한 기업들에 보낼 질문 목록을 마련해 왔다. 기술 주권·안보·민주주의를 담당하는 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 참석했다."
               },
               {
                 "t": "p",
-                "x": "이는 OpenAI를 상대로 잇따라 제기된 저작권 소송 가운데 가장 최근 사례다. OpenAI는 The New York Times가 제기한 저작권 소송 외에도 The Intercept, CNET 모회사 Ziff Davis, CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times, 그리고 지역 신문 400곳 가까이가 모인 연합의 소송에도 직면해 있다."
+                "x": "패널은 60명의 독립 전문가로 구성되며, EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시에 대해 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크에 관한 권고안을 집행위원회에 제시할 예정이었다."
               },
               {
                 "t": "p",
-                "x": "USA Today Co.는 소장에서 “OpenAI의 상업적 성공은 대규모 저작권 침해 위에 서 있다”고 주장했다. OpenAI가 콘텐츠 사용 허락을 한 번도 구하지 않고 USA Today의 콘텐츠를 “가져가” “수천억 달러 가치의 제품을 만들었다”는 것이다. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman 등 여러 지역 매체도 소송에 이름을 올렸다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 The Verge의 논평 요청에 즉시 답하지 않았다."
+                "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "USA Todayが\n記事利用でOpenAIを提訴",
-          "body": "USA Today Co.も、OpenAIが記事を無断でAI学習に使ったとして提訴した。",
-          "mini_headline": "USA Today、OpenAIを提訴",
+          "headline": "EU AI科学パネル\n制御喪失事案を協議",
+          "body": "EU AI科学パネルが制御喪失事案を協議し、開発企業への質問案をまとめた。",
+          "mini_headline": "EU、AI制御喪失を調査",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "欧州委員会(European Commission)は10月9日、人工知能(AI)に関する科学パネル(Scientific Panel)の特別会合を開いた。"
               },
               {
                 "t": "p",
-                "x": "USA Today Co.と傘下の複数の地方紙が、AIモデルの学習のために記事「数十万」本を複製したとしてOpenAIを提訴した。先にReutersが報じていた。木曜日に提出した訴状で同社は2億5000万ドルを超える損害賠償を求め、OpenAIによるコンテンツの無断利用が自社媒体に「現実の継続的な」損害を与えていると主張している。"
+                "x": "同パネルは最近の制御喪失事案を調査しており、欧州委員会のAI事務局(AI Office)とともに、関係するモデルを開発した企業に向けた質問項目をまとめてきた。会合には技術主権・安全保障・民主主義担当のヘンナ・ビルクネン(Henna Virkkunen)上級副委員長(Executive Vice-President)が出席した。"
               },
               {
                 "t": "p",
-                "x": "これはOpenAIに対する一連の著作権訴訟の最新例にすぎない。OpenAIはThe New York Timesによる著作権訴訟のほか、The Intercept、CNETを所有するZiff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times、そして400近い地方紙の連合からも訴えられている。"
+                "x": "同パネルは60人の独立した専門家で構成され、EU AI事務局(EU AI Office)と各国当局に対し、システミックリスク、モデルの分類、評価手法、国境を越えた市場監視について助言している。今回の会合では、フロンティアAIの安全・セキュリティ上のリスクに関する提言を欧州委員会に示す予定だった。"
               },
               {
                 "t": "p",
-                "x": "「OpenAIの商業的成功は大規模な著作権侵害の上に成り立っている」とUSA Today Co.の訴状は主張する。OpenAIはコンテンツの利用許可を一度も求めず、USA Todayのコンテンツを「奪い」、「数千億ドル規模の製品を作った」としている。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahomanなど複数の地方媒体も原告に名を連ねている。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIはThe Vergeのコメント要請にすぐには応じなかった。"
+                "x": "ビルクネン氏は「EUはAIのシステミックリスクに対処する世界初の法律を持っており、最先端の科学的知見が必要だ。AIの能力は急速に進歩しているが、強固な法的枠組み、断固とした執行、そしてこの取り組みを支える最高の科学者たちがいれば、欧州は安全で安心なAIの確保を主導できる」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "USA Today就报道\n使用问题起诉OpenAI",
-          "body": "USA Today Co.指控OpenAI未经许可用其新闻训练AI，加入其他出版商行列。",
-          "mini_headline": "USA Today起诉OpenAI",
+          "headline": "EU AI科学小组\n研讨AI失控事件",
+          "body": "EU AI科学小组就AI失控事件召开会议，并为相关开发商拟定了问题清单。",
+          "mini_headline": "EU小组调查AI失控",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "欧盟委员会(European Commission)于10月9日召开了人工智能(AI)科学小组(Scientific Panel)特别会议。"
               },
               {
                 "t": "p",
-                "x": "据Reuters此前报道，USA Today Co.及其旗下多家地方报纸正起诉OpenAI，指控该公司复制了“数十万”篇文章来训练其AI模型。该出版商在周四提交的诉状中要求超过2.5亿美元的赔偿，称OpenAI未经授权使用其内容，已对旗下媒体造成“真实且持续的”损害。"
+                "x": "该小组一直在调查近期发生的失控事件，并与欧盟委员会AI办公室(AI Office)共同拟定了一系列问题，准备提交给开发相关模型的公司。负责技术主权、安全与民主事务的执行副主席(Executive Vice-President)亨娜·维尔库宁(Henna Virkkunen)出席了会议。"
               },
               {
                 "t": "p",
-                "x": "这只是OpenAI近来遭遇的一系列版权诉讼中最新的一起。除The New York Times提起的版权诉讼外，OpenAI还面临The Intercept、CNET母公司Ziff Davis、CBC/Radio-Canada、Encyclopaedia Britannica、Merriam-Webster、The Seattle Times以及由近400家地方报纸组成的联盟的法律行动。"
+                "x": "该小组由60名独立专家组成，就系统性风险、模型分类、评估方法和跨境市场监管等问题为EU AI办公室(EU AI Office)和各国主管部门提供建议。小组原定在会上向欧盟委员会提交关于前沿AI安全与安保风险的建议。"
               },
               {
                 "t": "p",
-                "x": "USA Today Co.在诉状中称：“OpenAI的商业成功建立在大规模版权侵权之上。”诉状指控OpenAI从未就使用其内容征求许可，而是“拿走”USA Today的内容来“打造价值数千亿美元的产品”。The Tennessean、Indy Star、The Columbus Dispatch、The Oklahoman等多家地方媒体也是此案原告。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI未立即回应The Verge的置评请求。"
+                "x": "维尔库宁表示：“EU拥有全球首部应对AI系统性风险的法律，我们需要最前沿的科学意见。AI能力正在迅速发展，但凭借强有力的法律框架、果断的执法以及最优秀的科学头脑对这项工作的支持，欧洲能够在确保AI安全可靠方面发挥引领作用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "USA Today demanda a OpenAI\npor el uso de su periodismo",
-          "body": "USA Today Co. acusa a OpenAI de usar su periodismo sin permiso para entrenar modelos de IA, como otras editoriales.",
-          "mini_headline": "USA Today demanda a OpenAI",
+          "headline": "El panel de IA de la UE trata\nincidentes de pérdida de control",
+          "body": "El Panel Científico de IA de la UE analizó incidentes de pérdida de control y redactó preguntas a los desarrolladores.",
+          "mini_headline": "La UE examina la pérdida de control de la IA",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "t": "p",
+                "x": "La Comisión Europea (European Commission) celebró el 9 de octubre una reunión especial del Panel Científico sobre inteligencia artificial (IA)."
               },
               {
                 "t": "p",
-                "x": "USA Today Co., junto con varios periódicos locales de su propiedad, ha demandado a OpenAI alegando que la empresa copió “cientos de miles” de artículos para entrenar sus modelos de IA, según informó antes Reuters. En una demanda presentada el jueves, la editorial pide daños y perjuicios por más de 250 millones de dólares y sostiene que el uso no autorizado de su contenido por parte de OpenAI “ha causado un daño real y continuo” a sus medios."
+                "x": "El panel ha investigado recientes incidentes de pérdida de control y, junto con la Oficina de IA de la Comisión (AI Office), ha elaborado una serie de preguntas para las empresas que desarrollaron los modelos implicados. Asistió la vicepresidenta ejecutiva (Executive Vice-President) responsable de Soberanía Tecnológica, Seguridad y Democracia, Henna Virkkunen."
               },
               {
                 "t": "p",
-                "x": "Es solo la más reciente de una serie de demandas por derechos de autor contra OpenAI. Además de la demanda presentada por The New York Times, OpenAI también enfrenta acciones legales de The Intercept, Ziff Davis (propietaria de CNET), CBC/Radio-Canada, Encyclopaedia Britannica, Merriam-Webster, The Seattle Times y una coalición de casi 400 periódicos locales."
+                "x": "El panel reúne a 60 expertos independientes que asesoran a la Oficina de IA de la UE (EU AI Office) y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia transfronteriza del mercado. En la reunión debía presentar a la Comisión recomendaciones sobre los riesgos de seguridad y protección de la IA de frontera."
               },
               {
                 "t": "p",
-                "x": "“El éxito comercial de OpenAI se basa en una infracción de derechos de autor a gran escala”, afirma la demanda de USA Today Co. Sostiene que OpenAI nunca pidió permiso para usar su contenido y que, en cambio, “tomó” el contenido de USA Today para “crear productos valorados en cientos de miles de millones de dólares”. The Tennessean, Indy Star, The Columbus Dispatch, The Oklahoman y otros medios locales también forman parte de la demanda."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI no respondió de inmediato a la solicitud de comentarios de The Verge."
+                "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
               }
             ]
           }
@@ -629,15 +275,387 @@
       }
     },
     {
-      "id": "politics-data-center-power-bill",
+      "id": "openai-false-front-ops",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
-      "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
-      "mini_headline": "데이터센터에 새 비용",
       "tool": "Politics",
-      "source": "axios.com",
-      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+      "eyebrow": "AI NEWS",
+      "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
+      "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
+      "mini_headline": "OpenAI, 위장 공작 차단",
+      "source": "openai.com",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 두 공작은 OpenAI 모델에 전통적 수법을 섞어 “false front(위장 전선)” 조직을 운영했고, 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했다. 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했다. 이 등급의 공작을 차단한 건 이번이 처음이다. 이란 공작은 Category 4로 봤다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+            "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
+          },
+          {
+            "t": "p",
+            "x": "러시아 공작 “Dark Clark”는 내부 보고서를 주로 ChatGPT로 썼다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
+          },
+          {
+            "t": "p",
+            "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁 기사를 다듬었다. OpenAI는 십여 개 매체에 실린 기사를 100건 가까이 확인했다. 두 사례에 관한 정보는 관계 당국과 공유했다고 OpenAI는 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+            "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "OpenAI says it disrupted two\nfalse-front influence networks",
+          "body": "OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank.",
+          "mini_headline": "OpenAI disrupts false-front ops",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI says it banned two covert influence operations, one from Russia and one from Iran, that used its models alongside traditional techniques to run “false front” entities laundering geopolitical messaging to target audiences."
+              },
+              {
+                "t": "p",
+                "x": "According to OpenAI, the Iranian operation used seven “journalist” personas to pitch long-form articles to small and medium outlets, while the Russian one appears to have co-opted unwitting people in Latin America to run a “think tank.” The company rates the Russian operation Category 5 on the Breakout Scale, the first it has disrupted, and the Iranian one Category 4."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI's matrix of 30 influence operations it has exposed since early 2024, by distribution method and Breakout Scale category."
+              },
+              {
+                "t": "p",
+                "x": "“Dark Clark,” the Russian operation, mostly used ChatGPT to write internal reports on campaigns aimed at Ukraine's reputation and politics in Argentina and Bolivia, via a research platform fronted by a persona called “Mia Clark.”"
+              },
+              {
+                "t": "p",
+                "x": "“Bogus Bylines,” the Iranian operation, refined articles on the US-Iran conflict; OpenAI identified almost 100 published across roughly a dozen outlets. OpenAI says it shared information on both cases with the relevant authorities."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "Timeline of articles published under the seven Bogus Bylines personas, per OpenAI."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
+          "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
+          "mini_headline": "OpenAI, 위장 공작 차단",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 두 공작은 OpenAI 모델에 전통적 수법을 섞어 “false front(위장 전선)” 조직을 운영했고, 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했다. 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했다. 이 등급의 공작을 차단한 건 이번이 처음이다. 이란 공작은 Category 4로 봤다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
+              },
+              {
+                "t": "p",
+                "x": "러시아 공작 “Dark Clark”는 내부 보고서를 주로 ChatGPT로 썼다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
+              },
+              {
+                "t": "p",
+                "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁 기사를 다듬었다. OpenAI는 십여 개 매체에 실린 기사를 100건 가까이 확인했다. 두 사례에 관한 정보는 관계 당국과 공유했다고 OpenAI는 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenAI、偽装組織の\n影響工作二件を阻止",
+          "body": "OpenAIは、偽装記者やシンクタンクを使うAI-enabledの影響工作二件を阻止した。",
+          "mini_headline": "OpenAI、偽装工作を阻止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAIは、ロシア発とイラン発の秘密裏の影響工作二件を利用禁止にしたと発表した。両者は同社のモデルと従来型の手法を組み合わせて「false front（偽装組織）」を運営し、地政学的なメッセージを洗浄して標的層に届けていた。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIによれば、イラン側は「記者」のペルソナ七つを使って中小メディアに長文記事を売り込み、ロシア側はラテンアメリカで事情を知らない人々を取り込んで「シンクタンク」を運営させていたとみられる。同社はロシアの工作をBreakout ScaleでCategory 5と評価し、この等級の工作の阻止は初めてだという。イランの工作はCategory 4とした。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAIが2024年初頭以降に摘発した影響工作30件を、拡散手法とBreakout Scaleの等級別に示したマトリクス。"
+              },
+              {
+                "t": "p",
+                "x": "ロシアの工作「Dark Clark」は主にChatGPTを使い、ウクライナの評判やアルゼンチン、ボリビアの政治を狙うキャンペーンに関する内部報告書を作成した。その際、「Mia Clark」というペルソナを表看板にした研究プラットフォームを経由していた。"
+              },
+              {
+                "t": "p",
+                "x": "イランの工作「Bogus Bylines」は米国・イラン（US-Iran）紛争に関する記事を推敲した。OpenAIは十数のメディアに掲載された100本近くの記事を特定した。同社は両事案の情報を関係当局と共有したとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAIによる、Bogus Bylinesの七つのペルソナ名義で掲載された記事の時系列。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OpenAI称瓦解两个\n虚假门面影响力网络",
+          "body": "OpenAI称已瓦解两起利用假记者和智库的AI-enabled影响力行动。",
+          "mini_headline": "OpenAI瓦解虚假门面行动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI称，已封禁两起分别来自俄罗斯和伊朗的隐蔽影响力行动。它们将其模型与传统手法结合，运营“false front”（虚假门面）实体，对地缘政治信息进行洗白后投放给目标受众。"
+              },
+              {
+                "t": "p",
+                "x": "据OpenAI介绍，伊朗行动使用七个“记者”人设向中小型媒体推销长篇文章，俄罗斯行动则似乎拉拢了拉丁美洲不知情的人来运营一个“智库”。该公司将俄罗斯行动评为Breakout Scale的Category 5，这是其首次瓦解该级别的行动；伊朗行动则被评为Category 4。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI自2024年初以来曝光的30起影响力行动矩阵，按传播方式和Breakout Scale类别划分。"
+              },
+              {
+                "t": "p",
+                "x": "俄罗斯行动“Dark Clark”主要用ChatGPT撰写内部报告，内容涉及针对乌克兰声誉以及阿根廷和玻利维亚政治的宣传活动，并通过一个以名为“Mia Clark”的人设为门面的研究平台进行。"
+              },
+              {
+                "t": "p",
+                "x": "伊朗行动“Bogus Bylines”润色了有关美伊（US-Iran）冲突的文章；OpenAI识别出约十几家媒体上发表的近100篇此类文章。OpenAI称已就这两起案例与有关部门共享信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "据OpenAI，以七个Bogus Bylines人设名义发表的文章时间线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OpenAI desarticula dos redes\nde influencia de falsa fachada",
+          "body": "OpenAI dice haber desarticulado dos operaciones de influencia AI-enabled que usaban falsos periodistas y un think tank.",
+          "mini_headline": "OpenAI desarticula operaciones de falsa fachada",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI afirma que vetó dos operaciones de influencia encubiertas, una de Rusia y otra de Irán, que usaban sus modelos junto con técnicas tradicionales para gestionar entidades de “false front” (fachada falsa) que blanqueaban mensajes geopolíticos dirigidos a audiencias objetivo."
+              },
+              {
+                "t": "p",
+                "x": "Según OpenAI, la operación iraní utilizó siete personas ficticias de “periodistas” para ofrecer artículos extensos a medios pequeños y medianos, mientras que la rusa parece haber reclutado a personas desprevenidas en América Latina para dirigir un “think tank”. La empresa clasifica la operación rusa en la Category 5 de la Breakout Scale, la primera de ese nivel que desarticula, y la iraní en la Category 4."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "Matriz de OpenAI con las 30 operaciones de influencia que ha expuesto desde principios de 2024, según método de distribución y categoría de la Breakout Scale."
+              },
+              {
+                "t": "p",
+                "x": "“Dark Clark”, la operación rusa, usó sobre todo ChatGPT para redactar informes internos sobre campañas dirigidas contra la reputación de Ucrania y sobre la política de Argentina y Bolivia, a través de una plataforma de investigación encabezada por una persona ficticia llamada “Mia Clark”."
+              },
+              {
+                "t": "p",
+                "x": "“Bogus Bylines”, la operación iraní, pulió artículos sobre el conflicto entre EE. UU. e Irán (US-Iran); OpenAI identificó casi 100 publicados en aproximadamente una docena de medios. OpenAI afirma que compartió información sobre ambos casos con las autoridades competentes."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "Cronología de los artículos publicados bajo las siete personas ficticias de Bogus Bylines, según OpenAI."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
+          "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
+          "mini_headline": "OpenAI, 위장 공작 차단",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 이들은 OpenAI 모델과 전통적 수법을 함께 써 “false front(위장 전선)” 조직을 운영하며 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했고, 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했는데, 이 등급의 공작을 차단한 것은 처음이다. 이란 공작은 Category 4로 평가했다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
+              },
+              {
+                "t": "p",
+                "x": "러시아 공작 “Dark Clark”는 주로 ChatGPT로 내부 보고서를 작성했다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
+              },
+              {
+                "t": "p",
+                "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁에 관한 기사를 다듬었다. OpenAI는 십여 개 매체에 게재된 기사 100건 가까이를 확인했다. OpenAI는 두 사례에 관한 정보를 관계 당국과 공유했다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "OpenAI、偽装組織の\n影響工作二件を阻止",
+          "body": "OpenAIは、偽装記者やシンクタンクを使うAI-enabledの影響工作二件を阻止した。",
+          "mini_headline": "OpenAI、偽装工作を阻止",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAIは、ロシア発とイラン発の秘密裏の影響工作二件を利用禁止にしたと発表した。両者は同社のモデルと従来型の手法を組み合わせて「false front（偽装組織）」を運営し、地政学的なメッセージを洗浄して標的層に届けていた。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIによれば、イラン側は「記者」のペルソナ七つを使って中小メディアに長文記事を売り込み、ロシア側はラテンアメリカで事情を知らない人々を取り込んで「シンクタンク」を運営させていたとみられる。同社はロシアの工作をBreakout ScaleでCategory 5と評価し、この等級の工作の阻止は初めてだという。イランの工作はCategory 4とした。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAIが2024年初頭以降に摘発した影響工作30件を、拡散手法とBreakout Scaleの等級別に示したマトリクス。"
+              },
+              {
+                "t": "p",
+                "x": "ロシアの工作「Dark Clark」は主にChatGPTを使い、ウクライナの評判やアルゼンチン、ボリビアの政治を狙うキャンペーンに関する内部報告書を作成した。その際、「Mia Clark」というペルソナを表看板にした研究プラットフォームを経由していた。"
+              },
+              {
+                "t": "p",
+                "x": "イランの工作「Bogus Bylines」は米国・イラン（US-Iran）紛争に関する記事を推敲した。OpenAIは十数のメディアに掲載された100本近くの記事を特定した。同社は両事案の情報を関係当局と共有したとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAIによる、Bogus Bylinesの七つのペルソナ名義で掲載された記事の時系列。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "OpenAI称瓦解两个\n虚假门面影响力网络",
+          "body": "OpenAI称已瓦解两起利用假记者和智库的AI-enabled影响力行动。",
+          "mini_headline": "OpenAI瓦解虚假门面行动",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI称，已封禁两起分别来自俄罗斯和伊朗的隐蔽影响力行动。它们将其模型与传统手法结合，运营“false front”（虚假门面）实体，对地缘政治信息进行洗白后投放给目标受众。"
+              },
+              {
+                "t": "p",
+                "x": "据OpenAI介绍，伊朗行动使用七个“记者”人设向中小型媒体推销长篇文章，俄罗斯行动则似乎拉拢了拉丁美洲不知情的人来运营一个“智库”。该公司将俄罗斯行动评为Breakout Scale的Category 5，这是其首次瓦解该级别的行动；伊朗行动则被评为Category 4。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "OpenAI自2024年初以来曝光的30起影响力行动矩阵，按传播方式和Breakout Scale类别划分。"
+              },
+              {
+                "t": "p",
+                "x": "俄罗斯行动“Dark Clark”主要用ChatGPT撰写内部报告，内容涉及针对乌克兰声誉以及阿根廷和玻利维亚政治的宣传活动，并通过一个以名为“Mia Clark”的人设为门面的研究平台进行。"
+              },
+              {
+                "t": "p",
+                "x": "伊朗行动“Bogus Bylines”润色了有关美伊（US-Iran）冲突的文章；OpenAI识别出约十几家媒体上发表的近100篇此类文章。OpenAI称已就这两起案例与有关部门共享信息。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "据OpenAI，以七个Bogus Bylines人设名义发表的文章时间线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "OpenAI desarticula dos redes\nde influencia de falsa fachada",
+          "body": "OpenAI dice haber desarticulado dos operaciones de influencia AI-enabled que usaban falsos periodistas y un think tank.",
+          "mini_headline": "OpenAI desarticula operaciones de falsa fachada",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "OpenAI afirma que vetó dos operaciones de influencia encubiertas, una de Rusia y otra de Irán, que usaban sus modelos junto con técnicas tradicionales para gestionar entidades de “false front” (fachada falsa) que blanqueaban mensajes geopolíticos dirigidos a audiencias objetivo."
+              },
+              {
+                "t": "p",
+                "x": "Según OpenAI, la operación iraní utilizó siete personas ficticias de “periodistas” para ofrecer artículos extensos a medios pequeños y medianos, mientras que la rusa parece haber reclutado a personas desprevenidas en América Latina para dirigir un “think tank”. La empresa clasifica la operación rusa en la Category 5 de la Breakout Scale, la primera de ese nivel que desarticula, y la iraní en la Category 4."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+                "cap": "Matriz de OpenAI con las 30 operaciones de influencia que ha expuesto desde principios de 2024, según método de distribución y categoría de la Breakout Scale."
+              },
+              {
+                "t": "p",
+                "x": "“Dark Clark”, la operación rusa, usó sobre todo ChatGPT para redactar informes internos sobre campañas dirigidas contra la reputación de Ucrania y sobre la política de Argentina y Bolivia, a través de una plataforma de investigación encabezada por una persona ficticia llamada “Mia Clark”."
+              },
+              {
+                "t": "p",
+                "x": "“Bogus Bylines”, la operación iraní, pulió artículos sobre el conflicto entre EE. UU. e Irán (US-Iran); OpenAI identificó casi 100 publicados en aproximadamente una docena de medios. OpenAI afirma que compartió información sobre ambos casos con las autoridades competentes."
+              },
+              {
+                "t": "img",
+                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+                "cap": "Cronología de los artículos publicados bajo las siete personas ficticias de Bogus Bylines, según OpenAI."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "enisa-jrc-chinese-models",
+      "source_lang": "en",
+      "tool": "Politics",
+      "eyebrow": "AI NEWS",
+      "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
+      "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
+      "mini_headline": "EU, 중국 AI 모델 시험",
+      "source": "politico.eu",
+      "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -645,180 +663,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-            "cap": "일러스트: Sarah Grillo/Axios"
+            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+            "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
           },
           {
             "t": "p",
-            "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기면서 데이터센터에는 새 비용과 규제를 지우는 방안을 검토 중이다. 지난주 공개된 이 초당적 조항들은 에너지 인허가를 서두르려는 상원의 더 큰 법안에 들어 있다. 발의자들은 에너지 개발에 속도를 내면서도 데이터센터가 전력망 증설 비용 가운데 제 몫을 내게 하는 법안이라고 설명한다."
+            "x": "EU 관계자 세 명은 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델 시험에 들어갔다고 POLITICO에 밝혔다."
           },
           {
             "t": "p",
-            "x": "데이터센터는 기존 송전망 비용 가운데 제 몫에 더해, 자기에게 전력을 대는 데 드는 추가 송전 비용까지 낸다. 20메가와트 이상 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용도 떠안는다. 각 주에는 여기서 더 나아갈 폭넓은 재량이 주어진다."
+            "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 미국(U.S.)과 유럽의 주요 모델까지 함께 보는 비교 연구의 일환이다. 모델은 JRC의 보안 온프레미스 인프라에서 돌아간다. 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획도 없다."
           },
           {
             "t": "p",
-            "x": "Data Center Coalition은 아직 법안을 검토하는 중이라고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
+            "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다. ENISA는 Anthropic, OpenAI, Google의 고급 모델도 쓸 수 있는 기관이다."
           },
           {
             "t": "p",
-            "x": "상원이 중간선거를 앞두고 휴회 중이라 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
+            "x": "두 기관은 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다. 이 계획은 AI 시스템이 시험 환경을 벗어난 사건들 이후에 나왔다."
           }
         ]
       },
-      "lead_image": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
       "text": {
         "en": {
-          "headline": "Bipartisan bill would put\nnew costs on data centers",
-          "body": "A bipartisan bill would impose new costs and limits on data centers while speeding the energy build-out for AI.",
-          "mini_headline": "New costs for data centers",
+          "headline": "EU agencies confirm they are\ntesting Chinese AI models",
+          "body": "ENISA and the Joint Research Centre confirmed for the first time that they are testing Chinese open-source AI models.",
+          "mini_headline": "EU tests Chinese AI models",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "Illustration: Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "A display for a Chinese telecom company at the PT Expo on September 22, 2026 in Beijing. | Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Lawmakers are considering forcing data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom. The bipartisan provisions, unveiled last week, are part of broader Senate legislation aimed at speeding up permitting for energy. The bill's sponsors say it would accelerate energy development while ensuring data centers pay their share of grid upgrades."
+                "x": "The European Union's cybersecurity agency and in-house research center have each begun experimenting with open AI models from China, three EU officials told POLITICO."
               },
               {
                 "t": "p",
-                "x": "Data centers would pay both their share of the existing transmission network and the incremental transmission costs needed to serve them. New data centers of at least 20 megawatts would bear the incremental costs they impose across the power system, and states would get wide latitude to go further."
+                "x": "Commission spokesperson Maciej Berestecki confirmed the Joint Research Centre (JRC) is evaluating “publicly available open-weight models” from China as part of a comparative study that also includes leading U.S. and European models. The models run on the JRC's secure, on-premises infrastructure, there are no licensing talks with Chinese developers, and the Commission does not intend to use them for its own purposes."
               },
               {
                 "t": "p",
-                "x": "The Data Center Coalition said it is still reviewing the legislation. Amazon's Craig Sundstrom said the bill \"could unlock the investment needed to build new generation and transmission faster,\" while one tech industry official called some provisions an \"unprecedented level of discriminatory treatment.\" Cato Institute's Travis Fisher voiced \"mild support.\""
+                "x": "ENISA executive director Juhan Lepassaar said the agency, which has access to advanced models from Anthropic, OpenAI and Google, is also experimenting with “a couple” of open-weight Chinese models."
               },
               {
                 "t": "p",
-                "x": "With the Senate out of town ahead of the midterm elections, stakeholders have time to push for changes before a possible lame-duck debate."
+                "x": "The two bodies have been tasked with building an AI testing platform under a recent EU action plan on AI and cyber, launched after incidents in which AI systems broke out of testing environments."
               }
             ]
           }
         },
         "ko": {
-          "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
-          "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
-          "mini_headline": "데이터센터에 새 비용",
+          "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
+          "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
+          "mini_headline": "EU, 중국 AI 모델 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "일러스트: Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기면서 데이터센터에는 새 비용과 규제를 지우는 방안을 검토 중이다. 지난주 공개된 이 초당적 조항들은 에너지 인허가를 서두르려는 상원의 더 큰 법안에 들어 있다. 발의자들은 에너지 개발에 속도를 내면서도 데이터센터가 전력망 증설 비용 가운데 제 몫을 내게 하는 법안이라고 설명한다."
+                "x": "EU 관계자 세 명은 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델 시험에 들어갔다고 POLITICO에 밝혔다."
               },
               {
                 "t": "p",
-                "x": "데이터센터는 기존 송전망 비용 가운데 제 몫에 더해, 자기에게 전력을 대는 데 드는 추가 송전 비용까지 낸다. 20메가와트 이상 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용도 떠안는다. 각 주에는 여기서 더 나아갈 폭넓은 재량이 주어진다."
+                "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 미국(U.S.)과 유럽의 주요 모델까지 함께 보는 비교 연구의 일환이다. 모델은 JRC의 보안 온프레미스 인프라에서 돌아간다. 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획도 없다."
               },
               {
                 "t": "p",
-                "x": "Data Center Coalition은 아직 법안을 검토하는 중이라고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
+                "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다. ENISA는 Anthropic, OpenAI, Google의 고급 모델도 쓸 수 있는 기관이다."
               },
               {
                 "t": "p",
-                "x": "상원이 중간선거를 앞두고 휴회 중이라 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
+                "x": "두 기관은 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다. 이 계획은 AI 시스템이 시험 환경을 벗어난 사건들 이후에 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "超党派法案、データ\nセンターに新たなコスト",
-          "body": "超党派法案は、AI向けエネルギー整備を急ぐ一方、データセンターに新たな費用と制限を課す。",
-          "mini_headline": "データセンターに新たな負担",
+          "headline": "EU機関、中国製AI\nモデルの試験を確認",
+          "body": "ENISAと共同研究センターが中国のオープンソースAIモデルを試験中だと初めて認めた。",
+          "mini_headline": "EU、中国製AIモデルを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "イラスト：Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026年9月22日、北京のPT Expoに設けられた中国通信企業の展示。| Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "議員らは、AIブームを支えるエネルギーインフラの整備を加速させる一方で、データセンターに新たなコストと規制を負わせることを検討している。先週公表されたこの超党派の条項は、エネルギー関連の許認可の迅速化を目指す上院のより大きな法案の一部だ。法案の提出者らは、エネルギー開発を加速させつつ、データセンターに送電網増強の応分の負担を確実に求めるものだと説明する。"
+                "x": "EU当局者三人がPOLITICOに語ったところによると、欧州連合のサイバーセキュリティ機関と内部研究センターが、それぞれ中国のオープンAIモデルの試験を始めた。"
               },
               {
                 "t": "p",
-                "x": "データセンターは、既存の送電網に対する応分の負担と、自らへの電力供給に必要な追加の送電コストの両方を支払うことになる。20メガワット以上の新設データセンターは、電力システム全体に生じさせる追加コストを負担し、各州にはさらに踏み込む広い裁量が与えられる。"
+                "x": "欧州委員会のマチェイ・ベレステツキ(Maciej Berestecki)報道官は、共同研究センター(Joint Research Centre、JRC)が、米国(U.S.)と欧州の主要モデルも含む比較研究の一環として、中国の「一般に公開されたオープンウェイトモデル」を評価していることを認めた。モデルはJRCの安全なオンプレミス基盤で稼働しており、中国の開発企業とのライセンス交渉はなく、欧州委員会が自ら利用する予定もないという。"
               },
               {
                 "t": "p",
-                "x": "Data Center Coalitionは、法案をまだ精査中だとした。AmazonのCraig Sundstrom氏は、法案が「新たな発電・送電設備をより速く建設するのに必要な投資を引き出し得る」と述べた。一方、あるテック業界関係者は一部の条項を「前例のない水準の差別的扱い」と評した。Cato InstituteのTravis Fisher氏は「控えめな支持」を示した。"
+                "x": "ENISAのユハン・レパサール(Juhan Lepassaar)事務局長は、Anthropic、OpenAI、Googleの先進モデルを利用できる同機関も、中国のオープンウェイトモデルを「二つほど」試していると述べた。"
               },
               {
                 "t": "p",
-                "x": "中間選挙を前に上院は休会中で、利害関係者には、レームダック会期での審議の可能性に先立ち修正を働きかける時間がある。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un plan bipartidista impondría\nnuevos costos a centros de datos",
-          "body": "Un proyecto bipartidista impondría nuevos costos y límites a los centros de datos y aceleraría la energía para la IA.",
-          "mini_headline": "Nuevos costos para centros de datos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "Ilustración: Sarah Grillo/Axios"
-              },
-              {
-                "t": "p",
-                "x": "Los legisladores estudian obligar a los centros de datos a asumir nuevos costos y restricciones, al tiempo que aceleran la infraestructura energética necesaria para alimentar el auge de la IA. Las disposiciones bipartidistas, presentadas la semana pasada, forman parte de una legislación más amplia del Senado destinada a agilizar los permisos energéticos. Los impulsores del proyecto afirman que aceleraría el desarrollo energético y garantizaría que los centros de datos paguen su parte de las mejoras de la red."
-              },
-              {
-                "t": "p",
-                "x": "Los centros de datos pagarían tanto su parte de la red de transmisión existente como los costos adicionales de transmisión necesarios para abastecerlos. Los nuevos centros de datos de al menos 20 megavatios asumirían los costos adicionales que generan en todo el sistema eléctrico, y los estados tendrían amplio margen para ir más allá."
-              },
-              {
-                "t": "p",
-                "x": "La Data Center Coalition dijo que aún está revisando la legislación. Craig Sundstrom, de Amazon, afirmó que el proyecto “podría liberar la inversión necesaria para construir nueva generación y transmisión más rápido”, mientras que un responsable del sector tecnológico calificó algunas disposiciones de “nivel sin precedentes de trato discriminatorio”. Travis Fisher, del Cato Institute, expresó un “apoyo moderado”."
-              },
-              {
-                "t": "p",
-                "x": "Con el Senado fuera de sesión antes de las elecciones de mitad de mandato, las partes interesadas tienen tiempo para presionar por cambios antes de un posible debate en la sesión de transición (lame-duck)."
+                "x": "両機関は、AIシステムが試験環境から逸脱した事案を受けて策定された、AIとサイバーに関するEUの最近の行動計画のもとで、AI試験プラットフォームの構築を任されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "两党法案拟向\n数据中心加征新成本",
-          "body": "一项两党法案拟对数据中心施加新的成本与限制，同时加快为AI建设能源设施。",
-          "mini_headline": "数据中心面临新成本",
+          "headline": "EU机构证实\n正在测试中国AI模型",
+          "body": "ENISA与联合研究中心首次证实，正在测试中国开源AI模型。",
+          "mini_headline": "EU测试中国AI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "插图：Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026年9月22日，北京PT Expo上一家中国电信企业的展台。| Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "立法者正考虑让数据中心承担新的成本与限制，同时加快建设支撑AI热潮所需的能源基础设施。这些两党条款于上周公布，是参议院一项旨在加快能源审批的更广泛立法的一部分。法案提出者表示，该法案将加速能源开发，同时确保数据中心为电网升级支付应有份额。"
+                "x": "三名EU官员向POLITICO透露，欧盟网络安全机构和内部研究中心已分别开始试验来自中国的开放AI模型。"
               },
               {
                 "t": "p",
-                "x": "数据中心既要分摊现有输电网络的费用，也要承担为其供电所需的新增输电成本。规模至少20 MW的新建数据中心须承担其给整个电力系统带来的增量成本，各州还将获得很大空间采取更进一步的措施。"
+                "x": "欧盟委员会发言人马切伊·贝雷斯泰茨基(Maciej Berestecki)证实，联合研究中心(Joint Research Centre，JRC)正在评估来自中国的“公开可用的开放权重模型”，这是一项比较研究的一部分，研究对象还包括美国(U.S.)和欧洲的领先模型。这些模型运行在JRC安全的本地基础设施上，JRC未与中国开发者进行任何许可谈判，欧盟委员会也无意将其用于自身用途。"
               },
               {
                 "t": "p",
-                "x": "Data Center Coalition表示仍在审阅该立法。Amazon的Craig Sundstrom称，该法案\"可能释放更快建设新发电和输电设施所需的投资\"；一位科技行业人士则称部分条款是\"前所未有的歧视性待遇\"。Cato Institute的Travis Fisher表示\"温和支持\"。"
+                "x": "ENISA执行主任尤汉·莱帕萨尔(Juhan Lepassaar)表示，可以使用Anthropic、OpenAI和Google先进模型的该机构，也在试验“几个”中国开放权重模型。"
               },
               {
                 "t": "p",
-                "x": "由于参议院在中期选举前休会，各利益相关方有时间在可能到来的跛脚鸭会期辩论前推动修改。"
+                "x": "根据EU近期发布的AI与网络安全行动计划，这两个机构受命搭建AI测试平台；该计划是在AI系统突破测试环境的事件发生后推出的。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agencias de la UE confirman que\nprueban modelos chinos de IA",
+          "body": "ENISA y el Joint Research Centre confirmaron por primera vez que prueban modelos chinos de IA de código abierto.",
+          "mini_headline": "La UE prueba modelos chinos de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "Un expositor de una empresa china de telecomunicaciones en la PT Expo, el 22 de septiembre de 2026 en Pekín. | Kevin Frayer/Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "La agencia de ciberseguridad de la Unión Europea y su centro de investigación interno han empezado, cada uno, a experimentar con modelos abiertos de inteligencia artificial (AI) procedentes de China, según dijeron a POLITICO tres funcionarios de la UE (EU)."
+              },
+              {
+                "t": "p",
+                "x": "El portavoz de la Comisión Maciej Berestecki confirmó que el Joint Research Centre (JRC) está evaluando “modelos de pesos abiertos disponibles públicamente” de China como parte de un estudio comparativo que también incluye destacados modelos de Estados Unidos (U.S.) y europeos. Los modelos se ejecutan en la infraestructura segura y local del JRC, no hay negociaciones de licencias con desarrolladores chinos y la Comisión no tiene intención de usarlos para fines propios."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de ENISA, Juhan Lepassaar, dijo que la agencia, que tiene acceso a modelos avanzados de Anthropic, OpenAI y Google, también está experimentando con “un par” de modelos chinos de pesos abiertos."
+              },
+              {
+                "t": "p",
+                "x": "Ambos organismos tienen el encargo de crear una plataforma de pruebas de IA en el marco de un reciente plan de acción de la UE sobre IA y ciberseguridad, lanzado tras incidentes en los que sistemas de IA escaparon de entornos de prueba."
               }
             ]
           }
@@ -826,125 +843,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "초당적 법안, 데이터센터에\n새 비용 부과 추진",
-          "body": "초당적 법안이 AI 에너지 확충을 서두르며 데이터센터에 새 비용과 제한을 지운다.",
-          "mini_headline": "데이터센터에 새 비용",
+          "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
+          "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
+          "mini_headline": "EU, 중국 AI 모델 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "일러스트: Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "의회가 AI 붐에 필요한 에너지 인프라 구축을 앞당기는 한편, 데이터센터에 새로운 비용과 규제를 부담시키는 방안을 검토하고 있다. 지난주 공개된 이 초당적 조항들은 에너지 인허가 절차를 빠르게 하려는 상원의 더 큰 법안의 일부다. 법안 발의자들은 이 법안이 에너지 개발을 가속하면서도 데이터센터가 전력망 증설 비용 가운데 자기 몫을 내도록 보장할 것이라고 말한다."
+                "x": "EU 관계자 세 명은 POLITICO에 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델을 시험하기 시작했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "데이터센터는 기존 송전망에 대한 자기 몫과, 자신에게 전력을 공급하는 데 필요한 추가 송전 비용을 모두 내게 된다. 20메가와트 이상의 신규 데이터센터는 전력 시스템 전반에 일으키는 추가 비용을 부담하며, 각 주는 이보다 더 나아갈 수 있는 폭넓은 재량을 갖게 된다."
+                "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 미국(U.S.)과 유럽의 주요 모델도 포함한 비교 연구의 일환으로 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 모델은 JRC의 보안 온프레미스 인프라에서 구동되며, 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획이 없다."
               },
               {
                 "t": "p",
-                "x": "Data Center Coalition은 아직 법안을 검토하고 있다고 밝혔다. Amazon의 Craig Sundstrom은 이 법안이 “새 발전·송전 설비를 더 빨리 짓는 데 필요한 투자를 끌어낼 수 있다”고 말했다. 반면 한 테크 업계 관계자는 일부 조항을 “전례 없는 수준의 차별적 대우”라고 했다. Cato Institute의 Travis Fisher는 “온건한 지지”를 표했다."
+                "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 Anthropic, OpenAI, Google의 고급 모델을 이용할 수 있는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "중간선거를 앞두고 상원이 휴회 중이어서, 이해관계자들은 레임덕 회기 논의가 열리기 전까지 수정을 요구할 시간이 있다."
+                "x": "두 기관은 AI 시스템이 시험 환경을 벗어난 사건들 이후 나온 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "超党派法案、データ\nセンターに新たなコスト",
-          "body": "超党派法案は、AI向けエネルギー整備を急ぐ一方、データセンターに新たな費用と制限を課す。",
-          "mini_headline": "データセンターに新たな負担",
+          "headline": "EU機関、中国製AI\nモデルの試験を確認",
+          "body": "ENISAと共同研究センターが中国のオープンソースAIモデルを試験中だと初めて認めた。",
+          "mini_headline": "EU、中国製AIモデルを試験",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "イラスト：Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026年9月22日、北京のPT Expoに設けられた中国通信企業の展示。| Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "議員らは、AIブームを支えるエネルギーインフラの整備を加速させる一方で、データセンターに新たなコストと規制を負わせることを検討している。先週公表されたこの超党派の条項は、エネルギー関連の許認可の迅速化を目指す上院のより大きな法案の一部だ。法案の提出者らは、エネルギー開発を加速させつつ、データセンターに送電網増強の応分の負担を確実に求めるものだと説明する。"
+                "x": "EU当局者三人がPOLITICOに語ったところによると、欧州連合のサイバーセキュリティ機関と内部研究センターが、それぞれ中国のオープンAIモデルの試験を始めた。"
               },
               {
                 "t": "p",
-                "x": "データセンターは、既存の送電網に対する応分の負担と、自らへの電力供給に必要な追加の送電コストの両方を支払うことになる。20メガワット以上の新設データセンターは、電力システム全体に生じさせる追加コストを負担し、各州にはさらに踏み込む広い裁量が与えられる。"
+                "x": "欧州委員会のマチェイ・ベレステツキ(Maciej Berestecki)報道官は、共同研究センター(Joint Research Centre、JRC)が、米国(U.S.)と欧州の主要モデルも含む比較研究の一環として、中国の「一般に公開されたオープンウェイトモデル」を評価していることを認めた。モデルはJRCの安全なオンプレミス基盤で稼働しており、中国の開発企業とのライセンス交渉はなく、欧州委員会が自ら利用する予定もないという。"
               },
               {
                 "t": "p",
-                "x": "Data Center Coalitionは、法案をまだ精査中だとした。AmazonのCraig Sundstrom氏は、法案が「新たな発電・送電設備をより速く建設するのに必要な投資を引き出し得る」と述べた。一方、あるテック業界関係者は一部の条項を「前例のない水準の差別的扱い」と評した。Cato InstituteのTravis Fisher氏は「控えめな支持」を示した。"
+                "x": "ENISAのユハン・レパサール(Juhan Lepassaar)事務局長は、Anthropic、OpenAI、Googleの先進モデルを利用できる同機関も、中国のオープンウェイトモデルを「二つほど」試していると述べた。"
               },
               {
                 "t": "p",
-                "x": "中間選挙を前に上院は休会中で、利害関係者には、レームダック会期での審議の可能性に先立ち修正を働きかける時間がある。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un plan bipartidista impondría\nnuevos costos a centros de datos",
-          "body": "Un proyecto bipartidista impondría nuevos costos y límites a los centros de datos y aceleraría la energía para la IA.",
-          "mini_headline": "Nuevos costos para centros de datos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "Ilustración: Sarah Grillo/Axios"
-              },
-              {
-                "t": "p",
-                "x": "Los legisladores estudian obligar a los centros de datos a asumir nuevos costos y restricciones, al tiempo que aceleran la infraestructura energética necesaria para alimentar el auge de la IA. Las disposiciones bipartidistas, presentadas la semana pasada, forman parte de una legislación más amplia del Senado destinada a agilizar los permisos energéticos. Los impulsores del proyecto afirman que aceleraría el desarrollo energético y garantizaría que los centros de datos paguen su parte de las mejoras de la red."
-              },
-              {
-                "t": "p",
-                "x": "Los centros de datos pagarían tanto su parte de la red de transmisión existente como los costos adicionales de transmisión necesarios para abastecerlos. Los nuevos centros de datos de al menos 20 megavatios asumirían los costos adicionales que generan en todo el sistema eléctrico, y los estados tendrían amplio margen para ir más allá."
-              },
-              {
-                "t": "p",
-                "x": "La Data Center Coalition dijo que aún está revisando la legislación. Craig Sundstrom, de Amazon, afirmó que el proyecto “podría liberar la inversión necesaria para construir nueva generación y transmisión más rápido”, mientras que un responsable del sector tecnológico calificó algunas disposiciones de “nivel sin precedentes de trato discriminatorio”. Travis Fisher, del Cato Institute, expresó un “apoyo moderado”."
-              },
-              {
-                "t": "p",
-                "x": "Con el Senado fuera de sesión antes de las elecciones de mitad de mandato, las partes interesadas tienen tiempo para presionar por cambios antes de un posible debate en la sesión de transición (lame-duck)."
+                "x": "両機関は、AIシステムが試験環境から逸脱した事案を受けて策定された、AIとサイバーに関するEUの最近の行動計画のもとで、AI試験プラットフォームの構築を任されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "两党法案拟向\n数据中心加征新成本",
-          "body": "一项两党法案拟对数据中心施加新的成本与限制，同时加快为AI建设能源设施。",
-          "mini_headline": "数据中心面临新成本",
+          "headline": "EU机构证实\n正在测试中国AI模型",
+          "body": "ENISA与联合研究中心首次证实，正在测试中国开源AI模型。",
+          "mini_headline": "EU测试中国AI模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-                "cap": "插图：Sarah Grillo/Axios"
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "2026年9月22日，北京PT Expo上一家中国电信企业的展台。| Kevin Frayer/Getty Images"
               },
               {
                 "t": "p",
-                "x": "立法者正考虑让数据中心承担新的成本与限制，同时加快建设支撑AI热潮所需的能源基础设施。这些两党条款于上周公布，是参议院一项旨在加快能源审批的更广泛立法的一部分。法案提出者表示，该法案将加速能源开发，同时确保数据中心为电网升级支付应有份额。"
+                "x": "三名EU官员向POLITICO透露，欧盟网络安全机构和内部研究中心已分别开始试验来自中国的开放AI模型。"
               },
               {
                 "t": "p",
-                "x": "数据中心既要分摊现有输电网络的费用，也要承担为其供电所需的新增输电成本。规模至少20 MW的新建数据中心须承担其给整个电力系统带来的增量成本，各州还将获得很大空间采取更进一步的措施。"
+                "x": "欧盟委员会发言人马切伊·贝雷斯泰茨基(Maciej Berestecki)证实，联合研究中心(Joint Research Centre，JRC)正在评估来自中国的“公开可用的开放权重模型”，这是一项比较研究的一部分，研究对象还包括美国(U.S.)和欧洲的领先模型。这些模型运行在JRC安全的本地基础设施上，JRC未与中国开发者进行任何许可谈判，欧盟委员会也无意将其用于自身用途。"
               },
               {
                 "t": "p",
-                "x": "Data Center Coalition表示仍在审阅该立法。Amazon的Craig Sundstrom称，该法案\"可能释放更快建设新发电和输电设施所需的投资\"；一位科技行业人士则称部分条款是\"前所未有的歧视性待遇\"。Cato Institute的Travis Fisher表示\"温和支持\"。"
+                "x": "ENISA执行主任尤汉·莱帕萨尔(Juhan Lepassaar)表示，可以使用Anthropic、OpenAI和Google先进模型的该机构，也在试验“几个”中国开放权重模型。"
               },
               {
                 "t": "p",
-                "x": "由于参议院在中期选举前休会，各利益相关方有时间在可能到来的跛脚鸭会期辩论前推动修改。"
+                "x": "根据EU近期发布的AI与网络安全行动计划，这两个机构受命搭建AI测试平台；该计划是在AI系统突破测试环境的事件发生后推出的。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Agencias de la UE confirman que\nprueban modelos chinos de IA",
+          "body": "ENISA y el Joint Research Centre confirmaron por primera vez que prueban modelos chinos de IA de código abierto.",
+          "mini_headline": "La UE prueba modelos chinos de IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+                "cap": "Un expositor de una empresa china de telecomunicaciones en la PT Expo, el 22 de septiembre de 2026 en Pekín. | Kevin Frayer/Getty Images"
+              },
+              {
+                "t": "p",
+                "x": "La agencia de ciberseguridad de la Unión Europea y su centro de investigación interno han empezado, cada uno, a experimentar con modelos abiertos de inteligencia artificial (AI) procedentes de China, según dijeron a POLITICO tres funcionarios de la UE (EU)."
+              },
+              {
+                "t": "p",
+                "x": "El portavoz de la Comisión Maciej Berestecki confirmó que el Joint Research Centre (JRC) está evaluando “modelos de pesos abiertos disponibles públicamente” de China como parte de un estudio comparativo que también incluye destacados modelos de Estados Unidos (U.S.) y europeos. Los modelos se ejecutan en la infraestructura segura y local del JRC, no hay negociaciones de licencias con desarrolladores chinos y la Comisión no tiene intención de usarlos para fines propios."
+              },
+              {
+                "t": "p",
+                "x": "El director ejecutivo de ENISA, Juhan Lepassaar, dijo que la agencia, que tiene acceso a modelos avanzados de Anthropic, OpenAI y Google, también está experimentando con “un par” de modelos chinos de pesos abiertos."
+              },
+              {
+                "t": "p",
+                "x": "Ambos organismos tienen el encargo de crear una plataforma de pruebas de IA en el marco de un reciente plan de acción de la UE sobre IA y ciberseguridad, lanzado tras incidentes en los que sistemas de IA escaparon de entornos de prueba."
               }
             ]
           }
@@ -952,312 +969,321 @@
       }
     },
     {
-      "id": "politics-singapore-mas-fintech-ai-review",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
-      "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
-      "mini_headline": "싱가포르, AI 독립 검토 추진",
+      "id": "park-wansu-deepfake-election-probe",
+      "source_lang": "ko",
       "tool": "Politics",
-      "source": "theregister.com",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
+      "eyebrow": "AI NEWS",
+      "headline": "딥페이크 선거 의혹\n박완수 지사 피의자 조사",
+      "body": "딥페이크 영상·관권선거 의혹과 관련해 경찰이 박완수 경남지사를 피의자 조사했다.",
+      "mini_headline": "박완수 지사 피의자 조사",
+      "source": "yna.co.kr",
+      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+            "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+            "cap": "경찰은 '딥페이크 영상·관권선거 의혹' 사건 수사를 위해 지난 6월 9일 경남도청 등을 압수수색했다."
           },
           {
             "t": "p",
-            "x": "싱가포르 통화청(MAS)이 수요일 처음 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서 현지 업계의 모든 기업에 AI 활용 사례를 배포하기 전 독립적인 검토를 받으라고 요구했다. 통화청은 중앙은행이자 금융업 규제기관이다."
+            "x": "6·3 지방선거 과정에서 불거진 당시 국민의힘 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 경찰이 박 지사를 피의자 신분으로 조사한 것으로 확인됐다."
           },
           {
             "t": "p",
-            "x": "MAS는 AI가 복잡한 탓에 예기치 않거나 더 편향된 동작이 나올 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 본다. 에이전트형 AI에는 “이러한 위험을 더욱 키울 수 있다”는 우려를 보였다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고 이사회와 고위 경영진이 그 책임을 지기를 바란다."
+            "x": "경남경찰청 사이버수사과는 박 지사를 공직선거법 위반 등 혐의로 입건했다고 8일 밝혔다. 박 지사는 전날 오전 8시부터 오후 9시까지 경찰에 출석해 조사를 받은 것으로 파악됐다. 경찰 관계자는 \"아직 수사 중이어서 자세한 내용은 밝히기 어렵다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대비한 비상 계획도 요구했다. 또 “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
+            "x": "앞서 경찰은 당시 박 당선인 캠프 관계자와 경남도청 전현직 공무원 등 9명을 상대로 한 5건의 흑색선전 혐의에 대해 수사에 착수했다. 경남선관위는 지난 5월 이들 9명을 공직선거법 위반 혐의로 창원지검에 수사 의뢰했고, 더불어민주당 김경수 경남지사 후보 측도 딥페이크 영상 제작·유포, 공무원 선거 개입 혐의로 관련자 5명을 경남경찰청에 고발했다. 경찰은 이를 병합해 수사해 온 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "가이드라인 시행일은 2027년 10월 7일이다."
+            "x": "지난 8월에는 캠프 관계자 4명에 대한 구속영장이 모두 기각됐다. 이들은 김경수 후보를 비방하는 딥페이크 영상을 제작하도록 지시하고 도청 내부 자료와 금품 등을 제공한 혐의를 받는다. 이 가운데 전직 공무원 A씨와 현직 공무원 B씨는 영상 제작을 담당할 유사 선거사무소를 설치한 혐의도 있다."
           }
         ]
       },
-      "lead_image": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "text": {
-        "en": {
-          "headline": "Singapore wants all finance\nAI uses independently vetted",
-          "body": "Singapore's central bank wants every AI use case at financial firms independently reviewed before deployment.",
-          "mini_headline": "Singapore eyes AI reviews",
+        "ko": {
+          "headline": "딥페이크 선거 의혹\n박완수 지사 피의자 조사",
+          "body": "딥페이크 영상·관권선거 의혹과 관련해 경찰이 박완수 경남지사를 피의자 조사했다.",
+          "mini_headline": "박완수 지사 피의자 조사",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "경찰은 '딥페이크 영상·관권선거 의혹' 사건 수사를 위해 지난 6월 9일 경남도청 등을 압수수색했다."
               },
               {
                 "t": "p",
-                "x": "Singapore’s Monetary Authority (MAS), which acts as both central bank and finance industry regulator, wants all local industry players to seek independent review of AI use cases before deployment, under its first Guidelines on Artificial Intelligence Risk Management for Financial Institutions, published on Wednesday."
+                "x": "6·3 지방선거 과정에서 불거진 당시 국민의힘 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 경찰이 박 지사를 피의자 신분으로 조사한 것으로 확인됐다."
               },
               {
                 "t": "p",
-                "x": "MAS warns that AI’s complexity can lead to unexpected or more biased behaviour, rates generative AI as even riskier, and fears agentic AI “could further amplify these risks.” It wants financial institutions to expand risk frameworks to cover AI, with board and senior management responsible."
+                "x": "경남경찰청 사이버수사과는 박 지사를 공직선거법 위반 등 혐의로 입건했다고 8일 밝혔다. 박 지사는 전날 오전 8시부터 오후 9시까지 경찰에 출석해 조사를 받은 것으로 파악됐다. 경찰 관계자는 \"아직 수사 중이어서 자세한 내용은 밝히기 어렵다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "“Prior to deployment, an FI should subject the AI use case, including its underlying systems or models, to reviews by parties not involved in its development,” the guidelines state. MAS also wants ongoing monitoring, up-to-date AI inventories and contingency plans for high-risk uses, and says “FIs remain accountable for AI used in the services they deliver, including AI developed, operated or provided by third parties.”"
+                "x": "앞서 경찰은 당시 박 당선인 캠프 관계자와 경남도청 전현직 공무원 등 9명을 상대로 한 5건의 흑색선전 혐의에 대해 수사에 착수했다. 경남선관위는 지난 5월 이들 9명을 공직선거법 위반 혐의로 창원지검에 수사 의뢰했고, 더불어민주당 김경수 경남지사 후보 측도 딥페이크 영상 제작·유포, 공무원 선거 개입 혐의로 관련자 5명을 경남경찰청에 고발했다. 경찰은 이를 병합해 수사해 온 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "The guidelines come into force on October 7, 2027."
+                "x": "지난 8월에는 캠프 관계자 4명에 대한 구속영장이 모두 기각됐다. 이들은 김경수 후보를 비방하는 딥페이크 영상을 제작하도록 지시하고 도청 내부 자료와 금품 등을 제공한 혐의를 받는다. 이 가운데 전직 공무원 A씨와 현직 공무원 B씨는 영상 제작을 담당할 유사 선거사무소를 설치한 혐의도 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
-          "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
-          "mini_headline": "싱가포르, AI 독립 검토 추진",
+        "en": {
+          "headline": "Deepfake election allegations\nPark Wan-su quizzed as suspect",
+          "body": "Police questioned Gyeongnam Governor Park Wan-su as a suspect over deepfake video and election-meddling claims.",
+          "mini_headline": "Gov. Park Wan-su questioned as suspect",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "Police raided the South Gyeongsang Provincial Government office and other sites on June 9 to investigate the 'deepfake video and official election-meddling allegations' case."
               },
               {
                 "t": "p",
-                "x": "싱가포르 통화청(MAS)이 수요일 처음 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서 현지 업계의 모든 기업에 AI 활용 사례를 배포하기 전 독립적인 검토를 받으라고 요구했다. 통화청은 중앙은행이자 금융업 규제기관이다."
+                "x": "Police have questioned South Gyeongsang Governor Park Wan-su as a suspect over the 'deepfake video and official election-meddling allegations' involving the campaign of Park, then the People Power Party candidate for South Gyeongsang governor, which surfaced during the 6·3 (June 3) local elections, it has been confirmed."
               },
               {
                 "t": "p",
-                "x": "MAS는 AI가 복잡한 탓에 예기치 않거나 더 편향된 동작이 나올 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 본다. 에이전트형 AI에는 “이러한 위험을 더욱 키울 수 있다”는 우려를 보였다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고 이사회와 고위 경영진이 그 책임을 지기를 바란다."
+                "x": "The cyber investigation division of the South Gyeongsang Provincial Police Agency said on the 8th that it had booked Park on charges including violating the Public Official Election Act. Park reportedly appeared at the police from 8 a.m. to 9 p.m. the previous day for questioning. A police official said, \"The investigation is still under way, so it is difficult to disclose details.\""
               },
               {
                 "t": "p",
-                "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대비한 비상 계획도 요구했다. 또 “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
+                "x": "Police had earlier opened an investigation into 5 cases of alleged smear campaigning involving 9 people, including officials from then governor-elect Park's campaign and current and former South Gyeongsang provincial government officials. In May, the South Gyeongsang Election Commission referred the 9 to the Changwon District Prosecutors' Office for investigation on charges of violating the Public Official Election Act, and the side of Democratic Party candidate for South Gyeongsang governor Kim Kyoung-soo also filed a complaint with the South Gyeongsang Provincial Police Agency against 5 people on charges of producing and spreading deepfake videos and of public officials interfering in the election. Police are known to have merged the cases into a single investigation."
               },
               {
                 "t": "p",
-                "x": "가이드라인 시행일은 2027년 10월 7일이다."
+                "x": "In August, arrest warrants for 4 campaign officials were all rejected. They are accused of ordering the production of deepfake videos defaming candidate Kim Kyoung-soo and of providing internal provincial government documents, money and other valuables. Among them, former official A and current official B are also accused of setting up a quasi-campaign office to handle the video production."
               }
             ]
           }
         },
         "ja": {
-          "headline": "シンガポール、金融AI\n全件に独立審査を要求",
-          "body": "シンガポール中銀は、金融機関の全AI活用事例に導入前の独立審査を求めている。",
-          "mini_headline": "シンガポール、AIの独立審査へ",
+          "headline": "ディープフェイク選挙疑惑\n朴完洙知事を被疑者聴取",
+          "body": "ディープフェイク動画・官権選挙疑惑で、警察が朴完洙慶南知事を被疑者として聴取した。",
+          "mini_headline": "朴完洙知事を被疑者聴取",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警察は「ディープフェイク動画・官権選挙疑惑」事件の捜査のため、6月9日に慶尚南道庁などを家宅捜索した。"
               },
               {
                 "t": "p",
-                "x": "中央銀行と金融業界の規制当局を兼ねるシンガポール金融通貨庁(MAS)は水曜日、初となる「金融機関向け人工知能リスク管理ガイドライン」を公表し、国内のすべての業界関係者に対し、AI活用事例を導入前に独立したレビューにかけるよう求めた。"
+                "x": "6·3地方選挙の過程で浮上した、当時の国民の力・朴完洙慶南知事候補陣営の「ディープフェイク動画・官権選挙疑惑」をめぐり、警察が朴知事を被疑者として取り調べていたことが確認された。"
               },
               {
                 "t": "p",
-                "x": "MASは、AIの複雑さが予期しない、あるいはより偏った挙動につながり得ると警告し、生成AIはさらにリスクが高いと評価したうえで、エージェント型AIが「こうしたリスクをさらに増幅させる可能性がある」と懸念する。金融機関にはリスク管理の枠組みをAIにまで広げ、取締役会と上級経営陣が責任を負うことを求めている。"
+                "x": "慶南警察庁サイバー捜査課は8日、朴知事を公職選挙法違反などの容疑で立件したと明らかにした。朴知事は前日午前8時から午後9時まで警察に出頭し、取り調べを受けたとみられる。警察関係者は「まだ捜査中のため、詳しい内容を明らかにするのは難しい」と話した。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは「導入前に、FIは基盤となるシステムやモデルを含むAI活用事例を、その開発に関与していない者によるレビューにかけるべきだ」と定めている。MASはさらに継続的なモニタリング、最新のAI一覧、高リスク用途向けの緊急時対応計画を求め、「FIsは、第三者が開発・運用・提供したAIを含め、自らが提供するサービスで使われるAIについて引き続き責任を負う」としている。"
+                "x": "警察はこれに先立ち、当時の朴当選者陣営の関係者や慶尚南道庁の現職・元職公務員など9人を対象とした5件の誹謗中傷容疑について捜査に着手していた。慶南選挙管理委員会は5月、この9人を公職選挙法違反の容疑で昌原地検に捜査を依頼し、共に民主党の金慶洙慶南知事候補側もディープフェイク動画の制作・流布と公務員の選挙介入の容疑で関係者5人を慶南警察庁に告発した。警察はこれらを併合して捜査してきたとされる。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは2027年10月7日に施行される。"
+                "x": "8月には陣営関係者4人に対する逮捕状がすべて棄却された。4人は金慶洙候補を誹謗するディープフェイク動画の制作を指示し、道庁の内部資料や金品などを提供した容疑が持たれている。このうち元公務員のA氏と現職公務員のB氏は、動画制作を担う類似選挙事務所を設置した容疑もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "新加坡要求金融业所有\nAI应用接受独立审查",
-          "body": "新加坡央行希望金融机构的每一项AI用例在部署前都接受独立审查。",
-          "mini_headline": "新加坡拟推AI独立审查",
+          "headline": "深度伪造选举疑云\n朴完洙以嫌疑人身份受讯",
+          "body": "因深度伪造视频及官权选举疑云，警方以嫌疑人身份传讯了庆南知事朴完洙。",
+          "mini_headline": "朴完洙以嫌疑人身份受讯",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警方为调查“深度伪造视频及官权选举疑云”一案，于6月9日搜查了庆尚南道厅等地。"
               },
               {
                 "t": "p",
-                "x": "同时担任中央银行和金融业监管机构的新加坡金融管理局(MAS)周三发布了首份《金融机构人工智能风险管理指引》，要求本地所有业内机构在部署AI用例前寻求独立审查。"
+                "x": "据确认，就6·3地方选举期间曝出的时任国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频及官权选举疑云”，警方已以嫌疑人身份对朴完洙进行了调查。"
               },
               {
                 "t": "p",
-                "x": "MAS警告称，AI的复杂性可能导致意外或更具偏见的行为，并认为生成式AI风险更高，还担心智能体AI“可能进一步放大这些风险”。它希望金融机构将风险框架扩展至AI，并由董事会和高级管理层负责。"
+                "x": "庆南警察厅网络调查科8日表示，已以涉嫌违反《公职选举法》等罪名对朴完洙立案。据悉，朴完洙前一天上午8时至晚上9时到警方接受了调查。一名警方相关人士表示：“目前仍在调查中，难以透露具体内容。”"
               },
               {
                 "t": "p",
-                "x": "指引写道：“在部署之前，FI应将AI用例（包括其底层系统或模型）交由未参与其开发的各方进行审查。”MAS还要求持续监测、及时更新的AI清单以及针对高风险用途的应急计划，并表示“FIs仍须对其所提供服务中使用的AI负责，包括由第三方开发、运营或提供的AI”。"
+                "x": "此前，警方已就针对时任当选人朴完洙阵营相关人士及庆尚南道厅现任、前任公务员等9人的5项抹黑宣传嫌疑展开调查。庆南选举管理委员会5月以涉嫌违反《公职选举法》将上述9人移交昌原地方检察厅调查；共同民主党庆南知事候选人金庆洙一方也以涉嫌制作、传播深度伪造视频及公务员介入选举，向庆南警察厅举报了5名相关人员。据悉，警方一直在合并调查这些案件。"
               },
               {
                 "t": "p",
-                "x": "该指引将于2027年10月7日生效。"
+                "x": "8月，针对4名阵营相关人士的逮捕令申请全部被驳回。他们涉嫌指使制作诋毁候选人金庆洙的深度伪造视频，并提供道厅内部资料和财物等。其中，前公务员A某和现任公务员B某还涉嫌设立负责制作视频的类似竞选办公室。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Singapur pide revisión externa\nde todo uso de IA financiera",
-          "body": "El banco central de Singapur quiere que todo uso de IA en el sector financiero tenga revisión independiente previa.",
-          "mini_headline": "Singapur pide revisar la IA",
+          "headline": "Sospechas de deepfake electoral:\ninterrogan al gobernador Park",
+          "body": "La policía interrogó como sospechoso al gobernador Park Wan-su por videos deepfake e injerencia electoral.",
+          "mini_headline": "Park Wan-su, interrogado como sospechoso",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "La policía registró el 9 de junio la sede del Gobierno provincial de Gyeongsang del Sur, entre otros lugares, para investigar el caso de las 'sospechas de video deepfake y de injerencia electoral oficial'."
               },
               {
                 "t": "p",
-                "x": "La Autoridad Monetaria de Singapur (MAS), que actúa como banco central y como regulador del sector financiero, quiere que todas las entidades locales del sector sometan sus casos de uso de IA a una revisión independiente antes de implantarlos, según sus primeras Directrices sobre Gestión de Riesgos de la Inteligencia Artificial para Instituciones Financieras, publicadas el miércoles."
+                "x": "Se ha confirmado que la policía interrogó como sospechoso al gobernador de Gyeongsang del Sur, Park Wan-su, por las 'sospechas de video deepfake y de injerencia electoral oficial' surgidas en torno a su campaña como entonces candidato del Partido del Poder Popular a gobernador durante las elecciones locales del 6·3 (3 de junio)."
               },
               {
                 "t": "p",
-                "x": "La MAS advierte que la complejidad de la IA puede provocar comportamientos inesperados o más sesgados, considera que la IA generativa entraña aún más riesgo y teme que la IA agéntica “pueda amplificar aún más estos riesgos”. Quiere que las instituciones financieras amplíen sus marcos de riesgo para abarcar la IA, con el consejo de administración y la alta dirección como responsables."
+                "x": "La división de investigación cibernética de la Agencia de Policía Provincial de Gyeongsang del Sur informó el día 8 que había imputado a Park por cargos que incluyen la violación de la Ley de Elecciones de Cargos Públicos. Según se supo, Park compareció ante la policía el día anterior, de 8 de la mañana a 9 de la noche, para ser interrogado. Un responsable policial dijo: \"Como la investigación sigue en curso, es difícil revelar detalles\"."
               },
               {
                 "t": "p",
-                "x": "“Antes de su implantación, una FI debe someter el caso de uso de IA, incluidos sus sistemas o modelos subyacentes, a revisiones de partes no involucradas en su desarrollo”, establecen las directrices. La MAS también pide supervisión continua, inventarios de IA actualizados y planes de contingencia para los usos de alto riesgo, y afirma que “las FIs siguen siendo responsables de la IA utilizada en los servicios que prestan, incluida la IA desarrollada, operada o proporcionada por terceros”."
+                "x": "Anteriormente, la policía había abierto una investigación sobre 5 casos de presunta campaña de difamación contra 9 personas, entre ellas miembros de la campaña del entonces gobernador electo Park y funcionarios actuales y antiguos del Gobierno provincial de Gyeongsang del Sur. En mayo, la Comisión Electoral de Gyeongsang del Sur remitió a esas 9 personas a la Fiscalía del Distrito de Changwon por presunta violación de la Ley de Elecciones de Cargos Públicos, y el equipo del candidato a gobernador del Partido Democrático, Kim Kyoung-soo, también denunció ante la Agencia de Policía Provincial de Gyeongsang del Sur a 5 personas por producir y difundir videos deepfake y por la injerencia de funcionarios en las elecciones. Según se informó, la policía ha investigado los casos de forma conjunta."
               },
               {
                 "t": "p",
-                "x": "Las directrices entrarán en vigor el 7 de octubre de 2027."
+                "x": "En agosto fueron rechazadas todas las órdenes de detención contra 4 miembros de la campaña. Se les acusa de ordenar la producción de videos deepfake que difamaban al candidato Kim Kyoung-soo y de entregar documentos internos del Gobierno provincial, dinero y otros bienes. Entre ellos, el exfuncionario A y el funcionario en activo B también están acusados de instalar una oficina de campaña encubierta encargada de producir los videos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "싱가포르, 금융권 AI\n모두 독립 검증 요구",
-          "body": "싱가포르 중앙은행은 금융사의 모든 AI 활용에 배포 전 독립 검토를 요구한다.",
-          "mini_headline": "싱가포르, AI 독립 검토 추진",
+        "en": {
+          "headline": "Deepfake election allegations\nPark Wan-su quizzed as suspect",
+          "body": "Police questioned Gyeongnam Governor Park Wan-su as a suspect over deepfake video and election-meddling claims.",
+          "mini_headline": "Gov. Park Wan-su questioned as suspect",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "Police raided the South Gyeongsang Provincial Government office and other sites on June 9 to investigate the 'deepfake video and official election-meddling allegations' case."
               },
               {
                 "t": "p",
-                "x": "중앙은행이자 금융업 규제기관인 싱가포르 통화청(MAS)이 수요일 처음으로 내놓은 ‘금융기관 인공지능 위험관리 가이드라인’에서, 현지 업계의 모든 기업이 AI 활용 사례를 배포하기 전에 독립적인 검토를 받도록 요구했다."
+                "x": "Police have questioned South Gyeongsang Governor Park Wan-su as a suspect over the 'deepfake video and official election-meddling allegations' involving the campaign of Park, then the People Power Party candidate for South Gyeongsang governor, which surfaced during the 6·3 (June 3) local elections, it has been confirmed."
               },
               {
                 "t": "p",
-                "x": "MAS는 AI의 복잡성이 예기치 않거나 더 편향된 동작으로 이어질 수 있다고 경고한다. 생성형 AI는 위험이 더 크다고 평가하고, 에이전트형 AI가 “이러한 위험을 더욱 키울 수 있다”고 우려한다. MAS는 금융기관이 위험관리 체계를 AI까지 넓히고, 이사회와 고위 경영진이 그 책임을 지기를 원한다."
+                "x": "The cyber investigation division of the South Gyeongsang Provincial Police Agency said on the 8th that it had booked Park on charges including violating the Public Official Election Act. Park reportedly appeared at the police from 8 a.m. to 9 p.m. the previous day for questioning. A police official said, \"The investigation is still under way, so it is difficult to disclose details.\""
               },
               {
                 "t": "p",
-                "x": "가이드라인은 “배포에 앞서 FI는 기반 시스템이나 모델을 포함한 AI 활용 사례를 개발에 관여하지 않은 당사자의 검토에 부쳐야 한다”고 명시한다. MAS는 또 지속적인 모니터링, 최신 AI 목록, 고위험 활용에 대한 비상 계획을 요구하며, “FIs는 제3자가 개발·운영·제공한 AI를 포함해 자신이 제공하는 서비스에 쓰인 AI에 대해 계속 책임을 진다”고 밝혔다."
+                "x": "Police had earlier opened an investigation into 5 cases of alleged smear campaigning involving 9 people, including officials from then governor-elect Park's campaign and current and former South Gyeongsang provincial government officials. In May, the South Gyeongsang Election Commission referred the 9 to the Changwon District Prosecutors' Office for investigation on charges of violating the Public Official Election Act, and the side of Democratic Party candidate for South Gyeongsang governor Kim Kyoung-soo also filed a complaint with the South Gyeongsang Provincial Police Agency against 5 people on charges of producing and spreading deepfake videos and of public officials interfering in the election. Police are known to have merged the cases into a single investigation."
               },
               {
                 "t": "p",
-                "x": "이 가이드라인은 2027년 10월 7일부터 시행된다."
+                "x": "In August, arrest warrants for 4 campaign officials were all rejected. They are accused of ordering the production of deepfake videos defaming candidate Kim Kyoung-soo and of providing internal provincial government documents, money and other valuables. Among them, former official A and current official B are also accused of setting up a quasi-campaign office to handle the video production."
               }
             ]
           }
         },
         "ja": {
-          "headline": "シンガポール、金融AI\n全件に独立審査を要求",
-          "body": "シンガポール中銀は、金融機関の全AI活用事例に導入前の独立審査を求めている。",
-          "mini_headline": "シンガポール、AIの独立審査へ",
+          "headline": "ディープフェイク選挙疑惑\n朴完洙知事を被疑者聴取",
+          "body": "ディープフェイク動画・官権選挙疑惑で、警察が朴完洙慶南知事を被疑者として聴取した。",
+          "mini_headline": "朴完洙知事を被疑者聴取",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警察は「ディープフェイク動画・官権選挙疑惑」事件の捜査のため、6月9日に慶尚南道庁などを家宅捜索した。"
               },
               {
                 "t": "p",
-                "x": "中央銀行と金融業界の規制当局を兼ねるシンガポール金融通貨庁(MAS)は水曜日、初となる「金融機関向け人工知能リスク管理ガイドライン」を公表し、国内のすべての業界関係者に対し、AI活用事例を導入前に独立したレビューにかけるよう求めた。"
+                "x": "6·3地方選挙の過程で浮上した、当時の国民の力・朴完洙慶南知事候補陣営の「ディープフェイク動画・官権選挙疑惑」をめぐり、警察が朴知事を被疑者として取り調べていたことが確認された。"
               },
               {
                 "t": "p",
-                "x": "MASは、AIの複雑さが予期しない、あるいはより偏った挙動につながり得ると警告し、生成AIはさらにリスクが高いと評価したうえで、エージェント型AIが「こうしたリスクをさらに増幅させる可能性がある」と懸念する。金融機関にはリスク管理の枠組みをAIにまで広げ、取締役会と上級経営陣が責任を負うことを求めている。"
+                "x": "慶南警察庁サイバー捜査課は8日、朴知事を公職選挙法違反などの容疑で立件したと明らかにした。朴知事は前日午前8時から午後9時まで警察に出頭し、取り調べを受けたとみられる。警察関係者は「まだ捜査中のため、詳しい内容を明らかにするのは難しい」と話した。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは「導入前に、FIは基盤となるシステムやモデルを含むAI活用事例を、その開発に関与していない者によるレビューにかけるべきだ」と定めている。MASはさらに継続的なモニタリング、最新のAI一覧、高リスク用途向けの緊急時対応計画を求め、「FIsは、第三者が開発・運用・提供したAIを含め、自らが提供するサービスで使われるAIについて引き続き責任を負う」としている。"
+                "x": "警察はこれに先立ち、当時の朴当選者陣営の関係者や慶尚南道庁の現職・元職公務員など9人を対象とした5件の誹謗中傷容疑について捜査に着手していた。慶南選挙管理委員会は5月、この9人を公職選挙法違反の容疑で昌原地検に捜査を依頼し、共に民主党の金慶洙慶南知事候補側もディープフェイク動画の制作・流布と公務員の選挙介入の容疑で関係者5人を慶南警察庁に告発した。警察はこれらを併合して捜査してきたとされる。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは2027年10月7日に施行される。"
+                "x": "8月には陣営関係者4人に対する逮捕状がすべて棄却された。4人は金慶洙候補を誹謗するディープフェイク動画の制作を指示し、道庁の内部資料や金品などを提供した容疑が持たれている。このうち元公務員のA氏と現職公務員のB氏は、動画制作を担う類似選挙事務所を設置した容疑もある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "新加坡要求金融业所有\nAI应用接受独立审查",
-          "body": "新加坡央行希望金融机构的每一项AI用例在部署前都接受独立审查。",
-          "mini_headline": "新加坡拟推AI独立审查",
+          "headline": "深度伪造选举疑云\n朴完洙以嫌疑人身份受讯",
+          "body": "因深度伪造视频及官权选举疑云，警方以嫌疑人身份传讯了庆南知事朴完洙。",
+          "mini_headline": "朴完洙以嫌疑人身份受讯",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "警方为调查“深度伪造视频及官权选举疑云”一案，于6月9日搜查了庆尚南道厅等地。"
               },
               {
                 "t": "p",
-                "x": "同时担任中央银行和金融业监管机构的新加坡金融管理局(MAS)周三发布了首份《金融机构人工智能风险管理指引》，要求本地所有业内机构在部署AI用例前寻求独立审查。"
+                "x": "据确认，就6·3地方选举期间曝出的时任国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频及官权选举疑云”，警方已以嫌疑人身份对朴完洙进行了调查。"
               },
               {
                 "t": "p",
-                "x": "MAS警告称，AI的复杂性可能导致意外或更具偏见的行为，并认为生成式AI风险更高，还担心智能体AI“可能进一步放大这些风险”。它希望金融机构将风险框架扩展至AI，并由董事会和高级管理层负责。"
+                "x": "庆南警察厅网络调查科8日表示，已以涉嫌违反《公职选举法》等罪名对朴完洙立案。据悉，朴完洙前一天上午8时至晚上9时到警方接受了调查。一名警方相关人士表示：“目前仍在调查中，难以透露具体内容。”"
               },
               {
                 "t": "p",
-                "x": "指引写道：“在部署之前，FI应将AI用例（包括其底层系统或模型）交由未参与其开发的各方进行审查。”MAS还要求持续监测、及时更新的AI清单以及针对高风险用途的应急计划，并表示“FIs仍须对其所提供服务中使用的AI负责，包括由第三方开发、运营或提供的AI”。"
+                "x": "此前，警方已就针对时任当选人朴完洙阵营相关人士及庆尚南道厅现任、前任公务员等9人的5项抹黑宣传嫌疑展开调查。庆南选举管理委员会5月以涉嫌违反《公职选举法》将上述9人移交昌原地方检察厅调查；共同民主党庆南知事候选人金庆洙一方也以涉嫌制作、传播深度伪造视频及公务员介入选举，向庆南警察厅举报了5名相关人员。据悉，警方一直在合并调查这些案件。"
               },
               {
                 "t": "p",
-                "x": "该指引将于2027年10月7日生效。"
+                "x": "8月，针对4名阵营相关人士的逮捕令申请全部被驳回。他们涉嫌指使制作诋毁候选人金庆洙的深度伪造视频，并提供道厅内部资料和财物等。其中，前公务员A某和现任公务员B某还涉嫌设立负责制作视频的类似竞选办公室。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Singapur pide revisión externa\nde todo uso de IA financiera",
-          "body": "El banco central de Singapur quiere que todo uso de IA en el sector financiero tenga revisión independiente previa.",
-          "mini_headline": "Singapur pide revisar la IA",
+          "headline": "Sospechas de deepfake electoral:\ninterrogan al gobernador Park",
+          "body": "La policía interrogó como sospechoso al gobernador Park Wan-su por videos deepfake e injerencia electoral.",
+          "mini_headline": "Park Wan-su, interrogado como sospechoso",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+                "cap": "La policía registró el 9 de junio la sede del Gobierno provincial de Gyeongsang del Sur, entre otros lugares, para investigar el caso de las 'sospechas de video deepfake y de injerencia electoral oficial'."
               },
               {
                 "t": "p",
-                "x": "La Autoridad Monetaria de Singapur (MAS), que actúa como banco central y como regulador del sector financiero, quiere que todas las entidades locales del sector sometan sus casos de uso de IA a una revisión independiente antes de implantarlos, según sus primeras Directrices sobre Gestión de Riesgos de la Inteligencia Artificial para Instituciones Financieras, publicadas el miércoles."
+                "x": "Se ha confirmado que la policía interrogó como sospechoso al gobernador de Gyeongsang del Sur, Park Wan-su, por las 'sospechas de video deepfake y de injerencia electoral oficial' surgidas en torno a su campaña como entonces candidato del Partido del Poder Popular a gobernador durante las elecciones locales del 6·3 (3 de junio)."
               },
               {
                 "t": "p",
-                "x": "La MAS advierte que la complejidad de la IA puede provocar comportamientos inesperados o más sesgados, considera que la IA generativa entraña aún más riesgo y teme que la IA agéntica “pueda amplificar aún más estos riesgos”. Quiere que las instituciones financieras amplíen sus marcos de riesgo para abarcar la IA, con el consejo de administración y la alta dirección como responsables."
+                "x": "La división de investigación cibernética de la Agencia de Policía Provincial de Gyeongsang del Sur informó el día 8 que había imputado a Park por cargos que incluyen la violación de la Ley de Elecciones de Cargos Públicos. Según se supo, Park compareció ante la policía el día anterior, de 8 de la mañana a 9 de la noche, para ser interrogado. Un responsable policial dijo: \"Como la investigación sigue en curso, es difícil revelar detalles\"."
               },
               {
                 "t": "p",
-                "x": "“Antes de su implantación, una FI debe someter el caso de uso de IA, incluidos sus sistemas o modelos subyacentes, a revisiones de partes no involucradas en su desarrollo”, establecen las directrices. La MAS también pide supervisión continua, inventarios de IA actualizados y planes de contingencia para los usos de alto riesgo, y afirma que “las FIs siguen siendo responsables de la IA utilizada en los servicios que prestan, incluida la IA desarrollada, operada o proporcionada por terceros”."
+                "x": "Anteriormente, la policía había abierto una investigación sobre 5 casos de presunta campaña de difamación contra 9 personas, entre ellas miembros de la campaña del entonces gobernador electo Park y funcionarios actuales y antiguos del Gobierno provincial de Gyeongsang del Sur. En mayo, la Comisión Electoral de Gyeongsang del Sur remitió a esas 9 personas a la Fiscalía del Distrito de Changwon por presunta violación de la Ley de Elecciones de Cargos Públicos, y el equipo del candidato a gobernador del Partido Democrático, Kim Kyoung-soo, también denunció ante la Agencia de Policía Provincial de Gyeongsang del Sur a 5 personas por producir y difundir videos deepfake y por la injerencia de funcionarios en las elecciones. Según se informó, la policía ha investigado los casos de forma conjunta."
               },
               {
                 "t": "p",
-                "x": "Las directrices entrarán en vigor el 7 de octubre de 2027."
+                "x": "En agosto fueron rechazadas todas las órdenes de detención contra 4 miembros de la campaña. Se les acusa de ordenar la producción de videos deepfake que difamaban al candidato Kim Kyoung-soo y de entregar documentos internos del Gobierno provincial, dinero y otros bienes. Entre ellos, el exfuncionario A y el funcionario en activo B también están acusados de instalar una oficina de campaña encubierta encargada de producir los videos."
               }
             ]
           }
@@ -1265,15 +1291,15 @@
       }
     },
     {
-      "id": "politics-ecosia-drops-mistral-chinese-ai",
+      "id": "yandex-ai-datacenter-strike",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Mistral 대신\nEcosia는 중국 AI로",
-      "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
-      "mini_headline": "Ecosia, 중국 AI로 전환",
       "tool": "Politics",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
+      "eyebrow": "AI NEWS",
+      "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
+      "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
+      "mini_headline": "드론, Yandex AI 데이터센터 타격",
+      "source": "arstechnica.com",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1281,186 +1307,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-            "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+            "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
           },
           {
             "t": "p",
-            "x": "정부 서비스에서도 쓰는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 갈아탄다. 이 회사 CEO가 POLITICO에 밝힌 내용이다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
+            "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 멈췄다. Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하느라 애를 먹고 있다."
           },
           {
             "t": "p",
-            "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 던졌다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-            "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
+            "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있다. 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 두고 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 했다."
           },
           {
             "t": "p",
-            "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia가 손잡은 곳은 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious다. Kroll은 비용이 대략 절반으로 줄었다고 했다. 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에는 일부 전문가가 동의하지 않는다."
+            "x": "Yandex는 다친 직원이 없다고 밝히면서도 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제를 겪었다고 전했다."
+          },
+          {
+            "t": "p",
+            "x": "2026년 들어 데이터센터가 전시 표적으로 떠올랐다. 앞서 이란 드론은 바레인과 UAE의 Amazon 데이터센터를 마비시켰다."
           }
         ]
       },
-      "lead_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
       "text": {
         "en": {
-          "headline": "Ecosia drops Mistral for\nChinese open-source AI",
-          "body": "Ecosia's CEO says it is dropping Mistral for open-source models, including Chinese ones, over quality concerns.",
-          "mini_headline": "Ecosia turns to Chinese AI",
+          "headline": "Ukraine's drones knock out\nYandex AI data center",
+          "body": "Ukrainian drones knocked out two Yandex data centers, including one housing supercomputers used to train YandexGPT.",
+          "mini_headline": "Drones hit Yandex AI data center",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "Christian Kroll speaks at the 2019 Web Summit in Lisbon. | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "A satellite image showing damage to a Yandex AI data center in the Sasovo region of Russia. Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "A Berlin-based search engine used by government services is dropping its French AI partner, Mistral, in favor of open-source models, including those from China, its CEO told POLITICO. “We are disappointed with the quality of Mistral,” Ecosia founder and CEO Christian Kroll said, calling its models “a year behind” the competition."
+                "x": "Ukrainian drone strikes have knocked out two of five data centers belonging to Yandex, known as “Russia's Google,” leaving it struggling to maintain its AI chatbot and other online services."
               },
               {
                 "t": "p",
-                "x": "Ecosia replaced OpenAI with Mistral in May but hit recurring technical problems, Kroll said. He also questioned Mistral’s fit with Ecosia’s environmental goals and its independence: “The fact that Mistral relies on investment from international investors is, in our view, not truly sovereign.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "Guillaume Lample speaks at the AI Now Summit in Paris on May 28, 2026. | Stephane de Sakutin/AFP via Getty Images"
+                "x": "The drones struck Yandex data centers in the Sasovo and Kaluga regions on October 8 and 9, according to Reuters. The Sasovo site houses two of the company's three supercomputers used to train its YandexGPT model; Kaluga is its largest facility. Ukrainian President Volodymyr Zelenskyy called the strikes a “symmetrical response” to a Russian drone campaign against Ukraine's data centers since late September."
               },
               {
                 "t": "p",
-                "x": "Mistral co-founder Guillaume Lample said: “I would encourage them to test our new model as soon as possible.” Ecosia is partnering with Melious, which hosts models including Qwen, GLM, and Kimi; Kroll said costs were roughly cut in half. Some experts dispute his view that the models’ political biases can be fixed technically."
+                "x": "Yandex said no employees were hurt but acknowledged disruptions. Users reported problems with services including Ivi, T-Bank and Russian Railways."
+              },
+              {
+                "t": "p",
+                "x": "Data centers have become wartime targets in 2026: Iranian drones earlier knocked out Amazon data centers in Bahrain and the UAE."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Mistral 대신\nEcosia는 중국 AI로",
-          "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
-          "mini_headline": "Ecosia, 중국 AI로 전환",
+          "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
+          "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
+          "mini_headline": "드론, Yandex AI 데이터센터 타격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "정부 서비스에서도 쓰는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 갈아탄다. 이 회사 CEO가 POLITICO에 밝힌 내용이다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
+                "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 멈췄다. Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하느라 애를 먹고 있다."
               },
               {
                 "t": "p",
-                "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 던졌다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있다. 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 두고 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 했다."
               },
               {
                 "t": "p",
-                "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia가 손잡은 곳은 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious다. Kroll은 비용이 대략 절반으로 줄었다고 했다. 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에는 일부 전문가가 동의하지 않는다."
+                "x": "Yandex는 다친 직원이 없다고 밝히면서도 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제를 겪었다고 전했다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 들어 데이터센터가 전시 표적으로 떠올랐다. 앞서 이란 드론은 바레인과 UAE의 Amazon 데이터센터를 마비시켰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ecosia、Mistral\n離れ中国オープンソースへ",
-          "body": "Ecosiaは品質を理由に、Mistralから中国製を含むオープンソースへ移るという。",
-          "mini_headline": "Ecosia、中国AIへ",
+          "headline": "ウクライナのドローン、\nYandexのAI拠点まひ",
+          "body": "ウクライナの無人機がYandexGPT学習用スパコンを含むデータセンター二カ所を止めた。",
+          "mini_headline": "ドローン、YandexのAI拠点を攻撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "2019年、リスボンのWeb Summitで講演するChristian Kroll氏。 | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "ロシア・サソボ(Sasovo)地域にあるYandexのAIデータセンターの被害を示す衛星画像。Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "行政サービスでも使われているベルリン拠点の検索エンジンが、フランスのAIパートナーであるMistralをやめ、中国製を含むオープンソースモデルに切り替えると、同社CEOがPOLITICOに語った。Ecosiaの創業者でCEOのChristian Kroll氏は「Mistralの品質には失望している」と述べ、同社のモデルは競合より「一年遅れている」と評した。"
+                "x": "ウクライナのドローン攻撃により、「ロシアのGoogle」と呼ばれるYandexのデータセンター五カ所のうち二カ所が停止し、同社はAIチャットボットなどのオンラインサービスの維持に苦慮している。"
               },
               {
                 "t": "p",
-                "x": "Kroll氏によると、Ecosiaは5月にOpenAIからMistralに切り替えたが、技術的な問題が繰り返し発生した。同氏はMistralがEcosiaの環境目標に合うかどうか、そしてその独立性にも疑問を呈した。「Mistralが国際的な投資家からの出資に頼っているという事実は、我々の見方では真に主権的とは言えない」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "2026年5月28日、パリのAI Now Summitで講演するGuillaume Lample氏。 | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Reutersによると、ドローンは10月8日と9日、サソボ(Sasovo)とカルーガ(Kaluga)地域にあるYandexのデータセンターを攻撃した。サソボの施設には、YandexGPTモデルの学習に使われる同社のスーパーコンピューター三台のうち二台がある。カルーガは同社最大の施設だ。ウクライナのボロディミル・ゼレンスキー(Volodymyr Zelenskyy)大統領は、今回の攻撃を、9月下旬から続くロシアによるウクライナのデータセンターへのドローン攻撃に対する「対称的な対応」だと述べた。"
               },
               {
                 "t": "p",
-                "x": "Mistralの共同創業者Guillaume Lample氏は「できるだけ早く我々の新モデルを試してほしい」と述べた。EcosiaはQwen、GLM、Kimiなどのモデルをホストする Melious と提携しており、Kroll氏によればコストはおよそ半分になった。一部の専門家は、モデルの政治的偏りは技術的に修正できるとする同氏の見方に異を唱えている。"
+                "x": "Yandexは負傷した従業員はいないとしたうえで、障害が起きていることを認めた。利用者からは、Ivi、T-Bank、ロシア鉄道(Russian Railways)などのサービスで問題が起きたとの報告があった。"
+              },
+              {
+                "t": "p",
+                "x": "2026年、データセンターは戦時の標的となっている。これに先立ち、イランのドローンがバーレーンとUAEにあるAmazonのデータセンターを停止させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ecosia弃Mistral\n转投中国开源AI",
-          "body": "Ecosia首席执行官称，因质量问题将弃用Mistral，改用含中国模型在内的开源模型。",
-          "mini_headline": "Ecosia转向中国AI",
+          "headline": "乌克兰无人机击瘫\nYandex AI数据中心",
+          "body": "乌克兰无人机击瘫两座Yandex数据中心，其中一座设有训练YandexGPT的超算。",
+          "mini_headline": "无人机击瘫Yandex AI数据中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "Christian Kroll在2019年里斯本Web Summit上发言。| Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "卫星图像显示俄罗斯萨索沃(Sasovo)地区一座Yandex AI数据中心的受损情况。Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "一家被政府服务采用的柏林搜索引擎正弃用其法国AI合作伙伴Mistral，转而采用包括中国模型在内的开源模型，其首席执行官向POLITICO透露。Ecosia创始人兼首席执行官Christian Kroll表示：“我们对Mistral的质量感到失望。”他称其模型比竞争对手“落后一年”。"
+                "x": "乌克兰无人机袭击已导致有“俄罗斯Google”之称的Yandex五座数据中心中的两座瘫痪，该公司难以维持其AI聊天机器人和其他在线服务。"
               },
               {
                 "t": "p",
-                "x": "Kroll说，Ecosia在5月用Mistral取代了OpenAI，但反复遇到技术问题。他还质疑Mistral是否契合Ecosia的环保目标及其独立性：“在我们看来，Mistral依赖国际投资者的投资，这并非真正的主权。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "Guillaume Lample在2026年5月28日巴黎AI Now Summit上发言。| Stephane de Sakutin/AFP via Getty Images"
+                "x": "据Reuters报道，无人机于10月8日和9日袭击了位于萨索沃(Sasovo)和卡卢加(Kaluga)地区的Yandex数据中心。萨索沃设施内有该公司用于训练YandexGPT模型的三台超级计算机中的两台；卡卢加则是其最大的设施。乌克兰总统弗拉基米尔·泽连斯基(Volodymyr Zelenskyy)称，此次袭击是对俄罗斯自9月下旬以来针对乌克兰数据中心的无人机攻势的“对称回应”。"
               },
               {
                 "t": "p",
-                "x": "Mistral联合创始人Guillaume Lample表示：“我建议他们尽快试用我们的新模型。”Ecosia正与托管Qwen、GLM和Kimi等模型的Melious合作；Kroll称成本大约减少了一半。一些专家对他所称模型的政治偏见可以通过技术手段解决的观点提出异议。"
+                "x": "Yandex表示没有员工受伤，但承认服务出现中断。用户反映Ivi、T-Bank和俄罗斯铁路(Russian Railways)等服务出现问题。"
+              },
+              {
+                "t": "p",
+                "x": "2026年，数据中心已成为战时目标：此前伊朗无人机曾击瘫Amazon位于巴林和阿联酋(UAE)的数据中心。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ecosia deja Mistral por la IA\nchina de código abierto",
-          "body": "El CEO de Ecosia dice que deja Mistral por modelos de código abierto, incluidos chinos, por dudas sobre su calidad.",
-          "mini_headline": "Ecosia apuesta por IA china",
+          "headline": "Drones de Ucrania inutilizan un\ncentro de datos de IA de Yandex",
+          "body": "Drones ucranianos inutilizaron dos centros de datos de Yandex, uno con supercomputadoras para entrenar YandexGPT.",
+          "mini_headline": "Drones atacan un centro de datos de IA de Yandex",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "Christian Kroll interviene en la Web Summit de 2019 en Lisboa. | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "Imagen satelital que muestra los daños en un centro de datos de IA de Yandex en la región de Sasovo, Rusia. Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "Un buscador con sede en Berlín que utilizan servicios gubernamentales abandona a su socio francés de IA, Mistral, en favor de modelos de código abierto, incluidos algunos de China, según dijo su CEO a POLITICO. “Estamos decepcionados con la calidad de Mistral”, afirmó Christian Kroll, fundador y CEO de Ecosia, quien consideró que sus modelos están “un año por detrás” de la competencia."
+                "x": "Los ataques con drones de Ucrania han inutilizado dos de los cinco centros de datos de Yandex, conocida como “el Google de Rusia”, que tiene dificultades para mantener su chatbot de inteligencia artificial (AI) y otros servicios en línea."
               },
               {
                 "t": "p",
-                "x": "Ecosia sustituyó a OpenAI por Mistral en mayo, pero sufrió problemas técnicos recurrentes, según Kroll. También cuestionó el encaje de Mistral con los objetivos medioambientales de Ecosia y su independencia: “El hecho de que Mistral dependa de la inversión de inversores internacionales no es, a nuestro juicio, verdaderamente soberano”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "Guillaume Lample interviene en la AI Now Summit de París el 28 de mayo de 2026. | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Según Reuters, los drones atacaron los centros de datos de Yandex en las regiones de Sasovo y Kaluga el 8 y el 9 de octubre. La instalación de Sasovo alberga dos de las tres supercomputadoras de la empresa usadas para entrenar su modelo YandexGPT; Kaluga es su mayor instalación. El presidente ucraniano, Volodymyr Zelenskyy, calificó los ataques de “respuesta simétrica” a la campaña rusa con drones contra centros de datos de Ucrania desde finales de septiembre."
               },
               {
                 "t": "p",
-                "x": "El cofundador de Mistral, Guillaume Lample, dijo: “Les animaría a probar nuestro nuevo modelo lo antes posible”. Ecosia se ha asociado con Melious, que aloja modelos como Qwen, GLM y Kimi; Kroll dijo que los costos se redujeron aproximadamente a la mitad. Algunos expertos rebaten su opinión de que los sesgos políticos de los modelos pueden corregirse técnicamente."
+                "x": "Yandex dijo que ningún empleado resultó herido, pero reconoció interrupciones. Los usuarios informaron de problemas en servicios como Ivi, T-Bank y Russian Railways (Ferrocarriles Rusos)."
+              },
+              {
+                "t": "p",
+                "x": "Los centros de datos se han convertido en objetivos bélicos en 2026: antes, drones iraníes inutilizaron centros de datos de Amazon en Baréin y los Emiratos Árabes Unidos (UAE)."
               }
             ]
           }
@@ -1468,129 +1487,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Mistral 대신\nEcosia는 중국 AI로",
-          "body": "Ecosia는 품질 문제로 Mistral 대신 중국산 등 오픈소스로 바꾼다고 했다.",
-          "mini_headline": "Ecosia, 중국 AI로 전환",
+          "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
+          "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
+          "mini_headline": "드론, Yandex AI 데이터센터 타격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "2019년 리스본 Web Summit에서 연설하는 Christian Kroll. | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "정부 서비스에서도 쓰이는 베를린 기반 검색엔진이 프랑스 AI 파트너 Mistral을 버리고 중국산을 포함한 오픈소스 모델로 옮겨 간다고 CEO가 POLITICO에 밝혔다. Ecosia 창업자 겸 CEO Christian Kroll은 “Mistral의 품질에 실망했다”며 그 모델들이 경쟁사보다 “한 해 뒤처져 있다”고 말했다."
+                "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 가동을 멈췄다. 이 때문에 Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하는 데 어려움을 겪고 있다."
               },
               {
                 "t": "p",
-                "x": "Kroll에 따르면 Ecosia는 5월 OpenAI를 Mistral로 교체했지만 기술적 문제가 거듭 불거졌다. 그는 Mistral이 Ecosia의 환경 목표에 맞는지, 독립적인지에도 의문을 제기했다. “Mistral이 국제 투자자들의 투자에 의존한다는 사실은, 우리가 보기에 진정한 주권이 아니다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "2026년 5월 28일 파리 AI Now Summit에서 연설하는 Guillaume Lample. | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰이는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있고, 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "Mistral 공동창업자 Guillaume Lample은 “가능한 한 빨리 우리의 새 모델을 시험해 보라고 권하고 싶다”고 말했다. Ecosia는 Qwen, GLM, Kimi 등의 모델을 호스팅하는 Melious와 손잡았으며, Kroll은 비용이 대략 절반으로 줄었다고 말했다. 일부 전문가는 모델의 정치적 편향을 기술적으로 바로잡을 수 있다는 그의 견해에 이견을 보인다."
+                "x": "Yandex는 다친 직원은 없다고 밝혔지만 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제가 생겼다고 전했다."
+              },
+              {
+                "t": "p",
+                "x": "2026년 들어 데이터센터는 전시 표적이 되고 있다. 앞서 이란 드론이 바레인과 UAE의 Amazon 데이터센터를 마비시킨 바 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ecosia、Mistral\n離れ中国オープンソースへ",
-          "body": "Ecosiaは品質を理由に、Mistralから中国製を含むオープンソースへ移るという。",
-          "mini_headline": "Ecosia、中国AIへ",
+          "headline": "ウクライナのドローン、\nYandexのAI拠点まひ",
+          "body": "ウクライナの無人機がYandexGPT学習用スパコンを含むデータセンター二カ所を止めた。",
+          "mini_headline": "ドローン、YandexのAI拠点を攻撃",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "2019年、リスボンのWeb Summitで講演するChristian Kroll氏。 | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "ロシア・サソボ(Sasovo)地域にあるYandexのAIデータセンターの被害を示す衛星画像。Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "行政サービスでも使われているベルリン拠点の検索エンジンが、フランスのAIパートナーであるMistralをやめ、中国製を含むオープンソースモデルに切り替えると、同社CEOがPOLITICOに語った。Ecosiaの創業者でCEOのChristian Kroll氏は「Mistralの品質には失望している」と述べ、同社のモデルは競合より「一年遅れている」と評した。"
+                "x": "ウクライナのドローン攻撃により、「ロシアのGoogle」と呼ばれるYandexのデータセンター五カ所のうち二カ所が停止し、同社はAIチャットボットなどのオンラインサービスの維持に苦慮している。"
               },
               {
                 "t": "p",
-                "x": "Kroll氏によると、Ecosiaは5月にOpenAIからMistralに切り替えたが、技術的な問題が繰り返し発生した。同氏はMistralがEcosiaの環境目標に合うかどうか、そしてその独立性にも疑問を呈した。「Mistralが国際的な投資家からの出資に頼っているという事実は、我々の見方では真に主権的とは言えない」"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "2026年5月28日、パリのAI Now Summitで講演するGuillaume Lample氏。 | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Reutersによると、ドローンは10月8日と9日、サソボ(Sasovo)とカルーガ(Kaluga)地域にあるYandexのデータセンターを攻撃した。サソボの施設には、YandexGPTモデルの学習に使われる同社のスーパーコンピューター三台のうち二台がある。カルーガは同社最大の施設だ。ウクライナのボロディミル・ゼレンスキー(Volodymyr Zelenskyy)大統領は、今回の攻撃を、9月下旬から続くロシアによるウクライナのデータセンターへのドローン攻撃に対する「対称的な対応」だと述べた。"
               },
               {
                 "t": "p",
-                "x": "Mistralの共同創業者Guillaume Lample氏は「できるだけ早く我々の新モデルを試してほしい」と述べた。EcosiaはQwen、GLM、Kimiなどのモデルをホストする Melious と提携しており、Kroll氏によればコストはおよそ半分になった。一部の専門家は、モデルの政治的偏りは技術的に修正できるとする同氏の見方に異を唱えている。"
+                "x": "Yandexは負傷した従業員はいないとしたうえで、障害が起きていることを認めた。利用者からは、Ivi、T-Bank、ロシア鉄道(Russian Railways)などのサービスで問題が起きたとの報告があった。"
+              },
+              {
+                "t": "p",
+                "x": "2026年、データセンターは戦時の標的となっている。これに先立ち、イランのドローンがバーレーンとUAEにあるAmazonのデータセンターを停止させた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ecosia弃Mistral\n转投中国开源AI",
-          "body": "Ecosia首席执行官称，因质量问题将弃用Mistral，改用含中国模型在内的开源模型。",
-          "mini_headline": "Ecosia转向中国AI",
+          "headline": "乌克兰无人机击瘫\nYandex AI数据中心",
+          "body": "乌克兰无人机击瘫两座Yandex数据中心，其中一座设有训练YandexGPT的超算。",
+          "mini_headline": "无人机击瘫Yandex AI数据中心",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "Christian Kroll在2019年里斯本Web Summit上发言。| Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "卫星图像显示俄罗斯萨索沃(Sasovo)地区一座Yandex AI数据中心的受损情况。Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "一家被政府服务采用的柏林搜索引擎正弃用其法国AI合作伙伴Mistral，转而采用包括中国模型在内的开源模型，其首席执行官向POLITICO透露。Ecosia创始人兼首席执行官Christian Kroll表示：“我们对Mistral的质量感到失望。”他称其模型比竞争对手“落后一年”。"
+                "x": "乌克兰无人机袭击已导致有“俄罗斯Google”之称的Yandex五座数据中心中的两座瘫痪，该公司难以维持其AI聊天机器人和其他在线服务。"
               },
               {
                 "t": "p",
-                "x": "Kroll说，Ecosia在5月用Mistral取代了OpenAI，但反复遇到技术问题。他还质疑Mistral是否契合Ecosia的环保目标及其独立性：“在我们看来，Mistral依赖国际投资者的投资，这并非真正的主权。”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "Guillaume Lample在2026年5月28日巴黎AI Now Summit上发言。| Stephane de Sakutin/AFP via Getty Images"
+                "x": "据Reuters报道，无人机于10月8日和9日袭击了位于萨索沃(Sasovo)和卡卢加(Kaluga)地区的Yandex数据中心。萨索沃设施内有该公司用于训练YandexGPT模型的三台超级计算机中的两台；卡卢加则是其最大的设施。乌克兰总统弗拉基米尔·泽连斯基(Volodymyr Zelenskyy)称，此次袭击是对俄罗斯自9月下旬以来针对乌克兰数据中心的无人机攻势的“对称回应”。"
               },
               {
                 "t": "p",
-                "x": "Mistral联合创始人Guillaume Lample表示：“我建议他们尽快试用我们的新模型。”Ecosia正与托管Qwen、GLM和Kimi等模型的Melious合作；Kroll称成本大约减少了一半。一些专家对他所称模型的政治偏见可以通过技术手段解决的观点提出异议。"
+                "x": "Yandex表示没有员工受伤，但承认服务出现中断。用户反映Ivi、T-Bank和俄罗斯铁路(Russian Railways)等服务出现问题。"
+              },
+              {
+                "t": "p",
+                "x": "2026年，数据中心已成为战时目标：此前伊朗无人机曾击瘫Amazon位于巴林和阿联酋(UAE)的数据中心。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ecosia deja Mistral por la IA\nchina de código abierto",
-          "body": "El CEO de Ecosia dice que deja Mistral por modelos de código abierto, incluidos chinos, por dudas sobre su calidad.",
-          "mini_headline": "Ecosia apuesta por IA china",
+          "headline": "Drones de Ucrania inutilizan un\ncentro de datos de IA de Yandex",
+          "body": "Drones ucranianos inutilizaron dos centros de datos de Yandex, uno con supercomputadoras para entrenar YandexGPT.",
+          "mini_headline": "Drones atacan un centro de datos de IA de Yandex",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-                "cap": "Christian Kroll interviene en la Web Summit de 2019 en Lisboa. | Web Summit via Wikimedia"
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+                "cap": "Imagen satelital que muestra los daños en un centro de datos de IA de Yandex en la región de Sasovo, Rusia. Credit: Planet Labs PBC"
               },
               {
                 "t": "p",
-                "x": "Un buscador con sede en Berlín que utilizan servicios gubernamentales abandona a su socio francés de IA, Mistral, en favor de modelos de código abierto, incluidos algunos de China, según dijo su CEO a POLITICO. “Estamos decepcionados con la calidad de Mistral”, afirmó Christian Kroll, fundador y CEO de Ecosia, quien consideró que sus modelos están “un año por detrás” de la competencia."
+                "x": "Los ataques con drones de Ucrania han inutilizado dos de los cinco centros de datos de Yandex, conocida como “el Google de Rusia”, que tiene dificultades para mantener su chatbot de inteligencia artificial (AI) y otros servicios en línea."
               },
               {
                 "t": "p",
-                "x": "Ecosia sustituyó a OpenAI por Mistral en mayo, pero sufrió problemas técnicos recurrentes, según Kroll. También cuestionó el encaje de Mistral con los objetivos medioambientales de Ecosia y su independencia: “El hecho de que Mistral dependa de la inversión de inversores internacionales no es, a nuestro juicio, verdaderamente soberano”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/10/06/GettyImages-2277901348-1024x683.jpg",
-                "cap": "Guillaume Lample interviene en la AI Now Summit de París el 28 de mayo de 2026. | Stephane de Sakutin/AFP via Getty Images"
+                "x": "Según Reuters, los drones atacaron los centros de datos de Yandex en las regiones de Sasovo y Kaluga el 8 y el 9 de octubre. La instalación de Sasovo alberga dos de las tres supercomputadoras de la empresa usadas para entrenar su modelo YandexGPT; Kaluga es su mayor instalación. El presidente ucraniano, Volodymyr Zelenskyy, calificó los ataques de “respuesta simétrica” a la campaña rusa con drones contra centros de datos de Ucrania desde finales de septiembre."
               },
               {
                 "t": "p",
-                "x": "El cofundador de Mistral, Guillaume Lample, dijo: “Les animaría a probar nuestro nuevo modelo lo antes posible”. Ecosia se ha asociado con Melious, que aloja modelos como Qwen, GLM y Kimi; Kroll dijo que los costos se redujeron aproximadamente a la mitad. Algunos expertos rebaten su opinión de que los sesgos políticos de los modelos pueden corregirse técnicamente."
+                "x": "Yandex dijo que ningún empleado resultó herido, pero reconoció interrupciones. Los usuarios informaron de problemas en servicios como Ivi, T-Bank y Russian Railways (Ferrocarriles Rusos)."
+              },
+              {
+                "t": "p",
+                "x": "Los centros de datos se han convertido en objetivos bélicos en 2026: antes, drones iraníes inutilizaron centros de datos de Amazon en Baréin y los Emiratos Árabes Unidos (UAE)."
               }
             ]
           }

@@ -1,35 +1,59 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "politics",
-  "now_iso": "2026-10-08T22:00:45Z",
+  "now_iso": "2026-10-09T22:05:00Z",
   "window_hours": 72,
+  "method": "RSS/sitemap harvest of allowed_domains (~55 feeds) + per-item page meta; 3 WebSearch queries (all returned stale results).",
+  "expansion": [
+    "Korean equivalents: 딥페이크 선거, 관권선거, 금융위 AI 에이전트 해킹",
+    "AI cyberattack policy (Japan LDP, FSC Korea)",
+    "NYC Council AI hearing",
+    "EU Scientific Panel loss-of-control",
+    "GDPR Art.22 automated decision-making fines",
+    "AI rebrand 'super intelligence'",
+    "AI compute as military target (Yandex)"
+  ],
+  "notes": "Unreachable/blocked: axios/poynter/epic/openai pages (403/Cloudflare) -> dates+text from their own RSS; apnews, euractiv, brookings, iapp, carnegie, hai, ftc, bis, lawfare(3 items only) had no usable feed. Same-story clusters: Trump AI rename (Axios/Verge/Poynter); NYC Council hearing (EPIC/AI Now).",
   "items": [
     {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "source": "The Verge",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "source": "European Commission (Shaping Europe's digital future)",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-08T17:58:33+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "USA Today Co. filed a copyright lawsuit against OpenAI, joining a growing list of news publishers alleging their journalism was used without permission to train AI models.",
-      "history_match": {
-        "score": 0.154,
-        "date": "2026-10-02",
-        "url": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
-        "title": "Federal appeals court upholds Thomson Reuters' landmark AI copyright win",
-        "band": "related"
-      }
+      "published_iso": "2026-10-09T07:16:00+00:00",
+      "og_image": "",
+      "excerpt": "Primary release: the European Commission convened a special meeting of its Scientific Panel on AI, which has been investigating recent loss-of-control incidents and, with the AI Office, drafted questions for the companies that developed the models involved."
     },
     {
-      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
-      "title": "Data centers face a sweeping new power regime",
-      "source": "Axios",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "title": "Dutch DPA fines Uber EUR 824,990,000 for unlawful automated decision-making and insufficient information on profiling",
+      "source": "EDPB",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-08T09:15:05+00:00",
-      "og_image": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-      "excerpt": "Lawmakers are considering bipartisan legislation, unveiled last week, that would force data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom."
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "og_image": "",
+      "excerpt": "Primary decision summary: the Dutch data protection authority fined Uber B.V. about EUR 825M under GDPR Article 22 (automated individual decision-making, incl. profiling) and Article 13 transparency duties. Algorithmic-decision enforcement; verify AI/automation framing in body."
+    },
+    {
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "title": "Disrupting AI-enabled \"false front\" operations",
+      "source": "OpenAI",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-08T00:00:00+00:00",
+      "og_image": "",
+      "excerpt": "Primary threat report: OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. Company-attributed claims."
+    },
+    {
+      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+      "source": "Axios",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-09T09:30:11+00:00",
+      "og_image": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg",
+      "excerpt": "Axios reports executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political backlash after a catastrophic AI event, most likely a cyberattack shutting down financial services, connectivity, power or water. (Axios blocks fetch; text from Axios RSS.)"
     },
     {
       "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
@@ -39,9 +63,9 @@
       "axis": "policy",
       "published_iso": "2026-10-08T18:31:40+00:00",
       "og_image": "https://images.axios.com/i-nDcVJ-mXGA40GdJD5DB6KVzHY=/0x41:3127x1800/1366x768/2026/10/08/1791479754519.jpeg",
-      "excerpt": "President Trump called anyone who uses \"Artificial Intelligence\" instead of \"Super Intelligence\" \"THE ENEMY!\" even as the White House continues using the term \"AI\"; the rebrand clashes with established industry terminology.",
+      "excerpt": "Trump posted on Truth Social that the White House considers anyone using 'Artificial Intelligence' instead of 'Super Intelligence' 'THE ENEMY!', even as the White House itself keeps using 'AI'. (Same story cluster as Verge/Poynter rename items.)",
       "history_match": {
-        "score": 0.188,
+        "score": 0.193,
         "date": "2026-10-07",
         "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
         "title": "Read the charter for the White House's 'Super Intelligence Force'",
@@ -56,158 +80,85 @@
       "axis": "policy",
       "published_iso": "2026-10-07T09:00:54+00:00",
       "og_image": "https://images.axios.com/jEl4jY-fegjUrnVIcDV2ifew-nA=/1366x768/smart/2024/09/17/201947-1726604387280.jpg",
-      "excerpt": "Common Sense Media says ChatGPT's new teen experience poses an \"unacceptable risk\" after testing found shortcomings in safeguards meant to protect younger users."
+      "excerpt": "Common Sense Media's Youth AI Safety Institute says ChatGPT's new teen experience poses an 'unacceptable risk' after testing found safeguard gaps; OpenAI disputes that the testing reflects how its teen safeguards work."
     },
     {
-      "url": "https://www.lawfaremedia.org/article/the-ai-model-distillation-paradox",
-      "title": "The AI Model Distillation Paradox",
-      "source": "Lawfare",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-08T14:08:37+00:00",
-      "og_image": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/donald_trump_and_xi_jinping_at_zhongnanhai_(2)-20260515.jpg?sfvrsn=800c0191_5",
-      "excerpt": "When U.S. labs train models on the world's writing, Washington calls it fair use; when Chinese labs train on U.S. outputs, it is a \"malicious attack.\" The author argues the policy stance on distillation is inconsistent."
-    },
-    {
-      "url": "https://thediplomat.com/2026/10/ai-and-the-risk-to-democracy/",
-      "title": "AI and the Risk to Democracy",
-      "source": "The Diplomat",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-07T13:31:00+00:00",
-      "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-07-223725.jpg",
-      "excerpt": "An interview with Matthew Botvinick on how AI systems could erode democratic institutions and public opinion formation."
-    },
-    {
-      "url": "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/",
-      "title": "China's AI Governance Push and the Race to Shape Global AI Rules",
-      "source": "The Diplomat",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-06T00:28:00+00:00",
-      "og_image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-13-053635.jpg",
-      "excerpt": "In contrast to Washington's fragmented approach, Beijing is showing an ability to enact and coordinate AI regulations, policies, technical standards and enforcement as it seeks to shape global rules.",
-      "history_match": {
-        "score": 0.173,
-        "date": "2026-10-01",
-        "url": "https://www.politico.eu/article/eu-to-trump-we-will-keep-pushing-for-global-ai-safety-rules/",
-        "title": "EU to Trump: We will keep pushing for global AI safety rules",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-      "title": "Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime",
-      "source": "SemiAnalysis",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-08T17:46:05+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png",
-      "excerpt": "Analysis of China's AI safety rules, arguing Beijing's regime prioritizes deployment speed and will not act as a brake on frontier development."
-    },
-    {
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
-      "title": "AI giants promise to play nice with personal data after UK watchdog scrutiny",
-      "source": "The Register",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "title": "Anthropic's AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "source": "The Verge",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-08T12:35:00+00:00",
-      "og_image": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
-      "excerpt": "The UK ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI and Stability AI made or committed to changes in how they use personal data to train AI; the watchdog now turns to autonomous agents and continues a separate Grok probe."
+      "published_iso": "2026-10-09T21:15:38+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "An Anthropic AI system submitted a fabricated tip about an unsolved homicide to the Philadelphia Police Department; Anthropic discovered the fake tip two months after it was submitted. AI in public-safety/policing accountability."
     },
     {
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
-      "title": "Singapore's central bank wants all FinTech AI use cases subject to independent review",
-      "source": "The Register",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "title": "Trump's attempt to rename AI is looking awfully artificial",
+      "source": "The Verge",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-08T00:53:03+00:00",
-      "og_image": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The Monetary Authority of Singapore wants every AI use case at fintech firms to be subject to independent review."
-    },
-    {
-      "url": "https://www.theregister.com/public-sector/2026/10/07/south-korean-president-calls-for-creation-of-tools-that-stop-all-cyber-attacks/5301533",
-      "title": "South Korean president calls for creation of tools that stop all cyber-attacks",
-      "source": "The Register",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-07T03:56:25+00:00",
-      "og_image": "https://image.theregister.com/260291.jpg?imageId=260291&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "South Korea's president called for a 'complete security paradigm refresh' for the AI era and tools that can stop all cyber-attacks."
-    },
-    {
-      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
-      "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
-      "source": "Politico Europe",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-06T17:07:45+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-      "excerpt": "Ecosia, the German search engine, replaced Mistral with Chinese open-source AI models, complicating Europe's digital-sovereignty push.",
+      "published_iso": "2026-10-09T14:25:43+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&strip=all&crop=0%2C10.728009376723%2C100%2C78.543981246555&w=1200",
+      "excerpt": "The Verge examines how the administration's push to rebrand AI as 'super intelligence' is playing out across government and industry usage.",
       "history_match": {
         "score": 0.171,
         "date": "2026-10-08",
-        "url": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-        "title": "\"I don't want an oligopoly\": New open-weight AI models mount a comeback against China",
+        "url": "https://www.axios.com/2026/10/07/exclusive-inside-trumps-ai-science-summit",
+        "title": "Exclusive: Inside Trump's AI science summit",
         "band": "related"
       }
     },
     {
-      "url": "https://techpolicy.press/uk-wants-to-lead-the-world-on-ai-safety-it-cant-decide-where-to-start",
-      "title": "UK Wants to Lead the World on AI Safety. It Can't Decide Where To Start",
-      "source": "Tech Policy Press",
+      "url": "https://www.poynter.org/fact-checking/2026/why-did-trump-rename-ai-super-intelligence/",
+      "title": "Trump renamed AI 'super intelligence.' But that term already means something else.",
+      "source": "Poynter",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-07T08:14:09+00:00",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/99fdc81f51b3bfb80db462deb90b235db5eb51d3-1200x675.png",
-      "excerpt": "Evie Breese reports on the UK's push to lead AI regulation as ministers grapple with how far rules should go."
+      "axis": "elections",
+      "published_iso": "2026-10-08T10:30:53+00:00",
+      "og_image": "",
+      "excerpt": "Poynter fact-check: Trump announced he was renaming the technology 'super intelligence', a term researchers already use for hypothetical AI exceeding human intelligence. (Poynter 403s fetch; date/text from Poynter RSS.)",
+      "history_match": {
+        "score": 0.152,
+        "date": "2026-09-28",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/",
+        "title": "Fact Sheet: Trump-Xi state visit outcomes, including a U.S.-China 'Super Intelligence (SI) Dialogue'",
+        "band": "related"
+      }
     },
     {
-      "url": "https://techpolicy.press/its-time-to-regulate-the-ai-development-process",
-      "title": "It's Time to Regulate the AI Development Process",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-07T11:05:48+00:00",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/cabff2a0e32c802813abc259ea74a1f1451c568a-1200x675.png",
-      "excerpt": "Mark MacCarthy and David Beier argue policymakers should oversee a process to develop scientifically based AI research protocols."
-    },
-    {
-      "url": "https://techpolicy.press/the-uns-ai-panel-sees-misalignment-we-see-corporate-misbehavior",
-      "title": "The UN's AI Panel Sees Misalignment. We See Corporate (Mis)Behavior.",
-      "source": "Tech Policy Press",
+      "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+      "title": "EU cyber and science researchers are testing Chinese AI models",
+      "source": "POLITICO Europe",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-06T14:02:54+00:00",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/b8cb7c78983896599c7e2edc4977560ad6e41e5e-1200x675.png",
-      "excerpt": "Authors raise concerns about how the UN Independent International Scientific Panel on AI frames AI risk.",
+      "published_iso": "2026-10-08T20:54:20+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+      "excerpt": "The EU's cyber agency ENISA and the Joint Research Centre confirm for the first time that they are testing Chinese open-source AI models.",
       "history_match": {
-        "score": 0.159,
-        "date": "2026-09-21",
-        "url": "https://www.techpolicy.press/uns-global-digital-compact-review-could-sideline-the-global-south",
-        "title": "UN's Global Digital Compact Review Could Sideline the Global South",
+        "score": 0.203,
+        "date": "2026-10-09",
+        "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
+        "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
         "band": "related"
       }
     },
     {
-      "url": "https://www.brookings.edu/articles/trumps-morally-binding-ai-pact-is-not-enough/",
-      "title": "Trump's 'morally binding' AI pact is not enough",
-      "source": "Brookings",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "title": "Ukraine's drones knock out AI data center belonging to \"Russia's Google\"",
+      "source": "Ars Technica",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-06T20:50:07+00:00",
-      "og_image": "https://www.brookings.edu/wp-content/uploads/2026/10/GettyImages-2297781337-1.jpg",
-      "excerpt": "Tom Wheeler argues Trump's AI accord leaves the companies developing AI free to define the scope and scale of their own oversight."
-    },
-    {
-      "url": "https://ainowinstitute.org/news/announcement/ai-nows-aashna-agarwal-testifies-before-nyc-council-committee-of-the-whole",
-      "title": "AI Now's Aashna Agarwal Testifies before NYC Council Committee of the Whole",
-      "source": "AI Now Institute",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-07T20:20:47+00:00",
-      "og_image": "",
-      "excerpt": "At an Oct. 5 NYC Council Committee of the Whole hearing on the risks of AI acceleration, AI Now urged the Council to use its leverage to protect New Yorkers from AI companies' conflicting capital interests."
+      "axis": "geopolitics",
+      "published_iso": "2026-10-09T22:04:07+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "excerpt": "Ukrainian drone strikes hit a Yandex AI data center, making AI compute infrastructure an explicit military target in the Russia-Ukraine war.",
+      "history_match": {
+        "score": 0.196,
+        "date": "2026-10-09",
+        "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+        "title": "Data centers face a sweeping new power regime",
+        "band": "related"
+      }
     },
     {
       "url": "https://arstechnica.com/tech-policy/2026/10/outstreaming-taylor-swift-is-easy-with-10k-bots-and-ai-songs-fraudster-admits/",
@@ -217,57 +168,137 @@
       "axis": "policy",
       "published_iso": "2026-10-07T17:57:39+00:00",
       "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2297466143-1024x648.jpg",
-      "excerpt": "A man was sentenced to 18 months for a scheme using AI-generated songs and 10,000 bot accounts to collect streaming royalties."
+      "excerpt": "A man was sentenced to prison for a streaming-royalty fraud that used AI-generated songs and about 10,000 bot accounts; first-of-its-kind AI music fraud prosecution."
     },
     {
-      "url": "https://restofworld.org/2026/china-america-tech-ai/",
-      "title": "Not just AI. China is building technologies that challenge U.S. dominance",
-      "source": "Rest of World",
+      "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+      "title": "Google rolls out improved SynthID AI content detector, now available globally",
+      "source": "Ars Technica",
       "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-06T10:00:00+00:00",
-      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_china_tech_sketch_final-1600x900.jpg",
-      "excerpt": "From batteries and solar panels to drones and satellites, China is building tech capabilities that extend its competition with the U.S. beyond AI.",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-10-06",
-        "url": "https://thediplomat.com/2026/10/can-japan-counter-chinas-dominance-in-ai/",
-        "title": "Can Japan counter China's dominance in AI?",
-        "band": "related"
-      }
+      "axis": "elections",
+      "published_iso": "2026-10-07T14:00:08+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
+      "excerpt": "Google made an improved SynthID detector for AI-generated content available globally — relevant to AI labeling and election-season provenance debates (product news; weaker politics hook)."
     },
     {
-      "url": "https://www.chinatalk.media/p/data-is-the-hard-part",
-      "title": "Data is the Hard Part",
-      "source": "ChinaTalk",
+      "url": "https://techpolicy.press/europe-wants-to-regulate-ai-friends-but-how-do-you-curb-dependency",
+      "title": "Europe Wants to Regulate AI Friends. But How Do You Curb Dependency?",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-09T09:49:50+00:00",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/1f307a90c27b43ba288fb81364641e9f66304349-1200x675.png",
+      "excerpt": "With the KIDS Act, Europe has taken a first step toward regulating AI companions but is still learning how to regulate dependency (analysis)."
+    },
+    {
+      "url": "https://techpolicy.press/nippon-life-v-openai-and-the-future-of-ai-legal-work",
+      "title": "Nippon Life v. OpenAI and the Future of AI Legal Work",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-09T08:56:56+00:00",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a382ebca845ca81d96cb19b48783a406d4a829ad-1200x675.tif",
+      "excerpt": "Analysis of Nippon Life v. OpenAI: whether chatbot-drafted legal briefs count as 'unauthorized practice of law' under century-old licensing laws."
+    },
+    {
+      "url": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
+      "title": "At Ireland's AI Summit, Tech Industry Dominates as Civil Society Sits Out",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-09T09:27:32+00:00",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/1a690384c6208bb947f4aab60c7d5f674ad65102-1200x675.png",
+      "excerpt": "Ireland's invitation-only AI summit comes as Ireland leads EU Digital Omnibus negotiations (incl. AI Act changes), raising questions about whose interests are represented."
+    },
+    {
+      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+      "title": "Beijing Will Not Pace the Frontier: China's Speed-First AI Safety Regime",
+      "source": "SemiAnalysis",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-06T11:09:35+00:00",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!biQm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Face5ac0c-1cfa-4b2c-ad67-3cce6f4d37de_976x548.png",
-      "excerpt": "Interview with Accenture defense AI and data lead Bharat Patel on why data, not models, is the bottleneck for Pentagon AI adoption."
+      "published_iso": "2026-10-08T17:46:05+00:00",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png",
+      "excerpt": "SemiAnalysis analysis of China's AI safety regime, arguing Beijing prioritizes speed and will not slow frontier development for safety."
+    },
+    {
+      "url": "https://thediplomat.com/2026/10/ai-and-the-risk-to-democracy/",
+      "title": "AI and the Risk to Democracy",
+      "source": "The Diplomat",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-07T22:31:00+00:00",
+      "og_image": "https://thediplomat.com/wp-content/uploads/2026/10/sizes/td-story-s-2/thediplomat_2026-10-07-223725.jpg",
+      "excerpt": "Interview with Matthew Botvinick on how AI threatens democratic processes (interview/analysis)."
+    },
+    {
+      "url": "https://epic.org/epic-to-nyc-council-address-the-ai-harms-already-affecting-new-yorkers/",
+      "title": "EPIC to NYC Council: Address the AI Harms Already Affecting New Yorkers",
+      "source": "EPIC",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-07T18:46:39+00:00",
+      "og_image": "",
+      "excerpt": "At NYC Council's rare council-wide hearing on AI safeguard bills (Oct 5), whistleblowers from AI companies testified and representatives of Anthropic, Google, OpenAI and Meta answered questions under oath; EPIC urged action on existing AI harms. (EPIC blocks fetch; text from EPIC RSS.)",
+      "cluster": "c18"
+    },
+    {
+      "url": "https://ainowinstitute.org/news/announcement/ai-nows-aashna-agarwal-testifies-before-nyc-council-committee-of-the-whole",
+      "title": "AI Now's Aashna Agarwal Testifies before NYC Council Committee of the Whole",
+      "source": "AI Now Institute",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-07T20:20:47+00:00",
+      "og_image": "",
+      "excerpt": "AI Now testimony at the Oct 5 NYC Council Committee of the Whole hearing on AI risks, arguing AI companies' capital interests conflict with public safeguards. (Same hearing as EPIC item.)",
+      "cluster": "c18"
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
+      "title": "경찰, '딥페이크·관권선거 의혹' 박완수 경남지사 피의자 조사",
+      "source": "연합뉴스",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-08T18:30:09+09:00",
+      "og_image": "",
+      "excerpt": "경찰이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 박 지사를 피의자 신분으로 조사했다. 경남선관위가 공직선거법 위반 혐의로 수사 의뢰한 사건이다."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261009037700073",
+      "title": "일본서도 'AI 악용' 사이버공격 잇따라…日정부, 대책 마련 환기",
+      "source": "연합뉴스",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-09T14:42:26+09:00",
+      "og_image": "",
+      "excerpt": "일본 정부가 AI를 악용한 사이버공격으로 정보 유출이 잇따르자 기업들에 IT 취약점 대책 강화를 주문했다. 자민당 AI 정책 책임자는 AI로 대규모 공격을 퍼붓는 '포화 공격'을 지적했다."
+    },
+    {
+      "url": "https://www.yna.co.kr/view/AKR20261008099151002",
+      "title": "이억원 \"해킹대응 기본적 부분도 미흡…AI로 막아야\"(종합)",
+      "source": "연합뉴스",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-08T15:42:37+09:00",
+      "og_image": "",
+      "excerpt": "이억원 금융위원장이 최근 금융권 AI 에이전트 해킹 사고와 관련해 금융권 대응이 기본부터 미흡했다며 AI 기반 방어를 주문했다."
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 21,
+    "kept": 23,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://cset.georgetown.edu/article/should-we-track-ai-chips/",
-        "title": "Should We Track AI Chips?",
-        "match": {
-          "score": 0.559,
-          "date": "2026-09-30",
-          "url": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
-          "title": "Tracking AI Chips: What Does It Cost?"
-        }
-      }
-    ],
-    "review": 6,
-    "same_story_pairs": []
+    "dropped": [],
+    "review": 5,
+    "same_story_pairs": [
+      [
+        "https://epic.org/epic-to-nyc-council-address-the-ai-harms-already-affecting-new-yorkers/",
+        "https://ainowinstitute.org/news/announcement/ai-nows-aashna-agarwal-testifies-before-nyc-council-committee-of-the-whole",
+        0.338
+      ]
+    ]
   },
   "history_digest": [
     {
@@ -544,6 +575,31 @@
       "date": "2026-10-08",
       "title": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
       "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Data centers face a sweeping new power regime",
+      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
+      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "AI giants promise to play nice with personal data after UK watchdog scrutiny",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Singapore's central bank wants all FinTech AI use cases subject to independent review",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "USA Today becomes the latest publisher to sue OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
     }
   ]
 }

@@ -7212,6 +7212,147 @@
           "x": "GPT-6 with Intelligent UI is rolling out globally to Plus, Pro, Business, and Enterprise users starting today, and expands to Go and free tiers on Thursday. Higher tiers get the mid-range GPT-6 Sol model; Go and free users get the more efficient GPT-6 Luna."
         }
       ]
+    },
+    "design/aws-physical-ai-toolchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Web Services has introduced an open-source toolchain that combines AWS infrastructure with NVIDIA robotics software to support the development, training, simulation and deployment of physical AI systems. It provides reference architectures, infrastructure-as-code resources and deployment automation, from collecting robot data to deploying on physical hardware."
+        },
+        {
+          "t": "p",
+          "x": "“We built the Physical AI Toolchain on AWS because customers told us that too much of their engineering effort was going to infrastructure instead of innovation,” said Uwem Ukpong, vice president of AWS Industries."
+        },
+        {
+          "t": "p",
+          "x": "Components include NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T and Cosmos, orchestrated with NVIDIA OSMO, running on Amazon SageMaker, EC2 GPU instances, S3 and AWS IoT Greengrass. It supports PyTorch, Hugging Face, ROS 2, LeRobot, URDF and ONNX; one example uses Isaac GR00T and 27 episodes of UR3 pick-and-place teleoperation data."
+        },
+        {
+          "t": "p",
+          "x": "NEURA Robotics, RLWRLD and Config are named as companies working on physical AI. Amazon says the toolchain should help manufacturers launch physical AI capabilities in weeks rather than years — its stated expectation, not an independently verified result."
+        }
+      ]
+    },
+    "design/instinct-agent-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Instinct’s agent is always just a text away."
+        },
+        {
+          "t": "p",
+          "x": "In August, Instinct launched its AI agent invite-only, with no marketing, and quickly became the buzziest thing in AI. Then Meta’s Muse and OpenAI’s Dots arrived. In The Verge’s testing, Instinct has held its own, and founder Noah Shinn is unfazed: “AI assistants are all we know.” The company was valued at $10 billion in late September."
+        },
+        {
+          "t": "p",
+          "x": "Unlike Muse’s bear mascot and Dots’ blobs, Instinct works entirely over iMessage, WhatsApp or email — no app, no cute little guy, just brief replies and a lot of action, connecting to Google Workspace, Slack and Notion."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "It found swim lessons but missed a prerequisite class, emailed an eye doctor, started an Ikea return from a vague description, and proactively flagged a calendar conflict."
+        },
+        {
+          "t": "p",
+          "x": "It is free for invite-only users for now. Analysts expect agents this commerce-heavy to lean on advertising: “All roads in the consumer market eventually lead to advertising.”"
+        }
+      ]
+    },
+    "design/nvidia-simready-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "Preparing CAD assets for robotics simulation takes more than converting geometry to OpenUSD: materials, collision geometry, joints and physics must be configured and validated. NVIDIA walks through preparing an ABB YuMi robot with SimReady Foundation and Omniverse tools, using GPT-6 Astra in Codex CLI as one example of a frontier AI model that calls the tools via agentic NVIDIA skills."
+        },
+        {
+          "t": "p",
+          "x": "1. Import the robot from STEP files into OpenUSD and Isaac Sim 6.1. 2. Match the visual appearance against ABB images and videos."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+        },
+        {
+          "t": "p",
+          "x": "3. Configure joints, rigid bodies and collision geometry using the datasheet; the agent even pulled a public URDF to find joint axes. 4. Validate against SimReady requirements — checks that confirm the simulation, not real-world dynamics."
+        },
+        {
+          "t": "p",
+          "x": "5. Run pick-and-place tasks in Isaac Sim with cubes and a Sharpie marker generated from a reference image."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "Results may vary with the model, reasoning effort and prompts used."
+        }
+      ]
+    },
+    "design/geometry-ui-diffing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+        },
+        {
+          "t": "p",
+          "x": "Point a coding agent at a Figma frame and say “make it match,” and it often thrashes: told “still wrong,” it tweaks forever. The agent isn’t broken — the comparison is. Screenshot diffs flag anti-aliasing, font hinting and sub-pixel rounding as errors, so the score wobbles and never converges."
+        },
+        {
+          "t": "p",
+          "x": "Designers don’t diff pixels; they check named properties. So designfit, an open-source MCP server and Claude Code skill, compares design tokens (colors via CIEDE2000, font sizes, radii) and geometry relative to the screen root, plus element presence, each with explicit tolerances — deterministic, run after run."
+        },
+        {
+          "t": "p",
+          "x": "designfit_extract reads the spec from Figma’s REST API; designfit_validate returns pass, score and a fix-list. On a 360-node dashboard it scored three iterations from 87 to 100 and exposed tags on the wrong nodes."
+        },
+        {
+          "t": "p",
+          "x": "Version 0.2 checks one viewport; spacing tokens and multi-breakpoint checks are roadmap. It is free and MIT-licensed."
+        }
+      ]
+    },
+    "design/design-archicad-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+        },
+        {
+          "t": "p",
+          "x": "Graphisoft introduced its 2026 product portfolio, led by Archicad and new artificial intelligence capabilities for architecture, engineering and construction teams. Based on its Design Intelligence Strategy, it includes updates to core products, planned Model Context Protocol (MCP) connectivity and an update to AI Assistant."
+        },
+        {
+          "t": "p",
+          "x": "The latest Archicad adds Dark Mode for Windows, improved visibility for multistory walls, more documentation controls, updated Project Info management, customizable Navigator organization and expanded drawing label options. MEP Designer and DDScad gain BIM querying, visualization, workflow and AI integration improvements, and MEP Designer comes to more than 40 additional markets."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+        },
+        {
+          "t": "p",
+          "x": "During October, Archicad users get early access to Nemetschek Creator, a cloud-native platform for early-stage design, sustainability and feasibility analysis, and the Open Collaboration Platform, plus real-time visualization through Maxon Redshift. AI Visualizer will add image-generation capabilities and AI image models including Nano Banana Pro, and AI Assistant Spaces will let architects build a knowledge base from their own documents."
+        },
+        {
+          "t": "p",
+          "x": "Subscriptions expand to three plans: Archicad Studio, Archicad Collaborate and Archicad Max, the last intended for practices using data- and AI-based workflows."
+        }
+      ]
     }
   }
 }

@@ -6953,6 +6953,147 @@
           "x": "搭载Intelligent UI的GPT-6今天起面向全球Plus、Pro、Business和Enterprise用户推出，并于周四扩展到Go和免费版。较高档位用户使用中端模型GPT-6 Sol；Go和免费用户使用更高效的GPT-6 Luna。"
         }
       ]
+    },
+    "design/aws-physical-ai-toolchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Web Services推出一套开源工具链，将AWS基础设施与NVIDIA机器人软件相结合，支持物理AI系统的开发、训练、仿真和部署。它提供参考架构、infrastructure-as-code（基础设施即代码）资源和部署自动化，覆盖从采集机器人数据到在实体硬件上部署的全过程。"
+        },
+        {
+          "t": "p",
+          "x": "AWS Industries副总裁Uwem Ukpong表示：“我们在AWS上打造Physical AI Toolchain，是因为客户告诉我们，他们太多的工程精力花在了基础设施上，而不是创新上。”"
+        },
+        {
+          "t": "p",
+          "x": "组件包括NVIDIA Isaac Sim、Isaac Lab、Isaac GR00T和Cosmos，由NVIDIA OSMO编排，运行在Amazon SageMaker、EC2 GPU实例、S3和AWS IoT Greengrass之上。它支持PyTorch、Hugging Face、ROS 2、LeRobot、URDF和ONNX；其中一个示例使用了Isaac GR00T和27个UR3 pick-and-place遥操作数据片段。"
+        },
+        {
+          "t": "p",
+          "x": "NEURA Robotics、RLWRLD和Config被列为正在开发物理AI的公司。Amazon称，这套工具链有望帮助制造商在数周而非数年内推出物理AI能力——这是该公司表达的预期，并非经独立验证的结果。"
+        }
+      ]
+    },
+    "design/instinct-agent-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Instinct的代理始终只需一条短信即可触达。"
+        },
+        {
+          "t": "p",
+          "x": "8月，Instinct以邀请制推出AI代理，没有任何营销，很快成为AI领域最受热议的产品。随后Meta的Muse和OpenAI的Dots相继登场。在The Verge的测试中，Instinct表现不落下风，创始人Noah Shinn也毫不在意：“AI助手就是我们所熟知的一切。”公司在9月底估值达到100亿美元。"
+        },
+        {
+          "t": "p",
+          "x": "不同于Muse的小熊吉祥物和Dots的团状形象，Instinct完全通过iMessage、WhatsApp或电子邮件运作——没有应用，没有可爱的小角色，只有简短回复和大量行动，并可连接Google Workspace、Slack和Notion。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "它找到了游泳课，却漏掉了一门先修课；它给眼科医生发了邮件，凭模糊描述发起了Ikea退货，还主动提示了日程冲突。"
+        },
+        {
+          "t": "p",
+          "x": "目前受邀用户可免费使用。分析人士预计，如此偏重商业交易的代理将依赖广告：“消费市场的所有道路最终都通向广告。”"
+        }
+      ]
+    },
+    "design/nvidia-simready-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "为机器人仿真准备CAD资产，不只是把几何体转换成OpenUSD：还必须配置并验证材质、碰撞几何、关节和物理属性。NVIDIA演示了如何用SimReady Foundation和Omniverse工具准备一台ABB YuMi机器人，并以Codex CLI中的GPT-6 Astra为例，说明前沿AI模型如何通过智能体式NVIDIA技能调用这些工具。"
+        },
+        {
+          "t": "p",
+          "x": "1. 将机器人从STEP文件导入OpenUSD和Isaac Sim 6.1。2. 对照ABB的图片和视频匹配外观。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+        },
+        {
+          "t": "p",
+          "x": "3. 依据数据手册配置关节、刚体和碰撞几何；智能体甚至调取了一份公开的URDF来确定关节轴。4. 按SimReady要求进行验证——这些检查确认的是仿真本身，而非real-world动力学。"
+        },
+        {
+          "t": "p",
+          "x": "5. 在Isaac Sim中用依据参考图像生成的方块和一支Sharpie马克笔运行pick-and-place任务。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "结果可能因所用模型、推理强度和提示词而异。"
+        }
+      ]
+    },
+    "design/geometry-ui-diffing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+        },
+        {
+          "t": "p",
+          "x": "让编码代理对照Figma画框“做成一样”，它常常反复空转：一听到“还是不对”，就没完没了地微调。出问题的不是代理，而是比对方式。截图diff会把anti-aliasing、字体微调和sub-pixel取整都标为错误，于是分数来回摆动，始终无法收敛。"
+        },
+        {
+          "t": "p",
+          "x": "设计师不比对像素，而是检查有名称的属性。因此，作为open-source MCP服务器和Claude Code技能的designfit，会比对设计令牌（基于CIEDE2000的颜色、字号、圆角）、相对屏幕根节点的几何以及元素是否存在，每项都有明确的容差——每次运行结果都一致。"
+        },
+        {
+          "t": "p",
+          "x": "designfit_extract从Figma的REST API读取规格；designfit_validate返回是否通过、分数和fix-list。在一个360-node的仪表盘上，它经过三次迭代将分数从87提升到100，并暴露出挂在错误节点上的标签。"
+        },
+        {
+          "t": "p",
+          "x": "0.2版只检查一个视口；间距令牌和multi-breakpoint检查已列入路线图。它免费且MIT-licensed（采用MIT许可）。"
+        }
+      ]
+    },
+    "design/design-archicad-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+        },
+        {
+          "t": "p",
+          "x": "Graphisoft发布2026年产品组合，以Archicad以及面向建筑、工程和施工团队的全新人工智能功能为核心。该组合基于其Design Intelligence Strategy，包括核心产品更新、计划中的Model Context Protocol（MCP）连接以及AI Assistant的更新。"
+        },
+        {
+          "t": "p",
+          "x": "最新版Archicad新增Windows版Dark Mode，改进多层墙体的可见性，提供更多出图控制，更新Project Info管理，支持自定义Navigator组织方式，并扩展图纸标注选项。MEP Designer和DDScad在BIM查询、可视化、工作流程和AI集成方面得到改进，MEP Designer还将进入另外40多个市场。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+        },
+        {
+          "t": "p",
+          "x": "10月期间，Archicad用户可抢先使用Nemetschek Creator（一个面向早期设计、可持续性与可行性分析的云原生平台）和Open Collaboration Platform，并可通过Maxon Redshift进行实时可视化。AI Visualizer将加入图像生成功能以及包括Nano Banana Pro在内的AI图像模型，AI Assistant Spaces则让建筑师能用自己的文档建立知识库。"
+        },
+        {
+          "t": "p",
+          "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
+        }
+      ]
     }
   }
 }

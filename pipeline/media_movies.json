@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "movies",
   "media": [
     {
-      "id": "movies-houdini-ai-docuseries",
+      "id": "nikon-small-world-ai-disqualified",
+      "type": "image",
+      "src": "pipeline/media/nikon-small-world-ai-disqualified.jpg"
+    },
+    {
+      "id": "royal-mail-paul-vaughan-ai-voice",
       "type": "video",
-      "src": "pipeline/media/movies-houdini-ai-docuseries.mp4",
-      "poster": "pipeline/media/movies-houdini-ai-docuseries.jpg"
+      "src": "pipeline/media/royal-mail-paul-vaughan-ai-voice.mp4",
+      "poster": "pipeline/media/royal-mail-paul-vaughan-ai-voice.jpg"
     },
     {
-      "id": "movies-cinema4d-mcp-server",
+      "id": "space-nation-kira-mipcom-pilots",
       "type": "image",
-      "src": "pipeline/media/movies-cinema4d-mcp-server.jpg"
+      "src": "pipeline/media/space-nation-kira-mipcom-pilots.jpg"
     },
     {
-      "id": "movies-dfx-techshow-ai-contest",
+      "id": "painted-soul-rakuten-viki-launch",
       "type": "image",
-      "src": "pipeline/media/movies-dfx-techshow-ai-contest.jpg"
+      "src": "pipeline/media/painted-soul-rakuten-viki-launch.jpg"
     },
     {
-      "id": "movies-messiah-bethlehem-restoration",
+      "id": "danny-boyle-ink-ai-thatcher",
       "type": "image",
-      "src": "pipeline/media/movies-messiah-bethlehem-restoration.jpg"
-    },
-    {
-      "id": "movies-serhant-heygen-avatar",
-      "type": "image",
-      "src": "pipeline/media/movies-serhant-heygen-avatar.jpg"
+      "src": "pipeline/media/danny-boyle-ink-ai-thatcher.jpg"
     }
   ]
 }

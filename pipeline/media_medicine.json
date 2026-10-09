@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "medicine",
   "media": [
     {
-      "id": "medicine-mri2ct-bone",
-      "type": "image",
-      "src": "pipeline/media/medicine-mri2ct-bone.jpg"
+      "id": "amie-lancet-primary-care",
+      "type": "video",
+      "src": "pipeline/media/amie-lancet-primary-care.mp4",
+      "poster": "pipeline/media/amie-lancet-primary-care.jpg"
     },
     {
-      "id": "medicine-suki-ask-uptodate",
+      "id": "radnet-prostate-biopsy-ai",
       "type": "image",
-      "src": "pipeline/media/medicine-suki-ask-uptodate.jpg"
+      "src": "pipeline/media/radnet-prostate-biopsy-ai.jpg"
     },
     {
-      "id": "medicine-ai-depression-warning",
+      "id": "abridge-ut-system-ambient",
       "type": "image",
-      "src": "pipeline/media/medicine-ai-depression-warning.jpg"
+      "src": "pipeline/media/abridge-ut-system-ambient.jpg"
     },
     {
-      "id": "medicine-epilepsy-llm-ehr",
+      "id": "coreline-jrs-lung-cad",
       "type": "image",
-      "src": "pipeline/media/medicine-epilepsy-llm-ehr.png"
+      "src": "pipeline/media/coreline-jrs-lung-cad.png"
     },
     {
-      "id": "medicine-clinicalgpt-med-safety",
-      "type": "image",
-      "src": "pipeline/media/medicine-clinicalgpt-med-safety.png"
+      "id": "gpt5-agent-complexity-paradox",
+      "type": "svg"
     }
   ]
 }

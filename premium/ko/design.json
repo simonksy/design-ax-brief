@@ -13174,6 +13174,147 @@
           "x": "Intelligent UI를 갖춘 GPT-6는 오늘부터 전 세계 Plus, Pro, Business, Enterprise 사용자에게 배포되고, 목요일에는 Go와 무료 요금제로 넓어진다. 상위 요금제는 중간급 모델 GPT-6 Sol을, Go와 무료 사용자는 더 효율적인 GPT-6 Luna를 쓴다."
         }
       ]
+    },
+    "design/aws-physical-ai-toolchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Web Services가 AWS 인프라에 NVIDIA 로보틱스 소프트웨어를 묶은 오픈소스 툴체인을 선보였다. 피지컬 AI 시스템을 개발하고 학습시키고 시뮬레이션해 배포하는 과정을 돕는다. 로봇 데이터 수집에서 실제 하드웨어 배포까지 필요한 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 갖췄다."
+        },
+        {
+          "t": "p",
+          "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos로 이뤄지며 NVIDIA OSMO가 이들을 오케스트레이션한다. 실행 기반은 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원한다. 예시 하나는 Isaac GR00T에 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "피지컬 AI 개발사로는 NEURA Robotics, RLWRLD, Config가 이름을 올렸다. Amazon은 이 툴체인을 쓰면 제조업체가 피지컬 AI 기능을 수년이 아니라 수주 만에 내놓을 수 있다고 밝혔다. 회사 측 기대일 뿐 독립적으로 검증된 결과는 아니다."
+        }
+      ]
+    },
+    "design/instinct-agent-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Instinct 에이전트는 문자 한 통이면 늘 닿는다."
+        },
+        {
+          "t": "p",
+          "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고 금세 AI 업계 최대 화제가 됐다. 뒤이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았다. 창업자 Noah Shinn도 흔들리지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 기업가치 100억 달러를 인정받았다."
+        },
+        {
+          "t": "p",
+          "x": "Muse에는 곰 마스코트가, Dots에는 블롭이 있지만 Instinct는 iMessage, WhatsApp, 이메일로만 움직인다. 앱도 귀여운 캐릭터도 없다. 답은 짧고 실행은 많다. Google Workspace, Slack, Notion과도 연결된다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "수영 강습은 찾았지만 선수 과목은 놓쳤다. 안과에 이메일을 보냈고 모호한 설명만으로 Ikea 반품을 시작했으며 겹치는 일정도 먼저 짚어줬다."
+        },
+        {
+          "t": "p",
+          "x": "지금은 초대받은 사용자라면 무료로 쓴다. 분석가들은 상거래 비중이 이렇게 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
+        }
+      ]
+    },
+    "design/nvidia-simready-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "로보틱스 시뮬레이션에 쓸 CAD 자산은 형상을 OpenUSD로 바꾸는 것만으로 끝나지 않는다. 재질, 충돌 형상, 관절, 물리 속성까지 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 보여줬다. 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델로는 Codex CLI의 GPT-6 Astra를 예로 썼다."
+        },
+        {
+          "t": "p",
+          "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상에 맞춰 외관을 다듬는다."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+        },
+        {
+          "t": "p",
+          "x": "3. 데이터시트를 보고 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 끌어왔다. 4. SimReady 요건에 맞는지 검증한다. 이 검사가 확인하는 것은 시뮬레이션이지 실제 세계(real-world)의 동역학이 아니다."
+        },
+        {
+          "t": "p",
+          "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커로 Isaac Sim에서 pick-and-place 작업을 돌린다."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "결과는 어떤 모델과 추론 강도, 프롬프트를 쓰느냐에 따라 달라진다."
+        }
+      ]
+    },
+    "design/geometry-ui-diffing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+        },
+        {
+          "t": "p",
+          "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말에 끝없이 고치기만 한다. 고장 난 쪽은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림까지 오류로 잡는다. 그러니 점수가 흔들리고 수렴하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "디자이너는 픽셀을 diff하지 않는다. 이름 붙은 속성을 본다. open-source MCP 서버이자 Claude Code 스킬인 designfit도 그렇게 한다. 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 저마다 명시한 허용 오차로 비교한다. 몇 번을 돌려도 결과는 같다."
+        },
+        {
+          "t": "p",
+          "x": "designfit_extract가 Figma의 REST API에서 스펙을 읽으면 designfit_validate가 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번 반복하자 점수가 87에서 100으로 올랐고 엉뚱한 노드에 붙은 태그도 드러났다."
+        },
+        {
+          "t": "p",
+          "x": "버전 0.2는 뷰포트 하나만 검사한다. 간격 토큰과 multi-breakpoint 검사는 로드맵에 올라 있다. 무료이고 MIT-licensed(MIT 라이선스)다."
+        }
+      ]
+    },
+    "design/design-archicad-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+        },
+        {
+          "t": "p",
+          "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에 놓인 것은 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이다. Design Intelligence Strategy에 맞춰 핵심 제품을 손보고, Model Context Protocol(MCP) 연결 계획과 AI Assistant 업데이트도 담았다."
+        },
+        {
+          "t": "p",
+          "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개 넘는 시장에 새로 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+        },
+        {
+          "t": "p",
+          "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, 건축가는 AI Assistant Spaces에서 자기 문서로 지식 베이스를 꾸린다."
+        },
+        {
+          "t": "p",
+          "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
+        }
+      ]
     }
   }
 }

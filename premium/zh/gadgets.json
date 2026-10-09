@@ -6324,6 +6324,173 @@
           "x": "这些设备显然瞄准开发者：Microsoft 为以旧 MacBook Pro 换购的用户提供最高 $1,000 的折扣。Dell 也公布了售价 $3,800 的 Nvidia-RTX Spark XPS 16 Creator Edition 的细节。"
         }
       ]
+    },
+    "gadgets/gadgets-rtx-spark-preorders": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+          "cap": "Nvidia RTX Spark笔记本"
+        },
+        {
+          "t": "p",
+          "x": "对于希望掌控数据、成本可预期并摆脱云服务束缚的小型企业而言，在本地运行AI正变得越来越有吸引力。Nvidia的RTX Spark笔记本将强大的处理器、Blackwell图形和大容量统一内存集成在便携设备中。"
+        },
+        {
+          "t": "p",
+          "x": "预订现已开启，首批机型将于10月16日发货。起售价为$2,599.99，Microsoft、Asus、Lenovo、HP和Dell均推出了相应机型。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+          "cap": "Microsoft Surface Laptop Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft的15-inch Surface Laptop Ultra是入门成本最低的选择之一，最高配备 128GB 统一内存。HP的16-inch OmniBook Ultra 16配备3K OLED 触摸屏，内存最高 128GB；48GB-plus 配置可获得完整的20-core Grace CPU和6,144-core Blackwell GPU。Asus ProArt P16最高配备 128GB 内存和 2TB 存储，适合兼顾AI开发与创意工作的团队。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+          "cap": "HP OmniBook Ultra 16"
+        },
+        {
+          "t": "p",
+          "x": "RTX Spark平台将Grace CPU与Blackwell GPU以及 24GB 至 128GB 统一内存相结合；低配芯片为18-core CPU和5,120-core GPU。由于更大的模型需要多得多的内存，内存对本地AI至关重要，不过模型大小、精度和软件兼容性同样会影响性能。"
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-gen3-muse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta如今是智能眼镜领域最大的力量，Ray-Ban Meta (Gen 3)是其第三代产品。Gizmodo认为它从技术上讲算是一次升级：续航更长，硬件有些调整，但相比上一代没有太多其他变化。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "它起售价$449，保留了同样可拍摄最高 3K 视频的12-megapixel 摄像头，以及相同的AI功能、操控方式和音质。续航增加一小时，混合使用可达九小时；测试中，音乐播放可持续约六小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta新增了第六个麦克风，称可将背景噪音降低最多90%，但通话对方仍能听到汽车、火车和人声。空间音频是一大亮点，该功能随9月的软件更新推出，可在Meta AI应用中开启。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "镜腿变薄 1mm，所有款式都配备可调节的镜腿末端，摄像头缩小36%，这让眼镜更难被察觉，也加剧了隐私担忧；摄像头快门依旧没有。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta最新的AI模型Muse大幅提升了AI体验，尽管仍有一些小毛病。由于这些软件升级并非Gen 3独享，评测者认为上一代用户没什么理由急着购买新款。"
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-plus-one-year": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Verge的Jennifer Pattison Tuohy自2025年7月起在家中测试Amazon的AI-powered Alexa Plus。一年下来，她认为这是她测试过的最好的智能家居助手，但个人助理功能尚不成熟，Echo Show屏幕上的广告也已失控。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "由于采用LLM-powered架构，Alexa如今能理解\"I'm cold\"（我冷）这类模糊请求，响应时间从10到15秒缩短至三到五秒，能处理多步骤指令，一步步带她完成食谱，还能通过语音创建日常流程。不过，为此她不得不从头重建自己的智能家居。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "缺点在于：Echo Show屏幕已沦为轮播Amazon商品的广告牌，如今还加入了视频广告，去除广告需每台设备每月支付$2.99。复杂请求的表现依然不稳定，通过Uber Eats或Thumbtack执行的代理任务也经常失败。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "记忆是最大的短板：Alexa忘了她是谁，还给出了去错误学校的交通路线。她的结论是：Amazon应停止追逐通用AI机器人，专注于成为家庭的大脑。"
+        }
+      ]
+    },
+    "gadgets/gadgets-xpanceo-ai-contact-lenses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CNET采访了迪拜公司（Dubai-based）Xpanceo的创始人。该公司耗时五年研发AI-powered 智能隐形眼镜，其工作方式\"就像一个AI助手，只不过直接在你的角膜上\"。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "镜片内置显示屏、生物传感器、微型电池和天线，并与佩戴在头部侧面的配套设备配合使用；该设备集成摄像头、耳机和麦克风，负责运算并为镜片无线充电。团队表示，已有28个可运行的原型和50多项专利，并将于2027年3月在MWC Barcelona发布这款镜片。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "泪液无需抽血即可反映葡萄糖、蛋白质、电解质和压力激素水平，镜片还可测量青光眼风险指标眼压。Xpanceo也在探索一种可作为非侵入式脑机接口的镜片。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "它将先从面向医院、职业运动员和赛车手的B2B应用起步，并与UAE Space Agency开展联合项目。经过医学试验后，有限的消费级用途可能在2030年前推出，定价约为每年$2,000的订阅制。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-tablets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon推出了12、11和8英寸的新款Alexa平板，全部采用铝制一体机身，并将Alexa+置于核心。旗舰机型Alexa Tablet 12 Pro比Amazon以往推出的任何平板都“处理速度快三倍、图形性能快九倍”。"
+        },
+        {
+          "t": "p",
+          "x": "12 Pro搭载4nm 8核芯片，最高16GB RAM，配备120Hz、3:2的显示屏，可选Nanomatte——与Corning合作在玻璃上蚀刻的防眩光纹理。起售价$500，Nanomatte版$550，Pro Pen售价$90，键盘$150。Tablet 11起售价$330，Tablet 8起售价$230。"
+        },
+        {
+          "t": "p",
+          "x": "三款平板都将获得全新的Kindle体验。借助Alexa+的On-Screen Intelligence，用户可以就屏幕上的内容向助手提问——比如把一项体育赛事的所有日期加入日历，或在Amazon上找到视频里出现的商品。该功能默认关闭，需用户主动开启。"
+        },
+        {
+          "t": "p",
+          "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
+        }
+      ]
     }
   }
 }

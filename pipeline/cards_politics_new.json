@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-10",
+  "section": "politics",
+  "cards": [
+    {
+      "id": "park-wansu-deepfake-election-probe",
+      "source_lang": "ko",
+      "tool": "Politics",
+      "eyebrow": "AI NEWS",
+      "headline": "딥페이크 선거 의혹\n박완수 지사 피의자 조사",
+      "body": "선관위 의뢰 딥페이크·관권선거 의혹으로 경찰이 박완수 지사를 피의자 조사했다.",
+      "mini_headline": "박완수 지사 피의자 조사",
+      "source": "yna.co.kr",
+      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "경찰이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 박 지사를 피의자 신분으로 조사했다."
+          },
+          {
+            "t": "p",
+            "x": "이 사건은 경남선거관리위원회가 공직선거법 위반 혐의로 경찰에 수사를 의뢰한 사건이다."
+          }
+        ]
+      }
+    }
+  ]
+}

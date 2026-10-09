@@ -7339,6 +7339,147 @@
           "x": "Intelligent UIを備えたGPT-6は、本日から世界のPlus、Pro、Business、Enterpriseユーザーに順次提供され、木曜日にはGoと無料プランにも広がる。上位プランは中位モデルのGPT-6 Solを、Goと無料ユーザーはより効率的なGPT-6 Lunaを使う。"
         }
       ]
+    },
+    "design/aws-physical-ai-toolchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Web Servicesは、AWSのインフラとNVIDIAのロボティクスソフトウェアを組み合わせ、フィジカルAIシステムの開発、学習、シミュレーション、配備を支えるオープンソースのツールチェーンを発表した。ロボットのデータ収集から実機への配備まで、リファレンスアーキテクチャ、infrastructure-as-codeのリソース、配備の自動化を提供する。"
+        },
+        {
+          "t": "p",
+          "x": "AWS Industriesのバイスプレジデント、Uwem Ukpong氏は「エンジニアリングの労力があまりにも多く、イノベーションではなくインフラに費やされていると顧客から聞いたため、AWS上にPhysical AI Toolchainを構築した」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "構成要素はNVIDIA Isaac Sim、Isaac Lab、Isaac GR00T、Cosmosで、NVIDIA OSMOがオーケストレーションを担い、Amazon SageMaker、EC2 GPUインスタンス、S3、AWS IoT Greengrass上で動く。PyTorch、Hugging Face、ROS 2、LeRobot、URDF、ONNXに対応し、ある例ではIsaac GR00TとUR3のpick-and-place遠隔操作データ27エピソードを使っている。"
+        },
+        {
+          "t": "p",
+          "x": "フィジカルAIに取り組む企業としてNEURA Robotics、RLWRLD、Configの名が挙がっている。Amazonは、このツールチェーンによって製造業者がフィジカルAI機能を数年ではなく数週間で立ち上げられるとしている。これは同社が示した見通しであり、独立して検証された結果ではない。"
+        }
+      ]
+    },
+    "design/instinct-agent-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Instinctのエージェントには、いつでもテキスト一通で届く。"
+        },
+        {
+          "t": "p",
+          "x": "Instinctは8月、宣伝なしの招待制でAIエージェントを公開し、たちまちAI界で最も話題の存在になった。その後、MetaのMuseとOpenAIのDotsが登場した。The Vergeのテストでは、Instinctは引けを取らず、創業者のNoah Shinnも動じていない。「AIアシスタントこそ、私たちが知るすべてだ」。同社は9月下旬に100億ドルの評価を受けた。"
+        },
+        {
+          "t": "p",
+          "x": "Museのクマのマスコットや Dotsのブロブとは違い、InstinctはiMessage、WhatsApp、メールだけで動く。アプリも可愛いキャラクターもなく、短い返信と多くの実行があるだけで、Google Workspace、Slack、Notionと連携する。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "水泳教室を見つけたが前提となるクラスを見落とし、眼科医にメールを送り、曖昧な説明からIkeaの返品手続きを始め、予定の重複を自ら指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "現在は招待ユーザーなら無料だ。アナリストは、これほど商取引に寄ったエージェントは広告に頼ると見ている。「消費者市場のすべての道は、最終的に広告に通じる」。"
+        }
+      ]
+    },
+    "design/nvidia-simready-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "ロボティクスのシミュレーション向けにCAD資産を用意するには、形状をOpenUSDに変換するだけでは足りない。マテリアル、衝突形状、関節、物理特性を設定し、検証する必要がある。NVIDIAはSimReady FoundationとOmniverseのツールでABB YuMiロボットを準備する手順を解説し、エージェント型のNVIDIAスキルを通じてツールを呼び出すフロンティアAIモデルの一例として、Codex CLI上のGPT-6 Astraを使った。"
+        },
+        {
+          "t": "p",
+          "x": "1. STEPファイルからロボットをOpenUSDとIsaac Sim 6.1に読み込む。2. ABBの画像や動画と照らして外観を合わせる。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+        },
+        {
+          "t": "p",
+          "x": "3. データシートを使って関節、剛体、衝突形状を設定する。エージェントは関節軸を調べるために公開URDFまで取得した。4. SimReadyの要件に照らして検証する。この検査が確かめるのはシミュレーションであり、real-worldの動力学ではない。"
+        },
+        {
+          "t": "p",
+          "x": "5. 参照画像から生成したキューブとSharpieのマーカーを使い、Isaac Simでpick-and-placeタスクを実行する。"
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "結果は使うモデル、推論の強度、プロンプトによって変わりうる。"
+        }
+      ]
+    },
+    "design/geometry-ui-diffing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+        },
+        {
+          "t": "p",
+          "x": "コーディングエージェントにFigmaのフレームを渡して「同じにして」と頼むと、空回りしがちだ。「まだ違う」と言われると延々と調整を続ける。壊れているのはエージェントではなく比較の仕方だ。スクリーンショットのdiffはanti-aliasing、フォントヒンティング、sub-pixelの丸めを誤りとして拾うため、スコアが揺れて収束しない。"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーはピクセルをdiffせず、名前の付いたプロパティを確認する。そこでopen-sourceのMCPサーバーでありClaude Codeのスキルでもあるdesignfitは、デザイントークン(CIEDE2000による色、フォントサイズ、角丸)、画面ルート基準のジオメトリ、要素の有無を、それぞれ明示的な許容値で比較する。何度実行しても結果は同じだ。"
+        },
+        {
+          "t": "p",
+          "x": "designfit_extractはFigmaのREST APIから仕様を読み取り、designfit_validateは合否、スコア、fix-listを返す。360-nodeのダッシュボードでは3回の反復でスコアが87から100に上がり、誤ったノードに付いたタグも明らかになった。"
+        },
+        {
+          "t": "p",
+          "x": "バージョン0.2が検査するのはビューポート1つで、スペーシングトークンとmulti-breakpointの検査はロードマップにある。無料でMIT-licensed(MITライセンス)だ。"
+        }
+      ]
+    },
+    "design/design-archicad-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+        },
+        {
+          "t": "p",
+          "x": "Graphisoftは、Archicadと、建築・エンジニアリング・建設チーム向けの新たな人工知能機能を柱とする2026年の製品ポートフォリオを発表した。Design Intelligence Strategyに基づき、主要製品のアップデート、予定されているModel Context Protocol(MCP)接続、AI Assistantのアップデートを含む。"
+        },
+        {
+          "t": "p",
+          "x": "最新のArchicadには、Windows向けDark Mode、複数階にまたがる壁の視認性向上、図面作成の制御強化、Project Info管理の刷新、カスタマイズ可能なNavigator構成、図面ラベルオプションの拡充が加わった。MEP DesignerとDDScadはBIMクエリ、可視化、ワークフロー、AI統合が改善され、MEP Designerは新たに40を超える市場に展開される。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+        },
+        {
+          "t": "p",
+          "x": "10月中、Archicadユーザーは、初期段階の設計、サステナビリティ、実現可能性分析のためのクラウドネイティブ・プラットフォームNemetschek CreatorとOpen Collaboration Platformを先行利用でき、Maxon Redshiftによるリアルタイム可視化も使える。AI Visualizerには画像生成機能とNano Banana ProなどのAI画像モデルが加わり、AI Assistant Spacesでは建築家が自分の文書からナレッジベースを構築できるようになる。"
+        },
+        {
+          "t": "p",
+          "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
+        }
+      ]
     }
   }
 }

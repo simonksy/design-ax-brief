@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-alexa-tablets",
+      "id": "gadgets-pixelwatch4-ai-faces",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Alexa+를 품은\nAmazon 새 태블릿",
-      "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
-      "mini_headline": "Amazon의 Alexa+ 태블릿",
+      "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
+      "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
+      "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,174 +19,263 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+            "cap": "AI로 나만의 워치 페이스 만들기"
           },
           {
             "t": "p",
-            "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디에 Alexa+를 핵심으로 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
+            "x": "Pixel Watch 5에서 티 나지 않게 강력했던 기능 하나가 Pixel Watch 4로 넘어왔다. AI 워치 페이스 생성기가 지금 Pixel Watch 4 모델에 차례로 배포되는 중이다."
           },
           {
             "t": "p",
-            "x": "12 Pro는 4nm 8코어 칩, 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Nanomatte로도 고를 수 있는데, Corning과 함께 유리에 눈부심 방지 질감을 새긴 버전이다. 가격은 $500부터, Nanomatte는 $550이다. Pro Pen은 $90, 키보드는 $150이고 Tablet 11은 $330, Tablet 8은 $230부터다."
+            "x": "Pixel Watch 5는 크게 바꾸기보다 다듬는 쪽이었고, 내부 개선도 대부분 AI 성능에 몰렸다. 그 덕에 나온 반가운 결과물이 AI 워치 페이스 생성기다. 나만의 워치 페이스를 조금 더 쉽게 만들게 해 준다."
           },
           {
             "t": "p",
-            "x": "세 제품 모두 새 Kindle 경험이 들어간다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 바로 물을 수 있다. 스포츠 경기 일정을 통째로 캘린더에 넣거나 영상 속 제품을 Amazon에서 찾는 식이다. 기본값은 꺼짐이라 사용자가 직접 켜야 한다."
+            "x": "Reddit 사용자들 말로는 이번 업데이트가 4.2.12.989940186 버전에 담겼다. Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 따로 만든 Steph Curry 다이얼도 함께 들어왔다."
           },
           {
             "t": "p",
-            "x": "판매는 10월 14일 미국(US), 멕시코, 캐나다에서 먼저 시작하고 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인으로 이어진다."
+            "x": "쓰는 법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 연다. 템플릿 갤러리에서 고르지 말고 원하는 모습을 적으면 Gemini Intelligence가 그에 가깝게 만들어 낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+            "cap": "AI가 만든 워치 페이스(AI-generated)"
+          },
+          {
+            "t": "img",
+            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+            "cap": "AI가 만든 워치 페이스(AI-generated)"
+          },
+          {
+            "t": "p",
+            "x": "한계는 있다. 그래도 Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 아직 배포가 진행 중이라 기기에 뜨기까지는 시간이 좀 걸릴 수 있다."
           }
         ]
       },
-      "lead_image": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg",
       "text": {
         "en": {
-          "headline": "Amazon's new tablets\nare built around Alexa+",
-          "body": "Amazon has launched three new tablets that come with Alexa+, including a 12-inch model with an anti-glare screen.",
-          "mini_headline": "Amazon's Alexa+ tablets",
+          "headline": "Pixel Watch 4 gets Google's\nAI watch face generator",
+          "body": "An update brings Google's generative AI watch face creator, once a Pixel Watch 5 exclusive, to the Pixel Watch 4.",
+          "mini_headline": "AI faces reach Pixel Watch 4",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "Creating a custom watch face with AI"
               },
               {
                 "t": "p",
-                "x": "Amazon has launched new Alexa tablets in 12, 11 and 8 inches, all with an aluminum unibody and Alexa+ built into their core. The flagship Alexa Tablet 12 Pro has \"three times faster processing and nine times faster graphics\" than any tablet Amazon has shipped."
+                "x": "One of the Pixel Watch 5's quietly powerful features has landed on the Pixel Watch 4. The AI watch face generator is currently rolling out to Pixel Watch 4 models."
               },
               {
                 "t": "p",
-                "x": "The 12 Pro runs a 4nm 8-core chip with up to 16GB of RAM and a 120Hz, 3:2 display — optionally Nanomatte, an anti-glare texture etched into the glass with Corning. It starts at $500, or $550 for Nanomatte, with a $90 Pro Pen and $150 keyboard. The Tablet 11 starts at $330 and the Tablet 8 at $230."
+                "x": "The Pixel Watch 5 was more refinement than shakeup, with most of its under-the-hood enhancements focused on AI performance. One good byproduct of that push is the AI watch face generator, a tool that makes creating custom watch faces a little easier."
               },
               {
                 "t": "p",
-                "x": "All three get a new Kindle experience, and Alexa+'s On-Screen Intelligence lets you ask the assistant about what's on screen — add every date of a sporting event to your calendar, or find a product seen in a video on Amazon. It is off by default and opt-in."
+                "x": "According to users on Reddit, the update is packaged in version 4.2.12.989940186 and also includes the Pixel Watch 5 stock watch faces — Weave, Modular, Reveal and Chronograph — plus the specialized Steph Curry dial."
               },
               {
                 "t": "p",
-                "x": "The tablets go on sale October 14 in the US, Mexico and Canada, and October 19 in the UK, Germany, France, Italy and Spain."
+                "x": "The generator is straightforward: open the prompt section in the Pixel Watch app when creating a new look, describe what you want instead of picking from a template gallery, and Gemini Intelligence should come up with something close."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AI-generated watch faces"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AI-generated watch faces"
+              },
+              {
+                "t": "p",
+                "x": "It has its limitations, but it's a great tool Google didn't really play up for the Pixel Watch 5. The update is actively rolling out, so it may take some time to show up."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Alexa+를 품은\nAmazon 새 태블릿",
-          "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
-          "mini_headline": "Amazon의 Alexa+ 태블릿",
+          "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
+          "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
+          "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "AI로 나만의 워치 페이스 만들기"
               },
               {
                 "t": "p",
-                "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디에 Alexa+를 핵심으로 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
+                "x": "Pixel Watch 5에서 티 나지 않게 강력했던 기능 하나가 Pixel Watch 4로 넘어왔다. AI 워치 페이스 생성기가 지금 Pixel Watch 4 모델에 차례로 배포되는 중이다."
               },
               {
                 "t": "p",
-                "x": "12 Pro는 4nm 8코어 칩, 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Nanomatte로도 고를 수 있는데, Corning과 함께 유리에 눈부심 방지 질감을 새긴 버전이다. 가격은 $500부터, Nanomatte는 $550이다. Pro Pen은 $90, 키보드는 $150이고 Tablet 11은 $330, Tablet 8은 $230부터다."
+                "x": "Pixel Watch 5는 크게 바꾸기보다 다듬는 쪽이었고, 내부 개선도 대부분 AI 성능에 몰렸다. 그 덕에 나온 반가운 결과물이 AI 워치 페이스 생성기다. 나만의 워치 페이스를 조금 더 쉽게 만들게 해 준다."
               },
               {
                 "t": "p",
-                "x": "세 제품 모두 새 Kindle 경험이 들어간다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 바로 물을 수 있다. 스포츠 경기 일정을 통째로 캘린더에 넣거나 영상 속 제품을 Amazon에서 찾는 식이다. 기본값은 꺼짐이라 사용자가 직접 켜야 한다."
+                "x": "Reddit 사용자들 말로는 이번 업데이트가 4.2.12.989940186 버전에 담겼다. Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 따로 만든 Steph Curry 다이얼도 함께 들어왔다."
               },
               {
                 "t": "p",
-                "x": "판매는 10월 14일 미국(US), 멕시코, 캐나다에서 먼저 시작하고 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인으로 이어진다."
+                "x": "쓰는 법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 연다. 템플릿 갤러리에서 고르지 말고 원하는 모습을 적으면 Gemini Intelligence가 그에 가깝게 만들어 낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AI가 만든 워치 페이스(AI-generated)"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AI가 만든 워치 페이스(AI-generated)"
+              },
+              {
+                "t": "p",
+                "x": "한계는 있다. 그래도 Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 아직 배포가 진행 중이라 기기에 뜨기까지는 시간이 좀 걸릴 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Alexa+を軸にした\nAmazon新タブレット",
-          "body": "Amazonが12インチの反射防止モデルを含むAlexa+搭載タブレット三機種を発売した。",
-          "mini_headline": "AmazonのAlexa+タブレット",
+          "headline": "Pixel Watch 4に\nAI文字盤生成機能が到来",
+          "body": "Pixel Watch 5専用のAI文字盤生成が、更新でPixel Watch 4に届く。",
+          "mini_headline": "AI文字盤がPixel Watch 4に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "AIでカスタム文字盤を作成"
               },
               {
                 "t": "p",
-                "x": "Amazonは12、11、8インチの新しいAlexaタブレットを発売した。いずれもアルミニウムのユニボディで、中核にAlexa+を組み込んでいる。フラッグシップのAlexa Tablet 12 Proは、Amazonがこれまでに出荷したどのタブレットよりも「処理が三倍、グラフィックスが九倍速い」という。"
+                "x": "Pixel Watch 5の地味ながら強力な機能の一つが、Pixel Watch 4にもやってきた。AI文字盤ジェネレーターが現在、Pixel Watch 4の各モデルに順次配信されている。"
               },
               {
                 "t": "p",
-                "x": "12 Proは4nmの8コアチップ、最大16GBのRAM、120Hzで3:2のディスプレイを備える。ディスプレイは、Corningと共同でガラスに反射防止の質感を刻んだNanomatteも選べる。価格は$500から、Nanomatteは$550で、Pro Penは$90、キーボードは$150。Tablet 11は$330から、Tablet 8は$230からだ。"
+                "x": "Pixel Watch 5は刷新というより熟成のモデルで、内部の強化の大半はAI性能に向けられていた。その成果の一つがAI文字盤ジェネレーターであり、カスタム文字盤の作成を少し手軽にするツールだ。"
               },
               {
                 "t": "p",
-                "x": "三機種とも新しいKindle体験を備え、Alexa+のOn-Screen Intelligenceを使えば画面に表示された内容についてアシスタントに尋ねられる。スポーツイベントの全日程をカレンダーに追加したり、動画で見た製品をAmazonで探したりできる。この機能は初期設定でオフで、利用は任意だ。"
+                "x": "Redditのユーザーによると、このアップデートはバージョン4.2.12.989940186に含まれ、Pixel Watch 5の標準文字盤であるWeave、Modular、Reveal、Chronographに加え、特別仕様のSteph Curry文字盤も収録している。"
               },
               {
                 "t": "p",
-                "x": "発売は10月14日に米国(US)、メキシコ、カナダで、10月19日に英国(UK)、ドイツ、フランス、イタリア、スペインで始まる。"
+                "x": "使い方は簡単だ。Pixel Watchアプリで新しいデザインを作る際にプロンプト欄を開き、テンプレートギャラリーから選ぶ代わりに希望を説明すれば、Gemini Intelligenceがそれに近いものを作り出す。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AIが生成した文字盤（AI-generated）"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AIが生成した文字盤（AI-generated）"
+              },
+              {
+                "t": "p",
+                "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon新平板\n以Alexa+为核心",
-          "body": "Amazon推出三款搭载Alexa+的新平板，其中包括一款配备防眩光屏幕的12英寸机型。",
-          "mini_headline": "Amazon的Alexa+平板",
+          "headline": "Pixel Watch 4\n迎来AI表盘生成器",
+          "body": "曾为Pixel Watch 5独占的AI表盘生成器，经更新登陆Pixel Watch 4。",
+          "mini_headline": "AI表盘登陆Pixel Watch 4",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "用AI创建自定义表盘"
               },
               {
                 "t": "p",
-                "x": "Amazon推出了12、11和8英寸的新款Alexa平板，全部采用铝制一体机身，并将Alexa+置于核心。旗舰机型Alexa Tablet 12 Pro比Amazon以往推出的任何平板都“处理速度快三倍、图形性能快九倍”。"
+                "x": "Pixel Watch 5一项低调却强大的功能已登陆Pixel Watch 4。AI表盘生成器目前正向Pixel Watch 4各机型推送。"
               },
               {
                 "t": "p",
-                "x": "12 Pro搭载4nm 8核芯片，最高16GB RAM，配备120Hz、3:2的显示屏，可选Nanomatte——与Corning合作在玻璃上蚀刻的防眩光纹理。起售价$500，Nanomatte版$550，Pro Pen售价$90，键盘$150。Tablet 11起售价$330，Tablet 8起售价$230。"
+                "x": "Pixel Watch 5更像是一次打磨而非颠覆，其内部改进大多集中在AI性能上。这番投入带来的一个好成果就是AI表盘生成器，它让创建自定义表盘变得更轻松一些。"
               },
               {
                 "t": "p",
-                "x": "三款平板都将获得全新的Kindle体验。借助Alexa+的On-Screen Intelligence，用户可以就屏幕上的内容向助手提问——比如把一项体育赛事的所有日期加入日历，或在Amazon上找到视频里出现的商品。该功能默认关闭，需用户主动开启。"
+                "x": "据Reddit用户反映，此次更新的版本号为4.2.12.989940186，还包含Pixel Watch 5的原生表盘Weave、Modular、Reveal和Chronograph，以及专属的Steph Curry表盘。"
               },
               {
                 "t": "p",
-                "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
+                "x": "生成器用法简单：在Pixel Watch应用中创建新表盘时打开提示词区域，不必从模板库中挑选，只需描述想要的样子，Gemini Intelligence就会生成相近的设计。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AI生成的表盘（AI-generated）"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AI生成的表盘（AI-generated）"
+              },
+              {
+                "t": "p",
+                "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las nuevas tabletas de Amazon\ngiran en torno a Alexa+",
-          "body": "Amazon lanzó tres nuevas tabletas con Alexa+, entre ellas un modelo de 12 pulgadas con pantalla antirreflejos.",
-          "mini_headline": "Las tabletas Alexa+ de Amazon",
+          "headline": "El Pixel Watch 4 recibe el\ngenerador de esferas con IA",
+          "body": "Una actualización lleva al Pixel Watch 4 el creador de esferas con IA de Google, antes exclusivo del Pixel Watch 5.",
+          "mini_headline": "Esferas con IA en el Pixel Watch 4",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "Creación de una esfera personalizada con IA"
               },
               {
                 "t": "p",
-                "x": "Amazon lanzó nuevas tabletas Alexa de 12, 11 y 8 pulgadas, todas con cuerpo unibody de aluminio y Alexa+ integrado en su núcleo. La insignia, Alexa Tablet 12 Pro, ofrece \"un procesamiento tres veces más rápido y gráficos nueve veces más rápidos\" que cualquier tableta que Amazon haya comercializado."
+                "x": "Una de las funciones discretamente potentes del Pixel Watch 5 ha llegado al Pixel Watch 4. El generador de esferas con IA (AI watch face generator) se está desplegando ahora en los modelos Pixel Watch 4."
               },
               {
                 "t": "p",
-                "x": "La 12 Pro usa un chip de 4nm y 8 núcleos, hasta 16GB de RAM y una pantalla de 120Hz en formato 3:2, con la opción Nanomatte, una textura antirreflejos grabada en el vidrio junto con Corning. Parte de $500, o $550 con Nanomatte, con un Pro Pen de $90 y un teclado de $150. La Tablet 11 parte de $330 y la Tablet 8, de $230."
+                "x": "El Pixel Watch 5 fue más un refinamiento que una revolución, y la mayoría de sus mejoras internas se centraron en el rendimiento de la IA. Un buen subproducto de ese esfuerzo es el generador de esferas con IA, una herramienta que facilita un poco la creación de esferas personalizadas."
               },
               {
                 "t": "p",
-                "x": "Las tres reciben una nueva experiencia de Kindle, y On-Screen Intelligence de Alexa+ permite preguntar al asistente por lo que aparece en pantalla: añadir al calendario todas las fechas de un evento deportivo o encontrar en Amazon un producto visto en un video. Viene desactivada por defecto y hay que activarla."
+                "x": "Según usuarios de Reddit, la actualización llega en la versión 4.2.12.989940186 e incluye también las esferas de serie del Pixel Watch 5 —Weave, Modular, Reveal y Chronograph— además de la esfera especial de Steph Curry."
               },
               {
                 "t": "p",
-                "x": "Las tabletas salen a la venta el 14 de octubre en Estados Unidos (US), México y Canadá, y el 19 de octubre en Reino Unido (UK), Alemania, Francia, Italia y España."
+                "x": "El generador es sencillo: al crear un nuevo diseño, se abre la sección de instrucciones en la app Pixel Watch, se describe lo que se quiere en lugar de elegir de una galería de plantillas, y Gemini Intelligence debería proponer algo parecido."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "Esferas generadas con IA (AI-generated)"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "Esferas generadas con IA (AI-generated)"
+              },
+              {
+                "t": "p",
+                "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
               }
             ]
           }
@@ -194,121 +283,181 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Alexa+를 품은\nAmazon 새 태블릿",
-          "body": "Amazon이 12인치 눈부심 방지 모델 등 Alexa+ 태블릿 세 종을 냈다.",
-          "mini_headline": "Amazon의 Alexa+ 태블릿",
+          "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
+          "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
+          "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "AI로 나만의 워치 페이스 만들기"
               },
               {
                 "t": "p",
-                "x": "Amazon이 12, 11, 8인치 Alexa 태블릿을 새로 내놓았다. 모두 알루미늄 유니바디를 쓰고 Alexa+를 핵심에 품었다. 플래그십 Alexa Tablet 12 Pro는 Amazon이 지금까지 낸 어떤 태블릿보다 \"처리 속도는 세 배, 그래픽은 아홉 배 빠르다\"."
+                "x": "Pixel Watch 5의 조용하지만 강력한 기능 하나가 Pixel Watch 4에 들어왔다. AI 워치 페이스 생성기가 현재 Pixel Watch 4 모델에 순차 배포되고 있다."
               },
               {
                 "t": "p",
-                "x": "12 Pro는 4nm 8코어 칩과 최대 16GB RAM, 120Hz 3:2 디스플레이를 갖췄다. 디스플레이는 Corning과 함께 유리에 눈부심 방지 질감을 새긴 Nanomatte로 고를 수 있다. 가격은 $500부터이고 Nanomatte는 $550이며, Pro Pen은 $90, 키보드는 $150이다. Tablet 11은 $330, Tablet 8은 $230부터다."
+                "x": "Pixel Watch 5는 대대적인 변화보다 다듬기에 가까웠고, 내부 개선 대부분은 AI 성능에 집중됐다. 그 노력이 낳은 좋은 부산물이 AI 워치 페이스 생성기로, 맞춤형 워치 페이스를 조금 더 쉽게 만들어 주는 도구다."
               },
               {
                 "t": "p",
-                "x": "세 제품 모두 새 Kindle 경험을 얻는다. Alexa+의 On-Screen Intelligence를 쓰면 화면에 뜬 내용을 어시스턴트에게 물을 수 있다. 스포츠 경기 일정을 모두 캘린더에 넣거나, 영상에서 본 제품을 Amazon에서 찾는 식이다. 이 기능은 기본으로 꺼져 있고 사용자가 직접 켜야 한다."
+                "x": "Reddit 사용자들에 따르면 이번 업데이트는 4.2.12.989940186 버전에 담겼으며, Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 특별 제작된 Steph Curry 다이얼도 함께 들어 있다."
               },
               {
                 "t": "p",
-                "x": "태블릿은 10월 14일 미국(US), 멕시코, 캐나다에서, 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인에서 판매를 시작한다."
+                "x": "사용법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 열고, 템플릿 갤러리에서 고르는 대신 원하는 모습을 설명하면 Gemini Intelligence가 그에 가까운 결과를 내놓는다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AI가 생성한 워치 페이스(AI-generated)"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AI가 생성한 워치 페이스(AI-generated)"
+              },
+              {
+                "t": "p",
+                "x": "한계는 있지만, Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 업데이트가 현재 배포 중이어서 기기에 나타나기까지 시간이 걸릴 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Alexa+を軸にした\nAmazon新タブレット",
-          "body": "Amazonが12インチの反射防止モデルを含むAlexa+搭載タブレット三機種を発売した。",
-          "mini_headline": "AmazonのAlexa+タブレット",
+          "headline": "Pixel Watch 4に\nAI文字盤生成機能が到来",
+          "body": "Pixel Watch 5専用のAI文字盤生成が、更新でPixel Watch 4に届く。",
+          "mini_headline": "AI文字盤がPixel Watch 4に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "AIでカスタム文字盤を作成"
               },
               {
                 "t": "p",
-                "x": "Amazonは12、11、8インチの新しいAlexaタブレットを発売した。いずれもアルミニウムのユニボディで、中核にAlexa+を組み込んでいる。フラッグシップのAlexa Tablet 12 Proは、Amazonがこれまでに出荷したどのタブレットよりも「処理が三倍、グラフィックスが九倍速い」という。"
+                "x": "Pixel Watch 5の地味ながら強力な機能の一つが、Pixel Watch 4にもやってきた。AI文字盤ジェネレーターが現在、Pixel Watch 4の各モデルに順次配信されている。"
               },
               {
                 "t": "p",
-                "x": "12 Proは4nmの8コアチップ、最大16GBのRAM、120Hzで3:2のディスプレイを備える。ディスプレイは、Corningと共同でガラスに反射防止の質感を刻んだNanomatteも選べる。価格は$500から、Nanomatteは$550で、Pro Penは$90、キーボードは$150。Tablet 11は$330から、Tablet 8は$230からだ。"
+                "x": "Pixel Watch 5は刷新というより熟成のモデルで、内部の強化の大半はAI性能に向けられていた。その成果の一つがAI文字盤ジェネレーターであり、カスタム文字盤の作成を少し手軽にするツールだ。"
               },
               {
                 "t": "p",
-                "x": "三機種とも新しいKindle体験を備え、Alexa+のOn-Screen Intelligenceを使えば画面に表示された内容についてアシスタントに尋ねられる。スポーツイベントの全日程をカレンダーに追加したり、動画で見た製品をAmazonで探したりできる。この機能は初期設定でオフで、利用は任意だ。"
+                "x": "Redditのユーザーによると、このアップデートはバージョン4.2.12.989940186に含まれ、Pixel Watch 5の標準文字盤であるWeave、Modular、Reveal、Chronographに加え、特別仕様のSteph Curry文字盤も収録している。"
               },
               {
                 "t": "p",
-                "x": "発売は10月14日に米国(US)、メキシコ、カナダで、10月19日に英国(UK)、ドイツ、フランス、イタリア、スペインで始まる。"
+                "x": "使い方は簡単だ。Pixel Watchアプリで新しいデザインを作る際にプロンプト欄を開き、テンプレートギャラリーから選ぶ代わりに希望を説明すれば、Gemini Intelligenceがそれに近いものを作り出す。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AIが生成した文字盤（AI-generated）"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AIが生成した文字盤（AI-generated）"
+              },
+              {
+                "t": "p",
+                "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Amazon新平板\n以Alexa+为核心",
-          "body": "Amazon推出三款搭载Alexa+的新平板，其中包括一款配备防眩光屏幕的12英寸机型。",
-          "mini_headline": "Amazon的Alexa+平板",
+          "headline": "Pixel Watch 4\n迎来AI表盘生成器",
+          "body": "曾为Pixel Watch 5独占的AI表盘生成器，经更新登陆Pixel Watch 4。",
+          "mini_headline": "AI表盘登陆Pixel Watch 4",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "用AI创建自定义表盘"
               },
               {
                 "t": "p",
-                "x": "Amazon推出了12、11和8英寸的新款Alexa平板，全部采用铝制一体机身，并将Alexa+置于核心。旗舰机型Alexa Tablet 12 Pro比Amazon以往推出的任何平板都“处理速度快三倍、图形性能快九倍”。"
+                "x": "Pixel Watch 5一项低调却强大的功能已登陆Pixel Watch 4。AI表盘生成器目前正向Pixel Watch 4各机型推送。"
               },
               {
                 "t": "p",
-                "x": "12 Pro搭载4nm 8核芯片，最高16GB RAM，配备120Hz、3:2的显示屏，可选Nanomatte——与Corning合作在玻璃上蚀刻的防眩光纹理。起售价$500，Nanomatte版$550，Pro Pen售价$90，键盘$150。Tablet 11起售价$330，Tablet 8起售价$230。"
+                "x": "Pixel Watch 5更像是一次打磨而非颠覆，其内部改进大多集中在AI性能上。这番投入带来的一个好成果就是AI表盘生成器，它让创建自定义表盘变得更轻松一些。"
               },
               {
                 "t": "p",
-                "x": "三款平板都将获得全新的Kindle体验。借助Alexa+的On-Screen Intelligence，用户可以就屏幕上的内容向助手提问——比如把一项体育赛事的所有日期加入日历，或在Amazon上找到视频里出现的商品。该功能默认关闭，需用户主动开启。"
+                "x": "据Reddit用户反映，此次更新的版本号为4.2.12.989940186，还包含Pixel Watch 5的原生表盘Weave、Modular、Reveal和Chronograph，以及专属的Steph Curry表盘。"
               },
               {
                 "t": "p",
-                "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
+                "x": "生成器用法简单：在Pixel Watch应用中创建新表盘时打开提示词区域，不必从模板库中挑选，只需描述想要的样子，Gemini Intelligence就会生成相近的设计。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "AI生成的表盘（AI-generated）"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "AI生成的表盘（AI-generated）"
+              },
+              {
+                "t": "p",
+                "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las nuevas tabletas de Amazon\ngiran en torno a Alexa+",
-          "body": "Amazon lanzó tres nuevas tabletas con Alexa+, entre ellas un modelo de 12 pulgadas con pantalla antirreflejos.",
-          "mini_headline": "Las tabletas Alexa+ de Amazon",
+          "headline": "El Pixel Watch 4 recibe el\ngenerador de esferas con IA",
+          "body": "Una actualización lleva al Pixel Watch 4 el creador de esferas con IA de Google, antes exclusivo del Pixel Watch 5.",
+          "mini_headline": "Esferas con IA en el Pixel Watch 4",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+                "cap": "Creación de una esfera personalizada con IA"
               },
               {
                 "t": "p",
-                "x": "Amazon lanzó nuevas tabletas Alexa de 12, 11 y 8 pulgadas, todas con cuerpo unibody de aluminio y Alexa+ integrado en su núcleo. La insignia, Alexa Tablet 12 Pro, ofrece \"un procesamiento tres veces más rápido y gráficos nueve veces más rápidos\" que cualquier tableta que Amazon haya comercializado."
+                "x": "Una de las funciones discretamente potentes del Pixel Watch 5 ha llegado al Pixel Watch 4. El generador de esferas con IA (AI watch face generator) se está desplegando ahora en los modelos Pixel Watch 4."
               },
               {
                 "t": "p",
-                "x": "La 12 Pro usa un chip de 4nm y 8 núcleos, hasta 16GB de RAM y una pantalla de 120Hz en formato 3:2, con la opción Nanomatte, una textura antirreflejos grabada en el vidrio junto con Corning. Parte de $500, o $550 con Nanomatte, con un Pro Pen de $90 y un teclado de $150. La Tablet 11 parte de $330 y la Tablet 8, de $230."
+                "x": "El Pixel Watch 5 fue más un refinamiento que una revolución, y la mayoría de sus mejoras internas se centraron en el rendimiento de la IA. Un buen subproducto de ese esfuerzo es el generador de esferas con IA, una herramienta que facilita un poco la creación de esferas personalizadas."
               },
               {
                 "t": "p",
-                "x": "Las tres reciben una nueva experiencia de Kindle, y On-Screen Intelligence de Alexa+ permite preguntar al asistente por lo que aparece en pantalla: añadir al calendario todas las fechas de un evento deportivo o encontrar en Amazon un producto visto en un video. Viene desactivada por defecto y hay que activarla."
+                "x": "Según usuarios de Reddit, la actualización llega en la versión 4.2.12.989940186 e incluye también las esferas de serie del Pixel Watch 5 —Weave, Modular, Reveal y Chronograph— además de la esfera especial de Steph Curry."
               },
               {
                 "t": "p",
-                "x": "Las tabletas salen a la venta el 14 de octubre en Estados Unidos (US), México y Canadá, y el 19 de octubre en Reino Unido (UK), Alemania, Francia, Italia y España."
+                "x": "El generador es sencillo: al crear un nuevo diseño, se abre la sección de instrucciones en la app Pixel Watch, se describe lo que se quiere en lugar de elegir de una galería de plantillas, y Gemini Intelligence debería proponer algo parecido."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+                "cap": "Esferas generadas con IA (AI-generated)"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+                "cap": "Esferas generadas con IA (AI-generated)"
+              },
+              {
+                "t": "p",
+                "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
               }
             ]
           }
@@ -316,15 +465,15 @@
       }
     },
     {
-      "id": "gadgets-natura-ring",
+      "id": "gadgets-rtx-spark-preorders",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트 부르는\n$99 스마트 링",
-      "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
-      "mini_headline": "$99 링 속 AI 에이전트",
+      "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
+      "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매를 시작했다.",
+      "mini_headline": "RTX Spark 예약 판매 시작",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -332,222 +481,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+            "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+            "cap": "Nvidia RTX Spark 노트북"
           },
           {
             "t": "p",
-            "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 $99 스마트 링 Interface를 내놓았다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리한다. 건강 트래커 역할도 겸한다."
+            "x": "데이터를 직접 쥐고 비용을 미리 가늠하면서 클라우드 서비스에 묶이고 싶지 않은 소규모 기업이라면, AI를 로컬에서 돌리는 쪽에 점점 끌린다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 들고 다니는 기기 하나에 담았다."
           },
           {
             "t": "p",
-            "x": "출시 때부터 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되고, 어떤 작업을 어느 에이전트에 맡길지는 사용자가 고른다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고 배송은 12월이나 1월이다."
+            "x": "예약 주문은 지금 받고 있고 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터다. Microsoft, Asus, Lenovo, HP, Dell이 제품을 내놓는다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+            "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+            "cap": "Microsoft Surface Laptop Ultra"
           },
           {
             "t": "p",
-            "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 받을 계획이다."
+            "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 싸게 들어갈 수 있는 제품 가운데 하나로, 통합 메모리를 최대 128GB까지 넣을 수 있다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린에 메모리가 최대 128GB이고, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 같이 하는 팀에 맞는다."
           },
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+            "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+            "cap": "HP OmniBook Ultra 16"
           },
           {
             "t": "p",
-            "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 재고, 한 번 충전하면 엿새에서 12일을 간다."
+            "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 묶었다. 하위 칩은 18-core CPU와 5,120-core GPU다. 로컬 AI에서 메모리가 중요한 건 모델이 클수록 메모리를 훨씬 많이 먹기 때문이다. 물론 모델 크기와 정밀도, 소프트웨어 호환성도 성능을 좌우한다."
           }
         ]
       },
-      "lead_image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024",
       "text": {
         "en": {
-          "headline": "A $99 smart ring that\nsummons AI agents",
-          "body": "Natura's $99 Interface ring summons AI agents with a finger press and doubles as a health tracker.",
-          "mini_headline": "AI agents on a $99 ring",
+          "headline": "Nvidia RTX Spark laptops\nopen for pre-orders from $2,599",
+          "body": "Nvidia's RTX Spark laptops are now on pre-order from $2,599, offering Blackwell machines built to run AI locally.",
+          "mini_headline": "RTX Spark pre-orders open",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Spark laptops"
               },
               {
                 "t": "p",
-                "x": "Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents. With a press of your finger, you can ask an AI agent to complete a task, capture thoughts, and get things done without reaching for your phone — and the ring doubles as a health tracker."
+                "x": "Running AI locally is increasingly attractive for small businesses that want control over their data, predictable costs and freedom from cloud services. Nvidia's RTX Spark laptops combine powerful processors, Blackwell graphics and large unified memory in portable machines."
               },
               {
                 "t": "p",
-                "x": "At launch it connects with agents and apps including Meta's Muse, Instinct, Grok Bot, Claude and ChatGPT, and users can pick which agent handles which task. Responses arrive via headphones, an iPhone Live Activity or the NatureOS app. Preorders open next month, shipping in December or January."
+                "x": "Pre-orders are now open, with the first models shipping October 16. Prices start at $2,599.99, with models from Microsoft, Asus, Lenovo, HP and Dell."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "\"Ultimately, the main interface between users and technology is going to be the ring,\" founder Carlo Edoardo Ferraris said. After a three- to six-month free period, Natura plans a $9 monthly subscription."
+                "x": "Microsoft's 15-inch Surface Laptop Ultra is one of the least expensive ways in, with up to 128GB of unified memory. HP's 16-inch OmniBook Ultra 16 offers a 3K OLED touchscreen and up to 128GB; its 48GB-plus configurations get the full 20-core Grace CPU and 6,144-core Blackwell GPU. The Asus ProArt P16 suits teams mixing AI development with creative work, with up to 128GB of memory and 2TB of storage."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "The ring tracks heart rate, HRV, sleep stages, steps and skin temperature, and lasts six to 12 days per charge."
+                "x": "The RTX Spark platform pairs a Grace CPU with a Blackwell GPU and 24GB to 128GB of unified memory; the lower-end chip has an 18-core CPU and 5,120-core GPU. Memory matters for local AI since larger models need far more of it, though model size, precision and software compatibility also affect performance."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트 부르는\n$99 스마트 링",
-          "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
-          "mini_headline": "$99 링 속 AI 에이전트",
+          "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
+          "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매를 시작했다.",
+          "mini_headline": "RTX Spark 예약 판매 시작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Spark 노트북"
               },
               {
                 "t": "p",
-                "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 $99 스마트 링 Interface를 내놓았다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리한다. 건강 트래커 역할도 겸한다."
+                "x": "데이터를 직접 쥐고 비용을 미리 가늠하면서 클라우드 서비스에 묶이고 싶지 않은 소규모 기업이라면, AI를 로컬에서 돌리는 쪽에 점점 끌린다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 들고 다니는 기기 하나에 담았다."
               },
               {
                 "t": "p",
-                "x": "출시 때부터 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되고, 어떤 작업을 어느 에이전트에 맡길지는 사용자가 고른다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고 배송은 12월이나 1월이다."
+                "x": "예약 주문은 지금 받고 있고 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터다. Microsoft, Asus, Lenovo, HP, Dell이 제품을 내놓는다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 받을 계획이다."
+                "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 싸게 들어갈 수 있는 제품 가운데 하나로, 통합 메모리를 최대 128GB까지 넣을 수 있다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린에 메모리가 최대 128GB이고, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 같이 하는 팀에 맞는다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 재고, 한 번 충전하면 엿새에서 12일을 간다."
+                "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 묶었다. 하위 칩은 18-core CPU와 5,120-core GPU다. 로컬 AI에서 메모리가 중요한 건 모델이 클수록 메모리를 훨씬 많이 먹기 때문이다. 물론 모델 크기와 정밀도, 소프트웨어 호환성도 성능을 좌우한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントを呼ぶ\n$99のスマートリング",
-          "body": "Naturaの$99リングInterfaceは押すとAIエージェントを呼び、健康も測る。",
-          "mini_headline": "$99リングでAIエージェント",
+          "headline": "RTX Sparkノート\n$2,599から予約開始",
+          "body": "NvidiaのRTX Sparkノートが$2,599から予約受付を開始した。",
+          "mini_headline": "RTX Spark 予約開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Sparkノート"
               },
               {
                 "t": "p",
-                "x": "AIとハードウェアのスタートアップNaturaが、AIエージェントの時代に向けて設計した$99の新しいスマートリングInterfaceだ。指で押すだけで、スマートフォンに手を伸ばさずにAIエージェントにタスクを頼み、考えを書き留め、用事を片付けられる。さらにヘルストラッカーとしても機能する。"
+                "x": "データの管理権を握り、コストを予測しやすく、クラウドサービスに縛られたくない中小企業にとって、AIをローカルで動かす選択肢は魅力を増している。NvidiaのRTX Sparkノートは、強力なプロセッサー、Blackwellグラフィックス、大容量のユニファイドメモリを持ち運べる筐体に収めた。"
               },
               {
                 "t": "p",
-                "x": "発売時点でMetaのMuse、Instinct、Grok Bot、Claude、ChatGPTなどのエージェントやアプリと連携し、どのタスクをどのエージェントに任せるかをユーザーが選べる。応答はヘッドホン、iPhone Live Activity、NatureOSアプリで受け取る。予約注文は来月始まり、出荷は12月か1月の予定だ。"
+                "x": "予約受付はすでに始まっており、最初のモデルは10月16日に出荷される。価格は$2,599.99からで、Microsoft、Asus、Lenovo、HP、Dellがモデルを用意する。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "創業者のCarlo Edoardo Ferrarisは「最終的に、ユーザーとテクノロジーをつなぐ主なインターフェースはリングになる」と語った。Naturaは三〜六か月の無料期間の後、月額$9のサブスクリプションを導入する計画だ。"
+                "x": "Microsoftの15-inch Surface Laptop Ultraは最も手頃な選択肢の一つで、ユニファイドメモリは最大 128GB まで選べる。HPの16-inch OmniBook Ultra 16は3K OLED タッチスクリーンと最大 128GB のメモリを備え、48GB-plus の構成ではフル仕様の20-core Grace CPUと6,144-core Blackwell GPUを搭載する。Asus ProArt P16は最大 128GB のメモリと 2TB のストレージを備え、AI開発とクリエイティブ作業を両立するチームに向く。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "リングは心拍数、HRV、睡眠段階、歩数、皮膚温度を記録し、一度の充電で六〜12日持つ。"
+                "x": "RTX SparkプラットフォームはGrace CPUとBlackwell GPUに、24GB〜128GB のユニファイドメモリを組み合わせる。下位チップは18-core CPUと5,120-core GPUを備える。大きなモデルほど多くのメモリを必要とするため、ローカルAIではメモリが重要になるが、モデルのサイズや精度、ソフトウェアの互換性も性能を左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "能召唤AI智能体的\n$99智能戒指",
-          "body": "Natura售价$99的Interface戒指按一下就能召唤AI智能体，也能兼作健康追踪器。",
-          "mini_headline": "$99戒指上的AI智能体",
+          "headline": "RTX Spark笔记本\n$2,599起开启预订",
+          "body": "Nvidia RTX Spark笔记本开启预订，售价$2,599起，可在本地运行AI。",
+          "mini_headline": "RTX Spark开启预订",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Spark笔记本"
               },
               {
                 "t": "p",
-                "x": "Interface是AI与硬件初创公司Natura推出的一款$99新智能戒指，专为AI智能体时代设计。只需用手指一按，就能让AI智能体完成任务、记录想法、处理事务，无需拿起手机——这枚戒指还兼作健康追踪器。"
+                "x": "对于希望掌控数据、成本可预期并摆脱云服务束缚的小型企业而言，在本地运行AI正变得越来越有吸引力。Nvidia的RTX Spark笔记本将强大的处理器、Blackwell图形和大容量统一内存集成在便携设备中。"
               },
               {
                 "t": "p",
-                "x": "上市时，它可连接Meta的Muse、Instinct、Grok Bot、Claude和ChatGPT等智能体与应用，用户可以自行选择由哪个智能体处理哪项任务。回复可通过耳机、iPhone Live Activity或NatureOS应用接收。预购将于下月开启，12月或1月发货。"
+                "x": "预订现已开启，首批机型将于10月16日发货。起售价为$2,599.99，Microsoft、Asus、Lenovo、HP和Dell均推出了相应机型。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "创始人Carlo Edoardo Ferraris表示：“归根结底，用户与技术之间的主要界面将是戒指。”在三至六个月的免费期之后，Natura计划推出每月$9的订阅。"
+                "x": "Microsoft的15-inch Surface Laptop Ultra是入门成本最低的选择之一，最高配备 128GB 统一内存。HP的16-inch OmniBook Ultra 16配备3K OLED 触摸屏，内存最高 128GB；48GB-plus 配置可获得完整的20-core Grace CPU和6,144-core Blackwell GPU。Asus ProArt P16最高配备 128GB 内存和 2TB 存储，适合兼顾AI开发与创意工作的团队。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "这枚戒指可追踪心率、HRV、睡眠阶段、步数和皮肤温度，充一次电可用六至12天。"
+                "x": "RTX Spark平台将Grace CPU与Blackwell GPU以及 24GB 至 128GB 统一内存相结合；低配芯片为18-core CPU和5,120-core GPU。由于更大的模型需要多得多的内存，内存对本地AI至关重要，不过模型大小、精度和软件兼容性同样会影响性能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anillo inteligente de $99\nque convoca agentes de AI",
-          "body": "El anillo Interface de Natura, de $99, convoca agentes de AI con solo presionarlo y funciona como monitor de salud.",
-          "mini_headline": "Agentes de AI en un anillo de $99",
+          "headline": "Los portátiles Nvidia RTX Spark\nabren reservas desde $2,599",
+          "body": "Los portátiles RTX Spark de Nvidia pueden reservarse desde $2,599, con equipos Blackwell para ejecutar IA en local.",
+          "mini_headline": "Abren las reservas de RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Portátiles Nvidia RTX Spark"
               },
               {
                 "t": "p",
-                "x": "Interface es un nuevo anillo inteligente de $99 de Natura, una startup de AI y hardware, diseñado para la era de los agentes de AI. Con solo presionarlo con el dedo, se le puede pedir a un agente de AI que complete una tarea, anotar ideas y resolver pendientes sin sacar el teléfono; además, el anillo funciona como monitor de salud."
+                "x": "Ejecutar IA (AI) en local resulta cada vez más atractivo para las pequeñas empresas que quieren controlar sus datos, tener costes previsibles y no depender de servicios en la nube. Los portátiles RTX Spark de Nvidia combinan procesadores potentes, gráficos Blackwell y una gran memoria unificada en equipos portátiles."
               },
               {
                 "t": "p",
-                "x": "En su lanzamiento se conecta con agentes y aplicaciones como Muse de Meta, Instinct, Grok Bot, Claude y ChatGPT, y el usuario puede elegir qué agente se encarga de cada tarea. Las respuestas llegan por auriculares, una iPhone Live Activity o la aplicación NatureOS. Las reservas abren el mes próximo y los envíos serán en diciembre o enero."
+                "x": "Las reservas ya están abiertas y los primeros modelos se envían el 16 de octubre. Los precios parten de $2,599.99, con modelos de Microsoft, Asus, Lenovo, HP y Dell."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "\"En última instancia, la principal interfaz entre los usuarios y la tecnología va a ser el anillo\", dijo el fundador Carlo Edoardo Ferraris. Tras un periodo gratuito de tres a seis meses, Natura prevé una suscripción mensual de $9."
+                "x": "El Surface Laptop Ultra de 15 pulgadas (15-inch) de Microsoft es una de las opciones de entrada más económicas, con hasta 128GB de memoria unificada. El OmniBook Ultra 16 de HP, de 16 pulgadas (16-inch), ofrece una pantalla táctil 3K OLED y hasta 128GB; sus configuraciones de 48GB o más (48GB-plus) incorporan la Grace CPU completa de 20 núcleos (20-core) y la Blackwell GPU de 6,144 núcleos (6,144-core). El Asus ProArt P16 se adapta a equipos que combinan desarrollo de IA y trabajo creativo, con hasta 128GB de memoria y 2TB de almacenamiento."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "El anillo registra frecuencia cardiaca, HRV, fases del sueño, pasos y temperatura de la piel, y su batería dura de seis a 12 días por carga."
+                "x": "La plataforma RTX Spark combina una Grace CPU con una Blackwell GPU y de 24GB a 128GB de memoria unificada; el chip de gama inferior tiene una CPU de 18 núcleos (18-core) y una GPU de 5,120 núcleos (5,120-core). La memoria es clave para la IA local, ya que los modelos más grandes necesitan mucha más, aunque el tamaño del modelo, la precisión y la compatibilidad del software también influyen en el rendimiento."
               }
             ]
           }
@@ -555,153 +721,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트 부르는\n$99 스마트 링",
-          "body": "Natura의 $99 링 Interface는 AI 에이전트를 부르고 건강도 잰다.",
-          "mini_headline": "$99 링 속 AI 에이전트",
+          "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
+          "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매에 들어갔다.",
+          "mini_headline": "RTX Spark 예약 판매 시작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Spark 노트북"
               },
               {
                 "t": "p",
-                "x": "AI·하드웨어 스타트업 Natura가 AI 에이전트 시대를 겨냥해 내놓은 $99 스마트 링 Interface다. 손가락으로 누르기만 하면 휴대폰을 꺼내지 않고도 AI 에이전트에게 작업을 맡기고, 생각을 기록하고, 일을 처리할 수 있다. 이 링은 건강 트래커 역할도 한다."
+                "x": "데이터를 직접 통제하고, 비용을 예측할 수 있으며, 클라우드 서비스에 묶이지 않으려는 소규모 기업에게 AI를 로컬에서 돌리는 방식이 점점 매력적인 선택이 되고 있다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 휴대용 기기에 담았다."
               },
               {
                 "t": "p",
-                "x": "출시 시점에 Meta의 Muse, Instinct, Grok Bot, Claude, ChatGPT 등 에이전트와 앱에 연결되며, 사용자는 어떤 작업을 어떤 에이전트에 맡길지 고를 수 있다. 응답은 헤드폰이나 iPhone Live Activity, NatureOS 앱으로 받는다. 사전 주문은 다음 달 시작하고, 배송은 12월이나 1월이다."
+                "x": "예약 주문은 현재 열려 있으며 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터 시작하고, Microsoft, Asus, Lenovo, HP, Dell이 모델을 내놓는다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "창업자 Carlo Edoardo Ferraris는 \"결국 사용자와 기술을 잇는 주된 인터페이스는 링이 될 것\"이라고 말했다. Natura는 세 달에서 여섯 달의 무료 기간이 끝나면 월 $9 구독을 도입할 계획이다."
+                "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 저렴하게 진입할 수 있는 선택지 중 하나로, 최대 128GB 통합 메모리를 갖춘다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린과 최대 128GB 메모리를 제공하며, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 함께 하는 팀에 어울린다."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "링은 심박수, HRV, 수면 단계, 걸음 수, 피부 온도를 추적하며, 한 번 충전하면 엿새에서 12일 간다."
+                "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 결합한다. 하위 칩은 18-core CPU와 5,120-core GPU를 갖췄다. 모델이 클수록 훨씬 많은 메모리가 필요하기 때문에 로컬 AI에서는 메모리가 중요하다. 다만 모델 크기와 정밀도, 소프트웨어 호환성도 성능에 영향을 준다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントを呼ぶ\n$99のスマートリング",
-          "body": "Naturaの$99リングInterfaceは押すとAIエージェントを呼び、健康も測る。",
-          "mini_headline": "$99リングでAIエージェント",
+          "headline": "RTX Sparkノート\n$2,599から予約開始",
+          "body": "NvidiaのRTX Sparkノートが$2,599から予約受付を開始した。",
+          "mini_headline": "RTX Spark 予約開始",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Sparkノート"
               },
               {
                 "t": "p",
-                "x": "AIとハードウェアのスタートアップNaturaが、AIエージェントの時代に向けて設計した$99の新しいスマートリングInterfaceだ。指で押すだけで、スマートフォンに手を伸ばさずにAIエージェントにタスクを頼み、考えを書き留め、用事を片付けられる。さらにヘルストラッカーとしても機能する。"
+                "x": "データの管理権を握り、コストを予測しやすく、クラウドサービスに縛られたくない中小企業にとって、AIをローカルで動かす選択肢は魅力を増している。NvidiaのRTX Sparkノートは、強力なプロセッサー、Blackwellグラフィックス、大容量のユニファイドメモリを持ち運べる筐体に収めた。"
               },
               {
                 "t": "p",
-                "x": "発売時点でMetaのMuse、Instinct、Grok Bot、Claude、ChatGPTなどのエージェントやアプリと連携し、どのタスクをどのエージェントに任せるかをユーザーが選べる。応答はヘッドホン、iPhone Live Activity、NatureOSアプリで受け取る。予約注文は来月始まり、出荷は12月か1月の予定だ。"
+                "x": "予約受付はすでに始まっており、最初のモデルは10月16日に出荷される。価格は$2,599.99からで、Microsoft、Asus、Lenovo、HP、Dellがモデルを用意する。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "創業者のCarlo Edoardo Ferrarisは「最終的に、ユーザーとテクノロジーをつなぐ主なインターフェースはリングになる」と語った。Naturaは三〜六か月の無料期間の後、月額$9のサブスクリプションを導入する計画だ。"
+                "x": "Microsoftの15-inch Surface Laptop Ultraは最も手頃な選択肢の一つで、ユニファイドメモリは最大 128GB まで選べる。HPの16-inch OmniBook Ultra 16は3K OLED タッチスクリーンと最大 128GB のメモリを備え、48GB-plus の構成ではフル仕様の20-core Grace CPUと6,144-core Blackwell GPUを搭載する。Asus ProArt P16は最大 128GB のメモリと 2TB のストレージを備え、AI開発とクリエイティブ作業を両立するチームに向く。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "リングは心拍数、HRV、睡眠段階、歩数、皮膚温度を記録し、一度の充電で六〜12日持つ。"
+                "x": "RTX SparkプラットフォームはGrace CPUとBlackwell GPUに、24GB〜128GB のユニファイドメモリを組み合わせる。下位チップは18-core CPUと5,120-core GPUを備える。大きなモデルほど多くのメモリを必要とするため、ローカルAIではメモリが重要になるが、モデルのサイズや精度、ソフトウェアの互換性も性能を左右する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "能召唤AI智能体的\n$99智能戒指",
-          "body": "Natura售价$99的Interface戒指按一下就能召唤AI智能体，也能兼作健康追踪器。",
-          "mini_headline": "$99戒指上的AI智能体",
+          "headline": "RTX Spark笔记本\n$2,599起开启预订",
+          "body": "Nvidia RTX Spark笔记本开启预订，售价$2,599起，可在本地运行AI。",
+          "mini_headline": "RTX Spark开启预订",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Nvidia RTX Spark笔记本"
               },
               {
                 "t": "p",
-                "x": "Interface是AI与硬件初创公司Natura推出的一款$99新智能戒指，专为AI智能体时代设计。只需用手指一按，就能让AI智能体完成任务、记录想法、处理事务，无需拿起手机——这枚戒指还兼作健康追踪器。"
+                "x": "对于希望掌控数据、成本可预期并摆脱云服务束缚的小型企业而言，在本地运行AI正变得越来越有吸引力。Nvidia的RTX Spark笔记本将强大的处理器、Blackwell图形和大容量统一内存集成在便携设备中。"
               },
               {
                 "t": "p",
-                "x": "上市时，它可连接Meta的Muse、Instinct、Grok Bot、Claude和ChatGPT等智能体与应用，用户可以自行选择由哪个智能体处理哪项任务。回复可通过耳机、iPhone Live Activity或NatureOS应用接收。预购将于下月开启，12月或1月发货。"
+                "x": "预订现已开启，首批机型将于10月16日发货。起售价为$2,599.99，Microsoft、Asus、Lenovo、HP和Dell均推出了相应机型。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "创始人Carlo Edoardo Ferraris表示：“归根结底，用户与技术之间的主要界面将是戒指。”在三至六个月的免费期之后，Natura计划推出每月$9的订阅。"
+                "x": "Microsoft的15-inch Surface Laptop Ultra是入门成本最低的选择之一，最高配备 128GB 统一内存。HP的16-inch OmniBook Ultra 16配备3K OLED 触摸屏，内存最高 128GB；48GB-plus 配置可获得完整的20-core Grace CPU和6,144-core Blackwell GPU。Asus ProArt P16最高配备 128GB 内存和 2TB 存储，适合兼顾AI开发与创意工作的团队。"
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "这枚戒指可追踪心率、HRV、睡眠阶段、步数和皮肤温度，充一次电可用六至12天。"
+                "x": "RTX Spark平台将Grace CPU与Blackwell GPU以及 24GB 至 128GB 统一内存相结合；低配芯片为18-core CPU和5,120-core GPU。由于更大的模型需要多得多的内存，内存对本地AI至关重要，不过模型大小、精度和软件兼容性同样会影响性能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un anillo inteligente de $99\nque convoca agentes de AI",
-          "body": "El anillo Interface de Natura, de $99, convoca agentes de AI con solo presionarlo y funciona como monitor de salud.",
-          "mini_headline": "Agentes de AI en un anillo de $99",
+          "headline": "Los portátiles Nvidia RTX Spark\nabren reservas desde $2,599",
+          "body": "Los portátiles RTX Spark de Nvidia pueden reservarse desde $2,599, con equipos Blackwell para ejecutar IA en local.",
+          "mini_headline": "Abren las reservas de RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?w=1024"
+                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+                "cap": "Portátiles Nvidia RTX Spark"
               },
               {
                 "t": "p",
-                "x": "Interface es un nuevo anillo inteligente de $99 de Natura, una startup de AI y hardware, diseñado para la era de los agentes de AI. Con solo presionarlo con el dedo, se le puede pedir a un agente de AI que complete una tarea, anotar ideas y resolver pendientes sin sacar el teléfono; además, el anillo funciona como monitor de salud."
+                "x": "Ejecutar IA (AI) en local resulta cada vez más atractivo para las pequeñas empresas que quieren controlar sus datos, tener costes previsibles y no depender de servicios en la nube. Los portátiles RTX Spark de Nvidia combinan procesadores potentes, gráficos Blackwell y una gran memoria unificada en equipos portátiles."
               },
               {
                 "t": "p",
-                "x": "En su lanzamiento se conecta con agentes y aplicaciones como Muse de Meta, Instinct, Grok Bot, Claude y ChatGPT, y el usuario puede elegir qué agente se encarga de cada tarea. Las respuestas llegan por auriculares, una iPhone Live Activity o la aplicación NatureOS. Las reservas abren el mes próximo y los envíos serán en diciembre o enero."
+                "x": "Las reservas ya están abiertas y los primeros modelos se envían el 16 de octubre. Los precios parten de $2,599.99, con modelos de Microsoft, Asus, Lenovo, HP y Dell."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-conversation.jpg?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+                "cap": "Microsoft Surface Laptop Ultra"
               },
               {
                 "t": "p",
-                "x": "\"En última instancia, la principal interfaz entre los usuarios y la tecnología va a ser el anillo\", dijo el fundador Carlo Edoardo Ferraris. Tras un periodo gratuito de tres a seis meses, Natura prevé una suscripción mensual de $9."
+                "x": "El Surface Laptop Ultra de 15 pulgadas (15-inch) de Microsoft es una de las opciones de entrada más económicas, con hasta 128GB de memoria unificada. El OmniBook Ultra 16 de HP, de 16 pulgadas (16-inch), ofrece una pantalla táctil 3K OLED y hasta 128GB; sus configuraciones de 48GB o más (48GB-plus) incorporan la Grace CPU completa de 20 núcleos (20-core) y la Blackwell GPU de 6,144 núcleos (6,144-core). El Asus ProArt P16 se adapta a equipos que combinan desarrollo de IA y trabajo creativo, con hasta 128GB de memoria y 2TB de almacenamiento."
               },
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/10/interface-product.png?w=680"
+                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+                "cap": "HP OmniBook Ultra 16"
               },
               {
                 "t": "p",
-                "x": "El anillo registra frecuencia cardiaca, HRV, fases del sueño, pasos y temperatura de la piel, y su batería dura de seis a 12 días por carga."
+                "x": "La plataforma RTX Spark combina una Grace CPU con una Blackwell GPU y de 24GB a 128GB de memoria unificada; el chip de gama inferior tiene una CPU de 18 núcleos (18-core) y una GPU de 5,120 núcleos (5,120-core). La memoria es clave para la IA local, ya que los modelos más grandes necesitan mucha más, aunque el tamaño del modelo, la precisión y la compatibilidad del software también influyen en el rendimiento."
               }
             ]
           }
@@ -709,485 +887,285 @@
       }
     },
     {
-      "id": "gadgets-apple-home-event",
+      "id": "gadgets-rayban-meta-gen3-muse",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
-      "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
-      "mini_headline": "Apple 홈 행사, 10월 13일",
+      "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
+      "body": "Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
+      "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Apple이 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. 예고 문구는 \"Welcome home\"이다. Apple TV와 HomePod mini 새 버전, 그리고 오래 기다려 온 HomePad가 나올 것으로 알려졌다."
-          },
-          {
-            "t": "p",
-            "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 만든다는 소문은 오래전부터 돌았다. Bloomberg의 Mark Gurman에 따르면 Apple은 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다."
-          },
-          {
-            "t": "p",
-            "x": "HomePad에는 일곱 인치 디스플레이와 새 운영체제 homeOS, StandBy-like 대시보드가 들어간다고 알려졌다. 얼굴·음성 인식으로 사용자마다 콘텐츠를 맞춰 보여주고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴도 지원한다는 소문이다."
-          },
-          {
-            "t": "p",
-            "x": "새 Apple TV와 HomePod mini도 Siri AI에 맞춰 사양이 올라갈 공산이 크다."
-          }
-        ]
-      },
-      "lead_image": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg",
-      "text": {
-        "en": {
-          "headline": "Apple sets an October 13\nevent for the smart home",
-          "body": "Apple teased a 'Welcome home' event for October 13, where it is expected to show a Siri AI-driven smart home hub.",
-          "mini_headline": "Apple's home event, Oct 13",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple has announced its second event of the fall, teased with the phrase \"Welcome home,\" for October 13 at 9AM ET in Tribeca, New York. Along with refreshed versions of the Apple TV and HomePod mini, Apple is said to unveil its long-expected HomePad."
-              },
-              {
-                "t": "p",
-                "x": "Apple has long been rumored to be working on a smart display to rival Amazon's Echo Show, and Bloomberg's Mark Gurman reported that Apple delayed the device until Siri AI was ready."
-              },
-              {
-                "t": "p",
-                "x": "The HomePad is said to have a seven-inch display, a new operating system dubbed homeOS and a StandBy-like dashboard. Rumors suggest it will use face and voice recognition to personalize content for whoever is using it, alongside smart home control, FaceTime, streaming and intercom."
-              },
-              {
-                "t": "p",
-                "x": "The new Apple TV and HomePod mini are likely getting spec upgrades so they can support Siri AI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
-          "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
-          "mini_headline": "Apple 홈 행사, 10월 13일",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. 예고 문구는 \"Welcome home\"이다. Apple TV와 HomePod mini 새 버전, 그리고 오래 기다려 온 HomePad가 나올 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 만든다는 소문은 오래전부터 돌았다. Bloomberg의 Mark Gurman에 따르면 Apple은 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다."
-              },
-              {
-                "t": "p",
-                "x": "HomePad에는 일곱 인치 디스플레이와 새 운영체제 homeOS, StandBy-like 대시보드가 들어간다고 알려졌다. 얼굴·음성 인식으로 사용자마다 콘텐츠를 맞춰 보여주고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴도 지원한다는 소문이다."
-              },
-              {
-                "t": "p",
-                "x": "새 Apple TV와 HomePod mini도 Siri AI에 맞춰 사양이 올라갈 공산이 크다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple、10月13日に\nスマートホーム発表会",
-          "body": "Appleは10月13日、Siri AI-drivenのホームハブを披露する見通しだ。",
-          "mini_headline": "Appleのホーム発表会、10月13日",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは「Welcome home」という言葉で予告した今秋二度目のイベントを、10月13日9AM ET にニューヨークのTribecaで開くと発表した。Apple TVとHomePod miniの刷新版に加え、待望のHomePadを発表するとされる。"
-              },
-              {
-                "t": "p",
-                "x": "AppleがAmazonのEcho Showに対抗するスマートディスプレイを開発中だという噂は以前からあった。BloombergのMark Gurmanは、AppleがSiri AIの準備が整うまでこの製品を延期したと報じている。"
-              },
-              {
-                "t": "p",
-                "x": "HomePadは七インチのディスプレイ、homeOSと呼ばれる新OS、StandBy-likeなダッシュボードを備えるとされる。顔と声の認識で使う人ごとにコンテンツを最適化し、スマートホーム操作、FaceTime、ストリーミング、インターホン機能も担うと噂されている。"
-              },
-              {
-                "t": "p",
-                "x": "新しいApple TVとHomePod miniは、Siri AIに対応するため仕様が強化される見込みだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple定于10月13日\n举办智能家居发布会",
-          "body": "预计Apple将于10月13日展示Siri AI-driven智能家居中枢。",
-          "mini_headline": "Apple家居发布会，10月13日",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple宣布将于10月13日9AM ET在纽约Tribeca举办今年秋季的第二场发布会，预告语为“Welcome home”。据悉，除了更新版Apple TV和HomePod mini，Apple还将推出外界期待已久的HomePad。"
-              },
-              {
-                "t": "p",
-                "x": "长期以来一直有传言称Apple正在开发一款对标Amazon Echo Show的智能显示屏。Bloomberg的Mark Gurman报道称，Apple将这款设备推迟到Siri AI准备就绪后再推出。"
-              },
-              {
-                "t": "p",
-                "x": "据称HomePad将配备七英寸显示屏、名为homeOS的全新操作系统以及StandBy-like仪表盘。传言称它将通过人脸和语音识别为不同使用者个性化内容，并支持智能家居控制、FaceTime、流媒体和对讲功能。"
-              },
-              {
-                "t": "p",
-                "x": "新款Apple TV和HomePod mini可能会升级规格，以支持Siri AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apple anuncia un evento\npara el hogar el 13 de octubre",
-          "body": "Apple anunció un evento 'Welcome home' para el 13 de octubre, donde se espera un hub doméstico Siri AI-driven.",
-          "mini_headline": "Evento de Apple para el hogar, 13 de octubre",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple anunció su segundo evento del otoño, presentado con la frase \"Welcome home\", para el 13 de octubre a las 9AM ET en Tribeca, Nueva York. Además de versiones renovadas del Apple TV y el HomePod mini, se espera que Apple presente su esperado HomePad."
-              },
-              {
-                "t": "p",
-                "x": "Desde hace tiempo se rumorea que Apple trabaja en una pantalla inteligente para competir con el Echo Show de Amazon, y Mark Gurman, de Bloomberg, informó que Apple retrasó el dispositivo hasta que Siri AI estuviera lista."
-              },
-              {
-                "t": "p",
-                "x": "Se dice que el HomePad tendrá una pantalla de siete pulgadas, un nuevo sistema operativo llamado homeOS y un panel StandBy-like. Los rumores apuntan a que usará reconocimiento facial y de voz para personalizar el contenido según quién lo use, además de control del hogar inteligente, FaceTime, streaming e intercomunicador."
-              },
-              {
-                "t": "p",
-                "x": "Es probable que el nuevo Apple TV y el HomePod mini reciban mejoras de especificaciones para admitir Siri AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Apple, 10월 13일\n스마트홈 행사 연다",
-          "body": "Apple이 10월 13일 Siri AI-driven 홈 허브를 공개할 전망이다.",
-          "mini_headline": "Apple 홈 행사, 10월 13일",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 \"Welcome home\"이라는 문구로 예고한 올가을 두 번째 이벤트를 10월 13일 오전 9AM ET 뉴욕 Tribeca에서 연다고 발표했다. Apple TV와 HomePod mini 새 버전과 함께, 오래 기다려 온 HomePad가 공개될 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "Apple이 Amazon의 Echo Show에 맞설 스마트 디스플레이를 개발 중이라는 소문은 오래전부터 있었다. Bloomberg의 Mark Gurman은 Apple이 Siri AI가 준비될 때까지 이 기기 출시를 미뤘다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "HomePad는 일곱 인치 디스플레이와 homeOS라는 새 운영체제, StandBy-like 대시보드를 갖출 것으로 알려졌다. 얼굴·음성 인식으로 사용자에 맞춰 콘텐츠를 개인화하고, 스마트홈 제어와 FaceTime, 스트리밍, 인터컴 기능도 지원한다는 소문이다."
-              },
-              {
-                "t": "p",
-                "x": "새 Apple TV와 HomePod mini는 Siri AI를 지원하도록 사양이 올라갈 가능성이 크다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Apple、10月13日に\nスマートホーム発表会",
-          "body": "Appleは10月13日、Siri AI-drivenのホームハブを披露する見通しだ。",
-          "mini_headline": "Appleのホーム発表会、10月13日",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Appleは「Welcome home」という言葉で予告した今秋二度目のイベントを、10月13日9AM ET にニューヨークのTribecaで開くと発表した。Apple TVとHomePod miniの刷新版に加え、待望のHomePadを発表するとされる。"
-              },
-              {
-                "t": "p",
-                "x": "AppleがAmazonのEcho Showに対抗するスマートディスプレイを開発中だという噂は以前からあった。BloombergのMark Gurmanは、AppleがSiri AIの準備が整うまでこの製品を延期したと報じている。"
-              },
-              {
-                "t": "p",
-                "x": "HomePadは七インチのディスプレイ、homeOSと呼ばれる新OS、StandBy-likeなダッシュボードを備えるとされる。顔と声の認識で使う人ごとにコンテンツを最適化し、スマートホーム操作、FaceTime、ストリーミング、インターホン機能も担うと噂されている。"
-              },
-              {
-                "t": "p",
-                "x": "新しいApple TVとHomePod miniは、Siri AIに対応するため仕様が強化される見込みだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple定于10月13日\n举办智能家居发布会",
-          "body": "预计Apple将于10月13日展示Siri AI-driven智能家居中枢。",
-          "mini_headline": "Apple家居发布会，10月13日",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple宣布将于10月13日9AM ET在纽约Tribeca举办今年秋季的第二场发布会，预告语为“Welcome home”。据悉，除了更新版Apple TV和HomePod mini，Apple还将推出外界期待已久的HomePad。"
-              },
-              {
-                "t": "p",
-                "x": "长期以来一直有传言称Apple正在开发一款对标Amazon Echo Show的智能显示屏。Bloomberg的Mark Gurman报道称，Apple将这款设备推迟到Siri AI准备就绪后再推出。"
-              },
-              {
-                "t": "p",
-                "x": "据称HomePad将配备七英寸显示屏、名为homeOS的全新操作系统以及StandBy-like仪表盘。传言称它将通过人脸和语音识别为不同使用者个性化内容，并支持智能家居控制、FaceTime、流媒体和对讲功能。"
-              },
-              {
-                "t": "p",
-                "x": "新款Apple TV和HomePod mini可能会升级规格，以支持Siri AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Apple anuncia un evento\npara el hogar el 13 de octubre",
-          "body": "Apple anunció un evento 'Welcome home' para el 13 de octubre, donde se espera un hub doméstico Siri AI-driven.",
-          "mini_headline": "Evento de Apple para el hogar, 13 de octubre",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/l-intro-1791476639.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple anunció su segundo evento del otoño, presentado con la frase \"Welcome home\", para el 13 de octubre a las 9AM ET en Tribeca, Nueva York. Además de versiones renovadas del Apple TV y el HomePod mini, se espera que Apple presente su esperado HomePad."
-              },
-              {
-                "t": "p",
-                "x": "Desde hace tiempo se rumorea que Apple trabaja en una pantalla inteligente para competir con el Echo Show de Amazon, y Mark Gurman, de Bloomberg, informó que Apple retrasó el dispositivo hasta que Siri AI estuviera lista."
-              },
-              {
-                "t": "p",
-                "x": "Se dice que el HomePad tendrá una pantalla de siete pulgadas, un nuevo sistema operativo llamado homeOS y un panel StandBy-like. Los rumores apuntan a que usará reconocimiento facial y de voz para personalizar el contenido según quién lo use, además de control del hogar inteligente, FaceTime, streaming e intercomunicador."
-              },
-              {
-                "t": "p",
-                "x": "Es probable que el nuevo Apple TV y el HomePod mini reciban mejoras de especificaciones para admitir Siri AI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-nvidia-physical-ai-safety",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
-      "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
-      "mini_headline": "Nvidia의 피지컬 AI 안전",
-      "tool": "Gadgets",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Meta는 이제 스마트 안경 시장의 최대 강자이고, Ray-Ban Meta (Gen 3)는 그 세 번째 세대다. Gizmodo는 엄밀히 따지면 업그레이드는 맞다고 본다. 배터리 수명이 늘고 하드웨어를 조금 손봤지만 이전 모델과 비교해 달라진 점은 많지 않다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-            "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템 덕분에 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
+            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
           },
           {
             "t": "p",
-            "x": "Nvidia의 Halos 시스템은 2025년, 개발자가 자율주행차에 가드레일을 구현하도록 돕는 용도로 나왔다. 2026년 6월에는 Halos for Robotics로 범위를 넓혀 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥했다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
+            "x": "가격은 $449부터다. 최대 3K 영상을 찍는 12-megapixel 카메라, AI 기능 구성, 조작 방식, 음질은 바뀌지 않았다. 배터리는 한 시간 늘어 혼합 사용 기준 아홉 시간을 가고, 테스트에서 음악은 여섯 시간가량 재생됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
           },
           {
             "t": "p",
-            "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 짜였다. 로봇 청소기와 창고 지게차는 안전의 정의부터 다르다. 그래서 개발자가 안전 기능을 직접 맞춰 프로그래밍할 수 있다."
+            "x": "Meta는 여섯 번째 마이크를 달아 배경 소음을 최대 90%까지 줄였다고 한다. 그래도 통화 상대에게는 자동차, 기차, 사람 목소리가 여전히 들렸다. 강점은 공간 음향이다. 9월 소프트웨어 업데이트로 배포됐고 Meta AI 앱에서 켤 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
           },
           {
             "t": "p",
-            "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
+            "x": "안경다리는 1mm 얇아졌고 모든 스타일에 조절식 팁이 들어갔으며 카메라는 36% 작아졌다. 그만큼 이 안경을 알아보기가 어려워져 사생활 우려가 커지는데도 카메라 셔터는 여전히 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Meta의 최신 AI 모델 Muse는 아직 어색한 구석이 있어도 AI 경험을 크게 끌어올렸다. 다만 이 소프트웨어 업그레이드는 Gen 3에만 오는 게 아니다. 그래서 리뷰어는 이전 세대 사용자가 서둘러 갈아탈 이유가 거의 없다고 본다."
           }
         ]
       },
-      "lead_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
       "text": {
         "en": {
-          "headline": "Nvidia bets on safety\nfor physical AI",
-          "body": "Nvidia's full-stack safety system for physical AI, aimed at safer robotaxis and humanoids, is in use by robot makers.",
-          "mini_headline": "Nvidia's physical AI safety",
+          "headline": "Ray-Ban Meta Gen 3 is a small\nupgrade; Muse AI is the big one",
+          "body": "The $449 Ray-Ban Meta Gen 3 keeps its camera and features, but Meta's new Muse model upgrades the assistant.",
+          "mini_headline": "Muse lifts Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta is now the biggest force in smart glasses, and the Ray-Ban Meta (Gen 3) is its third generation. Gizmodo calls it technically an upgrade: better battery life and some hardware tweaks, but not much else over the last model."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility Robotics' Digit humanoid robot uses Nvidia's Halos system to help safely work around people. Credit: Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia's Halos system launched in 2025 to help developers implement guardrails in self-driving cars, and in June 2026 the company extended it with Halos for Robotics — for warehouse robots, factory humanoids and even surgical robots. \"A thing we thought is going to be the next bottleneck is safety,\" said Nvidia's Amit Goel."
+                "x": "Starting at $449, it keeps the same 12-megapixel camera with up to 3K video, the same AI feature set, controls and audio quality. Battery life grows by an hour to nine hours of mixed use; in testing, music playback stretched to about six hours."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "The full stack spans the IGX Thor module with an independent safety processor, a Halos OS that monitors \"every hardware block\" and \"every software library,\" the Holoscan Sensor Bridge, simulation and an inspection lab program. Because a robot vacuum and a warehouse forklift define safety differently, developers can program custom safety functions."
+                "x": "Meta added a sixth microphone to cut background noise by up to 90%, but people on calls still heard cars, trains and voices. Spatial audio, rolled out in a September software update and enabled in the Meta AI app, is a highlight."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics was first to put Halos inside its Digit 5 humanoid, letting it work near people without external sensors. \"Now the robot is literally unchained,\" Goel said. Boston Dynamics, KION Group and LG are also on board."
+                "x": "The arms are 1mm thinner, every style gets adjustable temple tips, and the camera is 36% smaller, which makes the glasses harder to spot and sharpens privacy concerns; there is still no camera shutter."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Muse, Meta's newest AI model, is a significant upgrade to the AI experience, though quirks remain. Because the software upgrades aren't exclusive to Gen 3, the reviewer sees little reason for last-generation owners to rush out and buy a pair."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
-          "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
-          "mini_headline": "Nvidia의 피지컬 AI 안전",
+          "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
+          "body": "Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
+          "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta는 이제 스마트 안경 시장의 최대 강자이고, Ray-Ban Meta (Gen 3)는 그 세 번째 세대다. Gizmodo는 엄밀히 따지면 업그레이드는 맞다고 본다. 배터리 수명이 늘고 하드웨어를 조금 손봤지만 이전 모델과 비교해 달라진 점은 많지 않다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템 덕분에 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia의 Halos 시스템은 2025년, 개발자가 자율주행차에 가드레일을 구현하도록 돕는 용도로 나왔다. 2026년 6월에는 Halos for Robotics로 범위를 넓혀 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥했다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
+                "x": "가격은 $449부터다. 최대 3K 영상을 찍는 12-megapixel 카메라, AI 기능 구성, 조작 방식, 음질은 바뀌지 않았다. 배터리는 한 시간 늘어 혼합 사용 기준 아홉 시간을 가고, 테스트에서 음악은 여섯 시간가량 재생됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 짜였다. 로봇 청소기와 창고 지게차는 안전의 정의부터 다르다. 그래서 개발자가 안전 기능을 직접 맞춰 프로그래밍할 수 있다."
+                "x": "Meta는 여섯 번째 마이크를 달아 배경 소음을 최대 90%까지 줄였다고 한다. 그래도 통화 상대에게는 자동차, 기차, 사람 목소리가 여전히 들렸다. 강점은 공간 음향이다. 9월 소프트웨어 업데이트로 배포됐고 Meta AI 앱에서 켤 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
+                "x": "안경다리는 1mm 얇아졌고 모든 스타일에 조절식 팁이 들어갔으며 카메라는 36% 작아졌다. 그만큼 이 안경을 알아보기가 어려워져 사생활 우려가 커지는데도 카메라 셔터는 여전히 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta의 최신 AI 모델 Muse는 아직 어색한 구석이 있어도 AI 경험을 크게 끌어올렸다. 다만 이 소프트웨어 업그레이드는 Gen 3에만 오는 게 아니다. 그래서 리뷰어는 이전 세대 사용자가 서둘러 갈아탈 이유가 거의 없다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidiaが賭ける\nフィジカルAIの安全",
-          "body": "Nvidiaのfull-stackなフィジカルAI安全システムをロボット各社が採用済みだ。",
-          "mini_headline": "NvidiaのフィジカルAI安全",
+          "headline": "Ray-Ban Metaの\n本当の進化はMuse AI",
+          "body": "Ray-Ban Meta Gen 3はカメラも機能も据え置きで、MuseでAIが進化した。",
+          "mini_headline": "MuseがRay-Ban Meta Gen 3を底上げ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Metaは今やスマートグラスで最大の勢力であり、Ray-Ban Meta (Gen 3)はその第三世代にあたる。Gizmodoはこれを、技術的にはアップグレードだと評する。バッテリー持ちが伸び、ハードウェアにも手が入ったが、前モデルからの変化はそれ以外ほとんどない。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility RoboticsのヒューマノイドロボットDigitは、NvidiaのHalosシステムで人のそばでも安全に作業する。出典：Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "NvidiaのHalosシステムは、開発者が自動運転車にガードレールを実装するのを支援するため2025年に登場した。同社は2026年6月、倉庫ロボット、工場のヒューマノイド、さらには手術ロボットまでを対象とするHalos for Roboticsで適用範囲を広げた。NvidiaのAmit Goelは「次のボトルネックになると考えたのは安全だ」と語った。"
+                "x": "価格は$449からで、最大 3K 動画を撮れる12-megapixel カメラ、AI機能、操作系、音質は従来と同じだ。バッテリー持ちは一時間延びて混合使用で九時間となり、テストでは音楽再生が約六時間続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "フルスタックは、独立した安全プロセッサを備えるIGX Thorモジュール、「すべてのハードウェアブロック」と「すべてのソフトウェアライブラリ」を監視するHalos OS、Holoscan Sensor Bridge、シミュレーション、検査ラボプログラムで構成される。ロボット掃除機と倉庫のフォークリフトでは安全の定義が異なるため、開発者は独自の安全機能をプログラムできる。"
+                "x": "Metaは六つ目のマイクを追加して背景ノイズを最大90%低減するとしたが、通話相手には車や電車、人の声がまだ聞こえていた。9月のソフトウェアアップデートで配信され、Meta AIアプリで有効にできる空間オーディオは大きな魅力だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Roboticsは初めてHalosをヒューマノイドDigit 5に搭載し、外部センサーなしで人の近くで働けるようにした。「今やロボットは文字どおり鎖から解き放たれた」とGoelは言う。Boston Dynamics、KION Group、LGも参加している。"
+                "x": "テンプルは 1mm 細くなり、全スタイルに調整可能なテンプルチップが付き、カメラは36%小型化した。その分グラスに気づかれにくくなりプライバシーの懸念が強まるが、カメラのシャッターは今もない。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Metaの最新AIモデルであるMuseは、癖は残るもののAI体験を大きく向上させた。ただしソフトウェアのアップグレードはGen 3専用ではないため、レビュアーは前世代の所有者が急いで買い替える理由はほとんどないとみている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia押注\n物理AI安全",
-          "body": "Nvidia面向物理AI的full-stack安全系统，已被机器人厂商采用。",
-          "mini_headline": "Nvidia的物理AI安全",
+          "headline": "Ray-Ban Meta\n小改款，Muse AI是亮点",
+          "body": "Ray-Ban Meta Gen 3相机与功能未变，但Meta新模型Muse升级了助手。",
+          "mini_headline": "Muse助力Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta如今是智能眼镜领域最大的力量，Ray-Ban Meta (Gen 3)是其第三代产品。Gizmodo认为它从技术上讲算是一次升级：续航更长，硬件有些调整，但相比上一代没有太多其他变化。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility Robotics的Digit人形机器人借助Nvidia的Halos系统在人身边安全工作。图片来源：Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia的Halos系统于2025年推出，帮助开发者在自动驾驶汽车中实现安全护栏；2026年6月，公司又推出Halos for Robotics加以扩展，覆盖仓储机器人、工厂人形机器人乃至手术机器人。Nvidia的Amit Goel表示：“我们认为下一个瓶颈将是安全。”"
+                "x": "它起售价$449，保留了同样可拍摄最高 3K 视频的12-megapixel 摄像头，以及相同的AI功能、操控方式和音质。续航增加一小时，混合使用可达九小时；测试中，音乐播放可持续约六小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "这套全栈方案包括配备独立安全处理器的IGX Thor模块、监控“每一个硬件模块”和“每一个软件库”的Halos OS、Holoscan Sensor Bridge、仿真以及检测实验室项目。由于扫地机器人和仓库叉车对安全的定义不同，开发者可以编写自定义安全功能。"
+                "x": "Meta新增了第六个麦克风，称可将背景噪音降低最多90%，但通话对方仍能听到汽车、火车和人声。空间音频是一大亮点，该功能随9月的软件更新推出，可在Meta AI应用中开启。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics率先将Halos装进Digit 5人形机器人，使其无需外部传感器即可在人附近工作。Goel说：“现在机器人真正挣脱了锁链。”Boston Dynamics、KION Group和LG也已加入。"
+                "x": "镜腿变薄 1mm，所有款式都配备可调节的镜腿末端，摄像头缩小36%，这让眼镜更难被察觉，也加剧了隐私担忧；摄像头快门依旧没有。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta最新的AI模型Muse大幅提升了AI体验，尽管仍有一些小毛病。由于这些软件升级并非Gen 3独享，评测者认为上一代用户没什么理由急着购买新款。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia apuesta por la seguridad\nde la AI física",
-          "body": "Fabricantes de robots usan el sistema full-stack de Nvidia para una AI física más segura en robotaxis y humanoides.",
-          "mini_headline": "La seguridad de la AI física de Nvidia",
+          "headline": "Ray-Ban Meta Gen 3 mejora poco;\nMuse AI es el gran cambio",
+          "body": "Las Ray-Ban Meta Gen 3 de $449 mantienen cámara y funciones, pero el nuevo modelo Muse de Meta mejora el asistente.",
+          "mini_headline": "Muse impulsa las Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta es hoy la mayor fuerza en gafas inteligentes, y las Ray-Ban Meta (Gen 3) son su tercera generación. Gizmodo las considera técnicamente una mejora: mejor autonomía y algunos retoques de hardware, pero poco más respecto al modelo anterior."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "El robot humanoide Digit de Agility Robotics usa el sistema Halos de Nvidia para trabajar de forma segura cerca de las personas. Crédito: Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "El sistema Halos de Nvidia se lanzó en 2025 para ayudar a los desarrolladores a implementar barreras de protección en vehículos autónomos, y en junio de 2026 la compañía lo amplió con Halos for Robotics, destinado a robots de almacén, humanoides de fábrica e incluso robots quirúrgicos. \"Pensamos que el próximo cuello de botella sería la seguridad\", dijo Amit Goel, de Nvidia."
+                "x": "Desde $449, mantienen la misma cámara de 12 megapíxeles (12-megapixel) con vídeo de hasta 3K, el mismo conjunto de funciones de IA, los mismos controles y la misma calidad de audio. La batería gana una hora y llega a nueve horas de uso mixto; en las pruebas, la reproducción de música se extendió a unas seis horas."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "La pila completa abarca el módulo IGX Thor con un procesador de seguridad independiente, un Halos OS que supervisa \"cada bloque de hardware\" y \"cada biblioteca de software\", el Holoscan Sensor Bridge, simulación y un programa de laboratorios de inspección. Como una aspiradora robot y una carretilla elevadora de almacén definen la seguridad de forma distinta, los desarrolladores pueden programar funciones de seguridad personalizadas."
+                "x": "Meta añadió un sexto micrófono para reducir el ruido de fondo hasta un 90%, pero quienes estaban al otro lado de las llamadas seguían oyendo coches, trenes y voces. El audio espacial, desplegado en una actualización de software de septiembre y activable en la app Meta AI, es uno de los puntos fuertes."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics fue la primera en integrar Halos en su humanoide Digit 5, lo que le permite trabajar cerca de personas sin sensores externos. \"Ahora el robot está literalmente desencadenado\", dijo Goel. Boston Dynamics, KION Group y LG también se han sumado."
+                "x": "Las varillas son 1mm más finas, todos los estilos incluyen terminales ajustables y la cámara es un 36% más pequeña, lo que hace las gafas más difíciles de detectar y agrava las dudas sobre privacidad; sigue sin haber obturador para la cámara."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Muse, el modelo de IA más reciente de Meta, supone una mejora significativa de la experiencia de IA, aunque persisten algunas rarezas. Como las mejoras de software no son exclusivas de Gen 3, el autor de la reseña ve pocos motivos para que los dueños de la generación anterior corran a comprar unas."
               }
             ]
           }
@@ -1195,109 +1173,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nvidia, 피지컬 AI\n안전에 승부 건다",
-          "body": "Nvidia의 피지컬 AI용 full-stack 안전 시스템을 로봇 업체가 쓴다.",
-          "mini_headline": "Nvidia의 피지컬 AI 안전",
+          "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
+          "body": "Ray-Ban Meta Gen 3는 기능이 그대로지만 Muse로 비서가 나아졌다.",
+          "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta는 이제 스마트 안경 시장에서 가장 큰 존재이며, Ray-Ban Meta (Gen 3)는 그 세 번째 세대 제품이다. Gizmodo는 이를 엄밀히 따지면 업그레이드라고 평가한다. 배터리 수명이 늘고 하드웨어가 일부 손질됐지만, 이전 모델 대비 그 밖의 변화는 많지 않다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility Robotics의 Digit 휴머노이드 로봇은 Nvidia의 Halos 시스템으로 사람 곁에서 안전하게 일한다. 출처: Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia의 Halos 시스템은 개발자가 자율주행차에 가드레일을 구현하도록 돕기 위해 2025년 출시됐다. 2026년 6월에는 창고 로봇, 공장 휴머노이드, 수술 로봇까지 겨냥한 Halos for Robotics로 범위를 넓혔다. Nvidia의 Amit Goel은 \"다음 병목은 안전이 될 것이라고 봤다\"고 말했다."
+                "x": "가격은 $449부터이며, 최대 3K 영상을 찍는 12-megapixel 카메라와 AI 기능 구성, 조작 방식, 음질은 그대로다. 배터리 수명은 한 시간 늘어 혼합 사용 기준 아홉 시간이 됐고, 테스트에서 음악 재생은 약 여섯 시간까지 이어졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "전체 스택은 독립 안전 프로세서를 갖춘 IGX Thor 모듈, \"모든 하드웨어 블록\"과 \"모든 소프트웨어 라이브러리\"를 감시하는 Halos OS, Holoscan Sensor Bridge, 시뮬레이션, 검사 랩 프로그램으로 이뤄진다. 로봇 청소기와 창고 지게차는 안전을 다르게 정의하므로, 개발자가 맞춤형 안전 기능을 프로그래밍할 수 있다."
+                "x": "Meta는 여섯 번째 마이크를 더해 배경 소음을 최대 90%까지 줄였다고 하지만, 통화 상대는 여전히 자동차, 기차, 사람 목소리를 들었다. 9월 소프트웨어 업데이트로 배포되어 Meta AI 앱에서 켤 수 있는 공간 음향은 이 제품의 강점이다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics는 Digit 5 휴머노이드에 처음으로 Halos를 넣어, 외부 센서 없이도 사람 곁에서 일하게 했다. Goel은 \"이제 로봇은 말 그대로 사슬에서 풀려났다\"고 말했다. Boston Dynamics, KION Group, LG도 합류했다."
+                "x": "안경다리는 1mm 얇아졌고, 모든 스타일에 조절 가능한 팁이 들어갔으며, 카메라는 36% 작아졌다. 그만큼 안경을 알아보기 어려워져 사생활 우려가 커지는데, 카메라 셔터는 여전히 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta의 최신 AI 모델인 Muse는 여전히 어색한 구석이 있지만 AI 경험을 크게 끌어올렸다. 다만 소프트웨어 업그레이드가 Gen 3 전용이 아니어서, 리뷰어는 이전 세대 사용자가 서둘러 새 제품을 살 이유는 거의 없다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidiaが賭ける\nフィジカルAIの安全",
-          "body": "Nvidiaのfull-stackなフィジカルAI安全システムをロボット各社が採用済みだ。",
-          "mini_headline": "NvidiaのフィジカルAI安全",
+          "headline": "Ray-Ban Metaの\n本当の進化はMuse AI",
+          "body": "Ray-Ban Meta Gen 3はカメラも機能も据え置きで、MuseでAIが進化した。",
+          "mini_headline": "MuseがRay-Ban Meta Gen 3を底上げ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Metaは今やスマートグラスで最大の勢力であり、Ray-Ban Meta (Gen 3)はその第三世代にあたる。Gizmodoはこれを、技術的にはアップグレードだと評する。バッテリー持ちが伸び、ハードウェアにも手が入ったが、前モデルからの変化はそれ以外ほとんどない。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility RoboticsのヒューマノイドロボットDigitは、NvidiaのHalosシステムで人のそばでも安全に作業する。出典：Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "NvidiaのHalosシステムは、開発者が自動運転車にガードレールを実装するのを支援するため2025年に登場した。同社は2026年6月、倉庫ロボット、工場のヒューマノイド、さらには手術ロボットまでを対象とするHalos for Roboticsで適用範囲を広げた。NvidiaのAmit Goelは「次のボトルネックになると考えたのは安全だ」と語った。"
+                "x": "価格は$449からで、最大 3K 動画を撮れる12-megapixel カメラ、AI機能、操作系、音質は従来と同じだ。バッテリー持ちは一時間延びて混合使用で九時間となり、テストでは音楽再生が約六時間続いた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "フルスタックは、独立した安全プロセッサを備えるIGX Thorモジュール、「すべてのハードウェアブロック」と「すべてのソフトウェアライブラリ」を監視するHalos OS、Holoscan Sensor Bridge、シミュレーション、検査ラボプログラムで構成される。ロボット掃除機と倉庫のフォークリフトでは安全の定義が異なるため、開発者は独自の安全機能をプログラムできる。"
+                "x": "Metaは六つ目のマイクを追加して背景ノイズを最大90%低減するとしたが、通話相手には車や電車、人の声がまだ聞こえていた。9月のソフトウェアアップデートで配信され、Meta AIアプリで有効にできる空間オーディオは大きな魅力だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Roboticsは初めてHalosをヒューマノイドDigit 5に搭載し、外部センサーなしで人の近くで働けるようにした。「今やロボットは文字どおり鎖から解き放たれた」とGoelは言う。Boston Dynamics、KION Group、LGも参加している。"
+                "x": "テンプルは 1mm 細くなり、全スタイルに調整可能なテンプルチップが付き、カメラは36%小型化した。その分グラスに気づかれにくくなりプライバシーの懸念が強まるが、カメラのシャッターは今もない。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Metaの最新AIモデルであるMuseは、癖は残るもののAI体験を大きく向上させた。ただしソフトウェアのアップグレードはGen 3専用ではないため、レビュアーは前世代の所有者が急いで買い替える理由はほとんどないとみている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia押注\n物理AI安全",
-          "body": "Nvidia面向物理AI的full-stack安全系统，已被机器人厂商采用。",
-          "mini_headline": "Nvidia的物理AI安全",
+          "headline": "Ray-Ban Meta\n小改款，Muse AI是亮点",
+          "body": "Ray-Ban Meta Gen 3相机与功能未变，但Meta新模型Muse升级了助手。",
+          "mini_headline": "Muse助力Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta如今是智能眼镜领域最大的力量，Ray-Ban Meta (Gen 3)是其第三代产品。Gizmodo认为它从技术上讲算是一次升级：续航更长，硬件有些调整，但相比上一代没有太多其他变化。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "Agility Robotics的Digit人形机器人借助Nvidia的Halos系统在人身边安全工作。图片来源：Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "Nvidia的Halos系统于2025年推出，帮助开发者在自动驾驶汽车中实现安全护栏；2026年6月，公司又推出Halos for Robotics加以扩展，覆盖仓储机器人、工厂人形机器人乃至手术机器人。Nvidia的Amit Goel表示：“我们认为下一个瓶颈将是安全。”"
+                "x": "它起售价$449，保留了同样可拍摄最高 3K 视频的12-megapixel 摄像头，以及相同的AI功能、操控方式和音质。续航增加一小时，混合使用可达九小时；测试中，音乐播放可持续约六小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "这套全栈方案包括配备独立安全处理器的IGX Thor模块、监控“每一个硬件模块”和“每一个软件库”的Halos OS、Holoscan Sensor Bridge、仿真以及检测实验室项目。由于扫地机器人和仓库叉车对安全的定义不同，开发者可以编写自定义安全功能。"
+                "x": "Meta新增了第六个麦克风，称可将背景噪音降低最多90%，但通话对方仍能听到汽车、火车和人声。空间音频是一大亮点，该功能随9月的软件更新推出，可在Meta AI应用中开启。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics率先将Halos装进Digit 5人形机器人，使其无需外部传感器即可在人附近工作。Goel说：“现在机器人真正挣脱了锁链。”Boston Dynamics、KION Group和LG也已加入。"
+                "x": "镜腿变薄 1mm，所有款式都配备可调节的镜腿末端，摄像头缩小36%，这让眼镜更难被察觉，也加剧了隐私担忧；摄像头快门依旧没有。"
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meta最新的AI模型Muse大幅提升了AI体验，尽管仍有一些小毛病。由于这些软件升级并非Gen 3独享，评测者认为上一代用户没什么理由急着购买新款。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia apuesta por la seguridad\nde la AI física",
-          "body": "Fabricantes de robots usan el sistema full-stack de Nvidia para una AI física más segura en robotaxis y humanoides.",
-          "mini_headline": "La seguridad de la AI física de Nvidia",
+          "headline": "Ray-Ban Meta Gen 3 mejora poco;\nMuse AI es el gran cambio",
+          "body": "Las Ray-Ban Meta Gen 3 de $449 mantienen cámara y funciones, pero el nuevo modelo Muse de Meta mejora el asistente.",
+          "mini_headline": "Muse impulsa las Ray-Ban Meta Gen 3",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta es hoy la mayor fuerza en gafas inteligentes, y las Ray-Ban Meta (Gen 3) son su tercera generación. Gizmodo las considera técnicamente una mejora: mejor autonomía y algunos retoques de hardware, pero poco más respecto al modelo anterior."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Agility_Digit5_human-1152x648.jpg",
-                "cap": "El robot humanoide Digit de Agility Robotics usa el sistema Halos de Nvidia para trabajar de forma segura cerca de las personas. Crédito: Agility Robotics"
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
               },
               {
                 "t": "p",
-                "x": "El sistema Halos de Nvidia se lanzó en 2025 para ayudar a los desarrolladores a implementar barreras de protección en vehículos autónomos, y en junio de 2026 la compañía lo amplió con Halos for Robotics, destinado a robots de almacén, humanoides de fábrica e incluso robots quirúrgicos. \"Pensamos que el próximo cuello de botella sería la seguridad\", dijo Amit Goel, de Nvidia."
+                "x": "Desde $449, mantienen la misma cámara de 12 megapíxeles (12-megapixel) con vídeo de hasta 3K, el mismo conjunto de funciones de IA, los mismos controles y la misma calidad de audio. La batería gana una hora y llega a nueve horas de uso mixto; en las pruebas, la reproducción de música se extendió a unas seis horas."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
               },
               {
                 "t": "p",
-                "x": "La pila completa abarca el módulo IGX Thor con un procesador de seguridad independiente, un Halos OS que supervisa \"cada bloque de hardware\" y \"cada biblioteca de software\", el Holoscan Sensor Bridge, simulación y un programa de laboratorios de inspección. Como una aspiradora robot y una carretilla elevadora de almacén definen la seguridad de forma distinta, los desarrolladores pueden programar funciones de seguridad personalizadas."
+                "x": "Meta añadió un sexto micrófono para reducir el ruido de fondo hasta un 90%, pero quienes estaban al otro lado de las llamadas seguían oyendo coches, trenes y voces. El audio espacial, desplegado en una actualización de software de septiembre y activable en la app Meta AI, es uno de los puntos fuertes."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
               },
               {
                 "t": "p",
-                "x": "Agility Robotics fue la primera en integrar Halos en su humanoide Digit 5, lo que le permite trabajar cerca de personas sin sensores externos. \"Ahora el robot está literalmente desencadenado\", dijo Goel. Boston Dynamics, KION Group y LG también se han sumado."
+                "x": "Las varillas son 1mm más finas, todos los estilos incluyen terminales ajustables y la cámara es un 36% más pequeña, lo que hace las gafas más difíciles de detectar y agrava las dudas sobre privacidad; sigue sin haber obturador para la cámara."
+              },
+              {
+                "t": "img",
+                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Muse, el modelo de IA más reciente de Meta, supone una mejora significativa de la experiencia de IA, aunque persisten algunas rarezas. Como las mejoras de software no son exclusivas de Gen 3, el autor de la reseña ve pocos motivos para que los dueños de la generación anterior corran a comprar unas."
               }
             ]
           }
@@ -1305,172 +1359,237 @@
       }
     },
     {
-      "id": "gadgets-cybopal-monitor-arm",
+      "id": "gadgets-alexa-plus-one-year",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "얼굴을 따라가는\n$1,599 모니터 암",
-      "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
-      "mini_headline": "나를 따라오는 모니터",
+      "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
+      "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
+      "mini_headline": "Alexa Plus, 한 해 써 보니",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지나 그가 내린 평가는 이렇다. 써 본 스마트홈 비서 가운데 최고지만 개인 비서 기능은 설익었고, Echo Show 화면 광고는 손쓸 수 없는 수준이다."
+          },
+          {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-            "cap": "이미지 출처: Cybopal/Kickstarter"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "Kickstarter에서 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 여섯 축 로봇 팔에 달아 책상에 고정한 제품이다. 팔이 사용자의 위치를 살피고 그에 맞춰 화면을 옮긴다. Super Early Bird 가격은 $1,599로, 예정 소매가 $2,499보다 싸다."
+            "x": "LLM 기반(LLM-powered)으로 바뀐 Alexa는 이제 \"I'm cold\"(춥다) 같은 막연한 말도 알아듣는다. 답은 10~15초가 아니라 삼 초에서 오 초 만에 나온다. 여러 단계 명령을 처리하고 레시피를 한 단계씩 안내하며 음성만으로 루틴도 만든다. 대신 여기까지 오려고 스마트홈을 처음부터 다시 꾸려야 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "컴퓨터도 따로 들어 있다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기 안에서 처리한다. 장애물 회피와 경로 계획은 양안 3D 센서 몫이고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
+            "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 섞어 Amazon 상품을 번갈아 띄우는 광고판이 됐다. 이걸 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 아직 들쭉날쭉하고 Uber Eats나 Thumbtack으로 맡긴 에이전트형 작업은 자주 실패했다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가고, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립 검증을 거치지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
+            "x": "가장 큰 구멍은 기억력이다. Alexa는 그가 누군지 잊었고 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그는 Amazon이 범용 AI 봇을 좇기보다 집의 두뇌 노릇에 집중해야 한다고 결론짓는다."
           }
         ]
       },
-      "lead_image": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
       "text": {
         "en": {
-          "headline": "A $1,599 monitor arm\nthat follows your face",
-          "body": "CyboPal's $1,599 arm uses a 6 TOPS on-device NPU to track your face so its 27-inch 4K screen follows you.",
-          "mini_headline": "A monitor that follows you",
+          "headline": "Alexa Plus, one year in:\nbetter home control, plus ads",
+          "body": "A year in, Alexa Plus runs the smart home better but isn't ready to run your life, and it now comes with ads.",
+          "mini_headline": "Alexa Plus, one year in",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Verge's Jennifer Pattison Tuohy has tested Amazon's AI-powered Alexa Plus at home since July 2025. A year in, she calls it the best smart home assistant she has tested, but says its personal-assistant features are underbaked and the ads on Echo Show displays are out of control."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "Image credit: Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "The Kickstarter-funded CyboPal ONE bolts a 27-inch 4K, 160Hz display to a six-axis robotic arm that clamps to your desk, keeps an eye on where you are, and moves the screen to match. The $1,599 Super Early Bird price compares with a planned $2,499 retail price."
+                "x": "Because it is LLM-powered, Alexa now understands loose requests like \"I'm cold,\" answers in three to five seconds instead of 10 to 15, handles multistep commands, walks her through recipes and builds routines by voice. Getting there meant rebuilding her smart home from scratch."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "It carries its own computer: an eight-core Rockchip RK3588 with a 6 TOPS NPU, 8GB of RAM and 128GB of storage in a \"Linux AI Compute Base\" that handles face tracking, gesture recognition and 3D spatial sensing on the device. A binocular 3D sensor handles obstacle avoidance and path planning, and face tracking repositions the screen in under four seconds."
+                "x": "The downsides: Echo Show screens have become rotating billboards for Amazon goods, now including video ads, and removing them costs $2.99 a month per device. Complex requests are still inconsistent, and agentic tasks through Uber Eats or Thumbtack often failed."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "The Pauli voice agent runs in a desktop client, and you still need a laptop or desktop for actual compute. The campaign, closing November 21, 2026, sits at over 11,000% of its HK$80,000 goal — but TechRadar notes backers are betting on software that hasn't been independently tested."
+                "x": "Memory is the biggest gap: Alexa forgot who she was and gave traffic directions to the wrong school. Her verdict: Amazon should stop chasing a general-purpose AI bot and focus on becoming the brain of the home."
               }
             ]
           }
         },
         "ko": {
-          "headline": "얼굴을 따라가는\n$1,599 모니터 암",
-          "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
-          "mini_headline": "나를 따라오는 모니터",
+          "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
+          "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
+          "mini_headline": "Alexa Plus, 한 해 써 보니",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지나 그가 내린 평가는 이렇다. 써 본 스마트홈 비서 가운데 최고지만 개인 비서 기능은 설익었고, Echo Show 화면 광고는 손쓸 수 없는 수준이다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "이미지 출처: Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Kickstarter에서 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 여섯 축 로봇 팔에 달아 책상에 고정한 제품이다. 팔이 사용자의 위치를 살피고 그에 맞춰 화면을 옮긴다. Super Early Bird 가격은 $1,599로, 예정 소매가 $2,499보다 싸다."
+                "x": "LLM 기반(LLM-powered)으로 바뀐 Alexa는 이제 \"I'm cold\"(춥다) 같은 막연한 말도 알아듣는다. 답은 10~15초가 아니라 삼 초에서 오 초 만에 나온다. 여러 단계 명령을 처리하고 레시피를 한 단계씩 안내하며 음성만으로 루틴도 만든다. 대신 여기까지 오려고 스마트홈을 처음부터 다시 꾸려야 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "컴퓨터도 따로 들어 있다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기 안에서 처리한다. 장애물 회피와 경로 계획은 양안 3D 센서 몫이고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
+                "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 섞어 Amazon 상품을 번갈아 띄우는 광고판이 됐다. 이걸 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 아직 들쭉날쭉하고 Uber Eats나 Thumbtack으로 맡긴 에이전트형 작업은 자주 실패했다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가고, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립 검증을 거치지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
+                "x": "가장 큰 구멍은 기억력이다. Alexa는 그가 누군지 잊었고 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그는 Amazon이 범용 AI 봇을 좇기보다 집의 두뇌 노릇에 집중해야 한다고 결론짓는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "顔を追いかける\n$1,599のモニターアーム",
-          "body": "$1,599のCyboPalは6 TOPS NPUで顔を追い27インチ4K 画面を動かす。",
-          "mini_headline": "ユーザーを追うモニター",
+          "headline": "Alexa Plusの一年\n家の操作は向上、広告も",
+          "body": "Alexa Plusは、スマートホーム操作は向上したが生活を任せるには早く、広告も付いた。",
+          "mini_headline": "Alexa Plus、一年後の評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The VergeのJennifer Pattison Tuohyは、2025年7月から自宅でAmazonのAI-powered Alexa Plusを試してきた。一年を経て、彼女はこれまで試した中で最高のスマートホームアシスタントだと評価する一方、パーソナルアシスタント機能は未成熟で、Echo Showの画面に出る広告は手に負えないと述べる。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "画像提供：Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Kickstarterで資金を集めたCyboPal ONEは、27インチ・4K・160Hzのディスプレイを、机に固定する六軸ロボットアームに取り付けた製品だ。ユーザーの位置を見守り、それに合わせて画面を動かす。Super Early Bird価格は$1,599で、予定小売価格は$2,499だ。"
+                "x": "LLM-poweredであるため、Alexaは\"I'm cold\"（寒い）といった曖昧な依頼を理解し、10〜15秒ではなく三〜五秒で応答し、複数ステップの指示をこなし、レシピを順に案内し、音声でルーティンを作成できるようになった。ただし、そこに至るにはスマートホームを一から組み直す必要があった。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "独自のコンピューターも内蔵する。「Linux AI Compute Base」には6 TOPS NPU付きの八コアRockchip RK3588、8GBのRAM、128GBのストレージが収められ、顔追跡、ジェスチャー認識、3D 空間センシングをデバイス上で処理する。両眼式の3D センサーが障害物回避と経路計画を担い、顔追跡により四秒未満で画面の位置を調整する。"
+                "x": "欠点もある。Echo Showの画面はAmazon商品を次々に映す広告塔と化し、今では動画広告まで流れる。広告を消すには端末ごとに月$2.99かかる。複雑な依頼への対応は相変わらず安定せず、Uber EatsやThumbtackを通じたエージェント的なタスクはしばしば失敗した。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "音声エージェントPauliはデスクトップクライアントで動作し、実際の計算処理には引き続きノートパソコンかデスクトップが必要だ。2026年11月21日に終了するキャンペーンは目標額HK$80,000の11,000%超に達しているが、TechRadarは、支援者が独立した検証を経ていないソフトウェアに賭けていると指摘する。"
+                "x": "最大の弱点は記憶だ。Alexaは彼女が誰かを忘れ、間違った学校への道順を案内した。彼女の結論は、Amazonは汎用AIボットを追うのをやめ、家の頭脳になることに集中すべきだというものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "跟随人脸转动的\n$1,599显示器支架",
-          "body": "$1,599的CyboPal用6 TOPS NPU追踪人脸，让27英寸4K 屏幕随人转动。",
-          "mini_headline": "跟着你转的显示器",
+          "headline": "Alexa Plus一年记\n家居控制更好，广告也来了",
+          "body": "Alexa Plus用了一年，智能家居控制更好，但还不能打理生活，且开始带广告。",
+          "mini_headline": "Alexa Plus一年体验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Verge的Jennifer Pattison Tuohy自2025年7月起在家中测试Amazon的AI-powered Alexa Plus。一年下来，她认为这是她测试过的最好的智能家居助手，但个人助理功能尚不成熟，Echo Show屏幕上的广告也已失控。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "图片来源：Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "通过Kickstarter众筹的CyboPal ONE把一块27英寸4K、160Hz显示屏装在可夹在桌边的六轴机械臂上，它会留意你的位置，并相应移动屏幕。Super Early Bird价格为$1,599，计划零售价为$2,499。"
+                "x": "由于采用LLM-powered架构，Alexa如今能理解\"I'm cold\"（我冷）这类模糊请求，响应时间从10到15秒缩短至三到五秒，能处理多步骤指令，一步步带她完成食谱，还能通过语音创建日常流程。不过，为此她不得不从头重建自己的智能家居。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "它自带一台电脑：“Linux AI Compute Base”内置搭载6 TOPS NPU的八核Rockchip RK3588、8GB RAM和128GB存储，在设备端完成人脸追踪、手势识别和3D 空间感知。双目3D 传感器负责避障和路径规划，人脸追踪可在四秒内调整屏幕位置。"
+                "x": "缺点在于：Echo Show屏幕已沦为轮播Amazon商品的广告牌，如今还加入了视频广告，去除广告需每台设备每月支付$2.99。复杂请求的表现依然不稳定，通过Uber Eats或Thumbtack执行的代理任务也经常失败。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Pauli语音智能体运行在桌面客户端中，实际计算仍需一台笔记本或台式机。这项众筹将于2026年11月21日截止，目前已达HK$80,000目标的11,000%以上——但TechRadar指出，支持者押注的是尚未经过独立测试的软件。"
+                "x": "记忆是最大的短板：Alexa忘了她是谁，还给出了去错误学校的交通路线。她的结论是：Amazon应停止追逐通用AI机器人，专注于成为家庭的大脑。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un brazo para monitor de $1,599\nque sigue tu rostro",
-          "body": "El brazo CyboPal de $1,599 usa una NPU on-device de 6 TOPS para seguir tu rostro con su pantalla 4K de 27 pulgadas.",
-          "mini_headline": "Un monitor que te sigue",
+          "headline": "Alexa Plus, un año después:\nmejor en casa, pero con anuncios",
+          "body": "Tras un año, Alexa Plus gestiona mejor el hogar inteligente, pero aún no organiza tu vida y ahora trae anuncios.",
+          "mini_headline": "Alexa Plus, un año después",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Jennifer Pattison Tuohy, de The Verge, prueba en casa desde julio de 2025 la Alexa Plus de Amazon, impulsada por IA (AI-powered). Un año después, la considera el mejor asistente para el hogar inteligente que ha probado, pero afirma que sus funciones de asistente personal están a medio hacer y que los anuncios en las pantallas Echo Show están fuera de control."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "Crédito de la imagen: Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "El CyboPal ONE, financiado en Kickstarter, monta una pantalla 4K de 160Hz y 27 pulgadas en un brazo robótico de seis ejes que se sujeta al escritorio, vigila dónde estás y mueve la pantalla en consecuencia. El precio Super Early Bird de $1,599 se compara con un precio de venta previsto de $2,499."
+                "x": "Al estar basada en un LLM (LLM-powered), Alexa entiende ahora peticiones vagas como \"I'm cold\" (\"tengo frío\"), responde en tres a cinco segundos en lugar de 10 a 15, gestiona órdenes de varios pasos, la guía en recetas y crea rutinas por voz. Llegar hasta ahí exigió reconstruir su hogar inteligente desde cero."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Lleva su propio equipo informático: un Rockchip RK3588 de ocho núcleos con una NPU de 6 TOPS, 8GB de RAM y 128GB de almacenamiento en una \"Linux AI Compute Base\" que gestiona en el propio dispositivo el seguimiento facial, el reconocimiento de gestos y la detección espacial 3D. Un sensor 3D binocular se encarga de evitar obstáculos y planificar trayectorias, y el seguimiento facial recoloca la pantalla en menos de cuatro segundos."
+                "x": "Las desventajas: las pantallas Echo Show se han convertido en vallas publicitarias rotatorias de productos de Amazon, ahora también con anuncios en vídeo, y quitarlos cuesta $2.99 al mes por dispositivo. Las peticiones complejas siguen siendo irregulares, y las tareas agénticas a través de Uber Eats o Thumbtack fallaron a menudo."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "El agente de voz Pauli funciona en un cliente de escritorio, y aún se necesita un equipo portátil o de escritorio para el cómputo real. La campaña, que cierra el 21 de noviembre de 2026, supera el 11,000% de su meta de HK$80,000, pero TechRadar advierte que los patrocinadores apuestan por un software que no se ha probado de forma independiente."
+                "x": "La memoria es la mayor carencia: Alexa olvidó quién era ella y dio indicaciones de tráfico hacia el colegio equivocado. Su veredicto: Amazon debería dejar de perseguir un bot de IA de uso general y centrarse en convertirse en el cerebro del hogar."
               }
             ]
           }
@@ -1478,109 +1597,585 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "얼굴을 따라가는\n$1,599 모니터 암",
-          "body": "CyboPal $1,599 암은 6 TOPS NPU로 4K 화면을 얼굴에 맞춘다.",
-          "mini_headline": "나를 따라오는 모니터",
+          "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
+          "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
+          "mini_headline": "Alexa Plus, 한 해 써 보니",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지난 지금, 그는 이를 지금까지 써 본 최고의 스마트홈 비서로 꼽지만, 개인 비서 기능은 설익었고 Echo Show 화면의 광고는 통제 불능 수준이라고 말한다."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "이미지 출처: Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Kickstarter로 자금을 모은 CyboPal ONE은 27인치 4K, 160Hz 디스플레이를 책상에 고정하는 여섯 축 로봇 팔에 단 제품이다. 팔은 사용자의 위치를 살피며 그에 맞춰 화면을 움직인다. Super Early Bird 가격은 $1,599로, 예정된 소매가 $2,499보다 낮다."
+                "x": "LLM 기반(LLM-powered)인 덕분에 Alexa는 이제 \"I'm cold\"(춥다) 같은 느슨한 요청을 알아듣고, 10~15초가 아닌 삼 초에서 오 초 만에 답하며, 여러 단계의 명령을 처리하고, 레시피를 단계별로 안내하고, 음성만으로 루틴을 만든다. 다만 여기까지 오려면 스마트홈을 처음부터 다시 구축해야 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "자체 컴퓨터도 갖췄다. \"Linux AI Compute Base\"에 6 TOPS NPU를 갖춘 여덟 코어 Rockchip RK3588, 8GB RAM, 128GB 저장 공간을 담아 얼굴 추적, 제스처 인식, 3D 공간 감지를 기기에서 처리한다. 양안 3D 센서가 장애물 회피와 경로 계획을 맡고, 얼굴 추적으로 네 초 안에 화면 위치를 바꾼다."
+                "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 포함해 Amazon 상품을 돌아가며 띄우는 광고판이 됐고, 이를 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 여전히 들쭉날쭉하고, Uber Eats나 Thumbtack을 통한 에이전트형 작업은 자주 실패했다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Pauli 음성 에이전트는 데스크톱 클라이언트에서 돌아가며, 실제 연산에는 여전히 노트북이나 데스크톱이 필요하다. 2026년 11월 21일 마감하는 캠페인은 목표액 HK$80,000의 11,000%를 넘겼다. 다만 TechRadar는 후원자들이 독립적으로 검증되지 않은 소프트웨어에 돈을 걸고 있다고 지적한다."
+                "x": "가장 큰 빈틈은 기억력이다. Alexa는 그가 누구인지 잊었고, 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그의 결론은 Amazon이 범용 AI 봇을 좇는 대신 집의 두뇌가 되는 데 집중해야 한다는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "顔を追いかける\n$1,599のモニターアーム",
-          "body": "$1,599のCyboPalは6 TOPS NPUで顔を追い27インチ4K 画面を動かす。",
-          "mini_headline": "ユーザーを追うモニター",
+          "headline": "Alexa Plusの一年\n家の操作は向上、広告も",
+          "body": "Alexa Plusは、スマートホーム操作は向上したが生活を任せるには早く、広告も付いた。",
+          "mini_headline": "Alexa Plus、一年後の評価",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The VergeのJennifer Pattison Tuohyは、2025年7月から自宅でAmazonのAI-powered Alexa Plusを試してきた。一年を経て、彼女はこれまで試した中で最高のスマートホームアシスタントだと評価する一方、パーソナルアシスタント機能は未成熟で、Echo Showの画面に出る広告は手に負えないと述べる。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "画像提供：Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Kickstarterで資金を集めたCyboPal ONEは、27インチ・4K・160Hzのディスプレイを、机に固定する六軸ロボットアームに取り付けた製品だ。ユーザーの位置を見守り、それに合わせて画面を動かす。Super Early Bird価格は$1,599で、予定小売価格は$2,499だ。"
+                "x": "LLM-poweredであるため、Alexaは\"I'm cold\"（寒い）といった曖昧な依頼を理解し、10〜15秒ではなく三〜五秒で応答し、複数ステップの指示をこなし、レシピを順に案内し、音声でルーティンを作成できるようになった。ただし、そこに至るにはスマートホームを一から組み直す必要があった。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "独自のコンピューターも内蔵する。「Linux AI Compute Base」には6 TOPS NPU付きの八コアRockchip RK3588、8GBのRAM、128GBのストレージが収められ、顔追跡、ジェスチャー認識、3D 空間センシングをデバイス上で処理する。両眼式の3D センサーが障害物回避と経路計画を担い、顔追跡により四秒未満で画面の位置を調整する。"
+                "x": "欠点もある。Echo Showの画面はAmazon商品を次々に映す広告塔と化し、今では動画広告まで流れる。広告を消すには端末ごとに月$2.99かかる。複雑な依頼への対応は相変わらず安定せず、Uber EatsやThumbtackを通じたエージェント的なタスクはしばしば失敗した。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "音声エージェントPauliはデスクトップクライアントで動作し、実際の計算処理には引き続きノートパソコンかデスクトップが必要だ。2026年11月21日に終了するキャンペーンは目標額HK$80,000の11,000%超に達しているが、TechRadarは、支援者が独立した検証を経ていないソフトウェアに賭けていると指摘する。"
+                "x": "最大の弱点は記憶だ。Alexaは彼女が誰かを忘れ、間違った学校への道順を案内した。彼女の結論は、Amazonは汎用AIボットを追うのをやめ、家の頭脳になることに集中すべきだというものだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "跟随人脸转动的\n$1,599显示器支架",
-          "body": "$1,599的CyboPal用6 TOPS NPU追踪人脸，让27英寸4K 屏幕随人转动。",
-          "mini_headline": "跟着你转的显示器",
+          "headline": "Alexa Plus一年记\n家居控制更好，广告也来了",
+          "body": "Alexa Plus用了一年，智能家居控制更好，但还不能打理生活，且开始带广告。",
+          "mini_headline": "Alexa Plus一年体验",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "The Verge的Jennifer Pattison Tuohy自2025年7月起在家中测试Amazon的AI-powered Alexa Plus。一年下来，她认为这是她测试过的最好的智能家居助手，但个人助理功能尚不成熟，Echo Show屏幕上的广告也已失控。"
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "图片来源：Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "通过Kickstarter众筹的CyboPal ONE把一块27英寸4K、160Hz显示屏装在可夹在桌边的六轴机械臂上，它会留意你的位置，并相应移动屏幕。Super Early Bird价格为$1,599，计划零售价为$2,499。"
+                "x": "由于采用LLM-powered架构，Alexa如今能理解\"I'm cold\"（我冷）这类模糊请求，响应时间从10到15秒缩短至三到五秒，能处理多步骤指令，一步步带她完成食谱，还能通过语音创建日常流程。不过，为此她不得不从头重建自己的智能家居。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "它自带一台电脑：“Linux AI Compute Base”内置搭载6 TOPS NPU的八核Rockchip RK3588、8GB RAM和128GB存储，在设备端完成人脸追踪、手势识别和3D 空间感知。双目3D 传感器负责避障和路径规划，人脸追踪可在四秒内调整屏幕位置。"
+                "x": "缺点在于：Echo Show屏幕已沦为轮播Amazon商品的广告牌，如今还加入了视频广告，去除广告需每台设备每月支付$2.99。复杂请求的表现依然不稳定，通过Uber Eats或Thumbtack执行的代理任务也经常失败。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Pauli语音智能体运行在桌面客户端中，实际计算仍需一台笔记本或台式机。这项众筹将于2026年11月21日截止，目前已达HK$80,000目标的11,000%以上——但TechRadar指出，支持者押注的是尚未经过独立测试的软件。"
+                "x": "记忆是最大的短板：Alexa忘了她是谁，还给出了去错误学校的交通路线。她的结论是：Amazon应停止追逐通用AI机器人，专注于成为家庭的大脑。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un brazo para monitor de $1,599\nque sigue tu rostro",
-          "body": "El brazo CyboPal de $1,599 usa una NPU on-device de 6 TOPS para seguir tu rostro con su pantalla 4K de 27 pulgadas.",
-          "mini_headline": "Un monitor que te sigue",
+          "headline": "Alexa Plus, un año después:\nmejor en casa, pero con anuncios",
+          "body": "Tras un año, Alexa Plus gestiona mejor el hogar inteligente, pero aún no organiza tu vida y ahora trae anuncios.",
+          "mini_headline": "Alexa Plus, un año después",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Jennifer Pattison Tuohy, de The Verge, prueba en casa desde julio de 2025 la Alexa Plus de Amazon, impulsada por IA (AI-powered). Un año después, la considera el mejor asistente para el hogar inteligente que ha probado, pero afirma que sus funciones de asistente personal están a medio hacer y que los anuncios en las pantallas Echo Show están fuera de control."
+              },
+              {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/rosmmZ44myzVaeawb52jhB-2556-80.png",
-                "cap": "Crédito de la imagen: Cybopal/Kickstarter"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "El CyboPal ONE, financiado en Kickstarter, monta una pantalla 4K de 160Hz y 27 pulgadas en un brazo robótico de seis ejes que se sujeta al escritorio, vigila dónde estás y mueve la pantalla en consecuencia. El precio Super Early Bird de $1,599 se compara con un precio de venta previsto de $2,499."
+                "x": "Al estar basada en un LLM (LLM-powered), Alexa entiende ahora peticiones vagas como \"I'm cold\" (\"tengo frío\"), responde en tres a cinco segundos en lugar de 10 a 15, gestiona órdenes de varios pasos, la guía en recetas y crea rutinas por voz. Llegar hasta ahí exigió reconstruir su hogar inteligente desde cero."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "Lleva su propio equipo informático: un Rockchip RK3588 de ocho núcleos con una NPU de 6 TOPS, 8GB de RAM y 128GB de almacenamiento en una \"Linux AI Compute Base\" que gestiona en el propio dispositivo el seguimiento facial, el reconocimiento de gestos y la detección espacial 3D. Un sensor 3D binocular se encarga de evitar obstáculos y planificar trayectorias, y el seguimiento facial recoloca la pantalla en menos de cuatro segundos."
+                "x": "Las desventajas: las pantallas Echo Show se han convertido en vallas publicitarias rotatorias de productos de Amazon, ahora también con anuncios en vídeo, y quitarlos cuesta $2.99 al mes por dispositivo. Las peticiones complejas siguen siendo irregulares, y las tareas agénticas a través de Uber Eats o Thumbtack fallaron a menudo."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "El agente de voz Pauli funciona en un cliente de escritorio, y aún se necesita un equipo portátil o de escritorio para el cómputo real. La campaña, que cierra el 21 de noviembre de 2026, supera el 11,000% de su meta de HK$80,000, pero TechRadar advierte que los patrocinadores apuestan por un software que no se ha probado de forma independiente."
+                "x": "La memoria es la mayor carencia: Alexa olvidó quién era ella y dio indicaciones de tráfico hacia el colegio equivocado. Su veredicto: Amazon debería dejar de perseguir un bot de IA de uso general y centrarse en convertirse en el cerebro del hogar."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-xpanceo-ai-contact-lenses",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
+      "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
+      "mini_headline": "2030년 AI 콘택트렌즈",
+      "tool": "Gadgets",
+      "source": "CNET",
+      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "CNET이 두바이에 자리한(Dubai-based) Xpanceo의 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해째 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 만들고 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+          },
+          {
+            "t": "p",
+            "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어가고, 머리 옆에 차는 보조 기기와 함께 쓴다. 보조 기기에는 카메라, 이어폰, 마이크가 있어 연산을 맡고 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 특허 50개 이상을 확보했고, 2027년 3월 MWC Barcelona에서 렌즈를 공개하겠다고 밝혔다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+          },
+          {
+            "t": "p",
+            "x": "피를 뽑지 않고 눈물만으로 포도당, 단백질, 전해질, 스트레스 호르몬을 알아낼 수 있고, 녹내장 위험 지표인 안압도 렌즈로 잰다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 구실을 하는 렌즈도 연구한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+          },
+          {
+            "t": "p",
+            "x": "첫 시장은 병원, 프로 운동선수, 레이싱 드라이버 대상 B2B다. UAE Space Agency와 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 소비자용 제품이 제한적으로 나올 수 있고, 가격은 연간 약 $2,000 수준 구독형이 될 전망이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Xpanceo's AI contact lenses\ncould arrive as soon as 2030",
+          "body": "Dubai-based Xpanceo has spent five years on AI smart contact lenses that could arrive as soon as 2030.",
+          "mini_headline": "AI contact lenses by 2030",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET spoke with the founders of Dubai-based Xpanceo, which has spent five years developing AI-powered smart contact lenses that work \"like an AI helper, but directly on your cornea.\""
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "The lens contains a screen, biosensors, a microbattery and an antenna, and pairs with a companion device worn on the side of the head that holds a camera, earphone and microphone, handles computing and charges the lenses wirelessly. The team says it has 28 working prototypes and more than 50 patents, and will reveal the lens at MWC Barcelona in March 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Tear fluid could reveal glucose, proteins, electrolytes and stress hormones without blood draws, and the lens could measure intraocular pressure, a glaucoma risk marker. Xpanceo is also exploring a lens that acts as a non-invasive brain-computer interface."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "It will start with B2B uses for hospitals, pro athletes and race car drivers, plus a joint project with the UAE Space Agency. After medical trials, narrow consumer uses could arrive by 2030, priced around $2,000 a year as a subscription."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
+          "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
+          "mini_headline": "2030년 AI 콘택트렌즈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET이 두바이에 자리한(Dubai-based) Xpanceo의 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해째 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 만들고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어가고, 머리 옆에 차는 보조 기기와 함께 쓴다. 보조 기기에는 카메라, 이어폰, 마이크가 있어 연산을 맡고 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 특허 50개 이상을 확보했고, 2027년 3월 MWC Barcelona에서 렌즈를 공개하겠다고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "피를 뽑지 않고 눈물만으로 포도당, 단백질, 전해질, 스트레스 호르몬을 알아낼 수 있고, 녹내장 위험 지표인 안압도 렌즈로 잰다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 구실을 하는 렌즈도 연구한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "첫 시장은 병원, 프로 운동선수, 레이싱 드라이버 대상 B2B다. UAE Space Agency와 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 소비자용 제품이 제한적으로 나올 수 있고, 가격은 연간 약 $2,000 수준 구독형이 될 전망이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "XpanceoのAIレンズ\n早ければ2030年登場",
+          "body": "Xpanceoが五年かけて開発するAIコンタクトレンズは、早ければ2030年に登場する。",
+          "mini_headline": "2030年にAIコンタクトレンズ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNETは、ドバイ拠点（Dubai-based）のXpanceoの創業者に話を聞いた。同社は五年をかけて、「AIヘルパーのように、ただし角膜の上で直接」機能するAI-powered スマートコンタクトレンズを開発してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "レンズにはディスプレイ、バイオセンサー、マイクロバッテリー、アンテナが内蔵され、頭の横に装着するコンパニオンデバイスと連携する。このデバイスはカメラ、イヤホン、マイクを備え、演算処理を担い、レンズをワイヤレス充電する。チームによると、動作する試作品は28個、特許は50件以上あり、2027年3月のMWC Barcelonaでレンズを公開する予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "涙液から採血なしでグルコース、タンパク質、電解質、ストレスホルモンを把握できる可能性があり、レンズは緑内障のリスク指標である眼圧も測定できるかもしれない。Xpanceoは非侵襲型のブレイン・コンピューター・インターフェースとして機能するレンズも模索している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "まずは病院、プロアスリート、レーシングドライバー向けのB2B用途から始め、UAE Space Agencyとの共同プロジェクトも進める。医療試験を経て、限定的な消費者向け用途が2030年までに登場する可能性があり、価格はサブスクリプションで年間約$2,000になる見込みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Xpanceo AI隐形眼镜\n最早2030年面世",
+          "body": "迪拜公司Xpanceo耗时五年研发AI智能隐形眼镜，最早可能在2030年面世。",
+          "mini_headline": "AI隐形眼镜或于2030年面世",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET采访了迪拜公司（Dubai-based）Xpanceo的创始人。该公司耗时五年研发AI-powered 智能隐形眼镜，其工作方式\"就像一个AI助手，只不过直接在你的角膜上\"。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "镜片内置显示屏、生物传感器、微型电池和天线，并与佩戴在头部侧面的配套设备配合使用；该设备集成摄像头、耳机和麦克风，负责运算并为镜片无线充电。团队表示，已有28个可运行的原型和50多项专利，并将于2027年3月在MWC Barcelona发布这款镜片。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "泪液无需抽血即可反映葡萄糖、蛋白质、电解质和压力激素水平，镜片还可测量青光眼风险指标眼压。Xpanceo也在探索一种可作为非侵入式脑机接口的镜片。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "它将先从面向医院、职业运动员和赛车手的B2B应用起步，并与UAE Space Agency开展联合项目。经过医学试验后，有限的消费级用途可能在2030年前推出，定价约为每年$2,000的订阅制。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las lentes con IA de Xpanceo\npodrían llegar en 2030",
+          "body": "Xpanceo, de Dubái, lleva cinco años desarrollando lentes de contacto inteligentes con IA que podrían llegar en 2030.",
+          "mini_headline": "Lentes de contacto con IA para 2030",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET habló con los fundadores de Xpanceo, con sede en Dubái (Dubai-based), que lleva cinco años desarrollando lentes de contacto inteligentes impulsadas por IA (AI-powered) que funcionan \"como un asistente de IA, pero directamente sobre la córnea\"."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "La lente integra una pantalla, biosensores, una microbatería y una antena, y se combina con un dispositivo complementario que se lleva en el lateral de la cabeza, con cámara, auricular y micrófono, que se encarga del procesamiento y carga las lentes de forma inalámbrica. El equipo afirma tener 28 prototipos funcionales y más de 50 patentes, y presentará la lente en el MWC Barcelona en marzo de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "El líquido lagrimal podría revelar glucosa, proteínas, electrolitos y hormonas del estrés sin extracciones de sangre, y la lente podría medir la presión intraocular, un marcador de riesgo de glaucoma. Xpanceo también explora una lente que funcione como interfaz cerebro-computadora no invasiva."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Empezará con usos B2B para hospitales, deportistas profesionales y pilotos de carreras, además de un proyecto conjunto con la UAE Space Agency. Tras los ensayos médicos, podrían llegar usos de consumo limitados hacia 2030, con un precio de unos $2,000 al año mediante suscripción."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
+          "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
+          "mini_headline": "2030년 AI 콘택트렌즈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET은 두바이 기반(Dubai-based)의 Xpanceo 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해 동안 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 개발해 왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어 있으며, 머리 옆에 착용하는 보조 기기와 짝을 이룬다. 이 기기에는 카메라, 이어폰, 마이크가 담겨 있고, 연산을 처리하며 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 50개 이상의 특허를 확보했으며, 2027년 3월 MWC Barcelona에서 렌즈를 공개할 예정이라고 밝혔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "눈물로 혈액 채취 없이 포도당, 단백질, 전해질, 스트레스 호르몬을 파악할 수 있고, 렌즈로 녹내장 위험 지표인 안압도 측정할 수 있다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 역할을 하는 렌즈도 연구하고 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "우선 병원, 프로 운동선수, 레이싱 드라이버를 위한 B2B 용도로 시작하며, UAE Space Agency와의 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 제한적인 소비자용 제품이 나올 수 있으며, 가격은 연간 약 $2,000 수준의 구독형이 될 전망이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "XpanceoのAIレンズ\n早ければ2030年登場",
+          "body": "Xpanceoが五年かけて開発するAIコンタクトレンズは、早ければ2030年に登場する。",
+          "mini_headline": "2030年にAIコンタクトレンズ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNETは、ドバイ拠点（Dubai-based）のXpanceoの創業者に話を聞いた。同社は五年をかけて、「AIヘルパーのように、ただし角膜の上で直接」機能するAI-powered スマートコンタクトレンズを開発してきた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "レンズにはディスプレイ、バイオセンサー、マイクロバッテリー、アンテナが内蔵され、頭の横に装着するコンパニオンデバイスと連携する。このデバイスはカメラ、イヤホン、マイクを備え、演算処理を担い、レンズをワイヤレス充電する。チームによると、動作する試作品は28個、特許は50件以上あり、2027年3月のMWC Barcelonaでレンズを公開する予定だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "涙液から採血なしでグルコース、タンパク質、電解質、ストレスホルモンを把握できる可能性があり、レンズは緑内障のリスク指標である眼圧も測定できるかもしれない。Xpanceoは非侵襲型のブレイン・コンピューター・インターフェースとして機能するレンズも模索している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "まずは病院、プロアスリート、レーシングドライバー向けのB2B用途から始め、UAE Space Agencyとの共同プロジェクトも進める。医療試験を経て、限定的な消費者向け用途が2030年までに登場する可能性があり、価格はサブスクリプションで年間約$2,000になる見込みだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Xpanceo AI隐形眼镜\n最早2030年面世",
+          "body": "迪拜公司Xpanceo耗时五年研发AI智能隐形眼镜，最早可能在2030年面世。",
+          "mini_headline": "AI隐形眼镜或于2030年面世",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET采访了迪拜公司（Dubai-based）Xpanceo的创始人。该公司耗时五年研发AI-powered 智能隐形眼镜，其工作方式\"就像一个AI助手，只不过直接在你的角膜上\"。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "镜片内置显示屏、生物传感器、微型电池和天线，并与佩戴在头部侧面的配套设备配合使用；该设备集成摄像头、耳机和麦克风，负责运算并为镜片无线充电。团队表示，已有28个可运行的原型和50多项专利，并将于2027年3月在MWC Barcelona发布这款镜片。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "泪液无需抽血即可反映葡萄糖、蛋白质、电解质和压力激素水平，镜片还可测量青光眼风险指标眼压。Xpanceo也在探索一种可作为非侵入式脑机接口的镜片。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "它将先从面向医院、职业运动员和赛车手的B2B应用起步，并与UAE Space Agency开展联合项目。经过医学试验后，有限的消费级用途可能在2030年前推出，定价约为每年$2,000的订阅制。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las lentes con IA de Xpanceo\npodrían llegar en 2030",
+          "body": "Xpanceo, de Dubái, lleva cinco años desarrollando lentes de contacto inteligentes con IA que podrían llegar en 2030.",
+          "mini_headline": "Lentes de contacto con IA para 2030",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "CNET habló con los fundadores de Xpanceo, con sede en Dubái (Dubai-based), que lleva cinco años desarrollando lentes de contacto inteligentes impulsadas por IA (AI-powered) que funcionan \"como un asistente de IA, pero directamente sobre la córnea\"."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "La lente integra una pantalla, biosensores, una microbatería y una antena, y se combina con un dispositivo complementario que se lleva en el lateral de la cabeza, con cámara, auricular y micrófono, que se encarga del procesamiento y carga las lentes de forma inalámbrica. El equipo afirma tener 28 prototipos funcionales y más de 50 patentes, y presentará la lente en el MWC Barcelona en marzo de 2027."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "El líquido lagrimal podría revelar glucosa, proteínas, electrolitos y hormonas del estrés sin extracciones de sangre, y la lente podría medir la presión intraocular, un marcador de riesgo de glaucoma. Xpanceo también explora una lente que funcione como interfaz cerebro-computadora no invasiva."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+              },
+              {
+                "t": "p",
+                "x": "Empezará con usos B2B para hospitales, deportistas profesionales y pilotos de carreras, además de un proyecto conjunto con la UAE Space Agency. Tras los ensayos médicos, podrían llegar usos de consumo limitados hacia 2030, con un precio de unos $2,000 al año mediante suscripción."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
               }
             ]
           }

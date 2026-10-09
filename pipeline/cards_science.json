@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "science",
   "cards": [
     {
-      "id": "science-alphaproof-nexus",
+      "id": "science-ai-help-persistence",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AlphaProof\nNexus 수십 난제 풀다",
-      "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
-      "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
+      "headline": "십 분의 AI 도움이\n끈기를 깎는다",
+      "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊기자 더 빨리 포기했다.",
+      "mini_headline": "짧은 AI 도움, 끈기를 깎다",
       "tool": "Science",
-      "source": "EurekAlert! (AAAS / Science)",
-      "url": "https://www.eurekalert.org/news-releases/1146436",
+      "source": "EurekAlert! (UC Berkeley)",
+      "url": "https://www.eurekalert.org/news-releases/1147258",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,204 +19,209 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진이 Science에 발표한 새 LLM-based 프레임워크 AlphaProof Nexus는 일부 수학 문제를 스스로 푼다. 증명을 탐색한 뒤 검증을 거쳐 풀이가 논리적으로 타당한지 확인하는 방식이다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
+            "x": "AI 도구에 단 10분만 기대도 어려운 과제에 집중해 끈기 있게 매달리는 능력이 크게 떨어진다. UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구의 결론이다."
           },
           {
             "t": "p",
-            "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 논리 단계마다 자동으로 검증해 주는 형식 언어 Lean으로 증명을 만든다."
+            "x": "연구팀은 온라인 참가자 1,222명으로 무작위 대조 실험을 했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었는데, 한 집단만 옆에 ChatGPT를 두었다. AI 집단은 처음엔 정답률이 더 높았다. 그러나 12문제를 푼 뒤 도구를 거둬들이자 정답률은 거의 즉시 무너졌다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-            "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
+            "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+            "cap": "도구를 회수하자 AI 집단의 풀이율(주황색)은 떨어지고 문제를 건너뛰는 비율은 가파르게 올랐다."
           },
           {
             "t": "p",
-            "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받아 가며 증명을 찾는 프레임워크를 만들었다. 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 함께 붙였다."
+            "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 결과는 같았다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌지만, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다고 지적하며, 어시스턴트가 기본 설정으로 튜터처럼 가르치는 방식을 택할 수도 있다고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+            "cap": "2026년 10월 7일 UC Berkeley에서 연구를 설명하는 Brian Christian."
           },
           {
             "t": "p",
-            "x": "시도한 Erdős 문제 353개 가운데 아홉 개를 풀었는데, 그중 두 문제는 50년 넘게 풀리지 않던 난제다. 미해결 OEIS 추측도 492개 중 44개를 풀었고 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
-          },
-          {
-            "t": "p",
-            "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
+            "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
           }
         ]
       },
-      "lead_image": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
       "text": {
         "en": {
-          "headline": "AlphaProof Nexus settles\ndozens of open math problems",
-          "body": "An LLM-based system that seeks formally verified proofs solved dozens of open problems across several fields.",
-          "mini_headline": "AlphaProof Nexus settles open problems",
+          "headline": "Ten minutes of AI help\nerodes persistence",
+          "body": "Across three trials with 1,222 people, ten minutes of AI help left them quicker to give up once it was gone.",
+          "mini_headline": "Brief AI help erodes persistence",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A new LLM-based framework called AlphaProof Nexus can autonomously tackle select math problems, seeking proofs and using verification to ensure the solutions are logically sound, researchers report in Science. It solved dozens of previously open problems across several mathematical fields."
+                "x": "Spending just 10 minutes relying on an AI tool significantly impairs people's ability to focus and persist with difficult tasks, according to a peer-reviewed study co-authored by Brian Christian of UC Berkeley's Center for Human-Compatible AI and presented this week at the Conference on Language Modeling."
               },
               {
                 "t": "p",
-                "x": "LLMs tend to produce subtle logical errors or “hallucinations,” so the system generates proofs in the formal language Lean, which automatically verifies each logical step."
+                "x": "The team ran randomized controlled trials with 1,222 online participants. In the first, 354 people solved 15 fraction problems; one group had ChatGPT on the side. The AI group started out more accurate, but after 12 problems the tool was taken away and their accuracy collapsed almost immediately."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "Design of the full-featured AlphaProof Nexus agent. Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "The AI group's solve rate (orange) dropped after the tool was removed, while the rate of skipped questions rose sharply."
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas and colleagues built a framework in which multiple AI agents search for proofs with feedback from the Lean compiler, plus a full-featured agent that coordinates subagents through an evolutionary algorithm and uses AlphaProof as a specialized proof tool."
+                "x": "A second trial with 667 people and a third with 201 on SAT reading comprehension echoed the result: once AI help was withdrawn, persistence and accuracy dropped, while those who never had it stuck with the task. The authors say AI removes \"productive struggle\" and that assistants could default to teaching like a tutor."
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "Brian Christian speaking about the research at UC Berkeley on Oct. 7, 2026."
               },
               {
                 "t": "p",
-                "x": "It solved nine of 353 attempted Erdős problems, including two unsolved for more than 50 years, and 44 of 492 open OEIS conjectures, along with problems in algebraic geometry, optimization, quantum optics and graph theory."
-              },
-              {
-                "t": "p",
-                "x": "In a related Perspective, Jeremy Avigad and Matthew Ballard note that even unsuccessful AI proof attempts helped the authors understand the problems better and make progress."
+                "x": "\"This is not a story about fractions and SAT problems,\" Christian said. \"This is something that is happening to human knowledge and human expertise from top to bottom.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AlphaProof\nNexus 수십 난제 풀다",
-          "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
-          "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
+          "headline": "십 분의 AI 도움이\n끈기를 깎는다",
+          "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊기자 더 빨리 포기했다.",
+          "mini_headline": "짧은 AI 도움, 끈기를 깎다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진이 Science에 발표한 새 LLM-based 프레임워크 AlphaProof Nexus는 일부 수학 문제를 스스로 푼다. 증명을 탐색한 뒤 검증을 거쳐 풀이가 논리적으로 타당한지 확인하는 방식이다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
+                "x": "AI 도구에 단 10분만 기대도 어려운 과제에 집중해 끈기 있게 매달리는 능력이 크게 떨어진다. UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구의 결론이다."
               },
               {
                 "t": "p",
-                "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 논리 단계마다 자동으로 검증해 주는 형식 언어 Lean으로 증명을 만든다."
+                "x": "연구팀은 온라인 참가자 1,222명으로 무작위 대조 실험을 했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었는데, 한 집단만 옆에 ChatGPT를 두었다. AI 집단은 처음엔 정답률이 더 높았다. 그러나 12문제를 푼 뒤 도구를 거둬들이자 정답률은 거의 즉시 무너졌다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "도구를 회수하자 AI 집단의 풀이율(주황색)은 떨어지고 문제를 건너뛰는 비율은 가파르게 올랐다."
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받아 가며 증명을 찾는 프레임워크를 만들었다. 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 함께 붙였다."
+                "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 결과는 같았다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌지만, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다고 지적하며, 어시스턴트가 기본 설정으로 튜터처럼 가르치는 방식을 택할 수도 있다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026년 10월 7일 UC Berkeley에서 연구를 설명하는 Brian Christian."
               },
               {
                 "t": "p",
-                "x": "시도한 Erdős 문제 353개 가운데 아홉 개를 풀었는데, 그중 두 문제는 50년 넘게 풀리지 않던 난제다. 미해결 OEIS 추측도 492개 중 44개를 풀었고 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
-              },
-              {
-                "t": "p",
-                "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
+                "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AlphaProof\nNexusが数十の難問を解く",
-          "body": "LLM-basedのシステムが形式検証された証明を探し、複数分野の未解決問題を数十件解いた。",
-          "mini_headline": "AlphaProof Nexus、未解決問題を解く",
+          "headline": "十分間のAI支援が\n粘り強さを奪う",
+          "body": "1,222人が参加した三つの実験で、AIの助けを十分間受けた人は支援が消えると早く諦めた。",
+          "mini_headline": "短いAI支援が粘りを奪う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AlphaProof Nexusと呼ばれる新しいLLM-basedのフレームワークは、一部の数学問題に自律的に取り組み、証明を探索し、検証によって解が論理的に正しいことを担保できると、研究チームがScienceに報告した。複数の数学分野で、これまで未解決だった問題を数十件解いた。"
+                "x": "UC BerkeleyのCenter for Human-Compatible AIに所属するBrian Christianが共著者を務め、今週Conference on Language Modelingで発表された査読付き研究によると、AIツールにわずか10分頼るだけで、難しい課題に集中して粘り強く取り組む能力が大きく損なわれる。"
               },
               {
                 "t": "p",
-                "x": "LLMsは微妙な論理的誤り、いわゆる「幻覚」を生みやすい。そこでこのシステムは、各論理ステップを自動で検証する形式言語Leanで証明を生成する。"
+                "x": "研究チームはオンライン参加者1,222人を対象にランダム化比較試験を行った。最初の試験では354人が分数の問題15問を解き、一方のグループはChatGPTを手元で使えた。AIグループは当初の正答率が高かったが、12問を解いた後にツールを取り上げると、正答率はほぼ即座に崩れた。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured版AlphaProof Nexusエージェントの設計。Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "AIグループの解答率(オレンジ)はツールを取り上げた後に低下し、問題を飛ばす割合は急上昇した。"
               },
               {
                 "t": "p",
-                "x": "George Tsoukalasらは、複数のAIエージェントがLeanコンパイラからのフィードバックを受けながら証明を探索するフレームワークを構築した。さらに、進化的アルゴリズムでサブエージェントを統括し、AlphaProofを専用の証明ツールとして使うfull-featuredのエージェントも開発した。"
+                "x": "667人を対象にした二つ目の試験と、201人がSATの読解問題に取り組んだ三つ目の試験でも同じ結果が出た。AIの支援がなくなると粘り強さと正答率は低下し、最初から支援を受けなかった人は課題を続けた。著者らは、AIが「生産的な苦闘(productive struggle)」を奪うとし、アシスタントは家庭教師のように教えることを標準にできると述べている。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026年10月7日、UC Berkeleyで研究について語るBrian Christian。"
               },
               {
                 "t": "p",
-                "x": "試みた353問のErdős問題のうち九問を解き、その中には50年以上未解決だった二問も含まれる。未解決のOEIS予想492件のうち44件も解いたほか、代数幾何学、最適化、量子光学、グラフ理論の問題も解決した。"
-              },
-              {
-                "t": "p",
-                "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
+                "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AlphaProof\nNexus攻克数十道数学难题",
-          "body": "一个LLM-based系统通过寻找形式化验证的证明，解决了多个领域的数十个开放问题。",
-          "mini_headline": "AlphaProof Nexus攻克开放问题",
+          "headline": "十分钟AI帮助\n侵蚀人的毅力",
+          "body": "三项共1,222人参与的试验显示，接受十分钟AI帮助的人在帮助撤走后更快放弃。",
+          "mini_headline": "短暂AI帮助削弱毅力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员在Science上报告，一个名为AlphaProof Nexus的新型LLM-based框架能够自主处理部分数学问题：它寻找证明，并借助验证确保解答在逻辑上成立。该系统已解决多个数学领域中数十个此前悬而未决的问题。"
+                "x": "一项经同行评审的研究显示，仅依赖AI工具10分钟，就会显著削弱人们专注并坚持完成困难任务的能力。该研究的合著者是UC Berkeley Center for Human-Compatible AI的Brian Christian，研究于本周在Conference on Language Modeling上发表。"
               },
               {
                 "t": "p",
-                "x": "LLMs容易产生细微的逻辑错误，即所谓的“幻觉”，因此该系统用形式语言Lean生成证明，由其自动验证每一步逻辑。"
+                "x": "团队对1,222名在线参与者开展了随机对照试验。在第一项试验中，354人解答15道分数题，其中一组可以随时使用ChatGPT。AI组起初正确率更高，但在做完12道题后工具被收回，他们的正确率几乎立刻崩溃。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured版AlphaProof Nexus智能体的设计。Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "收回工具后，AI组的解题率（橙色）下降，跳过题目的比例则急剧上升。"
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas及其同事构建了一个框架，让多个AI智能体在Lean编译器的反馈下搜索证明；另有一个full-featured智能体，通过进化算法协调各子智能体，并把AlphaProof用作专门的证明工具。"
+                "x": "第二项有667人参与的试验和第三项由201人完成SAT阅读理解的试验得出了相同结果：一旦撤走AI帮助，毅力和正确率都会下降，而从未获得帮助的人则坚持完成任务。作者认为，AI消除了“有益的挣扎”（productive struggle），助手可以默认像导师一样进行教学。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026年10月7日，Brian Christian在UC Berkeley介绍这项研究。"
               },
               {
                 "t": "p",
-                "x": "在尝试的353个Erdős问题中，它解决了九个，其中两个已悬而未决超过50年；它还解决了492个开放OEIS猜想中的44个，以及代数几何、优化、量子光学和图论领域的问题。"
-              },
-              {
-                "t": "p",
-                "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
+                "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AlphaProof Nexus resuelve\ndecenas de problemas abiertos",
-          "body": "Un sistema LLM-based de pruebas verificadas formalmente resolvió decenas de problemas abiertos en varias áreas.",
-          "mini_headline": "AlphaProof Nexus resuelve problemas abiertos",
+          "headline": "Diez minutos de ayuda de IA\nminan la perseverancia",
+          "body": "En tres ensayos con 1,222 personas, diez minutos de ayuda de IA hicieron que se rindieran antes al retirarla.",
+          "mini_headline": "Una breve ayuda de IA mina la perseverancia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un nuevo marco LLM-based llamado AlphaProof Nexus puede abordar de forma autónoma ciertos problemas matemáticos: busca demostraciones y usa la verificación para garantizar que las soluciones sean lógicamente sólidas, según informan los investigadores en Science. Resolvió decenas de problemas hasta ahora abiertos en varios campos de las matemáticas."
+                "x": "Dedicar solo 10 minutos a apoyarse en una herramienta de IA perjudica de forma significativa la capacidad de concentrarse y perseverar en tareas difíciles, según un estudio revisado por pares del que es coautor Brian Christian, del Center for Human-Compatible AI de UC Berkeley, presentado esta semana en la Conference on Language Modeling."
               },
               {
                 "t": "p",
-                "x": "Los LLMs tienden a cometer errores lógicos sutiles o “alucinaciones”, por lo que el sistema genera las demostraciones en el lenguaje formal Lean, que verifica automáticamente cada paso lógico."
+                "x": "El equipo realizó ensayos controlados aleatorizados con 1,222 participantes en línea. En el primero, 354 personas resolvieron 15 problemas de fracciones; un grupo tenía ChatGPT a mano. El grupo con IA empezó siendo más preciso, pero tras 12 problemas se le retiró la herramienta y su precisión se desplomó casi de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "Diseño del agente full-featured de AlphaProof Nexus. Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "La tasa de resolución del grupo con IA (naranja) cayó tras retirar la herramienta, mientras que la de preguntas omitidas subió con fuerza."
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas y sus colegas crearon un marco en el que varios agentes de AI buscan demostraciones con la retroalimentación del compilador de Lean, además de un agente full-featured que coordina subagentes mediante un algoritmo evolutivo y usa AlphaProof como herramienta especializada de demostración."
+                "x": "Un segundo ensayo con 667 personas y un tercero con 201 sobre comprensión lectora del SAT confirmaron el resultado: al retirar la ayuda de la IA, la perseverancia y la precisión bajaron, mientras que quienes nunca la tuvieron siguieron con la tarea. Los autores sostienen que la IA elimina la \"lucha productiva\" (productive struggle) y que los asistentes podrían enseñar por defecto como un tutor."
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "Brian Christian habla sobre la investigación en UC Berkeley el 7 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "Resolvió nueve de los 353 problemas de Erdős que intentó, entre ellos dos sin resolver desde hace más de 50 años, y 44 de 492 conjeturas abiertas de la OEIS, además de problemas de geometría algebraica, optimización, óptica cuántica y teoría de grafos."
-              },
-              {
-                "t": "p",
-                "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
+                "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
               }
             ]
           }
@@ -224,141 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AlphaProof\nNexus 수십 난제 풀다",
-          "body": "LLM-based 시스템이 형식 검증 증명으로 여러 분야 난제 수십 개를 풀었다.",
-          "mini_headline": "AlphaProof Nexus, 미해결 난제를 풀다",
+          "headline": "십 분의 AI 도움이\n끈기를 깎는다",
+          "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊긴 뒤 더 빨리 포기했다.",
+          "mini_headline": "짧은 AI 도움, 끈기를 깎다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AlphaProof Nexus라는 새로운 LLM-based 프레임워크가 일부 수학 문제를 스스로 풀어낸다고 연구진이 Science에 발표했다. 이 시스템은 증명을 탐색하고 검증을 거쳐 풀이가 논리적으로 타당한지 확인한다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
+                "x": "UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구에 따르면, AI 도구에 단 10분만 의존해도 어려운 과제에 집중하고 끈기 있게 매달리는 능력이 크게 떨어진다."
               },
               {
                 "t": "p",
-                "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 각 논리 단계를 자동으로 검증하는 형식 언어 Lean으로 증명을 생성한다."
+                "x": "연구팀은 온라인 참가자 1,222명을 대상으로 무작위 대조 실험을 진행했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었고, 한 집단은 옆에 ChatGPT를 두었다. AI 집단은 처음에 정답률이 더 높았지만, 12문제를 푼 뒤 도구를 회수하자 정답률이 거의 즉시 무너졌다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "AI 집단의 풀이율(주황색)은 도구를 회수한 뒤 떨어졌고, 문제를 건너뛰는 비율은 가파르게 올랐다."
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받으며 증명을 찾는 프레임워크를 만들었다. 여기에 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 더했다."
+                "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 같은 결과를 보였다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌고, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다며, 어시스턴트가 기본적으로 튜터처럼 가르치는 방식을 택할 수 있다고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026년 10월 7일 UC Berkeley에서 연구에 대해 이야기하는 Brian Christian."
               },
               {
                 "t": "p",
-                "x": "시도한 Erdős 문제 353개 중 아홉 개를 풀었고, 여기에는 50년 넘게 풀리지 않던 두 문제가 들어 있다. 미해결 OEIS 추측 492개 중 44개도 풀었으며, 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
-              },
-              {
-                "t": "p",
-                "x": "관련 Perspective에서 Jeremy Avigad와 Matthew Ballard는 실패한 AI 증명 시도조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
+                "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian은 이렇게 말했다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AlphaProof\nNexusが数十の難問を解く",
-          "body": "LLM-basedのシステムが形式検証された証明を探し、複数分野の未解決問題を数十件解いた。",
-          "mini_headline": "AlphaProof Nexus、未解決問題を解く",
+          "headline": "十分間のAI支援が\n粘り強さを奪う",
+          "body": "1,222人が参加した三つの実験で、AIの助けを十分間受けた人は支援が消えると早く諦めた。",
+          "mini_headline": "短いAI支援が粘りを奪う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "AlphaProof Nexusと呼ばれる新しいLLM-basedのフレームワークは、一部の数学問題に自律的に取り組み、証明を探索し、検証によって解が論理的に正しいことを担保できると、研究チームがScienceに報告した。複数の数学分野で、これまで未解決だった問題を数十件解いた。"
+                "x": "UC BerkeleyのCenter for Human-Compatible AIに所属するBrian Christianが共著者を務め、今週Conference on Language Modelingで発表された査読付き研究によると、AIツールにわずか10分頼るだけで、難しい課題に集中して粘り強く取り組む能力が大きく損なわれる。"
               },
               {
                 "t": "p",
-                "x": "LLMsは微妙な論理的誤り、いわゆる「幻覚」を生みやすい。そこでこのシステムは、各論理ステップを自動で検証する形式言語Leanで証明を生成する。"
+                "x": "研究チームはオンライン参加者1,222人を対象にランダム化比較試験を行った。最初の試験では354人が分数の問題15問を解き、一方のグループはChatGPTを手元で使えた。AIグループは当初の正答率が高かったが、12問を解いた後にツールを取り上げると、正答率はほぼ即座に崩れた。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured版AlphaProof Nexusエージェントの設計。Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "AIグループの解答率(オレンジ)はツールを取り上げた後に低下し、問題を飛ばす割合は急上昇した。"
               },
               {
                 "t": "p",
-                "x": "George Tsoukalasらは、複数のAIエージェントがLeanコンパイラからのフィードバックを受けながら証明を探索するフレームワークを構築した。さらに、進化的アルゴリズムでサブエージェントを統括し、AlphaProofを専用の証明ツールとして使うfull-featuredのエージェントも開発した。"
+                "x": "667人を対象にした二つ目の試験と、201人がSATの読解問題に取り組んだ三つ目の試験でも同じ結果が出た。AIの支援がなくなると粘り強さと正答率は低下し、最初から支援を受けなかった人は課題を続けた。著者らは、AIが「生産的な苦闘(productive struggle)」を奪うとし、アシスタントは家庭教師のように教えることを標準にできると述べている。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026年10月7日、UC Berkeleyで研究について語るBrian Christian。"
               },
               {
                 "t": "p",
-                "x": "試みた353問のErdős問題のうち九問を解き、その中には50年以上未解決だった二問も含まれる。未解決のOEIS予想492件のうち44件も解いたほか、代数幾何学、最適化、量子光学、グラフ理論の問題も解決した。"
-              },
-              {
-                "t": "p",
-                "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
+                "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AlphaProof\nNexus攻克数十道数学难题",
-          "body": "一个LLM-based系统通过寻找形式化验证的证明，解决了多个领域的数十个开放问题。",
-          "mini_headline": "AlphaProof Nexus攻克开放问题",
+          "headline": "十分钟AI帮助\n侵蚀人的毅力",
+          "body": "三项共1,222人参与的试验显示，接受十分钟AI帮助的人在帮助撤走后更快放弃。",
+          "mini_headline": "短暂AI帮助削弱毅力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员在Science上报告，一个名为AlphaProof Nexus的新型LLM-based框架能够自主处理部分数学问题：它寻找证明，并借助验证确保解答在逻辑上成立。该系统已解决多个数学领域中数十个此前悬而未决的问题。"
+                "x": "一项经同行评审的研究显示，仅依赖AI工具10分钟，就会显著削弱人们专注并坚持完成困难任务的能力。该研究的合著者是UC Berkeley Center for Human-Compatible AI的Brian Christian，研究于本周在Conference on Language Modeling上发表。"
               },
               {
                 "t": "p",
-                "x": "LLMs容易产生细微的逻辑错误，即所谓的“幻觉”，因此该系统用形式语言Lean生成证明，由其自动验证每一步逻辑。"
+                "x": "团队对1,222名在线参与者开展了随机对照试验。在第一项试验中，354人解答15道分数题，其中一组可以随时使用ChatGPT。AI组起初正确率更高，但在做完12道题后工具被收回，他们的正确率几乎立刻崩溃。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "full-featured版AlphaProof Nexus智能体的设计。Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "收回工具后，AI组的解题率（橙色）下降，跳过题目的比例则急剧上升。"
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas及其同事构建了一个框架，让多个AI智能体在Lean编译器的反馈下搜索证明；另有一个full-featured智能体，通过进化算法协调各子智能体，并把AlphaProof用作专门的证明工具。"
+                "x": "第二项有667人参与的试验和第三项由201人完成SAT阅读理解的试验得出了相同结果：一旦撤走AI帮助，毅力和正确率都会下降，而从未获得帮助的人则坚持完成任务。作者认为，AI消除了“有益的挣扎”（productive struggle），助手可以默认像导师一样进行教学。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "2026年10月7日，Brian Christian在UC Berkeley介绍这项研究。"
               },
               {
                 "t": "p",
-                "x": "在尝试的353个Erdős问题中，它解决了九个，其中两个已悬而未决超过50年；它还解决了492个开放OEIS猜想中的44个，以及代数几何、优化、量子光学和图论领域的问题。"
-              },
-              {
-                "t": "p",
-                "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
+                "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AlphaProof Nexus resuelve\ndecenas de problemas abiertos",
-          "body": "Un sistema LLM-based de pruebas verificadas formalmente resolvió decenas de problemas abiertos en varias áreas.",
-          "mini_headline": "AlphaProof Nexus resuelve problemas abiertos",
+          "headline": "Diez minutos de ayuda de IA\nminan la perseverancia",
+          "body": "En tres ensayos con 1,222 personas, diez minutos de ayuda de IA hicieron que se rindieran antes al retirarla.",
+          "mini_headline": "Una breve ayuda de IA mina la perseverancia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un nuevo marco LLM-based llamado AlphaProof Nexus puede abordar de forma autónoma ciertos problemas matemáticos: busca demostraciones y usa la verificación para garantizar que las soluciones sean lógicamente sólidas, según informan los investigadores en Science. Resolvió decenas de problemas hasta ahora abiertos en varios campos de las matemáticas."
+                "x": "Dedicar solo 10 minutos a apoyarse en una herramienta de IA perjudica de forma significativa la capacidad de concentrarse y perseverar en tareas difíciles, según un estudio revisado por pares del que es coautor Brian Christian, del Center for Human-Compatible AI de UC Berkeley, presentado esta semana en la Conference on Language Modeling."
               },
               {
                 "t": "p",
-                "x": "Los LLMs tienden a cometer errores lógicos sutiles o “alucinaciones”, por lo que el sistema genera las demostraciones en el lenguaje formal Lean, que verifica automáticamente cada paso lógico."
+                "x": "El equipo realizó ensayos controlados aleatorizados con 1,222 participantes en línea. En el primero, 354 personas resolvieron 15 problemas de fracciones; un grupo tenía ChatGPT a mano. El grupo con IA empezó siendo más preciso, pero tras 12 problemas se le retiró la herramienta y su precisión se desplomó casi de inmediato."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
-                "cap": "Diseño del agente full-featured de AlphaProof Nexus. Credit: Tsoukalas et al., arXiv:2605.22763"
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+                "cap": "La tasa de resolución del grupo con IA (naranja) cayó tras retirar la herramienta, mientras que la de preguntas omitidas subió con fuerza."
               },
               {
                 "t": "p",
-                "x": "George Tsoukalas y sus colegas crearon un marco en el que varios agentes de AI buscan demostraciones con la retroalimentación del compilador de Lean, además de un agente full-featured que coordina subagentes mediante un algoritmo evolutivo y usa AlphaProof como herramienta especializada de demostración."
+                "x": "Un segundo ensayo con 667 personas y un tercero con 201 sobre comprensión lectora del SAT confirmaron el resultado: al retirar la ayuda de la IA, la perseverancia y la precisión bajaron, mientras que quienes nunca la tuvieron siguieron con la tarea. Los autores sostienen que la IA elimina la \"lucha productiva\" (productive struggle) y que los asistentes podrían enseñar por defecto como un tutor."
+              },
+              {
+                "t": "img",
+                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+                "cap": "Brian Christian habla sobre la investigación en UC Berkeley el 7 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "Resolvió nueve de los 353 problemas de Erdős que intentó, entre ellos dos sin resolver desde hace más de 50 años, y 44 de 492 conjeturas abiertas de la OEIS, además de problemas de geometría algebraica, optimización, óptica cuántica y teoría de grafos."
-              },
-              {
-                "t": "p",
-                "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
+                "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
               }
             ]
           }
@@ -366,15 +375,15 @@
       }
     },
     {
-      "id": "science-gene-function-microscopy",
+      "id": "science-bolmo-byteification-nature",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
-      "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
-      "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
+      "headline": "기존 언어 모델을\n바이트 단위로 개조",
+      "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
+      "mini_headline": "LLMs, 바이트를 읽도록 개조",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/bolmo-nature",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -382,210 +391,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-            "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+            "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
           },
           {
             "t": "p",
-            "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진이 Veit Hornung, Matthias Mann, Fabian Theis의 주도 아래 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+            "x": "Ai2가 지난해 12월 내놓은 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo, 그 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 올리고, 원래의 전역 모델은 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 공개한다."
           },
           {
             "t": "p",
-            "x": "AI는 세포 총 7000만 개의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 덕분에 세포에 나타난 효과를 그 원인이 된 유전적 변화와 이어 볼 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-            "cap": "Credit: Niklas Schmacke"
+            "x": "대부분의 언어 모델은 고정된 어휘에 맞춰 텍스트를 서브워드로 쪼갠다. 그래서 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못하기도 한다. 바이트 단위 모델은 글자 밑의 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비싼 학습을 거쳐야 했다."
           },
           {
             "t": "p",
-            "x": "그다음 관심 있는 세포를 온전한 상태로 분리하고, 질량분석으로 단백질 구성을 확인한다."
+            "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo뿐 아니라 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
           },
           {
             "t": "p",
-            "x": "세포의 재활용 시스템인 자가포식을 대상으로 genome-wide 스크리닝을 해 보니, 이 방법은 이미 알려진 조절인자 다수를 다시 찾아냈고 새 조절인자도 발견했다. 연구팀은 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혀냈다."
+            "x": "바이트는 텍스트보다 넓은 단위다. Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 쓸 수 있다고 본다."
           }
         ]
       },
-      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
       "text": {
         "en": {
-          "headline": "AI reads 70 million cells\nto trace what genes do",
-          "body": "Pairing AI analysis of some 70 million imaged cells with genetic screening reveals the visible effects of single genes.",
-          "mini_headline": "AI maps what genes do in cells",
+          "headline": "Retrofitting language models\nto read byte by byte",
+          "body": "Ai2's byteification method, now in Nature, turns tokenized LLMs into byte-level models with a short extra training run.",
+          "mini_headline": "LLMs retrofitted to read bytes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "Graphical abstract. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "Researchers from LMU Munich's Gene Center, the Max Planck Institute of Biochemistry and Helmholtz Munich, led by Veit Hornung, Matthias Mann and Fabian Theis, report in Cell a technology called SPARCS that combines AI with microscopy and genetic screening."
+                "x": "The research behind Bolmo, Ai2's family of fully open byte-level language models introduced last December, has been published in Nature. Ai2 is also releasing new checkpoints on Hugging Face, plus Stage 1 checkpoints that keep the original global model frozen while training Bolmo's byte-level components."
               },
               {
                 "t": "p",
-                "x": "AI analyzes microscopy images of a total of 70 million cells, screening for complex visual features so that cellular effects can be linked to the genetic alterations that cause them."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "Most language models split text into subwords from a fixed vocabulary, which can make them less flexible with spelling, rare words and unusual strings. Byte-level models work from the raw bytes behind characters, but matching subword performance has usually required costly training from scratch."
               },
               {
                 "t": "p",
-                "x": "Cells of interest are then isolated intact and analyzed by mass spectrometry to determine their protein composition."
+                "x": "Ai2's \"byteifying\" process instead converts an already capable subword model into a byte-level one with a relatively short additional training run. In the Nature paper, the team applied it beyond Olmo to Qwen 3 8B and Llama 3 8B, creating Bwen 8B and Blama 8B; both come close to their source models, and Bwen 8B outperforms Bolmo 7B on Ai2's aggregate evaluation suite."
               },
               {
                 "t": "p",
-                "x": "In a genome-wide screen of autophagy, the cell's recycling system, the method recovered many known regulators and found new ones. The team also found that Golgi acidity, regulated by the protein GPHR, affects early transport of the immune sensor STING and its later activation."
+                "x": "Because bytes also extend beyond text, Ai2 says the same ideas could eventually apply to images and audio."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
-          "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
-          "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
+          "headline": "기존 언어 모델을\n바이트 단위로 개조",
+          "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
+          "mini_headline": "LLMs, 바이트를 읽도록 개조",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진이 Veit Hornung, Matthias Mann, Fabian Theis의 주도 아래 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+                "x": "Ai2가 지난해 12월 내놓은 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo, 그 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 올리고, 원래의 전역 모델은 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 공개한다."
               },
               {
                 "t": "p",
-                "x": "AI는 세포 총 7000만 개의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 덕분에 세포에 나타난 효과를 그 원인이 된 유전적 변화와 이어 볼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "대부분의 언어 모델은 고정된 어휘에 맞춰 텍스트를 서브워드로 쪼갠다. 그래서 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못하기도 한다. 바이트 단위 모델은 글자 밑의 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비싼 학습을 거쳐야 했다."
               },
               {
                 "t": "p",
-                "x": "그다음 관심 있는 세포를 온전한 상태로 분리하고, 질량분석으로 단백질 구성을 확인한다."
+                "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo뿐 아니라 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
               },
               {
                 "t": "p",
-                "x": "세포의 재활용 시스템인 자가포식을 대상으로 genome-wide 스크리닝을 해 보니, 이 방법은 이미 알려진 조절인자 다수를 다시 찾아냈고 새 조절인자도 발견했다. 연구팀은 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혀냈다."
+                "x": "바이트는 텍스트보다 넓은 단위다. Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 쓸 수 있다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが7000万の細胞を読み\n遺伝子の働きを追う",
-          "body": "約7000万個の細胞画像のAI解析と遺伝子スクリーニングで、単一遺伝子の効果を可視化する。",
-          "mini_headline": "AIが細胞内の遺伝子機能をマッピング",
+          "headline": "言語モデルを\nバイト単位で読む形に改造",
+          "body": "Nature掲載のAi2の手法は、短い追加学習でLLMsをバイト単位のモデルに変える。",
+          "mini_headline": "LLMsをバイト読みに改造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "グラフィカルアブストラクト。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "LMU Munich's Gene Center、Max Planck Institute of Biochemistry、Helmholtz Munichの研究者らは、Veit Hornung、Matthias Mann、Fabian Theisの主導のもと、AIを顕微鏡観察および遺伝子スクリーニングと組み合わせた技術SPARCSをCellに報告した。"
+                "x": "Ai2が昨年12月に発表した完全オープンなバイト単位言語モデル群Bolmoの基盤となる研究が、Natureに掲載された。Ai2はHugging Faceで新たなチェックポイントを公開するほか、元のグローバルモデルを凍結したままBolmoのバイト単位の構成要素を学習させたStage 1 チェックポイントも公開する。"
               },
               {
                 "t": "p",
-                "x": "AIが合計7000万個の細胞の顕微鏡画像を解析し、複雑な視覚的特徴をスクリーニングする。これにより、細胞に現れた効果をその原因となる遺伝的変化と結びつけられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "多くの言語モデルは固定語彙に基づいてテキストをサブワードに分割するため、綴りや珍しい単語、特殊な文字列への柔軟性が下がることがある。バイト単位モデルは文字の背後にある生のバイトを扱うが、サブワードモデルの性能に並ぶには、通常コストのかかるゼロからの学習が必要だった。"
               },
               {
                 "t": "p",
-                "x": "その後、注目する細胞を無傷のまま単離し、質量分析でタンパク質組成を調べる。"
+                "x": "Ai2の「バイト化(byteifying)」手法は、すでに高い能力を持つサブワードモデルを、比較的短い追加学習でバイト単位モデルに変換する。Nature論文では、Olmo以外に Qwen 3 8B と Llama 3 8B にも適用し、Bwen 8B と Blama 8B を作成した。どちらも元のモデルに迫る性能で、Bwen 8B はAi2の総合評価スイートで Bolmo 7B を上回った。"
               },
               {
                 "t": "p",
-                "x": "細胞のリサイクル機構であるオートファジーのgenome-wideスクリーニングでは、既知の制御因子の多くを再発見し、新たな制御因子も見つけた。さらに研究チームは、タンパク質GPHRが調節するGolgiの酸性度が、免疫センサーSTINGの初期輸送とその後の活性化に影響することも突き止めた。"
+                "x": "バイトはテキストにとどまらないため、Ai2は同じ考え方がいずれ画像や音声にも応用できる可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI读取7000万个细胞\n追踪基因功能",
-          "body": "AI分析约7000万个细胞图像，结合基因筛选，揭示单个基因的可见效应。",
-          "mini_headline": "AI描绘细胞中的基因功能",
+          "headline": "改造语言模型\n让它逐字节读取",
+          "body": "Ai2登上Nature的字节化方法，只需短暂追加训练即可把分词LLMs改成字节级模型。",
+          "mini_headline": "LLMs改造为逐字节读取",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "图形摘要。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "来自LMU Munich's Gene Center、Max Planck Institute of Biochemistry和Helmholtz Munich的研究人员在Veit Hornung、Matthias Mann和Fabian Theis的带领下，在Cell上报告了一项名为SPARCS的技术，它将AI与显微成像和基因筛选结合在一起。"
+                "x": "Ai2去年十二月推出了完全开放的字节级语言模型系列Bolmo，其背后的研究现已发表于Nature。Ai2还在Hugging Face上发布了新的检查点，以及Stage 1 检查点——后者在训练Bolmo字节级组件时保持原有全局模型冻结。"
               },
               {
                 "t": "p",
-                "x": "AI分析总计7000万个细胞的显微图像，筛查复杂的视觉特征，从而把细胞层面的效应与引发这些效应的基因改变联系起来。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "大多数语言模型按固定词表把文本切分为子词，这可能让它们在处理拼写、生僻词和不寻常字符串时不够灵活。字节级模型直接处理字符背后的原始字节，但要达到子词模型的性能，通常需要代价高昂的从头训练。"
               },
               {
                 "t": "p",
-                "x": "随后，研究人员将感兴趣的细胞完整分离出来，用质谱分析测定其蛋白质组成。"
+                "x": "Ai2的“字节化”（byteifying）流程则通过一次相对较短的追加训练，把已经具备较强能力的子词模型转换为字节级模型。在Nature论文中，团队将该方法从Olmo推广到 Qwen 3 8B 和 Llama 3 8B，得到 Bwen 8B 和 Blama 8B；两者都接近各自的源模型，而且 Bwen 8B 在Ai2的综合评估套件上超过了 Bolmo 7B。"
               },
               {
                 "t": "p",
-                "x": "在针对细胞回收系统——自噬——的genome-wide筛选中，该方法找回了许多已知调控因子，并发现了新的调控因子。团队还发现，由蛋白质GPHR调节的Golgi酸度会影响免疫传感器STING的早期运输及其后续激活。"
+                "x": "由于字节并不局限于文本，Ai2表示，同样的思路未来或许也能用于图像和音频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI lee 70 millones de células\ny rastrea qué hacen los genes",
-          "body": "El análisis con AI de unos 70 millones de células, unido al cribado genético, revela efectos visibles de genes únicos.",
-          "mini_headline": "La AI traza la función de los genes en las células",
+          "headline": "Adaptar modelos de lenguaje\npara leer byte a byte",
+          "body": "El método de Ai2, publicado en Nature, convierte LLMs en modelos de bytes con un breve entrenamiento adicional.",
+          "mini_headline": "LLMs adaptados para leer bytes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "Resumen gráfico. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "Investigadores del LMU Munich's Gene Center, el Max Planck Institute of Biochemistry y Helmholtz Munich, dirigidos por Veit Hornung, Matthias Mann y Fabian Theis, presentan en Cell una tecnología llamada SPARCS que combina la AI con la microscopía y el cribado genético."
+                "x": "La investigación detrás de Bolmo, la familia de modelos de lenguaje a nivel de bytes y totalmente abiertos que Ai2 presentó el pasado diciembre, se ha publicado en Nature. Ai2 también publica nuevos checkpoints en Hugging Face, además de checkpoints de Stage 1 que mantienen congelado el modelo global original mientras se entrenan los componentes a nivel de bytes de Bolmo."
               },
               {
                 "t": "p",
-                "x": "La AI analiza imágenes de microscopía de un total de 70 millones de células y busca rasgos visuales complejos, de modo que los efectos celulares puedan vincularse con las alteraciones genéticas que los causan."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "La mayoría de los modelos de lenguaje dividen el texto en subpalabras a partir de un vocabulario fijo, lo que puede restarles flexibilidad con la ortografía, las palabras poco frecuentes y las cadenas inusuales. Los modelos a nivel de bytes trabajan con los bytes en bruto que hay detrás de los caracteres, pero igualar el rendimiento de las subpalabras solía exigir un costoso entrenamiento desde cero."
               },
               {
                 "t": "p",
-                "x": "Después, las células de interés se aíslan intactas y se analizan por espectrometría de masas para determinar su composición proteica."
+                "x": "El proceso de \"byteificación\" (byteifying) de Ai2, en cambio, convierte un modelo de subpalabras ya capaz en uno a nivel de bytes con un entrenamiento adicional relativamente breve. En el artículo de Nature, el equipo lo aplicó, además de a Olmo, a Qwen 3 8B y Llama 3 8B, y creó Bwen 8B y Blama 8B; ambos se acercan a sus modelos de origen, y Bwen 8B supera a Bolmo 7B en el conjunto de evaluaciones agregadas de Ai2."
               },
               {
                 "t": "p",
-                "x": "En un cribado genome-wide de la autofagia, el sistema de reciclaje de la célula, el método recuperó muchos reguladores conocidos y encontró otros nuevos. El equipo también descubrió que la acidez del Golgi, regulada por la proteína GPHR, influye en el transporte temprano del sensor inmunitario STING y en su activación posterior."
+                "x": "Como los bytes también van más allá del texto, Ai2 afirma que las mismas ideas podrían aplicarse con el tiempo a imágenes y audio."
               }
             ]
           }
@@ -593,145 +565,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 세포 7000만 개\n읽어 유전자 기능 추적",
-          "body": "AI 분석과 유전자 스크리닝으로 약 7000만 세포에서 단일 유전자 효과를 본다.",
-          "mini_headline": "AI로 세포 속 유전자 기능을 지도화",
+          "headline": "기존 언어 모델을\n바이트 단위로 개조",
+          "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습으로 LLMs를 바이트화한다.",
+          "mini_headline": "LLMs, 바이트를 읽도록 개조",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "그래픽 초록. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "LMU Munich's Gene Center, Max Planck Institute of Biochemistry, Helmholtz Munich 연구진은 Veit Hornung, Matthias Mann, Fabian Theis의 주도로 AI와 현미경, 유전자 스크리닝을 결합한 SPARCS 기술을 Cell에 발표했다."
+                "x": "Ai2가 지난해 12월 공개한 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo의 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 공개하고, 원래의 전역 모델을 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 내놓는다."
               },
               {
                 "t": "p",
-                "x": "AI가 총 7000만 개 세포의 현미경 이미지를 분석해 복잡한 시각적 특징을 가려낸다. 이를 통해 세포에 나타난 효과를 그 원인이 되는 유전적 변화와 연결할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "대부분의 언어 모델은 고정된 어휘에 따라 텍스트를 서브워드로 쪼개기 때문에 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못할 수 있다. 바이트 단위 모델은 글자 밑에 있는 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비용이 큰 학습을 거쳐야 했다."
               },
               {
                 "t": "p",
-                "x": "이후 관심 대상 세포를 온전한 상태로 분리해 질량분석으로 단백질 구성을 확인한다."
+                "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo 외에 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본 모델에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
               },
               {
                 "t": "p",
-                "x": "세포의 재활용 시스템인 자가포식을 대상으로 한 genome-wide 스크리닝에서 이 방법은 알려진 조절인자 다수를 다시 찾아냈고 새로운 조절인자도 발견했다. 연구팀은 또 단백질 GPHR이 조절하는 Golgi 산성도가 면역 센서 STING의 초기 수송과 이후 활성화에 영향을 준다는 사실도 밝혔다."
+                "x": "바이트는 텍스트를 넘어서는 단위인 만큼, Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 적용할 수 있다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが7000万の細胞を読み\n遺伝子の働きを追う",
-          "body": "約7000万個の細胞画像のAI解析と遺伝子スクリーニングで、単一遺伝子の効果を可視化する。",
-          "mini_headline": "AIが細胞内の遺伝子機能をマッピング",
+          "headline": "言語モデルを\nバイト単位で読む形に改造",
+          "body": "Nature掲載のAi2の手法は、短い追加学習でLLMsをバイト単位のモデルに変える。",
+          "mini_headline": "LLMsをバイト読みに改造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "グラフィカルアブストラクト。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "LMU Munich's Gene Center、Max Planck Institute of Biochemistry、Helmholtz Munichの研究者らは、Veit Hornung、Matthias Mann、Fabian Theisの主導のもと、AIを顕微鏡観察および遺伝子スクリーニングと組み合わせた技術SPARCSをCellに報告した。"
+                "x": "Ai2が昨年12月に発表した完全オープンなバイト単位言語モデル群Bolmoの基盤となる研究が、Natureに掲載された。Ai2はHugging Faceで新たなチェックポイントを公開するほか、元のグローバルモデルを凍結したままBolmoのバイト単位の構成要素を学習させたStage 1 チェックポイントも公開する。"
               },
               {
                 "t": "p",
-                "x": "AIが合計7000万個の細胞の顕微鏡画像を解析し、複雑な視覚的特徴をスクリーニングする。これにより、細胞に現れた効果をその原因となる遺伝的変化と結びつけられる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "多くの言語モデルは固定語彙に基づいてテキストをサブワードに分割するため、綴りや珍しい単語、特殊な文字列への柔軟性が下がることがある。バイト単位モデルは文字の背後にある生のバイトを扱うが、サブワードモデルの性能に並ぶには、通常コストのかかるゼロからの学習が必要だった。"
               },
               {
                 "t": "p",
-                "x": "その後、注目する細胞を無傷のまま単離し、質量分析でタンパク質組成を調べる。"
+                "x": "Ai2の「バイト化(byteifying)」手法は、すでに高い能力を持つサブワードモデルを、比較的短い追加学習でバイト単位モデルに変換する。Nature論文では、Olmo以外に Qwen 3 8B と Llama 3 8B にも適用し、Bwen 8B と Blama 8B を作成した。どちらも元のモデルに迫る性能で、Bwen 8B はAi2の総合評価スイートで Bolmo 7B を上回った。"
               },
               {
                 "t": "p",
-                "x": "細胞のリサイクル機構であるオートファジーのgenome-wideスクリーニングでは、既知の制御因子の多くを再発見し、新たな制御因子も見つけた。さらに研究チームは、タンパク質GPHRが調節するGolgiの酸性度が、免疫センサーSTINGの初期輸送とその後の活性化に影響することも突き止めた。"
+                "x": "バイトはテキストにとどまらないため、Ai2は同じ考え方がいずれ画像や音声にも応用できる可能性があるとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI读取7000万个细胞\n追踪基因功能",
-          "body": "AI分析约7000万个细胞图像，结合基因筛选，揭示单个基因的可见效应。",
-          "mini_headline": "AI描绘细胞中的基因功能",
+          "headline": "改造语言模型\n让它逐字节读取",
+          "body": "Ai2登上Nature的字节化方法，只需短暂追加训练即可把分词LLMs改成字节级模型。",
+          "mini_headline": "LLMs改造为逐字节读取",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "图形摘要。Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "来自LMU Munich's Gene Center、Max Planck Institute of Biochemistry和Helmholtz Munich的研究人员在Veit Hornung、Matthias Mann和Fabian Theis的带领下，在Cell上报告了一项名为SPARCS的技术，它将AI与显微成像和基因筛选结合在一起。"
+                "x": "Ai2去年十二月推出了完全开放的字节级语言模型系列Bolmo，其背后的研究现已发表于Nature。Ai2还在Hugging Face上发布了新的检查点，以及Stage 1 检查点——后者在训练Bolmo字节级组件时保持原有全局模型冻结。"
               },
               {
                 "t": "p",
-                "x": "AI分析总计7000万个细胞的显微图像，筛查复杂的视觉特征，从而把细胞层面的效应与引发这些效应的基因改变联系起来。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "大多数语言模型按固定词表把文本切分为子词，这可能让它们在处理拼写、生僻词和不寻常字符串时不够灵活。字节级模型直接处理字符背后的原始字节，但要达到子词模型的性能，通常需要代价高昂的从头训练。"
               },
               {
                 "t": "p",
-                "x": "随后，研究人员将感兴趣的细胞完整分离出来，用质谱分析测定其蛋白质组成。"
+                "x": "Ai2的“字节化”（byteifying）流程则通过一次相对较短的追加训练，把已经具备较强能力的子词模型转换为字节级模型。在Nature论文中，团队将该方法从Olmo推广到 Qwen 3 8B 和 Llama 3 8B，得到 Bwen 8B 和 Blama 8B；两者都接近各自的源模型，而且 Bwen 8B 在Ai2的综合评估套件上超过了 Bolmo 7B。"
               },
               {
                 "t": "p",
-                "x": "在针对细胞回收系统——自噬——的genome-wide筛选中，该方法找回了许多已知调控因子，并发现了新的调控因子。团队还发现，由蛋白质GPHR调节的Golgi酸度会影响免疫传感器STING的早期运输及其后续激活。"
+                "x": "由于字节并不局限于文本，Ai2表示，同样的思路未来或许也能用于图像和音频。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI lee 70 millones de células\ny rastrea qué hacen los genes",
-          "body": "El análisis con AI de unos 70 millones de células, unido al cribado genético, revela efectos visibles de genes únicos.",
-          "mini_headline": "La AI traza la función de los genes en las células",
+          "headline": "Adaptar modelos de lenguaje\npara leer byte a byte",
+          "body": "El método de Ai2, publicado en Nature, convierte LLMs en modelos de bytes con un breve entrenamiento adicional.",
+          "mini_headline": "LLMs adaptados para leer bytes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular-1.jpg",
-                "cap": "Resumen gráfico. Credit: Cell (2026). DOI: 10.1016/j.cell.2026.09.021"
+                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
               },
               {
                 "t": "p",
-                "x": "Investigadores del LMU Munich's Gene Center, el Max Planck Institute of Biochemistry y Helmholtz Munich, dirigidos por Veit Hornung, Matthias Mann y Fabian Theis, presentan en Cell una tecnología llamada SPARCS que combina la AI con la microscopía y el cribado genético."
+                "x": "La investigación detrás de Bolmo, la familia de modelos de lenguaje a nivel de bytes y totalmente abiertos que Ai2 presentó el pasado diciembre, se ha publicado en Nature. Ai2 también publica nuevos checkpoints en Hugging Face, además de checkpoints de Stage 1 que mantienen congelado el modelo global original mientras se entrenan los componentes a nivel de bytes de Bolmo."
               },
               {
                 "t": "p",
-                "x": "La AI analiza imágenes de microscopía de un total de 70 millones de células y busca rasgos visuales complejos, de modo que los efectos celulares puedan vincularse con las alteraciones genéticas que los causan."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/tracking-down-cellular.jpg",
-                "cap": "Credit: Niklas Schmacke"
+                "x": "La mayoría de los modelos de lenguaje dividen el texto en subpalabras a partir de un vocabulario fijo, lo que puede restarles flexibilidad con la ortografía, las palabras poco frecuentes y las cadenas inusuales. Los modelos a nivel de bytes trabajan con los bytes en bruto que hay detrás de los caracteres, pero igualar el rendimiento de las subpalabras solía exigir un costoso entrenamiento desde cero."
               },
               {
                 "t": "p",
-                "x": "Después, las células de interés se aíslan intactas y se analizan por espectrometría de masas para determinar su composición proteica."
+                "x": "El proceso de \"byteificación\" (byteifying) de Ai2, en cambio, convierte un modelo de subpalabras ya capaz en uno a nivel de bytes con un entrenamiento adicional relativamente breve. En el artículo de Nature, el equipo lo aplicó, además de a Olmo, a Qwen 3 8B y Llama 3 8B, y creó Bwen 8B y Blama 8B; ambos se acercan a sus modelos de origen, y Bwen 8B supera a Bolmo 7B en el conjunto de evaluaciones agregadas de Ai2."
               },
               {
                 "t": "p",
-                "x": "En un cribado genome-wide de la autofagia, el sistema de reciclaje de la célula, el método recuperó muchos reguladores conocidos y encontró otros nuevos. El equipo también descubrió que la acidez del Golgi, regulada por la proteína GPHR, influye en el transporte temprano del sensor inmunitario STING y en su activación posterior."
+                "x": "Como los bytes también van más allá del texto, Ai2 afirma que las mismas ideas podrían aplicarse con el tiempo a imágenes y audio."
               }
             ]
           }
@@ -739,226 +687,201 @@
       }
     },
     {
-      "id": "science-gravitational-lenses-desi",
+      "id": "science-fossil-grass-pollen-cnn",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
-      "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
-      "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
+      "headline": "신경망이 읽어낸\n25,000년 풀 꽃가루",
+      "body": "Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
+      "mini_headline": "AI가 읽은 25,000년 꽃가루",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-largest-2d-universe-scientists-gravitational.html",
+      "url": "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-            "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
-          },
-          {
             "t": "p",
-            "x": "국제 연구팀이 분석한 DESI Legacy Imaging Surveys는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담으며 우주에서 가장 큰 2D 지도가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "잔차 신경망이 관측 이미지를 훑어 잠재적 렌즈 약 3,500개를 추렸고, 이 중 후보 76개를 후속 관측 대상으로 골랐다."
+            "x": "종이 다른 풀 꽃가루 알갱이도 일반 광학 현미경으로는 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경에 합성곱 신경망을 결합해 표면 무늬와 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-            "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+            "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 놓으면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
           },
           {
             "t": "p",
-            "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 해 보니 후보 중 70개가 실제 중력렌즈였다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+            "x": "이 모델은 개별 종의 이름까지 대지는 못한다. 대신 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+            "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
           },
           {
             "t": "p",
-            "x": "새 렌즈들은 DESI Strong Lens Foundry Project에 추가돼 Hubble, JWST, Roman, Rubin Observatory's LSST로 진행할 암흑물질, 은하 구조, 우주론 연구에 쓰일 전망이다."
+            "x": "Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 이 방법을 적용했더니, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았다가 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구 결과는 PNAS에 실렸다."
           }
         ]
       },
-      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
       "text": {
         "en": {
-          "headline": "Neural network helps confirm\n70 new gravitational lenses",
-          "body": "A neural network searched DESI survey data for lens candidates, and VLT spectroscopy then confirmed 70 new lenses.",
-          "mini_headline": "AI helps confirm 70 new lenses",
+          "headline": "Neural networks read\n25,000 years of grass pollen",
+          "body": "An Illinois team used CNNs and super-resolution microscopy to sort grass pollen in a 25,000-year Kenyan lake record.",
+          "mini_headline": "AI reads 25,000 years of pollen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "Sample gravitational lenses found in DESI Legacy Imaging Surveys data."
-              },
-              {
                 "t": "p",
-                "x": "An international team mined the DESI Legacy Imaging Surveys, which in August 2026 became the largest 2D map of the universe, with about 5.6 trillion pixels and nearly 4 billion objects."
-              },
-              {
-                "t": "p",
-                "x": "A residual neural network searched the survey images and produced a catalog of about 3,500 potential lenses, from which 76 candidates were selected for follow-up."
+                "x": "Grass pollen grains from different species look nearly identical under a standard light microscope. University of Illinois Urbana-Champaign researchers led by plant biologist Surangi Punyasena and former doctoral student Marc-Élie Adaimé combined super-resolution microscopy with a convolutional neural network to read subtle differences in surface patterning, complexity and wall thickness."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "How a massive foreground galaxy magnifies a more distant galaxy behind it."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "Pollen from a flowering herb, a tropical tree and a perennial grass shows how simple grass pollen is by comparison."
               },
               {
                 "t": "p",
-                "x": "Integral field spectroscopy with the MUSE instrument on ESO's Very Large Telescope, observed from 2022 to 2024, confirmed 70 of the candidates as true gravitational lenses. The results appear in The Astrophysical Journal Supplement Series."
+                "x": "The model can't name individual species, but it estimates species diversity in mixed samples and distinguishes C3 from C4 grasses."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Super-resolution images of Poa anceps (a C3 grass) and Andropogon amethystinus (a C4 grass)."
               },
               {
                 "t": "p",
-                "x": "The lenses join the DESI Strong Lens Foundry Project and are expected to aid research on dark matter, galaxy structure and cosmology with Hubble, JWST, Roman and the Rubin Observatory's LSST."
+                "x": "Applied to a 25,000-year sediment core from a lake on Mount Kenya, the method found grass diversity was lowest during the Last Glacial Maximum, about 21,000 to 18,000 years ago, and rose with CO2 and temperature. The C4 share was higher in the late ice age and then gradually declined. The study appears in PNAS."
               }
             ]
           }
         },
         "ko": {
-          "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
-          "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
-          "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
+          "headline": "신경망이 읽어낸\n25,000년 풀 꽃가루",
+          "body": "Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
+          "mini_headline": "AI가 읽은 25,000년 꽃가루",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
-              },
-              {
                 "t": "p",
-                "x": "국제 연구팀이 분석한 DESI Legacy Imaging Surveys는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담으며 우주에서 가장 큰 2D 지도가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "잔차 신경망이 관측 이미지를 훑어 잠재적 렌즈 약 3,500개를 추렸고, 이 중 후보 76개를 후속 관측 대상으로 골랐다."
+                "x": "종이 다른 풀 꽃가루 알갱이도 일반 광학 현미경으로는 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경에 합성곱 신경망을 결합해 표면 무늬와 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 놓으면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
               },
               {
                 "t": "p",
-                "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 해 보니 후보 중 70개가 실제 중력렌즈였다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+                "x": "이 모델은 개별 종의 이름까지 대지는 못한다. 대신 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
               },
               {
                 "t": "p",
-                "x": "새 렌즈들은 DESI Strong Lens Foundry Project에 추가돼 Hubble, JWST, Roman, Rubin Observatory's LSST로 진행할 암흑물질, 은하 구조, 우주론 연구에 쓰일 전망이다."
+                "x": "Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 이 방법을 적용했더니, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았다가 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구 결과는 PNAS에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューラルネットで新たな\n重力レンズ70個を確認",
-          "body": "ニューラルネットがDESIデータからレンズ候補を探し、VLT分光で新たに70個を確認した。",
-          "mini_headline": "AIが新たなレンズ70個の確認に貢献",
+          "headline": "ニューラルネットが読む\n25,000年分のイネ科花粉",
+          "body": "IllinoisのチームがCNNsでケニアの湖の25,000年分のイネ科花粉を分類した。",
+          "mini_headline": "AIが読む25,000年分の花粉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "DESI Legacy Imaging Surveysのデータで見つかった重力レンズの例。"
-              },
-              {
                 "t": "p",
-                "x": "国際研究チームは、2026年8月に宇宙最大の2D地図となったDESI Legacy Imaging Surveysを解析した。この地図は約5.6兆ピクセル、40億近くの天体を含む。"
-              },
-              {
-                "t": "p",
-                "x": "残差ニューラルネットワークがサーベイ画像を探索し、約3,500個の潜在的なレンズのカタログを作成した。そこから76個の候補を追観測の対象に選んだ。"
+                "x": "種の異なるイネ科の花粉粒は、通常の光学顕微鏡ではほとんど見分けがつかない。植物生物学者Surangi Punyasenaと元博士課程学生Marc-Élie Adaiméが率いるUniversity of Illinois Urbana-Champaignの研究チームは、超解像顕微鏡と畳み込みニューラルネットワークを組み合わせ、表面の模様や複雑さ、壁の厚さの微妙な違いを読み取った。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "手前にある巨大な銀河が、その背後のより遠い銀河を拡大して見せる仕組み。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "花を咲かせる草本、熱帯の樹木、多年生イネ科植物の花粉を並べると、イネ科の花粉がいかに単純かがわかる。"
               },
               {
                 "t": "p",
-                "x": "2022年から2024年にかけてESO's Very Large TelescopeのMUSE装置で行った面分光観測により、候補のうち70個が本物の重力レンズと確認された。成果はThe Astrophysical Journal Supplement Seriesに掲載された。"
+                "x": "このモデルは個々の種名を特定することはできないが、混合サンプルの種多様性を推定し、C3型とC4型のイネ科を区別できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps(C3型イネ科)とAndropogon amethystinus(C4型イネ科)の超解像画像。"
               },
               {
                 "t": "p",
-                "x": "これらのレンズはDESI Strong Lens Foundry Projectに加わり、Hubble、JWST、Roman、Rubin Observatory's LSSTを使った暗黒物質、銀河構造、宇宙論の研究に役立つと期待されている。"
+                "x": "Mount Kenyaの湖から採取した25,000年分の堆積物コアに適用したところ、イネ科の多様性は約21,000〜18,000年前の最終氷期最盛期(Last Glacial Maximum)に最も低く、CO2と気温の上昇とともに高まった。C4型の割合は氷期後半に高く、その後徐々に低下した。研究はPNASに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "神经网络助力确认\n70个新引力透镜",
-          "body": "神经网络在DESI巡天数据中搜寻透镜候选体，随后VLT光谱观测确认了70个新透镜。",
-          "mini_headline": "AI助力确认70个新透镜",
+          "headline": "神经网络解读\n25,000年的禾草花粉",
+          "body": "Illinois团队用CNNs和超分辨显微镜为肯尼亚湖泊25,000年来的禾草花粉分类。",
+          "mini_headline": "AI解读25,000年花粉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "在DESI Legacy Imaging Surveys数据中发现的引力透镜样例。"
-              },
-              {
                 "t": "p",
-                "x": "一个国际团队挖掘了DESI Legacy Imaging Surveys的数据。该巡天在2026年8月成为最大的宇宙2D地图，包含约5.6万亿像素和近40亿个天体。"
-              },
-              {
-                "t": "p",
-                "x": "一个残差神经网络搜索了巡天图像，生成了约3,500个潜在透镜的目录，并从中选出76个候选体进行后续观测。"
+                "x": "不同物种的禾草花粉粒在普通光学显微镜下几乎一模一样。由植物生物学家Surangi Punyasena和前博士生Marc-Élie Adaimé领导的University of Illinois Urbana-Champaign研究团队，将超分辨率显微技术与卷积神经网络结合，读取花粉在表面纹饰、复杂度和壁厚上的细微差异。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "前景中的大质量星系如何放大其后方更遥远的星系。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "开花草本、热带树木和多年生禾草的花粉相比，可以看出禾草花粉相对简单。"
               },
               {
                 "t": "p",
-                "x": "研究人员于2022年至2024年间利用ESO's Very Large Telescope上的MUSE仪器进行积分视场光谱观测，确认其中70个候选体为真正的引力透镜。成果发表于The Astrophysical Journal Supplement Series。"
+                "x": "该模型无法识别具体物种，但能估算混合样本中的物种多样性，并区分C3和C4禾草。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps（C3禾草）与Andropogon amethystinus（C4禾草）的超分辨率图像。"
               },
               {
                 "t": "p",
-                "x": "这些透镜将纳入DESI Strong Lens Foundry Project，预计将借助Hubble、JWST、Roman和Rubin Observatory's LSST，助力暗物质、星系结构和宇宙学研究。"
+                "x": "将该方法应用于Mount Kenya一处湖泊25,000年的沉积物岩芯后，研究发现禾草多样性在约21,000至18,000年前的末次盛冰期（Last Glacial Maximum）最低，并随CO2和气温上升而增加。C4禾草的占比在冰期晚期较高，之后逐渐下降。该研究发表于PNAS。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Red neuronal ayuda a confirmar\n70 nuevas lentes gravitacionales",
-          "body": "Una red neuronal buscó candidatas a lente en datos de DESI y la espectroscopía del VLT confirmó 70 lentes nuevas.",
-          "mini_headline": "La AI ayuda a confirmar 70 nuevas lentes",
+          "headline": "Redes neuronales leen\n25,000 años de polen de hierba",
+          "body": "Un equipo de Illinois usó CNNs para clasificar polen de gramíneas de un registro de 25,000 años en un lago de Kenia.",
+          "mini_headline": "La IA lee 25,000 años de polen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "Ejemplos de lentes gravitacionales halladas en datos de DESI Legacy Imaging Surveys."
-              },
-              {
                 "t": "p",
-                "x": "Un equipo internacional exploró los DESI Legacy Imaging Surveys, que en agosto de 2026 se convirtieron en el mayor mapa 2D del universo, con unos 5.6 billones de píxeles y casi 4 mil millones de objetos."
-              },
-              {
-                "t": "p",
-                "x": "Una red neuronal residual examinó las imágenes del sondeo y elaboró un catálogo de unas 3,500 lentes potenciales, de las que se seleccionaron 76 candidatas para su seguimiento."
+                "x": "Los granos de polen de gramíneas de distintas especies parecen casi idénticos bajo un microscopio óptico convencional. Investigadores de la University of Illinois Urbana-Champaign, dirigidos por la bióloga vegetal Surangi Punyasena y el exdoctorando Marc-Élie Adaimé, combinaron microscopía de superresolución con una red neuronal convolucional para leer diferencias sutiles en el patrón de la superficie, la complejidad y el grosor de la pared."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "Cómo una galaxia masiva en primer plano amplifica otra galaxia más lejana situada detrás."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "El polen de una hierba con flor, un árbol tropical y una gramínea perenne muestra lo simple que es, en comparación, el polen de las gramíneas."
               },
               {
                 "t": "p",
-                "x": "La espectroscopía de campo integral con el instrumento MUSE del ESO's Very Large Telescope, con observaciones de 2022 a 2024, confirmó que 70 de las candidatas son verdaderas lentes gravitacionales. Los resultados se publican en The Astrophysical Journal Supplement Series."
+                "x": "El modelo no puede identificar especies concretas, pero estima la diversidad de especies en muestras mixtas y distingue las gramíneas C3 de las C4."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Imágenes de superresolución de Poa anceps (una gramínea C3) y Andropogon amethystinus (una gramínea C4)."
               },
               {
                 "t": "p",
-                "x": "Las lentes se suman al DESI Strong Lens Foundry Project y se espera que apoyen la investigación sobre materia oscura, estructura galáctica y cosmología con Hubble, JWST, Roman y el Rubin Observatory's LSST."
+                "x": "Aplicado a un testigo de sedimentos de 25,000 años de un lago del Mount Kenya, el método mostró que la diversidad de gramíneas fue mínima durante el Último Máximo Glacial (Last Glacial Maximum), hace unos 21,000 a 18,000 años, y aumentó con el CO2 y la temperatura. La proporción de C4 fue mayor al final de la edad de hielo y luego disminuyó de forma gradual. El estudio se publica en PNAS."
               }
             ]
           }
@@ -966,145 +889,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "신경망 도움으로 확인한\n새 중력렌즈 70개",
-          "body": "신경망이 DESI 자료에서 후보를 찾고 VLT 분광이 새 렌즈 70개를 확인했다.",
-          "mini_headline": "AI 도움으로 새 렌즈 70개 확인",
+          "headline": "신경망이 읽어낸\n25,000년의 풀 꽃가루",
+          "body": "Illinois 연구팀이 CNNs로 케냐 호수 25,000년 풀 꽃가루를 갈랐다.",
+          "mini_headline": "AI가 읽은 25,000년 꽃가루",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "DESI Legacy Imaging Surveys 데이터에서 찾은 중력렌즈 예시."
-              },
-              {
                 "t": "p",
-                "x": "국제 연구팀은 DESI Legacy Imaging Surveys를 분석했다. 이 자료는 2026년 8월 약 5.6조 픽셀, 40억 개 가까운 천체를 담아 우주에서 가장 큰 2D 지도가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "잔차 신경망이 관측 이미지를 탐색해 잠재적 렌즈 약 3,500개의 목록을 만들었고, 그중 후보 76개를 후속 관측 대상으로 골랐다."
+                "x": "종이 다른 풀 꽃가루 알갱이는 일반 광학 현미경으로 보면 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경과 합성곱 신경망을 결합해 표면 무늬, 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "거대한 전경 은하가 그 뒤의 더 먼 은하를 확대하는 원리."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 보면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
               },
               {
                 "t": "p",
-                "x": "2022년부터 2024년까지 ESO's Very Large Telescope의 MUSE 장비로 면분광 관측을 한 결과, 후보 중 70개가 실제 중력렌즈로 확인됐다. 결과는 The Astrophysical Journal Supplement Series에 실렸다."
+                "x": "이 모델은 개별 종의 이름을 대지는 못하지만, 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
               },
               {
                 "t": "p",
-                "x": "이 렌즈들은 DESI Strong Lens Foundry Project에 더해지며, Hubble, JWST, Roman, Rubin Observatory's LSST를 활용한 암흑물질, 은하 구조, 우주론 연구에 도움이 될 전망이다."
+                "x": "이 방법을 Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 적용하자, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았고 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구는 PNAS에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ニューラルネットで新たな\n重力レンズ70個を確認",
-          "body": "ニューラルネットがDESIデータからレンズ候補を探し、VLT分光で新たに70個を確認した。",
-          "mini_headline": "AIが新たなレンズ70個の確認に貢献",
+          "headline": "ニューラルネットが読む\n25,000年分のイネ科花粉",
+          "body": "IllinoisのチームがCNNsでケニアの湖の25,000年分のイネ科花粉を分類した。",
+          "mini_headline": "AIが読む25,000年分の花粉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "DESI Legacy Imaging Surveysのデータで見つかった重力レンズの例。"
-              },
-              {
                 "t": "p",
-                "x": "国際研究チームは、2026年8月に宇宙最大の2D地図となったDESI Legacy Imaging Surveysを解析した。この地図は約5.6兆ピクセル、40億近くの天体を含む。"
-              },
-              {
-                "t": "p",
-                "x": "残差ニューラルネットワークがサーベイ画像を探索し、約3,500個の潜在的なレンズのカタログを作成した。そこから76個の候補を追観測の対象に選んだ。"
+                "x": "種の異なるイネ科の花粉粒は、通常の光学顕微鏡ではほとんど見分けがつかない。植物生物学者Surangi Punyasenaと元博士課程学生Marc-Élie Adaiméが率いるUniversity of Illinois Urbana-Champaignの研究チームは、超解像顕微鏡と畳み込みニューラルネットワークを組み合わせ、表面の模様や複雑さ、壁の厚さの微妙な違いを読み取った。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "手前にある巨大な銀河が、その背後のより遠い銀河を拡大して見せる仕組み。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "花を咲かせる草本、熱帯の樹木、多年生イネ科植物の花粉を並べると、イネ科の花粉がいかに単純かがわかる。"
               },
               {
                 "t": "p",
-                "x": "2022年から2024年にかけてESO's Very Large TelescopeのMUSE装置で行った面分光観測により、候補のうち70個が本物の重力レンズと確認された。成果はThe Astrophysical Journal Supplement Seriesに掲載された。"
+                "x": "このモデルは個々の種名を特定することはできないが、混合サンプルの種多様性を推定し、C3型とC4型のイネ科を区別できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps(C3型イネ科)とAndropogon amethystinus(C4型イネ科)の超解像画像。"
               },
               {
                 "t": "p",
-                "x": "これらのレンズはDESI Strong Lens Foundry Projectに加わり、Hubble、JWST、Roman、Rubin Observatory's LSSTを使った暗黒物質、銀河構造、宇宙論の研究に役立つと期待されている。"
+                "x": "Mount Kenyaの湖から採取した25,000年分の堆積物コアに適用したところ、イネ科の多様性は約21,000〜18,000年前の最終氷期最盛期(Last Glacial Maximum)に最も低く、CO2と気温の上昇とともに高まった。C4型の割合は氷期後半に高く、その後徐々に低下した。研究はPNASに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "神经网络助力确认\n70个新引力透镜",
-          "body": "神经网络在DESI巡天数据中搜寻透镜候选体，随后VLT光谱观测确认了70个新透镜。",
-          "mini_headline": "AI助力确认70个新透镜",
+          "headline": "神经网络解读\n25,000年的禾草花粉",
+          "body": "Illinois团队用CNNs和超分辨显微镜为肯尼亚湖泊25,000年来的禾草花粉分类。",
+          "mini_headline": "AI解读25,000年花粉",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "在DESI Legacy Imaging Surveys数据中发现的引力透镜样例。"
-              },
-              {
                 "t": "p",
-                "x": "一个国际团队挖掘了DESI Legacy Imaging Surveys的数据。该巡天在2026年8月成为最大的宇宙2D地图，包含约5.6万亿像素和近40亿个天体。"
-              },
-              {
-                "t": "p",
-                "x": "一个残差神经网络搜索了巡天图像，生成了约3,500个潜在透镜的目录，并从中选出76个候选体进行后续观测。"
+                "x": "不同物种的禾草花粉粒在普通光学显微镜下几乎一模一样。由植物生物学家Surangi Punyasena和前博士生Marc-Élie Adaimé领导的University of Illinois Urbana-Champaign研究团队，将超分辨率显微技术与卷积神经网络结合，读取花粉在表面纹饰、复杂度和壁厚上的细微差异。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "前景中的大质量星系如何放大其后方更遥远的星系。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "开花草本、热带树木和多年生禾草的花粉相比，可以看出禾草花粉相对简单。"
               },
               {
                 "t": "p",
-                "x": "研究人员于2022年至2024年间利用ESO's Very Large Telescope上的MUSE仪器进行积分视场光谱观测，确认其中70个候选体为真正的引力透镜。成果发表于The Astrophysical Journal Supplement Series。"
+                "x": "该模型无法识别具体物种，但能估算混合样本中的物种多样性，并区分C3和C4禾草。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Poa anceps（C3禾草）与Andropogon amethystinus（C4禾草）的超分辨率图像。"
               },
               {
                 "t": "p",
-                "x": "这些透镜将纳入DESI Strong Lens Foundry Project，预计将借助Hubble、JWST、Roman和Rubin Observatory's LSST，助力暗物质、星系结构和宇宙学研究。"
+                "x": "将该方法应用于Mount Kenya一处湖泊25,000年的沉积物岩芯后，研究发现禾草多样性在约21,000至18,000年前的末次盛冰期（Last Glacial Maximum）最低，并随CO2和气温上升而增加。C4禾草的占比在冰期晚期较高，之后逐渐下降。该研究发表于PNAS。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Red neuronal ayuda a confirmar\n70 nuevas lentes gravitacionales",
-          "body": "Una red neuronal buscó candidatas a lente en datos de DESI y la espectroscopía del VLT confirmó 70 lentes nuevas.",
-          "mini_headline": "La AI ayuda a confirmar 70 nuevas lentes",
+          "headline": "Redes neuronales leen\n25,000 años de polen de hierba",
+          "body": "Un equipo de Illinois usó CNNs para clasificar polen de gramíneas de un registro de 25,000 años en un lago de Kenia.",
+          "mini_headline": "La IA lee 25,000 años de polen",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the.jpg",
-                "cap": "Ejemplos de lentes gravitacionales halladas en datos de DESI Legacy Imaging Surveys."
-              },
-              {
                 "t": "p",
-                "x": "Un equipo internacional exploró los DESI Legacy Imaging Surveys, que en agosto de 2026 se convirtieron en el mayor mapa 2D del universo, con unos 5.6 billones de píxeles y casi 4 mil millones de objetos."
-              },
-              {
-                "t": "p",
-                "x": "Una red neuronal residual examinó las imágenes del sondeo y elaboró un catálogo de unas 3,500 lentes potenciales, de las que se seleccionaron 76 candidatas para su seguimiento."
+                "x": "Los granos de polen de gramíneas de distintas especies parecen casi idénticos bajo un microscopio óptico convencional. Investigadores de la University of Illinois Urbana-Champaign, dirigidos por la bióloga vegetal Surangi Punyasena y el exdoctorando Marc-Élie Adaimé, combinaron microscopía de superresolución con una red neuronal convolucional para leer diferencias sutiles en el patrón de la superficie, la complejidad y el grosor de la pared."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/largest-2d-map-of-the-2.jpg",
-                "cap": "Cómo una galaxia masiva en primer plano amplifica otra galaxia más lejana situada detrás."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+                "cap": "El polen de una hierba con flor, un árbol tropical y una gramínea perenne muestra lo simple que es, en comparación, el polen de las gramíneas."
               },
               {
                 "t": "p",
-                "x": "La espectroscopía de campo integral con el instrumento MUSE del ESO's Very Large Telescope, con observaciones de 2022 a 2024, confirmó que 70 de las candidatas son verdaderas lentes gravitacionales. Los resultados se publican en The Astrophysical Journal Supplement Series."
+                "x": "El modelo no puede identificar especies concretas, pero estima la diversidad de especies en muestras mixtas y distingue las gramíneas C3 de las C4."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+                "cap": "Imágenes de superresolución de Poa anceps (una gramínea C3) y Andropogon amethystinus (una gramínea C4)."
               },
               {
                 "t": "p",
-                "x": "Las lentes se suman al DESI Strong Lens Foundry Project y se espera que apoyen la investigación sobre materia oscura, estructura galáctica y cosmología con Hubble, JWST, Roman y el Rubin Observatory's LSST."
+                "x": "Aplicado a un testigo de sedimentos de 25,000 años de un lago del Mount Kenya, el método mostró que la diversidad de gramíneas fue mínima durante el Último Máximo Glacial (Last Glacial Maximum), hace unos 21,000 a 18,000 años, y aumentó con el CO2 y la temperatura. La proporción de C4 fue mayor al final de la edad de hielo y luego disminuyó de forma gradual. El estudio se publica en PNAS."
               }
             ]
           }
@@ -1112,15 +1019,15 @@
       }
     },
     {
-      "id": "science-chatbot-tipping-formula",
+      "id": "science-llm-symbolic-role-filler",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
-      "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
-      "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
+      "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
+      "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
+      "mini_headline": "챗봇 안의 기호 구조",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
+      "url": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1128,180 +1035,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-            "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+            "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
           },
           {
             "t": "p",
-            "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo가 AI 챗봇의 답변이 수용 가능한 수준에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 쪽으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
+            "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 다루는 것은 긴 숫자 목록, 곧 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자만 봐서는 드러나지 않는 기호 구조로 암묵적으로 짜여 있다는 사실을 발견했다."
           },
           {
             "t": "p",
-            "x": "공식의 출발점은 모델 안의 단일 어텐션 유닛이다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어나기도 하고, 대화 속 질문 순서도 결과를 바꿀 수 있다."
+            "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라는 역할-채움 구조로 바꿨다. 이 구조에서 단어나 숫자는 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 그대로였다."
           },
           {
             "t": "p",
-            "x": "예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
-          },
-          {
-            "t": "p",
-            "x": "저자들이 특히 걱정하는 쪽은 cloud-based 안전 필터가 작동하지 않는 오프라인 AI다. 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 앞으로 기기에 내장할 수 있다는 게 이들의 제안이다."
+            "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식으로 표적 편집을 하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에서 볼 수 있다."
           }
         ]
       },
-      "lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
       "text": {
         "en": {
-          "headline": "A simple formula predicts\nwhen chatbots turn harmful",
-          "body": "Derived from a single attention unit, the formula matched 18 of 19 harmful tipping cases across seven open models.",
-          "mini_headline": "Formula flags when chatbots tip",
+          "headline": "Symbol-like structure\nemerges inside chatbots",
+          "body": "Yale, Microsoft and NYU researchers swapped LLM vectors for role-and-filler symbols with little change in behavior.",
+          "mini_headline": "Symbols emerge inside chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AI conversations. Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "\"A Sunday on La Grande Jatte,\" Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington University physicists Neil F. Johnson and Frank Yingjie Huo report in Patterns a mathematical formula that predicts when an AI chatbot will tip from acceptable answers to undesirable ones, such as harmful advice or misleading information."
+                "x": "Large language models handle math, logic and coding, tasks that seem to need symbolic reasoning, yet they don't manipulate symbols the way classic rule-based AI does; they process vectors, long lists of numbers. A team led by Yale computational linguist Tom McCoy found that these vectors implicitly organize into symbolic structure that isn't visible at the level of individual numbers."
               },
               {
                 "t": "p",
-                "x": "The formula is derived from a single attention unit in the model. The shift can come after several acceptable answers, and the order of questions in a conversation can affect the result."
+                "x": "The researchers replaced the internal representations of seven LLMs with role-filler structures known as tensor product representations, in which words or numbers fill roles such as subject or numerator. Across language, arithmetic, logic and coding, the models' behavior remained largely unchanged."
               },
               {
                 "t": "p",
-                "x": "Its predictions matched 18 of 19 tipping cases across seven open models from three companies."
-              },
-              {
-                "t": "p",
-                "x": "The authors are particularly concerned about offline AI, where cloud-based safety filters don't operate, and suggest future devices could include a built-in warning when conversations drift toward risky territory."
+                "x": "Targeted edits, such as moving the word \"clever\" to modify a different noun, changed the output accordingly. \"LLMs naturally converge to representations with role-filler structure,\" McCoy said. Co-authors are Paul Soulos and Paul Smolensky of Microsoft and Tal Linzen of NYU; the preprint is on arXiv."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
-          "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
-          "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
+          "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
+          "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
+          "mini_headline": "챗봇 안의 기호 구조",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo가 AI 챗봇의 답변이 수용 가능한 수준에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 쪽으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
+                "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 다루는 것은 긴 숫자 목록, 곧 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자만 봐서는 드러나지 않는 기호 구조로 암묵적으로 짜여 있다는 사실을 발견했다."
               },
               {
                 "t": "p",
-                "x": "공식의 출발점은 모델 안의 단일 어텐션 유닛이다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어나기도 하고, 대화 속 질문 순서도 결과를 바꿀 수 있다."
+                "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라는 역할-채움 구조로 바꿨다. 이 구조에서 단어나 숫자는 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 그대로였다."
               },
               {
                 "t": "p",
-                "x": "예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "저자들이 특히 걱정하는 쪽은 cloud-based 안전 필터가 작동하지 않는 오프라인 AI다. 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 앞으로 기기에 내장할 수 있다는 게 이들의 제안이다."
+                "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식으로 표적 편집을 하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에서 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "単純な式が予測する\nチャットボットの有害化",
-          "body": "アテンションユニット一つに基づく式が七つのオープンモデルの有害化19件中18件を当てた。",
-          "mini_headline": "チャットボットの有害化を式で予測",
+          "headline": "チャットボット内部に\n記号のような構造が出現",
+          "body": "Yale等の研究で、LLMのベクトルを役割・充填記号に置き換えても挙動はほぼ同じだった。",
+          "mini_headline": "チャットボット内に記号構造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AIとの会話。Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat「グランド・ジャット島の日曜日の午後」(\"A Sunday on La Grande Jatte\")、1884年。Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington Universityの物理学者Neil F. JohnsonとFrank Yingjie Huoは、AIチャットボットが許容できる回答から、有害な助言や誤解を招く情報といった望ましくない回答へと転じるタイミングを予測する数式をPatternsに報告した。"
+                "x": "大規模言語モデルは、記号的推論が必要に見える数学や論理、コーディングをこなすが、古典的なルールベースのAIのように記号を操作しているわけではない。処理しているのは、長い数値の列であるベクトルだ。Yaleの計算言語学者Tom McCoyが率いるチームは、これらのベクトルが、個々の数値のレベルでは見えない記号的構造へと暗黙のうちに組織化されていることを発見した。"
               },
               {
                 "t": "p",
-                "x": "この式はモデル内の単一のアテンションユニットから導かれる。転換は許容できる回答が何度か続いた後に起こることもあり、会話の中での質問の順序が結果を左右することもある。"
+                "x": "研究者らは七つのLLMsの内部表現を、テンソル積表現(tensor product representations)と呼ばれる役割・充填構造に置き換えた。この構造では、単語や数が主語や分子といった役割を埋める。言語、算術、論理、コーディングのいずれでも、モデルの挙動はほとんど変わらなかった。"
               },
               {
                 "t": "p",
-                "x": "その予測は、三社による七つのオープンモデルで生じた転換事例19件のうち18件と一致した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らが特に懸念するのは、cloud-basedの安全フィルターが機能しないオフラインのAIだ。将来のデバイスには、会話が危険な領域へ流れたときに警告を出す機能を組み込めるのではないかと提案している。"
+                "x": "単語「clever」が別の名詞を修飾するよう移すといった狙いを絞った編集を加えると、出力もそれに応じて変化した。McCoyは「LLMsは自然に役割・充填構造を持つ表現へ収束する」と述べた。共著者はMicrosoftのPaul SoulosとPaul Smolensky、NYUのTal Linzenで、プレプリントはarXivで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "简单公式可预测\n聊天机器人何时转向有害",
-          "body": "这一公式源自单个注意力单元，在七个开放模型的19个有害转向案例中准确预测了18个。",
-          "mini_headline": "公式预警聊天机器人何时转向",
+          "headline": "聊天机器人内部\n浮现类符号结构",
+          "body": "Yale、Microsoft和NYU研究者把LLM向量换成角色-填充符号，行为几乎不变。",
+          "mini_headline": "聊天机器人内部浮现符号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AI对话。Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat《大碗岛的星期天下午》（\"A Sunday on La Grande Jatte\"），1884年。Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington University的物理学家Neil F. Johnson和Frank Yingjie Huo在Patterns上报告了一个数学公式，可预测AI聊天机器人何时会从可接受的回答转向不良回答，例如有害建议或误导性信息。"
+                "x": "大语言模型能处理数学、逻辑和编程这类看似需要符号推理的任务，但它们并不像经典的基于规则的AI那样操作符号，而是处理向量，也就是一长串数字。Yale计算语言学家Tom McCoy领导的团队发现，这些向量会隐性地组织成一种符号结构，而这种结构在单个数字层面上是看不出来的。"
               },
               {
                 "t": "p",
-                "x": "该公式源自模型中的单个注意力单元。这种转变可能出现在若干个可接受的回答之后，对话中提问的顺序也可能影响结果。"
+                "x": "研究人员将七个LLMs的内部表征替换为一种称为张量积表征（tensor product representations）的角色-填充结构，其中单词或数字填充主语、分子等角色。在语言、算术、逻辑和编程任务中，模型的行为基本没有变化。"
               },
               {
                 "t": "p",
-                "x": "在来自三家公司的七个开放模型中，其预测与19个转向案例中的18个相符。"
-              },
-              {
-                "t": "p",
-                "x": "作者尤其担心离线AI，因为cloud-based安全过滤器在那里不起作用；他们建议，未来的设备可内置警告功能，在对话滑向危险领域时发出提醒。"
+                "x": "有针对性的编辑——例如把单词“clever”移去修饰另一个名词——会使输出相应改变。McCoy说：“LLMs会自然地收敛到具有角色-填充结构的表征。”合著者包括Microsoft的Paul Soulos和Paul Smolensky，以及NYU的Tal Linzen；预印本已发布在arXiv上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fórmula simple predice cuándo\nun chatbot se vuelve dañino",
-          "body": "La fórmula, derivada de una sola unidad de atención, acertó 18 de 19 casos de giro dañino en siete modelos abiertos.",
-          "mini_headline": "Una fórmula detecta cuándo se desvía un chatbot",
+          "headline": "Surge una estructura simbólica\ndentro de los chatbots",
+          "body": "Equipos de Yale, Microsoft y NYU cambiaron vectores de LLM por símbolos de rol y relleno y la conducta apenas varió.",
+          "mini_headline": "Surgen símbolos dentro de los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "Conversaciones con AI. Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "\"A Sunday on La Grande Jatte\" (Tarde de domingo en la isla de La Grande Jatte), Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "Los físicos Neil F. Johnson y Frank Yingjie Huo, de la George Washington University, presentan en Patterns una fórmula matemática que predice cuándo un chatbot de AI pasará de respuestas aceptables a otras indeseables, como consejos dañinos o información engañosa."
+                "x": "Los grandes modelos de lenguaje resuelven tareas de matemáticas, lógica y programación que parecen requerir razonamiento simbólico, pero no manipulan símbolos como lo hace la IA (AI) clásica basada en reglas; procesan vectores, largas listas de números. Un equipo dirigido por el lingüista computacional de Yale Tom McCoy descubrió que esos vectores se organizan implícitamente en una estructura simbólica que no es visible al nivel de los números individuales."
               },
               {
                 "t": "p",
-                "x": "La fórmula se deriva de una sola unidad de atención del modelo. El cambio puede producirse tras varias respuestas aceptables, y el orden de las preguntas en una conversación puede influir en el resultado."
+                "x": "Los investigadores sustituyeron las representaciones internas de siete LLMs por estructuras de rol y relleno conocidas como representaciones de producto tensorial (tensor product representations), en las que palabras o números ocupan roles como sujeto o numerador. En lenguaje, aritmética, lógica y programación, el comportamiento de los modelos se mantuvo prácticamente igual."
               },
               {
                 "t": "p",
-                "x": "Sus predicciones coincidieron con 18 de 19 casos de giro en siete modelos abiertos de tres empresas."
-              },
-              {
-                "t": "p",
-                "x": "A los autores les preocupa especialmente la AI sin conexión, donde no operan los filtros de seguridad cloud-based, y sugieren que los dispositivos futuros podrían incorporar una advertencia cuando una conversación derive hacia terreno arriesgado."
+                "x": "Las ediciones dirigidas, como mover la palabra \"clever\" para que modificara a otro sustantivo, cambiaron la salida en consecuencia. \"Los LLMs convergen de forma natural hacia representaciones con estructura de rol y relleno\", afirmó McCoy. Los coautores son Paul Soulos y Paul Smolensky, de Microsoft, y Tal Linzen, de NYU; la prepublicación está en arXiv."
               }
             ]
           }
@@ -1309,125 +1191,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇이 해로워지는 순간\n간단한 수식이 예측",
-          "body": "어텐션 유닛 기반 수식이 일곱 오픈 모델의 유해 전환 19건 중 18건을 맞혔다.",
-          "mini_headline": "챗봇이 엇나가는 순간을 짚는 수식",
+          "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
+          "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
+          "mini_headline": "챗봇 안의 기호 구조",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AI와의 대화. Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington University의 물리학자 Neil F. Johnson과 Frank Yingjie Huo는 AI 챗봇이 수용 가능한 답변에서 해로운 조언이나 오해를 부르는 정보 같은 바람직하지 않은 답변으로 넘어가는 시점을 예측하는 수학 공식을 Patterns에 발표했다."
+                "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만, 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 처리하는 것은 긴 숫자 목록인 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자 수준에서는 보이지 않는 기호 구조로 암묵적으로 조직된다는 사실을 발견했다."
               },
               {
                 "t": "p",
-                "x": "이 공식은 모델 안의 단일 어텐션 유닛에서 나왔다. 전환은 수용 가능한 답변이 여러 번 이어진 뒤에 일어날 수 있고, 대화 속 질문 순서가 결과에 영향을 줄 수 있다."
+                "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라 불리는 역할-채움 구조로 바꿨다. 이 구조에서는 단어나 숫자가 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 변하지 않았다."
               },
               {
                 "t": "p",
-                "x": "이 공식의 예측은 세 회사의 오픈 모델 일곱 개에서 나온 전환 사례 19건 중 18건과 맞아떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 특히 cloud-based 안전 필터가 작동하지 않는 오프라인 AI를 우려한다. 이들은 앞으로 기기에 대화가 위험한 영역으로 흘러갈 때 경고를 띄우는 기능을 내장할 수 있다고 제안한다."
+                "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식의 표적 편집을 가하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에 공개돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "単純な式が予測する\nチャットボットの有害化",
-          "body": "アテンションユニット一つに基づく式が七つのオープンモデルの有害化19件中18件を当てた。",
-          "mini_headline": "チャットボットの有害化を式で予測",
+          "headline": "チャットボット内部に\n記号のような構造が出現",
+          "body": "Yale等の研究で、LLMのベクトルを役割・充填記号に置き換えても挙動はほぼ同じだった。",
+          "mini_headline": "チャットボット内に記号構造",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AIとの会話。Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat「グランド・ジャット島の日曜日の午後」(\"A Sunday on La Grande Jatte\")、1884年。Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington Universityの物理学者Neil F. JohnsonとFrank Yingjie Huoは、AIチャットボットが許容できる回答から、有害な助言や誤解を招く情報といった望ましくない回答へと転じるタイミングを予測する数式をPatternsに報告した。"
+                "x": "大規模言語モデルは、記号的推論が必要に見える数学や論理、コーディングをこなすが、古典的なルールベースのAIのように記号を操作しているわけではない。処理しているのは、長い数値の列であるベクトルだ。Yaleの計算言語学者Tom McCoyが率いるチームは、これらのベクトルが、個々の数値のレベルでは見えない記号的構造へと暗黙のうちに組織化されていることを発見した。"
               },
               {
                 "t": "p",
-                "x": "この式はモデル内の単一のアテンションユニットから導かれる。転換は許容できる回答が何度か続いた後に起こることもあり、会話の中での質問の順序が結果を左右することもある。"
+                "x": "研究者らは七つのLLMsの内部表現を、テンソル積表現(tensor product representations)と呼ばれる役割・充填構造に置き換えた。この構造では、単語や数が主語や分子といった役割を埋める。言語、算術、論理、コーディングのいずれでも、モデルの挙動はほとんど変わらなかった。"
               },
               {
                 "t": "p",
-                "x": "その予測は、三社による七つのオープンモデルで生じた転換事例19件のうち18件と一致した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らが特に懸念するのは、cloud-basedの安全フィルターが機能しないオフラインのAIだ。将来のデバイスには、会話が危険な領域へ流れたときに警告を出す機能を組み込めるのではないかと提案している。"
+                "x": "単語「clever」が別の名詞を修飾するよう移すといった狙いを絞った編集を加えると、出力もそれに応じて変化した。McCoyは「LLMsは自然に役割・充填構造を持つ表現へ収束する」と述べた。共著者はMicrosoftのPaul SoulosとPaul Smolensky、NYUのTal Linzenで、プレプリントはarXivで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "简单公式可预测\n聊天机器人何时转向有害",
-          "body": "这一公式源自单个注意力单元，在七个开放模型的19个有害转向案例中准确预测了18个。",
-          "mini_headline": "公式预警聊天机器人何时转向",
+          "headline": "聊天机器人内部\n浮现类符号结构",
+          "body": "Yale、Microsoft和NYU研究者把LLM向量换成角色-填充符号，行为几乎不变。",
+          "mini_headline": "聊天机器人内部浮现符号",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "AI对话。Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "Georges Seurat《大碗岛的星期天下午》（\"A Sunday on La Grande Jatte\"），1884年。Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "George Washington University的物理学家Neil F. Johnson和Frank Yingjie Huo在Patterns上报告了一个数学公式，可预测AI聊天机器人何时会从可接受的回答转向不良回答，例如有害建议或误导性信息。"
+                "x": "大语言模型能处理数学、逻辑和编程这类看似需要符号推理的任务，但它们并不像经典的基于规则的AI那样操作符号，而是处理向量，也就是一长串数字。Yale计算语言学家Tom McCoy领导的团队发现，这些向量会隐性地组织成一种符号结构，而这种结构在单个数字层面上是看不出来的。"
               },
               {
                 "t": "p",
-                "x": "该公式源自模型中的单个注意力单元。这种转变可能出现在若干个可接受的回答之后，对话中提问的顺序也可能影响结果。"
+                "x": "研究人员将七个LLMs的内部表征替换为一种称为张量积表征（tensor product representations）的角色-填充结构，其中单词或数字填充主语、分子等角色。在语言、算术、逻辑和编程任务中，模型的行为基本没有变化。"
               },
               {
                 "t": "p",
-                "x": "在来自三家公司的七个开放模型中，其预测与19个转向案例中的18个相符。"
-              },
-              {
-                "t": "p",
-                "x": "作者尤其担心离线AI，因为cloud-based安全过滤器在那里不起作用；他们建议，未来的设备可内置警告功能，在对话滑向危险领域时发出提醒。"
+                "x": "有针对性的编辑——例如把单词“clever”移去修饰另一个名词——会使输出相应改变。McCoy说：“LLMs会自然地收敛到具有角色-填充结构的表征。”合著者包括Microsoft的Paul Soulos和Paul Smolensky，以及NYU的Tal Linzen；预印本已发布在arXiv上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fórmula simple predice cuándo\nun chatbot se vuelve dañino",
-          "body": "La fórmula, derivada de una sola unidad de atención, acertó 18 de 19 casos de giro dañino en siete modelos abiertos.",
-          "mini_headline": "Una fórmula detecta cuándo se desvía un chatbot",
+          "headline": "Surge una estructura simbólica\ndentro de los chatbots",
+          "body": "Equipos de Yale, Microsoft y NYU cambiaron vectores de LLM por símbolos de rol y relleno y la conducta apenas varió.",
+          "mini_headline": "Surgen símbolos dentro de los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-conversations.jpg",
-                "cap": "Conversaciones con AI. Credit: Unsplash/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+                "cap": "\"A Sunday on La Grande Jatte\" (Tarde de domingo en la isla de La Grande Jatte), Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
               },
               {
                 "t": "p",
-                "x": "Los físicos Neil F. Johnson y Frank Yingjie Huo, de la George Washington University, presentan en Patterns una fórmula matemática que predice cuándo un chatbot de AI pasará de respuestas aceptables a otras indeseables, como consejos dañinos o información engañosa."
+                "x": "Los grandes modelos de lenguaje resuelven tareas de matemáticas, lógica y programación que parecen requerir razonamiento simbólico, pero no manipulan símbolos como lo hace la IA (AI) clásica basada en reglas; procesan vectores, largas listas de números. Un equipo dirigido por el lingüista computacional de Yale Tom McCoy descubrió que esos vectores se organizan implícitamente en una estructura simbólica que no es visible al nivel de los números individuales."
               },
               {
                 "t": "p",
-                "x": "La fórmula se deriva de una sola unidad de atención del modelo. El cambio puede producirse tras varias respuestas aceptables, y el orden de las preguntas en una conversación puede influir en el resultado."
+                "x": "Los investigadores sustituyeron las representaciones internas de siete LLMs por estructuras de rol y relleno conocidas como representaciones de producto tensorial (tensor product representations), en las que palabras o números ocupan roles como sujeto o numerador. En lenguaje, aritmética, lógica y programación, el comportamiento de los modelos se mantuvo prácticamente igual."
               },
               {
                 "t": "p",
-                "x": "Sus predicciones coincidieron con 18 de 19 casos de giro en siete modelos abiertos de tres empresas."
-              },
-              {
-                "t": "p",
-                "x": "A los autores les preocupa especialmente la AI sin conexión, donde no operan los filtros de seguridad cloud-based, y sugieren que los dispositivos futuros podrían incorporar una advertencia cuando una conversación derive hacia terreno arriesgado."
+                "x": "Las ediciones dirigidas, como mover la palabra \"clever\" para que modificara a otro sustantivo, cambiaron la salida en consecuencia. \"Los LLMs convergen de forma natural hacia representaciones con estructura de rol y relleno\", afirmó McCoy. Los coautores son Paul Soulos y Paul Smolensky, de Microsoft, y Tal Linzen, de NYU; la prepublicación está en arXiv."
               }
             ]
           }
@@ -1435,196 +1301,171 @@
       }
     },
     {
-      "id": "science-co2-methanol-ml",
+      "id": "science-spiking-net-event-timing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
-      "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
-      "mini_headline": "ML로 그린 CO2-to-methanol 경로",
+      "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
+      "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
+      "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
       "tool": "Science",
-      "source": "EurekAlert! (IISc)",
-      "url": "https://www.eurekalert.org/news-releases/1146653",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-spiking-neural-network.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀이 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다. 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 네트워크다."
+          },
+          {
             "t": "img",
-            "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-            "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+            "cap": "학습을 마치면 단서만 주어져도 시점별 예측 활동이 나타나고 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
           },
           {
             "t": "p",
-            "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 일어날 법한 반응 몇 개만 골라 쓰는 게 관행이었고, 그 바람에 중요한 반응 수백 개를 놓칠 수 있었다."
+            "x": "학습은 판독(readout) 연결에서만 일어난다. 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 여기에 적응하고, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
           },
           {
             "t": "p",
-            "x": "Indian Institute of Science 연구진은 Nature Communications에 실린 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개짜리 데이터베이스를 만들고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개까지 넓혔다."
-          },
-          {
-            "t": "p",
-            "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 주생성물도 메탄올과 일산화탄소로 정확히 짚어냈다."
-          },
-          {
-            "t": "p",
-            "x": "수소가 분자 상태의 H₂ 그대로 중간체에 직접 옮겨갈 수 있다는 사실도 새로 드러났다."
+            "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식의 증거라기보다 계산적 시연에 가깝다. 그래도 저자들은 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 국소 학습이 잘 맞을 수 있다고 본다."
           }
         ]
       },
-      "lead_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
       "text": {
         "en": {
-          "headline": "Machine learning maps\nhow CO2 becomes methanol",
-          "body": "IISc researchers used machine learning to map nearly 10,000 surface reactions turning CO2 into methanol on copper.",
-          "mini_headline": "ML maps CO2-to-methanol paths",
+          "headline": "Spiking network learns\nwhat, when and how likely",
+          "body": "A 1,000-neuron spiking network learned what a cue predicts, when it arrives and how likely it is, with only local rules.",
+          "mini_headline": "Spiking net learns what and when",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Researchers at the University of Tokyo's International Research Center for Neurointelligence (WPI-IRCN), led by Zenas C. Chao with Yohei Yamada, built a recurrent spiking neural network of 1,000 neurons that learns what is expected, when it is expected and how likely it is, all at once."
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "Surface of a copper catalyst depicting CO₂ hydrogenation to methanol. Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "After training, a cue alone evokes time-specific anticipatory activity whose strength reflects each event's probability. Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂ hydrogenation involves thousands of tiny steps on a catalyst surface, so modelers traditionally pick a small number of likely reactions, which means hundreds of important reactions may be missed."
+                "x": "Learning is confined to the readout connections and uses local rules rather than backpropagation or a globally broadcast error signal. When event probabilities or timings change, the network adapts, recovering faster than a global least-squares baseline."
               },
               {
                 "t": "p",
-                "x": "Researchers at the Indian Institute of Science, reporting in Nature Communications, built a database of 152 reactions from quantum-mechanical simulations, trained machine learning models to predict activation energy barriers, and used automated tools to expand the network to 9,389 elementary reactions on copper."
-              },
-              {
-                "t": "p",
-                "x": "“When we modelled the process using the 152 reactions considered initially, the network wrongly predicted formic acid, not methanol, as the major product,” says Ananth Govind Rajan. The expanded network predicted an approximately 40-fold increase in CO₂ conversion and correctly identified methanol and carbon monoxide as major products."
-              },
-              {
-                "t": "p",
-                "x": "It also revealed that hydrogen can transfer to intermediates directly as molecular H₂."
+                "x": "Published in Communications Biology, the work is a computational demonstration rather than evidence of how the brain implements prediction, but the authors say local learning may suit brain-inspired AI and neuromorphic hardware that must adapt in real time."
               }
             ]
           }
         },
         "ko": {
-          "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
-          "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
-          "mini_headline": "ML로 그린 CO2-to-methanol 경로",
+          "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
+          "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
+          "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀이 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다. 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 네트워크다."
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "학습을 마치면 단서만 주어져도 시점별 예측 활동이 나타나고 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 일어날 법한 반응 몇 개만 골라 쓰는 게 관행이었고, 그 바람에 중요한 반응 수백 개를 놓칠 수 있었다."
+                "x": "학습은 판독(readout) 연결에서만 일어난다. 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 여기에 적응하고, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
               },
               {
                 "t": "p",
-                "x": "Indian Institute of Science 연구진은 Nature Communications에 실린 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개짜리 데이터베이스를 만들고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개까지 넓혔다."
-              },
-              {
-                "t": "p",
-                "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 주생성물도 메탄올과 일산화탄소로 정확히 짚어냈다."
-              },
-              {
-                "t": "p",
-                "x": "수소가 분자 상태의 H₂ 그대로 중간체에 직접 옮겨갈 수 있다는 사실도 새로 드러났다."
+                "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식의 증거라기보다 계산적 시연에 가깝다. 그래도 저자들은 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 국소 학습이 잘 맞을 수 있다고 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が描く\nCO2がメタノールになる道",
-          "body": "IISc研究陣は機械学習で銅表面でCO2がメタノールになる反応約10,000件を描いた。",
-          "mini_headline": "MLでCO2-to-methanolの経路を描く",
+          "headline": "スパイキング網が学ぶ\n何を、いつ、どの確率で",
+          "body": "1,000個のニューロンのスパイキング網が、局所規則だけで予測対象と時期、確率を学んだ。",
+          "mini_headline": "スパイキング網が「何」と「いつ」を学ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of TokyoのInternational Research Center for Neurointelligence(WPI-IRCN)で、Zenas C. Chaoが率い、Yohei Yamadaが加わった研究チームは、何が予想されるか、いつ予想されるか、その可能性がどの程度かを同時に学習する、1,000個のニューロンからなる再帰型スパイキングニューラルネットワークを構築した。"
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "CO₂の水素化によるメタノール生成を描いた銅触媒の表面。Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "学習後は手がかりだけで時刻特異的な予期活動が生じ、その強さは各事象の確率を反映する。Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂の水素化では触媒表面で何千もの微小なステップが進むため、モデル研究者は従来、起こりそうな反応を少数だけ選んできた。そのため、重要な反応が何百も見落とされている可能性がある。"
+                "x": "学習は読み出し結合に限られ、誤差逆伝播法や全体に一斉送信される誤差信号ではなく局所規則を用いる。事象の確率やタイミングが変わるとネットワークは適応し、全体最小二乗法のベースラインより速く回復する。"
               },
               {
                 "t": "p",
-                "x": "Nature Communicationsで報告したIndian Institute of Scienceの研究者らは、量子力学的(quantum-mechanical)シミュレーションから152反応のデータベースを構築し、活性化エネルギー障壁を予測する機械学習モデルを訓練した。さらに自動化ツールを使い、銅上の反応ネットワークを9,389の素反応へと拡張した。"
-              },
-              {
-                "t": "p",
-                "x": "「当初検討した152の反応でプロセスをモデル化したところ、ネットワークは主生成物をメタノールではなくギ酸と誤って予測した」とAnanth Govind Rajanは語る。拡張したネットワークはCO₂転化が約40倍(40-fold)に増えると予測し、メタノールと一酸化炭素を主生成物として正しく特定した。"
-              },
-              {
-                "t": "p",
-                "x": "また、水素が分子状のH₂のまま中間体へ直接移り得ることも明らかになった。"
+                "x": "Communications Biologyに掲載された本研究は、脳が予測をどう実装しているかの証拠ではなく計算上の実証だが、著者らは、局所学習はリアルタイムで適応する必要がある脳型AIやニューロモルフィックハードウェアに適している可能性があると述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习描绘\nCO2如何变成甲醇",
-          "body": "IISc研究人员用机器学习绘制了铜表面近10,000个将CO2转化为甲醇的反应。",
-          "mini_headline": "ML绘制CO2-to-methanol路径",
+          "headline": "脉冲神经网络学会\n预测何事、何时与几率",
+          "body": "一个1,000神经元的脉冲网络仅凭局部规则，学会了线索预示什么、何时出现及其概率。",
+          "mini_headline": "脉冲网络学会何事与何时",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of Tokyo的International Research Center for Neurointelligence（WPI-IRCN）研究人员在Zenas C. Chao带领下，与Yohei Yamada合作，构建了一个由1,000个神经元组成的循环脉冲神经网络，能够同时学习预期什么、何时预期以及其可能性有多大。"
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "描绘CO₂加氢制甲醇的铜催化剂表面。Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "训练后，仅凭线索就能引发特定时间的预期活动，其强度反映各事件的概率。Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂加氢在催化剂表面涉及数千个微小步骤，因此建模者传统上只挑选少数可能的反应，这意味着可能漏掉数百个重要反应。"
+                "x": "学习仅限于读出连接，并采用局部规则，而非反向传播或全局广播的误差信号。当事件的概率或时间发生变化时，网络能够适应，恢复速度快于全局最小二乘基线。"
               },
               {
                 "t": "p",
-                "x": "Indian Institute of Science的研究人员在Nature Communications上报告，他们基于quantum-mechanical（量子力学）模拟构建了包含152个反应的数据库，训练机器学习模型预测活化能垒，并借助自动化工具将铜上的反应网络扩展到9,389个基元反应。"
-              },
-              {
-                "t": "p",
-                "x": "“当我们用最初考虑的152个反应为该过程建模时，网络错误地把甲酸而非甲醇预测为主要产物，”Ananth Govind Rajan说。扩展后的网络预测CO₂转化率提高约40倍（40-fold），并正确识别出甲醇和一氧化碳为主要产物。"
-              },
-              {
-                "t": "p",
-                "x": "研究还揭示，氢可以直接以分子H₂的形式转移到中间体上。"
+                "x": "这项发表于Communications Biology的研究是一次计算演示，而非大脑如何实现预测的证据，但作者表示，局部学习可能适合需要实时适应的类脑AI和神经形态硬件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático mapea\ncómo el CO2 se vuelve metanol",
-          "body": "Un equipo del IISc mapeó con aprendizaje automático casi 10,000 reacciones que convierten CO2 en metanol sobre cobre.",
-          "mini_headline": "El ML traza las rutas CO2-to-methanol",
+          "headline": "Una red de impulsos aprende\nqué, cuándo y cuán probable",
+          "body": "Una red de 1,000 neuronas aprendió qué predice una señal, cuándo llega y cuán probable es, solo con reglas locales.",
+          "mini_headline": "Una red de impulsos aprende qué y cuándo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Investigadores del International Research Center for Neurointelligence (WPI-IRCN) de la University of Tokyo, dirigidos por Zenas C. Chao junto con Yohei Yamada, construyeron una red neuronal de impulsos recurrente de 1,000 neuronas que aprende a la vez qué se espera, cuándo se espera y qué probabilidad tiene."
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "Superficie de un catalizador de cobre que muestra la hidrogenación de CO₂ a metanol. Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "Tras el entrenamiento, una señal por sí sola evoca una actividad anticipatoria específica en el tiempo cuya intensidad refleja la probabilidad de cada evento. Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "La hidrogenación de CO₂ implica miles de pequeños pasos en la superficie de un catalizador, por lo que tradicionalmente los modeladores eligen un número reducido de reacciones probables, lo que significa que pueden pasarse por alto cientos de reacciones importantes."
+                "x": "El aprendizaje se limita a las conexiones de lectura y usa reglas locales en lugar de retropropagación o de una señal de error difundida globalmente. Cuando cambian las probabilidades o los tiempos de los eventos, la red se adapta y se recupera más rápido que una referencia global de mínimos cuadrados."
               },
               {
                 "t": "p",
-                "x": "Investigadores del Indian Institute of Science, en un trabajo publicado en Nature Communications, crearon una base de datos de 152 reacciones a partir de simulaciones quantum-mechanical, entrenaron modelos de aprendizaje automático para predecir barreras de energía de activación y usaron herramientas automatizadas para ampliar la red a 9,389 reacciones elementales sobre cobre."
-              },
-              {
-                "t": "p",
-                "x": "“Cuando modelamos el proceso con las 152 reacciones consideradas al principio, la red predijo erróneamente el ácido fórmico, y no el metanol, como producto principal”, afirma Ananth Govind Rajan. La red ampliada predijo un aumento de unas 40 veces (40-fold) en la conversión de CO₂ e identificó correctamente el metanol y el monóxido de carbono como productos principales."
-              },
-              {
-                "t": "p",
-                "x": "También reveló que el hidrógeno puede transferirse directamente a los intermedios como H₂ molecular."
+                "x": "Publicado en Communications Biology, el trabajo es una demostración computacional y no una prueba de cómo el cerebro implementa la predicción, pero los autores señalan que el aprendizaje local podría ser adecuado para la IA (AI) inspirada en el cerebro y el hardware neuromórfico que debe adaptarse en tiempo real."
               }
             ]
           }
@@ -1632,125 +1473,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "머신러닝으로 본\nCO2가 메탄올 되는 길",
-          "body": "IISc가 머신러닝으로 구리 표면 CO2→메탄올 반응 약 10,000개를 그렸다.",
-          "mini_headline": "ML로 그린 CO2-to-methanol 경로",
+          "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
+          "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
+          "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀은 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다."
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "CO₂가 수소화돼 메탄올이 되는 과정을 묘사한 구리 촉매 표면. Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "학습 뒤에는 단서만 주어져도 시점별 예측 활동이 나타나며, 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂ 수소화는 촉매 표면에서 수천 개의 미세한 단계를 거친다. 그래서 모델링 연구자들은 전통적으로 일어날 법한 반응 몇 개만 골라 왔고, 이 때문에 중요한 반응 수백 개를 놓칠 수 있었다."
+                "x": "학습은 판독(readout) 연결에서만 일어나며, 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 이에 적응하며, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
               },
               {
                 "t": "p",
-                "x": "Indian Institute of Science 연구진은 Nature Communications에 발표한 연구에서 양자역학(quantum-mechanical) 시뮬레이션으로 반응 152개의 데이터베이스를 구축하고, 활성화 에너지 장벽을 예측하는 머신러닝 모델을 학습시켰다. 이어 자동화 도구로 구리 위 반응 네트워크를 기본 반응 9,389개로 넓혔다."
-              },
-              {
-                "t": "p",
-                "x": "Ananth Govind Rajan은 “처음 고려한 152개 반응으로 공정을 모델링했을 때, 네트워크는 주생성물을 메탄올이 아닌 포름산으로 잘못 예측했다”고 말한다. 확장된 네트워크는 CO₂ 전환이 약 40배(40-fold) 늘어난다고 예측했고, 메탄올과 일산화탄소를 주생성물로 정확히 짚어냈다."
-              },
-              {
-                "t": "p",
-                "x": "또 수소가 분자 상태의 H₂로 중간체에 직접 옮겨갈 수 있다는 사실도 드러났다."
+                "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식에 대한 증거라기보다 계산적 시연에 가깝다. 다만 저자들은 국소 학습이 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 적합할 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "機械学習が描く\nCO2がメタノールになる道",
-          "body": "IISc研究陣は機械学習で銅表面でCO2がメタノールになる反応約10,000件を描いた。",
-          "mini_headline": "MLでCO2-to-methanolの経路を描く",
+          "headline": "スパイキング網が学ぶ\n何を、いつ、どの確率で",
+          "body": "1,000個のニューロンのスパイキング網が、局所規則だけで予測対象と時期、確率を学んだ。",
+          "mini_headline": "スパイキング網が「何」と「いつ」を学ぶ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of TokyoのInternational Research Center for Neurointelligence(WPI-IRCN)で、Zenas C. Chaoが率い、Yohei Yamadaが加わった研究チームは、何が予想されるか、いつ予想されるか、その可能性がどの程度かを同時に学習する、1,000個のニューロンからなる再帰型スパイキングニューラルネットワークを構築した。"
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "CO₂の水素化によるメタノール生成を描いた銅触媒の表面。Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "学習後は手がかりだけで時刻特異的な予期活動が生じ、その強さは各事象の確率を反映する。Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂の水素化では触媒表面で何千もの微小なステップが進むため、モデル研究者は従来、起こりそうな反応を少数だけ選んできた。そのため、重要な反応が何百も見落とされている可能性がある。"
+                "x": "学習は読み出し結合に限られ、誤差逆伝播法や全体に一斉送信される誤差信号ではなく局所規則を用いる。事象の確率やタイミングが変わるとネットワークは適応し、全体最小二乗法のベースラインより速く回復する。"
               },
               {
                 "t": "p",
-                "x": "Nature Communicationsで報告したIndian Institute of Scienceの研究者らは、量子力学的(quantum-mechanical)シミュレーションから152反応のデータベースを構築し、活性化エネルギー障壁を予測する機械学習モデルを訓練した。さらに自動化ツールを使い、銅上の反応ネットワークを9,389の素反応へと拡張した。"
-              },
-              {
-                "t": "p",
-                "x": "「当初検討した152の反応でプロセスをモデル化したところ、ネットワークは主生成物をメタノールではなくギ酸と誤って予測した」とAnanth Govind Rajanは語る。拡張したネットワークはCO₂転化が約40倍(40-fold)に増えると予測し、メタノールと一酸化炭素を主生成物として正しく特定した。"
-              },
-              {
-                "t": "p",
-                "x": "また、水素が分子状のH₂のまま中間体へ直接移り得ることも明らかになった。"
+                "x": "Communications Biologyに掲載された本研究は、脳が予測をどう実装しているかの証拠ではなく計算上の実証だが、著者らは、局所学習はリアルタイムで適応する必要がある脳型AIやニューロモルフィックハードウェアに適している可能性があると述べている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "机器学习描绘\nCO2如何变成甲醇",
-          "body": "IISc研究人员用机器学习绘制了铜表面近10,000个将CO2转化为甲醇的反应。",
-          "mini_headline": "ML绘制CO2-to-methanol路径",
+          "headline": "脉冲神经网络学会\n预测何事、何时与几率",
+          "body": "一个1,000神经元的脉冲网络仅凭局部规则，学会了线索预示什么、何时出现及其概率。",
+          "mini_headline": "脉冲网络学会何事与何时",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "University of Tokyo的International Research Center for Neurointelligence（WPI-IRCN）研究人员在Zenas C. Chao带领下，与Yohei Yamada合作，构建了一个由1,000个神经元组成的循环脉冲神经网络，能够同时学习预期什么、何时预期以及其可能性有多大。"
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "描绘CO₂加氢制甲醇的铜催化剂表面。Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "训练后，仅凭线索就能引发特定时间的预期活动，其强度反映各事件的概率。Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "CO₂加氢在催化剂表面涉及数千个微小步骤，因此建模者传统上只挑选少数可能的反应，这意味着可能漏掉数百个重要反应。"
+                "x": "学习仅限于读出连接，并采用局部规则，而非反向传播或全局广播的误差信号。当事件的概率或时间发生变化时，网络能够适应，恢复速度快于全局最小二乘基线。"
               },
               {
                 "t": "p",
-                "x": "Indian Institute of Science的研究人员在Nature Communications上报告，他们基于quantum-mechanical（量子力学）模拟构建了包含152个反应的数据库，训练机器学习模型预测活化能垒，并借助自动化工具将铜上的反应网络扩展到9,389个基元反应。"
-              },
-              {
-                "t": "p",
-                "x": "“当我们用最初考虑的152个反应为该过程建模时，网络错误地把甲酸而非甲醇预测为主要产物，”Ananth Govind Rajan说。扩展后的网络预测CO₂转化率提高约40倍（40-fold），并正确识别出甲醇和一氧化碳为主要产物。"
-              },
-              {
-                "t": "p",
-                "x": "研究还揭示，氢可以直接以分子H₂的形式转移到中间体上。"
+                "x": "这项发表于Communications Biology的研究是一次计算演示，而非大脑如何实现预测的证据，但作者表示，局部学习可能适合需要实时适应的类脑AI和神经形态硬件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El aprendizaje automático mapea\ncómo el CO2 se vuelve metanol",
-          "body": "Un equipo del IISc mapeó con aprendizaje automático casi 10,000 reacciones que convierten CO2 en metanol sobre cobre.",
-          "mini_headline": "El ML traza las rutas CO2-to-methanol",
+          "headline": "Una red de impulsos aprende\nqué, cuándo y cuán probable",
+          "body": "Una red de 1,000 neuronas aprendió qué predice una señal, cuándo llega y cuán probable es, solo con reglas locales.",
+          "mini_headline": "Una red de impulsos aprende qué y cuándo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Investigadores del International Research Center for Neurointelligence (WPI-IRCN) de la University of Tokyo, dirigidos por Zenas C. Chao junto con Yohei Yamada, construyeron una red neuronal de impulsos recurrente de 1,000 neuronas que aprende a la vez qué se espera, cuándo se espera y qué probabilidad tiene."
+              },
+              {
                 "t": "img",
-                "src": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/59b5c2f1-1cc4-4a95-b85a-1ce9dd2b742f/Rendition/low-res/Content/Public",
-                "cap": "Superficie de un catalizador de cobre que muestra la hidrogenación de CO₂ a metanol. Credit: Shivam Chaturvedi"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+                "cap": "Tras el entrenamiento, una señal por sí sola evoca una actividad anticipatoria específica en el tiempo cuya intensidad refleja la probabilidad de cada evento. Credit: Zenas C. Chao, The University of Tokyo"
               },
               {
                 "t": "p",
-                "x": "La hidrogenación de CO₂ implica miles de pequeños pasos en la superficie de un catalizador, por lo que tradicionalmente los modeladores eligen un número reducido de reacciones probables, lo que significa que pueden pasarse por alto cientos de reacciones importantes."
+                "x": "El aprendizaje se limita a las conexiones de lectura y usa reglas locales en lugar de retropropagación o de una señal de error difundida globalmente. Cuando cambian las probabilidades o los tiempos de los eventos, la red se adapta y se recupera más rápido que una referencia global de mínimos cuadrados."
               },
               {
                 "t": "p",
-                "x": "Investigadores del Indian Institute of Science, en un trabajo publicado en Nature Communications, crearon una base de datos de 152 reacciones a partir de simulaciones quantum-mechanical, entrenaron modelos de aprendizaje automático para predecir barreras de energía de activación y usaron herramientas automatizadas para ampliar la red a 9,389 reacciones elementales sobre cobre."
-              },
-              {
-                "t": "p",
-                "x": "“Cuando modelamos el proceso con las 152 reacciones consideradas al principio, la red predijo erróneamente el ácido fórmico, y no el metanol, como producto principal”, afirma Ananth Govind Rajan. La red ampliada predijo un aumento de unas 40 veces (40-fold) en la conversión de CO₂ e identificó correctamente el metanol y el monóxido de carbono como productos principales."
-              },
-              {
-                "t": "p",
-                "x": "También reveló que el hidrógeno puede transferirse directamente a los intermedios como H₂ molecular."
+                "x": "Publicado en Communications Biology, el trabajo es una demostración computacional y no una prueba de cómo el cerebro implementa la predicción, pero los autores señalan que el aprendizaje local podría ser adecuado para la IA (AI) inspirada en el cerebro y el hardware neuromórfico que debe adaptarse en tiempo real."
               }
             ]
           }

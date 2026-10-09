@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "music",
   "media": [
     {
-      "id": "music-amuchart",
+      "id": "music-smith-sentenced",
       "type": "image",
-      "src": "pipeline/media/music-amuchart.jpg"
+      "src": "pipeline/media/music-smith-sentenced.jpg"
     },
     {
-      "id": "music-base-for-music",
+      "id": "music-denmark-replica-law",
       "type": "image",
-      "src": "pipeline/media/music-base-for-music.jpg"
+      "src": "pipeline/media/music-denmark-replica-law.png"
     },
     {
-      "id": "music-riaa-nofakes",
+      "id": "music-flow-music-plugins",
       "type": "video",
-      "src": "pipeline/media/music-riaa-nofakes.mp4",
-      "poster": "pipeline/media/music-riaa-nofakes.jpg"
+      "src": "pipeline/media/music-flow-music-plugins.mp4",
+      "poster": "pipeline/media/music-flow-music-plugins.jpg"
     },
     {
-      "id": "music-human-disclosure",
+      "id": "music-sonilo-video-scoring",
       "type": "image",
-      "src": "pipeline/media/music-human-disclosure.jpg"
+      "src": "pipeline/media/music-sonilo-video-scoring.png"
     },
     {
-      "id": "music-kpop-ai-conductors",
+      "id": "music-arxiv-attribution",
       "type": "image",
-      "src": "pipeline/media/music-kpop-ai-conductors.png"
+      "src": "pipeline/media/music-arxiv-attribution.png"
     }
   ]
 }

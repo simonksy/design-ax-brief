@@ -1,370 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "design",
   "cards": [
     {
-      "id": "design-archicad-ai",
+      "id": "runway-claude-motion",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Archicad에\nMCP와 AI 더한다",
-      "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
-      "mini_headline": "Archicad에 MCP·AI 추가",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/graphisoft-updates-archicad-portfolio-with-ai-capabilities/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-          },
-          {
-            "t": "p",
-            "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에 놓인 것은 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이다. Design Intelligence Strategy에 맞춰 핵심 제품을 손보고, Model Context Protocol(MCP) 연결 계획과 AI Assistant 업데이트도 담았다."
-          },
-          {
-            "t": "p",
-            "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개 넘는 시장에 새로 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-          },
-          {
-            "t": "p",
-            "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, 건축가는 AI Assistant Spaces에서 자기 문서로 지식 베이스를 꾸린다."
-          },
-          {
-            "t": "p",
-            "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
-          }
-        ]
-      },
-      "lead_image": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png",
-      "text": {
-        "en": {
-          "headline": "Graphisoft adds MCP and AI\nto its Archicad portfolio",
-          "body": "Graphisoft's 2026 Archicad portfolio brings planned MCP support, AI Visualizer updates and a new Archicad Max plan.",
-          "mini_headline": "Archicad adds MCP and AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft introduced its 2026 product portfolio, led by Archicad and new artificial intelligence capabilities for architecture, engineering and construction teams. Based on its Design Intelligence Strategy, it includes updates to core products, planned Model Context Protocol (MCP) connectivity and an update to AI Assistant."
-              },
-              {
-                "t": "p",
-                "x": "The latest Archicad adds Dark Mode for Windows, improved visibility for multistory walls, more documentation controls, updated Project Info management, customizable Navigator organization and expanded drawing label options. MEP Designer and DDScad gain BIM querying, visualization, workflow and AI integration improvements, and MEP Designer comes to more than 40 additional markets."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "During October, Archicad users get early access to Nemetschek Creator, a cloud-native platform for early-stage design, sustainability and feasibility analysis, and the Open Collaboration Platform, plus real-time visualization through Maxon Redshift. AI Visualizer will add image-generation capabilities and AI image models including Nano Banana Pro, and AI Assistant Spaces will let architects build a knowledge base from their own documents."
-              },
-              {
-                "t": "p",
-                "x": "Subscriptions expand to three plans: Archicad Studio, Archicad Collaborate and Archicad Max, the last intended for practices using data- and AI-based workflows."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Archicad에\nMCP와 AI 더한다",
-          "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
-          "mini_headline": "Archicad에 MCP·AI 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에 놓인 것은 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이다. Design Intelligence Strategy에 맞춰 핵심 제품을 손보고, Model Context Protocol(MCP) 연결 계획과 AI Assistant 업데이트도 담았다."
-              },
-              {
-                "t": "p",
-                "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개 넘는 시장에 새로 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, 건축가는 AI Assistant Spaces에서 자기 문서로 지식 베이스를 꾸린다."
-              },
-              {
-                "t": "p",
-                "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Archicadに\nMCPとAIを追加",
-          "body": "Graphisoftの2026年版ArchicadはMCP対応予定とAI強化を打ち出した。",
-          "mini_headline": "ArchicadにMCPとAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoftは、Archicadと、建築・エンジニアリング・建設チーム向けの新たな人工知能機能を柱とする2026年の製品ポートフォリオを発表した。Design Intelligence Strategyに基づき、主要製品のアップデート、予定されているModel Context Protocol(MCP)接続、AI Assistantのアップデートを含む。"
-              },
-              {
-                "t": "p",
-                "x": "最新のArchicadには、Windows向けDark Mode、複数階にまたがる壁の視認性向上、図面作成の制御強化、Project Info管理の刷新、カスタマイズ可能なNavigator構成、図面ラベルオプションの拡充が加わった。MEP DesignerとDDScadはBIMクエリ、可視化、ワークフロー、AI統合が改善され、MEP Designerは新たに40を超える市場に展開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10月中、Archicadユーザーは、初期段階の設計、サステナビリティ、実現可能性分析のためのクラウドネイティブ・プラットフォームNemetschek CreatorとOpen Collaboration Platformを先行利用でき、Maxon Redshiftによるリアルタイム可視化も使える。AI Visualizerには画像生成機能とNano Banana ProなどのAI画像モデルが加わり、AI Assistant Spacesでは建築家が自分の文書からナレッジベースを構築できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Archicad新增\nMCP与AI能力",
-          "body": "Graphisoft的2026年Archicad产品线计划支持MCP，并强化AI。",
-          "mini_headline": "Archicad新增MCP与AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft发布2026年产品组合，以Archicad以及面向建筑、工程和施工团队的全新人工智能功能为核心。该组合基于其Design Intelligence Strategy，包括核心产品更新、计划中的Model Context Protocol（MCP）连接以及AI Assistant的更新。"
-              },
-              {
-                "t": "p",
-                "x": "最新版Archicad新增Windows版Dark Mode，改进多层墙体的可见性，提供更多出图控制，更新Project Info管理，支持自定义Navigator组织方式，并扩展图纸标注选项。MEP Designer和DDScad在BIM查询、可视化、工作流程和AI集成方面得到改进，MEP Designer还将进入另外40多个市场。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10月期间，Archicad用户可抢先使用Nemetschek Creator（一个面向早期设计、可持续性与可行性分析的云原生平台）和Open Collaboration Platform，并可通过Maxon Redshift进行实时可视化。AI Visualizer将加入图像生成功能以及包括Nano Banana Pro在内的AI图像模型，AI Assistant Spaces则让建筑师能用自己的文档建立知识库。"
-              },
-              {
-                "t": "p",
-                "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Graphisoft suma MCP y AI\na su cartera de Archicad",
-          "body": "La cartera 2026 de Graphisoft trae soporte previsto para MCP, mejoras en AI Visualizer y el plan Archicad Max.",
-          "mini_headline": "Archicad suma MCP y AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft presentó su cartera de productos 2026, encabezada por Archicad y por nuevas capacidades de inteligencia artificial para equipos de arquitectura, ingeniería y construcción. Basada en su Design Intelligence Strategy, incluye actualizaciones de los productos principales, la conectividad prevista con Model Context Protocol (MCP) y una actualización de AI Assistant."
-              },
-              {
-                "t": "p",
-                "x": "La última versión de Archicad añade Dark Mode para Windows, mejor visibilidad de los muros de varias plantas, más controles de documentación, una gestión renovada de Project Info, organización personalizable de Navigator y más opciones de etiquetas de dibujo. MEP Designer y DDScad mejoran en consultas BIM, visualización, flujos de trabajo e integración de AI, y MEP Designer llega a más de 40 mercados adicionales."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "Durante octubre, los usuarios de Archicad obtienen acceso anticipado a Nemetschek Creator, una plataforma nativa en la nube para diseño en fase inicial, sostenibilidad y análisis de viabilidad, y a Open Collaboration Platform, además de visualización en tiempo real con Maxon Redshift. AI Visualizer añadirá capacidades de generación de imágenes y modelos de imagen de AI como Nano Banana Pro, y AI Assistant Spaces permitirá a los arquitectos crear una base de conocimiento con sus propios documentos."
-              },
-              {
-                "t": "p",
-                "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Archicad에\nMCP와 AI 더한다",
-          "body": "Graphisoft 2026 라인업에 MCP 지원 계획과 AI 개선이 담겼다.",
-          "mini_headline": "Archicad에 MCP·AI 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft가 2026년 제품 포트폴리오를 공개했다. 중심에는 Archicad와 건축·엔지니어링·건설 팀을 위한 새 인공지능 기능이 있다. Design Intelligence Strategy를 바탕으로 핵심 제품 업데이트, Model Context Protocol(MCP) 연결 계획, AI Assistant 업데이트를 담았다."
-              },
-              {
-                "t": "p",
-                "x": "최신 Archicad에는 Windows용 Dark Mode, 다층 벽 가시성 개선, 도면화 제어 확대, Project Info 관리 개편, 사용자 지정이 가능한 Navigator 구성, 도면 라벨 옵션 확장이 더해졌다. MEP Designer와 DDScad는 BIM 조회, 시각화, 워크플로, AI 통합 기능이 나아졌고, MEP Designer는 40개가 넘는 시장에 새로 출시된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10월 중 Archicad 사용자는 초기 설계, 지속가능성, 타당성 분석을 위한 클라우드 네이티브 플랫폼 Nemetschek Creator와 Open Collaboration Platform을 먼저 써 볼 수 있고, Maxon Redshift로 실시간 시각화도 할 수 있다. AI Visualizer에는 이미지 생성 기능과 Nano Banana Pro를 비롯한 AI 이미지 모델이 추가되고, AI Assistant Spaces로 건축가는 자신의 문서로 지식 베이스를 만들 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. 이 가운데 Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소를 위한 요금제다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Archicadに\nMCPとAIを追加",
-          "body": "Graphisoftの2026年版ArchicadはMCP対応予定とAI強化を打ち出した。",
-          "mini_headline": "ArchicadにMCPとAI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoftは、Archicadと、建築・エンジニアリング・建設チーム向けの新たな人工知能機能を柱とする2026年の製品ポートフォリオを発表した。Design Intelligence Strategyに基づき、主要製品のアップデート、予定されているModel Context Protocol(MCP)接続、AI Assistantのアップデートを含む。"
-              },
-              {
-                "t": "p",
-                "x": "最新のArchicadには、Windows向けDark Mode、複数階にまたがる壁の視認性向上、図面作成の制御強化、Project Info管理の刷新、カスタマイズ可能なNavigator構成、図面ラベルオプションの拡充が加わった。MEP DesignerとDDScadはBIMクエリ、可視化、ワークフロー、AI統合が改善され、MEP Designerは新たに40を超える市場に展開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10月中、Archicadユーザーは、初期段階の設計、サステナビリティ、実現可能性分析のためのクラウドネイティブ・プラットフォームNemetschek CreatorとOpen Collaboration Platformを先行利用でき、Maxon Redshiftによるリアルタイム可視化も使える。AI Visualizerには画像生成機能とNano Banana ProなどのAI画像モデルが加わり、AI Assistant Spacesでは建築家が自分の文書からナレッジベースを構築できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Archicad新增\nMCP与AI能力",
-          "body": "Graphisoft的2026年Archicad产品线计划支持MCP，并强化AI。",
-          "mini_headline": "Archicad新增MCP与AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft发布2026年产品组合，以Archicad以及面向建筑、工程和施工团队的全新人工智能功能为核心。该组合基于其Design Intelligence Strategy，包括核心产品更新、计划中的Model Context Protocol（MCP）连接以及AI Assistant的更新。"
-              },
-              {
-                "t": "p",
-                "x": "最新版Archicad新增Windows版Dark Mode，改进多层墙体的可见性，提供更多出图控制，更新Project Info管理，支持自定义Navigator组织方式，并扩展图纸标注选项。MEP Designer和DDScad在BIM查询、可视化、工作流程和AI集成方面得到改进，MEP Designer还将进入另外40多个市场。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "10月期间，Archicad用户可抢先使用Nemetschek Creator（一个面向早期设计、可持续性与可行性分析的云原生平台）和Open Collaboration Platform，并可通过Maxon Redshift进行实时可视化。AI Visualizer将加入图像生成功能以及包括Nano Banana Pro在内的AI图像模型，AI Assistant Spaces则让建筑师能用自己的文档建立知识库。"
-              },
-              {
-                "t": "p",
-                "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Graphisoft suma MCP y AI\na su cartera de Archicad",
-          "body": "La cartera 2026 de Graphisoft trae soporte previsto para MCP, mejoras en AI Visualizer y el plan Archicad Max.",
-          "mini_headline": "Archicad suma MCP y AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
-              },
-              {
-                "t": "p",
-                "x": "Graphisoft presentó su cartera de productos 2026, encabezada por Archicad y por nuevas capacidades de inteligencia artificial para equipos de arquitectura, ingeniería y construcción. Basada en su Design Intelligence Strategy, incluye actualizaciones de los productos principales, la conectividad prevista con Model Context Protocol (MCP) y una actualización de AI Assistant."
-              },
-              {
-                "t": "p",
-                "x": "La última versión de Archicad añade Dark Mode para Windows, mejor visibilidad de los muros de varias plantas, más controles de documentación, una gestión renovada de Project Info, organización personalizable de Navigator y más opciones de etiquetas de dibujo. MEP Designer y DDScad mejoran en consultas BIM, visualización, flujos de trabajo e integración de AI, y MEP Designer llega a más de 40 mercados adicionales."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
-              },
-              {
-                "t": "p",
-                "x": "Durante octubre, los usuarios de Archicad obtienen acceso anticipado a Nemetschek Creator, una plataforma nativa en la nube para diseño en fase inicial, sostenibilidad y análisis de viabilidad, y a Open Collaboration Platform, además de visualización en tiempo real con Maxon Redshift. AI Visualizer añadirá capacidades de generación de imágenes y modelos de imagen de AI como Nano Banana Pro, y AI Assistant Spaces permitirá a los arquitectos crear una base de conocimiento con sus propios documentos."
-              },
-              {
-                "t": "p",
-                "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-keyshot-2026",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
-      "body": "KeyShot 2026은 AI Shots로 렌더링 작업에 생성형 AI를 들였다.",
-      "mini_headline": "KeyShot 2026, AI Shots 추가",
+      "headline": "Claude Motion\n설명 영상 Runway로",
+      "body": "Claude Motion으로 만든 설명 영상을 Runway에서 이어 다듬는다.",
+      "mini_headline": "Runway, Claude Motion 지원",
       "tool": "KeyShot",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/3d/keyshot-2026-review-fast-easy-3d-rendering-and-with-ai-tools-you-might-actually-use",
+      "source": "Runway",
+      "url": "https://runwayml.com/news/company-news/runway-claude-motion",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -372,240 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
           },
           {
             "t": "p",
-            "x": "KeyShot 2026은 렌더링 결과물을 다듬고 워크플로를 줄이려고 AI를 꾸준히 받아들인다. Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능은 편집과 업스케일링까지 되는 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery다."
+            "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 작업물 속 텍스트, 차트, 도형, 이미지를 엮어 짧은 애니메이션 설명 영상을 만든다. 만든 애니메이션은 무엇이든 Runway로 내보내 생성 영상을 더하고 편집을 마칠 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
           },
           {
             "t": "p",
-            "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 고친다. 이제는 훨씬 짧은 프롬프트로도 돌아간다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+            "x": "Claude에 분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꿔 달라거나 이사회 자료의 차트에 움직임을 넣어 달라고 하면 된다. Claude가 콘텐츠를 움직이는 코드를 쓰면 결과물은 짧은 영상처럼 재생된다. 직접 손보거나 대화로 고칠 수 있고 MP4로 내려받아도 된다."
           },
           {
             "t": "p",
-            "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트해 보니 AI Shots는 한 번도 멈추지 않았다. 다만 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 엉뚱하게 읽을 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-            "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+            "x": "더 손볼 곳이 있으면 Runway로 내보내면 된다. 거기서 새 영상과 이미지를 만들고 바꿀 점을 설명해 클립을 고친다. Runway Agent를 쓰면 애니메이션을 중심에 둔 더 긴 편집본도 꾸릴 수 있다."
           },
           {
             "t": "p",
-            "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 사실상 제품 시각화 전용으로 설계됐다."
+            "x": "Runway는 이런 쓰임을 제안한다. 움직이는 수치에 참조 사진 한 장으로 생성한 제품 컷을 붙인 출시 영상, 고객이 나오는 생성 장면을 넣은 온보딩 안내 영상, 음성 해설과 음악을 입힌 전사 회의 업데이트가 있다. 16:9 설명 영상을 애니메이션을 다시 만들지 않고 세로·정사각형 포맷으로 넓히거나 현지화하는 데도 쓴다."
           }
         ]
       },
-      "lead_image": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX.jpg",
       "text": {
         "en": {
-          "headline": "KeyShot 2026 puts generative\nAI inside product rendering",
-          "body": "Creative Bloq's review finds KeyShot 2026's AI Shots bring generative AI straight into the product-rendering workflow.",
-          "mini_headline": "KeyShot 2026 adds AI Shots",
+          "headline": "Runway now takes\nClaude Motion explainers",
+          "body": "Claude Motion explainers now export into Runway for generated footage, voiceover, music and channel reformatting.",
+          "mini_headline": "Runway adds Claude Motion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "Image credit: 3D model produced by KeyShot"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026 continues to embrace AI to improve rendered output and simplify workflows, and Creative Bloq finds it easier to use and faster than ever. New features include more realistic AI output through AI Shots, now with editing and upscaling, an upgraded Move Tool + Custom Pivot and an all-new Gallery."
+                "x": "Anthropic is launching Claude Motion with Runway as a launch partner. Claude Motion turns a prompt into a short animated explainer built from the text, charts, shapes and images in your own work, and any animation can be exported to Runway to add generated footage and finish the edit. It is in beta on Claude Team and Enterprise plans."
               },
               {
                 "t": "p",
-                "x": "AI Shots, KeyShot's generative AI workflow introduced in 2025.2, can generate images from a CAD model or edit an existing image, and now works with much shorter prompts. Its upscaler can double or quadruple the resolution of both traditional renderings and AI Shots."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "Image credit: 3D model produced by KeyShot"
+                "x": "Ask Claude to turn a quarterly report into a 30-second all-hands explainer or animate a chart in a board deck. Claude writes the code that animates your content; the result plays like a short video you can adjust, revise through conversation or download as an MP4."
               },
               {
                 "t": "p",
-                "x": "Tested on a 16GB MacBook Pro (32GB is recommended), AI Shots never crashed, but some prompts took upwards of five minutes and it sometimes misinterpreted prompts. It also needs a download of near 20GB of AI data."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "Image credit: 3D model produced by KeyShot"
+                "x": "When an explainer needs more, export it to Runway to generate new video and images, edit clips by describing the change, and use Runway Agent to assemble a longer cut around the animation."
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional costs $108.25 per month, billed annually at $1,299; KeyShot Business costs $133.25 per month ($1,599 annually). KeyShot is designed almost exclusively for product visualisation."
+                "x": "Runway suggests launch videos that pair animated stats with product shots generated from one reference photo, onboarding walkthroughs with generated scenes of customers, all-hands updates with added voiceover and music, and 16:9 explainers expanded into vertical and square formats or localized without rebuilding the animation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
-          "body": "KeyShot 2026은 AI Shots로 렌더링 작업에 생성형 AI를 들였다.",
-          "mini_headline": "KeyShot 2026, AI Shots 추가",
+          "headline": "Claude Motion\n설명 영상 Runway로",
+          "body": "Claude Motion으로 만든 설명 영상을 Runway에서 이어 다듬는다.",
+          "mini_headline": "Runway, Claude Motion 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026은 렌더링 결과물을 다듬고 워크플로를 줄이려고 AI를 꾸준히 받아들인다. Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능은 편집과 업스케일링까지 되는 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery다."
+                "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 작업물 속 텍스트, 차트, 도형, 이미지를 엮어 짧은 애니메이션 설명 영상을 만든다. 만든 애니메이션은 무엇이든 Runway로 내보내 생성 영상을 더하고 편집을 마칠 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
               },
               {
                 "t": "p",
-                "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 고친다. 이제는 훨씬 짧은 프롬프트로도 돌아간다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "x": "Claude에 분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꿔 달라거나 이사회 자료의 차트에 움직임을 넣어 달라고 하면 된다. Claude가 콘텐츠를 움직이는 코드를 쓰면 결과물은 짧은 영상처럼 재생된다. 직접 손보거나 대화로 고칠 수 있고 MP4로 내려받아도 된다."
               },
               {
                 "t": "p",
-                "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트해 보니 AI Shots는 한 번도 멈추지 않았다. 다만 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 엉뚱하게 읽을 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "x": "더 손볼 곳이 있으면 Runway로 내보내면 된다. 거기서 새 영상과 이미지를 만들고 바꿀 점을 설명해 클립을 고친다. Runway Agent를 쓰면 애니메이션을 중심에 둔 더 긴 편집본도 꾸릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 사실상 제품 시각화 전용으로 설계됐다."
+                "x": "Runway는 이런 쓰임을 제안한다. 움직이는 수치에 참조 사진 한 장으로 생성한 제품 컷을 붙인 출시 영상, 고객이 나오는 생성 장면을 넣은 온보딩 안내 영상, 음성 해설과 음악을 입힌 전사 회의 업데이트가 있다. 16:9 설명 영상을 애니메이션을 다시 만들지 않고 세로·정사각형 포맷으로 넓히거나 현지화하는 데도 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KeyShot 2026、\n生成AIを製品レンダリングに",
-          "body": "KeyShot 2026のAI Shotsは生成AIをレンダリング工程に直結させた。",
-          "mini_headline": "KeyShot 2026にAI Shots",
+          "headline": "Claude Motion\nの動画をRunwayへ",
+          "body": "Claude Motionの解説動画をRunwayで仕上げ、映像や音楽を加えられる。",
+          "mini_headline": "RunwayがClaude Motionに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026は、レンダリング結果の向上とワークフローの簡素化に向けて引き続きAIを取り入れており、Creative Bloqはこれまでになく使いやすく速いと評価する。新機能には、編集とアップスケーリングに対応したAI ShotsによるよりリアルなAI出力、強化されたMove Tool + Custom Pivot、まったく新しいGalleryがある。"
+                "x": "AnthropicはRunwayをローンチパートナーに迎え、Claude Motionを提供する。Claude Motionはプロンプトから、ユーザー自身の資料にあるテキスト、チャート、図形、画像を使って短いアニメーション解説動画を作る。どのアニメーションもRunwayに書き出して生成映像を加え、編集を仕上げられる。Claude TeamとEnterpriseプランでベータ版として提供される。"
               },
               {
                 "t": "p",
-                "x": "AI ShotsはKeyShotが2025.2で導入した生成AIワークフローで、CADモデルから画像を生成したり既存の画像を編集したりでき、現在ははるかに短いプロンプトでも機能する。アップスケーラーは従来のレンダリングとAI Shotsの両方の解像度を二倍または四倍にできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "x": "四半期報告書を30秒の全社会議向け解説動画にしたり、取締役会資料のチャートを動かしたりするようClaudeに頼めばよい。Claudeがコンテンツを動かすコードを書き、結果は短い動画のように再生される。調整や対話での修正ができ、MP4としてダウンロードすることもできる。"
               },
               {
                 "t": "p",
-                "x": "16GBのMacBook Pro(推奨は32GB)でテストしたところ、AI Shotsは一度もクラッシュしなかったが、プロンプトによっては五分以上かかり、プロンプトを読み違えることもあった。また、20GB近いAIデータのダウンロードも必要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "x": "解説動画にさらに手を加えたいときはRunwayに書き出し、新しい映像や画像を生成したり、変更点を言葉で説明してクリップを編集したり、Runway Agentでアニメーションを軸にした長尺の編集版を組み立てたりできる。"
               },
               {
                 "t": "p",
-                "x": "KeyShot Professionalは月額$108.25(年額$1,299の一括請求)、KeyShot Businessは月額$133.25(年額$1,599)だ。KeyShotはほぼ製品ビジュアライゼーション専用に設計されている。"
+                "x": "Runwayが提案する用途は、動くデータと1枚の参照写真から生成した製品ショットを組み合わせたローンチ動画、顧客の生成シーンを使ったオンボーディング解説、ナレーションと音楽を加えた全社会議の報告、そしてアニメーションを作り直さずに16:9の解説動画を縦型や正方形に広げたりローカライズしたりする使い方だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KeyShot 2026\n把生成式AI带入产品渲染",
-          "body": "KeyShot 2026的AI Shots将生成式AI直接引入产品渲染流程。",
-          "mini_headline": "KeyShot 2026新增AI Shots",
+          "headline": "Claude Motion\n解说视频可导入Runway",
+          "body": "Claude Motion解说视频现可导出至Runway，添加生成画面、配音和音乐。",
+          "mini_headline": "Runway支持Claude Motion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026继续拥抱AI，以提升渲染效果并简化工作流程，Creative Bloq认为它比以往更易用、更快。新功能包括：借助AI Shots获得更逼真的AI输出，且现在支持编辑与放大；升级的Move Tool + Custom Pivot；以及全新的Gallery。"
+                "x": "Anthropic推出Claude Motion，Runway为首发合作伙伴。Claude Motion可根据提示词，利用用户自有材料中的文字、图表、形状和图片生成简短的动画解说视频，任何动画都可导出至Runway，添加生成画面并完成剪辑。该功能以测试版形式向Claude Team和Enterprise方案提供。"
               },
               {
                 "t": "p",
-                "x": "AI Shots是KeyShot在2025.2中推出的生成式AI工作流程，可以从CAD模型生成图像或编辑现有图像，现在用短得多的提示词也能工作。其放大功能可将传统渲染图和AI Shots图像的分辨率提升至两倍或四倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "x": "可以让Claude把季度报告做成30秒的全员大会解说视频，或让董事会演示文稿中的图表动起来。Claude会编写让内容动起来的代码，成品像一段短视频那样播放，可以直接调整、通过对话修改，或下载为MP4。"
               },
               {
                 "t": "p",
-                "x": "在16GB的MacBook Pro（推荐32GB）上测试时，AI Shots从未崩溃，但部分提示词耗时超过五分钟，有时还会误解提示词。它还需要下载近20GB的AI数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "x": "如果解说视频还需要更多内容，可导出至Runway生成新的视频和图片，用文字描述修改来剪辑片段，并用Runway Agent围绕动画组装更长的版本。"
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional每月$108.25，按年计费$1,299；KeyShot Business每月$133.25（每年$1,599）。KeyShot几乎专为产品可视化而设计。"
+                "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "KeyShot 2026 integra la AI\ngenerativa en el renderizado",
-          "body": "Creative Bloq concluye que AI Shots de KeyShot 2026 lleva la AI generativa directamente al flujo de renderizado.",
-          "mini_headline": "KeyShot 2026 añade AI Shots",
+          "headline": "Runway ya integra los videos\nexplicativos de Claude Motion",
+          "body": "Los videos de Claude Motion ya se exportan a Runway para añadir metraje generado, voz, música y nuevos formatos.",
+          "mini_headline": "Runway incorpora Claude Motion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026 sigue apostando por la AI para mejorar los resultados del renderizado y simplificar los flujos de trabajo, y Creative Bloq lo encuentra más fácil de usar y más rápido que nunca. Entre las novedades figuran resultados de AI más realistas con AI Shots, que ahora permite editar y escalar, una versión mejorada de Move Tool + Custom Pivot y una Gallery completamente nueva."
+                "x": "Anthropic lanza Claude Motion con Runway como socio de lanzamiento. Claude Motion convierte una instrucción en un breve video explicativo animado a partir de los textos, gráficos, formas e imágenes del propio trabajo del usuario, y cualquier animación puede exportarse a Runway para añadir metraje generado y terminar la edición. Está en beta en los planes Claude Team y Enterprise."
               },
               {
                 "t": "p",
-                "x": "AI Shots, el flujo de trabajo de AI generativa que KeyShot introdujo en 2025.2, puede generar imágenes a partir de un modelo CAD o editar una imagen existente, y ahora funciona con instrucciones mucho más cortas. Su escalador puede duplicar o cuadruplicar la resolución tanto de los renderizados tradicionales como de AI Shots."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "x": "Se le puede pedir a Claude que convierta un informe trimestral en un explicativo de 30 segundos para una reunión general o que anime un gráfico de una presentación para el consejo. Claude escribe el código que anima el contenido; el resultado se reproduce como un video corto que se puede ajustar, revisar conversando o descargar como MP4."
               },
               {
                 "t": "p",
-                "x": "En las pruebas en un MacBook Pro de 16GB (se recomiendan 32GB), AI Shots nunca se bloqueó, pero algunas instrucciones tardaron más de cinco minutos y a veces las interpretó mal. Además, requiere descargar cerca de 20GB de datos de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "x": "Cuando un explicativo necesita más, se exporta a Runway para generar nuevos videos e imágenes, editar clips describiendo el cambio y usar Runway Agent para montar una versión más larga en torno a la animación."
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional cuesta $108.25 al mes, con facturación anual de $1,299; KeyShot Business cuesta $133.25 al mes ($1,599 al año). KeyShot está diseñado casi exclusivamente para la visualización de productos."
+                "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
               }
             ]
           }
@@ -613,165 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "KeyShot 2026,\n렌더링에 생성형 AI",
-          "body": "KeyShot 2026의 AI Shots는 생성형 AI를 렌더링 작업에 들였다.",
-          "mini_headline": "KeyShot 2026, AI Shots 추가",
+          "headline": "Claude Motion\n설명 영상 Runway로",
+          "body": "Claude Motion 설명 영상을 Runway에서 이어 편집한다.",
+          "mini_headline": "Runway, Claude Motion 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026은 렌더링 결과물을 개선하고 워크플로를 단순화하려고 AI를 계속 받아들이고 있으며, Creative Bloq은 어느 때보다 쓰기 쉽고 빠르다고 평가했다. 새 기능으로는 편집과 업스케일링을 지원하게 된 AI Shots의 더 사실적인 AI 결과물, 개선된 Move Tool + Custom Pivot, 완전히 새로워진 Gallery가 있다."
+                "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 사용자의 작업물에 담긴 텍스트, 차트, 도형, 이미지를 활용해 짧은 애니메이션 설명 영상을 만든다. 어떤 애니메이션이든 Runway로 내보내 생성 영상을 더하고 편집을 마무리할 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
               },
               {
                 "t": "p",
-                "x": "AI Shots는 KeyShot이 2025.2에서 선보인 생성형 AI 워크플로로, CAD 모델에서 이미지를 만들거나 기존 이미지를 편집할 수 있고 이제 훨씬 짧은 프롬프트로도 작동한다. 업스케일러는 기존 렌더링과 AI Shots 모두의 해상도를 두 배 또는 네 배로 높인다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "x": "분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꾸거나 이사회 자료의 차트를 움직이게 해 달라고 Claude에 요청하면 된다. Claude가 콘텐츠를 움직이는 코드를 작성하고, 결과물은 짧은 영상처럼 재생된다. 직접 조정하거나 대화로 고칠 수 있고 MP4로 내려받을 수도 있다."
               },
               {
                 "t": "p",
-                "x": "16GB MacBook Pro(권장 사양은 32GB)에서 테스트한 결과 AI Shots는 한 번도 멈추지 않았지만, 일부 프롬프트는 오 분 넘게 걸렸고 프롬프트를 잘못 해석할 때도 있었다. 20GB 가까운 AI 데이터도 내려받아야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "이미지 출처: KeyShot이 제작한 3D 모델"
+                "x": "설명 영상에 더 손을 대야 한다면 Runway로 내보내 새 영상과 이미지를 생성하고, 바꿀 점을 설명해 클립을 편집하며, Runway Agent로 애니메이션을 중심에 둔 더 긴 편집본을 꾸릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional은 월 $108.25로 연 $1,299가 한 번에 청구되고, KeyShot Business는 월 $133.25(연 $1,599)다. KeyShot은 거의 제품 시각화만을 위해 설계됐다."
+                "x": "Runway가 제안하는 활용 예는 이렇다. 움직이는 수치와 참조 사진 한 장으로 생성한 제품 컷을 짝지은 출시 영상, 고객이 등장하는 생성 장면을 담은 온보딩 안내 영상, 음성 해설과 음악을 더한 전사 회의 업데이트, 그리고 애니메이션을 다시 만들지 않고 16:9 설명 영상을 세로·정사각형 포맷으로 넓히거나 현지화하는 방식이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KeyShot 2026、\n生成AIを製品レンダリングに",
-          "body": "KeyShot 2026のAI Shotsは生成AIをレンダリング工程に直結させた。",
-          "mini_headline": "KeyShot 2026にAI Shots",
+          "headline": "Claude Motion\nの動画をRunwayへ",
+          "body": "Claude Motionの解説動画をRunwayで仕上げ、映像や音楽を加えられる。",
+          "mini_headline": "RunwayがClaude Motionに対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026は、レンダリング結果の向上とワークフローの簡素化に向けて引き続きAIを取り入れており、Creative Bloqはこれまでになく使いやすく速いと評価する。新機能には、編集とアップスケーリングに対応したAI ShotsによるよりリアルなAI出力、強化されたMove Tool + Custom Pivot、まったく新しいGalleryがある。"
+                "x": "AnthropicはRunwayをローンチパートナーに迎え、Claude Motionを提供する。Claude Motionはプロンプトから、ユーザー自身の資料にあるテキスト、チャート、図形、画像を使って短いアニメーション解説動画を作る。どのアニメーションもRunwayに書き出して生成映像を加え、編集を仕上げられる。Claude TeamとEnterpriseプランでベータ版として提供される。"
               },
               {
                 "t": "p",
-                "x": "AI ShotsはKeyShotが2025.2で導入した生成AIワークフローで、CADモデルから画像を生成したり既存の画像を編集したりでき、現在ははるかに短いプロンプトでも機能する。アップスケーラーは従来のレンダリングとAI Shotsの両方の解像度を二倍または四倍にできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "x": "四半期報告書を30秒の全社会議向け解説動画にしたり、取締役会資料のチャートを動かしたりするようClaudeに頼めばよい。Claudeがコンテンツを動かすコードを書き、結果は短い動画のように再生される。調整や対話での修正ができ、MP4としてダウンロードすることもできる。"
               },
               {
                 "t": "p",
-                "x": "16GBのMacBook Pro(推奨は32GB)でテストしたところ、AI Shotsは一度もクラッシュしなかったが、プロンプトによっては五分以上かかり、プロンプトを読み違えることもあった。また、20GB近いAIデータのダウンロードも必要だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "画像クレジット：KeyShotが制作した3Dモデル"
+                "x": "解説動画にさらに手を加えたいときはRunwayに書き出し、新しい映像や画像を生成したり、変更点を言葉で説明してクリップを編集したり、Runway Agentでアニメーションを軸にした長尺の編集版を組み立てたりできる。"
               },
               {
                 "t": "p",
-                "x": "KeyShot Professionalは月額$108.25(年額$1,299の一括請求)、KeyShot Businessは月額$133.25(年額$1,599)だ。KeyShotはほぼ製品ビジュアライゼーション専用に設計されている。"
+                "x": "Runwayが提案する用途は、動くデータと1枚の参照写真から生成した製品ショットを組み合わせたローンチ動画、顧客の生成シーンを使ったオンボーディング解説、ナレーションと音楽を加えた全社会議の報告、そしてアニメーションを作り直さずに16:9の解説動画を縦型や正方形に広げたりローカライズしたりする使い方だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KeyShot 2026\n把生成式AI带入产品渲染",
-          "body": "KeyShot 2026的AI Shots将生成式AI直接引入产品渲染流程。",
-          "mini_headline": "KeyShot 2026新增AI Shots",
+          "headline": "Claude Motion\n解说视频可导入Runway",
+          "body": "Claude Motion解说视频现可导出至Runway，添加生成画面、配音和音乐。",
+          "mini_headline": "Runway支持Claude Motion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026继续拥抱AI，以提升渲染效果并简化工作流程，Creative Bloq认为它比以往更易用、更快。新功能包括：借助AI Shots获得更逼真的AI输出，且现在支持编辑与放大；升级的Move Tool + Custom Pivot；以及全新的Gallery。"
+                "x": "Anthropic推出Claude Motion，Runway为首发合作伙伴。Claude Motion可根据提示词，利用用户自有材料中的文字、图表、形状和图片生成简短的动画解说视频，任何动画都可导出至Runway，添加生成画面并完成剪辑。该功能以测试版形式向Claude Team和Enterprise方案提供。"
               },
               {
                 "t": "p",
-                "x": "AI Shots是KeyShot在2025.2中推出的生成式AI工作流程，可以从CAD模型生成图像或编辑现有图像，现在用短得多的提示词也能工作。其放大功能可将传统渲染图和AI Shots图像的分辨率提升至两倍或四倍。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "x": "可以让Claude把季度报告做成30秒的全员大会解说视频，或让董事会演示文稿中的图表动起来。Claude会编写让内容动起来的代码，成品像一段短视频那样播放，可以直接调整、通过对话修改，或下载为MP4。"
               },
               {
                 "t": "p",
-                "x": "在16GB的MacBook Pro（推荐32GB）上测试时，AI Shots从未崩溃，但部分提示词耗时超过五分钟，有时还会误解提示词。它还需要下载近20GB的AI数据。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "图片来源：KeyShot制作的3D模型"
+                "x": "如果解说视频还需要更多内容，可导出至Runway生成新的视频和图片，用文字描述修改来剪辑片段，并用Runway Agent围绕动画组装更长的版本。"
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional每月$108.25，按年计费$1,299；KeyShot Business每月$133.25（每年$1,599）。KeyShot几乎专为产品可视化而设计。"
+                "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
               }
             ]
           }
         },
         "es": {
-          "headline": "KeyShot 2026 integra la AI\ngenerativa en el renderizado",
-          "body": "Creative Bloq concluye que AI Shots de KeyShot 2026 lleva la AI generativa directamente al flujo de renderizado.",
-          "mini_headline": "KeyShot 2026 añade AI Shots",
+          "headline": "Runway ya integra los videos\nexplicativos de Claude Motion",
+          "body": "Los videos de Claude Motion ya se exportan a Runway para añadir metraje generado, voz, música y nuevos formatos.",
+          "mini_headline": "Runway incorpora Claude Motion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Wiazc2RkJ5yXNeZL3GWPTX-2560-80.jpg",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
               },
               {
                 "t": "p",
-                "x": "KeyShot 2026 sigue apostando por la AI para mejorar los resultados del renderizado y simplificar los flujos de trabajo, y Creative Bloq lo encuentra más fácil de usar y más rápido que nunca. Entre las novedades figuran resultados de AI más realistas con AI Shots, que ahora permite editar y escalar, una versión mejorada de Move Tool + Custom Pivot y una Gallery completamente nueva."
+                "x": "Anthropic lanza Claude Motion con Runway como socio de lanzamiento. Claude Motion convierte una instrucción en un breve video explicativo animado a partir de los textos, gráficos, formas e imágenes del propio trabajo del usuario, y cualquier animación puede exportarse a Runway para añadir metraje generado y terminar la edición. Está en beta en los planes Claude Team y Enterprise."
               },
               {
                 "t": "p",
-                "x": "AI Shots, el flujo de trabajo de AI generativa que KeyShot introdujo en 2025.2, puede generar imágenes a partir de un modelo CAD o editar una imagen existente, y ahora funciona con instrucciones mucho más cortas. Su escalador puede duplicar o cuadruplicar la resolución tanto de los renderizados tradicionales como de AI Shots."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/tXVbmWNL4xqUkemT6JprAA-1024-80.png",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "x": "Se le puede pedir a Claude que convierta un informe trimestral en un explicativo de 30 segundos para una reunión general o que anime un gráfico de una presentación para el consejo. Claude escribe el código que anima el contenido; el resultado se reproduce como un video corto que se puede ajustar, revisar conversando o descargar como MP4."
               },
               {
                 "t": "p",
-                "x": "En las pruebas en un MacBook Pro de 16GB (se recomiendan 32GB), AI Shots nunca se bloqueó, pero algunas instrucciones tardaron más de cinco minutos y a veces las interpretó mal. Además, requiere descargar cerca de 20GB de datos de AI."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/itzQpTKvcFJypnvg8mxCAA-1024-80.png",
-                "cap": "Crédito de la imagen: modelo 3D producido por KeyShot"
+                "x": "Cuando un explicativo necesita más, se exporta a Runway para generar nuevos videos e imágenes, editar clips describiendo el cambio y usar Runway Agent para montar una versión más larga en torno a la animación."
               },
               {
                 "t": "p",
-                "x": "KeyShot Professional cuesta $108.25 al mes, con facturación anual de $1,299; KeyShot Business cuesta $133.25 al mes ($1,599 al año). KeyShot está diseñado casi exclusivamente para la visualización de productos."
+                "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
               }
             ]
           }
@@ -779,15 +315,327 @@
       }
     },
     {
-      "id": "design-free-ai-creative-cloud",
+      "id": "aws-physical-ai-toolchain",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Creative Cloud\nAI로 재현해 무료 공개",
-      "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
-      "mini_headline": "Creative Cloud, 무료로 재탄생",
+      "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
+      "body": "AWS가 참조 아키텍처까지 담은 Physical AI 툴체인을 오픈소스로 공개했다.",
+      "mini_headline": "AWS 피지컬 AI 툴체인",
+      "tool": "Text-to-CAD",
+      "source": "Engineering.com",
+      "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Amazon Web Services가 AWS 인프라에 NVIDIA 로보틱스 소프트웨어를 묶은 오픈소스 툴체인을 선보였다. 피지컬 AI 시스템을 개발하고 학습시키고 시뮬레이션해 배포하는 과정을 돕는다. 로봇 데이터 수집에서 실제 하드웨어 배포까지 필요한 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 갖췄다."
+          },
+          {
+            "t": "p",
+            "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos로 이뤄지며 NVIDIA OSMO가 이들을 오케스트레이션한다. 실행 기반은 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원한다. 예시 하나는 Isaac GR00T에 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 쓴다."
+          },
+          {
+            "t": "p",
+            "x": "피지컬 AI 개발사로는 NEURA Robotics, RLWRLD, Config가 이름을 올렸다. Amazon은 이 툴체인을 쓰면 제조업체가 피지컬 AI 기능을 수년이 아니라 수주 만에 내놓을 수 있다고 밝혔다. 회사 측 기대일 뿐 독립적으로 검증된 결과는 아니다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AWS open-sources a\nphysical AI toolchain",
+          "body": "AWS released an open-source Physical AI toolchain with reference architectures for simulation, training and deployment.",
+          "mini_headline": "AWS physical AI toolchain",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services has introduced an open-source toolchain that combines AWS infrastructure with NVIDIA robotics software to support the development, training, simulation and deployment of physical AI systems. It provides reference architectures, infrastructure-as-code resources and deployment automation, from collecting robot data to deploying on physical hardware."
+              },
+              {
+                "t": "p",
+                "x": "“We built the Physical AI Toolchain on AWS because customers told us that too much of their engineering effort was going to infrastructure instead of innovation,” said Uwem Ukpong, vice president of AWS Industries."
+              },
+              {
+                "t": "p",
+                "x": "Components include NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T and Cosmos, orchestrated with NVIDIA OSMO, running on Amazon SageMaker, EC2 GPU instances, S3 and AWS IoT Greengrass. It supports PyTorch, Hugging Face, ROS 2, LeRobot, URDF and ONNX; one example uses Isaac GR00T and 27 episodes of UR3 pick-and-place teleoperation data."
+              },
+              {
+                "t": "p",
+                "x": "NEURA Robotics, RLWRLD and Config are named as companies working on physical AI. Amazon says the toolchain should help manufacturers launch physical AI capabilities in weeks rather than years — its stated expectation, not an independently verified result."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
+          "body": "AWS가 참조 아키텍처까지 담은 Physical AI 툴체인을 오픈소스로 공개했다.",
+          "mini_headline": "AWS 피지컬 AI 툴체인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services가 AWS 인프라에 NVIDIA 로보틱스 소프트웨어를 묶은 오픈소스 툴체인을 선보였다. 피지컬 AI 시스템을 개발하고 학습시키고 시뮬레이션해 배포하는 과정을 돕는다. 로봇 데이터 수집에서 실제 하드웨어 배포까지 필요한 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 갖췄다."
+              },
+              {
+                "t": "p",
+                "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos로 이뤄지며 NVIDIA OSMO가 이들을 오케스트레이션한다. 실행 기반은 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원한다. 예시 하나는 Isaac GR00T에 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 쓴다."
+              },
+              {
+                "t": "p",
+                "x": "피지컬 AI 개발사로는 NEURA Robotics, RLWRLD, Config가 이름을 올렸다. Amazon은 이 툴체인을 쓰면 제조업체가 피지컬 AI 기능을 수년이 아니라 수주 만에 내놓을 수 있다고 밝혔다. 회사 측 기대일 뿐 독립적으로 검증된 결과는 아니다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AWSがフィジカルAI\nツールチェーンを公開",
+          "body": "AWSが参照設計付きのオープンソースPhysical AIツールチェーンを公開した。",
+          "mini_headline": "AWSのフィジカルAIツールチェーン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Servicesは、AWSのインフラとNVIDIAのロボティクスソフトウェアを組み合わせ、フィジカルAIシステムの開発、学習、シミュレーション、配備を支えるオープンソースのツールチェーンを発表した。ロボットのデータ収集から実機への配備まで、リファレンスアーキテクチャ、infrastructure-as-codeのリソース、配備の自動化を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "AWS Industriesのバイスプレジデント、Uwem Ukpong氏は「エンジニアリングの労力があまりにも多く、イノベーションではなくインフラに費やされていると顧客から聞いたため、AWS上にPhysical AI Toolchainを構築した」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "構成要素はNVIDIA Isaac Sim、Isaac Lab、Isaac GR00T、Cosmosで、NVIDIA OSMOがオーケストレーションを担い、Amazon SageMaker、EC2 GPUインスタンス、S3、AWS IoT Greengrass上で動く。PyTorch、Hugging Face、ROS 2、LeRobot、URDF、ONNXに対応し、ある例ではIsaac GR00TとUR3のpick-and-place遠隔操作データ27エピソードを使っている。"
+              },
+              {
+                "t": "p",
+                "x": "フィジカルAIに取り組む企業としてNEURA Robotics、RLWRLD、Configの名が挙がっている。Amazonは、このツールチェーンによって製造業者がフィジカルAI機能を数年ではなく数週間で立ち上げられるとしている。これは同社が示した見通しであり、独立して検証された結果ではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AWS开源一套\n物理AI工具链",
+          "body": "AWS发布开源Physical AI工具链，提供面向仿真、训练和部署的参考架构。",
+          "mini_headline": "AWS物理AI工具链",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services推出一套开源工具链，将AWS基础设施与NVIDIA机器人软件相结合，支持物理AI系统的开发、训练、仿真和部署。它提供参考架构、infrastructure-as-code（基础设施即代码）资源和部署自动化，覆盖从采集机器人数据到在实体硬件上部署的全过程。"
+              },
+              {
+                "t": "p",
+                "x": "AWS Industries副总裁Uwem Ukpong表示：“我们在AWS上打造Physical AI Toolchain，是因为客户告诉我们，他们太多的工程精力花在了基础设施上，而不是创新上。”"
+              },
+              {
+                "t": "p",
+                "x": "组件包括NVIDIA Isaac Sim、Isaac Lab、Isaac GR00T和Cosmos，由NVIDIA OSMO编排，运行在Amazon SageMaker、EC2 GPU实例、S3和AWS IoT Greengrass之上。它支持PyTorch、Hugging Face、ROS 2、LeRobot、URDF和ONNX；其中一个示例使用了Isaac GR00T和27个UR3 pick-and-place遥操作数据片段。"
+              },
+              {
+                "t": "p",
+                "x": "NEURA Robotics、RLWRLD和Config被列为正在开发物理AI的公司。Amazon称，这套工具链有望帮助制造商在数周而非数年内推出物理AI能力——这是该公司表达的预期，并非经独立验证的结果。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AWS publica en código abierto\nherramientas de IA física",
+          "body": "AWS liberó su toolchain de Physical AI, con arquitecturas de referencia para simular, entrenar y desplegar.",
+          "mini_headline": "La toolchain de Physical AI de AWS",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services presentó una cadena de herramientas de código abierto que combina la infraestructura de AWS con software de robótica de NVIDIA para apoyar el desarrollo, el entrenamiento, la simulación y el despliegue de sistemas de IA física (physical AI). Ofrece arquitecturas de referencia, recursos de infrastructure-as-code y automatización del despliegue, desde la recopilación de datos del robot hasta la implementación en hardware físico."
+              },
+              {
+                "t": "p",
+                "x": "“Creamos la Physical AI Toolchain en AWS porque los clientes nos dijeron que demasiado de su esfuerzo de ingeniería se iba en infraestructura en lugar de innovación”, dijo Uwem Ukpong, vicepresidente de AWS Industries."
+              },
+              {
+                "t": "p",
+                "x": "Entre sus componentes están NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T y Cosmos, orquestados con NVIDIA OSMO y ejecutados en Amazon SageMaker, instancias EC2 GPU, S3 y AWS IoT Greengrass. Es compatible con PyTorch, Hugging Face, ROS 2, LeRobot, URDF y ONNX; un ejemplo usa Isaac GR00T y 27 episodios de datos de teleoperación pick-and-place de un UR3."
+              },
+              {
+                "t": "p",
+                "x": "NEURA Robotics, RLWRLD y Config figuran como empresas que trabajan en IA física. Amazon afirma que la cadena de herramientas debería ayudar a los fabricantes a lanzar capacidades de IA física en semanas en lugar de años; es su expectativa declarada, no un resultado verificado de forma independiente."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
+          "body": "AWS가 참조 아키텍처를 담은 오픈소스 Physical AI 툴체인을 공개했다.",
+          "mini_headline": "AWS 피지컬 AI 툴체인",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services가 AWS 인프라와 NVIDIA 로보틱스 소프트웨어를 결합해 피지컬 AI 시스템의 개발, 학습, 시뮬레이션, 배포를 돕는 오픈소스 툴체인을 선보였다. 로봇 데이터 수집부터 실제 하드웨어 배포까지 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "구성 요소는 NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos이며, NVIDIA OSMO가 이를 오케스트레이션하고 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass 위에서 돌아간다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원하며, 한 예시는 Isaac GR00T와 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 사용한다."
+              },
+              {
+                "t": "p",
+                "x": "피지컬 AI를 개발하는 기업으로 NEURA Robotics, RLWRLD, Config가 거론됐다. Amazon은 이 툴체인으로 제조업체가 피지컬 AI 기능을 수년이 아닌 수주 만에 출시할 수 있을 것이라고 밝혔다. 이는 회사가 밝힌 기대일 뿐 독립적으로 검증한 결과는 아니다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AWSがフィジカルAI\nツールチェーンを公開",
+          "body": "AWSが参照設計付きのオープンソースPhysical AIツールチェーンを公開した。",
+          "mini_headline": "AWSのフィジカルAIツールチェーン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Servicesは、AWSのインフラとNVIDIAのロボティクスソフトウェアを組み合わせ、フィジカルAIシステムの開発、学習、シミュレーション、配備を支えるオープンソースのツールチェーンを発表した。ロボットのデータ収集から実機への配備まで、リファレンスアーキテクチャ、infrastructure-as-codeのリソース、配備の自動化を提供する。"
+              },
+              {
+                "t": "p",
+                "x": "AWS Industriesのバイスプレジデント、Uwem Ukpong氏は「エンジニアリングの労力があまりにも多く、イノベーションではなくインフラに費やされていると顧客から聞いたため、AWS上にPhysical AI Toolchainを構築した」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "構成要素はNVIDIA Isaac Sim、Isaac Lab、Isaac GR00T、Cosmosで、NVIDIA OSMOがオーケストレーションを担い、Amazon SageMaker、EC2 GPUインスタンス、S3、AWS IoT Greengrass上で動く。PyTorch、Hugging Face、ROS 2、LeRobot、URDF、ONNXに対応し、ある例ではIsaac GR00TとUR3のpick-and-place遠隔操作データ27エピソードを使っている。"
+              },
+              {
+                "t": "p",
+                "x": "フィジカルAIに取り組む企業としてNEURA Robotics、RLWRLD、Configの名が挙がっている。Amazonは、このツールチェーンによって製造業者がフィジカルAI機能を数年ではなく数週間で立ち上げられるとしている。これは同社が示した見通しであり、独立して検証された結果ではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AWS开源一套\n物理AI工具链",
+          "body": "AWS发布开源Physical AI工具链，提供面向仿真、训练和部署的参考架构。",
+          "mini_headline": "AWS物理AI工具链",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services推出一套开源工具链，将AWS基础设施与NVIDIA机器人软件相结合，支持物理AI系统的开发、训练、仿真和部署。它提供参考架构、infrastructure-as-code（基础设施即代码）资源和部署自动化，覆盖从采集机器人数据到在实体硬件上部署的全过程。"
+              },
+              {
+                "t": "p",
+                "x": "AWS Industries副总裁Uwem Ukpong表示：“我们在AWS上打造Physical AI Toolchain，是因为客户告诉我们，他们太多的工程精力花在了基础设施上，而不是创新上。”"
+              },
+              {
+                "t": "p",
+                "x": "组件包括NVIDIA Isaac Sim、Isaac Lab、Isaac GR00T和Cosmos，由NVIDIA OSMO编排，运行在Amazon SageMaker、EC2 GPU实例、S3和AWS IoT Greengrass之上。它支持PyTorch、Hugging Face、ROS 2、LeRobot、URDF和ONNX；其中一个示例使用了Isaac GR00T和27个UR3 pick-and-place遥操作数据片段。"
+              },
+              {
+                "t": "p",
+                "x": "NEURA Robotics、RLWRLD和Config被列为正在开发物理AI的公司。Amazon称，这套工具链有望帮助制造商在数周而非数年内推出物理AI能力——这是该公司表达的预期，并非经独立验证的结果。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "AWS publica en código abierto\nherramientas de IA física",
+          "body": "AWS liberó su toolchain de Physical AI, con arquitecturas de referencia para simular, entrenar y desplegar.",
+          "mini_headline": "La toolchain de Physical AI de AWS",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Amazon Web Services presentó una cadena de herramientas de código abierto que combina la infraestructura de AWS con software de robótica de NVIDIA para apoyar el desarrollo, el entrenamiento, la simulación y el despliegue de sistemas de IA física (physical AI). Ofrece arquitecturas de referencia, recursos de infrastructure-as-code y automatización del despliegue, desde la recopilación de datos del robot hasta la implementación en hardware físico."
+              },
+              {
+                "t": "p",
+                "x": "“Creamos la Physical AI Toolchain en AWS porque los clientes nos dijeron que demasiado de su esfuerzo de ingeniería se iba en infraestructura en lugar de innovación”, dijo Uwem Ukpong, vicepresidente de AWS Industries."
+              },
+              {
+                "t": "p",
+                "x": "Entre sus componentes están NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T y Cosmos, orquestados con NVIDIA OSMO y ejecutados en Amazon SageMaker, instancias EC2 GPU, S3 y AWS IoT Greengrass. Es compatible con PyTorch, Hugging Face, ROS 2, LeRobot, URDF y ONNX; un ejemplo usa Isaac GR00T y 27 episodios de datos de teleoperación pick-and-place de un UR3."
+              },
+              {
+                "t": "p",
+                "x": "NEURA Robotics, RLWRLD y Config figuran como empresas que trabajan en IA física. Amazon afirma que la cadena de herramientas debería ayudar a los fabricantes a lanzar capacidades de IA física en semanas en lugar de años; es su expectativa declarada, no un resultado verificado de forma independiente."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "instinct-agent-handson",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Instinct·Muse\nOpenAI Dots 대결",
+      "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
+      "mini_headline": "Instinct 대 Muse·Dots",
       "tool": "AI Workflow",
-      "source": "Creative Bloq",
-      "url": "https://www.creativebloq.com/design/design-software/someone-just-rebuilt-adobe-creative-cloud-with-ai-then-gave-it-away-for-free",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -795,336 +643,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+            "cap": "Instinct 에이전트는 문자 한 통이면 늘 닿는다."
           },
           {
             "t": "p",
-            "x": "Canva와 Affinity가 Adobe를 계속 위협하는 사이, Adobe는 AI 약관과 해지 정책으로 스스로 사용자 일부를 떠나보냈다."
+            "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고 금세 AI 업계 최대 화제가 됐다. 뒤이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았다. 창업자 Noah Shinn도 흔들리지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 기업가치 100억 달러를 인정받았다."
           },
           {
             "t": "p",
-            "x": "1인 개발자 Brandon Thomas를 움직인 건 그중 해지 정책이었던 모양이다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. Hacker News에서는 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
+            "x": "Muse에는 곰 마스코트가, Dots에는 블롭이 있지만 Instinct는 iMessage, WhatsApp, 이메일로만 움직인다. 앱도 귀여운 캐릭터도 없다. 답은 짧고 실행은 많다. Google Workspace, Slack, Notion과도 연결된다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
           },
           {
             "t": "p",
-            "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
+            "x": "수영 강습은 찾았지만 선수 과목은 놓쳤다. 안과에 이메일을 보냈고 모호한 설명만으로 Ikea 반품을 시작했으며 겹치는 일정도 먼저 짚어줬다."
           },
           {
             "t": "p",
-            "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습도 떠올리기 어렵다고 본다. 한 Redditor의 말대로 Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
+            "x": "지금은 초대받은 사용자라면 무료로 쓴다. 분석가들은 상거래 비중이 이렇게 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
           }
         ]
       },
-      "lead_image": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg",
       "text": {
         "en": {
-          "headline": "A developer rebuilt Creative\nCloud with AI and gave it away",
-          "body": "A developer used Claude and Rust to rebuild Photoshop, Premiere and Illustrator clones, then gave them away for free.",
-          "mini_headline": "Creative Cloud, rebuilt free",
+          "headline": "Instinct's agent UX faces\nMuse and OpenAI's Dots",
+          "body": "The Verge tests whether Instinct, last season's buzziest AI agent, still holds up against Muse and OpenAI's Dots.",
+          "mini_headline": "Instinct vs Muse and Dots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinct’s agent is always just a text away."
               },
               {
                 "t": "p",
-                "x": "Canva and Affinity continue to give Adobe a run for its money, but Adobe itself has also pushed some users away, thanks to its AI terms and cancellation policies."
+                "x": "In August, Instinct launched its AI agent invite-only, with no marketing, and quickly became the buzziest thing in AI. Then Meta’s Muse and OpenAI’s Dots arrived. In The Verge’s testing, Instinct has held its own, and founder Noah Shinn is unfazed: “AI assistants are all we know.” The company was valued at $10 billion in late September."
               },
               {
                 "t": "p",
-                "x": "The latter apparently inspired solo developer Brandon Thomas to recreate several of Adobe's most popular tools, including Photoshop, Premiere and Illustrator, rebuilt using Claude and Rust. On Hacker News he said he \"got bit by the dark pattern \"cancellation fee\" one too many times.\""
+                "x": "Unlike Muse’s bear mascot and Dots’ blobs, Instinct works entirely over iMessage, WhatsApp or email — no app, no cute little guy, just brief replies and a lot of action, connecting to Google Workspace, Slack and Notion."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "\"I'm not just some casual vibe coder. I'm a 15-year industry veteran,\" Thomas wrote on Reddit, adding on Hacker News: \"Software is over.\""
+                "x": "It found swim lessons but missed a prerequisite class, emailed an eye doctor, started an Ikea return from a vague description, and proactively flagged a calendar conflict."
               },
               {
                 "t": "p",
-                "x": "Creative Bloq is sceptical: using AI to create a carbon copy is not as exciting as creating something new, and it's hard to imagine professional creatives placing their files, and their livelihoods, in the hands of AI-generated software. As one Redditor puts it, unproven software that vaguely looks like Photoshop is very different from dependable software maintained long-term."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Creative Cloud\nAI로 재현해 무료 공개",
-          "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
-          "mini_headline": "Creative Cloud, 무료로 재탄생",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Canva와 Affinity가 Adobe를 계속 위협하는 사이, Adobe는 AI 약관과 해지 정책으로 스스로 사용자 일부를 떠나보냈다."
-              },
-              {
-                "t": "p",
-                "x": "1인 개발자 Brandon Thomas를 움직인 건 그중 해지 정책이었던 모양이다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. Hacker News에서는 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
-              },
-              {
-                "t": "p",
-                "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습도 떠올리기 어렵다고 본다. 한 Redditor의 말대로 Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIで作り直し無料公開\nCreative Cloud",
-          "body": "ある開発者がClaudeとRustでPhotoshopなどを再現し、無料で公開した。",
-          "mini_headline": "Creative Cloudを無料で再現",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
-              },
-              {
-                "t": "p",
-                "x": "CanvaとAffinityがAdobeを脅かし続ける一方、Adobe自身もAI規約と解約ポリシーによって一部のユーザーを遠ざけてきた。"
-              },
-              {
-                "t": "p",
-                "x": "後者は、個人開発者のBrandon Thomasが、Photoshop、Premiere、IllustratorなどAdobeの人気ツールをいくつも再現するきっかけになったようだ。ツールはClaudeとRustで作り直された。彼はHacker Newsで「ダークパターンの『解約手数料』に何度も噛まれた」と述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
-              },
-              {
-                "t": "p",
-                "x": "「私はただの気軽なバイブコーダーではない。業界歴15年(15-year)のベテランだ」とThomasはRedditに書き、Hacker Newsでは「ソフトウェアは終わった」と付け加えた。"
-              },
-              {
-                "t": "p",
-                "x": "Creative Bloqは懐疑的だ。AIで複製を作ることは新しいものを生み出すほど刺激的ではなく、プロのクリエイターが自分のファイルや生計をAIが生成した(AI-generated)ソフトウェアに委ねる姿は想像しにくいという。あるRedditorが言うように、Photoshopにぼんやり似ているだけの実績のないソフトウェアは、長期にわたって保守される信頼できるソフトウェアとはまったく違う。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "开发者用AI重做\nCreative Cloud",
-          "body": "一名开发者用Claude和Rust重做Photoshop等工具，并免费公开。",
-          "mini_headline": "免费重做的Creative Cloud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Canva和Affinity持续给Adobe带来压力，而Adobe自身的AI条款和取消订阅政策也赶走了一部分用户。"
-              },
-              {
-                "t": "p",
-                "x": "后者似乎促使独立开发者Brandon Thomas用Claude和Rust重做了Adobe多款最受欢迎的工具，包括Photoshop、Premiere和Illustrator。他在Hacker News上说，自己“被‘取消费’这种暗黑模式坑了太多次”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
-              },
-              {
-                "t": "p",
-                "x": "“我可不是随便玩玩的氛围编程者。我是有15年（15-year）经验的业内老手。”Thomas在Reddit上写道，并在Hacker News上补充：“软件已经完蛋了。”"
-              },
-              {
-                "t": "p",
-                "x": "Creative Bloq对此持怀疑态度：用AI做出一模一样的复制品，远不如创造新东西令人兴奋；也很难想象专业创作者会把自己的文件乃至生计交给AI生成（AI-generated）的软件。正如一位Redditor所说，一个未经验证、只是看起来有点像Photoshop的软件，和长期维护、值得信赖的软件截然不同。"
+                "x": "It is free for invite-only users for now. Analysts expect agents this commerce-heavy to lean on advertising: “All roads in the consumer market eventually lead to advertising.”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un desarrollador rehízo con AI\nCreative Cloud y lo regaló",
-          "body": "Un desarrollador usó Claude y Rust para recrear clones de Photoshop, Premiere e Illustrator y los regaló.",
-          "mini_headline": "Creative Cloud, recreado gratis",
+          "headline": "La UX de agente de Instinct\nfrente a Muse y Dots de OpenAI",
+          "body": "The Verge prueba si Instinct, el agente de IA de moda la temporada pasada, resiste ante Muse y Dots de OpenAI.",
+          "mini_headline": "Instinct frente a Muse y Dots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "El agente de Instinct siempre está a un mensaje de distancia."
               },
               {
                 "t": "p",
-                "x": "Canva y Affinity siguen plantando cara a Adobe, pero la propia Adobe también ha alejado a algunos usuarios por sus condiciones sobre AI y sus políticas de cancelación."
+                "x": "En agosto, Instinct lanzó su agente de IA solo por invitación y sin marketing, y pronto se convirtió en lo más comentado del sector de la IA. Después llegaron Muse, de Meta, y Dots, de OpenAI. En las pruebas de The Verge, Instinct ha estado a la altura, y su fundador, Noah Shinn, no se inmuta: “Los asistentes de IA son todo lo que conocemos”. La empresa fue valorada en $10 billion (10.000 millones de dólares) a finales de septiembre."
               },
               {
                 "t": "p",
-                "x": "Al parecer, esto último llevó al desarrollador independiente Brandon Thomas a recrear varias de las herramientas más populares de Adobe, como Photoshop, Premiere e Illustrator, reconstruidas con Claude y Rust. En Hacker News dijo que lo había \"mordido el patrón oscuro de la 'tarifa de cancelación' demasiadas veces\"."
+                "x": "A diferencia de la mascota de oso de Muse y las manchas de Dots, Instinct funciona por completo a través de iMessage, WhatsApp o correo electrónico: sin app, sin un personajito simpático, solo respuestas breves y mucha acción, con conexión a Google Workspace, Slack y Notion."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "\"No soy un vibe coder cualquiera. Soy un veterano con 15 años (15-year) en la industria\", escribió Thomas en Reddit, y añadió en Hacker News: \"El software se acabó\"."
+                "x": "Encontró clases de natación, pero pasó por alto una clase previa obligatoria; envió un correo a un oftalmólogo, inició una devolución en Ikea a partir de una descripción vaga y advirtió por iniciativa propia de un conflicto en el calendario."
               },
               {
                 "t": "p",
-                "x": "Creative Bloq se muestra escéptico: usar AI para crear una copia exacta no resulta tan interesante como crear algo nuevo, y cuesta imaginar a creativos profesionales dejando sus archivos, y su sustento, en manos de software generado con AI (AI-generated). Como dice un Redditor, un software sin probar que se parece vagamente a Photoshop es muy distinto de un software fiable mantenido a largo plazo."
+                "x": "Por ahora es gratuito para los usuarios con invitación. Los analistas esperan que agentes tan centrados en el comercio se apoyen en la publicidad: “En el mercado de consumo, todos los caminos acaban llevando a la publicidad”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Instinct·Muse\nOpenAI Dots 대결",
+          "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
+          "mini_headline": "Instinct 대 Muse·Dots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinct 에이전트는 문자 한 통이면 늘 닿는다."
+              },
+              {
+                "t": "p",
+                "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고 금세 AI 업계 최대 화제가 됐다. 뒤이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았다. 창업자 Noah Shinn도 흔들리지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 기업가치 100억 달러를 인정받았다."
+              },
+              {
+                "t": "p",
+                "x": "Muse에는 곰 마스코트가, Dots에는 블롭이 있지만 Instinct는 iMessage, WhatsApp, 이메일로만 움직인다. 앱도 귀여운 캐릭터도 없다. 답은 짧고 실행은 많다. Google Workspace, Slack, Notion과도 연결된다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "수영 강습은 찾았지만 선수 과목은 놓쳤다. 안과에 이메일을 보냈고 모호한 설명만으로 Ikea 반품을 시작했으며 겹치는 일정도 먼저 짚어줬다."
+              },
+              {
+                "t": "p",
+                "x": "지금은 초대받은 사용자라면 무료로 쓴다. 분석가들은 상거래 비중이 이렇게 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Instinct対Muse・\nOpenAIのDots",
+          "body": "The VergeがInstinctをMuseとOpenAIのDotsと比べた。",
+          "mini_headline": "Instinct対MuseとDots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinctのエージェントには、いつでもテキスト一通で届く。"
+              },
+              {
+                "t": "p",
+                "x": "Instinctは8月、宣伝なしの招待制でAIエージェントを公開し、たちまちAI界で最も話題の存在になった。その後、MetaのMuseとOpenAIのDotsが登場した。The Vergeのテストでは、Instinctは引けを取らず、創業者のNoah Shinnも動じていない。「AIアシスタントこそ、私たちが知るすべてだ」。同社は9月下旬に100億ドルの評価を受けた。"
+              },
+              {
+                "t": "p",
+                "x": "Museのクマのマスコットや Dotsのブロブとは違い、InstinctはiMessage、WhatsApp、メールだけで動く。アプリも可愛いキャラクターもなく、短い返信と多くの実行があるだけで、Google Workspace、Slack、Notionと連携する。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "水泳教室を見つけたが前提となるクラスを見落とし、眼科医にメールを送り、曖昧な説明からIkeaの返品手続きを始め、予定の重複を自ら指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "現在は招待ユーザーなら無料だ。アナリストは、これほど商取引に寄ったエージェントは広告に頼ると見ている。「消費者市場のすべての道は、最終的に広告に通じる」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Instinct对决Muse\n与OpenAI的Dots",
+          "body": "The Verge测试Instinct能否抗衡Muse与OpenAI的Dots。",
+          "mini_headline": "Instinct对Muse与Dots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinct的代理始终只需一条短信即可触达。"
+              },
+              {
+                "t": "p",
+                "x": "8月，Instinct以邀请制推出AI代理，没有任何营销，很快成为AI领域最受热议的产品。随后Meta的Muse和OpenAI的Dots相继登场。在The Verge的测试中，Instinct表现不落下风，创始人Noah Shinn也毫不在意：“AI助手就是我们所熟知的一切。”公司在9月底估值达到100亿美元。"
+              },
+              {
+                "t": "p",
+                "x": "不同于Muse的小熊吉祥物和Dots的团状形象，Instinct完全通过iMessage、WhatsApp或电子邮件运作——没有应用，没有可爱的小角色，只有简短回复和大量行动，并可连接Google Workspace、Slack和Notion。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "它找到了游泳课，却漏掉了一门先修课；它给眼科医生发了邮件，凭模糊描述发起了Ikea退货，还主动提示了日程冲突。"
+              },
+              {
+                "t": "p",
+                "x": "目前受邀用户可免费使用。分析人士预计，如此偏重商业交易的代理将依赖广告：“消费市场的所有道路最终都通向广告。”"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Creative Cloud\nAI로 재현해 무료 공개",
-          "body": "한 개발자가 Claude와 Rust로 Photoshop 등을 재현해 무료로 풀었다.",
-          "mini_headline": "Creative Cloud, 무료로 재탄생",
+        "es": {
+          "headline": "La UX de agente de Instinct\nfrente a Muse y Dots de OpenAI",
+          "body": "The Verge prueba si Instinct, el agente de IA de moda la temporada pasada, resiste ante Muse y Dots de OpenAI.",
+          "mini_headline": "Instinct frente a Muse y Dots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "El agente de Instinct siempre está a un mensaje de distancia."
               },
               {
                 "t": "p",
-                "x": "Canva와 Affinity가 계속 Adobe를 위협하는 가운데, Adobe 스스로도 AI 약관과 해지 정책 탓에 일부 사용자를 떠나보냈다."
+                "x": "En agosto, Instinct lanzó su agente de IA solo por invitación y sin marketing, y pronto se convirtió en lo más comentado del sector de la IA. Después llegaron Muse, de Meta, y Dots, de OpenAI. En las pruebas de The Verge, Instinct ha estado a la altura, y su fundador, Noah Shinn, no se inmuta: “Los asistentes de IA son todo lo que conocemos”. La empresa fue valorada en $10 billion (10.000 millones de dólares) a finales de septiembre."
               },
               {
                 "t": "p",
-                "x": "그중 해지 정책이 1인 개발자 Brandon Thomas를 움직인 것으로 보인다. 그는 Photoshop, Premiere, Illustrator 등 Adobe의 인기 도구 여러 개를 Claude와 Rust로 다시 만들었다. 그는 Hacker News에서 \"다크 패턴인 '해지 수수료'에 너무 여러 번 당했다\"고 밝혔다."
+                "x": "A diferencia de la mascota de oso de Muse y las manchas de Dots, Instinct funciona por completo a través de iMessage, WhatsApp o correo electrónico: sin app, sin un personajito simpático, solo respuestas breves y mucha acción, con conexión a Google Workspace, Slack y Notion."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "\"나는 가볍게 바이브 코딩이나 하는 사람이 아니다. 업계 경력 15년(15-year)의 베테랑이다.\" Thomas는 Reddit에 이렇게 쓰고, Hacker News에는 \"소프트웨어는 끝났다\"고 덧붙였다."
+                "x": "Encontró clases de natación, pero pasó por alto una clase previa obligatoria; envió un correo a un oftalmólogo, inició una devolución en Ikea a partir de una descripción vaga y advirtió por iniciativa propia de un conflicto en el calendario."
               },
               {
                 "t": "p",
-                "x": "Creative Bloq은 회의적이다. AI로 복제품을 만드는 일은 새로운 것을 만드는 일만큼 흥미롭지 않고, 전문 크리에이터가 자기 파일과 생계를 AI가 생성한(AI-generated) 소프트웨어에 맡기는 모습은 상상하기 어렵다는 것이다. 한 Redditor의 말처럼, Photoshop과 어렴풋이 닮았을 뿐 검증되지 않은 소프트웨어는 오랫동안 유지보수된 믿을 만한 소프트웨어와 전혀 다르다."
+                "x": "Por ahora es gratuito para los usuarios con invitación. Los analistas esperan que agentes tan centrados en el comercio se apoyen en la publicidad: “En el mercado de consumo, todos los caminos acaban llevando a la publicidad”."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Instinct·Muse\nOpenAI Dots 대결",
+          "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
+          "mini_headline": "Instinct 대 Muse·Dots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinct의 에이전트는 언제나 문자 한 통 거리에 있다."
+              },
+              {
+                "t": "p",
+                "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고, 곧 AI 업계에서 가장 화제가 됐다. 이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았고, 창업자 Noah Shinn은 동요하지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 100억 달러 가치를 인정받았다."
+              },
+              {
+                "t": "p",
+                "x": "Muse의 곰 마스코트나 Dots의 블롭과 달리 Instinct는 iMessage, WhatsApp, 이메일로만 작동한다. 앱도 귀여운 캐릭터도 없이 짧은 답과 많은 실행이 있을 뿐이며, Google Workspace, Slack, Notion과 연결된다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "수영 강습을 찾았지만 선수 과목은 놓쳤고, 안과에 이메일을 보냈으며, 모호한 설명만으로 Ikea 반품을 시작하고, 일정 충돌을 먼저 알려줬다."
+              },
+              {
+                "t": "p",
+                "x": "지금은 초대받은 사용자에게 무료다. 분석가들은 이처럼 상거래 비중이 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで作り直し無料公開\nCreative Cloud",
-          "body": "ある開発者がClaudeとRustでPhotoshopなどを再現し、無料で公開した。",
-          "mini_headline": "Creative Cloudを無料で再現",
+          "headline": "Instinct対Muse・\nOpenAIのDots",
+          "body": "The VergeがInstinctをMuseとOpenAIのDotsと比べた。",
+          "mini_headline": "Instinct対MuseとDots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinctのエージェントには、いつでもテキスト一通で届く。"
               },
               {
                 "t": "p",
-                "x": "CanvaとAffinityがAdobeを脅かし続ける一方、Adobe自身もAI規約と解約ポリシーによって一部のユーザーを遠ざけてきた。"
+                "x": "Instinctは8月、宣伝なしの招待制でAIエージェントを公開し、たちまちAI界で最も話題の存在になった。その後、MetaのMuseとOpenAIのDotsが登場した。The Vergeのテストでは、Instinctは引けを取らず、創業者のNoah Shinnも動じていない。「AIアシスタントこそ、私たちが知るすべてだ」。同社は9月下旬に100億ドルの評価を受けた。"
               },
               {
                 "t": "p",
-                "x": "後者は、個人開発者のBrandon Thomasが、Photoshop、Premiere、IllustratorなどAdobeの人気ツールをいくつも再現するきっかけになったようだ。ツールはClaudeとRustで作り直された。彼はHacker Newsで「ダークパターンの『解約手数料』に何度も噛まれた」と述べている。"
+                "x": "Museのクマのマスコットや Dotsのブロブとは違い、InstinctはiMessage、WhatsApp、メールだけで動く。アプリも可愛いキャラクターもなく、短い返信と多くの実行があるだけで、Google Workspace、Slack、Notionと連携する。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "「私はただの気軽なバイブコーダーではない。業界歴15年(15-year)のベテランだ」とThomasはRedditに書き、Hacker Newsでは「ソフトウェアは終わった」と付け加えた。"
+                "x": "水泳教室を見つけたが前提となるクラスを見落とし、眼科医にメールを送り、曖昧な説明からIkeaの返品手続きを始め、予定の重複を自ら指摘した。"
               },
               {
                 "t": "p",
-                "x": "Creative Bloqは懐疑的だ。AIで複製を作ることは新しいものを生み出すほど刺激的ではなく、プロのクリエイターが自分のファイルや生計をAIが生成した(AI-generated)ソフトウェアに委ねる姿は想像しにくいという。あるRedditorが言うように、Photoshopにぼんやり似ているだけの実績のないソフトウェアは、長期にわたって保守される信頼できるソフトウェアとはまったく違う。"
+                "x": "現在は招待ユーザーなら無料だ。アナリストは、これほど商取引に寄ったエージェントは広告に頼ると見ている。「消費者市場のすべての道は、最終的に広告に通じる」。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "开发者用AI重做\nCreative Cloud",
-          "body": "一名开发者用Claude和Rust重做Photoshop等工具，并免费公开。",
-          "mini_headline": "免费重做的Creative Cloud",
+          "headline": "Instinct对决Muse\n与OpenAI的Dots",
+          "body": "The Verge测试Instinct能否抗衡Muse与OpenAI的Dots。",
+          "mini_headline": "Instinct对Muse与Dots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Instinct的代理始终只需一条短信即可触达。"
               },
               {
                 "t": "p",
-                "x": "Canva和Affinity持续给Adobe带来压力，而Adobe自身的AI条款和取消订阅政策也赶走了一部分用户。"
+                "x": "8月，Instinct以邀请制推出AI代理，没有任何营销，很快成为AI领域最受热议的产品。随后Meta的Muse和OpenAI的Dots相继登场。在The Verge的测试中，Instinct表现不落下风，创始人Noah Shinn也毫不在意：“AI助手就是我们所熟知的一切。”公司在9月底估值达到100亿美元。"
               },
               {
                 "t": "p",
-                "x": "后者似乎促使独立开发者Brandon Thomas用Claude和Rust重做了Adobe多款最受欢迎的工具，包括Photoshop、Premiere和Illustrator。他在Hacker News上说，自己“被‘取消费’这种暗黑模式坑了太多次”。"
+                "x": "不同于Muse的小熊吉祥物和Dots的团状形象，Instinct完全通过iMessage、WhatsApp或电子邮件运作——没有应用，没有可爱的小角色，只有简短回复和大量行动，并可连接Google Workspace、Slack和Notion。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
               },
               {
                 "t": "p",
-                "x": "“我可不是随便玩玩的氛围编程者。我是有15年（15-year）经验的业内老手。”Thomas在Reddit上写道，并在Hacker News上补充：“软件已经完蛋了。”"
+                "x": "它找到了游泳课，却漏掉了一门先修课；它给眼科医生发了邮件，凭模糊描述发起了Ikea退货，还主动提示了日程冲突。"
               },
               {
                 "t": "p",
-                "x": "Creative Bloq对此持怀疑态度：用AI做出一模一样的复制品，远不如创造新东西令人兴奋；也很难想象专业创作者会把自己的文件乃至生计交给AI生成（AI-generated）的软件。正如一位Redditor所说，一个未经验证、只是看起来有点像Photoshop的软件，和长期维护、值得信赖的软件截然不同。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un desarrollador rehízo con AI\nCreative Cloud y lo regaló",
-          "body": "Un desarrollador usó Claude y Rust para recrear clones de Photoshop, Premiere e Illustrator y los regaló.",
-          "mini_headline": "Creative Cloud, recreado gratis",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/z4qUZQDmLs4Mxw7a7Cx85G.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Canva y Affinity siguen plantando cara a Adobe, pero la propia Adobe también ha alejado a algunos usuarios por sus condiciones sobre AI y sus políticas de cancelación."
-              },
-              {
-                "t": "p",
-                "x": "Al parecer, esto último llevó al desarrollador independiente Brandon Thomas a recrear varias de las herramientas más populares de Adobe, como Photoshop, Premiere e Illustrator, reconstruidas con Claude y Rust. En Hacker News dijo que lo había \"mordido el patrón oscuro de la 'tarifa de cancelación' demasiadas veces\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/CQSrKHB3odwyyn4ws5QZJ3-1024-80.png"
-              },
-              {
-                "t": "p",
-                "x": "\"No soy un vibe coder cualquiera. Soy un veterano con 15 años (15-year) en la industria\", escribió Thomas en Reddit, y añadió en Hacker News: \"El software se acabó\"."
-              },
-              {
-                "t": "p",
-                "x": "Creative Bloq se muestra escéptico: usar AI para crear una copia exacta no resulta tan interesante como crear algo nuevo, y cuesta imaginar a creativos profesionales dejando sus archivos, y su sustento, en manos de software generado con AI (AI-generated). Como dice un Redditor, un software sin probar que se parece vagamente a Photoshop es muy distinto de un software fiable mantenido a largo plazo."
+                "x": "目前受邀用户可免费使用。分析人士预计，如此偏重商业交易的代理将依赖广告：“消费市场的所有道路最终都通向广告。”"
               }
             ]
           }
@@ -1132,226 +989,261 @@
       }
     },
     {
-      "id": "design-claude-frontend-skill",
+      "id": "nvidia-simready-assets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
-      "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
-      "mini_headline": "Claude 디자인 스킬 실험",
-      "tool": "Figma",
-      "source": "DEV Community",
-      "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
-      "accent": "#0070f3",
-      "motif": "frame",
+      "headline": "NVIDIA, CAD를\nSimReady 자산으로",
+      "body": "NVIDIA가 AI로 CAD를 SimReady 자산으로 바꾸는 다섯 단계를 짚었다.",
+      "mini_headline": "CAD에서 SimReady 자산으로",
+      "tool": "KeyShot",
+      "source": "NVIDIA Technical Blog",
+      "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
+      "accent": "#3b6bff",
+      "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 만드는 차이는 모두 Claude의 계획 방식을 바꾸는 데서 나온다."
+            "t": "img",
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
           },
           {
             "t": "p",
-            "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 코드를 쓰기 전에는 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
+            "x": "로보틱스 시뮬레이션에 쓸 CAD 자산은 형상을 OpenUSD로 바꾸는 것만으로 끝나지 않는다. 재질, 충돌 형상, 관절, 물리 속성까지 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 보여줬다. 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델로는 Codex CLI의 GPT-6 Astra를 예로 썼다."
+          },
+          {
+            "t": "p",
+            "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상에 맞춰 외관을 다듬는다."
           },
           {
             "t": "img",
-            "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-            "cap": "frontend-design 스킬을 쓴 결과."
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+          },
+          {
+            "t": "p",
+            "x": "3. 데이터시트를 보고 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 끌어왔다. 4. SimReady 요건에 맞는지 검증한다. 이 검사가 확인하는 것은 시뮬레이션이지 실제 세계(real-world)의 동역학이 아니다."
+          },
+          {
+            "t": "p",
+            "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커로 Isaac Sim에서 pick-and-place 작업을 돌린다."
           },
           {
             "t": "img",
-            "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-            "cap": "같은 브리프를 스킬 없이 만든 결과."
+            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
           },
           {
             "t": "p",
-            "x": "브리프는 가상의 회계 앱 Ledgerline의 랜딩 페이지 하나였다. 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
-          },
-          {
-            "t": "p",
-            "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크라기보다 사례 하나로 보는 게 맞다."
+            "x": "결과는 어떤 모델과 추론 강도, 프롬프트를 쓰느냐에 따라 달라진다."
           }
         ]
       },
-      "lead_image": "https://media.skillgild.dev/media/site/devto/frontend-skills/cover-frontend-design-1760x660.png",
       "text": {
         "en": {
-          "headline": "What Claude's frontend-design\nskill changes in a real run",
-          "body": "A DEV post unpacks the 71 lines of Anthropic's frontend-design skill and builds one landing page with and without it.",
-          "mini_headline": "Claude's design skill, tested",
+          "headline": "NVIDIA turns CAD into\nSimReady robot assets",
+          "body": "NVIDIA outlines five steps for using frontier AI models to turn CAD assets into SimReady OpenUSD assets for robotics.",
+          "mini_headline": "CAD to SimReady assets",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropic's frontend-design skill ships in its skills repository and as a plugin in the official Claude Code marketplace. It is one Markdown file, 71 lines long, with no scripts and no component library; everything it changes, it changes by changing how Claude plans."
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "It tells Claude to design from the subject, names generated-design tells to avoid (cream background with serif and terracotta accent, the \"SaaS card kit\", ALL-CAPS eyebrows), and asks for a token plan of 4 to 6 named hex colours, typefaces and an ASCII layout before any code."
+                "x": "Preparing CAD assets for robotics simulation takes more than converting geometry to OpenUSD: materials, collision geometry, joints and physics must be configured and validated. NVIDIA walks through preparing an ABB YuMi robot with SimReady Foundation and Omniverse tools, using GPT-6 Astra in Codex CLI as one example of a frontier AI model that calls the tools via agentic NVIDIA skills."
+              },
+              {
+                "t": "p",
+                "x": "1. Import the robot from STEP files into OpenUSD and Isaac Sim 6.1. 2. Match the visual appearance against ABB images and videos."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "With the frontend-design skill."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. Configure joints, rigid bodies and collision geometry using the datasheet; the agent even pulled a public URDF to find joint axes. 4. Validate against SimReady requirements — checks that confirm the simulation, not real-world dynamics."
+              },
+              {
+                "t": "p",
+                "x": "5. Run pick-and-place tasks in Isaac Sim with cubes and a Sharpie marker generated from a reference image."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "The same brief with no skill."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "On one brief, a landing page for a fictional bookkeeping app called Ledgerline, the skill run cut all-caps labels from 9 to 0 and middle-dot strings from 4 to 0, and had no horizontal scroll at 375 px versus 16 px overflow. It took 14 turns and 5.7 minutes against 2 turns and 3.3 minutes, at $1.61 versus $0.98."
-              },
-              {
-                "t": "p",
-                "x": "It did not stop either page from inventing product facts, and it kept seven spaced em dashes. Each ran once, so treat it as one example, not a benchmark."
+                "x": "Results may vary with the model, reasoning effort and prompts used."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
-          "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
-          "mini_headline": "Claude 디자인 스킬 실험",
+          "headline": "NVIDIA, CAD를\nSimReady 자산으로",
+          "body": "NVIDIA가 AI로 CAD를 SimReady 자산으로 바꾸는 다섯 단계를 짚었다.",
+          "mini_headline": "CAD에서 SimReady 자산으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 만드는 차이는 모두 Claude의 계획 방식을 바꾸는 데서 나온다."
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 코드를 쓰기 전에는 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
+                "x": "로보틱스 시뮬레이션에 쓸 CAD 자산은 형상을 OpenUSD로 바꾸는 것만으로 끝나지 않는다. 재질, 충돌 형상, 관절, 물리 속성까지 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 보여줬다. 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델로는 Codex CLI의 GPT-6 Astra를 예로 썼다."
+              },
+              {
+                "t": "p",
+                "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상에 맞춰 외관을 다듬는다."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "frontend-design 스킬을 쓴 결과."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. 데이터시트를 보고 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 끌어왔다. 4. SimReady 요건에 맞는지 검증한다. 이 검사가 확인하는 것은 시뮬레이션이지 실제 세계(real-world)의 동역학이 아니다."
+              },
+              {
+                "t": "p",
+                "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커로 Isaac Sim에서 pick-and-place 작업을 돌린다."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "같은 브리프를 스킬 없이 만든 결과."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "브리프는 가상의 회계 앱 Ledgerline의 랜딩 페이지 하나였다. 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
-              },
-              {
-                "t": "p",
-                "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크라기보다 사례 하나로 보는 게 맞다."
+                "x": "결과는 어떤 모델과 추론 강도, 프롬프트를 쓰느냐에 따라 달라진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのデザイン\nスキルを実際に試す",
-          "body": "DEVの記事が71行のfrontend-designスキルを有無で比べた。",
-          "mini_headline": "Claudeのデザインスキルを検証",
+          "headline": "NVIDIA、CADを\nSimReady資産に",
+          "body": "NVIDIAがフロンティアAIでCADをSimReady資産に変える五つの手順を示した。",
+          "mini_headline": "CADからSimReady資産へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropicのfrontend-designスキルは、同社のskillsリポジトリで公開され、公式Claude Codeマーケットプレイスのプラグインとしても提供されている。スクリプトもコンポーネントライブラリもない、71行のMarkdownファイル一つだ。このスキルがもたらす変化はすべて、Claudeの計画の立て方を変えることで生まれる。"
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "スキルはClaudeに主題から出発してデザインするよう指示し、避けるべき生成デザインの癖(セリフ体とテラコッタのアクセントを載せたクリーム色の背景、「SaaS card kit」、ALL-CAPSのアイブロウ)を名指しする。さらにコードを書く前に、名前付きのhexカラー4〜6色、書体、ASCIIレイアウトからなるトークン計画を求める。"
+                "x": "ロボティクスのシミュレーション向けにCAD資産を用意するには、形状をOpenUSDに変換するだけでは足りない。マテリアル、衝突形状、関節、物理特性を設定し、検証する必要がある。NVIDIAはSimReady FoundationとOmniverseのツールでABB YuMiロボットを準備する手順を解説し、エージェント型のNVIDIAスキルを通じてツールを呼び出すフロンティアAIモデルの一例として、Codex CLI上のGPT-6 Astraを使った。"
+              },
+              {
+                "t": "p",
+                "x": "1. STEPファイルからロボットをOpenUSDとIsaac Sim 6.1に読み込む。2. ABBの画像や動画と照らして外観を合わせる。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "frontend-designスキルあり。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. データシートを使って関節、剛体、衝突形状を設定する。エージェントは関節軸を調べるために公開URDFまで取得した。4. SimReadyの要件に照らして検証する。この検査が確かめるのはシミュレーションであり、real-worldの動力学ではない。"
+              },
+              {
+                "t": "p",
+                "x": "5. 参照画像から生成したキューブとSharpieのマーカーを使い、Isaac Simでpick-and-placeタスクを実行する。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "同じブリーフをスキルなしで。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "架空の帳簿アプリLedgerlineのランディングページという一つのブリーフで、スキルを使った実行ではall-capsのラベルが9個から0個に、中黒の文字列が4個から0個に減り、375 pxで横スクロールは発生しなかった(スキルなしでは16 pxはみ出した)。所要は14ターン・5.7分で、2ターン・3.3分より長く、費用は$1.61対$0.98だった。"
-              },
-              {
-                "t": "p",
-                "x": "どちらのページも製品の事実をでっち上げるのは防げず、前後にスペースを入れたem dashも七つ残った。各実行は一回のみなので、ベンチマークではなく一つの例として見るべきだ。"
+                "x": "結果は使うモデル、推論の強度、プロンプトによって変わりうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude设计技能\n实测效果如何",
-          "body": "DEV文章拆解Anthropic的71行frontend-design技能并做对照。",
-          "mini_headline": "Claude设计技能实测",
+          "headline": "NVIDIA把CAD\n变成SimReady资产",
+          "body": "NVIDIA介绍用前沿AI将CAD转为SimReady OpenUSD资产的五个步骤。",
+          "mini_headline": "CAD转SimReady资产",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropic的frontend-design技能收录在其skills仓库中，也以插件形式上架官方Claude Code市场。它只是一份71行的Markdown文件，没有脚本，也没有组件库；它带来的一切变化，都源于改变Claude的规划方式。"
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "它要求Claude从主题出发进行设计，点名要避免的生成式设计痕迹（衬线字体加赤陶色点缀的奶油色背景、“SaaS card kit”、ALL-CAPS眉标），并要求在写任何代码之前先给出令牌方案：4到6种命名的hex颜色、字体以及一个ASCII布局。"
+                "x": "为机器人仿真准备CAD资产，不只是把几何体转换成OpenUSD：还必须配置并验证材质、碰撞几何、关节和物理属性。NVIDIA演示了如何用SimReady Foundation和Omniverse工具准备一台ABB YuMi机器人，并以Codex CLI中的GPT-6 Astra为例，说明前沿AI模型如何通过智能体式NVIDIA技能调用这些工具。"
+              },
+              {
+                "t": "p",
+                "x": "1. 将机器人从STEP文件导入OpenUSD和Isaac Sim 6.1。2. 对照ABB的图片和视频匹配外观。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "使用frontend-design技能。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. 依据数据手册配置关节、刚体和碰撞几何；智能体甚至调取了一份公开的URDF来确定关节轴。4. 按SimReady要求进行验证——这些检查确认的是仿真本身，而非real-world动力学。"
+              },
+              {
+                "t": "p",
+                "x": "5. 在Isaac Sim中用依据参考图像生成的方块和一支Sharpie马克笔运行pick-and-place任务。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "同一需求，未使用技能。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "在一份需求（为虚构记账应用Ledgerline制作落地页）上，使用技能的那次运行把all-caps标签从9个减到0个，把中点分隔字符串从4个减到0个，并且在375 px下没有横向滚动，而对照组溢出16 px。它用了14轮、5.7分钟，对照组为2轮、3.3分钟，费用为$1.61对$0.98。"
-              },
-              {
-                "t": "p",
-                "x": "它没能阻止任何一个页面编造产品信息，也保留了七处带空格的em dash。每种方式只运行了一次，因此只能当作一个例子，而不是基准测试。"
+                "x": "结果可能因所用模型、推理强度和提示词而异。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La skill frontend-design de\nClaude, puesta a prueba",
-          "body": "Un artículo de DEV desglosa la skill frontend-design de Anthropic, de 71 líneas, y prueba una página con y sin ella.",
-          "mini_headline": "La skill de diseño de Claude, a prueba",
+          "headline": "NVIDIA convierte CAD en\nactivos SimReady para robots",
+          "body": "NVIDIA detalla cinco pasos con IA de frontera para convertir CAD en activos SimReady OpenUSD para robótica.",
+          "mini_headline": "De CAD a activos SimReady",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La skill frontend-design de Anthropic se distribuye en su repositorio de skills y como plugin en el marketplace oficial de Claude Code. Es un único archivo Markdown de 71 líneas, sin scripts ni biblioteca de componentes; todo lo que cambia, lo cambia modificando la forma en que Claude planifica."
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "Indica a Claude que diseñe a partir del tema, enumera los rasgos típicos del diseño generado que hay que evitar (fondo crema con serif y acento terracota, el \"SaaS card kit\", antetítulos en ALL-CAPS) y pide, antes de escribir código, un plan de tokens con 4 a 6 colores hex con nombre, tipografías y un layout en ASCII."
+                "x": "Preparar activos CAD para simulación robótica exige más que convertir la geometría a OpenUSD: hay que configurar y validar materiales, geometría de colisión, articulaciones y física. NVIDIA explica cómo preparar un robot ABB YuMi con SimReady Foundation y herramientas de Omniverse, y usa GPT-6 Astra en Codex CLI como ejemplo de modelo de IA de frontera que invoca las herramientas mediante skills agénticas de NVIDIA."
+              },
+              {
+                "t": "p",
+                "x": "1. Importar el robot desde archivos STEP a OpenUSD e Isaac Sim 6.1. 2. Ajustar la apariencia visual a imágenes y videos de ABB."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "Con la skill frontend-design."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. Configurar articulaciones, cuerpos rígidos y geometría de colisión a partir de la hoja de datos; el agente incluso recurrió a un URDF público para encontrar los ejes de las articulaciones. 4. Validar frente a los requisitos de SimReady, comprobaciones que confirman la simulación, no la dinámica del mundo real (real-world)."
+              },
+              {
+                "t": "p",
+                "x": "5. Ejecutar tareas pick-and-place en Isaac Sim con cubos y un marcador Sharpie generados a partir de una imagen de referencia."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "El mismo encargo sin ninguna skill."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "Con un solo encargo, la landing page de una app ficticia de contabilidad llamada Ledgerline, la ejecución con la skill redujo las etiquetas en all-caps de 9 a 0 y las cadenas con punto medio de 4 a 0, y no tuvo scroll horizontal a 375 px frente a un desbordamiento de 16 px. Tardó 14 turnos y 5.7 minutos frente a 2 turnos y 3.3 minutos, por $1.61 frente a $0.98."
-              },
-              {
-                "t": "p",
-                "x": "No impidió que ninguna de las páginas inventara datos del producto, y mantuvo siete em dash con espacios. Cada una se ejecutó una sola vez, así que conviene tomarlo como un ejemplo, no como un benchmark."
+                "x": "Los resultados pueden variar según el modelo, el nivel de razonamiento y los prompts utilizados."
               }
             ]
           }
@@ -1359,145 +1251,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude 디자인 스킬,\n실제로 돌려 보니",
-          "body": "DEV 글이 71줄 frontend-design 스킬을 켜고 끄며 비교했다.",
-          "mini_headline": "Claude 디자인 스킬 실험",
+          "headline": "NVIDIA, CAD를\nSimReady 자산으로",
+          "body": "NVIDIA가 AI로 CAD를 SimReady 자산화하는 다섯 단계를 소개했다.",
+          "mini_headline": "CAD에서 SimReady 자산으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropic의 frontend-design 스킬은 skills 저장소에 있고, 공식 Claude Code 마켓플레이스에서 플러그인으로도 제공된다. 스크립트도 컴포넌트 라이브러리도 없는 71줄짜리 Markdown 파일 하나다. 이 스킬이 바꾸는 모든 것은 Claude가 계획하는 방식을 바꾸는 데서 나온다."
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "스킬은 Claude에게 주제에서 출발해 디자인하라고 지시하고, 피해야 할 생성형 디자인의 티(세리프와 테라코타 포인트를 얹은 크림색 배경, \"SaaS card kit\", ALL-CAPS 아이브로)를 짚는다. 그리고 코드를 쓰기 전에 이름을 붙인 hex 색상 4개에서 6개, 서체, ASCII 레이아웃을 담은 토큰 계획을 요구한다."
+                "x": "로보틱스 시뮬레이션용 CAD 자산을 준비하려면 형상을 OpenUSD로 변환하는 것만으로는 부족하다. 재질, 충돌 형상, 관절, 물리 속성을 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 소개하며, 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델의 한 예로 Codex CLI의 GPT-6 Astra를 사용했다."
+              },
+              {
+                "t": "p",
+                "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상을 기준으로 외관을 맞춘다."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "frontend-design 스킬을 쓴 결과."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. 데이터시트를 바탕으로 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 가져왔다. 4. SimReady 요건에 맞춰 검증한다. 이 검사는 실제 세계(real-world)의 동역학이 아니라 시뮬레이션을 확인하는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커를 써서 Isaac Sim에서 pick-and-place 작업을 실행한다."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "같은 브리프를 스킬 없이 만든 결과."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "가상의 회계 앱 Ledgerline의 랜딩 페이지라는 하나의 브리프에서, 스킬을 쓴 실행은 all-caps 라벨을 9개에서 0개로, 가운뎃점 문자열을 4개에서 0개로 줄였고, 375 px에서 가로 스크롤이 생기지 않았다(스킬 없이는 16 px 넘침). 대신 14턴과 5.7분이 걸려 2턴과 3.3분보다 길었고, 비용은 $1.61 대 $0.98였다."
-              },
-              {
-                "t": "p",
-                "x": "어느 페이지도 제품 정보를 지어내는 일은 막지 못했고, 앞뒤를 띄운 em dash 일곱 개도 그대로 남았다. 각각 한 번씩만 실행했으니 벤치마크가 아니라 하나의 사례로 봐야 한다."
+                "x": "결과는 사용한 모델, 추론 강도, 프롬프트에 따라 달라질 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeのデザイン\nスキルを実際に試す",
-          "body": "DEVの記事が71行のfrontend-designスキルを有無で比べた。",
-          "mini_headline": "Claudeのデザインスキルを検証",
+          "headline": "NVIDIA、CADを\nSimReady資産に",
+          "body": "NVIDIAがフロンティアAIでCADをSimReady資産に変える五つの手順を示した。",
+          "mini_headline": "CADからSimReady資産へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropicのfrontend-designスキルは、同社のskillsリポジトリで公開され、公式Claude Codeマーケットプレイスのプラグインとしても提供されている。スクリプトもコンポーネントライブラリもない、71行のMarkdownファイル一つだ。このスキルがもたらす変化はすべて、Claudeの計画の立て方を変えることで生まれる。"
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "スキルはClaudeに主題から出発してデザインするよう指示し、避けるべき生成デザインの癖(セリフ体とテラコッタのアクセントを載せたクリーム色の背景、「SaaS card kit」、ALL-CAPSのアイブロウ)を名指しする。さらにコードを書く前に、名前付きのhexカラー4〜6色、書体、ASCIIレイアウトからなるトークン計画を求める。"
+                "x": "ロボティクスのシミュレーション向けにCAD資産を用意するには、形状をOpenUSDに変換するだけでは足りない。マテリアル、衝突形状、関節、物理特性を設定し、検証する必要がある。NVIDIAはSimReady FoundationとOmniverseのツールでABB YuMiロボットを準備する手順を解説し、エージェント型のNVIDIAスキルを通じてツールを呼び出すフロンティアAIモデルの一例として、Codex CLI上のGPT-6 Astraを使った。"
+              },
+              {
+                "t": "p",
+                "x": "1. STEPファイルからロボットをOpenUSDとIsaac Sim 6.1に読み込む。2. ABBの画像や動画と照らして外観を合わせる。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "frontend-designスキルあり。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. データシートを使って関節、剛体、衝突形状を設定する。エージェントは関節軸を調べるために公開URDFまで取得した。4. SimReadyの要件に照らして検証する。この検査が確かめるのはシミュレーションであり、real-worldの動力学ではない。"
+              },
+              {
+                "t": "p",
+                "x": "5. 参照画像から生成したキューブとSharpieのマーカーを使い、Isaac Simでpick-and-placeタスクを実行する。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "同じブリーフをスキルなしで。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "架空の帳簿アプリLedgerlineのランディングページという一つのブリーフで、スキルを使った実行ではall-capsのラベルが9個から0個に、中黒の文字列が4個から0個に減り、375 pxで横スクロールは発生しなかった(スキルなしでは16 pxはみ出した)。所要は14ターン・5.7分で、2ターン・3.3分より長く、費用は$1.61対$0.98だった。"
-              },
-              {
-                "t": "p",
-                "x": "どちらのページも製品の事実をでっち上げるのは防げず、前後にスペースを入れたem dashも七つ残った。各実行は一回のみなので、ベンチマークではなく一つの例として見るべきだ。"
+                "x": "結果は使うモデル、推論の強度、プロンプトによって変わりうる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude设计技能\n实测效果如何",
-          "body": "DEV文章拆解Anthropic的71行frontend-design技能并做对照。",
-          "mini_headline": "Claude设计技能实测",
+          "headline": "NVIDIA把CAD\n变成SimReady资产",
+          "body": "NVIDIA介绍用前沿AI将CAD转为SimReady OpenUSD资产的五个步骤。",
+          "mini_headline": "CAD转SimReady资产",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Anthropic的frontend-design技能收录在其skills仓库中，也以插件形式上架官方Claude Code市场。它只是一份71行的Markdown文件，没有脚本，也没有组件库；它带来的一切变化，都源于改变Claude的规划方式。"
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "它要求Claude从主题出发进行设计，点名要避免的生成式设计痕迹（衬线字体加赤陶色点缀的奶油色背景、“SaaS card kit”、ALL-CAPS眉标），并要求在写任何代码之前先给出令牌方案：4到6种命名的hex颜色、字体以及一个ASCII布局。"
+                "x": "为机器人仿真准备CAD资产，不只是把几何体转换成OpenUSD：还必须配置并验证材质、碰撞几何、关节和物理属性。NVIDIA演示了如何用SimReady Foundation和Omniverse工具准备一台ABB YuMi机器人，并以Codex CLI中的GPT-6 Astra为例，说明前沿AI模型如何通过智能体式NVIDIA技能调用这些工具。"
+              },
+              {
+                "t": "p",
+                "x": "1. 将机器人从STEP文件导入OpenUSD和Isaac Sim 6.1。2. 对照ABB的图片和视频匹配外观。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "使用frontend-design技能。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. 依据数据手册配置关节、刚体和碰撞几何；智能体甚至调取了一份公开的URDF来确定关节轴。4. 按SimReady要求进行验证——这些检查确认的是仿真本身，而非real-world动力学。"
+              },
+              {
+                "t": "p",
+                "x": "5. 在Isaac Sim中用依据参考图像生成的方块和一支Sharpie马克笔运行pick-and-place任务。"
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "同一需求，未使用技能。"
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "在一份需求（为虚构记账应用Ledgerline制作落地页）上，使用技能的那次运行把all-caps标签从9个减到0个，把中点分隔字符串从4个减到0个，并且在375 px下没有横向滚动，而对照组溢出16 px。它用了14轮、5.7分钟，对照组为2轮、3.3分钟，费用为$1.61对$0.98。"
-              },
-              {
-                "t": "p",
-                "x": "它没能阻止任何一个页面编造产品信息，也保留了七处带空格的em dash。每种方式只运行了一次，因此只能当作一个例子，而不是基准测试。"
+                "x": "结果可能因所用模型、推理强度和提示词而异。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La skill frontend-design de\nClaude, puesta a prueba",
-          "body": "Un artículo de DEV desglosa la skill frontend-design de Anthropic, de 71 líneas, y prueba una página con y sin ella.",
-          "mini_headline": "La skill de diseño de Claude, a prueba",
+          "headline": "NVIDIA convierte CAD en\nactivos SimReady para robots",
+          "body": "NVIDIA detalla cinco pasos con IA de frontera para convertir CAD en activos SimReady OpenUSD para robótica.",
+          "mini_headline": "De CAD a activos SimReady",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La skill frontend-design de Anthropic se distribuye en su repositorio de skills y como plugin en el marketplace oficial de Claude Code. Es un único archivo Markdown de 71 líneas, sin scripts ni biblioteca de componentes; todo lo que cambia, lo cambia modificando la forma en que Claude planifica."
+                "t": "img",
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "Indica a Claude que diseñe a partir del tema, enumera los rasgos típicos del diseño generado que hay que evitar (fondo crema con serif y acento terracota, el \"SaaS card kit\", antetítulos en ALL-CAPS) y pide, antes de escribir código, un plan de tokens con 4 a 6 colores hex con nombre, tipografías y un layout en ASCII."
+                "x": "Preparar activos CAD para simulación robótica exige más que convertir la geometría a OpenUSD: hay que configurar y validar materiales, geometría de colisión, articulaciones y física. NVIDIA explica cómo preparar un robot ABB YuMi con SimReady Foundation y herramientas de Omniverse, y usa GPT-6 Astra en Codex CLI como ejemplo de modelo de IA de frontera que invoca las herramientas mediante skills agénticas de NVIDIA."
+              },
+              {
+                "t": "p",
+                "x": "1. Importar el robot desde archivos STEP a OpenUSD e Isaac Sim 6.1. 2. Ajustar la apariencia visual a imágenes y videos de ABB."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/frontend-design-hero-1760x1100.png",
-                "cap": "Con la skill frontend-design."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+              },
+              {
+                "t": "p",
+                "x": "3. Configurar articulaciones, cuerpos rígidos y geometría de colisión a partir de la hoja de datos; el agente incluso recurrió a un URDF público para encontrar los ejes de las articulaciones. 4. Validar frente a los requisitos de SimReady, comprobaciones que confirman la simulación, no la dinámica del mundo real (real-world)."
+              },
+              {
+                "t": "p",
+                "x": "5. Ejecutar tareas pick-and-place en Isaac Sim con cubos y un marcador Sharpie generados a partir de una imagen de referencia."
               },
               {
                 "t": "img",
-                "src": "https://media.skillgild.dev/media/site/devto/frontend-skills/baseline-hero-1760x1100.png",
-                "cap": "El mismo encargo sin ninguna skill."
+                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
               },
               {
                 "t": "p",
-                "x": "Con un solo encargo, la landing page de una app ficticia de contabilidad llamada Ledgerline, la ejecución con la skill redujo las etiquetas en all-caps de 9 a 0 y las cadenas con punto medio de 4 a 0, y no tuvo scroll horizontal a 375 px frente a un desbordamiento de 16 px. Tardó 14 turnos y 5.7 minutos frente a 2 turnos y 3.3 minutos, por $1.61 frente a $0.98."
-              },
-              {
-                "t": "p",
-                "x": "No impidió que ninguna de las páginas inventara datos del producto, y mantuvo siete em dash con espacios. Cada una se ejecutó una sola vez, así que conviene tomarlo como un ejemplo, no como un benchmark."
+                "x": "Los resultados pueden variar según el modelo, el nivel de razonamiento y los prompts utilizados."
               }
             ]
           }
@@ -1505,118 +1421,189 @@
       }
     },
     {
-      "id": "design-copilot-identity",
+      "id": "geometry-ui-diffing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Copilot의 새\n비주얼 아이덴티티",
-      "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
-      "mini_headline": "Microsoft Design의 새 Copilot",
-      "tool": "Social",
-      "source": "Microsoft Design",
-      "url": "https://www.youtube.com/watch?v=FgHhrBiamzw",
-      "accent": "#ff2d55",
-      "motif": "frame",
+      "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
+      "body": "스크린샷 대신 레이아웃 기하로 Figma와 견주면 에이전트가 헤매지 않는다.",
+      "mini_headline": "스크린샷보다 기하",
+      "tool": "Design Tokens",
+      "source": "DEV Community",
+      "url": "https://dev.to/as9978/why-screenshot-diffing-ai-built-uis-thrashes-and-how-geometry-fixes-it-5967",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "FgHhrBiamzw"
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
           },
           {
             "t": "p",
-            "x": "새 Copilot 아이덴티티 안에서 앱과 도구, 맥락이 하나로 모인다. 일에서 영감을 얻었고 일을 위해 디자인했다."
+            "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말에 끝없이 고치기만 한다. 고장 난 쪽은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림까지 오류로 잡는다. 그러니 점수가 흔들리고 수렴하지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "디자이너는 픽셀을 diff하지 않는다. 이름 붙은 속성을 본다. open-source MCP 서버이자 Claude Code 스킬인 designfit도 그렇게 한다. 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 저마다 명시한 허용 오차로 비교한다. 몇 번을 돌려도 결과는 같다."
+          },
+          {
+            "t": "p",
+            "x": "designfit_extract가 Figma의 REST API에서 스펙을 읽으면 designfit_validate가 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번 반복하자 점수가 87에서 100으로 올랐고 엉뚱한 노드에 붙은 태그도 드러났다."
+          },
+          {
+            "t": "p",
+            "x": "버전 0.2는 뷰포트 하나만 검사한다. 간격 토큰과 multi-breakpoint 검사는 로드맵에 올라 있다. 무료이고 MIT-licensed(MIT 라이선스)다."
           }
         ]
       },
-      "lead_image": "https://i.ytimg.com/vi/FgHhrBiamzw/sddefault.jpg",
       "text": {
         "en": {
-          "headline": "Microsoft Design unveils\nCopilot's new visual identity",
-          "body": "Microsoft Design's new Copilot identity brings apps, tools and context together, inspired by work and designed for it.",
-          "mini_headline": "Copilot gets a new identity",
+          "headline": "Why screenshot diffing\nthrashes AI-built UIs",
+          "body": "Comparing layout geometry instead of screenshot-diffing against a Figma frame keeps coding agents from thrashing.",
+          "mini_headline": "Geometry over screenshots",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "Your apps, tools, and context come together in our new Copilot identity, inspired by work and designed for it."
+                "x": "Point a coding agent at a Figma frame and say “make it match,” and it often thrashes: told “still wrong,” it tweaks forever. The agent isn’t broken — the comparison is. Screenshot diffs flag anti-aliasing, font hinting and sub-pixel rounding as errors, so the score wobbles and never converges."
+              },
+              {
+                "t": "p",
+                "x": "Designers don’t diff pixels; they check named properties. So designfit, an open-source MCP server and Claude Code skill, compares design tokens (colors via CIEDE2000, font sizes, radii) and geometry relative to the screen root, plus element presence, each with explicit tolerances — deterministic, run after run."
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract reads the spec from Figma’s REST API; designfit_validate returns pass, score and a fix-list. On a 360-node dashboard it scored three iterations from 87 to 100 and exposed tags on the wrong nodes."
+              },
+              {
+                "t": "p",
+                "x": "Version 0.2 checks one viewport; spacing tokens and multi-breakpoint checks are roadmap. It is free and MIT-licensed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Copilot의 새\n비주얼 아이덴티티",
-          "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
-          "mini_headline": "Microsoft Design의 새 Copilot",
+          "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
+          "body": "스크린샷 대신 레이아웃 기하로 Figma와 견주면 에이전트가 헤매지 않는다.",
+          "mini_headline": "스크린샷보다 기하",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "새 Copilot 아이덴티티 안에서 앱과 도구, 맥락이 하나로 모인다. 일에서 영감을 얻었고 일을 위해 디자인했다."
+                "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말에 끝없이 고치기만 한다. 고장 난 쪽은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림까지 오류로 잡는다. 그러니 점수가 흔들리고 수렴하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 픽셀을 diff하지 않는다. 이름 붙은 속성을 본다. open-source MCP 서버이자 Claude Code 스킬인 designfit도 그렇게 한다. 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 저마다 명시한 허용 오차로 비교한다. 몇 번을 돌려도 결과는 같다."
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract가 Figma의 REST API에서 스펙을 읽으면 designfit_validate가 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번 반복하자 점수가 87에서 100으로 올랐고 엉뚱한 노드에 붙은 태그도 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "버전 0.2는 뷰포트 하나만 검사한다. 간격 토큰과 multi-breakpoint 검사는 로드맵에 올라 있다. 무료이고 MIT-licensed(MIT 라이선스)다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Copilotの新しい\nビジュアルアイデンティティ",
-          "body": "Microsoftの新Copilotアイデンティティはアプリ・ツール・文脈を束ねる。",
-          "mini_headline": "Microsoft DesignのCopilot新アイデンティティ",
+          "headline": "AI-built UIsを\n画面差分が乱す理由",
+          "body": "Figmaとの比較を画面差分でなくレイアウト形状で行えば、エージェントは迷わない。",
+          "mini_headline": "スクリーンショットより形状",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "アプリ、ツール、コンテキストが、新しいCopilotアイデンティティのもとでひとつになる。仕事から着想を得て、仕事のためにデザインした。"
+                "x": "コーディングエージェントにFigmaのフレームを渡して「同じにして」と頼むと、空回りしがちだ。「まだ違う」と言われると延々と調整を続ける。壊れているのはエージェントではなく比較の仕方だ。スクリーンショットのdiffはanti-aliasing、フォントヒンティング、sub-pixelの丸めを誤りとして拾うため、スコアが揺れて収束しない。"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーはピクセルをdiffせず、名前の付いたプロパティを確認する。そこでopen-sourceのMCPサーバーでありClaude Codeのスキルでもあるdesignfitは、デザイントークン(CIEDE2000による色、フォントサイズ、角丸)、画面ルート基準のジオメトリ、要素の有無を、それぞれ明示的な許容値で比較する。何度実行しても結果は同じだ。"
+              },
+              {
+                "t": "p",
+                "x": "designfit_extractはFigmaのREST APIから仕様を読み取り、designfit_validateは合否、スコア、fix-listを返す。360-nodeのダッシュボードでは3回の反復でスコアが87から100に上がり、誤ったノードに付いたタグも明らかになった。"
+              },
+              {
+                "t": "p",
+                "x": "バージョン0.2が検査するのはビューポート1つで、スペーシングトークンとmulti-breakpointの検査はロードマップにある。無料でMIT-licensed(MITライセンス)だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot启用\n全新视觉识别",
-          "body": "Microsoft Design为Copilot推出新形象，把应用、工具和上下文汇聚一处。",
-          "mini_headline": "Copilot换上新形象",
+          "headline": "截图比对为何拖垮\nAI-built UIs",
+          "body": "与Figma比对时改看布局几何而非截图差异，可让编码代理不再反复空转。",
+          "mini_headline": "几何胜过截图",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "你的应用、工具和上下文，在我们全新的Copilot形象中汇聚一处。它的灵感源自工作，也为工作而设计。"
+                "x": "让编码代理对照Figma画框“做成一样”，它常常反复空转：一听到“还是不对”，就没完没了地微调。出问题的不是代理，而是比对方式。截图diff会把anti-aliasing、字体微调和sub-pixel取整都标为错误，于是分数来回摆动，始终无法收敛。"
+              },
+              {
+                "t": "p",
+                "x": "设计师不比对像素，而是检查有名称的属性。因此，作为open-source MCP服务器和Claude Code技能的designfit，会比对设计令牌（基于CIEDE2000的颜色、字号、圆角）、相对屏幕根节点的几何以及元素是否存在，每项都有明确的容差——每次运行结果都一致。"
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract从Figma的REST API读取规格；designfit_validate返回是否通过、分数和fix-list。在一个360-node的仪表盘上，它经过三次迭代将分数从87提升到100，并暴露出挂在错误节点上的标签。"
+              },
+              {
+                "t": "p",
+                "x": "0.2版只检查一个视口；间距令牌和multi-breakpoint检查已列入路线图。它免费且MIT-licensed（采用MIT许可）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft Design estrena la\nidentidad visual de Copilot",
-          "body": "La nueva identidad de Copilot de Microsoft Design reúne apps, herramientas y contexto, pensada para el trabajo.",
-          "mini_headline": "Copilot estrena identidad",
+          "headline": "Por qué el diff de capturas\ndesestabiliza UIs AI-built",
+          "body": "Comparar la geometría en vez de capturas contra un frame de Figma evita que los agentes de código den vueltas.",
+          "mini_headline": "Geometría antes que capturas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "Tus apps, herramientas y contexto se reúnen en nuestra nueva identidad de Copilot, inspirada en el trabajo y diseñada para él."
+                "x": "Si se apunta un agente de código a un frame de Figma y se le pide “haz que coincida”, a menudo da vueltas: cuando le dicen “sigue mal”, ajusta sin fin. El agente no está roto; lo está la comparación. Los diffs de capturas marcan como errores el anti-aliasing, el hinting de fuentes y el redondeo sub-pixel, así que la puntuación oscila y nunca converge."
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores no comparan píxeles; revisan propiedades con nombre. Por eso designfit, un servidor MCP open-source y skill de Claude Code, compara tokens de diseño (colores mediante CIEDE2000, tamaños de fuente, radios) y la geometría relativa a la raíz de la pantalla, además de la presencia de elementos, cada uno con tolerancias explícitas: determinista en cada ejecución."
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract lee la especificación desde la REST API de Figma; designfit_validate devuelve aprobado, puntuación y una fix-list. En un dashboard de 360-node, puntuó tres iteraciones de 87 a 100 y expuso etiquetas en nodos equivocados."
+              },
+              {
+                "t": "p",
+                "x": "La versión 0.2 revisa un solo viewport; los tokens de espaciado y las comprobaciones multi-breakpoint están en la hoja de ruta. Es gratuito y MIT-licensed (con licencia MIT)."
               }
             ]
           }
@@ -1624,73 +1611,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Copilot의 새\n비주얼 아이덴티티",
-          "body": "Microsoft Design의 새 Copilot 정체성은 앱·도구·맥락을 묶는다.",
-          "mini_headline": "Microsoft Design의 새 Copilot",
+          "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
+          "body": "스크린샷 대신 레이아웃 기하로 Figma와 비교하면 에이전트가 헤매지 않는다.",
+          "mini_headline": "스크린샷보다 기하",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "앱과 도구, 맥락이 새로운 Copilot 아이덴티티 안에서 하나로 모인다. 일에서 영감을 얻었고, 일을 위해 디자인했다."
+                "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말을 들으면 끝없이 고친다. 고장 난 것은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림을 오류로 잡아내므로 점수가 흔들리고 수렴하지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 픽셀을 diff하지 않고 이름 붙은 속성을 확인한다. 그래서 open-source MCP 서버이자 Claude Code 스킬인 designfit은 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 각각 명시적 허용 오차로 비교한다. 몇 번을 돌려도 결과가 같다."
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract는 Figma의 REST API에서 스펙을 읽고, designfit_validate는 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번의 반복으로 점수가 87에서 100으로 올랐고, 잘못된 노드에 붙은 태그도 드러났다."
+              },
+              {
+                "t": "p",
+                "x": "버전 0.2는 뷰포트 하나만 검사하며, 간격 토큰과 multi-breakpoint 검사는 로드맵에 있다. 무료이며 MIT-licensed(MIT 라이선스)다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Copilotの新しい\nビジュアルアイデンティティ",
-          "body": "Microsoftの新Copilotアイデンティティはアプリ・ツール・文脈を束ねる。",
-          "mini_headline": "Microsoft DesignのCopilot新アイデンティティ",
+          "headline": "AI-built UIsを\n画面差分が乱す理由",
+          "body": "Figmaとの比較を画面差分でなくレイアウト形状で行えば、エージェントは迷わない。",
+          "mini_headline": "スクリーンショットより形状",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "アプリ、ツール、コンテキストが、新しいCopilotアイデンティティのもとでひとつになる。仕事から着想を得て、仕事のためにデザインした。"
+                "x": "コーディングエージェントにFigmaのフレームを渡して「同じにして」と頼むと、空回りしがちだ。「まだ違う」と言われると延々と調整を続ける。壊れているのはエージェントではなく比較の仕方だ。スクリーンショットのdiffはanti-aliasing、フォントヒンティング、sub-pixelの丸めを誤りとして拾うため、スコアが揺れて収束しない。"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーはピクセルをdiffせず、名前の付いたプロパティを確認する。そこでopen-sourceのMCPサーバーでありClaude Codeのスキルでもあるdesignfitは、デザイントークン(CIEDE2000による色、フォントサイズ、角丸)、画面ルート基準のジオメトリ、要素の有無を、それぞれ明示的な許容値で比較する。何度実行しても結果は同じだ。"
+              },
+              {
+                "t": "p",
+                "x": "designfit_extractはFigmaのREST APIから仕様を読み取り、designfit_validateは合否、スコア、fix-listを返す。360-nodeのダッシュボードでは3回の反復でスコアが87から100に上がり、誤ったノードに付いたタグも明らかになった。"
+              },
+              {
+                "t": "p",
+                "x": "バージョン0.2が検査するのはビューポート1つで、スペーシングトークンとmulti-breakpointの検査はロードマップにある。無料でMIT-licensed(MITライセンス)だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Copilot启用\n全新视觉识别",
-          "body": "Microsoft Design为Copilot推出新形象，把应用、工具和上下文汇聚一处。",
-          "mini_headline": "Copilot换上新形象",
+          "headline": "截图比对为何拖垮\nAI-built UIs",
+          "body": "与Figma比对时改看布局几何而非截图差异，可让编码代理不再反复空转。",
+          "mini_headline": "几何胜过截图",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "你的应用、工具和上下文，在我们全新的Copilot形象中汇聚一处。它的灵感源自工作，也为工作而设计。"
+                "x": "让编码代理对照Figma画框“做成一样”，它常常反复空转：一听到“还是不对”，就没完没了地微调。出问题的不是代理，而是比对方式。截图diff会把anti-aliasing、字体微调和sub-pixel取整都标为错误，于是分数来回摆动，始终无法收敛。"
+              },
+              {
+                "t": "p",
+                "x": "设计师不比对像素，而是检查有名称的属性。因此，作为open-source MCP服务器和Claude Code技能的designfit，会比对设计令牌（基于CIEDE2000的颜色、字号、圆角）、相对屏幕根节点的几何以及元素是否存在，每项都有明确的容差——每次运行结果都一致。"
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract从Figma的REST API读取规格；designfit_validate返回是否通过、分数和fix-list。在一个360-node的仪表盘上，它经过三次迭代将分数从87提升到100，并暴露出挂在错误节点上的标签。"
+              },
+              {
+                "t": "p",
+                "x": "0.2版只检查一个视口；间距令牌和multi-breakpoint检查已列入路线图。它免费且MIT-licensed（采用MIT许可）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Microsoft Design estrena la\nidentidad visual de Copilot",
-          "body": "La nueva identidad de Copilot de Microsoft Design reúne apps, herramientas y contexto, pensada para el trabajo.",
-          "mini_headline": "Copilot estrena identidad",
+          "headline": "Por qué el diff de capturas\ndesestabiliza UIs AI-built",
+          "body": "Comparar la geometría en vez de capturas contra un frame de Figma evita que los agentes de código den vueltas.",
+          "mini_headline": "Geometría antes que capturas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "FgHhrBiamzw"
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
               },
               {
                 "t": "p",
-                "x": "Tus apps, herramientas y contexto se reúnen en nuestra nueva identidad de Copilot, inspirada en el trabajo y diseñada para él."
+                "x": "Si se apunta un agente de código a un frame de Figma y se le pide “haz que coincida”, a menudo da vueltas: cuando le dicen “sigue mal”, ajusta sin fin. El agente no está roto; lo está la comparación. Los diffs de capturas marcan como errores el anti-aliasing, el hinting de fuentes y el redondeo sub-pixel, así que la puntuación oscila y nunca converge."
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores no comparan píxeles; revisan propiedades con nombre. Por eso designfit, un servidor MCP open-source y skill de Claude Code, compara tokens de diseño (colores mediante CIEDE2000, tamaños de fuente, radios) y la geometría relativa a la raíz de la pantalla, además de la presencia de elementos, cada uno con tolerancias explícitas: determinista en cada ejecución."
+              },
+              {
+                "t": "p",
+                "x": "designfit_extract lee la especificación desde la REST API de Figma; designfit_validate devuelve aprobado, puntuación y una fix-list. En un dashboard de 360-node, puntuó tres iteraciones de 87 a 100 y expuso etiquetas en nodos equivocados."
+              },
+              {
+                "t": "p",
+                "x": "La versión 0.2 revisa un solo viewport; los tokens de espaciado y las comprobaciones multi-breakpoint están en la hoja de ruta. Es gratuito y MIT-licensed (con licencia MIT)."
               }
             ]
           }

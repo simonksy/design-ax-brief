@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "books",
   "media": [
     {
-      "id": "books-munich-llm-ruling",
+      "id": "books-audible-every-book-ai",
       "type": "image",
-      "src": "pipeline/media/books-munich-llm-ruling.png"
+      "src": "pipeline/media/books-audible-every-book-ai.png"
     },
     {
-      "id": "books-storytel-ai-translation",
+      "id": "books-wired-publishers-ai-staff-revolt",
       "type": "image",
-      "src": "pipeline/media/books-storytel-ai-translation.png"
+      "src": "pipeline/media/books-wired-publishers-ai-staff-revolt.jpg"
     },
     {
-      "id": "books-uk-human-authored-mark",
+      "id": "books-von-menschen-label",
       "type": "image",
-      "src": "pipeline/media/books-uk-human-authored-mark.jpg"
+      "src": "pipeline/media/books-von-menschen-label.jpg"
     },
     {
-      "id": "books-digital-publishing-award",
+      "id": "books-ghostwriters-ai-commissions",
       "type": "image",
-      "src": "pipeline/media/books-digital-publishing-award.png"
+      "src": "pipeline/media/books-ghostwriters-ai-commissions.jpg"
     },
     {
-      "id": "books-ai-narration-debate",
+      "id": "books-tonies-ai-storyteller",
       "type": "image",
-      "src": "pipeline/media/books-ai-narration-debate.jpg"
+      "src": "pipeline/media/books-tonies-ai-storyteller.png"
     }
   ]
 }

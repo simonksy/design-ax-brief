@@ -6371,6 +6371,154 @@
           "x": "Los proyectos pueden desarrollarse en colaboración mediante una URL compartida, y los juegos terminados pueden publicarse a través de Playground, la nueva plataforma de Google. Unity aún no ha definido su modelo comercial, aunque prevé niveles de acceso gratuitos y de pago. Una beta cerrada está prevista para más adelante en 2026."
         }
       ]
+    },
+    "games/sister-driving-llm-cost": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+          "cap": "Imagen principal de Enseñar a conducir a la hermana (Fuente: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "Enseñar a conducir a la hermana, un juego de Steam que se popularizó por el boca a boca entre streamers, ha llevado a su equipo de desarrollo a problemas financieros. El desarrollador Easy Fox compartió el día 7, en un aviso de Steam, la actualización 1.2.9 y el estado del desarrollo, y explicó las fallas del servicio causadas por el aumento de jugadores de la demo y sus medidas ante los costos de mantenimiento."
+        },
+        {
+          "t": "p",
+          "x": "La clave es la IA. El jugador enseña a conducir hablando con naturalidad, la IA procesa esas indicaciones y la hermana conduce, así que la experiencia cambia mucho según el modelo de IA que se use."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+          "cap": "Imagen del aviso de la actualización 1.2.9 de Enseñar a conducir a la hermana (Fuente: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "En un mes, los jugadores de la demo se multiplicaron por más de 20 y el gasto llegó a 1.000 dólares (unos 1,34 millones de wones) al día. En el lanzamiento oficial, se prevé incluir en el precio del paquete el costo estimado de uso de IA para evitar cobros adicionales. Easy Fox afirmó: \"Incluso hemos pedido un préstamo bancario para seguir operando la demo\", y añadió que, al ser un equipo de solo cuatro personas, podría cerrar la demo antes de lo previsto, aunque aún no lo ha decidido."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+          "cap": "Captura de pantalla de Enseñar a conducir a la hermana (Fuente: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "También hay problemas de calidad. Cuando Google Gemini, el modelo principal, empezó a fallar con frecuencia por el aumento del tráfico, creció el peso del modelo de respaldo de OpenAI, con respuestas extensas y un tono mecánico. Easy Fox considera prioritario mejorar la longitud y el tono de las respuestas, y planea reducir los errores en los que las instrucciones de conducción se ejecutan al revés."
+        }
+      ]
+    },
+    "games/dreamlands-1-0-public": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+        },
+        {
+          "t": "p",
+          "x": "Dreamlands lanza al público su plataforma 1.0, que permite a cualquiera generar con IA recursos 3D listos para juegos y mundos completos, con planes de $20 a $200 al mes. Se presentó en el evento Gemini at Work de Google Cloud, en Google Cloud Marketplace."
+        },
+        {
+          "t": "p",
+          "x": "El CEO Thomas Tobin, que trabajó antes en Unity y Ubisoft, destacó tres funciones. One-Click Texturing cambia el estilo de un objeto en unos 10 segundos por $0.10 por edición."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+        },
+        {
+          "t": "p",
+          "x": "Surface añade un sistema de capas que detecta automáticamente madera, metal, vidrio y tela para cambiar el acabado con rapidez."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+        },
+        {
+          "t": "p",
+          "x": "Procedural Building y City Makers generan estructuras a partir de kits modulares y planos de planta, y pueden construir ciudades a partir de trazados del mundo real. Los plugins abarcan Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max y Omniverse."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+        },
+        {
+          "t": "p",
+          "x": "El estudio de tres personas Whenere lo usó para reconstruir Netherfield Park en su mundo de Fortnite de Pride & Prejudice, convirtiendo fotos en modelos 3D editables; su CEO, Karen Laur, dijo que antes el resultado habría sido \"realmente imposible\" para un equipo de su tamaño. Dreamlands funciona sobre Google Cloud y usa modelos Gemini."
+        }
+      ]
+    },
+    "games/kutaragi-ai-daydreams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ken Kutaragi, padre de PlayStation que se retiró de Sony en 2007, dirige ahora empresas de IA y parece convencido de que los videojuegos pronto serán reemplazados por ensoñaciones de IA."
+        },
+        {
+          "t": "p",
+          "x": "\"La IA transformará los juegos en entretenimiento y cambiará la sensibilidad humana\", dijo en un reciente panel universitario, según informó 4Gamer. \"El mercado mundial de los videojuegos vale hoy más de 30 billones de yenes, pero podría llegar a unos 3.000 billones de yenes. Si eso ocurre, ya ni siquiera se llamará juego\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Entre bastidores, avanza la investigación y el desarrollo de la generación en tiempo real de video y música mediante IA\", afirmó, y predijo que funcionará a la velocidad de las consolas actuales hacia 2028 o 2029. \"Cuando eso ocurra, todo el contenido cambiará... Imaginar cosas se convertirá en contenido en sí mismo\". Las citas se tradujeron automáticamente del japonés."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ señala que Kutaragi dirige Cyber AI Entertainment y Ascent Robotics, lo que le da un interés directo en presentar la IA como inevitable."
+        }
+      ]
+    },
+    "games/krafton-snu-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+          "cap": "Ceremonia de lanzamiento de la investigación conjunta sobre modelos de mundo de Krafton y la Universidad Nacional de Seúl (Foto: Krafton)"
+        },
+        {
+          "t": "p",
+          "x": "Krafton ha iniciado con la Universidad Nacional de Seúl una investigación conjunta sobre modelos de mundo que abarca los videojuegos y la robótica. Ambas partes celebraron una ceremonia de lanzamiento en la universidad, donde presentaron los temas de investigación y al equipo investigador; asistieron, entre otros, Kangwook Lee, CAIO de Krafton, y el profesor U Kang, de la Universidad Nacional de Seúl."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de mundo es una tecnología con la que la IA comprende la situación actual y predice y simula cómo cambiará el entorno según sus acciones. La investigación conjunta se desarrollará durante los próximos 3 años mediante tres proyectos del profesorado y la operación de un centro de investigación conjunto. Incluye tecnología para mantener la coherencia de espacios y objetos en videos largos, tecnología que conecta los movimientos de personas y objetos con datos de movimiento de juegos, e investigación y creación de benchmarks para verificar si la IA usa la información espacial como base de sus decisiones."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento se basa en un acuerdo de cooperación entre industria y universidad firmado en noviembre del año pasado. El CAIO Kangwook Lee afirmó que \"la capacidad de simulación y de construcción de mundos virtuales acumulada con los videojuegos es una base importante para la investigación de modelos de mundo\" y dijo que extenderán los resultados a la experiencia de juego y la robótica. Krafton creó el año pasado en Estados Unidos la filial de investigación en robótica Ludo Robotics y, en febrero de este año, una filial en Corea."
+        }
+      ]
+    },
+    "games/games-fortnite-whenere": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Whenere, la empresa del autor de Sci-fi Neal Stephenson, lleva Pride and Prejudice, de Jane Austen, a Fortnite. Whenere se describe como un \"editor de guiones web-based que te ayuda a crear historias inmersivas y cinematográficas que se pueden ver directamente dentro de Fortnite\"."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de recrear el libro, construye escenarios como Netherfield Park, donde los usuarios eligen una ubicación, guionizan el movimiento y añaden diálogos (self-written o con ayuda de AI), y luego publican en la isla de Fortnite de Whenere."
+        },
+        {
+          "t": "p",
+          "x": "Whenere usa Dreamlands, una herramienta de AI basada en Gemini de Google, para \"generar gran parte del mobiliario y la decoración (décor) y mantener la precisión histórica\". Stephenson dijo a Google: \"Este puede ser un lugar donde la AI aumente y potencie la creatividad, no donde la sustituya\"."
+        },
+        {
+          "t": "video",
+          "yt": "ZdBRAz9yvro"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath sostiene que los recursos AI-generated podrían alejar a los autores de fanfic y lo califica de \"otra muestra más del hype de la AI\". Hay prevista una prueba de juego cerrada; aún no hay fecha de lanzamiento pública."
+        }
+      ]
     }
   }
 }

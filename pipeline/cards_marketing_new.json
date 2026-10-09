@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-10",
+  "section": "marketing",
+  "cards": [
+    {
+      "id": "pinterest-beauty-guides-llm",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "핀터레스트, AI로\n맞춤 뷰티 가이드",
+      "body": "핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
+      "mini_headline": "핀터레스트 뷰티 가이드",
+      "tool": "Marketing",
+      "source": "MADTIMES",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.madtimes.co.kr/news/thumbnail/202610/29255_71542_169_v150.jpg"
+          },
+          {
+            "t": "p",
+            "x": "핀터레스트가 새 기능 '뷰티 가이드'를 선보였다. 시각 인식 기술과 대규모 언어모델(LLM)을 결합해 헤어·네일 핀을 개인화된 가이드로 바꾸고, 살롱 시술 안내와 비슷한 스타일, 관련 상품을 함께 보여준다."
+          },
+          {
+            "t": "p",
+            "x": "이번 기능은 영감에서 구매 의도로 이어지는 흐름을 강화하려는 '핀터레스트 인텔리전스' 전략의 일환이다."
+          }
+        ]
+      }
+    },
+    {
+      "id": "ehealth-regal-alice-voice-agent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "eHealth's voice AI lifts\nMedicare purchases 27%",
+      "body": "eHealth's voice AI agent Alice prescreens Medicare callers, driving a 27% higher purchase rate than human screeners.",
+      "mini_headline": "eHealth's AI agent Alice",
+      "tool": "Marketing",
+      "source": "CX Dive",
+      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+          },
+          {
+            "t": "p",
+            "x": "Health insurance agency eHealth uses Regal's voice AI agent, Alice, to prescreen Medicare callers during open enrollment, moving from a pilot to a full-time deployment."
+          },
+          {
+            "t": "p",
+            "x": "Alice answers every call instantly, scores 77% \"exceptional\" satisfaction, and drives a 27% higher purchase rate than the outsourced human screeners it replaced."
+          }
+        ]
+      }
+    }
+  ]
+}

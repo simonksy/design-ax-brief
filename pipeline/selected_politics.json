@@ -1,113 +1,112 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "politics",
   "picks": [
     {
       "rank": 1,
-      "title": "AI giants promise to play nice with personal data after UK watchdog scrutiny",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
-      "source": "theregister.com",
-      "published_iso": "2026-10-08T12:35:00+00:00",
-      "og_image": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683",
-      "excerpt": "The UK ICO said Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI and Stability AI made or committed to changes in how they use personal data to train AI; the watchdog now turns to autonomous agents and continues a separate Grok probe.",
+      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "source": "digital-strategy.ec.europa.eu",
+      "published_iso": "2026-10-09T07:16:00+00:00",
+      "og_image": "",
+      "excerpt": "The European Commission convened a special meeting of its Scientific Panel on AI, which has been investigating recent loss-of-control incidents and, with the AI Office, drafted questions for the companies that developed the models involved.",
       "axis": "policy",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Official regulator outcome: the UK ICO reports that ten AI developers changed or committed to change how they use personal data for training, and says it will look at autonomous agents next."
+      "rationale": "Primary EU release: the Commission's AI Scientific Panel is formally examining loss-of-control incidents and, with the AI Office, has drafted questions for the model developers involved, an early step in AI Act oversight of frontier models."
     },
     {
       "rank": 2,
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "theverge.com",
-      "published_iso": "2026-10-08T17:58:33+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK155_OPEN_AI_CVirginia__A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "USA Today Co. filed a copyright lawsuit against OpenAI, joining a growing list of news publishers alleging their journalism was used without permission to train AI models.",
-      "axis": "policy",
+      "title": "Disrupting AI-enabled \"false front\" operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "source": "openai.com",
+      "published_iso": "2026-10-08T00:00:00+00:00",
+      "og_image": "",
+      "excerpt": "OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. Company-attributed claims.",
+      "axis": "elections",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "New court filing in AI copyright litigation: a major US newspaper group sues OpenAI over training data, which adds to the publisher cases that will shape training-data rules."
+      "rationale": "Primary threat report on AI-driven influence operations: OpenAI says it took down two networks that used fake journalists and a fake think tank (claims attributed to OpenAI), which is concrete evidence on the public-opinion axis."
     },
     {
       "rank": 3,
-      "title": "Data centers face a sweeping new power regime",
-      "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
-      "source": "axios.com",
-      "published_iso": "2026-10-08T09:15:05+00:00",
-      "og_image": "https://images.axios.com/TT4dqoS71Nk0TEopBHLR3A-Axd4=/1920x1080/smart/2025/05/27/173016-1748367016678.gif",
-      "excerpt": "Lawmakers are considering bipartisan legislation, unveiled last week, that would force data centers to shoulder new costs and restrictions while speeding up the energy infrastructure needed to power the AI boom.",
-      "axis": "policy",
+      "title": "EU cyber and science researchers are testing Chinese AI models",
+      "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+      "source": "politico.eu",
+      "published_iso": "2026-10-08T20:54:20+00:00",
+      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+      "excerpt": "The EU's cyber agency ENISA and the Joint Research Centre confirm for the first time that they are testing Chinese open-source AI models.",
+      "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A new bipartisan bill would make AI data centers pay for and limit their grid use while also fast-tracking power infrastructure, which affects where and how AI compute gets built."
+      "rationale": "Official confirmation: ENISA and the JRC say for the first time that they are testing Chinese open-weight models, which signals how EU institutions will vet Chinese AI."
     },
     {
       "rank": 4,
-      "title": "Singapore's central bank wants all FinTech AI use cases subject to independent review",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
-      "source": "theregister.com",
-      "published_iso": "2026-10-08T00:53:03+00:00",
-      "og_image": "https://image.theregister.com/5301805.jpg?imageId=5301805&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "excerpt": "The Monetary Authority of Singapore wants every AI use case at fintech firms to be subject to independent review.",
-      "axis": "policy",
+      "title": "경찰, '딥페이크·관권선거 의혹' 박완수 경남지사 피의자 조사",
+      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
+      "source": "yna.co.kr",
+      "published_iso": "2026-10-08T18:30:09+09:00",
+      "og_image": "",
+      "excerpt": "경찰이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 박 지사를 피의자 신분으로 조사했다. 경남선관위가 공직선거법 위반 혐의로 수사 의뢰한 사건이다.",
+      "axis": "elections",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Regulatory proposal from a financial supervisor: MAS would require independent review of every AI use case at fintech firms, which raises the compliance bar for teams building AI in finance."
+      "rationale": "Concrete law-enforcement step on an election deepfake case: police questioned a sitting governor as a suspect after the provincial election commission referred alleged deepfake-video use and official-power campaigning. These are allegations only, attributed to police and the commission, with no finding of guilt."
     },
     {
       "rank": 5,
-      "title": "German search engine ditches Mistral, bets on Chinese open-source AI",
-      "url": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
-      "source": "politico.eu",
-      "published_iso": "2026-10-06T17:07:45+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/06/2019_-_planet-tech_-_Day_1_HM2_7122_49018327483-scaled.jpg",
-      "excerpt": "Ecosia, the German search engine, replaced Mistral with Chinese open-source AI models, complicating Europe's digital-sovereignty push.",
+      "title": "Ukraine's drones knock out AI data center belonging to \"Russia's Google\"",
+      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "source": "arstechnica.com",
+      "published_iso": "2026-10-09T22:04:07+00:00",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+      "excerpt": "Ukrainian drone strikes hit a Yandex AI data center, making AI compute infrastructure an explicit military target in the Russia-Ukraine war.",
       "axis": "geopolitics",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "AI geopolitics as a concrete decision: Ecosia switched from Mistral to Chinese open-weight models, which tests Europe's digital-sovereignty goals."
+      "rationale": "AI geopolitics as a concrete event: a strike on Yandex's AI data center shows AI compute being treated as a military target in a war."
     }
   ],
   "alternates": [
-    "https://www.lawfaremedia.org/article/the-ai-model-distillation-paradox",
-    "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-    "https://thediplomat.com/2026/10/ai-and-the-risk-to-democracy/",
-    "https://ainowinstitute.org/news/announcement/ai-nows-aashna-agarwal-testifies-before-nyc-council-committee-of-the-whole",
-    "https://thediplomat.com/2026/10/chinas-ai-governance-push-and-the-race-to-shape-global-ai-rules/"
+    "https://epic.org/epic-to-nyc-council-address-the-ai-harms-already-affecting-new-yorkers/",
+    "https://www.yna.co.kr/view/AKR20261009037700073",
+    "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
   ],
   "dedup": {
     "checks": {
-      "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966": {
+      "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks": {
         "verdict": "new",
-        "nearest": "https://www.axios.com/2026/09/30/ftc-openai-anthropic-ai-safety-investigation",
+        "nearest": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
         "new_action": ""
       },
-      "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit": {
-        "verdict": "new",
-        "nearest": "https://www.niemanlab.org/2026/09/federal-appeals-court-upholds-thomson-reuters-landmark-ai-copyright-win/",
-        "new_action": ""
-      },
-      "https://www.axios.com/2026/10/08/data-centers-power-regime": {
-        "verdict": "new",
-        "nearest": "https://www.theregister.com/systems/2026/09/18/virginia-governor-wakes-up-to-fact-datacenters-have-become-political-cancer/5297561",
-        "new_action": ""
-      },
-      "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798": {
+      "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/": {
+      "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/": {
         "verdict": "new",
-        "nearest": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
+        "nearest": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
+        "new_action": ""
+      },
+      "https://www.yna.co.kr/view/AKR20261008192700052": {
+        "verdict": "new",
+        "nearest": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
+        "new_action": ""
+      },
+      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
+        "verdict": "new",
+        "nearest": "https://www.axios.com/2026/10/08/data-centers-power-regime",
         "new_action": ""
       }
     },
-    "note": "Upstream had already dropped CSET 'Should We Track AI Chips?' as a repeat of the 9/30 card. Dropped as duplicates or off-axis: Axios Trump 'AI is THE ENEMY' (a presidential social post about the Super Intelligence rebrand, which continues the 10/07 Super Intelligence Force charter story and has no new decision); Brookings 'morally binding AI pact' (commentary on the 9/30 voluntary-standards story); Common Sense Media ChatGPT teens (an advocacy rating, not a government action); Ars AI-song streaming fraud (a criminal case, off-axis, and dropped yesterday); Register South Korean president cyber tools (fails the AI-deletion test); Rest of World China tech (not AI-centred, mostly batteries, solar and drones). Ranked below the picks as commentary, analysis or interview: Lawfare distillation, SemiAnalysis China safety regime, Diplomat x2 (democracy interview, China governance), TPP x3, ChinaTalk interview, AI Now NYC Council testimony. history_match notes: USA Today v. OpenAI is a new filing in a different case from the Thomson Reuters v. Ross appeal (the 'related' match), so it is new. Ecosia's switch to Chinese models is a separate company decision from the Reflection/Mistral open-weight releases (the 'related' match), so it is new. Outlets: theregister 2, theverge 1, axios 1, politico.eu 1, which is 4 distinct outlets under the cap of 2. Axes: 4 policy, 1 geopolitics. The only elections/public-opinion candidate was the Diplomat interview, which is commentary, so there is no elections pick."
+    "note": "SWAP: I dropped the pick 'Dutch DPA fines Uber EUR 824,990,000' (EDPB, dated 8 Oct). The fine was announced on 21 Aug 2026 (Reuters/CNIL/TNW), so the 8 Oct EDPB page is a stale re-post and not fresh news. Its dedup entry is removed. Replacement: Yonhap, 'Police question Gyeongnam Governor Park Wan-su as a suspect over deepfake and official-power election allegations' (rank 4). It was the top alternate, and this is a new concrete enforcement step: suspect questioning after the Gyeongnam election commission's referral under the Public Official Election Act. The 30-day history has no Korean election-deepfake story. The nearest is the 10/03 Van Orden deepfake cease-and-desist, which involves a different country, actor and action, so the verdict is new. The copy must stay non-partisan and attribute the claims as allegations by police and the election commission. Earlier drops still stand: the Trump 'super intelligence' rename trio (Axios/Verge/Poynter) is one running story already covered by the 9/30 presidential action, the 9/28 SI Dialogue fact sheet and the 10/07 Super Intelligence Force charter, and politics owns it with no new order. The NYC Council hearing pair (EPIC/AI Now, cluster c18) is advocacy testimony, not a council decision. Also dropped: Ars AI-song streaming fraud (off-axis, already dropped 10/09); Common Sense Media ChatGPT teens (advocacy rating, already dropped 10/09); Google SynthID (product news); and as commentary or analysis, TPP x3, SemiAnalysis and the Diplomat interview. Ranked below the replacement: Yonhap Japan AI-cyberattack advisory and FSC chair remarks (statements, not rules), Verge Anthropic fake police tip (no government action), Axios 'day after' scoop (private planning). Outlets after the swap: 5 distinct (EC, OpenAI, POLITICO Europe, Yonhap, Ars). Axes: policy 1, elections 2, geopolitics 2."
   }
 }

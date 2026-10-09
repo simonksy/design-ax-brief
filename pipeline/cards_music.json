@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "music",
   "cards": [
     {
-      "id": "music-amuchart",
-      "source_lang": "ko",
+      "id": "music-smith-sentenced",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 음악 전용 플랫폼\n아뮤차트 출범",
-      "body": "홍종구의 아뮤차트는 반응 좋은 AI 곡을 실제 가수가 부르게 할 계획이다.",
-      "mini_headline": "AI 음악 플랫폼\n아뮤차트",
+      "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
+      "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
+      "mini_headline": "AI 스트리밍 사기, 징역 18개월",
       "tool": "Music",
-      "source": "일간스포츠",
-      "url": "https://isplus.com/article/view/isp202610070043",
+      "source": "Mixmag",
+      "url": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,346 +19,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-            "cap": "홍종구 대표 (2024 KGMA 조직위원회 발대식)"
+            "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
           },
           {
             "t": "p",
-            "x": "그룹 노이즈 출신이자 메타 AI 랩의 홍종구 대표가 AI 음악 창작자들을 위한 최초의 전용 플랫폼 '아뮤차트'를 선보였다. 그는 \"AI로 탄생한 노래들을 온전히 담아낼 수 있는 플랫폼을 먼저 만들자는 생각에서 출발했다\"고 말했다."
+            "x": "AI 스트리밍 사기를 주도해 저작권료 800만 달러 넘게 챙긴 미국(US) 음악가가 18개월 동안 복역한다."
           },
           {
             "t": "p",
-            "x": "아뮤차트는 지난 9월 9일 오픈 이후 두 달이 안 되는 기간 동안 약 300명의 창작자가 참여해 약 9000곡을 모았다. 창작자 가입 기준은 만 15세 이상이며, 확인된 최고령 창작자는 약 80세다. 가장 많은 곡을 올린 창작자는 180곡에 달해, 플랫폼은 업로드를 한 명당 하루 5곡으로 제한했다."
+            "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일 Michael Smith에게 징역 18개월과 $8,091,843.64 몰수가 선고됐다고 확인했다. Smith는 지난 3월 유죄를 인정했다."
           },
           {
             "t": "p",
-            "x": "리스너가 채팅이나 음성으로 기분과 상황을 설정하면 가상 DJ가 음악을 추천한다. 후원, 실시간 채팅, DM 기능과 함께, 크루끼리 음악을 만들어 배틀을 벌이는 '크루', 리스너가 창작자를 발굴해 성장(5단계 레벨)에 따라 수익 일부를 배분받는 '스카우트' 제도도 갖췄다."
+            "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음엔 자기 음악을 재생하는 정도였지만 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 커졌다. 2023년 4월 한 달 동안 YouTube Music에서만 스트리밍이 8000만 회를 넘었다. 검찰은 그가 모두 1400만 달러를 벌어들였다고 본다."
           },
           {
             "t": "p",
-            "x": "한 엔진에서 일률적인 곡이 쏟아질 위험에 대비해 '리마스터링' 시스템과 음악 생성 서비스 고도화도 준비 중이다. 홍 대표는 AI 뮤직 시상식·페스티벌·컨퍼런스 개최와 매니지먼트 사업 확장을 구상하고 있다."
+            "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들에게 갈 저작권료를 가로챘다고 말했다."
           },
           {
             "t": "p",
-            "x": "\"AI 곡 중 반응이 좋은 곡은 전문가 및 창작자와의 긴밀한 협의를 거쳐 실제 가수가 부르게 하는 매니지먼트 사업으로 확장할 계획입니다.\""
+            "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가했다. 업계도 Streaming Integrity Initiative로 사기를 예방하고 탐지해 차단해야 한다는 말도 덧붙였다."
           }
         ]
       },
-      "lead_image": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
       "text": {
-        "ko": {
-          "headline": "AI 음악 전용 플랫폼\n아뮤차트 출범",
-          "body": "홍종구의 아뮤차트는 반응 좋은 AI 곡을 실제 가수가 부르게 할 계획이다.",
-          "mini_headline": "AI 음악 플랫폼\n아뮤차트",
+        "en": {
+          "headline": "AI stream fraudster gets\n18 months in prison",
+          "body": "Michael Smith got 18 months and an $8.09M forfeiture for using bots to fake billions of streams of AI songs.",
+          "mini_headline": "AI stream fraud:\n18 months",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "홍종구 대표 (2024 KGMA 조직위원회 발대식)"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "그룹 노이즈 출신이자 메타 AI 랩의 홍종구 대표가 AI 음악 창작자들을 위한 최초의 전용 플랫폼 '아뮤차트'를 선보였다. 그는 \"AI로 탄생한 노래들을 온전히 담아낼 수 있는 플랫폼을 먼저 만들자는 생각에서 출발했다\"고 말했다."
+                "x": "A US musician will spend a year and a half in prison for masterminding an AI streaming fraud scheme that earned him over $8 million in royalties."
               },
               {
                 "t": "p",
-                "x": "아뮤차트는 지난 9월 9일 오픈 이후 두 달이 안 되는 기간 동안 약 300명의 창작자가 참여해 약 9000곡을 모았다. 창작자 가입 기준은 만 15세 이상이며, 확인된 최고령 창작자는 약 80세다. 가장 많은 곡을 올린 창작자는 180곡에 달해, 플랫폼은 업로드를 한 명당 하루 5곡으로 제한했다."
+                "x": "On October 6, the US Attorney's Office for the Southern District of New York confirmed that Michael Smith, who pleaded guilty in March, will serve 18 months and must forfeit $8,091,843.64."
               },
               {
                 "t": "p",
-                "x": "리스너가 채팅이나 음성으로 기분과 상황을 설정하면 가상 DJ가 음악을 추천한다. 후원, 실시간 채팅, DM 기능과 함께, 크루끼리 음악을 만들어 배틀을 벌이는 '크루', 리스너가 창작자를 발굴해 성장(5단계 레벨)에 따라 수익 일부를 배분받는 '스카우트' 제도도 갖췄다."
+                "x": "Between 2017 and 2024, investigators found, Smith used bot accounts to generate billions of streams of AI music on Spotify, Apple Music, Amazon Music and YouTube Music. What began as streams of his own music became a plot to upload hundreds of thousands of AI-generated tracks, drawing over 80 million streams in April 2023 on YouTube Music alone. Prosecutors believe he amassed $14 million in total."
               },
               {
                 "t": "p",
-                "x": "한 엔진에서 일률적인 곡이 쏟아질 위험에 대비해 '리마스터링' 시스템과 음악 생성 서비스 고도화도 준비 중이다. 홍 대표는 AI 뮤직 시상식·페스티벌·컨퍼런스 개최와 매니지먼트 사업 확장을 구상하고 있다."
+                "x": "US Attorney Jamie McDonald said Smith flooded platforms \"with automated bots in the place of consumers, and fake songs in the place of creativity\", robbing genuine artists of royalties."
               },
               {
                 "t": "p",
-                "x": "\"AI 곡 중 반응이 좋은 곡은 전문가 및 창작자와의 긴밀한 협의를 거쳐 실제 가수가 부르게 하는 매니지먼트 사업으로 확장할 계획입니다.\""
+                "x": "The IFPI said the result \"sends a clear message that streaming fraud is a crime\", adding that the industry must also prevent, detect and disrupt fraud through its Streaming Integrity Initiative."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI music gets its own\nplatform: Amuchart launches",
-          "body": "Hong Jong-gu's Amuchart plans to have real singers perform the AI songs that draw the best response.",
-          "mini_headline": "AI music platform Amuchart",
+        "ko": {
+          "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
+          "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
+          "mini_headline": "AI 스트리밍 사기, 징역 18개월",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "CEO Hong Jong-gu (2024 KGMA organizing committee launch ceremony)"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "Hong Jong-gu, a former member of the group Noise and head of Meta AI Lab, has launched Amuchart, the first platform dedicated to AI music creators. “It started from the idea of first building a platform that could fully hold the songs born from AI,” he said."
+                "x": "AI 스트리밍 사기를 주도해 저작권료 800만 달러 넘게 챙긴 미국(US) 음악가가 18개월 동안 복역한다."
               },
               {
                 "t": "p",
-                "x": "Since opening on September 9, Amuchart has drawn about 300 creators and gathered about 9000 songs in less than two months. Creators must be 15 or older, and the oldest confirmed creator is about 80. The most prolific creator uploaded 180 songs, so the platform limited uploads to 5 songs per person per day."
+                "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일 Michael Smith에게 징역 18개월과 $8,091,843.64 몰수가 선고됐다고 확인했다. Smith는 지난 3월 유죄를 인정했다."
               },
               {
                 "t": "p",
-                "x": "Listeners set their mood and situation by chat or voice, and a virtual DJ recommends music. Alongside donations, live chat and DM features, it offers 'Crew', where crews make music and battle each other, and 'Scout', where listeners discover creators and receive a share of revenue as those creators grow (5 levels)."
+                "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음엔 자기 음악을 재생하는 정도였지만 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 커졌다. 2023년 4월 한 달 동안 YouTube Music에서만 스트리밍이 8000만 회를 넘었다. 검찰은 그가 모두 1400만 달러를 벌어들였다고 본다."
               },
               {
                 "t": "p",
-                "x": "To guard against a flood of uniform songs from a single engine, it is preparing a 'remastering' system and upgrades to its music generation service. Hong is considering hosting AI music awards, festivals and conferences, and expanding into a management business."
+                "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들에게 갈 저작권료를 가로챘다고 말했다."
               },
               {
                 "t": "p",
-                "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
+                "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가했다. 업계도 Streaming Integrity Initiative로 사기를 예방하고 탐지해 차단해야 한다는 말도 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI音楽専用プラットフォーム\nアミュチャート始動",
-          "body": "ホン・ジョング氏のアミュチャートは、反響の大きいAI曲を実在の歌手に歌わせる計画だ。",
-          "mini_headline": "AI音楽プラットフォーム アミュチャート",
+          "headline": "AIストリーミング詐欺\n禁錮18カ月の判決",
+          "body": "ボットでAI曲再生を水増ししたSmithに禁錮18カ月と$8.09M の没収が命じられた。",
+          "mini_headline": "AI再生詐欺、禁錮18カ月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "ホン・ジョング代表（2024 KGMA組織委員会発足式）"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "グループ・ノイズ出身で、メタAIラボを率いるホン・ジョング代表が、AI音楽クリエイターのための初の専用プラットフォーム「アミュチャート」を立ち上げた。彼は「AIから生まれた曲をしっかり受け止められるプラットフォームを、まず作ろうという考えから始まった」と語った。"
+                "x": "米国(US)の音楽家が、AIを使ったストリーミング詐欺を首謀し800万ドルを超える印税を得たとして、18カ月服役することになった。"
               },
               {
                 "t": "p",
-                "x": "アミュチャートは9月9日のオープンから二か月足らずで約300人のクリエイターが参加し、約9000曲を集めた。クリエイター登録は満15歳以上が条件で、確認された最高齢のクリエイターは約80歳だ。最も多く投稿したクリエイターは180曲に達し、プラットフォームは投稿を一人あたり一日5曲に制限した。"
+                "x": "ニューヨーク南部地区連邦検察局(US Attorney's Office for the Southern District of New York)は10月6日、3月に有罪を認めたMichael Smithが禁錮18カ月に服し、$8,091,843.64を没収されることを確認した。"
               },
               {
                 "t": "p",
-                "x": "リスナーがチャットや音声で気分や状況を設定すると、仮想DJが音楽を薦める。投げ銭、リアルタイムチャット、DM機能に加え、クルー同士で音楽を作ってバトルする「クルー」、リスナーがクリエイターを発掘し、その成長（5段階のレベル）に応じて収益の一部を受け取る「スカウト」制度も備える。"
+                "x": "捜査によると、Smithは2017年から2024年にかけて、ボットアカウントを使ってSpotify、Apple Music、Amazon Music、YouTube MusicでAI音楽の再生を数十億回生み出した。当初は自身の楽曲の再生から始まったが、やがて数十万曲のAI生成(AI-generated)トラックをアップロードする計画へと発展し、2023年4月にはYouTube Musicだけで8000万回を超える再生を集めた。検察は、彼が総額1400万ドルを手にしたとみている。"
               },
               {
                 "t": "p",
-                "x": "一つのエンジンから画一的な曲があふれるリスクに備え、「リマスタリング」システムや音楽生成サービスの高度化も準備中だ。ホン代表はAIミュージックの授賞式・フェスティバル・カンファレンスの開催と、マネジメント事業の拡大を構想している。"
+                "x": "US連邦検事のJamie McDonaldは、Smithが「消費者の代わりに自動化されたボットを、創造性の代わりに偽の楽曲を」プラットフォームにあふれさせ、本物のアーティストから印税を奪ったと述べた。"
               },
               {
                 "t": "p",
-                "x": "「AI曲のうち反響の良い曲は、専門家やクリエイターと緊密に協議したうえで、実在の歌手が歌うマネジメント事業へと拡大する計画です」"
+                "x": "IFPIは今回の結果が「ストリーミング詐欺は犯罪であるという明確なメッセージを送るものだ」とし、業界もStreaming Integrity Initiativeを通じて詐欺を防止、検知、阻止しなければならないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI音乐专属平台\nAmuchart上线",
-          "body": "Hong Jong-gu的Amuchart计划让反响好的AI歌曲由真人歌手演唱。",
-          "mini_headline": "AI音乐平台Amuchart",
+          "headline": "AI流媒体刷量者\n被判入狱18个月",
+          "body": "Smith用机器人伪造数十亿次AI歌曲播放，被判入狱18个月并没收$8.09M。",
+          "mini_headline": "AI刷量诈骗：获刑18个月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "Hong Jong-gu代表（2024 KGMA组委会成立仪式）"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "出身组合Noise、现任Meta AI实验室负责人的Hong Jong-gu代表，推出了首个面向AI音乐创作者的专属平台Amuchart。他表示：“最初的想法是，先打造一个能完整容纳AI诞生歌曲的平台。”"
+                "x": "一名美国(US)音乐人因策划AI流媒体欺诈计划、赚取超过800万美元版税，将入狱一年半。"
               },
               {
                 "t": "p",
-                "x": "Amuchart自9月9日上线以来，不到两个月就吸引约300名创作者参与，汇集约9000首歌曲。创作者注册门槛为年满15岁，已确认的最年长创作者约80岁。上传最多的创作者达180首，平台因此将上传限制为每人每天5首。"
+                "x": "10月6日，纽约南区联邦检察官办公室(US Attorney's Office for the Southern District of New York)确认，已于3月认罪的Michael Smith将服刑18个月，并须没收$8,091,843.64。"
               },
               {
                 "t": "p",
-                "x": "听众通过聊天或语音设定心情和场景后，虚拟DJ会推荐音乐。除打赏、实时聊天和DM功能外，平台还设有让战队之间创作音乐并展开对战的“战队”，以及听众发掘创作者、并按其成长（5级等级）分得部分收益的“星探”制度。"
+                "x": "调查人员发现，2017年至2024年间，Smith利用机器人账户在Spotify、Apple Music、Amazon Music和YouTube Music上为AI音乐制造了数十亿次播放。起初他只是为自己的音乐刷播放量，后来演变为上传数十万首AI生成(AI-generated)曲目的计划，仅2023年4月在YouTube Music上就获得超过8000万次播放。检方认为他总共获利1400万美元。"
               },
               {
                 "t": "p",
-                "x": "为应对同一引擎产出大量雷同歌曲的风险，平台正在准备“重制母带”系统，并升级音乐生成服务。Hong Jong-gu代表正构想举办AI音乐颁奖典礼、音乐节和大会，并拓展经纪业务。"
+                "x": "US联邦检察官Jamie McDonald表示，Smith让平台充斥着“取代消费者的自动化机器人，以及取代创造力的虚假歌曲”，夺走了真正艺术家的版税。"
               },
               {
                 "t": "p",
-                "x": "“AI歌曲中反响好的作品，将在与专家及创作者密切协商后交由真人歌手演唱，我们计划借此拓展经纪业务。”"
+                "x": "IFPI表示，这一结果“传递了流媒体欺诈是犯罪的明确信息”，并补充说，业界也必须通过其Streaming Integrity Initiative来预防、发现和打击欺诈。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nace Amuchart, plataforma\nexclusiva de música con AI",
-          "body": "Amuchart, de Hong Jong-gu, planea que cantantes reales interpreten las canciones de AI con mejor acogida.",
-          "mini_headline": "Plataforma de música AI Amuchart",
+          "headline": "Condenado a 18 meses de cárcel\npor fraude de streams con IA",
+          "body": "Michael Smith recibió 18 meses y un decomiso de $8.09M por inflar con bots miles de millones de streams de IA.",
+          "mini_headline": "Fraude de streams con IA: 18 meses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "Hong Jong-gu, CEO (ceremonia de lanzamiento del comité organizador de los 2024 KGMA)"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "Hong Jong-gu, exmiembro del grupo Noise y al frente de Meta AI Lab, presentó Amuchart, la primera plataforma dedicada a los creadores de música con AI. “Partí de la idea de construir primero una plataforma capaz de acoger plenamente las canciones nacidas de la AI”, dijo."
+                "x": "Un músico de EE. UU. (US) pasará un año y medio en prisión por idear un esquema de fraude de streaming con IA (AI) que le reportó más de 8 millones de dólares en regalías."
               },
               {
                 "t": "p",
-                "x": "Desde su apertura el 9 de septiembre, en menos de dos meses Amuchart reunió a unos 300 creadores y cerca de 9000 canciones. Los creadores deben tener 15 años o más, y el de mayor edad confirmado tiene unos 80. El creador más prolífico llegó a 180 canciones, por lo que la plataforma limitó las subidas a 5 canciones por persona al día."
+                "x": "El 6 de octubre, la Fiscalía de EE. UU. para el Distrito Sur de Nueva York (US Attorney's Office for the Southern District of New York) confirmó que Michael Smith, que se declaró culpable en marzo, cumplirá 18 meses y deberá entregar $8,091,843.64."
               },
               {
                 "t": "p",
-                "x": "Los oyentes indican su estado de ánimo y su situación por chat o por voz, y un DJ virtual les recomienda música. Además de donaciones, chat en tiempo real y mensajes por DM, ofrece 'Crew', donde los equipos crean música y compiten en batallas, y 'Scout', un sistema en el que los oyentes descubren creadores y reciben parte de los ingresos según su crecimiento (5 niveles)."
+                "x": "Según los investigadores, entre 2017 y 2024 Smith usó cuentas bot para generar miles de millones de reproducciones de música de IA en Spotify, Apple Music, Amazon Music y YouTube Music. Lo que empezó como reproducciones de su propia música se convirtió en un plan para subir cientos de miles de pistas generadas por IA (AI-generated), que solo en YouTube Music sumaron más de 80 millones de reproducciones en abril de 2023. La fiscalía cree que acumuló 14 millones de dólares en total."
               },
               {
                 "t": "p",
-                "x": "Ante el riesgo de una avalancha de canciones uniformes salidas de un mismo motor, prepara un sistema de 'remasterización' y mejoras en su servicio de generación musical. Hong planea organizar premios, festivales y conferencias de música AI, y ampliar el negocio de representación artística."
+                "x": "El fiscal federal (US Attorney) Jamie McDonald afirmó que Smith inundó las plataformas “con bots automatizados en lugar de consumidores y canciones falsas en lugar de creatividad”, con lo que robó regalías a artistas genuinos."
               },
               {
                 "t": "p",
-                "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
+                "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI music gets its own\nplatform: Amuchart launches",
-          "body": "Hong Jong-gu's Amuchart plans to have real singers perform the AI songs that draw the best response.",
-          "mini_headline": "AI music platform Amuchart",
+        "ko": {
+          "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
+          "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
+          "mini_headline": "AI 스트리밍 사기, 징역 18개월",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "CEO Hong Jong-gu (2024 KGMA organizing committee launch ceremony)"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "Hong Jong-gu, a former member of the group Noise and head of Meta AI Lab, has launched Amuchart, the first platform dedicated to AI music creators. “It started from the idea of first building a platform that could fully hold the songs born from AI,” he said."
+                "x": "미국(US)의 한 음악가가 AI 스트리밍 사기를 주도해 저작권료 800만 달러 이상을 챙긴 죄로 18개월간 복역하게 됐다."
               },
               {
                 "t": "p",
-                "x": "Since opening on September 9, Amuchart has drawn about 300 creators and gathered about 9000 songs in less than two months. Creators must be 15 or older, and the oldest confirmed creator is about 80. The most prolific creator uploaded 180 songs, so the platform limited uploads to 5 songs per person per day."
+                "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일, 지난 3월 유죄를 인정한 Michael Smith가 징역 18개월을 살고 $8,091,843.64를 몰수당하게 됐다고 확인했다."
               },
               {
                 "t": "p",
-                "x": "Listeners set their mood and situation by chat or voice, and a virtual DJ recommends music. Alongside donations, live chat and DM features, it offers 'Crew', where crews make music and battle each other, and 'Scout', where listeners discover creators and receive a share of revenue as those creators grow (5 levels)."
+                "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음에는 자기 음악을 재생하는 데서 시작했지만, 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 번졌고, 2023년 4월 한 달 동안 YouTube Music에서만 8000만 회가 넘는 스트리밍을 끌어모았다. 검찰은 그가 모두 1400만 달러를 벌어들인 것으로 본다."
               },
               {
                 "t": "p",
-                "x": "To guard against a flood of uniform songs from a single engine, it is preparing a 'remastering' system and upgrades to its music generation service. Hong is considering hosting AI music awards, festivals and conferences, and expanding into a management business."
+                "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들의 저작권료를 가로챘다고 말했다."
               },
               {
                 "t": "p",
-                "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
+                "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가하며, 업계도 Streaming Integrity Initiative를 통해 사기를 예방하고 탐지하고 차단해야 한다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI音楽専用プラットフォーム\nアミュチャート始動",
-          "body": "ホン・ジョング氏のアミュチャートは、反響の大きいAI曲を実在の歌手に歌わせる計画だ。",
-          "mini_headline": "AI音楽プラットフォーム アミュチャート",
+          "headline": "AIストリーミング詐欺\n禁錮18カ月の判決",
+          "body": "ボットでAI曲再生を水増ししたSmithに禁錮18カ月と$8.09M の没収が命じられた。",
+          "mini_headline": "AI再生詐欺、禁錮18カ月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "ホン・ジョング代表（2024 KGMA組織委員会発足式）"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "グループ・ノイズ出身で、メタAIラボを率いるホン・ジョング代表が、AI音楽クリエイターのための初の専用プラットフォーム「アミュチャート」を立ち上げた。彼は「AIから生まれた曲をしっかり受け止められるプラットフォームを、まず作ろうという考えから始まった」と語った。"
+                "x": "米国(US)の音楽家が、AIを使ったストリーミング詐欺を首謀し800万ドルを超える印税を得たとして、18カ月服役することになった。"
               },
               {
                 "t": "p",
-                "x": "アミュチャートは9月9日のオープンから二か月足らずで約300人のクリエイターが参加し、約9000曲を集めた。クリエイター登録は満15歳以上が条件で、確認された最高齢のクリエイターは約80歳だ。最も多く投稿したクリエイターは180曲に達し、プラットフォームは投稿を一人あたり一日5曲に制限した。"
+                "x": "ニューヨーク南部地区連邦検察局(US Attorney's Office for the Southern District of New York)は10月6日、3月に有罪を認めたMichael Smithが禁錮18カ月に服し、$8,091,843.64を没収されることを確認した。"
               },
               {
                 "t": "p",
-                "x": "リスナーがチャットや音声で気分や状況を設定すると、仮想DJが音楽を薦める。投げ銭、リアルタイムチャット、DM機能に加え、クルー同士で音楽を作ってバトルする「クルー」、リスナーがクリエイターを発掘し、その成長（5段階のレベル）に応じて収益の一部を受け取る「スカウト」制度も備える。"
+                "x": "捜査によると、Smithは2017年から2024年にかけて、ボットアカウントを使ってSpotify、Apple Music、Amazon Music、YouTube MusicでAI音楽の再生を数十億回生み出した。当初は自身の楽曲の再生から始まったが、やがて数十万曲のAI生成(AI-generated)トラックをアップロードする計画へと発展し、2023年4月にはYouTube Musicだけで8000万回を超える再生を集めた。検察は、彼が総額1400万ドルを手にしたとみている。"
               },
               {
                 "t": "p",
-                "x": "一つのエンジンから画一的な曲があふれるリスクに備え、「リマスタリング」システムや音楽生成サービスの高度化も準備中だ。ホン代表はAIミュージックの授賞式・フェスティバル・カンファレンスの開催と、マネジメント事業の拡大を構想している。"
+                "x": "US連邦検事のJamie McDonaldは、Smithが「消費者の代わりに自動化されたボットを、創造性の代わりに偽の楽曲を」プラットフォームにあふれさせ、本物のアーティストから印税を奪ったと述べた。"
               },
               {
                 "t": "p",
-                "x": "「AI曲のうち反響の良い曲は、専門家やクリエイターと緊密に協議したうえで、実在の歌手が歌うマネジメント事業へと拡大する計画です」"
+                "x": "IFPIは今回の結果が「ストリーミング詐欺は犯罪であるという明確なメッセージを送るものだ」とし、業界もStreaming Integrity Initiativeを通じて詐欺を防止、検知、阻止しなければならないと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI音乐专属平台\nAmuchart上线",
-          "body": "Hong Jong-gu的Amuchart计划让反响好的AI歌曲由真人歌手演唱。",
-          "mini_headline": "AI音乐平台Amuchart",
+          "headline": "AI流媒体刷量者\n被判入狱18个月",
+          "body": "Smith用机器人伪造数十亿次AI歌曲播放，被判入狱18个月并没收$8.09M。",
+          "mini_headline": "AI刷量诈骗：获刑18个月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "Hong Jong-gu代表（2024 KGMA组委会成立仪式）"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "出身组合Noise、现任Meta AI实验室负责人的Hong Jong-gu代表，推出了首个面向AI音乐创作者的专属平台Amuchart。他表示：“最初的想法是，先打造一个能完整容纳AI诞生歌曲的平台。”"
+                "x": "一名美国(US)音乐人因策划AI流媒体欺诈计划、赚取超过800万美元版税，将入狱一年半。"
               },
               {
                 "t": "p",
-                "x": "Amuchart自9月9日上线以来，不到两个月就吸引约300名创作者参与，汇集约9000首歌曲。创作者注册门槛为年满15岁，已确认的最年长创作者约80岁。上传最多的创作者达180首，平台因此将上传限制为每人每天5首。"
+                "x": "10月6日，纽约南区联邦检察官办公室(US Attorney's Office for the Southern District of New York)确认，已于3月认罪的Michael Smith将服刑18个月，并须没收$8,091,843.64。"
               },
               {
                 "t": "p",
-                "x": "听众通过聊天或语音设定心情和场景后，虚拟DJ会推荐音乐。除打赏、实时聊天和DM功能外，平台还设有让战队之间创作音乐并展开对战的“战队”，以及听众发掘创作者、并按其成长（5级等级）分得部分收益的“星探”制度。"
+                "x": "调查人员发现，2017年至2024年间，Smith利用机器人账户在Spotify、Apple Music、Amazon Music和YouTube Music上为AI音乐制造了数十亿次播放。起初他只是为自己的音乐刷播放量，后来演变为上传数十万首AI生成(AI-generated)曲目的计划，仅2023年4月在YouTube Music上就获得超过8000万次播放。检方认为他总共获利1400万美元。"
               },
               {
                 "t": "p",
-                "x": "为应对同一引擎产出大量雷同歌曲的风险，平台正在准备“重制母带”系统，并升级音乐生成服务。Hong Jong-gu代表正构想举办AI音乐颁奖典礼、音乐节和大会，并拓展经纪业务。"
+                "x": "US联邦检察官Jamie McDonald表示，Smith让平台充斥着“取代消费者的自动化机器人，以及取代创造力的虚假歌曲”，夺走了真正艺术家的版税。"
               },
               {
                 "t": "p",
-                "x": "“AI歌曲中反响好的作品，将在与专家及创作者密切协商后交由真人歌手演唱，我们计划借此拓展经纪业务。”"
+                "x": "IFPI表示，这一结果“传递了流媒体欺诈是犯罪的明确信息”，并补充说，业界也必须通过其Streaming Integrity Initiative来预防、发现和打击欺诈。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nace Amuchart, plataforma\nexclusiva de música con AI",
-          "body": "Amuchart, de Hong Jong-gu, planea que cantantes reales interpreten las canciones de AI con mejor acogida.",
-          "mini_headline": "Plataforma de música AI Amuchart",
+          "headline": "Condenado a 18 meses de cárcel\npor fraude de streams con IA",
+          "body": "Michael Smith recibió 18 meses y un decomiso de $8.09M por inflar con bots miles de millones de streams de IA.",
+          "mini_headline": "Fraude de streams con IA: 18 meses",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
-                "cap": "Hong Jong-gu, CEO (ceremonia de lanzamiento del comité organizador de los 2024 KGMA)"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
               },
               {
                 "t": "p",
-                "x": "Hong Jong-gu, exmiembro del grupo Noise y al frente de Meta AI Lab, presentó Amuchart, la primera plataforma dedicada a los creadores de música con AI. “Partí de la idea de construir primero una plataforma capaz de acoger plenamente las canciones nacidas de la AI”, dijo."
+                "x": "Un músico de EE. UU. (US) pasará un año y medio en prisión por idear un esquema de fraude de streaming con IA (AI) que le reportó más de 8 millones de dólares en regalías."
               },
               {
                 "t": "p",
-                "x": "Desde su apertura el 9 de septiembre, en menos de dos meses Amuchart reunió a unos 300 creadores y cerca de 9000 canciones. Los creadores deben tener 15 años o más, y el de mayor edad confirmado tiene unos 80. El creador más prolífico llegó a 180 canciones, por lo que la plataforma limitó las subidas a 5 canciones por persona al día."
+                "x": "El 6 de octubre, la Fiscalía de EE. UU. para el Distrito Sur de Nueva York (US Attorney's Office for the Southern District of New York) confirmó que Michael Smith, que se declaró culpable en marzo, cumplirá 18 meses y deberá entregar $8,091,843.64."
               },
               {
                 "t": "p",
-                "x": "Los oyentes indican su estado de ánimo y su situación por chat o por voz, y un DJ virtual les recomienda música. Además de donaciones, chat en tiempo real y mensajes por DM, ofrece 'Crew', donde los equipos crean música y compiten en batallas, y 'Scout', un sistema en el que los oyentes descubren creadores y reciben parte de los ingresos según su crecimiento (5 niveles)."
+                "x": "Según los investigadores, entre 2017 y 2024 Smith usó cuentas bot para generar miles de millones de reproducciones de música de IA en Spotify, Apple Music, Amazon Music y YouTube Music. Lo que empezó como reproducciones de su propia música se convirtió en un plan para subir cientos de miles de pistas generadas por IA (AI-generated), que solo en YouTube Music sumaron más de 80 millones de reproducciones en abril de 2023. La fiscalía cree que acumuló 14 millones de dólares en total."
               },
               {
                 "t": "p",
-                "x": "Ante el riesgo de una avalancha de canciones uniformes salidas de un mismo motor, prepara un sistema de 'remasterización' y mejoras en su servicio de generación musical. Hong planea organizar premios, festivales y conferencias de música AI, y ampliar el negocio de representación artística."
+                "x": "El fiscal federal (US Attorney) Jamie McDonald afirmó que Smith inundó las plataformas “con bots automatizados en lugar de consumidores y canciones falsas en lugar de creatividad”, con lo que robó regalías a artistas genuinos."
               },
               {
                 "t": "p",
-                "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
+                "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
               }
             ]
           }
@@ -366,15 +355,15 @@
       }
     },
     {
-      "id": "music-base-for-music",
+      "id": "music-denmark-replica-law",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google이 고른\n음악 ROI 예측 AI",
-      "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
-      "mini_headline": "Google이 고른 AI 마케팅 예측",
+      "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
+      "body": "덴마크 개정안으로 공연자를 비롯한 누구나 목소리·외모의 무단 AI 복제를 막는다.",
+      "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
       "tool": "Music",
-      "source": "Music Business Worldwide",
-      "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
+      "source": "CMU",
+      "url": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -382,174 +371,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
           },
           {
             "t": "p",
-            "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 2,000건 넘는 지원서 가운데 17개국 100곳 이상의 스타트업이 뽑혔다."
+            "x": "덴마크 문화부 장관 Zenia Stampe가 수정안을 의회에 제출했다. 공연자는 물론 일반인도 승인 없이 디지털로 복제된 자신의 목소리나 외모를 막을 수 있는 새 권리를 담았다."
           },
           {
             "t": "p",
-            "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music이다. 회사는 자신들이 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립돼 2025년 6월 €1.5 million(USD $1.73m)을 유치했고, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+            "x": "이번 법안은 지난해 발의안을 토대로 총선과 정권 교체 뒤 다시 추진된다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
           },
           {
             "t": "p",
-            "x": "회사는 지난 한 해 프랑스 Google for Startups 프로그램에 참여하며 자체 AI Base Intelligence를 만들었다. 이제 캠페인을 시작하기 전에 마케팅 ROI를 예측할 수 있다는 주장이다. 브라질 아티스트 Tom Ribeira가 그 예다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+            "x": "법안은 덴마크 저작권법을 고쳐 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외지만 모방이 위험한 허위정보라면 예외가 되지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 아우르되 실제 인물과 헷갈릴 만큼 사실적인 모방만 다룬다."
           },
           {
             "t": "p",
-            "x": "CEO Maxence Bazin은 아직은 ROI 예측이 업계 평균에 기댄다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+            "x": "법적으로 명확해지면 오용을 막는 데 그치지 않고 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며 내년 초에는 보호 조항이 시행되기를 기대한다."
           }
         ]
       },
-      "lead_image": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg",
       "text": {
         "en": {
-          "headline": "Google picks an AI that\nforecasts music marketing ROI",
-          "body": "Base for Music, a French startup using AI to predict campaign ROI, made Google's cut of 100+ from 2,000+ applicants.",
-          "mini_headline": "Google picks an AI\nmarketing forecaster",
+          "headline": "Denmark's AI replica law\naims for early 2027",
+          "body": "Denmark's revised bill would let anyone, performers included, block unapproved AI replicas of their voice or likeness.",
+          "mini_headline": "Denmark AI replica\nlaw due 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups will host its Gemini Startup Forum, run with Google DeepMind and Google Cloud, at its Mountain View headquarters next month. More than 100 startups from 17 countries were selected from over 2,000 applications."
+                "x": "Danish culture minister Zenia Stampe has presented revised proposals to parliament for new rights to help performers, and people more generally, block unapproved digital replicas of their voice or likeness."
               },
               {
                 "t": "p",
-                "x": "One of them is French music marketing company Base for Music, which says it is the only music tech company in the cohort. It sells a marketing operating system that pulls ad spend, audience, CRM and streaming data into one environment to track the return on each marketing investment. Founded in 2021, it raised €1.5 million (USD $1.73m) in June 2025 and supports more than 20,000 artists and labels."
+                "x": "The bill builds on last year's proposals and restarts the effort after a general election and change of government. Stampe, culture minister since June, said: \"now we're stopping digital identity theft and helping artists whose livelihoods are being threatened\"."
               },
               {
                 "t": "p",
-                "x": "The company built its own AI, Base Intelligence, over the past year as part of the Google for Startups program in France, and claims it can now predict marketing ROI before a campaign launches. It cites Brazilian artist Tom Ribeira, who went from zero to over 200,000 monthly Spotify listeners in under six months “on a €1,000 investment that became profitable within three months.”"
+                "x": "It amends Danish copyright law to make it illegal to publish realistic digital imitations of a person's voice or likeness without consent, with exceptions for caricature, parody and criticism unless the imitation is dangerous misinformation. It covers AI deepfakes and traditional digital edits, but only realistic imitations likely to be confused with the real person."
               },
               {
                 "t": "p",
-                "x": "For now, CEO Maxence Bazin says, its ROI predictions rely on industry averages: “The main piece missing today [for us] is clear, structured financial data tied to streaming revenues.”"
+                "x": "Beyond blocking misuse, legal clarity could let artists license their voice or likeness to AI platforms. Stampe wants tech giants to take down manipulated content quickly, and hopes the protections take effect by the start of next year."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google이 고른\n음악 ROI 예측 AI",
-          "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
-          "mini_headline": "Google이 고른 AI 마케팅 예측",
+          "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
+          "body": "덴마크 개정안으로 공연자를 비롯한 누구나 목소리·외모의 무단 AI 복제를 막는다.",
+          "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 2,000건 넘는 지원서 가운데 17개국 100곳 이상의 스타트업이 뽑혔다."
+                "x": "덴마크 문화부 장관 Zenia Stampe가 수정안을 의회에 제출했다. 공연자는 물론 일반인도 승인 없이 디지털로 복제된 자신의 목소리나 외모를 막을 수 있는 새 권리를 담았다."
               },
               {
                 "t": "p",
-                "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music이다. 회사는 자신들이 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립돼 2025년 6월 €1.5 million(USD $1.73m)을 유치했고, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+                "x": "이번 법안은 지난해 발의안을 토대로 총선과 정권 교체 뒤 다시 추진된다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "회사는 지난 한 해 프랑스 Google for Startups 프로그램에 참여하며 자체 AI Base Intelligence를 만들었다. 이제 캠페인을 시작하기 전에 마케팅 ROI를 예측할 수 있다는 주장이다. 브라질 아티스트 Tom Ribeira가 그 예다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+                "x": "법안은 덴마크 저작권법을 고쳐 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외지만 모방이 위험한 허위정보라면 예외가 되지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 아우르되 실제 인물과 헷갈릴 만큼 사실적인 모방만 다룬다."
               },
               {
                 "t": "p",
-                "x": "CEO Maxence Bazin은 아직은 ROI 예측이 업계 평균에 기댄다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+                "x": "법적으로 명확해지면 오용을 막는 데 그치지 않고 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며 내년 초에는 보호 조항이 시행되기를 기대한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleが選んだ\n音楽ROI予測AI",
-          "body": "ROI予測AIのBase for Musicが、2,000超の応募から100社に選ばれた。",
-          "mini_headline": "Googleが選んだAIマーケティング予測",
+          "headline": "デンマークAI複製法\n2027年初めの施行へ",
+          "body": "デンマークの改正法案は、演者を含む誰もが声や容姿の無断AI複製を阻止できるようにする。",
+          "mini_headline": "デンマークAI複製法、2027年施行へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startupsは来月、Google DeepMind、Google Cloudと共同で、Gemini Startup ForumをMountain Viewの本社で開催する。17か国の100社を超えるスタートアップが、2,000件超の応募から選ばれた。"
+                "x": "デンマークのZenia Stampe文化相は、演者をはじめ広く一般の人々が、自身の声や容姿の無断デジタル複製を阻止できる新たな権利を定める修正案を議会に提出した。"
               },
               {
                 "t": "p",
-                "x": "その一つがフランスの音楽マーケティング企業Base for Musicで、同社は選出企業の中で唯一の音楽テック企業だとしている。広告費、オーディエンス、CRM、ストリーミングのデータを一つの環境に集約し、マーケティング投資ごとのリターンを追跡するマーケティング用オペレーティングシステムを販売する。2021年に設立され、2025年6月に€1.5 million（USD $1.73m）を調達し、20,000以上のアーティストとレーベルを支援している。"
+                "x": "法案は昨年の提案を土台とし、総選挙と政権交代を経て取り組みを再始動させるものだ。6月から文化相を務めるStampeは「今こそデジタルなアイデンティティの窃取を止め、生計を脅かされているアーティストを支援する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "同社は過去一年、フランスのGoogle for Startupsプログラムの一環として独自のAI「Base Intelligence」を構築し、キャンペーン開始前にマーケティングROIを予測できるようになったと主張する。例に挙げるのはブラジルのアーティストTom Ribeiraで、六か月足らずでSpotifyの月間リスナーをゼロから200,000人超に増やした。「€1,000の投資で、三か月以内に黒字化した」という。"
+                "x": "法案はデンマーク著作権法を改正し、本人の同意なく声や容姿をリアルにデジタル模倣したものを公開することを違法とする。風刺画、パロディ、批評は例外とするが、模倣が危険な偽情報である場合は除く。AIディープフェイクと従来のデジタル編集の両方を対象とするが、本人と混同されかねないリアルな模倣に限られる。"
               },
               {
                 "t": "p",
-                "x": "CEOのMaxence Bazinによれば、現時点のROI予測は業界平均に頼っている。「今[私たちに]欠けている主なものは、ストリーミング収益と結びついた、明確で構造化された財務データだ」"
+                "x": "悪用の阻止にとどまらず、法的な明確さによって、アーティストが自らの声や容姿をAIプラットフォームにライセンスできる可能性もある。Stampeは巨大テック企業に操作されたコンテンツの迅速な削除を求めており、来年初めまでに保護規定が施行されることを望んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google选中一款\n音乐营销ROI预测AI",
-          "body": "AI预测ROI的Base for Music从2,000多家中入选Google的100多家。",
-          "mini_headline": "Google选中的AI营销预测工具",
+          "headline": "丹麦AI复制品法\n力争2027年初生效",
+          "body": "丹麦修订法案将让包括表演者在内的任何人，都能阻止未经许可的AI声音或肖像复制。",
+          "mini_headline": "丹麦AI复制品法2027年生效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups将于下月在Mountain View总部举办与Google DeepMind、Google Cloud合作的Gemini Startup Forum。来自17个国家的100多家初创公司从2,000多份申请中入选。"
+                "x": "丹麦文化部长Zenia Stampe向议会提交了修订提案，拟设立新权利，帮助表演者乃至普通人阻止未经许可的声音或肖像数字复制品。"
               },
               {
                 "t": "p",
-                "x": "其中之一是法国音乐营销公司Base for Music，该公司称自己是这一批次中唯一的音乐科技企业。它销售一套营销操作系统，将广告支出、受众、CRM和流媒体数据汇入同一环境，追踪每笔营销投入的回报。公司成立于2021年，2025年6月融资€1.5 million（USD $1.73m），目前服务超过20,000名艺人和厂牌。"
+                "x": "该法案以去年的提案为基础，在大选和政府更迭后重启这项工作。自6月起担任文化部长的Stampe表示：“现在我们要制止数字身份盗用，帮助那些生计受到威胁的艺术家。”"
               },
               {
                 "t": "p",
-                "x": "过去一年，公司作为法国Google for Startups项目的一部分，自研了AI系统Base Intelligence，并称如今能在营销活动上线前预测营销ROI。它举例巴西艺人Tom Ribeira：不到六个月，其Spotify月度听众从零增至200,000多人，“靠€1,000的投入，三个月内就实现盈利”。"
+                "x": "法案修订丹麦版权法，规定未经同意发布对他人声音或肖像的逼真数字模仿属违法行为，漫画、戏仿和评论除外，但若模仿构成危险的虚假信息则不在豁免之列。它涵盖AI深度伪造和传统数字编辑，但仅限于可能与真人混淆的逼真模仿。"
               },
               {
                 "t": "p",
-                "x": "CEO Maxence Bazin表示，目前其ROI预测依赖行业平均值：“今天[我们]最缺的，是与流媒体收入挂钩的清晰、结构化的财务数据。”"
+                "x": "除了阻止滥用，法律上的明确性还可能让艺术家将自己的声音或肖像授权给AI平台。Stampe希望科技巨头迅速撤下被篡改的内容，并期望相关保护在明年年初前生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google elige una AI que predice\nel ROI del marketing musical",
-          "body": "Base for Music, startup francesa que predice con AI el ROI de campañas, está entre 100+ elegidas por Google de 2,000+.",
-          "mini_headline": "Google elige una AI de pronóstico de marketing",
+          "headline": "Ley danesa de réplicas con IA\napunta a inicios de 2027",
+          "body": "El proyecto danés dejaría a todos, intérpretes incluidos, bloquear réplicas de IA no autorizadas de su voz o imagen.",
+          "mini_headline": "Ley danesa de réplicas IA, en 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups celebrará el próximo mes en su sede de Mountain View el Gemini Startup Forum, organizado con Google DeepMind y Google Cloud. Más de 100 startups de 17 países fueron seleccionadas entre más de 2,000 solicitudes."
+                "x": "La ministra de Cultura danesa, Zenia Stampe, ha presentado al Parlamento propuestas revisadas de nuevos derechos para ayudar a los intérpretes, y a las personas en general, a bloquear réplicas digitales no autorizadas de su voz o su imagen."
               },
               {
                 "t": "p",
-                "x": "Una de ellas es la empresa francesa de marketing musical Base for Music, que afirma ser la única compañía de tecnología musical del grupo. Vende un sistema operativo de marketing que reúne datos de inversión publicitaria, audiencia, CRM y streaming en un solo entorno para seguir el retorno de cada inversión en marketing. Fundada en 2021, recaudó €1.5 millones (USD $1.73m) en junio de 2025 y da soporte a más de 20,000 artistas y sellos."
+                "x": "El proyecto se basa en las propuestas del año pasado y retoma el esfuerzo tras unas elecciones generales y un cambio de gobierno. Stampe, ministra de Cultura desde junio, declaró: “ahora estamos frenando el robo de identidad digital y ayudando a los artistas cuyo sustento está amenazado”."
               },
               {
                 "t": "p",
-                "x": "Durante el último año, la empresa creó su propia AI, Base Intelligence, dentro del programa Google for Startups en Francia, y afirma que ya puede predecir el ROI de marketing antes del lanzamiento de una campaña. Cita al artista brasileño Tom Ribeira, que pasó de cero a más de 200,000 oyentes mensuales en Spotify en menos de seis meses “con una inversión de €1,000 que fue rentable en tres meses”."
+                "x": "Modifica la ley danesa de derechos de autor para que sea ilegal publicar imitaciones digitales realistas de la voz o la imagen de una persona sin su consentimiento, con excepciones para la caricatura, la parodia y la crítica, salvo que la imitación sea desinformación peligrosa. Abarca los deepfakes de IA (AI) y las ediciones digitales tradicionales, pero solo las imitaciones realistas que puedan confundirse con la persona real."
               },
               {
                 "t": "p",
-                "x": "Por ahora, según el CEO Maxence Bazin, sus predicciones de ROI se basan en promedios del sector: “La principal pieza que [nos] falta hoy son datos financieros claros y estructurados vinculados a los ingresos por streaming”."
+                "x": "Además de bloquear los abusos, la claridad legal podría permitir a los artistas licenciar su voz o su imagen a plataformas de IA. Stampe quiere que las grandes tecnológicas retiren rápidamente el contenido manipulado y espera que las protecciones entren en vigor a principios del próximo año."
               }
             ]
           }
@@ -557,121 +545,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google이 고른\n음악 ROI 예측 AI",
-          "body": "ROI 예측 AI Base for Music이 2,000곳 중 100곳에 뽑혔다.",
-          "mini_headline": "Google이 고른 AI 마케팅 예측",
+          "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
+          "body": "덴마크 개정안은 공연자 등 누구나 목소리·외모의 무단 AI 복제를 막게 한다.",
+          "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups는 다음 달 Mountain View 본사에서 Google DeepMind, Google Cloud와 함께 Gemini Startup Forum을 연다. 17개국 100곳 이상의 스타트업이 2,000건 넘는 지원서 가운데서 선정됐다."
+                "x": "덴마크 문화부 장관 Zenia Stampe가 공연자는 물론 일반인도 자신의 목소리나 외모를 승인 없이 디지털로 복제한 결과물을 막을 수 있도록 새 권리를 담은 수정안을 의회에 제출했다."
               },
               {
                 "t": "p",
-                "x": "그중 하나가 프랑스 음악 마케팅 기업 Base for Music으로, 이 회사는 선정 기업 중 유일한 음악 테크 기업이라고 밝혔다. 광고비, 오디언스, CRM, 스트리밍 데이터를 한 환경에 모아 마케팅 투자별 수익을 추적하는 마케팅 운영체제를 판다. 2021년에 설립됐고 2025년 6월 €1.5 million(USD $1.73m)을 유치했으며, 20,000곳이 넘는 아티스트와 레이블을 지원한다."
+                "x": "이번 법안은 지난해 발의안을 바탕으로, 총선과 정권 교체 이후 다시 추진하는 것이다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "회사는 지난 한 해 동안 프랑스 Google for Startups 프로그램의 일환으로 자체 AI인 Base Intelligence를 만들었고, 이제 캠페인 시작 전에 마케팅 ROI를 예측할 수 있다고 주장한다. 예로 드는 것은 브라질 아티스트 Tom Ribeira다. 그는 여섯 달이 채 안 돼 Spotify 월간 리스너를 제로에서 200,000명 이상으로 늘렸다. “석 달 안에 수익을 낸 €1,000 투자”로 거둔 결과라는 설명이다."
+                "x": "법안은 덴마크 저작권법을 고쳐, 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외로 두지만, 모방이 위험한 허위정보라면 예외를 인정하지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 포괄하되, 실제 인물과 혼동될 만큼 사실적인 모방만 대상으로 한다."
               },
               {
                 "t": "p",
-                "x": "CEO Maxence Bazin은 현재로서는 ROI 예측이 업계 평균에 기대고 있다고 말한다. “지금 [우리에게] 빠진 핵심은 스트리밍 수익과 연결된 명확하고 구조화된 재무 데이터입니다.”"
+                "x": "오용을 막는 데 그치지 않고, 법적 명확성이 생기면 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며, 내년 초까지 보호 조항이 시행되기를 기대하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleが選んだ\n音楽ROI予測AI",
-          "body": "ROI予測AIのBase for Musicが、2,000超の応募から100社に選ばれた。",
-          "mini_headline": "Googleが選んだAIマーケティング予測",
+          "headline": "デンマークAI複製法\n2027年初めの施行へ",
+          "body": "デンマークの改正法案は、演者を含む誰もが声や容姿の無断AI複製を阻止できるようにする。",
+          "mini_headline": "デンマークAI複製法、2027年施行へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startupsは来月、Google DeepMind、Google Cloudと共同で、Gemini Startup ForumをMountain Viewの本社で開催する。17か国の100社を超えるスタートアップが、2,000件超の応募から選ばれた。"
+                "x": "デンマークのZenia Stampe文化相は、演者をはじめ広く一般の人々が、自身の声や容姿の無断デジタル複製を阻止できる新たな権利を定める修正案を議会に提出した。"
               },
               {
                 "t": "p",
-                "x": "その一つがフランスの音楽マーケティング企業Base for Musicで、同社は選出企業の中で唯一の音楽テック企業だとしている。広告費、オーディエンス、CRM、ストリーミングのデータを一つの環境に集約し、マーケティング投資ごとのリターンを追跡するマーケティング用オペレーティングシステムを販売する。2021年に設立され、2025年6月に€1.5 million（USD $1.73m）を調達し、20,000以上のアーティストとレーベルを支援している。"
+                "x": "法案は昨年の提案を土台とし、総選挙と政権交代を経て取り組みを再始動させるものだ。6月から文化相を務めるStampeは「今こそデジタルなアイデンティティの窃取を止め、生計を脅かされているアーティストを支援する」と述べた。"
               },
               {
                 "t": "p",
-                "x": "同社は過去一年、フランスのGoogle for Startupsプログラムの一環として独自のAI「Base Intelligence」を構築し、キャンペーン開始前にマーケティングROIを予測できるようになったと主張する。例に挙げるのはブラジルのアーティストTom Ribeiraで、六か月足らずでSpotifyの月間リスナーをゼロから200,000人超に増やした。「€1,000の投資で、三か月以内に黒字化した」という。"
+                "x": "法案はデンマーク著作権法を改正し、本人の同意なく声や容姿をリアルにデジタル模倣したものを公開することを違法とする。風刺画、パロディ、批評は例外とするが、模倣が危険な偽情報である場合は除く。AIディープフェイクと従来のデジタル編集の両方を対象とするが、本人と混同されかねないリアルな模倣に限られる。"
               },
               {
                 "t": "p",
-                "x": "CEOのMaxence Bazinによれば、現時点のROI予測は業界平均に頼っている。「今[私たちに]欠けている主なものは、ストリーミング収益と結びついた、明確で構造化された財務データだ」"
+                "x": "悪用の阻止にとどまらず、法的な明確さによって、アーティストが自らの声や容姿をAIプラットフォームにライセンスできる可能性もある。Stampeは巨大テック企業に操作されたコンテンツの迅速な削除を求めており、来年初めまでに保護規定が施行されることを望んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google选中一款\n音乐营销ROI预测AI",
-          "body": "AI预测ROI的Base for Music从2,000多家中入选Google的100多家。",
-          "mini_headline": "Google选中的AI营销预测工具",
+          "headline": "丹麦AI复制品法\n力争2027年初生效",
+          "body": "丹麦修订法案将让包括表演者在内的任何人，都能阻止未经许可的AI声音或肖像复制。",
+          "mini_headline": "丹麦AI复制品法2027年生效",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups将于下月在Mountain View总部举办与Google DeepMind、Google Cloud合作的Gemini Startup Forum。来自17个国家的100多家初创公司从2,000多份申请中入选。"
+                "x": "丹麦文化部长Zenia Stampe向议会提交了修订提案，拟设立新权利，帮助表演者乃至普通人阻止未经许可的声音或肖像数字复制品。"
               },
               {
                 "t": "p",
-                "x": "其中之一是法国音乐营销公司Base for Music，该公司称自己是这一批次中唯一的音乐科技企业。它销售一套营销操作系统，将广告支出、受众、CRM和流媒体数据汇入同一环境，追踪每笔营销投入的回报。公司成立于2021年，2025年6月融资€1.5 million（USD $1.73m），目前服务超过20,000名艺人和厂牌。"
+                "x": "该法案以去年的提案为基础，在大选和政府更迭后重启这项工作。自6月起担任文化部长的Stampe表示：“现在我们要制止数字身份盗用，帮助那些生计受到威胁的艺术家。”"
               },
               {
                 "t": "p",
-                "x": "过去一年，公司作为法国Google for Startups项目的一部分，自研了AI系统Base Intelligence，并称如今能在营销活动上线前预测营销ROI。它举例巴西艺人Tom Ribeira：不到六个月，其Spotify月度听众从零增至200,000多人，“靠€1,000的投入，三个月内就实现盈利”。"
+                "x": "法案修订丹麦版权法，规定未经同意发布对他人声音或肖像的逼真数字模仿属违法行为，漫画、戏仿和评论除外，但若模仿构成危险的虚假信息则不在豁免之列。它涵盖AI深度伪造和传统数字编辑，但仅限于可能与真人混淆的逼真模仿。"
               },
               {
                 "t": "p",
-                "x": "CEO Maxence Bazin表示，目前其ROI预测依赖行业平均值：“今天[我们]最缺的，是与流媒体收入挂钩的清晰、结构化的财务数据。”"
+                "x": "除了阻止滥用，法律上的明确性还可能让艺术家将自己的声音或肖像授权给AI平台。Stampe希望科技巨头迅速撤下被篡改的内容，并期望相关保护在明年年初前生效。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google elige una AI que predice\nel ROI del marketing musical",
-          "body": "Base for Music, startup francesa que predice con AI el ROI de campañas, está entre 100+ elegidas por Google de 2,000+.",
-          "mini_headline": "Google elige una AI de pronóstico de marketing",
+          "headline": "Ley danesa de réplicas con IA\napunta a inicios de 2027",
+          "body": "El proyecto danés dejaría a todos, intérpretes incluidos, bloquear réplicas de IA no autorizadas de su voz o imagen.",
+          "mini_headline": "Ley danesa de réplicas IA, en 2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
               },
               {
                 "t": "p",
-                "x": "Google for Startups celebrará el próximo mes en su sede de Mountain View el Gemini Startup Forum, organizado con Google DeepMind y Google Cloud. Más de 100 startups de 17 países fueron seleccionadas entre más de 2,000 solicitudes."
+                "x": "La ministra de Cultura danesa, Zenia Stampe, ha presentado al Parlamento propuestas revisadas de nuevos derechos para ayudar a los intérpretes, y a las personas en general, a bloquear réplicas digitales no autorizadas de su voz o su imagen."
               },
               {
                 "t": "p",
-                "x": "Una de ellas es la empresa francesa de marketing musical Base for Music, que afirma ser la única compañía de tecnología musical del grupo. Vende un sistema operativo de marketing que reúne datos de inversión publicitaria, audiencia, CRM y streaming en un solo entorno para seguir el retorno de cada inversión en marketing. Fundada en 2021, recaudó €1.5 millones (USD $1.73m) en junio de 2025 y da soporte a más de 20,000 artistas y sellos."
+                "x": "El proyecto se basa en las propuestas del año pasado y retoma el esfuerzo tras unas elecciones generales y un cambio de gobierno. Stampe, ministra de Cultura desde junio, declaró: “ahora estamos frenando el robo de identidad digital y ayudando a los artistas cuyo sustento está amenazado”."
               },
               {
                 "t": "p",
-                "x": "Durante el último año, la empresa creó su propia AI, Base Intelligence, dentro del programa Google for Startups en Francia, y afirma que ya puede predecir el ROI de marketing antes del lanzamiento de una campaña. Cita al artista brasileño Tom Ribeira, que pasó de cero a más de 200,000 oyentes mensuales en Spotify en menos de seis meses “con una inversión de €1,000 que fue rentable en tres meses”."
+                "x": "Modifica la ley danesa de derechos de autor para que sea ilegal publicar imitaciones digitales realistas de la voz o la imagen de una persona sin su consentimiento, con excepciones para la caricatura, la parodia y la crítica, salvo que la imitación sea desinformación peligrosa. Abarca los deepfakes de IA (AI) y las ediciones digitales tradicionales, pero solo las imitaciones realistas que puedan confundirse con la persona real."
               },
               {
                 "t": "p",
-                "x": "Por ahora, según el CEO Maxence Bazin, sus predicciones de ROI se basan en promedios del sector: “La principal pieza que [nos] falta hoy son datos financieros claros y estructurados vinculados a los ingresos por streaming”."
+                "x": "Además de bloquear los abusos, la claridad legal podría permitir a los artistas licenciar su voz o su imagen a plataformas de IA. Stampe quiere que las grandes tecnológicas retiren rápidamente el contenido manipulado y espera que las protecciones entren en vigor a principios del próximo año."
               }
             ]
           }
@@ -679,312 +667,351 @@
       }
     },
     {
-      "id": "music-riaa-nofakes",
+      "id": "music-flow-music-plugins",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
-      "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
-      "mini_headline": "RIAA 수장, NO FAKES에 건다",
+      "headline": "Google, 프롬프트를\nDAW 플러그인으로",
+      "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
+      "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/",
+      "source": "Synthtopia",
+      "url": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "video",
-            "yt": "eCLR1kMf4H8"
+            "yt": "Z4l8igzzHHw"
           },
           {
             "t": "p",
-            "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 공들이는 법안은 허락 없는 딥페이크를 막는 NO FAKES Act다. 지지층은 지금 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 넓다."
+            "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸는 중이다. 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 벌써 큰 영향을 주고 있다."
           },
           {
             "t": "p",
-            "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 지지는 거의 만장일치에 가까웠지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보면서도 2027년에 다시 발의될 가능성이 더 크다고 했다."
+            "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들어 보라고 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 것이다."
           },
           {
             "t": "p",
-            "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들은 AI가 인간적 요소를 밀어내는 걸 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+            "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
           },
           {
             "t": "p",
-            "x": "법안이 말하는 디지털 복제물은 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라는 게 그의 설명이다. 그러면서 “It is really about AI cloning.”이라고 덧붙였다."
+            "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
+          },
+          {
+            "t": "p",
+            "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
           }
         ]
       },
-      "lead_image": "https://www.billboard.com/wp-content/uploads/2026/10/Mitch-Glazier-2024-billboard-1800.jpg?w=1024",
       "text": {
         "en": {
-          "headline": "RIAA chief: AI is no Napster,\nand NO FAKES can still pass",
-          "body": "RIAA CEO Mitch Glazier called AI the opposite of Napster as fans side with artists, and sees a real shot for NO FAKES.",
-          "mini_headline": "RIAA chief bets on\nNO FAKES",
+          "headline": "Google Flow Music turns\nprompts into DAW plugins",
+          "body": "Google Flow Music now exports instruments and effects built from text prompts as VST3/AU plugins that run inside DAWs.",
+          "mini_headline": "Flow Music exports\nVST3/AU plugins",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "On Billboard On the Record, RIAA chairman/CEO Mitch Glazier discussed the midterms, the Trump administration and AI. His biggest push is the NO FAKES Act, a bill guarding against unauthorized deepfakes, now backed by supporters ranging from Google and OpenAI to SAG-AFTRA and the Motion Picture Association."
+                "x": "AI-assisted programming – aka 'vibe coding' – is transforming software development, and is already making a big impact on the scope and variety of software and firmware available to electronic musicians."
               },
               {
                 "t": "p",
-                "x": "Last week Sen. Marsha Blackburn took the bill to the Senate floor; it received nearly universal support but was blocked by Sen. Ted Cruz over exceptions for satire and political commentary. Glazier says it has “a real shot” at unanimous consent in the lame duck period, though more likely it will be reintroduced in 2027."
+                "x": "Now, Google wants you to vibe code audio applications, saying that producers can now vibe code music production tools with Google Flow Music:"
               },
               {
                 "t": "p",
-                "x": "Asked whether generative AI is music’s next Napster moment, Glazier said, “I think it’s the opposite.” With Napster the industry was fighting fans; with AI, “the fans, the people, they’re with us,” wary of AI replacing the human element — polling numbers, he said, are “like, 92%.”"
+                "x": "\"Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instruments or effects using natural language — no coding experience required."
               },
               {
                 "t": "p",
-                "x": "He described the bill’s definition of a digital replica as “a highly realistic, computer-generated replica of your voice or your likeness” used without consent: “It is really about AI cloning.”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "RIAA: la AI no es Napster y\nNO FAKES aún puede aprobarse",
-          "body": "Mitch Glazier, CEO de la RIAA, dice que la AI es lo opuesto a Napster y ve una opción real para NO FAKES.",
-          "mini_headline": "El jefe de la RIAA apuesta por NO FAKES",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "x": "Now, we're making it easy to bring these capabilities directly into professional setups. Producers can now export their custom Spaces as VST3/AU plugins, to run inside their Digital Audio Workstations (DAWs)."
               },
               {
                 "t": "p",
-                "x": "En Billboard On the Record, el presidente y CEO de la RIAA, Mitch Glazier, habló de las elecciones de medio mandato, la administración Trump y la AI. Su mayor apuesta es la NO FAKES Act, un proyecto de ley contra los deepfakes no autorizados que hoy cuenta con apoyos que van de Google y OpenAI a SAG-AFTRA y la Motion Picture Association."
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, la senadora Marsha Blackburn llevó el proyecto al pleno del Senado; recibió un apoyo casi unánime, pero el senador Ted Cruz lo bloqueó por las excepciones para la sátira y el comentario político. Glazier dice que tiene “una opción real” de aprobarse por consentimiento unánime en el periodo de transición del Congreso saliente, aunque lo más probable es que se vuelva a presentar en 2027."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarle si la AI generativa es el próximo momento Napster de la música, Glazier dijo: “Creo que es lo contrario”. Con Napster la industria luchaba contra los fans; con la AI, “los fans, la gente, están con nosotros”, recelosos de que la AI sustituya el elemento humano; las encuestas, dijo, rondan “el 92%”."
-              },
-              {
-                "t": "p",
-                "x": "Describió la definición de réplica digital del proyecto como “una réplica muy realista, generada por computadora (computer-generated), de tu voz o tu imagen” usada sin consentimiento: “En realidad se trata de la clonación con AI”."
+                "x": "Simply put, this means producers can easily build things tailored to their processes and styles within their familiar production workflows.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
-          "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
-          "mini_headline": "RIAA 수장, NO FAKES에 건다",
+          "headline": "Google, 프롬프트를\nDAW 플러그인으로",
+          "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
+          "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 공들이는 법안은 허락 없는 딥페이크를 막는 NO FAKES Act다. 지지층은 지금 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 넓다."
+                "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸는 중이다. 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 벌써 큰 영향을 주고 있다."
               },
               {
                 "t": "p",
-                "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 지지는 거의 만장일치에 가까웠지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보면서도 2027년에 다시 발의될 가능성이 더 크다고 했다."
+                "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들어 보라고 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 것이다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들은 AI가 인간적 요소를 밀어내는 걸 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+                "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
               },
               {
                 "t": "p",
-                "x": "법안이 말하는 디지털 복제물은 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라는 게 그의 설명이다. 그러면서 “It is really about AI cloning.”이라고 덧붙였다."
+                "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "RIAAトップ、なお\nNO FAKES成立に期待",
-          "body": "RIAAのGlazierはAIをNapsterの逆と呼び、NO FAKES成立に望みを見る。",
-          "mini_headline": "RIAAトップ、NO FAKESに賭ける",
+          "headline": "Google、プロンプトを\nDAWプラグインに",
+          "body": "Flow Musicで作った楽器やエフェクトを、VST3/AU形式でDAWに持ち込める。",
+          "mini_headline": "Flow Music、VST3/AUで書き出し",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA会長兼CEOのMitch GlazierはBillboard On the Recordで、中間選挙、Trump政権、AIについて語った。最も力を入れるのは、無許可のディープフェイクを防ぐ法案NO FAKES Actだ。支持はGoogleやOpenAIからSAG-AFTRA、Motion Picture Associationにまで広がっている。"
+                "x": "AI支援プログラミング(AI-assisted programming)、いわゆる「バイブコーディング(vibe coding)」はソフトウェア開発を変えつつあり、電子音楽家が使えるソフトウェアやファームウェアの幅と多様さにも、すでに大きな影響を与えている。"
               },
               {
                 "t": "p",
-                "x": "先週、Marsha Blackburn上院議員が法案を上院本会議に持ち込んだ。ほぼ全面的な支持を得たが、風刺や政治的論評の例外をめぐりTed Cruz上院議員に阻まれた。Glazierはレームダック期間に全会一致の同意を得る「a real shot」があるとみるが、2027年に再提出される可能性のほうが高いという。"
+                "x": "そして今、Googleはオーディオアプリケーションもバイブコーディングで作ってほしいと考えている。プロデューサーはGoogle Flow Musicで音楽制作ツールをバイブコーディングできるようになったという。"
               },
               {
                 "t": "p",
-                "x": "生成AIは音楽業界にとって次のNapsterの瞬間かと問われ、Glazierは「I think it’s the opposite.」と答えた。Napsterのとき業界はファンと戦っていたが、AIでは「the fans, the people, they’re with us」であり、人々はAIが人間的な要素に取って代わることを警戒している。世論調査の数字は「like, 92%.」だと彼は述べた。"
+                "x": "「アーティスト、プロデューサー、ソングライターの仕事の進め方はそれぞれ異なる。そうした個々の創作ワークフローに合わせるため、Google Flow MusicのSpacesでは、クリエイターが自然言語でカスタムの楽器やエフェクトを作れる。コーディングの経験は必要ない。"
               },
               {
                 "t": "p",
-                "x": "彼は法案におけるデジタル複製の定義を、同意なく使われる「a highly realistic, computer-generated replica of your voice or your likeness」と説明し、「It is really about AI cloning.」と語った。"
+                "x": "今回、こうした機能をプロの制作環境に直接持ち込みやすくした。プロデューサーは自作のSpacesをVST3/AUプラグインとして書き出し、デジタルオーディオワークステーション(Digital Audio Workstations、DAWs)の中で動かせるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "簡単に言えば、プロデューサーは使い慣れた制作ワークフローの中で、自分のプロセスやスタイルに合ったものを手軽に作れるということだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RIAA掌门人：\nNO FAKES仍有望通过",
-          "body": "RIAA的Glazier称AI与Napster相反，并认为NO FAKES确有通过机会。",
-          "mini_headline": "RIAA掌门人押注NO FAKES",
+          "headline": "Google把提示词\n变成DAW插件",
+          "body": "Flow Music现可将提示词生成的乐器和效果导出为VST3/AU插件，在DAW中运行。",
+          "mini_headline": "Flow Music可导出VST3/AU插件",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA董事长兼CEO Mitch Glazier在Billboard On the Record节目中谈及中期选举、Trump政府和AI。他最着力推动的是NO FAKES Act，这项法案旨在防范未经授权的深度伪造，如今支持者从Google、OpenAI一直延伸到SAG-AFTRA和Motion Picture Association。"
+                "x": "AI辅助编程(AI-assisted programming)，也就是所谓的“氛围编程”(vibe coding)，正在改变软件开发，并已对电子音乐人可用的软件和固件的范围与种类产生重大影响。"
               },
               {
                 "t": "p",
-                "x": "上周，参议员Marsha Blackburn将法案提交参议院全体会议，获得近乎一致的支持，却因讽刺和政治评论的例外条款遭参议员Ted Cruz阻挡。Glazier表示，法案在跛脚鸭会期以一致同意方式通过有“a real shot”，但更可能在2027年重新提出。"
+                "x": "如今，Google希望你用氛围编程来开发音频应用，称制作人现在可以借助Google Flow Music用氛围编程打造音乐制作工具："
               },
               {
                 "t": "p",
-                "x": "被问到生成式AI是否会成为音乐业的下一个Napster时刻，Glazier说：“I think it’s the opposite.”Napster时期，行业是在与粉丝对抗；而在AI问题上，“the fans, the people, they’re with us”，人们担心AI取代人的因素。他说，民调数字“like, 92%.”"
+                "x": "“每位艺术家、制作人和词曲作者的工作方式都不同。为了贴合这些各具特色的创作流程，Google Flow Music中的Spaces让创作者能用自然语言构建自定义乐器或效果器，无需任何编程经验。"
               },
               {
                 "t": "p",
-                "x": "他介绍，法案对数字复制品的定义是未经同意使用的“a highly realistic, computer-generated replica of your voice or your likeness”，并说：“It is really about AI cloning.”"
+                "x": "现在，我们让这些能力可以轻松直接接入专业工作环境。制作人现在可以把自定义的Spaces导出为VST3/AU插件，在数字音频工作站(Digital Audio Workstations，DAWs)中运行。"
+              },
+              {
+                "t": "p",
+                "x": "简单来说，这意味着制作人可以在熟悉的制作流程中，轻松打造契合自身流程和风格的工具。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Flow Music convierte\nprompts en plugins para DAW",
+          "body": "Google Flow Music exporta instrumentos y efectos creados con prompts como plugins VST3/AU que funcionan en DAWs.",
+          "mini_headline": "Flow Music exporta plugins VST3/AU",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "Z4l8igzzHHw"
+              },
+              {
+                "t": "p",
+                "x": "La programación asistida por IA (AI-assisted programming), conocida como 'vibe coding', está transformando el desarrollo de software y ya tiene un gran impacto en el alcance y la variedad del software y el firmware disponibles para los músicos electrónicos."
+              },
+              {
+                "t": "p",
+                "x": "Ahora Google quiere que programes aplicaciones de audio con vibe coding, y afirma que los productores ya pueden crear herramientas de producción musical con vibe coding en Google Flow Music:"
+              },
+              {
+                "t": "p",
+                "x": "“Cada artista, productor y compositor trabaja de forma distinta. Para adaptarse a esos flujos creativos individuales, Spaces en Google Flow Music permite a los creadores construir instrumentos o efectos personalizados con lenguaje natural, sin necesidad de experiencia en programación."
+              },
+              {
+                "t": "p",
+                "x": "Ahora facilitamos llevar estas capacidades directamente a entornos profesionales. Los productores ya pueden exportar sus Spaces personalizados como plugins VST3/AU para ejecutarlos dentro de sus estaciones de trabajo de audio digital (Digital Audio Workstations, DAWs)."
+              },
+              {
+                "t": "p",
+                "x": "En pocas palabras, los productores pueden crear con facilidad herramientas adaptadas a sus procesos y estilos dentro de sus flujos de producción habituales.”"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "RIAA: la AI no es Napster y\nNO FAKES aún puede aprobarse",
-          "body": "Mitch Glazier, CEO de la RIAA, dice que la AI es lo opuesto a Napster y ve una opción real para NO FAKES.",
-          "mini_headline": "El jefe de la RIAA apuesta por NO FAKES",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "eCLR1kMf4H8"
-              },
-              {
-                "t": "p",
-                "x": "En Billboard On the Record, el presidente y CEO de la RIAA, Mitch Glazier, habló de las elecciones de medio mandato, la administración Trump y la AI. Su mayor apuesta es la NO FAKES Act, un proyecto de ley contra los deepfakes no autorizados que hoy cuenta con apoyos que van de Google y OpenAI a SAG-AFTRA y la Motion Picture Association."
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada, la senadora Marsha Blackburn llevó el proyecto al pleno del Senado; recibió un apoyo casi unánime, pero el senador Ted Cruz lo bloqueó por las excepciones para la sátira y el comentario político. Glazier dice que tiene “una opción real” de aprobarse por consentimiento unánime en el periodo de transición del Congreso saliente, aunque lo más probable es que se vuelva a presentar en 2027."
-              },
-              {
-                "t": "p",
-                "x": "Al preguntarle si la AI generativa es el próximo momento Napster de la música, Glazier dijo: “Creo que es lo contrario”. Con Napster la industria luchaba contra los fans; con la AI, “los fans, la gente, están con nosotros”, recelosos de que la AI sustituya el elemento humano; las encuestas, dijo, rondan “el 92%”."
-              },
-              {
-                "t": "p",
-                "x": "Describió la definición de réplica digital del proyecto como “una réplica muy realista, generada por computadora (computer-generated), de tu voz o tu imagen” usada sin consentimiento: “En realidad se trata de la clonación con AI”."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "RIAA 수장, 아직\nNO FAKES 통과 기대",
-          "body": "Glazier는 AI가 Napster와 반대라며 NO FAKES에 기대를 걸었다.",
-          "mini_headline": "RIAA 수장, NO FAKES에 건다",
+          "headline": "Google, 프롬프트를\nDAW 플러그인으로",
+          "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
+          "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA 회장 겸 CEO Mitch Glazier는 Billboard On the Record에 나와 중간선거와 Trump 행정부, AI를 두루 이야기했다. 그가 가장 힘을 쏟는 것은 허락 없는 딥페이크를 막는 법안인 NO FAKES Act로, 지금은 Google과 OpenAI부터 SAG-AFTRA와 Motion Picture Association까지 지지층이 넓다."
+                "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸고 있으며, 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 이미 큰 영향을 미치고 있다."
               },
               {
                 "t": "p",
-                "x": "지난주 Marsha Blackburn 상원의원이 법안을 상원 본회의에 올렸고, 거의 만장일치에 가까운 지지를 받았지만 풍자와 정치 논평 예외 조항을 문제 삼은 Ted Cruz 상원의원에게 막혔다. Glazier는 레임덕 회기에 만장일치 동의로 통과될 “a real shot”이 있다고 보지만, 2027년에 다시 발의될 가능성이 더 크다고 말했다."
+                "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들기를 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 설명이다."
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 음악계의 다음 Napster 순간이냐는 질문에 Glazier는 “I think it’s the opposite.”라고 답했다. Napster 때 업계는 팬과 싸웠지만 AI를 두고는 “the fans, the people, they’re with us”라며, 팬들이 AI가 인간적 요소를 대체하는 것을 경계한다고 했다. 여론조사 수치는 “like, 92%.”라고 그는 말했다."
+                "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
               },
               {
                 "t": "p",
-                "x": "그는 법안이 정의하는 디지털 복제물을 동의 없이 쓰인 “a highly realistic, computer-generated replica of your voice or your likeness”라고 설명하며 “It is really about AI cloning.”이라고 했다."
+                "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
+              },
+              {
+                "t": "p",
+                "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "RIAAトップ、なお\nNO FAKES成立に期待",
-          "body": "RIAAのGlazierはAIをNapsterの逆と呼び、NO FAKES成立に望みを見る。",
-          "mini_headline": "RIAAトップ、NO FAKESに賭ける",
+          "headline": "Google、プロンプトを\nDAWプラグインに",
+          "body": "Flow Musicで作った楽器やエフェクトを、VST3/AU形式でDAWに持ち込める。",
+          "mini_headline": "Flow Music、VST3/AUで書き出し",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA会長兼CEOのMitch GlazierはBillboard On the Recordで、中間選挙、Trump政権、AIについて語った。最も力を入れるのは、無許可のディープフェイクを防ぐ法案NO FAKES Actだ。支持はGoogleやOpenAIからSAG-AFTRA、Motion Picture Associationにまで広がっている。"
+                "x": "AI支援プログラミング(AI-assisted programming)、いわゆる「バイブコーディング(vibe coding)」はソフトウェア開発を変えつつあり、電子音楽家が使えるソフトウェアやファームウェアの幅と多様さにも、すでに大きな影響を与えている。"
               },
               {
                 "t": "p",
-                "x": "先週、Marsha Blackburn上院議員が法案を上院本会議に持ち込んだ。ほぼ全面的な支持を得たが、風刺や政治的論評の例外をめぐりTed Cruz上院議員に阻まれた。Glazierはレームダック期間に全会一致の同意を得る「a real shot」があるとみるが、2027年に再提出される可能性のほうが高いという。"
+                "x": "そして今、Googleはオーディオアプリケーションもバイブコーディングで作ってほしいと考えている。プロデューサーはGoogle Flow Musicで音楽制作ツールをバイブコーディングできるようになったという。"
               },
               {
                 "t": "p",
-                "x": "生成AIは音楽業界にとって次のNapsterの瞬間かと問われ、Glazierは「I think it’s the opposite.」と答えた。Napsterのとき業界はファンと戦っていたが、AIでは「the fans, the people, they’re with us」であり、人々はAIが人間的な要素に取って代わることを警戒している。世論調査の数字は「like, 92%.」だと彼は述べた。"
+                "x": "「アーティスト、プロデューサー、ソングライターの仕事の進め方はそれぞれ異なる。そうした個々の創作ワークフローに合わせるため、Google Flow MusicのSpacesでは、クリエイターが自然言語でカスタムの楽器やエフェクトを作れる。コーディングの経験は必要ない。"
               },
               {
                 "t": "p",
-                "x": "彼は法案におけるデジタル複製の定義を、同意なく使われる「a highly realistic, computer-generated replica of your voice or your likeness」と説明し、「It is really about AI cloning.」と語った。"
+                "x": "今回、こうした機能をプロの制作環境に直接持ち込みやすくした。プロデューサーは自作のSpacesをVST3/AUプラグインとして書き出し、デジタルオーディオワークステーション(Digital Audio Workstations、DAWs)の中で動かせるようになった。"
+              },
+              {
+                "t": "p",
+                "x": "簡単に言えば、プロデューサーは使い慣れた制作ワークフローの中で、自分のプロセスやスタイルに合ったものを手軽に作れるということだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RIAA掌门人：\nNO FAKES仍有望通过",
-          "body": "RIAA的Glazier称AI与Napster相反，并认为NO FAKES确有通过机会。",
-          "mini_headline": "RIAA掌门人押注NO FAKES",
+          "headline": "Google把提示词\n变成DAW插件",
+          "body": "Flow Music现可将提示词生成的乐器和效果导出为VST3/AU插件，在DAW中运行。",
+          "mini_headline": "Flow Music可导出VST3/AU插件",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "video",
-                "yt": "eCLR1kMf4H8"
+                "yt": "Z4l8igzzHHw"
               },
               {
                 "t": "p",
-                "x": "RIAA董事长兼CEO Mitch Glazier在Billboard On the Record节目中谈及中期选举、Trump政府和AI。他最着力推动的是NO FAKES Act，这项法案旨在防范未经授权的深度伪造，如今支持者从Google、OpenAI一直延伸到SAG-AFTRA和Motion Picture Association。"
+                "x": "AI辅助编程(AI-assisted programming)，也就是所谓的“氛围编程”(vibe coding)，正在改变软件开发，并已对电子音乐人可用的软件和固件的范围与种类产生重大影响。"
               },
               {
                 "t": "p",
-                "x": "上周，参议员Marsha Blackburn将法案提交参议院全体会议，获得近乎一致的支持，却因讽刺和政治评论的例外条款遭参议员Ted Cruz阻挡。Glazier表示，法案在跛脚鸭会期以一致同意方式通过有“a real shot”，但更可能在2027年重新提出。"
+                "x": "如今，Google希望你用氛围编程来开发音频应用，称制作人现在可以借助Google Flow Music用氛围编程打造音乐制作工具："
               },
               {
                 "t": "p",
-                "x": "被问到生成式AI是否会成为音乐业的下一个Napster时刻，Glazier说：“I think it’s the opposite.”Napster时期，行业是在与粉丝对抗；而在AI问题上，“the fans, the people, they’re with us”，人们担心AI取代人的因素。他说，民调数字“like, 92%.”"
+                "x": "“每位艺术家、制作人和词曲作者的工作方式都不同。为了贴合这些各具特色的创作流程，Google Flow Music中的Spaces让创作者能用自然语言构建自定义乐器或效果器，无需任何编程经验。"
               },
               {
                 "t": "p",
-                "x": "他介绍，法案对数字复制品的定义是未经同意使用的“a highly realistic, computer-generated replica of your voice or your likeness”，并说：“It is really about AI cloning.”"
+                "x": "现在，我们让这些能力可以轻松直接接入专业工作环境。制作人现在可以把自定义的Spaces导出为VST3/AU插件，在数字音频工作站(Digital Audio Workstations，DAWs)中运行。"
+              },
+              {
+                "t": "p",
+                "x": "简单来说，这意味着制作人可以在熟悉的制作流程中，轻松打造契合自身流程和风格的工具。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Flow Music convierte\nprompts en plugins para DAW",
+          "body": "Google Flow Music exporta instrumentos y efectos creados con prompts como plugins VST3/AU que funcionan en DAWs.",
+          "mini_headline": "Flow Music exporta plugins VST3/AU",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "Z4l8igzzHHw"
+              },
+              {
+                "t": "p",
+                "x": "La programación asistida por IA (AI-assisted programming), conocida como 'vibe coding', está transformando el desarrollo de software y ya tiene un gran impacto en el alcance y la variedad del software y el firmware disponibles para los músicos electrónicos."
+              },
+              {
+                "t": "p",
+                "x": "Ahora Google quiere que programes aplicaciones de audio con vibe coding, y afirma que los productores ya pueden crear herramientas de producción musical con vibe coding en Google Flow Music:"
+              },
+              {
+                "t": "p",
+                "x": "“Cada artista, productor y compositor trabaja de forma distinta. Para adaptarse a esos flujos creativos individuales, Spaces en Google Flow Music permite a los creadores construir instrumentos o efectos personalizados con lenguaje natural, sin necesidad de experiencia en programación."
+              },
+              {
+                "t": "p",
+                "x": "Ahora facilitamos llevar estas capacidades directamente a entornos profesionales. Los productores ya pueden exportar sus Spaces personalizados como plugins VST3/AU para ejecutarlos dentro de sus estaciones de trabajo de audio digital (Digital Audio Workstations, DAWs)."
+              },
+              {
+                "t": "p",
+                "x": "En pocas palabras, los productores pueden crear con facilidad herramientas adaptadas a sus procesos y estilos dentro de sus flujos de producción habituales.”"
               }
             ]
           }
@@ -992,15 +1019,15 @@
       }
     },
     {
-      "id": "music-human-disclosure",
+      "id": "music-sonilo-video-scoring",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
-      "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
-      "mini_headline": "인간 기여도를 밝혀라",
+      "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
+      "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
+      "mini_headline": "Sonilo, 영상을 음악으로",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/who-actually-made-this-the-question-ai-is-forcing-music-to-ask/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1008,174 +1035,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+            "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
           },
           {
             "t": "p",
-            "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들였다고 말한다. 그런데 AI는 다르다. 인간의 기여를 선택 사항으로 만들 수 있다. 그러니 물어야 할 것은 누가 실제로 곡을 만들었느냐다."
+            "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 읽어 자연스럽게 어울리는 오디오를 만드는 것이 목표다. 회사는 사업을 넓히려고 $11m 규모의 투자를 유치했다."
           },
           {
             "t": "p",
-            "x": "그가 인용한 University of Chicago 연구에서는 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다. 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례도 든다."
-          },
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+            "x": "Sonilo는 TikTok의 AI 팀과 음악 팀 출신들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 오디오가 텍스트 프롬프트가 아니라 영상에서 출발한다는 점이 핵심이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
           },
           {
             "t": "p",
-            "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 썼다. 청취자가 원하는 건 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+            "x": "Music Ally의 주간 소식에는 다른 소식도 있었다. Laylo는 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 내놓았다. 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music은 Google의 Gemini Startup Forum에 뽑혔다."
           }
         ]
       },
-      "lead_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg",
       "text": {
         "en": {
-          "headline": "The line isn't AI, it's\nhow much a human made",
-          "body": "An op-ed argues AI can support music-making, but disclosing how much a human was involved keeps the artist-fan bond.",
-          "mini_headline": "Disclose how much\na human made",
+          "headline": "Sonilo scores video with\ntime-aligned AI music",
+          "body": "Sonilo raised $11M for its multimodal AI that reads a video's pacing, emotion and storyline to generate aligned music.",
+          "mini_headline": "Sonilo turns video\ninto music",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "In a Hypebot op-ed, Rap Fame’s Head of Content and Community John Lister argues hip-hop has always embraced new tech, from drum machines to Auto-Tune. But unlike those tools, AI can make the human contribution optional — so the key question becomes who actually made a track."
+                "x": "Sonilo is a platform with a \"proprietary multimodal AI system that connects video understanding, audio generation, and temporal alignment.\" It should recognise the pacing, emotion and storyline of a video and generate audio that aligns with it believably. It has now raised $11m in funding to scale the company."
               },
               {
                 "t": "p",
-                "x": "He notes a University of Chicago study found 93% of AI-generated tracks it examined got few, if any, plays, and points to Tyga’s $TARFACE album, made partly with AI, which Pitchfork rated 0.0."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo was founded by people who worked on TikTok's AI and music teams. CEO and co-founder Shawn Song says the key is that the audio starts with a video, not a text prompt: \"You give us the footage, and Sonilo understands what's happening frame by frame.\""
               },
               {
                 "t": "p",
-                "x": "Using AI to brainstorm, extend a melody or clean a vocal doesn’t make music meaningless, he writes. What listeners want is disclosure: if a human wrote it, say so; if a human and AI made it together, say so; if a machine made the whole thing, say so. “The problem comes when people pretend these three things are the same.”"
+                "x": "Elsewhere in Music Ally's weekly round-up: Laylo launched a Discovery Agent that texts Spotify users once a month about nearby gigs by artists they listen to but don't follow, and French startup Base For Music, whose AI tool finds artists' most-engaged fans, was picked for Google's Gemini Startup Forum."
               }
             ]
           }
         },
         "ko": {
-          "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
-          "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
-          "mini_headline": "인간 기여도를 밝혀라",
+          "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
+          "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
+          "mini_headline": "Sonilo, 영상을 음악으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들였다고 말한다. 그런데 AI는 다르다. 인간의 기여를 선택 사항으로 만들 수 있다. 그러니 물어야 할 것은 누가 실제로 곡을 만들었느냐다."
+                "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 읽어 자연스럽게 어울리는 오디오를 만드는 것이 목표다. 회사는 사업을 넓히려고 $11m 규모의 투자를 유치했다."
               },
               {
                 "t": "p",
-                "x": "그가 인용한 University of Chicago 연구에서는 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다. 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례도 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo는 TikTok의 AI 팀과 음악 팀 출신들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 오디오가 텍스트 프롬프트가 아니라 영상에서 출발한다는 점이 핵심이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
               },
               {
                 "t": "p",
-                "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 썼다. 청취자가 원하는 건 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+                "x": "Music Ally의 주간 소식에는 다른 소식도 있었다. Laylo는 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 내놓았다. 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music은 Google의 Gemini Startup Forum에 뽑혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "線引きはAIではなく\n人が作った度合いだ",
-          "body": "AIはmusic-makingを支えうるが、人の関与の開示がartist-fanの絆を保つ。",
-          "mini_headline": "人の関与の度合いを開示せよ",
+          "headline": "Sonilo、映像に\n同期するAI音楽",
+          "body": "Soniloは映像のテンポや感情、物語を読み取り音楽を生成するAIで$11M を調達した。",
+          "mini_headline": "Sonilo、映像を音楽に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap FameのHead of Content and CommunityであるJohn ListerはHypebotのop-edで、ドラムマシンからAuto-Tuneまで、ヒップホップ（hip-hop）は常に新しい技術を取り入れてきたと論じる。だがAIはそうした道具と違い、人間の貢献を任意のものにしうる。だからこそ核心の問いは、誰が実際にその曲を作ったのかになる。"
+                "x": "Soniloは「映像理解、オーディオ生成、時間的アライメントをつなぐ独自のマルチモーダルAIシステム」を持つプラットフォームだ。映像のテンポや感情、ストーリーを認識し、それに自然に合うオーディオを生成するという。同社は事業拡大に向け、$11m の資金を調達した。"
               },
               {
                 "t": "p",
-                "x": "彼は、University of Chicagoの研究で調べたAI生成（AI-generated）トラックの93%がほとんど、あるいはまったく再生されなかったと指摘し、一部をAIで制作したTygaのアルバム『$TARFACE』がPitchforkで0.0と評価された例を挙げる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Soniloを創業したのは、TikTokのAIチームや音楽チームで働いていた人々だ。CEO兼共同創業者のShawn Songは、オーディオの出発点がテキストプロンプトではなく映像であることが鍵だと語る。「映像を渡してもらえれば、Soniloはフレームごとに何が起きているかを理解する」"
               },
               {
                 "t": "p",
-                "x": "ブレインストーミングやメロディの展開、ボーカルの整音にAIを使っても、音楽が無意味になるわけではないと彼は書く。リスナーが求めているのは開示だ。人間が書いたならそう言い、人間とAIが一緒に作ったならそう言い、機械がすべて作ったならそう言えばいい。「問題は、人々がこの三つを同じものであるかのように装うときに生じる」"
+                "x": "Music Allyの週間まとめでは、ほかにもLayloが、ユーザーが聴いているもののフォローしていないアーティストの近隣公演を月に一度Spotifyユーザーにテキストで知らせるDiscovery Agentを公開した。また、アーティストの最も熱心なファンを見つけるAIツールを手がけるフランスのスタートアップBase For Musicが、GoogleのGemini Startup Forumに選ばれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "界线不在AI\n而在人类参与多少",
-          "body": "op-ed称AI可助music-making，公开人类参与度能维系artist-fan关系。",
-          "mini_headline": "公开人类参与程度",
+          "headline": "Sonilo为视频配上\n时间同步的AI音乐",
+          "body": "Sonilo获得$11M 融资，其多模态AI可读懂视频节奏、情绪与故事线并生成匹配音乐。",
+          "mini_headline": "Sonilo把视频变成音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap Fame的Head of Content and Community John Lister在Hypebot的一篇op-ed中指出，从鼓机到Auto-Tune，嘻哈（hip-hop）一直在拥抱新技术。但与这些工具不同，AI可以让人的贡献变得可有可无——因此关键问题变成了：一首歌究竟是谁做的。"
+                "x": "Sonilo是一个平台，拥有“连接视频理解、音频生成与时间对齐的专有多模态AI系统”。它应能识别视频的节奏、情绪和故事线，并生成与之自然契合的音频。公司现已获得$11m 融资，用于扩大规模。"
               },
               {
                 "t": "p",
-                "x": "他提到，University of Chicago的一项研究发现，其考察的AI生成（AI-generated）曲目中有93%播放量寥寥甚至为零；他还以Tyga部分借助AI制作的专辑$TARFACE为例，Pitchfork给它打了0.0分。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo由曾在TikTok的AI和音乐团队工作的人创立。CEO兼联合创始人Shawn Song表示，关键在于音频的起点是视频而非文本提示：“你把素材交给我们，Sonilo会逐帧理解画面中发生的事。”"
               },
               {
                 "t": "p",
-                "x": "他写道，用AI做头脑风暴、延展旋律或清理人声，并不会让音乐变得毫无意义。听众想要的是披露：如果是人写的，就说明；如果是人与AI合作完成的，就说明；如果全部由机器完成，也要说明。“问题出在人们假装这三种情况是一回事的时候。”"
+                "x": "Music Ally每周综述中的其他消息：Laylo推出了Discovery Agent，每月一次通过短信告诉Spotify用户，他们收听但未关注的艺人在附近有哪些演出；法国初创公司Base For Music的AI工具能找出艺人最活跃的粉丝，该公司入选了Google的Gemini Startup Forum。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La línea no es la AI, sino\ncuánto hizo un humano",
-          "body": "Un op-ed dice que la AI puede apoyar el music-making, pero revelar el aporte humano protege el vínculo artist-fan.",
-          "mini_headline": "Revelar cuánto hizo un humano",
+          "headline": "Sonilo musicaliza videos con\nIA sincronizada en el tiempo",
+          "body": "Sonilo recaudó $11M para su IA multimodal, que lee ritmo, emoción y trama de un video y genera música acorde.",
+          "mini_headline": "Sonilo convierte video en música",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "En un op-ed en Hypebot, John Lister, Head of Content and Community de Rap Fame, sostiene que el hip-hop siempre ha adoptado nuevas tecnologías, de las cajas de ritmos al Auto-Tune. Pero, a diferencia de esas herramientas, la AI puede volver opcional la contribución humana, así que la pregunta clave pasa a ser quién hizo realmente una canción."
+                "x": "Sonilo es una plataforma con un “sistema propio de IA (AI) multimodal que conecta la comprensión de video, la generación de audio y la alineación temporal”. Debería reconocer el ritmo, la emoción y la trama de un video y generar audio que encaje con ellos de forma creíble. Ahora ha recaudado $11m en financiación para escalar la empresa."
               },
               {
                 "t": "p",
-                "x": "Señala que un estudio de la University of Chicago halló que el 93% de las pistas AI-generated que examinó tuvo pocas reproducciones o ninguna, y menciona el álbum $TARFACE de Tyga, hecho en parte con AI, al que Pitchfork calificó con 0.0."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo fue fundada por personas que trabajaron en los equipos de IA y de música de TikTok. Su CEO y cofundador, Shawn Song, dice que la clave es que el audio parte de un video, no de un prompt de texto: “Nos das las imágenes y Sonilo entiende lo que ocurre fotograma a fotograma”."
               },
               {
                 "t": "p",
-                "x": "Usar la AI para generar ideas, extender una melodía o limpiar una voz no vacía de sentido la música, escribe. Lo que quieren los oyentes es transparencia: si lo escribió una persona, que se diga; si lo hicieron juntos una persona y la AI, que se diga; si lo hizo todo una máquina, que se diga. “El problema surge cuando la gente finge que estas tres cosas son lo mismo”."
+                "x": "En otras noticias del resumen semanal de Music Ally: Laylo lanzó un Discovery Agent que envía un mensaje de texto una vez al mes a usuarios de Spotify sobre conciertos cercanos de artistas que escuchan pero no siguen, y la startup francesa Base For Music, cuya herramienta de IA encuentra a los fans más comprometidos de los artistas, fue seleccionada para el Gemini Startup Forum de Google."
               }
             ]
           }
@@ -1183,121 +1185,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "기준은 AI가 아니라\n사람이 얼마나 만들었나",
-          "body": "AI는 music-making을 돕되 인간 몫 공개가 artist-fan을 지킨다.",
-          "mini_headline": "인간 기여도를 밝혀라",
+          "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
+          "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
+          "mini_headline": "Sonilo, 영상을 음악으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap Fame의 Head of Content and Community인 John Lister는 Hypebot op-ed에서 힙합(hip-hop)이 드럼 머신부터 Auto-Tune까지 늘 새 기술을 받아들여 왔다고 말한다. 하지만 AI는 그런 도구와 달리 인간의 기여를 선택 사항으로 만들 수 있다. 그래서 핵심 질문은 누가 실제로 곡을 만들었느냐가 된다."
+                "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 파악해 그에 자연스럽게 맞는 오디오를 생성하는 것이 목표다. 회사는 사업 확장을 위해 $11m 규모의 투자를 유치했다."
               },
               {
                 "t": "p",
-                "x": "그는 University of Chicago 연구에서 조사 대상 AI 생성(AI-generated) 트랙의 93%가 재생이 거의 없거나 아예 없었다고 짚는다. 또 일부를 AI로 만든 Tyga의 앨범 $TARFACE가 Pitchfork에서 0.0점을 받은 사례를 든다."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo는 TikTok의 AI 팀과 음악 팀에서 일했던 사람들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 핵심이 텍스트 프롬프트가 아니라 영상에서 오디오가 출발한다는 점이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
               },
               {
                 "t": "p",
-                "x": "브레인스토밍, 멜로디 확장, 보컬 정리에 AI를 쓴다고 음악이 무의미해지지는 않는다고 그는 쓴다. 청취자가 원하는 것은 공개다. 사람이 썼다면 그렇다고, 사람과 AI가 함께 만들었다면 그렇다고, 기계가 전부 만들었다면 그렇다고 밝히면 된다. “문제는 사람들이 이 세 가지를 같은 것인 척할 때 생긴다.”"
+                "x": "Music Ally의 주간 소식에서는 이 밖에도 Laylo가 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 출시했고, 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music이 Google의 Gemini Startup Forum에 선정됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "線引きはAIではなく\n人が作った度合いだ",
-          "body": "AIはmusic-makingを支えうるが、人の関与の開示がartist-fanの絆を保つ。",
-          "mini_headline": "人の関与の度合いを開示せよ",
+          "headline": "Sonilo、映像に\n同期するAI音楽",
+          "body": "Soniloは映像のテンポや感情、物語を読み取り音楽を生成するAIで$11M を調達した。",
+          "mini_headline": "Sonilo、映像を音楽に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap FameのHead of Content and CommunityであるJohn ListerはHypebotのop-edで、ドラムマシンからAuto-Tuneまで、ヒップホップ（hip-hop）は常に新しい技術を取り入れてきたと論じる。だがAIはそうした道具と違い、人間の貢献を任意のものにしうる。だからこそ核心の問いは、誰が実際にその曲を作ったのかになる。"
+                "x": "Soniloは「映像理解、オーディオ生成、時間的アライメントをつなぐ独自のマルチモーダルAIシステム」を持つプラットフォームだ。映像のテンポや感情、ストーリーを認識し、それに自然に合うオーディオを生成するという。同社は事業拡大に向け、$11m の資金を調達した。"
               },
               {
                 "t": "p",
-                "x": "彼は、University of Chicagoの研究で調べたAI生成（AI-generated）トラックの93%がほとんど、あるいはまったく再生されなかったと指摘し、一部をAIで制作したTygaのアルバム『$TARFACE』がPitchforkで0.0と評価された例を挙げる。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Soniloを創業したのは、TikTokのAIチームや音楽チームで働いていた人々だ。CEO兼共同創業者のShawn Songは、オーディオの出発点がテキストプロンプトではなく映像であることが鍵だと語る。「映像を渡してもらえれば、Soniloはフレームごとに何が起きているかを理解する」"
               },
               {
                 "t": "p",
-                "x": "ブレインストーミングやメロディの展開、ボーカルの整音にAIを使っても、音楽が無意味になるわけではないと彼は書く。リスナーが求めているのは開示だ。人間が書いたならそう言い、人間とAIが一緒に作ったならそう言い、機械がすべて作ったならそう言えばいい。「問題は、人々がこの三つを同じものであるかのように装うときに生じる」"
+                "x": "Music Allyの週間まとめでは、ほかにもLayloが、ユーザーが聴いているもののフォローしていないアーティストの近隣公演を月に一度Spotifyユーザーにテキストで知らせるDiscovery Agentを公開した。また、アーティストの最も熱心なファンを見つけるAIツールを手がけるフランスのスタートアップBase For Musicが、GoogleのGemini Startup Forumに選ばれた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "界线不在AI\n而在人类参与多少",
-          "body": "op-ed称AI可助music-making，公开人类参与度能维系artist-fan关系。",
-          "mini_headline": "公开人类参与程度",
+          "headline": "Sonilo为视频配上\n时间同步的AI音乐",
+          "body": "Sonilo获得$11M 融资，其多模态AI可读懂视频节奏、情绪与故事线并生成匹配音乐。",
+          "mini_headline": "Sonilo把视频变成音乐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "Rap Fame的Head of Content and Community John Lister在Hypebot的一篇op-ed中指出，从鼓机到Auto-Tune，嘻哈（hip-hop）一直在拥抱新技术。但与这些工具不同，AI可以让人的贡献变得可有可无——因此关键问题变成了：一首歌究竟是谁做的。"
+                "x": "Sonilo是一个平台，拥有“连接视频理解、音频生成与时间对齐的专有多模态AI系统”。它应能识别视频的节奏、情绪和故事线，并生成与之自然契合的音频。公司现已获得$11m 融资，用于扩大规模。"
               },
               {
                 "t": "p",
-                "x": "他提到，University of Chicago的一项研究发现，其考察的AI生成（AI-generated）曲目中有93%播放量寥寥甚至为零；他还以Tyga部分借助AI制作的专辑$TARFACE为例，Pitchfork给它打了0.0分。"
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo由曾在TikTok的AI和音乐团队工作的人创立。CEO兼联合创始人Shawn Song表示，关键在于音频的起点是视频而非文本提示：“你把素材交给我们，Sonilo会逐帧理解画面中发生的事。”"
               },
               {
                 "t": "p",
-                "x": "他写道，用AI做头脑风暴、延展旋律或清理人声，并不会让音乐变得毫无意义。听众想要的是披露：如果是人写的，就说明；如果是人与AI合作完成的，就说明；如果全部由机器完成，也要说明。“问题出在人们假装这三种情况是一回事的时候。”"
+                "x": "Music Ally每周综述中的其他消息：Laylo推出了Discovery Agent，每月一次通过短信告诉Spotify用户，他们收听但未关注的艺人在附近有哪些演出；法国初创公司Base For Music的AI工具能找出艺人最活跃的粉丝，该公司入选了Google的Gemini Startup Forum。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La línea no es la AI, sino\ncuánto hizo un humano",
-          "body": "Un op-ed dice que la AI puede apoyar el music-making, pero revelar el aporte humano protege el vínculo artist-fan.",
-          "mini_headline": "Revelar cuánto hizo un humano",
+          "headline": "Sonilo musicaliza videos con\nIA sincronizada en el tiempo",
+          "body": "Sonilo recaudó $11M para su IA multimodal, que lee ritmo, emoción y trama de un video y genera música acorde.",
+          "mini_headline": "Sonilo convierte video en música",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg"
+                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
               },
               {
                 "t": "p",
-                "x": "En un op-ed en Hypebot, John Lister, Head of Content and Community de Rap Fame, sostiene que el hip-hop siempre ha adoptado nuevas tecnologías, de las cajas de ritmos al Auto-Tune. Pero, a diferencia de esas herramientas, la AI puede volver opcional la contribución humana, así que la pregunta clave pasa a ser quién hizo realmente una canción."
+                "x": "Sonilo es una plataforma con un “sistema propio de IA (AI) multimodal que conecta la comprensión de video, la generación de audio y la alineación temporal”. Debería reconocer el ritmo, la emoción y la trama de un video y generar audio que encaje con ellos de forma creíble. Ahora ha recaudado $11m en financiación para escalar la empresa."
               },
               {
                 "t": "p",
-                "x": "Señala que un estudio de la University of Chicago halló que el 93% de las pistas AI-generated que examinó tuvo pocas reproducciones o ninguna, y menciona el álbum $TARFACE de Tyga, hecho en parte con AI, al que Pitchfork calificó con 0.0."
-              },
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Press-Graphic-3.png"
+                "x": "Sonilo fue fundada por personas que trabajaron en los equipos de IA y de música de TikTok. Su CEO y cofundador, Shawn Song, dice que la clave es que el audio parte de un video, no de un prompt de texto: “Nos das las imágenes y Sonilo entiende lo que ocurre fotograma a fotograma”."
               },
               {
                 "t": "p",
-                "x": "Usar la AI para generar ideas, extender una melodía o limpiar una voz no vacía de sentido la música, escribe. Lo que quieren los oyentes es transparencia: si lo escribió una persona, que se diga; si lo hicieron juntos una persona y la AI, que se diga; si lo hizo todo una máquina, que se diga. “El problema surge cuando la gente finge que estas tres cosas son lo mismo”."
+                "x": "En otras noticias del resumen semanal de Music Ally: Laylo lanzó un Discovery Agent que envía un mensaje de texto una vez al mes a usuarios de Spotify sobre conciertos cercanos de artistas que escuchan pero no siguen, y la startup francesa Base For Music, cuya herramienta de IA encuentra a los fans más comprometidos de los artistas, fue seleccionada para el Gemini Startup Forum de Google."
               }
             ]
           }
@@ -1305,322 +1291,321 @@
       }
     },
     {
-      "id": "music-kpop-ai-conductors",
-      "source_lang": "ko",
+      "id": "music-arxiv-attribution",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 지휘하는\nK팝 창작자들",
-      "body": "생성형 AI 시대, K팝 창작자는 AI를 지휘하며 대체 불가능한 일에 집중한다.",
-      "mini_headline": "AI 지휘하는 K팝",
+      "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
+      "body": "입력 기반 귀속이면 AI-made 곡의 원천을 검증할 수 있다고 새 논문은 본다.",
+      "mini_headline": "AI 음악의 기여 추적",
       "tool": "Music",
-      "source": "일간스포츠",
-      "url": "https://isplus.com/article/view/isp202609280072",
-      "accent": "#0070f3",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.09637",
+      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할까? 이 논문에 따르면 입력 기반 귀속(input-based attribution)은 어떤 오디오 소스가 생성에 쓰였는지, 그 소스가 결과물을 형성했는지를 검증 가능한 증거로 보여 줄 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만 조건으로 쓴다. 스템마다 프롬프트 녹음 하나를 넣고 필요하면 공유 컨텍스트를 더한다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색은 프롬프트 오디오를, 화성은 컨텍스트 오디오를 따랐다."
+          },
+          {
+            "t": "p",
+            "x": "다만 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수도 있다. 그래서 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했는데 입력 기록 밖의 재현은 거의 나오지 않았다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
+          },
+          {
             "t": "img",
-            "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-            "cap": "본 이미지는 AI 기술을 활용해 제작되었습니다. 사진=IS포토"
+            "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+            "cap": "그림 3: 암기 지표의 탐지 성능."
           },
           {
             "t": "p",
-            "x": "일간스포츠 기획 시리즈 [K팝과 AI 혁명]은 작곡·작업실, 버추얼 아이돌·팬덤, 뮤직비디오 제작 현장이라는 K팝 프로덕션의 세 축을 9회에 걸쳐 조명했다. 현장의 실상은 단순한 기술적 공포나 환호와는 거리가 멀었다."
-          },
-          {
-            "t": "p",
-            "x": "한국음악저작권협회가 AI 음악 등록 가이드라인을 발표했다가 22일 만에 백지화하고, 크레딧에 올리지 못하는 ‘유령 어시스턴트’를 두는 상황에서도 현장은 이미 AI를 전면 수용하고 있었다. 27년 차 김원종 프로듀서의 작업실에서 AI는 초안부터 가사·편곡·믹싱까지 송라이팅 캠프를 대체하며 제작비를 1000분의 1 수준으로 줄였다. 수억 원대 뮤직비디오 세트·VFX 비용은 AI와 입체 촬영의 결합으로 10분의 1 수준으로 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "창작자의 역할도 재정의되고 있다. AI가 대량의 소스와 시안을 만드는 동안 작곡가와 연출가는 전체 콘셉트를 조율하고 기술을 통제하는 지휘자로 진화한다. 노지훈 감독은 “버튼 하나 누르면 뚝딱 완성된다는 것은 오해”이며 원하는 컷을 건져내는 것은 결국 창작자의 안목과 취향이라고 지적했다. 다만 신인들이 경험을 쌓을 사다리가 흔들리는 부작용도 생기고 있다."
-          },
-          {
-            "t": "p",
-            "x": "기술이 고도화될수록 팬들이 찾는 것은 인간 고유의 경험과 교감, 즉 ‘휴먼 터치’였다. 산업의 핵심 질문은 ‘무엇을 AI로 대체할 것인가’가 아니라 ‘기술로 대체되지 않는 요소를 어떻게 발굴하고 키울 것인가’에 있다."
+            "x": "저자들은 입력 기록과 출력 분석이 귀속을 서로 보완하는 증거가 되며, AI 음악 경제가 자리 잡는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
           }
         ]
       },
-      "lead_image": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
       "text": {
-        "ko": {
-          "headline": "AI를 지휘하는\nK팝 창작자들",
-          "body": "생성형 AI 시대, K팝 창작자는 AI를 지휘하며 대체 불가능한 일에 집중한다.",
-          "mini_headline": "AI 지휘하는 K팝",
+        "en": {
+          "headline": "Tracing whose music\nshaped an AI-made track",
+          "body": "A new paper shows input-based attribution can give verifiable evidence of which recordings shaped an AI-made track.",
+          "mini_headline": "Attribution for\nAI music",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "How can we verify whose music contributed to an AI-generated output? This paper shows how input-based attribution can provide verifiable evidence of which audio sources were used in a generation and whether they shaped the output."
+              },
+              {
+                "t": "p",
+                "x": "The generator, MixAudio, is conditioned solely on audio with no text input: one prompt recording per stem plus an optional shared context. In prompt adherence tests and controlled input swaps, its stems follow the prompt audio in timbre and the context audio in harmony."
+              },
+              {
+                "t": "p",
+                "x": "Outputs may still reproduce training data not supplied as inputs, so the authors audit memorization with their musical version identification model, musicDNA, finding few reproductions outside the input records. On human-judged flagged cases it beats the other tested memorization detectors in precision and recall."
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "본 이미지는 AI 기술을 활용해 제작되었습니다. 사진=IS포토"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "Figure 3: Detection performance of memorization metrics."
               },
               {
                 "t": "p",
-                "x": "일간스포츠 기획 시리즈 [K팝과 AI 혁명]은 작곡·작업실, 버추얼 아이돌·팬덤, 뮤직비디오 제작 현장이라는 K팝 프로덕션의 세 축을 9회에 걸쳐 조명했다. 현장의 실상은 단순한 기술적 공포나 환호와는 거리가 멀었다."
-              },
-              {
-                "t": "p",
-                "x": "한국음악저작권협회가 AI 음악 등록 가이드라인을 발표했다가 22일 만에 백지화하고, 크레딧에 올리지 못하는 ‘유령 어시스턴트’를 두는 상황에서도 현장은 이미 AI를 전면 수용하고 있었다. 27년 차 김원종 프로듀서의 작업실에서 AI는 초안부터 가사·편곡·믹싱까지 송라이팅 캠프를 대체하며 제작비를 1000분의 1 수준으로 줄였다. 수억 원대 뮤직비디오 세트·VFX 비용은 AI와 입체 촬영의 결합으로 10분의 1 수준으로 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "창작자의 역할도 재정의되고 있다. AI가 대량의 소스와 시안을 만드는 동안 작곡가와 연출가는 전체 콘셉트를 조율하고 기술을 통제하는 지휘자로 진화한다. 노지훈 감독은 “버튼 하나 누르면 뚝딱 완성된다는 것은 오해”이며 원하는 컷을 건져내는 것은 결국 창작자의 안목과 취향이라고 지적했다. 다만 신인들이 경험을 쌓을 사다리가 흔들리는 부작용도 생기고 있다."
-              },
-              {
-                "t": "p",
-                "x": "기술이 고도화될수록 팬들이 찾는 것은 인간 고유의 경험과 교감, 즉 ‘휴먼 터치’였다. 산업의 핵심 질문은 ‘무엇을 AI로 대체할 것인가’가 아니라 ‘기술로 대체되지 않는 요소를 어떻게 발굴하고 키울 것인가’에 있다."
+                "x": "Input records and output analysis, the authors argue, give complementary evidence for attribution that rights-holder reporting and compensation can draw on as the AI music economy takes shape."
               }
             ]
           }
         },
-        "en": {
-          "headline": "K-pop creators\nconducting AI",
-          "body": "In the generative AI era, K-pop creators conduct AI and focus on the work that cannot be replaced.",
-          "mini_headline": "K-pop conducting AI",
+        "ko": {
+          "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
+          "body": "입력 기반 귀속이면 AI-made 곡의 원천을 검증할 수 있다고 새 논문은 본다.",
+          "mini_headline": "AI 음악의 기여 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할까? 이 논문에 따르면 입력 기반 귀속(input-based attribution)은 어떤 오디오 소스가 생성에 쓰였는지, 그 소스가 결과물을 형성했는지를 검증 가능한 증거로 보여 줄 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만 조건으로 쓴다. 스템마다 프롬프트 녹음 하나를 넣고 필요하면 공유 컨텍스트를 더한다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색은 프롬프트 오디오를, 화성은 컨텍스트 오디오를 따랐다."
+              },
+              {
+                "t": "p",
+                "x": "다만 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수도 있다. 그래서 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했는데 입력 기록 밖의 재현은 거의 나오지 않았다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "This image was created using AI technology. Photo=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "그림 3: 암기 지표의 탐지 성능."
               },
               {
                 "t": "p",
-                "x": "Ilgan Sports' special series [K-pop and the AI Revolution] examined three pillars of K-pop production over 9 installments: songwriting and the studio, virtual idols and fandom, and music video production. The reality on the ground was far from simple fear of, or enthusiasm for, the technology."
-              },
-              {
-                "t": "p",
-                "x": "Even as the Korea Music Copyright Association announced AI music registration guidelines and scrapped them 22 days later, and studios kept 'ghost assistants' who cannot be credited, the field had already fully embraced AI. In the studio of Kim Won-jong, a producer of 27 years, AI has replaced the songwriting camp, from first drafts to lyrics, arrangement and mixing, cutting production costs to about 1/1000. Music video set and VFX costs running to hundreds of millions of won (수억 원) have fallen to about 1/10 by combining AI with stereoscopic filming."
-              },
-              {
-                "t": "p",
-                "x": "The creator's role is being redefined too. While AI produces large volumes of source material and drafts, composers and directors are evolving into conductors who coordinate the overall concept and control the technology. Director Noh Ji-hoon said “it is a misconception that it is done with the push of one button,” noting that picking out the shot you want ultimately comes down to the creator's eye and taste. But there is a side effect: the ladder newcomers use to gain experience is being shaken."
-              },
-              {
-                "t": "p",
-                "x": "The more advanced the technology becomes, the more fans look for uniquely human experience and connection, the 'human touch.' The industry's key question is not 'what to replace with AI' but 'how to discover and nurture what technology cannot replace.'"
+                "x": "저자들은 입력 기록과 출력 분석이 귀속을 서로 보완하는 증거가 되며, AI 음악 경제가 자리 잡는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを指揮する\nK-POPクリエイター",
-          "body": "生成AI時代、K-POPクリエイターはAIを指揮し、代替不可能な仕事に集中する。",
-          "mini_headline": "AIを指揮するK-POP",
+          "headline": "AI-made曲を形づくった\n音楽の出どころを追う",
+          "body": "新論文は、入力ベースの帰属によりAI-made曲に影響した録音を検証できると示した。",
+          "mini_headline": "AI音楽の帰属を追う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI生成(AI-generated)の出力に誰の音楽が寄与したのかを、どう検証すればよいのか。本論文は、入力ベースの帰属(input-based attribution)によって、生成にどの音源が使われ、それが出力を形づくったかどうかについて検証可能な証拠を示せることを明らかにする。"
+              },
+              {
+                "t": "p",
+                "x": "生成器MixAudioは、テキスト入力を使わず音声のみを条件とする。ステムごとにプロンプト録音を一つ与え、任意で共有コンテキストを加える。プロンプト追従性のテストと、入力を制御して入れ替える実験では、各ステムが音色ではプロンプト音声に、和声ではコンテキスト音声に従った。"
+              },
+              {
+                "t": "p",
+                "x": "それでも出力が、入力として与えていない学習データを再現する可能性はある。そこで著者らは独自の楽曲バージョン識別モデルmusicDNAで記憶(memorization)を監査し、入力記録以外からの再現はほとんど見つからなかった。人間が判定したフラグ付き事例では、テストしたほかの記憶検出器を適合率と再現率の両方で上回った。"
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "本画像はAI技術を活用して制作された。写真=ISフォト"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "図3:記憶指標の検出性能。"
               },
               {
                 "t": "p",
-                "x": "イルガンスポーツの企画シリーズ［K-POPとAI革命］は、作曲・作業室、バーチャルアイドル・ファンダム、ミュージックビデオ制作現場というK-POPプロダクションの三つの軸を9回にわたって取り上げた。現場の実情は、技術への単純な恐怖や熱狂とはかけ離れていた。"
-              },
-              {
-                "t": "p",
-                "x": "韓国音楽著作権協会がAI音楽の登録ガイドラインを発表しながら22日で白紙に戻し、クレジットに載せられない「幽霊アシスタント」を置く状況でも、現場はすでにAIを全面的に受け入れていた。キャリア27年のキム・ウォンジョン・プロデューサーの作業室では、AIが草案から作詞・編曲・ミキシングまでソングライティングキャンプを代替し、制作費を1000分の1の水準にまで減らした。数億ウォン（수억 원）規模のミュージックビデオのセット・VFX費用は、AIと立体撮影の組み合わせで10分の1の水準に下がった。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターの役割も再定義されつつある。AIが大量のソースや試案を生み出す間、作曲家や演出家は全体のコンセプトを調整し技術を制御する指揮者へと進化している。ノ・ジフン監督は「ボタン一つ押せばたちまち完成するというのは誤解」だとし、望むカットをすくい上げるのは結局クリエイターの目と好みだと指摘した。ただ、新人が経験を積むためのはしごが揺らぐ副作用も生じている。"
-              },
-              {
-                "t": "p",
-                "x": "技術が高度になるほど、ファンが求めるのは人間ならではの経験と交感、つまり「ヒューマンタッチ」だった。業界の核心的な問いは「何をAIで代替するか」ではなく、「技術で代替されない要素をどう発掘し育てるか」にある。"
+                "x": "著者らは、入力記録と出力分析が帰属について相補的な証拠となり、AI音楽経済が形づくられていくなかで、権利者への報告や補償の根拠になり得ると主張する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "指挥AI的\nK-pop创作者",
-          "body": "生成式AI时代，K-pop创作者指挥AI，专注于无法被取代的工作。",
-          "mini_headline": "指挥AI的K-pop",
+          "headline": "追溯AI-made曲目\n背后的音乐来源",
+          "body": "新论文表明，基于输入的归因可为AI-made曲目受哪些录音影响提供可验证证据。",
+          "mini_headline": "AI音乐的归因追溯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "如何验证谁的音乐促成了AI生成(AI-generated)的作品？本文展示了基于输入的归因(input-based attribution)如何提供可验证的证据，说明生成中使用了哪些音频来源，以及它们是否塑造了输出。"
+              },
+              {
+                "t": "p",
+                "x": "生成器MixAudio仅以音频为条件，不使用文本输入：每个分轨一段提示录音，外加一段可选的共享上下文。在提示遵循测试和受控的输入替换中，各分轨在音色上跟随提示音频，在和声上跟随上下文音频。"
+              },
+              {
+                "t": "p",
+                "x": "输出仍可能复现未作为输入提供的训练数据，因此作者用自家的音乐版本识别模型musicDNA审查记忆现象，发现输入记录之外的复现很少。在经人工判定的标记案例上，它在精确率和召回率上都优于其他受测的记忆检测器。"
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "本图片使用AI技术制作。照片=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "图3：记忆指标的检测性能。"
               },
               {
                 "t": "p",
-                "x": "日刊体育策划系列[K-pop与AI革命]分9期，聚焦K-pop制作的三大支柱：作曲与工作室、虚拟偶像与粉丝圈、音乐录影带制作现场。现场的实际情况，与对技术的单纯恐惧或欢呼相去甚远。"
-              },
-              {
-                "t": "p",
-                "x": "韩国音乐著作权协会发布AI音乐登记指南后仅22天便将其撤回，业内还存在无法列入署名的“幽灵助理”，即便如此，现场早已全面接纳AI。在从业27年的制作人Kim Won-jong的工作室里，AI从初稿到作词、编曲、混音，全面取代了词曲创作营，将制作成本降至1/1000的水平。动辄数亿韩元（수억 원）的音乐录影带布景与VFX费用，借助AI与立体拍摄的结合，降到了1/10的水平。"
-              },
-              {
-                "t": "p",
-                "x": "创作者的角色也在被重新定义。AI大量生成素材和方案的同时，作曲家和导演正演变为统筹整体概念、驾驭技术的指挥者。导演Noh Ji-hoon指出，“按一个按钮就能一下子完成，这是误解”，最终能挑出理想镜头的，还是创作者的眼光与品味。不过，新人积累经验的阶梯随之动摇，这一副作用也在显现。"
-              },
-              {
-                "t": "p",
-                "x": "技术越先进，粉丝寻找的越是人类独有的经验与共鸣，即“人情味”。产业的核心问题不是“用AI取代什么”，而是“如何发掘和培育技术无法取代的要素”。"
+                "x": "作者认为，输入记录与输出分析为归因提供了互补的证据，随着AI音乐经济逐步成形，权利人报告和补偿机制可以据此展开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los creadores de K-pop\nque dirigen la AI",
-          "body": "En la era de la AI generativa, los creadores de K-pop dirigen la AI y se centran en lo que no se puede sustituir.",
-          "mini_headline": "El K-pop que dirige la AI",
+          "headline": "Rastrear la música detrás\nde una pista AI-made",
+          "body": "Según un estudio, la atribución por entradas da pruebas verificables de qué grabaciones moldearon una pista AI-made.",
+          "mini_headline": "Atribución para\nla música con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "¿Cómo podemos verificar de quién es la música que contribuyó a un resultado AI-generated? Este artículo muestra cómo la atribución basada en las entradas puede aportar pruebas verificables de qué fuentes de audio se usaron en una generación y de si moldearon el resultado."
+              },
+              {
+                "t": "p",
+                "x": "El generador, MixAudio, está condicionado únicamente por audio, sin entrada de texto: una grabación de prompt por stem más un contexto compartido opcional. En pruebas de adherencia al prompt y en intercambios controlados de entradas, sus stems siguen al audio del prompt en el timbre y al audio de contexto en la armonía."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados aún pueden reproducir datos de entrenamiento no suministrados como entradas, por lo que los autores auditan la memorización con su modelo de identificación de versiones musicales, musicDNA, y encuentran pocas reproducciones fuera de los registros de entrada. En los casos señalados y evaluados por personas, supera a los demás detectores de memorización probados en precisión y exhaustividad."
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "Esta imagen se creó con tecnología AI. Foto=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "Figura 3: Rendimiento de detección de las métricas de memorización."
               },
               {
                 "t": "p",
-                "x": "La serie especial de Ilgan Sports [K-pop y la revolución AI] examinó en 9 entregas tres pilares de la producción del K-pop: la composición y el estudio, los ídolos virtuales y el fandom, y el rodaje de videoclips. La realidad sobre el terreno distaba mucho del simple miedo o entusiasmo ante la tecnología."
-              },
-              {
-                "t": "p",
-                "x": "Aunque la Asociación de Derechos de Autor Musicales de Corea publicó unas directrices de registro de música AI y las anuló 22 días después, y aunque se recurre a 'asistentes fantasma' que no pueden figurar en los créditos, el sector ya había adoptado la AI por completo. En el estudio de Kim Won-jong, productor con 27 años de trayectoria, la AI sustituyó al campamento de composición, desde el primer borrador hasta la letra, los arreglos y la mezcla, y redujo los costes de producción a 1/1000. Los costes de decorados y VFX de videoclips, que alcanzaban cientos de millones de wones (수억 원), bajaron a 1/10 al combinar la AI con la filmación estereoscópica."
-              },
-              {
-                "t": "p",
-                "x": "El papel del creador también se está redefiniendo. Mientras la AI genera grandes cantidades de material y bocetos, compositores y directores evolucionan hacia directores de orquesta que coordinan el concepto general y controlan la tecnología. El director Noh Ji-hoon señaló que “es un error pensar que todo sale listo con pulsar un botón” y que rescatar la toma deseada depende, al final, del criterio y el gusto del creador. Con todo, surge un efecto secundario: se tambalea la escalera con la que los nuevos talentos acumulan experiencia."
-              },
-              {
-                "t": "p",
-                "x": "Cuanto más avanza la tecnología, más buscan los fans la experiencia y la conexión propias del ser humano, el 'toque humano'. La pregunta clave del sector no es 'qué sustituir con AI', sino 'cómo descubrir y cultivar lo que la tecnología no puede sustituir'."
+                "x": "Según los autores, los registros de entrada y el análisis de la salida ofrecen pruebas complementarias para la atribución de una pista AI-made, en las que pueden apoyarse los informes y la compensación a los titulares de derechos a medida que toma forma la economía de la música con AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "K-pop creators\nconducting AI",
-          "body": "In the generative AI era, K-pop creators conduct AI and focus on the work that cannot be replaced.",
-          "mini_headline": "K-pop conducting AI",
+        "ko": {
+          "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
+          "body": "새 논문은 입력 기반 귀속으로 AI-made 곡의 원천을 검증할 수 있다고 본다.",
+          "mini_headline": "AI 음악의 기여 추적",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할 수 있을까? 이 논문은 입력 기반 귀속(input-based attribution)으로, 생성에 어떤 오디오 소스가 쓰였는지와 그 소스가 결과물을 형성했는지에 대한 검증 가능한 증거를 제시할 수 있음을 보여준다."
+              },
+              {
+                "t": "p",
+                "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만을 조건으로 삼는다. 스템마다 프롬프트 녹음 하나에 선택적으로 공유 컨텍스트를 더하는 방식이다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색에서는 프롬프트 오디오를, 화성에서는 컨텍스트 오디오를 따랐다."
+              },
+              {
+                "t": "p",
+                "x": "그래도 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수 있어, 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했고 입력 기록 밖의 재현은 거의 찾지 못했다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "This image was created using AI technology. Photo=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "그림 3: 암기 지표의 탐지 성능."
               },
               {
                 "t": "p",
-                "x": "Ilgan Sports' special series [K-pop and the AI Revolution] examined three pillars of K-pop production over 9 installments: songwriting and the studio, virtual idols and fandom, and music video production. The reality on the ground was far from simple fear of, or enthusiasm for, the technology."
-              },
-              {
-                "t": "p",
-                "x": "Even as the Korea Music Copyright Association announced AI music registration guidelines and scrapped them 22 days later, and studios kept 'ghost assistants' who cannot be credited, the field had already fully embraced AI. In the studio of Kim Won-jong, a producer of 27 years, AI has replaced the songwriting camp, from first drafts to lyrics, arrangement and mixing, cutting production costs to about 1/1000. Music video set and VFX costs running to hundreds of millions of won (수억 원) have fallen to about 1/10 by combining AI with stereoscopic filming."
-              },
-              {
-                "t": "p",
-                "x": "The creator's role is being redefined too. While AI produces large volumes of source material and drafts, composers and directors are evolving into conductors who coordinate the overall concept and control the technology. Director Noh Ji-hoon said “it is a misconception that it is done with the push of one button,” noting that picking out the shot you want ultimately comes down to the creator's eye and taste. But there is a side effect: the ladder newcomers use to gain experience is being shaken."
-              },
-              {
-                "t": "p",
-                "x": "The more advanced the technology becomes, the more fans look for uniquely human experience and connection, the 'human touch.' The industry's key question is not 'what to replace with AI' but 'how to discover and nurture what technology cannot replace.'"
+                "x": "저자들은 입력 기록과 출력 분석이 귀속에 대해 서로 보완적인 증거를 제공하며, AI 음악 경제가 자리 잡아 가는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを指揮する\nK-POPクリエイター",
-          "body": "生成AI時代、K-POPクリエイターはAIを指揮し、代替不可能な仕事に集中する。",
-          "mini_headline": "AIを指揮するK-POP",
+          "headline": "AI-made曲を形づくった\n音楽の出どころを追う",
+          "body": "新論文は、入力ベースの帰属によりAI-made曲に影響した録音を検証できると示した。",
+          "mini_headline": "AI音楽の帰属を追う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "AI生成(AI-generated)の出力に誰の音楽が寄与したのかを、どう検証すればよいのか。本論文は、入力ベースの帰属(input-based attribution)によって、生成にどの音源が使われ、それが出力を形づくったかどうかについて検証可能な証拠を示せることを明らかにする。"
+              },
+              {
+                "t": "p",
+                "x": "生成器MixAudioは、テキスト入力を使わず音声のみを条件とする。ステムごとにプロンプト録音を一つ与え、任意で共有コンテキストを加える。プロンプト追従性のテストと、入力を制御して入れ替える実験では、各ステムが音色ではプロンプト音声に、和声ではコンテキスト音声に従った。"
+              },
+              {
+                "t": "p",
+                "x": "それでも出力が、入力として与えていない学習データを再現する可能性はある。そこで著者らは独自の楽曲バージョン識別モデルmusicDNAで記憶(memorization)を監査し、入力記録以外からの再現はほとんど見つからなかった。人間が判定したフラグ付き事例では、テストしたほかの記憶検出器を適合率と再現率の両方で上回った。"
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "本画像はAI技術を活用して制作された。写真=ISフォト"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "図3:記憶指標の検出性能。"
               },
               {
                 "t": "p",
-                "x": "イルガンスポーツの企画シリーズ［K-POPとAI革命］は、作曲・作業室、バーチャルアイドル・ファンダム、ミュージックビデオ制作現場というK-POPプロダクションの三つの軸を9回にわたって取り上げた。現場の実情は、技術への単純な恐怖や熱狂とはかけ離れていた。"
-              },
-              {
-                "t": "p",
-                "x": "韓国音楽著作権協会がAI音楽の登録ガイドラインを発表しながら22日で白紙に戻し、クレジットに載せられない「幽霊アシスタント」を置く状況でも、現場はすでにAIを全面的に受け入れていた。キャリア27年のキム・ウォンジョン・プロデューサーの作業室では、AIが草案から作詞・編曲・ミキシングまでソングライティングキャンプを代替し、制作費を1000分の1の水準にまで減らした。数億ウォン（수억 원）規模のミュージックビデオのセット・VFX費用は、AIと立体撮影の組み合わせで10分の1の水準に下がった。"
-              },
-              {
-                "t": "p",
-                "x": "クリエイターの役割も再定義されつつある。AIが大量のソースや試案を生み出す間、作曲家や演出家は全体のコンセプトを調整し技術を制御する指揮者へと進化している。ノ・ジフン監督は「ボタン一つ押せばたちまち完成するというのは誤解」だとし、望むカットをすくい上げるのは結局クリエイターの目と好みだと指摘した。ただ、新人が経験を積むためのはしごが揺らぐ副作用も生じている。"
-              },
-              {
-                "t": "p",
-                "x": "技術が高度になるほど、ファンが求めるのは人間ならではの経験と交感、つまり「ヒューマンタッチ」だった。業界の核心的な問いは「何をAIで代替するか」ではなく、「技術で代替されない要素をどう発掘し育てるか」にある。"
+                "x": "著者らは、入力記録と出力分析が帰属について相補的な証拠となり、AI音楽経済が形づくられていくなかで、権利者への報告や補償の根拠になり得ると主張する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "指挥AI的\nK-pop创作者",
-          "body": "生成式AI时代，K-pop创作者指挥AI，专注于无法被取代的工作。",
-          "mini_headline": "指挥AI的K-pop",
+          "headline": "追溯AI-made曲目\n背后的音乐来源",
+          "body": "新论文表明，基于输入的归因可为AI-made曲目受哪些录音影响提供可验证证据。",
+          "mini_headline": "AI音乐的归因追溯",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "如何验证谁的音乐促成了AI生成(AI-generated)的作品？本文展示了基于输入的归因(input-based attribution)如何提供可验证的证据，说明生成中使用了哪些音频来源，以及它们是否塑造了输出。"
+              },
+              {
+                "t": "p",
+                "x": "生成器MixAudio仅以音频为条件，不使用文本输入：每个分轨一段提示录音，外加一段可选的共享上下文。在提示遵循测试和受控的输入替换中，各分轨在音色上跟随提示音频，在和声上跟随上下文音频。"
+              },
+              {
+                "t": "p",
+                "x": "输出仍可能复现未作为输入提供的训练数据，因此作者用自家的音乐版本识别模型musicDNA审查记忆现象，发现输入记录之外的复现很少。在经人工判定的标记案例上，它在精确率和召回率上都优于其他受测的记忆检测器。"
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "本图片使用AI技术制作。照片=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "图3：记忆指标的检测性能。"
               },
               {
                 "t": "p",
-                "x": "日刊体育策划系列[K-pop与AI革命]分9期，聚焦K-pop制作的三大支柱：作曲与工作室、虚拟偶像与粉丝圈、音乐录影带制作现场。现场的实际情况，与对技术的单纯恐惧或欢呼相去甚远。"
-              },
-              {
-                "t": "p",
-                "x": "韩国音乐著作权协会发布AI音乐登记指南后仅22天便将其撤回，业内还存在无法列入署名的“幽灵助理”，即便如此，现场早已全面接纳AI。在从业27年的制作人Kim Won-jong的工作室里，AI从初稿到作词、编曲、混音，全面取代了词曲创作营，将制作成本降至1/1000的水平。动辄数亿韩元（수억 원）的音乐录影带布景与VFX费用，借助AI与立体拍摄的结合，降到了1/10的水平。"
-              },
-              {
-                "t": "p",
-                "x": "创作者的角色也在被重新定义。AI大量生成素材和方案的同时，作曲家和导演正演变为统筹整体概念、驾驭技术的指挥者。导演Noh Ji-hoon指出，“按一个按钮就能一下子完成，这是误解”，最终能挑出理想镜头的，还是创作者的眼光与品味。不过，新人积累经验的阶梯随之动摇，这一副作用也在显现。"
-              },
-              {
-                "t": "p",
-                "x": "技术越先进，粉丝寻找的越是人类独有的经验与共鸣，即“人情味”。产业的核心问题不是“用AI取代什么”，而是“如何发掘和培育技术无法取代的要素”。"
+                "x": "作者认为，输入记录与输出分析为归因提供了互补的证据，随着AI音乐经济逐步成形，权利人报告和补偿机制可以据此展开。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los creadores de K-pop\nque dirigen la AI",
-          "body": "En la era de la AI generativa, los creadores de K-pop dirigen la AI y se centran en lo que no se puede sustituir.",
-          "mini_headline": "El K-pop que dirige la AI",
+          "headline": "Rastrear la música detrás\nde una pista AI-made",
+          "body": "Según un estudio, la atribución por entradas da pruebas verificables de qué grabaciones moldearon una pista AI-made.",
+          "mini_headline": "Atribución para\nla música con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "¿Cómo podemos verificar de quién es la música que contribuyó a un resultado AI-generated? Este artículo muestra cómo la atribución basada en las entradas puede aportar pruebas verificables de qué fuentes de audio se usaron en una generación y de si moldearon el resultado."
+              },
+              {
+                "t": "p",
+                "x": "El generador, MixAudio, está condicionado únicamente por audio, sin entrada de texto: una grabación de prompt por stem más un contexto compartido opcional. En pruebas de adherencia al prompt y en intercambios controlados de entradas, sus stems siguen al audio del prompt en el timbre y al audio de contexto en la armonía."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados aún pueden reproducir datos de entrenamiento no suministrados como entradas, por lo que los autores auditan la memorización con su modelo de identificación de versiones musicales, musicDNA, y encuentran pocas reproducciones fuera de los registros de entrada. En los casos señalados y evaluados por personas, supera a los demás detectores de memorización probados en precisión y exhaustividad."
+              },
+              {
                 "t": "img",
-                "src": "https://isp.edailystatic.com/data/isp/image/2026/09/28/isp20260928000103.944x.8.png",
-                "cap": "Esta imagen se creó con tecnología AI. Foto=IS Photo"
+                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+                "cap": "Figura 3: Rendimiento de detección de las métricas de memorización."
               },
               {
                 "t": "p",
-                "x": "La serie especial de Ilgan Sports [K-pop y la revolución AI] examinó en 9 entregas tres pilares de la producción del K-pop: la composición y el estudio, los ídolos virtuales y el fandom, y el rodaje de videoclips. La realidad sobre el terreno distaba mucho del simple miedo o entusiasmo ante la tecnología."
-              },
-              {
-                "t": "p",
-                "x": "Aunque la Asociación de Derechos de Autor Musicales de Corea publicó unas directrices de registro de música AI y las anuló 22 días después, y aunque se recurre a 'asistentes fantasma' que no pueden figurar en los créditos, el sector ya había adoptado la AI por completo. En el estudio de Kim Won-jong, productor con 27 años de trayectoria, la AI sustituyó al campamento de composición, desde el primer borrador hasta la letra, los arreglos y la mezcla, y redujo los costes de producción a 1/1000. Los costes de decorados y VFX de videoclips, que alcanzaban cientos de millones de wones (수억 원), bajaron a 1/10 al combinar la AI con la filmación estereoscópica."
-              },
-              {
-                "t": "p",
-                "x": "El papel del creador también se está redefiniendo. Mientras la AI genera grandes cantidades de material y bocetos, compositores y directores evolucionan hacia directores de orquesta que coordinan el concepto general y controlan la tecnología. El director Noh Ji-hoon señaló que “es un error pensar que todo sale listo con pulsar un botón” y que rescatar la toma deseada depende, al final, del criterio y el gusto del creador. Con todo, surge un efecto secundario: se tambalea la escalera con la que los nuevos talentos acumulan experiencia."
-              },
-              {
-                "t": "p",
-                "x": "Cuanto más avanza la tecnología, más buscan los fans la experiencia y la conexión propias del ser humano, el 'toque humano'. La pregunta clave del sector no es 'qué sustituir con AI', sino 'cómo descubrir y cultivar lo que la tecnología no puede sustituir'."
+                "x": "Según los autores, los registros de entrada y el análisis de la salida ofrecen pruebas complementarias para la atribución de una pista AI-made, en las que pueden apoyarse los informes y la compensación a los titulares de derechos a medida que toma forma la economía de la música con AI."
               }
             ]
           }

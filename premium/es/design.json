@@ -7049,6 +7049,147 @@
           "x": "GPT-6 con Intelligent UI llega desde hoy a los usuarios de Plus, Pro, Business y Enterprise en todo el mundo, y se amplía a Go y a los planes gratuitos el jueves. Los planes superiores obtienen el modelo intermedio GPT-6 Sol; los usuarios de Go y gratuitos, el más eficiente GPT-6 Luna."
         }
       ]
+    },
+    "design/aws-physical-ai-toolchain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon Web Services presentó una cadena de herramientas de código abierto que combina la infraestructura de AWS con software de robótica de NVIDIA para apoyar el desarrollo, el entrenamiento, la simulación y el despliegue de sistemas de IA física (physical AI). Ofrece arquitecturas de referencia, recursos de infrastructure-as-code y automatización del despliegue, desde la recopilación de datos del robot hasta la implementación en hardware físico."
+        },
+        {
+          "t": "p",
+          "x": "“Creamos la Physical AI Toolchain en AWS porque los clientes nos dijeron que demasiado de su esfuerzo de ingeniería se iba en infraestructura en lugar de innovación”, dijo Uwem Ukpong, vicepresidente de AWS Industries."
+        },
+        {
+          "t": "p",
+          "x": "Entre sus componentes están NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T y Cosmos, orquestados con NVIDIA OSMO y ejecutados en Amazon SageMaker, instancias EC2 GPU, S3 y AWS IoT Greengrass. Es compatible con PyTorch, Hugging Face, ROS 2, LeRobot, URDF y ONNX; un ejemplo usa Isaac GR00T y 27 episodios de datos de teleoperación pick-and-place de un UR3."
+        },
+        {
+          "t": "p",
+          "x": "NEURA Robotics, RLWRLD y Config figuran como empresas que trabajan en IA física. Amazon afirma que la cadena de herramientas debería ayudar a los fabricantes a lanzar capacidades de IA física en semanas en lugar de años; es su expectativa declarada, no un resultado verificado de forma independiente."
+        }
+      ]
+    },
+    "design/instinct-agent-handson": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
+          "cap": "El agente de Instinct siempre está a un mensaje de distancia."
+        },
+        {
+          "t": "p",
+          "x": "En agosto, Instinct lanzó su agente de IA solo por invitación y sin marketing, y pronto se convirtió en lo más comentado del sector de la IA. Después llegaron Muse, de Meta, y Dots, de OpenAI. En las pruebas de The Verge, Instinct ha estado a la altura, y su fundador, Noah Shinn, no se inmuta: “Los asistentes de IA son todo lo que conocemos”. La empresa fue valorada en $10 billion (10.000 millones de dólares) a finales de septiembre."
+        },
+        {
+          "t": "p",
+          "x": "A diferencia de la mascota de oso de Muse y las manchas de Dots, Instinct funciona por completo a través de iMessage, WhatsApp o correo electrónico: sin app, sin un personajito simpático, solo respuestas breves y mucha acción, con conexión a Google Workspace, Slack y Notion."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Encontró clases de natación, pero pasó por alto una clase previa obligatoria; envió un correo a un oftalmólogo, inició una devolución en Ikea a partir de una descripción vaga y advirtió por iniciativa propia de un conflicto en el calendario."
+        },
+        {
+          "t": "p",
+          "x": "Por ahora es gratuito para los usuarios con invitación. Los analistas esperan que agentes tan centrados en el comercio se apoyen en la publicidad: “En el mercado de consumo, todos los caminos acaban llevando a la publicidad”."
+        }
+      ]
+    },
+    "design/nvidia-simready-assets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "Preparar activos CAD para simulación robótica exige más que convertir la geometría a OpenUSD: hay que configurar y validar materiales, geometría de colisión, articulaciones y física. NVIDIA explica cómo preparar un robot ABB YuMi con SimReady Foundation y herramientas de Omniverse, y usa GPT-6 Astra en Codex CLI como ejemplo de modelo de IA de frontera que invoca las herramientas mediante skills agénticas de NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "1. Importar el robot desde archivos STEP a OpenUSD e Isaac Sim 6.1. 2. Ajustar la apariencia visual a imágenes y videos de ABB."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+        },
+        {
+          "t": "p",
+          "x": "3. Configurar articulaciones, cuerpos rígidos y geometría de colisión a partir de la hoja de datos; el agente incluso recurrió a un URDF público para encontrar los ejes de las articulaciones. 4. Validar frente a los requisitos de SimReady, comprobaciones que confirman la simulación, no la dinámica del mundo real (real-world)."
+        },
+        {
+          "t": "p",
+          "x": "5. Ejecutar tareas pick-and-place en Isaac Sim con cubos y un marcador Sharpie generados a partir de una imagen de referencia."
+        },
+        {
+          "t": "img",
+          "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+        },
+        {
+          "t": "p",
+          "x": "Los resultados pueden variar según el modelo, el nivel de razonamiento y los prompts utilizados."
+        }
+      ]
+    },
+    "design/geometry-ui-diffing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+        },
+        {
+          "t": "p",
+          "x": "Si se apunta un agente de código a un frame de Figma y se le pide “haz que coincida”, a menudo da vueltas: cuando le dicen “sigue mal”, ajusta sin fin. El agente no está roto; lo está la comparación. Los diffs de capturas marcan como errores el anti-aliasing, el hinting de fuentes y el redondeo sub-pixel, así que la puntuación oscila y nunca converge."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores no comparan píxeles; revisan propiedades con nombre. Por eso designfit, un servidor MCP open-source y skill de Claude Code, compara tokens de diseño (colores mediante CIEDE2000, tamaños de fuente, radios) y la geometría relativa a la raíz de la pantalla, además de la presencia de elementos, cada uno con tolerancias explícitas: determinista en cada ejecución."
+        },
+        {
+          "t": "p",
+          "x": "designfit_extract lee la especificación desde la REST API de Figma; designfit_validate devuelve aprobado, puntuación y una fix-list. En un dashboard de 360-node, puntuó tres iteraciones de 87 a 100 y expuso etiquetas en nodos equivocados."
+        },
+        {
+          "t": "p",
+          "x": "La versión 0.2 revisa un solo viewport; los tokens de espaciado y las comprobaciones multi-breakpoint están en la hoja de ruta. Es gratuito y MIT-licensed (con licencia MIT)."
+        }
+      ]
+    },
+    "design/design-archicad-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/AI_Assistant-1024x532.png"
+        },
+        {
+          "t": "p",
+          "x": "Graphisoft presentó su cartera de productos 2026, encabezada por Archicad y por nuevas capacidades de inteligencia artificial para equipos de arquitectura, ingeniería y construcción. Basada en su Design Intelligence Strategy, incluye actualizaciones de los productos principales, la conectividad prevista con Model Context Protocol (MCP) y una actualización de AI Assistant."
+        },
+        {
+          "t": "p",
+          "x": "La última versión de Archicad añade Dark Mode para Windows, mejor visibilidad de los muros de varias plantas, más controles de documentación, una gestión renovada de Project Info, organización personalizable de Navigator y más opciones de etiquetas de dibujo. MEP Designer y DDScad mejoran en consultas BIM, visualización, flujos de trabajo e integración de AI, y MEP Designer llega a más de 40 mercados adicionales."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engineering.com/wp-content/uploads/2026/10/Nemetschek_Creator-Units-1024x570.png"
+        },
+        {
+          "t": "p",
+          "x": "Durante octubre, los usuarios de Archicad obtienen acceso anticipado a Nemetschek Creator, una plataforma nativa en la nube para diseño en fase inicial, sostenibilidad y análisis de viabilidad, y a Open Collaboration Platform, además de visualización en tiempo real con Maxon Redshift. AI Visualizer añadirá capacidades de generación de imágenes y modelos de imagen de AI como Nano Banana Pro, y AI Assistant Spaces permitirá a los arquitectos crear una base de conocimiento con sus propios documentos."
+        },
+        {
+          "t": "p",
+          "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
+        }
+      ]
     }
   }
 }
