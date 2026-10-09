@@ -384,6 +384,151 @@
           "x": "Los datos los aporta el proveedor, abarcan un solo mes y una sola plataforma publicitaria, y no han sido auditados. Las cifras llegan cuando Meta, Amazon y X abren sus propios sistemas publicitarios a los agentes."
         }
       ]
+    },
+    "marketing/chatgpt-virtual-try-on-selfie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI ha lanzado una función de probador virtual (virtual try-on) para los usuarios de ChatGPT. Al explorar ropa y accesorios en ChatGPT, pueden pulsar el botón “try on”, tomar o subir una imagen de sí mismos y generar imágenes en las que aparecen con esos productos."
+        },
+        {
+          "t": "p",
+          "x": "Los compradores pueden guardar productos en Favorites o crear una carpeta en su ChatGPT Library. Las funciones están disponibles en el sitio web y la app móvil de ChatGPT."
+        },
+        {
+          "t": "p",
+          "x": "A medida que OpenAI añade funciones de compra, más minoristas experimentan con la plataforma: David's Bridal abrió tienda en los Agentic Storefronts de Shopify para ChatGPT en abril, y Etsy estrenó su app de ChatGPT en mayo."
+        },
+        {
+          "t": "p",
+          "x": "Con el probador, OpenAI alcanza a Google, que lanzó el probador virtual para blusas de mujer en 2023 y luego lo amplió a vestidos y zapatos. Una encuesta de Perfect Corp. de 2024 halló que las marcas que usan probadores virtuales vieron más que duplicarse sus tasas de conversión de ventas."
+        }
+      ]
+    },
+    "marketing/google-ads-ai-max-text-asset-previews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads ahora permite previsualizar los recursos generados por Google AI para las campañas de Google Ads AI Max, en una nueva sección, “Text customization asset previews” (vistas previas de recursos de personalización de texto), de la página de ayuda de las campañas de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "“Usa las vistas previas de recursos para ver ejemplos de recursos de texto generados por Google AI para tu campaña… y comprobar si los recursos de texto generados se ajustan a las directrices de marca y de texto que has definido antes de activar la personalización de texto o lanzar una nueva campaña.”"
+        },
+        {
+          "t": "p",
+          "x": "Los ejemplos de recursos se generan en su mayoría en menos de 30 segundos y están disponibles en todos los idiomas compatibles con la personalización de texto, entre ellos inglés, español, portugués, italiano, francés, alemán, japonés y neerlandés."
+        },
+        {
+          "t": "p",
+          "x": "Al indicar la URL de la página de destino final, Google AI genera automáticamente hasta 10 ejemplos de títulos y descripciones. No es necesario activar la personalización de texto para verlos."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+          "cap": "La nueva sección de la página de ayuda"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pinterest ha presentado Beauty Guides (guías de belleza), una nueva función basada en inteligencia artificial (AI). Convierte los pines de peinados y uñas en guías prácticas personalizadas para ayudar a recrear de verdad los estilos descubiertos en Pinterest."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La tecnología de reconocimiento visual de Pinterest analiza el peinado, el color, la forma de las uñas, el acabado y otros detalles del pin, y un modelo de lenguaje de gran tamaño (LLM) los organiza en qué pedir en el salón, el proceso, estilos similares, productos relacionados e instrucciones paso a paso. Basta con abrir en grande un pin de pelo o uñas y pulsar «Obtener la guía» (Get the Guide)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Matt Madrigal, director de producto y tecnología (CPTO), afirmó: \"La gente llega a Pinterest con un punto de vista claro, aunque no sepa describir con palabras el estilo que quiere\". La función es un ejemplo de 'Pinterest Intelligence', que combina datos propios, reconocimiento visual y modelos de AI creados para fines específicos."
+        },
+        {
+          "t": "p",
+          "x": "Más del 85% de los usuarios de Pinterest afirmó descubrir las nuevas tendencias de belleza en Pinterest antes que en cualquier otro lugar. Beauty Guides llegará primero a los usuarios de iOS en Estados Unidos y se ampliará a más regiones y categorías de producto."
+        }
+      ]
+    },
+    "marketing/ehealth-regal-alice-voice-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los clientes de eHealth llama durante el periodo de inscripción abierta de Medicare, de unos 54 días, en torno a medio millón de llamadas, y entre el 70% y el 80% compra por teléfono, lo que hacía que algunos esperaran seis horas a un agente con licencia."
+        },
+        {
+          "t": "p",
+          "x": "La agencia de seguros de salud usa ahora Alice, el agente de voz basado en LLM (LLM-based) de Regal, para filtrar previamente las llamadas. Según datos que Regal facilitó a CX Dive, Alice responde de inmediato a todas las llamadas, obtiene un 77% de valoraciones de satisfacción \"exceptional\" (excepcional) y logra una tasa de compra un 27% superior a la que eHealth tenía con filtradores humanos de un centro de llamadas externo."
+        },
+        {
+          "t": "p",
+          "x": "El despliegue comenzó en febrero de 2025 como piloto fuera del horario laboral. Como la normativa exige una declaración de privacidad sin interrupciones, Regal creó un \"static node\" (nodo estático) que el agente lee sin ser interrumpido antes de devolver a los usuarios a un agente humano."
+        },
+        {
+          "t": "p",
+          "x": "El área de cumplimiento normativo fue una parte interesada clave desde el principio. \"Para cualquier empresa regulada, no es una solución plug-and-play\", dijo Atul Kumar, VP de producto e IA (AI) de eHealth."
+        }
+      ]
+    },
+    "marketing/marketing-meta-adweek-ai-tools": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta anunció una serie de novedades publicitarias en su presentación de Advertising Week en New York, entre ellas un asistente empresarial mejorado, la ampliación de sus herramientas creativas para marcas y nuevas experiencias de compra."
+        },
+        {
+          "t": "p",
+          "x": "Meta refuerza su asistente empresarial AI-powered, que ofrece orientación conversacional sobre los elementos clave de la creación de anuncios, con nuevos insights creativos y más memoria y contexto: “el contexto de lo que probaste el trimestre pasado, tu estacionalidad y los objetivos que has descrito”, dijo Meta."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta también prueba herramientas de importación que permiten a las marcas subir su estrategia y sus pautas de voz de marca, añade capacidad agéntica para que el asistente genere creatividades, actualice la segmentación y cambie el presupuesto de un anuncio mediante instrucciones conversacionales, y prueba tareas programadas como informes de rendimiento y alertas periódicas."
+        },
+        {
+          "t": "p",
+          "x": "Ads Creative Studio se amplía a más anunciantes, el servidor Meta Ads MCP admite ahora más casos de uso para herramientas de AI third-party y Customer Lifecycle Strategy está disponible para todos los anunciantes."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "En Advantage+ creative, la generación de video a partir de recursos estáticos existentes ya está disponible para todos; Ads Creative Studio suma herramientas para cambiar ganchos, ajustar el audio y la duración de los clips, añadir textos superpuestos y subtítulos o cambiar las escenas finales."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
+        }
+      ]
     }
   }
 }

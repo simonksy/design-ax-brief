@@ -384,6 +384,151 @@
           "x": "업체가 직접 내놓은 데이터이고, 한 달·한 광고 플랫폼만 다루며 감사도 거치지 않았다. Meta, Amazon, X가 자사 광고 시스템을 에이전트에 열어 주는 와중에 나온 수치다."
         }
       ]
+    },
+    "marketing/chatgpt-virtual-try-on-selfie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT에 가상 피팅(virtual try-on) 기능을 내놨다. ChatGPT에서 옷과 액세서리를 보다가 “try on” 버튼을 누르고 사진을 찍거나 올리면 그 제품을 착용한 자기 모습이 이미지로 만들어진다."
+        },
+        {
+          "t": "p",
+          "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들어 정리할 수 있다. ChatGPT 웹사이트와 모바일 앱에서 모두 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 쇼핑 기능을 늘리자 이 플랫폼을 시험해 보는 소매업체도 많아졌다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고 Etsy는 5월에 ChatGPT 앱을 내놨다."
+        },
+        {
+          "t": "p",
+          "x": "가상 피팅에서 OpenAI는 Google을 뒤쫓는 처지다. Google은 2023년 여성 상의로 가상 피팅을 시작해 드레스와 신발까지 범위를 넓혔다. Perfect Corp.의 2024년 조사를 보면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 뛰었다."
+        }
+      ]
+    },
+    "marketing/google-ads-ai-max-text-asset-previews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "이제 Google Ads에서 Google AI가 Google Ads AI Max 캠페인용으로 만든 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션이 새로 생겼다."
+        },
+        {
+          "t": "p",
+          "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+        },
+        {
+          "t": "p",
+          "x": "애셋 예시는 대부분 30초 안에 나온다. 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 언어라면 모두 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "최종 방문 페이지 URL을 넣으면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 알아서 만든다. 텍스트 맞춤설정을 켜지 않아도 볼 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+          "cap": "새로 생긴 도움말 페이지 섹션"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "핀터레스트가 AI 기반 신규 기능 '뷰티 가이드(Beauty Guides)'를 선보였다. 헤어·네일 핀을 개인화된 실행 가이드로 바꿔, 핀터레스트에서 발견한 스타일을 실제로 따라 할 수 있게 돕는다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+        },
+        {
+          "t": "p",
+          "x": "핀터레스트의 시각 인식 기술이 핀 속 헤어스타일·컬러·네일 모양·마감 등을 분석하고, 대규모 언어모델(LLM)이 이를 살롱에서 요청할 내용, 시술 과정, 비슷한 스타일, 관련 상품, 단계별 안내로 정리한다. 헤어·네일 핀을 크게 열고 '가이드 받기(Get the Guide)'를 누르면 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+        },
+        {
+          "t": "p",
+          "x": "매트 마드리갈 최고제품기술책임자(CPTO)는 \"사람들은 원하는 스타일을 말로 설명하지 못해도 분명한 관점을 갖고 핀터레스트에 온다\"고 말했다. 이번 기능은 1차 데이터, 시각 인식, 목적형 AI 모델을 결합한 '핀터레스트 인텔리전스'의 한 사례다."
+        },
+        {
+          "t": "p",
+          "x": "핀터레스트 이용자의 85% 이상이 새로운 뷰티 트렌드를 다른 곳보다 핀터레스트에서 먼저 발견한다고 답했다. 뷰티 가이드는 미국 iOS 이용자에게 먼저 제공되며, 지역과 상품 카테고리를 넓혀갈 계획이다."
+        }
+      ]
+    },
+    "marketing/ehealth-regal-alice-voice-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "eHealth 고객은 대부분 약 54일 동안 이어지는 Medicare 공개 가입 기간에 전화를 건다. 통화가 약 오십만 건에 이르고 70%에서 80%가 전화로 구매하다 보니, 자격을 갖춘 상담원을 여섯 시간이나 기다린 고객도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice에게 전화 문의 사전 선별을 맡긴다. Regal이 CX Dive에 제공한 데이터를 보면 Alice는 모든 전화를 바로 받는다. 만족도 평가에서는 77%가 \"exceptional\"(매우 우수)을 줬고, 구매율도 eHealth가 외주 콜센터의 사람 선별 인력을 쓸 때보다 27% 높다."
+        },
+        {
+          "t": "p",
+          "x": "첫 도입은 2025년 2월, 업무 시간 외 시범 운영이었다. 개인정보 고지는 규정상 중단 없이 전달해야 한다. 그래서 Regal은 에이전트가 고지를 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자로 참여했다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-meta-adweek-ai-tools": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 크리에이티브 인사이트를 새로 넣고, 기억하는 맥락도 늘린다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험 중이다. 에이전트 기능을 더해 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅과 광고 예산을 바꾸게 한다. 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
+        },
+        {
+          "t": "p",
+          "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
+        }
+      ]
     }
   }
 }

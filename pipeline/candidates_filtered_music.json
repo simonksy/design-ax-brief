@@ -1,197 +1,221 @@
 {
   "section": "music",
-  "generated_at": "2026-10-08T22:00:45Z",
-  "now_iso": "2026-10-08T22:00:45Z",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T22:05:00Z",
+  "now_iso": "2026-10-09T22:05:00Z",
   "window_hours": 336,
   "items": [
     {
-      "url": "https://www.hypebot.com/who-actually-made-this-the-question-ai-is-forcing-music-to-ask/",
-      "title": "Who Actually Made This? The Question AI Is Forcing Music to Ask.",
-      "source": "Hypebot",
+      "url": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
+      "title": "Google Wants You To Vibe Code Audio Plugins",
+      "source": "Synthtopia",
+      "published_iso": "2026-10-07T22:05:12+00:00",
+      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/10/vibe-coding-audio-applications.jpg",
+      "excerpt": "Google Flow Music now lets producers export custom 'Spaces' - instruments and effects built from natural-language prompts - as VST3/AU plugins that run inside their DAWs, no coding required.",
+      "angle": "producer tool / vibe-coded plugins",
       "category": "music",
-      "published_iso": "2026-10-07T15:16:23Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/10-7-rapfame-oped.jpg",
-      "excerpt": "Op-ed arguing AI can support music creation, but transparency about the degree of human involvement is essential to preserving the artist-fan connection."
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.249,
+        "date": "2026-09-24",
+        "url": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
+        "title": "Free Tool, Amorph, Builds Custom Plugin Instruments & Effects Based On Your Description",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
+      "title": "Super Intelligence round-up: Sonilo, Laylo, Base for Music and more",
+      "source": "Music Ally",
+      "published_iso": "2026-10-09T13:11:03+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png",
+      "excerpt": "Music Ally's weekly AI round-up: Sonilo launches a multimodal AI system that reads a video's pacing, emotion and storyline to generate time-aligned music, plus AI updates from Laylo and others.",
+      "angle": "AI soundtrack generation (Sonilo); note Base for Music already covered 10/09 - lead with Sonilo",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
+      "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
+      "source": "Pitchfork",
+      "published_iso": "2026-10-09T04:08:07.386Z",
+      "og_image": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg",
+      "excerpt": "Grimes released 'Accelerando', the first single from Psy Opera, her first album in six years; the AI-themed trailer retells Genesis as 'God created the large language model', and the record tackles the AI debate.",
+      "angle": "AI artists / culture (alt: Rolling Stone version)",
+      "category": "music",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-06",
+        "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
+        "title": "Suno now lets creators publish full albums",
+        "band": "related"
+      }
     },
     {
       "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-ai-stance-tech-investor-dating-rumors-1236356013/",
       "title": "Olivia Rodrigo Clarifies AI Stance Following 'Invasive' Tech Investor Dating Rumors: 'Absolutely No'",
       "source": "Billboard",
-      "category": "music",
       "published_iso": "2026-10-07T16:30:57+00:00",
       "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/P104S4UN-e1781880973570.jpg?w=1024",
-      "excerpt": "Olivia Rodrigo clarified she does not use AI in her music and addressed rumors linking her to an AI tech investor."
-    },
-    {
-      "url": "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/",
-      "title": "RIAA CEO Talks Midterms, AI Deepfakes and Trump: 'Music Is a Very Bipartisan Issue'",
-      "source": "Billboard",
+      "excerpt": "In a Hollywood Reporter cover story, Olivia Rodrigo said she 'would never use AI in any of my music' - 'Absolutely no. Hard line on that' - after rumors tied her to an AI tech investor.",
+      "angle": "artist stance on AI",
       "category": "music",
-      "published_iso": "2026-10-07T19:05:58+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/Mitch-Glazier-2024-billboard-1800.jpg?w=1024",
-      "excerpt": "On Billboard's On the Record, RIAA CEO Mitch Glazier compares Napster with AI and explains why he is confident the NO FAKES Act on voice/likeness deepfakes will pass."
+      "source_lang": "en"
     },
     {
-      "url": "https://www.billboard.com/pro/suno-hires-ticketmaster-exec-michael-chua-live-experiences/",
-      "title": "Suno Hires Ticketmaster Executive to Lead New Live Experiences Division",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-08T13:00:00+00:00",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/michael-chua-2026-press-suno-cr-suno-1800.jpg?w=1024",
-      "excerpt": "Suno launches a Live Experiences division (including Songkick) led by ex-Ticketmaster EVP Michael Chua, with an initial focus on integrating Songkick into the AI music platform. Note: framed as exec hire; product angle is Suno moving into live."
-    },
-    {
-      "url": "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/",
-      "title": "Fender revamps its website with AI tool and more artist content",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-10-06T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Fender relaunches its website with a new AI-powered tool for players alongside expanded artist content, extending its push beyond instruments into apps and education."
-    },
-    {
-      "url": "https://musically.com/2026/10/08/google-launches-ai-powered-experimental-gaming-platform-playground/",
-      "title": "Google launches AI-powered 'experimental gaming' platform Playground",
-      "source": "Music Ally",
-      "category": "music",
-      "published_iso": "2026-10-08T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-08T112502.343.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "Google's new AI game-creation platform Playground folds in its generative models, including its flagship AI music model; Music Ally frames it alongside the music industry's own AI debate. Music angle is secondary."
-    },
-    {
-      "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
-      "title": "Google picks Base for Music for its Gemini Startup Forum, as French company says it uses AI to predict music marketing ROI",
-      "source": "Music Business Worldwide",
-      "category": "music",
-      "published_iso": "2026-10-06T18:13:58+00:00",
-      "og_image": "https://www.musicbusinessworldwide.com/files/2026/10/Screenshot-2026-10-06-at-10.44.31.jpg",
-      "excerpt": "French startup Base for Music, which uses AI to predict the ROI of music marketing campaigns, was selected for Google's Gemini Startup Forum from 2,000+ applicants."
-    },
-    {
-      "url": "https://mixmag.net/read/fred-again-ai-generated-music-not-worried-about-threat-ai-news",
-      "title": "Fred again.. on AI-generated music: 'I'm not worried about the threat of AI'",
+      "url": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
+      "title": "US musician given 18-month prison sentence for $8 million AI streaming fraud",
       "source": "Mixmag",
+      "published_iso": "2026-10-07T00:00:00+00:00",
+      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dERx3jdcqlZNKtAkdbiTr2VqAe0ZxWiYBWQ678G9frQ",
+      "excerpt": "Michael Smith was sentenced to 18 months and ordered to forfeit $8.09M for using bot accounts to generate billions of fake streams of AI-generated songs on Spotify, Apple Music, Amazon and YouTube Music - the first federal music streaming-fraud case.",
+      "angle": "AI music fraud ruling (same event as RS item - pick one)",
       "category": "music",
-      "published_iso": "2026-09-28T12:00:00+00:00",
-      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/fred-again-press-shot.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=fJinztQSYad2TLlF_N8F6KtaYP7SHV51GwBPwbP62WQ",
-      "excerpt": "Fred again.. says he has felt 'no pull whatsoever' to use AI in his production process and is not worried about AI-generated music as a threat. (Date from body text: 28 September 2026; time unknown, set to noon UTC.)",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.354,
-        "date": "2026-09-27",
-        "url": "https://djmag.com/news/fred-again-speaks-out-against-ai-music-process-magic",
-        "title": "Fred again.. speaks out against AI music: 'the process is the magic'",
+        "score": 0.238,
+        "date": "2026-10-05",
+        "url": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
+        "title": "Feds Want Nearly 4 Years in Prison for AI Music Fraudster Who 'Stole Millions'",
         "band": "related"
       }
     },
     {
-      "url": "https://isplus.com/article/view/isp202610070043",
-      "title": "'스님부터 80대 창작자까지'... 노이즈 홍종구, AI 음악 최초 플랫폼 '아뮤차트'로 판 깔았다 [IS인터뷰]",
+      "url": "https://www.rollingstone.com/music/music-news/trump-ai-rebrand-music-streaming-fraud-case-1235638897/",
+      "title": "The First Music Streaming Fraud Case Gets Caught Up in Trump's Dumb AI Rebrand",
+      "source": "Rolling Stone",
+      "published_iso": "2026-10-07T18:00:42+00:00",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/GettyImages-2297724020.jpg?w=1600&h=900&crop=1",
+      "excerpt": "Trump's executive order replacing 'artificial intelligence' with 'super intelligence' across federal agencies surfaced in the DOJ's handling of Michael Smith's AI-song streaming-fraud sentencing, the first case of its kind.",
+      "angle": "AI music fraud - alt angle; dup of Mixmag event",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
+      "title": "Denmark's new digital replica law should go into effect in early 2027, says Danish culture minister",
+      "source": "CMU",
+      "published_iso": "2026-10-09T13:59:29+00:00",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png",
+      "excerpt": "Danish culture minister Zenia Stampe presented revised proposals to parliament for new rights letting performers, and people generally, block unapproved AI digital replicas of their voice or likeness, with the law expected to take effect in early 2027.",
+      "angle": "voice/likeness rights, deepfake law",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.09637",
+      "title": "Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation",
+      "source": "arXiv",
+      "published_iso": "2026-10-07T08:14:19+00:00",
+      "og_image": null,
+      "excerpt": "How can we verify whose music contributed to an AI-generated output? The paper shows input-based attribution can give verifiable evidence of which audio sources were used in a generation and whether they shaped the output.",
+      "angle": "research: attribution for licensing/royalties",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.09075",
+      "title": "Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem",
+      "source": "arXiv",
+      "published_iso": "2026-10-06T20:18:23+00:00",
+      "og_image": null,
+      "excerpt": "Researchers frame plagiarism by text-to-music models as a version-identification task, treating it as an ambiguous threshold rather than a binary, to detect when AI outputs copy existing songs.",
+      "angle": "research: AI plagiarism detection",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.07486",
+      "title": "Adapting a Latent Audio Diffusion Model to Historical Guqin Recordings: A Listening-Driven Case Study",
+      "source": "arXiv",
+      "published_iso": "2026-10-05T22:49:40+00:00",
+      "og_image": null,
+      "excerpt": "A small-data case study fine-tuning a pretrained latent audio diffusion model on historical guqin recordings to build an endless 'AI radio' of guqin-style music, evaluated by listening.",
+      "angle": "research: fine-tuning music model on heritage instrument",
+      "category": "music",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://isplus.com/article/view/isp202609300213",
+      "title": "[박태용의 뮤직인사이트]⑦ AI는 음악산업의 미래를 어떻게 바꿀 것인가?",
       "source": "일간스포츠",
-      "category": "music",
-      "published_iso": "2026-10-08T06:00:07+09:00",
-      "og_image": "https://isplus.com/data/isp/image/2024/08/19/isp20240819000143.800x.0.jpg",
-      "excerpt": "Former NOISE member Hong Jong-gu launches 'Amuchart', billed as the first platform dedicated to AI music, and plans to have well-received AI songs re-recorded by real singers as a management business."
+      "published_iso": "2026-10-02T05:40:04+09:00",
+      "og_image": "https://isplus.com/data/isp/image/2026/09/30/isp20260930000279.800x.0.jpg",
+      "excerpt": "음악산업 칼럼 시리즈 마지막 회: 실시간으로 반응하는 가상 아이돌 무대 등 AI가 공연·제작·유통 전반을 어떻게 바꿀지 전망한다.",
+      "angle": "K-pop/Korean industry column (AI future of music industry)",
+      "source_lang": "ko",
+      "category": "music"
     },
     {
-      "url": "https://isplus.com/article/view/isp202609280072",
-      "title": "[K팝과 AI 혁명] '지휘자'가 된 창작자들, 대체할 수 없는 것들을 향하여",
+      "url": "https://isplus.com/article/view/isp202609270061",
+      "title": "[김지욱 저작권썰.zip](61) '백 투 더 뮤직, AI의 화려함 속 구별돼야 할 창작과 발견'",
       "source": "일간스포츠",
-      "category": "music",
-      "published_iso": "2026-09-29T13:42:48+09:00",
-      "og_image": "https://isplus.com/data/isp/image/2026/09/28/isp20260928000103.800x.0.png",
-      "excerpt": "Closing installment of Ilgan Sports' K-pop and AI series: as generative AI shakes up K-pop production, creators are becoming 'conductors' directing AI while focusing on what cannot be replaced."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/10/06/mastering-the-mix-carbon-q/",
-      "title": "Mastering The Mix releases CARBON Q connected EQ for $56",
-      "source": "Bedroom Producers Blog",
-      "category": "music",
-      "published_iso": "2026-10-06T12:00:00+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/10/carbonq.jpg",
-      "excerpt": "CARBON Q is an 11-band connected EQ that locally separates a reference track into vocals, music, drums and bass, then turns their tonal/level relationships into a session-wide preset. Note: article does not say 'AI'; relevance is the stem-separation-driven mix workflow. Date only (no time).",
-      "history_match": {
-        "score": 0.205,
-        "date": "2026-09-19",
-        "url": "https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/",
-        "title": "BandLab’s mastering capabilities just got an upgrade – here’s what’s new",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.soundonsound.com/news/motu-digital-performer-12-now-available",
-      "title": "MOTU Digital Performer 12 now available",
-      "source": "Sound On Sound",
-      "category": "music",
-      "published_iso": "2026-10-02T13:00:00+01:00",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/m/motu_dp_12-FbIrGN.bMXknILg.efvumHCEwJuiBDB5.jpg",
-      "excerpt": "Digital Performer 12 adds AI-powered stem separation (drums, bass, vocals, guitar plus ensemble strings and brass) and Dolby Atmos support to MOTU's DAW.",
-      "history_match": {
-        "score": 0.455,
-        "date": "2026-09-17",
-        "url": "https://cdm.link/motu-dp12-arrives-adding-dolby-atmos-and-more-to-a-daw-classic/",
-        "title": "돌비 애트모스를 품은 디지털 퍼포머 12 모투 디지털 퍼포머 12가 돌비 애트모스를 깊게 받아들이고 AI 스템 분리까지 실었다.",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "url": "https://cdm.link/watch-what-herbie-hancock-had-to-say-about-technology-in-1984/",
-      "title": "Watch what Herbie Hancock had to say about technology in 1984",
-      "source": "CDM Create Digital Music",
-      "category": "music",
-      "published_iso": "2026-10-06T07:48:15+00:00",
-      "og_image": "https://cdm.link/app/uploads/2026/10/herbie-and-quincy.jpg",
-      "excerpt": "CDM revisits a 1984 film of Herbie Hancock jamming with Quincy Jones on the Fairlight, reading his approach to machines as a lesson for the AI era: what makes you smarter is not AI or a new plug-in."
+      "published_iso": "2026-09-28T05:40:04+09:00",
+      "og_image": "https://isplus.com/data/isp/image/2026/09/27/isp20260927000118.800x.0.jpg",
+      "excerpt": "AI 음악 논의가 법리 구상을 넘어 산업 규칙 단계로: 9월 22일 국회 'AI 활용 음악' 관련 논의를 계기로 창작과 발견의 구별, 저작권 기준을 짚는다.",
+      "angle": "Korean AI music copyright rules (National Assembly debate)",
+      "source_lang": "ko",
+      "category": "music"
     }
   ],
-  "date": "2026-10-09",
+  "expansion": {
+    "added_keywords": [
+      "Google Flow Music VST export",
+      "Sonilo video-to-music",
+      "digital replica law Denmark",
+      "AI music attribution",
+      "AI music plagiarism detection",
+      "AI 음악 저작권 칼럼",
+      "streaming fraud AI songs"
+    ],
+    "sources_swept": [
+      "musically.com feed p1-6",
+      "musicbusinessworldwide.com feed p1-6 + AI tag",
+      "billboard.com AI tag p1-2",
+      "rollingstone.com AI tag p1-2",
+      "digitalmusicnews.com",
+      "completemusicupdate.com",
+      "synthtopia/musictech/cdm p1-3",
+      "gearnews",
+      "soundonsound",
+      "bedroomproducersblog",
+      "attackmagazine",
+      "djmag",
+      "mixmag",
+      "pitchfork",
+      "factmag",
+      "hypebot latest+tech RSS",
+      "theverge music+AI",
+      "techcrunch AI+music",
+      "engadget",
+      "deepmind.google",
+      "elevenlabs.io blog",
+      "suno.com/blog",
+      "arxiv cs.SD",
+      "isplus.com homepage",
+      "YouTube RSS: Andrew Huang, Venus Theory, Udio"
+    ],
+    "unreachable": [
+      "residentadvisor (feed 404)",
+      "waterandmusic (404)",
+      "midiaresearch (404)",
+      "isplus RSS (empty; used homepage)"
+    ],
+    "dropped_notes": "Dropped as already published/covered: Kelly Clarkson AI chart (Billboard published), Thomson Reuters fair-use, Suno revenue, Engram, Tamber, Fred again.., Sony deepfakes, Copyright Office fraud inquiry, Suno Speech/Albums. Dropped as business/exec noise: Suno hires Michael Chua (live division), Suno IPO analysis, ElevenLabs $22B, Modulate $25M, Spotify Technology enterprise unit, Jev valuation. Dropped as token/no AI: Fender 'Ask Fender', Sollos, YouTube Shorts originality, Antares AutoTune Advanced, VocAlign 7, Hypebot Music Road map. WebSearch budget (6) exhausted."
+  },
   "dedup": {
     "dropped": 0,
-    "kept": 14,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://www.musicbusinessworldwide.com/a-us-appeals-court-has-rejected-a-fair-use-defense-over-ai-training-what-does-it-mean-for-the-labels-fight-with-suno/",
-        "title": "A US appeals court has rejected a 'fair use' defense over AI training. What does it mean for the labels' fight with Suno?",
-        "match": {
-          "score": 0.554,
-          "date": "2026-10-01",
-          "url": "https://www.musicbusinessworldwide.com/us-appeals-court-rejects-fair-use-defense-over-ai-training-as-thomson-reuters-wins-copyright-case-backed-by-riaa-and-nmpa/",
-          "title": "Appeals court rejects fair use defense over AI training"
-        }
-      }
-    ],
+    "dropped": [],
     "review": 3,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-09",
-      "title": "SoundBoost updates its browser-based mastering service with Engine v4",
-      "url": "https://bedroomproducersblog.com/2026/09/08/soundboost-mastering/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Jason Isbell Files Class Action Lawsuit Claiming Suno Coded AI to ‘Extract Musicians’ Identities’",
-      "url": "https://www.billboard.com/pro/jason-isbell-class-action-lawsuit-ai-music-platform-suno/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Suno Inks ‘Strategic Partnership’ With Believe",
-      "url": "https://www.billboard.com/pro/suno-believe-strategic-partnership/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "말로 물으면 차트메트릭이 답을 만든다 월 60달러짜리 데이터 분석가다 차트메트릭이 아티스트 1400만 명 데이터에 말로 묻는 분석 에이전트를 냈다.",
-      "url": "https://www.musicbusinessworldwide.com/chartmetric-launches-ai-agent-flow-priced-from-60-per-month-not-just-another-ai-chatbot/"
-    },
-    {
-      "date": "2026-09-09",
-      "title": "Stella Parton urges people to stop creating AI ‘endless garbage’ about her late sister Dolly",
-      "url": "https://www.musicradar.com/artists/singers-songwriters/show-more-compassion-and-wisdom-as-we-move-forward-in-life-use-my-sisters-life-as-an-example-for-tolerance-and-respect-to-towards-others-stella-parton-urges-people-to-stop-creating-ai-and-endless-garbage-about-her-late-sister"
-    },
     {
       "date": "2026-09-12",
       "title": "Audacity 4, free and open-source audio editor, arrives with a revamped UI",
@@ -781,6 +805,31 @@
       "date": "2026-10-08",
       "title": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the AI company's $12B+ funding round (report)",
       "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "[K팝과 AI 혁명] '지휘자'가 된 창작자들, 대체할 수 없는 것들을 향하여",
+      "url": "https://isplus.com/article/view/isp202609280072"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "'스님부터 80대 창작자까지'... 노이즈 홍종구, AI 음악 최초 플랫폼 '아뮤차트'로 판 깔았다 [IS인터뷰]",
+      "url": "https://isplus.com/article/view/isp202610070043"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "RIAA CEO Talks Midterms, AI Deepfakes and Trump: 'Music Is a Very Bipartisan Issue'",
+      "url": "https://www.billboard.com/pro/riaa-ceo-midterms-ai-deepfakes-trump-botr/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Who Actually Made This? The Question AI Is Forcing Music to Ask.",
+      "url": "https://www.hypebot.com/who-actually-made-this-the-question-ai-is-forcing-music-to-ask/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Google picks Base for Music for its Gemini Startup Forum – as $1.7M-backed French company says it uses AI to predict music marketing ROI",
+      "url": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/"
     }
   ]
 }

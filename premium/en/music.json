@@ -6678,6 +6678,132 @@
           "x": "The notice asks which schemes are most prevalent, how significant the economic impacts are, how AI has contributed, and whether a solution should come from Congressional legislation. It comes a day after Michael Smith was sentenced in the first-ever U.S. streaming fraud prosecution, having earned more than $8 million in fraudulent royalties."
         }
       ]
+    },
+    "music/music-denmark-replica-law": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
+        },
+        {
+          "t": "p",
+          "x": "Danish culture minister Zenia Stampe has presented revised proposals to parliament for new rights to help performers, and people more generally, block unapproved digital replicas of their voice or likeness."
+        },
+        {
+          "t": "p",
+          "x": "The bill builds on last year's proposals and restarts the effort after a general election and change of government. Stampe, culture minister since June, said: \"now we're stopping digital identity theft and helping artists whose livelihoods are being threatened\"."
+        },
+        {
+          "t": "p",
+          "x": "It amends Danish copyright law to make it illegal to publish realistic digital imitations of a person's voice or likeness without consent, with exceptions for caricature, parody and criticism unless the imitation is dangerous misinformation. It covers AI deepfakes and traditional digital edits, but only realistic imitations likely to be confused with the real person."
+        },
+        {
+          "t": "p",
+          "x": "Beyond blocking misuse, legal clarity could let artists license their voice or likeness to AI platforms. Stampe wants tech giants to take down manipulated content quickly, and hopes the protections take effect by the start of next year."
+        }
+      ]
+    },
+    "music/music-flow-music-plugins": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Z4l8igzzHHw"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted programming – aka 'vibe coding' – is transforming software development, and is already making a big impact on the scope and variety of software and firmware available to electronic musicians."
+        },
+        {
+          "t": "p",
+          "x": "Now, Google wants you to vibe code audio applications, saying that producers can now vibe code music production tools with Google Flow Music:"
+        },
+        {
+          "t": "p",
+          "x": "\"Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instruments or effects using natural language — no coding experience required."
+        },
+        {
+          "t": "p",
+          "x": "Now, we're making it easy to bring these capabilities directly into professional setups. Producers can now export their custom Spaces as VST3/AU plugins, to run inside their Digital Audio Workstations (DAWs)."
+        },
+        {
+          "t": "p",
+          "x": "Simply put, this means producers can easily build things tailored to their processes and styles within their familiar production workflows.\""
+        }
+      ]
+    },
+    "music/music-sonilo-video-scoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+        },
+        {
+          "t": "p",
+          "x": "Sonilo is a platform with a \"proprietary multimodal AI system that connects video understanding, audio generation, and temporal alignment.\" It should recognise the pacing, emotion and storyline of a video and generate audio that aligns with it believably. It has now raised $11m in funding to scale the company."
+        },
+        {
+          "t": "p",
+          "x": "Sonilo was founded by people who worked on TikTok's AI and music teams. CEO and co-founder Shawn Song says the key is that the audio starts with a video, not a text prompt: \"You give us the footage, and Sonilo understands what's happening frame by frame.\""
+        },
+        {
+          "t": "p",
+          "x": "Elsewhere in Music Ally's weekly round-up: Laylo launched a Discovery Agent that texts Spotify users once a month about nearby gigs by artists they listen to but don't follow, and French startup Base For Music, whose AI tool finds artists' most-engaged fans, was picked for Google's Gemini Startup Forum."
+        }
+      ]
+    },
+    "music/music-arxiv-attribution": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "How can we verify whose music contributed to an AI-generated output? This paper shows how input-based attribution can provide verifiable evidence of which audio sources were used in a generation and whether they shaped the output."
+        },
+        {
+          "t": "p",
+          "x": "The generator, MixAudio, is conditioned solely on audio with no text input: one prompt recording per stem plus an optional shared context. In prompt adherence tests and controlled input swaps, its stems follow the prompt audio in timbre and the context audio in harmony."
+        },
+        {
+          "t": "p",
+          "x": "Outputs may still reproduce training data not supplied as inputs, so the authors audit memorization with their musical version identification model, musicDNA, finding few reproductions outside the input records. On human-judged flagged cases it beats the other tested memorization detectors in precision and recall."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
+          "cap": "Figure 3: Detection performance of memorization metrics."
+        },
+        {
+          "t": "p",
+          "x": "Input records and output analysis, the authors argue, give complementary evidence for attribution that rights-holder reporting and compensation can draw on as the AI music economy takes shape."
+        }
+      ]
+    },
+    "music/music-amuchart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://isp.edailystatic.com/data/isp/image/2024/08/19/isp20240819000143.1280x.8.jpg",
+          "cap": "CEO Hong Jong-gu (2024 KGMA organizing committee launch ceremony)"
+        },
+        {
+          "t": "p",
+          "x": "Hong Jong-gu, a former member of the group Noise and head of Meta AI Lab, has launched Amuchart, the first platform dedicated to AI music creators. “It started from the idea of first building a platform that could fully hold the songs born from AI,” he said."
+        },
+        {
+          "t": "p",
+          "x": "Since opening on September 9, Amuchart has drawn about 300 creators and gathered about 9000 songs in less than two months. Creators must be 15 or older, and the oldest confirmed creator is about 80. The most prolific creator uploaded 180 songs, so the platform limited uploads to 5 songs per person per day."
+        },
+        {
+          "t": "p",
+          "x": "Listeners set their mood and situation by chat or voice, and a virtual DJ recommends music. Alongside donations, live chat and DM features, it offers 'Crew', where crews make music and battle each other, and 'Scout', where listeners discover creators and receive a share of revenue as those creators grow (5 levels)."
+        },
+        {
+          "t": "p",
+          "x": "To guard against a flood of uniform songs from a single engine, it is preparing a 'remastering' system and upgrades to its music generation service. Hong is considering hosting AI music awards, festivals and conferences, and expanding into a management business."
+        },
+        {
+          "t": "p",
+          "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
+        }
+      ]
     }
   }
 }

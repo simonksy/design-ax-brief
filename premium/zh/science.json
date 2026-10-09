@@ -6265,6 +6265,127 @@
           "x": "三人证明了Khot的2-to-1 games猜想的一个稍弱的4-to-1版本，这意味着某些3-colorable图无论额外使用多少种颜色，仍然难以着色。Princeton的Mark Braverman说：“靠新闻稿做数学，对数学并不那么健康。”"
         }
       ]
+    },
+    "science/science-bolmo-byteification-nature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Ai2去年十二月推出了完全开放的字节级语言模型系列Bolmo，其背后的研究现已发表于Nature。Ai2还在Hugging Face上发布了新的检查点，以及Stage 1 检查点——后者在训练Bolmo字节级组件时保持原有全局模型冻结。"
+        },
+        {
+          "t": "p",
+          "x": "大多数语言模型按固定词表把文本切分为子词，这可能让它们在处理拼写、生僻词和不寻常字符串时不够灵活。字节级模型直接处理字符背后的原始字节，但要达到子词模型的性能，通常需要代价高昂的从头训练。"
+        },
+        {
+          "t": "p",
+          "x": "Ai2的“字节化”（byteifying）流程则通过一次相对较短的追加训练，把已经具备较强能力的子词模型转换为字节级模型。在Nature论文中，团队将该方法从Olmo推广到 Qwen 3 8B 和 Llama 3 8B，得到 Bwen 8B 和 Blama 8B；两者都接近各自的源模型，而且 Bwen 8B 在Ai2的综合评估套件上超过了 Bolmo 7B。"
+        },
+        {
+          "t": "p",
+          "x": "由于字节并不局限于文本，Ai2表示，同样的思路未来或许也能用于图像和音频。"
+        }
+      ]
+    },
+    "science/science-fossil-grass-pollen-cnn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "不同物种的禾草花粉粒在普通光学显微镜下几乎一模一样。由植物生物学家Surangi Punyasena和前博士生Marc-Élie Adaimé领导的University of Illinois Urbana-Champaign研究团队，将超分辨率显微技术与卷积神经网络结合，读取花粉在表面纹饰、复杂度和壁厚上的细微差异。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+          "cap": "开花草本、热带树木和多年生禾草的花粉相比，可以看出禾草花粉相对简单。"
+        },
+        {
+          "t": "p",
+          "x": "该模型无法识别具体物种，但能估算混合样本中的物种多样性，并区分C3和C4禾草。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+          "cap": "Poa anceps（C3禾草）与Andropogon amethystinus（C4禾草）的超分辨率图像。"
+        },
+        {
+          "t": "p",
+          "x": "将该方法应用于Mount Kenya一处湖泊25,000年的沉积物岩芯后，研究发现禾草多样性在约21,000至18,000年前的末次盛冰期（Last Glacial Maximum）最低，并随CO2和气温上升而增加。C4禾草的占比在冰期晚期较高，之后逐渐下降。该研究发表于PNAS。"
+        }
+      ]
+    },
+    "science/science-llm-symbolic-role-filler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+          "cap": "Georges Seurat《大碗岛的星期天下午》（\"A Sunday on La Grande Jatte\"），1884年。Credit: Public domain/Wikimedia Commons"
+        },
+        {
+          "t": "p",
+          "x": "大语言模型能处理数学、逻辑和编程这类看似需要符号推理的任务，但它们并不像经典的基于规则的AI那样操作符号，而是处理向量，也就是一长串数字。Yale计算语言学家Tom McCoy领导的团队发现，这些向量会隐性地组织成一种符号结构，而这种结构在单个数字层面上是看不出来的。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员将七个LLMs的内部表征替换为一种称为张量积表征（tensor product representations）的角色-填充结构，其中单词或数字填充主语、分子等角色。在语言、算术、逻辑和编程任务中，模型的行为基本没有变化。"
+        },
+        {
+          "t": "p",
+          "x": "有针对性的编辑——例如把单词“clever”移去修饰另一个名词——会使输出相应改变。McCoy说：“LLMs会自然地收敛到具有角色-填充结构的表征。”合著者包括Microsoft的Paul Soulos和Paul Smolensky，以及NYU的Tal Linzen；预印本已发布在arXiv上。"
+        }
+      ]
+    },
+    "science/science-spiking-net-event-timing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Tokyo的International Research Center for Neurointelligence（WPI-IRCN）研究人员在Zenas C. Chao带领下，与Yohei Yamada合作，构建了一个由1,000个神经元组成的循环脉冲神经网络，能够同时学习预期什么、何时预期以及其可能性有多大。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+          "cap": "训练后，仅凭线索就能引发特定时间的预期活动，其强度反映各事件的概率。Credit: Zenas C. Chao, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "学习仅限于读出连接，并采用局部规则，而非反向传播或全局广播的误差信号。当事件的概率或时间发生变化时，网络能够适应，恢复速度快于全局最小二乘基线。"
+        },
+        {
+          "t": "p",
+          "x": "这项发表于Communications Biology的研究是一次计算演示，而非大脑如何实现预测的证据，但作者表示，局部学习可能适合需要实时适应的类脑AI和神经形态硬件。"
+        }
+      ]
+    },
+    "science/science-alphaproof-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员在Science上报告，一个名为AlphaProof Nexus的新型LLM-based框架能够自主处理部分数学问题：它寻找证明，并借助验证确保解答在逻辑上成立。该系统已解决多个数学领域中数十个此前悬而未决的问题。"
+        },
+        {
+          "t": "p",
+          "x": "LLMs容易产生细微的逻辑错误，即所谓的“幻觉”，因此该系统用形式语言Lean生成证明，由其自动验证每一步逻辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+          "cap": "full-featured版AlphaProof Nexus智能体的设计。Credit: Tsoukalas et al., arXiv:2605.22763"
+        },
+        {
+          "t": "p",
+          "x": "George Tsoukalas及其同事构建了一个框架，让多个AI智能体在Lean编译器的反馈下搜索证明；另有一个full-featured智能体，通过进化算法协调各子智能体，并把AlphaProof用作专门的证明工具。"
+        },
+        {
+          "t": "p",
+          "x": "在尝试的353个Erdős问题中，它解决了九个，其中两个已悬而未决超过50年；它还解决了492个开放OEIS猜想中的44个，以及代数几何、优化、量子光学和图论领域的问题。"
+        },
+        {
+          "t": "p",
+          "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
+        }
+      ]
     }
   }
 }

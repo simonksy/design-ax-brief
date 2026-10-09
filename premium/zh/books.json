@@ -5462,6 +5462,129 @@
           "x": "联合创始人Esme Dennys说：“我不会称之为AI检测。我们组织的根基，是避免[作者]受到不公正的指控。”"
         }
       ]
+    },
+    "books/books-wired-publishers-ai-staff-revolt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据二十多名匿名接受WIRED采访的员工透露，美国（US）五大出版社（Big Five）中至少有三家——HarperCollins、Simon & Schuster和Hachette——在未公开披露、也未征得作者同意的情况下，悄悄引入了AI工具。"
+        },
+        {
+          "t": "p",
+          "x": "员工称，Claude和ChatGPT等LLMs被用于给文学经纪人写邮件、撰写宣传文案和封底文案、设计封面以及生成营销材料，且往往是在高管授意下进行。"
+        },
+        {
+          "t": "p",
+          "x": "在HarperCollins，管理层购买了Claude许可证，员工被“voluntold”（名为自愿、实为指派）成为“AI Champions”。Hachette表示支持AI用于运营而非创作；Simon & Schuster表示其工具并非强制使用。HarperCollins未予回应。"
+        },
+        {
+          "t": "p",
+          "x": "Simon & Schuster员工传阅了一封公开信，反对试用Skan AI软件；CEO Greg Greeley回应称尚未决定使用该软件。"
+        },
+        {
+          "t": "p",
+          "x": "接受WIRED采访的大多数业内人士只是希望出版社提供明确的AI使用指南并进行披露。"
+        }
+      ]
+    },
+    "books/books-von-menschen-label": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "18家德语少儿出版社推出新标签：„Von Menschen · geschrieben · gestaltet · geprüft“（由人类·撰写·设计·审校）旨在表明文字、插画和设计均由人类创作，图书也经过出版社编辑审校。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
+          "cap": "标志 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
+        },
+        {
+          "t": "p",
+          "x": "出版社借此倡导人类创造力、编辑责任以及对创意成果的保护。该标签并不禁止出版社使用人工智能，例如用于辅助流程、分析或调研。其核心在于对人类创作作品的透明与负责。"
+        },
+        {
+          "t": "p",
+          "x": "该标签由avj（Arbeitsgemeinschaft von Jugendbuchverlagen，少儿图书出版社协会）的一个工作组制定。出版社借此作出共同承诺："
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geschrieben（由人类撰写）：文字由作者创作。"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen gestaltet（由人类设计）：插画由艺术家创作；照片、版式及其他设计元素由人类挑选、开发和策划。"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geprüft（由人类审校）：内容、语言和设计均经出版社编辑审校。"
+        }
+      ]
+    },
+    "books/books-ghostwriters-ai-commissions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "多位代笔作家对The Bookseller表示，随着潜在作者尝试生成式AI，约稿正在减少；另一些代笔作家则越来越多地被要求处理AI生成（AI-generated）的书稿。"
+        }
+      ]
+    },
+    "books/books-tonies-ai-storyteller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
+          "cap": "Tonies CEO Tobias Wann"
+        },
+        {
+          "t": "p",
+          "x": "在Frankfurter Buchmesse的Global 50 CEO Talk 2026上，Tonies CEO Tobias Wann表示，公司预计今年营收约€800m（8亿欧元），已售出约1200万台盒子和超过1700万个人偶。"
+        },
+        {
+          "t": "p",
+          "x": "Tonies正在开发更多“Sleepy Friends”系列等原创IP，但授权内容仍占目录的大部分，合作伙伴也越来越多地将制作交给Tonies Studio。"
+        },
+        {
+          "t": "p",
+          "x": "谈及AI旁白，Wann态度审慎。Tonies曾在3,000个家庭中试用AI“讲故事者”（storyteller），在封闭环境中根据孩子的姓名、年龄和兴趣生成个性化故事。但他指出家长心存疑虑，并表示“Toniebox本身永远不会成为AI玩具”。在公司内部，约85%的员工每天使用AI。"
+        },
+        {
+          "t": "p",
+          "x": "Tonies将于2027年进入至少两个新国家，目标是到2030年覆盖所有主要地区。"
+        }
+      ]
+    },
+    "books/books-munich-llm-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "慕尼黑地区法院今年第二次在针对AI公司的诉讼中支持德国集体权利管理组织GEMA。继去年11月就德语（German-language）歌词作出不利于OpenAI的判决后，该法院又于7月就多部音乐作品作出不利于Suno AI的判决，其中Boney M.的作品尤为突出。"
+        },
+        {
+          "t": "p",
+          "x": "判决直指核心问题：LLMs是否会记忆？如果会，这是否构成复制？法院的回答是：是，也是。判决书写道：“从训练数据与输出之间的对应关系...可以推断训练数据已被记忆。”法院认为，如果一个简单的提示词就能让分词后的作品重新拼合，那就等同于复制。"
+        },
+        {
+          "t": "p",
+          "x": "由于训练发生在美国（U.S.），慕尼黑法院适用了美国版权法，并仔细研读了Bartz v. Anthropic和Kadrey v. Meta两案。与这两案不同，法院认定输出确实复制了输入，因此这种使用不具有“转换性”（transformative），合理使用（fair use）抗辩也不成立。"
+        },
+        {
+          "t": "p",
+          "x": "该判决尚未生效，仍可能被上诉。RELX的Richard Mollett在为PW撰写的文章中指出，版权并未被AI碾压：诉讼以及同步增长的授权协议都显示了权利人的决心。"
+        }
+      ]
     }
   }
 }

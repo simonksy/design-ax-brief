@@ -1,32 +1,31 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "design",
   "media": [
     {
-      "id": "design-archicad-ai",
+      "id": "runway-claude-motion",
       "type": "image",
-      "src": "pipeline/media/design-archicad-ai.jpg"
+      "src": "pipeline/media/runway-claude-motion.png"
     },
     {
-      "id": "design-keyshot-2026",
+      "id": "aws-physical-ai-toolchain",
       "type": "image",
-      "src": "pipeline/media/design-keyshot-2026.jpg"
+      "src": "pipeline/media/aws-physical-ai-toolchain.jpg"
     },
     {
-      "id": "design-free-ai-creative-cloud",
+      "id": "instinct-agent-handson",
       "type": "image",
-      "src": "pipeline/media/design-free-ai-creative-cloud.jpg"
+      "src": "pipeline/media/instinct-agent-handson.jpg"
     },
     {
-      "id": "design-claude-frontend-skill",
+      "id": "nvidia-simready-assets",
       "type": "image",
-      "src": "pipeline/media/design-claude-frontend-skill.png"
+      "src": "pipeline/media/nvidia-simready-assets.jpg"
     },
     {
-      "id": "design-copilot-identity",
-      "type": "video",
-      "src": "pipeline/media/design-copilot-identity.mp4",
-      "poster": "pipeline/media/design-copilot-identity.jpg"
+      "id": "geometry-ui-diffing",
+      "type": "image",
+      "src": "pipeline/media/geometry-ui-diffing.png"
     }
   ]
 }

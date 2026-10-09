@@ -6244,6 +6244,154 @@
           "x": "项目可以通过共享URL协作开发，完成的游戏可以通过Google的新平台Playground发布。Unity尚未敲定商业模式，但计划提供免费和付费两种访问级别。封闭测试定于2026年晚些时候开始。"
         }
       ]
+    },
+    "games/sister-driving-llm-cost": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+          "cap": "《教妹妹开车》主视觉图（图片来源：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "在主播圈口碑走红的Steam游戏《教妹妹开车》让开发团队陷入了财务困境。开发商Easy Fox于7日通过Steam公告分享了1.2.9更新与开发进展，并说明了试玩用户激增导致的服务故障及维护成本对策。"
+        },
+        {
+          "t": "p",
+          "x": "核心在于AI。玩家像说话一样教妹妹开车，AI处理这些指令后由妹妹驾驶，因此体验会因所用AI模型不同而差异很大。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+          "cap": "《教妹妹开车》1.2.9更新公告图片（图片来源：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "一个月内试玩用户增长超过20倍，支出达到每天1,000美元（约134万韩元）。正式发售时，预计会把预估的AI使用费计入售价，以避免额外收费。Easy Fox表示“为了维持试玩运营，已向银行贷款”，并称由于团队只有四人，可能会比预期更早结束试玩，但尚未作出决定。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+          "cap": "《教妹妹开车》截图（图片来源：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "质量问题同样存在。主力模型Google Gemini因流量暴增频繁出错，作为备用的OpenAI模型占比随之上升，出现了回答冗长、语气机械的问题。Easy Fox将改善回答长度和语气列为首要任务，并计划减少把驾驶指令反向执行的故障。"
+        }
+      ]
+    },
+    "games/dreamlands-1-0-public": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+        },
+        {
+          "t": "p",
+          "x": "Dreamlands正式公开推出1.0平台，让任何人都能用AI生成可直接用于游戏的3D资产乃至完整世界，订阅方案为每月$20至$200。该平台在Google Cloud的Gemini at Work活动上发布，并上架Google Cloud Marketplace。"
+        },
+        {
+          "t": "p",
+          "x": "曾任职于Unity和Ubisoft的CEO Thomas Tobin重点介绍了三项功能。One-Click Texturing可在约10秒内改变物体风格，每次编辑收费$0.10。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+        },
+        {
+          "t": "p",
+          "x": "Surface新增分层系统，可自动识别木材、金属、玻璃和织物，便于快速更换外观。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+        },
+        {
+          "t": "p",
+          "x": "Procedural Building和City Makers可根据模块化套件和平面图生成建筑，还能依据真实世界的布局构建城市。插件支持Unity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max和Omniverse。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+        },
+        {
+          "t": "p",
+          "x": "三人工作室Whenere用它为其Pride & Prejudice Fortnite世界重建了Netherfield Park，把照片转换为可编辑的3D模型；CEO Karen Laur表示，这样的成果对他们这种规模的团队来说过去“真的不可能”。Dreamlands运行在Google Cloud上，并使用Gemini模型。"
+        }
+      ]
+    },
+    "games/kutaragi-ai-daydreams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2007年从Sony退休的“PlayStation之父”久多良木健（Ken Kutaragi）如今经营着AI公司，他似乎确信电子游戏很快将被AI白日梦取代。"
+        },
+        {
+          "t": "p",
+          "x": "据4Gamer报道，他在近期一场大学座谈会上表示：“AI将把游戏转变为娱乐，并改变人类的感性。”“全球游戏市场目前规模超过30万亿日元，但可能达到约3,000万亿日元。如果那样，它甚至不会再被称为游戏。”"
+        },
+        {
+          "t": "p",
+          "x": "他说：“在幕后，利用AI实时生成视频和音乐的研发正在推进。”并预测到2028年至2029年左右，其运行速度将达到当今游戏主机的水平。“到那时，所有内容都会改变……想象本身就会成为内容。”以上引语由日语机器翻译而来。"
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+指出，Kutaragi执掌Cyber AI Entertainment和Ascent Robotics，因此在宣扬AI必然到来一事上存在切身利益。"
+        }
+      ]
+    },
+    "games/krafton-snu-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+          "cap": "Krafton与首尔大学世界模型联合研究启动仪式现场（图片提供：Krafton）"
+        },
+        {
+          "t": "p",
+          "x": "Krafton与首尔大学启动了横跨游戏与机器人领域的世界模型联合研究。双方在首尔大学举行启动仪式，公布了研究课题和研究团队，Krafton CAIO Kangwook Lee与首尔大学教授U Kang等人出席。"
+        },
+        {
+          "t": "p",
+          "x": "世界模型是让AI把握当前状况，并预测、模拟环境将如何随行动而变化的技术。联合研究将在未来3年内通过教授团队的三项研究课题和联合研究中心的运营推进，内容包括在长视频中保持空间与物体一致性的技术、利用游戏中的动作数据衔接人与物体运动的技术，以及验证AI是否以空间信息作为判断依据的研究和基准测试构建。"
+        },
+        {
+          "t": "p",
+          "x": "此次启动以去年11月签署的产学合作协议为基础。CAIO Kangwook Lee表示：“通过游戏积累的模拟与虚拟世界构建能力，是世界模型研究的重要基础。”他还称将把成果拓展到游戏体验和机器人领域。Krafton去年在美国设立了机器人研究法人Ludo Robotics，今年2月又成立了韩国法人。"
+        }
+      ]
+    },
+    "games/games-fortnite-whenere": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Sci-fi作家Neal Stephenson的公司Whenere正把Jane Austen的《傲慢与偏见》（Pride and Prejudice）带进Fortnite。Whenere自称是一款“web-based脚本编辑器，帮助你创作可直接在Fortnite内观看的沉浸式电影化故事”。"
+        },
+        {
+          "t": "p",
+          "x": "它并不复刻原著，而是搭建Netherfield Park等场景：用户选择地点、编排走位、添加对白（可self-written自行撰写，也可借助AI），然后发布到Whenere的Fortnite岛上。"
+        },
+        {
+          "t": "p",
+          "x": "Whenere使用由Google的Gemini驱动的AI工具Dreamlands来“生成大部分家具和装饰（décor），并保持历史准确性”。Stephenson对Google表示：“这里可以成为AI增强和提升创造力、而非取代创造力的地方。”"
+        },
+        {
+          "t": "video",
+          "yt": "ZdBRAz9yvro"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
+        }
+      ]
     }
   }
 }

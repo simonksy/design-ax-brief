@@ -6398,6 +6398,154 @@
           "x": "プロジェクトは共有URLを通じて共同で開発でき、完成したゲームはGoogleの新プラットフォームPlaygroundで公開できる。Unityは収益モデルをまだ確定していないが、無料と有料の両方の利用プランを予定している。クローズドベータは2026年後半に始まる予定だ。"
         }
       ]
+    },
+    "games/sister-driving-llm-cost": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+          "cap": "『妹に運転を教える』メインビジュアル（画像出典：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "ストリーマーの口コミで話題になったSteamゲーム『妹に運転を教える』が、開発チームの財政難を招いた。開発元のEasy Fox（イージーフォックス）は7日、Steamのお知らせで1.2.9アップデートと開発状況を共有し、デモ利用者の急増によるサービス障害と維持費への対策を明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "核となるのはAIだ。プレイヤーが話しかけるように運転を教えるとAIがそれを処理して妹が運転する仕組みのため、使用するAIモデルによって体験が大きく変わる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+          "cap": "『妹に運転を教える』1.2.9アップデートのお知らせ画像（画像出典：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "1か月でデモ利用者が20倍以上に増え、支出は1日1,000ドル（約134万ウォン）に達した。正式リリース時にはパッケージ価格に想定AI利用料を含め、追加課金を避ける見通しだ。Easy Foxは「デモの運営を続けるため、銀行から融資も受けている状況」とし、4人だけのチームのためデモを予想より早く終了する可能性もあるが、まだ決定はしていないと述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+          "cap": "『妹に運転を教える』スクリーンショット（画像出典：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "品質の問題もある。主力だったGoogle Geminiが急増したトラフィックで頻繁にエラーを起こしたため、補助モデルであるOpenAIのモデルの比重が高まり、冗長な応答や機械的な口調が現れた。Easy Foxは回答の長さと口調の改善を最優先課題とし、運転指示を逆に実行する誤作動も減らしていく計画だ。"
+        }
+      ]
+    },
+    "games/dreamlands-1-0-public": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+        },
+        {
+          "t": "p",
+          "x": "Dreamlandsは1.0プラットフォームを一般公開し、誰でもAIでゲームにそのまま使える3Dアセットや世界全体を生成できるようにする。料金プランは月額$20から$200まで。Google CloudのGemini at Workイベントで発表され、Google Cloud Marketplaceで提供される。"
+        },
+        {
+          "t": "p",
+          "x": "UnityとUbisoftに在籍していたCEOのThomas Tobin氏は、3つの機能を強調した。One-Click Texturingは、1回の編集あたり$0.10、約10秒でオブジェクトのスタイルを変更する。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+        },
+        {
+          "t": "p",
+          "x": "Surfaceは、木、金属、ガラス、布を自動検出するレイヤーシステムを追加し、素早いリスキンを可能にする。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+        },
+        {
+          "t": "p",
+          "x": "Procedural BuildingとCity Makersは、モジュール式キットや間取り図から建物を生成し、現実世界の配置をもとに都市を作ることもできる。プラグインはUnity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max、Omniverseに対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+        },
+        {
+          "t": "p",
+          "x": "3人のスタジオWhenereはこれを使い、『Pride & Prejudice』のFortniteワールドでNetherfield Parkを再構築し、写真を編集可能な3Dモデルに変換した。CEOのKaren Laur氏は、この成果は以前なら自分たちの規模のチームには「本当に不可能」だったと述べた。DreamlandsはGoogle Cloud上で動作し、Geminiモデルを使用している。"
+        }
+      ]
+    },
+    "games/kutaragi-ai-daydreams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "2007年にSonyを退いた「PlayStationの父」久夛良木健（Ken Kutaragi）氏は、現在AI企業を率いており、ビデオゲームはまもなくAIの白昼夢に取って代わられると確信しているようだ。"
+        },
+        {
+          "t": "p",
+          "x": "4Gamerの報道によると、同氏は最近の大学のパネルで「AIはゲームをエンターテインメントへと変え、人間の感性を変える」と語った。「世界のゲーム市場は現在30兆円超だが、3,000兆円規模に達するかもしれない。そうなれば、もはやゲームとは呼ばれないだろう」"
+        },
+        {
+          "t": "p",
+          "x": "「水面下では、AIを使った映像や音楽のリアルタイム生成の研究開発が進んでいる」と述べ、2028年から2029年頃には現在のゲーム機並みの速度で動作すると予測した。「そうなれば、あらゆるコンテンツが変わる……想像すること自体がコンテンツになる」。なお、引用は日本語からの機械翻訳である。"
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+は、Kutaragi氏がCyber AI EntertainmentとAscent Roboticsを率いており、AIを必然として宣伝することに利害関係があると指摘している。"
+        }
+      ]
+    },
+    "games/krafton-snu-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+          "cap": "Kraftonとソウル大学のワールドモデル共同研究発足式の様子（写真提供：Krafton）"
+        },
+        {
+          "t": "p",
+          "x": "Kraftonがソウル大学と、ゲームとロボット分野にまたがるワールドモデルの共同研究に着手した。両者はソウル大学で発足式を開いて研究テーマと研究陣を公開し、KraftonのCAIOであるイ・ガンウク氏やソウル大学のカン・ユ教授らが出席した。"
+        },
+        {
+          "t": "p",
+          "x": "ワールドモデルとは、AIが現在の状況を把握し、行動に応じて環境がどう変化するかを予測・シミュレーションする技術だ。共同研究は今後3年間、教授陣による3つの研究課題と共同研究センターの運営を通じて進められる。長い映像の中で空間や物体を一貫して保つ技術、ゲーム内の動作データで人と物体の動きをつなぐ技術、AIが空間情報を判断の根拠にしているかを検証する研究とベンチマーク構築が含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "今回の発足は、昨年11月に締結した産学協力協定に基づく。イ・ガンウクCAIOは「ゲームを通じて培ってきたシミュレーションと仮想世界構築の力は、ワールドモデル研究の重要な基盤だ」と述べ、成果をゲーム体験とロボティクスへ広げていくとした。Kraftonは昨年、米国にロボティクス研究法人Ludo Roboticsを、今年2月に韓国法人を設立した。"
+        }
+      ]
+    },
+    "games/games-fortnite-whenere": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Sci-fi作家Neal Stephensonの会社Whenereが、Jane Austenの『高慢と偏見（Pride and Prejudice）』をFortniteに持ち込む。Whenereは自らを「Fortnite内で直接視聴できる、没入感のあるシネマティックな物語づくりを支援するweb-basedのスクリプトエディター」と説明している。"
+        },
+        {
+          "t": "p",
+          "x": "原作をそのまま再現するのではなく、Netherfield Parkのような舞台を用意する。ユーザーは場所を選び、動きをスクリプト化し、セリフ（self-writtenで自作するか、AIの助けを借りる）を加えたうえで、WhenereのFortnite島で公開する。"
+        },
+        {
+          "t": "p",
+          "x": "WhenereはGoogleのGeminiを基盤とするAIツールDreamlandsを使い、「家具や装飾（décor）の多くを生成し、歴史的な正確さを保つ」。StephensonはGoogleに「ここは、AIが創造性を置き換えるのではなく、補強し高める場になりうる」と語った。"
+        },
+        {
+          "t": "video",
+          "yt": "ZdBRAz9yvro"
+        },
+        {
+          "t": "p",
+          "x": "Aftermathは、AI-generatedのアセットが二次創作の書き手を遠ざけかねないとし、「またひとつのAIハイプ」と評した。クローズドプレイテストが予定されているが、一般向けの発売日はまだない。"
+        }
+      ]
     }
   }
 }

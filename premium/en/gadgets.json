@@ -7068,6 +7068,173 @@
           "x": "The devices are clearly aimed at developers: Microsoft is offering up to $1,000 off to people who trade in a MacBook Pro. Dell also detailed its Nvidia-RTX Spark XPS 16 Creator Edition, priced at $3,800."
         }
       ]
+    },
+    "gadgets/gadgets-rtx-spark-preorders": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
+          "cap": "Nvidia RTX Spark laptops"
+        },
+        {
+          "t": "p",
+          "x": "Running AI locally is increasingly attractive for small businesses that want control over their data, predictable costs and freedom from cloud services. Nvidia's RTX Spark laptops combine powerful processors, Blackwell graphics and large unified memory in portable machines."
+        },
+        {
+          "t": "p",
+          "x": "Pre-orders are now open, with the first models shipping October 16. Prices start at $2,599.99, with models from Microsoft, Asus, Lenovo, HP and Dell."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
+          "cap": "Microsoft Surface Laptop Ultra"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft's 15-inch Surface Laptop Ultra is one of the least expensive ways in, with up to 128GB of unified memory. HP's 16-inch OmniBook Ultra 16 offers a 3K OLED touchscreen and up to 128GB; its 48GB-plus configurations get the full 20-core Grace CPU and 6,144-core Blackwell GPU. The Asus ProArt P16 suits teams mixing AI development with creative work, with up to 128GB of memory and 2TB of storage."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
+          "cap": "HP OmniBook Ultra 16"
+        },
+        {
+          "t": "p",
+          "x": "The RTX Spark platform pairs a Grace CPU with a Blackwell GPU and 24GB to 128GB of unified memory; the lower-end chip has an 18-core CPU and 5,120-core GPU. Memory matters for local AI since larger models need far more of it, though model size, precision and software compatibility also affect performance."
+        }
+      ]
+    },
+    "gadgets/gadgets-rayban-meta-gen3-muse": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta is now the biggest force in smart glasses, and the Ray-Ban Meta (Gen 3) is its third generation. Gizmodo calls it technically an upgrade: better battery life and some hardware tweaks, but not much else over the last model."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Starting at $449, it keeps the same 12-megapixel camera with up to 3K video, the same AI feature set, controls and audio quality. Battery life grows by an hour to nine hours of mixed use; in testing, music playback stretched to about six hours."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta added a sixth microphone to cut background noise by up to 90%, but people on calls still heard cars, trains and voices. Spatial audio, rolled out in a September software update and enabled in the Meta AI app, is a highlight."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The arms are 1mm thinner, every style gets adjustable temple tips, and the camera is 36% smaller, which makes the glasses harder to spot and sharpens privacy concerns; there is still no camera shutter."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Muse, Meta's newest AI model, is a significant upgrade to the AI experience, though quirks remain. Because the software upgrades aren't exclusive to Gen 3, the reviewer sees little reason for last-generation owners to rush out and buy a pair."
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-plus-one-year": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Verge's Jennifer Pattison Tuohy has tested Amazon's AI-powered Alexa Plus at home since July 2025. A year in, she calls it the best smart home assistant she has tested, but says its personal-assistant features are underbaked and the ads on Echo Show displays are out of control."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Because it is LLM-powered, Alexa now understands loose requests like \"I'm cold,\" answers in three to five seconds instead of 10 to 15, handles multistep commands, walks her through recipes and builds routines by voice. Getting there meant rebuilding her smart home from scratch."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The downsides: Echo Show screens have become rotating billboards for Amazon goods, now including video ads, and removing them costs $2.99 a month per device. Complex requests are still inconsistent, and agentic tasks through Uber Eats or Thumbtack often failed."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Memory is the biggest gap: Alexa forgot who she was and gave traffic directions to the wrong school. Her verdict: Amazon should stop chasing a general-purpose AI bot and focus on becoming the brain of the home."
+        }
+      ]
+    },
+    "gadgets/gadgets-xpanceo-ai-contact-lenses": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "CNET spoke with the founders of Dubai-based Xpanceo, which has spent five years developing AI-powered smart contact lenses that work \"like an AI helper, but directly on your cornea.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "The lens contains a screen, biosensors, a microbattery and an antenna, and pairs with a companion device worn on the side of the head that holds a camera, earphone and microphone, handles computing and charges the lenses wirelessly. The team says it has 28 working prototypes and more than 50 patents, and will reveal the lens at MWC Barcelona in March 2027."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "Tear fluid could reveal glucose, proteins, electrolytes and stress hormones without blood draws, and the lens could measure intraocular pressure, a glaucoma risk marker. Xpanceo is also exploring a lens that acts as a non-invasive brain-computer interface."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+        },
+        {
+          "t": "p",
+          "x": "It will start with B2B uses for hospitals, pro athletes and race car drivers, plus a joint project with the UAE Space Agency. After medical trials, narrow consumer uses could arrive by 2030, priced around $2,000 a year as a subscription."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+        }
+      ]
+    },
+    "gadgets/gadgets-alexa-tablets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/amazons-new-alexa-tablets-include-a-12-inch-model-with-anti-glare-screen/l-intro-1791457099.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon has launched new Alexa tablets in 12, 11 and 8 inches, all with an aluminum unibody and Alexa+ built into their core. The flagship Alexa Tablet 12 Pro has \"three times faster processing and nine times faster graphics\" than any tablet Amazon has shipped."
+        },
+        {
+          "t": "p",
+          "x": "The 12 Pro runs a 4nm 8-core chip with up to 16GB of RAM and a 120Hz, 3:2 display — optionally Nanomatte, an anti-glare texture etched into the glass with Corning. It starts at $500, or $550 for Nanomatte, with a $90 Pro Pen and $150 keyboard. The Tablet 11 starts at $330 and the Tablet 8 at $230."
+        },
+        {
+          "t": "p",
+          "x": "All three get a new Kindle experience, and Alexa+'s On-Screen Intelligence lets you ask the assistant about what's on screen — add every date of a sporting event to your calendar, or find a product seen in a video on Amazon. It is off by default and opt-in."
+        },
+        {
+          "t": "p",
+          "x": "The tablets go on sale October 14 in the US, Mexico and Canada, and October 19 in the UK, Germany, France, Italy and Spain."
+        }
+      ]
     }
   }
 }

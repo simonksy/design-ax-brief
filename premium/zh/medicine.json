@@ -304,6 +304,116 @@
           "x": "BoneXpert自2009年起已在欧洲用于临床，并有50多项同行评审研究支持。Visiana计划于十月初在U.S.推出该软件。"
         }
       ]
+    },
+    "medicine/radnet-prostate-biopsy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
+          "cap": "前列腺癌 PSA"
+        },
+        {
+          "t": "p",
+          "x": "European Radiology发表的新研究显示，RadNet子公司DeepHealth的AI解决方案可帮助近每5名患者中的1人避免前列腺活检。该研究在前列腺MRI上将一款AI风险分类工具与放射科医生给出的PI-RADS评分进行了比较。"
+        },
+        {
+          "t": "p",
+          "x": "AI-assisted（AI辅助）活检分诊在对临床显著性癌保持98.4%敏感度的同时，避免了近19%的活检。这项回顾性研究涵盖2014年至2025年间在U.S.（美国）、德国和荷兰使用五家厂商设备扫描的近800名受试者。"
+        },
+        {
+          "t": "p",
+          "x": "与PI-RADS的五个类别相比，该工具采用简化的低、中、高三级风险量表。其患者层面敏感度不劣于PI-RADS，区分能力更高，但病灶层面敏感度较低。因此研究人员认为，它可作为PI-RADS的补充，尤其适用于难以判断的PI-RADS 3病灶，而病灶定位仍由放射科医生负责。"
+        },
+        {
+          "t": "p",
+          "x": "DeepHealth的Niccolò Stefani, MD表示：“这些发现表明，我们Prostate MR Solution中的AI应用能够在前列腺诊疗最关键的决策节点之一为临床医生提供支持。”"
+        }
+      ]
+    },
+    "medicine/abridge-ut-system-ambient": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
+          "cap": "在UT System范围内，试点项目在过去12个月中录音临床医生增加73%，每月笔记增加80%。（Pakorn Supajitsoontorn/GettyImages）"
+        },
+        {
+          "t": "p",
+          "x": "Abridge通过与UT REAL Health AI签订的全系统协议，将其临床AI平台扩展至整个University of Texas System，让该系统旗下八家医疗机构都能使用，同时保留各机构的自主决策权。"
+        },
+        {
+          "t": "p",
+          "x": "该协议建立在2025年启动的试点项目基础上，试点覆盖门诊、住院和急诊环境中的五个地点，涉及50多个专科的临床医生。过去一年，UT Health旗下医院和诊所提供了近1170万人次门诊服务。"
+        },
+        {
+          "t": "p",
+          "x": "UT REAL Health AI主席Peter McCaffrey, M.D.表示：“我们不仅致力于扩大临床医生使用环境式AI的机会，以清除文书负担带来的思维杂乱，同样也致力于把这种专注的、人性化的陪伴带回病床边的患者身上。”"
+        },
+        {
+          "t": "p",
+          "x": "Abridge表示，公司与300家U.S.（美国）最大的医疗系统合作，今年将支持超过1亿次患者与临床医生的对话。上个月，它还赢得了VA的全机构环境式AI合同。"
+        }
+      ]
+    },
+    "medicine/coreline-jrs-lung-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft于6日宣布，其肺结节辅助诊断软件AVIEW Lung Nodule CAD已被列入日本医学放射线学会（JRS）的AI软件官方认证产品。继上月获得日本医药品医疗器械综合机构（PMDA）批准后，该产品又获得了与影像诊断加算收费挂钩的基础。"
+        },
+        {
+          "t": "p",
+          "x": "通过此次认证，符合影像诊断管理加算3·4设施标准的医疗机构在使用该产品时可申报加算费用。不过，仅凭产品认证并不意味着适用于所有医院。目前在日本获得JRS认证的AI影像辅助诊断软件共有45种，而此次PMDA批准是韩国开发的基于CT的肺结节CAD首例。"
+        },
+        {
+          "t": "p",
+          "x": "该公司去年收购VUNO在日本的胸部CT AI资产后，仅用1年就将客户医院增至约80家，还签订了心血管软件AVIEW CAC面向M3 AI的供货合同。"
+        },
+        {
+          "t": "p",
+          "x": "代表金镇国表示：“继获得PMDA许可之后，又取得了满足医院收费要求的认证，日本医疗机构引入并持续使用AI的动力变得更加明确。”"
+        }
+      ]
+    },
+    "medicine/gpt5-agent-complexity-paradox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "研究人员基于161个经临床医生验证的真实世界多模态病例，对十种基于GPT-5（GPT-5-based）的配置进行了系统的定量分析，评估诊断准确率、推理质量、检索准确率、证据整合能力以及对低质量输入的稳健性。"
+        },
+        {
+          "t": "p",
+          "x": "他们发现了一些重要局限，包括图像误读、网络搜索表现不稳定且有时会降低性能，以及智能体工作流透明度有限。优势则包括有效利用患者病史、清晰的分步推理、合理的鉴别诊断、明确推理带来的特异度提升，以及检索到相关证据。"
+        },
+        {
+          "t": "p",
+          "x": "作者得出结论：在真实世界中实现可靠的多模态诊断，更多取决于透明的推理和高质量的输入，而非激进的检索或复杂的智能体工作流；证据整合与视觉推理方面的差距，仍是阻碍其进入常规临床应用的主要障碍。"
+        }
+      ]
+    },
+    "medicine/medicine-mri2ct-bone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
+        },
+        {
+          "t": "p",
+          "x": "美国食品药品监督管理局（U.S. Food and Drug Administration）批准了MRI2CT Inc.的AI驱动（AI-powered）平台NextMR，可基于标准脊柱MRI生成3D骨骼可视化影像。这家总部位于以色列（Israel-based）的厂商表示，其目标是实现“脊柱诊疗中的MRI-only工作流程”，在不让患者额外承受CT辐射的情况下生成骨骼形态的精细模型。"
+        },
+        {
+          "t": "p",
+          "x": "“患者的脊柱诊疗通常从MRI开始，而骨骼的精细3D可视化可能还需要另一项影像检查，”CEO Shmulik Shpiro说，“NextMR改变了这一范式。”"
+        },
+        {
+          "t": "p",
+          "x": "NextMR适用于1.5T和3T扫描仪上的常规MRI序列，可在60秒内自动生成3D骨骼结果，并通过网页界面查看。该平台在一个独立的回顾性数据集上完成验证，数据集包含来自美国（U.S.）和以色列（Israel）多家机构、同时拥有MRI与CT配对影像的145名成人。"
+        }
+      ]
     }
   }
 }

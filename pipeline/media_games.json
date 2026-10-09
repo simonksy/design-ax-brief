@@ -1,34 +1,31 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "games",
   "media": [
     {
-      "id": "games-fortnite-whenere",
-      "type": "video",
-      "src": "pipeline/media/games-fortnite-whenere.mp4",
-      "poster": "pipeline/media/games-fortnite-whenere.jpg"
-    },
-    {
-      "id": "games-doom-dlss5",
-      "type": "video",
-      "src": "pipeline/media/games-doom-dlss5.mp4",
-      "poster": "pipeline/media/games-doom-dlss5.jpg"
-    },
-    {
-      "id": "games-ctr-recomp",
-      "type": "video",
-      "src": "pipeline/media/games-ctr-recomp.mp4",
-      "poster": "pipeline/media/games-ctr-recomp.jpg"
-    },
-    {
-      "id": "games-loish-genai",
+      "id": "kotaku-vibe-browser-ports",
       "type": "image",
-      "src": "pipeline/media/games-loish-genai.jpg"
+      "src": "pipeline/media/kotaku-vibe-browser-ports.jpg"
     },
     {
-      "id": "games-schofield-ai",
+      "id": "sister-driving-llm-cost",
       "type": "image",
-      "src": "pipeline/media/games-schofield-ai.jpg"
+      "src": "pipeline/media/sister-driving-llm-cost.jpg"
+    },
+    {
+      "id": "dreamlands-1-0-public",
+      "type": "image",
+      "src": "pipeline/media/dreamlands-1-0-public.jpg"
+    },
+    {
+      "id": "kutaragi-ai-daydreams",
+      "type": "image",
+      "src": "pipeline/media/kutaragi-ai-daydreams.jpg"
+    },
+    {
+      "id": "krafton-snu-world-model",
+      "type": "image",
+      "src": "pipeline/media/krafton-snu-world-model.jpg"
     }
   ]
 }

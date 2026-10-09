@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "games",
   "cards": [
     {
-      "id": "games-fortnite-whenere",
+      "id": "kotaku-vibe-browser-ports",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
-      "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
-      "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
       "tool": "Games",
-      "source": "Aftermath",
-      "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
+      "eyebrow": "AI NEWS",
+      "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
+      "body": "AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
+      "mini_headline": "AI, 게임을 브라우저로 옮기다",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,198 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+            "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
           },
           {
             "t": "p",
-            "x": "Sci-fi 작가 Neal Stephenson이 세운 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite에 옮겨 온다. Whenere는 자사를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+            "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임이 난데없이 수백 개나 쏟아졌다. Claude Opus 5.5의 디컴파일 실력이 워낙 뛰어난 덕이다. 코더들이 몇 달씩 매달리던 게임 소스 코드 복원이 이제는 기록적인 시간 안에 끝난다."
           },
           {
             "t": "p",
-            "x": "책을 그대로 옮기기보다 Netherfield Park 같은 배경을 꾸린다. 사용자는 장소를 고르고 움직임을 스크립트로 짠 다음 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 붙여 Whenere의 Fortnite 섬에 공개한다."
+            "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이다. 실제로 꽤 잘 돌아가는 듯하다. 퍼블리셔가 중지 요청서(cease-and-desist)를 보낼 수는 있다. 하지만 이식판들이 이렇게 쉽고 빠르게 만들어졌다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 걸 무엇으로 막을까."
           },
           {
             "t": "p",
-            "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
-          },
-          {
-            "t": "video",
-            "yt": "ZdBRAz9yvro"
+            "x": "몇몇 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 잡을 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑 낮은 온라인 서버까지 돌아갔다. 대부분 PS2나 PS3 시대(PS3-era) 타이틀이다. PS3의 RAM이 약 512MB였으니 메모리가 브라우저 이식을 가로막지 않게 된 지도 꽤 됐다."
           },
           {
             "t": "p",
-            "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트는 잡혀 있지만 공개 출시일은 아직 없다."
+            "x": "달라진 건 Claude Opus 5.5를 밤새 돌려 두기만 하면 게임 하나가 디컴파일된다는 점이다. 퍼블리셔 법무팀은 당분간 야근을 피하기 어렵겠다."
           }
         ]
       },
-      "lead_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png",
       "text": {
         "en": {
-          "headline": "Stephenson's Whenere brings\nAI storytelling to Fortnite",
-          "body": "Neal Stephenson's company Whenere is bringing an AI-driven storytelling platform to Fortnite.",
-          "mini_headline": "Whenere brings AI stories to Fortnite",
+          "headline": "AI agents port Halo and GTA\nto the browser overnight",
+          "body": "AI coding agents decompiled Halo, GTA: Vice City and Black Ops into browser ports overnight, and they seem to work.",
+          "mini_headline": "AI ports games to the browser",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi author Neal Stephenson's company Whenere is bringing Jane Austen's Pride and Prejudice to Fortnite. Whenere describes itself as a \"web-based script editor to help you create immersive, cinematic stories that can be watched directly within Fortnite.\""
+                "x": "In the past couple of weeks, hundreds of vibe-coded, AI-decompiled emulators and games have appeared out of thin air, because Claude Opus 5.5 is extremely good at decompiling. A game's source code can now be reconstructed in record time, something that used to take coders months."
               },
               {
                 "t": "p",
-                "x": "Rather than recreating the book, it builds settings such as Netherfield Park where users pick a location, script movement and add dialogue (self-written or with the assistance of AI), then publish on Whenere's Fortnite island."
+                "x": "The most concerning example yet: AI-decompiled web browser ports of Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and The Simpsons: Hit and Run actually seem to run very well. Publishers can send cease-and-desist letters, but the ports were clearly easy and fast to make, so what stops people from vibe-coding new ones?"
               },
               {
                 "t": "p",
-                "x": "Whenere uses Dreamlands, an AI tool powered by Google's Gemini, to \"generate much of the furniture and décor and maintain historical accuracy.\" Stephenson told Google: \"This can be a place where AI is augmenting and enhancing creativity, not replacing it.\""
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "Some ports seemed borderline flawless. Hit and Run can target 240fps, and one of four Halo: CE browser ports had working online servers with low ping. Most are PS2- or PS3-era titles, and the PS3 had about 512MB of RAM, so memory hasn't limited browser ports for a while."
               },
               {
                 "t": "p",
-                "x": "Aftermath argues the AI-generated assets could turn off fanfic writers, calling it \"another bit of AI hype.\" A closed playtest is planned; there's no public release date yet."
+                "x": "The difference is that Claude Opus 5.5 can be left running overnight to decompile a game. Publishers' legal teams are going to be working overtime for the foreseeable future."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
-          "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
-          "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
+          "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
+          "body": "AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
+          "mini_headline": "AI, 게임을 브라우저로 옮기다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi 작가 Neal Stephenson이 세운 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite에 옮겨 온다. Whenere는 자사를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+                "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임이 난데없이 수백 개나 쏟아졌다. Claude Opus 5.5의 디컴파일 실력이 워낙 뛰어난 덕이다. 코더들이 몇 달씩 매달리던 게임 소스 코드 복원이 이제는 기록적인 시간 안에 끝난다."
               },
               {
                 "t": "p",
-                "x": "책을 그대로 옮기기보다 Netherfield Park 같은 배경을 꾸린다. 사용자는 장소를 고르고 움직임을 스크립트로 짠 다음 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 붙여 Whenere의 Fortnite 섬에 공개한다."
+                "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이다. 실제로 꽤 잘 돌아가는 듯하다. 퍼블리셔가 중지 요청서(cease-and-desist)를 보낼 수는 있다. 하지만 이식판들이 이렇게 쉽고 빠르게 만들어졌다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 걸 무엇으로 막을까."
               },
               {
                 "t": "p",
-                "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "몇몇 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 잡을 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑 낮은 온라인 서버까지 돌아갔다. 대부분 PS2나 PS3 시대(PS3-era) 타이틀이다. PS3의 RAM이 약 512MB였으니 메모리가 브라우저 이식을 가로막지 않게 된 지도 꽤 됐다."
               },
               {
                 "t": "p",
-                "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트는 잡혀 있지만 공개 출시일은 아직 없다."
+                "x": "달라진 건 Claude Opus 5.5를 밤새 돌려 두기만 하면 게임 하나가 디컴파일된다는 점이다. 퍼블리셔 법무팀은 당분간 야근을 피하기 어렵겠다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WhenereのAI物語が\nFortniteに登場",
-          "body": "WhenereがFortniteにAI-drivenの物語プラットフォームを導入する。",
-          "mini_headline": "Whenere、FortniteにAI物語を導入",
+          "headline": "AIがHaloとGTAを\n一夜でブラウザ移植",
+          "body": "AIエージェントがHaloやGTAを一夜でブラウザに移植し、動作するようだ。",
+          "mini_headline": "AIがゲームをブラウザへ移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi作家Neal Stephensonの会社Whenereが、Jane Austenの『高慢と偏見（Pride and Prejudice）』をFortniteに持ち込む。Whenereは自らを「Fortnite内で直接視聴できる、没入感のあるシネマティックな物語づくりを支援するweb-basedのスクリプトエディター」と説明している。"
+                "x": "この数週間で、バイブコーディング（vibe-coded）で作られ、AIで逆コンパイルされた（AI-decompiled）エミュレーターやゲームが何百本も突如として現れた。Claude Opus 5.5が逆コンパイルに極めて長けているためだ。かつてはコーダーが何か月もかけていたゲームのソースコード復元が、いまや記録的な速さで可能になった。"
               },
               {
                 "t": "p",
-                "x": "原作をそのまま再現するのではなく、Netherfield Parkのような舞台を用意する。ユーザーは場所を選び、動きをスクリプト化し、セリフ（self-writtenで自作するか、AIの助けを借りる）を加えたうえで、WhenereのFortnite島で公開する。"
+                "x": "これまでで最も懸念される例は、AIで逆コンパイルされたCall of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3、The Simpsons: Hit and Runのウェブブラウザ移植版が、実際にかなりよく動くように見えることだ。パブリッシャーは停止通告書（cease-and-desist）を送ることはできるが、これらの移植版は明らかに簡単かつ素早く作られた。ならば、人々がバイブコーディング（vibe-coding）で新たな移植版を作るのを何が止められるのか。"
               },
               {
                 "t": "p",
-                "x": "WhenereはGoogleのGeminiを基盤とするAIツールDreamlandsを使い、「家具や装飾（décor）の多くを生成し、歴史的な正確さを保つ」。StephensonはGoogleに「ここは、AIが創造性を置き換えるのではなく、補強し高める場になりうる」と語った。"
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "一部の移植版はほぼ完璧に見えた。Hit and Runは240fpsを目標にでき、Halo: CEのブラウザ移植版4本のうち1本は低pingのオンラインサーバーまで機能していた。大半はPS2またはPS3世代（PS3-era）のタイトルで、PS3のRAMは約512 MBだったため、メモリはしばらく前からブラウザ移植の制約になっていない。"
               },
               {
                 "t": "p",
-                "x": "Aftermathは、AI-generatedのアセットが二次創作の書き手を遠ざけかねないとし、「またひとつのAIハイプ」と評した。クローズドプレイテストが予定されているが、一般向けの発売日はまだない。"
+                "x": "違いは、Claude Opus 5.5を一晩動かしたままにしておけばゲームを逆コンパイルできる点にある。パブリッシャーの法務チームは、当面残業続きになるだろう。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Whenere把AI叙事\n带进Fortnite",
-          "body": "Stephenson的Whenere将把AI-driven叙事平台带进Fortnite。",
-          "mini_headline": "Whenere把AI故事带进Fortnite",
+          "headline": "AI智能体一夜之间\n把Halo和GTA搬进浏览器",
+          "body": "AI编程智能体一夜间把Halo和GTA反编译成浏览器版，且似乎能运行。",
+          "mini_headline": "AI把游戏移植到浏览器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi作家Neal Stephenson的公司Whenere正把Jane Austen的《傲慢与偏见》（Pride and Prejudice）带进Fortnite。Whenere自称是一款“web-based脚本编辑器，帮助你创作可直接在Fortnite内观看的沉浸式电影化故事”。"
+                "x": "过去几周里，数百个靠氛围编程（vibe-coded）做出、经AI反编译（AI-decompiled）的模拟器和游戏凭空冒了出来，原因是Claude Opus 5.5极其擅长反编译。过去程序员要花数月才能完成的游戏源代码重建，如今能以创纪录的速度完成。"
               },
               {
                 "t": "p",
-                "x": "它并不复刻原著，而是搭建Netherfield Park等场景：用户选择地点、编排走位、添加对白（可self-written自行撰写，也可借助AI），然后发布到Whenere的Fortnite岛上。"
+                "x": "迄今最令人担忧的例子是：经AI反编译的Call of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3和The Simpsons: Hit and Run网页浏览器移植版，实际运行起来似乎相当流畅。发行商可以发出停止侵权函（cease-and-desist），但这些移植版显然做起来既容易又快，那么又有什么能阻止人们用氛围编程（vibe-coding）做出新的版本？"
               },
               {
                 "t": "p",
-                "x": "Whenere使用由Google的Gemini驱动的AI工具Dreamlands来“生成大部分家具和装饰（décor），并保持历史准确性”。Stephenson对Google表示：“这里可以成为AI增强和提升创造力、而非取代创造力的地方。”"
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "部分移植版看上去近乎完美。Hit and Run可以以240fps为目标，四个Halo: CE浏览器移植版中有一个连低延迟的在线服务器都能正常使用。它们大多是PS2或PS3时代（PS3-era）的作品，而PS3只有约512 MB内存，因此内存早已不再是浏览器移植的限制。"
               },
               {
                 "t": "p",
-                "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
+                "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Whenere, de Stephenson, lleva\nrelatos con AI a Fortnite",
-          "body": "Whenere, la empresa de Neal Stephenson, lleva a Fortnite una plataforma narrativa AI-driven.",
-          "mini_headline": "Whenere lleva historias con AI a Fortnite",
+          "headline": "Agentes de IA portan Halo y GTA\nal navegador en una noche",
+          "body": "Agentes de IA llevaron Halo, GTA: Vice City y Black Ops al navegador en una noche, y parecen funcionar.",
+          "mini_headline": "La IA porta juegos al navegador",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Whenere, la empresa del autor de Sci-fi Neal Stephenson, lleva Pride and Prejudice, de Jane Austen, a Fortnite. Whenere se describe como un \"editor de guiones web-based que te ayuda a crear historias inmersivas y cinematográficas que se pueden ver directamente dentro de Fortnite\"."
+                "x": "En las últimas semanas han surgido de la nada cientos de emuladores y juegos vibe-coded y AI-decompiled, es decir, hechos con vibe coding y descompilados con IA, porque Claude Opus 5.5 es extremadamente bueno descompilando. El código fuente de un juego ahora puede reconstruirse en tiempo récord, algo que antes llevaba meses a los programadores."
               },
               {
                 "t": "p",
-                "x": "En lugar de recrear el libro, construye escenarios como Netherfield Park, donde los usuarios eligen una ubicación, guionizan el movimiento y añaden diálogos (self-written o con ayuda de AI), y luego publican en la isla de Fortnite de Whenere."
+                "x": "El ejemplo más preocupante hasta ahora: los ports para navegador web, descompilados con IA, de Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 y The Simpsons: Hit and Run parecen funcionar muy bien. Las editoras pueden enviar cartas de cese y desistimiento (cease-and-desist), pero los ports fueron claramente fáciles y rápidos de hacer, así que ¿qué impide que la gente cree otros nuevos mediante vibe-coding?"
               },
               {
                 "t": "p",
-                "x": "Whenere usa Dreamlands, una herramienta de AI basada en Gemini de Google, para \"generar gran parte del mobiliario y la decoración (décor) y mantener la precisión histórica\". Stephenson dijo a Google: \"Este puede ser un lugar donde la AI aumente y potencie la creatividad, no donde la sustituya\"."
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "Algunos ports parecían casi impecables. Hit and Run puede apuntar a 240fps, y uno de los cuatro ports de Halo: CE para navegador tenía servidores en línea operativos con ping bajo. La mayoría son títulos de la era PS2 o PS3 (PS2- or PS3-era), y la PS3 tenía unos 512MB de RAM, así que la memoria hace tiempo que no limita los ports para navegador."
               },
               {
                 "t": "p",
-                "x": "Aftermath sostiene que los recursos AI-generated podrían alejar a los autores de fanfic y lo califica de \"otra muestra más del hype de la AI\". Hay prevista una prueba de juego cerrada; aún no hay fecha de lanzamiento pública."
+                "x": "La diferencia es que Claude Opus 5.5 puede dejarse funcionando toda la noche para descompilar un juego. Los equipos legales de las editoras tendrán que hacer horas extra en el futuro previsible."
               }
             ]
           }
@@ -218,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Whenere의 AI 서사\nFortnite에 들어간다",
-          "body": "Whenere가 Fortnite에 AI-driven 스토리텔링 플랫폼을 들인다.",
-          "mini_headline": "Whenere, Fortnite에 AI 스토리 도입",
+          "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
+          "body": "AI 에이전트가 하룻밤 새 Halo와 GTA를 브라우저로 이식했다.",
+          "mini_headline": "AI가 게임을 브라우저로 이식하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi 작가 Neal Stephenson의 회사 Whenere가 Jane Austen의 『오만과 편견(Pride and Prejudice)』을 Fortnite로 가져온다. Whenere는 스스로를 \"Fortnite 안에서 바로 볼 수 있는 몰입감 있는 시네마틱 스토리를 만들도록 돕는 web-based 스크립트 에디터\"라고 소개한다."
+                "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임 수백 개가 난데없이 등장했다. Claude Opus 5.5가 디컴파일에 매우 뛰어나기 때문이다. 예전에는 코더들이 몇 달씩 걸리던 게임 소스 코드 복원이 이제 기록적인 시간 안에 가능하다."
               },
               {
                 "t": "p",
-                "x": "책을 그대로 재현하지 않고 Netherfield Park 같은 배경을 만든다. 사용자는 장소를 고르고, 움직임을 스크립트로 짜고, 대사(self-written 방식으로 직접 쓰거나 AI의 도움을 받는다)를 더한 뒤 Whenere의 Fortnite 섬에 공개한다."
+                "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이 실제로 꽤 잘 돌아가는 듯하다는 점이다. 퍼블리셔는 중지 요청서(cease-and-desist)를 보낼 수 있지만, 이 이식판들은 분명 쉽고 빠르게 만들어졌다. 그렇다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 것을 무엇이 막을 수 있을까."
               },
               {
                 "t": "p",
-                "x": "Whenere는 Google의 Gemini 기반 AI 도구 Dreamlands로 \"가구와 장식(décor)의 상당 부분을 생성하고 역사적 고증을 유지한다.\" Stephenson은 Google에 이렇게 말했다. \"이곳은 AI가 창의성을 대체하지 않고 보강하고 끌어올리는 곳이 될 수 있다.\""
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "일부 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 할 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑이 낮은 온라인 서버까지 작동했다. 대부분 PS2 또는 PS3 시대(PS3-era) 타이틀이며, PS3의 RAM은 약 512MB였으니 메모리가 브라우저 이식의 걸림돌이 되지 않은 지는 꽤 됐다."
               },
               {
                 "t": "p",
-                "x": "Aftermath는 AI-generated 에셋이 팬픽 작가들의 반감을 살 수 있다며 이를 \"또 하나의 AI 과대 선전\"이라고 평했다. 비공개 플레이테스트가 예정돼 있고, 아직 공개 출시일은 없다."
+                "x": "달라진 점은 Claude Opus 5.5를 밤새 돌려 두면 게임 하나를 디컴파일할 수 있다는 것이다. 퍼블리셔의 법무팀은 당분간 야근을 이어 가게 될 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WhenereのAI物語が\nFortniteに登場",
-          "body": "WhenereがFortniteにAI-drivenの物語プラットフォームを導入する。",
-          "mini_headline": "Whenere、FortniteにAI物語を導入",
+          "headline": "AIがHaloとGTAを\n一夜でブラウザ移植",
+          "body": "AIエージェントがHaloやGTAを一夜でブラウザに移植し、動作するようだ。",
+          "mini_headline": "AIがゲームをブラウザへ移植",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi作家Neal Stephensonの会社Whenereが、Jane Austenの『高慢と偏見（Pride and Prejudice）』をFortniteに持ち込む。Whenereは自らを「Fortnite内で直接視聴できる、没入感のあるシネマティックな物語づくりを支援するweb-basedのスクリプトエディター」と説明している。"
+                "x": "この数週間で、バイブコーディング（vibe-coded）で作られ、AIで逆コンパイルされた（AI-decompiled）エミュレーターやゲームが何百本も突如として現れた。Claude Opus 5.5が逆コンパイルに極めて長けているためだ。かつてはコーダーが何か月もかけていたゲームのソースコード復元が、いまや記録的な速さで可能になった。"
               },
               {
                 "t": "p",
-                "x": "原作をそのまま再現するのではなく、Netherfield Parkのような舞台を用意する。ユーザーは場所を選び、動きをスクリプト化し、セリフ（self-writtenで自作するか、AIの助けを借りる）を加えたうえで、WhenereのFortnite島で公開する。"
+                "x": "これまでで最も懸念される例は、AIで逆コンパイルされたCall of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3、The Simpsons: Hit and Runのウェブブラウザ移植版が、実際にかなりよく動くように見えることだ。パブリッシャーは停止通告書（cease-and-desist）を送ることはできるが、これらの移植版は明らかに簡単かつ素早く作られた。ならば、人々がバイブコーディング（vibe-coding）で新たな移植版を作るのを何が止められるのか。"
               },
               {
                 "t": "p",
-                "x": "WhenereはGoogleのGeminiを基盤とするAIツールDreamlandsを使い、「家具や装飾（décor）の多くを生成し、歴史的な正確さを保つ」。StephensonはGoogleに「ここは、AIが創造性を置き換えるのではなく、補強し高める場になりうる」と語った。"
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "一部の移植版はほぼ完璧に見えた。Hit and Runは240fpsを目標にでき、Halo: CEのブラウザ移植版4本のうち1本は低pingのオンラインサーバーまで機能していた。大半はPS2またはPS3世代（PS3-era）のタイトルで、PS3のRAMは約512 MBだったため、メモリはしばらく前からブラウザ移植の制約になっていない。"
               },
               {
                 "t": "p",
-                "x": "Aftermathは、AI-generatedのアセットが二次創作の書き手を遠ざけかねないとし、「またひとつのAIハイプ」と評した。クローズドプレイテストが予定されているが、一般向けの発売日はまだない。"
+                "x": "違いは、Claude Opus 5.5を一晩動かしたままにしておけばゲームを逆コンパイルできる点にある。パブリッシャーの法務チームは、当面残業続きになるだろう。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Whenere把AI叙事\n带进Fortnite",
-          "body": "Stephenson的Whenere将把AI-driven叙事平台带进Fortnite。",
-          "mini_headline": "Whenere把AI故事带进Fortnite",
+          "headline": "AI智能体一夜之间\n把Halo和GTA搬进浏览器",
+          "body": "AI编程智能体一夜间把Halo和GTA反编译成浏览器版，且似乎能运行。",
+          "mini_headline": "AI把游戏移植到浏览器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Sci-fi作家Neal Stephenson的公司Whenere正把Jane Austen的《傲慢与偏见》（Pride and Prejudice）带进Fortnite。Whenere自称是一款“web-based脚本编辑器，帮助你创作可直接在Fortnite内观看的沉浸式电影化故事”。"
+                "x": "过去几周里，数百个靠氛围编程（vibe-coded）做出、经AI反编译（AI-decompiled）的模拟器和游戏凭空冒了出来，原因是Claude Opus 5.5极其擅长反编译。过去程序员要花数月才能完成的游戏源代码重建，如今能以创纪录的速度完成。"
               },
               {
                 "t": "p",
-                "x": "它并不复刻原著，而是搭建Netherfield Park等场景：用户选择地点、编排走位、添加对白（可self-written自行撰写，也可借助AI），然后发布到Whenere的Fortnite岛上。"
+                "x": "迄今最令人担忧的例子是：经AI反编译的Call of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3和The Simpsons: Hit and Run网页浏览器移植版，实际运行起来似乎相当流畅。发行商可以发出停止侵权函（cease-and-desist），但这些移植版显然做起来既容易又快，那么又有什么能阻止人们用氛围编程（vibe-coding）做出新的版本？"
               },
               {
                 "t": "p",
-                "x": "Whenere使用由Google的Gemini驱动的AI工具Dreamlands来“生成大部分家具和装饰（décor），并保持历史准确性”。Stephenson对Google表示：“这里可以成为AI增强和提升创造力、而非取代创造力的地方。”"
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "部分移植版看上去近乎完美。Hit and Run可以以240fps为目标，四个Halo: CE浏览器移植版中有一个连低延迟的在线服务器都能正常使用。它们大多是PS2或PS3时代（PS3-era）的作品，而PS3只有约512 MB内存，因此内存早已不再是浏览器移植的限制。"
               },
               {
                 "t": "p",
-                "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
+                "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Whenere, de Stephenson, lleva\nrelatos con AI a Fortnite",
-          "body": "Whenere, la empresa de Neal Stephenson, lleva a Fortnite una plataforma narrativa AI-driven.",
-          "mini_headline": "Whenere lleva historias con AI a Fortnite",
+          "headline": "Agentes de IA portan Halo y GTA\nal navegador en una noche",
+          "body": "Agentes de IA llevaron Halo, GTA: Vice City y Black Ops al navegador en una noche, y parecen funcionar.",
+          "mini_headline": "La IA porta juegos al navegador",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
               },
               {
                 "t": "p",
-                "x": "Whenere, la empresa del autor de Sci-fi Neal Stephenson, lleva Pride and Prejudice, de Jane Austen, a Fortnite. Whenere se describe como un \"editor de guiones web-based que te ayuda a crear historias inmersivas y cinematográficas que se pueden ver directamente dentro de Fortnite\"."
+                "x": "En las últimas semanas han surgido de la nada cientos de emuladores y juegos vibe-coded y AI-decompiled, es decir, hechos con vibe coding y descompilados con IA, porque Claude Opus 5.5 es extremadamente bueno descompilando. El código fuente de un juego ahora puede reconstruirse en tiempo récord, algo que antes llevaba meses a los programadores."
               },
               {
                 "t": "p",
-                "x": "En lugar de recrear el libro, construye escenarios como Netherfield Park, donde los usuarios eligen una ubicación, guionizan el movimiento y añaden diálogos (self-written o con ayuda de AI), y luego publican en la isla de Fortnite de Whenere."
+                "x": "El ejemplo más preocupante hasta ahora: los ports para navegador web, descompilados con IA, de Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 y The Simpsons: Hit and Run parecen funcionar muy bien. Las editoras pueden enviar cartas de cese y desistimiento (cease-and-desist), pero los ports fueron claramente fáciles y rápidos de hacer, así que ¿qué impide que la gente cree otros nuevos mediante vibe-coding?"
               },
               {
                 "t": "p",
-                "x": "Whenere usa Dreamlands, una herramienta de AI basada en Gemini de Google, para \"generar gran parte del mobiliario y la decoración (décor) y mantener la precisión histórica\". Stephenson dijo a Google: \"Este puede ser un lugar donde la AI aumente y potencie la creatividad, no donde la sustituya\"."
-              },
-              {
-                "t": "video",
-                "yt": "ZdBRAz9yvro"
+                "x": "Algunos ports parecían casi impecables. Hit and Run puede apuntar a 240fps, y uno de los cuatro ports de Halo: CE para navegador tenía servidores en línea operativos con ping bajo. La mayoría son títulos de la era PS2 o PS3 (PS2- or PS3-era), y la PS3 tenía unos 512MB de RAM, así que la memoria hace tiempo que no limita los ports para navegador."
               },
               {
                 "t": "p",
-                "x": "Aftermath sostiene que los recursos AI-generated podrían alejar a los autores de fanfic y lo califica de \"otra muestra más del hype de la AI\". Hay prevista una prueba de juego cerrada; aún no hay fecha de lanzamiento pública."
+                "x": "La diferencia es que Claude Opus 5.5 puede dejarse funcionando toda la noche para descompilar un juego. Los equipos legales de las editoras tendrán que hacer horas extra en el futuro previsible."
               }
             ]
           }
@@ -356,15 +315,15 @@
       }
     },
     {
-      "id": "games-doom-dlss5",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
-      "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
-      "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
+      "id": "sister-driving-llm-cost",
+      "source_lang": "ko",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
+      "eyebrow": "AI NEWS",
+      "headline": "LLM 게임, 하루 비용\n135만 원에 대출까지",
+      "body": "데모 이용자 급증에 하루 1,000달러 AI 비용이 들어 개발사가 대출을 받았다.",
+      "mini_headline": "LLM 게임 하루 135만 원",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1781573",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -372,416 +331,405 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+            "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+            "cap": "여동생 운전 가르치기 대표 이미지 (사진출처: 스팀)"
           },
           {
             "t": "p",
-            "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 64-bit Windows 애플리케이션으로 바꾸고 DirectX 12 프레젠테이션 경로를 붙였다."
+            "x": "스트리머들의 입소문을 탄 스팀 게임 '여동생 운전 가르치기'가 개발팀의 재정난을 불러왔다. 개발사 이지 폭스(Easy Fox)는 7일 스팀 공지로 1.2.9 업데이트와 개발 상황을 공유하며, 데모 이용자 급증에 따른 서비스 장애와 유지 비용 대책을 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "핵심은 AI다. 플레이어가 말하듯 운전을 가르치면 AI가 이를 처리해 여동생이 운전하는 구조라, 사용하는 AI 모델에 따라 경험이 크게 갈린다."
           },
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+            "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+            "cap": "여동생 운전 가르치기 1.2.9 업데이트 공지 이미지 (사진출처: 스팀)"
           },
           {
             "t": "p",
-            "x": "DOOM은 여전히 내부에서 320x200 해상도로 렌더링해 1280x800 DX12 창에 띄운다. 다만 이제는 수정된 렌더러가 매 프레임 깊이, 노멀, 모션 데이터를 뽑아낸다."
-          },
-          {
-            "t": "video",
-            "yt": "KFZ5NHp2Wj0"
-          },
-          {
-            "t": "p",
-            "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 디테일 가운데 일부는 꽤 낯설게 보이기도 한다."
+            "x": "한 달 새 데모 이용자가 20배 이상 늘며 지출이 하루 1,000달러(약 134만 원)에 달했다. 정식 출시 때는 패키지 가격에 예상 AI 사용료를 포함해 추가 과금을 막을 전망이다. 이지 폭스는 \"데모 운영을 이어가기 위해 은행 대출도 받은 상황\"이라며, 네 명뿐인 팀이라 데모를 예상보다 일찍 종료할 수도 있지만 아직 결정하지는 않았다고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+            "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+            "cap": "여동생 운전 가르치기 스크린샷 (사진출처: 스팀)"
           },
           {
             "t": "p",
-            "x": "GPLv2 소스 코드는 GitHub에 올라와 있다. DOOM IWAD는 사용자가 직접 준비해 포트를 빌드하면 된다."
+            "x": "품질 문제도 있다. 주력이던 구글 제미나이가 폭증한 트래픽에 잦은 오류를 내자 보조 모델인 오픈AI 모델 비중이 커졌고, 장황한 응답과 기계적인 어투가 나타났다. 이지 폭스는 답변 길이와 어조 개선을 최우선 과제로 삼고, 주행 지시를 반대로 수행하는 오작동도 줄여 나갈 계획이다."
           }
         ]
       },
-      "lead_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg",
       "text": {
-        "en": {
-          "headline": "Original DOOM gets DLSS 5\nneural rendering in DX12 port",
-          "body": "Developer Nikolai Zhivotenko's DirectX 12 port of DOOM adds an NVIDIA DLSS 5 neural rendering mode.",
-          "mini_headline": "DOOM gets DLSS 5 neural rendering",
+        "ko": {
+          "headline": "LLM 게임, 하루 비용\n135만 원에 대출까지",
+          "body": "데모 이용자 급증에 하루 1,000달러 AI 비용이 들어 개발사가 대출을 받았다.",
+          "mini_headline": "LLM 게임 하루 135만 원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "여동생 운전 가르치기 대표 이미지 (사진출처: 스팀)"
               },
               {
                 "t": "p",
-                "x": "Developer Nikolai Zhivotenko has brought NVIDIA DLSS 5 Neural Rendering to the original 1993 DOOM through a custom Windows port. DOOM + DLSS 5 is based on Linux DOOM 1.10, converted into a 64-bit Windows application with a DirectX 12 presentation path."
+                "x": "스트리머들의 입소문을 탄 스팀 게임 '여동생 운전 가르치기'가 개발팀의 재정난을 불러왔다. 개발사 이지 폭스(Easy Fox)는 7일 스팀 공지로 1.2.9 업데이트와 개발 상황을 공유하며, 데모 이용자 급증에 따른 서비스 장애와 유지 비용 대책을 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "핵심은 AI다. 플레이어가 말하듯 운전을 가르치면 AI가 이를 처리해 여동생이 운전하는 구조라, 사용하는 AI 모델에 따라 경험이 크게 갈린다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "여동생 운전 가르치기 1.2.9 업데이트 공지 이미지 (사진출처: 스팀)"
               },
               {
                 "t": "p",
-                "x": "DOOM still renders internally at 320x200, presented in a 1280x800 DX12 window, but the modified renderer now generates depth, normal, and motion data for every frame."
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "Modes include DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K and nearest-neighbor 4x. The DLSS 5 mode runs the DLSS 4.5 path before applying DLSS 5 Neural Rendering, if the DLSS 5 Swapper setup is installed. Some reconstructed details can look rather unusual."
+                "x": "한 달 새 데모 이용자가 20배 이상 늘며 지출이 하루 1,000달러(약 134만 원)에 달했다. 정식 출시 때는 패키지 가격에 예상 AI 사용료를 포함해 추가 과금을 막을 전망이다. 이지 폭스는 \"데모 운영을 이어가기 위해 은행 대출도 받은 상황\"이라며, 네 명뿐인 팀이라 데모를 예상보다 일찍 종료할 수도 있지만 아직 결정하지는 않았다고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "여동생 운전 가르치기 스크린샷 (사진출처: 스팀)"
               },
               {
                 "t": "p",
-                "x": "The GPLv2 source code is on GitHub; users supply their own DOOM IWAD and build the port."
+                "x": "품질 문제도 있다. 주력이던 구글 제미나이가 폭증한 트래픽에 잦은 오류를 내자 보조 모델인 오픈AI 모델 비중이 커졌고, 장황한 응답과 기계적인 어투가 나타났다. 이지 폭스는 답변 길이와 어조 개선을 최우선 과제로 삼고, 주행 지시를 반대로 수행하는 오작동도 줄여 나갈 계획이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
-          "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
-          "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
+        "en": {
+          "headline": "LLM game's 1.35 million won\ndaily AI bill forces a loan",
+          "body": "A surge in demo players pushed AI costs to $1,000 a day, so the developer took out a loan.",
+          "mini_headline": "LLM game: 1.35 million won a day",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "Teaching Your Sister to Drive key art (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 64-bit Windows 애플리케이션으로 바꾸고 DirectX 12 프레젠테이션 경로를 붙였다."
+                "x": "Teaching Your Sister to Drive, a Steam game that spread by word of mouth among streamers, has pushed its development team into financial trouble. Developer Easy Fox shared the 1.2.9 update and its development status in a Steam notice on the 7th, outlining the service outages caused by the surge in demo players and its plans for upkeep costs."
+              },
+              {
+                "t": "p",
+                "x": "AI is at the core. Players teach the sister to drive by talking to her, and AI processes what they say so she drives, which means the experience varies widely depending on the AI model used."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "Teaching Your Sister to Drive 1.2.9 update notice (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "DOOM은 여전히 내부에서 320x200 해상도로 렌더링해 1280x800 DX12 창에 띄운다. 다만 이제는 수정된 렌더러가 매 프레임 깊이, 노멀, 모션 데이터를 뽑아낸다."
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 디테일 가운데 일부는 꽤 낯설게 보이기도 한다."
+                "x": "Demo players grew more than 20-fold in a month, pushing spending to $1,000 (about 1.34 million won) a day. At full release, the package price is expected to include estimated AI usage fees to avoid extra charges. Easy Fox said, \"We have even taken out a bank loan to keep the demo running,\" adding that as a team of only four it may end the demo earlier than expected, though it has not decided yet."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "Teaching Your Sister to Drive screenshot (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "GPLv2 소스 코드는 GitHub에 올라와 있다. DOOM IWAD는 사용자가 직접 준비해 포트를 빌드하면 된다."
+                "x": "There are quality problems too. When Google Gemini, the main model, threw frequent errors under the traffic spike, the share of the backup OpenAI model grew, bringing verbose answers and a mechanical tone. Easy Fox has made improving answer length and tone its top priority and plans to reduce glitches where driving instructions are carried out in reverse."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初代DOOMにDLSS 5\nDX12版でニューラル描画",
-          "body": "DirectX 12版DOOMにNVIDIA DLSS 5のニューラル描画モードが加わった。",
-          "mini_headline": "DOOMにDLSS 5のニューラル描画",
+          "headline": "LLMゲーム、1日の費用\n135万ウォン、融資まで",
+          "body": "デモ利用者の急増でAI費用が1日1,000ドルに達し、開発元は融資を受けた。",
+          "mini_headline": "LLMゲーム、1日135万ウォン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "『妹に運転を教える』メインビジュアル（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "開発者のNikolai Zhivotenkoが、独自のWindows移植版を通じて1993年のオリジナル版DOOMにNVIDIA DLSS 5 Neural Renderingを導入した。DOOM + DLSS 5はLinux DOOM 1.10をベースに、DirectX 12の表示パスを備えた64-bit Windowsアプリケーションへ変換したものだ。"
+                "x": "ストリーマーの口コミで話題になったSteamゲーム『妹に運転を教える』が、開発チームの財政難を招いた。開発元のEasy Fox（イージーフォックス）は7日、Steamのお知らせで1.2.9アップデートと開発状況を共有し、デモ利用者の急増によるサービス障害と維持費への対策を明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "核となるのはAIだ。プレイヤーが話しかけるように運転を教えるとAIがそれを処理して妹が運転する仕組みのため、使用するAIモデルによって体験が大きく変わる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "『妹に運転を教える』1.2.9アップデートのお知らせ画像（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "DOOMはいまも内部では320x200で描画し、1280x800のDX12ウィンドウに表示するが、改修されたレンダラーが毎フレームの深度、法線、モーションデータを生成するようになった。"
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "モードはDLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K と nearest-neighbor 4x を備える。DLSS 5 Swapperのセットアップが導入されていれば、DLSS 5モードはDLSS 4.5のパスを経たうえでDLSS 5 Neural Renderingを適用する。再構成されたディテールの一部は、かなり奇妙に見えることがある。"
+                "x": "1か月でデモ利用者が20倍以上に増え、支出は1日1,000ドル（約134万ウォン）に達した。正式リリース時にはパッケージ価格に想定AI利用料を含め、追加課金を避ける見通しだ。Easy Foxは「デモの運営を続けるため、銀行から融資も受けている状況」とし、4人だけのチームのためデモを予想より早く終了する可能性もあるが、まだ決定はしていないと述べた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "『妹に運転を教える』スクリーンショット（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "GPLv2のソースコードはGitHubで公開されており、ユーザーは自分のDOOM IWADを用意して移植版をビルドする。"
+                "x": "品質の問題もある。主力だったGoogle Geminiが急増したトラフィックで頻繁にエラーを起こしたため、補助モデルであるOpenAIのモデルの比重が高まり、冗長な応答や機械的な口調が現れた。Easy Foxは回答の長さと口調の改善を最優先課題とし、運転指示を逆に実行する誤作動も減らしていく計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "初代DOOM迎来DLSS 5\nDX12移植版实现神经渲染",
-          "body": "DirectX 12移植版DOOM新增NVIDIA DLSS 5神经渲染模式。",
-          "mini_headline": "DOOM迎来DLSS 5神经渲染",
+          "headline": "LLM游戏日耗135万韩元\n开发商不得不贷款",
+          "body": "试玩用户激增使AI费用每天达1,000美元，开发商因此申请了贷款。",
+          "mini_headline": "LLM游戏每天135万韩元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "《教妹妹开车》主视觉图（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "开发者Nikolai Zhivotenko通过自制的Windows移植版，为1993年的初代DOOM带来了NVIDIA DLSS 5 Neural Rendering。DOOM + DLSS 5基于Linux DOOM 1.10，被转换为带有DirectX 12呈现路径的64-bit Windows应用程序。"
+                "x": "在主播圈口碑走红的Steam游戏《教妹妹开车》让开发团队陷入了财务困境。开发商Easy Fox于7日通过Steam公告分享了1.2.9更新与开发进展，并说明了试玩用户激增导致的服务故障及维护成本对策。"
+              },
+              {
+                "t": "p",
+                "x": "核心在于AI。玩家像说话一样教妹妹开车，AI处理这些指令后由妹妹驾驶，因此体验会因所用AI模型不同而差异很大。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "《教妹妹开车》1.2.9更新公告图片（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "DOOM内部仍以320x200渲染，并在1280x800的DX12窗口中呈现，但修改后的渲染器如今会为每一帧生成深度、法线和运动数据。"
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "可选模式包括DLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K 和 nearest-neighbor 4x 等。若已安装DLSS 5 Swapper设置，DLSS 5模式会先运行DLSS 4.5路径，再应用DLSS 5 Neural Rendering。部分重建出的细节看起来可能相当怪异。"
+                "x": "一个月内试玩用户增长超过20倍，支出达到每天1,000美元（约134万韩元）。正式发售时，预计会把预估的AI使用费计入售价，以避免额外收费。Easy Fox表示“为了维持试玩运营，已向银行贷款”，并称由于团队只有四人，可能会比预期更早结束试玩，但尚未作出决定。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "《教妹妹开车》截图（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "GPLv2源代码已发布在GitHub上；用户需自备DOOM IWAD并自行构建该移植版。"
+                "x": "质量问题同样存在。主力模型Google Gemini因流量暴增频繁出错，作为备用的OpenAI模型占比随之上升，出现了回答冗长、语气机械的问题。Easy Fox将改善回答长度和语气列为首要任务，并计划减少把驾驶指令反向执行的故障。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un port DX12 del DOOM original\nsuma DLSS 5 Neural Rendering",
-          "body": "El port a DirectX 12 de DOOM creado por Nikolai Zhivotenko añade un modo de renderizado neuronal NVIDIA DLSS 5.",
-          "mini_headline": "DOOM recibe el renderizado neuronal DLSS 5",
+          "headline": "Un juego con LLM, 1,35 millones\nde wones al día y un préstamo",
+          "body": "El auge de jugadores de la demo elevó el gasto en IA a 1.000 dólares diarios y el estudio pidió un préstamo.",
+          "mini_headline": "Juego con LLM: 1,35 millones de wones al día",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "Imagen principal de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "El desarrollador Nikolai Zhivotenko ha llevado NVIDIA DLSS 5 Neural Rendering al DOOM original de 1993 mediante un port personalizado para Windows. DOOM + DLSS 5 se basa en Linux DOOM 1.10, convertido en una aplicación de Windows de 64-bit con una ruta de presentación DirectX 12."
+                "x": "Enseñar a conducir a la hermana, un juego de Steam que se popularizó por el boca a boca entre streamers, ha llevado a su equipo de desarrollo a problemas financieros. El desarrollador Easy Fox compartió el día 7, en un aviso de Steam, la actualización 1.2.9 y el estado del desarrollo, y explicó las fallas del servicio causadas por el aumento de jugadores de la demo y sus medidas ante los costos de mantenimiento."
+              },
+              {
+                "t": "p",
+                "x": "La clave es la IA. El jugador enseña a conducir hablando con naturalidad, la IA procesa esas indicaciones y la hermana conduce, así que la experiencia cambia mucho según el modelo de IA que se use."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "Imagen del aviso de la actualización 1.2.9 de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "DOOM sigue renderizando internamente a 320x200 y se muestra en una ventana DX12 de 1280x800, pero el renderizador modificado ahora genera datos de profundidad, normales y movimiento en cada fotograma."
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "Los modos incluyen DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K y nearest-neighbor 4x. El modo DLSS 5 ejecuta la ruta de DLSS 4.5 antes de aplicar DLSS 5 Neural Rendering, siempre que esté instalada la configuración DLSS 5 Swapper. Algunos detalles reconstruidos pueden verse bastante extraños."
+                "x": "En un mes, los jugadores de la demo se multiplicaron por más de 20 y el gasto llegó a 1.000 dólares (unos 1,34 millones de wones) al día. En el lanzamiento oficial, se prevé incluir en el precio del paquete el costo estimado de uso de IA para evitar cobros adicionales. Easy Fox afirmó: \"Incluso hemos pedido un préstamo bancario para seguir operando la demo\", y añadió que, al ser un equipo de solo cuatro personas, podría cerrar la demo antes de lo previsto, aunque aún no lo ha decidido."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "Captura de pantalla de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "El código fuente, bajo GPLv2, está en GitHub; los usuarios aportan su propio DOOM IWAD y compilan el port."
+                "x": "También hay problemas de calidad. Cuando Google Gemini, el modelo principal, empezó a fallar con frecuencia por el aumento del tráfico, creció el peso del modelo de respaldo de OpenAI, con respuestas extensas y un tono mecánico. Easy Fox considera prioritario mejorar la longitud y el tono de las respuestas, y planea reducir los errores en los que las instrucciones de conducción se ejecutan al revés."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "원조 DOOM DX12판에\nDLSS 5 뉴럴 렌더링",
-          "body": "DirectX 12판 DOOM에 NVIDIA DLSS 5 뉴럴 렌더링이 들어갔다.",
-          "mini_headline": "DOOM에 DLSS 5 뉴럴 렌더링",
+        "en": {
+          "headline": "LLM game's 1.35 million won\ndaily AI bill forces a loan",
+          "body": "A surge in demo players pushed AI costs to $1,000 a day, so the developer took out a loan.",
+          "mini_headline": "LLM game: 1.35 million won a day",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "Teaching Your Sister to Drive key art (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "개발자 Nikolai Zhivotenko가 직접 만든 Windows 포트로 1993년 원작 DOOM에 NVIDIA DLSS 5 Neural Rendering을 적용했다. DOOM + DLSS 5는 Linux DOOM 1.10을 바탕으로 DirectX 12 프레젠테이션 경로를 갖춘 64-bit Windows 애플리케이션으로 변환한 것이다."
+                "x": "Teaching Your Sister to Drive, a Steam game that spread by word of mouth among streamers, has pushed its development team into financial trouble. Developer Easy Fox shared the 1.2.9 update and its development status in a Steam notice on the 7th, outlining the service outages caused by the surge in demo players and its plans for upkeep costs."
+              },
+              {
+                "t": "p",
+                "x": "AI is at the core. Players teach the sister to drive by talking to her, and AI processes what they say so she drives, which means the experience varies widely depending on the AI model used."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "Teaching Your Sister to Drive 1.2.9 update notice (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "DOOM은 여전히 내부적으로 320x200 해상도로 렌더링하고 1280x800 DX12 창에 표시하지만, 수정된 렌더러가 이제 매 프레임의 깊이, 노멀, 모션 데이터를 생성한다."
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "모드로는 DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K, nearest-neighbor 4x 등이 있다. DLSS 5 Swapper 설정이 설치돼 있으면 DLSS 5 모드는 DLSS 4.5 경로를 거친 뒤 DLSS 5 Neural Rendering을 적용한다. 재구성된 일부 디테일은 꽤 낯설어 보일 수 있다."
+                "x": "Demo players grew more than 20-fold in a month, pushing spending to $1,000 (about 1.34 million won) a day. At full release, the package price is expected to include estimated AI usage fees to avoid extra charges. Easy Fox said, \"We have even taken out a bank loan to keep the demo running,\" adding that as a team of only four it may end the demo earlier than expected, though it has not decided yet."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "Teaching Your Sister to Drive screenshot (Image: Steam)"
               },
               {
                 "t": "p",
-                "x": "GPLv2 소스 코드는 GitHub에 있으며, 사용자가 DOOM IWAD를 직접 준비해 포트를 빌드한다."
+                "x": "There are quality problems too. When Google Gemini, the main model, threw frequent errors under the traffic spike, the share of the backup OpenAI model grew, bringing verbose answers and a mechanical tone. Easy Fox has made improving answer length and tone its top priority and plans to reduce glitches where driving instructions are carried out in reverse."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初代DOOMにDLSS 5\nDX12版でニューラル描画",
-          "body": "DirectX 12版DOOMにNVIDIA DLSS 5のニューラル描画モードが加わった。",
-          "mini_headline": "DOOMにDLSS 5のニューラル描画",
+          "headline": "LLMゲーム、1日の費用\n135万ウォン、融資まで",
+          "body": "デモ利用者の急増でAI費用が1日1,000ドルに達し、開発元は融資を受けた。",
+          "mini_headline": "LLMゲーム、1日135万ウォン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "『妹に運転を教える』メインビジュアル（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "開発者のNikolai Zhivotenkoが、独自のWindows移植版を通じて1993年のオリジナル版DOOMにNVIDIA DLSS 5 Neural Renderingを導入した。DOOM + DLSS 5はLinux DOOM 1.10をベースに、DirectX 12の表示パスを備えた64-bit Windowsアプリケーションへ変換したものだ。"
+                "x": "ストリーマーの口コミで話題になったSteamゲーム『妹に運転を教える』が、開発チームの財政難を招いた。開発元のEasy Fox（イージーフォックス）は7日、Steamのお知らせで1.2.9アップデートと開発状況を共有し、デモ利用者の急増によるサービス障害と維持費への対策を明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "核となるのはAIだ。プレイヤーが話しかけるように運転を教えるとAIがそれを処理して妹が運転する仕組みのため、使用するAIモデルによって体験が大きく変わる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "『妹に運転を教える』1.2.9アップデートのお知らせ画像（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "DOOMはいまも内部では320x200で描画し、1280x800のDX12ウィンドウに表示するが、改修されたレンダラーが毎フレームの深度、法線、モーションデータを生成するようになった。"
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "モードはDLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K と nearest-neighbor 4x を備える。DLSS 5 Swapperのセットアップが導入されていれば、DLSS 5モードはDLSS 4.5のパスを経たうえでDLSS 5 Neural Renderingを適用する。再構成されたディテールの一部は、かなり奇妙に見えることがある。"
+                "x": "1か月でデモ利用者が20倍以上に増え、支出は1日1,000ドル（約134万ウォン）に達した。正式リリース時にはパッケージ価格に想定AI利用料を含め、追加課金を避ける見通しだ。Easy Foxは「デモの運営を続けるため、銀行から融資も受けている状況」とし、4人だけのチームのためデモを予想より早く終了する可能性もあるが、まだ決定はしていないと述べた。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "『妹に運転を教える』スクリーンショット（画像出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "GPLv2のソースコードはGitHubで公開されており、ユーザーは自分のDOOM IWADを用意して移植版をビルドする。"
+                "x": "品質の問題もある。主力だったGoogle Geminiが急増したトラフィックで頻繁にエラーを起こしたため、補助モデルであるOpenAIのモデルの比重が高まり、冗長な応答や機械的な口調が現れた。Easy Foxは回答の長さと口調の改善を最優先課題とし、運転指示を逆に実行する誤作動も減らしていく計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "初代DOOM迎来DLSS 5\nDX12移植版实现神经渲染",
-          "body": "DirectX 12移植版DOOM新增NVIDIA DLSS 5神经渲染模式。",
-          "mini_headline": "DOOM迎来DLSS 5神经渲染",
+          "headline": "LLM游戏日耗135万韩元\n开发商不得不贷款",
+          "body": "试玩用户激增使AI费用每天达1,000美元，开发商因此申请了贷款。",
+          "mini_headline": "LLM游戏每天135万韩元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "《教妹妹开车》主视觉图（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "开发者Nikolai Zhivotenko通过自制的Windows移植版，为1993年的初代DOOM带来了NVIDIA DLSS 5 Neural Rendering。DOOM + DLSS 5基于Linux DOOM 1.10，被转换为带有DirectX 12呈现路径的64-bit Windows应用程序。"
+                "x": "在主播圈口碑走红的Steam游戏《教妹妹开车》让开发团队陷入了财务困境。开发商Easy Fox于7日通过Steam公告分享了1.2.9更新与开发进展，并说明了试玩用户激增导致的服务故障及维护成本对策。"
+              },
+              {
+                "t": "p",
+                "x": "核心在于AI。玩家像说话一样教妹妹开车，AI处理这些指令后由妹妹驾驶，因此体验会因所用AI模型不同而差异很大。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "《教妹妹开车》1.2.9更新公告图片（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "DOOM内部仍以320x200渲染，并在1280x800的DX12窗口中呈现，但修改后的渲染器如今会为每一帧生成深度、法线和运动数据。"
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "可选模式包括DLSS Ray Reconstruction、DLSS 4 (Preset K)、DLSS 4.5 (Preset L)、AMD FSR 2.2、Anime4K 和 nearest-neighbor 4x 等。若已安装DLSS 5 Swapper设置，DLSS 5模式会先运行DLSS 4.5路径，再应用DLSS 5 Neural Rendering。部分重建出的细节看起来可能相当怪异。"
+                "x": "一个月内试玩用户增长超过20倍，支出达到每天1,000美元（约134万韩元）。正式发售时，预计会把预估的AI使用费计入售价，以避免额外收费。Easy Fox表示“为了维持试玩运营，已向银行贷款”，并称由于团队只有四人，可能会比预期更早结束试玩，但尚未作出决定。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "《教妹妹开车》截图（图片来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "GPLv2源代码已发布在GitHub上；用户需自备DOOM IWAD并自行构建该移植版。"
+                "x": "质量问题同样存在。主力模型Google Gemini因流量暴增频繁出错，作为备用的OpenAI模型占比随之上升，出现了回答冗长、语气机械的问题。Easy Fox将改善回答长度和语气列为首要任务，并计划减少把驾驶指令反向执行的故障。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un port DX12 del DOOM original\nsuma DLSS 5 Neural Rendering",
-          "body": "El port a DirectX 12 de DOOM creado por Nikolai Zhivotenko añade un modo de renderizado neuronal NVIDIA DLSS 5.",
-          "mini_headline": "DOOM recibe el renderizado neuronal DLSS 5",
+          "headline": "Un juego con LLM, 1,35 millones\nde wones al día y un préstamo",
+          "body": "El auge de jugadores de la demo elevó el gasto en IA a 1.000 dólares diarios y el estudio pidió un préstamo.",
+          "mini_headline": "Juego con LLM: 1,35 millones de wones al día",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+                "cap": "Imagen principal de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "El desarrollador Nikolai Zhivotenko ha llevado NVIDIA DLSS 5 Neural Rendering al DOOM original de 1993 mediante un port personalizado para Windows. DOOM + DLSS 5 se basa en Linux DOOM 1.10, convertido en una aplicación de Windows de 64-bit con una ruta de presentación DirectX 12."
+                "x": "Enseñar a conducir a la hermana, un juego de Steam que se popularizó por el boca a boca entre streamers, ha llevado a su equipo de desarrollo a problemas financieros. El desarrollador Easy Fox compartió el día 7, en un aviso de Steam, la actualización 1.2.9 y el estado del desarrollo, y explicó las fallas del servicio causadas por el aumento de jugadores de la demo y sus medidas ante los costos de mantenimiento."
+              },
+              {
+                "t": "p",
+                "x": "La clave es la IA. El jugador enseña a conducir hablando con naturalidad, la IA procesa esas indicaciones y la hermana conduce, así que la experiencia cambia mucho según el modelo de IA que se use."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/1.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+                "cap": "Imagen del aviso de la actualización 1.2.9 de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "DOOM sigue renderizando internamente a 320x200 y se muestra en una ventana DX12 de 1280x800, pero el renderizador modificado ahora genera datos de profundidad, normales y movimiento en cada fotograma."
-              },
-              {
-                "t": "video",
-                "yt": "KFZ5NHp2Wj0"
-              },
-              {
-                "t": "p",
-                "x": "Los modos incluyen DLSS Ray Reconstruction, DLSS 4 (Preset K), DLSS 4.5 (Preset L), AMD FSR 2.2, Anime4K y nearest-neighbor 4x. El modo DLSS 5 ejecuta la ruta de DLSS 4.5 antes de aplicar DLSS 5 Neural Rendering, siempre que esté instalada la configuración DLSS 5 Swapper. Algunos detalles reconstruidos pueden verse bastante extraños."
+                "x": "En un mes, los jugadores de la demo se multiplicaron por más de 20 y el gasto llegó a 1.000 dólares (unos 1,34 millones de wones) al día. En el lanzamiento oficial, se prevé incluir en el precio del paquete el costo estimado de uso de IA para evitar cobros adicionales. Easy Fox afirmó: \"Incluso hemos pedido un préstamo bancario para seguir operando la demo\", y añadió que, al ser un equipo de solo cuatro personas, podría cerrar la demo antes de lo previsto, aunque aún no lo ha decidido."
               },
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/3.jpg"
+                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+                "cap": "Captura de pantalla de Enseñar a conducir a la hermana (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "El código fuente, bajo GPLv2, está en GitHub; los usuarios aportan su propio DOOM IWAD y compilan el port."
+                "x": "También hay problemas de calidad. Cuando Google Gemini, el modelo principal, empezó a fallar con frecuencia por el aumento del tráfico, creció el peso del modelo de respaldo de OpenAI, con respuestas extensas y un tono mecánico. Easy Fox considera prioritario mejorar la longitud y el tono de las respuestas, y planea reducir los errores en los que las instrucciones de conducción se ejecutan al revés."
               }
             ]
           }
@@ -789,15 +737,15 @@
       }
     },
     {
-      "id": "games-ctr-recomp",
+      "id": "dreamlands-1-0-public",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
-      "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
-      "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+      "eyebrow": "AI NEWS",
+      "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
+      "body": "Dreamlands가 1.0을 열어 누구나 AI로 3D 에셋과 월드를 만든다.",
+      "mini_headline": "Dreamlands 1.0 전면 공개",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -805,198 +753,269 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
           },
           {
             "t": "p",
-            "x": "Crash Team Racing: Turbocharged는 PS1 레이싱 게임을 PC로 옮긴 무료 포트다. 사람이 만든(human-made) CTR native decomp 프로젝트 위에 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 얹었다."
+            "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 3D 에셋과 월드 전체를 생성하며, 요금제는 월 $20부터 $200까지다. 출시 무대는 Google Cloud의 Gemini at Work 행사였고, 플랫폼은 Google Cloud Marketplace에서 제공된다."
           },
           {
             "t": "p",
-            "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
+            "x": "Unity와 Ubisoft를 거친 Thomas Tobin CEO는 세 가지 기능을 내세웠다. One-Click Texturing은 편집 1회에 $0.10, 약 10초면 오브젝트 스타일을 바꾼다."
           },
           {
-            "t": "video",
-            "yt": "e2bI3uvGHlI"
-          },
-          {
-            "t": "p",
-            "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 그는 기능마다 계획을 세워 무엇을 바꿀지 정한 뒤, 검토하기 쉽게 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 잡는 PGXP가 대표적인 예다."
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
           },
           {
             "t": "p",
-            "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할지 몰라도 결국 AI가 만든 결과물이라는 얘기다."
+            "x": "Surface는 나무, 금속, 유리, 천을 자동으로 알아보는 레이어 시스템을 얹어 리스킨을 빠르게 해 준다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+          },
+          {
+            "t": "p",
+            "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 짓고, 실제 세계의 배치를 본떠 도시도 만든다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+          },
+          {
+            "t": "p",
+            "x": "3인 스튜디오 Whenere는 이 도구로 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성했고, 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 예전 같으면 자기네 규모의 팀에게 \"정말 불가능했던\" 일이라고 했다. Dreamlands는 Google Cloud 위에서 돌아가며 Gemini 모델을 쓴다."
           }
         ]
       },
-      "lead_image": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg",
       "text": {
         "en": {
-          "headline": "PS1 Crash Team Racing's PC port\nhad its code written by LLMs",
-          "body": "Developer Camzie99 confirmed LLMs wrote the code for the free 4K Crash Team Racing PC port, function by function.",
-          "mini_headline": "Crash Team Racing PC port coded by LLMs",
+          "headline": "Dreamlands opens its AI\n3D world builder to all",
+          "body": "Dreamlands launched its 1.0 platform publicly, letting anyone generate game-ready 3D assets and whole worlds with AI.",
+          "mini_headline": "Dreamlands 1.0 goes public",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged, a free PC port of the PS1 racer, builds on the human-made CTR native decomp project and adds native-resolution rendering \"up to 4K and beyond,\" widescreen, enhanced textures and up to 240fps."
+                "x": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI, with plans from $20 to $200 a month. It launched at Google Cloud's Gemini at Work event, on the Google Cloud Marketplace."
               },
               {
                 "t": "p",
-                "x": "Developer Camzie99 confirmed in a YouTube comment that Large Language Models were used to create the port."
+                "x": "CEO Thomas Tobin, formerly of Unity and Ubisoft, highlighted three features. One-Click Texturing restyles an object in about 10 seconds for $0.10 per edit."
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "\"I did use LLMs to write code, however it wasn't with vague prompts,\" Camzie99 says. They planned each feature and decided what needed to change, then had an LLM write the code \"in smaller chunks, function by function, or limited to a single file\" so it was easy to review. PGXP, the PS1 wobble fix, is cited as an example."
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+ notes there's no AI disclaimer on the project page or promotional materials, calling the omission deceptive: it may dodge \"vibe-coded\" status, but it's still the product of AI."
+                "x": "Surface adds a layering system that auto-detects wood, metal, glass and fabric for quick reskinning."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building and City Makers generate structures from modular kits and floor plans, and can build cities from real-world layouts. Plugins cover Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max and Omniverse."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "Three-person studio Whenere used it to rebuild Netherfield Park for its Pride & Prejudice Fortnite world, turning photos into editable 3D models; CEO Karen Laur called the result \"truly impossible\" for a team their size before. Dreamlands runs on Google Cloud and uses Gemini models."
               }
             ]
           }
         },
         "ko": {
-          "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
-          "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
-          "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
+          "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
+          "body": "Dreamlands가 1.0을 열어 누구나 AI로 3D 에셋과 월드를 만든다.",
+          "mini_headline": "Dreamlands 1.0 전면 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged는 PS1 레이싱 게임을 PC로 옮긴 무료 포트다. 사람이 만든(human-made) CTR native decomp 프로젝트 위에 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 얹었다."
+                "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 3D 에셋과 월드 전체를 생성하며, 요금제는 월 $20부터 $200까지다. 출시 무대는 Google Cloud의 Gemini at Work 행사였고, 플랫폼은 Google Cloud Marketplace에서 제공된다."
               },
               {
                 "t": "p",
-                "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
+                "x": "Unity와 Ubisoft를 거친 Thomas Tobin CEO는 세 가지 기능을 내세웠다. One-Click Texturing은 편집 1회에 $0.10, 약 10초면 오브젝트 스타일을 바꾼다."
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 그는 기능마다 계획을 세워 무엇을 바꿀지 정한 뒤, 검토하기 쉽게 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 잡는 PGXP가 대표적인 예다."
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할지 몰라도 결국 AI가 만든 결과물이라는 얘기다."
+                "x": "Surface는 나무, 금속, 유리, 천을 자동으로 알아보는 레이어 시스템을 얹어 리스킨을 빠르게 해 준다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 짓고, 실제 세계의 배치를 본떠 도시도 만든다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "3인 스튜디오 Whenere는 이 도구로 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성했고, 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 예전 같으면 자기네 규모의 팀에게 \"정말 불가능했던\" 일이라고 했다. Dreamlands는 Google Cloud 위에서 돌아가며 Gemini 모델을 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PS1レースゲームのPC版\nコードはLLMsが執筆",
-          "body": "Crash Team RacingのPC移植版のコードは、LLMsが関数単位で書いた。",
-          "mini_headline": "Crash Team RacingのPC版、LLMsがコード執筆",
+          "headline": "Dreamlands 1.0\nAI 3D世界構築を開放",
+          "body": "Dreamlandsが1.0を公開し、誰でもAIで3D資産と世界を生成できるようにした。",
+          "mini_headline": "Dreamlands 1.0が一般公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "PS1のレースゲームを無料でPCに移植したCrash Team Racing: Turbochargedは、人の手で作られた（human-made）CTR native decompプロジェクトを土台に、「4K 以上まで」のnative-resolutionレンダリング、ワイドスクリーン、強化テクスチャ、最大240fpsを加えている。"
+                "x": "Dreamlandsは1.0プラットフォームを一般公開し、誰でもAIでゲームにそのまま使える3Dアセットや世界全体を生成できるようにする。料金プランは月額$20から$200まで。Google CloudのGemini at Workイベントで発表され、Google Cloud Marketplaceで提供される。"
               },
               {
                 "t": "p",
-                "x": "開発者のCamzie99は、YouTubeのコメントで、移植版の制作にLarge Language Modelsを使ったことを認めた。"
+                "x": "UnityとUbisoftに在籍していたCEOのThomas Tobin氏は、3つの機能を強調した。One-Click Texturingは、1回の編集あたり$0.10、約10秒でオブジェクトのスタイルを変更する。"
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "「コードを書くのにLLMsを使ったのは確かだが、あいまいなプロンプトで書かせたわけではない」とCamzie99は言う。各機能を計画して何を変えるべきかを決め、そのうえでレビューしやすいよう「小さな塊に分け、関数ごとに、あるいは単一ファイルに限定して」LLMにコードを書かせた。例として挙げられているのが、PS1特有の揺れを直すPGXPだ。"
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+は、プロジェクトページにも宣伝素材にもAIに関する注記がないと指摘し、この省略は欺瞞的だとする。「vibe-coded」の扱いは避けられるかもしれないが、それでもAIの産物であることに変わりはない。"
+                "x": "Surfaceは、木、金属、ガラス、布を自動検出するレイヤーシステムを追加し、素早いリスキンを可能にする。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural BuildingとCity Makersは、モジュール式キットや間取り図から建物を生成し、現実世界の配置をもとに都市を作ることもできる。プラグインはUnity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max、Omniverseに対応する。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "3人のスタジオWhenereはこれを使い、『Pride & Prejudice』のFortniteワールドでNetherfield Parkを再構築し、写真を編集可能な3Dモデルに変換した。CEOのKaren Laur氏は、この成果は以前なら自分たちの規模のチームには「本当に不可能」だったと述べた。DreamlandsはGoogle Cloud上で動作し、Geminiモデルを使用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PS1赛车游戏PC移植版\n代码由LLMs编写",
-          "body": "免费4K Crash Team Racing PC移植版的代码由LLMs逐个函数编写。",
-          "mini_headline": "Crash Team Racing PC版由LLMs编写代码",
+          "headline": "Dreamlands 1.0\nAI 3D世界构建器全面开放",
+          "body": "Dreamlands公开推出1.0平台，任何人都能用AI生成可用于游戏的3D资产和世界。",
+          "mini_headline": "Dreamlands 1.0全面开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged是这款PS1赛车游戏的免费PC移植版，以人工打造（human-made）的CTR native decomp项目为基础，加入了“最高4K 乃至更高”的native-resolution渲染、宽屏、增强纹理以及最高240fps。"
+                "x": "Dreamlands正式公开推出1.0平台，让任何人都能用AI生成可直接用于游戏的3D资产乃至完整世界，订阅方案为每月$20至$200。该平台在Google Cloud的Gemini at Work活动上发布，并上架Google Cloud Marketplace。"
               },
               {
                 "t": "p",
-                "x": "开发者Camzie99在YouTube评论中证实，该移植版的制作使用了Large Language Models。"
+                "x": "曾任职于Unity和Ubisoft的CEO Thomas Tobin重点介绍了三项功能。One-Click Texturing可在约10秒内改变物体风格，每次编辑收费$0.10。"
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "“我确实用LLMs写了代码，但不是靠含糊的提示词，”Camzie99表示。Camzie99先规划每项功能、决定需要改动的部分，再让LLM“以更小的块、逐个函数，或限定在单个文件内”编写代码，以便审查。修正PS1画面抖动的PGXP就是一例。"
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+指出，项目页面和宣传材料上都没有AI声明，并称这种省略具有欺骗性：它或许能避开“vibe-coded”的标签，但依然是AI的产物。"
+                "x": "Surface新增分层系统，可自动识别木材、金属、玻璃和织物，便于快速更换外观。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building和City Makers可根据模块化套件和平面图生成建筑，还能依据真实世界的布局构建城市。插件支持Unity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max和Omniverse。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "三人工作室Whenere用它为其Pride & Prejudice Fortnite世界重建了Netherfield Park，把照片转换为可编辑的3D模型；CEO Karen Laur表示，这样的成果对他们这种规模的团队来说过去“真的不可能”。Dreamlands运行在Google Cloud上，并使用Gemini模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Crash Team Racing (PS1) en PC:\nsu código lo escribieron LLMs",
-          "body": "Camzie99 confirmó que LLMs crearon función por función el código del port gratuito en 4K de Crash Team Racing para PC.",
-          "mini_headline": "El port a PC de Crash Team Racing, programado con LLMs",
+          "headline": "Dreamlands abre a todos\nsu creador de mundos 3D con IA",
+          "body": "Dreamlands lanzó al público su plataforma 1.0 para crear con IA recursos 3D y mundos listos para juegos.",
+          "mini_headline": "Dreamlands 1.0 llega al público",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged, un port gratuito para PC del juego de carreras de PS1, se basa en el proyecto CTR native decomp, human-made, y añade renderizado native-resolution \"hasta 4K y más allá\", pantalla panorámica, texturas mejoradas y hasta 240fps."
+                "x": "Dreamlands lanza al público su plataforma 1.0, que permite a cualquiera generar con IA recursos 3D listos para juegos y mundos completos, con planes de $20 a $200 al mes. Se presentó en el evento Gemini at Work de Google Cloud, en Google Cloud Marketplace."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Camzie99 confirmó en un comentario de YouTube que se usaron Large Language Models para crear el port."
+                "x": "El CEO Thomas Tobin, que trabajó antes en Unity y Ubisoft, destacó tres funciones. One-Click Texturing cambia el estilo de un objeto en unos 10 segundos por $0.10 por edición."
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "\"Sí usé LLMs para escribir código, pero no con prompts vagos\", dice Camzie99. Planificó cada función y decidió qué había que cambiar, y luego hizo que un LLM escribiera el código \"en fragmentos más pequeños, función por función, o limitado a un solo archivo\" para que fuera fácil de revisar. Se cita como ejemplo PGXP, la corrección del tambaleo de PS1."
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+ señala que no hay ningún aviso sobre AI en la página del proyecto ni en los materiales promocionales, y califica la omisión de engañosa: puede que esquive la etiqueta de \"vibe-coded\", pero sigue siendo producto de la AI."
+                "x": "Surface añade un sistema de capas que detecta automáticamente madera, metal, vidrio y tela para cambiar el acabado con rapidez."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building y City Makers generan estructuras a partir de kits modulares y planos de planta, y pueden construir ciudades a partir de trazados del mundo real. Los plugins abarcan Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max y Omniverse."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "El estudio de tres personas Whenere lo usó para reconstruir Netherfield Park en su mundo de Fortnite de Pride & Prejudice, convirtiendo fotos en modelos 3D editables; su CEO, Karen Laur, dijo que antes el resultado habría sido \"realmente imposible\" para un equipo de su tamaño. Dreamlands funciona sobre Google Cloud y usa modelos Gemini."
               }
             ]
           }
@@ -1004,137 +1023,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "PS1 레이서 PC 포트\n코드는 LLMs가 썼다",
-          "body": "Crash Team Racing PC 포트 코드는 LLMs가 함수 단위로 썼다.",
-          "mini_headline": "Crash Team Racing PC 포트, LLMs가 코딩",
+          "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
+          "body": "Dreamlands가 1.0을 공개해 누구나 AI로 3D 에셋과 월드를 만든다.",
+          "mini_headline": "Dreamlands 1.0 전면 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "PS1 레이싱 게임의 무료 PC 포트인 Crash Team Racing: Turbocharged는 사람이 만든(human-made) CTR native decomp 프로젝트를 바탕으로 \"4K 이상까지\" 지원하는 native-resolution 렌더링, 와이드스크린, 향상된 텍스처, 최대 240fps를 더했다."
+                "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 수 있는 3D 에셋과 월드 전체를 생성할 수 있으며, 요금제는 월 $20부터 $200까지다. 출시는 Google Cloud의 Gemini at Work 행사에서 이뤄졌고, Google Cloud Marketplace에서 제공된다."
               },
               {
                 "t": "p",
-                "x": "개발자 Camzie99는 YouTube 댓글에서 이 포트를 만드는 데 Large Language Models를 썼다고 확인했다."
+                "x": "Unity와 Ubisoft 출신인 Thomas Tobin CEO는 세 가지 기능을 강조했다. One-Click Texturing은 편집 1회당 $0.10에 약 10초 만에 오브젝트의 스타일을 바꾼다."
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "\"코드를 쓰는 데 LLMs를 쓴 건 맞지만, 모호한 프롬프트로 한 건 아니다.\" Camzie99의 말이다. 각 기능을 계획하고 무엇을 바꿔야 할지 정한 다음, 검토하기 쉽도록 LLM에게 \"더 작은 덩어리로, 함수 하나씩, 또는 단일 파일로 범위를 제한해\" 코드를 쓰게 했다. PS1 특유의 화면 흔들림을 고치는 PGXP가 그 예로 꼽힌다."
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+는 프로젝트 페이지와 홍보 자료 어디에도 AI 사용 고지가 없다고 지적하며 이 누락을 기만적이라고 평했다. \"vibe-coded\"라는 딱지는 피할 수 있을지 몰라도 결국 AI의 산물이라는 것이다."
+                "x": "Surface는 나무, 금속, 유리, 천을 자동으로 감지하는 레이어 시스템을 더해 빠르게 리스킨할 수 있게 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 생성하고, 실제 세계의 배치를 바탕으로 도시도 만들 수 있다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "3인 스튜디오 Whenere는 이를 활용해 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성하며 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 그 결과물이 예전이라면 자신들 규모의 팀에게 \"정말 불가능했던\" 일이라고 말했다. Dreamlands는 Google Cloud에서 운영되며 Gemini 모델을 사용한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PS1レースゲームのPC版\nコードはLLMsが執筆",
-          "body": "Crash Team RacingのPC移植版のコードは、LLMsが関数単位で書いた。",
-          "mini_headline": "Crash Team RacingのPC版、LLMsがコード執筆",
+          "headline": "Dreamlands 1.0\nAI 3D世界構築を開放",
+          "body": "Dreamlandsが1.0を公開し、誰でもAIで3D資産と世界を生成できるようにした。",
+          "mini_headline": "Dreamlands 1.0が一般公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "PS1のレースゲームを無料でPCに移植したCrash Team Racing: Turbochargedは、人の手で作られた（human-made）CTR native decompプロジェクトを土台に、「4K 以上まで」のnative-resolutionレンダリング、ワイドスクリーン、強化テクスチャ、最大240fpsを加えている。"
+                "x": "Dreamlandsは1.0プラットフォームを一般公開し、誰でもAIでゲームにそのまま使える3Dアセットや世界全体を生成できるようにする。料金プランは月額$20から$200まで。Google CloudのGemini at Workイベントで発表され、Google Cloud Marketplaceで提供される。"
               },
               {
                 "t": "p",
-                "x": "開発者のCamzie99は、YouTubeのコメントで、移植版の制作にLarge Language Modelsを使ったことを認めた。"
+                "x": "UnityとUbisoftに在籍していたCEOのThomas Tobin氏は、3つの機能を強調した。One-Click Texturingは、1回の編集あたり$0.10、約10秒でオブジェクトのスタイルを変更する。"
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "「コードを書くのにLLMsを使ったのは確かだが、あいまいなプロンプトで書かせたわけではない」とCamzie99は言う。各機能を計画して何を変えるべきかを決め、そのうえでレビューしやすいよう「小さな塊に分け、関数ごとに、あるいは単一ファイルに限定して」LLMにコードを書かせた。例として挙げられているのが、PS1特有の揺れを直すPGXPだ。"
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+は、プロジェクトページにも宣伝素材にもAIに関する注記がないと指摘し、この省略は欺瞞的だとする。「vibe-coded」の扱いは避けられるかもしれないが、それでもAIの産物であることに変わりはない。"
+                "x": "Surfaceは、木、金属、ガラス、布を自動検出するレイヤーシステムを追加し、素早いリスキンを可能にする。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural BuildingとCity Makersは、モジュール式キットや間取り図から建物を生成し、現実世界の配置をもとに都市を作ることもできる。プラグインはUnity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max、Omniverseに対応する。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "3人のスタジオWhenereはこれを使い、『Pride & Prejudice』のFortniteワールドでNetherfield Parkを再構築し、写真を編集可能な3Dモデルに変換した。CEOのKaren Laur氏は、この成果は以前なら自分たちの規模のチームには「本当に不可能」だったと述べた。DreamlandsはGoogle Cloud上で動作し、Geminiモデルを使用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PS1赛车游戏PC移植版\n代码由LLMs编写",
-          "body": "免费4K Crash Team Racing PC移植版的代码由LLMs逐个函数编写。",
-          "mini_headline": "Crash Team Racing PC版由LLMs编写代码",
+          "headline": "Dreamlands 1.0\nAI 3D世界构建器全面开放",
+          "body": "Dreamlands公开推出1.0平台，任何人都能用AI生成可用于游戏的3D资产和世界。",
+          "mini_headline": "Dreamlands 1.0全面开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged是这款PS1赛车游戏的免费PC移植版，以人工打造（human-made）的CTR native decomp项目为基础，加入了“最高4K 乃至更高”的native-resolution渲染、宽屏、增强纹理以及最高240fps。"
+                "x": "Dreamlands正式公开推出1.0平台，让任何人都能用AI生成可直接用于游戏的3D资产乃至完整世界，订阅方案为每月$20至$200。该平台在Google Cloud的Gemini at Work活动上发布，并上架Google Cloud Marketplace。"
               },
               {
                 "t": "p",
-                "x": "开发者Camzie99在YouTube评论中证实，该移植版的制作使用了Large Language Models。"
+                "x": "曾任职于Unity和Ubisoft的CEO Thomas Tobin重点介绍了三项功能。One-Click Texturing可在约10秒内改变物体风格，每次编辑收费$0.10。"
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "“我确实用LLMs写了代码，但不是靠含糊的提示词，”Camzie99表示。Camzie99先规划每项功能、决定需要改动的部分，再让LLM“以更小的块、逐个函数，或限定在单个文件内”编写代码，以便审查。修正PS1画面抖动的PGXP就是一例。"
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+指出，项目页面和宣传材料上都没有AI声明，并称这种省略具有欺骗性：它或许能避开“vibe-coded”的标签，但依然是AI的产物。"
+                "x": "Surface新增分层系统，可自动识别木材、金属、玻璃和织物，便于快速更换外观。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building和City Makers可根据模块化套件和平面图生成建筑，还能依据真实世界的布局构建城市。插件支持Unity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max和Omniverse。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "三人工作室Whenere用它为其Pride & Prejudice Fortnite世界重建了Netherfield Park，把照片转换为可编辑的3D模型；CEO Karen Laur表示，这样的成果对他们这种规模的团队来说过去“真的不可能”。Dreamlands运行在Google Cloud上，并使用Gemini模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Crash Team Racing (PS1) en PC:\nsu código lo escribieron LLMs",
-          "body": "Camzie99 confirmó que LLMs crearon función por función el código del port gratuito en 4K de Crash Team Racing para PC.",
-          "mini_headline": "El port a PC de Crash Team Racing, programado con LLMs",
+          "headline": "Dreamlands abre a todos\nsu creador de mundos 3D con IA",
+          "body": "Dreamlands lanzó al público su plataforma 1.0 para crear con IA recursos 3D y mundos listos para juegos.",
+          "mini_headline": "Dreamlands 1.0 llega al público",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
               },
               {
                 "t": "p",
-                "x": "Crash Team Racing: Turbocharged, un port gratuito para PC del juego de carreras de PS1, se basa en el proyecto CTR native decomp, human-made, y añade renderizado native-resolution \"hasta 4K y más allá\", pantalla panorámica, texturas mejoradas y hasta 240fps."
+                "x": "Dreamlands lanza al público su plataforma 1.0, que permite a cualquiera generar con IA recursos 3D listos para juegos y mundos completos, con planes de $20 a $200 al mes. Se presentó en el evento Gemini at Work de Google Cloud, en Google Cloud Marketplace."
               },
               {
                 "t": "p",
-                "x": "El desarrollador Camzie99 confirmó en un comentario de YouTube que se usaron Large Language Models para crear el port."
+                "x": "El CEO Thomas Tobin, que trabajó antes en Unity y Ubisoft, destacó tres funciones. One-Click Texturing cambia el estilo de un objeto en unos 10 segundos por $0.10 por edición."
               },
               {
-                "t": "video",
-                "yt": "e2bI3uvGHlI"
-              },
-              {
-                "t": "p",
-                "x": "\"Sí usé LLMs para escribir código, pero no con prompts vagos\", dice Camzie99. Planificó cada función y decidió qué había que cambiar, y luego hizo que un LLM escribiera el código \"en fragmentos más pequeños, función por función, o limitado a un solo archivo\" para que fuera fácil de revisar. Se cita como ejemplo PGXP, la corrección del tambaleo de PS1."
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
               },
               {
                 "t": "p",
-                "x": "GamesRadar+ señala que no hay ningún aviso sobre AI en la página del proyecto ni en los materiales promocionales, y califica la omisión de engañosa: puede que esquive la etiqueta de \"vibe-coded\", pero sigue siendo producto de la AI."
+                "x": "Surface añade un sistema de capas que detecta automáticamente madera, metal, vidrio y tela para cambiar el acabado con rapidez."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+              },
+              {
+                "t": "p",
+                "x": "Procedural Building y City Makers generan estructuras a partir de kits modulares y planos de planta, y pueden construir ciudades a partir de trazados del mundo real. Los plugins abarcan Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max y Omniverse."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+              },
+              {
+                "t": "p",
+                "x": "El estudio de tres personas Whenere lo usó para reconstruir Netherfield Park en su mundo de Fortnite de Pride & Prejudice, convirtiendo fotos en modelos 3D editables; su CEO, Karen Laur, dijo que antes el resultado habría sido \"realmente imposible\" para un equipo de su tamaño. Dreamlands funciona sobre Google Cloud y usa modelos Gemini."
               }
             ]
           }
@@ -1142,15 +1209,15 @@
       }
     },
     {
-      "id": "games-loish-genai",
+      "id": "kutaragi-ai-daydreams",
       "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
-      "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
-      "mini_headline": "Loish, AI 사용 누명에 답하다",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "eyebrow": "AI NEWS",
+      "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
+      "body": "구타라기는 2028-29년엔 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
+      "mini_headline": "구타라기, AI가 게임을 넘어선다",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -1158,150 +1225,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 올라온 작업 과정 영상이 2023년에 직접 그린 그림임을 보여준다. Loish는 2003년부터 그림을 올려 왔다."
+            "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 지금 AI 기업을 이끈다. 그는 비디오 게임이 머지않아 AI 백일몽에 자리를 내줄 것이라고 확신하는 듯하다."
           },
           {
             "t": "p",
-            "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
+            "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 밝혔다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
+            "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며 2028년에서 2029년 무렵이면 오늘날 콘솔 수준의 속도로 돌아갈 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
+          },
+          {
+            "t": "p",
+            "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끄는 만큼 AI를 필연으로 홍보할 이해관계가 있다고 짚었다."
           }
         ]
       },
-      "lead_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
       "text": {
         "en": {
-          "headline": "Loish answers a false claim\nthat she used generative AI",
-          "body": "Artist Loish took to Instagram to explain why false gen-AI accusations matter and how to spot original creativity.",
-          "mini_headline": "Loish answers a false AI claim",
+          "headline": "Kutaragi predicts AI daydreams\nwill replace video games",
+          "body": "PlayStation's Ken Kutaragi says real-time AI video and music at console speed around 2028-29 will change all content.",
+          "mini_headline": "Kutaragi sees AI outgrowing games",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Artist Loish (Lois van Baarle, whose work appears in Horizon Zero Dawn) was accused \"over on Tiktok\" of using genAI in her artwork. In an Instagram video she showed how the piece could easily be identified as original: her feed has process videos of it, proving she made it in 2023. She has been posting art since 2003."
+                "x": "Ken Kutaragi, father of the PlayStation who retired from Sony in 2007, now runs AI firms and seems convinced video games will soon be replaced by AI daydreams."
               },
               {
                 "t": "p",
-                "x": "\"It's a rough time for artists,\" she wrote. \"We are forced to compete with slop in our social media algorithms and in our creative industries, while our work is relentlessly fed into this machine without our consent. Now we're at a point where we can be accused of using AI for our art, even when documenting every step of our process.\""
+                "x": "\"AI will transform games into entertainment, and change human sensibilities,\" he told a recent university panel, as reported by 4Gamer. \"The global game market is currently worth over 30 trillion Yen, but it might reach around 3,000 trillion Yen. If that happens, it won't even be called a game anymore.\""
               },
               {
                 "t": "p",
-                "x": "Her advice: \"Click beyond the comment section. Check profiles, watch process videos, learn the warning signs for AI generated imagery... Don't forget what makes us human!\""
+                "x": "\"Behind the scenes, research and development is advancing on the real-time generation of video and music using AI,\" he said, predicting it will run at the speed of today's consoles around 2028 to 2029. \"When that happens, all content will change... Imagining things will become content itself.\" The quotes were machine translated from Japanese."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ notes Kutaragi leads Cyber AI Entertainment and Ascent Robotics, giving him a vested interest in promoting AI as inevitable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
-          "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
-          "mini_headline": "Loish, AI 사용 누명에 답하다",
+          "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
+          "body": "구타라기는 2028-29년엔 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
+          "mini_headline": "구타라기, AI가 게임을 넘어선다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 올라온 작업 과정 영상이 2023년에 직접 그린 그림임을 보여준다. Loish는 2003년부터 그림을 올려 왔다."
+                "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 지금 AI 기업을 이끈다. 그는 비디오 게임이 머지않아 AI 백일몽에 자리를 내줄 것이라고 확신하는 듯하다."
               },
               {
                 "t": "p",
-                "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
+                "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 밝혔다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
+                "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며 2028년에서 2029년 무렵이면 오늘날 콘솔 수준의 속도로 돌아갈 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끄는 만큼 AI를 필연으로 홍보할 이해관계가 있다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Loish、生成AI\n使用の濡れ衣に反論",
-          "body": "LoishがInstagramで、誤ったgen-AI疑惑の問題と独創性の見分け方を語った。",
-          "mini_headline": "Loish、AI使用の濡れ衣に反論",
+          "headline": "久夛良木氏、AIの白昼夢が\nゲームに取って代わる",
+          "body": "久夛良木氏は2028-29年頃、リアルタイムAI映像・音楽が全コンテンツを変えると語る。",
+          "mini_headline": "久夛良木氏、AIはゲームを超えると予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "アーティストのLoish（Horizon Zero Dawnにも作品が登場するLois van Baarle）は、「Tiktokで」作品にgenAIを使ったと非難された。Instagramの動画で彼女は、この作品がオリジナルだと簡単に確認できる方法を示した。フィードには制作過程の動画があり、2023年に自分で描いたことが証明できる。彼女は2003年から作品を投稿し続けている。"
+                "x": "2007年にSonyを退いた「PlayStationの父」久夛良木健（Ken Kutaragi）氏は、現在AI企業を率いており、ビデオゲームはまもなくAIの白昼夢に取って代わられると確信しているようだ。"
               },
               {
                 "t": "p",
-                "x": "「アーティストにとってつらい時代だ」と彼女は書いた。「私たちはソーシャルメディアのアルゴリズムでもクリエイティブ業界でもスロップとの競争を強いられ、作品は同意もなくこの機械に絶え間なく注ぎ込まれている。いまや制作過程を一歩ずつすべて記録していても、作品にAIを使ったと非難されかねないところまで来ている」"
+                "x": "4Gamerの報道によると、同氏は最近の大学のパネルで「AIはゲームをエンターテインメントへと変え、人間の感性を変える」と語った。「世界のゲーム市場は現在30兆円超だが、3,000兆円規模に達するかもしれない。そうなれば、もはやゲームとは呼ばれないだろう」"
               },
               {
                 "t": "p",
-                "x": "彼女の助言はこうだ。「コメント欄の外までクリックしよう。プロフィールを確認し、制作過程の動画を見て、AI生成画像の危険信号を学ぼう……何が私たちを人間たらしめているのかを忘れないで！」"
+                "x": "「水面下では、AIを使った映像や音楽のリアルタイム生成の研究開発が進んでいる」と述べ、2028年から2029年頃には現在のゲーム機並みの速度で動作すると予測した。「そうなれば、あらゆるコンテンツが変わる……想像すること自体がコンテンツになる」。なお、引用は日本語からの機械翻訳である。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+は、Kutaragi氏がCyber AI EntertainmentとAscent Roboticsを率いており、AIを必然として宣伝することに利害関係があると指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Loish回应\n使用生成式AI的不实指控",
-          "body": "画师Loish在Instagram上解释gen-AI不实指控的危害及如何辨识原创。",
-          "mini_headline": "Loish回应AI使用不实指控",
+          "headline": "久多良木健：AI白日梦\n将取代电子游戏",
+          "body": "PlayStation之父久多良木健称，2028至29年左右实时AI影音将改变所有内容。",
+          "mini_headline": "久多良木健：AI将超越游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "画师Loish（Lois van Baarle，其作品曾出现在Horizon Zero Dawn中）被人“在Tiktok上”指控在作品中使用genAI。她在一段Instagram视频中展示了如何轻松证明这幅作品是原创：她的动态里有这幅作品的创作过程视频，证明它完成于2023年。她从2003年起就开始发布作品。"
+                "x": "2007年从Sony退休的“PlayStation之父”久多良木健（Ken Kutaragi）如今经营着AI公司，他似乎确信电子游戏很快将被AI白日梦取代。"
               },
               {
                 "t": "p",
-                "x": "“这是艺术家的艰难时期，”她写道。“我们被迫在社交媒体算法和创意行业中与粗制滥造的内容（slop）竞争，而我们的作品在未经同意的情况下被源源不断地喂给这台机器。如今，即便记录下创作过程的每一步，我们仍可能被指控用AI创作。”"
+                "x": "据4Gamer报道，他在近期一场大学座谈会上表示：“AI将把游戏转变为娱乐，并改变人类的感性。”“全球游戏市场目前规模超过30万亿日元，但可能达到约3,000万亿日元。如果那样，它甚至不会再被称为游戏。”"
               },
               {
                 "t": "p",
-                "x": "她的建议是：“别只看评论区，多点进去看看。查看主页，观看创作过程视频，了解AI生成图像的预警信号……别忘了是什么让我们成为人类！”"
+                "x": "他说：“在幕后，利用AI实时生成视频和音乐的研发正在推进。”并预测到2028年至2029年左右，其运行速度将达到当今游戏主机的水平。“到那时，所有内容都会改变……想象本身就会成为内容。”以上引语由日语机器翻译而来。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+指出，Kutaragi执掌Cyber AI Entertainment和Ascent Robotics，因此在宣扬AI必然到来一事上存在切身利益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Loish responde a la acusación\nfalsa de usar AI generativa",
-          "body": "Loish explicó en Instagram por qué importan las falsas acusaciones de gen-AI y cómo reconocer la creatividad original.",
-          "mini_headline": "Loish responde a una falsa acusación de AI",
+          "headline": "Kutaragi: ensoñaciones de IA\nreemplazarán a los videojuegos",
+          "body": "Ken Kutaragi cree que hacia 2028-29 el video y la música con IA en tiempo real cambiarán todo el contenido.",
+          "mini_headline": "Kutaragi ve a la IA superar los juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La artista Loish (Lois van Baarle, cuya obra aparece en Horizon Zero Dawn) fue acusada \"en Tiktok\" de usar genAI en sus ilustraciones. En un video de Instagram mostró cómo se podía identificar fácilmente la pieza como original: su feed tiene videos del proceso, que prueban que la hizo en 2023. Publica arte desde 2003."
+                "x": "Ken Kutaragi, padre de PlayStation que se retiró de Sony en 2007, dirige ahora empresas de IA y parece convencido de que los videojuegos pronto serán reemplazados por ensoñaciones de IA."
               },
               {
                 "t": "p",
-                "x": "\"Es un momento difícil para los artistas\", escribió. \"Nos vemos obligados a competir con slop en los algoritmos de las redes sociales y en nuestras industrias creativas, mientras nuestro trabajo alimenta sin descanso esta máquina sin nuestro consentimiento. Ahora hemos llegado a un punto en el que pueden acusarnos de usar AI en nuestro arte, incluso cuando documentamos cada paso de nuestro proceso.\""
+                "x": "\"La IA transformará los juegos en entretenimiento y cambiará la sensibilidad humana\", dijo en un reciente panel universitario, según informó 4Gamer. \"El mercado mundial de los videojuegos vale hoy más de 30 billones de yenes, pero podría llegar a unos 3.000 billones de yenes. Si eso ocurre, ya ni siquiera se llamará juego\"."
               },
               {
                 "t": "p",
-                "x": "Su consejo: \"Vayan más allá de la sección de comentarios. Revisen perfiles, vean videos del proceso, aprendan las señales de alerta de las imágenes generadas por AI... ¡No olviden lo que nos hace humanos!\""
+                "x": "\"Entre bastidores, avanza la investigación y el desarrollo de la generación en tiempo real de video y música mediante IA\", afirmó, y predijo que funcionará a la velocidad de las consolas actuales hacia 2028 o 2029. \"Cuando eso ocurra, todo el contenido cambiará... Imaginar cosas se convertirá en contenido en sí mismo\". Las citas se tradujeron automáticamente del japonés."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ señala que Kutaragi dirige Cyber AI Entertainment y Ascent Robotics, lo que le da un interés directo en presentar la IA como inevitable."
               }
             ]
           }
@@ -1309,105 +1399,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Loish, 생성형 AI\n사용 누명에 답하다",
-          "body": "Loish는 Instagram에서 gen-AI 누명의 문제와 원작 판별법을 짚었다.",
-          "mini_headline": "Loish, AI 사용 누명에 답하다",
+          "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
+          "body": "구타라기는 2028-29년 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
+          "mini_headline": "구타라기, AI가 게임을 넘어선다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "아티스트 Loish(Horizon Zero Dawn에 작품이 실린 Lois van Baarle)는 \"Tiktok에서\" 자기 작품에 genAI를 썼다는 비난을 받았다. Loish는 Instagram 영상에서 이 작품이 원작임을 쉽게 확인하는 방법을 보여줬다. 피드에 이 작품의 작업 과정 영상이 있어 2023년에 직접 그렸다는 사실이 증명된다. Loish는 2003년부터 그림을 올려 왔다."
+                "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 현재 AI 기업을 이끌고 있으며, 비디오 게임이 머지않아 AI 백일몽으로 대체될 것이라고 확신하는 듯하다."
               },
               {
                 "t": "p",
-                "x": "\"아티스트에게 험난한 시기다.\" Loish는 이렇게 썼다. \"우리는 소셜 미디어 알고리즘과 창작 산업 안에서 슬롭과 경쟁하도록 내몰리고, 우리 작품은 동의 없이 끊임없이 이 기계에 먹이로 들어간다. 이제는 작업 과정을 한 단계씩 모두 기록해도 AI로 그림을 그렸다는 비난을 받을 수 있는 지경에 이르렀다.\""
+                "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 말했다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 했다."
               },
               {
                 "t": "p",
-                "x": "Loish의 조언은 이렇다. \"댓글 창 너머를 클릭해 보라. 프로필을 확인하고, 작업 과정 영상을 보고, AI 생성 이미지의 경고 신호를 익혀라... 무엇이 우리를 인간으로 만드는지 잊지 마라!\""
+                "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며, 2028년에서 2029년 무렵 오늘날 콘솔 수준의 속도로 구동될 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끌고 있어 AI를 필연으로 홍보하는 데 이해관계가 걸려 있다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Loish、生成AI\n使用の濡れ衣に反論",
-          "body": "LoishがInstagramで、誤ったgen-AI疑惑の問題と独創性の見分け方を語った。",
-          "mini_headline": "Loish、AI使用の濡れ衣に反論",
+          "headline": "久夛良木氏、AIの白昼夢が\nゲームに取って代わる",
+          "body": "久夛良木氏は2028-29年頃、リアルタイムAI映像・音楽が全コンテンツを変えると語る。",
+          "mini_headline": "久夛良木氏、AIはゲームを超えると予測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "アーティストのLoish（Horizon Zero Dawnにも作品が登場するLois van Baarle）は、「Tiktokで」作品にgenAIを使ったと非難された。Instagramの動画で彼女は、この作品がオリジナルだと簡単に確認できる方法を示した。フィードには制作過程の動画があり、2023年に自分で描いたことが証明できる。彼女は2003年から作品を投稿し続けている。"
+                "x": "2007年にSonyを退いた「PlayStationの父」久夛良木健（Ken Kutaragi）氏は、現在AI企業を率いており、ビデオゲームはまもなくAIの白昼夢に取って代わられると確信しているようだ。"
               },
               {
                 "t": "p",
-                "x": "「アーティストにとってつらい時代だ」と彼女は書いた。「私たちはソーシャルメディアのアルゴリズムでもクリエイティブ業界でもスロップとの競争を強いられ、作品は同意もなくこの機械に絶え間なく注ぎ込まれている。いまや制作過程を一歩ずつすべて記録していても、作品にAIを使ったと非難されかねないところまで来ている」"
+                "x": "4Gamerの報道によると、同氏は最近の大学のパネルで「AIはゲームをエンターテインメントへと変え、人間の感性を変える」と語った。「世界のゲーム市場は現在30兆円超だが、3,000兆円規模に達するかもしれない。そうなれば、もはやゲームとは呼ばれないだろう」"
               },
               {
                 "t": "p",
-                "x": "彼女の助言はこうだ。「コメント欄の外までクリックしよう。プロフィールを確認し、制作過程の動画を見て、AI生成画像の危険信号を学ぼう……何が私たちを人間たらしめているのかを忘れないで！」"
+                "x": "「水面下では、AIを使った映像や音楽のリアルタイム生成の研究開発が進んでいる」と述べ、2028年から2029年頃には現在のゲーム機並みの速度で動作すると予測した。「そうなれば、あらゆるコンテンツが変わる……想像すること自体がコンテンツになる」。なお、引用は日本語からの機械翻訳である。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+は、Kutaragi氏がCyber AI EntertainmentとAscent Roboticsを率いており、AIを必然として宣伝することに利害関係があると指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Loish回应\n使用生成式AI的不实指控",
-          "body": "画师Loish在Instagram上解释gen-AI不实指控的危害及如何辨识原创。",
-          "mini_headline": "Loish回应AI使用不实指控",
+          "headline": "久多良木健：AI白日梦\n将取代电子游戏",
+          "body": "PlayStation之父久多良木健称，2028至29年左右实时AI影音将改变所有内容。",
+          "mini_headline": "久多良木健：AI将超越游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "画师Loish（Lois van Baarle，其作品曾出现在Horizon Zero Dawn中）被人“在Tiktok上”指控在作品中使用genAI。她在一段Instagram视频中展示了如何轻松证明这幅作品是原创：她的动态里有这幅作品的创作过程视频，证明它完成于2023年。她从2003年起就开始发布作品。"
+                "x": "2007年从Sony退休的“PlayStation之父”久多良木健（Ken Kutaragi）如今经营着AI公司，他似乎确信电子游戏很快将被AI白日梦取代。"
               },
               {
                 "t": "p",
-                "x": "“这是艺术家的艰难时期，”她写道。“我们被迫在社交媒体算法和创意行业中与粗制滥造的内容（slop）竞争，而我们的作品在未经同意的情况下被源源不断地喂给这台机器。如今，即便记录下创作过程的每一步，我们仍可能被指控用AI创作。”"
+                "x": "据4Gamer报道，他在近期一场大学座谈会上表示：“AI将把游戏转变为娱乐，并改变人类的感性。”“全球游戏市场目前规模超过30万亿日元，但可能达到约3,000万亿日元。如果那样，它甚至不会再被称为游戏。”"
               },
               {
                 "t": "p",
-                "x": "她的建议是：“别只看评论区，多点进去看看。查看主页，观看创作过程视频，了解AI生成图像的预警信号……别忘了是什么让我们成为人类！”"
+                "x": "他说：“在幕后，利用AI实时生成视频和音乐的研发正在推进。”并预测到2028年至2029年左右，其运行速度将达到当今游戏主机的水平。“到那时，所有内容都会改变……想象本身就会成为内容。”以上引语由日语机器翻译而来。"
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+指出，Kutaragi执掌Cyber AI Entertainment和Ascent Robotics，因此在宣扬AI必然到来一事上存在切身利益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Loish responde a la acusación\nfalsa de usar AI generativa",
-          "body": "Loish explicó en Instagram por qué importan las falsas acusaciones de gen-AI y cómo reconocer la creatividad original.",
-          "mini_headline": "Loish responde a una falsa acusación de AI",
+          "headline": "Kutaragi: ensoñaciones de IA\nreemplazarán a los videojuegos",
+          "body": "Ken Kutaragi cree que hacia 2028-29 el video y la música con IA en tiempo real cambiarán todo el contenido.",
+          "mini_headline": "Kutaragi ve a la IA superar los juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/loish.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La artista Loish (Lois van Baarle, cuya obra aparece en Horizon Zero Dawn) fue acusada \"en Tiktok\" de usar genAI en sus ilustraciones. En un video de Instagram mostró cómo se podía identificar fácilmente la pieza como original: su feed tiene videos del proceso, que prueban que la hizo en 2023. Publica arte desde 2003."
+                "x": "Ken Kutaragi, padre de PlayStation que se retiró de Sony en 2007, dirige ahora empresas de IA y parece convencido de que los videojuegos pronto serán reemplazados por ensoñaciones de IA."
               },
               {
                 "t": "p",
-                "x": "\"Es un momento difícil para los artistas\", escribió. \"Nos vemos obligados a competir con slop en los algoritmos de las redes sociales y en nuestras industrias creativas, mientras nuestro trabajo alimenta sin descanso esta máquina sin nuestro consentimiento. Ahora hemos llegado a un punto en el que pueden acusarnos de usar AI en nuestro arte, incluso cuando documentamos cada paso de nuestro proceso.\""
+                "x": "\"La IA transformará los juegos en entretenimiento y cambiará la sensibilidad humana\", dijo en un reciente panel universitario, según informó 4Gamer. \"El mercado mundial de los videojuegos vale hoy más de 30 billones de yenes, pero podría llegar a unos 3.000 billones de yenes. Si eso ocurre, ya ni siquiera se llamará juego\"."
               },
               {
                 "t": "p",
-                "x": "Su consejo: \"Vayan más allá de la sección de comentarios. Revisen perfiles, vean videos del proceso, aprendan las señales de alerta de las imágenes generadas por AI... ¡No olviden lo que nos hace humanos!\""
+                "x": "\"Entre bastidores, avanza la investigación y el desarrollo de la generación en tiempo real de video y música mediante IA\", afirmó, y predijo que funcionará a la velocidad de las consolas actuales hacia 2028 o 2029. \"Cuando eso ocurra, todo el contenido cambiará... Imaginar cosas se convertirá en contenido en sí mismo\". Las citas se tradujeron automáticamente del japonés."
+              },
+              {
+                "t": "p",
+                "x": "GamesRadar+ señala que Kutaragi dirige Cyber AI Entertainment y Ascent Robotics, lo que le da un interés directo en presentar la IA como inevitable."
               }
             ]
           }
@@ -1415,15 +1521,15 @@
       }
     },
     {
-      "id": "games-schofield-ai",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
-      "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
-      "mini_headline": "Schofield: 비용은 AI보다 아이디어",
+      "id": "krafton-snu-world-model",
+      "source_lang": "ko",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
+      "eyebrow": "AI NEWS",
+      "headline": "크래프톤, 서울대와\n월드모델 공동연구",
+      "body": "크래프톤이 서울대와 3년간 공동연구센터를 운영해 게임·로봇 월드모델을 고도화한다.",
+      "mini_headline": "크래프톤·서울대 월드모델 연구",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1781560",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1431,336 +1537,265 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+            "cap": "크래프톤과 서울대학교 월드모델 공동연구 출범식 전경(사진제공: 크래프톤)"
           },
           {
             "t": "p",
-            "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. 그의 말에 따르면 COVID로 개발이 차질을 빚은 뒤 Krafton은 약속받은 2023년 3월보다 몇 달 이른 2022년 12월에 The Callisto Protocol을 출시하라고 강요했다."
-          },
-          {
-            "t": "img",
-            "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+            "x": "크래프톤이 서울대학교와 게임 및 로봇 분야를 아우르는 월드모델 공동연구에 착수했다. 양측은 서울대에서 출범식을 열고 연구 주제와 연구진을 공개했으며, 이강욱 크래프톤 CAIO와 강유 서울대 교수 등이 참석했다."
           },
           {
             "t": "p",
-            "x": "AAA 개발비는 너무 불어났다는 게 그의 진단이다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
+            "x": "월드모델은 AI가 현재 상황을 파악하고 행동에 따라 환경이 어떻게 변할지 예측·시뮬레이션하는 기술이다. 공동연구는 향후 3년간 교수진의 세 가지 연구과제와 공동연구센터 운영으로 진행된다. 긴 영상에서 공간과 사물을 일관되게 유지하는 기술, 게임 속 동작 데이터로 사람과 사물의 움직임을 잇는 기술, AI가 공간 정보를 판단 근거로 삼는지 검증하는 연구와 벤치마크 구축이 포함된다."
           },
           {
             "t": "p",
-            "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예로 든 것은 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 아끼는 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "AI 옹호론자인 그는 AI를 도구로 보기를 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 쓰겠다는 생각이다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
+            "x": "이번 출범은 지난해 11월 체결한 산학협력협약을 바탕으로 했다. 이강욱 CAIO는 \"게임으로 쌓아 온 시뮬레이션·가상세계 구축 역량은 월드모델 연구의 중요한 기반\"이라며 성과를 게임 경험과 로보틱스로 확장하겠다고 말했다. 크래프톤은 지난해 미국에 로보틱스 연구법인 루도 로보틱스를, 올해 2월 한국 법인을 세웠다."
           }
         ]
       },
-      "lead_image": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
       "text": {
-        "en": {
-          "headline": "Glen Schofield says ideas save\nmore money than AI right now",
-          "body": "Dead Space veteran Glen Schofield calls AI a medium rather than a tool, but says a creative idea can save more money.",
-          "mini_headline": "Schofield: ideas beat AI on cost",
+        "ko": {
+          "headline": "크래프톤, 서울대와\n월드모델 공동연구",
+          "body": "크래프톤이 서울대와 3년간 공동연구센터를 운영해 게임·로봇 월드모델을 고도화한다.",
+          "mini_headline": "크래프톤·서울대 월드모델 연구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "크래프톤과 서울대학교 월드모델 공동연구 출범식 전경(사진제공: 크래프톤)"
               },
               {
                 "t": "p",
-                "x": "Glen Schofield, who headed Sledgehammer Games and led Striking Distance Studios under Krafton, retired this summer and now makes art. He says Krafton forced him to ship The Callisto Protocol in December 2022, months before the March 2023 date he had been promised after COVID disrupted development."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "크래프톤이 서울대학교와 게임 및 로봇 분야를 아우르는 월드모델 공동연구에 착수했다. 양측은 서울대에서 출범식을 열고 연구 주제와 연구진을 공개했으며, 이강욱 크래프톤 CAIO와 강유 서울대 교수 등이 참석했다."
               },
               {
                 "t": "p",
-                "x": "He says AAA costs have risen too high: \"I'd be so happy to make a game for less than $150 million.\" Dead Space cost $28 million."
+                "x": "월드모델은 AI가 현재 상황을 파악하고 행동에 따라 환경이 어떻게 변할지 예측·시뮬레이션하는 기술이다. 공동연구는 향후 3년간 교수진의 세 가지 연구과제와 공동연구센터 운영으로 진행된다. 긴 영상에서 공간과 사물을 일관되게 유지하는 기술, 게임 속 동작 데이터로 사람과 사물의 움직임을 잇는 기술, AI가 공간 정보를 판단 근거로 삼는지 검증하는 연구와 벤치마크 구축이 포함된다."
               },
               {
                 "t": "p",
-                "x": "\"A creative idea can save more money than AI can right now,\" he says, citing a plan to creatively reuse older game assets that would save about $25 million."
-              },
-              {
-                "t": "p",
-                "x": "He is an advocate for AI but refuses to see it as a tool: \"Midjourney has become a medium for me.\" He would put AI to work in select areas: \"Fix collisions. Let's make cameras better.\""
+                "x": "이번 출범은 지난해 11월 체결한 산학협력협약을 바탕으로 했다. 이강욱 CAIO는 \"게임으로 쌓아 온 시뮬레이션·가상세계 구축 역량은 월드모델 연구의 중요한 기반\"이라며 성과를 게임 경험과 로보틱스로 확장하겠다고 말했다. 크래프톤은 지난해 미국에 로보틱스 연구법인 루도 로보틱스를, 올해 2월 한국 법인을 세웠다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
-          "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
-          "mini_headline": "Schofield: 비용은 AI보다 아이디어",
+        "en": {
+          "headline": "Krafton, Seoul National Univ.\nlaunch joint world model study",
+          "body": "Krafton and Seoul National University will run a joint center for 3 years on game and robot world models.",
+          "mini_headline": "Krafton and Seoul National University study world models",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Launch ceremony for the Krafton and Seoul National University joint world model research (Photo: Krafton)"
               },
               {
                 "t": "p",
-                "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. 그의 말에 따르면 COVID로 개발이 차질을 빚은 뒤 Krafton은 약속받은 2023년 3월보다 몇 달 이른 2022년 12월에 The Callisto Protocol을 출시하라고 강요했다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton has begun joint world model research with Seoul National University spanning games and robotics. The two sides held a launch ceremony at Seoul National University and unveiled the research topics and researchers; attendees included Krafton CAIO Kangwook Lee and Seoul National University professor U Kang."
               },
               {
                 "t": "p",
-                "x": "AAA 개발비는 너무 불어났다는 게 그의 진단이다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
+                "x": "A world model is a technology that lets AI grasp the current situation and predict and simulate how the environment will change in response to actions. Over the next 3 years, the joint research will proceed through three faculty research projects and the operation of a joint research center. It covers technology that keeps space and objects consistent in long videos, technology that links the movements of people and objects using in-game motion data, and research and benchmark building to verify whether AI uses spatial information as a basis for its judgments."
               },
               {
                 "t": "p",
-                "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예로 든 것은 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 아끼는 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "AI 옹호론자인 그는 AI를 도구로 보기를 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 쓰겠다는 생각이다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
+                "x": "The launch builds on an industry-academia cooperation agreement signed last November. CAIO Kangwook Lee said, \"The simulation and virtual-world building capabilities we have accumulated through games are an important foundation for world model research,\" adding that the results will be extended to game experiences and robotics. Krafton set up Ludo Robotics, a robotics research entity, in the U.S. last year, and a Korean entity in February this year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Glen Schofield\n今はAIよりアイデアが得",
-          "body": "Glen SchofieldはAIを媒体とみなすが、創造的なアイデアの方が節約になると語る。",
-          "mini_headline": "Schofield「コストではアイデアがAIに勝る」",
+          "headline": "Krafton、ソウル大と\nワールドモデル共同研究",
+          "body": "Kraftonはソウル大と3年間、ゲーム・ロボット向けワールドモデルを共同研究する。",
+          "mini_headline": "Krafton・ソウル大がワールドモデル研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Kraftonとソウル大学のワールドモデル共同研究発足式の様子（写真提供：Krafton）"
               },
               {
                 "t": "p",
-                "x": "Sledgehammer Gamesを率い、Krafton傘下でStriking Distance Studiosを指揮したGlen Schofieldは、この夏に引退し、いまは絵を描いている。COVIDで開発が混乱した後に約束されていた2023年3月より数カ月早い2022年12月に、KraftonからThe Callisto Protocolの発売を強いられたと彼は語る。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Kraftonがソウル大学と、ゲームとロボット分野にまたがるワールドモデルの共同研究に着手した。両者はソウル大学で発足式を開いて研究テーマと研究陣を公開し、KraftonのCAIOであるイ・ガンウク氏やソウル大学のカン・ユ教授らが出席した。"
               },
               {
                 "t": "p",
-                "x": "AAAの開発費は高くなりすぎたと彼は言う。「1億5000万ドル（$150 million）未満でゲームを作れたら本当にうれしい」。Dead Spaceの開発費は2800万ドル（$28 million）だった。"
+                "x": "ワールドモデルとは、AIが現在の状況を把握し、行動に応じて環境がどう変化するかを予測・シミュレーションする技術だ。共同研究は今後3年間、教授陣による3つの研究課題と共同研究センターの運営を通じて進められる。長い映像の中で空間や物体を一貫して保つ技術、ゲーム内の動作データで人と物体の動きをつなぐ技術、AIが空間情報を判断の根拠にしているかを検証する研究とベンチマーク構築が含まれる。"
               },
               {
                 "t": "p",
-                "x": "「いまは、創造的なアイデアの方がAIよりも多くのお金を節約できる」と彼は言い、古いゲームアセットを創造的に再利用して約2500万ドル（$25 million）を節約する計画を例に挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "彼はAI推進派だが、AIをツールとみなすことは拒む。「Midjourneyは私にとってひとつの媒体になった」。AIは限られた領域で使うという。「衝突判定を直そう。カメラを良くしよう」"
+                "x": "今回の発足は、昨年11月に締結した産学協力協定に基づく。イ・ガンウクCAIOは「ゲームを通じて培ってきたシミュレーションと仮想世界構築の力は、ワールドモデル研究の重要な基盤だ」と述べ、成果をゲーム体験とロボティクスへ広げていくとした。Kraftonは昨年、米国にロボティクス研究法人Ludo Roboticsを、今年2月に韓国法人を設立した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Glen Schofield\n眼下创意比AI更省钱",
-          "body": "Dead Space老将Glen Schofield视AI为媒介而非工具，但称创意更能省钱。",
-          "mini_headline": "Schofield：创意比AI更省钱",
+          "headline": "Krafton携手首尔大学\n共同研究世界模型",
+          "body": "Krafton将与首尔大学共同运营研究中心3年，推进游戏与机器人世界模型研究。",
+          "mini_headline": "Krafton与首尔大学研究世界模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Krafton与首尔大学世界模型联合研究启动仪式现场（图片提供：Krafton）"
               },
               {
                 "t": "p",
-                "x": "Glen Schofield曾执掌Sledgehammer Games，后在Krafton旗下领导Striking Distance Studios，今年夏天退休，如今从事艺术创作。他表示，COVID打乱开发后，他曾获承诺可在2023年3月发售，但Krafton却逼他在2022年12月推出The Callisto Protocol，比承诺的时间早了几个月。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton与首尔大学启动了横跨游戏与机器人领域的世界模型联合研究。双方在首尔大学举行启动仪式，公布了研究课题和研究团队，Krafton CAIO Kangwook Lee与首尔大学教授U Kang等人出席。"
               },
               {
                 "t": "p",
-                "x": "他认为AAA游戏的成本已经过高：“如果能用不到1.5亿美元（$150 million）做一款游戏，我会非常高兴。”Dead Space的成本是2800万美元（$28 million）。"
+                "x": "世界模型是让AI把握当前状况，并预测、模拟环境将如何随行动而变化的技术。联合研究将在未来3年内通过教授团队的三项研究课题和联合研究中心的运营推进，内容包括在长视频中保持空间与物体一致性的技术、利用游戏中的动作数据衔接人与物体运动的技术，以及验证AI是否以空间信息作为判断依据的研究和基准测试构建。"
               },
               {
                 "t": "p",
-                "x": "“眼下，一个创意能比AI省下更多钱，”他说，并以一项创造性复用旧游戏素材的计划为例，该计划可节省约2500万美元（$25 million）。"
-              },
-              {
-                "t": "p",
-                "x": "他支持AI，却拒绝把它视为工具：“Midjourney对我来说已经成了一种媒介。”他会在特定领域让AI发挥作用：“修复碰撞问题。把镜头做得更好。”"
+                "x": "此次启动以去年11月签署的产学合作协议为基础。CAIO Kangwook Lee表示：“通过游戏积累的模拟与虚拟世界构建能力，是世界模型研究的重要基础。”他还称将把成果拓展到游戏体验和机器人领域。Krafton去年在美国设立了机器人研究法人Ludo Robotics，今年2月又成立了韩国法人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Glen Schofield: hoy las ideas\nahorran más dinero que la AI",
-          "body": "Glen Schofield, de Dead Space, ve la AI como un medio, no una herramienta, pero cree que una idea creativa ahorra más.",
-          "mini_headline": "Schofield: las ideas superan a la AI en costes",
+          "headline": "Krafton y Universidad de Seúl\ninvestigan modelos de mundo",
+          "body": "Krafton operará durante 3 años un centro conjunto con la Universidad de Seúl para modelos de mundo de juegos y robots.",
+          "mini_headline": "Krafton y la Universidad de Seúl, modelos de mundo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Ceremonia de lanzamiento de la investigación conjunta sobre modelos de mundo de Krafton y la Universidad Nacional de Seúl (Foto: Krafton)"
               },
               {
                 "t": "p",
-                "x": "Glen Schofield, que dirigió Sledgehammer Games y encabezó Striking Distance Studios bajo Krafton, se jubiló este verano y ahora se dedica al arte. Dice que Krafton lo obligó a lanzar The Callisto Protocol en diciembre de 2022, meses antes de la fecha de marzo de 2023 que le habían prometido después de que la COVID alterara el desarrollo."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton ha iniciado con la Universidad Nacional de Seúl una investigación conjunta sobre modelos de mundo que abarca los videojuegos y la robótica. Ambas partes celebraron una ceremonia de lanzamiento en la universidad, donde presentaron los temas de investigación y al equipo investigador; asistieron, entre otros, Kangwook Lee, CAIO de Krafton, y el profesor U Kang, de la Universidad Nacional de Seúl."
               },
               {
                 "t": "p",
-                "x": "Afirma que los costes de los AAA han subido demasiado: \"Estaría encantado de hacer un juego por menos de $150 millones\". Dead Space costó $28 millones."
+                "x": "Un modelo de mundo es una tecnología con la que la IA comprende la situación actual y predice y simula cómo cambiará el entorno según sus acciones. La investigación conjunta se desarrollará durante los próximos 3 años mediante tres proyectos del profesorado y la operación de un centro de investigación conjunto. Incluye tecnología para mantener la coherencia de espacios y objetos en videos largos, tecnología que conecta los movimientos de personas y objetos con datos de movimiento de juegos, e investigación y creación de benchmarks para verificar si la IA usa la información espacial como base de sus decisiones."
               },
               {
                 "t": "p",
-                "x": "\"Ahora mismo, una idea creativa puede ahorrar más dinero que la AI\", dice, y cita un plan para reutilizar de forma creativa recursos de juegos antiguos que ahorraría unos $25 millones."
-              },
-              {
-                "t": "p",
-                "x": "Defiende la AI, pero se niega a verla como una herramienta: \"Midjourney se ha convertido en un medio para mí\". Usaría la AI en áreas concretas: \"Arreglar las colisiones. Hagamos mejores cámaras\"."
+                "x": "El lanzamiento se basa en un acuerdo de cooperación entre industria y universidad firmado en noviembre del año pasado. El CAIO Kangwook Lee afirmó que \"la capacidad de simulación y de construcción de mundos virtuales acumulada con los videojuegos es una base importante para la investigación de modelos de mundo\" y dijo que extenderán los resultados a la experiencia de juego y la robótica. Krafton creó el año pasado en Estados Unidos la filial de investigación en robótica Ludo Robotics y, en febrero de este año, una filial en Corea."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Glen Schofield\n아이디어가 AI보다 아낀다",
-          "body": "Glen Schofield는 AI를 매체로 보나 아이디어가 돈을 더 아낀다고 한다.",
-          "mini_headline": "Schofield: 비용은 AI보다 아이디어",
+        "en": {
+          "headline": "Krafton, Seoul National Univ.\nlaunch joint world model study",
+          "body": "Krafton and Seoul National University will run a joint center for 3 years on game and robot world models.",
+          "mini_headline": "Krafton and Seoul National University study world models",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Launch ceremony for the Krafton and Seoul National University joint world model research (Photo: Krafton)"
               },
               {
                 "t": "p",
-                "x": "Sledgehammer Games를 이끌고 Krafton 산하에서 Striking Distance Studios를 지휘한 Glen Schofield는 올여름 은퇴해 지금은 그림을 그린다. COVID로 개발이 차질을 빚은 뒤 약속받은 2023년 3월보다 몇 달 앞선 2022년 12월에 Krafton이 The Callisto Protocol 출시를 강요했다고 그는 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton has begun joint world model research with Seoul National University spanning games and robotics. The two sides held a launch ceremony at Seoul National University and unveiled the research topics and researchers; attendees included Krafton CAIO Kangwook Lee and Seoul National University professor U Kang."
               },
               {
                 "t": "p",
-                "x": "그는 AAA 개발비가 너무 높아졌다고 말한다. \"1억 5000만 달러($150 million) 이하로 게임을 만들 수 있다면 정말 행복하겠다.\" Dead Space의 제작비는 2800만 달러($28 million)였다."
+                "x": "A world model is a technology that lets AI grasp the current situation and predict and simulate how the environment will change in response to actions. Over the next 3 years, the joint research will proceed through three faculty research projects and the operation of a joint research center. It covers technology that keeps space and objects consistent in long videos, technology that links the movements of people and objects using in-game motion data, and research and benchmark building to verify whether AI uses spatial information as a basis for its judgments."
               },
               {
                 "t": "p",
-                "x": "\"지금은 창의적인 아이디어가 AI보다 더 많은 돈을 아낄 수 있다\"고 그는 말한다. 예전 게임 에셋을 창의적으로 재활용해 약 2500만 달러($25 million)를 절약하는 계획을 예로 들었다."
-              },
-              {
-                "t": "p",
-                "x": "그는 AI 옹호론자지만 AI를 도구로 보기는 거부한다. \"Midjourney는 내게 하나의 매체가 됐다.\" AI는 일부 분야에 투입하겠다고 한다. \"충돌 문제를 고치자. 카메라를 더 낫게 만들자.\""
+                "x": "The launch builds on an industry-academia cooperation agreement signed last November. CAIO Kangwook Lee said, \"The simulation and virtual-world building capabilities we have accumulated through games are an important foundation for world model research,\" adding that the results will be extended to game experiences and robotics. Krafton set up Ludo Robotics, a robotics research entity, in the U.S. last year, and a Korean entity in February this year."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Glen Schofield\n今はAIよりアイデアが得",
-          "body": "Glen SchofieldはAIを媒体とみなすが、創造的なアイデアの方が節約になると語る。",
-          "mini_headline": "Schofield「コストではアイデアがAIに勝る」",
+          "headline": "Krafton、ソウル大と\nワールドモデル共同研究",
+          "body": "Kraftonはソウル大と3年間、ゲーム・ロボット向けワールドモデルを共同研究する。",
+          "mini_headline": "Krafton・ソウル大がワールドモデル研究",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Kraftonとソウル大学のワールドモデル共同研究発足式の様子（写真提供：Krafton）"
               },
               {
                 "t": "p",
-                "x": "Sledgehammer Gamesを率い、Krafton傘下でStriking Distance Studiosを指揮したGlen Schofieldは、この夏に引退し、いまは絵を描いている。COVIDで開発が混乱した後に約束されていた2023年3月より数カ月早い2022年12月に、KraftonからThe Callisto Protocolの発売を強いられたと彼は語る。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Kraftonがソウル大学と、ゲームとロボット分野にまたがるワールドモデルの共同研究に着手した。両者はソウル大学で発足式を開いて研究テーマと研究陣を公開し、KraftonのCAIOであるイ・ガンウク氏やソウル大学のカン・ユ教授らが出席した。"
               },
               {
                 "t": "p",
-                "x": "AAAの開発費は高くなりすぎたと彼は言う。「1億5000万ドル（$150 million）未満でゲームを作れたら本当にうれしい」。Dead Spaceの開発費は2800万ドル（$28 million）だった。"
+                "x": "ワールドモデルとは、AIが現在の状況を把握し、行動に応じて環境がどう変化するかを予測・シミュレーションする技術だ。共同研究は今後3年間、教授陣による3つの研究課題と共同研究センターの運営を通じて進められる。長い映像の中で空間や物体を一貫して保つ技術、ゲーム内の動作データで人と物体の動きをつなぐ技術、AIが空間情報を判断の根拠にしているかを検証する研究とベンチマーク構築が含まれる。"
               },
               {
                 "t": "p",
-                "x": "「いまは、創造的なアイデアの方がAIよりも多くのお金を節約できる」と彼は言い、古いゲームアセットを創造的に再利用して約2500万ドル（$25 million）を節約する計画を例に挙げた。"
-              },
-              {
-                "t": "p",
-                "x": "彼はAI推進派だが、AIをツールとみなすことは拒む。「Midjourneyは私にとってひとつの媒体になった」。AIは限られた領域で使うという。「衝突判定を直そう。カメラを良くしよう」"
+                "x": "今回の発足は、昨年11月に締結した産学協力協定に基づく。イ・ガンウクCAIOは「ゲームを通じて培ってきたシミュレーションと仮想世界構築の力は、ワールドモデル研究の重要な基盤だ」と述べ、成果をゲーム体験とロボティクスへ広げていくとした。Kraftonは昨年、米国にロボティクス研究法人Ludo Roboticsを、今年2月に韓国法人を設立した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Glen Schofield\n眼下创意比AI更省钱",
-          "body": "Dead Space老将Glen Schofield视AI为媒介而非工具，但称创意更能省钱。",
-          "mini_headline": "Schofield：创意比AI更省钱",
+          "headline": "Krafton携手首尔大学\n共同研究世界模型",
+          "body": "Krafton将与首尔大学共同运营研究中心3年，推进游戏与机器人世界模型研究。",
+          "mini_headline": "Krafton与首尔大学研究世界模型",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Krafton与首尔大学世界模型联合研究启动仪式现场（图片提供：Krafton）"
               },
               {
                 "t": "p",
-                "x": "Glen Schofield曾执掌Sledgehammer Games，后在Krafton旗下领导Striking Distance Studios，今年夏天退休，如今从事艺术创作。他表示，COVID打乱开发后，他曾获承诺可在2023年3月发售，但Krafton却逼他在2022年12月推出The Callisto Protocol，比承诺的时间早了几个月。"
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton与首尔大学启动了横跨游戏与机器人领域的世界模型联合研究。双方在首尔大学举行启动仪式，公布了研究课题和研究团队，Krafton CAIO Kangwook Lee与首尔大学教授U Kang等人出席。"
               },
               {
                 "t": "p",
-                "x": "他认为AAA游戏的成本已经过高：“如果能用不到1.5亿美元（$150 million）做一款游戏，我会非常高兴。”Dead Space的成本是2800万美元（$28 million）。"
+                "x": "世界模型是让AI把握当前状况，并预测、模拟环境将如何随行动而变化的技术。联合研究将在未来3年内通过教授团队的三项研究课题和联合研究中心的运营推进，内容包括在长视频中保持空间与物体一致性的技术、利用游戏中的动作数据衔接人与物体运动的技术，以及验证AI是否以空间信息作为判断依据的研究和基准测试构建。"
               },
               {
                 "t": "p",
-                "x": "“眼下，一个创意能比AI省下更多钱，”他说，并以一项创造性复用旧游戏素材的计划为例，该计划可节省约2500万美元（$25 million）。"
-              },
-              {
-                "t": "p",
-                "x": "他支持AI，却拒绝把它视为工具：“Midjourney对我来说已经成了一种媒介。”他会在特定领域让AI发挥作用：“修复碰撞问题。把镜头做得更好。”"
+                "x": "此次启动以去年11月签署的产学合作协议为基础。CAIO Kangwook Lee表示：“通过游戏积累的模拟与虚拟世界构建能力，是世界模型研究的重要基础。”他还称将把成果拓展到游戏体验和机器人领域。Krafton去年在美国设立了机器人研究法人Ludo Robotics，今年2月又成立了韩国法人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Glen Schofield: hoy las ideas\nahorran más dinero que la AI",
-          "body": "Glen Schofield, de Dead Space, ve la AI como un medio, no una herramienta, pero cree que una idea creativa ahorra más.",
-          "mini_headline": "Schofield: las ideas superan a la AI en costes",
+          "headline": "Krafton y Universidad de Seúl\ninvestigan modelos de mundo",
+          "body": "Krafton operará durante 3 años un centro conjunto con la Universidad de Seúl para modelos de mundo de juegos y robots.",
+          "mini_headline": "Krafton y la Universidad de Seúl, modelos de mundo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+                "cap": "Ceremonia de lanzamiento de la investigación conjunta sobre modelos de mundo de Krafton y la Universidad Nacional de Seúl (Foto: Krafton)"
               },
               {
                 "t": "p",
-                "x": "Glen Schofield, que dirigió Sledgehammer Games y encabezó Striking Distance Studios bajo Krafton, se jubiló este verano y ahora se dedica al arte. Dice que Krafton lo obligó a lanzar The Callisto Protocol en diciembre de 2022, meses antes de la fecha de marzo de 2023 que le habían prometido después de que la COVID alterara el desarrollo."
-              },
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/callisto-protocol_UntRL54.png?width=2048&height=2048&fit=bounds&quality=85&format=jpg&auto=webp"
+                "x": "Krafton ha iniciado con la Universidad Nacional de Seúl una investigación conjunta sobre modelos de mundo que abarca los videojuegos y la robótica. Ambas partes celebraron una ceremonia de lanzamiento en la universidad, donde presentaron los temas de investigación y al equipo investigador; asistieron, entre otros, Kangwook Lee, CAIO de Krafton, y el profesor U Kang, de la Universidad Nacional de Seúl."
               },
               {
                 "t": "p",
-                "x": "Afirma que los costes de los AAA han subido demasiado: \"Estaría encantado de hacer un juego por menos de $150 millones\". Dead Space costó $28 millones."
+                "x": "Un modelo de mundo es una tecnología con la que la IA comprende la situación actual y predice y simula cómo cambiará el entorno según sus acciones. La investigación conjunta se desarrollará durante los próximos 3 años mediante tres proyectos del profesorado y la operación de un centro de investigación conjunto. Incluye tecnología para mantener la coherencia de espacios y objetos en videos largos, tecnología que conecta los movimientos de personas y objetos con datos de movimiento de juegos, e investigación y creación de benchmarks para verificar si la IA usa la información espacial como base de sus decisiones."
               },
               {
                 "t": "p",
-                "x": "\"Ahora mismo, una idea creativa puede ahorrar más dinero que la AI\", dice, y cita un plan para reutilizar de forma creativa recursos de juegos antiguos que ahorraría unos $25 millones."
-              },
-              {
-                "t": "p",
-                "x": "Defiende la AI, pero se niega a verla como una herramienta: \"Midjourney se ha convertido en un medio para mí\". Usaría la AI en áreas concretas: \"Arreglar las colisiones. Hagamos mejores cámaras\"."
+                "x": "El lanzamiento se basa en un acuerdo de cooperación entre industria y universidad firmado en noviembre del año pasado. El CAIO Kangwook Lee afirmó que \"la capacidad de simulación y de construcción de mundos virtuales acumulada con los videojuegos es una base importante para la investigación de modelos de mundo\" y dijo que extenderán los resultados a la experiencia de juego y la robótica. Krafton creó el año pasado en Estados Unidos la filial de investigación en robótica Ludo Robotics y, en febrero de este año, una filial en Corea."
               }
             ]
           }

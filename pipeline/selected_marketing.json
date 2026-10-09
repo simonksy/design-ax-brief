@@ -1,95 +1,95 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "marketing",
   "dedup": {
     "checks": {
-      "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/": {
-        "verdict": "new",
-        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
-        "new_action": ""
-      },
-      "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/": {
+      "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/": {
         "verdict": "new",
         "nearest": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
         "new_action": ""
       },
-      "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html": {
+      "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://openai.com/index/radisson",
         "new_action": ""
       },
-      "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/": {
+      "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
         "new_action": ""
       },
-      "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/": {
+      "https://www.madtimes.co.kr/news/articleView.html?idxno=29255": {
         "verdict": "new",
-        "nearest": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/",
+        "nearest": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "new_action": ""
+      },
+      "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/": {
+        "verdict": "new",
+        "nearest": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
         "new_action": ""
       }
     },
-    "note": "SWAP 2026-10-09: removed https://ppc.land/amazon-blocks-metas-muse-ai-agent-from-shopping-on-its-site/ after fact-check: the PPC Land piece (10-08) recaps an Amazon/Meta Muse block that GeekWire reported 2026-09-20, about 19 days old and outside the 72h marketing window. REPLACEMENT: Retail Dive 'AI is reshaping Walmart and Sparky is leading the charge' (2026-10-08T15:28Z, inside the window). No history_match tag. Checked by content against the history_digest: the closest is the 10-07 Retail Dive Gap shopping-agents card, which is a different retailer and a different event (Gap launching agents vs. Walmart's U.S. CEO giving new statements on Sparky-driven savings and CX reinvestment). It is not the Amazon/Muse story either. AI is what makes the story happen (Walmart's Sparky AI shopping agent). It also adds a 5th distinct outlet. ALTERNATES REJECTED: Digiday agencies/rogue-agent fears (reaction/analysis on the agentic-buying thread, no new release, close to the 10-08 AdExchanger agentic CTV card); PPC Land Google Ads auto-apply coupons (automated promotions sourcing where AI is not clearly what drives the story; published 10-06, near the window edge). Earlier drops (unchanged): AdExchanger agentic CTV explainer (same running story as 10-08 AdExchanger card); Digiday OpenAI 'good of humanity' (commentary on the already-published ChatGPT ads business); SEJ AI video ads (sponsored); AdExchanger 'Who eats the gap' (opinion); AdExchanger AI-built MMM (interview); Marketing Dive Liquid Death (conference talk, dropped 10-08); Adweek AWNY/Jupiter Fest recap (roundup); SEJ regulated paid media (evergreen how-to); Modern Retail+ research (generic survey). DIVERSITY: 5 outlets (Marketing Dive, PPC Land, Search Engine Roundtable, Digiday, Retail Dive), none over 1 card; no duplicate URLs."
+    "note": "SWAP (orchestrator request): dropped the PPC Land 'Meta's Muse accounts for 72% of AI agent requests, HUMAN finds' pick, because it reports a HUMAN Security blog post dated 2026-09-28, outside the 72h window. Its dedup entry was removed. The other 3 picks are unchanged. BACKFILLED from recovery items: (4) Pinterest Beauty Guides (MADTIMES carrying Pinterest's release, 2026-10-09): a new platform feature where an LLM plus visual understanding turns Pins into personalized guides with relevant products, which moves inspiration toward purchase. AI makes the story and it touches commerce. Distinct from the 10-07 TikTok AI discovery/checkout card (different platform, different feature). (5) eHealth's Regal 'Alice' voice AI agent (CX Dive, 2026-10-07T11:00Z, inside 72h): an editorial account of an AI sales agent prescreening Medicare callers, with a 27% higher purchase rate than the human screeners it replaced. In scope as sales automation/conversion, it has concrete numbers, and nothing published resembles it (nearest is the 10-09 Walmart Sparky card, a different company and use). REJECTED recovery items: Jellyfish Share-of-Model study (agency study bundled with its own 'Shopping Optimization' product launch, so vendor-ish; it would also be a third AI-shopping-discovery card next to try-on and Pinterest); Tinuiti Bliss Point MCP server (agency press release, vendor promo); McDonald's denies AI menu pricing (a denial with no AI product, weak); TBWA Korea AIM (agency GEO service promo); Mobiinside designer interview (generic interview, no event). Earlier drops still stand: Amazon blocks Muse (stale 09-20 event), Denmark L 49 (owned by music), AdExchanger CTV explainer and gap opinion, Digiday reaction pieces, Modern Retail commentary/survey, Nestle/Treasure AI, SEJ how-to, Liquid Death talk, Salesforce blog. DIVERSITY: 5 outlets (Adweek, Retail Dive, Search Engine Roundtable, MADTIMES, CX Dive), 1 card each. No duplicate URLs, no cross-section-owned stories."
   },
   "items": [
     {
-      "url": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
-      "source": "Marketing Dive",
+      "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+      "source": "Adweek",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "New Meta ad-platform release: Meta is testing AI campaign-import and creative-insight features plus better conversational guidance in its AI tools - directly changes how advertisers build and iterate creative on Meta.",
-      "published_iso": "2026-10-08T16:20:00Z",
-      "og_image": "https://imgproxy.divecdn.com/Rp0xe1Ahhkz7jdldpGbwKnFSK0quBEraTUPQWPDsKbg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
-      "excerpt": "The company is testing importing and creative insight features, as well as improved conversational guidance for its artificial intelligence elements."
+      "rationale": "OpenAI is setting up an Agency Partner program, the holding-company sales layer Meta and Google use to secure recurring spend. ChatGPT ads move from test budgets toward standing media-plan line items.",
+      "published_iso": "2026-10-09T14:24:04-04:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1",
+      "excerpt": "An Agency Partner listing shows OpenAI building the holding-company sales layer that Meta and Google use to lock in recurring spend."
     },
     {
-      "url": "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/",
-      "source": "PPC Land",
+      "url": "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
+      "source": "Retail Dive",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "First disclosed brand performance number for ChatGPT ads: DoubleVerify says Weight Watchers' CPA ran 15.3% below benchmark, and Rockerbox now treats ChatGPT as an attribution touchpoint.",
-      "published_iso": "2026-10-07T17:29:42.000Z",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg",
-      "excerpt": "Rockerbox users can now treat ChatGPT as a touchpoint, and a suitability pilot with OpenAI is in development. Will early results arrive with disclosed methods?"
+      "rationale": "New AI commerce feature: ChatGPT users can upload a selfie and see generated images of clothing and accessories on themselves before buying, which puts a fitting step inside the AI shopping journey.",
+      "published_iso": "2026-10-09T12:21:00-04:00",
+      "og_image": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp",
+      "excerpt": "Users can take or upload a selfie to generate images and see how clothing and accessories look on them prior to purchase."
     },
     {
-      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
+      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
       "source": "Search Engine Roundtable",
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Actionable tomorrow: Google Ads adds AI Max reporting columns (brand inclusions, locations of interest, commission, optimized targeting), giving buyers visibility into what the AI expansion is doing.",
-      "published_iso": "2026-10-08T07:21:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg",
-      "excerpt": "Google Ads is adding new AI Max related columns to the Google Ads reporting console.  The columns include brand inclusions, locations of interest, commission and optimized targeting."
-    },
-    {
-      "url": "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/",
-      "source": "Digiday",
-      "tool": "Marketing",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "A concrete AI ad-creative case study: OK Future compressed Goodwipes' AI campaign work from weeks to days, showing both the cost upside and the human toll of high-speed AI production.",
-      "published_iso": "2026-10-08T04:01:00+00:00",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp",
-      "excerpt": "OK Future squeezed Goodwipes' AI project from weeks into days, proving the financial upside and psychological toll of high-speed AI workflows."
-    },
-    {
-      "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
-      "source": "Retail Dive",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Retail-side AI shift: Walmart U.S. CEO David Guggina says AI, led by the Sparky shopping agent, is cutting costs that Walmart reinvests in customer experience - a signal of where retail-media and shopper-marketing attention is moving.",
-      "published_iso": "2026-10-08T15:28:00Z",
-      "og_image": "https://imgproxy.divecdn.com/U9etOSrcDLS4VpVknurNxB0F-2iJdwYKPG6Kolz0EpI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp",
-      "excerpt": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
+      "rationale": "Usable right away: advertisers can now preview the ad text Google AI generates for AI Max Search campaigns before it serves, a direct creative-control lever.",
+      "published_iso": "2026-10-09T07:51:00-04:00",
+      "og_image": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+      "excerpt": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named \"Text customization asset previews.\""
+    },
+    {
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
+      "source": "MADTIMES",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Pinterest's new Beauty Guides use an LLM plus visual understanding to turn hair and nail Pins into personalized guides with similar looks and relevant products. AI now pushes the platform's inspiration surface toward purchase intent.",
+      "published_iso": "2026-10-09T09:17:51+09:00",
+      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202610/29255_71542_169_v150.jpg",
+      "excerpt": "Pinterest's new Beauty Guides combine visual understanding with an LLM to turn hair and nail Pins into personalized guides with salon instructions, similar looks and relevant products, part of its 'Pinterest Intelligence' push from inspiration to purchase intent."
+    },
+    {
+      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+      "source": "CX Dive",
+      "tool": "Marketing",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "AI sales automation with hard numbers: eHealth's voice AI agent 'Alice' prescreens Medicare callers during open enrollment, answers every call instantly and drives a 27% higher purchase rate than the outsourced human screeners it replaced.",
+      "published_iso": "2026-10-07T07:00:00-04:00",
+      "og_image": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
+      "excerpt": "eHealth uses Regal's 'Alice' voice AI agent to prescreen Medicare callers during open enrollment; it answers every call instantly, scores 77% 'exceptional' satisfaction and drives a 27% higher purchase rate than the outsourced human screeners it replaced."
     }
   ],
   "alternates": [
-    "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
-    "https://ppc.land/google-ads-will-auto-apply-website-coupons-to-some-campaigns-from-october-12/"
+    "https://www.madtimes.co.kr/news/articleView.html?idxno=29183",
+    "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/"
   ]
 }

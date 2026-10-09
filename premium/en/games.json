@@ -6770,6 +6770,154 @@
           "x": "Projects can be developed collaboratively through a shared URL, and completed games can be published through Google’s new Playground platform. Unity has not finalized its commercial model, although both free and paid access levels are planned. A closed beta is scheduled to begin later in 2026."
         }
       ]
+    },
+    "games/sister-driving-llm-cost": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
+          "cap": "Teaching Your Sister to Drive key art (Image: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "Teaching Your Sister to Drive, a Steam game that spread by word of mouth among streamers, has pushed its development team into financial trouble. Developer Easy Fox shared the 1.2.9 update and its development status in a Steam notice on the 7th, outlining the service outages caused by the surge in demo players and its plans for upkeep costs."
+        },
+        {
+          "t": "p",
+          "x": "AI is at the core. Players teach the sister to drive by talking to her, and AI processes what they say so she drives, which means the experience varies widely depending on the AI model used."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
+          "cap": "Teaching Your Sister to Drive 1.2.9 update notice (Image: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "Demo players grew more than 20-fold in a month, pushing spending to $1,000 (about 1.34 million won) a day. At full release, the package price is expected to include estimated AI usage fees to avoid extra charges. Easy Fox said, \"We have even taken out a bank loan to keep the demo running,\" adding that as a team of only four it may end the demo earlier than expected, though it has not decided yet."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
+          "cap": "Teaching Your Sister to Drive screenshot (Image: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "There are quality problems too. When Google Gemini, the main model, threw frequent errors under the traffic spike, the share of the backup OpenAI model grew, bringing verbose answers and a mechanical tone. Easy Fox has made improving answer length and tone its top priority and plans to reduce glitches where driving instructions are carried out in reverse."
+        }
+      ]
+    },
+    "games/dreamlands-1-0-public": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+        },
+        {
+          "t": "p",
+          "x": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI, with plans from $20 to $200 a month. It launched at Google Cloud's Gemini at Work event, on the Google Cloud Marketplace."
+        },
+        {
+          "t": "p",
+          "x": "CEO Thomas Tobin, formerly of Unity and Ubisoft, highlighted three features. One-Click Texturing restyles an object in about 10 seconds for $0.10 per edit."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+        },
+        {
+          "t": "p",
+          "x": "Surface adds a layering system that auto-detects wood, metal, glass and fabric for quick reskinning."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+        },
+        {
+          "t": "p",
+          "x": "Procedural Building and City Makers generate structures from modular kits and floor plans, and can build cities from real-world layouts. Plugins cover Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max and Omniverse."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
+        },
+        {
+          "t": "p",
+          "x": "Three-person studio Whenere used it to rebuild Netherfield Park for its Pride & Prejudice Fortnite world, turning photos into editable 3D models; CEO Karen Laur called the result \"truly impossible\" for a team their size before. Dreamlands runs on Google Cloud and uses Gemini models."
+        }
+      ]
+    },
+    "games/kutaragi-ai-daydreams": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ken Kutaragi, father of the PlayStation who retired from Sony in 2007, now runs AI firms and seems convinced video games will soon be replaced by AI daydreams."
+        },
+        {
+          "t": "p",
+          "x": "\"AI will transform games into entertainment, and change human sensibilities,\" he told a recent university panel, as reported by 4Gamer. \"The global game market is currently worth over 30 trillion Yen, but it might reach around 3,000 trillion Yen. If that happens, it won't even be called a game anymore.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Behind the scenes, research and development is advancing on the real-time generation of video and music using AI,\" he said, predicting it will run at the speed of today's consoles around 2028 to 2029. \"When that happens, all content will change... Imagining things will become content itself.\" The quotes were machine translated from Japanese."
+        },
+        {
+          "t": "p",
+          "x": "GamesRadar+ notes Kutaragi leads Cyber AI Entertainment and Ascent Robotics, giving him a vested interest in promoting AI as inevitable."
+        }
+      ]
+    },
+    "games/krafton-snu-world-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
+          "cap": "Launch ceremony for the Krafton and Seoul National University joint world model research (Photo: Krafton)"
+        },
+        {
+          "t": "p",
+          "x": "Krafton has begun joint world model research with Seoul National University spanning games and robotics. The two sides held a launch ceremony at Seoul National University and unveiled the research topics and researchers; attendees included Krafton CAIO Kangwook Lee and Seoul National University professor U Kang."
+        },
+        {
+          "t": "p",
+          "x": "A world model is a technology that lets AI grasp the current situation and predict and simulate how the environment will change in response to actions. Over the next 3 years, the joint research will proceed through three faculty research projects and the operation of a joint research center. It covers technology that keeps space and objects consistent in long videos, technology that links the movements of people and objects using in-game motion data, and research and benchmark building to verify whether AI uses spatial information as a basis for its judgments."
+        },
+        {
+          "t": "p",
+          "x": "The launch builds on an industry-academia cooperation agreement signed last November. CAIO Kangwook Lee said, \"The simulation and virtual-world building capabilities we have accumulated through games are an important foundation for world model research,\" adding that the results will be extended to game experiences and robotics. Krafton set up Ludo Robotics, a robotics research entity, in the U.S. last year, and a Korean entity in February this year."
+        }
+      ]
+    },
+    "games/games-fortnite-whenere": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png"
+        },
+        {
+          "t": "p",
+          "x": "Sci-fi author Neal Stephenson's company Whenere is bringing Jane Austen's Pride and Prejudice to Fortnite. Whenere describes itself as a \"web-based script editor to help you create immersive, cinematic stories that can be watched directly within Fortnite.\""
+        },
+        {
+          "t": "p",
+          "x": "Rather than recreating the book, it builds settings such as Netherfield Park where users pick a location, script movement and add dialogue (self-written or with the assistance of AI), then publish on Whenere's Fortnite island."
+        },
+        {
+          "t": "p",
+          "x": "Whenere uses Dreamlands, an AI tool powered by Google's Gemini, to \"generate much of the furniture and décor and maintain historical accuracy.\" Stephenson told Google: \"This can be a place where AI is augmenting and enhancing creativity, not replacing it.\""
+        },
+        {
+          "t": "video",
+          "yt": "ZdBRAz9yvro"
+        },
+        {
+          "t": "p",
+          "x": "Aftermath argues the AI-generated assets could turn off fanfic writers, calling it \"another bit of AI hype.\" A closed playtest is planned; there's no public release date yet."
+        }
+      ]
     }
   }
 }

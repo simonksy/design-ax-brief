@@ -304,6 +304,116 @@
           "x": "BoneXpert se utiliza clínicamente en Europa desde 2009 y cuenta con el respaldo de más de 50 estudios revisados por pares. Visiana prevé lanzarlo en U.S. a principios de octubre."
         }
       ]
+    },
+    "medicine/radnet-prostate-biopsy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
+          "cap": "cáncer de próstata PSA"
+        },
+        {
+          "t": "p",
+          "x": "Una solución de IA de DeepHealth, filial de RadNet, puede ayudar a casi 1 de cada 5 pacientes a evitar biopsias de próstata, según una nueva investigación publicada en European Radiology que comparó una herramienta de IA (AI) para clasificar el riesgo con las puntuaciones PI-RADS asignadas por radiólogos en resonancias magnéticas (MRI) de próstata."
+        },
+        {
+          "t": "p",
+          "x": "El triaje de biopsias asistido por IA (AI-assisted) evitó casi el 19% de las biopsias y mantuvo una sensibilidad del 98.4% para el cáncer clínicamente significativo. El estudio retrospectivo abarcó a casi 800 sujetos explorados entre 2014 y 2025 en Estados Unidos (U.S.), Alemania y los Países Bajos, con equipos de cinco fabricantes."
+        },
+        {
+          "t": "p",
+          "x": "La herramienta utiliza una escala de riesgo simplificada de tres niveles (bajo, medio y alto), frente a las cinco categorías de PI-RADS. Logró una sensibilidad por paciente no inferior y una mayor capacidad de discriminación que PI-RADS, pero una sensibilidad por lesión más baja, por lo que los investigadores la ven como un complemento de PI-RADS, sobre todo en las lesiones dudosas PI-RADS 3, mientras los radiólogos conservan la responsabilidad de localizar las lesiones."
+        },
+        {
+          "t": "p",
+          "x": "“Estos resultados muestran cómo las aplicaciones de IA de nuestra Prostate MR Solution pueden apoyar a los clínicos en uno de los puntos de decisión más trascendentes de la atención prostática”, afirmó Niccolò Stefani, MD, de DeepHealth."
+        }
+      ]
+    },
+    "medicine/abridge-ut-system-ambient": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
+          "cap": "En el UT System, el piloto creció un 73% en clínicos que graban y un 80% en notas mensuales en los últimos 12 meses. (Pakorn Supajitsoontorn/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Abridge amplía su plataforma de IA clínica a todo el University of Texas System mediante un acuerdo corporativo con UT REAL Health AI, que da acceso a las ocho instituciones sanitarias del sistema y respeta la toma de decisiones local."
+        },
+        {
+          "t": "p",
+          "x": "El acuerdo se basa en un piloto lanzado en 2025 con clínicos de cinco centros en entornos ambulatorios, hospitalarios y de urgencias, y en más de 50 especialidades. Los hospitales y clínicas de UT Health atendieron casi 11.7 millones de visitas ambulatorias en el último año."
+        },
+        {
+          "t": "p",
+          "x": "“No solo nos centramos en ampliar el acceso de los clínicos a la IA ambiental para eliminar la carga mental del trabajo administrativo, sino también en devolver esa presencia humana y atenta a los pacientes junto a la cama”, afirmó Peter McCaffrey, M.D., presidente de UT REAL Health AI."
+        },
+        {
+          "t": "p",
+          "x": "Abridge afirma que trabaja con 300 de los mayores sistemas de salud de Estados Unidos (U.S.) y que este año dará soporte a más de 100 millones de conversaciones entre pacientes y clínicos. El mes pasado obtuvo un contrato corporativo de IA ambiental con la VA."
+        }
+      ]
+    },
+    "medicine/coreline-jrs-lung-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Soft anunció el día 6 que su software de apoyo al diagnóstico de nódulos pulmonares AVIEW Lung Nodule CAD figura ya como producto de software de IA con certificación oficial de la Sociedad Japonesa de Radiología (JRS). Tras la aprobación del mes pasado de la Agencia de Productos Farmacéuticos y Dispositivos Médicos de Japón (PMDA), la empresa ha asegurado una base para vincularlo a los recargos por diagnóstico por imagen."
+        },
+        {
+          "t": "p",
+          "x": "Con esta certificación, las instituciones médicas que cumplan los requisitos de instalaciones del recargo por gestión del diagnóstico por imagen 3·4 podrán cobrar el recargo cuando utilicen el producto. Sin embargo, la certificación del producto por sí sola no se aplica a todos los hospitales. En Japón hay actualmente 45 programas de IA (AI) de apoyo al diagnóstico por imagen con certificación de la JRS, y la aprobación de la PMDA es la primera para un CAD de nódulos pulmonares basado en CT desarrollado en Corea."
+        },
+        {
+          "t": "p",
+          "x": "Tras adquirir el año pasado los activos de IA de CT torácica de VUNO en Japón, la empresa elevó a unos 80 sus hospitales clientes en 1 año y firmó además un contrato de suministro de su software cardiovascular AVIEW CAC con M3 AI."
+        },
+        {
+          "t": "p",
+          "x": "“Al obtener, tras la autorización de la PMDA, una certificación que también cumple los requisitos de cobro de los hospitales, el incentivo para que las instituciones médicas japonesas adopten la IA y la sigan usando es mucho más claro”, dijo el director ejecutivo Kim Jin-kook."
+        }
+      ]
+    },
+    "medicine/gpt5-agent-complexity-paradox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los investigadores realizaron un análisis cuantitativo sistemático de diez configuraciones basadas en GPT-5 (GPT-5-based) con 161 casos multimodales reales validados por clínicos, y puntuaron la precisión diagnóstica, la calidad del razonamiento, la precisión de la recuperación, la integración de la evidencia y la robustez ante entradas de baja calidad."
+        },
+        {
+          "t": "p",
+          "x": "Detectaron limitaciones importantes, como la mala interpretación de imágenes, una búsqueda web irregular que a veces empeoraba el rendimiento y una transparencia limitada en los flujos de trabajo agénticos. Entre los puntos fuertes figuraban el uso eficaz de la historia clínica, un razonamiento claro paso a paso, diagnósticos diferenciales plausibles, una mayor especificidad con razonamiento explícito y la recuperación de evidencia pertinente."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que un diagnóstico multimodal fiable en condiciones reales depende más de un razonamiento transparente y de entradas de alta calidad que de una recuperación agresiva o de flujos agénticos complejos, y que las carencias en la integración de la evidencia y en el razonamiento visual siguen siendo grandes obstáculos para su uso clínico habitual."
+        }
+      ]
+    },
+    "medicine/medicine-mri2ct-bone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
+        },
+        {
+          "t": "p",
+          "x": "La U.S. Food and Drug Administration aprobó NextMR, una plataforma impulsada por AI (AI-powered) de MRI2CT Inc. que crea visualizaciones óseas 3D a partir de MRI de columna estándar. La empresa, con sede en Israel (Israel-based), afirma que su objetivo es permitir “flujos de trabajo MRI-only en la atención de la columna”, generando modelos detallados de la morfología ósea sin exponer a los pacientes a la radiación adicional de un CT."
+        },
+        {
+          "t": "p",
+          "x": "“Los pacientes suelen comenzar su recorrido por la columna con una MRI, mientras que la visualización 3D detallada del hueso puede requerir otro estudio de imagen”, dijo el CEO Shmulik Shpiro. “NextMR cambia ese paradigma”."
+        },
+        {
+          "t": "p",
+          "x": "NextMR funciona con secuencias de MRI habituales en escáneres de 1.5T y 3T y genera automáticamente su resultado óseo 3D en menos de 60 segundos, visible a través de una interfaz web. Se validó con un conjunto de datos independiente y retrospectivo de 145 adultos con imágenes pareadas de MRI y CT procedentes de centros en Estados Unidos (U.S.) e Israel."
+        }
+      ]
     }
   }
 }

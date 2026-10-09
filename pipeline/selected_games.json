@@ -1,97 +1,105 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "games",
   "items": [
     {
-      "title": "Fortnite Will Give Kids What They've Always Wanted: AI Pride And Prejudice Fan Fic",
-      "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
-      "source": "Aftermath",
-      "published_iso": "2026-10-08T16:54:21.000Z",
-      "og_image": "https://storage.ghost.io/c/30/f5/30f5b1bb-84ee-4c26-b446-fb9a5e512994/content/images/size/w1200/2026/10/Screenshot-2026-10-08-at-12.45.24---PM.png",
-      "excerpt": "Neal Stephenson's company Whenere is bringing an AI-driven storytelling platform to Fortnite",
+      "title": "Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately",
+      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "source": "Kotaku",
+      "published_iso": "2026-10-09T21:45:14+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg",
+      "excerpt": "Call of Duty: Black Ops, Halo: CE, GTA: Vice City, Skate 3 and more were decompiled and ported to web browsers overnight with AI coding agents, and they appear to run well.",
       "category": "games",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New launch: Neal Stephenson's Whenere is bringing an AI-driven narrative platform into Fortnite. That puts generative storytelling inside the largest UGC game ecosystem, which matters to narrative and level designers."
+      "rationale": "New event: AI coding agents decompiled and ported Black Ops, Halo CE, GTA Vice City and other games to the browser overnight, and the ports run. It is a step beyond the single-game recomp fights covered before, both in scale and in IP risk."
     },
     {
-      "title": "Original DOOM Gets NVIDIA DLSS 5 Neural Rendering Through a Custom DirectX 12 Port",
-      "url": "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/",
-      "source": "Wccftech",
-      "published_iso": "2026-10-06T21:21:17+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-3.jpg",
-      "excerpt": "Developer Nikolai Zhivotenko ports DOOM to Windows with NVIDIA DLSS 5 Neural Rendering, enhancing its graphics through modern upscaling techniques.",
+      "title": "'여동생 운전 가르치기' 게임, AI 사용료만 하루 135만 원",
+      "url": "https://www.gamemeca.com/view.php?gid=1781573",
+      "source": "게임메카",
+      "published_iso": "2026-10-08T18:05:42+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/573/gm210114_dr.webp",
+      "excerpt": "LLM 기반 스팀 게임 '여동생 운전 가르치기'가 데모 이용자 급증으로 하루 1,000달러에 달하는 AI 모델 사용료를 감당하지 못해 대출까지 받았고, 모델 전환으로 품질 저하 논란도 겪고 있다.",
       "category": "games",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A new release: a custom DX12 port that applies DLSS 5 neural rendering to the original DOOM's sprite art. It is a concrete test of what the AI filter does to classic pixel art."
+      "rationale": "A concrete number: an LLM-driven Steam demo's inference bill hit about $1,000 a day, the developer took out a loan, and switching to a cheaper model drew complaints about quality. It is a cautionary case for anyone designing live-LLM gameplay."
     },
     {
-      "title": "The OG Crash Team Racing for PS1 just arrived on PC, but it's sadly yet another recomp spoiled by AI",
-      "url": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
-      "source": "GamesRadar+",
-      "published_iso": "2026-10-08T11:43:14Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/9Dg9vK9G68dqRoBGE9kz2S-1920-80.jpg",
-      "excerpt": "Wump wump",
+      "title": "Dreamlands opens its AI 3D world-building platform to the public",
+      "url": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-08T16:30:43+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png",
+      "excerpt": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI.",
       "category": "games",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "A new release: a PC recompilation of PS1 Crash Team Racing built with AI. It is the latest flashpoint in the preservation community's fight over vibe-coded ports."
+      "rationale": "New release: Dreamlands 1.0 opens to the public and generates game-ready 3D assets and whole worlds from AI. Environment artists and level designers can try it now."
     },
     {
-      "title": "Artist Falsely Accused Of Using GenAI Gives The Perfect Response, 'Don't Forget What Makes Us Human!'",
-      "url": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
-      "source": "Kotaku",
-      "published_iso": "2026-10-02T17:30:58+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/loish.jpg",
-      "excerpt": "Loish took to Instagram to explain why such accusations matter, and how to spot original creativity",
+      "title": "PlayStation creator turned AI CEO Ken Kutaragi predicts AI daydreams will replace video games",
+      "url": "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-09T16:06:09Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg",
+      "excerpt": "Ken Kutaragi told 4Gamer that real-time AI generation of video and music will run at console speed around 2028-29, turning 'imagination itself' into content and replacing games as we know them.",
       "category": "games",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Illustrator Loish answers false gen-AI accusations and explains how to recognise original work. This hits artists directly: their process and style are now under suspicion by default."
+      "rationale": "PlayStation creator Ken Kutaragi, now an AI CEO, gives a dated forecast: real-time generated video and music at console speed by 2028-29, which he says will displace games as we know them. It is a concrete marker from one of the industry's architects."
     },
     {
-      "title": "\"A creative idea can save more money than AI can right now\" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA",
-      "url": "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa",
-      "source": "GamesIndustry.biz",
-      "published_iso": "2026-10-08T13:30:00+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/glen-schofield.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "The Call of Duty and Dead Space alumnus explains why he doesn't view AI as a tool and why he isn't a fan of remote work",
+      "title": "크래프톤, 서울대와 게임·로봇 AI 월드모델 공동연구 시작",
+      "url": "https://www.gamemeca.com/view.php?gid=1781560",
+      "source": "게임메카",
+      "published_iso": "2026-10-08T16:50:37+09:00",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/560/gm648963_24577.webp",
+      "excerpt": "크래프톤이 서울대학교와 게임·로봇 분야 월드모델 공동연구에 착수했다. 향후 3년간 공동연구센터를 운영하며 가상과 현실을 이해·예측하는 AI를 고도화한다.",
       "category": "games",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Dead Space and Callisto Protocol creator Glen Schofield argues that creative ideas cut AAA costs more than AI does today. It is a senior creative director's counterweight to studios' AI-efficiency pitch."
+      "rationale": "New announcement: Krafton and Seoul National University are opening a three-year joint research center on world models for games and robotics. It puts a major Korean publisher behind the world-model race."
     }
   ],
-  "alternates": [],
+  "alternates": [
+    "https://wccftech.com/helixsr-mod-dlss-3-7-steam-deck-amd-handhelds-faster-fsr-4/",
+    "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/"
+  ],
   "dedup": {
     "checks": {
-      "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/": {
+      "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark"
+        "nearest": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+        "new_action": ""
       },
-      "https://wccftech.com/original-doom-gets-nvidia-dlss-5-neural-rendering-through-a-custom-directx-12-port/": {
+      "https://www.gamemeca.com/view.php?gid=1781573": {
         "verdict": "new",
-        "nearest": "https://wccftech.com/nvidia-dlss-5-neural-rendering-disappoints-stylized-yet-solid-super-smash-bros-melee/"
+        "nearest": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
+        "new_action": ""
       },
-      "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/": {
+      "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/platformer/zelda-and-banjo-pc-port-devs-slam-new-vibe-coded-banjo-tooie-recompilation-throwing-ai-at-it-is-just-disrespectful/"
+        "nearest": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html",
+        "new_action": ""
       },
-      "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342": {
+      "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/": {
         "verdict": "new",
-        "nearest": "https://www.gamespot.com/articles/indie-dev-says-ai-voice-in-his-game-was-actually-his-wife/"
+        "nearest": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "new_action": ""
       },
-      "https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa": {
+      "https://www.gamemeca.com/view.php?gid=1781560": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments"
+        "nearest": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
+        "new_action": ""
       }
     },
-    "note": "Pool: 10 items. Dropped all three Google Playground items in cluster c1: Game Developer, 80 Level and Eurogamer, which pairs Google Playground with Unity Spark. The 10-08 games run already published this launch as the 80.lv Unity Spark card and explicitly folded Google Playground into it (Unity Spark is the prompting tool built for Playground). Any of the three would repeat that story. Dropped GamingBolt 'Capcom has no plans for gen-AI assets in RE Engine': it carries a related history_match to The Verge Capcom story from 10-05 and is a clarification of that same statement with no new release. The 10-08 run rejected IGN's version of it for the same reason. Dropped PC Gamer 'haystack slop' (09-28): a stale weekly Steam roundup with a related history_match to the GamesRadar 'Robloxification of Steam' story from 09-27. No funding or exec items in the pool. The DOOM DLSS 5 port is a distinct new port release, not commentary on the running DLSS 5 story. The CTR recomp is a different release from the Banjo-Tooie recomp published 10-03. The pool had exactly 5 fresh items, so all 5 were taken with no backfill reserve. Diversity: 5 distinct outlets (Aftermath, Wccftech, GamesRadar+, Kotaku, GamesIndustry.biz), and accents are distinct across the single games category."
+    "note": "Pool: 12 items. Dropped both Google Playground items in cluster c5 (Game Developer, Eurogamer). The 10-08 run published this joint launch as the 80.lv Unity Spark card, and the 10-09 curator already rejected Playground as a repeat. Games still owns the story cross-section, but it is not fresh. Dropped the Unreal MCP 'First Look' video: it is a likely-repeat of 'Getting Started with MCP in Unreal Engine 5.8' from 09-19, the same feature with no new version. Dropped PC Gamer's OpenAI StarCraft cheating story: it is related to the 36kr GPT-6 StarCraft agent battle from 09-30, comes out of the same benchmark event, and adds no new release. Dropped Wccftech's QSSR SDK piece: it is analysis following the IGN QSSR announcement from 10-02, with no new event. The Kotaku vibe-coded browser ports (related match to the Mario Galaxy port from 09-29) are a distinct new event: a batch of AI-agent browser ports of Halo, CoD, GTA VC and others. That differs from the CTR recomp from 10-09 and the Banjo recomp from 10-03. HelixSR DLSS mod and Road to VR Astro Bot VR mod are held as alternates; the Astro Bot mod sits on the already-saturated vibe-coded modding angle. Diversity: 4 outlets (Kotaku, 게임메카 x2, GamesBeat, GamesRadar+), all in the single games category with distinct accents. No inven URLs in the pool."
   }
 }

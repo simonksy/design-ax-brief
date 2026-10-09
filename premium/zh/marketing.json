@@ -384,6 +384,151 @@
           "x": "这些数据由供应商提供，仅涵盖一个月和单一广告平台，且未经审计。这些数字出炉之际，Meta、Amazon和X正向智能体开放各自的广告系统。"
         }
       ]
+    },
+    "marketing/chatgpt-virtual-try-on-selfie": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI为ChatGPT用户推出了虚拟试穿（virtual try-on）功能。用户在ChatGPT上浏览服装和配饰时，可以点击“try on”按钮，拍摄或上传自己的照片，然后生成自己穿戴这些商品的图像。"
+        },
+        {
+          "t": "p",
+          "x": "购物者可以将商品保存到Favorites，或在ChatGPT Library中创建文件夹。这些功能可在ChatGPT网站和移动应用上使用。"
+        },
+        {
+          "t": "p",
+          "x": "随着OpenAI不断增加购物功能，越来越多的零售商开始在该平台上试水：David's Bridal于4月入驻Shopify面向ChatGPT的Agentic Storefronts，Etsy则于5月推出了ChatGPT应用。"
+        },
+        {
+          "t": "p",
+          "x": "借助试穿功能，OpenAI正在追赶Google。Google于2023年推出女性上衣虚拟试穿，随后扩展至连衣裙和鞋子。Perfect Corp.在2024年的一项调查发现，使用虚拟试穿的品牌销售转化率提升了一倍以上。"
+        }
+      ]
+    },
+    "marketing/google-ads-ai-max-text-asset-previews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads现在允许你预览Google AI为Google Ads AI Max广告系列生成的素材，相关说明位于搜索广告系列帮助页面新增的“Text customization asset previews”（文本自定义素材预览）部分。"
+        },
+        {
+          "t": "p",
+          "x": "“使用素材预览，查看Google AI为你的广告系列生成的示例文本素材……以便在启用文本自定义或发布新广告系列之前，确认生成的文本素材是否符合你设定的品牌和文本准则。”"
+        },
+        {
+          "t": "p",
+          "x": "素材示例大多在30秒内生成，适用于文本自定义支持的所有语言，包括英语、西班牙语、葡萄牙语、意大利语、法语、德语、日语和荷兰语。"
+        },
+        {
+          "t": "p",
+          "x": "提供最终着陆页URL后，Google AI会自动生成最多10个示例标题和描述。查看这些示例无需启用文本自定义。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+          "cap": "新增的帮助页面部分"
+        }
+      ]
+    },
+    "marketing/pinterest-beauty-guides-llm": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pinterest推出基于AI的新功能“美妆指南（Beauty Guides）”。它将发型和美甲Pin转化为个性化的实操指南，帮助用户真正复刻在Pinterest上发现的风格。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pinterest的视觉识别技术会分析Pin中的发型、发色、甲型和质感等，再由大语言模型（LLM）将其整理为到沙龙时要提出的需求、操作流程、相似风格、相关商品和分步指引。用户只需放大打开发型或美甲Pin，点击“获取指南（Get the Guide）”即可。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+        },
+        {
+          "t": "p",
+          "x": "首席产品技术官（CPTO）马特·马德里加尔表示：“人们即使说不清自己想要的风格，也会带着明确的想法来到Pinterest。”该功能是结合第一方数据、视觉识别和专用AI模型的“Pinterest智能”的一个实例。"
+        },
+        {
+          "t": "p",
+          "x": "超过85%的Pinterest用户表示，他们在Pinterest上发现新美妆趋势的时间早于其他任何地方。美妆指南将首先面向美国iOS用户推出，并计划扩展至更多地区和商品类别。"
+        }
+      ]
+    },
+    "marketing/ehealth-regal-alice-voice-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+        },
+        {
+          "t": "p",
+          "x": "eHealth的大多数客户会在Medicare约54天的开放参保期内来电，来电量约五十万通，其中70%至80%通过电话购买，导致一些人要等六个小时才能接通持证代理人。"
+        },
+        {
+          "t": "p",
+          "x": "这家健康保险代理机构现在使用Regal基于LLM（LLM-based）的语音代理Alice对来电进行预筛。根据Regal向CX Dive提供的数据，Alice能即时接听每一通电话，获得77%的“exceptional”（非常满意）满意度评价，购买率比eHealth此前使用外包呼叫中心人工筛选员时高27%。"
+        },
+        {
+          "t": "p",
+          "x": "该部署于2025年2月以非工作时间试点的形式启动。由于法规要求不间断地宣读隐私声明，Regal构建了一个“static node”（静态节点），由代理在不被打断的情况下读完，再将来电转回人工代理人。"
+        },
+        {
+          "t": "p",
+          "x": "合规部门从一开始就是关键利益相关方。eHealth产品与AI副总裁（VP）Atul Kumar表示：“对于任何受监管的企业来说，这都不是plug-and-play的解决方案。”"
+        }
+      ]
+    },
+    "marketing/marketing-meta-adweek-ai-tools": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta在New York的Advertising Week发布会上公布了一系列广告更新，包括改进的商业助手、面向品牌的创意工具扩展以及新的购物体验。"
+        },
+        {
+          "t": "p",
+          "x": "Meta正在加强其AI-powered商业助手。该助手以对话方式就广告制作的关键要素提供指导，此次新增创意洞察，并赋予它更多记忆和上下文。Meta表示，这包括“你上季度尝试过的内容、你的季节性规律，以及你描述过的目标”。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta还在测试导入工具，让品牌上传其策略和品牌语调指南；同时加入智能体能力，使助手能通过对话式提示生成创意、更新定向并调整广告预算；此外也在测试定期效果报告和提醒等计划任务。"
+        },
+        {
+          "t": "p",
+          "x": "Ads Creative Studio正向更多广告主开放，Meta Ads MCP服务器现在支持third-party AI工具的更多用例，Customer Lifecycle Strategy已向所有广告主开放。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "在Advantage+ creative中，用现有静态素材生成视频的功能已全面上线；Ads Creative Studio新增工具，可更换开头钩子、调整音频和片段时长、添加文字叠加和字幕，或更换结尾画面。"
+        },
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+        },
+        {
+          "t": "p",
+          "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
+        }
+      ]
     }
   }
 }

@@ -11147,6 +11147,127 @@
           "x": "세 사람이 증명한 건 Khot의 2-to-1 games 추측보다 조금 약한 4-to-1 버전이다. 일부 3-colorable 그래프는 색을 아무리 더 써도 여전히 칠하기 어렵다는 내용이다. Princeton의 Mark Braverman은 “보도자료로 하는 수학은 수학에 그다지 건강하지 않다”고 말했다."
         }
       ]
+    },
+    "science/science-bolmo-byteification-nature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 지난해 12월 내놓은 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo, 그 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 올리고, 원래의 전역 모델은 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 공개한다."
+        },
+        {
+          "t": "p",
+          "x": "대부분의 언어 모델은 고정된 어휘에 맞춰 텍스트를 서브워드로 쪼갠다. 그래서 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못하기도 한다. 바이트 단위 모델은 글자 밑의 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비싼 학습을 거쳐야 했다."
+        },
+        {
+          "t": "p",
+          "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo뿐 아니라 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
+        },
+        {
+          "t": "p",
+          "x": "바이트는 텍스트보다 넓은 단위다. Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 쓸 수 있다고 본다."
+        }
+      ]
+    },
+    "science/science-fossil-grass-pollen-cnn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "종이 다른 풀 꽃가루 알갱이도 일반 광학 현미경으로는 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경에 합성곱 신경망을 결합해 표면 무늬와 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+          "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 놓으면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 개별 종의 이름까지 대지는 못한다. 대신 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+          "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
+        },
+        {
+          "t": "p",
+          "x": "Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 이 방법을 적용했더니, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았다가 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구 결과는 PNAS에 실렸다."
+        }
+      ]
+    },
+    "science/science-llm-symbolic-role-filler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+          "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
+        },
+        {
+          "t": "p",
+          "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 다루는 것은 긴 숫자 목록, 곧 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자만 봐서는 드러나지 않는 기호 구조로 암묵적으로 짜여 있다는 사실을 발견했다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라는 역할-채움 구조로 바꿨다. 이 구조에서 단어나 숫자는 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 그대로였다."
+        },
+        {
+          "t": "p",
+          "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식으로 표적 편집을 하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에서 볼 수 있다."
+        }
+      ]
+    },
+    "science/science-spiking-net-event-timing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀이 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다. 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 네트워크다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+          "cap": "학습을 마치면 단서만 주어져도 시점별 예측 활동이 나타나고 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "학습은 판독(readout) 연결에서만 일어난다. 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 여기에 적응하고, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
+        },
+        {
+          "t": "p",
+          "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식의 증거라기보다 계산적 시연에 가깝다. 그래도 저자들은 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 국소 학습이 잘 맞을 수 있다고 본다."
+        }
+      ]
+    },
+    "science/science-alphaproof-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "연구진이 Science에 발표한 새 LLM-based 프레임워크 AlphaProof Nexus는 일부 수학 문제를 스스로 푼다. 증명을 탐색한 뒤 검증을 거쳐 풀이가 논리적으로 타당한지 확인하는 방식이다. 여러 수학 분야에서 그동안 풀리지 않던 문제 수십 개를 해결했다."
+        },
+        {
+          "t": "p",
+          "x": "LLMs는 미묘한 논리 오류, 이른바 “환각”을 내기 쉽다. 그래서 이 시스템은 논리 단계마다 자동으로 검증해 주는 형식 언어 Lean으로 증명을 만든다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+          "cap": "full-featured AlphaProof Nexus 에이전트의 설계. Credit: Tsoukalas et al., arXiv:2605.22763"
+        },
+        {
+          "t": "p",
+          "x": "George Tsoukalas와 동료들은 여러 AI 에이전트가 Lean 컴파일러의 피드백을 받아 가며 증명을 찾는 프레임워크를 만들었다. 진화 알고리즘으로 하위 에이전트를 조율하고 AlphaProof를 전문 증명 도구로 쓰는 full-featured 에이전트도 함께 붙였다."
+        },
+        {
+          "t": "p",
+          "x": "시도한 Erdős 문제 353개 가운데 아홉 개를 풀었는데, 그중 두 문제는 50년 넘게 풀리지 않던 난제다. 미해결 OEIS 추측도 492개 중 44개를 풀었고 대수기하학, 최적화, 양자광학, 그래프 이론 문제도 해결했다."
+        },
+        {
+          "t": "p",
+          "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
+        }
+      ]
     }
   }
 }

@@ -6954,6 +6954,127 @@
           "x": "The trio proved a slightly weaker 4-to-1 version of Khot's 2-to-1 games conjecture, implying that some 3-colorable graphs stay hard to color no matter how many extra colors you use. “Math by press release is not that healthy for math,” said Princeton's Mark Braverman."
         }
       ]
+    },
+    "science/science-bolmo-byteification-nature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "The research behind Bolmo, Ai2's family of fully open byte-level language models introduced last December, has been published in Nature. Ai2 is also releasing new checkpoints on Hugging Face, plus Stage 1 checkpoints that keep the original global model frozen while training Bolmo's byte-level components."
+        },
+        {
+          "t": "p",
+          "x": "Most language models split text into subwords from a fixed vocabulary, which can make them less flexible with spelling, rare words and unusual strings. Byte-level models work from the raw bytes behind characters, but matching subword performance has usually required costly training from scratch."
+        },
+        {
+          "t": "p",
+          "x": "Ai2's \"byteifying\" process instead converts an already capable subword model into a byte-level one with a relatively short additional training run. In the Nature paper, the team applied it beyond Olmo to Qwen 3 8B and Llama 3 8B, creating Bwen 8B and Blama 8B; both come close to their source models, and Bwen 8B outperforms Bolmo 7B on Ai2's aggregate evaluation suite."
+        },
+        {
+          "t": "p",
+          "x": "Because bytes also extend beyond text, Ai2 says the same ideas could eventually apply to images and audio."
+        }
+      ]
+    },
+    "science/science-fossil-grass-pollen-cnn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Grass pollen grains from different species look nearly identical under a standard light microscope. University of Illinois Urbana-Champaign researchers led by plant biologist Surangi Punyasena and former doctoral student Marc-Élie Adaimé combined super-resolution microscopy with a convolutional neural network to read subtle differences in surface patterning, complexity and wall thickness."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+          "cap": "Pollen from a flowering herb, a tropical tree and a perennial grass shows how simple grass pollen is by comparison."
+        },
+        {
+          "t": "p",
+          "x": "The model can't name individual species, but it estimates species diversity in mixed samples and distinguishes C3 from C4 grasses."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+          "cap": "Super-resolution images of Poa anceps (a C3 grass) and Andropogon amethystinus (a C4 grass)."
+        },
+        {
+          "t": "p",
+          "x": "Applied to a 25,000-year sediment core from a lake on Mount Kenya, the method found grass diversity was lowest during the Last Glacial Maximum, about 21,000 to 18,000 years ago, and rose with CO2 and temperature. The C4 share was higher in the late ice age and then gradually declined. The study appears in PNAS."
+        }
+      ]
+    },
+    "science/science-llm-symbolic-role-filler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+          "cap": "\"A Sunday on La Grande Jatte,\" Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
+        },
+        {
+          "t": "p",
+          "x": "Large language models handle math, logic and coding, tasks that seem to need symbolic reasoning, yet they don't manipulate symbols the way classic rule-based AI does; they process vectors, long lists of numbers. A team led by Yale computational linguist Tom McCoy found that these vectors implicitly organize into symbolic structure that isn't visible at the level of individual numbers."
+        },
+        {
+          "t": "p",
+          "x": "The researchers replaced the internal representations of seven LLMs with role-filler structures known as tensor product representations, in which words or numbers fill roles such as subject or numerator. Across language, arithmetic, logic and coding, the models' behavior remained largely unchanged."
+        },
+        {
+          "t": "p",
+          "x": "Targeted edits, such as moving the word \"clever\" to modify a different noun, changed the output accordingly. \"LLMs naturally converge to representations with role-filler structure,\" McCoy said. Co-authors are Paul Soulos and Paul Smolensky of Microsoft and Tal Linzen of NYU; the preprint is on arXiv."
+        }
+      ]
+    },
+    "science/science-spiking-net-event-timing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers at the University of Tokyo's International Research Center for Neurointelligence (WPI-IRCN), led by Zenas C. Chao with Yohei Yamada, built a recurrent spiking neural network of 1,000 neurons that learns what is expected, when it is expected and how likely it is, all at once."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+          "cap": "After training, a cue alone evokes time-specific anticipatory activity whose strength reflects each event's probability. Credit: Zenas C. Chao, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "Learning is confined to the readout connections and uses local rules rather than backpropagation or a globally broadcast error signal. When event probabilities or timings change, the network adapts, recovering faster than a global least-squares baseline."
+        },
+        {
+          "t": "p",
+          "x": "Published in Communications Biology, the work is a computational demonstration rather than evidence of how the brain implements prediction, but the authors say local learning may suit brain-inspired AI and neuromorphic hardware that must adapt in real time."
+        }
+      ]
+    },
+    "science/science-alphaproof-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A new LLM-based framework called AlphaProof Nexus can autonomously tackle select math problems, seeking proofs and using verification to ensure the solutions are logically sound, researchers report in Science. It solved dozens of previously open problems across several mathematical fields."
+        },
+        {
+          "t": "p",
+          "x": "LLMs tend to produce subtle logical errors or “hallucinations,” so the system generates proofs in the formal language Lean, which automatically verifies each logical step."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+          "cap": "Design of the full-featured AlphaProof Nexus agent. Credit: Tsoukalas et al., arXiv:2605.22763"
+        },
+        {
+          "t": "p",
+          "x": "George Tsoukalas and colleagues built a framework in which multiple AI agents search for proofs with feedback from the Lean compiler, plus a full-featured agent that coordinates subagents through an evolutionary algorithm and uses AlphaProof as a specialized proof tool."
+        },
+        {
+          "t": "p",
+          "x": "It solved nine of 353 attempted Erdős problems, including two unsolved for more than 50 years, and 44 of 492 open OEIS conjectures, along with problems in algebraic geometry, optimization, quantum optics and graph theory."
+        },
+        {
+          "t": "p",
+          "x": "In a related Perspective, Jeremy Avigad and Matthew Ballard note that even unsuccessful AI proof attempts helped the authors understand the problems better and make progress."
+        }
+      ]
     }
   }
 }

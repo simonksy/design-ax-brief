@@ -304,6 +304,116 @@
           "x": "BoneXpert는 2009년부터 유럽 임상 현장에서 쓰였고, 이를 뒷받침하는 동료 심사 연구도 50편이 넘는다. Visiana는 시월 초 U.S.에 내놓을 계획이다."
         }
       ]
+    },
+    "medicine/radnet-prostate-biopsy-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
+          "cap": "전립선암 PSA"
+        },
+        {
+          "t": "p",
+          "x": "RadNet 자회사 DeepHealth의 AI 솔루션을 쓰면 환자 5명 중 1명 가까이가 전립선 생검을 피할 수 있다는 연구 결과가 European Radiology에 실렸다. 연구진은 전립선 MRI에서 AI 위험 분류 도구와 영상의학과 전문의가 매긴 PI-RADS 점수를 견줘 봤다."
+        },
+        {
+          "t": "p",
+          "x": "AI 보조(AI-assisted) 생검 분류는 임상적으로 유의한 암에 대한 민감도 98.4%를 유지하면서도 생검의 19% 가까이를 피했다. 후향적으로 진행한 이 연구는 2014년부터 2025년까지 미국(U.S.), 독일, 네덜란드에서 다섯 개 제조사 장비로 촬영한 약 800명을 분석했다."
+        },
+        {
+          "t": "p",
+          "x": "이 도구는 PI-RADS의 다섯 개 범주 대신 저·중·고 세 단계로 단순화한 위험 척도를 쓴다. 환자 단위 민감도는 PI-RADS에 뒤지지 않았고 판별력은 더 높았다. 다만 병변 단위 민감도는 낮았다. 그래서 연구진은 판단이 모호한 PI-RADS 3 병변에서 특히 이 도구로 PI-RADS를 보완하고, 병변 위치 표시는 계속 영상의학과 전문의가 맡는 방식을 제안한다."
+        },
+        {
+          "t": "p",
+          "x": "DeepHealth의 Niccolò Stefani, MD는 “이번 결과는 자사 Prostate MR Solution의 AI 애플리케이션이 전립선 진료에서 가장 중대한 결정 지점 가운데 하나에서 임상의를 어떻게 지원할 수 있는지 보여 준다”고 말했다."
+        }
+      ]
+    },
+    "medicine/abridge-ut-system-ambient": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
+          "cap": "UT System 전반의 시범 사업에서 지난 12개월 동안 녹음 기능을 쓰는 임상의는 73%, 월간 노트는 80% 늘었다. (Pakorn Supajitsoontorn/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Abridge가 UT REAL Health AI와 전사 차원의 계약을 맺고 University of Texas System 전역으로 임상 AI 플랫폼을 넓힌다. 시스템 산하 여덟 개 보건 기관은 각자 자율적으로 의사결정을 하면서 이 플랫폼을 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "이번 계약은 2025년 시작한 시범 사업의 연장선에 있다. 시범 사업에는 외래·입원·응급 환경의 다섯 개 지점과 50개가 넘는 전문 분야의 임상의가 참여했다. UT Health 병원과 클리닉이 지난 한 해 제공한 외래 진료는 약 1170만 건이다."
+        },
+        {
+          "t": "p",
+          "x": "UT REAL Health AI 의장 Peter McCaffrey, M.D.는 “임상의가 앰비언트 AI를 더 많이 쓰게 해 행정 업무가 주는 정신적 부담을 걷어 내는 데만 집중하는 것이 아니라, 그렇게 되찾은 집중력과 인간적인 존재감을 병상의 환자에게 돌려주는 데도 똑같이 집중하고 있다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Abridge는 미국(U.S.) 최대 보건 시스템 300곳과 협력 중이며 올해 1억 건이 넘는 환자·임상의 대화를 지원할 것이라고 밝혔다. 지난달에는 VA와 전사 앰비언트 AI 계약을 따냈다."
+        }
+      ]
+    },
+    "medicine/coreline-jrs-lung-cad": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+        },
+        {
+          "t": "p",
+          "x": "코어라인소프트는 폐결절 진단보조 소프트웨어 AVIEW Lung Nodule CAD가 일본의학방사선학회(JRS)의 AI 소프트웨어 공식 인증 제품으로 등재됐다고 6일 밝혔다. 지난달 일본 의약품의료기기종합기구(PMDA) 승인에 이어 영상진단 가산수가와 연계할 수 있는 기반을 확보했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 인증으로 영상진단관리 가산3·4 시설기준을 충족하는 의료기관이 해당 제품을 활용할 때 가산수가를 산정할 수 있다. 다만 제품 인증만으로 모든 병원에 적용되는 것은 아니다. 일본에서 JRS 인증을 받은 AI 영상진단보조 소프트웨어는 현재 45종이며, PMDA 승인은 한국 개발 CT 기반 폐결절 CAD로는 첫 사례다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 지난해 뷰노의 일본 흉부 CT AI 자산을 인수한 뒤 1년 만에 고객 병원을 약 80곳까지 늘렸고, 심혈관 소프트웨어 AVIEW CAC의 M3 AI 공급계약도 체결했다."
+        },
+        {
+          "t": "p",
+          "x": "김진국 대표는 \"PMDA 인허가에 이어 병원의 수가 요건까지 충족하는 인증을 확보하면서, 일본 의료기관이 AI를 도입하고 지속적으로 사용할 유인이 한층 명확해졌다\"고 말했다."
+        }
+      ]
+    },
+    "medicine/gpt5-agent-complexity-paradox": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "연구진은 임상의가 검증한 실제 멀티모달 사례 161건으로 GPT-5 기반(GPT-5-based) 구성 열 가지를 체계적으로 정량 분석했다. 평가 항목은 진단 정확도, 추론의 질, 검색 정확도, 근거 통합, 저품질 입력에 대한 견고성이다."
+        },
+        {
+          "t": "p",
+          "x": "분석에서는 중요한 한계가 드러났다. 영상 오해석, 때로 성능을 떨어뜨린 일관성 없는 웹 검색, 에이전트 워크플로의 제한적 투명성이 그것이다. 강점으로는 환자 병력의 효과적 활용, 명확한 단계별 추론, 타당한 감별 진단, 명시적 추론에 따른 특이도 향상, 관련 근거 검색이 꼽혔다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 실제 환경에서 믿을 만한 멀티모달 진단이 공격적인 검색이나 복잡한 에이전트 워크플로보다 투명한 추론과 양질의 입력에 더 크게 좌우된다고 결론지었다. 근거 통합과 시각적 추론의 격차는 여전히 일상 임상 활용을 가로막는 주요 장벽이라고도 지적했다."
+        }
+      ]
+    },
+    "medicine/medicine-mri2ct-bone": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-05/istock-1254500439.jpg?h=140710cd&itok=GgvKX78v"
+        },
+        {
+          "t": "p",
+          "x": "미국 식품의약국(U.S. Food and Drug Administration)이 MRI2CT Inc.의 AI 기반(AI-powered) 플랫폼 NextMR을 허가했다. 표준 척추 MRI만으로 뼈를 3D로 시각화하는 플랫폼이다. 이스라엘 기반(Israel-based) 업체 MRI2CT는 “척추 진료의 MRI-only 워크플로”를 실현하는 것이 목표라고 밝혔다. 환자를 CT의 추가 방사선에 노출하지 않고도 뼈 형태를 정밀하게 모델링한다는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "CEO Shmulik Shpiro는 “환자는 보통 MRI로 척추 진료를 시작하지만, 뼈를 정밀한 3D로 보려면 영상 검사를 한 번 더 받아야 할 수 있다”며 “NextMR은 그 패러다임을 바꾼다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "NextMR은 1.5T와 3T 스캐너의 일반 MRI 시퀀스로 돌아간다. 60초 안에 3D 뼈 결과물을 자동으로 만들어 웹 인터페이스에 띄운다. 검증에는 미국(U.S.)과 이스라엘(Israel) 기관의 독립 후향적 데이터셋을 썼는데, MRI와 CT 영상을 함께 갖춘 성인 145명 분량이다."
+        }
+      ]
     }
   }
 }

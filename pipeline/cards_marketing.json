@@ -1,288 +1,191 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-adweek-ai-tools",
+      "id": "openai-chatgpt-ads-agency-partner",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta, 광고주용\n새 AI 도구 시험",
-      "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
-      "mini_headline": "Meta, 새 AI 광고 도구 시험",
+      "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
+      "body": "OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
+      "mini_headline": "OpenAI, 광고대행사 공략",
       "tool": "Marketing",
-      "source": "Marketing Dive",
-      "url": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
-          },
-          {
-            "t": "p",
-            "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 크리에이티브 인사이트를 새로 넣고, 기억하는 맥락도 늘린다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
-          },
-          {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
           },
           {
             "t": "p",
-            "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험 중이다. 에이전트 기능을 더해 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅과 광고 예산을 바꾸게 한다. 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
+            "x": "OpenAI가 영업 인력을 새로 뽑는다. ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 자리 잡게 하는 일이다."
           },
           {
             "t": "p",
-            "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+            "x": "Ads Solutions 팀이 낸 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. 근무지는 New York이고, 기본급 $216,000에서 $273,000에 지분과 커미션이 붙는다."
           },
           {
             "t": "p",
-            "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+            "x": "뽑힌 사람은 대행사와 공동 사업 계획을 이끌고 대행사 교육과 역량 강화도 맡는다. 독립 대행사와 홀딩컴퍼니를 가리지 않고 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는 일도 포함된다."
           },
           {
             "t": "p",
-            "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
+            "x": "Meta와 Google도 반복 광고비를 묶어 두려고 바로 이런 홀딩컴퍼니 영업 조직을 운영한다."
           }
         ]
       },
-      "lead_image": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp",
       "text": {
         "en": {
-          "headline": "Meta tests new AI tools\nfor advertisers",
-          "body": "Meta is testing importing and creative insight features plus better conversational guidance in its AI tools.",
-          "mini_headline": "Meta tests new AI ad tools",
+          "headline": "OpenAI builds an agency\nsales layer for ChatGPT ads",
+          "body": "OpenAI is hiring an Agency Partner to build the sales layer Meta and Google use to lock in recurring ad spend.",
+          "mini_headline": "OpenAI courts ad agencies",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta announced a range of ad updates at its Advertising Week presentation in New York, including an improved business assistant, an expansion of its creative tools for brands and new shopping experiences."
-              },
-              {
-                "t": "p",
-                "x": "Meta is beefing up its AI-powered business assistant, which provides conversational guidance on key ad creation elements, by adding new creative insights and giving it more memory and context: “the context of what you tried last quarter, your seasonality, and the goals you’ve described,” Meta said."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta is also testing importing tools that let brands upload their strategy and brand voice guidelines, adding agentic capacity so the assistant can generate creative, update targeting and change an ad's budget via conversational prompts, and testing scheduled tasks such as recurring performance reports and alerts."
+                "x": "OpenAI is hiring a salesperson with a mandate to turn ChatGPT ads into a standing line item on agency media plans."
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio is expanding to more advertisers, the Meta Ads MCP server now supports more use cases for third-party AI tools, and Customer Lifecycle Strategy is available to all advertisers."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "A listing for an Agency Partner on the company's Ads Solutions team calls for someone to drive advertiser revenue “through strategic relationships with leading agency holding companies.” The New York-based role pays a base salary of $216,000 to $273,000, plus equity and commission."
               },
               {
                 "t": "p",
-                "x": "In Advantage+ creative, generating video from existing static assets is now generally available; Ads Creative Studio adds tools to change hooks, adjust audio and clip length, add text overlays and captions, or change end scenes."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "The hire will lead joint business planning with agencies, run agency education and enablement, and build relationships with senior agency staff across investment, strategy, planning, innovation, data, and commerce at both independent agencies and holding companies."
               },
               {
                 "t": "p",
-                "x": "Meta is working with Shopify on direct checkout via Meta Business Agent on Messenger, and testing similar checkout options for Meta AI with Adyen, PayPal, Shopify and Stripe."
+                "x": "It is the same holding-company sales layer that Meta and Google use to lock in recurring spend."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, 광고주용\n새 AI 도구 시험",
-          "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
-          "mini_headline": "Meta, 새 AI 광고 도구 시험",
+          "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
+          "body": "OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
+          "mini_headline": "OpenAI, 광고대행사 공략",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
-              },
-              {
-                "t": "p",
-                "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 크리에이티브 인사이트를 새로 넣고, 기억하는 맥락도 늘린다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험 중이다. 에이전트 기능을 더해 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅과 광고 예산을 바꾸게 한다. 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
+                "x": "OpenAI가 영업 인력을 새로 뽑는다. ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 자리 잡게 하는 일이다."
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "Ads Solutions 팀이 낸 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. 근무지는 New York이고, 기본급 $216,000에서 $273,000에 지분과 커미션이 붙는다."
               },
               {
                 "t": "p",
-                "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "뽑힌 사람은 대행사와 공동 사업 계획을 이끌고 대행사 교육과 역량 강화도 맡는다. 독립 대행사와 홀딩컴퍼니를 가리지 않고 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는 일도 포함된다."
               },
               {
                 "t": "p",
-                "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
+                "x": "Meta와 Google도 반복 광고비를 묶어 두려고 바로 이런 홀딩컴퍼니 영업 조직을 운영한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告主向け\n新AIツールを試験",
-          "body": "MetaはAIツールで取り込みやクリエイティブ分析、改善した対話型ガイダンスを試験中だ。",
-          "mini_headline": "Meta、新AI広告ツールを試験",
+          "headline": "OpenAI、ChatGPT\n広告の代理店営業網を構築",
+          "body": "OpenAIが代理店営業を担うAgency Partnerを募集している。",
+          "mini_headline": "OpenAI、広告代理店に接近",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MetaはNew YorkでのAdvertising Weekのプレゼンテーションで、改良したビジネスアシスタント、ブランド向けクリエイティブツールの拡充、新しいショッピング体験など、一連の広告アップデートを発表した。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは、広告制作の主要要素について対話形式でガイダンスを示すAI-poweredのビジネスアシスタントを強化する。新たなクリエイティブインサイトを加え、記憶と文脈を広げる。Metaはその文脈を「前四半期に試したこと、季節性、説明済みの目標という文脈」だと説明した。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Metaはさらに、ブランドが戦略やブランドボイスのガイドラインをアップロードできる取り込みツールを試験している。対話型プロンプトでアシスタントがクリエイティブを生成し、ターゲティングを更新し、広告予算を変更できるようエージェント機能も加える。定期的なパフォーマンスレポートやアラートといった予約タスクも試験中だ。"
+                "x": "OpenAIは、ChatGPT広告を代理店のメディアプランの常設項目にする使命を担う営業担当者を募集している。"
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studioはより多くの広告主に広がり、Meta Ads MCPサーバーはthird-partyのAIツールでより多くの用途に対応した。Customer Lifecycle Strategyはすべての広告主が利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "同社Ads SolutionsチームのAgency Partnerの求人は、「大手代理店ホールディングスとの戦略的関係を通じて」広告主収益を伸ばす人材を求めている。New York拠点の職で、基本給は$216,000〜$273,000、これに株式とコミッションが加わる。"
               },
               {
                 "t": "p",
-                "x": "Advantage+ creativeでは、既存の静止画アセットから動画を生成する機能が一般提供となった。Ads Creative Studioには、フックの変更、音声とクリップ長の調整、テキストオーバーレイと字幕の追加、エンドシーンの変更を行うツールが加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "採用者は代理店との共同事業計画を主導し、代理店向けの教育と支援を担い、独立系代理店とホールディングスの双方で、投資、戦略、プランニング、イノベーション、データ、コマースにわたる代理店幹部との関係を築く。"
               },
               {
                 "t": "p",
-                "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
+                "x": "これはMetaとGoogleが継続的な広告費を囲い込むために使っているのと同じ、ホールディングス向けの営業体制である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta为广告主\n测试新AI工具",
-          "body": "Meta正在AI工具中测试导入与创意洞察功能，并改进对话式指导。",
-          "mini_headline": "Meta测试新AI广告工具",
+          "headline": "OpenAI为ChatGPT\n广告搭建代理商销售层",
+          "body": "OpenAI正招聘Agency Partner，搭建代理商销售体系。",
+          "mini_headline": "OpenAI拉拢广告代理商",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta在New York的Advertising Week发布会上公布了一系列广告更新，包括改进的商业助手、面向品牌的创意工具扩展以及新的购物体验。"
-              },
-              {
-                "t": "p",
-                "x": "Meta正在加强其AI-powered商业助手。该助手以对话方式就广告制作的关键要素提供指导，此次新增创意洞察，并赋予它更多记忆和上下文。Meta表示，这包括“你上季度尝试过的内容、你的季节性规律，以及你描述过的目标”。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta还在测试导入工具，让品牌上传其策略和品牌语调指南；同时加入智能体能力，使助手能通过对话式提示生成创意、更新定向并调整广告预算；此外也在测试定期效果报告和提醒等计划任务。"
+                "x": "OpenAI正在招聘一名销售人员，其任务是让ChatGPT广告成为代理商媒体计划中的固定项目。"
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio正向更多广告主开放，Meta Ads MCP服务器现在支持third-party AI工具的更多用例，Customer Lifecycle Strategy已向所有广告主开放。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "该公司Ads Solutions团队的Agency Partner职位招聘启事要求应聘者“通过与主要代理控股集团建立战略关系”来推动广告主收入。该职位位于New York，基本年薪为$216,000至$273,000，另有股权和佣金。"
               },
               {
                 "t": "p",
-                "x": "在Advantage+ creative中，用现有静态素材生成视频的功能已全面上线；Ads Creative Studio新增工具，可更换开头钩子、调整音频和片段时长、添加文字叠加和字幕，或更换结尾画面。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "该职位将主导与代理商的联合业务规划，负责代理商培训与赋能，并在独立代理商和控股集团中，与投资、战略、策划、创新、数据和商务等领域的代理商高层建立关系。"
               },
               {
                 "t": "p",
-                "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
+                "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta prueba nuevas herramientas\nde AI para anunciantes",
-          "body": "Meta prueba en sus herramientas de AI importación, insights creativos y mejor guía conversacional.",
-          "mini_headline": "Meta prueba nuevas herramientas de AI para anuncios",
+          "headline": "OpenAI arma ventas con agencias\npara los anuncios de ChatGPT",
+          "body": "OpenAI busca un Agency Partner para crear la capa de ventas con agencias que ya usan Meta y Google.",
+          "mini_headline": "OpenAI corteja a las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta anunció una serie de novedades publicitarias en su presentación de Advertising Week en New York, entre ellas un asistente empresarial mejorado, la ampliación de sus herramientas creativas para marcas y nuevas experiencias de compra."
-              },
-              {
-                "t": "p",
-                "x": "Meta refuerza su asistente empresarial AI-powered, que ofrece orientación conversacional sobre los elementos clave de la creación de anuncios, con nuevos insights creativos y más memoria y contexto: “el contexto de lo que probaste el trimestre pasado, tu estacionalidad y los objetivos que has descrito”, dijo Meta."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta también prueba herramientas de importación que permiten a las marcas subir su estrategia y sus pautas de voz de marca, añade capacidad agéntica para que el asistente genere creatividades, actualice la segmentación y cambie el presupuesto de un anuncio mediante instrucciones conversacionales, y prueba tareas programadas como informes de rendimiento y alertas periódicas."
+                "x": "OpenAI busca un vendedor con el encargo de convertir los anuncios de ChatGPT en una partida fija de los planes de medios de las agencias."
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio se amplía a más anunciantes, el servidor Meta Ads MCP admite ahora más casos de uso para herramientas de AI third-party y Customer Lifecycle Strategy está disponible para todos los anunciantes."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "Una oferta para un puesto de Agency Partner en el equipo de Ads Solutions de la compañía pide a alguien que impulse los ingresos de anunciantes “mediante relaciones estratégicas con los principales holdings de agencias”. El puesto, con sede en New York, ofrece un salario base de $216,000 a $273,000, más acciones y comisiones."
               },
               {
                 "t": "p",
-                "x": "En Advantage+ creative, la generación de video a partir de recursos estáticos existentes ya está disponible para todos; Ads Creative Studio suma herramientas para cambiar ganchos, ajustar el audio y la duración de los clips, añadir textos superpuestos y subtítulos o cambiar las escenas finales."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "La persona contratada dirigirá la planificación conjunta de negocio con las agencias, se encargará de la formación y capacitación de agencias y creará relaciones con altos cargos de inversión, estrategia, planificación, innovación, datos y comercio, tanto en agencias independientes como en holdings."
               },
               {
                 "t": "p",
-                "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
+                "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
               }
             ]
           }
@@ -290,185 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, 광고주용\n새 AI 도구 시험",
-          "body": "Meta가 AI 도구에 가져오기·크리에이티브 인사이트와 대화형 안내를 시험한다.",
-          "mini_headline": "Meta, 새 AI 광고 도구 시험",
+          "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
+          "body": "OpenAI가 대행사 영업을 맡을 Agency Partner를 뽑는다.",
+          "mini_headline": "OpenAI, 광고대행사 공략",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta는 New York에서 열린 Advertising Week 발표에서 개선된 비즈니스 어시스턴트, 브랜드용 크리에이티브 도구 확대, 새로운 쇼핑 경험 등 여러 광고 업데이트를 공개했다."
-              },
-              {
-                "t": "p",
-                "x": "Meta는 광고 제작의 핵심 요소를 대화형으로 안내하는 AI-powered 비즈니스 어시스턴트를 강화한다. 새 크리에이티브 인사이트를 더하고 기억과 맥락을 늘리는 방식이다. Meta는 이 맥락을 “지난 분기에 시도한 것, 시즌별 흐름, 설명해 둔 목표”라고 밝혔다."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta는 브랜드가 전략과 브랜드 보이스 가이드라인을 올릴 수 있는 가져오기 도구도 시험하고 있다. 어시스턴트가 대화형 프롬프트만으로 크리에이티브를 만들고 타기팅을 수정하며 광고 예산을 바꿀 수 있도록 에이전트 기능을 더하고, 정기 성과 보고서와 알림 같은 예약 작업도 시험한다."
+                "x": "OpenAI가 ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 만드는 임무를 맡을 영업 인력을 뽑는다."
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio는 더 많은 광고주에게 열리고, Meta Ads MCP 서버는 third-party AI 도구의 활용 사례를 더 넓게 지원한다. Customer Lifecycle Strategy는 이제 모든 광고주가 쓸 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "회사 Ads Solutions 팀의 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. New York 근무 직책으로, 기본급은 $216,000에서 $273,000이며 지분과 커미션이 더해진다."
               },
               {
                 "t": "p",
-                "x": "Advantage+ creative에서는 기존 정적 에셋으로 영상을 만드는 기능이 정식 출시됐다. Ads Creative Studio에는 훅 변경, 오디오와 클립 길이 조정, 텍스트 오버레이와 자막 추가, 엔딩 장면 변경 도구가 더해졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "채용자는 대행사와의 공동 사업 계획을 이끌고, 대행사 교육과 역량 강화를 맡으며, 독립 대행사와 홀딩컴퍼니 양쪽에서 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는다."
               },
               {
                 "t": "p",
-                "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent를 통한 바로 결제를 준비하고 있으며, Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
+                "x": "Meta와 Google이 반복 광고비를 묶어 두는 데 쓰는 바로 그 홀딩컴퍼니 영업 조직이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告主向け\n新AIツールを試験",
-          "body": "MetaはAIツールで取り込みやクリエイティブ分析、改善した対話型ガイダンスを試験中だ。",
-          "mini_headline": "Meta、新AI広告ツールを試験",
+          "headline": "OpenAI、ChatGPT\n広告の代理店営業網を構築",
+          "body": "OpenAIが代理店営業を担うAgency Partnerを募集している。",
+          "mini_headline": "OpenAI、広告代理店に接近",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MetaはNew YorkでのAdvertising Weekのプレゼンテーションで、改良したビジネスアシスタント、ブランド向けクリエイティブツールの拡充、新しいショッピング体験など、一連の広告アップデートを発表した。"
-              },
-              {
-                "t": "p",
-                "x": "Metaは、広告制作の主要要素について対話形式でガイダンスを示すAI-poweredのビジネスアシスタントを強化する。新たなクリエイティブインサイトを加え、記憶と文脈を広げる。Metaはその文脈を「前四半期に試したこと、季節性、説明済みの目標という文脈」だと説明した。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Metaはさらに、ブランドが戦略やブランドボイスのガイドラインをアップロードできる取り込みツールを試験している。対話型プロンプトでアシスタントがクリエイティブを生成し、ターゲティングを更新し、広告予算を変更できるようエージェント機能も加える。定期的なパフォーマンスレポートやアラートといった予約タスクも試験中だ。"
+                "x": "OpenAIは、ChatGPT広告を代理店のメディアプランの常設項目にする使命を担う営業担当者を募集している。"
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studioはより多くの広告主に広がり、Meta Ads MCPサーバーはthird-partyのAIツールでより多くの用途に対応した。Customer Lifecycle Strategyはすべての広告主が利用できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "同社Ads SolutionsチームのAgency Partnerの求人は、「大手代理店ホールディングスとの戦略的関係を通じて」広告主収益を伸ばす人材を求めている。New York拠点の職で、基本給は$216,000〜$273,000、これに株式とコミッションが加わる。"
               },
               {
                 "t": "p",
-                "x": "Advantage+ creativeでは、既存の静止画アセットから動画を生成する機能が一般提供となった。Ads Creative Studioには、フックの変更、音声とクリップ長の調整、テキストオーバーレイと字幕の追加、エンドシーンの変更を行うツールが加わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "採用者は代理店との共同事業計画を主導し、代理店向けの教育と支援を担い、独立系代理店とホールディングスの双方で、投資、戦略、プランニング、イノベーション、データ、コマースにわたる代理店幹部との関係を築く。"
               },
               {
                 "t": "p",
-                "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
+                "x": "これはMetaとGoogleが継続的な広告費を囲い込むために使っているのと同じ、ホールディングス向けの営業体制である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta为广告主\n测试新AI工具",
-          "body": "Meta正在AI工具中测试导入与创意洞察功能，并改进对话式指导。",
-          "mini_headline": "Meta测试新AI广告工具",
+          "headline": "OpenAI为ChatGPT\n广告搭建代理商销售层",
+          "body": "OpenAI正招聘Agency Partner，搭建代理商销售体系。",
+          "mini_headline": "OpenAI拉拢广告代理商",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta在New York的Advertising Week发布会上公布了一系列广告更新，包括改进的商业助手、面向品牌的创意工具扩展以及新的购物体验。"
-              },
-              {
-                "t": "p",
-                "x": "Meta正在加强其AI-powered商业助手。该助手以对话方式就广告制作的关键要素提供指导，此次新增创意洞察，并赋予它更多记忆和上下文。Meta表示，这包括“你上季度尝试过的内容、你的季节性规律，以及你描述过的目标”。"
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta还在测试导入工具，让品牌上传其策略和品牌语调指南；同时加入智能体能力，使助手能通过对话式提示生成创意、更新定向并调整广告预算；此外也在测试定期效果报告和提醒等计划任务。"
+                "x": "OpenAI正在招聘一名销售人员，其任务是让ChatGPT广告成为代理商媒体计划中的固定项目。"
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio正向更多广告主开放，Meta Ads MCP服务器现在支持third-party AI工具的更多用例，Customer Lifecycle Strategy已向所有广告主开放。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "该公司Ads Solutions团队的Agency Partner职位招聘启事要求应聘者“通过与主要代理控股集团建立战略关系”来推动广告主收入。该职位位于New York，基本年薪为$216,000至$273,000，另有股权和佣金。"
               },
               {
                 "t": "p",
-                "x": "在Advantage+ creative中，用现有静态素材生成视频的功能已全面上线；Ads Creative Studio新增工具，可更换开头钩子、调整音频和片段时长、添加文字叠加和字幕，或更换结尾画面。"
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "该职位将主导与代理商的联合业务规划，负责代理商培训与赋能，并在独立代理商和控股集团中，与投资、战略、策划、创新、数据和商务等领域的代理商高层建立关系。"
               },
               {
                 "t": "p",
-                "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
+                "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta prueba nuevas herramientas\nde AI para anunciantes",
-          "body": "Meta prueba en sus herramientas de AI importación, insights creativos y mejor guía conversacional.",
-          "mini_headline": "Meta prueba nuevas herramientas de AI para anuncios",
+          "headline": "OpenAI arma ventas con agencias\npara los anuncios de ChatGPT",
+          "body": "OpenAI busca un Agency Partner para crear la capa de ventas con agencias que ya usan Meta y Google.",
+          "mini_headline": "OpenAI corteja a las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta anunció una serie de novedades publicitarias en su presentación de Advertising Week en New York, entre ellas un asistente empresarial mejorado, la ampliación de sus herramientas creativas para marcas y nuevas experiencias de compra."
-              },
-              {
-                "t": "p",
-                "x": "Meta refuerza su asistente empresarial AI-powered, que ofrece orientación conversacional sobre los elementos clave de la creación de anuncios, con nuevos insights creativos y más memoria y contexto: “el contexto de lo que probaste el trimestre pasado, tu estacionalidad y los objetivos que has descrito”, dijo Meta."
-              },
-              {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/TjhMr7qLdmPU2zu2a-857lRMzEZaQGMKXPnUsDQtftM/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudC5wbmc=.webp"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
               },
               {
                 "t": "p",
-                "x": "Meta también prueba herramientas de importación que permiten a las marcas subir su estrategia y sus pautas de voz de marca, añade capacidad agéntica para que el asistente genere creatividades, actualice la segmentación y cambie el presupuesto de un anuncio mediante instrucciones conversacionales, y prueba tareas programadas como informes de rendimiento y alertas periódicas."
+                "x": "OpenAI busca un vendedor con el encargo de convertir los anuncios de ChatGPT en una partida fija de los planes de medios de las agencias."
               },
               {
                 "t": "p",
-                "x": "Ads Creative Studio se amplía a más anunciantes, el servidor Meta Ads MCP admite ahora más casos de uso para herramientas de AI third-party y Customer Lifecycle Strategy está disponible para todos los anunciantes."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/ydlERPDfNcSDd6AD-dcgcRPYWVHAiBUUjEBltt1RDgs/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDMucG5n.webp"
+                "x": "Una oferta para un puesto de Agency Partner en el equipo de Ads Solutions de la compañía pide a alguien que impulse los ingresos de anunciantes “mediante relaciones estratégicas con los principales holdings de agencias”. El puesto, con sede en New York, ofrece un salario base de $216,000 a $273,000, más acciones y comisiones."
               },
               {
                 "t": "p",
-                "x": "En Advantage+ creative, la generación de video a partir de recursos estáticos existentes ya está disponible para todos; Ads Creative Studio suma herramientas para cambiar ganchos, ajustar el audio y la duración de los clips, añadir textos superpuestos y subtítulos o cambiar las escenas finales."
-              },
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/7PL7pm9RrcBDekT1dYxyd4-b461ggx81M7OnZUHsEGA/g:ce/rs:fit:1600:0/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2J1c2luZXNzX2Fzc2lzdGFudDIucG5n.webp"
+                "x": "La persona contratada dirigirá la planificación conjunta de negocio con las agencias, se encargará de la formación y capacitación de agencias y creará relaciones con altos cargos de inversión, estrategia, planificación, innovación, datos y comercio, tanto en agencias independientes como en holdings."
               },
               {
                 "t": "p",
-                "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
+                "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
               }
             ]
           }
@@ -476,567 +315,189 @@
       }
     },
     {
-      "id": "marketing-weight-watchers-chatgpt-cpa",
+      "id": "chatgpt-virtual-try-on-selfie",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
-      "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
-      "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
+      "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
+      "body": "ChatGPT에 셀카를 올리면 옷과 액세서리를 걸친 모습을 미리 본다.",
+      "mini_headline": "ChatGPT 가상 피팅",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/weight-watchers-chatgpt-ads-cpa-ran-15-3-below-benchmark-dv-says/",
+      "source": "Retail Dive",
+      "url": "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
       "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-          },
-          {
-            "t": "p",
-            "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 함께 개발하는데, 아직 끝나지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간에 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠졌다. ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
-          }
-        ]
-      },
-      "lead_image": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg",
-      "text": {
-        "en": {
-          "headline": "Weight Watchers' ChatGPT ads\nbeat CPA benchmark by 15.3%",
-          "body": "DoubleVerify says Weight Watchers' ChatGPT ads delivered a cost per acquisition 15.3% below benchmark.",
-          "mini_headline": "ChatGPT ads beat CPA benchmark",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify said on October 5, 2026 that advertisers can now measure ChatGPT Ads as one touchpoint among their other channels inside DV Rockerbox, the attribution business it bought in 2025 for $85 million. It is also developing a brand suitability pilot with OpenAI, still a work in progress."
-              },
-              {
-                "t": "p",
-                "x": "According to DoubleVerify, Weight Watchers added ChatGPT Ads as a new source of member acquisition, and its attributed cost per acquisition landed 15.3% below its established benchmark during the measured period. OpenAI's same-day post describes the comparison as a blended paid-search benchmark."
-              },
-              {
-                "t": "p",
-                "x": "“As new advertising channels emerge, we need to understand how they contribute to the broader customer journey,” said Jake Dmochowski, vice president of growth at Weight Watchers."
-              },
-              {
-                "t": "p",
-                "x": "The release offers no spend, flight dates, acquisition counts, attribution window or benchmark definition, and does not say whether multi-touch attribution or incrementality testing applies to ChatGPT Ads."
-              },
-              {
-                "t": "p",
-                "x": "The pilot would have independent partners assess OpenAI's suitability policies and guardrails without accessing private user conversations; OpenAI names Integral Ad Science in a parallel pilot."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
-          "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
-          "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 함께 개발하는데, 아직 끝나지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간에 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠졌다. ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT広告のCPA\n基準を15.3%下回る",
-          "body": "Weight WatchersのChatGPT広告は、CPAが基準を15.3%下回った。",
-          "mini_headline": "ChatGPT広告、CPA基準を上回る成果",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerifyは2026年10月5日、広告主がDV Rockerbox内でChatGPT Adsをほかのチャネルと並ぶ一つのタッチポイントとして測定できるようになったと発表した。DV Rockerboxは同社が2025年に$85 million で買収したアトリビューション事業だ。同社はOpenAIとブランド適合性のパイロットも開発しているが、まだ途上にある。"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerifyによると、Weight WatchersはChatGPT Adsを新たな会員獲得の手段として加え、計測期間中のアトリビューションによる顧客獲得単価は、既存のベンチマークを15.3%下回った。OpenAIは同日の投稿で、比較対象をブレンドしたpaid-searchのベンチマークだと説明している。"
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchersのグロース担当バイスプレジデント、Jake Dmochowskiは「新しい広告チャネルが生まれるなか、それがより広いカスタマージャーニーにどう貢献するかを理解する必要がある」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "発表には広告費、配信期間、獲得件数、アトリビューション期間、ベンチマークの定義が示されておらず、ChatGPT Adsにmulti-touchアトリビューションやインクリメンタリティテストが適用されるかどうかも明らかにしていない。"
-              },
-              {
-                "t": "p",
-                "x": "パイロットでは、独立したパートナーが非公開のユーザー会話にアクセスすることなく、OpenAIの適合性ポリシーとガードレールを評価する。OpenAIは並行するパイロットでIntegral Ad Scienceの名を挙げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT广告CPA\n低于基准15.3%",
-          "body": "Weight Watchers的ChatGPT广告获客成本比基准低15.3%。",
-          "mini_headline": "ChatGPT广告CPA优于基准",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify于2026年10月5日表示，广告主现在可以在DV Rockerbox中把ChatGPT Ads作为与其他渠道并列的一个触点来衡量。DV Rockerbox是DoubleVerify在2025年以$85 million 收购的归因业务。该公司还在与OpenAI开发一项品牌适宜性试点，目前仍在推进中。"
-              },
-              {
-                "t": "p",
-                "x": "据DoubleVerify称，Weight Watchers将ChatGPT Ads作为新的会员获取来源，在衡量期内，其归因后的单次获客成本比既定基准低15.3%。OpenAI同日发布的文章称，这一比较对象是混合的paid-search基准。"
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchers增长副总裁Jake Dmochowski表示：“随着新的广告渠道不断出现，我们需要了解它们如何为更广泛的客户旅程做出贡献。”"
-              },
-              {
-                "t": "p",
-                "x": "此次发布没有给出投放金额、投放日期、获客数量、归因窗口或基准定义，也没有说明ChatGPT Ads是否适用multi-touch归因或增量测试。"
-              },
-              {
-                "t": "p",
-                "x": "该试点将由独立合作方在不接触用户私密对话的情况下，评估OpenAI的适宜性政策和防护措施；OpenAI在一项并行试点中点名了Integral Ad Science。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Weight Watchers: CPA en ChatGPT\nun 15.3% bajo la referencia",
-          "body": "Según DoubleVerify, los anuncios de Weight Watchers en ChatGPT tuvieron un CPA 15.3% inferior a la referencia.",
-          "mini_headline": "Los anuncios en ChatGPT superan la referencia de CPA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify informó el 5 de octubre de 2026 que los anunciantes ya pueden medir ChatGPT Ads como un punto de contacto más entre sus otros canales dentro de DV Rockerbox, el negocio de atribución que compró en 2025 por $85 millones. También desarrolla con OpenAI un piloto de idoneidad de marca, todavía en curso."
-              },
-              {
-                "t": "p",
-                "x": "Según DoubleVerify, Weight Watchers incorporó ChatGPT Ads como nueva fuente de captación de socios, y su costo por adquisición atribuido quedó un 15.3% por debajo de su referencia establecida durante el periodo medido. La publicación de OpenAI del mismo día describe la comparación como una referencia combinada de paid-search."
-              },
-              {
-                "t": "p",
-                "x": "“A medida que surgen nuevos canales publicitarios, necesitamos entender cómo contribuyen al recorrido más amplio del cliente”, dijo Jake Dmochowski, vicepresidente de crecimiento de Weight Watchers."
-              },
-              {
-                "t": "p",
-                "x": "El comunicado no detalla inversión, fechas de campaña, número de adquisiciones, ventana de atribución ni definición de la referencia, y no aclara si a ChatGPT Ads se le aplica atribución multi-touch o pruebas de incrementalidad."
-              },
-              {
-                "t": "p",
-                "x": "En el piloto, socios independientes evaluarían las políticas de idoneidad y las salvaguardas de OpenAI sin acceder a conversaciones privadas de los usuarios; OpenAI menciona a Integral Ad Science en un piloto paralelo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "ChatGPT 광고 CPA\n기준보다 15.3% 낮았다",
-          "body": "Weight Watchers ChatGPT 광고 CPA가 기준을 15.3% 밑돈다.",
-          "mini_headline": "ChatGPT 광고, CPA 기준 앞섰다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify는 2026년 10월 5일, 광고주가 이제 DV Rockerbox 안에서 ChatGPT Ads를 다른 채널과 나란히 하나의 접점으로 측정할 수 있다고 밝혔다. DV Rockerbox는 DoubleVerify가 2025년에 $85 million 규모로 인수한 어트리뷰션 사업이다. DoubleVerify는 OpenAI와 브랜드 적합성 파일럿도 개발하고 있으며, 이 작업은 아직 진행 중이다."
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify에 따르면 Weight Watchers는 ChatGPT Ads를 새 회원 확보 경로로 추가했고, 측정 기간 동안 어트리뷰션 기준 획득당 비용은 기존 벤치마크보다 15.3% 낮았다. OpenAI는 같은 날 올린 글에서 비교 대상을 혼합 paid-search 벤치마크라고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchers의 성장 부문 부사장 Jake Dmochowski는 “새로운 광고 채널이 등장하는 만큼, 그 채널이 더 넓은 고객 여정에 어떻게 기여하는지 이해해야 한다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "발표에는 광고비, 집행 기간, 확보 건수, 어트리뷰션 기간, 벤치마크 정의가 빠져 있고, ChatGPT Ads에 multi-touch 어트리뷰션이나 증분 테스트를 적용하는지도 밝히지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "파일럿에서는 독립 파트너가 비공개 사용자 대화에 접근하지 않고 OpenAI의 적합성 정책과 가드레일을 평가한다. OpenAI는 병행 파일럿에서 Integral Ad Science를 파트너로 꼽았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ChatGPT広告のCPA\n基準を15.3%下回る",
-          "body": "Weight WatchersのChatGPT広告は、CPAが基準を15.3%下回った。",
-          "mini_headline": "ChatGPT広告、CPA基準を上回る成果",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerifyは2026年10月5日、広告主がDV Rockerbox内でChatGPT Adsをほかのチャネルと並ぶ一つのタッチポイントとして測定できるようになったと発表した。DV Rockerboxは同社が2025年に$85 million で買収したアトリビューション事業だ。同社はOpenAIとブランド適合性のパイロットも開発しているが、まだ途上にある。"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerifyによると、Weight WatchersはChatGPT Adsを新たな会員獲得の手段として加え、計測期間中のアトリビューションによる顧客獲得単価は、既存のベンチマークを15.3%下回った。OpenAIは同日の投稿で、比較対象をブレンドしたpaid-searchのベンチマークだと説明している。"
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchersのグロース担当バイスプレジデント、Jake Dmochowskiは「新しい広告チャネルが生まれるなか、それがより広いカスタマージャーニーにどう貢献するかを理解する必要がある」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "発表には広告費、配信期間、獲得件数、アトリビューション期間、ベンチマークの定義が示されておらず、ChatGPT Adsにmulti-touchアトリビューションやインクリメンタリティテストが適用されるかどうかも明らかにしていない。"
-              },
-              {
-                "t": "p",
-                "x": "パイロットでは、独立したパートナーが非公開のユーザー会話にアクセスすることなく、OpenAIの適合性ポリシーとガードレールを評価する。OpenAIは並行するパイロットでIntegral Ad Scienceの名を挙げている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "ChatGPT广告CPA\n低于基准15.3%",
-          "body": "Weight Watchers的ChatGPT广告获客成本比基准低15.3%。",
-          "mini_headline": "ChatGPT广告CPA优于基准",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify于2026年10月5日表示，广告主现在可以在DV Rockerbox中把ChatGPT Ads作为与其他渠道并列的一个触点来衡量。DV Rockerbox是DoubleVerify在2025年以$85 million 收购的归因业务。该公司还在与OpenAI开发一项品牌适宜性试点，目前仍在推进中。"
-              },
-              {
-                "t": "p",
-                "x": "据DoubleVerify称，Weight Watchers将ChatGPT Ads作为新的会员获取来源，在衡量期内，其归因后的单次获客成本比既定基准低15.3%。OpenAI同日发布的文章称，这一比较对象是混合的paid-search基准。"
-              },
-              {
-                "t": "p",
-                "x": "Weight Watchers增长副总裁Jake Dmochowski表示：“随着新的广告渠道不断出现，我们需要了解它们如何为更广泛的客户旅程做出贡献。”"
-              },
-              {
-                "t": "p",
-                "x": "此次发布没有给出投放金额、投放日期、获客数量、归因窗口或基准定义，也没有说明ChatGPT Ads是否适用multi-touch归因或增量测试。"
-              },
-              {
-                "t": "p",
-                "x": "该试点将由独立合作方在不接触用户私密对话的情况下，评估OpenAI的适宜性政策和防护措施；OpenAI在一项并行试点中点名了Integral Ad Science。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Weight Watchers: CPA en ChatGPT\nun 15.3% bajo la referencia",
-          "body": "Según DoubleVerify, los anuncios de Weight Watchers en ChatGPT tuvieron un CPA 15.3% inferior a la referencia.",
-          "mini_headline": "Los anuncios en ChatGPT superan la referencia de CPA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/size/w1200/2026/10/doubleverify-chatgpt-ads-weight-watchers-15-3-cpa-bars-no-axis-pitch-room.jpg"
-              },
-              {
-                "t": "p",
-                "x": "DoubleVerify informó el 5 de octubre de 2026 que los anunciantes ya pueden medir ChatGPT Ads como un punto de contacto más entre sus otros canales dentro de DV Rockerbox, el negocio de atribución que compró en 2025 por $85 millones. También desarrolla con OpenAI un piloto de idoneidad de marca, todavía en curso."
-              },
-              {
-                "t": "p",
-                "x": "Según DoubleVerify, Weight Watchers incorporó ChatGPT Ads como nueva fuente de captación de socios, y su costo por adquisición atribuido quedó un 15.3% por debajo de su referencia establecida durante el periodo medido. La publicación de OpenAI del mismo día describe la comparación como una referencia combinada de paid-search."
-              },
-              {
-                "t": "p",
-                "x": "“A medida que surgen nuevos canales publicitarios, necesitamos entender cómo contribuyen al recorrido más amplio del cliente”, dijo Jake Dmochowski, vicepresidente de crecimiento de Weight Watchers."
-              },
-              {
-                "t": "p",
-                "x": "El comunicado no detalla inversión, fechas de campaña, número de adquisiciones, ventana de atribución ni definición de la referencia, y no aclara si a ChatGPT Ads se le aplica atribución multi-touch o pruebas de incrementalidad."
-              },
-              {
-                "t": "p",
-                "x": "En el piloto, socios independientes evaluarían las políticas de idoneidad y las salvaguardas de OpenAI sin acceder a conversaciones privadas de los usuarios; OpenAI menciona a Integral Ad Science en un piloto paralelo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-google-ads-ai-max-columns",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google Ads에\nAI Max 보고 열 추가",
-      "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
-      "mini_headline": "Google Ads에 새 AI Max 열",
-      "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
-      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+            "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
           },
           {
             "t": "p",
-            "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 넣는 중이다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
+            "x": "OpenAI가 ChatGPT에 가상 피팅(virtual try-on) 기능을 내놨다. ChatGPT에서 옷과 액세서리를 보다가 “try on” 버튼을 누르고 사진을 찍거나 올리면 그 제품을 착용한 자기 모습이 이미지로 만들어진다."
           },
           {
             "t": "p",
-            "x": "처음 발견한 사람은 Vivek Gupta로, LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
+            "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들어 정리할 수 있다. ChatGPT 웹사이트와 모바일 앱에서 모두 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "새로 생긴 네 가지 옵션은 아래 스크린숏에서 볼 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+            "x": "OpenAI가 쇼핑 기능을 늘리자 이 플랫폼을 시험해 보는 소매업체도 많아졌다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고 Etsy는 5월에 ChatGPT 앱을 내놨다."
           },
           {
             "t": "p",
-            "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
+            "x": "가상 피팅에서 OpenAI는 Google을 뒤쫓는 처지다. Google은 2023년 여성 상의로 가상 피팅을 시작해 드레스와 신발까지 범위를 넓혔다. Perfect Corp.의 2024년 조사를 보면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 뛰었다."
           }
         ]
       },
-      "lead_image": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg",
       "text": {
         "en": {
-          "headline": "Google Ads adds AI Max\nreporting columns",
-          "body": "Google Ads is adding AI Max columns for brand inclusions, locations of interest, commission and optimized targeting.",
-          "mini_headline": "New AI Max columns in Google Ads",
+          "headline": "ChatGPT adds virtual\ntry-on for shoppers",
+          "body": "ChatGPT users can upload a selfie to see generated images of clothing and accessories on themselves before buying.",
+          "mini_headline": "ChatGPT adds virtual try-on",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads is adding new AI Max related columns to the Google Ads reporting console. The columns include brand inclusions, locations of interest, commission and optimized targeting."
+                "x": "OpenAI has launched a virtual try-on feature for ChatGPT users. When users browse clothing and accessories on ChatGPT, they can click the “try on” button, take or upload an image of themselves and then generate images of themselves wearing those products."
               },
               {
                 "t": "p",
-                "x": "This was spotted by Vivek Gupta who wrote on LinkedIn, \"Google Ads has added some new AI Max related columns.\""
+                "x": "Shoppers can save products to Favorites or make a folder in their ChatGPT Library. The features are available on ChatGPT's website and mobile app."
               },
               {
                 "t": "p",
-                "x": "Here is the screenshot showing these four new options:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "As OpenAI adds shopping features, more retailers are experimenting with the platform: David's Bridal set up shop on Shopify's Agentic Storefronts for ChatGPT in April, and Etsy debuted its ChatGPT app in May."
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions, Locations of interest, Commission, Optimized targeting"
+                "x": "With try-on, OpenAI is catching up to Google, which debuted virtual try-on for women's tops in 2023, then extended it to dresses and shoes. A 2024 Perfect Corp. survey found brands using virtual try-on saw sales conversion rates more than double."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads에\nAI Max 보고 열 추가",
-          "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
-          "mini_headline": "Google Ads에 새 AI Max 열",
+          "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
+          "body": "ChatGPT에 셀카를 올리면 옷과 액세서리를 걸친 모습을 미리 본다.",
+          "mini_headline": "ChatGPT 가상 피팅",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 넣는 중이다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
+                "x": "OpenAI가 ChatGPT에 가상 피팅(virtual try-on) 기능을 내놨다. ChatGPT에서 옷과 액세서리를 보다가 “try on” 버튼을 누르고 사진을 찍거나 올리면 그 제품을 착용한 자기 모습이 이미지로 만들어진다."
               },
               {
                 "t": "p",
-                "x": "처음 발견한 사람은 Vivek Gupta로, LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
+                "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들어 정리할 수 있다. ChatGPT 웹사이트와 모바일 앱에서 모두 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "새로 생긴 네 가지 옵션은 아래 스크린숏에서 볼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "OpenAI가 쇼핑 기능을 늘리자 이 플랫폼을 시험해 보는 소매업체도 많아졌다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고 Etsy는 5월에 ChatGPT 앱을 내놨다."
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
+                "x": "가상 피팅에서 OpenAI는 Google을 뒤쫓는 처지다. Google은 2023년 여성 상의로 가상 피팅을 시작해 드레스와 신발까지 범위를 넓혔다. Perfect Corp.의 2024년 조사를 보면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 뛰었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsが\nAI Maxレポート列追加",
-          "body": "Google Adsが関心のある地域や手数料などAI Maxの列を追加する。",
-          "mini_headline": "Google Adsに新しいAI Max列",
+          "headline": "ChatGPTに\nバーチャル試着機能",
+          "body": "ChatGPTに自撮りを上げると、服やアクセサリーを身に着けた画像を購入前に確認できる。",
+          "mini_headline": "ChatGPTにバーチャル試着",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、Google AdsのレポートコンソールにAI Max関連の列を新たに追加している。追加されるのは、ブランドの包含、関心のある地域、手数料、最適化ターゲティングの列だ。"
+                "x": "OpenAIがChatGPTユーザー向けにバーチャル試着(virtual try-on)機能を公開した。ChatGPTで服やアクセサリーを見ているときに「try on」ボタンを押し、自分の写真を撮るかアップロードすると、その商品を身に着けた自分の画像を生成できる。"
               },
               {
                 "t": "p",
-                "x": "これを見つけたのはVivek Guptaで、LinkedInに「Google AdsにAI Max関連の新しい列がいくつか追加された」と投稿した。"
+                "x": "買い物客は商品をFavoritesに保存したり、ChatGPT Libraryにフォルダーを作ったりできる。機能はChatGPTのウェブサイトとモバイルアプリで利用できる。"
               },
               {
                 "t": "p",
-                "x": "四つの新しいオプションを示すスクリーンショットは以下のとおりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "OpenAIがショッピング機能を拡充するにつれ、このプラットフォームを試す小売業者も増えている。David's Bridalは4月、ShopifyのChatGPT向けAgentic Storefrontsに出店し、Etsyは5月にChatGPTアプリを公開した。"
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions（ブランドの包含）、Locations of interest（関心のある地域）、Commission（手数料）、Optimized targeting（最適化ターゲティング）"
+                "x": "試着機能によって、OpenAIはGoogleに追いつこうとしている。Googleは2023年に女性用トップスのバーチャル試着を始め、その後ドレスや靴にも広げた。Perfect Corp.の2024年の調査では、バーチャル試着を導入したブランドの販売コンバージョン率は2倍以上になった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads新增\nAI Max报告列",
-          "body": "Google Ads新增品牌包含、兴趣地点、佣金和优化定位等AI Max相关列。",
-          "mini_headline": "Google Ads新增AI Max列",
+          "headline": "ChatGPT上线\n购物虚拟试穿功能",
+          "body": "ChatGPT用户上传自拍，即可在购买前看到自己穿戴服装和配饰的生成图像。",
+          "mini_headline": "ChatGPT推出虚拟试穿",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads正在其报告控制台中新增与AI Max相关的列，包括品牌包含、兴趣地点、佣金和优化定位。"
+                "x": "OpenAI为ChatGPT用户推出了虚拟试穿（virtual try-on）功能。用户在ChatGPT上浏览服装和配饰时，可以点击“try on”按钮，拍摄或上传自己的照片，然后生成自己穿戴这些商品的图像。"
               },
               {
                 "t": "p",
-                "x": "这一变化由Vivek Gupta发现，他在LinkedIn上写道：“Google Ads新增了一些与AI Max相关的列。”"
+                "x": "购物者可以将商品保存到Favorites，或在ChatGPT Library中创建文件夹。这些功能可在ChatGPT网站和移动应用上使用。"
               },
               {
                 "t": "p",
-                "x": "以下截图展示了这四个新选项："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "随着OpenAI不断增加购物功能，越来越多的零售商开始在该平台上试水：David's Bridal于4月入驻Shopify面向ChatGPT的Agentic Storefronts，Etsy则于5月推出了ChatGPT应用。"
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions（品牌包含）、Locations of interest（兴趣地点）、Commission（佣金）、Optimized targeting（优化定位）"
+                "x": "借助试穿功能，OpenAI正在追赶Google。Google于2023年推出女性上衣虚拟试穿，随后扩展至连衣裙和鞋子。Perfect Corp.在2024年的一项调查发现，使用虚拟试穿的品牌销售转化率提升了一倍以上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads añade columnas\nde informes de AI Max",
-          "body": "Google Ads añade columnas AI Max de inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada.",
-          "mini_headline": "Nuevas columnas de AI Max en Google Ads",
+          "headline": "ChatGPT suma probador virtual\npara quienes compran",
+          "body": "Los usuarios de ChatGPT pueden subir un selfi y verse con ropa y accesorios en imágenes generadas antes de comprar.",
+          "mini_headline": "ChatGPT suma probador virtual",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads está añadiendo nuevas columnas relacionadas con AI Max a la consola de informes de Google Ads. Las columnas incluyen inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada."
+                "x": "OpenAI ha lanzado una función de probador virtual (virtual try-on) para los usuarios de ChatGPT. Al explorar ropa y accesorios en ChatGPT, pueden pulsar el botón “try on”, tomar o subir una imagen de sí mismos y generar imágenes en las que aparecen con esos productos."
               },
               {
                 "t": "p",
-                "x": "Lo detectó Vivek Gupta, que escribió en LinkedIn: “Google Ads ha añadido algunas columnas nuevas relacionadas con AI Max”."
+                "x": "Los compradores pueden guardar productos en Favorites o crear una carpeta en su ChatGPT Library. Las funciones están disponibles en el sitio web y la app móvil de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Esta es la captura de pantalla que muestra las cuatro nuevas opciones:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "A medida que OpenAI añade funciones de compra, más minoristas experimentan con la plataforma: David's Bridal abrió tienda en los Agentic Storefronts de Shopify para ChatGPT en abril, y Etsy estrenó su app de ChatGPT en mayo."
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions (inclusiones de marca), Locations of interest (ubicaciones de interés), Commission (comisión), Optimized targeting (segmentación optimizada)"
+                "x": "Con el probador, OpenAI alcanza a Google, que lanzó el probador virtual para blusas de mujer en 2023 y luego lo amplió a vestidos y zapatos. Una encuesta de Perfect Corp. de 2024 halló que las marcas que usan probadores virtuales vieron más que duplicarse sus tasas de conversión de ventas."
               }
             ]
           }
@@ -1044,137 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Ads에\nAI Max 보고 열 추가",
-          "body": "Google Ads가 수수료·최적화 타기팅 등 AI Max 열을 추가한다.",
-          "mini_headline": "Google Ads에 새 AI Max 열",
+          "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
+          "body": "ChatGPT에 셀카를 올리면 옷과 액세서리 착용 모습을 미리 볼 수 있다.",
+          "mini_headline": "ChatGPT 가상 피팅",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads가 Google Ads 보고 콘솔에 AI Max 관련 열을 새로 추가하고 있다. 새 열은 브랜드 포함, 관심 위치, 수수료, 최적화 타기팅이다."
+                "x": "OpenAI가 ChatGPT 이용자를 위한 가상 피팅(virtual try-on) 기능을 출시했다. ChatGPT에서 옷과 액세서리를 둘러보다가 “try on” 버튼을 누르고 자신의 사진을 찍거나 올리면, 그 제품을 착용한 자신의 이미지를 생성할 수 있다."
               },
               {
                 "t": "p",
-                "x": "이 변화는 Vivek Gupta가 처음 발견해 LinkedIn에 “Google Ads에 새 AI Max 관련 열이 몇 개 추가됐다”고 올렸다."
+                "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들 수 있다. 이 기능은 ChatGPT 웹사이트와 모바일 앱에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "아래는 새로 생긴 네 가지 옵션을 보여 주는 스크린숏이다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "OpenAI가 쇼핑 기능을 늘리면서 이 플랫폼을 시험하는 소매업체도 늘고 있다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고, Etsy는 5월 ChatGPT 앱을 선보였다."
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions(브랜드 포함), Locations of interest(관심 위치), Commission(수수료), Optimized targeting(최적화 타기팅)"
+                "x": "OpenAI는 가상 피팅으로 Google을 뒤쫓는다. Google은 2023년 여성 상의용 가상 피팅을 선보인 뒤 드레스와 신발로 넓혔다. Perfect Corp.의 2024년 조사에 따르면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 올랐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Adsが\nAI Maxレポート列追加",
-          "body": "Google Adsが関心のある地域や手数料などAI Maxの列を追加する。",
-          "mini_headline": "Google Adsに新しいAI Max列",
+          "headline": "ChatGPTに\nバーチャル試着機能",
+          "body": "ChatGPTに自撮りを上げると、服やアクセサリーを身に着けた画像を購入前に確認できる。",
+          "mini_headline": "ChatGPTにバーチャル試着",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Adsは、Google AdsのレポートコンソールにAI Max関連の列を新たに追加している。追加されるのは、ブランドの包含、関心のある地域、手数料、最適化ターゲティングの列だ。"
+                "x": "OpenAIがChatGPTユーザー向けにバーチャル試着(virtual try-on)機能を公開した。ChatGPTで服やアクセサリーを見ているときに「try on」ボタンを押し、自分の写真を撮るかアップロードすると、その商品を身に着けた自分の画像を生成できる。"
               },
               {
                 "t": "p",
-                "x": "これを見つけたのはVivek Guptaで、LinkedInに「Google AdsにAI Max関連の新しい列がいくつか追加された」と投稿した。"
+                "x": "買い物客は商品をFavoritesに保存したり、ChatGPT Libraryにフォルダーを作ったりできる。機能はChatGPTのウェブサイトとモバイルアプリで利用できる。"
               },
               {
                 "t": "p",
-                "x": "四つの新しいオプションを示すスクリーンショットは以下のとおりだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "OpenAIがショッピング機能を拡充するにつれ、このプラットフォームを試す小売業者も増えている。David's Bridalは4月、ShopifyのChatGPT向けAgentic Storefrontsに出店し、Etsyは5月にChatGPTアプリを公開した。"
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions（ブランドの包含）、Locations of interest（関心のある地域）、Commission（手数料）、Optimized targeting（最適化ターゲティング）"
+                "x": "試着機能によって、OpenAIはGoogleに追いつこうとしている。Googleは2023年に女性用トップスのバーチャル試着を始め、その後ドレスや靴にも広げた。Perfect Corp.の2024年の調査では、バーチャル試着を導入したブランドの販売コンバージョン率は2倍以上になった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads新增\nAI Max报告列",
-          "body": "Google Ads新增品牌包含、兴趣地点、佣金和优化定位等AI Max相关列。",
-          "mini_headline": "Google Ads新增AI Max列",
+          "headline": "ChatGPT上线\n购物虚拟试穿功能",
+          "body": "ChatGPT用户上传自拍，即可在购买前看到自己穿戴服装和配饰的生成图像。",
+          "mini_headline": "ChatGPT推出虚拟试穿",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads正在其报告控制台中新增与AI Max相关的列，包括品牌包含、兴趣地点、佣金和优化定位。"
+                "x": "OpenAI为ChatGPT用户推出了虚拟试穿（virtual try-on）功能。用户在ChatGPT上浏览服装和配饰时，可以点击“try on”按钮，拍摄或上传自己的照片，然后生成自己穿戴这些商品的图像。"
               },
               {
                 "t": "p",
-                "x": "这一变化由Vivek Gupta发现，他在LinkedIn上写道：“Google Ads新增了一些与AI Max相关的列。”"
+                "x": "购物者可以将商品保存到Favorites，或在ChatGPT Library中创建文件夹。这些功能可在ChatGPT网站和移动应用上使用。"
               },
               {
                 "t": "p",
-                "x": "以下截图展示了这四个新选项："
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "随着OpenAI不断增加购物功能，越来越多的零售商开始在该平台上试水：David's Bridal于4月入驻Shopify面向ChatGPT的Agentic Storefronts，Etsy则于5月推出了ChatGPT应用。"
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions（品牌包含）、Locations of interest（兴趣地点）、Commission（佣金）、Optimized targeting（优化定位）"
+                "x": "借助试穿功能，OpenAI正在追赶Google。Google于2023年推出女性上衣虚拟试穿，随后扩展至连衣裙和鞋子。Perfect Corp.在2024年的一项调查发现，使用虚拟试穿的品牌销售转化率提升了一倍以上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads añade columnas\nde informes de AI Max",
-          "body": "Google Ads añade columnas AI Max de inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada.",
-          "mini_headline": "Nuevas columnas de AI Max en Google Ads",
+          "headline": "ChatGPT suma probador virtual\npara quienes compran",
+          "body": "Los usuarios de ChatGPT pueden subir un selfi y verse con ropa y accesorios en imágenes generadas antes de comprar.",
+          "mini_headline": "ChatGPT suma probador virtual",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-logo-nEqrtLKQ.jpg"
+                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Google Ads está añadiendo nuevas columnas relacionadas con AI Max a la consola de informes de Google Ads. Las columnas incluyen inclusiones de marca, ubicaciones de interés, comisión y segmentación optimizada."
+                "x": "OpenAI ha lanzado una función de probador virtual (virtual try-on) para los usuarios de ChatGPT. Al explorar ropa y accesorios en ChatGPT, pueden pulsar el botón “try on”, tomar o subir una imagen de sí mismos y generar imágenes en las que aparecen con esos productos."
               },
               {
                 "t": "p",
-                "x": "Lo detectó Vivek Gupta, que escribió en LinkedIn: “Google Ads ha añadido algunas columnas nuevas relacionadas con AI Max”."
+                "x": "Los compradores pueden guardar productos en Favorites o crear una carpeta en su ChatGPT Library. Las funciones están disponibles en el sitio web y la app móvil de ChatGPT."
               },
               {
                 "t": "p",
-                "x": "Esta es la captura de pantalla que muestra las cuatro nuevas opciones:"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-columns-new-IeCJ9g0V.jpg"
+                "x": "A medida que OpenAI añade funciones de compra, más minoristas experimentan con la plataforma: David's Bridal abrió tienda en los Agentic Storefronts de Shopify para ChatGPT en abril, y Etsy estrenó su app de ChatGPT en mayo."
               },
               {
                 "t": "p",
-                "x": "Brand Inclusions (inclusiones de marca), Locations of interest (ubicaciones de interés), Commission (comisión), Optimized targeting (segmentación optimizada)"
+                "x": "Con el probador, OpenAI alcanza a Google, que lanzó el probador virtual para blusas de mujer en 2023 y luego lo amplió a vestidos y zapatos. Una encuesta de Perfect Corp. de 2024 halló que las marcas que usan probadores virtuales vieron más que duplicarse sus tasas de conversión de ventas."
               }
             ]
           }
@@ -1182,15 +627,729 @@
       }
     },
     {
-      "id": "marketing-ok-future-goodwipes-ai",
+      "id": "google-ads-ai-max-text-asset-previews",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
-      "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
-      "mini_headline": "여섯 주 걸릴 광고를 나흘에",
+      "headline": "AI-generated문구\nGoogle Ads 프리뷰",
+      "body": "Google Ads가 Google AI로 만든 AI Max 문구를 미리 보여준다.",
+      "mini_headline": "Google, AI Max 문구 미리보기",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/inside-agency-ok-futures-ai-pressure-cooker-experiment-with-goodwipes/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+          },
+          {
+            "t": "p",
+            "x": "이제 Google Ads에서 Google AI가 Google Ads AI Max 캠페인용으로 만든 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션이 새로 생겼다."
+          },
+          {
+            "t": "p",
+            "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+          },
+          {
+            "t": "p",
+            "x": "애셋 예시는 대부분 30초 안에 나온다. 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 언어라면 모두 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "최종 방문 페이지 URL을 넣으면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 알아서 만든다. 텍스트 맞춤설정을 켜지 않아도 볼 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+            "cap": "새로 생긴 도움말 페이지 섹션"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google Ads now previews\nAI-generated ad text",
+          "body": "Google Ads now lets advertisers preview the text assets Google AI generates for their AI Max Search campaigns.",
+          "mini_headline": "Google previews AI Max text",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns, in a new “Text customization asset previews” section of the Search campaigns help page."
+              },
+              {
+                "t": "p",
+                "x": "“Use asset previews to view sample text assets generated by Google AI for your campaign… to see whether generated text assets conform to your defined brand and text guidelines before you opt in to text customization or launch a new campaign.”"
+              },
+              {
+                "t": "p",
+                "x": "Asset examples are mostly generated in under 30 seconds and are available in all languages supported by text customization, including English, Spanish, Portuguese, Italian, French, German, Japanese, and Dutch."
+              },
+              {
+                "t": "p",
+                "x": "When you provide a final landing page URL, Google AI automatically generates up to 10 example headlines and descriptions. You don't need to opt in to text customization to view them."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "The new help-page section"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-generated문구\nGoogle Ads 프리뷰",
+          "body": "Google Ads가 Google AI로 만든 AI Max 문구를 미리 보여준다.",
+          "mini_headline": "Google, AI Max 문구 미리보기",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이제 Google Ads에서 Google AI가 Google Ads AI Max 캠페인용으로 만든 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션이 새로 생겼다."
+              },
+              {
+                "t": "p",
+                "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "애셋 예시는 대부분 30초 안에 나온다. 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 언어라면 모두 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "최종 방문 페이지 URL을 넣으면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 알아서 만든다. 텍스트 맞춤설정을 켜지 않아도 볼 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "새로 생긴 도움말 페이지 섹션"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-generated文を\nGoogle Adsで確認",
+          "body": "Google AdsでAI Max向けにGoogle AIが生成したテキストを確認できる。",
+          "mini_headline": "Google、AI Maxの文言をプレビュー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Adsで、Google Ads AI MaxキャンペーンのためにGoogle AIが生成したアセットをプレビューできるようになった。検索キャンペーンのヘルプページに新設された「Text customization asset previews（テキストのカスタマイズのアセットプレビュー）」セクションで案内されている。"
+              },
+              {
+                "t": "p",
+                "x": "「アセットプレビューを使うと、Google AIがキャンペーン向けに生成したサンプルのテキストアセットを確認できる…テキストのカスタマイズを有効にする前や新しいキャンペーンを開始する前に、生成されたテキストアセットが定めたブランドおよびテキストのガイドラインに沿っているかを確かめられる。」"
+              },
+              {
+                "t": "p",
+                "x": "アセット例の大半は30秒未満で生成され、英語、スペイン語、ポルトガル語、イタリア語、フランス語、ドイツ語、日本語、オランダ語など、テキストのカスタマイズが対応するすべての言語で利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "最終ページURLを入力すると、Google AIが見出しと説明文の例を最大10件自動で生成する。表示するためにテキストのカスタマイズを有効にする必要はない。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "新設されたヘルプページのセクション"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Ads可预览\nAI-generated文案",
+          "body": "Google Ads现可预览Google AI为AI Max搜索广告系列生成的文本素材。",
+          "mini_headline": "Google预览AI Max文本",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads现在允许你预览Google AI为Google Ads AI Max广告系列生成的素材，相关说明位于搜索广告系列帮助页面新增的“Text customization asset previews”（文本自定义素材预览）部分。"
+              },
+              {
+                "t": "p",
+                "x": "“使用素材预览，查看Google AI为你的广告系列生成的示例文本素材……以便在启用文本自定义或发布新广告系列之前，确认生成的文本素材是否符合你设定的品牌和文本准则。”"
+              },
+              {
+                "t": "p",
+                "x": "素材示例大多在30秒内生成，适用于文本自定义支持的所有语言，包括英语、西班牙语、葡萄牙语、意大利语、法语、德语、日语和荷兰语。"
+              },
+              {
+                "t": "p",
+                "x": "提供最终着陆页URL后，Google AI会自动生成最多10个示例标题和描述。查看这些示例无需启用文本自定义。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "新增的帮助页面部分"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Ads previsualiza textos\nde anuncios AI-generated",
+          "body": "Google Ads ya permite ver una vista previa de los textos que Google AI genera para las campañas de búsqueda de AI Max.",
+          "mini_headline": "Google previsualiza textos de AI Max",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads ahora permite previsualizar los recursos generados por Google AI para las campañas de Google Ads AI Max, en una nueva sección, “Text customization asset previews” (vistas previas de recursos de personalización de texto), de la página de ayuda de las campañas de búsqueda."
+              },
+              {
+                "t": "p",
+                "x": "“Usa las vistas previas de recursos para ver ejemplos de recursos de texto generados por Google AI para tu campaña… y comprobar si los recursos de texto generados se ajustan a las directrices de marca y de texto que has definido antes de activar la personalización de texto o lanzar una nueva campaña.”"
+              },
+              {
+                "t": "p",
+                "x": "Los ejemplos de recursos se generan en su mayoría en menos de 30 segundos y están disponibles en todos los idiomas compatibles con la personalización de texto, entre ellos inglés, español, portugués, italiano, francés, alemán, japonés y neerlandés."
+              },
+              {
+                "t": "p",
+                "x": "Al indicar la URL de la página de destino final, Google AI genera automáticamente hasta 10 ejemplos de títulos y descripciones. No es necesario activar la personalización de texto para verlos."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "La nueva sección de la página de ayuda"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI-generated문구\nGoogle Ads 프리뷰",
+          "body": "Google Ads가 AI Max용 Google AI 생성 문구를 미리 보여준다.",
+          "mini_headline": "Google, AI Max 문구 미리보기",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "이제 Google Ads에서 Google Ads AI Max 캠페인을 위해 Google AI가 생성한 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 새로 생긴 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션에서다."
+              },
+              {
+                "t": "p",
+                "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+              },
+              {
+                "t": "p",
+                "x": "애셋 예시는 대부분 30초 안에 생성되며, 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 모든 언어에서 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "최종 방문 페이지 URL을 입력하면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 자동으로 생성한다. 이를 보기 위해 텍스트 맞춤설정을 켤 필요는 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "새로 생긴 도움말 페이지 섹션"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-generated文を\nGoogle Adsで確認",
+          "body": "Google AdsでAI Max向けにGoogle AIが生成したテキストを確認できる。",
+          "mini_headline": "Google、AI Maxの文言をプレビュー",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Adsで、Google Ads AI MaxキャンペーンのためにGoogle AIが生成したアセットをプレビューできるようになった。検索キャンペーンのヘルプページに新設された「Text customization asset previews（テキストのカスタマイズのアセットプレビュー）」セクションで案内されている。"
+              },
+              {
+                "t": "p",
+                "x": "「アセットプレビューを使うと、Google AIがキャンペーン向けに生成したサンプルのテキストアセットを確認できる…テキストのカスタマイズを有効にする前や新しいキャンペーンを開始する前に、生成されたテキストアセットが定めたブランドおよびテキストのガイドラインに沿っているかを確かめられる。」"
+              },
+              {
+                "t": "p",
+                "x": "アセット例の大半は30秒未満で生成され、英語、スペイン語、ポルトガル語、イタリア語、フランス語、ドイツ語、日本語、オランダ語など、テキストのカスタマイズが対応するすべての言語で利用できる。"
+              },
+              {
+                "t": "p",
+                "x": "最終ページURLを入力すると、Google AIが見出しと説明文の例を最大10件自動で生成する。表示するためにテキストのカスタマイズを有効にする必要はない。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "新設されたヘルプページのセクション"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google Ads可预览\nAI-generated文案",
+          "body": "Google Ads现可预览Google AI为AI Max搜索广告系列生成的文本素材。",
+          "mini_headline": "Google预览AI Max文本",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads现在允许你预览Google AI为Google Ads AI Max广告系列生成的素材，相关说明位于搜索广告系列帮助页面新增的“Text customization asset previews”（文本自定义素材预览）部分。"
+              },
+              {
+                "t": "p",
+                "x": "“使用素材预览，查看Google AI为你的广告系列生成的示例文本素材……以便在启用文本自定义或发布新广告系列之前，确认生成的文本素材是否符合你设定的品牌和文本准则。”"
+              },
+              {
+                "t": "p",
+                "x": "素材示例大多在30秒内生成，适用于文本自定义支持的所有语言，包括英语、西班牙语、葡萄牙语、意大利语、法语、德语、日语和荷兰语。"
+              },
+              {
+                "t": "p",
+                "x": "提供最终着陆页URL后，Google AI会自动生成最多10个示例标题和描述。查看这些示例无需启用文本自定义。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "新增的帮助页面部分"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google Ads previsualiza textos\nde anuncios AI-generated",
+          "body": "Google Ads ya permite ver una vista previa de los textos que Google AI genera para las campañas de búsqueda de AI Max.",
+          "mini_headline": "Google previsualiza textos de AI Max",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Google Ads ahora permite previsualizar los recursos generados por Google AI para las campañas de Google Ads AI Max, en una nueva sección, “Text customization asset previews” (vistas previas de recursos de personalización de texto), de la página de ayuda de las campañas de búsqueda."
+              },
+              {
+                "t": "p",
+                "x": "“Usa las vistas previas de recursos para ver ejemplos de recursos de texto generados por Google AI para tu campaña… y comprobar si los recursos de texto generados se ajustan a las directrices de marca y de texto que has definido antes de activar la personalización de texto o lanzar una nueva campaña.”"
+              },
+              {
+                "t": "p",
+                "x": "Los ejemplos de recursos se generan en su mayoría en menos de 30 segundos y están disponibles en todos los idiomas compatibles con la personalización de texto, entre ellos inglés, español, portugués, italiano, francés, alemán, japonés y neerlandés."
+              },
+              {
+                "t": "p",
+                "x": "Al indicar la URL de la página de destino final, Google AI genera automáticamente hasta 10 ejemplos de títulos y descripciones. No es necesario activar la personalización de texto para verlos."
+              },
+              {
+                "t": "img",
+                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
+                "cap": "La nueva sección de la página de ayuda"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "pinterest-beauty-guides-llm",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "핀터레스트, AI로\n맞춤 뷰티 가이드",
+      "body": "핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
+      "mini_headline": "핀터레스트 뷰티 가이드",
+      "tool": "Marketing",
+      "source": "MADTIMES",
+      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "핀터레스트가 AI 기반 신규 기능 '뷰티 가이드(Beauty Guides)'를 선보였다. 헤어·네일 핀을 개인화된 실행 가이드로 바꿔, 핀터레스트에서 발견한 스타일을 실제로 따라 할 수 있게 돕는다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+          },
+          {
+            "t": "p",
+            "x": "핀터레스트의 시각 인식 기술이 핀 속 헤어스타일·컬러·네일 모양·마감 등을 분석하고, 대규모 언어모델(LLM)이 이를 살롱에서 요청할 내용, 시술 과정, 비슷한 스타일, 관련 상품, 단계별 안내로 정리한다. 헤어·네일 핀을 크게 열고 '가이드 받기(Get the Guide)'를 누르면 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+          },
+          {
+            "t": "p",
+            "x": "매트 마드리갈 최고제품기술책임자(CPTO)는 \"사람들은 원하는 스타일을 말로 설명하지 못해도 분명한 관점을 갖고 핀터레스트에 온다\"고 말했다. 이번 기능은 1차 데이터, 시각 인식, 목적형 AI 모델을 결합한 '핀터레스트 인텔리전스'의 한 사례다."
+          },
+          {
+            "t": "p",
+            "x": "핀터레스트 이용자의 85% 이상이 새로운 뷰티 트렌드를 다른 곳보다 핀터레스트에서 먼저 발견한다고 답했다. 뷰티 가이드는 미국 iOS 이용자에게 먼저 제공되며, 지역과 상품 카테고리를 넓혀갈 계획이다."
+          }
+        ]
+      },
+      "text": {
+        "ko": {
+          "headline": "핀터레스트, AI로\n맞춤 뷰티 가이드",
+          "body": "핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
+          "mini_headline": "핀터레스트 뷰티 가이드",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "핀터레스트가 AI 기반 신규 기능 '뷰티 가이드(Beauty Guides)'를 선보였다. 헤어·네일 핀을 개인화된 실행 가이드로 바꿔, 핀터레스트에서 발견한 스타일을 실제로 따라 할 수 있게 돕는다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "핀터레스트의 시각 인식 기술이 핀 속 헤어스타일·컬러·네일 모양·마감 등을 분석하고, 대규모 언어모델(LLM)이 이를 살롱에서 요청할 내용, 시술 과정, 비슷한 스타일, 관련 상품, 단계별 안내로 정리한다. 헤어·네일 핀을 크게 열고 '가이드 받기(Get the Guide)'를 누르면 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "매트 마드리갈 최고제품기술책임자(CPTO)는 \"사람들은 원하는 스타일을 말로 설명하지 못해도 분명한 관점을 갖고 핀터레스트에 온다\"고 말했다. 이번 기능은 1차 데이터, 시각 인식, 목적형 AI 모델을 결합한 '핀터레스트 인텔리전스'의 한 사례다."
+              },
+              {
+                "t": "p",
+                "x": "핀터레스트 이용자의 85% 이상이 새로운 뷰티 트렌드를 다른 곳보다 핀터레스트에서 먼저 발견한다고 답했다. 뷰티 가이드는 미국 iOS 이용자에게 먼저 제공되며, 지역과 상품 카테고리를 넓혀갈 계획이다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Pinterest turns to AI\nfor custom beauty guides",
+          "body": "Pinterest is using an LLM and visual recognition to turn hair and nail Pins into personalized guides.",
+          "mini_headline": "Pinterest Beauty Guides",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest has introduced Beauty Guides, a new AI-based feature. It turns hair and nail Pins into personalized, actionable guides, helping people actually recreate the styles they discover on Pinterest."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterest's visual recognition technology analyzes the hairstyle, color, nail shape, finish and other details in a Pin, and a large language model (LLM) organizes them into what to ask for at the salon, the process, similar styles, related products and step-by-step instructions. Users open a hair or nail Pin in close-up and tap 'Get the Guide.'"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Matt Madrigal, chief product and technology officer (CPTO), said, \"People come to Pinterest with a clear point of view, even when they can't put the style they want into words.\" The feature is one example of 'Pinterest Intelligence,' which combines first-party data, visual recognition and purpose-built AI models."
+              },
+              {
+                "t": "p",
+                "x": "More than 85% of Pinterest users said they discover new beauty trends on Pinterest before anywhere else. Beauty Guides is rolling out first to iOS users in the U.S., with plans to expand to more regions and product categories."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Pinterest、AIで\nパーソナル美容ガイド",
+          "body": "PinterestがLLMと視覚認識で、ヘア・ネイルのピンを個別ガイドに変える。",
+          "mini_headline": "Pinterestのビューティーガイド",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "PinterestがAIを活用した新機能「ビューティーガイド(Beauty Guides)」を発表した。ヘアやネイルのピンを個人に合わせた実践ガイドに変え、Pinterestで見つけたスタイルを実際に再現できるよう後押しする。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterestの視覚認識技術がピン内のヘアスタイル、カラー、ネイルの形、仕上がりなどを分析し、大規模言語モデル(LLM)がそれをサロンで伝える内容、施術の流れ、似たスタイル、関連商品、ステップごとの手順にまとめる。ヘアやネイルのピンを拡大表示し、「ガイドを見る(Get the Guide)」をタップすればよい。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "最高製品技術責任者(CPTO)のマット・マドリガル氏は「人々は、望むスタイルを言葉で説明できなくても、はっきりした視点を持ってPinterestにやって来る」と述べた。この機能は、ファーストパーティーデータ、視覚認識、目的特化型AIモデルを組み合わせた「Pinterestインテリジェンス」の一例である。"
+              },
+              {
+                "t": "p",
+                "x": "Pinterestユーザーの85%以上が、新しい美容トレンドを他のどこよりも先にPinterestで見つけると回答した。ビューティーガイドはまず米国のiOSユーザーに提供され、今後は地域と商品カテゴリーを広げていく計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pinterest借AI\n推出个性化美妆指南",
+          "body": "Pinterest借助LLM与视觉识别，把发型和美甲Pin变成个性化指南。",
+          "mini_headline": "Pinterest美妆指南",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest推出基于AI的新功能“美妆指南（Beauty Guides）”。它将发型和美甲Pin转化为个性化的实操指南，帮助用户真正复刻在Pinterest上发现的风格。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterest的视觉识别技术会分析Pin中的发型、发色、甲型和质感等，再由大语言模型（LLM）将其整理为到沙龙时要提出的需求、操作流程、相似风格、相关商品和分步指引。用户只需放大打开发型或美甲Pin，点击“获取指南（Get the Guide）”即可。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "首席产品技术官（CPTO）马特·马德里加尔表示：“人们即使说不清自己想要的风格，也会带着明确的想法来到Pinterest。”该功能是结合第一方数据、视觉识别和专用AI模型的“Pinterest智能”的一个实例。"
+              },
+              {
+                "t": "p",
+                "x": "超过85%的Pinterest用户表示，他们在Pinterest上发现新美妆趋势的时间早于其他任何地方。美妆指南将首先面向美国iOS用户推出，并计划扩展至更多地区和商品类别。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Pinterest crea guías de belleza\npersonalizadas con IA",
+          "body": "Pinterest usa un LLM y reconocimiento visual para convertir pines de pelo y uñas en guías a medida.",
+          "mini_headline": "Beauty Guides de Pinterest",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest ha presentado Beauty Guides (guías de belleza), una nueva función basada en inteligencia artificial (AI). Convierte los pines de peinados y uñas en guías prácticas personalizadas para ayudar a recrear de verdad los estilos descubiertos en Pinterest."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La tecnología de reconocimiento visual de Pinterest analiza el peinado, el color, la forma de las uñas, el acabado y otros detalles del pin, y un modelo de lenguaje de gran tamaño (LLM) los organiza en qué pedir en el salón, el proceso, estilos similares, productos relacionados e instrucciones paso a paso. Basta con abrir en grande un pin de pelo o uñas y pulsar «Obtener la guía» (Get the Guide)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Matt Madrigal, director de producto y tecnología (CPTO), afirmó: \"La gente llega a Pinterest con un punto de vista claro, aunque no sepa describir con palabras el estilo que quiere\". La función es un ejemplo de 'Pinterest Intelligence', que combina datos propios, reconocimiento visual y modelos de AI creados para fines específicos."
+              },
+              {
+                "t": "p",
+                "x": "Más del 85% de los usuarios de Pinterest afirmó descubrir las nuevas tendencias de belleza en Pinterest antes que en cualquier otro lugar. Beauty Guides llegará primero a los usuarios de iOS en Estados Unidos y se ampliará a más regiones y categorías de producto."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Pinterest turns to AI\nfor custom beauty guides",
+          "body": "Pinterest is using an LLM and visual recognition to turn hair and nail Pins into personalized guides.",
+          "mini_headline": "Pinterest Beauty Guides",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest has introduced Beauty Guides, a new AI-based feature. It turns hair and nail Pins into personalized, actionable guides, helping people actually recreate the styles they discover on Pinterest."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterest's visual recognition technology analyzes the hairstyle, color, nail shape, finish and other details in a Pin, and a large language model (LLM) organizes them into what to ask for at the salon, the process, similar styles, related products and step-by-step instructions. Users open a hair or nail Pin in close-up and tap 'Get the Guide.'"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Matt Madrigal, chief product and technology officer (CPTO), said, \"People come to Pinterest with a clear point of view, even when they can't put the style they want into words.\" The feature is one example of 'Pinterest Intelligence,' which combines first-party data, visual recognition and purpose-built AI models."
+              },
+              {
+                "t": "p",
+                "x": "More than 85% of Pinterest users said they discover new beauty trends on Pinterest before anywhere else. Beauty Guides is rolling out first to iOS users in the U.S., with plans to expand to more regions and product categories."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Pinterest、AIで\nパーソナル美容ガイド",
+          "body": "PinterestがLLMと視覚認識で、ヘア・ネイルのピンを個別ガイドに変える。",
+          "mini_headline": "Pinterestのビューティーガイド",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "PinterestがAIを活用した新機能「ビューティーガイド(Beauty Guides)」を発表した。ヘアやネイルのピンを個人に合わせた実践ガイドに変え、Pinterestで見つけたスタイルを実際に再現できるよう後押しする。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterestの視覚認識技術がピン内のヘアスタイル、カラー、ネイルの形、仕上がりなどを分析し、大規模言語モデル(LLM)がそれをサロンで伝える内容、施術の流れ、似たスタイル、関連商品、ステップごとの手順にまとめる。ヘアやネイルのピンを拡大表示し、「ガイドを見る(Get the Guide)」をタップすればよい。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "最高製品技術責任者(CPTO)のマット・マドリガル氏は「人々は、望むスタイルを言葉で説明できなくても、はっきりした視点を持ってPinterestにやって来る」と述べた。この機能は、ファーストパーティーデータ、視覚認識、目的特化型AIモデルを組み合わせた「Pinterestインテリジェンス」の一例である。"
+              },
+              {
+                "t": "p",
+                "x": "Pinterestユーザーの85%以上が、新しい美容トレンドを他のどこよりも先にPinterestで見つけると回答した。ビューティーガイドはまず米国のiOSユーザーに提供され、今後は地域と商品カテゴリーを広げていく計画だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Pinterest借AI\n推出个性化美妆指南",
+          "body": "Pinterest借助LLM与视觉识别，把发型和美甲Pin变成个性化指南。",
+          "mini_headline": "Pinterest美妆指南",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest推出基于AI的新功能“美妆指南（Beauty Guides）”。它将发型和美甲Pin转化为个性化的实操指南，帮助用户真正复刻在Pinterest上发现的风格。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Pinterest的视觉识别技术会分析Pin中的发型、发色、甲型和质感等，再由大语言模型（LLM）将其整理为到沙龙时要提出的需求、操作流程、相似风格、相关商品和分步指引。用户只需放大打开发型或美甲Pin，点击“获取指南（Get the Guide）”即可。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "首席产品技术官（CPTO）马特·马德里加尔表示：“人们即使说不清自己想要的风格，也会带着明确的想法来到Pinterest。”该功能是结合第一方数据、视觉识别和专用AI模型的“Pinterest智能”的一个实例。"
+              },
+              {
+                "t": "p",
+                "x": "超过85%的Pinterest用户表示，他们在Pinterest上发现新美妆趋势的时间早于其他任何地方。美妆指南将首先面向美国iOS用户推出，并计划扩展至更多地区和商品类别。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Pinterest crea guías de belleza\npersonalizadas con IA",
+          "body": "Pinterest usa un LLM y reconocimiento visual para convertir pines de pelo y uñas en guías a medida.",
+          "mini_headline": "Beauty Guides de Pinterest",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Pinterest ha presentado Beauty Guides (guías de belleza), una nueva función basada en inteligencia artificial (AI). Convierte los pines de peinados y uñas en guías prácticas personalizadas para ayudar a recrear de verdad los estilos descubiertos en Pinterest."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La tecnología de reconocimiento visual de Pinterest analiza el peinado, el color, la forma de las uñas, el acabado y otros detalles del pin, y un modelo de lenguaje de gran tamaño (LLM) los organiza en qué pedir en el salón, el proceso, estilos similares, productos relacionados e instrucciones paso a paso. Basta con abrir en grande un pin de pelo o uñas y pulsar «Obtener la guía» (Get the Guide)."
+              },
+              {
+                "t": "img",
+                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Matt Madrigal, director de producto y tecnología (CPTO), afirmó: \"La gente llega a Pinterest con un punto de vista claro, aunque no sepa describir con palabras el estilo que quiere\". La función es un ejemplo de 'Pinterest Intelligence', que combina datos propios, reconocimiento visual y modelos de AI creados para fines específicos."
+              },
+              {
+                "t": "p",
+                "x": "Más del 85% de los usuarios de Pinterest afirmó descubrir las nuevas tendencias de belleza en Pinterest antes que en cualquier otro lugar. Beauty Guides llegará primero a los usuarios de iOS en Estados Unidos y se ampliará a más regiones y categorías de producto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "ehealth-regal-alice-voice-agent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "eHealth의 AI\n구매율 27% 높였다",
+      "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
+      "mini_headline": "eHealth의 AI 에이전트 Alice",
+      "tool": "Marketing",
+      "source": "CX Dive",
+      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1198,198 +1357,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+            "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
           },
           {
             "t": "p",
-            "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼지 시험해 보고 싶었다."
+            "x": "eHealth 고객은 대부분 약 54일 동안 이어지는 Medicare 공개 가입 기간에 전화를 건다. 통화가 약 오십만 건에 이르고 70%에서 80%가 전화로 구매하다 보니, 자격을 갖춘 상담원을 여섯 시간이나 기다린 고객도 있었다."
           },
           {
             "t": "p",
-            "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그의 말로는 일 분 길이 광고를 만드는 데 보통 여섯 주쯤 걸린다."
+            "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice에게 전화 문의 사전 선별을 맡긴다. Regal이 CX Dive에 제공한 데이터를 보면 Alice는 모든 전화를 바로 받는다. 만족도 평가에서는 77%가 \"exceptional\"(매우 우수)을 줬고, 구매율도 eHealth가 외주 콜센터의 사람 선별 인력을 쓸 때보다 27% 높다."
           },
           {
             "t": "p",
-            "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구로는 캐릭터를 시각화하고 목소리를 입히고 촬영 장소를 만들었다."
+            "x": "첫 도입은 2025년 2월, 업무 시간 외 시범 운영이었다. 개인정보 고지는 규정상 중단 없이 전달해야 한다. 그래서 Regal은 에이전트가 고지를 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
           },
           {
             "t": "p",
-            "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+            "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자로 참여했다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
           }
         ]
       },
-      "lead_image": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp",
       "text": {
         "en": {
-          "headline": "AI cuts an agency's ad work\nfrom six weeks to four days",
-          "body": "OK Future made Goodwipes' AI spoof ad in four days instead of six weeks, cutting costs but pushing the team hard.",
-          "mini_headline": "A six-week ad in four days",
+          "headline": "eHealth's AI screener posts a\n27% higher purchase rate",
+          "body": "eHealth's AI agent Alice prescreens Medicare callers, with a 27% higher purchase rate than outsourced human screeners.",
+          "mini_headline": "eHealth's AI agent Alice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "When former MullenLowe U.S. CEO Frank Cartagena launched his own creative shop, OK Future, he wanted to test how much generative AI would let his agency of four people punch above its weight."
+                "x": "Most of eHealth's customers call during Medicare's roughly 54-day open enrollment window, about half a million calls, and 70% to 80% buy by phone, which left some waiting six hours for a licensed agent."
               },
               {
                 "t": "p",
-                "x": "Its first work, Goodwipes’ “Meet Asstra,” a spoof of OpenAI’s commercial for its AI model Astra, went from concept to execution in four days with generative AI tools and curbed the projected $700,000 production costs. A minute-long produced commercial typically takes about six weeks, he said."
+                "x": "The health insurance agency now uses Regal's LLM-based voice agent, Alice, to prescreen callers. According to data Regal provided to CX Dive, Alice answers every call immediately, earns 77% \"exceptional\" satisfaction ratings and has a 27% higher purchase rate than eHealth had with human screeners from an outsourced call center."
               },
               {
                 "t": "p",
-                "x": "Goodwipes and OK Future handled the script, character building, storyboarding and edits; tools including ArtCraft, Seedance and OpenAI’s Astra visualized and voiced the characters and produced the location."
+                "x": "The deployment began in February 2025 as an after-hours pilot. Because regulations require an uninterrupted privacy statement, Regal built a \"static node\" the agent reads without being interrupted before handing callers back to a human agent."
               },
               {
                 "t": "p",
-                "x": "The team worked in shifts around the clock on little sleep. “I really wouldn’t recommend that this be the norm of a project. It’s just an unsustainable pace,” Cartagena said. “It’s a total pressure cooker.”"
-              },
-              {
-                "t": "p",
-                "x": "The spot drove more than 750,000 Reddit views in its first 48 hours and has since reached almost 1.5 million views across subreddits, with more than 800 shares, according to a company spokesperson."
+                "x": "Compliance was a key stakeholder from the start. \"For any business that's regulated it's not a plug-and-play solution,\" said Atul Kumar, eHealth's VP of product and AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
-          "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
-          "mini_headline": "여섯 주 걸릴 광고를 나흘에",
+          "headline": "eHealth의 AI\n구매율 27% 높였다",
+          "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
+          "mini_headline": "eHealth의 AI 에이전트 Alice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼지 시험해 보고 싶었다."
+                "x": "eHealth 고객은 대부분 약 54일 동안 이어지는 Medicare 공개 가입 기간에 전화를 건다. 통화가 약 오십만 건에 이르고 70%에서 80%가 전화로 구매하다 보니, 자격을 갖춘 상담원을 여섯 시간이나 기다린 고객도 있었다."
               },
               {
                 "t": "p",
-                "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그의 말로는 일 분 길이 광고를 만드는 데 보통 여섯 주쯤 걸린다."
+                "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice에게 전화 문의 사전 선별을 맡긴다. Regal이 CX Dive에 제공한 데이터를 보면 Alice는 모든 전화를 바로 받는다. 만족도 평가에서는 77%가 \"exceptional\"(매우 우수)을 줬고, 구매율도 eHealth가 외주 콜센터의 사람 선별 인력을 쓸 때보다 27% 높다."
               },
               {
                 "t": "p",
-                "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구로는 캐릭터를 시각화하고 목소리를 입히고 촬영 장소를 만들었다."
+                "x": "첫 도입은 2025년 2월, 업무 시간 외 시범 운영이었다. 개인정보 고지는 규정상 중단 없이 전달해야 한다. 그래서 Regal은 에이전트가 고지를 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
               },
               {
                 "t": "p",
-                "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+                "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자로 참여했다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで代理店の広告制作\n六週間から四日に",
-          "body": "OK FutureはGoodwipesのAIパロディ広告を六週間でなく四日で作った。",
-          "mini_headline": "六週間の広告を四日で",
+          "headline": "eHealthのAI\n購入率27%向上",
+          "body": "eHealthのAI「Alice」は、外部委託の担当者より購入率が27%高い。",
+          "mini_headline": "eHealthのAIエージェントAlice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "MullenLowe U.S.の元CEO、Frank Cartagenaは自らのクリエイティブショップOK Futureを立ち上げた際、生成AIによって四人の代理店がどこまで実力以上の仕事をできるかを試したいと考えた。"
+                "x": "eHealthの顧客の多くは、約54日間のMedicareオープン加入期間に電話をかけてくる。その数は約五十万件にのぼり、70%から80%が電話で購入するため、有資格の担当者を六時間待つ人もいた。"
               },
               {
                 "t": "p",
-                "x": "最初の作品は、OpenAIのAIモデルAstraのCMをもじったGoodwipesの「Meet Asstra」だ。生成AIツールを使って構想から完成まで四日で仕上げ、$700,000と見込まれた制作費を抑えた。一分の本格的なCMは通常およそ六週間かかると彼は語る。"
+                "x": "この健康保険代理店は現在、RegalのLLMベース(LLM-based)の音声エージェント「Alice」で電話を事前選別している。RegalがCX Diveに提供したデータによると、Aliceはすべての電話に即座に応答し、満足度評価では77%が「exceptional(非常に良い)」を付け、eHealthが外部委託コールセンターの人間による選別を使っていた頃より購入率が27%高い。"
               },
               {
                 "t": "p",
-                "x": "脚本、キャラクター作り、絵コンテ、編集はGoodwipesとOK Futureが担い、ArtCraft、Seedance、OpenAIのAstraなどのツールがキャラクターの映像化と声、ロケーションの制作を担った。"
+                "x": "導入は2025年2月、時間外の試験運用として始まった。規制上、プライバシーに関する説明を途切れなく伝える必要があるため、Regalはエージェントが割り込まれずに読み上げてから人間の担当者に引き継ぐ「static node(静的ノード)」を構築した。"
               },
               {
                 "t": "p",
-                "x": "チームはほとんど眠らず、交代で昼夜を問わず作業した。Cartagenaは「これがプロジェクトの標準になることは本当に勧めない。持続できないペースだ」と述べ、「まさに圧力鍋だ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "同社の広報担当者によると、このCMは公開後48時間でReddit上で750,000回を超える再生を記録し、その後は複数のサブレディットで合計1.5 million 回近い再生と800回を超えるシェアを得た。"
+                "x": "コンプライアンス部門は当初から重要な関係者だった。eHealthの製品・AI担当VP、Atul Kumar氏は「規制を受けるあらゆる企業にとって、これはplug-and-playのソリューションではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让代理商广告制作\n从六周缩至四天",
-          "body": "OK Future用四天而非六周做出Goodwipes的AI恶搞广告，省下成本但团队吃紧。",
-          "mini_headline": "六周的广告四天完成",
+          "headline": "eHealth的AI筛选\n购买率高出27%",
+          "body": "eHealth的AI代理Alice预筛Medicare来电，购买率比外包人工高27%。",
+          "mini_headline": "eHealth的AI代理Alice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "前MullenLowe U.S. CEO Frank Cartagena创办自己的创意工作室OK Future时，想检验生成式AI能让他这家四人代理商在多大程度上以小博大。"
+                "x": "eHealth的大多数客户会在Medicare约54天的开放参保期内来电，来电量约五十万通，其中70%至80%通过电话购买，导致一些人要等六个小时才能接通持证代理人。"
               },
               {
                 "t": "p",
-                "x": "其首个作品是Goodwipes的“Meet Asstra”，恶搞了OpenAI为其AI模型Astra拍摄的广告。借助生成式AI工具，这支广告从构思到执行只用了四天，并压低了预计$700,000的制作成本。他说，一支一分钟的正式广告通常需要约六周。"
+                "x": "这家健康保险代理机构现在使用Regal基于LLM（LLM-based）的语音代理Alice对来电进行预筛。根据Regal向CX Dive提供的数据，Alice能即时接听每一通电话，获得77%的“exceptional”（非常满意）满意度评价，购买率比eHealth此前使用外包呼叫中心人工筛选员时高27%。"
               },
               {
                 "t": "p",
-                "x": "Goodwipes和OK Future负责脚本、角色塑造、分镜和剪辑；ArtCraft、Seedance和OpenAI的Astra等工具则完成角色的视觉呈现和配音，并生成拍摄场景。"
+                "x": "该部署于2025年2月以非工作时间试点的形式启动。由于法规要求不间断地宣读隐私声明，Regal构建了一个“static node”（静态节点），由代理在不被打断的情况下读完，再将来电转回人工代理人。"
               },
               {
                 "t": "p",
-                "x": "团队几乎没怎么睡觉，轮班昼夜赶工。Cartagena说：“我真的不建议让这成为项目的常态。这个节奏根本无法持续。”他还说：“完全就是个高压锅。”"
-              },
-              {
-                "t": "p",
-                "x": "据公司发言人介绍，这支广告在发布后48小时内在Reddit获得超过750,000次观看，此后在多个子版块累计观看近1.5 million 次，分享超过800次。"
+                "x": "合规部门从一开始就是关键利益相关方。eHealth产品与AI副总裁（VP）Atul Kumar表示：“对于任何受监管的企业来说，这都不是plug-and-play的解决方案。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con AI, una agencia pasa\nde seis semanas a cuatro días",
-          "body": "OK Future hizo el anuncio paródico de AI de Goodwipes en cuatro días y no seis semanas, con ahorro y mucha presión.",
-          "mini_headline": "Un anuncio de seis semanas, en cuatro días",
+          "headline": "El filtro con IA de eHealth\nlogra un 27% más de compras",
+          "body": "Alice, el agente de IA de eHealth, filtra llamadas de Medicare y logra un 27% más de compras que humanos externos.",
+          "mini_headline": "Alice, el agente de IA de eHealth",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Cuando Frank Cartagena, ex CEO de MullenLowe U.S., fundó su propio estudio creativo, OK Future, quiso comprobar hasta qué punto la AI generativa permitiría a su agencia de cuatro personas rendir por encima de su tamaño."
+                "x": "La mayoría de los clientes de eHealth llama durante el periodo de inscripción abierta de Medicare, de unos 54 días, en torno a medio millón de llamadas, y entre el 70% y el 80% compra por teléfono, lo que hacía que algunos esperaran seis horas a un agente con licencia."
               },
               {
                 "t": "p",
-                "x": "Su primer trabajo, “Meet Asstra” de Goodwipes, una parodia del comercial de OpenAI para su modelo de AI Astra, pasó del concepto a la ejecución en cuatro días con herramientas de AI generativa y redujo los $700,000 de costos de producción previstos. Un comercial producido de un minuto suele tardar unas seis semanas, dijo."
+                "x": "La agencia de seguros de salud usa ahora Alice, el agente de voz basado en LLM (LLM-based) de Regal, para filtrar previamente las llamadas. Según datos que Regal facilitó a CX Dive, Alice responde de inmediato a todas las llamadas, obtiene un 77% de valoraciones de satisfacción \"exceptional\" (excepcional) y logra una tasa de compra un 27% superior a la que eHealth tenía con filtradores humanos de un centro de llamadas externo."
               },
               {
                 "t": "p",
-                "x": "Goodwipes y OK Future se encargaron del guion, la construcción de personajes, el storyboard y la edición; herramientas como ArtCraft, Seedance y Astra de OpenAI dieron imagen y voz a los personajes y generaron la locación."
+                "x": "El despliegue comenzó en febrero de 2025 como piloto fuera del horario laboral. Como la normativa exige una declaración de privacidad sin interrupciones, Regal creó un \"static node\" (nodo estático) que el agente lee sin ser interrumpido antes de devolver a los usuarios a un agente humano."
               },
               {
                 "t": "p",
-                "x": "El equipo trabajó por turnos día y noche, durmiendo poco. “De verdad no recomendaría que esto fuera la norma de un proyecto. Es un ritmo insostenible”, dijo Cartagena. “Es una auténtica olla a presión”."
-              },
-              {
-                "t": "p",
-                "x": "Según un portavoz de la empresa, el anuncio superó las 750,000 visualizaciones en Reddit en sus primeras 48 horas y desde entonces ha alcanzado casi 1.5 millones de visualizaciones en distintos subreddits, y se ha compartido más de 800 veces."
+                "x": "El área de cumplimiento normativo fue una parte interesada clave desde el principio. \"Para cualquier empresa regulada, no es una solución plug-and-play\", dijo Atul Kumar, VP de producto e IA (AI) de eHealth."
               }
             ]
           }
@@ -1397,490 +1531,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 대행사 광고를\n여섯 주에서 나흘로",
-          "body": "OK Future가 Goodwipes AI 광고를 여섯 주 대신 나흘에 만들었다.",
-          "mini_headline": "여섯 주 걸릴 광고를 나흘에",
+          "headline": "eHealth의 AI\n구매율 27% 높였다",
+          "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
+          "mini_headline": "eHealth의 AI 에이전트 Alice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "전 MullenLowe U.S. CEO Frank Cartagena는 자신의 크리에이티브 숍 OK Future를 세우면서, 네 명짜리 대행사가 생성형 AI로 체급 이상의 성과를 얼마나 낼 수 있는지 시험해 보고 싶었다."
+                "x": "eHealth 고객 대부분은 약 54일간의 Medicare 공개 가입 기간에 전화한다. 통화는 약 오십만 건에 이르고 70%에서 80%가 전화로 구매해, 일부는 자격을 갖춘 상담원을 여섯 시간이나 기다렸다."
               },
               {
                 "t": "p",
-                "x": "첫 작업인 Goodwipes의 “Meet Asstra”는 OpenAI의 AI 모델 Astra 광고를 패러디한 작품으로, 생성형 AI 도구를 써서 콘셉트에서 실행까지 나흘 만에 마쳤고 예상 제작비 $700,000을 줄였다. 그는 일 분 길이의 광고를 제작하는 데 보통 여섯 주가량 걸린다고 말했다."
+                "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice로 전화 문의를 사전 선별한다. Regal이 CX Dive에 제공한 데이터에 따르면 Alice는 모든 전화를 즉시 받고, 만족도 평가에서 77%가 \"exceptional\"(매우 우수)을 줬으며, eHealth가 외주 콜센터의 인간 선별 인력을 쓸 때보다 구매율이 27% 높다."
               },
               {
                 "t": "p",
-                "x": "Goodwipes와 OK Future가 대본, 캐릭터 구축, 스토리보드, 편집을 맡았고, ArtCraft, Seedance, OpenAI의 Astra 같은 도구가 캐릭터를 시각화하고 목소리를 입혔으며 촬영 장소를 만들어 냈다."
+                "x": "도입은 2025년 2월 업무 시간 외 시범 운영으로 시작했다. 규정상 개인정보 고지를 중단 없이 전달해야 해서, Regal은 에이전트가 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
               },
               {
                 "t": "p",
-                "x": "팀은 잠을 거의 자지 못한 채 교대로 밤낮없이 일했다. Cartagena는 “이런 방식이 프로젝트의 표준이 되는 건 정말 권하고 싶지 않다. 지속할 수 없는 속도다”라며 “완전히 압력솥 같았다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "회사 대변인에 따르면 이 광고는 공개 후 48시간 동안 Reddit 조회 수 750,000회 이상을 기록했고, 이후 여러 서브레딧에서 1.5 million 회 가까운 조회 수와 800회 이상의 공유를 얻었다."
+                "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자였다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで代理店の広告制作\n六週間から四日に",
-          "body": "OK FutureはGoodwipesのAIパロディ広告を六週間でなく四日で作った。",
-          "mini_headline": "六週間の広告を四日で",
+          "headline": "eHealthのAI\n購入率27%向上",
+          "body": "eHealthのAI「Alice」は、外部委託の担当者より購入率が27%高い。",
+          "mini_headline": "eHealthのAIエージェントAlice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "MullenLowe U.S.の元CEO、Frank Cartagenaは自らのクリエイティブショップOK Futureを立ち上げた際、生成AIによって四人の代理店がどこまで実力以上の仕事をできるかを試したいと考えた。"
+                "x": "eHealthの顧客の多くは、約54日間のMedicareオープン加入期間に電話をかけてくる。その数は約五十万件にのぼり、70%から80%が電話で購入するため、有資格の担当者を六時間待つ人もいた。"
               },
               {
                 "t": "p",
-                "x": "最初の作品は、OpenAIのAIモデルAstraのCMをもじったGoodwipesの「Meet Asstra」だ。生成AIツールを使って構想から完成まで四日で仕上げ、$700,000と見込まれた制作費を抑えた。一分の本格的なCMは通常およそ六週間かかると彼は語る。"
+                "x": "この健康保険代理店は現在、RegalのLLMベース(LLM-based)の音声エージェント「Alice」で電話を事前選別している。RegalがCX Diveに提供したデータによると、Aliceはすべての電話に即座に応答し、満足度評価では77%が「exceptional(非常に良い)」を付け、eHealthが外部委託コールセンターの人間による選別を使っていた頃より購入率が27%高い。"
               },
               {
                 "t": "p",
-                "x": "脚本、キャラクター作り、絵コンテ、編集はGoodwipesとOK Futureが担い、ArtCraft、Seedance、OpenAIのAstraなどのツールがキャラクターの映像化と声、ロケーションの制作を担った。"
+                "x": "導入は2025年2月、時間外の試験運用として始まった。規制上、プライバシーに関する説明を途切れなく伝える必要があるため、Regalはエージェントが割り込まれずに読み上げてから人間の担当者に引き継ぐ「static node(静的ノード)」を構築した。"
               },
               {
                 "t": "p",
-                "x": "チームはほとんど眠らず、交代で昼夜を問わず作業した。Cartagenaは「これがプロジェクトの標準になることは本当に勧めない。持続できないペースだ」と述べ、「まさに圧力鍋だ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "同社の広報担当者によると、このCMは公開後48時間でReddit上で750,000回を超える再生を記録し、その後は複数のサブレディットで合計1.5 million 回近い再生と800回を超えるシェアを得た。"
+                "x": "コンプライアンス部門は当初から重要な関係者だった。eHealthの製品・AI担当VP、Atul Kumar氏は「規制を受けるあらゆる企業にとって、これはplug-and-playのソリューションではない」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让代理商广告制作\n从六周缩至四天",
-          "body": "OK Future用四天而非六周做出Goodwipes的AI恶搞广告，省下成本但团队吃紧。",
-          "mini_headline": "六周的广告四天完成",
+          "headline": "eHealth的AI筛选\n购买率高出27%",
+          "body": "eHealth的AI代理Alice预筛Medicare来电，购买率比外包人工高27%。",
+          "mini_headline": "eHealth的AI代理Alice",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "前MullenLowe U.S. CEO Frank Cartagena创办自己的创意工作室OK Future时，想检验生成式AI能让他这家四人代理商在多大程度上以小博大。"
+                "x": "eHealth的大多数客户会在Medicare约54天的开放参保期内来电，来电量约五十万通，其中70%至80%通过电话购买，导致一些人要等六个小时才能接通持证代理人。"
               },
               {
                 "t": "p",
-                "x": "其首个作品是Goodwipes的“Meet Asstra”，恶搞了OpenAI为其AI模型Astra拍摄的广告。借助生成式AI工具，这支广告从构思到执行只用了四天，并压低了预计$700,000的制作成本。他说，一支一分钟的正式广告通常需要约六周。"
+                "x": "这家健康保险代理机构现在使用Regal基于LLM（LLM-based）的语音代理Alice对来电进行预筛。根据Regal向CX Dive提供的数据，Alice能即时接听每一通电话，获得77%的“exceptional”（非常满意）满意度评价，购买率比eHealth此前使用外包呼叫中心人工筛选员时高27%。"
               },
               {
                 "t": "p",
-                "x": "Goodwipes和OK Future负责脚本、角色塑造、分镜和剪辑；ArtCraft、Seedance和OpenAI的Astra等工具则完成角色的视觉呈现和配音，并生成拍摄场景。"
+                "x": "该部署于2025年2月以非工作时间试点的形式启动。由于法规要求不间断地宣读隐私声明，Regal构建了一个“static node”（静态节点），由代理在不被打断的情况下读完，再将来电转回人工代理人。"
               },
               {
                 "t": "p",
-                "x": "团队几乎没怎么睡觉，轮班昼夜赶工。Cartagena说：“我真的不建议让这成为项目的常态。这个节奏根本无法持续。”他还说：“完全就是个高压锅。”"
-              },
-              {
-                "t": "p",
-                "x": "据公司发言人介绍，这支广告在发布后48小时内在Reddit获得超过750,000次观看，此后在多个子版块累计观看近1.5 million 次，分享超过800次。"
+                "x": "合规部门从一开始就是关键利益相关方。eHealth产品与AI副总裁（VP）Atul Kumar表示：“对于任何受监管的企业来说，这都不是plug-and-play的解决方案。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Con AI, una agencia pasa\nde seis semanas a cuatro días",
-          "body": "OK Future hizo el anuncio paródico de AI de Goodwipes en cuatro días y no seis semanas, con ahorro y mucha presión.",
-          "mini_headline": "Un anuncio de seis semanas, en cuatro días",
+          "headline": "El filtro con IA de eHealth\nlogra un 27% más de compras",
+          "body": "Alice, el agente de IA de eHealth, filtra llamadas de Medicare y logra un 27% más de compras que humanos externos.",
+          "mini_headline": "Alice, el agente de IA de eHealth",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/09/ai-budget-digiday.webp"
+                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
               },
               {
                 "t": "p",
-                "x": "Cuando Frank Cartagena, ex CEO de MullenLowe U.S., fundó su propio estudio creativo, OK Future, quiso comprobar hasta qué punto la AI generativa permitiría a su agencia de cuatro personas rendir por encima de su tamaño."
+                "x": "La mayoría de los clientes de eHealth llama durante el periodo de inscripción abierta de Medicare, de unos 54 días, en torno a medio millón de llamadas, y entre el 70% y el 80% compra por teléfono, lo que hacía que algunos esperaran seis horas a un agente con licencia."
               },
               {
                 "t": "p",
-                "x": "Su primer trabajo, “Meet Asstra” de Goodwipes, una parodia del comercial de OpenAI para su modelo de AI Astra, pasó del concepto a la ejecución en cuatro días con herramientas de AI generativa y redujo los $700,000 de costos de producción previstos. Un comercial producido de un minuto suele tardar unas seis semanas, dijo."
+                "x": "La agencia de seguros de salud usa ahora Alice, el agente de voz basado en LLM (LLM-based) de Regal, para filtrar previamente las llamadas. Según datos que Regal facilitó a CX Dive, Alice responde de inmediato a todas las llamadas, obtiene un 77% de valoraciones de satisfacción \"exceptional\" (excepcional) y logra una tasa de compra un 27% superior a la que eHealth tenía con filtradores humanos de un centro de llamadas externo."
               },
               {
                 "t": "p",
-                "x": "Goodwipes y OK Future se encargaron del guion, la construcción de personajes, el storyboard y la edición; herramientas como ArtCraft, Seedance y Astra de OpenAI dieron imagen y voz a los personajes y generaron la locación."
+                "x": "El despliegue comenzó en febrero de 2025 como piloto fuera del horario laboral. Como la normativa exige una declaración de privacidad sin interrupciones, Regal creó un \"static node\" (nodo estático) que el agente lee sin ser interrumpido antes de devolver a los usuarios a un agente humano."
               },
               {
                 "t": "p",
-                "x": "El equipo trabajó por turnos día y noche, durmiendo poco. “De verdad no recomendaría que esto fuera la norma de un proyecto. Es un ritmo insostenible”, dijo Cartagena. “Es una auténtica olla a presión”."
-              },
-              {
-                "t": "p",
-                "x": "Según un portavoz de la empresa, el anuncio superó las 750,000 visualizaciones en Reddit en sus primeras 48 horas y desde entonces ha alcanzado casi 1.5 millones de visualizaciones en distintos subreddits, y se ha compartido más de 800 veces."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-walmart-sparky",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Walmart AI 절감분\n고객 경험에 재투자",
-      "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
-      "mini_headline": "Walmart, AI 절감분 재투자",
-      "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-          },
-          {
-            "t": "p",
-            "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI 발전 덕분에 비용을 아끼고, 그 돈을 고객 경험 개선에 다시 투자한다."
-          },
-          {
-            "t": "p",
-            "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽으며 여기서 얻은 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "이 개선의 중심에는 Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
-          },
-          {
-            "t": "p",
-            "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
-          }
-        ]
-      },
-      "lead_image": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp",
-      "text": {
-        "en": {
-          "headline": "Walmart says AI savings fund\nbetter customer experience",
-          "body": "Walmart U.S. CEO David Guggina says AI is cutting costs that the retailer reinvests in customer experience.",
-          "mini_headline": "Walmart reinvests AI savings",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
-              },
-              {
-                "t": "p",
-                "x": "“We have been leaning into AI for quite some time — we've had physical AI in our supply chain for over seven years — and you can see it reshaping our company, reshaping our customer value proposition,” Guggina said in a conversation with Goldman Sachs’ Katharine McShane."
-              },
-              {
-                "t": "p",
-                "x": "The gains show most in e-commerce: sales grew 24% year over year in Q2, the 10th consecutive quarter of more than 20% growth. Guggina credited AI-driven efficiencies — faster delivery and cost savings — that were reinvested into competitive pricing and customer experience."
-              },
-              {
-                "t": "p",
-                "x": "Sparky, which Guggina describes as “becoming more and more capable,” is central to those improvements. Weekly engagement with Sparky has grown 60% quarter over quarter, and its new visual search has led to a 57% spike in conversion compared with text-based searches."
-              },
-              {
-                "t": "p",
-                "x": "Guggina is also “really happy” with partnerships with external AI agents like OpenAI’s ChatGPT and Google’s Gemini, which most often deep link customers to Walmart with “fantastic conversion rates.” That contrasts with Amazon, which last month moved to block Meta’s new AI assistant Muse from its site. Many customers arriving via ChatGPT and Gemini are new or returning, with a “very high” organic repeat rate."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Walmart AI 절감분\n고객 경험에 재투자",
-          "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
-          "mini_headline": "Walmart, AI 절감분 재투자",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI 발전 덕분에 비용을 아끼고, 그 돈을 고객 경험 개선에 다시 투자한다."
-              },
-              {
-                "t": "p",
-                "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽으며 여기서 얻은 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "이 개선의 중심에는 Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
-              },
-              {
-                "t": "p",
-                "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Walmart、AI節減分を\n顧客体験に再投資",
-          "body": "Walmart U.S. CEOのDavid GugginaはAI節減分を顧客体験に回す。",
-          "mini_headline": "Walmart、AI節減分を再投資",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "U.S. CEOのDavid Gugginaによると、AIの進歩がWalmartのコスト削減を後押ししており、同社はその分を顧客体験の改善に再投資している。"
-              },
-              {
-                "t": "p",
-                "x": "GugginaはGoldman SachsのKatharine McShaneとの対談で「我々はかなり前からAIに力を入れてきた。サプライチェーンでは七年以上前からフィジカルAIを使っている。AIが会社を、そして顧客への価値提案を作り変えているのがわかる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "成果が最も表れているのはe-commerceだ。Q2の売上高は前年同期比24%増で、20%を超える成長は10四半期連続となった。Gugginaは、配送の迅速化やコスト削減といったAI-drivenの効率化を要因に挙げ、その成果を競争力のある価格と顧客体験に再投資したと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "こうした改善の中心にあるのが、Gugginaが「ますます有能になっている」と評するSparkyだ。Sparkyの週間エンゲージメントは前四半期比60%増え、新しいビジュアル検索はテキスト検索と比べてコンバージョンを57%押し上げた。"
-              },
-              {
-                "t": "p",
-                "x": "GugginaはOpenAIのChatGPTやGoogleのGeminiといった外部AIエージェントとの提携にも「本当に満足している」という。これらは多くの場合、顧客をWalmartへ直接ディープリンクし、「素晴らしいコンバージョン率」を生んでいる。先月、Metaの新しいAIアシスタントMuseを自社サイトから締め出す動きに出たAmazonとは対照的だ。ChatGPTやGeminiを経由する顧客の多くは新規か再来の顧客で、自然なリピート率は「非常に高い」。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Walmart称AI省下的钱\n用于改善顾客体验",
-          "body": "Walmart U.S. CEO David Guggina称AI省下的钱再投入顾客体验。",
-          "mini_headline": "Walmart将AI节省再投资",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "据U.S. CEO David Guggina介绍，AI的进步正在帮助Walmart节省开支，而公司又把省下的钱再投入到顾客体验的改善中。"
-              },
-              {
-                "t": "p",
-                "x": "Guggina在与Goldman Sachs的Katharine McShane对谈时说：“我们投入AI已经有相当长的时间了——我们的供应链使用实体AI已经超过七年——你能看到它正在重塑我们的公司，重塑我们对顾客的价值主张。”"
-              },
-              {
-                "t": "p",
-                "x": "成效在e-commerce上最为明显：Q2销售额同比增长24%，连续第10个季度增幅超过20%。Guggina将此归功于AI-driven的效率提升，即更快的配送和成本节约，这些收益又被再投入到有竞争力的价格和顾客体验中。"
-              },
-              {
-                "t": "p",
-                "x": "被Guggina形容为“能力越来越强”的Sparky是这些改进的核心。Sparky的周互动量环比增长60%，其新的视觉搜索与文字搜索相比带来了57%的转化率跃升。"
-              },
-              {
-                "t": "p",
-                "x": "Guggina对与OpenAI的ChatGPT、Google的Gemini等外部AI智能体的合作也“非常满意”，这些智能体通常将顾客直接深度链接到Walmart，带来“极佳的转化率”。这与Amazon形成对比，后者上月出手阻止Meta的新AI助手Muse访问其网站。经由ChatGPT和Gemini而来的顾客很多是新顾客或回流顾客，自然复购率“非常高”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Walmart: el ahorro de la AI\nfinancia una mejor experiencia",
-          "body": "El CEO de Walmart U.S., David Guggina, dice que la AI reduce costos que reinvierte en la experiencia del cliente.",
-          "mini_headline": "Walmart reinvierte el ahorro de la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "Los avances en AI están ayudando a Walmart a ahorrar dinero, que a su vez reinvierte en mejorar la experiencia del cliente, según el CEO de U.S., David Guggina."
-              },
-              {
-                "t": "p",
-                "x": "“Llevamos bastante tiempo apostando por la AI —tenemos AI física en nuestra cadena de suministro desde hace más de siete años— y se ve cómo está transformando nuestra empresa y nuestra propuesta de valor para el cliente”, dijo Guggina en una conversación con Katharine McShane, de Goldman Sachs."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados se notan sobre todo en e-commerce: las ventas crecieron un 24% interanual en Q2, el 10.º trimestre consecutivo con un crecimiento superior al 20%. Guggina lo atribuyó a eficiencias AI-driven —entregas más rápidas y ahorro de costos— que se reinvirtieron en precios competitivos y en la experiencia del cliente."
-              },
-              {
-                "t": "p",
-                "x": "Sparky, que según Guggina es “cada vez más capaz”, es clave en esas mejoras. La interacción semanal con Sparky creció un 60% respecto del trimestre anterior, y su nueva búsqueda visual elevó un 57% la conversión frente a las búsquedas por texto."
-              },
-              {
-                "t": "p",
-                "x": "Guggina también se mostró “muy contento” con las alianzas con agentes de AI externos como ChatGPT de OpenAI y Gemini de Google, que la mayoría de las veces envían a los clientes a Walmart mediante enlaces profundos con “tasas de conversión fantásticas”. Eso contrasta con Amazon, que el mes pasado tomó medidas para bloquear en su sitio a Muse, el nuevo asistente de AI de Meta. Muchos clientes que llegan desde ChatGPT y Gemini son nuevos o recurrentes, con una tasa de repetición orgánica “muy alta”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Walmart AI 절감분\n고객 경험에 재투자",
-          "body": "Walmart U.S. CEO David Guggina는 AI 절감분을 재투자한다.",
-          "mini_headline": "Walmart, AI 절감분 재투자",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "U.S. CEO David Guggina에 따르면 Walmart는 AI의 발전 덕분에 비용을 아끼고 있으며, 아낀 돈을 다시 고객 경험 개선에 투자하고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Guggina는 Goldman Sachs의 Katharine McShane과의 대담에서 “우리는 꽤 오래전부터 AI에 힘을 실어 왔다. 공급망에는 칠 년 넘게 피지컬 AI를 써 왔다. AI가 회사를, 그리고 고객 가치 제안을 바꾸고 있는 모습이 보인다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "효과는 e-commerce에서 가장 두드러진다. Q2 매출은 전년 대비 24% 늘어 10분기 연속 20%가 넘는 성장을 기록했다. Guggina는 더 빠른 배송과 비용 절감 같은 AI-driven 효율화를 그 배경으로 꼽았고, 이 효과를 경쟁력 있는 가격과 고객 경험에 재투자했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Guggina가 “점점 더 유능해지고 있다”고 표현한 Sparky가 이 개선의 중심에 있다. Sparky의 주간 참여는 전 분기 대비 60% 늘었고, 새 시각 검색은 텍스트 기반 검색보다 전환율을 57% 끌어올렸다."
-              },
-              {
-                "t": "p",
-                "x": "Guggina는 OpenAI의 ChatGPT, Google의 Gemini 같은 외부 AI 에이전트와의 제휴에도 “정말 만족한다”고 했다. 이들 에이전트는 대개 고객을 Walmart로 바로 딥링크해 “환상적인 전환율”을 낸다. 지난달 Meta의 새 AI 어시스턴트 Muse를 자사 사이트에서 차단하려 한 Amazon과는 대조적이다. ChatGPT와 Gemini를 거쳐 들어오는 고객 다수는 신규 또는 복귀 고객이며, 자연 재구매율도 “매우 높다”."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Walmart、AI節減分を\n顧客体験に再投資",
-          "body": "Walmart U.S. CEOのDavid GugginaはAI節減分を顧客体験に回す。",
-          "mini_headline": "Walmart、AI節減分を再投資",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "U.S. CEOのDavid Gugginaによると、AIの進歩がWalmartのコスト削減を後押ししており、同社はその分を顧客体験の改善に再投資している。"
-              },
-              {
-                "t": "p",
-                "x": "GugginaはGoldman SachsのKatharine McShaneとの対談で「我々はかなり前からAIに力を入れてきた。サプライチェーンでは七年以上前からフィジカルAIを使っている。AIが会社を、そして顧客への価値提案を作り変えているのがわかる」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "成果が最も表れているのはe-commerceだ。Q2の売上高は前年同期比24%増で、20%を超える成長は10四半期連続となった。Gugginaは、配送の迅速化やコスト削減といったAI-drivenの効率化を要因に挙げ、その成果を競争力のある価格と顧客体験に再投資したと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "こうした改善の中心にあるのが、Gugginaが「ますます有能になっている」と評するSparkyだ。Sparkyの週間エンゲージメントは前四半期比60%増え、新しいビジュアル検索はテキスト検索と比べてコンバージョンを57%押し上げた。"
-              },
-              {
-                "t": "p",
-                "x": "GugginaはOpenAIのChatGPTやGoogleのGeminiといった外部AIエージェントとの提携にも「本当に満足している」という。これらは多くの場合、顧客をWalmartへ直接ディープリンクし、「素晴らしいコンバージョン率」を生んでいる。先月、Metaの新しいAIアシスタントMuseを自社サイトから締め出す動きに出たAmazonとは対照的だ。ChatGPTやGeminiを経由する顧客の多くは新規か再来の顧客で、自然なリピート率は「非常に高い」。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Walmart称AI省下的钱\n用于改善顾客体验",
-          "body": "Walmart U.S. CEO David Guggina称AI省下的钱再投入顾客体验。",
-          "mini_headline": "Walmart将AI节省再投资",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "据U.S. CEO David Guggina介绍，AI的进步正在帮助Walmart节省开支，而公司又把省下的钱再投入到顾客体验的改善中。"
-              },
-              {
-                "t": "p",
-                "x": "Guggina在与Goldman Sachs的Katharine McShane对谈时说：“我们投入AI已经有相当长的时间了——我们的供应链使用实体AI已经超过七年——你能看到它正在重塑我们的公司，重塑我们对顾客的价值主张。”"
-              },
-              {
-                "t": "p",
-                "x": "成效在e-commerce上最为明显：Q2销售额同比增长24%，连续第10个季度增幅超过20%。Guggina将此归功于AI-driven的效率提升，即更快的配送和成本节约，这些收益又被再投入到有竞争力的价格和顾客体验中。"
-              },
-              {
-                "t": "p",
-                "x": "被Guggina形容为“能力越来越强”的Sparky是这些改进的核心。Sparky的周互动量环比增长60%，其新的视觉搜索与文字搜索相比带来了57%的转化率跃升。"
-              },
-              {
-                "t": "p",
-                "x": "Guggina对与OpenAI的ChatGPT、Google的Gemini等外部AI智能体的合作也“非常满意”，这些智能体通常将顾客直接深度链接到Walmart，带来“极佳的转化率”。这与Amazon形成对比，后者上月出手阻止Meta的新AI助手Muse访问其网站。经由ChatGPT和Gemini而来的顾客很多是新顾客或回流顾客，自然复购率“非常高”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Walmart: el ahorro de la AI\nfinancia una mejor experiencia",
-          "body": "El CEO de Walmart U.S., David Guggina, dice que la AI reduce costos que reinvierte en la experiencia del cliente.",
-          "mini_headline": "Walmart reinvierte el ahorro de la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
-              },
-              {
-                "t": "p",
-                "x": "Los avances en AI están ayudando a Walmart a ahorrar dinero, que a su vez reinvierte en mejorar la experiencia del cliente, según el CEO de U.S., David Guggina."
-              },
-              {
-                "t": "p",
-                "x": "“Llevamos bastante tiempo apostando por la AI —tenemos AI física en nuestra cadena de suministro desde hace más de siete años— y se ve cómo está transformando nuestra empresa y nuestra propuesta de valor para el cliente”, dijo Guggina en una conversación con Katharine McShane, de Goldman Sachs."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados se notan sobre todo en e-commerce: las ventas crecieron un 24% interanual en Q2, el 10.º trimestre consecutivo con un crecimiento superior al 20%. Guggina lo atribuyó a eficiencias AI-driven —entregas más rápidas y ahorro de costos— que se reinvirtieron en precios competitivos y en la experiencia del cliente."
-              },
-              {
-                "t": "p",
-                "x": "Sparky, que según Guggina es “cada vez más capaz”, es clave en esas mejoras. La interacción semanal con Sparky creció un 60% respecto del trimestre anterior, y su nueva búsqueda visual elevó un 57% la conversión frente a las búsquedas por texto."
-              },
-              {
-                "t": "p",
-                "x": "Guggina también se mostró “muy contento” con las alianzas con agentes de AI externos como ChatGPT de OpenAI y Gemini de Google, que la mayoría de las veces envían a los clientes a Walmart mediante enlaces profundos con “tasas de conversión fantásticas”. Eso contrasta con Amazon, que el mes pasado tomó medidas para bloquear en su sitio a Muse, el nuevo asistente de AI de Meta. Muchos clientes que llegan desde ChatGPT y Gemini son nuevos o recurrentes, con una tasa de repetición orgánica “muy alta”."
+                "x": "El área de cumplimiento normativo fue una parte interesada clave desde el principio. \"Para cualquier empresa regulada, no es una solución plug-and-play\", dijo Atul Kumar, VP de producto e IA (AI) de eHealth."
               }
             ]
           }

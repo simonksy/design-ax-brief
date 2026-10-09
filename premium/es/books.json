@@ -5695,6 +5695,129 @@
           "x": "“Yo no lo llamaría detección de AI”, dice la cofundadora Esme Dennys. “La base de nuestra organización es evitar que [los escritores] sean acusados injustamente”."
         }
       ]
+    },
+    "books/books-wired-publishers-ai-staff-revolt": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Al menos tres de las Big Five editoriales de Estados Unidos (US) —HarperCollins, Simon & Schuster y Hachette— han incorporado discretamente herramientas de IA (AI) sin informarlo públicamente ni contar con el consentimiento de los autores, según más de dos docenas de trabajadores que hablaron con WIRED de forma anónima."
+        },
+        {
+          "t": "p",
+          "x": "Según el personal, LLMs como Claude y ChatGPT se usan para escribir correos a agentes literarios, redactar textos promocionales y de contraportada, diseñar portadas y generar materiales de marketing, a menudo por indicación de los directivos."
+        },
+        {
+          "t": "p",
+          "x": "En HarperCollins, los directivos compraron licencias de Claude y el personal fue “voluntold” —voluntario a la fuerza— para convertirse en “AI Champions”. Hachette afirma que apoya los usos operativos de la IA, pero no los creativos; Simon & Schuster dice que sus herramientas no son obligatorias. HarperCollins no respondió."
+        },
+        {
+          "t": "p",
+          "x": "Empleados de Simon & Schuster difundieron una carta abierta contra una prueba del software Skan AI; el CEO, Greg Greeley, respondió que no se había tomado ninguna decisión sobre su uso."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los profesionales del sector con los que habló WIRED solo quieren que las editoriales ofrezcan pautas claras sobre el uso de la IA y que lo hagan público."
+        }
+      ]
+    },
+    "books/books-von-menschen-label": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "18 editoriales infantiles y juveniles de lengua alemana introducen una nueva etiqueta: „Von Menschen · geschrieben · gestaltet · geprüft“ (por personas · escrito · diseñado · revisado) busca hacer visible que los textos, las ilustraciones y el diseño son obra de personas y que los libros se revisan editorialmente en las editoriales."
+        },
+        {
+          "t": "img",
+          "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
+          "cap": "Logo „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
+        },
+        {
+          "t": "p",
+          "x": "Con esta iniciativa, las editoriales defienden la creatividad humana, la responsabilidad editorial y la protección del trabajo creativo. La etiqueta no prohíbe el uso de la inteligencia artificial en las editoriales, por ejemplo para apoyar procesos, análisis o investigaciones. Se trata de transparencia y responsabilidad frente a las obras creativas de las personas."
+        },
+        {
+          "t": "p",
+          "x": "La etiqueta fue desarrollada por un grupo de trabajo de la avj (Arbeitsgemeinschaft von Jugendbuchverlagen, asociación de editoriales de literatura juvenil). Con ella, las editoriales asumen una promesa común:"
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geschrieben (escrito por personas): los textos los escriben autoras y autores."
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen gestaltet (diseñado por personas): las ilustraciones las crean artistas; las fotos, los layouts y otros elementos de diseño los seleccionan, desarrollan y curan personas."
+        },
+        {
+          "t": "p",
+          "x": "Von Menschen geprüft (revisado por personas): el contenido, el lenguaje y el diseño se revisan editorialmente en la editorial."
+        }
+      ]
+    },
+    "books/books-ghostwriters-ai-commissions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
+          "cap": "© Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Varios escritores fantasma han contado a The Bookseller que los encargos están cayendo porque los posibles autores experimentan con la IA generativa, mientras que a otros se les pide cada vez más trabajar en manuscritos generados por IA (AI-generated)."
+        }
+      ]
+    },
+    "books/books-tonies-ai-storyteller": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
+          "cap": "Tobias Wann, CEO de Tonies"
+        },
+        {
+          "t": "p",
+          "x": "En el Global 50 CEO Talk 2026 de la Frankfurter Buchmesse, el CEO de Tonies, Tobias Wann, dijo que la empresa prevé ingresos de unos €800m este año y que ha vendido unos 12 millones de cajas y más de 17 millones de figuras."
+        },
+        {
+          "t": "p",
+          "x": "Tonies desarrolla más IP original, como su línea “Sleepy Friends”, pero el material con licencia sigue siendo la mayor parte del catálogo, y los socios confían cada vez más la producción a Tonies Studio."
+        },
+        {
+          "t": "p",
+          "x": "Sobre la narración con IA (AI), Wann se mostró prudente. Tonies probó un “narrador” (storyteller) con IA en 3,000 hogares, que generaba historias personalizadas a partir del nombre, la edad y los intereses del niño en un entorno cerrado. Pero “la propia Toniebox nunca se convertirá en un juguete de IA”, dijo, en alusión al escepticismo de los padres. Internamente, alrededor del 85% de la plantilla usa IA a diario."
+        },
+        {
+          "t": "p",
+          "x": "Tonies entrará en al menos dos nuevos países en 2027, con el objetivo de estar presente en todas las grandes regiones para 2030."
+        }
+      ]
+    },
+    "books/books-munich-llm-ruling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131951-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Por segunda vez este año, el Tribunal Regional de Múnich ha fallado a favor de la sociedad alemana de gestión colectiva de derechos GEMA en un caso contra empresas de AI. Tras fallar contra OpenAI por letras en alemán (German-language) el pasado noviembre, en julio el tribunal falló contra Suno AI por varias obras musicales, con Boney M. en un lugar destacado."
+        },
+        {
+          "t": "p",
+          "x": "La sentencia abordó la cuestión de fondo: ¿memorizan los LLMs y, de ser así, es eso una reproducción? Según el tribunal, sí y sí. Como señala el fallo, “de la correspondencia entre los datos de entrenamiento y los resultados... puede inferirse que los datos de entrenamiento fueron memorizados”. Si un simple prompt vuelve a reunir obras tokenizadas, sugiere el tribunal, eso equivale a una reproducción."
+        },
+        {
+          "t": "p",
+          "x": "Como el entrenamiento tuvo lugar en Estados Unidos (U.S.), el tribunal de Múnich aplicó la ley estadounidense de derechos de autor y analizó con detalle Bartz v. Anthropic y Kadrey v. Meta. A diferencia de esos casos, concluyó que los resultados sí reproducían los datos de entrada, por lo que el uso no era “transformativo” (transformative) y el fair use no servía como defensa."
+        },
+        {
+          "t": "p",
+          "x": "La sentencia no es firme y aún puede recurrirse. En un artículo para PW, Richard Mollett, de RELX, sostiene que la AI no está arrollando los derechos de autor: los litigios y el crecimiento paralelo de los acuerdos de licencia muestran la determinación de los titulares de derechos."
+        }
+      ]
     }
   }
 }

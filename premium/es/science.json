@@ -6704,6 +6704,127 @@
           "x": "El trío demostró una versión 4-to-1, algo más débil, de la conjetura de los 2-to-1 games de Khot, lo que implica que algunos grafos 3-colorable siguen siendo difíciles de colorear por muchos colores adicionales que se usen. “Las matemáticas por comunicado de prensa no son muy sanas para las matemáticas”, dijo Mark Braverman, de Princeton."
         }
       ]
+    },
+    "science/science-bolmo-byteification-nature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "La investigación detrás de Bolmo, la familia de modelos de lenguaje a nivel de bytes y totalmente abiertos que Ai2 presentó el pasado diciembre, se ha publicado en Nature. Ai2 también publica nuevos checkpoints en Hugging Face, además de checkpoints de Stage 1 que mantienen congelado el modelo global original mientras se entrenan los componentes a nivel de bytes de Bolmo."
+        },
+        {
+          "t": "p",
+          "x": "La mayoría de los modelos de lenguaje dividen el texto en subpalabras a partir de un vocabulario fijo, lo que puede restarles flexibilidad con la ortografía, las palabras poco frecuentes y las cadenas inusuales. Los modelos a nivel de bytes trabajan con los bytes en bruto que hay detrás de los caracteres, pero igualar el rendimiento de las subpalabras solía exigir un costoso entrenamiento desde cero."
+        },
+        {
+          "t": "p",
+          "x": "El proceso de \"byteificación\" (byteifying) de Ai2, en cambio, convierte un modelo de subpalabras ya capaz en uno a nivel de bytes con un entrenamiento adicional relativamente breve. En el artículo de Nature, el equipo lo aplicó, además de a Olmo, a Qwen 3 8B y Llama 3 8B, y creó Bwen 8B y Blama 8B; ambos se acercan a sus modelos de origen, y Bwen 8B supera a Bolmo 7B en el conjunto de evaluaciones agregadas de Ai2."
+        },
+        {
+          "t": "p",
+          "x": "Como los bytes también van más allá del texto, Ai2 afirma que las mismas ideas podrían aplicarse con el tiempo a imágenes y audio."
+        }
+      ]
+    },
+    "science/science-fossil-grass-pollen-cnn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los granos de polen de gramíneas de distintas especies parecen casi idénticos bajo un microscopio óptico convencional. Investigadores de la University of Illinois Urbana-Champaign, dirigidos por la bióloga vegetal Surangi Punyasena y el exdoctorando Marc-Élie Adaimé, combinaron microscopía de superresolución con una red neuronal convolucional para leer diferencias sutiles en el patrón de la superficie, la complejidad y el grosor de la pared."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+          "cap": "El polen de una hierba con flor, un árbol tropical y una gramínea perenne muestra lo simple que es, en comparación, el polen de las gramíneas."
+        },
+        {
+          "t": "p",
+          "x": "El modelo no puede identificar especies concretas, pero estima la diversidad de especies en muestras mixtas y distingue las gramíneas C3 de las C4."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+          "cap": "Imágenes de superresolución de Poa anceps (una gramínea C3) y Andropogon amethystinus (una gramínea C4)."
+        },
+        {
+          "t": "p",
+          "x": "Aplicado a un testigo de sedimentos de 25,000 años de un lago del Mount Kenya, el método mostró que la diversidad de gramíneas fue mínima durante el Último Máximo Glacial (Last Glacial Maximum), hace unos 21,000 a 18,000 años, y aumentó con el CO2 y la temperatura. La proporción de C4 fue mayor al final de la edad de hielo y luego disminuyó de forma gradual. El estudio se publica en PNAS."
+        }
+      ]
+    },
+    "science/science-llm-symbolic-role-filler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+          "cap": "\"A Sunday on La Grande Jatte\" (Tarde de domingo en la isla de La Grande Jatte), Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
+        },
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje resuelven tareas de matemáticas, lógica y programación que parecen requerir razonamiento simbólico, pero no manipulan símbolos como lo hace la IA (AI) clásica basada en reglas; procesan vectores, largas listas de números. Un equipo dirigido por el lingüista computacional de Yale Tom McCoy descubrió que esos vectores se organizan implícitamente en una estructura simbólica que no es visible al nivel de los números individuales."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores sustituyeron las representaciones internas de siete LLMs por estructuras de rol y relleno conocidas como representaciones de producto tensorial (tensor product representations), en las que palabras o números ocupan roles como sujeto o numerador. En lenguaje, aritmética, lógica y programación, el comportamiento de los modelos se mantuvo prácticamente igual."
+        },
+        {
+          "t": "p",
+          "x": "Las ediciones dirigidas, como mover la palabra \"clever\" para que modificara a otro sustantivo, cambiaron la salida en consecuencia. \"Los LLMs convergen de forma natural hacia representaciones con estructura de rol y relleno\", afirmó McCoy. Los coautores son Paul Soulos y Paul Smolensky, de Microsoft, y Tal Linzen, de NYU; la prepublicación está en arXiv."
+        }
+      ]
+    },
+    "science/science-spiking-net-event-timing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores del International Research Center for Neurointelligence (WPI-IRCN) de la University of Tokyo, dirigidos por Zenas C. Chao junto con Yohei Yamada, construyeron una red neuronal de impulsos recurrente de 1,000 neuronas que aprende a la vez qué se espera, cuándo se espera y qué probabilidad tiene."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+          "cap": "Tras el entrenamiento, una señal por sí sola evoca una actividad anticipatoria específica en el tiempo cuya intensidad refleja la probabilidad de cada evento. Credit: Zenas C. Chao, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "El aprendizaje se limita a las conexiones de lectura y usa reglas locales en lugar de retropropagación o de una señal de error difundida globalmente. Cuando cambian las probabilidades o los tiempos de los eventos, la red se adapta y se recupera más rápido que una referencia global de mínimos cuadrados."
+        },
+        {
+          "t": "p",
+          "x": "Publicado en Communications Biology, el trabajo es una demostración computacional y no una prueba de cómo el cerebro implementa la predicción, pero los autores señalan que el aprendizaje local podría ser adecuado para la IA (AI) inspirada en el cerebro y el hardware neuromórfico que debe adaptarse en tiempo real."
+        }
+      ]
+    },
+    "science/science-alphaproof-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un nuevo marco LLM-based llamado AlphaProof Nexus puede abordar de forma autónoma ciertos problemas matemáticos: busca demostraciones y usa la verificación para garantizar que las soluciones sean lógicamente sólidas, según informan los investigadores en Science. Resolvió decenas de problemas hasta ahora abiertos en varios campos de las matemáticas."
+        },
+        {
+          "t": "p",
+          "x": "Los LLMs tienden a cometer errores lógicos sutiles o “alucinaciones”, por lo que el sistema genera las demostraciones en el lenguaje formal Lean, que verifica automáticamente cada paso lógico."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+          "cap": "Diseño del agente full-featured de AlphaProof Nexus. Credit: Tsoukalas et al., arXiv:2605.22763"
+        },
+        {
+          "t": "p",
+          "x": "George Tsoukalas y sus colegas crearon un marco en el que varios agentes de AI buscan demostraciones con la retroalimentación del compilador de Lean, además de un agente full-featured que coordina subagentes mediante un algoritmo evolutivo y usa AlphaProof como herramienta especializada de demostración."
+        },
+        {
+          "t": "p",
+          "x": "Resolvió nueve de los 353 problemas de Erdős que intentó, entre ellos dos sin resolver desde hace más de 50 años, y 44 de 492 conjeturas abiertas de la OEIS, además de problemas de geometría algebraica, optimización, óptica cuántica y teoría de grafos."
+        },
+        {
+          "t": "p",
+          "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
+        }
+      ]
     }
   }
 }

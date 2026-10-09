@@ -7139,6 +7139,127 @@
           "x": "三人はKhotの2-to-1 games予想よりわずかに弱い4-to-1版を証明した。これは、一部の3-colorableグラフは色をどれだけ追加しても塗り分けが難しいままであることを意味する。PrincetonのMark Bravermanは「プレスリリースによる数学は、数学にとってあまり健全ではない」と語った。"
         }
       ]
+    },
+    "science/science-bolmo-byteification-nature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Ai2が昨年12月に発表した完全オープンなバイト単位言語モデル群Bolmoの基盤となる研究が、Natureに掲載された。Ai2はHugging Faceで新たなチェックポイントを公開するほか、元のグローバルモデルを凍結したままBolmoのバイト単位の構成要素を学習させたStage 1 チェックポイントも公開する。"
+        },
+        {
+          "t": "p",
+          "x": "多くの言語モデルは固定語彙に基づいてテキストをサブワードに分割するため、綴りや珍しい単語、特殊な文字列への柔軟性が下がることがある。バイト単位モデルは文字の背後にある生のバイトを扱うが、サブワードモデルの性能に並ぶには、通常コストのかかるゼロからの学習が必要だった。"
+        },
+        {
+          "t": "p",
+          "x": "Ai2の「バイト化(byteifying)」手法は、すでに高い能力を持つサブワードモデルを、比較的短い追加学習でバイト単位モデルに変換する。Nature論文では、Olmo以外に Qwen 3 8B と Llama 3 8B にも適用し、Bwen 8B と Blama 8B を作成した。どちらも元のモデルに迫る性能で、Bwen 8B はAi2の総合評価スイートで Bolmo 7B を上回った。"
+        },
+        {
+          "t": "p",
+          "x": "バイトはテキストにとどまらないため、Ai2は同じ考え方がいずれ画像や音声にも応用できる可能性があるとしている。"
+        }
+      ]
+    },
+    "science/science-fossil-grass-pollen-cnn": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "種の異なるイネ科の花粉粒は、通常の光学顕微鏡ではほとんど見分けがつかない。植物生物学者Surangi Punyasenaと元博士課程学生Marc-Élie Adaiméが率いるUniversity of Illinois Urbana-Champaignの研究チームは、超解像顕微鏡と畳み込みニューラルネットワークを組み合わせ、表面の模様や複雑さ、壁の厚さの微妙な違いを読み取った。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
+          "cap": "花を咲かせる草本、熱帯の樹木、多年生イネ科植物の花粉を並べると、イネ科の花粉がいかに単純かがわかる。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは個々の種名を特定することはできないが、混合サンプルの種多様性を推定し、C3型とC4型のイネ科を区別できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
+          "cap": "Poa anceps(C3型イネ科)とAndropogon amethystinus(C4型イネ科)の超解像画像。"
+        },
+        {
+          "t": "p",
+          "x": "Mount Kenyaの湖から採取した25,000年分の堆積物コアに適用したところ、イネ科の多様性は約21,000〜18,000年前の最終氷期最盛期(Last Glacial Maximum)に最も低く、CO2と気温の上昇とともに高まった。C4型の割合は氷期後半に高く、その後徐々に低下した。研究はPNASに掲載された。"
+        }
+      ]
+    },
+    "science/science-llm-symbolic-role-filler": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
+          "cap": "Georges Seurat「グランド・ジャット島の日曜日の午後」(\"A Sunday on La Grande Jatte\")、1884年。Credit: Public domain/Wikimedia Commons"
+        },
+        {
+          "t": "p",
+          "x": "大規模言語モデルは、記号的推論が必要に見える数学や論理、コーディングをこなすが、古典的なルールベースのAIのように記号を操作しているわけではない。処理しているのは、長い数値の列であるベクトルだ。Yaleの計算言語学者Tom McCoyが率いるチームは、これらのベクトルが、個々の数値のレベルでは見えない記号的構造へと暗黙のうちに組織化されていることを発見した。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らは七つのLLMsの内部表現を、テンソル積表現(tensor product representations)と呼ばれる役割・充填構造に置き換えた。この構造では、単語や数が主語や分子といった役割を埋める。言語、算術、論理、コーディングのいずれでも、モデルの挙動はほとんど変わらなかった。"
+        },
+        {
+          "t": "p",
+          "x": "単語「clever」が別の名詞を修飾するよう移すといった狙いを絞った編集を加えると、出力もそれに応じて変化した。McCoyは「LLMsは自然に役割・充填構造を持つ表現へ収束する」と述べた。共著者はMicrosoftのPaul SoulosとPaul Smolensky、NYUのTal Linzenで、プレプリントはarXivで公開されている。"
+        }
+      ]
+    },
+    "science/science-spiking-net-event-timing": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "University of TokyoのInternational Research Center for Neurointelligence(WPI-IRCN)で、Zenas C. Chaoが率い、Yohei Yamadaが加わった研究チームは、何が予想されるか、いつ予想されるか、その可能性がどの程度かを同時に学習する、1,000個のニューロンからなる再帰型スパイキングニューラルネットワークを構築した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
+          "cap": "学習後は手がかりだけで時刻特異的な予期活動が生じ、その強さは各事象の確率を反映する。Credit: Zenas C. Chao, The University of Tokyo"
+        },
+        {
+          "t": "p",
+          "x": "学習は読み出し結合に限られ、誤差逆伝播法や全体に一斉送信される誤差信号ではなく局所規則を用いる。事象の確率やタイミングが変わるとネットワークは適応し、全体最小二乗法のベースラインより速く回復する。"
+        },
+        {
+          "t": "p",
+          "x": "Communications Biologyに掲載された本研究は、脳が予測をどう実装しているかの証拠ではなく計算上の実証だが、著者らは、局所学習はリアルタイムで適応する必要がある脳型AIやニューロモルフィックハードウェアに適している可能性があると述べている。"
+        }
+      ]
+    },
+    "science/science-alphaproof-nexus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AlphaProof Nexusと呼ばれる新しいLLM-basedのフレームワークは、一部の数学問題に自律的に取り組み、証明を探索し、検証によって解が論理的に正しいことを担保できると、研究チームがScienceに報告した。複数の数学分野で、これまで未解決だった問題を数十件解いた。"
+        },
+        {
+          "t": "p",
+          "x": "LLMsは微妙な論理的誤り、いわゆる「幻覚」を生みやすい。そこでこのシステムは、各論理ステップを自動で検証する形式言語Leanで証明を生成する。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2605.22763v2/system_design_centered.png",
+          "cap": "full-featured版AlphaProof Nexusエージェントの設計。Credit: Tsoukalas et al., arXiv:2605.22763"
+        },
+        {
+          "t": "p",
+          "x": "George Tsoukalasらは、複数のAIエージェントがLeanコンパイラからのフィードバックを受けながら証明を探索するフレームワークを構築した。さらに、進化的アルゴリズムでサブエージェントを統括し、AlphaProofを専用の証明ツールとして使うfull-featuredのエージェントも開発した。"
+        },
+        {
+          "t": "p",
+          "x": "試みた353問のErdős問題のうち九問を解き、その中には50年以上未解決だった二問も含まれる。未解決のOEIS予想492件のうち44件も解いたほか、代数幾何学、最適化、量子光学、グラフ理論の問題も解決した。"
+        },
+        {
+          "t": "p",
+          "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
+        }
+      ]
     }
   }
 }

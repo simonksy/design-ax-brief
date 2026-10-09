@@ -1684,6 +1684,135 @@
           "x": "参议员Joni Ernst表示，对OTAs的审查已发现可疑成本和缺乏监督等危险信号。公开记录显示，Google、Anthropic和OpenAI都与CDAO签有OTs，但这些公司未证实其中是否使用了Tradewinds。"
         }
       ]
+    },
+    "politics/openai-false-front-ops": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI称，已封禁两起分别来自俄罗斯和伊朗的隐蔽影响力行动。它们将其模型与传统手法结合，运营“false front”（虚假门面）实体，对地缘政治信息进行洗白后投放给目标受众。"
+        },
+        {
+          "t": "p",
+          "x": "据OpenAI介绍，伊朗行动使用七个“记者”人设向中小型媒体推销长篇文章，俄罗斯行动则似乎拉拢了拉丁美洲不知情的人来运营一个“智库”。该公司将俄罗斯行动评为Breakout Scale的Category 5，这是其首次瓦解该级别的行动；伊朗行动则被评为Category 4。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
+          "cap": "OpenAI自2024年初以来曝光的30起影响力行动矩阵，按传播方式和Breakout Scale类别划分。"
+        },
+        {
+          "t": "p",
+          "x": "俄罗斯行动“Dark Clark”主要用ChatGPT撰写内部报告，内容涉及针对乌克兰声誉以及阿根廷和玻利维亚政治的宣传活动，并通过一个以名为“Mia Clark”的人设为门面的研究平台进行。"
+        },
+        {
+          "t": "p",
+          "x": "伊朗行动“Bogus Bylines”润色了有关美伊（US-Iran）冲突的文章；OpenAI识别出约十几家媒体上发表的近100篇此类文章。OpenAI称已就这两起案例与有关部门共享信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
+          "cap": "据OpenAI，以七个Bogus Bylines人设名义发表的文章时间线。"
+        }
+      ]
+    },
+    "politics/enisa-jrc-chinese-models": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
+          "cap": "2026年9月22日，北京PT Expo上一家中国电信企业的展台。| Kevin Frayer/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "三名EU官员向POLITICO透露，欧盟网络安全机构和内部研究中心已分别开始试验来自中国的开放AI模型。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会发言人马切伊·贝雷斯泰茨基(Maciej Berestecki)证实，联合研究中心(Joint Research Centre，JRC)正在评估来自中国的“公开可用的开放权重模型”，这是一项比较研究的一部分，研究对象还包括美国(U.S.)和欧洲的领先模型。这些模型运行在JRC安全的本地基础设施上，JRC未与中国开发者进行任何许可谈判，欧盟委员会也无意将其用于自身用途。"
+        },
+        {
+          "t": "p",
+          "x": "ENISA执行主任尤汉·莱帕萨尔(Juhan Lepassaar)表示，可以使用Anthropic、OpenAI和Google先进模型的该机构，也在试验“几个”中国开放权重模型。"
+        },
+        {
+          "t": "p",
+          "x": "根据EU近期发布的AI与网络安全行动计划，这两个机构受命搭建AI测试平台；该计划是在AI系统突破测试环境的事件发生后推出的。"
+        }
+      ]
+    },
+    "politics/park-wansu-deepfake-election-probe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
+          "cap": "警方为调查“深度伪造视频及官权选举疑云”一案，于6月9日搜查了庆尚南道厅等地。"
+        },
+        {
+          "t": "p",
+          "x": "据确认，就6·3地方选举期间曝出的时任国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频及官权选举疑云”，警方已以嫌疑人身份对朴完洙进行了调查。"
+        },
+        {
+          "t": "p",
+          "x": "庆南警察厅网络调查科8日表示，已以涉嫌违反《公职选举法》等罪名对朴完洙立案。据悉，朴完洙前一天上午8时至晚上9时到警方接受了调查。一名警方相关人士表示：“目前仍在调查中，难以透露具体内容。”"
+        },
+        {
+          "t": "p",
+          "x": "此前，警方已就针对时任当选人朴完洙阵营相关人士及庆尚南道厅现任、前任公务员等9人的5项抹黑宣传嫌疑展开调查。庆南选举管理委员会5月以涉嫌违反《公职选举法》将上述9人移交昌原地方检察厅调查；共同民主党庆南知事候选人金庆洙一方也以涉嫌制作、传播深度伪造视频及公务员介入选举，向庆南警察厅举报了5名相关人员。据悉，警方一直在合并调查这些案件。"
+        },
+        {
+          "t": "p",
+          "x": "8月，针对4名阵营相关人士的逮捕令申请全部被驳回。他们涉嫌指使制作诋毁候选人金庆洙的深度伪造视频，并提供道厅内部资料和财物等。其中，前公务员A某和现任公务员B某还涉嫌设立负责制作视频的类似竞选办公室。"
+        }
+      ]
+    },
+    "politics/yandex-ai-datacenter-strike": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
+          "cap": "卫星图像显示俄罗斯萨索沃(Sasovo)地区一座Yandex AI数据中心的受损情况。Credit: Planet Labs PBC"
+        },
+        {
+          "t": "p",
+          "x": "乌克兰无人机袭击已导致有“俄罗斯Google”之称的Yandex五座数据中心中的两座瘫痪，该公司难以维持其AI聊天机器人和其他在线服务。"
+        },
+        {
+          "t": "p",
+          "x": "据Reuters报道，无人机于10月8日和9日袭击了位于萨索沃(Sasovo)和卡卢加(Kaluga)地区的Yandex数据中心。萨索沃设施内有该公司用于训练YandexGPT模型的三台超级计算机中的两台；卡卢加则是其最大的设施。乌克兰总统弗拉基米尔·泽连斯基(Volodymyr Zelenskyy)称，此次袭击是对俄罗斯自9月下旬以来针对乌克兰数据中心的无人机攻势的“对称回应”。"
+        },
+        {
+          "t": "p",
+          "x": "Yandex表示没有员工受伤，但承认服务出现中断。用户反映Ivi、T-Bank和俄罗斯铁路(Russian Railways)等服务出现问题。"
+        },
+        {
+          "t": "p",
+          "x": "2026年，数据中心已成为战时目标：此前伊朗无人机曾击瘫Amazon位于巴林和阿联酋(UAE)的数据中心。"
+        }
+      ]
+    },
+    "politics/politics-uk-ico-ai-training-data-pledges": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/4093991.jpg?imageId=4093991&x=0&y=7.57&cropw=100&croph=84.87&panox=0&panoy=7.57&panow=100&panoh=84.87&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "全球十家最大的AI开发商在英国隐私监管机构审查后，同意收紧对个人数据的处理。ICO表示，Amazon、Anthropic、Apple、Cohere、DeepSeek、Google、Meta、Microsoft、OpenAI和Stability AI已经作出调整或承诺作出调整。"
+        },
+        {
+          "t": "p",
+          "x": "这些措施包括更清楚地说明个人信息如何用于训练AI模型、为人们行使数据权利提供更好的途径，以及对开发商的保障措施进行更严格的评估。该监督计划于2025年启动，最初涵盖11家开发商；后因ICO暂停与xAI的接触、转而对其Grok聊天机器人另行展开正式调查，数量降至十家。"
+        },
+        {
+          "t": "p",
+          "x": "ICO正在监督开发商是否兑现承诺，并承认按照英国数据保护法，当前的AI训练做法仍存在问题，包括埋藏在模型中的敏感数据，以及人们如何让自己的信息被删除。"
+        },
+        {
+          "t": "p",
+          "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
+        }
+      ]
     }
   }
 }
