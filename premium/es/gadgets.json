@@ -7279,6 +7279,169 @@
           "x": "Las tabletas salen a la venta el 14 de octubre en Estados Unidos (US), México y Canadá, y el 19 de octubre en Reino Unido (UK), Alemania, Francia, Italia y España."
         }
       ]
+    },
+    "gadgets/siri-personal-index-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+          "cap": "Siri AI está disponible en iOS, iPadOS, watchOS y macOS."
+        },
+        {
+          "t": "p",
+          "x": "Con iOS 27, Apple ha comenzado a desplegar el rediseño de Siri, retrasado durante mucho tiempo. Apple se asoció con Google para entrenar los grandes modelos de lenguaje en los que se basa Siri AI, y el asistente necesita una gran cantidad de tus datos para funcionar de la mejor manera."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+          "cap": "App Intents permite que Siri y otras funciones de Apple Intelligence accedan a los datos de tus apps."
+        },
+        {
+          "t": "p",
+          "x": "Un framework llamado App Intents permite a Siri buscar en tus apps de Apple, como Notes y Messages, además de en apps de terceros cuyos desarrolladores lo admitan. Siri AI combina modelos en el dispositivo con Private Cloud Compute; Apple afirma que no almacena los datos enviados a PCC y que no puede verlos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+          "cap": "Cómo impedir que Siri AI muestre datos de tus apps."
+        },
+        {
+          "t": "p",
+          "x": "Para bloquear una app, ve a Settings > Apps > [app] > Search y desactiva Show Content in Search; así Siri no extraerá información de ella aunque se le pida directamente. El reconocimiento de pantalla aún puede leer capturas, que podrían enviarse a PCC."
+        },
+        {
+          "t": "p",
+          "x": "Para que las grabaciones de Siri no se usen en el entrenamiento, desactiva Improve Siri & Dictation en Privacy & Security > Analytics & Improvements. También puedes volver a Siri Classic desde Screen Time > Content & Privacy Restrictions, o desactivar Siri por completo."
+        }
+      ]
+    },
+    "gadgets/verge-ai-bird-feeder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+          "cap": "Echo de menos a mis queridos carboneros."
+        },
+        {
+          "t": "p",
+          "x": "Docenas de pajaritos de colores llegaron a mi jardín unas semanas después de instalar un Kiwibit Bird Feeder 2 Pro de $269. “Looks like Great Tit!”, decía la primera alerta AI-driven que llegó a mi teléfono. Cientos de carboneros acudieron por las semillas de girasol peladas, y yo los admiraba en video 4K HDR y leía sobre ellos en la app de Kiwibit."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Luego llegó “Looks like Common Wood Pigeon!”. La paloma tapó la lente e ignoró la Nuisance Animal Alarm del comedero, y comió durante 15 minutos hasta que la espanté. Las palomas se instalaron, posándose 30 minutos o más, y abajo aparecieron ratones para darse un festín con los restos. Desmonté el comedero y lo metí en un armario."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "No estoy molesto con Kiwibit; el comedero fue un placer de usar hasta que dejó de serlo. Si te tienta un comedero inteligente, empieza por algo sencillo, barato y sin AI: no se puede devolver un comedero usado solo porque atrae plagas."
+        }
+      ]
+    },
+    "gadgets/msi-pro-max-edge-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El MSI Pro Max Edge AI+ es una de las miniestaciones de trabajo más potentes que he probado. En su interior hay un AMD Ryzen AI Max+ 395 con gráficos Radeon 8060S, una AMD XDNA NPU de hasta 50 TOPS y 128GB de memoria unificada, suficiente para ejecutar LLMs totalmente sin conexión y con rapidez."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+          "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+        },
+        {
+          "t": "p",
+          "x": "Con modelos gestionados en Lemonade, clasificó más de 2,600 imágenes, generó imágenes y creó un sitio web de diez páginas, aunque esto último requirió bastantes instrucciones. Las ediciones en Photoshop, Lightroom y Premiere Pro en 4K se resolvieron igual de bien."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+          "cap": "MSI PRO MAX Edge AI+"
+        },
+        {
+          "t": "p",
+          "x": "Inconvenientes: una CPU con más de un año, una red 2.5GbE lenta, RAM que no se puede ampliar y un precio elevado: $5,499 (US), €5,299, £5,999. Sacar el máximo partido a la AI local también exige mucha configuración y experimentación. Pero para una AI privada y completamente sin conexión, esta máquina compacta ofrece una enorme cantidad de potencia."
+        }
+      ]
+    },
+    "gadgets/amazon-driver-ai-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+          "cap": "Repartidor de Amazon (Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Amazon planea dotar a sus repartidores de más de 20,000 gafas inteligentes antes de finales de 2027, tras un piloto en el que más de 500 conductores completaron más de 275,000 entregas. Las gafas muestran navegación, detalles de los paquetes y alertas de peligro en el campo de visión, y toman imágenes fijas a intervalos frecuentes, sin opción de exclusión para los clientes cuyas casas aparecen en ellas."
+        },
+        {
+          "t": "video",
+          "yt": "XXVhNlNKxQA"
+        },
+        {
+          "t": "p",
+          "x": "Pero al observar la operación de Amazon, con 1 millón de robots que procesan 600,000 pedidos por hora, las gafas son solo la parte que el público puede ver. Un modelo fundacional pronostica la demanda y decide dónde se ubica el inventario; Amazon desplegó su robot número un millón en 2025 en más de 300 instalaciones. DeepFleet coordina la flota y se prevé que reduzca el tiempo de desplazamiento en aproximadamente un 10%, y el sistema agéntico Project Eluna recomienda a los gerentes adónde trasladar a los trabajadores."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+          "cap": "Almacén de Amazon (Image credit: Getty Images/Daniel Holland)"
+        },
+        {
+          "t": "p",
+          "x": "El mapeo de Wellspring ha identificado 202 millones de ubicaciones de estacionamiento, y las imágenes de las gafas podrían retroalimentarlo. Amazon calcula que las gafas podrían ahorrar a los repartidores hasta 30 minutos por turno, pero no ha dicho quién recupera ese tiempo. Las gafas son solo la punta del iceberg de la AI de Amazon."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch4-ai-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "Creación de una esfera personalizada con IA"
+        },
+        {
+          "t": "p",
+          "x": "Una de las funciones discretamente potentes del Pixel Watch 5 ha llegado al Pixel Watch 4. El generador de esferas con IA (AI watch face generator) se está desplegando ahora en los modelos Pixel Watch 4."
+        },
+        {
+          "t": "p",
+          "x": "El Pixel Watch 5 fue más un refinamiento que una revolución, y la mayoría de sus mejoras internas se centraron en el rendimiento de la IA. Un buen subproducto de ese esfuerzo es el generador de esferas con IA, una herramienta que facilita un poco la creación de esferas personalizadas."
+        },
+        {
+          "t": "p",
+          "x": "Según usuarios de Reddit, la actualización llega en la versión 4.2.12.989940186 e incluye también las esferas de serie del Pixel Watch 5 —Weave, Modular, Reveal y Chronograph— además de la esfera especial de Steph Curry."
+        },
+        {
+          "t": "p",
+          "x": "El generador es sencillo: al crear un nuevo diseño, se abre la sección de instrucciones en la app Pixel Watch, se describe lo que se quiere en lugar de elegir de una galería de plantillas, y Gemini Intelligence debería proponer algo parecido."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+          "cap": "Esferas generadas con IA (AI-generated)"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+          "cap": "Esferas generadas con IA (AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "books",
   "cards": [
     {
-      "id": "books-audible-every-book-ai",
+      "id": "fbf26-publishing-jobs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Audible, AI로\n모든 책을 오디오북으로",
-      "body": "Audible이 모든 책을 모든 언어로 내려고 제작 전반에 AI를 쓴다.",
-      "mini_headline": "Audible의 AI 오디오북 확장",
+      "headline": "출판 일자리는 AI에\n사라지기보다 적응한다",
+      "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 걱정했다.",
+      "mini_headline": "출판 일자리, AI에 적응",
       "tool": "Books",
       "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,197 +19,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
           },
           {
             "t": "p",
-            "x": "Audible은 프랑크푸르트 도서전(Frankfurt Book Fair)에서, 런던 도서전(London Book Fair) 때 발표한 11개 시장에 이어 2027년에는 인도네시아, 한국, 덴마크, 노르웨이, 핀란드에도 진출한다고 밝혔다."
+            "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널이 던진 질문은 AI가 내 일자리를 빼앗느냐였다. Bloomsbury 창립자 Nigel Newton의 답은 \"물론 헛소리다!\"였다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier가 함께한 패널은 AI가 출판 일을 없애기보다 재편하리라는 데 뜻을 모았다. 다만 신입 일자리는 사라질 수 있고 고용주가 직원을 다시 가르쳐야 한다고 경고했다."
           },
           {
             "t": "p",
-            "x": "NielsenIQ가 Audible 의뢰로 11개국 청취자 18,000명을 조사했더니 삼분의 일이 전년보다 오디오를 더 많이 들었고, 51%는 오디오 덕분에 화면 앞 오락을 대신할 수 있었다고 답했다."
+            "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오 모두 결국 책 판매를 끌어올렸다며 \"AI도 마찬가지일 것이라고 확신한다\"고 했다. Collier는 AI가 일자리를 대체한다고 외치는 쪽이 대개 \"AI 에이전트를 파는 회사들\"이라고 꼬집었다. 신입 자리가 없어지면 젊은 사람들은 업계를 어디서 배우느냐는 물음도 던졌다."
           },
           {
             "t": "p",
-            "x": "최고콘텐츠책임자 Rachel Ghiazza는 PW에 지금 제공하는 작품만 150만 종이 넘지만 목표는 “모든 책이 모든 언어의 오디오북이 되는 것”이라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "목표를 이루려면 기술의 힘도 어느 정도 필요하다. Audible은 제작 전 과정에 AI 도구를 쓸 계획인데, 내레이터 제작용 사내 도구도 그중 하나다. 이 도구는 “책을 분석하고, 캐릭터를 정의하고, 배경을 알려준다.”"
-          },
-          {
-            "t": "p",
-            "x": "제작물의 폭은 Harry Potter 같은 고급 다중 캐스팅 작품부터 “같은 수준의 제작 품질이 필요하지 않을 수도 있는” 틈새·장편 작품까지 넓다. 설문 응답자의 절반은 AI 내레이션 콘텐츠(AI-narrated)를 받아들일 뜻이 있었고, 그 비율은 독일 42%에서 일본 66%까지 갈렸다."
+            "x": "Bloomsbury에는 AI 관련 직무가 여럿 새로 생겼고, AI 때문에 자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무가 나오리라 내다봤다. Collier가 꼽은 핵심 역량은 비판적 사고, 문제 해결, 기업가 정신이다. Newton은 전자책이 한때 자신이 내다본 50%에 못 미친 채 판매의 약 25%–30%에서 멈췄다고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Audible leans on AI in quest to\nmake every book an audiobook",
-          "body": "Audible expects to use AI tools across audiobook production as it pursues a goal of every book in every language.",
-          "mini_headline": "Audible's AI audiobook push",
+          "headline": "Publishing jobs will adapt\nto AI, not disappear",
+          "body": "Bloomsbury's Nigel Newton called AI job fears rubbish, but his panel saw entry-level roles at risk.",
+          "mini_headline": "Publishing jobs adapt to AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "At the Frankfurt Book Fair, Audible announced it will launch in Indonesia, South Korea, Denmark, Norway and Finland in 2027, building on the 11 marketplaces announced at the London Book Fair."
+                "x": "The first panel of the 2026 Frankfurt Book Fair asked whether AI will take your job. \"It's rubbish, of course!\" Bloomsbury founder Nigel Newton said. With Supadu president Sarah Arbuthnot and bookcareers.com founder Suzanne Collier, the panel agreed AI would reshape publishing work rather than eliminate it, but warned entry-level jobs may disappear and employers must retrain staff."
               },
               {
                 "t": "p",
-                "x": "NielsenIQ research for Audible, based on 18,000 listeners in 11 countries, found a third listened to more audio than the year before, and 51% said audio helped them replace screen-time entertainment."
+                "x": "Newton argued that film, TV, the internet, e-books and audio all ended up stimulating book sales: \"I'm absolutely confident that AI will be the same.\" Collier noted that those claiming AI replaces jobs are mostly \"the companies that are selling AI agents,\" and asked how young people will learn the business if entry-level jobs vanish."
               },
               {
                 "t": "p",
-                "x": "Chief content officer Rachel Ghiazza told PW the company offers more than 1.5 million titles, but the goal is that “every book is an audiobook in every language.”"
-              },
-              {
-                "t": "p",
-                "x": "Reaching that goal depends partly on technology. Audible expects to use AI tools across the entire production process, including an internal tool for narrator productions that “breaks down the book, it defines the character, it gives you the background.”"
-              },
-              {
-                "t": "p",
-                "x": "Productions will range from high-end multicast titles such as Harry Potter to niche or long-form works that “maybe don’t need the same production quality.” Half of survey respondents were open to AI-narrated content, from 42% in Germany to 66% in Japan."
+                "x": "At Bloomsbury, several AI roles have been created and no one has lost a job because of AI. Newton consults ChatGPT, Gemini or Claude \"20 times a day.\" Arbuthnot expects hybrid roles such as metadata marketing specialists; Collier named critical thinking, problem solving and entrepreneurship as the key skills. Newton noted e-books stalled at around 25%–30% of sales, not the 50% he once predicted."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Audible, AI로\n모든 책을 오디오북으로",
-          "body": "Audible이 모든 책을 모든 언어로 내려고 제작 전반에 AI를 쓴다.",
-          "mini_headline": "Audible의 AI 오디오북 확장",
+          "headline": "출판 일자리는 AI에\n사라지기보다 적응한다",
+          "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 걱정했다.",
+          "mini_headline": "출판 일자리, AI에 적응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audible은 프랑크푸르트 도서전(Frankfurt Book Fair)에서, 런던 도서전(London Book Fair) 때 발표한 11개 시장에 이어 2027년에는 인도네시아, 한국, 덴마크, 노르웨이, 핀란드에도 진출한다고 밝혔다."
+                "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널이 던진 질문은 AI가 내 일자리를 빼앗느냐였다. Bloomsbury 창립자 Nigel Newton의 답은 \"물론 헛소리다!\"였다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier가 함께한 패널은 AI가 출판 일을 없애기보다 재편하리라는 데 뜻을 모았다. 다만 신입 일자리는 사라질 수 있고 고용주가 직원을 다시 가르쳐야 한다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "NielsenIQ가 Audible 의뢰로 11개국 청취자 18,000명을 조사했더니 삼분의 일이 전년보다 오디오를 더 많이 들었고, 51%는 오디오 덕분에 화면 앞 오락을 대신할 수 있었다고 답했다."
+                "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오 모두 결국 책 판매를 끌어올렸다며 \"AI도 마찬가지일 것이라고 확신한다\"고 했다. Collier는 AI가 일자리를 대체한다고 외치는 쪽이 대개 \"AI 에이전트를 파는 회사들\"이라고 꼬집었다. 신입 자리가 없어지면 젊은 사람들은 업계를 어디서 배우느냐는 물음도 던졌다."
               },
               {
                 "t": "p",
-                "x": "최고콘텐츠책임자 Rachel Ghiazza는 PW에 지금 제공하는 작품만 150만 종이 넘지만 목표는 “모든 책이 모든 언어의 오디오북이 되는 것”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "목표를 이루려면 기술의 힘도 어느 정도 필요하다. Audible은 제작 전 과정에 AI 도구를 쓸 계획인데, 내레이터 제작용 사내 도구도 그중 하나다. 이 도구는 “책을 분석하고, 캐릭터를 정의하고, 배경을 알려준다.”"
-              },
-              {
-                "t": "p",
-                "x": "제작물의 폭은 Harry Potter 같은 고급 다중 캐스팅 작품부터 “같은 수준의 제작 품질이 필요하지 않을 수도 있는” 틈새·장편 작품까지 넓다. 설문 응답자의 절반은 AI 내레이션 콘텐츠(AI-narrated)를 받아들일 뜻이 있었고, 그 비율은 독일 42%에서 일본 66%까지 갈렸다."
+                "x": "Bloomsbury에는 AI 관련 직무가 여럿 새로 생겼고, AI 때문에 자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무가 나오리라 내다봤다. Collier가 꼽은 핵심 역량은 비판적 사고, 문제 해결, 기업가 정신이다. Newton은 전자책이 한때 자신이 내다본 50%에 못 미친 채 판매의 약 25%–30%에서 멈췄다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Audible、AIで\n全書籍のオーディオブック化",
-          "body": "Audibleは全言語で全書籍のオーディオブック化を目指し、制作全体にAIを使う方針だ。",
-          "mini_headline": "AudibleのAIオーディオブック戦略",
+          "headline": "出版の仕事はAIで\n消えずに形を変える",
+          "body": "Nigel NewtonはAI失業論を一蹴したが、パネルは新人職の危うさを指摘した。",
+          "mini_headline": "出版の仕事、AIに適応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audibleはフランクフルト・ブックフェア(Frankfurt Book Fair)で、ロンドン・ブックフェア(London Book Fair)で発表した11の市場に続き、2027年にインドネシア、韓国、デンマーク、ノルウェー、フィンランドでサービスを開始すると発表した。"
+                "x": "2026年のフランクフルト・ブックフェア(Frankfurt Book Fair)の最初のパネルは、AIがあなたの仕事を奪うのかを問うた。「もちろん、ばかげている！」とBloomsbury創業者のNigel Newtonは語った。Supadu社長のSarah Arbuthnot、bookcareers.com創業者のSuzanne Collierとともに、パネルはAIが出版の仕事をなくすのではなく作り変えるという点で一致したが、新人向けの仕事は消える可能性があり、雇用主は従業員を再教育しなければならないと警告した。"
               },
               {
                 "t": "p",
-                "x": "NielsenIQがAudibleの依頼で11カ国の聴取者18,000人を対象に行った調査では、三分の一が前年より多くのオーディオを聴き、51%がオーディオは画面を使う娯楽の代わりになったと答えた。"
+                "x": "Newtonは、映画、TV、インターネット、電子書籍、オーディオはいずれも結局は本の売上を押し上げたと主張し、「AIも同じだと確信している」と述べた。Collierは、AIが仕事を置き換えると唱えるのは主に「AIエージェントを売っている企業」だと指摘し、新人向けの仕事が消えれば若者はどうやって業界を学ぶのかと問いかけた。"
               },
               {
                 "t": "p",
-                "x": "最高コンテンツ責任者のRachel GhiazzaはPWに対し、同社は150万点以上の作品を提供しているが、目標は「すべての本があらゆる言語でオーディオブックになること」だと語った。"
-              },
-              {
-                "t": "p",
-                "x": "目標の達成は技術にも左右される。Audibleは制作工程全体でAIツールを使う見通しで、ナレーター制作向けの社内ツールもその一つだ。このツールは「本を分解し、登場人物を定義し、背景を教えてくれる」という。"
-              },
-              {
-                "t": "p",
-                "x": "制作物はHarry Potterのような高品質のマルチキャスト作品から、「同じ制作品質を必要としないかもしれない」ニッチな作品や長編までさまざまだ。調査回答者の半数がAIナレーションのコンテンツ(AI-narrated)を受け入れると答え、その割合はドイツの42%から日本の66%まで幅があった。"
+                "x": "Bloomsburyでは複数のAI関連職が生まれ、AIが原因で職を失った人はいない。NewtonはChatGPT、Gemini、Claudeに「一日20回」相談する。Arbuthnotはメタデータ・マーケティング専門職のようなハイブリッド職を予想し、Collierは批判的思考、問題解決力、起業家精神を重要なスキルに挙げた。Newtonは、電子書籍が売上の約25%–30%で頭打ちとなり、かつて自ら予測した50%には届かなかったと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Audible借力AI\n让每本书都有有声版",
-          "body": "Audible计划在有声书制作全流程使用AI，目标是每本书都有各语种有声版。",
-          "mini_headline": "Audible的AI有声书计划",
+          "headline": "出版岗位将适应AI\n而不会消失",
+          "body": "Nigel Newton斥AI失业论为胡扯，但同场嘉宾认为初级岗位面临风险。",
+          "mini_headline": "出版岗位适应AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audible在法兰克福书展（Frankfurt Book Fair）上宣布，继在伦敦书展（London Book Fair）公布的11个市场之后，将于2027年进入印度尼西亚、韩国、丹麦、挪威和芬兰。"
+                "x": "2026年法兰克福书展（Frankfurt Book Fair）的首场座谈抛出一个问题：AI会抢走你的工作吗？Bloomsbury创始人Nigel Newton说：“当然是胡扯！”他与Supadu总裁Sarah Arbuthnot、bookcareers.com创始人Suzanne Collier一致认为，AI会重塑而不是消灭出版工作，但也警告初级岗位可能消失，雇主必须对员工进行再培训。"
               },
               {
                 "t": "p",
-                "x": "NielsenIQ受Audible委托对11个国家的18,000名听众进行调查，发现三分之一的人比前一年听了更多音频内容，51%的人表示音频帮助他们取代了屏幕娱乐。"
+                "x": "Newton认为，电影、TV、互联网、电子书和有声书最终都刺激了图书销售：“我完全相信AI也会如此。”Collier指出，声称AI会取代工作的大多是“那些在卖AI智能体的公司”，并发问：如果初级岗位消失，年轻人要如何学习这一行？"
               },
               {
                 "t": "p",
-                "x": "首席内容官Rachel Ghiazza对PW表示，公司提供超过150万部作品，但目标是“每本书都有每种语言的有声版”。"
-              },
-              {
-                "t": "p",
-                "x": "实现这一目标部分取决于技术。Audible预计将在整个制作流程中使用AI工具，其中包括一款用于旁白制作的内部工具，它能“拆解整本书，定义角色，并提供背景”。"
-              },
-              {
-                "t": "p",
-                "x": "制作范围从Harry Potter这样的高端多人演播作品，到“或许不需要同等制作品质”的小众或长篇作品。半数受访者愿意接受AI旁白内容（AI-narrated），比例从德国的42%到日本的66%不等。"
+                "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audible apuesta por la IA para\nque cada libro sea audiolibro",
-          "body": "Audible prevé usar herramientas de IA en toda su producción para llevar cada libro a todos los idiomas.",
-          "mini_headline": "Audible y los audiolibros con IA",
+          "headline": "El empleo editorial se adaptará\na la IA, no desaparecerá",
+          "body": "Nigel Newton (Bloomsbury) llamó tonterías al miedo laboral a la IA, pero su panel teme por los puestos iniciales.",
+          "mini_headline": "El empleo editorial se adapta a la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "En la Feria del Libro de Fráncfort (Frankfurt Book Fair), Audible anunció que se lanzará en Indonesia, Corea del Sur, Dinamarca, Noruega y Finlandia en 2027, tras los 11 mercados anunciados en la Feria del Libro de Londres (London Book Fair)."
+                "x": "El primer panel de la Feria del Libro de Fráncfort 2026 (Frankfurt Book Fair) preguntó si la IA le quitará a usted el trabajo. “¡Son tonterías, por supuesto!”, dijo Nigel Newton, fundador de Bloomsbury. Junto a Sarah Arbuthnot, presidenta de Supadu, y Suzanne Collier, fundadora de bookcareers.com, el panel coincidió en que la IA transformará el trabajo editorial en lugar de eliminarlo, pero advirtió que los puestos de nivel inicial podrían desaparecer y que los empleadores deberán reciclar a su personal."
               },
               {
                 "t": "p",
-                "x": "Un estudio de NielsenIQ para Audible, basado en 18,000 oyentes de 11 países, halló que un tercio escuchó más audio que el año anterior y que el 51% afirmó que el audio le ayudó a sustituir el entretenimiento de pantalla."
+                "x": "Newton sostuvo que el cine, la TV, internet, los libros electrónicos y el audio acabaron estimulando la venta de libros: “Estoy absolutamente seguro de que la IA será igual”. Collier señaló que quienes afirman que la IA reemplaza empleos son sobre todo “las empresas que venden agentes de IA”, y preguntó cómo aprenderán el oficio los jóvenes si desaparecen los puestos de nivel inicial."
               },
               {
                 "t": "p",
-                "x": "La directora de contenidos, Rachel Ghiazza, dijo a PW que la empresa ofrece más de 1.5 millones de títulos, pero que el objetivo es que “cada libro sea un audiolibro en cada idioma”."
-              },
-              {
-                "t": "p",
-                "x": "Alcanzar esa meta depende en parte de la tecnología. Audible prevé usar herramientas de IA (AI) en todo el proceso de producción, incluida una herramienta interna para producciones con narradores que “desglosa el libro, define el personaje, te da el contexto”."
-              },
-              {
-                "t": "p",
-                "x": "Las producciones irán desde títulos de alta gama con varios intérpretes, como Harry Potter, hasta obras de nicho o de formato largo que “quizá no necesiten la misma calidad de producción”. La mitad de los encuestados se mostró abierta a contenidos narrados por IA (AI-narrated), desde el 42% en Alemania hasta el 66% en Japón."
+                "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
               }
             ]
           }
@@ -217,137 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Audible, AI로\n모든 책을 오디오북으로",
-          "body": "Audible은 모든 책을 모든 언어로 내기 위해 제작 전반에 AI를 쓴다.",
-          "mini_headline": "Audible의 AI 오디오북 확장",
+          "headline": "출판 일자리는 AI에\n사라지지 않고 적응한다",
+          "body": "Nigel Newton은 AI 실직 공포를 일축했지만 패널은 신입직을 우려했다.",
+          "mini_headline": "출판 일자리, AI에 적응",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audible은 프랑크푸르트 도서전(Frankfurt Book Fair)에서 런던 도서전(London Book Fair) 때 발표한 11개 시장에 이어 2027년 인도네시아, 한국, 덴마크, 노르웨이, 핀란드에 진출한다고 밝혔다."
+                "x": "2026 프랑크푸르트 도서전(Frankfurt Book Fair)의 첫 패널은 AI가 당신의 일자리를 빼앗을지 물었다. Bloomsbury 창립자 Nigel Newton은 \"물론 헛소리다!\"라고 말했다. Supadu 대표 Sarah Arbuthnot, bookcareers.com 창립자 Suzanne Collier와 함께한 패널은 AI가 출판 일을 없애기보다 재편할 것이라는 데 뜻을 모았지만, 신입 일자리가 사라질 수 있고 고용주가 직원을 재교육해야 한다고 경고했다."
               },
               {
                 "t": "p",
-                "x": "NielsenIQ가 Audible 의뢰로 11개국 청취자 18,000명을 조사한 결과, 삼분의 일이 전년보다 오디오를 더 많이 들었고 51%는 오디오 덕분에 화면 기반 오락을 대신할 수 있었다고 답했다."
+                "x": "Newton은 영화, TV, 인터넷, 전자책, 오디오가 모두 결국 책 판매를 자극했다며 \"AI도 마찬가지일 것이라고 확신한다\"고 말했다. Collier는 AI가 일자리를 대체한다고 주장하는 쪽은 대부분 \"AI 에이전트를 파는 회사들\"이라고 짚으며, 신입 일자리가 사라지면 젊은이들이 어떻게 업계를 배우겠느냐고 물었다."
               },
               {
                 "t": "p",
-                "x": "최고콘텐츠책임자 Rachel Ghiazza는 PW에 회사가 150만 종이 넘는 작품을 제공하지만 목표는 “모든 책이 모든 언어의 오디오북이 되는 것”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "목표 달성은 어느 정도 기술에 달려 있다. Audible은 제작 전 과정에 AI 도구를 쓸 계획이며, 내레이터 제작용 사내 도구도 그중 하나다. 이 도구는 “책을 분석하고, 캐릭터를 정의하고, 배경을 알려준다.”"
-              },
-              {
-                "t": "p",
-                "x": "제작물은 Harry Potter 같은 고급 다중 캐스팅 작품부터 “같은 수준의 제작 품질이 필요하지 않을 수도 있는” 틈새·장편 작품까지 다양하다. 설문 응답자의 절반은 AI 내레이션 콘텐츠(AI-narrated)를 받아들일 의향이 있었고, 그 비율은 독일 42%에서 일본 66%까지였다."
+                "x": "Bloomsbury에서는 AI 관련 직무가 여럿 생겼고, AI 때문에 일자리를 잃은 사람은 없다. Newton은 ChatGPT, Gemini, Claude를 \"하루 20번\" 찾는다. Arbuthnot은 메타데이터 마케팅 전문가 같은 하이브리드 직무를 예상했고, Collier는 비판적 사고, 문제 해결, 기업가 정신을 핵심 역량으로 꼽았다. Newton은 전자책이 한때 자신이 예측한 50%가 아니라 판매의 약 25%–30%에서 정체됐다고 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Audible、AIで\n全書籍のオーディオブック化",
-          "body": "Audibleは全言語で全書籍のオーディオブック化を目指し、制作全体にAIを使う方針だ。",
-          "mini_headline": "AudibleのAIオーディオブック戦略",
+          "headline": "出版の仕事はAIで\n消えずに形を変える",
+          "body": "Nigel NewtonはAI失業論を一蹴したが、パネルは新人職の危うさを指摘した。",
+          "mini_headline": "出版の仕事、AIに適応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audibleはフランクフルト・ブックフェア(Frankfurt Book Fair)で、ロンドン・ブックフェア(London Book Fair)で発表した11の市場に続き、2027年にインドネシア、韓国、デンマーク、ノルウェー、フィンランドでサービスを開始すると発表した。"
+                "x": "2026年のフランクフルト・ブックフェア(Frankfurt Book Fair)の最初のパネルは、AIがあなたの仕事を奪うのかを問うた。「もちろん、ばかげている！」とBloomsbury創業者のNigel Newtonは語った。Supadu社長のSarah Arbuthnot、bookcareers.com創業者のSuzanne Collierとともに、パネルはAIが出版の仕事をなくすのではなく作り変えるという点で一致したが、新人向けの仕事は消える可能性があり、雇用主は従業員を再教育しなければならないと警告した。"
               },
               {
                 "t": "p",
-                "x": "NielsenIQがAudibleの依頼で11カ国の聴取者18,000人を対象に行った調査では、三分の一が前年より多くのオーディオを聴き、51%がオーディオは画面を使う娯楽の代わりになったと答えた。"
+                "x": "Newtonは、映画、TV、インターネット、電子書籍、オーディオはいずれも結局は本の売上を押し上げたと主張し、「AIも同じだと確信している」と述べた。Collierは、AIが仕事を置き換えると唱えるのは主に「AIエージェントを売っている企業」だと指摘し、新人向けの仕事が消えれば若者はどうやって業界を学ぶのかと問いかけた。"
               },
               {
                 "t": "p",
-                "x": "最高コンテンツ責任者のRachel GhiazzaはPWに対し、同社は150万点以上の作品を提供しているが、目標は「すべての本があらゆる言語でオーディオブックになること」だと語った。"
-              },
-              {
-                "t": "p",
-                "x": "目標の達成は技術にも左右される。Audibleは制作工程全体でAIツールを使う見通しで、ナレーター制作向けの社内ツールもその一つだ。このツールは「本を分解し、登場人物を定義し、背景を教えてくれる」という。"
-              },
-              {
-                "t": "p",
-                "x": "制作物はHarry Potterのような高品質のマルチキャスト作品から、「同じ制作品質を必要としないかもしれない」ニッチな作品や長編までさまざまだ。調査回答者の半数がAIナレーションのコンテンツ(AI-narrated)を受け入れると答え、その割合はドイツの42%から日本の66%まで幅があった。"
+                "x": "Bloomsburyでは複数のAI関連職が生まれ、AIが原因で職を失った人はいない。NewtonはChatGPT、Gemini、Claudeに「一日20回」相談する。Arbuthnotはメタデータ・マーケティング専門職のようなハイブリッド職を予想し、Collierは批判的思考、問題解決力、起業家精神を重要なスキルに挙げた。Newtonは、電子書籍が売上の約25%–30%で頭打ちとなり、かつて自ら予測した50%には届かなかったと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Audible借力AI\n让每本书都有有声版",
-          "body": "Audible计划在有声书制作全流程使用AI，目标是每本书都有各语种有声版。",
-          "mini_headline": "Audible的AI有声书计划",
+          "headline": "出版岗位将适应AI\n而不会消失",
+          "body": "Nigel Newton斥AI失业论为胡扯，但同场嘉宾认为初级岗位面临风险。",
+          "mini_headline": "出版岗位适应AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Audible在法兰克福书展（Frankfurt Book Fair）上宣布，继在伦敦书展（London Book Fair）公布的11个市场之后，将于2027年进入印度尼西亚、韩国、丹麦、挪威和芬兰。"
+                "x": "2026年法兰克福书展（Frankfurt Book Fair）的首场座谈抛出一个问题：AI会抢走你的工作吗？Bloomsbury创始人Nigel Newton说：“当然是胡扯！”他与Supadu总裁Sarah Arbuthnot、bookcareers.com创始人Suzanne Collier一致认为，AI会重塑而不是消灭出版工作，但也警告初级岗位可能消失，雇主必须对员工进行再培训。"
               },
               {
                 "t": "p",
-                "x": "NielsenIQ受Audible委托对11个国家的18,000名听众进行调查，发现三分之一的人比前一年听了更多音频内容，51%的人表示音频帮助他们取代了屏幕娱乐。"
+                "x": "Newton认为，电影、TV、互联网、电子书和有声书最终都刺激了图书销售：“我完全相信AI也会如此。”Collier指出，声称AI会取代工作的大多是“那些在卖AI智能体的公司”，并发问：如果初级岗位消失，年轻人要如何学习这一行？"
               },
               {
                 "t": "p",
-                "x": "首席内容官Rachel Ghiazza对PW表示，公司提供超过150万部作品，但目标是“每本书都有每种语言的有声版”。"
-              },
-              {
-                "t": "p",
-                "x": "实现这一目标部分取决于技术。Audible预计将在整个制作流程中使用AI工具，其中包括一款用于旁白制作的内部工具，它能“拆解整本书，定义角色，并提供背景”。"
-              },
-              {
-                "t": "p",
-                "x": "制作范围从Harry Potter这样的高端多人演播作品，到“或许不需要同等制作品质”的小众或长篇作品。半数受访者愿意接受AI旁白内容（AI-narrated），比例从德国的42%到日本的66%不等。"
+                "x": "Bloomsbury已设立多个AI相关岗位，没有人因AI失去工作。Newton“一天20次”向ChatGPT、Gemini或Claude请教。Arbuthnot预计会出现元数据营销专员之类的复合型岗位；Collier则将批判性思维、解决问题的能力和创业精神列为关键技能。Newton指出，电子书销量占比停滞在约25%–30%，而非他曾预测的50%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Audible apuesta por la IA para\nque cada libro sea audiolibro",
-          "body": "Audible prevé usar herramientas de IA en toda su producción para llevar cada libro a todos los idiomas.",
-          "mini_headline": "Audible y los audiolibros con IA",
+          "headline": "El empleo editorial se adaptará\na la IA, no desaparecerá",
+          "body": "Nigel Newton (Bloomsbury) llamó tonterías al miedo laboral a la IA, pero su panel teme por los puestos iniciales.",
+          "mini_headline": "El empleo editorial se adapta a la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG"
               },
               {
                 "t": "p",
-                "x": "En la Feria del Libro de Fráncfort (Frankfurt Book Fair), Audible anunció que se lanzará en Indonesia, Corea del Sur, Dinamarca, Noruega y Finlandia en 2027, tras los 11 mercados anunciados en la Feria del Libro de Londres (London Book Fair)."
+                "x": "El primer panel de la Feria del Libro de Fráncfort 2026 (Frankfurt Book Fair) preguntó si la IA le quitará a usted el trabajo. “¡Son tonterías, por supuesto!”, dijo Nigel Newton, fundador de Bloomsbury. Junto a Sarah Arbuthnot, presidenta de Supadu, y Suzanne Collier, fundadora de bookcareers.com, el panel coincidió en que la IA transformará el trabajo editorial en lugar de eliminarlo, pero advirtió que los puestos de nivel inicial podrían desaparecer y que los empleadores deberán reciclar a su personal."
               },
               {
                 "t": "p",
-                "x": "Un estudio de NielsenIQ para Audible, basado en 18,000 oyentes de 11 países, halló que un tercio escuchó más audio que el año anterior y que el 51% afirmó que el audio le ayudó a sustituir el entretenimiento de pantalla."
+                "x": "Newton sostuvo que el cine, la TV, internet, los libros electrónicos y el audio acabaron estimulando la venta de libros: “Estoy absolutamente seguro de que la IA será igual”. Collier señaló que quienes afirman que la IA reemplaza empleos son sobre todo “las empresas que venden agentes de IA”, y preguntó cómo aprenderán el oficio los jóvenes si desaparecen los puestos de nivel inicial."
               },
               {
                 "t": "p",
-                "x": "La directora de contenidos, Rachel Ghiazza, dijo a PW que la empresa ofrece más de 1.5 millones de títulos, pero que el objetivo es que “cada libro sea un audiolibro en cada idioma”."
-              },
-              {
-                "t": "p",
-                "x": "Alcanzar esa meta depende en parte de la tecnología. Audible prevé usar herramientas de IA (AI) en todo el proceso de producción, incluida una herramienta interna para producciones con narradores que “desglosa el libro, define el personaje, te da el contexto”."
-              },
-              {
-                "t": "p",
-                "x": "Las producciones irán desde títulos de alta gama con varios intérpretes, como Harry Potter, hasta obras de nicho o de formato largo que “quizá no necesiten la misma calidad de producción”. La mitad de los encuestados se mostró abierta a contenidos narrados por IA (AI-narrated), desde el 42% en Alemania hasta el 66% en Japón."
+                "x": "En Bloomsbury se han creado varios puestos relacionados con la IA y nadie ha perdido su empleo por la IA. Newton consulta ChatGPT, Gemini o Claude “20 veces al día”. Arbuthnot prevé puestos híbridos, como especialistas en marketing de metadatos; Collier señaló el pensamiento crítico, la resolución de problemas y el espíritu emprendedor como habilidades clave. Newton apuntó que los libros electrónicos se estancaron en torno al 25%–30% de las ventas, y no en el 50% que él llegó a pronosticar."
               }
             ]
           }
@@ -355,15 +275,15 @@
       }
     },
     {
-      "id": "books-wired-publishers-ai-staff-revolt",
+      "id": "fbf26-eu-ai-act-teeth",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "출판사 조용히 AI 도입\n직원들은 반발",
-      "body": "직원들 말로는 대형 출판사 세 곳이 홍보·표지·이메일 등에 LLMs를 쓴다.",
-      "mini_headline": "AI에 반발하는 출판 직원들",
+      "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
+      "body": "패널이 본 EU AI Act는 권리자 편이지만 AI 개발사를 벌하진 못한다.",
+      "mini_headline": "강제력 없는 EU AI Act",
       "tool": "Books",
-      "source": "WIRED",
-      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -371,197 +291,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+            "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
           },
           {
             "t": "p",
-            "x": "미국(US) Big Five 출판사 가운데 최소 세 곳인 HarperCollins, Simon & Schuster, Hachette가 공개 고지나 저자 동의 없이 조용히 AI 도구를 들여왔다. WIRED에 익명으로 입을 연 스무 명이 넘는 직원들의 증언이다."
+            "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널의 결론은 하나였다. EU AI Act는 출판사에 쓸 만한 도구를 주지만 집행이 약해 제값을 못 한다."
           },
           {
             "t": "p",
-            "x": "직원들 말로는 Claude와 ChatGPT 같은 LLMs가 문학 에이전트에게 보낼 이메일, 홍보 문구와 뒤표지 문구 작성, 표지 디자인, 마케팅 자료 제작에 쓰이는데, 경영진이 지시한 경우가 많다."
+            "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick에 따르면 이 법은 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구한다. 그러나 시행·관련 문서만 39건이 딸려 있고 \"매우 약한\" 요구 사항도 많아 AI 기업으로선 따를 이유가 별로 없다."
           },
           {
             "t": "p",
-            "x": "HarperCollins에서는 경영진이 Claude 라이선스를 사들였고, 직원들은 사실상 떠밀리듯 자원해(“voluntold”) “AI Champions”가 됐다. Hachette는 AI를 운영 업무에는 지지하지만 창작 용도로는 지지하지 않는다고 밝혔고, Simon & Schuster는 자사 도구를 꼭 쓸 필요는 없다고 했다. HarperCollins는 답하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Simon & Schuster 직원들은 Skan AI 소프트웨어 시범 도입에 반대하는 공개서한을 돌렸다. CEO Greg Greeley는 쓸지 말지 아직 정하지 않았다고 답했다."
-          },
-          {
-            "t": "p",
-            "x": "WIRED가 만난 업계 종사자 대부분은 출판사가 AI 사용 지침과 공개 기준을 분명히 세우기만 바란다."
+            "x": "NISO의 Todd Carpenter는 AI 시스템 안에서 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 예로 들며 규칙은 유연해야 한다고 했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 맞받으며 Frankfurt Appeal과 EU 저작권 검토를 꺼냈다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publishers quietly lean on AI\nand staff push back",
-          "body": "Staff at three major publishers say LLMs are being used for publicity, cover art, back cover copy and emails.",
-          "mini_headline": "Publishing staff resist AI",
+          "headline": "EU AI Act gives publishers\nleverage, but no teeth",
+          "body": "A Frankfurt panel found the EU AI Act helps rights holders on paper but sets no penalties for AI developers.",
+          "mini_headline": "EU AI Act lacks teeth",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "From left: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
               },
               {
                 "t": "p",
-                "x": "At least three of the Big Five US publishers—HarperCollins, Simon & Schuster and Hachette—have been quietly incorporating AI tools without public disclosure or author consent, according to more than two dozen workers who spoke to WIRED anonymously."
+                "x": "A panel on preserving trust in science in the age of AI, held at Frankfurter Buchmesse on October 7, converged on one point: the EU AI Act gives publishers useful tools, but weak enforcement limits their value."
               },
               {
                 "t": "p",
-                "x": "Staff say LLMs like Claude and ChatGPT are used to email literary agents, write publicity and back-cover copy, design cover art and generate marketing materials, often at executives’ direction."
+                "x": "Mainz professor Gerhard Lauer said AI cuts content up and feeds it into machines, eroding provenance and accountability. RELX's Elizabeth Crossick said the Act requires training-data transparency, a copyright policy respecting rights reservations, and labeling of AI content, but comes with 39 implementing and related texts and many \"very weak\" requirements, leaving AI companies little incentive to comply."
               },
               {
                 "t": "p",
-                "x": "At HarperCollins, leaders bought Claude licenses and staff were “voluntold” to become “AI Champions.” Hachette says it supports operational but not creative uses of AI; Simon & Schuster says its tools are not mandatory. HarperCollins did not respond."
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schuster employees circulated an open letter opposing a trial of Skan AI software; CEO Greg Greeley replied that no decision had been made to use it."
-              },
-              {
-                "t": "p",
-                "x": "Most industry professionals WIRED spoke with simply want publishers to provide clear AI usage guidelines and disclosures."
+                "x": "NISO's Todd Carpenter pointed to standards such as the Trace project for tracking content provenance in AI systems, and argued for flexible rules. Crossick countered that litigation arrives after content has been taken, citing the Frankfurt Appeal and the EU copyright review."
               }
             ]
           }
         },
         "ko": {
-          "headline": "출판사 조용히 AI 도입\n직원들은 반발",
-          "body": "직원들 말로는 대형 출판사 세 곳이 홍보·표지·이메일 등에 LLMs를 쓴다.",
-          "mini_headline": "AI에 반발하는 출판 직원들",
+          "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
+          "body": "패널이 본 EU AI Act는 권리자 편이지만 AI 개발사를 벌하진 못한다.",
+          "mini_headline": "강제력 없는 EU AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
               },
               {
                 "t": "p",
-                "x": "미국(US) Big Five 출판사 가운데 최소 세 곳인 HarperCollins, Simon & Schuster, Hachette가 공개 고지나 저자 동의 없이 조용히 AI 도구를 들여왔다. WIRED에 익명으로 입을 연 스무 명이 넘는 직원들의 증언이다."
+                "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널의 결론은 하나였다. EU AI Act는 출판사에 쓸 만한 도구를 주지만 집행이 약해 제값을 못 한다."
               },
               {
                 "t": "p",
-                "x": "직원들 말로는 Claude와 ChatGPT 같은 LLMs가 문학 에이전트에게 보낼 이메일, 홍보 문구와 뒤표지 문구 작성, 표지 디자인, 마케팅 자료 제작에 쓰이는데, 경영진이 지시한 경우가 많다."
+                "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick에 따르면 이 법은 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구한다. 그러나 시행·관련 문서만 39건이 딸려 있고 \"매우 약한\" 요구 사항도 많아 AI 기업으로선 따를 이유가 별로 없다."
               },
               {
                 "t": "p",
-                "x": "HarperCollins에서는 경영진이 Claude 라이선스를 사들였고, 직원들은 사실상 떠밀리듯 자원해(“voluntold”) “AI Champions”가 됐다. Hachette는 AI를 운영 업무에는 지지하지만 창작 용도로는 지지하지 않는다고 밝혔고, Simon & Schuster는 자사 도구를 꼭 쓸 필요는 없다고 했다. HarperCollins는 답하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schuster 직원들은 Skan AI 소프트웨어 시범 도입에 반대하는 공개서한을 돌렸다. CEO Greg Greeley는 쓸지 말지 아직 정하지 않았다고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "WIRED가 만난 업계 종사자 대부분은 출판사가 AI 사용 지침과 공개 기준을 분명히 세우기만 바란다."
+                "x": "NISO의 Todd Carpenter는 AI 시스템 안에서 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 예로 들며 규칙은 유연해야 한다고 했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 맞받으며 Frankfurt Appeal과 EU 저작권 검토를 꺼냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がひそかにAI導入\n社員は反発",
-          "body": "大手出版社三社の社員は、宣伝や表紙、裏表紙の文章、メールにLLMsが使われていると話す。",
-          "mini_headline": "AIに反発する出版社員",
+          "headline": "EU AI Actは出版社の\n武器だが牙はない",
+          "body": "パネルは、EU AI Actが形式上は権利者を助けるが、AI開発者への罰則はないと見た。",
+          "mini_headline": "EU AI Actに強制力なし",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "左から：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
               },
               {
                 "t": "p",
-                "x": "米国(US)の大手出版社Big Fiveのうち少なくとも三社(HarperCollins、Simon & Schuster、Hachette)が、公表も著者の同意もないまま、ひそかにAIツールを取り入れてきた。WIREDに匿名で語った二十数人を超える従業員が明かした。"
+                "x": "10月7日にFrankfurter Buchmesseで開かれた「AI時代に科学への信頼を守る」をテーマとするパネルは、一つの点で意見が一致した。EU AI Actは出版社に有用な手段を与えるが、執行の弱さがその価値を損なっているという点だ。"
               },
               {
                 "t": "p",
-                "x": "従業員によると、ClaudeやChatGPTなどのLLMsが、文芸エージェントへのメール、宣伝文や裏表紙の文章の作成、表紙デザイン、マーケティング資料の生成に使われており、多くは経営陣の指示によるものだという。"
+                "x": "MainzのGerhard Lauer教授は、AIはコンテンツを細切れにして機械に流し込み、出所と説明責任を損なうと述べた。RELXのElizabeth Crossickは、同法は学習データの透明性、権利留保を尊重する著作権方針、AIコンテンツの表示を求めているが、39の実施文書・関連文書が付随し、「非常に弱い」要件も多いため、AI企業が従う動機はほとんどないと語った。"
               },
               {
                 "t": "p",
-                "x": "HarperCollinsでは経営陣がClaudeのライセンスを購入し、社員は事実上の強制志願(「voluntold」)で「AI Champions」になった。Hachetteは業務面でのAI活用は支持するが創作面では支持しないとし、Simon & Schusterはツールの使用は必須ではないと説明した。HarperCollinsは回答しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schusterの従業員はSkan AIソフトウェアの試験導入に反対する公開書簡を回覧し、CEOのGreg Greeleyは使用を決めたわけではないと返答した。"
-              },
-              {
-                "t": "p",
-                "x": "WIREDが取材した業界関係者の多くは、出版社に明確なAI利用ガイドラインと開示を求めているだけだ。"
+                "x": "NISOのTodd Carpenterは、AIシステム内のコンテンツの出所を追跡するTraceプロジェクトなどの標準を挙げ、柔軟なルールを主張した。Crossickは、訴訟はコンテンツが持ち去られた後にしか起こせないと反論し、Frankfurt AppealとEUの著作権見直しに言及した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版社悄悄引入AI\n员工纷纷抵制",
-          "body": "三家大型出版社员工称，LLMs正被用于宣传、封面、封底文案和电子邮件。",
-          "mini_headline": "出版业员工抵制AI",
+          "headline": "EU AI Act给出版商\n筹码，却缺乏约束力",
+          "body": "Frankfurt座谈会认为，EU AI Act名义上利好权利人，却未对AI开发者设罚则。",
+          "mini_headline": "EU AI Act缺乏约束力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "左起：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
               },
               {
                 "t": "p",
-                "x": "据二十多名匿名接受WIRED采访的员工透露，美国（US）五大出版社（Big Five）中至少有三家——HarperCollins、Simon & Schuster和Hachette——在未公开披露、也未征得作者同意的情况下，悄悄引入了AI工具。"
+                "x": "10月7日在Frankfurter Buchmesse举行的一场主题为“AI时代如何守护对科学的信任”的座谈会，最终在一点上达成共识：EU AI Act为出版商提供了有用的工具，但执行乏力限制了其价值。"
               },
               {
                 "t": "p",
-                "x": "员工称，Claude和ChatGPT等LLMs被用于给文学经纪人写邮件、撰写宣传文案和封底文案、设计封面以及生成营销材料，且往往是在高管授意下进行。"
+                "x": "Mainz的Gerhard Lauer教授表示，AI将内容切碎后喂给机器，侵蚀了来源可追溯性与问责。RELX的Elizabeth Crossick说，该法要求训练数据透明、制定尊重权利保留的版权政策并标注AI内容，但附带39份实施及相关文件，且许多要求“非常薄弱”，AI公司几乎没有遵守的动力。"
               },
               {
                 "t": "p",
-                "x": "在HarperCollins，管理层购买了Claude许可证，员工被“voluntold”（名为自愿、实为指派）成为“AI Champions”。Hachette表示支持AI用于运营而非创作；Simon & Schuster表示其工具并非强制使用。HarperCollins未予回应。"
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schuster员工传阅了一封公开信，反对试用Skan AI软件；CEO Greg Greeley回应称尚未决定使用该软件。"
-              },
-              {
-                "t": "p",
-                "x": "接受WIRED采访的大多数业内人士只是希望出版社提供明确的AI使用指南并进行披露。"
+                "x": "NISO的Todd Carpenter提到用于在AI系统中追踪内容来源的Trace项目等标准，主张规则应保持灵活。Crossick则反驳说，诉讼总是在内容被拿走之后才来，并援引了Frankfurt Appeal和EU版权审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales usan IA en silencio\ny sus empleados protestan",
-          "body": "Empleados de tres grandes editoriales dicen que se usan LLMs para publicidad, portadas, contraportadas y correos.",
-          "mini_headline": "Plantillas editoriales frente a la IA",
+          "headline": "La EU AI Act da palanca a las\neditoriales, pero sin dientes",
+          "body": "Para un panel en Frankfurt, la EU AI Act ayuda a los titulares de derechos pero no sanciona a quienes desarrollan IA.",
+          "mini_headline": "La EU AI Act, sin dientes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "Desde la izquierda: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
               },
               {
                 "t": "p",
-                "x": "Al menos tres de las Big Five editoriales de Estados Unidos (US) —HarperCollins, Simon & Schuster y Hachette— han incorporado discretamente herramientas de IA (AI) sin informarlo públicamente ni contar con el consentimiento de los autores, según más de dos docenas de trabajadores que hablaron con WIRED de forma anónima."
+                "x": "Un panel sobre cómo preservar la confianza en la ciencia en la era de la IA, celebrado en la Frankfurter Buchmesse el 7 de octubre, coincidió en un punto: la EU AI Act da a las editoriales herramientas útiles, pero su débil aplicación limita su valor."
               },
               {
                 "t": "p",
-                "x": "Según el personal, LLMs como Claude y ChatGPT se usan para escribir correos a agentes literarios, redactar textos promocionales y de contraportada, diseñar portadas y generar materiales de marketing, a menudo por indicación de los directivos."
+                "x": "Gerhard Lauer, profesor en Mainz, dijo que la IA trocea los contenidos y los introduce en máquinas, lo que erosiona la procedencia y la rendición de cuentas. Elizabeth Crossick, de RELX, explicó que la ley exige transparencia sobre los datos de entrenamiento, una política de derechos de autor que respete las reservas de derechos y el etiquetado del contenido de IA, pero viene acompañada de 39 textos de aplicación y relacionados y de muchos requisitos “muy débiles”, lo que deja a las empresas de IA pocos incentivos para cumplirla."
               },
               {
                 "t": "p",
-                "x": "En HarperCollins, los directivos compraron licencias de Claude y el personal fue “voluntold” —voluntario a la fuerza— para convertirse en “AI Champions”. Hachette afirma que apoya los usos operativos de la IA, pero no los creativos; Simon & Schuster dice que sus herramientas no son obligatorias. HarperCollins no respondió."
-              },
-              {
-                "t": "p",
-                "x": "Empleados de Simon & Schuster difundieron una carta abierta contra una prueba del software Skan AI; el CEO, Greg Greeley, respondió que no se había tomado ninguna decisión sobre su uso."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de los profesionales del sector con los que habló WIRED solo quieren que las editoriales ofrezcan pautas claras sobre el uso de la IA y que lo hagan público."
+                "x": "Todd Carpenter, de NISO, mencionó estándares como el proyecto Trace para rastrear la procedencia de los contenidos en sistemas de IA, y defendió normas flexibles. Crossick replicó que los litigios llegan después de que el contenido ya se ha tomado, y citó el Frankfurt Appeal y la revisión de los derechos de autor de la UE (EU)."
               }
             ]
           }
@@ -569,137 +447,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "출판사 조용히 AI 도입\n직원들은 반발",
-          "body": "대형 출판사 세 곳 직원들은 홍보·표지·이메일 등에 LLMs가 쓰인다고 말한다.",
-          "mini_headline": "AI에 반발하는 출판 직원들",
+          "headline": "EU AI Act는 지렛대\n되지만 처벌은 없다",
+          "body": "패널은 EU AI Act가 권리자를 돕지만 AI 개발사 벌칙은 없다고 봤다.",
+          "mini_headline": "강제력 없는 EU AI Act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "왼쪽부터 Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
               },
               {
                 "t": "p",
-                "x": "미국(US) Big Five 출판사 가운데 최소 세 곳, 즉 HarperCollins, Simon & Schuster, Hachette가 공개 고지나 저자 동의 없이 조용히 AI 도구를 도입해 왔다. WIRED에 익명으로 이야기한 스무 명이 넘는 직원들의 증언이다."
+                "x": "10월 7일 Frankfurter Buchmesse에서 열린 'AI 시대 과학에 대한 신뢰 지키기' 패널은 한 가지 결론으로 모였다. EU AI Act는 출판사에 쓸모 있는 도구를 주지만, 집행이 약해 그 가치가 제한된다는 것이다."
               },
               {
                 "t": "p",
-                "x": "직원들에 따르면 Claude와 ChatGPT 같은 LLMs가 문학 에이전트에게 보낼 이메일, 홍보 문구와 뒤표지 문구 작성, 표지 디자인, 마케팅 자료 제작에 쓰이며, 경영진 지시에 따른 경우가 많다."
+                "x": "Mainz의 Gerhard Lauer 교수는 AI가 콘텐츠를 잘게 잘라 기계에 넣으면서 출처와 책임 소재가 흐려진다고 말했다. RELX의 Elizabeth Crossick은 이 법이 학습 데이터 투명성, 권리 유보를 존중하는 저작권 정책, AI 콘텐츠 표시를 요구하지만, 39건의 시행 및 관련 문서가 딸려 있고 \"매우 약한\" 요구 사항이 많아 AI 기업이 따를 유인이 거의 없다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "HarperCollins에서는 경영진이 Claude 라이선스를 구입했고, 직원들은 사실상 떠밀리듯 자원해(“voluntold”) “AI Champions”가 됐다. Hachette는 AI를 운영 업무에는 지지하지만 창작 용도에는 지지하지 않는다고 밝혔고, Simon & Schuster는 자사 도구 사용이 의무가 아니라고 했다. HarperCollins는 응답하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schuster 직원들은 Skan AI 소프트웨어 시범 도입에 반대하는 공개서한을 돌렸고, CEO Greg Greeley는 사용 여부를 아직 결정하지 않았다고 답했다."
-              },
-              {
-                "t": "p",
-                "x": "WIRED가 만난 업계 종사자 대부분은 출판사가 명확한 AI 사용 지침과 공개 기준을 마련하기를 바랄 뿐이다."
+                "x": "NISO의 Todd Carpenter는 AI 시스템 속 콘텐츠 출처를 추적하는 Trace 프로젝트 같은 표준을 거론하며 유연한 규칙을 주장했다. Crossick은 소송은 콘텐츠를 가져간 뒤에야 시작된다고 반박하며 Frankfurt Appeal과 EU 저작권 검토를 언급했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "出版社がひそかにAI導入\n社員は反発",
-          "body": "大手出版社三社の社員は、宣伝や表紙、裏表紙の文章、メールにLLMsが使われていると話す。",
-          "mini_headline": "AIに反発する出版社員",
+          "headline": "EU AI Actは出版社の\n武器だが牙はない",
+          "body": "パネルは、EU AI Actが形式上は権利者を助けるが、AI開発者への罰則はないと見た。",
+          "mini_headline": "EU AI Actに強制力なし",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "左から：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
               },
               {
                 "t": "p",
-                "x": "米国(US)の大手出版社Big Fiveのうち少なくとも三社(HarperCollins、Simon & Schuster、Hachette)が、公表も著者の同意もないまま、ひそかにAIツールを取り入れてきた。WIREDに匿名で語った二十数人を超える従業員が明かした。"
+                "x": "10月7日にFrankfurter Buchmesseで開かれた「AI時代に科学への信頼を守る」をテーマとするパネルは、一つの点で意見が一致した。EU AI Actは出版社に有用な手段を与えるが、執行の弱さがその価値を損なっているという点だ。"
               },
               {
                 "t": "p",
-                "x": "従業員によると、ClaudeやChatGPTなどのLLMsが、文芸エージェントへのメール、宣伝文や裏表紙の文章の作成、表紙デザイン、マーケティング資料の生成に使われており、多くは経営陣の指示によるものだという。"
+                "x": "MainzのGerhard Lauer教授は、AIはコンテンツを細切れにして機械に流し込み、出所と説明責任を損なうと述べた。RELXのElizabeth Crossickは、同法は学習データの透明性、権利留保を尊重する著作権方針、AIコンテンツの表示を求めているが、39の実施文書・関連文書が付随し、「非常に弱い」要件も多いため、AI企業が従う動機はほとんどないと語った。"
               },
               {
                 "t": "p",
-                "x": "HarperCollinsでは経営陣がClaudeのライセンスを購入し、社員は事実上の強制志願(「voluntold」)で「AI Champions」になった。Hachetteは業務面でのAI活用は支持するが創作面では支持しないとし、Simon & Schusterはツールの使用は必須ではないと説明した。HarperCollinsは回答しなかった。"
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schusterの従業員はSkan AIソフトウェアの試験導入に反対する公開書簡を回覧し、CEOのGreg Greeleyは使用を決めたわけではないと返答した。"
-              },
-              {
-                "t": "p",
-                "x": "WIREDが取材した業界関係者の多くは、出版社に明確なAI利用ガイドラインと開示を求めているだけだ。"
+                "x": "NISOのTodd Carpenterは、AIシステム内のコンテンツの出所を追跡するTraceプロジェクトなどの標準を挙げ、柔軟なルールを主張した。Crossickは、訴訟はコンテンツが持ち去られた後にしか起こせないと反論し、Frankfurt AppealとEUの著作権見直しに言及した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "出版社悄悄引入AI\n员工纷纷抵制",
-          "body": "三家大型出版社员工称，LLMs正被用于宣传、封面、封底文案和电子邮件。",
-          "mini_headline": "出版业员工抵制AI",
+          "headline": "EU AI Act给出版商\n筹码，却缺乏约束力",
+          "body": "Frankfurt座谈会认为，EU AI Act名义上利好权利人，却未对AI开发者设罚则。",
+          "mini_headline": "EU AI Act缺乏约束力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "左起：Max Voegler、Gerhard Lauer、Wolf-Tilo Balke、Todd Carpenter、Elizabeth Crossick。"
               },
               {
                 "t": "p",
-                "x": "据二十多名匿名接受WIRED采访的员工透露，美国（US）五大出版社（Big Five）中至少有三家——HarperCollins、Simon & Schuster和Hachette——在未公开披露、也未征得作者同意的情况下，悄悄引入了AI工具。"
+                "x": "10月7日在Frankfurter Buchmesse举行的一场主题为“AI时代如何守护对科学的信任”的座谈会，最终在一点上达成共识：EU AI Act为出版商提供了有用的工具，但执行乏力限制了其价值。"
               },
               {
                 "t": "p",
-                "x": "员工称，Claude和ChatGPT等LLMs被用于给文学经纪人写邮件、撰写宣传文案和封底文案、设计封面以及生成营销材料，且往往是在高管授意下进行。"
+                "x": "Mainz的Gerhard Lauer教授表示，AI将内容切碎后喂给机器，侵蚀了来源可追溯性与问责。RELX的Elizabeth Crossick说，该法要求训练数据透明、制定尊重权利保留的版权政策并标注AI内容，但附带39份实施及相关文件，且许多要求“非常薄弱”，AI公司几乎没有遵守的动力。"
               },
               {
                 "t": "p",
-                "x": "在HarperCollins，管理层购买了Claude许可证，员工被“voluntold”（名为自愿、实为指派）成为“AI Champions”。Hachette表示支持AI用于运营而非创作；Simon & Schuster表示其工具并非强制使用。HarperCollins未予回应。"
-              },
-              {
-                "t": "p",
-                "x": "Simon & Schuster员工传阅了一封公开信，反对试用Skan AI软件；CEO Greg Greeley回应称尚未决定使用该软件。"
-              },
-              {
-                "t": "p",
-                "x": "接受WIRED采访的大多数业内人士只是希望出版社提供明确的AI使用指南并进行披露。"
+                "x": "NISO的Todd Carpenter提到用于在AI系统中追踪内容来源的Trace项目等标准，主张规则应保持灵活。Crossick则反驳说，诉讼总是在内容被拿走之后才来，并援引了Frankfurt Appeal和EU版权审查。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Editoriales usan IA en silencio\ny sus empleados protestan",
-          "body": "Empleados de tres grandes editoriales dicen que se usan LLMs para publicidad, portadas, contraportadas y correos.",
-          "mini_headline": "Plantillas editoriales frente a la IA",
+          "headline": "La EU AI Act da palanca a las\neditoriales, pero sin dientes",
+          "body": "Para un panel en Frankfurt, la EU AI Act ayuda a los titulares de derechos pero no sanciona a quienes desarrollan IA.",
+          "mini_headline": "La EU AI Act, sin dientes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+                "cap": "Desde la izquierda: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
               },
               {
                 "t": "p",
-                "x": "Al menos tres de las Big Five editoriales de Estados Unidos (US) —HarperCollins, Simon & Schuster y Hachette— han incorporado discretamente herramientas de IA (AI) sin informarlo públicamente ni contar con el consentimiento de los autores, según más de dos docenas de trabajadores que hablaron con WIRED de forma anónima."
+                "x": "Un panel sobre cómo preservar la confianza en la ciencia en la era de la IA, celebrado en la Frankfurter Buchmesse el 7 de octubre, coincidió en un punto: la EU AI Act da a las editoriales herramientas útiles, pero su débil aplicación limita su valor."
               },
               {
                 "t": "p",
-                "x": "Según el personal, LLMs como Claude y ChatGPT se usan para escribir correos a agentes literarios, redactar textos promocionales y de contraportada, diseñar portadas y generar materiales de marketing, a menudo por indicación de los directivos."
+                "x": "Gerhard Lauer, profesor en Mainz, dijo que la IA trocea los contenidos y los introduce en máquinas, lo que erosiona la procedencia y la rendición de cuentas. Elizabeth Crossick, de RELX, explicó que la ley exige transparencia sobre los datos de entrenamiento, una política de derechos de autor que respete las reservas de derechos y el etiquetado del contenido de IA, pero viene acompañada de 39 textos de aplicación y relacionados y de muchos requisitos “muy débiles”, lo que deja a las empresas de IA pocos incentivos para cumplirla."
               },
               {
                 "t": "p",
-                "x": "En HarperCollins, los directivos compraron licencias de Claude y el personal fue “voluntold” —voluntario a la fuerza— para convertirse en “AI Champions”. Hachette afirma que apoya los usos operativos de la IA, pero no los creativos; Simon & Schuster dice que sus herramientas no son obligatorias. HarperCollins no respondió."
-              },
-              {
-                "t": "p",
-                "x": "Empleados de Simon & Schuster difundieron una carta abierta contra una prueba del software Skan AI; el CEO, Greg Greeley, respondió que no se había tomado ninguna decisión sobre su uso."
-              },
-              {
-                "t": "p",
-                "x": "La mayoría de los profesionales del sector con los que habló WIRED solo quieren que las editoriales ofrezcan pautas claras sobre el uso de la IA y que lo hagan público."
+                "x": "Todd Carpenter, de NISO, mencionó estándares como el proyecto Trace para rastrear la procedencia de los contenidos en sistemas de IA, y defendió normas flexibles. Crossick replicó que los litigios llegan después de que el contenido ya se ha tomado, y citó el Frankfurt Appeal y la revisión de los derechos de autor de la UE (EU)."
               }
             ]
           }
@@ -707,496 +557,15 @@
       }
     },
     {
-      "id": "books-von-menschen-label",
-      "source_lang": "de",
-      "eyebrow": "AI NEWS",
-      "headline": "아동·청소년 출판사\n‘사람이 만든’ 라벨 출범",
-      "body": "아동·청소년 출판사 18곳이 글·그림·디자인을 사람이 만들었다는 라벨을 단다.",
-      "mini_headline": "Von Menschen 라벨",
-      "tool": "Books",
-      "source": "Börsenblatt",
-      "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "독일어권 아동·청소년 출판사 18곳이 새 라벨을 도입한다. „Von Menschen · geschrieben · gestaltet · geprüft“(사람이 · 쓰고 · 만들고 · 검수함)는 글과 그림, 디자인을 사람이 만들고 각 출판사가 편집 단계에서 책을 검수했다는 사실을 알리는 표시다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-            "cap": "로고 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-          },
-          {
-            "t": "p",
-            "x": "출판사들은 이번 이니셔티브로 인간의 창의성과 편집 책임, 창작물 보호에 힘을 싣는다. 라벨이 붙었다고 출판사가 인공지능을 못 쓰는 것은 아니어서, 업무 지원이나 분석, 자료 조사에는 쓸 수 있다. 핵심은 사람이 만든 창작물에 대한 투명성과 책임이다."
-          },
-          {
-            "t": "p",
-            "x": "라벨은 avj(Arbeitsgemeinschaft von Jugendbuchverlagen, 청소년도서출판사협의회)의 실무 그룹이 만들었다. 출판사들은 라벨과 함께 다음과 같은 공동의 약속을 내건다."
-          },
-          {
-            "t": "p",
-            "x": "Von Menschen geschrieben(사람이 씀): 글은 작가가 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Von Menschen gestaltet(사람이 만듦): 그림은 예술가가 그린다. 사진과 레이아웃 같은 디자인 요소는 사람이 고르고 다듬고 큐레이션한다."
-          },
-          {
-            "t": "p",
-            "x": "Von Menschen geprüft(사람이 검수함): 내용과 언어, 디자인은 출판사가 편집 단계에서 검수한다."
-          }
-        ]
-      },
-      "text": {
-        "_src": {
-          "headline": "Kinder- und Jugendverlage\nstarten Label „Von Menschen“",
-          "body": "18 Kinder- und Jugendbuchverlage belegen per Label, dass Text, Illustration und Gestaltung von Menschen stammen.",
-          "mini_headline": "Label „Von Menschen“",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18 deutschsprachige Kinder- und Jugendbuchverlage führen ein neues Label ein: „Von Menschen · geschrieben · gestaltet · geprüft“ soll sichtbar machen, dass Texte, Illustrationen und Gestaltung von Menschen geschaffen und die Bücher in den Verlagen redaktionell geprüft werden."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "Logo „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "Mit der Initiative setzen sich die Verlage für menschliche Kreativität, redaktionelle Verantwortung und den Schutz kreativer Leistungen ein. Das Label verbietet nicht den Einsatz von Künstlicher Intelligenz in Verlagen, etwa zur Unterstützung von Prozessen, Analysen oder Recherchen. Es geht um Transparenz und Verantwortung gegenüber den schöpferischen Werken von Menschen."
-              },
-              {
-                "t": "p",
-                "x": "Entwickelt wurde das Label von einer Arbeitsgruppe der avj (Arbeitsgemeinschaft von Jugendbuchverlagen). Damit verbinden die Verlage ein gemeinsames Versprechen:"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben: Texte werden von Autor*innen verfasst."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet: Illustrationen werden von Künstler*innen geschaffen; Fotos, Layouts und weitere Gestaltungselemente werden von Menschen ausgewählt, entwickelt und kuratiert."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft: Inhalte, Sprache und Gestaltung werden im Verlag redaktionell geprüft."
-              }
-            ]
-          },
-          "lang": "de"
-        },
-        "en": {
-          "headline": "Kids’ and youth publishers\nlaunch “Von Menschen” label",
-          "body": "18 children’s and youth publishers use a label to show that text, illustration and design come from humans.",
-          "mini_headline": "The “Von Menschen” label",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18 German-language children’s and youth book publishers are introducing a new label: “Von Menschen · geschrieben · gestaltet · geprüft” (by humans · written · designed · checked) is meant to make visible that texts, illustrations and design are created by humans and that the books are editorially reviewed at the publishers."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "Logo “Von Menschen · geschrieben · gestaltet · geprüft” © avj"
-              },
-              {
-                "t": "p",
-                "x": "With the initiative, the publishers stand up for human creativity, editorial responsibility and the protection of creative work. The label does not prohibit the use of artificial intelligence at publishers, for example to support processes, analysis or research. It is about transparency and responsibility toward the creative works of humans."
-              },
-              {
-                "t": "p",
-                "x": "The label was developed by a working group of the avj (Arbeitsgemeinschaft von Jugendbuchverlagen, the association of youth book publishers). With it, the publishers make a shared promise:"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben (written by humans): texts are written by authors."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet (designed by humans): illustrations are created by artists; photos, layouts and other design elements are selected, developed and curated by humans."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft (checked by humans): content, language and design are editorially reviewed at the publisher."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "아동·청소년 출판사\n‘사람이 만든’ 라벨 출범",
-          "body": "아동·청소년 출판사 18곳이 글·그림·디자인을 사람이 만들었다는 라벨을 단다.",
-          "mini_headline": "Von Menschen 라벨",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "독일어권 아동·청소년 출판사 18곳이 새 라벨을 도입한다. „Von Menschen · geschrieben · gestaltet · geprüft“(사람이 · 쓰고 · 만들고 · 검수함)는 글과 그림, 디자인을 사람이 만들고 각 출판사가 편집 단계에서 책을 검수했다는 사실을 알리는 표시다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "로고 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "출판사들은 이번 이니셔티브로 인간의 창의성과 편집 책임, 창작물 보호에 힘을 싣는다. 라벨이 붙었다고 출판사가 인공지능을 못 쓰는 것은 아니어서, 업무 지원이나 분석, 자료 조사에는 쓸 수 있다. 핵심은 사람이 만든 창작물에 대한 투명성과 책임이다."
-              },
-              {
-                "t": "p",
-                "x": "라벨은 avj(Arbeitsgemeinschaft von Jugendbuchverlagen, 청소년도서출판사협의회)의 실무 그룹이 만들었다. 출판사들은 라벨과 함께 다음과 같은 공동의 약속을 내건다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben(사람이 씀): 글은 작가가 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet(사람이 만듦): 그림은 예술가가 그린다. 사진과 레이아웃 같은 디자인 요소는 사람이 고르고 다듬고 큐레이션한다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft(사람이 검수함): 내용과 언어, 디자인은 출판사가 편집 단계에서 검수한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "児童・青少年出版社が\nVon Menschen導入",
-          "body": "児童・青少年書の出版社18社が、文章も絵もデザインも人の手によるとラベルで示す。",
-          "mini_headline": "ラベル「Von Menschen」",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ドイツ語圏の児童・青少年書の出版社18社が新しいラベルを導入する。„Von Menschen · geschrieben · gestaltet · geprüft“(人が・書き・デザインし・確認した)は、文章、イラスト、デザインが人の手で作られ、本が出版社で編集上のチェックを受けていることを示すものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "ロゴ „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "出版社はこの取り組みを通じて、人間の創造性、編集上の責任、創作物の保護を訴える。ラベルは、業務プロセスの支援や分析、リサーチなど、出版社での人工知能の利用を禁じるものではない。目的は、人間による創作物に対する透明性と責任である。"
-              },
-              {
-                "t": "p",
-                "x": "ラベルはavj(Arbeitsgemeinschaft von Jugendbuchverlagen、青少年書出版社協会)の作業部会が開発した。出版社はこれによって次のような共通の約束を掲げる。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben(人が書く):文章は著者が執筆する。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet(人がデザインする):イラストはアーティストが制作し、写真やレイアウトなどのデザイン要素は人が選び、作り込み、キュレーションする。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft(人が確認する):内容、言語、デザインは出版社で編集上のチェックを受ける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "少儿出版社推出\nVon Menschen标签",
-          "body": "18家少儿出版社以统一标签证明，文字、插画和设计均出自人类之手。",
-          "mini_headline": "“Von Menschen”标签",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18家德语少儿出版社推出新标签：„Von Menschen · geschrieben · gestaltet · geprüft“（由人类·撰写·设计·审校）旨在表明文字、插画和设计均由人类创作，图书也经过出版社编辑审校。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "标志 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "出版社借此倡导人类创造力、编辑责任以及对创意成果的保护。该标签并不禁止出版社使用人工智能，例如用于辅助流程、分析或调研。其核心在于对人类创作作品的透明与负责。"
-              },
-              {
-                "t": "p",
-                "x": "该标签由avj（Arbeitsgemeinschaft von Jugendbuchverlagen，少儿图书出版社协会）的一个工作组制定。出版社借此作出共同承诺："
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben（由人类撰写）：文字由作者创作。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet（由人类设计）：插画由艺术家创作；照片、版式及其他设计元素由人类挑选、开发和策划。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft（由人类审校）：内容、语言和设计均经出版社编辑审校。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales infantiles lanzan\nla etiqueta “Von Menschen”",
-          "body": "18 editoriales infantiles y juveniles certifican con una etiqueta que texto, ilustración y diseño son obra humana.",
-          "mini_headline": "La etiqueta “Von Menschen”",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18 editoriales infantiles y juveniles de lengua alemana introducen una nueva etiqueta: „Von Menschen · geschrieben · gestaltet · geprüft“ (por personas · escrito · diseñado · revisado) busca hacer visible que los textos, las ilustraciones y el diseño son obra de personas y que los libros se revisan editorialmente en las editoriales."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "Logo „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "Con esta iniciativa, las editoriales defienden la creatividad humana, la responsabilidad editorial y la protección del trabajo creativo. La etiqueta no prohíbe el uso de la inteligencia artificial en las editoriales, por ejemplo para apoyar procesos, análisis o investigaciones. Se trata de transparencia y responsabilidad frente a las obras creativas de las personas."
-              },
-              {
-                "t": "p",
-                "x": "La etiqueta fue desarrollada por un grupo de trabajo de la avj (Arbeitsgemeinschaft von Jugendbuchverlagen, asociación de editoriales de literatura juvenil). Con ella, las editoriales asumen una promesa común:"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben (escrito por personas): los textos los escriben autoras y autores."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet (diseñado por personas): las ilustraciones las crean artistas; las fotos, los layouts y otros elementos de diseño los seleccionan, desarrollan y curan personas."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft (revisado por personas): el contenido, el lenguaje y el diseño se revisan editorialmente en la editorial."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "Kids’ and youth publishers\nlaunch “Von Menschen” label",
-          "body": "18 children’s and youth publishers use a label to show that text, illustration and design come from humans.",
-          "mini_headline": "The “Von Menschen” label",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18 German-language children’s and youth book publishers are introducing a new label: “Von Menschen · geschrieben · gestaltet · geprüft” (by humans · written · designed · checked) is meant to make visible that texts, illustrations and design are created by humans and that the books are editorially reviewed at the publishers."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "Logo “Von Menschen · geschrieben · gestaltet · geprüft” © avj"
-              },
-              {
-                "t": "p",
-                "x": "With the initiative, the publishers stand up for human creativity, editorial responsibility and the protection of creative work. The label does not prohibit the use of artificial intelligence at publishers, for example to support processes, analysis or research. It is about transparency and responsibility toward the creative works of humans."
-              },
-              {
-                "t": "p",
-                "x": "The label was developed by a working group of the avj (Arbeitsgemeinschaft von Jugendbuchverlagen, the association of youth book publishers). With it, the publishers make a shared promise:"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben (written by humans): texts are written by authors."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet (designed by humans): illustrations are created by artists; photos, layouts and other design elements are selected, developed and curated by humans."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft (checked by humans): content, language and design are editorially reviewed at the publisher."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "아동·청소년 출판사,\n‘사람이 만든’ 라벨 출범",
-          "body": "아동·청소년 출판사 18곳이 글·그림·디자인을 사람이 만들었다는 라벨을 붙인다.",
-          "mini_headline": "Von Menschen 라벨",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "독일어권 아동·청소년 출판사 18곳이 새 라벨을 도입한다. „Von Menschen · geschrieben · gestaltet · geprüft“(사람이 · 쓰고 · 만들고 · 검수함)는 글과 그림, 디자인을 사람이 만들고 각 출판사가 책을 편집 단계에서 검수했음을 드러내기 위한 것이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "로고 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "출판사들은 이번 이니셔티브로 인간의 창의성과 편집 책임, 창작물 보호를 지지한다. 라벨이 출판사의 인공지능 사용을 금지하지는 않으며, 업무 지원이나 분석, 자료 조사에는 쓸 수 있다. 핵심은 사람이 만든 창작물에 대한 투명성과 책임이다."
-              },
-              {
-                "t": "p",
-                "x": "라벨은 avj(Arbeitsgemeinschaft von Jugendbuchverlagen, 청소년도서출판사협의회)의 실무 그룹이 개발했다. 출판사들은 이를 통해 다음과 같은 공동의 약속을 내건다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben(사람이 씀): 글은 작가가 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet(사람이 만듦): 그림은 예술가가 그린다. 사진, 레이아웃 등 디자인 요소는 사람이 고르고 다듬고 큐레이션한다."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft(사람이 검수함): 내용과 언어, 디자인은 출판사에서 편집 검수를 거친다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "児童・青少年出版社が\nVon Menschen導入",
-          "body": "児童・青少年書の出版社18社が、文章も絵もデザインも人の手によるとラベルで示す。",
-          "mini_headline": "ラベル「Von Menschen」",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "ドイツ語圏の児童・青少年書の出版社18社が新しいラベルを導入する。„Von Menschen · geschrieben · gestaltet · geprüft“(人が・書き・デザインし・確認した)は、文章、イラスト、デザインが人の手で作られ、本が出版社で編集上のチェックを受けていることを示すものだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "ロゴ „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "出版社はこの取り組みを通じて、人間の創造性、編集上の責任、創作物の保護を訴える。ラベルは、業務プロセスの支援や分析、リサーチなど、出版社での人工知能の利用を禁じるものではない。目的は、人間による創作物に対する透明性と責任である。"
-              },
-              {
-                "t": "p",
-                "x": "ラベルはavj(Arbeitsgemeinschaft von Jugendbuchverlagen、青少年書出版社協会)の作業部会が開発した。出版社はこれによって次のような共通の約束を掲げる。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben(人が書く):文章は著者が執筆する。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet(人がデザインする):イラストはアーティストが制作し、写真やレイアウトなどのデザイン要素は人が選び、作り込み、キュレーションする。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft(人が確認する):内容、言語、デザインは出版社で編集上のチェックを受ける。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "少儿出版社推出\nVon Menschen标签",
-          "body": "18家少儿出版社以统一标签证明，文字、插画和设计均出自人类之手。",
-          "mini_headline": "“Von Menschen”标签",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18家德语少儿出版社推出新标签：„Von Menschen · geschrieben · gestaltet · geprüft“（由人类·撰写·设计·审校）旨在表明文字、插画和设计均由人类创作，图书也经过出版社编辑审校。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "标志 „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "出版社借此倡导人类创造力、编辑责任以及对创意成果的保护。该标签并不禁止出版社使用人工智能，例如用于辅助流程、分析或调研。其核心在于对人类创作作品的透明与负责。"
-              },
-              {
-                "t": "p",
-                "x": "该标签由avj（Arbeitsgemeinschaft von Jugendbuchverlagen，少儿图书出版社协会）的一个工作组制定。出版社借此作出共同承诺："
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben（由人类撰写）：文字由作者创作。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet（由人类设计）：插画由艺术家创作；照片、版式及其他设计元素由人类挑选、开发和策划。"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft（由人类审校）：内容、语言和设计均经出版社编辑审校。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Editoriales infantiles lanzan\nla etiqueta “Von Menschen”",
-          "body": "18 editoriales infantiles y juveniles certifican con una etiqueta que texto, ilustración y diseño son obra humana.",
-          "mini_headline": "La etiqueta “Von Menschen”",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "18 editoriales infantiles y juveniles de lengua alemana introducen una nueva etiqueta: „Von Menschen · geschrieben · gestaltet · geprüft“ (por personas · escrito · diseñado · revisado) busca hacer visible que los textos, las ilustraciones y el diseño son obra de personas y que los libros se revisan editorialmente en las editoriales."
-              },
-              {
-                "t": "img",
-                "src": "https://www.boersenblatt.net/sites/default/files/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg",
-                "cap": "Logo „Von Menschen · geschrieben · gestaltet · geprüft“ © avj"
-              },
-              {
-                "t": "p",
-                "x": "Con esta iniciativa, las editoriales defienden la creatividad humana, la responsabilidad editorial y la protección del trabajo creativo. La etiqueta no prohíbe el uso de la inteligencia artificial en las editoriales, por ejemplo para apoyar procesos, análisis o investigaciones. Se trata de transparencia y responsabilidad frente a las obras creativas de las personas."
-              },
-              {
-                "t": "p",
-                "x": "La etiqueta fue desarrollada por un grupo de trabajo de la avj (Arbeitsgemeinschaft von Jugendbuchverlagen, asociación de editoriales de literatura juvenil). Con ella, las editoriales asumen una promesa común:"
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geschrieben (escrito por personas): los textos los escriben autoras y autores."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen gestaltet (diseñado por personas): las ilustraciones las crean artistas; las fotos, los layouts y otros elementos de diseño los seleccionan, desarrollan y curan personas."
-              },
-              {
-                "t": "p",
-                "x": "Von Menschen geprüft (revisado por personas): el contenido, el lenguaje y el diseño se revisan editorialmente en la editorial."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-ghostwriters-ai-commissions",
+      "id": "fbf26-spotify-180-markets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 원고 늘자\n대필 작가 의뢰 감소",
-      "body": "예비 저자들이 AI를 쓰면서 대필 의뢰는 줄고 AI 초안 손질 요청은 늘었다.",
-      "mini_headline": "AI와 마주한 대필",
+      "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
+      "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히고 AI 낭독도 들인다.",
+      "mini_headline": "Spotify 오디오북, 180+ 시장으로",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1204,107 +573,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-            "cap": "© Shutterstock"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
           },
           {
             "t": "p",
-            "x": "대필 작가들은 The Bookseller에 예비 저자들이 생성형 AI를 시험해 보면서 의뢰가 줄고 있다고 전했다. 반대로 AI가 생성한(AI-generated) 원고를 맡아 달라는 요청이 갈수록 는다는 대필 작가들도 있다."
+            "x": "Spotify가 오디오북 서비스를 전 세계로 펼쳐 22개 시장에서 180개 넘는 시장으로 넓힌다. 닿을 수 있는 사람은 7억 5천만 명 이상이다. 첫 출시국은 콜롬비아, 이탈리아, 멕시코, 스페인이다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤를 잇고 나머지 시장은 2026년 말까지 차례로 열린다."
+          },
+          {
+            "t": "p",
+            "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 앞으로 120개 넘는 언어로 늘어난다."
+          },
+          {
+            "t": "p",
+            "x": "Spotify는 AI 내레이션으로 일부 작품을 인쇄본에서 오디오로 더 빨리 옮길 수 있다고 본다. 사람 내레이터를 쓰기엔 시장이 너무 작은 언어라면 더욱 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors에 작품을 올릴 수 있고, ElevenLabs와 손잡은 덕에 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "기존 시장의 월간 오디오북 청취자는 2026년 들어 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ghostwriters lose commissions\nas AI manuscripts rise",
-          "body": "Ghostwriters say commissions are falling as would-be authors try AI, while some are asked to rework AI drafts.",
-          "mini_headline": "Ghostwriting meets AI",
+          "headline": "Spotify takes audiobooks\nto more than 180 markets",
+          "body": "Spotify is taking audiobooks from 22 markets to 180-plus, with AI narration pitched for small-language markets.",
+          "mini_headline": "Spotify audiobooks\nreach 180+ markets",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Ghostwriters have told The Bookseller that commissions are falling as prospective authors experiment with generative AI, while others are increasingly being asked to work on AI-generated manuscripts."
+                "x": "Spotify is rolling out its audiobook service worldwide, taking it from 22 markets to more than 180, potentially reaching more than 750 million people. The rollout begins in Colombia, Italy, Mexico, and Spain; Argentina, Brazil, Norway, and Poland follow on October 15, Portugal on November 12, and the remaining markets in batches through the end of 2026."
+              },
+              {
+                "t": "p",
+                "x": "Each new market launches with an English-language catalog of more than 350,000 titles. “In markets where we have rights, we will always lead with the local language first and foremost,” says Duncan Bruce, Spotify’s director of audiobook partnerships and licensing. Eventually the catalog will span more than 120 languages."
+              },
+              {
+                "t": "p",
+                "x": "Spotify sees AI narration as a possible way to speed the adaptation of some titles from print to audio, especially in languages where the market may be too small to justify a human narrator. “AI done responsibly can give authors and publishers the opportunity to launch an audiobook in local languages, which they may have never done or had the financial ability to do,” Bruce says. Self-published authors can upload titles through Spotify for Authors, and a partnership with ElevenLabs lets authors produce AI-narrated audiobooks."
+              },
+              {
+                "t": "p",
+                "x": "In existing markets, monthly audiobook listeners are up almost 39% in 2026 so far, and listening hours almost 32%. “Spotify is truly now a global books platform,” Bruce says."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 원고 늘자\n대필 작가 의뢰 감소",
-          "body": "예비 저자들이 AI를 쓰면서 대필 의뢰는 줄고 AI 초안 손질 요청은 늘었다.",
-          "mini_headline": "AI와 마주한 대필",
+          "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
+          "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히고 AI 낭독도 들인다.",
+          "mini_headline": "Spotify 오디오북, 180+ 시장으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "대필 작가들은 The Bookseller에 예비 저자들이 생성형 AI를 시험해 보면서 의뢰가 줄고 있다고 전했다. 반대로 AI가 생성한(AI-generated) 원고를 맡아 달라는 요청이 갈수록 는다는 대필 작가들도 있다."
+                "x": "Spotify가 오디오북 서비스를 전 세계로 펼쳐 22개 시장에서 180개 넘는 시장으로 넓힌다. 닿을 수 있는 사람은 7억 5천만 명 이상이다. 첫 출시국은 콜롬비아, 이탈리아, 멕시코, 스페인이다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤를 잇고 나머지 시장은 2026년 말까지 차례로 열린다."
+              },
+              {
+                "t": "p",
+                "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 앞으로 120개 넘는 언어로 늘어난다."
+              },
+              {
+                "t": "p",
+                "x": "Spotify는 AI 내레이션으로 일부 작품을 인쇄본에서 오디오로 더 빨리 옮길 수 있다고 본다. 사람 내레이터를 쓰기엔 시장이 너무 작은 언어라면 더욱 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors에 작품을 올릴 수 있고, ElevenLabs와 손잡은 덕에 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "기존 시장의 월간 오디오북 청취자는 2026년 들어 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI原稿の増加で\nゴーストライターの依頼減",
-          "body": "AIを試す著者志望者が増え依頼が減り、AI草稿の手直しを頼まれる例もある。",
-          "mini_headline": "AIとゴーストライター",
+          "headline": "Spotify、180超の\n市場でオーディオブック展開",
+          "body": "Spotifyはオーディオブックを22市場から180超に広げ、少数言語にはAI朗読を推す。",
+          "mini_headline": "Spotifyオーディオブック、180超の市場へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "ゴーストライターたちはThe Booksellerに対し、著者志望者が生成AIを試すようになり依頼が減っていると語った。一方で、AIが生成した(AI-generated)原稿の仕事を頼まれることが増えている者もいる。"
+                "x": "Spotifyはオーディオブックサービスを世界に展開し、22市場から180を超える市場に広げる。7億5000万人以上に届く可能性がある。展開はコロンビア、イタリア、メキシコ、スペインで始まり、アルゼンチン、ブラジル、ノルウェー、ポーランドが10月15日、ポルトガルが11月12日に続き、残りの市場は2026年末まで順次加わる。"
+              },
+              {
+                "t": "p",
+                "x": "新たな各市場では、350,000点を超える英語カタログでサービスを開始する。Spotifyのオーディオブック・パートナーシップ&ライセンシング担当ディレクター、Duncan Bruceは「権利を持つ市場では、常に何よりもまず現地語を優先する」と話す。カタログは最終的に120を超える言語に広がる。"
+              },
+              {
+                "t": "p",
+                "x": "Spotifyは、AIナレーションを一部作品の紙からオーディオへの移行を速める手段になりうると見ている。特に、人間のナレーターを起用するには市場が小さすぎるかもしれない言語でそうだ。Bruceは「責任ある形で使うAIは、著者や出版社に、これまで手がけたことがなかったり資金的に難しかったりした現地語でのオーディオブック刊行の機会を与えられる」と語る。自費出版の著者はSpotify for Authorsで作品をアップロードでき、ElevenLabsとの提携により、AIナレーションのオーディオブック(AI-narrated)も制作できる。"
+              },
+              {
+                "t": "p",
+                "x": "既存市場では、2026年に入ってからこれまでに月間のオーディオブック聴取者が39%近く、聴取時間が32%近く増えた。Bruceは「Spotifyは今や真にグローバルな本のプラットフォームだ」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI书稿增多\n代笔作家订单减少",
-          "body": "代笔作家称，准作者纷纷尝试AI致约稿减少，也有人被请去修改AI初稿。",
-          "mini_headline": "代笔遇上AI",
+          "headline": "Spotify有声书\n拓展至逾180个市场",
+          "body": "Spotify将有声书从22个市场扩展到180多个，并为小语种市场力推AI朗读。",
+          "mini_headline": "Spotify有声书覆盖180+市场",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "多位代笔作家对The Bookseller表示，随着潜在作者尝试生成式AI，约稿正在减少；另一些代笔作家则越来越多地被要求处理AI生成（AI-generated）的书稿。"
+                "x": "Spotify正将有声书服务推向全球，从22个市场扩展到180多个，潜在覆盖人数超过7.5亿。首批上线的是哥伦比亚、意大利、墨西哥和西班牙；阿根廷、巴西、挪威和波兰将于10月15日跟进，葡萄牙于11月12日上线，其余市场将在2026年底前分批推出。"
+              },
+              {
+                "t": "p",
+                "x": "每个新市场上线时都提供超过350,000种英文作品。Spotify有声书合作与授权总监Duncan Bruce表示：“在我们拥有版权的市场，我们始终会把本地语言放在首位。”目录最终将覆盖120多种语言。"
+              },
+              {
+                "t": "p",
+                "x": "Spotify认为，AI朗读或可加快部分作品从纸质书到有声书的转化，尤其是在市场可能太小、不足以请真人朗读者的语种中。Bruce说：“负责任地使用AI，可以让作者和出版商有机会推出本地语言有声书，而这是他们过去从未做过、或在财力上无法做到的。”自出版作者可通过Spotify for Authors上传作品，与ElevenLabs的合作还让作者能够制作AI朗读有声书（AI-narrated）。"
+              },
+              {
+                "t": "p",
+                "x": "在现有市场，2026年迄今月度有声书听众增长近39%，收听时长增长近32%。Bruce说：“Spotify如今真正成为了一个全球图书平台。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los escritores fantasma pierden\nencargos ante el auge de la IA",
-          "body": "Los escritores fantasma pierden encargos ante autores que prueban la IA, y a algunos les piden revisar textos de IA.",
-          "mini_headline": "La escritura fantasma ante la IA",
+          "headline": "Spotify lleva sus audiolibros\na más de 180 mercados",
+          "body": "Spotify amplía sus audiolibros de 22 a más de 180 mercados y ofrece narración con IA a lenguas minoritarias.",
+          "mini_headline": "Los audiolibros de Spotify llegan a más de 180 mercados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Varios escritores fantasma han contado a The Bookseller que los encargos están cayendo porque los posibles autores experimentan con la IA generativa, mientras que a otros se les pide cada vez más trabajar en manuscritos generados por IA (AI-generated)."
+                "x": "Spotify extiende su servicio de audiolibros a todo el mundo: pasa de 22 mercados a más de 180, con un alcance potencial de más de 750 millones de personas. El despliegue empieza en Colombia, Italia, México y España; Argentina, Brasil, Noruega y Polonia se suman el 15 de octubre, Portugal el 12 de noviembre, y el resto de los mercados lo hará por tandas hasta finales de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Cada nuevo mercado se estrena con un catálogo en inglés de más de 350,000 títulos. “En los mercados donde tenemos los derechos, siempre daremos prioridad, ante todo, al idioma local”, afirma Duncan Bruce, director de alianzas y licencias de audiolibros de Spotify. Con el tiempo, el catálogo abarcará más de 120 idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Spotify ve en la narración con IA una posible vía para acelerar la adaptación de algunos títulos del papel al audio, sobre todo en idiomas cuyo mercado quizá sea demasiado pequeño para justificar un narrador humano. “La IA usada de forma responsable puede dar a autores y editoriales la oportunidad de lanzar un audiolibro en idiomas locales, algo que quizá nunca habían hecho o no tenían capacidad económica para hacer”, dice Bruce. Los autores autopublicados pueden subir sus títulos a través de Spotify for Authors, y una alianza con ElevenLabs les permite producir audiolibros narrados con IA (AI-narrated)."
+              },
+              {
+                "t": "p",
+                "x": "En los mercados existentes, los oyentes mensuales de audiolibros han crecido casi un 39% en lo que va de 2026, y las horas de escucha, casi un 32%. “Spotify es ya, de verdad, una plataforma global de libros”, afirma Bruce."
               }
             ]
           }
@@ -1312,77 +747,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 원고 늘자\n대필 작가 의뢰 감소",
-          "body": "예비 저자들이 AI를 쓰며 대필 의뢰가 줄고, AI 초안 손질 요청은 늘었다.",
-          "mini_headline": "AI와 마주한 대필",
+          "headline": "Spotify, 오디오북을\n180개 넘는 시장으로",
+          "body": "Spotify가 오디오북을 22곳에서 180여 곳으로 넓히며 AI 낭독도 쓴다.",
+          "mini_headline": "Spotify 오디오북, 180+ 시장으로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "대필 작가들은 The Bookseller에 예비 저자들이 생성형 AI를 시험하면서 의뢰가 줄고 있다고 전했다. 다른 대필 작가들은 AI가 생성한(AI-generated) 원고를 맡아 달라는 요청이 점점 늘고 있다고 말했다."
+                "x": "Spotify가 오디오북 서비스를 전 세계로 확대해 22개 시장에서 180개가 넘는 시장으로 넓힌다. 잠재적으로 7억 5천만 명 이상에게 닿을 수 있다. 출시는 콜롬비아, 이탈리아, 멕시코, 스페인에서 시작한다. 아르헨티나, 브라질, 노르웨이, 폴란드가 10월 15일, 포르투갈이 11월 12일에 뒤따르고, 나머지 시장은 2026년 말까지 순차적으로 열린다."
+              },
+              {
+                "t": "p",
+                "x": "새 시장마다 350,000종이 넘는 영어 카탈로그로 시작한다. Spotify의 오디오북 파트너십·라이선싱 디렉터 Duncan Bruce는 “권리를 확보한 시장에서는 언제나 무엇보다 현지 언어를 먼저 앞세울 것”이라고 말했다. 카탈로그는 결국 120개가 넘는 언어를 아우르게 된다."
+              },
+              {
+                "t": "p",
+                "x": "Spotify는 AI 내레이션을 일부 작품을 인쇄본에서 오디오로 옮기는 속도를 높일 방법으로 본다. 특히 인간 내레이터를 쓰기엔 시장이 너무 작을 수 있는 언어에서 그렇다. Bruce는 “책임 있게 쓰인 AI는 작가와 출판사에 한 번도 해 보지 못했거나 재정적으로 엄두를 내지 못했던 현지 언어 오디오북 출시 기회를 줄 수 있다”고 말했다. 자가출판 작가는 Spotify for Authors로 작품을 올릴 수 있고, ElevenLabs와의 제휴로 AI 내레이션 오디오북(AI-narrated)도 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "기존 시장에서 2026년 들어 지금까지 월간 오디오북 청취자는 39% 가까이, 청취 시간은 32% 가까이 늘었다. Bruce는 “Spotify는 이제 진정한 글로벌 도서 플랫폼”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI原稿の増加で\nゴーストライターの依頼減",
-          "body": "AIを試す著者志望者が増え依頼が減り、AI草稿の手直しを頼まれる例もある。",
-          "mini_headline": "AIとゴーストライター",
+          "headline": "Spotify、180超の\n市場でオーディオブック展開",
+          "body": "Spotifyはオーディオブックを22市場から180超に広げ、少数言語にはAI朗読を推す。",
+          "mini_headline": "Spotifyオーディオブック、180超の市場へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "ゴーストライターたちはThe Booksellerに対し、著者志望者が生成AIを試すようになり依頼が減っていると語った。一方で、AIが生成した(AI-generated)原稿の仕事を頼まれることが増えている者もいる。"
+                "x": "Spotifyはオーディオブックサービスを世界に展開し、22市場から180を超える市場に広げる。7億5000万人以上に届く可能性がある。展開はコロンビア、イタリア、メキシコ、スペインで始まり、アルゼンチン、ブラジル、ノルウェー、ポーランドが10月15日、ポルトガルが11月12日に続き、残りの市場は2026年末まで順次加わる。"
+              },
+              {
+                "t": "p",
+                "x": "新たな各市場では、350,000点を超える英語カタログでサービスを開始する。Spotifyのオーディオブック・パートナーシップ&ライセンシング担当ディレクター、Duncan Bruceは「権利を持つ市場では、常に何よりもまず現地語を優先する」と話す。カタログは最終的に120を超える言語に広がる。"
+              },
+              {
+                "t": "p",
+                "x": "Spotifyは、AIナレーションを一部作品の紙からオーディオへの移行を速める手段になりうると見ている。特に、人間のナレーターを起用するには市場が小さすぎるかもしれない言語でそうだ。Bruceは「責任ある形で使うAIは、著者や出版社に、これまで手がけたことがなかったり資金的に難しかったりした現地語でのオーディオブック刊行の機会を与えられる」と語る。自費出版の著者はSpotify for Authorsで作品をアップロードでき、ElevenLabsとの提携により、AIナレーションのオーディオブック(AI-narrated)も制作できる。"
+              },
+              {
+                "t": "p",
+                "x": "既存市場では、2026年に入ってからこれまでに月間のオーディオブック聴取者が39%近く、聴取時間が32%近く増えた。Bruceは「Spotifyは今や真にグローバルな本のプラットフォームだ」と語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI书稿增多\n代笔作家订单减少",
-          "body": "代笔作家称，准作者纷纷尝试AI致约稿减少，也有人被请去修改AI初稿。",
-          "mini_headline": "代笔遇上AI",
+          "headline": "Spotify有声书\n拓展至逾180个市场",
+          "body": "Spotify将有声书从22个市场扩展到180多个，并为小语种市场力推AI朗读。",
+          "mini_headline": "Spotify有声书覆盖180+市场",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "多位代笔作家对The Bookseller表示，随着潜在作者尝试生成式AI，约稿正在减少；另一些代笔作家则越来越多地被要求处理AI生成（AI-generated）的书稿。"
+                "x": "Spotify正将有声书服务推向全球，从22个市场扩展到180多个，潜在覆盖人数超过7.5亿。首批上线的是哥伦比亚、意大利、墨西哥和西班牙；阿根廷、巴西、挪威和波兰将于10月15日跟进，葡萄牙于11月12日上线，其余市场将在2026年底前分批推出。"
+              },
+              {
+                "t": "p",
+                "x": "每个新市场上线时都提供超过350,000种英文作品。Spotify有声书合作与授权总监Duncan Bruce表示：“在我们拥有版权的市场，我们始终会把本地语言放在首位。”目录最终将覆盖120多种语言。"
+              },
+              {
+                "t": "p",
+                "x": "Spotify认为，AI朗读或可加快部分作品从纸质书到有声书的转化，尤其是在市场可能太小、不足以请真人朗读者的语种中。Bruce说：“负责任地使用AI，可以让作者和出版商有机会推出本地语言有声书，而这是他们过去从未做过、或在财力上无法做到的。”自出版作者可通过Spotify for Authors上传作品，与ElevenLabs的合作还让作者能够制作AI朗读有声书（AI-narrated）。"
+              },
+              {
+                "t": "p",
+                "x": "在现有市场，2026年迄今月度有声书听众增长近39%，收听时长增长近32%。Bruce说：“Spotify如今真正成为了一个全球图书平台。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los escritores fantasma pierden\nencargos ante el auge de la IA",
-          "body": "Los escritores fantasma pierden encargos ante autores que prueban la IA, y a algunos les piden revisar textos de IA.",
-          "mini_headline": "La escritura fantasma ante la IA",
+          "headline": "Spotify lleva sus audiolibros\na más de 180 mercados",
+          "body": "Spotify amplía sus audiolibros de 22 a más de 180 mercados y ofrece narración con IA a lenguas minoritarias.",
+          "mini_headline": "Los audiolibros de Spotify llegan a más de 180 mercados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-                "cap": "© Shutterstock"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
               },
               {
                 "t": "p",
-                "x": "Varios escritores fantasma han contado a The Bookseller que los encargos están cayendo porque los posibles autores experimentan con la IA generativa, mientras que a otros se les pide cada vez más trabajar en manuscritos generados por IA (AI-generated)."
+                "x": "Spotify extiende su servicio de audiolibros a todo el mundo: pasa de 22 mercados a más de 180, con un alcance potencial de más de 750 millones de personas. El despliegue empieza en Colombia, Italia, México y España; Argentina, Brasil, Noruega y Polonia se suman el 15 de octubre, Portugal el 12 de noviembre, y el resto de los mercados lo hará por tandas hasta finales de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Cada nuevo mercado se estrena con un catálogo en inglés de más de 350,000 títulos. “En los mercados donde tenemos los derechos, siempre daremos prioridad, ante todo, al idioma local”, afirma Duncan Bruce, director de alianzas y licencias de audiolibros de Spotify. Con el tiempo, el catálogo abarcará más de 120 idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Spotify ve en la narración con IA una posible vía para acelerar la adaptación de algunos títulos del papel al audio, sobre todo en idiomas cuyo mercado quizá sea demasiado pequeño para justificar un narrador humano. “La IA usada de forma responsable puede dar a autores y editoriales la oportunidad de lanzar un audiolibro en idiomas locales, algo que quizá nunca habían hecho o no tenían capacidad económica para hacer”, dice Bruce. Los autores autopublicados pueden subir sus títulos a través de Spotify for Authors, y una alianza con ElevenLabs les permite producir audiolibros narrados con IA (AI-narrated)."
+              },
+              {
+                "t": "p",
+                "x": "En los mercados existentes, los oyentes mensuales de audiolibros han crecido casi un 39% en lo que va de 2026, y las horas de escucha, casi un 32%. “Spotify es ya, de verdad, una plataforma global de libros”, afirma Bruce."
               }
             ]
           }
@@ -1390,15 +869,15 @@
       }
     },
     {
-      "id": "books-tonies-ai-storyteller",
+      "id": "enlit-translators-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tonies AI 실험해도\nAI 장난감엔 선 긋기",
-      "body": "Tonies는 AI 화자를 3,000가구에서 시험했지만 AI 장난감만은 사양한다.",
-      "mini_headline": "Tonies가 그은 AI의 선",
+      "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
+      "body": "플랑드르 기관은 AI를 사전 같은 도구로 보며 유머·감정·목소리는 못 낸다고 했다.",
+      "mini_headline": "번역가 흔드는 AI",
       "tool": "Books",
       "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1406,179 +885,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-            "cap": "Tonies CEO Tobias Wann"
+            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
           },
           {
             "t": "p",
-            "x": "Frankfurter Buchmesse의 Global 50 CEO Talk 2026에서 Tonies CEO Tobias Wann은 올해 매출을 약 €800m(8억 유로)로 내다봤다. 지금까지 팔린 박스는 약 1,200만 대, 피규어는 1,700만 개가 넘는다고 했다."
+            "x": "지금 유럽 번역가들은 든든한 지원을 받는다. 그런데 AI가 떠오르면서 처지가 불안해졌다. 2026 Frankfurter Buchmesse에서는 25개국 30개 회원이 모인 European Network for Literary Translation(ENLIT) 회원들이 저마다의 번역 지원 방식을 소개했다. 2025년에는 60개 언어, 4,000권 넘는 책이 평균 약 €2,900씩 보조금을 받았다."
           },
           {
             "t": "p",
-            "x": "Tonies는 “Sleepy Friends” 라인 같은 오리지널 IP 개발을 늘리는 중이지만, 카탈로그 대부분은 여전히 라이선스 콘텐츠다. 제작을 Tonies Studio에 맡기는 파트너사도 늘고 있다."
+            "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓰면 된다고 했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣을지 검토 중이고, Institut Ramon Llull은 번역은 사람이 해야 한다고 못 박을 계획이다."
           },
           {
             "t": "p",
-            "x": "AI 내레이션 이야기가 나오자 Wann은 신중했다. Tonies는 폐쇄된 환경에서 아이의 이름과 나이, 관심사로 맞춤형 이야기를 지어 주는 AI “이야기꾼(storyteller)”을 3,000가구에서 시험했다. 그래도 그는 부모들이 회의적이라는 점을 들며 “Toniebox 자체는 결코 AI 장난감이 되지 않을 것”이라고 말했다. 사내에서는 직원 약 85%가 매일 AI를 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "Tonies는 2027년 최소 두 개 국가에 새로 진출하고, 2030년까지 모든 주요 지역에 들어가는 것이 목표다."
+            "x": "2026년 CEATL 설문을 보면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"한다. 응답자의 37%가 직업을 바꿀지 고민 중이고, 약 30%는 AI 때문에 일감이 줄었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tonies tests an AI storyteller\nbut rules out an AI toy",
-          "body": "Tonies trialed an AI storyteller in 3,000 homes, yet its CEO says the Toniebox will never become an AI toy.",
-          "mini_headline": "Tonies draws an AI line",
+          "headline": "Support for translators is\nstrong, but AI makes it fragile",
+          "body": "A Flemish translation funder calls AI a dictionary-like tool that still cannot handle humor, emotion or voice.",
+          "mini_headline": "AI unsettles translators",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "At the Frankfurter Buchmesse’s Global 50 CEO Talk 2026, Tonies CEO Tobias Wann said the company expects revenue of about €800m this year and has sold some 12 million boxes and more than 17 million figurines."
+                "x": "For the moment, translators in Europe are getting wholehearted support. But with the rise of AI, the situation is tenuous. At the 2026 Frankfurter Buchmesse, members of the European Network for Literary Translation (ENLIT), with 30 members from 25 countries, explained how they support translation. In 2025 more than 4,000 books in 60 languages were supported with grants averaging around €2,900."
               },
               {
                 "t": "p",
-                "x": "Tonies is developing more original IP such as its “Sleepy Friends” line, but licensed material still makes up the bulk of the catalogue, with partners increasingly handing production to Tonies Studio."
+                "x": "Elise Vanoosthuyse of Flanders Literature said AI can be used like a tool, much like a dictionary. \"At the moment AI can't do things such as humor, or emotion, or giving the right voice.\" Flanders Literature is considering an AI clause in grant contracts; Institut Ramon Llull will stress that translations must be done by a human."
               },
               {
                 "t": "p",
-                "x": "On AI narration, Wann was measured. Tonies trialed an AI “storyteller” with 3,000 households, generating personalized stories from a child’s name, age and interests inside a closed environment. But “the Toniebox itself will never become an AI toy,” he said, noting parental skepticism. Internally, about 85% of staff use AI daily."
-              },
-              {
-                "t": "p",
-                "x": "Tonies will enter at least two new countries in 2027, aiming for a presence in every major region by 2030."
+                "x": "A 2026 CEATL survey found the literary translation community \"overwhelmingly wary\" of generative AI: 37% of respondents are considering changing careers, and some 30% have seen fewer assignments due to AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tonies AI 실험해도\nAI 장난감엔 선 긋기",
-          "body": "Tonies는 AI 화자를 3,000가구에서 시험했지만 AI 장난감만은 사양한다.",
-          "mini_headline": "Tonies가 그은 AI의 선",
+          "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
+          "body": "플랑드르 기관은 AI를 사전 같은 도구로 보며 유머·감정·목소리는 못 낸다고 했다.",
+          "mini_headline": "번역가 흔드는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "Frankfurter Buchmesse의 Global 50 CEO Talk 2026에서 Tonies CEO Tobias Wann은 올해 매출을 약 €800m(8억 유로)로 내다봤다. 지금까지 팔린 박스는 약 1,200만 대, 피규어는 1,700만 개가 넘는다고 했다."
+                "x": "지금 유럽 번역가들은 든든한 지원을 받는다. 그런데 AI가 떠오르면서 처지가 불안해졌다. 2026 Frankfurter Buchmesse에서는 25개국 30개 회원이 모인 European Network for Literary Translation(ENLIT) 회원들이 저마다의 번역 지원 방식을 소개했다. 2025년에는 60개 언어, 4,000권 넘는 책이 평균 약 €2,900씩 보조금을 받았다."
               },
               {
                 "t": "p",
-                "x": "Tonies는 “Sleepy Friends” 라인 같은 오리지널 IP 개발을 늘리는 중이지만, 카탈로그 대부분은 여전히 라이선스 콘텐츠다. 제작을 Tonies Studio에 맡기는 파트너사도 늘고 있다."
+                "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓰면 된다고 했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣을지 검토 중이고, Institut Ramon Llull은 번역은 사람이 해야 한다고 못 박을 계획이다."
               },
               {
                 "t": "p",
-                "x": "AI 내레이션 이야기가 나오자 Wann은 신중했다. Tonies는 폐쇄된 환경에서 아이의 이름과 나이, 관심사로 맞춤형 이야기를 지어 주는 AI “이야기꾼(storyteller)”을 3,000가구에서 시험했다. 그래도 그는 부모들이 회의적이라는 점을 들며 “Toniebox 자체는 결코 AI 장난감이 되지 않을 것”이라고 말했다. 사내에서는 직원 약 85%가 매일 AI를 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Tonies는 2027년 최소 두 개 국가에 새로 진출하고, 2030년까지 모든 주요 지역에 들어가는 것이 목표다."
+                "x": "2026년 CEATL 설문을 보면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"한다. 응답자의 37%가 직업을 바꿀지 고민 중이고, 약 30%는 AI 때문에 일감이 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tonies、AI朗読を試行\nだがAI玩具は否定",
-          "body": "Toniesは3,000世帯でAIの語り手を試したが、CEOはAI玩具化を否定する。",
-          "mini_headline": "ToniesがAIに引く一線",
+          "headline": "翻訳家支援は手厚いが\nAIで揺らぐ",
+          "body": "フランドルの翻訳助成機関はAIを辞書のような道具とし、ユーモアや感情、声は扱えないとする。",
+          "mini_headline": "AIに揺れる翻訳家",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "Frankfurter BuchmesseのGlobal 50 CEO Talk 2026で、ToniesのCEO、Tobias Wannは、今年の売上高を約€800m(8億ユーロ)と見込み、これまでにボックス約1,200万台、フィギュア1,700万体以上を販売したと述べた。"
+                "x": "現時点で、ヨーロッパの翻訳家は全面的な支援を受けている。だがAIの台頭で、その状況は危うい。2026年のFrankfurter Buchmesseで、25カ国の30メンバーからなるEuropean Network for Literary Translation（ENLIT）のメンバーが、翻訳支援の仕組みを説明した。2025年には60言語の4,000冊を超える本が、平均約€2,900の助成を受けた。"
               },
               {
                 "t": "p",
-                "x": "Toniesは「Sleepy Friends」シリーズなどオリジナルIPの開発を進めているが、カタログの大半は依然としてライセンス作品で、パートナーが制作をTonies Studioに任せるケースも増えている。"
+                "x": "Flanders LiteratureのElise Vanoosthuyseは、AIは辞書のように道具として使えると述べた。「今のところAIには、ユーモアや感情、適切な声を与えるといったことはできない」。Flanders Literatureは助成契約へのAI条項の導入を検討しており、Institut Ramon Llullは翻訳は人間が行うべきだと強調する方針だ。"
               },
               {
                 "t": "p",
-                "x": "AIナレーションについて、Wannは慎重だった。Toniesは閉じた環境の中で、子どもの名前、年齢、興味からパーソナライズされた物語を生成するAI「語り手(storyteller)」を3,000世帯で試験した。しかし親の懐疑的な見方に触れ、「Toniebox自体がAI玩具になることは決してない」と語った。社内では従業員の約85%が日常的にAIを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "Toniesは2027年に少なくとも二カ国に新たに進出し、2030年までにすべての主要地域での展開を目指す。"
+                "x": "2026年のCEATLの調査では、文芸翻訳の業界は生成AIに「圧倒的に警戒的」だった。回答者の37%が転職を検討しており、約30%がAIのせいで仕事が減ったという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tonies试水AI讲故事\n但不做AI玩具",
-          "body": "Tonies在3,000个家庭试用AI讲故事，但CEO称Toniebox绝不成为AI玩具。",
-          "mini_headline": "Tonies为AI划线",
+          "headline": "译者获鼎力支持\n但AI让局面脆弱",
+          "body": "一家佛兰德翻译资助机构称AI是类似词典的工具，仍无法处理幽默、情感和语气。",
+          "mini_headline": "AI让译者不安",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "在Frankfurter Buchmesse的Global 50 CEO Talk 2026上，Tonies CEO Tobias Wann表示，公司预计今年营收约€800m（8亿欧元），已售出约1200万台盒子和超过1700万个人偶。"
+                "x": "眼下，欧洲的译者正获得全力支持，但随着AI兴起，形势并不稳固。在2026年Frankfurter Buchmesse上，由25个国家30个成员组成的European Network for Literary Translation（ENLIT）的成员介绍了他们如何支持翻译。2025年，60种语言的4,000多本书获得资助，平均资助额约€2,900。"
               },
               {
                 "t": "p",
-                "x": "Tonies正在开发更多“Sleepy Friends”系列等原创IP，但授权内容仍占目录的大部分，合作伙伴也越来越多地将制作交给Tonies Studio。"
+                "x": "Flanders Literature的Elise Vanoosthuyse表示，AI可以像词典一样当作工具使用。“目前AI还做不到幽默、情感，或赋予恰当的声音。”Flanders Literature正考虑在资助合同中加入AI条款；Institut Ramon Llull将强调翻译必须由人完成。"
               },
               {
                 "t": "p",
-                "x": "谈及AI旁白，Wann态度审慎。Tonies曾在3,000个家庭中试用AI“讲故事者”（storyteller），在封闭环境中根据孩子的姓名、年龄和兴趣生成个性化故事。但他指出家长心存疑虑，并表示“Toniebox本身永远不会成为AI玩具”。在公司内部，约85%的员工每天使用AI。"
-              },
-              {
-                "t": "p",
-                "x": "Tonies将于2027年进入至少两个新国家，目标是到2030年覆盖所有主要地区。"
+                "x": "2026年CEATL的一项调查发现，文学翻译界对生成式AI“极度警惕”：37%的受访者正考虑转行，约30%的人因AI而接到的活儿变少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tonies ensaya un narrador de IA\npero descarta un juguete con IA",
-          "body": "Tonies probó un narrador con IA en 3,000 hogares, pero su CEO afirma que la Toniebox nunca será un juguete de IA.",
-          "mini_headline": "Tonies marca un límite a la IA",
+          "headline": "El apoyo a los traductores es\nsólido, pero frágil por la IA",
+          "body": "Flanders Literature ve la IA como una herramienta tipo diccionario que aún no capta humor, emoción ni voz.",
+          "mini_headline": "La IA inquieta a los traductores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tobias Wann, CEO de Tonies"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "En el Global 50 CEO Talk 2026 de la Frankfurter Buchmesse, el CEO de Tonies, Tobias Wann, dijo que la empresa prevé ingresos de unos €800m este año y que ha vendido unos 12 millones de cajas y más de 17 millones de figuras."
+                "x": "Por ahora, los traductores en Europa reciben un apoyo decidido. Pero con el auge de la IA, la situación es precaria. En la Frankfurter Buchmesse 2026, miembros de la European Network for Literary Translation (ENLIT), con 30 miembros de 25 países, explicaron cómo apoyan la traducción. En 2025, más de 4,000 libros en 60 idiomas recibieron ayudas de unos €2,900 de media."
               },
               {
                 "t": "p",
-                "x": "Tonies desarrolla más IP original, como su línea “Sleepy Friends”, pero el material con licencia sigue siendo la mayor parte del catálogo, y los socios confían cada vez más la producción a Tonies Studio."
+                "x": "Elise Vanoosthuyse, de Flanders Literature, dijo que la IA puede usarse como una herramienta, al modo de un diccionario. “Por ahora la IA no puede hacer cosas como el humor, la emoción o dar con la voz adecuada”. Flanders Literature estudia incluir una cláusula sobre IA en los contratos de ayudas; el Institut Ramon Llull insistirá en que las traducciones deben hacerlas personas."
               },
               {
                 "t": "p",
-                "x": "Sobre la narración con IA (AI), Wann se mostró prudente. Tonies probó un “narrador” (storyteller) con IA en 3,000 hogares, que generaba historias personalizadas a partir del nombre, la edad y los intereses del niño en un entorno cerrado. Pero “la propia Toniebox nunca se convertirá en un juguete de IA”, dijo, en alusión al escepticismo de los padres. Internamente, alrededor del 85% de la plantilla usa IA a diario."
-              },
-              {
-                "t": "p",
-                "x": "Tonies entrará en al menos dos nuevos países en 2027, con el objetivo de estar presente en todas las grandes regiones para 2030."
+                "x": "Una encuesta de CEATL de 2026 halló que la comunidad de traducción literaria se muestra “abrumadoramente recelosa” ante la IA generativa: el 37% de los encuestados se plantea cambiar de profesión y alrededor del 30% ha visto menos encargos por culpa de la IA."
               }
             ]
           }
@@ -1586,125 +1035,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tonies AI 실험,\nAI 장난감엔 선 긋기",
-          "body": "Tonies는 AI 화자를 3,000가구에서 시험했지만 AI 장난감은 거부한다.",
-          "mini_headline": "Tonies가 그은 AI의 선",
+          "headline": "번역가 지원은 탄탄하지만\nAI로 흔들린다",
+          "body": "플랑드르 기관은 AI가 사전 같은 도구일 뿐 유머·감정·목소리는 못 낸다고 봤다.",
+          "mini_headline": "번역가 흔드는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "Frankfurter Buchmesse의 Global 50 CEO Talk 2026에서 Tonies CEO Tobias Wann은 올해 매출이 약 €800m(8억 유로)에 이를 것으로 예상하며, 지금까지 박스 약 1,200만 대와 피규어 1,700만 개 이상을 판매했다고 밝혔다."
+                "x": "지금 유럽의 번역가들은 전폭적인 지원을 받고 있다. 하지만 AI가 부상하면서 상황은 불안하다. 2026 Frankfurter Buchmesse에서 25개국 30개 회원으로 이뤄진 European Network for Literary Translation(ENLIT)의 회원들이 번역 지원 방식을 설명했다. 2025년에는 60개 언어로 된 4,000권이 넘는 책이 평균 약 €2,900의 보조금을 받았다."
               },
               {
                 "t": "p",
-                "x": "Tonies는 “Sleepy Friends” 라인 같은 오리지널 IP 개발을 늘리고 있지만, 카탈로그의 대부분은 여전히 라이선스 콘텐츠다. 파트너사들은 제작을 Tonies Studio에 맡기는 경우가 늘고 있다."
+                "x": "Flanders Literature의 Elise Vanoosthuyse는 AI를 사전처럼 도구로 쓸 수 있다고 말했다. \"지금은 AI가 유머나 감정, 알맞은 목소리를 내는 일을 하지 못한다.\" Flanders Literature는 보조금 계약에 AI 조항을 넣는 방안을 검토하고 있고, Institut Ramon Llull은 번역은 사람이 해야 한다는 점을 강조할 계획이다."
               },
               {
                 "t": "p",
-                "x": "AI 내레이션에 대해 Wann은 신중했다. Tonies는 폐쇄된 환경에서 아이의 이름, 나이, 관심사를 바탕으로 맞춤형 이야기를 만드는 AI “이야기꾼(storyteller)”을 3,000가구에서 시험했다. 하지만 그는 부모들의 회의적인 시각을 언급하며 “Toniebox 자체는 결코 AI 장난감이 되지 않을 것”이라고 말했다. 사내에서는 직원의 약 85%가 매일 AI를 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "Tonies는 2027년 최소 두 개 국가에 새로 진출하고, 2030년까지 모든 주요 지역에 진출하는 것을 목표로 한다."
+                "x": "2026년 CEATL 설문에 따르면 문학 번역계는 생성형 AI를 \"압도적으로 경계\"하고 있다. 응답자의 37%가 직업 전환을 고려하고 있고, 약 30%는 AI 때문에 일감이 줄었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tonies、AI朗読を試行\nだがAI玩具は否定",
-          "body": "Toniesは3,000世帯でAIの語り手を試したが、CEOはAI玩具化を否定する。",
-          "mini_headline": "ToniesがAIに引く一線",
+          "headline": "翻訳家支援は手厚いが\nAIで揺らぐ",
+          "body": "フランドルの翻訳助成機関はAIを辞書のような道具とし、ユーモアや感情、声は扱えないとする。",
+          "mini_headline": "AIに揺れる翻訳家",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "Frankfurter BuchmesseのGlobal 50 CEO Talk 2026で、ToniesのCEO、Tobias Wannは、今年の売上高を約€800m(8億ユーロ)と見込み、これまでにボックス約1,200万台、フィギュア1,700万体以上を販売したと述べた。"
+                "x": "現時点で、ヨーロッパの翻訳家は全面的な支援を受けている。だがAIの台頭で、その状況は危うい。2026年のFrankfurter Buchmesseで、25カ国の30メンバーからなるEuropean Network for Literary Translation（ENLIT）のメンバーが、翻訳支援の仕組みを説明した。2025年には60言語の4,000冊を超える本が、平均約€2,900の助成を受けた。"
               },
               {
                 "t": "p",
-                "x": "Toniesは「Sleepy Friends」シリーズなどオリジナルIPの開発を進めているが、カタログの大半は依然としてライセンス作品で、パートナーが制作をTonies Studioに任せるケースも増えている。"
+                "x": "Flanders LiteratureのElise Vanoosthuyseは、AIは辞書のように道具として使えると述べた。「今のところAIには、ユーモアや感情、適切な声を与えるといったことはできない」。Flanders Literatureは助成契約へのAI条項の導入を検討しており、Institut Ramon Llullは翻訳は人間が行うべきだと強調する方針だ。"
               },
               {
                 "t": "p",
-                "x": "AIナレーションについて、Wannは慎重だった。Toniesは閉じた環境の中で、子どもの名前、年齢、興味からパーソナライズされた物語を生成するAI「語り手(storyteller)」を3,000世帯で試験した。しかし親の懐疑的な見方に触れ、「Toniebox自体がAI玩具になることは決してない」と語った。社内では従業員の約85%が日常的にAIを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "Toniesは2027年に少なくとも二カ国に新たに進出し、2030年までにすべての主要地域での展開を目指す。"
+                "x": "2026年のCEATLの調査では、文芸翻訳の業界は生成AIに「圧倒的に警戒的」だった。回答者の37%が転職を検討しており、約30%がAIのせいで仕事が減ったという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tonies试水AI讲故事\n但不做AI玩具",
-          "body": "Tonies在3,000个家庭试用AI讲故事，但CEO称Toniebox绝不成为AI玩具。",
-          "mini_headline": "Tonies为AI划线",
+          "headline": "译者获鼎力支持\n但AI让局面脆弱",
+          "body": "一家佛兰德翻译资助机构称AI是类似词典的工具，仍无法处理幽默、情感和语气。",
+          "mini_headline": "AI让译者不安",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tonies CEO Tobias Wann"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "在Frankfurter Buchmesse的Global 50 CEO Talk 2026上，Tonies CEO Tobias Wann表示，公司预计今年营收约€800m（8亿欧元），已售出约1200万台盒子和超过1700万个人偶。"
+                "x": "眼下，欧洲的译者正获得全力支持，但随着AI兴起，形势并不稳固。在2026年Frankfurter Buchmesse上，由25个国家30个成员组成的European Network for Literary Translation（ENLIT）的成员介绍了他们如何支持翻译。2025年，60种语言的4,000多本书获得资助，平均资助额约€2,900。"
               },
               {
                 "t": "p",
-                "x": "Tonies正在开发更多“Sleepy Friends”系列等原创IP，但授权内容仍占目录的大部分，合作伙伴也越来越多地将制作交给Tonies Studio。"
+                "x": "Flanders Literature的Elise Vanoosthuyse表示，AI可以像词典一样当作工具使用。“目前AI还做不到幽默、情感，或赋予恰当的声音。”Flanders Literature正考虑在资助合同中加入AI条款；Institut Ramon Llull将强调翻译必须由人完成。"
               },
               {
                 "t": "p",
-                "x": "谈及AI旁白，Wann态度审慎。Tonies曾在3,000个家庭中试用AI“讲故事者”（storyteller），在封闭环境中根据孩子的姓名、年龄和兴趣生成个性化故事。但他指出家长心存疑虑，并表示“Toniebox本身永远不会成为AI玩具”。在公司内部，约85%的员工每天使用AI。"
-              },
-              {
-                "t": "p",
-                "x": "Tonies将于2027年进入至少两个新国家，目标是到2030年覆盖所有主要地区。"
+                "x": "2026年CEATL的一项调查发现，文学翻译界对生成式AI“极度警惕”：37%的受访者正考虑转行，约30%的人因AI而接到的活儿变少。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tonies ensaya un narrador de IA\npero descarta un juguete con IA",
-          "body": "Tonies probó un narrador con IA en 3,000 hogares, pero su CEO afirma que la Toniebox nunca será un juguete de IA.",
-          "mini_headline": "Tonies marca un límite a la IA",
+          "headline": "El apoyo a los traductores es\nsólido, pero frágil por la IA",
+          "body": "Flanders Literature ve la IA como una herramienta tipo diccionario que aún no capta humor, emoción ni voz.",
+          "mini_headline": "La IA inquieta a los traductores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM-1080x705.png",
-                "cap": "Tobias Wann, CEO de Tonies"
+                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
               },
               {
                 "t": "p",
-                "x": "En el Global 50 CEO Talk 2026 de la Frankfurter Buchmesse, el CEO de Tonies, Tobias Wann, dijo que la empresa prevé ingresos de unos €800m este año y que ha vendido unos 12 millones de cajas y más de 17 millones de figuras."
+                "x": "Por ahora, los traductores en Europa reciben un apoyo decidido. Pero con el auge de la IA, la situación es precaria. En la Frankfurter Buchmesse 2026, miembros de la European Network for Literary Translation (ENLIT), con 30 miembros de 25 países, explicaron cómo apoyan la traducción. En 2025, más de 4,000 libros en 60 idiomas recibieron ayudas de unos €2,900 de media."
               },
               {
                 "t": "p",
-                "x": "Tonies desarrolla más IP original, como su línea “Sleepy Friends”, pero el material con licencia sigue siendo la mayor parte del catálogo, y los socios confían cada vez más la producción a Tonies Studio."
+                "x": "Elise Vanoosthuyse, de Flanders Literature, dijo que la IA puede usarse como una herramienta, al modo de un diccionario. “Por ahora la IA no puede hacer cosas como el humor, la emoción o dar con la voz adecuada”. Flanders Literature estudia incluir una cláusula sobre IA en los contratos de ayudas; el Institut Ramon Llull insistirá en que las traducciones deben hacerlas personas."
               },
               {
                 "t": "p",
-                "x": "Sobre la narración con IA (AI), Wann se mostró prudente. Tonies probó un “narrador” (storyteller) con IA en 3,000 hogares, que generaba historias personalizadas a partir del nombre, la edad y los intereses del niño en un entorno cerrado. Pero “la propia Toniebox nunca se convertirá en un juguete de IA”, dijo, en alusión al escepticismo de los padres. Internamente, alrededor del 85% de la plantilla usa IA a diario."
-              },
-              {
-                "t": "p",
-                "x": "Tonies entrará en al menos dos nuevos países en 2027, con el objetivo de estar presente en todas las grandes regiones para 2030."
+                "x": "Una encuesta de CEATL de 2026 halló que la comunidad de traducción literaria se muestra “abrumadoramente recelosa” ante la IA generativa: el 37% de los encuestados se plantea cambiar de profesión y alrededor del 30% ha visto menos encargos por culpa de la IA."
               }
             ]
           }

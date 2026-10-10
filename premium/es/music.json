@@ -6191,6 +6191,122 @@
           "x": "“Planeamos ampliarnos a un negocio de representación en el que las canciones de AI con buena acogida sean interpretadas por cantantes reales, tras una estrecha consulta con expertos y creadores”."
         }
       ]
+    },
+    "music/suno-live-songkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Parte del acuerdo de licencias que Suno firmó con Warner Music Group en noviembre pasado incluía la adquisición de Songkick, una plataforma para descubrir conciertos. En su momento pareció una rareza (¿qué tiene que ver una plataforma de generación de música con AI con los conciertos?), pero ahora veremos cómo funcionará esta relación en apariencia tan dispar."
+        },
+        {
+          "t": "p",
+          "x": "Suno ha creado un nuevo departamento llamado Suno Live Experiences, que dirigirá el ex-Ticketmaster VP Michael Chua como VP y director general. Parte del trabajo de Chua consistirá en supervisar Songkick."
+        },
+        {
+          "t": "p",
+          "x": "Suno se presenta con insistencia como una plataforma para creativos y para quienes disfrutan de su trabajo. También ha insistido mucho en su objetivo de apoyar a los artistas emergentes (humanos) que usan las herramientas de AI de Suno para hacer música."
+        },
+        {
+          "t": "p",
+          "x": "El director de música de Suno, Paul Sinclair, dijo que el objetivo era convertir Suno en “la primera plataforma de entretenimiento creativo”, así que quizá la visión sea un servicio integral de creación musical AI-powered, branding, streaming y conexión con el público, y ahora también una vía hacia las experiencias en vivo."
+        }
+      ]
+    },
+    "music/grimes-psy-opera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "En abril, Grimes contó a Interview que había grabado un nuevo álbum AI-themed, Psy Opera. El comunicado del sencillo principal recién publicado, “Accelerando”, dice: “Desde el debate sobre la AI hasta las guerras inmorales, pasando por un mal ex, los looksmaxers y la importancia de la religión, Psy Opera abarcará todo lo que Grimes presenció como mujer de la historia durante su pausa de la música pop”. Aún no hay fecha de lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "La canción llega con un inquietante videoclip en el que Grimes aparece envuelta en cadenas, quemada en la hoguera y empuñando un arma en medio de una batalla de androides."
+        },
+        {
+          "t": "video",
+          "yt": "AVu5p2DMIf8"
+        },
+        {
+          "t": "p",
+          "x": "Grimes defiende desde hace tiempo la AI en la música. En 2024 calificó la AI de “oportunidad” para los músicos en la serie de PBS A Brief History of the Future; el año anterior, ofreció un 50 por ciento de regalías a quien creara una canción AI-generated exitosa con su voz."
+        },
+        {
+          "t": "p",
+          "x": "También mostró un tráiler de Psy Opera con una relectura distópica y AI-themed del Evangelio de Juan (Gospel of John). Psy Opera es su primer álbum en seis años, tras Miss Anthropocene de 2020, y el primero en su propio sello, Nazgul Recording LLC."
+        }
+      ]
+    },
+    "music/fender-site-ai-tool": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Desde hace tiempo, Fender es mucho más que un fabricante de instrumentos. En la última década hemos escrito sobre sus pasos en la educación musical, su app de creación musical Fender Studio o su programa de desarrollo de artistas Fender Next, por ejemplo. (Y sí, también sobre un proyecto de VR con forma de guitarra, ‘Stratoverse’, junto a Meta en 2022, que hoy parece muy ‘de su época’). El último movimiento digital de la compañía es la renovación de su web principal, con el objetivo de que se perciba como mucho más que un lugar para comprar instrumentos en línea."
+        },
+        {
+          "t": "p",
+          "x": "Entre las novedades figura una herramienta impulsada por IA (AI-powered) llamada ‘Ask Fender’, que se lanzará primero en Estados Unidos (US) y que, según se describe, está “diseñada para ayudar a los músicos a descubrir el instrumento adecuado según su estilo de interpretación, su experiencia y sus necesidades”. La nueva web también ofrecerá más contenido de artistas, empezando por una serie de cinco conciertos llamada ‘The One. For New York’, que arranca la semana que viene (14 de octubre). El área educativa Fender Play formará parte de la nueva web, al igual que una nueva sección donde los visitantes podrán escuchar el sonido de instrumentos y amplificadores mientras los exploran."
+        },
+        {
+          "t": "p",
+          "x": "“Más allá de una plataforma de ecommerce tradicional, es un lugar donde la gente puede descubrir nuevo equipo, encontrar lo que le conviene y conectar con la marca”, prometió Kelly Magrath, directora de marketing interina."
+        }
+      ]
+    },
+    "music/arxiv-ai-music-plagiarism-vi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La rápida expansión de los modelos generativos text-to-music desafía los paradigmas tradicionales de la creación musical y la propiedad intelectual. En este contexto, el plagio rara vez es un binario matemático absoluto, sino un umbral ambiguo que se negocia en torno a la estructura armónica, los contornos melódicos o el carácter estilístico percibido en conjunto."
+        },
+        {
+          "t": "p",
+          "x": "En este trabajo, ponemos a prueba la transferibilidad de las arquitecturas más avanzadas de identificación de versiones musicales desde el dominio de las versiones entre humanos al escenario de plagio human-to-AI (de humano a IA). Para evaluar esta tarea, presentamos COPYCAT, un benchmark derivado de casos reales de plagio y ampliado mediante re-síntesis generativa y ofuscaciones de procesamiento digital de señales, que da lugar a 350,654 pares de evaluación."
+        },
+        {
+          "t": "p",
+          "x": "Mostramos que la umbralización por distancia escalar se desmorona ante la re-síntesis generativa, mientras que un marco supervisado que aprovecha desplazamientos de embeddings coordenada a coordenada recupera la señal de plagio dispersa y eleva el F0.5 global de 0.612 a 0.803."
+        }
+      ]
+    },
+    "music/music-smith-sentenced": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+        },
+        {
+          "t": "p",
+          "x": "Un músico de EE. UU. (US) pasará un año y medio en prisión por idear un esquema de fraude de streaming con IA (AI) que le reportó más de 8 millones de dólares en regalías."
+        },
+        {
+          "t": "p",
+          "x": "El 6 de octubre, la Fiscalía de EE. UU. para el Distrito Sur de Nueva York (US Attorney's Office for the Southern District of New York) confirmó que Michael Smith, que se declaró culpable en marzo, cumplirá 18 meses y deberá entregar $8,091,843.64."
+        },
+        {
+          "t": "p",
+          "x": "Según los investigadores, entre 2017 y 2024 Smith usó cuentas bot para generar miles de millones de reproducciones de música de IA en Spotify, Apple Music, Amazon Music y YouTube Music. Lo que empezó como reproducciones de su propia música se convirtió en un plan para subir cientos de miles de pistas generadas por IA (AI-generated), que solo en YouTube Music sumaron más de 80 millones de reproducciones en abril de 2023. La fiscalía cree que acumuló 14 millones de dólares en total."
+        },
+        {
+          "t": "p",
+          "x": "El fiscal federal (US Attorney) Jamie McDonald afirmó que Smith inundó las plataformas “con bots automatizados en lugar de consumidores y canciones falsas en lugar de creatividad”, con lo que robó regalías a artistas genuinos."
+        },
+        {
+          "t": "p",
+          "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
+        }
+      ]
     }
   }
 }

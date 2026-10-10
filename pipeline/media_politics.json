@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-10",
-  "section": "politics",
-  "media": [
-    {
-      "id": "eu-ai-panel-loss-of-control",
-      "type": "image",
-      "src": "pipeline/media/eu-ai-panel-loss-of-control.jpg"
-    },
-    {
-      "id": "openai-false-front-ops",
-      "type": "image",
-      "src": "pipeline/media/openai-false-front-ops.png"
-    },
-    {
-      "id": "enisa-jrc-chinese-models",
-      "type": "image",
-      "src": "pipeline/media/enisa-jrc-chinese-models.jpg"
-    },
-    {
-      "id": "park-wansu-deepfake-election-probe",
-      "type": "image",
-      "src": "pipeline/media/park-wansu-deepfake-election-probe.jpg"
-    },
-    {
-      "id": "yandex-ai-datacenter-strike",
-      "type": "image",
-      "src": "pipeline/media/yandex-ai-datacenter-strike.jpg"
-    }
-  ]
-}
+{"date":"2026-10-11","section":"politics","media":[
+{"id":"sif-incident-duty","type":"image","src":"pipeline/media/sif-incident-duty.jpg"},
+{"id":"uber-gdpr-art22-fine","type":"image","src":"pipeline/media/uber-gdpr-art22-fine.jpg"},
+{"id":"ai-labs-backlash-plans","type":"image","src":"pipeline/media/ai-labs-backlash-plans.jpg"},
+{"id":"artex-pentest-pulled","type":"image","src":"pipeline/media/artex-pentest-pulled.jpg"},
+{"id":"china-speed-first-safety","type":"image","src":"pipeline/media/china-speed-first-safety.jpg"}
+]}

@@ -529,6 +529,133 @@
           "x": "Meta trabaja con Shopify en un pago directo a través de Meta Business Agent en Messenger, y prueba opciones de pago similares para Meta AI con Adyen, PayPal, Shopify y Stripe."
         }
       ]
+    },
+    "marketing/agency-agentic-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Dentsu anunció que su agencia de medios Carat se asocia con NBC Universal, Freewheel y la firma de AI Newton para lanzar un agente de planificación, compra y optimización destinado a las inversiones de upfront. Tinuiti lanzó un “Bliss Point Model Context Protocol (MCP) Server”, que abre su capa de medición directamente a los agentes de AI. Stagwell relanzó su agencia de medios Assembly como Stagwell Media, cuya pieza central es un sistema agéntico llamado Machine OS."
+        },
+        {
+          "t": "p",
+          "x": "Pero no todos los clientes están de acuerdo con avanzar tan rápido, y la respuesta de las agencias al temor a los agentes descontrolados es, casi siempre, el acompañamiento humano. “Todo sigue requiriendo supervisión humana”, dijo Rebekah Shalit, responsable de plataformas en Dentsu. David Dworin, de Freewheel, dijo que la mayoría de los sistemas agénticos están diseñados con una persona que debe aprobarlo todo, o con controles muy específicos."
+        },
+        {
+          "t": "p",
+          "x": "Lauren Wetzel, de WPP Media, dijo que se requieren “controles explícitos, umbrales de aprobación y supervisión humana responsable” cuando hay un impacto financiero o de activación. La directora de inversiones de Carat, Carrie Drinkwater, se mostró más optimista: “Si no empezamos ahora, nos quedaremos atrás”."
+        }
+      ]
+    },
+    "marketing/ai-max-bidding-math": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+          "cap": "El cambio de Google del 17 de agosto devuelve un ROAS del 400% hacia un objetivo del 200% mientras los ingresos de Search suben un 17%"
+        },
+        {
+          "t": "p",
+          "x": "La edición especial de PPC Land sostiene que Google optimiza para los ingresos de Google, mientras que los anunciantes deben optimizar para los suyos. Desde el 17 de agosto, las campañas de Target CPA y Target ROAS limitadas por presupuesto que superan sus objetivos se ven devueltas hacia ellos; las que se exceden en coste se dejan como están."
+        },
+        {
+          "t": "p",
+          "x": "El análisis de Mike Ryan sobre 383 millones de impresiones halló que, para julio de 2026, AI Max ampliaba aproximadamente el 29% de lo que los anunciantes compraban como concordancia exacta. Otros estudios sitúan el retorno de la inversión publicitaria de AI Max en torno a un 35% por debajo del de los tipos de concordancia tradicionales."
+        },
+        {
+          "t": "p",
+          "x": "Las propias cifras de Google han cambiado: AI Max se lanzó el 6 de mayo de 2025 con la promesa de un 14% más de conversiones o valor de conversión a un coste similar. En el anuncio de disponibilidad general de abril de 2026, la cifra era del 7%, según datos internos de Google de 2026 que excluyen el comercio minorista. Más tarde, una guía para las fiestas usó un 15%, con otra definición."
+        },
+        {
+          "t": "p",
+          "x": "Mientras tanto, los ingresos de Search de Alphabet crecieron un 17% en el segundo trimestre, hasta 63.27 mil millones de dólares. Los anunciantes, concluye PPC Land, tienen cada vez más que juzgar los resultados con instrumentos que Google no fabrica."
+        }
+      ]
+    },
+    "marketing/regulated-ads-ai-defaults": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+        },
+        {
+          "t": "p",
+          "x": "Para los profesionales de medios pagados en sanidad, finanzas o el ámbito legal, la AI enciende alertas, desde la caja negra de la puja automatizada hasta las creatividades generadas por AI (AI-generated). Conozca las políticas de su empresa y las pautas del sector, y tenga cuidado con los datos que introduce en herramientas de AI."
+        },
+        {
+          "t": "p",
+          "x": "La personalización de texto de AI Max puede incorporar textos de anuncio que no coinciden con los mensajes aprobados, y la expansión de URL final puede enlazar a páginas no deseadas. Si prueba AI Max, considere desactivar ambas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+          "cap": "Captura de pantalla de Google Ads, octubre de 2026"
+        },
+        {
+          "t": "p",
+          "x": "Performance Max tiene Asset Optimization a nivel de campaña para texto, imagen y vídeo; Demand Gen cuenta con ajustes similares a nivel de anuncio, incluidos vídeos generados que pueden omitir avisos legales. Las mejoras creativas de Advantage+ de Meta pueden cambiar colores, tipografías y diseño."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+          "cap": "Captura de pantalla de Google Ads, octubre de 2026"
+        },
+        {
+          "t": "p",
+          "x": "La segmentación Advantage+ de Meta y la segmentación optimizada de Google pueden llevar los anuncios fuera de la audiencia prevista, y la puja automatizada puede plantear problemas de sesgo algorítmico, como las normas de préstamo justo. Revise dónde puede la AI alterar creatividades aprobadas por cumplimiento normativo y añada salvaguardas."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-holiday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Las marcas no esperan que los anuncios de ChatGPT les regalen ventas significativas en esta temporada de fiestas. Además del elevado coste por clic y de unas ventas sin demostrar, los asistentes de AI todavía se están consolidando como fuente fiable de recomendaciones de productos."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de Sensor Tower muestran que más de 1,400 anunciantes únicos publicaron anuncios en ChatGPT en agosto, un 8% más que el mes anterior, aunque la mayor parte del gasto procede de grandes empresas como Capital One, Expedia y Cloudflare."
+        },
+        {
+          "t": "p",
+          "x": "“En general, los resultados han sido bastante malos”, dijo Terence Einhorn, de Measured. “El equivalente al coste por clic en ChatGPT es de alrededor de 6X el de Google”. Anders Bill, de Superfiliate, dijo que la mayoría de las marcas aún no está retirando presupuestos significativos de Meta ni de búsqueda."
+        },
+        {
+          "t": "p",
+          "x": "“Las marcas no pueden permitirse usar algo hasta saber que funciona”, añadió Einhorn. “Y no van a saber que funciona hasta que lo usen”."
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-ads-agency-partner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI busca un vendedor con el encargo de convertir los anuncios de ChatGPT en una partida fija de los planes de medios de las agencias."
+        },
+        {
+          "t": "p",
+          "x": "Una oferta para un puesto de Agency Partner en el equipo de Ads Solutions de la compañía pide a alguien que impulse los ingresos de anunciantes “mediante relaciones estratégicas con los principales holdings de agencias”. El puesto, con sede en New York, ofrece un salario base de $216,000 a $273,000, más acciones y comisiones."
+        },
+        {
+          "t": "p",
+          "x": "La persona contratada dirigirá la planificación conjunta de negocio con las agencias, se encargará de la formación y capacitación de agencias y creará relaciones con altos cargos de inversión, estrategia, planificación, innovación, datos y comercio, tanto en agencias independientes como en holdings."
+        },
+        {
+          "t": "p",
+          "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
+        }
+      ]
     }
   }
 }

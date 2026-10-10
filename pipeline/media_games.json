@@ -1,31 +1,34 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "games",
   "media": [
     {
-      "id": "kotaku-vibe-browser-ports",
-      "type": "image",
-      "src": "pipeline/media/kotaku-vibe-browser-ports.jpg"
+      "id": "thrixel-hanocka-3d",
+      "type": "video",
+      "src": "pipeline/media/thrixel-hanocka-3d.mp4",
+      "poster": "pipeline/media/thrixel-hanocka-3d.jpg"
     },
     {
-      "id": "sister-driving-llm-cost",
+      "id": "ea-javelin-ai-aimbots",
       "type": "image",
-      "src": "pipeline/media/sister-driving-llm-cost.jpg"
+      "src": "pipeline/media/ea-javelin-ai-aimbots.jpg"
     },
     {
-      "id": "dreamlands-1-0-public",
-      "type": "image",
-      "src": "pipeline/media/dreamlands-1-0-public.jpg"
+      "id": "black-myth-zhongkui-no-ai",
+      "type": "video",
+      "src": "pipeline/media/black-myth-zhongkui-no-ai.mp4",
+      "poster": "pipeline/media/black-myth-zhongkui-no-ai.jpg"
     },
     {
-      "id": "kutaragi-ai-daydreams",
-      "type": "image",
-      "src": "pipeline/media/kutaragi-ai-daydreams.jpg"
+      "id": "aion2-steam-ai-reviews",
+      "type": "video",
+      "src": "pipeline/media/aion2-steam-ai-reviews.mp4",
+      "poster": "pipeline/media/aion2-steam-ai-reviews.jpg"
     },
     {
-      "id": "krafton-snu-world-model",
+      "id": "google-playground-ai-games",
       "type": "image",
-      "src": "pipeline/media/krafton-snu-world-model.jpg"
+      "src": "pipeline/media/google-playground-ai-games.jpg"
     }
   ]
 }

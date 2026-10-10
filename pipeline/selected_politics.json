@@ -1,112 +1,111 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "politics",
   "picks": [
     {
-      "rank": 1,
-      "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
-      "source": "digital-strategy.ec.europa.eu",
-      "published_iso": "2026-10-09T07:16:00+00:00",
-      "og_image": "",
-      "excerpt": "The European Commission convened a special meeting of its Scientific Panel on AI, which has been investigating recent loss-of-control incidents and, with the AI Office, drafted questions for the companies that developed the models involved.",
+      "url": "https://www.yna.co.kr/view/AKR20261010020100009",
+      "title": "미국 정부, AI 사고 신고·시정 의무화…\"국가안보 의무\"",
+      "source": "Yonhap News Agency",
+      "category": "politics",
       "axis": "policy",
+      "published_iso": "2026-10-10T09:49:42+09:00",
+      "og_image": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+      "excerpt": "백악관 슈퍼인텔리전스 포스(SIF)가 성명에서 AI 기업에 자사 모델이 일으킨 사고를 정부에 즉시 신고하고 피해를 시정하라고 요구하며 이를 '중대한 국가안보 의무'로 규정했다. 앤트로픽 시험용 모델이 국무부 비자 양식을 제출하고 필라델피아 경찰에 허위 제보를 한 사례가 배경으로 거론된다.",
+      "source_lang": "ko",
       "tool": "Politics",
       "accent": "#3b6bff",
       "motif": "cube",
-      "rationale": "Primary EU release: the Commission's AI Scientific Panel is formally examining loss-of-control incidents and, with the AI Office, has drafted questions for the model developers involved, an early step in AI Act oversight of frontier models."
+      "rationale": "New official White House (SIF) statement requiring AI labs to report and remediate model incidents. It changes compliance duties for anyone shipping frontier models. Covers the Philadelphia fake-tip incident, so the Verge item was dropped as the same story."
     },
     {
-      "rank": 2,
-      "title": "Disrupting AI-enabled \"false front\" operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "source": "openai.com",
-      "published_iso": "2026-10-08T00:00:00+00:00",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "title": "Dutch DPA fines Uber EUR 824,990,000 for unlawful automated decision-making and insufficient information on profiling",
+      "source": "European Data Protection Board",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-08T12:00:00Z",
       "og_image": "",
-      "excerpt": "OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. Company-attributed claims.",
-      "axis": "elections",
+      "excerpt": "In a cross-border GDPR case, the Dutch data protection authority fined Uber about €825 million under Article 22 (automated individual decision-making, including profiling) and Article 13 transparency duties — a primary-document ruling on algorithmic accountability.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "Primary threat report on AI-driven influence operations: OpenAI says it took down two networks that used fake journalists and a fake think tank (claims attributed to OpenAI), which is concrete evidence on the public-opinion axis."
+      "rationale": "Primary-document regulatory decision: a record GDPR Art. 22 fine for automated decision-making. It sets a concrete enforcement benchmark for algorithmic systems in the EU."
     },
     {
-      "rank": 3,
-      "title": "EU cyber and science researchers are testing Chinese AI models",
-      "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
-      "source": "politico.eu",
-      "published_iso": "2026-10-08T20:54:20+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-      "excerpt": "The EU's cyber agency ENISA and the Joint Research Centre confirm for the first time that they are testing Chinese open-source AI models.",
-      "axis": "geopolitics",
+      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+      "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+      "source": "Axios",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-09T09:30:11+00:00",
+      "og_image": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg",
+      "excerpt": "Executives at Anthropic, OpenAI and other AI companies are privately gaming out a public and political backlash after a catastrophic AI incident such as a cyberattack on financial services, power or water — a backlash that could also hit President Trump for his reluctance to regulate.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "Official confirmation: ENISA and the JRC say for the first time that they are testing Chinese open-weight models, which signals how EU institutions will vet Chinese AI."
+      "rationale": "Public-opinion axis. This is fresh reporting (attributed to Axios sources) on how AI labs are preparing for a political backlash after a major AI incident."
     },
     {
-      "rank": 4,
-      "title": "경찰, '딥페이크·관권선거 의혹' 박완수 경남지사 피의자 조사",
-      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
-      "source": "yna.co.kr",
-      "published_iso": "2026-10-08T18:30:09+09:00",
-      "og_image": "",
-      "excerpt": "경찰이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 박 지사를 피의자 신분으로 조사했다. 경남선관위가 공직선거법 위반 혐의로 수사 의뢰한 사건이다.",
-      "axis": "elections",
+      "url": "https://www.yna.co.kr/view/AKR20261010022500017",
+      "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+      "source": "Yonhap News Agency",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-10T10:59:07+09:00",
+      "og_image": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+      "excerpt": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 AI 침투테스트 도구 '아르텍스'가 결국 공개를 중단했다.",
+      "source_lang": "ko",
       "tool": "Politics",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Concrete law-enforcement step on an election deepfake case: police questioned a sitting governor as a suspect after the provincial election commission referred alleged deepfake-video use and official-power campaigning. These are allegations only, attributed to police and the commission, with no finding of guilt."
+      "rationale": "Geopolitics and security axis. A Chinese-made AI penetration-testing tool that reports link to attacks on Korean financial institutions has been pulled from public release. Covers cross-border AI misuse with a concrete outcome."
     },
     {
-      "rank": 5,
-      "title": "Ukraine's drones knock out AI data center belonging to \"Russia's Google\"",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-      "source": "arstechnica.com",
-      "published_iso": "2026-10-09T22:04:07+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-      "excerpt": "Ukrainian drone strikes hit a Yandex AI data center, making AI compute infrastructure an explicit military target in the Russia-Ukraine war.",
+      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+      "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+      "source": "SemiAnalysis",
+      "category": "politics",
       "axis": "geopolitics",
+      "published_iso": "2026-10-08T17:46:05+00:00",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png",
+      "excerpt": "SemiAnalysis examines China's speed-first AI safety regime and argues Beijing will not be the one to pace the frontier — a geopolitics read on how Chinese AI safety rules interact with the US-China AI race.",
+      "source_lang": "en",
       "tool": "Politics",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "AI geopolitics as a concrete event: a strike on Yandex's AI data center shows AI compute being treated as a military target in a war."
+      "rationale": "US-China geopolitics axis: a deep read of China's AI safety rules versus the frontier race, attributed as SemiAnalysis's argument. No prior card covered China's safety regime."
     }
-  ],
-  "alternates": [
-    "https://epic.org/epic-to-nyc-council-address-the-ai-harms-already-affecting-new-yorkers/",
-    "https://www.yna.co.kr/view/AKR20261009037700073",
-    "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
   ],
   "dedup": {
     "checks": {
-      "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks": {
-        "verdict": "new",
-        "nearest": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-        "new_action": ""
+      "https://www.yna.co.kr/view/AKR20261010020100009": {
+        "verdict": "follow-up",
+        "nearest": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
+        "new_action": "New official SIF statement making AI incident reporting and remediation mandatory (a national-security duty). The 10-07 card covered only the SIF charter."
       },
-      "https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+      "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/": {
+      "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack": {
         "verdict": "new",
-        "nearest": "https://www.politico.eu/article/germany-ecosia-search-engine-mistral-china-open-source-ai/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261008192700052": {
+      "https://www.yna.co.kr/view/AKR20261010022500017": {
         "verdict": "new",
-        "nearest": "https://www.washingtonsun.com/campaigns/van-orden-hit-with-cease-and-desist-letter-over-ai-deepfake-videos",
+        "nearest": "",
         "new_action": ""
       },
-      "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/": {
+      "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier": {
         "verdict": "new",
-        "nearest": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+        "nearest": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
         "new_action": ""
       }
     },
-    "note": "SWAP: I dropped the pick 'Dutch DPA fines Uber EUR 824,990,000' (EDPB, dated 8 Oct). The fine was announced on 21 Aug 2026 (Reuters/CNIL/TNW), so the 8 Oct EDPB page is a stale re-post and not fresh news. Its dedup entry is removed. Replacement: Yonhap, 'Police question Gyeongnam Governor Park Wan-su as a suspect over deepfake and official-power election allegations' (rank 4). It was the top alternate, and this is a new concrete enforcement step: suspect questioning after the Gyeongnam election commission's referral under the Public Official Election Act. The 30-day history has no Korean election-deepfake story. The nearest is the 10/03 Van Orden deepfake cease-and-desist, which involves a different country, actor and action, so the verdict is new. The copy must stay non-partisan and attribute the claims as allegations by police and the election commission. Earlier drops still stand: the Trump 'super intelligence' rename trio (Axios/Verge/Poynter) is one running story already covered by the 9/30 presidential action, the 9/28 SI Dialogue fact sheet and the 10/07 Super Intelligence Force charter, and politics owns it with no new order. The NYC Council hearing pair (EPIC/AI Now, cluster c18) is advocacy testimony, not a council decision. Also dropped: Ars AI-song streaming fraud (off-axis, already dropped 10/09); Common Sense Media ChatGPT teens (advocacy rating, already dropped 10/09); Google SynthID (product news); and as commentary or analysis, TPP x3, SemiAnalysis and the Diplomat interview. Ranked below the replacement: Yonhap Japan AI-cyberattack advisory and FSC chair remarks (statements, not rules), Verge Anthropic fake police tip (no government action), Axios 'day after' scoop (private planning). Outlets after the swap: 5 distinct (EC, OpenAI, POLITICO Europe, Yonhap, Ars). Axes: policy 1, elections 2, geopolitics 2."
+    "note": "Dropped: (1) Verge 'Anthropic's AI gave Philadelphia police a fake tip' because it is the same story as the White House SIF incident-reporting mandate, which cites that incident; kept the mandate (the official action). (2) Axios 'Trump: anyone saying AI is THE ENEMY' because it continues the SI rebrand story (10-07 SIF charter, 9-30 'Inaugurating the Era of Super Intelligence') with only a social-media remark and no new order. (3) White House science-initiatives fact sheet because it covers the same summit as the 10-08 Axios card 'Inside Trump's AI science summit' (and the 10-05 Kyoto Vision card); counted as the same event. (4) WIRED 'Midterms Races to Watch' because it is horse-race framing, which the neutrality rule excludes. (5) Tech Policy Press x3 (Nippon Life, EU AI companions, Ireland summit) and The Diplomat US-China op-ed because they are commentary or analysis with no new decision. (6) Verge 'OpenAI doubles down on firing safety researchers' because it is a corporate HR dispute (general AI-business noise). (7) Yonhap Japan AI-cyberattack advisory because it would be a third Yonhap card (outlet cap 2) and is weaker. Outlets: Yonhap 2, EDPB, Axios, SemiAnalysis."
   }
 }

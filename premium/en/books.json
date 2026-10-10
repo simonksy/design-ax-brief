@@ -6052,6 +6052,99 @@
           "x": "The judgment is not final and may yet be appealed. Writing for PW, RELX’s Richard Mollett argues that copyright is not being steamrolled by AI: litigation and the parallel growth in licensing deals show rightsholders’ resolve."
         }
       ]
+    },
+    "books/fbf26-eu-ai-act-teeth": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+          "cap": "From left: Max Voegler, Gerhard Lauer, Wolf-Tilo Balke, Todd Carpenter, Elizabeth Crossick."
+        },
+        {
+          "t": "p",
+          "x": "A panel on preserving trust in science in the age of AI, held at Frankfurter Buchmesse on October 7, converged on one point: the EU AI Act gives publishers useful tools, but weak enforcement limits their value."
+        },
+        {
+          "t": "p",
+          "x": "Mainz professor Gerhard Lauer said AI cuts content up and feeds it into machines, eroding provenance and accountability. RELX's Elizabeth Crossick said the Act requires training-data transparency, a copyright policy respecting rights reservations, and labeling of AI content, but comes with 39 implementing and related texts and many \"very weak\" requirements, leaving AI companies little incentive to comply."
+        },
+        {
+          "t": "p",
+          "x": "NISO's Todd Carpenter pointed to standards such as the Trace project for tracking content provenance in AI systems, and argued for flexible rules. Crossick countered that litigation arrives after content has been taken, citing the Frankfurt Appeal and the EU copyright review."
+        }
+      ]
+    },
+    "books/fbf26-spotify-180-markets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "Spotify is rolling out its audiobook service worldwide, taking it from 22 markets to more than 180, potentially reaching more than 750 million people. The rollout begins in Colombia, Italy, Mexico, and Spain; Argentina, Brazil, Norway, and Poland follow on October 15, Portugal on November 12, and the remaining markets in batches through the end of 2026."
+        },
+        {
+          "t": "p",
+          "x": "Each new market launches with an English-language catalog of more than 350,000 titles. “In markets where we have rights, we will always lead with the local language first and foremost,” says Duncan Bruce, Spotify’s director of audiobook partnerships and licensing. Eventually the catalog will span more than 120 languages."
+        },
+        {
+          "t": "p",
+          "x": "Spotify sees AI narration as a possible way to speed the adaptation of some titles from print to audio, especially in languages where the market may be too small to justify a human narrator. “AI done responsibly can give authors and publishers the opportunity to launch an audiobook in local languages, which they may have never done or had the financial ability to do,” Bruce says. Self-published authors can upload titles through Spotify for Authors, and a partnership with ElevenLabs lets authors produce AI-narrated audiobooks."
+        },
+        {
+          "t": "p",
+          "x": "In existing markets, monthly audiobook listeners are up almost 39% in 2026 so far, and listening hours almost 32%. “Spotify is truly now a global books platform,” Bruce says."
+        }
+      ]
+    },
+    "books/enlit-translators-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png"
+        },
+        {
+          "t": "p",
+          "x": "For the moment, translators in Europe are getting wholehearted support. But with the rise of AI, the situation is tenuous. At the 2026 Frankfurter Buchmesse, members of the European Network for Literary Translation (ENLIT), with 30 members from 25 countries, explained how they support translation. In 2025 more than 4,000 books in 60 languages were supported with grants averaging around €2,900."
+        },
+        {
+          "t": "p",
+          "x": "Elise Vanoosthuyse of Flanders Literature said AI can be used like a tool, much like a dictionary. \"At the moment AI can't do things such as humor, or emotion, or giving the right voice.\" Flanders Literature is considering an AI clause in grant contracts; Institut Ramon Llull will stress that translations must be done by a human."
+        },
+        {
+          "t": "p",
+          "x": "A 2026 CEATL survey found the literary translation community \"overwhelmingly wary\" of generative AI: 37% of respondents are considering changing careers, and some 30% have seen fewer assignments due to AI."
+        }
+      ]
+    },
+    "books/books-audible-every-book-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG"
+        },
+        {
+          "t": "p",
+          "x": "At the Frankfurt Book Fair, Audible announced it will launch in Indonesia, South Korea, Denmark, Norway and Finland in 2027, building on the 11 marketplaces announced at the London Book Fair."
+        },
+        {
+          "t": "p",
+          "x": "NielsenIQ research for Audible, based on 18,000 listeners in 11 countries, found a third listened to more audio than the year before, and 51% said audio helped them replace screen-time entertainment."
+        },
+        {
+          "t": "p",
+          "x": "Chief content officer Rachel Ghiazza told PW the company offers more than 1.5 million titles, but the goal is that “every book is an audiobook in every language.”"
+        },
+        {
+          "t": "p",
+          "x": "Reaching that goal depends partly on technology. Audible expects to use AI tools across the entire production process, including an internal tool for narrator productions that “breaks down the book, it defines the character, it gives you the background.”"
+        },
+        {
+          "t": "p",
+          "x": "Productions will range from high-end multicast titles such as Harry Potter to niche or long-form works that “maybe don’t need the same production quality.” Half of survey respondents were open to AI-narrated content, from 42% in Germany to 66% in Japan."
+        }
+      ]
     }
   }
 }

@@ -1,32 +1,32 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "movies",
   "media": [
     {
-      "id": "nikon-small-world-ai-disqualified",
+      "id": "cukur-vartolu-prime-ai",
       "type": "image",
-      "src": "pipeline/media/nikon-small-world-ai-disqualified.jpg"
+      "src": "pipeline/media/cukur-vartolu-prime-ai.jpg"
     },
     {
-      "id": "royal-mail-paul-vaughan-ai-voice",
+      "id": "cage-spider-noir-ai-waiver",
+      "type": "image",
+      "src": "pipeline/media/cage-spider-noir-ai-waiver.jpg"
+    },
+    {
+      "id": "eyeline-genfx-rustad-busan",
+      "type": "image",
+      "src": "pipeline/media/eyeline-genfx-rustad-busan.jpg"
+    },
+    {
+      "id": "morph-3d-scene-editor",
+      "type": "image",
+      "src": "pipeline/media/morph-3d-scene-editor.png"
+    },
+    {
+      "id": "astana-ai-film-grand-prix",
       "type": "video",
-      "src": "pipeline/media/royal-mail-paul-vaughan-ai-voice.mp4",
-      "poster": "pipeline/media/royal-mail-paul-vaughan-ai-voice.jpg"
-    },
-    {
-      "id": "space-nation-kira-mipcom-pilots",
-      "type": "image",
-      "src": "pipeline/media/space-nation-kira-mipcom-pilots.jpg"
-    },
-    {
-      "id": "painted-soul-rakuten-viki-launch",
-      "type": "image",
-      "src": "pipeline/media/painted-soul-rakuten-viki-launch.jpg"
-    },
-    {
-      "id": "danny-boyle-ink-ai-thatcher",
-      "type": "image",
-      "src": "pipeline/media/danny-boyle-ink-ai-thatcher.jpg"
+      "src": "pipeline/media/astana-ai-film-grand-prix.mp4",
+      "poster": "pipeline/media/astana-ai-film-grand-prix.jpg"
     }
   ]
 }

@@ -7190,6 +7190,152 @@
           "x": "Las suscripciones se amplían a tres planes: Archicad Studio, Archicad Collaborate y Archicad Max, este último pensado para estudios que usan flujos de trabajo basados en datos y en AI (AI-based)."
         }
       ]
+    },
+    "design/agent-permission-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
+        },
+        {
+          "t": "p",
+          "x": "“Allow this action” es difícil de responder cuando no se ve qué hace la acción, escribe KAT, cofundador de 123sudo (creador del espacio de trabajo de AI 9xchat), desde una perspectiva de diseño de producto y no como especificación de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Estar conectado no equivale a estar aprobado: una interfaz debe distinguir entre “esta herramienta está conectada” y “esta acción está permitida para la tarea actual”. Hay que mostrar el resultado, no la herramienta: no “Allow send_message?”, sino “¿Enviar este correo a Alex, en una dirección externa, con el resumen del proyecto adjunto?”"
+        },
+        {
+          "t": "p",
+          "x": "La vista previa debe construirse a partir de la propia llamada a la herramienta pendiente, no solo del resumen del agente. La aprobación debe corresponder a una acción concreta: si cambian el destinatario, el adjunto o el cuerpo, hay que volver a preguntar. Las advertencias necesitan palabras, no solo colores: “Destinatario externo”, “Sobrescribe un archivo existente”."
+        },
+        {
+          "t": "p",
+          "x": "Más avisos no significan más control: conviene fijar límites comprensibles al inicio de una tarea y preguntar solo cuando el agente se salga de ellos. Lista de verificación: acceso, acciones, destinos, aprobación, cambios. “‘Confía en mí’ no es una pantalla de aprobación útil.”"
+        }
+      ]
+    },
+    "design/grok-imagine-vercel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+        },
+        {
+          "t": "p",
+          "x": "Grok Imagine Video 1.5 Lite, de xAI, ya está disponible en AI Gateway. Este modelo ligero convierte prompts de texto e imágenes en video con audio nativo."
+        },
+        {
+          "t": "p",
+          "x": "El modelo genera clips de 1 a 15 segundos en 480p, 720p y 1080p. Siete relaciones de aspecto cubren formatos panorámico, cuadrado y vertical, de modo que se pueden crear escenas horizontales o videos verticales desde el mismo flujo de generación."
+        },
+        {
+          "t": "p",
+          "x": "Para empezar a generar videos, configure el modelo como spacexai/grok-imagine-video-1.5-lite en el AI SDK o en el AI CLI. Encadene un modelo de imagen con Grok Imagine Video 1.5 Lite para crear una imagen fija y animarla en un solo flujo. También puede probarlo directamente en el AI Gateway Playground."
+        },
+        {
+          "t": "p",
+          "x": "AI Gateway ofrece una sola API para llamar a modelos, hacer seguimiento del uso y el costo, y configurar el enrutamiento, los reintentos y la conmutación por error. Puede usar una clave de API de AI Gateway o traer su propia clave de proveedor."
+        }
+      ]
+    },
+    "design/atlas-hand-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La nueva mano de cuatro dedos de Atlas, de Boston Dynamics, tiene 13 grados de libertad, es de accionamiento directo y se diseñó para fabricarse en masa. Prescinde del meñique, reduce la pinza y se construyó para una simulación de alta fidelidad que permita el aprendizaje por refuerzo sim-to-real, explicó a The Robot Report Alberto Rodriguez, director de comportamiento robótico de Atlas."
+        },
+        {
+          "t": "p",
+          "x": "Está formada por 13 actuadores idénticos y totalmente encapsulados, sin cables frágiles que crucen las articulaciones. Las manos anteriores podían levantar objetos de 100 lb.-plus, así que se rebajó ligeramente la fuerza a cambio de transparencia en el accionamiento."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        },
+        {
+          "t": "p",
+          "x": "Los requisitos surgieron de un conjunto de tareas —herramientas eléctricas, cables, buscar tornillos a tientas— y de movimientos clave del pulgar. Se descartó un diseño de dos pulgares por sus DoFs adicionales, su costo y su volumen."
+        },
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El accionamiento reversible, junto con la compensación de fricción, permite una simulación dinámica precisa: “Construir actuadores que se simulen bien y luego confiar en RL a escala”. Rodriguez espera que el RL en simulación desbloquee una destreza compleja más allá de tomar y colocar. Las manos se usan ampliamente en la sede, pero aún no se han desplegado en toda la flota."
+        }
+      ]
+    },
+    "design/figma-ai-team-rituals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Ilustración principal de James Marshall"
+        },
+        {
+          "t": "p",
+          "x": "Llevar el impacto de la AI de las mejoras de productividad individual a logros de todo el equipo exige partir de donde está cada persona. Los equipos necesitan foros centrados en el apoyo entre pares, donde tanto principiantes como profesionales expertos puedan aprender, practicar y perfeccionar sus habilidades de AI en un entorno de baja presión. Estos son cuatro ejemplos."
+        },
+        {
+          "t": "p",
+          "x": "Figma organiza grupos de estudio dirigidos por pares. Jake Geller, gerente de operaciones de diseño, lanzó un piloto llamado “AI Collective”: cinco grupos dirigidos por pares, organizados según temas elegidos por los diseñadores, que se reunieron una hora por semana durante seis semanas, con Slack entre sesiones y una plantilla que sugería 20 minutos de enseñanza y 40 minutos de práctica."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Sephora comparte lo que no funcionó. Sneha Narahalli, SVP de tecnología, organiza un foro quincenal donde los creadores muestran lo que están construyendo con AI. Las primeras sesiones solo mostraban trabajo pulido, así que ahora los presentadores recorren el proceso, incluido lo que probaron y lo que no funcionó. “Escuchar a un compañero y ver cómo eso le facilita la vida es mucho más poderoso que los mensajes de arriba abajo”, afirma."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Sneha Narahalli, vicepresidenta sénior de Tecnología (Senior Vice President of Technology), Sephora"
+        },
+        {
+          "t": "p",
+          "x": "Mercari forma a sus equipos de manera cruzada entre funciones. El equipo de Aki Alkhatib, Principal Designer, organiza sesiones prácticas en las que los diseñadores aprenden fundamentos de ingeniería, como usar una herramienta de programación con AI y configurar un repositorio de GitHub, y los desarrolladores aprenden principios de diseño como la jerarquía visual."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian abre cada crítica con un prototipo. Charlie Sutton, Chief Design Officer, adoptó una regla: mostrar primero el prototipo y explicarlo después. “A veces, las reglas simples son las que hacen posibles los cambios complejos”, dice."
+        }
+      ]
+    },
+    "design/runway-claude-motion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic lanza Claude Motion con Runway como socio de lanzamiento. Claude Motion convierte una instrucción en un breve video explicativo animado a partir de los textos, gráficos, formas e imágenes del propio trabajo del usuario, y cualquier animación puede exportarse a Runway para añadir metraje generado y terminar la edición. Está en beta en los planes Claude Team y Enterprise."
+        },
+        {
+          "t": "p",
+          "x": "Se le puede pedir a Claude que convierta un informe trimestral en un explicativo de 30 segundos para una reunión general o que anime un gráfico de una presentación para el consejo. Claude escribe el código que anima el contenido; el resultado se reproduce como un video corto que se puede ajustar, revisar conversando o descargar como MP4."
+        },
+        {
+          "t": "p",
+          "x": "Cuando un explicativo necesita más, se exporta a Runway para generar nuevos videos e imágenes, editar clips describiendo el cambio y usar Runway Agent para montar una versión más larga en torno a la animación."
+        },
+        {
+          "t": "p",
+          "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
+        }
+      ]
     }
   }
 }

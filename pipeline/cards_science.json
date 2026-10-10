@@ -1,227 +1,221 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "science",
   "cards": [
     {
-      "id": "science-ai-help-persistence",
+      "id": "science-etruscan-tomb-acoustics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "십 분의 AI 도움이\n끈기를 깎는다",
-      "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊기자 더 빨리 포기했다.",
-      "mini_headline": "짧은 AI 도움, 끈기를 깎다",
+      "headline": "AI가 되살린\n에트루리아 무덤의 소리",
+      "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤' 속 소리를 되살렸다.",
+      "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
       "tool": "Science",
-      "source": "EurekAlert! (UC Berkeley)",
-      "url": "https://www.eurekalert.org/news-releases/1147258",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "AI 도구에 단 10분만 기대도 어려운 과제에 집중해 끈기 있게 매달리는 능력이 크게 떨어진다. UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구의 결론이다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 온라인 참가자 1,222명으로 무작위 대조 실험을 했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었는데, 한 집단만 옆에 ChatGPT를 두었다. AI 집단은 처음엔 정답률이 더 높았다. 그러나 12문제를 푼 뒤 도구를 거둬들이자 정답률은 거의 즉시 무너졌다."
-          },
-          {
             "t": "img",
-            "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-            "cap": "도구를 회수하자 AI 집단의 풀이율(주황색)은 떨어지고 문제를 건너뛰는 비율은 가파르게 올랐다."
+            "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+            "cap": "Sailko via Wikimedia Commons, CC BY-ND"
           },
           {
             "t": "p",
-            "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 결과는 같았다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌지만, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다고 지적하며, 어시스턴트가 기본 설정으로 튜터처럼 가르치는 방식을 택할 수도 있다고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-            "cap": "2026년 10월 7일 UC Berkeley에서 연구를 설명하는 Brian Christian."
+            "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 곳곳에 소리를 녹여 냈다. 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구에 따르면 이 무덤들은 정교한 감각 경험을 주도록 설계됐다."
           },
           {
             "t": "p",
-            "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
+            "x": "연구의 바탕은 AI·음향 분야의 선행 작업이다. Oxford의 Sounds of Silence 프로젝트, 신경과학과 AI로 유물이 인지에 미치는 영향을 살피는 Duke의 Neuroartifact 프로젝트가 그 예다. 연구팀은 음향·시각·AI 기술을 묶어 기원전(BC) 5세기 무덤 두 곳, '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
+          },
+          {
+            "t": "video",
+            "yt": "i7pe404dgoU"
+          },
+          {
+            "t": "p",
+            "x": "푸른 악마(Blue Demon) 무덤 안에서는 잔향과 메아리가 유난히 길다. 이 소리가 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각을 흐트러뜨린다면 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 이 무덤들이 죽은 이를 안치하는 데 그치지 않고, 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 비슷한 음향·AI 기법을 이제 야외 의례 경관에 적용하고 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ten minutes of AI help\nerodes persistence",
-          "body": "Across three trials with 1,222 people, ten minutes of AI help left them quicker to give up once it was gone.",
-          "mini_headline": "Brief AI help erodes persistence",
+          "headline": "AI brings back the sound\nof an Etruscan tomb",
+          "body": "Researchers paired AI with acoustic technology to reconstruct how the Etruscan Tomb of the Blue Demons sounded.",
+          "mini_headline": "AI revives an Etruscan tomb's sound",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Spending just 10 minutes relying on an AI tool significantly impairs people's ability to focus and persist with difficult tasks, according to a peer-reviewed study co-authored by Brian Christian of UC Berkeley's Center for Human-Compatible AI and presented this week at the Conference on Language Modeling."
-              },
-              {
-                "t": "p",
-                "x": "The team ran randomized controlled trials with 1,222 online participants. In the first, 354 people solved 15 fraction problems; one group had ChatGPT on the side. The AI group started out more accurate, but after 12 problems the tool was taken away and their accuracy collapsed almost immediately."
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "The AI group's solve rate (orange) dropped after the tool was removed, while the rate of skipped questions rose sharply."
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "A second trial with 667 people and a third with 201 on SAT reading comprehension echoed the result: once AI help was withdrawn, persistence and accuracy dropped, while those who never had it stuck with the task. The authors say AI removes \"productive struggle\" and that assistants could default to teaching like a tutor."
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "Brian Christian speaking about the research at UC Berkeley on Oct. 7, 2026."
+                "x": "The pre-Roman society of Etruria in central Italy embedded sound throughout its culture, and its painted tombs in Tarquinia, Chiusi and Orvieto are known for scenes of music, feasting and the afterlife. New research by Jacqueline Ortoleva (Oxford) and Maurizio Forte (Duke) shows these tombs were designed to offer sophisticated sensory experiences."
               },
               {
                 "t": "p",
-                "x": "\"This is not a story about fractions and SAT problems,\" Christian said. \"This is something that is happening to human knowledge and human expertise from top to bottom.\""
+                "x": "The study draws on AI and acoustics work including Oxford's Sounds of Silence project and Duke's Neuroartifact project, which uses neuroscience and AI to understand the cognitive impact of artifacts. Combining acoustic, visual and AI technology, the team studied two 5th-century BC tombs: the Tomb of the Blue Demons and the Tomb of the Rooster."
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "Exceptionally long reverberation and echoes inside the Blue Demon tomb gave a dramatic soundtrack to an immersive experience, alongside flickering torchlight, incense and libations. While the Blue Demon induces perceptual disorientation, the Rooster privileges visual attention."
+              },
+              {
+                "t": "p",
+                "x": "The authors argue the tombs were built not simply to house the dead but to affect the living, like a modern 3D film, and are now applying similar acoustic and AI techniques to ritual landscapes outdoors."
               }
             ]
           }
         },
         "ko": {
-          "headline": "십 분의 AI 도움이\n끈기를 깎는다",
-          "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊기자 더 빨리 포기했다.",
-          "mini_headline": "짧은 AI 도움, 끈기를 깎다",
+          "headline": "AI가 되살린\n에트루리아 무덤의 소리",
+          "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤' 속 소리를 되살렸다.",
+          "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "AI 도구에 단 10분만 기대도 어려운 과제에 집중해 끈기 있게 매달리는 능력이 크게 떨어진다. UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구의 결론이다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 온라인 참가자 1,222명으로 무작위 대조 실험을 했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었는데, 한 집단만 옆에 ChatGPT를 두었다. AI 집단은 처음엔 정답률이 더 높았다. 그러나 12문제를 푼 뒤 도구를 거둬들이자 정답률은 거의 즉시 무너졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "도구를 회수하자 AI 집단의 풀이율(주황색)은 떨어지고 문제를 건너뛰는 비율은 가파르게 올랐다."
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 결과는 같았다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌지만, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다고 지적하며, 어시스턴트가 기본 설정으로 튜터처럼 가르치는 방식을 택할 수도 있다고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026년 10월 7일 UC Berkeley에서 연구를 설명하는 Brian Christian."
+                "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 곳곳에 소리를 녹여 냈다. 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구에 따르면 이 무덤들은 정교한 감각 경험을 주도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
+                "x": "연구의 바탕은 AI·음향 분야의 선행 작업이다. Oxford의 Sounds of Silence 프로젝트, 신경과학과 AI로 유물이 인지에 미치는 영향을 살피는 Duke의 Neuroartifact 프로젝트가 그 예다. 연구팀은 음향·시각·AI 기술을 묶어 기원전(BC) 5세기 무덤 두 곳, '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "푸른 악마(Blue Demon) 무덤 안에서는 잔향과 메아리가 유난히 길다. 이 소리가 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각을 흐트러뜨린다면 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 이 무덤들이 죽은 이를 안치하는 데 그치지 않고, 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 비슷한 음향·AI 기법을 이제 야외 의례 경관에 적용하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "十分間のAI支援が\n粘り強さを奪う",
-          "body": "1,222人が参加した三つの実験で、AIの助けを十分間受けた人は支援が消えると早く諦めた。",
-          "mini_headline": "短いAI支援が粘りを奪う",
+          "headline": "AIがよみがえらせた\nエトルリアの墓の音",
+          "body": "研究者らはAIと音響技術を組み合わせ、エトルリアの「青い悪魔の墓」の音を再現した。",
+          "mini_headline": "AIがエトルリアの墓の音を再現",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC BerkeleyのCenter for Human-Compatible AIに所属するBrian Christianが共著者を務め、今週Conference on Language Modelingで発表された査読付き研究によると、AIツールにわずか10分頼るだけで、難しい課題に集中して粘り強く取り組む能力が大きく損なわれる。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームはオンライン参加者1,222人を対象にランダム化比較試験を行った。最初の試験では354人が分数の問題15問を解き、一方のグループはChatGPTを手元で使えた。AIグループは当初の正答率が高かったが、12問を解いた後にツールを取り上げると、正答率はほぼ即座に崩れた。"
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "AIグループの解答率(オレンジ)はツールを取り上げた後に低下し、問題を飛ばす割合は急上昇した。"
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "667人を対象にした二つ目の試験と、201人がSATの読解問題に取り組んだ三つ目の試験でも同じ結果が出た。AIの支援がなくなると粘り強さと正答率は低下し、最初から支援を受けなかった人は課題を続けた。著者らは、AIが「生産的な苦闘(productive struggle)」を奪うとし、アシスタントは家庭教師のように教えることを標準にできると述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026年10月7日、UC Berkeleyで研究について語るBrian Christian。"
+                "x": "イタリア中部エトルリア(Etruria)のpre-Roman(ローマ以前)社会は文化の隅々に音を織り込んでおり、タルクィニア(Tarquinia)、キウージ(Chiusi)、オルヴィエート(Orvieto)の彩色墓は音楽や饗宴、死後の世界を描いた場面で知られる。Jacqueline Ortoleva(Oxford)とMaurizio Forte(Duke)の新たな研究は、これらの墓が洗練された感覚体験をもたらすよう設計されていたことを示している。"
               },
               {
                 "t": "p",
-                "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
+                "x": "研究はOxfordのSounds of Silenceプロジェクトや、神経科学とAIを用いて遺物が認知に与える影響を探るDukeのNeuroartifactプロジェクトなど、AIと音響の研究に基づく。チームは音響・視覚・AI技術を組み合わせ、紀元前(BC)5世紀の2つの墓、「青い悪魔の墓(Tomb of the Blue Demons)」と「雄鶏の墓(Tomb of the Rooster)」を調べた。"
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "青い悪魔(Blue Demon)の墓内部の際立って長い残響とこだまは、揺らめく松明の光や香、献酒とともに、没入型の体験に劇的なサウンドトラックを添えていた。Blue Demonの墓が知覚の混乱を誘うのに対し、雄鶏(Rooster)の墓は視覚的な注意を優先させる。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "十分钟AI帮助\n侵蚀人的毅力",
-          "body": "三项共1,222人参与的试验显示，接受十分钟AI帮助的人在帮助撤走后更快放弃。",
-          "mini_headline": "短暂AI帮助削弱毅力",
+          "headline": "AI 重现\n伊特鲁里亚古墓之声",
+          "body": "研究人员结合AI与声学技术，重建了伊特鲁里亚“蓝魔之墓”的声音。",
+          "mini_headline": "AI 重现伊特鲁里亚古墓之声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一项经同行评审的研究显示，仅依赖AI工具10分钟，就会显著削弱人们专注并坚持完成困难任务的能力。该研究的合著者是UC Berkeley Center for Human-Compatible AI的Brian Christian，研究于本周在Conference on Language Modeling上发表。"
-              },
-              {
-                "t": "p",
-                "x": "团队对1,222名在线参与者开展了随机对照试验。在第一项试验中，354人解答15道分数题，其中一组可以随时使用ChatGPT。AI组起初正确率更高，但在做完12道题后工具被收回，他们的正确率几乎立刻崩溃。"
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "收回工具后，AI组的解题率（橙色）下降，跳过题目的比例则急剧上升。"
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "第二项有667人参与的试验和第三项由201人完成SAT阅读理解的试验得出了相同结果：一旦撤走AI帮助，毅力和正确率都会下降，而从未获得帮助的人则坚持完成任务。作者认为，AI消除了“有益的挣扎”（productive struggle），助手可以默认像导师一样进行教学。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026年10月7日，Brian Christian在UC Berkeley介绍这项研究。"
+                "x": "意大利中部伊特鲁里亚（Etruria）的 pre-Roman（前罗马）社会将声音融入文化的方方面面，塔尔奎尼亚（Tarquinia）、丘西（Chiusi）和奥尔维耶托（Orvieto）的彩绘墓葬以描绘音乐、宴饮和来世的场景而闻名。Jacqueline Ortoleva（Oxford）与 Maurizio Forte（Duke）的新研究表明，这些墓葬旨在提供精妙的感官体验。"
               },
               {
                 "t": "p",
-                "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
+                "x": "该研究借鉴了多项 AI 与声学工作，包括 Oxford 的 Sounds of Silence 项目，以及 Duke 运用神经科学和 AI 理解文物认知影响的 Neuroartifact 项目。团队结合声学、视觉与 AI 技术，研究了两座公元前（BC）5 世纪的墓葬：蓝魔之墓（Tomb of the Blue Demons）和公鸡之墓（Tomb of the Rooster）。"
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "蓝魔（Blue Demon）墓内异常悠长的混响与回声，伴着摇曳的火把、熏香和奠酒，为沉浸式体验配上了戏剧性的声景。Blue Demon 墓引发知觉迷失，公鸡（Rooster）墓则侧重视觉注意。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diez minutos de ayuda de IA\nminan la perseverancia",
-          "body": "En tres ensayos con 1,222 personas, diez minutos de ayuda de IA hicieron que se rindieran antes al retirarla.",
-          "mini_headline": "Una breve ayuda de IA mina la perseverancia",
+          "headline": "La IA recupera el sonido\nde una tumba etrusca",
+          "body": "Investigadores unieron IA y tecnología acústica para reconstruir el sonido de la etrusca Tumba de los Demonios Azules.",
+          "mini_headline": "La IA revive el sonido de una tumba etrusca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Dedicar solo 10 minutos a apoyarse en una herramienta de IA perjudica de forma significativa la capacidad de concentrarse y perseverar en tareas difíciles, según un estudio revisado por pares del que es coautor Brian Christian, del Center for Human-Compatible AI de UC Berkeley, presentado esta semana en la Conference on Language Modeling."
-              },
-              {
-                "t": "p",
-                "x": "El equipo realizó ensayos controlados aleatorizados con 1,222 participantes en línea. En el primero, 354 personas resolvieron 15 problemas de fracciones; un grupo tenía ChatGPT a mano. El grupo con IA empezó siendo más preciso, pero tras 12 problemas se le retiró la herramienta y su precisión se desplomó casi de inmediato."
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "La tasa de resolución del grupo con IA (naranja) cayó tras retirar la herramienta, mientras que la de preguntas omitidas subió con fuerza."
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "Un segundo ensayo con 667 personas y un tercero con 201 sobre comprensión lectora del SAT confirmaron el resultado: al retirar la ayuda de la IA, la perseverancia y la precisión bajaron, mientras que quienes nunca la tuvieron siguieron con la tarea. Los autores sostienen que la IA elimina la \"lucha productiva\" (productive struggle) y que los asistentes podrían enseñar por defecto como un tutor."
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "Brian Christian habla sobre la investigación en UC Berkeley el 7 de octubre de 2026."
+                "x": "La sociedad pre-Roman (prerromana) de Etruria, en el centro de Italia, integró el sonido en toda su cultura, y sus tumbas pintadas de Tarquinia, Chiusi y Orvieto son conocidas por escenas de música, banquetes y el más allá. Una nueva investigación de Jacqueline Ortoleva (Oxford) y Maurizio Forte (Duke) muestra que estas tumbas se diseñaron para ofrecer experiencias sensoriales sofisticadas."
               },
               {
                 "t": "p",
-                "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
+                "x": "El estudio se apoya en trabajos de inteligencia artificial (AI) y acústica, entre ellos el proyecto Sounds of Silence de Oxford y el proyecto Neuroartifact de Duke, que usa la neurociencia y la IA para entender el impacto cognitivo de los artefactos. Combinando tecnología acústica, visual y de IA, el equipo estudió dos tumbas del siglo V a. C. (5th-century BC): la Tumba de los Demonios Azules (Tomb of the Blue Demons) y la Tumba del Gallo (Tomb of the Rooster)."
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "La reverberación y los ecos excepcionalmente largos dentro de la tumba del Demonio Azul (Blue Demon) daban una banda sonora dramática a una experiencia inmersiva, junto a la luz parpadeante de las antorchas, el incienso y las libaciones. Mientras la Blue Demon induce desorientación perceptiva, la del Gallo (Rooster) privilegia la atención visual."
+              },
+              {
+                "t": "p",
+                "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
               }
             ]
           }
@@ -229,145 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "십 분의 AI 도움이\n끈기를 깎는다",
-          "body": "1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊긴 뒤 더 빨리 포기했다.",
-          "mini_headline": "짧은 AI 도움, 끈기를 깎다",
+          "headline": "AI가 되살린\n에트루리아 무덤의 소리",
+          "body": "연구진이 AI와 음향 기술로 에트루리아 '푸른 악마의 무덤'의 소리를 재구성했다.",
+          "mini_headline": "AI가 되살린 에트루리아 무덤의 소리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구에 따르면, AI 도구에 단 10분만 의존해도 어려운 과제에 집중하고 끈기 있게 매달리는 능력이 크게 떨어진다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 온라인 참가자 1,222명을 대상으로 무작위 대조 실험을 진행했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었고, 한 집단은 옆에 ChatGPT를 두었다. AI 집단은 처음에 정답률이 더 높았지만, 12문제를 푼 뒤 도구를 회수하자 정답률이 거의 즉시 무너졌다."
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "AI 집단의 풀이율(주황색)은 도구를 회수한 뒤 떨어졌고, 문제를 건너뛰는 비율은 가파르게 올랐다."
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 같은 결과를 보였다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌고, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다며, 어시스턴트가 기본적으로 튜터처럼 가르치는 방식을 택할 수 있다고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026년 10월 7일 UC Berkeley에서 연구에 대해 이야기하는 Brian Christian."
+                "x": "이탈리아 중부 에트루리아(Etruria)의 pre-Roman(로마 이전) 사회는 문화 전반에 소리를 녹여 냈고, 타르퀴니아(Tarquinia)·키우시(Chiusi)·오르비에토(Orvieto)의 채색 무덤은 음악과 연회, 사후 세계를 그린 장면으로 이름나 있다. Jacqueline Ortoleva(Oxford)와 Maurizio Forte(Duke)의 새 연구는 이 무덤들이 정교한 감각 경험을 주도록 설계됐음을 보여 준다."
               },
               {
                 "t": "p",
-                "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian은 이렇게 말했다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
+                "x": "연구는 Oxford의 Sounds of Silence 프로젝트, 그리고 신경과학과 AI로 유물이 인지에 미치는 영향을 탐구하는 Duke의 Neuroartifact 프로젝트 등 AI·음향 연구에 기반한다. 연구팀은 음향·시각·AI 기술을 결합해 기원전(BC) 5세기 무덤 두 곳, 곧 '푸른 악마의 무덤(Tomb of the Blue Demons)'과 '수탉의 무덤(Tomb of the Rooster)'을 조사했다."
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "푸른 악마(Blue Demon) 무덤 안의 유난히 긴 잔향과 메아리는 깜박이는 횃불, 향, 헌주와 어우러져 몰입형 경험에 극적인 사운드트랙을 입혔다. Blue Demon 무덤이 지각의 혼란을 일으킨다면, 수탉(Rooster) 무덤은 시각적 주의를 앞세운다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 이 무덤들이 단지 죽은 이를 안치하려고가 아니라 오늘날의 3D 영화처럼 산 자에게 영향을 주려고 지어졌다고 본다. 연구진은 지금 비슷한 음향·AI 기법을 야외의 의례 경관에 적용하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "十分間のAI支援が\n粘り強さを奪う",
-          "body": "1,222人が参加した三つの実験で、AIの助けを十分間受けた人は支援が消えると早く諦めた。",
-          "mini_headline": "短いAI支援が粘りを奪う",
+          "headline": "AIがよみがえらせた\nエトルリアの墓の音",
+          "body": "研究者らはAIと音響技術を組み合わせ、エトルリアの「青い悪魔の墓」の音を再現した。",
+          "mini_headline": "AIがエトルリアの墓の音を再現",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "UC BerkeleyのCenter for Human-Compatible AIに所属するBrian Christianが共著者を務め、今週Conference on Language Modelingで発表された査読付き研究によると、AIツールにわずか10分頼るだけで、難しい課題に集中して粘り強く取り組む能力が大きく損なわれる。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームはオンライン参加者1,222人を対象にランダム化比較試験を行った。最初の試験では354人が分数の問題15問を解き、一方のグループはChatGPTを手元で使えた。AIグループは当初の正答率が高かったが、12問を解いた後にツールを取り上げると、正答率はほぼ即座に崩れた。"
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "AIグループの解答率(オレンジ)はツールを取り上げた後に低下し、問題を飛ばす割合は急上昇した。"
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "667人を対象にした二つ目の試験と、201人がSATの読解問題に取り組んだ三つ目の試験でも同じ結果が出た。AIの支援がなくなると粘り強さと正答率は低下し、最初から支援を受けなかった人は課題を続けた。著者らは、AIが「生産的な苦闘(productive struggle)」を奪うとし、アシスタントは家庭教師のように教えることを標準にできると述べている。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026年10月7日、UC Berkeleyで研究について語るBrian Christian。"
+                "x": "イタリア中部エトルリア(Etruria)のpre-Roman(ローマ以前)社会は文化の隅々に音を織り込んでおり、タルクィニア(Tarquinia)、キウージ(Chiusi)、オルヴィエート(Orvieto)の彩色墓は音楽や饗宴、死後の世界を描いた場面で知られる。Jacqueline Ortoleva(Oxford)とMaurizio Forte(Duke)の新たな研究は、これらの墓が洗練された感覚体験をもたらすよう設計されていたことを示している。"
               },
               {
                 "t": "p",
-                "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
+                "x": "研究はOxfordのSounds of Silenceプロジェクトや、神経科学とAIを用いて遺物が認知に与える影響を探るDukeのNeuroartifactプロジェクトなど、AIと音響の研究に基づく。チームは音響・視覚・AI技術を組み合わせ、紀元前(BC)5世紀の2つの墓、「青い悪魔の墓(Tomb of the Blue Demons)」と「雄鶏の墓(Tomb of the Rooster)」を調べた。"
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "青い悪魔(Blue Demon)の墓内部の際立って長い残響とこだまは、揺らめく松明の光や香、献酒とともに、没入型の体験に劇的なサウンドトラックを添えていた。Blue Demonの墓が知覚の混乱を誘うのに対し、雄鶏(Rooster)の墓は視覚的な注意を優先させる。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、これらの墓が単に死者を納めるためではなく、現代の3D映画のように生者に作用するよう造られたと論じる。現在は同様の音響・AI技術を屋外の儀礼的景観に応用している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "十分钟AI帮助\n侵蚀人的毅力",
-          "body": "三项共1,222人参与的试验显示，接受十分钟AI帮助的人在帮助撤走后更快放弃。",
-          "mini_headline": "短暂AI帮助削弱毅力",
+          "headline": "AI 重现\n伊特鲁里亚古墓之声",
+          "body": "研究人员结合AI与声学技术，重建了伊特鲁里亚“蓝魔之墓”的声音。",
+          "mini_headline": "AI 重现伊特鲁里亚古墓之声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "一项经同行评审的研究显示，仅依赖AI工具10分钟，就会显著削弱人们专注并坚持完成困难任务的能力。该研究的合著者是UC Berkeley Center for Human-Compatible AI的Brian Christian，研究于本周在Conference on Language Modeling上发表。"
-              },
-              {
-                "t": "p",
-                "x": "团队对1,222名在线参与者开展了随机对照试验。在第一项试验中，354人解答15道分数题，其中一组可以随时使用ChatGPT。AI组起初正确率更高，但在做完12道题后工具被收回，他们的正确率几乎立刻崩溃。"
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "收回工具后，AI组的解题率（橙色）下降，跳过题目的比例则急剧上升。"
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "第二项有667人参与的试验和第三项由201人完成SAT阅读理解的试验得出了相同结果：一旦撤走AI帮助，毅力和正确率都会下降，而从未获得帮助的人则坚持完成任务。作者认为，AI消除了“有益的挣扎”（productive struggle），助手可以默认像导师一样进行教学。"
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "2026年10月7日，Brian Christian在UC Berkeley介绍这项研究。"
+                "x": "意大利中部伊特鲁里亚（Etruria）的 pre-Roman（前罗马）社会将声音融入文化的方方面面，塔尔奎尼亚（Tarquinia）、丘西（Chiusi）和奥尔维耶托（Orvieto）的彩绘墓葬以描绘音乐、宴饮和来世的场景而闻名。Jacqueline Ortoleva（Oxford）与 Maurizio Forte（Duke）的新研究表明，这些墓葬旨在提供精妙的感官体验。"
               },
               {
                 "t": "p",
-                "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
+                "x": "该研究借鉴了多项 AI 与声学工作，包括 Oxford 的 Sounds of Silence 项目，以及 Duke 运用神经科学和 AI 理解文物认知影响的 Neuroartifact 项目。团队结合声学、视觉与 AI 技术，研究了两座公元前（BC）5 世纪的墓葬：蓝魔之墓（Tomb of the Blue Demons）和公鸡之墓（Tomb of the Rooster）。"
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "蓝魔（Blue Demon）墓内异常悠长的混响与回声，伴着摇曳的火把、熏香和奠酒，为沉浸式体验配上了戏剧性的声景。Blue Demon 墓引发知觉迷失，公鸡（Rooster）墓则侧重视觉注意。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，这些墓葬并非只是安葬死者，而是像现代 3D 电影一样旨在影响生者；他们目前正将类似的声学与 AI 技术应用于户外的仪式景观。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diez minutos de ayuda de IA\nminan la perseverancia",
-          "body": "En tres ensayos con 1,222 personas, diez minutos de ayuda de IA hicieron que se rindieran antes al retirarla.",
-          "mini_headline": "Una breve ayuda de IA mina la perseverancia",
+          "headline": "La IA recupera el sonido\nde una tumba etrusca",
+          "body": "Investigadores unieron IA y tecnología acústica para reconstruir el sonido de la etrusca Tumba de los Demonios Azules.",
+          "mini_headline": "La IA revive el sonido de una tumba etrusca",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Dedicar solo 10 minutos a apoyarse en una herramienta de IA perjudica de forma significativa la capacidad de concentrarse y perseverar en tareas difíciles, según un estudio revisado por pares del que es coautor Brian Christian, del Center for Human-Compatible AI de UC Berkeley, presentado esta semana en la Conference on Language Modeling."
-              },
-              {
-                "t": "p",
-                "x": "El equipo realizó ensayos controlados aleatorizados con 1,222 participantes en línea. En el primero, 354 personas resolvieron 15 problemas de fracciones; un grupo tenía ChatGPT a mano. El grupo con IA empezó siendo más preciso, pero tras 12 problemas se le retiró la herramienta y su precisión se desplomó casi de inmediato."
-              },
-              {
                 "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
-                "cap": "La tasa de resolución del grupo con IA (naranja) cayó tras retirar la herramienta, mientras que la de preguntas omitidas subió con fuerza."
+                "src": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+                "cap": "Sailko via Wikimedia Commons, CC BY-ND"
               },
               {
                 "t": "p",
-                "x": "Un segundo ensayo con 667 personas y un tercero con 201 sobre comprensión lectora del SAT confirmaron el resultado: al retirar la ayuda de la IA, la perseverancia y la precisión bajaron, mientras que quienes nunca la tuvieron siguieron con la tarea. Los autores sostienen que la IA elimina la \"lucha productiva\" (productive struggle) y que los asistentes podrían enseñar por defecto como un tutor."
-              },
-              {
-                "t": "img",
-                "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
-                "cap": "Brian Christian habla sobre la investigación en UC Berkeley el 7 de octubre de 2026."
+                "x": "La sociedad pre-Roman (prerromana) de Etruria, en el centro de Italia, integró el sonido en toda su cultura, y sus tumbas pintadas de Tarquinia, Chiusi y Orvieto son conocidas por escenas de música, banquetes y el más allá. Una nueva investigación de Jacqueline Ortoleva (Oxford) y Maurizio Forte (Duke) muestra que estas tumbas se diseñaron para ofrecer experiencias sensoriales sofisticadas."
               },
               {
                 "t": "p",
-                "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
+                "x": "El estudio se apoya en trabajos de inteligencia artificial (AI) y acústica, entre ellos el proyecto Sounds of Silence de Oxford y el proyecto Neuroartifact de Duke, que usa la neurociencia y la IA para entender el impacto cognitivo de los artefactos. Combinando tecnología acústica, visual y de IA, el equipo estudió dos tumbas del siglo V a. C. (5th-century BC): la Tumba de los Demonios Azules (Tomb of the Blue Demons) y la Tumba del Gallo (Tomb of the Rooster)."
+              },
+              {
+                "t": "video",
+                "yt": "i7pe404dgoU"
+              },
+              {
+                "t": "p",
+                "x": "La reverberación y los ecos excepcionalmente largos dentro de la tumba del Demonio Azul (Blue Demon) daban una banda sonora dramática a una experiencia inmersiva, junto a la luz parpadeante de las antorchas, el incienso y las libaciones. Mientras la Blue Demon induce desorientación perceptiva, la del Gallo (Rooster) privilegia la atención visual."
+              },
+              {
+                "t": "p",
+                "x": "Los autores sostienen que las tumbas no se construyeron solo para albergar a los muertos, sino para afectar a los vivos, como una película 3D moderna, y ahora aplican técnicas similares de acústica e IA a paisajes rituales al aire libre."
               }
             ]
           }
@@ -375,15 +365,15 @@
       }
     },
     {
-      "id": "science-bolmo-byteification-nature",
+      "id": "science-chatbots-climate-status-quo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "기존 언어 모델을\n바이트 단위로 개조",
-      "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
-      "mini_headline": "LLMs, 바이트를 읽도록 개조",
+      "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
+      "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
+      "mini_headline": "챗봇은 기존 기후 계획을 편든다",
       "tool": "Science",
-      "source": "Ai2",
-      "url": "https://allenai.org/blog/bolmo-nature",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -391,173 +381,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+            "cap": "사진: Matheus Bertelli, Pexels"
           },
           {
             "t": "p",
-            "x": "Ai2가 지난해 12월 내놓은 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo, 그 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 올리고, 원래의 전역 모델은 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 공개한다."
+            "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종의 기후 조언에 현상 유지 편향이 있는지 시험했다. 결과는 Environmental Research Communications에 실렸다."
           },
           {
             "t": "p",
-            "x": "대부분의 언어 모델은 고정된 어휘에 맞춰 텍스트를 서브워드로 쪼갠다. 그래서 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못하기도 한다. 바이트 단위 모델은 글자 밑의 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비싼 학습을 거쳐야 했다."
+            "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 등을 다룬 질의 7,500건 이상을 평가했고, 여기서 프롬프트 약 55,000개를 만들었다. 정책 득실을 따질 여지가 있으면 모델은 사용자가 이미 내린 결정을 약 두 배 더 자주 밀어 줬다."
           },
           {
             "t": "p",
-            "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo뿐 아니라 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
+            "x": "모델은 기존 계획에 약 70% 비율로 찬성했지만 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리는 전기차 비율보다 낮았다."
           },
           {
             "t": "p",
-            "x": "바이트는 텍스트보다 넓은 단위다. Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 쓸 수 있다고 본다."
+            "x": "연구 책임자 Seth Wynes는 챗봇에게 새로운 일을 해야 할 이유를 논증해 달라고 요청해 보라고 권한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Retrofitting language models\nto read byte by byte",
-          "body": "Ai2's byteification method, now in Nature, turns tokenized LLMs into byte-level models with a short extra training run.",
-          "mini_headline": "LLMs retrofitted to read bytes",
+          "headline": "AI chatbots favor existing\nclimate plans over new ones",
+          "body": "Tested across 11 LLMs, chatbots endorsed existing climate plans about 70% of the time versus 34% for new proposals.",
+          "mini_headline": "Chatbots favor existing climate plans",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "Credit: Matheus Bertelli from Pexels"
               },
               {
                 "t": "p",
-                "x": "The research behind Bolmo, Ai2's family of fully open byte-level language models introduced last December, has been published in Nature. Ai2 is also releasing new checkpoints on Hugging Face, plus Stage 1 checkpoints that keep the original global model frozen while training Bolmo's byte-level components."
+                "x": "University of Waterloo researchers tested 11 large language models for status quo bias in climate-related advice. The study appears in Environmental Research Communications."
               },
               {
                 "t": "p",
-                "x": "Most language models split text into subwords from a fixed vocabulary, which can make them less flexible with spelling, rare words and unusual strings. Byte-level models work from the raw bytes behind characters, but matching subword performance has usually required costly training from scratch."
+                "x": "They evaluated more than 7,500 queries on topics such as vehicle purchases, recipes, home heating and climate policy trade-offs, producing nearly 55,000 prompts. Where policy trade-offs were possible, the models reinforced users' existing decisions about twice as often."
               },
               {
                 "t": "p",
-                "x": "Ai2's \"byteifying\" process instead converts an already capable subword model into a byte-level one with a relatively short additional training run. In the Nature paper, the team applied it beyond Olmo to Qwen 3 8B and Llama 3 8B, creating Bwen 8B and Blama 8B; both come close to their source models, and Bwen 8B outperforms Bolmo 7B on Ai2's aggregate evaluation suite."
+                "x": "The models said yes to existing plans about 70% of the time, but only 34% of the time for new plans or policies. Even when accounting for regional factors, they recommended electric vehicles less often than those vehicles were already selling in each country."
               },
               {
                 "t": "p",
-                "x": "Because bytes also extend beyond text, Ai2 says the same ideas could eventually apply to images and audio."
+                "x": "Lead researcher Seth Wynes suggests users ask chatbots to make the case for doing something new."
               }
             ]
           }
         },
         "ko": {
-          "headline": "기존 언어 모델을\n바이트 단위로 개조",
-          "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
-          "mini_headline": "LLMs, 바이트를 읽도록 개조",
+          "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
+          "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
+          "mini_headline": "챗봇은 기존 기후 계획을 편든다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "사진: Matheus Bertelli, Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2가 지난해 12월 내놓은 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo, 그 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 올리고, 원래의 전역 모델은 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 공개한다."
+                "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종의 기후 조언에 현상 유지 편향이 있는지 시험했다. 결과는 Environmental Research Communications에 실렸다."
               },
               {
                 "t": "p",
-                "x": "대부분의 언어 모델은 고정된 어휘에 맞춰 텍스트를 서브워드로 쪼갠다. 그래서 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못하기도 한다. 바이트 단위 모델은 글자 밑의 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비싼 학습을 거쳐야 했다."
+                "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 등을 다룬 질의 7,500건 이상을 평가했고, 여기서 프롬프트 약 55,000개를 만들었다. 정책 득실을 따질 여지가 있으면 모델은 사용자가 이미 내린 결정을 약 두 배 더 자주 밀어 줬다."
               },
               {
                 "t": "p",
-                "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo뿐 아니라 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
+                "x": "모델은 기존 계획에 약 70% 비율로 찬성했지만 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리는 전기차 비율보다 낮았다."
               },
               {
                 "t": "p",
-                "x": "바이트는 텍스트보다 넓은 단위다. Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 쓸 수 있다고 본다."
+                "x": "연구 책임자 Seth Wynes는 챗봇에게 새로운 일을 해야 할 이유를 논증해 달라고 요청해 보라고 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "言語モデルを\nバイト単位で読む形に改造",
-          "body": "Nature掲載のAi2の手法は、短い追加学習でLLMsをバイト単位のモデルに変える。",
-          "mini_headline": "LLMsをバイト読みに改造",
+          "headline": "AIチャットボットは\n新案より既存の気候策",
+          "body": "11のLLMsで試すと、既存の気候計画への賛成は約70%、新提案は34%だった。",
+          "mini_headline": "チャットボットは既存の気候計画を好む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "写真：Matheus Bertelli / Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2が昨年12月に発表した完全オープンなバイト単位言語モデル群Bolmoの基盤となる研究が、Natureに掲載された。Ai2はHugging Faceで新たなチェックポイントを公開するほか、元のグローバルモデルを凍結したままBolmoのバイト単位の構成要素を学習させたStage 1 チェックポイントも公開する。"
+                "x": "University of Waterlooの研究者らは、11の大規模言語モデル(LLM)を対象に、気候関連の助言における現状維持バイアスを検証した。研究はEnvironmental Research Communicationsに掲載された。"
               },
               {
                 "t": "p",
-                "x": "多くの言語モデルは固定語彙に基づいてテキストをサブワードに分割するため、綴りや珍しい単語、特殊な文字列への柔軟性が下がることがある。バイト単位モデルは文字の背後にある生のバイトを扱うが、サブワードモデルの性能に並ぶには、通常コストのかかるゼロからの学習が必要だった。"
+                "x": "車の購入、レシピ、住宅の暖房、気候政策のトレードオフといったテーマで7,500件を超える質問を評価し、約55,000件のプロンプトを作成した。政策のトレードオフが生じ得る場面では、モデルはユーザーの既存の決定を約二倍の頻度で後押しした。"
               },
               {
                 "t": "p",
-                "x": "Ai2の「バイト化(byteifying)」手法は、すでに高い能力を持つサブワードモデルを、比較的短い追加学習でバイト単位モデルに変換する。Nature論文では、Olmo以外に Qwen 3 8B と Llama 3 8B にも適用し、Bwen 8B と Blama 8B を作成した。どちらも元のモデルに迫る性能で、Bwen 8B はAi2の総合評価スイートで Bolmo 7B を上回った。"
+                "x": "モデルは既存の計画には約70%の割合で賛成したが、新しい計画や政策への賛成は34%にとどまった。地域的な要因を考慮しても、電気自動車を勧める頻度は各国ですでに売れている電気自動車の割合を下回った。"
               },
               {
                 "t": "p",
-                "x": "バイトはテキストにとどまらないため、Ai2は同じ考え方がいずれ画像や音声にも応用できる可能性があるとしている。"
+                "x": "筆頭研究者のSeth Wynesは、新しいことをする理由をチャットボットに論じさせるようユーザーに勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "改造语言模型\n让它逐字节读取",
-          "body": "Ai2登上Nature的字节化方法，只需短暂追加训练即可把分词LLMs改成字节级模型。",
-          "mini_headline": "LLMs改造为逐字节读取",
+          "headline": "AI聊天机器人\n偏爱既有气候方案",
+          "body": "在11个LLMs的测试中，聊天机器人支持既有气候方案约70%，新提议仅34%。",
+          "mini_headline": "聊天机器人偏爱既有气候方案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "图片来源：Matheus Bertelli / Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2去年十二月推出了完全开放的字节级语言模型系列Bolmo，其背后的研究现已发表于Nature。Ai2还在Hugging Face上发布了新的检查点，以及Stage 1 检查点——后者在训练Bolmo字节级组件时保持原有全局模型冻结。"
+                "x": "University of Waterloo的研究人员测试了11个大语言模型（LLM）在气候相关建议中的现状偏见。研究发表于Environmental Research Communications。"
               },
               {
                 "t": "p",
-                "x": "大多数语言模型按固定词表把文本切分为子词，这可能让它们在处理拼写、生僻词和不寻常字符串时不够灵活。字节级模型直接处理字符背后的原始字节，但要达到子词模型的性能，通常需要代价高昂的从头训练。"
+                "x": "他们评估了涵盖购车、食谱、家庭供暖和气候政策权衡等主题的7,500多个问题，生成了近55,000条提示词。在可能涉及政策权衡的情况下，模型强化用户既有决定的频率约为两倍。"
               },
               {
                 "t": "p",
-                "x": "Ai2的“字节化”（byteifying）流程则通过一次相对较短的追加训练，把已经具备较强能力的子词模型转换为字节级模型。在Nature论文中，团队将该方法从Olmo推广到 Qwen 3 8B 和 Llama 3 8B，得到 Bwen 8B 和 Blama 8B；两者都接近各自的源模型，而且 Bwen 8B 在Ai2的综合评估套件上超过了 Bolmo 7B。"
+                "x": "模型对既有计划表示赞同的比例约为70%，对新计划或新政策则只有34%。即使考虑地区因素，模型推荐电动汽车的频率也低于这些车型在各国的实际销售比例。"
               },
               {
                 "t": "p",
-                "x": "由于字节并不局限于文本，Ai2表示，同样的思路未来或许也能用于图像和音频。"
+                "x": "首席研究员Seth Wynes建议用户让聊天机器人论证做一件新事情的理由。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adaptar modelos de lenguaje\npara leer byte a byte",
-          "body": "El método de Ai2, publicado en Nature, convierte LLMs en modelos de bytes con un breve entrenamiento adicional.",
-          "mini_headline": "LLMs adaptados para leer bytes",
+          "headline": "Los chatbots de IA prefieren\nlos planes climáticos vigentes",
+          "body": "En 11 LLMs, los chatbots avalaron planes climáticos vigentes cerca de un 70% de las veces, y propuestas nuevas un 34%.",
+          "mini_headline": "Los chatbots prefieren los planes climáticos vigentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "Crédito: Matheus Bertelli en Pexels"
               },
               {
                 "t": "p",
-                "x": "La investigación detrás de Bolmo, la familia de modelos de lenguaje a nivel de bytes y totalmente abiertos que Ai2 presentó el pasado diciembre, se ha publicado en Nature. Ai2 también publica nuevos checkpoints en Hugging Face, además de checkpoints de Stage 1 que mantienen congelado el modelo global original mientras se entrenan los componentes a nivel de bytes de Bolmo."
+                "x": "Investigadores de la University of Waterloo evaluaron 11 grandes modelos de lenguaje en busca de sesgo de statu quo en consejos relacionados con el clima. El estudio se publica en Environmental Research Communications."
               },
               {
                 "t": "p",
-                "x": "La mayoría de los modelos de lenguaje dividen el texto en subpalabras a partir de un vocabulario fijo, lo que puede restarles flexibilidad con la ortografía, las palabras poco frecuentes y las cadenas inusuales. Los modelos a nivel de bytes trabajan con los bytes en bruto que hay detrás de los caracteres, pero igualar el rendimiento de las subpalabras solía exigir un costoso entrenamiento desde cero."
+                "x": "Evaluaron más de 7,500 consultas sobre temas como la compra de vehículos, recetas, calefacción doméstica y disyuntivas de política climática, lo que dio lugar a casi 55,000 prompts. Cuando cabían disyuntivas de política, los modelos reforzaron las decisiones previas de los usuarios aproximadamente el doble de veces."
               },
               {
                 "t": "p",
-                "x": "El proceso de \"byteificación\" (byteifying) de Ai2, en cambio, convierte un modelo de subpalabras ya capaz en uno a nivel de bytes con un entrenamiento adicional relativamente breve. En el artículo de Nature, el equipo lo aplicó, además de a Olmo, a Qwen 3 8B y Llama 3 8B, y creó Bwen 8B y Blama 8B; ambos se acercan a sus modelos de origen, y Bwen 8B supera a Bolmo 7B en el conjunto de evaluaciones agregadas de Ai2."
+                "x": "Los modelos dijeron que sí a los planes existentes cerca del 70% de las veces, pero solo el 34% en el caso de planes o políticas nuevos. Incluso teniendo en cuenta factores regionales, recomendaron vehículos eléctricos con menos frecuencia de la que esos vehículos ya se vendían en cada país."
               },
               {
                 "t": "p",
-                "x": "Como los bytes también van más allá del texto, Ai2 afirma que las mismas ideas podrían aplicarse con el tiempo a imágenes y audio."
+                "x": "El investigador principal, Seth Wynes, sugiere pedir a los chatbots que argumenten a favor de hacer algo nuevo."
               }
             ]
           }
@@ -565,121 +561,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "기존 언어 모델을\n바이트 단위로 개조",
-          "body": "Nature에 실린 Ai2 기법은 짧은 추가 학습으로 LLMs를 바이트화한다.",
-          "mini_headline": "LLMs, 바이트를 읽도록 개조",
+          "headline": "AI 챗봇은 새 기후안보다\n기존 계획을 편든다",
+          "body": "LLMs 11종은 기존 기후 계획에 약 70%, 새 제안에는 34%만 찬성했다.",
+          "mini_headline": "챗봇은 기존 기후 계획을 편든다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "사진: Matheus Bertelli, Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2가 지난해 12월 공개한 완전 개방형 바이트 단위 언어 모델 제품군 Bolmo의 바탕이 된 연구가 Nature에 실렸다. Ai2는 Hugging Face에 새 체크포인트를 공개하고, 원래의 전역 모델을 고정한 채 Bolmo의 바이트 단위 구성 요소만 학습시킨 Stage 1 체크포인트도 함께 내놓는다."
+                "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종을 대상으로 기후 관련 조언에 현상 유지 편향이 있는지 시험했다. 연구는 Environmental Research Communications에 실렸다."
               },
               {
                 "t": "p",
-                "x": "대부분의 언어 모델은 고정된 어휘에 따라 텍스트를 서브워드로 쪼개기 때문에 철자나 드문 단어, 특이한 문자열을 유연하게 다루지 못할 수 있다. 바이트 단위 모델은 글자 밑에 있는 원시 바이트를 직접 다루지만, 서브워드 모델의 성능을 따라잡으려면 대개 처음부터 비용이 큰 학습을 거쳐야 했다."
+                "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 같은 주제에 걸친 7,500건 이상의 질의를 평가했고, 이를 통해 약 55,000개의 프롬프트를 만들었다. 정책의 득실을 따질 여지가 있는 경우, 모델은 사용자의 기존 결정을 약 두 배 더 자주 강화했다."
               },
               {
                 "t": "p",
-                "x": "Ai2의 '바이트화(byteifying)' 과정은 이미 성능을 갖춘 서브워드 모델을 비교적 짧은 추가 학습으로 바이트 단위 모델로 바꾼다. 연구팀은 Nature 논문에서 이 방법을 Olmo 외에 Qwen 3 8B, Llama 3 8B 모델에도 적용해 Bwen 8B, Blama 8B 모델을 만들었다. 두 모델 모두 원본 모델에 근접했고, Bwen 8B 모델은 Ai2의 종합 평가 세트에서 Bolmo 7B 모델을 앞섰다."
+                "x": "모델은 기존 계획에는 약 70%의 비율로 찬성했지만, 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리고 있는 전기차 비율보다 낮았다."
               },
               {
                 "t": "p",
-                "x": "바이트는 텍스트를 넘어서는 단위인 만큼, Ai2는 같은 아이디어를 언젠가 이미지와 오디오에도 적용할 수 있다고 본다."
+                "x": "연구 책임자 Seth Wynes는 사용자가 챗봇에게 새로운 일을 해야 하는 이유를 논증해 달라고 요청해 보라고 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "言語モデルを\nバイト単位で読む形に改造",
-          "body": "Nature掲載のAi2の手法は、短い追加学習でLLMsをバイト単位のモデルに変える。",
-          "mini_headline": "LLMsをバイト読みに改造",
+          "headline": "AIチャットボットは\n新案より既存の気候策",
+          "body": "11のLLMsで試すと、既存の気候計画への賛成は約70%、新提案は34%だった。",
+          "mini_headline": "チャットボットは既存の気候計画を好む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "写真：Matheus Bertelli / Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2が昨年12月に発表した完全オープンなバイト単位言語モデル群Bolmoの基盤となる研究が、Natureに掲載された。Ai2はHugging Faceで新たなチェックポイントを公開するほか、元のグローバルモデルを凍結したままBolmoのバイト単位の構成要素を学習させたStage 1 チェックポイントも公開する。"
+                "x": "University of Waterlooの研究者らは、11の大規模言語モデル(LLM)を対象に、気候関連の助言における現状維持バイアスを検証した。研究はEnvironmental Research Communicationsに掲載された。"
               },
               {
                 "t": "p",
-                "x": "多くの言語モデルは固定語彙に基づいてテキストをサブワードに分割するため、綴りや珍しい単語、特殊な文字列への柔軟性が下がることがある。バイト単位モデルは文字の背後にある生のバイトを扱うが、サブワードモデルの性能に並ぶには、通常コストのかかるゼロからの学習が必要だった。"
+                "x": "車の購入、レシピ、住宅の暖房、気候政策のトレードオフといったテーマで7,500件を超える質問を評価し、約55,000件のプロンプトを作成した。政策のトレードオフが生じ得る場面では、モデルはユーザーの既存の決定を約二倍の頻度で後押しした。"
               },
               {
                 "t": "p",
-                "x": "Ai2の「バイト化(byteifying)」手法は、すでに高い能力を持つサブワードモデルを、比較的短い追加学習でバイト単位モデルに変換する。Nature論文では、Olmo以外に Qwen 3 8B と Llama 3 8B にも適用し、Bwen 8B と Blama 8B を作成した。どちらも元のモデルに迫る性能で、Bwen 8B はAi2の総合評価スイートで Bolmo 7B を上回った。"
+                "x": "モデルは既存の計画には約70%の割合で賛成したが、新しい計画や政策への賛成は34%にとどまった。地域的な要因を考慮しても、電気自動車を勧める頻度は各国ですでに売れている電気自動車の割合を下回った。"
               },
               {
                 "t": "p",
-                "x": "バイトはテキストにとどまらないため、Ai2は同じ考え方がいずれ画像や音声にも応用できる可能性があるとしている。"
+                "x": "筆頭研究者のSeth Wynesは、新しいことをする理由をチャットボットに論じさせるようユーザーに勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "改造语言模型\n让它逐字节读取",
-          "body": "Ai2登上Nature的字节化方法，只需短暂追加训练即可把分词LLMs改成字节级模型。",
-          "mini_headline": "LLMs改造为逐字节读取",
+          "headline": "AI聊天机器人\n偏爱既有气候方案",
+          "body": "在11个LLMs的测试中，聊天机器人支持既有气候方案约70%，新提议仅34%。",
+          "mini_headline": "聊天机器人偏爱既有气候方案",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "图片来源：Matheus Bertelli / Pexels"
               },
               {
                 "t": "p",
-                "x": "Ai2去年十二月推出了完全开放的字节级语言模型系列Bolmo，其背后的研究现已发表于Nature。Ai2还在Hugging Face上发布了新的检查点，以及Stage 1 检查点——后者在训练Bolmo字节级组件时保持原有全局模型冻结。"
+                "x": "University of Waterloo的研究人员测试了11个大语言模型（LLM）在气候相关建议中的现状偏见。研究发表于Environmental Research Communications。"
               },
               {
                 "t": "p",
-                "x": "大多数语言模型按固定词表把文本切分为子词，这可能让它们在处理拼写、生僻词和不寻常字符串时不够灵活。字节级模型直接处理字符背后的原始字节，但要达到子词模型的性能，通常需要代价高昂的从头训练。"
+                "x": "他们评估了涵盖购车、食谱、家庭供暖和气候政策权衡等主题的7,500多个问题，生成了近55,000条提示词。在可能涉及政策权衡的情况下，模型强化用户既有决定的频率约为两倍。"
               },
               {
                 "t": "p",
-                "x": "Ai2的“字节化”（byteifying）流程则通过一次相对较短的追加训练，把已经具备较强能力的子词模型转换为字节级模型。在Nature论文中，团队将该方法从Olmo推广到 Qwen 3 8B 和 Llama 3 8B，得到 Bwen 8B 和 Blama 8B；两者都接近各自的源模型，而且 Bwen 8B 在Ai2的综合评估套件上超过了 Bolmo 7B。"
+                "x": "模型对既有计划表示赞同的比例约为70%，对新计划或新政策则只有34%。即使考虑地区因素，模型推荐电动汽车的频率也低于这些车型在各国的实际销售比例。"
               },
               {
                 "t": "p",
-                "x": "由于字节并不局限于文本，Ai2表示，同样的思路未来或许也能用于图像和音频。"
+                "x": "首席研究员Seth Wynes建议用户让聊天机器人论证做一件新事情的理由。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adaptar modelos de lenguaje\npara leer byte a byte",
-          "body": "El método de Ai2, publicado en Nature, convierte LLMs en modelos de bytes con un breve entrenamiento adicional.",
-          "mini_headline": "LLMs adaptados para leer bytes",
+          "headline": "Los chatbots de IA prefieren\nlos planes climáticos vigentes",
+          "body": "En 11 LLMs, los chatbots avalaron planes climáticos vigentes cerca de un 70% de las veces, y propuestas nuevas un 34%.",
+          "mini_headline": "Los chatbots prefieren los planes climáticos vigentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.datocms-assets.com/64837/1791386736-nature-cover-for-release.jpg?auto=format&w=1200"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+                "cap": "Crédito: Matheus Bertelli en Pexels"
               },
               {
                 "t": "p",
-                "x": "La investigación detrás de Bolmo, la familia de modelos de lenguaje a nivel de bytes y totalmente abiertos que Ai2 presentó el pasado diciembre, se ha publicado en Nature. Ai2 también publica nuevos checkpoints en Hugging Face, además de checkpoints de Stage 1 que mantienen congelado el modelo global original mientras se entrenan los componentes a nivel de bytes de Bolmo."
+                "x": "Investigadores de la University of Waterloo evaluaron 11 grandes modelos de lenguaje en busca de sesgo de statu quo en consejos relacionados con el clima. El estudio se publica en Environmental Research Communications."
               },
               {
                 "t": "p",
-                "x": "La mayoría de los modelos de lenguaje dividen el texto en subpalabras a partir de un vocabulario fijo, lo que puede restarles flexibilidad con la ortografía, las palabras poco frecuentes y las cadenas inusuales. Los modelos a nivel de bytes trabajan con los bytes en bruto que hay detrás de los caracteres, pero igualar el rendimiento de las subpalabras solía exigir un costoso entrenamiento desde cero."
+                "x": "Evaluaron más de 7,500 consultas sobre temas como la compra de vehículos, recetas, calefacción doméstica y disyuntivas de política climática, lo que dio lugar a casi 55,000 prompts. Cuando cabían disyuntivas de política, los modelos reforzaron las decisiones previas de los usuarios aproximadamente el doble de veces."
               },
               {
                 "t": "p",
-                "x": "El proceso de \"byteificación\" (byteifying) de Ai2, en cambio, convierte un modelo de subpalabras ya capaz en uno a nivel de bytes con un entrenamiento adicional relativamente breve. En el artículo de Nature, el equipo lo aplicó, además de a Olmo, a Qwen 3 8B y Llama 3 8B, y creó Bwen 8B y Blama 8B; ambos se acercan a sus modelos de origen, y Bwen 8B supera a Bolmo 7B en el conjunto de evaluaciones agregadas de Ai2."
+                "x": "Los modelos dijeron que sí a los planes existentes cerca del 70% de las veces, pero solo el 34% en el caso de planes o políticas nuevos. Incluso teniendo en cuenta factores regionales, recomendaron vehículos eléctricos con menos frecuencia de la que esos vehículos ya se vendían en cada país."
               },
               {
                 "t": "p",
-                "x": "Como los bytes también van más allá del texto, Ai2 afirma que las mismas ideas podrían aplicarse con el tiempo a imágenes y audio."
+                "x": "El investigador principal, Seth Wynes, sugiere pedir a los chatbots que argumenten a favor de hacer algo nuevo."
               }
             ]
           }
@@ -687,347 +687,15 @@
       }
     },
     {
-      "id": "science-fossil-grass-pollen-cnn",
+      "id": "science-patent-attorney-ai-rct",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "신경망이 읽어낸\n25,000년 풀 꽃가루",
-      "body": "Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
-      "mini_headline": "AI가 읽은 25,000년 꽃가루",
+      "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
+      "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
+      "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "종이 다른 풀 꽃가루 알갱이도 일반 광학 현미경으로는 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경에 합성곱 신경망을 결합해 표면 무늬와 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-            "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 놓으면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
-          },
-          {
-            "t": "p",
-            "x": "이 모델은 개별 종의 이름까지 대지는 못한다. 대신 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-            "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
-          },
-          {
-            "t": "p",
-            "x": "Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 이 방법을 적용했더니, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았다가 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구 결과는 PNAS에 실렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Neural networks read\n25,000 years of grass pollen",
-          "body": "An Illinois team used CNNs and super-resolution microscopy to sort grass pollen in a 25,000-year Kenyan lake record.",
-          "mini_headline": "AI reads 25,000 years of pollen",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Grass pollen grains from different species look nearly identical under a standard light microscope. University of Illinois Urbana-Champaign researchers led by plant biologist Surangi Punyasena and former doctoral student Marc-Élie Adaimé combined super-resolution microscopy with a convolutional neural network to read subtle differences in surface patterning, complexity and wall thickness."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "Pollen from a flowering herb, a tropical tree and a perennial grass shows how simple grass pollen is by comparison."
-              },
-              {
-                "t": "p",
-                "x": "The model can't name individual species, but it estimates species diversity in mixed samples and distinguishes C3 from C4 grasses."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Super-resolution images of Poa anceps (a C3 grass) and Andropogon amethystinus (a C4 grass)."
-              },
-              {
-                "t": "p",
-                "x": "Applied to a 25,000-year sediment core from a lake on Mount Kenya, the method found grass diversity was lowest during the Last Glacial Maximum, about 21,000 to 18,000 years ago, and rose with CO2 and temperature. The C4 share was higher in the late ice age and then gradually declined. The study appears in PNAS."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "신경망이 읽어낸\n25,000년 풀 꽃가루",
-          "body": "Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
-          "mini_headline": "AI가 읽은 25,000년 꽃가루",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "종이 다른 풀 꽃가루 알갱이도 일반 광학 현미경으로는 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경에 합성곱 신경망을 결합해 표면 무늬와 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 놓으면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 개별 종의 이름까지 대지는 못한다. 대신 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
-              },
-              {
-                "t": "p",
-                "x": "Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 이 방법을 적용했더니, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았다가 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구 결과는 PNAS에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ニューラルネットが読む\n25,000年分のイネ科花粉",
-          "body": "IllinoisのチームがCNNsでケニアの湖の25,000年分のイネ科花粉を分類した。",
-          "mini_headline": "AIが読む25,000年分の花粉",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "種の異なるイネ科の花粉粒は、通常の光学顕微鏡ではほとんど見分けがつかない。植物生物学者Surangi Punyasenaと元博士課程学生Marc-Élie Adaiméが率いるUniversity of Illinois Urbana-Champaignの研究チームは、超解像顕微鏡と畳み込みニューラルネットワークを組み合わせ、表面の模様や複雑さ、壁の厚さの微妙な違いを読み取った。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "花を咲かせる草本、熱帯の樹木、多年生イネ科植物の花粉を並べると、イネ科の花粉がいかに単純かがわかる。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは個々の種名を特定することはできないが、混合サンプルの種多様性を推定し、C3型とC4型のイネ科を区別できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps(C3型イネ科)とAndropogon amethystinus(C4型イネ科)の超解像画像。"
-              },
-              {
-                "t": "p",
-                "x": "Mount Kenyaの湖から採取した25,000年分の堆積物コアに適用したところ、イネ科の多様性は約21,000〜18,000年前の最終氷期最盛期(Last Glacial Maximum)に最も低く、CO2と気温の上昇とともに高まった。C4型の割合は氷期後半に高く、その後徐々に低下した。研究はPNASに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "神经网络解读\n25,000年的禾草花粉",
-          "body": "Illinois团队用CNNs和超分辨显微镜为肯尼亚湖泊25,000年来的禾草花粉分类。",
-          "mini_headline": "AI解读25,000年花粉",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "不同物种的禾草花粉粒在普通光学显微镜下几乎一模一样。由植物生物学家Surangi Punyasena和前博士生Marc-Élie Adaimé领导的University of Illinois Urbana-Champaign研究团队，将超分辨率显微技术与卷积神经网络结合，读取花粉在表面纹饰、复杂度和壁厚上的细微差异。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "开花草本、热带树木和多年生禾草的花粉相比，可以看出禾草花粉相对简单。"
-              },
-              {
-                "t": "p",
-                "x": "该模型无法识别具体物种，但能估算混合样本中的物种多样性，并区分C3和C4禾草。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps（C3禾草）与Andropogon amethystinus（C4禾草）的超分辨率图像。"
-              },
-              {
-                "t": "p",
-                "x": "将该方法应用于Mount Kenya一处湖泊25,000年的沉积物岩芯后，研究发现禾草多样性在约21,000至18,000年前的末次盛冰期（Last Glacial Maximum）最低，并随CO2和气温上升而增加。C4禾草的占比在冰期晚期较高，之后逐渐下降。该研究发表于PNAS。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Redes neuronales leen\n25,000 años de polen de hierba",
-          "body": "Un equipo de Illinois usó CNNs para clasificar polen de gramíneas de un registro de 25,000 años en un lago de Kenia.",
-          "mini_headline": "La IA lee 25,000 años de polen",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los granos de polen de gramíneas de distintas especies parecen casi idénticos bajo un microscopio óptico convencional. Investigadores de la University of Illinois Urbana-Champaign, dirigidos por la bióloga vegetal Surangi Punyasena y el exdoctorando Marc-Élie Adaimé, combinaron microscopía de superresolución con una red neuronal convolucional para leer diferencias sutiles en el patrón de la superficie, la complejidad y el grosor de la pared."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "El polen de una hierba con flor, un árbol tropical y una gramínea perenne muestra lo simple que es, en comparación, el polen de las gramíneas."
-              },
-              {
-                "t": "p",
-                "x": "El modelo no puede identificar especies concretas, pero estima la diversidad de especies en muestras mixtas y distingue las gramíneas C3 de las C4."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Imágenes de superresolución de Poa anceps (una gramínea C3) y Andropogon amethystinus (una gramínea C4)."
-              },
-              {
-                "t": "p",
-                "x": "Aplicado a un testigo de sedimentos de 25,000 años de un lago del Mount Kenya, el método mostró que la diversidad de gramíneas fue mínima durante el Último Máximo Glacial (Last Glacial Maximum), hace unos 21,000 a 18,000 años, y aumentó con el CO2 y la temperatura. La proporción de C4 fue mayor al final de la edad de hielo y luego disminuyó de forma gradual. El estudio se publica en PNAS."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "신경망이 읽어낸\n25,000년의 풀 꽃가루",
-          "body": "Illinois 연구팀이 CNNs로 케냐 호수 25,000년 풀 꽃가루를 갈랐다.",
-          "mini_headline": "AI가 읽은 25,000년 꽃가루",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "종이 다른 풀 꽃가루 알갱이는 일반 광학 현미경으로 보면 거의 똑같아 보인다. 식물생물학자 Surangi Punyasena와 전 박사과정생 Marc-Élie Adaimé가 이끈 University of Illinois Urbana-Champaign 연구진은 초해상도 현미경과 합성곱 신경망을 결합해 표면 무늬, 복잡도, 벽 두께의 미묘한 차이를 읽어냈다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "꽃 피는 초본, 열대 나무, 여러해살이 풀의 꽃가루를 나란히 보면 풀 꽃가루가 상대적으로 얼마나 단순한지 드러난다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 개별 종의 이름을 대지는 못하지만, 혼합 시료의 종 다양성을 추정하고 C3 풀과 C4 풀을 구별한다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps(C3 풀)와 Andropogon amethystinus(C4 풀)의 초해상도 이미지."
-              },
-              {
-                "t": "p",
-                "x": "이 방법을 Mount Kenya의 한 호수에서 얻은 25,000년 퇴적물 코어에 적용하자, 풀의 다양성은 약 21,000년에서 18,000년 전 최종빙기 최성기(Last Glacial Maximum)에 가장 낮았고 CO2와 기온이 오르면서 함께 높아졌다. C4 풀의 비중은 빙하기 후기에 더 높았다가 점차 줄었다. 연구는 PNAS에 실렸다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ニューラルネットが読む\n25,000年分のイネ科花粉",
-          "body": "IllinoisのチームがCNNsでケニアの湖の25,000年分のイネ科花粉を分類した。",
-          "mini_headline": "AIが読む25,000年分の花粉",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "種の異なるイネ科の花粉粒は、通常の光学顕微鏡ではほとんど見分けがつかない。植物生物学者Surangi Punyasenaと元博士課程学生Marc-Élie Adaiméが率いるUniversity of Illinois Urbana-Champaignの研究チームは、超解像顕微鏡と畳み込みニューラルネットワークを組み合わせ、表面の模様や複雑さ、壁の厚さの微妙な違いを読み取った。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "花を咲かせる草本、熱帯の樹木、多年生イネ科植物の花粉を並べると、イネ科の花粉がいかに単純かがわかる。"
-              },
-              {
-                "t": "p",
-                "x": "このモデルは個々の種名を特定することはできないが、混合サンプルの種多様性を推定し、C3型とC4型のイネ科を区別できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps(C3型イネ科)とAndropogon amethystinus(C4型イネ科)の超解像画像。"
-              },
-              {
-                "t": "p",
-                "x": "Mount Kenyaの湖から採取した25,000年分の堆積物コアに適用したところ、イネ科の多様性は約21,000〜18,000年前の最終氷期最盛期(Last Glacial Maximum)に最も低く、CO2と気温の上昇とともに高まった。C4型の割合は氷期後半に高く、その後徐々に低下した。研究はPNASに掲載された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "神经网络解读\n25,000年的禾草花粉",
-          "body": "Illinois团队用CNNs和超分辨显微镜为肯尼亚湖泊25,000年来的禾草花粉分类。",
-          "mini_headline": "AI解读25,000年花粉",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "不同物种的禾草花粉粒在普通光学显微镜下几乎一模一样。由植物生物学家Surangi Punyasena和前博士生Marc-Élie Adaimé领导的University of Illinois Urbana-Champaign研究团队，将超分辨率显微技术与卷积神经网络结合，读取花粉在表面纹饰、复杂度和壁厚上的细微差异。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "开花草本、热带树木和多年生禾草的花粉相比，可以看出禾草花粉相对简单。"
-              },
-              {
-                "t": "p",
-                "x": "该模型无法识别具体物种，但能估算混合样本中的物种多样性，并区分C3和C4禾草。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Poa anceps（C3禾草）与Andropogon amethystinus（C4禾草）的超分辨率图像。"
-              },
-              {
-                "t": "p",
-                "x": "将该方法应用于Mount Kenya一处湖泊25,000年的沉积物岩芯后，研究发现禾草多样性在约21,000至18,000年前的末次盛冰期（Last Glacial Maximum）最低，并随CO2和气温上升而增加。C4禾草的占比在冰期晚期较高，之后逐渐下降。该研究发表于PNAS。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Redes neuronales leen\n25,000 años de polen de hierba",
-          "body": "Un equipo de Illinois usó CNNs para clasificar polen de gramíneas de un registro de 25,000 años en un lago de Kenia.",
-          "mini_headline": "La IA lee 25,000 años de polen",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los granos de polen de gramíneas de distintas especies parecen casi idénticos bajo un microscopio óptico convencional. Investigadores de la University of Illinois Urbana-Champaign, dirigidos por la bióloga vegetal Surangi Punyasena y el exdoctorando Marc-Élie Adaimé, combinaron microscopía de superresolución con una red neuronal convolucional para leer diferencias sutiles en el patrón de la superficie, la complejidad y el grosor de la pared."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-                "cap": "El polen de una hierba con flor, un árbol tropical y una gramínea perenne muestra lo simple que es, en comparación, el polen de las gramíneas."
-              },
-              {
-                "t": "p",
-                "x": "El modelo no puede identificar especies concretas, pero estima la diversidad de especies en muestras mixtas y distingue las gramíneas C3 de las C4."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t-2.jpg",
-                "cap": "Imágenes de superresolución de Poa anceps (una gramínea C3) y Andropogon amethystinus (una gramínea C4)."
-              },
-              {
-                "t": "p",
-                "x": "Aplicado a un testigo de sedimentos de 25,000 años de un lago del Mount Kenya, el método mostró que la diversidad de gramíneas fue mínima durante el Último Máximo Glacial (Last Glacial Maximum), hace unos 21,000 a 18,000 años, y aumentó con el CO2 y la temperatura. La proporción de C4 fue mayor al final de la edad de hielo y luego disminuyó de forma gradual. El estudio se publica en PNAS."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-llm-symbolic-role-filler",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
-      "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
-      "mini_headline": "챗봇 안의 기호 구조",
-      "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+      "source": "Google Research",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1035,155 +703,233 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-            "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
           },
           {
             "t": "p",
-            "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 다루는 것은 긴 숫자 목록, 곧 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자만 봐서는 드러나지 않는 기호 구조로 암묵적으로 짜여 있다는 사실을 발견했다."
+            "x": "David Autor와 Tanya Rodchenko는 현업 변리사를 상대로 세 달간 무작위 대조 실험을 했다. AI를 일상적으로 쓰면 작업 품질은 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차마다 달랐다."
           },
           {
             "t": "p",
-            "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라는 역할-채움 구조로 바꿨다. 이 구조에서 단어나 숫자는 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 그대로였다."
+            "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부) 접근권을 IP 로펌 열한 곳의 변호사 133명에게 무작위로 나눠 줬다. AI를 쓴 집단의 초안 작성 점수는 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 올랐다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+            "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
           },
           {
             "t": "p",
-            "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식으로 표적 편집을 하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에서 볼 수 있다."
+            "x": "90일 차에 AI 없이 치른 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰다. 이 차이는 전부 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄게 나아지지 않았고, 점수가 아주 낮은 쪽과 좋은 쪽으로 더 크게 갈라졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+            "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
+          },
+          {
+            "t": "p",
+            "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 크는 길을 막아서는 안 된다고 경고한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Symbol-like structure\nemerges inside chatbots",
-          "body": "Yale, Microsoft and NYU researchers swapped LLM vectors for role-and-filler symbols with little change in behavior.",
-          "mini_headline": "Symbols emerge inside chatbots",
+          "headline": "AI lifts the work, but not\nevery worker's skill",
+          "body": "In a three-month patent attorney trial, AI raised everyone's work quality, but only seniors gained stronger judgment.",
+          "mini_headline": "AI lifts work, not every worker",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "\"A Sunday on La Grande Jatte,\" Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "Large language models handle math, logic and coding, tasks that seem to need symbolic reasoning, yet they don't manipulate symbols the way classic rule-based AI does; they process vectors, long lists of numbers. A team led by Yale computational linguist Tom McCoy found that these vectors implicitly organize into symbolic structure that isn't visible at the level of individual numbers."
+                "x": "In a three-month randomized controlled trial with practicing patent attorneys, David Autor and Tanya Rodchenko found that routine AI use lifts work quality across the board, but its effect on on-the-job learning depends on seniority."
               },
               {
                 "t": "p",
-                "x": "The researchers replaced the internal representations of seven LLMs with role-filler structures known as tensor product representations, in which words or numbers fill roles such as subject or numerator. Across language, arithmetic, logic and coding, the models' behavior remained largely unchanged."
+                "x": "The team randomized access to a then-unreleased Google Labs patent-writing assistant, now part of Gemini Notebook, among 133 lawyers at eleven IP law firms. AI access raised drafting scores by 0.34 standard deviations at 10 days and 0.38 SD at 90 days."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "Estimated impact of AI access on patent drafting and redlining quality, for all, junior and senior lawyers."
               },
               {
                 "t": "p",
-                "x": "Targeted edits, such as moving the word \"clever\" to modify a different noun, changed the output accordingly. \"LLMs naturally converge to representations with role-filler structure,\" McCoy said. Co-authors are Paul Soulos and Paul Smolensky of Microsoft and Tal Linzen of NYU; the preprint is on arXiv."
+                "x": "On an unassisted redlining task at 90 days, the AI group outperformed controls by 0.32 SD, driven entirely by senior lawyers (0.45 SD). Juniors showed no discernible improvement; their scores bifurcated into more very low and more good ones."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "Distributions of average redlining scores for treated and control lawyers by experience."
+              },
+              {
+                "t": "p",
+                "x": "Seniors described treating AI output as a \"logic auditor.\" The authors warn that tools producing better work today must not prevent juniors from becoming tomorrow's experts."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
-          "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
-          "mini_headline": "챗봇 안의 기호 구조",
+          "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
+          "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
+          "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 다루는 것은 긴 숫자 목록, 곧 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자만 봐서는 드러나지 않는 기호 구조로 암묵적으로 짜여 있다는 사실을 발견했다."
+                "x": "David Autor와 Tanya Rodchenko는 현업 변리사를 상대로 세 달간 무작위 대조 실험을 했다. AI를 일상적으로 쓰면 작업 품질은 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차마다 달랐다."
               },
               {
                 "t": "p",
-                "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라는 역할-채움 구조로 바꿨다. 이 구조에서 단어나 숫자는 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 그대로였다."
+                "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부) 접근권을 IP 로펌 열한 곳의 변호사 133명에게 무작위로 나눠 줬다. AI를 쓴 집단의 초안 작성 점수는 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 올랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
               },
               {
                 "t": "p",
-                "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식으로 표적 편집을 하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에서 볼 수 있다."
+                "x": "90일 차에 AI 없이 치른 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰다. 이 차이는 전부 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄게 나아지지 않았고, 점수가 아주 낮은 쪽과 좋은 쪽으로 더 크게 갈라졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
+              },
+              {
+                "t": "p",
+                "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 크는 길을 막아서는 안 된다고 경고한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボット内部に\n記号のような構造が出現",
-          "body": "Yale等の研究で、LLMのベクトルを役割・充填記号に置き換えても挙動はほぼ同じだった。",
-          "mini_headline": "チャットボット内に記号構造",
+          "headline": "AIは仕事を底上げ\nだが全員の腕は伸びず",
+          "body": "弁理士の三か月の試験で、AIは全員の仕事の質を上げたが、判断力が伸びたのはシニアのみだ。",
+          "mini_headline": "AIは仕事を上げ、全員は伸ばさない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat「グランド・ジャット島の日曜日の午後」(\"A Sunday on La Grande Jatte\")、1884年。Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルは、記号的推論が必要に見える数学や論理、コーディングをこなすが、古典的なルールベースのAIのように記号を操作しているわけではない。処理しているのは、長い数値の列であるベクトルだ。Yaleの計算言語学者Tom McCoyが率いるチームは、これらのベクトルが、個々の数値のレベルでは見えない記号的構造へと暗黙のうちに組織化されていることを発見した。"
+                "x": "現役の弁理士を対象にした三か月間のランダム化比較試験で、David AutorとTanya Rodchenkoは、AIを日常的に使うと仕事の質が全般的に向上する一方、職場での学び(on-the-job learning)への効果は経験年数によって異なることを明らかにした。"
               },
               {
                 "t": "p",
-                "x": "研究者らは七つのLLMsの内部表現を、テンソル積表現(tensor product representations)と呼ばれる役割・充填構造に置き換えた。この構造では、単語や数が主語や分子といった役割を埋める。言語、算術、論理、コーディングのいずれでも、モデルの挙動はほとんど変わらなかった。"
+                "x": "チームは、当時未公開だったGoogle Labsの特許作成アシスタント(現在はGemini Notebookの一部)へのアクセスを、十一のIP法律事務所に所属する弁護士133人の間で無作為に割り当てた。AIへのアクセスにより、起草スコアは10日時点で0.34標準偏差、90日時点で0.38 SD上昇した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AIへのアクセスが特許起草とレッドライン作業の質に与えた推定効果(全体、ジュニア、シニア弁護士別)。"
               },
               {
                 "t": "p",
-                "x": "単語「clever」が別の名詞を修飾するよう移すといった狙いを絞った編集を加えると、出力もそれに応じて変化した。McCoyは「LLMsは自然に役割・充填構造を持つ表現へ収束する」と述べた。共著者はMicrosoftのPaul SoulosとPaul Smolensky、NYUのTal Linzenで、プレプリントはarXivで公開されている。"
+                "x": "90日時点でAIなしに行ったレッドライン作業では、AIグループが対照群を0.32 SD上回ったが、その差はすべてシニア弁護士(0.45 SD)によるものだった。ジュニアには目立った改善が見られず、スコアは非常に低いものと良いものの両方が増える形で二極化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "経験別に見た、処置群と対照群の弁護士の平均レッドラインスコアの分布。"
+              },
+              {
+                "t": "p",
+                "x": "シニアは、AIの出力を「論理の監査役(logic auditor)」として扱ったと語った。著者らは、今日より良い仕事を生み出すツールが、ジュニアが明日の専門家になる道を妨げてはならないと警告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人内部\n浮现类符号结构",
-          "body": "Yale、Microsoft和NYU研究者把LLM向量换成角色-填充符号，行为几乎不变。",
-          "mini_headline": "聊天机器人内部浮现符号",
+          "headline": "AI提升了工作\n但未让人人技能提升",
+          "body": "在为期三个月的专利律师试验中，AI提升了所有人的工作质量，但只有资深者判断力增强。",
+          "mini_headline": "AI提升工作，未必提升每个人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat《大碗岛的星期天下午》（\"A Sunday on La Grande Jatte\"），1884年。Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "大语言模型能处理数学、逻辑和编程这类看似需要符号推理的任务，但它们并不像经典的基于规则的AI那样操作符号，而是处理向量，也就是一长串数字。Yale计算语言学家Tom McCoy领导的团队发现，这些向量会隐性地组织成一种符号结构，而这种结构在单个数字层面上是看不出来的。"
+                "x": "在一项针对执业专利律师、为期三个月的随机对照试验中，David Autor和Tanya Rodchenko发现，日常使用AI能全面提升工作质量，但它对在职学习（on-the-job learning）的影响取决于资历。"
               },
               {
                 "t": "p",
-                "x": "研究人员将七个LLMs的内部表征替换为一种称为张量积表征（tensor product representations）的角色-填充结构，其中单词或数字填充主语、分子等角色。在语言、算术、逻辑和编程任务中，模型的行为基本没有变化。"
+                "x": "团队在十一家IP律所的133名律师中，随机分配了一款当时尚未发布的Google Labs专利撰写助手的使用权限，该工具现已成为Gemini Notebook的一部分。获得AI后，起草得分在第10天提高了0.34个标准差，在第90天提高了0.38 SD。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AI使用权限对专利起草和修订标注质量的估计影响，分为全体、初级和资深律师。"
               },
               {
                 "t": "p",
-                "x": "有针对性的编辑——例如把单词“clever”移去修饰另一个名词——会使输出相应改变。McCoy说：“LLMs会自然地收敛到具有角色-填充结构的表征。”合著者包括Microsoft的Paul Soulos和Paul Smolensky，以及NYU的Tal Linzen；预印本已发布在arXiv上。"
+                "x": "在第90天进行的无辅助修订标注任务中，AI组比对照组高出0.32 SD，这一差距完全来自资深律师（0.45 SD）。初级律师没有明显进步，他们的分数出现两极分化，极低分和高分都更多。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "按经验划分的实验组与对照组律师平均修订标注得分分布。"
+              },
+              {
+                "t": "p",
+                "x": "资深律师表示，他们把AI输出当作“逻辑审计员”（logic auditor）来对待。作者警告，今天能产出更好成果的工具，不能阻碍初级律师成长为明天的专家。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Surge una estructura simbólica\ndentro de los chatbots",
-          "body": "Equipos de Yale, Microsoft y NYU cambiaron vectores de LLM por símbolos de rol y relleno y la conducta apenas varió.",
-          "mini_headline": "Surgen símbolos dentro de los chatbots",
+          "headline": "La IA eleva el trabajo,\npero no la destreza de todos",
+          "body": "Con abogados de patentes, la IA mejoró en tres meses el trabajo de todos, pero solo los sénior ganaron criterio.",
+          "mini_headline": "La IA mejora el trabajo, no a todos los trabajadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "\"A Sunday on La Grande Jatte\" (Tarde de domingo en la isla de La Grande Jatte), Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje resuelven tareas de matemáticas, lógica y programación que parecen requerir razonamiento simbólico, pero no manipulan símbolos como lo hace la IA (AI) clásica basada en reglas; procesan vectores, largas listas de números. Un equipo dirigido por el lingüista computacional de Yale Tom McCoy descubrió que esos vectores se organizan implícitamente en una estructura simbólica que no es visible al nivel de los números individuales."
+                "x": "En un ensayo controlado aleatorizado de tres meses con abogados de patentes en ejercicio, David Autor y Tanya Rodchenko observaron que el uso habitual de la IA eleva la calidad del trabajo en todos los casos, pero que su efecto sobre el aprendizaje en el puesto (on-the-job learning) depende de la antigüedad."
               },
               {
                 "t": "p",
-                "x": "Los investigadores sustituyeron las representaciones internas de siete LLMs por estructuras de rol y relleno conocidas como representaciones de producto tensorial (tensor product representations), en las que palabras o números ocupan roles como sujeto o numerador. En lenguaje, aritmética, lógica y programación, el comportamiento de los modelos se mantuvo prácticamente igual."
+                "x": "El equipo asignó al azar el acceso a un asistente de redacción de patentes de Google Labs, entonces inédito y hoy parte de Gemini Notebook, entre 133 abogados de once bufetes de IP. El acceso a la IA elevó las puntuaciones de redacción en 0.34 desviaciones estándar a los 10 días y en 0.38 SD a los 90 días."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "Impacto estimado del acceso a la IA en la calidad de la redacción de patentes y de la revisión con marcas, para todos los abogados, los júnior y los sénior."
               },
               {
                 "t": "p",
-                "x": "Las ediciones dirigidas, como mover la palabra \"clever\" para que modificara a otro sustantivo, cambiaron la salida en consecuencia. \"Los LLMs convergen de forma natural hacia representaciones con estructura de rol y relleno\", afirmó McCoy. Los coautores son Paul Soulos y Paul Smolensky, de Microsoft, y Tal Linzen, de NYU; la prepublicación está en arXiv."
+                "x": "En una tarea de revisión con marcas sin asistencia a los 90 días, el grupo con IA superó al de control en 0.32 SD, una ventaja que procedía por completo de los abogados sénior (0.45 SD). Los júnior no mostraron una mejora apreciable; sus puntuaciones se bifurcaron, con más resultados muy bajos y más resultados buenos."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "Distribución de las puntuaciones medias de revisión con marcas de los abogados tratados y de control, según experiencia."
+              },
+              {
+                "t": "p",
+                "x": "Los sénior contaron que trataban los resultados de la IA como un \"auditor lógico\" (logic auditor). Los autores advierten de que las herramientas que hoy producen un mejor trabajo no deben impedir que los júnior se conviertan en los expertos del mañana."
               }
             ]
           }
@@ -1191,109 +937,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇 안에 생겨난\n기호 닮은 구조",
-          "body": "Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
-          "mini_headline": "챗봇 안의 기호 구조",
+          "headline": "AI는 일을 높이지만\n모두의 실력은 아니다",
+          "body": "석 달 변리사 실험에서 AI는 모두의 작업 질을 높였지만 판단력은 시니어만 늘었다.",
+          "mini_headline": "AI는 일을 높이지만 모두를 키우진 않는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat, 〈그랑드 자트 섬의 일요일 오후〉(\"A Sunday on La Grande Jatte\"), 1884. Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "대형 언어 모델은 기호 추론이 필요해 보이는 수학, 논리, 코딩을 해내지만, 고전적인 규칙 기반 AI처럼 기호를 조작하지는 않는다. 이들이 처리하는 것은 긴 숫자 목록인 벡터다. Yale 계산언어학자 Tom McCoy가 이끈 연구팀은 이 벡터들이 개별 숫자 수준에서는 보이지 않는 기호 구조로 암묵적으로 조직된다는 사실을 발견했다."
+                "x": "현업 변리사를 대상으로 한 세 달간의 무작위 대조 실험에서 David Autor와 Tanya Rodchenko는 AI를 일상적으로 쓰면 작업 품질이 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차에 따라 다르다는 사실을 확인했다."
               },
               {
                 "t": "p",
-                "x": "연구진은 LLMs 일곱 종의 내부 표현을 텐서곱 표현(tensor product representations)이라 불리는 역할-채움 구조로 바꿨다. 이 구조에서는 단어나 숫자가 주어나 분자 같은 역할을 채운다. 언어, 산술, 논리, 코딩 전반에서 모델의 행동은 대체로 변하지 않았다."
+                "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부)에 대한 접근권을 열한 곳의 IP 로펌 소속 변호사 133명에게 무작위로 배정했다. AI 접근은 초안 작성 점수를 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 높였다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
               },
               {
                 "t": "p",
-                "x": "단어 \"clever\"가 다른 명사를 꾸미도록 옮기는 식의 표적 편집을 가하자 출력도 그에 맞게 바뀌었다. McCoy는 \"LLMs는 자연스럽게 역할-채움 구조를 지닌 표현으로 수렴한다\"고 말했다. 공동 저자는 Microsoft의 Paul Soulos와 Paul Smolensky, NYU의 Tal Linzen이며, 프리프린트는 arXiv에 공개돼 있다."
+                "x": "90일 차에 AI 없이 수행한 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰는데, 이 차이는 전적으로 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄는 향상이 없었고, 점수는 매우 낮은 쪽과 좋은 쪽으로 더 많이 갈라졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
+              },
+              {
+                "t": "p",
+                "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 말했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 성장하는 길을 막아서는 안 된다고 경고한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボット内部に\n記号のような構造が出現",
-          "body": "Yale等の研究で、LLMのベクトルを役割・充填記号に置き換えても挙動はほぼ同じだった。",
-          "mini_headline": "チャットボット内に記号構造",
+          "headline": "AIは仕事を底上げ\nだが全員の腕は伸びず",
+          "body": "弁理士の三か月の試験で、AIは全員の仕事の質を上げたが、判断力が伸びたのはシニアのみだ。",
+          "mini_headline": "AIは仕事を上げ、全員は伸ばさない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat「グランド・ジャット島の日曜日の午後」(\"A Sunday on La Grande Jatte\")、1884年。Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルは、記号的推論が必要に見える数学や論理、コーディングをこなすが、古典的なルールベースのAIのように記号を操作しているわけではない。処理しているのは、長い数値の列であるベクトルだ。Yaleの計算言語学者Tom McCoyが率いるチームは、これらのベクトルが、個々の数値のレベルでは見えない記号的構造へと暗黙のうちに組織化されていることを発見した。"
+                "x": "現役の弁理士を対象にした三か月間のランダム化比較試験で、David AutorとTanya Rodchenkoは、AIを日常的に使うと仕事の質が全般的に向上する一方、職場での学び(on-the-job learning)への効果は経験年数によって異なることを明らかにした。"
               },
               {
                 "t": "p",
-                "x": "研究者らは七つのLLMsの内部表現を、テンソル積表現(tensor product representations)と呼ばれる役割・充填構造に置き換えた。この構造では、単語や数が主語や分子といった役割を埋める。言語、算術、論理、コーディングのいずれでも、モデルの挙動はほとんど変わらなかった。"
+                "x": "チームは、当時未公開だったGoogle Labsの特許作成アシスタント(現在はGemini Notebookの一部)へのアクセスを、十一のIP法律事務所に所属する弁護士133人の間で無作為に割り当てた。AIへのアクセスにより、起草スコアは10日時点で0.34標準偏差、90日時点で0.38 SD上昇した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AIへのアクセスが特許起草とレッドライン作業の質に与えた推定効果(全体、ジュニア、シニア弁護士別)。"
               },
               {
                 "t": "p",
-                "x": "単語「clever」が別の名詞を修飾するよう移すといった狙いを絞った編集を加えると、出力もそれに応じて変化した。McCoyは「LLMsは自然に役割・充填構造を持つ表現へ収束する」と述べた。共著者はMicrosoftのPaul SoulosとPaul Smolensky、NYUのTal Linzenで、プレプリントはarXivで公開されている。"
+                "x": "90日時点でAIなしに行ったレッドライン作業では、AIグループが対照群を0.32 SD上回ったが、その差はすべてシニア弁護士(0.45 SD)によるものだった。ジュニアには目立った改善が見られず、スコアは非常に低いものと良いものの両方が増える形で二極化した。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "経験別に見た、処置群と対照群の弁護士の平均レッドラインスコアの分布。"
+              },
+              {
+                "t": "p",
+                "x": "シニアは、AIの出力を「論理の監査役(logic auditor)」として扱ったと語った。著者らは、今日より良い仕事を生み出すツールが、ジュニアが明日の専門家になる道を妨げてはならないと警告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人内部\n浮现类符号结构",
-          "body": "Yale、Microsoft和NYU研究者把LLM向量换成角色-填充符号，行为几乎不变。",
-          "mini_headline": "聊天机器人内部浮现符号",
+          "headline": "AI提升了工作\n但未让人人技能提升",
+          "body": "在为期三个月的专利律师试验中，AI提升了所有人的工作质量，但只有资深者判断力增强。",
+          "mini_headline": "AI提升工作，未必提升每个人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "Georges Seurat《大碗岛的星期天下午》（\"A Sunday on La Grande Jatte\"），1884年。Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "大语言模型能处理数学、逻辑和编程这类看似需要符号推理的任务，但它们并不像经典的基于规则的AI那样操作符号，而是处理向量，也就是一长串数字。Yale计算语言学家Tom McCoy领导的团队发现，这些向量会隐性地组织成一种符号结构，而这种结构在单个数字层面上是看不出来的。"
+                "x": "在一项针对执业专利律师、为期三个月的随机对照试验中，David Autor和Tanya Rodchenko发现，日常使用AI能全面提升工作质量，但它对在职学习（on-the-job learning）的影响取决于资历。"
               },
               {
                 "t": "p",
-                "x": "研究人员将七个LLMs的内部表征替换为一种称为张量积表征（tensor product representations）的角色-填充结构，其中单词或数字填充主语、分子等角色。在语言、算术、逻辑和编程任务中，模型的行为基本没有变化。"
+                "x": "团队在十一家IP律所的133名律师中，随机分配了一款当时尚未发布的Google Labs专利撰写助手的使用权限，该工具现已成为Gemini Notebook的一部分。获得AI后，起草得分在第10天提高了0.34个标准差，在第90天提高了0.38 SD。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "AI使用权限对专利起草和修订标注质量的估计影响，分为全体、初级和资深律师。"
               },
               {
                 "t": "p",
-                "x": "有针对性的编辑——例如把单词“clever”移去修饰另一个名词——会使输出相应改变。McCoy说：“LLMs会自然地收敛到具有角色-填充结构的表征。”合著者包括Microsoft的Paul Soulos和Paul Smolensky，以及NYU的Tal Linzen；预印本已发布在arXiv上。"
+                "x": "在第90天进行的无辅助修订标注任务中，AI组比对照组高出0.32 SD，这一差距完全来自资深律师（0.45 SD）。初级律师没有明显进步，他们的分数出现两极分化，极低分和高分都更多。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "按经验划分的实验组与对照组律师平均修订标注得分分布。"
+              },
+              {
+                "t": "p",
+                "x": "资深律师表示，他们把AI输出当作“逻辑审计员”（logic auditor）来对待。作者警告，今天能产出更好成果的工具，不能阻碍初级律师成长为明天的专家。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Surge una estructura simbólica\ndentro de los chatbots",
-          "body": "Equipos de Yale, Microsoft y NYU cambiaron vectores de LLM por símbolos de rol y relleno y la conducta apenas varió.",
-          "mini_headline": "Surgen símbolos dentro de los chatbots",
+          "headline": "La IA eleva el trabajo,\npero no la destreza de todos",
+          "body": "Con abogados de patentes, la IA mejoró en tres meses el trabajo de todos, pero solo los sénior ganaron criterio.",
+          "mini_headline": "La IA mejora el trabajo, no a todos los trabajadores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-                "cap": "\"A Sunday on La Grande Jatte\" (Tarde de domingo en la isla de La Grande Jatte), Georges Seurat, 1884. Credit: Public domain/Wikimedia Commons"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
               },
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje resuelven tareas de matemáticas, lógica y programación que parecen requerir razonamiento simbólico, pero no manipulan símbolos como lo hace la IA (AI) clásica basada en reglas; procesan vectores, largas listas de números. Un equipo dirigido por el lingüista computacional de Yale Tom McCoy descubrió que esos vectores se organizan implícitamente en una estructura simbólica que no es visible al nivel de los números individuales."
+                "x": "En un ensayo controlado aleatorizado de tres meses con abogados de patentes en ejercicio, David Autor y Tanya Rodchenko observaron que el uso habitual de la IA eleva la calidad del trabajo en todos los casos, pero que su efecto sobre el aprendizaje en el puesto (on-the-job learning) depende de la antigüedad."
               },
               {
                 "t": "p",
-                "x": "Los investigadores sustituyeron las representaciones internas de siete LLMs por estructuras de rol y relleno conocidas como representaciones de producto tensorial (tensor product representations), en las que palabras o números ocupan roles como sujeto o numerador. En lenguaje, aritmética, lógica y programación, el comportamiento de los modelos se mantuvo prácticamente igual."
+                "x": "El equipo asignó al azar el acceso a un asistente de redacción de patentes de Google Labs, entonces inédito y hoy parte de Gemini Notebook, entre 133 abogados de once bufetes de IP. El acceso a la IA elevó las puntuaciones de redacción en 0.34 desviaciones estándar a los 10 días y en 0.38 SD a los 90 días."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+                "cap": "Impacto estimado del acceso a la IA en la calidad de la redacción de patentes y de la revisión con marcas, para todos los abogados, los júnior y los sénior."
               },
               {
                 "t": "p",
-                "x": "Las ediciones dirigidas, como mover la palabra \"clever\" para que modificara a otro sustantivo, cambiaron la salida en consecuencia. \"Los LLMs convergen de forma natural hacia representaciones con estructura de rol y relleno\", afirmó McCoy. Los coautores son Paul Soulos y Paul Smolensky, de Microsoft, y Tal Linzen, de NYU; la prepublicación está en arXiv."
+                "x": "En una tarea de revisión con marcas sin asistencia a los 90 días, el grupo con IA superó al de control en 0.32 SD, una ventaja que procedía por completo de los abogados sénior (0.45 SD). Los júnior no mostraron una mejora apreciable; sus puntuaciones se bifurcaron, con más resultados muy bajos y más resultados buenos."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+                "cap": "Distribución de las puntuaciones medias de revisión con marcas de los abogados tratados y de control, según experiencia."
+              },
+              {
+                "t": "p",
+                "x": "Los sénior contaron que trataban los resultados de la IA como un \"auditor lógico\" (logic auditor). Los autores advierten de que las herramientas que hoy producen un mejor trabajo no deben impedir que los júnior se conviertan en los expertos del mañana."
               }
             ]
           }
@@ -1301,171 +1099,219 @@
       }
     },
     {
-      "id": "science-spiking-net-event-timing",
+      "id": "science-quanta-math-ai-reckoning",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
-      "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
-      "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
+      "headline": "AI의 급진전 앞에\n고민하는 수학자들",
+      "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며, 살아남으려 보상 체계를 다시 짠다.",
+      "mini_headline": "AI 앞에서 고민하는 수학자들",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-spiking-neural-network.html",
-      "accent": "#eb367f",
+      "source": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+            "cap": "Eduardo Ramón for Quanta Magazine"
+          },
+          {
             "t": "p",
-            "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀이 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다. 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 네트워크다."
+            "x": "9월 8일 OpenAI는 자사 모델이 수학의 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 저자 자격과 기준을 둘러싼 논란이 뒤따랐다. 반응에는 슬픔과 혼란, 두려움이 짙게 묻어났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연하자 학생들은 분노와 좌절을 드러냈다."
+          },
+          {
+            "t": "p",
+            "x": "AI의 증명은 검증은 되지만 거의 읽히지 않아, 수학자들끼리 주고받던 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 공개하지 않고 있다. arXiv는 이제 저자 한 명당 한 달에 두 편까지만 투고를 받고, MathOverflow의 활동은 줄어드는 중이다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-            "cap": "학습을 마치면 단서만 주어져도 시점별 예측 활동이 나타나고 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
+            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
           },
           {
             "t": "p",
-            "x": "학습은 판독(readout) 연결에서만 일어난다. 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 여기에 적응하고, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
+            "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 다르게 본다. 수학자들이 AI의 결과를 해석하는 역할을 맡으리라는 것이다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라 부르는 이들도 있다."
           },
           {
             "t": "p",
-            "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식의 증거라기보다 계산적 시연에 가깝다. 그래도 저자들은 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 국소 학습이 잘 맞을 수 있다고 본다."
+            "x": "Chu 등은 Association for Human Mathematics를 꾸렸다. 수학자들은 훈련과 출판, 채용 방식을 다시 생각하는 중이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spiking network learns\nwhat, when and how likely",
-          "body": "A 1,000-neuron spiking network learned what a cue predicts, when it arrives and how likely it is, with only local rules.",
-          "mini_headline": "Spiking net learns what and when",
+          "headline": "Mathematicians reckon with\nAI's sudden advance",
+          "body": "Mathematicians are meeting AI's sudden advance with grief and anger, and rethinking their field's incentives to survive.",
+          "mini_headline": "Mathematicians reckon with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "Researchers at the University of Tokyo's International Research Center for Neurointelligence (WPI-IRCN), led by Zenas C. Chao with Yohei Yamada, built a recurrent spiking neural network of 1,000 neurons that learns what is expected, when it is expected and how likely it is, all at once."
+                "x": "On September 8, OpenAI announced its models had solved one of math's most famous problems, sparking controversy over authorship and standards. Many responses revealed grief, confusion and fear. At a Berkeley talk by Ken Ono of the start-up Axiom Math, students reacted with anger and frustration."
+              },
+              {
+                "t": "p",
+                "x": "AI proofs are verified but nearly impossible to read, leaving out the understanding mathematicians trade in. \"It breaks our system,\" said Caltech's Tasmin Chu. OpenAI is keeping more than 100 results secret, arXiv now limits authors to two submissions a month, and MathOverflow activity is declining."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "After training, a cue alone evokes time-specific anticipatory activity whose strength reflects each event's probability. Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "Learning is confined to the readout connections and uses local rules rather than backpropagation or a globally broadcast error signal. When event probabilities or timings change, the network adapts, recovering faster than a global least-squares baseline."
+                "x": "\"There's a bad future where if we don't adapt, there's just no more math in 50 years,\" said Daniel Litt of the University of Toronto. MIT's Pavel Etingof sees mathematicians interpreting AI results instead. Some, like McGill's Marcel Goh, call themselves AI \"vegetarians.\""
               },
               {
                 "t": "p",
-                "x": "Published in Communications Biology, the work is a computational demonstration rather than evidence of how the brain implements prediction, but the authors say local learning may suit brain-inspired AI and neuromorphic hardware that must adapt in real time."
+                "x": "Chu and others formed the Association for Human Mathematics, and mathematicians are rethinking training, publication and hiring."
               }
             ]
           }
         },
         "ko": {
-          "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
-          "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
-          "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
+          "headline": "AI의 급진전 앞에\n고민하는 수학자들",
+          "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며, 살아남으려 보상 체계를 다시 짠다.",
+          "mini_headline": "AI 앞에서 고민하는 수학자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀이 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다. 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 네트워크다."
+                "x": "9월 8일 OpenAI는 자사 모델이 수학의 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 저자 자격과 기준을 둘러싼 논란이 뒤따랐다. 반응에는 슬픔과 혼란, 두려움이 짙게 묻어났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연하자 학생들은 분노와 좌절을 드러냈다."
+              },
+              {
+                "t": "p",
+                "x": "AI의 증명은 검증은 되지만 거의 읽히지 않아, 수학자들끼리 주고받던 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 공개하지 않고 있다. arXiv는 이제 저자 한 명당 한 달에 두 편까지만 투고를 받고, MathOverflow의 활동은 줄어드는 중이다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "학습을 마치면 단서만 주어져도 시점별 예측 활동이 나타나고 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "학습은 판독(readout) 연결에서만 일어난다. 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 여기에 적응하고, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
+                "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 다르게 본다. 수학자들이 AI의 결과를 해석하는 역할을 맡으리라는 것이다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라 부르는 이들도 있다."
               },
               {
                 "t": "p",
-                "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식의 증거라기보다 계산적 시연에 가깝다. 그래도 저자들은 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 국소 학습이 잘 맞을 수 있다고 본다."
+                "x": "Chu 등은 Association for Human Mathematics를 꾸렸다. 수학자들은 훈련과 출판, 채용 방식을 다시 생각하는 중이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スパイキング網が学ぶ\n何を、いつ、どの確率で",
-          "body": "1,000個のニューロンのスパイキング網が、局所規則だけで予測対象と時期、確率を学んだ。",
-          "mini_headline": "スパイキング網が「何」と「いつ」を学ぶ",
+          "headline": "AIの急進展に\n向き合う数学者たち",
+          "body": "数学者たちはAIの急進展に悲しみと怒りで応じ、生き残るため分野の動機づけを見直している。",
+          "mini_headline": "AIと向き合う数学者たち",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of TokyoのInternational Research Center for Neurointelligence(WPI-IRCN)で、Zenas C. Chaoが率い、Yohei Yamadaが加わった研究チームは、何が予想されるか、いつ予想されるか、その可能性がどの程度かを同時に学習する、1,000個のニューロンからなる再帰型スパイキングニューラルネットワークを構築した。"
+                "x": "9月8日、OpenAIは自社のモデルが数学で最も有名な問題の一つを解いたと発表し、著者の資格や基準をめぐる論争を巻き起こした。多くの反応には悲しみや混乱、恐れがにじんでいた。スタートアップ(start-up)Axiom MathのKen OnoがBerkeleyで講演した際には、学生たちが怒りと苛立ちをあらわにした。"
+              },
+              {
+                "t": "p",
+                "x": "AIによる証明は検証済みでもほとんど読み解けず、数学者がやり取りしてきた理解が抜け落ちている。CaltechのTasmin Chuは「それは私たちの仕組みを壊す」と語った。OpenAIは100件を超える成果を非公開にしており、arXivは著者の投稿を月二本までに制限し、MathOverflowの活動は減っている。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "学習後は手がかりだけで時刻特異的な予期活動が生じ、その強さは各事象の確率を反映する。Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "学習は読み出し結合に限られ、誤差逆伝播法や全体に一斉送信される誤差信号ではなく局所規則を用いる。事象の確率やタイミングが変わるとネットワークは適応し、全体最小二乗法のベースラインより速く回復する。"
+                "x": "University of TorontoのDaniel Littは「適応しなければ、50年後には数学がまったくなくなってしまう悪い未来がある」と語った。MITのPavel Etingofは、数学者がむしろAIの成果を解釈する役割を担うとみる。McGillのMarcel Gohのように、自らをAIの「ベジタリアン」と呼ぶ人もいる。"
               },
               {
                 "t": "p",
-                "x": "Communications Biologyに掲載された本研究は、脳が予測をどう実装しているかの証拠ではなく計算上の実証だが、著者らは、局所学習はリアルタイムで適応する必要がある脳型AIやニューロモルフィックハードウェアに適している可能性があると述べている。"
+                "x": "ChuらはAssociation for Human Mathematicsを結成し、数学者たちは教育や出版、採用のあり方を見直している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "脉冲神经网络学会\n预测何事、何时与几率",
-          "body": "一个1,000神经元的脉冲网络仅凭局部规则，学会了线索预示什么、何时出现及其概率。",
-          "mini_headline": "脉冲网络学会何事与何时",
+          "headline": "数学家直面\nAI的突飞猛进",
+          "body": "面对AI的突飞猛进，数学家们悲伤又愤怒，正重新思考学科的激励机制以求生存。",
+          "mini_headline": "数学家直面AI冲击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of Tokyo的International Research Center for Neurointelligence（WPI-IRCN）研究人员在Zenas C. Chao带领下，与Yohei Yamada合作，构建了一个由1,000个神经元组成的循环脉冲神经网络，能够同时学习预期什么、何时预期以及其可能性有多大。"
+                "x": "9月8日，OpenAI宣布其模型解决了数学界最著名的难题之一，引发了关于作者身份和标准的争议。许多反应流露出悲伤、困惑与恐惧。在初创公司（start-up）Axiom Math的Ken Ono于Berkeley举行的讲座上，学生们以愤怒和沮丧回应。"
+              },
+              {
+                "t": "p",
+                "x": "AI给出的证明虽经过验证，却几乎无法读懂，缺少了数学家赖以交流的理解。Caltech的Tasmin Chu说：“它打破了我们的体系。”OpenAI将100多项成果保密，arXiv现在限制每位作者每月只能投稿两篇，MathOverflow的活跃度也在下降。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "训练后，仅凭线索就能引发特定时间的预期活动，其强度反映各事件的概率。Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "学习仅限于读出连接，并采用局部规则，而非反向传播或全局广播的误差信号。当事件的概率或时间发生变化时，网络能够适应，恢复速度快于全局最小二乘基线。"
+                "x": "“如果我们不适应，就会有一个糟糕的未来：50年后数学将不复存在。”University of Toronto的Daniel Litt说。MIT的Pavel Etingof则认为，数学家将转而解读AI的成果。也有人像McGill的Marcel Goh一样，自称AI“素食者”。"
               },
               {
                 "t": "p",
-                "x": "这项发表于Communications Biology的研究是一次计算演示，而非大脑如何实现预测的证据，但作者表示，局部学习可能适合需要实时适应的类脑AI和神经形态硬件。"
+                "x": "Chu等人成立了Association for Human Mathematics，数学家们正在重新思考培养、发表和招聘方式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una red de impulsos aprende\nqué, cuándo y cuán probable",
-          "body": "Una red de 1,000 neuronas aprendió qué predice una señal, cuándo llega y cuán probable es, solo con reglas locales.",
-          "mini_headline": "Una red de impulsos aprende qué y cuándo",
+          "headline": "Los matemáticos afrontan\nel súbito avance de la IA",
+          "body": "Los matemáticos afrontan con dolor y enojo el súbito avance de la IA y replantean sus incentivos para sobrevivir.",
+          "mini_headline": "Los matemáticos ante la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón para Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "Investigadores del International Research Center for Neurointelligence (WPI-IRCN) de la University of Tokyo, dirigidos por Zenas C. Chao junto con Yohei Yamada, construyeron una red neuronal de impulsos recurrente de 1,000 neuronas que aprende a la vez qué se espera, cuándo se espera y qué probabilidad tiene."
+                "x": "El 8 de septiembre, OpenAI anunció que sus modelos habían resuelto uno de los problemas más famosos de las matemáticas, lo que desató una polémica sobre la autoría y los estándares. Muchas reacciones revelaron dolor, confusión y miedo. En una charla en Berkeley de Ken Ono, de la start-up Axiom Math, los estudiantes reaccionaron con enojo y frustración."
+              },
+              {
+                "t": "p",
+                "x": "Las demostraciones de la IA están verificadas, pero son casi imposibles de leer, y dejan fuera la comprensión con la que trabajan los matemáticos. \"Rompe nuestro sistema\", dijo Tasmin Chu, de Caltech. OpenAI mantiene en secreto más de 100 resultados, arXiv limita ahora a los autores a dos envíos al mes y la actividad en MathOverflow está disminuyendo."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "Tras el entrenamiento, una señal por sí sola evoca una actividad anticipatoria específica en el tiempo cuya intensidad refleja la probabilidad de cada evento. Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "El aprendizaje se limita a las conexiones de lectura y usa reglas locales en lugar de retropropagación o de una señal de error difundida globalmente. Cuando cambian las probabilidades o los tiempos de los eventos, la red se adapta y se recupera más rápido que una referencia global de mínimos cuadrados."
+                "x": "\"Hay un futuro malo en el que, si no nos adaptamos, simplemente no habrá más matemáticas dentro de 50 años\", dijo Daniel Litt, de la University of Toronto. Pavel Etingof, del MIT, ve en cambio a los matemáticos interpretando resultados de la IA. Algunos, como Marcel Goh, de McGill, se definen como \"vegetarianos\" de la IA."
               },
               {
                 "t": "p",
-                "x": "Publicado en Communications Biology, el trabajo es una demostración computacional y no una prueba de cómo el cerebro implementa la predicción, pero los autores señalan que el aprendizaje local podría ser adecuado para la IA (AI) inspirada en el cerebro y el hardware neuromórfico que debe adaptarse en tiempo real."
+                "x": "Chu y otros fundaron la Association for Human Mathematics, y los matemáticos están replanteando la formación, la publicación y la contratación."
               }
             ]
           }
@@ -1473,109 +1319,423 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "스파이킹 신경망이 배운\n무엇·언제·얼마나",
-          "body": "1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
-          "mini_headline": "스파이킹 신경망, 무엇과 언제를 배우다",
+          "headline": "AI의 급진전 앞에\n고민하는 수학자들",
+          "body": "수학자들은 AI의 급진전에 슬퍼하고 분노하며 생존을 위해 보상 체계를 재고한다.",
+          "mini_headline": "AI 앞에서 고민하는 수학자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of Tokyo International Research Center for Neurointelligence(WPI-IRCN)에서 Zenas C. Chao가 이끌고 Yohei Yamada가 참여한 연구팀은 무엇이 예상되는지, 언제 예상되는지, 그 가능성이 얼마나 되는지를 한꺼번에 학습하는 1,000개 뉴런 규모의 순환 스파이킹 신경망을 만들었다."
+                "x": "9월 8일 OpenAI는 자사 모델이 수학에서 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 이는 저자 자격과 기준을 둘러싼 논란을 불러왔다. 많은 반응에서 슬픔과 혼란, 두려움이 드러났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연했을 때 학생들은 분노와 좌절로 반응했다."
+              },
+              {
+                "t": "p",
+                "x": "AI의 증명은 검증은 되지만 읽기가 거의 불가능해, 수학자들이 주고받는 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 비공개로 두고 있고, arXiv는 이제 저자당 한 달에 두 편까지만 투고를 허용하며, MathOverflow의 활동은 줄고 있다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "학습 뒤에는 단서만 주어져도 시점별 예측 활동이 나타나며, 그 강도는 각 사건의 확률을 반영한다. Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "학습은 판독(readout) 연결에서만 일어나며, 역전파나 전역으로 전달되는 오류 신호 대신 국소 규칙을 쓴다. 사건의 확률이나 시점이 바뀌면 네트워크는 이에 적응하며, 전역 최소제곱 기준 모델보다 더 빨리 회복한다."
+                "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 그 대신 수학자들이 AI의 결과를 해석하는 역할을 맡을 것으로 본다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라고 부르는 이들도 있다."
               },
               {
                 "t": "p",
-                "x": "Communications Biology에 실린 이 연구는 뇌가 예측을 구현하는 방식에 대한 증거라기보다 계산적 시연에 가깝다. 다만 저자들은 국소 학습이 실시간으로 적응해야 하는 뇌 모방 AI와 뉴로모픽 하드웨어에 적합할 수 있다고 말한다."
+                "x": "Chu 등은 Association for Human Mathematics를 결성했고, 수학자들은 훈련과 출판, 채용 방식을 다시 생각하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スパイキング網が学ぶ\n何を、いつ、どの確率で",
-          "body": "1,000個のニューロンのスパイキング網が、局所規則だけで予測対象と時期、確率を学んだ。",
-          "mini_headline": "スパイキング網が「何」と「いつ」を学ぶ",
+          "headline": "AIの急進展に\n向き合う数学者たち",
+          "body": "数学者たちはAIの急進展に悲しみと怒りで応じ、生き残るため分野の動機づけを見直している。",
+          "mini_headline": "AIと向き合う数学者たち",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of TokyoのInternational Research Center for Neurointelligence(WPI-IRCN)で、Zenas C. Chaoが率い、Yohei Yamadaが加わった研究チームは、何が予想されるか、いつ予想されるか、その可能性がどの程度かを同時に学習する、1,000個のニューロンからなる再帰型スパイキングニューラルネットワークを構築した。"
+                "x": "9月8日、OpenAIは自社のモデルが数学で最も有名な問題の一つを解いたと発表し、著者の資格や基準をめぐる論争を巻き起こした。多くの反応には悲しみや混乱、恐れがにじんでいた。スタートアップ(start-up)Axiom MathのKen OnoがBerkeleyで講演した際には、学生たちが怒りと苛立ちをあらわにした。"
+              },
+              {
+                "t": "p",
+                "x": "AIによる証明は検証済みでもほとんど読み解けず、数学者がやり取りしてきた理解が抜け落ちている。CaltechのTasmin Chuは「それは私たちの仕組みを壊す」と語った。OpenAIは100件を超える成果を非公開にしており、arXivは著者の投稿を月二本までに制限し、MathOverflowの活動は減っている。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "学習後は手がかりだけで時刻特異的な予期活動が生じ、その強さは各事象の確率を反映する。Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "学習は読み出し結合に限られ、誤差逆伝播法や全体に一斉送信される誤差信号ではなく局所規則を用いる。事象の確率やタイミングが変わるとネットワークは適応し、全体最小二乗法のベースラインより速く回復する。"
+                "x": "University of TorontoのDaniel Littは「適応しなければ、50年後には数学がまったくなくなってしまう悪い未来がある」と語った。MITのPavel Etingofは、数学者がむしろAIの成果を解釈する役割を担うとみる。McGillのMarcel Gohのように、自らをAIの「ベジタリアン」と呼ぶ人もいる。"
               },
               {
                 "t": "p",
-                "x": "Communications Biologyに掲載された本研究は、脳が予測をどう実装しているかの証拠ではなく計算上の実証だが、著者らは、局所学習はリアルタイムで適応する必要がある脳型AIやニューロモルフィックハードウェアに適している可能性があると述べている。"
+                "x": "ChuらはAssociation for Human Mathematicsを結成し、数学者たちは教育や出版、採用のあり方を見直している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "脉冲神经网络学会\n预测何事、何时与几率",
-          "body": "一个1,000神经元的脉冲网络仅凭局部规则，学会了线索预示什么、何时出现及其概率。",
-          "mini_headline": "脉冲网络学会何事与何时",
+          "headline": "数学家直面\nAI的突飞猛进",
+          "body": "面对AI的突飞猛进，数学家们悲伤又愤怒，正重新思考学科的激励机制以求生存。",
+          "mini_headline": "数学家直面AI冲击",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón for Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "University of Tokyo的International Research Center for Neurointelligence（WPI-IRCN）研究人员在Zenas C. Chao带领下，与Yohei Yamada合作，构建了一个由1,000个神经元组成的循环脉冲神经网络，能够同时学习预期什么、何时预期以及其可能性有多大。"
+                "x": "9月8日，OpenAI宣布其模型解决了数学界最著名的难题之一，引发了关于作者身份和标准的争议。许多反应流露出悲伤、困惑与恐惧。在初创公司（start-up）Axiom Math的Ken Ono于Berkeley举行的讲座上，学生们以愤怒和沮丧回应。"
+              },
+              {
+                "t": "p",
+                "x": "AI给出的证明虽经过验证，却几乎无法读懂，缺少了数学家赖以交流的理解。Caltech的Tasmin Chu说：“它打破了我们的体系。”OpenAI将100多项成果保密，arXiv现在限制每位作者每月只能投稿两篇，MathOverflow的活跃度也在下降。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "训练后，仅凭线索就能引发特定时间的预期活动，其强度反映各事件的概率。Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "学习仅限于读出连接，并采用局部规则，而非反向传播或全局广播的误差信号。当事件的概率或时间发生变化时，网络能够适应，恢复速度快于全局最小二乘基线。"
+                "x": "“如果我们不适应，就会有一个糟糕的未来：50年后数学将不复存在。”University of Toronto的Daniel Litt说。MIT的Pavel Etingof则认为，数学家将转而解读AI的成果。也有人像McGill的Marcel Goh一样，自称AI“素食者”。"
               },
               {
                 "t": "p",
-                "x": "这项发表于Communications Biology的研究是一次计算演示，而非大脑如何实现预测的证据，但作者表示，局部学习可能适合需要实时适应的类脑AI和神经形态硬件。"
+                "x": "Chu等人成立了Association for Human Mathematics，数学家们正在重新思考培养、发表和招聘方式。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una red de impulsos aprende\nqué, cuándo y cuán probable",
-          "body": "Una red de 1,000 neuronas aprendió qué predice una señal, cuándo llega y cuán probable es, solo con reglas locales.",
-          "mini_headline": "Una red de impulsos aprende qué y cuándo",
+          "headline": "Los matemáticos afrontan\nel súbito avance de la IA",
+          "body": "Los matemáticos afrontan con dolor y enojo el súbito avance de la IA y replantean sus incentivos para sobrevivir.",
+          "mini_headline": "Los matemáticos ante la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+                "cap": "Eduardo Ramón para Quanta Magazine"
+              },
+              {
                 "t": "p",
-                "x": "Investigadores del International Research Center for Neurointelligence (WPI-IRCN) de la University of Tokyo, dirigidos por Zenas C. Chao junto con Yohei Yamada, construyeron una red neuronal de impulsos recurrente de 1,000 neuronas que aprende a la vez qué se espera, cuándo se espera y qué probabilidad tiene."
+                "x": "El 8 de septiembre, OpenAI anunció que sus modelos habían resuelto uno de los problemas más famosos de las matemáticas, lo que desató una polémica sobre la autoría y los estándares. Muchas reacciones revelaron dolor, confusión y miedo. En una charla en Berkeley de Ken Ono, de la start-up Axiom Math, los estudiantes reaccionaron con enojo y frustración."
+              },
+              {
+                "t": "p",
+                "x": "Las demostraciones de la IA están verificadas, pero son casi imposibles de leer, y dejan fuera la comprensión con la que trabajan los matemáticos. \"Rompe nuestro sistema\", dijo Tasmin Chu, de Caltech. OpenAI mantiene en secreto más de 100 resultados, arXiv limita ahora a los autores a dos envíos al mes y la actividad en MathOverflow está disminuyendo."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-                "cap": "Tras el entrenamiento, una señal por sí sola evoca una actividad anticipatoria específica en el tiempo cuya intensidad refleja la probabilidad de cada evento. Credit: Zenas C. Chao, The University of Tokyo"
+                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
               },
               {
                 "t": "p",
-                "x": "El aprendizaje se limita a las conexiones de lectura y usa reglas locales en lugar de retropropagación o de una señal de error difundida globalmente. Cuando cambian las probabilidades o los tiempos de los eventos, la red se adapta y se recupera más rápido que una referencia global de mínimos cuadrados."
+                "x": "\"Hay un futuro malo en el que, si no nos adaptamos, simplemente no habrá más matemáticas dentro de 50 años\", dijo Daniel Litt, de la University of Toronto. Pavel Etingof, del MIT, ve en cambio a los matemáticos interpretando resultados de la IA. Algunos, como Marcel Goh, de McGill, se definen como \"vegetarianos\" de la IA."
               },
               {
                 "t": "p",
-                "x": "Publicado en Communications Biology, el trabajo es una demostración computacional y no una prueba de cómo el cerebro implementa la predicción, pero los autores señalan que el aprendizaje local podría ser adecuado para la IA (AI) inspirada en el cerebro y el hardware neuromórfico que debe adaptarse en tiempo real."
+                "x": "Chu y otros fundaron la Association for Human Mathematics, y los matemáticos están replanteando la formación, la publicación y la contratación."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-halzen-nobel-icecube-ai",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
+      "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
+      "mini_headline": "노벨상 수상자의 이른 AI 제안",
+      "tool": "Science",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+            "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서, 중성미자 연구에 일찍이 AI를 들이자고 주장했던 일을 자랑스럽게 돌아봤다. 남극 얼음 속에 광학 모듈 5,484개를 심은 IceCube를 구상한 사람이 바로 그다."
+          },
+          {
+            "t": "p",
+            "x": "실험 데이터 분석을 두고 그는 \"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 말했다. 몇 년 전 매우 강력한 신경망이 나오기 전까지 신경망은 가끔 쓰이는 데 그쳤다."
+          },
+          {
+            "t": "p",
+            "x": "Halzen에 따르면 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"고 한다. 그는 과학계가 받는 예산 압박도 언급했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)에서 약 $250 million을 지원받았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Nobel winner Halzen recalls\nhis early push for AI",
+          "body": "Halzen's 1991 paper proposed AI to analyze physics data; neural networks later revealed the Milky Way in IceCube data.",
+          "mini_headline": "A Nobel laureate's early AI push",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen said AI helped researchers \"see the Milky Way\" in their data on neutrinos."
+              },
+              {
+                "t": "p",
+                "x": "Nobel physics laureate Francis Halzen, 82, of the University of Wisconsin-Madison, spoke with pride in Turin about his early promotion of AI in neutrino research. He is the mind behind IceCube, with 5,484 optical modules in the Antarctic ice."
+              },
+              {
+                "t": "p",
+                "x": "\"The first neural nets appeared in the late 1980s, and I am very proud that I wrote a paper in 1991 proposing to use AI\" to analyze experimental data, he said. Neural nets were used only occasionally until very powerful ones came along a few years ago."
+              },
+              {
+                "t": "p",
+                "x": "In the neutrino sky, Halzen said, you see other galaxies rather than the Milky Way. With neural networks, \"we finally began to see the Milky Way in our data.\" He also discussed funding pressures on science; IceCube has received about $250 million from the U.S. National Science Foundation."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
+          "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
+          "mini_headline": "노벨상 수상자의 이른 AI 제안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서, 중성미자 연구에 일찍이 AI를 들이자고 주장했던 일을 자랑스럽게 돌아봤다. 남극 얼음 속에 광학 모듈 5,484개를 심은 IceCube를 구상한 사람이 바로 그다."
+              },
+              {
+                "t": "p",
+                "x": "실험 데이터 분석을 두고 그는 \"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 말했다. 몇 년 전 매우 강력한 신경망이 나오기 전까지 신경망은 가끔 쓰이는 데 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "Halzen에 따르면 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"고 한다. 그는 과학계가 받는 예산 압박도 언급했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)에서 약 $250 million을 지원받았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ノーベル賞Halzen\n早期のAI推進を回想",
+          "body": "Halzenは1991年にAI活用を提案し、後に神経網がIceCubeで天の川を捉えた。",
+          "mini_headline": "ノーベル賞学者の早期のAI推進",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzenは、AIのおかげで研究者がニュートリノのデータの中に「天の川を見る」ことができたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "University of Wisconsin-Madisonのノーベル物理学賞受賞者Francis Halzen(82)は、トリノ(Turin)で、ニュートリノ研究にいち早くAIを取り入れようと訴えたことを誇らしげに語った。彼は南極の氷の中に5,484個の光学モジュールを備えたIceCubeの生みの親である。"
+              },
+              {
+                "t": "p",
+                "x": "「最初のニューラルネットは1980年代後半に登場した。1991年に、AIを使うことを提案する論文を書いたことをとても誇りに思う」と彼は実験データの解析について語った。ニューラルネットは、数年前に非常に強力なものが登場するまで、たまにしか使われなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Halzenによれば、ニュートリノで見た空では、天の川ではなく他の銀河が見える。ニューラルネットワークによって「ようやくデータの中に天の川が見え始めた」という。彼は科学への資金面の圧力についても語った。IceCubeはU.S. National Science Foundation(米国立科学財団)から約$250 millionの資金を受けている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "诺奖得主Halzen\n忆早年力推AI",
+          "body": "Halzen在1991年提议用AI分析数据，神经网络后来在IceCube数据中揭示银河。",
+          "mini_headline": "诺奖得主早年力推AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen表示，AI帮助研究人员在中微子数据中“看到了银河”。"
+              },
+              {
+                "t": "p",
+                "x": "82岁的诺贝尔物理学奖得主、University of Wisconsin-Madison的Francis Halzen在都灵（Turin）自豪地谈起自己早年在中微子研究中推动AI的经历。他是IceCube的构想者，该项目在南极冰层中布设了5,484个光学模块。"
+              },
+              {
+                "t": "p",
+                "x": "“最早的神经网络出现在1980年代末，我非常自豪自己在1991年写了一篇论文，提议用AI”分析实验数据，他说。在几年前出现非常强大的神经网络之前，神经网络只是偶尔被使用。"
+              },
+              {
+                "t": "p",
+                "x": "Halzen说，在中微子天空中，人们看到的是其他星系，而不是银河。借助神经网络，“我们终于开始在数据中看到银河”。他还谈到了科学面临的经费压力；IceCube已从U.S. National Science Foundation（美国国家科学基金会）获得约$250 million资助。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El nobel Halzen recuerda\nsu temprano impulso a la IA",
+          "body": "Halzen propuso en 1991 usar IA con datos de física; luego, redes neuronales revelaron la Vía Láctea en IceCube.",
+          "mini_headline": "El temprano impulso de un nobel a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen dijo que la IA ayudó a los investigadores a \"ver la Vía Láctea\" en sus datos de neutrinos."
+              },
+              {
+                "t": "p",
+                "x": "El premio Nobel de Física Francis Halzen, de 82 años, de la University of Wisconsin-Madison, habló con orgullo en Turín de su temprana promoción de la IA en la investigación de neutrinos. Es la mente detrás de IceCube, con 5,484 módulos ópticos en el hielo antártico."
+              },
+              {
+                "t": "p",
+                "x": "\"Las primeras redes neuronales aparecieron a finales de los años 1980, y estoy muy orgulloso de haber escrito en 1991 un artículo que proponía usar la IA\" para analizar datos experimentales, dijo. Las redes neuronales solo se usaron de forma ocasional hasta que, hace unos años, llegaron unas muy potentes."
+              },
+              {
+                "t": "p",
+                "x": "En el cielo de neutrinos, dijo Halzen, se ven otras galaxias en lugar de la Vía Láctea. Con las redes neuronales, \"por fin empezamos a ver la Vía Láctea en nuestros datos\". También habló de las presiones de financiación sobre la ciencia; IceCube ha recibido unos 250 millones de dólares de la U.S. National Science Foundation."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "노벨상 Halzen이\n돌아본 초기 AI 제안",
+          "body": "1991년 AI를 제안한 Halzen의 IceCube는 신경망으로 은하수를 봤다.",
+          "mini_headline": "노벨상 수상자의 이른 AI 제안",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서 중성미자 연구에 AI를 일찍이 도입하자고 주장했던 일을 자랑스럽게 이야기했다. 그는 남극 얼음 속에 광학 모듈 5,484개를 설치한 IceCube를 구상한 인물이다."
+              },
+              {
+                "t": "p",
+                "x": "\"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 그는 실험 데이터 분석을 두고 말했다. 신경망은 몇 년 전 매우 강력한 신경망이 등장하기 전까지는 가끔씩만 쓰였다."
+              },
+              {
+                "t": "p",
+                "x": "Halzen은 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다고 말했다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"는 것이다. 그는 과학계가 받는 예산 압박에 대해서도 이야기했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)으로부터 약 $250 million을 지원받았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ノーベル賞Halzen\n早期のAI推進を回想",
+          "body": "Halzenは1991年にAI活用を提案し、後に神経網がIceCubeで天の川を捉えた。",
+          "mini_headline": "ノーベル賞学者の早期のAI推進",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzenは、AIのおかげで研究者がニュートリノのデータの中に「天の川を見る」ことができたと語った。"
+              },
+              {
+                "t": "p",
+                "x": "University of Wisconsin-Madisonのノーベル物理学賞受賞者Francis Halzen(82)は、トリノ(Turin)で、ニュートリノ研究にいち早くAIを取り入れようと訴えたことを誇らしげに語った。彼は南極の氷の中に5,484個の光学モジュールを備えたIceCubeの生みの親である。"
+              },
+              {
+                "t": "p",
+                "x": "「最初のニューラルネットは1980年代後半に登場した。1991年に、AIを使うことを提案する論文を書いたことをとても誇りに思う」と彼は実験データの解析について語った。ニューラルネットは、数年前に非常に強力なものが登場するまで、たまにしか使われなかった。"
+              },
+              {
+                "t": "p",
+                "x": "Halzenによれば、ニュートリノで見た空では、天の川ではなく他の銀河が見える。ニューラルネットワークによって「ようやくデータの中に天の川が見え始めた」という。彼は科学への資金面の圧力についても語った。IceCubeはU.S. National Science Foundation(米国立科学財団)から約$250 millionの資金を受けている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "诺奖得主Halzen\n忆早年力推AI",
+          "body": "Halzen在1991年提议用AI分析数据，神经网络后来在IceCube数据中揭示银河。",
+          "mini_headline": "诺奖得主早年力推AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen表示，AI帮助研究人员在中微子数据中“看到了银河”。"
+              },
+              {
+                "t": "p",
+                "x": "82岁的诺贝尔物理学奖得主、University of Wisconsin-Madison的Francis Halzen在都灵（Turin）自豪地谈起自己早年在中微子研究中推动AI的经历。他是IceCube的构想者，该项目在南极冰层中布设了5,484个光学模块。"
+              },
+              {
+                "t": "p",
+                "x": "“最早的神经网络出现在1980年代末，我非常自豪自己在1991年写了一篇论文，提议用AI”分析实验数据，他说。在几年前出现非常强大的神经网络之前，神经网络只是偶尔被使用。"
+              },
+              {
+                "t": "p",
+                "x": "Halzen说，在中微子天空中，人们看到的是其他星系，而不是银河。借助神经网络，“我们终于开始在数据中看到银河”。他还谈到了科学面临的经费压力；IceCube已从U.S. National Science Foundation（美国国家科学基金会）获得约$250 million资助。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El nobel Halzen recuerda\nsu temprano impulso a la IA",
+          "body": "Halzen propuso en 1991 usar IA con datos de física; luego, redes neuronales revelaron la Vía Láctea en IceCube.",
+          "mini_headline": "El temprano impulso de un nobel a la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+                "cap": "Francis Halzen dijo que la IA ayudó a los investigadores a \"ver la Vía Láctea\" en sus datos de neutrinos."
+              },
+              {
+                "t": "p",
+                "x": "El premio Nobel de Física Francis Halzen, de 82 años, de la University of Wisconsin-Madison, habló con orgullo en Turín de su temprana promoción de la IA en la investigación de neutrinos. Es la mente detrás de IceCube, con 5,484 módulos ópticos en el hielo antártico."
+              },
+              {
+                "t": "p",
+                "x": "\"Las primeras redes neuronales aparecieron a finales de los años 1980, y estoy muy orgulloso de haber escrito en 1991 un artículo que proponía usar la IA\" para analizar datos experimentales, dijo. Las redes neuronales solo se usaron de forma ocasional hasta que, hace unos años, llegaron unas muy potentes."
+              },
+              {
+                "t": "p",
+                "x": "En el cielo de neutrinos, dijo Halzen, se ven otras galaxias en lugar de la Vía Láctea. Con las redes neuronales, \"por fin empezamos a ver la Vía Láctea en nuestros datos\". También habló de las presiones de financiación sobre la ciencia; IceCube ha recibido unos 250 millones de dólares de la U.S. National Science Foundation."
               }
             ]
           }

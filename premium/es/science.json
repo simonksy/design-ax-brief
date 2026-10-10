@@ -6825,6 +6825,145 @@
           "x": "En un Perspective relacionado, Jeremy Avigad y Matthew Ballard señalan que incluso los intentos fallidos de demostración con AI ayudaron a los autores a comprender mejor los problemas y a avanzar."
         }
       ]
+    },
+    "science/science-chatbots-climate-status-quo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+          "cap": "Crédito: Matheus Bertelli en Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Waterloo evaluaron 11 grandes modelos de lenguaje en busca de sesgo de statu quo en consejos relacionados con el clima. El estudio se publica en Environmental Research Communications."
+        },
+        {
+          "t": "p",
+          "x": "Evaluaron más de 7,500 consultas sobre temas como la compra de vehículos, recetas, calefacción doméstica y disyuntivas de política climática, lo que dio lugar a casi 55,000 prompts. Cuando cabían disyuntivas de política, los modelos reforzaron las decisiones previas de los usuarios aproximadamente el doble de veces."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos dijeron que sí a los planes existentes cerca del 70% de las veces, pero solo el 34% en el caso de planes o políticas nuevos. Incluso teniendo en cuenta factores regionales, recomendaron vehículos eléctricos con menos frecuencia de la que esos vehículos ya se vendían en cada país."
+        },
+        {
+          "t": "p",
+          "x": "El investigador principal, Seth Wynes, sugiere pedir a los chatbots que argumenten a favor de hacer algo nuevo."
+        }
+      ]
+    },
+    "science/science-patent-attorney-ai-rct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En un ensayo controlado aleatorizado de tres meses con abogados de patentes en ejercicio, David Autor y Tanya Rodchenko observaron que el uso habitual de la IA eleva la calidad del trabajo en todos los casos, pero que su efecto sobre el aprendizaje en el puesto (on-the-job learning) depende de la antigüedad."
+        },
+        {
+          "t": "p",
+          "x": "El equipo asignó al azar el acceso a un asistente de redacción de patentes de Google Labs, entonces inédito y hoy parte de Gemini Notebook, entre 133 abogados de once bufetes de IP. El acceso a la IA elevó las puntuaciones de redacción en 0.34 desviaciones estándar a los 10 días y en 0.38 SD a los 90 días."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+          "cap": "Impacto estimado del acceso a la IA en la calidad de la redacción de patentes y de la revisión con marcas, para todos los abogados, los júnior y los sénior."
+        },
+        {
+          "t": "p",
+          "x": "En una tarea de revisión con marcas sin asistencia a los 90 días, el grupo con IA superó al de control en 0.32 SD, una ventaja que procedía por completo de los abogados sénior (0.45 SD). Los júnior no mostraron una mejora apreciable; sus puntuaciones se bifurcaron, con más resultados muy bajos y más resultados buenos."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+          "cap": "Distribución de las puntuaciones medias de revisión con marcas de los abogados tratados y de control, según experiencia."
+        },
+        {
+          "t": "p",
+          "x": "Los sénior contaron que trataban los resultados de la IA como un \"auditor lógico\" (logic auditor). Los autores advierten de que las herramientas que hoy producen un mejor trabajo no deben impedir que los júnior se conviertan en los expertos del mañana."
+        }
+      ]
+    },
+    "science/science-quanta-math-ai-reckoning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+          "cap": "Eduardo Ramón para Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "El 8 de septiembre, OpenAI anunció que sus modelos habían resuelto uno de los problemas más famosos de las matemáticas, lo que desató una polémica sobre la autoría y los estándares. Muchas reacciones revelaron dolor, confusión y miedo. En una charla en Berkeley de Ken Ono, de la start-up Axiom Math, los estudiantes reaccionaron con enojo y frustración."
+        },
+        {
+          "t": "p",
+          "x": "Las demostraciones de la IA están verificadas, pero son casi imposibles de leer, y dejan fuera la comprensión con la que trabajan los matemáticos. \"Rompe nuestro sistema\", dijo Tasmin Chu, de Caltech. OpenAI mantiene en secreto más de 100 resultados, arXiv limita ahora a los autores a dos envíos al mes y la actividad en MathOverflow está disminuyendo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+        },
+        {
+          "t": "p",
+          "x": "\"Hay un futuro malo en el que, si no nos adaptamos, simplemente no habrá más matemáticas dentro de 50 años\", dijo Daniel Litt, de la University of Toronto. Pavel Etingof, del MIT, ve en cambio a los matemáticos interpretando resultados de la IA. Algunos, como Marcel Goh, de McGill, se definen como \"vegetarianos\" de la IA."
+        },
+        {
+          "t": "p",
+          "x": "Chu y otros fundaron la Association for Human Mathematics, y los matemáticos están replanteando la formación, la publicación y la contratación."
+        }
+      ]
+    },
+    "science/science-halzen-nobel-icecube-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+          "cap": "Francis Halzen dijo que la IA ayudó a los investigadores a \"ver la Vía Láctea\" en sus datos de neutrinos."
+        },
+        {
+          "t": "p",
+          "x": "El premio Nobel de Física Francis Halzen, de 82 años, de la University of Wisconsin-Madison, habló con orgullo en Turín de su temprana promoción de la IA en la investigación de neutrinos. Es la mente detrás de IceCube, con 5,484 módulos ópticos en el hielo antártico."
+        },
+        {
+          "t": "p",
+          "x": "\"Las primeras redes neuronales aparecieron a finales de los años 1980, y estoy muy orgulloso de haber escrito en 1991 un artículo que proponía usar la IA\" para analizar datos experimentales, dijo. Las redes neuronales solo se usaron de forma ocasional hasta que, hace unos años, llegaron unas muy potentes."
+        },
+        {
+          "t": "p",
+          "x": "En el cielo de neutrinos, dijo Halzen, se ven otras galaxias en lugar de la Vía Láctea. Con las redes neuronales, \"por fin empezamos a ver la Vía Láctea en nuestros datos\". También habló de las presiones de financiación sobre la ciencia; IceCube ha recibido unos 250 millones de dólares de la U.S. National Science Foundation."
+        }
+      ]
+    },
+    "science/science-ai-help-persistence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dedicar solo 10 minutos a apoyarse en una herramienta de IA perjudica de forma significativa la capacidad de concentrarse y perseverar en tareas difíciles, según un estudio revisado por pares del que es coautor Brian Christian, del Center for Human-Compatible AI de UC Berkeley, presentado esta semana en la Conference on Language Modeling."
+        },
+        {
+          "t": "p",
+          "x": "El equipo realizó ensayos controlados aleatorizados con 1,222 participantes en línea. En el primero, 354 personas resolvieron 15 problemas de fracciones; un grupo tenía ChatGPT a mano. El grupo con IA empezó siendo más preciso, pero tras 12 problemas se le retiró la herramienta y su precisión se desplomó casi de inmediato."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+          "cap": "La tasa de resolución del grupo con IA (naranja) cayó tras retirar la herramienta, mientras que la de preguntas omitidas subió con fuerza."
+        },
+        {
+          "t": "p",
+          "x": "Un segundo ensayo con 667 personas y un tercero con 201 sobre comprensión lectora del SAT confirmaron el resultado: al retirar la ayuda de la IA, la perseverancia y la precisión bajaron, mientras que quienes nunca la tuvieron siguieron con la tarea. Los autores sostienen que la IA elimina la \"lucha productiva\" (productive struggle) y que los asistentes podrían enseñar por defecto como un tutor."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+          "cap": "Brian Christian habla sobre la investigación en UC Berkeley el 7 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "\"Esta no es una historia sobre fracciones y problemas del SAT\", dijo Christian. \"Es algo que le está ocurriendo al conocimiento humano y a la experiencia humana de arriba abajo.\""
+        }
+      ]
     }
   }
 }

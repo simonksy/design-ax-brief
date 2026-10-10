@@ -6423,6 +6423,148 @@
           "x": "Red Rock afirma que el proceso de captura de movimiento AI-assisted es más barato y eficiente que el CGI tradicional usado en mo-cap."
         }
       ]
+    },
+    "movies/cage-spider-noir-ai-waiver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+          "cap": "Nicolas Cage. Earl Gibson III/Deadline"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Cage dijo al público de la New York Comic-Con que, sí, probablemente hará una temporada de True Detective de HBO, como se rumoreaba, y que no, probablemente no volverá a trabajar con Prime Video, la plataforma de Spider-Noir, porque Amazon es “muy AI-friendly”."
+        },
+        {
+          "t": "p",
+          "x": "“Creo que podría hacer una temporada de True Detective. Está OK que yo sea el primero en anunciarlo, ¿verdad?”, dijo Cage, que trabaja actualmente en la película Perish."
+        },
+        {
+          "t": "p",
+          "x": "En cuanto a la IA, Cage no es partidario. No quiso firmar una cláusula de IA cuando se sumó a la única temporada de Spider-Noir de Prime Video."
+        },
+        {
+          "t": "p",
+          "x": "“¿Cómo se sobrevive a la IA?”, dijo Cage. “Amazon es una empresa muy AI-friendly, hasta el punto de haber invertido 50 billion dólares en OpenAI. Yo no soy un actor AI-friendly….No soy miembro de su club. No firmé la cláusula para que usaran IA en Spider-Noir. Probablemente no vuelva a trabajar con ese estudio, pero está bien”."
+        },
+        {
+          "t": "p",
+          "x": "Cage añadió que prefiere trabajar con jóvenes directores de la Gen Z que “lo hacen a su manera”. “Lo hacen desde cero y a mano”, dijo. “Quiero sumarme a eso”."
+        }
+      ]
+    },
+    "movies/eyeline-genfx-rustad-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+          "cap": "James Rustad. Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "La IA generativa (generative AI) puede ampliar las opciones para una toma de efectos visuales, pero los artistas siguen decidiendo cuáles sirven a la historia, según James Rustad, responsable global de GenFX en Eyeline, el estudio de VFX interno (in-house) de Netflix."
+        },
+        {
+          "t": "p",
+          "x": "Rustad habló en una sesión de InnoAsia en el Asian Contents & Film Market del Busan International Film Festival y tomó como referencia “Brazil ‘70: The Third Star”, de Netflix. La serie incluye más de 1,300 tomas de efectos visuales, más de 800 de ellas ambientadas en el campo de fútbol."
+        },
+        {
+          "t": "p",
+          "x": "Eyeline trabaja con 45 artistas con un enfoque híbrido, explicó Rustad, que incorpora herramientas generativas a un proceso que también recurre a técnicas de efectos consolidadas. “El criterio de los artistas también es importante”, dijo."
+        },
+        {
+          "t": "p",
+          "x": "Su presentación describió cuatro etapas de un flujo de trabajo de tomas con IA generativa: preparación, narrativa, estética y entrega. Los prompts, la recopilación de referencias y las pruebas iniciales establecen las opciones; los resultados se evalúan frente a la historia y luego pasan por el refinamiento visual —iluminación, detalles de escena, rigor de época— y la entrega: composición, escalado, comprobación de profundidad de bits (bit-depth) y revisión técnica."
+        },
+        {
+          "t": "p",
+          "x": "La etapa narrativa pasa de “lo que es posible” a “lo que funciona para la historia”. Ahí entra el criterio de los artistas: seleccionar qué resultados generados con IA (AI-generated) deben convertirse en tomas finales."
+        }
+      ]
+    },
+    "movies/morph-3d-scene-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morphic anunció el día 8 el lanzamiento de ‘3D Scene’, un editor de dirección de escenas en 3D que resuelve la aleatoriedad en la puesta en escena y el colapso del encuadre, considerados las principales limitaciones del video con IA (AI) actual."
+        },
+        {
+          "t": "p",
+          "x": "3D Scene integra un copiloto de IA conversacional que construye automáticamente espacios 3D y la disposición de personajes en el set a partir de instrucciones en lenguaje natural, y una herramienta de manipulación 3D que controla manualmente los ángulos de cámara y la iluminación fotograma a fotograma."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+          "cap": "[Cortesía de Morphic]"
+        },
+        {
+          "t": "p",
+          "x": "Con una biblioteca de unos 2500 recursos, se puede montar un set 3D en pocos minutos, definir con un solo clic la trayectoria y la velocidad de un personaje para ajustar unos 200 tipos de movimiento, y recrear de una sola vez escenas de multitudes de hasta 60 personas o persecuciones."
+        },
+        {
+          "t": "p",
+          "x": "El sistema de ‘maniquíes por color (Cast by Color)’ asigna un color y un nombre a cada maniquí para fijar el encuadre; al vincularlo con el prompt final de generación, la IA reconoce la posición, la orientación y la mirada de cada personaje al generar el video. También incluye control de 12 tipos de movimientos de cámara, como dron o grúa, y una función de verificación de continuidad que detecta automáticamente si se respeta la regla de los 180° y velocidades de movimiento poco realistas."
+        },
+        {
+          "t": "p",
+          "x": "“3D Scene permite a los creadores controlar directamente en un espacio 3D el recorrido de los personajes y los movimientos de cámara para plasmar con precisión su intención como directores, y validar escenas antes de la generación final sin consumir créditos de pago, lo que ayudará a los estudios a ahorrar presupuesto y tiempo”, afirmó JD Kanani, CEO de Morphic."
+        }
+      ]
+    },
+    "movies/astana-ai-film-grand-prix": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RxHoSyLNNRo"
+        },
+        {
+          "t": "p",
+          "x": "El cineasta letón Nikolay Shestak ganó el Grand Prix de $450,000 (€401,000) del primer Astana AI Film Festival, en Kazajistán (Kazakhstan), con su película The First Honest Day, creada con inteligencia artificial. En ella, las malas acciones vuelven físicamente más feos a sus personajes y las buenas los cambian para mejor."
+        },
+        {
+          "t": "p",
+          "x": "“Sinceramente, no esperaba ganar”, dijo Shestak, que empezó a hacer películas con IA hace dos años. El segundo puesto fue para Abhik Banerjee, de India, por SITARA ($200,000), y el tercero para Ernest Desumbila, de España (Spain), por Looking For Perseida ($100,000)."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+          "cap": "Finalistas del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "Las películas se evaluaron por el uso de las herramientas de IA, pero también por su visión artística, narrativa, coherencia y la naturalidad con que se integraba la tecnología. El certamen recibió más de 8,000 obras de 125 países; 25 películas llegaron al programa final, con 19 géneros y más de 80 modelos de IA generativa. El festival contó con un fondo total de $2 millones, la mitad para premios y la otra mitad como capital de inversión para equipos de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+          "cap": "El presidente Tokayev (President Tokayev) en la inauguración del Astana AI Film Festival. Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "El presidente Kassym-Jomart Tokayev, que inauguró el festival, afirmó que “la barrera de entrada se ha reducido notablemente”, pero que la IA no sustituirá el papel creativo de los cineastas. “La fuerza impulsora de este festival fue el FOMO”, dijo el cofundador Aizat Kussainov."
+        }
+      ]
+    },
+    "movies/nikon-small-world-ai-disqualified": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
+          "cap": "El video que obtuvo originalmente el primer puesto usó IA en el posprocesamiento."
+        },
+        {
+          "t": "p",
+          "x": "Nikon afirma que el video que ganó originalmente el primer puesto de su concurso Small World in Motion “no cumplía las normas de la competición relativas a la IA generativa”. La obra de la Dra. Ning Xu pretendía mostrar diminutos cilios, similares a pelos, moviéndose en las vías respiratorias de un niño con la enfermedad respiratoria PCD; Nikon comenzó a revisarla tras el escepticismo surgido en internet sobre su autenticidad."
+        },
+        {
+          "t": "p",
+          "x": "En LinkedIn, la Dra. Xu admitió que “posteriormente se utilizó un método de red neuronal no supervisado para el posprocesamiento asistido por IA (AI-assisted post-processing)” con el fin de distinguir y visualizar rasgos en imágenes obtenidas mediante imagen óptica de superresolución."
+        },
+        {
+          "t": "p",
+          "x": "El video ha sido descalificado y retirado del sitio web de Nikon, y Nguyen Nam Nhat ocupa ahora el primer puesto. Nikon prevé “revisar las normas y los procedimientos de evaluación para futuras participaciones en la competición”, y añade que la decisión no debe interpretarse como un juicio sobre la reputación, las contribuciones científicas o la intención del participante."
+        }
+      ]
     }
   }
 }

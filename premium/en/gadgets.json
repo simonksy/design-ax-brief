@@ -7235,6 +7235,169 @@
           "x": "The tablets go on sale October 14 in the US, Mexico and Canada, and October 19 in the UK, Germany, France, Italy and Spain."
         }
       ]
+    },
+    "gadgets/siri-personal-index-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+          "cap": "Siri AI is available on iOS, iPadOS, watchOS and macOS."
+        },
+        {
+          "t": "p",
+          "x": "With iOS 27, Apple has begun rolling out its long-delayed Siri redesign. Apple partnered with Google to train the large language models behind Siri AI, and the assistant needs a great deal of your data to work at its best."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+          "cap": "App Intents allows Siri and other Apple Intelligence features to access data from your apps."
+        },
+        {
+          "t": "p",
+          "x": "A framework called App Intents lets Siri search your Apple apps, including Notes and Messages, plus third-party apps whose developers support it. Siri AI combines on-device models with Private Cloud Compute; Apple says it doesn't store data sent to PCC and can't see it."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+          "cap": "How to prevent Siri AI from surfacing data from your apps."
+        },
+        {
+          "t": "p",
+          "x": "To block an app, go to Settings > Apps > [app] > Search and toggle off Show Content in Search; Siri then won't pull information from it even if asked directly. On-screen awareness can still read screenshots, which might be sent to PCC."
+        },
+        {
+          "t": "p",
+          "x": "To keep Siri recordings out of training, disable Improve Siri & Dictation under Privacy & Security > Analytics & Improvements. You can also revert to Siri Classic via Screen Time > Content & Privacy Restrictions, or turn Siri off entirely."
+        }
+      ]
+    },
+    "gadgets/verge-ai-bird-feeder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+          "cap": "I miss my sweet tits."
+        },
+        {
+          "t": "p",
+          "x": "Dozens of tiny, colorful birds came to my garden a few weeks after I mounted a $269 Kiwibit Bird Feeder 2 Pro. “Looks like Great Tit!” read the first AI-driven alert sent to my phone. Hundreds of tits came for the husked sunflower seeds, and I admired them in 4K HDR video and read about them in the Kiwibit app."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Then came “Looks like Common Wood Pigeon!” The pigeon blocked the lens and ignored the feeder's Nuisance Animal Alarm, eating for 15 minutes until I shooed it away. Pigeons moved in, perching for 30 minutes or more, and mice arrived below to feast on the spoils. I dismounted the feeder and shoved it into a closet."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "I'm not mad at Kiwibit; the feeder was a joy to use until it wasn't. If you're tempted by a smart bird feeder, start with something simple, inexpensive, and without AI — you can't return a used feeder just because it attracts pests."
+        }
+      ]
+    },
+    "gadgets/msi-pro-max-edge-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The MSI Pro Max Edge AI+ is one of the most powerful mini workstations I've tested. Inside is AMD's Ryzen AI Max+ 395 with Radeon 8060S graphics, an AMD XDNA NPU offering up to 50 TOPS, and 128GB of unified memory — enough to run LLMs fully offline and at speed."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+          "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+        },
+        {
+          "t": "p",
+          "x": "Using models managed in Lemonade, it sorted more than 2,600 images, generated images, and built a ten-page website, though that took quite a bit of prompting. Photoshop, Lightroom and 4K Premiere Pro edits were handled equally well."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+          "cap": "MSI PRO MAX Edge AI+"
+        },
+        {
+          "t": "p",
+          "x": "Drawbacks: a CPU that is over a year old, slow 2.5GbE networking, RAM that can't be upgraded, and a steep price — $5,499 (US), €5,299, £5,999. Getting the most from local AI also takes plenty of setup and experimentation. But for private, completely offline AI, there's an enormous amount of power in this compact machine."
+        }
+      ]
+    },
+    "gadgets/amazon-driver-ai-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+          "cap": "Amazon driver (Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Amazon plans to put more than 20,000 pairs of smart glasses on its delivery drivers by the end of 2027, after a pilot in which more than 500 drivers completed over 275,000 deliveries. The glasses put navigation, package details and hazard alerts in view — and take still images at frequent intervals, with no opt-out for customers whose homes are pictured."
+        },
+        {
+          "t": "video",
+          "yt": "XXVhNlNKxQA"
+        },
+        {
+          "t": "p",
+          "x": "But looking at Amazon's operation of 1 million robots processing 600,000 orders an hour, the glasses are just the part the public can see. A foundation model forecasts demand and decides where inventory sits; Amazon deployed its millionth robot in 2025 across more than 300 facilities. DeepFleet coordinates the fleet and is projected to cut travel time by about 10%, and agentic Project Eluna recommends where managers should shift workers."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+          "cap": "Amazon Warehouse (Image credit: Getty Images/Daniel Holland)"
+        },
+        {
+          "t": "p",
+          "x": "Wellspring mapping has identified 202 million parking locations, and images from the glasses may feed back into it. Amazon estimates the glasses could save drivers up to 30 minutes per shift, but hasn't said who gets that time back. The glasses are just the tip of Amazon's AI."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch4-ai-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "Creating a custom watch face with AI"
+        },
+        {
+          "t": "p",
+          "x": "One of the Pixel Watch 5's quietly powerful features has landed on the Pixel Watch 4. The AI watch face generator is currently rolling out to Pixel Watch 4 models."
+        },
+        {
+          "t": "p",
+          "x": "The Pixel Watch 5 was more refinement than shakeup, with most of its under-the-hood enhancements focused on AI performance. One good byproduct of that push is the AI watch face generator, a tool that makes creating custom watch faces a little easier."
+        },
+        {
+          "t": "p",
+          "x": "According to users on Reddit, the update is packaged in version 4.2.12.989940186 and also includes the Pixel Watch 5 stock watch faces — Weave, Modular, Reveal and Chronograph — plus the specialized Steph Curry dial."
+        },
+        {
+          "t": "p",
+          "x": "The generator is straightforward: open the prompt section in the Pixel Watch app when creating a new look, describe what you want instead of picking from a template gallery, and Gemini Intelligence should come up with something close."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+          "cap": "AI-generated watch faces"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+          "cap": "AI-generated watch faces"
+        },
+        {
+          "t": "p",
+          "x": "It has its limitations, but it's a great tool Google didn't really play up for the Pixel Watch 5. The update is actively rolling out, so it may take some time to show up."
+        }
+      ]
     }
   }
 }

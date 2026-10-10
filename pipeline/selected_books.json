@@ -1,101 +1,87 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "books",
-  "items": [
+  "picks": [
     {
-      "title": "Frankfurt Book Fair 2026: Audible Wants to Turn Every Book into an Audiobook",
-      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+      "title": "Frankfurt Book Fair 2026: Publishing Jobs Will Adapt to AI, Not Disappear",
       "source": "Publishers Weekly",
-      "published_iso": "2026-10-09T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG",
-      "excerpt": "Audible CCO Rachel Ghiazza says the company expects to use AI tools across the entire audiobook production process to reach 'every book in every language', and will launch in Indonesia, South Korea, Denmark, Norway and Finland in 2027.",
       "category": "books",
+      "published_iso": "2026-10-08T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG",
+      "excerpt": "Bloomsbury founder Nigel Newton called the idea that AI will take all publishing jobs 'rubbish'. His panel still agreed that entry-level roles may disappear, staff will need retraining and new roles will emerge.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "Audible, the largest audiobook platform, says it will put AI across the whole production pipeline to reach every book in every language. It is also launching in South Korea. This is the strongest article in the Audible Frankfurt cluster."
+      "rationale": "Concrete Frankfurt panel read on which publishing roles shrink (entry level) and which need retraining; broadest relevance for the teaser slot."
     },
     {
-      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-      "source": "WIRED",
-      "published_iso": "2026-10-09T19:28:49Z",
-      "og_image": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg",
-      "excerpt": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy and emails, as some execs push junior staff to champion the tech.",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
+      "title": "Frankfurter Buchmesse 2026: EU AI Act Gives Publishers Leverage, but No Teeth",
+      "source": "Publishing Perspectives",
       "category": "books",
+      "published_iso": "2026-10-09T08:56:49+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
+      "excerpt": "A Frankfurt panel on trust in science in the age of AI concluded that the EU AI Act helps rights holders on paper, but it has no penalties for AI developers and gives researchers no incentives.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "New reporting from inside three major publishing houses: LLMs are already writing publicity copy, cover art and back-cover copy, and staff are pushing back. It covers more than the single S&S performance-tracking story."
+      "rationale": "Regulatory angle on rights holders' leverage under the EU AI Act, not yet covered in the 30-day history."
     },
     {
-      "title": "Neues Label: \"Von Menschen gemacht\"",
-      "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849",
-      "source": "Börsenblatt",
-      "published_iso": "2026-10-05T10:19:40+02:00",
-      "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg?h=6f727fa6&itok=EEkAbAuJ",
-      "excerpt": "18 German-language children's and YA publishers launch a 'Von Menschen - geschrieben - gestaltet - geprüft' label certifying that text, illustration and design are human-made and editorially checked.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+      "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+      "source": "Publishers Weekly",
       "category": "books",
-      "tool": "Books",
-      "accent": "#7928ca",
-      "motif": "swatch",
-      "rationale": "18 German children's and YA publishers have launched a joint label certifying that text, illustration and design are human-made. It is a separate launch from the UK IPO human-authored mark, by different publishers in a different market."
-    },
-    {
-      "title": "Ghostwriters haunted by AI as commissions fall and machine-written manuscripts rise",
-      "url": "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise",
-      "source": "The Bookseller",
-      "published_iso": "2026-10-09T07:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-      "excerpt": "Ghostwriters tell The Bookseller that commissions are falling as prospective authors experiment with generative AI, while others are increasingly asked to rework AI-generated manuscripts.",
-      "category": "books",
+      "published_iso": "2026-10-07T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG",
+      "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Reporting on a profession being reshaped right now: ghostwriting commissions are falling, and the work is moving to fixing AI-generated manuscripts. The brief has not covered ghostwriting before."
+      "rationale": "Concrete platform announcement: Spotify audiobooks go from 22 to 180+ markets, with AI narration pitched as the way to reach small-language markets. This is a new release on top of the 09-13 opening of AI narration to all authors."
     },
     {
-      "title": "Frankfurter Buchmesse 2026: Tonies Bets On a Kids' Audio Future that Is Screenless, Serialized, with Content (Often) Made In-house",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+      "title": "Frankfurter Buchmesse 2026: ENLIT Network Provides Support for European Literary Translation and Translators",
       "source": "Publishing Perspectives",
-      "published_iso": "2026-10-08T10:18:08Z",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM.png",
-      "excerpt": "Tonies trialed an AI 'storyteller' with 3,000 households generating personalized children's stories, and 85% of staff use AI daily, but CEO Tobias Wann insists the Toniebox 'will never become an AI toy'.",
       "category": "books",
+      "published_iso": "2026-10-08T10:24:21+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png",
+      "excerpt": "European translation-funding bodies say literary translators currently have strong support, but AI makes their position fragile. Speakers framed AI as a dictionary-like tool that still cannot handle humor, emotion or voice.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "Hard numbers from a kids' audio leader: an AI storyteller trial generating personalized stories for 3,000 households, and 85% of staff using AI daily. The CEO still draws a line at making the Toniebox an AI toy."
+      "rationale": "Translation-funding bodies' Frankfurt stance on AI; a distinct event from PW's 9/18 translator feature and Börsenblatt's 10/08 piece."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html": {
+      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101454-frankfurt-book-fair-storytel-s-talks-ai-translated-audiobooks.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
         "new_action": ""
       },
-      "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/": {
+      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101447-frankfurt-book-fair-2026-germany-finds-in-favor-of-copyright-holders-against-ai.html",
         "new_action": ""
       },
-      "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849": {
-        "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark",
-        "new_action": ""
+      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html": {
+        "verdict": "follow-up",
+        "nearest": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
+        "new_action": "New Frankfurt 2026 announcement: Spotify audiobooks expand from 22 to 180+ markets, with AI narration positioned for small-language localization. The 09-13 card only covered opening AI narration (ElevenLabs) to all authors."
       },
-      "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise": {
+      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/": {
         "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/": {
-        "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html",
         "new_action": ""
       }
     },
-    "note": "Audible cluster c4 (PW 101500, Good e-Reader 2027 launch, Publishing Perspectives Audible/NielsenIQ survey) is one Frankfurt announcement, so only PW 101500 is kept. The Audible pick is a different company and event from Storytel 10-09 and from the Audible character features of 10-02. Dropped Börsenblatt Snackz because Snackz AI metadata was already published 09-29 (Publishing Perspectives Around the Book World). Dropped the Bookseller FBF wrap, PW Three Views of Innovation, PW Jobs Will Adapt and the Buchmesse two-day report as fair commentary or panel recaps, related to the Frankfurt 'Redrawing the Map' preview (09-25) and the AI narration debate (10-09), with no new release. Dropped the Bookseller editor comment as generic opinion. Dropped PP EU AI Act panel as commentary with no new ruling. Dropped Creative Penn as a podcast with no concrete AI event. Dropped Good e-Reader CastReader as a how-to that is possibly sponsored. WIRED: new multi-house investigation (LLMs used for publicity, cover art and copy); not the S&S tracking-software letter (10-08) or PW 09-30. Von Menschen label: a separate launch by 18 German children's/YA publishers, not the UK IPO mark (10-09) or the WIRED organic stamp (10-08). Diversity: 5 distinct outlets, with accents spread across the palette because every pick shares the books category."
+    "note": "Dropped: (1) ALLi 'Amazon Cuts KDP Uploads to Two Titles a Week' is the same story as janefriedman 2026-09-25 (KDP two titles per format per week); its secondary items (Pangram study, SCBWI policy) were also published (Bookseller 10-08, janefriedman 09-25). (2) ALLi 'OpenAI Moves to Strike AI Market Study' leads with the motion already published from janefriedman on 2026-10-03, with no new filing or ruling; the BISG survey is a secondary item in a roundup. (3) PP Audible-commissioned survey: possibly the same Audible Frankfurt push as PW 2026-10-10 'Audible Wants to Turn Every Book into an Audiobook', and the AI-narration debate was already covered by the Bookseller on 10-09. Dropped as a likely overlap. (4) The Bookseller FBF wrap and the Börsenblatt interim report are generic fair wraps (the Bookseller body is behind a login wall). They overlap each other and the CEO panels already picked, so both were dropped. All are category books, so each pick gets a distinct palette accent. SWAP (post-enrichment): removed The Creative Penn 'From Story Seeds To Stories, And Writing An Author's Note' because the enrichment fetch found AI only in about two framing sentences, so it is not substantively AI x books. No replacement qualified. The PP Audible survey would make Publishing Perspectives a 3rd card, breaking the 2-per-outlet cap, and it is also a likely overlap with PW 10-10 Audible. ALLi KDP is a likely repeat of janefriedman 09-25. ALLi OpenAI leads with the motion already published on 10-03 and has no new filing. The Bookseller wrap and the Börsenblatt interim report are generic fair wraps where AI is one topic among several, so they are not substantively AI either. RECOVERY ADD: the recovery candidate PW 'Spotify Expands Audiobooks to 180 Markets' was tagged related to janefriedman 09-13 (Spotify AI narration open to all authors). It qualifies as a follow-up because it reports a new concrete announcement, the 22 to 180+ market expansion at Frankfurt, and AI narration is substantive as the stated small-language localization lever. It is a different company and event from PW 10-10 Audible and the Bookseller 10-09 narration debate. Adding it would have made PW 3 cards, so it displaced the weaker PW pick, 'Frankfurt Book Fair 2026: Three Views of Innovation' (101471). That pick was CEO panel commentary and overlapped in kind with the PW jobs panel, while Spotify is a concrete platform release. The set stays at 4 picks (PW 2, PP 2), which meets the floor of 3; there are only 2 distinct outlets because the pool has nothing else that qualifies. Spotify takes the displaced pick's slot and accent (#2ec5c5)."
   }
 }

@@ -1,96 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "design",
-  "dedup": {
-    "checks": {
-      "https://runwayml.com/news/company-news/runway-claude-motion": {
-        "verdict": "new",
-        "nearest": "https://runway.com/news/introducing-runway-ads",
-        "new_action": ""
-      },
-      "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/": {
-        "verdict": "new",
-        "nearest": "https://www.engineering.com/how-real-engineers-are-using-ai-surrogate-models-for-simulation/",
-        "new_action": ""
-      },
-      "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots": {
-        "verdict": "new",
-        "nearest": "https://www.fastcompany.com/91615068/openai-dots-agent-crew-of-friendly-mascots",
-        "new_action": ""
-      },
-      "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/": {
-        "verdict": "new",
-        "nearest": "https://developer.nvidia.com/blog/how-to-use-ai-agents-to-prepare-3d-scenes-for-simulation/",
-        "new_action": ""
-      },
-      "https://dev.to/as9978/why-screenshot-diffing-ai-built-uis-thrashes-and-how-geometry-fixes-it-5967": {
-        "verdict": "new",
-        "nearest": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
-        "new_action": ""
-      }
-    },
-    "note": "Checked against the 30-day history_digest. Runway x Claude Motion is design-owned today and has no prior card (Runway Ads on 10-01 is a different launch). The NVIDIA SimReady post (history_match related to 09-18 'AI agents to prepare 3D scenes') is kept as distinct content: it covers converting CAD assets into SimReady OpenUSD assets with materials, collisions and joints set by frontier models, while the 09-18 post covered scene preparation by agents. It is the weakest pick. Dropped: Nikon Small World in Motion (owned by movies); Google Playground (owned by games); Fanta AI Halloween ad (advertising critique, fits marketing better, same call as 10-09); Creative Bloq indie game Limerence (avoids gen AI, so AI is not what makes the story); Matt Wolfe roundup (bundles Haiku 5.5 and ChatGPT Intelligent UI, which was already published 10-08); AI Advantage Claude for Workspace short (a short clip on the Claude Docs/Slides thread from 09-17, no new release identified); MindStudio Stitch 2.0, Stitch MCP and Seedance intro posts (SEO-style vendor walkthroughs, related to the Stitch 09-28 card); Figma Sightlines no.3, Eleken AI-native UX, and UX Collective essays on AI UI, synthetic users and Tesler's Law (generic opinion with no concrete release); Boston Dynamics hand (AI is not central); DEV Blender stack post (related to 09-28 'Claude helped me make this animated video in Blender', running theme). Outlets in the final 5: Runway, Engineering.com, The Verge, NVIDIA Technical Blog, DEV Community, so 5 distinct outlets with 1 each. Categories: render x2 (the second card gets a palette accent), cad, workflow, tokens."
-  },
-  "items": [
+  "picks": [
     {
-      "url": "https://runwayml.com/news/company-news/runway-claude-motion",
-      "source": "Runway",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "A new integration: animated explainers made in Claude Motion export straight into Runway for footage generation, voiceover, music, scene edits and channel reformatting. It turns a two-tool motion workflow into one pipeline.",
-      "published_iso": "2026-10-08T17:29:00Z",
-      "og_image": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png",
-      "excerpt": "Runway now integrates with Claude Motion: export animated explainers from Claude into Runway to generate footage, add voiceover and music, edit scene by scene and reformat for every channel."
-    },
-    {
-      "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
-      "source": "Engineering.com",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "A new launch: AWS's open-source Physical AI toolchain gives product and robotics engineers reference architectures for simulation, training and deployment.",
-      "published_iso": "2026-10-09T21:00:24Z",
-      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg",
-      "excerpt": "AWS launched an open-source Physical AI toolchain with reference architectures for simulation, training and deployment, aimed at robotics and product engineering teams."
-    },
-    {
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "source": "The Verge",
+      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
+      "title": "Are synthetic users (really) the future of UX research?",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-08T23:16:42+00:00",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png",
+      "excerpt": "Human-centered design demands limited use of AI-generated personas, if at all; the piece weighs the UX research debate over synthetic users.",
+      "source_lang": "en",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "A hands-on test of the Instinct AI agent's interface against Muse and ChatGPT Dots. It is a concrete read on which agent UX patterns hold up as competition grows.",
-      "published_iso": "2026-10-09T14:00:00Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&crop=0%2C10.723165084465%2C100%2C78.55366983107&w=1200",
-      "excerpt": "A hands-on with Instinct, last season's buzziest AI agent, and whether its interface and experience can survive new competition from Muse and ChatGPT Dots."
+      "rationale": "Synthetic-user research is a live decision for research teams; first time this topic appears in the 30-day history."
     },
     {
-      "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
-      "source": "NVIDIA Technical Blog",
-      "tool": "KeyShot",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "rationale": "A five-step NVIDIA method that uses frontier AI models to turn CAD assets into SimReady OpenUSD assets with materials, collisions and joints, so 3D designers can hand off simulation-ready assets.",
-      "published_iso": "2026-10-08T20:57:55Z",
-      "og_image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif",
-      "excerpt": "NVIDIA shows five steps for using frontier AI models to turn CAD assets into SimReady OpenUSD assets, configuring materials, collisions and joints for robotics simulation."
-    },
-    {
-      "url": "https://dev.to/as9978/why-screenshot-diffing-ai-built-uis-thrashes-and-how-geometry-fixes-it-5967",
+      "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
+      "title": "Before an AI agent acts, show me what it can change",
       "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-10T06:27:09Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png",
+      "excerpt": "A UX pattern argument: agent permission prompts should preview exactly what an AI agent action will change instead of a bare 'Allow this action'.",
+      "source_lang": "en",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Explains why coding agents that screenshot-diff against a Figma frame keep thrashing, and shows that comparing layout geometry gives faithful AI-built UIs. Teams can apply the fix to design-to-code loops right away.",
-      "published_iso": "2026-10-08T19:36:08Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png",
-      "excerpt": "Why pointing a coding agent at a Figma frame and screenshot-diffing until it 'matches' thrashes, and how comparing layout geometry instead produces faithful AI-built UIs."
+      "rationale": "Concrete, reusable pattern for agent permission prompts (diff-preview instead of bare Allow) that product designers can apply directly."
+    },
+    {
+      "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+      "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+      "source": "Vercel",
+      "category": "render",
+      "published_iso": "2026-10-08T00:00:00+00:00",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png",
+      "excerpt": "xAI's Grok Imagine Video 1.5 Lite video-generation model is now callable through Vercel AI Gateway with one API key, unified billing and request traces.",
+      "source_lang": "en",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "New release: a video-generation model now one API key away for design/prototyping teams already on Vercel."
+    },
+    {
+      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+      "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+      "source": "The Robot Report",
+      "category": "cad",
+      "published_iso": "2026-10-09T16:59:57+00:00",
+      "og_image": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg",
+      "excerpt": "Atlas's new hand was designed for high-fidelity simulation to enable sim-to-real reinforcement learning, Boston Dynamics' Alberto Rodriguez explains.",
+      "source_lang": "en",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Industrial-design insight: hardware shaped to be simulatable so AI can learn on it, a design-for-RL principle new to the brief."
+    },
+    {
+      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "title": "4 team rituals that drive AI adoption",
+      "source": "Figma",
+      "category": "workflow",
+      "published_iso": "2026-10-10T02:12:00.000Z",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+      "excerpt": "Four ways teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers and product teams get real value from AI.",
+      "source_lang": "en",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "rationale": "Concrete team rituals from Figma, Mercari, Atlassian and Sephora that design leads can adopt to make AI use stick; adds Figma as a fifth distinct outlet."
     }
   ],
-  "alternates": [
-    "https://www.mindstudio.ai/blog/google-stitch-mcp-coding-agents",
-    "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
-    "https://www.creativebloq.com/ai/fantas-ai-slop-halloween-advert-is-a-real-horror-show"
-  ]
+  "dedup": {
+    "checks": {
+      "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h": {
+        "verdict": "new",
+        "nearest": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
+        "new_action": ""
+      },
+      "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/": {
+        "verdict": "new",
+        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
+        "new_action": ""
+      }
+    },
+    "note": "Pool 17, no clusters. Dropped: Matt Wolfe roundup (headline item ChatGPT Intelligent UI already published 10-08); NVIDIA 'Into the Omniverse' agents (same running theme as 10-10 SimReady assets and 09-18 AI agents for 3D sim scenes); Google Gemini enterprise agent and Microsoft Windows/Surface (general AI-business/OS news, not design). Agent permission-preview post is a distinct pattern piece, not a repeat of 10-08 bounded delegation / design-system agent posts. Lower-ranked but fresh, not picked: Sightlines no.3 (same Figma source + same AI-adoption topic as the rituals post, keep one), UX Collective AI-UI and Tesler's Law essays, Firefly risk playbook and 'designers redundant' (dev.to, weaker), Creative Bloq Hollywood/Fanta (less actionable). SWAP: removed Figma Motion 'Show Your Work' video (youtube IjtOndtmC-Q) after the enrichment fetch showed it is not substantively about AI (~30s of 238s on AI). Replaced with Figma blog '4 team rituals that drive AI adoption': substantively design x AI, new outlet (5 distinct outlets in final set), history_match 'related' to 10-07 Figma-agent post is a different story (agent usage tips vs team adoption rituals), also distinct from 09-25 'What it takes to build great products now'. Second workflow card, so given palette accent #3b6bff."
+  }
 }

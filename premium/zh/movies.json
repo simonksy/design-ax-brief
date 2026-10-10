@@ -6028,6 +6028,148 @@
           "x": "Red Rock表示，AI-assisted动作捕捉流程比动捕（mo-cap）中使用的传统CGI成本更低、效率更高。"
         }
       ]
+    },
+    "movies/cage-spider-noir-ai-waiver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+          "cap": "Nicolas Cage。Earl Gibson III/Deadline"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Cage在New York Comic-Con上告诉观众，正如传闻所说，他很可能出演HBO《True Detective》的一季；但他不太可能再与播出《Spider-Noir》的Prime Video合作，因为Amazon“非常AI-friendly”。"
+        },
+        {
+          "t": "p",
+          "x": "正在拍摄电影《Perish》的Cage说：“我想我可能会出演一季《True Detective》。由我第一个宣布，OK吧？”"
+        },
+        {
+          "t": "p",
+          "x": "Cage并不喜欢AI。他签约出演Prime Video《Spider-Noir》仅有的一季时，没有签署AI豁免书。"
+        },
+        {
+          "t": "p",
+          "x": "“在AI面前怎么生存？”Cage说，“Amazon是一家非常AI-friendly的公司，向OpenAI投资了50 billion美元。我不是AI-friendly的演员….我不是他们俱乐部的一员。我没有签署允许他们在《Spider-Noir》上使用AI的豁免书。我大概不会再和那家公司合作了，但这没关系。”"
+        },
+        {
+          "t": "p",
+          "x": "Cage补充说，他更愿意和“走自己路子”的年轻Gen Z导演合作。“他们从零开始，亲手制作，”他说，“我想加入他们。”"
+        }
+      ]
+    },
+    "movies/eyeline-genfx-rustad-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+          "cap": "James Rustad。Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "Netflix内部(in-house)VFX工作室Eyeline的GenFX全球负责人James Rustad表示,生成式AI可以拓宽视效镜头的选择,但哪些选择服务于故事,仍由艺术家决定。"
+        },
+        {
+          "t": "p",
+          "x": "Rustad在釜山国际电影节(Busan International Film Festival)亚洲内容与电影市场(Asian Contents & Film Market)的InnoAsia环节发言,以Netflix的《Brazil ‘70: The Third Star》为例。该剧包含1,300多个视效镜头,其中800多个发生在足球场上。"
+        },
+        {
+          "t": "p",
+          "x": "Rustad说,Eyeline与45名艺术家采用混合方式工作,把生成式工具引入同样运用成熟特效技术的流程。他说:“艺术家的判断同样重要。”"
+        },
+        {
+          "t": "p",
+          "x": "他的演讲将生成式AI镜头工作流程分为四个阶段:设定、叙事、视觉风格和交付。提示词、参考资料收集和初步测试确定可选方案;随后对照故事评估结果,再进入灯光、场景细节、时代准确性等视觉打磨,最后是交付:合成、放大、位深(bit-depth)检查和技术审查。"
+        },
+        {
+          "t": "p",
+          "x": "叙事阶段是从“什么是可能的”转向“什么适合故事”。艺术家的判断正是在这里发挥作用:从AI生成(AI-generated)的结果中挑选哪些应成为最终镜头。"
+        }
+      ]
+    },
+    "movies/morph-3d-scene-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morphic于8日宣布推出3D场景导演编辑器“3D Scene”,旨在解决被视为现有AI视频主要局限的导演随机性和构图崩坏问题。"
+        },
+        {
+          "t": "p",
+          "x": "3D Scene将对话式AI副驾驶与3D操控工具合二为一:前者可根据自然语言指令自动搭建3D空间并安排场景中的人物位置,后者可逐帧手动控制摄像机角度和灯光。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+          "cap": "[图片提供=Morphic]"
+        },
+        {
+          "t": "p",
+          "x": "借助约2500个素材的资源库,用户可在几分钟内搭好3D场景,一键指定人物的移动路径和速度,细调200余种动作,还能一次性实现多达60人的群戏或追逐戏。"
+        },
+        {
+          "t": "p",
+          "x": "“按颜色分配人偶”(Cast by Color)系统为每个人偶分配颜色和名称,确定构图后将其连接到最终生成提示词,AI便能识别人物的位置、朝向和视线来生成视频。产品还配备无人机、摇臂等12种运镜控制,以及能自动检测是否遵守180°法则、是否存在不现实移动速度等问题的连贯性检查功能。"
+        },
+        {
+          "t": "p",
+          "x": "Morphic首席执行官JD Kanani表示:“3D Scene让创作者能在3D空间中直接控制人物走位和摄像机运动,准确实现导演意图,并且无需消耗付费额度即可预先验证场景再进行最终生成,有助于为制片公司节省预算和时间。”"
+        }
+      ]
+    },
+    "movies/astana-ai-film-grand-prix": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RxHoSyLNNRo"
+        },
+        {
+          "t": "p",
+          "x": "拉脱维亚电影人Nikolay Shestak凭借运用人工智能创作的影片《The First Honest Day》,在哈萨克斯坦(Kazakhstan)首届Astana AI Film Festival上夺得$450,000(€401,000)的大奖(Grand Prix)。片中,角色做坏事会让外表变得更丑,做好事则会让他们变得更好。"
+        },
+        {
+          "t": "p",
+          "x": "两年前开始用AI拍片的Shestak说:“老实说,我没想到会赢。”第二名是印度(India)的Abhik Banerjee,作品为《SITARA》($200,000);第三名是西班牙(Spain)的Ernest Desumbila,作品为《Looking For Perseida》($100,000)。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+          "cap": "Astana AI Film Festival入围者。Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "评审不仅看AI工具的使用方式,也考量艺术视野、叙事、连贯性以及技术融入的自然程度。比赛共收到来自125个国家的8,000多部作品;25部影片进入最终片单,涵盖19种类型和80多个生成式AI模型。电影节总基金为$2 million,一半用于奖金,一半作为AI团队的投资资本。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+          "cap": "Tokayev总统(President Tokayev)出席Astana AI Film Festival开幕式。Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "为电影节揭幕的Kassym-Jomart Tokayev总统表示,“准入门槛已大幅降低”,但AI不会取代电影人的创作角色。联合创始人Aizat Kussainov说:“这个电影节的驱动力是FOMO。”"
+        }
+      ]
+    },
+    "movies/nikon-small-world-ai-disqualified": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
+          "cap": "原第一名视频在后期处理中使用了AI。"
+        },
+        {
+          "t": "p",
+          "x": "Nikon表示，在其Small World in Motion大赛中最初获得第一名的视频“不符合有关生成式AI的比赛规则”。这件由Dr. Ning Xu提交的作品称展示了一名患有呼吸系统疾病PCD的儿童气道中细如毛发的纤毛运动；在网上出现对其真实性的质疑后，Nikon开始进行审查。"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Ning Xu在LinkedIn上承认，为了区分并呈现超分辨率光学成像图像中的特征，“随后使用了一种无监督神经网络方法进行AI辅助（AI-assisted）后期处理”。"
+        },
+        {
+          "t": "p",
+          "x": "该视频已被取消资格并从Nikon网站撤下，Nguyen Nam Nhat现列第一名。Nikon计划“重新审视未来参赛作品的规则和评审程序”，并补充说，这一决定不应被视为对参赛者声誉、科学贡献或意图的评判。"
+        }
+      ]
     }
   }
 }

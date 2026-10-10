@@ -1,197 +1,167 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "medicine",
   "cards": [
     {
-      "id": "amie-lancet-primary-care",
+      "id": "jama-ai-psychosis-cohort",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "Google AMIE,\n1차 진료 실환자 만나다",
-      "body": "Lancet 연구에서 AMIE는 환자와 의사 관계를 개선할 여지를 보였다.",
-      "mini_headline": "AMIE, 실제 환자 대상 시험",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
+      "headline": "AI 정신증을\n대형 의료기관에서 재다",
+      "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
+      "mini_headline": "AI 정신증을 재다",
+      "source": "JAMA Psychiatry",
+      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.2923",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-            "cap": "The Lancet에 실린 연구에 따르면 AI가 환자와 의사의 관계를 개선할 수 있다."
+            "t": "p",
+            "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 맞물린 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 지금까지의 근거는 대부분 증례 보고나 관점 논문, 시뮬레이션에 머물렀다."
           },
           {
             "t": "p",
-            "x": "진료실에 들어서기 전에 AI가 환자의 필요를 안전하게 평가할 수 있을지, Google과 Beth Israel Deaconess Medical Center(BIDMC) 연구진이 이끌어 오늘 The Lancet에 발표한 연구가 고무적인 첫 결과를 내놓았다. Google이 The Lancet 본지에 처음 게재한 논문이라 중요한 이정표이기도 하다."
+            "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해 AI 관련(AI-related) 키워드와 정신병적 장애 진단이 함께 기록된 환자를 추렸다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고 AI 정신증 사례는 다시 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
           },
           {
             "t": "p",
-            "x": "BIDMC 외래 1차 진료 클리닉에서 열린 실제 임상 연구에서는 환자 98명이 긴급 진료를 받기 전에 자사 연구용 진단 AI 챗봇 AMIE와 상담했다. 감독 의사들이 대화를 실시간으로 지켜봤는데, 미리 정한 안전 기준에 걸려 중단한 대화는 한 건도 없었다. 임상의들에 따르면 AI 요약은 사례의 75%에서 진료 준비에 도움이 됐고 절반이 넘는 사례에서는 진료 방식에도 영향을 줬다. AMIE의 감별 진단은 의사의 최종 진단과 90% 일치했다."
+            "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품 가운데 15건(53.6%)이 ChatGPT였고 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
           },
           {
             "t": "p",
-            "x": "환자를 직접 상대하는 AI를 대규모로 평가하려면 더 큰 임상시험이 필요하다. 그래도 이번 결과는 AI가 환자와 의사의 관계를 강화하고 의료진의 부담을 덜어 줄 가능성을 보여 준다. 과학과 보건 분야에서 AI가 할 수 있는 일의 경계를 넓혀 가는 길에서도 의미 있는 진전이다."
-          },
-          {
-            "t": "video",
-            "yt": "f3jK_SsHcAw"
+            "x": "저자들은 GPT-4o 이후 사례가 늘어난 시기가 이 모델의 아첨(sycophancy) 성향이 보고된 때와 겹친다고 짚었다. 다만 연구 설계상 인과관계까지 입증하지는 못한다. 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다는 게 이들의 결론이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google's AMIE meets real\nprimary care patients",
-          "body": "A Lancet study with real clinic patients suggests AMIE could improve patient-physician relationships.",
-          "mini_headline": "AMIE tested on real patients",
+          "headline": "Measuring AI psychosis\nin a large health system",
+          "body": "A cohort study estimates the prevalence of AI psychosis and the role conversational AI played in psychotic episodes.",
+          "mini_headline": "AI psychosis, measured",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "Study in The Lancet suggests AI could improve patient-physician relationships."
+                "t": "p",
+                "x": "Conversational AI chatbots are increasingly linked to emerging or worsening psychotic symptoms, a phenomenon the authors call \"AI psychosis.\" Prior evidence was mostly case reports, viewpoints and simulations."
               },
               {
                 "t": "p",
-                "x": "Can AI safely assess patients’ needs before they step into a doctor’s office? A study led by researchers at Google and Beth Israel Deaconess Medical Center (BIDMC) and published in The Lancet today, offers an encouraging first look. As Google’s first-ever publication in the main journal of The Lancet, this research marks a significant milestone."
+                "x": "Researchers at Vanderbilt University Medical Center retrospectively reviewed behavioral health progress notes from December 1, 2022, to April 15, 2026, for patients with AI-related keywords and a documented psychotic-disorder diagnosis. Two raters classified AI interactions as neutral, AI psychosis (chatbot use that worsened psychosis) or AI-related psychotic content, and sorted AI psychosis cases into four types: catalyst, amplifier, coauthor and object."
               },
               {
                 "t": "p",
-                "x": "In a real-world clinical study at BIDMC’s ambulatory primary care clinic, 98 patients consulted AMIE, our research diagnostic AI chatbot, ahead of urgent care visits. Supervising physicians monitored the interactions in real time, and not a single conversation needed to be interrupted based on predefined safety criteria. And clinicians reported that the AI summaries helped them prepare for visits in 75% of cases and influenced their approach to care in more than half. AMIE’s differential diagnoses also matched the doctors’ final diagnoses 90% of the time."
+                "x": "Of 578,058 records (215,712 unique patients), 187 encounters from 73 patients met criteria. 28 patients (0.013% of those receiving mental health care) were in the AI psychosis group. ChatGPT was the documented product in 15 cases (53.6%), and 24 interactions (85.7%) were documented after the May 2024 release of GPT-4o. 60.7% of the AI psychosis group were in a first psychotic episode, vs 17.6% of the neutral group. Amplifier was the most common type (64.3%)."
               },
               {
                 "t": "p",
-                "x": "While larger clinical trials are needed to assess patient-facing AI at scale, the findings suggest the potential for AI to enhance the patient-physician relationship and ease the strain on healthcare workers. And they demonstrate meaningful progress as we push the boundaries of what’s possible for AI in science and health."
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "The authors note the rise after GPT-4o coincides with documented sycophancy in that model, but the design cannot establish causation. They conclude that routine assessment of AI use during psychiatric encounters appears warranted."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AMIE,\n1차 진료 실환자 만나다",
-          "body": "Lancet 연구에서 AMIE는 환자와 의사 관계를 개선할 여지를 보였다.",
-          "mini_headline": "AMIE, 실제 환자 대상 시험",
+          "headline": "AI 정신증을\n대형 의료기관에서 재다",
+          "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
+          "mini_headline": "AI 정신증을 재다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "The Lancet에 실린 연구에 따르면 AI가 환자와 의사의 관계를 개선할 수 있다."
+                "t": "p",
+                "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 맞물린 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 지금까지의 근거는 대부분 증례 보고나 관점 논문, 시뮬레이션에 머물렀다."
               },
               {
                 "t": "p",
-                "x": "진료실에 들어서기 전에 AI가 환자의 필요를 안전하게 평가할 수 있을지, Google과 Beth Israel Deaconess Medical Center(BIDMC) 연구진이 이끌어 오늘 The Lancet에 발표한 연구가 고무적인 첫 결과를 내놓았다. Google이 The Lancet 본지에 처음 게재한 논문이라 중요한 이정표이기도 하다."
+                "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해 AI 관련(AI-related) 키워드와 정신병적 장애 진단이 함께 기록된 환자를 추렸다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고 AI 정신증 사례는 다시 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
               },
               {
                 "t": "p",
-                "x": "BIDMC 외래 1차 진료 클리닉에서 열린 실제 임상 연구에서는 환자 98명이 긴급 진료를 받기 전에 자사 연구용 진단 AI 챗봇 AMIE와 상담했다. 감독 의사들이 대화를 실시간으로 지켜봤는데, 미리 정한 안전 기준에 걸려 중단한 대화는 한 건도 없었다. 임상의들에 따르면 AI 요약은 사례의 75%에서 진료 준비에 도움이 됐고 절반이 넘는 사례에서는 진료 방식에도 영향을 줬다. AMIE의 감별 진단은 의사의 최종 진단과 90% 일치했다."
+                "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품 가운데 15건(53.6%)이 ChatGPT였고 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
               },
               {
                 "t": "p",
-                "x": "환자를 직접 상대하는 AI를 대규모로 평가하려면 더 큰 임상시험이 필요하다. 그래도 이번 결과는 AI가 환자와 의사의 관계를 강화하고 의료진의 부담을 덜어 줄 가능성을 보여 준다. 과학과 보건 분야에서 AI가 할 수 있는 일의 경계를 넓혀 가는 길에서도 의미 있는 진전이다."
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "저자들은 GPT-4o 이후 사례가 늘어난 시기가 이 모델의 아첨(sycophancy) 성향이 보고된 때와 겹친다고 짚었다. 다만 연구 설계상 인과관계까지 입증하지는 못한다. 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다는 게 이들의 결론이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AMIE、\n実際のプライマリケア患者に",
-          "body": "Lancetの研究で、AMIEが患者と医師の関係を改善しうることが示された。",
-          "mini_headline": "AMIE、実際の患者で検証",
+          "headline": "AI精神病を\n大規模医療機関で測る",
+          "body": "コホート研究がAI精神病の有病率と、精神病エピソードにおける対話型AIの役割を推定した。",
+          "mini_headline": "AI精神病を測る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "The Lancetに掲載された研究は、AIが患者と医師の関係を改善しうることを示唆している。"
+                "t": "p",
+                "x": "対話型AIチャットボットが精神病症状の出現や悪化と結びつく例が増えている。著者らはこの現象を「AI精神病(AI psychosis)」と呼ぶ。これまでの根拠は症例報告、見解論文、シミュレーションが中心だった。"
               },
               {
                 "t": "p",
-                "x": "患者が診察室に入る前に、AIはその患者のニーズを安全に評価できるのか。GoogleとBeth Israel Deaconess Medical Center（BIDMC）の研究者が主導し、本日The Lancetに掲載された研究が、その問いに明るい最初の手がかりを示した。GoogleにとってThe Lancet本誌への初めての論文掲載であり、本研究は重要な節目となる。"
+                "x": "ヴァンダービルト大学医療センター(Vanderbilt University Medical Center)の研究者らは、2022年12月1日から2026年4月15日までの行動保健の経過記録を後ろ向きに調べ、AI関連(AI-related)のキーワードがあり精神病性障害の診断が記録された患者を抽出した。二人の評価者がAIとのやり取りを中立、AI精神病(チャットボット利用が精神病を悪化させたもの)、AI関連の精神病的内容に分類し、AI精神病の症例を触媒、増幅者、共著者、対象の四つの類型に分けた。"
               },
               {
                 "t": "p",
-                "x": "BIDMCの外来プライマリケア診療所で行われた実臨床研究では、98人の患者が緊急受診の前に、当社の研究用診断AIチャットボットAMIEと対話した。監督医師がやり取りをリアルタイムで見守ったが、事前に定めた安全基準に基づいて中断が必要になった会話は一件もなかった。臨床医は、AIの要約が75%の症例で受診準備に役立ち、半数を超える症例で診療方針に影響を与えたと報告した。AMIEの鑑別診断は、90%の確率で医師の最終診断と一致した。"
+                "x": "578,058件の記録(固有患者215,712人)のうち、患者73人による187件の診療が基準を満たした。28人(精神保健医療を受けた患者の0.013%)がAI精神病群に該当した。記録された製品は15件(53.6%)がChatGPTで、やり取り24件(85.7%)はGPT-4oが公開された2024年5月以降に記録されていた。AI精神病群の60.7%が初回精神病エピソードだったのに対し、中立群は17.6%だった。最も多い類型は増幅者(64.3%)だった。"
               },
               {
                 "t": "p",
-                "x": "患者と直接向き合うAIを大規模に評価するにはより大規模な臨床試験が必要だが、今回の結果は、AIが患者と医師の関係を深め、医療従事者の負担を和らげる可能性を示している。また、科学と医療におけるAIの可能性を押し広げるうえで、意味のある前進でもある。"
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "著者らは、GPT-4o以降の増加が同モデルで指摘された迎合性(sycophancy)の時期と重なると指摘する一方、研究デザイン上、因果関係は立証できないとしている。そのうえで、精神科診療の場でAI利用を日常的に評価することが妥当だと結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AMIE\n走进真实初级诊疗患者",
-          "body": "Lancet研究显示，AMIE有望改善真实门诊中的医患关系。",
-          "mini_headline": "AMIE在真实患者中接受测试",
+          "headline": "在大型医疗系统中\n测量AI精神病",
+          "body": "一项队列研究估算了AI精神病的患病率，以及对话式AI在精神病发作中的作用。",
+          "mini_headline": "测量AI精神病",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "发表于The Lancet的研究表明，AI有望改善医患关系。"
+                "t": "p",
+                "x": "对话式AI聊天机器人与精神病性症状的出现或加重之间的关联日益增多，作者将这一现象称为“AI精神病（AI psychosis）”。此前的证据大多是病例报告、观点文章和模拟研究。"
               },
               {
                 "t": "p",
-                "x": "AI能否在患者走进诊室之前，安全地评估他们的需求？由Google与Beth Israel Deaconess Medical Center（BIDMC）研究人员主导、今天发表于The Lancet的一项研究给出了令人鼓舞的初步答案。这是Google首次在The Lancet主刊发表论文，标志着一个重要的里程碑。"
+                "x": "范德堡大学医学中心（Vanderbilt University Medical Center）的研究人员回顾性审阅了2022年12月1日至2026年4月15日的行为健康病程记录，筛选出含有AI相关（AI-related）关键词且记录有精神病性障碍诊断的患者。两名评估者将AI互动分为中性、AI精神病（使用聊天机器人加重了精神病）或与AI相关的精神病性内容，并将AI精神病病例分为四种类型：催化者、放大者、共同作者和对象。"
               },
               {
                 "t": "p",
-                "x": "在BIDMC门诊初级诊疗诊所开展的一项真实世界临床研究中，98名患者在紧急就诊前与我们的研究型诊断AI聊天机器人AMIE进行了问诊。监督医生实时监看了对话，根据预先设定的安全标准，没有一次对话需要中断。临床医生表示，在75%的病例中，AI摘要帮助他们做好了就诊准备，在超过半数的病例中影响了他们的诊疗思路。AMIE的鉴别诊断与医生最终诊断的吻合率也达到90%。"
+                "x": "在578,058份记录（215,712名独立患者）中，73名患者的187次就诊符合标准。28名患者（占接受精神卫生服务者的0.013%）属于AI精神病组。有记录的产品中ChatGPT占15例（53.6%），24次互动（85.7%）记录于GPT-4o在2024年5月发布之后。AI精神病组中60.7%处于首次精神病发作，中性组为17.6%。放大者是最常见的类型（64.3%）。"
               },
               {
                 "t": "p",
-                "x": "要在规模化场景中评估面向患者的AI，还需要更大规模的临床试验，但这些发现表明，AI有望增进医患关系，并减轻医护人员的负担。这也体现出我们在拓展AI于科学与健康领域可能性方面取得的实质进展。"
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AMIE de Google, a prueba con\npacientes reales de primaria",
-          "body": "Un estudio en The Lancet con pacientes reales sugiere que AMIE podría mejorar la relación entre paciente y médico.",
-          "mini_headline": "AMIE, probado con pacientes reales",
+          "headline": "Medir la psicosis por IA (AI)\nen un gran sistema de salud",
+          "body": "Un estudio de cohorte estima la prevalencia de la psicosis por IA (AI) y el papel de los chatbots en brotes psicóticos.",
+          "mini_headline": "Psicosis por IA (AI), medida",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "Un estudio en The Lancet sugiere que la inteligencia artificial (AI) podría mejorar la relación entre paciente y médico."
+                "t": "p",
+                "x": "Los chatbots de IA conversacional se asocian cada vez más con la aparición o el empeoramiento de síntomas psicóticos, un fenómeno que los autores llaman «psicosis por IA» (\"AI psychosis\"). La evidencia previa consistía sobre todo en informes de casos, artículos de opinión y simulaciones."
               },
               {
                 "t": "p",
-                "x": "¿Puede la IA evaluar con seguridad las necesidades de los pacientes antes de que entren en la consulta? Un estudio dirigido por investigadores de Google y del Beth Israel Deaconess Medical Center (BIDMC), publicado hoy en The Lancet, ofrece una primera aproximación alentadora. Al ser la primera publicación de Google en la revista principal de The Lancet, esta investigación marca un hito importante."
+                "x": "Investigadores del Vanderbilt University Medical Center revisaron de forma retrospectiva las notas de evolución de salud conductual del 1 de diciembre de 2022 al 15 de abril de 2026 en busca de pacientes con palabras clave relacionadas con la IA (AI-related) y un diagnóstico documentado de trastorno psicótico. Dos evaluadores clasificaron las interacciones con la IA como neutrales, psicosis por IA (uso de chatbots que empeoró la psicosis) o contenido psicótico relacionado con la IA, y ordenaron los casos de psicosis por IA en cuatro tipos: catalizador, amplificador, coautor y objeto."
               },
               {
                 "t": "p",
-                "x": "En un estudio clínico en condiciones reales realizado en la clínica ambulatoria de atención primaria del BIDMC, 98 pacientes consultaron con AMIE, nuestro chatbot de IA de investigación para diagnóstico, antes de sus visitas de atención urgente. Los médicos supervisores siguieron las interacciones en tiempo real y, según los criterios de seguridad predefinidos, no fue necesario interrumpir ni una sola conversación. Los clínicos señalaron que los resúmenes de la IA les ayudaron a preparar las visitas en el 75% de los casos e influyeron en su enfoque asistencial en más de la mitad. Los diagnósticos diferenciales de AMIE coincidieron además con los diagnósticos finales de los médicos el 90% de las veces."
+                "x": "De 578,058 registros (215,712 pacientes únicos), 187 consultas de 73 pacientes cumplieron los criterios. 28 pacientes (0.013% de quienes recibían atención de salud mental) formaban el grupo de psicosis por IA (AI). ChatGPT fue el producto documentado en 15 casos (53.6%), y 24 interacciones (85.7%) se documentaron después del lanzamiento de GPT-4o en mayo de 2024. El 60.7% del grupo de psicosis por IA atravesaba un primer episodio psicótico, frente al 17.6% del grupo neutral. El tipo más frecuente fue el amplificador (64.3%)."
               },
               {
                 "t": "p",
-                "x": "Aunque se necesitan ensayos clínicos más amplios para evaluar a escala la IA orientada al paciente, los resultados apuntan al potencial de la IA para reforzar la relación entre paciente y médico y aliviar la presión sobre los profesionales sanitarios. Y muestran un avance significativo en el esfuerzo por ampliar los límites de lo que la IA puede hacer en la ciencia y la salud."
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
               }
             ]
           }
@@ -199,125 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AMIE,\n1차 진료 실환자 만나다",
-          "body": "Lancet 연구에서 AMIE가 환자와 의사의 관계를 개선할 가능성을 보였다.",
-          "mini_headline": "AMIE, 실제 환자 대상 시험",
+          "headline": "AI 정신증을\n대형 의료기관에서 재다",
+          "body": "코호트 연구가 AI 정신증 유병률과 정신병 삽화에서 대화형 AI의 역할을 추정했다.",
+          "mini_headline": "AI 정신증을 재다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "The Lancet에 실린 연구는 AI가 환자와 의사의 관계를 개선할 수 있음을 시사한다."
+                "t": "p",
+                "x": "대화형 AI 챗봇이 정신병적 증상의 발현이나 악화와 연결되는 사례가 늘고 있다. 저자들은 이 현상을 \"AI 정신증(AI psychosis)\"이라 부른다. 기존 근거는 대부분 증례 보고, 관점 논문, 시뮬레이션이었다."
               },
               {
                 "t": "p",
-                "x": "환자가 진료실에 들어서기 전에 AI가 환자의 필요를 안전하게 평가할 수 있는지를 두고, Google과 Beth Israel Deaconess Medical Center(BIDMC) 연구진이 이끌고 오늘 The Lancet에 발표한 연구가 고무적인 첫 결과를 내놓았다. Google이 The Lancet 본지에 처음으로 게재한 논문으로, 이번 연구는 중요한 이정표가 된다."
+                "x": "밴더빌트대학교 의료센터(Vanderbilt University Medical Center) 연구진은 2022년 12월 1일부터 2026년 4월 15일까지의 행동건강 경과 기록을 후향적으로 검토해, AI 관련(AI-related) 키워드가 있고 정신병적 장애 진단이 기록된 환자를 찾았다. 평가자 두 명이 AI 상호작용을 중립, AI 정신증(챗봇 사용이 정신증을 악화시킨 경우), AI 관련 정신병적 내용으로 분류했고, AI 정신증 사례를 촉매, 증폭자, 공동저자, 대상의 네 유형으로 나눴다."
               },
               {
                 "t": "p",
-                "x": "BIDMC의 외래 1차 진료 클리닉에서 진행한 실제 임상 연구에서 환자 98명이 긴급 진료 방문에 앞서 자사 연구용 진단 AI 챗봇 AMIE와 상담했다. 감독 의사들이 대화를 실시간으로 지켜봤고, 사전에 정한 안전 기준에 따라 중단해야 했던 대화는 한 건도 없었다. 임상의들은 AI 요약이 75%의 사례에서 진료 준비에 도움이 됐고, 절반이 넘는 사례에서 진료 방식에 영향을 줬다고 밝혔다. AMIE의 감별 진단은 의사의 최종 진단과 90% 일치했다."
+                "x": "578,058건의 기록(고유 환자 215,712명) 가운데 환자 73명의 진료 187건이 기준을 충족했다. 28명(정신건강 진료를 받은 환자의 0.013%)이 AI 정신증 군에 속했다. 기록된 제품은 15건(53.6%)이 ChatGPT였고, 상호작용 24건(85.7%)은 GPT-4o가 출시된 2024년 5월 이후에 기록됐다. AI 정신증 군의 60.7%가 첫 정신병 삽화였던 반면 중립 군은 17.6%였다. 가장 흔한 유형은 증폭자(64.3%)였다."
               },
               {
                 "t": "p",
-                "x": "환자를 직접 상대하는 AI를 대규모로 평가하려면 더 큰 임상시험이 필요하지만, 이번 결과는 AI가 환자와 의사의 관계를 강화하고 의료진의 부담을 덜어 줄 가능성을 보여 준다. 과학과 보건 분야에서 AI가 할 수 있는 일의 경계를 넓혀 가는 과정에서 의미 있는 진전이기도 하다."
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "저자들은 GPT-4o 이후의 증가가 이 모델에서 보고된 아첨(sycophancy) 성향과 시기가 겹친다고 짚었지만, 연구 설계상 인과관계를 입증할 수는 없다. 이들은 정신과 진료에서 AI 사용을 정기적으로 평가할 필요가 있어 보인다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google AMIE、\n実際のプライマリケア患者に",
-          "body": "Lancetの研究で、AMIEが患者と医師の関係を改善しうることが示された。",
-          "mini_headline": "AMIE、実際の患者で検証",
+          "headline": "AI精神病を\n大規模医療機関で測る",
+          "body": "コホート研究がAI精神病の有病率と、精神病エピソードにおける対話型AIの役割を推定した。",
+          "mini_headline": "AI精神病を測る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "The Lancetに掲載された研究は、AIが患者と医師の関係を改善しうることを示唆している。"
+                "t": "p",
+                "x": "対話型AIチャットボットが精神病症状の出現や悪化と結びつく例が増えている。著者らはこの現象を「AI精神病(AI psychosis)」と呼ぶ。これまでの根拠は症例報告、見解論文、シミュレーションが中心だった。"
               },
               {
                 "t": "p",
-                "x": "患者が診察室に入る前に、AIはその患者のニーズを安全に評価できるのか。GoogleとBeth Israel Deaconess Medical Center（BIDMC）の研究者が主導し、本日The Lancetに掲載された研究が、その問いに明るい最初の手がかりを示した。GoogleにとってThe Lancet本誌への初めての論文掲載であり、本研究は重要な節目となる。"
+                "x": "ヴァンダービルト大学医療センター(Vanderbilt University Medical Center)の研究者らは、2022年12月1日から2026年4月15日までの行動保健の経過記録を後ろ向きに調べ、AI関連(AI-related)のキーワードがあり精神病性障害の診断が記録された患者を抽出した。二人の評価者がAIとのやり取りを中立、AI精神病(チャットボット利用が精神病を悪化させたもの)、AI関連の精神病的内容に分類し、AI精神病の症例を触媒、増幅者、共著者、対象の四つの類型に分けた。"
               },
               {
                 "t": "p",
-                "x": "BIDMCの外来プライマリケア診療所で行われた実臨床研究では、98人の患者が緊急受診の前に、当社の研究用診断AIチャットボットAMIEと対話した。監督医師がやり取りをリアルタイムで見守ったが、事前に定めた安全基準に基づいて中断が必要になった会話は一件もなかった。臨床医は、AIの要約が75%の症例で受診準備に役立ち、半数を超える症例で診療方針に影響を与えたと報告した。AMIEの鑑別診断は、90%の確率で医師の最終診断と一致した。"
+                "x": "578,058件の記録(固有患者215,712人)のうち、患者73人による187件の診療が基準を満たした。28人(精神保健医療を受けた患者の0.013%)がAI精神病群に該当した。記録された製品は15件(53.6%)がChatGPTで、やり取り24件(85.7%)はGPT-4oが公開された2024年5月以降に記録されていた。AI精神病群の60.7%が初回精神病エピソードだったのに対し、中立群は17.6%だった。最も多い類型は増幅者(64.3%)だった。"
               },
               {
                 "t": "p",
-                "x": "患者と直接向き合うAIを大規模に評価するにはより大規模な臨床試験が必要だが、今回の結果は、AIが患者と医師の関係を深め、医療従事者の負担を和らげる可能性を示している。また、科学と医療におけるAIの可能性を押し広げるうえで、意味のある前進でもある。"
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "著者らは、GPT-4o以降の増加が同モデルで指摘された迎合性(sycophancy)の時期と重なると指摘する一方、研究デザイン上、因果関係は立証できないとしている。そのうえで、精神科診療の場でAI利用を日常的に評価することが妥当だと結論づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AMIE\n走进真实初级诊疗患者",
-          "body": "Lancet研究显示，AMIE有望改善真实门诊中的医患关系。",
-          "mini_headline": "AMIE在真实患者中接受测试",
+          "headline": "在大型医疗系统中\n测量AI精神病",
+          "body": "一项队列研究估算了AI精神病的患病率，以及对话式AI在精神病发作中的作用。",
+          "mini_headline": "测量AI精神病",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "发表于The Lancet的研究表明，AI有望改善医患关系。"
+                "t": "p",
+                "x": "对话式AI聊天机器人与精神病性症状的出现或加重之间的关联日益增多，作者将这一现象称为“AI精神病（AI psychosis）”。此前的证据大多是病例报告、观点文章和模拟研究。"
               },
               {
                 "t": "p",
-                "x": "AI能否在患者走进诊室之前，安全地评估他们的需求？由Google与Beth Israel Deaconess Medical Center（BIDMC）研究人员主导、今天发表于The Lancet的一项研究给出了令人鼓舞的初步答案。这是Google首次在The Lancet主刊发表论文，标志着一个重要的里程碑。"
+                "x": "范德堡大学医学中心（Vanderbilt University Medical Center）的研究人员回顾性审阅了2022年12月1日至2026年4月15日的行为健康病程记录，筛选出含有AI相关（AI-related）关键词且记录有精神病性障碍诊断的患者。两名评估者将AI互动分为中性、AI精神病（使用聊天机器人加重了精神病）或与AI相关的精神病性内容，并将AI精神病病例分为四种类型：催化者、放大者、共同作者和对象。"
               },
               {
                 "t": "p",
-                "x": "在BIDMC门诊初级诊疗诊所开展的一项真实世界临床研究中，98名患者在紧急就诊前与我们的研究型诊断AI聊天机器人AMIE进行了问诊。监督医生实时监看了对话，根据预先设定的安全标准，没有一次对话需要中断。临床医生表示，在75%的病例中，AI摘要帮助他们做好了就诊准备，在超过半数的病例中影响了他们的诊疗思路。AMIE的鉴别诊断与医生最终诊断的吻合率也达到90%。"
+                "x": "在578,058份记录（215,712名独立患者）中，73名患者的187次就诊符合标准。28名患者（占接受精神卫生服务者的0.013%）属于AI精神病组。有记录的产品中ChatGPT占15例（53.6%），24次互动（85.7%）记录于GPT-4o在2024年5月发布之后。AI精神病组中60.7%处于首次精神病发作，中性组为17.6%。放大者是最常见的类型（64.3%）。"
               },
               {
                 "t": "p",
-                "x": "要在规模化场景中评估面向患者的AI，还需要更大规模的临床试验，但这些发现表明，AI有望增进医患关系，并减轻医护人员的负担。这也体现出我们在拓展AI于科学与健康领域可能性方面取得的实质进展。"
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "作者指出，GPT-4o之后的增加与该模型有记录的谄媚（sycophancy）倾向在时间上吻合，但研究设计无法确立因果关系。他们的结论是，在精神科诊疗中常规评估AI使用情况似乎是有必要的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "AMIE de Google, a prueba con\npacientes reales de primaria",
-          "body": "Un estudio en The Lancet con pacientes reales sugiere que AMIE podría mejorar la relación entre paciente y médico.",
-          "mini_headline": "AMIE, probado con pacientes reales",
+          "headline": "Medir la psicosis por IA (AI)\nen un gran sistema de salud",
+          "body": "Un estudio de cohorte estima la prevalencia de la psicosis por IA (AI) y el papel de los chatbots en brotes psicóticos.",
+          "mini_headline": "Psicosis por IA (AI), medida",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
-                "cap": "Un estudio en The Lancet sugiere que la inteligencia artificial (AI) podría mejorar la relación entre paciente y médico."
+                "t": "p",
+                "x": "Los chatbots de IA conversacional se asocian cada vez más con la aparición o el empeoramiento de síntomas psicóticos, un fenómeno que los autores llaman «psicosis por IA» (\"AI psychosis\"). La evidencia previa consistía sobre todo en informes de casos, artículos de opinión y simulaciones."
               },
               {
                 "t": "p",
-                "x": "¿Puede la IA evaluar con seguridad las necesidades de los pacientes antes de que entren en la consulta? Un estudio dirigido por investigadores de Google y del Beth Israel Deaconess Medical Center (BIDMC), publicado hoy en The Lancet, ofrece una primera aproximación alentadora. Al ser la primera publicación de Google en la revista principal de The Lancet, esta investigación marca un hito importante."
+                "x": "Investigadores del Vanderbilt University Medical Center revisaron de forma retrospectiva las notas de evolución de salud conductual del 1 de diciembre de 2022 al 15 de abril de 2026 en busca de pacientes con palabras clave relacionadas con la IA (AI-related) y un diagnóstico documentado de trastorno psicótico. Dos evaluadores clasificaron las interacciones con la IA como neutrales, psicosis por IA (uso de chatbots que empeoró la psicosis) o contenido psicótico relacionado con la IA, y ordenaron los casos de psicosis por IA en cuatro tipos: catalizador, amplificador, coautor y objeto."
               },
               {
                 "t": "p",
-                "x": "En un estudio clínico en condiciones reales realizado en la clínica ambulatoria de atención primaria del BIDMC, 98 pacientes consultaron con AMIE, nuestro chatbot de IA de investigación para diagnóstico, antes de sus visitas de atención urgente. Los médicos supervisores siguieron las interacciones en tiempo real y, según los criterios de seguridad predefinidos, no fue necesario interrumpir ni una sola conversación. Los clínicos señalaron que los resúmenes de la IA les ayudaron a preparar las visitas en el 75% de los casos e influyeron en su enfoque asistencial en más de la mitad. Los diagnósticos diferenciales de AMIE coincidieron además con los diagnósticos finales de los médicos el 90% de las veces."
+                "x": "De 578,058 registros (215,712 pacientes únicos), 187 consultas de 73 pacientes cumplieron los criterios. 28 pacientes (0.013% de quienes recibían atención de salud mental) formaban el grupo de psicosis por IA (AI). ChatGPT fue el producto documentado en 15 casos (53.6%), y 24 interacciones (85.7%) se documentaron después del lanzamiento de GPT-4o en mayo de 2024. El 60.7% del grupo de psicosis por IA atravesaba un primer episodio psicótico, frente al 17.6% del grupo neutral. El tipo más frecuente fue el amplificador (64.3%)."
               },
               {
                 "t": "p",
-                "x": "Aunque se necesitan ensayos clínicos más amplios para evaluar a escala la IA orientada al paciente, los resultados apuntan al potencial de la IA para reforzar la relación entre paciente y médico y aliviar la presión sobre los profesionales sanitarios. Y muestran un avance significativo en el esfuerzo por ampliar los límites de lo que la IA puede hacer en la ciencia y la salud."
-              },
-              {
-                "t": "video",
-                "yt": "f3jK_SsHcAw"
+                "x": "Los autores señalan que el aumento tras GPT-4o coincide con la complacencia (sycophancy) documentada en ese modelo, pero el diseño no permite establecer causalidad. Concluyen que parece justificado evaluar de forma rutinaria el uso de IA (AI) durante las consultas psiquiátricas."
               }
             ]
           }
@@ -325,15 +275,15 @@
       }
     },
     {
-      "id": "radnet-prostate-biopsy-ai",
+      "id": "fda-cdrh-fy27-ai-guidance",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 전립선 환자\n5명 중 1명 생검 피한다",
-      "body": "RadNet은 AI로 환자 5명 중 1명꼴 전립선 생검을 줄인다고 밝혔다.",
-      "mini_headline": "RadNet AI, 전립선 생검 감소",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says",
+      "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
+      "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
+      "mini_headline": "FDA의 FY2027 AI 과제",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -341,179 +291,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-            "cap": "전립선암 PSA"
+            "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+            "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
           },
           {
             "t": "p",
-            "x": "RadNet 자회사 DeepHealth의 AI 솔루션을 쓰면 환자 5명 중 1명 가까이가 전립선 생검을 피할 수 있다는 연구 결과가 European Radiology에 실렸다. 연구진은 전립선 MRI에서 AI 위험 분류 도구와 영상의학과 전문의가 매긴 PI-RADS 점수를 견줘 봤다."
+            "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하고 인공지능 관련 문서를 확정하거나 초안을 내겠다는 목표를 내걸었다. 앞으로 12개월 동안 FDA가 가장 먼저 처리할 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출·전 주기 관리 지침 확정과 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
           },
           {
             "t": "p",
-            "x": "AI 보조(AI-assisted) 생검 분류는 임상적으로 유의한 암에 대한 민감도 98.4%를 유지하면서도 생검의 19% 가까이를 피했다. 후향적으로 진행한 이 연구는 2014년부터 2025년까지 미국(U.S.), 독일, 네덜란드에서 다섯 개 제조사 장비로 촬영한 약 800명을 분석했다."
+            "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 빨리 확정할 과제로 꼽았다. FDA는 우선순위 의견을 11월 30일까지 받는다."
           },
           {
             "t": "p",
-            "x": "이 도구는 PI-RADS의 다섯 개 범주 대신 저·중·고 세 단계로 단순화한 위험 척도를 쓴다. 환자 단위 민감도는 PI-RADS에 뒤지지 않았고 판별력은 더 높았다. 다만 병변 단위 민감도는 낮았다. 그래서 연구진은 판단이 모호한 PI-RADS 3 병변에서 특히 이 도구로 PI-RADS를 보완하고, 병변 위치 표시는 계속 영상의학과 전문의가 맡는 방식을 제안한다."
+            "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기의 근거 권고안 초안부터 쓴다. 지난해 목록에 없던 주제로, 8월에 생성형 AI 규제 의견을 요청한 흐름과 맞닿아 있다."
           },
           {
             "t": "p",
-            "x": "DeepHealth의 Niccolò Stefani, MD는 “이번 결과는 자사 Prostate MR Solution의 AI 애플리케이션이 전립선 진료에서 가장 중대한 결정 지점 가운데 하나에서 임상의를 어떻게 지원할 수 있는지 보여 준다”고 말했다."
+            "x": "공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 지난해에서 넘어온 사전 변경 관리 계획도 우선순위에 올랐다. 맥박산소측정기 지침 확정은 차순위 과제에 들어갔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI could spare 1 in 5\npatients a prostate biopsy",
-          "body": "RadNet says its AI could help nearly 1 in 5 patients avoid biopsies at a pivotal decision point in prostate care.",
-          "mini_headline": "RadNet AI cuts prostate biopsies",
+          "headline": "FDA puts AI and surgical\nrobots on its FY2027 agenda",
+          "body": "The FDA device center plans to finalize AI-enabled device guidance and draft generative-AI advice in fiscal 2027.",
+          "mini_headline": "FDA's FY2027 AI agenda",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "prostate cancer PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "The FDA's second-tier priorities include finalizing guidance on pulse oximeters."
               },
               {
                 "t": "p",
-                "x": "An AI solution from RadNet subsidiary DeepHealth can help nearly 1 in 5 patients avoid prostate biopsies, according to new research in European Radiology comparing an AI risk-classification tool against radiologist-assigned PI-RADS scores on prostate MRI."
+                "x": "The Food and Drug Administration published its fiscal 2027 guidance priorities Thursday, setting itself the goal of finalizing and drafting artificial intelligence documents. Over the coming 12 months, the FDA's top priorities include finalizing guidance on marketing submissions and lifecycle management for AI-enabled devices and drafting generative AI advice."
               },
               {
                 "t": "p",
-                "x": "AI-assisted biopsy triage avoided nearly 19% of biopsies while maintaining 98.4% sensitivity for clinically significant cancer. The retrospective study covered nearly 800 subjects scanned between 2014 and 2025 in the U.S., Germany and the Netherlands, on equipment from five vendors."
+                "x": "The agency is also prioritizing the swift finalization of its guidance on premarket submissions of robotically assisted surgical devices, which it published in draft form last week. The FDA is accepting feedback on its priorities until Nov. 30."
               },
               {
                 "t": "p",
-                "x": "The tool uses a simplified three-tier risk scale (low, medium, high) versus PI-RADS' five categories. It achieved non-inferior patient-level sensitivity and higher discrimination than PI-RADS, but lower lesion-level sensitivity, so researchers see it complementing PI-RADS, especially for equivocal PI-RADS 3 lesions, while radiologists retain responsibility for lesion mapping."
+                "x": "The FDA published the draft AI-enabled device lifecycle guidance in January 2025. This year, it is prioritizing drafting evidentiary recommendations on generative AI-enabled conversational devices for mental disorders, a topic absent from last year's list but aligned with an August call for feedback on regulating generative AI."
               },
               {
                 "t": "p",
-                "x": "“These findings show how AI applications within our Prostate MR Solution can support clinicians at one of the most consequential decision points in prostate care,” said DeepHealth's Niccolò Stefani, MD."
+                "x": "Other priorities include air-purifying respirators, menstrual product testing and labeling, quality management systems, and a holdover on predetermined change control plans. Second-tier priorities include finalizing guidance on pulse oximeters."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 전립선 환자\n5명 중 1명 생검 피한다",
-          "body": "RadNet은 AI로 환자 5명 중 1명꼴 전립선 생검을 줄인다고 밝혔다.",
-          "mini_headline": "RadNet AI, 전립선 생검 감소",
+          "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
+          "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
+          "mini_headline": "FDA의 FY2027 AI 과제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "전립선암 PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "RadNet 자회사 DeepHealth의 AI 솔루션을 쓰면 환자 5명 중 1명 가까이가 전립선 생검을 피할 수 있다는 연구 결과가 European Radiology에 실렸다. 연구진은 전립선 MRI에서 AI 위험 분류 도구와 영상의학과 전문의가 매긴 PI-RADS 점수를 견줘 봤다."
+                "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하고 인공지능 관련 문서를 확정하거나 초안을 내겠다는 목표를 내걸었다. 앞으로 12개월 동안 FDA가 가장 먼저 처리할 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출·전 주기 관리 지침 확정과 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "AI 보조(AI-assisted) 생검 분류는 임상적으로 유의한 암에 대한 민감도 98.4%를 유지하면서도 생검의 19% 가까이를 피했다. 후향적으로 진행한 이 연구는 2014년부터 2025년까지 미국(U.S.), 독일, 네덜란드에서 다섯 개 제조사 장비로 촬영한 약 800명을 분석했다."
+                "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 빨리 확정할 과제로 꼽았다. FDA는 우선순위 의견을 11월 30일까지 받는다."
               },
               {
                 "t": "p",
-                "x": "이 도구는 PI-RADS의 다섯 개 범주 대신 저·중·고 세 단계로 단순화한 위험 척도를 쓴다. 환자 단위 민감도는 PI-RADS에 뒤지지 않았고 판별력은 더 높았다. 다만 병변 단위 민감도는 낮았다. 그래서 연구진은 판단이 모호한 PI-RADS 3 병변에서 특히 이 도구로 PI-RADS를 보완하고, 병변 위치 표시는 계속 영상의학과 전문의가 맡는 방식을 제안한다."
+                "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기의 근거 권고안 초안부터 쓴다. 지난해 목록에 없던 주제로, 8월에 생성형 AI 규제 의견을 요청한 흐름과 맞닿아 있다."
               },
               {
                 "t": "p",
-                "x": "DeepHealth의 Niccolò Stefani, MD는 “이번 결과는 자사 Prostate MR Solution의 AI 애플리케이션이 전립선 진료에서 가장 중대한 결정 지점 가운데 하나에서 임상의를 어떻게 지원할 수 있는지 보여 준다”고 말했다."
+                "x": "공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 지난해에서 넘어온 사전 변경 관리 계획도 우선순위에 올랐다. 맥박산소측정기 지침 확정은 차순위 과제에 들어갔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで前立腺生検\n患者の5人に1人が回避か",
-          "body": "RadNetは、同社のAIで患者の5人に1人近くが前立腺生検を避けられると発表した。",
-          "mini_headline": "RadNetのAI、前立腺生検を削減",
+          "headline": "FDA、AIと手術ロボットを\nFY2027の重点課題に",
+          "body": "FDAの機器部門は2027会計年度にAI機器指針の確定と生成AI助言の草案作成を予定する。",
+          "mini_headline": "FDAのFY2027 AI計画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "前立腺がん PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDAの準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
               },
               {
                 "t": "p",
-                "x": "RadNetの子会社DeepHealthのAIソリューションは、患者の5人に1人近くが前立腺生検を回避するのに役立つ可能性がある。European Radiologyに掲載された新たな研究で、前立腺MRIにおけるAIリスク分類ツールと、放射線科医が付与したPI-RADSスコアを比較した結果だ。"
+                "x": "食品医薬品局(Food and Drug Administration、FDA)は木曜日、2027会計年度のガイダンス優先事項を公表し、人工知能関連文書の確定と草案作成を目標に掲げた。今後12か月のFDAの最優先事項には、AI搭載機器(AI-enabled devices)の販売申請とライフサイクル管理に関するガイダンスの確定と、生成AI(generative-AI)に関する助言の草案作成が含まれる。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted（AI支援）の生検トリアージにより、臨床的に有意な癌に対する感度98.4%を維持しつつ、生検の約19%を回避できた。この後ろ向き研究は、2014年から2025年にかけてU.S.（米国）、ドイツ、オランダで五つのメーカーの機器を使って撮影された約800人を対象とした。"
+                "x": "FDAはまた、先週草案として公表したロボット支援手術機器の市販前申請に関するガイダンスを早期に確定することも優先している。FDAは11月30日まで優先事項への意見を受け付けている。"
               },
               {
                 "t": "p",
-                "x": "このツールは、PI-RADSの五つのカテゴリーに対し、低・中・高の三段階に簡略化したリスク尺度を用いる。患者単位の感度はPI-RADSに対して非劣性で、識別能はPI-RADSを上回ったが、病変単位の感度は低かった。このため研究チームは、特に判断が分かれるPI-RADS 3の病変においてPI-RADSを補完するものと位置づけており、病変のマッピングは引き続き放射線科医が担う。"
+                "x": "FDAは2025年1月、AI搭載機器(AI-enabled)のライフサイクルに関するガイダンス草案を公表した。今年は、精神疾患向けの生成AI搭載対話型機器に関するエビデンス推奨の草案作成を優先する。昨年のリストにはなかったテーマだが、生成AIの規制をめぐる8月の意見募集と方向性が一致する。"
               },
               {
                 "t": "p",
-                "x": "DeepHealthのNiccolò Stefani, MDは「今回の結果は、当社のProstate MR Solutionに含まれるAIアプリケーションが、前立腺診療において最も重大な判断局面の一つで臨床医をどう支援できるかを示している」と述べた。"
+                "x": "このほかの優先事項には、空気清浄式呼吸用保護具、生理用品の試験と表示、品質マネジメントシステム、昨年から持ち越された事前変更管理計画がある。準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI或让每5名患者中\n1人免做前列腺活检",
-          "body": "RadNet称其AI可帮助近每5名患者中的1人在前列腺诊疗关键节点免于活检。",
-          "mini_headline": "RadNet AI减少前列腺活检",
+          "headline": "FDA将AI与手术机器人\n列入FY2027议程",
+          "body": "FDA器械中心计划在2027财年敲定AI赋能器械指南，并起草生成式AI建议。",
+          "mini_headline": "FDA的FY2027 AI议程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "前列腺癌 PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDA的次级优先事项包括敲定脉搏血氧仪指南。"
               },
               {
                 "t": "p",
-                "x": "European Radiology发表的新研究显示，RadNet子公司DeepHealth的AI解决方案可帮助近每5名患者中的1人避免前列腺活检。该研究在前列腺MRI上将一款AI风险分类工具与放射科医生给出的PI-RADS评分进行了比较。"
+                "x": "食品药品监督管理局（Food and Drug Administration，FDA）周四公布了2027财年指南优先事项，为自己设定了敲定和起草人工智能文件的目标。未来12个月，FDA的首要任务包括敲定AI赋能器械（AI-enabled devices）上市申报与全生命周期管理指南，以及起草生成式AI（generative-AI）建议。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted（AI辅助）活检分诊在对临床显著性癌保持98.4%敏感度的同时，避免了近19%的活检。这项回顾性研究涵盖2014年至2025年间在U.S.（美国）、德国和荷兰使用五家厂商设备扫描的近800名受试者。"
+                "x": "该机构还优先推动尽快敲定机器人辅助手术器械上市前申报指南，该指南草案已于上周发布。FDA将在11月30日前就其优先事项征求意见。"
               },
               {
                 "t": "p",
-                "x": "与PI-RADS的五个类别相比，该工具采用简化的低、中、高三级风险量表。其患者层面敏感度不劣于PI-RADS，区分能力更高，但病灶层面敏感度较低。因此研究人员认为，它可作为PI-RADS的补充，尤其适用于难以判断的PI-RADS 3病灶，而病灶定位仍由放射科医生负责。"
+                "x": "FDA于2025年1月发布了AI赋能器械（AI-enabled）全生命周期指南草案。今年，FDA优先起草关于用于精神障碍的生成式AI赋能对话式器械的证据建议，这一主题未出现在去年的清单中，但与8月就生成式AI监管征求意见的举措一致。"
               },
               {
                 "t": "p",
-                "x": "DeepHealth的Niccolò Stefani, MD表示：“这些发现表明，我们Prostate MR Solution中的AI应用能够在前列腺诊疗最关键的决策节点之一为临床医生提供支持。”"
+                "x": "其他优先事项包括空气净化呼吸器、经期用品的检测与标签、质量管理体系，以及从去年延续下来的预定变更控制计划。次级优先事项包括敲定脉搏血氧仪指南。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA evitaría a 1 de cada 5\npacientes la biopsia prostática",
-          "body": "RadNet afirma que su IA podría evitar la biopsia a casi 1 de cada 5 pacientes en una decisión clave.",
-          "mini_headline": "La IA de RadNet reduce biopsias de próstata",
+          "headline": "La FDA incluye IA (AI) y robots\nquirúrgicos en su agenda FY2027",
+          "body": "La FDA prevé finalizar en el año fiscal 2027 su guía de dispositivos con IA y redactar otra sobre IA generativa.",
+          "mini_headline": "La agenda de IA (AI) de la FDA para FY2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "cáncer de próstata PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "Entre las prioridades secundarias de la FDA figura finalizar la guía sobre pulsioxímetros."
               },
               {
                 "t": "p",
-                "x": "Una solución de IA de DeepHealth, filial de RadNet, puede ayudar a casi 1 de cada 5 pacientes a evitar biopsias de próstata, según una nueva investigación publicada en European Radiology que comparó una herramienta de IA (AI) para clasificar el riesgo con las puntuaciones PI-RADS asignadas por radiólogos en resonancias magnéticas (MRI) de próstata."
+                "x": "La Food and Drug Administration (FDA) publicó el jueves sus prioridades de guías para el año fiscal 2027 y se fijó como meta finalizar y redactar documentos sobre inteligencia artificial. En los próximos 12 meses, las principales prioridades de la FDA incluyen finalizar la guía sobre solicitudes de comercialización y gestión del ciclo de vida de los dispositivos con IA (AI-enabled) y redactar recomendaciones sobre IA generativa (generative-AI)."
               },
               {
                 "t": "p",
-                "x": "El triaje de biopsias asistido por IA (AI-assisted) evitó casi el 19% de las biopsias y mantuvo una sensibilidad del 98.4% para el cáncer clínicamente significativo. El estudio retrospectivo abarcó a casi 800 sujetos explorados entre 2014 y 2025 en Estados Unidos (U.S.), Alemania y los Países Bajos, con equipos de cinco fabricantes."
+                "x": "La agencia también da prioridad a finalizar con rapidez su guía sobre solicitudes previas a la comercialización de dispositivos quirúrgicos asistidos por robot, que publicó como borrador la semana pasada. La FDA acepta comentarios sobre sus prioridades hasta el 30 de noviembre."
               },
               {
                 "t": "p",
-                "x": "La herramienta utiliza una escala de riesgo simplificada de tres niveles (bajo, medio y alto), frente a las cinco categorías de PI-RADS. Logró una sensibilidad por paciente no inferior y una mayor capacidad de discriminación que PI-RADS, pero una sensibilidad por lesión más baja, por lo que los investigadores la ven como un complemento de PI-RADS, sobre todo en las lesiones dudosas PI-RADS 3, mientras los radiólogos conservan la responsabilidad de localizar las lesiones."
+                "x": "La FDA publicó en enero de 2025 el borrador de la guía sobre el ciclo de vida de los dispositivos con IA (AI-enabled). Este año prioriza redactar recomendaciones probatorias sobre dispositivos conversacionales con IA generativa para trastornos mentales, un tema ausente en la lista del año pasado pero alineado con la convocatoria de comentarios de agosto sobre la regulación de la IA (AI) generativa."
               },
               {
                 "t": "p",
-                "x": "“Estos resultados muestran cómo las aplicaciones de IA de nuestra Prostate MR Solution pueden apoyar a los clínicos en uno de los puntos de decisión más trascendentes de la atención prostática”, afirmó Niccolò Stefani, MD, de DeepHealth."
+                "x": "Otras prioridades incluyen los respiradores purificadores de aire, las pruebas y el etiquetado de productos menstruales, los sistemas de gestión de calidad y un tema pendiente sobre planes de control de cambios predeterminados. Entre las prioridades secundarias figura finalizar la guía sobre pulsioxímetros."
               }
             ]
           }
@@ -521,125 +471,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 전립선 환자\n5명 중 1명 생검 피한다",
-          "body": "RadNet은 AI로 환자 5명 중 1명꼴 전립선 생검을 줄일 수 있다고 밝혔다.",
-          "mini_headline": "RadNet AI, 전립선 생검 감소",
+          "headline": "FDA, AI·수술 로봇\nFY2027 의제에 올렸다",
+          "body": "FDA는 FY2027에 AI 기기 지침을 확정하고 생성형 AI 권고 초안을 낸다.",
+          "mini_headline": "FDA의 FY2027 AI 과제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "전립선암 PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDA의 차순위 과제에는 맥박산소측정기 지침 확정이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "RadNet 자회사 DeepHealth의 AI 솔루션이 환자 5명 중 1명 가까이가 전립선 생검을 피하도록 도울 수 있다는 연구 결과가 European Radiology에 실렸다. 연구는 전립선 MRI에서 AI 위험 분류 도구와 영상의학과 전문의가 매긴 PI-RADS 점수를 비교했다."
+                "x": "식품의약국(Food and Drug Administration, FDA)은 목요일 2027 회계연도 지침 우선순위를 발표하며 인공지능 관련 문서의 확정과 초안 작성을 목표로 내걸었다. 앞으로 12개월 동안 FDA의 최우선 과제에는 AI 기반 기기(AI-enabled devices)의 시판 제출과 전 주기 관리에 관한 지침 확정, 그리고 생성형 AI(generative-AI) 권고안 초안 작성이 들어 있다."
               },
               {
                 "t": "p",
-                "x": "AI 보조(AI-assisted) 생검 분류는 임상적으로 유의한 암에 대한 민감도 98.4%를 유지하면서 생검의 19% 가까이를 피했다. 이 후향적 연구는 2014년부터 2025년까지 미국(U.S.), 독일, 네덜란드에서 다섯 개 제조사 장비로 촬영한 약 800명을 대상으로 했다."
+                "x": "FDA는 지난주 초안으로 공개한 로봇 보조 수술기기 시판 전 제출 지침도 신속히 확정하는 데 우선순위를 두고 있다. FDA는 11월 30일까지 우선순위에 대한 의견을 받는다."
               },
               {
                 "t": "p",
-                "x": "이 도구는 PI-RADS의 다섯 개 범주 대신 저·중·고 세 단계로 단순화한 위험 척도를 쓴다. 환자 단위 민감도는 PI-RADS에 뒤지지 않았고 판별력은 더 높았지만, 병변 단위 민감도는 낮았다. 그래서 연구진은 이 도구가 특히 판단이 모호한 PI-RADS 3 병변에서 PI-RADS를 보완하고, 병변 위치 표시는 영상의학과 전문의가 계속 책임지는 방식을 제시한다."
+                "x": "FDA는 2025년 1월 AI 기반 기기(AI-enabled) 전 주기 지침 초안을 공개했다. 올해는 정신질환용 생성형 AI 기반 대화형 기기에 대한 근거 권고안 초안 작성을 우선한다. 지난해 목록에는 없던 주제지만, 생성형 AI 규제에 관한 8월 의견 요청과 궤를 같이한다."
               },
               {
                 "t": "p",
-                "x": "DeepHealth의 Niccolò Stefani, MD는 “이번 결과는 자사 Prostate MR Solution의 AI 애플리케이션이 전립선 진료에서 가장 중대한 결정 지점 가운데 하나에서 임상의를 어떻게 지원할 수 있는지 보여 준다”고 말했다."
+                "x": "그 밖의 우선순위로는 공기정화 호흡보호구, 생리용품 시험과 표시, 품질경영시스템, 그리고 지난해에서 넘어온 사전 변경 관리 계획이 있다. 차순위 과제에는 맥박산소측정기 지침 확정이 포함된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで前立腺生検\n患者の5人に1人が回避か",
-          "body": "RadNetは、同社のAIで患者の5人に1人近くが前立腺生検を避けられると発表した。",
-          "mini_headline": "RadNetのAI、前立腺生検を削減",
+          "headline": "FDA、AIと手術ロボットを\nFY2027の重点課題に",
+          "body": "FDAの機器部門は2027会計年度にAI機器指針の確定と生成AI助言の草案作成を予定する。",
+          "mini_headline": "FDAのFY2027 AI計画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "前立腺がん PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDAの準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
               },
               {
                 "t": "p",
-                "x": "RadNetの子会社DeepHealthのAIソリューションは、患者の5人に1人近くが前立腺生検を回避するのに役立つ可能性がある。European Radiologyに掲載された新たな研究で、前立腺MRIにおけるAIリスク分類ツールと、放射線科医が付与したPI-RADSスコアを比較した結果だ。"
+                "x": "食品医薬品局(Food and Drug Administration、FDA)は木曜日、2027会計年度のガイダンス優先事項を公表し、人工知能関連文書の確定と草案作成を目標に掲げた。今後12か月のFDAの最優先事項には、AI搭載機器(AI-enabled devices)の販売申請とライフサイクル管理に関するガイダンスの確定と、生成AI(generative-AI)に関する助言の草案作成が含まれる。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted（AI支援）の生検トリアージにより、臨床的に有意な癌に対する感度98.4%を維持しつつ、生検の約19%を回避できた。この後ろ向き研究は、2014年から2025年にかけてU.S.（米国）、ドイツ、オランダで五つのメーカーの機器を使って撮影された約800人を対象とした。"
+                "x": "FDAはまた、先週草案として公表したロボット支援手術機器の市販前申請に関するガイダンスを早期に確定することも優先している。FDAは11月30日まで優先事項への意見を受け付けている。"
               },
               {
                 "t": "p",
-                "x": "このツールは、PI-RADSの五つのカテゴリーに対し、低・中・高の三段階に簡略化したリスク尺度を用いる。患者単位の感度はPI-RADSに対して非劣性で、識別能はPI-RADSを上回ったが、病変単位の感度は低かった。このため研究チームは、特に判断が分かれるPI-RADS 3の病変においてPI-RADSを補完するものと位置づけており、病変のマッピングは引き続き放射線科医が担う。"
+                "x": "FDAは2025年1月、AI搭載機器(AI-enabled)のライフサイクルに関するガイダンス草案を公表した。今年は、精神疾患向けの生成AI搭載対話型機器に関するエビデンス推奨の草案作成を優先する。昨年のリストにはなかったテーマだが、生成AIの規制をめぐる8月の意見募集と方向性が一致する。"
               },
               {
                 "t": "p",
-                "x": "DeepHealthのNiccolò Stefani, MDは「今回の結果は、当社のProstate MR Solutionに含まれるAIアプリケーションが、前立腺診療において最も重大な判断局面の一つで臨床医をどう支援できるかを示している」と述べた。"
+                "x": "このほかの優先事項には、空気清浄式呼吸用保護具、生理用品の試験と表示、品質マネジメントシステム、昨年から持ち越された事前変更管理計画がある。準優先課題には、パルスオキシメーターのガイダンス確定が含まれる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI或让每5名患者中\n1人免做前列腺活检",
-          "body": "RadNet称其AI可帮助近每5名患者中的1人在前列腺诊疗关键节点免于活检。",
-          "mini_headline": "RadNet AI减少前列腺活检",
+          "headline": "FDA将AI与手术机器人\n列入FY2027议程",
+          "body": "FDA器械中心计划在2027财年敲定AI赋能器械指南，并起草生成式AI建议。",
+          "mini_headline": "FDA的FY2027 AI议程",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "前列腺癌 PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "FDA的次级优先事项包括敲定脉搏血氧仪指南。"
               },
               {
                 "t": "p",
-                "x": "European Radiology发表的新研究显示，RadNet子公司DeepHealth的AI解决方案可帮助近每5名患者中的1人避免前列腺活检。该研究在前列腺MRI上将一款AI风险分类工具与放射科医生给出的PI-RADS评分进行了比较。"
+                "x": "食品药品监督管理局（Food and Drug Administration，FDA）周四公布了2027财年指南优先事项，为自己设定了敲定和起草人工智能文件的目标。未来12个月，FDA的首要任务包括敲定AI赋能器械（AI-enabled devices）上市申报与全生命周期管理指南，以及起草生成式AI（generative-AI）建议。"
               },
               {
                 "t": "p",
-                "x": "AI-assisted（AI辅助）活检分诊在对临床显著性癌保持98.4%敏感度的同时，避免了近19%的活检。这项回顾性研究涵盖2014年至2025年间在U.S.（美国）、德国和荷兰使用五家厂商设备扫描的近800名受试者。"
+                "x": "该机构还优先推动尽快敲定机器人辅助手术器械上市前申报指南，该指南草案已于上周发布。FDA将在11月30日前就其优先事项征求意见。"
               },
               {
                 "t": "p",
-                "x": "与PI-RADS的五个类别相比，该工具采用简化的低、中、高三级风险量表。其患者层面敏感度不劣于PI-RADS，区分能力更高，但病灶层面敏感度较低。因此研究人员认为，它可作为PI-RADS的补充，尤其适用于难以判断的PI-RADS 3病灶，而病灶定位仍由放射科医生负责。"
+                "x": "FDA于2025年1月发布了AI赋能器械（AI-enabled）全生命周期指南草案。今年，FDA优先起草关于用于精神障碍的生成式AI赋能对话式器械的证据建议，这一主题未出现在去年的清单中，但与8月就生成式AI监管征求意见的举措一致。"
               },
               {
                 "t": "p",
-                "x": "DeepHealth的Niccolò Stefani, MD表示：“这些发现表明，我们Prostate MR Solution中的AI应用能够在前列腺诊疗最关键的决策节点之一为临床医生提供支持。”"
+                "x": "其他优先事项包括空气净化呼吸器、经期用品的检测与标签、质量管理体系，以及从去年延续下来的预定变更控制计划。次级优先事项包括敲定脉搏血氧仪指南。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA evitaría a 1 de cada 5\npacientes la biopsia prostática",
-          "body": "RadNet afirma que su IA podría evitar la biopsia a casi 1 de cada 5 pacientes en una decisión clave.",
-          "mini_headline": "La IA de RadNet reduce biopsias de próstata",
+          "headline": "La FDA incluye IA (AI) y robots\nquirúrgicos en su agenda FY2027",
+          "body": "La FDA prevé finalizar en el año fiscal 2027 su guía de dispositivos con IA y redactar otra sobre IA generativa.",
+          "mini_headline": "La agenda de IA (AI) de la FDA para FY2027",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2021-07/istock-1153642889.jpg?h=140710cd&itok=vDF6TnSh",
-                "cap": "cáncer de próstata PSA"
+                "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+                "cap": "Entre las prioridades secundarias de la FDA figura finalizar la guía sobre pulsioxímetros."
               },
               {
                 "t": "p",
-                "x": "Una solución de IA de DeepHealth, filial de RadNet, puede ayudar a casi 1 de cada 5 pacientes a evitar biopsias de próstata, según una nueva investigación publicada en European Radiology que comparó una herramienta de IA (AI) para clasificar el riesgo con las puntuaciones PI-RADS asignadas por radiólogos en resonancias magnéticas (MRI) de próstata."
+                "x": "La Food and Drug Administration (FDA) publicó el jueves sus prioridades de guías para el año fiscal 2027 y se fijó como meta finalizar y redactar documentos sobre inteligencia artificial. En los próximos 12 meses, las principales prioridades de la FDA incluyen finalizar la guía sobre solicitudes de comercialización y gestión del ciclo de vida de los dispositivos con IA (AI-enabled) y redactar recomendaciones sobre IA generativa (generative-AI)."
               },
               {
                 "t": "p",
-                "x": "El triaje de biopsias asistido por IA (AI-assisted) evitó casi el 19% de las biopsias y mantuvo una sensibilidad del 98.4% para el cáncer clínicamente significativo. El estudio retrospectivo abarcó a casi 800 sujetos explorados entre 2014 y 2025 en Estados Unidos (U.S.), Alemania y los Países Bajos, con equipos de cinco fabricantes."
+                "x": "La agencia también da prioridad a finalizar con rapidez su guía sobre solicitudes previas a la comercialización de dispositivos quirúrgicos asistidos por robot, que publicó como borrador la semana pasada. La FDA acepta comentarios sobre sus prioridades hasta el 30 de noviembre."
               },
               {
                 "t": "p",
-                "x": "La herramienta utiliza una escala de riesgo simplificada de tres niveles (bajo, medio y alto), frente a las cinco categorías de PI-RADS. Logró una sensibilidad por paciente no inferior y una mayor capacidad de discriminación que PI-RADS, pero una sensibilidad por lesión más baja, por lo que los investigadores la ven como un complemento de PI-RADS, sobre todo en las lesiones dudosas PI-RADS 3, mientras los radiólogos conservan la responsabilidad de localizar las lesiones."
+                "x": "La FDA publicó en enero de 2025 el borrador de la guía sobre el ciclo de vida de los dispositivos con IA (AI-enabled). Este año prioriza redactar recomendaciones probatorias sobre dispositivos conversacionales con IA generativa para trastornos mentales, un tema ausente en la lista del año pasado pero alineado con la convocatoria de comentarios de agosto sobre la regulación de la IA (AI) generativa."
               },
               {
                 "t": "p",
-                "x": "“Estos resultados muestran cómo las aplicaciones de IA de nuestra Prostate MR Solution pueden apoyar a los clínicos en uno de los puntos de decisión más trascendentes de la atención prostática”, afirmó Niccolò Stefani, MD, de DeepHealth."
+                "x": "Otras prioridades incluyen los respiradores purificadores de aire, las pruebas y el etiquetado de productos menstruales, los sistemas de gestión de calidad y un tema pendiente sobre planes de control de cambios predeterminados. Entre las prioridades secundarias figura finalizar la guía sobre pulsioxímetros."
               }
             ]
           }
@@ -647,15 +597,287 @@
       }
     },
     {
-      "id": "abridge-ut-system-ambient",
+      "id": "voice-ae-ctcae-audio",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "Abridge 진료 AI\nUT 시스템 전역 확대",
-      "body": "Abridge가 앰비언트 임상 AI를 텍사스대 시스템 전체로 넓힌다.",
-      "mini_headline": "Abridge, UT System 전역 확대",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
+      "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
+      "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응 등급을 매긴다.",
+      "mini_headline": "진료 음성으로 독성 등급화",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03373-z",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식과 화자 분리, 대규모 언어모델을 엮은 다단계 파이프라인이다. 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 뽑아 등급을 매긴다."
+          },
+          {
+            "t": "p",
+            "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음한 뒤 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔는데 이 가운데 300건(76.9%)은 기준 등급이 0이었다."
+          },
+          {
+            "t": "p",
+            "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였다. 하지만 늘 0등급만 내놓는 단순 분류기(always-grade-0)도 각각 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 떨어졌고(F1 0.58과 0.57) 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+          },
+          {
+            "t": "p",
+            "x": "VOICE-AE의 성능은 전문가 간 일치도 범위 안에 들었고, 진료 후 이상반응(AE) 기록 자동화가 실현 가능하다는 쪽에 힘을 실었다. 다만 ≥2등급 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Grading cancer side effects\nfrom clinic conversations",
+          "body": "VOICE-AE uses speech recognition and LLMs to extract and grade CTCAE adverse events from recorded oncology visits.",
+          "mini_headline": "Ambient audio grades toxicity",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Treatment-related adverse event documentation is labor-intensive and subject to inter-observer variability. VOICE-AE is a multi-stage pipeline integrating automatic speech recognition, speaker diarization and large language models for automated extraction and grading of CTCAE toxicities from clinician-patient audio recordings."
+              },
+              {
+                "t": "p",
+                "x": "Encounters of prostate cancer patients undergoing radiotherapy were recorded; six blinded human raters graded 10 genitourinary/gastrointestinal toxicities from the same transcripts. 31 patients (39 encounters) yielded 390 encounter–toxicity assessments, 300 (76.9%) with a reference grade of 0."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE achieved a mean weighted kappa of 0.717. Exact CTCAE grade match was 82.6% and within-one-grade accuracy 99.2%, though a trivial always-grade-0 classifier would reach 76.9% and 93.6%. Performance was weaker at grades 1 and 2 (F1 0.58 and 0.57); binary detection sensitivity was 77.8%, specificity 89.0%."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE performed within the range of inter-expert agreement, supporting the feasibility of automated post-encounter AE documentation. Accuracy at grade ≥2 and detection of severe toxicity remain unproven."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
+          "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응 등급을 매긴다.",
+          "mini_headline": "진료 음성으로 독성 등급화",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식과 화자 분리, 대규모 언어모델을 엮은 다단계 파이프라인이다. 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 뽑아 등급을 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음한 뒤 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔는데 이 가운데 300건(76.9%)은 기준 등급이 0이었다."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였다. 하지만 늘 0등급만 내놓는 단순 분류기(always-grade-0)도 각각 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 떨어졌고(F1 0.58과 0.57) 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE의 성능은 전문가 간 일치도 범위 안에 들었고, 진료 후 이상반응(AE) 기록 자동화가 실현 가능하다는 쪽에 힘을 실었다. 다만 ≥2등급 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "がん治療の副作用を\n診察の会話でグレード判定",
+          "body": "VOICE-AEは音声認識とLLMsで、診察録音からCTCAE有害事象を抽出し等級化する。",
+          "mini_headline": "診察音声で毒性を判定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "治療関連有害事象の記録は手間がかかり、観察者間のばらつきも生じやすい。VOICE-AEは自動音声認識、話者分離、大規模言語モデルを統合した多段階パイプラインで、医師と患者の会話録音からCTCAEの毒性を自動で抽出し、グレードを判定する。"
+              },
+              {
+                "t": "p",
+                "x": "放射線治療を受ける前立腺がん患者の診察を録音し、盲検化された六人の評価者が同じ書き起こしから泌尿生殖器・消化器の毒性10項目のグレードを判定した。患者31人(診察39回)から390件の診察–毒性評価が得られ、そのうち300件(76.9%)は基準グレードが0だった。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AEの平均重み付きカッパ(kappa)は0.717だった。CTCAEグレードの完全一致率は82.6%、一段階以内の正解率は99.2%だったが、常にグレード0と答えるだけの単純な分類器(always-grade-0)でも76.9%と93.6%に達する。グレード1と2では性能が低く(F1 0.58と0.57)、二値検出の感度は77.8%、特異度は89.0%だった。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AEの性能は専門家間の一致の範囲内にあり、診察後のAE記録を自動化できる可能性を裏づけた。ただし、グレード≥2での精度と重症毒性の検出はまだ証明されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "从诊室对话中\n为癌症副作用分级",
+          "body": "VOICE-AE借助语音识别和LLMs，从肿瘤科就诊录音中提取CTCAE不良事件并分级。",
+          "mini_headline": "用诊室音频为毒性分级",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "治疗相关不良事件的记录费时费力，且易受观察者间差异影响。VOICE-AE是一个多阶段流程，整合了自动语音识别、说话人分离和大语言模型，可从医患对话录音中自动提取CTCAE毒性并进行分级。"
+              },
+              {
+                "t": "p",
+                "x": "研究录制了接受放疗的前列腺癌患者的就诊过程；六名设盲的人类评估者根据同一份转录文本，对10种泌尿生殖/胃肠道毒性进行分级。31名患者（39次就诊）共产生390项就诊–毒性评估，其中300项（76.9%）的参考等级为0。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE的平均加权kappa为0.717。CTCAE等级完全一致率为82.6%，相差一级以内的准确率为99.2%，但一个始终判为0级的简单分类器（always-grade-0）也能达到76.9%和93.6%。在1级和2级上表现较弱（F1分别为0.58和0.57）；二分类检测的灵敏度为77.8%，特异度为89.0%。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE的表现处于专家间一致性的范围之内，支持了就诊后AE记录自动化的可行性。但在≥2级上的准确性以及对严重毒性的检测仍未得到证实。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Graduar toxicidad oncológica\ndesde lo hablado en consulta",
+          "body": "VOICE-AE usa reconocimiento de voz y LLMs para extraer y graduar eventos adversos CTCAE en grabaciones de oncología.",
+          "mini_headline": "El audio clínico gradúa la toxicidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Documentar los eventos adversos relacionados con el tratamiento exige mucho trabajo y está sujeto a variabilidad entre observadores. VOICE-AE es un proceso de varias etapas que integra reconocimiento automático de voz, diarización de hablantes y modelos de lenguaje de gran tamaño para extraer y graduar de forma automática las toxicidades CTCAE a partir de grabaciones de audio entre clínico y paciente."
+              },
+              {
+                "t": "p",
+                "x": "Se grabaron consultas de pacientes con cáncer de próstata en radioterapia; seis evaluadores humanos con enmascaramiento graduaron 10 toxicidades genitourinarias/gastrointestinales a partir de las mismas transcripciones. 31 pacientes (39 consultas) generaron 390 evaluaciones consulta–toxicidad, 300 de ellas (76.9%) con un grado de referencia de 0."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE alcanzó una kappa ponderada media de 0.717. La coincidencia exacta del grado CTCAE fue del 82.6% y la precisión con margen de un grado, del 99.2%, aunque un clasificador trivial que siempre asigna grado 0 (always-grade-0) llegaría al 76.9% y al 93.6%. El rendimiento fue menor en los grados 1 y 2 (F1 0.58 y 0.57); la sensibilidad de detección binaria fue del 77.8% y la especificidad, del 89.0%."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE se situó dentro del rango de concordancia entre expertos, lo que respalda la viabilidad de documentar automáticamente los AE tras la consulta. La precisión en grado ≥2 y la detección de toxicidad grave siguen sin demostrarse."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "암 치료 부작용 등급을\n진료실 대화에서 매기다",
+          "body": "VOICE-AE는 음성인식·LLMs로 녹음 속 CTCAE 이상반응을 등급화한다.",
+          "mini_headline": "진료 음성으로 독성 등급화",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "치료 관련 이상반응 기록은 손이 많이 들고 관찰자 간 편차가 생기기 쉽다. VOICE-AE는 자동 음성인식, 화자 분리, 대규모 언어모델을 통합한 다단계 파이프라인으로, 의료진과 환자의 대화 녹음에서 CTCAE 독성을 자동으로 추출하고 등급을 매긴다."
+              },
+              {
+                "t": "p",
+                "x": "방사선 치료를 받는 전립선암 환자의 진료를 녹음했고, 눈가림된 평가자 여섯 명이 같은 전사본으로 비뇨생식기·위장관 독성 10종의 등급을 매겼다. 환자 31명(진료 39건)에서 진료–독성 평가 390건이 나왔고, 그중 300건(76.9%)의 기준 등급이 0이었다."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE의 평균 가중 카파(kappa)는 0.717이었다. CTCAE 등급 완전 일치율은 82.6%, 한 등급 이내 정확도는 99.2%였지만, 언제나 0등급만 내놓는 단순 분류기(always-grade-0)도 76.9%와 93.6%에 이른다. 1등급과 2등급에서는 성능이 약했고(F1 0.58과 0.57), 이분 탐지 민감도는 77.8%, 특이도는 89.0%였다."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE는 전문가 간 일치도 범위 안의 성능을 보여, 진료 후 이상반응(AE) 기록 자동화의 실현 가능성을 뒷받침했다. 다만 ≥2등급에서의 정확도와 중증 독성 탐지는 아직 입증되지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "がん治療の副作用を\n診察の会話でグレード判定",
+          "body": "VOICE-AEは音声認識とLLMsで、診察録音からCTCAE有害事象を抽出し等級化する。",
+          "mini_headline": "診察音声で毒性を判定",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "治療関連有害事象の記録は手間がかかり、観察者間のばらつきも生じやすい。VOICE-AEは自動音声認識、話者分離、大規模言語モデルを統合した多段階パイプラインで、医師と患者の会話録音からCTCAEの毒性を自動で抽出し、グレードを判定する。"
+              },
+              {
+                "t": "p",
+                "x": "放射線治療を受ける前立腺がん患者の診察を録音し、盲検化された六人の評価者が同じ書き起こしから泌尿生殖器・消化器の毒性10項目のグレードを判定した。患者31人(診察39回)から390件の診察–毒性評価が得られ、そのうち300件(76.9%)は基準グレードが0だった。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AEの平均重み付きカッパ(kappa)は0.717だった。CTCAEグレードの完全一致率は82.6%、一段階以内の正解率は99.2%だったが、常にグレード0と答えるだけの単純な分類器(always-grade-0)でも76.9%と93.6%に達する。グレード1と2では性能が低く(F1 0.58と0.57)、二値検出の感度は77.8%、特異度は89.0%だった。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AEの性能は専門家間の一致の範囲内にあり、診察後のAE記録を自動化できる可能性を裏づけた。ただし、グレード≥2での精度と重症毒性の検出はまだ証明されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "从诊室对话中\n为癌症副作用分级",
+          "body": "VOICE-AE借助语音识别和LLMs，从肿瘤科就诊录音中提取CTCAE不良事件并分级。",
+          "mini_headline": "用诊室音频为毒性分级",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "治疗相关不良事件的记录费时费力，且易受观察者间差异影响。VOICE-AE是一个多阶段流程，整合了自动语音识别、说话人分离和大语言模型，可从医患对话录音中自动提取CTCAE毒性并进行分级。"
+              },
+              {
+                "t": "p",
+                "x": "研究录制了接受放疗的前列腺癌患者的就诊过程；六名设盲的人类评估者根据同一份转录文本，对10种泌尿生殖/胃肠道毒性进行分级。31名患者（39次就诊）共产生390项就诊–毒性评估，其中300项（76.9%）的参考等级为0。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE的平均加权kappa为0.717。CTCAE等级完全一致率为82.6%，相差一级以内的准确率为99.2%，但一个始终判为0级的简单分类器（always-grade-0）也能达到76.9%和93.6%。在1级和2级上表现较弱（F1分别为0.58和0.57）；二分类检测的灵敏度为77.8%，特异度为89.0%。"
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE的表现处于专家间一致性的范围之内，支持了就诊后AE记录自动化的可行性。但在≥2级上的准确性以及对严重毒性的检测仍未得到证实。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Graduar toxicidad oncológica\ndesde lo hablado en consulta",
+          "body": "VOICE-AE usa reconocimiento de voz y LLMs para extraer y graduar eventos adversos CTCAE en grabaciones de oncología.",
+          "mini_headline": "El audio clínico gradúa la toxicidad",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Documentar los eventos adversos relacionados con el tratamiento exige mucho trabajo y está sujeto a variabilidad entre observadores. VOICE-AE es un proceso de varias etapas que integra reconocimiento automático de voz, diarización de hablantes y modelos de lenguaje de gran tamaño para extraer y graduar de forma automática las toxicidades CTCAE a partir de grabaciones de audio entre clínico y paciente."
+              },
+              {
+                "t": "p",
+                "x": "Se grabaron consultas de pacientes con cáncer de próstata en radioterapia; seis evaluadores humanos con enmascaramiento graduaron 10 toxicidades genitourinarias/gastrointestinales a partir de las mismas transcripciones. 31 pacientes (39 consultas) generaron 390 evaluaciones consulta–toxicidad, 300 de ellas (76.9%) con un grado de referencia de 0."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE alcanzó una kappa ponderada media de 0.717. La coincidencia exacta del grado CTCAE fue del 82.6% y la precisión con margen de un grado, del 99.2%, aunque un clasificador trivial que siempre asigna grado 0 (always-grade-0) llegaría al 76.9% y al 93.6%. El rendimiento fue menor en los grados 1 y 2 (F1 0.58 y 0.57); la sensibilidad de detección binaria fue del 77.8% y la especificidad, del 89.0%."
+              },
+              {
+                "t": "p",
+                "x": "VOICE-AE se situó dentro del rango de concordancia entre expertos, lo que respalda la viabilidad de documentar automáticamente los AE tras la consulta. La precisión en grado ≥2 y la detección de toxicidad grave siguen sin demostrarse."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "asan-peds-rrs-vuno",
+      "source_lang": "ko",
+      "tool": "Medicine",
+      "eyebrow": "AI NEWS",
+      "headline": "소아 신속대응시스템에\n들어온 뷰노 AI",
+      "body": "박유경 교수는 아산 소아 RRS의 뷰노 AI가 고위험 환아 선별을 돕는다고 했다.",
+      "mini_headline": "아산 소아 RRS의 AI",
+      "source": "메디게이트뉴스",
+      "url": "https://www.medigatenews.com/news/1174160810",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -663,495 +885,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-            "cap": "UT System 전반의 시범 사업에서 지난 12개월 동안 녹음 기능을 쓰는 임상의는 73%, 월간 노트는 80% 늘었다. (Pakorn Supajitsoontorn/GettyImages)"
+            "src": "https://medigatenews.com/file/news/526509",
+            "cap": "서울아산병원 소아청소년과 박유경 교수."
           },
           {
             "t": "p",
-            "x": "Abridge가 UT REAL Health AI와 전사 차원의 계약을 맺고 University of Texas System 전역으로 임상 AI 플랫폼을 넓힌다. 시스템 산하 여덟 개 보건 기관은 각자 자율적으로 의사결정을 하면서 이 플랫폼을 쓸 수 있다."
+            "x": "서울아산병원 소아청소년과 박유경 교수는 9월 19일 뷰노 소아 환자안전 글로벌 심포지엄에서 서울아산병원의 소아 RRS 운영 경험과 AI 기반 심정지 위험관리 의료기기 딥카스(DeepCARS) 활용 사례를 소개했다. 실제 임상에서 기존 점수체계보다 먼저 고위험 환자를 포착해 의료진의 개입으로 이어진 사례도 나오고 있다."
           },
           {
             "t": "p",
-            "x": "이번 계약은 2025년 시작한 시범 사업의 연장선에 있다. 시범 사업에는 외래·입원·응급 환경의 다섯 개 지점과 50개가 넘는 전문 분야의 임상의가 참여했다. UT Health 병원과 클리닉이 지난 한 해 제공한 외래 진료는 약 1170만 건이다."
+            "x": "서울아산병원은 2012년 소아 신속대응팀(PMET)을 도입했고, 2020년 APPLE 점수, 2022년 PMAS에 이어 지난해 딥카스를 추가했다. 딥카스 점수가 90점을 넘거나 단기간에 30점 이상 오르는 환아는 팝업 알람으로 스크리닝 대상이 된다. 박 교수는 \"유용하게 사용하고 있다\"고 했다."
           },
           {
             "t": "p",
-            "x": "UT REAL Health AI 의장 Peter McCaffrey, M.D.는 “임상의가 앰비언트 AI를 더 많이 쓰게 해 행정 업무가 주는 정신적 부담을 걷어 내는 데만 집중하는 것이 아니라, 그렇게 되찾은 집중력과 인간적인 존재감을 병상의 환자에게 돌려주는 데도 똑같이 집중하고 있다”고 말했다."
+            "x": "조혈모세포이식을 위해 입원한 3세 11개월 여아는 ATG 투여 후 딥카스 점수가 95점으로 올라 신속대응팀에 포착됐다. 호흡수 등 일부 정보가 입력되지 않아 APPLE 점수보다 딥카스 점수가 먼저 상승했고, 환자는 PICU 전실과 치료 후 호전됐다."
           },
-          {
-            "t": "p",
-            "x": "Abridge는 미국(U.S.) 최대 보건 시스템 300곳과 협력 중이며 올해 1억 건이 넘는 환자·임상의 대화를 지원할 것이라고 밝혔다. 지난달에는 VA와 전사 앰비언트 AI 계약을 따냈다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Abridge takes ambient AI\nacross the UT System",
-          "body": "Abridge will expand its ambient clinical AI across the University of Texas System in an enterprise-wide deal.",
-          "mini_headline": "Abridge expands across UT System",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "Across the UT System, the pilot grew 73% in recording clinicians and 80% in monthly notes over the last 12 months. (Pakorn Supajitsoontorn/GettyImages)"
-              },
-              {
-                "t": "p",
-                "x": "Abridge is expanding its clinical AI platform across the University of Texas System through an enterprise-wide agreement with UT REAL Health AI, giving the system's eight health institutions access while upholding local decision-making."
-              },
-              {
-                "t": "p",
-                "x": "The deal builds on a pilot launched in 2025 with clinicians at five locations across outpatient, inpatient and emergency settings and more than 50 specialties. UT Health hospitals and clinics provided nearly 11.7 million outpatient visits in the last year."
-              },
-              {
-                "t": "p",
-                "x": "“We are focused not only on expanding clinician access to ambient AI to strip away the mental clutter of clerical overhead, but equally on returning that focused, human presence back to patients at the bedside,” said UT REAL Health AI chair Peter McCaffrey, M.D."
-              },
-              {
-                "t": "p",
-                "x": "Abridge says it works with 300 of the largest U.S. health systems and will support more than 100 million patient-clinician conversations this year. Last month it won an enterprise ambient AI contract with the VA."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Abridge 진료 AI\nUT 시스템 전역 확대",
-          "body": "Abridge가 앰비언트 임상 AI를 텍사스대 시스템 전체로 넓힌다.",
-          "mini_headline": "Abridge, UT System 전역 확대",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "UT System 전반의 시범 사업에서 지난 12개월 동안 녹음 기능을 쓰는 임상의는 73%, 월간 노트는 80% 늘었다. (Pakorn Supajitsoontorn/GettyImages)"
-              },
-              {
-                "t": "p",
-                "x": "Abridge가 UT REAL Health AI와 전사 차원의 계약을 맺고 University of Texas System 전역으로 임상 AI 플랫폼을 넓힌다. 시스템 산하 여덟 개 보건 기관은 각자 자율적으로 의사결정을 하면서 이 플랫폼을 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 계약은 2025년 시작한 시범 사업의 연장선에 있다. 시범 사업에는 외래·입원·응급 환경의 다섯 개 지점과 50개가 넘는 전문 분야의 임상의가 참여했다. UT Health 병원과 클리닉이 지난 한 해 제공한 외래 진료는 약 1170만 건이다."
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AI 의장 Peter McCaffrey, M.D.는 “임상의가 앰비언트 AI를 더 많이 쓰게 해 행정 업무가 주는 정신적 부담을 걷어 내는 데만 집중하는 것이 아니라, 그렇게 되찾은 집중력과 인간적인 존재감을 병상의 환자에게 돌려주는 데도 똑같이 집중하고 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Abridge는 미국(U.S.) 최대 보건 시스템 300곳과 협력 중이며 올해 1억 건이 넘는 환자·임상의 대화를 지원할 것이라고 밝혔다. 지난달에는 VA와 전사 앰비언트 AI 계약을 따냈다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Abridgeの診療AI\nUT System全体に拡大",
-          "body": "Abridgeが包括契約でテキサス大学システム全体にアンビエント臨床AIを広げる。",
-          "mini_headline": "Abridge、UT Systemで拡大",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "UT System全体で、パイロットは過去12カ月で記録を行う臨床医が73%、月間ノートが80%増えた。（Pakorn Supajitsoontorn/GettyImages）"
-              },
-              {
-                "t": "p",
-                "x": "AbridgeはUT REAL Health AIとの包括契約を通じ、University of Texas System全体に臨床AIプラットフォームを拡大する。システム傘下の八つの医療機関が、各機関の意思決定を尊重したまま利用できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の契約は、2025年に始まったパイロットを土台とする。パイロットには外来・入院・救急の五つの拠点で、50以上の診療科の臨床医が参加した。UT Healthの病院とクリニックは、過去一年間に約1170万件の外来診療を提供した。"
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AIのチェア、Peter McCaffrey, M.D.は「私たちが重視しているのは、臨床医がアンビエントAIを使える範囲を広げて事務作業による頭の中の雑然さを取り除くことだけではない。それと同じくらい、その集中した人間らしい存在感をベッドサイドの患者に取り戻すことにも力を注いでいる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Abridgeによると、同社はU.S.（米国）最大級の医療システム300カ所と取引があり、今年は1億件を超える患者と臨床医の会話を支援する見込みだ。先月にはVAとのアンビエントAIの全社規模契約を獲得した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Abridge环境式AI\n覆盖整个UT System",
-          "body": "Abridge将通过全系统协议，把环境式临床AI扩展至整个得克萨斯大学系统。",
-          "mini_headline": "Abridge扩展至UT System",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "在UT System范围内，试点项目在过去12个月中录音临床医生增加73%，每月笔记增加80%。（Pakorn Supajitsoontorn/GettyImages）"
-              },
-              {
-                "t": "p",
-                "x": "Abridge通过与UT REAL Health AI签订的全系统协议，将其临床AI平台扩展至整个University of Texas System，让该系统旗下八家医疗机构都能使用，同时保留各机构的自主决策权。"
-              },
-              {
-                "t": "p",
-                "x": "该协议建立在2025年启动的试点项目基础上，试点覆盖门诊、住院和急诊环境中的五个地点，涉及50多个专科的临床医生。过去一年，UT Health旗下医院和诊所提供了近1170万人次门诊服务。"
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AI主席Peter McCaffrey, M.D.表示：“我们不仅致力于扩大临床医生使用环境式AI的机会，以清除文书负担带来的思维杂乱，同样也致力于把这种专注的、人性化的陪伴带回病床边的患者身上。”"
-              },
-              {
-                "t": "p",
-                "x": "Abridge表示，公司与300家U.S.（美国）最大的医疗系统合作，今年将支持超过1亿次患者与临床医生的对话。上个月，它还赢得了VA的全机构环境式AI合同。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Abridge lleva su IA ambiental\na todo el UT System",
-          "body": "Abridge ampliará su IA clínica ambiental a todo el University of Texas System mediante un acuerdo corporativo.",
-          "mini_headline": "Abridge se expande en el UT System",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "En el UT System, el piloto creció un 73% en clínicos que graban y un 80% en notas mensuales en los últimos 12 meses. (Pakorn Supajitsoontorn/GettyImages)"
-              },
-              {
-                "t": "p",
-                "x": "Abridge amplía su plataforma de IA clínica a todo el University of Texas System mediante un acuerdo corporativo con UT REAL Health AI, que da acceso a las ocho instituciones sanitarias del sistema y respeta la toma de decisiones local."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo se basa en un piloto lanzado en 2025 con clínicos de cinco centros en entornos ambulatorios, hospitalarios y de urgencias, y en más de 50 especialidades. Los hospitales y clínicas de UT Health atendieron casi 11.7 millones de visitas ambulatorias en el último año."
-              },
-              {
-                "t": "p",
-                "x": "“No solo nos centramos en ampliar el acceso de los clínicos a la IA ambiental para eliminar la carga mental del trabajo administrativo, sino también en devolver esa presencia humana y atenta a los pacientes junto a la cama”, afirmó Peter McCaffrey, M.D., presidente de UT REAL Health AI."
-              },
-              {
-                "t": "p",
-                "x": "Abridge afirma que trabaja con 300 de los mayores sistemas de salud de Estados Unidos (U.S.) y que este año dará soporte a más de 100 millones de conversaciones entre pacientes y clínicos. El mes pasado obtuvo un contrato corporativo de IA ambiental con la VA."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Abridge 진료 AI\nUT 시스템 전역 확대",
-          "body": "Abridge가 텍사스대 시스템 전역에 앰비언트 임상 AI를 확대한다.",
-          "mini_headline": "Abridge, UT System 전역 확대",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "UT System 전반에서 시범 사업은 지난 12개월 동안 녹음 사용 임상의가 73%, 월간 노트가 80% 늘었다. (Pakorn Supajitsoontorn/GettyImages)"
-              },
-              {
-                "t": "p",
-                "x": "Abridge가 UT REAL Health AI와 전사 차원의 계약을 맺고 University of Texas System 전역으로 임상 AI 플랫폼을 확대한다. 이에 따라 시스템 산하 여덟 개 보건 기관이 각 기관의 자율적 의사결정을 유지하면서 이 플랫폼을 쓸 수 있게 된다."
-              },
-              {
-                "t": "p",
-                "x": "이번 계약은 2025년 시작한 시범 사업을 바탕으로 한다. 시범 사업에는 외래, 입원, 응급 환경의 다섯 개 지점과 50개가 넘는 전문 분야의 임상의가 참여했다. UT Health 병원과 클리닉은 지난 한 해 외래 진료 약 1170만 건을 제공했다."
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AI 의장 Peter McCaffrey, M.D.는 “임상의가 앰비언트 AI를 더 많이 쓰게 해 행정 업무가 주는 정신적 부담을 걷어 내는 데만 집중하는 것이 아니라, 그렇게 되찾은 집중력과 인간적인 존재감을 병상의 환자에게 돌려주는 데도 똑같이 집중하고 있다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Abridge는 미국(U.S.) 최대 보건 시스템 300곳과 협력하고 있으며, 올해 1억 건이 넘는 환자·임상의 대화를 지원할 것이라고 밝혔다. 지난달에는 VA와 전사 앰비언트 AI 계약을 따냈다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Abridgeの診療AI\nUT System全体に拡大",
-          "body": "Abridgeが包括契約でテキサス大学システム全体にアンビエント臨床AIを広げる。",
-          "mini_headline": "Abridge、UT Systemで拡大",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "UT System全体で、パイロットは過去12カ月で記録を行う臨床医が73%、月間ノートが80%増えた。（Pakorn Supajitsoontorn/GettyImages）"
-              },
-              {
-                "t": "p",
-                "x": "AbridgeはUT REAL Health AIとの包括契約を通じ、University of Texas System全体に臨床AIプラットフォームを拡大する。システム傘下の八つの医療機関が、各機関の意思決定を尊重したまま利用できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の契約は、2025年に始まったパイロットを土台とする。パイロットには外来・入院・救急の五つの拠点で、50以上の診療科の臨床医が参加した。UT Healthの病院とクリニックは、過去一年間に約1170万件の外来診療を提供した。"
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AIのチェア、Peter McCaffrey, M.D.は「私たちが重視しているのは、臨床医がアンビエントAIを使える範囲を広げて事務作業による頭の中の雑然さを取り除くことだけではない。それと同じくらい、その集中した人間らしい存在感をベッドサイドの患者に取り戻すことにも力を注いでいる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Abridgeによると、同社はU.S.（米国）最大級の医療システム300カ所と取引があり、今年は1億件を超える患者と臨床医の会話を支援する見込みだ。先月にはVAとのアンビエントAIの全社規模契約を獲得した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Abridge环境式AI\n覆盖整个UT System",
-          "body": "Abridge将通过全系统协议，把环境式临床AI扩展至整个得克萨斯大学系统。",
-          "mini_headline": "Abridge扩展至UT System",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "在UT System范围内，试点项目在过去12个月中录音临床医生增加73%，每月笔记增加80%。（Pakorn Supajitsoontorn/GettyImages）"
-              },
-              {
-                "t": "p",
-                "x": "Abridge通过与UT REAL Health AI签订的全系统协议，将其临床AI平台扩展至整个University of Texas System，让该系统旗下八家医疗机构都能使用，同时保留各机构的自主决策权。"
-              },
-              {
-                "t": "p",
-                "x": "该协议建立在2025年启动的试点项目基础上，试点覆盖门诊、住院和急诊环境中的五个地点，涉及50多个专科的临床医生。过去一年，UT Health旗下医院和诊所提供了近1170万人次门诊服务。"
-              },
-              {
-                "t": "p",
-                "x": "UT REAL Health AI主席Peter McCaffrey, M.D.表示：“我们不仅致力于扩大临床医生使用环境式AI的机会，以清除文书负担带来的思维杂乱，同样也致力于把这种专注的、人性化的陪伴带回病床边的患者身上。”"
-              },
-              {
-                "t": "p",
-                "x": "Abridge表示，公司与300家U.S.（美国）最大的医疗系统合作，今年将支持超过1亿次患者与临床医生的对话。上个月，它还赢得了VA的全机构环境式AI合同。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Abridge lleva su IA ambiental\na todo el UT System",
-          "body": "Abridge ampliará su IA clínica ambiental a todo el University of Texas System mediante un acuerdo corporativo.",
-          "mini_headline": "Abridge se expande en el UT System",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2246672936.jpg?VersionId=AZn1m8lIjRQA5JQfMXNbwPJTuF9F9QrJ",
-                "cap": "En el UT System, el piloto creció un 73% en clínicos que graban y un 80% en notas mensuales en los últimos 12 meses. (Pakorn Supajitsoontorn/GettyImages)"
-              },
-              {
-                "t": "p",
-                "x": "Abridge amplía su plataforma de IA clínica a todo el University of Texas System mediante un acuerdo corporativo con UT REAL Health AI, que da acceso a las ocho instituciones sanitarias del sistema y respeta la toma de decisiones local."
-              },
-              {
-                "t": "p",
-                "x": "El acuerdo se basa en un piloto lanzado en 2025 con clínicos de cinco centros en entornos ambulatorios, hospitalarios y de urgencias, y en más de 50 especialidades. Los hospitales y clínicas de UT Health atendieron casi 11.7 millones de visitas ambulatorias en el último año."
-              },
-              {
-                "t": "p",
-                "x": "“No solo nos centramos en ampliar el acceso de los clínicos a la IA ambiental para eliminar la carga mental del trabajo administrativo, sino también en devolver esa presencia humana y atenta a los pacientes junto a la cama”, afirmó Peter McCaffrey, M.D., presidente de UT REAL Health AI."
-              },
-              {
-                "t": "p",
-                "x": "Abridge afirma que trabaja con 300 de los mayores sistemas de salud de Estados Unidos (U.S.) y que este año dará soporte a más de 100 millones de conversaciones entre pacientes y clínicos. El mes pasado obtuvo un contrato corporativo de IA ambiental con la VA."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "coreline-jrs-lung-cad",
-      "source_lang": "ko",
-      "tool": "Medicine",
-      "eyebrow": "AI NEWS",
-      "headline": "코어라인 폐결절 AI\n일본 학회 인증 획득",
-      "body": "폐결절 AI가 PMDA 승인 후 일본 학회 인증으로 가산수가 기반을 확보했다.",
-      "mini_headline": "코어라인 일본 학회 인증",
-      "source": "데일리팜",
-      "url": "https://www.dailypharm.com/user/news/343098",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+            "src": "https://medigatenews.com/file/news/526512",
+            "cap": "서울아산병원은 소아신속대응체계로 딥카스를 활용하고 있다. 사진=박유경 교수 발표 자료"
           },
           {
             "t": "p",
-            "x": "코어라인소프트는 폐결절 진단보조 소프트웨어 AVIEW Lung Nodule CAD가 일본의학방사선학회(JRS)의 AI 소프트웨어 공식 인증 제품으로 등재됐다고 6일 밝혔다. 지난달 일본 의약품의료기기종합기구(PMDA) 승인에 이어 영상진단 가산수가와 연계할 수 있는 기반을 확보했다."
-          },
-          {
-            "t": "p",
-            "x": "이번 인증으로 영상진단관리 가산3·4 시설기준을 충족하는 의료기관이 해당 제품을 활용할 때 가산수가를 산정할 수 있다. 다만 제품 인증만으로 모든 병원에 적용되는 것은 아니다. 일본에서 JRS 인증을 받은 AI 영상진단보조 소프트웨어는 현재 45종이며, PMDA 승인은 한국 개발 CT 기반 폐결절 CAD로는 첫 사례다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 지난해 뷰노의 일본 흉부 CT AI 자산을 인수한 뒤 1년 만에 고객 병원을 약 80곳까지 늘렸고, 심혈관 소프트웨어 AVIEW CAC의 M3 AI 공급계약도 체결했다."
-          },
-          {
-            "t": "p",
-            "x": "김진국 대표는 \"PMDA 인허가에 이어 병원의 수가 요건까지 충족하는 인증을 확보하면서, 일본 의료기관이 AI를 도입하고 지속적으로 사용할 유인이 한층 명확해졌다\"고 말했다."
+            "x": "한계도 있다. 실시간 연속 모니터링이 아닌 탓에 기록되지 않은 활력징후는 APPLE 점수와 딥카스 모두 포착하기 어려웠고, 검사 중에는 거짓 경보가 많다. 박 교수는 앞으로 AI가 왜 점수가 높게 나왔는지, 어느 정도의 신뢰도로 평가했는지까지 알려주는 방향이 필요하다고 덧붙였다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "코어라인 폐결절 AI\n일본 학회 인증 획득",
-          "body": "폐결절 AI가 PMDA 승인 후 일본 학회 인증으로 가산수가 기반을 확보했다.",
-          "mini_headline": "코어라인 일본 학회 인증",
+          "headline": "소아 신속대응시스템에\n들어온 뷰노 AI",
+          "body": "박유경 교수는 아산 소아 RRS의 뷰노 AI가 고위험 환아 선별을 돕는다고 했다.",
+          "mini_headline": "아산 소아 RRS의 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "서울아산병원 소아청소년과 박유경 교수."
               },
               {
                 "t": "p",
-                "x": "코어라인소프트는 폐결절 진단보조 소프트웨어 AVIEW Lung Nodule CAD가 일본의학방사선학회(JRS)의 AI 소프트웨어 공식 인증 제품으로 등재됐다고 6일 밝혔다. 지난달 일본 의약품의료기기종합기구(PMDA) 승인에 이어 영상진단 가산수가와 연계할 수 있는 기반을 확보했다."
+                "x": "서울아산병원 소아청소년과 박유경 교수는 9월 19일 뷰노 소아 환자안전 글로벌 심포지엄에서 서울아산병원의 소아 RRS 운영 경험과 AI 기반 심정지 위험관리 의료기기 딥카스(DeepCARS) 활용 사례를 소개했다. 실제 임상에서 기존 점수체계보다 먼저 고위험 환자를 포착해 의료진의 개입으로 이어진 사례도 나오고 있다."
               },
               {
                 "t": "p",
-                "x": "이번 인증으로 영상진단관리 가산3·4 시설기준을 충족하는 의료기관이 해당 제품을 활용할 때 가산수가를 산정할 수 있다. 다만 제품 인증만으로 모든 병원에 적용되는 것은 아니다. 일본에서 JRS 인증을 받은 AI 영상진단보조 소프트웨어는 현재 45종이며, PMDA 승인은 한국 개발 CT 기반 폐결절 CAD로는 첫 사례다."
+                "x": "서울아산병원은 2012년 소아 신속대응팀(PMET)을 도입했고, 2020년 APPLE 점수, 2022년 PMAS에 이어 지난해 딥카스를 추가했다. 딥카스 점수가 90점을 넘거나 단기간에 30점 이상 오르는 환아는 팝업 알람으로 스크리닝 대상이 된다. 박 교수는 \"유용하게 사용하고 있다\"고 했다."
               },
               {
                 "t": "p",
-                "x": "회사는 지난해 뷰노의 일본 흉부 CT AI 자산을 인수한 뒤 1년 만에 고객 병원을 약 80곳까지 늘렸고, 심혈관 소프트웨어 AVIEW CAC의 M3 AI 공급계약도 체결했다."
+                "x": "조혈모세포이식을 위해 입원한 3세 11개월 여아는 ATG 투여 후 딥카스 점수가 95점으로 올라 신속대응팀에 포착됐다. 호흡수 등 일부 정보가 입력되지 않아 APPLE 점수보다 딥카스 점수가 먼저 상승했고, 환자는 PICU 전실과 치료 후 호전됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "서울아산병원은 소아신속대응체계로 딥카스를 활용하고 있다. 사진=박유경 교수 발표 자료"
               },
               {
                 "t": "p",
-                "x": "김진국 대표는 \"PMDA 인허가에 이어 병원의 수가 요건까지 충족하는 인증을 확보하면서, 일본 의료기관이 AI를 도입하고 지속적으로 사용할 유인이 한층 명확해졌다\"고 말했다."
+                "x": "한계도 있다. 실시간 연속 모니터링이 아닌 탓에 기록되지 않은 활력징후는 APPLE 점수와 딥카스 모두 포착하기 어려웠고, 검사 중에는 거짓 경보가 많다. 박 교수는 앞으로 AI가 왜 점수가 높게 나왔는지, 어느 정도의 신뢰도로 평가했는지까지 알려주는 방향이 필요하다고 덧붙였다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Coreline's lung nodule AI wins\nJapanese society certification",
-          "body": "After PMDA approval, Coreline's lung nodule AI won Japanese society certification, laying a basis for add-on fees.",
-          "mini_headline": "Coreline wins Japanese society certification",
+          "headline": "VUNO AI enters a pediatric\nrapid response system",
+          "body": "Prof. Park Yu-kyung said VUNO's AI in Asan's pediatric RRS helps screen high-risk children.",
+          "mini_headline": "AI in Asan's pediatric RRS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "Professor Park Yu-kyung, Department of Pediatrics, Asan Medical Center."
               },
               {
                 "t": "p",
-                "x": "Coreline Soft said on the 6th that its lung nodule diagnostic support software, AVIEW Lung Nodule CAD, has been listed as an officially certified AI software product by the Japan Radiological Society (JRS). Following approval last month from Japan's Pharmaceuticals and Medical Devices Agency (PMDA), the company has secured a basis for linking the product to imaging diagnosis add-on fees."
+                "x": "Professor Park Yu-kyung of the Department of Pediatrics at Asan Medical Center presented the hospital's experience running a pediatric RRS and its use of DeepCARS, an AI-based medical device for managing cardiac arrest risk, at VUNO's global pediatric patient safety symposium on September 19. In clinical practice, there have been cases where it flagged high-risk patients earlier than existing scoring systems, leading to intervention by the medical team."
               },
               {
                 "t": "p",
-                "x": "With this certification, medical institutions that meet the facility standards for imaging diagnosis management add-on 3·4 can claim the add-on fee when they use the product. Certification of the product alone, however, does not apply to every hospital. Japan currently has 45 JRS-certified AI imaging diagnostic support software products, and the PMDA approval is the first for a Korean-developed CT-based lung nodule CAD."
+                "x": "Asan Medical Center introduced a pediatric rapid response team (PMET) in 2012, then added the APPLE score in 2020 and PMAS in 2022, followed by DeepCARS last year. Children whose DeepCARS score exceeds 90 or rises by 30 points or more over a short period are flagged for screening by a pop-up alarm. Park said, \"We are finding it useful.\""
               },
               {
                 "t": "p",
-                "x": "After acquiring VUNO's Japanese chest CT AI assets last year, the company grew its customer hospitals to about 80 within 1 year, and also signed a supply contract with M3 AI for its cardiovascular software AVIEW CAC."
+                "x": "A girl aged 3 years and 11 months, admitted for hematopoietic stem cell transplantation, was caught by the rapid response team after her DeepCARS score rose to 95 following ATG administration. Because some information, such as respiratory rate, had not been entered, the DeepCARS score rose before the APPLE score; the patient improved after transfer to the PICU and treatment."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "Asan Medical Center uses DeepCARS in its pediatric rapid response system. Photo: presentation materials by Professor Park Yu-kyung"
               },
               {
                 "t": "p",
-                "x": "CEO Kim Jin-kook said, “By securing certification that meets hospitals' fee requirements following PMDA approval, the incentive for Japanese medical institutions to adopt AI and keep using it has become much clearer.”"
+                "x": "There are limitations. Because monitoring is not real-time and continuous, vital signs that went unrecorded were hard to capture for both the APPLE score and DeepCARS, and false alarms are frequent during tests. Park added that AI should move toward also explaining why a score came out high and with what level of confidence it was assessed."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コアライン肺結節AI\n日本の学会認証を取得",
-          "body": "肺結節AIがPMDA承認に続き日本の学会認証を得て、加算算定の基盤を確保した。",
-          "mini_headline": "コアライン、日本の学会認証",
+          "headline": "小児迅速対応システムに\nVUNOのAIが導入",
+          "body": "パク・ユギョン教授は峨山の小児RRSでVUNOのAIが高リスク患児の選別を助けると述べた。",
+          "mini_headline": "峨山小児RRSのAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "ソウル峨山病院小児青少年科のパク・ユギョン教授。"
               },
               {
                 "t": "p",
-                "x": "コアラインソフトは6日、肺結節診断支援ソフトウェア「AVIEW Lung Nodule CAD」が日本医学放射線学会（JRS）のAIソフトウェア公式認証製品に登録されたと発表した。先月の医薬品医療機器総合機構（PMDA）承認に続き、画像診断の加算と連動できる基盤を確保した。"
+                "x": "ソウル峨山病院小児青少年科のパク・ユギョン教授は9月19日、VUNOの小児患者安全グローバルシンポジウムで、同院の小児RRS運用経験と、AIベースの心停止リスク管理医療機器DeepCARSの活用事例を紹介した。実際の臨床では、従来のスコア体系より先に高リスク患者を捉え、医療陣の介入につながった事例も出ている。"
               },
               {
                 "t": "p",
-                "x": "今回の認証により、画像診断管理加算3·4の施設基準を満たす医療機関は、同製品を活用した際に加算を算定できる。ただし、製品の認証だけですべての病院に適用されるわけではない。日本でJRS認証を受けたAI画像診断支援ソフトウェアは現在45種類で、PMDA承認は韓国で開発されたCTベースの肺結節CADとして初めての事例だ。"
+                "x": "ソウル峨山病院は2012年に小児迅速対応チーム(PMET)を導入し、2020年のAPPLEスコア、2022年のPMASに続き、昨年DeepCARSを加えた。DeepCARSのスコアが90点を超えるか、短期間に30点以上上昇した患児は、ポップアップアラームでスクリーニング対象となる。パク教授は「有用に使っている」と語った。"
               },
               {
                 "t": "p",
-                "x": "同社は昨年、VUNOの日本における胸部CT AI資産を買収してから1年で顧客病院を約80施設まで増やし、循環器ソフトウェアAVIEW CACのM3 AIへの供給契約も締結した。"
+                "x": "造血幹細胞移植のため入院した3歳11か月の女児は、ATG投与後にDeepCARSスコアが95点に上がり、迅速対応チームに捕捉された。呼吸数など一部の情報が入力されていなかったため、APPLEスコアよりDeepCARSスコアが先に上昇し、患者はPICUへの転室と治療の後に回復した。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "ソウル峨山病院は小児迅速対応体制にDeepCARSを活用している。写真=パク・ユギョン教授の発表資料"
               },
               {
                 "t": "p",
-                "x": "キム・ジングク代表は「PMDAの承認に続き、病院の加算要件まで満たす認証を確保したことで、日本の医療機関がAIを導入し継続的に使う動機が一段と明確になった」と述べた。"
+                "x": "限界もある。リアルタイムの連続モニタリングではないため、記録されていないバイタルサインはAPPLEスコアもDeepCARSも捉えにくく、検査中は誤警報が多い。パク教授は今後、AIがなぜスコアが高く出たのか、どの程度の信頼度で評価したのかまで示す方向が必要だと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Coreline肺结节AI\n获日本学会认证",
-          "body": "肺结节AI继获PMDA批准后又获日本学会认证，奠定了加算收费的基础。",
-          "mini_headline": "Coreline获日本学会认证",
+          "headline": "VUNO的AI进入\n儿科快速反应系统",
+          "body": "朴有庆教授表示，峨山儿科RRS中的VUNO AI有助于筛查高危患儿。",
+          "mini_headline": "峨山儿科RRS中的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "首尔峨山医院儿童青少年科朴有庆教授。"
               },
               {
                 "t": "p",
-                "x": "Coreline Soft于6日宣布，其肺结节辅助诊断软件AVIEW Lung Nodule CAD已被列入日本医学放射线学会（JRS）的AI软件官方认证产品。继上月获得日本医药品医疗器械综合机构（PMDA）批准后，该产品又获得了与影像诊断加算收费挂钩的基础。"
+                "x": "首尔峨山医院儿童青少年科朴有庆教授于9月19日在VUNO儿科患者安全全球研讨会上，介绍了该院儿科RRS的运行经验，以及基于AI的心脏骤停风险管理医疗器械DeepCARS的应用案例。在实际临床中，已出现比现有评分体系更早发现高危患者、进而促成医护人员介入的案例。"
               },
               {
                 "t": "p",
-                "x": "通过此次认证，符合影像诊断管理加算3·4设施标准的医疗机构在使用该产品时可申报加算费用。不过，仅凭产品认证并不意味着适用于所有医院。目前在日本获得JRS认证的AI影像辅助诊断软件共有45种，而此次PMDA批准是韩国开发的基于CT的肺结节CAD首例。"
+                "x": "首尔峨山医院于2012年引入儿科快速反应团队（PMET），继2020年的APPLE评分、2022年的PMAS之后，去年又加入了DeepCARS。DeepCARS评分超过90分或在短时间内上升30分以上的患儿，会通过弹窗警报被列为筛查对象。朴教授表示：“用起来很有帮助。”"
               },
               {
                 "t": "p",
-                "x": "该公司去年收购VUNO在日本的胸部CT AI资产后，仅用1年就将客户医院增至约80家，还签订了心血管软件AVIEW CAC面向M3 AI的供货合同。"
+                "x": "一名因造血干细胞移植入院的3岁11个月女童，在使用ATG后DeepCARS评分升至95分，被快速反应团队发现。由于呼吸频率等部分信息未录入，DeepCARS评分先于APPLE评分上升；患者转入PICU并接受治疗后好转。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "首尔峨山医院在儿科快速反应体系中使用DeepCARS。图片=朴有庆教授演讲资料"
               },
               {
                 "t": "p",
-                "x": "代表金镇国表示：“继获得PMDA许可之后，又取得了满足医院收费要求的认证，日本医疗机构引入并持续使用AI的动力变得更加明确。”"
+                "x": "也存在局限。由于并非实时连续监测，未被记录的生命体征无论APPLE评分还是DeepCARS都难以捕捉，检查期间误报也较多。朴教授补充说，今后AI需要朝着进一步说明为何评分偏高、以何种置信度作出评估的方向发展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA de nódulos de Coreline\nlogra aval de sociedad japonesa",
-          "body": "Aprobada por la PMDA, la IA de nódulos pulmonares logró el aval de una sociedad japonesa, base para cobrar recargos.",
-          "mini_headline": "Coreline obtiene aval de una sociedad japonesa",
+          "headline": "VUNO AI entra en un sistema\npediátrico de respuesta rápida",
+          "body": "Park Yu-kyung afirmó que la IA (AI) de VUNO en el RRS pediátrico de Asan ayuda a detectar a niños de alto riesgo.",
+          "mini_headline": "La IA (AI) en el RRS pediátrico de Asan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl."
               },
               {
                 "t": "p",
-                "x": "Coreline Soft anunció el día 6 que su software de apoyo al diagnóstico de nódulos pulmonares AVIEW Lung Nodule CAD figura ya como producto de software de IA con certificación oficial de la Sociedad Japonesa de Radiología (JRS). Tras la aprobación del mes pasado de la Agencia de Productos Farmacéuticos y Dispositivos Médicos de Japón (PMDA), la empresa ha asegurado una base para vincularlo a los recargos por diagnóstico por imagen."
+                "x": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl, presentó el 19 de septiembre, en el simposio global de VUNO sobre seguridad del paciente pediátrico, la experiencia del hospital con su RRS pediátrico y el uso de DeepCARS, un dispositivo médico basado en IA (AI) para gestionar el riesgo de paro cardíaco. En la práctica clínica ya hay casos en los que detectó a pacientes de alto riesgo antes que los sistemas de puntuación existentes, lo que permitió la intervención del equipo médico."
               },
               {
                 "t": "p",
-                "x": "Con esta certificación, las instituciones médicas que cumplan los requisitos de instalaciones del recargo por gestión del diagnóstico por imagen 3·4 podrán cobrar el recargo cuando utilicen el producto. Sin embargo, la certificación del producto por sí sola no se aplica a todos los hospitales. En Japón hay actualmente 45 programas de IA (AI) de apoyo al diagnóstico por imagen con certificación de la JRS, y la aprobación de la PMDA es la primera para un CAD de nódulos pulmonares basado en CT desarrollado en Corea."
+                "x": "El Asan Medical Center implantó en 2012 un equipo de respuesta rápida pediátrico (PMET) y, tras la puntuación APPLE en 2020 y PMAS en 2022, incorporó DeepCARS el año pasado. Los niños cuya puntuación DeepCARS supera los 90 puntos o sube 30 puntos o más en poco tiempo pasan a ser objeto de cribado mediante una alarma emergente. Park afirmó: «Nos resulta útil»."
               },
               {
                 "t": "p",
-                "x": "Tras adquirir el año pasado los activos de IA de CT torácica de VUNO en Japón, la empresa elevó a unos 80 sus hospitales clientes en 1 año y firmó además un contrato de suministro de su software cardiovascular AVIEW CAC con M3 AI."
+                "x": "Una niña de 3 años y 11 meses, ingresada para un trasplante de células madre hematopoyéticas, fue detectada por el equipo de respuesta rápida cuando su puntuación DeepCARS subió a 95 tras la administración de ATG. Como no se habían introducido algunos datos, como la frecuencia respiratoria, la puntuación DeepCARS subió antes que la APPLE; la paciente mejoró tras su traslado a la PICU y el tratamiento."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "El Asan Medical Center utiliza DeepCARS en su sistema de respuesta rápida pediátrico. Foto: material de la presentación de Park Yu-kyung"
               },
               {
                 "t": "p",
-                "x": "“Al obtener, tras la autorización de la PMDA, una certificación que también cumple los requisitos de cobro de los hospitales, el incentivo para que las instituciones médicas japonesas adopten la IA y la sigan usando es mucho más claro”, dijo el director ejecutivo Kim Jin-kook."
+                "x": "También hay limitaciones. Al no tratarse de una monitorización continua en tiempo real, los signos vitales no registrados eran difíciles de captar tanto para la puntuación APPLE como para DeepCARS, y durante las pruebas hay muchas falsas alarmas. Park añadió que en el futuro la IA (AI) debería indicar también por qué la puntuación salió alta y con qué grado de confianza se hizo la evaluación."
               }
             ]
           }
@@ -1159,121 +1095,145 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Coreline's lung nodule AI wins\nJapanese society certification",
-          "body": "After PMDA approval, Coreline's lung nodule AI won Japanese society certification, laying a basis for add-on fees.",
-          "mini_headline": "Coreline wins Japanese society certification",
+          "headline": "VUNO AI enters a pediatric\nrapid response system",
+          "body": "Prof. Park Yu-kyung said VUNO's AI in Asan's pediatric RRS helps screen high-risk children.",
+          "mini_headline": "AI in Asan's pediatric RRS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "Professor Park Yu-kyung, Department of Pediatrics, Asan Medical Center."
               },
               {
                 "t": "p",
-                "x": "Coreline Soft said on the 6th that its lung nodule diagnostic support software, AVIEW Lung Nodule CAD, has been listed as an officially certified AI software product by the Japan Radiological Society (JRS). Following approval last month from Japan's Pharmaceuticals and Medical Devices Agency (PMDA), the company has secured a basis for linking the product to imaging diagnosis add-on fees."
+                "x": "Professor Park Yu-kyung of the Department of Pediatrics at Asan Medical Center presented the hospital's experience running a pediatric RRS and its use of DeepCARS, an AI-based medical device for managing cardiac arrest risk, at VUNO's global pediatric patient safety symposium on September 19. In clinical practice, there have been cases where it flagged high-risk patients earlier than existing scoring systems, leading to intervention by the medical team."
               },
               {
                 "t": "p",
-                "x": "With this certification, medical institutions that meet the facility standards for imaging diagnosis management add-on 3·4 can claim the add-on fee when they use the product. Certification of the product alone, however, does not apply to every hospital. Japan currently has 45 JRS-certified AI imaging diagnostic support software products, and the PMDA approval is the first for a Korean-developed CT-based lung nodule CAD."
+                "x": "Asan Medical Center introduced a pediatric rapid response team (PMET) in 2012, then added the APPLE score in 2020 and PMAS in 2022, followed by DeepCARS last year. Children whose DeepCARS score exceeds 90 or rises by 30 points or more over a short period are flagged for screening by a pop-up alarm. Park said, \"We are finding it useful.\""
               },
               {
                 "t": "p",
-                "x": "After acquiring VUNO's Japanese chest CT AI assets last year, the company grew its customer hospitals to about 80 within 1 year, and also signed a supply contract with M3 AI for its cardiovascular software AVIEW CAC."
+                "x": "A girl aged 3 years and 11 months, admitted for hematopoietic stem cell transplantation, was caught by the rapid response team after her DeepCARS score rose to 95 following ATG administration. Because some information, such as respiratory rate, had not been entered, the DeepCARS score rose before the APPLE score; the patient improved after transfer to the PICU and treatment."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "Asan Medical Center uses DeepCARS in its pediatric rapid response system. Photo: presentation materials by Professor Park Yu-kyung"
               },
               {
                 "t": "p",
-                "x": "CEO Kim Jin-kook said, “By securing certification that meets hospitals' fee requirements following PMDA approval, the incentive for Japanese medical institutions to adopt AI and keep using it has become much clearer.”"
+                "x": "There are limitations. Because monitoring is not real-time and continuous, vital signs that went unrecorded were hard to capture for both the APPLE score and DeepCARS, and false alarms are frequent during tests. Park added that AI should move toward also explaining why a score came out high and with what level of confidence it was assessed."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コアライン肺結節AI\n日本の学会認証を取得",
-          "body": "肺結節AIがPMDA承認に続き日本の学会認証を得て、加算算定の基盤を確保した。",
-          "mini_headline": "コアライン、日本の学会認証",
+          "headline": "小児迅速対応システムに\nVUNOのAIが導入",
+          "body": "パク・ユギョン教授は峨山の小児RRSでVUNOのAIが高リスク患児の選別を助けると述べた。",
+          "mini_headline": "峨山小児RRSのAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "ソウル峨山病院小児青少年科のパク・ユギョン教授。"
               },
               {
                 "t": "p",
-                "x": "コアラインソフトは6日、肺結節診断支援ソフトウェア「AVIEW Lung Nodule CAD」が日本医学放射線学会（JRS）のAIソフトウェア公式認証製品に登録されたと発表した。先月の医薬品医療機器総合機構（PMDA）承認に続き、画像診断の加算と連動できる基盤を確保した。"
+                "x": "ソウル峨山病院小児青少年科のパク・ユギョン教授は9月19日、VUNOの小児患者安全グローバルシンポジウムで、同院の小児RRS運用経験と、AIベースの心停止リスク管理医療機器DeepCARSの活用事例を紹介した。実際の臨床では、従来のスコア体系より先に高リスク患者を捉え、医療陣の介入につながった事例も出ている。"
               },
               {
                 "t": "p",
-                "x": "今回の認証により、画像診断管理加算3·4の施設基準を満たす医療機関は、同製品を活用した際に加算を算定できる。ただし、製品の認証だけですべての病院に適用されるわけではない。日本でJRS認証を受けたAI画像診断支援ソフトウェアは現在45種類で、PMDA承認は韓国で開発されたCTベースの肺結節CADとして初めての事例だ。"
+                "x": "ソウル峨山病院は2012年に小児迅速対応チーム(PMET)を導入し、2020年のAPPLEスコア、2022年のPMASに続き、昨年DeepCARSを加えた。DeepCARSのスコアが90点を超えるか、短期間に30点以上上昇した患児は、ポップアップアラームでスクリーニング対象となる。パク教授は「有用に使っている」と語った。"
               },
               {
                 "t": "p",
-                "x": "同社は昨年、VUNOの日本における胸部CT AI資産を買収してから1年で顧客病院を約80施設まで増やし、循環器ソフトウェアAVIEW CACのM3 AIへの供給契約も締結した。"
+                "x": "造血幹細胞移植のため入院した3歳11か月の女児は、ATG投与後にDeepCARSスコアが95点に上がり、迅速対応チームに捕捉された。呼吸数など一部の情報が入力されていなかったため、APPLEスコアよりDeepCARSスコアが先に上昇し、患者はPICUへの転室と治療の後に回復した。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "ソウル峨山病院は小児迅速対応体制にDeepCARSを活用している。写真=パク・ユギョン教授の発表資料"
               },
               {
                 "t": "p",
-                "x": "キム・ジングク代表は「PMDAの承認に続き、病院の加算要件まで満たす認証を確保したことで、日本の医療機関がAIを導入し継続的に使う動機が一段と明確になった」と述べた。"
+                "x": "限界もある。リアルタイムの連続モニタリングではないため、記録されていないバイタルサインはAPPLEスコアもDeepCARSも捉えにくく、検査中は誤警報が多い。パク教授は今後、AIがなぜスコアが高く出たのか、どの程度の信頼度で評価したのかまで示す方向が必要だと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Coreline肺结节AI\n获日本学会认证",
-          "body": "肺结节AI继获PMDA批准后又获日本学会认证，奠定了加算收费的基础。",
-          "mini_headline": "Coreline获日本学会认证",
+          "headline": "VUNO的AI进入\n儿科快速反应系统",
+          "body": "朴有庆教授表示，峨山儿科RRS中的VUNO AI有助于筛查高危患儿。",
+          "mini_headline": "峨山儿科RRS中的AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "首尔峨山医院儿童青少年科朴有庆教授。"
               },
               {
                 "t": "p",
-                "x": "Coreline Soft于6日宣布，其肺结节辅助诊断软件AVIEW Lung Nodule CAD已被列入日本医学放射线学会（JRS）的AI软件官方认证产品。继上月获得日本医药品医疗器械综合机构（PMDA）批准后，该产品又获得了与影像诊断加算收费挂钩的基础。"
+                "x": "首尔峨山医院儿童青少年科朴有庆教授于9月19日在VUNO儿科患者安全全球研讨会上，介绍了该院儿科RRS的运行经验，以及基于AI的心脏骤停风险管理医疗器械DeepCARS的应用案例。在实际临床中，已出现比现有评分体系更早发现高危患者、进而促成医护人员介入的案例。"
               },
               {
                 "t": "p",
-                "x": "通过此次认证，符合影像诊断管理加算3·4设施标准的医疗机构在使用该产品时可申报加算费用。不过，仅凭产品认证并不意味着适用于所有医院。目前在日本获得JRS认证的AI影像辅助诊断软件共有45种，而此次PMDA批准是韩国开发的基于CT的肺结节CAD首例。"
+                "x": "首尔峨山医院于2012年引入儿科快速反应团队（PMET），继2020年的APPLE评分、2022年的PMAS之后，去年又加入了DeepCARS。DeepCARS评分超过90分或在短时间内上升30分以上的患儿，会通过弹窗警报被列为筛查对象。朴教授表示：“用起来很有帮助。”"
               },
               {
                 "t": "p",
-                "x": "该公司去年收购VUNO在日本的胸部CT AI资产后，仅用1年就将客户医院增至约80家，还签订了心血管软件AVIEW CAC面向M3 AI的供货合同。"
+                "x": "一名因造血干细胞移植入院的3岁11个月女童，在使用ATG后DeepCARS评分升至95分，被快速反应团队发现。由于呼吸频率等部分信息未录入，DeepCARS评分先于APPLE评分上升；患者转入PICU并接受治疗后好转。"
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "首尔峨山医院在儿科快速反应体系中使用DeepCARS。图片=朴有庆教授演讲资料"
               },
               {
                 "t": "p",
-                "x": "代表金镇国表示：“继获得PMDA许可之后，又取得了满足医院收费要求的认证，日本医疗机构引入并持续使用AI的动力变得更加明确。”"
+                "x": "也存在局限。由于并非实时连续监测，未被记录的生命体征无论APPLE评分还是DeepCARS都难以捕捉，检查期间误报也较多。朴教授补充说，今后AI需要朝着进一步说明为何评分偏高、以何种置信度作出评估的方向发展。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA de nódulos de Coreline\nlogra aval de sociedad japonesa",
-          "body": "Aprobada por la PMDA, la IA de nódulos pulmonares logró el aval de una sociedad japonesa, base para cobrar recargos.",
-          "mini_headline": "Coreline obtiene aval de una sociedad japonesa",
+          "headline": "VUNO AI entra en un sistema\npediátrico de respuesta rápida",
+          "body": "Park Yu-kyung afirmó que la IA (AI) de VUNO en el RRS pediátrico de Asan ayuda a detectar a niños de alto riesgo.",
+          "mini_headline": "La IA (AI) en el RRS pediátrico de Asan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/06/7fbfb7c0-2cce-44c3-941d-b74b8b4e4099.png"
+                "src": "https://medigatenews.com/file/news/526509",
+                "cap": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl."
               },
               {
                 "t": "p",
-                "x": "Coreline Soft anunció el día 6 que su software de apoyo al diagnóstico de nódulos pulmonares AVIEW Lung Nodule CAD figura ya como producto de software de IA con certificación oficial de la Sociedad Japonesa de Radiología (JRS). Tras la aprobación del mes pasado de la Agencia de Productos Farmacéuticos y Dispositivos Médicos de Japón (PMDA), la empresa ha asegurado una base para vincularlo a los recargos por diagnóstico por imagen."
+                "x": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl, presentó el 19 de septiembre, en el simposio global de VUNO sobre seguridad del paciente pediátrico, la experiencia del hospital con su RRS pediátrico y el uso de DeepCARS, un dispositivo médico basado en IA (AI) para gestionar el riesgo de paro cardíaco. En la práctica clínica ya hay casos en los que detectó a pacientes de alto riesgo antes que los sistemas de puntuación existentes, lo que permitió la intervención del equipo médico."
               },
               {
                 "t": "p",
-                "x": "Con esta certificación, las instituciones médicas que cumplan los requisitos de instalaciones del recargo por gestión del diagnóstico por imagen 3·4 podrán cobrar el recargo cuando utilicen el producto. Sin embargo, la certificación del producto por sí sola no se aplica a todos los hospitales. En Japón hay actualmente 45 programas de IA (AI) de apoyo al diagnóstico por imagen con certificación de la JRS, y la aprobación de la PMDA es la primera para un CAD de nódulos pulmonares basado en CT desarrollado en Corea."
+                "x": "El Asan Medical Center implantó en 2012 un equipo de respuesta rápida pediátrico (PMET) y, tras la puntuación APPLE en 2020 y PMAS en 2022, incorporó DeepCARS el año pasado. Los niños cuya puntuación DeepCARS supera los 90 puntos o sube 30 puntos o más en poco tiempo pasan a ser objeto de cribado mediante una alarma emergente. Park afirmó: «Nos resulta útil»."
               },
               {
                 "t": "p",
-                "x": "Tras adquirir el año pasado los activos de IA de CT torácica de VUNO en Japón, la empresa elevó a unos 80 sus hospitales clientes en 1 año y firmó además un contrato de suministro de su software cardiovascular AVIEW CAC con M3 AI."
+                "x": "Una niña de 3 años y 11 meses, ingresada para un trasplante de células madre hematopoyéticas, fue detectada por el equipo de respuesta rápida cuando su puntuación DeepCARS subió a 95 tras la administración de ATG. Como no se habían introducido algunos datos, como la frecuencia respiratoria, la puntuación DeepCARS subió antes que la APPLE; la paciente mejoró tras su traslado a la PICU y el tratamiento."
+              },
+              {
+                "t": "img",
+                "src": "https://medigatenews.com/file/news/526512",
+                "cap": "El Asan Medical Center utiliza DeepCARS en su sistema de respuesta rápida pediátrico. Foto: material de la presentación de Park Yu-kyung"
               },
               {
                 "t": "p",
-                "x": "“Al obtener, tras la autorización de la PMDA, una certificación que también cumple los requisitos de cobro de los hospitales, el incentivo para que las instituciones médicas japonesas adopten la IA y la sigan usando es mucho más claro”, dijo el director ejecutivo Kim Jin-kook."
+                "x": "También hay limitaciones. Al no tratarse de una monitorización continua en tiempo real, los signos vitales no registrados eran difíciles de captar tanto para la puntuación APPLE como para DeepCARS, y durante las pruebas hay muchas falsas alarmas. Park añadió que en el futuro la IA (AI) debería indicar también por qué la puntuación salió alta y con qué grado de confianza se hizo la evaluación."
               }
             ]
           }
@@ -1281,15 +1241,15 @@
       }
     },
     {
-      "id": "gpt5-agent-complexity-paradox",
+      "id": "llm-ophtho-preconsult-rct",
       "source_lang": "en",
       "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "GPT-5 진단 에이전트\n복잡성의 역설에 빠지다",
-      "body": "161건 실험에서 웹 검색도, 복잡한 에이전트도 정확도를 확실히 높이지 못했다.",
-      "mini_headline": "GPT-5 에이전트의 복잡성 역설",
-      "source": "npj Digital Medicine (Nature)",
-      "url": "https://www.nature.com/articles/s41746-026-03325-7",
+      "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
+      "body": "안과 병원 무작위 시험에서 이중 에이전트 LLM 문진을 전공의와 비교했다.",
+      "mini_headline": "LLM vs 전공의, 안과 RCT",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03232-x",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1297,125 +1257,125 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진은 임상의가 검증한 실제 멀티모달 사례 161건으로 GPT-5 기반(GPT-5-based) 구성 열 가지를 체계적으로 정량 분석했다. 평가 항목은 진단 정확도, 추론의 질, 검색 정확도, 근거 통합, 저품질 입력에 대한 견고성이다."
+            "x": "병력 청취는 진료의 핵심이지만 임상 자원이 한정돼 제약을 받는다. 연구진은 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들었다. 증상 중심 논리 트리는 스킬 엔지니어링으로 설계했다. 그리고 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
           },
           {
             "t": "p",
-            "x": "분석에서는 중요한 한계가 드러났다. 영상 오해석, 때로 성능을 떨어뜨린 일관성 없는 웹 검색, 에이전트 워크플로의 제한적 투명성이 그것이다. 강점으로는 환자 병력의 효과적 활용, 명확한 단계별 추론, 타당한 감별 진단, 명시적 추론에 따른 특이도 향상, 관련 근거 검색이 꼽혔다."
+            "x": "2025년 5월 10일부터 6월 10일까지 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3) 인내심과 공감 평가에서도 앞섰다. 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
           },
           {
             "t": "p",
-            "x": "저자들은 실제 환경에서 믿을 만한 멀티모달 진단이 공격적인 검색이나 복잡한 에이전트 워크플로보다 투명한 추론과 양질의 입력에 더 크게 좌우된다고 결론지었다. 근거 통합과 시각적 추론의 격차는 여전히 일상 임상 활용을 가로막는 주요 장벽이라고도 지적했다."
+            "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰다(F1 0.85 대 0.68). 그런데 안구 소견을 더하자 전공의 쪽이 더 크게 좋아지면서 격차가 줄었다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GPT-5 diagnostic agents\nhit a complexity paradox",
-          "body": "Across ten GPT-5 setups on 161 real cases, web search and complex agent workflows did not reliably raise accuracy.",
-          "mini_headline": "GPT-5 agents' complexity paradox",
+          "headline": "LLM agent vs residents\nin eye pre-consultation",
+          "body": "A randomized trial at an eye center compared a dual-agent LLM history-taking agent with ophthalmology residents.",
+          "mini_headline": "LLM vs residents, eye RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Researchers ran a systematic quantitative analysis of ten GPT-5-based configurations on 161 clinician-validated real-world multimodal cases, scoring diagnostic accuracy, reasoning quality, retrieval accuracy, evidence integration and robustness to low-quality inputs."
+                "x": "History-taking is central yet constrained by limited clinical resources. The researchers designed a pre-consultation LLM agent for history-taking using a dual-agent architecture with skills-engineered symptom-oriented logic trees, and ran a randomized clinical trial at a tertiary ophthalmic hospital in Guangzhou, China."
               },
               {
                 "t": "p",
-                "x": "They found important limitations, including image misinterpretation, inconsistent web search that sometimes degraded performance, and limited transparency in agentic workflows. Strengths included effective use of patient history, clear stepwise reasoning, plausible differentials, improved specificity with explicit reasoning, and relevant evidence retrieval."
+                "x": "Between May 10 and June 10, 2025, 172 of 175 approached patients with non-emergency appointments were randomized 1:1 to the LLM agent or ophthalmology residents. The agent achieved better pre-consultation quality by MedHistory score (adjusted mean difference 17.7 points; 95% CI 14.1 to 21.3), higher patience and empathy ratings, and longer interactions (median 11.2 vs 3.1 minutes)."
               },
               {
                 "t": "p",
-                "x": "The authors conclude that reliable real-world multimodal diagnosis depends more on transparent reasoning and high-quality inputs than on aggressive retrieval or complex agentic workflows, and that gaps in evidence integration and visual reasoning remain major barriers to routine clinical use."
+                "x": "Test recommendation performance did not differ significantly. Exploratory analyses showed superior diagnostic accuracy from history alone (F1 0.85 vs 0.68), while ocular signs improved residents more, narrowing the gap. The authors suggest a hybrid workflow where clinicians focus on physical examination and diagnostic synthesis."
               }
             ]
           }
         },
         "ko": {
-          "headline": "GPT-5 진단 에이전트\n복잡성의 역설에 빠지다",
-          "body": "161건 실험에서 웹 검색도, 복잡한 에이전트도 정확도를 확실히 높이지 못했다.",
-          "mini_headline": "GPT-5 에이전트의 복잡성 역설",
+          "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
+          "body": "안과 병원 무작위 시험에서 이중 에이전트 LLM 문진을 전공의와 비교했다.",
+          "mini_headline": "LLM vs 전공의, 안과 RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 임상의가 검증한 실제 멀티모달 사례 161건으로 GPT-5 기반(GPT-5-based) 구성 열 가지를 체계적으로 정량 분석했다. 평가 항목은 진단 정확도, 추론의 질, 검색 정확도, 근거 통합, 저품질 입력에 대한 견고성이다."
+                "x": "병력 청취는 진료의 핵심이지만 임상 자원이 한정돼 제약을 받는다. 연구진은 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들었다. 증상 중심 논리 트리는 스킬 엔지니어링으로 설계했다. 그리고 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
               },
               {
                 "t": "p",
-                "x": "분석에서는 중요한 한계가 드러났다. 영상 오해석, 때로 성능을 떨어뜨린 일관성 없는 웹 검색, 에이전트 워크플로의 제한적 투명성이 그것이다. 강점으로는 환자 병력의 효과적 활용, 명확한 단계별 추론, 타당한 감별 진단, 명시적 추론에 따른 특이도 향상, 관련 근거 검색이 꼽혔다."
+                "x": "2025년 5월 10일부터 6월 10일까지 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3) 인내심과 공감 평가에서도 앞섰다. 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
               },
               {
                 "t": "p",
-                "x": "저자들은 실제 환경에서 믿을 만한 멀티모달 진단이 공격적인 검색이나 복잡한 에이전트 워크플로보다 투명한 추론과 양질의 입력에 더 크게 좌우된다고 결론지었다. 근거 통합과 시각적 추론의 격차는 여전히 일상 임상 활용을 가로막는 주요 장벽이라고도 지적했다."
+                "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰다(F1 0.85 대 0.68). 그런데 안구 소견을 더하자 전공의 쪽이 더 크게 좋아지면서 격차가 줄었다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GPT-5診断エージェント\n複雑さのパラドックス",
-          "body": "161件の実症例で、ウェブ検索や複雑なエージェントは精度を確実には高めなかった。",
-          "mini_headline": "GPT-5エージェントの複雑さの逆説",
+          "headline": "LLMエージェントvs研修医\n眼科の事前問診で比較",
+          "body": "眼科病院の無作為化試験で、二重エージェント型LLM問診と眼科研修医を比較した。",
+          "mini_headline": "LLM vs 研修医、眼科RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、臨床医が検証した実臨床のマルチモーダル症例161件を用い、GPT-5ベース（GPT-5-based）の十種類の構成を体系的に定量分析した。診断精度、推論の質、検索精度、エビデンス統合、低品質な入力への頑健性を評価した。"
+                "x": "病歴聴取は診療の中核だが、限られた臨床資源に制約される。研究者らは、スキルエンジニアリングで設計した症状別ロジックツリーを備えた二重エージェント(dual-agent)構成の事前問診用LLMエージェントを開発し、中国・広州(Guangzhou)の高次眼科病院で無作為化臨床試験を実施した。"
               },
               {
                 "t": "p",
-                "x": "その結果、画像の誤読、時に性能を低下させる一貫性のないウェブ検索、エージェント型ワークフローの透明性の低さといった重要な限界が明らかになった。一方で、患者の病歴の効果的な活用、明快な段階的推論、妥当な鑑別診断、明示的な推論による特異度の向上、関連するエビデンスの検索は強みとして挙げられた。"
+                "x": "2025年5月10日から6月10日にかけて、声をかけた非緊急予約患者175人のうち172人をLLMエージェント群と眼科研修医群に1:1で無作為に割り付けた。エージェントはMedHistoryスコアによる事前問診の質で上回り(調整後平均差17.7点、95% CI 14.1〜21.3)、忍耐と共感の評価も高く、やり取りも長かった(中央値11.2分対3.1分)。"
               },
               {
                 "t": "p",
-                "x": "著者らは、実臨床で信頼できるマルチモーダル診断は、積極的な検索や複雑なエージェント型ワークフローよりも、透明な推論と質の高い入力に大きく左右されると結論づけた。また、エビデンス統合と視覚的推論の課題が、日常診療での活用を阻む大きな障壁として残っているとしている。"
+                "x": "検査推奨の性能には有意差がなかった。探索的解析では、病歴のみに基づく診断精度はエージェントが優れていた(F1 0.85対0.68)が、眼所見を加えると研修医の改善幅が大きく、差は縮まった。著者らは、臨床医が身体診察と診断の統合に専念するハイブリッドなワークフローを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GPT-5诊断智能体\n陷入复杂性悖论",
-          "body": "在161个真实病例上，网络搜索和复杂智能体流程并未稳定提升GPT-5的准确率。",
-          "mini_headline": "GPT-5智能体的复杂性悖论",
+          "headline": "LLM智能体vs住院医师\n眼科预问诊对决",
+          "body": "一项眼科中心的随机试验比较了双智能体LLM病史采集工具与眼科住院医师。",
+          "mini_headline": "LLM vs 住院医师：眼科RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员基于161个经临床医生验证的真实世界多模态病例，对十种基于GPT-5（GPT-5-based）的配置进行了系统的定量分析，评估诊断准确率、推理质量、检索准确率、证据整合能力以及对低质量输入的稳健性。"
+                "x": "病史采集是诊疗的核心，却受限于有限的临床资源。研究人员设计了一款用于预问诊病史采集的LLM智能体，采用双智能体（dual-agent）架构，并配有经技能工程设计、以症状为导向的逻辑树；随后在中国广州（Guangzhou）一家三级眼科医院开展了随机临床试验。"
               },
               {
                 "t": "p",
-                "x": "他们发现了一些重要局限，包括图像误读、网络搜索表现不稳定且有时会降低性能，以及智能体工作流透明度有限。优势则包括有效利用患者病史、清晰的分步推理、合理的鉴别诊断、明确推理带来的特异度提升，以及检索到相关证据。"
+                "x": "2025年5月10日至6月10日，在接触的175名非急诊预约患者中，172名按1:1随机分配至LLM智能体组或眼科住院医师组。按MedHistory评分衡量，智能体的预问诊质量更高（校正平均差17.7分；95% CI 14.1至21.3），耐心和共情评分更高，交互时间也更长（中位数11.2分钟对3.1分钟）。"
               },
               {
                 "t": "p",
-                "x": "作者得出结论：在真实世界中实现可靠的多模态诊断，更多取决于透明的推理和高质量的输入，而非激进的检索或复杂的智能体工作流；证据整合与视觉推理方面的差距，仍是阻碍其进入常规临床应用的主要障碍。"
+                "x": "检查建议方面的表现无显著差异。探索性分析显示，仅凭病史时智能体的诊断准确性更高（F1 0.85对0.68），而加入眼部体征后住院医师提升更多，差距随之缩小。作者建议采用混合工作流程，让临床医生专注于体格检查和诊断综合。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes diagnósticos de GPT-5\nante la paradoja de complejidad",
-          "body": "Con diez configuraciones de GPT-5 en 161 casos, la búsqueda web y los agentes no elevaron la precisión de forma fiable.",
-          "mini_headline": "La paradoja de la complejidad de los agentes GPT-5",
+          "headline": "Agente LLM vs residentes\nen la preconsulta oftalmológica",
+          "body": "Un ensayo aleatorizado en un centro oftalmológico comparó un agente LLM dual para la anamnesis con residentes.",
+          "mini_headline": "LLM vs residentes: RCT oftalmológico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores realizaron un análisis cuantitativo sistemático de diez configuraciones basadas en GPT-5 (GPT-5-based) con 161 casos multimodales reales validados por clínicos, y puntuaron la precisión diagnóstica, la calidad del razonamiento, la precisión de la recuperación, la integración de la evidencia y la robustez ante entradas de baja calidad."
+                "x": "La anamnesis es central, pero se ve limitada por los escasos recursos clínicos. Los investigadores diseñaron un agente LLM de preconsulta para la anamnesis con una arquitectura de doble agente (dual-agent) y árboles lógicos orientados a síntomas creados mediante ingeniería de habilidades, y realizaron un ensayo clínico aleatorizado en un hospital oftalmológico de tercer nivel en Guangzhou, China."
               },
               {
                 "t": "p",
-                "x": "Detectaron limitaciones importantes, como la mala interpretación de imágenes, una búsqueda web irregular que a veces empeoraba el rendimiento y una transparencia limitada en los flujos de trabajo agénticos. Entre los puntos fuertes figuraban el uso eficaz de la historia clínica, un razonamiento claro paso a paso, diagnósticos diferenciales plausibles, una mayor especificidad con razonamiento explícito y la recuperación de evidencia pertinente."
+                "x": "Entre el 10 de mayo y el 10 de junio de 2025, 172 de los 175 pacientes con citas no urgentes a los que se invitó fueron asignados al azar 1:1 al agente LLM o a residentes de oftalmología. El agente logró una mejor calidad de preconsulta según la puntuación MedHistory (diferencia media ajustada de 17.7 puntos; 95% CI 14.1 a 21.3), mejores valoraciones de paciencia y empatía e interacciones más largas (mediana de 11.2 frente a 3.1 minutos)."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que un diagnóstico multimodal fiable en condiciones reales depende más de un razonamiento transparente y de entradas de alta calidad que de una recuperación agresiva o de flujos agénticos complejos, y que las carencias en la integración de la evidencia y en el razonamiento visual siguen siendo grandes obstáculos para su uso clínico habitual."
+                "x": "El rendimiento en la recomendación de pruebas no difirió de forma significativa. Los análisis exploratorios mostraron una mayor precisión diagnóstica a partir solo de la anamnesis (F1 0.85 frente a 0.68), mientras que los signos oculares mejoraron más a los residentes y redujeron la diferencia. Los autores proponen un flujo de trabajo híbrido en el que los clínicos se centren en la exploración física y la síntesis diagnóstica."
               }
             ]
           }
@@ -1423,89 +1383,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "GPT-5 진단 에이전트\n복잡성의 역설에 빠지다",
-          "body": "161건 실험에서 웹 검색과 복잡한 에이전트는 정확도를 확실히 높이지 못했다.",
-          "mini_headline": "GPT-5 에이전트의 복잡성 역설",
+          "headline": "LLM vs 전공의,\n안과 사전 문진 대결",
+          "body": "안과 병원 무작위 시험이 이중 에이전트 LLM 문진과 전공의를 비교했다.",
+          "mini_headline": "LLM vs 전공의, 안과 RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진은 임상의가 검증한 실제 멀티모달 사례 161건을 대상으로 GPT-5 기반(GPT-5-based) 구성 열 가지를 체계적으로 정량 분석했다. 진단 정확도, 추론의 질, 검색 정확도, 근거 통합, 저품질 입력에 대한 견고성을 평가했다."
+                "x": "병력 청취는 진료의 핵심이지만 한정된 임상 자원에 제약을 받는다. 연구진은 스킬 엔지니어링으로 설계한 증상 중심 논리 트리를 갖춘 이중 에이전트(dual-agent) 구조의 사전 문진용 LLM 에이전트를 만들고, 중국 광저우(Guangzhou)의 상급 안과 병원에서 무작위 임상시험을 진행했다."
               },
               {
                 "t": "p",
-                "x": "분석 결과 영상 오해석, 때로 성능을 떨어뜨린 일관성 없는 웹 검색, 에이전트 워크플로의 제한적인 투명성 같은 중요한 한계가 드러났다. 반면 환자 병력의 효과적 활용, 명확한 단계별 추론, 타당한 감별 진단, 명시적 추론에 따른 특이도 향상, 관련 근거 검색은 강점으로 꼽혔다."
+                "x": "2025년 5월 10일부터 6월 10일까지, 접촉한 비응급 예약 환자 175명 중 172명을 LLM 에이전트군과 안과 전공의군에 1:1로 무작위 배정했다. MedHistory 점수로 본 사전 문진 품질은 에이전트가 더 높았고(보정 평균 차이 17.7점, 95% CI 14.1~21.3), 인내심과 공감 평가도 높았으며, 상호작용 시간도 더 길었다(중앙값 11.2분 대 3.1분)."
               },
               {
                 "t": "p",
-                "x": "저자들은 실제 환경에서 신뢰할 수 있는 멀티모달 진단은 공격적인 검색이나 복잡한 에이전트 워크플로보다 투명한 추론과 양질의 입력에 더 크게 좌우된다고 결론지었다. 또 근거 통합과 시각적 추론의 격차가 일상 임상 활용을 가로막는 주요 장벽으로 남아 있다고 지적했다."
+                "x": "검사 권고 성능에는 유의한 차이가 없었다. 탐색적 분석에서 병력만으로 낸 진단 정확도는 에이전트가 앞섰지만(F1 0.85 대 0.68), 안구 소견을 더하면 전공의의 개선 폭이 더 커 격차가 좁혀졌다. 저자들은 의료진이 신체 진찰과 진단 종합에 집중하는 하이브리드 워크플로를 제안한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GPT-5診断エージェント\n複雑さのパラドックス",
-          "body": "161件の実症例で、ウェブ検索や複雑なエージェントは精度を確実には高めなかった。",
-          "mini_headline": "GPT-5エージェントの複雑さの逆説",
+          "headline": "LLMエージェントvs研修医\n眼科の事前問診で比較",
+          "body": "眼科病院の無作為化試験で、二重エージェント型LLM問診と眼科研修医を比較した。",
+          "mini_headline": "LLM vs 研修医、眼科RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究チームは、臨床医が検証した実臨床のマルチモーダル症例161件を用い、GPT-5ベース（GPT-5-based）の十種類の構成を体系的に定量分析した。診断精度、推論の質、検索精度、エビデンス統合、低品質な入力への頑健性を評価した。"
+                "x": "病歴聴取は診療の中核だが、限られた臨床資源に制約される。研究者らは、スキルエンジニアリングで設計した症状別ロジックツリーを備えた二重エージェント(dual-agent)構成の事前問診用LLMエージェントを開発し、中国・広州(Guangzhou)の高次眼科病院で無作為化臨床試験を実施した。"
               },
               {
                 "t": "p",
-                "x": "その結果、画像の誤読、時に性能を低下させる一貫性のないウェブ検索、エージェント型ワークフローの透明性の低さといった重要な限界が明らかになった。一方で、患者の病歴の効果的な活用、明快な段階的推論、妥当な鑑別診断、明示的な推論による特異度の向上、関連するエビデンスの検索は強みとして挙げられた。"
+                "x": "2025年5月10日から6月10日にかけて、声をかけた非緊急予約患者175人のうち172人をLLMエージェント群と眼科研修医群に1:1で無作為に割り付けた。エージェントはMedHistoryスコアによる事前問診の質で上回り(調整後平均差17.7点、95% CI 14.1〜21.3)、忍耐と共感の評価も高く、やり取りも長かった(中央値11.2分対3.1分)。"
               },
               {
                 "t": "p",
-                "x": "著者らは、実臨床で信頼できるマルチモーダル診断は、積極的な検索や複雑なエージェント型ワークフローよりも、透明な推論と質の高い入力に大きく左右されると結論づけた。また、エビデンス統合と視覚的推論の課題が、日常診療での活用を阻む大きな障壁として残っているとしている。"
+                "x": "検査推奨の性能には有意差がなかった。探索的解析では、病歴のみに基づく診断精度はエージェントが優れていた(F1 0.85対0.68)が、眼所見を加えると研修医の改善幅が大きく、差は縮まった。著者らは、臨床医が身体診察と診断の統合に専念するハイブリッドなワークフローを提案している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GPT-5诊断智能体\n陷入复杂性悖论",
-          "body": "在161个真实病例上，网络搜索和复杂智能体流程并未稳定提升GPT-5的准确率。",
-          "mini_headline": "GPT-5智能体的复杂性悖论",
+          "headline": "LLM智能体vs住院医师\n眼科预问诊对决",
+          "body": "一项眼科中心的随机试验比较了双智能体LLM病史采集工具与眼科住院医师。",
+          "mini_headline": "LLM vs 住院医师：眼科RCT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究人员基于161个经临床医生验证的真实世界多模态病例，对十种基于GPT-5（GPT-5-based）的配置进行了系统的定量分析，评估诊断准确率、推理质量、检索准确率、证据整合能力以及对低质量输入的稳健性。"
+                "x": "病史采集是诊疗的核心，却受限于有限的临床资源。研究人员设计了一款用于预问诊病史采集的LLM智能体，采用双智能体（dual-agent）架构，并配有经技能工程设计、以症状为导向的逻辑树；随后在中国广州（Guangzhou）一家三级眼科医院开展了随机临床试验。"
               },
               {
                 "t": "p",
-                "x": "他们发现了一些重要局限，包括图像误读、网络搜索表现不稳定且有时会降低性能，以及智能体工作流透明度有限。优势则包括有效利用患者病史、清晰的分步推理、合理的鉴别诊断、明确推理带来的特异度提升，以及检索到相关证据。"
+                "x": "2025年5月10日至6月10日，在接触的175名非急诊预约患者中，172名按1:1随机分配至LLM智能体组或眼科住院医师组。按MedHistory评分衡量，智能体的预问诊质量更高（校正平均差17.7分；95% CI 14.1至21.3），耐心和共情评分更高，交互时间也更长（中位数11.2分钟对3.1分钟）。"
               },
               {
                 "t": "p",
-                "x": "作者得出结论：在真实世界中实现可靠的多模态诊断，更多取决于透明的推理和高质量的输入，而非激进的检索或复杂的智能体工作流；证据整合与视觉推理方面的差距，仍是阻碍其进入常规临床应用的主要障碍。"
+                "x": "检查建议方面的表现无显著差异。探索性分析显示，仅凭病史时智能体的诊断准确性更高（F1 0.85对0.68），而加入眼部体征后住院医师提升更多，差距随之缩小。作者建议采用混合工作流程，让临床医生专注于体格检查和诊断综合。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes diagnósticos de GPT-5\nante la paradoja de complejidad",
-          "body": "Con diez configuraciones de GPT-5 en 161 casos, la búsqueda web y los agentes no elevaron la precisión de forma fiable.",
-          "mini_headline": "La paradoja de la complejidad de los agentes GPT-5",
+          "headline": "Agente LLM vs residentes\nen la preconsulta oftalmológica",
+          "body": "Un ensayo aleatorizado en un centro oftalmológico comparó un agente LLM dual para la anamnesis con residentes.",
+          "mini_headline": "LLM vs residentes: RCT oftalmológico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los investigadores realizaron un análisis cuantitativo sistemático de diez configuraciones basadas en GPT-5 (GPT-5-based) con 161 casos multimodales reales validados por clínicos, y puntuaron la precisión diagnóstica, la calidad del razonamiento, la precisión de la recuperación, la integración de la evidencia y la robustez ante entradas de baja calidad."
+                "x": "La anamnesis es central, pero se ve limitada por los escasos recursos clínicos. Los investigadores diseñaron un agente LLM de preconsulta para la anamnesis con una arquitectura de doble agente (dual-agent) y árboles lógicos orientados a síntomas creados mediante ingeniería de habilidades, y realizaron un ensayo clínico aleatorizado en un hospital oftalmológico de tercer nivel en Guangzhou, China."
               },
               {
                 "t": "p",
-                "x": "Detectaron limitaciones importantes, como la mala interpretación de imágenes, una búsqueda web irregular que a veces empeoraba el rendimiento y una transparencia limitada en los flujos de trabajo agénticos. Entre los puntos fuertes figuraban el uso eficaz de la historia clínica, un razonamiento claro paso a paso, diagnósticos diferenciales plausibles, una mayor especificidad con razonamiento explícito y la recuperación de evidencia pertinente."
+                "x": "Entre el 10 de mayo y el 10 de junio de 2025, 172 de los 175 pacientes con citas no urgentes a los que se invitó fueron asignados al azar 1:1 al agente LLM o a residentes de oftalmología. El agente logró una mejor calidad de preconsulta según la puntuación MedHistory (diferencia media ajustada de 17.7 puntos; 95% CI 14.1 a 21.3), mejores valoraciones de paciencia y empatía e interacciones más largas (mediana de 11.2 frente a 3.1 minutos)."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que un diagnóstico multimodal fiable en condiciones reales depende más de un razonamiento transparente y de entradas de alta calidad que de una recuperación agresiva o de flujos agénticos complejos, y que las carencias en la integración de la evidencia y en el razonamiento visual siguen siendo grandes obstáculos para su uso clínico habitual."
+                "x": "El rendimiento en la recomendación de pruebas no difirió de forma significativa. Los análisis exploratorios mostraron una mayor precisión diagnóstica a partir solo de la anamnesis (F1 0.85 frente a 0.68), mientras que los signos oculares mejoraron más a los residentes y redujeron la diferencia. Los autores proponen un flujo de trabajo híbrido en el que los clínicos se centren en la exploración física y la síntesis diagnóstica."
               }
             ]
           }

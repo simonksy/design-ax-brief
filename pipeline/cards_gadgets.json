@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-pixelwatch4-ai-faces",
+      "id": "xda-local-llm-gmail",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
-      "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
-      "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
+      "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
+      "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
+      "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
       "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
+      "source": "XDA Developers",
+      "url": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,263 +19,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-            "cap": "AI로 나만의 워치 페이스 만들기"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+            "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
           },
           {
             "t": "p",
-            "x": "Pixel Watch 5에서 티 나지 않게 강력했던 기능 하나가 Pixel Watch 4로 넘어왔다. AI 워치 페이스 생성기가 지금 Pixel Watch 4 모델에 차례로 배포되는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "Pixel Watch 5는 크게 바꾸기보다 다듬는 쪽이었고, 내부 개선도 대부분 AI 성능에 몰렸다. 그 덕에 나온 반가운 결과물이 AI 워치 페이스 생성기다. 나만의 워치 페이스를 조금 더 쉽게 만들게 해 준다."
-          },
-          {
-            "t": "p",
-            "x": "Reddit 사용자들 말로는 이번 업데이트가 4.2.12.989940186 버전에 담겼다. Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 따로 만든 Steph Curry 다이얼도 함께 들어왔다."
-          },
-          {
-            "t": "p",
-            "x": "쓰는 법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 연다. 템플릿 갤러리에서 고르지 말고 원하는 모습을 적으면 Gemini Intelligence가 그에 가깝게 만들어 낸다."
+            "x": "하루의 여러 부분을 이미 Gmail, Google Calendar, Home Assistant로 관리하던 터라, 이 서비스들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌아도 Gmail과 Calendar는 여전히 Google의 온라인 서비스를 거쳐야 한다."
           },
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-            "cap": "AI가 만든 워치 페이스(AI-generated)"
-          },
-          {
-            "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-            "cap": "AI가 만든 워치 페이스(AI-generated)"
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+            "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
           },
           {
             "t": "p",
-            "x": "한계는 있다. 그래도 Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 아직 배포가 진행 중이라 기기에 뜨기까지는 시간이 좀 걸릴 수 있다."
+            "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 모델 쪽도 도구를 안정적으로 다룰 줄 알아야 한다."
+          },
+          {
+            "t": "p",
+            "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 손볼 일은 많지 않았지만 무작정 맡길 생각은 없다."
+          },
+          {
+            "t": "img",
+            "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+            "cap": "Home Assistant MCP"
+          },
+          {
+            "t": "p",
+            "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고만 하면 되고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모가 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pixel Watch 4 gets Google's\nAI watch face generator",
-          "body": "An update brings Google's generative AI watch face creator, once a Pixel Watch 5 exclusive, to the Pixel Watch 4.",
-          "mini_headline": "AI faces reach Pixel Watch 4",
+          "headline": "A local LLM wired into Gmail,\nCalendar and Home Assistant",
+          "body": "Connecting a local LLM to Gmail, Calendar and Home Assistant is what finally made it productive.",
+          "mini_headline": "Local LLM gets useful with Gmail",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "Creating a custom watch face with AI"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "OpenCode running local model with MCP"
               },
               {
                 "t": "p",
-                "x": "One of the Pixel Watch 5's quietly powerful features has landed on the Pixel Watch 4. The AI watch face generator is currently rolling out to Pixel Watch 4 models."
-              },
-              {
-                "t": "p",
-                "x": "The Pixel Watch 5 was more refinement than shakeup, with most of its under-the-hood enhancements focused on AI performance. One good byproduct of that push is the AI watch face generator, a tool that makes creating custom watch faces a little easier."
-              },
-              {
-                "t": "p",
-                "x": "According to users on Reddit, the update is packaged in version 4.2.12.989940186 and also includes the Pixel Watch 5 stock watch faces — Weave, Modular, Reveal and Chronograph — plus the specialized Steph Curry dial."
-              },
-              {
-                "t": "p",
-                "x": "The generator is straightforward: open the prompt section in the Pixel Watch app when creating a new look, describe what you want instead of picking from a template gallery, and Gemini Intelligence should come up with something close."
+                "x": "I already use Gmail, Google Calendar, and Home Assistant to manage different parts of my day, so I connected them to the local models I run on my Mac. The model runs on my computer, although Gmail and Calendar still need Google's online services."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AI-generated watch faces"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AI-generated watch faces"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "LM Studio mcp.json with filesystem server"
               },
               {
                 "t": "p",
-                "x": "It has its limitations, but it's a great tool Google didn't really play up for the Pixel Watch 5. The update is actively rolling out, so it may take some time to show up."
+                "x": "LM Studio supports MCP (Model Context Protocol), a standard way for an AI app to access tools from another service. Community projects such as Google Workspace MCP cover Gmail and Calendar; Home Assistant has its own MCP Server integration. You also need a model that can use tools reliably."
+              },
+              {
+                "t": "p",
+                "x": "With both apps connected, the model can retrieve an email thread and check my appointments before proposing a meeting time. I keep replies and calendar entries as drafts to review — I didn't have to correct it often, but I wouldn't let it run blindly."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "Exposing my bedtime script lets me ask it to “shut down the house,” and it can handle commands with exceptions like “Turn off the lights, but leave the bathroom light on.” Simple requests still go to Home Assistant's native commands. Local LLMs are more useful outside a chat box."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
-          "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
-          "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
+          "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
+          "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
+          "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "AI로 나만의 워치 페이스 만들기"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5에서 티 나지 않게 강력했던 기능 하나가 Pixel Watch 4로 넘어왔다. AI 워치 페이스 생성기가 지금 Pixel Watch 4 모델에 차례로 배포되는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5는 크게 바꾸기보다 다듬는 쪽이었고, 내부 개선도 대부분 AI 성능에 몰렸다. 그 덕에 나온 반가운 결과물이 AI 워치 페이스 생성기다. 나만의 워치 페이스를 조금 더 쉽게 만들게 해 준다."
-              },
-              {
-                "t": "p",
-                "x": "Reddit 사용자들 말로는 이번 업데이트가 4.2.12.989940186 버전에 담겼다. Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 따로 만든 Steph Curry 다이얼도 함께 들어왔다."
-              },
-              {
-                "t": "p",
-                "x": "쓰는 법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 연다. 템플릿 갤러리에서 고르지 말고 원하는 모습을 적으면 Gemini Intelligence가 그에 가깝게 만들어 낸다."
+                "x": "하루의 여러 부분을 이미 Gmail, Google Calendar, Home Assistant로 관리하던 터라, 이 서비스들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌아도 Gmail과 Calendar는 여전히 Google의 온라인 서비스를 거쳐야 한다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AI가 만든 워치 페이스(AI-generated)"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AI가 만든 워치 페이스(AI-generated)"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
               },
               {
                 "t": "p",
-                "x": "한계는 있다. 그래도 Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 아직 배포가 진행 중이라 기기에 뜨기까지는 시간이 좀 걸릴 수 있다."
+                "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 모델 쪽도 도구를 안정적으로 다룰 줄 알아야 한다."
+              },
+              {
+                "t": "p",
+                "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 손볼 일은 많지 않았지만 무작정 맡길 생각은 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고만 하면 되고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pixel Watch 4に\nAI文字盤生成機能が到来",
-          "body": "Pixel Watch 5専用のAI文字盤生成が、更新でPixel Watch 4に届く。",
-          "mini_headline": "AI文字盤がPixel Watch 4に",
+          "headline": "ローカルLLMを\nGmailとスマートホームへ",
+          "body": "ローカルLLMはGmailやHome Assistantとつないで初めて役に立った。",
+          "mini_headline": "ローカルLLM、Gmailで実用に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "AIでカスタム文字盤を作成"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "MCPでローカルモデルを動かすOpenCode"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5の地味ながら強力な機能の一つが、Pixel Watch 4にもやってきた。AI文字盤ジェネレーターが現在、Pixel Watch 4の各モデルに順次配信されている。"
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5は刷新というより熟成のモデルで、内部の強化の大半はAI性能に向けられていた。その成果の一つがAI文字盤ジェネレーターであり、カスタム文字盤の作成を少し手軽にするツールだ。"
-              },
-              {
-                "t": "p",
-                "x": "Redditのユーザーによると、このアップデートはバージョン4.2.12.989940186に含まれ、Pixel Watch 5の標準文字盤であるWeave、Modular、Reveal、Chronographに加え、特別仕様のSteph Curry文字盤も収録している。"
-              },
-              {
-                "t": "p",
-                "x": "使い方は簡単だ。Pixel Watchアプリで新しいデザインを作る際にプロンプト欄を開き、テンプレートギャラリーから選ぶ代わりに希望を説明すれば、Gemini Intelligenceがそれに近いものを作り出す。"
+                "x": "私はすでにGmail、Google Calendar、Home Assistantで一日のさまざまな場面を管理しているので、Macで動かしているローカルモデルにそれらを接続した。モデルは自分のコンピューターで動くが、GmailとCalendarは依然としてGoogleのオンラインサービスを必要とする。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AIが生成した文字盤（AI-generated）"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AIが生成した文字盤（AI-generated）"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "filesystemサーバーを設定したLM Studioのmcp.json"
               },
               {
                 "t": "p",
-                "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
+                "x": "LM Studioは、AIアプリが別のサービスのツールにアクセスするための標準的な仕組みであるMCP(Model Context Protocol)に対応している。Google Workspace MCPなどのコミュニティプロジェクトがGmailとCalendarをカバーし、Home Assistantには独自のMCP Server統合がある。ツールを確実に使えるモデルも必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "両方のアプリを接続すると、モデルはメールのスレッドを取得し、予定を確認したうえで会議の時間を提案できる。返信やカレンダーの予定は確認用の下書きとして残している。修正が必要になることは多くなかったが、無条件に任せるつもりはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pixel Watch 4\n迎来AI表盘生成器",
-          "body": "曾为Pixel Watch 5独占的AI表盘生成器，经更新登陆Pixel Watch 4。",
-          "mini_headline": "AI表盘登陆Pixel Watch 4",
+          "headline": "本地LLM接入\nGmail与智能家居",
+          "body": "本地LLM接入Gmail和Home Assistant后，才真正派上用场。",
+          "mini_headline": "本地LLM接入Gmail才好用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "用AI创建自定义表盘"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "OpenCode通过MCP运行本地模型"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5一项低调却强大的功能已登陆Pixel Watch 4。AI表盘生成器目前正向Pixel Watch 4各机型推送。"
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5更像是一次打磨而非颠覆，其内部改进大多集中在AI性能上。这番投入带来的一个好成果就是AI表盘生成器，它让创建自定义表盘变得更轻松一些。"
-              },
-              {
-                "t": "p",
-                "x": "据Reddit用户反映，此次更新的版本号为4.2.12.989940186，还包含Pixel Watch 5的原生表盘Weave、Modular、Reveal和Chronograph，以及专属的Steph Curry表盘。"
-              },
-              {
-                "t": "p",
-                "x": "生成器用法简单：在Pixel Watch应用中创建新表盘时打开提示词区域，不必从模板库中挑选，只需描述想要的样子，Gemini Intelligence就会生成相近的设计。"
+                "x": "我本来就用Gmail、Google Calendar和Home Assistant管理一天中的不同事务，于是把它们接入了我在Mac上运行的本地模型。模型在我的电脑上运行，不过Gmail和Calendar仍需依赖Google的在线服务。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AI生成的表盘（AI-generated）"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AI生成的表盘（AI-generated）"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "配置了filesystem服务器的LM Studio mcp.json"
               },
               {
                 "t": "p",
-                "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
+                "x": "LM Studio支持MCP（Model Context Protocol），这是AI应用访问其他服务工具的一种标准方式。Google Workspace MCP等社区项目覆盖了Gmail和Calendar；Home Assistant则有自己的MCP Server集成。此外还需要一个能可靠使用工具的模型。"
+              },
+              {
+                "t": "p",
+                "x": "两个应用接入后，模型可以调取邮件往来，并在查看我的日程后提出会议时间。回复和日历条目我都保留为草稿再审核——需要我纠正的情况不多，但我不会让它盲目运行。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pixel Watch 4 recibe el\ngenerador de esferas con IA",
-          "body": "Una actualización lleva al Pixel Watch 4 el creador de esferas con IA de Google, antes exclusivo del Pixel Watch 5.",
-          "mini_headline": "Esferas con IA en el Pixel Watch 4",
+          "headline": "Un LLM local conectado a Gmail,\nCalendar y Home Assistant",
+          "body": "Conectar un LLM local a Gmail, Calendar y Home Assistant fue lo que por fin lo volvió productivo.",
+          "mini_headline": "Un LLM local, útil con Gmail",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "Creación de una esfera personalizada con IA"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "OpenCode ejecutando un modelo local con MCP"
               },
               {
                 "t": "p",
-                "x": "Una de las funciones discretamente potentes del Pixel Watch 5 ha llegado al Pixel Watch 4. El generador de esferas con IA (AI watch face generator) se está desplegando ahora en los modelos Pixel Watch 4."
-              },
-              {
-                "t": "p",
-                "x": "El Pixel Watch 5 fue más un refinamiento que una revolución, y la mayoría de sus mejoras internas se centraron en el rendimiento de la IA. Un buen subproducto de ese esfuerzo es el generador de esferas con IA, una herramienta que facilita un poco la creación de esferas personalizadas."
-              },
-              {
-                "t": "p",
-                "x": "Según usuarios de Reddit, la actualización llega en la versión 4.2.12.989940186 e incluye también las esferas de serie del Pixel Watch 5 —Weave, Modular, Reveal y Chronograph— además de la esfera especial de Steph Curry."
-              },
-              {
-                "t": "p",
-                "x": "El generador es sencillo: al crear un nuevo diseño, se abre la sección de instrucciones en la app Pixel Watch, se describe lo que se quiere en lugar de elegir de una galería de plantillas, y Gemini Intelligence debería proponer algo parecido."
+                "x": "Ya uso Gmail, Google Calendar y Home Assistant para gestionar distintas partes de mi día, así que los conecté a los modelos locales que ejecuto en mi Mac. El modelo funciona en mi equipo, aunque Gmail y Calendar siguen necesitando los servicios en línea de Google."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "Esferas generadas con IA (AI-generated)"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "Esferas generadas con IA (AI-generated)"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "mcp.json de LM Studio con servidor filesystem"
               },
               {
                 "t": "p",
-                "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
+                "x": "LM Studio admite MCP (Model Context Protocol), una forma estándar de que una aplicación de AI acceda a herramientas de otro servicio. Proyectos de la comunidad como Google Workspace MCP cubren Gmail y Calendar; Home Assistant tiene su propia integración MCP Server. También se necesita un modelo capaz de usar herramientas de forma fiable."
+              },
+              {
+                "t": "p",
+                "x": "Con ambas aplicaciones conectadas, el modelo puede recuperar un hilo de correo y revisar mis citas antes de proponer una hora de reunión. Dejo las respuestas y las entradas del calendario como borradores para revisarlas: no tuve que corregirlo a menudo, pero no lo dejaría funcionar a ciegas."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "Exponer mi script de la hora de dormir me permite pedirle que “apague la casa”, y puede manejar órdenes con excepciones como “Apaga las luces, pero deja encendida la luz del baño”. Las peticiones simples siguen yendo a los comandos nativos de Home Assistant. Los LLMs locales son más útiles fuera de una ventana de chat."
               }
             ]
           }
@@ -283,181 +259,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pixel Watch 4에\nAI 워치페이스 생성기",
-          "body": "Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
-          "mini_headline": "Pixel Watch 4에 AI 워치 페이스",
+          "headline": "로컬 LLM을 Gmail과\n스마트홈에 연결하다",
+          "body": "로컬 LLM은 Gmail·Home Assistant와 연결하자 쓸모가 생겼다.",
+          "mini_headline": "로컬 LLM, Gmail로 쓸모를 찾다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "AI로 나만의 워치 페이스 만들기"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "MCP로 로컬 모델을 실행하는 OpenCode"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5의 조용하지만 강력한 기능 하나가 Pixel Watch 4에 들어왔다. AI 워치 페이스 생성기가 현재 Pixel Watch 4 모델에 순차 배포되고 있다."
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5는 대대적인 변화보다 다듬기에 가까웠고, 내부 개선 대부분은 AI 성능에 집중됐다. 그 노력이 낳은 좋은 부산물이 AI 워치 페이스 생성기로, 맞춤형 워치 페이스를 조금 더 쉽게 만들어 주는 도구다."
-              },
-              {
-                "t": "p",
-                "x": "Reddit 사용자들에 따르면 이번 업데이트는 4.2.12.989940186 버전에 담겼으며, Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 특별 제작된 Steph Curry 다이얼도 함께 들어 있다."
-              },
-              {
-                "t": "p",
-                "x": "사용법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 열고, 템플릿 갤러리에서 고르는 대신 원하는 모습을 설명하면 Gemini Intelligence가 그에 가까운 결과를 내놓는다."
+                "x": "나는 이미 Gmail, Google Calendar, Home Assistant로 하루의 여러 부분을 관리하고 있어서, 이들을 Mac에서 돌리는 로컬 모델에 연결했다. 모델은 내 컴퓨터에서 돌지만, Gmail과 Calendar는 여전히 Google의 온라인 서비스가 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AI가 생성한 워치 페이스(AI-generated)"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AI가 생성한 워치 페이스(AI-generated)"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "filesystem 서버를 설정한 LM Studio의 mcp.json"
               },
               {
                 "t": "p",
-                "x": "한계는 있지만, Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 업데이트가 현재 배포 중이어서 기기에 나타나기까지 시간이 걸릴 수 있다."
+                "x": "LM Studio는 AI 앱이 다른 서비스의 도구에 접근하는 표준 방식인 MCP(Model Context Protocol)를 지원한다. Google Workspace MCP 같은 커뮤니티 프로젝트가 Gmail과 Calendar를 다루고, Home Assistant에는 자체 MCP Server 통합 기능이 있다. 도구를 안정적으로 쓸 수 있는 모델도 필요하다."
+              },
+              {
+                "t": "p",
+                "x": "두 앱을 연결하면 모델이 이메일 스레드를 불러오고 내 일정을 확인한 뒤 회의 시간을 제안한다. 답장과 일정 항목은 검토용 초안으로 남겨 둔다. 고칠 일은 많지 않았지만, 무작정 맡겨 두지는 않을 것이다."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "취침 스크립트를 노출해 두면 “집을 꺼 줘”라고 요청할 수 있고, “조명을 끄되 욕실 조명은 켜 둬” 같은 예외가 붙은 명령도 처리한다. 단순한 요청은 여전히 Home Assistant의 기본 명령이 맡는다. 로컬 LLMs는 채팅창 밖에서 더 쓸모 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pixel Watch 4に\nAI文字盤生成機能が到来",
-          "body": "Pixel Watch 5専用のAI文字盤生成が、更新でPixel Watch 4に届く。",
-          "mini_headline": "AI文字盤がPixel Watch 4に",
+          "headline": "ローカルLLMを\nGmailとスマートホームへ",
+          "body": "ローカルLLMはGmailやHome Assistantとつないで初めて役に立った。",
+          "mini_headline": "ローカルLLM、Gmailで実用に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "AIでカスタム文字盤を作成"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "MCPでローカルモデルを動かすOpenCode"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5の地味ながら強力な機能の一つが、Pixel Watch 4にもやってきた。AI文字盤ジェネレーターが現在、Pixel Watch 4の各モデルに順次配信されている。"
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5は刷新というより熟成のモデルで、内部の強化の大半はAI性能に向けられていた。その成果の一つがAI文字盤ジェネレーターであり、カスタム文字盤の作成を少し手軽にするツールだ。"
-              },
-              {
-                "t": "p",
-                "x": "Redditのユーザーによると、このアップデートはバージョン4.2.12.989940186に含まれ、Pixel Watch 5の標準文字盤であるWeave、Modular、Reveal、Chronographに加え、特別仕様のSteph Curry文字盤も収録している。"
-              },
-              {
-                "t": "p",
-                "x": "使い方は簡単だ。Pixel Watchアプリで新しいデザインを作る際にプロンプト欄を開き、テンプレートギャラリーから選ぶ代わりに希望を説明すれば、Gemini Intelligenceがそれに近いものを作り出す。"
+                "x": "私はすでにGmail、Google Calendar、Home Assistantで一日のさまざまな場面を管理しているので、Macで動かしているローカルモデルにそれらを接続した。モデルは自分のコンピューターで動くが、GmailとCalendarは依然としてGoogleのオンラインサービスを必要とする。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AIが生成した文字盤（AI-generated）"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AIが生成した文字盤（AI-generated）"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "filesystemサーバーを設定したLM Studioのmcp.json"
               },
               {
                 "t": "p",
-                "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
+                "x": "LM Studioは、AIアプリが別のサービスのツールにアクセスするための標準的な仕組みであるMCP(Model Context Protocol)に対応している。Google Workspace MCPなどのコミュニティプロジェクトがGmailとCalendarをカバーし、Home Assistantには独自のMCP Server統合がある。ツールを確実に使えるモデルも必要だ。"
+              },
+              {
+                "t": "p",
+                "x": "両方のアプリを接続すると、モデルはメールのスレッドを取得し、予定を確認したうえで会議の時間を提案できる。返信やカレンダーの予定は確認用の下書きとして残している。修正が必要になることは多くなかったが、無条件に任せるつもりはない。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "就寝用スクリプトを公開しておけば「家をシャットダウンして」と頼めるし、「電気を消して、でも浴室の電気はつけたままにして」のような例外付きの指示も処理できる。単純な依頼は引き続きHome Assistantのネイティブコマンドが処理する。ローカルLLMsはチャット画面の外でこそ役に立つ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pixel Watch 4\n迎来AI表盘生成器",
-          "body": "曾为Pixel Watch 5独占的AI表盘生成器，经更新登陆Pixel Watch 4。",
-          "mini_headline": "AI表盘登陆Pixel Watch 4",
+          "headline": "本地LLM接入\nGmail与智能家居",
+          "body": "本地LLM接入Gmail和Home Assistant后，才真正派上用场。",
+          "mini_headline": "本地LLM接入Gmail才好用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "用AI创建自定义表盘"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "OpenCode通过MCP运行本地模型"
               },
               {
                 "t": "p",
-                "x": "Pixel Watch 5一项低调却强大的功能已登陆Pixel Watch 4。AI表盘生成器目前正向Pixel Watch 4各机型推送。"
-              },
-              {
-                "t": "p",
-                "x": "Pixel Watch 5更像是一次打磨而非颠覆，其内部改进大多集中在AI性能上。这番投入带来的一个好成果就是AI表盘生成器，它让创建自定义表盘变得更轻松一些。"
-              },
-              {
-                "t": "p",
-                "x": "据Reddit用户反映，此次更新的版本号为4.2.12.989940186，还包含Pixel Watch 5的原生表盘Weave、Modular、Reveal和Chronograph，以及专属的Steph Curry表盘。"
-              },
-              {
-                "t": "p",
-                "x": "生成器用法简单：在Pixel Watch应用中创建新表盘时打开提示词区域，不必从模板库中挑选，只需描述想要的样子，Gemini Intelligence就会生成相近的设计。"
+                "x": "我本来就用Gmail、Google Calendar和Home Assistant管理一天中的不同事务，于是把它们接入了我在Mac上运行的本地模型。模型在我的电脑上运行，不过Gmail和Calendar仍需依赖Google的在线服务。"
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "AI生成的表盘（AI-generated）"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "AI生成的表盘（AI-generated）"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "配置了filesystem服务器的LM Studio mcp.json"
               },
               {
                 "t": "p",
-                "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
+                "x": "LM Studio支持MCP（Model Context Protocol），这是AI应用访问其他服务工具的一种标准方式。Google Workspace MCP等社区项目覆盖了Gmail和Calendar；Home Assistant则有自己的MCP Server集成。此外还需要一个能可靠使用工具的模型。"
+              },
+              {
+                "t": "p",
+                "x": "两个应用接入后，模型可以调取邮件往来，并在查看我的日程后提出会议时间。回复和日历条目我都保留为草稿再审核——需要我纠正的情况不多，但我不会让它盲目运行。"
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "开放睡前脚本后，我可以让它“关闭整个房子”，它也能处理带例外的指令，比如“把灯关掉，但浴室的灯留着”。简单的请求仍交给Home Assistant的原生命令。本地LLMs在聊天框之外更有用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El Pixel Watch 4 recibe el\ngenerador de esferas con IA",
-          "body": "Una actualización lleva al Pixel Watch 4 el creador de esferas con IA de Google, antes exclusivo del Pixel Watch 5.",
-          "mini_headline": "Esferas con IA en el Pixel Watch 4",
+          "headline": "Un LLM local conectado a Gmail,\nCalendar y Home Assistant",
+          "body": "Conectar un LLM local a Gmail, Calendar y Home Assistant fue lo que por fin lo volvió productivo.",
+          "mini_headline": "Un LLM local, útil con Gmail",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
-                "cap": "Creación de una esfera personalizada con IA"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+                "cap": "OpenCode ejecutando un modelo local con MCP"
               },
               {
                 "t": "p",
-                "x": "Una de las funciones discretamente potentes del Pixel Watch 5 ha llegado al Pixel Watch 4. El generador de esferas con IA (AI watch face generator) se está desplegando ahora en los modelos Pixel Watch 4."
-              },
-              {
-                "t": "p",
-                "x": "El Pixel Watch 5 fue más un refinamiento que una revolución, y la mayoría de sus mejoras internas se centraron en el rendimiento de la IA. Un buen subproducto de ese esfuerzo es el generador de esferas con IA, una herramienta que facilita un poco la creación de esferas personalizadas."
-              },
-              {
-                "t": "p",
-                "x": "Según usuarios de Reddit, la actualización llega en la versión 4.2.12.989940186 e incluye también las esferas de serie del Pixel Watch 5 —Weave, Modular, Reveal y Chronograph— además de la esfera especial de Steph Curry."
-              },
-              {
-                "t": "p",
-                "x": "El generador es sencillo: al crear un nuevo diseño, se abre la sección de instrucciones en la app Pixel Watch, se describe lo que se quiere en lugar de elegir de una galería de plantillas, y Gemini Intelligence debería proponer algo parecido."
+                "x": "Ya uso Gmail, Google Calendar y Home Assistant para gestionar distintas partes de mi día, así que los conecté a los modelos locales que ejecuto en mi Mac. El modelo funciona en mi equipo, aunque Gmail y Calendar siguen necesitando los servicios en línea de Google."
               },
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
-                "cap": "Esferas generadas con IA (AI-generated)"
-              },
-              {
-                "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
-                "cap": "Esferas generadas con IA (AI-generated)"
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/07/lm-studio-mcp-json-with-filesystem-server-pointing-at-pdfs-folder.png?q=49&fit=crop&w=825&dpr=2",
+                "cap": "mcp.json de LM Studio con servidor filesystem"
               },
               {
                 "t": "p",
-                "x": "Tiene sus limitaciones, pero es una gran herramienta que Google apenas promocionó con el Pixel Watch 5. La actualización se está desplegando, así que puede tardar en aparecer."
+                "x": "LM Studio admite MCP (Model Context Protocol), una forma estándar de que una aplicación de AI acceda a herramientas de otro servicio. Proyectos de la comunidad como Google Workspace MCP cubren Gmail y Calendar; Home Assistant tiene su propia integración MCP Server. También se necesita un modelo capaz de usar herramientas de forma fiable."
+              },
+              {
+                "t": "p",
+                "x": "Con ambas aplicaciones conectadas, el modelo puede recuperar un hilo de correo y revisar mis citas antes de proponer una hora de reunión. Dejo las respuestas y las entradas del calendario como borradores para revisarlas: no tuve que corregirlo a menudo, pero no lo dejaría funcionar a ciegas."
+              },
+              {
+                "t": "img",
+                "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/claude-mcp-hero.jpg?q=49&fit=crop&w=825&dpr=2",
+                "cap": "Home Assistant MCP"
+              },
+              {
+                "t": "p",
+                "x": "Exponer mi script de la hora de dormir me permite pedirle que “apague la casa”, y puede manejar órdenes con excepciones como “Apaga las luces, pero deja encendida la luz del baño”. Las peticiones simples siguen yendo a los comandos nativos de Home Assistant. Los LLMs locales son más útiles fuera de una ventana de chat."
               }
             ]
           }
@@ -465,15 +425,15 @@
       }
     },
     {
-      "id": "gadgets-rtx-spark-preorders",
+      "id": "siri-personal-index-limits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
-      "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매를 시작했다.",
-      "mini_headline": "RTX Spark 예약 판매 시작",
+      "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
+      "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
+      "mini_headline": "새 Siri의 데이터 색인 제한하기",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -481,239 +441,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-            "cap": "Nvidia RTX Spark 노트북"
+            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+            "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "데이터를 직접 쥐고 비용을 미리 가늠하면서 클라우드 서비스에 묶이고 싶지 않은 소규모 기업이라면, AI를 로컬에서 돌리는 쪽에 점점 끌린다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 들고 다니는 기기 하나에 담았다."
-          },
-          {
-            "t": "p",
-            "x": "예약 주문은 지금 받고 있고 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터다. Microsoft, Asus, Lenovo, HP, Dell이 제품을 내놓는다."
+            "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Siri AI 밑에는 Apple이 Google과 손잡고 훈련한 대규모 언어 모델이 있고, 이 어시스턴트가 제대로 돌아가려면 사용자 데이터가 꽤 많이 필요하다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-            "cap": "Microsoft Surface Laptop Ultra"
+            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+            "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
           },
           {
             "t": "p",
-            "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 싸게 들어갈 수 있는 제품 가운데 하나로, 통합 메모리를 최대 128GB까지 넣을 수 있다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린에 메모리가 최대 128GB이고, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 같이 하는 팀에 맞는다."
+            "x": "Siri는 App Intents라는 프레임워크로 Notes와 Messages 같은 Apple 앱은 물론, 개발자가 지원하는 서드파티 앱까지 검색한다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 함께 쓴다. Apple은 PCC로 보낸 데이터를 저장하지 않고 들여다볼 수도 없다고 밝혔다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-            "cap": "HP OmniBook Ultra 16"
+            "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+            "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
           },
           {
             "t": "p",
-            "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 묶었다. 하위 칩은 18-core CPU와 5,120-core GPU다. 로컬 AI에서 메모리가 중요한 건 모델이 클수록 메모리를 훨씬 많이 먹기 때문이다. 물론 모델 크기와 정밀도, 소프트웨어 호환성도 성능을 좌우한다."
+            "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 직접 요청해도 Siri가 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽고, 그 스크린숏이 PCC로 넘어갈 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nvidia RTX Spark laptops\nopen for pre-orders from $2,599",
-          "body": "Nvidia's RTX Spark laptops are now on pre-order from $2,599, offering Blackwell machines built to run AI locally.",
-          "mini_headline": "RTX Spark pre-orders open",
+          "headline": "Limiting how much personal data\nthe new Siri can index",
+          "body": "Apple's new Siri can index more of your personal data, and Engadget shows how to restrict what it can access.",
+          "mini_headline": "Limiting the new Siri's data index",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Spark laptops"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI is available on iOS, iPadOS, watchOS and macOS."
               },
               {
                 "t": "p",
-                "x": "Running AI locally is increasingly attractive for small businesses that want control over their data, predictable costs and freedom from cloud services. Nvidia's RTX Spark laptops combine powerful processors, Blackwell graphics and large unified memory in portable machines."
-              },
-              {
-                "t": "p",
-                "x": "Pre-orders are now open, with the first models shipping October 16. Prices start at $2,599.99, with models from Microsoft, Asus, Lenovo, HP and Dell."
+                "x": "With iOS 27, Apple has begun rolling out its long-delayed Siri redesign. Apple partnered with Google to train the large language models behind Siri AI, and the assistant needs a great deal of your data to work at its best."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents allows Siri and other Apple Intelligence features to access data from your apps."
               },
               {
                 "t": "p",
-                "x": "Microsoft's 15-inch Surface Laptop Ultra is one of the least expensive ways in, with up to 128GB of unified memory. HP's 16-inch OmniBook Ultra 16 offers a 3K OLED touchscreen and up to 128GB; its 48GB-plus configurations get the full 20-core Grace CPU and 6,144-core Blackwell GPU. The Asus ProArt P16 suits teams mixing AI development with creative work, with up to 128GB of memory and 2TB of storage."
+                "x": "A framework called App Intents lets Siri search your Apple apps, including Notes and Messages, plus third-party apps whose developers support it. Siri AI combines on-device models with Private Cloud Compute; Apple says it doesn't store data sent to PCC and can't see it."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "How to prevent Siri AI from surfacing data from your apps."
               },
               {
                 "t": "p",
-                "x": "The RTX Spark platform pairs a Grace CPU with a Blackwell GPU and 24GB to 128GB of unified memory; the lower-end chip has an 18-core CPU and 5,120-core GPU. Memory matters for local AI since larger models need far more of it, though model size, precision and software compatibility also affect performance."
+                "x": "To block an app, go to Settings > Apps > [app] > Search and toggle off Show Content in Search; Siri then won't pull information from it even if asked directly. On-screen awareness can still read screenshots, which might be sent to PCC."
+              },
+              {
+                "t": "p",
+                "x": "To keep Siri recordings out of training, disable Improve Siri & Dictation under Privacy & Security > Analytics & Improvements. You can also revert to Siri Classic via Screen Time > Content & Privacy Restrictions, or turn Siri off entirely."
               }
             ]
           }
         },
         "ko": {
-          "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
-          "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매를 시작했다.",
-          "mini_headline": "RTX Spark 예약 판매 시작",
+          "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
+          "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
+          "mini_headline": "새 Siri의 데이터 색인 제한하기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Spark 노트북"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "데이터를 직접 쥐고 비용을 미리 가늠하면서 클라우드 서비스에 묶이고 싶지 않은 소규모 기업이라면, AI를 로컬에서 돌리는 쪽에 점점 끌린다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 들고 다니는 기기 하나에 담았다."
-              },
-              {
-                "t": "p",
-                "x": "예약 주문은 지금 받고 있고 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터다. Microsoft, Asus, Lenovo, HP, Dell이 제품을 내놓는다."
+                "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Siri AI 밑에는 Apple이 Google과 손잡고 훈련한 대규모 언어 모델이 있고, 이 어시스턴트가 제대로 돌아가려면 사용자 데이터가 꽤 많이 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
               },
               {
                 "t": "p",
-                "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 싸게 들어갈 수 있는 제품 가운데 하나로, 통합 메모리를 최대 128GB까지 넣을 수 있다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린에 메모리가 최대 128GB이고, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 같이 하는 팀에 맞는다."
+                "x": "Siri는 App Intents라는 프레임워크로 Notes와 Messages 같은 Apple 앱은 물론, 개발자가 지원하는 서드파티 앱까지 검색한다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 함께 쓴다. Apple은 PCC로 보낸 데이터를 저장하지 않고 들여다볼 수도 없다고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
               },
               {
                 "t": "p",
-                "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 묶었다. 하위 칩은 18-core CPU와 5,120-core GPU다. 로컬 AI에서 메모리가 중요한 건 모델이 클수록 메모리를 훨씬 많이 먹기 때문이다. 물론 모델 크기와 정밀도, 소프트웨어 호환성도 성능을 좌우한다."
+                "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 직접 요청해도 Siri가 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽고, 그 스크린숏이 PCC로 넘어갈 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX Sparkノート\n$2,599から予約開始",
-          "body": "NvidiaのRTX Sparkノートが$2,599から予約受付を開始した。",
-          "mini_headline": "RTX Spark 予約開始",
+          "headline": "新しいSiriが索引する\n個人データを絞る",
+          "body": "新しいSiriは個人データをより多く索引し、Engadgetがその制限方法を紹介した。",
+          "mini_headline": "新Siriのデータ索引を制限する",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Sparkノート"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AIはiOS、iPadOS、watchOS、macOSで利用できる。"
               },
               {
                 "t": "p",
-                "x": "データの管理権を握り、コストを予測しやすく、クラウドサービスに縛られたくない中小企業にとって、AIをローカルで動かす選択肢は魅力を増している。NvidiaのRTX Sparkノートは、強力なプロセッサー、Blackwellグラフィックス、大容量のユニファイドメモリを持ち運べる筐体に収めた。"
-              },
-              {
-                "t": "p",
-                "x": "予約受付はすでに始まっており、最初のモデルは10月16日に出荷される。価格は$2,599.99からで、Microsoft、Asus、Lenovo、HP、Dellがモデルを用意する。"
+                "x": "AppleはiOS 27で、長らく延期されていたSiriの刷新を展開し始めた。AppleはGoogleと提携してSiri AIを支える大規模言語モデルを訓練しており、このアシスタントが本領を発揮するには大量の個人データが必要になる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intentsにより、Siriやその他のApple Intelligence機能がアプリのデータにアクセスできる。"
               },
               {
                 "t": "p",
-                "x": "Microsoftの15-inch Surface Laptop Ultraは最も手頃な選択肢の一つで、ユニファイドメモリは最大 128GB まで選べる。HPの16-inch OmniBook Ultra 16は3K OLED タッチスクリーンと最大 128GB のメモリを備え、48GB-plus の構成ではフル仕様の20-core Grace CPUと6,144-core Blackwell GPUを搭載する。Asus ProArt P16は最大 128GB のメモリと 2TB のストレージを備え、AI開発とクリエイティブ作業を両立するチームに向く。"
+                "x": "App Intentsというフレームワークによって、SiriはNotesやMessagesを含むAppleのアプリに加え、開発者が対応したサードパーティ製アプリも検索できる。Siri AIはオンデバイスモデルとPrivate Cloud Computeを組み合わせており、AppleはPCCに送られたデータを保存せず、閲覧もできないとしている。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Siri AIがアプリのデータを表示しないようにする方法。"
               },
               {
                 "t": "p",
-                "x": "RTX SparkプラットフォームはGrace CPUとBlackwell GPUに、24GB〜128GB のユニファイドメモリを組み合わせる。下位チップは18-core CPUと5,120-core GPUを備える。大きなモデルほど多くのメモリを必要とするため、ローカルAIではメモリが重要になるが、モデルのサイズや精度、ソフトウェアの互換性も性能を左右する。"
+                "x": "アプリをブロックするには、Settings > Apps > [app] > Searchに進み、Show Content in Searchをオフにする。するとSiriは直接頼まれてもそのアプリから情報を引き出さない。ただし画面認識機能は引き続きスクリーンショットを読み取ることができ、それがPCCに送られる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "Siriの録音を学習に使わせないためには、Privacy & Security > Analytics & ImprovementsでImprove Siri & Dictationを無効にする。Screen Time > Content & Privacy RestrictionsからSiri Classicに戻すことも、Siriを完全にオフにすることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Spark笔记本\n$2,599起开启预订",
-          "body": "Nvidia RTX Spark笔记本开启预订，售价$2,599起，可在本地运行AI。",
-          "mini_headline": "RTX Spark开启预订",
+          "headline": "限制新版Siri\n可索引的个人数据",
+          "body": "Apple新版Siri能索引更多个人数据，Engadget介绍了限制其访问范围的方法。",
+          "mini_headline": "限制新版Siri的数据索引",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Spark笔记本"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI可在iOS、iPadOS、watchOS和macOS上使用。"
               },
               {
                 "t": "p",
-                "x": "对于希望掌控数据、成本可预期并摆脱云服务束缚的小型企业而言，在本地运行AI正变得越来越有吸引力。Nvidia的RTX Spark笔记本将强大的处理器、Blackwell图形和大容量统一内存集成在便携设备中。"
-              },
-              {
-                "t": "p",
-                "x": "预订现已开启，首批机型将于10月16日发货。起售价为$2,599.99，Microsoft、Asus、Lenovo、HP和Dell均推出了相应机型。"
+                "x": "随着iOS 27推出，Apple开始推送延宕已久的Siri改版。Apple与Google合作训练支撑Siri AI的大语言模型，而这一助手要发挥最佳效果，需要大量用户数据。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents让Siri及其他Apple Intelligence功能可以访问你应用中的数据。"
               },
               {
                 "t": "p",
-                "x": "Microsoft的15-inch Surface Laptop Ultra是入门成本最低的选择之一，最高配备 128GB 统一内存。HP的16-inch OmniBook Ultra 16配备3K OLED 触摸屏，内存最高 128GB；48GB-plus 配置可获得完整的20-core Grace CPU和6,144-core Blackwell GPU。Asus ProArt P16最高配备 128GB 内存和 2TB 存储，适合兼顾AI开发与创意工作的团队。"
+                "x": "借助名为App Intents的框架，Siri可以搜索包括Notes和Messages在内的Apple应用，以及开发者提供支持的第三方应用。Siri AI结合了端侧模型与Private Cloud Compute；Apple表示不会存储发送到PCC的数据，也无法查看这些数据。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "如何阻止Siri AI调出你应用中的数据。"
               },
               {
                 "t": "p",
-                "x": "RTX Spark平台将Grace CPU与Blackwell GPU以及 24GB 至 128GB 统一内存相结合；低配芯片为18-core CPU和5,120-core GPU。由于更大的模型需要多得多的内存，内存对本地AI至关重要，不过模型大小、精度和软件兼容性同样会影响性能。"
+                "x": "要屏蔽某个应用，进入Settings > Apps > [app] > Search，关闭Show Content in Search；之后即使直接要求，Siri也不会从该应用提取信息。不过屏幕感知功能仍可读取截图，这些截图可能会被发送到PCC。"
+              },
+              {
+                "t": "p",
+                "x": "若不想让Siri录音被用于训练，可在Privacy & Security > Analytics & Improvements中关闭Improve Siri & Dictation。也可以通过Screen Time > Content & Privacy Restrictions恢复为Siri Classic，或彻底关闭Siri。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los portátiles Nvidia RTX Spark\nabren reservas desde $2,599",
-          "body": "Los portátiles RTX Spark de Nvidia pueden reservarse desde $2,599, con equipos Blackwell para ejecutar IA en local.",
-          "mini_headline": "Abren las reservas de RTX Spark",
+          "headline": "Cómo limitar los datos\nque puede indexar el nuevo Siri",
+          "body": "El nuevo Siri de Apple puede indexar más datos personales, y Engadget explica cómo restringir a qué puede acceder.",
+          "mini_headline": "Limitar el índice de datos de Siri",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Portátiles Nvidia RTX Spark"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI está disponible en iOS, iPadOS, watchOS y macOS."
               },
               {
                 "t": "p",
-                "x": "Ejecutar IA (AI) en local resulta cada vez más atractivo para las pequeñas empresas que quieren controlar sus datos, tener costes previsibles y no depender de servicios en la nube. Los portátiles RTX Spark de Nvidia combinan procesadores potentes, gráficos Blackwell y una gran memoria unificada en equipos portátiles."
-              },
-              {
-                "t": "p",
-                "x": "Las reservas ya están abiertas y los primeros modelos se envían el 16 de octubre. Los precios parten de $2,599.99, con modelos de Microsoft, Asus, Lenovo, HP y Dell."
+                "x": "Con iOS 27, Apple ha comenzado a desplegar el rediseño de Siri, retrasado durante mucho tiempo. Apple se asoció con Google para entrenar los grandes modelos de lenguaje en los que se basa Siri AI, y el asistente necesita una gran cantidad de tus datos para funcionar de la mejor manera."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents permite que Siri y otras funciones de Apple Intelligence accedan a los datos de tus apps."
               },
               {
                 "t": "p",
-                "x": "El Surface Laptop Ultra de 15 pulgadas (15-inch) de Microsoft es una de las opciones de entrada más económicas, con hasta 128GB de memoria unificada. El OmniBook Ultra 16 de HP, de 16 pulgadas (16-inch), ofrece una pantalla táctil 3K OLED y hasta 128GB; sus configuraciones de 48GB o más (48GB-plus) incorporan la Grace CPU completa de 20 núcleos (20-core) y la Blackwell GPU de 6,144 núcleos (6,144-core). El Asus ProArt P16 se adapta a equipos que combinan desarrollo de IA y trabajo creativo, con hasta 128GB de memoria y 2TB de almacenamiento."
+                "x": "Un framework llamado App Intents permite a Siri buscar en tus apps de Apple, como Notes y Messages, además de en apps de terceros cuyos desarrolladores lo admitan. Siri AI combina modelos en el dispositivo con Private Cloud Compute; Apple afirma que no almacena los datos enviados a PCC y que no puede verlos."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Cómo impedir que Siri AI muestre datos de tus apps."
               },
               {
                 "t": "p",
-                "x": "La plataforma RTX Spark combina una Grace CPU con una Blackwell GPU y de 24GB a 128GB de memoria unificada; el chip de gama inferior tiene una CPU de 18 núcleos (18-core) y una GPU de 5,120 núcleos (5,120-core). La memoria es clave para la IA local, ya que los modelos más grandes necesitan mucha más, aunque el tamaño del modelo, la precisión y la compatibilidad del software también influyen en el rendimiento."
+                "x": "Para bloquear una app, ve a Settings > Apps > [app] > Search y desactiva Show Content in Search; así Siri no extraerá información de ella aunque se le pida directamente. El reconocimiento de pantalla aún puede leer capturas, que podrían enviarse a PCC."
+              },
+              {
+                "t": "p",
+                "x": "Para que las grabaciones de Siri no se usen en el entrenamiento, desactiva Improve Siri & Dictation en Privacy & Security > Analytics & Improvements. También puedes volver a Siri Classic desde Screen Time > Content & Privacy Restrictions, o desactivar Siri por completo."
               }
             ]
           }
@@ -721,165 +681,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "RTX Spark 노트북\n$2,599부터 예약 판매",
-          "body": "Nvidia RTX Spark 노트북이 $2,599부터 예약 판매에 들어갔다.",
-          "mini_headline": "RTX Spark 예약 판매 시작",
+          "headline": "새 Siri가 색인하는\n개인 데이터 줄이기",
+          "body": "새 Siri가 개인 데이터를 더 색인하자 Engadget이 제한법을 정리했다.",
+          "mini_headline": "새 Siri의 데이터 색인 제한하기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Spark 노트북"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "데이터를 직접 통제하고, 비용을 예측할 수 있으며, 클라우드 서비스에 묶이지 않으려는 소규모 기업에게 AI를 로컬에서 돌리는 방식이 점점 매력적인 선택이 되고 있다. Nvidia의 RTX Spark 노트북은 강력한 프로세서와 Blackwell 그래픽, 대용량 통합 메모리를 휴대용 기기에 담았다."
-              },
-              {
-                "t": "p",
-                "x": "예약 주문은 현재 열려 있으며 첫 모델은 10월 16일 출하된다. 가격은 $2,599.99부터 시작하고, Microsoft, Asus, Lenovo, HP, Dell이 모델을 내놓는다."
+                "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Apple은 Google과 손잡고 Siri AI를 뒷받침하는 대규모 언어 모델을 훈련했으며, 이 어시스턴트가 제대로 작동하려면 사용자 데이터가 상당히 많이 필요하다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
               },
               {
                 "t": "p",
-                "x": "Microsoft의 15-inch Surface Laptop Ultra는 가장 저렴하게 진입할 수 있는 선택지 중 하나로, 최대 128GB 통합 메모리를 갖춘다. HP의 16-inch OmniBook Ultra 16은 3K OLED 터치스크린과 최대 128GB 메모리를 제공하며, 48GB-plus 구성에는 20-core Grace CPU 전체와 6,144-core Blackwell GPU가 들어간다. Asus ProArt P16은 최대 128GB 메모리와 2TB 저장공간을 갖춰 AI 개발과 크리에이티브 작업을 함께 하는 팀에 어울린다."
+                "x": "App Intents라는 프레임워크를 통해 Siri는 Notes와 Messages를 비롯한 Apple 앱, 그리고 개발자가 지원하는 서드파티 앱을 검색할 수 있다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 결합하며, Apple은 PCC로 보낸 데이터를 저장하지 않고 볼 수도 없다고 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
               },
               {
                 "t": "p",
-                "x": "RTX Spark 플랫폼은 Grace CPU와 Blackwell GPU에 통합 메모리(24GB–128GB)를 결합한다. 하위 칩은 18-core CPU와 5,120-core GPU를 갖췄다. 모델이 클수록 훨씬 많은 메모리가 필요하기 때문에 로컬 AI에서는 메모리가 중요하다. 다만 모델 크기와 정밀도, 소프트웨어 호환성도 성능에 영향을 준다."
+                "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 Siri는 직접 요청을 받아도 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽을 수 있고, 이 스크린숏은 PCC로 전송될 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "RTX Sparkノート\n$2,599から予約開始",
-          "body": "NvidiaのRTX Sparkノートが$2,599から予約受付を開始した。",
-          "mini_headline": "RTX Spark 予約開始",
+          "headline": "新しいSiriが索引する\n個人データを絞る",
+          "body": "新しいSiriは個人データをより多く索引し、Engadgetがその制限方法を紹介した。",
+          "mini_headline": "新Siriのデータ索引を制限する",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Sparkノート"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AIはiOS、iPadOS、watchOS、macOSで利用できる。"
               },
               {
                 "t": "p",
-                "x": "データの管理権を握り、コストを予測しやすく、クラウドサービスに縛られたくない中小企業にとって、AIをローカルで動かす選択肢は魅力を増している。NvidiaのRTX Sparkノートは、強力なプロセッサー、Blackwellグラフィックス、大容量のユニファイドメモリを持ち運べる筐体に収めた。"
-              },
-              {
-                "t": "p",
-                "x": "予約受付はすでに始まっており、最初のモデルは10月16日に出荷される。価格は$2,599.99からで、Microsoft、Asus、Lenovo、HP、Dellがモデルを用意する。"
+                "x": "AppleはiOS 27で、長らく延期されていたSiriの刷新を展開し始めた。AppleはGoogleと提携してSiri AIを支える大規模言語モデルを訓練しており、このアシスタントが本領を発揮するには大量の個人データが必要になる。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intentsにより、Siriやその他のApple Intelligence機能がアプリのデータにアクセスできる。"
               },
               {
                 "t": "p",
-                "x": "Microsoftの15-inch Surface Laptop Ultraは最も手頃な選択肢の一つで、ユニファイドメモリは最大 128GB まで選べる。HPの16-inch OmniBook Ultra 16は3K OLED タッチスクリーンと最大 128GB のメモリを備え、48GB-plus の構成ではフル仕様の20-core Grace CPUと6,144-core Blackwell GPUを搭載する。Asus ProArt P16は最大 128GB のメモリと 2TB のストレージを備え、AI開発とクリエイティブ作業を両立するチームに向く。"
+                "x": "App Intentsというフレームワークによって、SiriはNotesやMessagesを含むAppleのアプリに加え、開発者が対応したサードパーティ製アプリも検索できる。Siri AIはオンデバイスモデルとPrivate Cloud Computeを組み合わせており、AppleはPCCに送られたデータを保存せず、閲覧もできないとしている。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Siri AIがアプリのデータを表示しないようにする方法。"
               },
               {
                 "t": "p",
-                "x": "RTX SparkプラットフォームはGrace CPUとBlackwell GPUに、24GB〜128GB のユニファイドメモリを組み合わせる。下位チップは18-core CPUと5,120-core GPUを備える。大きなモデルほど多くのメモリを必要とするため、ローカルAIではメモリが重要になるが、モデルのサイズや精度、ソフトウェアの互換性も性能を左右する。"
+                "x": "アプリをブロックするには、Settings > Apps > [app] > Searchに進み、Show Content in Searchをオフにする。するとSiriは直接頼まれてもそのアプリから情報を引き出さない。ただし画面認識機能は引き続きスクリーンショットを読み取ることができ、それがPCCに送られる可能性がある。"
+              },
+              {
+                "t": "p",
+                "x": "Siriの録音を学習に使わせないためには、Privacy & Security > Analytics & ImprovementsでImprove Siri & Dictationを無効にする。Screen Time > Content & Privacy RestrictionsからSiri Classicに戻すことも、Siriを完全にオフにすることもできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "RTX Spark笔记本\n$2,599起开启预订",
-          "body": "Nvidia RTX Spark笔记本开启预订，售价$2,599起，可在本地运行AI。",
-          "mini_headline": "RTX Spark开启预订",
+          "headline": "限制新版Siri\n可索引的个人数据",
+          "body": "Apple新版Siri能索引更多个人数据，Engadget介绍了限制其访问范围的方法。",
+          "mini_headline": "限制新版Siri的数据索引",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Nvidia RTX Spark笔记本"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI可在iOS、iPadOS、watchOS和macOS上使用。"
               },
               {
                 "t": "p",
-                "x": "对于希望掌控数据、成本可预期并摆脱云服务束缚的小型企业而言，在本地运行AI正变得越来越有吸引力。Nvidia的RTX Spark笔记本将强大的处理器、Blackwell图形和大容量统一内存集成在便携设备中。"
-              },
-              {
-                "t": "p",
-                "x": "预订现已开启，首批机型将于10月16日发货。起售价为$2,599.99，Microsoft、Asus、Lenovo、HP和Dell均推出了相应机型。"
+                "x": "随着iOS 27推出，Apple开始推送延宕已久的Siri改版。Apple与Google合作训练支撑Siri AI的大语言模型，而这一助手要发挥最佳效果，需要大量用户数据。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents让Siri及其他Apple Intelligence功能可以访问你应用中的数据。"
               },
               {
                 "t": "p",
-                "x": "Microsoft的15-inch Surface Laptop Ultra是入门成本最低的选择之一，最高配备 128GB 统一内存。HP的16-inch OmniBook Ultra 16配备3K OLED 触摸屏，内存最高 128GB；48GB-plus 配置可获得完整的20-core Grace CPU和6,144-core Blackwell GPU。Asus ProArt P16最高配备 128GB 内存和 2TB 存储，适合兼顾AI开发与创意工作的团队。"
+                "x": "借助名为App Intents的框架，Siri可以搜索包括Notes和Messages在内的Apple应用，以及开发者提供支持的第三方应用。Siri AI结合了端侧模型与Private Cloud Compute；Apple表示不会存储发送到PCC的数据，也无法查看这些数据。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "如何阻止Siri AI调出你应用中的数据。"
               },
               {
                 "t": "p",
-                "x": "RTX Spark平台将Grace CPU与Blackwell GPU以及 24GB 至 128GB 统一内存相结合；低配芯片为18-core CPU和5,120-core GPU。由于更大的模型需要多得多的内存，内存对本地AI至关重要，不过模型大小、精度和软件兼容性同样会影响性能。"
+                "x": "要屏蔽某个应用，进入Settings > Apps > [app] > Search，关闭Show Content in Search；之后即使直接要求，Siri也不会从该应用提取信息。不过屏幕感知功能仍可读取截图，这些截图可能会被发送到PCC。"
+              },
+              {
+                "t": "p",
+                "x": "若不想让Siri录音被用于训练，可在Privacy & Security > Analytics & Improvements中关闭Improve Siri & Dictation。也可以通过Screen Time > Content & Privacy Restrictions恢复为Siri Classic，或彻底关闭Siri。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los portátiles Nvidia RTX Spark\nabren reservas desde $2,599",
-          "body": "Los portátiles RTX Spark de Nvidia pueden reservarse desde $2,599, con equipos Blackwell para ejecutar IA en local.",
-          "mini_headline": "Abren las reservas de RTX Spark",
+          "headline": "Cómo limitar los datos\nque puede indexar el nuevo Siri",
+          "body": "El nuevo Siri de Apple puede indexar más datos personales, y Engadget explica cómo restringir a qué puede acceder.",
+          "mini_headline": "Limitar el índice de datos de Siri",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-                "cap": "Portátiles Nvidia RTX Spark"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+                "cap": "Siri AI está disponible en iOS, iPadOS, watchOS y macOS."
               },
               {
                 "t": "p",
-                "x": "Ejecutar IA (AI) en local resulta cada vez más atractivo para las pequeñas empresas que quieren controlar sus datos, tener costes previsibles y no depender de servicios en la nube. Los portátiles RTX Spark de Nvidia combinan procesadores potentes, gráficos Blackwell y una gran memoria unificada en equipos portátiles."
-              },
-              {
-                "t": "p",
-                "x": "Las reservas ya están abiertas y los primeros modelos se envían el 16 de octubre. Los precios parten de $2,599.99, con modelos de Microsoft, Asus, Lenovo, HP y Dell."
+                "x": "Con iOS 27, Apple ha comenzado a desplegar el rediseño de Siri, retrasado durante mucho tiempo. Apple se asoció con Google para entrenar los grandes modelos de lenguaje en los que se basa Siri AI, y el asistente necesita una gran cantidad de tus datos para funcionar de la mejor manera."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7fWzwkvujnGNidX6R4EuVo-1200-80.jpg",
-                "cap": "Microsoft Surface Laptop Ultra"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+                "cap": "App Intents permite que Siri y otras funciones de Apple Intelligence accedan a los datos de tus apps."
               },
               {
                 "t": "p",
-                "x": "El Surface Laptop Ultra de 15 pulgadas (15-inch) de Microsoft es una de las opciones de entrada más económicas, con hasta 128GB de memoria unificada. El OmniBook Ultra 16 de HP, de 16 pulgadas (16-inch), ofrece una pantalla táctil 3K OLED y hasta 128GB; sus configuraciones de 48GB o más (48GB-plus) incorporan la Grace CPU completa de 20 núcleos (20-core) y la Blackwell GPU de 6,144 núcleos (6,144-core). El Asus ProArt P16 se adapta a equipos que combinan desarrollo de IA y trabajo creativo, con hasta 128GB de memoria y 2TB de almacenamiento."
+                "x": "Un framework llamado App Intents permite a Siri buscar en tus apps de Apple, como Notes y Messages, además de en apps de terceros cuyos desarrolladores lo admitan. Siri AI combina modelos en el dispositivo con Private Cloud Compute; Apple afirma que no almacena los datos enviados a PCC y que no puede verlos."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XnxhLYmNmg4aYBdHncr5Dm-1200-80.jpg",
-                "cap": "HP OmniBook Ultra 16"
+                "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+                "cap": "Cómo impedir que Siri AI muestre datos de tus apps."
               },
               {
                 "t": "p",
-                "x": "La plataforma RTX Spark combina una Grace CPU con una Blackwell GPU y de 24GB a 128GB de memoria unificada; el chip de gama inferior tiene una CPU de 18 núcleos (18-core) y una GPU de 5,120 núcleos (5,120-core). La memoria es clave para la IA local, ya que los modelos más grandes necesitan mucha más, aunque el tamaño del modelo, la precisión y la compatibilidad del software también influyen en el rendimiento."
+                "x": "Para bloquear una app, ve a Settings > Apps > [app] > Search y desactiva Show Content in Search; así Siri no extraerá información de ella aunque se le pida directamente. El reconocimiento de pantalla aún puede leer capturas, que podrían enviarse a PCC."
+              },
+              {
+                "t": "p",
+                "x": "Para que las grabaciones de Siri no se usen en el entrenamiento, desactiva Improve Siri & Dictation en Privacy & Security > Analytics & Improvements. También puedes volver a Siri Classic desde Screen Time > Content & Privacy Restrictions, o desactivar Siri por completo."
               }
             ]
           }
@@ -887,285 +847,219 @@
       }
     },
     {
-      "id": "gadgets-rayban-meta-gen3-muse",
+      "id": "verge-ai-bird-feeder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
-      "body": "Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
-      "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
+      "headline": "AI 새 모이통과의\n짧은 로맨스",
+      "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
+      "mini_headline": "AI 새 모이통과의 짧은 로맨스",
       "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+            "cap": "사랑스러운 박새들이 그립다."
+          },
+          {
             "t": "p",
-            "x": "Meta는 이제 스마트 안경 시장의 최대 강자이고, Ray-Ban Meta (Gen 3)는 그 세 번째 세대다. Gizmodo는 엄밀히 따지면 업그레이드는 맞다고 본다. 배터리 수명이 늘고 하드웨어를 조금 손봤지만 이전 모델과 비교해 달라진 점은 많지 않다."
+            "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 그 모습을 4K HDR 영상으로 지켜보면서 Kiwibit 앱에서 새에 대한 설명을 읽었다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
           },
           {
             "t": "p",
-            "x": "가격은 $449부터다. 최대 3K 영상을 찍는 12-megapixel 카메라, AI 기능 구성, 조작 방식, 음질은 바뀌지 않았다. 배터리는 한 시간 늘어 혼합 사용 기준 아홉 시간을 가고, 테스트에서 음악은 여섯 시간가량 재생됐다."
+            "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가린 채 모이통의 Nuisance Animal Alarm도 아랑곳없이 내가 쫓아낼 때까지 15분을 먹어 댔다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래로는 떨어진 먹이를 노린 쥐들이 모여들었다. 나는 모이통을 떼어 벽장에 처박았다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
           },
           {
             "t": "p",
-            "x": "Meta는 여섯 번째 마이크를 달아 배경 소음을 최대 90%까지 줄였다고 한다. 그래도 통화 상대에게는 자동차, 기차, 사람 목소리가 여전히 들렸다. 강점은 공간 음향이다. 9월 소프트웨어 업데이트로 배포됐고 Meta AI 앱에서 켤 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-          },
-          {
-            "t": "p",
-            "x": "안경다리는 1mm 얇아졌고 모든 스타일에 조절식 팁이 들어갔으며 카메라는 36% 작아졌다. 그만큼 이 안경을 알아보기가 어려워져 사생활 우려가 커지는데도 카메라 셔터는 여전히 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Meta의 최신 AI 모델 Muse는 아직 어색한 구석이 있어도 AI 경험을 크게 끌어올렸다. 다만 이 소프트웨어 업그레이드는 Gen 3에만 오는 게 아니다. 그래서 리뷰어는 이전 세대 사용자가 서둘러 갈아탈 이유가 거의 없다고 본다."
+            "x": "Kiwibit에 화가 나지는 않았다. 문제가 생기기 전까지는 쓰는 재미가 있는 모이통이었다. 스마트 새 모이통이 끌린다면 AI 없는 단순하고 저렴한 제품부터 써 보길 권한다. 해로운 동물이 꼬인다는 이유만으로 쓰던 모이통을 반품할 수는 없으니까."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ray-Ban Meta Gen 3 is a small\nupgrade; Muse AI is the big one",
-          "body": "The $449 Ray-Ban Meta Gen 3 keeps its camera and features, but Meta's new Muse model upgrades the assistant.",
-          "mini_headline": "Muse lifts Ray-Ban Meta Gen 3",
+          "headline": "A brief romance with\nan AI bird feeder",
+          "body": "A Verge writer's brief fling with an AI bird feeder showed it draws pigeons and mice along with the tits.",
+          "mini_headline": "AI bird feeder, brief romance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "I miss my sweet tits."
+              },
+              {
                 "t": "p",
-                "x": "Meta is now the biggest force in smart glasses, and the Ray-Ban Meta (Gen 3) is its third generation. Gizmodo calls it technically an upgrade: better battery life and some hardware tweaks, but not much else over the last model."
+                "x": "Dozens of tiny, colorful birds came to my garden a few weeks after I mounted a $269 Kiwibit Bird Feeder 2 Pro. “Looks like Great Tit!” read the first AI-driven alert sent to my phone. Hundreds of tits came for the husked sunflower seeds, and I admired them in 4K HDR video and read about them in the Kiwibit app."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Starting at $449, it keeps the same 12-megapixel camera with up to 3K video, the same AI feature set, controls and audio quality. Battery life grows by an hour to nine hours of mixed use; in testing, music playback stretched to about six hours."
+                "x": "Then came “Looks like Common Wood Pigeon!” The pigeon blocked the lens and ignored the feeder's Nuisance Animal Alarm, eating for 15 minutes until I shooed it away. Pigeons moved in, perching for 30 minutes or more, and mice arrived below to feast on the spoils. I dismounted the feeder and shoved it into a closet."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta added a sixth microphone to cut background noise by up to 90%, but people on calls still heard cars, trains and voices. Spatial audio, rolled out in a September software update and enabled in the Meta AI app, is a highlight."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The arms are 1mm thinner, every style gets adjustable temple tips, and the camera is 36% smaller, which makes the glasses harder to spot and sharpens privacy concerns; there is still no camera shutter."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Muse, Meta's newest AI model, is a significant upgrade to the AI experience, though quirks remain. Because the software upgrades aren't exclusive to Gen 3, the reviewer sees little reason for last-generation owners to rush out and buy a pair."
+                "x": "I'm not mad at Kiwibit; the feeder was a joy to use until it wasn't. If you're tempted by a smart bird feeder, start with something simple, inexpensive, and without AI — you can't return a used feeder just because it attracts pests."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
-          "body": "Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
-          "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
+          "headline": "AI 새 모이통과의\n짧은 로맨스",
+          "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
+          "mini_headline": "AI 새 모이통과의 짧은 로맨스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "사랑스러운 박새들이 그립다."
+              },
+              {
                 "t": "p",
-                "x": "Meta는 이제 스마트 안경 시장의 최대 강자이고, Ray-Ban Meta (Gen 3)는 그 세 번째 세대다. Gizmodo는 엄밀히 따지면 업그레이드는 맞다고 본다. 배터리 수명이 늘고 하드웨어를 조금 손봤지만 이전 모델과 비교해 달라진 점은 많지 않다."
+                "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 그 모습을 4K HDR 영상으로 지켜보면서 Kiwibit 앱에서 새에 대한 설명을 읽었다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "가격은 $449부터다. 최대 3K 영상을 찍는 12-megapixel 카메라, AI 기능 구성, 조작 방식, 음질은 바뀌지 않았다. 배터리는 한 시간 늘어 혼합 사용 기준 아홉 시간을 가고, 테스트에서 음악은 여섯 시간가량 재생됐다."
+                "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가린 채 모이통의 Nuisance Animal Alarm도 아랑곳없이 내가 쫓아낼 때까지 15분을 먹어 댔다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래로는 떨어진 먹이를 노린 쥐들이 모여들었다. 나는 모이통을 떼어 벽장에 처박았다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta는 여섯 번째 마이크를 달아 배경 소음을 최대 90%까지 줄였다고 한다. 그래도 통화 상대에게는 자동차, 기차, 사람 목소리가 여전히 들렸다. 강점은 공간 음향이다. 9월 소프트웨어 업데이트로 배포됐고 Meta AI 앱에서 켤 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "안경다리는 1mm 얇아졌고 모든 스타일에 조절식 팁이 들어갔으며 카메라는 36% 작아졌다. 그만큼 이 안경을 알아보기가 어려워져 사생활 우려가 커지는데도 카메라 셔터는 여전히 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta의 최신 AI 모델 Muse는 아직 어색한 구석이 있어도 AI 경험을 크게 끌어올렸다. 다만 이 소프트웨어 업그레이드는 Gen 3에만 오는 게 아니다. 그래서 리뷰어는 이전 세대 사용자가 서둘러 갈아탈 이유가 거의 없다고 본다."
+                "x": "Kiwibit에 화가 나지는 않았다. 문제가 생기기 전까지는 쓰는 재미가 있는 모이통이었다. 스마트 새 모이통이 끌린다면 AI 없는 단순하고 저렴한 제품부터 써 보길 권한다. 해로운 동물이 꼬인다는 이유만으로 쓰던 모이통을 반품할 수는 없으니까."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaの\n本当の進化はMuse AI",
-          "body": "Ray-Ban Meta Gen 3はカメラも機能も据え置きで、MuseでAIが進化した。",
-          "mini_headline": "MuseがRay-Ban Meta Gen 3を底上げ",
+          "headline": "AI餌台との\n短いロマンス",
+          "body": "Vergeの記者がAI餌台を試すと、シジュウカラとともにハトやネズミまで集まった。",
+          "mini_headline": "AI餌台との短いロマンス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "かわいいシジュウカラたちが恋しい。"
+              },
+              {
                 "t": "p",
-                "x": "Metaは今やスマートグラスで最大の勢力であり、Ray-Ban Meta (Gen 3)はその第三世代にあたる。Gizmodoはこれを、技術的にはアップグレードだと評する。バッテリー持ちが伸び、ハードウェアにも手が入ったが、前モデルからの変化はそれ以外ほとんどない。"
+                "x": "$269のKiwibit Bird Feeder 2 Proを取り付けて数週間後、小さく色とりどりの鳥が何十羽も庭にやって来た。スマホに届いた最初のAI-drivenアラートは「Looks like Great Tit!」だった。殻をむいたヒマワリの種を目当てに数百羽のシジュウカラが訪れ、私はその姿を4K HDR映像で眺め、Kiwibitアプリで解説を読んだ。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "価格は$449からで、最大 3K 動画を撮れる12-megapixel カメラ、AI機能、操作系、音質は従来と同じだ。バッテリー持ちは一時間延びて混合使用で九時間となり、テストでは音楽再生が約六時間続いた。"
+                "x": "次に届いたのは「Looks like Common Wood Pigeon!」だった。ハトはレンズをふさぎ、餌台のNuisance Animal Alarmも無視して、私が追い払うまで15分間食べ続けた。ハトは居着いて30分以上止まるようになり、下にはおこぼれを狙うネズミまで現れた。私は餌台を取り外し、クローゼットに押し込んだ。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Metaは六つ目のマイクを追加して背景ノイズを最大90%低減するとしたが、通話相手には車や電車、人の声がまだ聞こえていた。9月のソフトウェアアップデートで配信され、Meta AIアプリで有効にできる空間オーディオは大きな魅力だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "テンプルは 1mm 細くなり、全スタイルに調整可能なテンプルチップが付き、カメラは36%小型化した。その分グラスに気づかれにくくなりプライバシーの懸念が強まるが、カメラのシャッターは今もない。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Metaの最新AIモデルであるMuseは、癖は残るもののAI体験を大きく向上させた。ただしソフトウェアのアップグレードはGen 3専用ではないため、レビュアーは前世代の所有者が急いで買い替える理由はほとんどないとみている。"
+                "x": "Kiwibitに腹を立ててはいない。この餌台は、そうでなくなるまでは使うのが楽しかった。スマートな餌台に惹かれるなら、シンプルで安価な、AIなしのものから始めるといい。害獣を引き寄せるという理由だけでは、使用済みの餌台は返品できないからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta\n小改款，Muse AI是亮点",
-          "body": "Ray-Ban Meta Gen 3相机与功能未变，但Meta新模型Muse升级了助手。",
-          "mini_headline": "Muse助力Ray-Ban Meta Gen 3",
+          "headline": "与AI喂鸟器的\n一段短暂恋情",
+          "body": "一位Verge作者短暂试用AI喂鸟器，发现它引来山雀的同时也招来鸽子和老鼠。",
+          "mini_headline": "AI喂鸟器的短暂恋情",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "我想念那些可爱的山雀。"
+              },
+              {
                 "t": "p",
-                "x": "Meta如今是智能眼镜领域最大的力量，Ray-Ban Meta (Gen 3)是其第三代产品。Gizmodo认为它从技术上讲算是一次升级：续航更长，硬件有些调整，但相比上一代没有太多其他变化。"
+                "x": "我装上售价$269的Kiwibit Bird Feeder 2 Pro几周后，几十只娇小多彩的鸟来到了我的花园。手机收到的第一条AI-driven提醒写着“Looks like Great Tit!”。数百只山雀为去壳葵花籽而来，我用4K HDR视频欣赏它们，并在Kiwibit应用里阅读相关介绍。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "它起售价$449，保留了同样可拍摄最高 3K 视频的12-megapixel 摄像头，以及相同的AI功能、操控方式和音质。续航增加一小时，混合使用可达九小时；测试中，音乐播放可持续约六小时。"
+                "x": "接着来了“Looks like Common Wood Pigeon!”。鸽子挡住镜头，无视喂鸟器的Nuisance Animal Alarm，一直吃了15分钟，直到我把它赶走。鸽子们就此安营扎寨，一待就是30分钟以上，下方还来了老鼠享用掉落的残食。我把喂鸟器拆下来，塞进了壁橱。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta新增了第六个麦克风，称可将背景噪音降低最多90%，但通话对方仍能听到汽车、火车和人声。空间音频是一大亮点，该功能随9月的软件更新推出，可在Meta AI应用中开启。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "镜腿变薄 1mm，所有款式都配备可调节的镜腿末端，摄像头缩小36%，这让眼镜更难被察觉，也加剧了隐私担忧；摄像头快门依旧没有。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta最新的AI模型Muse大幅提升了AI体验，尽管仍有一些小毛病。由于这些软件升级并非Gen 3独享，评测者认为上一代用户没什么理由急着购买新款。"
+                "x": "我并不怪Kiwibit；在出问题之前，这个喂鸟器用起来很愉快。如果你对智能喂鸟器心动，不妨从简单、便宜、不带AI的产品开始——用过的喂鸟器可不能只因招来害兽就退货。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ray-Ban Meta Gen 3 mejora poco;\nMuse AI es el gran cambio",
-          "body": "Las Ray-Ban Meta Gen 3 de $449 mantienen cámara y funciones, pero el nuevo modelo Muse de Meta mejora el asistente.",
-          "mini_headline": "Muse impulsa las Ray-Ban Meta Gen 3",
+          "headline": "Un breve romance con\nun comedero de aves con AI",
+          "body": "La aventura de un redactor de Verge con un comedero con AI mostró que atrae palomas y ratones además de carboneros.",
+          "mini_headline": "Comedero con AI, breve romance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "Echo de menos a mis queridos carboneros."
+              },
+              {
                 "t": "p",
-                "x": "Meta es hoy la mayor fuerza en gafas inteligentes, y las Ray-Ban Meta (Gen 3) son su tercera generación. Gizmodo las considera técnicamente una mejora: mejor autonomía y algunos retoques de hardware, pero poco más respecto al modelo anterior."
+                "x": "Docenas de pajaritos de colores llegaron a mi jardín unas semanas después de instalar un Kiwibit Bird Feeder 2 Pro de $269. “Looks like Great Tit!”, decía la primera alerta AI-driven que llegó a mi teléfono. Cientos de carboneros acudieron por las semillas de girasol peladas, y yo los admiraba en video 4K HDR y leía sobre ellos en la app de Kiwibit."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Desde $449, mantienen la misma cámara de 12 megapíxeles (12-megapixel) con vídeo de hasta 3K, el mismo conjunto de funciones de IA, los mismos controles y la misma calidad de audio. La batería gana una hora y llega a nueve horas de uso mixto; en las pruebas, la reproducción de música se extendió a unas seis horas."
+                "x": "Luego llegó “Looks like Common Wood Pigeon!”. La paloma tapó la lente e ignoró la Nuisance Animal Alarm del comedero, y comió durante 15 minutos hasta que la espanté. Las palomas se instalaron, posándose 30 minutos o más, y abajo aparecieron ratones para darse un festín con los restos. Desmonté el comedero y lo metí en un armario."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta añadió un sexto micrófono para reducir el ruido de fondo hasta un 90%, pero quienes estaban al otro lado de las llamadas seguían oyendo coches, trenes y voces. El audio espacial, desplegado en una actualización de software de septiembre y activable en la app Meta AI, es uno de los puntos fuertes."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las varillas son 1mm más finas, todos los estilos incluyen terminales ajustables y la cámara es un 36% más pequeña, lo que hace las gafas más difíciles de detectar y agrava las dudas sobre privacidad; sigue sin haber obturador para la cámara."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Muse, el modelo de IA más reciente de Meta, supone una mejora significativa de la experiencia de IA, aunque persisten algunas rarezas. Como las mejoras de software no son exclusivas de Gen 3, el autor de la reseña ve pocos motivos para que los dueños de la generación anterior corran a comprar unas."
+                "x": "No estoy molesto con Kiwibit; el comedero fue un placer de usar hasta que dejó de serlo. Si te tienta un comedero inteligente, empieza por algo sencillo, barato y sin AI: no se puede devolver un comedero usado solo porque atrae plagas."
               }
             ]
           }
@@ -1173,185 +1067,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ray-Ban Meta의\n큰 변화는 Muse AI",
-          "body": "Ray-Ban Meta Gen 3는 기능이 그대로지만 Muse로 비서가 나아졌다.",
-          "mini_headline": "Muse가 끌어올린 Ray-Ban Meta Gen 3",
+          "headline": "AI 새 모이통과의\n짧은 로맨스",
+          "body": "Verge 기자가 써 본 AI 모이통에는 박새와 함께 비둘기와 쥐도 몰려들었다.",
+          "mini_headline": "AI 새 모이통과의 짧은 로맨스",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "사랑스러운 박새들이 그립다."
+              },
+              {
                 "t": "p",
-                "x": "Meta는 이제 스마트 안경 시장에서 가장 큰 존재이며, Ray-Ban Meta (Gen 3)는 그 세 번째 세대 제품이다. Gizmodo는 이를 엄밀히 따지면 업그레이드라고 평가한다. 배터리 수명이 늘고 하드웨어가 일부 손질됐지만, 이전 모델 대비 그 밖의 변화는 많지 않다."
+                "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 4K HDR 영상으로 그 모습을 감상하며 Kiwibit 앱에서 새에 관한 정보를 읽었다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "가격은 $449부터이며, 최대 3K 영상을 찍는 12-megapixel 카메라와 AI 기능 구성, 조작 방식, 음질은 그대로다. 배터리 수명은 한 시간 늘어 혼합 사용 기준 아홉 시간이 됐고, 테스트에서 음악 재생은 약 여섯 시간까지 이어졌다."
+                "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가리고 모이통의 Nuisance Animal Alarm도 무시한 채 내가 쫓아낼 때까지 15분 동안 먹었다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래에는 쥐들이 떨어진 먹이를 먹으러 왔다. 나는 모이통을 떼어 벽장에 처박았다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta는 여섯 번째 마이크를 더해 배경 소음을 최대 90%까지 줄였다고 하지만, 통화 상대는 여전히 자동차, 기차, 사람 목소리를 들었다. 9월 소프트웨어 업데이트로 배포되어 Meta AI 앱에서 켤 수 있는 공간 음향은 이 제품의 강점이다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "안경다리는 1mm 얇아졌고, 모든 스타일에 조절 가능한 팁이 들어갔으며, 카메라는 36% 작아졌다. 그만큼 안경을 알아보기 어려워져 사생활 우려가 커지는데, 카메라 셔터는 여전히 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta의 최신 AI 모델인 Muse는 여전히 어색한 구석이 있지만 AI 경험을 크게 끌어올렸다. 다만 소프트웨어 업그레이드가 Gen 3 전용이 아니어서, 리뷰어는 이전 세대 사용자가 서둘러 새 제품을 살 이유는 거의 없다고 본다."
+                "x": "Kiwibit에 화가 나지는 않았다. 이 모이통은 문제가 생기기 전까지는 쓰는 즐거움이 있었다. 스마트 새 모이통에 끌린다면 단순하고 저렴하며 AI가 없는 제품부터 시작하길 권한다. 해로운 동물이 꼬인다는 이유만으로 사용한 모이통을 반품할 수는 없기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Ray-Ban Metaの\n本当の進化はMuse AI",
-          "body": "Ray-Ban Meta Gen 3はカメラも機能も据え置きで、MuseでAIが進化した。",
-          "mini_headline": "MuseがRay-Ban Meta Gen 3を底上げ",
+          "headline": "AI餌台との\n短いロマンス",
+          "body": "Vergeの記者がAI餌台を試すと、シジュウカラとともにハトやネズミまで集まった。",
+          "mini_headline": "AI餌台との短いロマンス",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "かわいいシジュウカラたちが恋しい。"
+              },
+              {
                 "t": "p",
-                "x": "Metaは今やスマートグラスで最大の勢力であり、Ray-Ban Meta (Gen 3)はその第三世代にあたる。Gizmodoはこれを、技術的にはアップグレードだと評する。バッテリー持ちが伸び、ハードウェアにも手が入ったが、前モデルからの変化はそれ以外ほとんどない。"
+                "x": "$269のKiwibit Bird Feeder 2 Proを取り付けて数週間後、小さく色とりどりの鳥が何十羽も庭にやって来た。スマホに届いた最初のAI-drivenアラートは「Looks like Great Tit!」だった。殻をむいたヒマワリの種を目当てに数百羽のシジュウカラが訪れ、私はその姿を4K HDR映像で眺め、Kiwibitアプリで解説を読んだ。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "価格は$449からで、最大 3K 動画を撮れる12-megapixel カメラ、AI機能、操作系、音質は従来と同じだ。バッテリー持ちは一時間延びて混合使用で九時間となり、テストでは音楽再生が約六時間続いた。"
+                "x": "次に届いたのは「Looks like Common Wood Pigeon!」だった。ハトはレンズをふさぎ、餌台のNuisance Animal Alarmも無視して、私が追い払うまで15分間食べ続けた。ハトは居着いて30分以上止まるようになり、下にはおこぼれを狙うネズミまで現れた。私は餌台を取り外し、クローゼットに押し込んだ。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Metaは六つ目のマイクを追加して背景ノイズを最大90%低減するとしたが、通話相手には車や電車、人の声がまだ聞こえていた。9月のソフトウェアアップデートで配信され、Meta AIアプリで有効にできる空間オーディオは大きな魅力だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "テンプルは 1mm 細くなり、全スタイルに調整可能なテンプルチップが付き、カメラは36%小型化した。その分グラスに気づかれにくくなりプライバシーの懸念が強まるが、カメラのシャッターは今もない。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Metaの最新AIモデルであるMuseは、癖は残るもののAI体験を大きく向上させた。ただしソフトウェアのアップグレードはGen 3専用ではないため、レビュアーは前世代の所有者が急いで買い替える理由はほとんどないとみている。"
+                "x": "Kiwibitに腹を立ててはいない。この餌台は、そうでなくなるまでは使うのが楽しかった。スマートな餌台に惹かれるなら、シンプルで安価な、AIなしのものから始めるといい。害獣を引き寄せるという理由だけでは、使用済みの餌台は返品できないからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ray-Ban Meta\n小改款，Muse AI是亮点",
-          "body": "Ray-Ban Meta Gen 3相机与功能未变，但Meta新模型Muse升级了助手。",
-          "mini_headline": "Muse助力Ray-Ban Meta Gen 3",
+          "headline": "与AI喂鸟器的\n一段短暂恋情",
+          "body": "一位Verge作者短暂试用AI喂鸟器，发现它引来山雀的同时也招来鸽子和老鼠。",
+          "mini_headline": "AI喂鸟器的短暂恋情",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "我想念那些可爱的山雀。"
+              },
+              {
                 "t": "p",
-                "x": "Meta如今是智能眼镜领域最大的力量，Ray-Ban Meta (Gen 3)是其第三代产品。Gizmodo认为它从技术上讲算是一次升级：续航更长，硬件有些调整，但相比上一代没有太多其他变化。"
+                "x": "我装上售价$269的Kiwibit Bird Feeder 2 Pro几周后，几十只娇小多彩的鸟来到了我的花园。手机收到的第一条AI-driven提醒写着“Looks like Great Tit!”。数百只山雀为去壳葵花籽而来，我用4K HDR视频欣赏它们，并在Kiwibit应用里阅读相关介绍。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "它起售价$449，保留了同样可拍摄最高 3K 视频的12-megapixel 摄像头，以及相同的AI功能、操控方式和音质。续航增加一小时，混合使用可达九小时；测试中，音乐播放可持续约六小时。"
+                "x": "接着来了“Looks like Common Wood Pigeon!”。鸽子挡住镜头，无视喂鸟器的Nuisance Animal Alarm，一直吃了15分钟，直到我把它赶走。鸽子们就此安营扎寨，一待就是30分钟以上，下方还来了老鼠享用掉落的残食。我把喂鸟器拆下来，塞进了壁橱。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta新增了第六个麦克风，称可将背景噪音降低最多90%，但通话对方仍能听到汽车、火车和人声。空间音频是一大亮点，该功能随9月的软件更新推出，可在Meta AI应用中开启。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "镜腿变薄 1mm，所有款式都配备可调节的镜腿末端，摄像头缩小36%，这让眼镜更难被察觉，也加剧了隐私担忧；摄像头快门依旧没有。"
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meta最新的AI模型Muse大幅提升了AI体验，尽管仍有一些小毛病。由于这些软件升级并非Gen 3独享，评测者认为上一代用户没什么理由急着购买新款。"
+                "x": "我并不怪Kiwibit；在出问题之前，这个喂鸟器用起来很愉快。如果你对智能喂鸟器心动，不妨从简单、便宜、不带AI的产品开始——用过的喂鸟器可不能只因招来害兽就退货。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ray-Ban Meta Gen 3 mejora poco;\nMuse AI es el gran cambio",
-          "body": "Las Ray-Ban Meta Gen 3 de $449 mantienen cámara y funciones, pero el nuevo modelo Muse de Meta mejora el asistente.",
-          "mini_headline": "Muse impulsa las Ray-Ban Meta Gen 3",
+          "headline": "Un breve romance con\nun comedero de aves con AI",
+          "body": "La aventura de un redactor de Verge con un comedero con AI mostró que atrae palomas y ratones además de carboneros.",
+          "mini_headline": "Comedero con AI, breve romance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+                "cap": "Echo de menos a mis queridos carboneros."
+              },
+              {
                 "t": "p",
-                "x": "Meta es hoy la mayor fuerza en gafas inteligentes, y las Ray-Ban Meta (Gen 3) son su tercera generación. Gizmodo las considera técnicamente una mejora: mejor autonomía y algunos retoques de hardware, pero poco más respecto al modelo anterior."
+                "x": "Docenas de pajaritos de colores llegaron a mi jardín unas semanas después de instalar un Kiwibit Bird Feeder 2 Pro de $269. “Looks like Great Tit!”, decía la primera alerta AI-driven que llegó a mi teléfono. Cientos de carboneros acudieron por las semillas de girasol peladas, y yo los admiraba en video 4K HDR y leía sobre ellos en la app de Kiwibit."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Desde $449, mantienen la misma cámara de 12 megapíxeles (12-megapixel) con vídeo de hasta 3K, el mismo conjunto de funciones de IA, los mismos controles y la misma calidad de audio. La batería gana una hora y llega a nueve horas de uso mixto; en las pruebas, la reproducción de música se extendió a unas seis horas."
+                "x": "Luego llegó “Looks like Common Wood Pigeon!”. La paloma tapó la lente e ignoró la Nuisance Animal Alarm del comedero, y comió durante 15 minutos hasta que la espanté. Las palomas se instalaron, posándose 30 minutos o más, y abajo aparecieron ratones para darse un festín con los restos. Desmonté el comedero y lo metí en un armario."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
               },
               {
                 "t": "p",
-                "x": "Meta añadió un sexto micrófono para reducir el ruido de fondo hasta un 90%, pero quienes estaban al otro lado de las llamadas seguían oyendo coches, trenes y voces. El audio espacial, desplegado en una actualización de software de septiembre y activable en la app Meta AI, es uno de los puntos fuertes."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las varillas son 1mm más finas, todos los estilos incluyen terminales ajustables y la cámara es un 36% más pequeña, lo que hace las gafas más difíciles de detectar y agrava las dudas sobre privacidad; sigue sin haber obturador para la cámara."
-              },
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Muse, el modelo de IA más reciente de Meta, supone una mejora significativa de la experiencia de IA, aunque persisten algunas rarezas. Como las mejoras de software no son exclusivas de Gen 3, el autor de la reseña ve pocos motivos para que los dueños de la generación anterior corran a comprar unas."
+                "x": "No estoy molesto con Kiwibit; el comedero fue un placer de usar hasta que dejó de serlo. Si te tienta un comedero inteligente, empieza por algo sencillo, barato y sin AI: no se puede devolver un comedero usado solo porque atrae plagas."
               }
             ]
           }
@@ -1359,237 +1209,225 @@
       }
     },
     {
-      "id": "gadgets-alexa-plus-one-year",
+      "id": "msi-pro-max-edge-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
-      "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
-      "mini_headline": "Alexa Plus, 한 해 써 보니",
+      "headline": "로컬 AI를 위한\nMSI 미니 PC",
+      "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
+      "mini_headline": "로컬 AI용 MSI 미니 PC",
       "tool": "Gadgets",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+          },
+          {
             "t": "p",
-            "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지나 그가 내린 평가는 이렇다. 써 본 스마트홈 비서 가운데 최고지만 개인 비서 기능은 설익었고, Echo Show 화면 광고는 손쓸 수 없는 수준이다."
+            "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인에서 빠르게 돌리고도 남는다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+            "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+            "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
           },
           {
             "t": "p",
-            "x": "LLM 기반(LLM-powered)으로 바뀐 Alexa는 이제 \"I'm cold\"(춥다) 같은 막연한 말도 알아듣는다. 답은 10~15초가 아니라 삼 초에서 오 초 만에 나온다. 여러 단계 명령을 처리하고 레시피를 한 단계씩 안내하며 음성만으로 루틴도 만든다. 대신 여기까지 오려고 스마트홈을 처음부터 다시 꾸려야 했다."
+            "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 웹사이트는 프롬프트를 꽤 많이 넣어야 했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 무리 없이 해냈다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+            "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+            "cap": "MSI PRO MAX Edge AI+"
           },
           {
             "t": "p",
-            "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 섞어 Amazon 상품을 번갈아 띄우는 광고판이 됐다. 이걸 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 아직 들쭉날쭉하고 Uber Eats나 Thumbtack으로 맡긴 에이전트형 작업은 자주 실패했다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "가장 큰 구멍은 기억력이다. Alexa는 그가 누군지 잊었고 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그는 Amazon이 범용 AI 봇을 좇기보다 집의 두뇌 노릇에 집중해야 한다고 결론짓는다."
+            "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 제대로 쓰려면 설정하고 실험하는 데도 품이 꽤 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면 이 작은 기계에 담긴 성능은 엄청나다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Alexa Plus, one year in:\nbetter home control, plus ads",
-          "body": "A year in, Alexa Plus runs the smart home better but isn't ready to run your life, and it now comes with ads.",
-          "mini_headline": "Alexa Plus, one year in",
+          "headline": "MSI's Pro Max Edge AI+ mini PC\nis built for local AI",
+          "body": "MSI's Pro Max Edge AI+ is a mini PC built for local AI, pairing AMD's Ryzen AI Max+ 395 with a 50-TOPS NPU.",
+          "mini_headline": "MSI's mini PC built for local AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "The Verge's Jennifer Pattison Tuohy has tested Amazon's AI-powered Alexa Plus at home since July 2025. A year in, she calls it the best smart home assistant she has tested, but says its personal-assistant features are underbaked and the ads on Echo Show displays are out of control."
+                "x": "The MSI Pro Max Edge AI+ is one of the most powerful mini workstations I've tested. Inside is AMD's Ryzen AI Max+ 395 with Radeon 8060S graphics, an AMD XDNA NPU offering up to 50 TOPS, and 128GB of unified memory — enough to run LLMs fully offline and at speed."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "Because it is LLM-powered, Alexa now understands loose requests like \"I'm cold,\" answers in three to five seconds instead of 10 to 15, handles multistep commands, walks her through recipes and builds routines by voice. Getting there meant rebuilding her smart home from scratch."
+                "x": "Using models managed in Lemonade, it sorted more than 2,600 images, generated images, and built a ten-page website, though that took quite a bit of prompting. Photoshop, Lightroom and 4K Premiere Pro edits were handled equally well."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "The downsides: Echo Show screens have become rotating billboards for Amazon goods, now including video ads, and removing them costs $2.99 a month per device. Complex requests are still inconsistent, and agentic tasks through Uber Eats or Thumbtack often failed."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Memory is the biggest gap: Alexa forgot who she was and gave traffic directions to the wrong school. Her verdict: Amazon should stop chasing a general-purpose AI bot and focus on becoming the brain of the home."
+                "x": "Drawbacks: a CPU that is over a year old, slow 2.5GbE networking, RAM that can't be upgraded, and a steep price — $5,499 (US), €5,299, £5,999. Getting the most from local AI also takes plenty of setup and experimentation. But for private, completely offline AI, there's an enormous amount of power in this compact machine."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
-          "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
-          "mini_headline": "Alexa Plus, 한 해 써 보니",
+          "headline": "로컬 AI를 위한\nMSI 미니 PC",
+          "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
+          "mini_headline": "로컬 AI용 MSI 미니 PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지나 그가 내린 평가는 이렇다. 써 본 스마트홈 비서 가운데 최고지만 개인 비서 기능은 설익었고, Echo Show 화면 광고는 손쓸 수 없는 수준이다."
+                "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인에서 빠르게 돌리고도 남는다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "LLM 기반(LLM-powered)으로 바뀐 Alexa는 이제 \"I'm cold\"(춥다) 같은 막연한 말도 알아듣는다. 답은 10~15초가 아니라 삼 초에서 오 초 만에 나온다. 여러 단계 명령을 처리하고 레시피를 한 단계씩 안내하며 음성만으로 루틴도 만든다. 대신 여기까지 오려고 스마트홈을 처음부터 다시 꾸려야 했다."
+                "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 웹사이트는 프롬프트를 꽤 많이 넣어야 했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 무리 없이 해냈다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 섞어 Amazon 상품을 번갈아 띄우는 광고판이 됐다. 이걸 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 아직 들쭉날쭉하고 Uber Eats나 Thumbtack으로 맡긴 에이전트형 작업은 자주 실패했다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "가장 큰 구멍은 기억력이다. Alexa는 그가 누군지 잊었고 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그는 Amazon이 범용 AI 봇을 좇기보다 집의 두뇌 노릇에 집중해야 한다고 결론짓는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Alexa Plusの一年\n家の操作は向上、広告も",
-          "body": "Alexa Plusは、スマートホーム操作は向上したが生活を任せるには早く、広告も付いた。",
-          "mini_headline": "Alexa Plus、一年後の評価",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The VergeのJennifer Pattison Tuohyは、2025年7月から自宅でAmazonのAI-powered Alexa Plusを試してきた。一年を経て、彼女はこれまで試した中で最高のスマートホームアシスタントだと評価する一方、パーソナルアシスタント機能は未成熟で、Echo Showの画面に出る広告は手に負えないと述べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "LLM-poweredであるため、Alexaは\"I'm cold\"（寒い）といった曖昧な依頼を理解し、10〜15秒ではなく三〜五秒で応答し、複数ステップの指示をこなし、レシピを順に案内し、音声でルーティンを作成できるようになった。ただし、そこに至るにはスマートホームを一から組み直す必要があった。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "欠点もある。Echo Showの画面はAmazon商品を次々に映す広告塔と化し、今では動画広告まで流れる。広告を消すには端末ごとに月$2.99かかる。複雑な依頼への対応は相変わらず安定せず、Uber EatsやThumbtackを通じたエージェント的なタスクはしばしば失敗した。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "最大の弱点は記憶だ。Alexaは彼女が誰かを忘れ、間違った学校への道順を案内した。彼女の結論は、Amazonは汎用AIボットを追うのをやめ、家の頭脳になることに集中すべきだというものだ。"
+                "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 제대로 쓰려면 설정하고 실험하는 데도 품이 꽤 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면 이 작은 기계에 담긴 성능은 엄청나다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Alexa Plus一年记\n家居控制更好，广告也来了",
-          "body": "Alexa Plus用了一年，智能家居控制更好，但还不能打理生活，且开始带广告。",
-          "mini_headline": "Alexa Plus一年体验",
+          "headline": "MSI迷你PC\n专为本地AI打造",
+          "body": "MSI Pro Max Edge AI+是搭载50-TOPS NPU的本地AI迷你PC。",
+          "mini_headline": "MSI为本地AI打造的迷你PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "The Verge的Jennifer Pattison Tuohy自2025年7月起在家中测试Amazon的AI-powered Alexa Plus。一年下来，她认为这是她测试过的最好的智能家居助手，但个人助理功能尚不成熟，Echo Show屏幕上的广告也已失控。"
+                "x": "MSI Pro Max Edge AI+是我测试过的最强大的迷你工作站之一。机内搭载配备Radeon 8060S显卡的AMD Ryzen AI Max+ 395、算力最高50 TOPS的AMD XDNA NPU，以及128GB统一内存，足以完全离线并高速运行LLMs。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "由于采用LLM-powered架构，Alexa如今能理解\"I'm cold\"（我冷）这类模糊请求，响应时间从10到15秒缩短至三到五秒，能处理多步骤指令，一步步带她完成食谱，还能通过语音创建日常流程。不过，为此她不得不从头重建自己的智能家居。"
+                "x": "借助在Lemonade中管理的模型，它整理了2,600多张图片、生成了图片，还搭建了一个十页的网站，不过这需要相当多的提示。Photoshop、Lightroom以及4K Premiere Pro剪辑也同样处理得很好。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "缺点在于：Echo Show屏幕已沦为轮播Amazon商品的广告牌，如今还加入了视频广告，去除广告需每台设备每月支付$2.99。复杂请求的表现依然不稳定，通过Uber Eats或Thumbtack执行的代理任务也经常失败。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "记忆是最大的短板：Alexa忘了她是谁，还给出了去错误学校的交通路线。她的结论是：Amazon应停止追逐通用AI机器人，专注于成为家庭的大脑。"
+                "x": "缺点包括：CPU已推出一年多、2.5GbE网络较慢、RAM无法升级，以及高昂的价格——$5,499 (US)、€5,299、£5,999。想充分发挥本地AI的能力，还需要大量设置和尝试。但若追求私密、完全离线的AI，这台小巧的机器蕴藏着巨大的性能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alexa Plus, un año después:\nmejor en casa, pero con anuncios",
-          "body": "Tras un año, Alexa Plus gestiona mejor el hogar inteligente, pero aún no organiza tu vida y ahora trae anuncios.",
-          "mini_headline": "Alexa Plus, un año después",
+          "headline": "El Pro Max Edge AI+ de MSI,\nun mini PC para AI local",
+          "body": "El Pro Max Edge AI+ de MSI es un mini PC para AI local que combina el Ryzen AI Max+ 395 de AMD con una NPU 50-TOPS.",
+          "mini_headline": "El mini PC de MSI para AI local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Jennifer Pattison Tuohy, de The Verge, prueba en casa desde julio de 2025 la Alexa Plus de Amazon, impulsada por IA (AI-powered). Un año después, la considera el mejor asistente para el hogar inteligente que ha probado, pero afirma que sus funciones de asistente personal están a medio hacer y que los anuncios en las pantallas Echo Show están fuera de control."
+                "x": "El MSI Pro Max Edge AI+ es una de las miniestaciones de trabajo más potentes que he probado. En su interior hay un AMD Ryzen AI Max+ 395 con gráficos Radeon 8060S, una AMD XDNA NPU de hasta 50 TOPS y 128GB de memoria unificada, suficiente para ejecutar LLMs totalmente sin conexión y con rapidez."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "Al estar basada en un LLM (LLM-powered), Alexa entiende ahora peticiones vagas como \"I'm cold\" (\"tengo frío\"), responde en tres a cinco segundos en lugar de 10 a 15, gestiona órdenes de varios pasos, la guía en recetas y crea rutinas por voz. Llegar hasta ahí exigió reconstruir su hogar inteligente desde cero."
+                "x": "Con modelos gestionados en Lemonade, clasificó más de 2,600 imágenes, generó imágenes y creó un sitio web de diez páginas, aunque esto último requirió bastantes instrucciones. Las ediciones en Photoshop, Lightroom y Premiere Pro en 4K se resolvieron igual de bien."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "Las desventajas: las pantallas Echo Show se han convertido en vallas publicitarias rotatorias de productos de Amazon, ahora también con anuncios en vídeo, y quitarlos cuesta $2.99 al mes por dispositivo. Las peticiones complejas siguen siendo irregulares, y las tareas agénticas a través de Uber Eats o Thumbtack fallaron a menudo."
+                "x": "Inconvenientes: una CPU con más de un año, una red 2.5GbE lenta, RAM que no se puede ampliar y un precio elevado: $5,499 (US), €5,299, £5,999. Sacar el máximo partido a la AI local también exige mucha configuración y experimentación. Pero para una AI privada y completamente sin conexión, esta máquina compacta ofrece una enorme cantidad de potencia."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MSIのミニPCは\nローカルAI向けだ",
+          "body": "Pro Max Edge AI+は50 TOPS NPU搭載のローカルAI向けミニPCだ。",
+          "mini_headline": "ローカルAI向けのMSI製ミニPC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MSI Pro Max Edge AI+は、筆者がテストした中で最も強力なミニワークステーションの一つだ。内部にはRadeon 8060S グラフィックスを備えたAMDのRyzen AI Max+ 395、最大50 TOPSのAMD XDNA NPU、そして128GB のユニファイドメモリを搭載し、LLMs（大規模言語モデル）を完全オフラインで高速に動かせる。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+（画像提供: Alastair Jennings）"
               },
               {
                 "t": "p",
-                "x": "La memoria es la mayor carencia: Alexa olvidó quién era ella y dio indicaciones de tráfico hacia el colegio equivocado. Su veredicto: Amazon debería dejar de perseguir un bot de IA de uso general y centrarse en convertirse en el cerebro del hogar."
+                "x": "Lemonadeで管理するモデルを使い、2,600 枚を超える画像の仕分けや画像生成、十ページのウェブサイト構築までこなした。ただし、それにはかなりのプロンプト調整を要した。Photoshop、Lightroom、4K の Premiere Pro 編集も同じく快適に処理できた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
+              },
+              {
+                "t": "p",
+                "x": "欠点は、発売から一年以上経つCPU、低速な2.5GbE ネットワーク、増設できないRAM、そして高い価格だ — $5,499 (US)、€5,299、£5,999。ローカルAIを最大限に活かすには、多くのセットアップと試行錯誤も必要になる。それでも、プライベートで完全オフラインのAIを求めるなら、このコンパクトなマシンには膨大なパワーが詰まっている。"
               }
             ]
           }
@@ -1597,153 +1435,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Alexa Plus 한 해\n집 제어는 낫고 광고까지",
-          "body": "Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
-          "mini_headline": "Alexa Plus, 한 해 써 보니",
+          "headline": "로컬 AI를 위한\nMSI 미니 PC",
+          "body": "MSI Pro Max Edge AI+는 50-TOPS NPU 탑재 미니 PC다.",
+          "mini_headline": "로컬 AI용 MSI 미니 PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "The Verge의 Jennifer Pattison Tuohy는 2025년 7월부터 집에서 Amazon의 AI-powered Alexa Plus를 테스트해 왔다. 한 해가 지난 지금, 그는 이를 지금까지 써 본 최고의 스마트홈 비서로 꼽지만, 개인 비서 기능은 설익었고 Echo Show 화면의 광고는 통제 불능 수준이라고 말한다."
+                "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인으로, 빠르게 돌리기에 충분하다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "LLM 기반(LLM-powered)인 덕분에 Alexa는 이제 \"I'm cold\"(춥다) 같은 느슨한 요청을 알아듣고, 10~15초가 아닌 삼 초에서 오 초 만에 답하며, 여러 단계의 명령을 처리하고, 레시피를 단계별로 안내하고, 음성만으로 루틴을 만든다. 다만 여기까지 오려면 스마트홈을 처음부터 다시 구축해야 했다."
+                "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 다만 웹사이트에는 꽤 많은 프롬프트가 필요했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 똑같이 잘 처리했다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "단점도 있다. Echo Show 화면은 이제 동영상 광고까지 포함해 Amazon 상품을 돌아가며 띄우는 광고판이 됐고, 이를 없애려면 기기당 월 $2.99를 내야 한다. 복잡한 요청은 여전히 들쭉날쭉하고, Uber Eats나 Thumbtack을 통한 에이전트형 작업은 자주 실패했다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "가장 큰 빈틈은 기억력이다. Alexa는 그가 누구인지 잊었고, 엉뚱한 학교로 가는 교통 경로를 알려 줬다. 그의 결론은 Amazon이 범용 AI 봇을 좇는 대신 집의 두뇌가 되는 데 집중해야 한다는 것이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Alexa Plusの一年\n家の操作は向上、広告も",
-          "body": "Alexa Plusは、スマートホーム操作は向上したが生活を任せるには早く、広告も付いた。",
-          "mini_headline": "Alexa Plus、一年後の評価",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "The VergeのJennifer Pattison Tuohyは、2025年7月から自宅でAmazonのAI-powered Alexa Plusを試してきた。一年を経て、彼女はこれまで試した中で最高のスマートホームアシスタントだと評価する一方、パーソナルアシスタント機能は未成熟で、Echo Showの画面に出る広告は手に負えないと述べる。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "LLM-poweredであるため、Alexaは\"I'm cold\"（寒い）といった曖昧な依頼を理解し、10〜15秒ではなく三〜五秒で応答し、複数ステップの指示をこなし、レシピを順に案内し、音声でルーティンを作成できるようになった。ただし、そこに至るにはスマートホームを一から組み直す必要があった。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "欠点もある。Echo Showの画面はAmazon商品を次々に映す広告塔と化し、今では動画広告まで流れる。広告を消すには端末ごとに月$2.99かかる。複雑な依頼への対応は相変わらず安定せず、Uber EatsやThumbtackを通じたエージェント的なタスクはしばしば失敗した。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "最大の弱点は記憶だ。Alexaは彼女が誰かを忘れ、間違った学校への道順を案内した。彼女の結論は、Amazonは汎用AIボットを追うのをやめ、家の頭脳になることに集中すべきだというものだ。"
+                "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 최대한 활용하려면 설정과 실험에도 상당한 품이 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면, 이 작은 기계에는 엄청난 성능이 담겨 있다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Alexa Plus一年记\n家居控制更好，广告也来了",
-          "body": "Alexa Plus用了一年，智能家居控制更好，但还不能打理生活，且开始带广告。",
-          "mini_headline": "Alexa Plus一年体验",
+          "headline": "MSI迷你PC\n专为本地AI打造",
+          "body": "MSI Pro Max Edge AI+是搭载50-TOPS NPU的本地AI迷你PC。",
+          "mini_headline": "MSI为本地AI打造的迷你PC",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "The Verge的Jennifer Pattison Tuohy自2025年7月起在家中测试Amazon的AI-powered Alexa Plus。一年下来，她认为这是她测试过的最好的智能家居助手，但个人助理功能尚不成熟，Echo Show屏幕上的广告也已失控。"
+                "x": "MSI Pro Max Edge AI+是我测试过的最强大的迷你工作站之一。机内搭载配备Radeon 8060S显卡的AMD Ryzen AI Max+ 395、算力最高50 TOPS的AMD XDNA NPU，以及128GB统一内存，足以完全离线并高速运行LLMs。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "由于采用LLM-powered架构，Alexa如今能理解\"I'm cold\"（我冷）这类模糊请求，响应时间从10到15秒缩短至三到五秒，能处理多步骤指令，一步步带她完成食谱，还能通过语音创建日常流程。不过，为此她不得不从头重建自己的智能家居。"
+                "x": "借助在Lemonade中管理的模型，它整理了2,600多张图片、生成了图片，还搭建了一个十页的网站，不过这需要相当多的提示。Photoshop、Lightroom以及4K Premiere Pro剪辑也同样处理得很好。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "缺点在于：Echo Show屏幕已沦为轮播Amazon商品的广告牌，如今还加入了视频广告，去除广告需每台设备每月支付$2.99。复杂请求的表现依然不稳定，通过Uber Eats或Thumbtack执行的代理任务也经常失败。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "记忆是最大的短板：Alexa忘了她是谁，还给出了去错误学校的交通路线。她的结论是：Amazon应停止追逐通用AI机器人，专注于成为家庭的大脑。"
+                "x": "缺点包括：CPU已推出一年多、2.5GbE网络较慢、RAM无法升级，以及高昂的价格——$5,499 (US)、€5,299、£5,999。想充分发挥本地AI的能力，还需要大量设置和尝试。但若追求私密、完全离线的AI，这台小巧的机器蕴藏着巨大的性能。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alexa Plus, un año después:\nmejor en casa, pero con anuncios",
-          "body": "Tras un año, Alexa Plus gestiona mejor el hogar inteligente, pero aún no organiza tu vida y ahora trae anuncios.",
-          "mini_headline": "Alexa Plus, un año después",
+          "headline": "El Pro Max Edge AI+ de MSI,\nun mini PC para AI local",
+          "body": "El Pro Max Edge AI+ de MSI es un mini PC para AI local que combina el Ryzen AI Max+ 395 de AMD con una NPU 50-TOPS.",
+          "mini_headline": "El mini PC de MSI para AI local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Jennifer Pattison Tuohy, de The Verge, prueba en casa desde julio de 2025 la Alexa Plus de Amazon, impulsada por IA (AI-powered). Un año después, la considera el mejor asistente para el hogar inteligente que ha probado, pero afirma que sus funciones de asistente personal están a medio hacer y que los anuncios en las pantallas Echo Show están fuera de control."
+                "x": "El MSI Pro Max Edge AI+ es una de las miniestaciones de trabajo más potentes que he probado. En su interior hay un AMD Ryzen AI Max+ 395 con gráficos Radeon 8060S, una AMD XDNA NPU de hasta 50 TOPS y 128GB de memoria unificada, suficiente para ejecutar LLMs totalmente sin conexión y con rapidez."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
               },
               {
                 "t": "p",
-                "x": "Al estar basada en un LLM (LLM-powered), Alexa entiende ahora peticiones vagas como \"I'm cold\" (\"tengo frío\"), responde en tres a cinco segundos en lugar de 10 a 15, gestiona órdenes de varios pasos, la guía en recetas y crea rutinas por voz. Llegar hasta ahí exigió reconstruir su hogar inteligente desde cero."
+                "x": "Con modelos gestionados en Lemonade, clasificó más de 2,600 imágenes, generó imágenes y creó un sitio web de diez páginas, aunque esto último requirió bastantes instrucciones. Las ediciones en Photoshop, Lightroom y Premiere Pro en 4K se resolvieron igual de bien."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B5979-1.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
               },
               {
                 "t": "p",
-                "x": "Las desventajas: las pantallas Echo Show se han convertido en vallas publicitarias rotatorias de productos de Amazon, ahora también con anuncios en vídeo, y quitarlos cuesta $2.99 al mes por dispositivo. Las peticiones complejas siguen siendo irregulares, y las tareas agénticas a través de Uber Eats o Thumbtack fallaron a menudo."
+                "x": "Inconvenientes: una CPU con más de un año, una red 2.5GbE lenta, RAM que no se puede ampliar y un precio elevado: $5,499 (US), €5,299, £5,999. Sacar el máximo partido a la AI local también exige mucha configuración y experimentación. Pero para una AI privada y completamente sin conexión, esta máquina compacta ofrece una enorme cantidad de potencia."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MSIのミニPCは\nローカルAI向けだ",
+          "body": "Pro Max Edge AI+は50 TOPS NPU搭載のローカルAI向けミニPCだ。",
+          "mini_headline": "ローカルAI向けのMSI製ミニPC",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MSI Pro Max Edge AI+は、筆者がテストした中で最も強力なミニワークステーションの一つだ。内部にはRadeon 8060S グラフィックスを備えたAMDのRyzen AI Max+ 395、最大50 TOPSのAMD XDNA NPU、そして128GB のユニファイドメモリを搭載し、LLMs（大規模言語モデル）を完全オフラインで高速に動かせる。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_0098.jpeg?quality=90&strip=all&w=1200"
+                "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+                "cap": "MSI PRO MAX Edge AI+（画像提供: Alastair Jennings）"
               },
               {
                 "t": "p",
-                "x": "La memoria es la mayor carencia: Alexa olvidó quién era ella y dio indicaciones de tráfico hacia el colegio equivocado. Su veredicto: Amazon debería dejar de perseguir un bot de IA de uso general y centrarse en convertirse en el cerebro del hogar."
+                "x": "Lemonadeで管理するモデルを使い、2,600 枚を超える画像の仕分けや画像生成、十ページのウェブサイト構築までこなした。ただし、それにはかなりのプロンプト調整を要した。Photoshop、Lightroom、4K の Premiere Pro 編集も同じく快適に処理できた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+                "cap": "MSI PRO MAX Edge AI+"
+              },
+              {
+                "t": "p",
+                "x": "欠点は、発売から一年以上経つCPU、低速な2.5GbE ネットワーク、増設できないRAM、そして高い価格だ — $5,499 (US)、€5,299、£5,999。ローカルAIを最大限に活かすには、多くのセットアップと試行錯誤も必要になる。それでも、プライベートで完全オフラインのAIを求めるなら、このコンパクトなマシンには膨大なパワーが詰まっている。"
               }
             ]
           }
@@ -1751,261 +1581,225 @@
       }
     },
     {
-      "id": "gadgets-xpanceo-ai-contact-lenses",
+      "id": "amazon-driver-ai-glasses",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
-      "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
-      "mini_headline": "2030년 AI 콘택트렌즈",
+      "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
+      "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
+      "mini_headline": "Amazon의 AI 안경과 로봇",
       "tool": "Gadgets",
-      "source": "CNET",
-      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/ai/amazons-delivery-drivers-are-getting-ai-glasses-and-thats-the-least-unsettling-ai-in-the-job",
       "accent": "#eb367f",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "CNET이 두바이에 자리한(Dubai-based) Xpanceo의 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해째 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 만들고 있다."
-          },
-          {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+            "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+            "cap": "Amazon 배송기사 (Image credit: Future)"
           },
           {
             "t": "p",
-            "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어가고, 머리 옆에 차는 보조 기기와 함께 쓴다. 보조 기기에는 카메라, 이어폰, 마이크가 있어 연산을 맡고 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 특허 50개 이상을 확보했고, 2027년 3월 MWC Barcelona에서 렌즈를 공개하겠다고 밝혔다."
+            "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고 정지 이미지도 자주 찍는다. 집이 찍혀도 고객은 거부할 방법이 없다."
           },
           {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-          },
-          {
-            "t": "p",
-            "x": "피를 뽑지 않고 눈물만으로 포도당, 단백질, 전해질, 스트레스 호르몬을 알아낼 수 있고, 녹내장 위험 지표인 안압도 렌즈로 잰다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 구실을 하는 렌즈도 연구한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+            "t": "video",
+            "yt": "XXVhNlNKxQA"
           },
           {
             "t": "p",
-            "x": "첫 시장은 병원, 프로 운동선수, 레이싱 드라이버 대상 B2B다. UAE Space Agency와 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 소비자용 제품이 제한적으로 나올 수 있고, 가격은 연간 약 $2,000 수준 구독형이 될 전망이다."
+            "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영에 비하면 안경은 겉으로 드러난 일부일 뿐이다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 전망이고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
           },
           {
             "t": "img",
-            "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+            "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+            "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+          },
+          {
+            "t": "p",
+            "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낀다고 추산했지만 그 시간이 누구 몫인지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Xpanceo's AI contact lenses\ncould arrive as soon as 2030",
-          "body": "Dubai-based Xpanceo has spent five years on AI smart contact lenses that could arrive as soon as 2030.",
-          "mini_headline": "AI contact lenses by 2030",
+          "headline": "Amazon drivers get AI glasses,\nbut robots are the real story",
+          "body": "Amazon is giving delivery drivers AI glasses, but a warehouse tour shows its 1 million robots are the bigger story.",
+          "mini_headline": "Amazon's AI glasses and robots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET spoke with the founders of Dubai-based Xpanceo, which has spent five years developing AI-powered smart contact lenses that work \"like an AI helper, but directly on your cornea.\""
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazon driver (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "The lens contains a screen, biosensors, a microbattery and an antenna, and pairs with a companion device worn on the side of the head that holds a camera, earphone and microphone, handles computing and charges the lenses wirelessly. The team says it has 28 working prototypes and more than 50 patents, and will reveal the lens at MWC Barcelona in March 2027."
+                "x": "Amazon plans to put more than 20,000 pairs of smart glasses on its delivery drivers by the end of 2027, after a pilot in which more than 500 drivers completed over 275,000 deliveries. The glasses put navigation, package details and hazard alerts in view — and take still images at frequent intervals, with no opt-out for customers whose homes are pictured."
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "Tear fluid could reveal glucose, proteins, electrolytes and stress hormones without blood draws, and the lens could measure intraocular pressure, a glaucoma risk marker. Xpanceo is also exploring a lens that acts as a non-invasive brain-computer interface."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "It will start with B2B uses for hospitals, pro athletes and race car drivers, plus a joint project with the UAE Space Agency. After medical trials, narrow consumer uses could arrive by 2030, priced around $2,000 a year as a subscription."
+                "x": "But looking at Amazon's operation of 1 million robots processing 600,000 orders an hour, the glasses are just the part the public can see. A foundation model forecasts demand and decides where inventory sits; Amazon deployed its millionth robot in 2025 across more than 300 facilities. DeepFleet coordinates the fleet and is projected to cut travel time by about 10%, and agentic Project Eluna recommends where managers should shift workers."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazon Warehouse (Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "Wellspring mapping has identified 202 million parking locations, and images from the glasses may feed back into it. Amazon estimates the glasses could save drivers up to 30 minutes per shift, but hasn't said who gets that time back. The glasses are just the tip of Amazon's AI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
-          "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
-          "mini_headline": "2030년 AI 콘택트렌즈",
+          "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
+          "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
+          "mini_headline": "Amazon의 AI 안경과 로봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET이 두바이에 자리한(Dubai-based) Xpanceo의 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해째 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 만들고 있다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazon 배송기사 (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어가고, 머리 옆에 차는 보조 기기와 함께 쓴다. 보조 기기에는 카메라, 이어폰, 마이크가 있어 연산을 맡고 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 특허 50개 이상을 확보했고, 2027년 3월 MWC Barcelona에서 렌즈를 공개하겠다고 밝혔다."
+                "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고 정지 이미지도 자주 찍는다. 집이 찍혀도 고객은 거부할 방법이 없다."
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "피를 뽑지 않고 눈물만으로 포도당, 단백질, 전해질, 스트레스 호르몬을 알아낼 수 있고, 녹내장 위험 지표인 안압도 렌즈로 잰다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 구실을 하는 렌즈도 연구한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "첫 시장은 병원, 프로 운동선수, 레이싱 드라이버 대상 B2B다. UAE Space Agency와 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 소비자용 제품이 제한적으로 나올 수 있고, 가격은 연간 약 $2,000 수준 구독형이 될 전망이다."
+                "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영에 비하면 안경은 겉으로 드러난 일부일 뿐이다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 전망이고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낀다고 추산했지만 그 시간이 누구 몫인지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XpanceoのAIレンズ\n早ければ2030年登場",
-          "body": "Xpanceoが五年かけて開発するAIコンタクトレンズは、早ければ2030年に登場する。",
-          "mini_headline": "2030年にAIコンタクトレンズ",
+          "headline": "配達員にAIメガネ、\n本命はロボット",
+          "body": "Amazonは配達員にAIメガネを配るが、本当の主役は1百万台のロボットだ。",
+          "mini_headline": "AmazonのAIメガネとロボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNETは、ドバイ拠点（Dubai-based）のXpanceoの創業者に話を聞いた。同社は五年をかけて、「AIヘルパーのように、ただし角膜の上で直接」機能するAI-powered スマートコンタクトレンズを開発してきた。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazonの配達員(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "レンズにはディスプレイ、バイオセンサー、マイクロバッテリー、アンテナが内蔵され、頭の横に装着するコンパニオンデバイスと連携する。このデバイスはカメラ、イヤホン、マイクを備え、演算処理を担い、レンズをワイヤレス充電する。チームによると、動作する試作品は28個、特許は50件以上あり、2027年3月のMWC Barcelonaでレンズを公開する予定だ。"
+                "x": "Amazonは、500人を超える配達員が275,000件以上の配達をこなした試験運用を経て、2027年末までに20,000台以上のスマートグラスを配達員に配備する計画だ。メガネはナビゲーションや荷物の詳細、危険の警告を視界に表示し、静止画を頻繁に撮影する。自宅が写り込む顧客にオプトアウトの手段はない。"
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "涙液から採血なしでグルコース、タンパク質、電解質、ストレスホルモンを把握できる可能性があり、レンズは緑内障のリスク指標である眼圧も測定できるかもしれない。Xpanceoは非侵襲型のブレイン・コンピューター・インターフェースとして機能するレンズも模索している。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "まずは病院、プロアスリート、レーシングドライバー向けのB2B用途から始め、UAE Space Agencyとの共同プロジェクトも進める。医療試験を経て、限定的な消費者向け用途が2030年までに登場する可能性があり、価格はサブスクリプションで年間約$2,000になる見込みだ。"
+                "x": "しかし、毎時600,000件の注文を処理する1百万台のロボットによるAmazonの運用を見れば、メガネは一般の人の目に見える一部にすぎない。基盤モデルが需要を予測して在庫の配置を決め、Amazonは2025年に300を超える施設で百万台目のロボットを導入した。DeepFleetがロボット群を調整して移動時間を約10%短縮すると見込まれ、エージェント型のProject Elunaは管理者に人員の配置転換先を提案する。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazonの倉庫(Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "Wellspringのマッピングは202百万カ所の駐車位置を特定しており、メガネの画像がそこにフィードバックされる可能性もある。Amazonはメガネによって配達員がシフトあたり最大30分を節約できると見積もるが、その時間が誰に還元されるかは明らかにしていない。メガネはAmazonのAIの氷山の一角にすぎない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xpanceo AI隐形眼镜\n最早2030年面世",
-          "body": "迪拜公司Xpanceo耗时五年研发AI智能隐形眼镜，最早可能在2030年面世。",
-          "mini_headline": "AI隐形眼镜或于2030年面世",
+          "headline": "Amazon司机戴AI眼镜\n真正主角却是机器人",
+          "body": "Amazon为配送司机配备AI眼镜，但仓库参观显示，1百万台机器人才是重点。",
+          "mini_headline": "Amazon的AI眼镜与机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET采访了迪拜公司（Dubai-based）Xpanceo的创始人。该公司耗时五年研发AI-powered 智能隐形眼镜，其工作方式\"就像一个AI助手，只不过直接在你的角膜上\"。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazon司机（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "镜片内置显示屏、生物传感器、微型电池和天线，并与佩戴在头部侧面的配套设备配合使用；该设备集成摄像头、耳机和麦克风，负责运算并为镜片无线充电。团队表示，已有28个可运行的原型和50多项专利，并将于2027年3月在MWC Barcelona发布这款镜片。"
+                "x": "Amazon计划在2027年底前为配送司机配备20,000多副智能眼镜，此前的试点中，500多名司机完成了275,000多次配送。眼镜会在视野中显示导航、包裹详情和危险提醒——还会频繁拍摄静态图像，而住宅被拍到的顾客无法选择退出。"
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "泪液无需抽血即可反映葡萄糖、蛋白质、电解质和压力激素水平，镜片还可测量青光眼风险指标眼压。Xpanceo也在探索一种可作为非侵入式脑机接口的镜片。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "它将先从面向医院、职业运动员和赛车手的B2B应用起步，并与UAE Space Agency开展联合项目。经过医学试验后，有限的消费级用途可能在2030年前推出，定价约为每年$2,000的订阅制。"
+                "x": "但看看Amazon每小时处理600,000个订单的1百万台机器人运营，眼镜不过是公众能看到的那一部分。基础模型负责预测需求并决定库存存放位置；Amazon于2025年在300多个设施中部署了第一百万台机器人。DeepFleet负责协调机器人集群，预计可将行驶时间缩短约10%；智能体Project Eluna则向管理者建议应将工人调往何处。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazon仓库（Image credit: Getty Images/Daniel Holland）"
+              },
+              {
+                "t": "p",
+                "x": "Wellspring地图已识别出202百万个停车位置，眼镜拍下的图像也可能回流其中。Amazon估计眼镜每班最多可为司机节省30分钟，但没有说明这些时间归谁。眼镜只是Amazon AI的冰山一角。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las lentes con IA de Xpanceo\npodrían llegar en 2030",
-          "body": "Xpanceo, de Dubái, lleva cinco años desarrollando lentes de contacto inteligentes con IA que podrían llegar en 2030.",
-          "mini_headline": "Lentes de contacto con IA para 2030",
+          "headline": "Amazon da gafas con AI,\npero lo clave son sus robots",
+          "body": "Amazon da gafas con AI a sus repartidores, pero una visita al almacén muestra que su 1 millón de robots pesa más.",
+          "mini_headline": "Gafas con AI y robots de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET habló con los fundadores de Xpanceo, con sede en Dubái (Dubai-based), que lleva cinco años desarrollando lentes de contacto inteligentes impulsadas por IA (AI-powered) que funcionan \"como un asistente de IA, pero directamente sobre la córnea\"."
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Repartidor de Amazon (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "La lente integra una pantalla, biosensores, una microbatería y una antena, y se combina con un dispositivo complementario que se lleva en el lateral de la cabeza, con cámara, auricular y micrófono, que se encarga del procesamiento y carga las lentes de forma inalámbrica. El equipo afirma tener 28 prototipos funcionales y más de 50 patentes, y presentará la lente en el MWC Barcelona en marzo de 2027."
+                "x": "Amazon planea dotar a sus repartidores de más de 20,000 gafas inteligentes antes de finales de 2027, tras un piloto en el que más de 500 conductores completaron más de 275,000 entregas. Las gafas muestran navegación, detalles de los paquetes y alertas de peligro en el campo de visión, y toman imágenes fijas a intervalos frecuentes, sin opción de exclusión para los clientes cuyas casas aparecen en ellas."
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "El líquido lagrimal podría revelar glucosa, proteínas, electrolitos y hormonas del estrés sin extracciones de sangre, y la lente podría medir la presión intraocular, un marcador de riesgo de glaucoma. Xpanceo también explora una lente que funcione como interfaz cerebro-computadora no invasiva."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "Empezará con usos B2B para hospitales, deportistas profesionales y pilotos de carreras, además de un proyecto conjunto con la UAE Space Agency. Tras los ensayos médicos, podrían llegar usos de consumo limitados hacia 2030, con un precio de unos $2,000 al año mediante suscripción."
+                "x": "Pero al observar la operación de Amazon, con 1 millón de robots que procesan 600,000 pedidos por hora, las gafas son solo la parte que el público puede ver. Un modelo fundacional pronostica la demanda y decide dónde se ubica el inventario; Amazon desplegó su robot número un millón en 2025 en más de 300 instalaciones. DeepFleet coordina la flota y se prevé que reduzca el tiempo de desplazamiento en aproximadamente un 10%, y el sistema agéntico Project Eluna recomienda a los gerentes adónde trasladar a los trabajadores."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Almacén de Amazon (Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "El mapeo de Wellspring ha identificado 202 millones de ubicaciones de estacionamiento, y las imágenes de las gafas podrían retroalimentarlo. Amazon calcula que las gafas podrían ahorrar a los repartidores hasta 30 minutos por turno, pero no ha dicho quién recupera ese tiempo. Las gafas son solo la punta del iceberg de la AI de Amazon."
               }
             ]
           }
@@ -2013,169 +1807,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Xpanceo AI 렌즈\n이르면 2030년 나온다",
-          "body": "Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
-          "mini_headline": "2030년 AI 콘택트렌즈",
+          "headline": "배송기사엔 AI 안경\n주인공은 로봇이다",
+          "body": "Amazon은 배송기사에게 AI 안경을 주지만, 핵심은 1백만 대의 로봇이다.",
+          "mini_headline": "Amazon의 AI 안경과 로봇",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET은 두바이 기반(Dubai-based)의 Xpanceo 창업자들과 이야기를 나눴다. Xpanceo는 다섯 해 동안 \"AI 도우미처럼, 하지만 각막 위에서 바로\" 작동하는 AI-powered 스마트 콘택트렌즈를 개발해 왔다."
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazon 배송기사 (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "렌즈에는 화면, 바이오센서, 초소형 배터리, 안테나가 들어 있으며, 머리 옆에 착용하는 보조 기기와 짝을 이룬다. 이 기기에는 카메라, 이어폰, 마이크가 담겨 있고, 연산을 처리하며 렌즈를 무선으로 충전한다. 팀은 작동하는 시제품 28개와 50개 이상의 특허를 확보했으며, 2027년 3월 MWC Barcelona에서 렌즈를 공개할 예정이라고 밝혔다."
+                "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고, 정지 이미지를 자주 촬영한다. 집이 찍히는 고객에게는 거부할 방법이 없다."
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "눈물로 혈액 채취 없이 포도당, 단백질, 전해질, 스트레스 호르몬을 파악할 수 있고, 렌즈로 녹내장 위험 지표인 안압도 측정할 수 있다. Xpanceo는 비침습형 뇌-컴퓨터 인터페이스 역할을 하는 렌즈도 연구하고 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "우선 병원, 프로 운동선수, 레이싱 드라이버를 위한 B2B 용도로 시작하며, UAE Space Agency와의 공동 프로젝트도 진행한다. 의료 시험을 거치면 2030년까지 제한적인 소비자용 제품이 나올 수 있으며, 가격은 연간 약 $2,000 수준의 구독형이 될 전망이다."
+                "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영을 보면, 안경은 대중의 눈에 보이는 일부에 불과하다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 것으로 예상되고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낄 수 있다고 추산하지만, 그 시간이 누구에게 돌아가는지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "XpanceoのAIレンズ\n早ければ2030年登場",
-          "body": "Xpanceoが五年かけて開発するAIコンタクトレンズは、早ければ2030年に登場する。",
-          "mini_headline": "2030年にAIコンタクトレンズ",
+          "headline": "配達員にAIメガネ、\n本命はロボット",
+          "body": "Amazonは配達員にAIメガネを配るが、本当の主役は1百万台のロボットだ。",
+          "mini_headline": "AmazonのAIメガネとロボット",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNETは、ドバイ拠点（Dubai-based）のXpanceoの創業者に話を聞いた。同社は五年をかけて、「AIヘルパーのように、ただし角膜の上で直接」機能するAI-powered スマートコンタクトレンズを開発してきた。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazonの配達員(Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "レンズにはディスプレイ、バイオセンサー、マイクロバッテリー、アンテナが内蔵され、頭の横に装着するコンパニオンデバイスと連携する。このデバイスはカメラ、イヤホン、マイクを備え、演算処理を担い、レンズをワイヤレス充電する。チームによると、動作する試作品は28個、特許は50件以上あり、2027年3月のMWC Barcelonaでレンズを公開する予定だ。"
+                "x": "Amazonは、500人を超える配達員が275,000件以上の配達をこなした試験運用を経て、2027年末までに20,000台以上のスマートグラスを配達員に配備する計画だ。メガネはナビゲーションや荷物の詳細、危険の警告を視界に表示し、静止画を頻繁に撮影する。自宅が写り込む顧客にオプトアウトの手段はない。"
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "涙液から採血なしでグルコース、タンパク質、電解質、ストレスホルモンを把握できる可能性があり、レンズは緑内障のリスク指標である眼圧も測定できるかもしれない。Xpanceoは非侵襲型のブレイン・コンピューター・インターフェースとして機能するレンズも模索している。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "まずは病院、プロアスリート、レーシングドライバー向けのB2B用途から始め、UAE Space Agencyとの共同プロジェクトも進める。医療試験を経て、限定的な消費者向け用途が2030年までに登場する可能性があり、価格はサブスクリプションで年間約$2,000になる見込みだ。"
+                "x": "しかし、毎時600,000件の注文を処理する1百万台のロボットによるAmazonの運用を見れば、メガネは一般の人の目に見える一部にすぎない。基盤モデルが需要を予測して在庫の配置を決め、Amazonは2025年に300を超える施設で百万台目のロボットを導入した。DeepFleetがロボット群を調整して移動時間を約10%短縮すると見込まれ、エージェント型のProject Elunaは管理者に人員の配置転換先を提案する。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazonの倉庫(Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "Wellspringのマッピングは202百万カ所の駐車位置を特定しており、メガネの画像がそこにフィードバックされる可能性もある。Amazonはメガネによって配達員がシフトあたり最大30分を節約できると見積もるが、その時間が誰に還元されるかは明らかにしていない。メガネはAmazonのAIの氷山の一角にすぎない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Xpanceo AI隐形眼镜\n最早2030年面世",
-          "body": "迪拜公司Xpanceo耗时五年研发AI智能隐形眼镜，最早可能在2030年面世。",
-          "mini_headline": "AI隐形眼镜或于2030年面世",
+          "headline": "Amazon司机戴AI眼镜\n真正主角却是机器人",
+          "body": "Amazon为配送司机配备AI眼镜，但仓库参观显示，1百万台机器人才是重点。",
+          "mini_headline": "Amazon的AI眼镜与机器人",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET采访了迪拜公司（Dubai-based）Xpanceo的创始人。该公司耗时五年研发AI-powered 智能隐形眼镜，其工作方式\"就像一个AI助手，只不过直接在你的角膜上\"。"
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Amazon司机（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "镜片内置显示屏、生物传感器、微型电池和天线，并与佩戴在头部侧面的配套设备配合使用；该设备集成摄像头、耳机和麦克风，负责运算并为镜片无线充电。团队表示，已有28个可运行的原型和50多项专利，并将于2027年3月在MWC Barcelona发布这款镜片。"
+                "x": "Amazon计划在2027年底前为配送司机配备20,000多副智能眼镜，此前的试点中，500多名司机完成了275,000多次配送。眼镜会在视野中显示导航、包裹详情和危险提醒——还会频繁拍摄静态图像，而住宅被拍到的顾客无法选择退出。"
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "泪液无需抽血即可反映葡萄糖、蛋白质、电解质和压力激素水平，镜片还可测量青光眼风险指标眼压。Xpanceo也在探索一种可作为非侵入式脑机接口的镜片。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "它将先从面向医院、职业运动员和赛车手的B2B应用起步，并与UAE Space Agency开展联合项目。经过医学试验后，有限的消费级用途可能在2030年前推出，定价约为每年$2,000的订阅制。"
+                "x": "但看看Amazon每小时处理600,000个订单的1百万台机器人运营，眼镜不过是公众能看到的那一部分。基础模型负责预测需求并决定库存存放位置；Amazon于2025年在300多个设施中部署了第一百万台机器人。DeepFleet负责协调机器人集群，预计可将行驶时间缩短约10%；智能体Project Eluna则向管理者建议应将工人调往何处。"
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Amazon仓库（Image credit: Getty Images/Daniel Holland）"
+              },
+              {
+                "t": "p",
+                "x": "Wellspring地图已识别出202百万个停车位置，眼镜拍下的图像也可能回流其中。Amazon估计眼镜每班最多可为司机节省30分钟，但没有说明这些时间归谁。眼镜只是Amazon AI的冰山一角。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las lentes con IA de Xpanceo\npodrían llegar en 2030",
-          "body": "Xpanceo, de Dubái, lleva cinco años desarrollando lentes de contacto inteligentes con IA que podrían llegar en 2030.",
-          "mini_headline": "Lentes de contacto con IA para 2030",
+          "headline": "Amazon da gafas con AI,\npero lo clave son sus robots",
+          "body": "Amazon da gafas con AI a sus repartidores, pero una visita al almacén muestra que su 1 millón de robots pesa más.",
+          "mini_headline": "Gafas con AI y robots de Amazon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "CNET habló con los fundadores de Xpanceo, con sede en Dubái (Dubai-based), que lleva cinco años desarrollando lentes de contacto inteligentes impulsadas por IA (AI-powered) que funcionan \"como un asistente de IA, pero directamente sobre la córnea\"."
-              },
-              {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+                "cap": "Repartidor de Amazon (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "La lente integra una pantalla, biosensores, una microbatería y una antena, y se combina con un dispositivo complementario que se lleva en el lateral de la cabeza, con cámara, auricular y micrófono, que se encarga del procesamiento y carga las lentes de forma inalámbrica. El equipo afirma tener 28 prototipos funcionales y más de 50 patentes, y presentará la lente en el MWC Barcelona en marzo de 2027."
+                "x": "Amazon planea dotar a sus repartidores de más de 20,000 gafas inteligentes antes de finales de 2027, tras un piloto en el que más de 500 conductores completaron más de 275,000 entregas. Las gafas muestran navegación, detalles de los paquetes y alertas de peligro en el campo de visión, y toman imágenes fijas a intervalos frecuentes, sin opción de exclusión para los clientes cuyas casas aparecen en ellas."
               },
               {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Communication-Module-for-Smart-Contact-Lenses.jpg?w=864"
-              },
-              {
-                "t": "p",
-                "x": "El líquido lagrimal podría revelar glucosa, proteínas, electrolitos y hormonas del estrés sin extracciones de sangre, y la lente podría medir la presión intraocular, un marcador de riesgo de glaucoma. Xpanceo también explora una lente que funcione como interfaz cerebro-computadora no invasiva."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Health-Monitoring-Platform-for-Smart-Contact-Lenses.jpg?w=864"
+                "t": "video",
+                "yt": "XXVhNlNKxQA"
               },
               {
                 "t": "p",
-                "x": "Empezará con usos B2B para hospitales, deportistas profesionales y pilotos de carreras, además de un proyecto conjunto con la UAE Space Agency. Tras los ensayos médicos, podrían llegar usos de consumo limitados hacia 2030, con un precio de unos $2,000 al año mediante suscripción."
+                "x": "Pero al observar la operación de Amazon, con 1 millón de robots que procesan 600,000 pedidos por hora, las gafas son solo la parte que el público puede ver. Un modelo fundacional pronostica la demanda y decide dónde se ubica el inventario; Amazon desplegó su robot número un millón en 2025 en más de 300 instalaciones. DeepFleet coordina la flota y se prevé que reduzca el tiempo de desplazamiento en aproximadamente un 10%, y el sistema agéntico Project Eluna recomienda a los gerentes adónde trasladar a los trabajadores."
               },
               {
                 "t": "img",
-                "src": "https://www.cnet.com/wp-content/uploads/sites/2/Smart-Contact-Lens-Integrated-with-a-Space-Suit-System.jpg?w=864"
+                "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+                "cap": "Almacén de Amazon (Image credit: Getty Images/Daniel Holland)"
+              },
+              {
+                "t": "p",
+                "x": "El mapeo de Wellspring ha identificado 202 millones de ubicaciones de estacionamiento, y las imágenes de las gafas podrían retroalimentarlo. Amazon calcula que las gafas podrían ahorrar a los repartidores hasta 30 minutos por turno, pero no ha dicho quién recupera ese tiempo. Las gafas son solo la punta del iceberg de la AI de Amazon."
               }
             ]
           }

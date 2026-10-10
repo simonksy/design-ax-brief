@@ -6804,6 +6804,122 @@
           "x": "“We plan to expand into a management business in which AI songs that get a good response are sung by real singers, after close consultation with experts and creators.”"
         }
       ]
+    },
+    "music/suno-live-songkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Part of Suno’s licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating platform have to do with live gigs? – but now we’ll find out how this seemingly odd-couple relationship will work."
+        },
+        {
+          "t": "p",
+          "x": "Suno has created a new department called Suno Live Experiences, and ex-Ticketmaster VP Michael Chua will lead it as VP and general manager. Part of Chua’s job will be overseeing Songkick."
+        },
+        {
+          "t": "p",
+          "x": "Suno is pitching itself hard as a platform for creatives and for people who enjoy their work. It has also made a lot of noise about how it aims to assist the emerging (human) artists who use Suno’s AI tools to make music."
+        },
+        {
+          "t": "p",
+          "x": "Suno’s chief music officer Paul Sinclair said that the aim was to make Suno “the first creative entertainment platform,” so perhaps the vision is a one-stop-shop of AI-powered music creation, branding, streaming, audience connection – and, now, a pathway to live experiences too."
+        }
+      ]
+    },
+    "music/grimes-psy-opera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "In April, Grimes told Interview she had recorded a new AI-themed album, Psy Opera. A press release for the just-released lead single, “Accelerando,” says: “From the AI debate to immoral wars to a bad ex to looksmaxers to the importance of religion, Psy Opera will cover everything Grimes witnessed as a woman of history during her hiatus from pop music.” There is no release date yet."
+        },
+        {
+          "t": "p",
+          "x": "The song comes with an unsettling music video starring Grimes wrapped up in chains, burned at the stake, and wielding a gun in the middle of an android battle."
+        },
+        {
+          "t": "video",
+          "yt": "AVu5p2DMIf8"
+        },
+        {
+          "t": "p",
+          "x": "Grimes is a longtime advocate of AI in music. In 2024 she called AI an “opportunity” for musicians on the PBS series A Brief History of the Future; the year before, she offered 50 percent royalties to anyone who created a successful AI-generated song using her voice."
+        },
+        {
+          "t": "p",
+          "x": "She also revealed a Psy Opera trailer featuring a dystopian, AI-themed retelling of the Gospel of John. Psy Opera is her first album in six years, following 2020’s Miss Anthropocene, and her first on her own label, Nazgul Recording LLC."
+        }
+      ]
+    },
+    "music/fender-site-ai-tool": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Fender has been more than just a maker of instruments for some time now. In the last decade we’ve written about its moves in music education, its Fender Studio music-making app and its Fender Next artist-development program for example. (And yes, also a guitar-shaped ‘Stratoverse’ VR thing with Meta in 2022 that feels very much ‘of its time’ now.) The company’s latest digital move is a revamp of its main website, with the focus being on making it feel much more than a place to buy instruments online."
+        },
+        {
+          "t": "p",
+          "x": "Features include an AI-powered tool called ‘Ask Fender’ that’s launching initially in the US, described as “designed to help musicians discover the right instrument based on their playing style, experience, and needs”. The new site will also feature more artist content, starting with a five-show concert series called ‘The One. For New York’ that kicks off next week (14 October). The Fender Play education arm will be part of the new site, as will a new area for visitors to hear the sound of instruments and amps while browsing them."
+        },
+        {
+          "t": "p",
+          "x": "“Moving beyond a traditional ecommerce platform, it’s a place where people can discover new gear, find what’s right for them and connect with the brand,” promised interim chief marketing officer Kelly Magrath."
+        }
+      ]
+    },
+    "music/arxiv-ai-music-plagiarism-vi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The rapid expansion of text-to-music generative models challenges traditional paradigms of music creation and intellectual property. Plagiarism in this context is rarely an absolute mathematical binary, but an ambiguous threshold negotiated over harmonic structure, melodic contours, or overall perceived stylistic character."
+        },
+        {
+          "t": "p",
+          "x": "In this work, we test the transferability of state-of-the-art music version identification architectures from the human-to-human cover domain to the human-to-AI plagiarism setting. To evaluate this task, we introduce COPYCAT, a benchmark derived from real-world plagiarism cases and extended through generative re-synthesis and digital signal processing obfuscations, yielding 350,654 evaluation pairs."
+        },
+        {
+          "t": "p",
+          "x": "We show that scalar distance thresholding collapses under generative re-synthesis, while a supervised framework leveraging coordinate-wise embedding shifts recovers the dispersed plagiarism signal, raising overall F0.5 from 0.612 to 0.803."
+        }
+      ]
+    },
+    "music/music-smith-sentenced": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+        },
+        {
+          "t": "p",
+          "x": "A US musician will spend a year and a half in prison for masterminding an AI streaming fraud scheme that earned him over $8 million in royalties."
+        },
+        {
+          "t": "p",
+          "x": "On October 6, the US Attorney's Office for the Southern District of New York confirmed that Michael Smith, who pleaded guilty in March, will serve 18 months and must forfeit $8,091,843.64."
+        },
+        {
+          "t": "p",
+          "x": "Between 2017 and 2024, investigators found, Smith used bot accounts to generate billions of streams of AI music on Spotify, Apple Music, Amazon Music and YouTube Music. What began as streams of his own music became a plot to upload hundreds of thousands of AI-generated tracks, drawing over 80 million streams in April 2023 on YouTube Music alone. Prosecutors believe he amassed $14 million in total."
+        },
+        {
+          "t": "p",
+          "x": "US Attorney Jamie McDonald said Smith flooded platforms \"with automated bots in the place of consumers, and fake songs in the place of creativity\", robbing genuine artists of royalties."
+        },
+        {
+          "t": "p",
+          "x": "The IFPI said the result \"sends a clear message that streaming fraud is a crime\", adding that the industry must also prevent, detect and disrupt fraud through its Streaming Integrity Initiative."
+        }
+      ]
     }
   }
 }

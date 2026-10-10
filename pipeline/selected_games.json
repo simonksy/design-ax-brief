@@ -1,105 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "games",
-  "items": [
+  "picks": [
     {
-      "title": "Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-      "source": "Kotaku",
-      "published_iso": "2026-10-09T21:45:14+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg",
-      "excerpt": "Call of Duty: Black Ops, Halo: CE, GTA: Vice City, Skate 3 and more were decompiled and ported to web browsers overnight with AI coding agents, and they appear to run well.",
+      "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
+      "title": "UChicago AI Researcher Rana Hanocka launches Thrixel, a 3D generation platform",
+      "source": "GamesBeat",
       "category": "games",
+      "published_iso": "2026-10-08T12:00:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg",
+      "excerpt": "UChicago researcher Rana Hanocka launches Thrixel, a 3D generation platform whose Build World workflow pairs creators with an AI coding agent to generate assets and logic for Roblox, Three.js, Unity and Unreal.",
+      "source_lang": "en",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "New event: AI coding agents decompiled and ported Black Ops, Halo CE, GTA Vice City and other games to the browser overnight, and the ports run. It is a step beyond the single-game recomp fights covered before, both in scale and in IP risk."
+      "rationale": "New tool launch: text-to-3D plus an agent that writes game logic for Roblox/Unity/Unreal; directly usable by game artists and designers."
     },
     {
-      "title": "'여동생 운전 가르치기' 게임, AI 사용료만 하루 135만 원",
-      "url": "https://www.gamemeca.com/view.php?gid=1781573",
-      "source": "게임메카",
-      "published_iso": "2026-10-08T18:05:42+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/573/gm210114_dr.webp",
-      "excerpt": "LLM 기반 스팀 게임 '여동생 운전 가르치기'가 데모 이용자 급증으로 하루 1,000달러에 달하는 AI 모델 사용료를 감당하지 못해 대출까지 받았고, 모델 전환으로 품질 저하 논란도 겪고 있다.",
-      "category": "games",
-      "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "A concrete number: an LLM-driven Steam demo's inference bill hit about $1,000 a day, the developer took out a loan, and switching to a cheaper model drew complaints about quality. It is a cautionary case for anyone designing live-LLM gameplay."
-    },
-    {
-      "title": "Dreamlands opens its AI 3D world-building platform to the public",
-      "url": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
+      "url": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
+      "title": "How EA Javelin anti-cheat is changing in the face of AI attacks | Mike Reavey exclusive interview",
       "source": "GamesBeat",
-      "published_iso": "2026-10-08T16:30:43+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png",
-      "excerpt": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI.",
       "category": "games",
+      "published_iso": "2026-10-06T13:30:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg",
+      "excerpt": "EA's Mike Reavey explains how the Javelin anti-cheat system is evolving to counter AI-powered cheats such as computer-vision aimbots, and how EA uses ML on its own side of detection.",
+      "source_lang": "en",
+      "tool": "Games",
+      "accent": "#3b6bff",
+      "motif": "cube",
+      "rationale": "Fresh angle: computer-vision aimbots vs ML detection at EA; first anti-cheat story in the 30-day history."
+    },
+    {
+      "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+      "title": "Black Myth: Wukong sequel devs said no to AI because of Christopher Nolan's The Odyssey",
+      "source": "Destructoid",
+      "category": "games",
+      "published_iso": "2026-10-10T21:00:08+00:00",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg",
+      "excerpt": "Game Science says it will refrain from using AI on Black Myth: Zhong Kui 'until the end', citing Christopher Nolan's all-practical approach on The Odyssey as inspiration.",
+      "source_lang": "en",
       "tool": "Games",
       "accent": "#f5a623",
       "motif": "cube",
-      "rationale": "New release: Dreamlands 1.0 opens to the public and generates game-ready 3D assets and whole worlds from AI. Environment artists and level designers can try it now."
+      "rationale": "New studio policy statement from a major AAA team (Game Science), freshest item in the pool."
     },
     {
-      "title": "PlayStation creator turned AI CEO Ken Kutaragi predicts AI daydreams will replace video games",
-      "url": "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/",
+      "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+      "title": "New MMO Aion 2 soars on Steam with nearly 400,000 concurrent players despite mixed reviews grilling AI slop and pay-to-win shop",
       "source": "GamesRadar+",
-      "published_iso": "2026-10-09T16:06:09Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg",
-      "excerpt": "Ken Kutaragi told 4Gamer that real-time AI generation of video and music will run at console speed around 2028-29, turning 'imagination itself' into content and replacing games as we know them.",
       "category": "games",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "PlayStation creator Ken Kutaragi, now an AI CEO, gives a dated forecast: real-time generated video and music at console speed by 2028-29, which he says will displace games as we know them. It is a concrete marker from one of the industry's architects."
-    },
-    {
-      "title": "크래프톤, 서울대와 게임·로봇 AI 월드모델 공동연구 시작",
-      "url": "https://www.gamemeca.com/view.php?gid=1781560",
-      "source": "게임메카",
-      "published_iso": "2026-10-08T16:50:37+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/560/gm648963_24577.webp",
-      "excerpt": "크래프톤이 서울대학교와 게임·로봇 분야 월드모델 공동연구에 착수했다. 향후 3년간 공동연구센터를 운영하며 가상과 현실을 이해·예측하는 AI를 고도화한다.",
-      "category": "games",
+      "published_iso": "2026-10-06T14:41:50Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg",
+      "excerpt": "NCSoft's Aion 2 hits nearly 400,000 concurrent Steam players at its global launch, but 'Mixed' user reviews call out AI-generated content alongside its monetization.",
+      "source_lang": "en",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "New announcement: Krafton and Seoul National University are opening a three-year joint research center on world models for games and robotics. It puts a major Korean publisher behind the world-model race."
+      "rationale": "Market data point: a big Korean MMO launch where AI-generated content shows up in player reviews despite strong concurrency."
+    },
+    {
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "title": "Google debuts new 'experimental' AI game platform named Google Playground",
+      "source": "Game Developer",
+      "category": "games",
+      "published_iso": "2026-10-06T20:14:47.000Z",
+      "og_image": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?disable=upscale&width=1200&height=630&fit=crop",
+      "excerpt": "Google has announced Google Playground, a new platform for making and playing games derived from gen-AI prompts.",
+      "source_lang": "en",
+      "tool": "Games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "rationale": "Google's own prompt-to-game platform launch; a new first-party AI game destination, distinct from Unity Spark (editor) and Astrocade (third-party platform)."
     }
-  ],
-  "alternates": [
-    "https://wccftech.com/helixsr-mod-dlss-3-7-steam-deck-amd-handhelds-faster-fsr-4/",
-    "https://roadtovr.com/psvr-astro-bot-quest-3-pc-vr-mod/"
   ],
   "dedup": {
     "checks": {
-      "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300": {
+      "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/hardware/retro/the-og-crash-team-racing-for-ps1-just-arrived-on-pc-but-its-sadly-yet-another-recomp-spoiled-by-ai/",
+        "nearest": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1781573": {
+      "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/": {
         "verdict": "new",
-        "nearest": "https://automaton-media.com/en/news/atelier-ryza-ai-chatbot-game-developer-to-place-limits-on-user-inputs-to-protect-the-integrity-of-the-character-and-series/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/": {
+      "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/": {
         "verdict": "new",
-        "nearest": "https://www.prnewswire.com/news-releases/meshy-details-mora-a-research-architecture-for-ai-generated-interactive-worlds-and-launches-meshy-7-1--302884860.html",
+        "nearest": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/": {
+      "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1781560": {
+      "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground": {
         "verdict": "new",
-        "nearest": "https://pixverse.ai/en/blog/pixverse-introduces-r2-real-time-world-model",
+        "nearest": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
         "new_action": ""
       }
     },
-    "note": "Pool: 12 items. Dropped both Google Playground items in cluster c5 (Game Developer, Eurogamer). The 10-08 run published this joint launch as the 80.lv Unity Spark card, and the 10-09 curator already rejected Playground as a repeat. Games still owns the story cross-section, but it is not fresh. Dropped the Unreal MCP 'First Look' video: it is a likely-repeat of 'Getting Started with MCP in Unreal Engine 5.8' from 09-19, the same feature with no new version. Dropped PC Gamer's OpenAI StarCraft cheating story: it is related to the 36kr GPT-6 StarCraft agent battle from 09-30, comes out of the same benchmark event, and adds no new release. Dropped Wccftech's QSSR SDK piece: it is analysis following the IGN QSSR announcement from 10-02, with no new event. The Kotaku vibe-coded browser ports (related match to the Mario Galaxy port from 09-29) are a distinct new event: a batch of AI-agent browser ports of Halo, CoD, GTA VC and others. That differs from the CTR recomp from 10-09 and the Banjo recomp from 10-03. HelixSR DLSS mod and Road to VR Astro Bot VR mod are held as alternates; the Astro Bot mod sits on the already-saturated vibe-coded modding angle. Diversity: 4 outlets (Kotaku, 게임메카 x2, GamesBeat, GamesRadar+), all in the single games category with distinct accents. No inven URLs in the pool."
+    "note": "Dropped: Unreal MCP first look (YouTube FON_noub0C0) - same UE 5.8 MCP feature published 2026-09-19 (k0tgmrBuIJc), no new release. Unity CEO on Unity Spark (GamesRadar) - commentary on the Unity Spark launch published 2026-10-08 (80.lv). Google Playground cluster c5 (Game Developer debut + PC Gamer opinion) - could not rule out overlap with the 2026-10-08 Kotaku 'AI-generated games platform 10M monthly users' card and the Google-built Unity Spark coverage; dropped conservatively since the pool had enough clean fresh items. PC Gamer OpenAI StarCraft cheating - running story from the 2026-09-30 GPT-6 StarCraft botmatch card, and a cheating incident is not a new release/announcement. RPS Banjo-Kazooie Recompiled dev - commentary within the recomp/genAI running story (2026-10-03 GamesRadar, 2026-10-09 CTR recomp). GamesRadar Kingdom Come 2 boss - Warhorse AI commentary overlaps the 2026-09-26 PC Gamer Warhorse co-founder interview. GamesBeat AI-made game opinion - evergreen op-ed, lower novelty. Thrixel vs Dreamlands (2026-10-10): different product and company, so new. Diversity: GamesBeat 2, Destructoid, GamesRadar+, RPS = 4 outlets. SWAP 2026-10-11: removed RPS Borderlands Online (enrichment showed it is a modding story with AI only in one quote/aside). Replacement: Game Developer 'Google debuts Google Playground' (cluster c5, kept the news debut over the PC Gamer opinion). Re-checked against news_data sections.games 2026-10-08: the Kotaku Astrocade card is a different, third-party platform (Astrocade user numbers), and the 80.lv Unity Spark card covers Unity's editor and only mentions Playground in one closing sentence as a place to publish Spark games; Google's own Playground platform launch was never the subject of a published card, so it is a new story (nearest = Unity Spark). Other leftovers stay dropped for the reasons above; GamesBeat opinion also blocked by the 2-per-outlet cap. Diversity now: GamesBeat 2, Destructoid, GamesRadar+, Game Developer = 4 outlets."
   }
 }

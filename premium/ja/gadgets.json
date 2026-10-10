@@ -6830,6 +6830,169 @@
           "x": "発売は10月14日に米国(US)、メキシコ、カナダで、10月19日に英国(UK)、ドイツ、フランス、イタリア、スペインで始まる。"
         }
       ]
+    },
+    "gadgets/siri-personal-index-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+          "cap": "Siri AIはiOS、iPadOS、watchOS、macOSで利用できる。"
+        },
+        {
+          "t": "p",
+          "x": "AppleはiOS 27で、長らく延期されていたSiriの刷新を展開し始めた。AppleはGoogleと提携してSiri AIを支える大規模言語モデルを訓練しており、このアシスタントが本領を発揮するには大量の個人データが必要になる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+          "cap": "App Intentsにより、Siriやその他のApple Intelligence機能がアプリのデータにアクセスできる。"
+        },
+        {
+          "t": "p",
+          "x": "App Intentsというフレームワークによって、SiriはNotesやMessagesを含むAppleのアプリに加え、開発者が対応したサードパーティ製アプリも検索できる。Siri AIはオンデバイスモデルとPrivate Cloud Computeを組み合わせており、AppleはPCCに送られたデータを保存せず、閲覧もできないとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+          "cap": "Siri AIがアプリのデータを表示しないようにする方法。"
+        },
+        {
+          "t": "p",
+          "x": "アプリをブロックするには、Settings > Apps > [app] > Searchに進み、Show Content in Searchをオフにする。するとSiriは直接頼まれてもそのアプリから情報を引き出さない。ただし画面認識機能は引き続きスクリーンショットを読み取ることができ、それがPCCに送られる可能性がある。"
+        },
+        {
+          "t": "p",
+          "x": "Siriの録音を学習に使わせないためには、Privacy & Security > Analytics & ImprovementsでImprove Siri & Dictationを無効にする。Screen Time > Content & Privacy RestrictionsからSiri Classicに戻すことも、Siriを完全にオフにすることもできる。"
+        }
+      ]
+    },
+    "gadgets/verge-ai-bird-feeder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+          "cap": "かわいいシジュウカラたちが恋しい。"
+        },
+        {
+          "t": "p",
+          "x": "$269のKiwibit Bird Feeder 2 Proを取り付けて数週間後、小さく色とりどりの鳥が何十羽も庭にやって来た。スマホに届いた最初のAI-drivenアラートは「Looks like Great Tit!」だった。殻をむいたヒマワリの種を目当てに数百羽のシジュウカラが訪れ、私はその姿を4K HDR映像で眺め、Kiwibitアプリで解説を読んだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "次に届いたのは「Looks like Common Wood Pigeon!」だった。ハトはレンズをふさぎ、餌台のNuisance Animal Alarmも無視して、私が追い払うまで15分間食べ続けた。ハトは居着いて30分以上止まるようになり、下にはおこぼれを狙うネズミまで現れた。私は餌台を取り外し、クローゼットに押し込んだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Kiwibitに腹を立ててはいない。この餌台は、そうでなくなるまでは使うのが楽しかった。スマートな餌台に惹かれるなら、シンプルで安価な、AIなしのものから始めるといい。害獣を引き寄せるという理由だけでは、使用済みの餌台は返品できないからだ。"
+        }
+      ]
+    },
+    "gadgets/msi-pro-max-edge-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MSI Pro Max Edge AI+は、筆者がテストした中で最も強力なミニワークステーションの一つだ。内部にはRadeon 8060S グラフィックスを備えたAMDのRyzen AI Max+ 395、最大50 TOPSのAMD XDNA NPU、そして128GB のユニファイドメモリを搭載し、LLMs（大規模言語モデル）を完全オフラインで高速に動かせる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+          "cap": "MSI PRO MAX Edge AI+（画像提供: Alastair Jennings）"
+        },
+        {
+          "t": "p",
+          "x": "Lemonadeで管理するモデルを使い、2,600 枚を超える画像の仕分けや画像生成、十ページのウェブサイト構築までこなした。ただし、それにはかなりのプロンプト調整を要した。Photoshop、Lightroom、4K の Premiere Pro 編集も同じく快適に処理できた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+          "cap": "MSI PRO MAX Edge AI+"
+        },
+        {
+          "t": "p",
+          "x": "欠点は、発売から一年以上経つCPU、低速な2.5GbE ネットワーク、増設できないRAM、そして高い価格だ — $5,499 (US)、€5,299、£5,999。ローカルAIを最大限に活かすには、多くのセットアップと試行錯誤も必要になる。それでも、プライベートで完全オフラインのAIを求めるなら、このコンパクトなマシンには膨大なパワーが詰まっている。"
+        }
+      ]
+    },
+    "gadgets/amazon-driver-ai-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+          "cap": "Amazonの配達員(Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Amazonは、500人を超える配達員が275,000件以上の配達をこなした試験運用を経て、2027年末までに20,000台以上のスマートグラスを配達員に配備する計画だ。メガネはナビゲーションや荷物の詳細、危険の警告を視界に表示し、静止画を頻繁に撮影する。自宅が写り込む顧客にオプトアウトの手段はない。"
+        },
+        {
+          "t": "video",
+          "yt": "XXVhNlNKxQA"
+        },
+        {
+          "t": "p",
+          "x": "しかし、毎時600,000件の注文を処理する1百万台のロボットによるAmazonの運用を見れば、メガネは一般の人の目に見える一部にすぎない。基盤モデルが需要を予測して在庫の配置を決め、Amazonは2025年に300を超える施設で百万台目のロボットを導入した。DeepFleetがロボット群を調整して移動時間を約10%短縮すると見込まれ、エージェント型のProject Elunaは管理者に人員の配置転換先を提案する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+          "cap": "Amazonの倉庫(Image credit: Getty Images/Daniel Holland)"
+        },
+        {
+          "t": "p",
+          "x": "Wellspringのマッピングは202百万カ所の駐車位置を特定しており、メガネの画像がそこにフィードバックされる可能性もある。Amazonはメガネによって配達員がシフトあたり最大30分を節約できると見積もるが、その時間が誰に還元されるかは明らかにしていない。メガネはAmazonのAIの氷山の一角にすぎない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch4-ai-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "AIでカスタム文字盤を作成"
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5の地味ながら強力な機能の一つが、Pixel Watch 4にもやってきた。AI文字盤ジェネレーターが現在、Pixel Watch 4の各モデルに順次配信されている。"
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5は刷新というより熟成のモデルで、内部の強化の大半はAI性能に向けられていた。その成果の一つがAI文字盤ジェネレーターであり、カスタム文字盤の作成を少し手軽にするツールだ。"
+        },
+        {
+          "t": "p",
+          "x": "Redditのユーザーによると、このアップデートはバージョン4.2.12.989940186に含まれ、Pixel Watch 5の標準文字盤であるWeave、Modular、Reveal、Chronographに加え、特別仕様のSteph Curry文字盤も収録している。"
+        },
+        {
+          "t": "p",
+          "x": "使い方は簡単だ。Pixel Watchアプリで新しいデザインを作る際にプロンプト欄を開き、テンプレートギャラリーから選ぶ代わりに希望を説明すれば、Gemini Intelligenceがそれに近いものを作り出す。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+          "cap": "AIが生成した文字盤（AI-generated）"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+          "cap": "AIが生成した文字盤（AI-generated）"
+        },
+        {
+          "t": "p",
+          "x": "制約はあるものの、GoogleがPixel Watch 5であまり宣伝しなかった優れたツールだ。アップデートは現在配信中のため、表示されるまで時間がかかる場合がある。"
+        }
+      ]
     }
   }
 }

@@ -1,47 +1,25 @@
 {
-  "date": "2026-09-23",
-  "section": "books",
-  "window_hours": 336,
-  "items": [
-    {
-      "url": "https://authors.spotify.com/blog/creationtools",
-      "source": "Spotify for Authors",
-      "title": "Turn Your Book Into an Audiobook in Minutes with Spotify for Authors",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "og_image": "https://authors.spotify.com/assets/blog/Header_ACT.webp",
-      "excerpt": "Spotify expanded its ElevenLabs-powered Audiobook Creation Tools beyond beta to all US self-published authors: upload a manuscript, pick an AI narration voice, and publish a free, non-exclusive audiobook in minutes.",
-      "category": "books",
-      "ai_mentions": 7
-    },
-    {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html",
-      "source": "Publishers Weekly",
-      "title": "What Webtoon's New AI Partnership Could Mean for Translators",
-      "published_iso": "2026-09-09T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131299-2.PNG",
-      "excerpt": "Webtoon has been rolling out AI-assisted translation, recommendation and avatar features; creators, translators and company spokespeople weigh what the AI partnership means for comics translation work.",
-      "category": "books",
-      "ai_mentions": 30
-    },
-    {
-      "url": "https://www.thebookseller.com/news/ai-debate-has-shifted-from-can-we-to-should-we-ipg-autumn-conference-2026-hears",
-      "source": "The Bookseller",
-      "title": "AI debate has shifted from 'can we to should we', IPG Autumn Conference 2026 hears",
-      "published_iso": "2026-09-10T15:00:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/677/asd12.jpg",
-      "excerpt": "AI was the dominant theme of the Independent Publishers Guild Autumn Conference, across ethics, licensing and audio, with new IPG research finding AI 'may have damaged trust more than it has changed workflows'. (Body behind free-registration wall.)",
-      "category": "books",
-      "ai_mentions": 4
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
-      "source": "The Guardian",
-      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
-      "published_iso": "2026-09-17T11:00:46Z",
-      "og_image": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7",
-      "excerpt": "Guardian reporters and experts recommend the books that explain how the AI industry got here and where it is headed, amid a chaotic moment reshaping our lives.",
-      "category": "books",
-      "ai_mentions": 45
-    }
-  ]
+ "section": "books",
+ "date": "2026-10-11",
+ "now_iso": "2026-10-10T22:00:00Z",
+ "window_hours": 336,
+ "expansion": [
+  "Recovery pass 1: AI audiobook narration (Spotify/ElevenLabs), Libby/OverDrive AI, academic/scholarly publishing AI, manga/webtoon AI translation, Japanese 出版 生成AI, Korean 웹소설/웹툰 AI, Kindle/Kobo/Goodreads AI features, new authors' AI lawsuits",
+  "Feeds swept: PW recent + digital/industry-news/childrens section feeds, PP feed p1-3, Good e-Reader p1-3, Scholarly Kitchen, Bookseller /news + /features HTML, Lit Hub p1-4, Electric Lit p1-4, Book Riot p1-2, Jane Friedman, Writer's Digest, TeleRead, Digital Reader, Mediabistro, Creative Penn, Verge/Wired/TechCrunch/Ars feeds; off-list checks: Börsenblatt, ALLi, Readers News (독서신문), Newsis culture, ANN, ICv2, BookBrunch",
+  "WebSearch x6 (authors lawsuits Oct 2026, 웹소설/웹툰 AI, Libby/ElevenLabs/Kobo, manga/webtoon AI translation, Kindle/Kobo/Goodreads AI, 出版 生成AI マンガ翻訳): no fresh new items",
+  "Dropped as already published: Google Play Books Expert Intelligence, Novvel.co, Jill Lepore keynote, Pangram CEO, FBF AI-narration debate, Bookseller AI comment, Scholarly Kitchen TRACE + 'Representation Is Not the Scholarship', S&S AI tracking, BISG AI report, Third Circuit ROSS ruling (Lit Hub), Audible character chat (Jane Friedman)",
+  "Fresh news is effectively exhausted for the window: only 1 new, AI-substantive item found"
+ ],
+ "items": [
+  {
+   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+   "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+   "source": "Publishers Weekly",
+   "category": "books",
+   "published_iso": "2026-10-07T00:00:00-04:00",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG",
+   "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership.",
+   "source_lang": "en"
+  }
+ ]
 }

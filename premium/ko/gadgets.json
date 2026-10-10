@@ -12500,6 +12500,169 @@
           "x": "판매는 10월 14일 미국(US), 멕시코, 캐나다에서 먼저 시작하고 10월 19일 영국(UK), 독일, 프랑스, 이탈리아, 스페인으로 이어진다."
         }
       ]
+    },
+    "gadgets/siri-personal-index-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+          "cap": "Siri AI는 iOS, iPadOS, watchOS, macOS에서 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 iOS 27과 함께 오랫동안 미뤄 온 Siri 개편을 배포하기 시작했다. Siri AI 밑에는 Apple이 Google과 손잡고 훈련한 대규모 언어 모델이 있고, 이 어시스턴트가 제대로 돌아가려면 사용자 데이터가 꽤 많이 필요하다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+          "cap": "App Intents는 Siri와 다른 Apple Intelligence 기능이 앱 데이터에 접근하도록 해 준다."
+        },
+        {
+          "t": "p",
+          "x": "Siri는 App Intents라는 프레임워크로 Notes와 Messages 같은 Apple 앱은 물론, 개발자가 지원하는 서드파티 앱까지 검색한다. Siri AI는 온디바이스 모델과 Private Cloud Compute를 함께 쓴다. Apple은 PCC로 보낸 데이터를 저장하지 않고 들여다볼 수도 없다고 밝혔다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+          "cap": "Siri AI가 앱 데이터를 꺼내 보이지 못하게 막는 방법."
+        },
+        {
+          "t": "p",
+          "x": "특정 앱을 차단하려면 Settings > Apps > [app] > Search로 가서 Show Content in Search를 끄면 된다. 그러면 직접 요청해도 Siri가 그 앱에서 정보를 가져오지 않는다. 다만 화면 인식 기능은 여전히 스크린숏을 읽고, 그 스크린숏이 PCC로 넘어갈 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Siri 녹음이 훈련에 쓰이지 않게 하려면 Privacy & Security > Analytics & Improvements에서 Improve Siri & Dictation을 끄면 된다. Screen Time > Content & Privacy Restrictions에서 Siri Classic으로 되돌리거나 Siri를 완전히 끌 수도 있다."
+        }
+      ]
+    },
+    "gadgets/verge-ai-bird-feeder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+          "cap": "사랑스러운 박새들이 그립다."
+        },
+        {
+          "t": "p",
+          "x": "$269짜리 Kiwibit Bird Feeder 2 Pro를 단 지 몇 주 만에 작고 알록달록한 새 수십 마리가 정원을 찾았다. 휴대폰으로 온 첫 AI-driven 알림은 “Looks like Great Tit!”(박새로 보입니다!)였다. 껍질을 벗긴 해바라기씨를 먹으러 박새 수백 마리가 찾아왔고, 나는 그 모습을 4K HDR 영상으로 지켜보면서 Kiwibit 앱에서 새에 대한 설명을 읽었다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "그다음엔 “Looks like Common Wood Pigeon!”(산비둘기로 보입니다!)이 떴다. 비둘기는 렌즈를 가린 채 모이통의 Nuisance Animal Alarm도 아랑곳없이 내가 쫓아낼 때까지 15분을 먹어 댔다. 비둘기들은 아예 눌러앉아 30분 이상 머물렀고, 아래로는 떨어진 먹이를 노린 쥐들이 모여들었다. 나는 모이통을 떼어 벽장에 처박았다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Kiwibit에 화가 나지는 않았다. 문제가 생기기 전까지는 쓰는 재미가 있는 모이통이었다. 스마트 새 모이통이 끌린다면 AI 없는 단순하고 저렴한 제품부터 써 보길 권한다. 해로운 동물이 꼬인다는 이유만으로 쓰던 모이통을 반품할 수는 없으니까."
+        }
+      ]
+    },
+    "gadgets/msi-pro-max-edge-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MSI Pro Max Edge AI+는 내가 테스트한 미니 워크스테이션 가운데 가장 강력한 축에 든다. 내부에는 Radeon 8060S 그래픽을 갖춘 AMD Ryzen AI Max+ 395, 최대 50 TOPS를 내는 AMD XDNA NPU, 128GB 통합 메모리가 들어 있어 LLMs를 완전히 오프라인에서 빠르게 돌리고도 남는다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+          "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+        },
+        {
+          "t": "p",
+          "x": "Lemonade에서 관리하는 모델로 2,600장이 넘는 이미지를 분류하고, 이미지를 생성하고, 열 페이지짜리 웹사이트도 만들었다. 웹사이트는 프롬프트를 꽤 많이 넣어야 했다. Photoshop, Lightroom, 4K Premiere Pro 편집도 무리 없이 해냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+          "cap": "MSI PRO MAX Edge AI+"
+        },
+        {
+          "t": "p",
+          "x": "단점도 있다. 나온 지 한 해가 넘은 CPU, 느린 2.5GbE 네트워킹, 업그레이드할 수 없는 RAM, 그리고 $5,499 (US), €5,299, £5,999라는 비싼 가격이다. 로컬 AI를 제대로 쓰려면 설정하고 실험하는 데도 품이 꽤 든다. 그래도 사생활을 지키는 완전한 오프라인 AI를 원한다면 이 작은 기계에 담긴 성능은 엄청나다."
+        }
+      ]
+    },
+    "gadgets/amazon-driver-ai-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+          "cap": "Amazon 배송기사 (Image credit: Future)"
+        },
+        {
+          "t": "p",
+          "x": "Amazon은 500명이 넘는 기사가 275,000건 이상을 배송한 시범 운영에 이어, 2027년 말까지 배송기사에게 스마트 안경 20,000개 이상을 지급할 계획이다. 안경은 길 안내와 소포 정보, 위험 경고를 시야에 띄우고 정지 이미지도 자주 찍는다. 집이 찍혀도 고객은 거부할 방법이 없다."
+        },
+        {
+          "t": "video",
+          "yt": "XXVhNlNKxQA"
+        },
+        {
+          "t": "p",
+          "x": "하지만 시간당 600,000건의 주문을 처리하는 1백만 대 로봇의 운영에 비하면 안경은 겉으로 드러난 일부일 뿐이다. 파운데이션 모델이 수요를 예측하고 재고 위치를 정하며, Amazon은 2025년 300곳이 넘는 시설에 걸쳐 백만 번째 로봇을 배치했다. DeepFleet은 로봇 무리를 조율해 이동 시간을 약 10% 줄일 전망이고, 에이전트형 Project Eluna는 관리자에게 인력을 어디로 옮길지 추천한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+          "cap": "Amazon 창고 (Image credit: Getty Images/Daniel Holland)"
+        },
+        {
+          "t": "p",
+          "x": "Wellspring 매핑은 202백만 곳의 주차 위치를 찾아냈고, 안경에서 얻은 이미지가 다시 여기에 반영될 수 있다. Amazon은 안경 덕분에 기사가 교대 근무당 최대 30분을 아낀다고 추산했지만 그 시간이 누구 몫인지는 밝히지 않았다. 안경은 Amazon AI의 빙산의 일각일 뿐이다."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch4-ai-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "AI로 나만의 워치 페이스 만들기"
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5에서 티 나지 않게 강력했던 기능 하나가 Pixel Watch 4로 넘어왔다. AI 워치 페이스 생성기가 지금 Pixel Watch 4 모델에 차례로 배포되는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5는 크게 바꾸기보다 다듬는 쪽이었고, 내부 개선도 대부분 AI 성능에 몰렸다. 그 덕에 나온 반가운 결과물이 AI 워치 페이스 생성기다. 나만의 워치 페이스를 조금 더 쉽게 만들게 해 준다."
+        },
+        {
+          "t": "p",
+          "x": "Reddit 사용자들 말로는 이번 업데이트가 4.2.12.989940186 버전에 담겼다. Pixel Watch 5 기본 워치 페이스인 Weave, Modular, Reveal, Chronograph와 따로 만든 Steph Curry 다이얼도 함께 들어왔다."
+        },
+        {
+          "t": "p",
+          "x": "쓰는 법은 간단하다. Pixel Watch 앱에서 새 디자인을 만들 때 프롬프트 영역을 연다. 템플릿 갤러리에서 고르지 말고 원하는 모습을 적으면 Gemini Intelligence가 그에 가깝게 만들어 낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+          "cap": "AI가 만든 워치 페이스(AI-generated)"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+          "cap": "AI가 만든 워치 페이스(AI-generated)"
+        },
+        {
+          "t": "p",
+          "x": "한계는 있다. 그래도 Google이 Pixel Watch 5에서 크게 내세우지 않았을 뿐 훌륭한 도구다. 아직 배포가 진행 중이라 기기에 뜨기까지는 시간이 좀 걸릴 수 있다."
+        }
+      ]
     }
   }
 }

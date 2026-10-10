@@ -1,31 +1,32 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "science",
   "media": [
     {
-      "id": "science-ai-help-persistence",
-      "type": "image",
-      "src": "pipeline/media/science-ai-help-persistence.jpg"
+      "id": "science-etruscan-tomb-acoustics",
+      "type": "video",
+      "src": "pipeline/media/science-etruscan-tomb-acoustics.mp4",
+      "poster": "pipeline/media/science-etruscan-tomb-acoustics.jpg"
     },
     {
-      "id": "science-bolmo-byteification-nature",
+      "id": "science-chatbots-climate-status-quo",
       "type": "image",
-      "src": "pipeline/media/science-bolmo-byteification-nature.jpg"
+      "src": "pipeline/media/science-chatbots-climate-status-quo.jpg"
     },
     {
-      "id": "science-fossil-grass-pollen-cnn",
+      "id": "science-patent-attorney-ai-rct",
       "type": "image",
-      "src": "pipeline/media/science-fossil-grass-pollen-cnn.jpg"
+      "src": "pipeline/media/science-patent-attorney-ai-rct.jpg"
     },
     {
-      "id": "science-llm-symbolic-role-filler",
+      "id": "science-quanta-math-ai-reckoning",
       "type": "image",
-      "src": "pipeline/media/science-llm-symbolic-role-filler.jpg"
+      "src": "pipeline/media/science-quanta-math-ai-reckoning.jpg"
     },
     {
-      "id": "science-spiking-net-event-timing",
+      "id": "science-halzen-nobel-icecube-ai",
       "type": "image",
-      "src": "pipeline/media/science-spiking-net-event-timing.jpg"
+      "src": "pipeline/media/science-halzen-nobel-icecube-ai.jpg"
     }
   ]
 }

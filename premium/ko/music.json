@@ -11083,6 +11083,122 @@
           "x": "\"AI 곡 중 반응이 좋은 곡은 전문가 및 창작자와의 긴밀한 협의를 거쳐 실제 가수가 부르게 하는 매니지먼트 사업으로 확장할 계획입니다.\""
         }
       ]
+    },
+    "music/suno-live-songkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "지난 11월 Suno가 Warner Music Group과 맺은 라이선스 계약에는 공연 탐색 플랫폼 Songkick 인수도 들어 있었다. 당시엔 기묘한 조합으로 보였다. AI 음악 생성 플랫폼이 라이브 공연과 무슨 상관이냐는 반응이었다. 이제 이 어색한 짝이 어떻게 굴러갈지 윤곽이 드러났다."
+        },
+        {
+          "t": "p",
+          "x": "Suno는 Suno Live Experiences라는 부서를 새로 만들었고 ex-Ticketmaster VP Michael Chua가 VP 겸 총괄 매니저로 이끈다. Songkick 총괄도 Chua 몫이다."
+        },
+        {
+          "t": "p",
+          "x": "Suno는 창작자와 그 작품을 즐기는 사람들을 위한 플랫폼이라고 스스로를 적극 내세운다. Suno의 AI 도구로 음악을 만드는 신진 (인간) 아티스트를 돕겠다는 목표도 여러 차례 강조해 왔다."
+        },
+        {
+          "t": "p",
+          "x": "Suno의 최고음악책임자 Paul Sinclair는 Suno를 “최초의 창작 엔터테인먼트 플랫폼”으로 만드는 게 목표라고 했다. AI-powered 음악 창작에 브랜딩, 스트리밍, 청중과의 연결, 이제는 라이브 무대로 가는 길까지 한곳에서 해결하는 그림일지도 모른다."
+        }
+      ]
+    },
+    "music/grimes-psy-opera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Grimes는 4월 Interview에 AI-themed 새 앨범 Psy Opera를 녹음했다고 밝혔다. 막 나온 리드 싱글 “Accelerando” 보도자료에는 이렇게 적혀 있다. “AI 논쟁부터 부도덕한 전쟁, 나쁜 전 연인, looksmaxers, 종교의 중요성까지, Psy Opera는 Grimes가 팝 음악을 쉬는 동안 역사 속 한 여성으로서 목격한 모든 것을 다룬다.” 발매일은 아직 미정이다."
+        },
+        {
+          "t": "p",
+          "x": "곡과 함께 나온 뮤직비디오는 내내 불안하다. Grimes가 사슬에 묶이고, 화형대에서 불타고, 안드로이드 전투 한가운데서 총을 휘두른다."
+        },
+        {
+          "t": "video",
+          "yt": "AVu5p2DMIf8"
+        },
+        {
+          "t": "p",
+          "x": "Grimes는 음악에 AI를 쓰는 일을 오래 옹호해 왔다. 2024년 PBS 시리즈 A Brief History of the Future에서 AI를 뮤지션에게 “기회”라고 했고, 그 전해에는 자기 목소리로 성공적인 AI-generated 곡을 만든 사람 누구에게나 로열티 50%를 주겠다고 나섰다."
+        },
+        {
+          "t": "p",
+          "x": "요한복음(Gospel of John)을 디스토피아풍 AI-themed 이야기로 다시 쓴 Psy Opera 트레일러도 공개했다. Psy Opera는 2020년 Miss Anthropocene 이후 여섯 해 만에 내는 앨범이고, 자기 레이블 Nazgul Recording LLC에서 내는 첫 앨범이기도 하다."
+        }
+      ]
+    },
+    "music/fender-site-ai-tool": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Fender가 악기만 만드는 회사가 아니게 된 지는 꽤 됐다. 지난 십 년 동안 Fender의 음악 교육 사업, 음악 제작 앱 Fender Studio, 아티스트 육성 프로그램 Fender Next 등을 다뤄 왔다. (그리고 2022년 Meta와 함께 내놓은, 지금 보면 그야말로 ‘그 시절’ 느낌이 나는 기타 모양의 ‘Stratoverse’ VR 프로젝트도 있었다.) 이번 디지털 행보는 메인 웹사이트 개편이다. 온라인에서 악기만 사는 곳이 아니라 그 이상의 공간처럼 느껴지게 하는 데 힘을 줬다."
+        },
+        {
+          "t": "p",
+          "x": "주요 기능으로는 먼저 미국(US)에서 선보이는 AI-powered 도구 ‘Ask Fender’가 있다. 이 도구는 “뮤지션이 자신의 연주 스타일과 경험, 필요에 맞는 악기를 찾도록 돕기 위해 설계됐다”고 소개됐다. 아티스트 콘텐츠도 늘린다. 첫 순서는 다음 주(10월 14일) 막을 올리는 다섯 차례 공연 시리즈 ‘The One. For New York’이다. 교육 부문 Fender Play도 새 사이트로 들어오고, 방문자가 악기와 앰프를 둘러보며 소리를 직접 들어 볼 수 있는 공간도 새로 생긴다."
+        },
+        {
+          "t": "p",
+          "x": "“전통적인 이커머스 플랫폼을 넘어, 사람들이 새 장비를 발견하고 자신에게 맞는 것을 찾으며 브랜드와 연결되는 공간”이라고 임시 최고마케팅책임자 Kelly Magrath는 약속했다."
+        }
+      ]
+    },
+    "music/arxiv-ai-music-plagiarism-vi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "텍스트로 음악을 만드는(text-to-music) 생성 모델이 빠르게 늘면서 음악 창작과 지식재산권을 떠받치던 기존 틀이 흔들린다. 이런 상황에서 표절은 수학처럼 딱 떨어지는 이분법인 경우가 드물다. 화성 구조나 선율 윤곽, 전체에서 풍기는 스타일을 놓고 줄다리기하는 흐릿한 문턱에 가깝다."
+        },
+        {
+          "t": "p",
+          "x": "이 연구는 최신(state-of-the-art) 음악 버전 식별 아키텍처가 사람끼리의 커버 영역을 벗어나 인간 대 AI(human-to-AI) 표절 상황에서도 통하는지 시험한다. 평가용으로는 실제 표절 사례에서 출발해 생성형 재합성과 디지털 신호 처리 난독화로 범위를 넓힌 벤치마크 COPYCAT을 내놓았다. 평가 쌍은 350,654개에 이른다."
+        },
+        {
+          "t": "p",
+          "x": "스칼라 거리 임곗값 방식은 생성형 재합성 앞에서 무너졌다. 반면 좌표별 임베딩 이동을 쓴 지도학습 프레임워크는 흩어진 표절 신호를 되살려 전체 F0.5를 0.612에서 0.803으로 끌어올렸다."
+        }
+      ]
+    },
+    "music/music-smith-sentenced": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+        },
+        {
+          "t": "p",
+          "x": "AI 스트리밍 사기를 주도해 저작권료 800만 달러 넘게 챙긴 미국(US) 음악가가 18개월 동안 복역한다."
+        },
+        {
+          "t": "p",
+          "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일 Michael Smith에게 징역 18개월과 $8,091,843.64 몰수가 선고됐다고 확인했다. Smith는 지난 3월 유죄를 인정했다."
+        },
+        {
+          "t": "p",
+          "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음엔 자기 음악을 재생하는 정도였지만 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 커졌다. 2023년 4월 한 달 동안 YouTube Music에서만 스트리밍이 8000만 회를 넘었다. 검찰은 그가 모두 1400만 달러를 벌어들였다고 본다."
+        },
+        {
+          "t": "p",
+          "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들에게 갈 저작권료를 가로챘다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가했다. 업계도 Streaming Integrity Initiative로 사기를 예방하고 탐지해 차단해야 한다는 말도 덧붙였다."
+        }
+      ]
     }
   }
 }

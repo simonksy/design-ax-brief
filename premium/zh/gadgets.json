@@ -6491,6 +6491,169 @@
           "x": "这些平板将于10月14日在美国（US）、墨西哥和加拿大开售，10月19日在英国（UK）、德国、法国、意大利和西班牙开售。"
         }
       ]
+    },
+    "gadgets/siri-personal-index-limits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/intro-1790890251.jpg",
+          "cap": "Siri AI可在iOS、iPadOS、watchOS和macOS上使用。"
+        },
+        {
+          "t": "p",
+          "x": "随着iOS 27推出，Apple开始推送延宕已久的Siri改版。Apple与Google合作训练支撑Siri AI的大语言模型，而这一助手要发挥最佳效果，需要大量用户数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/how-does-siri-ai-access-data-from-your-apps-1790890252.jpg",
+          "cap": "App Intents让Siri及其他Apple Intelligence功能可以访问你应用中的数据。"
+        },
+        {
+          "t": "p",
+          "x": "借助名为App Intents的框架，Siri可以搜索包括Notes和Messages在内的Apple应用，以及开发者提供支持的第三方应用。Siri AI结合了端侧模型与Private Cloud Compute；Apple表示不会存储发送到PCC的数据，也无法查看这些数据。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/restrict-siri-ais-access-to-content-inside-your-apps-1790890252.jpg",
+          "cap": "如何阻止Siri AI调出你应用中的数据。"
+        },
+        {
+          "t": "p",
+          "x": "要屏蔽某个应用，进入Settings > Apps > [app] > Search，关闭Show Content in Search；之后即使直接要求，Siri也不会从该应用提取信息。不过屏幕感知功能仍可读取截图，这些截图可能会被发送到PCC。"
+        },
+        {
+          "t": "p",
+          "x": "若不想让Siri录音被用于训练，可在Privacy & Security > Analytics & Improvements中关闭Improve Siri & Dictation。也可以通过Screen Time > Content & Privacy Restrictions恢复为Siri Classic，或彻底关闭Siri。"
+        }
+      ]
+    },
+    "gadgets/verge-ai-bird-feeder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C5.5499748869915%2C100%2C88.900050226017&w=2400",
+          "cap": "我想念那些可爱的山雀。"
+        },
+        {
+          "t": "p",
+          "x": "我装上售价$269的Kiwibit Bird Feeder 2 Pro几周后，几十只娇小多彩的鸟来到了我的花园。手机收到的第一条AI-driven提醒写着“Looks like Great Tit!”。数百只山雀为去壳葵花籽而来，我用4K HDR视频欣赏它们，并在Kiwibit应用里阅读相关介绍。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Camera_09712321790424982QI133GiOMs8C-ezgif.com-optimize.gif?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "接着来了“Looks like Common Wood Pigeon!”。鸽子挡住镜头，无视喂鸟器的Nuisance Animal Alarm，一直吃了15分钟，直到我把它赶走。鸽子们就此安营扎寨，一待就是30分钟以上，下方还来了老鼠享用掉落的残食。我把喂鸟器拆下来，塞进了壁橱。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5161.jpeg?quality=90&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "我并不怪Kiwibit；在出问题之前，这个喂鸟器用起来很愉快。如果你对智能喂鸟器心动，不妨从简单、便宜、不带AI的产品开始——用过的喂鸟器可不能只因招来害兽就退货。"
+        }
+      ]
+    },
+    "gadgets/msi-pro-max-edge-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "MSI Pro Max Edge AI+是我测试过的最强大的迷你工作站之一。机内搭载配备Radeon 8060S显卡的AMD Ryzen AI Max+ 395、算力最高50 TOPS的AMD XDNA NPU，以及128GB统一内存，足以完全离线并高速运行LLMs。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/4nAjv3KUYcMpZn4LZDDyBA.jpg",
+          "cap": "MSI PRO MAX Edge AI+ (Image credit: Alastair Jennings)"
+        },
+        {
+          "t": "p",
+          "x": "借助在Lemonade中管理的模型，它整理了2,600多张图片、生成了图片，还搭建了一个十页的网站，不过这需要相当多的提示。Photoshop、Lightroom以及4K Premiere Pro剪辑也同样处理得很好。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/nCA2VNFcFGzjYcox8Egc3A.jpg",
+          "cap": "MSI PRO MAX Edge AI+"
+        },
+        {
+          "t": "p",
+          "x": "缺点包括：CPU已推出一年多、2.5GbE网络较慢、RAM无法升级，以及高昂的价格——$5,499 (US)、€5,299、£5,999。想充分发挥本地AI的能力，还需要大量设置和尝试。但若追求私密、完全离线的AI，这台小巧的机器蕴藏着巨大的性能。"
+        }
+      ]
+    },
+    "gadgets/amazon-driver-ai-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa.png",
+          "cap": "Amazon司机（Image credit: Future）"
+        },
+        {
+          "t": "p",
+          "x": "Amazon计划在2027年底前为配送司机配备20,000多副智能眼镜，此前的试点中，500多名司机完成了275,000多次配送。眼镜会在视野中显示导航、包裹详情和危险提醒——还会频繁拍摄静态图像，而住宅被拍到的顾客无法选择退出。"
+        },
+        {
+          "t": "video",
+          "yt": "XXVhNlNKxQA"
+        },
+        {
+          "t": "p",
+          "x": "但看看Amazon每小时处理600,000个订单的1百万台机器人运营，眼镜不过是公众能看到的那一部分。基础模型负责预测需求并决定库存存放位置；Amazon于2025年在300多个设施中部署了第一百万台机器人。DeepFleet负责协调机器人集群，预计可将行驶时间缩短约10%；智能体Project Eluna则向管理者建议应将工人调往何处。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SUE8NSjyGMXMPDdUV4WvET.png",
+          "cap": "Amazon仓库（Image credit: Getty Images/Daniel Holland）"
+        },
+        {
+          "t": "p",
+          "x": "Wellspring地图已识别出202百万个停车位置，眼镜拍下的图像也可能回流其中。Amazon估计眼镜每班最多可为司机节省30分钟，但没有说明这些时间归谁。眼镜只是Amazon AI的冰山一角。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixelwatch4-ai-faces": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&w=1600",
+          "cap": "用AI创建自定义表盘"
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5一项低调却强大的功能已登陆Pixel Watch 4。AI表盘生成器目前正向Pixel Watch 4各机型推送。"
+        },
+        {
+          "t": "p",
+          "x": "Pixel Watch 5更像是一次打磨而非颠覆，其内部改进大多集中在AI性能上。这番投入带来的一个好成果就是AI表盘生成器，它让创建自定义表盘变得更轻松一些。"
+        },
+        {
+          "t": "p",
+          "x": "据Reddit用户反映，此次更新的版本号为4.2.12.989940186，还包含Pixel Watch 5的原生表盘Weave、Modular、Reveal和Chronograph，以及专属的Steph Curry表盘。"
+        },
+        {
+          "t": "p",
+          "x": "生成器用法简单：在Pixel Watch应用中创建新表盘时打开提示词区域，不必从模板库中挑选，只需描述想要的样子，Gemini Intelligence就会生成相近的设计。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_01.png",
+          "cap": "AI生成的表盘（AI-generated）"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/watch_media_2026-08-18_15_32_29.png",
+          "cap": "AI生成的表盘（AI-generated）"
+        },
+        {
+          "t": "p",
+          "x": "它有局限，但仍是Google在Pixel Watch 5上并未大力宣传的出色工具。更新正在推送中，可能需要一段时间才会出现。"
+        }
+      ]
     }
   }
 }

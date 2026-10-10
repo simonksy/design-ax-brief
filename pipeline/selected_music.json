@@ -1,95 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "music",
-  "dedup": {
-    "checks": {
-      "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news": {
-        "verdict": "follow-up",
-        "nearest": "https://www.rollingstone.com/music/music-news/feds-ai-music-fraudster-mike-smith-streaming-sentencing-1235634341/",
-        "new_action": "The court handed down the sentence: 18 months in prison and $8.09M forfeiture for Michael Smith. Earlier cards covered the prosecutors' request (10-05) and the defence's request for no prison (09-29); this is the judge's ruling."
-      },
-      "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/": {
-        "verdict": "new",
-        "nearest": "https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/",
-        "new_action": ""
-      },
-      "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/": {
-        "verdict": "new",
-        "nearest": "https://www.synthtopia.com/content/2026/09/22/free-tool-amorph-builds-custom-plugin-instruments-effects-based-on-your-description/",
-        "new_action": ""
-      },
-      "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/": {
-        "verdict": "new",
-        "nearest": "https://www.musicbusinessworldwide.com/google-picks-base-for-music-for-its-gemini-startup-forum-as-1-7m-backed-french-company-says-it-uses-ai-to-predict-music-marketing-roi/",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2610.09637": {
-        "verdict": "new",
-        "nearest": "https://www.hypebot.com/who-actually-made-this-the-question-ai-is-forcing-music-to-ask/",
-        "new_action": ""
-      }
-    },
-    "note": "Streaming fraud: the Mixmag and Rolling Stone items cover one event, the Smith sentencing. Kept Mixmag only. Rolling Stone's angle (Trump's 'super intelligence' rebrand) belongs to politics today. Mixmag is a follow-up to the 10-05 RS card (prosecutors seeking prison) and the 09-29 MBW card (defence seeking no prison). The new decision is the sentence itself: 18 months plus $8.09M forfeiture. Google Flow Music VST/AU export is tagged 'related' to the 09-24 Amorph card, but it is a different product and vendor (a Google Flow Music feature release), so it is new. Music Ally's round-up leads with the Sonilo video-to-music launch. Its Base for Music mention repeats the 10-09 MBW card, so the copy must lead with Sonilo. Denmark's digital replica law is owned by music today. There is no prior Denmark card; nearest is the Japanese voice ruling (10-02), a different jurisdiction and event. The arXiv attribution study is new research. Nearest is the Hypebot op-ed (10-09), which is commentary with no method. Dropped: Rolling Stone (same event as Mixmag, and the angle is politics-owned). Pitchfork Grimes (an AI-themed album single; AI is a theme, not the event). Billboard Olivia Rodrigo (an artist stance with no concrete product or ruling, same pattern as the Fred again/Kelly Clarkson cards). arXiv plagiarism detection and guqin diffusion (weaker second and third arXiv papers; the attribution paper is the strongest and keeps the per-outlet cap). The two isplus columns (generic opinion). Diversity: 5 distinct outlets (Mixmag, CMU, Synthtopia, Music Ally, arXiv)."
-  },
-  "items": [
+  "picks": [
     {
-      "url": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
-      "source": "Mixmag",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "source": "The Verge",
+      "category": "music",
+      "published_iso": "2026-10-10T18:52:07+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862",
+      "excerpt": "Artists are frustrated with the lack of transparency around DistroKid removing their songs.",
+      "source_lang": "en",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Sentence handed down in the first federal music streaming-fraud case: 18 months in prison and $8.09M forfeiture for using bots to stream AI-generated songs. It sets a concrete penalty benchmark for AI-slop stream farming.",
-      "published_iso": "2026-10-07T00:00:00+00:00",
-      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&format=baseline-jpeg&height=630&width=1200&s=dERx3jdcqlZNKtAkdbiTr2VqAe0ZxWiYBWQ678G9frQ",
-      "excerpt": "Michael Smith was sentenced to 18 months and ordered to forfeit $8.09M for using bot accounts to generate billions of fake streams of AI-generated songs on Spotify, Apple Music, Amazon and YouTube Music - the first federal music streaming-fraud case."
+      "rationale": "Freshest item in the pool; the distributor indie artists use is now pulling tracks without notice, which matters to anyone releasing music, AI-assisted or not."
     },
     {
-      "url": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
-      "source": "CMU",
+      "url": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
+      "title": "New Suno live music division to help make it the \"first creative entertainment platform\"",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-09T13:20:53+00:00",
+      "og_image": "https://musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png",
+      "excerpt": "Part of Suno's licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating platform have to do with live gigs? – but now we'll find out how this seemingly odd-couple relationship will work.",
+      "source_lang": "en",
       "tool": "Music",
-      "accent": "#f5a623",
+      "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Denmark has tabled revised legislation giving performers, and people generally, the right to block unapproved AI replicas of their voice or likeness, targeted for early 2027. It is a concrete new legal tool against vocal deepfakes.",
-      "published_iso": "2026-10-09T13:59:29+00:00",
-      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png",
-      "excerpt": "Danish culture minister Zenia Stampe presented revised proposals to parliament for new rights letting performers, and people generally, block unapproved AI digital replicas of their voice or likeness, with the law expected to take effect in early 2027."
+      "rationale": "New Suno announcement: a live-music division built on Songkick that takes the AI music platform beyond generation and into concerts."
     },
     {
-      "url": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
-      "source": "Synthtopia",
+      "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
+      "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
+      "source": "Pitchfork",
+      "category": "music",
+      "published_iso": "2026-10-09T04:08:07.386Z",
+      "og_image": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg",
+      "excerpt": "The album promises to cover everything the singer \"witnessed as a woman of history during her hiatus from pop music\"",
+      "source_lang": "en",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Google Flow Music now exports prompt-built instruments and effects as VST3/AU plugins that run in any DAW. Producers can build custom tools in plain language without writing code.",
-      "published_iso": "2026-10-07T22:05:12+00:00",
-      "og_image": "https://www.synthtopia.com/wp-content/uploads/2026/10/vibe-coding-audio-applications.jpg",
-      "excerpt": "Google Flow Music now lets producers export custom 'Spaces' - instruments and effects built from natural-language prompts - as VST3/AU plugins that run inside their DAWs, no coding required."
+      "rationale": "New release: a major artist who has embraced AI puts out the first single from an AI-themed album, which gives the brief an artist angle."
     },
     {
-      "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
+      "url": "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/",
+      "title": "Fender revamps its website with AI tool and more artist content",
       "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-06T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Fender has been more than just a maker of instruments for some time now. In the last decade we've written about its moves in music education, its Fender Studio music-making app and its Fender Next artist-development program for example.",
+      "source_lang": "en",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Product launch: a major instrument maker adds an AI tool to its site, showing AI reaching guitar players directly."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.09075",
+      "title": "Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-06T20:18:23Z",
+      "og_image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "excerpt": "The rapid expansion of text-to-music generative models challenges traditional paradigms of music creation and intellectual property. Plagiarism in this context is rarely an absolute mathematical binary, but an ambiguous threshold negotiated over harmonic structure, melodic contours, or overall perceived stylistic character. In this work, we test the transferability of state-of-the-art music versio",
+      "source_lang": "en",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Sonilo launches a multimodal system that reads a video's pacing, emotion and story to generate time-aligned music, a new route for soundtrack and sync work. Lead with Sonilo; Base for Music was already covered on 10-09.",
-      "published_iso": "2026-10-09T13:11:03+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png",
-      "excerpt": "Music Ally's weekly AI round-up: Sonilo launches a multimodal AI system that reads a video's pacing, emotion and storyline to generate time-aligned music, plus AI updates from Laylo and others."
-    },
-    {
-      "url": "https://arxiv.org/abs/2610.09637",
-      "source": "arXiv",
-      "tool": "Music",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "rationale": "New research shows input-based attribution can give verifiable evidence of which source recordings shaped an AI-generated track. That is the technical basis that licensing and royalty schemes for AI music need.",
-      "published_iso": "2026-10-07T08:14:19+00:00",
-      "og_image": null,
-      "excerpt": "How can we verify whose music contributed to an AI-generated output? The paper shows input-based attribution can give verifiable evidence of which audio sources were used in a generation and whether they shaped the output."
+      "rationale": "New research that tests cover-song (version) identification models as a way to detect plagiarism in AI-generated music, the technical side of the ongoing copyright fights."
     }
   ],
-  "alternates": [
-    "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
-    "https://arxiv.org/abs/2610.09075"
-  ]
+  "dedup": {
+    "checks": {
+      "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit": {
+        "verdict": "follow-up",
+        "nearest": "https://completemusicupdate.com/distrokids-2-billion-valuation-based-on-it-being-a-pipeline-for-ai-slop-and-copyright-infringement-says-universal/",
+        "new_action": "DistroKid has begun removing songs from its catalogue in response to the UMG lawsuit. This is a new action by the defendant; the 09-20 card covered only UMG's allegations."
+      },
+      "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/": {
+        "verdict": "new",
+        "nearest": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+        "new_action": ""
+      },
+      "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
+        "new_action": ""
+      },
+      "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://arxiv.org/abs/2610.09075": {
+        "verdict": "new",
+        "nearest": "https://arxiv.org/abs/2610.09637",
+        "new_action": ""
+      }
+    },
+    "note": "Pool of 12 with no clusters. Grimes' history_match (Suno albums, 10-06) is word overlap only; it is a different story. The DistroKid item is kept as a follow-up because the takedowns are a new concrete action. Not picked: Google SynthID detector (TechCrunch). Its history_match (Google vibe-code plugins, 10-10) is a different story, but it is a general cross-media AI-detection launch with a weak music angle and likely overlaps gadgets or politics today. Olivia Rodrigo (celebrity statement on AI, the same type as the Kelly Clarkson, Fred again.. and Bonamassa cards already published). Splice CEO interview (interview, 10-03, oldest in the pool). DMN publishing podcast (weak AI angle). Suno Banoffee v6 promo video (09-30, promotional). MIRA and SepGen arXiv papers (kept to one arXiv pick; SepGen is mostly an audio-video separation model). Outlets in the final 5: Verge 1, Music Ally 2, Pitchfork 1, arXiv 1."
+  }
 }

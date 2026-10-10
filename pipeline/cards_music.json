@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "music",
   "cards": [
     {
-      "id": "music-smith-sentenced",
+      "id": "distrokid-umg-takedowns",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
-      "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
-      "mini_headline": "AI 스트리밍 사기, 징역 18개월",
+      "headline": "DistroKid, 조용히\nUMG 소송 뒤 곡 삭제",
+      "body": "DistroKid가 UMG 소송 여파로 설명 없이 곡을 내려 원성을 산다.",
+      "mini_headline": "DistroKid, UMG 소송 속 곡 삭제",
       "tool": "Music",
-      "source": "Mixmag",
-      "url": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,197 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
           },
           {
             "t": "p",
-            "x": "AI 스트리밍 사기를 주도해 저작권료 800만 달러 넘게 챙긴 미국(US) 음악가가 18개월 동안 복역한다."
+            "x": "DistroKid가 예고도 없이 작품을 일방적으로 내렸다며 아티스트들이 소셜미디어에서 불만을 쏟아낸다. DistroKid는 이번 삭제가 UMG 주장에 직접 대응한 조치라고 The Verge에 확인했다. UMG는 지난 9월 DistroKid가 “AI-slop 파이프라인”을 만들었다며 소송을 냈다. AI를 쓰지 않은(non-AI) 작품까지 이번 정리에 휩쓸렸다는 게 아티스트들 얘기다."
           },
           {
             "t": "p",
-            "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일 Michael Smith에게 징역 18개월과 $8,091,843.64 몰수가 선고됐다고 확인했다. Smith는 지난 3월 유죄를 인정했다."
+            "x": "뮤지션 McGwire는 노래 여섯 곡이 스트리밍에서 사라졌는데 그 전에도 후에도 DistroKid에서 아무 연락이 없었다고 밝혔다. 그중 한 곡은 Stevie Wonder의 “Isn’t She Lovely” 커버인데, 정식 라이선스를 받았다는 게 그의 주장이다. 다른 한 곡은 자기 곡보다 두 해 늦게 나온 노래를 무단 샘플링했다는 이유로 내려갔다."
           },
           {
             "t": "p",
-            "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음엔 자기 음악을 재생하는 정도였지만 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 커졌다. 2023년 4월 한 달 동안 YouTube Music에서만 스트리밍이 8000만 회를 넘었다. 검찰은 그가 모두 1400만 달러를 벌어들였다고 본다."
+            "x": "프로듀서 Jesse Cannon은 “DistroKid는 약 두 해 전에 고객 서비스를 포기했다”고 말했다. 래퍼 King Chase는 3-4년 동안 걸려 있던 앨범 전체가 설명 한마디 없이 내려갔다고 했다."
           },
           {
             "t": "p",
-            "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들에게 갈 저작권료를 가로챘다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가했다. 업계도 Streaming Integrity Initiative로 사기를 예방하고 탐지해 차단해야 한다는 말도 덧붙였다."
+            "x": "DistroKid의 Artist Services 담당 VP Amanda Ferri는 “DistroKid를 통해 유통된 극히 일부 음원이 UMG의 주장에 따라 삭제됐다. 우리는 UMG 소송의 근거가 된 주장에 강하게 반박하며, 영향을 받은 아티스트들이 겪은 불편에 유감을 표한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI stream fraudster gets\n18 months in prison",
-          "body": "Michael Smith got 18 months and an $8.09M forfeiture for using bots to fake billions of streams of AI songs.",
-          "mini_headline": "AI stream fraud:\n18 months",
+          "headline": "DistroKid quietly pulls songs\nafter UMG lawsuit",
+          "body": "DistroKid is quietly removing songs over UMG's lawsuit, frustrating artists with little transparency.",
+          "mini_headline": "DistroKid pulls songs amid UMG suit",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "A US musician will spend a year and a half in prison for masterminding an AI streaming fraud scheme that earned him over $8 million in royalties."
+                "x": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG, which filed a lawsuit in September claiming DistroKid has created an “AI-slop pipeline.” Artists say their non-AI works are being caught up in the purge."
               },
               {
                 "t": "p",
-                "x": "On October 6, the US Attorney's Office for the Southern District of New York confirmed that Michael Smith, who pleaded guilty in March, will serve 18 months and must forfeit $8,091,843.64."
+                "x": "Musician McGwire reported that six of his songs were removed from streaming, with no communication from DistroKid before or after. One was a cover of Stevie Wonder’s “Isn’t She Lovely,” which he claims to have had a proper license for; another was pulled for an uncleared sample of a song released two years after his track."
               },
               {
                 "t": "p",
-                "x": "Between 2017 and 2024, investigators found, Smith used bot accounts to generate billions of streams of AI music on Spotify, Apple Music, Amazon Music and YouTube Music. What began as streams of his own music became a plot to upload hundreds of thousands of AI-generated tracks, drawing over 80 million streams in April 2023 on YouTube Music alone. Prosecutors believe he amassed $14 million in total."
+                "x": "Producer Jesse Cannon said “DistroKid gave up on customer service about two years ago.” Rapper King Chase said an entire album that had been up for 3-4 years was removed with no explanation."
               },
               {
                 "t": "p",
-                "x": "US Attorney Jamie McDonald said Smith flooded platforms \"with automated bots in the place of consumers, and fake songs in the place of creativity\", robbing genuine artists of royalties."
-              },
-              {
-                "t": "p",
-                "x": "The IFPI said the result \"sends a clear message that streaming fraud is a crime\", adding that the industry must also prevent, detect and disrupt fraud through its Streaming Integrity Initiative."
+                "x": "DistroKid VP of Artist Services Amanda Ferri said “A very small number of recordings distributed through DistroKid have been removed in response to claims made by UMG. We strongly dispute the allegations underlying UMG’s lawsuit and regret the disruption to affected artists.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
-          "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
-          "mini_headline": "AI 스트리밍 사기, 징역 18개월",
+          "headline": "DistroKid, 조용히\nUMG 소송 뒤 곡 삭제",
+          "body": "DistroKid가 UMG 소송 여파로 설명 없이 곡을 내려 원성을 산다.",
+          "mini_headline": "DistroKid, UMG 소송 속 곡 삭제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "AI 스트리밍 사기를 주도해 저작권료 800만 달러 넘게 챙긴 미국(US) 음악가가 18개월 동안 복역한다."
+                "x": "DistroKid가 예고도 없이 작품을 일방적으로 내렸다며 아티스트들이 소셜미디어에서 불만을 쏟아낸다. DistroKid는 이번 삭제가 UMG 주장에 직접 대응한 조치라고 The Verge에 확인했다. UMG는 지난 9월 DistroKid가 “AI-slop 파이프라인”을 만들었다며 소송을 냈다. AI를 쓰지 않은(non-AI) 작품까지 이번 정리에 휩쓸렸다는 게 아티스트들 얘기다."
               },
               {
                 "t": "p",
-                "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일 Michael Smith에게 징역 18개월과 $8,091,843.64 몰수가 선고됐다고 확인했다. Smith는 지난 3월 유죄를 인정했다."
+                "x": "뮤지션 McGwire는 노래 여섯 곡이 스트리밍에서 사라졌는데 그 전에도 후에도 DistroKid에서 아무 연락이 없었다고 밝혔다. 그중 한 곡은 Stevie Wonder의 “Isn’t She Lovely” 커버인데, 정식 라이선스를 받았다는 게 그의 주장이다. 다른 한 곡은 자기 곡보다 두 해 늦게 나온 노래를 무단 샘플링했다는 이유로 내려갔다."
               },
               {
                 "t": "p",
-                "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음엔 자기 음악을 재생하는 정도였지만 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 커졌다. 2023년 4월 한 달 동안 YouTube Music에서만 스트리밍이 8000만 회를 넘었다. 검찰은 그가 모두 1400만 달러를 벌어들였다고 본다."
+                "x": "프로듀서 Jesse Cannon은 “DistroKid는 약 두 해 전에 고객 서비스를 포기했다”고 말했다. 래퍼 King Chase는 3-4년 동안 걸려 있던 앨범 전체가 설명 한마디 없이 내려갔다고 했다."
               },
               {
                 "t": "p",
-                "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들에게 갈 저작권료를 가로챘다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가했다. 업계도 Streaming Integrity Initiative로 사기를 예방하고 탐지해 차단해야 한다는 말도 덧붙였다."
+                "x": "DistroKid의 Artist Services 담당 VP Amanda Ferri는 “DistroKid를 통해 유통된 극히 일부 음원이 UMG의 주장에 따라 삭제됐다. 우리는 UMG 소송의 근거가 된 주장에 강하게 반박하며, 영향을 받은 아티스트들이 겪은 불편에 유감을 표한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIストリーミング詐欺\n禁錮18カ月の判決",
-          "body": "ボットでAI曲再生を水増ししたSmithに禁錮18カ月と$8.09M の没収が命じられた。",
-          "mini_headline": "AI再生詐欺、禁錮18カ月",
+          "headline": "DistroKid、楽曲を\nUMG提訴後ひそかに削除",
+          "body": "DistroKidがUMG訴訟を受け説明なく楽曲を削除し、アーティストが反発している。",
+          "mini_headline": "DistroKid、UMG訴訟で楽曲削除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "米国(US)の音楽家が、AIを使ったストリーミング詐欺を首謀し800万ドルを超える印税を得たとして、18カ月服役することになった。"
+                "x": "アーティストたちが、DistroKidに予告なく作品を一方的に削除されたとSNSで不満を訴えている。DistroKidはThe Vergeに対し、今回の削除はUMGの申し立てへの直接的な対応だと認めた。UMGは9月、DistroKidが「AI-slopパイプライン」を生み出したとして訴訟を起こしている。アーティストらは、AIを使っていない（non-AI）作品まで巻き込まれていると話す。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク南部地区連邦検察局(US Attorney's Office for the Southern District of New York)は10月6日、3月に有罪を認めたMichael Smithが禁錮18カ月に服し、$8,091,843.64を没収されることを確認した。"
+                "x": "ミュージシャンのMcGwireによると、自身の楽曲六曲がストリーミングから削除され、その前後にDistroKidからの連絡は一切なかった。うち一曲はStevie Wonderの「Isn’t She Lovely」のカバーで、本人は正規のライセンスを取得していたと主張する。もう一曲は、自分の曲より二年後にリリースされた曲のサンプルを無許可で使ったとして削除された。"
               },
               {
                 "t": "p",
-                "x": "捜査によると、Smithは2017年から2024年にかけて、ボットアカウントを使ってSpotify、Apple Music、Amazon Music、YouTube MusicでAI音楽の再生を数十億回生み出した。当初は自身の楽曲の再生から始まったが、やがて数十万曲のAI生成(AI-generated)トラックをアップロードする計画へと発展し、2023年4月にはYouTube Musicだけで8000万回を超える再生を集めた。検察は、彼が総額1400万ドルを手にしたとみている。"
+                "x": "プロデューサーのJesse Cannonは「DistroKidは二年ほど前に顧客サービスを放棄した」と語った。ラッパーのKing Chaseは、3-4年公開していたアルバムが丸ごと説明なしに削除されたという。"
               },
               {
                 "t": "p",
-                "x": "US連邦検事のJamie McDonaldは、Smithが「消費者の代わりに自動化されたボットを、創造性の代わりに偽の楽曲を」プラットフォームにあふれさせ、本物のアーティストから印税を奪ったと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "IFPIは今回の結果が「ストリーミング詐欺は犯罪であるという明確なメッセージを送るものだ」とし、業界もStreaming Integrity Initiativeを通じて詐欺を防止、検知、阻止しなければならないと付け加えた。"
+                "x": "DistroKidのArtist Services担当VP、Amanda Ferriは「DistroKidを通じて配信された音源のうち、ごく少数がUMGの申し立てを受けて削除された。UMGの訴訟の根拠となった主張には強く異議を唱えており、影響を受けたアーティストに混乱をもたらしたことを遺憾に思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI流媒体刷量者\n被判入狱18个月",
-          "body": "Smith用机器人伪造数十亿次AI歌曲播放，被判入狱18个月并没收$8.09M。",
-          "mini_headline": "AI刷量诈骗：获刑18个月",
+          "headline": "遭UMG起诉后\nDistroKid悄撤歌曲",
+          "body": "DistroKid因UMG诉讼悄然下架歌曲，却几乎不作说明，令艺人不满。",
+          "mini_headline": "DistroKid因UMG诉讼下架歌曲",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "一名美国(US)音乐人因策划AI流媒体欺诈计划、赚取超过800万美元版税，将入狱一年半。"
+                "x": "艺人们纷纷在社交媒体上抱怨，DistroKid在未作任何通知的情况下草率删除了他们的作品。DistroKid向The Verge证实，此次下架是对UMG所提主张的直接回应。UMG于9月提起诉讼，称DistroKid打造了一条“AI-slop流水线”。艺人们表示，他们并非AI创作（non-AI）的作品也被卷入了这轮清理。"
               },
               {
                 "t": "p",
-                "x": "10月6日，纽约南区联邦检察官办公室(US Attorney's Office for the Southern District of New York)确认，已于3月认罪的Michael Smith将服刑18个月，并须没收$8,091,843.64。"
+                "x": "音乐人McGwire称，他有六首歌曲被从流媒体平台下架，DistroKid事前事后都没有任何沟通。其中一首是Stevie Wonder的“Isn’t She Lovely”翻唱，他称自己已取得正规授权；另一首则因未经授权使用了一首歌曲的采样而被下架，而那首歌比他的作品晚两年才发行。"
               },
               {
                 "t": "p",
-                "x": "调查人员发现，2017年至2024年间，Smith利用机器人账户在Spotify、Apple Music、Amazon Music和YouTube Music上为AI音乐制造了数十亿次播放。起初他只是为自己的音乐刷播放量，后来演变为上传数十万首AI生成(AI-generated)曲目的计划，仅2023年4月在YouTube Music上就获得超过8000万次播放。检方认为他总共获利1400万美元。"
+                "x": "制作人Jesse Cannon说：“DistroKid大约两年前就放弃了客户服务。”说唱歌手King Chase表示，他一整张已上线3-4年的专辑在毫无解释的情况下被删除。"
               },
               {
                 "t": "p",
-                "x": "US联邦检察官Jamie McDonald表示，Smith让平台充斥着“取代消费者的自动化机器人，以及取代创造力的虚假歌曲”，夺走了真正艺术家的版税。"
-              },
-              {
-                "t": "p",
-                "x": "IFPI表示，这一结果“传递了流媒体欺诈是犯罪的明确信息”，并补充说，业界也必须通过其Streaming Integrity Initiative来预防、发现和打击欺诈。"
+                "x": "DistroKid的Artist Services副总裁（VP）Amanda Ferri表示：“通过DistroKid发行的录音中，有极少数已根据UMG的主张被移除。我们强烈反对UMG诉讼所依据的指控，并对受影响艺人遭受的干扰深表遗憾。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Condenado a 18 meses de cárcel\npor fraude de streams con IA",
-          "body": "Michael Smith recibió 18 meses y un decomiso de $8.09M por inflar con bots miles de millones de streams de IA.",
-          "mini_headline": "Fraude de streams con IA: 18 meses",
+          "headline": "DistroKid retira canciones\nen silencio tras demanda de UMG",
+          "body": "DistroKid retira canciones en silencio por la demanda de UMG y frustra a los artistas con escasa transparencia.",
+          "mini_headline": "DistroKid retira canciones por la demanda de UMG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "Un músico de EE. UU. (US) pasará un año y medio en prisión por idear un esquema de fraude de streaming con IA (AI) que le reportó más de 8 millones de dólares en regalías."
+                "x": "Los artistas se quejan en redes sociales de que DistroKid ha retirado sus obras sin miramientos y sin previo aviso. DistroKid confirmó a The Verge que las retiradas son una respuesta directa a las reclamaciones de UMG, que en septiembre presentó una demanda en la que afirma que DistroKid ha creado una “canalización de AI-slop”. Los artistas aseguran que obras suyas hechas sin IA (non-AI) se están viendo arrastradas por la purga."
               },
               {
                 "t": "p",
-                "x": "El 6 de octubre, la Fiscalía de EE. UU. para el Distrito Sur de Nueva York (US Attorney's Office for the Southern District of New York) confirmó que Michael Smith, que se declaró culpable en marzo, cumplirá 18 meses y deberá entregar $8,091,843.64."
+                "x": "El músico McGwire contó que seis de sus canciones fueron retiradas de las plataformas de streaming, sin ninguna comunicación de DistroKid antes ni después. Una era una versión de “Isn’t She Lovely”, de Stevie Wonder, para la que asegura tener la licencia correspondiente; otra se retiró por un sample no autorizado de una canción publicada dos años después que su tema."
               },
               {
                 "t": "p",
-                "x": "Según los investigadores, entre 2017 y 2024 Smith usó cuentas bot para generar miles de millones de reproducciones de música de IA en Spotify, Apple Music, Amazon Music y YouTube Music. Lo que empezó como reproducciones de su propia música se convirtió en un plan para subir cientos de miles de pistas generadas por IA (AI-generated), que solo en YouTube Music sumaron más de 80 millones de reproducciones en abril de 2023. La fiscalía cree que acumuló 14 millones de dólares en total."
+                "x": "El productor Jesse Cannon dijo que “DistroKid renunció a la atención al cliente hace unos dos años”. El rapero King Chase afirmó que le retiraron sin explicación un álbum completo que llevaba publicado 3-4 años."
               },
               {
                 "t": "p",
-                "x": "El fiscal federal (US Attorney) Jamie McDonald afirmó que Smith inundó las plataformas “con bots automatizados en lugar de consumidores y canciones falsas en lugar de creatividad”, con lo que robó regalías a artistas genuinos."
-              },
-              {
-                "t": "p",
-                "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
+                "x": "Amanda Ferri, VP de Artist Services de DistroKid, declaró: “Un número muy reducido de grabaciones distribuidas a través de DistroKid se ha retirado en respuesta a las reclamaciones de UMG. Rechazamos con firmeza las acusaciones en las que se basa la demanda de UMG y lamentamos los trastornos causados a los artistas afectados”."
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 스트리밍 사기범\n징역 18개월 선고",
-          "body": "AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
-          "mini_headline": "AI 스트리밍 사기, 징역 18개월",
+          "headline": "DistroKid, 조용히\nUMG 소송 뒤 곡 삭제",
+          "body": "DistroKid가 UMG 소송 여파로 설명 없이 곡을 내려 원성을 산다.",
+          "mini_headline": "DistroKid, UMG 소송 속 곡 삭제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "미국(US)의 한 음악가가 AI 스트리밍 사기를 주도해 저작권료 800만 달러 이상을 챙긴 죄로 18개월간 복역하게 됐다."
+                "x": "아티스트들이 DistroKid가 예고 없이 자신의 작품을 일방적으로 내렸다며 소셜미디어에서 불만을 토로하고 있다. DistroKid는 The Verge에 이번 삭제가 UMG의 주장에 대한 직접적인 대응이라고 확인했다. UMG는 지난 9월 DistroKid가 “AI-slop 파이프라인”을 만들었다고 주장하며 소송을 제기했다. 아티스트들은 AI를 쓰지 않은(non-AI) 자신의 작품까지 이번 정리에 휩쓸리고 있다고 말한다."
               },
               {
                 "t": "p",
-                "x": "뉴욕 남부지검(US Attorney's Office for the Southern District of New York)은 10월 6일, 지난 3월 유죄를 인정한 Michael Smith가 징역 18개월을 살고 $8,091,843.64를 몰수당하게 됐다고 확인했다."
+                "x": "뮤지션 McGwire는 자신의 노래 여섯 곡이 스트리밍에서 삭제됐으며, 그 전후로 DistroKid에서 아무 연락도 받지 못했다고 밝혔다. 그중 하나는 Stevie Wonder의 “Isn’t She Lovely” 커버로, 그는 정식 라이선스를 갖고 있었다고 주장한다. 다른 한 곡은 자신의 곡보다 두 해 뒤에 나온 노래의 샘플을 허가 없이 썼다는 이유로 내려갔다."
               },
               {
                 "t": "p",
-                "x": "수사 결과 Smith는 2017년부터 2024년까지 봇 계정으로 Spotify, Apple Music, Amazon Music, YouTube Music에서 AI 음악 스트리밍 수십억 회를 만들어냈다. 처음에는 자기 음악을 재생하는 데서 시작했지만, 곧 AI 생성(AI-generated) 트랙 수십만 곡을 올리는 계획으로 번졌고, 2023년 4월 한 달 동안 YouTube Music에서만 8000만 회가 넘는 스트리밍을 끌어모았다. 검찰은 그가 모두 1400만 달러를 벌어들인 것으로 본다."
+                "x": "프로듀서 Jesse Cannon은 “DistroKid는 약 두 해 전에 고객 서비스를 포기했다”고 말했다. 래퍼 King Chase는 3-4년 동안 올라가 있던 앨범 전체가 아무 설명 없이 삭제됐다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "US 연방검사 Jamie McDonald는 Smith가 플랫폼을 “소비자 대신 자동화된 봇으로, 창작 대신 가짜 노래로” 채워 진짜 아티스트들의 저작권료를 가로챘다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "IFPI는 이번 결과가 “스트리밍 사기가 범죄라는 분명한 메시지를 보낸다”고 평가하며, 업계도 Streaming Integrity Initiative를 통해 사기를 예방하고 탐지하고 차단해야 한다고 덧붙였다."
+                "x": "DistroKid의 Artist Services 담당 VP Amanda Ferri는 “DistroKid를 통해 유통된 극히 일부 음원이 UMG의 주장에 따라 삭제됐다. 우리는 UMG 소송의 근거가 된 주장에 강하게 반박하며, 영향을 받은 아티스트들이 겪은 불편에 유감을 표한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIストリーミング詐欺\n禁錮18カ月の判決",
-          "body": "ボットでAI曲再生を水増ししたSmithに禁錮18カ月と$8.09M の没収が命じられた。",
-          "mini_headline": "AI再生詐欺、禁錮18カ月",
+          "headline": "DistroKid、楽曲を\nUMG提訴後ひそかに削除",
+          "body": "DistroKidがUMG訴訟を受け説明なく楽曲を削除し、アーティストが反発している。",
+          "mini_headline": "DistroKid、UMG訴訟で楽曲削除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "米国(US)の音楽家が、AIを使ったストリーミング詐欺を首謀し800万ドルを超える印税を得たとして、18カ月服役することになった。"
+                "x": "アーティストたちが、DistroKidに予告なく作品を一方的に削除されたとSNSで不満を訴えている。DistroKidはThe Vergeに対し、今回の削除はUMGの申し立てへの直接的な対応だと認めた。UMGは9月、DistroKidが「AI-slopパイプライン」を生み出したとして訴訟を起こしている。アーティストらは、AIを使っていない（non-AI）作品まで巻き込まれていると話す。"
               },
               {
                 "t": "p",
-                "x": "ニューヨーク南部地区連邦検察局(US Attorney's Office for the Southern District of New York)は10月6日、3月に有罪を認めたMichael Smithが禁錮18カ月に服し、$8,091,843.64を没収されることを確認した。"
+                "x": "ミュージシャンのMcGwireによると、自身の楽曲六曲がストリーミングから削除され、その前後にDistroKidからの連絡は一切なかった。うち一曲はStevie Wonderの「Isn’t She Lovely」のカバーで、本人は正規のライセンスを取得していたと主張する。もう一曲は、自分の曲より二年後にリリースされた曲のサンプルを無許可で使ったとして削除された。"
               },
               {
                 "t": "p",
-                "x": "捜査によると、Smithは2017年から2024年にかけて、ボットアカウントを使ってSpotify、Apple Music、Amazon Music、YouTube MusicでAI音楽の再生を数十億回生み出した。当初は自身の楽曲の再生から始まったが、やがて数十万曲のAI生成(AI-generated)トラックをアップロードする計画へと発展し、2023年4月にはYouTube Musicだけで8000万回を超える再生を集めた。検察は、彼が総額1400万ドルを手にしたとみている。"
+                "x": "プロデューサーのJesse Cannonは「DistroKidは二年ほど前に顧客サービスを放棄した」と語った。ラッパーのKing Chaseは、3-4年公開していたアルバムが丸ごと説明なしに削除されたという。"
               },
               {
                 "t": "p",
-                "x": "US連邦検事のJamie McDonaldは、Smithが「消費者の代わりに自動化されたボットを、創造性の代わりに偽の楽曲を」プラットフォームにあふれさせ、本物のアーティストから印税を奪ったと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "IFPIは今回の結果が「ストリーミング詐欺は犯罪であるという明確なメッセージを送るものだ」とし、業界もStreaming Integrity Initiativeを通じて詐欺を防止、検知、阻止しなければならないと付け加えた。"
+                "x": "DistroKidのArtist Services担当VP、Amanda Ferriは「DistroKidを通じて配信された音源のうち、ごく少数がUMGの申し立てを受けて削除された。UMGの訴訟の根拠となった主張には強く異議を唱えており、影響を受けたアーティストに混乱をもたらしたことを遺憾に思う」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI流媒体刷量者\n被判入狱18个月",
-          "body": "Smith用机器人伪造数十亿次AI歌曲播放，被判入狱18个月并没收$8.09M。",
-          "mini_headline": "AI刷量诈骗：获刑18个月",
+          "headline": "遭UMG起诉后\nDistroKid悄撤歌曲",
+          "body": "DistroKid因UMG诉讼悄然下架歌曲，却几乎不作说明，令艺人不满。",
+          "mini_headline": "DistroKid因UMG诉讼下架歌曲",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "一名美国(US)音乐人因策划AI流媒体欺诈计划、赚取超过800万美元版税，将入狱一年半。"
+                "x": "艺人们纷纷在社交媒体上抱怨，DistroKid在未作任何通知的情况下草率删除了他们的作品。DistroKid向The Verge证实，此次下架是对UMG所提主张的直接回应。UMG于9月提起诉讼，称DistroKid打造了一条“AI-slop流水线”。艺人们表示，他们并非AI创作（non-AI）的作品也被卷入了这轮清理。"
               },
               {
                 "t": "p",
-                "x": "10月6日，纽约南区联邦检察官办公室(US Attorney's Office for the Southern District of New York)确认，已于3月认罪的Michael Smith将服刑18个月，并须没收$8,091,843.64。"
+                "x": "音乐人McGwire称，他有六首歌曲被从流媒体平台下架，DistroKid事前事后都没有任何沟通。其中一首是Stevie Wonder的“Isn’t She Lovely”翻唱，他称自己已取得正规授权；另一首则因未经授权使用了一首歌曲的采样而被下架，而那首歌比他的作品晚两年才发行。"
               },
               {
                 "t": "p",
-                "x": "调查人员发现，2017年至2024年间，Smith利用机器人账户在Spotify、Apple Music、Amazon Music和YouTube Music上为AI音乐制造了数十亿次播放。起初他只是为自己的音乐刷播放量，后来演变为上传数十万首AI生成(AI-generated)曲目的计划，仅2023年4月在YouTube Music上就获得超过8000万次播放。检方认为他总共获利1400万美元。"
+                "x": "制作人Jesse Cannon说：“DistroKid大约两年前就放弃了客户服务。”说唱歌手King Chase表示，他一整张已上线3-4年的专辑在毫无解释的情况下被删除。"
               },
               {
                 "t": "p",
-                "x": "US联邦检察官Jamie McDonald表示，Smith让平台充斥着“取代消费者的自动化机器人，以及取代创造力的虚假歌曲”，夺走了真正艺术家的版税。"
-              },
-              {
-                "t": "p",
-                "x": "IFPI表示，这一结果“传递了流媒体欺诈是犯罪的明确信息”，并补充说，业界也必须通过其Streaming Integrity Initiative来预防、发现和打击欺诈。"
+                "x": "DistroKid的Artist Services副总裁（VP）Amanda Ferri表示：“通过DistroKid发行的录音中，有极少数已根据UMG的主张被移除。我们强烈反对UMG诉讼所依据的指控，并对受影响艺人遭受的干扰深表遗憾。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Condenado a 18 meses de cárcel\npor fraude de streams con IA",
-          "body": "Michael Smith recibió 18 meses y un decomiso de $8.09M por inflar con bots miles de millones de streams de IA.",
-          "mini_headline": "Fraude de streams con IA: 18 meses",
+          "headline": "DistroKid retira canciones\nen silencio tras demanda de UMG",
+          "body": "DistroKid retira canciones en silencio por la demanda de UMG y frustra a los artistas con escasa transparencia.",
+          "mini_headline": "DistroKid retira canciones por la demanda de UMG",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&strip=all&crop=0,24.460477589069,100,51.079044821862"
               },
               {
                 "t": "p",
-                "x": "Un músico de EE. UU. (US) pasará un año y medio en prisión por idear un esquema de fraude de streaming con IA (AI) que le reportó más de 8 millones de dólares en regalías."
+                "x": "Los artistas se quejan en redes sociales de que DistroKid ha retirado sus obras sin miramientos y sin previo aviso. DistroKid confirmó a The Verge que las retiradas son una respuesta directa a las reclamaciones de UMG, que en septiembre presentó una demanda en la que afirma que DistroKid ha creado una “canalización de AI-slop”. Los artistas aseguran que obras suyas hechas sin IA (non-AI) se están viendo arrastradas por la purga."
               },
               {
                 "t": "p",
-                "x": "El 6 de octubre, la Fiscalía de EE. UU. para el Distrito Sur de Nueva York (US Attorney's Office for the Southern District of New York) confirmó que Michael Smith, que se declaró culpable en marzo, cumplirá 18 meses y deberá entregar $8,091,843.64."
+                "x": "El músico McGwire contó que seis de sus canciones fueron retiradas de las plataformas de streaming, sin ninguna comunicación de DistroKid antes ni después. Una era una versión de “Isn’t She Lovely”, de Stevie Wonder, para la que asegura tener la licencia correspondiente; otra se retiró por un sample no autorizado de una canción publicada dos años después que su tema."
               },
               {
                 "t": "p",
-                "x": "Según los investigadores, entre 2017 y 2024 Smith usó cuentas bot para generar miles de millones de reproducciones de música de IA en Spotify, Apple Music, Amazon Music y YouTube Music. Lo que empezó como reproducciones de su propia música se convirtió en un plan para subir cientos de miles de pistas generadas por IA (AI-generated), que solo en YouTube Music sumaron más de 80 millones de reproducciones en abril de 2023. La fiscalía cree que acumuló 14 millones de dólares en total."
+                "x": "El productor Jesse Cannon dijo que “DistroKid renunció a la atención al cliente hace unos dos años”. El rapero King Chase afirmó que le retiraron sin explicación un álbum completo que llevaba publicado 3-4 años."
               },
               {
                 "t": "p",
-                "x": "El fiscal federal (US Attorney) Jamie McDonald afirmó que Smith inundó las plataformas “con bots automatizados en lugar de consumidores y canciones falsas en lugar de creatividad”, con lo que robó regalías a artistas genuinos."
-              },
-              {
-                "t": "p",
-                "x": "La IFPI dijo que el resultado “envía un mensaje claro de que el fraude en streaming es un delito” y añadió que la industria también debe prevenir, detectar y desarticular el fraude mediante su Streaming Integrity Initiative."
+                "x": "Amanda Ferri, VP de Artist Services de DistroKid, declaró: “Un número muy reducido de grabaciones distribuidas a través de DistroKid se ha retirado en respuesta a las reclamaciones de UMG. Rechazamos con firmeza las acusaciones en las que se basa la demanda de UMG y lamentamos los trastornos causados a los artistas afectados”."
               }
             ]
           }
@@ -355,525 +315,189 @@
       }
     },
     {
-      "id": "music-denmark-replica-law",
+      "id": "suno-live-songkick",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
-      "body": "덴마크 개정안으로 공연자를 비롯한 누구나 목소리·외모의 무단 AI 복제를 막는다.",
-      "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
+      "headline": "Suno 라이브 부문 출범\nSongkick 총괄한다",
+      "body": "Suno Live Experiences가 Songkick을 총괄한다.",
+      "mini_headline": "Suno, 라이브 음악 진출",
       "tool": "Music",
-      "source": "CMU",
-      "url": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-          },
-          {
-            "t": "p",
-            "x": "덴마크 문화부 장관 Zenia Stampe가 수정안을 의회에 제출했다. 공연자는 물론 일반인도 승인 없이 디지털로 복제된 자신의 목소리나 외모를 막을 수 있는 새 권리를 담았다."
-          },
-          {
-            "t": "p",
-            "x": "이번 법안은 지난해 발의안을 토대로 총선과 정권 교체 뒤 다시 추진된다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "법안은 덴마크 저작권법을 고쳐 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외지만 모방이 위험한 허위정보라면 예외가 되지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 아우르되 실제 인물과 헷갈릴 만큼 사실적인 모방만 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "법적으로 명확해지면 오용을 막는 데 그치지 않고 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며 내년 초에는 보호 조항이 시행되기를 기대한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Denmark's AI replica law\naims for early 2027",
-          "body": "Denmark's revised bill would let anyone, performers included, block unapproved AI replicas of their voice or likeness.",
-          "mini_headline": "Denmark AI replica\nlaw due 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "Danish culture minister Zenia Stampe has presented revised proposals to parliament for new rights to help performers, and people more generally, block unapproved digital replicas of their voice or likeness."
-              },
-              {
-                "t": "p",
-                "x": "The bill builds on last year's proposals and restarts the effort after a general election and change of government. Stampe, culture minister since June, said: \"now we're stopping digital identity theft and helping artists whose livelihoods are being threatened\"."
-              },
-              {
-                "t": "p",
-                "x": "It amends Danish copyright law to make it illegal to publish realistic digital imitations of a person's voice or likeness without consent, with exceptions for caricature, parody and criticism unless the imitation is dangerous misinformation. It covers AI deepfakes and traditional digital edits, but only realistic imitations likely to be confused with the real person."
-              },
-              {
-                "t": "p",
-                "x": "Beyond blocking misuse, legal clarity could let artists license their voice or likeness to AI platforms. Stampe wants tech giants to take down manipulated content quickly, and hopes the protections take effect by the start of next year."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
-          "body": "덴마크 개정안으로 공연자를 비롯한 누구나 목소리·외모의 무단 AI 복제를 막는다.",
-          "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "덴마크 문화부 장관 Zenia Stampe가 수정안을 의회에 제출했다. 공연자는 물론 일반인도 승인 없이 디지털로 복제된 자신의 목소리나 외모를 막을 수 있는 새 권리를 담았다."
-              },
-              {
-                "t": "p",
-                "x": "이번 법안은 지난해 발의안을 토대로 총선과 정권 교체 뒤 다시 추진된다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "법안은 덴마크 저작권법을 고쳐 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외지만 모방이 위험한 허위정보라면 예외가 되지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 아우르되 실제 인물과 헷갈릴 만큼 사실적인 모방만 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "법적으로 명확해지면 오용을 막는 데 그치지 않고 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며 내년 초에는 보호 조항이 시행되기를 기대한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デンマークAI複製法\n2027年初めの施行へ",
-          "body": "デンマークの改正法案は、演者を含む誰もが声や容姿の無断AI複製を阻止できるようにする。",
-          "mini_headline": "デンマークAI複製法、2027年施行へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "デンマークのZenia Stampe文化相は、演者をはじめ広く一般の人々が、自身の声や容姿の無断デジタル複製を阻止できる新たな権利を定める修正案を議会に提出した。"
-              },
-              {
-                "t": "p",
-                "x": "法案は昨年の提案を土台とし、総選挙と政権交代を経て取り組みを再始動させるものだ。6月から文化相を務めるStampeは「今こそデジタルなアイデンティティの窃取を止め、生計を脅かされているアーティストを支援する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "法案はデンマーク著作権法を改正し、本人の同意なく声や容姿をリアルにデジタル模倣したものを公開することを違法とする。風刺画、パロディ、批評は例外とするが、模倣が危険な偽情報である場合は除く。AIディープフェイクと従来のデジタル編集の両方を対象とするが、本人と混同されかねないリアルな模倣に限られる。"
-              },
-              {
-                "t": "p",
-                "x": "悪用の阻止にとどまらず、法的な明確さによって、アーティストが自らの声や容姿をAIプラットフォームにライセンスできる可能性もある。Stampeは巨大テック企業に操作されたコンテンツの迅速な削除を求めており、来年初めまでに保護規定が施行されることを望んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "丹麦AI复制品法\n力争2027年初生效",
-          "body": "丹麦修订法案将让包括表演者在内的任何人，都能阻止未经许可的AI声音或肖像复制。",
-          "mini_headline": "丹麦AI复制品法2027年生效",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "丹麦文化部长Zenia Stampe向议会提交了修订提案，拟设立新权利，帮助表演者乃至普通人阻止未经许可的声音或肖像数字复制品。"
-              },
-              {
-                "t": "p",
-                "x": "该法案以去年的提案为基础，在大选和政府更迭后重启这项工作。自6月起担任文化部长的Stampe表示：“现在我们要制止数字身份盗用，帮助那些生计受到威胁的艺术家。”"
-              },
-              {
-                "t": "p",
-                "x": "法案修订丹麦版权法，规定未经同意发布对他人声音或肖像的逼真数字模仿属违法行为，漫画、戏仿和评论除外，但若模仿构成危险的虚假信息则不在豁免之列。它涵盖AI深度伪造和传统数字编辑，但仅限于可能与真人混淆的逼真模仿。"
-              },
-              {
-                "t": "p",
-                "x": "除了阻止滥用，法律上的明确性还可能让艺术家将自己的声音或肖像授权给AI平台。Stampe希望科技巨头迅速撤下被篡改的内容，并期望相关保护在明年年初前生效。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ley danesa de réplicas con IA\napunta a inicios de 2027",
-          "body": "El proyecto danés dejaría a todos, intérpretes incluidos, bloquear réplicas de IA no autorizadas de su voz o imagen.",
-          "mini_headline": "Ley danesa de réplicas IA, en 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "La ministra de Cultura danesa, Zenia Stampe, ha presentado al Parlamento propuestas revisadas de nuevos derechos para ayudar a los intérpretes, y a las personas en general, a bloquear réplicas digitales no autorizadas de su voz o su imagen."
-              },
-              {
-                "t": "p",
-                "x": "El proyecto se basa en las propuestas del año pasado y retoma el esfuerzo tras unas elecciones generales y un cambio de gobierno. Stampe, ministra de Cultura desde junio, declaró: “ahora estamos frenando el robo de identidad digital y ayudando a los artistas cuyo sustento está amenazado”."
-              },
-              {
-                "t": "p",
-                "x": "Modifica la ley danesa de derechos de autor para que sea ilegal publicar imitaciones digitales realistas de la voz o la imagen de una persona sin su consentimiento, con excepciones para la caricatura, la parodia y la crítica, salvo que la imitación sea desinformación peligrosa. Abarca los deepfakes de IA (AI) y las ediciones digitales tradicionales, pero solo las imitaciones realistas que puedan confundirse con la persona real."
-              },
-              {
-                "t": "p",
-                "x": "Además de bloquear los abusos, la claridad legal podría permitir a los artistas licenciar su voz o su imagen a plataformas de IA. Stampe quiere que las grandes tecnológicas retiren rápidamente el contenido manipulado y espera que las protecciones entren en vigor a principios del próximo año."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "덴마크 AI 복제물 법안\n2027년 초 시행 목표",
-          "body": "덴마크 개정안은 공연자 등 누구나 목소리·외모의 무단 AI 복제를 막게 한다.",
-          "mini_headline": "덴마크 AI 복제물법, 2027년 시행",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "덴마크 문화부 장관 Zenia Stampe가 공연자는 물론 일반인도 자신의 목소리나 외모를 승인 없이 디지털로 복제한 결과물을 막을 수 있도록 새 권리를 담은 수정안을 의회에 제출했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 법안은 지난해 발의안을 바탕으로, 총선과 정권 교체 이후 다시 추진하는 것이다. 6월부터 문화부 장관을 맡은 Stampe는 “이제 우리는 디지털 신원 도용을 막고, 생계를 위협받는 아티스트들을 돕는다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "법안은 덴마크 저작권법을 고쳐, 동의 없이 사람의 목소리나 외모를 사실적으로 디지털 모방한 결과물을 공개하는 행위를 불법으로 규정한다. 풍자화, 패러디, 비평은 예외로 두지만, 모방이 위험한 허위정보라면 예외를 인정하지 않는다. AI 딥페이크와 기존 디지털 편집을 모두 포괄하되, 실제 인물과 혼동될 만큼 사실적인 모방만 대상으로 한다."
-              },
-              {
-                "t": "p",
-                "x": "오용을 막는 데 그치지 않고, 법적 명확성이 생기면 아티스트가 자신의 목소리나 외모를 AI 플랫폼에 라이선스할 수도 있다. Stampe는 거대 테크 기업들이 조작된 콘텐츠를 신속히 내리기를 바라며, 내년 초까지 보호 조항이 시행되기를 기대하고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "デンマークAI複製法\n2027年初めの施行へ",
-          "body": "デンマークの改正法案は、演者を含む誰もが声や容姿の無断AI複製を阻止できるようにする。",
-          "mini_headline": "デンマークAI複製法、2027年施行へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "デンマークのZenia Stampe文化相は、演者をはじめ広く一般の人々が、自身の声や容姿の無断デジタル複製を阻止できる新たな権利を定める修正案を議会に提出した。"
-              },
-              {
-                "t": "p",
-                "x": "法案は昨年の提案を土台とし、総選挙と政権交代を経て取り組みを再始動させるものだ。6月から文化相を務めるStampeは「今こそデジタルなアイデンティティの窃取を止め、生計を脅かされているアーティストを支援する」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "法案はデンマーク著作権法を改正し、本人の同意なく声や容姿をリアルにデジタル模倣したものを公開することを違法とする。風刺画、パロディ、批評は例外とするが、模倣が危険な偽情報である場合は除く。AIディープフェイクと従来のデジタル編集の両方を対象とするが、本人と混同されかねないリアルな模倣に限られる。"
-              },
-              {
-                "t": "p",
-                "x": "悪用の阻止にとどまらず、法的な明確さによって、アーティストが自らの声や容姿をAIプラットフォームにライセンスできる可能性もある。Stampeは巨大テック企業に操作されたコンテンツの迅速な削除を求めており、来年初めまでに保護規定が施行されることを望んでいる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "丹麦AI复制品法\n力争2027年初生效",
-          "body": "丹麦修订法案将让包括表演者在内的任何人，都能阻止未经许可的AI声音或肖像复制。",
-          "mini_headline": "丹麦AI复制品法2027年生效",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "丹麦文化部长Zenia Stampe向议会提交了修订提案，拟设立新权利，帮助表演者乃至普通人阻止未经许可的声音或肖像数字复制品。"
-              },
-              {
-                "t": "p",
-                "x": "该法案以去年的提案为基础，在大选和政府更迭后重启这项工作。自6月起担任文化部长的Stampe表示：“现在我们要制止数字身份盗用，帮助那些生计受到威胁的艺术家。”"
-              },
-              {
-                "t": "p",
-                "x": "法案修订丹麦版权法，规定未经同意发布对他人声音或肖像的逼真数字模仿属违法行为，漫画、戏仿和评论除外，但若模仿构成危险的虚假信息则不在豁免之列。它涵盖AI深度伪造和传统数字编辑，但仅限于可能与真人混淆的逼真模仿。"
-              },
-              {
-                "t": "p",
-                "x": "除了阻止滥用，法律上的明确性还可能让艺术家将自己的声音或肖像授权给AI平台。Stampe希望科技巨头迅速撤下被篡改的内容，并期望相关保护在明年年初前生效。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ley danesa de réplicas con IA\napunta a inicios de 2027",
-          "body": "El proyecto danés dejaría a todos, intérpretes incluidos, bloquear réplicas de IA no autorizadas de su voz o imagen.",
-          "mini_headline": "Ley danesa de réplicas IA, en 2027",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/danish-digital-replicas.png"
-              },
-              {
-                "t": "p",
-                "x": "La ministra de Cultura danesa, Zenia Stampe, ha presentado al Parlamento propuestas revisadas de nuevos derechos para ayudar a los intérpretes, y a las personas en general, a bloquear réplicas digitales no autorizadas de su voz o su imagen."
-              },
-              {
-                "t": "p",
-                "x": "El proyecto se basa en las propuestas del año pasado y retoma el esfuerzo tras unas elecciones generales y un cambio de gobierno. Stampe, ministra de Cultura desde junio, declaró: “ahora estamos frenando el robo de identidad digital y ayudando a los artistas cuyo sustento está amenazado”."
-              },
-              {
-                "t": "p",
-                "x": "Modifica la ley danesa de derechos de autor para que sea ilegal publicar imitaciones digitales realistas de la voz o la imagen de una persona sin su consentimiento, con excepciones para la caricatura, la parodia y la crítica, salvo que la imitación sea desinformación peligrosa. Abarca los deepfakes de IA (AI) y las ediciones digitales tradicionales, pero solo las imitaciones realistas que puedan confundirse con la persona real."
-              },
-              {
-                "t": "p",
-                "x": "Además de bloquear los abusos, la claridad legal podría permitir a los artistas licenciar su voz o su imagen a plataformas de IA. Stampe quiere que las grandes tecnológicas retiren rápidamente el contenido manipulado y espera que las protecciones entren en vigor a principios del próximo año."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-flow-music-plugins",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Google, 프롬프트를\nDAW 플러그인으로",
-      "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
-      "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
-      "tool": "Music",
-      "source": "Synthtopia",
-      "url": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
-      "accent": "#7928ca",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "video",
-            "yt": "Z4l8igzzHHw"
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
           },
           {
             "t": "p",
-            "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸는 중이다. 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 벌써 큰 영향을 주고 있다."
+            "x": "지난 11월 Suno가 Warner Music Group과 맺은 라이선스 계약에는 공연 탐색 플랫폼 Songkick 인수도 들어 있었다. 당시엔 기묘한 조합으로 보였다. AI 음악 생성 플랫폼이 라이브 공연과 무슨 상관이냐는 반응이었다. 이제 이 어색한 짝이 어떻게 굴러갈지 윤곽이 드러났다."
           },
           {
             "t": "p",
-            "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들어 보라고 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 것이다."
+            "x": "Suno는 Suno Live Experiences라는 부서를 새로 만들었고 ex-Ticketmaster VP Michael Chua가 VP 겸 총괄 매니저로 이끈다. Songkick 총괄도 Chua 몫이다."
           },
           {
             "t": "p",
-            "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
+            "x": "Suno는 창작자와 그 작품을 즐기는 사람들을 위한 플랫폼이라고 스스로를 적극 내세운다. Suno의 AI 도구로 음악을 만드는 신진 (인간) 아티스트를 돕겠다는 목표도 여러 차례 강조해 왔다."
           },
           {
             "t": "p",
-            "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
-          },
-          {
-            "t": "p",
-            "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
+            "x": "Suno의 최고음악책임자 Paul Sinclair는 Suno를 “최초의 창작 엔터테인먼트 플랫폼”으로 만드는 게 목표라고 했다. AI-powered 음악 창작에 브랜딩, 스트리밍, 청중과의 연결, 이제는 라이브 무대로 가는 길까지 한곳에서 해결하는 그림일지도 모른다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Flow Music turns\nprompts into DAW plugins",
-          "body": "Google Flow Music now exports instruments and effects built from text prompts as VST3/AU plugins that run inside DAWs.",
-          "mini_headline": "Flow Music exports\nVST3/AU plugins",
+          "headline": "Suno launches a live music\ndivision that oversees Songkick",
+          "body": "Suno's new Suno Live Experiences division, led by ex-Ticketmaster VP Michael Chua, will oversee Songkick.",
+          "mini_headline": "Suno moves into live music",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI-assisted programming – aka 'vibe coding' – is transforming software development, and is already making a big impact on the scope and variety of software and firmware available to electronic musicians."
+                "x": "Part of Suno’s licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating platform have to do with live gigs? – but now we’ll find out how this seemingly odd-couple relationship will work."
               },
               {
                 "t": "p",
-                "x": "Now, Google wants you to vibe code audio applications, saying that producers can now vibe code music production tools with Google Flow Music:"
+                "x": "Suno has created a new department called Suno Live Experiences, and ex-Ticketmaster VP Michael Chua will lead it as VP and general manager. Part of Chua’s job will be overseeing Songkick."
               },
               {
                 "t": "p",
-                "x": "\"Every artist, producer, and songwriter works differently. To match those individual creative workflows, Spaces in Google Flow Music lets creators build custom instruments or effects using natural language — no coding experience required."
+                "x": "Suno is pitching itself hard as a platform for creatives and for people who enjoy their work. It has also made a lot of noise about how it aims to assist the emerging (human) artists who use Suno’s AI tools to make music."
               },
               {
                 "t": "p",
-                "x": "Now, we're making it easy to bring these capabilities directly into professional setups. Producers can now export their custom Spaces as VST3/AU plugins, to run inside their Digital Audio Workstations (DAWs)."
-              },
-              {
-                "t": "p",
-                "x": "Simply put, this means producers can easily build things tailored to their processes and styles within their familiar production workflows.\""
+                "x": "Suno’s chief music officer Paul Sinclair said that the aim was to make Suno “the first creative entertainment platform,” so perhaps the vision is a one-stop-shop of AI-powered music creation, branding, streaming, audience connection – and, now, a pathway to live experiences too."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google, 프롬프트를\nDAW 플러그인으로",
-          "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
-          "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
+          "headline": "Suno 라이브 부문 출범\nSongkick 총괄한다",
+          "body": "Suno Live Experiences가 Songkick을 총괄한다.",
+          "mini_headline": "Suno, 라이브 음악 진출",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸는 중이다. 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 벌써 큰 영향을 주고 있다."
+                "x": "지난 11월 Suno가 Warner Music Group과 맺은 라이선스 계약에는 공연 탐색 플랫폼 Songkick 인수도 들어 있었다. 당시엔 기묘한 조합으로 보였다. AI 음악 생성 플랫폼이 라이브 공연과 무슨 상관이냐는 반응이었다. 이제 이 어색한 짝이 어떻게 굴러갈지 윤곽이 드러났다."
               },
               {
                 "t": "p",
-                "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들어 보라고 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 것이다."
+                "x": "Suno는 Suno Live Experiences라는 부서를 새로 만들었고 ex-Ticketmaster VP Michael Chua가 VP 겸 총괄 매니저로 이끈다. Songkick 총괄도 Chua 몫이다."
               },
               {
                 "t": "p",
-                "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
+                "x": "Suno는 창작자와 그 작품을 즐기는 사람들을 위한 플랫폼이라고 스스로를 적극 내세운다. Suno의 AI 도구로 음악을 만드는 신진 (인간) 아티스트를 돕겠다는 목표도 여러 차례 강조해 왔다."
               },
               {
                 "t": "p",
-                "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
+                "x": "Suno의 최고음악책임자 Paul Sinclair는 Suno를 “최초의 창작 엔터테인먼트 플랫폼”으로 만드는 게 목표라고 했다. AI-powered 음악 창작에 브랜딩, 스트리밍, 청중과의 연결, 이제는 라이브 무대로 가는 길까지 한곳에서 해결하는 그림일지도 모른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、プロンプトを\nDAWプラグインに",
-          "body": "Flow Musicで作った楽器やエフェクトを、VST3/AU形式でDAWに持ち込める。",
-          "mini_headline": "Flow Music、VST3/AUで書き出し",
+          "headline": "Suno、ライブ部門を新設\nSongkickを統括",
+          "body": "Suno Live ExperiencesがSongkickを統括する。",
+          "mini_headline": "Suno、ライブ音楽に進出",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI支援プログラミング(AI-assisted programming)、いわゆる「バイブコーディング(vibe coding)」はソフトウェア開発を変えつつあり、電子音楽家が使えるソフトウェアやファームウェアの幅と多様さにも、すでに大きな影響を与えている。"
+                "x": "昨年11月にSunoがWarner Music Groupと結んだライセンス契約には、コンサート検索プラットフォームSongkickの買収が含まれていた。当時は奇妙な取り合わせに見えた。AI音楽生成プラットフォームがライブと何の関係があるのか、というわけだ。だが、この一見ちぐはぐな組み合わせがどう機能するのか、いよいよ明らかになる。"
               },
               {
                 "t": "p",
-                "x": "そして今、Googleはオーディオアプリケーションもバイブコーディングで作ってほしいと考えている。プロデューサーはGoogle Flow Musicで音楽制作ツールをバイブコーディングできるようになったという。"
+                "x": "SunoはSuno Live Experiencesという新部門を設け、ex-Ticketmaster VPのMichael ChuaがVP兼ゼネラルマネージャーとして率いる。Chuaの役割にはSongkickの統括も含まれる。"
               },
               {
                 "t": "p",
-                "x": "「アーティスト、プロデューサー、ソングライターの仕事の進め方はそれぞれ異なる。そうした個々の創作ワークフローに合わせるため、Google Flow MusicのSpacesでは、クリエイターが自然言語でカスタムの楽器やエフェクトを作れる。コーディングの経験は必要ない。"
+                "x": "Sunoはクリエイターと、その作品を楽しむ人々のためのプラットフォームとして自らを強く打ち出している。SunoのAIツールで音楽を作る新進の（人間の）アーティストを支援するという目標も、繰り返し強調してきた。"
               },
               {
                 "t": "p",
-                "x": "今回、こうした機能をプロの制作環境に直接持ち込みやすくした。プロデューサーは自作のSpacesをVST3/AUプラグインとして書き出し、デジタルオーディオワークステーション(Digital Audio Workstations、DAWs)の中で動かせるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "簡単に言えば、プロデューサーは使い慣れた制作ワークフローの中で、自分のプロセスやスタイルに合ったものを手軽に作れるということだ」"
+                "x": "Sunoのチーフ・ミュージック・オフィサーPaul Sinclairは、Sunoを「初のクリエイティブ・エンターテインメント・プラットフォーム」にすることが目標だと語った。AI-poweredの音楽制作、ブランディング、ストリーミング、オーディエンスとのつながり、そして今やライブ体験への道筋までを一か所でまかなう構想なのかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把提示词\n变成DAW插件",
-          "body": "Flow Music现可将提示词生成的乐器和效果导出为VST3/AU插件，在DAW中运行。",
-          "mini_headline": "Flow Music可导出VST3/AU插件",
+          "headline": "Suno成立现场音乐部门\n由其统管Songkick",
+          "body": "Suno Live Experiences部门将统管Songkick。",
+          "mini_headline": "Suno进军现场音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI辅助编程(AI-assisted programming)，也就是所谓的“氛围编程”(vibe coding)，正在改变软件开发，并已对电子音乐人可用的软件和固件的范围与种类产生重大影响。"
+                "x": "去年11月，Suno与Warner Music Group达成的授权协议中，包括收购演出发现平台Songkick。这在当时显得颇为古怪：一个AI音乐生成平台与现场演出有什么关系？如今，这对看似不搭的组合将如何运作，终于要见分晓。"
               },
               {
                 "t": "p",
-                "x": "如今，Google希望你用氛围编程来开发音频应用，称制作人现在可以借助Google Flow Music用氛围编程打造音乐制作工具："
+                "x": "Suno新设了名为Suno Live Experiences的部门，由ex-Ticketmaster VP Michael Chua出任VP兼总经理并负责领导。Chua的职责之一是统管Songkick。"
               },
               {
                 "t": "p",
-                "x": "“每位艺术家、制作人和词曲作者的工作方式都不同。为了贴合这些各具特色的创作流程，Google Flow Music中的Spaces让创作者能用自然语言构建自定义乐器或效果器，无需任何编程经验。"
+                "x": "Suno正大力将自己定位为服务创作者及其作品爱好者的平台，也多次高调表示，要扶持使用Suno AI工具创作音乐的新兴（人类）艺术家。"
               },
               {
                 "t": "p",
-                "x": "现在，我们让这些能力可以轻松直接接入专业工作环境。制作人现在可以把自定义的Spaces导出为VST3/AU插件，在数字音频工作站(Digital Audio Workstations，DAWs)中运行。"
-              },
-              {
-                "t": "p",
-                "x": "简单来说，这意味着制作人可以在熟悉的制作流程中，轻松打造契合自身流程和风格的工具。”"
+                "x": "Suno首席音乐官Paul Sinclair表示，目标是让Suno成为“首个创意娱乐平台”。其设想或许是一站式涵盖AI-powered音乐创作、品牌塑造、流媒体、受众连接，如今还要加上通往现场体验的路径。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Flow Music convierte\nprompts en plugins para DAW",
-          "body": "Google Flow Music exporta instrumentos y efectos creados con prompts como plugins VST3/AU que funcionan en DAWs.",
-          "mini_headline": "Flow Music exporta plugins VST3/AU",
+          "headline": "Suno crea una división de música\nen vivo que supervisa Songkick",
+          "body": "La nueva división Suno Live Experiences, dirigida por el ex-Ticketmaster VP Michael Chua, supervisará Songkick.",
+          "mini_headline": "Suno entra en la música en vivo",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "La programación asistida por IA (AI-assisted programming), conocida como 'vibe coding', está transformando el desarrollo de software y ya tiene un gran impacto en el alcance y la variedad del software y el firmware disponibles para los músicos electrónicos."
+                "x": "Parte del acuerdo de licencias que Suno firmó con Warner Music Group en noviembre pasado incluía la adquisición de Songkick, una plataforma para descubrir conciertos. En su momento pareció una rareza (¿qué tiene que ver una plataforma de generación de música con AI con los conciertos?), pero ahora veremos cómo funcionará esta relación en apariencia tan dispar."
               },
               {
                 "t": "p",
-                "x": "Ahora Google quiere que programes aplicaciones de audio con vibe coding, y afirma que los productores ya pueden crear herramientas de producción musical con vibe coding en Google Flow Music:"
+                "x": "Suno ha creado un nuevo departamento llamado Suno Live Experiences, que dirigirá el ex-Ticketmaster VP Michael Chua como VP y director general. Parte del trabajo de Chua consistirá en supervisar Songkick."
               },
               {
                 "t": "p",
-                "x": "“Cada artista, productor y compositor trabaja de forma distinta. Para adaptarse a esos flujos creativos individuales, Spaces en Google Flow Music permite a los creadores construir instrumentos o efectos personalizados con lenguaje natural, sin necesidad de experiencia en programación."
+                "x": "Suno se presenta con insistencia como una plataforma para creativos y para quienes disfrutan de su trabajo. También ha insistido mucho en su objetivo de apoyar a los artistas emergentes (humanos) que usan las herramientas de AI de Suno para hacer música."
               },
               {
                 "t": "p",
-                "x": "Ahora facilitamos llevar estas capacidades directamente a entornos profesionales. Los productores ya pueden exportar sus Spaces personalizados como plugins VST3/AU para ejecutarlos dentro de sus estaciones de trabajo de audio digital (Digital Audio Workstations, DAWs)."
-              },
-              {
-                "t": "p",
-                "x": "En pocas palabras, los productores pueden crear con facilidad herramientas adaptadas a sus procesos y estilos dentro de sus flujos de producción habituales.”"
+                "x": "El director de música de Suno, Paul Sinclair, dijo que el objetivo era convertir Suno en “la primera plataforma de entretenimiento creativo”, así que quizá la visión sea un servicio integral de creación musical AI-powered, branding, streaming y conexión con el público, y ahora también una vía hacia las experiencias en vivo."
               }
             ]
           }
@@ -881,137 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google, 프롬프트를\nDAW 플러그인으로",
-          "body": "Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
-          "mini_headline": "Flow Music, VST3/AU 플러그인 내보내기",
+          "headline": "Suno 라이브 부문 출범\nSongkick 총괄한다",
+          "body": "Suno Live Experiences가 Songkick을 총괄한다.",
+          "mini_headline": "Suno, 라이브 음악에 진출하다",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI 지원 프로그래밍(AI-assisted programming), 이른바 ‘바이브 코딩(vibe coding)’은 소프트웨어 개발을 바꾸고 있으며, 전자음악가가 쓸 수 있는 소프트웨어와 펌웨어의 범위와 다양성에도 이미 큰 영향을 미치고 있다."
+                "x": "지난 11월 Suno가 Warner Music Group과 맺은 라이선스 계약에는 공연 탐색 플랫폼 Songkick 인수가 포함돼 있었다. 당시에는 기묘한 조합처럼 보였다. AI 음악 생성 플랫폼이 라이브 공연과 무슨 관계가 있느냐는 것이다. 이제 이 어색해 보이는 짝이 어떻게 굴러갈지 드러나게 됐다."
               },
               {
                 "t": "p",
-                "x": "이제 Google은 오디오 애플리케이션도 바이브 코딩으로 만들기를 권한다. 프로듀서가 Google Flow Music으로 음악 제작 도구를 바이브 코딩할 수 있게 됐다는 설명이다."
+                "x": "Suno는 Suno Live Experiences라는 새 부서를 만들었고, ex-Ticketmaster VP Michael Chua가 VP 겸 총괄 매니저로 이 부서를 이끈다. Chua가 맡는 일에는 Songkick 총괄도 포함된다."
               },
               {
                 "t": "p",
-                "x": "“아티스트, 프로듀서, 송라이터는 저마다 일하는 방식이 다릅니다. 이런 개별 창작 워크플로에 맞추기 위해, Google Flow Music의 Spaces에서는 창작자가 자연어로 맞춤 악기나 이펙트를 만들 수 있습니다. 코딩 경험은 필요 없습니다."
+                "x": "Suno는 창작자와 그들의 작품을 즐기는 사람들을 위한 플랫폼으로 자신을 적극 알리고 있다. Suno의 AI 도구로 음악을 만드는 신진 (인간) 아티스트를 돕겠다는 목표도 여러 차례 강조해 왔다."
               },
               {
                 "t": "p",
-                "x": "이제 이런 기능을 전문 작업 환경에 바로 가져오기 쉬워졌습니다. 프로듀서는 직접 만든 Spaces를 VST3/AU 플러그인으로 내보내 디지털 오디오 워크스테이션(Digital Audio Workstations, DAWs) 안에서 실행할 수 있습니다."
-              },
-              {
-                "t": "p",
-                "x": "쉽게 말해, 프로듀서가 익숙한 제작 워크플로 안에서 자신의 작업 과정과 스타일에 맞춘 도구를 손쉽게 만들 수 있다는 뜻입니다.”"
+                "x": "Suno의 최고음악책임자 Paul Sinclair는 Suno를 “최초의 창작 엔터테인먼트 플랫폼”으로 만드는 것이 목표라고 말했다. AI-powered 음악 창작, 브랜딩, 스트리밍, 청중과의 연결, 그리고 이제 라이브 경험으로 가는 길까지 한곳에서 해결하는 그림일 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google、プロンプトを\nDAWプラグインに",
-          "body": "Flow Musicで作った楽器やエフェクトを、VST3/AU形式でDAWに持ち込める。",
-          "mini_headline": "Flow Music、VST3/AUで書き出し",
+          "headline": "Suno、ライブ部門を新設\nSongkickを統括",
+          "body": "Suno Live ExperiencesがSongkickを統括する。",
+          "mini_headline": "Suno、ライブ音楽に進出",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI支援プログラミング(AI-assisted programming)、いわゆる「バイブコーディング(vibe coding)」はソフトウェア開発を変えつつあり、電子音楽家が使えるソフトウェアやファームウェアの幅と多様さにも、すでに大きな影響を与えている。"
+                "x": "昨年11月にSunoがWarner Music Groupと結んだライセンス契約には、コンサート検索プラットフォームSongkickの買収が含まれていた。当時は奇妙な取り合わせに見えた。AI音楽生成プラットフォームがライブと何の関係があるのか、というわけだ。だが、この一見ちぐはぐな組み合わせがどう機能するのか、いよいよ明らかになる。"
               },
               {
                 "t": "p",
-                "x": "そして今、Googleはオーディオアプリケーションもバイブコーディングで作ってほしいと考えている。プロデューサーはGoogle Flow Musicで音楽制作ツールをバイブコーディングできるようになったという。"
+                "x": "SunoはSuno Live Experiencesという新部門を設け、ex-Ticketmaster VPのMichael ChuaがVP兼ゼネラルマネージャーとして率いる。Chuaの役割にはSongkickの統括も含まれる。"
               },
               {
                 "t": "p",
-                "x": "「アーティスト、プロデューサー、ソングライターの仕事の進め方はそれぞれ異なる。そうした個々の創作ワークフローに合わせるため、Google Flow MusicのSpacesでは、クリエイターが自然言語でカスタムの楽器やエフェクトを作れる。コーディングの経験は必要ない。"
+                "x": "Sunoはクリエイターと、その作品を楽しむ人々のためのプラットフォームとして自らを強く打ち出している。SunoのAIツールで音楽を作る新進の（人間の）アーティストを支援するという目標も、繰り返し強調してきた。"
               },
               {
                 "t": "p",
-                "x": "今回、こうした機能をプロの制作環境に直接持ち込みやすくした。プロデューサーは自作のSpacesをVST3/AUプラグインとして書き出し、デジタルオーディオワークステーション(Digital Audio Workstations、DAWs)の中で動かせるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "簡単に言えば、プロデューサーは使い慣れた制作ワークフローの中で、自分のプロセスやスタイルに合ったものを手軽に作れるということだ」"
+                "x": "Sunoのチーフ・ミュージック・オフィサーPaul Sinclairは、Sunoを「初のクリエイティブ・エンターテインメント・プラットフォーム」にすることが目標だと語った。AI-poweredの音楽制作、ブランディング、ストリーミング、オーディエンスとのつながり、そして今やライブ体験への道筋までを一か所でまかなう構想なのかもしれない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google把提示词\n变成DAW插件",
-          "body": "Flow Music现可将提示词生成的乐器和效果导出为VST3/AU插件，在DAW中运行。",
-          "mini_headline": "Flow Music可导出VST3/AU插件",
+          "headline": "Suno成立现场音乐部门\n由其统管Songkick",
+          "body": "Suno Live Experiences部门将统管Songkick。",
+          "mini_headline": "Suno进军现场音乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "AI辅助编程(AI-assisted programming)，也就是所谓的“氛围编程”(vibe coding)，正在改变软件开发，并已对电子音乐人可用的软件和固件的范围与种类产生重大影响。"
+                "x": "去年11月，Suno与Warner Music Group达成的授权协议中，包括收购演出发现平台Songkick。这在当时显得颇为古怪：一个AI音乐生成平台与现场演出有什么关系？如今，这对看似不搭的组合将如何运作，终于要见分晓。"
               },
               {
                 "t": "p",
-                "x": "如今，Google希望你用氛围编程来开发音频应用，称制作人现在可以借助Google Flow Music用氛围编程打造音乐制作工具："
+                "x": "Suno新设了名为Suno Live Experiences的部门，由ex-Ticketmaster VP Michael Chua出任VP兼总经理并负责领导。Chua的职责之一是统管Songkick。"
               },
               {
                 "t": "p",
-                "x": "“每位艺术家、制作人和词曲作者的工作方式都不同。为了贴合这些各具特色的创作流程，Google Flow Music中的Spaces让创作者能用自然语言构建自定义乐器或效果器，无需任何编程经验。"
+                "x": "Suno正大力将自己定位为服务创作者及其作品爱好者的平台，也多次高调表示，要扶持使用Suno AI工具创作音乐的新兴（人类）艺术家。"
               },
               {
                 "t": "p",
-                "x": "现在，我们让这些能力可以轻松直接接入专业工作环境。制作人现在可以把自定义的Spaces导出为VST3/AU插件，在数字音频工作站(Digital Audio Workstations，DAWs)中运行。"
-              },
-              {
-                "t": "p",
-                "x": "简单来说，这意味着制作人可以在熟悉的制作流程中，轻松打造契合自身流程和风格的工具。”"
+                "x": "Suno首席音乐官Paul Sinclair表示，目标是让Suno成为“首个创意娱乐平台”。其设想或许是一站式涵盖AI-powered音乐创作、品牌塑造、流媒体、受众连接，如今还要加上通往现场体验的路径。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Flow Music convierte\nprompts en plugins para DAW",
-          "body": "Google Flow Music exporta instrumentos y efectos creados con prompts como plugins VST3/AU que funcionan en DAWs.",
-          "mini_headline": "Flow Music exporta plugins VST3/AU",
+          "headline": "Suno crea una división de música\nen vivo que supervisa Songkick",
+          "body": "La nueva división Suno Live Experiences, dirigida por el ex-Ticketmaster VP Michael Chua, supervisará Songkick.",
+          "mini_headline": "Suno entra en la música en vivo",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "video",
-                "yt": "Z4l8igzzHHw"
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
               },
               {
                 "t": "p",
-                "x": "La programación asistida por IA (AI-assisted programming), conocida como 'vibe coding', está transformando el desarrollo de software y ya tiene un gran impacto en el alcance y la variedad del software y el firmware disponibles para los músicos electrónicos."
+                "x": "Parte del acuerdo de licencias que Suno firmó con Warner Music Group en noviembre pasado incluía la adquisición de Songkick, una plataforma para descubrir conciertos. En su momento pareció una rareza (¿qué tiene que ver una plataforma de generación de música con AI con los conciertos?), pero ahora veremos cómo funcionará esta relación en apariencia tan dispar."
               },
               {
                 "t": "p",
-                "x": "Ahora Google quiere que programes aplicaciones de audio con vibe coding, y afirma que los productores ya pueden crear herramientas de producción musical con vibe coding en Google Flow Music:"
+                "x": "Suno ha creado un nuevo departamento llamado Suno Live Experiences, que dirigirá el ex-Ticketmaster VP Michael Chua como VP y director general. Parte del trabajo de Chua consistirá en supervisar Songkick."
               },
               {
                 "t": "p",
-                "x": "“Cada artista, productor y compositor trabaja de forma distinta. Para adaptarse a esos flujos creativos individuales, Spaces en Google Flow Music permite a los creadores construir instrumentos o efectos personalizados con lenguaje natural, sin necesidad de experiencia en programación."
+                "x": "Suno se presenta con insistencia como una plataforma para creativos y para quienes disfrutan de su trabajo. También ha insistido mucho en su objetivo de apoyar a los artistas emergentes (humanos) que usan las herramientas de AI de Suno para hacer música."
               },
               {
                 "t": "p",
-                "x": "Ahora facilitamos llevar estas capacidades directamente a entornos profesionales. Los productores ya pueden exportar sus Spaces personalizados como plugins VST3/AU para ejecutarlos dentro de sus estaciones de trabajo de audio digital (Digital Audio Workstations, DAWs)."
-              },
-              {
-                "t": "p",
-                "x": "En pocas palabras, los productores pueden crear con facilidad herramientas adaptadas a sus procesos y estilos dentro de sus flujos de producción habituales.”"
+                "x": "El director de música de Suno, Paul Sinclair, dijo que el objetivo era convertir Suno en “la primera plataforma de entretenimiento creativo”, así que quizá la visión sea un servicio integral de creación musical AI-powered, branding, streaming y conexión con el público, y ahora también una vía hacia las experiencias en vivo."
               }
             ]
           }
@@ -1019,165 +627,765 @@
       }
     },
     {
-      "id": "music-sonilo-video-scoring",
+      "id": "grimes-psy-opera",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
-      "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
-      "mini_headline": "Sonilo, 영상을 음악으로",
+      "headline": "Grimes 첫 곡 공개\nAI-inspired 신보",
+      "body": "Grimes가 AI-inspired 앨범 Psy Opera의 첫 곡을 공개했다.",
+      "mini_headline": "Grimes, Psy Opera 첫선",
+      "tool": "Music",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "Grimes는 4월 Interview에 AI-themed 새 앨범 Psy Opera를 녹음했다고 밝혔다. 막 나온 리드 싱글 “Accelerando” 보도자료에는 이렇게 적혀 있다. “AI 논쟁부터 부도덕한 전쟁, 나쁜 전 연인, looksmaxers, 종교의 중요성까지, Psy Opera는 Grimes가 팝 음악을 쉬는 동안 역사 속 한 여성으로서 목격한 모든 것을 다룬다.” 발매일은 아직 미정이다."
+          },
+          {
+            "t": "p",
+            "x": "곡과 함께 나온 뮤직비디오는 내내 불안하다. Grimes가 사슬에 묶이고, 화형대에서 불타고, 안드로이드 전투 한가운데서 총을 휘두른다."
+          },
+          {
+            "t": "video",
+            "yt": "AVu5p2DMIf8"
+          },
+          {
+            "t": "p",
+            "x": "Grimes는 음악에 AI를 쓰는 일을 오래 옹호해 왔다. 2024년 PBS 시리즈 A Brief History of the Future에서 AI를 뮤지션에게 “기회”라고 했고, 그 전해에는 자기 목소리로 성공적인 AI-generated 곡을 만든 사람 누구에게나 로열티 50%를 주겠다고 나섰다."
+          },
+          {
+            "t": "p",
+            "x": "요한복음(Gospel of John)을 디스토피아풍 AI-themed 이야기로 다시 쓴 Psy Opera 트레일러도 공개했다. Psy Opera는 2020년 Miss Anthropocene 이후 여섯 해 만에 내는 앨범이고, 자기 레이블 Nazgul Recording LLC에서 내는 첫 앨범이기도 하다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Grimes shares first song\nfrom AI-inspired Psy Opera",
+          "body": "Grimes released the first song from Psy Opera, an AI-inspired album about what she witnessed during her pop hiatus.",
+          "mini_headline": "Grimes previews Psy Opera",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "In April, Grimes told Interview she had recorded a new AI-themed album, Psy Opera. A press release for the just-released lead single, “Accelerando,” says: “From the AI debate to immoral wars to a bad ex to looksmaxers to the importance of religion, Psy Opera will cover everything Grimes witnessed as a woman of history during her hiatus from pop music.” There is no release date yet."
+              },
+              {
+                "t": "p",
+                "x": "The song comes with an unsettling music video starring Grimes wrapped up in chains, burned at the stake, and wielding a gun in the middle of an android battle."
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes is a longtime advocate of AI in music. In 2024 she called AI an “opportunity” for musicians on the PBS series A Brief History of the Future; the year before, she offered 50 percent royalties to anyone who created a successful AI-generated song using her voice."
+              },
+              {
+                "t": "p",
+                "x": "She also revealed a Psy Opera trailer featuring a dystopian, AI-themed retelling of the Gospel of John. Psy Opera is her first album in six years, following 2020’s Miss Anthropocene, and her first on her own label, Nazgul Recording LLC."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Grimes 첫 곡 공개\nAI-inspired 신보",
+          "body": "Grimes가 AI-inspired 앨범 Psy Opera의 첫 곡을 공개했다.",
+          "mini_headline": "Grimes, Psy Opera 첫선",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimes는 4월 Interview에 AI-themed 새 앨범 Psy Opera를 녹음했다고 밝혔다. 막 나온 리드 싱글 “Accelerando” 보도자료에는 이렇게 적혀 있다. “AI 논쟁부터 부도덕한 전쟁, 나쁜 전 연인, looksmaxers, 종교의 중요성까지, Psy Opera는 Grimes가 팝 음악을 쉬는 동안 역사 속 한 여성으로서 목격한 모든 것을 다룬다.” 발매일은 아직 미정이다."
+              },
+              {
+                "t": "p",
+                "x": "곡과 함께 나온 뮤직비디오는 내내 불안하다. Grimes가 사슬에 묶이고, 화형대에서 불타고, 안드로이드 전투 한가운데서 총을 휘두른다."
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes는 음악에 AI를 쓰는 일을 오래 옹호해 왔다. 2024년 PBS 시리즈 A Brief History of the Future에서 AI를 뮤지션에게 “기회”라고 했고, 그 전해에는 자기 목소리로 성공적인 AI-generated 곡을 만든 사람 누구에게나 로열티 50%를 주겠다고 나섰다."
+              },
+              {
+                "t": "p",
+                "x": "요한복음(Gospel of John)을 디스토피아풍 AI-themed 이야기로 다시 쓴 Psy Opera 트레일러도 공개했다. Psy Opera는 2020년 Miss Anthropocene 이후 여섯 해 만에 내는 앨범이고, 자기 레이블 Nazgul Recording LLC에서 내는 첫 앨범이기도 하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grimesが先行曲公開\nAI-inspiredの新作",
+          "body": "GrimesがAI-inspiredのアルバムPsy Operaの先行曲を公開した。",
+          "mini_headline": "Grimes、Psy Operaを予告",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimesは4月、Interview誌に対し、AI-themedの新作アルバムPsy Operaを録音したと語っていた。公開されたばかりのリードシングル「Accelerando」のプレスリリースにはこうある。「AI論争から不道徳な戦争、ひどい元恋人、looksmaxers、宗教の重要性まで、Psy OperaはGrimesがポップ音楽を離れていた間に、歴史の中の一人の女性として目撃したすべてを扱う」。リリース日はまだ決まっていない。"
+              },
+              {
+                "t": "p",
+                "x": "曲には不穏なミュージックビデオが付いている。Grimesが鎖で縛られ、火あぶりにされ、アンドロイドの戦闘のただ中で銃を振るう。"
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimesは長年、音楽におけるAIを擁護してきた。2024年にはPBSのシリーズA Brief History of the FutureでAIをミュージシャンにとっての「チャンス」と呼び、その前年には自分の声を使ってヒットするAI-generatedの曲を作った人に50%のロイヤルティを支払うと申し出た。"
+              },
+              {
+                "t": "p",
+                "x": "ヨハネによる福音書（Gospel of John）をAI-themedのディストピアとして語り直すPsy Operaのトレーラーも公開した。Psy Operaは2020年のMiss Anthropocene以来六年ぶりのアルバムで、自身のレーベルNazgul Recording LLCからの初作品となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grimes发布首支新曲\nAI-inspired新专辑",
+          "body": "Grimes发布AI-inspired专辑Psy Opera首支歌曲。",
+          "mini_headline": "Grimes预告Psy Opera",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimes在4月接受Interview采访时表示，她录制了一张AI-themed新专辑Psy Opera。刚刚发布的主打单曲《Accelerando》的新闻稿写道：“从AI之争到不道德的战争，从糟糕的前任到looksmaxers，再到宗教的重要性，Psy Opera将涵盖Grimes在暂别流行乐期间，作为历史中的一名女性所目睹的一切。”发行日期尚未公布。"
+              },
+              {
+                "t": "p",
+                "x": "歌曲同时推出了一支令人不安的音乐录影带：Grimes被锁链缠身、在火刑柱上焚烧，还在一场仿生人大战中挥舞枪支。"
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes长期支持在音乐中使用AI。2024年，她在PBS节目A Brief History of the Future中称AI是音乐人的“机遇”；前一年，她提出，任何人用她的声音做出成功的AI-generated歌曲，都可获得50%的版税。"
+              },
+              {
+                "t": "p",
+                "x": "她还发布了Psy Opera的预告片，以反乌托邦、AI-themed的方式重述《约翰福音》（Gospel of John）。Psy Opera是她继2020年《Miss Anthropocene》之后六年来的首张专辑，也是她在自有厂牌Nazgul Recording LLC旗下的首张作品。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grimes presenta el primer tema\nde Psy Opera, álbum AI-inspired",
+          "body": "Grimes publicó la primera canción de Psy Opera, un álbum AI-inspired sobre lo que vio durante su pausa del pop.",
+          "mini_headline": "Grimes adelanta Psy Opera",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "En abril, Grimes contó a Interview que había grabado un nuevo álbum AI-themed, Psy Opera. El comunicado del sencillo principal recién publicado, “Accelerando”, dice: “Desde el debate sobre la AI hasta las guerras inmorales, pasando por un mal ex, los looksmaxers y la importancia de la religión, Psy Opera abarcará todo lo que Grimes presenció como mujer de la historia durante su pausa de la música pop”. Aún no hay fecha de lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "La canción llega con un inquietante videoclip en el que Grimes aparece envuelta en cadenas, quemada en la hoguera y empuñando un arma en medio de una batalla de androides."
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes defiende desde hace tiempo la AI en la música. En 2024 calificó la AI de “oportunidad” para los músicos en la serie de PBS A Brief History of the Future; el año anterior, ofreció un 50 por ciento de regalías a quien creara una canción AI-generated exitosa con su voz."
+              },
+              {
+                "t": "p",
+                "x": "También mostró un tráiler de Psy Opera con una relectura distópica y AI-themed del Evangelio de Juan (Gospel of John). Psy Opera es su primer álbum en seis años, tras Miss Anthropocene de 2020, y el primero en su propio sello, Nazgul Recording LLC."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Grimes 첫 곡 공개\nAI-inspired 신보",
+          "body": "Grimes가 AI-inspired 앨범 Psy Opera의 첫 곡을 공개했다.",
+          "mini_headline": "Grimes, Psy Opera 첫선",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimes는 4월 Interview에 AI-themed 새 앨범 Psy Opera를 녹음했다고 밝혔다. 막 공개된 리드 싱글 “Accelerando”의 보도자료는 이렇게 전한다. “AI 논쟁부터 부도덕한 전쟁, 나쁜 전 연인, looksmaxers, 종교의 중요성까지, Psy Opera는 Grimes가 팝 음악을 쉬는 동안 역사 속 한 여성으로서 목격한 모든 것을 다룬다.” 발매일은 아직 정해지지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "곡과 함께 공개된 뮤직비디오는 불안감을 자아낸다. Grimes가 사슬에 묶이고, 화형대에서 불타고, 안드로이드 전투 한가운데서 총을 휘두른다."
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes는 오랫동안 음악 속 AI를 옹호해 왔다. 2024년 PBS 시리즈 A Brief History of the Future에서 AI를 뮤지션에게 “기회”라고 불렀고, 그 전해에는 자신의 목소리로 성공적인 AI-generated 곡을 만든 누구에게나 로열티 50%를 주겠다고 제안했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 요한복음(Gospel of John)을 디스토피아적이고 AI-themed 방식으로 다시 쓴 Psy Opera 트레일러도 공개했다. Psy Opera는 2020년 Miss Anthropocene 이후 여섯 해 만의 앨범이자, 자신의 레이블 Nazgul Recording LLC에서 내는 첫 앨범이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grimesが先行曲公開\nAI-inspiredの新作",
+          "body": "GrimesがAI-inspiredのアルバムPsy Operaの先行曲を公開した。",
+          "mini_headline": "Grimes、Psy Operaを予告",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimesは4月、Interview誌に対し、AI-themedの新作アルバムPsy Operaを録音したと語っていた。公開されたばかりのリードシングル「Accelerando」のプレスリリースにはこうある。「AI論争から不道徳な戦争、ひどい元恋人、looksmaxers、宗教の重要性まで、Psy OperaはGrimesがポップ音楽を離れていた間に、歴史の中の一人の女性として目撃したすべてを扱う」。リリース日はまだ決まっていない。"
+              },
+              {
+                "t": "p",
+                "x": "曲には不穏なミュージックビデオが付いている。Grimesが鎖で縛られ、火あぶりにされ、アンドロイドの戦闘のただ中で銃を振るう。"
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimesは長年、音楽におけるAIを擁護してきた。2024年にはPBSのシリーズA Brief History of the FutureでAIをミュージシャンにとっての「チャンス」と呼び、その前年には自分の声を使ってヒットするAI-generatedの曲を作った人に50%のロイヤルティを支払うと申し出た。"
+              },
+              {
+                "t": "p",
+                "x": "ヨハネによる福音書（Gospel of John）をAI-themedのディストピアとして語り直すPsy Operaのトレーラーも公開した。Psy Operaは2020年のMiss Anthropocene以来六年ぶりのアルバムで、自身のレーベルNazgul Recording LLCからの初作品となる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grimes发布首支新曲\nAI-inspired新专辑",
+          "body": "Grimes发布AI-inspired专辑Psy Opera首支歌曲。",
+          "mini_headline": "Grimes预告Psy Opera",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Grimes在4月接受Interview采访时表示，她录制了一张AI-themed新专辑Psy Opera。刚刚发布的主打单曲《Accelerando》的新闻稿写道：“从AI之争到不道德的战争，从糟糕的前任到looksmaxers，再到宗教的重要性，Psy Opera将涵盖Grimes在暂别流行乐期间，作为历史中的一名女性所目睹的一切。”发行日期尚未公布。"
+              },
+              {
+                "t": "p",
+                "x": "歌曲同时推出了一支令人不安的音乐录影带：Grimes被锁链缠身、在火刑柱上焚烧，还在一场仿生人大战中挥舞枪支。"
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes长期支持在音乐中使用AI。2024年，她在PBS节目A Brief History of the Future中称AI是音乐人的“机遇”；前一年，她提出，任何人用她的声音做出成功的AI-generated歌曲，都可获得50%的版税。"
+              },
+              {
+                "t": "p",
+                "x": "她还发布了Psy Opera的预告片，以反乌托邦、AI-themed的方式重述《约翰福音》（Gospel of John）。Psy Opera是她继2020年《Miss Anthropocene》之后六年来的首张专辑，也是她在自有厂牌Nazgul Recording LLC旗下的首张作品。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grimes presenta el primer tema\nde Psy Opera, álbum AI-inspired",
+          "body": "Grimes publicó la primera canción de Psy Opera, un álbum AI-inspired sobre lo que vio durante su pausa del pop.",
+          "mini_headline": "Grimes adelanta Psy Opera",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "En abril, Grimes contó a Interview que había grabado un nuevo álbum AI-themed, Psy Opera. El comunicado del sencillo principal recién publicado, “Accelerando”, dice: “Desde el debate sobre la AI hasta las guerras inmorales, pasando por un mal ex, los looksmaxers y la importancia de la religión, Psy Opera abarcará todo lo que Grimes presenció como mujer de la historia durante su pausa de la música pop”. Aún no hay fecha de lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "La canción llega con un inquietante videoclip en el que Grimes aparece envuelta en cadenas, quemada en la hoguera y empuñando un arma en medio de una batalla de androides."
+              },
+              {
+                "t": "video",
+                "yt": "AVu5p2DMIf8"
+              },
+              {
+                "t": "p",
+                "x": "Grimes defiende desde hace tiempo la AI en la música. En 2024 calificó la AI de “oportunidad” para los músicos en la serie de PBS A Brief History of the Future; el año anterior, ofreció un 50 por ciento de regalías a quien creara una canción AI-generated exitosa con su voz."
+              },
+              {
+                "t": "p",
+                "x": "También mostró un tráiler de Psy Opera con una relectura distópica y AI-themed del Evangelio de Juan (Gospel of John). Psy Opera es su primer álbum en seis años, tras Miss Anthropocene de 2020, y el primero en su propio sello, Nazgul Recording LLC."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "fender-site-ai-tool",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Fender, AI 도구로\n웹사이트 새 단장",
+      "body": "Fender가 AI 도구와 아티스트 콘텐츠를 더해 웹사이트를 새로 단장했다.",
+      "mini_headline": "Fender, 웹사이트에 AI 도입",
       "tool": "Music",
       "source": "Music Ally",
-      "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
+      "url": "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "Fender가 악기만 만드는 회사가 아니게 된 지는 꽤 됐다. 지난 십 년 동안 Fender의 음악 교육 사업, 음악 제작 앱 Fender Studio, 아티스트 육성 프로그램 Fender Next 등을 다뤄 왔다. (그리고 2022년 Meta와 함께 내놓은, 지금 보면 그야말로 ‘그 시절’ 느낌이 나는 기타 모양의 ‘Stratoverse’ VR 프로젝트도 있었다.) 이번 디지털 행보는 메인 웹사이트 개편이다. 온라인에서 악기만 사는 곳이 아니라 그 이상의 공간처럼 느껴지게 하는 데 힘을 줬다."
+          },
+          {
+            "t": "p",
+            "x": "주요 기능으로는 먼저 미국(US)에서 선보이는 AI-powered 도구 ‘Ask Fender’가 있다. 이 도구는 “뮤지션이 자신의 연주 스타일과 경험, 필요에 맞는 악기를 찾도록 돕기 위해 설계됐다”고 소개됐다. 아티스트 콘텐츠도 늘린다. 첫 순서는 다음 주(10월 14일) 막을 올리는 다섯 차례 공연 시리즈 ‘The One. For New York’이다. 교육 부문 Fender Play도 새 사이트로 들어오고, 방문자가 악기와 앰프를 둘러보며 소리를 직접 들어 볼 수 있는 공간도 새로 생긴다."
+          },
+          {
+            "t": "p",
+            "x": "“전통적인 이커머스 플랫폼을 넘어, 사람들이 새 장비를 발견하고 자신에게 맞는 것을 찾으며 브랜드와 연결되는 공간”이라고 임시 최고마케팅책임자 Kelly Magrath는 약속했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Fender rebuilds its website\nwith an AI tool",
+          "body": "Fender has revamped its website with an AI tool and more artist content, extending its reach beyond instruments.",
+          "mini_headline": "Fender adds AI to its website",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Fender has been more than just a maker of instruments for some time now. In the last decade we’ve written about its moves in music education, its Fender Studio music-making app and its Fender Next artist-development program for example. (And yes, also a guitar-shaped ‘Stratoverse’ VR thing with Meta in 2022 that feels very much ‘of its time’ now.) The company’s latest digital move is a revamp of its main website, with the focus being on making it feel much more than a place to buy instruments online."
+              },
+              {
+                "t": "p",
+                "x": "Features include an AI-powered tool called ‘Ask Fender’ that’s launching initially in the US, described as “designed to help musicians discover the right instrument based on their playing style, experience, and needs”. The new site will also feature more artist content, starting with a five-show concert series called ‘The One. For New York’ that kicks off next week (14 October). The Fender Play education arm will be part of the new site, as will a new area for visitors to hear the sound of instruments and amps while browsing them."
+              },
+              {
+                "t": "p",
+                "x": "“Moving beyond a traditional ecommerce platform, it’s a place where people can discover new gear, find what’s right for them and connect with the brand,” promised interim chief marketing officer Kelly Magrath."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Fender, AI 도구로\n웹사이트 새 단장",
+          "body": "Fender가 AI 도구와 아티스트 콘텐츠를 더해 웹사이트를 새로 단장했다.",
+          "mini_headline": "Fender, 웹사이트에 AI 도입",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Fender가 악기만 만드는 회사가 아니게 된 지는 꽤 됐다. 지난 십 년 동안 Fender의 음악 교육 사업, 음악 제작 앱 Fender Studio, 아티스트 육성 프로그램 Fender Next 등을 다뤄 왔다. (그리고 2022년 Meta와 함께 내놓은, 지금 보면 그야말로 ‘그 시절’ 느낌이 나는 기타 모양의 ‘Stratoverse’ VR 프로젝트도 있었다.) 이번 디지털 행보는 메인 웹사이트 개편이다. 온라인에서 악기만 사는 곳이 아니라 그 이상의 공간처럼 느껴지게 하는 데 힘을 줬다."
+              },
+              {
+                "t": "p",
+                "x": "주요 기능으로는 먼저 미국(US)에서 선보이는 AI-powered 도구 ‘Ask Fender’가 있다. 이 도구는 “뮤지션이 자신의 연주 스타일과 경험, 필요에 맞는 악기를 찾도록 돕기 위해 설계됐다”고 소개됐다. 아티스트 콘텐츠도 늘린다. 첫 순서는 다음 주(10월 14일) 막을 올리는 다섯 차례 공연 시리즈 ‘The One. For New York’이다. 교육 부문 Fender Play도 새 사이트로 들어오고, 방문자가 악기와 앰프를 둘러보며 소리를 직접 들어 볼 수 있는 공간도 새로 생긴다."
+              },
+              {
+                "t": "p",
+                "x": "“전통적인 이커머스 플랫폼을 넘어, 사람들이 새 장비를 발견하고 자신에게 맞는 것을 찾으며 브랜드와 연결되는 공간”이라고 임시 최고마케팅책임자 Kelly Magrath는 약속했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fender、AIツールで\nサイトを刷新",
+          "body": "FenderがAIツールとアーティストコンテンツを加え、公式サイトを刷新した。",
+          "mini_headline": "Fender、サイトにAIを導入",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Fenderはかなり前から、単なる楽器メーカーにとどまらない存在だ。この十年で、音楽教育への取り組みや音楽制作アプリFender Studio、アーティスト育成プログラムFender Nextなどを取り上げてきた。（そう、2022年にMetaと組んだギター型の「Stratoverse」というVR企画もあったが、今思えばいかにも「あの頃」らしい。）同社の最新のデジタル施策はメインサイトの刷新で、楽器をオンラインで買う場所以上のものに感じられるようにすることに重点を置いている。"
+              },
+              {
+                "t": "p",
+                "x": "目玉の一つは、まずUSで提供が始まるAI-poweredツール「Ask Fender」で、「演奏スタイルや経験、ニーズに合った楽器をミュージシャンが見つけられるよう設計された」と説明されている。新サイトではアーティストコンテンツも拡充し、その皮切りとして来週（10月14日）に始まる全五公演のコンサートシリーズ「The One. For New York」を展開する。教育部門のFender Playも新サイトに組み込まれるほか、楽器やアンプを見ながらその音を聴ける新エリアも設けられる。"
+              },
+              {
+                "t": "p",
+                "x": "「従来の通販プラットフォームを超え、新しい機材を見つけ、自分に合うものを探し、ブランドとつながれる場所だ」と、暫定最高マーケティング責任者のKelly Magrathは約束した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fender用AI工具\n重建官网",
+          "body": "Fender改版官网，加入AI工具和更多艺人内容，业务延伸到乐器之外。",
+          "mini_headline": "Fender官网引入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "一段时间以来，Fender早已不只是一家乐器制造商。过去十年里，我们报道过它在音乐教育领域的动作、音乐制作应用Fender Studio，以及艺人培养计划Fender Next等。（没错，还有2022年与Meta合作、如今看来颇具“时代感”的吉他造型“Stratoverse”VR项目。）该公司最新的数字化举措是改版主网站，重点在于让它远不只是一个在线购买乐器的地方。"
+              },
+              {
+                "t": "p",
+                "x": "新功能包括一款名为“Ask Fender”的AI-powered工具，将首先在US上线，官方称其“旨在帮助音乐人根据自己的演奏风格、经验和需求找到合适的乐器”。新网站还将推出更多艺人内容，首先是下周（10月14日）开幕、共五场的系列演出“The One. For New York”。Fender Play教育板块也将并入新网站，同时新增一个专区，让访客在浏览乐器和音箱时试听其声音。"
+              },
+              {
+                "t": "p",
+                "x": "临时首席营销官Kelly Magrath承诺：“它超越了传统电商平台，是人们发现新装备、找到适合自己的产品并与品牌建立联系的地方。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fender renueva su web\ncon una herramienta de IA",
+          "body": "Fender ha renovado su web con una herramienta de IA y más contenido de artistas, y va más allá de los instrumentos.",
+          "mini_headline": "Fender suma AI a su web",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Desde hace tiempo, Fender es mucho más que un fabricante de instrumentos. En la última década hemos escrito sobre sus pasos en la educación musical, su app de creación musical Fender Studio o su programa de desarrollo de artistas Fender Next, por ejemplo. (Y sí, también sobre un proyecto de VR con forma de guitarra, ‘Stratoverse’, junto a Meta en 2022, que hoy parece muy ‘de su época’). El último movimiento digital de la compañía es la renovación de su web principal, con el objetivo de que se perciba como mucho más que un lugar para comprar instrumentos en línea."
+              },
+              {
+                "t": "p",
+                "x": "Entre las novedades figura una herramienta impulsada por IA (AI-powered) llamada ‘Ask Fender’, que se lanzará primero en Estados Unidos (US) y que, según se describe, está “diseñada para ayudar a los músicos a descubrir el instrumento adecuado según su estilo de interpretación, su experiencia y sus necesidades”. La nueva web también ofrecerá más contenido de artistas, empezando por una serie de cinco conciertos llamada ‘The One. For New York’, que arranca la semana que viene (14 de octubre). El área educativa Fender Play formará parte de la nueva web, al igual que una nueva sección donde los visitantes podrán escuchar el sonido de instrumentos y amplificadores mientras los exploran."
+              },
+              {
+                "t": "p",
+                "x": "“Más allá de una plataforma de ecommerce tradicional, es un lugar donde la gente puede descubrir nuevo equipo, encontrar lo que le conviene y conectar con la marca”, prometió Kelly Magrath, directora de marketing interina."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Fender, AI 도구로\n웹사이트 새 단장",
+          "body": "Fender가 AI 도구와 아티스트 콘텐츠를 더해 웹사이트를 새로 단장했다.",
+          "mini_headline": "Fender, 웹사이트에 AI 도입",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Fender는 꽤 오래전부터 단순한 악기 제조사 이상의 회사였다. 지난 십 년 동안 우리는 Fender의 음악 교육 사업, 음악 제작 앱 Fender Studio, 아티스트 육성 프로그램 Fender Next 등을 다뤄 왔다. (그리고 2022년 Meta와 함께 내놓은, 지금 보면 그야말로 ‘그 시절’ 느낌이 나는 기타 모양의 ‘Stratoverse’ VR 프로젝트도 있었다.) 이 회사의 최신 디지털 행보는 메인 웹사이트 개편으로, 온라인에서 악기를 사는 곳 이상의 공간으로 느껴지게 하는 데 초점을 맞췄다."
+              },
+              {
+                "t": "p",
+                "x": "주요 기능으로는 먼저 미국(US)에서 선보이는 AI-powered 도구 ‘Ask Fender’가 있다. 이 도구는 “뮤지션이 자신의 연주 스타일과 경험, 필요에 맞는 악기를 찾도록 돕기 위해 설계됐다”고 소개됐다. 새 사이트에는 아티스트 콘텐츠도 늘어나며, 그 시작은 다음 주(10월 14일) 막을 올리는 다섯 차례 공연 시리즈 ‘The One. For New York’이다. 교육 부문 Fender Play도 새 사이트에 들어가고, 방문자가 악기와 앰프를 둘러보며 소리를 들어볼 수 있는 새 공간도 생긴다."
+              },
+              {
+                "t": "p",
+                "x": "“전통적인 이커머스 플랫폼을 넘어, 사람들이 새 장비를 발견하고 자신에게 맞는 것을 찾으며 브랜드와 연결되는 공간”이라고 Kelly Magrath 임시 최고마케팅책임자는 약속했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Fender、AIツールで\nサイトを刷新",
+          "body": "FenderがAIツールとアーティストコンテンツを加え、公式サイトを刷新した。",
+          "mini_headline": "Fender、サイトにAIを導入",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Fenderはかなり前から、単なる楽器メーカーにとどまらない存在だ。この十年で、音楽教育への取り組みや音楽制作アプリFender Studio、アーティスト育成プログラムFender Nextなどを取り上げてきた。（そう、2022年にMetaと組んだギター型の「Stratoverse」というVR企画もあったが、今思えばいかにも「あの頃」らしい。）同社の最新のデジタル施策はメインサイトの刷新で、楽器をオンラインで買う場所以上のものに感じられるようにすることに重点を置いている。"
+              },
+              {
+                "t": "p",
+                "x": "目玉の一つは、まずUSで提供が始まるAI-poweredツール「Ask Fender」で、「演奏スタイルや経験、ニーズに合った楽器をミュージシャンが見つけられるよう設計された」と説明されている。新サイトではアーティストコンテンツも拡充し、その皮切りとして来週（10月14日）に始まる全五公演のコンサートシリーズ「The One. For New York」を展開する。教育部門のFender Playも新サイトに組み込まれるほか、楽器やアンプを見ながらその音を聴ける新エリアも設けられる。"
+              },
+              {
+                "t": "p",
+                "x": "「従来の通販プラットフォームを超え、新しい機材を見つけ、自分に合うものを探し、ブランドとつながれる場所だ」と、暫定最高マーケティング責任者のKelly Magrathは約束した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Fender用AI工具\n重建官网",
+          "body": "Fender改版官网，加入AI工具和更多艺人内容，业务延伸到乐器之外。",
+          "mini_headline": "Fender官网引入AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "一段时间以来，Fender早已不只是一家乐器制造商。过去十年里，我们报道过它在音乐教育领域的动作、音乐制作应用Fender Studio，以及艺人培养计划Fender Next等。（没错，还有2022年与Meta合作、如今看来颇具“时代感”的吉他造型“Stratoverse”VR项目。）该公司最新的数字化举措是改版主网站，重点在于让它远不只是一个在线购买乐器的地方。"
+              },
+              {
+                "t": "p",
+                "x": "新功能包括一款名为“Ask Fender”的AI-powered工具，将首先在US上线，官方称其“旨在帮助音乐人根据自己的演奏风格、经验和需求找到合适的乐器”。新网站还将推出更多艺人内容，首先是下周（10月14日）开幕、共五场的系列演出“The One. For New York”。Fender Play教育板块也将并入新网站，同时新增一个专区，让访客在浏览乐器和音箱时试听其声音。"
+              },
+              {
+                "t": "p",
+                "x": "临时首席营销官Kelly Magrath承诺：“它超越了传统电商平台，是人们发现新装备、找到适合自己的产品并与品牌建立联系的地方。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Fender renueva su web\ncon una herramienta de IA",
+          "body": "Fender ha renovado su web con una herramienta de IA y más contenido de artistas, y va más allá de los instrumentos.",
+          "mini_headline": "Fender suma AI a su web",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Desde hace tiempo, Fender es mucho más que un fabricante de instrumentos. En la última década hemos escrito sobre sus pasos en la educación musical, su app de creación musical Fender Studio o su programa de desarrollo de artistas Fender Next, por ejemplo. (Y sí, también sobre un proyecto de VR con forma de guitarra, ‘Stratoverse’, junto a Meta en 2022, que hoy parece muy ‘de su época’). El último movimiento digital de la compañía es la renovación de su web principal, con el objetivo de que se perciba como mucho más que un lugar para comprar instrumentos en línea."
+              },
+              {
+                "t": "p",
+                "x": "Entre las novedades figura una herramienta impulsada por IA (AI-powered) llamada ‘Ask Fender’, que se lanzará primero en Estados Unidos (US) y que, según se describe, está “diseñada para ayudar a los músicos a descubrir el instrumento adecuado según su estilo de interpretación, su experiencia y sus necesidades”. La nueva web también ofrecerá más contenido de artistas, empezando por una serie de cinco conciertos llamada ‘The One. For New York’, que arranca la semana que viene (14 de octubre). El área educativa Fender Play formará parte de la nueva web, al igual que una nueva sección donde los visitantes podrán escuchar el sonido de instrumentos y amplificadores mientras los exploran."
+              },
+              {
+                "t": "p",
+                "x": "“Más allá de una plataforma de ecommerce tradicional, es un lugar donde la gente puede descubrir nuevo equipo, encontrar lo que le conviene y conectar con la marca”, prometió Kelly Magrath, directora de marketing interina."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "arxiv-ai-music-plagiarism-vi",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "연구진, 커버곡 모델로\nAI 표절 검증",
+      "body": "연구진이 최신 모델로 AI-generated 음악 표절을 가려내는지 따져 봤다.",
+      "mini_headline": "AI 음악 표절 탐지",
+      "tool": "Music",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.09075",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+            "t": "p",
+            "x": "텍스트로 음악을 만드는(text-to-music) 생성 모델이 빠르게 늘면서 음악 창작과 지식재산권을 떠받치던 기존 틀이 흔들린다. 이런 상황에서 표절은 수학처럼 딱 떨어지는 이분법인 경우가 드물다. 화성 구조나 선율 윤곽, 전체에서 풍기는 스타일을 놓고 줄다리기하는 흐릿한 문턱에 가깝다."
           },
           {
             "t": "p",
-            "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 읽어 자연스럽게 어울리는 오디오를 만드는 것이 목표다. 회사는 사업을 넓히려고 $11m 규모의 투자를 유치했다."
+            "x": "이 연구는 최신(state-of-the-art) 음악 버전 식별 아키텍처가 사람끼리의 커버 영역을 벗어나 인간 대 AI(human-to-AI) 표절 상황에서도 통하는지 시험한다. 평가용으로는 실제 표절 사례에서 출발해 생성형 재합성과 디지털 신호 처리 난독화로 범위를 넓힌 벤치마크 COPYCAT을 내놓았다. 평가 쌍은 350,654개에 이른다."
           },
           {
             "t": "p",
-            "x": "Sonilo는 TikTok의 AI 팀과 음악 팀 출신들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 오디오가 텍스트 프롬프트가 아니라 영상에서 출발한다는 점이 핵심이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
-          },
-          {
-            "t": "p",
-            "x": "Music Ally의 주간 소식에는 다른 소식도 있었다. Laylo는 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 내놓았다. 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music은 Google의 Gemini Startup Forum에 뽑혔다."
+            "x": "스칼라 거리 임곗값 방식은 생성형 재합성 앞에서 무너졌다. 반면 좌표별 임베딩 이동을 쓴 지도학습 프레임워크는 흩어진 표절 신호를 되살려 전체 F0.5를 0.612에서 0.803으로 끌어올렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Sonilo scores video with\ntime-aligned AI music",
-          "body": "Sonilo raised $11M for its multimodal AI that reads a video's pacing, emotion and storyline to generate aligned music.",
-          "mini_headline": "Sonilo turns video\ninto music",
+          "headline": "Researchers test cover-song\nmodels on AI plagiarism",
+          "body": "Researchers test whether state-of-the-art version identification models can detect plagiarism in AI-generated music.",
+          "mini_headline": "Detecting AI music plagiarism",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "The rapid expansion of text-to-music generative models challenges traditional paradigms of music creation and intellectual property. Plagiarism in this context is rarely an absolute mathematical binary, but an ambiguous threshold negotiated over harmonic structure, melodic contours, or overall perceived stylistic character."
               },
               {
                 "t": "p",
-                "x": "Sonilo is a platform with a \"proprietary multimodal AI system that connects video understanding, audio generation, and temporal alignment.\" It should recognise the pacing, emotion and storyline of a video and generate audio that aligns with it believably. It has now raised $11m in funding to scale the company."
+                "x": "In this work, we test the transferability of state-of-the-art music version identification architectures from the human-to-human cover domain to the human-to-AI plagiarism setting. To evaluate this task, we introduce COPYCAT, a benchmark derived from real-world plagiarism cases and extended through generative re-synthesis and digital signal processing obfuscations, yielding 350,654 evaluation pairs."
               },
               {
                 "t": "p",
-                "x": "Sonilo was founded by people who worked on TikTok's AI and music teams. CEO and co-founder Shawn Song says the key is that the audio starts with a video, not a text prompt: \"You give us the footage, and Sonilo understands what's happening frame by frame.\""
-              },
-              {
-                "t": "p",
-                "x": "Elsewhere in Music Ally's weekly round-up: Laylo launched a Discovery Agent that texts Spotify users once a month about nearby gigs by artists they listen to but don't follow, and French startup Base For Music, whose AI tool finds artists' most-engaged fans, was picked for Google's Gemini Startup Forum."
+                "x": "We show that scalar distance thresholding collapses under generative re-synthesis, while a supervised framework leveraging coordinate-wise embedding shifts recovers the dispersed plagiarism signal, raising overall F0.5 from 0.612 to 0.803."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
-          "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
-          "mini_headline": "Sonilo, 영상을 음악으로",
+          "headline": "연구진, 커버곡 모델로\nAI 표절 검증",
+          "body": "연구진이 최신 모델로 AI-generated 음악 표절을 가려내는지 따져 봤다.",
+          "mini_headline": "AI 음악 표절 탐지",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "텍스트로 음악을 만드는(text-to-music) 생성 모델이 빠르게 늘면서 음악 창작과 지식재산권을 떠받치던 기존 틀이 흔들린다. 이런 상황에서 표절은 수학처럼 딱 떨어지는 이분법인 경우가 드물다. 화성 구조나 선율 윤곽, 전체에서 풍기는 스타일을 놓고 줄다리기하는 흐릿한 문턱에 가깝다."
               },
               {
                 "t": "p",
-                "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 읽어 자연스럽게 어울리는 오디오를 만드는 것이 목표다. 회사는 사업을 넓히려고 $11m 규모의 투자를 유치했다."
+                "x": "이 연구는 최신(state-of-the-art) 음악 버전 식별 아키텍처가 사람끼리의 커버 영역을 벗어나 인간 대 AI(human-to-AI) 표절 상황에서도 통하는지 시험한다. 평가용으로는 실제 표절 사례에서 출발해 생성형 재합성과 디지털 신호 처리 난독화로 범위를 넓힌 벤치마크 COPYCAT을 내놓았다. 평가 쌍은 350,654개에 이른다."
               },
               {
                 "t": "p",
-                "x": "Sonilo는 TikTok의 AI 팀과 음악 팀 출신들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 오디오가 텍스트 프롬프트가 아니라 영상에서 출발한다는 점이 핵심이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Music Ally의 주간 소식에는 다른 소식도 있었다. Laylo는 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 내놓았다. 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music은 Google의 Gemini Startup Forum에 뽑혔다."
+                "x": "스칼라 거리 임곗값 방식은 생성형 재합성 앞에서 무너졌다. 반면 좌표별 임베딩 이동을 쓴 지도학습 프레임워크는 흩어진 표절 신호를 되살려 전체 F0.5를 0.612에서 0.803으로 끌어올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sonilo、映像に\n同期するAI音楽",
-          "body": "Soniloは映像のテンポや感情、物語を読み取り音楽を生成するAIで$11M を調達した。",
-          "mini_headline": "Sonilo、映像を音楽に",
+          "headline": "カバー曲識別モデルで\nAI盗作は見抜けるか",
+          "body": "研究陣がバージョン識別モデルでAI-generated音楽の盗作を検出できるか検証した。",
+          "mini_headline": "AI音楽の盗作を検出する",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "テキストから音楽を生成する（text-to-music）モデルの急速な広がりは、音楽制作と知的財産の従来のあり方を揺さぶっている。この文脈での盗作は、数学的に白黒がはっきりつくことはまれで、和声構造や旋律の輪郭、全体として感じられる様式的な特徴をめぐって折り合いがつけられる曖昧な境界線である。"
               },
               {
                 "t": "p",
-                "x": "Soniloは「映像理解、オーディオ生成、時間的アライメントをつなぐ独自のマルチモーダルAIシステム」を持つプラットフォームだ。映像のテンポや感情、ストーリーを認識し、それに自然に合うオーディオを生成するという。同社は事業拡大に向け、$11m の資金を調達した。"
+                "x": "本研究では、最先端の音楽バージョン識別アーキテクチャが、人間同士のカバーの領域から人間対AI（human-to-AI）の盗作の場面へと転用できるかを検証する。この課題を評価するため、実際の盗作事例をもとに生成的な再合成とデジタル信号処理による難読化で拡張したベンチマークCOPYCATを導入し、350,654組の評価ペアを得た。"
               },
               {
                 "t": "p",
-                "x": "Soniloを創業したのは、TikTokのAIチームや音楽チームで働いていた人々だ。CEO兼共同創業者のShawn Songは、オーディオの出発点がテキストプロンプトではなく映像であることが鍵だと語る。「映像を渡してもらえれば、Soniloはフレームごとに何が起きているかを理解する」"
-              },
-              {
-                "t": "p",
-                "x": "Music Allyの週間まとめでは、ほかにもLayloが、ユーザーが聴いているもののフォローしていないアーティストの近隣公演を月に一度Spotifyユーザーにテキストで知らせるDiscovery Agentを公開した。また、アーティストの最も熱心なファンを見つけるAIツールを手がけるフランスのスタートアップBase For Musicが、GoogleのGemini Startup Forumに選ばれた。"
+                "x": "スカラー距離による閾値判定は生成的な再合成のもとで破綻する一方、座標ごとの埋め込みシフトを活用する教師ありフレームワークは分散した盗作の信号を回復し、全体のF0.5を0.612から0.803に高めることを示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sonilo为视频配上\n时间同步的AI音乐",
-          "body": "Sonilo获得$11M 融资，其多模态AI可读懂视频节奏、情绪与故事线并生成匹配音乐。",
-          "mini_headline": "Sonilo把视频变成音乐",
+          "headline": "研究者用翻唱识别模型\n检测AI抄袭",
+          "body": "研究者测试最先进的版本识别模型能否检测AI-generated音乐中的抄袭。",
+          "mini_headline": "检测AI音乐抄袭",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "文本生成音乐（text-to-music）模型的迅速扩张，正在挑战音乐创作和知识产权的传统范式。在这一语境下，抄袭很少是绝对的数学二元判断，而是一个围绕和声结构、旋律轮廓或整体感知风格特征来权衡的模糊阈值。"
               },
               {
                 "t": "p",
-                "x": "Sonilo是一个平台，拥有“连接视频理解、音频生成与时间对齐的专有多模态AI系统”。它应能识别视频的节奏、情绪和故事线，并生成与之自然契合的音频。公司现已获得$11m 融资，用于扩大规模。"
+                "x": "在这项工作中，我们测试了最先进的音乐版本识别架构能否从人与人之间的翻唱领域迁移到人与AI之间（human-to-AI）的抄袭场景。为评估这一任务，我们推出了COPYCAT基准，它源自真实的抄袭案例，并通过生成式重新合成和数字信号处理混淆加以扩展，共得到350,654个评估对。"
               },
               {
                 "t": "p",
-                "x": "Sonilo由曾在TikTok的AI和音乐团队工作的人创立。CEO兼联合创始人Shawn Song表示，关键在于音频的起点是视频而非文本提示：“你把素材交给我们，Sonilo会逐帧理解画面中发生的事。”"
-              },
-              {
-                "t": "p",
-                "x": "Music Ally每周综述中的其他消息：Laylo推出了Discovery Agent，每月一次通过短信告诉Spotify用户，他们收听但未关注的艺人在附近有哪些演出；法国初创公司Base For Music的AI工具能找出艺人最活跃的粉丝，该公司入选了Google的Gemini Startup Forum。"
+                "x": "我们发现，标量距离阈值法在生成式重新合成下失效，而利用逐坐标嵌入偏移的监督框架能够恢复分散的抄袭信号，将整体F0.5从0.612提升至0.803。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sonilo musicaliza videos con\nIA sincronizada en el tiempo",
-          "body": "Sonilo recaudó $11M para su IA multimodal, que lee ritmo, emoción y trama de un video y genera música acorde.",
-          "mini_headline": "Sonilo convierte video en música",
+          "headline": "Investigadores prueban modelos\nde covers ante el plagio de IA",
+          "body": "Investigadores prueban si los modelos punteros de identificación de versiones detectan plagio en música AI-generated.",
+          "mini_headline": "Detectar el plagio en la música hecha con AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "La rápida expansión de los modelos generativos text-to-music desafía los paradigmas tradicionales de la creación musical y la propiedad intelectual. En este contexto, el plagio rara vez es un binario matemático absoluto, sino un umbral ambiguo que se negocia en torno a la estructura armónica, los contornos melódicos o el carácter estilístico percibido en conjunto."
               },
               {
                 "t": "p",
-                "x": "Sonilo es una plataforma con un “sistema propio de IA (AI) multimodal que conecta la comprensión de video, la generación de audio y la alineación temporal”. Debería reconocer el ritmo, la emoción y la trama de un video y generar audio que encaje con ellos de forma creíble. Ahora ha recaudado $11m en financiación para escalar la empresa."
+                "x": "En este trabajo, ponemos a prueba la transferibilidad de las arquitecturas más avanzadas de identificación de versiones musicales desde el dominio de las versiones entre humanos al escenario de plagio human-to-AI (de humano a IA). Para evaluar esta tarea, presentamos COPYCAT, un benchmark derivado de casos reales de plagio y ampliado mediante re-síntesis generativa y ofuscaciones de procesamiento digital de señales, que da lugar a 350,654 pares de evaluación."
               },
               {
                 "t": "p",
-                "x": "Sonilo fue fundada por personas que trabajaron en los equipos de IA y de música de TikTok. Su CEO y cofundador, Shawn Song, dice que la clave es que el audio parte de un video, no de un prompt de texto: “Nos das las imágenes y Sonilo entiende lo que ocurre fotograma a fotograma”."
-              },
-              {
-                "t": "p",
-                "x": "En otras noticias del resumen semanal de Music Ally: Laylo lanzó un Discovery Agent que envía un mensaje de texto una vez al mes a usuarios de Spotify sobre conciertos cercanos de artistas que escuchan pero no siguen, y la startup francesa Base For Music, cuya herramienta de IA encuentra a los fans más comprometidos de los artistas, fue seleccionada para el Gemini Startup Forum de Google."
+                "x": "Mostramos que la umbralización por distancia escalar se desmorona ante la re-síntesis generativa, mientras que un marco supervisado que aprovecha desplazamientos de embeddings coordenada a coordenada recupera la señal de plagio dispersa y eleva el F0.5 global de 0.612 a 0.803."
               }
             ]
           }
@@ -1185,427 +1393,89 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Sonilo, 영상에 맞춘\nAI 음악을 입힌다",
-          "body": "영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
-          "mini_headline": "Sonilo, 영상을 음악으로",
+          "headline": "연구진, 커버곡 모델로\nAI 표절 검증",
+          "body": "연구진이 최신 모델로 AI-generated 음악 표절을 가려낼 수 있는지 본다.",
+          "mini_headline": "AI 음악 표절 탐지",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "텍스트로 음악을 만드는(text-to-music) 생성 모델이 빠르게 늘면서 음악 창작과 지식재산권의 전통적 패러다임이 흔들리고 있다. 이 맥락에서 표절은 수학적으로 딱 떨어지는 이분법인 경우가 드물다. 화성 구조나 선율의 윤곽, 전반적으로 느껴지는 스타일을 두고 협상되는 모호한 문턱에 가깝다."
               },
               {
                 "t": "p",
-                "x": "Sonilo는 “영상 이해, 오디오 생성, 시간 정렬을 연결하는 독자적 멀티모달 AI 시스템”을 갖춘 플랫폼이다. 영상의 속도감과 감정, 줄거리를 파악해 그에 자연스럽게 맞는 오디오를 생성하는 것이 목표다. 회사는 사업 확장을 위해 $11m 규모의 투자를 유치했다."
+                "x": "이 연구는 최신(state-of-the-art) 음악 버전 식별 아키텍처가 인간 대 인간의 커버 영역에서 인간 대 AI(human-to-AI) 표절 상황으로 옮겨 가도 통하는지 시험한다. 이를 평가하기 위해 실제 표절 사례에서 출발해 생성형 재합성과 디지털 신호 처리 난독화로 확장한 벤치마크 COPYCAT을 제시하며, 평가 쌍은 350,654개에 이른다."
               },
               {
                 "t": "p",
-                "x": "Sonilo는 TikTok의 AI 팀과 음악 팀에서 일했던 사람들이 세웠다. CEO이자 공동 창업자인 Shawn Song은 핵심이 텍스트 프롬프트가 아니라 영상에서 오디오가 출발한다는 점이라고 말한다. “영상을 주면 Sonilo가 프레임 단위로 무슨 일이 일어나는지 이해합니다.”"
-              },
-              {
-                "t": "p",
-                "x": "Music Ally의 주간 소식에서는 이 밖에도 Laylo가 Spotify 사용자에게 즐겨 듣지만 팔로하지 않는 아티스트의 근처 공연을 한 달에 한 번 문자로 알려 주는 Discovery Agent를 출시했고, 아티스트의 가장 열성적인 팬을 찾아 주는 AI 도구를 만든 프랑스 스타트업 Base For Music이 Google의 Gemini Startup Forum에 선정됐다."
+                "x": "그 결과 스칼라 거리 임곗값 방식은 생성형 재합성 앞에서 무너졌지만, 좌표별 임베딩 이동을 활용한 지도학습 프레임워크는 흩어진 표절 신호를 되살려 전체 F0.5를 0.612에서 0.803으로 끌어올렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Sonilo、映像に\n同期するAI音楽",
-          "body": "Soniloは映像のテンポや感情、物語を読み取り音楽を生成するAIで$11M を調達した。",
-          "mini_headline": "Sonilo、映像を音楽に",
+          "headline": "カバー曲識別モデルで\nAI盗作は見抜けるか",
+          "body": "研究陣がバージョン識別モデルでAI-generated音楽の盗作を検出できるか検証した。",
+          "mini_headline": "AI音楽の盗作を検出する",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "テキストから音楽を生成する（text-to-music）モデルの急速な広がりは、音楽制作と知的財産の従来のあり方を揺さぶっている。この文脈での盗作は、数学的に白黒がはっきりつくことはまれで、和声構造や旋律の輪郭、全体として感じられる様式的な特徴をめぐって折り合いがつけられる曖昧な境界線である。"
               },
               {
                 "t": "p",
-                "x": "Soniloは「映像理解、オーディオ生成、時間的アライメントをつなぐ独自のマルチモーダルAIシステム」を持つプラットフォームだ。映像のテンポや感情、ストーリーを認識し、それに自然に合うオーディオを生成するという。同社は事業拡大に向け、$11m の資金を調達した。"
+                "x": "本研究では、最先端の音楽バージョン識別アーキテクチャが、人間同士のカバーの領域から人間対AI（human-to-AI）の盗作の場面へと転用できるかを検証する。この課題を評価するため、実際の盗作事例をもとに生成的な再合成とデジタル信号処理による難読化で拡張したベンチマークCOPYCATを導入し、350,654組の評価ペアを得た。"
               },
               {
                 "t": "p",
-                "x": "Soniloを創業したのは、TikTokのAIチームや音楽チームで働いていた人々だ。CEO兼共同創業者のShawn Songは、オーディオの出発点がテキストプロンプトではなく映像であることが鍵だと語る。「映像を渡してもらえれば、Soniloはフレームごとに何が起きているかを理解する」"
-              },
-              {
-                "t": "p",
-                "x": "Music Allyの週間まとめでは、ほかにもLayloが、ユーザーが聴いているもののフォローしていないアーティストの近隣公演を月に一度Spotifyユーザーにテキストで知らせるDiscovery Agentを公開した。また、アーティストの最も熱心なファンを見つけるAIツールを手がけるフランスのスタートアップBase For Musicが、GoogleのGemini Startup Forumに選ばれた。"
+                "x": "スカラー距離による閾値判定は生成的な再合成のもとで破綻する一方、座標ごとの埋め込みシフトを活用する教師ありフレームワークは分散した盗作の信号を回復し、全体のF0.5を0.612から0.803に高めることを示した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sonilo为视频配上\n时间同步的AI音乐",
-          "body": "Sonilo获得$11M 融资，其多模态AI可读懂视频节奏、情绪与故事线并生成匹配音乐。",
-          "mini_headline": "Sonilo把视频变成音乐",
+          "headline": "研究者用翻唱识别模型\n检测AI抄袭",
+          "body": "研究者测试最先进的版本识别模型能否检测AI-generated音乐中的抄袭。",
+          "mini_headline": "检测AI音乐抄袭",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
+                "t": "p",
+                "x": "文本生成音乐（text-to-music）模型的迅速扩张，正在挑战音乐创作和知识产权的传统范式。在这一语境下，抄袭很少是绝对的数学二元判断，而是一个围绕和声结构、旋律轮廓或整体感知风格特征来权衡的模糊阈值。"
               },
               {
                 "t": "p",
-                "x": "Sonilo是一个平台，拥有“连接视频理解、音频生成与时间对齐的专有多模态AI系统”。它应能识别视频的节奏、情绪和故事线，并生成与之自然契合的音频。公司现已获得$11m 融资，用于扩大规模。"
+                "x": "在这项工作中，我们测试了最先进的音乐版本识别架构能否从人与人之间的翻唱领域迁移到人与AI之间（human-to-AI）的抄袭场景。为评估这一任务，我们推出了COPYCAT基准，它源自真实的抄袭案例，并通过生成式重新合成和数字信号处理混淆加以扩展，共得到350,654个评估对。"
               },
               {
                 "t": "p",
-                "x": "Sonilo由曾在TikTok的AI和音乐团队工作的人创立。CEO兼联合创始人Shawn Song表示，关键在于音频的起点是视频而非文本提示：“你把素材交给我们，Sonilo会逐帧理解画面中发生的事。”"
-              },
-              {
-                "t": "p",
-                "x": "Music Ally每周综述中的其他消息：Laylo推出了Discovery Agent，每月一次通过短信告诉Spotify用户，他们收听但未关注的艺人在附近有哪些演出；法国初创公司Base For Music的AI工具能找出艺人最活跃的粉丝，该公司入选了Google的Gemini Startup Forum。"
+                "x": "我们发现，标量距离阈值法在生成式重新合成下失效，而利用逐坐标嵌入偏移的监督框架能够恢复分散的抄袭信号，将整体F0.5从0.612提升至0.803。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sonilo musicaliza videos con\nIA sincronizada en el tiempo",
-          "body": "Sonilo recaudó $11M para su IA multimodal, que lee ritmo, emoción y trama de un video y genera música acorde.",
-          "mini_headline": "Sonilo convierte video en música",
+          "headline": "Investigadores prueban modelos\nde covers ante el plagio de IA",
+          "body": "Investigadores prueban si los modelos punteros de identificación de versiones detectan plagio en música AI-generated.",
+          "mini_headline": "Detectar el plagio en la música hecha con AI",
           "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-09T140853.938.png"
-              },
-              {
-                "t": "p",
-                "x": "Sonilo es una plataforma con un “sistema propio de IA (AI) multimodal que conecta la comprensión de video, la generación de audio y la alineación temporal”. Debería reconocer el ritmo, la emoción y la trama de un video y generar audio que encaje con ellos de forma creíble. Ahora ha recaudado $11m en financiación para escalar la empresa."
-              },
-              {
-                "t": "p",
-                "x": "Sonilo fue fundada por personas que trabajaron en los equipos de IA y de música de TikTok. Su CEO y cofundador, Shawn Song, dice que la clave es que el audio parte de un video, no de un prompt de texto: “Nos das las imágenes y Sonilo entiende lo que ocurre fotograma a fotograma”."
-              },
-              {
-                "t": "p",
-                "x": "En otras noticias del resumen semanal de Music Ally: Laylo lanzó un Discovery Agent que envía un mensaje de texto una vez al mes a usuarios de Spotify sobre conciertos cercanos de artistas que escuchan pero no siguen, y la startup francesa Base For Music, cuya herramienta de IA encuentra a los fans más comprometidos de los artistas, fue seleccionada para el Gemini Startup Forum de Google."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-arxiv-attribution",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
-      "body": "입력 기반 귀속이면 AI-made 곡의 원천을 검증할 수 있다고 새 논문은 본다.",
-      "mini_headline": "AI 음악의 기여 추적",
-      "tool": "Music",
-      "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.09637",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할까? 이 논문에 따르면 입력 기반 귀속(input-based attribution)은 어떤 오디오 소스가 생성에 쓰였는지, 그 소스가 결과물을 형성했는지를 검증 가능한 증거로 보여 줄 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만 조건으로 쓴다. 스템마다 프롬프트 녹음 하나를 넣고 필요하면 공유 컨텍스트를 더한다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색은 프롬프트 오디오를, 화성은 컨텍스트 오디오를 따랐다."
-          },
-          {
-            "t": "p",
-            "x": "다만 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수도 있다. 그래서 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했는데 입력 기록 밖의 재현은 거의 나오지 않았다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-            "cap": "그림 3: 암기 지표의 탐지 성능."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 입력 기록과 출력 분석이 귀속을 서로 보완하는 증거가 되며, AI 음악 경제가 자리 잡는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Tracing whose music\nshaped an AI-made track",
-          "body": "A new paper shows input-based attribution can give verifiable evidence of which recordings shaped an AI-made track.",
-          "mini_headline": "Attribution for\nAI music",
-          "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "p",
-                "x": "How can we verify whose music contributed to an AI-generated output? This paper shows how input-based attribution can provide verifiable evidence of which audio sources were used in a generation and whether they shaped the output."
+                "x": "La rápida expansión de los modelos generativos text-to-music desafía los paradigmas tradicionales de la creación musical y la propiedad intelectual. En este contexto, el plagio rara vez es un binario matemático absoluto, sino un umbral ambiguo que se negocia en torno a la estructura armónica, los contornos melódicos o el carácter estilístico percibido en conjunto."
               },
               {
                 "t": "p",
-                "x": "The generator, MixAudio, is conditioned solely on audio with no text input: one prompt recording per stem plus an optional shared context. In prompt adherence tests and controlled input swaps, its stems follow the prompt audio in timbre and the context audio in harmony."
+                "x": "En este trabajo, ponemos a prueba la transferibilidad de las arquitecturas más avanzadas de identificación de versiones musicales desde el dominio de las versiones entre humanos al escenario de plagio human-to-AI (de humano a IA). Para evaluar esta tarea, presentamos COPYCAT, un benchmark derivado de casos reales de plagio y ampliado mediante re-síntesis generativa y ofuscaciones de procesamiento digital de señales, que da lugar a 350,654 pares de evaluación."
               },
               {
                 "t": "p",
-                "x": "Outputs may still reproduce training data not supplied as inputs, so the authors audit memorization with their musical version identification model, musicDNA, finding few reproductions outside the input records. On human-judged flagged cases it beats the other tested memorization detectors in precision and recall."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "Figure 3: Detection performance of memorization metrics."
-              },
-              {
-                "t": "p",
-                "x": "Input records and output analysis, the authors argue, give complementary evidence for attribution that rights-holder reporting and compensation can draw on as the AI music economy takes shape."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
-          "body": "입력 기반 귀속이면 AI-made 곡의 원천을 검증할 수 있다고 새 논문은 본다.",
-          "mini_headline": "AI 음악의 기여 추적",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할까? 이 논문에 따르면 입력 기반 귀속(input-based attribution)은 어떤 오디오 소스가 생성에 쓰였는지, 그 소스가 결과물을 형성했는지를 검증 가능한 증거로 보여 줄 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만 조건으로 쓴다. 스템마다 프롬프트 녹음 하나를 넣고 필요하면 공유 컨텍스트를 더한다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색은 프롬프트 오디오를, 화성은 컨텍스트 오디오를 따랐다."
-              },
-              {
-                "t": "p",
-                "x": "다만 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수도 있다. 그래서 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했는데 입력 기록 밖의 재현은 거의 나오지 않았다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "그림 3: 암기 지표의 탐지 성능."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 입력 기록과 출력 분석이 귀속을 서로 보완하는 증거가 되며, AI 음악 경제가 자리 잡는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-made曲を形づくった\n音楽の出どころを追う",
-          "body": "新論文は、入力ベースの帰属によりAI-made曲に影響した録音を検証できると示した。",
-          "mini_headline": "AI音楽の帰属を追う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI生成(AI-generated)の出力に誰の音楽が寄与したのかを、どう検証すればよいのか。本論文は、入力ベースの帰属(input-based attribution)によって、生成にどの音源が使われ、それが出力を形づくったかどうかについて検証可能な証拠を示せることを明らかにする。"
-              },
-              {
-                "t": "p",
-                "x": "生成器MixAudioは、テキスト入力を使わず音声のみを条件とする。ステムごとにプロンプト録音を一つ与え、任意で共有コンテキストを加える。プロンプト追従性のテストと、入力を制御して入れ替える実験では、各ステムが音色ではプロンプト音声に、和声ではコンテキスト音声に従った。"
-              },
-              {
-                "t": "p",
-                "x": "それでも出力が、入力として与えていない学習データを再現する可能性はある。そこで著者らは独自の楽曲バージョン識別モデルmusicDNAで記憶(memorization)を監査し、入力記録以外からの再現はほとんど見つからなかった。人間が判定したフラグ付き事例では、テストしたほかの記憶検出器を適合率と再現率の両方で上回った。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "図3:記憶指標の検出性能。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、入力記録と出力分析が帰属について相補的な証拠となり、AI音楽経済が形づくられていくなかで、権利者への報告や補償の根拠になり得ると主張する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "追溯AI-made曲目\n背后的音乐来源",
-          "body": "新论文表明，基于输入的归因可为AI-made曲目受哪些录音影响提供可验证证据。",
-          "mini_headline": "AI音乐的归因追溯",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "如何验证谁的音乐促成了AI生成(AI-generated)的作品？本文展示了基于输入的归因(input-based attribution)如何提供可验证的证据，说明生成中使用了哪些音频来源，以及它们是否塑造了输出。"
-              },
-              {
-                "t": "p",
-                "x": "生成器MixAudio仅以音频为条件，不使用文本输入：每个分轨一段提示录音，外加一段可选的共享上下文。在提示遵循测试和受控的输入替换中，各分轨在音色上跟随提示音频，在和声上跟随上下文音频。"
-              },
-              {
-                "t": "p",
-                "x": "输出仍可能复现未作为输入提供的训练数据，因此作者用自家的音乐版本识别模型musicDNA审查记忆现象，发现输入记录之外的复现很少。在经人工判定的标记案例上，它在精确率和召回率上都优于其他受测的记忆检测器。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "图3：记忆指标的检测性能。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，输入记录与输出分析为归因提供了互补的证据，随着AI音乐经济逐步成形，权利人报告和补偿机制可以据此展开。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rastrear la música detrás\nde una pista AI-made",
-          "body": "Según un estudio, la atribución por entradas da pruebas verificables de qué grabaciones moldearon una pista AI-made.",
-          "mini_headline": "Atribución para\nla música con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "¿Cómo podemos verificar de quién es la música que contribuyó a un resultado AI-generated? Este artículo muestra cómo la atribución basada en las entradas puede aportar pruebas verificables de qué fuentes de audio se usaron en una generación y de si moldearon el resultado."
-              },
-              {
-                "t": "p",
-                "x": "El generador, MixAudio, está condicionado únicamente por audio, sin entrada de texto: una grabación de prompt por stem más un contexto compartido opcional. En pruebas de adherencia al prompt y en intercambios controlados de entradas, sus stems siguen al audio del prompt en el timbre y al audio de contexto en la armonía."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados aún pueden reproducir datos de entrenamiento no suministrados como entradas, por lo que los autores auditan la memorización con su modelo de identificación de versiones musicales, musicDNA, y encuentran pocas reproducciones fuera de los registros de entrada. En los casos señalados y evaluados por personas, supera a los demás detectores de memorización probados en precisión y exhaustividad."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "Figura 3: Rendimiento de detección de las métricas de memorización."
-              },
-              {
-                "t": "p",
-                "x": "Según los autores, los registros de entrada y el análisis de la salida ofrecen pruebas complementarias para la atribución de una pista AI-made, en las que pueden apoyarse los informes y la compensación a los titulares de derechos a medida que toma forma la economía de la música con AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-made 곡에 쓰인\n음악의 주인 찾기",
-          "body": "새 논문은 입력 기반 귀속으로 AI-made 곡의 원천을 검증할 수 있다고 본다.",
-          "mini_headline": "AI 음악의 기여 추적",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI 생성(AI-generated) 결과물에 누구의 음악이 기여했는지 어떻게 검증할 수 있을까? 이 논문은 입력 기반 귀속(input-based attribution)으로, 생성에 어떤 오디오 소스가 쓰였는지와 그 소스가 결과물을 형성했는지에 대한 검증 가능한 증거를 제시할 수 있음을 보여준다."
-              },
-              {
-                "t": "p",
-                "x": "생성기 MixAudio는 텍스트 입력 없이 오디오만을 조건으로 삼는다. 스템마다 프롬프트 녹음 하나에 선택적으로 공유 컨텍스트를 더하는 방식이다. 프롬프트 충실도 테스트와 통제된 입력 교체 실험에서 각 스템은 음색에서는 프롬프트 오디오를, 화성에서는 컨텍스트 오디오를 따랐다."
-              },
-              {
-                "t": "p",
-                "x": "그래도 결과물이 입력으로 주지 않은 학습 데이터를 재현할 수 있어, 저자들은 자체 음악 버전 식별 모델 musicDNA로 암기 현상을 점검했고 입력 기록 밖의 재현은 거의 찾지 못했다. 사람이 판정한 의심 사례에서 musicDNA는 함께 시험한 다른 암기 탐지기보다 정밀도와 재현율이 모두 높았다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "그림 3: 암기 지표의 탐지 성능."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 입력 기록과 출력 분석이 귀속에 대해 서로 보완적인 증거를 제공하며, AI 음악 경제가 자리 잡아 가는 과정에서 권리자 보고와 보상의 근거가 될 수 있다고 주장한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-made曲を形づくった\n音楽の出どころを追う",
-          "body": "新論文は、入力ベースの帰属によりAI-made曲に影響した録音を検証できると示した。",
-          "mini_headline": "AI音楽の帰属を追う",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "AI生成(AI-generated)の出力に誰の音楽が寄与したのかを、どう検証すればよいのか。本論文は、入力ベースの帰属(input-based attribution)によって、生成にどの音源が使われ、それが出力を形づくったかどうかについて検証可能な証拠を示せることを明らかにする。"
-              },
-              {
-                "t": "p",
-                "x": "生成器MixAudioは、テキスト入力を使わず音声のみを条件とする。ステムごとにプロンプト録音を一つ与え、任意で共有コンテキストを加える。プロンプト追従性のテストと、入力を制御して入れ替える実験では、各ステムが音色ではプロンプト音声に、和声ではコンテキスト音声に従った。"
-              },
-              {
-                "t": "p",
-                "x": "それでも出力が、入力として与えていない学習データを再現する可能性はある。そこで著者らは独自の楽曲バージョン識別モデルmusicDNAで記憶(memorization)を監査し、入力記録以外からの再現はほとんど見つからなかった。人間が判定したフラグ付き事例では、テストしたほかの記憶検出器を適合率と再現率の両方で上回った。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "図3:記憶指標の検出性能。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、入力記録と出力分析が帰属について相補的な証拠となり、AI音楽経済が形づくられていくなかで、権利者への報告や補償の根拠になり得ると主張する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "追溯AI-made曲目\n背后的音乐来源",
-          "body": "新论文表明，基于输入的归因可为AI-made曲目受哪些录音影响提供可验证证据。",
-          "mini_headline": "AI音乐的归因追溯",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "如何验证谁的音乐促成了AI生成(AI-generated)的作品？本文展示了基于输入的归因(input-based attribution)如何提供可验证的证据，说明生成中使用了哪些音频来源，以及它们是否塑造了输出。"
-              },
-              {
-                "t": "p",
-                "x": "生成器MixAudio仅以音频为条件，不使用文本输入：每个分轨一段提示录音，外加一段可选的共享上下文。在提示遵循测试和受控的输入替换中，各分轨在音色上跟随提示音频，在和声上跟随上下文音频。"
-              },
-              {
-                "t": "p",
-                "x": "输出仍可能复现未作为输入提供的训练数据，因此作者用自家的音乐版本识别模型musicDNA审查记忆现象，发现输入记录之外的复现很少。在经人工判定的标记案例上，它在精确率和召回率上都优于其他受测的记忆检测器。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "图3：记忆指标的检测性能。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，输入记录与输出分析为归因提供了互补的证据，随着AI音乐经济逐步成形，权利人报告和补偿机制可以据此展开。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Rastrear la música detrás\nde una pista AI-made",
-          "body": "Según un estudio, la atribución por entradas da pruebas verificables de qué grabaciones moldearon una pista AI-made.",
-          "mini_headline": "Atribución para\nla música con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "¿Cómo podemos verificar de quién es la música que contribuyó a un resultado AI-generated? Este artículo muestra cómo la atribución basada en las entradas puede aportar pruebas verificables de qué fuentes de audio se usaron en una generación y de si moldearon el resultado."
-              },
-              {
-                "t": "p",
-                "x": "El generador, MixAudio, está condicionado únicamente por audio, sin entrada de texto: una grabación de prompt por stem más un contexto compartido opcional. En pruebas de adherencia al prompt y en intercambios controlados de entradas, sus stems siguen al audio del prompt en el timbre y al audio de contexto en la armonía."
-              },
-              {
-                "t": "p",
-                "x": "Los resultados aún pueden reproducir datos de entrenamiento no suministrados como entradas, por lo que los autores auditan la memorización con su modelo de identificación de versiones musicales, musicDNA, y encuentran pocas reproducciones fuera de los registros de entrada. En los casos señalados y evaluados por personas, supera a los demás detectores de memorización probados en precisión y exhaustividad."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.09637v1/fig3.png",
-                "cap": "Figura 3: Rendimiento de detección de las métricas de memorización."
-              },
-              {
-                "t": "p",
-                "x": "Según los autores, los registros de entrada y el análisis de la salida ofrecen pruebas complementarias para la atribución de una pista AI-made, en las que pueden apoyarse los informes y la compensación a los titulares de derechos a medida que toma forma la economía de la música con AI."
+                "x": "Mostramos que la umbralización por distancia escalar se desmorona ante la re-síntesis generativa, mientras que un marco supervisado que aprovecha desplazamientos de embeddings coordenada a coordenada recupera la señal de plagio dispersa y eleva el F0.5 global de 0.612 a 0.803."
               }
             ]
           }

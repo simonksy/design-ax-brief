@@ -1,641 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "design",
   "cards": [
     {
-      "id": "runway-claude-motion",
+      "id": "synthetic-users-uxr",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude Motion\n설명 영상 Runway로",
-      "body": "Claude Motion으로 만든 설명 영상을 Runway에서 이어 다듬는다.",
-      "mini_headline": "Runway, Claude Motion 지원",
-      "tool": "KeyShot",
-      "source": "Runway",
-      "url": "https://runwayml.com/news/company-news/runway-claude-motion",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-          },
-          {
-            "t": "p",
-            "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 작업물 속 텍스트, 차트, 도형, 이미지를 엮어 짧은 애니메이션 설명 영상을 만든다. 만든 애니메이션은 무엇이든 Runway로 내보내 생성 영상을 더하고 편집을 마칠 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
-          },
-          {
-            "t": "p",
-            "x": "Claude에 분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꿔 달라거나 이사회 자료의 차트에 움직임을 넣어 달라고 하면 된다. Claude가 콘텐츠를 움직이는 코드를 쓰면 결과물은 짧은 영상처럼 재생된다. 직접 손보거나 대화로 고칠 수 있고 MP4로 내려받아도 된다."
-          },
-          {
-            "t": "p",
-            "x": "더 손볼 곳이 있으면 Runway로 내보내면 된다. 거기서 새 영상과 이미지를 만들고 바꿀 점을 설명해 클립을 고친다. Runway Agent를 쓰면 애니메이션을 중심에 둔 더 긴 편집본도 꾸릴 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Runway는 이런 쓰임을 제안한다. 움직이는 수치에 참조 사진 한 장으로 생성한 제품 컷을 붙인 출시 영상, 고객이 나오는 생성 장면을 넣은 온보딩 안내 영상, 음성 해설과 음악을 입힌 전사 회의 업데이트가 있다. 16:9 설명 영상을 애니메이션을 다시 만들지 않고 세로·정사각형 포맷으로 넓히거나 현지화하는 데도 쓴다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Runway now takes\nClaude Motion explainers",
-          "body": "Claude Motion explainers now export into Runway for generated footage, voiceover, music and channel reformatting.",
-          "mini_headline": "Runway adds Claude Motion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic is launching Claude Motion with Runway as a launch partner. Claude Motion turns a prompt into a short animated explainer built from the text, charts, shapes and images in your own work, and any animation can be exported to Runway to add generated footage and finish the edit. It is in beta on Claude Team and Enterprise plans."
-              },
-              {
-                "t": "p",
-                "x": "Ask Claude to turn a quarterly report into a 30-second all-hands explainer or animate a chart in a board deck. Claude writes the code that animates your content; the result plays like a short video you can adjust, revise through conversation or download as an MP4."
-              },
-              {
-                "t": "p",
-                "x": "When an explainer needs more, export it to Runway to generate new video and images, edit clips by describing the change, and use Runway Agent to assemble a longer cut around the animation."
-              },
-              {
-                "t": "p",
-                "x": "Runway suggests launch videos that pair animated stats with product shots generated from one reference photo, onboarding walkthroughs with generated scenes of customers, all-hands updates with added voiceover and music, and 16:9 explainers expanded into vertical and square formats or localized without rebuilding the animation."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Claude Motion\n설명 영상 Runway로",
-          "body": "Claude Motion으로 만든 설명 영상을 Runway에서 이어 다듬는다.",
-          "mini_headline": "Runway, Claude Motion 지원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 작업물 속 텍스트, 차트, 도형, 이미지를 엮어 짧은 애니메이션 설명 영상을 만든다. 만든 애니메이션은 무엇이든 Runway로 내보내 생성 영상을 더하고 편집을 마칠 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "Claude에 분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꿔 달라거나 이사회 자료의 차트에 움직임을 넣어 달라고 하면 된다. Claude가 콘텐츠를 움직이는 코드를 쓰면 결과물은 짧은 영상처럼 재생된다. 직접 손보거나 대화로 고칠 수 있고 MP4로 내려받아도 된다."
-              },
-              {
-                "t": "p",
-                "x": "더 손볼 곳이 있으면 Runway로 내보내면 된다. 거기서 새 영상과 이미지를 만들고 바꿀 점을 설명해 클립을 고친다. Runway Agent를 쓰면 애니메이션을 중심에 둔 더 긴 편집본도 꾸릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Runway는 이런 쓰임을 제안한다. 움직이는 수치에 참조 사진 한 장으로 생성한 제품 컷을 붙인 출시 영상, 고객이 나오는 생성 장면을 넣은 온보딩 안내 영상, 음성 해설과 음악을 입힌 전사 회의 업데이트가 있다. 16:9 설명 영상을 애니메이션을 다시 만들지 않고 세로·정사각형 포맷으로 넓히거나 현지화하는 데도 쓴다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude Motion\nの動画をRunwayへ",
-          "body": "Claude Motionの解説動画をRunwayで仕上げ、映像や音楽を加えられる。",
-          "mini_headline": "RunwayがClaude Motionに対応",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicはRunwayをローンチパートナーに迎え、Claude Motionを提供する。Claude Motionはプロンプトから、ユーザー自身の資料にあるテキスト、チャート、図形、画像を使って短いアニメーション解説動画を作る。どのアニメーションもRunwayに書き出して生成映像を加え、編集を仕上げられる。Claude TeamとEnterpriseプランでベータ版として提供される。"
-              },
-              {
-                "t": "p",
-                "x": "四半期報告書を30秒の全社会議向け解説動画にしたり、取締役会資料のチャートを動かしたりするようClaudeに頼めばよい。Claudeがコンテンツを動かすコードを書き、結果は短い動画のように再生される。調整や対話での修正ができ、MP4としてダウンロードすることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "解説動画にさらに手を加えたいときはRunwayに書き出し、新しい映像や画像を生成したり、変更点を言葉で説明してクリップを編集したり、Runway Agentでアニメーションを軸にした長尺の編集版を組み立てたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "Runwayが提案する用途は、動くデータと1枚の参照写真から生成した製品ショットを組み合わせたローンチ動画、顧客の生成シーンを使ったオンボーディング解説、ナレーションと音楽を加えた全社会議の報告、そしてアニメーションを作り直さずに16:9の解説動画を縦型や正方形に広げたりローカライズしたりする使い方だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude Motion\n解说视频可导入Runway",
-          "body": "Claude Motion解说视频现可导出至Runway，添加生成画面、配音和音乐。",
-          "mini_headline": "Runway支持Claude Motion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic推出Claude Motion，Runway为首发合作伙伴。Claude Motion可根据提示词，利用用户自有材料中的文字、图表、形状和图片生成简短的动画解说视频，任何动画都可导出至Runway，添加生成画面并完成剪辑。该功能以测试版形式向Claude Team和Enterprise方案提供。"
-              },
-              {
-                "t": "p",
-                "x": "可以让Claude把季度报告做成30秒的全员大会解说视频，或让董事会演示文稿中的图表动起来。Claude会编写让内容动起来的代码，成品像一段短视频那样播放，可以直接调整、通过对话修改，或下载为MP4。"
-              },
-              {
-                "t": "p",
-                "x": "如果解说视频还需要更多内容，可导出至Runway生成新的视频和图片，用文字描述修改来剪辑片段，并用Runway Agent围绕动画组装更长的版本。"
-              },
-              {
-                "t": "p",
-                "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway ya integra los videos\nexplicativos de Claude Motion",
-          "body": "Los videos de Claude Motion ya se exportan a Runway para añadir metraje generado, voz, música y nuevos formatos.",
-          "mini_headline": "Runway incorpora Claude Motion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic lanza Claude Motion con Runway como socio de lanzamiento. Claude Motion convierte una instrucción en un breve video explicativo animado a partir de los textos, gráficos, formas e imágenes del propio trabajo del usuario, y cualquier animación puede exportarse a Runway para añadir metraje generado y terminar la edición. Está en beta en los planes Claude Team y Enterprise."
-              },
-              {
-                "t": "p",
-                "x": "Se le puede pedir a Claude que convierta un informe trimestral en un explicativo de 30 segundos para una reunión general o que anime un gráfico de una presentación para el consejo. Claude escribe el código que anima el contenido; el resultado se reproduce como un video corto que se puede ajustar, revisar conversando o descargar como MP4."
-              },
-              {
-                "t": "p",
-                "x": "Cuando un explicativo necesita más, se exporta a Runway para generar nuevos videos e imágenes, editar clips describiendo el cambio y usar Runway Agent para montar una versión más larga en torno a la animación."
-              },
-              {
-                "t": "p",
-                "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Claude Motion\n설명 영상 Runway로",
-          "body": "Claude Motion 설명 영상을 Runway에서 이어 편집한다.",
-          "mini_headline": "Runway, Claude Motion 지원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 사용자의 작업물에 담긴 텍스트, 차트, 도형, 이미지를 활용해 짧은 애니메이션 설명 영상을 만든다. 어떤 애니메이션이든 Runway로 내보내 생성 영상을 더하고 편집을 마무리할 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꾸거나 이사회 자료의 차트를 움직이게 해 달라고 Claude에 요청하면 된다. Claude가 콘텐츠를 움직이는 코드를 작성하고, 결과물은 짧은 영상처럼 재생된다. 직접 조정하거나 대화로 고칠 수 있고 MP4로 내려받을 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "설명 영상에 더 손을 대야 한다면 Runway로 내보내 새 영상과 이미지를 생성하고, 바꿀 점을 설명해 클립을 편집하며, Runway Agent로 애니메이션을 중심에 둔 더 긴 편집본을 꾸릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Runway가 제안하는 활용 예는 이렇다. 움직이는 수치와 참조 사진 한 장으로 생성한 제품 컷을 짝지은 출시 영상, 고객이 등장하는 생성 장면을 담은 온보딩 안내 영상, 음성 해설과 음악을 더한 전사 회의 업데이트, 그리고 애니메이션을 다시 만들지 않고 16:9 설명 영상을 세로·정사각형 포맷으로 넓히거나 현지화하는 방식이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Claude Motion\nの動画をRunwayへ",
-          "body": "Claude Motionの解説動画をRunwayで仕上げ、映像や音楽を加えられる。",
-          "mini_headline": "RunwayがClaude Motionに対応",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "AnthropicはRunwayをローンチパートナーに迎え、Claude Motionを提供する。Claude Motionはプロンプトから、ユーザー自身の資料にあるテキスト、チャート、図形、画像を使って短いアニメーション解説動画を作る。どのアニメーションもRunwayに書き出して生成映像を加え、編集を仕上げられる。Claude TeamとEnterpriseプランでベータ版として提供される。"
-              },
-              {
-                "t": "p",
-                "x": "四半期報告書を30秒の全社会議向け解説動画にしたり、取締役会資料のチャートを動かしたりするようClaudeに頼めばよい。Claudeがコンテンツを動かすコードを書き、結果は短い動画のように再生される。調整や対話での修正ができ、MP4としてダウンロードすることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "解説動画にさらに手を加えたいときはRunwayに書き出し、新しい映像や画像を生成したり、変更点を言葉で説明してクリップを編集したり、Runway Agentでアニメーションを軸にした長尺の編集版を組み立てたりできる。"
-              },
-              {
-                "t": "p",
-                "x": "Runwayが提案する用途は、動くデータと1枚の参照写真から生成した製品ショットを組み合わせたローンチ動画、顧客の生成シーンを使ったオンボーディング解説、ナレーションと音楽を加えた全社会議の報告、そしてアニメーションを作り直さずに16:9の解説動画を縦型や正方形に広げたりローカライズしたりする使い方だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Claude Motion\n解说视频可导入Runway",
-          "body": "Claude Motion解说视频现可导出至Runway，添加生成画面、配音和音乐。",
-          "mini_headline": "Runway支持Claude Motion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic推出Claude Motion，Runway为首发合作伙伴。Claude Motion可根据提示词，利用用户自有材料中的文字、图表、形状和图片生成简短的动画解说视频，任何动画都可导出至Runway，添加生成画面并完成剪辑。该功能以测试版形式向Claude Team和Enterprise方案提供。"
-              },
-              {
-                "t": "p",
-                "x": "可以让Claude把季度报告做成30秒的全员大会解说视频，或让董事会演示文稿中的图表动起来。Claude会编写让内容动起来的代码，成品像一段短视频那样播放，可以直接调整、通过对话修改，或下载为MP4。"
-              },
-              {
-                "t": "p",
-                "x": "如果解说视频还需要更多内容，可导出至Runway生成新的视频和图片，用文字描述修改来剪辑片段，并用Runway Agent围绕动画组装更长的版本。"
-              },
-              {
-                "t": "p",
-                "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Runway ya integra los videos\nexplicativos de Claude Motion",
-          "body": "Los videos de Claude Motion ya se exportan a Runway para añadir metraje generado, voz, música y nuevos formatos.",
-          "mini_headline": "Runway incorpora Claude Motion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
-              },
-              {
-                "t": "p",
-                "x": "Anthropic lanza Claude Motion con Runway como socio de lanzamiento. Claude Motion convierte una instrucción en un breve video explicativo animado a partir de los textos, gráficos, formas e imágenes del propio trabajo del usuario, y cualquier animación puede exportarse a Runway para añadir metraje generado y terminar la edición. Está en beta en los planes Claude Team y Enterprise."
-              },
-              {
-                "t": "p",
-                "x": "Se le puede pedir a Claude que convierta un informe trimestral en un explicativo de 30 segundos para una reunión general o que anime un gráfico de una presentación para el consejo. Claude escribe el código que anima el contenido; el resultado se reproduce como un video corto que se puede ajustar, revisar conversando o descargar como MP4."
-              },
-              {
-                "t": "p",
-                "x": "Cuando un explicativo necesita más, se exporta a Runway para generar nuevos videos e imágenes, editar clips describiendo el cambio y usar Runway Agent para montar una versión más larga en torno a la animación."
-              },
-              {
-                "t": "p",
-                "x": "Runway propone videos de lanzamiento que combinan datos animados con tomas de producto generadas a partir de una sola foto de referencia, recorridos de incorporación con escenas generadas de clientes, actualizaciones para reuniones generales con voz en off y música añadidas, y explicativos en 16:9 ampliados a formatos vertical y cuadrado o localizados sin rehacer la animación."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "aws-physical-ai-toolchain",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
-      "body": "AWS가 참조 아키텍처까지 담은 Physical AI 툴체인을 오픈소스로 공개했다.",
-      "mini_headline": "AWS 피지컬 AI 툴체인",
-      "tool": "Text-to-CAD",
-      "source": "Engineering.com",
-      "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Amazon Web Services가 AWS 인프라에 NVIDIA 로보틱스 소프트웨어를 묶은 오픈소스 툴체인을 선보였다. 피지컬 AI 시스템을 개발하고 학습시키고 시뮬레이션해 배포하는 과정을 돕는다. 로봇 데이터 수집에서 실제 하드웨어 배포까지 필요한 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 갖췄다."
-          },
-          {
-            "t": "p",
-            "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos로 이뤄지며 NVIDIA OSMO가 이들을 오케스트레이션한다. 실행 기반은 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원한다. 예시 하나는 Isaac GR00T에 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 쓴다."
-          },
-          {
-            "t": "p",
-            "x": "피지컬 AI 개발사로는 NEURA Robotics, RLWRLD, Config가 이름을 올렸다. Amazon은 이 툴체인을 쓰면 제조업체가 피지컬 AI 기능을 수년이 아니라 수주 만에 내놓을 수 있다고 밝혔다. 회사 측 기대일 뿐 독립적으로 검증된 결과는 아니다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AWS open-sources a\nphysical AI toolchain",
-          "body": "AWS released an open-source Physical AI toolchain with reference architectures for simulation, training and deployment.",
-          "mini_headline": "AWS physical AI toolchain",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services has introduced an open-source toolchain that combines AWS infrastructure with NVIDIA robotics software to support the development, training, simulation and deployment of physical AI systems. It provides reference architectures, infrastructure-as-code resources and deployment automation, from collecting robot data to deploying on physical hardware."
-              },
-              {
-                "t": "p",
-                "x": "“We built the Physical AI Toolchain on AWS because customers told us that too much of their engineering effort was going to infrastructure instead of innovation,” said Uwem Ukpong, vice president of AWS Industries."
-              },
-              {
-                "t": "p",
-                "x": "Components include NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T and Cosmos, orchestrated with NVIDIA OSMO, running on Amazon SageMaker, EC2 GPU instances, S3 and AWS IoT Greengrass. It supports PyTorch, Hugging Face, ROS 2, LeRobot, URDF and ONNX; one example uses Isaac GR00T and 27 episodes of UR3 pick-and-place teleoperation data."
-              },
-              {
-                "t": "p",
-                "x": "NEURA Robotics, RLWRLD and Config are named as companies working on physical AI. Amazon says the toolchain should help manufacturers launch physical AI capabilities in weeks rather than years — its stated expectation, not an independently verified result."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
-          "body": "AWS가 참조 아키텍처까지 담은 Physical AI 툴체인을 오픈소스로 공개했다.",
-          "mini_headline": "AWS 피지컬 AI 툴체인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services가 AWS 인프라에 NVIDIA 로보틱스 소프트웨어를 묶은 오픈소스 툴체인을 선보였다. 피지컬 AI 시스템을 개발하고 학습시키고 시뮬레이션해 배포하는 과정을 돕는다. 로봇 데이터 수집에서 실제 하드웨어 배포까지 필요한 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 갖췄다."
-              },
-              {
-                "t": "p",
-                "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos로 이뤄지며 NVIDIA OSMO가 이들을 오케스트레이션한다. 실행 기반은 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원한다. 예시 하나는 Isaac GR00T에 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 쓴다."
-              },
-              {
-                "t": "p",
-                "x": "피지컬 AI 개발사로는 NEURA Robotics, RLWRLD, Config가 이름을 올렸다. Amazon은 이 툴체인을 쓰면 제조업체가 피지컬 AI 기능을 수년이 아니라 수주 만에 내놓을 수 있다고 밝혔다. 회사 측 기대일 뿐 독립적으로 검증된 결과는 아니다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AWSがフィジカルAI\nツールチェーンを公開",
-          "body": "AWSが参照設計付きのオープンソースPhysical AIツールチェーンを公開した。",
-          "mini_headline": "AWSのフィジカルAIツールチェーン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Servicesは、AWSのインフラとNVIDIAのロボティクスソフトウェアを組み合わせ、フィジカルAIシステムの開発、学習、シミュレーション、配備を支えるオープンソースのツールチェーンを発表した。ロボットのデータ収集から実機への配備まで、リファレンスアーキテクチャ、infrastructure-as-codeのリソース、配備の自動化を提供する。"
-              },
-              {
-                "t": "p",
-                "x": "AWS Industriesのバイスプレジデント、Uwem Ukpong氏は「エンジニアリングの労力があまりにも多く、イノベーションではなくインフラに費やされていると顧客から聞いたため、AWS上にPhysical AI Toolchainを構築した」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "構成要素はNVIDIA Isaac Sim、Isaac Lab、Isaac GR00T、Cosmosで、NVIDIA OSMOがオーケストレーションを担い、Amazon SageMaker、EC2 GPUインスタンス、S3、AWS IoT Greengrass上で動く。PyTorch、Hugging Face、ROS 2、LeRobot、URDF、ONNXに対応し、ある例ではIsaac GR00TとUR3のpick-and-place遠隔操作データ27エピソードを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "フィジカルAIに取り組む企業としてNEURA Robotics、RLWRLD、Configの名が挙がっている。Amazonは、このツールチェーンによって製造業者がフィジカルAI機能を数年ではなく数週間で立ち上げられるとしている。これは同社が示した見通しであり、独立して検証された結果ではない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AWS开源一套\n物理AI工具链",
-          "body": "AWS发布开源Physical AI工具链，提供面向仿真、训练和部署的参考架构。",
-          "mini_headline": "AWS物理AI工具链",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services推出一套开源工具链，将AWS基础设施与NVIDIA机器人软件相结合，支持物理AI系统的开发、训练、仿真和部署。它提供参考架构、infrastructure-as-code（基础设施即代码）资源和部署自动化，覆盖从采集机器人数据到在实体硬件上部署的全过程。"
-              },
-              {
-                "t": "p",
-                "x": "AWS Industries副总裁Uwem Ukpong表示：“我们在AWS上打造Physical AI Toolchain，是因为客户告诉我们，他们太多的工程精力花在了基础设施上，而不是创新上。”"
-              },
-              {
-                "t": "p",
-                "x": "组件包括NVIDIA Isaac Sim、Isaac Lab、Isaac GR00T和Cosmos，由NVIDIA OSMO编排，运行在Amazon SageMaker、EC2 GPU实例、S3和AWS IoT Greengrass之上。它支持PyTorch、Hugging Face、ROS 2、LeRobot、URDF和ONNX；其中一个示例使用了Isaac GR00T和27个UR3 pick-and-place遥操作数据片段。"
-              },
-              {
-                "t": "p",
-                "x": "NEURA Robotics、RLWRLD和Config被列为正在开发物理AI的公司。Amazon称，这套工具链有望帮助制造商在数周而非数年内推出物理AI能力——这是该公司表达的预期，并非经独立验证的结果。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AWS publica en código abierto\nherramientas de IA física",
-          "body": "AWS liberó su toolchain de Physical AI, con arquitecturas de referencia para simular, entrenar y desplegar.",
-          "mini_headline": "La toolchain de Physical AI de AWS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services presentó una cadena de herramientas de código abierto que combina la infraestructura de AWS con software de robótica de NVIDIA para apoyar el desarrollo, el entrenamiento, la simulación y el despliegue de sistemas de IA física (physical AI). Ofrece arquitecturas de referencia, recursos de infrastructure-as-code y automatización del despliegue, desde la recopilación de datos del robot hasta la implementación en hardware físico."
-              },
-              {
-                "t": "p",
-                "x": "“Creamos la Physical AI Toolchain en AWS porque los clientes nos dijeron que demasiado de su esfuerzo de ingeniería se iba en infraestructura en lugar de innovación”, dijo Uwem Ukpong, vicepresidente de AWS Industries."
-              },
-              {
-                "t": "p",
-                "x": "Entre sus componentes están NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T y Cosmos, orquestados con NVIDIA OSMO y ejecutados en Amazon SageMaker, instancias EC2 GPU, S3 y AWS IoT Greengrass. Es compatible con PyTorch, Hugging Face, ROS 2, LeRobot, URDF y ONNX; un ejemplo usa Isaac GR00T y 27 episodios de datos de teleoperación pick-and-place de un UR3."
-              },
-              {
-                "t": "p",
-                "x": "NEURA Robotics, RLWRLD y Config figuran como empresas que trabajan en IA física. Amazon afirma que la cadena de herramientas debería ayudar a los fabricantes a lanzar capacidades de IA física en semanas en lugar de años; es su expectativa declarada, no un resultado verificado de forma independiente."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AWS, 피지컬 AI\n툴체인 오픈소스 공개",
-          "body": "AWS가 참조 아키텍처를 담은 오픈소스 Physical AI 툴체인을 공개했다.",
-          "mini_headline": "AWS 피지컬 AI 툴체인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services가 AWS 인프라와 NVIDIA 로보틱스 소프트웨어를 결합해 피지컬 AI 시스템의 개발, 학습, 시뮬레이션, 배포를 돕는 오픈소스 툴체인을 선보였다. 로봇 데이터 수집부터 실제 하드웨어 배포까지 참조 아키텍처, 코드형 인프라(infrastructure-as-code) 리소스, 배포 자동화를 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "AWS Industries 부사장 Uwem Ukpong은 “엔지니어링 역량의 너무 많은 부분이 혁신이 아닌 인프라에 쓰이고 있다는 고객의 말을 듣고 AWS 기반 Physical AI Toolchain을 만들었다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "구성 요소는 NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T, Cosmos이며, NVIDIA OSMO가 이를 오케스트레이션하고 Amazon SageMaker, EC2 GPU 인스턴스, S3, AWS IoT Greengrass 위에서 돌아간다. PyTorch, Hugging Face, ROS 2, LeRobot, URDF, ONNX를 지원하며, 한 예시는 Isaac GR00T와 UR3 pick-and-place 원격 조작 데이터 27개 에피소드를 사용한다."
-              },
-              {
-                "t": "p",
-                "x": "피지컬 AI를 개발하는 기업으로 NEURA Robotics, RLWRLD, Config가 거론됐다. Amazon은 이 툴체인으로 제조업체가 피지컬 AI 기능을 수년이 아닌 수주 만에 출시할 수 있을 것이라고 밝혔다. 이는 회사가 밝힌 기대일 뿐 독립적으로 검증한 결과는 아니다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AWSがフィジカルAI\nツールチェーンを公開",
-          "body": "AWSが参照設計付きのオープンソースPhysical AIツールチェーンを公開した。",
-          "mini_headline": "AWSのフィジカルAIツールチェーン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Servicesは、AWSのインフラとNVIDIAのロボティクスソフトウェアを組み合わせ、フィジカルAIシステムの開発、学習、シミュレーション、配備を支えるオープンソースのツールチェーンを発表した。ロボットのデータ収集から実機への配備まで、リファレンスアーキテクチャ、infrastructure-as-codeのリソース、配備の自動化を提供する。"
-              },
-              {
-                "t": "p",
-                "x": "AWS Industriesのバイスプレジデント、Uwem Ukpong氏は「エンジニアリングの労力があまりにも多く、イノベーションではなくインフラに費やされていると顧客から聞いたため、AWS上にPhysical AI Toolchainを構築した」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "構成要素はNVIDIA Isaac Sim、Isaac Lab、Isaac GR00T、Cosmosで、NVIDIA OSMOがオーケストレーションを担い、Amazon SageMaker、EC2 GPUインスタンス、S3、AWS IoT Greengrass上で動く。PyTorch、Hugging Face、ROS 2、LeRobot、URDF、ONNXに対応し、ある例ではIsaac GR00TとUR3のpick-and-place遠隔操作データ27エピソードを使っている。"
-              },
-              {
-                "t": "p",
-                "x": "フィジカルAIに取り組む企業としてNEURA Robotics、RLWRLD、Configの名が挙がっている。Amazonは、このツールチェーンによって製造業者がフィジカルAI機能を数年ではなく数週間で立ち上げられるとしている。これは同社が示した見通しであり、独立して検証された結果ではない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AWS开源一套\n物理AI工具链",
-          "body": "AWS发布开源Physical AI工具链，提供面向仿真、训练和部署的参考架构。",
-          "mini_headline": "AWS物理AI工具链",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services推出一套开源工具链，将AWS基础设施与NVIDIA机器人软件相结合，支持物理AI系统的开发、训练、仿真和部署。它提供参考架构、infrastructure-as-code（基础设施即代码）资源和部署自动化，覆盖从采集机器人数据到在实体硬件上部署的全过程。"
-              },
-              {
-                "t": "p",
-                "x": "AWS Industries副总裁Uwem Ukpong表示：“我们在AWS上打造Physical AI Toolchain，是因为客户告诉我们，他们太多的工程精力花在了基础设施上，而不是创新上。”"
-              },
-              {
-                "t": "p",
-                "x": "组件包括NVIDIA Isaac Sim、Isaac Lab、Isaac GR00T和Cosmos，由NVIDIA OSMO编排，运行在Amazon SageMaker、EC2 GPU实例、S3和AWS IoT Greengrass之上。它支持PyTorch、Hugging Face、ROS 2、LeRobot、URDF和ONNX；其中一个示例使用了Isaac GR00T和27个UR3 pick-and-place遥操作数据片段。"
-              },
-              {
-                "t": "p",
-                "x": "NEURA Robotics、RLWRLD和Config被列为正在开发物理AI的公司。Amazon称，这套工具链有望帮助制造商在数周而非数年内推出物理AI能力——这是该公司表达的预期，并非经独立验证的结果。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "AWS publica en código abierto\nherramientas de IA física",
-          "body": "AWS liberó su toolchain de Physical AI, con arquitecturas de referencia para simular, entrenar y desplegar.",
-          "mini_headline": "La toolchain de Physical AI de AWS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.engineering.com/wp-content/uploads/2026/10/amazon-vulcan-robot-with-sense-of-touch.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Amazon Web Services presentó una cadena de herramientas de código abierto que combina la infraestructura de AWS con software de robótica de NVIDIA para apoyar el desarrollo, el entrenamiento, la simulación y el despliegue de sistemas de IA física (physical AI). Ofrece arquitecturas de referencia, recursos de infrastructure-as-code y automatización del despliegue, desde la recopilación de datos del robot hasta la implementación en hardware físico."
-              },
-              {
-                "t": "p",
-                "x": "“Creamos la Physical AI Toolchain en AWS porque los clientes nos dijeron que demasiado de su esfuerzo de ingeniería se iba en infraestructura en lugar de innovación”, dijo Uwem Ukpong, vicepresidente de AWS Industries."
-              },
-              {
-                "t": "p",
-                "x": "Entre sus componentes están NVIDIA Isaac Sim, Isaac Lab, Isaac GR00T y Cosmos, orquestados con NVIDIA OSMO y ejecutados en Amazon SageMaker, instancias EC2 GPU, S3 y AWS IoT Greengrass. Es compatible con PyTorch, Hugging Face, ROS 2, LeRobot, URDF y ONNX; un ejemplo usa Isaac GR00T y 27 episodios de datos de teleoperación pick-and-place de un UR3."
-              },
-              {
-                "t": "p",
-                "x": "NEURA Robotics, RLWRLD y Config figuran como empresas que trabajan en IA física. Amazon afirma que la cadena de herramientas debería ayudar a los fabricantes a lanzar capacidades de IA física en semanas en lugar de años; es su expectativa declarada, no un resultado verificado de forma independiente."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "instinct-agent-handson",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Instinct·Muse\nOpenAI Dots 대결",
-      "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
-      "mini_headline": "Instinct 대 Muse·Dots",
+      "headline": "합성 사용자는\nUX에선 조연이어야 한다",
+      "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
+      "mini_headline": "합성 사용자는 아껴서",
       "tool": "AI Workflow",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -643,607 +19,269 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-            "cap": "Instinct 에이전트는 문자 한 통이면 늘 닿는다."
+            "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
           },
           {
             "t": "p",
-            "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고 금세 AI 업계 최대 화제가 됐다. 뒤이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았다. 창업자 Noah Shinn도 흔들리지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 기업가치 100억 달러를 인정받았다."
+            "x": "UX 리서처들 사이에서 크게 갈리는 문제는 합성 사용자를 쓸지 말지다. 한쪽은 사람이 쓸 제품을 인공 페르소나로 테스트하는 건 비윤리적이라 하고, 다른 쪽은 리서치를 더 효율적으로 만들어 준다며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 두 입장을 다 이해하면서도 이렇게 못 박는다. “이 사용자들은 실제가 아니다.”"
           },
           {
             "t": "p",
-            "x": "Muse에는 곰 마스코트가, Dots에는 블롭이 있지만 Instinct는 iMessage, WhatsApp, 이메일로만 움직인다. 앱도 귀여운 캐릭터도 없다. 답은 짧고 실행은 많다. Google Workspace, Slack, Notion과도 연결된다."
+            "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 일했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그런데도 참가자들은 초기 탐색 단계에선 Alice가 쓸 만하다고 평가했다."
           },
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+            "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
           },
           {
             "t": "p",
-            "x": "수영 강습은 찾았지만 선수 과목은 놓쳤다. 안과에 이메일을 보냈고 모호한 설명만으로 Ikea 반품을 시작했으며 겹치는 일정도 먼저 짚어줬다."
+            "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사해 보니 41%가 합성 사용자를 사람 대상 리서치 전에 거치는 예비 도구로 쓰고 있었다. 쓸모가 가장 큰 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
           },
           {
             "t": "p",
-            "x": "지금은 초대받은 사용자라면 무료로 쓴다. 분석가들은 상거래 비중이 이렇게 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
+            "x": "SAP의 Eric Mahlstedt는 예전 연구를 합성 사용자로 재현해 봤는데, 돌아온 답이 너무 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+          },
+          {
+            "t": "p",
+            "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 마친 사람 대상 UX 리서치의 규모를 키우는 데만 쓰고, 핵심 제품 결정을 이것 하나만 보고 내려선 안 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Instinct's agent UX faces\nMuse and OpenAI's Dots",
-          "body": "The Verge tests whether Instinct, last season's buzziest AI agent, still holds up against Muse and OpenAI's Dots.",
-          "mini_headline": "Instinct vs Muse and Dots",
+          "headline": "Why synthetic users should\nplay a small role in UX",
+          "body": "UX Collective argues human-centered design calls for limited use of AI-generated personas in research, if any at all.",
+          "mini_headline": "Synthetic users, sparingly",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinct’s agent is always just a text away."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "In August, Instinct launched its AI agent invite-only, with no marketing, and quickly became the buzziest thing in AI. Then Meta’s Muse and OpenAI’s Dots arrived. In The Verge’s testing, Instinct has held its own, and founder Noah Shinn is unfazed: “AI assistants are all we know.” The company was valued at $10 billion in late September."
+                "x": "A big debate among UX researchers is whether to use synthetic users. One group considers it unethical to test a product that serves humans with an artificial persona; the other defends it as a tool that makes research more efficient. SAP Chief Design Officer Arin Bhowmick understands both, but: “These users aren’t real.”"
               },
               {
                 "t": "p",
-                "x": "Unlike Muse’s bear mascot and Dots’ blobs, Instinct works entirely over iMessage, WhatsApp or email — no app, no cute little guy, just brief replies and a lot of action, connecting to Google Workspace, Slack and Notion."
+                "x": "LLMs are too positive. In a 2025 study, “She was useful, but a bit too optimistic,” eight UX designers worked with an AI persona called Alice, which showed “a consistent tendency to agree uncritically with design proposals.” Participants still found her useful for early exploration."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "It found swim lessons but missed a prerequisite class, emailed an eye doctor, started an Ikea return from a vague description, and proactively flagged a calendar conflict."
-              },
-              {
-                "t": "p",
-                "x": "It is free for invite-only users for now. Analysts expect agents this commerce-heavy to lean on advertising: “All roads in the consumer market eventually lead to advertising.”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La UX de agente de Instinct\nfrente a Muse y Dots de OpenAI",
-          "body": "The Verge prueba si Instinct, el agente de IA de moda la temporada pasada, resiste ante Muse y Dots de OpenAI.",
-          "mini_headline": "Instinct frente a Muse y Dots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "El agente de Instinct siempre está a un mensaje de distancia."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, Instinct lanzó su agente de IA solo por invitación y sin marketing, y pronto se convirtió en lo más comentado del sector de la IA. Después llegaron Muse, de Meta, y Dots, de OpenAI. En las pruebas de The Verge, Instinct ha estado a la altura, y su fundador, Noah Shinn, no se inmuta: “Los asistentes de IA son todo lo que conocemos”. La empresa fue valorada en $10 billion (10.000 millones de dólares) a finales de septiembre."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia de la mascota de oso de Muse y las manchas de Dots, Instinct funciona por completo a través de iMessage, WhatsApp o correo electrónico: sin app, sin un personajito simpático, solo respuestas breves y mucha acción, con conexión a Google Workspace, Slack y Notion."
+                "x": "Speed is the plus. User Interviews surveyed 150 researchers in May 2026: 41% treat synthetic users as a preliminary tool before human research, rating them most useful for survey and screener design (46%), directional usability testing (34%) and early-stage research (32%)."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "Encontró clases de natación, pero pasó por alto una clase previa obligatoria; envió un correo a un oftalmólogo, inició una devolución en Ikea a partir de una descripción vaga y advirtió por iniciativa propia de un conflicto en el calendario."
+                "x": "SAP’s Eric Mahlstedt recreated past studies with synthetic users and found the answers overly generic: “It felt less like conducting research and more like a sophisticated internet search.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
               },
               {
                 "t": "p",
-                "x": "Por ahora es gratuito para los usuarios con invitación. Los analistas esperan que agentes tan centrados en el comercio se apoyen en la publicidad: “En el mercado de consumo, todos los caminos acaban llevando a la publicidad”."
+                "x": "Bhowmick’s answer is no: use synthetic users only to extend the scale of human UX research already done, never as the one source for key product decisions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Instinct·Muse\nOpenAI Dots 대결",
-          "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
-          "mini_headline": "Instinct 대 Muse·Dots",
+          "headline": "합성 사용자는\nUX에선 조연이어야 한다",
+          "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
+          "mini_headline": "합성 사용자는 아껴서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinct 에이전트는 문자 한 통이면 늘 닿는다."
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고 금세 AI 업계 최대 화제가 됐다. 뒤이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았다. 창업자 Noah Shinn도 흔들리지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 기업가치 100억 달러를 인정받았다."
+                "x": "UX 리서처들 사이에서 크게 갈리는 문제는 합성 사용자를 쓸지 말지다. 한쪽은 사람이 쓸 제품을 인공 페르소나로 테스트하는 건 비윤리적이라 하고, 다른 쪽은 리서치를 더 효율적으로 만들어 준다며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 두 입장을 다 이해하면서도 이렇게 못 박는다. “이 사용자들은 실제가 아니다.”"
               },
               {
                 "t": "p",
-                "x": "Muse에는 곰 마스코트가, Dots에는 블롭이 있지만 Instinct는 iMessage, WhatsApp, 이메일로만 움직인다. 앱도 귀여운 캐릭터도 없다. 답은 짧고 실행은 많다. Google Workspace, Slack, Notion과도 연결된다."
+                "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 일했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그런데도 참가자들은 초기 탐색 단계에선 Alice가 쓸 만하다고 평가했다."
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "수영 강습은 찾았지만 선수 과목은 놓쳤다. 안과에 이메일을 보냈고 모호한 설명만으로 Ikea 반품을 시작했으며 겹치는 일정도 먼저 짚어줬다."
+                "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사해 보니 41%가 합성 사용자를 사람 대상 리서치 전에 거치는 예비 도구로 쓰고 있었다. 쓸모가 가장 큰 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "지금은 초대받은 사용자라면 무료로 쓴다. 분석가들은 상거래 비중이 이렇게 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
+                "x": "SAP의 Eric Mahlstedt는 예전 연구를 합성 사용자로 재현해 봤는데, 돌아온 답이 너무 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 마친 사람 대상 UX 리서치의 규모를 키우는 데만 쓰고, 핵심 제품 결정을 이것 하나만 보고 내려선 안 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Instinct対Muse・\nOpenAIのDots",
-          "body": "The VergeがInstinctをMuseとOpenAIのDotsと比べた。",
-          "mini_headline": "Instinct対MuseとDots",
+          "headline": "合成ユーザーは\nUXの脇役であるべき",
+          "body": "UX Collectiveは、AI-generatedペルソナは控えめに使えと説く。",
+          "mini_headline": "合成ユーザーは控えめに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinctのエージェントには、いつでもテキスト一通で届く。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "Instinctは8月、宣伝なしの招待制でAIエージェントを公開し、たちまちAI界で最も話題の存在になった。その後、MetaのMuseとOpenAIのDotsが登場した。The Vergeのテストでは、Instinctは引けを取らず、創業者のNoah Shinnも動じていない。「AIアシスタントこそ、私たちが知るすべてだ」。同社は9月下旬に100億ドルの評価を受けた。"
+                "x": "UXリサーチャーの間で大きな論争になっているのが、合成ユーザーを使うかどうかだ。一方は人間のための製品を人工のペルソナでテストするのは非倫理的だと考え、もう一方はリサーチを効率化するツールだと擁護する。SAPのChief Design OfficerであるArin Bhowmickは双方を理解しつつも、こう言う。「これらのユーザーは実在しない」"
               },
               {
                 "t": "p",
-                "x": "Museのクマのマスコットや Dotsのブロブとは違い、InstinctはiMessage、WhatsApp、メールだけで動く。アプリも可愛いキャラクターもなく、短い返信と多くの実行があるだけで、Google Workspace、Slack、Notionと連携する。"
+                "x": "LLMsは肯定的すぎる。2025年の研究「She was useful, but a bit too optimistic」では、UXデザイナー八人がAliceというAIペルソナと作業した。Aliceは「デザイン案に無批判に同意する一貫した傾向」を示したが、参加者は初期の探索には役立つと評価した。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "水泳教室を見つけたが前提となるクラスを見落とし、眼科医にメールを送り、曖昧な説明からIkeaの返品手続きを始め、予定の重複を自ら指摘した。"
+                "x": "利点はスピードだ。User Interviewsが2026年5月にリサーチャー150人を調査したところ、41%が合成ユーザーを人間によるリサーチの前段階の予備ツールとして扱っていた。最も役立つ用途は、アンケートとスクリーナーの設計(46%)、方向性を探るユーザビリティテスト(34%)、初期段階のリサーチ(32%)だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "現在は招待ユーザーなら無料だ。アナリストは、これほど商取引に寄ったエージェントは広告に頼ると見ている。「消費者市場のすべての道は、最終的に広告に通じる」。"
+                "x": "SAPのEric Mahlstedtは過去の調査を合成ユーザーで再現し、回答が一般的すぎると感じた。「リサーチをしているというより、高度なインターネット検索をしている感覚だった」"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "Bhowmickの答えはノーだ。合成ユーザーは、すでに実施した人間によるUXリサーチの規模を広げるためだけに使い、重要な製品判断の唯一の根拠にしてはならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Instinct对决Muse\n与OpenAI的Dots",
-          "body": "The Verge测试Instinct能否抗衡Muse与OpenAI的Dots。",
-          "mini_headline": "Instinct对Muse与Dots",
+          "headline": "合成用户在UX中\n只应扮演小角色",
+          "body": "UX Collective认为，人本设计应少用甚至不用AI-generated用户画像。",
+          "mini_headline": "合成用户，慎用为宜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinct的代理始终只需一条短信即可触达。"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "8月，Instinct以邀请制推出AI代理，没有任何营销，很快成为AI领域最受热议的产品。随后Meta的Muse和OpenAI的Dots相继登场。在The Verge的测试中，Instinct表现不落下风，创始人Noah Shinn也毫不在意：“AI助手就是我们所熟知的一切。”公司在9月底估值达到100亿美元。"
+                "x": "UX研究者之间有一场大争论：是否使用合成用户。一方认为用人工画像测试服务人类的产品有违伦理；另一方则视之为提升研究效率的工具。SAP首席设计官（Chief Design Officer）Arin Bhowmick理解双方观点，但他说：“这些用户不是真实的。”"
               },
               {
                 "t": "p",
-                "x": "不同于Muse的小熊吉祥物和Dots的团状形象，Instinct完全通过iMessage、WhatsApp或电子邮件运作——没有应用，没有可爱的小角色，只有简短回复和大量行动，并可连接Google Workspace、Slack和Notion。"
+                "x": "LLMs过于积极。在2025年的研究《She was useful, but a bit too optimistic》中，八名UX设计师与一个名为Alice的AI画像合作，Alice表现出“对设计方案不加批判地认同的一贯倾向”。尽管如此，参与者仍认为她对早期探索有用。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "它找到了游泳课，却漏掉了一门先修课；它给眼科医生发了邮件，凭模糊描述发起了Ikea退货，还主动提示了日程冲突。"
-              },
-              {
-                "t": "p",
-                "x": "目前受邀用户可免费使用。分析人士预计，如此偏重商业交易的代理将依赖广告：“消费市场的所有道路最终都通向广告。”"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "La UX de agente de Instinct\nfrente a Muse y Dots de OpenAI",
-          "body": "The Verge prueba si Instinct, el agente de IA de moda la temporada pasada, resiste ante Muse y Dots de OpenAI.",
-          "mini_headline": "Instinct frente a Muse y Dots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "El agente de Instinct siempre está a un mensaje de distancia."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, Instinct lanzó su agente de IA solo por invitación y sin marketing, y pronto se convirtió en lo más comentado del sector de la IA. Después llegaron Muse, de Meta, y Dots, de OpenAI. En las pruebas de The Verge, Instinct ha estado a la altura, y su fundador, Noah Shinn, no se inmuta: “Los asistentes de IA son todo lo que conocemos”. La empresa fue valorada en $10 billion (10.000 millones de dólares) a finales de septiembre."
-              },
-              {
-                "t": "p",
-                "x": "A diferencia de la mascota de oso de Muse y las manchas de Dots, Instinct funciona por completo a través de iMessage, WhatsApp o correo electrónico: sin app, sin un personajito simpático, solo respuestas breves y mucha acción, con conexión a Google Workspace, Slack y Notion."
+                "x": "速度是优势。User Interviews于2026年5月调查了150名研究者：41%把合成用户当作人类研究之前的预备工具，认为它们最适用于问卷与筛选问卷设计（46%）、方向性可用性测试（34%）和早期研究（32%）。"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "Encontró clases de natación, pero pasó por alto una clase previa obligatoria; envió un correo a un oftalmólogo, inició una devolución en Ikea a partir de una descripción vaga y advirtió por iniciativa propia de un conflicto en el calendario."
-              },
-              {
-                "t": "p",
-                "x": "Por ahora es gratuito para los usuarios con invitación. Los analistas esperan que agentes tan centrados en el comercio se apoyen en la publicidad: “En el mercado de consumo, todos los caminos acaban llevando a la publicidad”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Instinct·Muse\nOpenAI Dots 대결",
-          "body": "The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
-          "mini_headline": "Instinct 대 Muse·Dots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinct의 에이전트는 언제나 문자 한 통 거리에 있다."
-              },
-              {
-                "t": "p",
-                "x": "Instinct는 8월 마케팅 없이 초대제로 AI 에이전트를 내놓았고, 곧 AI 업계에서 가장 화제가 됐다. 이어 Meta의 Muse와 OpenAI의 Dots가 나왔다. The Verge의 테스트에서 Instinct는 밀리지 않았고, 창업자 Noah Shinn은 동요하지 않는다. “AI 어시스턴트는 우리가 아는 전부다.” 회사는 9월 말 100억 달러 가치를 인정받았다."
-              },
-              {
-                "t": "p",
-                "x": "Muse의 곰 마스코트나 Dots의 블롭과 달리 Instinct는 iMessage, WhatsApp, 이메일로만 작동한다. 앱도 귀여운 캐릭터도 없이 짧은 답과 많은 실행이 있을 뿐이며, Google Workspace, Slack, Notion과 연결된다."
+                "x": "SAP的Eric Mahlstedt用合成用户重做了过去的研究，发现回答过于笼统：“与其说是在做研究，不如说更像一次精巧的互联网搜索。”"
               },
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
               },
               {
                 "t": "p",
-                "x": "수영 강습을 찾았지만 선수 과목은 놓쳤고, 안과에 이메일을 보냈으며, 모호한 설명만으로 Ikea 반품을 시작하고, 일정 충돌을 먼저 알려줬다."
-              },
-              {
-                "t": "p",
-                "x": "지금은 초대받은 사용자에게 무료다. 분석가들은 이처럼 상거래 비중이 큰 에이전트가 광고에 기댈 것으로 본다. “소비자 시장의 모든 길은 결국 광고로 통한다.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Instinct対Muse・\nOpenAIのDots",
-          "body": "The VergeがInstinctをMuseとOpenAIのDotsと比べた。",
-          "mini_headline": "Instinct対MuseとDots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinctのエージェントには、いつでもテキスト一通で届く。"
-              },
-              {
-                "t": "p",
-                "x": "Instinctは8月、宣伝なしの招待制でAIエージェントを公開し、たちまちAI界で最も話題の存在になった。その後、MetaのMuseとOpenAIのDotsが登場した。The Vergeのテストでは、Instinctは引けを取らず、創業者のNoah Shinnも動じていない。「AIアシスタントこそ、私たちが知るすべてだ」。同社は9月下旬に100億ドルの評価を受けた。"
-              },
-              {
-                "t": "p",
-                "x": "Museのクマのマスコットや Dotsのブロブとは違い、InstinctはiMessage、WhatsApp、メールだけで動く。アプリも可愛いキャラクターもなく、短い返信と多くの実行があるだけで、Google Workspace、Slack、Notionと連携する。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "水泳教室を見つけたが前提となるクラスを見落とし、眼科医にメールを送り、曖昧な説明からIkeaの返品手続きを始め、予定の重複を自ら指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "現在は招待ユーザーなら無料だ。アナリストは、これほど商取引に寄ったエージェントは広告に頼ると見ている。「消費者市場のすべての道は、最終的に広告に通じる」。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Instinct对决Muse\n与OpenAI的Dots",
-          "body": "The Verge测试Instinct能否抗衡Muse与OpenAI的Dots。",
-          "mini_headline": "Instinct对Muse与Dots",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04328_processed_1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Instinct的代理始终只需一条短信即可触达。"
-              },
-              {
-                "t": "p",
-                "x": "8月，Instinct以邀请制推出AI代理，没有任何营销，很快成为AI领域最受热议的产品。随后Meta的Muse和OpenAI的Dots相继登场。在The Verge的测试中，Instinct表现不落下风，创始人Noah Shinn也毫不在意：“AI助手就是我们所熟知的一切。”公司在9月底估值达到100亿美元。"
-              },
-              {
-                "t": "p",
-                "x": "不同于Muse的小熊吉祥物和Dots的团状形象，Instinct完全通过iMessage、WhatsApp或电子邮件运作——没有应用，没有可爱的小角色，只有简短回复和大量行动，并可连接Google Workspace、Slack和Notion。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-08-at-2.19.54-PM-1.png?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "它找到了游泳课，却漏掉了一门先修课；它给眼科医生发了邮件，凭模糊描述发起了Ikea退货，还主动提示了日程冲突。"
-              },
-              {
-                "t": "p",
-                "x": "目前受邀用户可免费使用。分析人士预计，如此偏重商业交易的代理将依赖广告：“消费市场的所有道路最终都通向广告。”"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "nvidia-simready-assets",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "NVIDIA, CAD를\nSimReady 자산으로",
-      "body": "NVIDIA가 AI로 CAD를 SimReady 자산으로 바꾸는 다섯 단계를 짚었다.",
-      "mini_headline": "CAD에서 SimReady 자산으로",
-      "tool": "KeyShot",
-      "source": "NVIDIA Technical Blog",
-      "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
-      "accent": "#3b6bff",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
-          },
-          {
-            "t": "p",
-            "x": "로보틱스 시뮬레이션에 쓸 CAD 자산은 형상을 OpenUSD로 바꾸는 것만으로 끝나지 않는다. 재질, 충돌 형상, 관절, 물리 속성까지 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 보여줬다. 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델로는 Codex CLI의 GPT-6 Astra를 예로 썼다."
-          },
-          {
-            "t": "p",
-            "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상에 맞춰 외관을 다듬는다."
-          },
-          {
-            "t": "img",
-            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
-          },
-          {
-            "t": "p",
-            "x": "3. 데이터시트를 보고 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 끌어왔다. 4. SimReady 요건에 맞는지 검증한다. 이 검사가 확인하는 것은 시뮬레이션이지 실제 세계(real-world)의 동역학이 아니다."
-          },
-          {
-            "t": "p",
-            "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커로 Isaac Sim에서 pick-and-place 작업을 돌린다."
-          },
-          {
-            "t": "img",
-            "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
-          },
-          {
-            "t": "p",
-            "x": "결과는 어떤 모델과 추론 강도, 프롬프트를 쓰느냐에 따라 달라진다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NVIDIA turns CAD into\nSimReady robot assets",
-          "body": "NVIDIA outlines five steps for using frontier AI models to turn CAD assets into SimReady OpenUSD assets for robotics.",
-          "mini_headline": "CAD to SimReady assets",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "Preparing CAD assets for robotics simulation takes more than converting geometry to OpenUSD: materials, collision geometry, joints and physics must be configured and validated. NVIDIA walks through preparing an ABB YuMi robot with SimReady Foundation and Omniverse tools, using GPT-6 Astra in Codex CLI as one example of a frontier AI model that calls the tools via agentic NVIDIA skills."
-              },
-              {
-                "t": "p",
-                "x": "1. Import the robot from STEP files into OpenUSD and Isaac Sim 6.1. 2. Match the visual appearance against ABB images and videos."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
-              },
-              {
-                "t": "p",
-                "x": "3. Configure joints, rigid bodies and collision geometry using the datasheet; the agent even pulled a public URDF to find joint axes. 4. Validate against SimReady requirements — checks that confirm the simulation, not real-world dynamics."
-              },
-              {
-                "t": "p",
-                "x": "5. Run pick-and-place tasks in Isaac Sim with cubes and a Sharpie marker generated from a reference image."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "Results may vary with the model, reasoning effort and prompts used."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "NVIDIA, CAD를\nSimReady 자산으로",
-          "body": "NVIDIA가 AI로 CAD를 SimReady 자산으로 바꾸는 다섯 단계를 짚었다.",
-          "mini_headline": "CAD에서 SimReady 자산으로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "로보틱스 시뮬레이션에 쓸 CAD 자산은 형상을 OpenUSD로 바꾸는 것만으로 끝나지 않는다. 재질, 충돌 형상, 관절, 물리 속성까지 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 보여줬다. 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델로는 Codex CLI의 GPT-6 Astra를 예로 썼다."
-              },
-              {
-                "t": "p",
-                "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상에 맞춰 외관을 다듬는다."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
-              },
-              {
-                "t": "p",
-                "x": "3. 데이터시트를 보고 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 끌어왔다. 4. SimReady 요건에 맞는지 검증한다. 이 검사가 확인하는 것은 시뮬레이션이지 실제 세계(real-world)의 동역학이 아니다."
-              },
-              {
-                "t": "p",
-                "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커로 Isaac Sim에서 pick-and-place 작업을 돌린다."
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "결과는 어떤 모델과 추론 강도, 프롬프트를 쓰느냐에 따라 달라진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "NVIDIA、CADを\nSimReady資産に",
-          "body": "NVIDIAがフロンティアAIでCADをSimReady資産に変える五つの手順を示した。",
-          "mini_headline": "CADからSimReady資産へ",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "ロボティクスのシミュレーション向けにCAD資産を用意するには、形状をOpenUSDに変換するだけでは足りない。マテリアル、衝突形状、関節、物理特性を設定し、検証する必要がある。NVIDIAはSimReady FoundationとOmniverseのツールでABB YuMiロボットを準備する手順を解説し、エージェント型のNVIDIAスキルを通じてツールを呼び出すフロンティアAIモデルの一例として、Codex CLI上のGPT-6 Astraを使った。"
-              },
-              {
-                "t": "p",
-                "x": "1. STEPファイルからロボットをOpenUSDとIsaac Sim 6.1に読み込む。2. ABBの画像や動画と照らして外観を合わせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
-              },
-              {
-                "t": "p",
-                "x": "3. データシートを使って関節、剛体、衝突形状を設定する。エージェントは関節軸を調べるために公開URDFまで取得した。4. SimReadyの要件に照らして検証する。この検査が確かめるのはシミュレーションであり、real-worldの動力学ではない。"
-              },
-              {
-                "t": "p",
-                "x": "5. 参照画像から生成したキューブとSharpieのマーカーを使い、Isaac Simでpick-and-placeタスクを実行する。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "結果は使うモデル、推論の強度、プロンプトによって変わりうる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "NVIDIA把CAD\n变成SimReady资产",
-          "body": "NVIDIA介绍用前沿AI将CAD转为SimReady OpenUSD资产的五个步骤。",
-          "mini_headline": "CAD转SimReady资产",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "为机器人仿真准备CAD资产，不只是把几何体转换成OpenUSD：还必须配置并验证材质、碰撞几何、关节和物理属性。NVIDIA演示了如何用SimReady Foundation和Omniverse工具准备一台ABB YuMi机器人，并以Codex CLI中的GPT-6 Astra为例，说明前沿AI模型如何通过智能体式NVIDIA技能调用这些工具。"
-              },
-              {
-                "t": "p",
-                "x": "1. 将机器人从STEP文件导入OpenUSD和Isaac Sim 6.1。2. 对照ABB的图片和视频匹配外观。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
-              },
-              {
-                "t": "p",
-                "x": "3. 依据数据手册配置关节、刚体和碰撞几何；智能体甚至调取了一份公开的URDF来确定关节轴。4. 按SimReady要求进行验证——这些检查确认的是仿真本身，而非real-world动力学。"
-              },
-              {
-                "t": "p",
-                "x": "5. 在Isaac Sim中用依据参考图像生成的方块和一支Sharpie马克笔运行pick-and-place任务。"
-              },
-              {
-                "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
-              },
-              {
-                "t": "p",
-                "x": "结果可能因所用模型、推理强度和提示词而异。"
+                "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA convierte CAD en\nactivos SimReady para robots",
-          "body": "NVIDIA detalla cinco pasos con IA de frontera para convertir CAD en activos SimReady OpenUSD para robótica.",
-          "mini_headline": "De CAD a activos SimReady",
+          "headline": "Por qué los usuarios sintéticos\ndeben pesar poco en UX",
+          "body": "UX Collective sostiene que el diseño centrado en el humano pide usar poco o nada las personas AI-generated.",
+          "mini_headline": "Usuarios sintéticos, con mesura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "Preparar activos CAD para simulación robótica exige más que convertir la geometría a OpenUSD: hay que configurar y validar materiales, geometría de colisión, articulaciones y física. NVIDIA explica cómo preparar un robot ABB YuMi con SimReady Foundation y herramientas de Omniverse, y usa GPT-6 Astra en Codex CLI como ejemplo de modelo de IA de frontera que invoca las herramientas mediante skills agénticas de NVIDIA."
+                "x": "Un gran debate entre los investigadores de UX es si usar usuarios sintéticos. Un grupo considera poco ético probar con una persona artificial un producto que sirve a seres humanos; el otro lo defiende como una herramienta que hace la investigación más eficiente. Arin Bhowmick, Chief Design Officer de SAP, entiende ambas posturas, pero: “Estos usuarios no son reales.”"
               },
               {
                 "t": "p",
-                "x": "1. Importar el robot desde archivos STEP a OpenUSD e Isaac Sim 6.1. 2. Ajustar la apariencia visual a imágenes y videos de ABB."
+                "x": "Los LLMs son demasiado positivos. En un estudio de 2025, “She was useful, but a bit too optimistic”, ocho diseñadores de UX trabajaron con una persona de AI llamada Alice, que mostró “una tendencia constante a aceptar sin crítica las propuestas de diseño”. Aun así, los participantes la consideraron útil para la exploración inicial."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "3. Configurar articulaciones, cuerpos rígidos y geometría de colisión a partir de la hoja de datos; el agente incluso recurrió a un URDF público para encontrar los ejes de las articulaciones. 4. Validar frente a los requisitos de SimReady, comprobaciones que confirman la simulación, no la dinámica del mundo real (real-world)."
-              },
-              {
-                "t": "p",
-                "x": "5. Ejecutar tareas pick-and-place en Isaac Sim con cubos y un marcador Sharpie generados a partir de una imagen de referencia."
+                "x": "La ventaja es la velocidad. User Interviews encuestó a 150 investigadores en mayo de 2026: el 41% trata a los usuarios sintéticos como una herramienta preliminar antes de la investigación con personas, y los valora sobre todo para diseñar encuestas y filtros de selección (46%), pruebas de usabilidad orientativas (34%) e investigación en fase inicial (32%)."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "Los resultados pueden variar según el modelo, el nivel de razonamiento y los prompts utilizados."
+                "x": "Eric Mahlstedt, de SAP, recreó estudios anteriores con usuarios sintéticos y encontró respuestas demasiado genéricas: “Se sentía menos como hacer investigación y más como una búsqueda sofisticada en internet.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
               }
             ]
           }
@@ -1251,169 +289,185 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NVIDIA, CAD를\nSimReady 자산으로",
-          "body": "NVIDIA가 AI로 CAD를 SimReady 자산화하는 다섯 단계를 소개했다.",
-          "mini_headline": "CAD에서 SimReady 자산으로",
+          "headline": "합성 사용자는\nUX에선 조연이어야 한다",
+          "body": "UX Collective는 AI-generated 페르소나를 아껴 쓰라고 한다.",
+          "mini_headline": "합성 사용자는 아껴서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "로보틱스 시뮬레이션용 CAD 자산을 준비하려면 형상을 OpenUSD로 변환하는 것만으로는 부족하다. 재질, 충돌 형상, 관절, 물리 속성을 설정하고 검증해야 한다. NVIDIA는 SimReady Foundation과 Omniverse 도구로 ABB YuMi 로봇을 준비하는 과정을 소개하며, 에이전틱 NVIDIA 스킬로 도구를 호출하는 프런티어 AI 모델의 한 예로 Codex CLI의 GPT-6 Astra를 사용했다."
+                "x": "UX 리서처 사이의 큰 논쟁거리는 합성 사용자를 쓸지 말지다. 한쪽은 사람을 위한 제품을 인공 페르소나로 테스트하는 일이 비윤리적이라고 보고, 다른 쪽은 리서치를 더 효율적으로 만드는 도구라며 옹호한다. SAP 최고디자인책임자(Chief Design Officer) Arin Bhowmick은 양쪽을 모두 이해하지만 이렇게 말한다. “이 사용자들은 실제가 아니다.”"
               },
               {
                 "t": "p",
-                "x": "1. STEP 파일에서 로봇을 OpenUSD와 Isaac Sim 6.1로 가져온다. 2. ABB 이미지와 영상을 기준으로 외관을 맞춘다."
+                "x": "LLMs(대규모 언어 모델)는 지나치게 긍정적이다. 2025년 연구 “She was useful, but a bit too optimistic”에서 UX 디자이너 여덟 명이 Alice라는 AI 페르소나와 함께 작업했는데, Alice는 “디자인 제안에 무비판적으로 동의하는 일관된 경향”을 보였다. 그래도 참가자들은 초기 탐색 단계에서 Alice가 쓸모 있다고 봤다."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "3. 데이터시트를 바탕으로 관절, 강체, 충돌 형상을 설정한다. 에이전트는 관절 축을 찾으려고 공개된 URDF까지 가져왔다. 4. SimReady 요건에 맞춰 검증한다. 이 검사는 실제 세계(real-world)의 동역학이 아니라 시뮬레이션을 확인하는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "5. 참조 이미지로 생성한 큐브와 Sharpie 마커를 써서 Isaac Sim에서 pick-and-place 작업을 실행한다."
+                "x": "장점은 속도다. User Interviews가 2026년 5월 리서처 150명을 조사한 결과, 41%가 합성 사용자를 사람 대상 리서치에 앞선 예비 도구로 쓰고 있었다. 가장 유용한 분야로는 설문·스크리너 설계(46%), 방향성 확인용 사용성 테스트(34%), 초기 단계 리서치(32%)를 꼽았다."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "결과는 사용한 모델, 추론 강도, 프롬프트에 따라 달라질 수 있다."
+                "x": "SAP의 Eric Mahlstedt는 과거 연구를 합성 사용자로 재현해 봤지만 답변이 지나치게 일반적이었다. “리서치를 한다기보다 정교한 인터넷 검색을 하는 느낌이었다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "Bhowmick의 답은 '아니다'다. 합성 사용자는 이미 진행한 사람 대상 UX 리서치의 규모를 넓히는 데만 쓰고, 핵심 제품 결정의 유일한 근거로 삼아서는 안 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NVIDIA、CADを\nSimReady資産に",
-          "body": "NVIDIAがフロンティアAIでCADをSimReady資産に変える五つの手順を示した。",
-          "mini_headline": "CADからSimReady資産へ",
+          "headline": "合成ユーザーは\nUXの脇役であるべき",
+          "body": "UX Collectiveは、AI-generatedペルソナは控えめに使えと説く。",
+          "mini_headline": "合成ユーザーは控えめに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "ロボティクスのシミュレーション向けにCAD資産を用意するには、形状をOpenUSDに変換するだけでは足りない。マテリアル、衝突形状、関節、物理特性を設定し、検証する必要がある。NVIDIAはSimReady FoundationとOmniverseのツールでABB YuMiロボットを準備する手順を解説し、エージェント型のNVIDIAスキルを通じてツールを呼び出すフロンティアAIモデルの一例として、Codex CLI上のGPT-6 Astraを使った。"
+                "x": "UXリサーチャーの間で大きな論争になっているのが、合成ユーザーを使うかどうかだ。一方は人間のための製品を人工のペルソナでテストするのは非倫理的だと考え、もう一方はリサーチを効率化するツールだと擁護する。SAPのChief Design OfficerであるArin Bhowmickは双方を理解しつつも、こう言う。「これらのユーザーは実在しない」"
               },
               {
                 "t": "p",
-                "x": "1. STEPファイルからロボットをOpenUSDとIsaac Sim 6.1に読み込む。2. ABBの画像や動画と照らして外観を合わせる。"
+                "x": "LLMsは肯定的すぎる。2025年の研究「She was useful, but a bit too optimistic」では、UXデザイナー八人がAliceというAIペルソナと作業した。Aliceは「デザイン案に無批判に同意する一貫した傾向」を示したが、参加者は初期の探索には役立つと評価した。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "3. データシートを使って関節、剛体、衝突形状を設定する。エージェントは関節軸を調べるために公開URDFまで取得した。4. SimReadyの要件に照らして検証する。この検査が確かめるのはシミュレーションであり、real-worldの動力学ではない。"
-              },
-              {
-                "t": "p",
-                "x": "5. 参照画像から生成したキューブとSharpieのマーカーを使い、Isaac Simでpick-and-placeタスクを実行する。"
+                "x": "利点はスピードだ。User Interviewsが2026年5月にリサーチャー150人を調査したところ、41%が合成ユーザーを人間によるリサーチの前段階の予備ツールとして扱っていた。最も役立つ用途は、アンケートとスクリーナーの設計(46%)、方向性を探るユーザビリティテスト(34%)、初期段階のリサーチ(32%)だった。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "結果は使うモデル、推論の強度、プロンプトによって変わりうる。"
+                "x": "SAPのEric Mahlstedtは過去の調査を合成ユーザーで再現し、回答が一般的すぎると感じた。「リサーチをしているというより、高度なインターネット検索をしている感覚だった」"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "Bhowmickの答えはノーだ。合成ユーザーは、すでに実施した人間によるUXリサーチの規模を広げるためだけに使い、重要な製品判断の唯一の根拠にしてはならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "NVIDIA把CAD\n变成SimReady资产",
-          "body": "NVIDIA介绍用前沿AI将CAD转为SimReady OpenUSD资产的五个步骤。",
-          "mini_headline": "CAD转SimReady资产",
+          "headline": "合成用户在UX中\n只应扮演小角色",
+          "body": "UX Collective认为，人本设计应少用甚至不用AI-generated用户画像。",
+          "mini_headline": "合成用户，慎用为宜",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "为机器人仿真准备CAD资产，不只是把几何体转换成OpenUSD：还必须配置并验证材质、碰撞几何、关节和物理属性。NVIDIA演示了如何用SimReady Foundation和Omniverse工具准备一台ABB YuMi机器人，并以Codex CLI中的GPT-6 Astra为例，说明前沿AI模型如何通过智能体式NVIDIA技能调用这些工具。"
+                "x": "UX研究者之间有一场大争论：是否使用合成用户。一方认为用人工画像测试服务人类的产品有违伦理；另一方则视之为提升研究效率的工具。SAP首席设计官（Chief Design Officer）Arin Bhowmick理解双方观点，但他说：“这些用户不是真实的。”"
               },
               {
                 "t": "p",
-                "x": "1. 将机器人从STEP文件导入OpenUSD和Isaac Sim 6.1。2. 对照ABB的图片和视频匹配外观。"
+                "x": "LLMs过于积极。在2025年的研究《She was useful, but a bit too optimistic》中，八名UX设计师与一个名为Alice的AI画像合作，Alice表现出“对设计方案不加批判地认同的一贯倾向”。尽管如此，参与者仍认为她对早期探索有用。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "3. 依据数据手册配置关节、刚体和碰撞几何；智能体甚至调取了一份公开的URDF来确定关节轴。4. 按SimReady要求进行验证——这些检查确认的是仿真本身，而非real-world动力学。"
-              },
-              {
-                "t": "p",
-                "x": "5. 在Isaac Sim中用依据参考图像生成的方块和一支Sharpie马克笔运行pick-and-place任务。"
+                "x": "速度是优势。User Interviews于2026年5月调查了150名研究者：41%把合成用户当作人类研究之前的预备工具，认为它们最适用于问卷与筛选问卷设计（46%）、方向性可用性测试（34%）和早期研究（32%）。"
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "结果可能因所用模型、推理强度和提示词而异。"
+                "x": "SAP的Eric Mahlstedt用合成用户重做了过去的研究，发现回答过于笼统：“与其说是在做研究，不如说更像一次精巧的互联网搜索。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "Bhowmick的答案是否定的：合成用户只能用来扩大已完成的人类UX研究的规模，绝不能作为关键产品决策的唯一依据。"
               }
             ]
           }
         },
         "es": {
-          "headline": "NVIDIA convierte CAD en\nactivos SimReady para robots",
-          "body": "NVIDIA detalla cinco pasos con IA de frontera para convertir CAD en activos SimReady OpenUSD para robótica.",
-          "mini_headline": "De CAD a activos SimReady",
+          "headline": "Por qué los usuarios sintéticos\ndeben pesar poco en UX",
+          "body": "UX Collective sostiene que el diseño centrado en el humano pide usar poco o nada las personas AI-generated.",
+          "mini_headline": "Usuarios sintéticos, con mesura",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image6-2-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*a8n0oMQn0pBX9xsL69g09Q.png"
               },
               {
                 "t": "p",
-                "x": "Preparar activos CAD para simulación robótica exige más que convertir la geometría a OpenUSD: hay que configurar y validar materiales, geometría de colisión, articulaciones y física. NVIDIA explica cómo preparar un robot ABB YuMi con SimReady Foundation y herramientas de Omniverse, y usa GPT-6 Astra en Codex CLI como ejemplo de modelo de IA de frontera que invoca las herramientas mediante skills agénticas de NVIDIA."
+                "x": "Un gran debate entre los investigadores de UX es si usar usuarios sintéticos. Un grupo considera poco ético probar con una persona artificial un producto que sirve a seres humanos; el otro lo defiende como una herramienta que hace la investigación más eficiente. Arin Bhowmick, Chief Design Officer de SAP, entiende ambas posturas, pero: “Estos usuarios no son reales.”"
               },
               {
                 "t": "p",
-                "x": "1. Importar el robot desde archivos STEP a OpenUSD e Isaac Sim 6.1. 2. Ajustar la apariencia visual a imágenes y videos de ABB."
+                "x": "Los LLMs son demasiado positivos. En un estudio de 2025, “She was useful, but a bit too optimistic”, ocho diseñadores de UX trabajaron con una persona de AI llamada Alice, que mostró “una tendencia constante a aceptar sin crítica las propuestas de diseño”. Aun así, los participantes la consideraron útil para la exploración inicial."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/figure2fixed.webp"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*FLSF3aLFoA6G_ggLDJnPZQ.png"
               },
               {
                 "t": "p",
-                "x": "3. Configurar articulaciones, cuerpos rígidos y geometría de colisión a partir de la hoja de datos; el agente incluso recurrió a un URDF público para encontrar los ejes de las articulaciones. 4. Validar frente a los requisitos de SimReady, comprobaciones que confirman la simulación, no la dinámica del mundo real (real-world)."
-              },
-              {
-                "t": "p",
-                "x": "5. Ejecutar tareas pick-and-place en Isaac Sim con cubos y un marcador Sharpie generados a partir de una imagen de referencia."
+                "x": "La ventaja es la velocidad. User Interviews encuestó a 150 investigadores en mayo de 2026: el 41% trata a los usuarios sintéticos como una herramienta preliminar antes de la investigación con personas, y los valora sobre todo para diseñar encuestas y filtros de selección (46%), pruebas de usabilidad orientativas (34%) e investigación en fase inicial (32%)."
               },
               {
                 "t": "img",
-                "src": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image8-625x352.gif"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*iz3yF3odyS4x9_fEjWSTUg.png"
               },
               {
                 "t": "p",
-                "x": "Los resultados pueden variar según el modelo, el nivel de razonamiento y los prompts utilizados."
+                "x": "Eric Mahlstedt, de SAP, recreó estudios anteriores con usuarios sintéticos y encontró respuestas demasiado genéricas: “Se sentía menos como hacer investigación y más como una búsqueda sofisticada en internet.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*yT7rVfeOHSPeB_1BagB7-A.png"
+              },
+              {
+                "t": "p",
+                "x": "La respuesta de Bhowmick es no: usar usuarios sintéticos solo para ampliar la escala de la investigación de UX con personas ya realizada, nunca como única fuente para decisiones clave de producto."
               }
             ]
           }
@@ -1421,15 +475,15 @@
       }
     },
     {
-      "id": "geometry-ui-diffing",
+      "id": "agent-permission-preview",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
-      "body": "스크린샷 대신 레이아웃 기하로 Figma와 견주면 에이전트가 헤매지 않는다.",
-      "mini_headline": "스크린샷보다 기하",
+      "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
+      "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
+      "mini_headline": "실행 전에 미리 보여주기",
       "tool": "Design Tokens",
       "source": "DEV Community",
-      "url": "https://dev.to/as9978/why-screenshot-diffing-ai-built-uis-thrashes-and-how-geometry-fixes-it-5967",
+      "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1437,173 +491,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
           },
           {
             "t": "p",
-            "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말에 끝없이 고치기만 한다. 고장 난 쪽은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림까지 오류로 잡는다. 그러니 점수가 흔들리고 수렴하지 않는다."
+            "x": "작업이 뭘 하는지 보이지 않으면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 이 문제를 보안 명세가 아니라 제품 디자인의 눈으로 짚는다."
           },
           {
             "t": "p",
-            "x": "디자이너는 픽셀을 diff하지 않는다. 이름 붙은 속성을 본다. open-source MCP 서버이자 Claude Code 스킬인 designfit도 그렇게 한다. 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 저마다 명시한 허용 오차로 비교한다. 몇 번을 돌려도 결과는 같다."
+            "x": "연결됐다고 승인된 건 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 보여줄 것은 도구가 아니라 결과다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 묻는 식이다."
           },
           {
             "t": "p",
-            "x": "designfit_extract가 Figma의 REST API에서 스펙을 읽으면 designfit_validate가 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번 반복하자 점수가 87에서 100으로 올랐고 엉뚱한 노드에 붙은 태그도 드러났다."
+            "x": "미리보기는 에이전트의 요약에만 기대지 말고 대기 중인 도구 호출 자체에서 뽑아야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고도 색만으로는 부족하다. “외부 수신자”, “기존 파일 덮어쓰기”처럼 말로 적어야 한다."
           },
           {
             "t": "p",
-            "x": "버전 0.2는 뷰포트 하나만 검사한다. 간격 토큰과 multi-breakpoint 검사는 로드맵에 올라 있다. 무료이고 MIT-licensed(MIT 라이선스)다."
+            "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 알아보기 쉬운 경계를 정해 두고, 에이전트가 그 선을 넘을 때만 물으면 된다. 점검 항목은 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Why screenshot diffing\nthrashes AI-built UIs",
-          "body": "Comparing layout geometry instead of screenshot-diffing against a Figma frame keeps coding agents from thrashing.",
-          "mini_headline": "Geometry over screenshots",
+          "headline": "Show what an AI agent will\nchange before it acts",
+          "body": "Agent permission prompts should preview exactly what an action will change rather than offering a bare Allow button.",
+          "mini_headline": "Preview before agents act",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "Point a coding agent at a Figma frame and say “make it match,” and it often thrashes: told “still wrong,” it tweaks forever. The agent isn’t broken — the comparison is. Screenshot diffs flag anti-aliasing, font hinting and sub-pixel rounding as errors, so the score wobbles and never converges."
+                "x": "“Allow this action” is hard to answer when you can’t see what the action does, writes KAT, co-founder of 123sudo (maker of AI workspace 9xchat), in a product-design perspective rather than a security spec."
               },
               {
                 "t": "p",
-                "x": "Designers don’t diff pixels; they check named properties. So designfit, an open-source MCP server and Claude Code skill, compares design tokens (colors via CIEDE2000, font sizes, radii) and geometry relative to the screen root, plus element presence, each with explicit tolerances — deterministic, run after run."
+                "x": "Connected doesn’t mean approved: an interface should distinguish “this tool is connected” from “this action is permitted for the current task.” Show the outcome, not the tool — not “Allow send_message?” but “Send this email to Alex at an external address, with the attached project brief?”"
               },
               {
                 "t": "p",
-                "x": "designfit_extract reads the spec from Figma’s REST API; designfit_validate returns pass, score and a fix-list. On a 360-node dashboard it scored three iterations from 87 to 100 and exposed tags on the wrong nodes."
+                "x": "Build the preview from the pending tool call itself, not just the agent’s summary. Approval should belong to a specific action: if the recipient, attachment or body changes, ask again. Warnings need words, not just colours — “External recipient,” “Overwrites an existing file.”"
               },
               {
                 "t": "p",
-                "x": "Version 0.2 checks one viewport; spacing tokens and multi-breakpoint checks are roadmap. It is free and MIT-licensed."
+                "x": "More prompts don’t mean more control: set understandable boundaries at the start of a task, then ask only when the agent steps outside them. Checklist: access, actions, targets, approval, changes. “‘Trust me’ isn’t a useful approval screen.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
-          "body": "스크린샷 대신 레이아웃 기하로 Figma와 견주면 에이전트가 헤매지 않는다.",
-          "mini_headline": "스크린샷보다 기하",
+          "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
+          "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
+          "mini_headline": "실행 전에 미리 보여주기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말에 끝없이 고치기만 한다. 고장 난 쪽은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림까지 오류로 잡는다. 그러니 점수가 흔들리고 수렴하지 않는다."
+                "x": "작업이 뭘 하는지 보이지 않으면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 이 문제를 보안 명세가 아니라 제품 디자인의 눈으로 짚는다."
               },
               {
                 "t": "p",
-                "x": "디자이너는 픽셀을 diff하지 않는다. 이름 붙은 속성을 본다. open-source MCP 서버이자 Claude Code 스킬인 designfit도 그렇게 한다. 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 저마다 명시한 허용 오차로 비교한다. 몇 번을 돌려도 결과는 같다."
+                "x": "연결됐다고 승인된 건 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 보여줄 것은 도구가 아니라 결과다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 묻는 식이다."
               },
               {
                 "t": "p",
-                "x": "designfit_extract가 Figma의 REST API에서 스펙을 읽으면 designfit_validate가 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번 반복하자 점수가 87에서 100으로 올랐고 엉뚱한 노드에 붙은 태그도 드러났다."
+                "x": "미리보기는 에이전트의 요약에만 기대지 말고 대기 중인 도구 호출 자체에서 뽑아야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고도 색만으로는 부족하다. “외부 수신자”, “기존 파일 덮어쓰기”처럼 말로 적어야 한다."
               },
               {
                 "t": "p",
-                "x": "버전 0.2는 뷰포트 하나만 검사한다. 간격 토큰과 multi-breakpoint 검사는 로드맵에 올라 있다. 무료이고 MIT-licensed(MIT 라이선스)다."
+                "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 알아보기 쉬운 경계를 정해 두고, 에이전트가 그 선을 넘을 때만 물으면 된다. 점검 항목은 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-built UIsを\n画面差分が乱す理由",
-          "body": "Figmaとの比較を画面差分でなくレイアウト形状で行えば、エージェントは迷わない。",
-          "mini_headline": "スクリーンショットより形状",
+          "headline": "AIエージェントの変更は\n実行前に見せよ",
+          "body": "エージェントの権限確認は、Allowボタンを示すより変更内容を正確に見せるべきだ。",
+          "mini_headline": "実行前にプレビューを",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "コーディングエージェントにFigmaのフレームを渡して「同じにして」と頼むと、空回りしがちだ。「まだ違う」と言われると延々と調整を続ける。壊れているのはエージェントではなく比較の仕方だ。スクリーンショットのdiffはanti-aliasing、フォントヒンティング、sub-pixelの丸めを誤りとして拾うため、スコアが揺れて収束しない。"
+                "x": "その操作が何をするのか見えなければ、「Allow this action」には答えにくい。AIワークスペース9xchatを手がける123sudoの共同創業者KATは、セキュリティ仕様ではなくプロダクトデザインの視点からこう書く。"
               },
               {
                 "t": "p",
-                "x": "デザイナーはピクセルをdiffせず、名前の付いたプロパティを確認する。そこでopen-sourceのMCPサーバーでありClaude Codeのスキルでもあるdesignfitは、デザイントークン(CIEDE2000による色、フォントサイズ、角丸)、画面ルート基準のジオメトリ、要素の有無を、それぞれ明示的な許容値で比較する。何度実行しても結果は同じだ。"
+                "x": "接続は承認ではない。インターフェースは「このツールは接続されている」と「この操作は現在のタスクで許可されている」を区別すべきだ。ツールではなく結果を示す。「Allow send_message?」ではなく、「添付のプロジェクト概要とともに、このメールを外部アドレスのAlexに送信しますか?」と尋ねるのだ。"
               },
               {
                 "t": "p",
-                "x": "designfit_extractはFigmaのREST APIから仕様を読み取り、designfit_validateは合否、スコア、fix-listを返す。360-nodeのダッシュボードでは3回の反復でスコアが87から100に上がり、誤ったノードに付いたタグも明らかになった。"
+                "x": "プレビューはエージェントの要約だけでなく、保留中のツール呼び出しそのものから組み立てる。承認は特定の操作に紐づけるべきで、宛先や添付ファイル、本文が変われば改めて確認する。警告には色だけでなく言葉が要る。「外部の受信者」「既存のファイルを上書き」といった具合だ。"
               },
               {
                 "t": "p",
-                "x": "バージョン0.2が検査するのはビューポート1つで、スペーシングトークンとmulti-breakpointの検査はロードマップにある。無料でMIT-licensed(MITライセンス)だ。"
+                "x": "確認を増やしても制御が強まるわけではない。タスクの開始時にわかりやすい境界を設定し、エージェントがそこから外れたときだけ尋ねる。チェックリストはアクセス、操作、対象、承認、変更だ。「『信じてくれ』は役に立つ承認画面ではない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "截图比对为何拖垮\nAI-built UIs",
-          "body": "与Figma比对时改看布局几何而非截图差异，可让编码代理不再反复空转。",
-          "mini_headline": "几何胜过截图",
+          "headline": "AI智能体行动前\n先展示将改动什么",
+          "body": "智能体权限提示应准确预览操作将改变什么，而不是只给一个Allow按钮。",
+          "mini_headline": "智能体行动前先预览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "让编码代理对照Figma画框“做成一样”，它常常反复空转：一听到“还是不对”，就没完没了地微调。出问题的不是代理，而是比对方式。截图diff会把anti-aliasing、字体微调和sub-pixel取整都标为错误，于是分数来回摆动，始终无法收敛。"
+                "x": "123sudo（AI工作空间9xchat的开发商）联合创始人KAT从产品设计而非安全规范的角度写道：如果看不到某个操作会做什么，“Allow this action”就很难回答。"
               },
               {
                 "t": "p",
-                "x": "设计师不比对像素，而是检查有名称的属性。因此，作为open-source MCP服务器和Claude Code技能的designfit，会比对设计令牌（基于CIEDE2000的颜色、字号、圆角）、相对屏幕根节点的几何以及元素是否存在，每项都有明确的容差——每次运行结果都一致。"
+                "x": "已连接不等于已批准：界面应区分“这个工具已连接”和“这个操作在当前任务中被允许”。要展示结果，而不是工具——不是“Allow send_message?”，而是“将这封邮件连同附件中的项目简介发送给外部地址的Alex？”"
               },
               {
                 "t": "p",
-                "x": "designfit_extract从Figma的REST API读取规格；designfit_validate返回是否通过、分数和fix-list。在一个360-node的仪表盘上，它经过三次迭代将分数从87提升到100，并暴露出挂在错误节点上的标签。"
+                "x": "预览应基于待执行的工具调用本身来生成，而不只是智能体的摘要。批准应对应某个具体操作：如果收件人、附件或正文发生变化，就要再次询问。警告需要文字，而不只是颜色——“外部收件人”“覆盖现有文件”。"
               },
               {
                 "t": "p",
-                "x": "0.2版只检查一个视口；间距令牌和multi-breakpoint检查已列入路线图。它免费且MIT-licensed（采用MIT许可）。"
+                "x": "提示越多并不意味着控制越强：在任务开始时设定易于理解的边界，只在智能体越界时才询问。检查清单：访问、操作、对象、批准、变更。“‘相信我’不是有用的批准界面。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué el diff de capturas\ndesestabiliza UIs AI-built",
-          "body": "Comparar la geometría en vez de capturas contra un frame de Figma evita que los agentes de código den vueltas.",
-          "mini_headline": "Geometría antes que capturas",
+          "headline": "Un agente de AI debe mostrar\nqué cambiará antes de actuar",
+          "body": "Los avisos de permiso de un agente deben mostrar con exactitud qué cambiará cada acción, no solo un botón Allow.",
+          "mini_headline": "Vista previa antes de actuar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "Si se apunta un agente de código a un frame de Figma y se le pide “haz que coincida”, a menudo da vueltas: cuando le dicen “sigue mal”, ajusta sin fin. El agente no está roto; lo está la comparación. Los diffs de capturas marcan como errores el anti-aliasing, el hinting de fuentes y el redondeo sub-pixel, así que la puntuación oscila y nunca converge."
+                "x": "“Allow this action” es difícil de responder cuando no se ve qué hace la acción, escribe KAT, cofundador de 123sudo (creador del espacio de trabajo de AI 9xchat), desde una perspectiva de diseño de producto y no como especificación de seguridad."
               },
               {
                 "t": "p",
-                "x": "Los diseñadores no comparan píxeles; revisan propiedades con nombre. Por eso designfit, un servidor MCP open-source y skill de Claude Code, compara tokens de diseño (colores mediante CIEDE2000, tamaños de fuente, radios) y la geometría relativa a la raíz de la pantalla, además de la presencia de elementos, cada uno con tolerancias explícitas: determinista en cada ejecución."
+                "x": "Estar conectado no equivale a estar aprobado: una interfaz debe distinguir entre “esta herramienta está conectada” y “esta acción está permitida para la tarea actual”. Hay que mostrar el resultado, no la herramienta: no “Allow send_message?”, sino “¿Enviar este correo a Alex, en una dirección externa, con el resumen del proyecto adjunto?”"
               },
               {
                 "t": "p",
-                "x": "designfit_extract lee la especificación desde la REST API de Figma; designfit_validate devuelve aprobado, puntuación y una fix-list. En un dashboard de 360-node, puntuó tres iteraciones de 87 a 100 y expuso etiquetas en nodos equivocados."
+                "x": "La vista previa debe construirse a partir de la propia llamada a la herramienta pendiente, no solo del resumen del agente. La aprobación debe corresponder a una acción concreta: si cambian el destinatario, el adjunto o el cuerpo, hay que volver a preguntar. Las advertencias necesitan palabras, no solo colores: “Destinatario externo”, “Sobrescribe un archivo existente”."
               },
               {
                 "t": "p",
-                "x": "La versión 0.2 revisa un solo viewport; los tokens de espaciado y las comprobaciones multi-breakpoint están en la hoja de ruta. Es gratuito y MIT-licensed (con licencia MIT)."
+                "x": "Más avisos no significan más control: conviene fijar límites comprensibles al inicio de una tarea y preguntar solo cuando el agente se salga de ellos. Lista de verificación: acceso, acciones, destinos, aprobación, cambios. “‘Confía en mí’ no es una pantalla de aprobación útil.”"
               }
             ]
           }
@@ -1611,121 +665,1317 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-built UIs를\n스크린샷 비교가 흔든다",
-          "body": "스크린샷 대신 레이아웃 기하로 Figma와 비교하면 에이전트가 헤매지 않는다.",
-          "mini_headline": "스크린샷보다 기하",
+          "headline": "AI 에이전트는 실행 전\n변경 내용부터 보여줘야",
+          "body": "에이전트 권한 창은 Allow 버튼 대신 바뀔 내용을 미리 보여줘야 한다.",
+          "mini_headline": "실행 전에 미리 보여주기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "코딩 에이전트에 Figma 프레임을 주고 “똑같이 맞춰”라고 하면 헛돌기 일쑤다. “아직 틀렸다”는 말을 들으면 끝없이 고친다. 고장 난 것은 에이전트가 아니라 비교 방식이다. 스크린샷 diff는 anti-aliasing, 폰트 힌팅, sub-pixel 반올림을 오류로 잡아내므로 점수가 흔들리고 수렴하지 않는다."
+                "x": "작업이 무엇을 하는지 볼 수 없다면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 보안 명세가 아닌 제품 디자인 관점에서 이렇게 쓴다."
               },
               {
                 "t": "p",
-                "x": "디자이너는 픽셀을 diff하지 않고 이름 붙은 속성을 확인한다. 그래서 open-source MCP 서버이자 Claude Code 스킬인 designfit은 디자인 토큰(CIEDE2000 기준 색상, 폰트 크기, 모서리 반경), 화면 루트 기준 기하, 요소 존재 여부를 각각 명시적 허용 오차로 비교한다. 몇 번을 돌려도 결과가 같다."
+                "x": "연결됐다고 승인된 것은 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 도구가 아니라 결과를 보여줘야 한다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 물어야 한다."
               },
               {
                 "t": "p",
-                "x": "designfit_extract는 Figma의 REST API에서 스펙을 읽고, designfit_validate는 통과 여부, 점수, fix-list를 돌려준다. 360-node 대시보드에서는 세 번의 반복으로 점수가 87에서 100으로 올랐고, 잘못된 노드에 붙은 태그도 드러났다."
+                "x": "미리보기는 에이전트의 요약만이 아니라 대기 중인 도구 호출 자체에서 만들어야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고에는 색만이 아니라 말이 필요하다. 예를 들어 “외부 수신자”, “기존 파일 덮어쓰기” 같은 문구다."
               },
               {
                 "t": "p",
-                "x": "버전 0.2는 뷰포트 하나만 검사하며, 간격 토큰과 multi-breakpoint 검사는 로드맵에 있다. 무료이며 MIT-licensed(MIT 라이선스)다."
+                "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 이해하기 쉬운 경계를 정하고, 에이전트가 그 경계를 벗어날 때만 물어야 한다. 체크리스트는 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-built UIsを\n画面差分が乱す理由",
-          "body": "Figmaとの比較を画面差分でなくレイアウト形状で行えば、エージェントは迷わない。",
-          "mini_headline": "スクリーンショットより形状",
+          "headline": "AIエージェントの変更は\n実行前に見せよ",
+          "body": "エージェントの権限確認は、Allowボタンを示すより変更内容を正確に見せるべきだ。",
+          "mini_headline": "実行前にプレビューを",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "コーディングエージェントにFigmaのフレームを渡して「同じにして」と頼むと、空回りしがちだ。「まだ違う」と言われると延々と調整を続ける。壊れているのはエージェントではなく比較の仕方だ。スクリーンショットのdiffはanti-aliasing、フォントヒンティング、sub-pixelの丸めを誤りとして拾うため、スコアが揺れて収束しない。"
+                "x": "その操作が何をするのか見えなければ、「Allow this action」には答えにくい。AIワークスペース9xchatを手がける123sudoの共同創業者KATは、セキュリティ仕様ではなくプロダクトデザインの視点からこう書く。"
               },
               {
                 "t": "p",
-                "x": "デザイナーはピクセルをdiffせず、名前の付いたプロパティを確認する。そこでopen-sourceのMCPサーバーでありClaude Codeのスキルでもあるdesignfitは、デザイントークン(CIEDE2000による色、フォントサイズ、角丸)、画面ルート基準のジオメトリ、要素の有無を、それぞれ明示的な許容値で比較する。何度実行しても結果は同じだ。"
+                "x": "接続は承認ではない。インターフェースは「このツールは接続されている」と「この操作は現在のタスクで許可されている」を区別すべきだ。ツールではなく結果を示す。「Allow send_message?」ではなく、「添付のプロジェクト概要とともに、このメールを外部アドレスのAlexに送信しますか?」と尋ねるのだ。"
               },
               {
                 "t": "p",
-                "x": "designfit_extractはFigmaのREST APIから仕様を読み取り、designfit_validateは合否、スコア、fix-listを返す。360-nodeのダッシュボードでは3回の反復でスコアが87から100に上がり、誤ったノードに付いたタグも明らかになった。"
+                "x": "プレビューはエージェントの要約だけでなく、保留中のツール呼び出しそのものから組み立てる。承認は特定の操作に紐づけるべきで、宛先や添付ファイル、本文が変われば改めて確認する。警告には色だけでなく言葉が要る。「外部の受信者」「既存のファイルを上書き」といった具合だ。"
               },
               {
                 "t": "p",
-                "x": "バージョン0.2が検査するのはビューポート1つで、スペーシングトークンとmulti-breakpointの検査はロードマップにある。無料でMIT-licensed(MITライセンス)だ。"
+                "x": "確認を増やしても制御が強まるわけではない。タスクの開始時にわかりやすい境界を設定し、エージェントがそこから外れたときだけ尋ねる。チェックリストはアクセス、操作、対象、承認、変更だ。「『信じてくれ』は役に立つ承認画面ではない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "截图比对为何拖垮\nAI-built UIs",
-          "body": "与Figma比对时改看布局几何而非截图差异，可让编码代理不再反复空转。",
-          "mini_headline": "几何胜过截图",
+          "headline": "AI智能体行动前\n先展示将改动什么",
+          "body": "智能体权限提示应准确预览操作将改变什么，而不是只给一个Allow按钮。",
+          "mini_headline": "智能体行动前先预览",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "让编码代理对照Figma画框“做成一样”，它常常反复空转：一听到“还是不对”，就没完没了地微调。出问题的不是代理，而是比对方式。截图diff会把anti-aliasing、字体微调和sub-pixel取整都标为错误，于是分数来回摆动，始终无法收敛。"
+                "x": "123sudo（AI工作空间9xchat的开发商）联合创始人KAT从产品设计而非安全规范的角度写道：如果看不到某个操作会做什么，“Allow this action”就很难回答。"
               },
               {
                 "t": "p",
-                "x": "设计师不比对像素，而是检查有名称的属性。因此，作为open-source MCP服务器和Claude Code技能的designfit，会比对设计令牌（基于CIEDE2000的颜色、字号、圆角）、相对屏幕根节点的几何以及元素是否存在，每项都有明确的容差——每次运行结果都一致。"
+                "x": "已连接不等于已批准：界面应区分“这个工具已连接”和“这个操作在当前任务中被允许”。要展示结果，而不是工具——不是“Allow send_message?”，而是“将这封邮件连同附件中的项目简介发送给外部地址的Alex？”"
               },
               {
                 "t": "p",
-                "x": "designfit_extract从Figma的REST API读取规格；designfit_validate返回是否通过、分数和fix-list。在一个360-node的仪表盘上，它经过三次迭代将分数从87提升到100，并暴露出挂在错误节点上的标签。"
+                "x": "预览应基于待执行的工具调用本身来生成，而不只是智能体的摘要。批准应对应某个具体操作：如果收件人、附件或正文发生变化，就要再次询问。警告需要文字，而不只是颜色——“外部收件人”“覆盖现有文件”。"
               },
               {
                 "t": "p",
-                "x": "0.2版只检查一个视口；间距令牌和multi-breakpoint检查已列入路线图。它免费且MIT-licensed（采用MIT许可）。"
+                "x": "提示越多并不意味着控制越强：在任务开始时设定易于理解的边界，只在智能体越界时才询问。检查清单：访问、操作、对象、批准、变更。“‘相信我’不是有用的批准界面。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Por qué el diff de capturas\ndesestabiliza UIs AI-built",
-          "body": "Comparar la geometría en vez de capturas contra un frame de Figma evita que los agentes de código den vueltas.",
-          "mini_headline": "Geometría antes que capturas",
+          "headline": "Un agente de AI debe mostrar\nqué cambiará antes de actuar",
+          "body": "Los avisos de permiso de un agente deben mostrar con exactitud qué cambiará cada acción, no solo un botón Allow.",
+          "mini_headline": "Vista previa antes de actuar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsaq2exftpx1d0v7yj1bb.png"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
               },
               {
                 "t": "p",
-                "x": "Si se apunta un agente de código a un frame de Figma y se le pide “haz que coincida”, a menudo da vueltas: cuando le dicen “sigue mal”, ajusta sin fin. El agente no está roto; lo está la comparación. Los diffs de capturas marcan como errores el anti-aliasing, el hinting de fuentes y el redondeo sub-pixel, así que la puntuación oscila y nunca converge."
+                "x": "“Allow this action” es difícil de responder cuando no se ve qué hace la acción, escribe KAT, cofundador de 123sudo (creador del espacio de trabajo de AI 9xchat), desde una perspectiva de diseño de producto y no como especificación de seguridad."
               },
               {
                 "t": "p",
-                "x": "Los diseñadores no comparan píxeles; revisan propiedades con nombre. Por eso designfit, un servidor MCP open-source y skill de Claude Code, compara tokens de diseño (colores mediante CIEDE2000, tamaños de fuente, radios) y la geometría relativa a la raíz de la pantalla, además de la presencia de elementos, cada uno con tolerancias explícitas: determinista en cada ejecución."
+                "x": "Estar conectado no equivale a estar aprobado: una interfaz debe distinguir entre “esta herramienta está conectada” y “esta acción está permitida para la tarea actual”. Hay que mostrar el resultado, no la herramienta: no “Allow send_message?”, sino “¿Enviar este correo a Alex, en una dirección externa, con el resumen del proyecto adjunto?”"
               },
               {
                 "t": "p",
-                "x": "designfit_extract lee la especificación desde la REST API de Figma; designfit_validate devuelve aprobado, puntuación y una fix-list. En un dashboard de 360-node, puntuó tres iteraciones de 87 a 100 y expuso etiquetas en nodos equivocados."
+                "x": "La vista previa debe construirse a partir de la propia llamada a la herramienta pendiente, no solo del resumen del agente. La aprobación debe corresponder a una acción concreta: si cambian el destinatario, el adjunto o el cuerpo, hay que volver a preguntar. Las advertencias necesitan palabras, no solo colores: “Destinatario externo”, “Sobrescribe un archivo existente”."
               },
               {
                 "t": "p",
-                "x": "La versión 0.2 revisa un solo viewport; los tokens de espaciado y las comprobaciones multi-breakpoint están en la hoja de ruta. Es gratuito y MIT-licensed (con licencia MIT)."
+                "x": "Más avisos no significan más control: conviene fijar límites comprensibles al inicio de una tarea y preguntar solo cuando el agente se salga de ellos. Lista de verificación: acceso, acciones, destinos, aprobación, cambios. “‘Confía en mí’ no es una pantalla de aprobación útil.”"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "grok-imagine-vercel",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
+      "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
+      "mini_headline": "Grok 영상, Vercel 상륙",
+      "tool": "KeyShot",
+      "source": "Vercel",
+      "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+          },
+          {
+            "t": "p",
+            "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있게 됐다. 텍스트 프롬프트와 이미지를 넣으면 네이티브 오디오까지 담긴 영상을 뽑아 주는 경량 모델이다."
+          },
+          {
+            "t": "p",
+            "x": "해상도는 480p, 720p, 1080p, 클립 길이는 1초에서 15초까지다. 화면비 일곱 가지가 와이드스크린과 정사각형, 세로 형식을 아울러서 한 생성 워크플로 안에서 가로 장면도 세로 영상도 만들 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 이어 붙이면 정지 이미지를 만들고 거기에 움직임을 입히는 과정이 한 흐름으로 끝난다. AI Gateway Playground에서 바로 써 볼 수도 있다."
+          },
+          {
+            "t": "p",
+            "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 API 하나로 묶어 제공한다. 키는 AI Gateway API 키를 써도 되고, 이미 쓰는 제공업체 키를 가져와도 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Grok Imagine Video 1.5 Lite\narrives on Vercel AI Gateway",
+          "body": "xAI's Grok Imagine Video 1.5 Lite is now on Vercel AI Gateway, turning text and images into video with native audio.",
+          "mini_headline": "Grok video lands on Vercel",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio."
+              },
+              {
+                "t": "p",
+                "x": "The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so you can create horizontal scenes or vertical videos from the same generation workflow."
+              },
+              {
+                "t": "p",
+                "x": "To start generating videos, set the model to spacexai/grok-imagine-video-1.5-lite in the AI SDK or in the AI CLI. Chain an image model with Grok Imagine Video 1.5 Lite to create a still and animate it in one flow. You can also try it directly in the AI Gateway Playground."
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway provides one API for calling models, tracking usage and cost, and configuring routing, retries, and failover. You can use an AI Gateway API key or bring your own provider key."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
+          "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
+          "mini_headline": "Grok 영상, Vercel 상륙",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있게 됐다. 텍스트 프롬프트와 이미지를 넣으면 네이티브 오디오까지 담긴 영상을 뽑아 주는 경량 모델이다."
+              },
+              {
+                "t": "p",
+                "x": "해상도는 480p, 720p, 1080p, 클립 길이는 1초에서 15초까지다. 화면비 일곱 가지가 와이드스크린과 정사각형, 세로 형식을 아울러서 한 생성 워크플로 안에서 가로 장면도 세로 영상도 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 이어 붙이면 정지 이미지를 만들고 거기에 움직임을 입히는 과정이 한 흐름으로 끝난다. AI Gateway Playground에서 바로 써 볼 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 API 하나로 묶어 제공한다. 키는 AI Gateway API 키를 써도 되고, 이미 쓰는 제공업체 키를 가져와도 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grok動画1.5 Lite\nVercelに登場",
+          "body": "xAIのGrok Imagine Video 1.5 LiteがVercelに登場した。",
+          "mini_headline": "Grok動画がVercelに",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAIのGrok Imagine Video 1.5 LiteがAI Gatewayで利用可能になった。この軽量モデルは、テキストプロンプトと画像をネイティブ音声付きの動画に変換する。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルは480p、720p、1080pで1秒から15秒のクリップを生成する。七種類のアスペクト比がワイドスクリーン、正方形、縦型をカバーし、同じ生成ワークフローから横長のシーンも縦型動画も作れる。"
+              },
+              {
+                "t": "p",
+                "x": "動画生成を始めるには、AI SDKまたはAI CLIでモデルをspacexai/grok-imagine-video-1.5-liteに設定する。画像モデルとGrok Imagine Video 1.5 Liteをつなげば、静止画を作ってアニメーション化するまでを一つの流れで行える。AI Gateway Playgroundで直接試すこともできる。"
+              },
+              {
+                "t": "p",
+                "x": "AI Gatewayは、モデルの呼び出し、使用量とコストの追跡、ルーティングやリトライ、フェイルオーバーの設定を一つのAPIで提供する。AI GatewayのAPIキーを使うことも、自前のプロバイダーキーを持ち込むこともできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grok视频1.5 Lite\n登陆Vercel",
+          "body": "xAI的Grok Imagine Video 1.5 Lite现已登陆Vercel。",
+          "mini_headline": "Grok视频登陆Vercel",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAI的Grok Imagine Video 1.5 Lite现已在AI Gateway上线。这款轻量模型可将文本提示和图像转为带原生音频的视频。"
+              },
+              {
+                "t": "p",
+                "x": "该模型可生成1到15秒长的片段，分辨率为480p、720p和1080p。七种宽高比涵盖宽屏、方形和竖屏格式，因此可以在同一生成工作流中制作横向场景或竖屏视频。"
+              },
+              {
+                "t": "p",
+                "x": "要开始生成视频，在AI SDK或AI CLI中将模型设为spacexai/grok-imagine-video-1.5-lite即可。把图像模型与Grok Imagine Video 1.5 Lite串联，就能在一个流程中生成静态图并让它动起来。也可以直接在AI Gateway Playground中试用。"
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway提供一个API，用于调用模型、追踪用量和成本，以及配置路由、重试和故障转移。可以使用AI Gateway API密钥，也可以自带服务商密钥。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grok Imagine Video 1.5 Lite\nllega a Vercel AI Gateway",
+          "body": "Grok Imagine Video 1.5 Lite, de xAI, está en Vercel AI Gateway y convierte texto e imágenes en video con audio nativo.",
+          "mini_headline": "El video de Grok llega a Vercel",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "Grok Imagine Video 1.5 Lite, de xAI, ya está disponible en AI Gateway. Este modelo ligero convierte prompts de texto e imágenes en video con audio nativo."
+              },
+              {
+                "t": "p",
+                "x": "El modelo genera clips de 1 a 15 segundos en 480p, 720p y 1080p. Siete relaciones de aspecto cubren formatos panorámico, cuadrado y vertical, de modo que se pueden crear escenas horizontales o videos verticales desde el mismo flujo de generación."
+              },
+              {
+                "t": "p",
+                "x": "Para empezar a generar videos, configure el modelo como spacexai/grok-imagine-video-1.5-lite en el AI SDK o en el AI CLI. Encadene un modelo de imagen con Grok Imagine Video 1.5 Lite para crear una imagen fija y animarla en un solo flujo. También puede probarlo directamente en el AI Gateway Playground."
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway ofrece una sola API para llamar a modelos, hacer seguimiento del uso y el costo, y configurar el enrutamiento, los reintentos y la conmutación por error. Puede usar una clave de API de AI Gateway o traer su propia clave de proveedor."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Grok 1.5 Lite\nVercel에 들어왔다",
+          "body": "xAI의 Grok Imagine Video 1.5 Lite가 Vercel에 올랐다.",
+          "mini_headline": "Grok 영상, Vercel 상륙",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있다. 이 경량 모델은 텍스트 프롬프트와 이미지를 네이티브 오디오가 담긴 영상으로 바꾼다."
+              },
+              {
+                "t": "p",
+                "x": "이 모델은 480p, 720p, 1080p 해상도로 1초에서 15초 길이의 클립을 만든다. 일곱 가지 화면비가 와이드스크린, 정사각형, 세로 형식을 아우르므로 같은 생성 워크플로에서 가로 장면이나 세로 영상을 만들 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 연결하면 정지 이미지를 만들고 움직이게 하는 과정을 한 흐름으로 처리할 수 있다. AI Gateway Playground에서 바로 써 볼 수도 있다."
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 하나의 API로 제공한다. AI Gateway API 키를 쓰거나 자체 제공업체 키를 가져와 쓸 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Grok動画1.5 Lite\nVercelに登場",
+          "body": "xAIのGrok Imagine Video 1.5 LiteがVercelに登場した。",
+          "mini_headline": "Grok動画がVercelに",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAIのGrok Imagine Video 1.5 LiteがAI Gatewayで利用可能になった。この軽量モデルは、テキストプロンプトと画像をネイティブ音声付きの動画に変換する。"
+              },
+              {
+                "t": "p",
+                "x": "このモデルは480p、720p、1080pで1秒から15秒のクリップを生成する。七種類のアスペクト比がワイドスクリーン、正方形、縦型をカバーし、同じ生成ワークフローから横長のシーンも縦型動画も作れる。"
+              },
+              {
+                "t": "p",
+                "x": "動画生成を始めるには、AI SDKまたはAI CLIでモデルをspacexai/grok-imagine-video-1.5-liteに設定する。画像モデルとGrok Imagine Video 1.5 Liteをつなげば、静止画を作ってアニメーション化するまでを一つの流れで行える。AI Gateway Playgroundで直接試すこともできる。"
+              },
+              {
+                "t": "p",
+                "x": "AI Gatewayは、モデルの呼び出し、使用量とコストの追跡、ルーティングやリトライ、フェイルオーバーの設定を一つのAPIで提供する。AI GatewayのAPIキーを使うことも、自前のプロバイダーキーを持ち込むこともできる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Grok视频1.5 Lite\n登陆Vercel",
+          "body": "xAI的Grok Imagine Video 1.5 Lite现已登陆Vercel。",
+          "mini_headline": "Grok视频登陆Vercel",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "xAI的Grok Imagine Video 1.5 Lite现已在AI Gateway上线。这款轻量模型可将文本提示和图像转为带原生音频的视频。"
+              },
+              {
+                "t": "p",
+                "x": "该模型可生成1到15秒长的片段，分辨率为480p、720p和1080p。七种宽高比涵盖宽屏、方形和竖屏格式，因此可以在同一生成工作流中制作横向场景或竖屏视频。"
+              },
+              {
+                "t": "p",
+                "x": "要开始生成视频，在AI SDK或AI CLI中将模型设为spacexai/grok-imagine-video-1.5-lite即可。把图像模型与Grok Imagine Video 1.5 Lite串联，就能在一个流程中生成静态图并让它动起来。也可以直接在AI Gateway Playground中试用。"
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway提供一个API，用于调用模型、追踪用量和成本，以及配置路由、重试和故障转移。可以使用AI Gateway API密钥，也可以自带服务商密钥。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Grok Imagine Video 1.5 Lite\nllega a Vercel AI Gateway",
+          "body": "Grok Imagine Video 1.5 Lite, de xAI, está en Vercel AI Gateway y convierte texto e imágenes en video con audio nativo.",
+          "mini_headline": "El video de Grok llega a Vercel",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+              },
+              {
+                "t": "p",
+                "x": "Grok Imagine Video 1.5 Lite, de xAI, ya está disponible en AI Gateway. Este modelo ligero convierte prompts de texto e imágenes en video con audio nativo."
+              },
+              {
+                "t": "p",
+                "x": "El modelo genera clips de 1 a 15 segundos en 480p, 720p y 1080p. Siete relaciones de aspecto cubren formatos panorámico, cuadrado y vertical, de modo que se pueden crear escenas horizontales o videos verticales desde el mismo flujo de generación."
+              },
+              {
+                "t": "p",
+                "x": "Para empezar a generar videos, configure el modelo como spacexai/grok-imagine-video-1.5-lite en el AI SDK o en el AI CLI. Encadene un modelo de imagen con Grok Imagine Video 1.5 Lite para crear una imagen fija y animarla en un solo flujo. También puede probarlo directamente en el AI Gateway Playground."
+              },
+              {
+                "t": "p",
+                "x": "AI Gateway ofrece una sola API para llamar a modelos, hacer seguimiento del uso y el costo, y configurar el enrutamiento, los reintentos y la conmutación por error. Puede usar una clave de API de AI Gateway o traer su propia clave de proveedor."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "atlas-hand-sim",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Atlas의 새 손은\n시뮬레이션부터 생각했다",
+      "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
+      "mini_headline": "시뮬레이션용 Atlas 손",
+      "tool": "Text-to-CAD",
+      "source": "The Robot Report",
+      "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Boston Dynamics가 새로 내놓은 네 손가락 Atlas 손은 자유도 13에 직접 구동 방식이고, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습에 쓰려고 고충실도 시뮬레이션에 맞춰 만들었다고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄졌고, 관절을 가로지르는 약한 케이블도 없다. 이전 손은 100 lb.-plus 물체도 들었으니, 이번엔 힘을 조금 내주고 구동 투명성을 얻었다."
+          },
+          {
+            "t": "video",
+            "yt": "4whgw2gLBS8"
+          },
+          {
+            "t": "p",
+            "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 작업들과 핵심 엄지 동작에서 뽑았다. 엄지를 두 개 다는 설계는 늘어나는 DoFs와 비용, 부피 때문에 접었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+          },
+          {
+            "t": "p",
+            "x": "구동부가 역구동되고 마찰 보상도 들어가 있어 동역학을 정확히 시뮬레이션할 수 있다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션에서 학습한 RL이 집어 옮기는 수준을 넘어 복잡한 손재주까지 열어 주리라 본다. 본사에선 이미 널리 쓰이지만 아직 로봇 군단 전체에 깔리진 않았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Boston Dynamics built Atlas's\nhand to be simulated",
+          "body": "Atlas's new hand was designed for high-fidelity simulation to enable sim-to-real reinforcement learning.",
+          "mini_headline": "Atlas hand, built for sim",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamics’ new four-fingered Atlas hand has 13 degrees of freedom, is directly actuated and was designed for mass manufacturing. It drops the pinky, shrinks the gripper and was built for high-fidelity simulation to enable sim-to-real reinforcement learning, Alberto Rodriguez, director of robot behavior for Atlas, told The Robot Report."
+              },
+              {
+                "t": "p",
+                "x": "It is built from 13 identical, fully encapsulated actuators with no fragile cables crossing joints. Earlier hands could lift 100 lb.-plus objects, so strength was traded down slightly for actuation transparency."
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "Requirements came from a suite of tasks — power tools, cables, fishing for screws — and key thumb motions. A two-thumb design was dropped for its extra DoFs, cost and volume."
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Backdrivable actuation plus friction compensation enables accurate dynamic simulation: “Build actuators that simulate well, and then rely on RL at scale.” Rodriguez expects RL in simulation to unlock complex dexterity beyond pick and place. The hands are used extensively at headquarters but not yet deployed across the fleet."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Atlas의 새 손은\n시뮬레이션부터 생각했다",
+          "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
+          "mini_headline": "시뮬레이션용 Atlas 손",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamics가 새로 내놓은 네 손가락 Atlas 손은 자유도 13에 직접 구동 방식이고, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습에 쓰려고 고충실도 시뮬레이션에 맞춰 만들었다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄졌고, 관절을 가로지르는 약한 케이블도 없다. 이전 손은 100 lb.-plus 물체도 들었으니, 이번엔 힘을 조금 내주고 구동 투명성을 얻었다."
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 작업들과 핵심 엄지 동작에서 뽑았다. 엄지를 두 개 다는 설계는 늘어나는 DoFs와 비용, 부피 때문에 접었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "구동부가 역구동되고 마찰 보상도 들어가 있어 동역학을 정확히 시뮬레이션할 수 있다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션에서 학습한 RL이 집어 옮기는 수준을 넘어 복잡한 손재주까지 열어 주리라 본다. 본사에선 이미 널리 쓰이지만 아직 로봇 군단 전체에 깔리진 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Atlasの新しい手は\nシミュレーション前提で設計",
+          "body": "Atlasの手は、sim-to-real強化学習に向けシミュレーション前提で設計された。",
+          "mini_headline": "シミュレーション向けのAtlasの手",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamicsの新しい四本指のAtlasハンドは、自由度13で直接駆動式、量産を見据えて設計されている。Atlasのロボット行動担当ディレクター、Alberto RodriguezがThe Robot Reportに語ったところでは、小指をなくし、グリッパーを小型化し、sim-to-real強化学習を可能にする高忠実度シミュレーションに向けて作られたという。"
+              },
+              {
+                "t": "p",
+                "x": "同一の完全密閉型アクチュエーター13個で構成され、関節をまたぐ壊れやすいケーブルはない。以前のハンドは100 lb.-plusの物体を持ち上げられたため、駆動の透明性と引き換えに力をわずかに落とした。"
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "要件は、電動工具やケーブル、ネジを探り取る作業といった一連のタスクと、主要な親指の動きから導いた。親指二本の設計は、DoFsの増加、コスト、容積を理由に見送った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "バックドライブ可能な駆動と摩擦補償によって、正確な動力学シミュレーションが可能になる。「シミュレーションしやすいアクチュエーターを作り、あとは大規模なRLに頼る」。Rodriguezは、シミュレーション内のRLがピック・アンド・プレースを超える複雑な器用さを引き出すと見ている。ハンドは本社で広く使われているが、まだフリート全体には展開されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Atlas新款手部\n专为仿真而设计",
+          "body": "Atlas的新款手部专为高保真仿真设计，以实现sim-to-real强化学习。",
+          "mini_headline": "为仿真而生的Atlas手部",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamics的新款四指Atlas手部拥有13个自由度，采用直接驱动，并为大规模量产而设计。Atlas机器人行为总监Alberto Rodriguez告诉The Robot Report，这款手去掉了小指，缩小了夹持器，并为高保真仿真而打造，以实现sim-to-real强化学习。"
+              },
+              {
+                "t": "p",
+                "x": "它由13个相同的全封闭执行器构成，没有跨越关节的脆弱线缆。早期的手部能举起100 lb.-plus的物体，因此为换取驱动透明度，力量略有下调。"
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "需求来自一系列任务——电动工具、线缆、摸取螺丝——以及关键的拇指动作。双拇指设计因额外的DoFs、成本和体积而被放弃。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "可反向驱动的执行方式加上摩擦补偿，使精确的动力学仿真成为可能：“打造便于仿真的执行器，然后依靠大规模RL。”Rodriguez预计，仿真中的RL将解锁超越抓取放置的复杂灵巧操作。这些手部已在总部大量使用，但尚未在整个机队部署。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Boston Dynamics diseñó la mano\nde Atlas para simularla",
+          "body": "La nueva mano de Atlas se diseñó para simular con alta fidelidad y habilitar el aprendizaje por refuerzo sim-to-real.",
+          "mini_headline": "La mano de Atlas, hecha para simular",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La nueva mano de cuatro dedos de Atlas, de Boston Dynamics, tiene 13 grados de libertad, es de accionamiento directo y se diseñó para fabricarse en masa. Prescinde del meñique, reduce la pinza y se construyó para una simulación de alta fidelidad que permita el aprendizaje por refuerzo sim-to-real, explicó a The Robot Report Alberto Rodriguez, director de comportamiento robótico de Atlas."
+              },
+              {
+                "t": "p",
+                "x": "Está formada por 13 actuadores idénticos y totalmente encapsulados, sin cables frágiles que crucen las articulaciones. Las manos anteriores podían levantar objetos de 100 lb.-plus, así que se rebajó ligeramente la fuerza a cambio de transparencia en el accionamiento."
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "Los requisitos surgieron de un conjunto de tareas —herramientas eléctricas, cables, buscar tornillos a tientas— y de movimientos clave del pulgar. Se descartó un diseño de dos pulgares por sus DoFs adicionales, su costo y su volumen."
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El accionamiento reversible, junto con la compensación de fricción, permite una simulación dinámica precisa: “Construir actuadores que se simulen bien y luego confiar en RL a escala”. Rodriguez espera que el RL en simulación desbloquee una destreza compleja más allá de tomar y colocar. Las manos se usan ampliamente en la sede, pero aún no se han desplegado en toda la flota."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Atlas의 새 손은\n시뮬레이션을 위해 설계됐다",
+          "body": "Atlas 손은 sim-to-real 강화학습용으로 시뮬레이션에 맞춰 설계됐다.",
+          "mini_headline": "시뮬레이션용 Atlas 손",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamics의 새 네 손가락 Atlas 손은 자유도가 13이고, 직접 구동 방식이며, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 이 손이 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습을 위해 고충실도 시뮬레이션에 맞춰 만들었다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄지며, 관절을 가로지르는 취약한 케이블이 없다. 이전 손은 100 lb.-plus 물체를 들 수 있었기에, 구동 투명성을 얻는 대신 힘을 약간 낮췄다."
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 일련의 작업과 핵심 엄지 동작에서 나왔다. 엄지 두 개 설계는 추가 DoFs와 비용, 부피 때문에 제외했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "역구동이 가능한 구동 방식과 마찰 보상 덕분에 정확한 동역학 시뮬레이션이 가능하다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션 속 RL이 집어서 옮기기를 넘어 복잡한 손재주를 열어 줄 것으로 본다. 이 손은 본사에서 폭넓게 쓰이지만 아직 전체 로봇 군단에 배치되지는 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Atlasの新しい手は\nシミュレーション前提で設計",
+          "body": "Atlasの手は、sim-to-real強化学習に向けシミュレーション前提で設計された。",
+          "mini_headline": "シミュレーション向けのAtlasの手",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamicsの新しい四本指のAtlasハンドは、自由度13で直接駆動式、量産を見据えて設計されている。Atlasのロボット行動担当ディレクター、Alberto RodriguezがThe Robot Reportに語ったところでは、小指をなくし、グリッパーを小型化し、sim-to-real強化学習を可能にする高忠実度シミュレーションに向けて作られたという。"
+              },
+              {
+                "t": "p",
+                "x": "同一の完全密閉型アクチュエーター13個で構成され、関節をまたぐ壊れやすいケーブルはない。以前のハンドは100 lb.-plusの物体を持ち上げられたため、駆動の透明性と引き換えに力をわずかに落とした。"
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "要件は、電動工具やケーブル、ネジを探り取る作業といった一連のタスクと、主要な親指の動きから導いた。親指二本の設計は、DoFsの増加、コスト、容積を理由に見送った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "バックドライブ可能な駆動と摩擦補償によって、正確な動力学シミュレーションが可能になる。「シミュレーションしやすいアクチュエーターを作り、あとは大規模なRLに頼る」。Rodriguezは、シミュレーション内のRLがピック・アンド・プレースを超える複雑な器用さを引き出すと見ている。ハンドは本社で広く使われているが、まだフリート全体には展開されていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Atlas新款手部\n专为仿真而设计",
+          "body": "Atlas的新款手部专为高保真仿真设计，以实现sim-to-real强化学习。",
+          "mini_headline": "为仿真而生的Atlas手部",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boston Dynamics的新款四指Atlas手部拥有13个自由度，采用直接驱动，并为大规模量产而设计。Atlas机器人行为总监Alberto Rodriguez告诉The Robot Report，这款手去掉了小指，缩小了夹持器，并为高保真仿真而打造，以实现sim-to-real强化学习。"
+              },
+              {
+                "t": "p",
+                "x": "它由13个相同的全封闭执行器构成，没有跨越关节的脆弱线缆。早期的手部能举起100 lb.-plus的物体，因此为换取驱动透明度，力量略有下调。"
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "需求来自一系列任务——电动工具、线缆、摸取螺丝——以及关键的拇指动作。双拇指设计因额外的DoFs、成本和体积而被放弃。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "可反向驱动的执行方式加上摩擦补偿，使精确的动力学仿真成为可能：“打造便于仿真的执行器，然后依靠大规模RL。”Rodriguez预计，仿真中的RL将解锁超越抓取放置的复杂灵巧操作。这些手部已在总部大量使用，但尚未在整个机队部署。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Boston Dynamics diseñó la mano\nde Atlas para simularla",
+          "body": "La nueva mano de Atlas se diseñó para simular con alta fidelidad y habilitar el aprendizaje por refuerzo sim-to-real.",
+          "mini_headline": "La mano de Atlas, hecha para simular",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "La nueva mano de cuatro dedos de Atlas, de Boston Dynamics, tiene 13 grados de libertad, es de accionamiento directo y se diseñó para fabricarse en masa. Prescinde del meñique, reduce la pinza y se construyó para una simulación de alta fidelidad que permita el aprendizaje por refuerzo sim-to-real, explicó a The Robot Report Alberto Rodriguez, director de comportamiento robótico de Atlas."
+              },
+              {
+                "t": "p",
+                "x": "Está formada por 13 actuadores idénticos y totalmente encapsulados, sin cables frágiles que crucen las articulaciones. Las manos anteriores podían levantar objetos de 100 lb.-plus, así que se rebajó ligeramente la fuerza a cambio de transparencia en el accionamiento."
+              },
+              {
+                "t": "video",
+                "yt": "4whgw2gLBS8"
+              },
+              {
+                "t": "p",
+                "x": "Los requisitos surgieron de un conjunto de tareas —herramientas eléctricas, cables, buscar tornillos a tientas— y de movimientos clave del pulgar. Se descartó un diseño de dos pulgares por sus DoFs adicionales, su costo y su volumen."
+              },
+              {
+                "t": "img",
+                "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El accionamiento reversible, junto con la compensación de fricción, permite una simulación dinámica precisa: “Construir actuadores que se simulen bien y luego confiar en RL a escala”. Rodriguez espera que el RL en simulación desbloquee una destreza compleja más allá de tomar y colocar. Las manos se usan ampliamente en la sede, pero aún no se han desplegado en toda la flota."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "figma-ai-team-rituals",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
+      "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 키운다.",
+      "mini_headline": "AI 도입을 돕는 팀 습관",
+      "tool": "AI Workflow",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "히어로 일러스트: James Marshall"
+          },
+          {
+            "t": "p",
+            "x": "AI 효과를 개인 생산성에서 팀 전체 성과로 끌어올리려면 사람들이 지금 서 있는 자리에서 시작해야 한다. 그러려면 동료끼리 돕는 포럼이 팀에 있어야 한다. 초보자든 숙련자든 부담 없이 AI 기술을 배우고 연습하고 다듬는 자리다. 사례 네 가지를 살펴본다."
+          },
+          {
+            "t": "p",
+            "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션과 세션 사이엔 Slack으로 이어갔다. 템플릿이 권한 구성은 강의 20분, 실습 40분이다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "Sephora는 실패한 시도까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만든 것을 내보이는 격주 포럼을 연다. 초기 세션엔 매끈하게 다듬은 결과물만 올라왔다. 그래서 이제 발표자는 무엇을 시도했고 무엇이 안 됐는지까지 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+            "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
+          },
+          {
+            "t": "p",
+            "x": "Mercari는 직군을 넘나들며 서로 가르친다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+          },
+          {
+            "t": "p",
+            "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입 먼저, 설명은 나중이라는 규칙을 세웠다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Four team rituals that\ndrive AI adoption",
+          "body": "Teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers get real value from AI.",
+          "mini_headline": "Team rituals for AI adoption",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Hero illustration by James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Teams need forums centered on peer support where both beginners and skilled practitioners can learn, practice, and refine AI skills in a low-pressure environment. Here are four examples."
+              },
+              {
+                "t": "p",
+                "x": "Figma runs peer-led study groups. Design operations manager Jake Geller launched a pilot called “AI Collective”: five peer-led groups organized by topics designers chose, meeting one hour a week over six weeks, with Slack between sessions and a template suggesting 20 minutes of teaching and 40 minutes of practice."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora shares what didn’t work. Sneha Narahalli, SVP of technology, hosts a biweekly forum where builders share what they’re building with AI. Early sessions showed only polished work, so presenters now walk through the process, including what they tried and what didn’t work. “Hearing from a peer and seeing how it makes their life easier is way more powerful than top-down messaging,” she says."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli, Senior Vice President of Technology, Sephora"
+              },
+              {
+                "t": "p",
+                "x": "Mercari cross-trains across functions. Principal Designer Aki Alkhatib’s team runs hands-on sessions where designers learn engineering fundamentals, like using an AI coding tool and setting up a GitHub repository, and developers learn design principles like visual hierarchy."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian opens every crit with a prototype. Chief Design Officer Charlie Sutton adopted a rule: show the prototype first and explain it afterward. “Sometimes, simple rules are what make complex changes possible,” he says."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
+          "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 키운다.",
+          "mini_headline": "AI 도입을 돕는 팀 습관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "히어로 일러스트: James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "AI 효과를 개인 생산성에서 팀 전체 성과로 끌어올리려면 사람들이 지금 서 있는 자리에서 시작해야 한다. 그러려면 동료끼리 돕는 포럼이 팀에 있어야 한다. 초보자든 숙련자든 부담 없이 AI 기술을 배우고 연습하고 다듬는 자리다. 사례 네 가지를 살펴본다."
+              },
+              {
+                "t": "p",
+                "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션과 세션 사이엔 Slack으로 이어갔다. 템플릿이 권한 구성은 강의 20분, 실습 40분이다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora는 실패한 시도까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만든 것을 내보이는 격주 포럼을 연다. 초기 세션엔 매끈하게 다듬은 결과물만 올라왔다. 그래서 이제 발표자는 무엇을 시도했고 무엇이 안 됐는지까지 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
+              },
+              {
+                "t": "p",
+                "x": "Mercari는 직군을 넘나들며 서로 가르친다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입 먼저, 설명은 나중이라는 규칙을 세웠다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI導入を後押しする\n四つのチーム習慣",
+          "body": "Figma、Mercari、Atlassian、SephoraはAI活用の習慣を築く。",
+          "mini_headline": "AI導入のためのチーム習慣",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "ヒーローイラスト：James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "AIの効果を個人の生産性向上からチーム全体の成果へと引き上げるには、一人ひとりの今の状況に寄り添う必要がある。チームには、初心者も熟練者もプレッシャーの少ない環境でAIスキルを学び、練習し、磨ける、仲間同士の支え合いを軸にした場が要る。ここでは四つの例を紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaは仲間主導の勉強会を運営している。デザインオペレーションマネージャーのJake Gellerは「AI Collective」というパイロットを立ち上げた。デザイナーが選んだテーマごとに仲間が率いる五つのグループを組み、六週間にわたり週一時間集まり、セッションの合間はSlackでやり取りした。テンプレートは講義20分、実践40分を勧めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephoraはうまくいかなかったことも共有する。テクノロジー担当SVPのSneha Narahalliは、作り手がAIで作っているものを共有する隔週のフォーラムを主催している。初期のセッションでは完成度の高い成果しか示されなかったため、今では発表者が試したことやうまくいかなかったことを含めてプロセスを説明する。「仲間から直接聞き、それが仲間の仕事をどれだけ楽にしているかを見るほうが、トップダウンのメッセージよりはるかに力がある」と彼女は言う。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli(Sephora、Senior Vice President of Technology)"
+              },
+              {
+                "t": "p",
+                "x": "Mercariは職種を越えたクロストレーニングを行う。Principal DesignerのAki Alkhatibのチームは実践型セッションを開き、デザイナーはAIコーディングツールの使い方やGitHubリポジトリの設定といったエンジニアリングの基礎を、開発者は視覚的階層のようなデザイン原則を学ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassianはすべてのクリティークをプロトタイプから始める。Chief Design OfficerのCharlie Suttonは、まずプロトタイプを見せ、説明は後にするというルールを採用した。「シンプルなルールこそが複雑な変化を可能にすることもある」と彼は言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "推动AI落地的\n四个团队惯例",
+          "body": "Figma、Mercari、Atlassian和Sephora的团队正养成善用AI的习惯。",
+          "mini_headline": "推动AI落地的团队惯例",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "头图插画：James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "要把AI的影响从个人生产力提升扩展为整个团队的成果，就需要从人们所处的实际情况出发。团队需要以同伴支持为核心的交流平台，让新手和熟练者都能在低压力的环境中学习、练习并精进AI技能。以下是四个例子。"
+              },
+              {
+                "t": "p",
+                "x": "Figma开展同伴主导的学习小组。设计运营经理Jake Geller发起了名为“AI Collective”的试点：按设计师自选的主题组建五个同伴主导的小组，在六周内每周聚会一小时，会议间隙通过Slack交流，并提供模板，建议20分钟讲授、40分钟实践。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora分享行不通的做法。技术SVP Sneha Narahalli主持一个双周论坛，让构建者分享他们正在用AI做的东西。早期的分享只展示打磨好的成果，所以现在演示者会讲解整个过程，包括尝试过什么、哪些没奏效。她说：“听同伴讲述，看到它如何让对方的工作更轻松，远比自上而下的宣导更有力量。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli，Sephora技术高级副总裁（Senior Vice President of Technology）"
+              },
+              {
+                "t": "p",
+                "x": "Mercari推行跨职能交叉培训。首席设计师（Principal Designer）Aki Alkhatib的团队举办实操课程：设计师学习工程基础，例如使用AI编程工具、创建GitHub仓库；开发者学习视觉层级等设计原则。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian的每次设计评审都从原型开始。首席设计官（Chief Design Officer）Charlie Sutton定下一条规则：先展示原型，再做解释。他说：“有时候，正是简单的规则让复杂的变革成为可能。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cuatro rituales de equipo que\nimpulsan la adopción de AI",
+          "body": "Equipos de Figma, Mercari, Atlassian y Sephora crean hábitos que ayudan a los diseñadores a sacar valor real de la AI.",
+          "mini_headline": "Rituales de equipo para adoptar la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Ilustración principal de James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "Llevar el impacto de la AI de las mejoras de productividad individual a logros de todo el equipo exige partir de donde está cada persona. Los equipos necesitan foros centrados en el apoyo entre pares, donde tanto principiantes como profesionales expertos puedan aprender, practicar y perfeccionar sus habilidades de AI en un entorno de baja presión. Estos son cuatro ejemplos."
+              },
+              {
+                "t": "p",
+                "x": "Figma organiza grupos de estudio dirigidos por pares. Jake Geller, gerente de operaciones de diseño, lanzó un piloto llamado “AI Collective”: cinco grupos dirigidos por pares, organizados según temas elegidos por los diseñadores, que se reunieron una hora por semana durante seis semanas, con Slack entre sesiones y una plantilla que sugería 20 minutos de enseñanza y 40 minutos de práctica."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora comparte lo que no funcionó. Sneha Narahalli, SVP de tecnología, organiza un foro quincenal donde los creadores muestran lo que están construyendo con AI. Las primeras sesiones solo mostraban trabajo pulido, así que ahora los presentadores recorren el proceso, incluido lo que probaron y lo que no funcionó. “Escuchar a un compañero y ver cómo eso le facilita la vida es mucho más poderoso que los mensajes de arriba abajo”, afirma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli, vicepresidenta sénior de Tecnología (Senior Vice President of Technology), Sephora"
+              },
+              {
+                "t": "p",
+                "x": "Mercari forma a sus equipos de manera cruzada entre funciones. El equipo de Aki Alkhatib, Principal Designer, organiza sesiones prácticas en las que los diseñadores aprenden fundamentos de ingeniería, como usar una herramienta de programación con AI y configurar un repositorio de GitHub, y los desarrolladores aprenden principios de diseño como la jerarquía visual."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian abre cada crítica con un prototipo. Charlie Sutton, Chief Design Officer, adoptó una regla: mostrar primero el prototipo y explicarlo después. “A veces, las reglas simples son las que hacen posibles los cambios complejos”, dice."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 도입을 이끄는\n네 가지 팀 습관",
+          "body": "Figma·Mercari·Atlassian·Sephora는 AI 습관을 만든다.",
+          "mini_headline": "AI 도입을 돕는 팀 습관",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "히어로 일러스트: James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "AI의 효과를 개인의 생산성 향상에서 팀 전체의 성과로 끌어올리려면 사람들이 지금 있는 자리에서 출발해야 한다. 팀에는 동료 지원을 중심에 둔 포럼이 필요하다. 초보자와 숙련자 모두 부담 없는 환경에서 AI 기술을 배우고, 연습하고, 다듬을 수 있는 곳이다. 네 가지 사례를 소개한다."
+              },
+              {
+                "t": "p",
+                "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션 사이에는 Slack을 썼다. 템플릿은 강의 20분, 실습 40분을 권했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora는 통하지 않은 것까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만드는 것을 공유하는 격주 포럼을 연다. 초기 세션에서는 다듬어진 결과물만 나왔기에, 이제 발표자는 시도한 것과 통하지 않은 것을 포함해 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
+              },
+              {
+                "t": "p",
+                "x": "Mercari는 직군을 넘나드는 교차 교육을 한다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입을 먼저 보여주고 설명은 나중에 한다는 규칙을 도입했다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI導入を後押しする\n四つのチーム習慣",
+          "body": "Figma、Mercari、Atlassian、SephoraはAI活用の習慣を築く。",
+          "mini_headline": "AI導入のためのチーム習慣",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "ヒーローイラスト：James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "AIの効果を個人の生産性向上からチーム全体の成果へと引き上げるには、一人ひとりの今の状況に寄り添う必要がある。チームには、初心者も熟練者もプレッシャーの少ない環境でAIスキルを学び、練習し、磨ける、仲間同士の支え合いを軸にした場が要る。ここでは四つの例を紹介する。"
+              },
+              {
+                "t": "p",
+                "x": "Figmaは仲間主導の勉強会を運営している。デザインオペレーションマネージャーのJake Gellerは「AI Collective」というパイロットを立ち上げた。デザイナーが選んだテーマごとに仲間が率いる五つのグループを組み、六週間にわたり週一時間集まり、セッションの合間はSlackでやり取りした。テンプレートは講義20分、実践40分を勧めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephoraはうまくいかなかったことも共有する。テクノロジー担当SVPのSneha Narahalliは、作り手がAIで作っているものを共有する隔週のフォーラムを主催している。初期のセッションでは完成度の高い成果しか示されなかったため、今では発表者が試したことやうまくいかなかったことを含めてプロセスを説明する。「仲間から直接聞き、それが仲間の仕事をどれだけ楽にしているかを見るほうが、トップダウンのメッセージよりはるかに力がある」と彼女は言う。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli(Sephora、Senior Vice President of Technology)"
+              },
+              {
+                "t": "p",
+                "x": "Mercariは職種を越えたクロストレーニングを行う。Principal DesignerのAki Alkhatibのチームは実践型セッションを開き、デザイナーはAIコーディングツールの使い方やGitHubリポジトリの設定といったエンジニアリングの基礎を、開発者は視覚的階層のようなデザイン原則を学ぶ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassianはすべてのクリティークをプロトタイプから始める。Chief Design OfficerのCharlie Suttonは、まずプロトタイプを見せ、説明は後にするというルールを採用した。「シンプルなルールこそが複雑な変化を可能にすることもある」と彼は言う。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "推动AI落地的\n四个团队惯例",
+          "body": "Figma、Mercari、Atlassian和Sephora的团队正养成善用AI的习惯。",
+          "mini_headline": "推动AI落地的团队惯例",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "头图插画：James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "要把AI的影响从个人生产力提升扩展为整个团队的成果，就需要从人们所处的实际情况出发。团队需要以同伴支持为核心的交流平台，让新手和熟练者都能在低压力的环境中学习、练习并精进AI技能。以下是四个例子。"
+              },
+              {
+                "t": "p",
+                "x": "Figma开展同伴主导的学习小组。设计运营经理Jake Geller发起了名为“AI Collective”的试点：按设计师自选的主题组建五个同伴主导的小组，在六周内每周聚会一小时，会议间隙通过Slack交流，并提供模板，建议20分钟讲授、40分钟实践。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora分享行不通的做法。技术SVP Sneha Narahalli主持一个双周论坛，让构建者分享他们正在用AI做的东西。早期的分享只展示打磨好的成果，所以现在演示者会讲解整个过程，包括尝试过什么、哪些没奏效。她说：“听同伴讲述，看到它如何让对方的工作更轻松，远比自上而下的宣导更有力量。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli，Sephora技术高级副总裁（Senior Vice President of Technology）"
+              },
+              {
+                "t": "p",
+                "x": "Mercari推行跨职能交叉培训。首席设计师（Principal Designer）Aki Alkhatib的团队举办实操课程：设计师学习工程基础，例如使用AI编程工具、创建GitHub仓库；开发者学习视觉层级等设计原则。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian的每次设计评审都从原型开始。首席设计官（Chief Design Officer）Charlie Sutton定下一条规则：先展示原型，再做解释。他说：“有时候，正是简单的规则让复杂的变革成为可能。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Cuatro rituales de equipo que\nimpulsan la adopción de AI",
+          "body": "Equipos de Figma, Mercari, Atlassian y Sephora crean hábitos que ayudan a los diseñadores a sacar valor real de la AI.",
+          "mini_headline": "Rituales de equipo para adoptar la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+                "cap": "Ilustración principal de James Marshall"
+              },
+              {
+                "t": "p",
+                "x": "Llevar el impacto de la AI de las mejoras de productividad individual a logros de todo el equipo exige partir de donde está cada persona. Los equipos necesitan foros centrados en el apoyo entre pares, donde tanto principiantes como profesionales expertos puedan aprender, practicar y perfeccionar sus habilidades de AI en un entorno de baja presión. Estos son cuatro ejemplos."
+              },
+              {
+                "t": "p",
+                "x": "Figma organiza grupos de estudio dirigidos por pares. Jake Geller, gerente de operaciones de diseño, lanzó un piloto llamado “AI Collective”: cinco grupos dirigidos por pares, organizados según temas elegidos por los diseñadores, que se reunieron una hora por semana durante seis semanas, con Slack entre sesiones y una plantilla que sugería 20 minutos de enseñanza y 40 minutos de práctica."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Sephora comparte lo que no funcionó. Sneha Narahalli, SVP de tecnología, organiza un foro quincenal donde los creadores muestran lo que están construyendo con AI. Las primeras sesiones solo mostraban trabajo pulido, así que ahora los presentadores recorren el proceso, incluido lo que probaron y lo que no funcionó. “Escuchar a un compañero y ver cómo eso le facilita la vida es mucho más poderoso que los mensajes de arriba abajo”, afirma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+                "cap": "Sneha Narahalli, vicepresidenta sénior de Tecnología (Senior Vice President of Technology), Sephora"
+              },
+              {
+                "t": "p",
+                "x": "Mercari forma a sus equipos de manera cruzada entre funciones. El equipo de Aki Alkhatib, Principal Designer, organiza sesiones prácticas en las que los diseñadores aprenden fundamentos de ingeniería, como usar una herramienta de programación con AI y configurar un repositorio de GitHub, y los desarrolladores aprenden principios de diseño como la jerarquía visual."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+              },
+              {
+                "t": "p",
+                "x": "Atlassian abre cada crítica con un prototipo. Charlie Sutton, Chief Design Officer, adoptó una regla: mostrar primero el prototipo y explicarlo después. “A veces, las reglas simples son las que hacen posibles los cambios complejos”, dice."
               }
             ]
           }

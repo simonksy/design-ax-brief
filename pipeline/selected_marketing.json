@@ -1,95 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "marketing",
+  "picks": [
+    {
+      "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+      "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-08T20:21:53.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+      "excerpt": "HUMAN Security says Meta's Muse drives 72% of AI-agent web requests, 84% aimed at product/search pages and 25% likelier to reach checkout - a measurement problem for advertisers and retailers.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#ff8a3d",
+      "motif": "frame",
+      "rationale": "Hard numbers on AI shopping-agent traffic reaching product pages and checkout; it changes how marketers read their site analytics and attribution."
+    },
+    {
+      "url": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+      "title": "As agencies push agentic media future, execs work to ward off client rogue fears",
+      "source": "Digiday",
+      "category": "marketing",
+      "published_iso": "2026-10-08T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg",
+      "excerpt": "Dentsu/Carat's NBCU-Freewheel-Newton buying agent, Tinuiti's Bliss Point MCP server and Stagwell's Machine OS push agentic media buying while agencies manage client fears of rogue agents.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Names the concrete agentic buying products agencies are deploying (Carat agent, Tinuiti MCP server, Stagwell Machine OS) and the guardrails clients demand."
+    },
+    {
+      "url": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+      "title": "Google optimises its own revenue. Advertisers have to optimise theirs",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-10T07:53:29.000Z",
+      "og_image": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+      "excerpt": "Analysis of AI Max for Search auto-upgrades, Smart Bidding target behavior and 383M-impression match-type data: Google's AI claims fell from 14% to 7% more conversions.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "Data-backed look at AI Max and Smart Bidding (383M impressions; Google's own uplift claim halved from 14% to 7%), with direct implications for search bidding setups."
+    },
+    {
+      "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk",
+      "source": "Search Engine Journal",
+      "category": "marketing",
+      "published_iso": "2026-10-08T19:00:44+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png",
+      "excerpt": "Google and Meta AI defaults that auto-alter approved creative or expand audiences can break compliance in regulated ad categories; what to audit.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Actionable audit list for the Google and Meta AI defaults that rewrite approved creative or widen audiences, a compliance risk in regulated ad categories."
+    },
+    {
+      "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/",
+      "title": "Why ChatGPT ads won't likely impact holiday sales in a major way this year",
+      "source": "Modern Retail",
+      "category": "marketing",
+      "published_iso": "2026-10-09T04:00:00+00:00",
+      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp",
+      "excerpt": "Brands are testing ChatGPT ads, but high CPCs and unproven sales keep AI-assistant ads a small experimental slice of holiday budgets.",
+      "source_lang": "en",
+      "tool": "Marketing",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Brand-side view of how much holiday budget is actually going to ChatGPT ads (high CPCs, small test slices), a counterweight to OpenAI's own pitch."
+    }
+  ],
   "dedup": {
     "checks": {
-      "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/": {
+      "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/": {
         "verdict": "new",
-        "nearest": "https://www.adweek.com/media/openai-is-piloting-brand-suitability-controls-with-doubleverify-and-ias/",
+        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
         "new_action": ""
       },
-      "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/": {
+      "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/": {
         "verdict": "new",
-        "nearest": "https://openai.com/index/radisson",
+        "nearest": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
         "new_action": ""
       },
-      "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html": {
+      "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/": {
         "verdict": "new",
         "nearest": "https://www.seroundtable.com/google-ads-new-ai-max-columns-42256.html",
         "new_action": ""
       },
-      "https://www.madtimes.co.kr/news/articleView.html?idxno=29255": {
+      "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/": {
         "verdict": "new",
-        "nearest": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/": {
+      "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/": {
         "verdict": "new",
-        "nearest": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
+        "nearest": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
         "new_action": ""
       }
     },
-    "note": "SWAP (orchestrator request): dropped the PPC Land 'Meta's Muse accounts for 72% of AI agent requests, HUMAN finds' pick, because it reports a HUMAN Security blog post dated 2026-09-28, outside the 72h window. Its dedup entry was removed. The other 3 picks are unchanged. BACKFILLED from recovery items: (4) Pinterest Beauty Guides (MADTIMES carrying Pinterest's release, 2026-10-09): a new platform feature where an LLM plus visual understanding turns Pins into personalized guides with relevant products, which moves inspiration toward purchase. AI makes the story and it touches commerce. Distinct from the 10-07 TikTok AI discovery/checkout card (different platform, different feature). (5) eHealth's Regal 'Alice' voice AI agent (CX Dive, 2026-10-07T11:00Z, inside 72h): an editorial account of an AI sales agent prescreening Medicare callers, with a 27% higher purchase rate than the human screeners it replaced. In scope as sales automation/conversion, it has concrete numbers, and nothing published resembles it (nearest is the 10-09 Walmart Sparky card, a different company and use). REJECTED recovery items: Jellyfish Share-of-Model study (agency study bundled with its own 'Shopping Optimization' product launch, so vendor-ish; it would also be a third AI-shopping-discovery card next to try-on and Pinterest); Tinuiti Bliss Point MCP server (agency press release, vendor promo); McDonald's denies AI menu pricing (a denial with no AI product, weak); TBWA Korea AIM (agency GEO service promo); Mobiinside designer interview (generic interview, no event). Earlier drops still stand: Amazon blocks Muse (stale 09-20 event), Denmark L 49 (owned by music), AdExchanger CTV explainer and gap opinion, Digiday reaction pieces, Modern Retail commentary/survey, Nestle/Treasure AI, SEJ how-to, Liquid Death talk, Salesforce blog. DIVERSITY: 5 outlets (Adweek, Retail Dive, Search Engine Roundtable, MADTIMES, CX Dive), 1 card each. No duplicate URLs, no cross-section-owned stories."
-  },
-  "items": [
-    {
-      "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
-      "source": "Adweek",
-      "tool": "Marketing",
-      "accent": "#ff8a3d",
-      "motif": "frame",
-      "rationale": "OpenAI is setting up an Agency Partner program, the holding-company sales layer Meta and Google use to secure recurring spend. ChatGPT ads move from test budgets toward standing media-plan line items.",
-      "published_iso": "2026-10-09T14:24:04-04:00",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1",
-      "excerpt": "An Agency Partner listing shows OpenAI building the holding-company sales layer that Meta and Google use to lock in recurring spend."
-    },
-    {
-      "url": "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
-      "source": "Retail Dive",
-      "tool": "Marketing",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "New AI commerce feature: ChatGPT users can upload a selfie and see generated images of clothing and accessories on themselves before buying, which puts a fitting step inside the AI shopping journey.",
-      "published_iso": "2026-10-09T12:21:00-04:00",
-      "og_image": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp",
-      "excerpt": "Users can take or upload a selfie to generate images and see how clothing and accessories look on them prior to purchase."
-    },
-    {
-      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-      "source": "Search Engine Roundtable",
-      "tool": "Marketing",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "Usable right away: advertisers can now preview the ad text Google AI generates for AI Max Search campaigns before it serves, a direct creative-control lever.",
-      "published_iso": "2026-10-09T07:51:00-04:00",
-      "og_image": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-      "excerpt": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named \"Text customization asset previews.\""
-    },
-    {
-      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
-      "source": "MADTIMES",
-      "tool": "Marketing",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "Pinterest's new Beauty Guides use an LLM plus visual understanding to turn hair and nail Pins into personalized guides with similar looks and relevant products. AI now pushes the platform's inspiration surface toward purchase intent.",
-      "published_iso": "2026-10-09T09:17:51+09:00",
-      "og_image": "https://www.madtimes.co.kr/news/thumbnail/202610/29255_71542_169_v150.jpg",
-      "excerpt": "Pinterest's new Beauty Guides combine visual understanding with an LLM to turn hair and nail Pins into personalized guides with salon instructions, similar looks and relevant products, part of its 'Pinterest Intelligence' push from inspiration to purchase intent."
-    },
-    {
-      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
-      "source": "CX Dive",
-      "tool": "Marketing",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "AI sales automation with hard numbers: eHealth's voice AI agent 'Alice' prescreens Medicare callers during open enrollment, answers every call instantly and drives a 27% higher purchase rate than the outsourced human screeners it replaced.",
-      "published_iso": "2026-10-07T07:00:00-04:00",
-      "og_image": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
-      "excerpt": "eHealth uses Regal's 'Alice' voice AI agent to prescreen Medicare callers during open enrollment; it answers every call instantly, scores 77% 'exceptional' satisfaction and drives a 27% higher purchase rate than the outsourced human screeners it replaced."
-    }
-  ],
-  "alternates": [
-    "https://www.madtimes.co.kr/news/articleView.html?idxno=29183",
-    "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/"
-  ]
+    "note": "Dropped: AdExchanger 'How Does Agentic Buying Work In CTV?' (explainer, same story as the 10-08 AdExchanger roundup 'AI Agents Are Coming For CTV'); Digiday 'OpenAI would like to remind marketers...' (commentary on OpenAI's ChatGPT ads pitch, already covered 10-07 openai.com and 10-10 Adweek line-item story); Adweek AWNY/Jupiter Fest recap (rehash of TikTok AI ad updates 10-07 and Meta AWNY AI tools 10-09); Salesforce 'Your Customer's Personal Agent Is Knocking' (vendor opinion, no concrete product/number); Modern Retail+ agency research (generic agency/creator trend research). Held back: PPC Land Zeta Global AthenaOS Nemotron (vendor model swap; would be a 3rd PPC Land card). Digiday agentic pick carries history_match 'related' to the 10-08 AdExchanger CTV roundup but reports distinct agency products (Carat/NBCU agent, Tinuiti MCP server, Stagwell Machine OS). Modern Retail ChatGPT-holiday piece is brand-side budget/CPC reporting, a separate angle from OpenAI's 10-10 agency pitch. Outlets: PPC Land x2, Digiday, SEJ, Modern Retail."
+  }
 }

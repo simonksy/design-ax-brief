@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-10",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-pixelwatch4-ai-faces",
-      "type": "image",
-      "src": "pipeline/media/gadgets-pixelwatch4-ai-faces.jpg"
-    },
-    {
-      "id": "gadgets-rtx-spark-preorders",
-      "type": "image",
-      "src": "pipeline/media/gadgets-rtx-spark-preorders.jpg"
-    },
-    {
-      "id": "gadgets-rayban-meta-gen3-muse",
-      "type": "image",
-      "src": "pipeline/media/gadgets-rayban-meta-gen3-muse.jpg"
-    },
-    {
-      "id": "gadgets-alexa-plus-one-year",
-      "type": "image",
-      "src": "pipeline/media/gadgets-alexa-plus-one-year.jpg"
-    },
-    {
-      "id": "gadgets-xpanceo-ai-contact-lenses",
-      "type": "image",
-      "src": "pipeline/media/gadgets-xpanceo-ai-contact-lenses.jpg"
-    }
-  ]
-}
+{"date":"2026-10-11","section":"gadgets","media":[
+{"id":"xda-local-llm-gmail","type":"image","src":"pipeline/media/xda-local-llm-gmail.jpg"},
+{"id":"siri-personal-index-limits","type":"image","src":"pipeline/media/siri-personal-index-limits.jpg"},
+{"id":"verge-ai-bird-feeder","type":"image","src":"pipeline/media/verge-ai-bird-feeder.jpg"},
+{"id":"msi-pro-max-edge-ai","type":"image","src":"pipeline/media/msi-pro-max-edge-ai.jpg"},
+{"id":"amazon-driver-ai-glasses","type":"image","src":"pipeline/media/amazon-driver-ai-glasses.jpg"}
+]}

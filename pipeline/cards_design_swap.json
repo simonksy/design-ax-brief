@@ -1,45 +1,59 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-11",
   "section": "design",
   "cards": [
     {
-      "id": "design-system-coding-agent-experiment",
+      "id": "figma-ai-team-rituals",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Does a design system steer\nwhat a coding agent writes",
-      "body": "In 30 runs, agents given the design system as an npm package hand-wrote no components; a prose styleguide fell short.",
-      "mini_headline": "Design systems and\ncoding agents",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
-      "accent": "#0070f3",
-      "motif": "swatch",
+      "headline": "Four team rituals that\ndrive AI adoption",
+      "body": "Teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers get real value from AI.",
+      "mini_headline": "Team rituals for AI adoption",
+      "tool": "AI Workflow",
+      "source": "Figma",
+      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+      "accent": "#3b6bff",
+      "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fsuf9zo8yd34baicc4rzu.png"
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+            "cap": "Hero illustration by James Marshall"
           },
           {
             "t": "p",
-            "x": "The author built a design system before agents started writing UI: three-tier tokens, 14 Angular components, type declarations and an llms.client.txt shipped inside the npm package, plus a token resolver over MCP. Then he asked whether any of it changes what a coding agent produces."
+            "x": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Teams need forums centered on peer support where both beginners and skilled practitioners can learn, practice, and refine AI skills in a low-pressure environment. Here are four examples."
           },
           {
             "t": "p",
-            "x": "The test: one Angular dashboard, a byte-identical prompt, fresh sessions, and five arms — specification and Figma frames only (A), plus a prose styleguide (A′), plus the npm packages (B), plus llms.client.txt (C), plus the MCP resolver (D). Thirty scored runs, with scorers and falsifiers committed in advance."
+            "x": "Figma runs peer-led study groups. Design operations manager Jake Geller launched a pilot called “AI Collective”: five peer-led groups organized by topics designers chose, meeting one hour a week over six weeks, with Slack between sessions and a template suggesting 20 minutes of teaching and 40 minutes of practice."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "Shipping the system is a step function; writing it down is not. Without the package, the agent hand-writes 12 or 13 of 13 components and the app acquires around 90 custom properties; with it, zero and zero."
+            "x": "Sephora shares what didn’t work. Sneha Narahalli, SVP of technology, hosts a biweekly forum where builders share what they’re building with AI. Early sessions showed only polished work, so presenters now walk through the process, including what they tried and what didn’t work. “Hearing from a peer and seeing how it makes their life easier is way more powerful than top-down messaging,” she says."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+            "cap": "Sneha Narahalli, Senior Vice President of Technology, Sephora"
           },
           {
             "t": "p",
-            "x": "Accessibility mattered more than consistency: agents got colours right from Figma but shipped serious contrast failures. Agents never hallucinated the component API in 30 runs. Using the library cost more per generation, and the MCP resolver added no measurable improvement over the text file."
+            "x": "Mercari cross-trains across functions. Principal Designer Aki Alkhatib’s team runs hands-on sessions where designers learn engineering fundamentals, like using an AI coding tool and setting up a GitHub repository, and developers learn design principles like visual hierarchy."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
           },
           {
             "t": "p",
-            "x": "“The design system does not make the agent smarter or more correct. It decides who ends up owning the code it writes.” The author calls it a case study, not a benchmark."
+            "x": "Atlassian opens every crit with a prototype. Chief Design Officer Charlie Sutton adopted a rule: show the prototype first and explain it afterward. “Sometimes, simple rules are what make complex changes possible,” he says."
           }
         ]
       }

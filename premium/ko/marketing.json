@@ -529,6 +529,133 @@
           "x": "Meta는 Shopify와 함께 Messenger의 Meta Business Agent에서 바로 결제하는 기능을 준비 중이다. Adyen, PayPal, Shopify, Stripe와 손잡고 Meta AI용 유사 결제 옵션도 시험한다."
         }
       ]
+    },
+    "marketing/agency-agentic-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Dentsu에 따르면 산하 매체 대행사 Carat이 NBC Universal, Freewheel, AI 기업 Newton과 함께 업프런트 투자용 기획·구매·최적화 에이전트를 내놓는다. Tinuiti는 “Bliss Point Model Context Protocol (MCP) Server”를 공개해 자사 측정 계층을 AI 에이전트가 바로 쓸 수 있게 했다. Stagwell은 매체 대행사 Assembly를 Stagwell Media로 새로 출범시키고 Machine OS라는 에이전트 시스템을 한가운데 놓았다."
+        },
+        {
+          "t": "p",
+          "x": "고객이 다 이 속도를 반기는 건 아니다. 에이전트가 폭주하면 어쩌냐는 물음에 대행사들은 거의 늘 사람이 곁에서 챙긴다고 답한다. Dentsu 플랫폼 총괄 Rebekah Shalit는 “모든 일에는 여전히 사람의 감독이 필요하다”고 했다. Freewheel의 David Dworin도 에이전트 시스템 대부분은 사람이 하나하나 승인하거나 아주 구체적인 통제 장치를 두게 설계돼 있다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "WPP Media의 Lauren Wetzel은 재무나 집행에 영향을 주는 일이라면 “명시적인 통제, 승인 기준치, 책임 있는 사람의 감독”이 있어야 한다고 했다. Carat 최고투자책임자 Carrie Drinkwater는 좀 더 낙관적이다. “지금 시작하지 않으면 뒤처질 것이다.”"
+        }
+      ]
+    },
+    "marketing/ai-max-bidding-math": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+          "cap": "Search 매출이 17% 느는 사이, Google의 8월 17일 변경은 400% ROAS를 200% 목표 쪽으로 끌어내린다"
+        },
+        {
+          "t": "p",
+          "x": "PPC Land 특별판의 주장은 이렇다. Google은 Google의 매출을 위해 최적화하니 광고주는 자기 매출을 직접 챙겨야 한다. 8월 17일부터 Google은 목표를 웃도는 예산 제한 Target CPA·Target ROAS 캠페인을 목표 쪽으로 되돌리면서도 비용이 목표를 넘긴 캠페인은 그대로 둔다."
+        },
+        {
+          "t": "p",
+          "x": "Mike Ryan이 노출 3억 8300만 건을 분석해 보니, 2026년 7월까지 광고주가 정확 검색어(exact match)로 산 것의 약 29%를 AI Max가 넓히고 있었다. AI Max의 광고 지출 대비 수익이 기존 검색 유형보다 약 35% 낮다는 연구도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Google이 내놓는 수치도 바뀌었다. 2025년 5월 6일 출시 때 AI Max는 비슷한 비용으로 전환수나 전환 가치가 14% 는다고 홍보했다. 2026년 4월 정식 출시 발표에선 리테일을 뺀 Google 내부 2026년 데이터 기준 7%로 줄었다. 그 뒤 한 연휴 가이드는 정의를 바꿔 15%를 내세웠다."
+        },
+        {
+          "t": "p",
+          "x": "그사이 Alphabet의 Search 매출은 두 번째 분기에 17% 늘어 632억 7000만 달러에 이르렀다. PPC Land는 광고주가 Google이 만들지 않은 도구로 성과를 따져야 할 일이 점점 늘어난다고 결론짓는다."
+        }
+      ]
+    },
+    "marketing/regulated-ads-ai-defaults": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+        },
+        {
+          "t": "p",
+          "x": "의료·금융·법률 분야 유료 매체 마케터라면 자동 입찰의 블랙박스부터 AI가 생성한(AI-generated) 소재까지, AI 곳곳에서 경고등이 켜진다. 회사 정책과 업계 지침을 익혀 두고 AI 도구에 넣는 데이터도 가려야 한다."
+        },
+        {
+          "t": "p",
+          "x": "AI Max의 텍스트 맞춤화는 승인된 메시지와 어긋나는 광고 문구를 끌어오기도 하고 최종 URL 확장은 원치 않는 페이지로 이어질 수 있다. AI Max를 테스트한다면 둘 다 꺼 두는 편을 고려해 볼 만하다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+          "cap": "Google Ads 스크린샷, 2026년 10월"
+        },
+        {
+          "t": "p",
+          "x": "Performance Max에는 텍스트·이미지·동영상을 캠페인 단위로 손보는 Asset Optimization이 있다. Demand Gen에도 비슷한 광고 단위 설정이 있는데, 면책 문구가 빠질 수 있는 생성 동영상까지 들어 있다. Meta의 Advantage+ 크리에이티브 개선 기능은 색상과 글꼴, 레이아웃을 바꾸기도 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+          "cap": "Google Ads 스크린샷, 2026년 10월"
+        },
+        {
+          "t": "p",
+          "x": "Meta의 Advantage+ 타기팅과 Google의 최적화 타기팅은 광고를 의도한 잠재고객 밖으로 내보내기도 한다. 자동 입찰은 공정 대출 규정 같은 알고리즘 편향 우려를 낳을 수 있다. 규정 준수 승인을 받은 소재를 AI가 건드릴 수 있는 지점을 찾아 안전장치를 더해 두는 게 좋다."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-holiday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "브랜드들은 이번 연말 시즌 ChatGPT 광고에서 의미 있는 매출을 기대하지 않는다. 클릭당 비용은 비싸고 매출 효과는 검증되지 않았다. AI 비서도 아직 믿을 만한 상품 추천처로 자리 잡는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Sensor Tower 데이터를 보면 8월 ChatGPT에 광고를 낸 고유 광고주는 1,400곳이 넘어 전월보다 8% 늘었다. 지출은 대부분 Capital One, Expedia, Cloudflare 같은 대기업 몫이다."
+        },
+        {
+          "t": "p",
+          "x": "Measured의 Terence Einhorn은 “전반적으로 결과가 꽤 나빴다”며 “ChatGPT의 클릭당 비용에 해당하는 값은 Google의 약 6X 수준”이라고 했다. Superfiliate의 Anders Bill에 따르면 브랜드 대부분은 아직 Meta나 검색 예산을 의미 있게 옮기지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Einhorn은 “브랜드는 효과가 있다는 걸 알기 전에는 무언가를 쓸 여유가 없다”며 “그런데 써 보기 전에는 효과가 있는지 알 수 없다”고 덧붙였다."
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-ads-agency-partner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 영업 인력을 새로 뽑는다. ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 자리 잡게 하는 일이다."
+        },
+        {
+          "t": "p",
+          "x": "Ads Solutions 팀이 낸 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. 근무지는 New York이고, 기본급 $216,000에서 $273,000에 지분과 커미션이 붙는다."
+        },
+        {
+          "t": "p",
+          "x": "뽑힌 사람은 대행사와 공동 사업 계획을 이끌고 대행사 교육과 역량 강화도 맡는다. 독립 대행사와 홀딩컴퍼니를 가리지 않고 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는 일도 포함된다."
+        },
+        {
+          "t": "p",
+          "x": "Meta와 Google도 반복 광고비를 묶어 두려고 바로 이런 홀딩컴퍼니 영업 조직을 운영한다."
+        }
+      ]
     }
   }
 }

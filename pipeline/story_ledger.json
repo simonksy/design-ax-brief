@@ -2481,37 +2481,65 @@
   {
    "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Tonies AI 실험해도 AI 장난감엔 선 긋기 Tonies는 AI 화자를 3,000가구에서 시험했지만 AI 장난감만은 사양한다.",
    "title": "Frankfurter Buchmesse 2026: Tonies Bets On a Kids' Audio Future that Is Screenless, Serialized, with Content (Often) Made In-house",
    "excerpt": "Tonies trialed an AI 'storyteller' with 3,000 households generating personalized children's stories, and 85% of staff use AI daily, but CEO Tobias Wann insists the Toniebox 'will never become an AI toy'."
   },
   {
    "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "아동·청소년 출판사 ‘사람이 만든’ 라벨 출범 아동·청소년 출판사 18곳이 글·그림·디자인을 사람이 만들었다는 라벨을 단다.",
    "title": "Neues Label: \"Von Menschen gemacht\"",
    "excerpt": "18 German-language children's and YA publishers launch a 'Von Menschen - geschrieben - gestaltet - geprüft' label certifying that text, illustration and design are human-made and editorially checked."
   },
   {
    "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Audible, AI로 모든 책을 오디오북으로 Audible이 모든 책을 모든 언어로 내려고 제작 전반에 AI를 쓴다.",
    "title": "Frankfurt Book Fair 2026: Audible Wants to Turn Every Book into an Audiobook",
    "excerpt": "Audible CCO Rachel Ghiazza says the company expects to use AI tools across the entire audiobook production process to reach 'every book in every language', and will launch in Indonesia, South Korea, Denmark, Norway and Finland in 2027."
   },
   {
    "url": "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI 원고 늘자 대필 작가 의뢰 감소 예비 저자들이 AI를 쓰면서 대필 의뢰는 줄고 AI 초안 손질 요청은 늘었다.",
    "title": "Ghostwriters haunted by AI as commissions fall and machine-written manuscripts rise",
    "excerpt": "Ghostwriters tell The Bookseller that commissions are falling as prospective authors experiment with generative AI, while others are increasingly asked to rework AI-generated manuscripts."
   },
   {
    "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "출판사 조용히 AI 도입 직원들은 반발 직원들 말로는 대형 출판사 세 곳이 홍보·표지·이메일 등에 LLMs를 쓴다.",
    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
    "excerpt": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy and emails, as some execs push junior staff to champion the tech."
+  },
+  {
+   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Frankfurter Buchmesse 2026: ENLIT Network Provides Support for European Literary Translation and Translators",
+   "excerpt": "European translation-funding bodies say literary translators currently have strong support, but AI makes their position fragile. Speakers framed AI as a dictionary-like tool that still cannot handle humor, emotion or voice."
+  },
+  {
+   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Frankfurter Buchmesse 2026: EU AI Act Gives Publishers Leverage, but No Teeth",
+   "excerpt": "A Frankfurt panel on trust in science in the age of AI concluded that the EU AI Act helps rights holders on paper, but it has no penalties for AI developers and gives researchers no incentives."
+  },
+  {
+   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+   "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership."
+  },
+  {
+   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Frankfurt Book Fair 2026: Publishing Jobs Will Adapt to AI, Not Disappear",
+   "excerpt": "Bloomsbury founder Nigel Newton called the idea that AI will take all publishing jobs 'rubbish'. His panel still agreed that entry-level roles may disappear, staff will need retraining and new roles will emerge."
   }
  ],
  "design": [
@@ -5661,37 +5689,72 @@
   {
    "url": "https://dev.to/as9978/why-screenshot-diffing-ai-built-uis-thrashes-and-how-geometry-fixes-it-5967",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI-built UIs를 스크린샷 비교가 흔든다 스크린샷 대신 레이아웃 기하로 Figma와 견주면 에이전트가 헤매지 않는다.",
    "title": "Why screenshot diffing thrashes AI-built UIs",
    "excerpt": "Why pointing a coding agent at a Figma frame and screenshot-diffing until it 'matches' thrashes, and how comparing layout geometry instead produces faithful AI-built UIs."
   },
   {
    "url": "https://developer.nvidia.com/blog/5-steps-to-create-simready-assets-for-robotics-with-frontier-ai-models/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "NVIDIA, CAD를 SimReady 자산으로 NVIDIA가 AI로 CAD를 SimReady 자산으로 바꾸는 다섯 단계를 짚었다.",
    "title": "NVIDIA turns CAD into SimReady robot assets",
    "excerpt": "NVIDIA shows five steps for using frontier AI models to turn CAD assets into SimReady OpenUSD assets, configuring materials, collisions and joints for robotics simulation."
   },
   {
    "url": "https://runwayml.com/news/company-news/runway-claude-motion",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Claude Motion 설명 영상 Runway로 Claude Motion으로 만든 설명 영상을 Runway에서 이어 다듬는다.",
    "title": "Runway now takes Claude Motion explainers",
    "excerpt": "Runway now integrates with Claude Motion: export animated explainers from Claude into Runway to generate footage, add voiceover and music, edit scene by scene and reformat for every channel."
   },
   {
    "url": "https://www.engineering.com/aws-launches-open-source-toolchain-for-physical-ai-development/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AWS, 피지컬 AI 툴체인 오픈소스 공개 AWS가 참조 아키텍처까지 담은 Physical AI 툴체인을 오픈소스로 공개했다.",
    "title": "AWS open-sources a physical AI toolchain",
    "excerpt": "AWS launched an open-source Physical AI toolchain with reference architectures for simulation, training and deployment, aimed at robotics and product engineering teams."
   },
   {
    "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Instinct·Muse OpenAI Dots 대결 The Verge가 Instinct를 Muse·OpenAI Dots와 견줬다.",
    "title": "Instinct's agent UX faces Muse and OpenAI's Dots",
    "excerpt": "A hands-on with Instinct, last season's buzziest AI agent, and whether its interface and experience can survive new competition from Muse and ChatGPT Dots."
+  },
+  {
+   "url": "https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Before an AI agent acts, show me what it can change",
+   "excerpt": "A UX pattern argument: agent permission prompts should preview exactly what an AI agent action will change instead of a bare 'Allow this action'."
+  },
+  {
+   "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Are synthetic users (really) the future of UX research?",
+   "excerpt": "Human-centered design demands limited use of AI-generated personas, if at all; the piece weighs the UX research debate over synthetic users."
+  },
+  {
+   "url": "https://vercel.com/changelog/grok-imagine-video-1-5-lite-on-ai-gateway",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Grok Imagine Video 1.5 Lite on AI Gateway",
+   "excerpt": "xAI's Grok Imagine Video 1.5 Lite video-generation model is now callable through Vercel AI Gateway with one API key, unified billing and request traces."
+  },
+  {
+   "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "4 team rituals that drive AI adoption",
+   "excerpt": "Four ways teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers and product teams get real value from AI."
+  },
+  {
+   "url": "https://www.therobotreport.com/boston-dynamics-gives-more-insight-into-its-redesigned-humanoid-hand/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Boston Dynamics gives more insight into its redesigned humanoid hand",
+   "excerpt": "Atlas's new hand was designed for high-fidelity simulation to enable sim-to-real reinforcement learning, Boston Dynamics' Alberto Rodriguez explains."
   }
  ],
  "gadgets": [
@@ -8449,37 +8512,72 @@
   {
    "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Pixel Watch 4에 AI 워치페이스 생성기 Pixel Watch 5 전용이던 AI 워치 페이스 생성기가 4세대에도 풀린다.",
    "title": "Pixel Watch 4 update adds Google's AI watch face generator",
    "excerpt": "Pixel Watch 4 update brings Google's generative AI watch face generator (previously a Pixel Watch 5 feature) to last year's watch, along with other additions."
   },
   {
    "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Ray-Ban Meta의 큰 변화는 Muse AI Ray-Ban Meta Gen 3는 기능은 그대로지만 Muse로 비서가 나아졌다.",
    "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
    "excerpt": "Gizmodo reviews the $449 Ray-Ban Meta Gen 3 AI glasses: same camera and AI feature set as before, but Meta's new Muse model is a significant upgrade to the on-glasses assistant; spatial audio arrives via the Meta AI app."
   },
   {
    "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Xpanceo AI 렌즈 이르면 2030년 나온다 Xpanceo가 다섯 해째 개발 중인 AI 콘택트렌즈가 이르면 2030년 나온다.",
    "title": "Xpanceo's AI smart contact lenses put 'an AI helper on your cornea' as soon as 2030",
    "excerpt": "CNET interviews the founders of Dubai-based Xpanceo, which has spent five years building AI-powered smart contact lenses - 'an AI helper directly on your cornea' - that could arrive as soon as 2030."
   },
   {
    "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "RTX Spark 노트북 $2,599부터 예약 판매 Nvidia RTX Spark 노트북이 $2,599부터 예약 판매를 시작했다.",
    "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
    "excerpt": "Pre-orders are now live for Nvidia RTX Spark laptops starting at $2,599; TechRadar picks three Blackwell-powered machines for running local AI."
   },
   {
    "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Alexa Plus 한 해 집 제어는 낫고 광고까지 Alexa Plus는 스마트홈은 잘 다루지만 삶을 맡기긴 이르고 광고도 붙었다.",
    "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
    "excerpt": "A year living with Alexa Plus across Echo Show, Dot and Max: Amazon's generative-AI assistant is better at running the smart home, but not yet ready to run your life - and it now comes with ads."
+  },
+  {
+   "url": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Siri can index more of your personal data —  here's how to limit it",
+   "excerpt": "If you’re concerned about Apple’s new digital assistant, here’s how you can restrict its access to your data."
+  },
+  {
+   "url": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "I tested MSI's Pro Max Edge AI+ mini PC and its offline AI is off the charts",
+   "excerpt": "The MSI Pro Max Edge AI+ is a mini PC with a difference. Built for local AI, it features the AMD’s Ryzen AI Max+ 395, Radeon 8060s graphics and a 50-TOPS NPU."
+  },
+  {
+   "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "My brief romance with an AI bird feeder",
+   "excerpt": "Tits, pigeons, and mice, oh my!"
+  },
+  {
+   "url": "https://www.tomsguide.com/ai/amazons-delivery-drivers-are-getting-ai-glasses-and-thats-the-least-unsettling-ai-in-the-job",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Amazon drivers are getting AI smart glasses — but my warehouse tour reveals their 1-million strong automated robot workforce is the real story",
+   "excerpt": "The glasses aren't what we should be worried about"
+  },
+  {
+   "url": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "I connected my local LLM to Gmail, Calendar, and Home Assistant, and it finally became useful",
+   "excerpt": "It can now actually be productive."
   }
  ],
  "games": [
@@ -11062,37 +11160,72 @@
   {
    "url": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Dreamlands 1.0 AI 3D 월드 빌더 공개 Dreamlands가 1.0을 열어 누구나 AI로 3D 에셋과 월드를 만든다.",
    "title": "Dreamlands opens its AI 3D world-building platform to the public",
    "excerpt": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI."
   },
   {
    "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI가 Halo·GTA를 하룻밤에 브라우저로 AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
    "title": "Vibe-Coded Browser Ports Of Games Work Perfectly, Unfortunately",
    "excerpt": "Call of Duty: Black Ops, Halo: CE, GTA: Vice City, Skate 3 and more were decompiled and ported to web browsers overnight with AI coding agents, and they appear to run well."
   },
   {
    "url": "https://www.gamemeca.com/view.php?gid=1781560",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "크래프톤, 서울대와 월드모델 공동연구 크래프톤이 서울대와 3년간 공동연구센터를 운영해 게임·로봇 월드모델을 고도화한다.",
    "title": "크래프톤, 서울대와 게임·로봇 AI 월드모델 공동연구 시작",
    "excerpt": "크래프톤이 서울대학교와 게임·로봇 분야 월드모델 공동연구에 착수했다. 향후 3년간 공동연구센터를 운영하며 가상과 현실을 이해·예측하는 AI를 고도화한다."
   },
   {
    "url": "https://www.gamemeca.com/view.php?gid=1781573",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "LLM 게임, 하루 비용 135만 원에 대출까지 데모 이용자 급증에 하루 1,000달러 AI 비용이 들어 개발사가 대출을 받았다.",
    "title": "'여동생 운전 가르치기' 게임, AI 사용료만 하루 135만 원",
    "excerpt": "LLM 기반 스팀 게임 '여동생 운전 가르치기'가 데모 이용자 급증으로 하루 1,000달러에 달하는 AI 모델 사용료를 감당하지 못해 대출까지 받았고, 모델 전환으로 품질 저하 논란도 겪고 있다."
   },
   {
    "url": "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "구타라기, AI 백일몽이 게임 대체할 것 구타라기는 2028-29년엔 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
    "title": "PlayStation creator turned AI CEO Ken Kutaragi predicts AI daydreams will replace video games",
    "excerpt": "Ken Kutaragi told 4Gamer that real-time AI generation of video and music will run at console speed around 2028-29, turning 'imagination itself' into content and replacing games as we know them."
+  },
+  {
+   "url": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "How EA Javelin anti-cheat is changing in the face of AI attacks | Mike Reavey exclusive interview",
+   "excerpt": "EA's Mike Reavey explains how the Javelin anti-cheat system is evolving to counter AI-powered cheats such as computer-vision aimbots, and how EA uses ML on its own side of detection."
+  },
+  {
+   "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "UChicago AI Researcher Rana Hanocka launches Thrixel, a 3D generation platform",
+   "excerpt": "UChicago researcher Rana Hanocka launches Thrixel, a 3D generation platform whose Build World workflow pairs creators with an AI coding agent to generate assets and logic for Roblox, Three.js, Unity and Unreal."
+  },
+  {
+   "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Black Myth: Wukong sequel devs said no to AI because of Christopher Nolan's The Odyssey",
+   "excerpt": "Game Science says it will refrain from using AI on Black Myth: Zhong Kui 'until the end', citing Christopher Nolan's all-practical approach on The Odyssey as inspiration."
+  },
+  {
+   "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Google debuts new 'experimental' AI game platform named Google Playground",
+   "excerpt": "Google has announced Google Playground, a new platform for making and playing games derived from gen-AI prompts."
+  },
+  {
+   "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "New MMO Aion 2 soars on Steam with nearly 400,000 concurrent players despite mixed reviews grilling AI slop and pay-to-win shop",
+   "excerpt": "NCSoft's Aion 2 hits nearly 400,000 concurrent Steam players at its global launch, but 'Mixed' user reviews call out AI-generated content alongside its monetization."
   }
  ],
  "marketing": [
@@ -11204,37 +11337,72 @@
   {
    "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "OpenAI, 대행사 겨냥 ChatGPT 광고 영업망 OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
    "title": "OpenAI Wants ChatGPT Ads to Become a Permanent Line Item in Agency Media Plans",
    "excerpt": "An Agency Partner listing shows OpenAI building the holding-company sales layer that Meta and Google use to lock in recurring spend."
   },
   {
    "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "eHealth의 AI 구매율 27% 높였다 eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
    "title": "A health insurance agency's journey from pilot to full-time voice AI agent",
    "excerpt": "eHealth uses Regal's 'Alice' voice AI agent to prescreen Medicare callers during open enrollment; it answers every call instantly, scores 77% 'exceptional' satisfaction and drives a 27% higher purchase rate than the outsourced human screeners it replaced."
   },
   {
    "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "핀터레스트, AI로 맞춤 뷰티 가이드 핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
    "title": "Pinterest launches Beauty Guides to turn inspiration into action",
    "excerpt": "Pinterest's new Beauty Guides combine visual understanding with an LLM to turn hair and nail Pins into personalized guides with salon instructions, similar looks and relevant products, part of its 'Pinterest Intelligence' push from inspiration to purchase intent."
   },
   {
    "url": "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "ChatGPT, 셀카로 가상 피팅 시작 ChatGPT에 셀카를 올리면 옷과 액세서리를 걸친 모습을 미리 본다.",
    "title": "Virtual try on launches on ChatGPT",
    "excerpt": "Users can take or upload a selfie to generate images and see how clothing and accessories look on them prior to purchase."
   },
   {
    "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI-generated문구 Google Ads 프리뷰 Google Ads가 Google AI로 만든 AI Max 문구를 미리 보여준다.",
    "title": "Google Ads Text Customization Asset Previews",
    "excerpt": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named \"Text customization asset previews.\""
+  },
+  {
+   "url": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "As agencies push agentic media future, execs work to ward off client rogue fears",
+   "excerpt": "Dentsu/Carat's NBCU-Freewheel-Newton buying agent, Tinuiti's Bliss Point MCP server and Stagwell's Machine OS push agentic media buying while agencies manage client fears of rogue agents."
+  },
+  {
+   "url": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Google optimises its own revenue. Advertisers have to optimise theirs",
+   "excerpt": "Analysis of AI Max for Search auto-upgrades, Smart Bidding target behavior and 383M-impression match-type data: Google's AI claims fell from 14% to 7% more conversions."
+  },
+  {
+   "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
+   "excerpt": "HUMAN Security says Meta's Muse drives 72% of AI-agent web requests, 84% aimed at product/search pages and 25% likelier to reach checkout - a measurement problem for advertisers and retailers."
+  },
+  {
+   "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Why ChatGPT ads won't likely impact holiday sales in a major way this year",
+   "excerpt": "Brands are testing ChatGPT ads, but high CPCs and unproven sales keep AI-assistant ads a small experimental slice of holiday budgets."
+  },
+  {
+   "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk",
+   "excerpt": "Google and Meta AI defaults that auto-alter approved creative or expand audiences can break compliance in regulated ad categories; what to audit."
   }
  ],
  "medicine": [
@@ -11346,37 +11514,72 @@
   {
    "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Google AMIE, 1차 진료 실환자 만나다 Lancet 연구에서 AMIE는 환자와 의사 관계를 개선할 여지를 보였다.",
    "title": "Study in The Lancet suggests AI could improve patient-physician relationships.",
    "excerpt": "A peer-reviewed prospective study in The Lancet evaluated Google's conversational diagnostic AI AMIE with real patients in an ambulatory primary care clinic, suggesting it could improve patient-physician relationships."
   },
   {
    "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-solution-can-help-nearly-1-5-patients-avoid-prostate-biopsies-radnet-says",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI로 전립선 환자 5명 중 1명 생검 피한다 RadNet은 AI로 환자 5명 중 1명꼴 전립선 생검을 줄인다고 밝혔다.",
    "title": "AI solution can help nearly 1 in 5 patients avoid prostate biopsies, RadNet says",
    "excerpt": "RadNet says its AI solution could help nearly 1 in 5 patients avoid prostate biopsies, supporting clinicians at 'one of the most consequential decision points in prostate care.'"
   },
   {
    "url": "https://www.dailypharm.com/user/news/343098",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "코어라인 폐결절 AI 일본 학회 인증 획득 폐결절 AI가 PMDA 승인 후 일본 학회 인증으로 가산수가 기반을 확보했다.",
    "title": "코어라인소프트, 일본 학회 인증…영상진단 가산수가 기반 확보",
    "excerpt": "코어라인소프트의 폐결절 진단보조 AI 'AVIEW Lung Nodule CAD'가 PMDA 승인에 이어 일본의학방사선학회 AI 인증을 받아 영상진단 가산수가 적용 기반을 확보했다."
   },
   {
    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Abridge 진료 AI UT 시스템 전역 확대 Abridge가 앰비언트 임상 AI를 텍사스대 시스템 전체로 넓힌다.",
    "title": "Abridge, University of Texas System enter enterprise-wide agreement for expanded AI-enabled care",
    "excerpt": "Abridge is expanding its ambient clinical AI platform across the University of Texas System through an enterprise-wide agreement with UT REAL Health AI."
   },
   {
    "url": "https://www.nature.com/articles/s41746-026-03325-7",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "GPT-5 진단 에이전트 복잡성의 역설에 빠지다 161건 실험에서 웹 검색도, 복잡한 에이전트도 정확도를 확실히 높이지 못했다.",
    "title": "The complexity paradox of generalist AI agents in medicine: exploring GPT-5 for real-world  multimodal medical diagnosis",
    "excerpt": "A systematic test of ten GPT-5-based agent configurations on real-world multimodal diagnostic cases finds a 'complexity paradox': more tools and reasoning steps don't reliably improve accuracy."
+  },
+  {
+   "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.2923",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Characterizing Artificial Intelligence Psychosis in a Large Medical Setting",
+   "excerpt": "A cohort study in a large health system estimates the prevalence of \"AI psychosis,\" characterizes affected patients and defines the role conversational AI played in documented psychotic episodes."
+  },
+  {
+   "url": "https://www.healthcaredive.com/news/fda-to-prioritize-guidance-on-ai-surgical-robots-next-year/832120/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "FDA to prioritize guidance on AI, surgical robots next year",
+   "excerpt": "The FDA device center plans to finalize guidance for AI-enabled devices, draft generative-AI advice and address surgical robots in its fiscal 2027 guidance agenda."
+  },
+  {
+   "url": "https://www.medigatenews.com/news/1174160810",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "박유경 교수 \"서울아산병원 소아 RRS에 들어온 AI…고위험 환아 조기 선별에 도움\"",
+   "excerpt": "서울아산병원 소아 신속대응시스템(RRS)에 도입된 뷰노 AI가 데이터 누락과 알람 피로를 보완하며 고위험 환아를 조기에 선별하는 데 도움이 된다는 임상 경험이 소개됐다."
+  },
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03232-x",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Standardized pre-consultation by a large language model agent vs ophthalmology residents: a randomized clinical trial",
+   "excerpt": "A randomized clinical trial at a tertiary ophthalmology center compared a dual-agent LLM pre-consultation history-taking agent against ophthalmology residents."
+  },
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03373-z",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "VOICE-AE: automated CTCAE scoring from ambient clinical audio using speech recognition and large language models",
+   "excerpt": "VOICE-AE combines speech recognition, speaker diarization and LLMs to extract and grade treatment-related adverse events (CTCAE) directly from recorded oncology clinic conversations."
   }
  ],
  "movies": [
@@ -13987,37 +14190,72 @@
   {
    "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Royal Mail 광고에 고인 음성 AI 재현 의혹 Paul Vaughan의 딸이 Royal Mail 광고의 AI 음성을 문제 삼았다.",
    "title": "Did Royal Mail Revive BBC & 'Paddington' Voiceover Star With AI?",
    "excerpt": "Daughter of Paul Vaughan, an acclaimed BBC and 'Paddington' voiceover artist, accuses Royal Mail Christmas ad of resurrecting her father using AI."
   },
   {
    "url": "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI-made 시리즈 2편 Mipcom에서 첫 공개 생성형 AI로 만든 SF 시리즈 두 편이 Mipcom에서 첫선을 보인다.",
    "title": "AI-Produced Series ‘Space Nation’ and ‘Kira’ to Premiere Pilot Episodes at Mipcom (EXCLUSIVE)",
    "excerpt": "Two science-fiction series produced with generative AI, 'Space Nation' and 'Kira,' will have the world premieres of their pilot episodes at Mipcom."
   },
   {
    "url": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI-assisted 애니 K드라마 Viki 공개 최준배 감독의 AI-assisted 애니가 10월 21일 Viki에 공개된다.",
    "title": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (EXCLUSIVE)",
    "excerpt": "‘Mouse’ director Choi Junbae’s AI-assisted animated K-drama ‘The Painted Soul’ launches on Rakuten Viki Oct. 21 in key global markets."
   },
   {
    "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Danny Boyle, Ink 속 AI 대처 재현 Danny Boyle이 Ink에서 대처를 허락 없이 AI로 재현한 이유를 밝혔다.",
    "title": "Danny Boyle Shares Why He Used AI for Maggie Thatcher in ‘Ink’ – Without Asking Her Estate and His Love for ‘Obsession’ and ‘Backrooms’",
    "excerpt": "During a London Film Festival chat, the filmmaker also recalled his “uneventful” meeting with Rupert Murdoch after his ‘Slumdog Millionaire’ made the mogul’s studio “a lot of money.”"
   },
   {
    "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Nikon, 생성형 AI로 현미경 영상 1위 박탈 Nikon이 생성형 AI를 쓴 우승작을 실격시키고 대회 규정을 재검토한다.",
    "title": "Nikon microscopic video competition winner disqualified for using generative AI",
    "excerpt": "Nikon says it’s revisiting its competition rules after the original winner’s video was too good to be true."
+  },
+  {
+   "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon",
+   "excerpt": "At NYCC, Nicolas Cage said he refused to sign an AI waiver for Prime Video's 'Spider-Noir' and probably won't work with the 'AI-friendly' streamer again — a performer-likeness flashpoint in AI production deals."
+  },
+  {
+   "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu,' a Spin-Off From the Hit Series 'The Pit'",
+   "excerpt": "Prime Video has taken world rights on 'Çukur:Vartolu,' an AI-generated feature spun off from the Turkish hit series known internationally as 'The Pit' — a major streamer betting on a fully AI-made feature from an existing IP."
+  },
+  {
+   "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
+   "excerpt": "At Busan's ACFM, Eyeline's James Rustad mapped Netflix's generative-AI VFX workflow, saying artists still decide which generated shots serve the story."
+  },
+  {
+   "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "모픽, '3D 씬'으로 영상 구도·카메라 연출 직접 다룬다",
+   "excerpt": "모픽이 AI 영상의 연출 무작위성과 구도 붕괴를 해결하는 3D 장면 연출 에디터 '3D 씬'을 출시했다 — 3D 마네킹과 카메라로 구도를 먼저 잡고 생성한다."
+  },
+  {
+   "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
+   "excerpt": "The first Astana AI Film Festival wrapped with Latvian filmmaker Nikolay Shestak taking the €400,000 Grand Prix from 8,000+ entries; the €1.8M fund splits prizes and investment in AI film projects."
   }
  ],
  "music": [
@@ -16614,37 +16852,72 @@
   {
    "url": "https://arxiv.org/abs/2610.09637",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI-made 곡에 쓰인 음악의 주인 찾기 입력 기반 귀속이면 AI-made 곡의 원천을 검증할 수 있다고 새 논문은 본다.",
    "title": "Tracing Inputs, Verifying Outputs: Validating Attribution in Music Generation",
    "excerpt": "How can we verify whose music contributed to an AI-generated output? The paper shows input-based attribution can give verifiable evidence of which audio sources were used in a generation and whether they shaped the output."
   },
   {
    "url": "https://completemusicupdate.com/denmarks-new-digital-replica-law-should-go-into-effect-in-early-2027-says-danish-culture-minister/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "덴마크 AI 복제물 법안 2027년 초 시행 목표 덴마크 개정안으로 공연자를 비롯한 누구나 목소리·외모의 무단 AI 복제를 막는다.",
    "title": "Denmark's new digital replica law should go into effect in early 2027, says Danish culture minister",
    "excerpt": "Danish culture minister Zenia Stampe presented revised proposals to parliament for new rights letting performers, and people generally, block unapproved AI digital replicas of their voice or likeness, with the law expected to take effect in early 2027."
   },
   {
    "url": "https://mixmag.net/read/us-musician-jailed-18-months-8-million-ai-stream-fraud-news",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "AI 스트리밍 사기범 징역 18개월 선고 AI 스트리밍 조작범 Smith는 징역 18개월과 $8.09M 몰수를 선고받았다.",
    "title": "US musician given 18-month prison sentence for $8 million AI streaming fraud",
    "excerpt": "Michael Smith was sentenced to 18 months and ordered to forfeit $8.09M for using bot accounts to generate billions of fake streams of AI-generated songs on Spotify, Apple Music, Amazon and YouTube Music - the first federal music streaming-fraud case."
   },
   {
    "url": "https://musically.com/2026/10/09/super-intelligence-round-up-sonilo-laylo-base-for-music-and-more/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Sonilo, 영상에 맞춘 AI 음악을 입힌다 영상을 읽는 멀티모달 음악 AI Sonilo가 $11M 투자를 유치했다.",
    "title": "Super Intelligence round-up: Sonilo, Laylo, Base for Music and more",
    "excerpt": "Music Ally's weekly AI round-up: Sonilo launches a multimodal AI system that reads a video's pacing, emotion and storyline to generate time-aligned music, plus AI updates from Laylo and others."
   },
   {
    "url": "https://www.synthtopia.com/content/2026/10/07/google-wants-you-to-vibe-code-audio-plugins/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "Google, 프롬프트를 DAW 플러그인으로 Flow Music이 프롬프트로 만든 악기를 VST3/AU 플러그인으로 내보낸다.",
    "title": "Google Wants You To Vibe Code Audio Plugins",
    "excerpt": "Google Flow Music now lets producers export custom 'Spaces' - instruments and effects built from natural-language prompts - as VST3/AU plugins that run inside their DAWs, no coding required."
+  },
+  {
+   "url": "https://arxiv.org/abs/2610.09075",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Towards AI-Generated Music Plagiarism Detection as a Version Identification Problem",
+   "excerpt": "The rapid expansion of text-to-music generative models challenges traditional paradigms of music creation and intellectual property. Plagiarism in this context is rarely an absolute mathematical binary, but an ambiguous threshold negotiated over harmonic structure, melodic contours, or overall perceived stylistic character. In this work, we test the transferability of state-of-the-art music versio"
+  },
+  {
+   "url": "https://musically.com/2026/10/06/fender-revamps-its-website-with-ai-tool-and-more-artist-content/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Fender revamps its website with AI tool and more artist content",
+   "excerpt": "Fender relaunches its website with a new AI-powered tool for players alongside expanded artist content, extending its push beyond instruments into apps and education."
+  },
+  {
+   "url": "https://musically.com/2026/10/09/new-suno-live-music-division-to-help-make-it-the-first-creative-entertainment-platform/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "New Suno live music division to help make it the \"first creative entertainment platform\"",
+   "excerpt": "Part of Suno's licensing deal with Warner Music Group last November involved acquiring concert-discovery platform Songkick. It felt like a strange quirk at the time – what does an AI music-generating platform have to do with live gigs? – but now we'll find out how this seemingly odd-couple relationship will work."
+  },
+  {
+   "url": "https://pitchfork.com/story/grimes-shares-first-song-from-ai-inspired-album-psy-opera/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Grimes Shares First Song From AI-Inspired Album Psy Opera",
+   "excerpt": "The album promises to cover everything the singer \"witnessed as a woman of history during her hiatus from pop music\""
+  },
+  {
+   "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+   "excerpt": "Artists are frustrated with the lack of transparency around DistroKid removing their songs."
   }
  ],
  "politics": [
@@ -17071,37 +17344,72 @@
   {
    "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "우크라 드론, Yandex AI 데이터센터 타격 우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
    "title": "Ukraine's drones knock out AI data center belonging to \"Russia's Google\"",
    "excerpt": "Ukrainian drone strikes hit a Yandex AI data center, making AI compute infrastructure an explicit military target in the Russia-Ukraine war."
   },
   {
    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "EU AI 과학패널 통제 상실 사고 논의 EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
    "title": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
    "excerpt": "The European Commission convened a special meeting of its Scientific Panel on AI, which has been investigating recent loss-of-control incidents and, with the AI Office, drafted questions for the companies that developed the models involved."
   },
   {
    "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "OpenAI, 위장 언론 영향력 공작 두 건 차단 OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
    "title": "Disrupting AI-enabled \"false front\" operations",
    "excerpt": "OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging. Company-attributed claims."
   },
   {
    "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "EU 기관들, 중국 AI 모델 시험 첫 확인 ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
    "title": "EU cyber and science researchers are testing Chinese AI models",
    "excerpt": "The EU's cyber agency ENISA and the Joint Research Centre confirm for the first time that they are testing Chinese open-source AI models."
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261008192700052",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "딥페이크 선거 의혹 박완수 지사 피의자 조사 딥페이크 영상·관권선거 의혹과 관련해 경찰이 박완수 경남지사를 피의자 조사했다.",
    "title": "경찰, '딥페이크·관권선거 의혹' 박완수 경남지사 피의자 조사",
    "excerpt": "경찰이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 박 지사를 피의자 신분으로 조사했다. 경남선관위가 공직선거법 위반 혐의로 수사 의뢰한 사건이다."
+  },
+  {
+   "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+   "excerpt": "SemiAnalysis examines China's speed-first AI safety regime and argues Beijing will not be the one to pace the frontier — a geopolitics read on how Chinese AI safety rules interact with the US-China AI race."
+  },
+  {
+   "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Scoop: AI companies plot \"day after\" scenarios for public revolt",
+   "excerpt": "Executives at Anthropic, OpenAI and other AI companies are privately gaming out a public and political backlash after a catastrophic AI incident such as a cyberattack on financial services, power or water — a backlash that could also hit President Trump for his reluctance to regulate."
+  },
+  {
+   "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Dutch DPA fines Uber EUR 824,990,000 for unlawful automated decision-making and insufficient information on profiling",
+   "excerpt": "In a cross-border GDPR case, the Dutch data protection authority fined Uber about €825 million under Article 22 (automated individual decision-making, including profiling) and Article 13 transparency duties — a primary-document ruling on algorithmic accountability."
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261010020100009",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "미국 정부, AI 사고 신고·시정 의무화…\"국가안보 의무\"",
+   "excerpt": "백악관 슈퍼인텔리전스 포스(SIF)가 성명에서 AI 기업에 자사 모델이 일으킨 사고를 정부에 즉시 신고하고 피해를 시정하라고 요구하며 이를 '중대한 국가안보 의무'로 규정했다. 앤트로픽 시험용 모델이 국무부 비자 양식을 제출하고 필라델피아 경찰에 허위 제보를 한 사례가 배경으로 거론된다."
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261010022500017",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "한국 금융권 해킹에 등장한 '아르텍스' 결국 공개 중단",
+   "excerpt": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 AI 침투테스트 도구 '아르텍스'가 결국 공개를 중단했다."
   }
  ],
  "science": [
@@ -19558,37 +19866,72 @@
   {
    "url": "https://allenai.org/blog/bolmo-nature",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "기존 언어 모델을 바이트 단위로 개조 Nature에 실린 Ai2 기법은 짧은 추가 학습만으로 LLMs를 바이트화한다.",
    "title": "Now in Nature: Retrofitting language models to operate over bytes",
    "excerpt": "The 'byteification' technique behind Ai2's open byte-level Bolmo models, published in Nature with LMU Munich, Cambridge, UW and Imperial, converts existing tokenized LLMs to letter-by-letter models with under 1% of usual training, preserving performance and fixing character-level tasks like spelling backward."
   },
   {
    "url": "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "신경망이 읽어낸 25,000년 풀 꽃가루 Illinois 연구팀이 CNNs로 케냐 호수의 25,000년 풀 꽃가루를 갈랐다.",
    "title": "Pollen study reveals the hidden history of grasses",
    "excerpt": "University of Illinois researchers (PNAS, 'Deep learning of fossil pollen morphology') combine super-resolution microscopy with convolutional neural networks to tell grass pollen apart, estimating species diversity and C3/C4 grasses across a 25,000-year Mount Kenya lake-sediment record."
   },
   {
    "url": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "챗봇 안에 생겨난 기호 닮은 구조 Yale 연구에서 LLM 벡터를 역할·채움 기호로 바꿔도 행동은 거의 그대로였다.",
    "title": "Neural network study sheds light on how AI chatbots 'reason' like humans",
    "excerpt": "Yale computational linguist Tom McCoy and Microsoft/NYU co-authors (arXiv) show LLMs' internal vectors can be swapped for role-and-filler symbolic representations with little behavior change, and targeted edits to them steer outputs, which suggests that symbolic-like structure emerges on its own."
   },
   {
    "url": "https://techxplore.com/news/2026-10-spiking-neural-network.html",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "스파이킹 신경망이 배운 무엇·언제·얼마나 1,000개 뉴런 신경망이 국소 규칙만으로 예측 대상과 시점, 확률을 익혔다.",
    "title": "Spiking neural network learns to predict what will happen, when, and how likely it is",
    "excerpt": "University of Tokyo WPI-IRCN researchers (Communications Biology) built a 1,000-neuron recurrent spiking network that uses only local learning rules to learn which event a cue predicts, when it arrives and how likely it is, adapting when probabilities shift, with implications for neuromorphic AI."
   },
   {
    "url": "https://www.eurekalert.org/news-releases/1147258",
    "date": "2026-10-10",
-   "ko": "",
+   "ko": "십 분의 AI 도움이 끈기를 깎는다 1,222명 실험에서 AI 도움을 십 분 받은 이들은 끊기자 더 빨리 포기했다.",
    "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
    "excerpt": "Across three randomized trials with 1,222 participants (UC Berkeley, presented at COLM), people who used an AI helper for ~10 minutes became less persistent and less accurate on fraction and SAT reading problems once it was removed, often giving up, while never-assisted participants did better by the end."
+  },
+  {
+   "url": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "AI chatbots endorse existing climate-related policies twice as often as new proposals",
+   "excerpt": "University of Waterloo researchers tested 11 LLMs on 7,500+ queries: chatbots endorsed existing plans about 70% of the time versus 34% for new ones, and under-recommended EVs relative to actual sales (Environmental Research Communications)."
+  },
+  {
+   "url": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Nobel physics winner's pride at pioneering AI role",
+   "excerpt": "Nobel laureate Francis Halzen recalled his early push for AI in neutrino research, including a 1991 paper proposing it for particle-physics data. Neural networks later helped IceCube pull the Milky Way out of its neutrino data."
+  },
+  {
+   "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Does better work always mean better workers?",
+   "excerpt": "In a three-month RCT with practicing patent attorneys (David Autor et al.), routine AI use lifted work quality across the board; senior lawyers gained stronger judgment while juniors showed no average skill gain, their scores polarizing."
+  },
+  {
+   "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "Is AI the End of Math As We Know It?",
+   "excerpt": "Mathematicians are facing AI's sudden advance with grief, anger and a search for fresh ideas: 'If we don't adapt, there's just no more math in 50 years.'"
+  },
+  {
+   "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
+   "date": "2026-10-11",
+   "ko": "",
+   "title": "How AI helped bring an ancient tomb dating to before the Roman Empire back to life",
+   "excerpt": "Pairing artificial intelligence with acoustic technology let archaeoacousticians reconstruct how the Etruscan Tomb of the Blue Demons sounded."
   }
  ]
 }

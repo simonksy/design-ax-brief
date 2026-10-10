@@ -529,6 +529,133 @@
           "x": "Meta正与Shopify合作，通过Messenger上的Meta Business Agent实现直接结账，并与Adyen、PayPal、Shopify和Stripe一起为Meta AI测试类似的结账选项。"
         }
       ]
+    },
+    "marketing/agency-agentic-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Dentsu宣布，旗下媒介代理公司Carat与NBC Universal、Freewheel及AI公司Newton合作，推出用于预售（upfront）投资的规划、采买和优化智能体。Tinuiti推出“Bliss Point Model Context Protocol (MCP) Server”，将其测量层直接向AI智能体开放。Stagwell将旗下媒介代理公司Assembly重新推出为Stagwell Media，其核心是名为Machine OS的智能体系统。"
+        },
+        {
+          "t": "p",
+          "x": "但并非所有客户都愿意如此快速推进，而对于失控智能体的担忧，代理商的回应几乎总是由人来全程把关。Dentsu平台负责人Rebekah Shalit表示：“一切仍然需要人工监督。”Freewheel的David Dworin说，大多数智能体系统在设计上都要求由人批准所有操作，或设置非常具体的控制。"
+        },
+        {
+          "t": "p",
+          "x": "WPP Media的Lauren Wetzel表示，凡涉及财务或投放影响之处，都需要“明确的控制、审批阈值和可问责的人工监督”。Carat首席投资官Carrie Drinkwater则更为乐观：“如果现在不开始，我们就会落后。”"
+        }
+      ]
+    },
+    "marketing/ai-max-bidding-math": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+          "cap": "Google 8月17日的调整把400%的ROAS拉回200%的目标，与此同时Search收入增长17%"
+        },
+        {
+          "t": "p",
+          "x": "PPC Land特刊认为，Google为Google自身的收入做优化，而广告主必须为自己的收入做优化。自8月17日起，受预算限制、表现优于目标的Target CPA和Target ROAS广告系列会被拉回目标附近；成本超标的广告系列则不受影响。"
+        },
+        {
+          "t": "p",
+          "x": "Mike Ryan对3.83亿次展示的分析发现，到2026年7月，广告主以完全匹配购买的流量中约有29%被AI Max扩展。其他研究则认为，AI Max的广告支出回报率比传统匹配类型低约35%。"
+        },
+        {
+          "t": "p",
+          "x": "Google自己的数据也在变化：AI Max于2025年5月6日推出时宣称，在成本相近的情况下可多带来14%的转化次数或转化价值。到2026年4月宣布全面上线时，这一数字变为7%，依据是Google不含零售业务的2026年内部数据。后来一份假日指南又采用了另一种定义下的15%。"
+        },
+        {
+          "t": "p",
+          "x": "与此同时，Alphabet第二季度Search收入增长17%，达632.7亿美元。PPC Land的结论是，广告主越来越需要用非Google打造的工具来评判效果。"
+        }
+      ]
+    },
+    "marketing/regulated-ads-ai-defaults": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+        },
+        {
+          "t": "p",
+          "x": "对医疗、金融或法律领域的付费媒体营销人员来说，从自动出价的黑箱到AI生成（AI-generated）的创意，AI处处带来风险信号。要了解公司政策和行业准则，并谨慎对待输入AI工具的数据。"
+        },
+        {
+          "t": "p",
+          "x": "AI Max的文本自定义可能引入与获批信息不符的广告文案，最终URL扩展则可能链接到不想要的页面。若测试AI Max，可考虑同时关闭这两项功能。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+          "cap": "Google Ads截图，2026年10月"
+        },
+        {
+          "t": "p",
+          "x": "Performance Max在广告系列层级提供针对文本、图片和视频的Asset Optimization；Demand Gen在广告层级也有类似设置，包括可能遗漏免责声明的生成视频。Meta的Advantage+创意增强功能可能改变颜色、字体和版式。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+          "cap": "Google Ads截图，2026年10月"
+        },
+        {
+          "t": "p",
+          "x": "Meta的Advantage+定向和Google的优化定向可能让广告触达预期受众之外的人群，自动出价还可能引发算法偏见方面的担忧，例如公平借贷规则。应审查AI可能改动合规获批创意的环节，并增设防护措施。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-holiday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "品牌并不指望ChatGPT广告在今年节日季带来可观销售。除了高昂的单次点击成本和未经证实的销售效果，AI助手作为可信商品推荐来源的地位也仍在建立之中。"
+        },
+        {
+          "t": "p",
+          "x": "Sensor Tower数据显示，8月在ChatGPT投放广告的独立广告主超过1,400家，环比增长8%，但大部分支出来自Capital One、Expedia和Cloudflare等大公司。"
+        },
+        {
+          "t": "p",
+          "x": "“总体而言，效果相当差，”Measured的Terence Einhorn说，“ChatGPT上相当于单次点击成本的数值大约是Google的6X。”Superfiliate的Anders Bill表示，大多数品牌尚未把可观预算从Meta或搜索转移出来。"
+        },
+        {
+          "t": "p",
+          "x": "“在确认有效之前，品牌承担不起使用某样东西的代价，”Einhorn补充道，“而在用之前，他们也无法知道它是否有效。”"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-ads-agency-partner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI正在招聘一名销售人员，其任务是让ChatGPT广告成为代理商媒体计划中的固定项目。"
+        },
+        {
+          "t": "p",
+          "x": "该公司Ads Solutions团队的Agency Partner职位招聘启事要求应聘者“通过与主要代理控股集团建立战略关系”来推动广告主收入。该职位位于New York，基本年薪为$216,000至$273,000，另有股权和佣金。"
+        },
+        {
+          "t": "p",
+          "x": "该职位将主导与代理商的联合业务规划，负责代理商培训与赋能，并在独立代理商和控股集团中，与投资、战略、策划、创新、数据和商务等领域的代理商高层建立关系。"
+        },
+        {
+          "t": "p",
+          "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
+        }
+      ]
     }
   }
 }

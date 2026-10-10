@@ -1813,6 +1813,140 @@
           "x": "The regulator is now turning to AI agents. It has contacted OpenAI, Anthropic, Meta, and the UK's AI Security Institute after reports of agents bypassing safeguards. \"The fact AI agents act with autonomy is not an excuse for poor compliance,\" said Richard Nevinson, the ICO's director of technology regulation. A six-week call for evidence on agentic AI runs until November 20."
         }
       ]
+    },
+    "politics/uber-gdpr-art22-fine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject). Decision: Administrative fine."
+        },
+        {
+          "t": "p",
+          "x": "The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, imposes a fine of EUR 824 990 000 on Uber. The reason for this is that the AP has ruled that Uber made fully automated decisions about drivers. In case of suspicions of fraud or customer reviews that were too low, drivers' accounts were automatically temporarily deactivated or, in case of persistent low customer reviews, permanently deactivated. As a result, their income was lost via Uber during the deactivation."
+        },
+        {
+          "t": "p",
+          "x": "Complaints from 171 French Uber drivers, submitted through the Ligue des droits de l’Homme (LDH) to the French Commission Nationale de l'Informatique et des Libertés (CNIL), led to the investigation. As Uber’s European headquarters are in the Netherlands, the case was handled by the Dutch data protection authority, the Autoriteit Persoonsgegevens (AP), under the GDPR One-Stop-Shop procedure. The case concerned incidents between 2018 and 2022."
+        },
+        {
+          "t": "p",
+          "x": "According to the AP, Uber has violated the prohibition of fully automated decision-making under the General Data Protection Regulation (GDPR). The AP also found that Uber did not sufficiently inform drivers about automatic decision-making. Uber has now stopped the violations."
+        },
+        {
+          "t": "p",
+          "x": "Uber has appealed the fine, and there is no final judicial decision yet."
+        }
+      ]
+    },
+    "politics/ai-labs-backlash-plans": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event, Axios reports. They anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water."
+        },
+        {
+          "t": "p",
+          "x": "Such a first case of significant real-world harm would turn an already wary public further against the technology and its leaders, including Dario Amodei and Sam Altman, as well as President Trump for his reluctance to regulate it, according to the report. Many top AI researchers and executives believe a major incident is inevitable."
+        },
+        {
+          "t": "p",
+          "x": "\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable.\" Anthropic declined to comment."
+        },
+        {
+          "t": "p",
+          "x": "Axios cites a recent campaign against South Korean financial organizations: per CrowdStrike, a hacker from China allegedly used China-developed AI models, including DeepSeek, to steal data from tens of thousands of bank customers."
+        },
+        {
+          "t": "p",
+          "x": "Top AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges. The planning focuses mainly on racing to educate members of Congress, and many industry insiders told Axios they expect a major event in the next six to 12 months."
+        }
+      ]
+    },
+    "politics/artex-pentest-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+          "cap": "A bank ATM in Seoul [Yonhap file photo. Resale and DB prohibited]"
+        },
+        {
+          "t": "p",
+          "x": "ARTEX, a Chinese-made artificial intelligence (AI) penetration-testing tool reportedly used in a string of hacking attacks on South Korea's financial sector, is ending public development after controversy over its misuse."
+        },
+        {
+          "t": "p",
+          "x": "The ARTEX developer said updates would stop and no further versions would be released, citing the tool's misuse in cyberattacks. The related page on the developer platform GitHub has also reportedly disappeared. However, since programs already distributed cannot be recalled, halting development alone is unlikely to block cyberattacks using ARTEX."
+        },
+        {
+          "t": "p",
+          "x": "According to foreign media including AFP and Reuters on the 10th, ARTEX developer 'Autumn-27' said in a post on the developer platform GitHub on the 8th that ARTEX had been misused, adding, \"Given the misuse of the tool, ARTEX will no longer be updated and will move to closed source.\" The developer added, \"Further versions will not be released to the public, and no maintenance support will be provided.\""
+        },
+        {
+          "t": "p",
+          "x": "The ARTEX side said using the tool for cyberattacks runs counter to the developer's intent, but did not directly mention the hacking incidents in South Korea. It also claimed it bears no responsibility for acts that violate laws and regulations using the tool. Reuters reported that ARTEX's GitHub page is gone."
+        },
+        {
+          "t": "p",
+          "x": "Experts noted that ARTEX's move to closed source could make it harder for new users to build the code. However, a Chinese information and communications expert told AFP that the decision cannot remove copies already downloaded or stop users from continuing to use them."
+        },
+        {
+          "t": "p",
+          "x": "ARTEX is an autonomous penetration-testing program that connects large language models (LLM) so that AI agents analyze targets, plan intrusion paths and run security tools. U.S. security firm CrowdStrike found that attacks targeting South Korean financial institutions took place between late last month and early this month, and that the attackers used ARTEX together with LLM."
+        }
+      ]
+    },
+    "politics/china-speed-first-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+        },
+        {
+          "t": "p",
+          "x": "After Dario Amodei argued on 12 September 2026 that frontier labs must deliberately slow capability gains, with China central to his case, SemiAnalysis asks what China is actually doing on AI safety. Its answer: Beijing's real approach is speed-based, not safety-based."
+        },
+        {
+          "t": "p",
+          "x": "China's stated position is safety-forward, and TC260's AI Safety Governance Framework 3.0 (14 September 2026) warns of recursive self-improvement. But the Framework opens with promoting innovation, the promised comprehensive AI Law was shelved in 2025, and the AI+ Action Plan targets 70% agent penetration by 2027. Its many mandates govern what AI says and does in applications, not frontier models."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+          "cap": "Source: SemiAnalysis"
+        },
+        {
+          "t": "p",
+          "x": "In a dataset of 857 releases by 9 leading Chinese developers from 2021 to 15 September 2026, only 31 (3.6%) ever came with a published safety result, and just 9 (1.1%) at or before release. No Chinese frontier text model has shipped with a dangerous-capability evaluation; Zhipu is the only lab where safety is a named strategic commitment."
+        },
+        {
+          "t": "p",
+          "x": "A text analysis of 102 documents finds only technical scientists put safety ahead of development; none of 13 calls for binding frontier duties was adopted. The authors argue geopolitics pushed China toward speed, and note that Anthropic's own next launch post framed pacing as \"remaining competitive with China.\""
+        }
+      ]
+    },
+    "politics/eu-ai-panel-loss-of-control": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The European Commission held a special meeting of the Scientific Panel on artificial intelligence (AI) on 9 October."
+        },
+        {
+          "t": "p",
+          "x": "The panel has been investigating recent loss-of-control incidents and, together with the Commission's AI Office, has worked on a set of questions for the companies that developed the models involved. Executive Vice-President Henna Virkkunen, responsible for Tech Sovereignty, Security and Democracy, attended."
+        },
+        {
+          "t": "p",
+          "x": "The panel brings together 60 independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies and cross-border market surveillance. At the meeting it was to present recommendations to the Commission on frontier AI safety and security risks."
+        },
+        {
+          "t": "p",
+          "x": "Virkkunen said: “The EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.”"
+        }
+      ]
     }
   }
 }
