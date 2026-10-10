@@ -7075,6 +7075,145 @@
           "x": "In a related Perspective, Jeremy Avigad and Matthew Ballard note that even unsuccessful AI proof attempts helped the authors understand the problems better and make progress."
         }
       ]
+    },
+    "science/science-chatbots-climate-status-quo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+          "cap": "Credit: Matheus Bertelli from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Waterloo researchers tested 11 large language models for status quo bias in climate-related advice. The study appears in Environmental Research Communications."
+        },
+        {
+          "t": "p",
+          "x": "They evaluated more than 7,500 queries on topics such as vehicle purchases, recipes, home heating and climate policy trade-offs, producing nearly 55,000 prompts. Where policy trade-offs were possible, the models reinforced users' existing decisions about twice as often."
+        },
+        {
+          "t": "p",
+          "x": "The models said yes to existing plans about 70% of the time, but only 34% of the time for new plans or policies. Even when accounting for regional factors, they recommended electric vehicles less often than those vehicles were already selling in each country."
+        },
+        {
+          "t": "p",
+          "x": "Lead researcher Seth Wynes suggests users ask chatbots to make the case for doing something new."
+        }
+      ]
+    },
+    "science/science-patent-attorney-ai-rct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a three-month randomized controlled trial with practicing patent attorneys, David Autor and Tanya Rodchenko found that routine AI use lifts work quality across the board, but its effect on on-the-job learning depends on seniority."
+        },
+        {
+          "t": "p",
+          "x": "The team randomized access to a then-unreleased Google Labs patent-writing assistant, now part of Gemini Notebook, among 133 lawyers at eleven IP law firms. AI access raised drafting scores by 0.34 standard deviations at 10 days and 0.38 SD at 90 days."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+          "cap": "Estimated impact of AI access on patent drafting and redlining quality, for all, junior and senior lawyers."
+        },
+        {
+          "t": "p",
+          "x": "On an unassisted redlining task at 90 days, the AI group outperformed controls by 0.32 SD, driven entirely by senior lawyers (0.45 SD). Juniors showed no discernible improvement; their scores bifurcated into more very low and more good ones."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+          "cap": "Distributions of average redlining scores for treated and control lawyers by experience."
+        },
+        {
+          "t": "p",
+          "x": "Seniors described treating AI output as a \"logic auditor.\" The authors warn that tools producing better work today must not prevent juniors from becoming tomorrow's experts."
+        }
+      ]
+    },
+    "science/science-quanta-math-ai-reckoning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+          "cap": "Eduardo Ramón for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "On September 8, OpenAI announced its models had solved one of math's most famous problems, sparking controversy over authorship and standards. Many responses revealed grief, confusion and fear. At a Berkeley talk by Ken Ono of the start-up Axiom Math, students reacted with anger and frustration."
+        },
+        {
+          "t": "p",
+          "x": "AI proofs are verified but nearly impossible to read, leaving out the understanding mathematicians trade in. \"It breaks our system,\" said Caltech's Tasmin Chu. OpenAI is keeping more than 100 results secret, arXiv now limits authors to two submissions a month, and MathOverflow activity is declining."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+        },
+        {
+          "t": "p",
+          "x": "\"There's a bad future where if we don't adapt, there's just no more math in 50 years,\" said Daniel Litt of the University of Toronto. MIT's Pavel Etingof sees mathematicians interpreting AI results instead. Some, like McGill's Marcel Goh, call themselves AI \"vegetarians.\""
+        },
+        {
+          "t": "p",
+          "x": "Chu and others formed the Association for Human Mathematics, and mathematicians are rethinking training, publication and hiring."
+        }
+      ]
+    },
+    "science/science-halzen-nobel-icecube-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+          "cap": "Francis Halzen said AI helped researchers \"see the Milky Way\" in their data on neutrinos."
+        },
+        {
+          "t": "p",
+          "x": "Nobel physics laureate Francis Halzen, 82, of the University of Wisconsin-Madison, spoke with pride in Turin about his early promotion of AI in neutrino research. He is the mind behind IceCube, with 5,484 optical modules in the Antarctic ice."
+        },
+        {
+          "t": "p",
+          "x": "\"The first neural nets appeared in the late 1980s, and I am very proud that I wrote a paper in 1991 proposing to use AI\" to analyze experimental data, he said. Neural nets were used only occasionally until very powerful ones came along a few years ago."
+        },
+        {
+          "t": "p",
+          "x": "In the neutrino sky, Halzen said, you see other galaxies rather than the Milky Way. With neural networks, \"we finally began to see the Milky Way in our data.\" He also discussed funding pressures on science; IceCube has received about $250 million from the U.S. National Science Foundation."
+        }
+      ]
+    },
+    "science/science-ai-help-persistence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Spending just 10 minutes relying on an AI tool significantly impairs people's ability to focus and persist with difficult tasks, according to a peer-reviewed study co-authored by Brian Christian of UC Berkeley's Center for Human-Compatible AI and presented this week at the Conference on Language Modeling."
+        },
+        {
+          "t": "p",
+          "x": "The team ran randomized controlled trials with 1,222 online participants. In the first, 354 people solved 15 fraction problems; one group had ChatGPT on the side. The AI group started out more accurate, but after 12 problems the tool was taken away and their accuracy collapsed almost immediately."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+          "cap": "The AI group's solve rate (orange) dropped after the tool was removed, while the rate of skipped questions rose sharply."
+        },
+        {
+          "t": "p",
+          "x": "A second trial with 667 people and a third with 201 on SAT reading comprehension echoed the result: once AI help was withdrawn, persistence and accuracy dropped, while those who never had it stuck with the task. The authors say AI removes \"productive struggle\" and that assistants could default to teaching like a tutor."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+          "cap": "Brian Christian speaking about the research at UC Berkeley on Oct. 7, 2026."
+        },
+        {
+          "t": "p",
+          "x": "\"This is not a story about fractions and SAT problems,\" Christian said. \"This is something that is happening to human knowledge and human expertise from top to bottom.\""
+        }
+      ]
     }
   }
 }

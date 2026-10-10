@@ -6392,6 +6392,142 @@
           "x": "Aftermath认为，AI-generated素材可能让同人作者望而却步，并称其为“又一轮AI炒作”。目前计划进行封闭游戏测试，尚无公开发售日期。"
         }
       ]
+    },
+    "games/ea-javelin-ai-aimbots": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Intorqa's 2026 Cheatonomics study estimates the global video game cheating economy at $8.5 billion a year. EA says its Javelin anti-cheat now protects 21 games, monitored 10.8 billion PC sessions and dealt with 26.7 million cheat attempts in the past year, with 99%-plus detection accuracy."
+        },
+        {
+          "t": "p",
+          "x": "EA CISO Mike Reavey says Javelin rests on strong tech, on disrupting the business of cheat sellers, and on talking openly with players."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On AI, Reavey says: “AI is real. It can help you in a lot of ways, both good and bad. We're going to use whatever tools we can to try and keep our games as secure as possible.” CISOs are asking how to take what they did at human speed and do it at machine speed, because attackers might be moving at machine speed now."
+        },
+        {
+          "t": "p",
+          "x": "Asked whether AI can create undetectable cheats, he says what's undetectable today is probably detectable with the right solution, and that the same tools available to attackers are available to defenders."
+        }
+      ]
+    },
+    "games/black-myth-zhongkui-no-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "打造《Black Myth: Wukong》及其即将推出的续作《Black Myth: Zhong Kui》的中国工作室Game Science宣布，受Christopher Nolan影响，将“直到最后”都不使用AI。"
+        },
+        {
+          "t": "p",
+          "x": "在GamesRadar注意到的一篇近期翻译的Q&A中，联合创始人兼美术总监Yang Qi驳斥了外界对《Zhong Kui》使用AI的质疑，并援引Nolan的《The Odyssey》：“在数字电影制作和3D后期制作似乎已走到死胡同的时候，看看Nolan……”以及“他正用更古老的技术来打破常规，而且如鱼得水。”"
+        },
+        {
+          "t": "p",
+          "x": "作者指出，即便只用于游戏素材，genAI也一直令玩家担忧，而今后许多大型工作室会更多地使用AI工具，这让Game Science的立场显得令人耳目一新。"
+        },
+        {
+          "t": "p",
+          "x": "《Black Myth: Zhong Kui》仍未公布发售日期，用Game Science联合创始人的话说，因为“不着急”。"
+        },
+        {
+          "t": "video",
+          "yt": "sqe3j4Qch1Y"
+        }
+      ]
+    },
+    "games/aion2-steam-ai-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Aion 2是2008年韩国MMO《Aion: The Tower of Eternity》的续作。尽管开发商兼发行商NC使用了生成式AI，该作在Steam正式上线首日仍吸引了近400,000名玩家——据SteamDB统计为397,905人。它在Steam的Most Played榜单上位列第四，领先Apex Legends。"
+        },
+        {
+          "t": "video",
+          "yt": "YYelxy0eEsA"
+        },
+        {
+          "t": "p",
+          "x": "该作目前的Steam评价为“Mixed”，许多评测都在讨论其pay-to-win机制，其中一篇称之为“极其掠夺性的商业化”。另一些人抱怨游戏透着“slop”感，或许是在影射NC使用生成式AI。商店页面披露：“部分游戏内素材在AI工具的辅助下制作。Arcana卡牌设计和部分图标使用了AI生成（AI-generated）素材。”"
+        },
+        {
+          "t": "p",
+          "x": "作者指出，Gen AI并不是玩家反馈中的主要话题，赞誉之声也不少：角色创建很出色，世界也很美。"
+        }
+      ]
+    },
+    "games/google-playground-ai-games": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+        },
+        {
+          "t": "p",
+          "x": "Google再次大举尝试打造专属电子游戏平台，这一次面向用生成式AI制作的游戏。新项目Google Playground是一个用于制作、分享和游玩由生成式AI工具制作的游戏的平台。"
+        },
+        {
+          "t": "p",
+          "x": "在今天的发布中，一位Google发言人将Playground描述为“实验性游戏平台”，它“让用户无需编程经验即可创建、游玩和分享完全自定义的游戏”。"
+        },
+        {
+          "t": "p",
+          "x": "该公司表示：“借助Playground的对话式界面，用户可以输入想要的内容、混编入门提示词或获得引导式支持来创建自定义游戏，与世界分享自己的创意。”“用户基本上相当于导演，可以通过提示词完善规则、定制角色、调整环境，直到达到心中设想。而且由于Playground基于浏览器，游戏可在手机和笔记本电脑上游玩。”"
+        },
+        {
+          "t": "p",
+          "x": "有意尝试Playground的开发者还可以使用Unity Spark，这是Unity另行发布的一款新工具，专为配合Playground而打造。"
+        },
+        {
+          "t": "p",
+          "x": "Google的新平台似乎同时面向资深游戏开发者，以及希望绕开传统开发流程、把创意变成游戏的准游戏制作者。与此同时，开发者仍在持续尝试生成式AI，却对其给电子游戏行业带来的影响深感担忧。"
+        },
+        {
+          "t": "p",
+          "x": "对Google新平台感兴趣的人可以亲自试玩这些游戏。"
+        }
+      ]
+    },
+    "games/kotaku-vibe-browser-ports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+        },
+        {
+          "t": "p",
+          "x": "过去几周里，数百个靠氛围编程（vibe-coded）做出、经AI反编译（AI-decompiled）的模拟器和游戏凭空冒了出来，原因是Claude Opus 5.5极其擅长反编译。过去程序员要花数月才能完成的游戏源代码重建，如今能以创纪录的速度完成。"
+        },
+        {
+          "t": "p",
+          "x": "迄今最令人担忧的例子是：经AI反编译的Call of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3和The Simpsons: Hit and Run网页浏览器移植版，实际运行起来似乎相当流畅。发行商可以发出停止侵权函（cease-and-desist），但这些移植版显然做起来既容易又快，那么又有什么能阻止人们用氛围编程（vibe-coding）做出新的版本？"
+        },
+        {
+          "t": "p",
+          "x": "部分移植版看上去近乎完美。Hit and Run可以以240fps为目标，四个Halo: CE浏览器移植版中有一个连低延迟的在线服务器都能正常使用。它们大多是PS2或PS3时代（PS3-era）的作品，而PS3只有约512 MB内存，因此内存早已不再是浏览器移植的限制。"
+        },
+        {
+          "t": "p",
+          "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
+        }
+      ]
     }
   }
 }

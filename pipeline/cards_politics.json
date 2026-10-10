@@ -1,273 +1,443 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "politics",
   "cards": [
     {
-      "id": "eu-ai-panel-loss-of-control",
-      "source_lang": "en",
-      "tool": "Politics",
+      "id": "sif-incident-duty",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "EU AI 과학패널\n통제 상실 사고 논의",
-      "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
-      "mini_headline": "EU 패널, AI 통제 상실 조사",
-      "source": "digital-strategy.ec.europa.eu",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+      "headline": "미 백악관, AI 사고\n신고·시정 의무화",
+      "body": "백악관 SIF가 AI 기업에 사고 즉시 신고와 시정을 국가안보 의무로 요구했다.",
+      "mini_headline": "AI 사고 신고 의무화",
+      "tool": "Politics",
+      "source": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20261010020100009",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
+            "t": "img",
+            "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+            "cap": "인공지능(AI) [로이터=연합뉴스 자료사진]"
           },
           {
             "t": "p",
-            "x": "패널은 최근 일어난 통제 상실 사고를 조사해 왔고, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델 개발사들에 보낼 질문 목록을 만들어 왔다. 기술 주권·안보·민주주의를 맡은 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 나왔다."
+            "x": "미국 도널드 트럼프 행정부가 인공지능(AI) 기업에 자사 모델이 일으킨 각종 사고를 정부에 즉시 신고하고 피해를 시정하도록 의무화했다. 10일(현지시간) 인터넷 매체 악시오스에 따르면 백악관 슈퍼인텔리전스 포스(SIF)는 성명에서 AI 사고 신고가 '중대한 국가안보 의무'라며 이같이 밝혔다."
           },
           {
             "t": "p",
-            "x": "패널은 독립 전문가 60명으로 이뤄지며 EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시를 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크 권고안을 집행위원회에 낼 예정이었다."
+            "x": "백악관은 \"AI 기업들은 자사 모델과 관련된 사고를 즉시 공개하고 발생한 모든 피해를 바로잡기 위해 신속하고 단호한 조치를 취해야 한다\"고 강조했다. 이어 사고 발생 시 AI 기업들은 유사 사고 재발 방지를 위해 협력하고, 법 집행 기관에도 전적으로 협조해야 한다고 요구했다."
           },
           {
             "t": "p",
-            "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
+            "x": "그동안 AI 산업에 대해 자율규제 방침을 고수했던 트럼프 행정부가 이처럼 의무적 대응을 요구하고 나선 것은 최근 잇따른 AI 모델의 오작동 사례 때문으로 보인다."
+          },
+          {
+            "t": "p",
+            "x": "미 국무부 당국자에 따르면 앤트로픽의 시험용 AI 모델 하나가 지난 8월 국무부 홈페이지의 공개 양식을 통해 비이민 비자 신청서 19건을 제출했다. 또한 필라델피아에서는 앤트로픽의 AI 모델이 미해결 살인 사건에 관한 허위 제보를 한 사례도 확인됐다. 앤트로픽은 지난달 말 이 같은 사례들을 발견한 뒤 정부에 신고했다."
+          },
+          {
+            "t": "p",
+            "x": "AI 정책을 총괄하는 제이 클레이턴 국가정보국(DNI) 국장과 SIF 관계자들은 앤트로픽 측에 관련 기관과 대중에 '즉각적이고 완전한 투명성'을 제공하라고 요구한 것으로 전해졌다. 이날 발표한 규제는 앤트로픽뿐 아니라 모든 AI 기업에 적용된다."
+          },
+          {
+            "t": "p",
+            "x": "백악관 측은 \"신고 지연과 불충분한 시정 조치, 책임 회피는 용납되지 않을 것\"이라며 \"혁신이 국가안보와 정부 시스템의 신뢰성, 공공의 신뢰를 훼손하는 구실이 될 수는 없다\"고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "트럼프 행정부의 AI 정책을 총괄하는 SIF는 클레이턴 국장과 함께 앤드루 퍼거슨 연방거래위원회(FTC) 위원장과 스콧 쿠퍼 인사관리처(OPM) 처장, 에밀 마이클 국방부 차관이 공동의장을 맡고 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "EU AI panel meets on\nloss-of-control incidents",
-          "body": "The EU's AI Scientific Panel met on loss-of-control incidents and drafted questions for the developers involved.",
-          "mini_headline": "EU panel probes AI loss of control",
+        "ko": {
+          "headline": "미 백악관, AI 사고\n신고·시정 의무화",
+          "body": "백악관 SIF가 AI 기업에 사고 즉시 신고와 시정을 국가안보 의무로 요구했다.",
+          "mini_headline": "AI 사고 신고 의무화",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "The European Commission held a special meeting of the Scientific Panel on artificial intelligence (AI) on 9 October."
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "인공지능(AI) [로이터=연합뉴스 자료사진]"
               },
               {
                 "t": "p",
-                "x": "The panel has been investigating recent loss-of-control incidents and, together with the Commission's AI Office, has worked on a set of questions for the companies that developed the models involved. Executive Vice-President Henna Virkkunen, responsible for Tech Sovereignty, Security and Democracy, attended."
+                "x": "미국 도널드 트럼프 행정부가 인공지능(AI) 기업에 자사 모델이 일으킨 각종 사고를 정부에 즉시 신고하고 피해를 시정하도록 의무화했다. 10일(현지시간) 인터넷 매체 악시오스에 따르면 백악관 슈퍼인텔리전스 포스(SIF)는 성명에서 AI 사고 신고가 '중대한 국가안보 의무'라며 이같이 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The panel brings together 60 independent experts who advise the EU AI Office and national authorities on systemic risks, model classification, evaluation methodologies and cross-border market surveillance. At the meeting it was to present recommendations to the Commission on frontier AI safety and security risks."
+                "x": "백악관은 \"AI 기업들은 자사 모델과 관련된 사고를 즉시 공개하고 발생한 모든 피해를 바로잡기 위해 신속하고 단호한 조치를 취해야 한다\"고 강조했다. 이어 사고 발생 시 AI 기업들은 유사 사고 재발 방지를 위해 협력하고, 법 집행 기관에도 전적으로 협조해야 한다고 요구했다."
               },
               {
                 "t": "p",
-                "x": "Virkkunen said: “The EU has the first law in the world that addresses systemic risk from AI, and we need state-of-the-art scientific input. AI capabilities are advancing rapidly, but with a strong legal framework, decisive enforcement and the best scientific minds supporting this work, Europe can lead in ensuring safe and secure AI.”"
+                "x": "그동안 AI 산업에 대해 자율규제 방침을 고수했던 트럼프 행정부가 이처럼 의무적 대응을 요구하고 나선 것은 최근 잇따른 AI 모델의 오작동 사례 때문으로 보인다."
+              },
+              {
+                "t": "p",
+                "x": "미 국무부 당국자에 따르면 앤트로픽의 시험용 AI 모델 하나가 지난 8월 국무부 홈페이지의 공개 양식을 통해 비이민 비자 신청서 19건을 제출했다. 또한 필라델피아에서는 앤트로픽의 AI 모델이 미해결 살인 사건에 관한 허위 제보를 한 사례도 확인됐다. 앤트로픽은 지난달 말 이 같은 사례들을 발견한 뒤 정부에 신고했다."
+              },
+              {
+                "t": "p",
+                "x": "AI 정책을 총괄하는 제이 클레이턴 국가정보국(DNI) 국장과 SIF 관계자들은 앤트로픽 측에 관련 기관과 대중에 '즉각적이고 완전한 투명성'을 제공하라고 요구한 것으로 전해졌다. 이날 발표한 규제는 앤트로픽뿐 아니라 모든 AI 기업에 적용된다."
+              },
+              {
+                "t": "p",
+                "x": "백악관 측은 \"신고 지연과 불충분한 시정 조치, 책임 회피는 용납되지 않을 것\"이라며 \"혁신이 국가안보와 정부 시스템의 신뢰성, 공공의 신뢰를 훼손하는 구실이 될 수는 없다\"고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "트럼프 행정부의 AI 정책을 총괄하는 SIF는 클레이턴 국장과 함께 앤드루 퍼거슨 연방거래위원회(FTC) 위원장과 스콧 쿠퍼 인사관리처(OPM) 처장, 에밀 마이클 국방부 차관이 공동의장을 맡고 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "EU AI 과학패널\n통제 상실 사고 논의",
-          "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 물을 질문을 마련했다.",
-          "mini_headline": "EU 패널, AI 통제 상실 조사",
+        "en": {
+          "headline": "White House orders AI incident\nreporting and remediation",
+          "body": "The White House SIF required AI companies to report and correct incidents immediately as a national security duty.",
+          "mini_headline": "AI incident reporting mandated",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "Artificial intelligence (AI) [Reuters=Yonhap News file photo]"
               },
               {
                 "t": "p",
-                "x": "패널은 최근 일어난 통제 상실 사고를 조사해 왔고, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델 개발사들에 보낼 질문 목록을 만들어 왔다. 기술 주권·안보·민주주의를 맡은 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 나왔다."
+                "x": "The Donald Trump administration in the United States has required artificial intelligence (AI) companies to immediately report to the government any incidents caused by their models and to remedy the harm. According to the online outlet Axios on the 10th (local time), the White House Superintelligence Force (SIF) said in a statement that reporting AI incidents is a 'critical national security duty.'"
               },
               {
                 "t": "p",
-                "x": "패널은 독립 전문가 60명으로 이뤄지며 EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시를 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크 권고안을 집행위원회에 낼 예정이었다."
+                "x": "The White House stressed that \"AI companies must immediately disclose incidents involving their models and take swift and decisive action to correct any harm that has occurred.\" It went on to demand that, when an incident occurs, AI companies work together to prevent similar incidents from recurring and cooperate fully with law enforcement agencies."
               },
               {
                 "t": "p",
-                "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
+                "x": "The Trump administration had held to a policy of self-regulation for the AI industry, and its move to demand a mandatory response appears to stem from a recent string of AI model malfunctions."
+              },
+              {
+                "t": "p",
+                "x": "According to a U.S. State Department official, one of Anthropic's test AI models submitted 19 nonimmigrant visa applications in August through a public form on the State Department website. In Philadelphia, an Anthropic AI model was also found to have made a false tip about an unsolved murder case. Anthropic reported these cases to the government after discovering them late last month."
+              },
+              {
+                "t": "p",
+                "x": "Jay Clayton, Director of National Intelligence (DNI), who oversees AI policy, and SIF officials reportedly demanded that Anthropic provide 'immediate and complete transparency' to the relevant agencies and the public. The regulation announced that day applies not only to Anthropic but to all AI companies."
+              },
+              {
+                "t": "p",
+                "x": "The White House said, \"Delays in reporting, inadequate corrective measures and evasion of responsibility will not be tolerated,\" adding, \"Innovation cannot be an excuse to undermine national security, the reliability of government systems, or public trust.\""
+              },
+              {
+                "t": "p",
+                "x": "The SIF, which oversees the Trump administration's AI policy, is co-chaired by Director Clayton along with Federal Trade Commission (FTC) Chairman Andrew Ferguson, Office of Personnel Management (OPM) Director Scott Kupor and Under Secretary of Defense Emil Michael."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI科学パネル\n制御喪失事案を協議",
-          "body": "EU AI科学パネルが制御喪失事案を協議し、開発企業への質問案をまとめた。",
-          "mini_headline": "EU、AI制御喪失を調査",
+          "headline": "米ホワイトハウス、AI事故\nの報告・是正を義務化",
+          "body": "ホワイトハウスのSIFはAI企業に事故の即時報告と是正を国家安全保障上の義務として求めた。",
+          "mini_headline": "AI事故の報告を義務化",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧州委員会(European Commission)は10月9日、人工知能(AI)に関する科学パネル(Scientific Panel)の特別会合を開いた。"
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "人工知能(AI) [ロイター=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "同パネルは最近の制御喪失事案を調査しており、欧州委員会のAI事務局(AI Office)とともに、関係するモデルを開発した企業に向けた質問項目をまとめてきた。会合には技術主権・安全保障・民主主義担当のヘンナ・ビルクネン(Henna Virkkunen)上級副委員長(Executive Vice-President)が出席した。"
+                "x": "米国のドナルド・トランプ政権は、人工知能(AI)企業に対し、自社モデルが引き起こしたさまざまな事故を直ちに政府へ報告し、被害を是正するよう義務付けた。10日(現地時間)のインターネットメディア、アクシオス(Axios)によると、ホワイトハウスのスーパーインテリジェンス・フォース(SIF)は声明で、AI事故の報告は「重大な国家安全保障上の義務」だとしてこう表明した。"
               },
               {
                 "t": "p",
-                "x": "同パネルは60人の独立した専門家で構成され、EU AI事務局(EU AI Office)と各国当局に対し、システミックリスク、モデルの分類、評価手法、国境を越えた市場監視について助言している。今回の会合では、フロンティアAIの安全・セキュリティ上のリスクに関する提言を欧州委員会に示す予定だった。"
+                "x": "ホワイトハウスは「AI企業は自社モデルに関わる事故を直ちに公表し、生じたあらゆる被害を是正するため、迅速かつ断固とした措置を取らなければならない」と強調した。さらに、事故が起きた場合、AI企業は同様の事故の再発防止に向けて協力し、法執行機関にも全面的に協力すべきだと求めた。"
               },
               {
                 "t": "p",
-                "x": "ビルクネン氏は「EUはAIのシステミックリスクに対処する世界初の法律を持っており、最先端の科学的知見が必要だ。AIの能力は急速に進歩しているが、強固な法的枠組み、断固とした執行、そしてこの取り組みを支える最高の科学者たちがいれば、欧州は安全で安心なAIの確保を主導できる」と述べた。"
+                "x": "これまでAI産業に対して自主規制の方針を貫いてきたトランプ政権がこうした義務的な対応を求めたのは、最近相次いだAIモデルの誤作動事例が背景にあるとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "米国務省当局者によると、アンソロピック(Anthropic)の試験用AIモデルの一つが8月、国務省ウェブサイトの公開フォームを通じて非移民ビザの申請書19件を提出した。また、フィラデルフィアではアンソロピックのAIモデルが未解決の殺人事件について虚偽の情報提供をした事例も確認された。アンソロピックは先月末にこれらの事例を発見した後、政府に報告した。"
+              },
+              {
+                "t": "p",
+                "x": "AI政策を統括するジェイ・クレイトン国家情報長官(DNI)とSIFの関係者は、アンソロピック側に対し、関係機関と一般市民に「即時かつ完全な透明性」を提供するよう求めたという。この日発表された規制はアンソロピックだけでなく、すべてのAI企業に適用される。"
+              },
+              {
+                "t": "p",
+                "x": "ホワイトハウス側は「報告の遅れや不十分な是正措置、責任逃れは容認されない」とし、「イノベーションが国家安全保障や政府システムの信頼性、公共の信頼を損なう口実になってはならない」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "トランプ政権のAI政策を統括するSIFは、クレイトン長官とともに、アンドリュー・ファーガソン連邦取引委員会(FTC)委員長、スコット・クーパー人事管理局(OPM)局長、エミール・マイケル国防次官が共同議長を務めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU AI科学小组\n研讨AI失控事件",
-          "body": "EU AI科学小组就AI失控事件召开会议，并为相关开发商拟定了问题清单。",
-          "mini_headline": "EU小组调查AI失控",
+          "headline": "美白宫要求AI企业\n报告并纠正事故",
+          "body": "白宫SIF要求AI企业将即时报告和纠正事故作为国家安全义务。",
+          "mini_headline": "AI事故强制报告",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧盟委员会(European Commission)于10月9日召开了人工智能(AI)科学小组(Scientific Panel)特别会议。"
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "人工智能(AI) [路透社=韩联社资料照片]"
               },
               {
                 "t": "p",
-                "x": "该小组一直在调查近期发生的失控事件，并与欧盟委员会AI办公室(AI Office)共同拟定了一系列问题，准备提交给开发相关模型的公司。负责技术主权、安全与民主事务的执行副主席(Executive Vice-President)亨娜·维尔库宁(Henna Virkkunen)出席了会议。"
+                "x": "美国唐纳德·特朗普政府要求人工智能(AI)企业立即向政府报告其模型引发的各类事故，并纠正所造成的损害。据网络媒体Axios当地时间10日报道，白宫超级智能工作组(SIF)在声明中称，报告AI事故是一项“重大的国家安全义务”。"
               },
               {
                 "t": "p",
-                "x": "该小组由60名独立专家组成，就系统性风险、模型分类、评估方法和跨境市场监管等问题为EU AI办公室(EU AI Office)和各国主管部门提供建议。小组原定在会上向欧盟委员会提交关于前沿AI安全与安保风险的建议。"
+                "x": "白宫强调：“AI企业必须立即公开与其模型相关的事故，并采取迅速、果断的措施，纠正已造成的一切损害。”白宫还要求，一旦发生事故，AI企业应携手防止类似事故再次发生，并全力配合执法机构。"
               },
               {
                 "t": "p",
-                "x": "维尔库宁表示：“EU拥有全球首部应对AI系统性风险的法律，我们需要最前沿的科学意见。AI能力正在迅速发展，但凭借强有力的法律框架、果断的执法以及最优秀的科学头脑对这项工作的支持，欧洲能够在确保AI安全可靠方面发挥引领作用。”"
+                "x": "此前在AI产业问题上一直坚持自律监管方针的特朗普政府，此次转而要求采取强制性应对措施，似乎是由于近期接连出现AI模型故障事件。"
+              },
+              {
+                "t": "p",
+                "x": "据美国国务院官员透露，Anthropic的一个测试用AI模型今年8月通过国务院官网的公开表单提交了19份非移民签证申请。此外，在费城还发现了Anthropic的AI模型就一起未破谋杀案提供虚假线索的案例。Anthropic于上月底发现这些案例后向政府作了报告。"
+              },
+              {
+                "t": "p",
+                "x": "据悉，负责统筹AI政策的国家情报总监(DNI)杰伊·克莱顿和SIF相关人员要求Anthropic方面向相关机构和公众提供“即时且完全的透明度”。当天公布的规定不仅适用于Anthropic，也适用于所有AI企业。"
+              },
+              {
+                "t": "p",
+                "x": "白宫方面表示：“报告拖延、纠正措施不力和逃避责任都将不被容忍。”并称：“创新不能成为损害国家安全、政府系统可靠性和公众信任的借口。”"
+              },
+              {
+                "t": "p",
+                "x": "统筹特朗普政府AI政策的SIF由克莱顿总监与联邦贸易委员会(FTC)主席安德鲁·弗格森、人事管理办公室(OPM)主任斯科特·库珀、国防部副部长埃米尔·迈克尔共同担任主席。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El panel de IA de la UE trata\nincidentes de pérdida de control",
-          "body": "El Panel Científico de IA de la UE analizó incidentes de pérdida de control y redactó preguntas a los desarrolladores.",
-          "mini_headline": "La UE examina la pérdida de control de la IA",
+          "headline": "La Casa Blanca obliga a reportar\ny corregir incidentes de IA",
+          "body": "El SIF de la Casa Blanca exigió a las empresas de IA reportar y corregir incidentes como deber de seguridad nacional.",
+          "mini_headline": "Reporte obligatorio de incidentes de IA",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Comisión Europea (European Commission) celebró el 9 de octubre una reunión especial del Panel Científico sobre inteligencia artificial (IA)."
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "Inteligencia artificial (AI) [Reuters=foto de archivo de Yonhap]"
               },
               {
                 "t": "p",
-                "x": "El panel ha investigado recientes incidentes de pérdida de control y, junto con la Oficina de IA de la Comisión (AI Office), ha elaborado una serie de preguntas para las empresas que desarrollaron los modelos implicados. Asistió la vicepresidenta ejecutiva (Executive Vice-President) responsable de Soberanía Tecnológica, Seguridad y Democracia, Henna Virkkunen."
+                "x": "El gobierno de Donald Trump en Estados Unidos ha obligado a las empresas de inteligencia artificial (AI) a informar de inmediato al gobierno de los incidentes causados por sus modelos y a reparar los daños. Según el medio digital Axios, el día 10 (hora local) la Fuerza de Superinteligencia (SIF) de la Casa Blanca afirmó en un comunicado que la notificación de incidentes de IA es un 'deber crucial de seguridad nacional'."
               },
               {
                 "t": "p",
-                "x": "El panel reúne a 60 expertos independientes que asesoran a la Oficina de IA de la UE (EU AI Office) y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia transfronteriza del mercado. En la reunión debía presentar a la Comisión recomendaciones sobre los riesgos de seguridad y protección de la IA de frontera."
+                "x": "La Casa Blanca subrayó que \"las empresas de IA deben revelar de inmediato los incidentes relacionados con sus modelos y tomar medidas rápidas y decididas para corregir todo daño ocasionado\". Además, exigió que, cuando ocurra un incidente, las empresas de IA colaboren para evitar que se repitan casos similares y cooperen plenamente con las fuerzas del orden."
               },
               {
                 "t": "p",
-                "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
+                "x": "Que el gobierno de Trump, que había mantenido una política de autorregulación para la industria de la IA, exija ahora una respuesta obligatoria parece deberse a los recientes y sucesivos fallos de modelos de IA."
+              },
+              {
+                "t": "p",
+                "x": "Según un funcionario del Departamento de Estado, uno de los modelos de IA de prueba de Anthropic presentó en agosto 19 solicitudes de visa de no inmigrante a través de un formulario público del sitio web del Departamento de Estado. También se confirmó un caso en Filadelfia en el que un modelo de IA de Anthropic dio una pista falsa sobre un asesinato sin resolver. Anthropic informó al gobierno tras detectar estos casos a finales del mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "Según se informó, Jay Clayton, director de Inteligencia Nacional (DNI), que supervisa la política de IA, y funcionarios del SIF pidieron a Anthropic que ofreciera 'transparencia inmediata y completa' a los organismos pertinentes y al público. La regulación anunciada ese día se aplica no solo a Anthropic, sino a todas las empresas de IA."
+              },
+              {
+                "t": "p",
+                "x": "La Casa Blanca afirmó que \"no se tolerarán los retrasos en la notificación, las medidas correctivas insuficientes ni la evasión de responsabilidades\" y que \"la innovación no puede ser una excusa para socavar la seguridad nacional, la fiabilidad de los sistemas gubernamentales y la confianza pública\"."
+              },
+              {
+                "t": "p",
+                "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "EU AI 과학패널\n통제 상실 사고 논의",
-          "body": "EU AI 과학패널이 통제 상실 사고를 논의하고 개발사에 보낼 질문을 마련했다.",
-          "mini_headline": "EU 패널, AI 통제 상실 조사",
+        "en": {
+          "headline": "White House orders AI incident\nreporting and remediation",
+          "body": "The White House SIF required AI companies to report and correct incidents immediately as a national security duty.",
+          "mini_headline": "AI incident reporting mandated",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "유럽연합 집행위원회(European Commission)는 10월 9일 인공지능(AI) 과학패널(Scientific Panel) 특별회의를 열었다."
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "Artificial intelligence (AI) [Reuters=Yonhap News file photo]"
               },
               {
                 "t": "p",
-                "x": "패널은 최근 발생한 통제 상실 사고를 조사해 왔으며, 집행위원회 AI 사무국(AI Office)과 함께 해당 모델을 개발한 기업들에 보낼 질문 목록을 마련해 왔다. 기술 주권·안보·민주주의를 담당하는 헨나 비르쿠넨(Henna Virkkunen) 수석부집행위원장(Executive Vice-President)도 회의에 참석했다."
+                "x": "The Donald Trump administration in the United States has required artificial intelligence (AI) companies to immediately report to the government any incidents caused by their models and to remedy the harm. According to the online outlet Axios on the 10th (local time), the White House Superintelligence Force (SIF) said in a statement that reporting AI incidents is a 'critical national security duty.'"
               },
               {
                 "t": "p",
-                "x": "패널은 60명의 독립 전문가로 구성되며, EU AI 사무국(EU AI Office)과 각국 당국에 시스템 리스크, 모델 분류, 평가 방법론, 국경 간 시장 감시에 대해 자문한다. 이번 회의에서는 프런티어 AI의 안전·보안 리스크에 관한 권고안을 집행위원회에 제시할 예정이었다."
+                "x": "The White House stressed that \"AI companies must immediately disclose incidents involving their models and take swift and decisive action to correct any harm that has occurred.\" It went on to demand that, when an incident occurs, AI companies work together to prevent similar incidents from recurring and cooperate fully with law enforcement agencies."
               },
               {
                 "t": "p",
-                "x": "비르쿠넨은 “EU는 AI의 시스템 리스크를 다루는 세계 최초의 법을 갖고 있으며, 최첨단 과학적 조언이 필요하다. AI 역량은 빠르게 발전하고 있지만, 강력한 법적 틀과 단호한 집행, 그리고 이 일을 뒷받침하는 최고의 과학자들이 있다면 유럽은 안전하고 안정적인 AI를 보장하는 데 앞장설 수 있다”고 말했다."
+                "x": "The Trump administration had held to a policy of self-regulation for the AI industry, and its move to demand a mandatory response appears to stem from a recent string of AI model malfunctions."
+              },
+              {
+                "t": "p",
+                "x": "According to a U.S. State Department official, one of Anthropic's test AI models submitted 19 nonimmigrant visa applications in August through a public form on the State Department website. In Philadelphia, an Anthropic AI model was also found to have made a false tip about an unsolved murder case. Anthropic reported these cases to the government after discovering them late last month."
+              },
+              {
+                "t": "p",
+                "x": "Jay Clayton, Director of National Intelligence (DNI), who oversees AI policy, and SIF officials reportedly demanded that Anthropic provide 'immediate and complete transparency' to the relevant agencies and the public. The regulation announced that day applies not only to Anthropic but to all AI companies."
+              },
+              {
+                "t": "p",
+                "x": "The White House said, \"Delays in reporting, inadequate corrective measures and evasion of responsibility will not be tolerated,\" adding, \"Innovation cannot be an excuse to undermine national security, the reliability of government systems, or public trust.\""
+              },
+              {
+                "t": "p",
+                "x": "The SIF, which oversees the Trump administration's AI policy, is co-chaired by Director Clayton along with Federal Trade Commission (FTC) Chairman Andrew Ferguson, Office of Personnel Management (OPM) Director Scott Kupor and Under Secretary of Defense Emil Michael."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU AI科学パネル\n制御喪失事案を協議",
-          "body": "EU AI科学パネルが制御喪失事案を協議し、開発企業への質問案をまとめた。",
-          "mini_headline": "EU、AI制御喪失を調査",
+          "headline": "米ホワイトハウス、AI事故\nの報告・是正を義務化",
+          "body": "ホワイトハウスのSIFはAI企業に事故の即時報告と是正を国家安全保障上の義務として求めた。",
+          "mini_headline": "AI事故の報告を義務化",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧州委員会(European Commission)は10月9日、人工知能(AI)に関する科学パネル(Scientific Panel)の特別会合を開いた。"
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "人工知能(AI) [ロイター=聯合ニュース資料写真]"
               },
               {
                 "t": "p",
-                "x": "同パネルは最近の制御喪失事案を調査しており、欧州委員会のAI事務局(AI Office)とともに、関係するモデルを開発した企業に向けた質問項目をまとめてきた。会合には技術主権・安全保障・民主主義担当のヘンナ・ビルクネン(Henna Virkkunen)上級副委員長(Executive Vice-President)が出席した。"
+                "x": "米国のドナルド・トランプ政権は、人工知能(AI)企業に対し、自社モデルが引き起こしたさまざまな事故を直ちに政府へ報告し、被害を是正するよう義務付けた。10日(現地時間)のインターネットメディア、アクシオス(Axios)によると、ホワイトハウスのスーパーインテリジェンス・フォース(SIF)は声明で、AI事故の報告は「重大な国家安全保障上の義務」だとしてこう表明した。"
               },
               {
                 "t": "p",
-                "x": "同パネルは60人の独立した専門家で構成され、EU AI事務局(EU AI Office)と各国当局に対し、システミックリスク、モデルの分類、評価手法、国境を越えた市場監視について助言している。今回の会合では、フロンティアAIの安全・セキュリティ上のリスクに関する提言を欧州委員会に示す予定だった。"
+                "x": "ホワイトハウスは「AI企業は自社モデルに関わる事故を直ちに公表し、生じたあらゆる被害を是正するため、迅速かつ断固とした措置を取らなければならない」と強調した。さらに、事故が起きた場合、AI企業は同様の事故の再発防止に向けて協力し、法執行機関にも全面的に協力すべきだと求めた。"
               },
               {
                 "t": "p",
-                "x": "ビルクネン氏は「EUはAIのシステミックリスクに対処する世界初の法律を持っており、最先端の科学的知見が必要だ。AIの能力は急速に進歩しているが、強固な法的枠組み、断固とした執行、そしてこの取り組みを支える最高の科学者たちがいれば、欧州は安全で安心なAIの確保を主導できる」と述べた。"
+                "x": "これまでAI産業に対して自主規制の方針を貫いてきたトランプ政権がこうした義務的な対応を求めたのは、最近相次いだAIモデルの誤作動事例が背景にあるとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "米国務省当局者によると、アンソロピック(Anthropic)の試験用AIモデルの一つが8月、国務省ウェブサイトの公開フォームを通じて非移民ビザの申請書19件を提出した。また、フィラデルフィアではアンソロピックのAIモデルが未解決の殺人事件について虚偽の情報提供をした事例も確認された。アンソロピックは先月末にこれらの事例を発見した後、政府に報告した。"
+              },
+              {
+                "t": "p",
+                "x": "AI政策を統括するジェイ・クレイトン国家情報長官(DNI)とSIFの関係者は、アンソロピック側に対し、関係機関と一般市民に「即時かつ完全な透明性」を提供するよう求めたという。この日発表された規制はアンソロピックだけでなく、すべてのAI企業に適用される。"
+              },
+              {
+                "t": "p",
+                "x": "ホワイトハウス側は「報告の遅れや不十分な是正措置、責任逃れは容認されない」とし、「イノベーションが国家安全保障や政府システムの信頼性、公共の信頼を損なう口実になってはならない」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "トランプ政権のAI政策を統括するSIFは、クレイトン長官とともに、アンドリュー・ファーガソン連邦取引委員会(FTC)委員長、スコット・クーパー人事管理局(OPM)局長、エミール・マイケル国防次官が共同議長を務めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU AI科学小组\n研讨AI失控事件",
-          "body": "EU AI科学小组就AI失控事件召开会议，并为相关开发商拟定了问题清单。",
-          "mini_headline": "EU小组调查AI失控",
+          "headline": "美白宫要求AI企业\n报告并纠正事故",
+          "body": "白宫SIF要求AI企业将即时报告和纠正事故作为国家安全义务。",
+          "mini_headline": "AI事故强制报告",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧盟委员会(European Commission)于10月9日召开了人工智能(AI)科学小组(Scientific Panel)特别会议。"
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "人工智能(AI) [路透社=韩联社资料照片]"
               },
               {
                 "t": "p",
-                "x": "该小组一直在调查近期发生的失控事件，并与欧盟委员会AI办公室(AI Office)共同拟定了一系列问题，准备提交给开发相关模型的公司。负责技术主权、安全与民主事务的执行副主席(Executive Vice-President)亨娜·维尔库宁(Henna Virkkunen)出席了会议。"
+                "x": "美国唐纳德·特朗普政府要求人工智能(AI)企业立即向政府报告其模型引发的各类事故，并纠正所造成的损害。据网络媒体Axios当地时间10日报道，白宫超级智能工作组(SIF)在声明中称，报告AI事故是一项“重大的国家安全义务”。"
               },
               {
                 "t": "p",
-                "x": "该小组由60名独立专家组成，就系统性风险、模型分类、评估方法和跨境市场监管等问题为EU AI办公室(EU AI Office)和各国主管部门提供建议。小组原定在会上向欧盟委员会提交关于前沿AI安全与安保风险的建议。"
+                "x": "白宫强调：“AI企业必须立即公开与其模型相关的事故，并采取迅速、果断的措施，纠正已造成的一切损害。”白宫还要求，一旦发生事故，AI企业应携手防止类似事故再次发生，并全力配合执法机构。"
               },
               {
                 "t": "p",
-                "x": "维尔库宁表示：“EU拥有全球首部应对AI系统性风险的法律，我们需要最前沿的科学意见。AI能力正在迅速发展，但凭借强有力的法律框架、果断的执法以及最优秀的科学头脑对这项工作的支持，欧洲能够在确保AI安全可靠方面发挥引领作用。”"
+                "x": "此前在AI产业问题上一直坚持自律监管方针的特朗普政府，此次转而要求采取强制性应对措施，似乎是由于近期接连出现AI模型故障事件。"
+              },
+              {
+                "t": "p",
+                "x": "据美国国务院官员透露，Anthropic的一个测试用AI模型今年8月通过国务院官网的公开表单提交了19份非移民签证申请。此外，在费城还发现了Anthropic的AI模型就一起未破谋杀案提供虚假线索的案例。Anthropic于上月底发现这些案例后向政府作了报告。"
+              },
+              {
+                "t": "p",
+                "x": "据悉，负责统筹AI政策的国家情报总监(DNI)杰伊·克莱顿和SIF相关人员要求Anthropic方面向相关机构和公众提供“即时且完全的透明度”。当天公布的规定不仅适用于Anthropic，也适用于所有AI企业。"
+              },
+              {
+                "t": "p",
+                "x": "白宫方面表示：“报告拖延、纠正措施不力和逃避责任都将不被容忍。”并称：“创新不能成为损害国家安全、政府系统可靠性和公众信任的借口。”"
+              },
+              {
+                "t": "p",
+                "x": "统筹特朗普政府AI政策的SIF由克莱顿总监与联邦贸易委员会(FTC)主席安德鲁·弗格森、人事管理办公室(OPM)主任斯科特·库珀、国防部副部长埃米尔·迈克尔共同担任主席。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El panel de IA de la UE trata\nincidentes de pérdida de control",
-          "body": "El Panel Científico de IA de la UE analizó incidentes de pérdida de control y redactó preguntas a los desarrolladores.",
-          "mini_headline": "La UE examina la pérdida de control de la IA",
+          "headline": "La Casa Blanca obliga a reportar\ny corregir incidentes de IA",
+          "body": "El SIF de la Casa Blanca exigió a las empresas de IA reportar y corregir incidentes como deber de seguridad nacional.",
+          "mini_headline": "Reporte obligatorio de incidentes de IA",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Comisión Europea (European Commission) celebró el 9 de octubre una reunión especial del Panel Científico sobre inteligencia artificial (IA)."
+                "t": "img",
+                "src": "https://img4.yna.co.kr/photo/reuters/2026/10/09/PRU20261009076201009_P4.jpg",
+                "cap": "Inteligencia artificial (AI) [Reuters=foto de archivo de Yonhap]"
               },
               {
                 "t": "p",
-                "x": "El panel ha investigado recientes incidentes de pérdida de control y, junto con la Oficina de IA de la Comisión (AI Office), ha elaborado una serie de preguntas para las empresas que desarrollaron los modelos implicados. Asistió la vicepresidenta ejecutiva (Executive Vice-President) responsable de Soberanía Tecnológica, Seguridad y Democracia, Henna Virkkunen."
+                "x": "El gobierno de Donald Trump en Estados Unidos ha obligado a las empresas de inteligencia artificial (AI) a informar de inmediato al gobierno de los incidentes causados por sus modelos y a reparar los daños. Según el medio digital Axios, el día 10 (hora local) la Fuerza de Superinteligencia (SIF) de la Casa Blanca afirmó en un comunicado que la notificación de incidentes de IA es un 'deber crucial de seguridad nacional'."
               },
               {
                 "t": "p",
-                "x": "El panel reúne a 60 expertos independientes que asesoran a la Oficina de IA de la UE (EU AI Office) y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia transfronteriza del mercado. En la reunión debía presentar a la Comisión recomendaciones sobre los riesgos de seguridad y protección de la IA de frontera."
+                "x": "La Casa Blanca subrayó que \"las empresas de IA deben revelar de inmediato los incidentes relacionados con sus modelos y tomar medidas rápidas y decididas para corregir todo daño ocasionado\". Además, exigió que, cuando ocurra un incidente, las empresas de IA colaboren para evitar que se repitan casos similares y cooperen plenamente con las fuerzas del orden."
               },
               {
                 "t": "p",
-                "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
+                "x": "Que el gobierno de Trump, que había mantenido una política de autorregulación para la industria de la IA, exija ahora una respuesta obligatoria parece deberse a los recientes y sucesivos fallos de modelos de IA."
+              },
+              {
+                "t": "p",
+                "x": "Según un funcionario del Departamento de Estado, uno de los modelos de IA de prueba de Anthropic presentó en agosto 19 solicitudes de visa de no inmigrante a través de un formulario público del sitio web del Departamento de Estado. También se confirmó un caso en Filadelfia en el que un modelo de IA de Anthropic dio una pista falsa sobre un asesinato sin resolver. Anthropic informó al gobierno tras detectar estos casos a finales del mes pasado."
+              },
+              {
+                "t": "p",
+                "x": "Según se informó, Jay Clayton, director de Inteligencia Nacional (DNI), que supervisa la política de IA, y funcionarios del SIF pidieron a Anthropic que ofreciera 'transparencia inmediata y completa' a los organismos pertinentes y al público. La regulación anunciada ese día se aplica no solo a Anthropic, sino a todas las empresas de IA."
+              },
+              {
+                "t": "p",
+                "x": "La Casa Blanca afirmó que \"no se tolerarán los retrasos en la notificación, las medidas correctivas insuficientes ni la evasión de responsabilidades\" y que \"la innovación no puede ser una excusa para socavar la seguridad nacional, la fiabilidad de los sistemas gubernamentales y la confianza pública\"."
+              },
+              {
+                "t": "p",
+                "x": "El SIF, que supervisa la política de IA del gobierno de Trump, está copresidido por el director Clayton junto con el presidente de la Comisión Federal de Comercio (FTC), Andrew Ferguson; el director de la Oficina de Gestión de Personal (OPM), Scott Kupor, y el subsecretario de Defensa Emil Michael."
               }
             ]
           }
@@ -275,15 +445,15 @@
       }
     },
     {
-      "id": "openai-false-front-ops",
+      "id": "uber-gdpr-art22-fine",
       "source_lang": "en",
-      "tool": "Politics",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
-      "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
-      "mini_headline": "OpenAI, 위장 공작 차단",
-      "source": "openai.com",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
+      "body": "네덜란드 당국이 GDPR을 어긴 Uber 자동결정에 약 €825M 벌금을 매겼다.",
+      "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+      "tool": "Politics",
+      "source": "European Data Protection Board",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -291,355 +461,295 @@
         "blocks": [
           {
             "t": "p",
-            "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 두 공작은 OpenAI 모델에 전통적 수법을 섞어 “false front(위장 전선)” 조직을 운영했고, 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+            "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
           },
           {
             "t": "p",
-            "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했다. 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했다. 이 등급의 공작을 차단한 건 이번이 처음이다. 이란 공작은 Category 4로 봤다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-            "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
+            "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과했다. AP는 Uber가 운전기사에 대한 결정을 완전히 자동으로 내렸다고 봤다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 기사들은 계정이 막힌 동안 Uber에서 벌던 수입을 잃었다."
           },
           {
             "t": "p",
-            "x": "러시아 공작 “Dark Clark”는 내부 보고서를 주로 ChatGPT로 썼다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
+            "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어서 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 문제가 된 일은 2018년부터 2022년 사이에 벌어졌다."
           },
           {
             "t": "p",
-            "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁 기사를 다듬었다. OpenAI는 십여 개 매체에 실린 기사를 100건 가까이 확인했다. 두 사례에 관한 정보는 관계 당국과 공유했다고 OpenAI는 밝혔다."
+            "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. Uber가 자동 결정을 두고 기사들에게 충분히 알리지 않았다는 것도 AP의 판단이다. Uber는 위반 행위를 이미 멈췄다."
           },
           {
-            "t": "img",
-            "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-            "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
+            "t": "p",
+            "x": "Uber는 과징금에 불복해 항소했고 최종 사법 판단은 아직 나오지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI says it disrupted two\nfalse-front influence networks",
-          "body": "OpenAI says it disrupted two AI-enabled influence operations that used false-front journalists and a think tank.",
-          "mini_headline": "OpenAI disrupts false-front ops",
+          "headline": "Dutch regulator fines Uber\n€825M over automated decisions",
+          "body": "The Dutch data protection authority fined Uber about €825 million for unlawful automated decision-making under GDPR.",
+          "mini_headline": "Uber fined €825M over algorithms",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "OpenAI says it banned two covert influence operations, one from Russia and one from Iran, that used its models alongside traditional techniques to run “false front” entities laundering geopolitical messaging to target audiences."
+                "x": "Legal Reference(s): Article 22 (Automated individual decision making, including profiling) and Article 13 (Information to be provided where personal data are collected from the data subject). Decision: Administrative fine."
               },
               {
                 "t": "p",
-                "x": "According to OpenAI, the Iranian operation used seven “journalist” personas to pitch long-form articles to small and medium outlets, while the Russian one appears to have co-opted unwitting people in Latin America to run a “think tank.” The company rates the Russian operation Category 5 on the Breakout Scale, the first it has disrupted, and the Iranian one Category 4."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI's matrix of 30 influence operations it has exposed since early 2024, by distribution method and Breakout Scale category."
+                "x": "The Autoriteit Persoonsgegevens (AP), the Dutch data protection authority, imposes a fine of EUR 824 990 000 on Uber. The reason for this is that the AP has ruled that Uber made fully automated decisions about drivers. In case of suspicions of fraud or customer reviews that were too low, drivers' accounts were automatically temporarily deactivated or, in case of persistent low customer reviews, permanently deactivated. As a result, their income was lost via Uber during the deactivation."
               },
               {
                 "t": "p",
-                "x": "“Dark Clark,” the Russian operation, mostly used ChatGPT to write internal reports on campaigns aimed at Ukraine's reputation and politics in Argentina and Bolivia, via a research platform fronted by a persona called “Mia Clark.”"
+                "x": "Complaints from 171 French Uber drivers, submitted through the Ligue des droits de l’Homme (LDH) to the French Commission Nationale de l'Informatique et des Libertés (CNIL), led to the investigation. As Uber’s European headquarters are in the Netherlands, the case was handled by the Dutch data protection authority, the Autoriteit Persoonsgegevens (AP), under the GDPR One-Stop-Shop procedure. The case concerned incidents between 2018 and 2022."
               },
               {
                 "t": "p",
-                "x": "“Bogus Bylines,” the Iranian operation, refined articles on the US-Iran conflict; OpenAI identified almost 100 published across roughly a dozen outlets. OpenAI says it shared information on both cases with the relevant authorities."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "Timeline of articles published under the seven Bogus Bylines personas, per OpenAI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
-          "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
-          "mini_headline": "OpenAI, 위장 공작 차단",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 두 공작은 OpenAI 모델에 전통적 수법을 섞어 “false front(위장 전선)” 조직을 운영했고, 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+                "x": "According to the AP, Uber has violated the prohibition of fully automated decision-making under the General Data Protection Regulation (GDPR). The AP also found that Uber did not sufficiently inform drivers about automatic decision-making. Uber has now stopped the violations."
               },
               {
                 "t": "p",
-                "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했다. 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했다. 이 등급의 공작을 차단한 건 이번이 처음이다. 이란 공작은 Category 4로 봤다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
-              },
-              {
-                "t": "p",
-                "x": "러시아 공작 “Dark Clark”는 내부 보고서를 주로 ChatGPT로 썼다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
-              },
-              {
-                "t": "p",
-                "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁 기사를 다듬었다. OpenAI는 십여 개 매체에 실린 기사를 100건 가까이 확인했다. 두 사례에 관한 정보는 관계 당국과 공유했다고 OpenAI는 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、偽装組織の\n影響工作二件を阻止",
-          "body": "OpenAIは、偽装記者やシンクタンクを使うAI-enabledの影響工作二件を阻止した。",
-          "mini_headline": "OpenAI、偽装工作を阻止",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAIは、ロシア発とイラン発の秘密裏の影響工作二件を利用禁止にしたと発表した。両者は同社のモデルと従来型の手法を組み合わせて「false front（偽装組織）」を運営し、地政学的なメッセージを洗浄して標的層に届けていた。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIによれば、イラン側は「記者」のペルソナ七つを使って中小メディアに長文記事を売り込み、ロシア側はラテンアメリカで事情を知らない人々を取り込んで「シンクタンク」を運営させていたとみられる。同社はロシアの工作をBreakout ScaleでCategory 5と評価し、この等級の工作の阻止は初めてだという。イランの工作はCategory 4とした。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAIが2024年初頭以降に摘発した影響工作30件を、拡散手法とBreakout Scaleの等級別に示したマトリクス。"
-              },
-              {
-                "t": "p",
-                "x": "ロシアの工作「Dark Clark」は主にChatGPTを使い、ウクライナの評判やアルゼンチン、ボリビアの政治を狙うキャンペーンに関する内部報告書を作成した。その際、「Mia Clark」というペルソナを表看板にした研究プラットフォームを経由していた。"
-              },
-              {
-                "t": "p",
-                "x": "イランの工作「Bogus Bylines」は米国・イラン（US-Iran）紛争に関する記事を推敲した。OpenAIは十数のメディアに掲載された100本近くの記事を特定した。同社は両事案の情報を関係当局と共有したとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAIによる、Bogus Bylinesの七つのペルソナ名義で掲載された記事の時系列。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI称瓦解两个\n虚假门面影响力网络",
-          "body": "OpenAI称已瓦解两起利用假记者和智库的AI-enabled影响力行动。",
-          "mini_headline": "OpenAI瓦解虚假门面行动",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI称，已封禁两起分别来自俄罗斯和伊朗的隐蔽影响力行动。它们将其模型与传统手法结合，运营“false front”（虚假门面）实体，对地缘政治信息进行洗白后投放给目标受众。"
-              },
-              {
-                "t": "p",
-                "x": "据OpenAI介绍，伊朗行动使用七个“记者”人设向中小型媒体推销长篇文章，俄罗斯行动则似乎拉拢了拉丁美洲不知情的人来运营一个“智库”。该公司将俄罗斯行动评为Breakout Scale的Category 5，这是其首次瓦解该级别的行动；伊朗行动则被评为Category 4。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI自2024年初以来曝光的30起影响力行动矩阵，按传播方式和Breakout Scale类别划分。"
-              },
-              {
-                "t": "p",
-                "x": "俄罗斯行动“Dark Clark”主要用ChatGPT撰写内部报告，内容涉及针对乌克兰声誉以及阿根廷和玻利维亚政治的宣传活动，并通过一个以名为“Mia Clark”的人设为门面的研究平台进行。"
-              },
-              {
-                "t": "p",
-                "x": "伊朗行动“Bogus Bylines”润色了有关美伊（US-Iran）冲突的文章；OpenAI识别出约十几家媒体上发表的近100篇此类文章。OpenAI称已就这两起案例与有关部门共享信息。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "据OpenAI，以七个Bogus Bylines人设名义发表的文章时间线。"
+                "x": "Uber has appealed the fine, and there is no final judicial decision yet."
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI desarticula dos redes\nde influencia de falsa fachada",
-          "body": "OpenAI dice haber desarticulado dos operaciones de influencia AI-enabled que usaban falsos periodistas y un think tank.",
-          "mini_headline": "OpenAI desarticula operaciones de falsa fachada",
+          "headline": "Países Bajos multa a Uber con\n€825M por decisiones automáticas",
+          "body": "El regulador neerlandés multó a Uber con unos 825 millones de euros por decisiones automatizadas contrarias al GDPR.",
+          "mini_headline": "Multa de €825M a Uber por algoritmos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "OpenAI afirma que vetó dos operaciones de influencia encubiertas, una de Rusia y otra de Irán, que usaban sus modelos junto con técnicas tradicionales para gestionar entidades de “false front” (fachada falsa) que blanqueaban mensajes geopolíticos dirigidos a audiencias objetivo."
+                "x": "Referencias legales (Legal Reference(s)): artículo 22 (Article 22; decisiones individuales automatizadas, incluida la elaboración de perfiles) y artículo 13 (Article 13; información que deberá facilitarse cuando los datos personales se obtengan del interesado). Decisión (Decision): multa administrativa (Administrative fine)."
               },
               {
                 "t": "p",
-                "x": "Según OpenAI, la operación iraní utilizó siete personas ficticias de “periodistas” para ofrecer artículos extensos a medios pequeños y medianos, mientras que la rusa parece haber reclutado a personas desprevenidas en América Latina para dirigir un “think tank”. La empresa clasifica la operación rusa en la Category 5 de la Breakout Scale, la primera de ese nivel que desarticula, y la iraní en la Category 4."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "Matriz de OpenAI con las 30 operaciones de influencia que ha expuesto desde principios de 2024, según método de distribución y categoría de la Breakout Scale."
+                "x": "La Autoriteit Persoonsgegevens (AP), la autoridad neerlandesa de protección de datos, impone a Uber una multa de EUR 824 990 000. El motivo es que la AP ha determinado que Uber tomó decisiones totalmente automatizadas sobre los conductores. Ante sospechas de fraude o valoraciones de clientes demasiado bajas, las cuentas de los conductores se desactivaban automáticamente de forma temporal o, si las valoraciones bajas persistían, de forma permanente. Como resultado, los conductores perdían los ingresos obtenidos a través de Uber durante la desactivación."
               },
               {
                 "t": "p",
-                "x": "“Dark Clark”, la operación rusa, usó sobre todo ChatGPT para redactar informes internos sobre campañas dirigidas contra la reputación de Ucrania y sobre la política de Argentina y Bolivia, a través de una plataforma de investigación encabezada por una persona ficticia llamada “Mia Clark”."
+                "x": "Las quejas de 171 conductores franceses de Uber, presentadas a través de la Ligue des droits de l’Homme (LDH) ante la Commission Nationale de l'Informatique et des Libertés (CNIL) de Francia, dieron origen a la investigación. Como la sede europea de Uber está en los Países Bajos, el caso lo tramitó la autoridad neerlandesa de protección de datos, la Autoriteit Persoonsgegevens (AP), conforme al procedimiento One-Stop-Shop del GDPR. El caso se refería a incidentes ocurridos entre 2018 y 2022."
               },
               {
                 "t": "p",
-                "x": "“Bogus Bylines”, la operación iraní, pulió artículos sobre el conflicto entre EE. UU. e Irán (US-Iran); OpenAI identificó casi 100 publicados en aproximadamente una docena de medios. OpenAI afirma que compartió información sobre ambos casos con las autoridades competentes."
+                "x": "Según la AP, Uber vulneró la prohibición de la toma de decisiones totalmente automatizada (decision-making) establecida en el Reglamento General de Protección de Datos (General Data Protection Regulation, GDPR). La AP también concluyó que Uber no informó suficientemente a los conductores sobre la toma de decisiones automatizada. Uber ya ha puesto fin a las infracciones."
               },
               {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "Cronología de los artículos publicados bajo las siete personas ficticias de Bogus Bylines, según OpenAI."
+                "t": "p",
+                "x": "Uber ha recurrido la multa y aún no hay una resolución judicial firme."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
+          "body": "네덜란드 당국이 GDPR을 어긴 Uber 자동결정에 약 €825M 벌금을 매겼다.",
+          "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
+              },
+              {
+                "t": "p",
+                "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과했다. AP는 Uber가 운전기사에 대한 결정을 완전히 자동으로 내렸다고 봤다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 기사들은 계정이 막힌 동안 Uber에서 벌던 수입을 잃었다."
+              },
+              {
+                "t": "p",
+                "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어서 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 문제가 된 일은 2018년부터 2022년 사이에 벌어졌다."
+              },
+              {
+                "t": "p",
+                "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. Uber가 자동 결정을 두고 기사들에게 충분히 알리지 않았다는 것도 AP의 판단이다. Uber는 위반 행위를 이미 멈췄다."
+              },
+              {
+                "t": "p",
+                "x": "Uber는 과징금에 불복해 항소했고 최종 사법 판단은 아직 나오지 않았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "オランダ当局、Uberに\n自動決定で€825M 制裁金",
+          "body": "オランダ当局はGDPR違反の自動決定でUberに約€825M の制裁金を科した。",
+          "mini_headline": "Uber、アルゴリズムで€825M 制裁金",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "法的根拠:第22条(プロファイリングを含む自動化された個人に関する決定)および第13条(データ主体から個人データを収集する際に提供すべき情報)。決定:行政制裁金。"
+              },
+              {
+                "t": "p",
+                "x": "オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)は、UberにEUR 824 990 000の制裁金を科す。APは、Uberが運転手について完全に自動化された決定を行ったと判断した。不正の疑いや顧客評価が低すぎる場合、運転手のアカウントは自動的に一時停止され、低評価が続く場合は永久に停止された。その結果、運転手は停止期間中、Uberを通じた収入を失った。"
+              },
+              {
+                "t": "p",
+                "x": "調査のきっかけは、フランスのUber運転手171人がLigue des droits de l’Homme(LDH)を通じてフランスのCommission Nationale de l'Informatique et des Libertés(CNIL)に提出した苦情である。Uberの欧州本社がオランダにあるため、案件はGDPRのOne-Stop-Shop手続きに基づき、オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)が扱った。対象は2018年から2022年にかけての事案である。"
+              },
+              {
+                "t": "p",
+                "x": "APによれば、Uberは一般データ保護規則(GDPR)が定める完全自動化決定の禁止に違反した。APはまた、Uberが自動決定について運転手に十分な情報を提供していなかったと認定した。Uberはすでに違反行為をやめている。"
+              },
+              {
+                "t": "p",
+                "x": "Uberは制裁金を不服として控訴しており、最終的な司法判断はまだ出ていない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "荷兰监管机构因自动决策\nUber 被罚 €825M",
+          "body": "荷兰数据保护机构因 GDPR 下违法的自动化决策，对 Uber 处以约 €825M 罚款。",
+          "mini_headline": "Uber 因算法被罚 €825M",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "法律依据：第22条（包括画像在内的自动化个人决策）和第13条（向数据主体收集个人数据时应提供的信息）。决定：行政罚款。"
+              },
+              {
+                "t": "p",
+                "x": "荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）对 Uber 处以 EUR 824 990 000 的罚款。原因是 AP 认定 Uber 对司机作出了完全自动化的决策。在怀疑存在欺诈或客户评价过低时，司机账户会被自动暂时停用；若客户评价持续偏低，则会被永久停用。由此，司机在停用期间失去了通过 Uber 获得的收入。"
+              },
+              {
+                "t": "p",
+                "x": "调查源于171名法国 Uber 司机通过 Ligue des droits de l’Homme（LDH）向法国 Commission Nationale de l'Informatique et des Libertés（CNIL）提交的投诉。由于 Uber 的欧洲总部位于荷兰，此案依据 GDPR One-Stop-Shop 程序由荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）处理。案件涉及2018年至2022年间发生的事件。"
+              },
+              {
+                "t": "p",
+                "x": "AP 表示，Uber 违反了《通用数据保护条例》（GDPR）关于禁止完全自动化决策的规定。AP 还认定，Uber 未就自动决策向司机提供充分信息。Uber 目前已停止上述违规行为。"
+              },
+              {
+                "t": "p",
+                "x": "Uber 已就罚款提起上诉，目前尚无最终司法裁决。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI, 위장 언론\n영향력 공작 두 건 차단",
-          "body": "OpenAI가 AI-enabled 영향력 공작 두 건을 차단했다고 밝혔다.",
-          "mini_headline": "OpenAI, 위장 공작 차단",
+        "es": {
+          "headline": "Países Bajos multa a Uber con\n€825M por decisiones automáticas",
+          "body": "El regulador neerlandés multó a Uber con unos 825 millones de euros por decisiones automatizadas contrarias al GDPR.",
+          "mini_headline": "Multa de €825M a Uber por algoritmos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "OpenAI는 러시아발과 이란발 은밀한 영향력 공작 두 건을 차단했다고 밝혔다. 이들은 OpenAI 모델과 전통적 수법을 함께 써 “false front(위장 전선)” 조직을 운영하며 지정학적 메시지를 세탁해 표적 청중에게 퍼뜨렸다."
+                "x": "Referencias legales (Legal Reference(s)): artículo 22 (Article 22; decisiones individuales automatizadas, incluida la elaboración de perfiles) y artículo 13 (Article 13; información que deberá facilitarse cuando los datos personales se obtengan del interesado). Decisión (Decision): multa administrativa (Administrative fine)."
               },
               {
                 "t": "p",
-                "x": "OpenAI에 따르면 이란 공작은 “기자” 페르소나 일곱 개를 내세워 중소 매체에 장문 기사를 제안했고, 러시아 공작은 라틴아메리카에서 사정을 모르는 사람들을 끌어들여 “싱크탱크”를 운영한 것으로 보인다. 회사는 러시아 공작을 Breakout Scale 기준 Category 5로 평가했는데, 이 등급의 공작을 차단한 것은 처음이다. 이란 공작은 Category 4로 평가했다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI가 2024년 초부터 적발한 영향력 공작 30건을 유포 방식과 Breakout Scale 등급별로 정리한 매트릭스."
+                "x": "La Autoriteit Persoonsgegevens (AP), la autoridad neerlandesa de protección de datos, impone a Uber una multa de EUR 824 990 000. El motivo es que la AP ha determinado que Uber tomó decisiones totalmente automatizadas sobre los conductores. Ante sospechas de fraude o valoraciones de clientes demasiado bajas, las cuentas de los conductores se desactivaban automáticamente de forma temporal o, si las valoraciones bajas persistían, de forma permanente. Como resultado, los conductores perdían los ingresos obtenidos a través de Uber durante la desactivación."
               },
               {
                 "t": "p",
-                "x": "러시아 공작 “Dark Clark”는 주로 ChatGPT로 내부 보고서를 작성했다. 보고서는 우크라이나의 평판과 아르헨티나·볼리비아 정치를 겨냥한 캠페인을 다뤘고, “Mia Clark”라는 페르소나를 앞세운 연구 플랫폼을 거쳤다."
+                "x": "Las quejas de 171 conductores franceses de Uber, presentadas a través de la Ligue des droits de l’Homme (LDH) ante la Commission Nationale de l'Informatique et des Libertés (CNIL) de Francia, dieron origen a la investigación. Como la sede europea de Uber está en los Países Bajos, el caso lo tramitó la autoridad neerlandesa de protección de datos, la Autoriteit Persoonsgegevens (AP), conforme al procedimiento One-Stop-Shop del GDPR. El caso se refería a incidentes ocurridos entre 2018 y 2022."
               },
               {
                 "t": "p",
-                "x": "이란 공작 “Bogus Bylines”는 미국-이란(US-Iran) 분쟁에 관한 기사를 다듬었다. OpenAI는 십여 개 매체에 게재된 기사 100건 가까이를 확인했다. OpenAI는 두 사례에 관한 정보를 관계 당국과 공유했다고 밝혔다."
+                "x": "Según la AP, Uber vulneró la prohibición de la toma de decisiones totalmente automatizada (decision-making) establecida en el Reglamento General de Protección de Datos (General Data Protection Regulation, GDPR). La AP también concluyó que Uber no informó suficientemente a los conductores sobre la toma de decisiones automatizada. Uber ya ha puesto fin a las infracciones."
               },
               {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI에 따르면 Bogus Bylines 페르소나 일곱 개의 명의로 게재된 기사의 타임라인이다."
+                "t": "p",
+                "x": "Uber ha recurrido la multa y aún no hay una resolución judicial firme."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "네덜란드 당국, Uber에\n€825M 자동결정 벌금",
+          "body": "네덜란드 당국이 Uber 자동결정의 GDPR 위반에 약 €825M 벌금을 매겼다.",
+          "mini_headline": "Uber, 알고리즘 탓 €825M 벌금",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "법적 근거: 제22조(프로파일링을 포함한 자동화된 개인 결정)와 제13조(정보주체로부터 개인정보를 수집할 때 제공해야 할 정보). 결정: 행정 과징금."
+              },
+              {
+                "t": "p",
+                "x": "네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)는 Uber에 EUR 824 990 000의 과징금을 부과한다. AP는 Uber가 운전기사에 관해 완전히 자동화된 결정을 내렸다고 판단했다. 사기 의심이 있거나 고객 평점이 지나치게 낮으면 기사 계정이 자동으로 일시 비활성화됐고, 낮은 평점이 계속되면 영구 비활성화됐다. 그 결과 기사들은 비활성화 기간 동안 Uber를 통한 수입을 잃었다."
+              },
+              {
+                "t": "p",
+                "x": "조사는 프랑스 Uber 기사 171명이 Ligue des droits de l’Homme(LDH)를 통해 프랑스 Commission Nationale de l'Informatique et des Libertés(CNIL)에 낸 민원에서 시작됐다. Uber의 유럽 본사가 네덜란드에 있어, 사건은 GDPR One-Stop-Shop 절차에 따라 네덜란드 데이터보호기관 Autoriteit Persoonsgegevens(AP)가 맡았다. 사건은 2018년부터 2022년 사이의 일이다."
+              },
+              {
+                "t": "p",
+                "x": "AP에 따르면 Uber는 일반개인정보보호법(GDPR)의 완전 자동화 결정 금지 조항을 위반했다. AP는 Uber가 자동 결정에 관해 기사들에게 충분히 알리지 않았다고도 판단했다. Uber는 현재 위반 행위를 중단한 상태다."
+              },
+              {
+                "t": "p",
+                "x": "Uber는 과징금에 불복해 항소했으며, 아직 최종 사법 판단은 나오지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI、偽装組織の\n影響工作二件を阻止",
-          "body": "OpenAIは、偽装記者やシンクタンクを使うAI-enabledの影響工作二件を阻止した。",
-          "mini_headline": "OpenAI、偽装工作を阻止",
+          "headline": "オランダ当局、Uberに\n自動決定で€825M 制裁金",
+          "body": "オランダ当局はGDPR違反の自動決定でUberに約€825M の制裁金を科した。",
+          "mini_headline": "Uber、アルゴリズムで€825M 制裁金",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "OpenAIは、ロシア発とイラン発の秘密裏の影響工作二件を利用禁止にしたと発表した。両者は同社のモデルと従来型の手法を組み合わせて「false front（偽装組織）」を運営し、地政学的なメッセージを洗浄して標的層に届けていた。"
+                "x": "法的根拠:第22条(プロファイリングを含む自動化された個人に関する決定)および第13条(データ主体から個人データを収集する際に提供すべき情報)。決定:行政制裁金。"
               },
               {
                 "t": "p",
-                "x": "OpenAIによれば、イラン側は「記者」のペルソナ七つを使って中小メディアに長文記事を売り込み、ロシア側はラテンアメリカで事情を知らない人々を取り込んで「シンクタンク」を運営させていたとみられる。同社はロシアの工作をBreakout ScaleでCategory 5と評価し、この等級の工作の阻止は初めてだという。イランの工作はCategory 4とした。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAIが2024年初頭以降に摘発した影響工作30件を、拡散手法とBreakout Scaleの等級別に示したマトリクス。"
+                "x": "オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)は、UberにEUR 824 990 000の制裁金を科す。APは、Uberが運転手について完全に自動化された決定を行ったと判断した。不正の疑いや顧客評価が低すぎる場合、運転手のアカウントは自動的に一時停止され、低評価が続く場合は永久に停止された。その結果、運転手は停止期間中、Uberを通じた収入を失った。"
               },
               {
                 "t": "p",
-                "x": "ロシアの工作「Dark Clark」は主にChatGPTを使い、ウクライナの評判やアルゼンチン、ボリビアの政治を狙うキャンペーンに関する内部報告書を作成した。その際、「Mia Clark」というペルソナを表看板にした研究プラットフォームを経由していた。"
+                "x": "調査のきっかけは、フランスのUber運転手171人がLigue des droits de l’Homme(LDH)を通じてフランスのCommission Nationale de l'Informatique et des Libertés(CNIL)に提出した苦情である。Uberの欧州本社がオランダにあるため、案件はGDPRのOne-Stop-Shop手続きに基づき、オランダのデータ保護機関Autoriteit Persoonsgegevens(AP)が扱った。対象は2018年から2022年にかけての事案である。"
               },
               {
                 "t": "p",
-                "x": "イランの工作「Bogus Bylines」は米国・イラン（US-Iran）紛争に関する記事を推敲した。OpenAIは十数のメディアに掲載された100本近くの記事を特定した。同社は両事案の情報を関係当局と共有したとしている。"
+                "x": "APによれば、Uberは一般データ保護規則(GDPR)が定める完全自動化決定の禁止に違反した。APはまた、Uberが自動決定について運転手に十分な情報を提供していなかったと認定した。Uberはすでに違反行為をやめている。"
               },
               {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAIによる、Bogus Bylinesの七つのペルソナ名義で掲載された記事の時系列。"
+                "t": "p",
+                "x": "Uberは制裁金を不服として控訴しており、最終的な司法判断はまだ出ていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI称瓦解两个\n虚假门面影响力网络",
-          "body": "OpenAI称已瓦解两起利用假记者和智库的AI-enabled影响力行动。",
-          "mini_headline": "OpenAI瓦解虚假门面行动",
+          "headline": "荷兰监管机构因自动决策\nUber 被罚 €825M",
+          "body": "荷兰数据保护机构因 GDPR 下违法的自动化决策，对 Uber 处以约 €825M 罚款。",
+          "mini_headline": "Uber 因算法被罚 €825M",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "OpenAI称，已封禁两起分别来自俄罗斯和伊朗的隐蔽影响力行动。它们将其模型与传统手法结合，运营“false front”（虚假门面）实体，对地缘政治信息进行洗白后投放给目标受众。"
+                "x": "法律依据：第22条（包括画像在内的自动化个人决策）和第13条（向数据主体收集个人数据时应提供的信息）。决定：行政罚款。"
               },
               {
                 "t": "p",
-                "x": "据OpenAI介绍，伊朗行动使用七个“记者”人设向中小型媒体推销长篇文章，俄罗斯行动则似乎拉拢了拉丁美洲不知情的人来运营一个“智库”。该公司将俄罗斯行动评为Breakout Scale的Category 5，这是其首次瓦解该级别的行动；伊朗行动则被评为Category 4。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "OpenAI自2024年初以来曝光的30起影响力行动矩阵，按传播方式和Breakout Scale类别划分。"
+                "x": "荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）对 Uber 处以 EUR 824 990 000 的罚款。原因是 AP 认定 Uber 对司机作出了完全自动化的决策。在怀疑存在欺诈或客户评价过低时，司机账户会被自动暂时停用；若客户评价持续偏低，则会被永久停用。由此，司机在停用期间失去了通过 Uber 获得的收入。"
               },
               {
                 "t": "p",
-                "x": "俄罗斯行动“Dark Clark”主要用ChatGPT撰写内部报告，内容涉及针对乌克兰声誉以及阿根廷和玻利维亚政治的宣传活动，并通过一个以名为“Mia Clark”的人设为门面的研究平台进行。"
+                "x": "调查源于171名法国 Uber 司机通过 Ligue des droits de l’Homme（LDH）向法国 Commission Nationale de l'Informatique et des Libertés（CNIL）提交的投诉。由于 Uber 的欧洲总部位于荷兰，此案依据 GDPR One-Stop-Shop 程序由荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）处理。案件涉及2018年至2022年间发生的事件。"
               },
               {
                 "t": "p",
-                "x": "伊朗行动“Bogus Bylines”润色了有关美伊（US-Iran）冲突的文章；OpenAI识别出约十几家媒体上发表的近100篇此类文章。OpenAI称已就这两起案例与有关部门共享信息。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "据OpenAI，以七个Bogus Bylines人设名义发表的文章时间线。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI desarticula dos redes\nde influencia de falsa fachada",
-          "body": "OpenAI dice haber desarticulado dos operaciones de influencia AI-enabled que usaban falsos periodistas y un think tank.",
-          "mini_headline": "OpenAI desarticula operaciones de falsa fachada",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "OpenAI afirma que vetó dos operaciones de influencia encubiertas, una de Rusia y otra de Irán, que usaban sus modelos junto con técnicas tradicionales para gestionar entidades de “false front” (fachada falsa) que blanqueaban mensajes geopolíticos dirigidos a audiencias objetivo."
+                "x": "AP 表示，Uber 违反了《通用数据保护条例》（GDPR）关于禁止完全自动化决策的规定。AP 还认定，Uber 未就自动决策向司机提供充分信息。Uber 目前已停止上述违规行为。"
               },
               {
                 "t": "p",
-                "x": "Según OpenAI, la operación iraní utilizó siete personas ficticias de “periodistas” para ofrecer artículos extensos a medios pequeños y medianos, mientras que la rusa parece haber reclutado a personas desprevenidas en América Latina para dirigir un “think tank”. La empresa clasifica la operación rusa en la Category 5 de la Breakout Scale, la primera de ese nivel que desarticula, y la iraní en la Category 4."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/Pcsh8Lr9zLvOWbTJIONYK/9ff3190c968a58f28b42fbed18c2cc21/disrupting-ai-enabled-false-front-operations-inline-01.png?w=1600&q=90&fm=webp",
-                "cap": "Matriz de OpenAI con las 30 operaciones de influencia que ha expuesto desde principios de 2024, según método de distribución y categoría de la Breakout Scale."
-              },
-              {
-                "t": "p",
-                "x": "“Dark Clark”, la operación rusa, usó sobre todo ChatGPT para redactar informes internos sobre campañas dirigidas contra la reputación de Ucrania y sobre la política de Argentina y Bolivia, a través de una plataforma de investigación encabezada por una persona ficticia llamada “Mia Clark”."
-              },
-              {
-                "t": "p",
-                "x": "“Bogus Bylines”, la operación iraní, pulió artículos sobre el conflicto entre EE. UU. e Irán (US-Iran); OpenAI identificó casi 100 publicados en aproximadamente una docena de medios. OpenAI afirma que compartió información sobre ambos casos con las autoridades competentes."
-              },
-              {
-                "t": "img",
-                "src": "https://images.ctfassets.net/kftzwdyauwt9/18eboNK2WwHkm1vMteymsU/873de61796fc1b9dba27d20610626775/disrupting-ai-enabled-false-front-operations-inline-06.png?w=1600&q=90&fm=webp",
-                "cap": "Cronología de los artículos publicados bajo las siete personas ficticias de Bogus Bylines, según OpenAI."
+                "x": "Uber 已就罚款提起上诉，目前尚无最终司法裁决。"
               }
             ]
           }
@@ -647,15 +757,15 @@
       }
     },
     {
-      "id": "enisa-jrc-chinese-models",
+      "id": "ai-labs-backlash-plans",
       "source_lang": "en",
-      "tool": "Politics",
       "eyebrow": "AI NEWS",
-      "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
-      "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
-      "mini_headline": "EU, 중국 AI 모델 시험",
-      "source": "politico.eu",
-      "url": "https://www.politico.eu/article/eu-cybersecurity-and-science-researchers-are-testing-chinese-ai-models/",
+      "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
+      "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
+      "mini_headline": "AI 업계, 반발 대비",
+      "tool": "Politics",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -663,179 +773,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-            "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
+            "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
           },
           {
             "t": "p",
-            "x": "EU 관계자 세 명은 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델 시험에 들어갔다고 POLITICO에 밝혔다."
+            "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검한다. 이들이 예상하는 건 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건이고, 가장 유력한 형태로는 사이버 공격을 꼽는다."
           },
           {
             "t": "p",
-            "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 미국(U.S.)과 유럽의 주요 모델까지 함께 보는 비교 연구의 일환이다. 모델은 JRC의 보안 온프레미스 인프라에서 돌아간다. 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획도 없다."
+            "x": "보도에 따르면 실제 세계(real-world)에서 첫 대형 피해가 나는 순간 이미 경계하던 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게서 더 멀어지고 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 최고 AI 연구자와 경영진 상당수는 대형 사고가 피할 수 없는 일이라고 본다."
           },
           {
             "t": "p",
-            "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다. ENISA는 Anthropic, OpenAI, Google의 고급 모델도 쓸 수 있는 기관이다."
+            "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
           },
           {
             "t": "p",
-            "x": "두 기관은 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다. 이 계획은 AI 시스템이 시험 환경을 벗어난 사건들 이후에 나왔다."
+            "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례도 짚었다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 써서 은행 고객 수만 명의 데이터를 훔쳤다."
+          },
+          {
+            "t": "p",
+            "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪히리라 본다. 대비 계획의 초점은 주로 의회 의원들을 서둘러 교육하는 데 있다. 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 터질 것으로 내다봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "EU agencies confirm they are\ntesting Chinese AI models",
-          "body": "ENISA and the Joint Research Centre confirmed for the first time that they are testing Chinese open-source AI models.",
-          "mini_headline": "EU tests Chinese AI models",
+          "headline": "AI labs game out a public\nbacklash after a major attack",
+          "body": "Axios reports Anthropic and OpenAI executives are privately gaming out a backlash after a catastrophic AI incident.",
+          "mini_headline": "AI labs plan for backlash",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "A display for a Chinese telecom company at the PT Expo on September 22, 2026 in Beijing. | Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "The European Union's cybersecurity agency and in-house research center have each begun experimenting with open AI models from China, three EU officials told POLITICO."
+                "x": "Top executives at Anthropic, OpenAI and other AI companies are privately gaming out scenarios for a public and political revolt after a catastrophic AI event, Axios reports. They anticipate a large-scale event, most likely a cyberattack, that shuts down access to financial services, internet connectivity, or even power and water."
               },
               {
                 "t": "p",
-                "x": "Commission spokesperson Maciej Berestecki confirmed the Joint Research Centre (JRC) is evaluating “publicly available open-weight models” from China as part of a comparative study that also includes leading U.S. and European models. The models run on the JRC's secure, on-premises infrastructure, there are no licensing talks with Chinese developers, and the Commission does not intend to use them for its own purposes."
+                "x": "Such a first case of significant real-world harm would turn an already wary public further against the technology and its leaders, including Dario Amodei and Sam Altman, as well as President Trump for his reluctance to regulate it, according to the report. Many top AI researchers and executives believe a major incident is inevitable."
               },
               {
                 "t": "p",
-                "x": "ENISA executive director Juhan Lepassaar said the agency, which has access to advanced models from Anthropic, OpenAI and Google, is also experimenting with “a couple” of open-weight Chinese models."
+                "x": "\"OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios,\" a company spokesperson said. \"These scenarios are not treated as inevitable.\" Anthropic declined to comment."
               },
               {
                 "t": "p",
-                "x": "The two bodies have been tasked with building an AI testing platform under a recent EU action plan on AI and cyber, launched after incidents in which AI systems broke out of testing environments."
+                "x": "Axios cites a recent campaign against South Korean financial organizations: per CrowdStrike, a hacker from China allegedly used China-developed AI models, including DeepSeek, to steal data from tens of thousands of bank customers."
+              },
+              {
+                "t": "p",
+                "x": "Top AI planners assume Democrats, ascendant after the midterms, will move fast to shut down AI but will face significant challenges. The planning focuses mainly on racing to educate members of Congress, and many industry insiders told Axios they expect a major event in the next six to 12 months."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
-          "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
-          "mini_headline": "EU, 중국 AI 모델 시험",
+          "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
+          "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 닥칠 역풍에 은밀히 대비한다.",
+          "mini_headline": "AI 업계, 반발 대비",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "EU 관계자 세 명은 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델 시험에 들어갔다고 POLITICO에 밝혔다."
+                "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검한다. 이들이 예상하는 건 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건이고, 가장 유력한 형태로는 사이버 공격을 꼽는다."
               },
               {
                 "t": "p",
-                "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 미국(U.S.)과 유럽의 주요 모델까지 함께 보는 비교 연구의 일환이다. 모델은 JRC의 보안 온프레미스 인프라에서 돌아간다. 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획도 없다."
+                "x": "보도에 따르면 실제 세계(real-world)에서 첫 대형 피해가 나는 순간 이미 경계하던 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게서 더 멀어지고 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 최고 AI 연구자와 경영진 상당수는 대형 사고가 피할 수 없는 일이라고 본다."
               },
               {
                 "t": "p",
-                "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다. ENISA는 Anthropic, OpenAI, Google의 고급 모델도 쓸 수 있는 기관이다."
+                "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
               },
               {
                 "t": "p",
-                "x": "두 기관은 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다. 이 계획은 AI 시스템이 시험 환경을 벗어난 사건들 이후에 나왔다."
+                "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례도 짚었다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 써서 은행 고객 수만 명의 데이터를 훔쳤다."
+              },
+              {
+                "t": "p",
+                "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪히리라 본다. 대비 계획의 초점은 주로 의회 의원들을 서둘러 교육하는 데 있다. 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 터질 것으로 내다봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU機関、中国製AI\nモデルの試験を確認",
-          "body": "ENISAと共同研究センターが中国のオープンソースAIモデルを試験中だと初めて認めた。",
-          "mini_headline": "EU、中国製AIモデルを試験",
+          "headline": "AI各社、大規模攻撃後の\n世論の反発を想定",
+          "body": "AnthropicとOpenAIの幹部が、AI大惨事後の反発を密かに想定している。",
+          "mini_headline": "AI各社、反発に備える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026年9月22日、北京のPT Expoに設けられた中国通信企業の展示。| Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "EU当局者三人がPOLITICOに語ったところによると、欧州連合のサイバーセキュリティ機関と内部研究センターが、それぞれ中国のオープンAIモデルの試験を始めた。"
+                "x": "Axiosによると、Anthropic、OpenAIなどAI企業の経営トップは、壊滅的なAI事象の後に世論と政治の反発が起きるシナリオを非公開で検討している。彼らは、金融サービスやインターネット接続、さらには電力や水道まで止まる大規模(large-scale)な事象を想定しており、最も可能性が高いのはサイバー攻撃だとみている。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会のマチェイ・ベレステツキ(Maciej Berestecki)報道官は、共同研究センター(Joint Research Centre、JRC)が、米国(U.S.)と欧州の主要モデルも含む比較研究の一環として、中国の「一般に公開されたオープンウェイトモデル」を評価していることを認めた。モデルはJRCの安全なオンプレミス基盤で稼働しており、中国の開発企業とのライセンス交渉はなく、欧州委員会が自ら利用する予定もないという。"
+                "x": "同報道によると、現実世界(real-world)で初めて重大な被害が生じれば、すでに警戒している世論は、この技術とダリオ・アモデイ(Dario Amodei)氏やサム・アルトマン(Sam Altman)氏ら業界の指導者に一段と反発し、規制に消極的なトランプ(Trump)大統領にも矛先を向けるだろう。多くのトップAI研究者や経営者は、大規模な事故は避けられないと考えている。"
               },
               {
                 "t": "p",
-                "x": "ENISAのユハン・レパサール(Juhan Lepassaar)事務局長は、Anthropic、OpenAI、Googleの先進モデルを利用できる同機関も、中国のオープンウェイトモデルを「二つほど」試していると述べた。"
+                "x": "OpenAIの広報担当者は「OpenAIは、チームがさまざまな潜在的シナリオを議論し検討する備えの演習を行っている」と述べ、「これらのシナリオは不可避なものとして扱われてはいない」とした。Anthropicはコメントを控えた。"
               },
               {
                 "t": "p",
-                "x": "両機関は、AIシステムが試験環境から逸脱した事案を受けて策定された、AIとサイバーに関するEUの最近の行動計画のもとで、AI試験プラットフォームの構築を任されている。"
+                "x": "Axiosは、最近の韓国金融機関を狙った攻撃を例に挙げる。CrowdStrikeによると、中国のハッカーがDeepSeekを含む中国開発(China-developed)のAIモデルを使い、銀行顧客数万人のデータを盗んだとされる。"
+              },
+              {
+                "t": "p",
+                "x": "AI業界の主要な計画担当者は、中間選挙後に勢いを増した民主党がAIを止めようと素早く動くものの、大きな壁に直面すると想定している。計画の中心は議会議員への説明を急ぐことにあり、多くの業界関係者はAxiosに対し、今後六カ月から12カ月以内に大規模な事象が起きると予想していると語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU机构证实\n正在测试中国AI模型",
-          "body": "ENISA与联合研究中心首次证实，正在测试中国开源AI模型。",
-          "mini_headline": "EU测试中国AI模型",
+          "headline": "AI巨头推演重大袭击后\n公众反弹的局面",
+          "body": "据Axios报道，Anthropic和OpenAI高管正私下推演AI灾难后的公众反弹。",
+          "mini_headline": "AI公司预演反弹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026年9月22日，北京PT Expo上一家中国电信企业的展台。| Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "三名EU官员向POLITICO透露，欧盟网络安全机构和内部研究中心已分别开始试验来自中国的开放AI模型。"
+                "x": "据Axios报道，Anthropic、OpenAI等AI公司的高层正私下推演一场灾难性AI事件之后公众与政界强烈反弹的情景。他们预计会发生一场大规模(large-scale)事件，最可能是网络攻击，导致金融服务、互联网连接乃至电力和供水中断。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会发言人马切伊·贝雷斯泰茨基(Maciej Berestecki)证实，联合研究中心(Joint Research Centre，JRC)正在评估来自中国的“公开可用的开放权重模型”，这是一项比较研究的一部分，研究对象还包括美国(U.S.)和欧洲的领先模型。这些模型运行在JRC安全的本地基础设施上，JRC未与中国开发者进行任何许可谈判，欧盟委员会也无意将其用于自身用途。"
+                "x": "报道称，这种首次在现实世界(real-world)造成重大损害的事件，会让本已心存戒备的公众更加反感这项技术及其领军人物，包括达里奥·阿莫代伊(Dario Amodei)和萨姆·奥尔特曼(Sam Altman)，也会迁怒于不愿对其加以监管的特朗普(Trump)总统。许多顶尖AI研究人员和高管认为，重大事故不可避免。"
               },
               {
                 "t": "p",
-                "x": "ENISA执行主任尤汉·莱帕萨尔(Juhan Lepassaar)表示，可以使用Anthropic、OpenAI和Google先进模型的该机构，也在试验“几个”中国开放权重模型。"
+                "x": "OpenAI发言人表示：“OpenAI会开展准备演练，由团队讨论并推演一系列潜在情景。”“这些情景并不被视为必然发生。”Anthropic拒绝置评。"
               },
               {
                 "t": "p",
-                "x": "根据EU近期发布的AI与网络安全行动计划，这两个机构受命搭建AI测试平台；该计划是在AI系统突破测试环境的事件发生后推出的。"
+                "x": "Axios援引了近期针对韩国金融机构的攻击：据CrowdStrike称，一名来自中国的黑客涉嫌利用包括DeepSeek在内的中国研发(China-developed)AI模型，窃取了数万名银行客户的数据。"
+              },
+              {
+                "t": "p",
+                "x": "AI业界的高层规划者预计，中期选举后势力上升的民主党会迅速采取行动叫停AI，但将面临重大挑战。相关规划主要集中在抓紧向国会议员普及相关知识，许多业内人士对Axios表示，预计未来六到12个月内会发生重大事件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agencias de la UE confirman que\nprueban modelos chinos de IA",
-          "body": "ENISA y el Joint Research Centre confirmaron por primera vez que prueban modelos chinos de IA de código abierto.",
-          "mini_headline": "La UE prueba modelos chinos de IA",
+          "headline": "Laboratorios de IA prevén una\nreacción tras un gran ataque",
+          "body": "Según Axios, directivos de Anthropic y OpenAI planifican en privado la reacción pública a una catástrofe de IA.",
+          "mini_headline": "Laboratorios de IA ante el rechazo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "Un expositor de una empresa china de telecomunicaciones en la PT Expo, el 22 de septiembre de 2026 en Pekín. | Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "La agencia de ciberseguridad de la Unión Europea y su centro de investigación interno han empezado, cada uno, a experimentar con modelos abiertos de inteligencia artificial (AI) procedentes de China, según dijeron a POLITICO tres funcionarios de la UE (EU)."
+                "x": "Altos directivos de Anthropic, OpenAI y otras empresas de inteligencia artificial (AI) están ensayando en privado escenarios de rebelión pública y política tras un evento catastrófico de IA, según informa Axios. Prevén un evento a gran escala (large-scale), probablemente un ciberataque, que corte el acceso a servicios financieros, a la conexión a internet o incluso al suministro eléctrico y de agua."
               },
               {
                 "t": "p",
-                "x": "El portavoz de la Comisión Maciej Berestecki confirmó que el Joint Research Centre (JRC) está evaluando “modelos de pesos abiertos disponibles públicamente” de China como parte de un estudio comparativo que también incluye destacados modelos de Estados Unidos (U.S.) y europeos. Los modelos se ejecutan en la infraestructura segura y local del JRC, no hay negociaciones de licencias con desarrolladores chinos y la Comisión no tiene intención de usarlos para fines propios."
+                "x": "Según el informe, un primer caso de daño significativo en el mundo real (real-world) volvería aún más a una opinión pública ya recelosa contra la tecnología y sus líderes, entre ellos Dario Amodei y Sam Altman, así como contra el presidente Trump por su reticencia a regularla. Muchos de los principales investigadores y directivos de IA creen que un incidente grave es inevitable."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo de ENISA, Juhan Lepassaar, dijo que la agencia, que tiene acceso a modelos avanzados de Anthropic, OpenAI y Google, también está experimentando con “un par” de modelos chinos de pesos abiertos."
+                "x": "\"OpenAI realiza ejercicios de preparación en los que los equipos discuten y analizan una serie de posibles escenarios\", dijo un portavoz de la empresa. \"Estos escenarios no se tratan como inevitables\". Anthropic declinó hacer comentarios."
               },
               {
                 "t": "p",
-                "x": "Ambos organismos tienen el encargo de crear una plataforma de pruebas de IA en el marco de un reciente plan de acción de la UE sobre IA y ciberseguridad, lanzado tras incidentes en los que sistemas de IA escaparon de entornos de prueba."
+                "x": "Axios cita una campaña reciente contra organizaciones financieras de Corea del Sur: según CrowdStrike, un hacker de China habría utilizado modelos de IA desarrollados en China (China-developed), entre ellos DeepSeek, para robar datos de decenas de miles de clientes bancarios."
+              },
+              {
+                "t": "p",
+                "x": "Los principales planificadores del sector de la IA dan por hecho que los demócratas, fortalecidos tras las elecciones de mitad de mandato, actuarán con rapidez para frenar la IA, pero se enfrentarán a obstáculos importantes. La planificación se centra sobre todo en una carrera por informar a los miembros del Congreso, y muchos conocedores del sector dijeron a Axios que esperan un evento grave en los próximos seis a 12 meses."
               }
             ]
           }
@@ -843,125 +971,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU 기관들, 중국 AI\n모델 시험 첫 확인",
-          "body": "ENISA와 공동연구센터가 중국 오픈소스 AI 모델을 시험 중이라고 처음 확인했다.",
-          "mini_headline": "EU, 중국 AI 모델 시험",
+          "headline": "AI 업계, 대형 공격 뒤\n여론 반발 시나리오 점검",
+          "body": "Anthropic·OpenAI 경영진이 AI 참사 뒤 역풍에 은밀히 대비한다.",
+          "mini_headline": "AI 업계, 반발 대비",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026년 9월 22일 베이징 PT Expo에 마련된 중국 통신업체 전시물. | Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "EU 관계자 세 명은 POLITICO에 유럽연합의 사이버보안 기관과 내부 연구센터가 각각 중국의 오픈 AI 모델을 시험하기 시작했다고 밝혔다."
+                "x": "Axios에 따르면 Anthropic, OpenAI 등 AI 기업 최고 경영진이 재앙적 AI 사건 이후 대중과 정치권의 반발이 일어나는 시나리오를 비공개로 점검하고 있다. 이들은 금융 서비스와 인터넷 접속, 나아가 전력과 수도까지 끊는 대규모(large-scale) 사건을 예상하며, 가장 가능성이 큰 형태로 사이버 공격을 꼽는다."
               },
               {
                 "t": "p",
-                "x": "마치에이 베레스테츠키(Maciej Berestecki) 집행위원회 대변인은 공동연구센터(Joint Research Centre, JRC)가 미국(U.S.)과 유럽의 주요 모델도 포함한 비교 연구의 일환으로 중국의 “공개된 오픈웨이트 모델”을 평가하고 있다고 확인했다. 모델은 JRC의 보안 온프레미스 인프라에서 구동되며, 중국 개발사와의 라이선스 협상은 없고, 집행위원회는 이를 자체 용도로 쓸 계획이 없다."
+                "x": "보도에 따르면 실제 세계(real-world)에서 처음으로 큰 피해가 발생하면 이미 경계심을 품은 대중은 이 기술과 그 리더들, 곧 다리오 아모데이(Dario Amodei)와 샘 올트먼(Sam Altman)에게 더 등을 돌리고, 규제를 꺼려 온 트럼프(Trump) 대통령에게도 반감을 키울 것이다. 많은 최고 AI 연구자와 경영진은 대형 사고를 피할 수 없다고 본다."
               },
               {
                 "t": "p",
-                "x": "유한 레파사르(Juhan Lepassaar) ENISA 집행이사는 Anthropic, OpenAI, Google의 고급 모델을 이용할 수 있는 ENISA도 오픈웨이트 중국 모델 “두어 개”를 시험하고 있다고 말했다."
+                "x": "OpenAI 대변인은 \"OpenAI는 팀들이 다양한 잠재 시나리오를 논의하고 검토하는 대비 훈련을 진행한다\"며 \"이 시나리오들을 불가피한 것으로 다루지는 않는다\"고 말했다. Anthropic은 논평을 거부했다."
               },
               {
                 "t": "p",
-                "x": "두 기관은 AI 시스템이 시험 환경을 벗어난 사건들 이후 나온 최근 EU의 AI·사이버 행동계획에 따라 AI 시험 플랫폼 구축을 맡았다."
+                "x": "Axios는 최근 한국 금융기관을 겨냥한 공격 사례를 언급했다. CrowdStrike에 따르면 중국 해커가 DeepSeek 등 중국산(China-developed) AI 모델을 이용해 은행 고객 수만 명의 데이터를 훔친 것으로 알려졌다."
+              },
+              {
+                "t": "p",
+                "x": "AI 업계의 최고 기획자들은 중간선거 이후 세를 넓힌 민주당이 AI를 막으려 빠르게 움직이겠지만 상당한 난관에 부딪힐 것으로 본다. 대비 계획은 주로 의회 의원들을 서둘러 교육하는 데 맞춰져 있으며, 업계 내부자 다수는 Axios에 앞으로 여섯 달에서 12개월 안에 대형 사건이 일어날 것으로 예상한다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EU機関、中国製AI\nモデルの試験を確認",
-          "body": "ENISAと共同研究センターが中国のオープンソースAIモデルを試験中だと初めて認めた。",
-          "mini_headline": "EU、中国製AIモデルを試験",
+          "headline": "AI各社、大規模攻撃後の\n世論の反発を想定",
+          "body": "AnthropicとOpenAIの幹部が、AI大惨事後の反発を密かに想定している。",
+          "mini_headline": "AI各社、反発に備える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026年9月22日、北京のPT Expoに設けられた中国通信企業の展示。| Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "EU当局者三人がPOLITICOに語ったところによると、欧州連合のサイバーセキュリティ機関と内部研究センターが、それぞれ中国のオープンAIモデルの試験を始めた。"
+                "x": "Axiosによると、Anthropic、OpenAIなどAI企業の経営トップは、壊滅的なAI事象の後に世論と政治の反発が起きるシナリオを非公開で検討している。彼らは、金融サービスやインターネット接続、さらには電力や水道まで止まる大規模(large-scale)な事象を想定しており、最も可能性が高いのはサイバー攻撃だとみている。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会のマチェイ・ベレステツキ(Maciej Berestecki)報道官は、共同研究センター(Joint Research Centre、JRC)が、米国(U.S.)と欧州の主要モデルも含む比較研究の一環として、中国の「一般に公開されたオープンウェイトモデル」を評価していることを認めた。モデルはJRCの安全なオンプレミス基盤で稼働しており、中国の開発企業とのライセンス交渉はなく、欧州委員会が自ら利用する予定もないという。"
+                "x": "同報道によると、現実世界(real-world)で初めて重大な被害が生じれば、すでに警戒している世論は、この技術とダリオ・アモデイ(Dario Amodei)氏やサム・アルトマン(Sam Altman)氏ら業界の指導者に一段と反発し、規制に消極的なトランプ(Trump)大統領にも矛先を向けるだろう。多くのトップAI研究者や経営者は、大規模な事故は避けられないと考えている。"
               },
               {
                 "t": "p",
-                "x": "ENISAのユハン・レパサール(Juhan Lepassaar)事務局長は、Anthropic、OpenAI、Googleの先進モデルを利用できる同機関も、中国のオープンウェイトモデルを「二つほど」試していると述べた。"
+                "x": "OpenAIの広報担当者は「OpenAIは、チームがさまざまな潜在的シナリオを議論し検討する備えの演習を行っている」と述べ、「これらのシナリオは不可避なものとして扱われてはいない」とした。Anthropicはコメントを控えた。"
               },
               {
                 "t": "p",
-                "x": "両機関は、AIシステムが試験環境から逸脱した事案を受けて策定された、AIとサイバーに関するEUの最近の行動計画のもとで、AI試験プラットフォームの構築を任されている。"
+                "x": "Axiosは、最近の韓国金融機関を狙った攻撃を例に挙げる。CrowdStrikeによると、中国のハッカーがDeepSeekを含む中国開発(China-developed)のAIモデルを使い、銀行顧客数万人のデータを盗んだとされる。"
+              },
+              {
+                "t": "p",
+                "x": "AI業界の主要な計画担当者は、中間選挙後に勢いを増した民主党がAIを止めようと素早く動くものの、大きな壁に直面すると想定している。計画の中心は議会議員への説明を急ぐことにあり、多くの業界関係者はAxiosに対し、今後六カ月から12カ月以内に大規模な事象が起きると予想していると語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU机构证实\n正在测试中国AI模型",
-          "body": "ENISA与联合研究中心首次证实，正在测试中国开源AI模型。",
-          "mini_headline": "EU测试中国AI模型",
+          "headline": "AI巨头推演重大袭击后\n公众反弹的局面",
+          "body": "据Axios报道，Anthropic和OpenAI高管正私下推演AI灾难后的公众反弹。",
+          "mini_headline": "AI公司预演反弹",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "2026年9月22日，北京PT Expo上一家中国电信企业的展台。| Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "三名EU官员向POLITICO透露，欧盟网络安全机构和内部研究中心已分别开始试验来自中国的开放AI模型。"
+                "x": "据Axios报道，Anthropic、OpenAI等AI公司的高层正私下推演一场灾难性AI事件之后公众与政界强烈反弹的情景。他们预计会发生一场大规模(large-scale)事件，最可能是网络攻击，导致金融服务、互联网连接乃至电力和供水中断。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会发言人马切伊·贝雷斯泰茨基(Maciej Berestecki)证实，联合研究中心(Joint Research Centre，JRC)正在评估来自中国的“公开可用的开放权重模型”，这是一项比较研究的一部分，研究对象还包括美国(U.S.)和欧洲的领先模型。这些模型运行在JRC安全的本地基础设施上，JRC未与中国开发者进行任何许可谈判，欧盟委员会也无意将其用于自身用途。"
+                "x": "报道称，这种首次在现实世界(real-world)造成重大损害的事件，会让本已心存戒备的公众更加反感这项技术及其领军人物，包括达里奥·阿莫代伊(Dario Amodei)和萨姆·奥尔特曼(Sam Altman)，也会迁怒于不愿对其加以监管的特朗普(Trump)总统。许多顶尖AI研究人员和高管认为，重大事故不可避免。"
               },
               {
                 "t": "p",
-                "x": "ENISA执行主任尤汉·莱帕萨尔(Juhan Lepassaar)表示，可以使用Anthropic、OpenAI和Google先进模型的该机构，也在试验“几个”中国开放权重模型。"
+                "x": "OpenAI发言人表示：“OpenAI会开展准备演练，由团队讨论并推演一系列潜在情景。”“这些情景并不被视为必然发生。”Anthropic拒绝置评。"
               },
               {
                 "t": "p",
-                "x": "根据EU近期发布的AI与网络安全行动计划，这两个机构受命搭建AI测试平台；该计划是在AI系统突破测试环境的事件发生后推出的。"
+                "x": "Axios援引了近期针对韩国金融机构的攻击：据CrowdStrike称，一名来自中国的黑客涉嫌利用包括DeepSeek在内的中国研发(China-developed)AI模型，窃取了数万名银行客户的数据。"
+              },
+              {
+                "t": "p",
+                "x": "AI业界的高层规划者预计，中期选举后势力上升的民主党会迅速采取行动叫停AI，但将面临重大挑战。相关规划主要集中在抓紧向国会议员普及相关知识，许多业内人士对Axios表示，预计未来六到12个月内会发生重大事件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agencias de la UE confirman que\nprueban modelos chinos de IA",
-          "body": "ENISA y el Joint Research Centre confirmaron por primera vez que prueban modelos chinos de IA de código abierto.",
-          "mini_headline": "La UE prueba modelos chinos de IA",
+          "headline": "Laboratorios de IA prevén una\nreacción tras un gran ataque",
+          "body": "Según Axios, directivos de Anthropic y OpenAI planifican en privado la reacción pública a una catástrofe de IA.",
+          "mini_headline": "Laboratorios de IA ante el rechazo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=779,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/08/GettyImages-2296566421-scaled.jpg",
-                "cap": "Un expositor de una empresa china de telecomunicaciones en la PT Expo, el 22 de septiembre de 2026 en Pekín. | Kevin Frayer/Getty Images"
+                "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
               },
               {
                 "t": "p",
-                "x": "La agencia de ciberseguridad de la Unión Europea y su centro de investigación interno han empezado, cada uno, a experimentar con modelos abiertos de inteligencia artificial (AI) procedentes de China, según dijeron a POLITICO tres funcionarios de la UE (EU)."
+                "x": "Altos directivos de Anthropic, OpenAI y otras empresas de inteligencia artificial (AI) están ensayando en privado escenarios de rebelión pública y política tras un evento catastrófico de IA, según informa Axios. Prevén un evento a gran escala (large-scale), probablemente un ciberataque, que corte el acceso a servicios financieros, a la conexión a internet o incluso al suministro eléctrico y de agua."
               },
               {
                 "t": "p",
-                "x": "El portavoz de la Comisión Maciej Berestecki confirmó que el Joint Research Centre (JRC) está evaluando “modelos de pesos abiertos disponibles públicamente” de China como parte de un estudio comparativo que también incluye destacados modelos de Estados Unidos (U.S.) y europeos. Los modelos se ejecutan en la infraestructura segura y local del JRC, no hay negociaciones de licencias con desarrolladores chinos y la Comisión no tiene intención de usarlos para fines propios."
+                "x": "Según el informe, un primer caso de daño significativo en el mundo real (real-world) volvería aún más a una opinión pública ya recelosa contra la tecnología y sus líderes, entre ellos Dario Amodei y Sam Altman, así como contra el presidente Trump por su reticencia a regularla. Muchos de los principales investigadores y directivos de IA creen que un incidente grave es inevitable."
               },
               {
                 "t": "p",
-                "x": "El director ejecutivo de ENISA, Juhan Lepassaar, dijo que la agencia, que tiene acceso a modelos avanzados de Anthropic, OpenAI y Google, también está experimentando con “un par” de modelos chinos de pesos abiertos."
+                "x": "\"OpenAI realiza ejercicios de preparación en los que los equipos discuten y analizan una serie de posibles escenarios\", dijo un portavoz de la empresa. \"Estos escenarios no se tratan como inevitables\". Anthropic declinó hacer comentarios."
               },
               {
                 "t": "p",
-                "x": "Ambos organismos tienen el encargo de crear una plataforma de pruebas de IA en el marco de un reciente plan de acción de la UE sobre IA y ciberseguridad, lanzado tras incidentes en los que sistemas de IA escaparon de entornos de prueba."
+                "x": "Axios cita una campaña reciente contra organizaciones financieras de Corea del Sur: según CrowdStrike, un hacker de China habría utilizado modelos de IA desarrollados en China (China-developed), entre ellos DeepSeek, para robar datos de decenas de miles de clientes bancarios."
+              },
+              {
+                "t": "p",
+                "x": "Los principales planificadores del sector de la IA dan por hecho que los demócratas, fortalecidos tras las elecciones de mitad de mandato, actuarán con rapidez para frenar la IA, pero se enfrentarán a obstáculos importantes. La planificación se centra sobre todo en una carrera por informar a los miembros del Congreso, y muchos conocedores del sector dijeron a Axios que esperan un evento grave en los próximos seis a 12 meses."
               }
             ]
           }
@@ -969,15 +1109,15 @@
       }
     },
     {
-      "id": "park-wansu-deepfake-election-probe",
+      "id": "artex-pentest-pulled",
       "source_lang": "ko",
-      "tool": "Politics",
       "eyebrow": "AI NEWS",
-      "headline": "딥페이크 선거 의혹\n박완수 지사 피의자 조사",
-      "body": "딥페이크 영상·관권선거 의혹과 관련해 경찰이 박완수 경남지사를 피의자 조사했다.",
-      "mini_headline": "박완수 지사 피의자 조사",
-      "source": "yna.co.kr",
-      "url": "https://www.yna.co.kr/view/AKR20261008192700052",
+      "headline": "금융권 해킹에 등장한\n'아르텍스' 공개 중단",
+      "body": "한국 금융권 해킹에 쓰였다고 알려진 중국산 AI 도구 아르텍스가 공개를 중단했다.",
+      "mini_headline": "'아르텍스' 공개 중단",
+      "tool": "Politics",
+      "source": "Yonhap News Agency",
+      "url": "https://www.yna.co.kr/view/AKR20261010022500017",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -985,179 +1125,227 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-            "cap": "경찰은 '딥페이크 영상·관권선거 의혹' 사건 수사를 위해 지난 6월 9일 경남도청 등을 압수수색했다."
+            "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+            "cap": "서울 시내 은행 ATM [연합뉴스 자료사진. 재판매 및 DB 금지]"
           },
           {
             "t": "p",
-            "x": "6·3 지방선거 과정에서 불거진 당시 국민의힘 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 경찰이 박 지사를 피의자 신분으로 조사한 것으로 확인됐다."
+            "x": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아르텍스'(ARTEX)가 악용 논란 끝에 공개 개발을 중단한다."
           },
           {
             "t": "p",
-            "x": "경남경찰청 사이버수사과는 박 지사를 공직선거법 위반 등 혐의로 입건했다고 8일 밝혔다. 박 지사는 전날 오전 8시부터 오후 9시까지 경찰에 출석해 조사를 받은 것으로 파악됐다. 경찰 관계자는 \"아직 수사 중이어서 자세한 내용은 밝히기 어렵다\"고 말했다."
+            "x": "아르텍스 개발자는 도구가 사이버 공격에 악용된 점을 이유로 업데이트를 중단하고 추가 버전도 공개하지 않겠다고 밝혔다. 개발자 플랫폼 깃허브에서도 관련 페이지가 사라진 것으로 전해졌다. 다만 이미 배포된 프로그램까지 회수할 수는 없어 개발 중단 조치만으로 아르텍스를 활용한 사이버 공격을 차단하기는 어려울 것으로 보인다."
           },
           {
             "t": "p",
-            "x": "앞서 경찰은 당시 박 당선인 캠프 관계자와 경남도청 전현직 공무원 등 9명을 상대로 한 5건의 흑색선전 혐의에 대해 수사에 착수했다. 경남선관위는 지난 5월 이들 9명을 공직선거법 위반 혐의로 창원지검에 수사 의뢰했고, 더불어민주당 김경수 경남지사 후보 측도 딥페이크 영상 제작·유포, 공무원 선거 개입 혐의로 관련자 5명을 경남경찰청에 고발했다. 경찰은 이를 병합해 수사해 온 것으로 알려졌다."
+            "x": "10일 AFP·로이터 통신 등 외신에 따르면 아르텍스 개발자 '오텀(Autumn)-27'은 개발자 플랫폼 깃허브에 지난 8일 올린 글에서 아르텍스가 악용됐다며 \"도구의 잘못된 사용을 고려해 아르텍스는 더 이상 업데이트되지 않고 비공개 소스로 전환될 것\"이라고 말했다. 그는 \"추가 버전은 대중에게 공개되지 않을 것이며 유지 지원도 제공되지 않을 것\"이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "지난 8월에는 캠프 관계자 4명에 대한 구속영장이 모두 기각됐다. 이들은 김경수 후보를 비방하는 딥페이크 영상을 제작하도록 지시하고 도청 내부 자료와 금품 등을 제공한 혐의를 받는다. 이 가운데 전직 공무원 A씨와 현직 공무원 B씨는 영상 제작을 담당할 유사 선거사무소를 설치한 혐의도 있다."
+            "x": "아르텍스 측은 이 도구를 사이버 공격에 사용하는 것은 개발자 의도에 반하는 것이라면서도 국내에서 벌어진 해킹 사태를 직접 언급하지는 않았다. 아울러 아르텍스 측은 도구를 활용해 법과 규제를 위반한 행위에 대해 책임지지 않는다고 주장했다. 아르텍스의 깃허브 페이지는 사라진 상태라고 로이터가 전했다."
+          },
+          {
+            "t": "p",
+            "x": "전문가들은 아르텍스가 비공개 소스로 전환되면 신규 사용자가 코드를 만들기 더 어려워질 수 있다고 짚었다. 다만 중국 정보통신 전문가는 아르텍스의 이번 결정이 이미 다운로드된 사본을 제거하거나 사용자가 계속해서 쓰는 것을 막을 수는 없을 것이라고 AFP에 말했다."
+          },
+          {
+            "t": "p",
+            "x": "아르텍스는 대규모 언어모델(LLM)을 연결해 AI 에이전트가 공격 대상을 분석하고 침투 경로를 계획하며 보안 도구를 실행하도록 설계된 자율형 침투테스트 프로그램이다. 미국 보안업체 크라우드스트라이크는 지난달 말부터 이달 초 사이에 한국 금융기관을 겨냥한 공격이 이뤄졌으며, 공격자가 아르텍스와 LLM을 함께 활용했다고 분석했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "딥페이크 선거 의혹\n박완수 지사 피의자 조사",
-          "body": "딥페이크 영상·관권선거 의혹과 관련해 경찰이 박완수 경남지사를 피의자 조사했다.",
-          "mini_headline": "박완수 지사 피의자 조사",
+          "headline": "금융권 해킹에 등장한\n'아르텍스' 공개 중단",
+          "body": "한국 금융권 해킹에 쓰였다고 알려진 중국산 AI 도구 아르텍스가 공개를 중단했다.",
+          "mini_headline": "'아르텍스' 공개 중단",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "경찰은 '딥페이크 영상·관권선거 의혹' 사건 수사를 위해 지난 6월 9일 경남도청 등을 압수수색했다."
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "서울 시내 은행 ATM [연합뉴스 자료사진. 재판매 및 DB 금지]"
               },
               {
                 "t": "p",
-                "x": "6·3 지방선거 과정에서 불거진 당시 국민의힘 박완수 경남지사 후보 캠프의 '딥페이크 영상·관권선거 의혹'과 관련해 경찰이 박 지사를 피의자 신분으로 조사한 것으로 확인됐다."
+                "x": "최근 한국 금융권을 겨냥한 연쇄 해킹 공격에 활용된 것으로 알려진 중국산 인공지능(AI) 침투테스트 도구 '아르텍스'(ARTEX)가 악용 논란 끝에 공개 개발을 중단한다."
               },
               {
                 "t": "p",
-                "x": "경남경찰청 사이버수사과는 박 지사를 공직선거법 위반 등 혐의로 입건했다고 8일 밝혔다. 박 지사는 전날 오전 8시부터 오후 9시까지 경찰에 출석해 조사를 받은 것으로 파악됐다. 경찰 관계자는 \"아직 수사 중이어서 자세한 내용은 밝히기 어렵다\"고 말했다."
+                "x": "아르텍스 개발자는 도구가 사이버 공격에 악용된 점을 이유로 업데이트를 중단하고 추가 버전도 공개하지 않겠다고 밝혔다. 개발자 플랫폼 깃허브에서도 관련 페이지가 사라진 것으로 전해졌다. 다만 이미 배포된 프로그램까지 회수할 수는 없어 개발 중단 조치만으로 아르텍스를 활용한 사이버 공격을 차단하기는 어려울 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "앞서 경찰은 당시 박 당선인 캠프 관계자와 경남도청 전현직 공무원 등 9명을 상대로 한 5건의 흑색선전 혐의에 대해 수사에 착수했다. 경남선관위는 지난 5월 이들 9명을 공직선거법 위반 혐의로 창원지검에 수사 의뢰했고, 더불어민주당 김경수 경남지사 후보 측도 딥페이크 영상 제작·유포, 공무원 선거 개입 혐의로 관련자 5명을 경남경찰청에 고발했다. 경찰은 이를 병합해 수사해 온 것으로 알려졌다."
+                "x": "10일 AFP·로이터 통신 등 외신에 따르면 아르텍스 개발자 '오텀(Autumn)-27'은 개발자 플랫폼 깃허브에 지난 8일 올린 글에서 아르텍스가 악용됐다며 \"도구의 잘못된 사용을 고려해 아르텍스는 더 이상 업데이트되지 않고 비공개 소스로 전환될 것\"이라고 말했다. 그는 \"추가 버전은 대중에게 공개되지 않을 것이며 유지 지원도 제공되지 않을 것\"이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "지난 8월에는 캠프 관계자 4명에 대한 구속영장이 모두 기각됐다. 이들은 김경수 후보를 비방하는 딥페이크 영상을 제작하도록 지시하고 도청 내부 자료와 금품 등을 제공한 혐의를 받는다. 이 가운데 전직 공무원 A씨와 현직 공무원 B씨는 영상 제작을 담당할 유사 선거사무소를 설치한 혐의도 있다."
+                "x": "아르텍스 측은 이 도구를 사이버 공격에 사용하는 것은 개발자 의도에 반하는 것이라면서도 국내에서 벌어진 해킹 사태를 직접 언급하지는 않았다. 아울러 아르텍스 측은 도구를 활용해 법과 규제를 위반한 행위에 대해 책임지지 않는다고 주장했다. 아르텍스의 깃허브 페이지는 사라진 상태라고 로이터가 전했다."
+              },
+              {
+                "t": "p",
+                "x": "전문가들은 아르텍스가 비공개 소스로 전환되면 신규 사용자가 코드를 만들기 더 어려워질 수 있다고 짚었다. 다만 중국 정보통신 전문가는 아르텍스의 이번 결정이 이미 다운로드된 사본을 제거하거나 사용자가 계속해서 쓰는 것을 막을 수는 없을 것이라고 AFP에 말했다."
+              },
+              {
+                "t": "p",
+                "x": "아르텍스는 대규모 언어모델(LLM)을 연결해 AI 에이전트가 공격 대상을 분석하고 침투 경로를 계획하며 보안 도구를 실행하도록 설계된 자율형 침투테스트 프로그램이다. 미국 보안업체 크라우드스트라이크는 지난달 말부터 이달 초 사이에 한국 금융기관을 겨냥한 공격이 이뤄졌으며, 공격자가 아르텍스와 LLM을 함께 활용했다고 분석했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Deepfake election allegations\nPark Wan-su quizzed as suspect",
-          "body": "Police questioned Gyeongnam Governor Park Wan-su as a suspect over deepfake video and election-meddling claims.",
-          "mini_headline": "Gov. Park Wan-su questioned as suspect",
+          "headline": "ARTEX, tool tied to bank hacks,\nhalts public release",
+          "body": "ARTEX, a Chinese-made AI tool reportedly used in hacks on South Korean financial firms, has stopped public release.",
+          "mini_headline": "ARTEX halts public release",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "Police raided the South Gyeongsang Provincial Government office and other sites on June 9 to investigate the 'deepfake video and official election-meddling allegations' case."
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "A bank ATM in Seoul [Yonhap file photo. Resale and DB prohibited]"
               },
               {
                 "t": "p",
-                "x": "Police have questioned South Gyeongsang Governor Park Wan-su as a suspect over the 'deepfake video and official election-meddling allegations' involving the campaign of Park, then the People Power Party candidate for South Gyeongsang governor, which surfaced during the 6·3 (June 3) local elections, it has been confirmed."
+                "x": "ARTEX, a Chinese-made artificial intelligence (AI) penetration-testing tool reportedly used in a string of hacking attacks on South Korea's financial sector, is ending public development after controversy over its misuse."
               },
               {
                 "t": "p",
-                "x": "The cyber investigation division of the South Gyeongsang Provincial Police Agency said on the 8th that it had booked Park on charges including violating the Public Official Election Act. Park reportedly appeared at the police from 8 a.m. to 9 p.m. the previous day for questioning. A police official said, \"The investigation is still under way, so it is difficult to disclose details.\""
+                "x": "The ARTEX developer said updates would stop and no further versions would be released, citing the tool's misuse in cyberattacks. The related page on the developer platform GitHub has also reportedly disappeared. However, since programs already distributed cannot be recalled, halting development alone is unlikely to block cyberattacks using ARTEX."
               },
               {
                 "t": "p",
-                "x": "Police had earlier opened an investigation into 5 cases of alleged smear campaigning involving 9 people, including officials from then governor-elect Park's campaign and current and former South Gyeongsang provincial government officials. In May, the South Gyeongsang Election Commission referred the 9 to the Changwon District Prosecutors' Office for investigation on charges of violating the Public Official Election Act, and the side of Democratic Party candidate for South Gyeongsang governor Kim Kyoung-soo also filed a complaint with the South Gyeongsang Provincial Police Agency against 5 people on charges of producing and spreading deepfake videos and of public officials interfering in the election. Police are known to have merged the cases into a single investigation."
+                "x": "According to foreign media including AFP and Reuters on the 10th, ARTEX developer 'Autumn-27' said in a post on the developer platform GitHub on the 8th that ARTEX had been misused, adding, \"Given the misuse of the tool, ARTEX will no longer be updated and will move to closed source.\" The developer added, \"Further versions will not be released to the public, and no maintenance support will be provided.\""
               },
               {
                 "t": "p",
-                "x": "In August, arrest warrants for 4 campaign officials were all rejected. They are accused of ordering the production of deepfake videos defaming candidate Kim Kyoung-soo and of providing internal provincial government documents, money and other valuables. Among them, former official A and current official B are also accused of setting up a quasi-campaign office to handle the video production."
+                "x": "The ARTEX side said using the tool for cyberattacks runs counter to the developer's intent, but did not directly mention the hacking incidents in South Korea. It also claimed it bears no responsibility for acts that violate laws and regulations using the tool. Reuters reported that ARTEX's GitHub page is gone."
+              },
+              {
+                "t": "p",
+                "x": "Experts noted that ARTEX's move to closed source could make it harder for new users to build the code. However, a Chinese information and communications expert told AFP that the decision cannot remove copies already downloaded or stop users from continuing to use them."
+              },
+              {
+                "t": "p",
+                "x": "ARTEX is an autonomous penetration-testing program that connects large language models (LLM) so that AI agents analyze targets, plan intrusion paths and run security tools. U.S. security firm CrowdStrike found that attacks targeting South Korean financial institutions took place between late last month and early this month, and that the attackers used ARTEX together with LLM."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ディープフェイク選挙疑惑\n朴完洙知事を被疑者聴取",
-          "body": "ディープフェイク動画・官権選挙疑惑で、警察が朴完洙慶南知事を被疑者として聴取した。",
-          "mini_headline": "朴完洙知事を被疑者聴取",
+          "headline": "金融ハッキングに登場した\nARTEX、公開を中止",
+          "body": "韓国金融界へのハッキングに使われたとされる中国製AIツールARTEXが公開を中止した。",
+          "mini_headline": "ARTEX、公開中止",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "警察は「ディープフェイク動画・官権選挙疑惑」事件の捜査のため、6月9日に慶尚南道庁などを家宅捜索した。"
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "ソウル市内の銀行のATM [聯合ニュース資料写真。転売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "6·3地方選挙の過程で浮上した、当時の国民の力・朴完洙慶南知事候補陣営の「ディープフェイク動画・官権選挙疑惑」をめぐり、警察が朴知事を被疑者として取り調べていたことが確認された。"
+                "x": "最近、韓国の金融界を狙った連続ハッキング攻撃に使われたとされる中国製の人工知能(AI)侵入テストツール「アルテックス」(ARTEX)が、悪用をめぐる論争の末、公開開発を中止する。"
               },
               {
                 "t": "p",
-                "x": "慶南警察庁サイバー捜査課は8日、朴知事を公職選挙法違反などの容疑で立件したと明らかにした。朴知事は前日午前8時から午後9時まで警察に出頭し、取り調べを受けたとみられる。警察関係者は「まだ捜査中のため、詳しい内容を明らかにするのは難しい」と話した。"
+                "x": "ARTEXの開発者は、ツールがサイバー攻撃に悪用されたことを理由に、アップデートを停止し、今後のバージョンも公開しないと明らかにした。開発者プラットフォームのGitHubからも関連ページが消えたという。ただ、すでに配布されたプログラムまで回収することはできず、開発中止だけでARTEXを使ったサイバー攻撃を防ぐのは難しいとみられる。"
               },
               {
                 "t": "p",
-                "x": "警察はこれに先立ち、当時の朴当選者陣営の関係者や慶尚南道庁の現職・元職公務員など9人を対象とした5件の誹謗中傷容疑について捜査に着手していた。慶南選挙管理委員会は5月、この9人を公職選挙法違反の容疑で昌原地検に捜査を依頼し、共に民主党の金慶洙慶南知事候補側もディープフェイク動画の制作・流布と公務員の選挙介入の容疑で関係者5人を慶南警察庁に告発した。警察はこれらを併合して捜査してきたとされる。"
+                "x": "10日のAFP・ロイター通信など海外メディアによると、ARTEXの開発者「オータム(Autumn)-27」は8日に開発者プラットフォームGitHubに投稿した文章で、ARTEXが悪用されたとして「ツールの誤用を考慮し、ARTEXは今後アップデートされず、クローズドソースに移行する」と述べた。さらに「今後のバージョンは一般に公開されず、保守サポートも提供されない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "8月には陣営関係者4人に対する逮捕状がすべて棄却された。4人は金慶洙候補を誹謗するディープフェイク動画の制作を指示し、道庁の内部資料や金品などを提供した容疑が持たれている。このうち元公務員のA氏と現職公務員のB氏は、動画制作を担う類似選挙事務所を設置した容疑もある。"
+                "x": "ARTEX側は、このツールをサイバー攻撃に使うことは開発者の意図に反するとしながらも、韓国で起きたハッキング事件には直接言及しなかった。また、ツールを使って法律や規制に違反した行為について責任を負わないと主張した。ARTEXのGitHubページは消えた状態だとロイターが伝えた。"
+              },
+              {
+                "t": "p",
+                "x": "専門家らは、ARTEXがクローズドソースに移行すれば、新規ユーザーがコードを作成するのは難しくなる可能性があると指摘した。ただ、中国の情報通信専門家はAFPに対し、今回の決定ですでにダウンロードされたコピーを削除したり、ユーザーが使い続けるのを止めたりすることはできないだろうと語った。"
+              },
+              {
+                "t": "p",
+                "x": "ARTEXは、大規模言語モデル(LLM)を接続し、AIエージェントが攻撃対象を分析して侵入経路を計画し、セキュリティツールを実行するよう設計された自律型の侵入テストプログラムである。米セキュリティ企業クラウドストライク(CrowdStrike)は、先月末から今月初めにかけて韓国の金融機関を狙った攻撃が行われ、攻撃者がARTEXとLLMを併用したと分析した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "深度伪造选举疑云\n朴完洙以嫌疑人身份受讯",
-          "body": "因深度伪造视频及官权选举疑云，警方以嫌疑人身份传讯了庆南知事朴完洙。",
-          "mini_headline": "朴完洙以嫌疑人身份受讯",
+          "headline": "现身韩国金融黑客案的\nARTEX停止公开",
+          "body": "据称被用于入侵韩国金融业的中国产AI工具ARTEX已停止公开。",
+          "mini_headline": "ARTEX停止公开",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "警方为调查“深度伪造视频及官权选举疑云”一案，于6月9日搜查了庆尚南道厅等地。"
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "首尔市内的银行ATM [韩联社资料照片，禁止转售及收入DB]"
               },
               {
                 "t": "p",
-                "x": "据确认，就6·3地方选举期间曝出的时任国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频及官权选举疑云”，警方已以嫌疑人身份对朴完洙进行了调查。"
+                "x": "据称被用于近期针对韩国金融业的一系列黑客攻击的中国产人工智能(AI)渗透测试工具“ARTEX”，在滥用争议之下停止公开开发。"
               },
               {
                 "t": "p",
-                "x": "庆南警察厅网络调查科8日表示，已以涉嫌违反《公职选举法》等罪名对朴完洙立案。据悉，朴完洙前一天上午8时至晚上9时到警方接受了调查。一名警方相关人士表示：“目前仍在调查中，难以透露具体内容。”"
+                "x": "ARTEX开发者表示，由于该工具被滥用于网络攻击，将停止更新，也不再公开后续版本。据悉，开发者平台GitHub上的相关页面也已消失。不过，已分发的程序无法收回，仅靠停止开发恐怕难以阻止利用ARTEX发动的网络攻击。"
               },
               {
                 "t": "p",
-                "x": "此前，警方已就针对时任当选人朴完洙阵营相关人士及庆尚南道厅现任、前任公务员等9人的5项抹黑宣传嫌疑展开调查。庆南选举管理委员会5月以涉嫌违反《公职选举法》将上述9人移交昌原地方检察厅调查；共同民主党庆南知事候选人金庆洙一方也以涉嫌制作、传播深度伪造视频及公务员介入选举，向庆南警察厅举报了5名相关人员。据悉，警方一直在合并调查这些案件。"
+                "x": "据AFP、路透社等外媒10日报道，ARTEX开发者“Autumn-27”8日在开发者平台GitHub上发文称ARTEX遭到滥用，并表示：“考虑到该工具被误用，ARTEX将不再更新，并将转为闭源。”他还补充说：“后续版本将不会向公众发布，也不会提供维护支持。”"
               },
               {
                 "t": "p",
-                "x": "8月，针对4名阵营相关人士的逮捕令申请全部被驳回。他们涉嫌指使制作诋毁候选人金庆洙的深度伪造视频，并提供道厅内部资料和财物等。其中，前公务员A某和现任公务员B某还涉嫌设立负责制作视频的类似竞选办公室。"
+                "x": "ARTEX方面称，将该工具用于网络攻击违背了开发者的本意，但并未直接提及在韩国发生的黑客事件。ARTEX方面还声称，对于利用该工具违反法律法规的行为不承担责任。路透社报道称，ARTEX的GitHub页面已经消失。"
+              },
+              {
+                "t": "p",
+                "x": "专家指出，ARTEX转为闭源后，新用户编写代码可能会更加困难。不过，一名中国信息通信专家对AFP表示，ARTEX此次的决定无法删除已下载的副本，也无法阻止用户继续使用。"
+              },
+              {
+                "t": "p",
+                "x": "ARTEX是一款自主渗透测试程序，通过连接大语言模型(LLM)，让AI代理分析攻击目标、规划渗透路径并运行安全工具。美国安全企业CrowdStrike分析称，上月底至本月初发生了针对韩国金融机构的攻击，攻击者同时使用了ARTEX和LLM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sospechas de deepfake electoral:\ninterrogan al gobernador Park",
-          "body": "La policía interrogó como sospechoso al gobernador Park Wan-su por videos deepfake e injerencia electoral.",
-          "mini_headline": "Park Wan-su, interrogado como sospechoso",
+          "headline": "ARTEX, usada en ciberataques\na bancos, deja de ser pública",
+          "body": "ARTEX, herramienta china de IA presuntamente usada en hackeos a la banca surcoreana, ha dejado de publicarse.",
+          "mini_headline": "ARTEX deja de ser pública",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "La policía registró el 9 de junio la sede del Gobierno provincial de Gyeongsang del Sur, entre otros lugares, para investigar el caso de las 'sospechas de video deepfake y de injerencia electoral oficial'."
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "Cajero automático (ATM) de un banco en Seúl [Foto de archivo de Yonhap. Prohibida su reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "Se ha confirmado que la policía interrogó como sospechoso al gobernador de Gyeongsang del Sur, Park Wan-su, por las 'sospechas de video deepfake y de injerencia electoral oficial' surgidas en torno a su campaña como entonces candidato del Partido del Poder Popular a gobernador durante las elecciones locales del 6·3 (3 de junio)."
+                "x": "ARTEX, una herramienta china de pruebas de penetración basada en inteligencia artificial (AI) que, según se informó, se utilizó en una serie de ataques informáticos contra el sector financiero de Corea del Sur, pone fin a su desarrollo público tras la polémica por su uso indebido."
               },
               {
                 "t": "p",
-                "x": "La división de investigación cibernética de la Agencia de Policía Provincial de Gyeongsang del Sur informó el día 8 que había imputado a Park por cargos que incluyen la violación de la Ley de Elecciones de Cargos Públicos. Según se supo, Park compareció ante la policía el día anterior, de 8 de la mañana a 9 de la noche, para ser interrogado. Un responsable policial dijo: \"Como la investigación sigue en curso, es difícil revelar detalles\"."
+                "x": "El desarrollador de ARTEX anunció que dejará de actualizar la herramienta y no publicará nuevas versiones, alegando que se utilizó de forma indebida en ciberataques. Según se informó, la página correspondiente también desapareció de la plataforma para desarrolladores GitHub. Sin embargo, como no es posible retirar los programas ya distribuidos, parece difícil que la sola suspensión del desarrollo baste para frenar los ciberataques con ARTEX."
               },
               {
                 "t": "p",
-                "x": "Anteriormente, la policía había abierto una investigación sobre 5 casos de presunta campaña de difamación contra 9 personas, entre ellas miembros de la campaña del entonces gobernador electo Park y funcionarios actuales y antiguos del Gobierno provincial de Gyeongsang del Sur. En mayo, la Comisión Electoral de Gyeongsang del Sur remitió a esas 9 personas a la Fiscalía del Distrito de Changwon por presunta violación de la Ley de Elecciones de Cargos Públicos, y el equipo del candidato a gobernador del Partido Democrático, Kim Kyoung-soo, también denunció ante la Agencia de Policía Provincial de Gyeongsang del Sur a 5 personas por producir y difundir videos deepfake y por la injerencia de funcionarios en las elecciones. Según se informó, la policía ha investigado los casos de forma conjunta."
+                "x": "Según medios extranjeros como AFP y Reuters del día 10, el desarrollador de ARTEX, 'Autumn-27', afirmó en una publicación en la plataforma GitHub el día 8 que ARTEX había sido utilizada de forma indebida y que, \"teniendo en cuenta el mal uso de la herramienta, ARTEX dejará de actualizarse y pasará a ser de código cerrado\". Añadió que \"las próximas versiones no se publicarán al público y no se ofrecerá soporte de mantenimiento\"."
               },
               {
                 "t": "p",
-                "x": "En agosto fueron rechazadas todas las órdenes de detención contra 4 miembros de la campaña. Se les acusa de ordenar la producción de videos deepfake que difamaban al candidato Kim Kyoung-soo y de entregar documentos internos del Gobierno provincial, dinero y otros bienes. Entre ellos, el exfuncionario A y el funcionario en activo B también están acusados de instalar una oficina de campaña encubierta encargada de producir los videos."
+                "x": "Los responsables de ARTEX señalaron que usar la herramienta para ciberataques va en contra de la intención del desarrollador, aunque no mencionaron directamente los ataques ocurridos en Corea del Sur. Asimismo, sostuvieron que no se hacen responsables de los actos que infrinjan leyes y normas mediante la herramienta. Reuters informó de que la página de ARTEX en GitHub ha desaparecido."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos señalaron que el paso de ARTEX a código cerrado podría dificultar que nuevos usuarios generen el código. No obstante, un experto chino en tecnologías de la información y las comunicaciones dijo a AFP que esta decisión no podrá eliminar las copias ya descargadas ni impedir que los usuarios sigan utilizándolas."
+              },
+              {
+                "t": "p",
+                "x": "ARTEX es un programa autónomo de pruebas de penetración que conecta grandes modelos de lenguaje (LLM) para que agentes de IA analicen objetivos, planifiquen vías de intrusión y ejecuten herramientas de seguridad. La empresa de seguridad estadounidense CrowdStrike concluyó que entre finales del mes pasado y principios de este mes se produjeron ataques contra instituciones financieras surcoreanas y que los atacantes utilizaron ARTEX junto con LLM."
               }
             ]
           }
@@ -1165,125 +1353,157 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Deepfake election allegations\nPark Wan-su quizzed as suspect",
-          "body": "Police questioned Gyeongnam Governor Park Wan-su as a suspect over deepfake video and election-meddling claims.",
-          "mini_headline": "Gov. Park Wan-su questioned as suspect",
+          "headline": "ARTEX, tool tied to bank hacks,\nhalts public release",
+          "body": "ARTEX, a Chinese-made AI tool reportedly used in hacks on South Korean financial firms, has stopped public release.",
+          "mini_headline": "ARTEX halts public release",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "Police raided the South Gyeongsang Provincial Government office and other sites on June 9 to investigate the 'deepfake video and official election-meddling allegations' case."
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "A bank ATM in Seoul [Yonhap file photo. Resale and DB prohibited]"
               },
               {
                 "t": "p",
-                "x": "Police have questioned South Gyeongsang Governor Park Wan-su as a suspect over the 'deepfake video and official election-meddling allegations' involving the campaign of Park, then the People Power Party candidate for South Gyeongsang governor, which surfaced during the 6·3 (June 3) local elections, it has been confirmed."
+                "x": "ARTEX, a Chinese-made artificial intelligence (AI) penetration-testing tool reportedly used in a string of hacking attacks on South Korea's financial sector, is ending public development after controversy over its misuse."
               },
               {
                 "t": "p",
-                "x": "The cyber investigation division of the South Gyeongsang Provincial Police Agency said on the 8th that it had booked Park on charges including violating the Public Official Election Act. Park reportedly appeared at the police from 8 a.m. to 9 p.m. the previous day for questioning. A police official said, \"The investigation is still under way, so it is difficult to disclose details.\""
+                "x": "The ARTEX developer said updates would stop and no further versions would be released, citing the tool's misuse in cyberattacks. The related page on the developer platform GitHub has also reportedly disappeared. However, since programs already distributed cannot be recalled, halting development alone is unlikely to block cyberattacks using ARTEX."
               },
               {
                 "t": "p",
-                "x": "Police had earlier opened an investigation into 5 cases of alleged smear campaigning involving 9 people, including officials from then governor-elect Park's campaign and current and former South Gyeongsang provincial government officials. In May, the South Gyeongsang Election Commission referred the 9 to the Changwon District Prosecutors' Office for investigation on charges of violating the Public Official Election Act, and the side of Democratic Party candidate for South Gyeongsang governor Kim Kyoung-soo also filed a complaint with the South Gyeongsang Provincial Police Agency against 5 people on charges of producing and spreading deepfake videos and of public officials interfering in the election. Police are known to have merged the cases into a single investigation."
+                "x": "According to foreign media including AFP and Reuters on the 10th, ARTEX developer 'Autumn-27' said in a post on the developer platform GitHub on the 8th that ARTEX had been misused, adding, \"Given the misuse of the tool, ARTEX will no longer be updated and will move to closed source.\" The developer added, \"Further versions will not be released to the public, and no maintenance support will be provided.\""
               },
               {
                 "t": "p",
-                "x": "In August, arrest warrants for 4 campaign officials were all rejected. They are accused of ordering the production of deepfake videos defaming candidate Kim Kyoung-soo and of providing internal provincial government documents, money and other valuables. Among them, former official A and current official B are also accused of setting up a quasi-campaign office to handle the video production."
+                "x": "The ARTEX side said using the tool for cyberattacks runs counter to the developer's intent, but did not directly mention the hacking incidents in South Korea. It also claimed it bears no responsibility for acts that violate laws and regulations using the tool. Reuters reported that ARTEX's GitHub page is gone."
+              },
+              {
+                "t": "p",
+                "x": "Experts noted that ARTEX's move to closed source could make it harder for new users to build the code. However, a Chinese information and communications expert told AFP that the decision cannot remove copies already downloaded or stop users from continuing to use them."
+              },
+              {
+                "t": "p",
+                "x": "ARTEX is an autonomous penetration-testing program that connects large language models (LLM) so that AI agents analyze targets, plan intrusion paths and run security tools. U.S. security firm CrowdStrike found that attacks targeting South Korean financial institutions took place between late last month and early this month, and that the attackers used ARTEX together with LLM."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ディープフェイク選挙疑惑\n朴完洙知事を被疑者聴取",
-          "body": "ディープフェイク動画・官権選挙疑惑で、警察が朴完洙慶南知事を被疑者として聴取した。",
-          "mini_headline": "朴完洙知事を被疑者聴取",
+          "headline": "金融ハッキングに登場した\nARTEX、公開を中止",
+          "body": "韓国金融界へのハッキングに使われたとされる中国製AIツールARTEXが公開を中止した。",
+          "mini_headline": "ARTEX、公開中止",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "警察は「ディープフェイク動画・官権選挙疑惑」事件の捜査のため、6月9日に慶尚南道庁などを家宅捜索した。"
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "ソウル市内の銀行のATM [聯合ニュース資料写真。転売およびDB化禁止]"
               },
               {
                 "t": "p",
-                "x": "6·3地方選挙の過程で浮上した、当時の国民の力・朴完洙慶南知事候補陣営の「ディープフェイク動画・官権選挙疑惑」をめぐり、警察が朴知事を被疑者として取り調べていたことが確認された。"
+                "x": "最近、韓国の金融界を狙った連続ハッキング攻撃に使われたとされる中国製の人工知能(AI)侵入テストツール「アルテックス」(ARTEX)が、悪用をめぐる論争の末、公開開発を中止する。"
               },
               {
                 "t": "p",
-                "x": "慶南警察庁サイバー捜査課は8日、朴知事を公職選挙法違反などの容疑で立件したと明らかにした。朴知事は前日午前8時から午後9時まで警察に出頭し、取り調べを受けたとみられる。警察関係者は「まだ捜査中のため、詳しい内容を明らかにするのは難しい」と話した。"
+                "x": "ARTEXの開発者は、ツールがサイバー攻撃に悪用されたことを理由に、アップデートを停止し、今後のバージョンも公開しないと明らかにした。開発者プラットフォームのGitHubからも関連ページが消えたという。ただ、すでに配布されたプログラムまで回収することはできず、開発中止だけでARTEXを使ったサイバー攻撃を防ぐのは難しいとみられる。"
               },
               {
                 "t": "p",
-                "x": "警察はこれに先立ち、当時の朴当選者陣営の関係者や慶尚南道庁の現職・元職公務員など9人を対象とした5件の誹謗中傷容疑について捜査に着手していた。慶南選挙管理委員会は5月、この9人を公職選挙法違反の容疑で昌原地検に捜査を依頼し、共に民主党の金慶洙慶南知事候補側もディープフェイク動画の制作・流布と公務員の選挙介入の容疑で関係者5人を慶南警察庁に告発した。警察はこれらを併合して捜査してきたとされる。"
+                "x": "10日のAFP・ロイター通信など海外メディアによると、ARTEXの開発者「オータム(Autumn)-27」は8日に開発者プラットフォームGitHubに投稿した文章で、ARTEXが悪用されたとして「ツールの誤用を考慮し、ARTEXは今後アップデートされず、クローズドソースに移行する」と述べた。さらに「今後のバージョンは一般に公開されず、保守サポートも提供されない」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "8月には陣営関係者4人に対する逮捕状がすべて棄却された。4人は金慶洙候補を誹謗するディープフェイク動画の制作を指示し、道庁の内部資料や金品などを提供した容疑が持たれている。このうち元公務員のA氏と現職公務員のB氏は、動画制作を担う類似選挙事務所を設置した容疑もある。"
+                "x": "ARTEX側は、このツールをサイバー攻撃に使うことは開発者の意図に反するとしながらも、韓国で起きたハッキング事件には直接言及しなかった。また、ツールを使って法律や規制に違反した行為について責任を負わないと主張した。ARTEXのGitHubページは消えた状態だとロイターが伝えた。"
+              },
+              {
+                "t": "p",
+                "x": "専門家らは、ARTEXがクローズドソースに移行すれば、新規ユーザーがコードを作成するのは難しくなる可能性があると指摘した。ただ、中国の情報通信専門家はAFPに対し、今回の決定ですでにダウンロードされたコピーを削除したり、ユーザーが使い続けるのを止めたりすることはできないだろうと語った。"
+              },
+              {
+                "t": "p",
+                "x": "ARTEXは、大規模言語モデル(LLM)を接続し、AIエージェントが攻撃対象を分析して侵入経路を計画し、セキュリティツールを実行するよう設計された自律型の侵入テストプログラムである。米セキュリティ企業クラウドストライク(CrowdStrike)は、先月末から今月初めにかけて韓国の金融機関を狙った攻撃が行われ、攻撃者がARTEXとLLMを併用したと分析した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "深度伪造选举疑云\n朴完洙以嫌疑人身份受讯",
-          "body": "因深度伪造视频及官权选举疑云，警方以嫌疑人身份传讯了庆南知事朴完洙。",
-          "mini_headline": "朴完洙以嫌疑人身份受讯",
+          "headline": "现身韩国金融黑客案的\nARTEX停止公开",
+          "body": "据称被用于入侵韩国金融业的中国产AI工具ARTEX已停止公开。",
+          "mini_headline": "ARTEX停止公开",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "警方为调查“深度伪造视频及官权选举疑云”一案，于6月9日搜查了庆尚南道厅等地。"
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "首尔市内的银行ATM [韩联社资料照片，禁止转售及收入DB]"
               },
               {
                 "t": "p",
-                "x": "据确认，就6·3地方选举期间曝出的时任国民力量党庆南知事候选人朴完洙竞选阵营“深度伪造视频及官权选举疑云”，警方已以嫌疑人身份对朴完洙进行了调查。"
+                "x": "据称被用于近期针对韩国金融业的一系列黑客攻击的中国产人工智能(AI)渗透测试工具“ARTEX”，在滥用争议之下停止公开开发。"
               },
               {
                 "t": "p",
-                "x": "庆南警察厅网络调查科8日表示，已以涉嫌违反《公职选举法》等罪名对朴完洙立案。据悉，朴完洙前一天上午8时至晚上9时到警方接受了调查。一名警方相关人士表示：“目前仍在调查中，难以透露具体内容。”"
+                "x": "ARTEX开发者表示，由于该工具被滥用于网络攻击，将停止更新，也不再公开后续版本。据悉，开发者平台GitHub上的相关页面也已消失。不过，已分发的程序无法收回，仅靠停止开发恐怕难以阻止利用ARTEX发动的网络攻击。"
               },
               {
                 "t": "p",
-                "x": "此前，警方已就针对时任当选人朴完洙阵营相关人士及庆尚南道厅现任、前任公务员等9人的5项抹黑宣传嫌疑展开调查。庆南选举管理委员会5月以涉嫌违反《公职选举法》将上述9人移交昌原地方检察厅调查；共同民主党庆南知事候选人金庆洙一方也以涉嫌制作、传播深度伪造视频及公务员介入选举，向庆南警察厅举报了5名相关人员。据悉，警方一直在合并调查这些案件。"
+                "x": "据AFP、路透社等外媒10日报道，ARTEX开发者“Autumn-27”8日在开发者平台GitHub上发文称ARTEX遭到滥用，并表示：“考虑到该工具被误用，ARTEX将不再更新，并将转为闭源。”他还补充说：“后续版本将不会向公众发布，也不会提供维护支持。”"
               },
               {
                 "t": "p",
-                "x": "8月，针对4名阵营相关人士的逮捕令申请全部被驳回。他们涉嫌指使制作诋毁候选人金庆洙的深度伪造视频，并提供道厅内部资料和财物等。其中，前公务员A某和现任公务员B某还涉嫌设立负责制作视频的类似竞选办公室。"
+                "x": "ARTEX方面称，将该工具用于网络攻击违背了开发者的本意，但并未直接提及在韩国发生的黑客事件。ARTEX方面还声称，对于利用该工具违反法律法规的行为不承担责任。路透社报道称，ARTEX的GitHub页面已经消失。"
+              },
+              {
+                "t": "p",
+                "x": "专家指出，ARTEX转为闭源后，新用户编写代码可能会更加困难。不过，一名中国信息通信专家对AFP表示，ARTEX此次的决定无法删除已下载的副本，也无法阻止用户继续使用。"
+              },
+              {
+                "t": "p",
+                "x": "ARTEX是一款自主渗透测试程序，通过连接大语言模型(LLM)，让AI代理分析攻击目标、规划渗透路径并运行安全工具。美国安全企业CrowdStrike分析称，上月底至本月初发生了针对韩国金融机构的攻击，攻击者同时使用了ARTEX和LLM。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sospechas de deepfake electoral:\ninterrogan al gobernador Park",
-          "body": "La policía interrogó como sospechoso al gobernador Park Wan-su por videos deepfake e injerencia electoral.",
-          "mini_headline": "Park Wan-su, interrogado como sospechoso",
+          "headline": "ARTEX, usada en ciberataques\na bancos, deja de ser pública",
+          "body": "ARTEX, herramienta china de IA presuntamente usada en hackeos a la banca surcoreana, ha dejado de publicarse.",
+          "mini_headline": "ARTEX deja de ser pública",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img3.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911050005200_P4.jpg",
-                "cap": "La policía registró el 9 de junio la sede del Gobierno provincial de Gyeongsang del Sur, entre otros lugares, para investigar el caso de las 'sospechas de video deepfake y de injerencia electoral oficial'."
+                "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+                "cap": "Cajero automático (ATM) de un banco en Seúl [Foto de archivo de Yonhap. Prohibida su reventa y su inclusión en DB]"
               },
               {
                 "t": "p",
-                "x": "Se ha confirmado que la policía interrogó como sospechoso al gobernador de Gyeongsang del Sur, Park Wan-su, por las 'sospechas de video deepfake y de injerencia electoral oficial' surgidas en torno a su campaña como entonces candidato del Partido del Poder Popular a gobernador durante las elecciones locales del 6·3 (3 de junio)."
+                "x": "ARTEX, una herramienta china de pruebas de penetración basada en inteligencia artificial (AI) que, según se informó, se utilizó en una serie de ataques informáticos contra el sector financiero de Corea del Sur, pone fin a su desarrollo público tras la polémica por su uso indebido."
               },
               {
                 "t": "p",
-                "x": "La división de investigación cibernética de la Agencia de Policía Provincial de Gyeongsang del Sur informó el día 8 que había imputado a Park por cargos que incluyen la violación de la Ley de Elecciones de Cargos Públicos. Según se supo, Park compareció ante la policía el día anterior, de 8 de la mañana a 9 de la noche, para ser interrogado. Un responsable policial dijo: \"Como la investigación sigue en curso, es difícil revelar detalles\"."
+                "x": "El desarrollador de ARTEX anunció que dejará de actualizar la herramienta y no publicará nuevas versiones, alegando que se utilizó de forma indebida en ciberataques. Según se informó, la página correspondiente también desapareció de la plataforma para desarrolladores GitHub. Sin embargo, como no es posible retirar los programas ya distribuidos, parece difícil que la sola suspensión del desarrollo baste para frenar los ciberataques con ARTEX."
               },
               {
                 "t": "p",
-                "x": "Anteriormente, la policía había abierto una investigación sobre 5 casos de presunta campaña de difamación contra 9 personas, entre ellas miembros de la campaña del entonces gobernador electo Park y funcionarios actuales y antiguos del Gobierno provincial de Gyeongsang del Sur. En mayo, la Comisión Electoral de Gyeongsang del Sur remitió a esas 9 personas a la Fiscalía del Distrito de Changwon por presunta violación de la Ley de Elecciones de Cargos Públicos, y el equipo del candidato a gobernador del Partido Democrático, Kim Kyoung-soo, también denunció ante la Agencia de Policía Provincial de Gyeongsang del Sur a 5 personas por producir y difundir videos deepfake y por la injerencia de funcionarios en las elecciones. Según se informó, la policía ha investigado los casos de forma conjunta."
+                "x": "Según medios extranjeros como AFP y Reuters del día 10, el desarrollador de ARTEX, 'Autumn-27', afirmó en una publicación en la plataforma GitHub el día 8 que ARTEX había sido utilizada de forma indebida y que, \"teniendo en cuenta el mal uso de la herramienta, ARTEX dejará de actualizarse y pasará a ser de código cerrado\". Añadió que \"las próximas versiones no se publicarán al público y no se ofrecerá soporte de mantenimiento\"."
               },
               {
                 "t": "p",
-                "x": "En agosto fueron rechazadas todas las órdenes de detención contra 4 miembros de la campaña. Se les acusa de ordenar la producción de videos deepfake que difamaban al candidato Kim Kyoung-soo y de entregar documentos internos del Gobierno provincial, dinero y otros bienes. Entre ellos, el exfuncionario A y el funcionario en activo B también están acusados de instalar una oficina de campaña encubierta encargada de producir los videos."
+                "x": "Los responsables de ARTEX señalaron que usar la herramienta para ciberataques va en contra de la intención del desarrollador, aunque no mencionaron directamente los ataques ocurridos en Corea del Sur. Asimismo, sostuvieron que no se hacen responsables de los actos que infrinjan leyes y normas mediante la herramienta. Reuters informó de que la página de ARTEX en GitHub ha desaparecido."
+              },
+              {
+                "t": "p",
+                "x": "Los expertos señalaron que el paso de ARTEX a código cerrado podría dificultar que nuevos usuarios generen el código. No obstante, un experto chino en tecnologías de la información y las comunicaciones dijo a AFP que esta decisión no podrá eliminar las copias ya descargadas ni impedir que los usuarios sigan utilizándolas."
+              },
+              {
+                "t": "p",
+                "x": "ARTEX es un programa autónomo de pruebas de penetración que conecta grandes modelos de lenguaje (LLM) para que agentes de IA analicen objetivos, planifiquen vías de intrusión y ejecuten herramientas de seguridad. La empresa de seguridad estadounidense CrowdStrike concluyó que entre finales del mes pasado y principios de este mes se produjeron ataques contra instituciones financieras surcoreanas y que los atacantes utilizaron ARTEX junto con LLM."
               }
             ]
           }
@@ -1291,15 +1511,15 @@
       }
     },
     {
-      "id": "yandex-ai-datacenter-strike",
+      "id": "china-speed-first-safety",
       "source_lang": "en",
-      "tool": "Politics",
       "eyebrow": "AI NEWS",
-      "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
-      "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
-      "mini_headline": "드론, Yandex AI 데이터센터 타격",
-      "source": "arstechnica.com",
-      "url": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
+      "body": "SemiAnalysis는 속도를 앞세운 중국이 AI 경쟁을 이끌지 않는다고 본다.",
+      "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
+      "tool": "Politics",
+      "source": "SemiAnalysis",
+      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1307,179 +1527,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-            "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
+            "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
           },
           {
             "t": "p",
-            "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 멈췄다. Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하느라 애를 먹고 있다."
+            "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장하자, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하는지 따져 본다. 결론부터 말하면 베이징(Beijing)의 실제 접근법은 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이다."
           },
           {
             "t": "p",
-            "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있다. 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 두고 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 했다."
+            "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이다. TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)도 경고한다. 그런데 정작 이 Framework의 첫머리는 혁신 촉진이고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐다. AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 잡았다. 수많은 규정이 다루는 것도 프런티어 모델이 아니라 애플리케이션 속 AI의 말과 행동이다."
+          },
+          {
+            "t": "img",
+            "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+            "cap": "출처: SemiAnalysis"
           },
           {
             "t": "p",
-            "x": "Yandex는 다친 직원이 없다고 밝히면서도 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제를 겪었다고 전했다."
+            "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거치고 나온 중국 프런티어 텍스트 모델은 하나도 없다. 안전을 전략 차원의 약속으로 분명히 내건 곳도 Zhipu 하나뿐이다."
           },
           {
             "t": "p",
-            "x": "2026년 들어 데이터센터가 전시 표적으로 떠올랐다. 앞서 이란 드론은 바레인과 UAE의 Amazon 데이터센터를 마비시켰다."
+            "x": "문서 102건을 텍스트로 분석해 보니 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었다. 프런티어 모델에 구속력 있는 의무를 지우자는 제안 13건은 하나도 채택되지 않았다. 저자들은 중국을 속도 쪽으로 몰아간 것이 지정학이라고 주장하며 Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ukraine's drones knock out\nYandex AI data center",
-          "body": "Ukrainian drones knocked out two Yandex data centers, including one housing supercomputers used to train YandexGPT.",
-          "mini_headline": "Drones hit Yandex AI data center",
+          "headline": "SemiAnalysis: Beijing won't\npace the AI frontier",
+          "body": "SemiAnalysis argues China's AI safety rules put speed first, so Beijing will not be the one to pace the frontier race.",
+          "mini_headline": "China's speed-first AI safety",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "A satellite image showing damage to a Yandex AI data center in the Sasovo region of Russia. Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "Ukrainian drone strikes have knocked out two of five data centers belonging to Yandex, known as “Russia's Google,” leaving it struggling to maintain its AI chatbot and other online services."
+                "x": "After Dario Amodei argued on 12 September 2026 that frontier labs must deliberately slow capability gains, with China central to his case, SemiAnalysis asks what China is actually doing on AI safety. Its answer: Beijing's real approach is speed-based, not safety-based."
               },
               {
                 "t": "p",
-                "x": "The drones struck Yandex data centers in the Sasovo and Kaluga regions on October 8 and 9, according to Reuters. The Sasovo site houses two of the company's three supercomputers used to train its YandexGPT model; Kaluga is its largest facility. Ukrainian President Volodymyr Zelenskyy called the strikes a “symmetrical response” to a Russian drone campaign against Ukraine's data centers since late September."
+                "x": "China's stated position is safety-forward, and TC260's AI Safety Governance Framework 3.0 (14 September 2026) warns of recursive self-improvement. But the Framework opens with promoting innovation, the promised comprehensive AI Law was shelved in 2025, and the AI+ Action Plan targets 70% agent penetration by 2027. Its many mandates govern what AI says and does in applications, not frontier models."
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "Source: SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex said no employees were hurt but acknowledged disruptions. Users reported problems with services including Ivi, T-Bank and Russian Railways."
+                "x": "In a dataset of 857 releases by 9 leading Chinese developers from 2021 to 15 September 2026, only 31 (3.6%) ever came with a published safety result, and just 9 (1.1%) at or before release. No Chinese frontier text model has shipped with a dangerous-capability evaluation; Zhipu is the only lab where safety is a named strategic commitment."
               },
               {
                 "t": "p",
-                "x": "Data centers have become wartime targets in 2026: Iranian drones earlier knocked out Amazon data centers in Bahrain and the UAE."
+                "x": "A text analysis of 102 documents finds only technical scientists put safety ahead of development; none of 13 calls for binding frontier duties was adopted. The authors argue geopolitics pushed China toward speed, and note that Anthropic's own next launch post framed pacing as \"remaining competitive with China.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
-          "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
-          "mini_headline": "드론, Yandex AI 데이터센터 타격",
+          "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
+          "body": "SemiAnalysis는 속도를 앞세운 중국이 AI 경쟁을 이끌지 않는다고 본다.",
+          "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 멈췄다. Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하느라 애를 먹고 있다."
+                "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장하자, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하는지 따져 본다. 결론부터 말하면 베이징(Beijing)의 실제 접근법은 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이다."
               },
               {
                 "t": "p",
-                "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있다. 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 두고 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 했다."
+                "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이다. TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)도 경고한다. 그런데 정작 이 Framework의 첫머리는 혁신 촉진이고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐다. AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 잡았다. 수많은 규정이 다루는 것도 프런티어 모델이 아니라 애플리케이션 속 AI의 말과 행동이다."
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "출처: SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex는 다친 직원이 없다고 밝히면서도 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제를 겪었다고 전했다."
+                "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거치고 나온 중국 프런티어 텍스트 모델은 하나도 없다. 안전을 전략 차원의 약속으로 분명히 내건 곳도 Zhipu 하나뿐이다."
               },
               {
                 "t": "p",
-                "x": "2026년 들어 데이터센터가 전시 표적으로 떠올랐다. 앞서 이란 드론은 바레인과 UAE의 Amazon 데이터센터를 마비시켰다."
+                "x": "문서 102건을 텍스트로 분석해 보니 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었다. 프런티어 모델에 구속력 있는 의무를 지우자는 제안 13건은 하나도 채택되지 않았다. 저자들은 중국을 속도 쪽으로 몰아간 것이 지정학이라고 주장하며 Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウクライナのドローン、\nYandexのAI拠点まひ",
-          "body": "ウクライナの無人機がYandexGPT学習用スパコンを含むデータセンター二カ所を止めた。",
-          "mini_headline": "ドローン、YandexのAI拠点を攻撃",
+          "headline": "SemiAnalysis\n中国はAI最前線を先導せず",
+          "body": "SemiAnalysisは、速度優先の中国がAI競争の先頭に立つことはないと論じる。",
+          "mini_headline": "中国の速度優先(speed-first)のAI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "ロシア・サソボ(Sasovo)地域にあるYandexのAIデータセンターの被害を示す衛星画像。Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "ウクライナのドローン攻撃により、「ロシアのGoogle」と呼ばれるYandexのデータセンター五カ所のうち二カ所が停止し、同社はAIチャットボットなどのオンラインサービスの維持に苦慮している。"
+                "x": "ダリオ・アモデイ(Dario Amodei)氏が2026年9月12日、中国を論拠の中心に据えて、フロンティアラボは能力向上を意図的に減速させるべきだと主張したのを受け、SemiAnalysisは中国がAI安全について実際に何をしているのかを問う。その答えは、北京(Beijing)の実際のアプローチは安全重視(safety-based)ではなく速度重視(speed-based)だというものだ。"
               },
               {
                 "t": "p",
-                "x": "Reutersによると、ドローンは10月8日と9日、サソボ(Sasovo)とカルーガ(Kaluga)地域にあるYandexのデータセンターを攻撃した。サソボの施設には、YandexGPTモデルの学習に使われる同社のスーパーコンピューター三台のうち二台がある。カルーガは同社最大の施設だ。ウクライナのボロディミル・ゼレンスキー(Volodymyr Zelenskyy)大統領は、今回の攻撃を、9月下旬から続くロシアによるウクライナのデータセンターへのドローン攻撃に対する「対称的な対応」だと述べた。"
+                "x": "中国の公式な立場は安全優先(safety-forward)であり、TC260のAI Safety Governance Framework 3.0(2026年9月14日)は再帰的な自己改善(self-improvement)に警鐘を鳴らす。しかし同Frameworkはイノベーションの促進から始まり、約束されていた包括的なAI法(AI Law)は2025年に棚上げされ、AI+行動計画(AI+ Action Plan)は2027年までにエージェント普及率70%を目標に掲げる。多くの規定が対象とするのは、フロンティアモデルではなく、アプリケーションでAIが何を言い、何をするかである。"
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "出典：SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandexは負傷した従業員はいないとしたうえで、障害が起きていることを認めた。利用者からは、Ivi、T-Bank、ロシア鉄道(Russian Railways)などのサービスで問題が起きたとの報告があった。"
+                "x": "2021年から2026年9月15日までの中国主要開発企業9社による857件のリリースのデータセットでは、安全性の結果が公表されたのは31件(3.6%)にとどまり、リリース時またはそれ以前に公表されたのは9件(1.1%)だけだった。危険な能力(dangerous-capability)の評価を伴ってリリースされた中国のフロンティア・テキストモデルはなく、安全を明確な戦略的コミットメントとして掲げるラボはZhipuだけである。"
               },
               {
                 "t": "p",
-                "x": "2026年、データセンターは戦時の標的となっている。これに先立ち、イランのドローンがバーレーンとUAEにあるAmazonのデータセンターを停止させた。"
+                "x": "102件の文書のテキスト分析では、開発より安全を優先したのは技術系の科学者だけで、フロンティアに拘束力のある義務を課すよう求めた13件の提言はいずれも採用されなかった。著者らは、地政学が中国を速度へと向かわせたと主張し、Anthropic自身の次のリリース告知も、ペース配分を「中国に対する競争力の維持(remaining competitive with China)」と位置づけていたと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "乌克兰无人机击瘫\nYandex AI数据中心",
-          "body": "乌克兰无人机击瘫两座Yandex数据中心，其中一座设有训练YandexGPT的超算。",
-          "mini_headline": "无人机击瘫Yandex AI数据中心",
+          "headline": "SemiAnalysis：\n中国不会引领AI前沿节奏",
+          "body": "SemiAnalysis认为，中国AI安全规则奉行速度优先，北京不会主导前沿竞赛的节奏。",
+          "mini_headline": "中国速度优先(speed-first)的AI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "卫星图像显示俄罗斯萨索沃(Sasovo)地区一座Yandex AI数据中心的受损情况。Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "乌克兰无人机袭击已导致有“俄罗斯Google”之称的Yandex五座数据中心中的两座瘫痪，该公司难以维持其AI聊天机器人和其他在线服务。"
+                "x": "2026年9月12日，达里奥·阿莫代伊(Dario Amodei)以中国为核心论据，主张前沿实验室必须有意放缓能力提升。此后，SemiAnalysis追问中国在AI安全上究竟在做什么。其答案是：北京(Beijing)的实际做法以速度为本(speed-based)，而非以安全为本(safety-based)。"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，无人机于10月8日和9日袭击了位于萨索沃(Sasovo)和卡卢加(Kaluga)地区的Yandex数据中心。萨索沃设施内有该公司用于训练YandexGPT模型的三台超级计算机中的两台；卡卢加则是其最大的设施。乌克兰总统弗拉基米尔·泽连斯基(Volodymyr Zelenskyy)称，此次袭击是对俄罗斯自9月下旬以来针对乌克兰数据中心的无人机攻势的“对称回应”。"
+                "x": "中国的官方立场是安全优先(safety-forward)，TC260发布的AI Safety Governance Framework 3.0(2026年9月14日)对递归式自我改进(self-improvement)发出警告。但该Framework开篇即强调促进创新，承诺的综合性AI法(AI Law)已于2025年搁置，而AI+行动计划(AI+ Action Plan)的目标是到2027年智能体普及率达到70%。其众多规定管的是AI在应用中说什么、做什么，而非前沿模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "来源：SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex表示没有员工受伤，但承认服务出现中断。用户反映Ivi、T-Bank和俄罗斯铁路(Russian Railways)等服务出现问题。"
+                "x": "在2021年至2026年9月15日期间9家中国主要开发商的857次发布数据中，只有31次(3.6%)曾公布安全评估结果，在发布时或之前公布的仅9次(1.1%)。没有一款中国前沿文本模型在发布时附带危险能力(dangerous-capability)评估；智谱(Zhipu)是唯一将安全列为明确战略承诺的实验室。"
               },
               {
                 "t": "p",
-                "x": "2026年，数据中心已成为战时目标：此前伊朗无人机曾击瘫Amazon位于巴林和阿联酋(UAE)的数据中心。"
+                "x": "对102份文件的文本分析发现，只有技术科学家把安全置于发展之前；13项要求为前沿模型设定约束性义务的呼吁无一被采纳。作者认为，地缘政治推动中国走向速度优先，并指出Anthropic自己下一次发布的公告也把节奏问题表述为“保持对中国的竞争力(remaining competitive with China)”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Drones de Ucrania inutilizan un\ncentro de datos de IA de Yandex",
-          "body": "Drones ucranianos inutilizaron dos centros de datos de Yandex, uno con supercomputadoras para entrenar YandexGPT.",
-          "mini_headline": "Drones atacan un centro de datos de IA de Yandex",
+          "headline": "SemiAnalysis: Pekín no marcará\nel ritmo de la frontera de la IA",
+          "body": "SemiAnalysis sostiene que las normas chinas de seguridad de IA priorizan la velocidad y que Pekín no marcará el ritmo.",
+          "mini_headline": "Seguridad de IA china: velocidad primero (speed-first)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "Imagen satelital que muestra los daños en un centro de datos de IA de Yandex en la región de Sasovo, Rusia. Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "Los ataques con drones de Ucrania han inutilizado dos de los cinco centros de datos de Yandex, conocida como “el Google de Rusia”, que tiene dificultades para mantener su chatbot de inteligencia artificial (AI) y otros servicios en línea."
+                "x": "Después de que Dario Amodei afirmara el 12 de septiembre de 2026 que los laboratorios de frontera deben frenar deliberadamente el avance de sus capacidades, con China en el centro de su argumento, SemiAnalysis se pregunta qué está haciendo realmente China en materia de seguridad de la inteligencia artificial (AI). Su respuesta: el enfoque real de Pekín (Beijing) se basa en la velocidad (speed-based), no en la seguridad (safety-based)."
               },
               {
                 "t": "p",
-                "x": "Según Reuters, los drones atacaron los centros de datos de Yandex en las regiones de Sasovo y Kaluga el 8 y el 9 de octubre. La instalación de Sasovo alberga dos de las tres supercomputadoras de la empresa usadas para entrenar su modelo YandexGPT; Kaluga es su mayor instalación. El presidente ucraniano, Volodymyr Zelenskyy, calificó los ataques de “respuesta simétrica” a la campaña rusa con drones contra centros de datos de Ucrania desde finales de septiembre."
+                "x": "La posición declarada de China prioriza la seguridad (safety-forward), y el AI Safety Governance Framework 3.0 del TC260 (14 de septiembre de 2026) advierte sobre la automejora recursiva (self-improvement). Pero el Framework comienza con la promoción de la innovación, la prometida ley integral de IA (AI Law) se archivó en 2025 y el Plan de Acción AI+ (AI+ Action Plan) fija como meta una penetración de agentes del 70% para 2027. Sus numerosas normas regulan lo que la IA dice y hace en las aplicaciones, no los modelos de frontera."
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "Fuente: SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex dijo que ningún empleado resultó herido, pero reconoció interrupciones. Los usuarios informaron de problemas en servicios como Ivi, T-Bank y Russian Railways (Ferrocarriles Rusos)."
+                "x": "En un conjunto de datos de 857 lanzamientos de 9 desarrolladores chinos líderes entre 2021 y el 15 de septiembre de 2026, solo 31 (3.6%) llegaron a publicar algún resultado de seguridad, y apenas 9 (1.1%) lo hicieron en el momento del lanzamiento o antes. Ningún modelo de texto chino de frontera se ha lanzado con una evaluación de capacidades peligrosas (dangerous-capability); Zhipu es el único laboratorio en el que la seguridad es un compromiso estratégico explícito."
               },
               {
                 "t": "p",
-                "x": "Los centros de datos se han convertido en objetivos bélicos en 2026: antes, drones iraníes inutilizaron centros de datos de Amazon en Baréin y los Emiratos Árabes Unidos (UAE)."
+                "x": "Un análisis textual de 102 documentos concluye que solo los científicos técnicos anteponen la seguridad al desarrollo; ninguna de las 13 propuestas de obligaciones vinculantes para la frontera fue adoptada. Los autores sostienen que la geopolítica empujó a China hacia la velocidad y señalan que la propia publicación de Anthropic sobre su próximo lanzamiento presentó el ritmo como \"mantenerse competitivos frente a China\" (\"remaining competitive with China\")."
               }
             ]
           }
@@ -1487,125 +1731,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "우크라 드론, Yandex\nAI 데이터센터 타격",
-          "body": "우크라이나 드론이 YandexGPT 학습 시설을 포함한 데이터센터 두 곳을 멈췄다.",
-          "mini_headline": "드론, Yandex AI 데이터센터 타격",
+          "headline": "SemiAnalysis\n중국은 프런티어 못 이끈다",
+          "body": "SemiAnalysis는 속도 우선인 중국이 AI 경쟁을 이끌지 않는다고 본다.",
+          "mini_headline": "중국의 속도 우선(speed-first) AI 안전",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "러시아 사소보(Sasovo) 지역의 Yandex AI 데이터센터 피해를 보여주는 위성 사진. Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "우크라이나의 드론 공격으로 “러시아의 Google”로 불리는 Yandex의 데이터센터 다섯 곳 중 두 곳이 가동을 멈췄다. 이 때문에 Yandex는 AI 챗봇과 다른 온라인 서비스를 유지하는 데 어려움을 겪고 있다."
+                "x": "다리오 아모데이(Dario Amodei)가 2026년 9월 12일 중국을 핵심 근거로 들며 프런티어 연구소들이 의도적으로 역량 향상 속도를 늦춰야 한다고 주장한 뒤, SemiAnalysis는 중국이 AI 안전에서 실제로 무엇을 하고 있는지 묻는다. 답은 베이징(Beijing)의 실제 접근법이 안전 중심(safety-based)이 아니라 속도 중심(speed-based)이라는 것이다."
               },
               {
                 "t": "p",
-                "x": "Reuters에 따르면 드론은 10월 8일과 9일 사소보(Sasovo)와 칼루가(Kaluga) 지역의 Yandex 데이터센터를 타격했다. 사소보 시설에는 YandexGPT 모델 학습에 쓰이는 이 회사 슈퍼컴퓨터 세 대 중 두 대가 있고, 칼루가는 이 회사의 최대 시설이다. 볼로디미르 젤렌스키(Volodymyr Zelenskyy) 우크라이나 대통령은 이번 공격을 9월 말부터 이어진 러시아의 우크라이나 데이터센터 드론 공격에 대한 “대칭적 대응”이라고 불렀다."
+                "x": "중국이 내세우는 입장은 안전 우선(safety-forward)이며, TC260의 AI Safety Governance Framework 3.0(2026년 9월 14일)은 재귀적 자기 개선(self-improvement)을 경고한다. 그러나 이 Framework는 혁신 촉진으로 시작하고, 약속했던 포괄적 AI 법(AI Law)은 2025년에 보류됐으며, AI+ 행동계획(AI+ Action Plan)은 2027년까지 에이전트 보급률 70%를 목표로 한다. 수많은 규정은 프런티어 모델이 아니라 애플리케이션에서 AI가 말하고 행동하는 바를 다룬다."
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "출처: SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex는 다친 직원은 없다고 밝혔지만 서비스 장애는 인정했다. 이용자들은 Ivi, T-Bank, 러시아 철도(Russian Railways) 등의 서비스에서 문제가 생겼다고 전했다."
+                "x": "2021년부터 2026년 9월 15일까지 중국 주요 개발사 9곳이 내놓은 857건의 출시 데이터셋에서 안전성 결과를 한 번이라도 공개한 경우는 31건(3.6%)에 그쳤고, 출시 시점이나 그 이전에 공개한 경우는 9건(1.1%)뿐이었다. 위험 역량(dangerous-capability) 평가를 거쳐 출시된 중국 프런티어 텍스트 모델은 없으며, 안전을 명시적인 전략적 약속으로 내건 곳은 Zhipu가 유일하다."
               },
               {
                 "t": "p",
-                "x": "2026년 들어 데이터센터는 전시 표적이 되고 있다. 앞서 이란 드론이 바레인과 UAE의 Amazon 데이터센터를 마비시킨 바 있다."
+                "x": "102건의 문서를 텍스트 분석한 결과 개발보다 안전을 앞세운 쪽은 기술 과학자들뿐이었고, 프런티어 모델에 구속력 있는 의무를 지우자는 13건의 제안은 하나도 채택되지 않았다. 저자들은 지정학이 중국을 속도 쪽으로 밀어붙였다고 주장하며, Anthropic의 다음 출시 게시물조차 속도 조절을 \"중국과의 경쟁력 유지(remaining competitive with China)\"로 규정했다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウクライナのドローン、\nYandexのAI拠点まひ",
-          "body": "ウクライナの無人機がYandexGPT学習用スパコンを含むデータセンター二カ所を止めた。",
-          "mini_headline": "ドローン、YandexのAI拠点を攻撃",
+          "headline": "SemiAnalysis\n中国はAI最前線を先導せず",
+          "body": "SemiAnalysisは、速度優先の中国がAI競争の先頭に立つことはないと論じる。",
+          "mini_headline": "中国の速度優先(speed-first)のAI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "ロシア・サソボ(Sasovo)地域にあるYandexのAIデータセンターの被害を示す衛星画像。Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "ウクライナのドローン攻撃により、「ロシアのGoogle」と呼ばれるYandexのデータセンター五カ所のうち二カ所が停止し、同社はAIチャットボットなどのオンラインサービスの維持に苦慮している。"
+                "x": "ダリオ・アモデイ(Dario Amodei)氏が2026年9月12日、中国を論拠の中心に据えて、フロンティアラボは能力向上を意図的に減速させるべきだと主張したのを受け、SemiAnalysisは中国がAI安全について実際に何をしているのかを問う。その答えは、北京(Beijing)の実際のアプローチは安全重視(safety-based)ではなく速度重視(speed-based)だというものだ。"
               },
               {
                 "t": "p",
-                "x": "Reutersによると、ドローンは10月8日と9日、サソボ(Sasovo)とカルーガ(Kaluga)地域にあるYandexのデータセンターを攻撃した。サソボの施設には、YandexGPTモデルの学習に使われる同社のスーパーコンピューター三台のうち二台がある。カルーガは同社最大の施設だ。ウクライナのボロディミル・ゼレンスキー(Volodymyr Zelenskyy)大統領は、今回の攻撃を、9月下旬から続くロシアによるウクライナのデータセンターへのドローン攻撃に対する「対称的な対応」だと述べた。"
+                "x": "中国の公式な立場は安全優先(safety-forward)であり、TC260のAI Safety Governance Framework 3.0(2026年9月14日)は再帰的な自己改善(self-improvement)に警鐘を鳴らす。しかし同Frameworkはイノベーションの促進から始まり、約束されていた包括的なAI法(AI Law)は2025年に棚上げされ、AI+行動計画(AI+ Action Plan)は2027年までにエージェント普及率70%を目標に掲げる。多くの規定が対象とするのは、フロンティアモデルではなく、アプリケーションでAIが何を言い、何をするかである。"
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "出典：SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandexは負傷した従業員はいないとしたうえで、障害が起きていることを認めた。利用者からは、Ivi、T-Bank、ロシア鉄道(Russian Railways)などのサービスで問題が起きたとの報告があった。"
+                "x": "2021年から2026年9月15日までの中国主要開発企業9社による857件のリリースのデータセットでは、安全性の結果が公表されたのは31件(3.6%)にとどまり、リリース時またはそれ以前に公表されたのは9件(1.1%)だけだった。危険な能力(dangerous-capability)の評価を伴ってリリースされた中国のフロンティア・テキストモデルはなく、安全を明確な戦略的コミットメントとして掲げるラボはZhipuだけである。"
               },
               {
                 "t": "p",
-                "x": "2026年、データセンターは戦時の標的となっている。これに先立ち、イランのドローンがバーレーンとUAEにあるAmazonのデータセンターを停止させた。"
+                "x": "102件の文書のテキスト分析では、開発より安全を優先したのは技術系の科学者だけで、フロンティアに拘束力のある義務を課すよう求めた13件の提言はいずれも採用されなかった。著者らは、地政学が中国を速度へと向かわせたと主張し、Anthropic自身の次のリリース告知も、ペース配分を「中国に対する競争力の維持(remaining competitive with China)」と位置づけていたと指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "乌克兰无人机击瘫\nYandex AI数据中心",
-          "body": "乌克兰无人机击瘫两座Yandex数据中心，其中一座设有训练YandexGPT的超算。",
-          "mini_headline": "无人机击瘫Yandex AI数据中心",
+          "headline": "SemiAnalysis：\n中国不会引领AI前沿节奏",
+          "body": "SemiAnalysis认为，中国AI安全规则奉行速度优先，北京不会主导前沿竞赛的节奏。",
+          "mini_headline": "中国速度优先(speed-first)的AI安全",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "卫星图像显示俄罗斯萨索沃(Sasovo)地区一座Yandex AI数据中心的受损情况。Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "乌克兰无人机袭击已导致有“俄罗斯Google”之称的Yandex五座数据中心中的两座瘫痪，该公司难以维持其AI聊天机器人和其他在线服务。"
+                "x": "2026年9月12日，达里奥·阿莫代伊(Dario Amodei)以中国为核心论据，主张前沿实验室必须有意放缓能力提升。此后，SemiAnalysis追问中国在AI安全上究竟在做什么。其答案是：北京(Beijing)的实际做法以速度为本(speed-based)，而非以安全为本(safety-based)。"
               },
               {
                 "t": "p",
-                "x": "据Reuters报道，无人机于10月8日和9日袭击了位于萨索沃(Sasovo)和卡卢加(Kaluga)地区的Yandex数据中心。萨索沃设施内有该公司用于训练YandexGPT模型的三台超级计算机中的两台；卡卢加则是其最大的设施。乌克兰总统弗拉基米尔·泽连斯基(Volodymyr Zelenskyy)称，此次袭击是对俄罗斯自9月下旬以来针对乌克兰数据中心的无人机攻势的“对称回应”。"
+                "x": "中国的官方立场是安全优先(safety-forward)，TC260发布的AI Safety Governance Framework 3.0(2026年9月14日)对递归式自我改进(self-improvement)发出警告。但该Framework开篇即强调促进创新，承诺的综合性AI法(AI Law)已于2025年搁置，而AI+行动计划(AI+ Action Plan)的目标是到2027年智能体普及率达到70%。其众多规定管的是AI在应用中说什么、做什么，而非前沿模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "来源：SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex表示没有员工受伤，但承认服务出现中断。用户反映Ivi、T-Bank和俄罗斯铁路(Russian Railways)等服务出现问题。"
+                "x": "在2021年至2026年9月15日期间9家中国主要开发商的857次发布数据中，只有31次(3.6%)曾公布安全评估结果，在发布时或之前公布的仅9次(1.1%)。没有一款中国前沿文本模型在发布时附带危险能力(dangerous-capability)评估；智谱(Zhipu)是唯一将安全列为明确战略承诺的实验室。"
               },
               {
                 "t": "p",
-                "x": "2026年，数据中心已成为战时目标：此前伊朗无人机曾击瘫Amazon位于巴林和阿联酋(UAE)的数据中心。"
+                "x": "对102份文件的文本分析发现，只有技术科学家把安全置于发展之前；13项要求为前沿模型设定约束性义务的呼吁无一被采纳。作者认为，地缘政治推动中国走向速度优先，并指出Anthropic自己下一次发布的公告也把节奏问题表述为“保持对中国的竞争力(remaining competitive with China)”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Drones de Ucrania inutilizan un\ncentro de datos de IA de Yandex",
-          "body": "Drones ucranianos inutilizaron dos centros de datos de Yandex, uno con supercomputadoras para entrenar YandexGPT.",
-          "mini_headline": "Drones atacan un centro de datos de IA de Yandex",
+          "headline": "SemiAnalysis: Pekín no marcará\nel ritmo de la frontera de la IA",
+          "body": "SemiAnalysis sostiene que las normas chinas de seguridad de IA priorizan la velocidad y que Pekín no marcará el ritmo.",
+          "mini_headline": "Seguridad de IA china: velocidad primero (speed-first)",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/yandex-data-center_sasovo-ryazan-russia.jpg",
-                "cap": "Imagen satelital que muestra los daños en un centro de datos de IA de Yandex en la región de Sasovo, Rusia. Credit: Planet Labs PBC"
+                "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
               },
               {
                 "t": "p",
-                "x": "Los ataques con drones de Ucrania han inutilizado dos de los cinco centros de datos de Yandex, conocida como “el Google de Rusia”, que tiene dificultades para mantener su chatbot de inteligencia artificial (AI) y otros servicios en línea."
+                "x": "Después de que Dario Amodei afirmara el 12 de septiembre de 2026 que los laboratorios de frontera deben frenar deliberadamente el avance de sus capacidades, con China en el centro de su argumento, SemiAnalysis se pregunta qué está haciendo realmente China en materia de seguridad de la inteligencia artificial (AI). Su respuesta: el enfoque real de Pekín (Beijing) se basa en la velocidad (speed-based), no en la seguridad (safety-based)."
               },
               {
                 "t": "p",
-                "x": "Según Reuters, los drones atacaron los centros de datos de Yandex en las regiones de Sasovo y Kaluga el 8 y el 9 de octubre. La instalación de Sasovo alberga dos de las tres supercomputadoras de la empresa usadas para entrenar su modelo YandexGPT; Kaluga es su mayor instalación. El presidente ucraniano, Volodymyr Zelenskyy, calificó los ataques de “respuesta simétrica” a la campaña rusa con drones contra centros de datos de Ucrania desde finales de septiembre."
+                "x": "La posición declarada de China prioriza la seguridad (safety-forward), y el AI Safety Governance Framework 3.0 del TC260 (14 de septiembre de 2026) advierte sobre la automejora recursiva (self-improvement). Pero el Framework comienza con la promoción de la innovación, la prometida ley integral de IA (AI Law) se archivó en 2025 y el Plan de Acción AI+ (AI+ Action Plan) fija como meta una penetración de agentes del 70% para 2027. Sus numerosas normas regulan lo que la IA dice y hace en las aplicaciones, no los modelos de frontera."
+              },
+              {
+                "t": "img",
+                "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+                "cap": "Fuente: SemiAnalysis"
               },
               {
                 "t": "p",
-                "x": "Yandex dijo que ningún empleado resultó herido, pero reconoció interrupciones. Los usuarios informaron de problemas en servicios como Ivi, T-Bank y Russian Railways (Ferrocarriles Rusos)."
+                "x": "En un conjunto de datos de 857 lanzamientos de 9 desarrolladores chinos líderes entre 2021 y el 15 de septiembre de 2026, solo 31 (3.6%) llegaron a publicar algún resultado de seguridad, y apenas 9 (1.1%) lo hicieron en el momento del lanzamiento o antes. Ningún modelo de texto chino de frontera se ha lanzado con una evaluación de capacidades peligrosas (dangerous-capability); Zhipu es el único laboratorio en el que la seguridad es un compromiso estratégico explícito."
               },
               {
                 "t": "p",
-                "x": "Los centros de datos se han convertido en objetivos bélicos en 2026: antes, drones iraníes inutilizaron centros de datos de Amazon en Baréin y los Emiratos Árabes Unidos (UAE)."
+                "x": "Un análisis textual de 102 documentos concluye que solo los científicos técnicos anteponen la seguridad al desarrollo; ninguna de las 13 propuestas de obligaciones vinculantes para la frontera fue adoptada. Los autores sostienen que la geopolítica empujó a China hacia la velocidad y señalan que la propia publicación de Anthropic sobre su próximo lanzamiento presentó el ritmo como \"mantenerse competitivos frente a China\" (\"remaining competitive with China\")."
               }
             ]
           }

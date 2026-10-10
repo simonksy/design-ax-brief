@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "movies",
   "cards": [
     {
-      "id": "nikon-small-world-ai-disqualified",
+      "id": "cukur-vartolu-prime-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nikon, 생성형 AI로\n현미경 영상 1위 박탈",
-      "body": "Nikon이 생성형 AI를 쓴 우승작을 실격시키고 대회 규정을 재검토한다.",
-      "mini_headline": "Nikon, AI 우승작 실격",
+      "headline": "Prime Video가\nAI-made 영화 확보",
+      "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
+      "mini_headline": "Prime Video, AI-made 영화 구매",
       "tool": "Movies",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,155 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-            "cap": "처음 1위에 오른 영상은 후처리에 AI를 썼다."
+            "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+            "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
           },
           {
             "t": "p",
-            "x": "Nikon은 Small World in Motion 대회에서 처음 1위에 오른 영상이 “생성형 AI에 관한 대회 규정을 지키지 않았다”고 밝혔다. Dr. Ning Xu의 출품작으로, 호흡기 질환 PCD를 앓는 아이의 기도 속에서 머리카락처럼 가는 섬모가 움직이는 장면을 담았다는 설명이 붙어 있었다. 온라인에서 진위를 의심하는 목소리가 나오자 Nikon이 검토에 나섰다."
+            "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu” 전 세계 판권을 확보했다. 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
           },
           {
             "t": "p",
-            "x": "Dr. Ning Xu는 LinkedIn에 글을 올려, 초고해상도 광학 이미징으로 얻은 이미지의 특징을 구분하고 시각화하려고 “이후 비지도 신경망 방식으로 AI 보조(AI-assisted) 후처리를 했다”고 인정했다."
+            "x": "제작은 Ay Yapim이 싱가포르에 둔 AI 스튜디오 AI Yapim이 맡는다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에 공개했는데, 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈라는 소개가 붙었다. 회사는 “Çukur: Vartolu”로 이 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "영상은 실격돼 Nikon 웹사이트에서 내려갔고 1위는 Nguyen Nam Nhat에게 돌아갔다. Nikon은 “향후 대회 출품작에 대한 규정과 심사 절차를 재검토할” 계획이라고 했다. 이번 결정이 출품자의 평판이나 과학적 기여, 의도를 판단한 것은 아니라는 말도 덧붙였다."
+            "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 뒤 105개국 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 지금의 그를 만든 선택을 그리며, Türkiye 동부 Doğubeyazıt와 훗날 Istanbul에서 벌어지는 대결을 오간다."
+          },
+          {
+            "t": "p",
+            "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nikon strips microscopy prize\nover generative AI use",
-          "body": "Nikon disqualified its Small World in Motion winner for generative AI use and is revisiting the contest rules.",
-          "mini_headline": "Nikon pulls AI-aided winner",
+          "headline": "Prime Video takes global rights\nto AI-made 'Çukur:Vartolu'",
+          "body": "Prime Video took world rights to an AI-generated feature spun off from the Turkish hit series 'The Pit'.",
+          "mini_headline": "Prime Video buys AI-made film",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "The original first place video used AI in post-processing."
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu. Courtesy AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikon says the video that originally won first place in its Small World in Motion contest “did not comply with the competition rules regarding generative AI.” The entry from Dr. Ning Xu claimed to show tiny, hair-like cilia moving in the airway of a child with the respiratory condition PCD; Nikon began reviewing it after online skepticism about its authenticity."
+                "x": "Prime Video has taken global rights to Turkish TV powerhouse Ay Yapim’s AI movie “Çukur: Vartolu,” a spin-off from its hit series “Çukur,” known internationally as “The Pit.”"
               },
               {
                 "t": "p",
-                "x": "On LinkedIn, Dr. Xu admitted that “an unsupervised neural-network method was subsequently used for AI-assisted post-processing” to distinguish and visualize features in images from super-resolution optical imaging."
+                "x": "The film is produced under Ay Yapim’s Singapore-based AI studio AI Yapim, which in August launched the AI-generated historical drama “Castle Walls” on Prime Video, touted as the first show made end-to-end with AI to bow on a major global streamer. With “Çukur: Vartolu,” the company said, it takes that AI-native approach “from an original story to an established drama franchise.”"
               },
               {
                 "t": "p",
-                "x": "The video has been disqualified and removed from Nikon’s website, and Nguyen Nam Nhat now holds first place. Nikon plans to “revisit rules and evaluation procedures for future competition entries,” adding that the decision should not be read as a judgment of the entrant’s reputation, scientific contributions, or intent."
+                "x": "“Çukur” has aired on free-to-air television in 105 countries since its 2017 premiere, and its official YouTube channel has surpassed 6.4 billion cumulative views, according to Ay Yapim. The spin-off turns to the childhood and choices that shaped Vartolu Sadettin, the Koçovalı family’s illegitimate son, moving between Doğubeyazıt in eastern Türkiye and a later confrontation in Istanbul."
+              },
+              {
+                "t": "p",
+                "x": "“Every frame of the film was generated with AI, from the characters’ faces to every setting,” the Ay Yapim statement said. However, “The acting is human: actors performed the scenes, and AI generated the characters over their movement, timing and expression. All dialogue was recorded by human voice actors.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nikon, 생성형 AI로\n현미경 영상 1위 박탈",
-          "body": "Nikon이 생성형 AI를 쓴 우승작을 실격시키고 대회 규정을 재검토한다.",
-          "mini_headline": "Nikon, AI 우승작 실격",
+          "headline": "Prime Video가\nAI-made 영화 확보",
+          "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
+          "mini_headline": "Prime Video, AI-made 영화 구매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "처음 1위에 오른 영상은 후처리에 AI를 썼다."
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikon은 Small World in Motion 대회에서 처음 1위에 오른 영상이 “생성형 AI에 관한 대회 규정을 지키지 않았다”고 밝혔다. Dr. Ning Xu의 출품작으로, 호흡기 질환 PCD를 앓는 아이의 기도 속에서 머리카락처럼 가는 섬모가 움직이는 장면을 담았다는 설명이 붙어 있었다. 온라인에서 진위를 의심하는 목소리가 나오자 Nikon이 검토에 나섰다."
+                "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu” 전 세계 판권을 확보했다. 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
               },
               {
                 "t": "p",
-                "x": "Dr. Ning Xu는 LinkedIn에 글을 올려, 초고해상도 광학 이미징으로 얻은 이미지의 특징을 구분하고 시각화하려고 “이후 비지도 신경망 방식으로 AI 보조(AI-assisted) 후처리를 했다”고 인정했다."
+                "x": "제작은 Ay Yapim이 싱가포르에 둔 AI 스튜디오 AI Yapim이 맡는다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에 공개했는데, 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈라는 소개가 붙었다. 회사는 “Çukur: Vartolu”로 이 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "영상은 실격돼 Nikon 웹사이트에서 내려갔고 1위는 Nguyen Nam Nhat에게 돌아갔다. Nikon은 “향후 대회 출품작에 대한 규정과 심사 절차를 재검토할” 계획이라고 했다. 이번 결정이 출품자의 평판이나 과학적 기여, 의도를 판단한 것은 아니라는 말도 덧붙였다."
+                "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 뒤 105개국 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 지금의 그를 만든 선택을 그리며, Türkiye 동부 Doğubeyazıt와 훗날 Istanbul에서 벌어지는 대결을 오간다."
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nikon、生成AI使用で\n顕微鏡映像の1位剥奪",
-          "body": "Nikonは生成AIを使った動画コンテストの優勝作を失格とし、規定を見直す。",
-          "mini_headline": "Nikon、AI優勝作を失格に",
+          "headline": "Prime Videoが\nAI-made映画の権利取得",
+          "body": "Prime Videoが「The Pit」派生のAI映画の全世界権利を得た。",
+          "mini_headline": "Prime Video、AI-made映画を獲得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "当初1位となった動画は、後処理にAIを使っていた。"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu。提供：AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikonは、Small World in Motionコンテストで当初1位となった動画が「生成AIに関する競技規定に適合していなかった」と発表した。Dr. Ning Xuによるこの作品は、呼吸器疾患PCDを抱える子どもの気道で、毛のように細い繊毛が動く様子を捉えたとされていた。Nikonは、ネット上で真偽を疑う声が上がったことを受けて審査を始めていた。"
+                "x": "Prime Videoは、トルコのテレビ大手Ay YapimのAI映画「Çukur: Vartolu」の全世界での権利を取得した。同作は、海外では「The Pit」として知られるヒットシリーズ「Çukur」のスピンオフである。"
               },
               {
                 "t": "p",
-                "x": "Dr. Ning XuはLinkedInで、超解像光学イメージングで得た画像の特徴を識別・可視化するため「その後、教師なしニューラルネットワーク手法をAI支援（AI-assisted）の後処理に用いた」と認めた。"
+                "x": "製作はAy Yapimのシンガポール拠点のAIスタジオAI Yapimが担う。同スタジオは8月、AI-generatedの歴史ドラマ「Castle Walls」をPrime Videoで公開しており、同作は全工程をAIで制作し大手グローバル配信サービスに登場した初の番組とうたわれた。同社によれば、「Çukur: Vartolu」でそのAI-nativeな手法を「オリジナルの物語から、確立されたドラマフランチャイズへ」広げるという。"
               },
               {
                 "t": "p",
-                "x": "動画は失格となってNikonのウェブサイトから削除され、現在はNguyen Nam Nhatが1位となっている。Nikonは「今後の出品作に向けて規定と審査手順を見直す」方針で、今回の決定は出品者の評判や科学的貢献、意図を評価するものと受け取るべきではないとしている。"
+                "x": "Ay Yapimによると、「Çukur」は2017年の初放送以来105カ国の無料地上波で放送され、公式YouTubeチャンネルの累計再生回数は64億回を超えた。スピンオフは、Koçovalı家の非嫡出子Vartolu Sadettinの幼少期と彼を形づくった選択に焦点を当て、Türkiye東部のDoğubeyazıtと、その後のIstanbulでの対決とを行き来する。"
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapimは声明で「登場人物の顔からあらゆる舞台まで、映画のすべてのフレームをAIで生成した」と述べた。ただし「演技は人間によるものだ。俳優が場面を演じ、AIは彼らの動き、間合い、表情の上にキャラクターを生成した。台詞はすべて人間の声優が収録した」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nikon因使用生成式AI\n撤销显微视频赛冠军",
-          "body": "Nikon因生成式AI问题取消显微视频大赛冠军资格，并将重审比赛规则。",
-          "mini_headline": "Nikon撤销AI辅助获奖作品",
+          "headline": "Prime Video拿下\nAI-made电影全球版权",
+          "body": "Prime Video获得土耳其热剧《The Pit》衍生AI电影的全球版权。",
+          "mini_headline": "Prime Video购入AI-made电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "原第一名视频在后期处理中使用了AI。"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu。图片由AI Yapim提供"
               },
               {
                 "t": "p",
-                "x": "Nikon表示，在其Small World in Motion大赛中最初获得第一名的视频“不符合有关生成式AI的比赛规则”。这件由Dr. Ning Xu提交的作品称展示了一名患有呼吸系统疾病PCD的儿童气道中细如毛发的纤毛运动；在网上出现对其真实性的质疑后，Nikon开始进行审查。"
+                "x": "Prime Video已取得土耳其电视巨头Ay Yapim旗下AI电影《Çukur: Vartolu》的全球版权。该片衍生自其热门剧集《Çukur》，该剧在国际上以《The Pit》之名为人所知。"
               },
               {
                 "t": "p",
-                "x": "Dr. Ning Xu在LinkedIn上承认，为了区分并呈现超分辨率光学成像图像中的特征，“随后使用了一种无监督神经网络方法进行AI辅助（AI-assisted）后期处理”。"
+                "x": "影片由Ay Yapim位于新加坡的AI工作室AI Yapim制作。该工作室8月在Prime Video推出AI-generated历史剧《Castle Walls》，被称为首部完全由AI制作并登陆大型全球流媒体平台的剧集。公司表示，借助《Çukur: Vartolu》，它将这种AI-native方式“从原创故事延伸到成熟的剧集系列”。"
               },
               {
                 "t": "p",
-                "x": "该视频已被取消资格并从Nikon网站撤下，Nguyen Nam Nhat现列第一名。Nikon计划“重新审视未来参赛作品的规则和评审程序”，并补充说，这一决定不应被视为对参赛者声誉、科学贡献或意图的评判。"
+                "x": "据Ay Yapim介绍，《Çukur》自2017年首播以来已在105个国家的免费电视台播出，其官方YouTube频道累计观看次数已超过64亿次。这部衍生作聚焦Koçovalı家族私生子Vartolu Sadettin的童年及塑造他的种种选择，场景在Türkiye东部的Doğubeyazıt与后来在Istanbul的对决之间切换。"
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nikon anula un premio de\nmicroscopía por IA generativa",
-          "body": "Nikon descalificó al ganador de Small World in Motion por usar IA generativa y revisará las bases del concurso.",
-          "mini_headline": "Nikon retira a un ganador con IA",
+          "headline": "Prime Video, derechos globales\nde 'Çukur:Vartolu' (AI-made)",
+          "body": "Prime Video compró los derechos mundiales de una película hecha con IA, derivada de la serie turca 'The Pit'.",
+          "mini_headline": "Prime Video compra un filme AI-made",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "El video que obtuvo originalmente el primer puesto usó IA en el posprocesamiento."
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu. Cortesía de AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikon afirma que el video que ganó originalmente el primer puesto de su concurso Small World in Motion “no cumplía las normas de la competición relativas a la IA generativa”. La obra de la Dra. Ning Xu pretendía mostrar diminutos cilios, similares a pelos, moviéndose en las vías respiratorias de un niño con la enfermedad respiratoria PCD; Nikon comenzó a revisarla tras el escepticismo surgido en internet sobre su autenticidad."
+                "x": "Prime Video adquirió los derechos globales de “Çukur: Vartolu”, la película de IA de la potencia televisiva turca Ay Yapim, un spin-off de su exitosa serie “Çukur”, conocida internacionalmente como “The Pit”."
               },
               {
                 "t": "p",
-                "x": "En LinkedIn, la Dra. Xu admitió que “posteriormente se utilizó un método de red neuronal no supervisado para el posprocesamiento asistido por IA (AI-assisted post-processing)” con el fin de distinguir y visualizar rasgos en imágenes obtenidas mediante imagen óptica de superresolución."
+                "x": "La película se produce en AI Yapim, el estudio de IA de Ay Yapim con sede en Singapur, que en agosto lanzó en Prime Video el drama histórico AI-generated “Castle Walls”, presentado como la primera serie hecha de principio a fin con IA que llega a una gran plataforma global de streaming. Con “Çukur: Vartolu”, según la compañía, lleva ese enfoque AI-native “de una historia original a una franquicia dramática consolidada”."
               },
               {
                 "t": "p",
-                "x": "El video ha sido descalificado y retirado del sitio web de Nikon, y Nguyen Nam Nhat ocupa ahora el primer puesto. Nikon prevé “revisar las normas y los procedimientos de evaluación para futuras participaciones en la competición”, y añade que la decisión no debe interpretarse como un juicio sobre la reputación, las contribuciones científicas o la intención del participante."
+                "x": "Según Ay Yapim, “Çukur” se ha emitido en televisión abierta en 105 países desde su estreno en 2017, y su canal oficial de YouTube supera los 6.400 millones de visualizaciones acumuladas. El spin-off se centra en la infancia y las decisiones que forjaron a Vartolu Sadettin, el hijo ilegítimo de la familia Koçovalı, y se mueve entre Doğubeyazıt, en el este de Türkiye, y un enfrentamiento posterior en Istanbul."
+              },
+              {
+                "t": "p",
+                "x": "“Cada fotograma de la película se generó con IA, desde los rostros de los personajes hasta cada escenario”, señaló el comunicado de Ay Yapim. Sin embargo, “la actuación es humana: los actores interpretaron las escenas y la IA generó los personajes sobre su movimiento, ritmo y expresión. Todos los diálogos fueron grabados por actores de voz humanos”."
               }
             ]
           }
@@ -175,109 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nikon, 생성형 AI로\n현미경 영상 1위 박탈",
-          "body": "Nikon이 생성형 AI를 쓴 우승작을 실격 처리하고 대회 규정을 다시 살핀다.",
-          "mini_headline": "Nikon, AI 우승작 실격",
+          "headline": "Prime Video가\nAI-made 영화 확보",
+          "body": "Prime Video가 'The Pit' 스핀오프 AI 영화 세계 판권을 샀다.",
+          "mini_headline": "Prime Video, AI-made 영화 구매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "원래 1위였던 영상은 후처리에 AI를 사용했다."
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu. 사진 제공 AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikon은 Small World in Motion 대회에서 처음 1위에 오른 영상이 “생성형 AI에 관한 대회 규정을 지키지 않았다”고 밝혔다. Dr. Ning Xu가 출품한 이 영상은 호흡기 질환 PCD를 앓는 아이의 기도에서 머리카락처럼 가는 섬모가 움직이는 모습을 담았다고 소개됐다. 온라인에서 진위를 의심하는 목소리가 나오자 Nikon은 검토에 들어갔다."
+                "x": "Prime Video가 튀르키예 TV 업계 강자 Ay Yapim의 AI 영화 “Çukur: Vartolu”의 전 세계 판권을 확보했다. 이 작품은 해외에서 “The Pit”으로 알려진 히트 시리즈 “Çukur”의 스핀오프다."
               },
               {
                 "t": "p",
-                "x": "Dr. Ning Xu는 LinkedIn에서 초고해상도 광학 이미징으로 얻은 이미지의 특징을 구분하고 시각화하기 위해 “이후 비지도 신경망 방식으로 AI 보조(AI-assisted) 후처리를 했다”고 인정했다."
+                "x": "영화는 Ay Yapim의 싱가포르 기반 AI 스튜디오 AI Yapim이 제작한다. AI Yapim은 8월 AI-generated 사극 “Castle Walls”를 Prime Video에서 공개했고, 이 작품은 처음부터 끝까지 AI로 만들어 주요 글로벌 스트리머에 오른 첫 시리즈로 소개됐다. 회사는 “Çukur: Vartolu”로 그 AI-native 방식을 “오리지널 스토리에서 기존 드라마 프랜차이즈로” 넓힌다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "해당 영상은 실격 처리돼 Nikon 웹사이트에서 내려갔고, 1위는 Nguyen Nam Nhat에게 돌아갔다. Nikon은 “향후 대회 출품작에 대한 규정과 심사 절차를 재검토할” 계획이라며, 이번 결정을 출품자의 평판이나 과학적 기여, 의도에 대한 판단으로 받아들여서는 안 된다고 덧붙였다."
+                "x": "Ay Yapim에 따르면 “Çukur”는 2017년 첫 방송 이후 105개국의 무료 지상파 TV에서 방영됐고, 공식 YouTube 채널 누적 조회수는 64억 회를 넘었다. 스핀오프는 Koçovalı 가문의 서자 Vartolu Sadettin의 어린 시절과 그를 만든 선택을 다루며, Türkiye 동부 Doğubeyazıt와 이후 Istanbul에서 벌어지는 대결을 오간다."
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapim은 성명에서 “인물의 얼굴부터 모든 배경까지 영화의 모든 프레임을 AI로 생성했다”고 밝혔다. 다만 “연기는 사람이 했다. 배우들이 장면을 연기했고, AI는 그들의 움직임과 타이밍, 표정 위에 캐릭터를 생성했다. 모든 대사는 성우가 녹음했다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nikon、生成AI使用で\n顕微鏡映像の1位剥奪",
-          "body": "Nikonは生成AIを使った動画コンテストの優勝作を失格とし、規定を見直す。",
-          "mini_headline": "Nikon、AI優勝作を失格に",
+          "headline": "Prime Videoが\nAI-made映画の権利取得",
+          "body": "Prime Videoが「The Pit」派生のAI映画の全世界権利を得た。",
+          "mini_headline": "Prime Video、AI-made映画を獲得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "当初1位となった動画は、後処理にAIを使っていた。"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu。提供：AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikonは、Small World in Motionコンテストで当初1位となった動画が「生成AIに関する競技規定に適合していなかった」と発表した。Dr. Ning Xuによるこの作品は、呼吸器疾患PCDを抱える子どもの気道で、毛のように細い繊毛が動く様子を捉えたとされていた。Nikonは、ネット上で真偽を疑う声が上がったことを受けて審査を始めていた。"
+                "x": "Prime Videoは、トルコのテレビ大手Ay YapimのAI映画「Çukur: Vartolu」の全世界での権利を取得した。同作は、海外では「The Pit」として知られるヒットシリーズ「Çukur」のスピンオフである。"
               },
               {
                 "t": "p",
-                "x": "Dr. Ning XuはLinkedInで、超解像光学イメージングで得た画像の特徴を識別・可視化するため「その後、教師なしニューラルネットワーク手法をAI支援（AI-assisted）の後処理に用いた」と認めた。"
+                "x": "製作はAy Yapimのシンガポール拠点のAIスタジオAI Yapimが担う。同スタジオは8月、AI-generatedの歴史ドラマ「Castle Walls」をPrime Videoで公開しており、同作は全工程をAIで制作し大手グローバル配信サービスに登場した初の番組とうたわれた。同社によれば、「Çukur: Vartolu」でそのAI-nativeな手法を「オリジナルの物語から、確立されたドラマフランチャイズへ」広げるという。"
               },
               {
                 "t": "p",
-                "x": "動画は失格となってNikonのウェブサイトから削除され、現在はNguyen Nam Nhatが1位となっている。Nikonは「今後の出品作に向けて規定と審査手順を見直す」方針で、今回の決定は出品者の評判や科学的貢献、意図を評価するものと受け取るべきではないとしている。"
+                "x": "Ay Yapimによると、「Çukur」は2017年の初放送以来105カ国の無料地上波で放送され、公式YouTubeチャンネルの累計再生回数は64億回を超えた。スピンオフは、Koçovalı家の非嫡出子Vartolu Sadettinの幼少期と彼を形づくった選択に焦点を当て、Türkiye東部のDoğubeyazıtと、その後のIstanbulでの対決とを行き来する。"
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapimは声明で「登場人物の顔からあらゆる舞台まで、映画のすべてのフレームをAIで生成した」と述べた。ただし「演技は人間によるものだ。俳優が場面を演じ、AIは彼らの動き、間合い、表情の上にキャラクターを生成した。台詞はすべて人間の声優が収録した」という。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nikon因使用生成式AI\n撤销显微视频赛冠军",
-          "body": "Nikon因生成式AI问题取消显微视频大赛冠军资格，并将重审比赛规则。",
-          "mini_headline": "Nikon撤销AI辅助获奖作品",
+          "headline": "Prime Video拿下\nAI-made电影全球版权",
+          "body": "Prime Video获得土耳其热剧《The Pit》衍生AI电影的全球版权。",
+          "mini_headline": "Prime Video购入AI-made电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "原第一名视频在后期处理中使用了AI。"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu。图片由AI Yapim提供"
               },
               {
                 "t": "p",
-                "x": "Nikon表示，在其Small World in Motion大赛中最初获得第一名的视频“不符合有关生成式AI的比赛规则”。这件由Dr. Ning Xu提交的作品称展示了一名患有呼吸系统疾病PCD的儿童气道中细如毛发的纤毛运动；在网上出现对其真实性的质疑后，Nikon开始进行审查。"
+                "x": "Prime Video已取得土耳其电视巨头Ay Yapim旗下AI电影《Çukur: Vartolu》的全球版权。该片衍生自其热门剧集《Çukur》，该剧在国际上以《The Pit》之名为人所知。"
               },
               {
                 "t": "p",
-                "x": "Dr. Ning Xu在LinkedIn上承认，为了区分并呈现超分辨率光学成像图像中的特征，“随后使用了一种无监督神经网络方法进行AI辅助（AI-assisted）后期处理”。"
+                "x": "影片由Ay Yapim位于新加坡的AI工作室AI Yapim制作。该工作室8月在Prime Video推出AI-generated历史剧《Castle Walls》，被称为首部完全由AI制作并登陆大型全球流媒体平台的剧集。公司表示，借助《Çukur: Vartolu》，它将这种AI-native方式“从原创故事延伸到成熟的剧集系列”。"
               },
               {
                 "t": "p",
-                "x": "该视频已被取消资格并从Nikon网站撤下，Nguyen Nam Nhat现列第一名。Nikon计划“重新审视未来参赛作品的规则和评审程序”，并补充说，这一决定不应被视为对参赛者声誉、科学贡献或意图的评判。"
+                "x": "据Ay Yapim介绍，《Çukur》自2017年首播以来已在105个国家的免费电视台播出，其官方YouTube频道累计观看次数已超过64亿次。这部衍生作聚焦Koçovalı家族私生子Vartolu Sadettin的童年及塑造他的种种选择，场景在Türkiye东部的Doğubeyazıt与后来在Istanbul的对决之间切换。"
+              },
+              {
+                "t": "p",
+                "x": "Ay Yapim在声明中表示：“影片的每一帧都由AI生成，从角色的面孔到每一处场景。”不过，“表演出自真人：演员们演绎了这些场景，AI则在他们的动作、节奏和表情之上生成角色。所有对白均由真人配音演员录制。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nikon anula un premio de\nmicroscopía por IA generativa",
-          "body": "Nikon descalificó al ganador de Small World in Motion por usar IA generativa y revisará las bases del concurso.",
-          "mini_headline": "Nikon retira a un ganador con IA",
+          "headline": "Prime Video, derechos globales\nde 'Çukur:Vartolu' (AI-made)",
+          "body": "Prime Video compró los derechos mundiales de una película hecha con IA, derivada de la serie turca 'The Pit'.",
+          "mini_headline": "Prime Video compra un filme AI-made",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-                "cap": "El video que obtuvo originalmente el primer puesto usó IA en el posprocesamiento."
+                "src": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=667&crop=1",
+                "cap": "Çukur:Vartolu. Cortesía de AI Yapim"
               },
               {
                 "t": "p",
-                "x": "Nikon afirma que el video que ganó originalmente el primer puesto de su concurso Small World in Motion “no cumplía las normas de la competición relativas a la IA generativa”. La obra de la Dra. Ning Xu pretendía mostrar diminutos cilios, similares a pelos, moviéndose en las vías respiratorias de un niño con la enfermedad respiratoria PCD; Nikon comenzó a revisarla tras el escepticismo surgido en internet sobre su autenticidad."
+                "x": "Prime Video adquirió los derechos globales de “Çukur: Vartolu”, la película de IA de la potencia televisiva turca Ay Yapim, un spin-off de su exitosa serie “Çukur”, conocida internacionalmente como “The Pit”."
               },
               {
                 "t": "p",
-                "x": "En LinkedIn, la Dra. Xu admitió que “posteriormente se utilizó un método de red neuronal no supervisado para el posprocesamiento asistido por IA (AI-assisted post-processing)” con el fin de distinguir y visualizar rasgos en imágenes obtenidas mediante imagen óptica de superresolución."
+                "x": "La película se produce en AI Yapim, el estudio de IA de Ay Yapim con sede en Singapur, que en agosto lanzó en Prime Video el drama histórico AI-generated “Castle Walls”, presentado como la primera serie hecha de principio a fin con IA que llega a una gran plataforma global de streaming. Con “Çukur: Vartolu”, según la compañía, lleva ese enfoque AI-native “de una historia original a una franquicia dramática consolidada”."
               },
               {
                 "t": "p",
-                "x": "El video ha sido descalificado y retirado del sitio web de Nikon, y Nguyen Nam Nhat ocupa ahora el primer puesto. Nikon prevé “revisar las normas y los procedimientos de evaluación para futuras participaciones en la competición”, y añade que la decisión no debe interpretarse como un juicio sobre la reputación, las contribuciones científicas o la intención del participante."
+                "x": "Según Ay Yapim, “Çukur” se ha emitido en televisión abierta en 105 países desde su estreno en 2017, y su canal oficial de YouTube supera los 6.400 millones de visualizaciones acumuladas. El spin-off se centra en la infancia y las decisiones que forjaron a Vartolu Sadettin, el hijo ilegítimo de la familia Koçovalı, y se mueve entre Doğubeyazıt, en el este de Türkiye, y un enfrentamiento posterior en Istanbul."
+              },
+              {
+                "t": "p",
+                "x": "“Cada fotograma de la película se generó con IA, desde los rostros de los personajes hasta cada escenario”, señaló el comunicado de Ay Yapim. Sin embargo, “la actuación es humana: los actores interpretaron las escenas y la IA generó los personajes sobre su movimiento, ritmo y expresión. Todos los diálogos fueron grabados por actores de voz humanos”."
               }
             ]
           }
@@ -285,15 +325,15 @@
       }
     },
     {
-      "id": "royal-mail-paul-vaughan-ai-voice",
+      "id": "cage-spider-noir-ai-waiver",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Royal Mail 광고에\n고인 음성 AI 재현 의혹",
-      "body": "Paul Vaughan의 딸이 Royal Mail 광고의 AI 음성을 문제 삼았다.",
-      "mini_headline": "Royal Mail AI 음성 논란",
+      "headline": "Spider-Noir서\nCage, AI 동의 거부",
+      "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
+      "mini_headline": "Cage, Spider-Noir AI 동의 거부",
       "tool": "Movies",
       "source": "Deadline",
-      "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
+      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -301,209 +341,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-            "cap": "Paul Vaughan은 'Paddington' 오디오북을 낭독했지만 2025년 Royal Mail 크리스마스 광고 내레이션은 맡지 않았다"
+            "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+            "cap": "Nicolas Cage. Earl Gibson III/Deadline"
           },
           {
             "t": "p",
-            "x": "아버지가 세상을 떠난 지 11년이 지난 2025년 11월, Lucy Wynne은 ITV에서 방송된 Royal Mail 크리스마스 광고의 내레이션을 듣고 아버지 목소리임을 확신했다. Paul Vaughan은 BBC의 Horizon, Radio 4의 Kaleidoscope, Threads, Paddington 오디오북의 목소리였다."
-          },
-          {
-            "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-            "cap": "Royal Mail 크리스마스 광고의 한 장면"
+            "x": "Nicolas Cage가 New York Comic-Con 관객 앞에서 소문대로 HBO True Detective 한 시즌에 나올 가능성이 크다고 말했다. Spider-Noir를 공개한 Prime Video와 다시 일할 가능성은 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 게 이유였다."
           },
           {
             "t": "p",
-            "x": "Royal Mail은 Deadline의 질의에 광고 슬로건을 AI 음성으로 만들었다고 인정했다. 광고대행사 Darwin & the Machines가 ElevenLabs 기술 라이선스를 받은 체코 AI 기업 Fameplay에 내레이션을 하청했다. Royal Mail은 이 목소리가 “특정 개인을 복제하도록 설계되지 않았다”고 밝혔다. ElevenLabs는 Vaughan의 목소리를 직접 복제하지는 않았다고 확인했지만, 자사 모델이 그의 작업으로 학습됐는지는 답하지 않았다."
+            "x": "영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
           },
           {
             "t": "p",
-            "x": "한 법음성학자는 Vaughan의 목소리와 “상당한 음성학적 유사성”이 있다고 봤다. Wynne은 “터무니없는 일”이라고 했다. 이후 ElevenLabs는 Vaughan을 자사 No Go Voices 목록에 올렸다."
+            "x": "Cage는 AI가 달갑지 않다. Prime Video Spider-Noir 단독 시즌에 출연 계약을 하면서도 AI 동의서에는 서명하지 않았다."
           },
           {
-            "t": "video",
-            "yt": "bk-YMlHK1os"
+            "t": "p",
+            "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고도 했다. “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Royal Mail ad accused of\nreviving a late voice with AI",
-          "body": "Paul Vaughan's daughter accuses Royal Mail's Christmas ad of using AI to resurrect her late father's voice.",
-          "mini_headline": "Royal Mail AI voice claim",
+          "headline": "Nicolas Cage refused an AI\nwaiver for 'Spider-Noir'",
+          "body": "Nicolas Cage said he refused an AI waiver for 'Spider-Noir' and probably won't work with 'AI-friendly' Amazon again.",
+          "mini_headline": "Cage refuses AI waiver",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan narrated 'Paddington' audiobooks, but not the 2025 Royal Mail Christmas ad"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "In November 2025, 11 years after her father died, Lucy Wynne heard what she was sure was his voice narrating Royal Mail’s Christmas ad on ITV. Paul Vaughan was the voice of BBC’s Horizon, Radio 4’s Kaleidoscope, Threads and the Paddington audiobooks."
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "A still from Royal Mail’s Christmas ad"
+                "x": "Nicolas Cage told a New York Comic-Con audience that, yes, he’s likely to do a season of HBO’s True Detective, as rumored, and no, he’s not likely to work again with Spider-Noir streamer Prime Video because Amazon is “very AI-friendly.”"
               },
               {
                 "t": "p",
-                "x": "Responding to Deadline, Royal Mail admitted the ad’s slogan was voiced by AI. Agency Darwin & the Machines subcontracted the voiceover to Fameplay, a Czech AI firm that licensed ElevenLabs technology. Royal Mail said the voice was “not designed to replicate any specific individual,” and ElevenLabs confirmed it was not a direct clone of Vaughan but declined to say whether its model was trained on his work."
+                "x": "“I think I might do a season of True Detective. That’s OK that I’m the first to announce that, right?” said Cage, who is currently at work on the film Perish."
               },
               {
                 "t": "p",
-                "x": "A forensic speech scientist found “considerable phonetic similarity” to Vaughan. “It’s outrageous,” Wynne said. ElevenLabs has since added Vaughan to its No Go Voices list."
+                "x": "As for AI, Cage is no fan. He wouldn’t sign an AI waiver when he signed up for the sole season of Prime Video’s Spider-Noir."
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "“How do you survive AI?” Cage said. “Amazon is a very AI-friendly company to the tune of 50 billion dollars invested in OpenAI. I am not an AI-friendly actor….I’m not a member of their club. I didn’t sign the waiver to let them use AI on Spider-Noir. I’m probably not going to be working with that studio again, but that’s okay.”"
+              },
+              {
+                "t": "p",
+                "x": "Cage added that he’d prefer to work with young Gen Z directors who are “going at it their own way.” “They’re doing it from scratch and by hand,” he said. “I want to get with that.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Royal Mail 광고에\n고인 음성 AI 재현 의혹",
-          "body": "Paul Vaughan의 딸이 Royal Mail 광고의 AI 음성을 문제 삼았다.",
-          "mini_headline": "Royal Mail AI 음성 논란",
+          "headline": "Spider-Noir서\nCage, AI 동의 거부",
+          "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
+          "mini_headline": "Cage, Spider-Noir AI 동의 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan은 'Paddington' 오디오북을 낭독했지만 2025년 Royal Mail 크리스마스 광고 내레이션은 맡지 않았다"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "아버지가 세상을 떠난 지 11년이 지난 2025년 11월, Lucy Wynne은 ITV에서 방송된 Royal Mail 크리스마스 광고의 내레이션을 듣고 아버지 목소리임을 확신했다. Paul Vaughan은 BBC의 Horizon, Radio 4의 Kaleidoscope, Threads, Paddington 오디오북의 목소리였다."
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mail 크리스마스 광고의 한 장면"
+                "x": "Nicolas Cage가 New York Comic-Con 관객 앞에서 소문대로 HBO True Detective 한 시즌에 나올 가능성이 크다고 말했다. Spider-Noir를 공개한 Prime Video와 다시 일할 가능성은 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 게 이유였다."
               },
               {
                 "t": "p",
-                "x": "Royal Mail은 Deadline의 질의에 광고 슬로건을 AI 음성으로 만들었다고 인정했다. 광고대행사 Darwin & the Machines가 ElevenLabs 기술 라이선스를 받은 체코 AI 기업 Fameplay에 내레이션을 하청했다. Royal Mail은 이 목소리가 “특정 개인을 복제하도록 설계되지 않았다”고 밝혔다. ElevenLabs는 Vaughan의 목소리를 직접 복제하지는 않았다고 확인했지만, 자사 모델이 그의 작업으로 학습됐는지는 답하지 않았다."
+                "x": "영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "한 법음성학자는 Vaughan의 목소리와 “상당한 음성학적 유사성”이 있다고 봤다. Wynne은 “터무니없는 일”이라고 했다. 이후 ElevenLabs는 Vaughan을 자사 No Go Voices 목록에 올렸다."
+                "x": "Cage는 AI가 달갑지 않다. Prime Video Spider-Noir 단독 시즌에 출연 계약을 하면서도 AI 동의서에는 서명하지 않았다."
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고도 했다. “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Royal Mail広告に\n故人の声をAI再現の疑い",
-          "body": "Paul Vaughanの娘はRoyal MailのCMがAIで父の声を再現したと訴える。",
-          "mini_headline": "Royal MailのAI音声疑惑",
+          "headline": "Spider-Noirで\nCageがAI免責を拒否",
+          "body": "Nicolas CageはSpider-NoirのAI免責書に署名しなかったと語った。",
+          "mini_headline": "Cage、Spider-NoirでAI免責拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughanは『Paddington』のオーディオブックを朗読したが、2025年のRoyal Mailクリスマス広告は担当していない"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "2025年11月、父の死から11年後、Lucy WynneはITVで流れたRoyal Mailのクリスマス広告のナレーションを聞き、父の声に違いないと思った。Paul VaughanはBBCのHorizon、Radio 4のKaleidoscope、Threads、そしてPaddingtonのオーディオブックの声を務めた人物だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mailのクリスマス広告の一場面"
+                "x": "Nicolas CageはNew York Comic-Conの観客に対し、噂どおりHBOのTrue Detectiveのシーズンに出演する可能性が高いと語った。一方、Spider-Noirを配信するPrime Videoと再び仕事をする可能性は低いという。Amazonが「非常にAI-friendly」だからだ。"
               },
               {
                 "t": "p",
-                "x": "Royal MailはDeadlineの取材に対し、広告のスローガンがAI音声だったことを認めた。代理店Darwin & the Machinesはナレーションを、ElevenLabsの技術をライセンスするチェコのAI企業Fameplayに外注していた。Royal Mailは声について「特定の個人を再現するよう設計されたものではない」と説明し、ElevenLabsはVaughanの直接のクローンではないと認めたが、自社モデルが彼の仕事で学習されたかどうかについては回答を避けた。"
+                "x": "現在映画Perishに取り組んでいるCageは「True Detectiveのシーズンをやるかもしれない。最初に発表するのが私でもOKだよね？」と述べた。"
               },
               {
                 "t": "p",
-                "x": "法音声学の専門家は、Vaughanとの「かなりの音声的類似性」を指摘した。Wynneは「とんでもないことだ」と語った。ElevenLabsはその後、VaughanをNo Go Voicesリストに加えた。"
+                "x": "CageはAIを好まない。Prime VideoのSpider-Noir唯一のシーズンへの出演契約の際も、AI免責書には署名しなかった。"
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "「AIの中でどう生き残るのか」とCageは語った。「AmazonはOpenAIに50 billionドルを投資するほど、非常にAI-friendlyな企業だ。私はAI-friendlyな俳優ではない….彼らのクラブの一員ではない。Spider-NoirでAIを使うことを認める免責書には署名しなかった。あのスタジオとはおそらくもう仕事をしないだろうが、それで構わない」"
+              },
+              {
+                "t": "p",
+                "x": "Cageは、「自分たちのやり方で進んでいる」若いGen Zの監督たちと組みたいと付け加えた。「彼らはゼロから手作業で作っている。私はそこに加わりたい」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Royal Mail广告被指\n用AI重现已故者声音",
-          "body": "Paul Vaughan之女指Royal Mail圣诞广告用AI复活其亡父的声音。",
-          "mini_headline": "Royal Mail AI配音风波",
+          "headline": "Spider-Noir中\nCage拒签AI豁免书",
+          "body": "Nicolas Cage称，他拒绝签署《Spider-Noir》的AI豁免书。",
+          "mini_headline": "Cage拒签Spider-Noir AI豁免书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan曾为《Paddington》有声书配音，但并未为2025年Royal Mail圣诞广告配音"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "2025年11月，在父亲去世11年后，Lucy Wynne在ITV播出的Royal Mail圣诞广告中听到了她确信是父亲的旁白声音。Paul Vaughan曾为BBC的Horizon、Radio 4的Kaleidoscope、Threads以及Paddington有声书配音。"
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mail圣诞广告画面"
+                "x": "Nicolas Cage在New York Comic-Con上告诉观众，正如传闻所说，他很可能出演HBO《True Detective》的一季；但他不太可能再与播出《Spider-Noir》的Prime Video合作，因为Amazon“非常AI-friendly”。"
               },
               {
                 "t": "p",
-                "x": "在回应Deadline时，Royal Mail承认广告口号由AI配音。广告公司Darwin & the Machines将配音工作分包给获得ElevenLabs技术授权的捷克AI公司Fameplay。Royal Mail称该声音“并非为复制任何特定个人而设计”，ElevenLabs确认它并非对Vaughan的直接克隆，但拒绝透露其模型是否使用了他的作品进行训练。"
+                "x": "正在拍摄电影《Perish》的Cage说：“我想我可能会出演一季《True Detective》。由我第一个宣布，OK吧？”"
               },
               {
                 "t": "p",
-                "x": "一位法庭语音学家发现其与Vaughan存在“相当大的语音相似性”。Wynne说：“这太离谱了。”ElevenLabs此后已将Vaughan加入其No Go Voices名单。"
+                "x": "Cage并不喜欢AI。他签约出演Prime Video《Spider-Noir》仅有的一季时，没有签署AI豁免书。"
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "“在AI面前怎么生存？”Cage说，“Amazon是一家非常AI-friendly的公司，向OpenAI投资了50 billion美元。我不是AI-friendly的演员….我不是他们俱乐部的一员。我没有签署允许他们在《Spider-Noir》上使用AI的豁免书。我大概不会再和那家公司合作了，但这没关系。”"
+              },
+              {
+                "t": "p",
+                "x": "Cage补充说，他更愿意和“走自己路子”的年轻Gen Z导演合作。“他们从零开始，亲手制作，”他说，“我想加入他们。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Royal Mail, acusada de revivir\ncon IA la voz de un fallecido",
-          "body": "La hija de Paul Vaughan acusa al anuncio navideño de Royal Mail de usar IA para resucitar la voz de su difunto padre.",
-          "mini_headline": "Polémica por una voz de IA en Royal Mail",
+          "headline": "Nicolas Cage rechazó la cláusula\nde IA de 'Spider-Noir'",
+          "body": "Nicolas Cage dijo que rechazó la cláusula de IA de 'Spider-Noir' y que quizá no vuelva a trabajar con Amazon.",
+          "mini_headline": "Cage rechaza la cláusula de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan narró los audiolibros de 'Paddington', pero no el anuncio navideño de Royal Mail de 2025"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "En noviembre de 2025, 11 años después de la muerte de su padre, Lucy Wynne escuchó en ITV lo que estaba segura de que era su voz narrando el anuncio navideño de Royal Mail. Paul Vaughan fue la voz de Horizon de la BBC, Kaleidoscope de Radio 4, Threads y los audiolibros de Paddington."
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Un fotograma del anuncio navideño de Royal Mail"
+                "x": "Nicolas Cage dijo al público de la New York Comic-Con que, sí, probablemente hará una temporada de True Detective de HBO, como se rumoreaba, y que no, probablemente no volverá a trabajar con Prime Video, la plataforma de Spider-Noir, porque Amazon es “muy AI-friendly”."
               },
               {
                 "t": "p",
-                "x": "En respuesta a Deadline, Royal Mail admitió que el eslogan del anuncio se locutó con IA. La agencia Darwin & the Machines subcontrató la locución a Fameplay, una empresa checa de IA que licenció tecnología de ElevenLabs. Royal Mail afirmó que la voz “no se diseñó para replicar a ninguna persona en concreto”, y ElevenLabs confirmó que no era un clon directo de Vaughan, aunque declinó decir si su modelo se entrenó con su trabajo."
+                "x": "“Creo que podría hacer una temporada de True Detective. Está OK que yo sea el primero en anunciarlo, ¿verdad?”, dijo Cage, que trabaja actualmente en la película Perish."
               },
               {
                 "t": "p",
-                "x": "Un científico forense del habla halló una “considerable similitud fonética” con Vaughan. “Es indignante”, dijo Wynne. Desde entonces, ElevenLabs ha añadido a Vaughan a su lista No Go Voices."
+                "x": "En cuanto a la IA, Cage no es partidario. No quiso firmar una cláusula de IA cuando se sumó a la única temporada de Spider-Noir de Prime Video."
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "“¿Cómo se sobrevive a la IA?”, dijo Cage. “Amazon es una empresa muy AI-friendly, hasta el punto de haber invertido 50 billion dólares en OpenAI. Yo no soy un actor AI-friendly….No soy miembro de su club. No firmé la cláusula para que usaran IA en Spider-Noir. Probablemente no vuelva a trabajar con ese estudio, pero está bien”."
+              },
+              {
+                "t": "p",
+                "x": "Cage añadió que prefiere trabajar con jóvenes directores de la Gen Z que “lo hacen a su manera”. “Lo hacen desde cero y a mano”, dijo. “Quiero sumarme a eso”."
               }
             ]
           }
@@ -511,145 +545,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Royal Mail 광고에\n고인 음성 AI 재현 의혹",
-          "body": "Paul Vaughan의 딸이 Royal Mail 광고의 AI 음성을 문제 삼았다.",
-          "mini_headline": "Royal Mail AI 음성 논란",
+          "headline": "Spider-Noir서\nCage, AI 동의 거부",
+          "body": "Nicolas Cage는 'Spider-Noir' AI 동의서에 서명하지 않았다.",
+          "mini_headline": "Cage, Spider-Noir AI 동의 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan은 'Paddington' 오디오북을 낭독했지만 2025년 Royal Mail 크리스마스 광고의 내레이션은 맡지 않았다"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "2025년 11월, 아버지가 세상을 떠난 지 11년 만에 Lucy Wynne은 ITV에서 방송된 Royal Mail 크리스마스 광고의 내레이션을 듣고 아버지 목소리라고 확신했다. Paul Vaughan은 BBC의 Horizon, Radio 4의 Kaleidoscope, Threads, Paddington 오디오북의 목소리였다."
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mail 크리스마스 광고의 한 장면"
+                "x": "Nicolas Cage는 New York Comic-Con 관객들에게 소문대로 HBO의 True Detective 한 시즌에 출연할 가능성이 크다고 말했다. 반면 Spider-Noir를 공개한 Prime Video와는 다시 일할 가능성이 낮다고 했다. Amazon이 “매우 AI-friendly”하다는 이유다."
               },
               {
                 "t": "p",
-                "x": "Royal Mail은 Deadline의 질의에 광고 슬로건을 AI 음성으로 만들었다고 인정했다. 광고대행사 Darwin & the Machines는 내레이션을 ElevenLabs 기술 라이선스를 받은 체코 AI 기업 Fameplay에 하청을 줬다. Royal Mail은 이 목소리가 “특정 개인을 복제하도록 설계되지 않았다”고 밝혔고, ElevenLabs는 Vaughan의 목소리를 직접 복제한 것은 아니라고 확인했지만 자사 모델이 그의 작업으로 학습됐는지에 대해서는 답하지 않았다."
+                "x": "현재 영화 Perish를 작업 중인 Cage는 “True Detective 한 시즌을 할 수도 있을 것 같다. 제가 처음 발표하는 거, OK죠?”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "한 법음성학자는 Vaughan의 목소리와 “상당한 음성학적 유사성”을 발견했다. Wynne은 “터무니없는 일”이라고 말했다. ElevenLabs는 이후 Vaughan을 자사 No Go Voices 목록에 올렸다."
+                "x": "Cage는 AI를 반기지 않는다. Prime Video의 Spider-Noir 단독 시즌에 출연 계약을 할 때도 AI 동의서에는 서명하지 않았다."
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "Cage는 “AI 시대에 어떻게 살아남느냐”며 “Amazon은 OpenAI에 50 billion 달러를 투자할 만큼 매우 AI-friendly한 회사다. 나는 AI-friendly한 배우가 아니다…. 그들 클럽의 회원이 아니다. Spider-Noir에 AI를 쓰도록 허용하는 동의서에 서명하지 않았다. 아마 그 스튜디오와 다시 일하지는 않겠지만 괜찮다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Cage는 “자기만의 방식으로 해 나가는” 젊은 Gen Z 감독들과 일하고 싶다고 덧붙였다. 그는 “그들은 처음부터 손으로 직접 만든다”며 “나는 거기에 함께하고 싶다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Royal Mail広告に\n故人の声をAI再現の疑い",
-          "body": "Paul Vaughanの娘はRoyal MailのCMがAIで父の声を再現したと訴える。",
-          "mini_headline": "Royal MailのAI音声疑惑",
+          "headline": "Spider-Noirで\nCageがAI免責を拒否",
+          "body": "Nicolas CageはSpider-NoirのAI免責書に署名しなかったと語った。",
+          "mini_headline": "Cage、Spider-NoirでAI免責拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughanは『Paddington』のオーディオブックを朗読したが、2025年のRoyal Mailクリスマス広告は担当していない"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "2025年11月、父の死から11年後、Lucy WynneはITVで流れたRoyal Mailのクリスマス広告のナレーションを聞き、父の声に違いないと思った。Paul VaughanはBBCのHorizon、Radio 4のKaleidoscope、Threads、そしてPaddingtonのオーディオブックの声を務めた人物だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mailのクリスマス広告の一場面"
+                "x": "Nicolas CageはNew York Comic-Conの観客に対し、噂どおりHBOのTrue Detectiveのシーズンに出演する可能性が高いと語った。一方、Spider-Noirを配信するPrime Videoと再び仕事をする可能性は低いという。Amazonが「非常にAI-friendly」だからだ。"
               },
               {
                 "t": "p",
-                "x": "Royal MailはDeadlineの取材に対し、広告のスローガンがAI音声だったことを認めた。代理店Darwin & the Machinesはナレーションを、ElevenLabsの技術をライセンスするチェコのAI企業Fameplayに外注していた。Royal Mailは声について「特定の個人を再現するよう設計されたものではない」と説明し、ElevenLabsはVaughanの直接のクローンではないと認めたが、自社モデルが彼の仕事で学習されたかどうかについては回答を避けた。"
+                "x": "現在映画Perishに取り組んでいるCageは「True Detectiveのシーズンをやるかもしれない。最初に発表するのが私でもOKだよね？」と述べた。"
               },
               {
                 "t": "p",
-                "x": "法音声学の専門家は、Vaughanとの「かなりの音声的類似性」を指摘した。Wynneは「とんでもないことだ」と語った。ElevenLabsはその後、VaughanをNo Go Voicesリストに加えた。"
+                "x": "CageはAIを好まない。Prime VideoのSpider-Noir唯一のシーズンへの出演契約の際も、AI免責書には署名しなかった。"
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "「AIの中でどう生き残るのか」とCageは語った。「AmazonはOpenAIに50 billionドルを投資するほど、非常にAI-friendlyな企業だ。私はAI-friendlyな俳優ではない….彼らのクラブの一員ではない。Spider-NoirでAIを使うことを認める免責書には署名しなかった。あのスタジオとはおそらくもう仕事をしないだろうが、それで構わない」"
+              },
+              {
+                "t": "p",
+                "x": "Cageは、「自分たちのやり方で進んでいる」若いGen Zの監督たちと組みたいと付け加えた。「彼らはゼロから手作業で作っている。私はそこに加わりたい」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Royal Mail广告被指\n用AI重现已故者声音",
-          "body": "Paul Vaughan之女指Royal Mail圣诞广告用AI复活其亡父的声音。",
-          "mini_headline": "Royal Mail AI配音风波",
+          "headline": "Spider-Noir中\nCage拒签AI豁免书",
+          "body": "Nicolas Cage称，他拒绝签署《Spider-Noir》的AI豁免书。",
+          "mini_headline": "Cage拒签Spider-Noir AI豁免书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan曾为《Paddington》有声书配音，但并未为2025年Royal Mail圣诞广告配音"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage。Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "2025年11月，在父亲去世11年后，Lucy Wynne在ITV播出的Royal Mail圣诞广告中听到了她确信是父亲的旁白声音。Paul Vaughan曾为BBC的Horizon、Radio 4的Kaleidoscope、Threads以及Paddington有声书配音。"
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Royal Mail圣诞广告画面"
+                "x": "Nicolas Cage在New York Comic-Con上告诉观众，正如传闻所说，他很可能出演HBO《True Detective》的一季；但他不太可能再与播出《Spider-Noir》的Prime Video合作，因为Amazon“非常AI-friendly”。"
               },
               {
                 "t": "p",
-                "x": "在回应Deadline时，Royal Mail承认广告口号由AI配音。广告公司Darwin & the Machines将配音工作分包给获得ElevenLabs技术授权的捷克AI公司Fameplay。Royal Mail称该声音“并非为复制任何特定个人而设计”，ElevenLabs确认它并非对Vaughan的直接克隆，但拒绝透露其模型是否使用了他的作品进行训练。"
+                "x": "正在拍摄电影《Perish》的Cage说：“我想我可能会出演一季《True Detective》。由我第一个宣布，OK吧？”"
               },
               {
                 "t": "p",
-                "x": "一位法庭语音学家发现其与Vaughan存在“相当大的语音相似性”。Wynne说：“这太离谱了。”ElevenLabs此后已将Vaughan加入其No Go Voices名单。"
+                "x": "Cage并不喜欢AI。他签约出演Prime Video《Spider-Noir》仅有的一季时，没有签署AI豁免书。"
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "“在AI面前怎么生存？”Cage说，“Amazon是一家非常AI-friendly的公司，向OpenAI投资了50 billion美元。我不是AI-friendly的演员….我不是他们俱乐部的一员。我没有签署允许他们在《Spider-Noir》上使用AI的豁免书。我大概不会再和那家公司合作了，但这没关系。”"
+              },
+              {
+                "t": "p",
+                "x": "Cage补充说，他更愿意和“走自己路子”的年轻Gen Z导演合作。“他们从零开始，亲手制作，”他说，“我想加入他们。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Royal Mail, acusada de revivir\ncon IA la voz de un fallecido",
-          "body": "La hija de Paul Vaughan acusa al anuncio navideño de Royal Mail de usar IA para resucitar la voz de su difunto padre.",
-          "mini_headline": "Polémica por una voz de IA en Royal Mail",
+          "headline": "Nicolas Cage rechazó la cláusula\nde IA de 'Spider-Noir'",
+          "body": "Nicolas Cage dijo que rechazó la cláusula de IA de 'Spider-Noir' y que quizá no vuelva a trabajar con Amazon.",
+          "mini_headline": "Cage rechaza la cláusula de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-                "cap": "Paul Vaughan narró los audiolibros de 'Paddington', pero no el anuncio navideño de Royal Mail de 2025"
+                "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+                "cap": "Nicolas Cage. Earl Gibson III/Deadline"
               },
               {
                 "t": "p",
-                "x": "En noviembre de 2025, 11 años después de la muerte de su padre, Lucy Wynne escuchó en ITV lo que estaba segura de que era su voz narrando el anuncio navideño de Royal Mail. Paul Vaughan fue la voz de Horizon de la BBC, Kaleidoscope de Radio 4, Threads y los audiolibros de Paddington."
-              },
-              {
-                "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-10.04.16-edited.png?w=681",
-                "cap": "Un fotograma del anuncio navideño de Royal Mail"
+                "x": "Nicolas Cage dijo al público de la New York Comic-Con que, sí, probablemente hará una temporada de True Detective de HBO, como se rumoreaba, y que no, probablemente no volverá a trabajar con Prime Video, la plataforma de Spider-Noir, porque Amazon es “muy AI-friendly”."
               },
               {
                 "t": "p",
-                "x": "En respuesta a Deadline, Royal Mail admitió que el eslogan del anuncio se locutó con IA. La agencia Darwin & the Machines subcontrató la locución a Fameplay, una empresa checa de IA que licenció tecnología de ElevenLabs. Royal Mail afirmó que la voz “no se diseñó para replicar a ninguna persona en concreto”, y ElevenLabs confirmó que no era un clon directo de Vaughan, aunque declinó decir si su modelo se entrenó con su trabajo."
+                "x": "“Creo que podría hacer una temporada de True Detective. Está OK que yo sea el primero en anunciarlo, ¿verdad?”, dijo Cage, que trabaja actualmente en la película Perish."
               },
               {
                 "t": "p",
-                "x": "Un científico forense del habla halló una “considerable similitud fonética” con Vaughan. “Es indignante”, dijo Wynne. Desde entonces, ElevenLabs ha añadido a Vaughan a su lista No Go Voices."
+                "x": "En cuanto a la IA, Cage no es partidario. No quiso firmar una cláusula de IA cuando se sumó a la única temporada de Spider-Noir de Prime Video."
               },
               {
-                "t": "video",
-                "yt": "bk-YMlHK1os"
+                "t": "p",
+                "x": "“¿Cómo se sobrevive a la IA?”, dijo Cage. “Amazon es una empresa muy AI-friendly, hasta el punto de haber invertido 50 billion dólares en OpenAI. Yo no soy un actor AI-friendly….No soy miembro de su club. No firmé la cláusula para que usaran IA en Spider-Noir. Probablemente no vuelva a trabajar con ese estudio, pero está bien”."
+              },
+              {
+                "t": "p",
+                "x": "Cage añadió que prefiere trabajar con jóvenes directores de la Gen Z que “lo hacen a su manera”. “Lo hacen desde cero y a mano”, dijo. “Quiero sumarme a eso”."
               }
             ]
           }
@@ -657,15 +687,15 @@
       }
     },
     {
-      "id": "space-nation-kira-mipcom-pilots",
+      "id": "eyeline-genfx-rustad-busan",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-made 시리즈 2편\nMipcom에서 첫 공개",
-      "body": "생성형 AI로 만든 SF 시리즈 두 편이 Mipcom에서 첫선을 보인다.",
-      "mini_headline": "AI 시리즈 파일럿, Mipcom 공개",
+      "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
+      "body": "James Rustad는 AI VFX 샷도 결국 아티스트가 고른다고 말했다.",
+      "mini_headline": "Netflix GenFX, 결정은 아티스트 몫",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/",
+      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -673,185 +703,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-            "cap": "“Kira”(Ex Machina Studios 제공)"
+            "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+            "cap": "James Rustad. Lin Ying-Hsuan"
           },
           {
             "t": "p",
-            "x": "생성형 AI로 만든 SF 시리즈 “Space Nation”과 “Kira”가 칸에서 열리는 Mipcom에서 파일럿 에피소드를 세계 최초로 공개한다. 바이어 대상 상영은 10월 12일과 13일이다. 두 작품 모두 Ex Machina Studios가 제작하고 K5 Intl.이 판매를 맡았다. 양사는 완성된 AI 생성(AI-generated) 시리즈 에피소드를 주요 국제 견본시에서 상영하는 건 이번이 처음이라고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-            "cap": "“Space Nation”(Ex Machina Studios 제공)"
+            "x": "Netflix 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓혀 줄 수는 있어도, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
           },
           {
             "t": "p",
-            "x": "“Space Nation”은 Globoplay와 공동 제작했고, 외계의 위협에 맞서는 젊은 엘리트 파일럿들의 이야기를 45분짜리 8부작에 담았다. 제작은 로스앤젤레스에서 “할리우드 조합들과 적극적으로 보조를 맞추며” 이뤄졌다. Damien Steck과 Julien Petit이 만든 프랑스 작품 “Kira”는 35분짜리 6부작이다. 살아 있는 행성 Djena에서 아버지를 찾아 나선 소녀를 따라간다."
+            "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix “Brazil ‘70: The Third Star”를 예로 들었다. 이 시리즈에 들어간 시각효과 샷은 1,300개가 넘고, 800개 이상이 축구장 장면이다."
           },
           {
             "t": "p",
-            "x": "K5 Intl. CEO Daniel Baur는 “두 작품 모두 영화감독이 주도하는 시리즈로… 생성형 AI로 제작해 완성된 에피소드로 상영한다”고 말했다."
+            "x": "Rustad에 따르면 Eyeline은 아티스트 45명과 하이브리드 방식으로 일하며, 기존 특수효과 기법을 쓰는 공정에 생성형 도구를 더한다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품 네 단계로 나눴다. 프롬프트 작성과 레퍼런스 수집, 초기 테스트로 선택지를 마련하고 결과물을 이야기에 비춰 평가한다. 이어 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
+          },
+          {
+            "t": "p",
+            "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 옮겨 가는 과정이고, 아티스트의 판단이 들어가는 곳도 여기다. AI가 생성한(AI-generated) 결과물 가운데 무엇을 완성 샷으로 삼을지 고르는 일이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI-made series Space Nation\nand Kira debut at Mipcom",
-          "body": "Two science-fiction series produced with generative AI will world-premiere their pilot episodes at Mipcom.",
-          "mini_headline": "AI series pilots at Mipcom",
+          "headline": "Netflix GenFX chief says AI\nstill needs artists' judgment",
+          "body": "At Busan, Eyeline's James Rustad said artists still decide which AI-generated VFX shots serve the story.",
+          "mini_headline": "Netflix GenFX: artists decide",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "“Kira” (Courtesy of Ex Machina Studios)"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad. Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Two science-fiction series produced with generative AI, “Space Nation” and “Kira,” will world-premiere their pilot episodes at Mipcom in Cannes, screening for buyers on Oct. 12 and 13. Both are produced by Ex Machina Studios and sold by K5 Intl., which say it is the first time fully produced AI-generated series episodes have been screened at a major international market."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "“Space Nation” (Courtesy of Ex Machina Studios)"
+                "x": "Generative AI can widen the options for a visual effects shot, but artists still decide which of them serve the story, according to James Rustad, global head of GenFX at Eyeline, Netflix’s in-house VFX studio."
               },
               {
                 "t": "p",
-                "x": "“Space Nation,” co-produced with Globoplay, runs eight 45-minute episodes about elite young pilots facing an alien threat; it was made in Los Angeles in “active alignment with the Hollywood guilds.” “Kira,” a French production of six 35-minute episodes from Damien Steck and Julien Petit, follows a girl searching for her father on the living planet Djena."
+                "x": "Rustad spoke at an InnoAsia session at the Busan International Film Festival’s Asian Contents & Film Market, using Netflix’s “Brazil ‘70: The Third Star” as a reference point. The series features more than 1,300 visual effects shots, including over 800 set on the soccer field."
               },
               {
                 "t": "p",
-                "x": "“Both are filmmaker-driven series… produced with generative AI and screening as finished episodes,” said K5 Intl. CEO Daniel Baur."
+                "x": "Eyeline works with 45 artists on a hybrid approach, Rustad said, bringing generative tools into a process that also draws on established effects techniques. “Artists’ judgments are also important,” he said."
+              },
+              {
+                "t": "p",
+                "x": "His presentation mapped four stages of a generative AI shot workflow: setup, narrative, look and delivery. Prompts, reference gathering and initial tests establish the options; results are assessed against the story, then move through visual refinement — lighting, scene details, period accuracy — and delivery: compositing, upscaling, bit-depth checks and technical review."
+              },
+              {
+                "t": "p",
+                "x": "The narrative step moves from “what’s possible” to “what works for the story.” That is where artists’ judgment comes in: selecting which generated results should become finished shots."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-made 시리즈 2편\nMipcom에서 첫 공개",
-          "body": "생성형 AI로 만든 SF 시리즈 두 편이 Mipcom에서 첫선을 보인다.",
-          "mini_headline": "AI 시리즈 파일럿, Mipcom 공개",
+          "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
+          "body": "James Rustad는 AI VFX 샷도 결국 아티스트가 고른다고 말했다.",
+          "mini_headline": "Netflix GenFX, 결정은 아티스트 몫",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "“Kira”(Ex Machina Studios 제공)"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad. Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "생성형 AI로 만든 SF 시리즈 “Space Nation”과 “Kira”가 칸에서 열리는 Mipcom에서 파일럿 에피소드를 세계 최초로 공개한다. 바이어 대상 상영은 10월 12일과 13일이다. 두 작품 모두 Ex Machina Studios가 제작하고 K5 Intl.이 판매를 맡았다. 양사는 완성된 AI 생성(AI-generated) 시리즈 에피소드를 주요 국제 견본시에서 상영하는 건 이번이 처음이라고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "“Space Nation”(Ex Machina Studios 제공)"
+                "x": "Netflix 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓혀 줄 수는 있어도, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "“Space Nation”은 Globoplay와 공동 제작했고, 외계의 위협에 맞서는 젊은 엘리트 파일럿들의 이야기를 45분짜리 8부작에 담았다. 제작은 로스앤젤레스에서 “할리우드 조합들과 적극적으로 보조를 맞추며” 이뤄졌다. Damien Steck과 Julien Petit이 만든 프랑스 작품 “Kira”는 35분짜리 6부작이다. 살아 있는 행성 Djena에서 아버지를 찾아 나선 소녀를 따라간다."
+                "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix “Brazil ‘70: The Third Star”를 예로 들었다. 이 시리즈에 들어간 시각효과 샷은 1,300개가 넘고, 800개 이상이 축구장 장면이다."
               },
               {
                 "t": "p",
-                "x": "K5 Intl. CEO Daniel Baur는 “두 작품 모두 영화감독이 주도하는 시리즈로… 생성형 AI로 제작해 완성된 에피소드로 상영한다”고 말했다."
+                "x": "Rustad에 따르면 Eyeline은 아티스트 45명과 하이브리드 방식으로 일하며, 기존 특수효과 기법을 쓰는 공정에 생성형 도구를 더한다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품 네 단계로 나눴다. 프롬프트 작성과 레퍼런스 수집, 초기 테스트로 선택지를 마련하고 결과물을 이야기에 비춰 평가한다. 이어 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
+              },
+              {
+                "t": "p",
+                "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 옮겨 가는 과정이고, 아티스트의 판단이 들어가는 곳도 여기다. AI가 생성한(AI-generated) 결과물 가운데 무엇을 완성 샷으로 삼을지 고르는 일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-madeシリーズ2作\nMipcomで世界初公開",
-          "body": "生成AIで制作したSFシリーズ2作が、Mipcomでパイロット版を世界初公開する。",
-          "mini_headline": "AIシリーズのパイロット、Mipcomへ",
+          "headline": "Netflix GenFX\nAIにもアーティストの判断",
+          "body": "James RustadはAI生成のVFXショットも選ぶのはアーティストだと語った。",
+          "mini_headline": "Netflix GenFX、決めるのはアーティスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "『Kira』（Ex Machina Studios提供）"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad。Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "生成AIで制作されたSFシリーズ『Space Nation』と『Kira』が、カンヌで開かれるMipcomでパイロット版を世界初公開し、10月12日と13日にバイヤー向けに上映する。両作はEx Machina Studiosが制作し、K5 Intl.が販売を手がける。両社によると、完全に制作されたAI生成（AI-generated）のシリーズ作品が主要な国際見本市で上映されるのは初めてだという。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "『Space Nation』（Ex Machina Studios提供）"
+                "x": "Netflixの社内(in-house)VFXスタジオEyelineでGenFXのグローバル責任者を務めるJames Rustadによれば、生成AIは視覚効果ショットの選択肢を広げられるが、どれが物語に資するかを決めるのは依然としてアーティストだという。"
               },
               {
                 "t": "p",
-                "x": "Globoplayとの共同制作による『Space Nation』は、異星からの脅威に立ち向かう若きエリートパイロットたちを描く45分×8話のシリーズで、ロサンゼルスで「ハリウッドの組合と積極的に足並みをそろえて」制作された。Damien SteckとJulien Petitによるフランス作品『Kira』は35分×6話で、生きた惑星Djenaで父を探す少女を追う。"
+                "x": "Rustadは釜山国際映画祭(Busan International Film Festival)のアジアコンテンツ&フィルムマーケット(Asian Contents & Film Market)で開かれたInnoAsiaセッションに登壇し、Netflixの「Brazil ‘70: The Third Star」を例に挙げた。同シリーズには1,300を超える視覚効果ショットがあり、そのうち800以上がサッカー場の場面だ。"
               },
               {
                 "t": "p",
-                "x": "K5 Intl.のCEO、Daniel Baurは「どちらも映画作家主導のシリーズで……生成AIで制作され、完成したエピソードとして上映される」と述べた。"
+                "x": "Rustadによると、Eyelineは45人のアーティストとハイブリッドな手法で取り組んでおり、従来の特殊効果技術も用いる工程に生成ツールを組み込んでいる。「アーティストの判断も重要だ」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "発表では、生成AIによるショット制作のワークフローを、セットアップ、ナラティブ、ルック、デリバリーの四段階に整理した。プロンプト、参考資料の収集、初期テストで選択肢を用意し、結果を物語に照らして評価したうえで、照明、シーンの細部、時代考証といった視覚的な仕上げを経て、合成、アップスケーリング、ビット深度(bit-depth)の確認、技術レビューからなるデリバリーへ進む。"
+              },
+              {
+                "t": "p",
+                "x": "ナラティブの段階では「何が可能か」から「何が物語に合うか」へと視点が移る。アーティストの判断が生きるのはここで、AIが生成した(AI-generated)結果のうちどれを完成ショットにするかを選ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made剧集两部\n亮相Mipcom全球首映",
-          "body": "两部用生成式AI制作的科幻剧集将在Mipcom全球首映试播集。",
-          "mini_headline": "AI剧集试播集登陆Mipcom",
+          "headline": "Netflix GenFX\nAI仍需艺术家判断",
+          "body": "Eyeline的James Rustad在釜山表示,AI生成的VFX镜头仍由艺术家挑选。",
+          "mini_headline": "Netflix GenFX:由艺术家决定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "《Kira》（Ex Machina Studios供图）"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad。Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "两部用生成式AI制作的科幻剧集《Space Nation》和《Kira》将在戛纳Mipcom上全球首映试播集，并于10月12日和13日面向买家放映。两部剧均由Ex Machina Studios制作、K5 Intl.负责发行，双方表示，这是完整制作的AI生成（AI-generated）剧集首次在大型国际市场展映。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "《Space Nation》（Ex Machina Studios供图）"
+                "x": "Netflix内部(in-house)VFX工作室Eyeline的GenFX全球负责人James Rustad表示,生成式AI可以拓宽视效镜头的选择,但哪些选择服务于故事,仍由艺术家决定。"
               },
               {
                 "t": "p",
-                "x": "《Space Nation》与Globoplay联合制作，共8集、每集45分钟，讲述年轻精英飞行员对抗外星威胁的故事；该剧在洛杉矶制作，“与好莱坞各工会积极保持一致”。《Kira》是Damien Steck和Julien Petit打造的法国作品，共6集、每集35分钟，讲述一个女孩在有生命的星球Djena上寻找父亲的故事。"
+                "x": "Rustad在釜山国际电影节(Busan International Film Festival)亚洲内容与电影市场(Asian Contents & Film Market)的InnoAsia环节发言,以Netflix的《Brazil ‘70: The Third Star》为例。该剧包含1,300多个视效镜头,其中800多个发生在足球场上。"
               },
               {
                 "t": "p",
-                "x": "K5 Intl.首席执行官（CEO）Daniel Baur表示：“两部都是由电影人主导的剧集……用生成式AI制作，并以成片形式放映。”"
+                "x": "Rustad说,Eyeline与45名艺术家采用混合方式工作,把生成式工具引入同样运用成熟特效技术的流程。他说:“艺术家的判断同样重要。”"
+              },
+              {
+                "t": "p",
+                "x": "他的演讲将生成式AI镜头工作流程分为四个阶段:设定、叙事、视觉风格和交付。提示词、参考资料收集和初步测试确定可选方案;随后对照故事评估结果,再进入灯光、场景细节、时代准确性等视觉打磨,最后是交付:合成、放大、位深(bit-depth)检查和技术审查。"
+              },
+              {
+                "t": "p",
+                "x": "叙事阶段是从“什么是可能的”转向“什么适合故事”。艺术家的判断正是在这里发挥作用:从AI生成(AI-generated)的结果中挑选哪些应成为最终镜头。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Series AI-made Space Nation\ny Kira se estrenan en Mipcom",
-          "body": "Dos series de ciencia ficción producidas con IA generativa estrenarán mundialmente sus episodios piloto en Mipcom.",
-          "mini_headline": "Pilotos de series con IA en Mipcom",
+          "headline": "Jefe de GenFX de Netflix: la IA\naún requiere criterio artístico",
+          "body": "En Busan, James Rustad, de Eyeline, dijo que los artistas aún eligen qué tomas VFX hechas con IA sirven a la historia.",
+          "mini_headline": "Netflix GenFX: deciden los artistas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "“Kira” (Cortesía de Ex Machina Studios)"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad. Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Dos series de ciencia ficción producidas con IA generativa, “Space Nation” y “Kira”, estrenarán mundialmente sus episodios piloto en Mipcom, en Cannes, con proyecciones para compradores los días 12 y 13 de octubre. Ambas están producidas por Ex Machina Studios y las vende K5 Intl., que afirman que es la primera vez que se proyectan en un gran mercado internacional episodios de series AI-generated totalmente producidos."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "“Space Nation” (Cortesía de Ex Machina Studios)"
+                "x": "La IA generativa (generative AI) puede ampliar las opciones para una toma de efectos visuales, pero los artistas siguen decidiendo cuáles sirven a la historia, según James Rustad, responsable global de GenFX en Eyeline, el estudio de VFX interno (in-house) de Netflix."
               },
               {
                 "t": "p",
-                "x": "“Space Nation”, coproducida con Globoplay, consta de ocho episodios de 45 minutos sobre jóvenes pilotos de élite que se enfrentan a una amenaza alienígena; se realizó en Los Ángeles en “alineación activa con los sindicatos de Hollywood”. “Kira”, una producción francesa de seis episodios de 35 minutos de Damien Steck y Julien Petit, sigue a una niña que busca a su padre en el planeta vivo Djena."
+                "x": "Rustad habló en una sesión de InnoAsia en el Asian Contents & Film Market del Busan International Film Festival y tomó como referencia “Brazil ‘70: The Third Star”, de Netflix. La serie incluye más de 1,300 tomas de efectos visuales, más de 800 de ellas ambientadas en el campo de fútbol."
               },
               {
                 "t": "p",
-                "x": "“Ambas son series impulsadas por cineastas… producidas con IA generativa y que se proyectan como episodios terminados”, dijo Daniel Baur, CEO de K5 Intl."
+                "x": "Eyeline trabaja con 45 artistas con un enfoque híbrido, explicó Rustad, que incorpora herramientas generativas a un proceso que también recurre a técnicas de efectos consolidadas. “El criterio de los artistas también es importante”, dijo."
+              },
+              {
+                "t": "p",
+                "x": "Su presentación describió cuatro etapas de un flujo de trabajo de tomas con IA generativa: preparación, narrativa, estética y entrega. Los prompts, la recopilación de referencias y las pruebas iniciales establecen las opciones; los resultados se evalúan frente a la historia y luego pasan por el refinamiento visual —iluminación, detalles de escena, rigor de época— y la entrega: composición, escalado, comprobación de profundidad de bits (bit-depth) y revisión técnica."
+              },
+              {
+                "t": "p",
+                "x": "La etapa narrativa pasa de “lo que es posible” a “lo que funciona para la historia”. Ahí entra el criterio de los artistas: seleccionar qué resultados generados con IA (AI-generated) deben convertirse en tomas finales."
               }
             ]
           }
@@ -859,129 +907,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-made 시리즈 2편\nMipcom에서 첫 공개",
-          "body": "생성형 AI로 만든 SF 시리즈 두 편이 Mipcom에서 첫선을 보인다.",
-          "mini_headline": "AI 시리즈 파일럿, Mipcom 공개",
+          "headline": "Netflix GenFX\nAI도 아티스트 판단 필요",
+          "body": "James Rustad는 AI로 만든 VFX 샷도 아티스트가 고른다고 했다.",
+          "mini_headline": "Netflix GenFX: 결정은 아티스트가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "“Kira”(Ex Machina Studios 제공)"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad. Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "생성형 AI로 제작한 SF 시리즈 “Space Nation”과 “Kira”가 칸에서 열리는 Mipcom에서 파일럿 에피소드를 세계 최초로 공개하고, 10월 12일과 13일 바이어 대상 상영을 진행한다. 두 작품은 Ex Machina Studios가 제작하고 K5 Intl.이 판매를 맡았으며, 양사는 완성된 AI 생성(AI-generated) 시리즈 에피소드가 주요 국제 견본시에서 상영되는 것은 이번이 처음이라고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "“Space Nation”(Ex Machina Studios 제공)"
+                "x": "Netflix의 사내(in-house) VFX 스튜디오 Eyeline에서 GenFX 글로벌 총괄을 맡은 James Rustad는 생성형 AI가 시각효과 샷의 선택지를 넓힐 수는 있지만, 그중 무엇이 이야기에 맞는지는 여전히 아티스트가 정한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Globoplay와 공동 제작한 “Space Nation”은 외계의 위협에 맞서는 젊은 엘리트 파일럿들의 이야기를 45분짜리 8부작에 담았다. 로스앤젤레스에서 “할리우드 조합들과 적극적으로 보조를 맞추며” 제작했다. Damien Steck과 Julien Petit이 만든 프랑스 작품 “Kira”는 35분짜리 6부작으로, 살아 있는 행성 Djena에서 아버지를 찾아 나선 소녀를 따라간다."
+                "x": "Rustad는 부산국제영화제(Busan International Film Festival) 아시아콘텐츠&필름마켓(Asian Contents & Film Market)의 InnoAsia 세션에서 Netflix의 “Brazil ‘70: The Third Star”를 사례로 들었다. 이 시리즈에는 1,300개가 넘는 시각효과 샷이 들어갔고, 그중 800개 이상이 축구장 장면이다."
               },
               {
                 "t": "p",
-                "x": "K5 Intl. CEO Daniel Baur는 “두 작품 모두 영화감독이 주도하는 시리즈로… 생성형 AI로 제작해 완성된 에피소드로 상영한다”고 말했다."
+                "x": "Rustad는 Eyeline이 45명의 아티스트와 하이브리드 방식으로 작업하며, 기존 특수효과 기법도 활용하는 공정에 생성형 도구를 접목한다고 설명했다. 그는 “아티스트의 판단도 중요하다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 발표에서 생성형 AI 샷 워크플로를 설정, 내러티브, 룩, 납품의 네 단계로 정리했다. 프롬프트 작성, 레퍼런스 수집, 초기 테스트로 선택지를 마련하고, 결과물을 이야기에 비춰 평가한 뒤 조명, 장면 디테일, 시대 고증 같은 시각적 다듬기를 거쳐 합성, 업스케일링, 비트 심도(bit-depth) 점검, 기술 검수로 이뤄진 납품 단계로 넘어간다."
+              },
+              {
+                "t": "p",
+                "x": "내러티브 단계는 “가능한 것”에서 “이야기에 맞는 것”으로 넘어가는 과정이다. 아티스트의 판단이 개입하는 지점도 여기다. AI가 생성한(AI-generated) 결과물 가운데 어떤 것을 완성 샷으로 삼을지 고르는 일이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-madeシリーズ2作\nMipcomで世界初公開",
-          "body": "生成AIで制作したSFシリーズ2作が、Mipcomでパイロット版を世界初公開する。",
-          "mini_headline": "AIシリーズのパイロット、Mipcomへ",
+          "headline": "Netflix GenFX\nAIにもアーティストの判断",
+          "body": "James RustadはAI生成のVFXショットも選ぶのはアーティストだと語った。",
+          "mini_headline": "Netflix GenFX、決めるのはアーティスト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "『Kira』（Ex Machina Studios提供）"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad。Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "生成AIで制作されたSFシリーズ『Space Nation』と『Kira』が、カンヌで開かれるMipcomでパイロット版を世界初公開し、10月12日と13日にバイヤー向けに上映する。両作はEx Machina Studiosが制作し、K5 Intl.が販売を手がける。両社によると、完全に制作されたAI生成（AI-generated）のシリーズ作品が主要な国際見本市で上映されるのは初めてだという。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "『Space Nation』（Ex Machina Studios提供）"
+                "x": "Netflixの社内(in-house)VFXスタジオEyelineでGenFXのグローバル責任者を務めるJames Rustadによれば、生成AIは視覚効果ショットの選択肢を広げられるが、どれが物語に資するかを決めるのは依然としてアーティストだという。"
               },
               {
                 "t": "p",
-                "x": "Globoplayとの共同制作による『Space Nation』は、異星からの脅威に立ち向かう若きエリートパイロットたちを描く45分×8話のシリーズで、ロサンゼルスで「ハリウッドの組合と積極的に足並みをそろえて」制作された。Damien SteckとJulien Petitによるフランス作品『Kira』は35分×6話で、生きた惑星Djenaで父を探す少女を追う。"
+                "x": "Rustadは釜山国際映画祭(Busan International Film Festival)のアジアコンテンツ&フィルムマーケット(Asian Contents & Film Market)で開かれたInnoAsiaセッションに登壇し、Netflixの「Brazil ‘70: The Third Star」を例に挙げた。同シリーズには1,300を超える視覚効果ショットがあり、そのうち800以上がサッカー場の場面だ。"
               },
               {
                 "t": "p",
-                "x": "K5 Intl.のCEO、Daniel Baurは「どちらも映画作家主導のシリーズで……生成AIで制作され、完成したエピソードとして上映される」と述べた。"
+                "x": "Rustadによると、Eyelineは45人のアーティストとハイブリッドな手法で取り組んでおり、従来の特殊効果技術も用いる工程に生成ツールを組み込んでいる。「アーティストの判断も重要だ」と彼は述べた。"
+              },
+              {
+                "t": "p",
+                "x": "発表では、生成AIによるショット制作のワークフローを、セットアップ、ナラティブ、ルック、デリバリーの四段階に整理した。プロンプト、参考資料の収集、初期テストで選択肢を用意し、結果を物語に照らして評価したうえで、照明、シーンの細部、時代考証といった視覚的な仕上げを経て、合成、アップスケーリング、ビット深度(bit-depth)の確認、技術レビューからなるデリバリーへ進む。"
+              },
+              {
+                "t": "p",
+                "x": "ナラティブの段階では「何が可能か」から「何が物語に合うか」へと視点が移る。アーティストの判断が生きるのはここで、AIが生成した(AI-generated)結果のうちどれを完成ショットにするかを選ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-made剧集两部\n亮相Mipcom全球首映",
-          "body": "两部用生成式AI制作的科幻剧集将在Mipcom全球首映试播集。",
-          "mini_headline": "AI剧集试播集登陆Mipcom",
+          "headline": "Netflix GenFX\nAI仍需艺术家判断",
+          "body": "Eyeline的James Rustad在釜山表示,AI生成的VFX镜头仍由艺术家挑选。",
+          "mini_headline": "Netflix GenFX:由艺术家决定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "《Kira》（Ex Machina Studios供图）"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad。Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "两部用生成式AI制作的科幻剧集《Space Nation》和《Kira》将在戛纳Mipcom上全球首映试播集，并于10月12日和13日面向买家放映。两部剧均由Ex Machina Studios制作、K5 Intl.负责发行，双方表示，这是完整制作的AI生成（AI-generated）剧集首次在大型国际市场展映。"
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "《Space Nation》（Ex Machina Studios供图）"
+                "x": "Netflix内部(in-house)VFX工作室Eyeline的GenFX全球负责人James Rustad表示,生成式AI可以拓宽视效镜头的选择,但哪些选择服务于故事,仍由艺术家决定。"
               },
               {
                 "t": "p",
-                "x": "《Space Nation》与Globoplay联合制作，共8集、每集45分钟，讲述年轻精英飞行员对抗外星威胁的故事；该剧在洛杉矶制作，“与好莱坞各工会积极保持一致”。《Kira》是Damien Steck和Julien Petit打造的法国作品，共6集、每集35分钟，讲述一个女孩在有生命的星球Djena上寻找父亲的故事。"
+                "x": "Rustad在釜山国际电影节(Busan International Film Festival)亚洲内容与电影市场(Asian Contents & Film Market)的InnoAsia环节发言,以Netflix的《Brazil ‘70: The Third Star》为例。该剧包含1,300多个视效镜头,其中800多个发生在足球场上。"
               },
               {
                 "t": "p",
-                "x": "K5 Intl.首席执行官（CEO）Daniel Baur表示：“两部都是由电影人主导的剧集……用生成式AI制作，并以成片形式放映。”"
+                "x": "Rustad说,Eyeline与45名艺术家采用混合方式工作,把生成式工具引入同样运用成熟特效技术的流程。他说:“艺术家的判断同样重要。”"
+              },
+              {
+                "t": "p",
+                "x": "他的演讲将生成式AI镜头工作流程分为四个阶段:设定、叙事、视觉风格和交付。提示词、参考资料收集和初步测试确定可选方案;随后对照故事评估结果,再进入灯光、场景细节、时代准确性等视觉打磨,最后是交付:合成、放大、位深(bit-depth)检查和技术审查。"
+              },
+              {
+                "t": "p",
+                "x": "叙事阶段是从“什么是可能的”转向“什么适合故事”。艺术家的判断正是在这里发挥作用:从AI生成(AI-generated)的结果中挑选哪些应成为最终镜头。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Series AI-made Space Nation\ny Kira se estrenan en Mipcom",
-          "body": "Dos series de ciencia ficción producidas con IA generativa estrenarán mundialmente sus episodios piloto en Mipcom.",
-          "mini_headline": "Pilotos de series con IA en Mipcom",
+          "headline": "Jefe de GenFX de Netflix: la IA\naún requiere criterio artístico",
+          "body": "En Busan, James Rustad, de Eyeline, dijo que los artistas aún eligen qué tomas VFX hechas con IA sirven a la historia.",
+          "mini_headline": "Netflix GenFX: deciden los artistas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-                "cap": "“Kira” (Cortesía de Ex Machina Studios)"
+                "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+                "cap": "James Rustad. Lin Ying-Hsuan"
               },
               {
                 "t": "p",
-                "x": "Dos series de ciencia ficción producidas con IA generativa, “Space Nation” y “Kira”, estrenarán mundialmente sus episodios piloto en Mipcom, en Cannes, con proyecciones para compradores los días 12 y 13 de octubre. Ambas están producidas por Ex Machina Studios y las vende K5 Intl., que afirman que es la primera vez que se proyectan en un gran mercado internacional episodios de series AI-generated totalmente producidos."
-              },
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Space-Nation.jpg?w=1000",
-                "cap": "“Space Nation” (Cortesía de Ex Machina Studios)"
+                "x": "La IA generativa (generative AI) puede ampliar las opciones para una toma de efectos visuales, pero los artistas siguen decidiendo cuáles sirven a la historia, según James Rustad, responsable global de GenFX en Eyeline, el estudio de VFX interno (in-house) de Netflix."
               },
               {
                 "t": "p",
-                "x": "“Space Nation”, coproducida con Globoplay, consta de ocho episodios de 45 minutos sobre jóvenes pilotos de élite que se enfrentan a una amenaza alienígena; se realizó en Los Ángeles en “alineación activa con los sindicatos de Hollywood”. “Kira”, una producción francesa de seis episodios de 35 minutos de Damien Steck y Julien Petit, sigue a una niña que busca a su padre en el planeta vivo Djena."
+                "x": "Rustad habló en una sesión de InnoAsia en el Asian Contents & Film Market del Busan International Film Festival y tomó como referencia “Brazil ‘70: The Third Star”, de Netflix. La serie incluye más de 1,300 tomas de efectos visuales, más de 800 de ellas ambientadas en el campo de fútbol."
               },
               {
                 "t": "p",
-                "x": "“Ambas son series impulsadas por cineastas… producidas con IA generativa y que se proyectan como episodios terminados”, dijo Daniel Baur, CEO de K5 Intl."
+                "x": "Eyeline trabaja con 45 artistas con un enfoque híbrido, explicó Rustad, que incorpora herramientas generativas a un proceso que también recurre a técnicas de efectos consolidadas. “El criterio de los artistas también es importante”, dijo."
+              },
+              {
+                "t": "p",
+                "x": "Su presentación describió cuatro etapas de un flujo de trabajo de tomas con IA generativa: preparación, narrativa, estética y entrega. Los prompts, la recopilación de referencias y las pruebas iniciales establecen las opciones; los resultados se evalúan frente a la historia y luego pasan por el refinamiento visual —iluminación, detalles de escena, rigor de época— y la entrega: composición, escalado, comprobación de profundidad de bits (bit-depth) y revisión técnica."
+              },
+              {
+                "t": "p",
+                "x": "La etapa narrativa pasa de “lo que es posible” a “lo que funciona para la historia”. Ahí entra el criterio de los artistas: seleccionar qué resultados generados con IA (AI-generated) deben convertirse en tomas finales."
               }
             ]
           }
@@ -989,271 +1049,361 @@
       }
     },
     {
-      "id": "painted-soul-rakuten-viki-launch",
-      "source_lang": "en",
+      "id": "morph-3d-scene-editor",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI-assisted 애니\nK드라마 Viki 공개",
-      "body": "최준배 감독의 AI-assisted 애니가 10월 21일 Viki에 공개된다.",
-      "mini_headline": "AI K드라마, Viki로",
+      "headline": "모픽, '3D 씬'으로\n구도·카메라 직접 연출",
+      "body": "모픽이 3D 마네킹과 카메라로 구도를 잡고 AI 영상을 만드는 에디터를 냈다.",
+      "mini_headline": "모픽 '3D 씬' 출시",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
+      "source": "테크월드",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "모픽이 기존 AI 영상의 주요 한계로 꼽히는 연출 무작위성과 구도 붕괴 문제를 해결하는 3D 장면 연출 에디터 ‘3D 씬(3D Scene)’을 출시했다고 8일 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "3D 씬은 자연어 지시로 3D 공간과 세트 내 인물 배치를 자동 구축하는 대화형 AI 코파일럿과, 카메라 각도와 조명을 프레임 단위로 수동 제어하는 3D 조작 툴을 하나로 결합했다."
+          },
+          {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+            "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+            "cap": "[제공=모픽]"
           },
           {
             "t": "p",
-            "x": "“Mouse”의 최준배 감독이 만든 오리지널 애니메이션 K드라마 “The Painted Soul”이 10월 21일 Rakuten Viki에서 독점 공개된다. 공개 지역은 미주, 유럽, 중동, 오세아니아, 인도, 동남아시아다."
+            "x": "약 2500개의 에셋 라이브러리로 수 분 만에 3D 세트를 만들고, 클릭 한 번으로 인물의 이동 경로와 속도를 지정해 200여가지 동작을 다듬을 수 있으며, 최대 60명에 달하는 군중 연출이나 추격전도 한 번에 구현할 수 있다."
           },
           {
             "t": "p",
-            "x": "판타지 로맨스인 이 작품은 Viki와 한국 제작사 Imaginus가 함께 만들었다. Imaginus 제작진은 시리즈를 개발하며 AI와 여러 기술을 썼다. 견습 화가 윤화가 반세기 동안 그림 속에 갇혀 있던 낯선 이를 자신도 모르게 풀어 주면서 이야기가 시작된다."
+            "x": "‘색상별 마네킹(Cast by Color)’ 시스템은 각 마네킹에 색상과 이름을 부여해 구도를 잡은 뒤 최종 생성 프롬프트에 연결하면 AI가 인물의 위치, 방향, 시선을 인지해 영상을 생성하도록 한다. 드론·크레인 등 12가지 카메라 워킹 제어와, 180° 연출 법칙 준수 여부와 비현실적 이동 속도 등을 자동으로 감지하는 연속성 검사 기능도 탑재했다."
           },
           {
             "t": "p",
-            "x": "Imaginus 최고크리에이티브책임자 이현정은 “흥미로운 신기술을 활용해 스토리텔링을 의미 있게 끌어올릴 수 있었다”고 말했다. 등록 사용자 1억 2700만 명을 넘긴 Viki는 플랫폼의 애니메이션을 더 늘릴 계획이다."
+            "x": "제이디 카나니 모픽 대표는 “3D 씬은 창작자가 3D 공간에서 인물 동선과 카메라 무빙을 직접 통제해 연출 의도를 정확히 구현할 수 있고 유료 크레딧 소진 없이 장면을 사전 검증한 뒤 최종 생성할 수 있어 스튜디오의 예산과 시간을 절감하는 데 도움이 될 것”이라고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI-assisted animated K-drama\nheads to Rakuten Viki",
-          "body": "'Mouse' director Choi Junbae's The Painted Soul, an AI-assisted animated K-drama, launches on Rakuten Viki on Oct. 21.",
-          "mini_headline": "AI K-drama heads to Viki",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "“The Painted Soul,” an original animated K-drama from “Mouse” director Choi Junbae, launches exclusively on Rakuten Viki on Oct. 21 across the Americas, Europe, the Middle East, Oceania, India and Southeast Asia."
-              },
-              {
-                "t": "p",
-                "x": "The fantasy romance is co-produced by Viki and South Korean outfit Imaginus, whose creatives used AI and other technologies in developing the series. It follows Yun Hwa, a trainee painter who unwittingly frees a stranger trapped inside a painting for half a century."
-              },
-              {
-                "t": "p",
-                "x": "“With the use of exciting new technologies, we were able to enhance our storytelling in meaningful ways,” said Imaginus chief creative officer Lee Hyunjung. Viki, which has over 127 million registered users, plans to bring more animation to its platform."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "K-drama animado AI-assisted\nllega a Rakuten Viki",
-          "body": "The Painted Soul, K-drama animado AI-assisted de Choi Junbae ('Mouse'), llega a Rakuten Viki el 21 de octubre.",
-          "mini_headline": "Un K-drama con IA llega a Viki",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
-              },
-              {
-                "t": "p",
-                "x": "“The Painted Soul”, un K-drama animado original y AI-assisted del director de “Mouse”, Choi Junbae, se estrena en exclusiva en Rakuten Viki el 21 de octubre en América, Europa, Oriente Medio, Oceanía, India y el Sudeste Asiático."
-              },
-              {
-                "t": "p",
-                "x": "El romance fantástico está coproducido por Viki y la productora surcoreana Imaginus, cuyos creativos usaron IA y otras tecnologías en el desarrollo de la serie. Sigue a Yun Hwa, una aprendiz de pintora que, sin saberlo, libera a un desconocido atrapado durante medio siglo dentro de un cuadro."
-              },
-              {
-                "t": "p",
-                "x": "“Gracias al uso de nuevas tecnologías apasionantes, pudimos enriquecer nuestra narrativa de forma significativa”, dijo Lee Hyunjung, directora creativa de Imaginus. Viki, que tiene más de 127 millones de usuarios registrados, planea incorporar más animación a su plataforma."
-              }
-            ]
-          }
-        },
         "ko": {
-          "headline": "AI-assisted 애니\nK드라마 Viki 공개",
-          "body": "최준배 감독의 AI-assisted 애니가 10월 21일 Viki에 공개된다.",
-          "mini_headline": "AI K드라마, Viki로",
+          "headline": "모픽, '3D 씬'으로\n구도·카메라 직접 연출",
+          "body": "모픽이 3D 마네킹과 카메라로 구도를 잡고 AI 영상을 만드는 에디터를 냈다.",
+          "mini_headline": "모픽 '3D 씬' 출시",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "모픽이 기존 AI 영상의 주요 한계로 꼽히는 연출 무작위성과 구도 붕괴 문제를 해결하는 3D 장면 연출 에디터 ‘3D 씬(3D Scene)’을 출시했다고 8일 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "3D 씬은 자연어 지시로 3D 공간과 세트 내 인물 배치를 자동 구축하는 대화형 AI 코파일럿과, 카메라 각도와 조명을 프레임 단위로 수동 제어하는 3D 조작 툴을 하나로 결합했다."
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[제공=모픽]"
               },
               {
                 "t": "p",
-                "x": "“Mouse”의 최준배 감독이 만든 오리지널 애니메이션 K드라마 “The Painted Soul”이 10월 21일 Rakuten Viki에서 독점 공개된다. 공개 지역은 미주, 유럽, 중동, 오세아니아, 인도, 동남아시아다."
+                "x": "약 2500개의 에셋 라이브러리로 수 분 만에 3D 세트를 만들고, 클릭 한 번으로 인물의 이동 경로와 속도를 지정해 200여가지 동작을 다듬을 수 있으며, 최대 60명에 달하는 군중 연출이나 추격전도 한 번에 구현할 수 있다."
               },
               {
                 "t": "p",
-                "x": "판타지 로맨스인 이 작품은 Viki와 한국 제작사 Imaginus가 함께 만들었다. Imaginus 제작진은 시리즈를 개발하며 AI와 여러 기술을 썼다. 견습 화가 윤화가 반세기 동안 그림 속에 갇혀 있던 낯선 이를 자신도 모르게 풀어 주면서 이야기가 시작된다."
+                "x": "‘색상별 마네킹(Cast by Color)’ 시스템은 각 마네킹에 색상과 이름을 부여해 구도를 잡은 뒤 최종 생성 프롬프트에 연결하면 AI가 인물의 위치, 방향, 시선을 인지해 영상을 생성하도록 한다. 드론·크레인 등 12가지 카메라 워킹 제어와, 180° 연출 법칙 준수 여부와 비현실적 이동 속도 등을 자동으로 감지하는 연속성 검사 기능도 탑재했다."
               },
               {
                 "t": "p",
-                "x": "Imaginus 최고크리에이티브책임자 이현정은 “흥미로운 신기술을 활용해 스토리텔링을 의미 있게 끌어올릴 수 있었다”고 말했다. 등록 사용자 1억 2700만 명을 넘긴 Viki는 플랫폼의 애니메이션을 더 늘릴 계획이다."
+                "x": "제이디 카나니 모픽 대표는 “3D 씬은 창작자가 3D 공간에서 인물 동선과 카메라 무빙을 직접 통제해 연출 의도를 정확히 구현할 수 있고 유료 크레딧 소진 없이 장면을 사전 검증한 뒤 최종 생성할 수 있어 스튜디오의 예산과 시간을 절감하는 데 도움이 될 것”이라고 밝혔다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Morphic's '3D Scene' lets users\ndirect framing and camera",
+          "body": "Morphic released an editor that sets up shots with 3D mannequins and cameras before generating AI video.",
+          "mini_headline": "Morphic launches '3D Scene'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Morphic said on the 8th that it has launched ‘3D Scene’, a 3D scene-directing editor designed to solve random staging and broken composition, which are seen as key limitations of existing AI video."
+              },
+              {
+                "t": "p",
+                "x": "3D Scene combines a conversational AI copilot that automatically builds 3D spaces and places characters within sets from natural-language instructions with a 3D control tool for manually adjusting camera angles and lighting frame by frame."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[Courtesy of Morphic]"
+              },
+              {
+                "t": "p",
+                "x": "With a library of about 2500 assets, users can build a 3D set in minutes, set a character's path and speed with a single click to refine around 200 types of movement, and stage crowd scenes of up to 60 people or chase sequences in one go."
+              },
+              {
+                "t": "p",
+                "x": "The ‘Cast by Color’ system assigns each mannequin a color and a name; once the composition is set and linked to the final generation prompt, the AI recognizes each character's position, direction and gaze when generating the video. The editor also offers 12 types of camera-movement control, including drone and crane moves, and a continuity check that automatically detects issues such as breaks in the 180° rule and unrealistic movement speeds."
+              },
+              {
+                "t": "p",
+                "x": "“3D Scene lets creators directly control character blocking and camera movement in 3D space to realize their directorial intent precisely, and verify scenes in advance before final generation without spending paid credits, which should help studios save budget and time,” said Morphic CEO JD Kanani."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assistedアニメ\nKドラマ、Vikiで配信",
-          "body": "チェ・ジュンベ監督のAI-assistedアニメが10月21日にVikiで配信される。",
-          "mini_headline": "AI Kドラマ、Vikiへ",
+          "headline": "「3D Scene」で\n構図とカメラを直接演出",
+          "body": "Morphicが3Dマネキンとカメラで構図を決めてAI映像を作るエディタを出した。",
+          "mini_headline": "Morphic「3D Scene」公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Morphicは8日、既存のAI映像の主な限界とされる演出のランダム性や構図の崩れを解消する3D場面演出エディタ「3D Scene」を公開したと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "3D Sceneは、自然言語の指示で3D空間とセット内の人物配置を自動で構築する対話型AIコパイロットと、カメラアングルや照明をフレーム単位で手動制御する3D操作ツールを一つに統合した。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[提供=Morphic]"
               },
               {
                 "t": "p",
-                "x": "『Mouse』のチェ・ジュンベ監督によるオリジナルアニメーションKドラマ『The Painted Soul』が、10月21日にRakuten Vikiで独占配信される。配信地域は南北アメリカ、ヨーロッパ、中東、オセアニア、インド、東南アジアだ。"
+                "x": "約2500点のアセットライブラリで数分のうちに3Dセットを作り、ワンクリックで人物の移動経路と速度を指定して200種類余りの動きを調整できるほか、最大60人に及ぶ群衆シーンや追跡劇も一度に実現できる。"
               },
               {
                 "t": "p",
-                "x": "このファンタジーロマンスはVikiと韓国の制作会社Imaginusの共同制作で、Imaginusのクリエイターはシリーズの開発にAIなどの技術を用いた。物語は、見習い画家のユン・ファが、半世紀にわたり絵の中に閉じ込められていた見知らぬ人物を、知らずに解き放つところから展開する。"
+                "x": "「色別マネキン(Cast by Color)」システムは、各マネキンに色と名前を割り当てて構図を決め、最終生成プロンプトに結び付けると、AIが人物の位置、向き、視線を認識して映像を生成する仕組みだ。ドローンやクレーンなど12種類のカメラワーク制御に加え、180°ルールの順守状況や非現実的な移動速度などを自動で検出する連続性チェック機能も搭載した。"
               },
               {
                 "t": "p",
-                "x": "Imaginusのチーフ・クリエイティブ・オフィサー、イ・ヒョンジョンは「刺激的な新技術を使うことで、物語表現を意味のある形で高めることができた」と語った。登録ユーザーが1億2700万人を超えるVikiは、プラットフォームでのアニメーションをさらに増やす計画だ。"
+                "x": "MorphicのJD Kanani代表は「3D Sceneでは、クリエイターが3D空間で人物の動線とカメラの動きを直接制御して演出意図を正確に実現でき、有料クレジットを消費せずに場面を事前検証してから最終生成できるため、スタジオの予算と時間の削減に役立つだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-assisted动画\n韩剧登陆Viki",
-          "body": "《Mouse》导演崔俊培的AI-assisted动画韩剧10月21日登陆Viki。",
-          "mini_headline": "AI韩剧登陆Viki",
+          "headline": "Morphic推出\n3D Scene掌控构图镜头",
+          "body": "Morphic推出可用3D人偶和摄像机布置构图、再生成AI视频的编辑器。",
+          "mini_headline": "Morphic推出“3D Scene”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Morphic于8日宣布推出3D场景导演编辑器“3D Scene”,旨在解决被视为现有AI视频主要局限的导演随机性和构图崩坏问题。"
+              },
+              {
+                "t": "p",
+                "x": "3D Scene将对话式AI副驾驶与3D操控工具合二为一:前者可根据自然语言指令自动搭建3D空间并安排场景中的人物位置,后者可逐帧手动控制摄像机角度和灯光。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[图片提供=Morphic]"
               },
               {
                 "t": "p",
-                "x": "由《Mouse》导演崔俊培执导的原创动画韩剧《The Painted Soul》将于10月21日在Rakuten Viki独家上线，覆盖美洲、欧洲、中东、大洋洲、印度和东南亚。"
+                "x": "借助约2500个素材的资源库,用户可在几分钟内搭好3D场景,一键指定人物的移动路径和速度,细调200余种动作,还能一次性实现多达60人的群戏或追逐戏。"
               },
               {
                 "t": "p",
-                "x": "这部奇幻爱情剧由Viki与韩国制作公司Imaginus联合制作，Imaginus的创作团队在开发该剧时运用了AI等技术。故事讲述见习画师尹花在不知情的情况下，放出了一位被困在画中半个世纪的陌生人。"
+                "x": "“按颜色分配人偶”(Cast by Color)系统为每个人偶分配颜色和名称,确定构图后将其连接到最终生成提示词,AI便能识别人物的位置、朝向和视线来生成视频。产品还配备无人机、摇臂等12种运镜控制,以及能自动检测是否遵守180°法则、是否存在不现实移动速度等问题的连贯性检查功能。"
               },
               {
                 "t": "p",
-                "x": "Imaginus首席创意官李贤贞表示：“借助令人兴奋的新技术，我们得以切实提升叙事表现。”拥有超过1.27亿注册用户的Viki计划在平台上引入更多动画内容。"
+                "x": "Morphic首席执行官JD Kanani表示:“3D Scene让创作者能在3D空间中直接控制人物走位和摄像机运动,准确实现导演意图,并且无需消耗付费额度即可预先验证场景再进行最终生成,有助于为制片公司节省预算和时间。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Morphic lanza '3D Scene' para\ndirigir encuadre y cámara",
+          "body": "Morphic lanzó un editor que permite componer planos con maniquíes y cámaras 3D antes de generar video con IA.",
+          "mini_headline": "Morphic lanza '3D Scene'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Morphic anunció el día 8 el lanzamiento de ‘3D Scene’, un editor de dirección de escenas en 3D que resuelve la aleatoriedad en la puesta en escena y el colapso del encuadre, considerados las principales limitaciones del video con IA (AI) actual."
+              },
+              {
+                "t": "p",
+                "x": "3D Scene integra un copiloto de IA conversacional que construye automáticamente espacios 3D y la disposición de personajes en el set a partir de instrucciones en lenguaje natural, y una herramienta de manipulación 3D que controla manualmente los ángulos de cámara y la iluminación fotograma a fotograma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[Cortesía de Morphic]"
+              },
+              {
+                "t": "p",
+                "x": "Con una biblioteca de unos 2500 recursos, se puede montar un set 3D en pocos minutos, definir con un solo clic la trayectoria y la velocidad de un personaje para ajustar unos 200 tipos de movimiento, y recrear de una sola vez escenas de multitudes de hasta 60 personas o persecuciones."
+              },
+              {
+                "t": "p",
+                "x": "El sistema de ‘maniquíes por color (Cast by Color)’ asigna un color y un nombre a cada maniquí para fijar el encuadre; al vincularlo con el prompt final de generación, la IA reconoce la posición, la orientación y la mirada de cada personaje al generar el video. También incluye control de 12 tipos de movimientos de cámara, como dron o grúa, y una función de verificación de continuidad que detecta automáticamente si se respeta la regla de los 180° y velocidades de movimiento poco realistas."
+              },
+              {
+                "t": "p",
+                "x": "“3D Scene permite a los creadores controlar directamente en un espacio 3D el recorrido de los personajes y los movimientos de cámara para plasmar con precisión su intención como directores, y validar escenas antes de la generación final sin consumir créditos de pago, lo que ayudará a los estudios a ahorrar presupuesto y tiempo”, afirmó JD Kanani, CEO de Morphic."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "es": {
-          "headline": "K-drama animado AI-assisted\nllega a Rakuten Viki",
-          "body": "The Painted Soul, K-drama animado AI-assisted de Choi Junbae ('Mouse'), llega a Rakuten Viki el 21 de octubre.",
-          "mini_headline": "Un K-drama con IA llega a Viki",
+        "en": {
+          "headline": "Morphic's '3D Scene' lets users\ndirect framing and camera",
+          "body": "Morphic released an editor that sets up shots with 3D mannequins and cameras before generating AI video.",
+          "mini_headline": "Morphic launches '3D Scene'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "t": "p",
+                "x": "Morphic said on the 8th that it has launched ‘3D Scene’, a 3D scene-directing editor designed to solve random staging and broken composition, which are seen as key limitations of existing AI video."
               },
               {
                 "t": "p",
-                "x": "“The Painted Soul”, un K-drama animado original y AI-assisted del director de “Mouse”, Choi Junbae, se estrena en exclusiva en Rakuten Viki el 21 de octubre en América, Europa, Oriente Medio, Oceanía, India y el Sudeste Asiático."
+                "x": "3D Scene combines a conversational AI copilot that automatically builds 3D spaces and places characters within sets from natural-language instructions with a 3D control tool for manually adjusting camera angles and lighting frame by frame."
               },
-              {
-                "t": "p",
-                "x": "El romance fantástico está coproducido por Viki y la productora surcoreana Imaginus, cuyos creativos usaron IA y otras tecnologías en el desarrollo de la serie. Sigue a Yun Hwa, una aprendiz de pintora que, sin saberlo, libera a un desconocido atrapado durante medio siglo dentro de un cuadro."
-              },
-              {
-                "t": "p",
-                "x": "“Gracias al uso de nuevas tecnologías apasionantes, pudimos enriquecer nuestra narrativa de forma significativa”, dijo Lee Hyunjung, directora creativa de Imaginus. Viki, que tiene más de 127 millones de usuarios registrados, planea incorporar más animación a su plataforma."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-assisted 애니\nK드라마 Viki 공개",
-          "body": "최준배 감독의 AI-assisted 애니가 10월 21일 Viki에 공개된다.",
-          "mini_headline": "AI K드라마, Viki로",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[Courtesy of Morphic]"
               },
               {
                 "t": "p",
-                "x": "“Mouse”의 최준배 감독이 만든 오리지널 애니메이션 K드라마 “The Painted Soul”이 10월 21일 Rakuten Viki에서 독점 공개된다. 공개 지역은 미주, 유럽, 중동, 오세아니아, 인도, 동남아시아다."
+                "x": "With a library of about 2500 assets, users can build a 3D set in minutes, set a character's path and speed with a single click to refine around 200 types of movement, and stage crowd scenes of up to 60 people or chase sequences in one go."
               },
               {
                 "t": "p",
-                "x": "이 판타지 로맨스는 Viki와 한국 제작사 Imaginus가 공동 제작했으며, Imaginus 제작진은 시리즈 개발에 AI와 여러 기술을 활용했다. 이야기는 견습 화가 윤화가 반세기 동안 그림 속에 갇혀 있던 낯선 이를 자신도 모르게 풀어 주면서 펼쳐진다."
+                "x": "The ‘Cast by Color’ system assigns each mannequin a color and a name; once the composition is set and linked to the final generation prompt, the AI recognizes each character's position, direction and gaze when generating the video. The editor also offers 12 types of camera-movement control, including drone and crane moves, and a continuity check that automatically detects issues such as breaks in the 180° rule and unrealistic movement speeds."
               },
               {
                 "t": "p",
-                "x": "Imaginus 최고크리에이티브책임자 이현정은 “흥미로운 신기술을 활용해 스토리텔링을 의미 있게 끌어올릴 수 있었다”고 말했다. 등록 사용자가 1억 2700만 명이 넘는 Viki는 플랫폼에 애니메이션을 더 늘릴 계획이다."
+                "x": "“3D Scene lets creators directly control character blocking and camera movement in 3D space to realize their directorial intent precisely, and verify scenes in advance before final generation without spending paid credits, which should help studios save budget and time,” said Morphic CEO JD Kanani."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-assistedアニメ\nKドラマ、Vikiで配信",
-          "body": "チェ・ジュンベ監督のAI-assistedアニメが10月21日にVikiで配信される。",
-          "mini_headline": "AI Kドラマ、Vikiへ",
+          "headline": "「3D Scene」で\n構図とカメラを直接演出",
+          "body": "Morphicが3Dマネキンとカメラで構図を決めてAI映像を作るエディタを出した。",
+          "mini_headline": "Morphic「3D Scene」公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Morphicは8日、既存のAI映像の主な限界とされる演出のランダム性や構図の崩れを解消する3D場面演出エディタ「3D Scene」を公開したと発表した。"
+              },
+              {
+                "t": "p",
+                "x": "3D Sceneは、自然言語の指示で3D空間とセット内の人物配置を自動で構築する対話型AIコパイロットと、カメラアングルや照明をフレーム単位で手動制御する3D操作ツールを一つに統合した。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[提供=Morphic]"
               },
               {
                 "t": "p",
-                "x": "『Mouse』のチェ・ジュンベ監督によるオリジナルアニメーションKドラマ『The Painted Soul』が、10月21日にRakuten Vikiで独占配信される。配信地域は南北アメリカ、ヨーロッパ、中東、オセアニア、インド、東南アジアだ。"
+                "x": "約2500点のアセットライブラリで数分のうちに3Dセットを作り、ワンクリックで人物の移動経路と速度を指定して200種類余りの動きを調整できるほか、最大60人に及ぶ群衆シーンや追跡劇も一度に実現できる。"
               },
               {
                 "t": "p",
-                "x": "このファンタジーロマンスはVikiと韓国の制作会社Imaginusの共同制作で、Imaginusのクリエイターはシリーズの開発にAIなどの技術を用いた。物語は、見習い画家のユン・ファが、半世紀にわたり絵の中に閉じ込められていた見知らぬ人物を、知らずに解き放つところから展開する。"
+                "x": "「色別マネキン(Cast by Color)」システムは、各マネキンに色と名前を割り当てて構図を決め、最終生成プロンプトに結び付けると、AIが人物の位置、向き、視線を認識して映像を生成する仕組みだ。ドローンやクレーンなど12種類のカメラワーク制御に加え、180°ルールの順守状況や非現実的な移動速度などを自動で検出する連続性チェック機能も搭載した。"
               },
               {
                 "t": "p",
-                "x": "Imaginusのチーフ・クリエイティブ・オフィサー、イ・ヒョンジョンは「刺激的な新技術を使うことで、物語表現を意味のある形で高めることができた」と語った。登録ユーザーが1億2700万人を超えるVikiは、プラットフォームでのアニメーションをさらに増やす計画だ。"
+                "x": "MorphicのJD Kanani代表は「3D Sceneでは、クリエイターが3D空間で人物の動線とカメラの動きを直接制御して演出意図を正確に実現でき、有料クレジットを消費せずに場面を事前検証してから最終生成できるため、スタジオの予算と時間の削減に役立つだろう」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI-assisted动画\n韩剧登陆Viki",
-          "body": "《Mouse》导演崔俊培的AI-assisted动画韩剧10月21日登陆Viki。",
-          "mini_headline": "AI韩剧登陆Viki",
+          "headline": "Morphic推出\n3D Scene掌控构图镜头",
+          "body": "Morphic推出可用3D人偶和摄像机布置构图、再生成AI视频的编辑器。",
+          "mini_headline": "Morphic推出“3D Scene”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Morphic于8日宣布推出3D场景导演编辑器“3D Scene”,旨在解决被视为现有AI视频主要局限的导演随机性和构图崩坏问题。"
+              },
+              {
+                "t": "p",
+                "x": "3D Scene将对话式AI副驾驶与3D操控工具合二为一:前者可根据自然语言指令自动搭建3D空间并安排场景中的人物位置,后者可逐帧手动控制摄像机角度和灯光。"
+              },
+              {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1"
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[图片提供=Morphic]"
               },
               {
                 "t": "p",
-                "x": "由《Mouse》导演崔俊培执导的原创动画韩剧《The Painted Soul》将于10月21日在Rakuten Viki独家上线，覆盖美洲、欧洲、中东、大洋洲、印度和东南亚。"
+                "x": "借助约2500个素材的资源库,用户可在几分钟内搭好3D场景,一键指定人物的移动路径和速度,细调200余种动作,还能一次性实现多达60人的群戏或追逐戏。"
               },
               {
                 "t": "p",
-                "x": "这部奇幻爱情剧由Viki与韩国制作公司Imaginus联合制作，Imaginus的创作团队在开发该剧时运用了AI等技术。故事讲述见习画师尹花在不知情的情况下，放出了一位被困在画中半个世纪的陌生人。"
+                "x": "“按颜色分配人偶”(Cast by Color)系统为每个人偶分配颜色和名称,确定构图后将其连接到最终生成提示词,AI便能识别人物的位置、朝向和视线来生成视频。产品还配备无人机、摇臂等12种运镜控制,以及能自动检测是否遵守180°法则、是否存在不现实移动速度等问题的连贯性检查功能。"
               },
               {
                 "t": "p",
-                "x": "Imaginus首席创意官李贤贞表示：“借助令人兴奋的新技术，我们得以切实提升叙事表现。”拥有超过1.27亿注册用户的Viki计划在平台上引入更多动画内容。"
+                "x": "Morphic首席执行官JD Kanani表示:“3D Scene让创作者能在3D空间中直接控制人物走位和摄像机运动,准确实现导演意图,并且无需消耗付费额度即可预先验证场景再进行最终生成,有助于为制片公司节省预算和时间。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Morphic lanza '3D Scene' para\ndirigir encuadre y cámara",
+          "body": "Morphic lanzó un editor que permite componer planos con maniquíes y cámaras 3D antes de generar video con IA.",
+          "mini_headline": "Morphic lanza '3D Scene'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Morphic anunció el día 8 el lanzamiento de ‘3D Scene’, un editor de dirección de escenas en 3D que resuelve la aleatoriedad en la puesta en escena y el colapso del encuadre, considerados las principales limitaciones del video con IA (AI) actual."
+              },
+              {
+                "t": "p",
+                "x": "3D Scene integra un copiloto de IA conversacional que construye automáticamente espacios 3D y la disposición de personajes en el set a partir de instrucciones en lenguaje natural, y una herramienta de manipulación 3D que controla manualmente los ángulos de cámara y la iluminación fotograma a fotograma."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+                "cap": "[Cortesía de Morphic]"
+              },
+              {
+                "t": "p",
+                "x": "Con una biblioteca de unos 2500 recursos, se puede montar un set 3D en pocos minutos, definir con un solo clic la trayectoria y la velocidad de un personaje para ajustar unos 200 tipos de movimiento, y recrear de una sola vez escenas de multitudes de hasta 60 personas o persecuciones."
+              },
+              {
+                "t": "p",
+                "x": "El sistema de ‘maniquíes por color (Cast by Color)’ asigna un color y un nombre a cada maniquí para fijar el encuadre; al vincularlo con el prompt final de generación, la IA reconoce la posición, la orientación y la mirada de cada personaje al generar el video. También incluye control de 12 tipos de movimientos de cámara, como dron o grúa, y una función de verificación de continuidad que detecta automáticamente si se respeta la regla de los 180° y velocidades de movimiento poco realistas."
+              },
+              {
+                "t": "p",
+                "x": "“3D Scene permite a los creadores controlar directamente en un espacio 3D el recorrido de los personajes y los movimientos de cámara para plasmar con precisión su intención como directores, y validar escenas antes de la generación final sin consumir créditos de pago, lo que ayudará a los estudios a ahorrar presupuesto y tiempo”, afirmó JD Kanani, CEO de Morphic."
               }
             ]
           }
@@ -1261,195 +1411,249 @@
       }
     },
     {
-      "id": "danny-boyle-ink-ai-thatcher",
+      "id": "astana-ai-film-grand-prix",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Danny Boyle,\nInk 속 AI 대처 재현",
-      "body": "Danny Boyle이 Ink에서 대처를 허락 없이 AI로 재현한 이유를 밝혔다.",
-      "mini_headline": "Boyle의 AI 대처",
+      "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
+      "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
+      "mini_headline": "Astana AI 영화제 Grand Prix",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "video",
+            "yt": "RxHoSyLNNRo"
+          },
+          {
+            "t": "p",
+            "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 처음 열린 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 상금 $450,000(€401,000)의 그랑프리(Grand Prix)를 받았다. 영화 속 인물들은 나쁜 짓을 하면 외모가 흉해지고, 착한 일을 하면 모습이 나아진다."
+          },
+          {
+            "t": "p",
+            "x": "두 해 전 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 인도(India)의 Abhik Banerjee는 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila는 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
+          },
+          {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-            "cap": "'Ink'에서 Rupert Murdoch 역의 Guy Pearce와 Larry Lamb 역의 Jack O’Connell."
+            "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+            "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
           },
           {
             "t": "p",
-            "x": "Danny Boyle은 BFI 런던영화제(BFI London Film Festival)에서 Puck의 Matt Belloni와 대담하며, Rupert Murdoch의 The Sun 인수를 다룬 영화 Ink 이야기를 나눴다."
+            "x": "심사 기준은 AI 도구를 쓰는 방식만이 아니었다. 예술적 비전, 스토리텔링, 완성도, 그리고 기술을 얼마나 자연스럽게 녹여냈는지도 함께 봤다. 공모에는 125개국에서 8,000편 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델에 걸쳐 있었다. 영화제 총기금 $2 million 가운데 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
+          },
+          {
+            "t": "img",
+            "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+            "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
           },
           {
             "t": "p",
-            "x": "AI를 두고 Boyle은 “이제는 시각효과 회사들이 쓰는 도구 상자의 일부… 우리는 아주 절제해서 썼고, 누구도 대체하지 않도록 매우 신경 썼다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "다만 제작진은 마거릿 대처(Margaret Thatcher)의 얼굴을 재현하는 데 AI를 썼다. Boyle은 “흉내 내는 배우를 원하지 않았다. 그녀 자신이길 바랐다”고 했다. 장면은 대역 배우가 연기했고, 그 위에 AI로 대처의 얼굴을 입혔다. “유족 측에 허락을 구하지 않기로 했다”는 그는 한 인물의 영향력을 다루는 예술 속 생각을 유족이 통제해서는 안 된다고 주장했다."
-          },
-          {
-            "t": "p",
-            "x": "신문이 사라지는 사이 플랫폼을 장악한 빅테크 기업과 기자를 대체하는 AI가 권력을 감시하는 언론의 역량을 위협한다는 경고도 내놓았다."
+            "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 거라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Danny Boyle on recreating\nThatcher with AI in Ink",
-          "body": "Danny Boyle explained at the London Film Festival why he used AI to portray Thatcher in Ink without asking her estate.",
-          "mini_headline": "Boyle's AI Thatcher",
+          "headline": "Latvian filmmaker wins Astana\nAI film festival Grand Prix",
+          "body": "Nikolay Shestak took the $450,000 Grand Prix at the first Astana AI Film Festival from more than 8,000 entries.",
+          "mini_headline": "AI film Grand Prix in Astana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "Latvian filmmaker Nikolay Shestak has won the $450,000 (€401,000) Grand Prix at the first Astana AI Film Festival in Kazakhstan for his film The First Honest Day, created using artificial intelligence. In it, bad deeds make its characters physically uglier and good deeds change them for the better."
+              },
+              {
+                "t": "p",
+                "x": "“Honestly, I didn't expect to win,” said Shestak, who began making films with AI two years ago. Second place went to India’s Abhik Banerjee for SITARA ($200,000), and third to Spain’s Ernest Desumbila for Looking For Perseida ($100,000)."
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "Guy Pearce as Rupert Murdoch and Jack O’Connell as Larry Lamb in 'Ink.'"
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Finalists of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "At the BFI London Film Festival, Danny Boyle discussed Ink, his film about Rupert Murdoch’s takeover of The Sun, with Puck’s Matt Belloni."
+                "x": "Films were judged on how AI tools were used, but also on artistic vision, storytelling, coherence and how organically the technology was integrated. The competition drew more than 8,000 submissions from 125 countries; 25 films made the final programme, spanning 19 genres and more than 80 generative AI models. The festival had a total fund of $2 million, half for prizes and half as investment capital for AI teams."
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "President Tokayev at the opening of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "On AI, Boyle said: “It’s a part of the toolbox that the visual effects companies use now… we used it very sparingly, and we were very careful to make sure it didn’t replace anyone.”"
-              },
-              {
-                "t": "p",
-                "x": "The team did use AI to recreate Margaret Thatcher’s face. “I didn’t want an impersonator. I wanted her to be it,” Boyle said; an impersonator played the scene and AI put Thatcher’s face on her. “I declined to ask the estate for permission,” he added, arguing estates should not control ideas in art about a figure’s influence."
-              },
-              {
-                "t": "p",
-                "x": "He also warned that as newspapers vanish, tech giants controlling platforms — and AI replacing journalists — threaten the press’s ability to hold power to account."
+                "x": "President Kassym-Jomart Tokayev, who opened the festival, said “the barrier to entry has become significantly lower,” but that AI would not replace filmmakers’ creative role. “The driving force of this festival was FOMO,” said co-founder Aizat Kussainov."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Danny Boyle,\nInk 속 AI 대처 재현",
-          "body": "Danny Boyle이 Ink에서 대처를 허락 없이 AI로 재현한 이유를 밝혔다.",
-          "mini_headline": "Boyle의 AI 대처",
+          "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
+          "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
+          "mini_headline": "Astana AI 영화제 Grand Prix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 처음 열린 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 상금 $450,000(€401,000)의 그랑프리(Grand Prix)를 받았다. 영화 속 인물들은 나쁜 짓을 하면 외모가 흉해지고, 착한 일을 하면 모습이 나아진다."
+              },
+              {
+                "t": "p",
+                "x": "두 해 전 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 인도(India)의 Abhik Banerjee는 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila는 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "'Ink'에서 Rupert Murdoch 역의 Guy Pearce와 Larry Lamb 역의 Jack O’Connell."
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Danny Boyle은 BFI 런던영화제(BFI London Film Festival)에서 Puck의 Matt Belloni와 대담하며, Rupert Murdoch의 The Sun 인수를 다룬 영화 Ink 이야기를 나눴다."
+                "x": "심사 기준은 AI 도구를 쓰는 방식만이 아니었다. 예술적 비전, 스토리텔링, 완성도, 그리고 기술을 얼마나 자연스럽게 녹여냈는지도 함께 봤다. 공모에는 125개국에서 8,000편 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델에 걸쳐 있었다. 영화제 총기금 $2 million 가운데 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "AI를 두고 Boyle은 “이제는 시각효과 회사들이 쓰는 도구 상자의 일부… 우리는 아주 절제해서 썼고, 누구도 대체하지 않도록 매우 신경 썼다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "다만 제작진은 마거릿 대처(Margaret Thatcher)의 얼굴을 재현하는 데 AI를 썼다. Boyle은 “흉내 내는 배우를 원하지 않았다. 그녀 자신이길 바랐다”고 했다. 장면은 대역 배우가 연기했고, 그 위에 AI로 대처의 얼굴을 입혔다. “유족 측에 허락을 구하지 않기로 했다”는 그는 한 인물의 영향력을 다루는 예술 속 생각을 유족이 통제해서는 안 된다고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "신문이 사라지는 사이 플랫폼을 장악한 빅테크 기업과 기자를 대체하는 AI가 권력을 감시하는 언론의 역량을 위협한다는 경고도 내놓았다."
+                "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 거라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Danny Boyleが語る\n『Ink』のAIサッチャー",
-          "body": "Danny Boyleは、遺族の許可なくAIで『Ink』のサッチャーを描いた理由を語った。",
-          "mini_headline": "BoyleのAIサッチャー",
+          "headline": "ラトビアの監督が\nアスタナAI映画祭で大賞",
+          "body": "Nikolay Shestakが8,000作超の応募から$450,000の大賞を得た。",
+          "mini_headline": "Astana AI映画祭のGrand Prix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "ラトビアの映画監督Nikolay Shestakが、カザフスタン(Kazakhstan)で開かれた初のAstana AI Film Festivalで、人工知能を使って制作した映画「The First Honest Day」により$450,000(€401,000)のグランプリ(Grand Prix)を獲得した。作中では、悪い行いをすると登場人物の外見が醜くなり、善い行いをすると良い方向へ変わる。"
+              },
+              {
+                "t": "p",
+                "x": "「正直、勝てるとは思っていなかった」と、二年前にAIで映画を作り始めたShestakは語った。二位はインド(India)のAbhik Banerjeeによる「SITARA」($200,000)、三位はスペイン(Spain)のErnest Desumbilaによる「Looking For Perseida」($100,000)だった。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "『Ink』でRupert Murdochを演じるGuy Pearceと、Larry Lambを演じるJack O’Connell"
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festivalのファイナリストたち。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Danny Boyleは、BFI London Film Festival（BFIロンドン映画祭）で、Rupert MurdochによるThe Sun買収を描いた自作『Ink』について、PuckのMatt Belloniと語り合った。"
+                "x": "審査ではAIツールの使い方に加え、芸術的なビジョン、ストーリーテリング、一貫性、技術がどれだけ自然に溶け込んでいるかも評価された。コンペには125カ国から8,000作を超える応募があり、最終プログラムに残った25作品は19のジャンルと80を超える生成AIモデルにまたがった。映画祭の基金総額は$2 millionで、半分が賞金、残り半分がAIチーム向けの投資資金に充てられた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Astana AI Film Festivalの開幕式に臨むTokayev大統領(President Tokayev)。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "AIについてBoyleは「今では視覚効果会社が使う道具箱の一部だ……私たちはごく控えめに使い、誰の代わりにもならないよう細心の注意を払った」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "ただし制作陣は、Margaret Thatcher（マーガレット・サッチャー）の顔の再現にはAIを使った。「ものまね役者にはしたくなかった。彼女本人であってほしかった」とBoyleは言う。ものまね役者がシーンを演じ、AIでその顔にサッチャーの顔を重ねた。「遺族に許可を求めることはしなかった」とも述べ、人物の影響力をめぐる芸術上のアイデアを遺族が支配すべきではないと主張した。"
-              },
-              {
-                "t": "p",
-                "x": "さらに、新聞が姿を消すなか、プラットフォームを握る巨大テック企業や記者に取って代わるAIが、権力を監視する報道の力を脅かしていると警鐘を鳴らした。"
+                "x": "映画祭の開幕を宣言したKassym-Jomart Tokayev大統領は「参入障壁は大きく下がった」と述べつつ、AIが映画製作者の創造的な役割に取って代わることはないとした。共同創設者のAizat Kussainovは「この映画祭の原動力はFOMOだった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Danny Boyle谈\n《Ink》用AI重现撒切尔",
-          "body": "Danny Boyle在伦敦电影节上解释为何未经遗产方许可用AI在《Ink》中再现撒切尔。",
-          "mini_headline": "Boyle的AI撒切尔",
+          "headline": "拉脱维亚导演\n摘得阿斯塔纳AI影展大奖",
+          "body": "Nikolay Shestak从8,000多部作品中胜出,摘得$450,000大奖。",
+          "mini_headline": "Astana AI电影节Grand Prix揭晓",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "拉脱维亚电影人Nikolay Shestak凭借运用人工智能创作的影片《The First Honest Day》,在哈萨克斯坦(Kazakhstan)首届Astana AI Film Festival上夺得$450,000(€401,000)的大奖(Grand Prix)。片中,角色做坏事会让外表变得更丑,做好事则会让他们变得更好。"
+              },
+              {
+                "t": "p",
+                "x": "两年前开始用AI拍片的Shestak说:“老实说,我没想到会赢。”第二名是印度(India)的Abhik Banerjee,作品为《SITARA》($200,000);第三名是西班牙(Spain)的Ernest Desumbila,作品为《Looking For Perseida》($100,000)。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "Guy Pearce在《Ink》中饰演Rupert Murdoch，Jack O’Connell饰演Larry Lamb。"
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festival入围者。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "在BFI伦敦电影节（BFI London Film Festival）上，Danny Boyle与Puck的Matt Belloni畅谈了他讲述Rupert Murdoch收购The Sun的电影《Ink》。"
+                "x": "评审不仅看AI工具的使用方式,也考量艺术视野、叙事、连贯性以及技术融入的自然程度。比赛共收到来自125个国家的8,000多部作品;25部影片进入最终片单,涵盖19种类型和80多个生成式AI模型。电影节总基金为$2 million,一半用于奖金,一半作为AI团队的投资资本。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Tokayev总统(President Tokayev)出席Astana AI Film Festival开幕式。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "谈到AI，Boyle说：“它现在是视效公司工具箱的一部分……我们用得非常克制，并且非常小心，确保它没有取代任何人。”"
-              },
-              {
-                "t": "p",
-                "x": "不过团队确实用AI重现了Margaret Thatcher（撒切尔）的面孔。“我不想要一个模仿者。我希望就是她本人。”Boyle说；由一名模仿者演出这场戏，再用AI把撒切尔的脸换到她身上。他补充说：“我拒绝去征求遗产方的许可。”他认为，遗产方不应掌控艺术作品中关于某个人物影响力的想法。"
-              },
-              {
-                "t": "p",
-                "x": "他还警告说，随着报纸消失，掌控平台的科技巨头以及取代记者的AI，正威胁着新闻界监督权力的能力。"
+                "x": "为电影节揭幕的Kassym-Jomart Tokayev总统表示,“准入门槛已大幅降低”,但AI不会取代电影人的创作角色。联合创始人Aizat Kussainov说:“这个电影节的驱动力是FOMO。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Danny Boyle explica su Thatcher\nrecreada con IA en Ink",
-          "body": "Danny Boyle explicó en el festival de Londres por qué recreó a Thatcher con IA en Ink sin consultar a sus herederos.",
-          "mini_headline": "La Thatcher con IA de Boyle",
+          "headline": "Un letón gana el Grand Prix\ndel festival de IA de Astana",
+          "body": "Nikolay Shestak ganó el Grand Prix de $450,000 del primer Astana AI Film Festival entre más de 8,000 obras.",
+          "mini_headline": "Grand Prix de cine con IA en Astana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "El cineasta letón Nikolay Shestak ganó el Grand Prix de $450,000 (€401,000) del primer Astana AI Film Festival, en Kazajistán (Kazakhstan), con su película The First Honest Day, creada con inteligencia artificial. En ella, las malas acciones vuelven físicamente más feos a sus personajes y las buenas los cambian para mejor."
+              },
+              {
+                "t": "p",
+                "x": "“Sinceramente, no esperaba ganar”, dijo Shestak, que empezó a hacer películas con IA hace dos años. El segundo puesto fue para Abhik Banerjee, de India, por SITARA ($200,000), y el tercero para Ernest Desumbila, de España (Spain), por Looking For Perseida ($100,000)."
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "Guy Pearce como Rupert Murdoch y Jack O’Connell como Larry Lamb en 'Ink'."
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Finalistas del Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "En el BFI London Film Festival, Danny Boyle habló de Ink, su película sobre la compra de The Sun por parte de Rupert Murdoch, con Matt Belloni, de Puck."
+                "x": "Las películas se evaluaron por el uso de las herramientas de IA, pero también por su visión artística, narrativa, coherencia y la naturalidad con que se integraba la tecnología. El certamen recibió más de 8,000 obras de 125 países; 25 películas llegaron al programa final, con 19 géneros y más de 80 modelos de IA generativa. El festival contó con un fondo total de $2 millones, la mitad para premios y la otra mitad como capital de inversión para equipos de IA."
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "El presidente Tokayev (President Tokayev) en la inauguración del Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Sobre la IA, Boyle dijo: “Es parte de la caja de herramientas que usan ahora las empresas de efectos visuales… la usamos con mucha moderación y tuvimos mucho cuidado de que no reemplazara a nadie”."
-              },
-              {
-                "t": "p",
-                "x": "El equipo sí usó IA para recrear el rostro de Margaret Thatcher. “No quería una imitadora. Quería que fuera ella”, dijo Boyle; una imitadora interpretó la escena y la IA le puso el rostro de Thatcher. “Decidí no pedir permiso a los herederos”, añadió, y sostuvo que los herederos no deberían controlar las ideas artísticas sobre la influencia de un personaje."
-              },
-              {
-                "t": "p",
-                "x": "También advirtió que, a medida que desaparecen los periódicos, los gigantes tecnológicos que controlan las plataformas —y la IA que reemplaza a los periodistas— amenazan la capacidad de la prensa de exigir cuentas al poder."
+                "x": "El presidente Kassym-Jomart Tokayev, que inauguró el festival, afirmó que “la barrera de entrada se ha reducido notablemente”, pero que la IA no sustituirá el papel creativo de los cineastas. “La fuerza impulsora de este festival fue el FOMO”, dijo el cofundador Aizat Kussainov."
               }
             ]
           }
@@ -1457,125 +1661,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Danny Boyle,\nInk 속 AI 대처 재현",
-          "body": "Danny Boyle이 Ink에서 대처를 허락 없이 AI로 재현한 이유를 밝혔다.",
-          "mini_headline": "Boyle의 AI 대처",
+          "headline": "라트비아 감독이\n아스타나 AI 영화제 대상",
+          "body": "Nikolay Shestak이 8,000편 넘는 출품작 중 대상을 받았다.",
+          "mini_headline": "Astana AI 영화제 Grand Prix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "라트비아 출신 영화감독 Nikolay Shestak이 카자흐스탄(Kazakhstan)에서 열린 첫 Astana AI Film Festival에서 인공지능으로 만든 영화 The First Honest Day로 $450,000(€401,000) 상금의 그랑프리(Grand Prix)를 차지했다. 작품 속 인물들은 나쁜 행동을 하면 외모가 흉해지고, 좋은 행동을 하면 더 나은 모습으로 바뀐다."
+              },
+              {
+                "t": "p",
+                "x": "두 해 전부터 AI로 영화를 만들기 시작한 Shestak은 “솔직히 우승을 기대하지 않았다”고 말했다. 이어 인도(India)의 Abhik Banerjee가 SITARA로 두 번째($200,000), 스페인(Spain)의 Ernest Desumbila가 Looking For Perseida로 세 번째($100,000) 자리에 올랐다."
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "'Ink'에서 Rupert Murdoch 역의 Guy Pearce와 Larry Lamb 역의 Jack O’Connell."
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festival 결선 진출자들. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Danny Boyle은 BFI 런던영화제(BFI London Film Festival)에서 Puck의 Matt Belloni와 함께 Rupert Murdoch의 The Sun 인수를 다룬 자신의 영화 Ink에 관해 이야기했다."
+                "x": "심사는 AI 도구 활용 방식뿐 아니라 예술적 비전, 스토리텔링, 완성도, 기술을 얼마나 자연스럽게 녹여냈는지를 기준으로 이뤄졌다. 공모에는 125개국에서 8,000편이 넘는 작품이 몰렸고, 최종 프로그램에 오른 25편은 19개 장르와 80개가 넘는 생성형 AI 모델을 아울렀다. 영화제의 총기금은 $2 million으로, 절반은 상금, 나머지 절반은 AI 팀을 위한 투자 자본이다."
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Astana AI Film Festival 개막식에 참석한 Tokayev 대통령(President Tokayev). Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "AI에 대해 Boyle은 “이제는 시각효과 회사들이 쓰는 도구 상자의 일부… 우리는 아주 절제해서 썼고, 누구도 대체하지 않도록 매우 신경 썼다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "다만 제작진은 마거릿 대처(Margaret Thatcher)의 얼굴을 재현하는 데 AI를 썼다. Boyle은 “흉내 내는 배우를 원하지 않았다. 그녀 자신이길 바랐다”고 말했다. 대역 배우가 장면을 연기했고 AI가 그 위에 대처의 얼굴을 입혔다. 그는 “유족 측에 허락을 구하지 않기로 했다”며, 한 인물의 영향력을 다루는 예술 속 생각을 유족이 통제해서는 안 된다고 주장했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 또 신문이 사라지는 가운데 플랫폼을 장악한 빅테크 기업과 기자를 대체하는 AI가 권력을 감시하는 언론의 역량을 위협한다고 경고했다."
+                "x": "영화제 개막을 알린 Kassym-Jomart Tokayev 대통령은 “진입 장벽이 크게 낮아졌다”면서도 AI가 영화인의 창작 역할을 대신하지는 못할 것이라고 말했다. 공동 창립자 Aizat Kussainov는 “이 영화제의 원동력은 FOMO였다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Danny Boyleが語る\n『Ink』のAIサッチャー",
-          "body": "Danny Boyleは、遺族の許可なくAIで『Ink』のサッチャーを描いた理由を語った。",
-          "mini_headline": "BoyleのAIサッチャー",
+          "headline": "ラトビアの監督が\nアスタナAI映画祭で大賞",
+          "body": "Nikolay Shestakが8,000作超の応募から$450,000の大賞を得た。",
+          "mini_headline": "Astana AI映画祭のGrand Prix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "ラトビアの映画監督Nikolay Shestakが、カザフスタン(Kazakhstan)で開かれた初のAstana AI Film Festivalで、人工知能を使って制作した映画「The First Honest Day」により$450,000(€401,000)のグランプリ(Grand Prix)を獲得した。作中では、悪い行いをすると登場人物の外見が醜くなり、善い行いをすると良い方向へ変わる。"
+              },
+              {
+                "t": "p",
+                "x": "「正直、勝てるとは思っていなかった」と、二年前にAIで映画を作り始めたShestakは語った。二位はインド(India)のAbhik Banerjeeによる「SITARA」($200,000)、三位はスペイン(Spain)のErnest Desumbilaによる「Looking For Perseida」($100,000)だった。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "『Ink』でRupert Murdochを演じるGuy Pearceと、Larry Lambを演じるJack O’Connell"
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festivalのファイナリストたち。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Danny Boyleは、BFI London Film Festival（BFIロンドン映画祭）で、Rupert MurdochによるThe Sun買収を描いた自作『Ink』について、PuckのMatt Belloniと語り合った。"
+                "x": "審査ではAIツールの使い方に加え、芸術的なビジョン、ストーリーテリング、一貫性、技術がどれだけ自然に溶け込んでいるかも評価された。コンペには125カ国から8,000作を超える応募があり、最終プログラムに残った25作品は19のジャンルと80を超える生成AIモデルにまたがった。映画祭の基金総額は$2 millionで、半分が賞金、残り半分がAIチーム向けの投資資金に充てられた。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Astana AI Film Festivalの開幕式に臨むTokayev大統領(President Tokayev)。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "AIについてBoyleは「今では視覚効果会社が使う道具箱の一部だ……私たちはごく控えめに使い、誰の代わりにもならないよう細心の注意を払った」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "ただし制作陣は、Margaret Thatcher（マーガレット・サッチャー）の顔の再現にはAIを使った。「ものまね役者にはしたくなかった。彼女本人であってほしかった」とBoyleは言う。ものまね役者がシーンを演じ、AIでその顔にサッチャーの顔を重ねた。「遺族に許可を求めることはしなかった」とも述べ、人物の影響力をめぐる芸術上のアイデアを遺族が支配すべきではないと主張した。"
-              },
-              {
-                "t": "p",
-                "x": "さらに、新聞が姿を消すなか、プラットフォームを握る巨大テック企業や記者に取って代わるAIが、権力を監視する報道の力を脅かしていると警鐘を鳴らした。"
+                "x": "映画祭の開幕を宣言したKassym-Jomart Tokayev大統領は「参入障壁は大きく下がった」と述べつつ、AIが映画製作者の創造的な役割に取って代わることはないとした。共同創設者のAizat Kussainovは「この映画祭の原動力はFOMOだった」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Danny Boyle谈\n《Ink》用AI重现撒切尔",
-          "body": "Danny Boyle在伦敦电影节上解释为何未经遗产方许可用AI在《Ink》中再现撒切尔。",
-          "mini_headline": "Boyle的AI撒切尔",
+          "headline": "拉脱维亚导演\n摘得阿斯塔纳AI影展大奖",
+          "body": "Nikolay Shestak从8,000多部作品中胜出,摘得$450,000大奖。",
+          "mini_headline": "Astana AI电影节Grand Prix揭晓",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "拉脱维亚电影人Nikolay Shestak凭借运用人工智能创作的影片《The First Honest Day》,在哈萨克斯坦(Kazakhstan)首届Astana AI Film Festival上夺得$450,000(€401,000)的大奖(Grand Prix)。片中,角色做坏事会让外表变得更丑,做好事则会让他们变得更好。"
+              },
+              {
+                "t": "p",
+                "x": "两年前开始用AI拍片的Shestak说:“老实说,我没想到会赢。”第二名是印度(India)的Abhik Banerjee,作品为《SITARA》($200,000);第三名是西班牙(Spain)的Ernest Desumbila,作品为《Looking For Perseida》($100,000)。"
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "Guy Pearce在《Ink》中饰演Rupert Murdoch，Jack O’Connell饰演Larry Lamb。"
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Astana AI Film Festival入围者。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "在BFI伦敦电影节（BFI London Film Festival）上，Danny Boyle与Puck的Matt Belloni畅谈了他讲述Rupert Murdoch收购The Sun的电影《Ink》。"
+                "x": "评审不仅看AI工具的使用方式,也考量艺术视野、叙事、连贯性以及技术融入的自然程度。比赛共收到来自125个国家的8,000多部作品;25部影片进入最终片单,涵盖19种类型和80多个生成式AI模型。电影节总基金为$2 million,一半用于奖金,一半作为AI团队的投资资本。"
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "Tokayev总统(President Tokayev)出席Astana AI Film Festival开幕式。Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "谈到AI，Boyle说：“它现在是视效公司工具箱的一部分……我们用得非常克制，并且非常小心，确保它没有取代任何人。”"
-              },
-              {
-                "t": "p",
-                "x": "不过团队确实用AI重现了Margaret Thatcher（撒切尔）的面孔。“我不想要一个模仿者。我希望就是她本人。”Boyle说；由一名模仿者演出这场戏，再用AI把撒切尔的脸换到她身上。他补充说：“我拒绝去征求遗产方的许可。”他认为，遗产方不应掌控艺术作品中关于某个人物影响力的想法。"
-              },
-              {
-                "t": "p",
-                "x": "他还警告说，随着报纸消失，掌控平台的科技巨头以及取代记者的AI，正威胁着新闻界监督权力的能力。"
+                "x": "为电影节揭幕的Kassym-Jomart Tokayev总统表示,“准入门槛已大幅降低”,但AI不会取代电影人的创作角色。联合创始人Aizat Kussainov说:“这个电影节的驱动力是FOMO。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Danny Boyle explica su Thatcher\nrecreada con IA en Ink",
-          "body": "Danny Boyle explicó en el festival de Londres por qué recreó a Thatcher con IA en Ink sin consultar a sus herederos.",
-          "mini_headline": "La Thatcher con IA de Boyle",
+          "headline": "Un letón gana el Grand Prix\ndel festival de IA de Astana",
+          "body": "Nikolay Shestak ganó el Grand Prix de $450,000 del primer Astana AI Film Festival entre más de 8,000 obras.",
+          "mini_headline": "Grand Prix de cine con IA en Astana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "video",
+                "yt": "RxHoSyLNNRo"
+              },
+              {
+                "t": "p",
+                "x": "El cineasta letón Nikolay Shestak ganó el Grand Prix de $450,000 (€401,000) del primer Astana AI Film Festival, en Kazajistán (Kazakhstan), con su película The First Honest Day, creada con inteligencia artificial. En ella, las malas acciones vuelven físicamente más feos a sus personajes y las buenas los cambian para mejor."
+              },
+              {
+                "t": "p",
+                "x": "“Sinceramente, no esperaba ganar”, dijo Shestak, que empezó a hacer películas con IA hace dos años. El segundo puesto fue para Abhik Banerjee, de India, por SITARA ($200,000), y el tercero para Ernest Desumbila, de España (Spain), por Looking For Perseida ($100,000)."
+              },
+              {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "Guy Pearce como Rupert Murdoch y Jack O’Connell como Larry Lamb en 'Ink'."
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+                "cap": "Finalistas del Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "En el BFI London Film Festival, Danny Boyle habló de Ink, su película sobre la compra de The Sun por parte de Rupert Murdoch, con Matt Belloni, de Puck."
+                "x": "Las películas se evaluaron por el uso de las herramientas de IA, pero también por su visión artística, narrativa, coherencia y la naturalidad con que se integraba la tecnología. El certamen recibió más de 8,000 obras de 125 países; 25 películas llegaron al programa final, con 19 géneros y más de 80 modelos de IA generativa. El festival contó con un fondo total de $2 millones, la mitad para premios y la otra mitad como capital de inversión para equipos de IA."
+              },
+              {
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+                "cap": "El presidente Tokayev (President Tokayev) en la inauguración del Astana AI Film Festival. Copyright: Astana AI Film Festival"
               },
               {
                 "t": "p",
-                "x": "Sobre la IA, Boyle dijo: “Es parte de la caja de herramientas que usan ahora las empresas de efectos visuales… la usamos con mucha moderación y tuvimos mucho cuidado de que no reemplazara a nadie”."
-              },
-              {
-                "t": "p",
-                "x": "El equipo sí usó IA para recrear el rostro de Margaret Thatcher. “No quería una imitadora. Quería que fuera ella”, dijo Boyle; una imitadora interpretó la escena y la IA le puso el rostro de Thatcher. “Decidí no pedir permiso a los herederos”, añadió, y sostuvo que los herederos no deberían controlar las ideas artísticas sobre la influencia de un personaje."
-              },
-              {
-                "t": "p",
-                "x": "También advirtió que, a medida que desaparecen los periódicos, los gigantes tecnológicos que controlan las plataformas —y la IA que reemplaza a los periodistas— amenazan la capacidad de la prensa de exigir cuentas al poder."
+                "x": "El presidente Kassym-Jomart Tokayev, que inauguró el festival, afirmó que “la barrera de entrada se ha reducido notablemente”, pero que la IA no sustituirá el papel creativo de los cineastas. “La fuerza impulsora de este festival fue el FOMO”, dijo el cofundador Aizat Kussainov."
               }
             ]
           }

@@ -13315,6 +13315,152 @@
           "x": "구독은 Archicad Studio, Archicad Collaborate, Archicad Max 세 가지 요금제로 늘어난다. Archicad Max는 데이터와 AI 기반(AI-based) 워크플로를 쓰는 사무소용이다."
         }
       ]
+    },
+    "design/agent-permission-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
+        },
+        {
+          "t": "p",
+          "x": "작업이 뭘 하는지 보이지 않으면 “Allow this action”에 답하기 어렵다. AI 워크스페이스 9xchat을 만든 123sudo의 공동창업자 KAT은 이 문제를 보안 명세가 아니라 제품 디자인의 눈으로 짚는다."
+        },
+        {
+          "t": "p",
+          "x": "연결됐다고 승인된 건 아니다. 인터페이스는 “이 도구가 연결돼 있다”와 “이 작업이 현재 과제에 허용됐다”를 구분해야 한다. 보여줄 것은 도구가 아니라 결과다. “Allow send_message?”가 아니라 “첨부한 프로젝트 브리프와 함께 이 이메일을 외부 주소의 Alex에게 보낼까요?”라고 묻는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "미리보기는 에이전트의 요약에만 기대지 말고 대기 중인 도구 호출 자체에서 뽑아야 한다. 승인은 특정 작업에 묶여야 한다. 수신자나 첨부 파일, 본문이 바뀌면 다시 묻는다. 경고도 색만으로는 부족하다. “외부 수신자”, “기존 파일 덮어쓰기”처럼 말로 적어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "확인 창이 많다고 통제력이 커지지는 않는다. 작업을 시작할 때 알아보기 쉬운 경계를 정해 두고, 에이전트가 그 선을 넘을 때만 물으면 된다. 점검 항목은 접근, 작업, 대상, 승인, 변경이다. “‘나를 믿어라’는 쓸모 있는 승인 화면이 아니다.”"
+        }
+      ]
+    },
+    "design/grok-imagine-vercel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+        },
+        {
+          "t": "p",
+          "x": "xAI의 Grok Imagine Video 1.5 Lite를 이제 AI Gateway에서 쓸 수 있게 됐다. 텍스트 프롬프트와 이미지를 넣으면 네이티브 오디오까지 담긴 영상을 뽑아 주는 경량 모델이다."
+        },
+        {
+          "t": "p",
+          "x": "해상도는 480p, 720p, 1080p, 클립 길이는 1초에서 15초까지다. 화면비 일곱 가지가 와이드스크린과 정사각형, 세로 형식을 아울러서 한 생성 워크플로 안에서 가로 장면도 세로 영상도 만들 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "영상 생성을 시작하려면 AI SDK나 AI CLI에서 모델을 spacexai/grok-imagine-video-1.5-lite로 지정하면 된다. 이미지 모델과 Grok Imagine Video 1.5 Lite를 이어 붙이면 정지 이미지를 만들고 거기에 움직임을 입히는 과정이 한 흐름으로 끝난다. AI Gateway Playground에서 바로 써 볼 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "AI Gateway는 모델 호출, 사용량과 비용 추적, 라우팅·재시도·페일오버 설정을 API 하나로 묶어 제공한다. 키는 AI Gateway API 키를 써도 되고, 이미 쓰는 제공업체 키를 가져와도 된다."
+        }
+      ]
+    },
+    "design/atlas-hand-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics가 새로 내놓은 네 손가락 Atlas 손은 자유도 13에 직접 구동 방식이고, 대량 생산을 염두에 두고 설계됐다. Atlas 로봇 행동 디렉터 Alberto Rodriguez는 The Robot Report에 새끼손가락을 없애고 그리퍼를 줄였으며, sim-to-real 강화학습에 쓰려고 고충실도 시뮬레이션에 맞춰 만들었다고 설명했다."
+        },
+        {
+          "t": "p",
+          "x": "손은 똑같은 완전 밀폐형 액추에이터 13개로 이뤄졌고, 관절을 가로지르는 약한 케이블도 없다. 이전 손은 100 lb.-plus 물체도 들었으니, 이번엔 힘을 조금 내주고 구동 투명성을 얻었다."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        },
+        {
+          "t": "p",
+          "x": "요구 사항은 전동 공구, 케이블, 나사 더듬어 찾기 같은 작업들과 핵심 엄지 동작에서 뽑았다. 엄지를 두 개 다는 설계는 늘어나는 DoFs와 비용, 부피 때문에 접었다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "구동부가 역구동되고 마찰 보상도 들어가 있어 동역학을 정확히 시뮬레이션할 수 있다. “시뮬레이션이 잘 되는 액추에이터를 만들고, 그다음 대규모 RL에 기대라.” Rodriguez는 시뮬레이션에서 학습한 RL이 집어 옮기는 수준을 넘어 복잡한 손재주까지 열어 주리라 본다. 본사에선 이미 널리 쓰이지만 아직 로봇 군단 전체에 깔리진 않았다."
+        }
+      ]
+    },
+    "design/figma-ai-team-rituals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "히어로 일러스트: James Marshall"
+        },
+        {
+          "t": "p",
+          "x": "AI 효과를 개인 생산성에서 팀 전체 성과로 끌어올리려면 사람들이 지금 서 있는 자리에서 시작해야 한다. 그러려면 동료끼리 돕는 포럼이 팀에 있어야 한다. 초보자든 숙련자든 부담 없이 AI 기술을 배우고 연습하고 다듬는 자리다. 사례 네 가지를 살펴본다."
+        },
+        {
+          "t": "p",
+          "x": "Figma는 동료가 이끄는 스터디 그룹을 운영한다. 디자인 운영 매니저 Jake Geller는 “AI Collective”라는 파일럿을 시작했다. 디자이너가 고른 주제별로 동료가 이끄는 그룹 다섯 개를 꾸려 여섯 주 동안 매주 한 시간씩 모였고, 세션과 세션 사이엔 Slack으로 이어갔다. 템플릿이 권한 구성은 강의 20분, 실습 40분이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Sephora는 실패한 시도까지 공유한다. 기술 부문 SVP Sneha Narahalli는 빌더들이 AI로 만든 것을 내보이는 격주 포럼을 연다. 초기 세션엔 매끈하게 다듬은 결과물만 올라왔다. 그래서 이제 발표자는 무엇을 시도했고 무엇이 안 됐는지까지 과정 전체를 짚는다. 그는 “동료에게 직접 듣고 그것이 동료의 일을 얼마나 쉽게 해 주는지 보는 것이 하향식 메시지보다 훨씬 강력하다”고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Sneha Narahalli, Sephora 기술 부문 수석부사장(Senior Vice President of Technology)"
+        },
+        {
+          "t": "p",
+          "x": "Mercari는 직군을 넘나들며 서로 가르친다. 수석 디자이너(Principal Designer) Aki Alkhatib의 팀은 실습 세션을 운영한다. 디자이너는 AI 코딩 도구 사용법이나 GitHub 저장소 설정 같은 엔지니어링 기초를, 개발자는 시각적 위계 같은 디자인 원칙을 배운다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian은 모든 크리틱을 프로토타입으로 시작한다. 최고디자인책임자(Chief Design Officer) Charlie Sutton은 프로토타입 먼저, 설명은 나중이라는 규칙을 세웠다. 그는 “때로는 단순한 규칙이 복잡한 변화를 가능하게 한다”고 말한다."
+        }
+      ]
+    },
+    "design/runway-claude-motion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic이 Runway를 출시 파트너로 삼아 Claude Motion을 내놓는다. Claude Motion은 프롬프트 하나로 작업물 속 텍스트, 차트, 도형, 이미지를 엮어 짧은 애니메이션 설명 영상을 만든다. 만든 애니메이션은 무엇이든 Runway로 내보내 생성 영상을 더하고 편집을 마칠 수 있다. Claude Team과 Enterprise 플랜에서 베타로 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "Claude에 분기 보고서를 30초짜리 전사 회의용 설명 영상으로 바꿔 달라거나 이사회 자료의 차트에 움직임을 넣어 달라고 하면 된다. Claude가 콘텐츠를 움직이는 코드를 쓰면 결과물은 짧은 영상처럼 재생된다. 직접 손보거나 대화로 고칠 수 있고 MP4로 내려받아도 된다."
+        },
+        {
+          "t": "p",
+          "x": "더 손볼 곳이 있으면 Runway로 내보내면 된다. 거기서 새 영상과 이미지를 만들고 바꿀 점을 설명해 클립을 고친다. Runway Agent를 쓰면 애니메이션을 중심에 둔 더 긴 편집본도 꾸릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Runway는 이런 쓰임을 제안한다. 움직이는 수치에 참조 사진 한 장으로 생성한 제품 컷을 붙인 출시 영상, 고객이 나오는 생성 장면을 넣은 온보딩 안내 영상, 음성 해설과 음악을 입힌 전사 회의 업데이트가 있다. 16:9 설명 영상을 애니메이션을 다시 만들지 않고 세로·정사각형 포맷으로 넓히거나 현지화하는 데도 쓴다."
+        }
+      ]
     }
   }
 }

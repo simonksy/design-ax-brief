@@ -7480,6 +7480,152 @@
           "x": "サブスクリプションはArchicad Studio、Archicad Collaborate、Archicad Maxの三つのプランに広がる。Archicad Maxは、データとAIに基づく(AI-based)ワークフローを使う事務所向けだ。"
         }
       ]
+    },
+    "design/agent-permission-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
+        },
+        {
+          "t": "p",
+          "x": "その操作が何をするのか見えなければ、「Allow this action」には答えにくい。AIワークスペース9xchatを手がける123sudoの共同創業者KATは、セキュリティ仕様ではなくプロダクトデザインの視点からこう書く。"
+        },
+        {
+          "t": "p",
+          "x": "接続は承認ではない。インターフェースは「このツールは接続されている」と「この操作は現在のタスクで許可されている」を区別すべきだ。ツールではなく結果を示す。「Allow send_message?」ではなく、「添付のプロジェクト概要とともに、このメールを外部アドレスのAlexに送信しますか?」と尋ねるのだ。"
+        },
+        {
+          "t": "p",
+          "x": "プレビューはエージェントの要約だけでなく、保留中のツール呼び出しそのものから組み立てる。承認は特定の操作に紐づけるべきで、宛先や添付ファイル、本文が変われば改めて確認する。警告には色だけでなく言葉が要る。「外部の受信者」「既存のファイルを上書き」といった具合だ。"
+        },
+        {
+          "t": "p",
+          "x": "確認を増やしても制御が強まるわけではない。タスクの開始時にわかりやすい境界を設定し、エージェントがそこから外れたときだけ尋ねる。チェックリストはアクセス、操作、対象、承認、変更だ。「『信じてくれ』は役に立つ承認画面ではない」"
+        }
+      ]
+    },
+    "design/grok-imagine-vercel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+        },
+        {
+          "t": "p",
+          "x": "xAIのGrok Imagine Video 1.5 LiteがAI Gatewayで利用可能になった。この軽量モデルは、テキストプロンプトと画像をネイティブ音声付きの動画に変換する。"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは480p、720p、1080pで1秒から15秒のクリップを生成する。七種類のアスペクト比がワイドスクリーン、正方形、縦型をカバーし、同じ生成ワークフローから横長のシーンも縦型動画も作れる。"
+        },
+        {
+          "t": "p",
+          "x": "動画生成を始めるには、AI SDKまたはAI CLIでモデルをspacexai/grok-imagine-video-1.5-liteに設定する。画像モデルとGrok Imagine Video 1.5 Liteをつなげば、静止画を作ってアニメーション化するまでを一つの流れで行える。AI Gateway Playgroundで直接試すこともできる。"
+        },
+        {
+          "t": "p",
+          "x": "AI Gatewayは、モデルの呼び出し、使用量とコストの追跡、ルーティングやリトライ、フェイルオーバーの設定を一つのAPIで提供する。AI GatewayのAPIキーを使うことも、自前のプロバイダーキーを持ち込むこともできる。"
+        }
+      ]
+    },
+    "design/atlas-hand-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamicsの新しい四本指のAtlasハンドは、自由度13で直接駆動式、量産を見据えて設計されている。Atlasのロボット行動担当ディレクター、Alberto RodriguezがThe Robot Reportに語ったところでは、小指をなくし、グリッパーを小型化し、sim-to-real強化学習を可能にする高忠実度シミュレーションに向けて作られたという。"
+        },
+        {
+          "t": "p",
+          "x": "同一の完全密閉型アクチュエーター13個で構成され、関節をまたぐ壊れやすいケーブルはない。以前のハンドは100 lb.-plusの物体を持ち上げられたため、駆動の透明性と引き換えに力をわずかに落とした。"
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        },
+        {
+          "t": "p",
+          "x": "要件は、電動工具やケーブル、ネジを探り取る作業といった一連のタスクと、主要な親指の動きから導いた。親指二本の設計は、DoFsの増加、コスト、容積を理由に見送った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "バックドライブ可能な駆動と摩擦補償によって、正確な動力学シミュレーションが可能になる。「シミュレーションしやすいアクチュエーターを作り、あとは大規模なRLに頼る」。Rodriguezは、シミュレーション内のRLがピック・アンド・プレースを超える複雑な器用さを引き出すと見ている。ハンドは本社で広く使われているが、まだフリート全体には展開されていない。"
+        }
+      ]
+    },
+    "design/figma-ai-team-rituals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "ヒーローイラスト：James Marshall"
+        },
+        {
+          "t": "p",
+          "x": "AIの効果を個人の生産性向上からチーム全体の成果へと引き上げるには、一人ひとりの今の状況に寄り添う必要がある。チームには、初心者も熟練者もプレッシャーの少ない環境でAIスキルを学び、練習し、磨ける、仲間同士の支え合いを軸にした場が要る。ここでは四つの例を紹介する。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaは仲間主導の勉強会を運営している。デザインオペレーションマネージャーのJake Gellerは「AI Collective」というパイロットを立ち上げた。デザイナーが選んだテーマごとに仲間が率いる五つのグループを組み、六週間にわたり週一時間集まり、セッションの合間はSlackでやり取りした。テンプレートは講義20分、実践40分を勧めた。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Sephoraはうまくいかなかったことも共有する。テクノロジー担当SVPのSneha Narahalliは、作り手がAIで作っているものを共有する隔週のフォーラムを主催している。初期のセッションでは完成度の高い成果しか示されなかったため、今では発表者が試したことやうまくいかなかったことを含めてプロセスを説明する。「仲間から直接聞き、それが仲間の仕事をどれだけ楽にしているかを見るほうが、トップダウンのメッセージよりはるかに力がある」と彼女は言う。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Sneha Narahalli(Sephora、Senior Vice President of Technology)"
+        },
+        {
+          "t": "p",
+          "x": "Mercariは職種を越えたクロストレーニングを行う。Principal DesignerのAki Alkhatibのチームは実践型セッションを開き、デザイナーはAIコーディングツールの使い方やGitHubリポジトリの設定といったエンジニアリングの基礎を、開発者は視覚的階層のようなデザイン原則を学ぶ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Atlassianはすべてのクリティークをプロトタイプから始める。Chief Design OfficerのCharlie Suttonは、まずプロトタイプを見せ、説明は後にするというルールを採用した。「シンプルなルールこそが複雑な変化を可能にすることもある」と彼は言う。"
+        }
+      ]
+    },
+    "design/runway-claude-motion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
+        },
+        {
+          "t": "p",
+          "x": "AnthropicはRunwayをローンチパートナーに迎え、Claude Motionを提供する。Claude Motionはプロンプトから、ユーザー自身の資料にあるテキスト、チャート、図形、画像を使って短いアニメーション解説動画を作る。どのアニメーションもRunwayに書き出して生成映像を加え、編集を仕上げられる。Claude TeamとEnterpriseプランでベータ版として提供される。"
+        },
+        {
+          "t": "p",
+          "x": "四半期報告書を30秒の全社会議向け解説動画にしたり、取締役会資料のチャートを動かしたりするようClaudeに頼めばよい。Claudeがコンテンツを動かすコードを書き、結果は短い動画のように再生される。調整や対話での修正ができ、MP4としてダウンロードすることもできる。"
+        },
+        {
+          "t": "p",
+          "x": "解説動画にさらに手を加えたいときはRunwayに書き出し、新しい映像や画像を生成したり、変更点を言葉で説明してクリップを編集したり、Runway Agentでアニメーションを軸にした長尺の編集版を組み立てたりできる。"
+        },
+        {
+          "t": "p",
+          "x": "Runwayが提案する用途は、動くデータと1枚の参照写真から生成した製品ショットを組み合わせたローンチ動画、顧客の生成シーンを使ったオンボーディング解説、ナレーションと音楽を加えた全社会議の報告、そしてアニメーションを作り直さずに16:9の解説動画を縦型や正方形に広げたりローカライズしたりする使い方だ。"
+        }
+      ]
     }
   }
 }

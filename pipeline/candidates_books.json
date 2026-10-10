@@ -1,166 +1,135 @@
 {
  "section": "books",
- "date": "2026-10-10",
- "generated_at": "2026-10-09T22:05:00Z",
- "now_iso": "2026-10-09T22:05:00Z",
+ "date": "2026-10-11",
+ "now_iso": "2026-10-10T22:00:00Z",
  "window_hours": 336,
+ "expansion": [
+  "Adjacent outlet: selfpublishingadvice.org (ALLi), off-list. Used only because no on-list outlet covered the KDP upload cap or OpenAI's motion against the market study.",
+  "Tag and section feeds: PW section feeds (industry-news/international/childrens/authors), PP feed pages 1-8, Good e-Reader pages 1-8, Börsenblatt /feed plus its on-site KI search, Bookseller /news, /comment, /features HTML, Lit Hub/Book Riot/TechCrunch/Verge/Ars/Wired tag feeds",
+  "YouTube channel RSS (Creative Penn, JF Penn, Kindlepreneur, NovelCrafter, AuthorLevelUp): nothing new beyond the Creative Penn podcast",
+  "Extra keywords: KDP upload limit, AI narration survey, EU AI Act, AI translation translators, Audible interactive AI characters"
+ ],
  "items": [
-  {
-   "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-   "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-   "source": "WIRED",
-   "category": "books",
-   "published_iso": "2026-10-09T19:28:49Z",
-   "og_image": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/191:100/w_1280,c_limit/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg",
-   "excerpt": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy and emails, as some execs push junior staff to champion the tech. (Broader multi-house angle beyond the S&S Skan letter published 10-08.)"
-  },
-  {
-   "url": "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise",
-   "title": "Ghostwriters haunted by AI as commissions fall and machine-written manuscripts rise",
-   "source": "The Bookseller",
-   "category": "books",
-   "published_iso": "2026-10-09T07:00:00Z",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/shutterstock_1375959746.jpg",
-   "excerpt": "Ghostwriters tell The Bookseller that commissions are falling as prospective authors experiment with generative AI, while others are increasingly asked to rework AI-generated manuscripts."
-  },
-  {
-   "url": "https://www.thebookseller.com/news/english-language-exports-ai-and-travel-chaos-lead-fbf-2026-conversations",
-   "title": "Frankfurt Book Fair 2026: English language exports, AI and travel chaos lead conversations",
-   "source": "The Bookseller",
-   "category": "books",
-   "published_iso": "2026-10-09T15:00:00Z",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/680/Sven-Regener-Literaturbuhne-FBM26-3.jpg",
-   "excerpt": "Late-fair wrap: English-language exports, the industry-wide impact of AI, 'travel chaos' missed meetings and the new hall configuration were the most hotly debated topics at this year's Frankfurt Book Fair."
-  },
-  {
-   "url": "https://www.thebookseller.com/comment/an-editors-first-read-must-not-be-outsourced-to-ai",
-   "title": "An editor's first read must not be outsourced to AI",
-   "source": "The Bookseller",
-   "category": "books",
-   "published_iso": "2026-10-08T07:45:00Z",
-   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Book_editor_c_Shutterstock_Main.jpg",
-   "excerpt": "Comment: used too early in the editorial workflow, AI can suppress an editor's vital but indefinable first-read instincts, argues copy editor Adnan Algin."
-  },
-  {
-   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html",
-   "title": "Frankfurt Book Fair 2026: Audible Wants to Turn Every Book into an Audiobook",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-10-09T04:00:00Z",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132076-1.PNG",
-   "excerpt": "Audible CCO Rachel Ghiazza says the company expects to use AI tools across the entire audiobook production process to reach 'every book in every language', and will launch in Indonesia, South Korea, Denmark, Norway and Finland in 2027."
-  },
-  {
-   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
-   "title": "Frankfurt Book Fair 2026: Publishing Jobs Will Adapt to AI, Not Disappear",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-10-08T04:00:00Z",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG",
-   "excerpt": "Bloomsbury founder Nigel Newton called the idea that AI will take all publishing jobs 'rubbish', but panelists agreed entry-level roles may vanish, staff need retraining and new roles will emerge."
-  },
-  {
-   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101471-frankfurt-book-fair-2026-three-views-of-innovation.html",
-   "title": "Frankfurt Book Fair 2026: Three Views of Innovation",
-   "source": "Publishers Weekly",
-   "category": "books",
-   "published_iso": "2026-10-08T04:00:00Z",
-   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131992-1.PNG",
-   "excerpt": "The CEOs of Sourcebooks, Abrams and Perfect Bound on implementing AI in legacy publishing: Stable and Perfect Bound have adopted AI across accounting, marketing and production, with one CEO calling AI 'the worst thing that has happened to humanity' yet necessary to compete."
-  },
   {
    "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-eu-ai-act-gives-publishers-leverage-but-no-teeth/",
    "title": "Frankfurter Buchmesse 2026: EU AI Act Gives Publishers Leverage, but No Teeth",
    "source": "Publishing Perspectives",
-   "category": "books",
-   "published_iso": "2026-10-09T08:56:49Z",
+   "published_iso": "2026-10-09T08:56:49+00:00",
    "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AI_PANEL-scaled.jpg",
-   "excerpt": "Specialists at Frankfurter Buchmesse said the EU's AI rules help rights holders on paper yet lack penalties for AI developers and incentives for researchers."
+   "excerpt": "A Frankfurt panel on trust in science in the age of AI concluded that the EU AI Act helps rights holders on paper, but it has no penalties for AI developers and gives researchers no incentives.",
+   "category": "books",
+   "source_lang": "en",
+   "off_list": false
   },
   {
    "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
    "title": "Frankfurter Buchmesse 2026: Audible-Commissioned Survey Finds Audio Sends Readers Back to Print; Half Would Try AI Narration",
    "source": "Publishing Perspectives",
-   "category": "books",
-   "published_iso": "2026-10-09T09:01:08Z",
+   "published_iso": "2026-10-09T09:01:08+00:00",
    "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/AUDIBLE.png",
-   "excerpt": "An Audible survey by NielsenIQ across 11 markets finds audiobooks pull listeners toward print and e-books, and half of respondents are open to AI-narrated content (42% Germany to 66% Japan). Same Audible presser as PW 101500."
+   "excerpt": "A NielsenIQ survey for Audible across 11 markets finds that audiobooks lead listeners back to print and e-books, and that about half of respondents would try AI narration, with more interest for fiction. Audible has not detailed the methodology.",
+   "category": "books",
+   "source_lang": "en",
+   "off_list": false
   },
   {
-   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/",
-   "title": "Frankfurter Buchmesse 2026: Tonies Bets On a Kids' Audio Future that Is Screenless, Serialized, with Content (Often) Made In-house",
+   "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+   "title": "Frankfurter Buchmesse 2026: ENLIT Network Provides Support for European Literary Translation and Translators",
    "source": "Publishing Perspectives",
+   "published_iso": "2026-10-08T10:24:21+00:00",
+   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-10.54.10-PM-710x419.png",
+   "excerpt": "European translation-funding bodies say literary translators currently have strong support, but AI makes their position fragile. Speakers framed AI as a dictionary-like tool that still cannot handle humor, emotion or voice.",
    "category": "books",
-   "published_iso": "2026-10-08T10:18:08Z",
-   "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-07-at-11.51.16-PM.png",
-   "excerpt": "Tonies trialed an AI 'storyteller' with 3,000 households generating personalized children's stories, and 85% of staff use AI daily, but CEO Tobias Wann insists the Toniebox 'will never become an AI toy'."
+   "source_lang": "en",
+   "off_list": false
   },
   {
-   "url": "https://www.boersenblatt.net/home/datenturbo-ki-fuer-metadaten-444515",
-   "title": "Datenturbo: KI für Metadaten",
-   "source": "Börsenblatt",
+   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101481-frankfurt-book-fair-2026-publishing-jobs-will-adapt-to-ai-not-disappear.html",
+   "title": "Frankfurt Book Fair 2026: Publishing Jobs Will Adapt to AI, Not Disappear",
+   "source": "Publishers Weekly",
+   "published_iso": "2026-10-08T00:00:00-04:00",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132011-1.PNG",
+   "excerpt": "Bloomsbury founder Nigel Newton called the idea that AI will take all publishing jobs 'rubbish'. His panel still agreed that entry-level roles may disappear, staff will need retraining and new roles will emerge.",
    "category": "books",
-   "published_iso": "2026-10-08T09:08:45+02:00",
-   "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/gruenderteam_snackz_copyright_edge_studio_berlin.png_preview.jpg?h=b6717701&itok=nFwLT3EJ",
-   "excerpt": "Berlin start-up Snackz turns book-trade requirements into an AI offering for publishers and retailers, from metadata management to an online-shop chatbot."
+   "source_lang": "en",
+   "off_list": false
   },
   {
-   "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849",
-   "title": "Neues Label: \"Von Menschen gemacht\"",
-   "source": "Börsenblatt",
+   "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101471-frankfurt-book-fair-2026-three-views-of-innovation.html",
+   "title": "Frankfurt Book Fair 2026: Three Views of Innovation",
+   "source": "Publishers Weekly",
+   "published_iso": "2026-10-08T00:00:00-04:00",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131992-1.PNG",
+   "excerpt": "The CEOs of Sourcebooks, Abrams and Perfect Bound describe using AI in accounting, marketing and production for labor-heavy back-end work. One of them called AI 'the worst thing that has happened to humanity' while still saying publishers must engage with it.",
    "category": "books",
-   "published_iso": "2026-10-05T10:19:40+02:00",
-   "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/logo_von_menschen_geschrieben_gestaltet_geprueft%20Kopie.jpg?h=6f727fa6&itok=EEkAbAuJ",
-   "excerpt": "18 German-language children's and YA publishers launch a 'Von Menschen - geschrieben - gestaltet - geprüft' label certifying that text, illustration and design are human-made and editorially checked. (Distinct from UK Books By People mark.)"
+   "source_lang": "en",
+   "off_list": false
   },
   {
-   "url": "https://www.buchmesse.de/en/press/press-releases/2026-10-09-frankfurter-buchmesse-2026-report-after-two-days-fair",
-   "title": "Frankfurter Buchmesse 2026: Report after two days of the fair",
-   "source": "Frankfurter Buchmesse",
+   "url": "https://www.thebookseller.com/news/english-language-exports-ai-and-travel-chaos-lead-fbf-2026-conversations",
+   "title": "Frankfurt Book Fair 2026: English language exports, AI and travel chaos lead conversations",
+   "source": "The Bookseller",
+   "published_iso": "2026-10-09T15:00:00Z",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/680/Sven-Regener-Literaturbuhne-FBM26-3.jpg",
+   "excerpt": "The Bookseller's Frankfurt wrap says English-language exports, the industry-wide impact of AI, meetings missed to travel chaos, and the new hall layout dominated this year's fair. The body is behind a login wall, so the AI angle is confirmed only from the og:description.",
    "category": "books",
-   "published_iso": "2026-10-09T10:00:00+02:00",
-   "og_image": "",
-   "excerpt": "Official interim report: 65,000 trade visitors from 130 countries, new hall layout, and 'AI dominates the conversation' across CEO talks (Tonies, Bloomsbury) and the opening event. Date from release URL slug; no og:image."
+   "source_lang": "en",
+   "off_list": false
+  },
+  {
+   "url": "https://goodereader.com/blog/audiobooks/audible-launches-character-guide-interactive-stories-and-visual-explore",
+   "title": "Audible Launches Character Guide, Interactive Stories, and Visual Explore",
+   "source": "Good e-Reader",
+   "published_iso": "2026-10-02T05:29:05+00:00",
+   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/01220325/Audible-New-Features.png",
+   "excerpt": "Audible is launching three AI-powered features: a Character Guide that shows who is speaking, Interactive Stories that let listeners talk to characters using generative AI and conversational design, and Visual Explore for a story's world.",
+   "category": "books",
+   "source_lang": "en",
+   "off_list": false
   },
   {
    "url": "https://www.thecreativepenn.com/2026/10/07/from-story-seeds-to-stories-and-writing-an-authors-note-with-joanna-penn/",
    "title": "From Story Seeds To Stories, And Writing An Author's Note, With Joanna Penn",
    "source": "The Creative Penn",
+   "published_iso": "2026-10-07T06:30:00+00:00",
+   "og_image": "https://www.thecreativepenn.com/wp-content/uploads/2026/10/Joanna-Penn-writing-short-stories.png",
+   "excerpt": "Joanna Penn argues that when whole stories can be generated from one prompt, an author's note becomes a way to show the human source of a work. The intro also covers the new KDP upload cap and the AI-related Digital Publishing Awards.",
    "category": "books",
-   "published_iso": "2026-10-07T07:30:00+01:00",
-   "og_image": "",
-   "excerpt": "Joanna Penn on turning story ideas into fiction and why an author's note matters more in an age of AI (podcast episode)."
+   "source_lang": "en",
+   "off_list": false
   },
   {
-   "url": "https://goodereader.com/blog/audiobooks/audible-will-launch-in-new-countries-in-2027",
-   "title": "Audible will launch in new countries in 2027",
-   "source": "Good e-Reader",
+   "url": "https://selfpublishingadvice.org/podcast-amazon-cuts-kdp-uploads-to-two-titles-a-week/",
+   "title": "News Podcast: Amazon Cuts KDP Uploads to Two Titles a Week; Study Backs AI Detector Accuracy",
+   "source": "Alliance of Independent Authors (ALLi)",
+   "published_iso": "2026-10-02T12:00:58+00:00",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/AskALLi-Podcast-Twitter-Banner-News.jpg",
+   "excerpt": "Since September 21, Amazon KDP has allowed two new titles per format per week, down from ten. ALLi reads this as another move against the flood of AI-generated books. The episode also covers a study backing the Pangram AI detector and SCBWI's tougher AI policy.",
+   "off_list": true,
    "category": "books",
-   "published_iso": "2026-10-09T17:28:04Z",
-   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/09132718/DSC05151_1__2_.png",
-   "excerpt": "Audible will launch localized listener experiences in Indonesia, South Korea, Denmark, Norway and Finland next year. Duplicate of PW 101500 Audible story; alternate only."
+   "source_lang": "en"
   },
   {
-   "url": "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader",
-   "title": "How to Listen to Kindle Books With CastReader",
-   "source": "Good e-Reader",
+   "url": "https://selfpublishingadvice.org/openai-moves-to-strike-ai-market-study/",
+   "title": "News Summary: OpenAI Moves to Strike AI Market Study; BISG Survey Shows Indies Use AI Mainly for Marketing",
+   "source": "Alliance of Independent Authors (ALLi)",
+   "published_iso": "2026-10-08T12:00:37+00:00",
+   "og_image": "https://selfpublishingadvice.org/wp-content/uploads/2026/10/News-October-8.jpg",
+   "excerpt": "In the authors' copyright case, OpenAI asked the court to strike Tuhin Chakrabarty's study of generative AI's impact on the book market. Separately, a BISG survey finds indie authors lead the industry in using AI, mainly for marketing.",
+   "off_list": true,
    "category": "books",
-   "published_iso": "2026-10-07T16:49:55Z",
-   "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/07124918/Kindle_Listening_Routes.png",
-   "excerpt": "Guide to CastReader, which reads Kindle books aloud with cloud AI voices and an 'AI Explain' feature. Low priority: how-to, possibly sponsored."
+   "source_lang": "en"
+  },
+  {
+   "url": "https://www.boersenblatt.net/home/zwischenbilanz-der-buchmesse-65000-fachbesucher-445025",
+   "title": "Zwischenbilanz der Buchmesse: 65.000 Fachbesucher!",
+   "source": "Börsenblatt",
+   "published_iso": "2026-10-09T19:08:22+02:00",
+   "og_image": "https://www.boersenblatt.net/sites/default/files/styles/facebook/public/2026-10/agora_fbm26_impressionen.jpg?h=9f416ad4&itok=Zc6n6mvX",
+   "excerpt": "Frankfurt's interim report counts 65,000 trade visitors in the first two days, level with last year. It says AI dominated the conversation, with CEOs on stage discussing its role; one called AI 'just another storm' the industry will weather.",
+   "source_lang": "de",
+   "category": "books",
+   "off_list": false
   }
- ],
- "expansion": {
-  "method": "RSS/listing harvest across 23 allowed_domains feeds + Bookseller/PW/Börsenblatt/Buchmesse listing pages; 4 WebSearch calls (2 rejected for blocked domains)",
-  "added_keywords": [
-   "KI (German)",
-   "Metadaten",
-   "Von Menschen gemacht",
-   "ghostwriting AI",
-   "AI narration survey",
-   "AI storyteller kids audio",
-   "EU AI Act publishers"
-  ],
-  "notes": "Pool genuinely thin: Kindlepreneur/teleread/publishers.org/authorsguild feeds stale or non-AI; the-digital-reader feed is SEO spam; Kindle/Audible character features already published (techcrunch 10-01). No Korean on-list outlets."
- }
+ ]
 }

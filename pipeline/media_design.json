@@ -1,31 +1,32 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "design",
   "media": [
     {
-      "id": "runway-claude-motion",
+      "id": "synthetic-users-uxr",
       "type": "image",
-      "src": "pipeline/media/runway-claude-motion.png"
+      "src": "pipeline/media/synthetic-users-uxr.png"
     },
     {
-      "id": "aws-physical-ai-toolchain",
+      "id": "agent-permission-preview",
       "type": "image",
-      "src": "pipeline/media/aws-physical-ai-toolchain.jpg"
+      "src": "pipeline/media/agent-permission-preview.png"
     },
     {
-      "id": "instinct-agent-handson",
+      "id": "grok-imagine-vercel",
       "type": "image",
-      "src": "pipeline/media/instinct-agent-handson.jpg"
+      "src": "pipeline/media/grok-imagine-vercel.png"
     },
     {
-      "id": "nvidia-simready-assets",
-      "type": "image",
-      "src": "pipeline/media/nvidia-simready-assets.jpg"
+      "id": "atlas-hand-sim",
+      "type": "video",
+      "src": "pipeline/media/atlas-hand-sim.mp4",
+      "poster": "pipeline/media/atlas-hand-sim.jpg"
     },
     {
-      "id": "geometry-ui-diffing",
+      "id": "figma-ai-team-rituals",
       "type": "image",
-      "src": "pipeline/media/geometry-ui-diffing.png"
+      "src": "pipeline/media/figma-ai-team-rituals.png"
     }
   ]
 }

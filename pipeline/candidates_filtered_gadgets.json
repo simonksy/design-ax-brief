@@ -1,199 +1,151 @@
 {
-  "date": "2026-10-10",
   "section": "gadgets",
+  "date": "2026-10-11",
+  "now_iso": "2026-10-10T22:00:00Z",
   "window_hours": 336,
+  "expansion": [
+    "Apple Oct 13 home event / HomePod mini 2 / HomePad Siri AI",
+    "Alexa Tablets kids AI Storybuilder, Panos Panay Alexa design language",
+    "local LLM + Home Assistant, AI mini PC (Strix Halo)",
+    "Samsung Intelligent Eyewear (Android XR + Gemini), Meta glasses retail/driver deployments, Muse gadget SDK",
+    "AI bird feeder camera, GenAI robot safety, recycling robot",
+    "Gemini on Android Auto / Assistant migration, Guided Vision Gemini Live",
+    "Engadget Oct-2026 sitemap sweep, 2 WebSearch fills (2 more errored on blocked domains)"
+  ],
   "items": [
     {
-      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
-      "source": "9to5Google",
+      "url": "https://www.macrumors.com/2026/10/10/apple-to-announce-new-homepod-mini-next-week/",
+      "title": "Apple Announcing HomePod Mini 2 Next Week With These New Features",
+      "source": "MacRumors",
       "category": "gadgets",
-      "published_iso": "2026-10-09T15:30:56+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-watch-5-create-face-1.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Pixel Watch 4 update brings Google's generative AI watch face generator (previously a Pixel Watch 5 feature) to last year's watch, along with other additions.",
+      "published_iso": "2026-10-10T13:55:00+00:00",
+      "og_image": "https://images.macrumors.com/t/1C72SfBAxiCrOAKNrC10yeLFYWw=/2500x/article-new/2026/09/HomePod-minis-on-gradient-feature.jpg",
+      "excerpt": "Apple reportedly plans to unveil a new HomePod mini as part of the \"Welcome home\" experience it announced for Tuesday, October 13. We expect the new HomePod mini to be announced in a press release shared on the Apple Newsroom website at around 9 a.m. Eastern Time on that day, and hands-on photos and videos should surface shortly afterwards.",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.211,
-        "date": "2026-09-19",
-        "url": "https://www.macrumors.com/2026/09/18/apple-watch-series-12-hands-on/",
-        "title": "Hands-On With the Apple Watch Series 12",
+        "score": 0.178,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+        "title": "Apple is set to show off new smart home devices at an October 13 event",
         "band": "related"
       }
     },
     {
-      "url": "https://9to5google.com/2026/10/09/next-gen-google-tv-streamer/",
-      "source": "9to5Google",
+      "url": "https://www.xda-developers.com/connected-local-llm-gmail-calendar-home-assistant-finally-became-useful/",
+      "title": "I connected my local LLM to Gmail, Calendar, and Home Assistant, and it finally became useful",
+      "source": "XDA Developers",
       "category": "gadgets",
-      "published_iso": "2026-10-09T20:30:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2024/09/Google-TV-Streamer-design-and-hardware-12.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "9to5Google reports a next-generation Google TV Streamer is in development with built-in microphones, presence sensing and a new remote, pointing to a hands-free Gemini-for-Home living-room device.",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-10-02",
-        "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
-        "title": "Gemini for Home is now better at hearing you in noisy rooms",
-        "band": "related"
-      }
+      "published_iso": "2026-10-10T18:00:18Z",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/1791634146631.jpg?w=1600&h=900&fit=crop",
+      "excerpt": "It can now actually be productive.",
+      "source_lang": "en"
     },
     {
-      "url": "https://9to5google.com/2026/10/07/xreal-aura-with-android-xr-start-at-1279/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-07T13:35:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/06/xreal-aura-android-xr-1.webp?resize=1200,628",
-      "excerpt": "XREAL's first Android XR glasses, XREAL Aura, get official pricing starting at $1,279, putting Google's Gemini-powered XR platform into a shipping glasses product.",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-09-19",
-        "url": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
-        "title": "Unseen Reality XR Glasses Secures $1.2M in Successful Kickstarter",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable",
+      "url": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+      "title": "My brief romance with an AI bird feeder",
       "source": "The Verge",
       "category": "gadgets",
-      "published_iso": "2026-10-09T13:36:02+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268755_Google_event_HP_Googlebook_14_ADiBenedetto_0003.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "The Verge's staff share four notes after a week testing Gemini-first Googlebook laptops, finding the hardware solid but the AI-centric software vibes 'a bit off.'",
+      "published_iso": "2026-10-10T07:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/IMG_5464.jpeg?quality=90&strip=all&crop=0%2C15.091603314391%2C100%2C69.816793371218&w=1200",
+      "excerpt": "Tits, pigeons, and mice, oh my!",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+      "title": "Siri AI beats Gemini at the thing that matters most",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-10T10:00:09+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/06/siri-ai-vs-gemini-ai-2-e1781538601462-500w-260h.jpg",
+      "excerpt": "Making my life easier.",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.199,
+        "score": 0.161,
+        "date": "2026-09-27",
+        "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+        "title": "Apple is making your security camera smarter. What comes next is more interesting.",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.androidauthority.com/gemini-vs-google-assistant-complaints-3721074/",
+      "title": "Users say ‘Gemini as the Google Assistant is a disaster’",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-09T06:08:58+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2025/05/choosing-between-google-assistant-and-gemini-on-a-smartphone-scaled.jpg",
+      "excerpt": "Google forced Gemini on Assistant users, and they're not happy about it.",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.264,
+        "date": "2026-10-03",
+        "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+        "title": "Gemini fully replaces Google Assistant on Android",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.cnet.com/tech/im-way-too-excited-for-apples-home-event-and-how-it-will-level-up-my-siri-experience/",
+      "title": "I'm Way Too Excited for Apple's Home Event and How It Will Level Up My Siri Experience - CNET",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-09T08:05:06-04:00",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Opt-1_Clean.png",
+      "excerpt": "But what do we do now with these old \"dumb Siri\" HomePods?",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.24,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2281263/apple-is-set-to-show-off-new-smart-home-devices-at-an-october-13-event/",
+        "title": "Apple is set to show off new smart home devices at an October 13 event",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/09/homepad-is-coming-next-week-with-three-features-ive-long-wanted/",
+      "title": "‘HomePad’ is coming next week, with three features I’ve long wanted",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-09T19:02:07+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2025/06/homepad-white-hello-homepod.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple’s long-rumored ‘HomePad’ product is coming next week, with three features I’ve been waiting a long time for.",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.219,
         "date": "2026-09-22",
-        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-        "title": "These are the first five Googlebook laptops",
+        "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+        "title": "Apple Smart Home Display Coming as Soon as Next Month",
         "band": "related"
       }
     },
     {
       "url": "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
+      "title": "I tested MSI's Pro Max Edge AI+ mini PC and its offline AI is off the charts",
       "source": "TechRadar",
       "category": "gadgets",
       "published_iso": "2026-10-09T19:11:42Z",
       "og_image": "https://cdn.mos.cms.futurecdn.net/DzVywPyA6m57Q4hC3e2CS9-1200-80.jpg",
-      "excerpt": "TechRadar reviews MSI's Pro Max Edge AI+, a mini PC built for local AI with AMD Ryzen AI Max+ 395, Radeon 8060S graphics and a 50-TOPS NPU, praising its offline AI performance.",
-      "cluster": "c4"
-    },
-    {
-      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T19:00:45Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NwkVJu2rkcHq8auFoUDAs3-2000-80.jpg",
-      "excerpt": "Pre-orders are now live for Nvidia RTX Spark laptops starting at $2,599; TechRadar picks three Blackwell-powered machines for running local AI.",
+      "excerpt": "The MSI Pro Max Edge AI+ is a mini PC with a difference. Built for local AI, it features the AMD’s Ryzen AI Max+ 395, Radeon 8060s graphics and a 50-TOPS NPU.",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.177,
-        "date": "2026-10-03",
-        "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less",
-        "title": "Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse — new GB10 config starts at $4999 for those who can work with less",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.tomsguide.com/computing/cpus/i-didnt-believe-an-nvidia-rtx-spark-laptop-would-have-the-same-performance-both-on-and-off-the-charger-so-i-put-it-to-the-test",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T09:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/ncUsQrKhMKyB9b3W5dXtL9-2550-80.jpg",
-      "excerpt": "Tom's Guide tests Nvidia's claim that RTX Spark AI laptops deliver the same performance plugged in and on battery, and finds the claim holds up."
-    },
-    {
-      "url": "https://www.pcworld.com/article/3255332/acer-googlebook-review.html",
-      "source": "PCWorld",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T13:00:00Z",
-      "og_image": "https://www.pcworld.com/wp-content/uploads/2026/10/3255332-0-28139200-1791562995-Untitled-design-34-7.jpg?quality=50&strip=all&w=1024",
-      "excerpt": "PCWorld reviews the Acer Googlebook 14: a great premium laptop whose Gemini-powered Magic Pointer turned out less annoying than expected, though the AI isn't its best part.",
-      "history_match": {
-        "score": 0.251,
-        "date": "2026-09-27",
-        "url": "https://www.androidauthority.com/googlebook-magic-pointer-local-cloud-processing-3715403/",
-        "title": "Here's what Magic Pointer processes on your Googlebook — and what goes online",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=63471",
-      "source": "THE ELEC",
-      "category": "gadgets",
-      "published_iso": "2026-10-08T13:44:03+09:00",
-      "og_image": "https://cdn.thelec.kr/news/photo/202610/63471_49951_2732.jpg",
-      "excerpt": "Dell, Microsoft and others are launching laptops built on Nvidia's RTX Spark superchip, opening a 'personal AI supercomputer' laptop category that challenges Intel's x86 dominance."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T18:07:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/ibuypower-ryzen-495-kv.jpg",
-      "excerpt": "iBuyPower launches the Pro AMD AI Halo Mini PC with Ryzen AI Max+ Pro 495, 128 GB RAM, dual USB4 and dual 10 GbE for local AI workloads.",
-      "history_match": {
-        "score": 0.273,
+        "score": 0.158,
         "date": "2026-09-29",
         "url": "https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425",
         "title": "Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099",
         "band": "related"
-      },
-      "cluster": "c4"
-    },
-    {
-      "url": "https://www.notebookcheck.net/Motorola-Razr-Ultra-2026-Android-17-update-brings-programmable-AI-key-themed-icons-and-more.1419198.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-08T16:01:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Motorola-Razr-Ultra-2026.jpg",
-      "excerpt": "Motorola Razr Ultra 2026 owners are receiving Android 17, which adds a programmable AI key, themed icons and enhanced security to the clamshell foldable."
-    },
-    {
-      "url": "https://www.windowscentral.com/accessories/mice/the-razer-basilisk-v4-pro-maintains-the-glowing-reputation-of-its-predecessors-as-one-of-the-best-gaming-mice-around-but-i-wish-it-didnt-have-ai",
-      "source": "Windows Central",
-      "category": "gadgets",
-      "published_iso": "2026-10-08T15:01:05Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jtzxHmg7MXAR6pQYQzUU9K-2448-80.jpg",
-      "excerpt": "Windows Central reviews the Razer Basilisk V4 Pro: still a top gaming mouse, but it ships with an out-of-the-box AI button binding the reviewer says nobody asked for."
-    },
-    {
-      "url": "https://www.xda-developers.com/ran-entire-ai-workflow-locally-for-week-learned-what-actually-needs-cloud/",
-      "source": "XDA Developers",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T20:00:17Z",
-      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/reasons-to-use-cloud-ai-over-local-ai.jpg?w=1600&h=900&fit=crop",
-      "excerpt": "An XDA writer runs an entire AI workflow on local hardware for a week, reporting surprising wins and frustrating limits that show what still needs the cloud."
-    },
-    {
-      "url": "https://www.therobotreport.com/why-humanoid-robot-demos-still-fail-the-generalization-test/",
-      "source": "The Robot Report",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T19:28:41+00:00",
-      "og_image": "https://www.therobotreport.com/wp-content/uploads/2026/10/episode-265-cover-image.jpg",
-      "excerpt": "Humanoid robot demos still fail to generalize to real homes and workplaces; The Robot Report argues better data and human judgment are needed to move beyond staged demos."
-    },
-    {
-      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max",
-      "source": "The Verge",
-      "category": "gadgets",
-      "published_iso": "2026-10-08T14:00:22+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/LR6B6002-3.jpg?quality=90&strip=all&crop=0%2C10.736553697403%2C100%2C78.526892605194&w=1200",
-      "excerpt": "A year living with Alexa Plus across Echo Show, Dot and Max: Amazon's generative-AI assistant is better at running the smart home, but not yet ready to run your life - and it now comes with ads.",
-      "note": "Alexa+ long-term review (steer allows Alexa+ reviews; not the tablet launch).",
-      "recovery": true,
-      "history_match": {
-        "score": 0.158,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
       }
     },
     {
-      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
-      "source": "Gizmodo",
+      "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/dutch-eyewear-giant-becomes-first-retailer-to-halt-meta-ray-ban-sales-hans-anders-pulls-smart-glasses-from-400-stores-due-to-questions-being-raised-about-the-tech",
+      "title": "Dutch eyewear company is the first retailer to pull Meta’s Ray-Ban smart glasses from over 400 stores due to ‘questions being raised’ about the technology",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-10-07T23:00:13+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-02-1200x675.jpg",
-      "excerpt": "Gizmodo reviews the $449 Ray-Ban Meta Gen 3 AI glasses: same camera and AI feature set as before, but Meta's new Muse model is a significant upgrade to the on-glasses assistant; spatial audio arrives via the Meta AI app.",
-      "note": "Different from 10-05 Ray-Ban Meta Audio story; hands-on review of Gen 3 hardware + Muse AI.",
-      "recovery": true,
+      "published_iso": "2026-10-05T13:16:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Rk5WTTkSLECVpVoXemmSyX-1920-80.jpg",
+      "excerpt": "The eyewear retailer has pulled the smart glasses from stores following growing concerns over the public use of the tech.",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.345,
+        "score": 0.217,
         "date": "2026-10-06",
         "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
         "title": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses",
@@ -201,80 +153,195 @@
       }
     },
     {
-      "url": "https://9to5mac.com/2026/10/08/heres-everything-new-for-apples-home-app-in-ios-27/",
-      "source": "9to5Mac",
+      "url": "https://www.tomsguide.com/computing/laptops/acer-googlebook-14-review",
+      "title": "The Acer Googlebook 14 is a fantastic 2-in-1 laptop — but this one thing holds it back",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-08T19:11:19+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/06/apple-home-app-icon-ios-27.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "iOS 27 brings Apple Intelligence-powered features to the Home app for HomeKit Secure Video cameras, including AI highlights of important moments and real-time updating notifications, plus 4K video support.",
-      "note": "Shipping feature, not pre-event rumor. Related older ledger item 2026-07-08 (Apple charging for AI camera features).",
-      "recovery": true,
+      "published_iso": "2026-10-10T06:30:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/tUwiNpGuphNpNeqaioxvoK-2560-80.jpg",
+      "excerpt": "Great laptop, questionable operating system",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.204,
-        "date": "2026-09-15",
-        "url": "https://www.macrumors.com/2026/09/14/ios-27-ai-camera-summaries/",
-        "title": "iOS 27 AI Camera Summaries Cost $9.99 for One Camera, $59.99 for Five",
+        "score": 0.324,
+        "date": "2026-09-22",
+        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
+        "title": "These are the first five Googlebook laptops",
         "band": "related"
       }
     },
     {
-      "url": "https://9to5mac.com/2026/10/07/apple-may-have-to-officially-support-apple-intelligence-removal-on-macs-to-protect-sales/",
-      "source": "9to5Mac",
+      "url": "https://www.tomsguide.com/ai/amazons-delivery-drivers-are-getting-ai-glasses-and-thats-the-least-unsettling-ai-in-the-job",
+      "title": "Amazon drivers are getting AI smart glasses — but my warehouse tour reveals their 1-million strong automated robot workforce is the real story",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-07T11:39:57+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2024/10/macbook-air-apple-intelligence.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "An unofficial tool lets Mac owners switch off Apple Intelligence and delete downloaded on-device Siri AI models; growing anti-AI pushback and storage concerns may force Apple to offer an official removal option to protect hardware sales.",
-      "note": "Opinion/analysis framing; on-device AI model storage angle.",
-      "recovery": true
+      "published_iso": "2026-10-04T06:45:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/wWnsMAN2otL4aWGx4NxeQa-1672-80.png",
+      "excerpt": "The glasses aren't what we should be worried about",
+      "source_lang": "en"
     },
     {
-      "url": "https://www.theverge.com/tech/1006622/google-pixel-buds-pro-2-2a-update-sleep-dynamic-anc-tap-to-mute",
-      "source": "The Verge",
+      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+      "title": "Can Safeworld convince people that GenAI robots won't hurt them?",
+      "source": "TechCrunch",
       "category": "gadgets",
-      "published_iso": "2026-10-07T12:01:22+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25640459/DSC_0133.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Pixel Buds Pro 2 and Buds 2a update adds Gemini voice commands for ANC/EQ control, one-tap live translation with a Pixel phone, sleep detection auto-pause and tap-to-mute.",
-      "note": "POSSIBLE REPEAT: ledger has 9to5google 2026-09-28 pixel-buds-gemini-controls (likely the announcement); this is the rollout. Low priority.",
-      "recovery": true,
+      "published_iso": "2026-10-05T12:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Safeworld-Co-founders.jpg?resize=1200,800",
+      "excerpt": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "title": "Danu Robotics' fight to build a better recycling robot",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-09T16:45:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Guarding-installed.jpeg?resize=1200,900",
+      "excerpt": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "source": "Google Blog",
+      "category": "gadgets",
+      "published_iso": "2026-10-01T16:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.width-1300.png",
+      "excerpt": "Guided Vision in Gemini Live is built alongside the blind and low-vision community and offers real-time visual assistance.",
+      "source_lang": "en",
       "history_match": {
-        "score": 0.328,
-        "date": "2026-09-29",
-        "url": "https://9to5google.com/2026/09/28/pixel-buds-gemini-controls/",
-        "title": "Pixel Buds app update lets Gemini control audio and settings",
+        "score": 0.265,
+        "date": "2026-10-02",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "title": "Google’s new Guided Vision feature can help you read the fine print",
         "band": "related"
       }
     },
     {
-      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/",
-      "source": "CNET",
+      "url": "https://9to5google.com/2026/10/02/gemini-for-android-auto-is-just-giving-up-on-answers-for-some-drivers/",
+      "title": "Gemini for Android Auto is just giving up on answers for some drivers",
+      "source": "9to5Google",
       "category": "gadgets",
-      "published_iso": "2026-10-08T11:21:08-04:00",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/smart_contacts.jpg",
-      "excerpt": "CNET interviews the founders of Dubai-based Xpanceo, which has spent five years building AI-powered smart contact lenses - 'an AI helper directly on your cornea' - that could arrive as soon as 2030.",
-      "note": "Future-device interview; AI substantive in body.",
-      "recovery": true
+      "published_iso": "2026-10-02T19:45:00+00:00",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/04/Ask-Gemini-on-Android-Auto.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "The promise of Gemini for Android Auto is huge, as the AI assistant is theoretically more capable than Assistant was....",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.201,
+        "date": "2026-10-03",
+        "url": "https://9to5google.com/2026/09/28/google-assistant-gemini-android/",
+        "title": "Gemini fully replaces Google Assistant on Android",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://news.samsung.com/global/samsung-introduces-galaxy-tab-s12-series-the-ultimate-productivity-powerhouse-built-for-growth",
+      "title": "Samsung Introduces Galaxy Tab S12 Series: The Ultimate Productivity Powerhouse Built for Growth - Samsung Global Newsroom",
+      "source": "Samsung Newsroom",
+      "category": "gadgets",
+      "published_iso": "2026-09-30T21:00:00+09:00",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/09/28123529/Samsung-Mobile-Galaxy-Tab-S12-Series_Thumb932.jpg",
+      "excerpt": "Packed into a remarkably slim, durable design with sustained peak performance, long-lastin",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://www.uploadvr.com/body-proxy-is-a-unique-ray-ban-meta-game-from-tender-claws/",
+      "title": "Body Proxy Is A Unique Meta Smart Glasses Game From Tender Claws",
+      "source": "UploadVR",
+      "category": "gadgets",
+      "published_iso": "2026-09-28T21:38:41.000Z",
+      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/size/w1200/2026/09/IMG_9745-1.jpeg",
+      "excerpt": "Body Proxy is a unique location-based game that challenges players to impress AI while wearing Meta smart glasses.",
+      "source_lang": "en"
+    },
+    {
+      "url": "https://www.aboutamazon.com/news/devices/new-amazon-kids-tablets",
+      "title": "Amazon announces an all-new family of tablets designed just for kids",
+      "source": "About Amazon",
+      "category": "gadgets",
+      "published_iso": "2026-10-08T12:55:18.811Z",
+      "og_image": "https://assets.aboutamazon.com/dims4/default/a83dc46/2147483647/strip/true/crop/2000x1000+0+23/resize/1200x600!/quality/90/?url=https%3A%2F%2Fassets.aboutamazon.com%2Fb3%2F34%2F9d2f58c54f8ca89c10292d18195d%2Famazon-kidstablets-amazonnews-inline-ck10726.png",
+      "excerpt": "New Amazon Kids Tablets available in two models for younger and older kids",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.271,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.sammobile.com/news/samsung-intelligent-eyewear-smart-glasses-launch-next-month/",
+      "title": "Samsung could launch Intelligent Eyewear smart glasses next month",
+      "source": "SamMobile",
+      "category": "gadgets",
+      "published_iso": "2026-10-01T11:11:54+00:00",
+      "og_image": "https://www.sammobile.com/wp-content/uploads/2026/07/Samsung-Galaxy-Glass-Gentle-Monster-11.jpg",
+      "excerpt": "Samsung has already unveiled its first set of smart glasses, called Intelligent Eyewear. They will be available for purchase in November 2026.",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.197,
+        "date": "2026-09-22",
+        "url": "https://www.macrumors.com/2026/09/21/apple-smart-home-display-coming-next-month/",
+        "title": "Apple Smart Home Display Coming as Soon as Next Month",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.engadget.com/2280951/panos-panay-tease-neo-design-language-and-alexa-interface/",
+      "title": "Amazon's Panos Panay teases more Alexa-branded devices and a new design language",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-08T13:00:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/amazons-panos-panay-teases-more-alexa-branded-devices-and-a-new-design-language/l-intro-1791462104.jpg",
+      "excerpt": "More will be revealed later this month.",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.192,
+        "date": "2026-10-09",
+        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
+        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/",
+      "title": "Meta wants people to build their own Muse gadgets, too",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-02T20:27:14+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/meta-wants-people-to-build-their-own-gadgets-for-muse-too/l-intro-1790972593.jpg",
+      "excerpt": "The company also created its own smart home device, the Muse Home Link",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.315,
+        "date": "2026-10-03",
+        "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "band": "related"
+      }
+    },
+    {
+      "url": "https://www.engadget.com/2275255/iphone-siri-ai-can-index-more-personal-data-how-to-limit/",
+      "title": "Siri can index more of your personal data —  here's how to limit it",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-05T13:45:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/siri-can-index-more-of-your-personal-data-heres-how-to-limit-it/l-intro-1790890251.jpg",
+      "excerpt": "If you’re concerned about Apple’s new digital assistant, here’s how you can restrict its access to your data.",
+      "source_lang": "en"
     }
   ],
-  "expansion": {
-    "used": true,
-    "note": "Saturday light flow; feeds shallow. Added beyond plan: Googlebook/Magic Pointer, RTX Spark OEM laptops, Ryzen AI Max+ Pro 495 mini PC, AI Festa 2026 Korean NPU devices, Hisense AI Companion Suite, Razer AI button, Motorola AI key, Google TV Streamer presence sensing. Dropped: Fitbit Edge tease (no AI in body), Ultrahuman Heart Scan (no AI), Norway glasses ban / Galaxy Buds On (already in ledger), Blackview PlayPop (advertorial), AndroidAuthority Gemini-Assistant complaints (Cloudflare 403, time unverifiable), Alexa tablet repeats, Apple pre-event rumors, deal posts. digitaltrends/ddaily/venturebeat feeds blocked or empty; androidauthority blocked."
-  },
   "dedup": {
-    "dropped": 2,
-    "kept": 14,
+    "dropped": 0,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 11,
-    "same_story_pairs": [
-      [
-        "https://www.techradar.com/pro/msi-pro-max-edge-ai-mini-pc-review",
-        "https://www.notebookcheck.net/Powerful-new-mini-PC-launches-with-128-GB-RAM-dual-10-GbE-and-Ryzen-AI-Max-Pro-495.1420172.0.html",
-        0.316
-      ]
-    ]
+    "review": 14,
+    "same_story_pairs": []
   },
   "history_digest": [
     {
@@ -891,6 +958,31 @@
       "date": "2026-10-09",
       "title": "This $1599 smart monitor robotic arm has its own built-in PC, and its 27-inch 4K display will follow you around thanks to its binocular 3D sensor",
       "url": "https://www.techradar.com/pro/this-usd1599-smart-monitor-robotic-arm-has-its-own-built-in-pc-and-its-27-inch-4k-display-will-follow-you-around-thanks-to-its-binocular-3d-sensor"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Pixel Watch 4 update adds Google's AI watch face generator",
+      "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
+      "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Xpanceo's AI smart contact lenses put 'an AI helper on your cornea' as soon as 2030",
+      "url": "https://www.cnet.com/health/medical/smart-contact-lenses-here-soon-2030-what-they-do/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
+      "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "One year with Alexa Plus: better at the smart home, not ready to run your life, and now with ads",
+      "url": "https://www.theverge.com/tech/1007565/amazon-alexa-plus-review-one-year-echo-show-dot-max"
     }
   ]
 }

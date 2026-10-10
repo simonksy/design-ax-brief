@@ -7260,6 +7260,145 @@
           "x": "関連するPerspectiveで、Jeremy AvigadとMatthew Ballardは、失敗に終わったAIの証明の試みでさえ、著者らが問題をより深く理解し前進する助けになったと指摘している。"
         }
       ]
+    },
+    "science/science-chatbots-climate-status-quo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+          "cap": "写真：Matheus Bertelli / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Waterlooの研究者らは、11の大規模言語モデル(LLM)を対象に、気候関連の助言における現状維持バイアスを検証した。研究はEnvironmental Research Communicationsに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "車の購入、レシピ、住宅の暖房、気候政策のトレードオフといったテーマで7,500件を超える質問を評価し、約55,000件のプロンプトを作成した。政策のトレードオフが生じ得る場面では、モデルはユーザーの既存の決定を約二倍の頻度で後押しした。"
+        },
+        {
+          "t": "p",
+          "x": "モデルは既存の計画には約70%の割合で賛成したが、新しい計画や政策への賛成は34%にとどまった。地域的な要因を考慮しても、電気自動車を勧める頻度は各国ですでに売れている電気自動車の割合を下回った。"
+        },
+        {
+          "t": "p",
+          "x": "筆頭研究者のSeth Wynesは、新しいことをする理由をチャットボットに論じさせるようユーザーに勧めている。"
+        }
+      ]
+    },
+    "science/science-patent-attorney-ai-rct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "現役の弁理士を対象にした三か月間のランダム化比較試験で、David AutorとTanya Rodchenkoは、AIを日常的に使うと仕事の質が全般的に向上する一方、職場での学び(on-the-job learning)への効果は経験年数によって異なることを明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "チームは、当時未公開だったGoogle Labsの特許作成アシスタント(現在はGemini Notebookの一部)へのアクセスを、十一のIP法律事務所に所属する弁護士133人の間で無作為に割り当てた。AIへのアクセスにより、起草スコアは10日時点で0.34標準偏差、90日時点で0.38 SD上昇した。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+          "cap": "AIへのアクセスが特許起草とレッドライン作業の質に与えた推定効果(全体、ジュニア、シニア弁護士別)。"
+        },
+        {
+          "t": "p",
+          "x": "90日時点でAIなしに行ったレッドライン作業では、AIグループが対照群を0.32 SD上回ったが、その差はすべてシニア弁護士(0.45 SD)によるものだった。ジュニアには目立った改善が見られず、スコアは非常に低いものと良いものの両方が増える形で二極化した。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+          "cap": "経験別に見た、処置群と対照群の弁護士の平均レッドラインスコアの分布。"
+        },
+        {
+          "t": "p",
+          "x": "シニアは、AIの出力を「論理の監査役(logic auditor)」として扱ったと語った。著者らは、今日より良い仕事を生み出すツールが、ジュニアが明日の専門家になる道を妨げてはならないと警告する。"
+        }
+      ]
+    },
+    "science/science-quanta-math-ai-reckoning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+          "cap": "Eduardo Ramón for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "9月8日、OpenAIは自社のモデルが数学で最も有名な問題の一つを解いたと発表し、著者の資格や基準をめぐる論争を巻き起こした。多くの反応には悲しみや混乱、恐れがにじんでいた。スタートアップ(start-up)Axiom MathのKen OnoがBerkeleyで講演した際には、学生たちが怒りと苛立ちをあらわにした。"
+        },
+        {
+          "t": "p",
+          "x": "AIによる証明は検証済みでもほとんど読み解けず、数学者がやり取りしてきた理解が抜け落ちている。CaltechのTasmin Chuは「それは私たちの仕組みを壊す」と語った。OpenAIは100件を超える成果を非公開にしており、arXivは著者の投稿を月二本までに制限し、MathOverflowの活動は減っている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+        },
+        {
+          "t": "p",
+          "x": "University of TorontoのDaniel Littは「適応しなければ、50年後には数学がまったくなくなってしまう悪い未来がある」と語った。MITのPavel Etingofは、数学者がむしろAIの成果を解釈する役割を担うとみる。McGillのMarcel Gohのように、自らをAIの「ベジタリアン」と呼ぶ人もいる。"
+        },
+        {
+          "t": "p",
+          "x": "ChuらはAssociation for Human Mathematicsを結成し、数学者たちは教育や出版、採用のあり方を見直している。"
+        }
+      ]
+    },
+    "science/science-halzen-nobel-icecube-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+          "cap": "Francis Halzenは、AIのおかげで研究者がニュートリノのデータの中に「天の川を見る」ことができたと語った。"
+        },
+        {
+          "t": "p",
+          "x": "University of Wisconsin-Madisonのノーベル物理学賞受賞者Francis Halzen(82)は、トリノ(Turin)で、ニュートリノ研究にいち早くAIを取り入れようと訴えたことを誇らしげに語った。彼は南極の氷の中に5,484個の光学モジュールを備えたIceCubeの生みの親である。"
+        },
+        {
+          "t": "p",
+          "x": "「最初のニューラルネットは1980年代後半に登場した。1991年に、AIを使うことを提案する論文を書いたことをとても誇りに思う」と彼は実験データの解析について語った。ニューラルネットは、数年前に非常に強力なものが登場するまで、たまにしか使われなかった。"
+        },
+        {
+          "t": "p",
+          "x": "Halzenによれば、ニュートリノで見た空では、天の川ではなく他の銀河が見える。ニューラルネットワークによって「ようやくデータの中に天の川が見え始めた」という。彼は科学への資金面の圧力についても語った。IceCubeはU.S. National Science Foundation(米国立科学財団)から約$250 millionの資金を受けている。"
+        }
+      ]
+    },
+    "science/science-ai-help-persistence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "UC BerkeleyのCenter for Human-Compatible AIに所属するBrian Christianが共著者を務め、今週Conference on Language Modelingで発表された査読付き研究によると、AIツールにわずか10分頼るだけで、難しい課題に集中して粘り強く取り組む能力が大きく損なわれる。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームはオンライン参加者1,222人を対象にランダム化比較試験を行った。最初の試験では354人が分数の問題15問を解き、一方のグループはChatGPTを手元で使えた。AIグループは当初の正答率が高かったが、12問を解いた後にツールを取り上げると、正答率はほぼ即座に崩れた。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+          "cap": "AIグループの解答率(オレンジ)はツールを取り上げた後に低下し、問題を飛ばす割合は急上昇した。"
+        },
+        {
+          "t": "p",
+          "x": "667人を対象にした二つ目の試験と、201人がSATの読解問題に取り組んだ三つ目の試験でも同じ結果が出た。AIの支援がなくなると粘り強さと正答率は低下し、最初から支援を受けなかった人は課題を続けた。著者らは、AIが「生産的な苦闘(productive struggle)」を奪うとし、アシスタントは家庭教師のように教えることを標準にできると述べている。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+          "cap": "2026年10月7日、UC Berkeleyで研究について語るBrian Christian。"
+        },
+        {
+          "t": "p",
+          "x": "「これは分数やSATの問題の話ではない」とChristianは言う。「人間の知識と人間の専門性に、上から下まで起きていることだ」"
+        }
+      ]
     }
   }
 }

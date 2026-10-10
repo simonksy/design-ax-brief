@@ -1,31 +1,6 @@
-{
-  "date": "2026-10-10",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-audible-every-book-ai",
-      "type": "image",
-      "src": "pipeline/media/books-audible-every-book-ai.png"
-    },
-    {
-      "id": "books-wired-publishers-ai-staff-revolt",
-      "type": "image",
-      "src": "pipeline/media/books-wired-publishers-ai-staff-revolt.jpg"
-    },
-    {
-      "id": "books-von-menschen-label",
-      "type": "image",
-      "src": "pipeline/media/books-von-menschen-label.jpg"
-    },
-    {
-      "id": "books-ghostwriters-ai-commissions",
-      "type": "image",
-      "src": "pipeline/media/books-ghostwriters-ai-commissions.jpg"
-    },
-    {
-      "id": "books-tonies-ai-storyteller",
-      "type": "image",
-      "src": "pipeline/media/books-tonies-ai-storyteller.png"
-    }
-  ]
-}
+{"date":"2026-10-11","section":"books","media":[
+{"id":"fbf26-publishing-jobs","type":"image","src":"pipeline/media/fbf26-publishing-jobs.jpg"},
+{"id":"fbf26-eu-ai-act-teeth","type":"image","src":"pipeline/media/fbf26-eu-ai-act-teeth.jpg"},
+{"id":"fbf26-spotify-180-markets","type":"image","src":"pipeline/media/fbf26-spotify-180-markets.png"},
+{"id":"enlit-translators-ai","type":"image","src":"pipeline/media/enlit-translators-ai.jpg"}
+]}

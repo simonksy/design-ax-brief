@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-10",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "openai-chatgpt-ads-agency-partner",
-      "type": "image",
-      "src": "pipeline/media/openai-chatgpt-ads-agency-partner.jpg"
-    },
-    {
-      "id": "chatgpt-virtual-try-on-selfie",
-      "type": "image",
-      "src": "pipeline/media/chatgpt-virtual-try-on-selfie.jpg"
-    },
-    {
-      "id": "google-ads-ai-max-text-asset-previews",
-      "type": "image",
-      "src": "pipeline/media/google-ads-ai-max-text-asset-previews.jpg"
-    },
-    {
-      "id": "pinterest-beauty-guides-llm",
-      "type": "image",
-      "src": "pipeline/media/pinterest-beauty-guides-llm.jpg"
-    },
-    {
-      "id": "ehealth-regal-alice-voice-agent",
-      "type": "image",
-      "src": "pipeline/media/ehealth-regal-alice-voice-agent.jpg"
-    }
-  ]
-}
+{"date":"2026-10-11","section":"marketing","media":[
+{"id":"muse-agent-traffic","type":"image","src":"pipeline/media/muse-agent-traffic.jpg"},
+{"id":"agency-agentic-buying","type":"image","src":"pipeline/media/agency-agentic-buying.jpg"},
+{"id":"ai-max-bidding-math","type":"image","src":"pipeline/media/ai-max-bidding-math.jpg"},
+{"id":"regulated-ads-ai-defaults","type":"image","src":"pipeline/media/regulated-ads-ai-defaults.png"},
+{"id":"chatgpt-ads-holiday","type":"image","src":"pipeline/media/chatgpt-ads-holiday.jpg"}
+]}

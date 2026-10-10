@@ -529,6 +529,133 @@
           "x": "Meta is working with Shopify on direct checkout via Meta Business Agent on Messenger, and testing similar checkout options for Meta AI with Adyen, PayPal, Shopify and Stripe."
         }
       ]
+    },
+    "marketing/agency-agentic-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Dentsu announced that its Carat media agency is partnering with NBC Universal, Freewheel and AI firm Newton to launch a planning, buying and optimization agent to use in upfront investments. Tinuiti launched a “Bliss Point Model Context Protocol (MCP) Server”, opening its measurement layer directly to AI agents. Stagwell relaunched its Assembly media agency as Stagwell Media, whose centerpiece is an agentic system called Machine OS."
+        },
+        {
+          "t": "p",
+          "x": "But not every client is onboard with moving so fast, and the agencies' answer to fears of rogue agents is, almost always, human hand-holding. “Everything still requires human oversight,” said Rebekah Shalit, head of platforms at Dentsu. Freewheel's David Dworin said most agentic systems are designed with a human that has to approve everything, or very specific controls."
+        },
+        {
+          "t": "p",
+          "x": "WPP Media's Lauren Wetzel said it requires “explicit controls, approval thresholds, accountable human oversight” where there's a financial or activation impact. Carat chief investment officer Carrie Drinkwater was more bullish: “If we don't start now, we'll be behind.”"
+        }
+      ]
+    },
+    "marketing/ai-max-bidding-math": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+          "cap": "Google’s August 17 change pulls 400% ROAS back toward a 200% target while Search revenue rises 17%"
+        },
+        {
+          "t": "p",
+          "x": "PPC Land's special edition argues that Google optimises for Google's revenue while advertisers have to optimise for their own. From August 17, budget-limited Target CPA and Target ROAS campaigns that beat their targets are pulled back toward them; campaigns that overshoot on cost are left alone."
+        },
+        {
+          "t": "p",
+          "x": "Mike Ryan's analysis of 383 million impressions found that by July 2026 roughly 29% of what advertisers bought as exact match was being broadened by AI Max. Other studies put AI Max at about 35% lower return on ad spend than traditional match types."
+        },
+        {
+          "t": "p",
+          "x": "Google's own figures have moved: AI Max launched on May 6, 2025 with a claim of 14% more conversions or conversion value at similar cost. By the April 2026 general availability announcement the figure was 7%, on Google's internal 2026 data excluding retail. A holiday guide later used 15%, under a different definition."
+        },
+        {
+          "t": "p",
+          "x": "Meanwhile Alphabet's Search revenue rose 17% to $63.27 billion in the second quarter. Advertisers, PPC Land concludes, increasingly have to judge results with instruments Google does not make."
+        }
+      ]
+    },
+    "marketing/regulated-ads-ai-defaults": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+        },
+        {
+          "t": "p",
+          "x": "For paid media marketers in healthcare, financial or legal fields, AI raises flags, from the black box of automated bidding to AI-generated creative. Know your company's policies and industry guidelines, and be careful what data you feed to AI tools."
+        },
+        {
+          "t": "p",
+          "x": "AI Max's text customization can pull in ad copy that doesn't match approved messaging, and final URL expansion can link to unwanted pages. If you test AI Max, consider disabling both."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+          "cap": "Screenshot from Google Ads, October 2026"
+        },
+        {
+          "t": "p",
+          "x": "Performance Max has campaign-level Asset Optimization for text, image and video; Demand Gen has similar ad-level settings, including generated videos that may omit disclaimers. Meta's Advantage+ creative enhancements can change colors, fonts and layout."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+          "cap": "Screenshot from Google Ads, October 2026"
+        },
+        {
+          "t": "p",
+          "x": "Advantage+ targeting in Meta and optimized targeting in Google can take you outside your intended audience, and automated bidding can raise algorithmic bias concerns, such as fair lending rules. Audit where AI can alter compliance-approved creative and add safeguards."
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-holiday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Brands don't expect ChatGPT ads to gift them significant sales this holiday season. Beyond expensive cost-per-click rates and unproven sales, AI assistants are still establishing themselves as a trustworthy source for product recommendations."
+        },
+        {
+          "t": "p",
+          "x": "Sensor Tower data shows over 1,400 unique advertisers ran ads on ChatGPT in August, an 8% month-over-month increase, though most spend comes from large companies such as Capital One, Expedia and Cloudflare."
+        },
+        {
+          "t": "p",
+          "x": "“Generally the results have been pretty bad,” said Measured's Terence Einhorn. “The equivalent to the cost-per-click on ChatGPT is around 6X of that on Google.” Superfiliate's Anders Bill said most brands aren't moving meaningful budgets away from Meta or search yet."
+        },
+        {
+          "t": "p",
+          "x": "“Brands can't afford to use something until they know it works,” Einhorn added. “And they're not gonna know it works until they're using it.”"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-ads-agency-partner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is hiring a salesperson with a mandate to turn ChatGPT ads into a standing line item on agency media plans."
+        },
+        {
+          "t": "p",
+          "x": "A listing for an Agency Partner on the company's Ads Solutions team calls for someone to drive advertiser revenue “through strategic relationships with leading agency holding companies.” The New York-based role pays a base salary of $216,000 to $273,000, plus equity and commission."
+        },
+        {
+          "t": "p",
+          "x": "The hire will lead joint business planning with agencies, run agency education and enablement, and build relationships with senior agency staff across investment, strategy, planning, innovation, data, and commerce at both independent agencies and holding companies."
+        },
+        {
+          "t": "p",
+          "x": "It is the same holding-company sales layer that Meta and Google use to lock in recurring spend."
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-11",
+  "section": "books",
+  "displaced": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101471-frankfurt-book-fair-2026-three-views-of-innovation.html",
+  "picks": [
+    {
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+      "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+      "source": "Publishers Weekly",
+      "category": "books",
+      "published_iso": "2026-10-07T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG",
+      "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership.",
+      "source_lang": "en",
+      "tool": "Books",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "rationale": "Concrete platform announcement: Spotify audiobooks go from 22 to 180+ markets, with AI narration pitched as the way to reach small-language markets. This is a new release on top of the 09-13 opening of AI narration to all authors."
+    }
+  ],
+  "dedup": {
+    "checks": {
+      "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html": {
+        "verdict": "follow-up",
+        "nearest": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
+        "new_action": "New Frankfurt 2026 announcement: Spotify audiobooks expand from 22 to 180+ markets, with AI narration positioned for small-language localization. The 09-13 card only covered opening AI narration (ElevenLabs) to all authors."
+      }
+    },
+    "note": "Replaces PW 'Three Views of Innovation' (101471) in slot 3 to keep Publishers Weekly at 2 picks."
+  }
+}

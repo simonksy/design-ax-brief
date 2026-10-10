@@ -11268,6 +11268,145 @@
           "x": "Jeremy Avigad와 Matthew Ballard는 관련 Perspective에서 AI의 증명 시도가 실패했을 때조차 저자들이 문제를 더 깊이 이해하고 진전을 이루는 데 도움이 됐다고 짚었다."
         }
       ]
+    },
+    "science/science-chatbots-climate-status-quo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+          "cap": "사진: Matheus Bertelli, Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Waterloo 연구진이 대규모 언어 모델(LLM) 11종의 기후 조언에 현상 유지 편향이 있는지 시험했다. 결과는 Environmental Research Communications에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 차량 구매, 요리법, 주택 난방, 기후 정책의 득실 등을 다룬 질의 7,500건 이상을 평가했고, 여기서 프롬프트 약 55,000개를 만들었다. 정책 득실을 따질 여지가 있으면 모델은 사용자가 이미 내린 결정을 약 두 배 더 자주 밀어 줬다."
+        },
+        {
+          "t": "p",
+          "x": "모델은 기존 계획에 약 70% 비율로 찬성했지만 새 계획이나 정책에는 34%에 그쳤다. 지역 요인을 감안해도 모델이 전기차를 추천한 빈도는 각국에서 이미 팔리는 전기차 비율보다 낮았다."
+        },
+        {
+          "t": "p",
+          "x": "연구 책임자 Seth Wynes는 챗봇에게 새로운 일을 해야 할 이유를 논증해 달라고 요청해 보라고 권한다."
+        }
+      ]
+    },
+    "science/science-patent-attorney-ai-rct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "David Autor와 Tanya Rodchenko는 현업 변리사를 상대로 세 달간 무작위 대조 실험을 했다. AI를 일상적으로 쓰면 작업 품질은 전반적으로 오르지만, 업무 중 학습(on-the-job learning)에 미치는 효과는 연차마다 달랐다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 당시 미공개였던 Google Labs의 특허 작성 어시스턴트(현재 Gemini Notebook의 일부) 접근권을 IP 로펌 열한 곳의 변호사 133명에게 무작위로 나눠 줬다. AI를 쓴 집단의 초안 작성 점수는 10일 차에 0.34 표준편차, 90일 차에 0.38 SD 올랐다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+          "cap": "AI 접근이 특허 초안 작성과 레드라이닝 품질에 미친 추정 효과(전체, 주니어, 시니어 변호사별)."
+        },
+        {
+          "t": "p",
+          "x": "90일 차에 AI 없이 치른 레드라이닝 과제에서 AI 집단은 대조군을 0.32 SD 앞섰다. 이 차이는 전부 시니어 변호사(0.45 SD)에게서 나왔다. 주니어는 눈에 띄게 나아지지 않았고, 점수가 아주 낮은 쪽과 좋은 쪽으로 더 크게 갈라졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+          "cap": "경력별 처치군과 대조군 변호사의 평균 레드라이닝 점수 분포."
+        },
+        {
+          "t": "p",
+          "x": "시니어들은 AI 결과물을 \"논리 감사관(logic auditor)\"처럼 다뤘다고 했다. 저자들은 오늘 더 나은 결과물을 내는 도구가 주니어들이 내일의 전문가로 크는 길을 막아서는 안 된다고 경고한다."
+        }
+      ]
+    },
+    "science/science-quanta-math-ai-reckoning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+          "cap": "Eduardo Ramón for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "9월 8일 OpenAI는 자사 모델이 수학의 가장 유명한 난제 가운데 하나를 풀었다고 발표했고, 저자 자격과 기준을 둘러싼 논란이 뒤따랐다. 반응에는 슬픔과 혼란, 두려움이 짙게 묻어났다. 스타트업(start-up) Axiom Math의 Ken Ono가 Berkeley에서 강연하자 학생들은 분노와 좌절을 드러냈다."
+        },
+        {
+          "t": "p",
+          "x": "AI의 증명은 검증은 되지만 거의 읽히지 않아, 수학자들끼리 주고받던 이해가 빠져 있다. Caltech의 Tasmin Chu는 \"그것은 우리 체계를 무너뜨린다\"고 말했다. OpenAI는 100건이 넘는 결과를 공개하지 않고 있다. arXiv는 이제 저자 한 명당 한 달에 두 편까지만 투고를 받고, MathOverflow의 활동은 줄어드는 중이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+        },
+        {
+          "t": "p",
+          "x": "University of Toronto의 Daniel Litt는 \"우리가 적응하지 못하면 50년 뒤에는 수학이 아예 사라지는 나쁜 미래가 있다\"고 말했다. MIT의 Pavel Etingof는 다르게 본다. 수학자들이 AI의 결과를 해석하는 역할을 맡으리라는 것이다. McGill의 Marcel Goh처럼 스스로를 AI \"채식주의자\"라 부르는 이들도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Chu 등은 Association for Human Mathematics를 꾸렸다. 수학자들은 훈련과 출판, 채용 방식을 다시 생각하는 중이다."
+        }
+      ]
+    },
+    "science/science-halzen-nobel-icecube-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+          "cap": "Francis Halzen은 AI 덕분에 연구진이 중성미자 데이터에서 \"은하수를 보게\" 됐다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "University of Wisconsin-Madison의 노벨 물리학상 수상자 Francis Halzen(82)은 토리노(Turin)에서, 중성미자 연구에 일찍이 AI를 들이자고 주장했던 일을 자랑스럽게 돌아봤다. 남극 얼음 속에 광학 모듈 5,484개를 심은 IceCube를 구상한 사람이 바로 그다."
+        },
+        {
+          "t": "p",
+          "x": "실험 데이터 분석을 두고 그는 \"최초의 신경망은 1980년대 후반에 나왔고, 1991년에 AI를 쓰자고 제안하는 논문을 쓴 것이 매우 자랑스럽다\"고 말했다. 몇 년 전 매우 강력한 신경망이 나오기 전까지 신경망은 가끔 쓰이는 데 그쳤다."
+        },
+        {
+          "t": "p",
+          "x": "Halzen에 따르면 중성미자로 본 하늘에서는 은하수가 아니라 다른 은하들이 보인다. 신경망 덕분에 \"마침내 우리 데이터에서 은하수가 보이기 시작했다\"고 한다. 그는 과학계가 받는 예산 압박도 언급했다. IceCube는 미국 국립과학재단(U.S. National Science Foundation)에서 약 $250 million을 지원받았다."
+        }
+      ]
+    },
+    "science/science-ai-help-persistence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "AI 도구에 단 10분만 기대도 어려운 과제에 집중해 끈기 있게 매달리는 능력이 크게 떨어진다. UC Berkeley Center for Human-Compatible AI의 Brian Christian이 공동 저자로 참여해 이번 주 Conference on Language Modeling에서 발표한 동료 심사 연구의 결론이다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 온라인 참가자 1,222명으로 무작위 대조 실험을 했다. 첫 실험에서는 354명이 분수 문제 15개를 풀었는데, 한 집단만 옆에 ChatGPT를 두었다. AI 집단은 처음엔 정답률이 더 높았다. 그러나 12문제를 푼 뒤 도구를 거둬들이자 정답률은 거의 즉시 무너졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+          "cap": "도구를 회수하자 AI 집단의 풀이율(주황색)은 떨어지고 문제를 건너뛰는 비율은 가파르게 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "667명이 참여한 두 번째 실험과 201명이 SAT 독해 문제를 푼 세 번째 실험도 결과는 같았다. AI 도움이 사라지자 끈기와 정답률이 함께 떨어졌지만, 처음부터 도움을 받지 않은 이들은 과제를 끝까지 붙들었다. 저자들은 AI가 '생산적 고투(productive struggle)'를 없앤다고 지적하며, 어시스턴트가 기본 설정으로 튜터처럼 가르치는 방식을 택할 수도 있다고 말한다."
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+          "cap": "2026년 10월 7일 UC Berkeley에서 연구를 설명하는 Brian Christian."
+        },
+        {
+          "t": "p",
+          "x": "\"이것은 분수와 SAT 문제에 관한 이야기가 아니다.\" Christian의 말이다. \"인간의 지식과 인간의 전문성에 위에서 아래까지 일어나고 있는 일이다.\""
+        }
+      ]
     }
   }
 }

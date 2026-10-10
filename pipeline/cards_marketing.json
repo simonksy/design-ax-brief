@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "marketing",
   "cards": [
     {
-      "id": "openai-chatgpt-ads-agency-partner",
+      "id": "muse-agent-traffic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
-      "body": "OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
-      "mini_headline": "OpenAI, 광고대행사 공략",
+      "headline": "Meta의 Muse가\nAI 에이전트 요청 72%",
+      "body": "HUMAN Security 집계로는 AI 에이전트 요청 72%가 Muse 몫이다.",
+      "mini_headline": "Muse, AI 에이전트 트래픽 선두",
       "tool": "Marketing",
-      "source": "Adweek",
-      "url": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+            "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+            "cap": "도어맨이 계수기를 누르며 들여보내는 주황색 종이 인형 무리가 경쟁자 전체를 2.34 대 1로 앞선다"
           },
           {
             "t": "p",
-            "x": "OpenAI가 영업 인력을 새로 뽑는다. ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 자리 잡게 하는 일이다."
+            "x": "HUMAN Security가 2026년 9월 28일 블로그 글에 올린 초기 관측치를 보면, Meta의 Muse 에이전트가 하루 AI-agent 요청의 평균 72%를 차지한다. 하루 요청량은 그다음인 ChatGPT Agent의 5.2배다. 9월 27일엔 Muse 한 곳의 요청이 측정된 나머지 에이전트를 모두 합친 것보다 2.34배 많았다."
           },
           {
             "t": "p",
-            "x": "Ads Solutions 팀이 낸 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. 근무지는 New York이고, 기본급 $216,000에서 $273,000에 지분과 커미션이 붙는다."
+            "x": "다만 요청 건수나 표본 크기, 관측 기간, 요청의 정의는 글 어디에도 없다. HUMAN은 이렇게 빨리 퍼진 이유로 가격과 브라우저 에이전트를 얹은 넉넉한 무료 등급, Facebook·Instagram·Messenger·WhatsApp으로 이어지는 도달력을 들었다. 보도에 따르면 Muse 다운로드는 9월 21일까지 250만 건을 넘겼다."
           },
           {
             "t": "p",
-            "x": "뽑힌 사람은 대행사와 공동 사업 계획을 이끌고 대행사 교육과 역량 강화도 맡는다. 독립 대행사와 홀딩컴퍼니를 가리지 않고 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는 일도 포함된다."
+            "x": "Muse 요청의 84%는 상품·검색 페이지로 향한다. Muse가 결제 페이지까지 갈 가능성도 다른 AI 에이전트보다 25% 높다. 글은 에이전트를 일반 봇 트래픽에 섞어 세거나 사람 세션으로 치면 \"전환율, 퍼널 성과, 기여도 분석, 사기 신호가 왜곡될 수 있다\"고 경고한다."
           },
           {
             "t": "p",
-            "x": "Meta와 Google도 반복 광고비를 묶어 두려고 바로 이런 홀딩컴퍼니 영업 조직을 운영한다."
+            "x": "HUMAN은 봇·에이전트 탐지 서비스를 파는 회사다. 수치는 자사 플랫폼 데이터이고 독립적인 측정 자료는 인용하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OpenAI builds an agency\nsales layer for ChatGPT ads",
-          "body": "OpenAI is hiring an Agency Partner to build the sales layer Meta and Google use to lock in recurring ad spend.",
-          "mini_headline": "OpenAI courts ad agencies",
+          "headline": "Meta's Muse drives 72% of\nAI agent web requests",
+          "body": "HUMAN Security finds Meta's Muse sends 72% of AI-agent web requests, most aimed at product and search pages.",
+          "mini_headline": "Muse leads AI agent traffic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "A doorman clicks through orange paper-doll clones that outnumber every rival 2.34 to 1"
               },
               {
                 "t": "p",
-                "x": "OpenAI is hiring a salesperson with a mandate to turn ChatGPT ads into a standing line item on agency media plans."
+                "x": "HUMAN Security stated in a blog post dated September 28, 2026 that Meta's Muse agent accounts for an average of 72% of daily AI-agent requests in its early observations, with daily request volume 5.2 times that of ChatGPT Agent, the next largest. By September 27, daily Muse requests outnumbered those of all other measured agents combined by a factor of 2.34."
               },
               {
                 "t": "p",
-                "x": "A listing for an Agency Partner on the company's Ads Solutions team calls for someone to drive advertiser revenue “through strategic relationships with leading agency holding companies.” The New York-based role pays a base salary of $216,000 to $273,000, plus equity and commission."
+                "x": "The post offers no request counts, no sample size, no observation window and no definition of a request. HUMAN credits the pace to price, a generous free tier with a built-in browser agent, and to reach through Facebook, Instagram, Messenger and WhatsApp. By September 21, Muse had reportedly exceeded 2.5 million downloads."
               },
               {
                 "t": "p",
-                "x": "The hire will lead joint business planning with agencies, run agency education and enablement, and build relationships with senior agency staff across investment, strategy, planning, innovation, data, and commerce at both independent agencies and holding companies."
+                "x": "Among Muse requests, 84% target product and search pages, and Muse is 25% more likely than other AI agents to reach checkout pages. Counting agents as undifferentiated bot traffic, or treating an agent session as a human one, \"can distort conversion rates, funnel performance, attribution, and fraud signals\", the post states."
               },
               {
                 "t": "p",
-                "x": "It is the same holding-company sales layer that Meta and Google use to lock in recurring spend."
+                "x": "HUMAN sells bot and agent detection, and its numbers come from its own platform, with no independent measurement cited."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
-          "body": "OpenAI가 대행사 영업을 전담할 Agency Partner를 뽑는다.",
-          "mini_headline": "OpenAI, 광고대행사 공략",
+          "headline": "Meta의 Muse가\nAI 에이전트 요청 72%",
+          "body": "HUMAN Security 집계로는 AI 에이전트 요청 72%가 Muse 몫이다.",
+          "mini_headline": "Muse, AI 에이전트 트래픽 선두",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "도어맨이 계수기를 누르며 들여보내는 주황색 종이 인형 무리가 경쟁자 전체를 2.34 대 1로 앞선다"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 영업 인력을 새로 뽑는다. ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 자리 잡게 하는 일이다."
+                "x": "HUMAN Security가 2026년 9월 28일 블로그 글에 올린 초기 관측치를 보면, Meta의 Muse 에이전트가 하루 AI-agent 요청의 평균 72%를 차지한다. 하루 요청량은 그다음인 ChatGPT Agent의 5.2배다. 9월 27일엔 Muse 한 곳의 요청이 측정된 나머지 에이전트를 모두 합친 것보다 2.34배 많았다."
               },
               {
                 "t": "p",
-                "x": "Ads Solutions 팀이 낸 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. 근무지는 New York이고, 기본급 $216,000에서 $273,000에 지분과 커미션이 붙는다."
+                "x": "다만 요청 건수나 표본 크기, 관측 기간, 요청의 정의는 글 어디에도 없다. HUMAN은 이렇게 빨리 퍼진 이유로 가격과 브라우저 에이전트를 얹은 넉넉한 무료 등급, Facebook·Instagram·Messenger·WhatsApp으로 이어지는 도달력을 들었다. 보도에 따르면 Muse 다운로드는 9월 21일까지 250만 건을 넘겼다."
               },
               {
                 "t": "p",
-                "x": "뽑힌 사람은 대행사와 공동 사업 계획을 이끌고 대행사 교육과 역량 강화도 맡는다. 독립 대행사와 홀딩컴퍼니를 가리지 않고 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는 일도 포함된다."
+                "x": "Muse 요청의 84%는 상품·검색 페이지로 향한다. Muse가 결제 페이지까지 갈 가능성도 다른 AI 에이전트보다 25% 높다. 글은 에이전트를 일반 봇 트래픽에 섞어 세거나 사람 세션으로 치면 \"전환율, 퍼널 성과, 기여도 분석, 사기 신호가 왜곡될 수 있다\"고 경고한다."
               },
               {
                 "t": "p",
-                "x": "Meta와 Google도 반복 광고비를 묶어 두려고 바로 이런 홀딩컴퍼니 영업 조직을 운영한다."
+                "x": "HUMAN은 봇·에이전트 탐지 서비스를 파는 회사다. 수치는 자사 플랫폼 데이터이고 독립적인 측정 자료는 인용하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI、ChatGPT\n広告の代理店営業網を構築",
-          "body": "OpenAIが代理店営業を担うAgency Partnerを募集している。",
-          "mini_headline": "OpenAI、広告代理店に接近",
+          "headline": "MetaのMuse、\nAIエージェント要求の72%",
+          "body": "HUMAN Securityによると、MuseはAIエージェント要求の72%を占める。",
+          "mini_headline": "MuseがAIエージェント通信で首位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "ドアマンがカウンターを押しながら通す橙色の紙人形の複製は、どの競合も2.34対1で上回る"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、ChatGPT広告を代理店のメディアプランの常設項目にする使命を担う営業担当者を募集している。"
+                "x": "HUMAN Securityは2026年9月28日付のブログ投稿で、初期観測ではMetaのMuseエージェントが日次のAI-agentリクエストの平均72%を占め、日次リクエスト量は次点のChatGPT Agentの5.2倍に達すると述べた。9月27日までに、Museの日次リクエストは計測対象の他の全エージェントの合計を2.34倍上回った。"
               },
               {
                 "t": "p",
-                "x": "同社Ads SolutionsチームのAgency Partnerの求人は、「大手代理店ホールディングスとの戦略的関係を通じて」広告主収益を伸ばす人材を求めている。New York拠点の職で、基本給は$216,000〜$273,000、これに株式とコミッションが加わる。"
+                "x": "投稿にはリクエスト件数、サンプル規模、観測期間、リクエストの定義がいずれも示されていない。HUMANはこの伸びの要因として、価格、ブラウザエージェントを内蔵した手厚い無料プラン、そしてFacebook、Instagram、Messenger、WhatsAppを通じたリーチを挙げる。報道によれば、Museは9月21日までに250万ダウンロードを超えた。"
               },
               {
                 "t": "p",
-                "x": "採用者は代理店との共同事業計画を主導し、代理店向けの教育と支援を担い、独立系代理店とホールディングスの双方で、投資、戦略、プランニング、イノベーション、データ、コマースにわたる代理店幹部との関係を築く。"
+                "x": "Museのリクエストの84%は商品ページと検索ページに向かい、Museは他のAIエージェントより決済ページに到達する確率が25%高い。エージェントを区別のないボットトラフィックとして数えたり、エージェントのセッションを人間のものとして扱ったりすると、「コンバージョン率、ファネルの成果、アトリビューション、不正シグナルをゆがめかねない」と投稿は指摘する。"
               },
               {
                 "t": "p",
-                "x": "これはMetaとGoogleが継続的な広告費を囲い込むために使っているのと同じ、ホールディングス向けの営業体制である。"
+                "x": "HUMANはボットとエージェントの検知サービスを販売しており、数値は自社プラットフォームに由来し、独立した測定は引用されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI为ChatGPT\n广告搭建代理商销售层",
-          "body": "OpenAI正招聘Agency Partner，搭建代理商销售体系。",
-          "mini_headline": "OpenAI拉拢广告代理商",
+          "headline": "Meta的Muse\n占AI智能体网络请求的72%",
+          "body": "HUMAN Security发现，Meta的Muse发出72%的AI智能体网络请求。",
+          "mini_headline": "Muse领跑AI智能体流量",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "门卫按着计数器放行橙色纸人克隆体，其数量以2.34比1压过所有对手"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在招聘一名销售人员，其任务是让ChatGPT广告成为代理商媒体计划中的固定项目。"
+                "x": "HUMAN Security在2026年9月28日发布的博客文章中称，初步观测显示，Meta的Muse智能体平均占每日AI-agent请求的72%，每日请求量是排在其后的ChatGPT Agent的5.2倍。截至9月27日，Muse的每日请求量已是所有其他被测智能体总和的2.34倍。"
               },
               {
                 "t": "p",
-                "x": "该公司Ads Solutions团队的Agency Partner职位招聘启事要求应聘者“通过与主要代理控股集团建立战略关系”来推动广告主收入。该职位位于New York，基本年薪为$216,000至$273,000，另有股权和佣金。"
+                "x": "文章未给出请求数量、样本规模和观测时段，也未界定请求的含义。HUMAN将这一增速归因于价格、内置浏览器智能体的慷慨免费层级，以及通过Facebook、Instagram、Messenger和WhatsApp实现的触达。据报道，截至9月21日，Muse下载量已超过250万次。"
               },
               {
                 "t": "p",
-                "x": "该职位将主导与代理商的联合业务规划，负责代理商培训与赋能，并在独立代理商和控股集团中，与投资、战略、策划、创新、数据和商务等领域的代理商高层建立关系。"
+                "x": "Muse的请求中有84%指向商品和搜索页面，且Muse到达结账页面的可能性比其他AI智能体高25%。文章指出，把智能体算作无差别的机器人流量，或把智能体会话当作人类会话，“可能扭曲转化率、漏斗表现、归因和欺诈信号”。"
               },
               {
                 "t": "p",
-                "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
+                "x": "HUMAN本身销售机器人与智能体检测服务，其数据来自自家平台，未引用任何独立测量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI arma ventas con agencias\npara los anuncios de ChatGPT",
-          "body": "OpenAI busca un Agency Partner para crear la capa de ventas con agencias que ya usan Meta y Google.",
-          "mini_headline": "OpenAI corteja a las agencias",
+          "headline": "Muse de Meta genera el 72%\nde las peticiones de agentes AI",
+          "body": "Según HUMAN Security, Muse de Meta envía el 72% de las peticiones de agentes AI, sobre todo a páginas de producto.",
+          "mini_headline": "Muse lidera el tráfico de agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "Un portero pulsa su contador ante clones de papel naranjas que superan a cada rival 2.34 a 1"
               },
               {
                 "t": "p",
-                "x": "OpenAI busca un vendedor con el encargo de convertir los anuncios de ChatGPT en una partida fija de los planes de medios de las agencias."
+                "x": "HUMAN Security afirmó en una entrada de blog fechada el 28 de septiembre de 2026 que, según sus primeras observaciones, el agente Muse de Meta concentra de media el 72% de las peticiones diarias de tipo AI-agent, con un volumen diario 5.2 veces superior al de ChatGPT Agent, el segundo mayor. Para el 27 de septiembre, las peticiones diarias de Muse superaban en 2.34 veces a las de todos los demás agentes medidos juntos."
               },
               {
                 "t": "p",
-                "x": "Una oferta para un puesto de Agency Partner en el equipo de Ads Solutions de la compañía pide a alguien que impulse los ingresos de anunciantes “mediante relaciones estratégicas con los principales holdings de agencias”. El puesto, con sede en New York, ofrece un salario base de $216,000 a $273,000, más acciones y comisiones."
+                "x": "La entrada no ofrece recuentos de peticiones, tamaño de muestra, periodo de observación ni una definición de petición. HUMAN atribuye el ritmo al precio, a un generoso nivel gratuito con un agente de navegador integrado y al alcance a través de Facebook, Instagram, Messenger y WhatsApp. Según se informa, para el 21 de septiembre Muse ya había superado los 2.5 millones de descargas."
               },
               {
                 "t": "p",
-                "x": "La persona contratada dirigirá la planificación conjunta de negocio con las agencias, se encargará de la formación y capacitación de agencias y creará relaciones con altos cargos de inversión, estrategia, planificación, innovación, datos y comercio, tanto en agencias independientes como en holdings."
+                "x": "El 84% de las peticiones de Muse se dirige a páginas de producto y de búsqueda, y Muse tiene un 25% más de probabilidades que otros agentes de AI de llegar a páginas de pago. Contar a los agentes como tráfico de bots indiferenciado, o tratar una sesión de agente como humana, \"puede distorsionar las tasas de conversión, el rendimiento del embudo, la atribución y las señales de fraude\", señala la entrada."
               },
               {
                 "t": "p",
-                "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
+                "x": "HUMAN vende detección de bots y agentes, y sus cifras proceden de su propia plataforma, sin que se cite ninguna medición independiente."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OpenAI, 대행사 겨냥\nChatGPT 광고 영업망",
-          "body": "OpenAI가 대행사 영업을 맡을 Agency Partner를 뽑는다.",
-          "mini_headline": "OpenAI, 광고대행사 공략",
+          "headline": "Meta의 Muse가\nAI 에이전트 요청 72%",
+          "body": "HUMAN Security 집계상 Muse가 AI 에이전트 요청의 72%다.",
+          "mini_headline": "Muse, AI 에이전트 트래픽 선두",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "도어맨이 계수기를 누르며 들여보내는 주황색 종이 인형 복제들이 모든 경쟁자를 2.34 대 1로 앞선다"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT 광고를 대행사 미디어 플랜의 고정 항목으로 만드는 임무를 맡을 영업 인력을 뽑는다."
+                "x": "HUMAN Security는 2026년 9월 28일 자 블로그 글에서 초기 관측 결과 Meta의 Muse 에이전트가 일일 AI-agent 요청의 평균 72%를 차지한다고 밝혔다. 일일 요청량은 그다음으로 많은 ChatGPT Agent의 5.2배다. 9월 27일에는 Muse의 일일 요청이 측정된 다른 모든 에이전트를 합친 것보다 2.34배 많았다."
               },
               {
                 "t": "p",
-                "x": "회사 Ads Solutions 팀의 Agency Partner 채용 공고는 “주요 대행사 홀딩컴퍼니와의 전략적 관계를 통해” 광고주 매출을 끌어올릴 사람을 찾는다. New York 근무 직책으로, 기본급은 $216,000에서 $273,000이며 지분과 커미션이 더해진다."
+                "x": "글에는 요청 건수, 표본 크기, 관측 기간, 요청의 정의가 모두 빠져 있다. HUMAN은 이런 속도의 배경으로 가격, 브라우저 에이전트를 내장한 넉넉한 무료 등급, 그리고 Facebook, Instagram, Messenger, WhatsApp을 통한 도달력을 꼽았다. 보도에 따르면 Muse는 9월 21일까지 다운로드 250만 건을 넘겼다."
               },
               {
                 "t": "p",
-                "x": "채용자는 대행사와의 공동 사업 계획을 이끌고, 대행사 교육과 역량 강화를 맡으며, 독립 대행사와 홀딩컴퍼니 양쪽에서 투자·전략·플래닝·혁신·데이터·커머스 분야의 대행사 고위 인력과 관계를 쌓는다."
+                "x": "Muse 요청의 84%는 상품·검색 페이지를 향하며, Muse는 다른 AI 에이전트보다 결제 페이지에 도달할 가능성이 25% 높다. 에이전트를 일반 봇 트래픽으로 뭉뚱그려 세거나 에이전트 세션을 사람의 세션으로 취급하면 \"전환율, 퍼널 성과, 기여도 분석, 사기 신호가 왜곡될 수 있다\"고 글은 지적한다."
               },
               {
                 "t": "p",
-                "x": "Meta와 Google이 반복 광고비를 묶어 두는 데 쓰는 바로 그 홀딩컴퍼니 영업 조직이다."
+                "x": "HUMAN은 봇·에이전트 탐지 서비스를 파는 회사이며, 이 수치는 자사 플랫폼에서 나왔고 글은 독립적인 측정 자료를 인용하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OpenAI、ChatGPT\n広告の代理店営業網を構築",
-          "body": "OpenAIが代理店営業を担うAgency Partnerを募集している。",
-          "mini_headline": "OpenAI、広告代理店に接近",
+          "headline": "MetaのMuse、\nAIエージェント要求の72%",
+          "body": "HUMAN Securityによると、MuseはAIエージェント要求の72%を占める。",
+          "mini_headline": "MuseがAIエージェント通信で首位",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "ドアマンがカウンターを押しながら通す橙色の紙人形の複製は、どの競合も2.34対1で上回る"
               },
               {
                 "t": "p",
-                "x": "OpenAIは、ChatGPT広告を代理店のメディアプランの常設項目にする使命を担う営業担当者を募集している。"
+                "x": "HUMAN Securityは2026年9月28日付のブログ投稿で、初期観測ではMetaのMuseエージェントが日次のAI-agentリクエストの平均72%を占め、日次リクエスト量は次点のChatGPT Agentの5.2倍に達すると述べた。9月27日までに、Museの日次リクエストは計測対象の他の全エージェントの合計を2.34倍上回った。"
               },
               {
                 "t": "p",
-                "x": "同社Ads SolutionsチームのAgency Partnerの求人は、「大手代理店ホールディングスとの戦略的関係を通じて」広告主収益を伸ばす人材を求めている。New York拠点の職で、基本給は$216,000〜$273,000、これに株式とコミッションが加わる。"
+                "x": "投稿にはリクエスト件数、サンプル規模、観測期間、リクエストの定義がいずれも示されていない。HUMANはこの伸びの要因として、価格、ブラウザエージェントを内蔵した手厚い無料プラン、そしてFacebook、Instagram、Messenger、WhatsAppを通じたリーチを挙げる。報道によれば、Museは9月21日までに250万ダウンロードを超えた。"
               },
               {
                 "t": "p",
-                "x": "採用者は代理店との共同事業計画を主導し、代理店向けの教育と支援を担い、独立系代理店とホールディングスの双方で、投資、戦略、プランニング、イノベーション、データ、コマースにわたる代理店幹部との関係を築く。"
+                "x": "Museのリクエストの84%は商品ページと検索ページに向かい、Museは他のAIエージェントより決済ページに到達する確率が25%高い。エージェントを区別のないボットトラフィックとして数えたり、エージェントのセッションを人間のものとして扱ったりすると、「コンバージョン率、ファネルの成果、アトリビューション、不正シグナルをゆがめかねない」と投稿は指摘する。"
               },
               {
                 "t": "p",
-                "x": "これはMetaとGoogleが継続的な広告費を囲い込むために使っているのと同じ、ホールディングス向けの営業体制である。"
+                "x": "HUMANはボットとエージェントの検知サービスを販売しており、数値は自社プラットフォームに由来し、独立した測定は引用されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OpenAI为ChatGPT\n广告搭建代理商销售层",
-          "body": "OpenAI正招聘Agency Partner，搭建代理商销售体系。",
-          "mini_headline": "OpenAI拉拢广告代理商",
+          "headline": "Meta的Muse\n占AI智能体网络请求的72%",
+          "body": "HUMAN Security发现，Meta的Muse发出72%的AI智能体网络请求。",
+          "mini_headline": "Muse领跑AI智能体流量",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "门卫按着计数器放行橙色纸人克隆体，其数量以2.34比1压过所有对手"
               },
               {
                 "t": "p",
-                "x": "OpenAI正在招聘一名销售人员，其任务是让ChatGPT广告成为代理商媒体计划中的固定项目。"
+                "x": "HUMAN Security在2026年9月28日发布的博客文章中称，初步观测显示，Meta的Muse智能体平均占每日AI-agent请求的72%，每日请求量是排在其后的ChatGPT Agent的5.2倍。截至9月27日，Muse的每日请求量已是所有其他被测智能体总和的2.34倍。"
               },
               {
                 "t": "p",
-                "x": "该公司Ads Solutions团队的Agency Partner职位招聘启事要求应聘者“通过与主要代理控股集团建立战略关系”来推动广告主收入。该职位位于New York，基本年薪为$216,000至$273,000，另有股权和佣金。"
+                "x": "文章未给出请求数量、样本规模和观测时段，也未界定请求的含义。HUMAN将这一增速归因于价格、内置浏览器智能体的慷慨免费层级，以及通过Facebook、Instagram、Messenger和WhatsApp实现的触达。据报道，截至9月21日，Muse下载量已超过250万次。"
               },
               {
                 "t": "p",
-                "x": "该职位将主导与代理商的联合业务规划，负责代理商培训与赋能，并在独立代理商和控股集团中，与投资、战略、策划、创新、数据和商务等领域的代理商高层建立关系。"
+                "x": "Muse的请求中有84%指向商品和搜索页面，且Muse到达结账页面的可能性比其他AI智能体高25%。文章指出，把智能体算作无差别的机器人流量，或把智能体会话当作人类会话，“可能扭曲转化率、漏斗表现、归因和欺诈信号”。"
               },
               {
                 "t": "p",
-                "x": "这正是Meta和Google用来锁定持续广告支出的控股集团销售体系。"
+                "x": "HUMAN本身销售机器人与智能体检测服务，其数据来自自家平台，未引用任何独立测量。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OpenAI arma ventas con agencias\npara los anuncios de ChatGPT",
-          "body": "OpenAI busca un Agency Partner para crear la capa de ventas con agencias que ya usan Meta y Google.",
-          "mini_headline": "OpenAI corteja a las agencias",
+          "headline": "Muse de Meta genera el 72%\nde las peticiones de agentes AI",
+          "body": "Según HUMAN Security, Muse de Meta envía el 72% de las peticiones de agentes AI, sobre todo a páginas de producto.",
+          "mini_headline": "Muse lidera el tráfico de agentes AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+                "src": "https://ppc.land/content/images/2026/10/meta-muse-human-security-ai-agent-traffic-paper-doll-shoppers-doorman-tally.jpg",
+                "cap": "Un portero pulsa su contador ante clones de papel naranjas que superan a cada rival 2.34 a 1"
               },
               {
                 "t": "p",
-                "x": "OpenAI busca un vendedor con el encargo de convertir los anuncios de ChatGPT en una partida fija de los planes de medios de las agencias."
+                "x": "HUMAN Security afirmó en una entrada de blog fechada el 28 de septiembre de 2026 que, según sus primeras observaciones, el agente Muse de Meta concentra de media el 72% de las peticiones diarias de tipo AI-agent, con un volumen diario 5.2 veces superior al de ChatGPT Agent, el segundo mayor. Para el 27 de septiembre, las peticiones diarias de Muse superaban en 2.34 veces a las de todos los demás agentes medidos juntos."
               },
               {
                 "t": "p",
-                "x": "Una oferta para un puesto de Agency Partner en el equipo de Ads Solutions de la compañía pide a alguien que impulse los ingresos de anunciantes “mediante relaciones estratégicas con los principales holdings de agencias”. El puesto, con sede en New York, ofrece un salario base de $216,000 a $273,000, más acciones y comisiones."
+                "x": "La entrada no ofrece recuentos de peticiones, tamaño de muestra, periodo de observación ni una definición de petición. HUMAN atribuye el ritmo al precio, a un generoso nivel gratuito con un agente de navegador integrado y al alcance a través de Facebook, Instagram, Messenger y WhatsApp. Según se informa, para el 21 de septiembre Muse ya había superado los 2.5 millones de descargas."
               },
               {
                 "t": "p",
-                "x": "La persona contratada dirigirá la planificación conjunta de negocio con las agencias, se encargará de la formación y capacitación de agencias y creará relaciones con altos cargos de inversión, estrategia, planificación, innovación, datos y comercio, tanto en agencias independientes como en holdings."
+                "x": "El 84% de las peticiones de Muse se dirige a páginas de producto y de búsqueda, y Muse tiene un 25% más de probabilidades que otros agentes de AI de llegar a páginas de pago. Contar a los agentes como tráfico de bots indiferenciado, o tratar una sesión de agente como humana, \"puede distorsionar las tasas de conversión, el rendimiento del embudo, la atribución y las señales de fraude\", señala la entrada."
               },
               {
                 "t": "p",
-                "x": "Es la misma capa de ventas orientada a holdings que Meta y Google usan para asegurar un gasto recurrente."
+                "x": "HUMAN vende detección de bots y agentes, y sus cifras proceden de su propia plataforma, sin que se cite ninguna medición independiente."
               }
             ]
           }
@@ -315,189 +325,165 @@
       }
     },
     {
-      "id": "chatgpt-virtual-try-on-selfie",
+      "id": "agency-agentic-buying",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
-      "body": "ChatGPT에 셀카를 올리면 옷과 액세서리를 걸친 모습을 미리 본다.",
-      "mini_headline": "ChatGPT 가상 피팅",
+      "headline": "대행사 에이전트 구매 확대\n폭주 우려 달래기 나서",
+      "body": "Carat·Tinuiti·Stagwell이 에이전트로 매체를 사는 도구를 내놨다.",
+      "mini_headline": "대행사, 에이전트 구매에 베팅",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/virtual-try-on-launch-chatgpt/832244/",
+      "source": "Digiday",
+      "url": "https://digiday.com/media-buying/as-agencies-push-agentic-media-future-execs-work-to-ward-off-client-rogue-fears/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT에 가상 피팅(virtual try-on) 기능을 내놨다. ChatGPT에서 옷과 액세서리를 보다가 “try on” 버튼을 누르고 사진을 찍거나 올리면 그 제품을 착용한 자기 모습이 이미지로 만들어진다."
+            "x": "Dentsu에 따르면 산하 매체 대행사 Carat이 NBC Universal, Freewheel, AI 기업 Newton과 함께 업프런트 투자용 기획·구매·최적화 에이전트를 내놓는다. Tinuiti는 “Bliss Point Model Context Protocol (MCP) Server”를 공개해 자사 측정 계층을 AI 에이전트가 바로 쓸 수 있게 했다. Stagwell은 매체 대행사 Assembly를 Stagwell Media로 새로 출범시키고 Machine OS라는 에이전트 시스템을 한가운데 놓았다."
           },
           {
             "t": "p",
-            "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들어 정리할 수 있다. ChatGPT 웹사이트와 모바일 앱에서 모두 쓸 수 있다."
+            "x": "고객이 다 이 속도를 반기는 건 아니다. 에이전트가 폭주하면 어쩌냐는 물음에 대행사들은 거의 늘 사람이 곁에서 챙긴다고 답한다. Dentsu 플랫폼 총괄 Rebekah Shalit는 “모든 일에는 여전히 사람의 감독이 필요하다”고 했다. Freewheel의 David Dworin도 에이전트 시스템 대부분은 사람이 하나하나 승인하거나 아주 구체적인 통제 장치를 두게 설계돼 있다고 설명했다."
           },
           {
             "t": "p",
-            "x": "OpenAI가 쇼핑 기능을 늘리자 이 플랫폼을 시험해 보는 소매업체도 많아졌다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고 Etsy는 5월에 ChatGPT 앱을 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "가상 피팅에서 OpenAI는 Google을 뒤쫓는 처지다. Google은 2023년 여성 상의로 가상 피팅을 시작해 드레스와 신발까지 범위를 넓혔다. Perfect Corp.의 2024년 조사를 보면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 뛰었다."
+            "x": "WPP Media의 Lauren Wetzel은 재무나 집행에 영향을 주는 일이라면 “명시적인 통제, 승인 기준치, 책임 있는 사람의 감독”이 있어야 한다고 했다. Carat 최고투자책임자 Carrie Drinkwater는 좀 더 낙관적이다. “지금 시작하지 않으면 뒤처질 것이다.”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT adds virtual\ntry-on for shoppers",
-          "body": "ChatGPT users can upload a selfie to see generated images of clothing and accessories on themselves before buying.",
-          "mini_headline": "ChatGPT adds virtual try-on",
+          "headline": "Agencies push agentic buying,\nease rogue-agent fears",
+          "body": "Carat, Tinuiti and Stagwell push agentic media-buying tools while working to calm client fears of rogue agents.",
+          "mini_headline": "Agencies bet on agentic buying",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI has launched a virtual try-on feature for ChatGPT users. When users browse clothing and accessories on ChatGPT, they can click the “try on” button, take or upload an image of themselves and then generate images of themselves wearing those products."
+                "x": "Dentsu announced that its Carat media agency is partnering with NBC Universal, Freewheel and AI firm Newton to launch a planning, buying and optimization agent to use in upfront investments. Tinuiti launched a “Bliss Point Model Context Protocol (MCP) Server”, opening its measurement layer directly to AI agents. Stagwell relaunched its Assembly media agency as Stagwell Media, whose centerpiece is an agentic system called Machine OS."
               },
               {
                 "t": "p",
-                "x": "Shoppers can save products to Favorites or make a folder in their ChatGPT Library. The features are available on ChatGPT's website and mobile app."
+                "x": "But not every client is onboard with moving so fast, and the agencies' answer to fears of rogue agents is, almost always, human hand-holding. “Everything still requires human oversight,” said Rebekah Shalit, head of platforms at Dentsu. Freewheel's David Dworin said most agentic systems are designed with a human that has to approve everything, or very specific controls."
               },
               {
                 "t": "p",
-                "x": "As OpenAI adds shopping features, more retailers are experimenting with the platform: David's Bridal set up shop on Shopify's Agentic Storefronts for ChatGPT in April, and Etsy debuted its ChatGPT app in May."
-              },
-              {
-                "t": "p",
-                "x": "With try-on, OpenAI is catching up to Google, which debuted virtual try-on for women's tops in 2023, then extended it to dresses and shoes. A 2024 Perfect Corp. survey found brands using virtual try-on saw sales conversion rates more than double."
+                "x": "WPP Media's Lauren Wetzel said it requires “explicit controls, approval thresholds, accountable human oversight” where there's a financial or activation impact. Carat chief investment officer Carrie Drinkwater was more bullish: “If we don't start now, we'll be behind.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
-          "body": "ChatGPT에 셀카를 올리면 옷과 액세서리를 걸친 모습을 미리 본다.",
-          "mini_headline": "ChatGPT 가상 피팅",
+          "headline": "대행사 에이전트 구매 확대\n폭주 우려 달래기 나서",
+          "body": "Carat·Tinuiti·Stagwell이 에이전트로 매체를 사는 도구를 내놨다.",
+          "mini_headline": "대행사, 에이전트 구매에 베팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT에 가상 피팅(virtual try-on) 기능을 내놨다. ChatGPT에서 옷과 액세서리를 보다가 “try on” 버튼을 누르고 사진을 찍거나 올리면 그 제품을 착용한 자기 모습이 이미지로 만들어진다."
+                "x": "Dentsu에 따르면 산하 매체 대행사 Carat이 NBC Universal, Freewheel, AI 기업 Newton과 함께 업프런트 투자용 기획·구매·최적화 에이전트를 내놓는다. Tinuiti는 “Bliss Point Model Context Protocol (MCP) Server”를 공개해 자사 측정 계층을 AI 에이전트가 바로 쓸 수 있게 했다. Stagwell은 매체 대행사 Assembly를 Stagwell Media로 새로 출범시키고 Machine OS라는 에이전트 시스템을 한가운데 놓았다."
               },
               {
                 "t": "p",
-                "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들어 정리할 수 있다. ChatGPT 웹사이트와 모바일 앱에서 모두 쓸 수 있다."
+                "x": "고객이 다 이 속도를 반기는 건 아니다. 에이전트가 폭주하면 어쩌냐는 물음에 대행사들은 거의 늘 사람이 곁에서 챙긴다고 답한다. Dentsu 플랫폼 총괄 Rebekah Shalit는 “모든 일에는 여전히 사람의 감독이 필요하다”고 했다. Freewheel의 David Dworin도 에이전트 시스템 대부분은 사람이 하나하나 승인하거나 아주 구체적인 통제 장치를 두게 설계돼 있다고 설명했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 쇼핑 기능을 늘리자 이 플랫폼을 시험해 보는 소매업체도 많아졌다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고 Etsy는 5월에 ChatGPT 앱을 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "가상 피팅에서 OpenAI는 Google을 뒤쫓는 처지다. Google은 2023년 여성 상의로 가상 피팅을 시작해 드레스와 신발까지 범위를 넓혔다. Perfect Corp.의 2024년 조사를 보면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 뛰었다."
+                "x": "WPP Media의 Lauren Wetzel은 재무나 집행에 영향을 주는 일이라면 “명시적인 통제, 승인 기준치, 책임 있는 사람의 감독”이 있어야 한다고 했다. Carat 최고투자책임자 Carrie Drinkwater는 좀 더 낙관적이다. “지금 시작하지 않으면 뒤처질 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTに\nバーチャル試着機能",
-          "body": "ChatGPTに自撮りを上げると、服やアクセサリーを身に着けた画像を購入前に確認できる。",
-          "mini_headline": "ChatGPTにバーチャル試着",
+          "headline": "代理店がエージェント購買推進\n暴走懸念の払拭にも動く",
+          "body": "Carat、Tinuiti、Stagwellがエージェント型メディア購買ツールを推進する。",
+          "mini_headline": "代理店、エージェント購買に賭ける",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAIがChatGPTユーザー向けにバーチャル試着(virtual try-on)機能を公開した。ChatGPTで服やアクセサリーを見ているときに「try on」ボタンを押し、自分の写真を撮るかアップロードすると、その商品を身に着けた自分の画像を生成できる。"
+                "x": "Dentsuは、傘下のメディアエージェンシーCaratがNBC Universal、Freewheel、AI企業Newtonと提携し、アップフロント投資で使う計画・購買・最適化エージェントを立ち上げると発表した。Tinuitiは「Bliss Point Model Context Protocol (MCP) Server」を公開し、自社の測定レイヤーをAIエージェントに直接開放した。StagwellはメディアエージェンシーAssemblyをStagwell Mediaとして再始動させ、その中核にMachine OSというエージェント型システムを据えた。"
               },
               {
                 "t": "p",
-                "x": "買い物客は商品をFavoritesに保存したり、ChatGPT Libraryにフォルダーを作ったりできる。機能はChatGPTのウェブサイトとモバイルアプリで利用できる。"
+                "x": "ただし、これほど速い動きにすべてのクライアントが同意しているわけではなく、暴走するエージェントへの懸念に対する代理店の答えは、ほぼ常に人間による手厚い伴走だ。「すべてには今も人間の監督が必要だ」と、Dentsuのプラットフォーム責任者Rebekah Shalitは語った。FreewheelのDavid Dworinは、ほとんどのエージェント型システムは人間がすべてを承認するか、ごく具体的な制御を設ける形で設計されていると述べた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIがショッピング機能を拡充するにつれ、このプラットフォームを試す小売業者も増えている。David's Bridalは4月、ShopifyのChatGPT向けAgentic Storefrontsに出店し、Etsyは5月にChatGPTアプリを公開した。"
-              },
-              {
-                "t": "p",
-                "x": "試着機能によって、OpenAIはGoogleに追いつこうとしている。Googleは2023年に女性用トップスのバーチャル試着を始め、その後ドレスや靴にも広げた。Perfect Corp.の2024年の調査では、バーチャル試着を導入したブランドの販売コンバージョン率は2倍以上になった。"
+                "x": "WPP MediaのLauren Wetzelは、財務面や配信面に影響が及ぶ場合には「明示的な制御、承認の閾値、責任ある人間の監督」が必要だと述べた。Caratの最高投資責任者Carrie Drinkwaterはより強気で、「今始めなければ、後れを取る」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT上线\n购物虚拟试穿功能",
-          "body": "ChatGPT用户上传自拍，即可在购买前看到自己穿戴服装和配饰的生成图像。",
-          "mini_headline": "ChatGPT推出虚拟试穿",
+          "headline": "代理商力推智能体采买\n同时安抚失控担忧",
+          "body": "Carat、Tinuiti和Stagwell力推智能体媒介采买工具，同时安抚失控担忧。",
+          "mini_headline": "代理商押注智能体采买",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI为ChatGPT用户推出了虚拟试穿（virtual try-on）功能。用户在ChatGPT上浏览服装和配饰时，可以点击“try on”按钮，拍摄或上传自己的照片，然后生成自己穿戴这些商品的图像。"
+                "x": "Dentsu宣布，旗下媒介代理公司Carat与NBC Universal、Freewheel及AI公司Newton合作，推出用于预售（upfront）投资的规划、采买和优化智能体。Tinuiti推出“Bliss Point Model Context Protocol (MCP) Server”，将其测量层直接向AI智能体开放。Stagwell将旗下媒介代理公司Assembly重新推出为Stagwell Media，其核心是名为Machine OS的智能体系统。"
               },
               {
                 "t": "p",
-                "x": "购物者可以将商品保存到Favorites，或在ChatGPT Library中创建文件夹。这些功能可在ChatGPT网站和移动应用上使用。"
+                "x": "但并非所有客户都愿意如此快速推进，而对于失控智能体的担忧，代理商的回应几乎总是由人来全程把关。Dentsu平台负责人Rebekah Shalit表示：“一切仍然需要人工监督。”Freewheel的David Dworin说，大多数智能体系统在设计上都要求由人批准所有操作，或设置非常具体的控制。"
               },
               {
                 "t": "p",
-                "x": "随着OpenAI不断增加购物功能，越来越多的零售商开始在该平台上试水：David's Bridal于4月入驻Shopify面向ChatGPT的Agentic Storefronts，Etsy则于5月推出了ChatGPT应用。"
-              },
-              {
-                "t": "p",
-                "x": "借助试穿功能，OpenAI正在追赶Google。Google于2023年推出女性上衣虚拟试穿，随后扩展至连衣裙和鞋子。Perfect Corp.在2024年的一项调查发现，使用虚拟试穿的品牌销售转化率提升了一倍以上。"
+                "x": "WPP Media的Lauren Wetzel表示，凡涉及财务或投放影响之处，都需要“明确的控制、审批阈值和可问责的人工监督”。Carat首席投资官Carrie Drinkwater则更为乐观：“如果现在不开始，我们就会落后。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT suma probador virtual\npara quienes compran",
-          "body": "Los usuarios de ChatGPT pueden subir un selfi y verse con ropa y accesorios en imágenes generadas antes de comprar.",
-          "mini_headline": "ChatGPT suma probador virtual",
+          "headline": "Las agencias impulsan la compra\nagéntica y calman temores",
+          "body": "Carat, Tinuiti y Stagwell impulsan la compra agéntica de medios y calman el temor a agentes fuera de control.",
+          "mini_headline": "Las agencias apuestan por la compra agéntica",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI ha lanzado una función de probador virtual (virtual try-on) para los usuarios de ChatGPT. Al explorar ropa y accesorios en ChatGPT, pueden pulsar el botón “try on”, tomar o subir una imagen de sí mismos y generar imágenes en las que aparecen con esos productos."
+                "x": "Dentsu anunció que su agencia de medios Carat se asocia con NBC Universal, Freewheel y la firma de AI Newton para lanzar un agente de planificación, compra y optimización destinado a las inversiones de upfront. Tinuiti lanzó un “Bliss Point Model Context Protocol (MCP) Server”, que abre su capa de medición directamente a los agentes de AI. Stagwell relanzó su agencia de medios Assembly como Stagwell Media, cuya pieza central es un sistema agéntico llamado Machine OS."
               },
               {
                 "t": "p",
-                "x": "Los compradores pueden guardar productos en Favorites o crear una carpeta en su ChatGPT Library. Las funciones están disponibles en el sitio web y la app móvil de ChatGPT."
+                "x": "Pero no todos los clientes están de acuerdo con avanzar tan rápido, y la respuesta de las agencias al temor a los agentes descontrolados es, casi siempre, el acompañamiento humano. “Todo sigue requiriendo supervisión humana”, dijo Rebekah Shalit, responsable de plataformas en Dentsu. David Dworin, de Freewheel, dijo que la mayoría de los sistemas agénticos están diseñados con una persona que debe aprobarlo todo, o con controles muy específicos."
               },
               {
                 "t": "p",
-                "x": "A medida que OpenAI añade funciones de compra, más minoristas experimentan con la plataforma: David's Bridal abrió tienda en los Agentic Storefronts de Shopify para ChatGPT en abril, y Etsy estrenó su app de ChatGPT en mayo."
-              },
-              {
-                "t": "p",
-                "x": "Con el probador, OpenAI alcanza a Google, que lanzó el probador virtual para blusas de mujer en 2023 y luego lo amplió a vestidos y zapatos. Una encuesta de Perfect Corp. de 2024 halló que las marcas que usan probadores virtuales vieron más que duplicarse sus tasas de conversión de ventas."
+                "x": "Lauren Wetzel, de WPP Media, dijo que se requieren “controles explícitos, umbrales de aprobación y supervisión humana responsable” cuando hay un impacto financiero o de activación. La directora de inversiones de Carat, Carrie Drinkwater, se mostró más optimista: “Si no empezamos ahora, nos quedaremos atrás”."
               }
             ]
           }
@@ -505,121 +491,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT, 셀카로\n가상 피팅 시작",
-          "body": "ChatGPT에 셀카를 올리면 옷과 액세서리 착용 모습을 미리 볼 수 있다.",
-          "mini_headline": "ChatGPT 가상 피팅",
+          "headline": "대행사 에이전트 구매 확대\n폭주 우려 달래기 나서",
+          "body": "Carat·Tinuiti·Stagwell이 에이전트 매체 구매 도구를 앞세운다.",
+          "mini_headline": "대행사, 에이전트 구매에 베팅",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT 이용자를 위한 가상 피팅(virtual try-on) 기능을 출시했다. ChatGPT에서 옷과 액세서리를 둘러보다가 “try on” 버튼을 누르고 자신의 사진을 찍거나 올리면, 그 제품을 착용한 자신의 이미지를 생성할 수 있다."
+                "x": "Dentsu는 자사 매체 대행사 Carat이 NBC Universal, Freewheel, AI 기업 Newton과 손잡고 업프런트 투자에 쓸 기획·구매·최적화 에이전트를 출시한다고 발표했다. Tinuiti는 “Bliss Point Model Context Protocol (MCP) Server”를 내놓고 자사 측정 계층을 AI 에이전트에 직접 열었다. Stagwell은 매체 대행사 Assembly를 Stagwell Media로 재출범했으며, 그 중심에는 Machine OS라는 에이전트 시스템이 있다."
               },
               {
                 "t": "p",
-                "x": "쇼핑객은 상품을 Favorites에 저장하거나 ChatGPT Library에 폴더를 만들 수 있다. 이 기능은 ChatGPT 웹사이트와 모바일 앱에서 쓸 수 있다."
+                "x": "그러나 모든 고객이 이렇게 빠른 행보에 동의하는 것은 아니며, 폭주 에이전트에 대한 우려에 대행사들이 내놓는 답은 거의 언제나 사람의 밀착 관리다. Dentsu 플랫폼 총괄 Rebekah Shalit는 “모든 일에는 여전히 사람의 감독이 필요하다”고 말했다. Freewheel의 David Dworin은 대부분의 에이전트 시스템이 사람이 모든 것을 승인하거나 매우 구체적인 통제 장치를 두도록 설계돼 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "OpenAI가 쇼핑 기능을 늘리면서 이 플랫폼을 시험하는 소매업체도 늘고 있다. David's Bridal은 4월 Shopify의 ChatGPT용 Agentic Storefronts에 매장을 열었고, Etsy는 5월 ChatGPT 앱을 선보였다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 가상 피팅으로 Google을 뒤쫓는다. Google은 2023년 여성 상의용 가상 피팅을 선보인 뒤 드레스와 신발로 넓혔다. Perfect Corp.의 2024년 조사에 따르면 가상 피팅을 쓰는 브랜드는 판매 전환율이 두 배 넘게 올랐다."
+                "x": "WPP Media의 Lauren Wetzel은 재무나 집행에 영향이 있는 경우 “명시적인 통제, 승인 기준치, 책임 있는 사람의 감독”이 필요하다고 말했다. Carat 최고투자책임자 Carrie Drinkwater는 더 낙관적이었다. “지금 시작하지 않으면 뒤처질 것이다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTに\nバーチャル試着機能",
-          "body": "ChatGPTに自撮りを上げると、服やアクセサリーを身に着けた画像を購入前に確認できる。",
-          "mini_headline": "ChatGPTにバーチャル試着",
+          "headline": "代理店がエージェント購買推進\n暴走懸念の払拭にも動く",
+          "body": "Carat、Tinuiti、Stagwellがエージェント型メディア購買ツールを推進する。",
+          "mini_headline": "代理店、エージェント購買に賭ける",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAIがChatGPTユーザー向けにバーチャル試着(virtual try-on)機能を公開した。ChatGPTで服やアクセサリーを見ているときに「try on」ボタンを押し、自分の写真を撮るかアップロードすると、その商品を身に着けた自分の画像を生成できる。"
+                "x": "Dentsuは、傘下のメディアエージェンシーCaratがNBC Universal、Freewheel、AI企業Newtonと提携し、アップフロント投資で使う計画・購買・最適化エージェントを立ち上げると発表した。Tinuitiは「Bliss Point Model Context Protocol (MCP) Server」を公開し、自社の測定レイヤーをAIエージェントに直接開放した。StagwellはメディアエージェンシーAssemblyをStagwell Mediaとして再始動させ、その中核にMachine OSというエージェント型システムを据えた。"
               },
               {
                 "t": "p",
-                "x": "買い物客は商品をFavoritesに保存したり、ChatGPT Libraryにフォルダーを作ったりできる。機能はChatGPTのウェブサイトとモバイルアプリで利用できる。"
+                "x": "ただし、これほど速い動きにすべてのクライアントが同意しているわけではなく、暴走するエージェントへの懸念に対する代理店の答えは、ほぼ常に人間による手厚い伴走だ。「すべてには今も人間の監督が必要だ」と、Dentsuのプラットフォーム責任者Rebekah Shalitは語った。FreewheelのDavid Dworinは、ほとんどのエージェント型システムは人間がすべてを承認するか、ごく具体的な制御を設ける形で設計されていると述べた。"
               },
               {
                 "t": "p",
-                "x": "OpenAIがショッピング機能を拡充するにつれ、このプラットフォームを試す小売業者も増えている。David's Bridalは4月、ShopifyのChatGPT向けAgentic Storefrontsに出店し、Etsyは5月にChatGPTアプリを公開した。"
-              },
-              {
-                "t": "p",
-                "x": "試着機能によって、OpenAIはGoogleに追いつこうとしている。Googleは2023年に女性用トップスのバーチャル試着を始め、その後ドレスや靴にも広げた。Perfect Corp.の2024年の調査では、バーチャル試着を導入したブランドの販売コンバージョン率は2倍以上になった。"
+                "x": "WPP MediaのLauren Wetzelは、財務面や配信面に影響が及ぶ場合には「明示的な制御、承認の閾値、責任ある人間の監督」が必要だと述べた。Caratの最高投資責任者Carrie Drinkwaterはより強気で、「今始めなければ、後れを取る」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT上线\n购物虚拟试穿功能",
-          "body": "ChatGPT用户上传自拍，即可在购买前看到自己穿戴服装和配饰的生成图像。",
-          "mini_headline": "ChatGPT推出虚拟试穿",
+          "headline": "代理商力推智能体采买\n同时安抚失控担忧",
+          "body": "Carat、Tinuiti和Stagwell力推智能体媒介采买工具，同时安抚失控担忧。",
+          "mini_headline": "代理商押注智能体采买",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI为ChatGPT用户推出了虚拟试穿（virtual try-on）功能。用户在ChatGPT上浏览服装和配饰时，可以点击“try on”按钮，拍摄或上传自己的照片，然后生成自己穿戴这些商品的图像。"
+                "x": "Dentsu宣布，旗下媒介代理公司Carat与NBC Universal、Freewheel及AI公司Newton合作，推出用于预售（upfront）投资的规划、采买和优化智能体。Tinuiti推出“Bliss Point Model Context Protocol (MCP) Server”，将其测量层直接向AI智能体开放。Stagwell将旗下媒介代理公司Assembly重新推出为Stagwell Media，其核心是名为Machine OS的智能体系统。"
               },
               {
                 "t": "p",
-                "x": "购物者可以将商品保存到Favorites，或在ChatGPT Library中创建文件夹。这些功能可在ChatGPT网站和移动应用上使用。"
+                "x": "但并非所有客户都愿意如此快速推进，而对于失控智能体的担忧，代理商的回应几乎总是由人来全程把关。Dentsu平台负责人Rebekah Shalit表示：“一切仍然需要人工监督。”Freewheel的David Dworin说，大多数智能体系统在设计上都要求由人批准所有操作，或设置非常具体的控制。"
               },
               {
                 "t": "p",
-                "x": "随着OpenAI不断增加购物功能，越来越多的零售商开始在该平台上试水：David's Bridal于4月入驻Shopify面向ChatGPT的Agentic Storefronts，Etsy则于5月推出了ChatGPT应用。"
-              },
-              {
-                "t": "p",
-                "x": "借助试穿功能，OpenAI正在追赶Google。Google于2023年推出女性上衣虚拟试穿，随后扩展至连衣裙和鞋子。Perfect Corp.在2024年的一项调查发现，使用虚拟试穿的品牌销售转化率提升了一倍以上。"
+                "x": "WPP Media的Lauren Wetzel表示，凡涉及财务或投放影响之处，都需要“明确的控制、审批阈值和可问责的人工监督”。Carat首席投资官Carrie Drinkwater则更为乐观：“如果现在不开始，我们就会落后。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT suma probador virtual\npara quienes compran",
-          "body": "Los usuarios de ChatGPT pueden subir un selfi y verse con ropa y accesorios en imágenes generadas antes de comprar.",
-          "mini_headline": "ChatGPT suma probador virtual",
+          "headline": "Las agencias impulsan la compra\nagéntica y calman temores",
+          "body": "Carat, Tinuiti y Stagwell impulsan la compra agéntica de medios y calman el temor a agentes fuera de control.",
+          "mini_headline": "Las agencias apuestan por la compra agéntica",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/1GKMuRuN6YHPvFcVtoV62vs6dDSba-2s4ottY7kfSLM/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjE0MDM3NTE3LmpwZw==.webp"
+                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
               },
               {
                 "t": "p",
-                "x": "OpenAI ha lanzado una función de probador virtual (virtual try-on) para los usuarios de ChatGPT. Al explorar ropa y accesorios en ChatGPT, pueden pulsar el botón “try on”, tomar o subir una imagen de sí mismos y generar imágenes en las que aparecen con esos productos."
+                "x": "Dentsu anunció que su agencia de medios Carat se asocia con NBC Universal, Freewheel y la firma de AI Newton para lanzar un agente de planificación, compra y optimización destinado a las inversiones de upfront. Tinuiti lanzó un “Bliss Point Model Context Protocol (MCP) Server”, que abre su capa de medición directamente a los agentes de AI. Stagwell relanzó su agencia de medios Assembly como Stagwell Media, cuya pieza central es un sistema agéntico llamado Machine OS."
               },
               {
                 "t": "p",
-                "x": "Los compradores pueden guardar productos en Favorites o crear una carpeta en su ChatGPT Library. Las funciones están disponibles en el sitio web y la app móvil de ChatGPT."
+                "x": "Pero no todos los clientes están de acuerdo con avanzar tan rápido, y la respuesta de las agencias al temor a los agentes descontrolados es, casi siempre, el acompañamiento humano. “Todo sigue requiriendo supervisión humana”, dijo Rebekah Shalit, responsable de plataformas en Dentsu. David Dworin, de Freewheel, dijo que la mayoría de los sistemas agénticos están diseñados con una persona que debe aprobarlo todo, o con controles muy específicos."
               },
               {
                 "t": "p",
-                "x": "A medida que OpenAI añade funciones de compra, más minoristas experimentan con la plataforma: David's Bridal abrió tienda en los Agentic Storefronts de Shopify para ChatGPT en abril, y Etsy estrenó su app de ChatGPT en mayo."
-              },
-              {
-                "t": "p",
-                "x": "Con el probador, OpenAI alcanza a Google, que lanzó el probador virtual para blusas de mujer en 2023 y luego lo amplió a vestidos y zapatos. Una encuesta de Perfect Corp. de 2024 halló que las marcas que usan probadores virtuales vieron más que duplicarse sus tasas de conversión de ventas."
+                "x": "Lauren Wetzel, de WPP Media, dijo que se requieren “controles explícitos, umbrales de aprobación y supervisión humana responsable” cuando hay un impacto financiero o de activación. La directora de inversiones de Carat, Carrie Drinkwater, se mostró más optimista: “Si no empezamos ahora, nos quedaremos atrás”."
               }
             ]
           }
@@ -627,219 +597,195 @@
       }
     },
     {
-      "id": "google-ads-ai-max-text-asset-previews",
+      "id": "ai-max-bidding-math",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-generated문구\nGoogle Ads 프리뷰",
-      "body": "Google Ads가 Google AI로 만든 AI Max 문구를 미리 보여준다.",
-      "mini_headline": "Google, AI Max 문구 미리보기",
+      "headline": "AI Max 효과 주장\n14%에서 7%로 낮아져",
+      "body": "PPC Land는 AI Max·Smart Bidding을 Google 편으로 본다.",
+      "mini_headline": "AI Max 효과 주장, 절반으로",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
+      "source": "PPC Land",
+      "url": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+            "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+            "cap": "Search 매출이 17% 느는 사이, Google의 8월 17일 변경은 400% ROAS를 200% 목표 쪽으로 끌어내린다"
           },
           {
             "t": "p",
-            "x": "이제 Google Ads에서 Google AI가 Google Ads AI Max 캠페인용으로 만든 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션이 새로 생겼다."
+            "x": "PPC Land 특별판의 주장은 이렇다. Google은 Google의 매출을 위해 최적화하니 광고주는 자기 매출을 직접 챙겨야 한다. 8월 17일부터 Google은 목표를 웃도는 예산 제한 Target CPA·Target ROAS 캠페인을 목표 쪽으로 되돌리면서도 비용이 목표를 넘긴 캠페인은 그대로 둔다."
           },
           {
             "t": "p",
-            "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+            "x": "Mike Ryan이 노출 3억 8300만 건을 분석해 보니, 2026년 7월까지 광고주가 정확 검색어(exact match)로 산 것의 약 29%를 AI Max가 넓히고 있었다. AI Max의 광고 지출 대비 수익이 기존 검색 유형보다 약 35% 낮다는 연구도 있다."
           },
           {
             "t": "p",
-            "x": "애셋 예시는 대부분 30초 안에 나온다. 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 언어라면 모두 쓸 수 있다."
+            "x": "Google이 내놓는 수치도 바뀌었다. 2025년 5월 6일 출시 때 AI Max는 비슷한 비용으로 전환수나 전환 가치가 14% 는다고 홍보했다. 2026년 4월 정식 출시 발표에선 리테일을 뺀 Google 내부 2026년 데이터 기준 7%로 줄었다. 그 뒤 한 연휴 가이드는 정의를 바꿔 15%를 내세웠다."
           },
           {
             "t": "p",
-            "x": "최종 방문 페이지 URL을 넣으면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 알아서 만든다. 텍스트 맞춤설정을 켜지 않아도 볼 수 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-            "cap": "새로 생긴 도움말 페이지 섹션"
+            "x": "그사이 Alphabet의 Search 매출은 두 번째 분기에 17% 늘어 632억 7000만 달러에 이르렀다. PPC Land는 광고주가 Google이 만들지 않은 도구로 성과를 따져야 할 일이 점점 늘어난다고 결론짓는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google Ads now previews\nAI-generated ad text",
-          "body": "Google Ads now lets advertisers preview the text assets Google AI generates for their AI Max Search campaigns.",
-          "mini_headline": "Google previews AI Max text",
+          "headline": "Google's AI Max uplift claim\nfalls from 14% to 7%",
+          "body": "PPC Land finds AI Max and Smart Bidding serve Google's revenue first, leaving advertisers to optimise their own.",
+          "mini_headline": "Google's AI Max claim halves",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Google’s August 17 change pulls 400% ROAS back toward a 200% target while Search revenue rises 17%"
               },
               {
                 "t": "p",
-                "x": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns, in a new “Text customization asset previews” section of the Search campaigns help page."
+                "x": "PPC Land's special edition argues that Google optimises for Google's revenue while advertisers have to optimise for their own. From August 17, budget-limited Target CPA and Target ROAS campaigns that beat their targets are pulled back toward them; campaigns that overshoot on cost are left alone."
               },
               {
                 "t": "p",
-                "x": "“Use asset previews to view sample text assets generated by Google AI for your campaign… to see whether generated text assets conform to your defined brand and text guidelines before you opt in to text customization or launch a new campaign.”"
+                "x": "Mike Ryan's analysis of 383 million impressions found that by July 2026 roughly 29% of what advertisers bought as exact match was being broadened by AI Max. Other studies put AI Max at about 35% lower return on ad spend than traditional match types."
               },
               {
                 "t": "p",
-                "x": "Asset examples are mostly generated in under 30 seconds and are available in all languages supported by text customization, including English, Spanish, Portuguese, Italian, French, German, Japanese, and Dutch."
+                "x": "Google's own figures have moved: AI Max launched on May 6, 2025 with a claim of 14% more conversions or conversion value at similar cost. By the April 2026 general availability announcement the figure was 7%, on Google's internal 2026 data excluding retail. A holiday guide later used 15%, under a different definition."
               },
               {
                 "t": "p",
-                "x": "When you provide a final landing page URL, Google AI automatically generates up to 10 example headlines and descriptions. You don't need to opt in to text customization to view them."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "The new help-page section"
+                "x": "Meanwhile Alphabet's Search revenue rose 17% to $63.27 billion in the second quarter. Advertisers, PPC Land concludes, increasingly have to judge results with instruments Google does not make."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI-generated문구\nGoogle Ads 프리뷰",
-          "body": "Google Ads가 Google AI로 만든 AI Max 문구를 미리 보여준다.",
-          "mini_headline": "Google, AI Max 문구 미리보기",
+          "headline": "AI Max 효과 주장\n14%에서 7%로 낮아져",
+          "body": "PPC Land는 AI Max·Smart Bidding을 Google 편으로 본다.",
+          "mini_headline": "AI Max 효과 주장, 절반으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Search 매출이 17% 느는 사이, Google의 8월 17일 변경은 400% ROAS를 200% 목표 쪽으로 끌어내린다"
               },
               {
                 "t": "p",
-                "x": "이제 Google Ads에서 Google AI가 Google Ads AI Max 캠페인용으로 만든 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션이 새로 생겼다."
+                "x": "PPC Land 특별판의 주장은 이렇다. Google은 Google의 매출을 위해 최적화하니 광고주는 자기 매출을 직접 챙겨야 한다. 8월 17일부터 Google은 목표를 웃도는 예산 제한 Target CPA·Target ROAS 캠페인을 목표 쪽으로 되돌리면서도 비용이 목표를 넘긴 캠페인은 그대로 둔다."
               },
               {
                 "t": "p",
-                "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+                "x": "Mike Ryan이 노출 3억 8300만 건을 분석해 보니, 2026년 7월까지 광고주가 정확 검색어(exact match)로 산 것의 약 29%를 AI Max가 넓히고 있었다. AI Max의 광고 지출 대비 수익이 기존 검색 유형보다 약 35% 낮다는 연구도 있다."
               },
               {
                 "t": "p",
-                "x": "애셋 예시는 대부분 30초 안에 나온다. 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 언어라면 모두 쓸 수 있다."
+                "x": "Google이 내놓는 수치도 바뀌었다. 2025년 5월 6일 출시 때 AI Max는 비슷한 비용으로 전환수나 전환 가치가 14% 는다고 홍보했다. 2026년 4월 정식 출시 발표에선 리테일을 뺀 Google 내부 2026년 데이터 기준 7%로 줄었다. 그 뒤 한 연휴 가이드는 정의를 바꿔 15%를 내세웠다."
               },
               {
                 "t": "p",
-                "x": "최종 방문 페이지 URL을 넣으면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 알아서 만든다. 텍스트 맞춤설정을 켜지 않아도 볼 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "새로 생긴 도움말 페이지 섹션"
+                "x": "그사이 Alphabet의 Search 매출은 두 번째 분기에 17% 늘어 632억 7000만 달러에 이르렀다. PPC Land는 광고주가 Google이 만들지 않은 도구로 성과를 따져야 할 일이 점점 늘어난다고 결론짓는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated文を\nGoogle Adsで確認",
-          "body": "Google AdsでAI Max向けにGoogle AIが生成したテキストを確認できる。",
-          "mini_headline": "Google、AI Maxの文言をプレビュー",
+          "headline": "AI Maxの効果主張\n14%から7%へ縮小",
+          "body": "PPC Landは、AI MaxとSmart BiddingはGoogle優先だとみる。",
+          "mini_headline": "AI Maxの効果主張が半減",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Googleの8月17日の変更は、Search収益が17%伸びる一方で、400%のROASを200%の目標へ引き戻す"
               },
               {
                 "t": "p",
-                "x": "Google Adsで、Google Ads AI MaxキャンペーンのためにGoogle AIが生成したアセットをプレビューできるようになった。検索キャンペーンのヘルプページに新設された「Text customization asset previews（テキストのカスタマイズのアセットプレビュー）」セクションで案内されている。"
+                "x": "PPC Landの特別版は、GoogleはGoogleの収益のために最適化しており、広告主は自らの収益のために最適化しなければならないと論じる。8月17日以降、予算が限られたTarget CPAやTarget ROASのキャンペーンが目標を上回ると目標方向へ引き戻される一方、コスト面で目標を超えたキャンペーンはそのまま放置される。"
               },
               {
                 "t": "p",
-                "x": "「アセットプレビューを使うと、Google AIがキャンペーン向けに生成したサンプルのテキストアセットを確認できる…テキストのカスタマイズを有効にする前や新しいキャンペーンを開始する前に、生成されたテキストアセットが定めたブランドおよびテキストのガイドラインに沿っているかを確かめられる。」"
+                "x": "Mike Ryanが3億8300万インプレッションを分析したところ、2026年7月までに広告主が完全一致で購入したものの約29%がAI Maxによって拡張されていた。他の調査では、AI Maxの広告費用対効果は従来のマッチタイプより約35%低いとされる。"
               },
               {
                 "t": "p",
-                "x": "アセット例の大半は30秒未満で生成され、英語、スペイン語、ポルトガル語、イタリア語、フランス語、ドイツ語、日本語、オランダ語など、テキストのカスタマイズが対応するすべての言語で利用できる。"
+                "x": "Google自身の数字も変わってきた。AI Maxは2025年5月6日、同程度のコストでコンバージョン数またはコンバージョン値が14%増えるとうたって登場した。2026年4月の一般提供開始の発表では、この数字は小売を除くGoogleの2026年社内データに基づく7%だった。その後、ホリデー向けガイドは別の定義のもとで15%を用いた。"
               },
               {
                 "t": "p",
-                "x": "最終ページURLを入力すると、Google AIが見出しと説明文の例を最大10件自動で生成する。表示するためにテキストのカスタマイズを有効にする必要はない。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "新設されたヘルプページのセクション"
+                "x": "その間、AlphabetのSearch収益は第二四半期に17%増の632億7000万ドルとなった。PPC Landは、広告主はGoogleが作っていない計測手段で成果を判断せざるを得なくなっていると結論づける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads可预览\nAI-generated文案",
-          "body": "Google Ads现可预览Google AI为AI Max搜索广告系列生成的文本素材。",
-          "mini_headline": "Google预览AI Max文本",
+          "headline": "AI Max增效说法\n从14%降至7%",
+          "body": "PPC Land发现，AI Max和Smart Bidding优先服务Google的收入。",
+          "mini_headline": "AI Max增效说法减半",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Google 8月17日的调整把400%的ROAS拉回200%的目标，与此同时Search收入增长17%"
               },
               {
                 "t": "p",
-                "x": "Google Ads现在允许你预览Google AI为Google Ads AI Max广告系列生成的素材，相关说明位于搜索广告系列帮助页面新增的“Text customization asset previews”（文本自定义素材预览）部分。"
+                "x": "PPC Land特刊认为，Google为Google自身的收入做优化，而广告主必须为自己的收入做优化。自8月17日起，受预算限制、表现优于目标的Target CPA和Target ROAS广告系列会被拉回目标附近；成本超标的广告系列则不受影响。"
               },
               {
                 "t": "p",
-                "x": "“使用素材预览，查看Google AI为你的广告系列生成的示例文本素材……以便在启用文本自定义或发布新广告系列之前，确认生成的文本素材是否符合你设定的品牌和文本准则。”"
+                "x": "Mike Ryan对3.83亿次展示的分析发现，到2026年7月，广告主以完全匹配购买的流量中约有29%被AI Max扩展。其他研究则认为，AI Max的广告支出回报率比传统匹配类型低约35%。"
               },
               {
                 "t": "p",
-                "x": "素材示例大多在30秒内生成，适用于文本自定义支持的所有语言，包括英语、西班牙语、葡萄牙语、意大利语、法语、德语、日语和荷兰语。"
+                "x": "Google自己的数据也在变化：AI Max于2025年5月6日推出时宣称，在成本相近的情况下可多带来14%的转化次数或转化价值。到2026年4月宣布全面上线时，这一数字变为7%，依据是Google不含零售业务的2026年内部数据。后来一份假日指南又采用了另一种定义下的15%。"
               },
               {
                 "t": "p",
-                "x": "提供最终着陆页URL后，Google AI会自动生成最多10个示例标题和描述。查看这些示例无需启用文本自定义。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "新增的帮助页面部分"
+                "x": "与此同时，Alphabet第二季度Search收入增长17%，达632.7亿美元。PPC Land的结论是，广告主越来越需要用非Google打造的工具来评判效果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads previsualiza textos\nde anuncios AI-generated",
-          "body": "Google Ads ya permite ver una vista previa de los textos que Google AI genera para las campañas de búsqueda de AI Max.",
-          "mini_headline": "Google previsualiza textos de AI Max",
+          "headline": "La mejora que Google atribuye\na AI Max cae del 14% al 7%",
+          "body": "Según PPC Land, AI Max y Smart Bidding priorizan los ingresos de Google y los anunciantes deben cuidar los suyos.",
+          "mini_headline": "La promesa de AI Max se reduce a la mitad",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "El cambio de Google del 17 de agosto devuelve un ROAS del 400% hacia un objetivo del 200% mientras los ingresos de Search suben un 17%"
               },
               {
                 "t": "p",
-                "x": "Google Ads ahora permite previsualizar los recursos generados por Google AI para las campañas de Google Ads AI Max, en una nueva sección, “Text customization asset previews” (vistas previas de recursos de personalización de texto), de la página de ayuda de las campañas de búsqueda."
+                "x": "La edición especial de PPC Land sostiene que Google optimiza para los ingresos de Google, mientras que los anunciantes deben optimizar para los suyos. Desde el 17 de agosto, las campañas de Target CPA y Target ROAS limitadas por presupuesto que superan sus objetivos se ven devueltas hacia ellos; las que se exceden en coste se dejan como están."
               },
               {
                 "t": "p",
-                "x": "“Usa las vistas previas de recursos para ver ejemplos de recursos de texto generados por Google AI para tu campaña… y comprobar si los recursos de texto generados se ajustan a las directrices de marca y de texto que has definido antes de activar la personalización de texto o lanzar una nueva campaña.”"
+                "x": "El análisis de Mike Ryan sobre 383 millones de impresiones halló que, para julio de 2026, AI Max ampliaba aproximadamente el 29% de lo que los anunciantes compraban como concordancia exacta. Otros estudios sitúan el retorno de la inversión publicitaria de AI Max en torno a un 35% por debajo del de los tipos de concordancia tradicionales."
               },
               {
                 "t": "p",
-                "x": "Los ejemplos de recursos se generan en su mayoría en menos de 30 segundos y están disponibles en todos los idiomas compatibles con la personalización de texto, entre ellos inglés, español, portugués, italiano, francés, alemán, japonés y neerlandés."
+                "x": "Las propias cifras de Google han cambiado: AI Max se lanzó el 6 de mayo de 2025 con la promesa de un 14% más de conversiones o valor de conversión a un coste similar. En el anuncio de disponibilidad general de abril de 2026, la cifra era del 7%, según datos internos de Google de 2026 que excluyen el comercio minorista. Más tarde, una guía para las fiestas usó un 15%, con otra definición."
               },
               {
                 "t": "p",
-                "x": "Al indicar la URL de la página de destino final, Google AI genera automáticamente hasta 10 ejemplos de títulos y descripciones. No es necesario activar la personalización de texto para verlos."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "La nueva sección de la página de ayuda"
+                "x": "Mientras tanto, los ingresos de Search de Alphabet crecieron un 17% en el segundo trimestre, hasta 63.27 mil millones de dólares. Los anunciantes, concluye PPC Land, tienen cada vez más que juzgar los resultados con instrumentos que Google no fabrica."
               }
             ]
           }
@@ -847,141 +793,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI-generated문구\nGoogle Ads 프리뷰",
-          "body": "Google Ads가 AI Max용 Google AI 생성 문구를 미리 보여준다.",
-          "mini_headline": "Google, AI Max 문구 미리보기",
+          "headline": "AI Max 효과 주장\n14%에서 7%로 낮아져",
+          "body": "PPC Land는 AI Max·Smart Bidding이 Google 편이라 본다.",
+          "mini_headline": "AI Max 효과 주장, 절반으로",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Google의 8월 17일 변경은 Search 매출이 17% 늘어나는 사이 400% ROAS를 200% 목표 쪽으로 끌어내린다"
               },
               {
                 "t": "p",
-                "x": "이제 Google Ads에서 Google Ads AI Max 캠페인을 위해 Google AI가 생성한 애셋을 미리 볼 수 있다. 검색 캠페인 도움말 페이지에 새로 생긴 “Text customization asset previews(텍스트 맞춤설정 애셋 미리보기)” 섹션에서다."
+                "x": "PPC Land 특별판은 Google이 Google의 매출을 위해 최적화하는 반면 광고주는 스스로 자신의 매출을 최적화해야 한다고 주장한다. 8월 17일부터 Google은 목표를 웃도는 예산 제한 Target CPA·Target ROAS 캠페인을 목표 쪽으로 되돌리고, 비용이 목표를 넘어선 캠페인은 그대로 둔다."
               },
               {
                 "t": "p",
-                "x": "“애셋 미리보기로 Google AI가 캠페인용으로 생성한 샘플 텍스트 애셋을 확인하라… 텍스트 맞춤설정을 사용하거나 새 캠페인을 시작하기 전에, 생성된 텍스트 애셋이 정해 둔 브랜드 및 텍스트 가이드라인에 맞는지 살펴볼 수 있다.”"
+                "x": "Mike Ryan이 3억 8300만 건의 노출을 분석한 결과, 2026년 7월까지 광고주가 정확 검색어(exact match)로 구매한 것의 약 29%를 AI Max가 넓히고 있었다. 다른 연구들은 AI Max의 광고 지출 대비 수익이 기존 검색 유형보다 약 35% 낮다고 본다."
               },
               {
                 "t": "p",
-                "x": "애셋 예시는 대부분 30초 안에 생성되며, 영어, 스페인어, 포르투갈어, 이탈리아어, 프랑스어, 독일어, 일본어, 네덜란드어 등 텍스트 맞춤설정이 지원하는 모든 언어에서 쓸 수 있다."
+                "x": "Google 자체 수치도 달라졌다. AI Max는 2025년 5월 6일 출시 당시 비슷한 비용으로 전환수나 전환 가치가 14% 늘어난다고 내세웠다. 2026년 4월 정식 출시 발표에서는 이 수치가 리테일을 제외한 Google 내부 2026년 데이터 기준 7%였다. 이후 한 연휴 가이드는 다른 정의를 적용해 15%를 썼다."
               },
               {
                 "t": "p",
-                "x": "최종 방문 페이지 URL을 입력하면 Google AI가 예시 광고 제목과 설명을 최대 10개까지 자동으로 생성한다. 이를 보기 위해 텍스트 맞춤설정을 켤 필요는 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "새로 생긴 도움말 페이지 섹션"
+                "x": "그사이 Alphabet의 Search 매출은 두 번째 분기에 17% 늘어 632억 7000만 달러를 기록했다. PPC Land는 광고주가 Google이 만들지 않은 도구로 성과를 판단해야 하는 일이 늘고 있다고 결론짓는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI-generated文を\nGoogle Adsで確認",
-          "body": "Google AdsでAI Max向けにGoogle AIが生成したテキストを確認できる。",
-          "mini_headline": "Google、AI Maxの文言をプレビュー",
+          "headline": "AI Maxの効果主張\n14%から7%へ縮小",
+          "body": "PPC Landは、AI MaxとSmart BiddingはGoogle優先だとみる。",
+          "mini_headline": "AI Maxの効果主張が半減",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Googleの8月17日の変更は、Search収益が17%伸びる一方で、400%のROASを200%の目標へ引き戻す"
               },
               {
                 "t": "p",
-                "x": "Google Adsで、Google Ads AI MaxキャンペーンのためにGoogle AIが生成したアセットをプレビューできるようになった。検索キャンペーンのヘルプページに新設された「Text customization asset previews（テキストのカスタマイズのアセットプレビュー）」セクションで案内されている。"
+                "x": "PPC Landの特別版は、GoogleはGoogleの収益のために最適化しており、広告主は自らの収益のために最適化しなければならないと論じる。8月17日以降、予算が限られたTarget CPAやTarget ROASのキャンペーンが目標を上回ると目標方向へ引き戻される一方、コスト面で目標を超えたキャンペーンはそのまま放置される。"
               },
               {
                 "t": "p",
-                "x": "「アセットプレビューを使うと、Google AIがキャンペーン向けに生成したサンプルのテキストアセットを確認できる…テキストのカスタマイズを有効にする前や新しいキャンペーンを開始する前に、生成されたテキストアセットが定めたブランドおよびテキストのガイドラインに沿っているかを確かめられる。」"
+                "x": "Mike Ryanが3億8300万インプレッションを分析したところ、2026年7月までに広告主が完全一致で購入したものの約29%がAI Maxによって拡張されていた。他の調査では、AI Maxの広告費用対効果は従来のマッチタイプより約35%低いとされる。"
               },
               {
                 "t": "p",
-                "x": "アセット例の大半は30秒未満で生成され、英語、スペイン語、ポルトガル語、イタリア語、フランス語、ドイツ語、日本語、オランダ語など、テキストのカスタマイズが対応するすべての言語で利用できる。"
+                "x": "Google自身の数字も変わってきた。AI Maxは2025年5月6日、同程度のコストでコンバージョン数またはコンバージョン値が14%増えるとうたって登場した。2026年4月の一般提供開始の発表では、この数字は小売を除くGoogleの2026年社内データに基づく7%だった。その後、ホリデー向けガイドは別の定義のもとで15%を用いた。"
               },
               {
                 "t": "p",
-                "x": "最終ページURLを入力すると、Google AIが見出しと説明文の例を最大10件自動で生成する。表示するためにテキストのカスタマイズを有効にする必要はない。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "新設されたヘルプページのセクション"
+                "x": "その間、AlphabetのSearch収益は第二四半期に17%増の632億7000万ドルとなった。PPC Landは、広告主はGoogleが作っていない計測手段で成果を判断せざるを得なくなっていると結論づける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads可预览\nAI-generated文案",
-          "body": "Google Ads现可预览Google AI为AI Max搜索广告系列生成的文本素材。",
-          "mini_headline": "Google预览AI Max文本",
+          "headline": "AI Max增效说法\n从14%降至7%",
+          "body": "PPC Land发现，AI Max和Smart Bidding优先服务Google的收入。",
+          "mini_headline": "AI Max增效说法减半",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "Google 8月17日的调整把400%的ROAS拉回200%的目标，与此同时Search收入增长17%"
               },
               {
                 "t": "p",
-                "x": "Google Ads现在允许你预览Google AI为Google Ads AI Max广告系列生成的素材，相关说明位于搜索广告系列帮助页面新增的“Text customization asset previews”（文本自定义素材预览）部分。"
+                "x": "PPC Land特刊认为，Google为Google自身的收入做优化，而广告主必须为自己的收入做优化。自8月17日起，受预算限制、表现优于目标的Target CPA和Target ROAS广告系列会被拉回目标附近；成本超标的广告系列则不受影响。"
               },
               {
                 "t": "p",
-                "x": "“使用素材预览，查看Google AI为你的广告系列生成的示例文本素材……以便在启用文本自定义或发布新广告系列之前，确认生成的文本素材是否符合你设定的品牌和文本准则。”"
+                "x": "Mike Ryan对3.83亿次展示的分析发现，到2026年7月，广告主以完全匹配购买的流量中约有29%被AI Max扩展。其他研究则认为，AI Max的广告支出回报率比传统匹配类型低约35%。"
               },
               {
                 "t": "p",
-                "x": "素材示例大多在30秒内生成，适用于文本自定义支持的所有语言，包括英语、西班牙语、葡萄牙语、意大利语、法语、德语、日语和荷兰语。"
+                "x": "Google自己的数据也在变化：AI Max于2025年5月6日推出时宣称，在成本相近的情况下可多带来14%的转化次数或转化价值。到2026年4月宣布全面上线时，这一数字变为7%，依据是Google不含零售业务的2026年内部数据。后来一份假日指南又采用了另一种定义下的15%。"
               },
               {
                 "t": "p",
-                "x": "提供最终着陆页URL后，Google AI会自动生成最多10个示例标题和描述。查看这些示例无需启用文本自定义。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "新增的帮助页面部分"
+                "x": "与此同时，Alphabet第二季度Search收入增长17%，达632.7亿美元。PPC Land的结论是，广告主越来越需要用非Google打造的工具来评判效果。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads previsualiza textos\nde anuncios AI-generated",
-          "body": "Google Ads ya permite ver una vista previa de los textos que Google AI genera para las campañas de búsqueda de AI Max.",
-          "mini_headline": "Google previsualiza textos de AI Max",
+          "headline": "La mejora que Google atribuye\na AI Max cae del 14% al 7%",
+          "body": "Según PPC Land, AI Max y Smart Bidding priorizan los ingresos de Google y los anunciantes deben cuidar los suyos.",
+          "mini_headline": "La promesa de AI Max se reduce a la mitad",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-glow-oAf9fNn8.jpg"
+                "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+                "cap": "El cambio de Google del 17 de agosto devuelve un ROAS del 400% hacia un objetivo del 200% mientras los ingresos de Search suben un 17%"
               },
               {
                 "t": "p",
-                "x": "Google Ads ahora permite previsualizar los recursos generados por Google AI para las campañas de Google Ads AI Max, en una nueva sección, “Text customization asset previews” (vistas previas de recursos de personalización de texto), de la página de ayuda de las campañas de búsqueda."
+                "x": "La edición especial de PPC Land sostiene que Google optimiza para los ingresos de Google, mientras que los anunciantes deben optimizar para los suyos. Desde el 17 de agosto, las campañas de Target CPA y Target ROAS limitadas por presupuesto que superan sus objetivos se ven devueltas hacia ellos; las que se exceden en coste se dejan como están."
               },
               {
                 "t": "p",
-                "x": "“Usa las vistas previas de recursos para ver ejemplos de recursos de texto generados por Google AI para tu campaña… y comprobar si los recursos de texto generados se ajustan a las directrices de marca y de texto que has definido antes de activar la personalización de texto o lanzar una nueva campaña.”"
+                "x": "El análisis de Mike Ryan sobre 383 millones de impresiones halló que, para julio de 2026, AI Max ampliaba aproximadamente el 29% de lo que los anunciantes compraban como concordancia exacta. Otros estudios sitúan el retorno de la inversión publicitaria de AI Max en torno a un 35% por debajo del de los tipos de concordancia tradicionales."
               },
               {
                 "t": "p",
-                "x": "Los ejemplos de recursos se generan en su mayoría en menos de 30 segundos y están disponibles en todos los idiomas compatibles con la personalización de texto, entre ellos inglés, español, portugués, italiano, francés, alemán, japonés y neerlandés."
+                "x": "Las propias cifras de Google han cambiado: AI Max se lanzó el 6 de mayo de 2025 con la promesa de un 14% más de conversiones o valor de conversión a un coste similar. En el anuncio de disponibilidad general de abril de 2026, la cifra era del 7%, según datos internos de Google de 2026 que excluyen el comercio minorista. Más tarde, una guía para las fiestas usó un 15%, con otra definición."
               },
               {
                 "t": "p",
-                "x": "Al indicar la URL de la página de destino final, Google AI genera automáticamente hasta 10 ejemplos de títulos y descripciones. No es necesario activar la personalización de texto para verlos."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/google-ads-text-cust-d1KvE30z.png",
-                "cap": "La nueva sección de la página de ayuda"
+                "x": "Mientras tanto, los ingresos de Search de Alphabet crecieron un 17% en el segundo trimestre, hasta 63.27 mil millones de dólares. Los anunciantes, concluye PPC Land, tienen cada vez más que juzgar los resultados con instrumentos que Google no fabrica."
               }
             ]
           }
@@ -989,351 +919,411 @@
       }
     },
     {
-      "id": "pinterest-beauty-guides-llm",
-      "source_lang": "ko",
+      "id": "regulated-ads-ai-defaults",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "핀터레스트, AI로\n맞춤 뷰티 가이드",
-      "body": "핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
-      "mini_headline": "핀터레스트 뷰티 가이드",
+      "headline": "Google·Meta AI\n기본값이 규제 광고 흔든다",
+      "body": "AI 기본값이 승인 소재를 고치거나 타깃을 넓히면 규제 광고 준수가 깨질 수 있다.",
+      "mini_headline": "AI 기본값, 광고 규정 준수 위협",
       "tool": "Marketing",
-      "source": "MADTIMES",
-      "url": "https://www.madtimes.co.kr/news/articleView.html?idxno=29255",
+      "source": "Search Engine Journal",
+      "url": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+          },
+          {
             "t": "p",
-            "x": "핀터레스트가 AI 기반 신규 기능 '뷰티 가이드(Beauty Guides)'를 선보였다. 헤어·네일 핀을 개인화된 실행 가이드로 바꿔, 핀터레스트에서 발견한 스타일을 실제로 따라 할 수 있게 돕는다."
+            "x": "의료·금융·법률 분야 유료 매체 마케터라면 자동 입찰의 블랙박스부터 AI가 생성한(AI-generated) 소재까지, AI 곳곳에서 경고등이 켜진다. 회사 정책과 업계 지침을 익혀 두고 AI 도구에 넣는 데이터도 가려야 한다."
+          },
+          {
+            "t": "p",
+            "x": "AI Max의 텍스트 맞춤화는 승인된 메시지와 어긋나는 광고 문구를 끌어오기도 하고 최종 URL 확장은 원치 않는 페이지로 이어질 수 있다. AI Max를 테스트한다면 둘 다 꺼 두는 편을 고려해 볼 만하다."
           },
           {
             "t": "img",
-            "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+            "cap": "Google Ads 스크린샷, 2026년 10월"
           },
           {
             "t": "p",
-            "x": "핀터레스트의 시각 인식 기술이 핀 속 헤어스타일·컬러·네일 모양·마감 등을 분석하고, 대규모 언어모델(LLM)이 이를 살롱에서 요청할 내용, 시술 과정, 비슷한 스타일, 관련 상품, 단계별 안내로 정리한다. 헤어·네일 핀을 크게 열고 '가이드 받기(Get the Guide)'를 누르면 된다."
+            "x": "Performance Max에는 텍스트·이미지·동영상을 캠페인 단위로 손보는 Asset Optimization이 있다. Demand Gen에도 비슷한 광고 단위 설정이 있는데, 면책 문구가 빠질 수 있는 생성 동영상까지 들어 있다. Meta의 Advantage+ 크리에이티브 개선 기능은 색상과 글꼴, 레이아웃을 바꾸기도 한다."
           },
           {
             "t": "img",
-            "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+            "cap": "Google Ads 스크린샷, 2026년 10월"
           },
           {
             "t": "p",
-            "x": "매트 마드리갈 최고제품기술책임자(CPTO)는 \"사람들은 원하는 스타일을 말로 설명하지 못해도 분명한 관점을 갖고 핀터레스트에 온다\"고 말했다. 이번 기능은 1차 데이터, 시각 인식, 목적형 AI 모델을 결합한 '핀터레스트 인텔리전스'의 한 사례다."
-          },
-          {
-            "t": "p",
-            "x": "핀터레스트 이용자의 85% 이상이 새로운 뷰티 트렌드를 다른 곳보다 핀터레스트에서 먼저 발견한다고 답했다. 뷰티 가이드는 미국 iOS 이용자에게 먼저 제공되며, 지역과 상품 카테고리를 넓혀갈 계획이다."
+            "x": "Meta의 Advantage+ 타기팅과 Google의 최적화 타기팅은 광고를 의도한 잠재고객 밖으로 내보내기도 한다. 자동 입찰은 공정 대출 규정 같은 알고리즘 편향 우려를 낳을 수 있다. 규정 준수 승인을 받은 소재를 AI가 건드릴 수 있는 지점을 찾아 안전장치를 더해 두는 게 좋다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "핀터레스트, AI로\n맞춤 뷰티 가이드",
-          "body": "핀터레스트가 LLM과 시각 인식으로 헤어·네일 핀을 맞춤 가이드로 바꾼다.",
-          "mini_headline": "핀터레스트 뷰티 가이드",
+        "en": {
+          "headline": "Google and Meta AI defaults\nput regulated ads at risk",
+          "body": "AI defaults that rewrite approved creative or widen audiences can break compliance in regulated ad categories.",
+          "mini_headline": "AI defaults risk ad compliance",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "핀터레스트가 AI 기반 신규 기능 '뷰티 가이드(Beauty Guides)'를 선보였다. 헤어·네일 핀을 개인화된 실행 가이드로 바꿔, 핀터레스트에서 발견한 스타일을 실제로 따라 할 수 있게 돕는다."
+                "x": "For paid media marketers in healthcare, financial or legal fields, AI raises flags, from the black box of automated bidding to AI-generated creative. Know your company's policies and industry guidelines, and be careful what data you feed to AI tools."
+              },
+              {
+                "t": "p",
+                "x": "AI Max's text customization can pull in ad copy that doesn't match approved messaging, and final URL expansion can link to unwanted pages. If you test AI Max, consider disabling both."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Screenshot from Google Ads, October 2026"
               },
               {
                 "t": "p",
-                "x": "핀터레스트의 시각 인식 기술이 핀 속 헤어스타일·컬러·네일 모양·마감 등을 분석하고, 대규모 언어모델(LLM)이 이를 살롱에서 요청할 내용, 시술 과정, 비슷한 스타일, 관련 상품, 단계별 안내로 정리한다. 헤어·네일 핀을 크게 열고 '가이드 받기(Get the Guide)'를 누르면 된다."
+                "x": "Performance Max has campaign-level Asset Optimization for text, image and video; Demand Gen has similar ad-level settings, including generated videos that may omit disclaimers. Meta's Advantage+ creative enhancements can change colors, fonts and layout."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Screenshot from Google Ads, October 2026"
               },
               {
                 "t": "p",
-                "x": "매트 마드리갈 최고제품기술책임자(CPTO)는 \"사람들은 원하는 스타일을 말로 설명하지 못해도 분명한 관점을 갖고 핀터레스트에 온다\"고 말했다. 이번 기능은 1차 데이터, 시각 인식, 목적형 AI 모델을 결합한 '핀터레스트 인텔리전스'의 한 사례다."
-              },
-              {
-                "t": "p",
-                "x": "핀터레스트 이용자의 85% 이상이 새로운 뷰티 트렌드를 다른 곳보다 핀터레스트에서 먼저 발견한다고 답했다. 뷰티 가이드는 미국 iOS 이용자에게 먼저 제공되며, 지역과 상품 카테고리를 넓혀갈 계획이다."
+                "x": "Advantage+ targeting in Meta and optimized targeting in Google can take you outside your intended audience, and automated bidding can raise algorithmic bias concerns, such as fair lending rules. Audit where AI can alter compliance-approved creative and add safeguards."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Pinterest turns to AI\nfor custom beauty guides",
-          "body": "Pinterest is using an LLM and visual recognition to turn hair and nail Pins into personalized guides.",
-          "mini_headline": "Pinterest Beauty Guides",
+        "ko": {
+          "headline": "Google·Meta AI\n기본값이 규제 광고 흔든다",
+          "body": "AI 기본값이 승인 소재를 고치거나 타깃을 넓히면 규제 광고 준수가 깨질 수 있다.",
+          "mini_headline": "AI 기본값, 광고 규정 준수 위협",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest has introduced Beauty Guides, a new AI-based feature. It turns hair and nail Pins into personalized, actionable guides, helping people actually recreate the styles they discover on Pinterest."
+                "x": "의료·금융·법률 분야 유료 매체 마케터라면 자동 입찰의 블랙박스부터 AI가 생성한(AI-generated) 소재까지, AI 곳곳에서 경고등이 켜진다. 회사 정책과 업계 지침을 익혀 두고 AI 도구에 넣는 데이터도 가려야 한다."
+              },
+              {
+                "t": "p",
+                "x": "AI Max의 텍스트 맞춤화는 승인된 메시지와 어긋나는 광고 문구를 끌어오기도 하고 최종 URL 확장은 원치 않는 페이지로 이어질 수 있다. AI Max를 테스트한다면 둘 다 꺼 두는 편을 고려해 볼 만하다."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Ads 스크린샷, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "Pinterest's visual recognition technology analyzes the hairstyle, color, nail shape, finish and other details in a Pin, and a large language model (LLM) organizes them into what to ask for at the salon, the process, similar styles, related products and step-by-step instructions. Users open a hair or nail Pin in close-up and tap 'Get the Guide.'"
+                "x": "Performance Max에는 텍스트·이미지·동영상을 캠페인 단위로 손보는 Asset Optimization이 있다. Demand Gen에도 비슷한 광고 단위 설정이 있는데, 면책 문구가 빠질 수 있는 생성 동영상까지 들어 있다. Meta의 Advantage+ 크리에이티브 개선 기능은 색상과 글꼴, 레이아웃을 바꾸기도 한다."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Ads 스크린샷, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "Matt Madrigal, chief product and technology officer (CPTO), said, \"People come to Pinterest with a clear point of view, even when they can't put the style they want into words.\" The feature is one example of 'Pinterest Intelligence,' which combines first-party data, visual recognition and purpose-built AI models."
-              },
-              {
-                "t": "p",
-                "x": "More than 85% of Pinterest users said they discover new beauty trends on Pinterest before anywhere else. Beauty Guides is rolling out first to iOS users in the U.S., with plans to expand to more regions and product categories."
+                "x": "Meta의 Advantage+ 타기팅과 Google의 최적화 타기팅은 광고를 의도한 잠재고객 밖으로 내보내기도 한다. 자동 입찰은 공정 대출 규정 같은 알고리즘 편향 우려를 낳을 수 있다. 규정 준수 승인을 받은 소재를 AI가 건드릴 수 있는 지점을 찾아 안전장치를 더해 두는 게 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、AIで\nパーソナル美容ガイド",
-          "body": "PinterestがLLMと視覚認識で、ヘア・ネイルのピンを個別ガイドに変える。",
-          "mini_headline": "Pinterestのビューティーガイド",
+          "headline": "Google・Metaの\nAI既定値が規制広告を脅かす",
+          "body": "承認済み広告を改変し配信先を広げるAI既定値は、規制業種での順守を損ないうる。",
+          "mini_headline": "AI既定値が広告の規制順守を脅かす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "PinterestがAIを活用した新機能「ビューティーガイド(Beauty Guides)」を発表した。ヘアやネイルのピンを個人に合わせた実践ガイドに変え、Pinterestで見つけたスタイルを実際に再現できるよう後押しする。"
+                "x": "医療、金融、法律分野の有料メディア担当マーケターにとって、AIは自動入札のブラックボックスからAI生成（AI-generated）のクリエイティブまで、さまざまな警戒信号を発する。自社の方針と業界ガイドラインを把握し、AIツールにどんなデータを入力するかに注意したい。"
+              },
+              {
+                "t": "p",
+                "x": "AI Maxのテキストカスタマイズは承認済みのメッセージと合わない広告文を取り込むことがあり、最終URLの拡張は望まないページにリンクする可能性がある。AI Maxを試すなら、両方の無効化を検討したい。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Adsのスクリーンショット、2026年10月"
               },
               {
                 "t": "p",
-                "x": "Pinterestの視覚認識技術がピン内のヘアスタイル、カラー、ネイルの形、仕上がりなどを分析し、大規模言語モデル(LLM)がそれをサロンで伝える内容、施術の流れ、似たスタイル、関連商品、ステップごとの手順にまとめる。ヘアやネイルのピンを拡大表示し、「ガイドを見る(Get the Guide)」をタップすればよい。"
+                "x": "Performance Maxにはテキスト、画像、動画を対象とするキャンペーン単位のAsset Optimizationがあり、Demand Genにも同様の広告単位の設定がある。そこには免責表示が抜け落ちる可能性のある生成動画も含まれる。MetaのAdvantage+クリエイティブ強化機能は、色、フォント、レイアウトを変更しうる。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Adsのスクリーンショット、2026年10月"
               },
               {
                 "t": "p",
-                "x": "最高製品技術責任者(CPTO)のマット・マドリガル氏は「人々は、望むスタイルを言葉で説明できなくても、はっきりした視点を持ってPinterestにやって来る」と述べた。この機能は、ファーストパーティーデータ、視覚認識、目的特化型AIモデルを組み合わせた「Pinterestインテリジェンス」の一例である。"
-              },
-              {
-                "t": "p",
-                "x": "Pinterestユーザーの85%以上が、新しい美容トレンドを他のどこよりも先にPinterestで見つけると回答した。ビューティーガイドはまず米国のiOSユーザーに提供され、今後は地域と商品カテゴリーを広げていく計画だ。"
+                "x": "MetaのAdvantage+ターゲティングやGoogleの最適化ターゲティングは、想定外のオーディエンスにまで配信を広げる可能性があり、自動入札は公正融資規則のようなアルゴリズムの偏りをめぐる懸念を招きうる。AIがコンプライアンス承認済みのクリエイティブを変更しうる箇所を監査し、安全策を講じるべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest借AI\n推出个性化美妆指南",
-          "body": "Pinterest借助LLM与视觉识别，把发型和美甲Pin变成个性化指南。",
-          "mini_headline": "Pinterest美妆指南",
+          "headline": "Google与Meta\nAI默认设置危及受监管广告",
+          "body": "改写已获批创意或扩大受众的AI默认设置，可能让受监管类广告违规。",
+          "mini_headline": "AI默认设置危及广告合规",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest推出基于AI的新功能“美妆指南（Beauty Guides）”。它将发型和美甲Pin转化为个性化的实操指南，帮助用户真正复刻在Pinterest上发现的风格。"
+                "x": "对医疗、金融或法律领域的付费媒体营销人员来说，从自动出价的黑箱到AI生成（AI-generated）的创意，AI处处带来风险信号。要了解公司政策和行业准则，并谨慎对待输入AI工具的数据。"
+              },
+              {
+                "t": "p",
+                "x": "AI Max的文本自定义可能引入与获批信息不符的广告文案，最终URL扩展则可能链接到不想要的页面。若测试AI Max，可考虑同时关闭这两项功能。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Ads截图，2026年10月"
               },
               {
                 "t": "p",
-                "x": "Pinterest的视觉识别技术会分析Pin中的发型、发色、甲型和质感等，再由大语言模型（LLM）将其整理为到沙龙时要提出的需求、操作流程、相似风格、相关商品和分步指引。用户只需放大打开发型或美甲Pin，点击“获取指南（Get the Guide）”即可。"
+                "x": "Performance Max在广告系列层级提供针对文本、图片和视频的Asset Optimization；Demand Gen在广告层级也有类似设置，包括可能遗漏免责声明的生成视频。Meta的Advantage+创意增强功能可能改变颜色、字体和版式。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Ads截图，2026年10月"
               },
               {
                 "t": "p",
-                "x": "首席产品技术官（CPTO）马特·马德里加尔表示：“人们即使说不清自己想要的风格，也会带着明确的想法来到Pinterest。”该功能是结合第一方数据、视觉识别和专用AI模型的“Pinterest智能”的一个实例。"
-              },
-              {
-                "t": "p",
-                "x": "超过85%的Pinterest用户表示，他们在Pinterest上发现新美妆趋势的时间早于其他任何地方。美妆指南将首先面向美国iOS用户推出，并计划扩展至更多地区和商品类别。"
+                "x": "Meta的Advantage+定向和Google的优化定向可能让广告触达预期受众之外的人群，自动出价还可能引发算法偏见方面的担忧，例如公平借贷规则。应审查AI可能改动合规获批创意的环节，并增设防护措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinterest crea guías de belleza\npersonalizadas con IA",
-          "body": "Pinterest usa un LLM y reconocimiento visual para convertir pines de pelo y uñas en guías a medida.",
-          "mini_headline": "Beauty Guides de Pinterest",
+          "headline": "Ajustes AI de Google y Meta\namenazan anuncios regulados",
+          "body": "Los ajustes AI por defecto que reescriben anuncios aprobados o amplían audiencias pueden vulnerar normas sectoriales.",
+          "mini_headline": "Los ajustes AI ponen en riesgo el cumplimiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest ha presentado Beauty Guides (guías de belleza), una nueva función basada en inteligencia artificial (AI). Convierte los pines de peinados y uñas en guías prácticas personalizadas para ayudar a recrear de verdad los estilos descubiertos en Pinterest."
+                "x": "Para los profesionales de medios pagados en sanidad, finanzas o el ámbito legal, la AI enciende alertas, desde la caja negra de la puja automatizada hasta las creatividades generadas por AI (AI-generated). Conozca las políticas de su empresa y las pautas del sector, y tenga cuidado con los datos que introduce en herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "La personalización de texto de AI Max puede incorporar textos de anuncio que no coinciden con los mensajes aprobados, y la expansión de URL final puede enlazar a páginas no deseadas. Si prueba AI Max, considere desactivar ambas."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Captura de pantalla de Google Ads, octubre de 2026"
               },
               {
                 "t": "p",
-                "x": "La tecnología de reconocimiento visual de Pinterest analiza el peinado, el color, la forma de las uñas, el acabado y otros detalles del pin, y un modelo de lenguaje de gran tamaño (LLM) los organiza en qué pedir en el salón, el proceso, estilos similares, productos relacionados e instrucciones paso a paso. Basta con abrir en grande un pin de pelo o uñas y pulsar «Obtener la guía» (Get the Guide)."
+                "x": "Performance Max tiene Asset Optimization a nivel de campaña para texto, imagen y vídeo; Demand Gen cuenta con ajustes similares a nivel de anuncio, incluidos vídeos generados que pueden omitir avisos legales. Las mejoras creativas de Advantage+ de Meta pueden cambiar colores, tipografías y diseño."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Captura de pantalla de Google Ads, octubre de 2026"
               },
               {
                 "t": "p",
-                "x": "Matt Madrigal, director de producto y tecnología (CPTO), afirmó: \"La gente llega a Pinterest con un punto de vista claro, aunque no sepa describir con palabras el estilo que quiere\". La función es un ejemplo de 'Pinterest Intelligence', que combina datos propios, reconocimiento visual y modelos de AI creados para fines específicos."
-              },
-              {
-                "t": "p",
-                "x": "Más del 85% de los usuarios de Pinterest afirmó descubrir las nuevas tendencias de belleza en Pinterest antes que en cualquier otro lugar. Beauty Guides llegará primero a los usuarios de iOS en Estados Unidos y se ampliará a más regiones y categorías de producto."
+                "x": "La segmentación Advantage+ de Meta y la segmentación optimizada de Google pueden llevar los anuncios fuera de la audiencia prevista, y la puja automatizada puede plantear problemas de sesgo algorítmico, como las normas de préstamo justo. Revise dónde puede la AI alterar creatividades aprobadas por cumplimiento normativo y añada salvaguardas."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Pinterest turns to AI\nfor custom beauty guides",
-          "body": "Pinterest is using an LLM and visual recognition to turn hair and nail Pins into personalized guides.",
-          "mini_headline": "Pinterest Beauty Guides",
+        "ko": {
+          "headline": "Google·Meta AI\n기본값이 규제 광고 흔든다",
+          "body": "승인된 소재를 고치거나 타깃을 넓히는 AI 기본값은 규제 광고 준수를 깰 수 있다.",
+          "mini_headline": "AI 기본값, 광고 규정 준수 위협",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest has introduced Beauty Guides, a new AI-based feature. It turns hair and nail Pins into personalized, actionable guides, helping people actually recreate the styles they discover on Pinterest."
+                "x": "의료·금융·법률 분야의 유료 매체 마케터에게 AI는 자동 입찰의 블랙박스부터 AI가 생성한(AI-generated) 소재까지 곳곳에서 경고 신호를 보낸다. 회사 정책과 업계 지침을 숙지하고, AI 도구에 어떤 데이터를 넣는지 신중해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "AI Max의 텍스트 맞춤화는 승인된 메시지와 맞지 않는 광고 문구를 끌어올 수 있고, 최종 URL 확장은 원치 않는 페이지로 연결할 수 있다. AI Max를 테스트한다면 둘 다 끄는 방안을 검토할 만하다."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Ads 스크린샷, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "Pinterest's visual recognition technology analyzes the hairstyle, color, nail shape, finish and other details in a Pin, and a large language model (LLM) organizes them into what to ask for at the salon, the process, similar styles, related products and step-by-step instructions. Users open a hair or nail Pin in close-up and tap 'Get the Guide.'"
+                "x": "Performance Max에는 텍스트·이미지·동영상에 대한 캠페인 단위 Asset Optimization이 있고, Demand Gen에도 면책 문구가 빠질 수 있는 생성 동영상을 포함해 비슷한 광고 단위 설정이 있다. Meta의 Advantage+ 크리에이티브 개선 기능은 색상, 글꼴, 레이아웃을 바꿀 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Ads 스크린샷, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "Matt Madrigal, chief product and technology officer (CPTO), said, \"People come to Pinterest with a clear point of view, even when they can't put the style they want into words.\" The feature is one example of 'Pinterest Intelligence,' which combines first-party data, visual recognition and purpose-built AI models."
-              },
-              {
-                "t": "p",
-                "x": "More than 85% of Pinterest users said they discover new beauty trends on Pinterest before anywhere else. Beauty Guides is rolling out first to iOS users in the U.S., with plans to expand to more regions and product categories."
+                "x": "Meta의 Advantage+ 타기팅과 Google의 최적화 타기팅은 광고를 의도한 잠재고객 밖으로 내보낼 수 있고, 자동 입찰은 공정 대출 규정 같은 알고리즘 편향 우려를 낳을 수 있다. AI가 규정 준수 승인을 받은 소재를 바꿀 수 있는 지점을 점검하고 안전장치를 더해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pinterest、AIで\nパーソナル美容ガイド",
-          "body": "PinterestがLLMと視覚認識で、ヘア・ネイルのピンを個別ガイドに変える。",
-          "mini_headline": "Pinterestのビューティーガイド",
+          "headline": "Google・Metaの\nAI既定値が規制広告を脅かす",
+          "body": "承認済み広告を改変し配信先を広げるAI既定値は、規制業種での順守を損ないうる。",
+          "mini_headline": "AI既定値が広告の規制順守を脅かす",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "PinterestがAIを活用した新機能「ビューティーガイド(Beauty Guides)」を発表した。ヘアやネイルのピンを個人に合わせた実践ガイドに変え、Pinterestで見つけたスタイルを実際に再現できるよう後押しする。"
+                "x": "医療、金融、法律分野の有料メディア担当マーケターにとって、AIは自動入札のブラックボックスからAI生成（AI-generated）のクリエイティブまで、さまざまな警戒信号を発する。自社の方針と業界ガイドラインを把握し、AIツールにどんなデータを入力するかに注意したい。"
+              },
+              {
+                "t": "p",
+                "x": "AI Maxのテキストカスタマイズは承認済みのメッセージと合わない広告文を取り込むことがあり、最終URLの拡張は望まないページにリンクする可能性がある。AI Maxを試すなら、両方の無効化を検討したい。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Adsのスクリーンショット、2026年10月"
               },
               {
                 "t": "p",
-                "x": "Pinterestの視覚認識技術がピン内のヘアスタイル、カラー、ネイルの形、仕上がりなどを分析し、大規模言語モデル(LLM)がそれをサロンで伝える内容、施術の流れ、似たスタイル、関連商品、ステップごとの手順にまとめる。ヘアやネイルのピンを拡大表示し、「ガイドを見る(Get the Guide)」をタップすればよい。"
+                "x": "Performance Maxにはテキスト、画像、動画を対象とするキャンペーン単位のAsset Optimizationがあり、Demand Genにも同様の広告単位の設定がある。そこには免責表示が抜け落ちる可能性のある生成動画も含まれる。MetaのAdvantage+クリエイティブ強化機能は、色、フォント、レイアウトを変更しうる。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Adsのスクリーンショット、2026年10月"
               },
               {
                 "t": "p",
-                "x": "最高製品技術責任者(CPTO)のマット・マドリガル氏は「人々は、望むスタイルを言葉で説明できなくても、はっきりした視点を持ってPinterestにやって来る」と述べた。この機能は、ファーストパーティーデータ、視覚認識、目的特化型AIモデルを組み合わせた「Pinterestインテリジェンス」の一例である。"
-              },
-              {
-                "t": "p",
-                "x": "Pinterestユーザーの85%以上が、新しい美容トレンドを他のどこよりも先にPinterestで見つけると回答した。ビューティーガイドはまず米国のiOSユーザーに提供され、今後は地域と商品カテゴリーを広げていく計画だ。"
+                "x": "MetaのAdvantage+ターゲティングやGoogleの最適化ターゲティングは、想定外のオーディエンスにまで配信を広げる可能性があり、自動入札は公正融資規則のようなアルゴリズムの偏りをめぐる懸念を招きうる。AIがコンプライアンス承認済みのクリエイティブを変更しうる箇所を監査し、安全策を講じるべきだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pinterest借AI\n推出个性化美妆指南",
-          "body": "Pinterest借助LLM与视觉识别，把发型和美甲Pin变成个性化指南。",
-          "mini_headline": "Pinterest美妆指南",
+          "headline": "Google与Meta\nAI默认设置危及受监管广告",
+          "body": "改写已获批创意或扩大受众的AI默认设置，可能让受监管类广告违规。",
+          "mini_headline": "AI默认设置危及广告合规",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest推出基于AI的新功能“美妆指南（Beauty Guides）”。它将发型和美甲Pin转化为个性化的实操指南，帮助用户真正复刻在Pinterest上发现的风格。"
+                "x": "对医疗、金融或法律领域的付费媒体营销人员来说，从自动出价的黑箱到AI生成（AI-generated）的创意，AI处处带来风险信号。要了解公司政策和行业准则，并谨慎对待输入AI工具的数据。"
+              },
+              {
+                "t": "p",
+                "x": "AI Max的文本自定义可能引入与获批信息不符的广告文案，最终URL扩展则可能链接到不想要的页面。若测试AI Max，可考虑同时关闭这两项功能。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Google Ads截图，2026年10月"
               },
               {
                 "t": "p",
-                "x": "Pinterest的视觉识别技术会分析Pin中的发型、发色、甲型和质感等，再由大语言模型（LLM）将其整理为到沙龙时要提出的需求、操作流程、相似风格、相关商品和分步指引。用户只需放大打开发型或美甲Pin，点击“获取指南（Get the Guide）”即可。"
+                "x": "Performance Max在广告系列层级提供针对文本、图片和视频的Asset Optimization；Demand Gen在广告层级也有类似设置，包括可能遗漏免责声明的生成视频。Meta的Advantage+创意增强功能可能改变颜色、字体和版式。"
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Google Ads截图，2026年10月"
               },
               {
                 "t": "p",
-                "x": "首席产品技术官（CPTO）马特·马德里加尔表示：“人们即使说不清自己想要的风格，也会带着明确的想法来到Pinterest。”该功能是结合第一方数据、视觉识别和专用AI模型的“Pinterest智能”的一个实例。"
-              },
-              {
-                "t": "p",
-                "x": "超过85%的Pinterest用户表示，他们在Pinterest上发现新美妆趋势的时间早于其他任何地方。美妆指南将首先面向美国iOS用户推出，并计划扩展至更多地区和商品类别。"
+                "x": "Meta的Advantage+定向和Google的优化定向可能让广告触达预期受众之外的人群，自动出价还可能引发算法偏见方面的担忧，例如公平借贷规则。应审查AI可能改动合规获批创意的环节，并增设防护措施。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Pinterest crea guías de belleza\npersonalizadas con IA",
-          "body": "Pinterest usa un LLM y reconocimiento visual para convertir pines de pelo y uñas en guías a medida.",
-          "mini_headline": "Beauty Guides de Pinterest",
+          "headline": "Ajustes AI de Google y Meta\namenazan anuncios regulados",
+          "body": "Los ajustes AI por defecto que reescriben anuncios aprobados o amplían audiencias pueden vulnerar normas sectoriales.",
+          "mini_headline": "Los ajustes AI ponen en riesgo el cumplimiento",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+              },
+              {
                 "t": "p",
-                "x": "Pinterest ha presentado Beauty Guides (guías de belleza), una nueva función basada en inteligencia artificial (AI). Convierte los pines de peinados y uñas en guías prácticas personalizadas para ayudar a recrear de verdad los estilos descubiertos en Pinterest."
+                "x": "Para los profesionales de medios pagados en sanidad, finanzas o el ámbito legal, la AI enciende alertas, desde la caja negra de la puja automatizada hasta las creatividades generadas por AI (AI-generated). Conozca las políticas de su empresa y las pautas del sector, y tenga cuidado con los datos que introduce en herramientas de AI."
+              },
+              {
+                "t": "p",
+                "x": "La personalización de texto de AI Max puede incorporar textos de anuncio que no coinciden con los mensajes aprobados, y la expansión de URL final puede enlazar a páginas no deseadas. Si prueba AI Max, considere desactivar ambas."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71542_169.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+                "cap": "Captura de pantalla de Google Ads, octubre de 2026"
               },
               {
                 "t": "p",
-                "x": "La tecnología de reconocimiento visual de Pinterest analiza el peinado, el color, la forma de las uñas, el acabado y otros detalles del pin, y un modelo de lenguaje de gran tamaño (LLM) los organiza en qué pedir en el salón, el proceso, estilos similares, productos relacionados e instrucciones paso a paso. Basta con abrir en grande un pin de pelo o uñas y pulsar «Obtener la guía» (Get the Guide)."
+                "x": "Performance Max tiene Asset Optimization a nivel de campaña para texto, imagen y vídeo; Demand Gen cuenta con ajustes similares a nivel de anuncio, incluidos vídeos generados que pueden omitir avisos legales. Las mejoras creativas de Advantage+ de Meta pueden cambiar colores, tipografías y diseño."
               },
               {
                 "t": "img",
-                "src": "https://www.madtimes.co.kr/news/photo/202610/29255_71543_176.jpg"
+                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+                "cap": "Captura de pantalla de Google Ads, octubre de 2026"
               },
               {
                 "t": "p",
-                "x": "Matt Madrigal, director de producto y tecnología (CPTO), afirmó: \"La gente llega a Pinterest con un punto de vista claro, aunque no sepa describir con palabras el estilo que quiere\". La función es un ejemplo de 'Pinterest Intelligence', que combina datos propios, reconocimiento visual y modelos de AI creados para fines específicos."
-              },
-              {
-                "t": "p",
-                "x": "Más del 85% de los usuarios de Pinterest afirmó descubrir las nuevas tendencias de belleza en Pinterest antes que en cualquier otro lugar. Beauty Guides llegará primero a los usuarios de iOS en Estados Unidos y se ampliará a más regiones y categorías de producto."
+                "x": "La segmentación Advantage+ de Meta y la segmentación optimizada de Google pueden llevar los anuncios fuera de la audiencia prevista, y la puja automatizada puede plantear problemas de sesgo algorítmico, como las normas de préstamo justo. Revise dónde puede la AI alterar creatividades aprobadas por cumplimiento normativo y añada salvaguardas."
               }
             ]
           }
@@ -1341,15 +1331,15 @@
       }
     },
     {
-      "id": "ehealth-regal-alice-voice-agent",
+      "id": "chatgpt-ads-holiday",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "eHealth의 AI\n구매율 27% 높였다",
-      "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
-      "mini_headline": "eHealth의 AI 에이전트 Alice",
+      "headline": "ChatGPT 광고는\n연말 예산의 작은 베팅",
+      "body": "브랜드들은 ChatGPT 광고를 시험하지만 CPCs가 높아 비중은 작다.",
+      "mini_headline": "ChatGPT 광고는 아직 시험 단계",
       "tool": "Marketing",
-      "source": "CX Dive",
-      "url": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+      "source": "Modern Retail",
+      "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1357,173 +1347,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+            "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
           },
           {
             "t": "p",
-            "x": "eHealth 고객은 대부분 약 54일 동안 이어지는 Medicare 공개 가입 기간에 전화를 건다. 통화가 약 오십만 건에 이르고 70%에서 80%가 전화로 구매하다 보니, 자격을 갖춘 상담원을 여섯 시간이나 기다린 고객도 있었다."
+            "x": "브랜드들은 이번 연말 시즌 ChatGPT 광고에서 의미 있는 매출을 기대하지 않는다. 클릭당 비용은 비싸고 매출 효과는 검증되지 않았다. AI 비서도 아직 믿을 만한 상품 추천처로 자리 잡는 중이다."
           },
           {
             "t": "p",
-            "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice에게 전화 문의 사전 선별을 맡긴다. Regal이 CX Dive에 제공한 데이터를 보면 Alice는 모든 전화를 바로 받는다. 만족도 평가에서는 77%가 \"exceptional\"(매우 우수)을 줬고, 구매율도 eHealth가 외주 콜센터의 사람 선별 인력을 쓸 때보다 27% 높다."
+            "x": "Sensor Tower 데이터를 보면 8월 ChatGPT에 광고를 낸 고유 광고주는 1,400곳이 넘어 전월보다 8% 늘었다. 지출은 대부분 Capital One, Expedia, Cloudflare 같은 대기업 몫이다."
           },
           {
             "t": "p",
-            "x": "첫 도입은 2025년 2월, 업무 시간 외 시범 운영이었다. 개인정보 고지는 규정상 중단 없이 전달해야 한다. 그래서 Regal은 에이전트가 고지를 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
+            "x": "Measured의 Terence Einhorn은 “전반적으로 결과가 꽤 나빴다”며 “ChatGPT의 클릭당 비용에 해당하는 값은 Google의 약 6X 수준”이라고 했다. Superfiliate의 Anders Bill에 따르면 브랜드 대부분은 아직 Meta나 검색 예산을 의미 있게 옮기지 않았다."
           },
           {
             "t": "p",
-            "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자로 참여했다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
+            "x": "Einhorn은 “브랜드는 효과가 있다는 걸 알기 전에는 무언가를 쓸 여유가 없다”며 “그런데 써 보기 전에는 효과가 있는지 알 수 없다”고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "eHealth's AI screener posts a\n27% higher purchase rate",
-          "body": "eHealth's AI agent Alice prescreens Medicare callers, with a 27% higher purchase rate than outsourced human screeners.",
-          "mini_headline": "eHealth's AI agent Alice",
+          "headline": "ChatGPT ads stay a small bet\nfor holiday budgets",
+          "body": "Brands are testing ChatGPT ads, but high CPCs and unproven sales keep them a small slice of holiday budgets.",
+          "mini_headline": "ChatGPT ads stay a test",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "Most of eHealth's customers call during Medicare's roughly 54-day open enrollment window, about half a million calls, and 70% to 80% buy by phone, which left some waiting six hours for a licensed agent."
+                "x": "Brands don't expect ChatGPT ads to gift them significant sales this holiday season. Beyond expensive cost-per-click rates and unproven sales, AI assistants are still establishing themselves as a trustworthy source for product recommendations."
               },
               {
                 "t": "p",
-                "x": "The health insurance agency now uses Regal's LLM-based voice agent, Alice, to prescreen callers. According to data Regal provided to CX Dive, Alice answers every call immediately, earns 77% \"exceptional\" satisfaction ratings and has a 27% higher purchase rate than eHealth had with human screeners from an outsourced call center."
+                "x": "Sensor Tower data shows over 1,400 unique advertisers ran ads on ChatGPT in August, an 8% month-over-month increase, though most spend comes from large companies such as Capital One, Expedia and Cloudflare."
               },
               {
                 "t": "p",
-                "x": "The deployment began in February 2025 as an after-hours pilot. Because regulations require an uninterrupted privacy statement, Regal built a \"static node\" the agent reads without being interrupted before handing callers back to a human agent."
+                "x": "“Generally the results have been pretty bad,” said Measured's Terence Einhorn. “The equivalent to the cost-per-click on ChatGPT is around 6X of that on Google.” Superfiliate's Anders Bill said most brands aren't moving meaningful budgets away from Meta or search yet."
               },
               {
                 "t": "p",
-                "x": "Compliance was a key stakeholder from the start. \"For any business that's regulated it's not a plug-and-play solution,\" said Atul Kumar, eHealth's VP of product and AI."
+                "x": "“Brands can't afford to use something until they know it works,” Einhorn added. “And they're not gonna know it works until they're using it.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "eHealth의 AI\n구매율 27% 높였다",
-          "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
-          "mini_headline": "eHealth의 AI 에이전트 Alice",
+          "headline": "ChatGPT 광고는\n연말 예산의 작은 베팅",
+          "body": "브랜드들은 ChatGPT 광고를 시험하지만 CPCs가 높아 비중은 작다.",
+          "mini_headline": "ChatGPT 광고는 아직 시험 단계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealth 고객은 대부분 약 54일 동안 이어지는 Medicare 공개 가입 기간에 전화를 건다. 통화가 약 오십만 건에 이르고 70%에서 80%가 전화로 구매하다 보니, 자격을 갖춘 상담원을 여섯 시간이나 기다린 고객도 있었다."
+                "x": "브랜드들은 이번 연말 시즌 ChatGPT 광고에서 의미 있는 매출을 기대하지 않는다. 클릭당 비용은 비싸고 매출 효과는 검증되지 않았다. AI 비서도 아직 믿을 만한 상품 추천처로 자리 잡는 중이다."
               },
               {
                 "t": "p",
-                "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice에게 전화 문의 사전 선별을 맡긴다. Regal이 CX Dive에 제공한 데이터를 보면 Alice는 모든 전화를 바로 받는다. 만족도 평가에서는 77%가 \"exceptional\"(매우 우수)을 줬고, 구매율도 eHealth가 외주 콜센터의 사람 선별 인력을 쓸 때보다 27% 높다."
+                "x": "Sensor Tower 데이터를 보면 8월 ChatGPT에 광고를 낸 고유 광고주는 1,400곳이 넘어 전월보다 8% 늘었다. 지출은 대부분 Capital One, Expedia, Cloudflare 같은 대기업 몫이다."
               },
               {
                 "t": "p",
-                "x": "첫 도입은 2025년 2월, 업무 시간 외 시범 운영이었다. 개인정보 고지는 규정상 중단 없이 전달해야 한다. 그래서 Regal은 에이전트가 고지를 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
+                "x": "Measured의 Terence Einhorn은 “전반적으로 결과가 꽤 나빴다”며 “ChatGPT의 클릭당 비용에 해당하는 값은 Google의 약 6X 수준”이라고 했다. Superfiliate의 Anders Bill에 따르면 브랜드 대부분은 아직 Meta나 검색 예산을 의미 있게 옮기지 않았다."
               },
               {
                 "t": "p",
-                "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자로 참여했다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
+                "x": "Einhorn은 “브랜드는 효과가 있다는 걸 알기 전에는 무언가를 쓸 여유가 없다”며 “그런데 써 보기 전에는 효과가 있는지 알 수 없다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "eHealthのAI\n購入率27%向上",
-          "body": "eHealthのAI「Alice」は、外部委託の担当者より購入率が27%高い。",
-          "mini_headline": "eHealthのAIエージェントAlice",
+          "headline": "ChatGPT広告は\n年末商戦の小さな賭け",
+          "body": "ブランドはChatGPT広告を試すが、高いCPCsと不確かな売上で予算比率は小さい。",
+          "mini_headline": "ChatGPT広告はまだ試験段階",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealthの顧客の多くは、約54日間のMedicareオープン加入期間に電話をかけてくる。その数は約五十万件にのぼり、70%から80%が電話で購入するため、有資格の担当者を六時間待つ人もいた。"
+                "x": "ブランド各社は、この年末商戦でChatGPT広告が大きな売上をもたらすとは期待していない。高いクリック単価や実証されていない売上効果に加え、AIアシスタントは商品推薦の信頼できる情報源としての地位をまだ築いている途中だ。"
               },
               {
                 "t": "p",
-                "x": "この健康保険代理店は現在、RegalのLLMベース(LLM-based)の音声エージェント「Alice」で電話を事前選別している。RegalがCX Diveに提供したデータによると、Aliceはすべての電話に即座に応答し、満足度評価では77%が「exceptional(非常に良い)」を付け、eHealthが外部委託コールセンターの人間による選別を使っていた頃より購入率が27%高い。"
+                "x": "Sensor Towerのデータによると、8月にChatGPTで広告を出したユニーク広告主は1,400超と前月比8%増えたが、支出の大半はCapital One、Expedia、Cloudflareなどの大企業によるものだ。"
               },
               {
                 "t": "p",
-                "x": "導入は2025年2月、時間外の試験運用として始まった。規制上、プライバシーに関する説明を途切れなく伝える必要があるため、Regalはエージェントが割り込まれずに読み上げてから人間の担当者に引き継ぐ「static node(静的ノード)」を構築した。"
+                "x": "「全体として結果はかなり悪い」とMeasuredのTerence Einhornは語る。「ChatGPTのクリック単価に相当するものは、Googleの約6Xだ」。SuperfiliateのAnders Billは、ほとんどのブランドはまだMetaや検索から意味のある予算を移していないと述べた。"
               },
               {
                 "t": "p",
-                "x": "コンプライアンス部門は当初から重要な関係者だった。eHealthの製品・AI担当VP、Atul Kumar氏は「規制を受けるあらゆる企業にとって、これはplug-and-playのソリューションではない」と語った。"
+                "x": "「効果があるとわかるまで、ブランドは何かを使う余裕はない」とEinhornは付け加えた。「そして使ってみるまで、効果があるかはわからない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "eHealth的AI筛选\n购买率高出27%",
-          "body": "eHealth的AI代理Alice预筛Medicare来电，购买率比外包人工高27%。",
-          "mini_headline": "eHealth的AI代理Alice",
+          "headline": "ChatGPT广告\n仍是节日预算里的小赌注",
+          "body": "品牌正在测试ChatGPT广告，但CPCs偏高、销量未经验证，在节日预算中占比仍小。",
+          "mini_headline": "ChatGPT广告仍处试水阶段",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealth的大多数客户会在Medicare约54天的开放参保期内来电，来电量约五十万通，其中70%至80%通过电话购买，导致一些人要等六个小时才能接通持证代理人。"
+                "x": "品牌并不指望ChatGPT广告在今年节日季带来可观销售。除了高昂的单次点击成本和未经证实的销售效果，AI助手作为可信商品推荐来源的地位也仍在建立之中。"
               },
               {
                 "t": "p",
-                "x": "这家健康保险代理机构现在使用Regal基于LLM（LLM-based）的语音代理Alice对来电进行预筛。根据Regal向CX Dive提供的数据，Alice能即时接听每一通电话，获得77%的“exceptional”（非常满意）满意度评价，购买率比eHealth此前使用外包呼叫中心人工筛选员时高27%。"
+                "x": "Sensor Tower数据显示，8月在ChatGPT投放广告的独立广告主超过1,400家，环比增长8%，但大部分支出来自Capital One、Expedia和Cloudflare等大公司。"
               },
               {
                 "t": "p",
-                "x": "该部署于2025年2月以非工作时间试点的形式启动。由于法规要求不间断地宣读隐私声明，Regal构建了一个“static node”（静态节点），由代理在不被打断的情况下读完，再将来电转回人工代理人。"
+                "x": "“总体而言，效果相当差，”Measured的Terence Einhorn说，“ChatGPT上相当于单次点击成本的数值大约是Google的6X。”Superfiliate的Anders Bill表示，大多数品牌尚未把可观预算从Meta或搜索转移出来。"
               },
               {
                 "t": "p",
-                "x": "合规部门从一开始就是关键利益相关方。eHealth产品与AI副总裁（VP）Atul Kumar表示：“对于任何受监管的企业来说，这都不是plug-and-play的解决方案。”"
+                "x": "“在确认有效之前，品牌承担不起使用某样东西的代价，”Einhorn补充道，“而在用之前，他们也无法知道它是否有效。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El filtro con IA de eHealth\nlogra un 27% más de compras",
-          "body": "Alice, el agente de IA de eHealth, filtra llamadas de Medicare y logra un 27% más de compras que humanos externos.",
-          "mini_headline": "Alice, el agente de IA de eHealth",
+          "headline": "Los anuncios de ChatGPT, una\napuesta menor para las fiestas",
+          "body": "Las marcas prueban anuncios en ChatGPT, pero sus altos CPCs y ventas inciertas limitan su peso en las fiestas.",
+          "mini_headline": "Los anuncios de ChatGPT siguen en prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los clientes de eHealth llama durante el periodo de inscripción abierta de Medicare, de unos 54 días, en torno a medio millón de llamadas, y entre el 70% y el 80% compra por teléfono, lo que hacía que algunos esperaran seis horas a un agente con licencia."
+                "x": "Las marcas no esperan que los anuncios de ChatGPT les regalen ventas significativas en esta temporada de fiestas. Además del elevado coste por clic y de unas ventas sin demostrar, los asistentes de AI todavía se están consolidando como fuente fiable de recomendaciones de productos."
               },
               {
                 "t": "p",
-                "x": "La agencia de seguros de salud usa ahora Alice, el agente de voz basado en LLM (LLM-based) de Regal, para filtrar previamente las llamadas. Según datos que Regal facilitó a CX Dive, Alice responde de inmediato a todas las llamadas, obtiene un 77% de valoraciones de satisfacción \"exceptional\" (excepcional) y logra una tasa de compra un 27% superior a la que eHealth tenía con filtradores humanos de un centro de llamadas externo."
+                "x": "Los datos de Sensor Tower muestran que más de 1,400 anunciantes únicos publicaron anuncios en ChatGPT en agosto, un 8% más que el mes anterior, aunque la mayor parte del gasto procede de grandes empresas como Capital One, Expedia y Cloudflare."
               },
               {
                 "t": "p",
-                "x": "El despliegue comenzó en febrero de 2025 como piloto fuera del horario laboral. Como la normativa exige una declaración de privacidad sin interrupciones, Regal creó un \"static node\" (nodo estático) que el agente lee sin ser interrumpido antes de devolver a los usuarios a un agente humano."
+                "x": "“En general, los resultados han sido bastante malos”, dijo Terence Einhorn, de Measured. “El equivalente al coste por clic en ChatGPT es de alrededor de 6X el de Google”. Anders Bill, de Superfiliate, dijo que la mayoría de las marcas aún no está retirando presupuestos significativos de Meta ni de búsqueda."
               },
               {
                 "t": "p",
-                "x": "El área de cumplimiento normativo fue una parte interesada clave desde el principio. \"Para cualquier empresa regulada, no es una solución plug-and-play\", dijo Atul Kumar, VP de producto e IA (AI) de eHealth."
+                "x": "“Las marcas no pueden permitirse usar algo hasta saber que funciona”, añadió Einhorn. “Y no van a saber que funciona hasta que lo usen”."
               }
             ]
           }
@@ -1531,121 +1521,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "eHealth의 AI\n구매율 27% 높였다",
-          "body": "eHealth의 AI Alice는 외주 상담원보다 구매율이 27% 높다.",
-          "mini_headline": "eHealth의 AI 에이전트 Alice",
+          "headline": "ChatGPT 광고는\n연말 예산의 작은 베팅",
+          "body": "브랜드들이 ChatGPT 광고를 시험하지만 높은 CPCs 탓에 비중은 작다.",
+          "mini_headline": "ChatGPT 광고는 아직 시험 단계",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealth 고객 대부분은 약 54일간의 Medicare 공개 가입 기간에 전화한다. 통화는 약 오십만 건에 이르고 70%에서 80%가 전화로 구매해, 일부는 자격을 갖춘 상담원을 여섯 시간이나 기다렸다."
+                "x": "브랜드들은 이번 연말 시즌에 ChatGPT 광고가 의미 있는 매출을 안겨 주리라 기대하지 않는다. 비싼 클릭당 비용과 검증되지 않은 매출 효과뿐 아니라, AI 비서는 아직 믿을 만한 상품 추천처로 자리 잡는 중이다."
               },
               {
                 "t": "p",
-                "x": "이 건강보험 대리점은 이제 Regal의 LLM 기반(LLM-based) 음성 에이전트 Alice로 전화 문의를 사전 선별한다. Regal이 CX Dive에 제공한 데이터에 따르면 Alice는 모든 전화를 즉시 받고, 만족도 평가에서 77%가 \"exceptional\"(매우 우수)을 줬으며, eHealth가 외주 콜센터의 인간 선별 인력을 쓸 때보다 구매율이 27% 높다."
+                "x": "Sensor Tower 데이터에 따르면 8월 ChatGPT에 광고를 집행한 고유 광고주는 1,400곳이 넘어 전월보다 8% 늘었다. 다만 지출 대부분은 Capital One, Expedia, Cloudflare 같은 대기업에서 나온다."
               },
               {
                 "t": "p",
-                "x": "도입은 2025년 2월 업무 시간 외 시범 운영으로 시작했다. 규정상 개인정보 고지를 중단 없이 전달해야 해서, Regal은 에이전트가 끊기지 않고 읽은 뒤 통화를 사람 상담원에게 넘기는 \"정적 노드(static node)\"를 만들었다."
+                "x": "Measured의 Terence Einhorn은 “전반적으로 결과가 꽤 나빴다”며 “ChatGPT의 클릭당 비용에 해당하는 값은 Google의 약 6X 수준”이라고 말했다. Superfiliate의 Anders Bill은 대부분의 브랜드가 아직 Meta나 검색에서 의미 있는 예산을 옮기지 않고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "컴플라이언스 부서는 처음부터 핵심 이해관계자였다. eHealth의 제품·AI 담당 VP인 Atul Kumar는 \"규제를 받는 기업이라면 어디든 plug-and-play 솔루션이 아니다\"라고 말했다."
+                "x": "Einhorn은 “브랜드는 효과가 있다는 걸 알기 전에는 무언가를 쓸 여유가 없다”며 “그런데 써 보기 전에는 효과가 있는지 알 수 없다”고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "eHealthのAI\n購入率27%向上",
-          "body": "eHealthのAI「Alice」は、外部委託の担当者より購入率が27%高い。",
-          "mini_headline": "eHealthのAIエージェントAlice",
+          "headline": "ChatGPT広告は\n年末商戦の小さな賭け",
+          "body": "ブランドはChatGPT広告を試すが、高いCPCsと不確かな売上で予算比率は小さい。",
+          "mini_headline": "ChatGPT広告はまだ試験段階",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealthの顧客の多くは、約54日間のMedicareオープン加入期間に電話をかけてくる。その数は約五十万件にのぼり、70%から80%が電話で購入するため、有資格の担当者を六時間待つ人もいた。"
+                "x": "ブランド各社は、この年末商戦でChatGPT広告が大きな売上をもたらすとは期待していない。高いクリック単価や実証されていない売上効果に加え、AIアシスタントは商品推薦の信頼できる情報源としての地位をまだ築いている途中だ。"
               },
               {
                 "t": "p",
-                "x": "この健康保険代理店は現在、RegalのLLMベース(LLM-based)の音声エージェント「Alice」で電話を事前選別している。RegalがCX Diveに提供したデータによると、Aliceはすべての電話に即座に応答し、満足度評価では77%が「exceptional(非常に良い)」を付け、eHealthが外部委託コールセンターの人間による選別を使っていた頃より購入率が27%高い。"
+                "x": "Sensor Towerのデータによると、8月にChatGPTで広告を出したユニーク広告主は1,400超と前月比8%増えたが、支出の大半はCapital One、Expedia、Cloudflareなどの大企業によるものだ。"
               },
               {
                 "t": "p",
-                "x": "導入は2025年2月、時間外の試験運用として始まった。規制上、プライバシーに関する説明を途切れなく伝える必要があるため、Regalはエージェントが割り込まれずに読み上げてから人間の担当者に引き継ぐ「static node(静的ノード)」を構築した。"
+                "x": "「全体として結果はかなり悪い」とMeasuredのTerence Einhornは語る。「ChatGPTのクリック単価に相当するものは、Googleの約6Xだ」。SuperfiliateのAnders Billは、ほとんどのブランドはまだMetaや検索から意味のある予算を移していないと述べた。"
               },
               {
                 "t": "p",
-                "x": "コンプライアンス部門は当初から重要な関係者だった。eHealthの製品・AI担当VP、Atul Kumar氏は「規制を受けるあらゆる企業にとって、これはplug-and-playのソリューションではない」と語った。"
+                "x": "「効果があるとわかるまで、ブランドは何かを使う余裕はない」とEinhornは付け加えた。「そして使ってみるまで、効果があるかはわからない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "eHealth的AI筛选\n购买率高出27%",
-          "body": "eHealth的AI代理Alice预筛Medicare来电，购买率比外包人工高27%。",
-          "mini_headline": "eHealth的AI代理Alice",
+          "headline": "ChatGPT广告\n仍是节日预算里的小赌注",
+          "body": "品牌正在测试ChatGPT广告，但CPCs偏高、销量未经验证，在节日预算中占比仍小。",
+          "mini_headline": "ChatGPT广告仍处试水阶段",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "eHealth的大多数客户会在Medicare约54天的开放参保期内来电，来电量约五十万通，其中70%至80%通过电话购买，导致一些人要等六个小时才能接通持证代理人。"
+                "x": "品牌并不指望ChatGPT广告在今年节日季带来可观销售。除了高昂的单次点击成本和未经证实的销售效果，AI助手作为可信商品推荐来源的地位也仍在建立之中。"
               },
               {
                 "t": "p",
-                "x": "这家健康保险代理机构现在使用Regal基于LLM（LLM-based）的语音代理Alice对来电进行预筛。根据Regal向CX Dive提供的数据，Alice能即时接听每一通电话，获得77%的“exceptional”（非常满意）满意度评价，购买率比eHealth此前使用外包呼叫中心人工筛选员时高27%。"
+                "x": "Sensor Tower数据显示，8月在ChatGPT投放广告的独立广告主超过1,400家，环比增长8%，但大部分支出来自Capital One、Expedia和Cloudflare等大公司。"
               },
               {
                 "t": "p",
-                "x": "该部署于2025年2月以非工作时间试点的形式启动。由于法规要求不间断地宣读隐私声明，Regal构建了一个“static node”（静态节点），由代理在不被打断的情况下读完，再将来电转回人工代理人。"
+                "x": "“总体而言，效果相当差，”Measured的Terence Einhorn说，“ChatGPT上相当于单次点击成本的数值大约是Google的6X。”Superfiliate的Anders Bill表示，大多数品牌尚未把可观预算从Meta或搜索转移出来。"
               },
               {
                 "t": "p",
-                "x": "合规部门从一开始就是关键利益相关方。eHealth产品与AI副总裁（VP）Atul Kumar表示：“对于任何受监管的企业来说，这都不是plug-and-play的解决方案。”"
+                "x": "“在确认有效之前，品牌承担不起使用某样东西的代价，”Einhorn补充道，“而在用之前，他们也无法知道它是否有效。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "El filtro con IA de eHealth\nlogra un 27% más de compras",
-          "body": "Alice, el agente de IA de eHealth, filtra llamadas de Medicare y logra un 27% más de compras que humanos externos.",
-          "mini_headline": "Alice, el agente de IA de eHealth",
+          "headline": "Los anuncios de ChatGPT, una\napuesta menor para las fiestas",
+          "body": "Las marcas prueban anuncios en ChatGPT, pero sus altos CPCs y ventas inciertas limitan su peso en las fiestas.",
+          "mini_headline": "Los anuncios de ChatGPT siguen en prueba",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://imgproxy.divecdn.com/7JDi4W44PTjz7KDuAV3i8RnkRc5JmghK-NdjRmUUhFE/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp"
+                "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
               },
               {
                 "t": "p",
-                "x": "La mayoría de los clientes de eHealth llama durante el periodo de inscripción abierta de Medicare, de unos 54 días, en torno a medio millón de llamadas, y entre el 70% y el 80% compra por teléfono, lo que hacía que algunos esperaran seis horas a un agente con licencia."
+                "x": "Las marcas no esperan que los anuncios de ChatGPT les regalen ventas significativas en esta temporada de fiestas. Además del elevado coste por clic y de unas ventas sin demostrar, los asistentes de AI todavía se están consolidando como fuente fiable de recomendaciones de productos."
               },
               {
                 "t": "p",
-                "x": "La agencia de seguros de salud usa ahora Alice, el agente de voz basado en LLM (LLM-based) de Regal, para filtrar previamente las llamadas. Según datos que Regal facilitó a CX Dive, Alice responde de inmediato a todas las llamadas, obtiene un 77% de valoraciones de satisfacción \"exceptional\" (excepcional) y logra una tasa de compra un 27% superior a la que eHealth tenía con filtradores humanos de un centro de llamadas externo."
+                "x": "Los datos de Sensor Tower muestran que más de 1,400 anunciantes únicos publicaron anuncios en ChatGPT en agosto, un 8% más que el mes anterior, aunque la mayor parte del gasto procede de grandes empresas como Capital One, Expedia y Cloudflare."
               },
               {
                 "t": "p",
-                "x": "El despliegue comenzó en febrero de 2025 como piloto fuera del horario laboral. Como la normativa exige una declaración de privacidad sin interrupciones, Regal creó un \"static node\" (nodo estático) que el agente lee sin ser interrumpido antes de devolver a los usuarios a un agente humano."
+                "x": "“En general, los resultados han sido bastante malos”, dijo Terence Einhorn, de Measured. “El equivalente al coste por clic en ChatGPT es de alrededor de 6X el de Google”. Anders Bill, de Superfiliate, dijo que la mayoría de las marcas aún no está retirando presupuestos significativos de Meta ni de búsqueda."
               },
               {
                 "t": "p",
-                "x": "El área de cumplimiento normativo fue una parte interesada clave desde el principio. \"Para cualquier empresa regulada, no es una solución plug-and-play\", dijo Atul Kumar, VP de producto e IA (AI) de eHealth."
+                "x": "“Las marcas no pueden permitirse usar algo hasta saber que funciona”, añadió Einhorn. “Y no van a saber que funciona hasta que lo usen”."
               }
             ]
           }

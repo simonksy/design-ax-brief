@@ -7353,6 +7353,152 @@
           "x": "Subscriptions expand to three plans: Archicad Studio, Archicad Collaborate and Archicad Max, the last intended for practices using data- and AI-based workflows."
         }
       ]
+    },
+    "design/agent-permission-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
+        },
+        {
+          "t": "p",
+          "x": "“Allow this action” is hard to answer when you can’t see what the action does, writes KAT, co-founder of 123sudo (maker of AI workspace 9xchat), in a product-design perspective rather than a security spec."
+        },
+        {
+          "t": "p",
+          "x": "Connected doesn’t mean approved: an interface should distinguish “this tool is connected” from “this action is permitted for the current task.” Show the outcome, not the tool — not “Allow send_message?” but “Send this email to Alex at an external address, with the attached project brief?”"
+        },
+        {
+          "t": "p",
+          "x": "Build the preview from the pending tool call itself, not just the agent’s summary. Approval should belong to a specific action: if the recipient, attachment or body changes, ask again. Warnings need words, not just colours — “External recipient,” “Overwrites an existing file.”"
+        },
+        {
+          "t": "p",
+          "x": "More prompts don’t mean more control: set understandable boundaries at the start of a task, then ask only when the agent steps outside them. Checklist: access, actions, targets, approval, changes. “‘Trust me’ isn’t a useful approval screen.”"
+        }
+      ]
+    },
+    "design/grok-imagine-vercel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+        },
+        {
+          "t": "p",
+          "x": "Grok Imagine Video 1.5 Lite from xAI is now available on AI Gateway. This lightweight model turns text prompts and images into video with native audio."
+        },
+        {
+          "t": "p",
+          "x": "The model produces clips from 1 to 15 seconds long in 480p, 720p, and 1080p. Seven aspect ratios cover widescreen, square, and portrait formats, so you can create horizontal scenes or vertical videos from the same generation workflow."
+        },
+        {
+          "t": "p",
+          "x": "To start generating videos, set the model to spacexai/grok-imagine-video-1.5-lite in the AI SDK or in the AI CLI. Chain an image model with Grok Imagine Video 1.5 Lite to create a still and animate it in one flow. You can also try it directly in the AI Gateway Playground."
+        },
+        {
+          "t": "p",
+          "x": "AI Gateway provides one API for calling models, tracking usage and cost, and configuring routing, retries, and failover. You can use an AI Gateway API key or bring your own provider key."
+        }
+      ]
+    },
+    "design/atlas-hand-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics’ new four-fingered Atlas hand has 13 degrees of freedom, is directly actuated and was designed for mass manufacturing. It drops the pinky, shrinks the gripper and was built for high-fidelity simulation to enable sim-to-real reinforcement learning, Alberto Rodriguez, director of robot behavior for Atlas, told The Robot Report."
+        },
+        {
+          "t": "p",
+          "x": "It is built from 13 identical, fully encapsulated actuators with no fragile cables crossing joints. Earlier hands could lift 100 lb.-plus objects, so strength was traded down slightly for actuation transparency."
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        },
+        {
+          "t": "p",
+          "x": "Requirements came from a suite of tasks — power tools, cables, fishing for screws — and key thumb motions. A two-thumb design was dropped for its extra DoFs, cost and volume."
+        },
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Backdrivable actuation plus friction compensation enables accurate dynamic simulation: “Build actuators that simulate well, and then rely on RL at scale.” Rodriguez expects RL in simulation to unlock complex dexterity beyond pick and place. The hands are used extensively at headquarters but not yet deployed across the fleet."
+        }
+      ]
+    },
+    "design/figma-ai-team-rituals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "Hero illustration by James Marshall"
+        },
+        {
+          "t": "p",
+          "x": "Elevating AI’s impact from individual productivity gains to team-wide wins requires meeting people where they are. Teams need forums centered on peer support where both beginners and skilled practitioners can learn, practice, and refine AI skills in a low-pressure environment. Here are four examples."
+        },
+        {
+          "t": "p",
+          "x": "Figma runs peer-led study groups. Design operations manager Jake Geller launched a pilot called “AI Collective”: five peer-led groups organized by topics designers chose, meeting one hour a week over six weeks, with Slack between sessions and a template suggesting 20 minutes of teaching and 40 minutes of practice."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Sephora shares what didn’t work. Sneha Narahalli, SVP of technology, hosts a biweekly forum where builders share what they’re building with AI. Early sessions showed only polished work, so presenters now walk through the process, including what they tried and what didn’t work. “Hearing from a peer and seeing how it makes their life easier is way more powerful than top-down messaging,” she says."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Sneha Narahalli, Senior Vice President of Technology, Sephora"
+        },
+        {
+          "t": "p",
+          "x": "Mercari cross-trains across functions. Principal Designer Aki Alkhatib’s team runs hands-on sessions where designers learn engineering fundamentals, like using an AI coding tool and setting up a GitHub repository, and developers learn design principles like visual hierarchy."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian opens every crit with a prototype. Chief Design Officer Charlie Sutton adopted a rule: show the prototype first and explain it afterward. “Sometimes, simple rules are what make complex changes possible,” he says."
+        }
+      ]
+    },
+    "design/runway-claude-motion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic is launching Claude Motion with Runway as a launch partner. Claude Motion turns a prompt into a short animated explainer built from the text, charts, shapes and images in your own work, and any animation can be exported to Runway to add generated footage and finish the edit. It is in beta on Claude Team and Enterprise plans."
+        },
+        {
+          "t": "p",
+          "x": "Ask Claude to turn a quarterly report into a 30-second all-hands explainer or animate a chart in a board deck. Claude writes the code that animates your content; the result plays like a short video you can adjust, revise through conversation or download as an MP4."
+        },
+        {
+          "t": "p",
+          "x": "When an explainer needs more, export it to Runway to generate new video and images, edit clips by describing the change, and use Runway Agent to assemble a longer cut around the animation."
+        },
+        {
+          "t": "p",
+          "x": "Runway suggests launch videos that pair animated stats with product shots generated from one reference photo, onboarding walkthroughs with generated scenes of customers, all-hands updates with added voiceover and music, and 16:9 explainers expanded into vertical and square formats or localized without rebuilding the animation."
+        }
+      ]
     }
   }
 }

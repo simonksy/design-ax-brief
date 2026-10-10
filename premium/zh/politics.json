@@ -1813,6 +1813,140 @@
           "x": "这家监管机构正将目光转向AI智能体。在有报道称智能体绕过保障措施后，它已联系OpenAI、Anthropic、Meta以及英国AI Security Institute。ICO技术监管主任Richard Nevinson表示：“AI智能体自主行动这一事实，不能成为合规不力的借口。”一项为期六周、针对智能体AI的证据征集将持续到11月20日。"
         }
       ]
+    },
+    "politics/uber-gdpr-art22-fine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "法律依据：第22条（包括画像在内的自动化个人决策）和第13条（向数据主体收集个人数据时应提供的信息）。决定：行政罚款。"
+        },
+        {
+          "t": "p",
+          "x": "荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）对 Uber 处以 EUR 824 990 000 的罚款。原因是 AP 认定 Uber 对司机作出了完全自动化的决策。在怀疑存在欺诈或客户评价过低时，司机账户会被自动暂时停用；若客户评价持续偏低，则会被永久停用。由此，司机在停用期间失去了通过 Uber 获得的收入。"
+        },
+        {
+          "t": "p",
+          "x": "调查源于171名法国 Uber 司机通过 Ligue des droits de l’Homme（LDH）向法国 Commission Nationale de l'Informatique et des Libertés（CNIL）提交的投诉。由于 Uber 的欧洲总部位于荷兰，此案依据 GDPR One-Stop-Shop 程序由荷兰数据保护机构 Autoriteit Persoonsgegevens（AP）处理。案件涉及2018年至2022年间发生的事件。"
+        },
+        {
+          "t": "p",
+          "x": "AP 表示，Uber 违反了《通用数据保护条例》（GDPR）关于禁止完全自动化决策的规定。AP 还认定，Uber 未就自动决策向司机提供充分信息。Uber 目前已停止上述违规行为。"
+        },
+        {
+          "t": "p",
+          "x": "Uber 已就罚款提起上诉，目前尚无最终司法裁决。"
+        }
+      ]
+    },
+    "politics/ai-labs-backlash-plans": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "据Axios报道，Anthropic、OpenAI等AI公司的高层正私下推演一场灾难性AI事件之后公众与政界强烈反弹的情景。他们预计会发生一场大规模(large-scale)事件，最可能是网络攻击，导致金融服务、互联网连接乃至电力和供水中断。"
+        },
+        {
+          "t": "p",
+          "x": "报道称，这种首次在现实世界(real-world)造成重大损害的事件，会让本已心存戒备的公众更加反感这项技术及其领军人物，包括达里奥·阿莫代伊(Dario Amodei)和萨姆·奥尔特曼(Sam Altman)，也会迁怒于不愿对其加以监管的特朗普(Trump)总统。许多顶尖AI研究人员和高管认为，重大事故不可避免。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI发言人表示：“OpenAI会开展准备演练，由团队讨论并推演一系列潜在情景。”“这些情景并不被视为必然发生。”Anthropic拒绝置评。"
+        },
+        {
+          "t": "p",
+          "x": "Axios援引了近期针对韩国金融机构的攻击：据CrowdStrike称，一名来自中国的黑客涉嫌利用包括DeepSeek在内的中国研发(China-developed)AI模型，窃取了数万名银行客户的数据。"
+        },
+        {
+          "t": "p",
+          "x": "AI业界的高层规划者预计，中期选举后势力上升的民主党会迅速采取行动叫停AI，但将面临重大挑战。相关规划主要集中在抓紧向国会议员普及相关知识，许多业内人士对Axios表示，预计未来六到12个月内会发生重大事件。"
+        }
+      ]
+    },
+    "politics/artex-pentest-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+          "cap": "首尔市内的银行ATM [韩联社资料照片，禁止转售及收入DB]"
+        },
+        {
+          "t": "p",
+          "x": "据称被用于近期针对韩国金融业的一系列黑客攻击的中国产人工智能(AI)渗透测试工具“ARTEX”，在滥用争议之下停止公开开发。"
+        },
+        {
+          "t": "p",
+          "x": "ARTEX开发者表示，由于该工具被滥用于网络攻击，将停止更新，也不再公开后续版本。据悉，开发者平台GitHub上的相关页面也已消失。不过，已分发的程序无法收回，仅靠停止开发恐怕难以阻止利用ARTEX发动的网络攻击。"
+        },
+        {
+          "t": "p",
+          "x": "据AFP、路透社等外媒10日报道，ARTEX开发者“Autumn-27”8日在开发者平台GitHub上发文称ARTEX遭到滥用，并表示：“考虑到该工具被误用，ARTEX将不再更新，并将转为闭源。”他还补充说：“后续版本将不会向公众发布，也不会提供维护支持。”"
+        },
+        {
+          "t": "p",
+          "x": "ARTEX方面称，将该工具用于网络攻击违背了开发者的本意，但并未直接提及在韩国发生的黑客事件。ARTEX方面还声称，对于利用该工具违反法律法规的行为不承担责任。路透社报道称，ARTEX的GitHub页面已经消失。"
+        },
+        {
+          "t": "p",
+          "x": "专家指出，ARTEX转为闭源后，新用户编写代码可能会更加困难。不过，一名中国信息通信专家对AFP表示，ARTEX此次的决定无法删除已下载的副本，也无法阻止用户继续使用。"
+        },
+        {
+          "t": "p",
+          "x": "ARTEX是一款自主渗透测试程序，通过连接大语言模型(LLM)，让AI代理分析攻击目标、规划渗透路径并运行安全工具。美国安全企业CrowdStrike分析称，上月底至本月初发生了针对韩国金融机构的攻击，攻击者同时使用了ARTEX和LLM。"
+        }
+      ]
+    },
+    "politics/china-speed-first-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+        },
+        {
+          "t": "p",
+          "x": "2026年9月12日，达里奥·阿莫代伊(Dario Amodei)以中国为核心论据，主张前沿实验室必须有意放缓能力提升。此后，SemiAnalysis追问中国在AI安全上究竟在做什么。其答案是：北京(Beijing)的实际做法以速度为本(speed-based)，而非以安全为本(safety-based)。"
+        },
+        {
+          "t": "p",
+          "x": "中国的官方立场是安全优先(safety-forward)，TC260发布的AI Safety Governance Framework 3.0(2026年9月14日)对递归式自我改进(self-improvement)发出警告。但该Framework开篇即强调促进创新，承诺的综合性AI法(AI Law)已于2025年搁置，而AI+行动计划(AI+ Action Plan)的目标是到2027年智能体普及率达到70%。其众多规定管的是AI在应用中说什么、做什么，而非前沿模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+          "cap": "来源：SemiAnalysis"
+        },
+        {
+          "t": "p",
+          "x": "在2021年至2026年9月15日期间9家中国主要开发商的857次发布数据中，只有31次(3.6%)曾公布安全评估结果，在发布时或之前公布的仅9次(1.1%)。没有一款中国前沿文本模型在发布时附带危险能力(dangerous-capability)评估；智谱(Zhipu)是唯一将安全列为明确战略承诺的实验室。"
+        },
+        {
+          "t": "p",
+          "x": "对102份文件的文本分析发现，只有技术科学家把安全置于发展之前；13项要求为前沿模型设定约束性义务的呼吁无一被采纳。作者认为，地缘政治推动中国走向速度优先，并指出Anthropic自己下一次发布的公告也把节奏问题表述为“保持对中国的竞争力(remaining competitive with China)”。"
+        }
+      ]
+    },
+    "politics/eu-ai-panel-loss-of-control": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "欧盟委员会(European Commission)于10月9日召开了人工智能(AI)科学小组(Scientific Panel)特别会议。"
+        },
+        {
+          "t": "p",
+          "x": "该小组一直在调查近期发生的失控事件，并与欧盟委员会AI办公室(AI Office)共同拟定了一系列问题，准备提交给开发相关模型的公司。负责技术主权、安全与民主事务的执行副主席(Executive Vice-President)亨娜·维尔库宁(Henna Virkkunen)出席了会议。"
+        },
+        {
+          "t": "p",
+          "x": "该小组由60名独立专家组成，就系统性风险、模型分类、评估方法和跨境市场监管等问题为EU AI办公室(EU AI Office)和各国主管部门提供建议。小组原定在会上向欧盟委员会提交关于前沿AI安全与安保风险的建议。"
+        },
+        {
+          "t": "p",
+          "x": "维尔库宁表示：“EU拥有全球首部应对AI系统性风险的法律，我们需要最前沿的科学意见。AI能力正在迅速发展，但凭借强有力的法律框架、果断的执法以及最优秀的科学头脑对这项工作的支持，欧洲能够在确保AI安全可靠方面发挥引领作用。”"
+        }
+      ]
     }
   }
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "games",
   "cards": [
     {
-      "id": "kotaku-vibe-browser-ports",
+      "id": "thrixel-hanocka-3d",
       "source_lang": "en",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
-      "body": "AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
-      "mini_headline": "AI, 게임을 브라우저로 옮기다",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
+      "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
+      "body": "Thrixel Build World에선 AI 코딩 에이전트가 에셋과 로직을 만든다.",
+      "mini_headline": "Thrixel, 3D에 코딩 에이전트",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/uchicago-ai-researcher-rana-hanocka-launches-thrixel-a-3d-generation-platform/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,173 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
           },
           {
             "t": "p",
-            "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임이 난데없이 수백 개나 쏟아졌다. Claude Opus 5.5의 디컴파일 실력이 워낙 뛰어난 덕이다. 코더들이 몇 달씩 매달리던 게임 소스 코드 복원이 이제는 기록적인 시간 안에 끝난다."
+            "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 부품마다 이름을 붙이고 논리적 계층으로 엮은 에셋을 만들어 주므로 AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 알아보고 조립하고 애니메이션할 수 있다. Thrixel로 만든 자동차라면 바퀴, 문, 차체가 저마다 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 갈아 끼우기 쉽다."
+          },
+          {
+            "t": "video",
+            "yt": "1rC0RlBDwrg"
           },
           {
             "t": "p",
-            "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이다. 실제로 꽤 잘 돌아가는 듯하다. 퍼블리셔가 중지 요청서(cease-and-desist)를 보낼 수는 있다. 하지만 이식판들이 이렇게 쉽고 빠르게 만들어졌다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 걸 무엇으로 막을까."
+            "x": "비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 한데 묶고, 3D 모델링 파이프라인의 단계마다 하나씩 맡겼다. MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대가 Hanocka의 연구에서 나왔다."
           },
           {
             "t": "p",
-            "x": "몇몇 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 잡을 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑 낮은 온라인 서버까지 돌아갔다. 대부분 PS2나 PS3 시대(PS3-era) 타이틀이다. PS3의 RAM이 약 512MB였으니 메모리가 브라우저 이식을 가로막지 않게 된 지도 꽤 됐다."
+            "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
           },
           {
             "t": "p",
-            "x": "달라진 건 Claude Opus 5.5를 밤새 돌려 두기만 하면 게임 하나가 디컴파일된다는 점이다. 퍼블리셔 법무팀은 당분간 야근을 피하기 어렵겠다."
+            "x": "Thrixel은 플랫폼과 함께 Build World도 내놨다. 창작자가 AI 코딩 에이전트와 나란히 일하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 만들면서 그 밑에 깔릴 로직과 코드까지 짠다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. 인셉션 투자 $3 million(3백만 달러)은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital에서 받았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI agents port Halo and GTA\nto the browser overnight",
-          "body": "AI coding agents decompiled Halo, GTA: Vice City and Black Ops into browser ports overnight, and they seem to work.",
-          "mini_headline": "AI ports games to the browser",
+          "headline": "Thrixel pairs 3D generation\nwith an AI coding agent",
+          "body": "Thrixel's Build World workflow pairs creators with an AI coding agent that generates assets and game logic.",
+          "mini_headline": "Thrixel: 3D plus a coding agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "In the past couple of weeks, hundreds of vibe-coded, AI-decompiled emulators and games have appeared out of thin air, because Claude Opus 5.5 is extremely good at decompiling. A game's source code can now be reconstructed in record time, something that used to take coders months."
+                "x": "Thrixel, founded by University of Chicago computer scientist Rana Hanocka, launched a 3D creation platform that generates assets built from individually named parts with logical hierarchy, so AI agents can identify, assemble, and animate them directly in industry-standard game engines. A car generated with Thrixel arrives with its wheels, doors, and chassis as separate named parts that can be animated or swapped."
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "The most concerning example yet: AI-decompiled web browser ports of Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and The Simpsons: Hit and Run actually seem to run very well. Publishers can send cease-and-desist letters, but the ports were clearly easy and fast to make, so what stops people from vibe-coding new ones?"
+                "x": "The platform combines vision language models, agentic pipelines, generative diffusion, and optimization techniques, each mapped to a discrete step in the 3D modeling pipeline. Hanocka's research laid key foundations for 3D AI, including MeshCNN and Text2Mesh."
               },
               {
                 "t": "p",
-                "x": "Some ports seemed borderline flawless. Hit and Run can target 240fps, and one of four Halo: CE browser ports had working online servers with low ping. Most are PS2- or PS3-era titles, and the PS3 had about 512MB of RAM, so memory hasn't limited browser ports for a while."
+                "x": "“Thrixel creates assets that are structured, so an LLM can animate them, add logic, and drop them into a scene,” said Hanocka."
               },
               {
                 "t": "p",
-                "x": "The difference is that Claude Opus 5.5 can be left running overnight to decompile a game. Publishers' legal teams are going to be working overtime for the foreseeable future."
+                "x": "Alongside the platform, Thrixel is introducing Build World, an agentic workflow in which creators work alongside an AI coding agent that generates the needed 3D content while writing the underlying logic and code. It supports Roblox, Three.js, Unity, and Unreal Engine. Thrixel has raised $3 million in inception funding from Sierra Ventures, MFV Partners, Harper Court Ventures, and Z5 Capital."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
-          "body": "AI 에이전트가 하룻밤 사이 Halo와 GTA를 브라우저로 옮겨 놓았다.",
-          "mini_headline": "AI, 게임을 브라우저로 옮기다",
+          "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
+          "body": "Thrixel Build World에선 AI 코딩 에이전트가 에셋과 로직을 만든다.",
+          "mini_headline": "Thrixel, 3D에 코딩 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임이 난데없이 수백 개나 쏟아졌다. Claude Opus 5.5의 디컴파일 실력이 워낙 뛰어난 덕이다. 코더들이 몇 달씩 매달리던 게임 소스 코드 복원이 이제는 기록적인 시간 안에 끝난다."
+                "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 부품마다 이름을 붙이고 논리적 계층으로 엮은 에셋을 만들어 주므로 AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 알아보고 조립하고 애니메이션할 수 있다. Thrixel로 만든 자동차라면 바퀴, 문, 차체가 저마다 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 갈아 끼우기 쉽다."
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이다. 실제로 꽤 잘 돌아가는 듯하다. 퍼블리셔가 중지 요청서(cease-and-desist)를 보낼 수는 있다. 하지만 이식판들이 이렇게 쉽고 빠르게 만들어졌다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 걸 무엇으로 막을까."
+                "x": "비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 한데 묶고, 3D 모델링 파이프라인의 단계마다 하나씩 맡겼다. MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대가 Hanocka의 연구에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "몇몇 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 잡을 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑 낮은 온라인 서버까지 돌아갔다. 대부분 PS2나 PS3 시대(PS3-era) 타이틀이다. PS3의 RAM이 약 512MB였으니 메모리가 브라우저 이식을 가로막지 않게 된 지도 꽤 됐다."
+                "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "달라진 건 Claude Opus 5.5를 밤새 돌려 두기만 하면 게임 하나가 디컴파일된다는 점이다. 퍼블리셔 법무팀은 당분간 야근을 피하기 어렵겠다."
+                "x": "Thrixel은 플랫폼과 함께 Build World도 내놨다. 창작자가 AI 코딩 에이전트와 나란히 일하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 만들면서 그 밑에 깔릴 로직과 코드까지 짠다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. 인셉션 투자 $3 million(3백만 달러)은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital에서 받았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがHaloとGTAを\n一夜でブラウザ移植",
-          "body": "AIエージェントがHaloやGTAを一夜でブラウザに移植し、動作するようだ。",
-          "mini_headline": "AIがゲームをブラウザへ移植",
+          "headline": "Thrixel、3D生成と\nAIコーディングエージェント",
+          "body": "Build WorldではAIコーディングエージェントがアセットとゲームロジックを作る。",
+          "mini_headline": "Thrixel:3Dとコーディングエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "この数週間で、バイブコーディング（vibe-coded）で作られ、AIで逆コンパイルされた（AI-decompiled）エミュレーターやゲームが何百本も突如として現れた。Claude Opus 5.5が逆コンパイルに極めて長けているためだ。かつてはコーダーが何か月もかけていたゲームのソースコード復元が、いまや記録的な速さで可能になった。"
+                "x": "シカゴ大学（University of Chicago）のコンピューター科学者Rana Hanockaが創業したThrixelは、3D制作プラットフォームを公開した。個々に名前の付いたパーツを論理的な階層で組み上げたアセットを生成し、AIエージェントが業界標準のゲームエンジン上でそれらを直接識別し、組み立て、アニメーションできるようにする。Thrixelで生成した車は、ホイール、ドア、シャシーがそれぞれ名前付きの別パーツとして出力され、アニメーションさせたり差し替えたりできる。"
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "これまでで最も懸念される例は、AIで逆コンパイルされたCall of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3、The Simpsons: Hit and Runのウェブブラウザ移植版が、実際にかなりよく動くように見えることだ。パブリッシャーは停止通告書（cease-and-desist）を送ることはできるが、これらの移植版は明らかに簡単かつ素早く作られた。ならば、人々がバイブコーディング（vibe-coding）で新たな移植版を作るのを何が止められるのか。"
+                "x": "このプラットフォームは、視覚言語モデル、エージェント型パイプライン、生成拡散、最適化手法を組み合わせ、それぞれを3Dモデリングパイプラインの個別の工程に割り当てている。Hanockaの研究は、MeshCNNやText2Meshなど、3D AIの重要な基盤を築いた。"
               },
               {
                 "t": "p",
-                "x": "一部の移植版はほぼ完璧に見えた。Hit and Runは240fpsを目標にでき、Halo: CEのブラウザ移植版4本のうち1本は低pingのオンラインサーバーまで機能していた。大半はPS2またはPS3世代（PS3-era）のタイトルで、PS3のRAMは約512 MBだったため、メモリはしばらく前からブラウザ移植の制約になっていない。"
+                "x": "「Thrixelが生み出すアセットは構造化されているので、LLMがアニメーションを付け、ロジックを加え、シーンに配置できる」とHanockaは語った。"
               },
               {
                 "t": "p",
-                "x": "違いは、Claude Opus 5.5を一晩動かしたままにしておけばゲームを逆コンパイルできる点にある。パブリッシャーの法務チームは、当面残業続きになるだろう。"
+                "x": "Thrixelはプラットフォームと併せてBuild Worldを導入する。クリエイターがAIコーディングエージェントと並んで作業するエージェント型ワークフローで、エージェントは必要な3Dコンテンツを生成しながら、その土台となるロジックとコードを書く。Roblox、Three.js、Unity、Unreal Engineに対応する。ThrixelはSierra Ventures、MFV Partners、Harper Court Ventures、Z5 Capitalから$3 million（3百万ドル）のインセプション資金を調達している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体一夜之间\n把Halo和GTA搬进浏览器",
-          "body": "AI编程智能体一夜间把Halo和GTA反编译成浏览器版，且似乎能运行。",
-          "mini_headline": "AI把游戏移植到浏览器",
+          "headline": "Thrixel将3D生成\n与AI编程智能体结合",
+          "body": "Thrixel的Build World让创作者与生成资产和游戏逻辑的AI编程智能体协作。",
+          "mini_headline": "Thrixel：3D加编程智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "过去几周里，数百个靠氛围编程（vibe-coded）做出、经AI反编译（AI-decompiled）的模拟器和游戏凭空冒了出来，原因是Claude Opus 5.5极其擅长反编译。过去程序员要花数月才能完成的游戏源代码重建，如今能以创纪录的速度完成。"
+                "x": "由芝加哥大学（University of Chicago）计算机科学家Rana Hanocka创办的Thrixel推出了一款3D创作平台。该平台生成的资产由逐一命名的部件按逻辑层级构成，AI智能体可以在业界标准游戏引擎中直接识别、组装这些资产并为其制作动画。用Thrixel生成的汽车，其车轮、车门和底盘都是各自命名的独立部件，可以单独制作动画或替换。"
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "迄今最令人担忧的例子是：经AI反编译的Call of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3和The Simpsons: Hit and Run网页浏览器移植版，实际运行起来似乎相当流畅。发行商可以发出停止侵权函（cease-and-desist），但这些移植版显然做起来既容易又快，那么又有什么能阻止人们用氛围编程（vibe-coding）做出新的版本？"
+                "x": "该平台结合了视觉语言模型、智能体流水线、生成式扩散和优化技术，每一项都对应3D建模流程中的一个独立步骤。Hanocka的研究为3D AI奠定了重要基础，包括MeshCNN和Text2Mesh。"
               },
               {
                 "t": "p",
-                "x": "部分移植版看上去近乎完美。Hit and Run可以以240fps为目标，四个Halo: CE浏览器移植版中有一个连低延迟的在线服务器都能正常使用。它们大多是PS2或PS3时代（PS3-era）的作品，而PS3只有约512 MB内存，因此内存早已不再是浏览器移植的限制。"
+                "x": "“Thrixel创建的资产是结构化的，因此LLM可以为其制作动画、添加逻辑并放入场景中，”Hanocka说。"
               },
               {
                 "t": "p",
-                "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
+                "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de IA portan Halo y GTA\nal navegador en una noche",
-          "body": "Agentes de IA llevaron Halo, GTA: Vice City y Black Ops al navegador en una noche, y parecen funcionar.",
-          "mini_headline": "La IA porta juegos al navegador",
+          "headline": "Thrixel une la generación 3D\ncon un agente de código de IA",
+          "body": "El flujo Build World de Thrixel une a creadores con un agente de código con IA que genera recursos y lógica de juego.",
+          "mini_headline": "Thrixel: 3D y un agente de código",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "En las últimas semanas han surgido de la nada cientos de emuladores y juegos vibe-coded y AI-decompiled, es decir, hechos con vibe coding y descompilados con IA, porque Claude Opus 5.5 es extremadamente bueno descompilando. El código fuente de un juego ahora puede reconstruirse en tiempo récord, algo que antes llevaba meses a los programadores."
+                "x": "Thrixel, fundada por la científica informática de la University of Chicago Rana Hanocka, lanzó una plataforma de creación 3D que genera recursos formados por piezas con nombre propio y una jerarquía lógica, de modo que los agentes de IA (AI) pueden identificarlos, ensamblarlos y animarlos directamente en motores de juego estándar de la industria. Un coche generado con Thrixel llega con las ruedas, las puertas y el chasis como piezas separadas y con nombre, que se pueden animar o sustituir."
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "El ejemplo más preocupante hasta ahora: los ports para navegador web, descompilados con IA, de Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 y The Simpsons: Hit and Run parecen funcionar muy bien. Las editoras pueden enviar cartas de cese y desistimiento (cease-and-desist), pero los ports fueron claramente fáciles y rápidos de hacer, así que ¿qué impide que la gente cree otros nuevos mediante vibe-coding?"
+                "x": "La plataforma combina modelos de lenguaje visual, pipelines agénticos, difusión generativa y técnicas de optimización, cada uno asignado a un paso concreto del pipeline de modelado 3D. La investigación de Hanocka sentó bases clave de la IA 3D, entre ellas MeshCNN y Text2Mesh."
               },
               {
                 "t": "p",
-                "x": "Algunos ports parecían casi impecables. Hit and Run puede apuntar a 240fps, y uno de los cuatro ports de Halo: CE para navegador tenía servidores en línea operativos con ping bajo. La mayoría son títulos de la era PS2 o PS3 (PS2- or PS3-era), y la PS3 tenía unos 512MB de RAM, así que la memoria hace tiempo que no limita los ports para navegador."
+                "x": "“Thrixel crea recursos estructurados, de modo que un LLM puede animarlos, añadirles lógica y colocarlos en una escena”, dijo Hanocka."
               },
               {
                 "t": "p",
-                "x": "La diferencia es que Claude Opus 5.5 puede dejarse funcionando toda la noche para descompilar un juego. Los equipos legales de las editoras tendrán que hacer horas extra en el futuro previsible."
+                "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
               }
             ]
           }
@@ -193,121 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 Halo·GTA를\n하룻밤에 브라우저로",
-          "body": "AI 에이전트가 하룻밤 새 Halo와 GTA를 브라우저로 이식했다.",
-          "mini_headline": "AI가 게임을 브라우저로 이식하다",
+          "headline": "Thrixel 3D 생성\nAI 코딩 에이전트와 결합",
+          "body": "Thrixel Build World는 AI 코딩 에이전트가 에셋과 로직을 만든다.",
+          "mini_headline": "Thrixel: 3D와 코딩 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "지난 몇 주 사이 바이브 코딩(vibe-coded)으로 만들고 AI로 디컴파일한(AI-decompiled) 에뮬레이터와 게임 수백 개가 난데없이 등장했다. Claude Opus 5.5가 디컴파일에 매우 뛰어나기 때문이다. 예전에는 코더들이 몇 달씩 걸리던 게임 소스 코드 복원이 이제 기록적인 시간 안에 가능하다."
+                "x": "시카고대학교(University of Chicago) 컴퓨터과학자 Rana Hanocka가 세운 Thrixel이 3D 제작 플랫폼을 출시했다. 이 플랫폼은 부품마다 이름을 붙이고 논리적 계층 구조로 엮은 에셋을 생성해, AI 에이전트가 업계 표준 게임 엔진 안에서 이를 직접 식별하고 조립하고 애니메이션할 수 있게 한다. Thrixel로 생성한 자동차는 바퀴, 문, 차체가 각각 이름 붙은 별도 부품으로 나와 애니메이션을 넣거나 교체할 수 있다."
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "지금까지 가장 우려스러운 사례는 AI로 디컴파일한 Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3, The Simpsons: Hit and Run의 웹 브라우저 이식판이 실제로 꽤 잘 돌아가는 듯하다는 점이다. 퍼블리셔는 중지 요청서(cease-and-desist)를 보낼 수 있지만, 이 이식판들은 분명 쉽고 빠르게 만들어졌다. 그렇다면 사람들이 바이브 코딩(vibe-coding)으로 새 이식판을 만드는 것을 무엇이 막을 수 있을까."
+                "x": "이 플랫폼은 비전 언어 모델, 에이전틱 파이프라인, 생성형 디퓨전, 최적화 기법을 결합하고 각각을 3D 모델링 파이프라인의 개별 단계에 대응시킨다. Hanocka의 연구는 MeshCNN과 Text2Mesh 등 3D AI의 핵심 토대를 놓았다."
               },
               {
                 "t": "p",
-                "x": "일부 이식판은 거의 흠잡을 데가 없어 보였다. Hit and Run은 240fps를 목표로 할 수 있고, Halo: CE 브라우저 이식판 네 개 중 하나는 핑이 낮은 온라인 서버까지 작동했다. 대부분 PS2 또는 PS3 시대(PS3-era) 타이틀이며, PS3의 RAM은 약 512MB였으니 메모리가 브라우저 이식의 걸림돌이 되지 않은 지는 꽤 됐다."
+                "x": "Hanocka는 “Thrixel은 구조화된 에셋을 만들기 때문에 LLM이 이를 애니메이션하고, 로직을 더하고, 장면에 바로 배치할 수 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "달라진 점은 Claude Opus 5.5를 밤새 돌려 두면 게임 하나를 디컴파일할 수 있다는 것이다. 퍼블리셔의 법무팀은 당분간 야근을 이어 가게 될 것이다."
+                "x": "Thrixel은 플랫폼과 함께 Build World를 선보인다. 창작자가 AI 코딩 에이전트와 나란히 작업하는 에이전틱 워크플로로, 에이전트가 필요한 3D 콘텐츠를 생성하면서 바탕이 되는 로직과 코드를 작성한다. Roblox, Three.js, Unity, Unreal Engine을 지원한다. Thrixel은 Sierra Ventures, MFV Partners, Harper Court Ventures, Z5 Capital로부터 인셉션 투자 $3 million(3백만 달러)을 유치했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIがHaloとGTAを\n一夜でブラウザ移植",
-          "body": "AIエージェントがHaloやGTAを一夜でブラウザに移植し、動作するようだ。",
-          "mini_headline": "AIがゲームをブラウザへ移植",
+          "headline": "Thrixel、3D生成と\nAIコーディングエージェント",
+          "body": "Build WorldではAIコーディングエージェントがアセットとゲームロジックを作る。",
+          "mini_headline": "Thrixel:3Dとコーディングエージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "この数週間で、バイブコーディング（vibe-coded）で作られ、AIで逆コンパイルされた（AI-decompiled）エミュレーターやゲームが何百本も突如として現れた。Claude Opus 5.5が逆コンパイルに極めて長けているためだ。かつてはコーダーが何か月もかけていたゲームのソースコード復元が、いまや記録的な速さで可能になった。"
+                "x": "シカゴ大学（University of Chicago）のコンピューター科学者Rana Hanockaが創業したThrixelは、3D制作プラットフォームを公開した。個々に名前の付いたパーツを論理的な階層で組み上げたアセットを生成し、AIエージェントが業界標準のゲームエンジン上でそれらを直接識別し、組み立て、アニメーションできるようにする。Thrixelで生成した車は、ホイール、ドア、シャシーがそれぞれ名前付きの別パーツとして出力され、アニメーションさせたり差し替えたりできる。"
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "これまでで最も懸念される例は、AIで逆コンパイルされたCall of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3、The Simpsons: Hit and Runのウェブブラウザ移植版が、実際にかなりよく動くように見えることだ。パブリッシャーは停止通告書（cease-and-desist）を送ることはできるが、これらの移植版は明らかに簡単かつ素早く作られた。ならば、人々がバイブコーディング（vibe-coding）で新たな移植版を作るのを何が止められるのか。"
+                "x": "このプラットフォームは、視覚言語モデル、エージェント型パイプライン、生成拡散、最適化手法を組み合わせ、それぞれを3Dモデリングパイプラインの個別の工程に割り当てている。Hanockaの研究は、MeshCNNやText2Meshなど、3D AIの重要な基盤を築いた。"
               },
               {
                 "t": "p",
-                "x": "一部の移植版はほぼ完璧に見えた。Hit and Runは240fpsを目標にでき、Halo: CEのブラウザ移植版4本のうち1本は低pingのオンラインサーバーまで機能していた。大半はPS2またはPS3世代（PS3-era）のタイトルで、PS3のRAMは約512 MBだったため、メモリはしばらく前からブラウザ移植の制約になっていない。"
+                "x": "「Thrixelが生み出すアセットは構造化されているので、LLMがアニメーションを付け、ロジックを加え、シーンに配置できる」とHanockaは語った。"
               },
               {
                 "t": "p",
-                "x": "違いは、Claude Opus 5.5を一晩動かしたままにしておけばゲームを逆コンパイルできる点にある。パブリッシャーの法務チームは、当面残業続きになるだろう。"
+                "x": "Thrixelはプラットフォームと併せてBuild Worldを導入する。クリエイターがAIコーディングエージェントと並んで作業するエージェント型ワークフローで、エージェントは必要な3Dコンテンツを生成しながら、その土台となるロジックとコードを書く。Roblox、Three.js、Unity、Unreal Engineに対応する。ThrixelはSierra Ventures、MFV Partners、Harper Court Ventures、Z5 Capitalから$3 million（3百万ドル）のインセプション資金を調達している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体一夜之间\n把Halo和GTA搬进浏览器",
-          "body": "AI编程智能体一夜间把Halo和GTA反编译成浏览器版，且似乎能运行。",
-          "mini_headline": "AI把游戏移植到浏览器",
+          "headline": "Thrixel将3D生成\n与AI编程智能体结合",
+          "body": "Thrixel的Build World让创作者与生成资产和游戏逻辑的AI编程智能体协作。",
+          "mini_headline": "Thrixel：3D加编程智能体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "过去几周里，数百个靠氛围编程（vibe-coded）做出、经AI反编译（AI-decompiled）的模拟器和游戏凭空冒了出来，原因是Claude Opus 5.5极其擅长反编译。过去程序员要花数月才能完成的游戏源代码重建，如今能以创纪录的速度完成。"
+                "x": "由芝加哥大学（University of Chicago）计算机科学家Rana Hanocka创办的Thrixel推出了一款3D创作平台。该平台生成的资产由逐一命名的部件按逻辑层级构成，AI智能体可以在业界标准游戏引擎中直接识别、组装这些资产并为其制作动画。用Thrixel生成的汽车，其车轮、车门和底盘都是各自命名的独立部件，可以单独制作动画或替换。"
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "迄今最令人担忧的例子是：经AI反编译的Call of Duty: Black Ops、Halo: CE、Grand Theft Auto: Vice City、Skate 3和The Simpsons: Hit and Run网页浏览器移植版，实际运行起来似乎相当流畅。发行商可以发出停止侵权函（cease-and-desist），但这些移植版显然做起来既容易又快，那么又有什么能阻止人们用氛围编程（vibe-coding）做出新的版本？"
+                "x": "该平台结合了视觉语言模型、智能体流水线、生成式扩散和优化技术，每一项都对应3D建模流程中的一个独立步骤。Hanocka的研究为3D AI奠定了重要基础，包括MeshCNN和Text2Mesh。"
               },
               {
                 "t": "p",
-                "x": "部分移植版看上去近乎完美。Hit and Run可以以240fps为目标，四个Halo: CE浏览器移植版中有一个连低延迟的在线服务器都能正常使用。它们大多是PS2或PS3时代（PS3-era）的作品，而PS3只有约512 MB内存，因此内存早已不再是浏览器移植的限制。"
+                "x": "“Thrixel创建的资产是结构化的，因此LLM可以为其制作动画、添加逻辑并放入场景中，”Hanocka说。"
               },
               {
                 "t": "p",
-                "x": "不同之处在于，Claude Opus 5.5可以整夜运行来反编译一款游戏。在可预见的未来，发行商的法务团队恐怕要不断加班了。"
+                "x": "除平台外，Thrixel还推出了Build World。这是一种智能体工作流：创作者与AI编程智能体协同工作，后者生成所需的3D内容，同时编写底层逻辑和代码。它支持Roblox、Three.js、Unity和Unreal Engine。Thrixel已从Sierra Ventures、MFV Partners、Harper Court Ventures和Z5 Capital获得$3 million（3百万美元）的初创期融资。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de IA portan Halo y GTA\nal navegador en una noche",
-          "body": "Agentes de IA llevaron Halo, GTA: Vice City y Black Ops al navegador en una noche, y parecen funcionar.",
-          "mini_headline": "La IA porta juegos al navegador",
+          "headline": "Thrixel une la generación 3D\ncon un agente de código de IA",
+          "body": "El flujo Build World de Thrixel une a creadores con un agente de código con IA que genera recursos y lógica de juego.",
+          "mini_headline": "Thrixel: 3D y un agente de código",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/Vibecoded-Call-of-Duty-Black-Ops-web-browser-port-Kotaku.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Thrixel.jpg"
               },
               {
                 "t": "p",
-                "x": "En las últimas semanas han surgido de la nada cientos de emuladores y juegos vibe-coded y AI-decompiled, es decir, hechos con vibe coding y descompilados con IA, porque Claude Opus 5.5 es extremadamente bueno descompilando. El código fuente de un juego ahora puede reconstruirse en tiempo récord, algo que antes llevaba meses a los programadores."
+                "x": "Thrixel, fundada por la científica informática de la University of Chicago Rana Hanocka, lanzó una plataforma de creación 3D que genera recursos formados por piezas con nombre propio y una jerarquía lógica, de modo que los agentes de IA (AI) pueden identificarlos, ensamblarlos y animarlos directamente en motores de juego estándar de la industria. Un coche generado con Thrixel llega con las ruedas, las puertas y el chasis como piezas separadas y con nombre, que se pueden animar o sustituir."
+              },
+              {
+                "t": "video",
+                "yt": "1rC0RlBDwrg"
               },
               {
                 "t": "p",
-                "x": "El ejemplo más preocupante hasta ahora: los ports para navegador web, descompilados con IA, de Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 y The Simpsons: Hit and Run parecen funcionar muy bien. Las editoras pueden enviar cartas de cese y desistimiento (cease-and-desist), pero los ports fueron claramente fáciles y rápidos de hacer, así que ¿qué impide que la gente cree otros nuevos mediante vibe-coding?"
+                "x": "La plataforma combina modelos de lenguaje visual, pipelines agénticos, difusión generativa y técnicas de optimización, cada uno asignado a un paso concreto del pipeline de modelado 3D. La investigación de Hanocka sentó bases clave de la IA 3D, entre ellas MeshCNN y Text2Mesh."
               },
               {
                 "t": "p",
-                "x": "Algunos ports parecían casi impecables. Hit and Run puede apuntar a 240fps, y uno de los cuatro ports de Halo: CE para navegador tenía servidores en línea operativos con ping bajo. La mayoría son títulos de la era PS2 o PS3 (PS2- or PS3-era), y la PS3 tenía unos 512MB de RAM, así que la memoria hace tiempo que no limita los ports para navegador."
+                "x": "“Thrixel crea recursos estructurados, de modo que un LLM puede animarlos, añadirles lógica y colocarlos en una escena”, dijo Hanocka."
               },
               {
                 "t": "p",
-                "x": "La diferencia es que Claude Opus 5.5 puede dejarse funcionando toda la noche para descompilar un juego. Los equipos legales de las editoras tendrán que hacer horas extra en el futuro previsible."
+                "x": "Junto con la plataforma, Thrixel presenta Build World, un flujo de trabajo agéntico en el que los creadores trabajan junto a un agente de código con IA que genera el contenido 3D necesario mientras escribe la lógica y el código subyacentes. Es compatible con Roblox, Three.js, Unity y Unreal Engine. Thrixel ha recaudado 3 millones de dólares en financiación inicial de Sierra Ventures, MFV Partners, Harper Court Ventures y Z5 Capital."
               }
             ]
           }
@@ -315,437 +355,168 @@
       }
     },
     {
-      "id": "sister-driving-llm-cost",
-      "source_lang": "ko",
+      "id": "ea-javelin-ai-aimbots",
+      "source_lang": "en",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 게임, 하루 비용\n135만 원에 대출까지",
-      "body": "데모 이용자 급증에 하루 1,000달러 AI 비용이 들어 개발사가 대출을 받았다.",
-      "mini_headline": "LLM 게임 하루 135만 원",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1781573",
-      "accent": "#0070f3",
+      "headline": "EA's Javelin anti-cheat\nadapts to AI-era attacks",
+      "body": "EA's Javelin anti-cheat is adapting to AI-era threats, using AI tools to defend at machine speed against cheaters.",
+      "mini_headline": "EA anti-cheat vs AI attacks",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/how-ea-javelin-anti-cheat-is-changing-in-the-face-of-ai-attacks-mike-reavey-exclusive-interview/",
+      "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-            "cap": "여동생 운전 가르치기 대표 이미지 (사진출처: 스팀)"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
           },
           {
             "t": "p",
-            "x": "스트리머들의 입소문을 탄 스팀 게임 '여동생 운전 가르치기'가 개발팀의 재정난을 불러왔다. 개발사 이지 폭스(Easy Fox)는 7일 스팀 공지로 1.2.9 업데이트와 개발 상황을 공유하며, 데모 이용자 급증에 따른 서비스 장애와 유지 비용 대책을 밝혔다."
+            "x": "Intorqa's 2026 Cheatonomics study estimates the global video game cheating economy at $8.5 billion a year. EA says its Javelin anti-cheat now protects 21 games, monitored 10.8 billion PC sessions and dealt with 26.7 million cheat attempts in the past year, with 99%-plus detection accuracy."
           },
           {
             "t": "p",
-            "x": "핵심은 AI다. 플레이어가 말하듯 운전을 가르치면 AI가 이를 처리해 여동생이 운전하는 구조라, 사용하는 AI 모델에 따라 경험이 크게 갈린다."
+            "x": "EA CISO Mike Reavey says Javelin rests on strong tech, on disrupting the business of cheat sellers, and on talking openly with players."
           },
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-            "cap": "여동생 운전 가르치기 1.2.9 업데이트 공지 이미지 (사진출처: 스팀)"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
           },
           {
             "t": "p",
-            "x": "한 달 새 데모 이용자가 20배 이상 늘며 지출이 하루 1,000달러(약 134만 원)에 달했다. 정식 출시 때는 패키지 가격에 예상 AI 사용료를 포함해 추가 과금을 막을 전망이다. 이지 폭스는 \"데모 운영을 이어가기 위해 은행 대출도 받은 상황\"이라며, 네 명뿐인 팀이라 데모를 예상보다 일찍 종료할 수도 있지만 아직 결정하지는 않았다고 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-            "cap": "여동생 운전 가르치기 스크린샷 (사진출처: 스팀)"
+            "x": "On AI, Reavey says: “AI is real. It can help you in a lot of ways, both good and bad. We're going to use whatever tools we can to try and keep our games as secure as possible.” CISOs are asking how to take what they did at human speed and do it at machine speed, because attackers might be moving at machine speed now."
           },
           {
             "t": "p",
-            "x": "품질 문제도 있다. 주력이던 구글 제미나이가 폭증한 트래픽에 잦은 오류를 내자 보조 모델인 오픈AI 모델 비중이 커졌고, 장황한 응답과 기계적인 어투가 나타났다. 이지 폭스는 답변 길이와 어조 개선을 최우선 과제로 삼고, 주행 지시를 반대로 수행하는 오작동도 줄여 나갈 계획이다."
+            "x": "Asked whether AI can create undetectable cheats, he says what's undetectable today is probably detectable with the right solution, and that the same tools available to attackers are available to defenders."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "LLM 게임, 하루 비용\n135만 원에 대출까지",
-          "body": "데모 이용자 급증에 하루 1,000달러 AI 비용이 들어 개발사가 대출을 받았다.",
-          "mini_headline": "LLM 게임 하루 135만 원",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "여동생 운전 가르치기 대표 이미지 (사진출처: 스팀)"
-              },
-              {
-                "t": "p",
-                "x": "스트리머들의 입소문을 탄 스팀 게임 '여동생 운전 가르치기'가 개발팀의 재정난을 불러왔다. 개발사 이지 폭스(Easy Fox)는 7일 스팀 공지로 1.2.9 업데이트와 개발 상황을 공유하며, 데모 이용자 급증에 따른 서비스 장애와 유지 비용 대책을 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "핵심은 AI다. 플레이어가 말하듯 운전을 가르치면 AI가 이를 처리해 여동생이 운전하는 구조라, 사용하는 AI 모델에 따라 경험이 크게 갈린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "여동생 운전 가르치기 1.2.9 업데이트 공지 이미지 (사진출처: 스팀)"
-              },
-              {
-                "t": "p",
-                "x": "한 달 새 데모 이용자가 20배 이상 늘며 지출이 하루 1,000달러(약 134만 원)에 달했다. 정식 출시 때는 패키지 가격에 예상 AI 사용료를 포함해 추가 과금을 막을 전망이다. 이지 폭스는 \"데모 운영을 이어가기 위해 은행 대출도 받은 상황\"이라며, 네 명뿐인 팀이라 데모를 예상보다 일찍 종료할 수도 있지만 아직 결정하지는 않았다고 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "여동생 운전 가르치기 스크린샷 (사진출처: 스팀)"
-              },
-              {
-                "t": "p",
-                "x": "품질 문제도 있다. 주력이던 구글 제미나이가 폭증한 트래픽에 잦은 오류를 내자 보조 모델인 오픈AI 모델 비중이 커졌고, 장황한 응답과 기계적인 어투가 나타났다. 이지 폭스는 답변 길이와 어조 개선을 최우선 과제로 삼고, 주행 지시를 반대로 수행하는 오작동도 줄여 나갈 계획이다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "LLM game's 1.35 million won\ndaily AI bill forces a loan",
-          "body": "A surge in demo players pushed AI costs to $1,000 a day, so the developer took out a loan.",
-          "mini_headline": "LLM game: 1.35 million won a day",
+          "headline": "EA's Javelin anti-cheat\nadapts to AI-era attacks",
+          "body": "EA's Javelin anti-cheat is adapting to AI-era threats, using AI tools to defend at machine speed against cheaters.",
+          "mini_headline": "EA anti-cheat vs AI attacks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "Teaching Your Sister to Drive key art (Image: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
               },
               {
                 "t": "p",
-                "x": "Teaching Your Sister to Drive, a Steam game that spread by word of mouth among streamers, has pushed its development team into financial trouble. Developer Easy Fox shared the 1.2.9 update and its development status in a Steam notice on the 7th, outlining the service outages caused by the surge in demo players and its plans for upkeep costs."
+                "x": "Intorqa's 2026 Cheatonomics study estimates the global video game cheating economy at $8.5 billion a year. EA says its Javelin anti-cheat now protects 21 games, monitored 10.8 billion PC sessions and dealt with 26.7 million cheat attempts in the past year, with 99%-plus detection accuracy."
               },
               {
                 "t": "p",
-                "x": "AI is at the core. Players teach the sister to drive by talking to her, and AI processes what they say so she drives, which means the experience varies widely depending on the AI model used."
+                "x": "EA CISO Mike Reavey says Javelin rests on strong tech, on disrupting the business of cheat sellers, and on talking openly with players."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "Teaching Your Sister to Drive 1.2.9 update notice (Image: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
               },
               {
                 "t": "p",
-                "x": "Demo players grew more than 20-fold in a month, pushing spending to $1,000 (about 1.34 million won) a day. At full release, the package price is expected to include estimated AI usage fees to avoid extra charges. Easy Fox said, \"We have even taken out a bank loan to keep the demo running,\" adding that as a team of only four it may end the demo earlier than expected, though it has not decided yet."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "Teaching Your Sister to Drive screenshot (Image: Steam)"
+                "x": "On AI, Reavey says: “AI is real. It can help you in a lot of ways, both good and bad. We're going to use whatever tools we can to try and keep our games as secure as possible.” CISOs are asking how to take what they did at human speed and do it at machine speed, because attackers might be moving at machine speed now."
               },
               {
                 "t": "p",
-                "x": "There are quality problems too. When Google Gemini, the main model, threw frequent errors under the traffic spike, the share of the backup OpenAI model grew, bringing verbose answers and a mechanical tone. Easy Fox has made improving answer length and tone its top priority and plans to reduce glitches where driving instructions are carried out in reverse."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMゲーム、1日の費用\n135万ウォン、融資まで",
-          "body": "デモ利用者の急増でAI費用が1日1,000ドルに達し、開発元は融資を受けた。",
-          "mini_headline": "LLMゲーム、1日135万ウォン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "『妹に運転を教える』メインビジュアル（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "ストリーマーの口コミで話題になったSteamゲーム『妹に運転を教える』が、開発チームの財政難を招いた。開発元のEasy Fox（イージーフォックス）は7日、Steamのお知らせで1.2.9アップデートと開発状況を共有し、デモ利用者の急増によるサービス障害と維持費への対策を明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "核となるのはAIだ。プレイヤーが話しかけるように運転を教えるとAIがそれを処理して妹が運転する仕組みのため、使用するAIモデルによって体験が大きく変わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "『妹に運転を教える』1.2.9アップデートのお知らせ画像（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "1か月でデモ利用者が20倍以上に増え、支出は1日1,000ドル（約134万ウォン）に達した。正式リリース時にはパッケージ価格に想定AI利用料を含め、追加課金を避ける見通しだ。Easy Foxは「デモの運営を続けるため、銀行から融資も受けている状況」とし、4人だけのチームのためデモを予想より早く終了する可能性もあるが、まだ決定はしていないと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "『妹に運転を教える』スクリーンショット（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "品質の問題もある。主力だったGoogle Geminiが急増したトラフィックで頻繁にエラーを起こしたため、補助モデルであるOpenAIのモデルの比重が高まり、冗長な応答や機械的な口調が現れた。Easy Foxは回答の長さと口調の改善を最優先課題とし、運転指示を逆に実行する誤作動も減らしていく計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLM游戏日耗135万韩元\n开发商不得不贷款",
-          "body": "试玩用户激增使AI费用每天达1,000美元，开发商因此申请了贷款。",
-          "mini_headline": "LLM游戏每天135万韩元",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "《教妹妹开车》主视觉图（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "在主播圈口碑走红的Steam游戏《教妹妹开车》让开发团队陷入了财务困境。开发商Easy Fox于7日通过Steam公告分享了1.2.9更新与开发进展，并说明了试玩用户激增导致的服务故障及维护成本对策。"
-              },
-              {
-                "t": "p",
-                "x": "核心在于AI。玩家像说话一样教妹妹开车，AI处理这些指令后由妹妹驾驶，因此体验会因所用AI模型不同而差异很大。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "《教妹妹开车》1.2.9更新公告图片（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "一个月内试玩用户增长超过20倍，支出达到每天1,000美元（约134万韩元）。正式发售时，预计会把预估的AI使用费计入售价，以避免额外收费。Easy Fox表示“为了维持试玩运营，已向银行贷款”，并称由于团队只有四人，可能会比预期更早结束试玩，但尚未作出决定。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "《教妹妹开车》截图（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "质量问题同样存在。主力模型Google Gemini因流量暴增频繁出错，作为备用的OpenAI模型占比随之上升，出现了回答冗长、语气机械的问题。Easy Fox将改善回答长度和语气列为首要任务，并计划减少把驾驶指令反向执行的故障。"
+                "x": "Asked whether AI can create undetectable cheats, he says what's undetectable today is probably detectable with the right solution, and that the same tools available to attackers are available to defenders."
               }
             ]
           }
         },
         "es": {
-          "headline": "Un juego con LLM, 1,35 millones\nde wones al día y un préstamo",
-          "body": "El auge de jugadores de la demo elevó el gasto en IA a 1.000 dólares diarios y el estudio pidió un préstamo.",
-          "mini_headline": "Juego con LLM: 1,35 millones de wones al día",
+          "headline": "El anti-cheat Javelin de EA\nse adapta a ataques de la AI-era",
+          "body": "Javelin, el anti-cheat de EA, usa AI para defenderse a velocidad de máquina ante las amenazas de la AI-era.",
+          "mini_headline": "El anti-cheat de EA frente a ataques de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "Imagen principal de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
               },
               {
                 "t": "p",
-                "x": "Enseñar a conducir a la hermana, un juego de Steam que se popularizó por el boca a boca entre streamers, ha llevado a su equipo de desarrollo a problemas financieros. El desarrollador Easy Fox compartió el día 7, en un aviso de Steam, la actualización 1.2.9 y el estado del desarrollo, y explicó las fallas del servicio causadas por el aumento de jugadores de la demo y sus medidas ante los costos de mantenimiento."
+                "x": "El estudio Cheatonomics 2026 de Intorqa estima que la economía mundial de las trampas en videojuegos mueve $8.5 billion al año. EA afirma que su anti-cheat Javelin protege ahora 21 juegos, supervisó 10.8 billion de sesiones de PC y gestionó 26.7 million de intentos de trampa en el último año, con una precisión de detección superior al 99%."
               },
               {
                 "t": "p",
-                "x": "La clave es la IA. El jugador enseña a conducir hablando con naturalidad, la IA procesa esas indicaciones y la hermana conduce, así que la experiencia cambia mucho según el modelo de IA que se use."
+                "x": "Mike Reavey, CISO de EA, explica que Javelin se apoya en una tecnología sólida, en desarticular el negocio de los vendedores de trampas y en hablar abiertamente con los jugadores."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "Imagen del aviso de la actualización 1.2.9 de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
               },
               {
                 "t": "p",
-                "x": "En un mes, los jugadores de la demo se multiplicaron por más de 20 y el gasto llegó a 1.000 dólares (unos 1,34 millones de wones) al día. En el lanzamiento oficial, se prevé incluir en el precio del paquete el costo estimado de uso de IA para evitar cobros adicionales. Easy Fox afirmó: \"Incluso hemos pedido un préstamo bancario para seguir operando la demo\", y añadió que, al ser un equipo de solo cuatro personas, podría cerrar la demo antes de lo previsto, aunque aún no lo ha decidido."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "Captura de pantalla de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "x": "Sobre la AI, Reavey dice: “La AI es real. Puede ayudarte de muchas maneras, tanto buenas como malas. Vamos a usar todas las herramientas que podamos para intentar que nuestros juegos sean lo más seguros posible”. Los CISOs se preguntan cómo llevar lo que hacían a velocidad humana a la velocidad de las máquinas, porque los atacantes quizá ya se mueven a velocidad de máquina."
               },
               {
                 "t": "p",
-                "x": "También hay problemas de calidad. Cuando Google Gemini, el modelo principal, empezó a fallar con frecuencia por el aumento del tráfico, creció el peso del modelo de respaldo de OpenAI, con respuestas extensas y un tono mecánico. Easy Fox considera prioritario mejorar la longitud y el tono de las respuestas, y planea reducir los errores en los que las instrucciones de conducción se ejecutan al revés."
+                "x": "Ante la pregunta de si la AI puede crear trampas indetectables, responde que lo que hoy es indetectable probablemente pueda detectarse con la solución adecuada, y que las mismas herramientas al alcance de los atacantes están al alcance de los defensores."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "LLM game's 1.35 million won\ndaily AI bill forces a loan",
-          "body": "A surge in demo players pushed AI costs to $1,000 a day, so the developer took out a loan.",
-          "mini_headline": "LLM game: 1.35 million won a day",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "Teaching Your Sister to Drive key art (Image: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "Teaching Your Sister to Drive, a Steam game that spread by word of mouth among streamers, has pushed its development team into financial trouble. Developer Easy Fox shared the 1.2.9 update and its development status in a Steam notice on the 7th, outlining the service outages caused by the surge in demo players and its plans for upkeep costs."
-              },
-              {
-                "t": "p",
-                "x": "AI is at the core. Players teach the sister to drive by talking to her, and AI processes what they say so she drives, which means the experience varies widely depending on the AI model used."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "Teaching Your Sister to Drive 1.2.9 update notice (Image: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "Demo players grew more than 20-fold in a month, pushing spending to $1,000 (about 1.34 million won) a day. At full release, the package price is expected to include estimated AI usage fees to avoid extra charges. Easy Fox said, \"We have even taken out a bank loan to keep the demo running,\" adding that as a team of only four it may end the demo earlier than expected, though it has not decided yet."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "Teaching Your Sister to Drive screenshot (Image: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "There are quality problems too. When Google Gemini, the main model, threw frequent errors under the traffic spike, the share of the backup OpenAI model grew, bringing verbose answers and a mechanical tone. Easy Fox has made improving answer length and tone its top priority and plans to reduce glitches where driving instructions are carried out in reverse."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "LLMゲーム、1日の費用\n135万ウォン、融資まで",
-          "body": "デモ利用者の急増でAI費用が1日1,000ドルに達し、開発元は融資を受けた。",
-          "mini_headline": "LLMゲーム、1日135万ウォン",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "『妹に運転を教える』メインビジュアル（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "ストリーマーの口コミで話題になったSteamゲーム『妹に運転を教える』が、開発チームの財政難を招いた。開発元のEasy Fox（イージーフォックス）は7日、Steamのお知らせで1.2.9アップデートと開発状況を共有し、デモ利用者の急増によるサービス障害と維持費への対策を明らかにした。"
-              },
-              {
-                "t": "p",
-                "x": "核となるのはAIだ。プレイヤーが話しかけるように運転を教えるとAIがそれを処理して妹が運転する仕組みのため、使用するAIモデルによって体験が大きく変わる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "『妹に運転を教える』1.2.9アップデートのお知らせ画像（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "1か月でデモ利用者が20倍以上に増え、支出は1日1,000ドル（約134万ウォン）に達した。正式リリース時にはパッケージ価格に想定AI利用料を含め、追加課金を避ける見通しだ。Easy Foxは「デモの運営を続けるため、銀行から融資も受けている状況」とし、4人だけのチームのためデモを予想より早く終了する可能性もあるが、まだ決定はしていないと述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "『妹に運転を教える』スクリーンショット（画像出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "品質の問題もある。主力だったGoogle Geminiが急増したトラフィックで頻繁にエラーを起こしたため、補助モデルであるOpenAIのモデルの比重が高まり、冗長な応答や機械的な口調が現れた。Easy Foxは回答の長さと口調の改善を最優先課題とし、運転指示を逆に実行する誤作動も減らしていく計画だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "LLM游戏日耗135万韩元\n开发商不得不贷款",
-          "body": "试玩用户激增使AI费用每天达1,000美元，开发商因此申请了贷款。",
-          "mini_headline": "LLM游戏每天135万韩元",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "《教妹妹开车》主视觉图（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "在主播圈口碑走红的Steam游戏《教妹妹开车》让开发团队陷入了财务困境。开发商Easy Fox于7日通过Steam公告分享了1.2.9更新与开发进展，并说明了试玩用户激增导致的服务故障及维护成本对策。"
-              },
-              {
-                "t": "p",
-                "x": "核心在于AI。玩家像说话一样教妹妹开车，AI处理这些指令后由妹妹驾驶，因此体验会因所用AI模型不同而差异很大。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "《教妹妹开车》1.2.9更新公告图片（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "一个月内试玩用户增长超过20倍，支出达到每天1,000美元（约134万韩元）。正式发售时，预计会把预估的AI使用费计入售价，以避免额外收费。Easy Fox表示“为了维持试玩运营，已向银行贷款”，并称由于团队只有四人，可能会比预期更早结束试玩，但尚未作出决定。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "《教妹妹开车》截图（图片来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "质量问题同样存在。主力模型Google Gemini因流量暴增频繁出错，作为备用的OpenAI模型占比随之上升，出现了回答冗长、语气机械的问题。Easy Fox将改善回答长度和语气列为首要任务，并计划减少把驾驶指令反向执行的故障。"
-              }
-            ]
-          }
-        },
         "es": {
-          "headline": "Un juego con LLM, 1,35 millones\nde wones al día y un préstamo",
-          "body": "El auge de jugadores de la demo elevó el gasto en IA a 1.000 dólares diarios y el estudio pidió un préstamo.",
-          "mini_headline": "Juego con LLM: 1,35 millones de wones al día",
+          "headline": "El anti-cheat Javelin de EA\nse adapta a ataques de la AI-era",
+          "body": "Javelin, el anti-cheat de EA, usa AI para defenderse a velocidad de máquina ante las amenazas de la AI-era.",
+          "mini_headline": "El anti-cheat de EA frente a ataques de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/233/20261008174754.jpg",
-                "cap": "Imagen principal de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/05/season-3-5.jpg"
               },
               {
                 "t": "p",
-                "x": "Enseñar a conducir a la hermana, un juego de Steam que se popularizó por el boca a boca entre streamers, ha llevado a su equipo de desarrollo a problemas financieros. El desarrollador Easy Fox compartió el día 7, en un aviso de Steam, la actualización 1.2.9 y el estado del desarrollo, y explicó las fallas del servicio causadas por el aumento de jugadores de la demo y sus medidas ante los costos de mantenimiento."
+                "x": "El estudio Cheatonomics 2026 de Intorqa estima que la economía mundial de las trampas en videojuegos mueve $8.5 billion al año. EA afirma que su anti-cheat Javelin protege ahora 21 juegos, supervisó 10.8 billion de sesiones de PC y gestionó 26.7 million de intentos de trampa en el último año, con una precisión de detección superior al 99%."
               },
               {
                 "t": "p",
-                "x": "La clave es la IA. El jugador enseña a conducir hablando con naturalidad, la IA procesa esas indicaciones y la hermana conduce, así que la experiencia cambia mucho según el modelo de IA que se use."
+                "x": "Mike Reavey, CISO de EA, explica que Javelin se apoya en una tecnología sólida, en desarticular el negocio de los vendedores de trampas y en hablar abiertamente con los jugadores."
               },
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/230/20261008174753.jpg",
-                "cap": "Imagen del aviso de la actualización 1.2.9 de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/javelin-1024x579.jpg"
               },
               {
                 "t": "p",
-                "x": "En un mes, los jugadores de la demo se multiplicaron por más de 20 y el gasto llegó a 1.000 dólares (unos 1,34 millones de wones) al día. En el lanzamiento oficial, se prevé incluir en el precio del paquete el costo estimado de uso de IA para evitar cobros adicionales. Easy Fox afirmó: \"Incluso hemos pedido un préstamo bancario para seguir operando la demo\", y añadió que, al ser un equipo de solo cuatro personas, podría cerrar la demo antes de lo previsto, aunque aún no lo ha decidido."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/232/20261008174754.jpg",
-                "cap": "Captura de pantalla de Enseñar a conducir a la hermana (Fuente: Steam)"
+                "x": "Sobre la AI, Reavey dice: “La AI es real. Puede ayudarte de muchas maneras, tanto buenas como malas. Vamos a usar todas las herramientas que podamos para intentar que nuestros juegos sean lo más seguros posible”. Los CISOs se preguntan cómo llevar lo que hacían a velocidad humana a la velocidad de las máquinas, porque los atacantes quizá ya se mueven a velocidad de máquina."
               },
               {
                 "t": "p",
-                "x": "También hay problemas de calidad. Cuando Google Gemini, el modelo principal, empezó a fallar con frecuencia por el aumento del tráfico, creció el peso del modelo de respaldo de OpenAI, con respuestas extensas y un tono mecánico. Easy Fox considera prioritario mejorar la longitud y el tono de las respuestas, y planea reducir los errores en los que las instrucciones de conducción se ejecutan al revés."
+                "x": "Ante la pregunta de si la AI puede crear trampas indetectables, responde que lo que hoy es indetectable probablemente pueda detectarse con la solución adecuada, y que las mismas herramientas al alcance de los atacantes están al alcance de los defensores."
               }
             ]
           }
         }
+      },
+      "i18n_status": {
+        "ko": "fallback",
+        "ja": "fallback",
+        "zh": "fallback"
       }
     },
     {
-      "id": "dreamlands-1-0-public",
+      "id": "black-myth-zhongkui-no-ai",
       "source_lang": "en",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
-      "body": "Dreamlands가 1.0을 열어 누구나 AI로 3D 에셋과 월드를 만든다.",
-      "mini_headline": "Dreamlands 1.0 전면 공개",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/dreamlands-opens-its-ai-3d-world-building-platform-to-the-public-exclusive/",
+      "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
+      "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
+      "mini_headline": "Black Myth 속편, AI 거부",
+      "source": "Destructoid",
+      "url": "https://www.destructoid.com/black-myth-wukong-sequel-devs-said-no-to-ai-because-of-christopher-nolans-the-odyssey/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -753,269 +524,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+            "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
           },
           {
             "t": "p",
-            "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 3D 에셋과 월드 전체를 생성하며, 요금제는 월 $20부터 $200까지다. 출시 무대는 Google Cloud의 Gemini at Work 행사였고, 플랫폼은 Google Cloud Marketplace에서 제공된다."
+            "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui의 개발사인 중국 스튜디오 Game Science가 AI 사용을 “끝까지” 삼가겠다고 밝혔다. 계기는 Christopher Nolan이었다."
           },
           {
             "t": "p",
-            "x": "Unity와 Ubisoft를 거친 Thomas Tobin CEO는 세 가지 기능을 내세웠다. One-Click Texturing은 편집 1회에 $0.10, 약 10초면 오브젝트 스타일을 바꾼다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+            "x": "GamesRadar가 찾아낸 최근 번역본 Q&A에서 공동 창업자이자 아트 디렉터 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…” 그러고는 “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Surface는 나무, 금속, 유리, 천을 자동으로 알아보는 레이어 시스템을 얹어 리스킨을 빠르게 해 준다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+            "x": "genAI는 게임 에셋에만 쓰더라도 오래전부터 플레이어들의 우려를 샀다. 앞으로 대형 스튜디오 상당수가 AI 도구를 더 쓸 테니, 필자는 Game Science의 입장이 오히려 신선하다고 본다."
           },
           {
             "t": "p",
-            "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 짓고, 실제 세계의 배치를 본떠 도시도 만든다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+            "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자 말마따나 “서두를 것 없다”는 이유다."
           },
           {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-          },
-          {
-            "t": "p",
-            "x": "3인 스튜디오 Whenere는 이 도구로 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성했고, 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 예전 같으면 자기네 규모의 팀에게 \"정말 불가능했던\" 일이라고 했다. Dreamlands는 Google Cloud 위에서 돌아가며 Gemini 모델을 쓴다."
+            "t": "video",
+            "yt": "sqe3j4Qch1Y"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Dreamlands opens its AI\n3D world builder to all",
-          "body": "Dreamlands launched its 1.0 platform publicly, letting anyone generate game-ready 3D assets and whole worlds with AI.",
-          "mini_headline": "Dreamlands 1.0 goes public",
+          "headline": "Black Myth sequel team\nsays no to AI, citing Nolan",
+          "body": "Game Science says it will avoid AI on Black Myth: Zhong Kui to the end, inspired by Nolan's old-school The Odyssey.",
+          "mini_headline": "Black Myth sequel rejects AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands is publicly launching its 1.0 platform, giving anyone a way to generate game-ready 3D assets and entire worlds with AI, with plans from $20 to $200 a month. It launched at Google Cloud's Gemini at Work event, on the Google Cloud Marketplace."
+                "x": "Game Science, the Chinese studio behind Black Myth: Wukong and its upcoming sequel Black Myth: Zhong Kui, announced it will refrain from using AI “until the end” because of Christopher Nolan."
               },
               {
                 "t": "p",
-                "x": "CEO Thomas Tobin, formerly of Unity and Ubisoft, highlighted three features. One-Click Texturing restyles an object in about 10 seconds for $0.10 per edit."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "In a recently translated Q&A caught by GamesRadar, co-founder and art director Yang Qi shot down doubts about AI use on Zhong Kui, citing Nolan's The Odyssey: “At a time when digital filmmaking and 3D post-production seem to have reached a dead end, look at Nolan…” and “he's thriving, using even older techniques to shake things up.”"
               },
               {
                 "t": "p",
-                "x": "Surface adds a layering system that auto-detects wood, metal, glass and fabric for quick reskinning."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "The author notes that genAI, even just for game assets, has long concerned players, and that many big studios will use more AI tools going forward, making Game Science's stance refreshing."
               },
               {
                 "t": "p",
-                "x": "Procedural Building and City Makers generate structures from modular kits and floor plans, and can build cities from real-world layouts. Plugins cover Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max and Omniverse."
+                "x": "There's still no release date for Black Myth: Zhong Kui, because, in the words of Game Science's co-founder, “no rush.”"
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "Three-person studio Whenere used it to rebuild Netherfield Park for its Pride & Prejudice Fortnite world, turning photos into editable 3D models; CEO Karen Laur called the result \"truly impossible\" for a team their size before. Dreamlands runs on Google Cloud and uses Gemini models."
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
-          "body": "Dreamlands가 1.0을 열어 누구나 AI로 3D 에셋과 월드를 만든다.",
-          "mini_headline": "Dreamlands 1.0 전면 공개",
+          "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
+          "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
+          "mini_headline": "Black Myth 속편, AI 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 3D 에셋과 월드 전체를 생성하며, 요금제는 월 $20부터 $200까지다. 출시 무대는 Google Cloud의 Gemini at Work 행사였고, 플랫폼은 Google Cloud Marketplace에서 제공된다."
+                "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui의 개발사인 중국 스튜디오 Game Science가 AI 사용을 “끝까지” 삼가겠다고 밝혔다. 계기는 Christopher Nolan이었다."
               },
               {
                 "t": "p",
-                "x": "Unity와 Ubisoft를 거친 Thomas Tobin CEO는 세 가지 기능을 내세웠다. One-Click Texturing은 편집 1회에 $0.10, 약 10초면 오브젝트 스타일을 바꾼다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "GamesRadar가 찾아낸 최근 번역본 Q&A에서 공동 창업자이자 아트 디렉터 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…” 그러고는 “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Surface는 나무, 금속, 유리, 천을 자동으로 알아보는 레이어 시스템을 얹어 리스킨을 빠르게 해 준다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "genAI는 게임 에셋에만 쓰더라도 오래전부터 플레이어들의 우려를 샀다. 앞으로 대형 스튜디오 상당수가 AI 도구를 더 쓸 테니, 필자는 Game Science의 입장이 오히려 신선하다고 본다."
               },
               {
                 "t": "p",
-                "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 짓고, 실제 세계의 배치를 본떠 도시도 만든다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+                "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자 말마따나 “서두를 것 없다”는 이유다."
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "3인 스튜디오 Whenere는 이 도구로 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성했고, 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 예전 같으면 자기네 규모의 팀에게 \"정말 불가능했던\" 일이라고 했다. Dreamlands는 Google Cloud 위에서 돌아가며 Gemini 모델을 쓴다."
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Dreamlands 1.0\nAI 3D世界構築を開放",
-          "body": "Dreamlandsが1.0を公開し、誰でもAIで3D資産と世界を生成できるようにした。",
-          "mini_headline": "Dreamlands 1.0が一般公開",
+          "headline": "Black Myth続編、\nNolanに倣いAI不使用",
+          "body": "Game ScienceはZhong KuiでAIを最後まで使わないと表明した。",
+          "mini_headline": "Black Myth続編はAIを拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlandsは1.0プラットフォームを一般公開し、誰でもAIでゲームにそのまま使える3Dアセットや世界全体を生成できるようにする。料金プランは月額$20から$200まで。Google CloudのGemini at Workイベントで発表され、Google Cloud Marketplaceで提供される。"
+                "x": "Black Myth: Wukongと、その続編として控えるBlack Myth: Zhong Kuiを手がける中国のスタジオGame Scienceは、Christopher Nolanの影響から、AIの使用を「最後まで」控えると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "UnityとUbisoftに在籍していたCEOのThomas Tobin氏は、3つの機能を強調した。One-Click Texturingは、1回の編集あたり$0.10、約10秒でオブジェクトのスタイルを変更する。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "GamesRadarが取り上げた、最近翻訳されたQ&Aで、共同創業者でアートディレクターのYang Qiは、Zhong KuiでのAI使用への疑念を否定し、NolanのThe Odysseyを引き合いに出した。「デジタルの映画制作と3Dのポストプロダクションが行き詰まったように見える今、Nolanを見てほしい…」、そして「彼はさらに古い手法を使って状況を揺さぶり、成功している」と語った。"
               },
               {
                 "t": "p",
-                "x": "Surfaceは、木、金属、ガラス、布を自動検出するレイヤーシステムを追加し、素早いリスキンを可能にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "筆者は、ゲームアセットに限ってもgenAIは以前からプレイヤーの懸念の的であり、今後は多くの大手スタジオがAIツールをさらに使うことになるだけに、Game Scienceの姿勢は新鮮だと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Procedural BuildingとCity Makersは、モジュール式キットや間取り図から建物を生成し、現実世界の配置をもとに都市を作ることもできる。プラグインはUnity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max、Omniverseに対応する。"
+                "x": "Black Myth: Zhong Kuiの発売日はまだ決まっていない。Game Science共同創業者の言葉を借りれば、「急ぐことはない」からだ。"
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "3人のスタジオWhenereはこれを使い、『Pride & Prejudice』のFortniteワールドでNetherfield Parkを再構築し、写真を編集可能な3Dモデルに変換した。CEOのKaren Laur氏は、この成果は以前なら自分たちの規模のチームには「本当に不可能」だったと述べた。DreamlandsはGoogle Cloud上で動作し、Geminiモデルを使用している。"
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Dreamlands 1.0\nAI 3D世界构建器全面开放",
-          "body": "Dreamlands公开推出1.0平台，任何人都能用AI生成可用于游戏的3D资产和世界。",
-          "mini_headline": "Dreamlands 1.0全面开放",
+          "headline": "Black Myth续作团队\n援引Nolan拒用AI",
+          "body": "Game Science称《Black Myth: Zhong Kui》将始终不用AI。",
+          "mini_headline": "Black Myth续作拒用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands正式公开推出1.0平台，让任何人都能用AI生成可直接用于游戏的3D资产乃至完整世界，订阅方案为每月$20至$200。该平台在Google Cloud的Gemini at Work活动上发布，并上架Google Cloud Marketplace。"
+                "x": "打造《Black Myth: Wukong》及其即将推出的续作《Black Myth: Zhong Kui》的中国工作室Game Science宣布，受Christopher Nolan影响，将“直到最后”都不使用AI。"
               },
               {
                 "t": "p",
-                "x": "曾任职于Unity和Ubisoft的CEO Thomas Tobin重点介绍了三项功能。One-Click Texturing可在约10秒内改变物体风格，每次编辑收费$0.10。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "在GamesRadar注意到的一篇近期翻译的Q&A中，联合创始人兼美术总监Yang Qi驳斥了外界对《Zhong Kui》使用AI的质疑，并援引Nolan的《The Odyssey》：“在数字电影制作和3D后期制作似乎已走到死胡同的时候，看看Nolan……”以及“他正用更古老的技术来打破常规，而且如鱼得水。”"
               },
               {
                 "t": "p",
-                "x": "Surface新增分层系统，可自动识别木材、金属、玻璃和织物，便于快速更换外观。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "作者指出，即便只用于游戏素材，genAI也一直令玩家担忧，而今后许多大型工作室会更多地使用AI工具，这让Game Science的立场显得令人耳目一新。"
               },
               {
                 "t": "p",
-                "x": "Procedural Building和City Makers可根据模块化套件和平面图生成建筑，还能依据真实世界的布局构建城市。插件支持Unity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max和Omniverse。"
+                "x": "《Black Myth: Zhong Kui》仍未公布发售日期，用Game Science联合创始人的话说，因为“不着急”。"
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "三人工作室Whenere用它为其Pride & Prejudice Fortnite世界重建了Netherfield Park，把照片转换为可编辑的3D模型；CEO Karen Laur表示，这样的成果对他们这种规模的团队来说过去“真的不可能”。Dreamlands运行在Google Cloud上，并使用Gemini模型。"
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dreamlands abre a todos\nsu creador de mundos 3D con IA",
-          "body": "Dreamlands lanzó al público su plataforma 1.0 para crear con IA recursos 3D y mundos listos para juegos.",
-          "mini_headline": "Dreamlands 1.0 llega al público",
+          "headline": "La secuela de Black Myth\nrechaza la IA y cita a Nolan",
+          "body": "Game Science evitará la IA hasta el final en Black Myth: Zhong Kui, inspirado por la clásica The Odyssey de Nolan.",
+          "mini_headline": "La secuela de Black Myth rechaza la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands lanza al público su plataforma 1.0, que permite a cualquiera generar con IA recursos 3D listos para juegos y mundos completos, con planes de $20 a $200 al mes. Se presentó en el evento Gemini at Work de Google Cloud, en Google Cloud Marketplace."
+                "x": "Game Science, el estudio chino detrás de Black Myth: Wukong y de su próxima secuela, Black Myth: Zhong Kui, anunció que se abstendrá de usar IA (AI) “hasta el final” por Christopher Nolan."
               },
               {
                 "t": "p",
-                "x": "El CEO Thomas Tobin, que trabajó antes en Unity y Ubisoft, destacó tres funciones. One-Click Texturing cambia el estilo de un objeto en unos 10 segundos por $0.10 por edición."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "En una sesión de Q&A traducida recientemente y recogida por GamesRadar, el cofundador y director de arte Yang Qi descartó las dudas sobre el uso de IA en Zhong Kui y citó The Odyssey de Nolan: “En un momento en que el cine digital y la posproducción 3D parecen haber llegado a un callejón sin salida, miren a Nolan…” y “le va muy bien, usando técnicas aún más antiguas para sacudir las cosas”."
               },
               {
                 "t": "p",
-                "x": "Surface añade un sistema de capas que detecta automáticamente madera, metal, vidrio y tela para cambiar el acabado con rapidez."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "El autor señala que la genAI, incluso solo para recursos de juego, preocupa a los jugadores desde hace tiempo, y que muchos grandes estudios usarán más herramientas de IA en adelante, lo que hace refrescante la postura de Game Science."
               },
               {
                 "t": "p",
-                "x": "Procedural Building y City Makers generan estructuras a partir de kits modulares y planos de planta, y pueden construir ciudades a partir de trazados del mundo real. Los plugins abarcan Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max y Omniverse."
+                "x": "Black Myth: Zhong Kui sigue sin fecha de lanzamiento porque, en palabras del cofundador de Game Science, “no hay prisa”."
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "El estudio de tres personas Whenere lo usó para reconstruir Netherfield Park en su mundo de Fortnite de Pride & Prejudice, convirtiendo fotos en modelos 3D editables; su CEO, Karen Laur, dijo que antes el resultado habría sido \"realmente imposible\" para un equipo de su tamaño. Dreamlands funciona sobre Google Cloud y usa modelos Gemini."
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
@@ -1023,185 +722,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Dreamlands 1.0\nAI 3D 월드 빌더 공개",
-          "body": "Dreamlands가 1.0을 공개해 누구나 AI로 3D 에셋과 월드를 만든다.",
-          "mini_headline": "Dreamlands 1.0 전면 공개",
+          "headline": "Black Myth 속편팀\nNolan처럼 AI 거부",
+          "body": "Game Science, Zhong Kui엔 끝까지 AI를 쓰지 않는다.",
+          "mini_headline": "Black Myth 속편, AI 거부",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands가 1.0 플랫폼을 일반에 공개한다. 누구나 AI로 게임에 바로 쓸 수 있는 3D 에셋과 월드 전체를 생성할 수 있으며, 요금제는 월 $20부터 $200까지다. 출시는 Google Cloud의 Gemini at Work 행사에서 이뤄졌고, Google Cloud Marketplace에서 제공된다."
+                "x": "Black Myth: Wukong과 곧 나올 속편 Black Myth: Zhong Kui를 만든 중국 스튜디오 Game Science가 Christopher Nolan 때문에 AI 사용을 “끝까지” 삼가겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Unity와 Ubisoft 출신인 Thomas Tobin CEO는 세 가지 기능을 강조했다. One-Click Texturing은 편집 1회당 $0.10에 약 10초 만에 오브젝트의 스타일을 바꾼다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "GamesRadar가 포착한, 최근 번역된 Q&A에서 공동 창업자이자 아트 디렉터인 Yang Qi는 Zhong Kui에 AI를 쓰느냐는 의구심을 일축하며 Nolan의 The Odyssey를 예로 들었다. 그는 “디지털 영화 제작과 3D 후반 작업이 막다른 길에 이른 듯한 지금, Nolan을 보라…”라고 했고, “그는 훨씬 더 오래된 기법으로 판을 흔들며 승승장구하고 있다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Surface는 나무, 금속, 유리, 천을 자동으로 감지하는 레이어 시스템을 더해 빠르게 리스킨할 수 있게 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "필자는 게임 에셋에만 쓰더라도 genAI는 오랫동안 플레이어들의 우려를 샀고, 앞으로 많은 대형 스튜디오가 AI 도구를 더 많이 쓸 것이기에 Game Science의 입장이 신선하다고 짚는다."
               },
               {
                 "t": "p",
-                "x": "Procedural Building과 City Makers는 모듈형 키트와 평면도로 건물을 생성하고, 실제 세계의 배치를 바탕으로 도시도 만들 수 있다. 플러그인은 Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max, Omniverse를 지원한다."
+                "x": "Black Myth: Zhong Kui는 아직 출시일이 없다. Game Science 공동 창업자의 말을 빌리면 “서두를 것 없다”는 이유에서다."
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "3인 스튜디오 Whenere는 이를 활용해 Pride & Prejudice Fortnite 월드의 Netherfield Park를 재구성하며 사진을 편집 가능한 3D 모델로 바꿨다. Karen Laur CEO는 그 결과물이 예전이라면 자신들 규모의 팀에게 \"정말 불가능했던\" 일이라고 말했다. Dreamlands는 Google Cloud에서 운영되며 Gemini 모델을 사용한다."
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Dreamlands 1.0\nAI 3D世界構築を開放",
-          "body": "Dreamlandsが1.0を公開し、誰でもAIで3D資産と世界を生成できるようにした。",
-          "mini_headline": "Dreamlands 1.0が一般公開",
+          "headline": "Black Myth続編、\nNolanに倣いAI不使用",
+          "body": "Game ScienceはZhong KuiでAIを最後まで使わないと表明した。",
+          "mini_headline": "Black Myth続編はAIを拒否",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlandsは1.0プラットフォームを一般公開し、誰でもAIでゲームにそのまま使える3Dアセットや世界全体を生成できるようにする。料金プランは月額$20から$200まで。Google CloudのGemini at Workイベントで発表され、Google Cloud Marketplaceで提供される。"
+                "x": "Black Myth: Wukongと、その続編として控えるBlack Myth: Zhong Kuiを手がける中国のスタジオGame Scienceは、Christopher Nolanの影響から、AIの使用を「最後まで」控えると明らかにした。"
               },
               {
                 "t": "p",
-                "x": "UnityとUbisoftに在籍していたCEOのThomas Tobin氏は、3つの機能を強調した。One-Click Texturingは、1回の編集あたり$0.10、約10秒でオブジェクトのスタイルを変更する。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "GamesRadarが取り上げた、最近翻訳されたQ&Aで、共同創業者でアートディレクターのYang Qiは、Zhong KuiでのAI使用への疑念を否定し、NolanのThe Odysseyを引き合いに出した。「デジタルの映画制作と3Dのポストプロダクションが行き詰まったように見える今、Nolanを見てほしい…」、そして「彼はさらに古い手法を使って状況を揺さぶり、成功している」と語った。"
               },
               {
                 "t": "p",
-                "x": "Surfaceは、木、金属、ガラス、布を自動検出するレイヤーシステムを追加し、素早いリスキンを可能にする。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "筆者は、ゲームアセットに限ってもgenAIは以前からプレイヤーの懸念の的であり、今後は多くの大手スタジオがAIツールをさらに使うことになるだけに、Game Scienceの姿勢は新鮮だと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Procedural BuildingとCity Makersは、モジュール式キットや間取り図から建物を生成し、現実世界の配置をもとに都市を作ることもできる。プラグインはUnity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max、Omniverseに対応する。"
+                "x": "Black Myth: Zhong Kuiの発売日はまだ決まっていない。Game Science共同創業者の言葉を借りれば、「急ぐことはない」からだ。"
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "3人のスタジオWhenereはこれを使い、『Pride & Prejudice』のFortniteワールドでNetherfield Parkを再構築し、写真を編集可能な3Dモデルに変換した。CEOのKaren Laur氏は、この成果は以前なら自分たちの規模のチームには「本当に不可能」だったと述べた。DreamlandsはGoogle Cloud上で動作し、Geminiモデルを使用している。"
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Dreamlands 1.0\nAI 3D世界构建器全面开放",
-          "body": "Dreamlands公开推出1.0平台，任何人都能用AI生成可用于游戏的3D资产和世界。",
-          "mini_headline": "Dreamlands 1.0全面开放",
+          "headline": "Black Myth续作团队\n援引Nolan拒用AI",
+          "body": "Game Science称《Black Myth: Zhong Kui》将始终不用AI。",
+          "mini_headline": "Black Myth续作拒用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands正式公开推出1.0平台，让任何人都能用AI生成可直接用于游戏的3D资产乃至完整世界，订阅方案为每月$20至$200。该平台在Google Cloud的Gemini at Work活动上发布，并上架Google Cloud Marketplace。"
+                "x": "打造《Black Myth: Wukong》及其即将推出的续作《Black Myth: Zhong Kui》的中国工作室Game Science宣布，受Christopher Nolan影响，将“直到最后”都不使用AI。"
               },
               {
                 "t": "p",
-                "x": "曾任职于Unity和Ubisoft的CEO Thomas Tobin重点介绍了三项功能。One-Click Texturing可在约10秒内改变物体风格，每次编辑收费$0.10。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "在GamesRadar注意到的一篇近期翻译的Q&A中，联合创始人兼美术总监Yang Qi驳斥了外界对《Zhong Kui》使用AI的质疑，并援引Nolan的《The Odyssey》：“在数字电影制作和3D后期制作似乎已走到死胡同的时候，看看Nolan……”以及“他正用更古老的技术来打破常规，而且如鱼得水。”"
               },
               {
                 "t": "p",
-                "x": "Surface新增分层系统，可自动识别木材、金属、玻璃和织物，便于快速更换外观。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "作者指出，即便只用于游戏素材，genAI也一直令玩家担忧，而今后许多大型工作室会更多地使用AI工具，这让Game Science的立场显得令人耳目一新。"
               },
               {
                 "t": "p",
-                "x": "Procedural Building和City Makers可根据模块化套件和平面图生成建筑，还能依据真实世界的布局构建城市。插件支持Unity、Unreal、UEFN、Roblox、Blender、Maya、3ds Max和Omniverse。"
+                "x": "《Black Myth: Zhong Kui》仍未公布发售日期，用Game Science联合创始人的话说，因为“不着急”。"
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "三人工作室Whenere用它为其Pride & Prejudice Fortnite世界重建了Netherfield Park，把照片转换为可编辑的3D模型；CEO Karen Laur表示，这样的成果对他们这种规模的团队来说过去“真的不可能”。Dreamlands运行在Google Cloud上，并使用Gemini模型。"
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
         },
         "es": {
-          "headline": "Dreamlands abre a todos\nsu creador de mundos 3D con IA",
-          "body": "Dreamlands lanzó al público su plataforma 1.0 para crear con IA recursos 3D y mundos listos para juegos.",
-          "mini_headline": "Dreamlands 1.0 llega al público",
+          "headline": "La secuela de Black Myth\nrechaza la IA y cita a Nolan",
+          "body": "Game Science evitará la IA hasta el final en Black Myth: Zhong Kui, inspirado por la clásica The Odyssey de Nolan.",
+          "mini_headline": "La secuela de Black Myth rechaza la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/marketing-any-fabric-1024x640.png"
+                "src": "https://www.destructoid.com/wp-content/uploads/2026/10/black-myth-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Dreamlands lanza al público su plataforma 1.0, que permite a cualquiera generar con IA recursos 3D listos para juegos y mundos completos, con planes de $20 a $200 al mes. Se presentó en el evento Gemini at Work de Google Cloud, en Google Cloud Marketplace."
+                "x": "Game Science, el estudio chino detrás de Black Myth: Wukong y de su próxima secuela, Black Myth: Zhong Kui, anunció que se abstendrá de usar IA (AI) “hasta el final” por Christopher Nolan."
               },
               {
                 "t": "p",
-                "x": "El CEO Thomas Tobin, que trabajó antes en Unity y Ubisoft, destacó tres funciones. One-Click Texturing cambia el estilo de un objeto en unos 10 segundos por $0.10 por edición."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1-1024x554.png"
+                "x": "En una sesión de Q&A traducida recientemente y recogida por GamesRadar, el cofundador y director de arte Yang Qi descartó las dudas sobre el uso de IA en Zhong Kui y citó The Odyssey de Nolan: “En un momento en que el cine digital y la posproducción 3D parecen haber llegado a un callejón sin salida, miren a Nolan…” y “le va muy bien, usando técnicas aún más antiguas para sacudir las cosas”."
               },
               {
                 "t": "p",
-                "x": "Surface añade un sistema de capas que detecta automáticamente madera, metal, vidrio y tela para cambiar el acabado con rapidez."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Surfaces-Materials-1024x561.png"
+                "x": "El autor señala que la genAI, incluso solo para recursos de juego, preocupa a los jugadores desde hace tiempo, y que muchos grandes estudios usarán más herramientas de IA en adelante, lo que hace refrescante la postura de Game Science."
               },
               {
                 "t": "p",
-                "x": "Procedural Building y City Makers generan estructuras a partir de kits modulares y planos de planta, y pueden construir ciudades a partir de trazados del mundo real. Los plugins abarcan Unity, Unreal, UEFN, Roblox, Blender, Maya, 3ds Max y Omniverse."
+                "x": "Black Myth: Zhong Kui sigue sin fecha de lanzamiento porque, en palabras del cofundador de Game Science, “no hay prisa”."
               },
               {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-2-1024x649.png"
-              },
-              {
-                "t": "p",
-                "x": "El estudio de tres personas Whenere lo usó para reconstruir Netherfield Park en su mundo de Fortnite de Pride & Prejudice, convirtiendo fotos en modelos 3D editables; su CEO, Karen Laur, dijo que antes el resultado habría sido \"realmente imposible\" para un equipo de su tamaño. Dreamlands funciona sobre Google Cloud y usa modelos Gemini."
+                "t": "video",
+                "yt": "sqe3j4Qch1Y"
               }
             ]
           }
@@ -1209,327 +860,15 @@
       }
     },
     {
-      "id": "kutaragi-ai-daydreams",
+      "id": "aion2-steam-ai-reviews",
       "source_lang": "en",
       "tool": "Games",
       "eyebrow": "AI NEWS",
-      "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
-      "body": "구타라기는 2028-29년엔 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
-      "mini_headline": "구타라기, AI가 게임을 넘어선다",
+      "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
+      "body": "NCSoft Aion 2, Steam 첫날 40만에 육박했지만 평가는 Mixed다.",
+      "mini_headline": "Aion 2, AI 비판 속 흥행",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/playstation-creator-turned-ai-ceo-ken-kutaragi-predicts-ai-daydreams-will-replace-video-games-which-is-apparently-supposed-to-be-a-good-thing/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-          },
-          {
-            "t": "p",
-            "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 지금 AI 기업을 이끈다. 그는 비디오 게임이 머지않아 AI 백일몽에 자리를 내줄 것이라고 확신하는 듯하다."
-          },
-          {
-            "t": "p",
-            "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 밝혔다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며 2028년에서 2029년 무렵이면 오늘날 콘솔 수준의 속도로 돌아갈 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
-          },
-          {
-            "t": "p",
-            "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끄는 만큼 AI를 필연으로 홍보할 이해관계가 있다고 짚었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Kutaragi predicts AI daydreams\nwill replace video games",
-          "body": "PlayStation's Ken Kutaragi says real-time AI video and music at console speed around 2028-29 will change all content.",
-          "mini_headline": "Kutaragi sees AI outgrowing games",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ken Kutaragi, father of the PlayStation who retired from Sony in 2007, now runs AI firms and seems convinced video games will soon be replaced by AI daydreams."
-              },
-              {
-                "t": "p",
-                "x": "\"AI will transform games into entertainment, and change human sensibilities,\" he told a recent university panel, as reported by 4Gamer. \"The global game market is currently worth over 30 trillion Yen, but it might reach around 3,000 trillion Yen. If that happens, it won't even be called a game anymore.\""
-              },
-              {
-                "t": "p",
-                "x": "\"Behind the scenes, research and development is advancing on the real-time generation of video and music using AI,\" he said, predicting it will run at the speed of today's consoles around 2028 to 2029. \"When that happens, all content will change... Imagining things will become content itself.\" The quotes were machine translated from Japanese."
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+ notes Kutaragi leads Cyber AI Entertainment and Ascent Robotics, giving him a vested interest in promoting AI as inevitable."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
-          "body": "구타라기는 2028-29년엔 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
-          "mini_headline": "구타라기, AI가 게임을 넘어선다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 지금 AI 기업을 이끈다. 그는 비디오 게임이 머지않아 AI 백일몽에 자리를 내줄 것이라고 확신하는 듯하다."
-              },
-              {
-                "t": "p",
-                "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 밝혔다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며 2028년에서 2029년 무렵이면 오늘날 콘솔 수준의 속도로 돌아갈 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끄는 만큼 AI를 필연으로 홍보할 이해관계가 있다고 짚었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "久夛良木氏、AIの白昼夢が\nゲームに取って代わる",
-          "body": "久夛良木氏は2028-29年頃、リアルタイムAI映像・音楽が全コンテンツを変えると語る。",
-          "mini_headline": "久夛良木氏、AIはゲームを超えると予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007年にSonyを退いた「PlayStationの父」久夛良木健（Ken Kutaragi）氏は、現在AI企業を率いており、ビデオゲームはまもなくAIの白昼夢に取って代わられると確信しているようだ。"
-              },
-              {
-                "t": "p",
-                "x": "4Gamerの報道によると、同氏は最近の大学のパネルで「AIはゲームをエンターテインメントへと変え、人間の感性を変える」と語った。「世界のゲーム市場は現在30兆円超だが、3,000兆円規模に達するかもしれない。そうなれば、もはやゲームとは呼ばれないだろう」"
-              },
-              {
-                "t": "p",
-                "x": "「水面下では、AIを使った映像や音楽のリアルタイム生成の研究開発が進んでいる」と述べ、2028年から2029年頃には現在のゲーム機並みの速度で動作すると予測した。「そうなれば、あらゆるコンテンツが変わる……想像すること自体がコンテンツになる」。なお、引用は日本語からの機械翻訳である。"
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+は、Kutaragi氏がCyber AI EntertainmentとAscent Roboticsを率いており、AIを必然として宣伝することに利害関係があると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "久多良木健：AI白日梦\n将取代电子游戏",
-          "body": "PlayStation之父久多良木健称，2028至29年左右实时AI影音将改变所有内容。",
-          "mini_headline": "久多良木健：AI将超越游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007年从Sony退休的“PlayStation之父”久多良木健（Ken Kutaragi）如今经营着AI公司，他似乎确信电子游戏很快将被AI白日梦取代。"
-              },
-              {
-                "t": "p",
-                "x": "据4Gamer报道，他在近期一场大学座谈会上表示：“AI将把游戏转变为娱乐，并改变人类的感性。”“全球游戏市场目前规模超过30万亿日元，但可能达到约3,000万亿日元。如果那样，它甚至不会再被称为游戏。”"
-              },
-              {
-                "t": "p",
-                "x": "他说：“在幕后，利用AI实时生成视频和音乐的研发正在推进。”并预测到2028年至2029年左右，其运行速度将达到当今游戏主机的水平。“到那时，所有内容都会改变……想象本身就会成为内容。”以上引语由日语机器翻译而来。"
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+指出，Kutaragi执掌Cyber AI Entertainment和Ascent Robotics，因此在宣扬AI必然到来一事上存在切身利益。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kutaragi: ensoñaciones de IA\nreemplazarán a los videojuegos",
-          "body": "Ken Kutaragi cree que hacia 2028-29 el video y la música con IA en tiempo real cambiarán todo el contenido.",
-          "mini_headline": "Kutaragi ve a la IA superar los juegos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ken Kutaragi, padre de PlayStation que se retiró de Sony en 2007, dirige ahora empresas de IA y parece convencido de que los videojuegos pronto serán reemplazados por ensoñaciones de IA."
-              },
-              {
-                "t": "p",
-                "x": "\"La IA transformará los juegos en entretenimiento y cambiará la sensibilidad humana\", dijo en un reciente panel universitario, según informó 4Gamer. \"El mercado mundial de los videojuegos vale hoy más de 30 billones de yenes, pero podría llegar a unos 3.000 billones de yenes. Si eso ocurre, ya ni siquiera se llamará juego\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Entre bastidores, avanza la investigación y el desarrollo de la generación en tiempo real de video y música mediante IA\", afirmó, y predijo que funcionará a la velocidad de las consolas actuales hacia 2028 o 2029. \"Cuando eso ocurra, todo el contenido cambiará... Imaginar cosas se convertirá en contenido en sí mismo\". Las citas se tradujeron automáticamente del japonés."
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+ señala que Kutaragi dirige Cyber AI Entertainment y Ascent Robotics, lo que le da un interés directo en presentar la IA como inevitable."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "구타라기, AI 백일몽이\n게임 대체할 것",
-          "body": "구타라기는 2028-29년 실시간 AI 영상·음악이 모든 콘텐츠를 바꾼다고 봤다.",
-          "mini_headline": "구타라기, AI가 게임을 넘어선다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007년 Sony에서 은퇴한 'PlayStation의 아버지' 구타라기 겐(Ken Kutaragi)은 현재 AI 기업을 이끌고 있으며, 비디오 게임이 머지않아 AI 백일몽으로 대체될 것이라고 확신하는 듯하다."
-              },
-              {
-                "t": "p",
-                "x": "4Gamer 보도에 따르면 그는 최근 한 대학 패널에서 \"AI는 게임을 엔터테인먼트로 바꾸고 인간의 감성을 변화시킬 것\"이라고 말했다. 이어 \"세계 게임 시장은 현재 30조 엔이 넘지만 3,000조 엔 안팎에 이를 수도 있다. 그렇게 되면 더는 게임이라고 부르지도 않을 것\"이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 \"물밑에서는 AI를 활용한 영상과 음악의 실시간 생성 연구개발이 진행되고 있다\"며, 2028년에서 2029년 무렵 오늘날 콘솔 수준의 속도로 구동될 것으로 내다봤다. \"그렇게 되면 모든 콘텐츠가 바뀐다… 상상하는 일 자체가 콘텐츠가 된다.\" 인용문은 일본어를 기계 번역한 것이다."
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+는 Kutaragi가 Cyber AI Entertainment와 Ascent Robotics를 이끌고 있어 AI를 필연으로 홍보하는 데 이해관계가 걸려 있다고 짚었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "久夛良木氏、AIの白昼夢が\nゲームに取って代わる",
-          "body": "久夛良木氏は2028-29年頃、リアルタイムAI映像・音楽が全コンテンツを変えると語る。",
-          "mini_headline": "久夛良木氏、AIはゲームを超えると予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007年にSonyを退いた「PlayStationの父」久夛良木健（Ken Kutaragi）氏は、現在AI企業を率いており、ビデオゲームはまもなくAIの白昼夢に取って代わられると確信しているようだ。"
-              },
-              {
-                "t": "p",
-                "x": "4Gamerの報道によると、同氏は最近の大学のパネルで「AIはゲームをエンターテインメントへと変え、人間の感性を変える」と語った。「世界のゲーム市場は現在30兆円超だが、3,000兆円規模に達するかもしれない。そうなれば、もはやゲームとは呼ばれないだろう」"
-              },
-              {
-                "t": "p",
-                "x": "「水面下では、AIを使った映像や音楽のリアルタイム生成の研究開発が進んでいる」と述べ、2028年から2029年頃には現在のゲーム機並みの速度で動作すると予測した。「そうなれば、あらゆるコンテンツが変わる……想像すること自体がコンテンツになる」。なお、引用は日本語からの機械翻訳である。"
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+は、Kutaragi氏がCyber AI EntertainmentとAscent Roboticsを率いており、AIを必然として宣伝することに利害関係があると指摘している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "久多良木健：AI白日梦\n将取代电子游戏",
-          "body": "PlayStation之父久多良木健称，2028至29年左右实时AI影音将改变所有内容。",
-          "mini_headline": "久多良木健：AI将超越游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "2007年从Sony退休的“PlayStation之父”久多良木健（Ken Kutaragi）如今经营着AI公司，他似乎确信电子游戏很快将被AI白日梦取代。"
-              },
-              {
-                "t": "p",
-                "x": "据4Gamer报道，他在近期一场大学座谈会上表示：“AI将把游戏转变为娱乐，并改变人类的感性。”“全球游戏市场目前规模超过30万亿日元，但可能达到约3,000万亿日元。如果那样，它甚至不会再被称为游戏。”"
-              },
-              {
-                "t": "p",
-                "x": "他说：“在幕后，利用AI实时生成视频和音乐的研发正在推进。”并预测到2028年至2029年左右，其运行速度将达到当今游戏主机的水平。“到那时，所有内容都会改变……想象本身就会成为内容。”以上引语由日语机器翻译而来。"
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+指出，Kutaragi执掌Cyber AI Entertainment和Ascent Robotics，因此在宣扬AI必然到来一事上存在切身利益。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kutaragi: ensoñaciones de IA\nreemplazarán a los videojuegos",
-          "body": "Ken Kutaragi cree que hacia 2028-29 el video y la música con IA en tiempo real cambiarán todo el contenido.",
-          "mini_headline": "Kutaragi ve a la IA superar los juegos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/ddw4niyqsKpSVM7WLEa6aG-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Ken Kutaragi, padre de PlayStation que se retiró de Sony en 2007, dirige ahora empresas de IA y parece convencido de que los videojuegos pronto serán reemplazados por ensoñaciones de IA."
-              },
-              {
-                "t": "p",
-                "x": "\"La IA transformará los juegos en entretenimiento y cambiará la sensibilidad humana\", dijo en un reciente panel universitario, según informó 4Gamer. \"El mercado mundial de los videojuegos vale hoy más de 30 billones de yenes, pero podría llegar a unos 3.000 billones de yenes. Si eso ocurre, ya ni siquiera se llamará juego\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Entre bastidores, avanza la investigación y el desarrollo de la generación en tiempo real de video y música mediante IA\", afirmó, y predijo que funcionará a la velocidad de las consolas actuales hacia 2028 o 2029. \"Cuando eso ocurra, todo el contenido cambiará... Imaginar cosas se convertirá en contenido en sí mismo\". Las citas se tradujeron automáticamente del japonés."
-              },
-              {
-                "t": "p",
-                "x": "GamesRadar+ señala que Kutaragi dirige Cyber AI Entertainment y Ascent Robotics, lo que le da un interés directo en presentar la IA como inevitable."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "krafton-snu-world-model",
-      "source_lang": "ko",
-      "tool": "Games",
-      "eyebrow": "AI NEWS",
-      "headline": "크래프톤, 서울대와\n월드모델 공동연구",
-      "body": "크래프톤이 서울대와 3년간 공동연구센터를 운영해 게임·로봇 월드모델을 고도화한다.",
-      "mini_headline": "크래프톤·서울대 월드모델 연구",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1781560",
+      "url": "https://www.gamesradar.com/games/mmo/new-mmo-aion-2-soars-on-steam-with-nearly-400-000-concurrent-players-despite-mixed-reviews-grilling-ai-slop-and-pay-to-win-shop/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1537,265 +876,687 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-            "cap": "크래프톤과 서울대학교 월드모델 공동연구 출범식 전경(사진제공: 크래프톤)"
+            "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "크래프톤이 서울대학교와 게임 및 로봇 분야를 아우르는 월드모델 공동연구에 착수했다. 양측은 서울대에서 출범식을 열고 연구 주제와 연구진을 공개했으며, 이강욱 크래프톤 CAIO와 강유 서울대 교수 등이 참석했다."
+            "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2가 Steam 정식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 끌어모았다. 개발과 퍼블리싱을 맡은 NC가 생성형 AI를 썼는데도 거둔 성적이다. Steam Most Played 차트에선 4위에 올라 Apex Legends를 앞질렀다."
+          },
+          {
+            "t": "video",
+            "yt": "YYelxy0eEsA"
           },
           {
             "t": "p",
-            "x": "월드모델은 AI가 현재 상황을 파악하고 행동에 따라 환경이 어떻게 변할지 예측·시뮬레이션하는 기술이다. 공동연구는 향후 3년간 교수진의 세 가지 연구과제와 공동연구센터 운영으로 진행된다. 긴 영상에서 공간과 사물을 일관되게 유지하는 기술, 게임 속 동작 데이터로 사람과 사물의 움직임을 잇는 기술, AI가 공간 정보를 판단 근거로 삼는지 검증하는 연구와 벤치마크 구축이 포함된다."
+            "x": "Steam 평가는 현재 “Mixed”이고, 리뷰 상당수가 pay-to-win 요소를 문제 삼는다. “극도로 약탈적인 수익화”라는 평까지 나왔다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 꼬집은 리뷰도 있다. 스토어 페이지에는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 적혀 있다."
           },
           {
             "t": "p",
-            "x": "이번 출범은 지난해 11월 체결한 산학협력협약을 바탕으로 했다. 이강욱 CAIO는 \"게임으로 쌓아 온 시뮬레이션·가상세계 구축 역량은 월드모델 연구의 중요한 기반\"이라며 성과를 게임 경험과 로보틱스로 확장하겠다고 말했다. 크래프톤은 지난해 미국에 로보틱스 연구법인 루도 로보틱스를, 올해 2월 한국 법인을 세웠다."
+            "x": "다만 작성자가 보기에 플레이어 피드백의 중심 화제는 Gen AI가 아니다. 캐릭터 생성이 훌륭하고 월드가 아름답다는 호평도 많다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "크래프톤, 서울대와\n월드모델 공동연구",
-          "body": "크래프톤이 서울대와 3년간 공동연구센터를 운영해 게임·로봇 월드모델을 고도화한다.",
-          "mini_headline": "크래프톤·서울대 월드모델 연구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "크래프톤과 서울대학교 월드모델 공동연구 출범식 전경(사진제공: 크래프톤)"
-              },
-              {
-                "t": "p",
-                "x": "크래프톤이 서울대학교와 게임 및 로봇 분야를 아우르는 월드모델 공동연구에 착수했다. 양측은 서울대에서 출범식을 열고 연구 주제와 연구진을 공개했으며, 이강욱 크래프톤 CAIO와 강유 서울대 교수 등이 참석했다."
-              },
-              {
-                "t": "p",
-                "x": "월드모델은 AI가 현재 상황을 파악하고 행동에 따라 환경이 어떻게 변할지 예측·시뮬레이션하는 기술이다. 공동연구는 향후 3년간 교수진의 세 가지 연구과제와 공동연구센터 운영으로 진행된다. 긴 영상에서 공간과 사물을 일관되게 유지하는 기술, 게임 속 동작 데이터로 사람과 사물의 움직임을 잇는 기술, AI가 공간 정보를 판단 근거로 삼는지 검증하는 연구와 벤치마크 구축이 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "이번 출범은 지난해 11월 체결한 산학협력협약을 바탕으로 했다. 이강욱 CAIO는 \"게임으로 쌓아 온 시뮬레이션·가상세계 구축 역량은 월드모델 연구의 중요한 기반\"이라며 성과를 게임 경험과 로보틱스로 확장하겠다고 말했다. 크래프톤은 지난해 미국에 로보틱스 연구법인 루도 로보틱스를, 올해 2월 한국 법인을 세웠다."
-              }
-            ]
-          }
-        },
         "en": {
-          "headline": "Krafton, Seoul National Univ.\nlaunch joint world model study",
-          "body": "Krafton and Seoul National University will run a joint center for 3 years on game and robot world models.",
-          "mini_headline": "Krafton and Seoul National University study world models",
+          "headline": "Aion 2 nears 400,000 players\ndespite AI slop complaints",
+          "body": "NCSoft's Aion 2 drew nearly 400,000 Steam players on day one, yet Mixed reviews fault its monetization and AI assets.",
+          "mini_headline": "Aion 2 soars amid AI criticism",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Launch ceremony for the Krafton and Seoul National University joint world model research (Photo: Krafton)"
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Krafton has begun joint world model research with Seoul National University spanning games and robotics. The two sides held a launch ceremony at Seoul National University and unveiled the research topics and researchers; attendees included Krafton CAIO Kangwook Lee and Seoul National University professor U Kang."
+                "x": "Aion 2, the sequel to the 2008 Korean MMO Aion: The Tower of Eternity, hit nearly 400,000 players on its first official day on Steam – 397,905, according to SteamDB – despite developer and publisher NC's use of generative AI. It ranks fourth on Steam's Most Played chart, ahead of Apex Legends."
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
               },
               {
                 "t": "p",
-                "x": "A world model is a technology that lets AI grasp the current situation and predict and simulate how the environment will change in response to actions. Over the next 3 years, the joint research will proceed through three faculty research projects and the operation of a joint research center. It covers technology that keeps space and objects consistent in long videos, technology that links the movements of people and objects using in-game motion data, and research and benchmark building to verify whether AI uses spatial information as a basis for its judgments."
+                "x": "The game currently has a “Mixed” Steam rating, with many reviews discussing its pay-to-win features; one calls it “extremely predatory monetization.” Others complain of “slop” vibes, perhaps alluding to NC's use of generative AI. The store page discloses: “Some in-game assets were created with the assistance of AI tools. Arcana card designs and some icons use AI-generated assets.”"
               },
               {
                 "t": "p",
-                "x": "The launch builds on an industry-academia cooperation agreement signed last November. CAIO Kangwook Lee said, \"The simulation and virtual-world building capabilities we have accumulated through games are an important foundation for world model research,\" adding that the results will be extended to game experiences and robotics. Krafton set up Ludo Robotics, a robotics research entity, in the U.S. last year, and a Korean entity in February this year."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Krafton、ソウル大と\nワールドモデル共同研究",
-          "body": "Kraftonはソウル大と3年間、ゲーム・ロボット向けワールドモデルを共同研究する。",
-          "mini_headline": "Krafton・ソウル大がワールドモデル研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Kraftonとソウル大学のワールドモデル共同研究発足式の様子（写真提供：Krafton）"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonがソウル大学と、ゲームとロボット分野にまたがるワールドモデルの共同研究に着手した。両者はソウル大学で発足式を開いて研究テーマと研究陣を公開し、KraftonのCAIOであるイ・ガンウク氏やソウル大学のカン・ユ教授らが出席した。"
-              },
-              {
-                "t": "p",
-                "x": "ワールドモデルとは、AIが現在の状況を把握し、行動に応じて環境がどう変化するかを予測・シミュレーションする技術だ。共同研究は今後3年間、教授陣による3つの研究課題と共同研究センターの運営を通じて進められる。長い映像の中で空間や物体を一貫して保つ技術、ゲーム内の動作データで人と物体の動きをつなぐ技術、AIが空間情報を判断の根拠にしているかを検証する研究とベンチマーク構築が含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の発足は、昨年11月に締結した産学協力協定に基づく。イ・ガンウクCAIOは「ゲームを通じて培ってきたシミュレーションと仮想世界構築の力は、ワールドモデル研究の重要な基盤だ」と述べ、成果をゲーム体験とロボティクスへ広げていくとした。Kraftonは昨年、米国にロボティクス研究法人Ludo Roboticsを、今年2月に韓国法人を設立した。"
+                "x": "Gen AI isn't the topic dominating players' feedback, the writer notes, and there is plenty of praise too: the character creation is wonderful and the world is gorgeous."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Krafton携手首尔大学\n共同研究世界模型",
-          "body": "Krafton将与首尔大学共同运营研究中心3年，推进游戏与机器人世界模型研究。",
-          "mini_headline": "Krafton与首尔大学研究世界模型",
+          "headline": "Aion 2遭AI批评\n玩家仍近400,000",
+          "body": "NCSoft的Aion 2首日Steam玩家近400,000，但评价为Mixed。",
+          "mini_headline": "Aion 2在AI slop争议中走红",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Krafton与首尔大学世界模型联合研究启动仪式现场（图片提供：Krafton）"
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Krafton与首尔大学启动了横跨游戏与机器人领域的世界模型联合研究。双方在首尔大学举行启动仪式，公布了研究课题和研究团队，Krafton CAIO Kangwook Lee与首尔大学教授U Kang等人出席。"
+                "x": "Aion 2是2008年韩国MMO《Aion: The Tower of Eternity》的续作。尽管开发商兼发行商NC使用了生成式AI，该作在Steam正式上线首日仍吸引了近400,000名玩家——据SteamDB统计为397,905人。它在Steam的Most Played榜单上位列第四，领先Apex Legends。"
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
               },
               {
                 "t": "p",
-                "x": "世界模型是让AI把握当前状况，并预测、模拟环境将如何随行动而变化的技术。联合研究将在未来3年内通过教授团队的三项研究课题和联合研究中心的运营推进，内容包括在长视频中保持空间与物体一致性的技术、利用游戏中的动作数据衔接人与物体运动的技术，以及验证AI是否以空间信息作为判断依据的研究和基准测试构建。"
+                "x": "该作目前的Steam评价为“Mixed”，许多评测都在讨论其pay-to-win机制，其中一篇称之为“极其掠夺性的商业化”。另一些人抱怨游戏透着“slop”感，或许是在影射NC使用生成式AI。商店页面披露：“部分游戏内素材在AI工具的辅助下制作。Arcana卡牌设计和部分图标使用了AI生成（AI-generated）素材。”"
               },
               {
                 "t": "p",
-                "x": "此次启动以去年11月签署的产学合作协议为基础。CAIO Kangwook Lee表示：“通过游戏积累的模拟与虚拟世界构建能力，是世界模型研究的重要基础。”他还称将把成果拓展到游戏体验和机器人领域。Krafton去年在美国设立了机器人研究法人Ludo Robotics，今年2月又成立了韩国法人。"
+                "x": "作者指出，Gen AI并不是玩家反馈中的主要话题，赞誉之声也不少：角色创建很出色，世界也很美。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton y Universidad de Seúl\ninvestigan modelos de mundo",
-          "body": "Krafton operará durante 3 años un centro conjunto con la Universidad de Seúl para modelos de mundo de juegos y robots.",
-          "mini_headline": "Krafton y la Universidad de Seúl, modelos de mundo",
+          "headline": "Aion 2 roza 400,000 jugadores\npese a las críticas por AI slop",
+          "body": "Aion 2 de NCSoft rozó 400,000 jugadores en Steam en su estreno, pero reseñas Mixed critican su monetización y su IA.",
+          "mini_headline": "Aion 2 despega pese a las críticas a la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Ceremonia de lanzamiento de la investigación conjunta sobre modelos de mundo de Krafton y la Universidad Nacional de Seúl (Foto: Krafton)"
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Krafton ha iniciado con la Universidad Nacional de Seúl una investigación conjunta sobre modelos de mundo que abarca los videojuegos y la robótica. Ambas partes celebraron una ceremonia de lanzamiento en la universidad, donde presentaron los temas de investigación y al equipo investigador; asistieron, entre otros, Kangwook Lee, CAIO de Krafton, y el profesor U Kang, de la Universidad Nacional de Seúl."
+                "x": "Aion 2, secuela del MMO coreano de 2008 Aion: The Tower of Eternity, alcanzó casi 400,000 jugadores en su primer día oficial en Steam –397,905, según SteamDB– pese al uso de IA generativa por parte de NC, su desarrolladora y editora. Ocupa el cuarto puesto en la lista Most Played de Steam, por delante de Apex Legends."
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
               },
               {
                 "t": "p",
-                "x": "Un modelo de mundo es una tecnología con la que la IA comprende la situación actual y predice y simula cómo cambiará el entorno según sus acciones. La investigación conjunta se desarrollará durante los próximos 3 años mediante tres proyectos del profesorado y la operación de un centro de investigación conjunto. Incluye tecnología para mantener la coherencia de espacios y objetos en videos largos, tecnología que conecta los movimientos de personas y objetos con datos de movimiento de juegos, e investigación y creación de benchmarks para verificar si la IA usa la información espacial como base de sus decisiones."
+                "x": "El juego tiene actualmente una valoración “Mixed” en Steam, y muchas reseñas hablan de sus elementos pay-to-win; una lo califica de “monetización extremadamente depredadora”. Otras se quejan de una sensación de “slop”, quizá en alusión al uso de IA generativa por parte de NC. La página de la tienda indica: “Algunos recursos del juego se crearon con ayuda de herramientas de IA. Los diseños de las cartas Arcana y algunos iconos usan recursos generados por IA (AI-generated)”."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento se basa en un acuerdo de cooperación entre industria y universidad firmado en noviembre del año pasado. El CAIO Kangwook Lee afirmó que \"la capacidad de simulación y de construcción de mundos virtuales acumulada con los videojuegos es una base importante para la investigación de modelos de mundo\" y dijo que extenderán los resultados a la experiencia de juego y la robótica. Krafton creó el año pasado en Estados Unidos la filial de investigación en robótica Ludo Robotics y, en febrero de este año, una filial en Corea."
+                "x": "La Gen AI no es el tema que domina las opiniones de los jugadores, señala el autor, y también hay muchos elogios: la creación de personajes es magnífica y el mundo es precioso."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI slop批判の中\nAion 2が40万人に迫る",
+          "body": "NCSoftのAion 2はSteam初日に40万人近くを集めたが、評価はMixedだ。",
+          "mini_headline": "AI批判の中Aion 2が好発進",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2008年の韓国産MMO『Aion: The Tower of Eternity』の続編Aion 2が、Steamでの正式サービス初日に400,000人近いプレイヤーを集めた。SteamDBによれば397,905人だ。開発・パブリッシャーのNC(NCSoft)が生成AIを使用していたにもかかわらずである。SteamのMost Playedチャートでは、Apex Legendsを上回る4位につけている。"
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
+              },
+              {
+                "t": "p",
+                "x": "現在のSteam評価は「Mixed」で、多くのレビューがpay-to-win要素に触れている。ある レビューは「極めて搾取的な課金」と評した。「slop」っぽさへの不満もあり、NCによる生成AIの使用を指している可能性がある。ストアページには「ゲーム内アセットの一部はAIツールの支援を受けて制作された。Arcanaのカードデザインと一部のアイコンにはAI-generatedアセットを使用している」との開示がある。"
+              },
+              {
+                "t": "p",
+                "x": "筆者は、Gen AIがプレイヤーの反応の中心的な話題ではないと指摘する。称賛の声も多く、キャラクタークリエイトは素晴らしく、世界は美しいという。"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
+          "body": "NCSoft Aion 2, Steam 첫날 40만에 육박했지만 평가는 Mixed다.",
+          "mini_headline": "Aion 2, AI 비판 속 흥행",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2가 Steam 정식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 끌어모았다. 개발과 퍼블리싱을 맡은 NC가 생성형 AI를 썼는데도 거둔 성적이다. Steam Most Played 차트에선 4위에 올라 Apex Legends를 앞질렀다."
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
+              },
+              {
+                "t": "p",
+                "x": "Steam 평가는 현재 “Mixed”이고, 리뷰 상당수가 pay-to-win 요소를 문제 삼는다. “극도로 약탈적인 수익화”라는 평까지 나왔다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 꼬집은 리뷰도 있다. 스토어 페이지에는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 적혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "다만 작성자가 보기에 플레이어 피드백의 중심 화제는 Gen AI가 아니다. 캐릭터 생성이 훌륭하고 월드가 아름답다는 호평도 많다."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Krafton, Seoul National Univ.\nlaunch joint world model study",
-          "body": "Krafton and Seoul National University will run a joint center for 3 years on game and robot world models.",
-          "mini_headline": "Krafton and Seoul National University study world models",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Launch ceremony for the Krafton and Seoul National University joint world model research (Photo: Krafton)"
-              },
-              {
-                "t": "p",
-                "x": "Krafton has begun joint world model research with Seoul National University spanning games and robotics. The two sides held a launch ceremony at Seoul National University and unveiled the research topics and researchers; attendees included Krafton CAIO Kangwook Lee and Seoul National University professor U Kang."
-              },
-              {
-                "t": "p",
-                "x": "A world model is a technology that lets AI grasp the current situation and predict and simulate how the environment will change in response to actions. Over the next 3 years, the joint research will proceed through three faculty research projects and the operation of a joint research center. It covers technology that keeps space and objects consistent in long videos, technology that links the movements of people and objects using in-game motion data, and research and benchmark building to verify whether AI uses spatial information as a basis for its judgments."
-              },
-              {
-                "t": "p",
-                "x": "The launch builds on an industry-academia cooperation agreement signed last November. CAIO Kangwook Lee said, \"The simulation and virtual-world building capabilities we have accumulated through games are an important foundation for world model research,\" adding that the results will be extended to game experiences and robotics. Krafton set up Ludo Robotics, a robotics research entity, in the U.S. last year, and a Korean entity in February this year."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Krafton、ソウル大と\nワールドモデル共同研究",
-          "body": "Kraftonはソウル大と3年間、ゲーム・ロボット向けワールドモデルを共同研究する。",
-          "mini_headline": "Krafton・ソウル大がワールドモデル研究",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Kraftonとソウル大学のワールドモデル共同研究発足式の様子（写真提供：Krafton）"
-              },
-              {
-                "t": "p",
-                "x": "Kraftonがソウル大学と、ゲームとロボット分野にまたがるワールドモデルの共同研究に着手した。両者はソウル大学で発足式を開いて研究テーマと研究陣を公開し、KraftonのCAIOであるイ・ガンウク氏やソウル大学のカン・ユ教授らが出席した。"
-              },
-              {
-                "t": "p",
-                "x": "ワールドモデルとは、AIが現在の状況を把握し、行動に応じて環境がどう変化するかを予測・シミュレーションする技術だ。共同研究は今後3年間、教授陣による3つの研究課題と共同研究センターの運営を通じて進められる。長い映像の中で空間や物体を一貫して保つ技術、ゲーム内の動作データで人と物体の動きをつなぐ技術、AIが空間情報を判断の根拠にしているかを検証する研究とベンチマーク構築が含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の発足は、昨年11月に締結した産学協力協定に基づく。イ・ガンウクCAIOは「ゲームを通じて培ってきたシミュレーションと仮想世界構築の力は、ワールドモデル研究の重要な基盤だ」と述べ、成果をゲーム体験とロボティクスへ広げていくとした。Kraftonは昨年、米国にロボティクス研究法人Ludo Roboticsを、今年2月に韓国法人を設立した。"
-              }
-            ]
-          }
-        },
         "zh": {
-          "headline": "Krafton携手首尔大学\n共同研究世界模型",
-          "body": "Krafton将与首尔大学共同运营研究中心3年，推进游戏与机器人世界模型研究。",
-          "mini_headline": "Krafton与首尔大学研究世界模型",
+          "headline": "Aion 2遭AI批评\n玩家仍近400,000",
+          "body": "NCSoft的Aion 2首日Steam玩家近400,000，但评价为Mixed。",
+          "mini_headline": "Aion 2在AI slop争议中走红",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Krafton与首尔大学世界模型联合研究启动仪式现场（图片提供：Krafton）"
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Krafton与首尔大学启动了横跨游戏与机器人领域的世界模型联合研究。双方在首尔大学举行启动仪式，公布了研究课题和研究团队，Krafton CAIO Kangwook Lee与首尔大学教授U Kang等人出席。"
+                "x": "Aion 2是2008年韩国MMO《Aion: The Tower of Eternity》的续作。尽管开发商兼发行商NC使用了生成式AI，该作在Steam正式上线首日仍吸引了近400,000名玩家——据SteamDB统计为397,905人。它在Steam的Most Played榜单上位列第四，领先Apex Legends。"
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
               },
               {
                 "t": "p",
-                "x": "世界模型是让AI把握当前状况，并预测、模拟环境将如何随行动而变化的技术。联合研究将在未来3年内通过教授团队的三项研究课题和联合研究中心的运营推进，内容包括在长视频中保持空间与物体一致性的技术、利用游戏中的动作数据衔接人与物体运动的技术，以及验证AI是否以空间信息作为判断依据的研究和基准测试构建。"
+                "x": "该作目前的Steam评价为“Mixed”，许多评测都在讨论其pay-to-win机制，其中一篇称之为“极其掠夺性的商业化”。另一些人抱怨游戏透着“slop”感，或许是在影射NC使用生成式AI。商店页面披露：“部分游戏内素材在AI工具的辅助下制作。Arcana卡牌设计和部分图标使用了AI生成（AI-generated）素材。”"
               },
               {
                 "t": "p",
-                "x": "此次启动以去年11月签署的产学合作协议为基础。CAIO Kangwook Lee表示：“通过游戏积累的模拟与虚拟世界构建能力，是世界模型研究的重要基础。”他还称将把成果拓展到游戏体验和机器人领域。Krafton去年在美国设立了机器人研究法人Ludo Robotics，今年2月又成立了韩国法人。"
+                "x": "作者指出，Gen AI并不是玩家反馈中的主要话题，赞誉之声也不少：角色创建很出色，世界也很美。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Krafton y Universidad de Seúl\ninvestigan modelos de mundo",
-          "body": "Krafton operará durante 3 años un centro conjunto con la Universidad de Seúl para modelos de mundo de juegos y robots.",
-          "mini_headline": "Krafton y la Universidad de Seúl, modelos de mundo",
+          "headline": "Aion 2 roza 400,000 jugadores\npese a las críticas por AI slop",
+          "body": "Aion 2 de NCSoft rozó 400,000 jugadores en Steam en su estreno, pero reseñas Mixed critican su monetización y su IA.",
+          "mini_headline": "Aion 2 despega pese a las críticas a la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/196/20261008162633.jpg",
-                "cap": "Ceremonia de lanzamiento de la investigación conjunta sobre modelos de mundo de Krafton y la Universidad Nacional de Seúl (Foto: Krafton)"
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Krafton ha iniciado con la Universidad Nacional de Seúl una investigación conjunta sobre modelos de mundo que abarca los videojuegos y la robótica. Ambas partes celebraron una ceremonia de lanzamiento en la universidad, donde presentaron los temas de investigación y al equipo investigador; asistieron, entre otros, Kangwook Lee, CAIO de Krafton, y el profesor U Kang, de la Universidad Nacional de Seúl."
+                "x": "Aion 2, secuela del MMO coreano de 2008 Aion: The Tower of Eternity, alcanzó casi 400,000 jugadores en su primer día oficial en Steam –397,905, según SteamDB– pese al uso de IA generativa por parte de NC, su desarrolladora y editora. Ocupa el cuarto puesto en la lista Most Played de Steam, por delante de Apex Legends."
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
               },
               {
                 "t": "p",
-                "x": "Un modelo de mundo es una tecnología con la que la IA comprende la situación actual y predice y simula cómo cambiará el entorno según sus acciones. La investigación conjunta se desarrollará durante los próximos 3 años mediante tres proyectos del profesorado y la operación de un centro de investigación conjunto. Incluye tecnología para mantener la coherencia de espacios y objetos en videos largos, tecnología que conecta los movimientos de personas y objetos con datos de movimiento de juegos, e investigación y creación de benchmarks para verificar si la IA usa la información espacial como base de sus decisiones."
+                "x": "El juego tiene actualmente una valoración “Mixed” en Steam, y muchas reseñas hablan de sus elementos pay-to-win; una lo califica de “monetización extremadamente depredadora”. Otras se quejan de una sensación de “slop”, quizá en alusión al uso de IA generativa por parte de NC. La página de la tienda indica: “Algunos recursos del juego se crearon con ayuda de herramientas de IA. Los diseños de las cartas Arcana y algunos iconos usan recursos generados por IA (AI-generated)”."
               },
               {
                 "t": "p",
-                "x": "El lanzamiento se basa en un acuerdo de cooperación entre industria y universidad firmado en noviembre del año pasado. El CAIO Kangwook Lee afirmó que \"la capacidad de simulación y de construcción de mundos virtuales acumulada con los videojuegos es una base importante para la investigación de modelos de mundo\" y dijo que extenderán los resultados a la experiencia de juego y la robótica. Krafton creó el año pasado en Estados Unidos la filial de investigación en robótica Ludo Robotics y, en febrero de este año, una filial en Corea."
+                "x": "La Gen AI no es el tema que domina las opiniones de los jugadores, señala el autor, y también hay muchos elogios: la creación de personajes es magnífica y el mundo es precioso."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI slop批判の中\nAion 2が40万人に迫る",
+          "body": "NCSoftのAion 2はSteam初日に40万人近くを集めたが、評価はMixedだ。",
+          "mini_headline": "AI批判の中Aion 2が好発進",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2008年の韓国産MMO『Aion: The Tower of Eternity』の続編Aion 2が、Steamでの正式サービス初日に400,000人近いプレイヤーを集めた。SteamDBによれば397,905人だ。開発・パブリッシャーのNC(NCSoft)が生成AIを使用していたにもかかわらずである。SteamのMost Playedチャートでは、Apex Legendsを上回る4位につけている。"
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
+              },
+              {
+                "t": "p",
+                "x": "現在のSteam評価は「Mixed」で、多くのレビューがpay-to-win要素に触れている。ある レビューは「極めて搾取的な課金」と評した。「slop」っぽさへの不満もあり、NCによる生成AIの使用を指している可能性がある。ストアページには「ゲーム内アセットの一部はAIツールの支援を受けて制作された。Arcanaのカードデザインと一部のアイコンにはAI-generatedアセットを使用している」との開示がある。"
+              },
+              {
+                "t": "p",
+                "x": "筆者は、Gen AIがプレイヤーの反応の中心的な話題ではないと指摘する。称賛の声も多く、キャラクタークリエイトは素晴らしく、世界は美しいという。"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Aion 2 40만 육박\nAI 슬롭 비판에도",
+          "body": "NCSoft Aion 2는 Steam 첫날 40만 육박에도 Mixed 평가다.",
+          "mini_headline": "Aion 2, AI 비판 속 흥행",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/b9EawiCPTHLMyvSDLSUnFY-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "2008년 한국 MMO 'Aion: The Tower of Eternity'의 후속작 Aion 2는 개발사이자 퍼블리셔인 NC의 생성형 AI 사용에도 Steam 공식 출시 첫날 약 40만 명(SteamDB 기준 397,905명)을 기록했다. Steam Most Played 차트에서는 4위로 Apex Legends를 앞섰다."
+              },
+              {
+                "t": "video",
+                "yt": "YYelxy0eEsA"
+              },
+              {
+                "t": "p",
+                "x": "현재 Steam 평가는 “Mixed”이며, 많은 리뷰가 pay-to-win 요소를 다룬다. 한 리뷰는 “극도로 약탈적인 수익화”라고 평했다. NC의 생성형 AI 사용을 겨냥한 듯 “slop” 느낌을 지적하는 리뷰도 있다. 스토어 페이지는 “일부 인게임 에셋은 AI 도구의 도움을 받아 제작됐다. Arcana 카드 디자인과 일부 아이콘에는 AI 생성(AI-generated) 에셋을 사용했다”고 밝힌다."
+              },
+              {
+                "t": "p",
+                "x": "작성자는 Gen AI가 플레이어 피드백의 중심 화제는 아니라고 짚는다. 캐릭터 생성은 훌륭하고 월드는 아름답다는 호평도 많다."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "google-playground-ai-games",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
+      "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
+      "mini_headline": "Google, AI 게임 Playground 공개",
+      "tool": "Games",
+      "source": "Game Developer",
+      "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+          },
+          {
+            "t": "p",
+            "x": "Google이 전용 비디오게임 플랫폼에 다시 한번 크게 도전한다. 이번엔 생성형 AI로 만든 게임이 대상이다. 새 사업 Google Playground에서는 생성형 AI 도구로 게임을 만들고 공유하고 플레이할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google 대변인은 오늘 발표에서 Playground를 “실험적인 게이밍 플랫폼”이라 부르며 “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "회사 측은 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”는 설명도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "Playground로 실험해 보려는 개발자라면 Unity가 따로 발표한 새 도구 Unity Spark도 쓸 수 있다. Playground와 함께 쓰도록 만든 도구다."
+          },
+          {
+            "t": "p",
+            "x": "Google의 새 플랫폼은 숙련된 게임 개발자는 물론, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 옮기고 싶은 예비 제작자까지 겨냥한 듯하다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 와중에 나온 행보다."
+          },
+          {
+            "t": "p",
+            "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 보면 된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Google debuts experimental\nAI game platform Playground",
+          "body": "Google's experimental Playground is a new platform for making and playing games derived from gen-AI prompts.",
+          "mini_headline": "Google debuts\nAI game Playground",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google is making another big swing at building a dedicated video game platform—this time opting to produce one for games made with generative AI. The new venture, Google Playground, is a platform for making, sharing, and playing games made using generative AI tools."
+              },
+              {
+                "t": "p",
+                "x": "In today's announcement, a Google spokesperson described Playground as an \"experimental gaming platform\" that \"Lets users create, play and share fully custom games with no coding experience required.\""
+              },
+              {
+                "t": "p",
+                "x": "\"With Playground’s conversational interface, users can create custom games by typing what they want, remixing starter prompts or getting guided support to help them share their creativity with the world,\" the company stated. \"Essentially acting as a director, users can refine the rules with prompts, customize characters and tweak the environment until it’s what they envision. And since Playground is browser-based, games are playable across phones and laptops.\""
+              },
+              {
+                "t": "p",
+                "x": "Developers interested in experimenting with Playground can also take advantage of Unity Spark, a new, separately-announced tool from Unity built to work with Playground."
+              },
+              {
+                "t": "p",
+                "x": "Google's new platform appears targeted to both veteran game developers and would-be game-makers who want to turn their ideas into games without going through the traditional development process. This comes as developers continue to experiment with generative AI, but do so with grave concerns about its impact on the video game industry."
+              },
+              {
+                "t": "p",
+                "x": "Those curious about Google's new platform can try the games for themselves."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
+          "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
+          "mini_headline": "Google, AI 게임 Playground 공개",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google이 전용 비디오게임 플랫폼에 다시 한번 크게 도전한다. 이번엔 생성형 AI로 만든 게임이 대상이다. 새 사업 Google Playground에서는 생성형 AI 도구로 게임을 만들고 공유하고 플레이할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google 대변인은 오늘 발표에서 Playground를 “실험적인 게이밍 플랫폼”이라 부르며 “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "회사 측은 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”는 설명도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "Playground로 실험해 보려는 개발자라면 Unity가 따로 발표한 새 도구 Unity Spark도 쓸 수 있다. Playground와 함께 쓰도록 만든 도구다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 새 플랫폼은 숙련된 게임 개발자는 물론, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 옮기고 싶은 예비 제작자까지 겨냥한 듯하다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 와중에 나온 행보다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 보면 된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、実験的な\nAIゲーム基盤を公開",
+          "body": "Playgroundはgen-AIプロンプトでゲームを作り遊べる新しい基盤だ。",
+          "mini_headline": "Google、AIゲーム基盤Playgroundを公開",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Googleが、専用のビデオゲームプラットフォーム構築に再び大きく挑む。今回は生成AIで作られたゲーム向けだ。新事業のGoogle Playgroundは、生成AIツールで作ったゲームを制作・共有・プレイするためのプラットフォームである。"
+              },
+              {
+                "t": "p",
+                "x": "本日の発表で、Googleの広報担当者はPlaygroundを「実験的なゲーミングプラットフォーム」と表現し、「コーディング経験がなくても、ユーザーが完全にカスタムしたゲームを作り、遊び、共有できる」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "同社は「Playgroundの対話型インターフェースにより、ユーザーは作りたいものを入力したり、スターター用プロンプトをリミックスしたり、ガイド付きのサポートを受けたりしてカスタムゲームを作り、自らの創造性を世界と共有できる」と述べた。さらに「ユーザーはいわば監督として、プロンプトでルールを練り、キャラクターをカスタマイズし、環境を調整して、思い描いた形に仕上げられる。Playgroundはブラウザベースなので、ゲームはスマートフォンでもノートパソコンでも遊べる」としている。"
+              },
+              {
+                "t": "p",
+                "x": "Playgroundを試したい開発者は、Unityが別途発表した新ツールUnity Sparkも活用できる。Playgroundと連携するよう作られたツールだ。"
+              },
+              {
+                "t": "p",
+                "x": "Googleの新プラットフォームは、ベテランのゲーム開発者と、従来の開発プロセスを経ずにアイデアをゲームにしたい作り手志望の人々の双方を狙っているようだ。開発者が生成AIの試行を続けつつも、ビデオゲーム業界への影響を深く懸念するなかでの動きである。"
+              },
+              {
+                "t": "p",
+                "x": "Googleの新プラットフォームが気になる人は、自分でゲームを試せる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google推出实验性\nAI游戏平台",
+          "body": "Google实验性平台Playground可用gen-AI提示词制作并游玩游戏。",
+          "mini_headline": "Google推出AI游戏平台Playground",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google再次大举尝试打造专属电子游戏平台，这一次面向用生成式AI制作的游戏。新项目Google Playground是一个用于制作、分享和游玩由生成式AI工具制作的游戏的平台。"
+              },
+              {
+                "t": "p",
+                "x": "在今天的发布中，一位Google发言人将Playground描述为“实验性游戏平台”，它“让用户无需编程经验即可创建、游玩和分享完全自定义的游戏”。"
+              },
+              {
+                "t": "p",
+                "x": "该公司表示：“借助Playground的对话式界面，用户可以输入想要的内容、混编入门提示词或获得引导式支持来创建自定义游戏，与世界分享自己的创意。”“用户基本上相当于导演，可以通过提示词完善规则、定制角色、调整环境，直到达到心中设想。而且由于Playground基于浏览器，游戏可在手机和笔记本电脑上游玩。”"
+              },
+              {
+                "t": "p",
+                "x": "有意尝试Playground的开发者还可以使用Unity Spark，这是Unity另行发布的一款新工具，专为配合Playground而打造。"
+              },
+              {
+                "t": "p",
+                "x": "Google的新平台似乎同时面向资深游戏开发者，以及希望绕开传统开发流程、把创意变成游戏的准游戏制作者。与此同时，开发者仍在持续尝试生成式AI，却对其给电子游戏行业带来的影响深感担忧。"
+              },
+              {
+                "t": "p",
+                "x": "对Google新平台感兴趣的人可以亲自试玩这些游戏。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google presenta Playground,\nplataforma de juegos con IA",
+          "body": "Playground, la plataforma experimental de Google, permite crear y jugar títulos generados con prompts de gen-AI.",
+          "mini_headline": "Google lanza la plataforma de juegos Playground",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google vuelve a apostar fuerte por crear una plataforma dedicada de videojuegos, esta vez para juegos hechos con IA generativa (AI). La nueva iniciativa, Google Playground, es una plataforma para crear, compartir y jugar juegos hechos con herramientas de IA generativa."
+              },
+              {
+                "t": "p",
+                "x": "En el anuncio de hoy, un portavoz de Google describió Playground como una \"plataforma de juegos experimental\" que \"permite a los usuarios crear, jugar y compartir juegos totalmente personalizados sin necesidad de experiencia en programación\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Con la interfaz conversacional de Playground, los usuarios pueden crear juegos personalizados escribiendo lo que quieren, remezclando prompts iniciales u obteniendo ayuda guiada para compartir su creatividad con el mundo\", afirmó la compañía. \"Actuando básicamente como directores, los usuarios pueden afinar las reglas con prompts, personalizar personajes y ajustar el entorno hasta que sea lo que imaginan. Y como Playground funciona en el navegador, los juegos se pueden jugar en teléfonos y portátiles\"."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores interesados en experimentar con Playground también pueden aprovechar Unity Spark, una nueva herramienta de Unity anunciada por separado y diseñada para funcionar con Playground."
+              },
+              {
+                "t": "p",
+                "x": "La nueva plataforma de Google parece dirigida tanto a desarrolladores de juegos veteranos como a aspirantes que quieren convertir sus ideas en juegos sin pasar por el proceso de desarrollo tradicional. Llega en un momento en que los desarrolladores siguen experimentando con la IA generativa, pero con serias preocupaciones por su impacto en la industria del videojuego."
+              },
+              {
+                "t": "p",
+                "x": "Quienes sientan curiosidad por la nueva plataforma de Google pueden probar los juegos por sí mismos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Google, 실험적인\nAI 게임 플랫폼 공개",
+          "body": "Playground는 gen-AI 프롬프트로 게임을 만들고 즐기는 플랫폼이다.",
+          "mini_headline": "Google, AI 게임 Playground 공개",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google이 전용 비디오게임 플랫폼 구축에 다시 한번 크게 도전한다. 이번에는 생성형 AI로 만든 게임을 위한 플랫폼이다. 새 사업인 Google Playground는 생성형 AI 도구로 만든 게임을 제작하고 공유하고 플레이하는 플랫폼이다."
+              },
+              {
+                "t": "p",
+                "x": "오늘 발표에서 Google 대변인은 Playground를 “실험적인 게이밍 플랫폼”이라 소개하며, “코딩 경험 없이도 사용자가 완전히 맞춤화된 게임을 만들고, 플레이하고, 공유할 수 있게 한다”고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "회사는 “Playground의 대화형 인터페이스로 사용자는 원하는 것을 입력하거나, 스타터 프롬프트를 리믹스하거나, 안내를 받아 맞춤형 게임을 만들고 자신의 창의성을 세상과 나눌 수 있다”고 밝혔다. 이어 “사용자는 사실상 감독처럼 프롬프트로 규칙을 다듬고, 캐릭터를 꾸미고, 환경을 조정해 구상한 모습을 완성할 수 있다. 또 Playground는 브라우저 기반이라 휴대폰과 노트북에서 모두 게임을 즐길 수 있다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Playground로 실험해 보려는 개발자는 Unity가 별도로 발표한 새 도구 Unity Spark도 활용할 수 있다. 이 도구는 Playground와 함께 쓰도록 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 새 플랫폼은 숙련된 게임 개발자와, 전통적인 개발 과정을 거치지 않고 아이디어를 게임으로 만들고 싶은 예비 제작자를 모두 겨냥한 것으로 보인다. 개발자들이 생성형 AI 실험을 이어가면서도 비디오게임 산업에 미칠 영향을 깊이 우려하는 가운데 나온 행보다."
+              },
+              {
+                "t": "p",
+                "x": "Google의 새 플랫폼이 궁금하다면 직접 게임을 해 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Google、実験的な\nAIゲーム基盤を公開",
+          "body": "Playgroundはgen-AIプロンプトでゲームを作り遊べる新しい基盤だ。",
+          "mini_headline": "Google、AIゲーム基盤Playgroundを公開",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Googleが、専用のビデオゲームプラットフォーム構築に再び大きく挑む。今回は生成AIで作られたゲーム向けだ。新事業のGoogle Playgroundは、生成AIツールで作ったゲームを制作・共有・プレイするためのプラットフォームである。"
+              },
+              {
+                "t": "p",
+                "x": "本日の発表で、Googleの広報担当者はPlaygroundを「実験的なゲーミングプラットフォーム」と表現し、「コーディング経験がなくても、ユーザーが完全にカスタムしたゲームを作り、遊び、共有できる」と説明した。"
+              },
+              {
+                "t": "p",
+                "x": "同社は「Playgroundの対話型インターフェースにより、ユーザーは作りたいものを入力したり、スターター用プロンプトをリミックスしたり、ガイド付きのサポートを受けたりしてカスタムゲームを作り、自らの創造性を世界と共有できる」と述べた。さらに「ユーザーはいわば監督として、プロンプトでルールを練り、キャラクターをカスタマイズし、環境を調整して、思い描いた形に仕上げられる。Playgroundはブラウザベースなので、ゲームはスマートフォンでもノートパソコンでも遊べる」としている。"
+              },
+              {
+                "t": "p",
+                "x": "Playgroundを試したい開発者は、Unityが別途発表した新ツールUnity Sparkも活用できる。Playgroundと連携するよう作られたツールだ。"
+              },
+              {
+                "t": "p",
+                "x": "Googleの新プラットフォームは、ベテランのゲーム開発者と、従来の開発プロセスを経ずにアイデアをゲームにしたい作り手志望の人々の双方を狙っているようだ。開発者が生成AIの試行を続けつつも、ビデオゲーム業界への影響を深く懸念するなかでの動きである。"
+              },
+              {
+                "t": "p",
+                "x": "Googleの新プラットフォームが気になる人は、自分でゲームを試せる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Google推出实验性\nAI游戏平台",
+          "body": "Google实验性平台Playground可用gen-AI提示词制作并游玩游戏。",
+          "mini_headline": "Google推出AI游戏平台Playground",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google再次大举尝试打造专属电子游戏平台，这一次面向用生成式AI制作的游戏。新项目Google Playground是一个用于制作、分享和游玩由生成式AI工具制作的游戏的平台。"
+              },
+              {
+                "t": "p",
+                "x": "在今天的发布中，一位Google发言人将Playground描述为“实验性游戏平台”，它“让用户无需编程经验即可创建、游玩和分享完全自定义的游戏”。"
+              },
+              {
+                "t": "p",
+                "x": "该公司表示：“借助Playground的对话式界面，用户可以输入想要的内容、混编入门提示词或获得引导式支持来创建自定义游戏，与世界分享自己的创意。”“用户基本上相当于导演，可以通过提示词完善规则、定制角色、调整环境，直到达到心中设想。而且由于Playground基于浏览器，游戏可在手机和笔记本电脑上游玩。”"
+              },
+              {
+                "t": "p",
+                "x": "有意尝试Playground的开发者还可以使用Unity Spark，这是Unity另行发布的一款新工具，专为配合Playground而打造。"
+              },
+              {
+                "t": "p",
+                "x": "Google的新平台似乎同时面向资深游戏开发者，以及希望绕开传统开发流程、把创意变成游戏的准游戏制作者。与此同时，开发者仍在持续尝试生成式AI，却对其给电子游戏行业带来的影响深感担忧。"
+              },
+              {
+                "t": "p",
+                "x": "对Google新平台感兴趣的人可以亲自试玩这些游戏。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Google presenta Playground,\nplataforma de juegos con IA",
+          "body": "Playground, la plataforma experimental de Google, permite crear y jugar títulos generados con prompts de gen-AI.",
+          "mini_headline": "Google lanza la plataforma de juegos Playground",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/blt33027bbb4486f692/6ac63899fddff7631a393b02/googleplaygroundfeatured.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+              },
+              {
+                "t": "p",
+                "x": "Google vuelve a apostar fuerte por crear una plataforma dedicada de videojuegos, esta vez para juegos hechos con IA generativa (AI). La nueva iniciativa, Google Playground, es una plataforma para crear, compartir y jugar juegos hechos con herramientas de IA generativa."
+              },
+              {
+                "t": "p",
+                "x": "En el anuncio de hoy, un portavoz de Google describió Playground como una \"plataforma de juegos experimental\" que \"permite a los usuarios crear, jugar y compartir juegos totalmente personalizados sin necesidad de experiencia en programación\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Con la interfaz conversacional de Playground, los usuarios pueden crear juegos personalizados escribiendo lo que quieren, remezclando prompts iniciales u obteniendo ayuda guiada para compartir su creatividad con el mundo\", afirmó la compañía. \"Actuando básicamente como directores, los usuarios pueden afinar las reglas con prompts, personalizar personajes y ajustar el entorno hasta que sea lo que imaginan. Y como Playground funciona en el navegador, los juegos se pueden jugar en teléfonos y portátiles\"."
+              },
+              {
+                "t": "p",
+                "x": "Los desarrolladores interesados en experimentar con Playground también pueden aprovechar Unity Spark, una nueva herramienta de Unity anunciada por separado y diseñada para funcionar con Playground."
+              },
+              {
+                "t": "p",
+                "x": "La nueva plataforma de Google parece dirigida tanto a desarrolladores de juegos veteranos como a aspirantes que quieren convertir sus ideas en juegos sin pasar por el proceso de desarrollo tradicional. Llega en un momento en que los desarrolladores siguen experimentando con la IA generativa, pero con serias preocupaciones por su impacto en la industria del videojuego."
+              },
+              {
+                "t": "p",
+                "x": "Quienes sientan curiosidad por la nueva plataforma de Google pueden probar los juegos por sí mismos."
               }
             ]
           }

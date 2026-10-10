@@ -414,6 +414,122 @@
           "x": "NextMR works with routine MRI sequences on 1.5T and 3T scanners and automatically generates its 3D bone output in under 60 seconds, viewable through a web interface. It was validated on an independent, retrospective dataset of 145 adults with paired MRI and CT images from sites in the U.S. and Israel."
         }
       ]
+    },
+    "medicine/fda-cdrh-fy27-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+          "cap": "The FDA's second-tier priorities include finalizing guidance on pulse oximeters."
+        },
+        {
+          "t": "p",
+          "x": "The Food and Drug Administration published its fiscal 2027 guidance priorities Thursday, setting itself the goal of finalizing and drafting artificial intelligence documents. Over the coming 12 months, the FDA's top priorities include finalizing guidance on marketing submissions and lifecycle management for AI-enabled devices and drafting generative AI advice."
+        },
+        {
+          "t": "p",
+          "x": "The agency is also prioritizing the swift finalization of its guidance on premarket submissions of robotically assisted surgical devices, which it published in draft form last week. The FDA is accepting feedback on its priorities until Nov. 30."
+        },
+        {
+          "t": "p",
+          "x": "The FDA published the draft AI-enabled device lifecycle guidance in January 2025. This year, it is prioritizing drafting evidentiary recommendations on generative AI-enabled conversational devices for mental disorders, a topic absent from last year's list but aligned with an August call for feedback on regulating generative AI."
+        },
+        {
+          "t": "p",
+          "x": "Other priorities include air-purifying respirators, menstrual product testing and labeling, quality management systems, and a holdover on predetermined change control plans. Second-tier priorities include finalizing guidance on pulse oximeters."
+        }
+      ]
+    },
+    "medicine/voice-ae-ctcae-audio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Treatment-related adverse event documentation is labor-intensive and subject to inter-observer variability. VOICE-AE is a multi-stage pipeline integrating automatic speech recognition, speaker diarization and large language models for automated extraction and grading of CTCAE toxicities from clinician-patient audio recordings."
+        },
+        {
+          "t": "p",
+          "x": "Encounters of prostate cancer patients undergoing radiotherapy were recorded; six blinded human raters graded 10 genitourinary/gastrointestinal toxicities from the same transcripts. 31 patients (39 encounters) yielded 390 encounter–toxicity assessments, 300 (76.9%) with a reference grade of 0."
+        },
+        {
+          "t": "p",
+          "x": "VOICE-AE achieved a mean weighted kappa of 0.717. Exact CTCAE grade match was 82.6% and within-one-grade accuracy 99.2%, though a trivial always-grade-0 classifier would reach 76.9% and 93.6%. Performance was weaker at grades 1 and 2 (F1 0.58 and 0.57); binary detection sensitivity was 77.8%, specificity 89.0%."
+        },
+        {
+          "t": "p",
+          "x": "VOICE-AE performed within the range of inter-expert agreement, supporting the feasibility of automated post-encounter AE documentation. Accuracy at grade ≥2 and detection of severe toxicity remain unproven."
+        }
+      ]
+    },
+    "medicine/asan-peds-rrs-vuno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/526509",
+          "cap": "Professor Park Yu-kyung, Department of Pediatrics, Asan Medical Center."
+        },
+        {
+          "t": "p",
+          "x": "Professor Park Yu-kyung of the Department of Pediatrics at Asan Medical Center presented the hospital's experience running a pediatric RRS and its use of DeepCARS, an AI-based medical device for managing cardiac arrest risk, at VUNO's global pediatric patient safety symposium on September 19. In clinical practice, there have been cases where it flagged high-risk patients earlier than existing scoring systems, leading to intervention by the medical team."
+        },
+        {
+          "t": "p",
+          "x": "Asan Medical Center introduced a pediatric rapid response team (PMET) in 2012, then added the APPLE score in 2020 and PMAS in 2022, followed by DeepCARS last year. Children whose DeepCARS score exceeds 90 or rises by 30 points or more over a short period are flagged for screening by a pop-up alarm. Park said, \"We are finding it useful.\""
+        },
+        {
+          "t": "p",
+          "x": "A girl aged 3 years and 11 months, admitted for hematopoietic stem cell transplantation, was caught by the rapid response team after her DeepCARS score rose to 95 following ATG administration. Because some information, such as respiratory rate, had not been entered, the DeepCARS score rose before the APPLE score; the patient improved after transfer to the PICU and treatment."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/526512",
+          "cap": "Asan Medical Center uses DeepCARS in its pediatric rapid response system. Photo: presentation materials by Professor Park Yu-kyung"
+        },
+        {
+          "t": "p",
+          "x": "There are limitations. Because monitoring is not real-time and continuous, vital signs that went unrecorded were hard to capture for both the APPLE score and DeepCARS, and false alarms are frequent during tests. Park added that AI should move toward also explaining why a score came out high and with what level of confidence it was assessed."
+        }
+      ]
+    },
+    "medicine/llm-ophtho-preconsult-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "History-taking is central yet constrained by limited clinical resources. The researchers designed a pre-consultation LLM agent for history-taking using a dual-agent architecture with skills-engineered symptom-oriented logic trees, and ran a randomized clinical trial at a tertiary ophthalmic hospital in Guangzhou, China."
+        },
+        {
+          "t": "p",
+          "x": "Between May 10 and June 10, 2025, 172 of 175 approached patients with non-emergency appointments were randomized 1:1 to the LLM agent or ophthalmology residents. The agent achieved better pre-consultation quality by MedHistory score (adjusted mean difference 17.7 points; 95% CI 14.1 to 21.3), higher patience and empathy ratings, and longer interactions (median 11.2 vs 3.1 minutes)."
+        },
+        {
+          "t": "p",
+          "x": "Test recommendation performance did not differ significantly. Exploratory analyses showed superior diagnostic accuracy from history alone (F1 0.85 vs 0.68), while ocular signs improved residents more, narrowing the gap. The authors suggest a hybrid workflow where clinicians focus on physical examination and diagnostic synthesis."
+        }
+      ]
+    },
+    "medicine/amie-lancet-primary-care": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
+          "cap": "Study in The Lancet suggests AI could improve patient-physician relationships."
+        },
+        {
+          "t": "p",
+          "x": "Can AI safely assess patients’ needs before they step into a doctor’s office? A study led by researchers at Google and Beth Israel Deaconess Medical Center (BIDMC) and published in The Lancet today, offers an encouraging first look. As Google’s first-ever publication in the main journal of The Lancet, this research marks a significant milestone."
+        },
+        {
+          "t": "p",
+          "x": "In a real-world clinical study at BIDMC’s ambulatory primary care clinic, 98 patients consulted AMIE, our research diagnostic AI chatbot, ahead of urgent care visits. Supervising physicians monitored the interactions in real time, and not a single conversation needed to be interrupted based on predefined safety criteria. And clinicians reported that the AI summaries helped them prepare for visits in 75% of cases and influenced their approach to care in more than half. AMIE’s differential diagnoses also matched the doctors’ final diagnoses 90% of the time."
+        },
+        {
+          "t": "p",
+          "x": "While larger clinical trials are needed to assess patient-facing AI at scale, the findings suggest the potential for AI to enhance the patient-physician relationship and ease the strain on healthcare workers. And they demonstrate meaningful progress as we push the boundaries of what’s possible for AI in science and health."
+        },
+        {
+          "t": "video",
+          "yt": "f3jK_SsHcAw"
+        }
+      ]
     }
   }
 }

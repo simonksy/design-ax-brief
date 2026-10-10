@@ -6386,6 +6386,145 @@
           "x": "在一篇相关的Perspective文章中，Jeremy Avigad和Matthew Ballard指出，即便是未成功的AI证明尝试，也帮助作者更好地理解问题并取得进展。"
         }
       ]
+    },
+    "science/science-chatbots-climate-status-quo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+          "cap": "图片来源：Matheus Bertelli / Pexels"
+        },
+        {
+          "t": "p",
+          "x": "University of Waterloo的研究人员测试了11个大语言模型（LLM）在气候相关建议中的现状偏见。研究发表于Environmental Research Communications。"
+        },
+        {
+          "t": "p",
+          "x": "他们评估了涵盖购车、食谱、家庭供暖和气候政策权衡等主题的7,500多个问题，生成了近55,000条提示词。在可能涉及政策权衡的情况下，模型强化用户既有决定的频率约为两倍。"
+        },
+        {
+          "t": "p",
+          "x": "模型对既有计划表示赞同的比例约为70%，对新计划或新政策则只有34%。即使考虑地区因素，模型推荐电动汽车的频率也低于这些车型在各国的实际销售比例。"
+        },
+        {
+          "t": "p",
+          "x": "首席研究员Seth Wynes建议用户让聊天机器人论证做一件新事情的理由。"
+        }
+      ]
+    },
+    "science/science-patent-attorney-ai-rct": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在一项针对执业专利律师、为期三个月的随机对照试验中，David Autor和Tanya Rodchenko发现，日常使用AI能全面提升工作质量，但它对在职学习（on-the-job learning）的影响取决于资历。"
+        },
+        {
+          "t": "p",
+          "x": "团队在十一家IP律所的133名律师中，随机分配了一款当时尚未发布的Google Labs专利撰写助手的使用权限，该工具现已成为Gemini Notebook的一部分。获得AI后，起草得分在第10天提高了0.34个标准差，在第90天提高了0.38 SD。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork1-RedliningQuality.width-1250.png",
+          "cap": "AI使用权限对专利起草和修订标注质量的估计影响，分为全体、初级和资深律师。"
+        },
+        {
+          "t": "p",
+          "x": "在第90天进行的无辅助修订标注任务中，AI组比对照组高出0.32 SD，这一差距完全来自资深律师（0.45 SD）。初级律师没有明显进步，他们的分数出现两极分化，极低分和高分都更多。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/images/BetterWork2-AverageRedliningScore.width-1250.png",
+          "cap": "按经验划分的实验组与对照组律师平均修订标注得分分布。"
+        },
+        {
+          "t": "p",
+          "x": "资深律师表示，他们把AI输出当作“逻辑审计员”（logic auditor）来对待。作者警告，今天能产出更好成果的工具，不能阻碍初级律师成长为明天的专家。"
+        }
+      ]
+    },
+    "science/science-quanta-math-ai-reckoning": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Lede-scaled.webp",
+          "cap": "Eduardo Ramón for Quanta Magazine"
+        },
+        {
+          "t": "p",
+          "x": "9月8日，OpenAI宣布其模型解决了数学界最著名的难题之一，引发了关于作者身份和标准的争议。许多反应流露出悲伤、困惑与恐惧。在初创公司（start-up）Axiom Math的Ken Ono于Berkeley举行的讲座上，学生们以愤怒和沮丧回应。"
+        },
+        {
+          "t": "p",
+          "x": "AI给出的证明虽经过验证，却几乎无法读懂，缺少了数学家赖以交流的理解。Caltech的Tasmin Chu说：“它打破了我们的体系。”OpenAI将100多项成果保密，arXiv现在限制每位作者每月只能投稿两篇，MathOverflow的活跃度也在下降。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Side-image-2-Right.webp"
+        },
+        {
+          "t": "p",
+          "x": "“如果我们不适应，就会有一个糟糕的未来：50年后数学将不复存在。”University of Toronto的Daniel Litt说。MIT的Pavel Etingof则认为，数学家将转而解读AI的成果。也有人像McGill的Marcel Goh一样，自称AI“素食者”。"
+        },
+        {
+          "t": "p",
+          "x": "Chu等人成立了Association for Human Mathematics，数学家们正在重新思考培养、发表和招聘方式。"
+        }
+      ]
+    },
+    "science/science-halzen-nobel-icecube-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+          "cap": "Francis Halzen表示，AI帮助研究人员在中微子数据中“看到了银河”。"
+        },
+        {
+          "t": "p",
+          "x": "82岁的诺贝尔物理学奖得主、University of Wisconsin-Madison的Francis Halzen在都灵（Turin）自豪地谈起自己早年在中微子研究中推动AI的经历。他是IceCube的构想者，该项目在南极冰层中布设了5,484个光学模块。"
+        },
+        {
+          "t": "p",
+          "x": "“最早的神经网络出现在1980年代末，我非常自豪自己在1991年写了一篇论文，提议用AI”分析实验数据，他说。在几年前出现非常强大的神经网络之前，神经网络只是偶尔被使用。"
+        },
+        {
+          "t": "p",
+          "x": "Halzen说，在中微子天空中，人们看到的是其他星系，而不是银河。借助神经网络，“我们终于开始在数据中看到银河”。他还谈到了科学面临的经费压力；IceCube已从U.S. National Science Foundation（美国国家科学基金会）获得约$250 million资助。"
+        }
+      ]
+    },
+    "science/science-ai-help-persistence": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "一项经同行评审的研究显示，仅依赖AI工具10分钟，就会显著削弱人们专注并坚持完成困难任务的能力。该研究的合著者是UC Berkeley Center for Human-Compatible AI的Brian Christian，研究于本周在Conference on Language Modeling上发表。"
+        },
+        {
+          "t": "p",
+          "x": "团队对1,222名在线参与者开展了随机对照试验。在第一项试验中，354人解答15道分数题，其中一组可以随时使用ChatGPT。AI组起初正确率更高，但在做完12道题后工具被收回，他们的正确率几乎立刻崩溃。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Figure1Combined_SolveSkip-1024x1016.jpg",
+          "cap": "收回工具后，AI组的解题率（橙色）下降，跳过题目的比例则急剧上升。"
+        },
+        {
+          "t": "p",
+          "x": "第二项有667人参与的试验和第三项由201人完成SAT阅读理解的试验得出了相同结果：一旦撤走AI帮助，毅力和正确率都会下降，而从未获得帮助的人则坚持完成任务。作者认为，AI消除了“有益的挣扎”（productive struggle），助手可以默认像导师一样进行教学。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.berkeley.edu/wp-content/uploads/2026/10/Oct8-62.jpg",
+          "cap": "2026年10月7日，Brian Christian在UC Berkeley介绍这项研究。"
+        },
+        {
+          "t": "p",
+          "x": "“这不是一个关于分数和SAT题的故事，”Christian说，“这是人类知识和人类专长正在自上而下经历的事情。”"
+        }
+      ]
     }
   }
 }

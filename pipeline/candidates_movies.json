@@ -1,89 +1,99 @@
 {
- "date": "2026-10-10",
  "section": "movies",
- "now_iso": "2026-10-09T22:05:00Z",
+ "date": "2026-10-11",
+ "now_iso": "2026-10-10T22:00:00Z",
  "window_hours": 336,
+ "expansion": [
+  "Busan ACFM AI panels (Netflix/Eyeline/Weta)",
+  "AI-generated feature distribution (Prime Video)",
+  "View Conference AI debate",
+  "generative 3D previs (Tripo)",
+  "real-time AI world models for previs (Visko/Google Cloud)",
+  "Korean equivalents: AI 감독, 3D 씬, AI 영상 연출 (off-list mt.co.kr, epnc.co.kr)",
+  "AI film festival winners (Astana, off-list Euronews)",
+  "Google Flow filmathon (off-list indiantelevision.com)",
+  "Google News RSS site-scoped sweeps across allowed_domains + news sitemaps (Variety/Deadline/THR)"
+ ],
  "items": [
   {
-   "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/",
-   "title": "Danny Boyle Shares Why He Used AI for Maggie Thatcher in ‘Ink’ – Without Asking Her Estate and His Love for ‘Obsession’ and ‘Backrooms’",
-   "source": "The Hollywood Reporter",
-   "category": "movies",
-   "published_iso": "2026-10-09T17:06:47+00:00",
-   "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-   "excerpt": "During a London Film Festival chat, the filmmaker also recalled his “uneventful” meeting with Rupert Murdoch after his ‘Slumdog Millionaire’ made the mogul’s studio “a lot of money.”"
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-   "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-   "source": "The Verge",
-   "category": "movies",
-   "published_iso": "2026-10-09T18:06:57+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-   "excerpt": "Nikon says it’s revisiting its competition rules after the original winner’s video was too good to be true."
-  },
-  {
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008134/claude-can-now-turn-data-into-animated-explainers",
-   "title": "Claude can now turn data into animated explainers.",
-   "source": "The Verge",
-   "category": "movies",
-   "published_iso": "2026-10-08T19:00:00+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Claude-Motion.png?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
-   "excerpt": "Anthropic's Claude can now add motion to its output, generating 30-second video explainers, animated charts and product walkthroughs (Claude Motion); Runway and Luma both shipped hand-off integrations the same day."
-  },
-  {
-   "url": "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/",
-   "title": "AI-Produced Series ‘Space Nation’ and ‘Kira’ to Premiere Pilot Episodes at Mipcom (EXCLUSIVE)",
+   "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+   "title": "Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu,' a Spin-Off From the Hit Series 'The Pit'",
    "source": "Variety",
    "category": "movies",
-   "published_iso": "2026-10-09T06:00:00+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-   "excerpt": "Two science-fiction series produced with generative AI, 'Space Nation' and 'Kira,' will have the world premieres of their pilot episodes at Mipcom."
+   "published_iso": "2026-10-10T13:25:21+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=563&crop=1",
+   "excerpt": "Prime Video has taken world rights on 'Çukur:Vartolu,' an AI-generated feature spun off from the Turkish hit series known internationally as 'The Pit' — a major streamer betting on a fully AI-made feature from an existing IP.",
+   "source_lang": "en"
   },
   {
-   "url": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
-   "title": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (EXCLUSIVE)",
+   "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+   "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
    "source": "Variety",
    "category": "movies",
-   "published_iso": "2026-10-09T13:00:00+00:00",
-   "og_image": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1",
-   "excerpt": "‘Mouse’ director Choi Junbae’s AI-assisted animated K-drama ‘The Painted Soul’ launches on Rakuten Viki Oct. 21 in key global markets."
+   "published_iso": "2026-10-10T10:50:03+00:00",
+   "og_image": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=563&crop=1",
+   "excerpt": "At Busan's ACFM, Eyeline's James Rustad mapped Netflix's generative-AI VFX workflow, saying artists still decide which generated shots serve the story.",
+   "source_lang": "en"
   },
   {
    "url": "https://variety.com/2026/global/global/view-conference-2026-brad-bird-roger-deakins-ai-debate-1236905539/",
-   "title": "Brad Bird’s ‘Ray Gunn,’ ‘Toy Story 5’ and Roger Deakins Lead View Conference Lineup as AI Debate Takes Center Stage",
+   "title": "Brad Bird's 'Ray Gunn,' 'Toy Story 5' and Roger Deakins Lead View Conference Lineup as AI Debate Takes Center Stage",
    "source": "Variety",
    "category": "movies",
    "published_iso": "2026-10-09T11:27:49+00:00",
    "og_image": "https://variety.com/wp-content/uploads/2026/06/Ray-Gunn.jpg?w=1000&h=563&crop=1",
-   "excerpt": "Brad Bird, Roger Deakins and the 'Toy Story 5', 'The Odyssey' and 'Spider-Man: Brand New Day' teams head to Turin's View Conference (Oct. 12-16), where the AI debate takes center stage."
+   "excerpt": "Turin's View Conference (Oct. 12-16) puts AI's role in animation and VFX at the center of its 27th edition alongside Brad Bird, Roger Deakins and the 'Toy Story 5' and 'The Odyssey' teams.",
+   "source_lang": "en"
   },
   {
-   "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
-   "title": "Did Royal Mail Revive BBC & 'Paddington' Voiceover Star With AI?",
+   "url": "https://au.variety.com/2026/film/news/george-miller-mad-max-artificial-intelligence-in-filmmaking-41137/",
+   "title": "'It's Not Intuitive': 'Mad Max' Director George Miller Weighs In on AI's Creative Limitations",
+   "source": "Variety Australia",
+   "category": "movies",
+   "published_iso": "2026-10-09T05:47:17+00:00",
+   "og_image": "https://images.thebrag.com/cdn-cgi/image/fit=crop,width=1200,height=628/https://images-r2-1.thebrag.com/var/uploads/2026/10/GettyImages-2299289560-e1791524783334.jpg",
+   "excerpt": "George Miller tells Variety Australia where generative AI falls short as a filmmaking tool — arguing it lacks the intuition that drives directing decisions.",
+   "source_lang": "en"
+  },
+  {
+   "url": "https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/",
+   "title": "AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: \"Tech Companies Should Collaborate More With Creatives\"",
    "source": "Deadline",
    "category": "movies",
-   "published_iso": "2026-10-09T05:36:27+00:00",
-   "og_image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-   "excerpt": "Daughter of Paul Vaughan, an acclaimed BBC and 'Paddington' voiceover artist, accuses Royal Mail Christmas ad of resurrecting her father using AI."
+   "published_iso": "2026-10-10T10:04:57+00:00",
+   "og_image": "https://deadline.com/wp-content/uploads/2026/10/AI-PANEL.jpg?w=1024",
+   "excerpt": "At Busan, Weta FX CTO Kimball Thurston, 'The Outlaws' director Kang Yun-sung and Netflix's Sung Q Lee weighed what AI tools speed up in production workflows and where they fall short. Thurston urged tech companies to work more closely with creatives.",
+   "source_lang": "en"
   },
   {
-   "url": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
-   "title": "BBC Staff Concerned About Matt Brittin Praise For AI 'Doctor Who'",
+   "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+   "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon",
    "source": "Deadline",
    "category": "movies",
-   "published_iso": "2026-10-08T12:46:07+00:00",
-   "og_image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg?w=1024",
-   "excerpt": "BBC employees would like Matt Brittin to travel back in time and scrub from the record his comments about an AI-generated episode of 'Doctor Who.'"
+   "published_iso": "2026-10-10T19:46:17+00:00",
+   "og_image": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+   "excerpt": "At NYCC, Nicolas Cage said he refused to sign an AI waiver for Prime Video's 'Spider-Noir' and probably won't work with the 'AI-friendly' streamer again — a performer-likeness flashpoint in AI production deals.",
+   "source_lang": "en"
   },
   {
-   "url": "https://nofilmschool.com/aaron-sorkin-explains-ai-gets-wrong-storytelling",
-   "title": "Aaron Sorkin Explains What AI Gets Wrong About Storytelling",
-   "source": "No Film School",
+   "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+   "title": "Busan's Asian Contents & Film Market evolves with added focus on AI and microdramas",
+   "source": "Screen Daily",
    "category": "movies",
-   "published_iso": "2026-10-06T22:30:48+00:00",
-   "og_image": "https://nofilmschool.com/media-library/image.webp?id=68278315&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
-   "excerpt": "Aaron Sorkin breaks down what generative AI gets wrong about storytelling in a wide-ranging craft interview."
+   "published_iso": "2026-10-10T01:19:00+00:00",
+   "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
+   "excerpt": "Busan's ACFM (Oct. 10-13) puts generative AI front and centre through InnoAsia. 44 organisations take part, and Kling AI co-hosts a session on how generative tech could reshape filmmaking.",
+   "source_lang": "en"
+  },
+  {
+   "url": "https://www.awn.com/news/real-time-ai-worlds-focus-visko-and-google-clouds-october-14-la-fireside-chat",
+   "title": "Real-Time AI Worlds in Focus at Visko and Google Cloud's October 14 LA Fireside Chat",
+   "source": "Animation World Network",
+   "category": "movies",
+   "published_iso": "2026-10-09T16:48:43-07:00",
+   "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081522-visko-google-cloud-live-models-landscape-1280.jpg?itok=w4XccKHY",
+   "excerpt": "Visko and Google Cloud will examine AI-generated environments that respond to user input while keeping continuity, and what they mean for previs, virtual production and games.",
+   "source_lang": "en"
   },
   {
    "url": "https://www.awn.com/news/call-participation-usc-annenberg-ai-film-and-tv-survey",
@@ -92,80 +102,78 @@
    "category": "movies",
    "published_iso": "2026-10-06T09:24:04-07:00",
    "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/ai-clapperboard-1280.jpg?itok=QQzQTtG3",
-   "excerpt": "Dr. Stacy L. Smith's Inclusion Initiative is asking professionals above and below the line to share their thoughts on artificial intelligence in a 30-minute anonymous online questionnaire."
-  },
-  {
-   "url": "https://www.redsharknews.com/youtube-ai-creator-tools-likeness-detection-2026",
-   "title": "Made on YouTube 2026: AI tools, likeness detection",
-   "source": "RedShark News",
-   "category": "movies",
-   "published_iso": "2026-10-05T06:00:00.000Z",
-   "og_image": "https://www.redsharknews.com/hubfs/youtube%20ai%20editing.jpg",
-   "excerpt": "Made on YouTube 2026 puts AI into drafting, thumbnails, testing, and editing, while likeness detection heads to mobile and, later, voice."
-  },
-  {
-   "url": "https://www.redsharknews.com/nikon-camera-platform-nikkei-interview-ai",
-   "title": "Nikon camera platform and AI: Nikkei interviews",
-   "source": "RedShark News",
-   "category": "movies",
-   "published_iso": "2026-10-06T09:53:06.000Z",
-   "og_image": "https://www.redsharknews.com/hubfs/camera%20shop.jpg",
-   "excerpt": "Nikon is planning a modular camera platform while major brands maintain their opposition to generative AI in photography, emphasizing authenticity and user experience."
-  },
-  {
-   "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
-   "title": "‘Fall 2’ reaches new heights in VFX - befores & afters",
-   "source": "befores & afters",
-   "category": "movies",
-   "published_iso": "2026-10-06T14:32:28+00:00",
-   "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg",
-   "excerpt": "Koala FX's VFX for survival-thriller 'Fall 2' — including where AI and machine learning came in, following Flawless' TrueSync AI redub on the first film."
+   "excerpt": "Stacy L. Smith's USC Annenberg Inclusion Initiative is surveying above- and below-the-line film and TV professionals on how AI is affecting their work.",
+   "source_lang": "en"
   },
   {
    "url": "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
-   "title": "THE NEXT GENERATION SPEAKS: WHAT YOUNG VFX ARTISTS ARE DOING DIFFERENTLY",
+   "title": "The Next Generation Speaks: What Young VFX Artists Are Doing Differently",
    "source": "VFX Voice",
    "category": "movies",
    "published_iso": "2026-10-06T16:00:32+00:00",
    "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11.jpg",
-   "excerpt": "How Gen Z VFX artists are making their mark — and how they're approaching generative AI amid guild and Academy pushback."
+   "excerpt": "Young VFX artists, including ones at ILM, split on generative AI: some fold it into look development and iteration, others reject it on principle. They agree human judgment stays central.",
+   "source_lang": "en"
   },
   {
-   "url": "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
-   "title": "ACCOUNTING FOR THENEW ECONOMICS OF VFX",
-   "source": "VFX Voice",
+   "url": "https://nofilmschool.com/aaron-sorkin-explains-ai-gets-wrong-storytelling",
+   "title": "Aaron Sorkin Explains What AI Gets Wrong About Storytelling",
+   "source": "No Film School",
    "category": "movies",
-   "published_iso": "2026-10-06T15:56:11+00:00",
-   "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-12-2.jpg",
-   "excerpt": "Tax incentives, remote pipelines and AI efficiencies have reshaped how VFX work is bid, staffed and delivered in 2026."
+   "published_iso": "2026-10-06T22:30:48+00:00",
+   "og_image": "https://nofilmschool.com/media-library/image.webp?id=68278315&width=1200&height=600&coordinates=0%2C62%2C0%2C63",
+   "excerpt": "In a wide-ranging interview, Aaron Sorkin explains why AI-generated scripts miss what makes storytelling work — a screenwriting-craft take on AI writing tools.",
+   "source_lang": "en"
   },
   {
-   "url": "https://www.youtube.com/watch?v=aVVxF88J2co",
-   "title": "I Tested AI Agents Against a Real AI Artist",
-   "source": "Curious Refuge (YouTube)",
+   "url": "https://www.youtube.com/watch?v=h4MKJAJvins",
+   "title": "This New Trick Can Save a Ton on AI Video Generations",
+   "source": "Curious Refuge",
    "category": "movies",
-   "published_iso": "2026-09-30T14:33:06-07:00",
-   "og_image": "https://i.ytimg.com/vi/aVVxF88J2co/maxresdefault.jpg",
-   "excerpt": "In this video, we test all of the top AI Creative Agents against the work from a real AI artist to see how AI holds up when compared to Human creativity.We a..."
+   "published_iso": "2026-10-09T15:24:51-07:00",
+   "og_image": "https://i.ytimg.com/vi/h4MKJAJvins/maxresdefault.jpg",
+   "excerpt": "Curious Refuge shows workflows for AI filmmakers to avoid wasting credits on bad generations before committing to full renders.",
+   "source_lang": "en"
+  },
+  {
+   "url": "https://www.mt.co.kr/tech/2026/10/10/2026100709475523072",
+   "title": "'부산행' VFX 장인이 만든 'AI 감독'…저작권 걱정 없는 K-롱폼에 '베팅'",
+   "source": "머니투데이",
+   "category": "movies",
+   "published_iso": "2026-10-10T07:00:00+09:00",
+   "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=536,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026100709475523072_2.jpg",
+   "excerpt": "'부산행'·'반도' VFX를 이끈 정황수 대표의 더만타스토리가 시나리오에서 인물·조명·카메라 각도를 추출해 영상 시퀀스로 잇는 AI 영상 엔진 '더로드'로 롱폼 제작에 나섰다.",
+   "source_lang": "ko"
+  },
+  {
+   "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
+   "title": "모픽, '3D 씬'으로 영상 구도·카메라 연출 직접 다룬다",
+   "source": "테크월드",
+   "category": "movies",
+   "published_iso": "2026-10-08T10:20:00+09:00",
+   "og_image": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+   "excerpt": "모픽이 AI 영상의 연출 무작위성과 구도 붕괴를 해결하는 3D 장면 연출 에디터 '3D 씬'을 출시했다 — 3D 마네킹과 카메라로 구도를 먼저 잡고 생성한다.",
+   "source_lang": "ko"
+  },
+  {
+   "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+   "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
+   "source": "Euronews",
+   "category": "movies",
+   "published_iso": "2026-10-06T10:37:39+02:00",
+   "og_image": "https://images.euronews.com/articles/stories/09/93/92/42/1200x675_cmsv2_7cecc9dd-7306-5f0d-93f1-f62a32a1677c-9939242.jpg",
+   "excerpt": "The first Astana AI Film Festival wrapped with Latvian filmmaker Nikolay Shestak taking the €400,000 Grand Prix from 8,000+ entries; the €1.8M fund splits prizes and investment in AI film projects.",
+   "source_lang": "en"
+  },
+  {
+   "url": "https://indiantelevision.com/movies/google-flow-and-women-in-film-india-launch-filmathon-with-top-five-ai-made-films-headed-to-iffi-goa-2026/",
+   "title": "Google Flow and Women in Film India launch Filmathon, with top five AI-made films headed to IFFI Goa 2026",
+   "source": "Indian Television",
+   "category": "movies",
+   "published_iso": "2026-10-06T13:37:55+00:00",
+   "og_image": "https://indiantelevision.com/wp-content/uploads/2026/10/guneet-1000x600.jpg",
+   "excerpt": "Google Flow and Guneet Monga Kapoor's WIF India launched an AI filmmaking 'Filmathon'; the top five AI-made films will screen at IFFI Goa 2026.",
+   "source_lang": "en"
   }
- ],
- "expansion": {
-  "added_keywords": [
-   "Claude Motion",
-   "MIPCOM AI series",
-   "AI-assisted animated K-drama",
-   "AI voice likeness (Royal Mail/Paddington)",
-   "likeness detection",
-   "View Conference AI",
-   "Flawless TrueSync",
-   "Small World in Motion"
-  ],
-  "methods": [
-   "outlet RSS + paged/tag feeds (24 domains)",
-   "PMC news/post sitemaps",
-   "Google News RSS site: queries (en/ko) with decoded source URLs",
-   "YouTube channel Atom feeds"
-  ],
-  "notes": "Many fresh items dropped as already published (Gods Dont Give Gifts, Arcana, Authors First, Tripo, Call of the Wild, The Gifted, Japanese voice ruling, Steel Ray, Mosa, LOFT, most Curious Refuge videos). Dropped advertorials: bts Autodesk Flow Studio 3D Editor, Cine21 AI Content Awards ADVERTORIAL, NFS Topview intro, Variety Utopai. Harmonia (Deadline) is a drama about AI, not AI production — dropped. Claude Motion story also on runwayml.com/lumalabs.ai (same story; only Verge kept); may collide with design section."
- }
+ ]
 }

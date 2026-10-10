@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "science",
-  "items": [
+  "picks": [
     {
-      "title": "Using AI for just 10 minutes erodes your ability to persist at hard things",
-      "url": "https://www.eurekalert.org/news-releases/1147258",
-      "source": "EurekAlert! (UC Berkeley)",
-      "published_iso": "2026-10-09",
-      "og_image": "https://mediasvc.eurekalert.org/Api/v1/Multimedia/1b9b71bf-33e7-4773-b488-8791616efb19/Rendition/low-res/Content/Public",
-      "excerpt": "Across three randomized trials with 1,222 participants (UC Berkeley, presented at COLM), people who used an AI helper for ~10 minutes became less persistent and less accurate on fraction and SAT reading problems once it was removed, often giving up, while never-assisted participants did better by the end.",
+      "url": "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/",
+      "title": "How AI helped bring an ancient tomb dating to before the Roman Empire back to life",
+      "source": "Scientific American",
       "category": "science",
+      "published_iso": "2026-10-03T06:00:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/197741e6-e7f2-432f-bd94-e10be39de8ab/Tomba-dei-demoni-azzurri.jpg?m=1790962243.971&w=1200",
+      "excerpt": "Pairing artificial intelligence with acoustic technology let archaeoacousticians reconstruct how the Etruscan Tomb of the Blue Demons sounded.",
+      "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Three randomized trials with 1,222 people found that about 10 minutes of AI help left participants less persistent and less accurate once the help was removed. It is the freshest and most broadly relevant cognitive-science result in the pool."
+      "rationale": "Fresh AI x archaeoacoustics study with a striking visual; no archaeology-acoustics story in 30-day history, strong teaser card."
     },
     {
-      "title": "Now in Nature: Retrofitting language models to operate over bytes",
-      "url": "https://allenai.org/blog/bolmo-nature",
-      "source": "Ai2",
-      "published_iso": "2026-10-07T00:00:00-08:00",
-      "og_image": "https://www.datocms-assets.com/64837/1791355720-nature-cover-for-release-thumbnail.jpg",
-      "excerpt": "The 'byteification' technique behind Ai2's open byte-level Bolmo models, published in Nature with LMU Munich, Cambridge, UW and Imperial, converts existing tokenized LLMs to letter-by-letter models with under 1% of usual training, preserving performance and fixing character-level tasks like spelling backward.",
+      "url": "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
+      "title": "AI chatbots endorse existing climate-related policies twice as often as new proposals",
+      "source": "Phys.org",
       "category": "science",
+      "published_iso": "2026-10-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chat-5.jpg",
+      "excerpt": "University of Waterloo researchers tested 11 LLMs on 7,500+ queries: chatbots endorsed existing plans about 70% of the time versus 34% for new ones, and under-recommended EVs relative to actual sales (Environmental Research Communications).",
+      "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A peer-reviewed Nature paper showing that existing tokenized LLMs can be converted to byte-level models with under 1% of the usual training. The method is open and fixes character-level failures."
+      "rationale": "New peer-reviewed measurement of status-quo bias across 11 LLMs on climate policy; concrete numbers, distinct from the 10-06 'knowledge collapse' piece."
     },
     {
-      "title": "Pollen study reveals the hidden history of grasses",
-      "url": "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html",
-      "source": "Phys.org",
-      "published_iso": "2026-10-05",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/pollen-study-reveals-t.jpg",
-      "excerpt": "University of Illinois researchers (PNAS, 'Deep learning of fossil pollen morphology') combine super-resolution microscopy with convolutional neural networks to tell grass pollen apart, estimating species diversity and C3/C4 grasses across a 25,000-year Mount Kenya lake-sediment record.",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "title": "Does better work always mean better workers?",
+      "source": "Google Research",
       "category": "science",
-      "tool": "Science",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "A PNAS study in which CNNs tell apart grass pollen that people cannot distinguish by eye, recovering 25,000 years of grassland diversity. It is a concrete research result where AI drives the science, in paleoecology, a field not yet covered."
-    },
-    {
-      "title": "Neural network study sheds light on how AI chatbots 'reason' like humans",
-      "url": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-09T11:40:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/how-do-ai-chatbots-rea.jpg",
-      "excerpt": "Yale computational linguist Tom McCoy and Microsoft/NYU co-authors (arXiv) show LLMs' internal vectors can be swapped for role-and-filler symbolic representations with little behavior change, and targeted edits to them steer outputs, which suggests that symbolic-like structure emerges on its own.",
-      "category": "science",
+      "published_iso": "2026-10-07T00:00:00Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "In a three-month RCT with practicing patent attorneys (David Autor et al.), routine AI use lifted work quality across the board; senior lawyers gained stronger judgment while juniors showed no average skill gain, their scores polarizing.",
+      "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Yale, Microsoft and NYU researchers show that LLM internal vectors can be swapped for symbolic role-filler structures with little change in behavior, and that editing those structures steers the output. This is new evidence on cognitive science's symbolic-versus-connectionist debate."
+      "rationale": "Field RCT (Autor et al.) separating output quality from skill growth; a different study from the 10-10 EurekAlert persistence experiment."
     },
     {
-      "title": "Spiking neural network learns to predict what will happen, when, and how likely it is",
-      "url": "https://techxplore.com/news/2026-10-spiking-neural-network.html",
-      "source": "Tech Xplore",
-      "published_iso": "2026-10-07T13:20:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-spiking-neural-netwo.jpg",
-      "excerpt": "University of Tokyo WPI-IRCN researchers (Communications Biology) built a 1,000-neuron recurrent spiking network that uses only local learning rules to learn which event a cue predicts, when it arrives and how likely it is, adapting when probabilities shift, with implications for neuromorphic AI.",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "title": "Is AI the End of Math As We Know It?",
+      "source": "Quanta Magazine",
       "category": "science",
+      "published_iso": "2026-10-05T13:40:07+00:00",
+      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Qualia-MathWoes-cr.Eduardo-Ramon-Social.jpg",
+      "excerpt": "Mathematicians are facing AI's sudden advance with grief, anger and a search for fresh ideas: 'If we don't adapt, there's just no more math in 50 years.'",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "Quanta's field-wide reckoning on how mathematicians are adapting; a standalone piece, not a follow-up to the Unique Games or Fields-medalist cards."
+    },
+    {
+      "url": "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
+      "title": "Nobel physics winner's pride at pioneering AI role",
+      "source": "Phys.org",
+      "category": "science",
+      "published_iso": "2026-10-07T00:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/francis-halzen-said-ai.jpg",
+      "excerpt": "Nobel laureate Francis Halzen recalled his early push for AI in neutrino research, including a 1991 paper proposing it for particle-physics data. Neural networks later helped IceCube pull the Milky Way out of its neutrino data.",
+      "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "A Communications Biology paper in which a 1,000-neuron spiking network learns what will happen, when, and how likely it is, using only local brain-like learning rules. It adds computational neuroscience and is a different study from the 09-22 physical-AI hardware card."
+      "rationale": "Timely Nobel-week angle on neural networks in IceCube neutrino astronomy; no Nobel or neutrino story in history."
     }
-  ],
-  "alternates": [
-    "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html",
-    "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html",
-    "https://techxplore.com/news/2026-10-ai-drilling-regimes-potential.html"
   ],
   "dedup": {
     "checks": {
-      "https://www.eurekalert.org/news-releases/1147258": {
+      "https://www.scientificamerican.com/article/how-ai-helped-bring-an-ancient-tomb-dating-to-before-the-roman-empire-back-to-life/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
+        "nearest": "",
         "new_action": ""
       },
-      "https://allenai.org/blog/bolmo-nature": {
+      "https://phys.org/news/2026-10-ai-chatbots-endorse-climate-policies.html": {
         "verdict": "new",
-        "nearest": "https://allenai.org/blog/astabrief",
+        "nearest": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-pollen-reveals-hidden-history-grasses.html": {
+      "https://research.google/blog/does-better-work-always-mean-better-workers/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-ai-tool-cell-million-years.html",
+        "nearest": "https://www.eurekalert.org/news-releases/1147258",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html": {
+      "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
+        "nearest": "https://www.scientificamerican.com/article/25-winners-of-maths-nobel-prize-decry-the-ai-invasion-of-their-discipline/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-spiking-neural-network.html": {
+      "https://phys.org/news/2026-10-nobel-physics-winner-pride-ai.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Pool of 18 candidates. Story-dedup removed nothing, and no candidate carries a history_match or cluster tag. A manual check against the 30-day history_digest found no repeats among the picks. DROPPED as running-story repeats or commentary, per the instruction to avoid math-proof and GPT-6 Astra coverage: New Scientist 'OpenAI mistranslated mathematics into code for its Navier-Stokes proof' (follow-up reporting on the OpenAI math-proof story, not a new release), Quanta 'Is AI the End of Math' (essay), Live Science 'GPT-6 Astra AGI' (commentary). DROPPED as opinion, feature or book coverage with no new study: MIT Tech Review refusal op-ed, SciAm attachment theory, MIT News Turkle book, Physics World drones feature (also overlaps the 10-03 Antarctica drones card). NOT PICKED: the climate-chatbot policy bias study (good alternate, but the set already has three LLM-adjacent cards), the Halzen Nobel interview (a retrospective on AI's role, not a new result), Skoltech drilling (surrogate projections not yet validated in the field), the SciAm Etruscan tomb (dated 10-03, AI role unclear, and passed over yesterday), MIT algorithmic monoculture (09-29, older), New Scientist reviewers using AI (09-28, older). Bolmo is a new Nature publication, distinct from the 10-08 AstaBrief model release. Outlets: EurekAlert x1, Ai2 x1, Phys.org x1, Tech Xplore x2 (4 outlets, at most 2 per outlet). No pathogen or biosecurity items, and none of the stories owned by other sections."
+    "note": "No clusters in pool. Skipped: arXiv fusion-control benchmark (history_match related to 2026-09-14 ScienceDaily fusion plasma story, and no og:image); SciAm AI safety tests (evaluation commentary, overlaps 10-06 'tests that grade AI' card); Tech Xplore Koc photonic AI (possible overlap with 10-02 ScienceDaily light-powered deepfake detector and 09-23 LightTok, so held back); Live Science GPT-6 Astra AGI (product-claim/industry framing, weak science fit); Tech Xplore Skoltech drilling (lower novelty/interest); arXiv legoESM and LLM optimizer (preprints, no image); PlantMicro, drones-wildlife (Antarctica drones published 10-03), attachment theory, AI-language blog, cognitive-science essay ranked lower. No biosecurity or protein-design items, and no clinical items. Outlets: Phys.org x2, SciAm, Google Research, Quanta."
   }
 }

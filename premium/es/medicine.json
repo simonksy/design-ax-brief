@@ -414,6 +414,122 @@
           "x": "NextMR funciona con secuencias de MRI habituales en escáneres de 1.5T y 3T y genera automáticamente su resultado óseo 3D en menos de 60 segundos, visible a través de una interfaz web. Se validó con un conjunto de datos independiente y retrospectivo de 145 adultos con imágenes pareadas de MRI y CT procedentes de centros en Estados Unidos (U.S.) e Israel."
         }
       ]
+    },
+    "medicine/fda-cdrh-fy27-ai-guidance": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://imgproxy.divecdn.com/dyL1-qKnb24LTGjwvbDwGPQ14IR6LWNupvalRbEtDR8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNDk4X0F5QktzVk0uanBn.webp",
+          "cap": "Entre las prioridades secundarias de la FDA figura finalizar la guía sobre pulsioxímetros."
+        },
+        {
+          "t": "p",
+          "x": "La Food and Drug Administration (FDA) publicó el jueves sus prioridades de guías para el año fiscal 2027 y se fijó como meta finalizar y redactar documentos sobre inteligencia artificial. En los próximos 12 meses, las principales prioridades de la FDA incluyen finalizar la guía sobre solicitudes de comercialización y gestión del ciclo de vida de los dispositivos con IA (AI-enabled) y redactar recomendaciones sobre IA generativa (generative-AI)."
+        },
+        {
+          "t": "p",
+          "x": "La agencia también da prioridad a finalizar con rapidez su guía sobre solicitudes previas a la comercialización de dispositivos quirúrgicos asistidos por robot, que publicó como borrador la semana pasada. La FDA acepta comentarios sobre sus prioridades hasta el 30 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "La FDA publicó en enero de 2025 el borrador de la guía sobre el ciclo de vida de los dispositivos con IA (AI-enabled). Este año prioriza redactar recomendaciones probatorias sobre dispositivos conversacionales con IA generativa para trastornos mentales, un tema ausente en la lista del año pasado pero alineado con la convocatoria de comentarios de agosto sobre la regulación de la IA (AI) generativa."
+        },
+        {
+          "t": "p",
+          "x": "Otras prioridades incluyen los respiradores purificadores de aire, las pruebas y el etiquetado de productos menstruales, los sistemas de gestión de calidad y un tema pendiente sobre planes de control de cambios predeterminados. Entre las prioridades secundarias figura finalizar la guía sobre pulsioxímetros."
+        }
+      ]
+    },
+    "medicine/voice-ae-ctcae-audio": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Documentar los eventos adversos relacionados con el tratamiento exige mucho trabajo y está sujeto a variabilidad entre observadores. VOICE-AE es un proceso de varias etapas que integra reconocimiento automático de voz, diarización de hablantes y modelos de lenguaje de gran tamaño para extraer y graduar de forma automática las toxicidades CTCAE a partir de grabaciones de audio entre clínico y paciente."
+        },
+        {
+          "t": "p",
+          "x": "Se grabaron consultas de pacientes con cáncer de próstata en radioterapia; seis evaluadores humanos con enmascaramiento graduaron 10 toxicidades genitourinarias/gastrointestinales a partir de las mismas transcripciones. 31 pacientes (39 consultas) generaron 390 evaluaciones consulta–toxicidad, 300 de ellas (76.9%) con un grado de referencia de 0."
+        },
+        {
+          "t": "p",
+          "x": "VOICE-AE alcanzó una kappa ponderada media de 0.717. La coincidencia exacta del grado CTCAE fue del 82.6% y la precisión con margen de un grado, del 99.2%, aunque un clasificador trivial que siempre asigna grado 0 (always-grade-0) llegaría al 76.9% y al 93.6%. El rendimiento fue menor en los grados 1 y 2 (F1 0.58 y 0.57); la sensibilidad de detección binaria fue del 77.8% y la especificidad, del 89.0%."
+        },
+        {
+          "t": "p",
+          "x": "VOICE-AE se situó dentro del rango de concordancia entre expertos, lo que respalda la viabilidad de documentar automáticamente los AE tras la consulta. La precisión en grado ≥2 y la detección de toxicidad grave siguen sin demostrarse."
+        }
+      ]
+    },
+    "medicine/asan-peds-rrs-vuno": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/526509",
+          "cap": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl."
+        },
+        {
+          "t": "p",
+          "x": "Park Yu-kyung, docente del Departamento de Pediatría del Asan Medical Center de Seúl, presentó el 19 de septiembre, en el simposio global de VUNO sobre seguridad del paciente pediátrico, la experiencia del hospital con su RRS pediátrico y el uso de DeepCARS, un dispositivo médico basado en IA (AI) para gestionar el riesgo de paro cardíaco. En la práctica clínica ya hay casos en los que detectó a pacientes de alto riesgo antes que los sistemas de puntuación existentes, lo que permitió la intervención del equipo médico."
+        },
+        {
+          "t": "p",
+          "x": "El Asan Medical Center implantó en 2012 un equipo de respuesta rápida pediátrico (PMET) y, tras la puntuación APPLE en 2020 y PMAS en 2022, incorporó DeepCARS el año pasado. Los niños cuya puntuación DeepCARS supera los 90 puntos o sube 30 puntos o más en poco tiempo pasan a ser objeto de cribado mediante una alarma emergente. Park afirmó: «Nos resulta útil»."
+        },
+        {
+          "t": "p",
+          "x": "Una niña de 3 años y 11 meses, ingresada para un trasplante de células madre hematopoyéticas, fue detectada por el equipo de respuesta rápida cuando su puntuación DeepCARS subió a 95 tras la administración de ATG. Como no se habían introducido algunos datos, como la frecuencia respiratoria, la puntuación DeepCARS subió antes que la APPLE; la paciente mejoró tras su traslado a la PICU y el tratamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://medigatenews.com/file/news/526512",
+          "cap": "El Asan Medical Center utiliza DeepCARS en su sistema de respuesta rápida pediátrico. Foto: material de la presentación de Park Yu-kyung"
+        },
+        {
+          "t": "p",
+          "x": "También hay limitaciones. Al no tratarse de una monitorización continua en tiempo real, los signos vitales no registrados eran difíciles de captar tanto para la puntuación APPLE como para DeepCARS, y durante las pruebas hay muchas falsas alarmas. Park añadió que en el futuro la IA (AI) debería indicar también por qué la puntuación salió alta y con qué grado de confianza se hizo la evaluación."
+        }
+      ]
+    },
+    "medicine/llm-ophtho-preconsult-rct": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La anamnesis es central, pero se ve limitada por los escasos recursos clínicos. Los investigadores diseñaron un agente LLM de preconsulta para la anamnesis con una arquitectura de doble agente (dual-agent) y árboles lógicos orientados a síntomas creados mediante ingeniería de habilidades, y realizaron un ensayo clínico aleatorizado en un hospital oftalmológico de tercer nivel en Guangzhou, China."
+        },
+        {
+          "t": "p",
+          "x": "Entre el 10 de mayo y el 10 de junio de 2025, 172 de los 175 pacientes con citas no urgentes a los que se invitó fueron asignados al azar 1:1 al agente LLM o a residentes de oftalmología. El agente logró una mejor calidad de preconsulta según la puntuación MedHistory (diferencia media ajustada de 17.7 puntos; 95% CI 14.1 a 21.3), mejores valoraciones de paciencia y empatía e interacciones más largas (mediana de 11.2 frente a 3.1 minutos)."
+        },
+        {
+          "t": "p",
+          "x": "El rendimiento en la recomendación de pruebas no difirió de forma significativa. Los análisis exploratorios mostraron una mayor precisión diagnóstica a partir solo de la anamnesis (F1 0.85 frente a 0.68), mientras que los signos oculares mejoraron más a los residentes y redujeron la diferencia. Los autores proponen un flujo de trabajo híbrido en el que los clínicos se centren en la exploración física y la síntesis diagnóstica."
+        }
+      ]
+    },
+    "medicine/amie-lancet-primary-care": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physician_relation.max-1440x810.png",
+          "cap": "Un estudio en The Lancet sugiere que la inteligencia artificial (AI) podría mejorar la relación entre paciente y médico."
+        },
+        {
+          "t": "p",
+          "x": "¿Puede la IA evaluar con seguridad las necesidades de los pacientes antes de que entren en la consulta? Un estudio dirigido por investigadores de Google y del Beth Israel Deaconess Medical Center (BIDMC), publicado hoy en The Lancet, ofrece una primera aproximación alentadora. Al ser la primera publicación de Google en la revista principal de The Lancet, esta investigación marca un hito importante."
+        },
+        {
+          "t": "p",
+          "x": "En un estudio clínico en condiciones reales realizado en la clínica ambulatoria de atención primaria del BIDMC, 98 pacientes consultaron con AMIE, nuestro chatbot de IA de investigación para diagnóstico, antes de sus visitas de atención urgente. Los médicos supervisores siguieron las interacciones en tiempo real y, según los criterios de seguridad predefinidos, no fue necesario interrumpir ni una sola conversación. Los clínicos señalaron que los resúmenes de la IA les ayudaron a preparar las visitas en el 75% de los casos e influyeron en su enfoque asistencial en más de la mitad. Los diagnósticos diferenciales de AMIE coincidieron además con los diagnósticos finales de los médicos el 90% de las veces."
+        },
+        {
+          "t": "p",
+          "x": "Aunque se necesitan ensayos clínicos más amplios para evaluar a escala la IA orientada al paciente, los resultados apuntan al potencial de la IA para reforzar la relación entre paciente y médico y aliviar la presión sobre los profesionales sanitarios. Y muestran un avance significativo en el esfuerzo por ampliar los límites de lo que la IA puede hacer en la ciencia y la salud."
+        },
+        {
+          "t": "video",
+          "yt": "f3jK_SsHcAw"
+        }
+      ]
     }
   }
 }

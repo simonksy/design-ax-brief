@@ -5953,6 +5953,122 @@
           "x": "“AI歌曲中反响好的作品，将在与专家及创作者密切协商后交由真人歌手演唱，我们计划借此拓展经纪业务。”"
         }
       ]
+    },
+    "music/suno-live-songkick": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/07/news-stories-images-4x3-12.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "去年11月，Suno与Warner Music Group达成的授权协议中，包括收购演出发现平台Songkick。这在当时显得颇为古怪：一个AI音乐生成平台与现场演出有什么关系？如今，这对看似不搭的组合将如何运作，终于要见分晓。"
+        },
+        {
+          "t": "p",
+          "x": "Suno新设了名为Suno Live Experiences的部门，由ex-Ticketmaster VP Michael Chua出任VP兼总经理并负责领导。Chua的职责之一是统管Songkick。"
+        },
+        {
+          "t": "p",
+          "x": "Suno正大力将自己定位为服务创作者及其作品爱好者的平台，也多次高调表示，要扶持使用Suno AI工具创作音乐的新兴（人类）艺术家。"
+        },
+        {
+          "t": "p",
+          "x": "Suno首席音乐官Paul Sinclair表示，目标是让Suno成为“首个创意娱乐平台”。其设想或许是一站式涵盖AI-powered音乐创作、品牌塑造、流媒体、受众连接，如今还要加上通往现场体验的路径。"
+        }
+      ]
+    },
+    "music/grimes-psy-opera": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ac8100650cb91d83098a14c/16:9/w_1280,c_limit/HUIQnffXYAEvL00.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Grimes在4月接受Interview采访时表示，她录制了一张AI-themed新专辑Psy Opera。刚刚发布的主打单曲《Accelerando》的新闻稿写道：“从AI之争到不道德的战争，从糟糕的前任到looksmaxers，再到宗教的重要性，Psy Opera将涵盖Grimes在暂别流行乐期间，作为历史中的一名女性所目睹的一切。”发行日期尚未公布。"
+        },
+        {
+          "t": "p",
+          "x": "歌曲同时推出了一支令人不安的音乐录影带：Grimes被锁链缠身、在火刑柱上焚烧，还在一场仿生人大战中挥舞枪支。"
+        },
+        {
+          "t": "video",
+          "yt": "AVu5p2DMIf8"
+        },
+        {
+          "t": "p",
+          "x": "Grimes长期支持在音乐中使用AI。2024年，她在PBS节目A Brief History of the Future中称AI是音乐人的“机遇”；前一年，她提出，任何人用她的声音做出成功的AI-generated歌曲，都可获得50%的版税。"
+        },
+        {
+          "t": "p",
+          "x": "她还发布了Psy Opera的预告片，以反乌托邦、AI-themed的方式重述《约翰福音》（Gospel of John）。Psy Opera是她继2020年《Miss Anthropocene》之后六年来的首张专辑，也是她在自有厂牌Nazgul Recording LLC旗下的首张作品。"
+        }
+      ]
+    },
+    "music/fender-site-ai-tool": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-06T121605.029.png?fit=780%2C585&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "一段时间以来，Fender早已不只是一家乐器制造商。过去十年里，我们报道过它在音乐教育领域的动作、音乐制作应用Fender Studio，以及艺人培养计划Fender Next等。（没错，还有2022年与Meta合作、如今看来颇具“时代感”的吉他造型“Stratoverse”VR项目。）该公司最新的数字化举措是改版主网站，重点在于让它远不只是一个在线购买乐器的地方。"
+        },
+        {
+          "t": "p",
+          "x": "新功能包括一款名为“Ask Fender”的AI-powered工具，将首先在US上线，官方称其“旨在帮助音乐人根据自己的演奏风格、经验和需求找到合适的乐器”。新网站还将推出更多艺人内容，首先是下周（10月14日）开幕、共五场的系列演出“The One. For New York”。Fender Play教育板块也将并入新网站，同时新增一个专区，让访客在浏览乐器和音箱时试听其声音。"
+        },
+        {
+          "t": "p",
+          "x": "临时首席营销官Kelly Magrath承诺：“它超越了传统电商平台，是人们发现新装备、找到适合自己的产品并与品牌建立联系的地方。”"
+        }
+      ]
+    },
+    "music/arxiv-ai-music-plagiarism-vi": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "文本生成音乐（text-to-music）模型的迅速扩张，正在挑战音乐创作和知识产权的传统范式。在这一语境下，抄袭很少是绝对的数学二元判断，而是一个围绕和声结构、旋律轮廓或整体感知风格特征来权衡的模糊阈值。"
+        },
+        {
+          "t": "p",
+          "x": "在这项工作中，我们测试了最先进的音乐版本识别架构能否从人与人之间的翻唱领域迁移到人与AI之间（human-to-AI）的抄袭场景。为评估这一任务，我们推出了COPYCAT基准，它源自真实的抄袭案例，并通过生成式重新合成和数字信号处理混淆加以扩展，共得到350,654个评估对。"
+        },
+        {
+          "t": "p",
+          "x": "我们发现，标量距离阈值法在生成式重新合成下失效，而利用逐坐标嵌入偏移的监督框架能够恢复分散的抄袭信号，将整体F0.5从0.612提升至0.803。"
+        }
+      ]
+    },
+    "music/music-smith-sentenced": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/streaming-bots.png?fit=cover&width=660&s=7wwFFALV33Xwd29h8RR4E2GDMfrHVFIhAtpvNUs5loo"
+        },
+        {
+          "t": "p",
+          "x": "一名美国(US)音乐人因策划AI流媒体欺诈计划、赚取超过800万美元版税，将入狱一年半。"
+        },
+        {
+          "t": "p",
+          "x": "10月6日，纽约南区联邦检察官办公室(US Attorney's Office for the Southern District of New York)确认，已于3月认罪的Michael Smith将服刑18个月，并须没收$8,091,843.64。"
+        },
+        {
+          "t": "p",
+          "x": "调查人员发现，2017年至2024年间，Smith利用机器人账户在Spotify、Apple Music、Amazon Music和YouTube Music上为AI音乐制造了数十亿次播放。起初他只是为自己的音乐刷播放量，后来演变为上传数十万首AI生成(AI-generated)曲目的计划，仅2023年4月在YouTube Music上就获得超过8000万次播放。检方认为他总共获利1400万美元。"
+        },
+        {
+          "t": "p",
+          "x": "US联邦检察官Jamie McDonald表示，Smith让平台充斥着“取代消费者的自动化机器人，以及取代创造力的虚假歌曲”，夺走了真正艺术家的版税。"
+        },
+        {
+          "t": "p",
+          "x": "IFPI表示，这一结果“传递了流媒体欺诈是犯罪的明确信息”，并补充说，业界也必须通过其Streaming Integrity Initiative来预防、发现和打击欺诈。"
+        }
+      ]
     }
   }
 }

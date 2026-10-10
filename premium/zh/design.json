@@ -7094,6 +7094,152 @@
           "x": "订阅方案扩展为三种：Archicad Studio、Archicad Collaborate和Archicad Max，其中Archicad Max面向采用数据与AI驱动（AI-based）工作流程的事务所。"
         }
       ]
+    },
+    "design/agent-permission-preview": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Farshufn44xrl6jl5fatf.png"
+        },
+        {
+          "t": "p",
+          "x": "123sudo（AI工作空间9xchat的开发商）联合创始人KAT从产品设计而非安全规范的角度写道：如果看不到某个操作会做什么，“Allow this action”就很难回答。"
+        },
+        {
+          "t": "p",
+          "x": "已连接不等于已批准：界面应区分“这个工具已连接”和“这个操作在当前任务中被允许”。要展示结果，而不是工具——不是“Allow send_message?”，而是“将这封邮件连同附件中的项目简介发送给外部地址的Alex？”"
+        },
+        {
+          "t": "p",
+          "x": "预览应基于待执行的工具调用本身来生成，而不只是智能体的摘要。批准应对应某个具体操作：如果收件人、附件或正文发生变化，就要再次询问。警告需要文字，而不只是颜色——“外部收件人”“覆盖现有文件”。"
+        },
+        {
+          "t": "p",
+          "x": "提示越多并不意味着控制越强：在任务开始时设定易于理解的边界，只在智能体越界时才询问。检查清单：访问、操作、对象、批准、变更。“‘相信我’不是有用的批准界面。”"
+        }
+      ]
+    },
+    "design/grok-imagine-vercel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/3ifZwxey7dihpEX6mBw5dU/f6de9cac2ace3ca00ac0acd1a35717d4/image__63_.png"
+        },
+        {
+          "t": "p",
+          "x": "xAI的Grok Imagine Video 1.5 Lite现已在AI Gateway上线。这款轻量模型可将文本提示和图像转为带原生音频的视频。"
+        },
+        {
+          "t": "p",
+          "x": "该模型可生成1到15秒长的片段，分辨率为480p、720p和1080p。七种宽高比涵盖宽屏、方形和竖屏格式，因此可以在同一生成工作流中制作横向场景或竖屏视频。"
+        },
+        {
+          "t": "p",
+          "x": "要开始生成视频，在AI SDK或AI CLI中将模型设为spacexai/grok-imagine-video-1.5-lite即可。把图像模型与Grok Imagine Video 1.5 Lite串联，就能在一个流程中生成静态图并让它动起来。也可以直接在AI Gateway Playground中试用。"
+        },
+        {
+          "t": "p",
+          "x": "AI Gateway提供一个API，用于调用模型、追踪用量和成本，以及配置路由、重试和故障转移。可以使用AI Gateway API密钥，也可以自带服务商密钥。"
+        }
+      ]
+    },
+    "design/atlas-hand-sim": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/gr3-comparison-16x9-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Boston Dynamics的新款四指Atlas手部拥有13个自由度，采用直接驱动，并为大规模量产而设计。Atlas机器人行为总监Alberto Rodriguez告诉The Robot Report，这款手去掉了小指，缩小了夹持器，并为高保真仿真而打造，以实现sim-to-real强化学习。"
+        },
+        {
+          "t": "p",
+          "x": "它由13个相同的全封闭执行器构成，没有跨越关节的脆弱线缆。早期的手部能举起100 lb.-plus的物体，因此为换取驱动透明度，力量略有下调。"
+        },
+        {
+          "t": "video",
+          "yt": "4whgw2gLBS8"
+        },
+        {
+          "t": "p",
+          "x": "需求来自一系列任务——电动工具、线缆、摸取螺丝——以及关键的拇指动作。双拇指设计因额外的DoFs、成本和体积而被放弃。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.therobotreport.com/wp-content/uploads/2026/10/atlas-mts-drill-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "可反向驱动的执行方式加上摩擦补偿，使精确的动力学仿真成为可能：“打造便于仿真的执行器，然后依靠大规模RL。”Rodriguez预计，仿真中的RL将解锁超越抓取放置的复杂灵巧操作。这些手部已在总部大量使用，但尚未在整个机队部署。"
+        }
+      ]
+    },
+    "design/figma-ai-team-rituals": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
+          "cap": "头图插画：James Marshall"
+        },
+        {
+          "t": "p",
+          "x": "要把AI的影响从个人生产力提升扩展为整个团队的成果，就需要从人们所处的实际情况出发。团队需要以同伴支持为核心的交流平台，让新手和熟练者都能在低压力的环境中学习、练习并精进AI技能。以下是四个例子。"
+        },
+        {
+          "t": "p",
+          "x": "Figma开展同伴主导的学习小组。设计运营经理Jake Geller发起了名为“AI Collective”的试点：按设计师自选的主题组建五个同伴主导的小组，在六周内每周聚会一小时，会议间隙通过Slack交流，并提供模板，建议20分钟讲授、40分钟实践。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/b3ceaf989a29668277a27dcd295e695ed82c7de8-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Sephora分享行不通的做法。技术SVP Sneha Narahalli主持一个双周论坛，让构建者分享他们正在用AI做的东西。早期的分享只展示打磨好的成果，所以现在演示者会讲解整个过程，包括尝试过什么、哪些没奏效。她说：“听同伴讲述，看到它如何让对方的工作更轻松，远比自上而下的宣导更有力量。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/015a2686397343b62eda89ffb3507562b91341b6-1536x1536.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Sneha Narahalli，Sephora技术高级副总裁（Senior Vice President of Technology）"
+        },
+        {
+          "t": "p",
+          "x": "Mercari推行跨职能交叉培训。首席设计师（Principal Designer）Aki Alkhatib的团队举办实操课程：设计师学习工程基础，例如使用AI编程工具、创建GitHub仓库；开发者学习视觉层级等设计原则。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/2670d8aecebd5569ba4de4fd8a8f32568a436b60-3264x1836.png?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Atlassian的每次设计评审都从原型开始。首席设计官（Chief Design Officer）Charlie Sutton定下一条规则：先展示原型，再做解释。他说：“有时候，正是简单的规则让复杂的变革成为可能。”"
+        }
+      ]
+    },
+    "design/runway-claude-motion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d3phaj0sisr2ct.cloudfront.net/site/images/sanity/2026/10/100726-claude-casestudy-a-ivory-bc47bc61-759e-4955-90d3-1e18f8cc0356.png"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic推出Claude Motion，Runway为首发合作伙伴。Claude Motion可根据提示词，利用用户自有材料中的文字、图表、形状和图片生成简短的动画解说视频，任何动画都可导出至Runway，添加生成画面并完成剪辑。该功能以测试版形式向Claude Team和Enterprise方案提供。"
+        },
+        {
+          "t": "p",
+          "x": "可以让Claude把季度报告做成30秒的全员大会解说视频，或让董事会演示文稿中的图表动起来。Claude会编写让内容动起来的代码，成品像一段短视频那样播放，可以直接调整、通过对话修改，或下载为MP4。"
+        },
+        {
+          "t": "p",
+          "x": "如果解说视频还需要更多内容，可导出至Runway生成新的视频和图片，用文字描述修改来剪辑片段，并用Runway Agent围绕动画组装更长的版本。"
+        },
+        {
+          "t": "p",
+          "x": "Runway建议的用法包括：把动画数据与依据一张参考照片生成的产品镜头结合起来的发布视频；包含生成的客户场景的入门引导视频；加入配音和音乐的全员大会更新；以及无需重做动画，就把16:9解说视频扩展为竖版和方形格式，或进行本地化。"
+        }
+      ]
     }
   }
 }

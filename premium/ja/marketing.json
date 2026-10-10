@@ -529,6 +529,133 @@
           "x": "MetaはShopifyと組み、Messenger上のMeta Business Agentを通じた直接決済に取り組んでいる。Adyen、PayPal、Shopify、Stripeとは、Meta AI向けの同様の決済オプションを試験している。"
         }
       ]
+    },
+    "marketing/agency-agentic-buying": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/agentic-sponsored-digiday.001.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Dentsuは、傘下のメディアエージェンシーCaratがNBC Universal、Freewheel、AI企業Newtonと提携し、アップフロント投資で使う計画・購買・最適化エージェントを立ち上げると発表した。Tinuitiは「Bliss Point Model Context Protocol (MCP) Server」を公開し、自社の測定レイヤーをAIエージェントに直接開放した。StagwellはメディアエージェンシーAssemblyをStagwell Mediaとして再始動させ、その中核にMachine OSというエージェント型システムを据えた。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、これほど速い動きにすべてのクライアントが同意しているわけではなく、暴走するエージェントへの懸念に対する代理店の答えは、ほぼ常に人間による手厚い伴走だ。「すべてには今も人間の監督が必要だ」と、Dentsuのプラットフォーム責任者Rebekah Shalitは語った。FreewheelのDavid Dworinは、ほとんどのエージェント型システムは人間がすべてを承認するか、ごく具体的な制御を設ける形で設計されていると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "WPP MediaのLauren Wetzelは、財務面や配信面に影響が及ぶ場合には「明示的な制御、承認の閾値、責任ある人間の監督」が必要だと述べた。Caratの最高投資責任者Carrie Drinkwaterはより強気で、「今始めなければ、後れを取る」と語った。"
+        }
+      ]
+    },
+    "marketing/ai-max-bidding-math": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-august-17-bidding-change-fairground-high-striker-puck-hauled-back-to-target-line.jpg",
+          "cap": "Googleの8月17日の変更は、Search収益が17%伸びる一方で、400%のROASを200%の目標へ引き戻す"
+        },
+        {
+          "t": "p",
+          "x": "PPC Landの特別版は、GoogleはGoogleの収益のために最適化しており、広告主は自らの収益のために最適化しなければならないと論じる。8月17日以降、予算が限られたTarget CPAやTarget ROASのキャンペーンが目標を上回ると目標方向へ引き戻される一方、コスト面で目標を超えたキャンペーンはそのまま放置される。"
+        },
+        {
+          "t": "p",
+          "x": "Mike Ryanが3億8300万インプレッションを分析したところ、2026年7月までに広告主が完全一致で購入したものの約29%がAI Maxによって拡張されていた。他の調査では、AI Maxの広告費用対効果は従来のマッチタイプより約35%低いとされる。"
+        },
+        {
+          "t": "p",
+          "x": "Google自身の数字も変わってきた。AI Maxは2025年5月6日、同程度のコストでコンバージョン数またはコンバージョン値が14%増えるとうたって登場した。2026年4月の一般提供開始の発表では、この数字は小売を除くGoogleの2026年社内データに基づく7%だった。その後、ホリデー向けガイドは別の定義のもとで15%を用いた。"
+        },
+        {
+          "t": "p",
+          "x": "その間、AlphabetのSearch収益は第二四半期に17%増の632億7000万ドルとなった。PPC Landは、広告主はGoogleが作っていない計測手段で成果を判断せざるを得なくなっていると結論づける。"
+        }
+      ]
+    },
+    "marketing/regulated-ads-ai-defaults": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/ppc-regulated-131.png"
+        },
+        {
+          "t": "p",
+          "x": "医療、金融、法律分野の有料メディア担当マーケターにとって、AIは自動入札のブラックボックスからAI生成（AI-generated）のクリエイティブまで、さまざまな警戒信号を発する。自社の方針と業界ガイドラインを把握し、AIツールにどんなデータを入力するかに注意したい。"
+        },
+        {
+          "t": "p",
+          "x": "AI Maxのテキストカスタマイズは承認済みのメッセージと合わない広告文を取り込むことがあり、最終URLの拡張は望まないページにリンクする可能性がある。AI Maxを試すなら、両方の無効化を検討したい。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-customization-296.png",
+          "cap": "Google Adsのスクリーンショット、2026年10月"
+        },
+        {
+          "t": "p",
+          "x": "Performance Maxにはテキスト、画像、動画を対象とするキャンペーン単位のAsset Optimizationがあり、Demand Genにも同様の広告単位の設定がある。そこには免責表示が抜け落ちる可能性のある生成動画も含まれる。MetaのAdvantage+クリエイティブ強化機能は、色、フォント、レイアウトを変更しうる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/09/asset-optimization-113.png",
+          "cap": "Google Adsのスクリーンショット、2026年10月"
+        },
+        {
+          "t": "p",
+          "x": "MetaのAdvantage+ターゲティングやGoogleの最適化ターゲティングは、想定外のオーディエンスにまで配信を広げる可能性があり、自動入札は公正融資規則のようなアルゴリズムの偏りをめぐる懸念を招きうる。AIがコンプライアンス承認済みのクリエイティブを変更しうる箇所を監査し、安全策を講じるべきだ。"
+        }
+      ]
+    },
+    "marketing/chatgpt-ads-holiday": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/04/openai-ads-manager-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "ブランド各社は、この年末商戦でChatGPT広告が大きな売上をもたらすとは期待していない。高いクリック単価や実証されていない売上効果に加え、AIアシスタントは商品推薦の信頼できる情報源としての地位をまだ築いている途中だ。"
+        },
+        {
+          "t": "p",
+          "x": "Sensor Towerのデータによると、8月にChatGPTで広告を出したユニーク広告主は1,400超と前月比8%増えたが、支出の大半はCapital One、Expedia、Cloudflareなどの大企業によるものだ。"
+        },
+        {
+          "t": "p",
+          "x": "「全体として結果はかなり悪い」とMeasuredのTerence Einhornは語る。「ChatGPTのクリック単価に相当するものは、Googleの約6Xだ」。SuperfiliateのAnders Billは、ほとんどのブランドはまだMetaや検索から意味のある予算を移していないと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「効果があるとわかるまで、ブランドは何かを使う余裕はない」とEinhornは付け加えた。「そして使ってみるまで、効果があるかはわからない」"
+        }
+      ]
+    },
+    "marketing/openai-chatgpt-ads-agency-partner": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/09/GettyImages-2246494580.jpg?w=600&h=315&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは、ChatGPT広告を代理店のメディアプランの常設項目にする使命を担う営業担当者を募集している。"
+        },
+        {
+          "t": "p",
+          "x": "同社Ads SolutionsチームのAgency Partnerの求人は、「大手代理店ホールディングスとの戦略的関係を通じて」広告主収益を伸ばす人材を求めている。New York拠点の職で、基本給は$216,000〜$273,000、これに株式とコミッションが加わる。"
+        },
+        {
+          "t": "p",
+          "x": "採用者は代理店との共同事業計画を主導し、代理店向けの教育と支援を担い、独立系代理店とホールディングスの双方で、投資、戦略、プランニング、イノベーション、データ、コマースにわたる代理店幹部との関係を築く。"
+        },
+        {
+          "t": "p",
+          "x": "これはMetaとGoogleが継続的な広告費を囲い込むために使っているのと同じ、ホールディングス向けの営業体制である。"
+        }
+      ]
     }
   }
 }

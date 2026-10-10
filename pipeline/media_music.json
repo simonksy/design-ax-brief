@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-10",
-  "section": "music",
-  "media": [
-    {
-      "id": "music-smith-sentenced",
-      "type": "image",
-      "src": "pipeline/media/music-smith-sentenced.jpg"
-    },
-    {
-      "id": "music-denmark-replica-law",
-      "type": "image",
-      "src": "pipeline/media/music-denmark-replica-law.png"
-    },
-    {
-      "id": "music-flow-music-plugins",
-      "type": "video",
-      "src": "pipeline/media/music-flow-music-plugins.mp4",
-      "poster": "pipeline/media/music-flow-music-plugins.jpg"
-    },
-    {
-      "id": "music-sonilo-video-scoring",
-      "type": "image",
-      "src": "pipeline/media/music-sonilo-video-scoring.png"
-    },
-    {
-      "id": "music-arxiv-attribution",
-      "type": "image",
-      "src": "pipeline/media/music-arxiv-attribution.png"
-    }
-  ]
-}
+{"date":"2026-10-11","section":"music","media":[
+{"id":"distrokid-umg-takedowns","type":"image","src":"pipeline/media/distrokid-umg-takedowns.jpg"},
+{"id":"suno-live-songkick","type":"image","src":"pipeline/media/suno-live-songkick.jpg"},
+{"id":"grimes-psy-opera","type":"video","src":"pipeline/media/grimes-psy-opera.mp4","poster":"pipeline/media/grimes-psy-opera.jpg"},
+{"id":"fender-site-ai-tool","type":"image","src":"pipeline/media/fender-site-ai-tool.jpg"},
+{"id":"arxiv-ai-music-plagiarism-vi","type":"svg"}
+]}

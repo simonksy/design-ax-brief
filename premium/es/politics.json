@@ -1813,6 +1813,140 @@
           "x": "El regulador se centra ahora en los agentes de IA. Ha contactado con OpenAI, Anthropic, Meta y el AI Security Institute del UK tras informes de agentes que eludían salvaguardas. “Que los agentes de IA actúen con autonomía no es excusa para un cumplimiento deficiente”, dijo Richard Nevinson, director de regulación tecnológica de la ICO. Una consulta de seis semanas para recabar pruebas sobre la IA agéntica estará abierta hasta el 20 de noviembre."
         }
       ]
+    },
+    "politics/uber-gdpr-art22-fine": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Referencias legales (Legal Reference(s)): artículo 22 (Article 22; decisiones individuales automatizadas, incluida la elaboración de perfiles) y artículo 13 (Article 13; información que deberá facilitarse cuando los datos personales se obtengan del interesado). Decisión (Decision): multa administrativa (Administrative fine)."
+        },
+        {
+          "t": "p",
+          "x": "La Autoriteit Persoonsgegevens (AP), la autoridad neerlandesa de protección de datos, impone a Uber una multa de EUR 824 990 000. El motivo es que la AP ha determinado que Uber tomó decisiones totalmente automatizadas sobre los conductores. Ante sospechas de fraude o valoraciones de clientes demasiado bajas, las cuentas de los conductores se desactivaban automáticamente de forma temporal o, si las valoraciones bajas persistían, de forma permanente. Como resultado, los conductores perdían los ingresos obtenidos a través de Uber durante la desactivación."
+        },
+        {
+          "t": "p",
+          "x": "Las quejas de 171 conductores franceses de Uber, presentadas a través de la Ligue des droits de l’Homme (LDH) ante la Commission Nationale de l'Informatique et des Libertés (CNIL) de Francia, dieron origen a la investigación. Como la sede europea de Uber está en los Países Bajos, el caso lo tramitó la autoridad neerlandesa de protección de datos, la Autoriteit Persoonsgegevens (AP), conforme al procedimiento One-Stop-Shop del GDPR. El caso se refería a incidentes ocurridos entre 2018 y 2022."
+        },
+        {
+          "t": "p",
+          "x": "Según la AP, Uber vulneró la prohibición de la toma de decisiones totalmente automatizada (decision-making) establecida en el Reglamento General de Protección de Datos (General Data Protection Regulation, GDPR). La AP también concluyó que Uber no informó suficientemente a los conductores sobre la toma de decisiones automatizada. Uber ya ha puesto fin a las infracciones."
+        },
+        {
+          "t": "p",
+          "x": "Uber ha recurrido la multa y aún no hay una resolución judicial firme."
+        }
+      ]
+    },
+    "politics/ai-labs-backlash-plans": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/MZSM9WY5XMz-gIs0a8Jt0iicgjw=/0x0:1920x1080/1366x768/2026/10/08/1791483950907.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Altos directivos de Anthropic, OpenAI y otras empresas de inteligencia artificial (AI) están ensayando en privado escenarios de rebelión pública y política tras un evento catastrófico de IA, según informa Axios. Prevén un evento a gran escala (large-scale), probablemente un ciberataque, que corte el acceso a servicios financieros, a la conexión a internet o incluso al suministro eléctrico y de agua."
+        },
+        {
+          "t": "p",
+          "x": "Según el informe, un primer caso de daño significativo en el mundo real (real-world) volvería aún más a una opinión pública ya recelosa contra la tecnología y sus líderes, entre ellos Dario Amodei y Sam Altman, así como contra el presidente Trump por su reticencia a regularla. Muchos de los principales investigadores y directivos de IA creen que un incidente grave es inevitable."
+        },
+        {
+          "t": "p",
+          "x": "\"OpenAI realiza ejercicios de preparación en los que los equipos discuten y analizan una serie de posibles escenarios\", dijo un portavoz de la empresa. \"Estos escenarios no se tratan como inevitables\". Anthropic declinó hacer comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Axios cita una campaña reciente contra organizaciones financieras de Corea del Sur: según CrowdStrike, un hacker de China habría utilizado modelos de IA desarrollados en China (China-developed), entre ellos DeepSeek, para robar datos de decenas de miles de clientes bancarios."
+        },
+        {
+          "t": "p",
+          "x": "Los principales planificadores del sector de la IA dan por hecho que los demócratas, fortalecidos tras las elecciones de mitad de mandato, actuarán con rapidez para frenar la IA, pero se enfrentarán a obstáculos importantes. La planificación se centra sobre todo en una carrera por informar a los miembros del Congreso, y muchos conocedores del sector dijeron a Axios que esperan un evento grave en los próximos seis a 12 meses."
+        }
+      ]
+    },
+    "politics/artex-pentest-pulled": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img6.yna.co.kr/photo/yna/YH/2026/10/04/PYH2026100402250001300_P4.jpg",
+          "cap": "Cajero automático (ATM) de un banco en Seúl [Foto de archivo de Yonhap. Prohibida su reventa y su inclusión en DB]"
+        },
+        {
+          "t": "p",
+          "x": "ARTEX, una herramienta china de pruebas de penetración basada en inteligencia artificial (AI) que, según se informó, se utilizó en una serie de ataques informáticos contra el sector financiero de Corea del Sur, pone fin a su desarrollo público tras la polémica por su uso indebido."
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de ARTEX anunció que dejará de actualizar la herramienta y no publicará nuevas versiones, alegando que se utilizó de forma indebida en ciberataques. Según se informó, la página correspondiente también desapareció de la plataforma para desarrolladores GitHub. Sin embargo, como no es posible retirar los programas ya distribuidos, parece difícil que la sola suspensión del desarrollo baste para frenar los ciberataques con ARTEX."
+        },
+        {
+          "t": "p",
+          "x": "Según medios extranjeros como AFP y Reuters del día 10, el desarrollador de ARTEX, 'Autumn-27', afirmó en una publicación en la plataforma GitHub el día 8 que ARTEX había sido utilizada de forma indebida y que, \"teniendo en cuenta el mal uso de la herramienta, ARTEX dejará de actualizarse y pasará a ser de código cerrado\". Añadió que \"las próximas versiones no se publicarán al público y no se ofrecerá soporte de mantenimiento\"."
+        },
+        {
+          "t": "p",
+          "x": "Los responsables de ARTEX señalaron que usar la herramienta para ciberataques va en contra de la intención del desarrollador, aunque no mencionaron directamente los ataques ocurridos en Corea del Sur. Asimismo, sostuvieron que no se hacen responsables de los actos que infrinjan leyes y normas mediante la herramienta. Reuters informó de que la página de ARTEX en GitHub ha desaparecido."
+        },
+        {
+          "t": "p",
+          "x": "Los expertos señalaron que el paso de ARTEX a código cerrado podría dificultar que nuevos usuarios generen el código. No obstante, un experto chino en tecnologías de la información y las comunicaciones dijo a AFP que esta decisión no podrá eliminar las copias ya descargadas ni impedir que los usuarios sigan utilizándolas."
+        },
+        {
+          "t": "p",
+          "x": "ARTEX es un programa autónomo de pruebas de penetración que conecta grandes modelos de lenguaje (LLM) para que agentes de IA analicen objetivos, planifiquen vías de intrusión y ejecuten herramientas de seguridad. La empresa de seguridad estadounidense CrowdStrike concluyó que entre finales del mes pasado y principios de este mes se produjeron ataques contra instituciones financieras surcoreanas y que los atacantes utilizaron ARTEX junto con LLM."
+        }
+      ]
+    },
+    "politics/china-speed-first-safety": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!XM74!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
+        },
+        {
+          "t": "p",
+          "x": "Después de que Dario Amodei afirmara el 12 de septiembre de 2026 que los laboratorios de frontera deben frenar deliberadamente el avance de sus capacidades, con China en el centro de su argumento, SemiAnalysis se pregunta qué está haciendo realmente China en materia de seguridad de la inteligencia artificial (AI). Su respuesta: el enfoque real de Pekín (Beijing) se basa en la velocidad (speed-based), no en la seguridad (safety-based)."
+        },
+        {
+          "t": "p",
+          "x": "La posición declarada de China prioriza la seguridad (safety-forward), y el AI Safety Governance Framework 3.0 del TC260 (14 de septiembre de 2026) advierte sobre la automejora recursiva (self-improvement). Pero el Framework comienza con la promoción de la innovación, la prometida ley integral de IA (AI Law) se archivó en 2025 y el Plan de Acción AI+ (AI+ Action Plan) fija como meta una penetración de agentes del 70% para 2027. Sus numerosas normas regulan lo que la IA dice y hace en las aplicaciones, no los modelos de frontera."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!fLx1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f8f41eb-27c1-49f8-b7c5-9154a2d0021c_1628x1191.png",
+          "cap": "Fuente: SemiAnalysis"
+        },
+        {
+          "t": "p",
+          "x": "En un conjunto de datos de 857 lanzamientos de 9 desarrolladores chinos líderes entre 2021 y el 15 de septiembre de 2026, solo 31 (3.6%) llegaron a publicar algún resultado de seguridad, y apenas 9 (1.1%) lo hicieron en el momento del lanzamiento o antes. Ningún modelo de texto chino de frontera se ha lanzado con una evaluación de capacidades peligrosas (dangerous-capability); Zhipu es el único laboratorio en el que la seguridad es un compromiso estratégico explícito."
+        },
+        {
+          "t": "p",
+          "x": "Un análisis textual de 102 documentos concluye que solo los científicos técnicos anteponen la seguridad al desarrollo; ninguna de las 13 propuestas de obligaciones vinculantes para la frontera fue adoptada. Los autores sostienen que la geopolítica empujó a China hacia la velocidad y señalan que la propia publicación de Anthropic sobre su próximo lanzamiento presentó el ritmo como \"mantenerse competitivos frente a China\" (\"remaining competitive with China\")."
+        }
+      ]
+    },
+    "politics/eu-ai-panel-loss-of-control": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La Comisión Europea (European Commission) celebró el 9 de octubre una reunión especial del Panel Científico sobre inteligencia artificial (IA)."
+        },
+        {
+          "t": "p",
+          "x": "El panel ha investigado recientes incidentes de pérdida de control y, junto con la Oficina de IA de la Comisión (AI Office), ha elaborado una serie de preguntas para las empresas que desarrollaron los modelos implicados. Asistió la vicepresidenta ejecutiva (Executive Vice-President) responsable de Soberanía Tecnológica, Seguridad y Democracia, Henna Virkkunen."
+        },
+        {
+          "t": "p",
+          "x": "El panel reúne a 60 expertos independientes que asesoran a la Oficina de IA de la UE (EU AI Office) y a las autoridades nacionales sobre riesgos sistémicos, clasificación de modelos, metodologías de evaluación y vigilancia transfronteriza del mercado. En la reunión debía presentar a la Comisión recomendaciones sobre los riesgos de seguridad y protección de la IA de frontera."
+        },
+        {
+          "t": "p",
+          "x": "Virkkunen afirmó: “La UE tiene la primera ley del mundo que aborda el riesgo sistémico de la IA, y necesitamos aportaciones científicas de vanguardia. Las capacidades de la IA avanzan rápidamente, pero con un marco jurídico sólido, una aplicación decidida y las mejores mentes científicas respaldando este trabajo, Europa puede liderar para garantizar una IA segura y protegida.”"
+        }
+      ]
     }
   }
 }

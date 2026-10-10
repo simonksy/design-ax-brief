@@ -6838,6 +6838,148 @@
           "x": "Red Rock says the AI-assisted motion capture process is less expensive and more efficient than traditional CGI used in mo-cap."
         }
       ]
+    },
+    "movies/cage-spider-noir-ai-waiver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+          "cap": "Nicolas Cage. Earl Gibson III/Deadline"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas Cage told a New York Comic-Con audience that, yes, he’s likely to do a season of HBO’s True Detective, as rumored, and no, he’s not likely to work again with Spider-Noir streamer Prime Video because Amazon is “very AI-friendly.”"
+        },
+        {
+          "t": "p",
+          "x": "“I think I might do a season of True Detective. That’s OK that I’m the first to announce that, right?” said Cage, who is currently at work on the film Perish."
+        },
+        {
+          "t": "p",
+          "x": "As for AI, Cage is no fan. He wouldn’t sign an AI waiver when he signed up for the sole season of Prime Video’s Spider-Noir."
+        },
+        {
+          "t": "p",
+          "x": "“How do you survive AI?” Cage said. “Amazon is a very AI-friendly company to the tune of 50 billion dollars invested in OpenAI. I am not an AI-friendly actor….I’m not a member of their club. I didn’t sign the waiver to let them use AI on Spider-Noir. I’m probably not going to be working with that studio again, but that’s okay.”"
+        },
+        {
+          "t": "p",
+          "x": "Cage added that he’d prefer to work with young Gen Z directors who are “going at it their own way.” “They’re doing it from scratch and by hand,” he said. “I want to get with that.”"
+        }
+      ]
+    },
+    "movies/eyeline-genfx-rustad-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+          "cap": "James Rustad. Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI can widen the options for a visual effects shot, but artists still decide which of them serve the story, according to James Rustad, global head of GenFX at Eyeline, Netflix’s in-house VFX studio."
+        },
+        {
+          "t": "p",
+          "x": "Rustad spoke at an InnoAsia session at the Busan International Film Festival’s Asian Contents & Film Market, using Netflix’s “Brazil ‘70: The Third Star” as a reference point. The series features more than 1,300 visual effects shots, including over 800 set on the soccer field."
+        },
+        {
+          "t": "p",
+          "x": "Eyeline works with 45 artists on a hybrid approach, Rustad said, bringing generative tools into a process that also draws on established effects techniques. “Artists’ judgments are also important,” he said."
+        },
+        {
+          "t": "p",
+          "x": "His presentation mapped four stages of a generative AI shot workflow: setup, narrative, look and delivery. Prompts, reference gathering and initial tests establish the options; results are assessed against the story, then move through visual refinement — lighting, scene details, period accuracy — and delivery: compositing, upscaling, bit-depth checks and technical review."
+        },
+        {
+          "t": "p",
+          "x": "The narrative step moves from “what’s possible” to “what works for the story.” That is where artists’ judgment comes in: selecting which generated results should become finished shots."
+        }
+      ]
+    },
+    "movies/morph-3d-scene-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morphic said on the 8th that it has launched ‘3D Scene’, a 3D scene-directing editor designed to solve random staging and broken composition, which are seen as key limitations of existing AI video."
+        },
+        {
+          "t": "p",
+          "x": "3D Scene combines a conversational AI copilot that automatically builds 3D spaces and places characters within sets from natural-language instructions with a 3D control tool for manually adjusting camera angles and lighting frame by frame."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+          "cap": "[Courtesy of Morphic]"
+        },
+        {
+          "t": "p",
+          "x": "With a library of about 2500 assets, users can build a 3D set in minutes, set a character's path and speed with a single click to refine around 200 types of movement, and stage crowd scenes of up to 60 people or chase sequences in one go."
+        },
+        {
+          "t": "p",
+          "x": "The ‘Cast by Color’ system assigns each mannequin a color and a name; once the composition is set and linked to the final generation prompt, the AI recognizes each character's position, direction and gaze when generating the video. The editor also offers 12 types of camera-movement control, including drone and crane moves, and a continuity check that automatically detects issues such as breaks in the 180° rule and unrealistic movement speeds."
+        },
+        {
+          "t": "p",
+          "x": "“3D Scene lets creators directly control character blocking and camera movement in 3D space to realize their directorial intent precisely, and verify scenes in advance before final generation without spending paid credits, which should help studios save budget and time,” said Morphic CEO JD Kanani."
+        }
+      ]
+    },
+    "movies/astana-ai-film-grand-prix": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RxHoSyLNNRo"
+        },
+        {
+          "t": "p",
+          "x": "Latvian filmmaker Nikolay Shestak has won the $450,000 (€401,000) Grand Prix at the first Astana AI Film Festival in Kazakhstan for his film The First Honest Day, created using artificial intelligence. In it, bad deeds make its characters physically uglier and good deeds change them for the better."
+        },
+        {
+          "t": "p",
+          "x": "“Honestly, I didn't expect to win,” said Shestak, who began making films with AI two years ago. Second place went to India’s Abhik Banerjee for SITARA ($200,000), and third to Spain’s Ernest Desumbila for Looking For Perseida ($100,000)."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+          "cap": "Finalists of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "Films were judged on how AI tools were used, but also on artistic vision, storytelling, coherence and how organically the technology was integrated. The competition drew more than 8,000 submissions from 125 countries; 25 films made the final programme, spanning 19 genres and more than 80 generative AI models. The festival had a total fund of $2 million, half for prizes and half as investment capital for AI teams."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+          "cap": "President Tokayev at the opening of the Astana AI Film Festival. Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "President Kassym-Jomart Tokayev, who opened the festival, said “the barrier to entry has become significantly lower,” but that AI would not replace filmmakers’ creative role. “The driving force of this festival was FOMO,” said co-founder Aizat Kussainov."
+        }
+      ]
+    },
+    "movies/nikon-small-world-ai-disqualified": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
+          "cap": "The original first place video used AI in post-processing."
+        },
+        {
+          "t": "p",
+          "x": "Nikon says the video that originally won first place in its Small World in Motion contest “did not comply with the competition rules regarding generative AI.” The entry from Dr. Ning Xu claimed to show tiny, hair-like cilia moving in the airway of a child with the respiratory condition PCD; Nikon began reviewing it after online skepticism about its authenticity."
+        },
+        {
+          "t": "p",
+          "x": "On LinkedIn, Dr. Xu admitted that “an unsupervised neural-network method was subsequently used for AI-assisted post-processing” to distinguish and visualize features in images from super-resolution optical imaging."
+        },
+        {
+          "t": "p",
+          "x": "The video has been disqualified and removed from Nikon’s website, and Nguyen Nam Nhat now holds first place. Nikon plans to “revisit rules and evaluation procedures for future competition entries,” adding that the decision should not be read as a judgment of the entrant’s reputation, scientific contributions, or intent."
+        }
+      ]
     }
   }
 }

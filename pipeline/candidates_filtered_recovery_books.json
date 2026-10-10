@@ -1,32 +1,685 @@
 {
-  "date": "2026-09-23",
   "section": "books",
+  "date": "2026-10-11",
+  "now_iso": "2026-10-10T22:00:00Z",
   "window_hours": 336,
+  "expansion": [
+    "Recovery pass 1: AI audiobook narration (Spotify/ElevenLabs), Libby/OverDrive AI, academic/scholarly publishing AI, manga/webtoon AI translation, Japanese 出版 生成AI, Korean 웹소설/웹툰 AI, Kindle/Kobo/Goodreads AI features, new authors' AI lawsuits",
+    "Feeds swept: PW recent + digital/industry-news/childrens section feeds, PP feed p1-3, Good e-Reader p1-3, Scholarly Kitchen, Bookseller /news + /features HTML, Lit Hub p1-4, Electric Lit p1-4, Book Riot p1-2, Jane Friedman, Writer's Digest, TeleRead, Digital Reader, Mediabistro, Creative Penn, Verge/Wired/TechCrunch/Ars feeds; off-list checks: Börsenblatt, ALLi, Readers News (독서신문), Newsis culture, ANN, ICv2, BookBrunch",
+    "WebSearch x6 (authors lawsuits Oct 2026, 웹소설/웹툰 AI, Libby/ElevenLabs/Kobo, manga/webtoon AI translation, Kindle/Kobo/Goodreads AI, 出版 生成AI マンガ翻訳): no fresh new items",
+    "Dropped as already published: Google Play Books Expert Intelligence, Novvel.co, Jill Lepore keynote, Pangram CEO, FBF AI-narration debate, Bookseller AI comment, Scholarly Kitchen TRACE + 'Representation Is Not the Scholarship', S&S AI tracking, BISG AI report, Third Circuit ROSS ruling (Lit Hub), Audible character chat (Jane Friedman)",
+    "Fresh news is effectively exhausted for the window: only 1 new, AI-substantive item found"
+  ],
   "items": [
     {
-      "url": "https://authors.spotify.com/blog/creationtools",
-      "source": "Spotify for Authors",
-      "title": "Turn Your Book Into an Audiobook in Minutes with Spotify for Authors",
-      "published_iso": "2026-09-09T00:00:00Z",
-      "og_image": "https://authors.spotify.com/assets/blog/Header_ACT.webp",
-      "excerpt": "Spotify expanded its ElevenLabs-powered Audiobook Creation Tools beyond beta to all US self-published authors: upload a manuscript, pick an AI narration voice, and publish a free, non-exclusive audiobook in minutes.",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
+      "title": "Frankfurt Book Fair 2026: Spotify Expands Audiobooks to 180 Markets",
+      "source": "Publishers Weekly",
       "category": "books",
-      "ai_mentions": 7
-    },
-    {
-      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list",
-      "source": "The Guardian",
-      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
-      "published_iso": "2026-09-17T11:00:46Z",
-      "og_image": "https://i.guim.co.uk/img/media/55d3485ac073d63c8c8ee4dd898ec40d8698753e/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5eb6f1d61903f887da16a375694952a7",
-      "excerpt": "Guardian reporters and experts recommend the books that explain how the AI industry got here and where it is headed, amid a chaotic moment reshaping our lives.",
-      "category": "books",
-      "ai_mentions": 45
+      "published_iso": "2026-10-07T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG",
+      "excerpt": "Spotify is taking its audiobook service from 22 markets to more than 180. It presents AI narration as a way to bring titles into local languages that are too small to pay for a human narrator, and self-published authors can already produce AI-narrated audiobooks through its ElevenLabs partnership.",
+      "source_lang": "en",
+      "history_match": {
+        "score": 0.284,
+        "date": "2026-09-13",
+        "url": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/",
+        "title": "Spotify's AI-powered audiobook narration opens up to all authors",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 2,
+    "dropped": 0,
+    "kept": 1,
     "against_days": 5
-  }
+  },
+  "story_dedup": {
+    "history_days": 30,
+    "dropped": [],
+    "review": 1,
+    "same_story_pairs": []
+  },
+  "history_digest": [
+    {
+      "date": "2026-09-12",
+      "title": "Simon & Schuster is making indie publishing easier",
+      "url": "https://goodereader.com/blog/digital-publishing/simon-schuster-is-making-indie-publishing-easier"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Writers' AI Fears Often Run Ahead of the Facts",
+      "url": "https://janefriedman.com/writers-ai-fears-often-run-ahead-of-the-facts/"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "What Webtoon's New AI Partnership Could Mean for Translators",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101199-what-webtoon-s-ai-partnership-could-mean-for-translators.html"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "AI debate has shifted from 'can we' to 'should we', IPG Autumn Conference 2026 hears",
+      "url": "https://www.thebookseller.com/news/ai-debate-has-shifted-from-can-we-to-should-we-ipg-autumn-conference-2026-hears"
+    },
+    {
+      "date": "2026-09-12",
+      "title": "Oxford University Press updates guidelines as AI use 'measurably' under-disclosed",
+      "url": "https://www.thebookseller.com/news/oxford-university-press-updates-guidelines-as-ai-use-measurably-under-disclosed"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Spotify's AI-powered audiobook narration opens up to all authors",
+      "url": "https://janefriedman.com/spotifys-ai-powered-audiobook-narration-opens-up-to-all-authors/"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "50 Things Every AI Working With Humans Should Know — Ken Liu's machine-assisted story",
+      "url": "https://lithub.com/50-things-every-ai-working-with-humans-should-know/"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Publishing's AI Reckoning",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101215-publishing-s-ai-reckoning.html"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "Ingram's AI Rollout Is a Success",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101218-ingram-s-ai-rollout-is-a-success.html"
+    },
+    {
+      "date": "2026-09-13",
+      "title": "What Machines Can't Replace: Why AI Makes Us More Human, With Anna McPhee",
+      "url": "https://www.thecreativepenn.com/2026/09/09/what-machines-cant-replace-why-ai-makes-us-more-human-with-anna-mcphee/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+      "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Authors Guild, Co-Plaintiffs Seek Summary Judgment in OpenAI Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101196-authors-guild-co-plaintiffs-seek-summary-judgment-in-openai-case.html"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "An AI Company That Picks Up the Phone: PW Talks with Hannah Johnson",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101219-an-ai-company-that-picks-up-the-phone-pw-talks-with-hannah-johnson.html"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "Springer Nature launches framework on use of artificial intelligence",
+      "url": "https://www.researchinformation.info/news/springer-nature-launches-framework-on-use-of-artificial-intelligence/"
+    },
+    {
+      "date": "2026-09-14",
+      "title": "AI is a real threat to illustrators, and the government must act",
+      "url": "https://www.thebookseller.com/comment/ai-illustrators-threat-government-act-axel-scheffler"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "학습 데이터 소송에서 미국 정부가 AI 편에 서다 미국 정부가 출판사·저자 소송에서 AI 개발을 묶어선 안 된다는 의견서를 냈다.",
+      "url": "https://janefriedman.com/us-government-supports-ai-firms-in-lawsuit-brought-by-publishers-and-authors/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "포켓FM, 오디오 제작 93%를 AI로 돌리다 포켓FM은 전체 카탈로그의 93%를 AI로 만들며 제작비를 80분의 1로 낮췄다.",
+      "url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "무라카미 신작을 네 시간 2달러에 옮긴 학부생 문학 전공 학부생의 AI 도구가 무라카미 신작을 네 시간 2달러에 옮겼다.",
+      "url": "https://www.sixthtone.com/news/1018966"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Google launches Expert Intelligence with more than 100k publisher titles",
+      "url": "https://www.thebookseller.com/news/google-launches-expert-intelligence-with-more-than-100k-publisher-titles"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "독자가 챗봇에 직접 주문하는 맞춤 소설 출판계가 AI 집필을 걱정하는 사이, 독자는 챗봇에 제 취향대로 소설을 주문한다.",
+      "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Get ready for AI agents to come knocking on your door",
+      "url": "https://janefriedman.com/get-ready-for-ai-agents-to-come-knocking-on-your-door/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "AI 답변에 이름을 올리는 법 SEO가 아니라 GEO AI 개요와 챗봇 대화에 이름과 책을 등장시키는 GEO는 SEO와 작동하는 자리가 다르다.",
+      "url": "https://janefriedman.com/the-difference-between-geo-and-seo-for-authors-publishers/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Could this James Baldwin typewriter be an okay use of AI?",
+      "url": "https://lithub.com/could-this-james-baldwin-typewriter-be-an-okay-use-of-ai/"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "이메일 한 통을 맡기는 사이 글쓰기 근육이 빠진다 지루한 잡무 글까지 AI에 넘기면 삶을 넓혀주는 기술을 잃는다고 작가 데이지 뷰캐넌은 말한다.",
+      "url": "https://www.thebookseller.com/comment/letting-chatgpt-write-your-emails-has-a-bigger-impact-than-you-think"
+    },
+    {
+      "date": "2026-09-17",
+      "title": "Researchers warn use of AI in writing could ‘homogenise human writing and thought’",
+      "url": "https://www.thebookseller.com/news/researchers-warn-use-of-ai-in-writing-could-homogenise-human-writing-and-thought"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Important Information Regarding Anthropic Copyright Settlement Claim Notices",
+      "url": "https://authorsguild.org/news/important-information-regarding-anthropic-copyright-settlement-claim-notices/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Find Your Memoir Voice Before AI Flattens It",
+      "url": "https://janefriedman.com/find-your-memoir-voice-before-ai-flattens-it/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "The Unbundling of Scholarly Publishing: A Trilemma for the AI Era",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/09/guest-post-the-unbundling-of-scholarly-publishing-a-trilemma-for-the-ai-era/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,' new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/"
+    },
+    {
+      "date": "2026-09-18",
+      "title": "Lost in Translation: AI comes for literary translators",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101221-lost-in-translation.html"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "생성형 AI를 두고 갈라진 작가들 쓰는 쪽과 안 쓰는 쪽의 골이 깊다 설문에 답한 작가의 61%가 AI를 썼고 그중 92%가 생산성이 올랐다고 했다. 안 쓰는 쪽에서는 3%만 AI를 긍정적으로 봤다.",
+      "url": "https://selfpublishingadvice.org/ai-survey-reveals-deep-divide-among-writers/"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "Calibre v9.15 adds an AI-powered interactive fiction game",
+      "url": "https://www.omgubuntu.co.uk/2026/09/calibre-ebook-app-ai-ficton-writing"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "For James Muldoon, Chatbots Offer a ‘Pale Imitation’ of Humanity",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101194-for-james-muldoon-chatbots-offer-a-pale-imitation-of-humanity.html"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "그리라고 뽑아놓고 프롬프트를 시킨다 교과서 출판사에 삽화가로 들어간 말레이시아의 Ain Moses는 결국 프롬프트 편집자가 됐다.",
+      "url": "https://www.straitstimes.com/asia/se-asia/hired-to-draw-told-to-prompt-how-ai-is-changing-creative-work-in-malaysia"
+    },
+    {
+      "date": "2026-09-19",
+      "title": "AI and licensing: the debate is becoming a market",
+      "url": "https://www.thebookseller.com/comment/ai-licensing-debate-market"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Flowtica Verso is an e INK AI screen that attaches to your phone",
+      "url": "https://goodereader.com/blog/technology/flowtica-verso-is-an-e-ink-ai-screen-that-attaches-to-your-phone"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Ask the Chefs: AI and Copyright Licensing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/10/ask-the-chefs-ai-and-copyright-licensing/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "Large Scale Digitization in the AI Era: Model Terms for Libraries and Their AI Partners",
+      "url": "https://www.infodocket.com/2026/09/15/large-scale-digitization-in-the-ai-era-issues-and-model-terms-for-libraries-and-their-partners-new-issue-paper-from-center-for-research-libraries/"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "The Cost of Deepfakes: PW Talks with Meena Kandasamy",
+      "url": "https://www.publishersweekly.com/pw/by-topic/authors/interviews/article/101270-the-cost-of-deepfakes-pw-talks-with-meena-kandasamy.html"
+    },
+    {
+      "date": "2026-09-20",
+      "title": "PW Spotlight: Time to Reclaim the Driver’s Seat in AI",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101229-pw-studio-pw-spotlight-time-to-reclaim-the-driver-s-seat-in-ai.html"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Writing Conferences Shouldn't Ignore AI in Their Programming",
+      "url": "https://janefriedman.com/writing-conferences-shouldnt-ignore-ai-in-their-programming/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Revisiting Vikram Chandra's Ode to the Art of Human Coding in the Age of AI",
+      "url": "https://lithub.com/revisiting-vikram-chandras-ode-to-the-art-of-human-coding-in-the-age-of-ai/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Industry bodies criticise government's \"opt-out\" AI proposals",
+      "url": "https://www.booksandpublishing.com.au/articles/2026/09/21/340859/industry-bodies-criticise-governments-opt-out-ai-proposals/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Accelerating Generative AI Integration in Libraries — Information Technology and Libraries, Vol. 45 No. 3 (2026)",
+      "url": "https://www.infodocket.com/2026/09/21/accelerating-generative-ai-integration-in-libraries-a-new-special-issue-of-information-technology-and-libraries-vol-45-no-3-2026/"
+    },
+    {
+      "date": "2026-09-22",
+      "title": "Unsealed Files Show Open AI/Microsoft Knew Copying Was Illegal and Could Hurt Authors",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101300-unsealed-files-show-open-ai-microsoft-knew-copying-was-illegal-and-could-hurt-authors.html"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Damned If You Do, Damned If You Don't: Multilingual Researchers' Use of AI in Academic Writing",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/22/damned-if-you-do-damned-if-you-dont-multilingual-researchers-use-of-ai-in-academic-writing/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Just Released: Clarivate Releases Pulse of the Library 2026",
+      "url": "https://www.infodocket.com/2026/09/09/just-released-clarivate-releases-pulse-of-the-library-2026/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Disclosing AI Use in Academic Research: A New Global Study from Oxford University Press",
+      "url": "https://www.infodocket.com/2026/09/10/disclosing-ai-use-in-academic-research-a-new-global-study-from-oxford-university-press/"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Feeling overwhelmed by the AI doom loop? Here's the essential reading list to make sense of it all",
+      "url": "https://www.theguardian.com/books/2026/sep/17/ai-doom-books-reading-list"
+    },
+    {
+      "date": "2026-09-23",
+      "title": "Apollo: an AI model that fills the gaps in damaged ancient Greek papyri",
+      "url": "https://www.wired.com/story/apollo-ai-model-ancient-greek-secrets-papyrus/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Misconduct case dropped against AI ethicist Virginia Dignum after claims of AI use in her book",
+      "url": "https://retractionwatch.com/2026/09/21/misconduct-case-dropped-against-ai-expert-after-claims-of-ai-use-in-recent-book/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "웹소설 플랫폼, AI로 찍어낸 '쌀먹' 웹소설 대량 유입에 골머리",
+      "url": "https://www.mt.co.kr/tech/2026/09/22/2026092214054459193"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Novvel.co pioneers producing graphic novels with AI assistance",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html"
+    },
+    {
+      "date": "2026-09-24",
+      "title": "Canadian author Thélyson Orélien accused of using AI to write award-winning novel",
+      "url": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Amazon KDP limits authors to two titles per format per week",
+      "url": "https://janefriedman.com/amazon-kdp-limits-authors-to-two-titles-per-format-per-week/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "SCBWI updates its AI policy to prohibit use in the creative process",
+      "url": "https://janefriedman.com/scbwi-updates-its-ai-policy-to-prohibit-use-in-the-creative-process/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Guest Post — Peer Review Triage: Deciding What’s Worth Saving",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/15/guest-post-peer-review-triage-deciding-whats-worth-saving/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "AI and Scholarly Reading: Foxes versus Hedgehogs",
+      "url": "https://scholarlykitchen.sspnet.org/2026/09/23/ai-and-scholarly-reading-foxes-versus-hedgehogs/"
+    },
+    {
+      "date": "2026-09-25",
+      "title": "Frankfurt Book Fair 2026: Redrawing the Map",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/trade-shows-events/article/101278-frankfurt-book-fair-2026-redrawing-the-map.html"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "일본 헌책방 매출 5배 증가…AI 학습용으로 50톤이 미국행, 스캔 뒤 폐기",
+      "url": "https://aimatters.co.kr/news-report/53163/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "\"내가 바로 웹툰 주인공\"⋯네이버웹툰 AI 캐릭터챗으로 만드는 새 이야기",
+      "url": "https://www.inews24.com/view/2008992"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "We Don't Want Shonen Jump AI Manga Translations",
+      "url": "https://www.siliconera.com/we-dont-want-shonen-jump-ai-manga-translations/"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Novelist accused of using AI to write book removed from French prize list",
+      "url": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france"
+    },
+    {
+      "date": "2026-09-26",
+      "title": "Storytel launched AI-generated audiobook recaps in Finland without telling authors",
+      "url": "https://yle.fi/a/74-20247235"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "AI가 쓴 소설 가려내기, 문학 경험보다 AI 사용 경험이 도움",
+      "url": "https://platum.kr/archives/295202"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "[단독] ‘AI 직격타’ 논픽션 불황에…교양 전문 출판사, 문학서 활로 모색",
+      "url": "https://www.hani.co.kr/arti/culture/book/1278045.html"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "If AI imagines before we do, what is left for illustrators?",
+      "url": "https://www.thebookseller.com/comment/ai-imagines-before-illustrators-what-is-left"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Oxford lets OpenAI train its AI models on Bodleian Library",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt"
+    },
+    {
+      "date": "2026-09-27",
+      "title": "Google's New AI Voice Model Copies a Voice From 30 Seconds - Voice Over Talent Industry News",
+      "url": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Sudowrite adds Character Portraits to Story Bible",
+      "url": "https://feedback.sudowrite.com/changelog/introducing-character-portraits"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Sudowrite adds Claude Opus 5.5, GPT-6 Sol and GPT-6 Luna as prose models",
+      "url": "https://feedback.sudowrite.com/changelog/new-ai-models-opus-55-gpt-6-sol-and-gpt"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Apex CoVantage to launch eden, an AI editorial engine for publishing, at Frankfurt",
+      "url": "https://www.prweb.com/releases/apex-covantage-to-launch-eden-an-ai-powered-editorial-engine-for-publishing-at-frankfurt-book-fair-302887272.html"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Publishers sound alarm over AI-generated textbooks",
+      "url": "https://www.standardmedia.co.ke/education/article/2001558368/publishers-sound-alarm-over-ai-generated-textbooks"
+    },
+    {
+      "date": "2026-09-28",
+      "title": "Novelcrafter Live: newest AI models vs writer's block, plus new manuscript organisation",
+      "url": "https://www.youtube.com/watch?v=lo9p8bVnDxE"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Around the Book World: MVB builds Snackz AI metadata into its system; AI-assisted Czech audio; AI floods strain KDP print-on-demand",
+      "url": "https://publishingperspectives.com/2026/09/around-the-book-world-september-28-2026/"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Soundgrab and Voicegrab launch a 'hybrid cinema audiobook' format pairing AI voices with film-grade mixing",
+      "url": "https://www.etnews.com/20260922000490"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "21-year translator tells National Assembly Library panel AI translation is unsustainable without humans",
+      "url": "https://www.mediatoday.co.kr/news/articleView.html?idxno=337377"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "'Grandmaslop': grandparents are making personalised AI storybooks, and parents hate them",
+      "url": "https://www.techradar.com/ai-platforms-assistants/the-bizarre-rise-of-grandmaslop-grandparents-are-filling-family-albums-with-ai-images-and-their-kids-hate-it"
+    },
+    {
+      "date": "2026-09-29",
+      "title": "Publishing's AI stance is pushing authors into a culture of secrecy",
+      "url": "https://www.thebookseller.com/comment/pushing-authors-culture-ai-secrecy"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Publisher: AI will come for translators and illustrators first",
+      "url": "https://news.err.ee/1610151322/publisher-ai-will-come-for-translators-and-illustrators-first"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "출판계 \"출판물에 AI 활용 정도 밝히는 '표시 제도' 도입하자\"",
+      "url": "https://www.hani.co.kr/arti/culture/book/1280041.html"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "\"AI가 내 책을 얼마나 인용했는지 눈으로 확인한다\" - 멘탯 전병욱 대표",
+      "url": "https://www.kyosu.net/news/articleView.html?idxno=210681"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "As Publishers Ramp Up AI Implementation, Employees Slow Down",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "De Marque to Offer AI Audiobook Capabilities Via ElevenLabs",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Authors, journalists protest at Facebook headquarters over use of their work to train AI",
+      "url": "https://nltimes.nl/2026/09/28/authors-journalists-protest-facebook-headquarters-use-work-train-ai"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "AI book recs are making us all read the same thing",
+      "url": "https://www.dazeddigital.com/life-culture/article/71057/1/is-ai-replacing-booksellers-books-reading-recommendations-taste-ai"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "책의 목록이 계약이 되기 전에 - 대한출판문화협회 AI 학습데이터 MOU",
+      "url": "https://www.ilemonde.com/news/articleView.html?idxno=30690"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "AI Slop Coming to University Library Near You",
+      "url": "https://www.insidehighered.com/opinion/views/2026/09/29/ai-slop-coming-university-library-near-you-opinion"
+    },
+    {
+      "date": "2026-10-01",
+      "title": "Authors Guild Calls on Publishers to Share Anthropic Wealth",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Korean Manhwa Apocalypse: Hidden Risks Behind Chinese AI Comic Dramas' Global Expansion",
+      "url": "https://eu.36kr.com/en/p/4003039857055617"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Innovation with AI Abounds: The International Digital Publishing Award Announces 12 Finalists",
+      "url": "https://publishingperspectives.com/2026/10/innovation-with-ai-abounds-the-international-digital-publishing-award-announces-12-finalists/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Audible's new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Opus 5.5 loves to tell you 'this matters' (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "AI narration companies are the audiobook industry's Trojan horse",
+      "url": "https://www.thebookseller.com/comment/ai-narration-companies-audiobook-trojan-horse"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Faster Chat, Better Rewrite & Printing",
+      "url": "https://feedback.sudowrite.com/changelog/faster-chat-better-rewrite-and-printing"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "OpenAI seeks to exclude book market study, citing funding ties to authors' law firm",
+      "url": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Claremont author faces criticism over AI art in new book",
+      "url": "https://vnews.com/2026/10/02/ai-book-controversy-claremont/"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Is AI coming for audiobooks?",
+      "url": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "AI might kill us, but is that so bad?",
+      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "EWC denounces AI Tech's practice of shredding books and calls on Europe's decision-makers to take a firm stand",
+      "url": "https://europeanwriterscouncil.eu/ewc-denounces-destructively-book-scans-by-ai_tech/"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Hong Kong comics scene: Creators turning to AI in bid to recapture industry's heyday",
+      "url": "https://www.channelnewsasia.com/watch/hong-kong-comics-scene-creators-turning-ai-in-bid-recapture-industrys-heyday-6427021"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "Book-smart and shelf aware: How AI and bots are changing libraries",
+      "url": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html"
+    },
+    {
+      "date": "2026-10-05",
+      "title": "In New York, a small library's 'Bye Bye AI' event to remove AI features goes viral",
+      "url": "https://www.thecooldown.com/green-tech/library-bye-bye-ai-event-viral/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "We Banned the Soul from the Building: On AI, Spiritual Life, and Sustainable Practices for Writing",
+      "url": "https://lithub.com/we-banned-the-soul-from-the-building-on-ai-spiritual-life-and-sustainable-practices-for-writing/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "Around the Book World: Monday, October 5th, 2026",
+      "url": "https://publishingperspectives.com/2026/10/around-the-book-world-monday-october-5th-2026/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "The Representation Is Not the Scholarship",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/05/the-representation-is-not-the-scholarship/"
+    },
+    {
+      "date": "2026-10-06",
+      "title": "AAP, Authors Guild Applaud Decision in ROSS Copyright Infringement Case",
+      "url": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101414-aap-authors-guild-applaud-decision-in-ross-copyright-infringement-case.html"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Frankfurter Buchmesse 2026: Historian Jill Lepore Speaks of an Industry—and a World—'On the Knife Edge of History'",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-historian-jill-lepore-speaks-of-an-industry-and-a-world-on-the-knife-edge-of-history/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Research Integrity in Scholarly Communications — SSP Pulse Check Report",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/06/research-integrity-in-scholarly-communications-ssp-pulse-check-report/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "LibreOffice says 'no AI' is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "BMJ Group, Sage and more to share 20m research papers with AI company Redpine",
+      "url": "https://www.thebookseller.com/news/bmj-group-sage-and-more-to-share-20m-research-papers-with-ai-company-redpine"
+    },
+    {
+      "date": "2026-10-07",
+      "title": "Kevin Roose Didn't Use AI to Write His Book About AI",
+      "url": "https://www.wired.com/story/the-big-interview-podcast-kevin-roose/"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "TRACE Project Launches to Advance AI interoperability",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/07/trace-project-launches-to-advance-ai-interoperability/"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "KI in Büchern: Schreiben nein, Übersetzen ja?",
+      "url": "https://www.boersenblatt.net/news/ki-buechern-schreiben-nein-uebersetzen-ja-444193"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "S&S Staff Balk at AI Performance-Tracking Software Talks",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101470-s-s-staff-balk-at-ai-performance-tracking-software-talks.html"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Pangram CEO says ‘no bias’ in its AI-detection tool, as adoption rises",
+      "url": "https://www.thebookseller.com/news/pangram-ceo-says-no-bias-in-its-ai-detection-tool-as-adoption-rises"
+    },
+    {
+      "date": "2026-10-08",
+      "title": "Your Next Great Read Might Be Certified ‘Organic’",
+      "url": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Barrierefreies Lesen und KI-gestützte Hörbuchproduktion",
+      "url": "https://www.boersenblatt.net/news/barrierefreies-lesen-und-ki-gestuetzte-hoerbuchproduktion-444501"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Frankfurt Book Fair 2026: Germany Finds in Favor of Copyright Holders Against AI",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101447-frankfurt-book-fair-2026-germany-finds-in-favor-of-copyright-holders-against-ai.html"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Frankfurt Book Fair: Storytel’s Talks AI-translated Audiobooks",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101454-frankfurt-book-fair-storytel-s-talks-ai-translated-audiobooks.html"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Intellectual Property Office registers UK’s first ‘human-authored’ certification mark",
+      "url": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "‘We have fine dining, and we have McDonalds’: Publishers hotly debate AI narration at FBF",
+      "url": "https://www.thebookseller.com/news/we-have-fine-dining-and-we-have-mcdonalds-publishers-hotly-debate-ai-narration-at-fbf"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Frankfurter Buchmesse 2026: Tonies Bets On a Kids' Audio Future that Is Screenless, Serialized, with Content (Often) Made In-house",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-tonies-bets-on-a-kids-audio-future-that-is-screenless-serialized-with-content-often-made-in-house/"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Neues Label: \"Von Menschen gemacht\"",
+      "url": "https://www.boersenblatt.net/news/verlage-news/neues-label-von-menschen-gemacht-443849"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Frankfurt Book Fair 2026: Audible Wants to Turn Every Book into an Audiobook",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101500-frankfurt-book-fair-2026-audible-wants-to-turn-every-book-into-an-audiobook.html"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Ghostwriters haunted by AI as commissions fall and machine-written manuscripts rise",
+      "url": "https://www.thebookseller.com/news/ghostwriters-haunted-by-ai-as-commissions-fall-and-machine-written-manuscripts-rise"
+    },
+    {
+      "date": "2026-10-10",
+      "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
+      "url": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/"
+    }
+  ]
 }

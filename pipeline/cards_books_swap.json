@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-11",
   "section": "books",
   "cards": [
     {
-      "id": "garmus-ai-hubris-essay",
+      "id": "fbf26-spotify-180-markets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Bonnie Garmus: AI exposes\nthe hubris of humankind",
-      "body": "Novelist Bonnie Garmus argues that while AI alarms most writers, it has also exposed the hubris of humankind.",
-      "mini_headline": "Garmus sees AI exposing\nhuman hubris",
+      "headline": "Spotify takes audiobooks\nto more than 180 markets",
+      "body": "Spotify is taking audiobooks from 22 markets to 180-plus, with AI narration pitched for small-language markets.",
+      "mini_headline": "Spotify audiobooks\nreach 180+ markets",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/comment/ai-might-kill-us-but-is-that-so-bad",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/101440-frankfurt-book-fair-2026-spotify-expands-audiobooks-to-180-markets.html",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -19,15 +19,23 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/609/144.jpg"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/131/131917-1.PNG"
           },
           {
             "t": "p",
-            "x": "In a comment piece for The Bookseller titled \"AI might kill us, but is that so bad?\", novelist Bonnie Garmus writes that while the advent of AI has alarmed most writers, it has also shone a light on the hubris of humankind."
+            "x": "Spotify is rolling out its audiobook service worldwide, taking it from 22 markets to more than 180, potentially reaching more than 750 million people. The rollout begins in Colombia, Italy, Mexico, and Spain; Argentina, Brazil, Norway, and Poland follow on October 15, Portugal on November 12, and the remaining markets in batches through the end of 2026."
           },
           {
             "t": "p",
-            "x": "Garmus's author bio describes her as a coffee-dependent American novelist. Her debut novel, Lessons in Chemistry, was a number one global bestseller and was named by New York Times readers as one of the top 100 books of the 21st Century."
+            "x": "Each new market launches with an English-language catalog of more than 350,000 titles. “In markets where we have rights, we will always lead with the local language first and foremost,” says Duncan Bruce, Spotify’s director of audiobook partnerships and licensing. Eventually the catalog will span more than 120 languages."
+          },
+          {
+            "t": "p",
+            "x": "Spotify sees AI narration as a possible way to speed the adaptation of some titles from print to audio, especially in languages where the market may be too small to justify a human narrator. “AI done responsibly can give authors and publishers the opportunity to launch an audiobook in local languages, which they may have never done or had the financial ability to do,” Bruce says. Self-published authors can upload titles through Spotify for Authors, and a partnership with ElevenLabs lets authors produce AI-narrated audiobooks."
+          },
+          {
+            "t": "p",
+            "x": "In existing markets, monthly audiobook listeners are up almost 39% in 2026 so far, and listening hours almost 32%. “Spotify is truly now a global books platform,” Bruce says."
           }
         ]
       }

@@ -1,100 +1,106 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "movies",
+  "picks": [
+    {
+      "url": "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/",
+      "title": "Prime Video Takes Global on Turkish AI-Generated Movie 'Çukur:Vartolu,' a Spin-Off From the Hit Series 'The Pit'",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-10T13:25:21+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Vartolu-Poster-1000.jpg?w=1000&h=563&crop=1",
+      "excerpt": "Prime Video has taken world rights on 'Çukur:Vartolu,' an AI-generated feature spun off from the Turkish hit series known internationally as 'The Pit' — a major streamer betting on a fully AI-made feature from an existing IP.",
+      "source_lang": "en",
+      "tool": "Movies",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "A major streamer acquiring global rights to a fully AI-generated feature built on an established IP is a distribution first, and a different film and buyer from the Baska Sinema story published 09-26."
+    },
+    {
+      "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+      "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-10T19:46:17+00:00",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+      "excerpt": "At NYCC, Nicolas Cage said he refused to sign an AI waiver for Prime Video's 'Spider-Noir' and probably won't work with the 'AI-friendly' streamer again — a performer-likeness flashpoint in AI production deals.",
+      "source_lang": "en",
+      "tool": "Movies",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "rationale": "A star publicly refusing an AI likeness waiver brings performer consent clauses in production contracts into the open, and it is new news."
+    },
+    {
+      "url": "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/",
+      "title": "Generative AI Still Needs Artists' Judgment, Says Netflix's Eyeline GenFX Chief James Rustad at Busan",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-10T10:50:03+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At Busan's ACFM, Eyeline's James Rustad mapped Netflix's generative-AI VFX workflow, saying artists still decide which generated shots serve the story.",
+      "source_lang": "en",
+      "tool": "Movies",
+      "accent": "#7928ca",
+      "motif": "frame",
+      "rationale": "The single Busan ACFM pick, chosen because it lays out a concrete studio workflow: Netflix's in-house GenFX pipeline and where artists make the decisions."
+    },
+    {
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=407934",
+      "title": "모픽, '3D 씬'으로 영상 구도·카메라 연출 직접 다룬다",
+      "source": "테크월드",
+      "category": "movies",
+      "published_iso": "2026-10-08T10:20:00+09:00",
+      "og_image": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+      "excerpt": "모픽이 AI 영상의 연출 무작위성과 구도 붕괴를 해결하는 3D 장면 연출 에디터 '3D 씬'을 출시했다 — 3D 마네킹과 카메라로 구도를 먼저 잡고 생성한다.",
+      "source_lang": "ko",
+      "tool": "Movies",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "A new tool release that fixes a real AI video problem: you block the composition and camera with 3D mannequins before generating. It is the most hands-on pick for creators."
+    },
+    {
+      "url": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+      "title": "Latvian filmmaker wins AI film Grand Prix in Kazakhstan",
+      "source": "Euronews",
+      "category": "movies",
+      "published_iso": "2026-10-06T10:37:39+02:00",
+      "og_image": "https://images.euronews.com/articles/stories/09/93/92/42/1200x675_cmsv2_7cecc9dd-7306-5f0d-93f1-f62a32a1677c-9939242.jpg",
+      "excerpt": "The first Astana AI Film Festival wrapped with Latvian filmmaker Nikolay Shestak taking the €400,000 Grand Prix from 8,000+ entries; the €1.8M fund splits prizes and investment in AI film projects.",
+      "source_lang": "en",
+      "tool": "Movies",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "A concrete event: the first Astana AI Film Festival named its €400K Grand Prix winner from 8,000+ entries. It shows the AI-film prize and funding circuit growing outside Hollywood."
+    }
+  ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai": {
+      "https://variety.com/2026/film/global/prime-video-turkish-ai-generated-movie-cukurvartolu-the-pit-1236907346/": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
+        "new_action": ""
+      },
+      "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/": {
+      "https://variety.com/2026/tv/markets-festivals/generative-ai-still-needs-artists-judgment-netflix-genfx-head-1236907383/": {
         "verdict": "new",
-        "nearest": "https://www.theguardian.com/film/2026/sep/30/ai-greta-garbo-stars-again-ball-bearing-advert",
+        "nearest": "https://www.mhns.co.kr/news/articleView.html?idxno=762264",
         "new_action": ""
       },
-      "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/": {
+      "https://www.epnc.co.kr/news/articleView.html?idxno=407934": {
         "verdict": "new",
-        "nearest": "https://news.jkn.co.kr/post/993490",
+        "nearest": "",
         "new_action": ""
       },
-      "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/": {
+      "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival": {
         "verdict": "new",
-        "nearest": "https://www.animationmagazine.net/2026/09/animation-vets-joel-kuwahara-mark-evestaff-launch-the-salty-tales-of-tony-keith-ai-assisted-animated-series/",
-        "new_action": ""
-      },
-      "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/": {
-        "verdict": "new",
-        "nearest": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-ai-netflix-movie-animals-1236717919/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped: Claude Motion (Verge), because design owns it today. Made on YouTube likeness detection (RedShark), because it is the same event as the 09-24 Verge Made on YouTube card. Fall 2 VFX (befores & afters), because it is a craft feature and runs close to the 09-15 Eran Dinur AI/ML piece. Curious Refuge agent test video, as an evergreen tool comparison. Sorkin interview and both VFX Voice features, as commentary or evergreen. USC Annenberg survey call, which is not a news event. Nikon/Nikkei interview (RedShark), as commentary with no concrete product. View Conference lineup (Variety), as an event preview and a third Variety piece. The BBC Doctor Who follow-up was already removed by story_dedup. Nikon Small World in Motion disqualification is owned by movies today. Diversity: 4 outlets (Verge, Deadline, Variety x2, THR)."
-  },
-  "items": [
-    {
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge",
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "tool": "Movies",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "A real decision. Nikon stripped a winning video of its prize for undisclosed generative AI and is now rewriting the contest rules, a concrete case of AI provenance enforcement for moving-image competitions.",
-      "published_iso": "2026-10-09T18:06:57+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
-      "excerpt": "Nikon says it’s revisiting its competition rules after the original winner’s video was too good to be true."
-    },
-    {
-      "url": "https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/",
-      "source": "Deadline",
-      "title": "Did Royal Mail Revive BBC & 'Paddington' Voiceover Star With AI?",
-      "tool": "Movies",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "rationale": "A new voice-likeness dispute. The daughter of late voiceover artist Paul Vaughan accuses the Royal Mail Christmas ad of recreating his voice with AI, raising the consent question for posthumous voice cloning.",
-      "published_iso": "2026-10-09T05:36:27+00:00",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Screenshot-2026-10-08-at-17.26.49.jpg?w=1024",
-      "excerpt": "Daughter of Paul Vaughan, an acclaimed BBC and 'Paddington' voiceover artist, accuses Royal Mail Christmas ad of resurrecting her father using AI."
-    },
-    {
-      "url": "https://variety.com/2026/tv/global/ai-space-nation-kira-mipcom-1236905523/",
-      "source": "Variety",
-      "title": "AI-Produced Series ‘Space Nation’ and ‘Kira’ to Premiere Pilot Episodes at Mipcom (EXCLUSIVE)",
-      "tool": "Movies",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "rationale": "A concrete market event. Two generative-AI sci-fi series will world-premiere their pilots at Mipcom, putting AI-produced TV in front of international buyers.",
-      "published_iso": "2026-10-09T06:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Kira.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Two science-fiction series produced with generative AI, 'Space Nation' and 'Kira,' will have the world premieres of their pilot episodes at Mipcom."
-    },
-    {
-      "url": "https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/",
-      "source": "Variety",
-      "title": "AI-Assisted Animated K-Drama ‘The Painted Soul’ From ‘Mouse’ Director Sets Rakuten Viki Launch (EXCLUSIVE)",
-      "tool": "Movies",
-      "accent": "#2ec5c5",
-      "motif": "frame",
-      "rationale": "A dated global release. An established K-drama director's AI-assisted animated series launches on Rakuten Viki on Oct. 21, so AI animation is reaching mainstream streaming distribution.",
-      "published_iso": "2026-10-09T13:00:00+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/The-Painted-Soul.jpg?w=1000&h=563&crop=1",
-      "excerpt": "‘Mouse’ director Choi Junbae’s AI-assisted animated K-drama ‘The Painted Soul’ launches on Rakuten Viki Oct. 21 in key global markets."
-    },
-    {
-      "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/",
-      "source": "The Hollywood Reporter",
-      "title": "Danny Boyle Shares Why He Used AI for Maggie Thatcher in ‘Ink’ – Without Asking Her Estate and His Love for ‘Obsession’ and ‘Backrooms’",
-      "tool": "Movies",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "rationale": "A major director explains a specific AI choice: he recreated Margaret Thatcher in 'Ink' without the estate's consent. It is a concrete marker for AI likeness of real people in prestige film.",
-      "published_iso": "2026-10-09T17:06:47+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/INK_05484_R-H-2026.jpg?w=1296&h=730&crop=1",
-      "excerpt": "During a London Film Festival chat, the filmmaker also recalled his “uneventful” meeting with Rupert Murdoch after his ‘Slumdog Millionaire’ made the mogul’s studio “a lot of money.”"
-    }
-  ],
-  "alternates": [
-    "https://variety.com/2026/global/global/view-conference-2026-brad-bird-roger-deakins-ai-debate-1236905539/",
-    "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/"
-  ]
+    "note": "Busan ACFM appears three times (Variety/Eyeline, Deadline/Weta CTO panel, Screen Daily ACFM preview). I treated them as one running event and kept only the Variety Eyeline piece. I dropped Deadline Weta as a same-event sibling. I dropped Screen Daily because it is a market preview close to the published Forum BIFF item (mhns 10-05) and the Kling TIFF panel (09-14). View Conference lineup was dropped because it is the same VIEW 2026 event as the LOFTAPPS card published 10-07. Visko/Google Cloud fireside was dropped because it is an upcoming-event notice close to the vfxvoice tools piece published 10-07. The George Miller and Aaron Sorkin opinion pieces, the VFX Voice young-artists feature and the USC survey call were dropped as low-novelty commentary or notices. The Curious Refuge tutorial was dropped for low novelty. 머니투데이 더로드 and the Google Flow filmathon were left out because 모픽 and Astana already fill those slots. Prime Video Çukur is a different film and buyer from the published Baska Sinema story, so it counts as new. Outlets: Variety 2, Deadline 1, 테크월드 1, Euronews 1."
+  }
 }

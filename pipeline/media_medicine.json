@@ -1,31 +1,30 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "section": "medicine",
   "media": [
     {
-      "id": "amie-lancet-primary-care",
-      "type": "video",
-      "src": "pipeline/media/amie-lancet-primary-care.mp4",
-      "poster": "pipeline/media/amie-lancet-primary-care.jpg"
-    },
-    {
-      "id": "radnet-prostate-biopsy-ai",
+      "id": "jama-ai-psychosis-cohort",
       "type": "image",
-      "src": "pipeline/media/radnet-prostate-biopsy-ai.jpg"
+      "src": "pipeline/media/jama-ai-psychosis-cohort.jpg"
     },
     {
-      "id": "abridge-ut-system-ambient",
+      "id": "fda-cdrh-fy27-ai-guidance",
       "type": "image",
-      "src": "pipeline/media/abridge-ut-system-ambient.jpg"
+      "src": "pipeline/media/fda-cdrh-fy27-ai-guidance.jpg"
     },
     {
-      "id": "coreline-jrs-lung-cad",
-      "type": "image",
-      "src": "pipeline/media/coreline-jrs-lung-cad.png"
-    },
-    {
-      "id": "gpt5-agent-complexity-paradox",
+      "id": "voice-ae-ctcae-audio",
       "type": "svg"
+    },
+    {
+      "id": "asan-peds-rrs-vuno",
+      "type": "image",
+      "src": "pipeline/media/asan-peds-rrs-vuno.jpg"
+    },
+    {
+      "id": "llm-ophtho-preconsult-rct",
+      "type": "image",
+      "src": "pipeline/media/llm-ophtho-preconsult-rct.jpg"
     }
   ]
 }

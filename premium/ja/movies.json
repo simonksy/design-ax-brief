@@ -6436,6 +6436,148 @@
           "x": "Red Rockによれば、AI-assistedのモーションキャプチャー工程は、モーキャプ(mo-cap)で使われてきた従来のCGIより安価で効率も高い。"
         }
       ]
+    },
+    "movies/cage-spider-noir-ai-waiver": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/10/P108AHDD-e1790906493927.jpg?w=1024",
+          "cap": "Nicolas Cage。Earl Gibson III/Deadline"
+        },
+        {
+          "t": "p",
+          "x": "Nicolas CageはNew York Comic-Conの観客に対し、噂どおりHBOのTrue Detectiveのシーズンに出演する可能性が高いと語った。一方、Spider-Noirを配信するPrime Videoと再び仕事をする可能性は低いという。Amazonが「非常にAI-friendly」だからだ。"
+        },
+        {
+          "t": "p",
+          "x": "現在映画Perishに取り組んでいるCageは「True Detectiveのシーズンをやるかもしれない。最初に発表するのが私でもOKだよね？」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "CageはAIを好まない。Prime VideoのSpider-Noir唯一のシーズンへの出演契約の際も、AI免責書には署名しなかった。"
+        },
+        {
+          "t": "p",
+          "x": "「AIの中でどう生き残るのか」とCageは語った。「AmazonはOpenAIに50 billionドルを投資するほど、非常にAI-friendlyな企業だ。私はAI-friendlyな俳優ではない….彼らのクラブの一員ではない。Spider-NoirでAIを使うことを認める免責書には署名しなかった。あのスタジオとはおそらくもう仕事をしないだろうが、それで構わない」"
+        },
+        {
+          "t": "p",
+          "x": "Cageは、「自分たちのやり方で進んでいる」若いGen Zの監督たちと組みたいと付け加えた。「彼らはゼロから手作業で作っている。私はそこに加わりたい」と語った。"
+        }
+      ]
+    },
+    "movies/eyeline-genfx-rustad-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/James-Rustad.jpg?w=1000&h=667&crop=1",
+          "cap": "James Rustad。Lin Ying-Hsuan"
+        },
+        {
+          "t": "p",
+          "x": "Netflixの社内(in-house)VFXスタジオEyelineでGenFXのグローバル責任者を務めるJames Rustadによれば、生成AIは視覚効果ショットの選択肢を広げられるが、どれが物語に資するかを決めるのは依然としてアーティストだという。"
+        },
+        {
+          "t": "p",
+          "x": "Rustadは釜山国際映画祭(Busan International Film Festival)のアジアコンテンツ&フィルムマーケット(Asian Contents & Film Market)で開かれたInnoAsiaセッションに登壇し、Netflixの「Brazil ‘70: The Third Star」を例に挙げた。同シリーズには1,300を超える視覚効果ショットがあり、そのうち800以上がサッカー場の場面だ。"
+        },
+        {
+          "t": "p",
+          "x": "Rustadによると、Eyelineは45人のアーティストとハイブリッドな手法で取り組んでおり、従来の特殊効果技術も用いる工程に生成ツールを組み込んでいる。「アーティストの判断も重要だ」と彼は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "発表では、生成AIによるショット制作のワークフローを、セットアップ、ナラティブ、ルック、デリバリーの四段階に整理した。プロンプト、参考資料の収集、初期テストで選択肢を用意し、結果を物語に照らして評価したうえで、照明、シーンの細部、時代考証といった視覚的な仕上げを経て、合成、アップスケーリング、ビット深度(bit-depth)の確認、技術レビューからなるデリバリーへ進む。"
+        },
+        {
+          "t": "p",
+          "x": "ナラティブの段階では「何が可能か」から「何が物語に合うか」へと視点が移る。アーティストの判断が生きるのはここで、AIが生成した(AI-generated)結果のうちどれを完成ショットにするかを選ぶ。"
+        }
+      ]
+    },
+    "movies/morph-3d-scene-editor": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Morphicは8日、既存のAI映像の主な限界とされる演出のランダム性や構図の崩れを解消する3D場面演出エディタ「3D Scene」を公開したと発表した。"
+        },
+        {
+          "t": "p",
+          "x": "3D Sceneは、自然言語の指示で3D空間とセット内の人物配置を自動で構築する対話型AIコパイロットと、カメラアングルや照明をフレーム単位で手動制御する3D操作ツールを一つに統合した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.epnc.co.kr/news/photo/202610/407934_408506_4213.png",
+          "cap": "[提供=Morphic]"
+        },
+        {
+          "t": "p",
+          "x": "約2500点のアセットライブラリで数分のうちに3Dセットを作り、ワンクリックで人物の移動経路と速度を指定して200種類余りの動きを調整できるほか、最大60人に及ぶ群衆シーンや追跡劇も一度に実現できる。"
+        },
+        {
+          "t": "p",
+          "x": "「色別マネキン(Cast by Color)」システムは、各マネキンに色と名前を割り当てて構図を決め、最終生成プロンプトに結び付けると、AIが人物の位置、向き、視線を認識して映像を生成する仕組みだ。ドローンやクレーンなど12種類のカメラワーク制御に加え、180°ルールの順守状況や非現実的な移動速度などを自動で検出する連続性チェック機能も搭載した。"
+        },
+        {
+          "t": "p",
+          "x": "MorphicのJD Kanani代表は「3D Sceneでは、クリエイターが3D空間で人物の動線とカメラの動きを直接制御して演出意図を正確に実現でき、有料クレジットを消費せずに場面を事前検証してから最終生成できるため、スタジオの予算と時間の削減に役立つだろう」と述べた。"
+        }
+      ]
+    },
+    "movies/astana-ai-film-grand-prix": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "RxHoSyLNNRo"
+        },
+        {
+          "t": "p",
+          "x": "ラトビアの映画監督Nikolay Shestakが、カザフスタン(Kazakhstan)で開かれた初のAstana AI Film Festivalで、人工知能を使って制作した映画「The First Honest Day」により$450,000(€401,000)のグランプリ(Grand Prix)を獲得した。作中では、悪い行いをすると登場人物の外見が醜くなり、善い行いをすると良い方向へ変わる。"
+        },
+        {
+          "t": "p",
+          "x": "「正直、勝てるとは思っていなかった」と、二年前にAIで映画を作り始めたShestakは語った。二位はインド(India)のAbhik Banerjeeによる「SITARA」($200,000)、三位はスペイン(Spain)のErnest Desumbilaによる「Looking For Perseida」($100,000)だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_cb65c691-e518-598a-bd1f-08cb35591bbf-9939242.jpg",
+          "cap": "Astana AI Film Festivalのファイナリストたち。Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "審査ではAIツールの使い方に加え、芸術的なビジョン、ストーリーテリング、一貫性、技術がどれだけ自然に溶け込んでいるかも評価された。コンペには125カ国から8,000作を超える応募があり、最終プログラムに残った25作品は19のジャンルと80を超える生成AIモデルにまたがった。映画祭の基金総額は$2 millionで、半分が賞金、残り半分がAIチーム向けの投資資金に充てられた。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/93/92/42/808x539_cmsv2_b8134349-15c5-5ade-bd04-768a38e088d0-9939242.jpg",
+          "cap": "Astana AI Film Festivalの開幕式に臨むTokayev大統領(President Tokayev)。Copyright: Astana AI Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "映画祭の開幕を宣言したKassym-Jomart Tokayev大統領は「参入障壁は大きく下がった」と述べつつ、AIが映画製作者の創造的な役割に取って代わることはないとした。共同創設者のAizat Kussainovは「この映画祭の原動力はFOMOだった」と語った。"
+        }
+      ]
+    },
+    "movies/nikon-small-world-ai-disqualified": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/nikon-small-world-in-motion-ning-xu.png?quality=90&strip=all&crop=0%2C3.1340895869692%2C100%2C93.731820826062&w=1200",
+          "cap": "当初1位となった動画は、後処理にAIを使っていた。"
+        },
+        {
+          "t": "p",
+          "x": "Nikonは、Small World in Motionコンテストで当初1位となった動画が「生成AIに関する競技規定に適合していなかった」と発表した。Dr. Ning Xuによるこの作品は、呼吸器疾患PCDを抱える子どもの気道で、毛のように細い繊毛が動く様子を捉えたとされていた。Nikonは、ネット上で真偽を疑う声が上がったことを受けて審査を始めていた。"
+        },
+        {
+          "t": "p",
+          "x": "Dr. Ning XuはLinkedInで、超解像光学イメージングで得た画像の特徴を識別・可視化するため「その後、教師なしニューラルネットワーク手法をAI支援（AI-assisted）の後処理に用いた」と認めた。"
+        },
+        {
+          "t": "p",
+          "x": "動画は失格となってNikonのウェブサイトから削除され、現在はNguyen Nam Nhatが1位となっている。Nikonは「今後の出品作に向けて規定と審査手順を見直す」方針で、今回の決定は出品者の評判や科学的貢献、意図を評価するものと受け取るべきではないとしている。"
+        }
+      ]
     }
   }
 }
